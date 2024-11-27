@@ -1,0 +1,28 @@
+---
+nid: 11397
+title: Don explains the theory behind the depth sensor for the Riffle
+path: public/static/notes/laurenrae/11-24-2014/don-explains-the-theory-behind-the-depth-sensor-for-the-riffle.md
+uid: 431676
+tagnames: gulf-coast,water-sensing,water-quality-monitoring,sensors,riffle,coqui,depth,water-depth
+---
+
+# Don explains the theory behind the depth sensor for the Riffle
+
+###What I want to do
+
+In New Orleans, we have major issues with flooding and stormwater runoff, which contributes to the over-pumping of our soils to keep us dry.  We want a create a depth sensor that would allow us to measure the depth of the water table around green infrastructure projects such as rain gardens.  We came up with a working prototype that could be buried in the ground.
+
+There are lots of other uses for a digital depth sensor and data recorder.  We could put these in rain gauges, streams, and ponds.  They could record changes in depth from tides at coastal restoration projects.  We could do sooo much!  But first, we're going to have to do a lot of field testing. 
+
+###My attempt and results
+
+We applied this theory (video link: [http://youtu.be/-yEr4WnvxFc](http://youtu.be/-yEr4WnvxFc)) and built a working digital depth sensor.  Check out more about our experiment in Scott's research note: [http://publiclab.org/notes/eustatic/11-23-2014/riffing-on-the-riffle-the-youtube-files](http://publiclab.org/notes/eustatic/11-23-2014/riffing-on-the-riffle-the-youtube-files)
+
+<iframe width="420" height="315" src="//www.youtube.com/embed/-yEr4WnvxFc" frameborder="0" allowfullscreen></iframe>
+###Questions and next steps
+
+We think that temperature might effect the readings we get from this sensor.  We need to test this further and develop a calibration formula to compensate for changes in water temperature. 
+
+###Why I'm interested
+
+I'm very interested in developing low-cost water quality monitoring tools.  Conventional tools are extremely expensive.  The more money we have to spend on sensors, the less we can spend on construction of projects.  I want to help create a tool that will demonstrate how well green infrastructure stormwater management projects work, or alternatively, help designers build better projects if what they've built isn't working as expected. 

@@ -1,0 +1,41 @@
+---
+nid: 14859
+title: Methods
+path: public/static/wiki/methods.md
+uid: 1
+tagnames: methods,organization
+---
+
+# Methods
+
+The word "method" has different meanings in different spheres, at Public Lab we use it to mean any technique, approach, or set of techniques to achieve something. You can see a selection of them at the [Methods page](/methods), or post a new one using the instructions here:
+
+<a class="btn btn-primary" href="/wiki/new?n=14552&title=Your method name here">Post a new method here</a>
+
+## What goes into a method page
+
+Briefly, a method page could contain:
+
+* A one-line introduction to the method or set of methods
+* Context and background on the method
+* Questions and a prompt to add your own
+* Activities to guide people to how to begin using or contributing to the project
+
+A **much** more complete description of methods [can be found here](https://publiclab.org/notes/liz/12-07-2016/post-a-new-method-to-publiclab-org).
+
+****
+
+## Questions
+
+[questions:methods]
+
+## Activities
+
+[activities:methods]
+
+****
+
+## Templates
+
+* https://publiclab.org/wiki/method-template - a full template of what could/should be on a method page. Use it with [this link](/wiki/new?n= 13732&title=Your method name here)
+* https://publiclab.org/wiki/method-template-lite - a starting point to get your page up and started. Use it with [this link](/wiki/new?n=14552&title=Your method name here)
