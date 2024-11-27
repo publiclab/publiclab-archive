@@ -1,0 +1,15 @@
+---
+nid: 38733
+title: Collecting Microplastics in City Park
+path: public/static/notes/bhamster/03-02-2023/collecting-microplastics-in-city-park.md
+uid: 664477
+tagnames: microplastics,csf,community-science-forum,student-community-science,classroom-community-science,csf18
+---
+
+# Collecting Microplastics in City Park
+
+**A version of this story by high school students Kasey and Ashley is published in Public Lab's _Community Science Forum_, Issue 18. Read more from this issue <a href="https://publiclab.org/forum#Issue+18+Student-Led+Community+Science+Projects+(Summer+2021)">here</a>.**
+
+I believe community science is vital to any science course given during students’ academic years for many reasons. First of all, the experience of working on a research project with fellow classmates and people in the community is very mind opening. Working one-on-one with other people allows you to see the situation from different perspectives and collaborate in order to find a solution to the problem at hand. Moreover, it is important to have community research projects in order for members of the community to come together and fix an ongoing problem that may go unnoticed unless acted upon. In my opinion as a student, I believe that taking advantage of ongoing community science projects is essential for growing my perspective on different scientific issues in my community and growing my ability to work with others to accomplish a shared goal. Overall, I truly value the opportunity Public Lab is giving my class to do a research project because it will allow me to better my knowledge on the environment around me that I might take for granted. 
+
+Mrs. Merrill’s Biology Class at Archbishop Chapelle High School created a plan to use the “BabyLegs” trawling apparatus to look for microplastics in the water in City Park. We used canoes to get to hard-to-reach areas. We also collected about 10 pounds of plastic and other litter. We plan to use our data to advocate for a reduction in plastic pollution in our community. 

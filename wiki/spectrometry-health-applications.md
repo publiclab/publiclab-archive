@@ -1,0 +1,34 @@
+---
+nid: 7994
+title: Spectrometry health applications
+path: public/static/wiki/spectrometry-health-applications.md
+uid: 1
+tagnames: spectrometer,health,mhealth
+---
+
+# Spectrometry health applications
+
+Charles Hamilton, Amir Bernat, and [Jeff Warren](/profile/warren) are co-authoring a piece on the potential and challenges of handheld and/or wearable, low-cost spectrometry for mobile health applications. We were hoping people had some ideas and even links to papers or articles suggesting different such uses.
+
+Our plan is to survey the ideas out there, and highlight both the potential to achieve them with a low-cost device like ours, as well as outline the difficulties and challenges such a device needs to overcome to be useful for such analysis. In some or even many cases, we expect to say "well, this would take quite a bit more work, or a totally different design". 
+
+Can you help us by posting links to articles and papers you've seen that relate to **health, mHealth, wellness or fitness** applications for spectrometry? 
+
+We'll be collecting them on this page: 
+
+****
+
+**TED 2013: Uchek app tests urine for medical issues**
+
+http://www.bbc.co.uk/news/technology-21586082 - using color strips and smartphone camera
+
+**Article title**
+
+Details
+
+**From Nathan McCorkle:**
+Look up **Spatially Offset Raman Spectroscopy**, tons of noninvasive health and environmental data. Raman and Surface Enhanced Raman have tons of invasive apps...
+
+**Optical Technologies for the Determination of Pesticide Residue**
+
+Via Bob McCree: http://cdn.intechopen.com/pdfs/36189/InTech-Optical_technologies_for_determination_of_pesticide_residue.pdf
