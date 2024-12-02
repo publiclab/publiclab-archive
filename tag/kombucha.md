@@ -1,0 +1,8 @@
+[Using a home-made Spectrometer to test kombucha readiness](/notes/mkoistinen/2-12-2013/using-home-made-spectrometer-test-kombucha-readiness-0)
+[Dried Kombucha SCOBY Uses and Experiments](/wiki/dried-kombucha-scoby-uses-and-experiments)
+[kombucha leather](/wiki/kombucha-leather)
+[Does it matter what kind of tea i use to grow kombucha?](/notes/liz/01-19-2018/does-it-matter-what-kind-of-tea-i-use-to-grow-kombucha)
+[How can i manipulate kombucha leather?](/notes/liz/01-19-2018/how-can-i-manipulate-kombucha-leather)
+[What are some techniques for drying kombucha leather?](/notes/liz/01-19-2018/what-are-some-techniques-for-drying-kombucha-leather)
+[How do I dye kombucha leather?](/notes/liz/01-19-2018/how-do-i-dye-kombucha-leather)
+[What kinds of surface design / decoration can i apply to kombucha leather?](/notes/liz/01-19-2018/what-kinds-of-surface-design-decoration-can-i-apply-to-kombucha-leather)

@@ -1,0 +1,5 @@
+[Ranon reconfigures the rig](/notes/cfastie/08-27-2016/ranon-reconfigures-the-rig)
+[PET Bottle & Rubber Band Rig](/notes/mathew/09-23-2016/pet-bottle-rubber-band-rig-wiki-page-as-research-note)
+[How to Build a Specialty Phone Carriage](/notes/sdepolo/05-30-2017/how-to-build-a-specialty-phone-carriage)
+[Make a lightweight camera rig from corrugated plastic or cardboard](/notes/warren/08-07-2018/make-a-lightweight-camera-rig-from-corrugated-plastic-or-cardboard)
+[Tribal Intertidal Digital Ecological Surveys (TIDES)](/notes/RosaL/06-10-2021/tribal-intertidal-digital-ecological-surveys-tides)

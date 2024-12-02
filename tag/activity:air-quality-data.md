@@ -1,0 +1,5 @@
+[Data Visualization with Sheet Mapper: How to connect a live spreadsheet to a web map](/notes/laurel_mire/09-09-2021/data-visualization-with-sheet-mapper-how-to-connect-a-live-spreadsheet-to-a-web-map)
+[Create a “data story” to communicate environmental data](/notes/bhamster/12-02-2021/create-a-data-story-to-communicate-environmental-data)
+[How to visualize your location-based data in QGIS](/notes/laurel_mire/12-03-2021/how-to-visualize-your-location-based-data-in-qgis)
+[Data Cleaning with OpenRefine](/notes/fongvania/12-12-2021/data-cleaning-with-openrefine)
+[Visualize data from a Simple Air Sensor using onboard serial hardware](/notes/bhamster/12-17-2021/visualize-data-from-a-simple-air-sensor-using-onboard-serial-hardware)

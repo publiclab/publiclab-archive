@@ -1,0 +1,1 @@
+[share](/wiki/share)

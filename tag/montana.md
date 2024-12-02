@@ -1,0 +1,7 @@
+[SolveClimateNews: Montana Spill Pipeline May Have Carried Oil Sands Crude](/notes/warren/7-15-2011/solveclimatenews-montana-spill-pipeline-may-have-carried-oil-sands-crude)
+[Butte](/wiki/butte)
+[Butte, Montana: Centerville Neighborhood](/wiki/butte-montana-centerville-neighborhood)
+[Grassroots Mapping in Butte Goes Analog](/notes/mathew/12-13-2011/grassroots-mapping-butte-goes-analog)
+[Selecting Kite Flight Launch Sites in Centerville](/notes/olivia/2-16-2012/finding-kite-flight-launch-sites-centerville)
+[Centerville, the town at the crest of the Richest Hill on Earth](/wiki/centerville-the-town-at-the-crest-of-the-richest-hill-on-earth)
+[How big are smoke particles, in microns?](/notes/warren/08-30-2017/how-big-are-smoke-particles-in-microns)

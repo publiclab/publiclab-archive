@@ -1,0 +1,5 @@
+[PLab Spectrometer Gain-Correction](/notes/stoft/02-25-2015/plab-spectrometer-gain-correction)
+[PLab 3 Gain Correction](/notes/stoft/03-06-2015/plab-3-gain-correction)
+[Training to Increase speed](/notes/abiodundawuw/04-15-2017/training-to-increase-speed)
+[What are the best settings for a Camera?](/notes/amayas/03-27-2021/what-are-the-best-settings-for-a-camera)
+[Online Courses For Free](/notes/scarletjohnson/08-20-2021/online-courses-for-free)

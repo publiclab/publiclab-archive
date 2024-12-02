@@ -1,0 +1,6 @@
+[PhotosynQ at Bay Area Maker Faire](/notes/gbathree/05-17-2014/photosynq-at-bay-area-maker-faire)
+[Picayune Make Meeting Notes for 16 August 2014](/notes/danbeavers/08-21-2014/picayune-make-meeting-notes-for-16-august-2014)
+[Kits Docs](/wiki/kits-docs)
+[Ideas for a DIY + Maker class for 6th graders](/notes/Kmckeown/08-22-2018/ideas-for-a-diy-maker-class-for-6th-graders)
+[Chatbot maker](/notes/Karahahn/05-14-2019/chatbot-maker)
+[3D Scale Model Maker Company - Maadhu Creatives](/notes/maadhucreatives/11-25-2021/3d-scale-model-maker-company-maadhu-creatives)

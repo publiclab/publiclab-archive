@@ -1,0 +1,6 @@
+[Study on the spectra observed from a homemade spectroscope](/notes/Karmanya/12-19-2016/study-on-the-spectra-observed-from-a-homemade-spectroscope)
+[Transifex Internationalisation of Publiclab.org](/notes/pipix51/12-27-2016/transifex-internationalisation-of-publiclab-org)
+[Transifex tutorial for beginners](/notes/adarshkumar/12-31-2016/transifex-tutorial-for-beginners)
+[Using Transifex's Translating Platform](/notes/gegeneo/01-03-2017/using-transifex-s-translating-platform)
+[Translating project files using transifex](/notes/sanchittechnogeek/01-03-2017/translating-project-files-using-transifex)
+[Google Code-in 2016 with FOSSASIA](/notes/ananyo2012/02-04-2017/google-code-in-2016-with-fossasia)

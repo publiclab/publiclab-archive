@@ -1,0 +1,7 @@
+[Kits Initiative](/wiki/kits)
+[Set up a Raspberry Pi Camera with Pi Builder](/notes/warren/05-20-2019/set-up-a-raspberry-pi-camera-with-pi-builder)
+[Welcoming Public Lab's new Executive Director](/notes/stevie/04-27-2021/welcoming-public-lab-s-new-executive-director)
+[Timeline of the Talon-Rio Tinto Mine](/notes/noah_ben_furman/08-04-2022/timeline-of-the-talon-rio-tinto-mine)
+[Local Social Context of the Fight Against Extraction ](/notes/Bee/09-20-2022/local-social-context-of-the-fight-against-extraction)
+[Free, prior informed consent obligation to Indigenous Tribes](/notes/JuliaGuerrein/10-23-2022/free-prior-informed-consent-obligation-to-indigenous-tribes)
+[Minnesota General Public Comment](/notes/JuliaGuerrein/01-24-2023/minnesota-general-public-comment)

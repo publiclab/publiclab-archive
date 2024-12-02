@@ -1,0 +1,5 @@
+["where do the maps go?" ](/notes/hagitkeysar/11-18-2013/where-do-the-maps-go)
+[Facilitate your meetings](/wiki/facilitation)
+[Project planning and community thriving](/notes/timsan/01-13-2016/project-planning-and-community-thriving)
+[RGSoC proposal : Pollution tracker](/notes/evjam/03-01-2018/pollution-tracker)
+[Introducing the SERC Manual](/notes/AyakoM/05-16-2018/serc-manual-coming-soon-to-public-lab-store)

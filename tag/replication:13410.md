@@ -1,0 +1,6 @@
+[Oil testing kit Beta programme - Calibration notes](/notes/Cindy_ExCites/10-31-2015/oil-testing-kit-beta-programme-calibration-notes)
+[testspectral](/notes/hns/12-13-2016/testspectral)
+[Calibrating the spectrometer](/notes/hns/12-13-2016/calibrating-the-spectrometer)
+[Foldable Spectrometer Workshop for Cities](/notes/nicholas/02-28-2017/foldable-spectrometer-workshop-for-cities)
+[ING](/notes/jaimesalamanca/04-14-2017/ing)
+[Successful Calibration of the papercraft spectrometer](/notes/scottkmcrae/01-06-2018/successful-calibration-of-the-papercraft-spectrometer)

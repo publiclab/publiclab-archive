@@ -1,0 +1,7 @@
+[Event! Welcome to a public research area review on wastewater, July 27](/notes/bhamster/07-20-2021/event-welcome-to-a-public-research-area-review-on-wastewater-july-27)
+[Reviewing and refreshing the topic of wastewater](/notes/bhamster/07-23-2021/reviewing-and-refreshing-the-topic-of-wastewater)
+[Join Public Lab Fellows on community calls about air, water, land, and organizing and advocacy](/notes/laurel_mire/08-17-2021/join-public-lab-fellows-on-community-calls-about-air-water-land-and-organizing-and-advocacy)
+[Post your photos of possible wastewater pollution! / ¡Postea tus fotos de aguas posiblemente residuales! 📷](/notes/bhamster/08-18-2021/post-your-photos-of-possible-wastewater-pollution-postea-tus-fotos-de-aguas-posiblemente-residuales)
+[EVENT: Wondering about Wastewater? Join us for a series of events to wrap up Public Lab’s latest research area review!](/notes/bhamster/09-14-2021/event-wondering-about-wastewater-join-us-for-a-series-of-events-to-wrap-up-public-lab-s-latest-research-area-review)
+[Getting the scoop on Wastewater: Summary of a research area review](/notes/bhamster/10-15-2021/getting-the-scoop-on-wastewater-summary-of-a-research-area-review)
+[Activity: Air Pollution Gardens](/notes/fongvania/02-17-2022/activity-air-pollution-gardens)

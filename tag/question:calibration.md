@@ -1,0 +1,7 @@
+[Question: Spectrometer Desing](/notes/Deforme/12-17-2014/question-spectrometer-desing)
+[How can you calculate microscope magnification with just a calibration slide?](/notes/bronwen/10-04-2018/how-can-you-calculate-microscope-magnification-with-just-a-calibration-slide)
+[please help!](/notes/Jovana/06-11-2019/please-help)
+[How can I get the menu to calibrate SpectralWorkbench?](/notes/experimentierwerkstatt_dm/04-27-2020/how-can-i-get-the-menu-to-calibrate-spectralworkbench)
+[How long do you need to co-locate an air quality tool to get what you need to calibrate or  "ground truth" another tool? ](/notes/stevie/12-07-2021/how-long-do-you-need-to-co-locate-an-air-quality-tool-to-get-what-you-need-to-calibrate-or-ground-truth-another-tool)
+[Filme-HD Južni vetar 2 |2021| ceo film online sa prevodom](/notes/dandiyasin/12-10-2021/filme-hd-juzni-vetar-2-2021-ceo-film-online-sa-prevodom)
+[How Custom Earring Box Give Fine Appearance?](/notes/bleackkendall5/12-17-2021/how-custom-earring-box-give-fine-appearance)

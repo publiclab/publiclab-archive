@@ -1,0 +1,8 @@
+[[Event] Oil rains from Valero / Murphy facility  Tania Dall / WWL](/notes/eustatic/10-27-2013/event-oil-rains-from-valero-murphy-facility-tania-dall-wwl)
+[Flare Spectrometer proposal in Shreveport and Meraux Louisiana](/notes/AndyZ/11-22-2013/flare-spectrometer-proposal-in-shreveport-and-meraux-louisiana)
+[Refinery Watching](/wiki/refinery-watching)
+[Mystic River](/wiki/mystic-river)
+[First wireless transmission, mchck to mchck!](/notes/donblair/01-14-2014/first-wireless-transmission-mchck-to-mchck)
+[Announcing an ioby + Public Lab partnership](/notes/warren/01-15-2014/announcing-an-ioby-public-lab-partnership)
+[Open Water](/wiki/open-water)
+[Mapping Lead-Free Water](/notes/smmontgom/08-21-2016/mapping-lead-free-water)

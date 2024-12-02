@@ -1,0 +1,6 @@
+[Ultraviolet spectrometry](/wiki/uv-spectrometry)
+[Spectrometer testing](/notes/cfastie/12-3-2012/spectrometer-testing)
+[Ebert](/notes/cfastie/2-19-2013/ebert)
+[Troubleshooting: White light instead of emission spectra](/notes/lionheadrex/06-22-2014/troubleshooting-white-light-instead-of-emission-spectra)
+[DVD Grating vs. Holographic Film](/notes/jenjimah/06-12-2019/dvd-grating-vs-holographic-film)
+[grating calibration](/notes/cure828282/09-30-2021/grating-calibration)

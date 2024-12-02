@@ -1,0 +1,5 @@
+[Balloon Mapping From the Ground Up: Public Lab's Field Techniques](/notes/gonzoearth/1-2-2013/balloon-mapping-ground-public-labs-field-techniques)
+[Using Photosynth to automatically stitch images from kite-mapping](/notes/espero/09-13-2014/using-photosynth-to-automatically-stitch-images-from-kite-mapping)
+[Pole Mapping Kit Instructions](/wiki/pole-mapping-kit-instructions)
+[Reconfigurable Rig](/wiki/reconfigurable-rig)
+[Aerial Photography](/wiki/aerial-photography)

@@ -1,0 +1,6 @@
+[spectrum matching](/notes/jeffreyjoy/1-13-2012/spectrum-matching)
+[Matching olive oil spectra in SpectralWorkbench](/notes/warren/7-2-2012/matching-olive-oil-spectra-spectralworkbench)
+[Finding closest match spectra from the database (GSoC) - work done so far](/notes/Sreyanth/07-29-2013/finding-closest-match-spectra-from-the-database-gsoc-work-done-so-far)
+[Flare Spectrometer proposal in Shreveport and Meraux Louisiana](/notes/AndyZ/11-22-2013/flare-spectrometer-proposal-in-shreveport-and-meraux-louisiana)
+[Continued literature review for the Oil Testing Kit](/notes/warren/08-14-2014/continued-literature-review-for-the-oil-testing-kit)
+[Various CFLs with Different Spectra](/notes/Matej/02-24-2016/various-cfls-with-different-spectra)

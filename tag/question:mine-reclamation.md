@@ -1,0 +1,6 @@
+[Enforcement on inactive permits?](/notes/ekpeterman/10-28-2021/enforcement-on-inactive-permits)
+[Is there federal-level recourse that communities can take when mine reclamation is not being done properly?](/notes/bhamster/02-10-2022/is-there-federal-level-recourse-that-communities-can-take-when-mine-reclamation-is-not-being-done-properly)
+[What pieces of information and what level of detail should communities look for in a mining land reclamation plan?](/notes/laurel_mire/02-11-2022/what-pieces-of-information-and-what-level-of-detail-should-communities-look-for-in-a-mining-land-reclamation-plan)
+[How do I find the reclamation permit for an active mine?](/notes/bhamster/02-22-2022/how-do-i-find-the-reclamation-permit-for-an-active-mine)
+[What are plausible uses for reclaimed mining land? ](/notes/laurel_mire/02-22-2022/what-are-plausible-uses-for-reclaimed-mining-land)
+[What are observable signs of improper reclamation practices at or around mining sites?](/notes/bhamster/03-02-2022/what-are-observable-signs-of-improper-reclamation-practices-at-or-around-mining-sites)

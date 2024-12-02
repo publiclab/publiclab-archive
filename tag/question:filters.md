@@ -1,0 +1,6 @@
+[What kinds of toxins can be filtered by plants, and how do we know?](/notes/warren/06-06-2017/what-kinds-of-toxins-can-be-filtered-by-plants-and-how-do-we-know)
+[Water Filter Effectiveness](/notes/Mempet/09-04-2017/water-filter-effectiveness)
+[Effective low-cost water filters to remove hydrogen sulfide?](/notes/gretchengehrke/10-19-2017/effective-low-cost-water-filters-to-remove-hydrogen-sulfide)
+[What are ways to make DIY filters to remove particulate pollution from indoor air?](/notes/Zengirl2/12-12-2017/what-are-ways-to-make-diy-filters-to-remove-particulate-pollution-from-indoor-air)
+[How do I make a air filter without filters?](/notes/Ag8n/04-27-2018/how-do-i-make-a-air-filter-without-filters)
+[How to do the white-balancing for the RED filter?](/notes/xmv79667/01-03-2020/how-to-do-the-white-balancing-for-the-red-filter)

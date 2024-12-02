@@ -1,0 +1,5 @@
+[Growing the Public Lab Software Development Community](/notes/justinmanley/12-21-2014/growing-the-public-lab-software-development-community)
+[Growing & Sustaining the Public Lab Software Development Community](/wiki/growing-sustaining-the-public-lab-software-development-community)
+[ Start planning now to begin making an app in 2 months  ](/notes/alexvolski/08-03-2017/start-planning-now-to-begin-making-an-app-in-2-months)
+[[withdrawn] GSoC Proposal: Mapknitter Overhaul ](/notes/gauravano/04-07-2019/gsoc-proposal-mapknitter-overhaul)
+[GSoC 2019: Mapknitter Image Management - Divya Baid](/notes/divyabaid16/08-24-2019/gsoc-2019-mapknitter-image-management-divya-baid)

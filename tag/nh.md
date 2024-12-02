@@ -1,0 +1,5 @@
+[ iFARM 2015  “Experiencing the Sensed Landscape”](/notes/dorncox/05-06-2015/ifarm-2015-experiencing-the-sensed-landscape)
+[iFARM 2015 report](/notes/cfastie/05-21-2015/ifarm-2015-report)
+[MultispeQ at iFARM](/notes/cfastie/05-22-2015/multispeq-at-ifarm)
+[iFARM aerial panoramas](/notes/cfastie/05-22-2015/ifarm-aerial-panoramas)
+[First EOS M aerials](/notes/cfastie/08-13-2016/first-eos-m-aerials)

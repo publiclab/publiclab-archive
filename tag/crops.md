@@ -1,0 +1,8 @@
+[Pasture measurement using NIR camera](/notes/drkatnz/01-24-2014/pasture-measurement-using-nir-camera)
+[iFARM 2014](/notes/dorncox/05-10-2014/ifarm-2014)
+[iFarm UAV Field Day](/notes/cfastie/05-19-2014/ifarm-uav-field-day)
+[iFarm tech talks](/notes/cfastie/05-20-2014/ifarm-tech-talks)
+[iFarm tour](/notes/cfastie/05-20-2014/ifarm-tour)
+[Can Infragrams be used to count coconuts/crop productivity?](/notes/James_Vagabond/01-10-2018/can-infragrams-be-used-to-count-coconuts-crop-productivity)
+[I am getting very low NDVI values.](/notes/Anice/01-09-2019/i-am-getting-very-low-ndvi-values)
+[MapKnitter map of uf_citra_strawberry](/notes/ganhao89/02-20-2019/mapknitter-map-of-uf_citra_strawberry)

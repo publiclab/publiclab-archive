@@ -1,0 +1,6 @@
+[¿Cómo detectar abrillantadores ópticos (aguas residuales) yendo a un río? / How to detect optical brighteners (wastewater) going to a river?](/notes/alejobonifacio/08-04-2021/como-detectar-abrillantadores-opticos-aguas-residuales-yendo-a-un-rio-how-to-detect-optical-brighteners-wastewater-going-to-a-river)
+[How to find out if waterbodies near you in the US are healthy or impaired](/notes/bhamster/08-12-2021/how-to-find-out-if-waterbodies-near-you-in-the-us-are-healthy-or-impaired)
+[How to report pollution entering your local stormwater system in the US](/notes/bhamster/08-20-2021/how-to-report-pollution-entering-your-local-stormwater-system-in-the-us)
+[¿Cómo evaluar la calidad de un río con insectos acuáticos (bioindicadores)? / How do I assess the quality of an river with aquatic insects (bioindicators)?](/notes/alejobonifacio/09-03-2021/como-evaluar-la-calidad-de-un-rio-con-insectos-acuaticos-bioindicadores-how-do-i-assess-the-quality-of-an-river-with-aquatic-insects-bioindicators)
+[¿“Pelo” gris en el agua ríos y arroyos? ](/notes/alejobonifacio/02-23-2022/pelo-gris-en-el-agua-rios-y-arroyos)
+[Did you see gray “hair” in the bottom of freshwater bodies?](/notes/alejobonifacio/02-01-2022/did-you-see-gray-hair-in-the-bottom-of-freshwater-bodies)

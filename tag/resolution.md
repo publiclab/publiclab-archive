@@ -1,0 +1,8 @@
+[calculating pixel resolution](/wiki/calculating-pixel-resolution)
+[Question: I want to do citizen bee science](/notes/FortunaWolf/04-18-2016/question-i-want-to-do-citizen-bee-science)
+[High-Rez WebCam Spectrometers](/notes/stoft/10-23-2016/high-rez-webcam-spectrometers)
+[what data-logger will work with my portable HCHO meter?](/notes/nshapiro/03-27-2018/what-data-logger-will-work-with-my-portable-hcho-meter)
+[Looking for hands-on help with a datalogger!](/notes/bronwen/04-11-2018/looking-for-hands-on-help-with-a-datalogger)
+[Community Microscope Initial Evaluation](/notes/MaggPi/05-21-2018/community-microscope-resolution-test)
+[Advertising Agency in Bangladesh](/notes/NextResolutionFilms/09-12-2019/advertising-agency-in-bangladesh)
+[Digital Marketing Agency in Bangladesh](/notes/NextResolutionFilms/09-12-2019/digital-marketing-agency-in-bangladesh)

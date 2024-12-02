@@ -1,0 +1,7 @@
+[Hacking trail cameras to document blasts on Mountaintop Removal sites](/notes/LauraChipley/09-18-2015/hacking-trail-cameras-to-document-blasts-on-mountaintop-removal-sites)
+[Zero dark thirsty: Capturing replenishing nighttime rain events with a trail camera](/notes/cfastie/09-20-2016/zero-dark-thirsty-capturing-replenishing-nighttime-rain-events-with-a-trail-camera)
+[Trail camera on State Park Land?](/notes/DMerwitz/10-17-2016/trail-camera-on-state-park-land)
+[How do I make a video from a series of photos?](/notes/warren/12-05-2016/how-do-i-make-a-video-from-a-series-of-photos)
+[Air Quality Monitoring at UWEC](/notes/bkleist/02-10-2017/air-quality-monitoring-at-uwec)
+[Trail Cam: Stream/ Wetland Sedimentation](/notes/dswenson/02-26-2017/trail-cam-stream-wetland-sedimentation)
+[UWEC air quality monitoring](/notes/bkleist/04-04-2017/uwec-air-quality-monitoring)

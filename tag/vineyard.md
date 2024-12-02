@@ -1,0 +1,5 @@
+[Example NDVI usage in a vineyard](/notes/warren/1-7-2011/example-ndvi-usage-vineyard)
+[SLO pre flight](/notes/jl/4-20-2012/slo-pre-flight)
+[Lincoln Peak Vineyard](/notes/cfastie/6-13-2012/lincoln-peak-vineyard)
+[Mapping Vineyards with Quadcopter Using converted Canon Powershot A495](/notes/bc512/08-18-2013/mapping-vineyards-with-quadcopter-using-converted-canon-powershot-a495)
+[Extremely Precise mapping](/notes/bc512/08-30-2013/extremely-precise-mapping)

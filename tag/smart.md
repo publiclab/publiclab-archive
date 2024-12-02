@@ -1,0 +1,7 @@
+[Idea:80%COMPLETED-SAP project (Smart Agriculture Payload)](/wiki/idea-80-completed-sap-project-smart-agriculture-payload)
+[Question: SAP technology insights](/notes/Nymann/09-27-2016/question-sap-technology-insights)
+[Assemble a DIY Papercraft Spectrometer](/notes/abdul/10-19-2016/foldable-paper-spectrometer-instructions)
+[Built the entry level paperkit](/notes/Swede2/01-07-2018/built-the-entry-level-paperkit)
+[Abii](/notes/JaneBaz/06-19-2019/abii)
+[Best smartwatch for i phone & android 2019](/notes/shafi01/07-05-2019/best-smartwatch-for-i-phone-android-2019)
+[Cheap SMTP Server Hosting](/notes/massmailservers/11-30-2019/cheap-smtp-server-hosting)

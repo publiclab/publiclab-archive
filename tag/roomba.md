@@ -1,0 +1,6 @@
+[The Roomba Project](/notes/byeongwon/12-19-2010/roomba-project)
+[Roomba indoor air quality mapping](/wiki/roomba-indoor-air-quality-mapping)
+[Formaldehyde Sensing for Indoor air-pollution](/notes/sara/12-13-2011/formaldehyde-sensing-indoor-air-pollution)
+["Hamster ball" alternative to Roomba](/notes/warren/1-20-2012/hamster-ball-alternative-roomba)
+[Air-testing hamster ball progress](/notes/warren/2-6-2012/air-testing-hamster-ball-progress)
+[Roomba Air Quality Monitoring](/wiki/roomba-air-quality-monitoring)

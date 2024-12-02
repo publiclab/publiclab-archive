@@ -1,0 +1,6 @@
+[Outreachy proposal: Rebuilding Spectral Workbench capture and analysis interface](/notes/wajeehamushtaq1/10-27-2021/outreachy-proposal-rebuilding-spectral-workbench-capture-and-analysis-interface)
+[Outreachy proposal: Refine the Public Lab Rich Editor](/notes/ezrajet9/11-01-2021/outreachy-proposal-refine-the-public-lab-rich-editor)
+[Outreachy proposal: Rebuilding Spectral Workbench capture and analysis interface](/notes/pzgeorjane/11-02-2021/outreachy-proposal-rebuilding-spectral-workbench-capture-and-analysis-interface)
+[Outreachy proposal: Refine the public lab rich editor](/notes/corpbjahmad/11-04-2021/outreachy-proposal-refine-the-public-lab-rich-editor)
+[Outreachy Proposal - Refine the Public Lab Rich Editor](/notes/NaruDesigns/11-05-2021/outreachy-proposal-refine-the-public-lab-rich-editor)
+[Outreachy proposal: Refine the Public Lab Rich Editor](/notes/anayocrescent2/11-05-2021/outreachy-proposal-refine-the-public-lab-rich-editor)

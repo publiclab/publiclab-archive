@@ -1,0 +1,6 @@
+[Common Water Contaminants](/wiki/common-water-contaminants)
+[open-water-events](/wiki/open-water-events)
+[555-conductivity-meter](/wiki/555-conductivity-meter)
+[Mãe d'água - Rede InfoAmazonia ](/wiki/mae-d-agua-rede-infoamazonia)
+[How we built an open source project to monitor water quality](/notes/vjpixel/02-02-2017/how-we-built-an-open-source-project-to-monitor-water-quality)
+[rede-infoamazonia](/wiki/rede-infoamazonia)

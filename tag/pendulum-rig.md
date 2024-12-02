@@ -1,0 +1,6 @@
+[Mobius](/wiki/mobius)
+[Rollup of mobius pendulum kit ideas](/notes/tonyc/01-27-2016/rollup-of-mobius-pendulum-kit-ideas)
+[a pendulum rig flies over China](/notes/liz/02-01-2016/a-pendulum-rig-flies-over-china)
+[Hand Assembled Pendulums](/notes/ranon/07-11-2016/hand-assembled-pendulums)
+[$1 Aerial Rig](/notes/tonyc/07-19-2016/1-aerial-rig)
+[Pendulum or Picavet for Kites. Why?](/notes/pdhixenbaugh/09-12-2020/pendulum-or-picavet-for-kites-why)

@@ -1,0 +1,6 @@
+[NDVI workshop - Barcelona](/notes/imvec/05-18-2018/ndvi-workshop)
+[MapKnitter map of Collado Villalba ](/notes/imvec/09-29-2018/mapknitter-map-of-collado-villalba)
+[MapKnitter map of Collado Villalba (2)](/notes/imvec/02-11-2019/mapknitter-map-of-collado-villalba-2)
+[Ballon mapping Monte Neme](/notes/imvec/10-01-2021/ballon-mapping-monte-neme)
+[Subsoil sampling guide](/notes/imvec/07-01-2022/subsoil-sampling-guide)
+[Guía de muestreo de subsuelo](/notes/imvec/07-02-2022/guia-de-muestreo-de-subsuelo)

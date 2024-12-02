@@ -1,0 +1,5 @@
+[Calibrating DIY NIR cameras – part 1](/notes/nedhorning/10-21-2013/calibrating-diy-nir-cameras-part-1)
+[Calibrating DIY NIR cameras – part 2](/notes/nedhorning/10-23-2013/calibrating-diy-nir-cameras-part-2)
+[Calibrating DIY NIR cameras - part 3](/notes/nedhorning/10-25-2013/calibrating-diy-nir-cameras-part-3)
+[Spec Cam to Infragram w/the flip of filter? (Rosco "Fire" #19)](/notes/Natalie/07-29-2014/spec-cam-to-infragram-w-the-flip-of-filter-rosco-fire-19)
+[How to calibrate infragram's Mobius camera for get accurate NDVI index?](/notes/Parth/01-25-2016/how-to-calibrate-infragram-s-mobius-camera-for-get-accurate-ndvi-index)

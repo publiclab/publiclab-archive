@@ -1,0 +1,6 @@
+[Foldup Spectrometer for iPhone](/notes/cfastie/1-4-2013/foldup-spectrometer-iphone)
+[reducing reflections in foldup spec](/notes/liz/04-11-2014/reducing-reflections-in-foldup-spec)
+[Fluorescence spectroscopy with the foldup + gelcap](/notes/mathew/09-12-2014/fluorescence-spectroscopy-with-the-foldup-gelcap)
+[Webcam brightness testing for Oil Testing Kit](/notes/warren/09-12-2014/webcam-brightness-testing-for-oil-testing-kit)
+[a paper spectrometer design](/notes/mathew/11-07-2014/a-paper-spectrometer-design)
+[Cardboard Foldable KAP Rig](/notes/ranon/06-14-2016/cardboard-foldable-kap-rig)

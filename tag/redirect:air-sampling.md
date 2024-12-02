@@ -1,0 +1,1 @@
+[bucket](/wiki/bucket)

@@ -1,0 +1,6 @@
+[How can I reduce ambient light inside the Desktop Spectrometry Starter Kit?](/notes/warren/09-19-2016/how-can-i-reduce-ambient-light-inside-the-desktop-spectrometry-starter-kit)
+[Good guides on doing a photo survey of a site?](/notes/warren/03-14-2017/good-guides-on-doing-a-photo-survey-of-a-site)
+[Possible sources of more spectrometer information](/notes/Ag8n/02-03-2018/possible-sources-of-more-spectrometer-information)
+[How do I...use this with rtlsdr?](/notes/Ag8n/03-01-2018/how-do-i-use-this-with-rtlsdr)
+[Can we share examples of food buying collectives in food deserts?](/notes/wward1400/07-14-2018/can-you-share-some-examples-of-food-buying-collectives-in-food-deserts)
+[How do I... assemble the newer version kit](/notes/sixmanguru/10-08-2018/how-do-i-assemble-the-newer-version-kit)

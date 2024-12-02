@@ -1,0 +1,1 @@
+[odors](/wiki/odors)

@@ -1,0 +1,8 @@
+[Ethics and Politics](/wiki/ethics-and-politics)
+[Barnraising: Ethics of Practice](/notes/mathew/11-15-2012/barnraising-ethics-practice)
+[Where can I find models for community-university data co-ownership?](/notes/nshapiro/09-27-2017/where-can-i-find-models-for-community-university-data-co-ownership)
+[What are good resources for journaling on health related issues that could be connected to environmental concerns? ](/notes/stevie/03-21-2019/what-are-good-resources-for-journaling-on-health-related-issues-that-could-be-connected-to-environmental-concerns)
+[Of Darwin, Jesus, and the Tragedy of the Commons](/notes/Paternox/10-16-2019/of-darwin-jesus-and-the-tragedy-of-the-commons)
+[Thoughts on a model for community data enclosure](/notes/warren/12-06-2020/thoughts-on-a-model-for-community-data-enclosure)
+[Data Activism Conference 2021](/notes/amocorro/04-24-2021/data-activism-conference-2021)
+[12 Business Ethics You Should Know](/notes/smithmark/11-03-2022/12-business-ethics-you-should-know)

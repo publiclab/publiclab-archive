@@ -1,0 +1,7 @@
+[Waag Society: Citizen Science presentation](/notes/warren/6-27-2012/waag-society-citizen-science-presentation)
+[Amsterdam kite satellite](/notes/keimpe/6-29-2012/amsterdam-kite-satellite)
+[Kitemapping in the Netherlands](/notes/svanderwaal/09-06-2013/kitemapping-in-the-netherlands)
+[Amsterdam](/wiki/amsterdam)
+[Presentation at Waag Society's Eclectis program](/notes/warren/09-16-2013/presentation-at-waag-society-s-eclectis-program)
+[Eclectis](/wiki/eclectis)
+[Eclectis: a week of civic science in Amsterdam North](/notes/warren/09-25-2013/eclectis-a-week-of-civic-science-in-amsterdam-north)

@@ -1,0 +1,5 @@
+[Hydrogen Sulfide Testing With Black and White Film](/notes/jschaffr/10-18-2011/hydrogen-sulfide-testing-black-and-white-film)
+[Making Glycerol Solution for H2S film Assay](/notes/sara/3-29-2012/making-glycerol-solution-h2s-film-assay)
+[Procedure for Fixing H2S photographic paper strips](/notes/sara/3-29-2012/procedure-fixing-h2s-photographic-paper-strips)
+[Putting together H2S Test Kit](/notes/megan/9-6-2012/putting-together-h2s-test-kit)
+[ Sensing Hydrogen Sulfide from CAFO Emissions in Poweshiek County, Iowa](/notes/sophie/07-16-2014/sensing-hydrogen-sulfide-from-cafo-emissions-in-poweshiek-county-iowa)

@@ -1,0 +1,6 @@
+[Lending Libraries](/notes/liz/07-18-2014/lending-libraries)
+[Public Lab Lending Library](/wiki/lending-library)
+[Formaldehyde Testing Kit for Lending ](/notes/mathew/05-28-2015/formaldehyde-testing-kit-for-lending)
+[A Lending Library (shipping and other troubles in the holyland)](/notes/hagitkeysar/07-28-2015/a-lending-library-shipping-and-other-troubles-in-the-holyland)
+[FKit on the move](/notes/liz/08-25-2015/fkit-on-the-move)
+[Does anyone know if a sensor lending library exists?](/notes/Zengirl2/11-21-2017/does-anyone-know-if-a-sensor-lending-library-exists)

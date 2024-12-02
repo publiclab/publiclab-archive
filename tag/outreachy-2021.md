@@ -1,0 +1,6 @@
+[Call for Proposals: Outreachy Summer 2021](/notes/cess/04-04-2021/call-for-proposals-outreachy-summer-2021)
+[Outreachy proposal: Improve education-related usability and functionality on PublicLab.org](/notes/lukoyedith/04-27-2021/sample-draft)
+[Outreachy proposal: Education-related usability upgrades](/notes/mathildaudufo/04-26-2021/outreachy-education-related-usability-upgrades)
+[Outreachy proposal: Tag/topic system refinements](/notes/aliciapaz/04-28-2021/outreachy-proposal-tag-topic-system-refinements)
+[Outreachy proposal: Rebuilding Spectral Workbench capture and analysis interface](/notes/pzgeorjane/11-02-2021/outreachy-proposal-rebuilding-spectral-workbench-capture-and-analysis-interface)
+[Outreachy proposal: Refine the public lab rich editor](/notes/corpbjahmad/11-04-2021/outreachy-proposal-refine-the-public-lab-rich-editor)

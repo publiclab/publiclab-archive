@@ -1,0 +1,6 @@
+[What are sources for existing environmental data? ](/notes/stevie/12-01-2017/what-are-sources-for-existing-environmental-data)
+[Datasource](/wiki/datasource)
+[Comparing air quality databases: a fun activity](/notes/bhamster/11-30-2020/comparing-air-quality-databases-a-fun-activity)
+[How to find out past and current uses for an area of land](/notes/bhamster/02-19-2021/how-to-find-out-past-and-current-uses-for-an-area-of-land)
+[How to find out if waterbodies near you in the US are healthy or impaired](/notes/bhamster/08-12-2021/how-to-find-out-if-waterbodies-near-you-in-the-us-are-healthy-or-impaired)
+[Public & Open Environmental Data: presentation for CEEJH Community Science Workshop](/notes/bhamster/07-25-2022/public-open-environmental-data-presentation-for-ceejh-community-science-workshop)

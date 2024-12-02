@@ -1,0 +1,5 @@
+[Is there federal-level recourse that communities can take when mine reclamation is not being done properly?](/notes/bhamster/02-10-2022/is-there-federal-level-recourse-that-communities-can-take-when-mine-reclamation-is-not-being-done-properly)
+[How do I find the reclamation permit for an active mine?](/notes/bhamster/02-22-2022/how-do-i-find-the-reclamation-permit-for-an-active-mine)
+[What are plausible uses for reclaimed mining land? ](/notes/laurel_mire/02-22-2022/what-are-plausible-uses-for-reclaimed-mining-land)
+[What are observable signs of improper reclamation practices at or around mining sites?](/notes/bhamster/03-02-2022/what-are-observable-signs-of-improper-reclamation-practices-at-or-around-mining-sites)
+[Is there a federal program in the US for reclaiming abandoned oil wells?](/notes/bhamster/03-31-2022/is-there-a-federal-program-in-the-us-for-reclaiming-abandoned-oil-wells)

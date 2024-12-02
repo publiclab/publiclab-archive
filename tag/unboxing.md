@@ -1,0 +1,6 @@
+[First Measurement with Public Lab Desktop Spectrometry Kit](/notes/pluharj/1-9-2013/first-measurement-public-lab-desktop-spectrometry-kit)
+[Desktop Spectrometer Assembly Notes](/notes/sonofaquark/3-25-2013/desktop-spectrometer-assembly-notes)
+[Oil test kit Beta](/notes/RonHuber/09-17-2015/oil-test-kit-beta)
+[Oil Testing Kit Workshop at Art in Odd Places Festival](/notes/Matej/09-18-2015/oil-testing-kit-workshop-at-art-in-odd-places-festival)
+[OTK Unboxing](/notes/Matej/11-03-2015/otk-unboxing)
+[Great introductory packaging](/notes/warren/04-27-2016/great-introductory-packaging)

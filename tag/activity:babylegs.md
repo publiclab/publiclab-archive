@@ -1,0 +1,6 @@
+[Building BabyLegs (surface water trawl)](/notes/maxliboiron/07-17-2018/building-babylegs-surface-water-trawl)
+[How to use BabyLegs](/notes/maxliboiron/07-17-2018/how-to-use-babylegs)
+[How to process microplastic samples from a trawl](/notes/maxliboiron/07-19-2018/how-to-process-microplastic-samples-from-a-trawl)
+[How to analyze plastics forensically ](/notes/maxliboiron/07-19-2018/how-to-analyze-plastics-forensically)
+[BabyLegs in the classroom](/notes/maxliboiron/06-15-2019/babylegs-in-the-classroom)
+[Build a low-magnification "dissection microscope" for microplastics](/notes/warren/10-16-2019/build-a-low-magnification-dissection-microscope-for-microplastics)

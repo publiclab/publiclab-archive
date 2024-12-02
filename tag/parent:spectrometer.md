@@ -1,0 +1,5 @@
+[Spectrometer construction](/wiki/spectrometer-construction)
+[Desktop Spectrometry Kit](/wiki/dsk)
+[Smartphone spectrometer](/wiki/smartphone-spectrometer)
+[ottawa/homemade-spectrophotometer](/wiki/ottawa-homemade-spectrophotometer)
+[Low-cost multimeter colorimeter](/notes/jakemartin/12-01-2014/low-cost-multimeter-colorimeter)

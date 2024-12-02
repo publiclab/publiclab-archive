@@ -1,0 +1,8 @@
+[Garden PAP map](/notes/cfastie/08-11-2013/garden-pap-map)
+[Cal Poly EWB PAP (Pole Aerial Photography) mapping for India Project](/notes/patcoyle/04-21-2014/cal-poly-ewb-pap-pole-aerial-photography-mapping-for-india-project)
+[Equipo barato para PAP (FABApole)](/notes/Juan/05-05-2014/equipo-barato-para-pap-fabapole)
+[Acción PAP de urgencia (Gijón, Spain)](/notes/Juan/05-19-2014/accion-pap-de-urgencia-gijon-spain)
+[Tales from the Cryptogam](/notes/cfastie/12-24-2015/tales-from-the-cryptogam)
+[Fifty Shades of Graze](/notes/cfastie/04-25-2016/pole-ndvi-of-deer-grazing)
+[Graze anatomy](/notes/cfastie/05-23-2016/graze-anatomy)
+[Reconfigurable Rig](/wiki/reconfigurable-rig)

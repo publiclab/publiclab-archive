@@ -1,0 +1,1 @@
+[Streak](/wiki/streak)

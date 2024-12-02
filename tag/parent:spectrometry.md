@@ -1,0 +1,8 @@
+[Spectrometer](/wiki/spectrometer)
+[Oil Testing Kit](/wiki/oil-testing-kit)
+[Spectrometer History](/wiki/spectrometer-history)
+[Desktop Spectrometry Kit 3.0](/wiki/desktop-spectrometry-kit-3-0)
+[Make a Public Lab spectrometer](/wiki/economist)
+[Raspberry Pi Spectrometer](/wiki/raspberry-pi-spectrometer)
+[Papercraft Spectrometer Intro Kit](/wiki/papercraft-spectrometer)
+[Lego Spectrometer](/wiki/lego-spectrometer)

@@ -1,0 +1,5 @@
+[Public Lab Boston/Somerville coding meetup @ Parts & Crafts](/notes/warren/09-03-2015/public-lab-boston-somerville-coding-meetup-parts-crafts)
+[RAILS GIRLS NAIROBI MEGA CODING EVENT](/notes/stella/03-15-2018/rails-girls-nairobi-mega-coding-event)
+[Delhi Open source meetup at NSIT](/notes/tech4gt/04-14-2018/delhi-open-source-meetup-at-nsit)
+[SoC MeetUp at DTU](/notes/bansal_sidharth2996/09-12-2018/soc-meetup-at-dtu)
+[Public Lab Outreach Event - Jaipur](/notes/divyabaid16/08-19-2019/public-lab-outreach-event-jaipur)

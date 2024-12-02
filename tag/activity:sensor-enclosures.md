@@ -1,0 +1,7 @@
+[sketching a waterproof pop bottle sensor system](/notes/mathew/01-16-2015/sketching-a-waterproof-pop-bottle-sensor-system)
+[sensors in soda bottles](/notes/mathew/02-26-2015/sensors-in-soda-bottles)
+[Rubba Stoppaz](/notes/donblair/09-08-2015/rubba-stoppaz)
+[buoy for water sensor](/notes/DavidMack/09-11-2015/buoy-for-water-sensor)
+[Riffle Water Bottle Enclosure: rubber stopper w/hole + silicone sealant: > 8 weeks!](/notes/donblair/10-31-2015/riffle-water-bottle-enclosure-rubber-stopper-w-hole-silicone-sealant-8-weeks)
+[Riffle conductivity caps and other housing ideas](/notes/mathew/02-10-2016/riffle-conductivity-caps-and-other-housing-ideas)
+[Nalgene submarine](/notes/cfastie/03-11-2016/nalgene-submarine)

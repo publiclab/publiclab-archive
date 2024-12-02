@@ -1,0 +1,5 @@
+[Accessible procedure for calibrating conductivity measurements?](/notes/donblair/07-22-2014/accessible-procedure-for-calibrating-conductivity-measurements)
+[Anyone with experience using 316L welding rods for conductivity sensor probes?](/notes/MadTinker/09-12-2017/anyone-with-experience-using-316l-welding-rods-for-conductivity-sensor-probes)
+[Substitution for conductivity meter](/notes/Ag8n/02-12-2018/substitution-for-conductivity-meter)
+[DIY conductivity Sensors](/notes/roberts_ecofarm/10-24-2018/diy-conductivity-sensors)
+[Pros/cons to cheap handheld water meters for pH, TDS, conductivity?](/notes/warren/10-01-2019/pros-cons-to-cheap-handheld-water-meters-for-ph-tds-conductivity)

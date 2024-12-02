@@ -1,0 +1,7 @@
+[Chat](/chat)
+[Issues](/wiki/issues)
+[Region](/wiki/region)
+[Features](/wiki/features)
+[Locked pages](/wiki/locked)
+[Location privacy](/wiki/location-privacy)
+[API](/wiki/api)

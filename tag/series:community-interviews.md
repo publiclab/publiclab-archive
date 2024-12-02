@@ -1,0 +1,7 @@
+[What fuels a movement?](/notes/stevie/12-01-2016/what-fuels-a-movement)
+[Interview series with Grassroots Community Organizers](/notes/stevie/08-11-2017/interview-series-with-grassroots-community-organizers)
+[Interview: Ramsey Sprague](/notes/stevie/08-11-2017/interview-ramsey-sprague)
+[Interview: Karen Savage ](/notes/stevie/08-17-2017/interview-karen-savage)
+[Interview: Nayamin Martinez and Gustavo Aguirre Jr.](/notes/stevie/08-30-2017/interview-nayamin-martinez-and-gustavo-aguirre-jr)
+[Interview: Jim Gurley](/notes/stevie/10-02-2017/interview-jim-gurley)
+[Interview: Yvette Arellano](/notes/stevie/10-16-2017/interview-yvette-arellano)

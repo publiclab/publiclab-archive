@@ -1,0 +1,6 @@
+[Quantitative analysis using paper-based kits](/notes/fieldlab/05-06-2016/quantitative-analysis-using-paper-based-kits)
+[DIY methods for nitrate detection in food?](/notes/fez/02-01-2017/diy-methods-for-nitrate-detection-in-food)
+[Nitrogenous waste sensors for 24/7 monitoring](/notes/winsorje/03-24-2017/nitrogenous-waste-sensors-for-24-7-monitoring)
+[How to measure nutrient concetration in hydroponic system?](/notes/Aleksi12358/07-07-2018/how-to-measure-nutrient-concetration-in-hydroponic-system)
+[What are ways to monitor algae blooms? ](/notes/stevie/08-14-2018/what-are-ways-to-monitor-algae-blooms)
+[How can nitrogen/nitrates/ammonia be measured?](/notes/warren/03-12-2019/how-can-nitrogen-nitrates-ammonia-be-measured)

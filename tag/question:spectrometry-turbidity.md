@@ -1,0 +1,8 @@
+[Sample container search](/notes/warren/08-14-2014/sample-container-search)
+[Can I upgrade a DIY spectrometer with a Raspberry Pi camera?](/notes/warren/09-28-2016/upgrade-a-diy-spectrometer-with-a-raspberry-pi-camera)
+[What are good containers to use for spectrometry samples?](/notes/warren/09-29-2016/what-are-good-containers-to-use-for-spectrometry-samples)
+[Testing Water For Specific Polluting Compounds](/notes/rajanzaveri/04-11-2017/testing-water-for-specific-polluting-compounds)
+[Water Filter Effectiveness](/notes/Mempet/09-04-2017/water-filter-effectiveness)
+[What's an easy way to compare two liquid samples with a spectrometer?](/notes/warren/10-20-2017/what-s-an-easy-way-to-compare-two-liquid-samples-with-a-spectrometer)
+[Does the Beer Lambert law apply to the opacity of reagents?](/notes/warren/11-20-2017/does-the-beer-lambert-law-apply-to-the-opacity-of-reagents)
+[how to get rid of hair fall](/notes/ghdv1234/01-03-2019/how-to-get-rid-of-hair-fall)

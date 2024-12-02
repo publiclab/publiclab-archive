@@ -1,0 +1,8 @@
+[How to evaluate and choose an advocacy pathway](/notes/stevie/03-22-2017/how-to-evaluate-and-choose-an-advocacy-pathway)
+[Host an Issue Brief workshop](/wiki/host-an-issue-brief-workshop)
+[Workshop: Explore Issue Briefs with others ](/notes/stevie/11-14-2017/host-an-issue-brief-workshop)
+[Host a Goal Setting Workshop ](/notes/stevie/11-14-2017/host-a-goal-setting-workshop)
+[Workshop: Draft an Issue Brief with a group](/notes/stevie/01-23-2018/workshop-draft-an-issue-brief-with-a-group)
+[How to host a community meeting](/notes/kgradow1/09-26-2020/host-a-community-meeting-to-discuss-your-air-sampling-goals)
+[A First Look at Technical Documents](/notes/kgradow1/11-09-2020/a-first-look-at-technical-documents)
+[How to Use Your Bucket Data](/notes/A_SCH/11-09-2020/how-to-use-your-bucket-data-draft)

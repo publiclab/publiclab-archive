@@ -1,0 +1,7 @@
+[Riffle-esque WQ monitoring](/wiki/riffle-esque-wq-monitoring)
+[Pollution to Solution](/wiki/pollution-to-solution)
+[GPS tracking device](/wiki/gps-tracking-device)
+[Balloon mapping of local invasive species and town mapping ](/wiki/balloon-mapping-of-local-invasive-species-and-town-mapping)
+[DIY Hydroelectric Generator](/wiki/diy-hydroelectric-generator)
+[S.A.L.O.R. (Submersible Autonomous Liquid Oxygen Reporter)](/notes/n0reason/10-08-2014/salor)
+[S.A.L.O.R. (Submersible Autonomous Liquid Oxygen Reporter)](/wiki/s-a-l-o-r-submersible-autonomous-liquid-oxygen-reporter)

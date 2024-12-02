@@ -1,0 +1,5 @@
+[Serial communication via headphone jack](/notes/rmeister/06-10-2016/serial-communication-via-headphone-jack)
+[WebJack progress](/notes/rmeister/07-11-2016/webjack-progress)
+[WebJack: Testers needed!](/notes/rmeister/07-18-2016/webjack-testers-needed)
+[WebJack: Test without Arduino](/notes/rmeister/07-18-2016/webjack-test-without-arduino)
+[Visualize live sensor data with p5js and an Arduino](/notes/warren/02-08-2018/visualize-live-sensor-data-with-p5js-and-an-arduino)

@@ -1,0 +1,7 @@
+[Fake alcoholic drinks](/notes/dplus/2-3-2013/fake-alcoholic-drinks)
+[Late-night IRCAM hack](/notes/donblair/3-5-2013/late-night-ircam-hack)
+[IR/Visible light camera dreams & parts](/notes/mathew/3-11-2013/irvisible-light-camera-dreams-parts)
+[Open-Lux REV-N: Full Circle](/notes/donblair/04-21-2014/open-lux-rev-n-full-circle)
+[Curriculum for Infragram](/notes/amandaf/08-09-2014/curriculum-for-infragram)
+[Idea:80%COMPLETED-SAP project (Smart Agriculture Payload)](/wiki/idea-80-completed-sap-project-smart-agriculture-payload)
+[Question: SAP technology insights](/notes/Nymann/09-27-2016/question-sap-technology-insights)

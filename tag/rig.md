@@ -1,0 +1,6 @@
+[FABAoutfit for vertical  KAP and BAP](/notes/juan/6-5-2012/fabaoutfit-vertical-kap-and-bap)
+[Double Faucet Cover Rig for or infragram](/notes/eustatic/04-28-2014/double-faucet-cover-rig-for-or-infragram)
+[Equipo barato para PAP (FABApole)](/notes/Juan/05-05-2014/equipo-barato-para-pap-fabapole)
+[Saturn V KAP rig](/notes/Juanjo/08-17-2015/saturn-v-kap-rig)
+[How to Build a Specialty Phone Carriage](/notes/sdepolo/05-30-2017/how-to-build-a-specialty-phone-carriage)
+[Child-led R&D of camera rigs for mapping](/notes/molangmuir10/06-20-2019/designing-alternative-rigs-for-mapping)
