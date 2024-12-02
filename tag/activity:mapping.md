@@ -1,0 +1,7 @@
+[Easy ways to make precise maps](/notes/megan/9-6-2012/easy-ways-make-precise-maps)
+[How to Map](/wiki/how-to-map)
+[Stitching Images into Maps](/wiki/stitching-images-into-maps)
+[A Card Game Approach to Community Mapping](/notes/dbsnp/03-17-2019/a-card-game-approach-to-community-mapping)
+[How to decide on a tool for mapping](/notes/stevie/04-26-2019/how-to-decide-on-a-tool-for-mapping)
+[How to ... make your own community annotated map! ](/notes/julia_e_masters/06-09-2021/how-to-make-your-own-community-annotated-map)
+[How to visualize your location-based data in QGIS](/notes/laurel_mire/12-03-2021/how-to-visualize-your-location-based-data-in-qgis)

@@ -1,0 +1,7 @@
+[Advice for real-time monitoring](/notes/ottinger/08-30-2018/advice-for-real-time-monitoring)
+[Tips for environmental storytelling](/notes/joyofsoy/08-07-2020/tips-for-environmental-storytelling)
+[Limits and Levels](/notes/kgradow1/12-31-2020/statistics-for-action-limits-and-levels)
+[How do you make results from environmental monitoring personally meaningful to people?](/notes/bhamster/06-02-2021/how-do-you-make-results-from-environmental-monitoring-personally-meaningful-to-people)
+[How do you turn results about environmental pollution into personal actions that people can take?](/notes/bhamster/06-02-2021/how-do-you-turn-results-about-environmental-pollution-into-personal-actions-that-people-can-take)
+[Recap of Greenpeace's Data Activist Co-op 2021](/notes/laurel_mire/09-28-2021/recap-of-greenpeace-s-data-activist-co-op-2021)
+[What are examples of "real-life", immersive experiences that help people understand pollution?](/notes/fongvania/11-04-2021/what-are-examples-of-real-life-immersive-experiences-that-help-people-understand-pollution)

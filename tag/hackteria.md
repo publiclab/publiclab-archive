@@ -1,0 +1,5 @@
+[Raman Spectroscopy](/notes/dusjagr/04-28-2013/raman-spectroscopy)
+[How long does it take to build the hackteria microscope?   (is it easy?) ](/notes/kgradow1/09-30-2017/how-long-does-it-take-to-build-the-hackteria-microscope-is-it-easy)
+[Making a Hackteria stage](/notes/partsandcrafts/10-26-2017/making-a-hackteria-microscope)
+[Microscope build for Barnraising 2017](/notes/kgradow1/11-04-2017/prototype-build-for-barnraising-2017)
+[Overview: Hackteria Remix: Building a Basic Microscope with Raspberry Pi](/notes/partsandcrafts/11-26-2017/building-a-raspberry-pi-microscope)

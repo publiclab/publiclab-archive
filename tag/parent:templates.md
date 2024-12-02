@@ -1,0 +1,7 @@
+[method-template-lite](/wiki/method-template-lite)
+[Issue Brief Template](/wiki/issue-brief-template)
+[Project page template](/wiki/project-page-template)
+[activity-template](/wiki/activity-template)
+[replication-template](/wiki/replication-template)
+[Comment templates](/wiki/comment-templates)
+[Txbr-zine-template](/wiki/txbr-zine-template)

@@ -1,0 +1,5 @@
+[Soil Sampling](/wiki/soil-sampling)
+[Draft: Collect a sample for laboratory analysis](/notes/warren/09-07-2017/collect-a-sample-for-laboratory-analysis)
+[Soil Sampling Toolkit](/wiki/soil-testing-toolkit)
+[Subsoil sampling guide](/notes/imvec/07-01-2022/subsoil-sampling-guide)
+[Guía de muestreo de subsuelo](/notes/imvec/07-02-2022/guia-de-muestreo-de-subsuelo)

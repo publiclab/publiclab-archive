@@ -1,0 +1,6 @@
+[Balloon mapping workshop in Castellón (Spain): opening a local chapter](/notes/pablo/01-10-2014/balloon-mapping-workshop-in-castellon-spain-opening-a-local-chapter)
+[Mapping with balloons in Castellón and building community (results)](/notes/pablo/02-12-2014/mapping-with-balloons-in-castellon-and-building-community)
+[Spain](/wiki/spain)
+[Revealing the Invisible in Spain](/wiki/revealing-the-invisible-in-spain)
+[3er encuentro de Ciencia Ciudadana](/notes/imvec/11-25-2017/3er-encuentro-de-ciencia-ciudadana)
+[Taller de investigación fluvial DIY](/notes/imvec/02-11-2018/taller-de-investigacion-fluvial-diy)

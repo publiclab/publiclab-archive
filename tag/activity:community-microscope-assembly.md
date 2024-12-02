@@ -1,0 +1,6 @@
+[Lighting Your Sample](/notes/partsandcrafts/02-26-2018/4-lighting-your-sample)
+[Microscope Webcam Conversion](/notes/bronwen/05-07-2018/microscope-webcam-conversion)
+[Community Microscope Assembly Instructions](/notes/bronwen/05-07-2018/community-microscope-assembly-instructions)
+[Add a high-quality webcam to your Community Microscope kit using LEGO](/notes/warren/10-24-2018/add-a-high-quality-webcam-to-your-community-microscope-kit)
+[Make stages for the Community Microscope Kit](/notes/imvec/11-10-2018/community-microscope-laser-cut-file)
+[Assembling the Raspberry Pi Microscope](/notes/bronwen/11-29-2018/assembling-the-raspberry-pi-microscope)

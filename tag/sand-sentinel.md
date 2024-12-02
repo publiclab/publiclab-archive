@@ -1,0 +1,8 @@
+[Recent conversations on the frac sand issue](/notes/stevie/09-04-2018/recent-conversations-on-the-frac-sand-issue)
+[Notes from Tuesday’s frac sand call](/notes/stevie/09-14-2018/notes-from-tuesday-s-frac-sand-call)
+[Event: Frac Sand Mining Health Research Public Forum](/notes/stevie/04-03-2019/event-frac-sand-mining-health-research-public-forum)
+[Draft Sand Sentinel Program ](/notes/stevie/04-10-2019/draft-sentinel-program)
+[Practice reporting suspected frac sand violations ](/notes/stevie/07-30-2019/practice-reporting-suspected-frac-sand-violations)
+[Event: Wisconsin Sand Sentinel Training ](/notes/stevie/08-06-2019/event-wisconsin-sand-sentinel-training)
+[CANCELED Event: Sand Sentinel Training, Bloomer WI](/notes/stevie/03-04-2020/event-sand-sentinel-training-bloomer-wi)
+[Appreciating Reporting Support Materials](/notes/stevie/03-25-2021/appreciating-reporting-support-materials)

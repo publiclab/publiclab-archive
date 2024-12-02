@@ -1,0 +1,1 @@
+[Locked pages](/wiki/locked)

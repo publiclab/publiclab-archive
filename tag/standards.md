@@ -1,0 +1,6 @@
+[OGC work on Sensor Web Enablement](/notes/liz/3-9-2013/ogc-work-sensor-web-enablement)
+[http://LinkData.org](/wiki/http-linkdata-org)
+[Water quality instrumentation quality gottchas](/notes/neilh20/07-22-2014/water-quality-instrumentation-quality-gottchas)
+[Intended Purposes for Different Tools and Techniques](/notes/gretchengehrke/10-07-2015/intended-purposes-for-different-tools-and-techniques)
+[How can we more effectively combine community science and more conventional lab-based analysis that might be required to meet data standards?](/notes/fongvania/06-17-2021/how-can-we-more-effectively-combine-community-science-and-more-conventional-lab-based-analysis-that-might-be-required-to-meet-data-standards)
+[What are the best practices for the management of lab chemicals?](/notes/Rehan/03-25-2022/what-are-the-best-practices-for-the-management-of-lab-chemicals)

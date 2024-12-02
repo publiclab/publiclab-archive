@@ -1,0 +1,5 @@
+[Summer of Code programs](/wiki/gsoc)
+[Software](/wiki/software)
+[Contributing to Public Lab Software](/wiki/contributing-to-public-lab-software)
+[Summer of Code](/wiki/summer-of-code)
+[Software overview](/wiki/software-overview)

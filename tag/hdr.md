@@ -1,0 +1,6 @@
+[In Search of Spectrometer Attenuators](/notes/stoft/05-14-2013/in-search-of-spectrometer-attenuators)
+[HDR: In search of High-er Dynamic Range](/notes/stoft/5-25-2013/hdr-search-high-er-dynamic-range)
+[HDR2: Using Over-Exposure to Your Advantage](/notes/stoft/03-09-2014/hdr2-using-over-exposure-to-your-advantage)
+[GSoC Proposal SpectralWorkbench](/notes/PascalW/03-11-2014/gsoc-proposal-spectralworkbench)
+[High Dynamic Range (HDR) Imaging (revisited)](/notes/MaggPi/07-17-2018/high-dynamic-range-hdr-imaging-revisited)
+[A Method for HDR Imaging](/notes/jenjimah/06-12-2019/a-method-for-hdr-imaging)

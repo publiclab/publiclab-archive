@@ -1,0 +1,8 @@
+[Pierre's plastic Picavet](/notes/cfastie/04-15-2014/pierre-s-plastic-picavet)
+[The Titan 2 Rig](/notes/cfastie/04-28-2014/the-titan-2-rig)
+[Titan 2 IR](/notes/cfastie/06-22-2014/titan-2-ir)
+[Titan 2 IR flight](/notes/cfastie/08-08-2014/titan-2-ir-flight)
+[The LEAFFEST Line](/notes/cfastie/09-04-2014/the-leaffest-line)
+[The KAPtober Collection](/notes/cfastie/10-08-2014/the-kaptober-collection)
+[The Titan II, Unpacked ](/notes/geraldmc/11-08-2014/the-titan-ii-unpacked)
+[KAPtery Aerial Rigs](/wiki/kaptery-aerial-rigs)

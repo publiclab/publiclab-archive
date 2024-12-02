@@ -1,0 +1,5 @@
+["Rounding up" research areas?](/notes/liz/02-14-2018/rounding-up-research-areas)
+[Broadcasting the Barnraising?](/notes/liz/02-14-2018/broadcasting-the-barnraising)
+[Meetings? ](/notes/liz/02-14-2018/meetings)
+[Project management?](/notes/liz/02-14-2018/project-management)
+[poker online](/notes/godwin899888/07-11-2019/poker-online)

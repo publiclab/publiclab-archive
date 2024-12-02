@@ -1,0 +1,6 @@
+[Oil Testing Kit Beta](/wiki/oil-testing-kit-beta)
+[Oil Testing Kit Construction](/wiki/oil-testing-kit-construction)
+[Riffle CT (Conductivity & Temp) Beta Design: Electronics, Enclosure, Probes, Data Collection](/notes/donblair/12-13-2015/riffle-ct-conductivity-temp-beta-design-enclosure-probes-data-collection)
+[Oil Testing Beta --plus Grand Isle tar](/notes/eustatic/12-22-2015/oil-testing-beta-plus-grand-isle-tar)
+[Public Lab Workshop at the Sunview Luncheonette](/notes/Matej/02-04-2016/public-lab-workshop-at-the-subview-luncheonette)
+[A Test For Household Radiation](/notes/Dave-O/02-14-2017/a-test-for-household-radiation)

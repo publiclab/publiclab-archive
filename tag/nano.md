@@ -1,0 +1,5 @@
+[Inexpensive data logging](/notes/cfastie/04-25-2017/inexpensive-data-logging)
+[What would be a good basic activity to test out a data logging device in water? ](/notes/stevie/06-16-2017/what-would-be-a-good-basic-activity-to-test-out-a-data-logging-device-in-water)
+[Tutorial Connecting SpectralBench To IoT Datalogger?](/notes/LightWaveResearch8000/07-26-2017/tutorial-connecting-spectralbench-to-iot-datalogger)
+[Anti-Gravity Phone Case](/notes/antigravityphonecase/03-11-2020/anti-gravity-phone-case)
+[Printed electronic nose vapor sensors to control wine spoilage](/notes/oladsd/05-11-2020/printed-electronic-nose-vapor-sensors-to-control-wine-spoilage)

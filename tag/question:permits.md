@@ -1,0 +1,7 @@
+[Are there any exemptions under the NPDES? ](/notes/stevie/02-09-2017/are-there-any-exemptions-under-the-npdes)
+[What type of permits are required for gravel and asphalt processing facilities?](/notes/stevie/07-10-2018/what-type-of-permits-are-required-for-gravel-and-asphalt-processing-facilities)
+[How are gravel and asphalt companies regulated? ](/notes/stevie/07-10-2018/how-are-gravel-and-asphalt-companies-regulated)
+[How do I find out who is responsible for maintaining the roadway by my house? ](/notes/stevie/07-10-2018/how-do-i-find-out-who-is-responsible-for-maintaining-the-roadway-by-my-house)
+[What is a good way to track vehicular traffic?](/notes/stevie/07-13-2018/what-is-a-good-way-to-track-vehicular-traffic)
+[What are good resources, or things look look for, in reviewing environmental permits? ](/notes/stevie/07-17-2018/what-are-good-resources-or-things-look-look-for-in-reviewing-environmental-permits)
+[How do I find the reclamation permit for an active mine?](/notes/bhamster/02-22-2022/how-do-i-find-the-reclamation-permit-for-an-active-mine)

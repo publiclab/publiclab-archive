@@ -1,0 +1,1 @@
+[I want to know a method to quantify milk proteins using the foldable mini spectrometer, Is this possible?](/notes/julsmill/12-20-2017/i-want-to-know-a-method-to-quantify-milk-proteins-using-the-foldable-mini-spectrometer-is-this-possible)

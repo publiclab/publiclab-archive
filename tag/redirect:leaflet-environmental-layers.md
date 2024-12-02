@@ -1,0 +1,1 @@
+[LEL](/wiki/lel)

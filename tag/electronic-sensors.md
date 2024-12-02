@@ -1,0 +1,5 @@
+[Riffle: an Open Source Water Monitoring Approach](/riffle)
+[Coqui conductivity sensor](/wiki/coqui)
+[Fido - The Raspberry Pi based Temperature Alarm that sends text messages](/wiki/fido-the-raspberry-pi-based-temperature-alarm-that-sends-text-messages)
+[WebJack](/wiki/webjack)
+[What different electronic particulate pollution sensors are available and at what cost?](/notes/warren/02-16-2018/what-different-electronic-particulate-pollution-sensors-are-available-and-at-what-cost)

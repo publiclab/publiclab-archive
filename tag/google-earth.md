@@ -1,0 +1,7 @@
+[Public Lab Aerial Imagery in Google Earth](/notes/gonzoearth/04-30-2013/public-lab-aerial-imagery-in-google-earth)
+[TEDxUCDavis presentation from the University of California at Davis.](/notes/gonzoearth/06-24-2013/tedxucdavis-presentation-from-the-university-of-california-at-davis)
+[Lake Warner Workflow](/notes/cfastie/07-25-2013/lake-warner-workflow)
+[Water chestnut NRG](/notes/cfastie/07-29-2013/waterchestnut-nrg)
+[Solar ballon flight trajectory visualization](/notes/joaquinx/11-25-2017/solar-ballon-flight-trajectory-visualization)
+[https://thehealthconnection.blog/category/health-fitness/](/notes/henreyjohn784/01-12-2021/https-thehealthconnection-blog-category-health-fitness)
+[thehealthconnection.blog](/notes/henreyjohn784/01-12-2021/thehealthconnection-blog)

@@ -1,0 +1,7 @@
+[Titan 2 IR](/notes/cfastie/06-22-2014/titan-2-ir)
+[Titan 2 IR flight](/notes/cfastie/08-08-2014/titan-2-ir-flight)
+[PFK Nighthawk debut at LEAFFEST](/notes/cfastie/10-12-2015/pfk-nighthawk-debut-at-leaffest)
+[Soaring Riffle](/notes/cfastie/06-02-2016/soaring-riffle)
+[DIY Mini Kite Kit first flight](/notes/mathew/06-03-2016/diy-mini-kite-kit-first-flight)
+[Compost is hot, says Riffle](/notes/cfastie/06-09-2016/compost-is-hot-says-riffle)
+[The Aerobee Rig](/notes/cfastie/07-05-2016/the-aerobee-rig)

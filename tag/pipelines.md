@@ -1,0 +1,8 @@
+[Leaflet Environmental Layer Library - Part 2](/notes/sagarpreet/07-16-2018/leaflet-environmental-layer-library-part-2)
+[Auto-annotate iOS photos with GPS co'ords?](/notes/a1ahna/10-29-2018/auto-annotate-ios-photos-with-gps-co-ords)
+[How to build Emery Board Survey Tools ](/notes/a1ahna/12-03-2018/how-to-build-emery-board-survey-tools)
+[Terrain Surveying with Emery Boards](/notes/a1ahna/12-12-2018/terrain-surveying-with-emery-boards)
+[Making Emery Boards to measure elevation change](/notes/eustatic/01-13-2019/making-emery-boards-to-measure-elevation-change)
+[Pipeline Monitoring](/wiki/pipeline-monitoring)
+[Pipeline Webinar](/wiki/pipeline-webinar)
+[Emery Board as Bathymeter: ETP vs Beau Bayou](/notes/eustatic/01-11-2020/emery-board-as-bathymeter-etp-vs-beau-bayou)

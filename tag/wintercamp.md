@@ -1,0 +1,8 @@
+[2013 WinterCamp: New Orleans and Cocodrie, LA](/wiki/2013-wintercamp-new-orleans-and-cocodrie-la)
+[Notes for new Get Involved sequence](/wiki/en/get-involved)
+[New Comer Landing Page](/wiki/new-comer-landing-page)
+[Public Lab helps EVERYONE Monitor the Environment](/wiki/public-lab-helps-everyone-monitor-environment)
+[How any one can participate in the Public Lab community](/wiki/how-any-one-can-participate-public-lab-community)
+[Public Lab helps people create great Data](/wiki/public-lab-helps-people-create-great-data)
+[ Public Lab supports community investigations](/wiki/public-lab-supports-community-investigations)
+[community development](/wiki/community-development)

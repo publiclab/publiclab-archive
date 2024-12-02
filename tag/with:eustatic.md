@@ -1,0 +1,5 @@
+[The Water Hackathon Report](/notes/stevie/12-01-2014/the-water-hackathon-report)
+[Interview with Scott Eustis of the Gulf Restoration Network](/wiki/interview-with-scott-eustis-of-the-gulf-restoration-network)
+[Civic and Citizen Science: The Cocodrie Barnraising heats up](/wiki/civic-and-citizen-science-the-cocodrie-barnraising-heats-up)
+[Draft: Collect a sample for laboratory analysis](/notes/warren/09-07-2017/collect-a-sample-for-laboratory-analysis)
+[Community Science Oil and Gas Fellowship](/notes/stevie/09-05-2018/community-science-oil-and-gas-fellowship)

@@ -1,0 +1,5 @@
+[Interview: Nayamin Martinez and Gustavo Aguirre Jr.](/notes/stevie/08-30-2017/interview-nayamin-martinez-and-gustavo-aguirre-jr)
+[IRS CA Coaching](/notes/IRSCoaching/12-07-2018/irs-ca-coaching)
+[California bar exam](/notes/garrybrain/04-09-2019/california-bar-exam)
+[Gate repair Encino CA](/notes/marrylisa872/09-13-2019/gate-repair-encino-ca)
+[Web Design Santa Rosa CA](/notes/sperbereddie/10-28-2020/web-design-santa-rosa-ca)

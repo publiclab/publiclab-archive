@@ -1,0 +1,7 @@
+[Coqui conductivity sensor](/wiki/coqui)
+[SERC](/wiki/serc)
+[Mini Pearl Logger](/wiki/mini-pearl-logger)
+[Hydrogen Sulfide Copper Pipe Testing](/wiki/hydrogen-sulfide-copper-pipe)
+[Basic Microscope Kit](/wiki/basic-microscope)
+[Photometer Kit idea ](/notes/programmer1200/02-03-2018/photometer-kit-idea)
+[Photometer Kit Breakdown](/wiki/photometer-kit-breakdown)

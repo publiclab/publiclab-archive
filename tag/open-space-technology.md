@@ -1,0 +1,5 @@
+[precursor to "unconferences"](/notes/liz/3-5-2013/precursor-unconferences)
+[May 11 data collection workshop](/notes/liz/3-25-2013/may-11-data-collection-workshop)
+[report back from 2013 Just Food Conference](/notes/liz/4-2-2013/report-back-2013-just-food-conference)
+[Set up a schedule grid for an Open Space event](/notes/liz/03-07-2018/set-up-the-schedule-grid)
+[RAILS GIRLS NAIROBI MEGA CODING EVENT](/notes/stella/03-15-2018/rails-girls-nairobi-mega-coding-event)

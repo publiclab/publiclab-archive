@@ -1,0 +1,7 @@
+[Pasture measurement using NIR camera](/notes/drkatnz/01-24-2014/pasture-measurement-using-nir-camera)
+[Can infragrams provide useful measurements of how thirsty my lawn is?](/notes/WhiteRabbit/07-25-2014/can-infragrams-provide-useful-measurements-of-thirsty-my-lawn-is)
+[Accuracy of assembled Desktop Spectrometry kit?](/notes/WhiteRabbit/07-29-2014/question)
+[Absorbance of grass in blue light](/notes/vanjo63/02-21-2016/absorbance-of-grass-in-blue-light)
+[SOIL TESTING & DATA VIZ: SUMMER 2019 QUEENSBRIDGE TECH LAB COMMUNITY SCIENCE PROJECT](/notes/SadiePrego/12-05-2018/soil-testing-data-viz-summer-2019-queensbridge-tech-lab-community-science-project)
+[Sidewalk & Stones](/notes/mchao2/03-03-2020/sidewalk-stones)
+[Brisbane Grass Suppliers](/notes/synlawnap/07-01-2020/brisbane-grass-suppliers)

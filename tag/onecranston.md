@@ -1,0 +1,2 @@
+[Improved smartphone-friendly posting form designs: feedback welcome!](/notes/warren/09-23-2019/improved-smartphone-friendly-posting-form-designs-feedback-welcome)
+[Geo Storytelling](/wiki/rimap)

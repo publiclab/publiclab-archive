@@ -1,0 +1,1 @@
+[Introducing a new spectrometer design - "The Spectrotube"](/notes/El_Mar/04-18-2019/introducing-a-new-spectrometer-design-the-spectrotube)

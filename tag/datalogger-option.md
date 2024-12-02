@@ -1,0 +1,5 @@
+[An Arduino Based UnderWater Sensor Platform](/notes/EdMallon/02-11-2014/an-arduino-based-underwater-sensor-platform)
+[DataLogger: Part 2, Hardware design](/notes/JSummers/04-09-2014/datalogger-part-2-hardware-design)
+[Particle Electron](/notes/kinasmith/09-09-2016/particle-electron)
+[Simple data logger](/notes/david_uwi/04-25-2017/simple-data-logger)
+[Adafruit Feathers for datalogging](/notes/cfastie/11-14-2017/adafruit-feathers-for-datalogging)

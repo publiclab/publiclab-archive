@@ -1,0 +1,7 @@
+[Alaska Range balloon mapping](/notes/cfastie/6-24-2012/alaska-range-balloon-mapping)
+[The ShowerKAP](/notes/cfastie/7-3-2012/showerkap)
+[Kite mapping tundra plots](/notes/cfastie/7-9-2012/kite-mapping-tundra-plots)
+[ShowerKAP II](/notes/cfastie/07-06-2013/showerkap-ii)
+[Spruce tips](/notes/cfastie/07-10-2013/spruce-tips)
+[Infrablue Highways](/notes/cfastie/07-13-2013/infrablue-highways)
+[3D Tundra](/notes/cfastie/07-15-2013/3d-tundra)

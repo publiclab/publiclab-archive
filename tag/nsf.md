@@ -1,0 +1,3 @@
+[Public Lab awarded NSF funding to help develop low-cost community formaldehyde monitoring technique](/notes/nshapiro/10-17-2016/public-lab-awarded-nsf-funding-to-help-develop-low-cost-community-formaldehyde-monitoring-technique)
+[Public Lab Community Newsletter: January 2017](/notes/klie/01-27-2017/public-lab-community-newsletter-january-2017)
+[Smartphone App for Residential Testing of Formaldehyde (SMART-FORM) Interim report ](/notes/nshapiro/09-04-2017/smartphone-app-for-residential-testing-of-formaldehyde-smart-form-interim-report)

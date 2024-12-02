@@ -1,0 +1,6 @@
+[Frac Sand mining- polar light microscopy?](/notes/mathew/04-22-2014/frac-sand-mining)
+[Viewing mica through a polarizer](/notes/warren/05-19-2014/viewing-mica-through-a-polarizer)
+[Imagining & testing Polarized Light Microscopy for Silica dust speciation](/notes/mathew/05-21-2014/imagining-testing-polarized-light-microscopy-for-silica-dust-speciation)
+[Automating Passive Particle Monitor Analysis](/notes/mathew/03-26-2016/automating-passive-particle-monitor-analysis)
+[Crystalline silica from tile grout at AS220 microscope workshop](/notes/warren/12-02-2018/crystalline-silica-from-tile-grout-at-as220-microscope-workshop)
+[Experiment with polarizing filters to view crystalline dust](/notes/warren/01-14-2019/experiment-with-polarizing-filters-to-view-crystalline-dust)

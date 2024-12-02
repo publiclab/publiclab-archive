@@ -1,0 +1,1 @@
+[What kind/size of microdust does activated carbon give off & how much of a concern is it?](/notes/jfrankamp/10-11-2016/what-kind-size-of-microdust-does-activated-carbon-give-off-how-much-of-a-concern-is-it)

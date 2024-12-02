@@ -1,0 +1,1 @@
+[Wind](/wiki/wind)

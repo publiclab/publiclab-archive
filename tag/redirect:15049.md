@@ -1,0 +1,1 @@
+[templates](/wiki/templates)

@@ -1,0 +1,2 @@
+[Public Mapping Mission - Newtown Creek](/notes/nicholas/12-02-2013/public-mapping-mission-newtown-creek)
+[Stories of balloon and kite mapping in education](/notes/warren/06-30-2017/stories-of-balloon-and-kite-mapping-in-education)

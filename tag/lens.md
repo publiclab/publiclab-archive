@@ -1,0 +1,8 @@
+[Mapping Curriculum Activity Lens Calculation](/wiki/mapping-curriculum-activity-lens-calculation)
+[How to process images using a mobius with an IR lens?](/notes/miguel_rosas/10-18-2016/how-to-process-images-using-a-mobiles-with-the-ir-lens)
+[Getting started with the Infragram Point and Shoot](/notes/abdul/10-21-2016/infragram-point-and-shoot-starting-instructions)
+[DIY spectrophotometer?](/notes/Mekis/04-16-2017/diy-spectrophotometer)
+[Spectral Range of Lens? ](/notes/RexToother/04-02-2018/spectral-range-of-lens)
+[Testing a cheap webcam with Infragram - spoiler alert: nope](/notes/warren/04-25-2018/testing-a-cheap-webcam-with-infragram-spoiler-alert-nope)
+[Which objectives do you use?](/notes/aquiles/07-13-2018/which-objectives-do-you-use)
+[Testosterone Cypionate Enanthate Propionate - Legal Steroids For Sale - Dr. Mason ](/notes/gtemory/05-01-2021/testosterone-cypionate-enanthate-propionate-legal-steroids-for-sale-dr-mason)

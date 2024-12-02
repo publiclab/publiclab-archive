@@ -1,0 +1,7 @@
+[Check out these Activity Grids](/notes/liz/08-30-2016/check-out-these-activity-grids)
+[Activity Categories](/notes/gretchengehrke/09-02-2016/activity-categories)
+[Q&A enables automated FAQ](/notes/liz/09-07-2016/q-a-enables-automated-faq)
+[What makes a good activity?](/notes/warren/09-17-2016/what-makes-a-good-activity)
+[How many people to do an activity?](/notes/warren/11-30-2016/how-many-people-to-do-an-activity)
+[Post a new method to publiclab.org](/notes/liz/12-07-2016/post-a-new-method-to-publiclab-org)
+[Diagramming knowledge production on PublicLab.org](/notes/warren/01-27-2017/diagramming-knowledge-production-on-publiclab-org)

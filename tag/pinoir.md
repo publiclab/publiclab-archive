@@ -1,0 +1,6 @@
+[How do I set a custum white balance of the NoIR modulo cam?](/notes/LaPa/12-03-2015/how-do-i-set-a-costum-white-balance-of-the-noir-modulo-cam)
+[NDVI from PiNoir with a blue filter](/notes/carolccarvalho/02-18-2016/ndvi-from-pinoir-with-a-blue-filter)
+[Raspberry PI NoIR close-up Imaging ](/notes/MaggPi/05-11-2018/raspberry-pi-noir-close-up-imaging)
+[Raspberry Pi camera (visible and NOIR) V2 / picamera effects demos](/notes/MaggPi/06-02-2018/raspberry-pi-camera-visible-and-noir-v2-picamera-effects-demos)
+[Low cost NDVI analysis using RaspberryPi and PiNoIR](/notes/petter_mansson1/04-09-2019/low-cost-ndvi-analysis-using-raspberrypi-and-pinoir)
+[Used the PiNoIR camera with blue filter for my experiment in order to obtain the values of NIR and Red region, now i wanted  to know  what out put we are getting is right or wrong?](/notes/harshitha/01-16-2020/used-the-pinoir-camera-with-blue-filter-for-my-experiment-in-order-to-obtain-the-values-of-nir-and-red-region-now-i-wanted-to-know-what-out-put-we-are-getting-is-right-or-wrong)

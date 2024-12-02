@@ -1,0 +1,8 @@
+[Electronic Hydrogen Sulfide Sensors](/wiki/hydrogen-sulfide-sensor)
+[Hydrogen Sulfide Effects](/wiki/hydrogen-sulfide-effects)
+[Hydrogen Sulfide in the Environment](/wiki/hydrogen-sulfide-environment)
+[Hydrogen Sulfide Regulations](/wiki/hydrogen-sulfide-regulations)
+[Hydrogen Sulfide Detection](/wiki/hydrogen-sulfide-detection)
+[Hydrogen Sulfide Copper Pipe Testing](/wiki/hydrogen-sulfide-copper-pipe)
+[Hydrogen Sulfide Photopaper](/wiki/hydrogen-sulfide-photopaper)
+[Purafil Corrosion Coupons](/wiki/corrosion-coupons)

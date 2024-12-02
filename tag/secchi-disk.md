@@ -1,0 +1,5 @@
+[Turbidity 001](/notes/donblair/08-25-2015/turbidity-001)
+[Monitor transparency, dissolved oxygen, ORP, and ammonia from a river](/notes/shanlter/07-03-2017/monitor-transparency-dissolved-oxygen-orp-and-ammonia-from-a-river)
+[7 Ways to Measure, Monitor, and Evaluate Water Quality](/notes/anngneal/12-08-2017/7-ways-to-measure-monitor-and-evaluate-water-quality)
+[Has anyone built a secchi disk before? ](/notes/stevie/03-13-2018/has-anyone-built-a-secchi-disk-before)
+[LaMotte and Earth Force low cost Water Monitoring kit](/notes/stevie/04-18-2018/lamotte-and-earth-force-low-cost-water-monitoring-kit)

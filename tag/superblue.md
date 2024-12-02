@@ -1,0 +1,6 @@
+[Doing NDVI in one camera](/notes/mathew/9-6-2012/doing-ndvi-one-camera)
+[Superblue](/notes/cfastie/04-20-2013/superblue)
+[Rosco!](/notes/cfastie/04-21-2013/rosco)
+[DaffyCam](/notes/cfastie/04-24-2013/daffycam)
+[Middlebury Meetup](/notes/cfastie/05-02-2013/middlebury-meetup)
+[HORNWORMS](/notes/cfastie/08-18-2013/hornworms)

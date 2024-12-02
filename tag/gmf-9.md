@@ -1,0 +1,6 @@
+[Gardening Toolkit Case Study](/wiki/gardening-toolkit-case-study)
+[Nighthawk panoramas](/notes/cfastie/10-12-2015/nighthawk-panoramas)
+[Return to Planet LEAFFEST](/notes/cfastie/10-16-2015/return-to-planet-leaffest)
+[PhotosynQ](/notes/mlamadrid/12-08-2015/photosynq)
+[Photo Monitoring Plugin For NDVI using ImageJ](/notes/mlamadrid/12-08-2015/photo-monitoring-plugin-for-ndvi-using-imagej)
+[FarmHack](/notes/mlamadrid/12-09-2015/farmhack)

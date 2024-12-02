@@ -1,0 +1,7 @@
+[WATERCHESTNUTS](/wiki/waterchestnuts)
+[A little background work for Trapa classification from color](/notes/ttaylor/08-16-2013/a-little-background-work-for-trapa-classification-from-color)
+[using image texture to find Trapa](/notes/ttaylor/08-18-2013/using-image-texture-to-find-trapa)
+[Public Lab 'Open Water Hackathon' @ Amherst College](/notes/donblair/01-22-2014/public-lab-open-water-hackathon-amherst-college)
+[Balloon mapping of local invasive species and town mapping ](/wiki/balloon-mapping-of-local-invasive-species-and-town-mapping)
+[Aerial Balloon Mapping in Amherst, MA](/notes/aferland/10-21-2014/aerial-balloon-mapping)
+[Air Sensor Project](/notes/johnb1003/10-24-2018/air-sensor-project)

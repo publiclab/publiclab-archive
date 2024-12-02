@@ -1,0 +1,8 @@
+[Val Verde, California](/wiki/val-verde-california)
+[Community-level Odor Mapping Site](/notes/sarasage/08-29-2016/community-level-odor-mapping-site)
+[Mapping the Waste Stream of Southern California](/wiki/mapping-the-waste-stream-of-southern-california)
+[Barnraising 2016 at LUMCON: Resources for Landfill Researchers](/notes/sarasage/11-11-2016/barnraising-2016-at-lumcon-resources-for-landfill-researchers)
+[Odor Logging](/wiki/odor)
+[Online Odor Log v1.0](/notes/imvec/04-06-2018/online-odor-log-v1-0)
+[I have a lot of "old" cell phones. How can I use them as the small computers that they are?](/notes/jason_h_day/04-27-2018/i-have-a-lot-of-old-cell-phones-how-can-i-use-them-as-the-small-computers-that-they-are)
+[Choosing Locations and Methodology for Air-Quality Gas Testing](/notes/sarasage/08-09-2021/choosing-locations-and-methodology-for-air-quality-gas-testing)

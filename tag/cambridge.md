@@ -1,0 +1,7 @@
+[Knight Civic Media Conference - MIT - Cambridge, MA](/map/knight-civic-media-conference-mit-cambridge-massachusetts/2011-6-22)
+[Water Quality Workshop July 12th @ MIT Media Lab](/notes/donblair/07-11-2014/water-quality-workshop-july-12th-mit-media-lab)
+[Recap: Open Water Workshop, 7/12/14](/notes/donblair/07-15-2014/recap-open-water-workshop-july-12-2014)
+[First Riffle Deployment: City of Cambridge Water Department](/notes/donblair/08-01-2014/first-riffle-deployment-city-of-cambridge-water-department)
+[which Site similar to backpage, alternative to backpage, sites like backpage ??](/notes/naughtyangel20007/08-16-2018/which-site-similar-to-backpage-alternative-to-backpage-sites-like-backpage)
+[Cambridge backpage  | sites like backpage | alternative to backpage | site similar to backpage](/notes/naughtyangel20007/08-16-2018/cambridge-backpage-sites-like-backpage-alternative-to-backpage-site-similar-to-backpage)
+[Sky Hi](/notes/deanosbourne1/06-30-2020/sky-hi)

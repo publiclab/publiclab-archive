@@ -1,0 +1,6 @@
+[Winds aloft](/notes/cfastie/08-03-2017/winds-aloft)
+[Winds aloft: less noise](/notes/cfastie/08-12-2017/winds-aloft-less-noise)
+[NASA Aeropod unboxing](/notes/cfastie/09-29-2017/nasa-aeropod-unboxing)
+[LEAFFEST Aeropod flight](/notes/cfastie/10-03-2017/leaffest-aeropod-flight)
+[Winds aloft: sensor overload](/notes/cfastie/10-17-2017/winds-aloft-sensor-overload)
+[Winds aloft: and a camera too](/notes/cfastie/10-28-2017/winds-aloft-and-a-camera-too)

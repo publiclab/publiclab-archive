@@ -1,0 +1,7 @@
+[KAPtery Aerial Rigs](/wiki/kaptery-aerial-rigs)
+[The JerkPan](/notes/cfastie/01-27-2016/the-jerkpan)
+[Graze anatomy](/notes/cfastie/05-23-2016/graze-anatomy)
+[The Aerobee Rig](/notes/cfastie/07-05-2016/the-aerobee-rig)
+[Making the aluminum frame of an aerial camera rig (video)](/notes/cfastie/07-07-2016/making-aerobee)
+[Notes on assembling an Aerobee Rig](/notes/mathew/07-08-2016/notes-on-assembling-an-aerobee-rig)
+[Flight report: Aerobee Rig panoramas and pratfalls](/notes/mathew/08-03-2016/flight-report-aerobee-rig-panoramas-and-pratfalls)

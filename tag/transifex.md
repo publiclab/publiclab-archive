@@ -1,0 +1,6 @@
+[Add Reviewers to a language (managers)](/notes/liz/10-26-2016/add-reviewers-to-a-language)
+[Transifex Internationalisation of Publiclab.org](/notes/pipix51/12-27-2016/transifex-internationalisation-of-publiclab-org)
+[Transifex tutorial for beginners](/notes/adarshkumar/12-31-2016/transifex-tutorial-for-beginners)
+[Using Transifex's Translating Platform](/notes/gegeneo/01-02-2017/using-transifex-s-translating-platform)
+[Using Transifex's Translating Platform](/notes/gegeneo/01-03-2017/using-transifex-s-translating-platform)
+[Translating project files using transifex](/notes/sanchittechnogeek/01-03-2017/translating-project-files-using-transifex)

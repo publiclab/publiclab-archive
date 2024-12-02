@@ -1,0 +1,6 @@
+[Can someone make a map to display NOAA Harvey imagery with coordinates and permalink?](/notes/warren/09-20-2017/can-someone-make-a-map-to-display-noaa-harvey-imagery-with-coordinates-and-permalink)
+[Is anyone working on the reception of satellite imagery using ham radio methods?](/notes/sashae/05-15-2020/is-anyone-working-on-the-reception-of-satellite-imagery-using-ham-radio-methods)
+[open-weather](/wiki/open-weather)
+[What does a raw NOAA image look like?](/notes/sashae/06-25-2020/what-does-a-raw-noaa-image-look-like)
+[DIY Satellite Ground Station](/notes/sashae/06-26-2020/diy-satellite-ground-station)
+[NOAA-Apt installation OSX 13.0 fails at Cargo Build](/notes/code/11-18-2022/noaa-apt-installation-osx-13-0-fails-at-cargo-build)

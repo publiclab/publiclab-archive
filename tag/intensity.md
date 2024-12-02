@@ -1,0 +1,8 @@
+[Spectral comparison tutorial for amateur astronomers](/notes/warren/3-2-2011/spectral-comparison-tutorial-amateur-astronomers)
+[PLab's WebCam (Non)Linearity](/notes/stoft/05-17-2014/plab-s-webcam-non-linearity)
+[Survey of different kinds of fluorescence spectrometry, optimizing intensity](/notes/warren/08-12-2014/survey-of-different-kinds-of-fluorescence-spectrometry-optimizing-intensity)
+[PLab Spectrometer Gain-Correction](/notes/stoft/02-25-2015/plab-spectrometer-gain-correction)
+[PLab 3 Gain Correction](/notes/stoft/03-06-2015/plab-3-gain-correction)
+[Spectrometer Stability](/notes/stoft/04-14-2016/spectrometer-stability)
+[Light source limits](/notes/viechdokter/04-14-2016/light-source-limits)
+[Automatic Gain Control vs. Inverse square law](/notes/viechdokter/04-16-2016/automatic-gain-control-vs-inverse-square-law)

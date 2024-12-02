@@ -1,0 +1,7 @@
+[Vermont](/wiki/vermont)
+[LEAFFEST](/wiki/leaffest)
+[L E A F F E S T 2013](/notes/cfastie/08-29-2013/l-e-a-f-f-e-s-t-2013)
+[LEAFFEST project](/notes/cfastie/09-02-2013/leaffest-test)
+[Vermont Environmental Summit 2013](/notes/cfastie/11-10-2013/vermont-environmental-summit-2013)
+[The Blair House Project](/notes/lauradietz/02-23-2014/the-blairhouse-project)
+[SNOWFEST the Movie](/notes/cfastie/03-02-2014/snowfest-the-movie)

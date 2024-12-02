@@ -1,0 +1,6 @@
+[Mystic River](/wiki/mystic-river)
+[First wireless transmission, mchck to mchck!](/notes/donblair/01-14-2014/first-wireless-transmission-mchck-to-mchck)
+[Open Water](/wiki/open-water)
+[Water Quality Primer with Jeff Walker](/wiki/water-quality-primer-with-jeff-walker)
+[Mapping Lead-Free Water](/notes/smmontgom/08-21-2016/mapping-lead-free-water)
+[Enforcing Stormwater Permits with Google Street View along the Mystic River](/notes/mathew/09-30-2016/enforcing-stormwater-permits-with-google-street-view-along-the-mystic-river)

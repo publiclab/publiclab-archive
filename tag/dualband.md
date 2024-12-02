@@ -1,0 +1,6 @@
+[Dual bandpass filters](/notes/cfastie/11-24-2015/dual-band-pass-filters)
+[Testing MIDOPT filters](/notes/cfastie/12-03-2015/testing-midopt-filters)
+[Single vs. dual cameras](/notes/cfastie/01-16-2016/single-vs-dual-cameras)
+[MidOpt Dual Bandpass and Event38 filter testing](/notes/Claytonb/01-29-2016/midopt-dual-bandpass-and-event38-filter-testing)
+[Fifty Shades of Graze](/notes/cfastie/04-25-2016/pole-ndvi-of-deer-grazing)
+[Testing a Midopt DB660/850 filter: NIR contamination of the red channel](/notes/Corymbia/02-19-2019/testing-a-midopt-db660-850-filter-nir-contamination-of-the-red-channel)

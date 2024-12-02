@@ -1,0 +1,8 @@
+[Video tutorial: Creating false-color NDVI with aerial wetlands imagery](/notes/warren/10-27-2011/video-tutorial-creating-false-color-ndvi-aerial-wetlands-imagery)
+[First Infragram cam trials - Primeros ensayos con cámaras Infragram](/notes/ivalethia/09-20-2014/first-infragram-cam-trials-primeros-ensayos-con-camaras-infragram)
+[Initial results: PL Mobius Infragram Point and Shoot on Parrot AR.Drone 2.0 ](/notes/patcoyle/11-27-2014/initial-results-pl-mobius-infragram-point-and-shoot-on-parrot-ar-drone-2-0)
+[DJI UAV mapping with Gimp correction of fisheye effect](/notes/patcoyle/03-17-2015/dji-uav-with-gimp-correction-of-fisheye-effect)
+[More re: small pocket sled kite for Mobius camera](/notes/patcoyle/07-17-2015/more-re-small-pocket-sled-kite-for-mobius-camera)
+[yet more: small parafoil kite for Mobius camera](/notes/patcoyle/07-20-2015/small-parafoil-kite-for-mobius-camera)
+[Small kites for Mobius: Stowaway Delta ](/notes/patcoyle/07-24-2015/small-kites-for-mobius-stowaway-delta)
+[NDVI from infrared and visible-light](/notes/Rayishido/02-10-2016/ndvi-from-infrared-and-visible-light)

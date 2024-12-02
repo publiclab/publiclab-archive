@@ -1,0 +1,7 @@
+[Bee Movie](/notes/cfastie/06-01-2013/bee-movie)
+[Standalone NBG export for Images & Video (Mac OS X)](/notes/mathew/06-01-2013/standalone-nbg-export-for-images-video-mac-os-x)
+[Bee Movie II](/notes/cfastie/06-05-2013/bee-movie-ii)
+[UAF](/notes/cfastie/07-10-2013/uaf)
+[Spruce tips](/notes/cfastie/07-10-2013/spruce-tips)
+[Infrablue Highways](/notes/cfastie/07-13-2013/infrablue-highways)
+[Infragrammar: compositing infrared images with simple mathematic expressions](/notes/warren/08-17-2013/infragrammar-compositing-infrared-images-with-simple-mathematic-expressions)
