@@ -10,12 +10,12 @@ Comment.where(nid: nids, status: 1).each do |comment|
     File.open(path, 'w') do |file|
       text = "---\n"\
         "cid: #{comment.cid}\n"\
-        "node: ![#{comment.parent.title}](..#{comment.parent.path})\n"\
+        "node: [#{comment.parent.title}](..#{comment.parent.path})\n"\
         "nid: #{comment.nid}\n"\
         "created_at: #{comment.created_at}\n"\
         "timestamp: #{comment.timestamp}\n"\
         "uid: #{comment.uid}\n"\
-        "author: #{comment.author.username}\n"\
+        "author: [#{comment.author.username}](../profile/#{comment.author.username})\n"\
         "---\n\n#{comment.body}"
       file.write(text)
     end

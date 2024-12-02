@@ -3,7 +3,6 @@ require 'fileutils'
 tags = Tag.joins(:node_tag, :node)
           .select('MAX(node.nid), node.status, term_data.*, community_tags.*')
           .where('node.status = ?', 1)
-          .where('community_tags.date > ?', (DateTime.now - 1.month).to_i)
           .group(:name)
 
 tags.each do |tag|
