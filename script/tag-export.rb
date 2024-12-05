@@ -11,7 +11,7 @@ tags.each do |tag|
   nodes = tag.nodes
   text = ""
   nodes.each do |node|
-    text += "[#{node.title}](#{node.path})"
+    text += "[#{node.title}](#{node.path})\n"
   end
   File.open(path, 'w') do |file|
     file.write(text)
