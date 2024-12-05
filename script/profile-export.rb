@@ -3,7 +3,9 @@ nids = 104,114,138,160,11740,11741,11742,11758,11759,11796,11820,12044,12061,123
 # not with all nodes but just with those in https://gist.github.com/jywarren/80a72845105872ccc89d6c9c352d8377
 require 'fileutils'
 users = Node.where(nid: nids).collect(&:author).uniq
-users.each do |user|
+comments = Comment.where(nid: nids, status: 1)
+users += User.where(id: comments.collect(&:uid))
+users.uniq.each do |user|
   path = 'public/static/profile/' + user.username + ".md"
   
   File.open(path, 'w') do |file|
