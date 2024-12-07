@@ -1,0 +1,28 @@
+# activity-data-logging
+
+24 notes and wiki pages
+
+- [Measure coarse and fine air particulates with a DustDuino](/notes/Schroyer/11-23-2013/measure-coarse-and-fine-air-particulates-with-a-dustduino) by [Schroyer](../profile/Schroyer)
+- [Datalogger part 2a; Generating a signal, amplifying it, and displaying the data.](/notes/JSummers/09-25-2014/datalogger-part-2a-generating-a-signal-amplifying-it-and-displaying-the-data) by [JSummers](../profile/JSummers)
+- [DustDuino Sketches ](/notes/Willie/07-31-2015/dustduino-sketches) by [willie](../profile/willie)
+- [Riffle test 1](/notes/cfastie/05-18-2016/riffle-test-1) by [cfastie](../profile/cfastie)
+- [Riffle campout](/notes/cfastie/05-27-2016/riffle-campout) by [cfastie](../profile/cfastie)
+- [Compost is hot, says Riffle](/notes/cfastie/06-09-2016/compost-is-hot-says-riffle) by [cfastie](../profile/cfastie)
+- [In the heat of the pile](/notes/cfastie/06-15-2016/in-the-heat-of-the-pile) by [cfastie](../profile/cfastie)
+- [Blink a LED - Write a 'Sketch' and build a breadboard circuit for the Riffle](/notes/pdhixenbaugh/10-20-2016/blink-an-led-write-a-sketch-and-build-a-breadboard-circuit-for-the-riffle) by [pdhixenbaugh](../profile/pdhixenbaugh)
+- [Simple data logger](/notes/david_uwi/04-25-2017/simple-data-logger) by [david_uwi](../profile/david_uwi)
+- [Build KnowFlow: automatic water moniter](/notes/shanlter/06-08-2017/knowflow-automatic-water-meter) by [shanlter](../profile/shanlter)
+- [Mini Pearl Logger longer](/notes/cfastie/08-20-2017/mini-pearl-logger-longer) by [cfastie](../profile/cfastie)
+- [Knowflow组装（一）——pH和温度监测](/notes/incaking/11-29-2017/knowflow-ph) by [incaking](../profile/incaking)
+- [Putting sensor data to work](/notes/cfastie/12-03-2017/putting-sensor-data-to-work) by [cfastie](../profile/cfastie)
+- [Help collect environmental sensors + probes on a shared list](/notes/warren/12-06-2017/help-collect-environmental-sensors-probes-on-a-shared-list) by [warren](../profile/warren)
+- [Sensor Collection For KnowFlow --a water-quality-testing facility](/notes/juncheng09/12-09-2017/instruction-for-sensors) by [juncheng09](../profile/juncheng09)
+- [Log all the data with Adafruit's TPL5110 Low Power Timer](/notes/cfastie/12-21-2017/log-all-the-data-with-adafruit-s-tpl5110-low-power-timer) by [cfastie](../profile/cfastie)
+- [Low-power timer upgrade](/notes/cfastie/03-01-2018/low-power-timer-upgrade) by [cfastie](../profile/cfastie)
+- [Mounting and deploying a Mini Pearl Logger](/notes/cfastie/03-03-2018/mounting-and-deploying-a-mini-pearl-logger) by [cfastie](../profile/cfastie)
+- [Willow Creek Water Quality Monitoring (EC and TDS)](/notes/MadTinker/03-21-2018/willow-creek-water-quality-monitoring-electrical-conductivity-sensor) by [MadTinker](../profile/MadTinker)
+- [Nano particle monitoring](/notes/cfastie/11-28-2018/nano-particle-monitoring) by [cfastie](../profile/cfastie)
+- [Extra Super Volatile](/notes/cfastie/12-10-2018/extra-super-volatile) by [cfastie](../profile/cfastie)
+- [What would you do with SensorShip?](/notes/cfastie/01-10-2019/what-would-you-do-with-sensorship) by [cfastie](../profile/cfastie)
+- [RV SensorShip V ](/notes/cfastie/01-18-2019/rv-sensorship-v) by [cfastie](../profile/cfastie)
+- [EnviroDIY Monitoring Station](/notes/StroudCenterScott/01-07-2022/envirodiy-monitoring-station) by [StroudCenterScott](../profile/StroudCenterScott)

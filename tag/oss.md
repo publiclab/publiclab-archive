@@ -1,1 +1,5 @@
-[Getting people involved in OSS](/notes/sashadev-sky/12-09-2019/getting-people-involved)
+# oss
+
+1 notes and wiki pages
+
+- [Getting people involved in OSS](/notes/sashadev-sky/12-09-2019/getting-people-involved) by [sashadev-sky](../profile/sashadev-sky)

@@ -1,1 +1,5 @@
-[AFLOSS collection of tutorials](/notes/xose/12-06-2016/afloss-collection-of-tutorials)
+# afloss
+
+1 notes and wiki pages
+
+- [AFLOSS collection of tutorials](/notes/xose/12-06-2016/afloss-collection-of-tutorials) by [xose](../profile/xose)

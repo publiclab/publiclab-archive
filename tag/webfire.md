@@ -1,1 +1,5 @@
-[  Getting Fenceline Benzene Data from WebFire](/notes/ajg434/07-17-2020/getting-fenceline-benzene-data-from-webfire)
+# webfire
+
+1 notes and wiki pages
+
+- [  Getting Fenceline Benzene Data from WebFire](/notes/ajg434/07-17-2020/getting-fenceline-benzene-data-from-webfire) by [ajg434](../profile/ajg434)

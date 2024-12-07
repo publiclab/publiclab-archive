@@ -1,1 +1,5 @@
-[a paper spectrometer design, pt 2](/notes/mathew/12-06-2014/a-paper-spectrometer-design-pt-2)
+# fold-up-spectrometer
+
+1 notes and wiki pages
+
+- [a paper spectrometer design, pt 2](/notes/mathew/12-06-2014/a-paper-spectrometer-design-pt-2) by [mathew](../profile/mathew)

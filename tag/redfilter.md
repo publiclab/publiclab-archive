@@ -1,2 +1,6 @@
-[Announcing the Infragram Point & Shoot](/notes/mathew/05-02-2014/announcing-the-infragram-point-shoot)
-[NDVI results from modified camera is inaccurate](/notes/ThomasTaufan/06-05-2020/ndvi-results-from-modified-camera-is-inaccurate)
+# redfilter
+
+2 notes and wiki pages
+
+- [Announcing the Infragram Point & Shoot](/notes/mathew/05-02-2014/announcing-the-infragram-point-shoot) by [mathew](../profile/mathew)
+- [NDVI results from modified camera is inaccurate](/notes/ThomasTaufan/06-05-2020/ndvi-results-from-modified-camera-is-inaccurate) by [ThomasTaufan](../profile/ThomasTaufan)

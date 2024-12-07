@@ -1,0 +1,25 @@
+# question-oil-and-gas
+
+21 notes and wiki pages
+
+- [Is CALPUFF a good air quality modeling tool](/notes/marlokeno/09-16-2016/is-calpuff-a-good-air-quality-modeling-tool) by [marlokeno](../profile/marlokeno)
+- [Is there a water quality equivalent of Smoke School, the EPA air pollution observer certification?](/notes/warren/09-16-2016/is-there-a-water-quality-equivalent-of-smoke-school-the-epa-air-pollution-observer-certification) by [warren](../profile/warren)
+- [Are there any exemptions under the NPDES? ](/notes/stevie/02-09-2017/are-there-any-exemptions-under-the-npdes) by [stevie](../profile/stevie)
+- [What does oil pollution mean for my health?](/notes/warren/09-07-2017/what-does-oil-pollution-mean-for-my-health) by [warren](../profile/warren)
+- [How much do different oil pollution tests cost?](/notes/warren/09-07-2017/how-much-do-different-oil-pollution-tests-cost) by [warren](../profile/warren)
+- [How do I identify an oil sheen or spill or slick in aerial photography?](/notes/warren/09-12-2017/how-do-i-identify-an-oil-sheen-or-spill-or-slick-in-aerial-photography) by [warren](../profile/warren)
+- [What gases can a FLIR GasFinder (OGI) infrared camera detect?](/notes/warren/09-25-2017/what-gases-can-a-flir-gasfinder-ogi-infrared-camera-detect) by [warren](../profile/warren)
+- [Oil Chemistry of Keystone Leak](/notes/kayaerbil/11-23-2017/oil-chemistry-of-keystone-leak) by [kayaerbil](../profile/kayaerbil)
+- [What are your experiences with optical gas imaging cameras?](/notes/liz/01-24-2018/what-are-your-experiences-with-optical-gas-imaging-cameras) by [liz](../profile/liz)
+- [What do respirable silica particles (frac sand pollution) look like?](/notes/warren/02-22-2018/what-do-respirable-silica-particles-frac-sand-pollution-look-like) by [warren](../profile/warren)
+- [How to test water for heavy metals today?](/notes/Devon7/03-26-2018/how-to-test-water-for-heavy-metals-today) by [Devon7](../profile/Devon7)
+- [Advice regarding taking photos over frozen](/notes/dailyxeoto/06-13-2018/advice-regarding-taking-photos-over-frozen) by [dailyxeoto](../profile/dailyxeoto)
+- [How do you test for oil and gas-related contaminants in soils? ](/notes/DanielleS/01-22-2019/how-do-you-test-for-oil-and-gas-related-contaminants-in-soils) by [DanielleS](../profile/DanielleS)
+- [How can we relate water quality sensor measurements to oil/gas pollution?](/notes/wmacfarl/09-25-2019/how-can-we-relate-water-quality-sensor-measurements-to-oil-gas-pollution) by [wmacfarl](../profile/wmacfarl)
+- [How can I calibrate a turbidity sensor?](/notes/wmacfarl/10-28-2019/how-can-i-calibrate-a-turbidity-sensor) by [wmacfarl](../profile/wmacfarl)
+- [Reused fracking water?](/notes/charlotte_clarke/10-29-2019/reused-fracking-water) by [charlotte_clarke](../profile/charlotte_clarke)
+- [How can you tell if a sheen on water is bacterial or petroleum (oil)? ](/notes/stevie/01-24-2020/how-can-you-tell-if-a-sheen-on-water-is-bacterial-or-petroleum-oil) by [stevie](../profile/stevie)
+- [What are ways to monitor for oil and gas spills on private property? ](/notes/stevie/05-29-2020/what-are-ways-to-monitor-for-oil-and-gas-spills-on-private-property) by [stevie](../profile/stevie)
+- [Chevron is up for a permit renewal again (under title 5 of the Clean Air Act), we have a 4800 page report on the company, how can we get through it and pull out the valuable info?](/notes/stevie/01-04-2021/chevron-is-up-for-a-permit-renewal-again-under-title-5-of-the-clean-air-act-we-have-a-4800-page-report-on-the-company-how-can-we-get-through-it-and-pull-out-the-valuable-info) by [stevie](../profile/stevie)
+- [Is there a federal program in the US for reclaiming abandoned oil wells?](/notes/bhamster/03-31-2022/is-there-a-federal-program-in-the-us-for-reclaiming-abandoned-oil-wells) by [bhamster](../profile/bhamster)
+- [Looking for recommendations of how to obtain air quality samples around a fracked gas compressor station](/notes/SBucic/07-11-2022/looking-for-recommendations-of-how-to-obtain-air-quality-samples-around-a-fracked-gas-compressor-station) by [SBucic](../profile/SBucic)

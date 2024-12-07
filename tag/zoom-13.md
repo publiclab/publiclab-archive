@@ -1,0 +1,28 @@
+# zoom-13
+
+24 notes and wiki pages
+
+- [Infragram](/wiki/infragram) (wiki)
+- [Art in Ruins (1153 Westminster Street)](/notes/kellyraymond/02-19-2020/art-in-ruins-1153-westminster-street) by [kellyraymond](../profile/kellyraymond)
+- [Art in Ruins (304 Pearl Street)](/notes/kellyraymond/02-19-2020/art-in-ruins-304-pearl-street) by [kellyraymond](../profile/kellyraymond)
+- [Sidewalk & Stones](/notes/mchao2/03-03-2020/sidewalk-stones) by [mchao2](../profile/mchao2)
+- [Art in Ruins (25 Eagle Street)](/notes/kellyraymond/03-04-2020/art-in-ruins-25-eagle-street) by [kellyraymond](../profile/kellyraymond)
+- [Unearthing PVD Map Content](/notes/liz/03-05-2020/unearthing-pvd-map-content) by [liz](../profile/liz)
+- [Call for Outreachy 2020 proposals!](/notes/liz/03-09-2020/call-for-outreachy-2020-proposals) by [liz](../profile/liz)
+- [Taller extracción de lodos, río San Francisco, Cosquín](/notes/imvec/03-19-2020/taller-extraccion-de-lodos-en-cosquin) by [imvec](../profile/imvec)
+- [EcoSen -> How healthy are our water resources? (In construction)](/notes/alejobonifacio/05-17-2020/how-healthy-are-our-water-resources) by [alejobonifacio](../profile/alejobonifacio)
+- [MapKnitter map of Reebie Storage ](/notes/lindapetersonus/10-14-2020/mapknitter-map-of-reebie-storage) by [lindapetersonus](../profile/lindapetersonus)
+- [The concept of community paralegals](/notes/liz/10-16-2020/the-concept-of-community-paralegals) by [liz](../profile/liz)
+- [How many pellets are actually at the Dow outfall, compared to the Bianca Spill?](/notes/eustatic/11-03-2020/how-many-pellets-are-actually-at-the-dow-outfall-compared-to-the-bianca-spill) by [eustatic](../profile/eustatic)
+- [Agencia marketing digital Barcelona](/notes/mentedigitalbarna/01-04-2021/agencia-marketing-digital-barcelona) by [mentedigitalbarna](../profile/mentedigitalbarna)
+- [MapKnitter map of ARKHYZ222](/notes/alex_novosti/01-27-2021/mapknitter-map-of-arkhyz222) by [alex_novosti](../profile/alex_novosti)
+- [City of New York's first-ever "Environmental Justice for All" report](/notes/liz/02-25-2021/city-of-new-york-s-first-ever-environmental-justice-for-all-report) by [liz](../profile/liz)
+- [City Park microplastics](/notes/grace_williams/05-17-2021/city-park-microplastics) by [grace_williams](../profile/grace_williams)
+- [Bucket Monitor Build: VVAMP](/notes/sarasage/06-10-2021/bucket-monitor-build-vvamp) by [sarasage](../profile/sarasage)
+- [Kate Austin Family Lawyers](/notes/kateaustinlawmelbourne/06-14-2021/kate-austin-family-lawyers) by [kateaustinlawmelbourne](../profile/kateaustinlawmelbourne)
+- [investigation concepts from journalists](/notes/liz/06-16-2021/investigation-concepts-from-journalists) by [liz](../profile/liz)
+- [Post-Ida Nurdle Spill from Plastic Rail Car derailment: lessons from Raceland](/notes/eustatic/09-09-2021/post-ida-nurdle-spill-from-plastic-rail-car-derailment-lessons-from-raceland) by [eustatic](../profile/eustatic)
+- [Forest near Lake](/notes/rohaidb/04-20-2022/forest-near-lake) by [rohaidb](../profile/rohaidb)
+- [Manoomin at Boy Lake, Minnesota ](/notes/Giiwedin/08-09-2022/manoomin-at-boy-lake-minnesota) by [Giiwedin](../profile/Giiwedin)
+- [Construye tu propio espectroscopio para el móvil](/notes/coaat97/10-01-2022/construye-tu-propio-espectroscopio-para-el-movil) by [coaat97](../profile/coaat97)
+- [LocalFactor, A New Multi Platform Advertising Company, Leverages Technology and Innovation for America's Leading Companies](/notes/Evanrutchik/02-12-2024/localfactor-a-new-multi-platform-advertising-company-leverages-technology-and-innovation-for-america-s-leading-companies) by [Evanrutchik](../profile/Evanrutchik)

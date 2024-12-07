@@ -1,1 +1,5 @@
-[Continued literature review for the Oil Testing Kit](/notes/warren/08-14-2014/continued-literature-review-for-the-oil-testing-kit)
+# humic
+
+1 notes and wiki pages
+
+- [Continued literature review for the Oil Testing Kit](/notes/warren/08-14-2014/continued-literature-review-for-the-oil-testing-kit) by [warren](../profile/warren)

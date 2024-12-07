@@ -1,0 +1,11 @@
+# activity-issue-brief
+
+7 notes and wiki pages
+
+- [Host an Issue Brief workshop](/wiki/host-an-issue-brief-workshop) (wiki)
+- [Workshop: Explore Issue Briefs with others ](/notes/stevie/11-14-2017/host-an-issue-brief-workshop) by [stevie](../profile/stevie)
+- [Workshop: Draft an Issue Brief with a group](/notes/stevie/01-23-2018/workshop-draft-an-issue-brief-with-a-group) by [stevie](../profile/stevie)
+- [Body Massage Centre](/notes/lespacentre/06-20-2019/body-massage-centre) by [lespacentre](../profile/lespacentre)
+- [All-natural Skin care Products - Body Creams Which Can Help with Skincare](/notes/RoxieKiesz/03-16-2021/all-natural-skin-care-products-body-creams-which-can-help-with-skincare) by [RoxieKiesz](../profile/RoxieKiesz)
+- [Penyakit Pembunuh Nomor Satu di Indonesia adalah](/notes/indonesiasehati/03-27-2021/penyakit-pembunuh-nomor-satu-di-indonesia-adalah) by [indonesiasehati](../profile/indonesiasehati)
+- [The Legal Helpers have helped thousands of individuals connect with legal attorneys who help educate clients on the legal processes needed for their specific claims. We aim to connect users with attorneys who can help review & resolve their cases.](/notes/genericemail786/05-02-2021/the-legal-helpers-have-helped-thousands-of-individuals-connect-with-legal-attorneys-who-help-educate-clients-on-the-legal-processes-needed-for-their-specific-claims-we-aim-to-connect-users-with-attorneys-who-can-help-revi) by [genericemail786](../profile/genericemail786)

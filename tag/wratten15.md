@@ -1,2 +1,6 @@
-[Orange is the new red](/notes/cfastie/01-16-2015/orange-is-the-new-red)
-[Filters in focus](/notes/cfastie/01-19-2015/filters-in-focus)
+# wratten15
+
+2 notes and wiki pages
+
+- [Orange is the new red](/notes/cfastie/01-16-2015/orange-is-the-new-red) by [cfastie](../profile/cfastie)
+- [Filters in focus](/notes/cfastie/01-19-2015/filters-in-focus) by [cfastie](../profile/cfastie)

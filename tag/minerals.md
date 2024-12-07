@@ -1,5 +1,9 @@
-[What rocks are native to Salisbury, VT? ](/notes/kgradow1/09-30-2017/what-rocks-are-native-to-salisbury-vt)
-[Would the desktop spectrometry kit work for measuring fluorescent responses?](/notes/ICSK/11-20-2017/would-the-desktop-kit-work-for-measuring-fluorescent-responses-i-ll-primarily-be-using-uv-light-sources-365-275-265-253-7nm-for-measuring-the-response-for-fluorescent-minerals-my-concern-is-that-the-dvd-grating-would-fluoresce-and-s)
-[Anavar 25mg Price - Buy Steroids Online - Dr. Edwards ](/notes/gtemory/05-01-2021/anavar-25mg-price-buy-steroids-online-dr-edwards)
-[Testosterone Undecanoate Steroids. Anabolic Steroids Store #aGv6F ](/notes/lamlam/05-20-2021/testosterone-undecanoate-steroids-anabolic-steroids-store-agv6f)
-[Using UVC or "deep UV" light to detect lead by fluorescence](/notes/warren/03-02-2022/using-uvc-or-deep-uv-light-to-detect-lead-by-fluorescence)
+# minerals
+
+5 notes and wiki pages
+
+- [What rocks are native to Salisbury, VT? ](/notes/kgradow1/09-30-2017/what-rocks-are-native-to-salisbury-vt) by [kgradow1](../profile/kgradow1)
+- [Would the desktop spectrometry kit work for measuring fluorescent responses?](/notes/ICSK/11-20-2017/would-the-desktop-kit-work-for-measuring-fluorescent-responses-i-ll-primarily-be-using-uv-light-sources-365-275-265-253-7nm-for-measuring-the-response-for-fluorescent-minerals-my-concern-is-that-the-dvd-grating-would-fluoresce-and-s) by [ICSK](../profile/ICSK)
+- [Anavar 25mg Price - Buy Steroids Online - Dr. Edwards ](/notes/gtemory/05-01-2021/anavar-25mg-price-buy-steroids-online-dr-edwards) by [gtemory](../profile/gtemory)
+- [Testosterone Undecanoate Steroids. Anabolic Steroids Store #aGv6F ](/notes/lamlam/05-20-2021/testosterone-undecanoate-steroids-anabolic-steroids-store-agv6f) by [lamlam](../profile/lamlam)
+- [Using UVC or "deep UV" light to detect lead by fluorescence](/notes/warren/03-02-2022/using-uvc-or-deep-uv-light-to-detect-lead-by-fluorescence) by [warren](../profile/warren)

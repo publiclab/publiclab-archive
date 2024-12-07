@@ -1,1 +1,5 @@
-[Skane, Sweden](/wiki/skane-sweden)
+# skane
+
+1 notes and wiki pages
+
+- [Skane, Sweden](/wiki/skane-sweden) (wiki)

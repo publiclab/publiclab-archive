@@ -1,0 +1,27 @@
+# upgrade-spectrometry
+
+23 notes and wiki pages
+
+- [Ebert](/notes/cfastie/2-19-2013/ebert) by [cfastie](../profile/cfastie)
+- [PLab 3 Spectrometer Upgrade Prototype](/notes/stoft/03-02-2015/plab-3-spectrometer-upgrade-prototype) by [stoft](../profile/stoft)
+- [Some Suggestions for Spectrometer v3.0 and Oil Testing Kit (OTK) Attachment](/notes/ygzstc/08-19-2015/some-suggestions-for-spectrometer-v3-0-and-oil-testing-kit-otk-attachment) by [ygzstc](../profile/ygzstc)
+- [OTK Proto3](/notes/stoft/01-19-2016/otk-proto3) by [stoft](../profile/stoft)
+- [Ongoing design of compact cuvette frame](/notes/warren/01-25-2016/ongoing-design-of-compact-cuvette-frame) by [warren](../profile/warren)
+- [Prototype of easy-to-build rigid spectrometer housing](/notes/warren/04-21-2016/prototype-of-easy-to-build-rigid-spectrometer-housing) by [warren](../profile/warren)
+- [A more compact spectrometer](/notes/cristoforetti/05-13-2016/a-more-compact-spectrometer) by [cristoforetti](../profile/cristoforetti)
+- [Build Instructions For The DH 4.0 v4 Spectrometer](/notes/dhaffnersr/08-09-2016/build-instructions-for-the-dh-4-0-v4-spectrometer) by [dhaffnersr](../profile/dhaffnersr)
+- [Constructing a Desktop Spectrometer with no Wood, and no Velcro](/notes/abdul/08-11-2016/constructing-a-desktop-spectrometer-with-no-wood-and-no-velcro) by [abdul](../profile/abdul)
+- [Stability upgrade mockup for PLab Spectrometer 3.0](/notes/stoft/09-16-2016/stability-upgrade-mockup-for-plab-spectrometer-3-0) by [stoft](../profile/stoft)
+- [Reduce interior reflections in your spectrometer with black ink](/notes/warren/09-22-2016/reduce-interior-reflections-in-your-spectrometer-with-black-ink) by [warren](../profile/warren)
+- [All Paper-n-Tape Mock-Up Upgrade of PLab 3 Spectrometer](/notes/stoft/09-22-2016/all-paper-n-tape-mock-up-of-plab-3-spectrometer) by [stoft](../profile/stoft)
+- [PLab-3 Proto Slit Upgrade](/notes/stoft/10-03-2016/plab-3-proto-slit-upgrade) by [stoft](../profile/stoft)
+- [Camera Focus IR Filter Removal](/notes/stef/10-19-2016/plab-spec-3-updated-camera-focus-ir-filter) by [stef](../profile/stef)
+- [Spectrometer Light Tight Cover Build](/notes/stef/10-22-2016/spectrometer-light-tight-cover-build) by [stef](../profile/stef)
+- [How to do upgrade Desktop Spectrometer Kit 2.0 to the version 3.0 ](/notes/pablo/11-09-2016/how-to-do-upgrade-desktop-spectrometer-kit-2-0-to-the-version-3-0) by [pablo](../profile/pablo)
+- [Reduce light inside foldable PL spectrometer](/notes/xose/11-22-2016/reduce-light-inside-foldable-pl-spectrometer) by [xose](../profile/xose)
+- [ 3D printed mini spectrometer](/notes/rthalman/01-19-2017/3d-printed-mini-spectrometer) by [rthalman](../profile/rthalman)
+- [Laser-cut the Desktop Spectrometry Kit v3 box](/notes/warren/02-15-2017/laser-cut-the-desktop-spectrometry-kit-v3-box) by [warren](../profile/warren)
+- [Spectrometer 3.0 Upgrades](/notes/programmer1200/11-20-2017/spectrometer-3-0-upgrades) by [programmer1200](../profile/programmer1200)
+- [An evolution of the Spectrometer for 3D printing](/notes/ajy00/03-28-2018/an-evolution-of-the-spectrometer-for-3d-printing) by [ajy00](../profile/ajy00)
+- [Introducing a new spectrometer design - "The Spectrotube"](/notes/El_Mar/04-18-2019/introducing-a-new-spectrometer-design-the-spectrotube) by [El_Mar](../profile/El_Mar)
+- [Printable 3D Spectometer ](/notes/mdiego2798/12-08-2021/printable-3d-spectometer) by [mdiego2798](../profile/mdiego2798)

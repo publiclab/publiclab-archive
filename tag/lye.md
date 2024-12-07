@@ -1,1 +1,5 @@
-[Hydrogen Balloon Mapping](/wiki/hydrogen-balloon-mapping)
+# lye
+
+1 notes and wiki pages
+
+- [Hydrogen Balloon Mapping](/wiki/hydrogen-balloon-mapping) (wiki)

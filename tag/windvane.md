@@ -1,1 +1,5 @@
-[Any simple ways to measure wind direction from a data logger?](/notes/warren/06-12-2017/any-simple-ways-to-measure-wind-direction-from-a-data-logger)
+# windvane
+
+1 notes and wiki pages
+
+- [Any simple ways to measure wind direction from a data logger?](/notes/warren/06-12-2017/any-simple-ways-to-measure-wind-direction-from-a-data-logger) by [warren](../profile/warren)

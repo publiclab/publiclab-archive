@@ -1,1 +1,5 @@
-[TLC Youth Center. Kamwokya, Kawempe, Kampala, Central Region, Uganda.](/map/tlc-youth-center-nsambya-rd-kampala-uganda/2012-11-09)
+# nsambya
+
+1 notes and wiki pages
+
+- [TLC Youth Center. Kamwokya, Kawempe, Kampala, Central Region, Uganda.](/map/tlc-youth-center-nsambya-rd-kampala-uganda/2012-11-09) by [gonzoearth](../profile/gonzoearth)

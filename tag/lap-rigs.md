@@ -1,1 +1,5 @@
-[Plastic Tubing Oblique KAP Rig](/notes/ranon/06-22-2016/plastic-tubing-oblique-kap-rig)
+# lap-rigs
+
+1 notes and wiki pages
+
+- [Plastic Tubing Oblique KAP Rig](/notes/ranon/06-22-2016/plastic-tubing-oblique-kap-rig) by [ranon](../profile/ranon)

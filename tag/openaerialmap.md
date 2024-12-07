@@ -1,2 +1,6 @@
-[OpenAerialMap, Open Imagery Network & Public Lab's MapKnitter](/notes/warren/05-29-2015/openaerialmap-open-imagery-network-public-lab-s-mapknitter)
-[OpenDroneMap,OpenAerialMap,and MapKnitter](/notes/smathermather/06-08-2015/opendronemap-openaerialmap-and-mapknitter)
+# openaerialmap
+
+2 notes and wiki pages
+
+- [OpenAerialMap, Open Imagery Network & Public Lab's MapKnitter](/notes/warren/05-29-2015/openaerialmap-open-imagery-network-public-lab-s-mapknitter) by [warren](../profile/warren)
+- [OpenDroneMap,OpenAerialMap,and MapKnitter](/notes/smathermather/06-08-2015/opendronemap-openaerialmap-and-mapknitter) by [smathermather](../profile/smathermather)

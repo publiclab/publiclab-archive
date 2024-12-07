@@ -1,1 +1,27 @@
-[If i'm worried about soil pollution, how should i decide where to take samples?](/notes/liz/01-30-2018/if-i-m-worried-about-soil-pollution-how-should-i-decide-where-to-take-samples)
+# question-soil
+
+23 notes and wiki pages
+
+- [Question: Can DIY-spectrometer be used for analysis of soil](/notes/interestedperson_ha/06-27-2016/question-can-diy-spectrometer-be-used-for-analysis-of-soil) by [interestedperson_ha](../profile/interestedperson_ha)
+- [What are soil sampling protocols being used by groups along the gulf coast?](/notes/stevie/08-31-2017/what-are-soil-sampling-protocols-being-used-by-groups-along-the-gulf-coast) by [stevie](../profile/stevie)
+- [How do I collect a sample for laboratory analysis?](/notes/warren/09-07-2017/how-do-i-collect-a-sample-for-laboratory-analysis) by [warren](../profile/warren)
+- [Where can someone send a strange substance found on their property for analysis?](/notes/bbutler/09-14-2017/where-can-someone-send-a-strange-substance-found-on-their-property-for-analysis) by [bbutler](../profile/bbutler)
+- [When is it better to do grab sampling versus other types of monitoring?](/notes/stevie/10-11-2017/when-is-it-better-to-do-grab-sampling-versus-other-types-of-monitoring) by [stevie](../profile/stevie)
+- [We need help with garden testing after Harvey](/notes/Georgina/10-13-2017/we-need-help-with-garden-testing-after-harvey) by [Georgina](../profile/Georgina)
+- [How do I... find more information about soil sampling](/notes/dusjagr/12-12-2018/how-do-i-find-more-information-about-soil-sampling) by [dusjagr](../profile/dusjagr)
+- [How do you test for oil and gas-related contaminants in soils? ](/notes/DanielleS/01-22-2019/how-do-you-test-for-oil-and-gas-related-contaminants-in-soils) by [DanielleS](../profile/DanielleS)
+- [Anyone have experience with diy soil testing methods for contaminants- Colorimetry, spectometry, reagents, etc?](/notes/DanielleS/02-11-2019/anyone-have-experience-with-diy-soil-testing-methods-for-contaminants-colorimetry-spectometry-reagents-etc) by [DanielleS](../profile/DanielleS)
+- [How do you choose where to take soil samples when concerned about leaching of contaminants from a landfill?](/notes/DanielleS/03-12-2019/how-do-you-choose-where-to-take-soil-samples-when-concerned-about-leaching-of-contaminants-from-a-landfill) by [DanielleS](../profile/DanielleS)
+- [Do you do Soil Testing and Analysis? ](/notes/DanielleS/03-24-2019/do-you-do-soil-testing-and-analysis) by [DanielleS](../profile/DanielleS)
+- [ What soil testing methods might be good for someone who lives by a highway overpass?](/notes/stevie/05-03-2019/what-soil-testing-methods-might-be-good-for-someone-who-lives-by-a-highway-overpass) by [stevie](../profile/stevie)
+- [How to Take Soil Samples in a Marsh](/notes/MicahSampere/10-23-2019/how-to-take-soil-samples-in-a-marsh) by [MicahSampere](../profile/MicahSampere)
+- [What do I need to know before collecting soil for the Hanby soil testing kit?](/notes/CherokeeConcernedCitizens/06-13-2020/what-do-i-need-to-know-before-collecting-soil-for-the-hanby-soil-testing-kit) by [CherokeeConcernedCitizens](../profile/CherokeeConcernedCitizens)
+- [Risks of PAH exposure from contaminated dust?](/notes/kgradow1/01-21-2021/what-are-the-risks-of-pah-exposure-from-contaminated-dust) by [kgradow1](../profile/kgradow1)
+- [What are other ways to assess soil contamination, besides directly measuring contaminant concentrations?](/notes/bhamster/02-05-2021/what-are-other-ways-to-assess-soil-contamination-besides-directly-measuring-contaminant-concentrations) by [bhamster](../profile/bhamster)
+- [Does anyone have experience with remediation of contaminated soils? What are some different options?](/notes/bhamster/02-09-2021/does-anyone-have-experience-with-remediation-of-contaminated-soils-what-are-some-different-options) by [bhamster](../profile/bhamster)
+- [Are there ways to trace detected soil contaminants back to the polluting source?](/notes/amocorro/02-10-2021/are-there-ways-to-trace-detected-soil-contaminants-back-to-the-polluting-source) by [amocorro](../profile/amocorro)
+- [What are people doing about polluted soils that get put back as fill?](/notes/amocorro/03-19-2021/what-are-people-doing-about-polluted-soils-that-get-put-back-as-fill) by [amocorro](../profile/amocorro)
+- [Where can polluted soils be placed?](/notes/amocorro/03-19-2021/where-can-polluted-soils-be-placed) by [amocorro](../profile/amocorro)
+- [What causes potholes?](/notes/Rgaude/03-26-2021/what-causes-potholes) by [Rgaude](../profile/Rgaude)
+- [As soil and water share similar pollution problems, what research methods can be shared between them?](/notes/alejobonifacio/05-31-2021/as-soil-and-water-share-similar-pollution-problems-what-research-methods-can-be-shared-between-them) by [alejobonifacio](../profile/alejobonifacio)
+- [What groups or agencies are looking at the intersections of land/soil management and ocean pollution?](/notes/laurel_mire/06-19-2021/what-groups-or-agencies-are-looking-at-the-intersections-of-land-soil-management-and-ocean-pollution) by [laurel_mire](../profile/laurel_mire)

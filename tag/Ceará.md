@@ -1,1 +1,5 @@
-[CEDAPS realiza Oficina de Mapeamento em Eusébio, Ceará](/notes/ives/4-10-2013/cedaps-realiza-oficina-de-mapeamento-em-eus-bio-cear)
+# Ceará
+
+1 notes and wiki pages
+
+- [CEDAPS realiza Oficina de Mapeamento em Eusébio, Ceará](/notes/ives/4-10-2013/cedaps-realiza-oficina-de-mapeamento-em-eus-bio-cear) by [ives](../profile/ives)
