@@ -1,1 +1,5 @@
-[Camera Triggering](/wiki/camera-trigger)
+# timelapse-apps
+
+1 notes and wiki pages
+
+- [Camera Triggering](/wiki/camera-trigger) (wiki)

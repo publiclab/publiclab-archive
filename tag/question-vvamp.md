@@ -1,0 +1,23 @@
+# question-vvamp
+
+19 notes and wiki pages
+
+- [When you don’t have permission to monitor on a property from the owners and/or your neighbors, what’s your method for asking them and/or getting permission to monitor?](/notes/denissebn_06/05-04-2021/when-you-don-t-have-permission-to-monitor-on-a-property-from-the-owners-and-or-your-neighbors-what-s-your-method-for-asking-them-and-or-getting-permission-to-monitor) by [denissebn_06](../profile/denissebn_06)
+- [There are natural sources of VOCs, what are they? How do I avoid them in my air quality monitoring? ](/notes/denissebn_06/05-04-2021/i-know-there-are-natural-sources-of-vocs-what-are-they-how-do-i-avoid-them-in-my-air-quality-monitoring) by [denissebn_06](../profile/denissebn_06)
+- [Best Method(s) of Datalogging Location in the Field Without Cell Reception?](/notes/sarasage/05-11-2021/best-method-s-of-datalogging-location-in-the-field-without-cell-reception) by [sarasage](../profile/sarasage)
+- [How difficult is to figure out how to use Air Quality monitoring devices?](/notes/denissebn_06/05-11-2021/how-difficult-is-to-figure-out-how-to-use-air-quality-monitoring-devices) by [denissebn_06](../profile/denissebn_06)
+- [Which Air Quality Monitroring devices you are using, do they make noise?](/notes/denissebn_06/05-11-2021/which-air-quality-monitroring-devices-you-are-using-do-they-make-noise) by [denissebn_06](../profile/denissebn_06)
+- [Are you sampling local air quality? Are you sending results to a lab? Ask these questions! ](/notes/amocorro/05-13-2021/are-you-sampling-local-air-quality-are-you-sending-results-to-a-lab-ask-these-questions) by [amocorro](../profile/amocorro)
+- [ What are the most effective methods to monitor air quality if you live near a landfill?](/notes/amocorro/05-13-2021/what-are-the-most-effective-methods-to-monitor-air-quality-if-i-live-near-a-landfill) by [amocorro](../profile/amocorro)
+- [ Are you smelling odors in your community, and should you be concerned?  ](/notes/amocorro/05-13-2021/are-you-smelling-odors-in-your-community-and-should-you-be-concerned) by [amocorro](../profile/amocorro)
+- [Question about grab samples from the Bucket monitor tool: Which ones do I order?](/notes/amocorro/05-13-2021/grab-samples-from-the-bucket-monitor-tool-which-ones-do-i-order) by [amocorro](../profile/amocorro)
+- [What kind of event would trigger me needing to take an air sample with the bucket? ](/notes/denissebn_06/06-07-2021/what-kind-of-event-would-trigger-me-needing-to-take-an-air-sample-with-the-bucket) by [denissebn_06](../profile/denissebn_06)
+- [What kind of monitoring tools might I need to use to identify indicators before sampling with the bucket?](/notes/denissebn_06/06-07-2021/what-kind-of-monitoring-tools-might-i-need-to-use-to-identify-indicators-before-sampling) by [denissebn_06](../profile/denissebn_06)
+- [What kind of continous air monitoring devices measure HAPs and PAHs?](/notes/denissebn_06/06-08-2021/what-kind-of-continuos-air-monitoring-devices-measure-haps-and-pahs) by [denissebn_06](../profile/denissebn_06)
+- [Does anyone know why ambient oxygen levels would be higher than the normal 21%?](/notes/sarasage/06-14-2021/does-anyone-know-why-ambient-oxygen-levels-would-be-higher-than-the-normal-21) by [sarasage](../profile/sarasage)
+- [What is kriging? How it works and how can we use it when measuring purple air? ](/notes/denissebn_06/06-18-2021/what-is-kriging-how-it-works-and-how-can-we-use-it-when-measuring-purple-air) by [denissebn_06](../profile/denissebn_06)
+- [How subsurface gasses migrate and what allows them to dissipate? Landfill gasses](/notes/denissebn_06/07-12-2021/how-subsurface-gasses-migrate-and-what-allows-them-to-dissipate-landfill-gasses) by [denissebn_06](../profile/denissebn_06)
+- [What would be the optimal time according to the atm pressure to take measurements](/notes/denissebn_06/07-12-2021/what-would-be-the-optimal-time-according-to-the-atm-pressure-to-take-measurements) by [denissebn_06](../profile/denissebn_06)
+- [Is there a correlation between humidity and particulates in the air?](/notes/sarasage/08-10-2021/is-there-a-correlation-between-humidity-and-particulates-in-the-air) by [sarasage](../profile/sarasage)
+- [What are air quality indicators you should watch for around a landfill that indicate you should take a grab sample?](/notes/stevie/08-24-2021/what-are-air-quality-indicators-you-should-watch-for-around-a-landfill-that-indicate-you-should-take-a-grab-sample) by [stevie](../profile/stevie)
+- [A quick question on the GX 6000 monitor ](/notes/Ag8n/10-05-2021/a-quick-question-on-the-gx-6000-monitor) by [Ag8n](../profile/Ag8n)

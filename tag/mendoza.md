@@ -1,1 +1,5 @@
-[MZA. Mendoza, Argentina.](/map/mza-mendoza-argentina/2012-11-23)
+# mendoza
+
+1 notes and wiki pages
+
+- [MZA. Mendoza, Argentina.](/map/mza-mendoza-argentina/2012-11-23) by [gonzoearth](../profile/gonzoearth)

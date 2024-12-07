@@ -1,1 +1,5 @@
-[Streak](/wiki/streak)
+# streaks
+
+1 notes and wiki pages
+
+- [Streak](/wiki/streak) (wiki)

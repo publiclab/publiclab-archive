@@ -1,3 +1,7 @@
-[barnstars](/notes/liz/4-13-2012/barnstars)
-[Barnstars](/wiki/barnstars)
-[barnstar-brainstorm](/wiki/barnstar-brainstorm)
+# barnstars
+
+3 notes and wiki pages
+
+- [barnstars](/notes/liz/4-13-2012/barnstars) by [liz](../profile/liz)
+- [Barnstars](/wiki/barnstars) (wiki)
+- [barnstar-brainstorm](/wiki/barnstar-brainstorm) (wiki)

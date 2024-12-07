@@ -1,0 +1,27 @@
+# question-data-logging
+
+23 notes and wiki pages
+
+- [Is it possible to log the data from a dustduino without a wifi network?](/notes/kp55/01-12-2015/question) by [kp55](../profile/kp55)
+- [lightweight air quality sensors for a weather balloon](/notes/glenc/10-12-2016/lightweight-air-quality-sensors-for-a-weather-balloon) by [glenc](../profile/glenc)
+- [Getting a Raspberry Pi to output data by emulating a keyboard](/notes/warren/04-29-2017/getting-a-raspberry-pi-to-output-data-by-emulating-a-keyboard) by [warren](../profile/warren)
+- [Any simple ways to measure wind direction from a data logger?](/notes/warren/06-12-2017/any-simple-ways-to-measure-wind-direction-from-a-data-logger) by [warren](../profile/warren)
+- [Sparkfun data logging troubleshooting?](/notes/efuhrm/06-14-2017/sparkfun-data-logging-troubleshooting) by [efuhrm](../profile/efuhrm)
+- [What would be a good basic activity to test out a data logging device in water? ](/notes/stevie/06-16-2017/what-would-be-a-good-basic-activity-to-test-out-a-data-logging-device-in-water) by [stevie](../profile/stevie)
+- [What are ways to record ambient temperature every 5 sec and export easily?](/notes/carohowe/07-13-2017/what-are-ways-to-record-ambient-temperature-every-5-sec-and-export-easily) by [carohowe](../profile/carohowe)
+- [What information do I need to assess if a data logger and sensor will be compatible? ](/notes/gretchengehrke/07-19-2017/what-information-do-i-need-to-assess-if-a-data-logger-and-sensor-will-be-compatible) by [gretchengehrke](../profile/gretchengehrke)
+- [Can commercially available water sensors work with DIY data loggers? ](/notes/gretchengehrke/07-19-2017/can-commercially-available-water-sensors-work-with-diy-data-loggers) by [gretchengehrke](../profile/gretchengehrke)
+- [What is your favorite program to plot data from a data logger? ](/notes/gretchengehrke/08-02-2017/what-is-your-favorite-program-to-plot-data-from-a-data-logger) by [gretchengehrke](../profile/gretchengehrke)
+- [Suggestions for a temperature sensor for surface (stone) measurements?](/notes/MadTinker/09-08-2017/suggestions-for-a-temperature-sensor-for-surface-stone-measurements) by [MadTinker](../profile/MadTinker)
+- [How do we get data off of different wind sensors](/notes/warren/09-30-2017/how-do-we-get-data-off-of-different-wind-sensors) by [warren](../profile/warren)
+- [Walkthrough:  What software is used to get wind data off the Kestral?](/notes/kgradow1/09-30-2017/walkthrough-what-software-is-used-to-get-wind-data-off-the-kestral) by [kgradow1](../profile/kgradow1)
+- [How does data from a Kestrel wind sensor compare to an Modern Device wind sensor?](/notes/warren/09-30-2017/how-does-data-from-a-kestrel-wind-sensor-compare-to-an-modern-device-wind-sensor) by [warren](../profile/warren)
+- [How similar is the code for the KnowFlow and the RIFFLE data loggers?](/notes/gretchengehrke/11-13-2017/how-similar-is-the-command-coding-for-the-knowflow-and-the-riffle) by [gretchengehrke](../profile/gretchengehrke)
+- [How much of an Arduino's onboard memory would be available for datalogging?](/notes/warren/12-04-2017/how-much-of-an-arduino-s-onboard-memory-would-be-available-for-datalogging) by [warren](../profile/warren)
+- [Substitution for conductivity meter](/notes/Ag8n/02-12-2018/substitution-for-conductivity-meter) by [Ag8n](../profile/Ag8n)
+- [How simple would it be to connect the AS220 wind sensor P to the Mini Pearl Logger?](/notes/warren/03-07-2018/how-simple-would-it-be-to-connect-the-as220-wind-sensor-p-to-the-mini-pearl-logger) by [warren](../profile/warren)
+- [what data-logger will work with my portable HCHO meter?](/notes/nshapiro/03-27-2018/what-data-logger-will-work-with-my-portable-hcho-meter) by [nshapiro](../profile/nshapiro)
+- [Looking for hands-on help with a datalogger!](/notes/bronwen/04-11-2018/looking-for-hands-on-help-with-a-datalogger) by [Bronwen](../profile/Bronwen)
+- [What probes to get with data loggers?](/notes/pdhixenbaugh/07-08-2018/what-probes-to-get-with-data-loggers) by [pdhixenbaugh](../profile/pdhixenbaugh)
+- [DIY conductivity Sensors](/notes/roberts_ecofarm/10-24-2018/diy-conductivity-sensors) by [roberts_ecofarm](../profile/roberts_ecofarm)
+- [Can we log data on an Arduino without an SD card?](/notes/warren/04-02-2019/can-we-log-data-on-an-arduino-without-an-sd-card) by [warren](../profile/warren)

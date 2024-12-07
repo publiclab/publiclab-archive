@@ -1,0 +1,27 @@
+# activity-microscope
+
+23 notes and wiki pages
+
+- [Imagining & testing Polarized Light Microscopy for Silica dust speciation](/notes/mathew/05-21-2014/imagining-testing-polarized-light-microscopy-for-silica-dust-speciation) by [mathew](../profile/mathew)
+- [Optical Imaging of Passive Particle Monitors](/notes/mathew/09-03-2015/optical-imaging-of-passive-particle-monitors) by [mathew](../profile/mathew)
+- [Making an OpenFlexure Microscope](/notes/mathew/04-17-2016/making-an-openflexure-microscope) by [mathew](../profile/mathew)
+- [Automating ImageJ for particle image analysis](/notes/SimonPyle/05-13-2016/automating-imagej-for-particle-image-analysis) by [SimonPyle](../profile/SimonPyle)
+- [OpenFlexure Microscope: high-resolution assembly](/notes/mathew/07-21-2016/openflexure-microscope-high-resolution-assembly) by [mathew](../profile/mathew)
+- [Calibrating a Microscope](/notes/mathew/08-23-2016/calibrating-a-microscope) by [mathew](../profile/mathew)
+- [Lighting Your Sample](/notes/partsandcrafts/02-26-2018/4-lighting-your-sample) by [partsandcrafts](../profile/partsandcrafts)
+- [Testing and Calibrating Your Microscope](/notes/partsandcrafts/02-26-2018/5-testing-and-calibrating-your-microscope) by [partsandcrafts](../profile/partsandcrafts)
+- [Looking at Dust (and other things)](/notes/partsandcrafts/02-26-2018/6-looking-at-dust-and-other-things) by [partsandcrafts](../profile/partsandcrafts)
+- [Microscope Webcam Conversion](/notes/bronwen/05-07-2018/microscope-webcam-conversion) by [Bronwen](../profile/Bronwen)
+- [Community Microscope Assembly Instructions](/notes/bronwen/05-07-2018/community-microscope-assembly-instructions) by [Bronwen](../profile/Bronwen)
+- [Raspberry PI NoIR close-up Imaging ](/notes/MaggPi/05-11-2018/raspberry-pi-noir-close-up-imaging) by [MaggPi](../profile/MaggPi)
+- [Use of a 5$ bill for microscope calibration](/notes/amirberAgain/05-23-2018/use-of-a-5-bill-for-microscope-calibration) by [amirberAgain](../profile/amirberAgain)
+- [Infrared Insect Microscopy](/notes/MaggPi/06-21-2018/infrared-insect-microscopy) by [MaggPi](../profile/MaggPi)
+- [Microscope calibration overlays… What’s the best approach?](/notes/MaggPi/06-23-2018/microscope-calibration-overlays-what-s-the-best-approach) by [MaggPi](../profile/MaggPi)
+- [Add a high-quality webcam to your Community Microscope kit using LEGO](/notes/warren/10-24-2018/add-a-high-quality-webcam-to-your-community-microscope-kit) by [warren](../profile/warren)
+- [Make stages for the Community Microscope Kit](/notes/imvec/11-10-2018/community-microscope-laser-cut-file) by [imvec](../profile/imvec)
+- [Assembling the Raspberry Pi Microscope](/notes/bronwen/11-29-2018/assembling-the-raspberry-pi-microscope) by [Bronwen](../profile/Bronwen)
+- [Experiment with polarizing filters to view crystalline dust](/notes/warren/01-14-2019/experiment-with-polarizing-filters-to-view-crystalline-dust) by [warren](../profile/warren)
+- [MapKnitter map of bee leg stitch test](/notes/MaggPi/02-05-2019/mapknitter-map-of-bee-leg-stitch-test) by [MaggPi](../profile/MaggPi)
+- [A Prototype Paper Stage for the Microscope](/notes/mimiss/04-16-2019/a-prototype-paper-stage-for-the-microscope) by [mimiss](../profile/mimiss)
+- [Community Microscope Stage Assembly Instructions](/notes/mimiss/09-05-2019/community-microscope-stage-assembly-instructions) by [mimiss](../profile/mimiss)
+- [The amazing Micro-Hoek microscope](/notes/alejobonifacio/06-27-2022/the-amazing-micro-hoek-microscope) by [alejobonifacio](../profile/alejobonifacio)

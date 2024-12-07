@@ -1,3 +1,7 @@
-[MiniVol pre-deployment preparation](/notes/mathew/02-02-2017/minivol-pre-deployment-preparation)
-[MiniVol pre-deployment preparation, with images](/notes/mathew/02-09-2017/minivol-pre-deployment-preparation-with-images)
-[MiniVol pre-deployment preparation, Updated](/notes/mathew/04-05-2017/minivol-pre-deployment-preparation-updated)
+# prepping
+
+3 notes and wiki pages
+
+- [MiniVol pre-deployment preparation](/notes/mathew/02-02-2017/minivol-pre-deployment-preparation) by [mathew](../profile/mathew)
+- [MiniVol pre-deployment preparation, with images](/notes/mathew/02-09-2017/minivol-pre-deployment-preparation-with-images) by [mathew](../profile/mathew)
+- [MiniVol pre-deployment preparation, Updated](/notes/mathew/04-05-2017/minivol-pre-deployment-preparation-updated) by [mathew](../profile/mathew)

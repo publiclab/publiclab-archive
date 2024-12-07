@@ -1,1 +1,5 @@
-[New data loggers for long-term logging](/notes/cfastie/01-23-2018/new-data-loggers-for-long-term-logging)
+# mini-pearl-pro-logger
+
+1 notes and wiki pages
+
+- [New data loggers for long-term logging](/notes/cfastie/01-23-2018/new-data-loggers-for-long-term-logging) by [cfastie](../profile/cfastie)

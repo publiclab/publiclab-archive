@@ -1,1 +1,5 @@
-[Leptos: gas detection and monitoring station](/notes/imvec/10-20-2016/leptos-gas-detection-and-monitoring-station)
+# grove
+
+1 notes and wiki pages
+
+- [Leptos: gas detection and monitoring station](/notes/imvec/10-20-2016/leptos-gas-detection-and-monitoring-station) by [imvec](../profile/imvec)

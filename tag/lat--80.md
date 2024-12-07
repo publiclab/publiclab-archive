@@ -1,0 +1,5 @@
+# lat--80
+
+1 notes and wiki pages
+
+- [New moderation system for first-time posters](/notes/tester/04-23-2016/new-moderation-system-for-first-time-posters) by [tester](../profile/tester)

@@ -1,2 +1,6 @@
-[Microscope from Tablet Computer](/notes/MicroscopesAreCool/12-05-2016/microscope-from-tablet-computer)
-[Make: Magazine](/wiki/make)
+# make-magazine
+
+2 notes and wiki pages
+
+- [Microscope from Tablet Computer](/notes/MicroscopesAreCool/12-05-2016/microscope-from-tablet-computer) by [MicroscopesAreCool](../profile/MicroscopesAreCool)
+- [Make: Magazine](/wiki/make) (wiki)

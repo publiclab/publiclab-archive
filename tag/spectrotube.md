@@ -1,1 +1,5 @@
-[Introducing a new spectrometer design - "The Spectrotube"](/notes/El_Mar/04-18-2019/introducing-a-new-spectrometer-design-the-spectrotube)
+# spectrotube
+
+1 notes and wiki pages
+
+- [Introducing a new spectrometer design - "The Spectrotube"](/notes/El_Mar/04-18-2019/introducing-a-new-spectrometer-design-the-spectrotube) by [El_Mar](../profile/El_Mar)

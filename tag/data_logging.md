@@ -1,1 +1,5 @@
-[A standalone aerial sensor pod](/notes/cfastie/03-15-2017/a-standalone-aerial-sensor-pod)
+# data_logging
+
+1 notes and wiki pages
+
+- [A standalone aerial sensor pod](/notes/cfastie/03-15-2017/a-standalone-aerial-sensor-pod) by [cfastie](../profile/cfastie)

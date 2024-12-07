@@ -1,2 +1,6 @@
-[Horticultural Spectrometer Upgrade - Planning](/notes/jenjimah/04-07-2019/horticultural-spectroscope-upgrade-planning)
-[Horticultural Spectrometer - Assembly](/notes/jenjimah/05-30-2019/horticultural-spectrometer-assembly)
+# horticulture
+
+2 notes and wiki pages
+
+- [Horticultural Spectrometer Upgrade - Planning](/notes/jenjimah/04-07-2019/horticultural-spectroscope-upgrade-planning) by [jenjimah](../profile/jenjimah)
+- [Horticultural Spectrometer - Assembly](/notes/jenjimah/05-30-2019/horticultural-spectrometer-assembly) by [jenjimah](../profile/jenjimah)

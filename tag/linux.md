@@ -1,1 +1,5 @@
-[Using the infragram webcam in Linux](/notes/jarrarte/08-06-2014/using-the-infragram-webcam-in-linux)
+# linux
+
+1 notes and wiki pages
+
+- [Using the infragram webcam in Linux](/notes/jarrarte/08-06-2014/using-the-infragram-webcam-in-linux) by [jarrarte](../profile/jarrarte)

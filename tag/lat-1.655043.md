@@ -1,0 +1,5 @@
+# lat-1.655043
+
+1 notes and wiki pages
+
+- [Revised 3D printable mini spectrometer](/notes/B-winters/12-14-2018/revised-3d-printable-mini-spectrometer) by [B-winters](../profile/B-winters)

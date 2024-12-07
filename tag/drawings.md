@@ -1,1 +1,5 @@
-[Stickers](/wiki/stickers)
+# drawings
+
+1 notes and wiki pages
+
+- [Stickers](/wiki/stickers) (wiki)

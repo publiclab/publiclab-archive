@@ -1,1 +1,5 @@
-[Pfizer Building](/wiki/pfizer-building)
+# pfizer
+
+1 notes and wiki pages
+
+- [Pfizer Building](/wiki/pfizer-building) (wiki)

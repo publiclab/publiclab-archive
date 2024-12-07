@@ -1,2 +1,6 @@
-[Webcam filter removal](/wiki/webcam-filter-removal)
-[Single camera NDVI solution](/notes/theowallis/08-08-2014/single-camera-ndvi-solution)
+# ir-block
+
+2 notes and wiki pages
+
+- [Webcam filter removal](/wiki/webcam-filter-removal) (wiki)
+- [Single camera NDVI solution](/notes/theowallis/08-08-2014/single-camera-ndvi-solution) by [theowallis](../profile/theowallis)

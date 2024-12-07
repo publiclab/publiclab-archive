@@ -1,1 +1,5 @@
-[Rock Tripe Slab](/notes/cfastie/06-11-2013/rock-tripe-slab)
+# rock-tripe
+
+1 notes and wiki pages
+
+- [Rock Tripe Slab](/notes/cfastie/06-11-2013/rock-tripe-slab) by [cfastie](../profile/cfastie)

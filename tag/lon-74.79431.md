@@ -1,0 +1,5 @@
+# lon-74.79431
+
+1 notes and wiki pages
+
+- [SoC proposal: MapKnitter Image Management & User Experience](/notes/govindjeevan7/03-31-2019/soc-proposal-mapknitter-user-experience) by [govindjeevan7](../profile/govindjeevan7)

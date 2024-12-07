@@ -1,0 +1,27 @@
+# activity-infragram
+
+23 notes and wiki pages
+
+- [Creating Multispectral Imagery for California Beaches](/notes/micheletobias/5-23-2011/creating-multispectral-imagery-california-beaches) by [MicheleTobias](../profile/MicheleTobias)
+- [Video tutorial: Creating infrared composites of aerial wetlands imagery](/notes/warren/10-25-2011/video-tutorial-creating-infrared-composites-aerial-wetlands-imagery) by [warren](../profile/warren)
+- [Video tutorial: Creating false-color NDVI with aerial wetlands imagery](/notes/warren/10-27-2011/video-tutorial-creating-false-color-ndvi-aerial-wetlands-imagery) by [warren](../profile/warren)
+- [Eclectis: a week of civic science in Amsterdam North](/notes/warren/09-25-2013/eclectis-a-week-of-civic-science-in-amsterdam-north) by [warren](../profile/warren)
+- [Pasture measurement using NIR camera](/notes/drkatnz/01-24-2014/pasture-measurement-using-nir-camera) by [drkatnz](../profile/drkatnz)
+- [Mobius IR conversion](/notes/cfastie/04-22-2014/mobius-ir-conversion) by [cfastie](../profile/cfastie)
+- [Mobius NDVI](/notes/cfastie/04-26-2014/mobius-ndvi) by [cfastie](../profile/cfastie)
+- [Public Lab Lesson 3: Photography in a New Light](/wiki/public-lab-lesson-3-photography-in-a-new-light) (wiki)
+- [Introducing the calibration plugin for ImageJ/Fiji](/notes/nedhorning/07-22-2015/introducing-the-calibration-plugin-for-imagej-fiji) by [nedhorning](../profile/nedhorning)
+- [Mobius non-fish-eye lens conversion](/notes/patcoyle/08-01-2015/mobius-non-fish-eye-lens-conversion) by [patcoyle](../profile/patcoyle)
+- [Mobius non-fish eye and small lifter wrapup](/notes/patcoyle/09-07-2015/mobius-non-fish-eye-and-small-lifter-wrapup) by [patcoyle](../profile/patcoyle)
+- [Raspberry + NoIR cam + Sensors to detect water stress of the plants during their growing](/notes/LaPa/03-31-2016/raspberry-noir-cam-sensors-to-detect-water-stress-of-the-plants-during-their-growing) by [LaPa](../profile/LaPa)
+- [Getting started with the Infragram Point and Shoot](/notes/abdul/10-21-2016/infragram-point-and-shoot-starting-instructions) by [abdul](../profile/abdul)
+- [Conversion of 4k sport camera for NDVI analysis with UAVs](/notes/azaelb/12-04-2016/conversion-of-4k-sport-camera-for-ndvi-analysis-with-uavs) by [azaelb](../profile/azaelb)
+- [Install a filter or change the lens in a Mobius Action Cam](/notes/warren/10-19-2017/install-a-filter-or-change-the-lens-in-a-mobius-action-cam) by [warren](../profile/warren)
+- [Update firmware on the Mobius Action Cam](/notes/warren/10-20-2017/update-firmware-on-the-mobius-action-cam) by [warren](../profile/warren)
+- [Getting started with infrared photography on Infragram.org](/notes/warren/10-20-2017/getting-started-with-infrared-photography-on-infragram-org) by [warren](../profile/warren)
+- [Prototype: filter map tiles in real-time in a browser with ImageSequencer (NDVI Landsat)](/notes/warren/05-10-2018/prototype-filter-map-tiles-in-real-time-in-a-browser-with-imagesequencer-ndvi-landsat) by [warren](../profile/warren)
+- [Use Image Sequencer for NDVI plant analysis with 2 images](/notes/warren/05-30-2018/use-image-sequencer-for-ndvi-plant-analysis-with-2-images) by [warren](../profile/warren)
+- [Use Image Sequencer for NDVI plant analysis with a modified mini sport camera](/notes/warren/08-02-2018/use-image-sequencer-for-ndvi-plant-analysis-with-a-modified-mini-sport-camera) by [warren](../profile/warren)
+- [How to tell if my filter is a Rosco 19](/notes/shinnen/03-15-2019/how-to-tell-if-my-filter-is-a-rosco-19) by [shinnen](../profile/shinnen)
+- [Low cost NDVI analysis using RaspberryPi and PiNoIR](/notes/petter_mansson1/04-09-2019/low-cost-ndvi-analysis-using-raspberrypi-and-pinoir) by [petter_mansson1](../profile/petter_mansson1)
+- [Set up a Raspberry Pi Camera with Pi Builder](/notes/warren/05-20-2019/set-up-a-raspberry-pi-camera-with-pi-builder) by [warren](../profile/warren)
