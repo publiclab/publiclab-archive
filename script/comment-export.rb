@@ -21,3 +21,4 @@ Comment.where(nid: nids, status: 1).each do |comment|
     end
   end
 end
+

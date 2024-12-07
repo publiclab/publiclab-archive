@@ -15,7 +15,7 @@ users.uniq.each do |user|
       "---\n\n#{user.bio}\n\n"\
       "----\n\n"
     user.nodes.each do |node|
-      text += "[#{node.title}](#{node.path})\n"
+      text += "- [#{node.title}](#{node.path})\n"
     end
     file.write(text)
   end
