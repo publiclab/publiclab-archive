@@ -1,12 +1,18 @@
 ---
-nid: 13934
 title: Public Lab nonprofit job posting: Open Hardware Community Manager
-path: public/static/notes/Shannon/02-16-2017/public-lab-nonprofit-job-posting-open-hardware-community-manager.md
+tagnames: nonprofit, jobs
+author: Shannon
+path: /notes/Shannon/02-16-2017/public-lab-nonprofit-job-posting-open-hardware-community-manager.md
+nid: 13934
 uid: 9
-tagnames: nonprofit,jobs
+
 ---
 
 # Public Lab nonprofit job posting: Open Hardware Community Manager
+
+by [Shannon](../profile/Shannon) February 16, 2017 15:43
+
+February 16, 2017 15:43 | Tags: [nonprofit](../tag/nonprofit), [jobs](../tag/jobs)
 
 ---- _**EXTENDED DEADLINE: MONDAY 8AM ET**_ ----
 

@@ -1,12 +1,18 @@
 ---
-nid: 11556
 title: Lesson 1: Wetlands, Water, & Oil
-path: public/static/wiki/lesson-1-wetlands-water-oil.md
+tagnames: education, wetlands, curriculum, classroom, lesson_plan, biology, ecology, environmental_engineering, with:amandaf, parent:wetlands-lesson-plans, activity:wetlands
+author: mollydanielsson
+path: /wiki/lesson-1-wetlands-water-oil.md
+nid: 11556
 uid: 1259
-tagnames: education,wetlands,curriculum,classroom,lesson_plan,biology,ecology,environmental_engineering,with:amandaf,parent:wetlands-lesson-plans,activity:wetlands
+
 ---
 
 # Lesson 1: Wetlands, Water, & Oil
+
+by [gretchengehrke](../profile/gretchengehrke), [mathew](../profile/mathew), [mollydanielsson](../profile/mollydanielsson)
+
+February 06, 2015 01:41 | Tags: [education](../tag/education), [wetlands](../tag/wetlands), [curriculum](../tag/curriculum), [classroom](../tag/classroom), [lesson_plan](../tag/lesson_plan), [biology](../tag/biology), [ecology](../tag/ecology), [environmental_engineering](../tag/environmental_engineering), [with:amandaf](../tag/with:amandaf), [parent:wetlands-lesson-plans](../tag/parent:wetlands-lesson-plans), [activity:wetlands](../tag/activity:wetlands)
 
 Infrared Curriculum Lessons [1](/wiki/lesson-1-wetlands-water-oil), [2](/wiki/public-lab-lesson-2-more-than-meets-the-eye), [3](/wiki/public-lab-lesson-3-photography-in-a-new-light), [4](/wiki/public-lab-lesson-4-environmental-monitoring)
 

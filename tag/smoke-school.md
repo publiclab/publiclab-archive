@@ -1,6 +1,6 @@
 # smoke-school
 
-4 notes and wiki pages
+4 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [What's the best way to archive/store a timelapse video?](/notes/warren/09-16-2016/what-s-the-best-way-to-archive-store-a-timelapse-video) by [warren](../profile/warren)
 - [Is there a water quality equivalent of Smoke School, the EPA air pollution observer certification?](/notes/warren/09-16-2016/is-there-a-water-quality-equivalent-of-smoke-school-the-epa-air-pollution-observer-certification) by [warren](../profile/warren)

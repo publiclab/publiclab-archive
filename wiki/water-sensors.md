@@ -1,12 +1,18 @@
 ---
-nid: 14596
 title: Water Sensors
-path: public/static/wiki/water-sensors.md
+tagnames: water-quality-monitoring, hydrogen-sulfide, sensors, water-quality, water, water-quality-sensor, method, water-sensors, sidebar:none, parent:water-quality, parent:sensors
+author: gretchengehrke
+path: /wiki/water-sensors.md
+nid: 14596
 uid: 430549
-tagnames: water-quality-monitoring,hydrogen-sulfide,sensors,water-quality,water,water-quality-sensor,method,water-sensors,sidebar:none,parent:water-quality,parent:sensors
+
 ---
 
 # Water Sensors
+
+by [Nova](../profile/Nova), [warren](../profile/warren), [gilbert](../profile/gilbert), [stevie](../profile/stevie), [gretchengehrke](../profile/gretchengehrke), [liz](../profile/liz), [shanlter](../profile/shanlter)
+
+June 30, 2017 21:34 | Tags: [water-quality-monitoring](../tag/water-quality-monitoring), [hydrogen-sulfide](../tag/hydrogen-sulfide), [sensors](../tag/sensors), [water-quality](../tag/water-quality), [water](../tag/water), [water-quality-sensor](../tag/water-quality-sensor), [method](../tag/method), [water-sensors](../tag/water-sensors), [sidebar:none](../tag/sidebar:none), [parent:water-quality](../tag/parent:water-quality), [parent:sensors](../tag/parent:sensors)
 
 Many people interested in measuring various **water quality parameters** that are relevant to environmental health in low-cost and accessible ways. Many have been working on low-cost, open-source sensors for water chemistry and physical properties, and there are also several commercially available water sensors and analog tools that can measure relevant water quality parameters.
 

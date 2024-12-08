@@ -1,12 +1,18 @@
 ---
-nid: 2258
 title: Spectral Workbench user login system
-path: public/static/notes/warren/5-30-2012/spectral-workbench-user-login-system.md
+tagnames: spectrometer, spectral-workbench
+author: warren
+path: /notes/warren/5-30-2012/spectral-workbench-user-login-system.md
+nid: 2258
 uid: 1
-tagnames: spectrometer,spectral-workbench
+
 ---
 
 # Spectral Workbench user login system
+
+by [warren](../profile/warren) May 30, 2012 20:08
+
+May 30, 2012 20:08 | Tags: [spectrometer](../tag/spectrometer), [spectral-workbench](../tag/spectral-workbench)
 
 Users of [Spectral Workbench](https://spectralworkbench.org) may have noticed some minor hiccups this morning as new features were added. Most importantly, you can now log into the site using your PublicLaboratory.org username. This unified login system will also soon be rolled out on [MapKnitter.org](https://mapknitter.org). 
 

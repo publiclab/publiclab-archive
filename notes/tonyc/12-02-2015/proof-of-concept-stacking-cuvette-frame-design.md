@@ -1,12 +1,18 @@
 ---
-nid: 12472
 title: proof of concept, stacking cuvette frame design
-path: public/static/notes/tonyc/12-02-2015/proof-of-concept-stacking-cuvette-frame-design.md
+tagnames: spectrometer, desktop-spectrometer, cuvette, oil-testing-kit, papercraft, response:12462, cuvette-frame
+author: tonyc
+path: /notes/tonyc/12-02-2015/proof-of-concept-stacking-cuvette-frame-design.md
+nid: 12472
 uid: 447491
-tagnames: spectrometer,desktop-spectrometer,cuvette,oil-testing-kit,papercraft,response:12462,cuvette-frame
+
 ---
 
 # proof of concept, stacking cuvette frame design
+
+by [tonyc](../profile/tonyc) December 02, 2015 19:19
+
+December 02, 2015 19:19 | Tags: [spectrometer](../tag/spectrometer), [desktop-spectrometer](../tag/desktop-spectrometer), [cuvette](../tag/cuvette), [oil-testing-kit](../tag/oil-testing-kit), [papercraft](../tag/papercraft), [response:12462](../tag/response:12462), [cuvette-frame](../tag/cuvette-frame)
 
 ###What is this?
 I wanted to show a different idea for a cuvette frame, with emphasis on simplicity of construction to allow for home-building.

@@ -1,6 +1,6 @@
 # with-alejobonifacio
 
-7 notes and wiki pages
+7 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Event! Welcome to a public research area review on wastewater, July 27](/notes/bhamster/07-20-2021/event-welcome-to-a-public-research-area-review-on-wastewater-july-27) by [bhamster](../profile/bhamster)
 - [Reviewing and refreshing the topic of wastewater](/notes/bhamster/07-23-2021/reviewing-and-refreshing-the-topic-of-wastewater) by [bhamster](../profile/bhamster)

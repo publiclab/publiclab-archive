@@ -1,12 +1,18 @@
 ---
-nid: 60
 title: Balloon Telemetry Kit
-path: public/static/wiki/balloon-telemetry-kit.md
+tagnames: balloon-mapping, arduino, balloon-telemetry-kit, telemetry, photo-rig, mining, urban-planning, fracking, tool, land-use, industry, method, land-change
+author: lpercifield
+path: /wiki/balloon-telemetry-kit.md
+nid: 60
 uid: 20
-tagnames: balloon-mapping,arduino,balloon-telemetry-kit,telemetry,photo-rig,mining,urban-planning,fracking,tool,land-use,industry,method,land-change
+
 ---
 
 # Balloon Telemetry Kit
+
+by [mathew](../profile/mathew), [warren](../profile/warren), [balrog](../profile/balrog), [liz](../profile/liz), [lpercifield](../profile/lpercifield)
+
+January 25, 2011 18:35 | Tags: [balloon-mapping](../tag/balloon-mapping), [arduino](../tag/arduino), [balloon-telemetry-kit](../tag/balloon-telemetry-kit), [telemetry](../tag/telemetry), [photo-rig](../tag/photo-rig), [mining](../tag/mining), [urban-planning](../tag/urban-planning), [fracking](../tag/fracking), [tool](../tag/tool), [land-use](../tag/land-use), [industry](../tag/industry), [method](../tag/method), [land-change](../tag/land-change)
 
 This kit was created as a means to improve the georeferencing of images captured using <a href="http://publiclaboratory.org/tool/balloon-mapping">balloon mapping</a>. This kit is based around the open-source Arduino mircocontroller. Utilizing a GPS receiver, barometric sensor, three-axis accelerometer and data logger, this module allows for the synchronization of data with images captured from a Canon camera running the <a href="http://chdk.wikia.com/wiki/CHDK">CHDK</a>. By utilizing the USB remote function of the CHDK software the camera can be triggered in sync with the logging of the sensor data. 
 

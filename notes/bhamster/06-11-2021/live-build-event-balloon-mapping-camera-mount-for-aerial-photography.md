@@ -1,12 +1,18 @@
 ---
-nid: 26811
 title: Live build event: Balloon mapping camera mount for aerial photography! 
-path: public/static/notes/bhamster/06-11-2021/live-build-event-balloon-mapping-camera-mount-for-aerial-photography.md
+tagnames: balloon-mapping, aerial-photography, mapping, event, event:rsvp, camera-rigs, with:a1ahna, rsvp:amocorro, rsvp:sarasage, date:06-30-2021, rsvp:stdelorme
+author: bhamster
+path: /notes/bhamster/06-11-2021/live-build-event-balloon-mapping-camera-mount-for-aerial-photography.md
+nid: 26811
 uid: 664477
-tagnames: balloon-mapping,aerial-photography,mapping,event,event:rsvp,camera-rigs,with:a1ahna,rsvp:amocorro,rsvp:sarasage,date:06-30-2021,rsvp:stdelorme
+
 ---
 
 # Live build event: Balloon mapping camera mount for aerial photography! 
+
+by [bhamster](../profile/bhamster) June 11, 2021 15:18
+
+June 11, 2021 15:18 | Tags: [balloon-mapping](../tag/balloon-mapping), [aerial-photography](../tag/aerial-photography), [mapping](../tag/mapping), [event](../tag/event), [event:rsvp](../tag/event:rsvp), [camera-rigs](../tag/camera-rigs), [with:a1ahna](../tag/with:a1ahna), [rsvp:amocorro](../tag/rsvp:amocorro), [rsvp:sarasage](../tag/rsvp:sarasage), [date:06-30-2021](../tag/date:06-30-2021), [rsvp:stdelorme](../tag/rsvp:stdelorme)
 
 ## Event details
 

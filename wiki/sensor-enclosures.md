@@ -1,12 +1,18 @@
 ---
-nid: 14615
 title: Sensor enclosures
-path: public/static/wiki/sensor-enclosures.md
+tagnames: sensing, sensors, water-quality, tool, method, enclosures
+author: warren
+path: /wiki/sensor-enclosures.md
+nid: 14615
 uid: 1
-tagnames: sensing,sensors,water-quality,tool,method,enclosures
+
 ---
 
 # Sensor enclosures
+
+by [warren](../profile/warren), [stevie](../profile/stevie)
+
+July 03, 2017 21:28 | Tags: [sensing](../tag/sensing), [sensors](../tag/sensors), [water-quality](../tag/water-quality), [tool](../tag/tool), [method](../tag/method), [enclosures](../tag/enclosures)
 
 Environmental sensors that are used outdoors for long periods often need weatherproof or even waterproof enclosures. This page collects resources and projects to protect electronic and other sensors from the elements. (above [Riffle](/wiki/riffle) image by @cfastie [in this post](/notes/cfastie/06-09-2016/compost-is-hot-says-riffle))
 

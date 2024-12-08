@@ -1,12 +1,18 @@
 ---
-nid: 13336
 title: Barnraising Val Verde, CA
-path: public/static/wiki/barnraising-val-verde-ca.md
+tagnames: barnraising, regionalbarnraising, val-verde, socalwastestream
+author: stevie
+path: /wiki/barnraising-val-verde-ca.md
+nid: 13336
 uid: 422561
-tagnames: barnraising,regionalbarnraising,val-verde,socalwastestream
+
 ---
 
 # Barnraising Val Verde, CA
+
+by [warren](../profile/warren), [stevie](../profile/stevie)
+
+August 05, 2016 19:35 | Tags: [barnraising](../tag/barnraising), [regionalbarnraising](../tag/regionalbarnraising), [val-verde](../tag/val-verde), [socalwastestream](../tag/socalwastestream)
 
 [![IMG_20160710_134340.jpg](//publiclab.org/system/images/photos/000/017/396/medium/IMG_20160710_134340.jpg)](//publiclab.org/system/images/photos/000/017/396/original/IMG_20160710_134340.jpg)
 

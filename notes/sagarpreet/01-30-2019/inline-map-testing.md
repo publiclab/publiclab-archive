@@ -1,12 +1,18 @@
 ---
-nid: 18208
 title: Inline map testing 
-path: public/static/notes/sagarpreet/01-30-2019/inline-map-testing.md
+tagnames: testing, developers
+author: sagarpreet
+path: /notes/sagarpreet/01-30-2019/inline-map-testing.md
+nid: 18208
 uid: 516343
-tagnames: testing,developers
+
 ---
 
 # Inline map testing 
+
+by [sagarpreet](../profile/sagarpreet) January 30, 2019 10:17
+
+January 30, 2019 10:17 | Tags: [testing](../tag/testing), [developers](../tag/developers)
 
 A brief guide to embedding maps on \[PublicLab.org\](http://PublicLab.org) pages.  
   

@@ -1,12 +1,18 @@
 ---
-nid: 14922
 title: Peer Production Playbook
-path: public/static/wiki/peer-production-playbook.md
-uid: 1
 tagnames: 
+author: warren
+path: /wiki/peer-production-playbook.md
+nid: 14922
+uid: 1
+
 ---
 
 # Peer Production Playbook
+
+by [warren](../profile/warren)
+
+September 20, 2017 17:40 | Tags: 
 
 Peer Production Playbook (rough)
 

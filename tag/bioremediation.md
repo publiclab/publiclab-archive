@@ -1,6 +1,6 @@
 # bioremediation
 
-9 notes and wiki pages
+9 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Biohacking / DIY Bio](/wiki/biohacking-diy-bio) (wiki)
 - [Indoor Air Quality Monitoring](/wiki/indoor-air-quality-monitoring) (wiki)

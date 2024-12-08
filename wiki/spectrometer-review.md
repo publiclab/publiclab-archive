@@ -1,12 +1,18 @@
 ---
-nid: 701
 title: spectrometer review
-path: public/static/wiki/spectrometer-review.md
-uid: 12
 tagnames: 
+author: gonzoearth
+path: /wiki/spectrometer-review.md
+nid: 701
+uid: 12
+
 ---
 
 # spectrometer review
+
+by [gonzoearth](../profile/gonzoearth)
+
+January 19, 2012 00:42 | Tags: 
 
 Questions for Spectrometer
 

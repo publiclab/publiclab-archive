@@ -1,12 +1,18 @@
 ---
-nid: 30036
 title: Lesson One- STEM MICROPLASTIC POLUTION -PUBLIC LAB
-path: public/static/notes/TheChessGym/02-18-2022/lesson-one-stem-microplastic-polution-public-lab.md
+tagnames: microplastics, lat:22, first-time-poster, lon:76, zoom:6
+author: TheChessGym
+path: /notes/TheChessGym/02-18-2022/lesson-one-stem-microplastic-polution-public-lab.md
+nid: 30036
 uid: 788868
-tagnames: microplastics,lat:22,first-time-poster,lon:76,zoom:6
+
 ---
 
 # Lesson One- STEM MICROPLASTIC POLUTION -PUBLIC LAB
+
+by [TheChessGym](../profile/TheChessGym) February 18, 2022 16:04
+
+February 18, 2022 16:04 | Tags: [microplastics](../tag/microplastics), [lat:22](../tag/lat:22), [first-time-poster](../tag/first-time-poster), [lon:76](../tag/lon:76), [zoom:6](../tag/zoom:6)
 
 Tell the story of a piece of plastic that you've found on the ground.  Where was it made?  What was it made for?  How many times has it been used?  Why is it on the ground and not in a landfill or being recycled? 
 

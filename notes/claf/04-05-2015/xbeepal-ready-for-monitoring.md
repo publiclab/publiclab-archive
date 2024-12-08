@@ -1,12 +1,18 @@
 ---
-nid: 11743
 title: XbeePal ready for monitoring
-path: public/static/notes/claf/04-05-2015/xbeepal-ready-for-monitoring.md
+tagnames: air-quality, fracking, mesh, xbee, zigbee, network
+author: claf
+path: /notes/claf/04-05-2015/xbeepal-ready-for-monitoring.md
+nid: 11743
 uid: 426041
-tagnames: air-quality,fracking,mesh,xbee,zigbee,network
+
 ---
 
 # XbeePal ready for monitoring
+
+by [claf](../profile/claf) April 05, 2015 16:40
+
+April 05, 2015 16:40 | Tags: [air-quality](../tag/air-quality), [fracking](../tag/fracking), [mesh](../tag/mesh), [xbee](../tag/xbee), [zigbee](../tag/zigbee), [network](../tag/network)
 
 This project could be useful for ways citizens can monitor air quality, for example, specific elements used in fracking, and to combine collection of IR video and gas sensing in one box, or scatter many different sensors over a large area.
 

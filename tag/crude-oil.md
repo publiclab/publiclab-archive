@@ -1,6 +1,6 @@
 # crude-oil
 
-5 notes and wiki pages
+5 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Crude oil samples for purchase online](/notes/warren/05-03-2013/crude-oil-samples-for-purchase-online) by [warren](../profile/warren)
 - [Barataria Bay Mapping Project ](/wiki/barataria-bay-mapping-project) (wiki)

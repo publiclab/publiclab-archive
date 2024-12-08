@@ -1,12 +1,18 @@
 ---
-nid: 27765
 title: El desagüe sospechoso en el río Suquía
-path: public/static/notes/alejobonifacio/10-13-2021/el-desague-sospechoso-en-el-rio-suquia.md
+tagnames: sewage, water-quality, stormwater, lang:es, barnstar:photo-documentation, tampon, wastewater, south-america, zoom:15, research-curation-fellows, lat:-31.4, appear, bioindicators, lon:-64.2
+author: alejobonifacio
+path: /notes/alejobonifacio/10-13-2021/el-desague-sospechoso-en-el-rio-suquia.md
+nid: 27765
 uid: 639376
-tagnames: sewage,water-quality,stormwater,lang:es,barnstar:photo-documentation,tampon,wastewater,south-america,zoom:15,research-curation-fellows,lat:-31.4,appear,bioindicators,lon:-64.2
+
 ---
 
 # El desagüe sospechoso en el río Suquía
+
+by [alejobonifacio](../profile/alejobonifacio) October 13, 2021 19:18
+
+October 13, 2021 19:18 | Tags: [sewage](../tag/sewage), [water-quality](../tag/water-quality), [stormwater](../tag/stormwater), [lang:es](../tag/lang:es), [barnstar:photo-documentation](../tag/barnstar:photo-documentation), [tampon](../tag/tampon), [wastewater](../tag/wastewater), [south-america](../tag/south-america), [zoom:15](../tag/zoom:15), [research-curation-fellows](../tag/research-curation-fellows), [lat:-31.4](../tag/lat:-31.4), [appear](../tag/appear), [bioindicators](../tag/bioindicators), [lon:-64.2](../tag/lon:-64.2)
 
 # El problema
 

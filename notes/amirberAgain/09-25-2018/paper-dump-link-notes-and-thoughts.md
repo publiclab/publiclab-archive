@@ -1,12 +1,18 @@
 ---
-nid: 17171
 title: paper dump: link notes and thoughts.
-path: public/static/notes/amirberAgain/09-25-2018/paper-dump-link-notes-and-thoughts.md
+tagnames: education, research, publication, publications, microscope
+author: amirberAgain
+path: /notes/amirberAgain/09-25-2018/paper-dump-link-notes-and-thoughts.md
+nid: 17171
 uid: 420776
-tagnames: education,research,publication,publications,microscope
+
 ---
 
 # paper dump: link notes and thoughts.
+
+by [amirberAgain](../profile/amirberAgain) September 25, 2018 07:05
+
+September 25, 2018 07:05 | Tags: [education](../tag/education), [research](../tag/research), [publication](../tag/publication), [publications](../tag/publications), [microscope](../tag/microscope)
 
 This is to be used as a regularly updated post where I post links to new papers I think are of interest to the community.
 

@@ -1,12 +1,18 @@
 ---
-nid: 13515
 title: PLab-3 Proto Slit Upgrade
-path: public/static/notes/stoft/10-03-2016/plab-3-proto-slit-upgrade.md
+tagnames: spectrometer, spectrometry, desktop-spectrometer, upgrade:spectrometry, upgrade:dssk, seeks:builds
+author: stoft
+path: /notes/stoft/10-03-2016/plab-3-proto-slit-upgrade.md
+nid: 13515
 uid: 54025
-tagnames: spectrometer,spectrometry,desktop-spectrometer,upgrade:spectrometry,upgrade:dssk,seeks:builds
+
 ---
 
 # PLab-3 Proto Slit Upgrade
+
+by [stoft](../profile/stoft) October 03, 2016 06:44
+
+October 03, 2016 06:44 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [desktop-spectrometer](../tag/desktop-spectrometer), [upgrade:spectrometry](../tag/upgrade:spectrometry), [upgrade:dssk](../tag/upgrade:dssk), [seeks:builds](../tag/seeks:builds)
 
 **Abstract**
 

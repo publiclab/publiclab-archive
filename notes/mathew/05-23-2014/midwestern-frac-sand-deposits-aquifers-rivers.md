@@ -1,12 +1,18 @@
 ---
-nid: 10504
 title: Midwestern Frac Sand Deposits, Aquifers, & Rivers
-path: public/static/notes/mathew/05-23-2014/midwestern-frac-sand-deposits-aquifers-rivers.md
+tagnames: sand, wisconsin, water-quality, water, particulates, silica, frac-sand, pm, midwest, groundwater, particles, aquifer, parent:frac-sand
+author: mathew
+path: /notes/mathew/05-23-2014/midwestern-frac-sand-deposits-aquifers-rivers.md
+nid: 10504
 uid: 4
-tagnames: sand,wisconsin,water-quality,water,particulates,silica,frac-sand,pm,midwest,groundwater,particles,aquifer,parent:frac-sand
+
 ---
 
 # Midwestern Frac Sand Deposits, Aquifers, & Rivers
+
+by [mathew](../profile/mathew) May 23, 2014 03:26
+
+May 23, 2014 03:26 | Tags: [sand](../tag/sand), [wisconsin](../tag/wisconsin), [water-quality](../tag/water-quality), [water](../tag/water), [particulates](../tag/particulates), [silica](../tag/silica), [frac-sand](../tag/frac-sand), [pm](../tag/pm), [midwest](../tag/midwest), [groundwater](../tag/groundwater), [particles](../tag/particles), [aquifer](../tag/aquifer), [parent:frac-sand](../tag/parent:frac-sand)
 
 Image Credit: USGS
 

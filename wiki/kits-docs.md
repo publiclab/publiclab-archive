@@ -1,12 +1,18 @@
 ---
-nid: 14931
 title: Kits Docs
-path: public/static/wiki/kits-docs.md
+tagnames: providence, balloon-mapping, kite-mapping, open-source, community, kits, kite, aerial-photography, diy, mapping, science, design, balloon, opensource, pollution, environment, maker, kitemapping, parent:kits, citizenscience, communityscience, exploration, activism
+author: kits
+path: /wiki/kits-docs.md
+nid: 14931
 uid: 514831
-tagnames: providence,balloon-mapping,kite-mapping,open-source,community,kits,kite,aerial-photography,diy,mapping,science,design,balloon,opensource,pollution,environment,maker,kitemapping,parent:kits,citizenscience,communityscience,exploration,activism
+
 ---
 
 # Kits Docs
+
+by [warren](../profile/warren), [kits](../profile/kits)
+
+September 21, 2017 20:51 | Tags: [providence](../tag/providence), [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [open-source](../tag/open-source), [community](../tag/community), [kits](../tag/kits), [kite](../tag/kite), [aerial-photography](../tag/aerial-photography), [diy](../tag/diy), [mapping](../tag/mapping), [science](../tag/science), [design](../tag/design), [balloon](../tag/balloon), [opensource](../tag/opensource), [pollution](../tag/pollution), [environment](../tag/environment), [maker](../tag/maker), [kitemapping](../tag/kitemapping), [parent:kits](../tag/parent:kits), [citizenscience](../tag/citizenscience), [communityscience](../tag/communityscience), [exploration](../tag/exploration), [activism](../tag/activism)
 
 Various documentation and instructions for the Kits initiative.
 

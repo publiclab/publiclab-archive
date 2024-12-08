@@ -1,12 +1,18 @@
 ---
-nid: 11286
 title: Passing Light Through an Object.
-path: public/static/notes/amysoyka/10-21-2014/passing-light-through-an-object.md
+tagnames: spectrometer, laser, container, oil-testing-kit, light-source
+author: amysoyka
+path: /notes/amysoyka/10-21-2014/passing-light-through-an-object.md
+nid: 11286
 uid: 422627
-tagnames: spectrometer,laser,container,oil-testing-kit,light-source
+
 ---
 
 # Passing Light Through an Object.
+
+by [amysoyka](../profile/amysoyka) October 21, 2014 10:47
+
+October 21, 2014 10:47 | Tags: [spectrometer](../tag/spectrometer), [laser](../tag/laser), [container](../tag/container), [oil-testing-kit](../tag/oil-testing-kit), [light-source](../tag/light-source)
 
 ###What I wanted to do
 

@@ -1,10 +1,16 @@
 ---
-nid: 219
 title: Testing new false color gradients for NDVI
-path: public/static/notes/warren/5-5-2011/testing-new-false-color-gradients-ndvi.md
+tagnames: lima, near-infrared-camera, peru, ndvi, false-color
+author: warren
+path: /notes/warren/5-5-2011/testing-new-false-color-gradients-ndvi.md
+nid: 219
 uid: 1
-tagnames: lima,near-infrared-camera,peru,ndvi,false-color
+
 ---
 
 # Testing new false color gradients for NDVI
+
+by [warren](../profile/warren) May 05, 2011 18:41
+
+May 05, 2011 18:41 | Tags: [lima](../tag/lima), [near-infrared-camera](../tag/near-infrared-camera), [peru](../tag/peru), [ndvi](../tag/ndvi), [false-color](../tag/false-color)
 

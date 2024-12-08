@@ -1,12 +1,18 @@
 ---
-nid: 10484
 title: Frac Sand Frisbee- Maps against Mines
-path: public/static/notes/mathew/05-20-2014/frac-sand-frisbee-maps-against-mines.md
+tagnames: community-mapping, mapping, blog, fracking, silica, frac-sand, powerpoint, parent:frac-sand, story:frac-sand
+author: mathew
+path: /notes/mathew/05-20-2014/frac-sand-frisbee-maps-against-mines.md
+nid: 10484
 uid: 4
-tagnames: community-mapping,mapping,blog,fracking,silica,frac-sand,powerpoint,parent:frac-sand,story:frac-sand
+
 ---
 
 # Frac Sand Frisbee- Maps against Mines
+
+by [mathew](../profile/mathew) May 20, 2014 01:30
+
+May 20, 2014 01:30 | Tags: [community-mapping](../tag/community-mapping), [mapping](../tag/mapping), [blog](../tag/blog), [fracking](../tag/fracking), [silica](../tag/silica), [frac-sand](../tag/frac-sand), [powerpoint](../tag/powerpoint), [parent:frac-sand](../tag/parent:frac-sand), [story:frac-sand](../tag/story:frac-sand)
 
 Mikey O'Connor's blog, [Frac Sand Frisbee](http://http://fracsandfrisbee.com) does an excellent job of explaining the problems with frac sand mines in Buffalo County, Wisconsin, and with providing resources to others to [replicate a campaign against the mines](http://fracsandfrisbee.com/steal-these-documents/).  I highly recommend it. Images here are used with permission from Mikey.
 

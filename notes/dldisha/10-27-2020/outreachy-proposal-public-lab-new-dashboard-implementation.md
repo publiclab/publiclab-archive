@@ -1,12 +1,18 @@
 ---
-nid: 24825
 title: Outreachy proposal: Public Lab New Dashboard Implementation
-path: public/static/notes/dldisha/10-27-2020/outreachy-proposal-public-lab-new-dashboard-implementation.md
+tagnames: software, first-time-poster, outreachy-winter-2020, outreachy-2020-winter-proposals, response:24687
+author: dldisha
+path: /notes/dldisha/10-27-2020/outreachy-proposal-public-lab-new-dashboard-implementation.md
+nid: 24825
 uid: 568154
-tagnames: software,first-time-poster,outreachy-winter-2020,outreachy-2020-winter-proposals,response:24687
+
 ---
 
 # Outreachy proposal: Public Lab New Dashboard Implementation
+
+by [dldisha](../profile/dldisha) October 27, 2020 22:57
+
+October 27, 2020 22:57 | Tags: [software](../tag/software), [first-time-poster](../tag/first-time-poster), [outreachy-winter-2020](../tag/outreachy-winter-2020), [outreachy-2020-winter-proposals](../tag/outreachy-2020-winter-proposals), [response:24687](../tag/response:24687)
 
 ### About Me:
 

@@ -1,12 +1,18 @@
 ---
-nid: 8946
 title: Public Lab and NASA DEVELOP fieldwork session one
-path: public/static/notes/Shannon/07-31-2013/public-lab-and-nasa-develop-fieldwork-session-one.md
+tagnames: gulf-coast, spectrometer, refinery, flare, chalmette
+author: Shannon
+path: /notes/Shannon/07-31-2013/public-lab-and-nasa-develop-fieldwork-session-one.md
+nid: 8946
 uid: 9
-tagnames: gulf-coast,spectrometer,refinery,flare,chalmette
+
 ---
 
 # Public Lab and NASA DEVELOP fieldwork session one
+
+by [Shannon](../profile/Shannon) July 31, 2013 16:27
+
+July 31, 2013 16:27 | Tags: [gulf-coast](../tag/gulf-coast), [spectrometer](../tag/spectrometer), [refinery](../tag/refinery), [flare](../tag/flare), [chalmette](../tag/chalmette)
 
 We've been working with a small team from NASA DEVELOP National Program that is headquartered at Stennis Space Station in Mississippi. They reached out to us with interest in using the Public Lab spectrometer to look at emissions from oil and natural gas production and processing sites, and refinery flaring in particular. Particular toxics that they are interested in looking at include sulfur, nitrogen containing compounds and organic carbons.
 

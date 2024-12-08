@@ -1,12 +1,18 @@
 ---
-nid: 5530
 title: Notes for new Get Involved sequence
-path: public/static/wiki/get-involved.md
+tagnames: website, plots2, introduction, participation, wintercamp, out-of-date
+author: warren
+path: /wiki/get-involved.md
+nid: 5530
 uid: 1
-tagnames: website,plots2,introduction,participation,wintercamp,out-of-date
+
 ---
 
 # Notes for new Get Involved sequence
+
+by [liz](../profile/liz), [mathew](../profile/mathew), [mollydanielsson](../profile/mollydanielsson), [eustatic](../profile/eustatic), [warren](../profile/warren)
+
+January 10, 2013 17:37 | Tags: [website](../tag/website), [plots2](../tag/plots2), [introduction](../tag/introduction), [participation](../tag/participation), [wintercamp](../tag/wintercamp), [out-of-date](../tag/out-of-date)
 
 Different folks want to get involved in Public Lab for different reasons. Look through the following prompts to see where you fit in!
 

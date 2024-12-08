@@ -1,12 +1,18 @@
 ---
-nid: 12661
 title: oil-testing-workshop-design-an-experiment
-path: public/static/wiki/oil-testing-workshop-design-an-experiment.md
+tagnames: spectrometer, workshop, oil-testing-kit, parent:oil-testing-workshops, experimental-design
+author: liz
+path: /wiki/oil-testing-workshop-design-an-experiment.md
+nid: 12661
 uid: 7
-tagnames: spectrometer,workshop,oil-testing-kit,parent:oil-testing-workshops,experimental-design
+
 ---
 
 # oil-testing-workshop-design-an-experiment
+
+by [warren](../profile/warren), [liz](../profile/liz)
+
+February 05, 2016 22:16 | Tags: [spectrometer](../tag/spectrometer), [workshop](../tag/workshop), [oil-testing-kit](../tag/oil-testing-kit), [parent:oil-testing-workshops](../tag/parent:oil-testing-workshops), [experimental-design](../tag/experimental-design)
 
 _Drafted in January 2016 by Gretchen Gehrke, Stevie Lewis, Liz Barry._
 

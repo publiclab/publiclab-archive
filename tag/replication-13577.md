@@ -1,6 +1,6 @@
 # replication-13577
 
-3 notes and wiki pages
+3 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Study on the spectra observed from a homemade spectroscope](/notes/Karmanya/12-19-2016/study-on-the-spectra-observed-from-a-homemade-spectroscope) by [Karmanya](../profile/Karmanya)
 - [Foldable Spectrometer Workshop for Cities](/notes/nicholas/02-28-2017/foldable-spectrometer-workshop-for-cities) by [nicholas](../profile/nicholas)

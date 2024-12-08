@@ -1,12 +1,18 @@
 ---
-nid: 19578
 title: Build a Raspberry Pi Zero aerial photo rig
-path: public/static/notes/warren/05-30-2019/build-a-raspberry-pi-zero-aerial-photo-rig.md
+tagnames: balloon-mapping, near-infrared-camera, photo-rig, raspberry-pi, pi-camera, raspberry-pi-cameras, replication:10166, response:10166
+author: warren
+path: /notes/warren/05-30-2019/build-a-raspberry-pi-zero-aerial-photo-rig.md
+nid: 19578
 uid: 1
-tagnames: balloon-mapping,near-infrared-camera,photo-rig,raspberry-pi,pi-camera,raspberry-pi-cameras,replication:10166,response:10166
+
 ---
 
 # Build a Raspberry Pi Zero aerial photo rig
+
+by [warren](../profile/warren) May 30, 2019 15:12
+
+May 30, 2019 15:12 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [photo-rig](../tag/photo-rig), [raspberry-pi](../tag/raspberry-pi), [pi-camera](../tag/pi-camera), [raspberry-pi-cameras](../tag/raspberry-pi-cameras), [replication:10166](../tag/replication:10166), [response:10166](../tag/response:10166)
 
 As people are starting to use the Raspberry Pi Zero and we're collecting ideas and resources at #pi-camera, I wanted to share this simple design for a pi-camera rig for balloon and kite mapping.
 

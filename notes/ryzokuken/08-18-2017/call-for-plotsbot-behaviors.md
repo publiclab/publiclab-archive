@@ -1,12 +1,18 @@
 ---
-nid: 14768
 title: Call for plotsbot behaviors
-path: public/static/notes/ryzokuken/08-18-2017/call-for-plotsbot-behaviors.md
+tagnames: google-summer-of-code, plotsbot
+author: ryzokuken
+path: /notes/ryzokuken/08-18-2017/call-for-plotsbot-behaviors.md
+nid: 14768
 uid: 493113
-tagnames: google-summer-of-code,plotsbot
+
 ---
 
 # Call for plotsbot behaviors
+
+by [ryzokuken](../profile/ryzokuken) August 18, 2017 18:20
+
+August 18, 2017 18:20 | Tags: [google-summer-of-code](../tag/google-summer-of-code), [plotsbot](../tag/plotsbot)
 
 Due to my recent work on the publiclab API, all users can now make comments on the website by making a simple `POST` request. This feature is exciting because it allows us to program plotsbot, our cute little internal chatbot to post comments on the [publiclab.org](http://publiclab.org) website.
 

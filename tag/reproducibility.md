@@ -1,6 +1,6 @@
 # reproducibility
 
-3 notes and wiki pages
+3 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Reproducibility test of data using an IR lamp](/notes/viechdokter/04-13-2016/reproducibility-test-of-data-using-an-ir-lamp) by [viechdokter](../profile/viechdokter)
 - [Reproducibility test using a CFL lamp](/notes/viechdokter/04-13-2016/reproducibility-test-using-a-cfl-lamp) by [viechdokter](../profile/viechdokter)

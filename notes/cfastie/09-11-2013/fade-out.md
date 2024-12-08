@@ -1,12 +1,18 @@
 ---
-nid: 9315
 title: Fade out
-path: public/static/notes/cfastie/09-11-2013/fade-out.md
+tagnames: near-infrared-camera, vermont, leaffest, infragram, infrablue, leaffest2013, response:9305
+author: cfastie
+path: /notes/cfastie/09-11-2013/fade-out.md
+nid: 9315
 uid: 554
-tagnames: near-infrared-camera,vermont,leaffest,infragram,infrablue,leaffest2013,response:9305
+
 ---
 
 # Fade out
+
+by [cfastie](../profile/cfastie) September 11, 2013 20:57
+
+September 11, 2013 20:57 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [vermont](../tag/vermont), [leaffest](../tag/leaffest), [infragram](../tag/infragram), [infrablue](../tag/infrablue), [leaffest2013](../tag/leaffest2013), [response:9305](../tag/response:9305)
 
 *Image above: The blue white-balance paper included in the Infragram filter kit after exposure to sunlight. The "shadow" of the little clip is the only area without much fading. That much fading happened in two to three hours.*  
 

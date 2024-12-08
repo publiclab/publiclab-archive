@@ -1,12 +1,18 @@
 ---
-nid: 11567
 title: Civic and Citizen Science: The Cocodrie Barnraising heats up
-path: public/static/wiki/civic-and-citizen-science-the-cocodrie-barnraising-heats-up.md
+tagnames: citizen-science, grassrootsmappingforum, civic-science, style:fancy, with:mathew, with:jeff, with:donblair, with:danbeavers, with:eustatic, with:liz, with:cindy_excites, gmf-3, with:hudonnoodles, with:patcoyle, with:jbreen, with:oscarbrett
+author: mollydanielsson
+path: /wiki/civic-and-citizen-science-the-cocodrie-barnraising-heats-up.md
+nid: 11567
 uid: 1259
-tagnames: citizen-science,grassrootsmappingforum,civic-science,style:fancy,with:mathew,with:jeff,with:donblair,with:danbeavers,with:eustatic,with:liz,with:cindy_excites,gmf-3,with:hudonnoodles,with:patcoyle,with:jbreen,with:oscarbrett
+
 ---
 
 # Civic and Citizen Science: The Cocodrie Barnraising heats up
+
+by [mollydanielsson](../profile/mollydanielsson)
+
+February 08, 2015 01:43 | Tags: [citizen-science](../tag/citizen-science), [grassrootsmappingforum](../tag/grassrootsmappingforum), [civic-science](../tag/civic-science), [style:fancy](../tag/style:fancy), [with:mathew](../tag/with:mathew), [with:jeff](../tag/with:jeff), [with:donblair](../tag/with:donblair), [with:danbeavers](../tag/with:danbeavers), [with:eustatic](../tag/with:eustatic), [with:liz](../tag/with:liz), [with:cindy_excites](../tag/with:cindy_excites), [gmf-3](../tag/gmf-3), [with:hudonnoodles](../tag/with:hudonnoodles), [with:patcoyle](../tag/with:patcoyle), [with:jbreen](../tag/with:jbreen), [with:oscarbrett](../tag/with:oscarbrett)
 
 **Published in Winter 2012/2013** [Grassroots Mapping Forum#3.](http://publiclab.org/forum)
 [Order online.](http://store.publiclab.org/products/grassroots-mapping-forum-issue-3)

@@ -1,12 +1,18 @@
 ---
-nid: 15047
 title: Hurricane Harvey Industrial Impact Image Sorting
-path: public/static/notes/gilbert/10-13-2017/hurricane-harvey-industrial-impact-image-sorting.md
+tagnames: gulf-coast, image-sorting, hurricane, nas, disaster-response, harvey, hurricanes, replication:14916
+author: gilbert
+path: /notes/gilbert/10-13-2017/hurricane-harvey-industrial-impact-image-sorting.md
+nid: 15047
 uid: 508551
-tagnames: gulf-coast,image-sorting,hurricane,nas,disaster-response,harvey,hurricanes,replication:14916
+
 ---
 
 # Hurricane Harvey Industrial Impact Image Sorting
+
+by [gilbert](../profile/gilbert) October 13, 2017 15:15
+
+October 13, 2017 15:15 | Tags: [gulf-coast](../tag/gulf-coast), [image-sorting](../tag/image-sorting), [hurricane](../tag/hurricane), [nas](../tag/nas), [disaster-response](../tag/disaster-response), [harvey](../tag/harvey), [hurricanes](../tag/hurricanes), [replication:14916](../tag/replication:14916)
 
 ![image description](https://publiclab.org/system/images/photos/000/021/935/large/unnamed.jpg "unnamed.jpg")
 

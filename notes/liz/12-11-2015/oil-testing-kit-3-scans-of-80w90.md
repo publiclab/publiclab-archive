@@ -1,12 +1,18 @@
 ---
-nid: 12499
 title: Oil Testing Kit: 3 scans of 80W90
-path: public/static/notes/liz/12-11-2015/oil-testing-kit-3-scans-of-80w90.md
+tagnames: spectrometer, oil-testing-kit, oil-testing-kit-beta
+author: liz
+path: /notes/liz/12-11-2015/oil-testing-kit-3-scans-of-80w90.md
+nid: 12499
 uid: 7
-tagnames: spectrometer,oil-testing-kit,oil-testing-kit-beta
+
 ---
 
 # Oil Testing Kit: 3 scans of 80W90
+
+by [liz](../profile/liz) December 11, 2015 20:37
+
+December 11, 2015 20:37 | Tags: [spectrometer](../tag/spectrometer), [oil-testing-kit](../tag/oil-testing-kit), [oil-testing-kit-beta](../tag/oil-testing-kit-beta)
 
 Here is a screenshot of my set of three scans of 80W90, https://spectralworkbench.org/sets/2876 : 
 

@@ -1,6 +1,6 @@
 # skypod
 
-16 notes and wiki pages
+16 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Adding GPS logging to a kite or balloon aerial photography rig](/notes/cfastie/01-08-2017/adding-gps-logging-to-a-kite-or-balloon-aerial-photography-rig) by [cfastie](../profile/cfastie)
 - [Add GPS logging to a Saturn V Rig](/notes/cfastie/01-14-2017/add-gps-logging-to-microsd-card-to-a-saturn-v-rig) by [cfastie](../profile/cfastie)
@@ -10,7 +10,6 @@
 - [SkyPod endurance test](/notes/cfastie/04-17-2017/skypod-endurance-test) by [cfastie](../profile/cfastie)
 - [First flight of the SkyPod](/notes/cfastie/06-18-2017/first-flight-of-the-skypod) by [cfastie](../profile/cfastie)
 - [SkyPod GPS Logger](/wiki/skypod-gps-logger) (wiki)
-- [What do you think about work at home?](/notes/mikekaliven87/06-30-2017/what-do-you-think-about-work-at-home) by [mikekaliven87](../profile/mikekaliven87)
 - [Winds aloft](/notes/cfastie/08-03-2017/winds-aloft) by [cfastie](../profile/cfastie)
 - [Assembling a SkyPod GPS logger](/notes/cfastie/08-07-2017/assembling-a-skypod-gps-logger) by [cfastie](../profile/cfastie)
 - [Winds aloft: less noise](/notes/cfastie/08-12-2017/winds-aloft-less-noise) by [cfastie](../profile/cfastie)

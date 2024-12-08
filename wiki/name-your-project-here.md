@@ -1,12 +1,18 @@
 ---
-nid: 22883
 title: Name your project here
-path: public/static/wiki/name-your-project-here.md
-uid: 666956
 tagnames: 
+author: CoastalConstructionCrew504
+path: /wiki/name-your-project-here.md
+nid: 22883
+uid: 666956
+
 ---
 
 # Name your project here
+
+by [CoastalConstructionCrew504](../profile/CoastalConstructionCrew504)
+
+February 20, 2020 15:27 | Tags: 
 
 Many people don’t know about problems like coastal land loss. With big rivers like the Mississippi  and millions of growing wetlands we need loads of sediment to sustain our coast. I asked myself, “What is coastal land loss anyway”? Coastal land loss is when our coats start to erode away due to physical factors such as reduced sediment flow, human activities, frequent storms, and relative sea level rise. However the three major causes of coastal erosion are reduced sediment flow, subsidence, and sea level rise. 
 

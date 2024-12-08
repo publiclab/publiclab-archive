@@ -1,12 +1,18 @@
 ---
-nid: 11726
 title: The KAPtery marches on
-path: public/static/notes/cfastie/03-26-2015/the-kaptery-marches-on.md
+tagnames: balloon-mapping, kite-mapping, kite-aerial-photography, 3dprinting, kaptery
+author: cfastie
+path: /notes/cfastie/03-26-2015/the-kaptery-marches-on.md
+nid: 11726
 uid: 554
-tagnames: balloon-mapping,kite-mapping,kite-aerial-photography,3dprinting,kaptery
+
 ---
 
 # The KAPtery marches on
+
+by [cfastie](../profile/cfastie) March 26, 2015 16:08
+
+March 26, 2015 16:08 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [kite-aerial-photography](../tag/kite-aerial-photography), [3dprinting](../tag/3dprinting), [kaptery](../tag/kaptery)
 
 After a year of 3D printing camera rigs for aerial mapping, I would have expected to be bored. Instead, observing how the finished parts work inevitably leads me to change the models. I have designed and printed dozens of different versions of the Redstone and Titan 2 rigs which have progressively become easier to print, easier to assemble, more functional, and stronger. Combined with the unpredictability of 3D printing, this makes every day at the KAPtery a new experience.  
 

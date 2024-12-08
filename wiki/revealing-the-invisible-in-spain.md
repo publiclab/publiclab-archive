@@ -1,12 +1,18 @@
 ---
-nid: 11699
 title: Revealing the Invisible in Spain
-path: public/static/wiki/revealing-the-invisible-in-spain.md
+tagnames: balloon-mapping, spain, grassrootsmappingforum, events:spain, with:shannon, style:fancy, with:basurama, gmf-5
+author: mollydanielsson
+path: /wiki/revealing-the-invisible-in-spain.md
+nid: 11699
 uid: 1259
-tagnames: balloon-mapping,spain,grassrootsmappingforum,events:spain,with:shannon,style:fancy,with:basurama,gmf-5
+
 ---
 
 # Revealing the Invisible in Spain
+
+by [mollydanielsson](../profile/mollydanielsson)
+
+March 20, 2015 23:19 | Tags: [balloon-mapping](../tag/balloon-mapping), [spain](../tag/spain), [grassrootsmappingforum](../tag/grassrootsmappingforum), [events:spain](../tag/events:spain), [with:shannon](../tag/with:shannon), [style:fancy](../tag/style:fancy), [with:basurama](../tag/with:basurama), [gmf-5](../tag/gmf-5)
 
 Published **Q2 2014** in the [Grassroots Mapping Forum #5](http://publiclab.org/forum)
 [Order online](http://store.publiclab.org/collections/publications/products/grassroots-mapping-forum-issue-5-the-international-issue)

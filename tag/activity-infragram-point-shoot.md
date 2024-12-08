@@ -1,6 +1,6 @@
 # activity-infragram-point-shoot
 
-8 notes and wiki pages
+8 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Mobius IR conversion](/notes/cfastie/04-22-2014/mobius-ir-conversion) by [cfastie](../profile/cfastie)
 - [Getting started with the Infragram Point and Shoot](/notes/abdul/10-21-2016/infragram-point-and-shoot-starting-instructions) by [abdul](../profile/abdul)

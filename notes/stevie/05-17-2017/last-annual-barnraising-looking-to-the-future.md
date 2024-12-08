@@ -1,12 +1,18 @@
 ---
-nid: 14206
 title: Last Annual Barnraising -- looking to the future
-path: public/static/notes/stevie/05-17-2017/last-annual-barnraising-looking-to-the-future.md
+tagnames: events, cocodrie, barnraising, event, blog, save, annual-barnraising
+author: stevie
+path: /notes/stevie/05-17-2017/last-annual-barnraising-looking-to-the-future.md
+nid: 14206
 uid: 422561
-tagnames: events,cocodrie,barnraising,event,blog,save,annual-barnraising
+
 ---
 
 # Last Annual Barnraising -- looking to the future
+
+by [stevie](../profile/stevie) May 17, 2017 18:54
+
+May 17, 2017 18:54 | Tags: [events](../tag/events), [cocodrie](../tag/cocodrie), [barnraising](../tag/barnraising), [event](../tag/event), [blog](../tag/blog), [save](../tag/save), [annual-barnraising](../tag/annual-barnraising)
 
 Big news coming from Public Lab: after many years of fun, creative, and successful Annual Barnraisings, this year’s event **(November 3rd-5th!)** will be the last of its kind -- at least for the time being -- as we shift focus to Regional Barnraisings.   
 

@@ -1,12 +1,18 @@
 ---
-nid: 2866
 title: Safety Precautions for H2S Research
-path: public/static/notes/sara/7-18-2012/safety-precaution-h2s-research.md
+tagnames: hydrogen-sulfide-sensing, hydrogen-sulfide, h2s, h2s-photopaper
+author: sara
+path: /notes/sara/7-18-2012/safety-precaution-h2s-research.md
+nid: 2866
 uid: 8
-tagnames: hydrogen-sulfide-sensing,hydrogen-sulfide,h2s,h2s-photopaper
+
 ---
 
 # Safety Precautions for H2S Research
+
+by [sara](../profile/sara) July 18, 2012 18:01
+
+July 18, 2012 18:01 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s), [h2s-photopaper](../tag/h2s-photopaper)
 
 <strong>SAFETY AND H2S
 </strong>

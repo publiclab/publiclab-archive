@@ -1,12 +1,18 @@
 ---
-nid: 6839
 title: New spectrometer liner design with integrated camera mount
-path: public/static/notes/warren/04-15-2013/new-spectrometer-liner-design-with-integrated-camera-mount.md
+tagnames: spectrometer, kit, insert, refinement
+author: warren
+path: /notes/warren/04-15-2013/new-spectrometer-liner-design-with-integrated-camera-mount.md
+nid: 6839
 uid: 1
-tagnames: spectrometer,kit,insert,refinement
+
 ---
 
 # New spectrometer liner design with integrated camera mount
+
+by [warren](../profile/warren) April 15, 2013 13:31
+
+April 15, 2013 13:31 | Tags: [spectrometer](../tag/spectrometer), [kit](../tag/kit), [insert](../tag/insert), [refinement](../tag/refinement)
 
 I've been wondering if we can make the spectrometer camera mount better and more straightforward by building it all into the fold able paper insert, which would also fix the geometry of the interior of the device. Here's a rough attempt: 
 

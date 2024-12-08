@@ -1,12 +1,18 @@
 ---
-nid: 4691
 title: Agricultural mapping
-path: public/static/notes/cfastie/10-29-2012/agricultural-trial-mapping.md
+tagnames: balloon-mapping, near-infrared-camera, nrg, ndvi, farmhack, imagej, barnraising, ifarm, gigapan, ndvi-ag
+author: cfastie
+path: /notes/cfastie/10-29-2012/agricultural-trial-mapping.md
+nid: 4691
 uid: 554
-tagnames: balloon-mapping,near-infrared-camera,nrg,ndvi,farmhack,imagej,barnraising,ifarm,gigapan,ndvi-ag
+
 ---
 
 # Agricultural mapping
+
+by [cfastie](../profile/cfastie) October 29, 2012 21:52
+
+October 29, 2012 21:52 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [nrg](../tag/nrg), [ndvi](../tag/ndvi), [farmhack](../tag/farmhack), [imagej](../tag/imagej), [barnraising](../tag/barnraising), [ifarm](../tag/ifarm), [gigapan](../tag/gigapan), [ndvi-ag](../tag/ndvi-ag)
 
 <em>NDVI image of part of the Lee, NH cover crop field trial we mapped by balloon in May, 2012. Four plots treated with high-carbon wood ash are distinct from adjacent plots which received different treatments. This image was created with Ned Horning's ImageJ plugin using a new histogram stretching option and a new color table Ned created for NDVI images.</em>
 

@@ -1,12 +1,18 @@
 ---
-nid: 11303
 title: notes on setting up a Dustduino
-path: public/static/notes/mathew/10-27-2014/notes-on-setting-up-a-dustduino.md
+tagnames: arduino, air-quality, dustduino, dust, silica, particle-monitoring, shinyei, replication:9818, air-sensors
+author: mathew
+path: /notes/mathew/10-27-2014/notes-on-setting-up-a-dustduino.md
+nid: 11303
 uid: 4
-tagnames: arduino,air-quality,dustduino,dust,silica,particle-monitoring,shinyei,replication:9818,air-sensors
+
 ---
 
 # notes on setting up a Dustduino
+
+by [mathew](../profile/mathew) October 27, 2014 04:14
+
+October 27, 2014 04:14 | Tags: [arduino](../tag/arduino), [air-quality](../tag/air-quality), [dustduino](../tag/dustduino), [dust](../tag/dust), [silica](../tag/silica), [particle-monitoring](../tag/particle-monitoring), [shinyei](../tag/shinyei), [replication:9818](../tag/replication:9818), [air-sensors](../tag/air-sensors)
 
 ###What I want to do
 setup a [Dustduino](http://publiclab.org/wiki/dustduino) per Matthew @Schoyer's [instructions](/notes/Schroyer/11-23-2013/measure-coarse-and-fine-air-particulates-with-a-dustduino)

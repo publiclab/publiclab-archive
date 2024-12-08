@@ -1,12 +1,18 @@
 ---
-nid: 5215
 title: Foldable Spectrometry Starter Kit
-path: public/static/wiki/foldable-spec.md
+tagnames: spectrometer, kickstarter, spectrometry, fold-up-mini-spectrometer, how-to, kit, fold-up, guide, foldable, papercraft, parent:papercraft-spectrometer
+author: mathew
+path: /wiki/foldable-spec.md
+nid: 5215
 uid: 4
-tagnames: spectrometer,kickstarter,spectrometry,fold-up-mini-spectrometer,how-to,kit,fold-up,guide,foldable,papercraft,parent:papercraft-spectrometer
+
 ---
 
 # Foldable Spectrometry Starter Kit
+
+by [warren](../profile/warren), [abdul](../profile/abdul), [gretchengehrke](../profile/gretchengehrke), [liz](../profile/liz), [mathew](../profile/mathew)
+
+December 16, 2012 07:24 | Tags: [spectrometer](../tag/spectrometer), [kickstarter](../tag/kickstarter), [spectrometry](../tag/spectrometry), [fold-up-mini-spectrometer](../tag/fold-up-mini-spectrometer), [how-to](../tag/how-to), [kit](../tag/kit), [fold-up](../tag/fold-up), [guide](../tag/guide), [foldable](../tag/foldable), [papercraft](../tag/papercraft), [parent:papercraft-spectrometer](../tag/parent:papercraft-spectrometer)
 
 New to [spectrometry](/wiki/spectrometry)? On a budget? Looking for something to introduce a group to spectrometry? You might like to try the **Papercraft Spectrometry Starter Kit**, a simple foldable paper spectrometer which you can attach to a smartphone or webcam. It’s made of paper to reduce cost and complexity, and is mainly intended as a low cost “introductory” or educational kit.
 

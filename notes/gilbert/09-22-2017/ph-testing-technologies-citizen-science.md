@@ -1,12 +1,18 @@
 ---
-nid: 14939
 title: pH Testing Technologies & Citizen Science
-path: public/static/notes/gilbert/09-22-2017/ph-testing-technologies-citizen-science.md
+tagnames: citizen-science, water-quality, ph, ph-testing
+author: gilbert
+path: /notes/gilbert/09-22-2017/ph-testing-technologies-citizen-science.md
+nid: 14939
 uid: 508551
-tagnames: citizen-science,water-quality,ph,ph-testing
+
 ---
 
 # pH Testing Technologies & Citizen Science
+
+by [gilbert](../profile/gilbert) September 22, 2017 16:29
+
+September 22, 2017 16:29 | Tags: [citizen-science](../tag/citizen-science), [water-quality](../tag/water-quality), [ph](../tag/ph), [ph-testing](../tag/ph-testing)
 
 ![image description](https://publiclab.org/system/images/photos/000/022/694/large/f_09_CarlsbergLab_splsorensen2_a_v.jpg "f_09_CarlsbergLab_splsorensen2_a_v.jpg")
 

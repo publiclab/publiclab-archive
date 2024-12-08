@@ -1,12 +1,18 @@
 ---
-nid: 11140
 title: How much are Coqui measurements affected by hot/cold water?
-path: public/static/notes/warren/09-13-2014/riffle-coqui-hot-cold-tapwater-test.md
+tagnames: vermont, leaffest, water-quality, conductivity, riffle, northeast, 555, openwater, with:kgradow1, leaffest2014, coqui, tapwater, question:coqui, activity:coqui-usage
+author: warren
+path: /notes/warren/09-13-2014/riffle-coqui-hot-cold-tapwater-test.md
+nid: 11140
 uid: 1
-tagnames: vermont,leaffest,water-quality,conductivity,riffle,northeast,555,openwater,with:kgradow1,leaffest2014,coqui,tapwater,question:coqui,activity:coqui-usage
+
 ---
 
 # How much are Coqui measurements affected by hot/cold water?
+
+by [warren](../profile/warren) September 13, 2014 20:40
+
+September 13, 2014 20:40 | Tags: [vermont](../tag/vermont), [leaffest](../tag/leaffest), [water-quality](../tag/water-quality), [conductivity](../tag/conductivity), [riffle](../tag/riffle), [northeast](../tag/northeast), [555](../tag/555), [openwater](../tag/openwater), [with:kgradow1](../tag/with:kgradow1), [leaffest2014](../tag/leaffest2014), [coqui](../tag/coqui), [tapwater](../tag/tapwater), [question:coqui](../tag/question:coqui), [activity:coqui-usage](../tag/activity:coqui-usage)
 
 ###What I want to do
 

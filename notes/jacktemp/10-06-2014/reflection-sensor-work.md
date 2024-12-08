@@ -1,12 +1,18 @@
 ---
-nid: 11234
 title: Reflection — sensor work
-path: public/static/notes/jacktemp/10-06-2014/reflection-sensor-work.md
-uid: 428016
 tagnames: sensor-journalism
+author: jacktemp
+path: /notes/jacktemp/10-06-2014/reflection-sensor-work.md
+nid: 11234
+uid: 428016
+
 ---
 
 # Reflection — sensor work
+
+by [jacktemp](../profile/jacktemp) October 06, 2014 02:26
+
+October 06, 2014 02:26 | Tags: [sensor-journalism](../tag/sensor-journalism)
 
 Jackie Tempera
 Reflection

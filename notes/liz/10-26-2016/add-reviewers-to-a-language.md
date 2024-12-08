@@ -1,12 +1,18 @@
 ---
-nid: 13656
 title: Add Reviewers to a language (managers)
-path: public/static/notes/liz/10-26-2016/add-reviewers-to-a-language.md
+tagnames: community, website, localization, translation, language, activity:localization-managers, transifex
+author: liz
+path: /notes/liz/10-26-2016/add-reviewers-to-a-language.md
+nid: 13656
 uid: 7
-tagnames: community,website,localization,translation,language,activity:localization-managers,transifex
+
 ---
 
 # Add Reviewers to a language (managers)
+
+by [liz](../profile/liz) October 26, 2016 20:26
+
+October 26, 2016 20:26 | Tags: [community](../tag/community), [website](../tag/website), [localization](../tag/localization), [translation](../tag/translation), [language](../tag/language), [activity:localization-managers](../tag/activity:localization-managers), [transifex](../tag/transifex)
 
 This activity is for managers of Public Lab's Transifex project. Please leave a comment if you would like to help manage this project. By the end of this activity, you will know how to change the role of people as reviewers.   
 

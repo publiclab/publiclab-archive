@@ -1,12 +1,18 @@
 ---
-nid: 18924
 title: What could be some applications of a hand-powered paper centrifuge?
-path: public/static/notes/mimiss/04-01-2019/what-could-be-some-applications-of-a-hand-powered-paper-centrifuge.md
+tagnames: water, sampling, microscopy, question:general, question:water-sampling, question:lego-spectrometer, question:microscopy, question:baby-legs, centrifuge, question:centrifuge
+author: mimiss
+path: /notes/mimiss/04-01-2019/what-could-be-some-applications-of-a-hand-powered-paper-centrifuge.md
+nid: 18924
 uid: 579821
-tagnames: water,sampling,microscopy,question:general,question:water-sampling,question:lego-spectrometer,question:microscopy,question:baby-legs,centrifuge,question:centrifuge
+
 ---
 
 # What could be some applications of a hand-powered paper centrifuge?
+
+by [mimiss](../profile/mimiss) April 01, 2019 14:24
+
+April 01, 2019 14:24 | Tags: [water](../tag/water), [sampling](../tag/sampling), [microscopy](../tag/microscopy), [question:general](../tag/question:general), [question:water-sampling](../tag/question:water-sampling), [question:lego-spectrometer](../tag/question:lego-spectrometer), [question:microscopy](../tag/question:microscopy), [question:baby-legs](../tag/question:baby-legs), [centrifuge](../tag/centrifuge), [question:centrifuge](../tag/question:centrifuge)
 
 I've been looking at this paper centrifuge designed for use in healthcare: https://www.nih.gov/news-events/nih-research-matters/low-cost-hand-powered-paper-centrifuge
 

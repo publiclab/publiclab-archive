@@ -1,6 +1,6 @@
 # activity-open-air
 
-6 notes and wiki pages
+6 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [DIY Formaldehyde Test Kit](/notes/nshapiro/11-03-2014/diy-formaldehyde-test-kit) by [nshapiro](../profile/nshapiro)
 - [DIY: Wi-Fi Streaming Weatherproof PM2.5 Monitor (Dylos-based)](/notes/kevinvivergy/12-04-2015/diy-wi-fi-streaming-weatherproof-pm2-5-monitor-dylos-based) by [kevinvivergy](../profile/kevinvivergy)

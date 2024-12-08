@@ -1,12 +1,18 @@
 ---
-nid: 6231
 title: cheap slitless digital camera spectroscope with cellular
-path: public/static/notes/jean-christophe-dore/3-7-2013/cheap-slitless-digital-camera-spectroscope-cellular.md
+tagnames: spectrometer, cellular, slitless
+author: Jean-Christophe-DORE
+path: /notes/jean-christophe-dore/3-7-2013/cheap-slitless-digital-camera-spectroscope-cellular.md
+nid: 6231
 uid: 44865
-tagnames: spectrometer,cellular,slitless
+
 ---
 
 # cheap slitless digital camera spectroscope with cellular
+
+by [Jean-Christophe-DORE](../profile/Jean-Christophe-DORE) March 07, 2013 14:44
+
+March 07, 2013 14:44 | Tags: [spectrometer](../tag/spectrometer), [cellular](../tag/cellular), [slitless](../tag/slitless)
 
 This simple mod allows the slide to be mounted to most cell phones, turning them into digital spectrometers.
 

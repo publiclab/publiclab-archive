@@ -1,12 +1,16 @@
 ---
-nid: 22426
 title: welcome-msg
-path: public/static/feature/welcome-msg.md
-uid: 1
 tagnames: 
+author: warren
+path: /feature/welcome-msg.md
+nid: 22426
+uid: 1
+
 ---
 
 # welcome-msg
+
+January 29, 2020 15:00 | Tags: 
 
 <div id="new_contributor_msg">
 <p>

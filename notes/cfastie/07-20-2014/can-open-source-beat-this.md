@@ -1,12 +1,18 @@
 ---
-nid: 10939
 title: Can open source beat this?
-path: public/static/notes/cfastie/07-20-2014/can-open-source-beat-this.md
+tagnames: open-hardware, temperature, alaska, sensors, light, microcontroller
+author: cfastie
+path: /notes/cfastie/07-20-2014/can-open-source-beat-this.md
+nid: 10939
 uid: 554
-tagnames: open-hardware,temperature,alaska,sensors,light,microcontroller
+
 ---
 
 # Can open source beat this?
+
+by [cfastie](../profile/cfastie) July 20, 2014 18:47
+
+July 20, 2014 18:47 | Tags: [open-hardware](../tag/open-hardware), [temperature](../tag/temperature), [alaska](../tag/alaska), [sensors](../tag/sensors), [light](../tag/light), [microcontroller](../tag/microcontroller)
 
 Last summer, Jeremy Littell of the US Department of Interior Alaska Climate Science Center installed some environmental sensors at four of our study sites at alpine treeline in interior Alaska.  Earlier this month we met Jeremy at our sites south of the Alaska Range as he retrieved and replaced the sensors and placed additional sensors at another treeline site.  The sensors record only temperature and light, but strategic placement allows inference of critical environmental variables which could influence the success of tree seedlings. Our 15 year study at these sites suggests that white spruce (*Picea glauca*) is invading alpine tundra, but we have no local data to link this process to climate change.   
 .  

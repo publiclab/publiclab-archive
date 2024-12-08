@@ -1,12 +1,18 @@
 ---
-nid: 13403
 title: Riffle Device: Water Conductivity Sensor
-path: public/static/notes/rebeccah/08-29-2016/riffle-device-water-conductivity-sensor.md
+tagnames: water, data, probe, conductivity, riffle, logger, quality, coqui, open, rtc, drinking, surface, activity:riffle, riffle-examples, activity:conductivity, activity:coqui-version
+author: rebeccah
+path: /notes/rebeccah/08-29-2016/riffle-device-water-conductivity-sensor.md
+nid: 13403
 uid: 489342
-tagnames: water,data,probe,conductivity,riffle,logger,quality,coqui,open,rtc,drinking,surface,activity:riffle,riffle-examples,activity:conductivity,activity:coqui-version
+
 ---
 
 # Riffle Device: Water Conductivity Sensor
+
+by [rebeccah](../profile/rebeccah) August 29, 2016 15:07
+
+August 29, 2016 15:07 | Tags: [water](../tag/water), [data](../tag/data), [probe](../tag/probe), [conductivity](../tag/conductivity), [riffle](../tag/riffle), [logger](../tag/logger), [quality](../tag/quality), [coqui](../tag/coqui), [open](../tag/open), [rtc](../tag/rtc), [drinking](../tag/drinking), [surface](../tag/surface), [activity:riffle](../tag/activity:riffle), [riffle-examples](../tag/riffle-examples), [activity:conductivity](../tag/activity:conductivity), [activity:coqui-version](../tag/activity:coqui-version)
 
 ###What I Want To Do
 The ultimate goal is to design an inexpensive device that can be placed in streams across Western Pennsylvania. Accomplishing the goal will give data on surface water as a bigger picture, and also to raise awareness of water contamination issues. To do so, the Riffle+Coquí device, incorporating a specially designed probe and waterproof housing, will be utilized to measure the conductivity of water.

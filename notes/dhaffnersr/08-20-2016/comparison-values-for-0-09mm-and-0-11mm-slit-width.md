@@ -1,12 +1,18 @@
 ---
-nid: 13376
 title: Comparison Values for 0.09mm and 0.11mm Slit Width
-path: public/static/notes/dhaffnersr/08-20-2016/comparison-values-for-0-09mm-and-0-11mm-slit-width.md
-uid: 461120
 tagnames: 
+author: dhaffnersr
+path: /notes/dhaffnersr/08-20-2016/comparison-values-for-0-09mm-and-0-11mm-slit-width.md
+nid: 13376
+uid: 461120
+
 ---
 
 # Comparison Values for 0.09mm and 0.11mm Slit Width
+
+by [dhaffnersr](../profile/dhaffnersr) August 20, 2016 23:31
+
+August 20, 2016 23:31 | Tags: 
 
 Here is the data for the second part of my comparison of the 0.09mm acetate film strip and the 0.11mm metal open-air design slit. 
 

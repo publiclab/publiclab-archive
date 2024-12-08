@@ -1,12 +1,18 @@
 ---
-nid: 8705
 title: Five Borough Farm visits Clay Avenue Garden in the Bronx
-path: public/static/notes/liz/07-05-2013/five-borough-farm-visits-clay-avenue-garden-in-the-bronx.md
+tagnames: new-york-city, 5bf, five-borough-farm
+author: liz
+path: /notes/liz/07-05-2013/five-borough-farm-visits-clay-avenue-garden-in-the-bronx.md
+nid: 8705
 uid: 7
-tagnames: new-york-city,5bf,five-borough-farm
+
 ---
 
 # Five Borough Farm visits Clay Avenue Garden in the Bronx
+
+by [liz](../profile/liz) July 05, 2013 20:08
+
+July 05, 2013 20:08 | Tags: [new-york-city](../tag/new-york-city), [5bf](../tag/5bf), [five-borough-farm](../tag/five-borough-farm)
 
 I visited Clay Avenue Garden at the end of a long day walking miles through the Bronx.  By this time both of my cameras (visible and Infragram) were acting finicky and shutting off at the slightest whim -- they had had a long day too. These wonderful people convinced me to join their BBQ :)
 

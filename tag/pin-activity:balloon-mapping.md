@@ -1,6 +1,6 @@
 # pin-activity:balloon-mapping
 
-5 notes and wiki pages
+5 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Make or buy a balloon mapping kit](/notes/liz/03-01-2017/make-or-buy-public-lab-s-balloon-mapping-kit) by [liz](../profile/liz)
 - [Choose a way to make your camera take pictures continuously](/notes/liz/03-01-2017/set-your-camera-to-take-pictures-continuously) by [liz](../profile/liz)

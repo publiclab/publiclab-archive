@@ -1,12 +1,18 @@
 ---
-nid: 9843
 title: Public Mapping Mission - Newtown Creek
-path: public/static/notes/nicholas/12-02-2013/public-mapping-mission-newtown-creek.md
+tagnames: new-york-city, education, newtown-creek, event, events:new-york-city, blog, nyu, replication:14022, media-lab, govlab, cusp
+author: nicholas
+path: /notes/nicholas/12-02-2013/public-mapping-mission-newtown-creek.md
+nid: 9843
 uid: 53894
-tagnames: new-york-city,education,newtown-creek,event,events:new-york-city,blog,nyu,replication:14022,media-lab,govlab,cusp
+
 ---
 
 # Public Mapping Mission - Newtown Creek
+
+by [nicholas](../profile/nicholas) December 02, 2013 16:53
+
+December 02, 2013 16:53 | Tags: [new-york-city](../tag/new-york-city), [education](../tag/education), [newtown-creek](../tag/newtown-creek), [event](../tag/event), [events:new-york-city](../tag/events:new-york-city), [blog](../tag/blog), [nyu](../tag/nyu), [replication:14022](../tag/replication:14022), [media-lab](../tag/media-lab), [govlab](../tag/govlab), [cusp](../tag/cusp)
 
 ###The Mapping Event
 Part two of the Public Mapping Mission was a combination online/offline course and a collaboration between the Public Lab, GovLab Academy, the Center for Urban Science and Progress and the MIT Media Lab. The second part of the course was a public event in which participants mapped Newtown Creek on December 7th.  This is their story... 

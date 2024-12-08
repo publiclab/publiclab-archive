@@ -1,12 +1,18 @@
 ---
-nid: 16036
 title: MACA
-path: public/static/wiki/maca.md
+tagnames: air-quality, sensors, datalogger, location:blurred, air-sensors, dustuino, lat:-32, lon:-68, place:mendoza-argentina, particle-sensor
+author: warren
+path: /wiki/maca.md
+nid: 16036
 uid: 1
-tagnames: air-quality,sensors,datalogger,location:blurred,air-sensors,dustuino,lat:-32,lon:-68,place:mendoza-argentina,particle-sensor
+
 ---
 
 # MACA
+
+by [nanocastro](../profile/nanocastro), [warren](../profile/warren)
+
+March 28, 2018 22:17 | Tags: [air-quality](../tag/air-quality), [sensors](../tag/sensors), [datalogger](../tag/datalogger), [location:blurred](../tag/location:blurred), [air-sensors](../tag/air-sensors), [dustuino](../tag/dustuino), [lat:-32](../tag/lat:-32), [lon:-68](../tag/lon:-68), [place:mendoza-argentina](../tag/place:mendoza-argentina), [particle-sensor](../tag/particle-sensor)
 
 The MACA Open Air Quality Monitor project (Monitor Abierto de Calidad del Aire in spanish) started a few years ago in Mendoza, Argentina to tackle some problems related to local air pollution monitoring (no public data, high costs of reference instruments, etc, etc) by developing an open, small and low cost air quality monitoring station.You can find more info in spanish about the MACA project in our [wiki](http://www.monitorabierto.wikidot.com/).
 

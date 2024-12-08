@@ -1,12 +1,18 @@
 ---
-nid: 13353
 title: Rich Editor project: Calling for alpha testers!
-path: public/static/notes/warren/08-15-2016/rich-editor-project-calling-for-alpha-testers.md
+tagnames: software, gsoc, developers, code, tags, rich-editor, wysiwyg
+author: warren
+path: /notes/warren/08-15-2016/rich-editor-project-calling-for-alpha-testers.md
+nid: 13353
 uid: 1
-tagnames: software,gsoc,developers,code,tags,rich-editor,wysiwyg
+
 ---
 
 # Rich Editor project: Calling for alpha testers!
+
+by [warren](../profile/warren) August 15, 2016 21:20
+
+August 15, 2016 21:20 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [developers](../tag/developers), [code](../tag/code), [tags](../tag/tags), [rich-editor](../tag/rich-editor), [wysiwyg](../tag/wysiwyg)
 
 Hello all -- it's been some time since the [original call for input][1] on the new #rich-editor project, but a huge amount of progress has been made, and we have [a mostly-functioning initial version][2] -- I'm using it right now to write this post.
 

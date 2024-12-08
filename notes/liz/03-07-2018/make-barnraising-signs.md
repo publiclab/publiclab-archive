@@ -1,12 +1,18 @@
 ---
-nid: 15881
 title: Make Open Space signs for an event like the Barnraising
-path: public/static/notes/liz/03-07-2018/make-barnraising-signs.md
+tagnames: barnraising, activity:barnraising, activity:night-before-barnraising
+author: liz
+path: /notes/liz/03-07-2018/make-barnraising-signs.md
+nid: 15881
 uid: 7
-tagnames: barnraising,activity:barnraising,activity:night-before-barnraising
+
 ---
 
 # Make Open Space signs for an event like the Barnraising
+
+by [liz](../profile/liz) March 07, 2018 20:28
+
+March 07, 2018 20:28 | Tags: [barnraising](../tag/barnraising), [activity:barnraising](../tag/activity:barnraising), [activity:night-before-barnraising](../tag/activity:night-before-barnraising)
 
 _lead image from the 2015 Barnraising of the Open Space Technology signs that the group wrote in a variety of languages including Spanish, Chinese, Turkish, Korean, and English_
 

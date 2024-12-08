@@ -1,12 +1,18 @@
 ---
-nid: 18517
 title: Simple Air Sensor
-path: public/static/wiki/simple-air-sensor.md
+tagnames: air-quality, air, sensors, design, open-air, air-sensing, method, air-sensors, purpleair, plantower, purple-air, particle-sensor, pms5003, simple-air-sensor
+author: warren
+path: /wiki/simple-air-sensor.md
+nid: 18517
 uid: 1
-tagnames: air-quality,air,sensors,design,open-air,air-sensing,method,air-sensors,purpleair,plantower,purple-air,particle-sensor,pms5003,simple-air-sensor
+
 ---
 
 # Simple Air Sensor
+
+by [a1ahna](../profile/a1ahna), [warren](../profile/warren), [liz](../profile/liz), [asnow](../profile/asnow)
+
+March 11, 2019 19:29 | Tags: [air-quality](../tag/air-quality), [air](../tag/air), [sensors](../tag/sensors), [design](../tag/design), [open-air](../tag/open-air), [air-sensing](../tag/air-sensing), [method](../tag/method), [air-sensors](../tag/air-sensors), [purpleair](../tag/purpleair), [plantower](../tag/plantower), [purple-air](../tag/purple-air), [particle-sensor](../tag/particle-sensor), [pms5003](../tag/pms5003), [simple-air-sensor](../tag/simple-air-sensor)
 
 **The Simple Air Sensor is an arduino-based prototyping kit for studying air quality.**   The SAS is a bare-bones air sensor, roughly modeled off of the [Purple Air](https://www2.purpleair.com/) system.  This sensor circuit uses the same type of particle detector as the #PurpleAir sensor, but only one as compared to #PurpleAir's two.  It does not include a temperature, humidity and pressure sensor while the Purple Air does.  Instead of logging results to the cloud or to the device itself, the Simple Air Sensor displays a red/yellow/green light that illustrates the PM2.5 levels it detects, but it does not convert these results into an Air Quality Index (AQI).  
 

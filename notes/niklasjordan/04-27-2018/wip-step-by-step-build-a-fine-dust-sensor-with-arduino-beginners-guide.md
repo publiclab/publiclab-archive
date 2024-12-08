@@ -1,12 +1,18 @@
 ---
-nid: 16230
 title: [WIP] Step by Step: Build a fine dust sensor with Arduino (Beginners Guide)
-path: public/static/notes/niklasjordan/04-27-2018/wip-step-by-step-build-a-fine-dust-sensor-with-arduino-beginners-guide.md
+tagnames: air-quality, sensors, air-sensors, fine-dust
+author: niklasjordan
+path: /notes/niklasjordan/04-27-2018/wip-step-by-step-build-a-fine-dust-sensor-with-arduino-beginners-guide.md
+nid: 16230
 uid: 531062
-tagnames: air-quality,sensors,air-sensors,fine-dust
+
 ---
 
 # [WIP] Step by Step: Build a fine dust sensor with Arduino (Beginners Guide)
+
+by [niklasjordan](../profile/niklasjordan) April 27, 2018 14:51
+
+April 27, 2018 14:51 | Tags: [air-quality](../tag/air-quality), [sensors](../tag/sensors), [air-sensors](../tag/air-sensors), [fine-dust](../tag/fine-dust)
 
 ## Introduction
 

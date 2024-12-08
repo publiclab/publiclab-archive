@@ -1,12 +1,18 @@
 ---
-nid: 9784
 title: Visualight board for Thermal Flashlights
-path: public/static/notes/warren/11-15-2013/visualight-board-for-thermal-flashlights.md
+tagnames: thermal-photography, arduino, thermal-flashlight, led, visualight, activity:thermal-flashlight, upgrade:thermal-flashlight
+author: warren
+path: /notes/warren/11-15-2013/visualight-board-for-thermal-flashlights.md
+nid: 9784
 uid: 1
-tagnames: thermal-photography,arduino,thermal-flashlight,led,visualight,activity:thermal-flashlight,upgrade:thermal-flashlight
+
 ---
 
 # Visualight board for Thermal Flashlights
+
+by [warren](../profile/warren) November 15, 2013 17:35
+
+November 15, 2013 17:35 | Tags: [thermal-photography](../tag/thermal-photography), [arduino](../tag/arduino), [thermal-flashlight](../tag/thermal-flashlight), [led](../tag/led), [visualight](../tag/visualight), [activity:thermal-flashlight](../tag/activity:thermal-flashlight), [upgrade:thermal-flashlight](../tag/upgrade:thermal-flashlight)
 
 ###What I want to do
 

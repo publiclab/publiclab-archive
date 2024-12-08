@@ -1,12 +1,18 @@
 ---
-nid: 13140
 title: Experimental research project proposal by Jeff Warren and conducted by David Haffner 
-path: public/static/notes/dhaffnersr/05-24-2016/experimental-research-project-proposal-by-jeff-warren-and-conducted-by-david-haffner.md
-uid: 461120
 tagnames: 
+author: dhaffnersr
+path: /notes/dhaffnersr/05-24-2016/experimental-research-project-proposal-by-jeff-warren-and-conducted-by-david-haffner.md
+nid: 13140
+uid: 461120
+
 ---
 
 # Experimental research project proposal by Jeff Warren and conducted by David Haffner 
+
+by [dhaffnersr](../profile/dhaffnersr) May 24, 2016 08:43
+
+May 24, 2016 08:43 | Tags: 
 
 This is a collaborative research proposal introduced by Jeff Warren, asking me if I would help in conducting some testing of various light sources on different sample media.
 

@@ -1,12 +1,18 @@
 ---
-nid: 6043
 title: SpectraOnline.com spectrum searching
-path: public/static/notes/warren/2-18-2013/spectraonlinecom-spectrum-searching.md
+tagnames: spectrometer, spectralworkbench, matching, search, spectraonline.com
+author: warren
+path: /notes/warren/2-18-2013/spectraonlinecom-spectrum-searching.md
+nid: 6043
 uid: 1
-tagnames: spectrometer,spectralworkbench,matching,search,spectraonline.com
+
 ---
 
 # SpectraOnline.com spectrum searching
+
+by [warren](../profile/warren) February 18, 2013 13:36
+
+February 18, 2013 13:36 | Tags: [spectrometer](../tag/spectrometer), [spectralworkbench](../tag/spectralworkbench), [matching](../tag/matching), [search](../tag/search), [spectraonline.com](../tag/spectraonline.com)
 
 I was just contacted by a guy from spectraonline.com, which has been absorbed into ThermoFisher -- he came across our work and was duly impressed -- and tried downloading some of our data to run in their old technology demo site, http://spectraonline.com. 
 

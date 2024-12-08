@@ -1,12 +1,18 @@
 ---
-nid: 14993
 title: LEAFFEST Aeropod flight
-path: public/static/notes/cfastie/10-03-2017/leaffest-aeropod-flight.md
+tagnames: air-column-monitor, nasa, kite, leaffest, anemometer, wind-speed-meter, wind-sensor, series:diy-wind-sensors, leaffest2017, wind-speed, aeropod, atmospheric-profile, response:14968, activity:wind-speed
+author: cfastie
+path: /notes/cfastie/10-03-2017/leaffest-aeropod-flight.md
+nid: 14993
 uid: 554
-tagnames: air-column-monitor,nasa,kite,leaffest,anemometer,wind-speed-meter,wind-sensor,series:diy-wind-sensors,leaffest2017,wind-speed,aeropod,atmospheric-profile,response:14968,activity:wind-speed
+
 ---
 
 # LEAFFEST Aeropod flight
+
+by [cfastie](../profile/cfastie) October 03, 2017 02:59
+
+October 03, 2017 02:59 | Tags: [air-column-monitor](../tag/air-column-monitor), [nasa](../tag/nasa), [kite](../tag/kite), [leaffest](../tag/leaffest), [anemometer](../tag/anemometer), [wind-speed-meter](../tag/wind-speed-meter), [wind-sensor](../tag/wind-sensor), [series:diy-wind-sensors](../tag/series:diy-wind-sensors), [leaffest2017](../tag/leaffest2017), [wind-speed](../tag/wind-speed), [aeropod](../tag/aeropod), [atmospheric-profile](../tag/atmospheric-profile), [response:14968](../tag/response:14968), [activity:wind-speed](../tag/activity:wind-speed)
 
 A LEAFFEST goal was to fly both an Aeropod and a SkyPod to compare their sensor results. Both can measure wind speed, temperature, humidity, and barometric pressure. The wind was not strong enough to lift both on the same kite, but we did fly the Aeropod under a seven foot Rokkaku kite. A really nice thing about the Aeropod is that it weighs a lot less than my camera rigs, so it doesn't take much wind to lift it.  
 .

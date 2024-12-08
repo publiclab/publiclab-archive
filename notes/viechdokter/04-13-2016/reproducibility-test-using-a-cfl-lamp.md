@@ -1,12 +1,18 @@
 ---
-nid: 12966
 title: Reproducibility test using a CFL lamp
-path: public/static/notes/viechdokter/04-13-2016/reproducibility-test-using-a-cfl-lamp.md
+tagnames: spectrometer, cfl, lamp, spectrum, reproducibility
+author: viechdokter
+path: /notes/viechdokter/04-13-2016/reproducibility-test-using-a-cfl-lamp.md
+nid: 12966
 uid: 468990
-tagnames: spectrometer,cfl,lamp,spectrum,reproducibility
+
 ---
 
 # Reproducibility test using a CFL lamp
+
+by [viechdokter](../profile/viechdokter) April 13, 2016 14:26
+
+April 13, 2016 14:26 | Tags: [spectrometer](../tag/spectrometer), [cfl](../tag/cfl), [lamp](../tag/lamp), [spectrum](../tag/spectrum), [reproducibility](../tag/reproducibility)
 
 Another test whether the PLab spectrometer 3.0 can achieve reproducible data curves.
 

@@ -1,12 +1,18 @@
 ---
-nid: 913
 title: PLOTS adoption of the CERN Open Hardware License
-path: public/static/notes/warren/3-9-2012/plots-adoption-cern-open-hardware-license.md
+tagnames: balloon-mapping, near-infrared-camera, spectrometer, thermal-photography, kite-mapping, open-source, licensing, ohl, open-hardware, cern-ohl
+author: warren
+path: /notes/warren/3-9-2012/plots-adoption-cern-open-hardware-license.md
+nid: 913
 uid: 1
-tagnames: balloon-mapping,near-infrared-camera,spectrometer,thermal-photography,kite-mapping,open-source,licensing,ohl,open-hardware,cern-ohl
+
 ---
 
 # PLOTS adoption of the CERN Open Hardware License
+
+by [warren](../profile/warren) March 09, 2012 20:00
+
+March 09, 2012 20:00 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [spectrometer](../tag/spectrometer), [thermal-photography](../tag/thermal-photography), [kite-mapping](../tag/kite-mapping), [open-source](../tag/open-source), [licensing](../tag/licensing), [ohl](../tag/ohl), [open-hardware](../tag/open-hardware), [cern-ohl](../tag/cern-ohl)
 
 Hello Public Labbers and Grassroots Mappers!
 

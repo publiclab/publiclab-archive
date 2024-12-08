@@ -1,6 +1,6 @@
 # activity-kite-mapping
 
-13 notes and wiki pages
+13 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Selecting Kite Flight Launch Sites in Centerville](/notes/olivia/2-16-2012/finding-kite-flight-launch-sites-centerville) by [Olivia](../profile/Olivia)
 - [Easy Kites for Kite Trains](/notes/mathew/6-13-2012/easy-kites-kite-trains) by [mathew](../profile/mathew)

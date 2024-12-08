@@ -1,9 +1,8 @@
 # raspberrypi
 
-9 notes and wiki pages
+9 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Can we use rPi camera for fluorescence measurement in plants](/notes/yusufm/01-09-2017/can-we-use-rpi-camera-for-fluorescence-measurement-in-plants) by [yusufm](../profile/yusufm)
-- [Build N number of project with Stem:Bit - The programmable blocks kit for micro:bit](/notes/sbcomponentsuk/08-19-2019/build-n-number-of-project-with-stem-bit-the-programmable-blocks-kit-for-micro-bit) by [sbcomponentsuk](../profile/sbcomponentsuk)
 - [40x portable microscope with the pi cam V2.0](/notes/mjcamerino92/10-18-2019/40x-portable-microscope-with-the-pi-cam-v2-0) by [mjcamerino92](../profile/mjcamerino92)
 - [NDVI Image Captures Non-Plant Objects](/notes/velahs/07-08-2020/ndvi-image-captures-non-plant-objects) by [velahs](../profile/velahs)
 - [Beginning Senior Thesis](/notes/ajguthrie99/08-25-2020/beginning-senior-thesis) by [ajguthrie99](../profile/ajguthrie99)

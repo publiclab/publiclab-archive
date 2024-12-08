@@ -1,6 +1,6 @@
 # anemometer
 
-10 notes and wiki pages
+10 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Using Kites as Atmospheric Wind-speed Meters](/notes/mathew/5-11-2012/using-kites-atmospheric-wind-speed-meters) by [mathew](../profile/mathew)
 - [Kite Wind Speed Meter (Anemometer) Patents](/notes/mathew/2-1-2013/kite-wind-speed-meter-anemometer-patents-0) by [mathew](../profile/mathew)

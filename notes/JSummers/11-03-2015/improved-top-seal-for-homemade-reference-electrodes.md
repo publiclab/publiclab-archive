@@ -1,12 +1,18 @@
 ---
-nid: 12358
 title: Improved top seal for homemade reference electrodes.
-path: public/static/notes/JSummers/11-03-2015/improved-top-seal-for-homemade-reference-electrodes.md
+tagnames: potentiostat, cheapstat, tool, wheestat, response:9932
+author: JSummers
+path: /notes/JSummers/11-03-2015/improved-top-seal-for-homemade-reference-electrodes.md
+nid: 12358
 uid: 304279
-tagnames: potentiostat,cheapstat,tool,wheestat,response:9932
+
 ---
 
 # Improved top seal for homemade reference electrodes.
+
+by [JSummers](../profile/JSummers) November 03, 2015 17:22
+
+November 03, 2015 17:22 | Tags: [potentiostat](../tag/potentiostat), [cheapstat](../tag/cheapstat), [tool](../tag/tool), [wheestat](../tag/wheestat), [response:9932](../tag/response:9932)
 
 ###What I want to do
 In an earlier research note (found [here](http://publiclab.org/notes/JSummers/01-09-2014/potentiostat-notes-5-how-to-make-low-cost-electrodes)), we described how to make low cost reference electrodes for electrochemistry.  The reference electrode contains a salt solution, so it has to be sealed at both ends to prevent spilling and evaporation.  The earlier design had a porous ceramic ball glued to the bottom and a rubber septum at the top.  We have found that the rubber septum is not the best material for this purposes.  It gets gummy and brittle with age (photo below).

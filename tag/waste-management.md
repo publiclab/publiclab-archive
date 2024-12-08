@@ -1,6 +1,6 @@
 # waste-management
 
-6 notes and wiki pages
+6 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Kite Mapping in Central America - Waste and Recycling](/notes/eblaine/4-13-2013/kite-mapping-central-america-waste-and-recycling) by [eblaine](../profile/eblaine)
 - [Aerial mapping a reclaimed landfill](/notes/cfastie/10-08-2016/aerial-mapping-a-reclaimed-landfill) by [cfastie](../profile/cfastie)

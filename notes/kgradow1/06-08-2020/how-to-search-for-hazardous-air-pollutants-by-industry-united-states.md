@@ -1,12 +1,18 @@
 ---
-nid: 23798
 title: How to search the EPA website for air pollutants by industry
-path: public/static/notes/kgradow1/06-08-2020/how-to-search-for-hazardous-air-pollutants-by-industry-united-states.md
+tagnames: epa, air-quality, bucket-brigade, new, draft, air-sampling, air-sensors, activity:new, lat:42, lon:-70, zoom:6, bucket-monitor, activity:air-sampling
+author: kgradow1
+path: /notes/kgradow1/06-08-2020/how-to-search-for-hazardous-air-pollutants-by-industry-united-states.md
+nid: 23798
 uid: 297929
-tagnames: epa,air-quality,bucket-brigade,new,draft,air-sampling,air-sensors,activity:new,lat:42,lon:-70,zoom:6,bucket-monitor,activity:air-sampling
+
 ---
 
 # How to search the EPA website for air pollutants by industry
+
+by [kgradow1](../profile/kgradow1) June 08, 2020 21:36
+
+June 08, 2020 21:36 | Tags: [epa](../tag/epa), [air-quality](../tag/air-quality), [bucket-brigade](../tag/bucket-brigade), [new](../tag/new), [draft](../tag/draft), [air-sampling](../tag/air-sampling), [air-sensors](../tag/air-sensors), [activity:new](../tag/activity:new), [lat:42](../tag/lat:42), [lon:-70](../tag/lon:-70), [zoom:6](../tag/zoom:6), [bucket-monitor](../tag/bucket-monitor), [activity:air-sampling](../tag/activity:air-sampling)
 
 ## Purpose
 

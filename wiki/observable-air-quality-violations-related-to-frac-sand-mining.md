@@ -1,12 +1,18 @@
 ---
-nid: 19660
 title: Observable air quality violations related to frac sand mining
-path: public/static/wiki/observable-air-quality-violations-related-to-frac-sand-mining.md
+tagnames: reporting, wisconsin, air-quality, frac-sand, midwest, sentinel, local-reporting, parent:the-sand-sentinel-program
+author: stevie
+path: /wiki/observable-air-quality-violations-related-to-frac-sand-mining.md
+nid: 19660
 uid: 422561
-tagnames: reporting,wisconsin,air-quality,frac-sand,midwest,sentinel,local-reporting,parent:the-sand-sentinel-program
+
 ---
 
 # Observable air quality violations related to frac sand mining
+
+by [stevie](../profile/stevie)
+
+June 11, 2019 17:04 | Tags: [reporting](../tag/reporting), [wisconsin](../tag/wisconsin), [air-quality](../tag/air-quality), [frac-sand](../tag/frac-sand), [midwest](../tag/midwest), [sentinel](../tag/sentinel), [local-reporting](../tag/local-reporting), [parent:the-sand-sentinel-program](../tag/parent:the-sand-sentinel-program)
 
 This page includes information about observable permit violations of the frac [sand mining industry](https://publiclab.org/wiki/nonmetallicmining#Industrial+Sand+Mining) related to air quality violations. 
 

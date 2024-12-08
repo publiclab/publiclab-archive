@@ -1,12 +1,18 @@
 ---
-nid: 11552
 title: Does leaving the dye on a DVD-R grating make any difference?
-path: public/static/notes/MrBumper/02-04-2015/does-leaving-the-dye-on-a-dvd-r-grating-make-any-difference.md
-uid: 432766
 tagnames: spectrometer-design
+author: MrBumper
+path: /notes/MrBumper/02-04-2015/does-leaving-the-dye-on-a-dvd-r-grating-make-any-difference.md
+nid: 11552
+uid: 432766
+
 ---
 
 # Does leaving the dye on a DVD-R grating make any difference?
+
+by [MrBumper](../profile/MrBumper) February 04, 2015 14:00
+
+February 04, 2015 14:00 | Tags: [spectrometer-design](../tag/spectrometer-design)
 
 In a previous research note - <a href="http://publiclab.org/notes/MrBumper/01-11-2015/preparing-a-dvd-r-to-act-as-a-diffraction-grating">Preparing a DVD-R to act as a diffraction grating</a> I described how to remove both the aluminium reflective silvering and the blue/violet photosensitive dye from a DVD-R to produce a section that could be used as a 'clear' diffraction grating.
 

@@ -1,12 +1,18 @@
 ---
-nid: 4905
 title: Spectrometer in cellphone box
-path: public/static/notes/kosamari/11-14-2012/spectrometer-cellphone-box.md
-uid: 44255
 tagnames: spectrometer
+author: kosamari
+path: /notes/kosamari/11-14-2012/spectrometer-cellphone-box.md
+nid: 4905
+uid: 44255
+
 ---
 
 # Spectrometer in cellphone box
+
+by [kosamari](../profile/kosamari) November 14, 2012 17:22
+
+November 14, 2012 17:22 | Tags: [spectrometer](../tag/spectrometer)
 
 I wanted to make Spectrometer myself and realized I do not have video tape box... so its housed in the box my cell phone came with.
 

@@ -1,12 +1,18 @@
 ---
-nid: 14255
 title: Investigating Thermal Properties of Rooftops Using Aerial Mapping
-path: public/static/notes/sdepolo/05-30-2017/investigating-thermal-properties-of-rooftops-using-aerial-mapping.md
+tagnames: balloon-mapping, thermal-photography, event, thermal-camera, insulation, hidden:response, response:14179, roof, first-time-poster
+author: sdepolo
+path: /notes/sdepolo/05-30-2017/investigating-thermal-properties-of-rooftops-using-aerial-mapping.md
+nid: 14255
 uid: 508246
-tagnames: balloon-mapping,thermal-photography,event,thermal-camera,insulation,hidden:response,response:14179,roof,first-time-poster
+
 ---
 
 # Investigating Thermal Properties of Rooftops Using Aerial Mapping
+
+by [sdepolo](../profile/sdepolo) May 30, 2017 16:25
+
+May 30, 2017 16:25 | Tags: [balloon-mapping](../tag/balloon-mapping), [thermal-photography](../tag/thermal-photography), [event](../tag/event), [thermal-camera](../tag/thermal-camera), [insulation](../tag/insulation), [hidden:response](../tag/hidden:response), [response:14179](../tag/response:14179), [roof](../tag/roof), [first-time-poster](../tag/first-time-poster)
 
 ### a. Introduction
 

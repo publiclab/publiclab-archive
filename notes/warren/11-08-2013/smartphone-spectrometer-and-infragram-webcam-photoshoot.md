@@ -1,12 +1,18 @@
 ---
-nid: 9751
 title: Smartphone Spectrometer and Infragram Webcam photoshoot
-path: public/static/notes/warren/11-08-2013/smartphone-spectrometer-and-infragram-webcam-photoshoot.md
+tagnames: infragram, smartphone-spectrometer, spectro
+author: warren
+path: /notes/warren/11-08-2013/smartphone-spectrometer-and-infragram-webcam-photoshoot.md
+nid: 9751
 uid: 1
-tagnames: infragram,smartphone-spectrometer,spectro
+
 ---
 
 # Smartphone Spectrometer and Infragram Webcam photoshoot
+
+by [warren](../profile/warren) November 08, 2013 22:07
+
+November 08, 2013 22:07 | Tags: [infragram](../tag/infragram), [smartphone-spectrometer](../tag/smartphone-spectrometer), [spectro](../tag/spectro)
 
 I just got the final Infragram Webcam prototype from the factory, and wanted to share some nice photos I just took of them:
 

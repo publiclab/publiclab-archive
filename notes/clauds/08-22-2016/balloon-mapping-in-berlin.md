@@ -1,12 +1,18 @@
 ---
-nid: 13384
 title: Balloon Mapping in Berlin
-path: public/static/notes/clauds/08-22-2016/balloon-mapping-in-berlin.md
-uid: 43867
 tagnames: event
+author: clauds
+path: /notes/clauds/08-22-2016/balloon-mapping-in-berlin.md
+nid: 13384
+uid: 43867
+
 ---
 
 # Balloon Mapping in Berlin
+
+by [clauds](../profile/clauds) August 22, 2016 21:08
+
+August 22, 2016 21:08 | Tags: [event](../tag/event)
 
 ###Event details
 This coming Thursday, 25 August 2016, at the Zentrum für Kunst und Urbanistik - [ZKU](http://www.zku-berlin.org/)  at Siemensstrasse 27, Moabit, 10551 Berlin, it is our pleasure to present the balloon mapping project of [Bourj Al Shamali refugee camp in south Lebanon](https://placesjournal.org/article/camp-code/).

@@ -1,12 +1,18 @@
 ---
-nid: 4673
 title: [draft]Intro to Aerial Photo interpretation of wetland class notes
-path: public/static/notes/eustatic/10-28-2012/draftintro-aerial-photo-interpretation-wetland-class-notes.md
+tagnames: balloon-mapping, near-infrared-camera, map-curriculum, delineation
+author: eustatic
+path: /10-28-2012/draftintro-aerial-photo-interpretation-wetland-class-notes.md
+nid: 4673
 uid: 379
-tagnames: balloon-mapping,near-infrared-camera,map-curriculum,delineation
+
 ---
 
 # [draft]Intro to Aerial Photo interpretation of wetland class notes
+
+by [eustatic](../profile/eustatic) October 28, 2012 19:24
+
+October 28, 2012 19:24 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [map-curriculum](../tag/map-curriculum), [delineation](../tag/delineation)
 
 This is the first of two classes on aerial photography interpretation.
 

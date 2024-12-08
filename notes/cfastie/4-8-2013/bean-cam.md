@@ -1,12 +1,18 @@
 ---
-nid: 6722
 title: Bean Cam
-path: public/static/notes/cfastie/4-8-2013/bean-cam.md
+tagnames: near-infrared-camera, vermont, plant-health, plants, timelapse, food, difficulty:medium, category:observe, activity:timelapse, time:1d, activity:education, activity:science-fair, activity:classroom, activity:food
+author: cfastie
+path: /notes/cfastie/4-8-2013/bean-cam.md
+nid: 6722
 uid: 554
-tagnames: near-infrared-camera,vermont,plant-health,plants,timelapse,food,difficulty:medium,category:observe,activity:timelapse,time:1d,activity:education,activity:science-fair,activity:classroom,activity:food
+
 ---
 
 # Bean Cam
+
+by [cfastie](../profile/cfastie) April 08, 2013 14:42
+
+April 08, 2013 14:42 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [vermont](../tag/vermont), [plant-health](../tag/plant-health), [plants](../tag/plants), [timelapse](../tag/timelapse), [food](../tag/food), [difficulty:medium](../tag/difficulty:medium), [category:observe](../tag/category:observe), [activity:timelapse](../tag/activity:timelapse), [time:1d](../tag/time:1d), [activity:education](../tag/activity:education), [activity:science-fair](../tag/activity:science-fair), [activity:classroom](../tag/activity:classroom), [activity:food](../tag/activity:food)
 
 <em>Image above: The bean studio right before photography stopped today.</em>
 

@@ -1,12 +1,18 @@
 ---
-nid: 11431
 title: Thermal Imaging of Fresh Air Intake for Nightingale Hall
-path: public/static/notes/jecnu/12-03-2014/thermal-imaging-of-fresh-air-intake-for-nightingale-hall.md
+tagnames: thermal-photography, thermal-flashlight, thermal-imaging, northeastern, insulation, air-intake, heat, replication:625
+author: jecnu
+path: /notes/jecnu/12-03-2014/thermal-imaging-of-fresh-air-intake-for-nightingale-hall.md
+nid: 11431
 uid: 432296
-tagnames: thermal-photography,thermal-flashlight,thermal-imaging,northeastern,insulation,air-intake,heat,replication:625
+
 ---
 
 # Thermal Imaging of Fresh Air Intake for Nightingale Hall
+
+by [jecnu](../profile/jecnu) December 03, 2014 17:18
+
+December 03, 2014 17:18 | Tags: [thermal-photography](../tag/thermal-photography), [thermal-flashlight](../tag/thermal-flashlight), [thermal-imaging](../tag/thermal-imaging), [northeastern](../tag/northeastern), [insulation](../tag/insulation), [air-intake](../tag/air-intake), [heat](../tag/heat), [replication:625](../tag/replication:625)
 
 This is an experiment conducted by three Northeastern University students, Cristina Ransom, John Berrigan, and Erik Hanley. 
 

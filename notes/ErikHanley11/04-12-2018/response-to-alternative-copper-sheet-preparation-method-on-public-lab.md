@@ -1,12 +1,18 @@
 ---
-nid: 16139
 title: Response to Alternative Copper Sheet Preparation Method on Public Lab
-path: public/static/notes/ErikHanley11/04-12-2018/response-to-alternative-copper-sheet-preparation-method-on-public-lab.md
+tagnames: hydrogen-sulfide-sensing, hydrogen-sulfide, h2s, h2s-copper-pipe, copper-pipe, copper-sheet
+author: ErikHanley11
+path: /notes/ErikHanley11/04-12-2018/response-to-alternative-copper-sheet-preparation-method-on-public-lab.md
+nid: 16139
 uid: 444638
-tagnames: hydrogen-sulfide-sensing,hydrogen-sulfide,h2s,h2s-copper-pipe,copper-pipe,copper-sheet
+
 ---
 
 # Response to Alternative Copper Sheet Preparation Method on Public Lab
+
+by [ErikHanley11](../profile/ErikHanley11) April 12, 2018 02:43
+
+April 12, 2018 02:43 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s), [h2s-copper-pipe](../tag/h2s-copper-pipe), [copper-pipe](../tag/copper-pipe), [copper-sheet](../tag/copper-sheet)
 
 I am writing this note as a response to the [copper sheet method](https://publiclab.org/notes/gretchengehrke/11-02-2017/copper-sheet-hydrogen-sulfide-detection-activity) published by @gretchengehrke. I have also [created copper strips](https://publiclab.org/notes/ErikHanley11/04-12-2018/copper-strip-test-preparation-using-solvents) for the similar purpose of environmental air quality testing, namely hydrogen sulfide (H­2S). Our methods seem to diverge, so I wanted to compare and contrast.
 

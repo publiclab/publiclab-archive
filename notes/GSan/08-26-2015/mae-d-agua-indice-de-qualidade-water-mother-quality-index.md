@@ -1,12 +1,18 @@
 ---
-nid: 12173
 title: Mãe d'água - Índice de qualidade / Water Mother - Quality index
-path: public/static/notes/GSan/08-26-2015/mae-d-agua-indice-de-qualidade-water-mother-quality-index.md
+tagnames: water-quality, brasil, redeinfoamazonia, maedagua, lang:pt, first-time-poster
+author: GSan
+path: /notes/GSan/08-26-2015/mae-d-agua-indice-de-qualidade-water-mother-quality-index.md
+nid: 12173
 uid: 426547
-tagnames: water-quality,brasil,redeinfoamazonia,maedagua,lang:pt,first-time-poster
+
 ---
 
 # Mãe d'água - Índice de qualidade / Water Mother - Quality index
+
+by [GSan](../profile/GSan) August 26, 2015 21:49
+
+August 26, 2015 21:49 | Tags: [water-quality](../tag/water-quality), [brasil](../tag/brasil), [redeinfoamazonia](../tag/redeinfoamazonia), [maedagua](../tag/maedagua), [lang:pt](../tag/lang:pt), [first-time-poster](../tag/first-time-poster)
 
 ###Correlação de medidas de pH, ORP, EC, temperatura e pressão barométrica para criar um índice de qualidade d'água
 ###Correlation measures pH, ORP, EC, temperature and barometric pressure to create a water quality index

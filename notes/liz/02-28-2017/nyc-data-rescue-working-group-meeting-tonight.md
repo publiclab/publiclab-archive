@@ -1,12 +1,18 @@
 ---
-nid: 13970
 title: NYC Data Rescue working group meeting tonight
-path: public/static/notes/liz/02-28-2017/nyc-data-rescue-working-group-meeting-tonight.md
+tagnames: new-york-city, event, nyc
+author: liz
+path: /notes/liz/02-28-2017/nyc-data-rescue-working-group-meeting-tonight.md
+nid: 13970
 uid: 7
-tagnames: new-york-city,event,nyc
+
 ---
 
 # NYC Data Rescue working group meeting tonight
+
+by [liz](../profile/liz) February 28, 2017 17:14
+
+February 28, 2017 17:14 | Tags: [new-york-city](../tag/new-york-city), [event](../tag/event), [nyc](../tag/nyc)
 
 Environmental data -- accessing it, generating it, using it for advocacy -- is at the heart of our work. Join the recent upwelling of people interested in environmental data under the current Adminstration for a local working group meeting tonight at Mozilla Science: 
 

@@ -1,12 +1,18 @@
 ---
-nid: 12969
 title: Call for input on upcoming Rich Editor and Rich Wiki projects for PublicLab.org
-path: public/static/notes/warren/04-13-2016/call-for-input-on-upcoming-rich-editor-and-rich-wiki-projects-for-publiclab-org.md
+tagnames: software, web, blog, developers, wwg, rich-editor, rich-wiki, ui, question:ui
+author: warren
+path: /notes/warren/04-13-2016/call-for-input-on-upcoming-rich-editor-and-rich-wiki-projects-for-publiclab-org.md
+nid: 12969
 uid: 1
-tagnames: software,web,blog,developers,wwg,rich-editor,rich-wiki,ui,question:ui
+
 ---
 
 # Call for input on upcoming Rich Editor and Rich Wiki projects for PublicLab.org
+
+by [warren](../profile/warren) April 13, 2016 20:58
+
+April 13, 2016 20:58 | Tags: [software](../tag/software), [web](../tag/web), [blog](../tag/blog), [developers](../tag/developers), [wwg](../tag/wwg), [rich-editor](../tag/rich-editor), [rich-wiki](../tag/rich-wiki), [ui](../tag/ui), [question:ui](../tag/question:ui)
 
 Hi, all - we're launching a new project for the PublicLab.org website to completely revise the research note posting form based on input from various folks. This summer, we'll launch a similar effort to redesign our wiki pages. 
 

@@ -1,12 +1,18 @@
 ---
-nid: 11025
 title: Infragram Curriculum
-path: public/static/wiki/infragram-curriculum.md
+tagnames: education, curriculum, infragram
+author: amandaf
+path: /wiki/infragram-curriculum.md
+nid: 11025
 uid: 426589
-tagnames: education,curriculum,infragram
+
 ---
 
 # Infragram Curriculum
+
+by [liz](../profile/liz), [mollydanielsson](../profile/mollydanielsson), [amandaf](../profile/amandaf), [mathew](../profile/mathew)
+
+August 09, 2014 00:13 | Tags: [education](../tag/education), [curriculum](../tag/curriculum), [infragram](../tag/infragram)
 
 Infrared Curriculum Lessons 
 

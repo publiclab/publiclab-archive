@@ -1,12 +1,18 @@
 ---
-nid: 11967
 title: Experiments with compositing pole aerial photos of wetlands
-path: public/static/notes/liz/06-10-2015/experiments-with-compositing-pole-aerial-photos-of-wetlands.md
+tagnames: gulf-coast, pole-mapping
+author: liz
+path: /notes/liz/06-10-2015/experiments-with-compositing-pole-aerial-photos-of-wetlands.md
+nid: 11967
 uid: 7
-tagnames: gulf-coast,pole-mapping
+
 ---
 
 # Experiments with compositing pole aerial photos of wetlands
+
+by [liz](../profile/liz) June 10, 2015 20:54
+
+June 10, 2015 20:54 | Tags: [gulf-coast](../tag/gulf-coast), [pole-mapping](../tag/pole-mapping)
 
 ###What I want to do
 

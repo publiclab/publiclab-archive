@@ -1,12 +1,18 @@
 ---
-nid: 13478
 title: turbidity_sensing
-path: public/static/wiki/turbidity_sensing.md
+tagnames: water, turbidity, riffle, open-water, upgrade:riffle, parent:turbidity
+author: donblair
+path: /wiki/turbidity_sensing.md
+nid: 13478
 uid: 43651
-tagnames: water,turbidity,riffle,open-water,upgrade:riffle,parent:turbidity
+
 ---
 
 # turbidity_sensing
+
+by [warren](../profile/warren), [donblair](../profile/donblair)
+
+September 24, 2016 01:51 | Tags: [water](../tag/water), [turbidity](../tag/turbidity), [riffle](../tag/riffle), [open-water](../tag/open-water), [upgrade:riffle](../tag/upgrade:riffle), [parent:turbidity](../tag/parent:turbidity)
 
 # Turbidity sensor prototype
 

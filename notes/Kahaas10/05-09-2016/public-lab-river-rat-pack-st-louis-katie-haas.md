@@ -1,12 +1,18 @@
 ---
-nid: 13095
 title: Public Lab River Rat Pack -- St. Louis -- Katie Haas
-path: public/static/notes/Kahaas10/05-09-2016/public-lab-river-rat-pack-st-louis-katie-haas.md
+tagnames: balloon-mapping, mississippi-river, mid-west, missouri, publiclabriverratpack, antidrone, pllrp, washu, stlouis
+author: Kahaas10
+path: /notes/Kahaas10/05-09-2016/public-lab-river-rat-pack-st-louis-katie-haas.md
+nid: 13095
 uid: 465989
-tagnames: balloon-mapping,mississippi-river,mid-west,missouri,publiclabriverratpack,antidrone,pllrp,washu,stlouis
+
 ---
 
 # Public Lab River Rat Pack -- St. Louis -- Katie Haas
+
+by [Kahaas10](../profile/Kahaas10) May 09, 2016 20:35
+
+May 09, 2016 20:35 | Tags: [balloon-mapping](../tag/balloon-mapping), [mississippi-river](../tag/mississippi-river), [mid-west](../tag/mid-west), [missouri](../tag/missouri), [publiclabriverratpack](../tag/publiclabriverratpack), [antidrone](../tag/antidrone), [pllrp](../tag/pllrp), [washu](../tag/washu), [stlouis](../tag/stlouis)
 
 At the start of the seminar course, we looked to the Public Lab for strategies and procedures for capturing and then documenting the work we would collect. Mapknitter became an interesting tool for stitching together photographs we had captured at each of the sites. 
 

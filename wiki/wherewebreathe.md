@@ -1,12 +1,18 @@
 ---
-nid: 10473
 title: wherewebreathe
-path: public/static/wiki/wherewebreathe.md
+tagnames: wherewebreathe, iaq, indoor-air-quality, parent:indoor-air-quality-monitoring
+author: warren
+path: /wiki/wherewebreathe.md
+nid: 10473
 uid: 1
-tagnames: wherewebreathe,iaq,indoor-air-quality,parent:indoor-air-quality-monitoring
+
 ---
 
 # wherewebreathe
+
+by [liz](../profile/liz), [mathew](../profile/mathew), [gretchengehrke](../profile/gretchengehrke), [nshapiro](../profile/nshapiro), [novakn](../profile/novakn), [Shannon](../profile/Shannon), [warren](../profile/warren)
+
+May 15, 2014 20:53 | Tags: [wherewebreathe](../tag/wherewebreathe), [iaq](../tag/iaq), [indoor-air-quality](../tag/indoor-air-quality), [parent:indoor-air-quality-monitoring](../tag/parent:indoor-air-quality-monitoring)
 
 WhereWeBreathe.org is one part of our multi-pronged [Indoor Air quality monitoring](http://publiclab.org/wiki/indoor-air-quality-monitoring) efforts.
 

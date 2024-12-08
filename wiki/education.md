@@ -1,12 +1,18 @@
 ---
-nid: 5957
 title: Education
-path: public/static/wiki/education.md
+tagnames: community, education, classroom, teachers
+author: liz
+path: /wiki/education.md
+nid: 5957
 uid: 7
-tagnames: community,education,classroom,teachers
+
 ---
 
 # Education
+
+by [jmacha](../profile/jmacha), [mimiss](../profile/mimiss), [dragonwood0](../profile/dragonwood0), [stevie](../profile/stevie), [liz](../profile/liz), [warren](../profile/warren), [JSummers](../profile/JSummers)
+
+February 12, 2013 17:21 | Tags: [community](../tag/community), [education](../tag/education), [classroom](../tag/classroom), [teachers](../tag/teachers)
 
 #Welcome
 

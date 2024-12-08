@@ -1,12 +1,18 @@
 ---
-nid: 745
 title: Air column analysis
-path: public/static/wiki/air-column-analysis.md
+tagnames: air-column-monitor, air-column, vibrations, string, windspeed
+author: warren
+path: /wiki/air-column-analysis.md
+nid: 745
 uid: 1
-tagnames: air-column-monitor,air-column,vibrations,string,windspeed
+
 ---
 
 # Air column analysis
+
+by [liz](../profile/liz), [warren](../profile/warren)
+
+February 03, 2012 16:31 | Tags: [air-column-monitor](../tag/air-column-monitor), [air-column](../tag/air-column), [vibrations](../tag/vibrations), [string](../tag/string), [windspeed](../tag/windspeed)
 
 ###Hardware###
 

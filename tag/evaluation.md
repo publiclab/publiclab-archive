@@ -1,6 +1,6 @@
 # evaluation
 
-29 notes and wiki pages
+29 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Evaluation](/evaluation) (wiki)
 - [Interviews](/wiki/interviews) (wiki)

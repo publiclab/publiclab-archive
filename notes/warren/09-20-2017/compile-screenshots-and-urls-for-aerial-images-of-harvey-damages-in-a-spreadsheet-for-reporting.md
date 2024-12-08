@@ -1,12 +1,18 @@
 ---
-nid: 14916
 title: Compile screenshots and URLs for aerial images of Harvey damages in a spreadsheet for reporting
-path: public/static/notes/warren/09-20-2017/compile-screenshots-and-urls-for-aerial-images-of-harvey-damages-in-a-spreadsheet-for-reporting.md
+tagnames: image-sorting, hurricane, difficulty:easy, time:10m, disaster-response, harvey, hurricanes, activity:harvey, activity:hurricanes, activity:disaster-response
+author: warren
+path: /notes/warren/09-20-2017/compile-screenshots-and-urls-for-aerial-images-of-harvey-damages-in-a-spreadsheet-for-reporting.md
+nid: 14916
 uid: 1
-tagnames: image-sorting,hurricane,difficulty:easy,time:10m,disaster-response,harvey,hurricanes,activity:harvey,activity:hurricanes,activity:disaster-response
+
 ---
 
 # Compile screenshots and URLs for aerial images of Harvey damages in a spreadsheet for reporting
+
+by [warren](../profile/warren) September 20, 2017 14:55
+
+September 20, 2017 14:55 | Tags: [image-sorting](../tag/image-sorting), [hurricane](../tag/hurricane), [difficulty:easy](../tag/difficulty:easy), [time:10m](../tag/time:10m), [disaster-response](../tag/disaster-response), [harvey](../tag/harvey), [hurricanes](../tag/hurricanes), [activity:harvey](../tag/activity:harvey), [activity:hurricanes](../tag/activity:hurricanes), [activity:disaster-response](../tag/activity:disaster-response)
 
 We're working to support the reporting of pollution incidents following Hurricane Harvey
 

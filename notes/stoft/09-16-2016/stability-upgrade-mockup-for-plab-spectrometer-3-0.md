@@ -1,12 +1,18 @@
 ---
-nid: 13455
 title: Stability upgrade mockup for PLab Spectrometer 3.0
-path: public/static/notes/stoft/09-16-2016/stability-upgrade-mockup-for-plab-spectrometer-3-0.md
+tagnames: parent:desktop-spectrometry-kit-3-0, difficulty:easy, upgrade:spectrometry, upgrade:dssk, seeks:builds, status:review-me, category:build, time:1h
+author: stoft
+path: /notes/stoft/09-16-2016/stability-upgrade-mockup-for-plab-spectrometer-3-0.md
+nid: 13455
 uid: 54025
-tagnames: parent:desktop-spectrometry-kit-3-0,difficulty:easy,upgrade:spectrometry,upgrade:dssk,seeks:builds,status:review-me,category:build,time:1h
+
 ---
 
 # Stability upgrade mockup for PLab Spectrometer 3.0
+
+by [stoft](../profile/stoft) September 16, 2016 19:38
+
+September 16, 2016 19:38 | Tags: [parent:desktop-spectrometry-kit-3-0](../tag/parent:desktop-spectrometry-kit-3-0), [difficulty:easy](../tag/difficulty:easy), [upgrade:spectrometry](../tag/upgrade:spectrometry), [upgrade:dssk](../tag/upgrade:dssk), [seeks:builds](../tag/seeks:builds), [status:review-me](../tag/status:review-me), [category:build](../tag/category:build), [time:1h](../tag/time:1h)
 
 **Abstract**
 

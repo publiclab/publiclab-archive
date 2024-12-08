@@ -1,6 +1,6 @@
 # start-advocacy
 
-3 notes and wiki pages
+3 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [How to evaluate and choose an advocacy pathway](/notes/stevie/03-22-2017/how-to-evaluate-and-choose-an-advocacy-pathway) by [stevie](../profile/stevie)
 - [Host a Goal Setting Workshop ](/notes/stevie/11-14-2017/host-a-goal-setting-workshop) by [stevie](../profile/stevie)

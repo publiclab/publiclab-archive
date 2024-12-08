@@ -1,12 +1,18 @@
 ---
-nid: 14933
 title: Does anyone know someone at Archive.org who can enable CORS for images of Harvey pollution?
-path: public/static/notes/warren/09-22-2017/does-anyone-know-someone-at-archive-org-who-can-enable-cors-for-images-of-harvey-pollution.md
+tagnames: archive, leaflet, exif, answered, photo-sharing, archive.org, question:photo-sharing
+author: warren
+path: /notes/warren/09-22-2017/does-anyone-know-someone-at-archive-org-who-can-enable-cors-for-images-of-harvey-pollution.md
+nid: 14933
 uid: 1
-tagnames: archive,leaflet,exif,answered,photo-sharing,archive.org,question:photo-sharing
+
 ---
 
 # Does anyone know someone at Archive.org who can enable CORS for images of Harvey pollution?
+
+by [warren](../profile/warren) September 22, 2017 04:16
+
+September 22, 2017 04:16 | Tags: [archive](../tag/archive), [leaflet](../tag/leaflet), [exif](../tag/exif), [answered](../tag/answered), [photo-sharing](../tag/photo-sharing), [archive.org](../tag/archive.org), [question:photo-sharing](../tag/question:photo-sharing)
 
 I'm trying to set up a workflow for reporters of damaged industrial sites that may be polluting after Harvey and other storms and disasters. Currently people often upload large batches of files to Flickr or Google Drive, but [Archive.org](http://Archive.org) is a more sustainable place with a better API.
 

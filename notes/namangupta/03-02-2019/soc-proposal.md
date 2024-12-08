@@ -1,12 +1,18 @@
 ---
-nid: 18452
 title: SoC proposal: GSoC: Websocket Implementation for Real-time Usage and Sensor data and Display Library
-path: public/static/notes/namangupta/03-02-2019/soc-proposal.md
+tagnames: software, gsoc, soc, response:13975, rgsoc-2019, gsoc-2019, soc-2019, soc-2019-proposals, soc-2019-projects
+author: namangupta
+path: /notes/namangupta/03-02-2019/soc-proposal.md
+nid: 18452
 uid: 522848
-tagnames: software,gsoc,soc,response:13975,rgsoc-2019,gsoc-2019,soc-2019,soc-2019-proposals,soc-2019-projects
+
 ---
 
 # SoC proposal: GSoC: Websocket Implementation for Real-time Usage and Sensor data and Display Library
+
+by [namangupta](../profile/namangupta) March 02, 2019 14:24
+
+March 02, 2019 14:24 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [soc](../tag/soc), [response:13975](../tag/response:13975), [rgsoc-2019](../tag/rgsoc-2019), [gsoc-2019](../tag/gsoc-2019), [soc-2019](../tag/soc-2019), [soc-2019-proposals](../tag/soc-2019-proposals), [soc-2019-projects](../tag/soc-2019-projects)
 
 ## Google Summer of Code - 2019 
 

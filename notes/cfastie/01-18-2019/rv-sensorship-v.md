@@ -1,12 +1,18 @@
 ---
-nid: 18142
 title: RV SensorShip V 
-path: public/static/notes/cfastie/01-18-2019/rv-sensorship-v.md
+tagnames: arduino, sensors, blog, wi-fi, hardware, data-logging, bme280, tsl2561, activity:data-logging, mma8451, vl53lox, esp8266, blynk, iot, data-monitoring, mlx90615
+author: cfastie
+path: /notes/cfastie/01-18-2019/rv-sensorship-v.md
+nid: 18142
 uid: 554
-tagnames: arduino,sensors,blog,wi-fi,hardware,data-logging,bme280,tsl2561,activity:data-logging,mma8451,vl53lox,esp8266,blynk,iot,data-monitoring,mlx90615
+
 ---
 
 # RV SensorShip V 
+
+by [cfastie](../profile/cfastie) January 18, 2019 21:41
+
+January 18, 2019 21:41 | Tags: [arduino](../tag/arduino), [sensors](../tag/sensors), [blog](../tag/blog), [wi-fi](../tag/wi-fi), [hardware](../tag/hardware), [data-logging](../tag/data-logging), [bme280](../tag/bme280), [tsl2561](../tag/tsl2561), [activity:data-logging](../tag/activity:data-logging), [mma8451](../tag/mma8451), [vl53lox](../tag/vl53lox), [esp8266](../tag/esp8266), [blynk](../tag/blynk), [iot](../tag/iot), [data-monitoring](../tag/data-monitoring), [mlx90615](../tag/mlx90615)
 
 The [original SensorShip](https://publiclab.org/notes/cfastie/01-10-2019/what-would-you-do-with-sensorship) had four environmental sensors and it was hard to cram all the wiring into the sailboat I printed for it. I was also concerned that a sailboat is not a ship. I also wanted a SensorShip with more sensors. So I searched Thingiverse for a more appropriate vessel. 
 

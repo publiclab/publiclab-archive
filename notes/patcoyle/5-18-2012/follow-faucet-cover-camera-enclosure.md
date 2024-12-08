@@ -1,12 +1,18 @@
 ---
-nid: 2126
 title: Follow up on faucet cover camera enclosure
-path: public/static/notes/patcoyle/5-18-2012/follow-faucet-cover-camera-enclosure.md
+tagnames: balloon-mapping, near-infrared-camera, multiple-camera, photo-rig, activity:photo-rig
+author: patcoyle
+path: /notes/patcoyle/5-18-2012/follow-faucet-cover-camera-enclosure.md
+nid: 2126
 uid: 77
-tagnames: balloon-mapping,near-infrared-camera,multiple-camera,photo-rig,activity:photo-rig
+
 ---
 
 # Follow up on faucet cover camera enclosure
+
+by [patcoyle](../profile/patcoyle) May 18, 2012 06:39
+
+May 18, 2012 06:39 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [multiple-camera](../tag/multiple-camera), [photo-rig](../tag/photo-rig), [activity:photo-rig](../tag/activity:photo-rig)
 
 Sal Cangeloso <sal@geek.com> posted a neat article on his experience with his Kickstarter balloon mapping kit and suggested redesigned camera holder to address slipping camera problem. 
 http://www.geek.com/articles/gadgets/adventures-in-balloon-mapping-20120517/

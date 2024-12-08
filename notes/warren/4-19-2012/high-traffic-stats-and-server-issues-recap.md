@@ -1,12 +1,18 @@
 ---
-nid: 1715
 title: High traffic stats and server issues recap 
-path: public/static/notes/warren/4-19-2012/high-traffic-stats-and-server-issues-recap.md
+tagnames: balloon-mapping, community, server
+author: warren
+path: /notes/warren/4-19-2012/high-traffic-stats-and-server-issues-recap.md
+nid: 1715
 uid: 1
-tagnames: balloon-mapping,community,server
+
 ---
 
 # High traffic stats and server issues recap 
+
+by [warren](../profile/warren) April 20, 2012 03:33
+
+April 20, 2012 03:33 | Tags: [balloon-mapping](../tag/balloon-mapping), [community](../tag/community), [server](../tag/server)
 
 We've had some high traffic over the past few days due to coverage related to the [Google annoucement about PLOTS maps](http://google-latlong.blogspot.com/2012/04/balloon-and-kite-imagery-in-google.html), and you may have seen the website very slow or even unresponsive, especially Wednesday morning (EST). There's been a lot of interest in the story, which is great, and I wanted to both highlight some of the traffic numbers and mention what we're doing to handle them.
 

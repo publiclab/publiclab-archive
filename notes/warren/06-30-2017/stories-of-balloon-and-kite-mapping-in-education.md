@@ -1,12 +1,18 @@
 ---
-nid: 14597
 title: Stories of balloon and kite mapping in education
-path: public/static/notes/warren/06-30-2017/stories-of-balloon-and-kite-mapping-in-education.md
+tagnames: balloon-mapping, kite-mapping, education, parts-and-crafts, blog, makerspaces, civiclab, media-lab, govlab, cusp
+author: warren
+path: /notes/warren/06-30-2017/stories-of-balloon-and-kite-mapping-in-education.md
+nid: 14597
 uid: 1
-tagnames: balloon-mapping,kite-mapping,education,parts-and-crafts,blog,makerspaces,civiclab,media-lab,govlab,cusp
+
 ---
 
 # Stories of balloon and kite mapping in education
+
+by [warren](../profile/warren) June 30, 2017 21:54
+
+June 30, 2017 21:54 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [education](../tag/education), [parts-and-crafts](../tag/parts-and-crafts), [blog](../tag/blog), [makerspaces](../tag/makerspaces), [civiclab](../tag/civiclab), [media-lab](../tag/media-lab), [govlab](../tag/govlab), [cusp](../tag/cusp)
 
 As part of our series on all the amazing work that's been done with kite and balloon mapping over the years -- work that's led to our [new Mini Balloon and Kite kits](https://www.kickstarter.com/projects/publiclab/kickstarter-gold-balloon-mapping-kits/), today we'd like to highlight a number of educational projects from our community and partners over the years. 
 

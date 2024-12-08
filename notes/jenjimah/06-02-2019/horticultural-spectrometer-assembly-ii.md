@@ -1,12 +1,18 @@
 ---
-nid: 19599
 title: Horticultural Spectrometer - Assembly II
-path: public/static/notes/jenjimah/06-02-2019/horticultural-spectrometer-assembly-ii.md
+tagnames: spectrometer, slit, blade, razor
+author: jenjimah
+path: /notes/jenjimah/06-02-2019/horticultural-spectrometer-assembly-ii.md
+nid: 19599
 uid: 505738
-tagnames: spectrometer,slit,blade,razor
+
 ---
 
 # Horticultural Spectrometer - Assembly II
+
+by [jenjimah](../profile/jenjimah) June 02, 2019 18:37
+
+June 02, 2019 18:37 | Tags: [spectrometer](../tag/spectrometer), [slit](../tag/slit), [blade](../tag/blade), [razor](../tag/razor)
 
 This is an update to the main project [Horticultural Spectrometer Upgrade - Planning  
 ](https://publiclab.org/notes/jenjimah/04-07-2019/horticultural-spectroscope-upgrade-planning)

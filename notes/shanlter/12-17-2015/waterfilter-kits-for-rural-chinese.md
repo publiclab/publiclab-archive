@@ -1,12 +1,18 @@
 ---
-nid: 12528
 title: PureLab：Experiment and Installing Water Filters Record In Banmentun
-path: public/static/notes/shanlter/12-17-2015/waterfilter-kits-for-rural-chinese.md
+tagnames: remediation, water-quality, water, turbidity, asia, barnstar:basic, nitrate, barnstar:photo-documentation, filters, china, purelab, water-filter, filtration, nitrates, drinking-water, activity:water-quality, water-filters, activity:filtration, nitrogen, first-time-poster, activity:water-filters, activity:nitrogen, activity:remediation
+author: shanlter
+path: /notes/shanlter/12-17-2015/waterfilter-kits-for-rural-chinese.md
+nid: 12528
 uid: 420999
-tagnames: remediation,water-quality,water,turbidity,asia,barnstar:basic,nitrate,barnstar:photo-documentation,filters,china,purelab,water-filter,filtration,nitrates,drinking-water,activity:water-quality,water-filters,activity:filtration,nitrogen,first-time-poster,activity:water-filters,activity:nitrogen,activity:remediation
+
 ---
 
 # PureLab：Experiment and Installing Water Filters Record In Banmentun
+
+by [shanlter](../profile/shanlter) December 17, 2015 10:12
+
+December 17, 2015 10:12 | Tags: [remediation](../tag/remediation), [water-quality](../tag/water-quality), [water](../tag/water), [turbidity](../tag/turbidity), [asia](../tag/asia), [barnstar:basic](../tag/barnstar:basic), [nitrate](../tag/nitrate), [barnstar:photo-documentation](../tag/barnstar:photo-documentation), [filters](../tag/filters), [china](../tag/china), [purelab](../tag/purelab), [water-filter](../tag/water-filter), [filtration](../tag/filtration), [nitrates](../tag/nitrates), [drinking-water](../tag/drinking-water), [activity:water-quality](../tag/activity:water-quality), [water-filters](../tag/water-filters), [activity:filtration](../tag/activity:filtration), [nitrogen](../tag/nitrogen), [first-time-poster](../tag/first-time-poster), [activity:water-filters](../tag/activity:water-filters), [activity:nitrogen](../tag/activity:nitrogen), [activity:remediation](../tag/activity:remediation)
 
 2015-12-22 yidaoxiaohe shizi G-HUB
 

@@ -1,12 +1,18 @@
 ---
-nid: 18047
 title: Brainstorming for Summer of Code 2019
-path: public/static/notes/warren/01-02-2019/brainstorming-for-summer-of-code-2019.md
+tagnames: outreach, gsoc, code, wwg, software-outreach, rgsoc, soc, ideas, rgsoc-2019, gsoc-2019, soc-2019, soc-ideas, brainstorm, response:15477
+author: warren
+path: /notes/warren/01-02-2019/brainstorming-for-summer-of-code-2019.md
+nid: 18047
 uid: 1
-tagnames: outreach,gsoc,code,wwg,software-outreach,rgsoc,soc,ideas,rgsoc-2019,gsoc-2019,soc-2019,soc-ideas,brainstorm,response:15477
+
 ---
 
 # Brainstorming for Summer of Code 2019
+
+by [warren](../profile/warren) January 02, 2019 19:04
+
+January 02, 2019 19:04 | Tags: [outreach](../tag/outreach), [gsoc](../tag/gsoc), [code](../tag/code), [wwg](../tag/wwg), [software-outreach](../tag/software-outreach), [rgsoc](../tag/rgsoc), [soc](../tag/soc), [ideas](../tag/ideas), [rgsoc-2019](../tag/rgsoc-2019), [gsoc-2019](../tag/gsoc-2019), [soc-2019](../tag/soc-2019), [soc-ideas](../tag/soc-ideas), [brainstorm](../tag/brainstorm), [response:15477](../tag/response:15477)
 
 Amazingly, Summer of Code 2019 is approaching, or at least our Ideas list is starting to be needed to plan it out properly. Let's kick off some discussion of projects so that we coordinate the long-term plan for our community's code!
 

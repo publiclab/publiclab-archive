@@ -1,12 +1,18 @@
 ---
-nid: 23575
 title: Is the Purple Air sensor an EPA-validated tool?
-path: public/static/notes/kgradow1/05-08-2020/is-the-purple-air-sensor-an-epa-validated-tool.md
+tagnames: air-quality, pm, question:air-quality, question:pm, question:general, general, method, particulate-matter, purple-air, question:method, question:purple-air, air-sensor, question:air-sensor
+author: kgradow1
+path: /notes/kgradow1/05-08-2020/is-the-purple-air-sensor-an-epa-validated-tool.md
+nid: 23575
 uid: 297929
-tagnames: air-quality,pm,question:air-quality,question:pm,question:general,general,method,particulate-matter,purple-air,question:method,question:purple-air,air-sensor,question:air-sensor
+
 ---
 
 # Is the Purple Air sensor an EPA-validated tool?
+
+by [kgradow1](../profile/kgradow1) May 08, 2020 00:32
+
+May 08, 2020 00:32 | Tags: [air-quality](../tag/air-quality), [pm](../tag/pm), [question:air-quality](../tag/question:air-quality), [question:pm](../tag/question:pm), [question:general](../tag/question:general), [general](../tag/general), [method](../tag/method), [particulate-matter](../tag/particulate-matter), [purple-air](../tag/purple-air), [question:method](../tag/question:method), [question:purple-air](../tag/question:purple-air), [air-sensor](../tag/air-sensor), [question:air-sensor](../tag/question:air-sensor)
 
 I'm working on the bucket brigade air sample project and am trying to understand how community tools become "EPA-approved" (and whether this is a necessary step). An early version of the bucket was piloted through an EPA grant and having EPA approval is certainly helpful in some contexts to be able to push for improved monitoring. I'm trying to get a better sense of how and when - or if! -- EPA validation matters for community tools.
 

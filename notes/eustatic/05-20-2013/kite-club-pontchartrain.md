@@ -1,12 +1,18 @@
 ---
-nid: 7751
 title: Kite Club Pontchartrain
-path: public/static/notes/eustatic/05-20-2013/kite-club-pontchartrain.md
+tagnames: gulf-coast, event, replication:14022
+author: eustatic
+path: /05-20-2013/kite-club-pontchartrain.md
+nid: 7751
 uid: 379
-tagnames: gulf-coast,event,replication:14022
+
 ---
 
 # Kite Club Pontchartrain
+
+by [eustatic](../profile/eustatic) May 20, 2013 23:44
+
+May 20, 2013 23:44 | Tags: [gulf-coast](../tag/gulf-coast), [event](../tag/event), [replication:14022](../tag/replication:14022)
 
 ##Kite Club Pontchartrain, May edition
 

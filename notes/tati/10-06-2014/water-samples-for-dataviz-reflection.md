@@ -1,12 +1,18 @@
 ---
-nid: 11233
 title: Water Samples For DataViz Reflection 
-path: public/static/notes/tati/10-06-2014/water-samples-for-dataviz-reflection.md
-uid: 428062
 tagnames: sensor-journalism
+author: tati
+path: /notes/tati/10-06-2014/water-samples-for-dataviz-reflection.md
+nid: 11233
+uid: 428062
+
 ---
 
 # Water Samples For DataViz Reflection 
+
+by [tati](../profile/tati) October 06, 2014 02:20
+
+October 06, 2014 02:20 | Tags: [sensor-journalism](../tag/sensor-journalism)
 
 Sensor Journalism, where science and journalism meet to create a new emerging genre of gathering information.  Lily Bui, from Emerson Engagement Lab,  defines sensor journalism as “ Generating or collecting data from sensors then using that data to tell a story”. Sensors are all around us. It's no question as to why they are now starting to become popular for journalist to use as a tool of gathering information.  As mentioned in the TOW Report _Sensors and Journalism_,  sensor journalism has three distinct styles. The first is to get sensor equipment and collect the data, then there is gathering data from existing data sources, and last is designing a prototype sensing system that will sense data.
  

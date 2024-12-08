@@ -1,12 +1,18 @@
 ---
-nid: 1596
 title:  Mobile E coli detector created for cell phones by UCLA researchers
-path: public/static/notes/joywager/4-2-2012/mobile-e-coli-detector-created-cell-phones-ucla-researchers.md
+tagnames: e-coli, e-coli-detector, mobile-phone-camera, ucla
+author: joywager
+path: /notes/joywager/4-2-2012/mobile-e-coli-detector-created-cell-phones-ucla-researchers.md
+nid: 1596
 uid: 774
-tagnames: e-coli,e-coli-detector,mobile-phone-camera,ucla
+
 ---
 
 #  Mobile E coli detector created for cell phones by UCLA researchers
+
+by [joywager](../profile/joywager) April 02, 2012 07:59
+
+April 02, 2012 07:59 | Tags: [e-coli](../tag/e-coli), [e-coli-detector](../tag/e-coli-detector), [mobile-phone-camera](../tag/mobile-phone-camera), [ucla](../tag/ucla)
 
 Food borne sickness is seriously unpleasant, though it isn't always fatal. However, experts from UCLA have a solution, which uses a mobile phone to help catch the bugs. The machine, which attaches to the back of a phone, can identify E. coli bacteria from samples. Article resource: <a href="http://www.appisaurus.com/3268-e-coli-detector-attachment/">UCLA scientists create E coli detector attachment for cell phones</a>
 

@@ -1,12 +1,18 @@
 ---
-nid: 14522
 title: Nano Data Logger
-path: public/static/wiki/nano-data-logger.md
+tagnames: sensors, tool, datalogger, data-logging, method, nano-data-logger, parent:data-logging, activities:nano-data-logger
+author: warren
+path: /wiki/nano-data-logger.md
+nid: 14522
 uid: 1
-tagnames: sensors,tool,datalogger,data-logging,method,nano-data-logger,parent:data-logging,activities:nano-data-logger
+
 ---
 
 # Nano Data Logger
+
+by [cfastie](../profile/cfastie), [warren](../profile/warren)
+
+June 12, 2017 19:04 | Tags: [sensors](../tag/sensors), [tool](../tag/tool), [datalogger](../tag/datalogger), [data-logging](../tag/data-logging), [method](../tag/method), [nano-data-logger](../tag/nano-data-logger), [parent:data-logging](../tag/parent:data-logging), [activities:nano-data-logger](../tag/activities:nano-data-logger)
 
 The Nano Data Logger is an easy and inexpensive way to start collecting environmental data. It relies on a shield (a PCB which plugs into another PCB) which snaps onto an Arduino Nano. The shield adds a real time clock and microSD card socket to the Arduino microcontroller. When the components are prepared properly, no soldering is required to start saving data from a sensor. Kits to build a Nano Data Logger are available at the [Public Lab Store](https://store.publiclab.org/collections/water-monitoring/products/nano-data-logger-kit?variant=12516302323821) and the [KAPtery](http://kaptery.com/product/nano-logger-kit).
 

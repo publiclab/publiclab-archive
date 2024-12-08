@@ -1,12 +1,18 @@
 ---
-nid: 15310
 title: Back to Basics, or a Departure from Environmental Protections? History lends perspective.
-path: public/static/notes/mlamadrid/12-05-2017/back-to-basics-or-a-departure-from-environmental-protections-history-lends-perspective.md
+tagnames: environment, regulations, landscape, governance
+author: mlamadrid
+path: /notes/mlamadrid/12-05-2017/back-to-basics-or-a-departure-from-environmental-protections-history-lends-perspective.md
+nid: 15310
 uid: 45586
-tagnames: environment,regulations,landscape,governance
+
 ---
 
 # Back to Basics, or a Departure from Environmental Protections? History lends perspective.
+
+by [mlamadrid](../profile/mlamadrid) December 05, 2017 23:32
+
+December 05, 2017 23:32 | Tags: [environment](../tag/environment), [regulations](../tag/regulations), [landscape](../tag/landscape), [governance](../tag/governance)
 
 Article by Leif Fredrickson, [Environmental Data and Governance Initiative](https://envirodatagov.org/) for [Community Science Forum: Changing Environmental Governance Landscape](https://publiclab.org/forum)
 

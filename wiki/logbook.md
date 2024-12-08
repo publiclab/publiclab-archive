@@ -1,12 +1,18 @@
 ---
-nid: 105
 title: Logbook
-path: public/static/wiki/logbook.md
-uid: 1
 tagnames: 
+author: warren
+path: /wiki/logbook.md
+nid: 105
+uid: 1
+
 ---
 
 # Logbook
+
+by [warren](../profile/warren)
+
+February 28, 2011 16:19 | Tags: 
 
 The logbook is an idea for a Lulu.com printed book to bring on field mapping missions for [balloon mapping](/tool/balloon-mapping)
 

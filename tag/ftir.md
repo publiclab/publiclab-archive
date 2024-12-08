@@ -1,6 +1,6 @@
 # ftir
 
-4 notes and wiki pages
+4 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Has anyone experienced measuring and analyzing microplastics?](/notes/niklasjordan/05-17-2018/has-anyone-experienced-measuring-and-analyzing-microplastics) by [niklasjordan](../profile/niklasjordan)
 - [Hydro-powered DIY FTIR Spectrometer](/notes/bryanchua/12-18-2018/hydro-powered-diy-ftir-spectrometer) by [bryanchua](../profile/bryanchua)

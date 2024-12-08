@@ -1,12 +1,18 @@
 ---
-nid: 12379
 title: Oil Testing Kit -- Assembly & Calibration! 
-path: public/static/notes/_mahsa_/11-09-2015/oil-testing-kit-assembly-calibration.md
+tagnames: spectrometer, sampling, oil-testing-kit
+author: _mahsa_
+path: /notes/_mahsa_/11-09-2015/oil-testing-kit-assembly-calibration.md
+nid: 12379
 uid: 445603
-tagnames: spectrometer,sampling,oil-testing-kit
+
 ---
 
 # Oil Testing Kit -- Assembly & Calibration! 
+
+by [_mahsa_](../profile/_mahsa_) November 09, 2015 00:54
+
+November 09, 2015 00:54 | Tags: [spectrometer](../tag/spectrometer), [sampling](../tag/sampling), [oil-testing-kit](../tag/oil-testing-kit)
 
 Hi, I'm Mahsa a member of the Oil Testing Kit beta program and below you'll find my experience assembling the oil testing kit. 
     

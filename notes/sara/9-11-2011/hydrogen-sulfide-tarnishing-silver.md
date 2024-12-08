@@ -1,12 +1,18 @@
 ---
-nid: 462
 title: Hydrogen Sulfide tarnishing Silver
-path: public/static/notes/sara/9-11-2011/hydrogen-sulfide-tarnishing-silver.md
+tagnames: hydrogen-sulfide-sensing, hydrogen-sulfide, h2s, silver, chlorene
+author: sara
+path: /notes/sara/9-11-2011/hydrogen-sulfide-tarnishing-silver.md
+nid: 462
 uid: 8
-tagnames: hydrogen-sulfide-sensing,hydrogen-sulfide,h2s,silver,chlorene
+
 ---
 
 # Hydrogen Sulfide tarnishing Silver
+
+by [sara](../profile/sara) September 11, 2011 20:41
+
+September 11, 2011 20:41 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s), [silver](../tag/silver), [chlorene](../tag/chlorene)
 
 http://www.finishing.com/204/32.shtml
 

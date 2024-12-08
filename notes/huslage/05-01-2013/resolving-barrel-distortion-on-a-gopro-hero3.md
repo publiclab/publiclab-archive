@@ -1,12 +1,18 @@
 ---
-nid: 7192
 title: Resolving Barrel Distortion on a GoPro Hero3
-path: public/static/notes/huslage/05-01-2013/resolving-barrel-distortion-on-a-gopro-hero3.md
+tagnames: balloon-mapping, development, distortion, fisheye
+author: huslage
+path: /notes/huslage/05-01-2013/resolving-barrel-distortion-on-a-gopro-hero3.md
+nid: 7192
 uid: 716
-tagnames: balloon-mapping,development,distortion,fisheye
+
 ---
 
 # Resolving Barrel Distortion on a GoPro Hero3
+
+by [huslage](../profile/huslage) May 01, 2013 20:39
+
+May 01, 2013 20:39 | Tags: [balloon-mapping](../tag/balloon-mapping), [development](../tag/development), [distortion](../tag/distortion), [fisheye](../tag/fisheye)
 
 ##Details about the problem
 

@@ -1,12 +1,18 @@
 ---
-nid: 16300
 title: Event: Mapping wetlands and algae blooms 
-path: public/static/notes/stevie/05-04-2018/event-mapping-wetlands-and-algae-blooms.md
+tagnames: gulf-coast, nir, wetlands, mapping, event, new-orleans, algae, nas
+author: stevie
+path: /notes/stevie/05-04-2018/event-mapping-wetlands-and-algae-blooms.md
+nid: 16300
 uid: 422561
-tagnames: gulf-coast,nir,wetlands,mapping,event,new-orleans,algae,nas
+
 ---
 
 # Event: Mapping wetlands and algae blooms 
+
+by [stevie](../profile/stevie) May 04, 2018 19:51
+
+May 04, 2018 19:51 | Tags: [gulf-coast](../tag/gulf-coast), [nir](../tag/nir), [wetlands](../tag/wetlands), [mapping](../tag/mapping), [event](../tag/event), [new-orleans](../tag/new-orleans), [algae](../tag/algae), [nas](../tag/nas)
 
 Recently, Lake Pontchartrain suffered from a harmful algae bloom. This bloom was spotted along the north shore and confirmed and monitored by aircraft flyovers.  Planes aren't the only way to capture great aerial imagery!
 

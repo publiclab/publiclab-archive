@@ -1,6 +1,6 @@
 # climate-change
 
-45 notes and wiki pages
+45 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Important Report on Climate Change 2014](/notes/amysoyka/06-23-2014/important-report-on-climate-change-2014) by [amysoyka](../profile/amysoyka)
 - [NYC Climate Justice Youth Summit](/notes/liz/08-04-2015/nyc-climate-justice-youth-summit) by [liz](../profile/liz)
@@ -22,7 +22,6 @@
 - [Does anyone aware of heat sensors that can record INDOOR heat intensity at 5-10 minutes intervals?](/notes/Filipaul/02-26-2020/does-anyone-aware-of-heat-sensors-that-can-record-indoor-heat-intensity-at-5-10-minutes-intervals) by [Filipaul](../profile/Filipaul)
 - [Learning for Justice in a Climate Changing World ](/notes/amocorro/06-23-2020/learning-for-justice-in-a-climate-changing-world) by [amocorro](../profile/amocorro)
 - [What does COVID-19 have to do with the climate and environmental crisis](/notes/shubham8705/07-01-2020/what-does-covid-19-have-to-do-with-the-climate-and-environmental-crisis) by [shubham8705](../profile/shubham8705)
-- [ICLM Regeneration](/notes/medicek/08-25-2020/iclm-regeneration) by [medicek](../profile/medicek)
 - [Climate Change and Environmental Justice:  How it impacts and continues to prove to be a disadvantage to the low income and minority population.](/notes/MyrnaRomo/11-14-2020/climate-change-and-environmental-justice-how-it-impacts-and-continues-to-prove-to-be-a-disadvantage-to-the-low-income-and-minority-population) by [MyrnaRomo](../profile/MyrnaRomo)
 - [How severely has climate change and pollution affected Louisiana?](/notes/cummins_leila/03-05-2021/how-severely-has-climate-change-and-pollution-affected-louisiana) by [cummins_leila](../profile/cummins_leila)
 - [What are the best ways to preserve energy?](/notes/grace_williams/03-09-2021/what-are-the-best-ways-to-preserve-energy) by [grace_williams](../profile/grace_williams)
@@ -32,18 +31,12 @@
 - [Infragram Pi Cameras and public installation: For the tool setup, can the camera can be connected to other devices like a tablet, to instantly view photos on a screen?](/notes/amocorro/05-26-2021/infragram-pi-cameras-and-installation-for-the-tool-setup-can-the-camera-can-be-connected-to-other-devices-like-a-tablet-to-instantly-view-photos-on-a-screen) by [amocorro](../profile/amocorro)
 - [Tribal Intertidal Digital Ecological Surveys (TIDES)](/notes/RosaL/06-10-2021/tribal-intertidal-digital-ecological-surveys-tides) by [RosaL](../profile/RosaL)
 - [Advocacy and Organizing Community Call](/notes/julia_e_masters/08-26-2021/advocacy-and-organizing-community-call) by [julia_e_masters](../profile/julia_e_masters)
-- [A gloomy warning about climate change](/notes/sales6_ionia/08-27-2021/a-gloomy-warning-about-climate-change) by [sales6_ionia](../profile/sales6_ionia)
 - [Ida](/wiki/ida) (wiki)
 - [Open Source Technology is Integral to Equitable and Innovative Climate Action](/notes/julia_e_masters/09-23-2021/open-source-technology-is-integral-to-equitable-and-innovative-climate-action) by [julia_e_masters](../profile/julia_e_masters)
 - [How To Become a Carbon Gardener](/notes/laurel_mire/09-29-2021/how-to-become-a-carbon-gardener) by [laurel_mire](../profile/laurel_mire)
 - [What are ways to identify pockets of heat/air pollution in a neighborhood?](/notes/julia_e_masters/10-07-2021/what-are-ways-to-identify-pockets-of-heat-air-pollution-in-a-neighborhood) by [julia_e_masters](../profile/julia_e_masters)
-- [Urban Environment and Social Inclusion Index: Urban Heat Index](/notes/julia_e_masters/10-07-2021/urban-environment-and-social-inclusion-index-urban-heat-index) by [julia_e_masters](../profile/julia_e_masters)
 - [Urban Environment and Social Inclusion Index](/wiki/urban-environment-and-social-inclusion-index) (wiki)
 - [Data Divide: Kathmandu Living Labs & OpenStreetMap](/notes/julia_e_masters/11-30-2021/data-divide-kathmandu-living-labs-openstreetmap) by [julia_e_masters](../profile/julia_e_masters)
-- [VeR! el callejón de las almas perdidas [2022] pelicula completa online](/notes/byronpitts18/01-24-2022/ver-el-callejon-de-las-almas-perdidas-2022-pelicula-completa-online) by [byronpitts18](../profile/byronpitts18)
 - [Introducing the Center for Applied Environmental Science (CAES)](/notes/Fleer/01-27-2022/introducing-the-center-for-applied-environmental-science-caes) by [Fleer](../profile/Fleer)
 - [Status ,Trends and Gap of Oceanography in the Gulf of Guinea a case study on the Coast of Cameroon](/notes/BIKIE-GERALD-24/07-09-2022/status-trends-and-gap-of-oceanography-in-the-gulf-of-guinea-a-case-study-on-the-coast-of-cameroon) by [BIKIE-GERALD-24](../profile/BIKIE-GERALD-24)
 - [Join a Citizen Science + Climate Change Monitoring Project](/notes/agentpesnot/08-03-2022/join-a-citizen-science-climate-change-monitoring-project) by [agentpesnot](../profile/agentpesnot)
-- [The Impact of Climate Change on Water Resources](/notes/monzsdgi/06-24-2023/the-impact-of-climate-change-on-water-resources) by [monzsdgi](../profile/monzsdgi)
-- [ The Impact of Climate Change on Water Resources](/notes/monzsdgi/06-25-2023/the-impact-of-climate-change-on-water-resources) by [monzsdgi](../profile/monzsdgi)
-- [Chandmari call girl provide heart touching experience](/notes/neeha451/06-28-2024/chandmari-call-girl-provide-heart-touching-experience) by [neeha451](../profile/neeha451)

@@ -1,12 +1,18 @@
 ---
-nid: 11438
 title: Merry Mapping in New Orleans! 
-path: public/static/notes/stevie/12-05-2014/merry-mapping-in-new-orleans.md
+tagnames: events, mapping, event, neworleans, gulfcoast, event:rsvp, urbanwaters, date:12-13-2014, rsvp:mimibell
+author: stevie
+path: /notes/stevie/12-05-2014/merry-mapping-in-new-orleans.md
+nid: 11438
 uid: 422561
-tagnames: events,mapping,event,neworleans,gulfcoast,event:rsvp,urbanwaters,date:12-13-2014,rsvp:mimibell
+
 ---
 
 # Merry Mapping in New Orleans! 
+
+by [stevie](../profile/stevie) December 05, 2014 19:55
+
+December 05, 2014 19:55 | Tags: [events](../tag/events), [mapping](../tag/mapping), [event](../tag/event), [neworleans](../tag/neworleans), [gulfcoast](../tag/gulfcoast), [event:rsvp](../tag/event:rsvp), [urbanwaters](../tag/urbanwaters), [date:12-13-2014](../tag/date:12-13-2014), [rsvp:mimibell](../tag/rsvp:mimibell)
 
 ###New Orleans' Last mapping event of the year!
 ** _A fun and festive event._**

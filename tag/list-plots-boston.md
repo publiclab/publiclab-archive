@@ -1,6 +1,6 @@
 # list-plots-boston
 
-3 notes and wiki pages
+3 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Somerville, Massachusetts](/wiki/somerville-massachusetts) (wiki)
 - [Boston](/wiki/boston) (wiki)

@@ -1,6 +1,6 @@
 # microplastics
 
-98 notes and wiki pages
+98 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Solutions to Plastic Pollution](/notes/Johudson1/06-22-2015/solutions-to-plastic-pollution) by [Johudson1](../profile/Johudson1)
 - [DIY microscope resources](/notes/liz/09-28-2016/diy-microscope-resources) by [liz](../profile/liz)
@@ -33,9 +33,7 @@
 - [Tortuga Guardian](/wiki/tortuga-guardian) (wiki)
 - [Microplastics](/wiki/microplastics) (wiki)
 - [Build a low-magnification "dissection microscope" for microplastics](/notes/warren/10-16-2019/build-a-low-magnification-dissection-microscope-for-microplastics) by [warren](../profile/warren)
-- [How do I...zxcxdcx](/notes/dreamdeland19/10-18-2019/how-do-i-zxcxdcx) by [dreamdeland19](../profile/dreamdeland19)
 - [How many squid should I dissect to determine the average amount of micro plastics in squid guts?](/notes/plasticsquid/02-20-2020/how-many-squid-should-i-dissect-to-determine-the-average-amount-of-micro-plastics-in-squid-guts) by [plasticsquid](../profile/plasticsquid)
-- [How Useful AZ-500 PDF Dumps to Pass AZ-500 test](/notes/altabunny9/03-07-2020/how-useful-az-500-pdf-dumps-to-pass-az-500-test) by [altabunny9](../profile/altabunny9)
 - [What are ways we could model the absorption of chemicals by plastic waste?](/notes/mimiss/04-28-2020/what-are-ways-we-could-model-the-absorption-of-chemicals-by-plastic-waste) by [mimiss](../profile/mimiss)
 - [Call on Monitoring for Microplastics](/notes/stevie/06-12-2020/call-on-monitoring-for-microplastics) by [stevie](../profile/stevie)
 - [Will high turbidity levels affect the babylegs trawl?](/notes/stevie/06-23-2020/will-high-turbidity-levels-affect-the-babylegs-trawl) by [stevie](../profile/stevie)
@@ -97,6 +95,5 @@
 - [World Laws  Versus Federal and State Drinking Water Legislation](/notes/TheChessGym/05-10-2022/world-laws-versus-federal-and-state-drinking-water-legislation) by [TheChessGym](../profile/TheChessGym)
 - [Event: Messages from the Mississippi Student Art Exhibition](/notes/a1ahna/05-27-2022/event-messages-from-the-mississippi-student-art-exhibition) by [a1ahna](../profile/a1ahna)
 - [Operation Pollution Sucks:  ~$100 nurdle sucker upper from commercial sources](/notes/eustatic/06-04-2022/operation-pollution-sucks-100-nurdle-sucker-upper-from-commercial-sources) by [eustatic](../profile/eustatic)
-- [Verify PlayStation Network (PSN) Condition](/notes/anetopto1858/01-12-2023/verify-playstation-network-psn-condition) by [anetopto1858](../profile/anetopto1858)
 - [Collecting Microplastics in City Park](/notes/bhamster/03-02-2023/collecting-microplastics-in-city-park) by [bhamster](../profile/bhamster)
 - [Chattahoochee Challenge: Connecting Students Across a Watershed ](/notes/rebeccaMw/03-08-2023/chattahoochee-challenge-connecting-students-across-a-watershed) by [rebeccaMw](../profile/rebeccaMw)

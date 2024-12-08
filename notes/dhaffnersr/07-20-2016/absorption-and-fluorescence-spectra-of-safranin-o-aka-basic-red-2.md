@@ -1,12 +1,18 @@
 ---
-nid: 13302
 title: Absorption and Fluorescence Spectra of Safranin O (aka., Basic Red #2)
-path: public/static/notes/dhaffnersr/07-20-2016/absorption-and-fluorescence-spectra-of-safranin-o-aka-basic-red-2.md
-uid: 461120
 tagnames: 
+author: dhaffnersr
+path: /notes/dhaffnersr/07-20-2016/absorption-and-fluorescence-spectra-of-safranin-o-aka-basic-red-2.md
+nid: 13302
+uid: 461120
+
 ---
 
 # Absorption and Fluorescence Spectra of Safranin O (aka., Basic Red #2)
+
+by [dhaffnersr](../profile/dhaffnersr) July 20, 2016 12:51
+
+July 20, 2016 12:51 | Tags: 
 
 ##**Origin of the word “science” Latin_ Scientia_- know**
 

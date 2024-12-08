@@ -1,12 +1,18 @@
 ---
-nid: 16266
 title: Foldable Spectrometer workshop - Barcelona
-path: public/static/notes/imvec/04-28-2018/foldable-spectrometer-workshop.md
+tagnames: spectrometer, barcelona, event, lat:41.40852, lon:2.199583, place:hangar-org
+author: imvec
+path: /notes/imvec/04-28-2018/foldable-spectrometer-workshop.md
+nid: 16266
 uid: 495038
-tagnames: spectrometer,barcelona,event,lat:41.40852,lon:2.199583,place:hangar-org
+
 ---
 
 # Foldable Spectrometer workshop - Barcelona
+
+by [imvec](../profile/imvec) April 28, 2018 13:10
+
+April 28, 2018 13:10 | Tags: [spectrometer](../tag/spectrometer), [barcelona](../tag/barcelona), [event](../tag/event), [lat:41.40852](../tag/lat:41.40852), [lon:2.199583](../tag/lon:2.199583), [place:hangar-org](../tag/place:hangar-org)
 
 ## Event details
 Within the framework of the [**Open Thursdays**](https://hangar.org/en/category/programa-hangar/dijous-oberts/) and as collective in residence of the [**Hangar Visual Arts Research and Production Center**](https://hangar.org) we propose a workshop to start in the world of spectrometry by building a papercraft spectrometer. Each participant will build their own spectrometer and will learn to calibrate it using the Spectralworkbench.

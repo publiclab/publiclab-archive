@@ -1,12 +1,18 @@
 ---
-nid: 13248
 title: Using a Rhodamine B standard to correct some past research mistakes...
-path: public/static/notes/dhaffnersr/06-29-2016/using-a-rhodamine-b-standard-to-correct-some-past-research-mistakes.md
-uid: 461120
 tagnames: 
+author: dhaffnersr
+path: /notes/dhaffnersr/06-29-2016/using-a-rhodamine-b-standard-to-correct-some-past-research-mistakes.md
+nid: 13248
+uid: 461120
+
 ---
 
 # Using a Rhodamine B standard to correct some past research mistakes...
+
+by [dhaffnersr](../profile/dhaffnersr) June 29, 2016 23:03
+
+June 29, 2016 23:03 | Tags: 
 
 I was going to post a new research note on a Rhodamine B concentration study yesterday and decided to double check some anomalies that had been occurring both with Rhodamine B and Fluorescein. I found a few glaring errors in that work and decided not to post any of it. I'm going to discuss the mistake first before discussing the importance of understanding the fundamentals of spectroscopy.
 

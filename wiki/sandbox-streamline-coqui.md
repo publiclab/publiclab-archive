@@ -1,12 +1,18 @@
 ---
-nid: 20360
 title: sandbox-streamline-coqui
-path: public/static/wiki/sandbox-streamline-coqui.md
-uid: 579821
 tagnames: 
+author: mimiss
+path: /wiki/sandbox-streamline-coqui.md
+nid: 20360
+uid: 579821
+
 ---
 
 # sandbox-streamline-coqui
+
+by [mimiss](../profile/mimiss)
+
+July 30, 2019 18:07 | Tags: 
 
 This is a guide to building the Coqui, version 2 - a compact and slightly refined version of the [Coqui water conductivity sensor from this post](https://publiclab.org/notes/ashkaya/09-17-2016/build-a-coqui-a-simple-water-conductivity-sensor). The Coqui is named after a small frog, because instead of producing numerical output, it makes a noise.
 

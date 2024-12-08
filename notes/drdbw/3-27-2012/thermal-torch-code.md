@@ -1,12 +1,18 @@
 ---
-nid: 1548
 title: Thermal Torch Code
-path: public/static/notes/drdbw/3-27-2012/thermal-torch-code.md
+tagnames: thermal-photography, first-time-poster
+author: dr_dbw
+path: /notes/drdbw/3-27-2012/thermal-torch-code.md
+nid: 1548
 uid: 706
-tagnames: thermal-photography,first-time-poster
+
 ---
 
 # Thermal Torch Code
+
+by [dr_dbw](../profile/dr_dbw) March 27, 2012 22:24
+
+March 27, 2012 22:24 | Tags: [thermal-photography](../tag/thermal-photography), [first-time-poster](../tag/first-time-poster)
 
 This is the coding I have written for the thermal torch / thermal photography project - http://publiclaboratory.org/tool/thermal-photography
 

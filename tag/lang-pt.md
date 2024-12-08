@@ -1,6 +1,6 @@
 # lang-pt
 
-6 notes and wiki pages
+6 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Mãe d'água - Rede InfoAmazonia ](/wiki/mae-d-agua-rede-infoamazonia) (wiki)
 - [Mãe d'água - Índice de qualidade / Water Mother - Quality index](/notes/GSan/08-26-2015/mae-d-agua-indice-de-qualidade-water-mother-quality-index) by [GSan](../profile/GSan)

@@ -1,6 +1,6 @@
 # list-plots-spectrometry
 
-7 notes and wiki pages
+7 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Spectrometer](/wiki/spectrometer) (wiki)
 - [Spectrometry](/wiki/spectrometry) (wiki)

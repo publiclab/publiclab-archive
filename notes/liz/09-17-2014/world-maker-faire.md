@@ -1,12 +1,18 @@
 ---
-nid: 11148
 title: World Maker Faire 2014
-path: public/static/notes/liz/09-17-2014/world-maker-faire.md
+tagnames: new-york-city, event, makerfaire, northeast, event:rsvp, date:09-17-2014, date:09-20-2014, make
+author: liz
+path: /notes/liz/09-17-2014/world-maker-faire.md
+nid: 11148
 uid: 7
-tagnames: new-york-city,event,makerfaire,northeast,event:rsvp,date:09-17-2014,date:09-20-2014,make
+
 ---
 
 # World Maker Faire 2014
+
+by [liz](../profile/liz) September 17, 2014 20:11
+
+September 17, 2014 20:11 | Tags: [new-york-city](../tag/new-york-city), [event](../tag/event), [makerfaire](../tag/makerfaire), [northeast](../tag/northeast), [event:rsvp](../tag/event:rsvp), [date:09-17-2014](../tag/date:09-17-2014), [date:09-20-2014](../tag/date:09-20-2014), [make](../tag/make)
 
 ###Event details
 Public Lab will be exhibiting for our fourth year at World Maker Faire this weekend! New York Hall of Science--find us in Zone 5, under a tent, more details will be known by this Friday.

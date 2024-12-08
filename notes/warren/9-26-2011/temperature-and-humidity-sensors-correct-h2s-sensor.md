@@ -1,12 +1,18 @@
 ---
-nid: 477
 title: Temperature and humidity sensors to correct H2S sensor
-path: public/static/notes/warren/9-26-2011/temperature-and-humidity-sensors-correct-h2s-sensor.md
-uid: 1
 tagnames: hydrogen-sulfide-sensor
+author: warren
+path: /notes/warren/9-26-2011/temperature-and-humidity-sensors-correct-h2s-sensor.md
+nid: 477
+uid: 1
+
 ---
 
 # Temperature and humidity sensors to correct H2S sensor
+
+by [warren](../profile/warren) September 26, 2011 14:40
+
+September 26, 2011 14:40 | Tags: [hydrogen-sulfide-sensor](../tag/hydrogen-sulfide-sensor)
 
 The Figaro TGS 825 hydrogen sulfide sensor needs to be corrected for ambient temperature and humidiy, as Justin Marrese and I discovered at the sensor meetup on Saturday. I found a couple options which beat the $30 sparkfun temp/humidity sensor:
 

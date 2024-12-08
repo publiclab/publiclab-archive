@@ -1,12 +1,18 @@
 ---
-nid: 577
 title: Occupy Maps
-path: public/static/wiki/occupy-maps.md
+tagnames: protest-mapping, occupy
+author: warren
+path: /wiki/occupy-maps.md
+nid: 577
 uid: 1
-tagnames: protest-mapping,occupy
+
 ---
 
 # Occupy Maps
+
+by [warren](../profile/warren), [gonzoearth](../profile/gonzoearth)
+
+November 22, 2011 20:46 | Tags: [protest-mapping](../tag/protest-mapping), [occupy](../tag/occupy)
 
 Running list of Occupy maps:
 

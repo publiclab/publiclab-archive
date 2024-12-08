@@ -1,12 +1,18 @@
 ---
-nid: 12647
 title: passive-pm-deployment
-path: public/static/wiki/passive-pm-deployment.md
-uid: 4
 tagnames: parent:passive-pm
+author: mathew
+path: /wiki/passive-pm-deployment.md
+nid: 12647
+uid: 4
+
 ---
 
 # passive-pm-deployment
+
+by [stevie](../profile/stevie), [mathew](../profile/mathew)
+
+February 03, 2016 23:19 | Tags: [parent:passive-pm](../tag/parent:passive-pm)
 
 [Passive Particle Monitor](http://publiclab.org/tag/passive-pm) tests are going out in Wisconsin and Chicago.  Here are the first-draft instructions for everyone collecting samples.
 

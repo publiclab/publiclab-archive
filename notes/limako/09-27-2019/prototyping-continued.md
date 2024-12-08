@@ -1,12 +1,18 @@
 ---
-nid: 21032
 title: Prototyping Continued
-path: public/static/notes/limako/09-27-2019/prototyping-continued.md
+tagnames: arduino, education, raspberry-pi, umass-amherst, prototyping
+author: limako
+path: /notes/limako/09-27-2019/prototyping-continued.md
+nid: 21032
 uid: 546871
-tagnames: arduino,education,raspberry-pi,umass-amherst,prototyping
+
 ---
 
 # Prototyping Continued
+
+by [limako](../profile/limako) September 27, 2019 20:08
+
+September 27, 2019 20:08 | Tags: [arduino](../tag/arduino), [education](../tag/education), [raspberry-pi](../tag/raspberry-pi), [umass-amherst](../tag/umass-amherst), [prototyping](../tag/prototyping)
 
 I've continued to experiment with my prototyping rig.  I've learned that newer versions of the Arduino application are command-line aware! So you can simply point it at your sketches to compile and upload them. You can also direct it to download and install the board descriptions of other boards. For the moment, I'm continuing to use arduino.mk.
 

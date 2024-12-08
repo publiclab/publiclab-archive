@@ -1,6 +1,6 @@
 # events-vermont
 
-7 notes and wiki pages
+7 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Vermont](/wiki/vermont) (wiki)
 - [LEAFFEST](/wiki/leaffest) (wiki)

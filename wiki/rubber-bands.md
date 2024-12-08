@@ -1,12 +1,18 @@
 ---
-nid: 705
 title: Rubber Bands
-path: public/static/wiki/rubber-bands.md
-uid: 4
 tagnames: 
+author: mathew
+path: /wiki/rubber-bands.md
+nid: 705
+uid: 4
+
 ---
 
 # Rubber Bands
+
+by [mathew](../profile/mathew)
+
+January 19, 2012 04:08 | Tags: 
 
 ##Size Numbers##
 Rubber bands come in a variety of sizes.  A comprehensive chart is [here](http://bigwigbands.com/page/rubber-band-size-color-chart/).

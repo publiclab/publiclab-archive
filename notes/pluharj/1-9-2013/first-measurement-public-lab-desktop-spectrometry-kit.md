@@ -1,12 +1,18 @@
 ---
-nid: 5496
 title: First Measurement with Public Lab Desktop Spectrometry Kit
-path: public/static/notes/pluharj/1-9-2013/first-measurement-public-lab-desktop-spectrometry-kit.md
+tagnames: spectrometer, dsk, unboxing
+author: pluharj
+path: /notes/pluharj/1-9-2013/first-measurement-public-lab-desktop-spectrometry-kit.md
+nid: 5496
 uid: 46812
-tagnames: spectrometer,dsk,unboxing
+
 ---
 
 # First Measurement with Public Lab Desktop Spectrometry Kit
+
+by [pluharj](../profile/pluharj) January 09, 2013 18:16
+
+January 09, 2013 18:16 | Tags: [spectrometer](../tag/spectrometer), [dsk](../tag/dsk), [unboxing](../tag/unboxing)
 
 I have decided to upload and share some of my first spectra taken within the first day of using the Kickstarter kit.
 

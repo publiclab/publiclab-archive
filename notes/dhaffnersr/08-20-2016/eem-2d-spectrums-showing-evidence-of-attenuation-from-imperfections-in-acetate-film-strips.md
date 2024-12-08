@@ -1,12 +1,18 @@
 ---
-nid: 13373
 title: EEM 2D Spectrums Showing Evidence of Attenuation from Imperfections in Acetate Film Strips 
-path: public/static/notes/dhaffnersr/08-20-2016/eem-2d-spectrums-showing-evidence-of-attenuation-from-imperfections-in-acetate-film-strips.md
-uid: 461120
 tagnames: 
+author: dhaffnersr
+path: /notes/dhaffnersr/08-20-2016/eem-2d-spectrums-showing-evidence-of-attenuation-from-imperfections-in-acetate-film-strips.md
+nid: 13373
+uid: 461120
+
 ---
 
 # EEM 2D Spectrums Showing Evidence of Attenuation from Imperfections in Acetate Film Strips 
+
+by [dhaffnersr](../profile/dhaffnersr) August 20, 2016 17:29
+
+August 20, 2016 17:29 | Tags: 
 
 This is part 2 from my previous research post on **Microscopic View of Public Lab's Acetate film slits**
 

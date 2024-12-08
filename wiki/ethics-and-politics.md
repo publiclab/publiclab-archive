@@ -1,12 +1,18 @@
 ---
-nid: 395
 title: Ethics and Politics
-path: public/static/wiki/ethics-and-politics.md
+tagnames: community, ethics, politics, consent
+author: sara
+path: /wiki/ethics-and-politics.md
+nid: 395
 uid: 8
-tagnames: community,ethics,politics,consent
+
 ---
 
 # Ethics and Politics
+
+by [Shannon](../profile/Shannon), [warren](../profile/warren), [sara](../profile/sara)
+
+July 19, 2011 22:14 | Tags: [community](../tag/community), [ethics](../tag/ethics), [politics](../tag/politics), [consent](../tag/consent)
 
 Gathering and sharing knowledge always creates ethical and political questions. Active discussion of ethical approaches to and questions about our research and technology development process and data sharing practices work is particularly important to public lab as we attempt to address community environmental health issues. 
 

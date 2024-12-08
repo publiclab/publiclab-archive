@@ -1,12 +1,18 @@
 ---
-nid: 542
 title: Towards a Tyvek & Bamboo Delta Kit
-path: public/static/notes/mathew/11-4-2011/towards-tyvek-bamboo-delta-kit.md
+tagnames: kite-mapping, diy-kite, tyvek, diy-kites, kite-making, activity:kite-making, activity:tyvek
+author: mathew
+path: /notes/mathew/11-4-2011/towards-tyvek-bamboo-delta-kit.md
+nid: 542
 uid: 4
-tagnames: kite-mapping,diy-kite,tyvek,diy-kites,kite-making,activity:kite-making,activity:tyvek
+
 ---
 
 # Towards a Tyvek & Bamboo Delta Kit
+
+by [mathew](../profile/mathew) November 04, 2011 06:45
+
+November 04, 2011 06:45 | Tags: [kite-mapping](../tag/kite-mapping), [diy-kite](../tag/diy-kite), [tyvek](../tag/tyvek), [diy-kites](../tag/diy-kites), [kite-making](../tag/kite-making), [activity:kite-making](../tag/activity:kite-making), [activity:tyvek](../tag/activity:tyvek)
 
 <em>The goal: to build a low-wind kite that's easy to build and costs less than $10 in materials. This details my work as well as Pat Coyle's on kite construction, and the rationale of the delta as a kit kite.</em>
 

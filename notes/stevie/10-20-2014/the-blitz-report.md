@@ -1,12 +1,18 @@
 ---
-nid: 11280
 title: The Blitz Report! 
-path: public/static/notes/stevie/10-20-2014/the-blitz-report.md
+tagnames: balloon-mapping, infragram, gulfcoast, urbanwater, urbanwaters, parent:urban-waters-mapping-nola
+author: stevie
+path: /notes/stevie/10-20-2014/the-blitz-report.md
+nid: 11280
 uid: 422561
-tagnames: balloon-mapping,infragram,gulfcoast,urbanwater,urbanwaters,parent:urban-waters-mapping-nola
+
 ---
 
 # The Blitz Report! 
+
+by [stevie](../profile/stevie) October 20, 2014 19:00
+
+October 20, 2014 19:00 | Tags: [balloon-mapping](../tag/balloon-mapping), [infragram](../tag/infragram), [gulfcoast](../tag/gulfcoast), [urbanwater](../tag/urbanwater), [urbanwaters](../tag/urbanwaters), [parent:urban-waters-mapping-nola](../tag/parent:urban-waters-mapping-nola)
 
 **Posting about the [Mapping Blitz ](http://publiclab.org/notes/stevie/09-11-2014/new-orleans-urban-restoration-mapping-blitz) event we ran here in New Orleans on October 11th. **
 

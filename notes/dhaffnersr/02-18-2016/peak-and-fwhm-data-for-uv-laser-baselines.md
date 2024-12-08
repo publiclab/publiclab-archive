@@ -1,12 +1,18 @@
 ---
-nid: 12705
 title: Peak and FWHM data for UV laser baselines
-path: public/static/notes/dhaffnersr/02-18-2016/peak-and-fwhm-data-for-uv-laser-baselines.md
-uid: 461120
 tagnames: 
+author: dhaffnersr
+path: /notes/dhaffnersr/02-18-2016/peak-and-fwhm-data-for-uv-laser-baselines.md
+nid: 12705
+uid: 461120
+
 ---
 
 # Peak and FWHM data for UV laser baselines
+
+by [dhaffnersr](../profile/dhaffnersr) February 18, 2016 13:06
+
+February 18, 2016 13:06 | Tags: 
 
 UV (405nm) – peaks and FWHM data:
 Distilled water - BLK 

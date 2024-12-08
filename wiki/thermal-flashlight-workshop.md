@@ -1,12 +1,18 @@
 ---
-nid: 637
 title: Thermal flashlight workshop
-path: public/static/wiki/thermal-flashlight-workshop.md
-uid: 1
 tagnames: 
+author: warren
+path: /wiki/thermal-flashlight-workshop.md
+nid: 637
+uid: 1
+
 ---
 
 # Thermal flashlight workshop
+
+by [rjstatic-authenticated](../profile/rjstatic-authenticated), [warren](../profile/warren), [sara](../profile/sara)
+
+December 14, 2011 19:10 | Tags: 
 
 <a href="https://www.flickr.com/photos/jeffreywarren/6502706171/" title=" kitchen windowsill by jeferonix, on Flickr"><img src="https://farm8.staticflickr.com/7007/6502706171_d909b51495.jpg" width="500" height="375" alt=" kitchen windowsill" /></a>
 

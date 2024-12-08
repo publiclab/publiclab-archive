@@ -1,6 +1,6 @@
 # activity-camera-rigs
 
-5 notes and wiki pages
+5 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Ranon reconfigures the rig](/notes/cfastie/08-27-2016/ranon-reconfigures-the-rig) by [cfastie](../profile/cfastie)
 - [PET Bottle & Rubber Band Rig](/notes/mathew/09-23-2016/pet-bottle-rubber-band-rig-wiki-page-as-research-note) by [mathew](../profile/mathew)

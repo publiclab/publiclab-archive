@@ -1,12 +1,18 @@
 ---
-nid: 1731
 title: Grassroots Mapping Coal River
-path: public/static/wiki/grassroots-mapping-coal-river.md
+tagnames: balloon-mapping, grassrootsmappingwiki, mapping, mining, mine-reclamation-photography
+author: warren
+path: /wiki/grassroots-mapping-coal-river.md
+nid: 1731
 uid: 1
-tagnames: balloon-mapping,grassrootsmappingwiki,mapping,mining,mine-reclamation-photography
+
 ---
 
 # Grassroots Mapping Coal River
+
+by [mariakatosvich](../profile/mariakatosvich), [warren](../profile/warren)
+
+April 21, 2012 14:47 | Tags: [balloon-mapping](../tag/balloon-mapping), [grassrootsmappingwiki](../tag/grassrootsmappingwiki), [mapping](../tag/mapping), [mining](../tag/mining), [mine-reclamation-photography](../tag/mine-reclamation-photography)
 
 Cherry Pond Mountain, West Virginia:
 

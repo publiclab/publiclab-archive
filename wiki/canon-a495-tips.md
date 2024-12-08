@@ -1,12 +1,18 @@
 ---
-nid: 1780
 title: Canon A495 Tips
-path: public/static/wiki/canon-a495-tips.md
+tagnames: balloon-mapping, near-infrared-camera, kite-mapping
+author: cfastie
+path: /wiki/canon-a495-tips.md
+nid: 1780
 uid: 554
-tagnames: balloon-mapping,near-infrared-camera,kite-mapping
+
 ---
 
 # Canon A495 Tips
+
+by [cfastie](../profile/cfastie), [warren](../profile/warren)
+
+April 25, 2012 15:03 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping)
 
 ###Some configuration ideas for using the A495 for aerial photos###
 

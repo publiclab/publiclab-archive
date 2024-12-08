@@ -1,12 +1,18 @@
 ---
-nid: 12036
 title: Multiple Thermistor Fishing Bob Field Test
-path: public/static/notes/kgrevera/07-07-2015/multiple-thermistor-fishing-bob-field-test.md
+tagnames: thermal-photography, cape-cod, water-quality, thermal-fishing-bob, thermal, thermal-pollution, heat, multiple-input-thermal-fishing-bob, replication:689, upgrade:thermal-fishing-bob
+author: kgrevera
+path: /notes/kgrevera/07-07-2015/multiple-thermistor-fishing-bob-field-test.md
+nid: 12036
 uid: 432001
-tagnames: thermal-photography,cape-cod,water-quality,thermal-fishing-bob,thermal,thermal-pollution,heat,multiple-input-thermal-fishing-bob,replication:689,upgrade:thermal-fishing-bob
+
 ---
 
 # Multiple Thermistor Fishing Bob Field Test
+
+by [kgrevera](../profile/kgrevera) July 07, 2015 20:05
+
+July 07, 2015 20:05 | Tags: [thermal-photography](../tag/thermal-photography), [cape-cod](../tag/cape-cod), [water-quality](../tag/water-quality), [thermal-fishing-bob](../tag/thermal-fishing-bob), [thermal](../tag/thermal), [thermal-pollution](../tag/thermal-pollution), [heat](../tag/heat), [multiple-input-thermal-fishing-bob](../tag/multiple-input-thermal-fishing-bob), [replication:689](../tag/replication:689), [upgrade:thermal-fishing-bob](../tag/upgrade:thermal-fishing-bob)
 
 ##Multiple Thermistor Fishing Bob Field Test
 

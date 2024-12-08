@@ -1,6 +1,6 @@
 # parent-spectrometry
 
-8 notes and wiki pages
+8 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Spectrometer](/wiki/spectrometer) (wiki)
 - [Oil Testing Kit](/wiki/oil-testing-kit) (wiki)

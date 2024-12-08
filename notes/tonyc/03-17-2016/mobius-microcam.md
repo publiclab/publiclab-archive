@@ -1,12 +1,18 @@
 ---
-nid: 12856
 title: Mobius MicroCam
-path: public/static/notes/tonyc/03-17-2016/mobius-microcam.md
+tagnames: mobius, microscope, microscopes
+author: tonyc
+path: /notes/tonyc/03-17-2016/mobius-microcam.md
+nid: 12856
 uid: 447491
-tagnames: mobius,microscope,microscopes
+
 ---
 
 # Mobius MicroCam
+
+by [tonyc](../profile/tonyc) March 17, 2016 19:55
+
+March 17, 2016 19:55 | Tags: [mobius](../tag/mobius), [microscope](../tag/microscope), [microscopes](../tag/microscopes)
 
 ###What I want to do
 turn my mobius actioncam into a microscope

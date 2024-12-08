@@ -1,12 +1,18 @@
 ---
-nid: 11511
 title: pole-mapping-guide
-path: public/static/wiki/pole-mapping-guide.md
+tagnames: workshop, polemapping, pole-mapping, parent:gardening-toolkit, gardening-toolkit
+author: liz
+path: /wiki/pole-mapping-guide.md
+nid: 11511
 uid: 7
-tagnames: workshop,polemapping,pole-mapping,parent:gardening-toolkit,gardening-toolkit
+
 ---
 
 # pole-mapping-guide
+
+by [liz](../profile/liz), [natalie](../profile/natalie)
+
+January 07, 2015 21:34 | Tags: [workshop](../tag/workshop), [polemapping](../tag/polemapping), [pole-mapping](../tag/pole-mapping), [parent:gardening-toolkit](../tag/parent:gardening-toolkit), [gardening-toolkit](../tag/gardening-toolkit)
 
 This is one of a series of guides for collaborative environmental research and advocacy projects. Pole Mapping is an easy way to get a view of your garden from above. This guide will cover how to make or purchase your own pole and affix a camera to it. 
 

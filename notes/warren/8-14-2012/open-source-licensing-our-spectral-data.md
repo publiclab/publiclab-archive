@@ -1,12 +1,18 @@
 ---
-nid: 3288
 title: Open source licensing of our spectral data
-path: public/static/notes/warren/8-14-2012/open-source-licensing-our-spectral-data.md
+tagnames: spectrometer, licensing
+author: warren
+path: /notes/warren/8-14-2012/open-source-licensing-our-spectral-data.md
+nid: 3288
 uid: 1
-tagnames: spectrometer,licensing
+
 ---
 
 # Open source licensing of our spectral data
+
+by [warren](../profile/warren) August 14, 2012 20:59
+
+August 14, 2012 20:59 | Tags: [spectrometer](../tag/spectrometer), [licensing](../tag/licensing)
 
 About a year ago when we started the SpectralWorkbench.org website, this seemed like an academic question, but as our database of shared spectral data grows, I think it's time to ask what people think about how we license that data.
 

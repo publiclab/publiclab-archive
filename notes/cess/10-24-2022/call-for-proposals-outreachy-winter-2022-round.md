@@ -1,12 +1,18 @@
 ---
-nid: 35976
 title: Call for proposals: Outreachy Winter 2022 round
-path: public/static/notes/cess/10-24-2022/call-for-proposals-outreachy-winter-2022-round.md
+tagnames: with:warren, outreachy, call-for-proposals, zoom:6, outreachy-2022, with:mathildaudufo, lat:-1.010689, lon:35.99121
+author: cess
+path: /notes/cess/10-24-2022/call-for-proposals-outreachy-winter-2022-round.md
+nid: 35976
 uid: 525958
-tagnames: with:warren,outreachy,call-for-proposals,zoom:6,outreachy-2022,with:mathildaudufo,lat:-1.010689,lon:35.99121
+
 ---
 
 # Call for proposals: Outreachy Winter 2022 round
+
+by [cess](../profile/cess) October 24, 2022 12:33
+
+October 24, 2022 12:33 | Tags: [with:warren](../tag/with:warren), [outreachy](../tag/outreachy), [call-for-proposals](../tag/call-for-proposals), [zoom:6](../tag/zoom:6), [outreachy-2022](../tag/outreachy-2022), [with:mathildaudufo](../tag/with:mathildaudufo), [lat:-1.010689](../tag/lat:-1.010689), [lon:35.99121](../tag/lon:35.99121)
 
 ### Outreachy Winter 2022[]()
 We are participating in the Outreachy winter 2022 round.

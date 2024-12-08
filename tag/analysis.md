@@ -1,6 +1,6 @@
 # analysis
 
-13 notes and wiki pages
+13 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Analytics on aerial images -- using filesize](/notes/warren/6-20-2012/analytics-aerial-images-using-filesize) by [warren](../profile/warren)
 - [where can I get Qualitative spectrometer reading.](/notes/ernestbolds/2-2-2013/where-can-i-get-qualitative-spectrometer-reading) by [ernestbolds](../profile/ernestbolds)

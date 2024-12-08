@@ -1,6 +1,6 @@
 # parent-multispectral-imaging
 
-4 notes and wiki pages
+4 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Infragram](/wiki/infragram) (wiki)
 - [photo-monitoring-plugin](/wiki/photo-monitoring-plugin) (wiki)

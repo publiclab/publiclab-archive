@@ -1,12 +1,18 @@
 ---
-nid: 2893
 title: IR+VS TIMELAPSE
-path: public/static/notes/hunter/7-19-2012/irvs-timelapse.md
+tagnames: near-infrared-camera, time-lapse, timelapse, activity:timelapse
+author: hunter
+path: /notes/hunter/7-19-2012/irvs-timelapse.md
+nid: 2893
 uid: 317
-tagnames: near-infrared-camera,time-lapse,timelapse,activity:timelapse
+
 ---
 
 # IR+VS TIMELAPSE
+
+by [hunter](../profile/hunter) July 19, 2012 17:56
+
+July 19, 2012 17:56 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [time-lapse](../tag/time-lapse), [timelapse](../tag/timelapse), [activity:timelapse](../tag/activity:timelapse)
 
 I am working with two PlantCams to find ways into making a sequential (movie) method for NRG imaging.
 The cameras are rather quirky though, and are proving to be more a step in the right direction than anything else.

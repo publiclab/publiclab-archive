@@ -1,12 +1,18 @@
 ---
-nid: 11978
 title: Sweetwater Festival Mapping Workshop
-path: public/static/notes/ann/06-12-2015/sweetwater-festival-mapping-workshop.md
+tagnames: balloon-mapping, event, canada, event:rsvp, northwest, date:06-13-2015, replication:14022
+author: ann
+path: /notes/ann/06-12-2015/sweetwater-festival-mapping-workshop.md
+nid: 11978
 uid: 421543
-tagnames: balloon-mapping,event,canada,event:rsvp,northwest,date:06-13-2015,replication:14022
+
 ---
 
 # Sweetwater Festival Mapping Workshop
+
+by [ann](../profile/ann) June 12, 2015 23:40
+
+June 12, 2015 23:40 | Tags: [balloon-mapping](../tag/balloon-mapping), [event](../tag/event), [canada](../tag/canada), [event:rsvp](../tag/event:rsvp), [northwest](../tag/northwest), [date:06-13-2015](../tag/date:06-13-2015), [replication:14022](../tag/replication:14022)
 
 Public Lab will be leading a mapping workshop at the annual Sweetwater 905 Arts Festival in Rolla, BC. There will be music, poetry readings, visual and performance art, and kite/balloon mapping!
 

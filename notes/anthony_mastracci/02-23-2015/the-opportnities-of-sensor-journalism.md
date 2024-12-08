@@ -1,12 +1,18 @@
 ---
-nid: 11622
 title: The Opportnities Of Sensor Journalism
-path: public/static/notes/anthony_mastracci/02-23-2015/the-opportnities-of-sensor-journalism.md
-uid: 434173
 tagnames: sensor-journalism
+author: anthony_mastracci
+path: /notes/anthony_mastracci/02-23-2015/the-opportnities-of-sensor-journalism.md
+nid: 11622
+uid: 434173
+
 ---
 
 # The Opportnities Of Sensor Journalism
+
+by [anthony_mastracci](../profile/anthony_mastracci) February 23, 2015 17:48
+
+February 23, 2015 17:48 | Tags: [sensor-journalism](../tag/sensor-journalism)
 
 	The concept of sensor journalism offers revolutionary insights to fact finding and story telling. It's amazing that something like an elementary level science experiment and can produce usable data for professional writing and information consumption. 
 	For example, the simple bread board circuit that we got to build in class I'm fairly certain I had learned how to build in fifth grade. It was nothing more than than a technical game of battleship, placing small chips, wires, capacitors, buzzers, a battery, and a few other things into alignment to produce a tool that could measure conductivity in water. 

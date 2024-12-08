@@ -1,12 +1,18 @@
 ---
-nid: 10429
 title: EcoHack in four global locations
-path: public/static/notes/liz/05-06-2014/ecohack-in-four-global-locations.md
+tagnames: new-york-city, ecohack, san-francisco, spain, norcal, madrid, event, brasil, sao-paulo
+author: liz
+path: /notes/liz/05-06-2014/ecohack-in-four-global-locations.md
+nid: 10429
 uid: 7
-tagnames: new-york-city,ecohack,san-francisco,spain,norcal,madrid,event,brasil,sao-paulo
+
 ---
 
 # EcoHack in four global locations
+
+by [liz](../profile/liz) May 06, 2014 19:06
+
+May 06, 2014 19:06 | Tags: [new-york-city](../tag/new-york-city), [ecohack](../tag/ecohack), [san-francisco](../tag/san-francisco), [spain](../tag/spain), [norcal](../tag/norcal), [madrid](../tag/madrid), [event](../tag/event), [brasil](../tag/brasil), [sao-paulo](../tag/sao-paulo)
 
 **May 9-10, 2014**
 

@@ -1,12 +1,18 @@
 ---
-nid: 16152
 title: Delhi Open source meetup at NSIT
-path: public/static/notes/tech4gt/04-14-2018/delhi-open-source-meetup-at-nsit.md
+tagnames: event, india, barnstar:basic, software-outreach, coding-events, new-delhi, with:gabru-md
+author: tech4gt
+path: /notes/tech4gt/04-14-2018/delhi-open-source-meetup-at-nsit.md
+nid: 16152
 uid: 523178
-tagnames: event,india,barnstar:basic,software-outreach,coding-events,new-delhi,with:gabru-md
+
 ---
 
 # Delhi Open source meetup at NSIT
+
+by [tech4gt](../profile/tech4gt) April 14, 2018 05:21
+
+April 14, 2018 05:21 | Tags: [event](../tag/event), [india](../tag/india), [barnstar:basic](../tag/barnstar:basic), [software-outreach](../tag/software-outreach), [coding-events](../tag/coding-events), [new-delhi](../tag/new-delhi), [with:gabru-md](../tag/with:gabru-md)
 
 I planned and hosted a small Open source meetup at my college Netaji Subhash Institute if Technology in New Delhi India. It was a meetup for the students of my college only and we had about 50-60 attendees. Objective of the meetup was to share our work on Image Sequencer, which was thoroughly enjoyed. People loved how Image Processing is being done in js rather than python.
 

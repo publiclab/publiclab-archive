@@ -1,12 +1,18 @@
 ---
-nid: 23622
 title: Masters research project 'Speculative Future on Mars: Online Co-design Workshop on saturdays'
-path: public/static/notes/miles70/05-13-2020/masters-research-project-speculative-future-on-mars-online-co-design-workshop-on-saturdays.md
+tagnames: science, design, first-time-poster, planet, joinproject, jointeam, mars, codesign, speculativefutures, possibles, masterstudent, marsexploration, speculative
+author: miles70
+path: /notes/miles70/05-13-2020/masters-research-project-speculative-future-on-mars-online-co-design-workshop-on-saturdays.md
+nid: 23622
 uid: 693225
-tagnames: science,design,first-time-poster,planet,joinproject,jointeam,mars,codesign,speculativefutures,possibles,masterstudent,marsexploration,speculative
+
 ---
 
 # Masters research project 'Speculative Future on Mars: Online Co-design Workshop on saturdays'
+
+by [miles70](../profile/miles70) May 13, 2020 23:02
+
+May 13, 2020 23:02 | Tags: [science](../tag/science), [design](../tag/design), [first-time-poster](../tag/first-time-poster), [planet](../tag/planet), [joinproject](../tag/joinproject), [jointeam](../tag/jointeam), [mars](../tag/mars), [codesign](../tag/codesign), [speculativefutures](../tag/speculativefutures), [possibles](../tag/possibles), [masterstudent](../tag/masterstudent), [marsexploration](../tag/marsexploration), [speculative](../tag/speculative)
 
 Hello travellers,  
   

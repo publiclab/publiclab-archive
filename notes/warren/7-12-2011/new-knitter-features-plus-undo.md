@@ -1,12 +1,18 @@
 ---
-nid: 379
 title: New Knitter features - plus UNDO
-path: public/static/notes/warren/7-12-2011/new-knitter-features-plus-undo.md
-uid: 1
 tagnames: 
+author: warren
+path: /notes/warren/7-12-2011/new-knitter-features-plus-undo.md
+nid: 379
+uid: 1
+
 ---
 
 # New Knitter features - plus UNDO
+
+by [warren](../profile/warren) July 12, 2011 10:22
+
+July 12, 2011 10:22 | Tags: 
 
 With inspiration from some of my colleagues in Jerusalem, I've been chipping away at some small but important new changes to the Knitter map stitching tool (<a href="http://cartagen.org/maps/">http://cartagen.org/maps/</a>)
 

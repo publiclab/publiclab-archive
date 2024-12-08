@@ -1,12 +1,18 @@
 ---
-nid: 17437
 title: Hacking the Hudson River
-path: public/static/notes/iragersh/10-31-2018/hacking-the-hudson-river.md
+tagnames: new-york-city, urban, brooklyn, new-york, urban-design, water-quality, habitat, oysters, swimming, rivers, first-time-poster, smallfishbigdeal, hacking, mussels, hudson-river, waterfront, waterfront-access
+author: iragersh
+path: /notes/iragersh/10-31-2018/hacking-the-hudson-river.md
+nid: 17437
 uid: 557258
-tagnames: new-york-city,urban,brooklyn,new-york,urban-design,water-quality,habitat,oysters,swimming,rivers,first-time-poster,smallfishbigdeal,hacking,mussels,hudson-river,waterfront,waterfront-access
+
 ---
 
 # Hacking the Hudson River
+
+by [iragersh](../profile/iragersh) October 31, 2018 01:33
+
+October 31, 2018 01:33 | Tags: [new-york-city](../tag/new-york-city), [urban](../tag/urban), [brooklyn](../tag/brooklyn), [new-york](../tag/new-york), [urban-design](../tag/urban-design), [water-quality](../tag/water-quality), [habitat](../tag/habitat), [oysters](../tag/oysters), [swimming](../tag/swimming), [rivers](../tag/rivers), [first-time-poster](../tag/first-time-poster), [smallfishbigdeal](../tag/smallfishbigdeal), [hacking](../tag/hacking), [mussels](../tag/mussels), [hudson-river](../tag/hudson-river), [waterfront](../tag/waterfront), [waterfront-access](../tag/waterfront-access)
 
 This is a Facebook group and email list I created   
 

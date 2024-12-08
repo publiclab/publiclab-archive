@@ -1,12 +1,18 @@
 ---
-nid: 30447
 title: Outreachy proposal: Design a new full-screen user interface for Infragram.org
-path: public/static/notes/Thekachi/04-17-2022/outreachy-proposal-design-a-new-full-screen-user-interface-for-infragram-org.md
+tagnames: software, proposal, lat:0, lon:0, outreachy, first-time-poster, zoom:3, outreachy-2022, outreachy-summer-2022
+author: Thekachi
+path: /notes/Thekachi/04-17-2022/outreachy-proposal-design-a-new-full-screen-user-interface-for-infragram-org.md
+nid: 30447
 uid: 792901
-tagnames: software,proposal,lat:0,lon:0,outreachy,first-time-poster,zoom:3,outreachy-2022,outreachy-summer-2022
+
 ---
 
 # Outreachy proposal: Design a new full-screen user interface for Infragram.org
+
+by [Thekachi](../profile/Thekachi) April 17, 2022 11:21
+
+April 17, 2022 11:21 | Tags: [software](../tag/software), [proposal](../tag/proposal), [lat:0](../tag/lat:0), [lon:0](../tag/lon:0), [outreachy](../tag/outreachy), [first-time-poster](../tag/first-time-poster), [zoom:3](../tag/zoom:3), [outreachy-2022](../tag/outreachy-2022), [outreachy-summer-2022](../tag/outreachy-summer-2022)
 
 ---------
 

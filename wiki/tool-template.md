@@ -1,12 +1,18 @@
 ---
-nid: 655
 title: Tool template
-path: public/static/wiki/tool-template.md
-uid: 1
 tagnames: 
+author: warren
+path: /wiki/tool-template.md
+nid: 655
+uid: 1
+
 ---
 
 # Tool template
+
+by [warren](../profile/warren)
+
+December 22, 2011 18:24 | Tags: 
 
 _This lays out a draft template for what [Tool pages](/tools) should look like_
 

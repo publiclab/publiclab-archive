@@ -1,12 +1,18 @@
 ---
-nid: 10441
 title: Outside light
-path: public/static/notes/Wildness/05-07-2014/outside-light.md
-uid: 423273
 tagnames: 
+author: Wildness
+path: /notes/Wildness/05-07-2014/outside-light.md
+nid: 10441
+uid: 423273
+
 ---
 
 # Outside light
+
+by [Wildness](../profile/Wildness) May 07, 2014 17:20
+
+May 07, 2014 17:20 | Tags: 
 
 ###What I want to do
 

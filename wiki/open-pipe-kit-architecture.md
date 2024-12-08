@@ -1,12 +1,18 @@
 ---
-nid: 11379
 title: Open Pipe Kit architecture
-path: public/static/wiki/open-pipe-kit-architecture.md
-uid: 174
 tagnames: 
+author: rjstatic
+path: /wiki/open-pipe-kit-architecture.md
+nid: 11379
+uid: 174
+
 ---
 
 # Open Pipe Kit architecture
+
+by [rjstatic](../profile/rjstatic)
+
+November 21, 2014 16:54 | Tags: 
 
 ** This is a work in progress, feel free to discuss! **
 

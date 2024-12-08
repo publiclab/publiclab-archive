@@ -1,12 +1,18 @@
 ---
-nid: 38732
 title: Soil Contamination in St. John the Baptist Parish
-path: public/static/notes/bhamster/03-02-2023/soil-contamination-in-st-john-the-baptist-parish.md
+tagnames: csf, community-science-forum, soil-contamination, student-community-science, classroom-community-science, csf18
+author: bhamster
+path: /notes/bhamster/03-02-2023/soil-contamination-in-st-john-the-baptist-parish.md
+nid: 38732
 uid: 664477
-tagnames: csf,community-science-forum,soil-contamination,student-community-science,classroom-community-science,csf18
+
 ---
 
 # Soil Contamination in St. John the Baptist Parish
+
+by [bhamster](../profile/bhamster) March 02, 2023 22:08
+
+March 02, 2023 22:08 | Tags: [csf](../tag/csf), [community-science-forum](../tag/community-science-forum), [soil-contamination](../tag/soil-contamination), [student-community-science](../tag/student-community-science), [classroom-community-science](../tag/classroom-community-science), [csf18](../tag/csf18)
 
 **A version of this story by high school student Jahavon is published in Public Lab's _Community Science Forum_, Issue 18. Read more from this issue <a href="https://publiclab.org/forum#Issue+18+Student-Led+Community+Science+Projects+(Summer+2021)">here</a>.**
 

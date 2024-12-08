@@ -1,12 +1,18 @@
 ---
-nid: 37
 title: Lima
-path: public/static/wiki/lima.md
+tagnames: chapter, list:laboratoriopublico
+author: warren
+path: /wiki/lima.md
+nid: 37
 uid: 1
-tagnames: chapter,list:laboratoriopublico
+
 ---
 
 # Lima
+
+by [liz](../profile/liz), [warren](../profile/warren)
+
+January 07, 2011 04:09 | Tags: [chapter](../tag/chapter), [list:laboratoriopublico](../tag/list:laboratoriopublico)
 
 Lima is home to a variety of initiatives and groups which share goals with Public Laboratory, and was the birthplace of the <a href="http://grassrootsmapping.org">Grassroots Mapping</a> project, which inspired Public Laboratory.
 

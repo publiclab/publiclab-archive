@@ -1,12 +1,18 @@
 ---
-nid: 749
 title: Palantier: impressive image stitching for UAVs and kites
-path: public/static/notes/warren/2-5-2012/palantier-impressive-image-stitching-uavs-and-kites.md
+tagnames: kite-mapping, 3d, uav, kite, stitching, palentier
+author: warren
+path: /notes/warren/2-5-2012/palantier-impressive-image-stitching-uavs-and-kites.md
+nid: 749
 uid: 1
-tagnames: kite-mapping,3d,uav,kite,stitching,palentier
+
 ---
 
 # Palantier: impressive image stitching for UAVs and kites
+
+by [warren](../profile/warren) February 05, 2012 17:11
+
+February 05, 2012 17:11 | Tags: [kite-mapping](../tag/kite-mapping), [3d](../tag/3d), [uav](../tag/uav), [kite](../tag/kite), [stitching](../tag/stitching), [palentier](../tag/palentier)
 
 <br style="clear:left;" />
 

@@ -1,5 +1,5 @@
 # response-6197
 
-1 notes and wiki pages
+1 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Better smoothing and equalizing graph height for comparison of oil spectra](/notes/warren/09-23-2014/better-smoothing-and-equalizing-graph-height-for-comparison-of-oil-spectra) by [warren](../profile/warren)

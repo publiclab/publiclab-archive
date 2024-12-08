@@ -1,12 +1,18 @@
 ---
-nid: 30066
 title: Monitoring the O'Bannon Creek
-path: public/static/notes/belkinsa/02-20-2022/monitoring-the-o-bannon-creek.md
+tagnames: water-quality, water, stream, mid-west, ohio, zoom:17, lat:39.267306, lon:-84.242402
+author: belkinsa
+path: /notes/belkinsa/02-20-2022/monitoring-the-o-bannon-creek.md
+nid: 30066
 uid: 504609
-tagnames: water-quality,water,stream,mid-west,ohio,zoom:17,lat:39.267306,lon:-84.242402
+
 ---
 
 # Monitoring the O'Bannon Creek
+
+by [belkinsa](../profile/belkinsa) February 20, 2022 17:05
+
+February 20, 2022 17:05 | Tags: [water-quality](../tag/water-quality), [water](../tag/water), [stream](../tag/stream), [mid-west](../tag/mid-west), [ohio](../tag/ohio), [zoom:17](../tag/zoom:17), [lat:39.267306](../tag/lat:39.267306), [lon:-84.242402](../tag/lon:-84.242402)
 
 **Image credit:** Self
 

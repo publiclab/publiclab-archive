@@ -1,12 +1,18 @@
 ---
-nid: 26778
 title: How to ... make your own community annotated map! 
-path: public/static/notes/julia_e_masters/06-09-2021/how-to-make-your-own-community-annotated-map.md
+tagnames: annotated-maps, community-mapping, mapping, organizing, new, step, activity:new, activity:mapping, wrap, research-curation-fellows, activity:organizing, annotated-mapping, advocacy-with-maps, activity:advocacy-with-maps
+author: julia_e_masters
+path: /notes/julia_e_masters/06-09-2021/how-to-make-your-own-community-annotated-map.md
+nid: 26778
 uid: 756220
-tagnames: annotated-maps,community-mapping,mapping,organizing,new,step,activity:new,activity:mapping,wrap,research-curation-fellows,activity:organizing,annotated-mapping,advocacy-with-maps,activity:advocacy-with-maps
+
 ---
 
 # How to ... make your own community annotated map! 
+
+by [julia_e_masters](../profile/julia_e_masters) June 09, 2021 21:01
+
+June 09, 2021 21:01 | Tags: [annotated-maps](../tag/annotated-maps), [community-mapping](../tag/community-mapping), [mapping](../tag/mapping), [organizing](../tag/organizing), [new](../tag/new), [step](../tag/step), [activity:new](../tag/activity:new), [activity:mapping](../tag/activity:mapping), [wrap](../tag/wrap), [research-curation-fellows](../tag/research-curation-fellows), [activity:organizing](../tag/activity:organizing), [annotated-mapping](../tag/annotated-mapping), [advocacy-with-maps](../tag/advocacy-with-maps), [activity:advocacy-with-maps](../tag/activity:advocacy-with-maps)
 
 Creating an annotated map of your community can be an accessible way to connect deeper to your surroundings, and help to understand your neighborhood, region, or network. Annotations are drawings, arrows, or words placed on the map that highlight or further explain what the map shows. By working locally, this can also be used to advance local advocacy goals, collect data on particular metrics, and more.
 

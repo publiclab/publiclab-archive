@@ -1,12 +1,18 @@
 ---
-nid: 16984
 title: Check up on Bayou Bienvenue 22 August 2018
-path: public/static/notes/eustatic/08-23-2018/check-up-on-bayou-bienvenue-22-august-2018.md
+tagnames: gulf-coast, balloon-mapping, wetlands, louisiana, wetland, bienvenue, water-quality, invasive, neworleans, willow, urbanwater, hyacinth, duckweed, mullet, osprey, egret, louisianaheron, blueheron, milfoil
+author: eustatic
+path: /08-23-2018/check-up-on-bayou-bienvenue-22-august-2018.md
+nid: 16984
 uid: 379
-tagnames: gulf-coast,balloon-mapping,wetlands,louisiana,wetland,bienvenue,water-quality,invasive,neworleans,willow,urbanwater,hyacinth,duckweed,mullet,osprey,egret,louisianaheron,blueheron,milfoil
+
 ---
 
 # Check up on Bayou Bienvenue 22 August 2018
+
+by [eustatic](../profile/eustatic) August 23, 2018 03:27
+
+August 23, 2018 03:27 | Tags: [gulf-coast](../tag/gulf-coast), [balloon-mapping](../tag/balloon-mapping), [wetlands](../tag/wetlands), [louisiana](../tag/louisiana), [wetland](../tag/wetland), [bienvenue](../tag/bienvenue), [water-quality](../tag/water-quality), [invasive](../tag/invasive), [neworleans](../tag/neworleans), [willow](../tag/willow), [urbanwater](../tag/urbanwater), [hyacinth](../tag/hyacinth), [duckweed](../tag/duckweed), [mullet](../tag/mullet), [osprey](../tag/osprey), [egret](../tag/egret), [louisianaheron](../tag/louisianaheron), [blueheron](../tag/blueheron), [milfoil](../tag/milfoil)
 
 We flew an old school Canon and balloon rig, like in the glory days of 2010, in the still heat of Bayou Bienvenue. except we also flew a Canmore locator to get lat long data. It was hot. I got stung by wasps. no limbs were lost to the mama gator on the far side. Hundreds of mullet were jumping in the six inch to two foot water depth. Liz had never seen a fish jump, which blew my mind. Happy, Roland, Joe, Stevie, Scott, Liz.
 

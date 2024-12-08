@@ -1,11 +1,17 @@
 ---
-nid: 515
 title: First
-path: public/static/wiki/first.md
-uid: 322
 tagnames: 
+author: joelee
+path: /wiki/first.md
+nid: 515
+uid: 322
+
 ---
 
 # First
+
+by [joelee](../profile/joelee)
+
+October 21, 2011 08:57 | Tags: 
 
 Hello!!!

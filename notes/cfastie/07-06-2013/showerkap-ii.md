@@ -1,12 +1,18 @@
 ---
-nid: 8727
 title: ShowerKAP II
-path: public/static/notes/cfastie/07-06-2013/showerkap-ii.md
+tagnames: near-infrared-camera, kite-mapping, infrared, alaska, tundra, infragram, akrange
+author: cfastie
+path: /notes/cfastie/07-06-2013/showerkap-ii.md
+nid: 8727
 uid: 554
-tagnames: near-infrared-camera,kite-mapping,infrared,alaska,tundra,infragram,akrange
+
 ---
 
 # ShowerKAP II
+
+by [cfastie](../profile/cfastie) July 06, 2013 23:11
+
+July 06, 2013 23:11 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [infrared](../tag/infrared), [alaska](../tag/alaska), [tundra](../tag/tundra), [infragram](../tag/infragram), [akrange](../tag/akrange)
 
 <em>Image above: My minimal KAP rig with ShowerKAP in action. This was during the landing after a 70 minute mapping flight including about 15 minutes of fairly hard rain.  The Canon S95 camera was dry and happy. This is a false color infrared image (NBG) from an infrablue camera (the only camera I had handy).</em>
 

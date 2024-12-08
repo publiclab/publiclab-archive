@@ -1,12 +1,18 @@
 ---
-nid: 20997
 title: what are the best light sensors?
-path: public/static/notes/omarion/09-26-2019/what-are-the-best-light-sensors.md
+tagnames: sensing, question:spectrometry, sensor, question:general, question:sensor, wateristic, question:wateristic, wateristics, question:led, question:light, with:amallozzi
+author: omarion
+path: /notes/omarion/09-26-2019/what-are-the-best-light-sensors.md
+nid: 20997
 uid: 622967
-tagnames: sensing,question:spectrometry,sensor,question:general,question:sensor,wateristic,question:wateristic,wateristics,question:led,question:light,with:amallozzi
+
 ---
 
 # what are the best light sensors?
+
+by [omarion](../profile/omarion) September 26, 2019 17:33
+
+September 26, 2019 17:33 | Tags: [sensing](../tag/sensing), [question:spectrometry](../tag/question:spectrometry), [sensor](../tag/sensor), [question:general](../tag/question:general), [question:sensor](../tag/question:sensor), [wateristic](../tag/wateristic), [question:wateristic](../tag/question:wateristic), [wateristics](../tag/wateristics), [question:led](../tag/question:led), [question:light](../tag/question:light), [with:amallozzi](../tag/with:amallozzi)
 
 We are looking into pieces for #wateristics and exploring sensors.
 

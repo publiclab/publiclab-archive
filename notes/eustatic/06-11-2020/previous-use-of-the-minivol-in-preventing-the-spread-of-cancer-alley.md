@@ -1,12 +1,18 @@
 ---
-nid: 23821
 title: Previous use of the MiniVol in preventing the spread of Cancer Alley
-path: public/static/notes/eustatic/06-11-2020/previous-use-of-the-minivol-in-preventing-the-spread-of-cancer-alley.md
+tagnames: air-quality, barnstar:watchdog, minivol, zoom:16, bucket-monitor, lat:29.622825, lon:-89.922173
+author: eustatic
+path: /06-11-2020/previous-use-of-the-minivol-in-preventing-the-spread-of-cancer-alley.md
+nid: 23821
 uid: 379
-tagnames: air-quality,barnstar:watchdog,minivol,zoom:16,bucket-monitor,lat:29.622825,lon:-89.922173
+
 ---
 
 # Previous use of the MiniVol in preventing the spread of Cancer Alley
+
+by [eustatic](../profile/eustatic) June 11, 2020 23:08
+
+June 11, 2020 23:08 | Tags: [air-quality](../tag/air-quality), [barnstar:watchdog](../tag/barnstar:watchdog), [minivol](../tag/minivol), [zoom:16](../tag/zoom:16), [bucket-monitor](../tag/bucket-monitor), [lat:29.622825](../tag/lat:29.622825), [lon:-89.922173](../tag/lon:-89.922173)
 
 Working with Global Community Monitor, HealthyGulf (nee GRN), Louisiana Environmental Action Network, and Sierra Club enabled residents to prove that their complaints about air quality in Plaquemines Parish had merit. This work was part of the Clean Gulf Commerce Coalition with Public Citizen in Texas.
 

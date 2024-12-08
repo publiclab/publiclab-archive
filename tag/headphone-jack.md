@@ -1,6 +1,6 @@
 # headphone-jack
 
-4 notes and wiki pages
+4 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [WebJack: Testers needed!](/notes/rmeister/07-18-2016/webjack-testers-needed) by [rmeister](../profile/rmeister)
 - [WebJack: Test without Arduino](/notes/rmeister/07-18-2016/webjack-test-without-arduino) by [rmeister](../profile/rmeister)

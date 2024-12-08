@@ -1,12 +1,18 @@
 ---
-nid: 12750
 title: Requesting responses
-path: public/static/wiki/requesting-responses.md
+tagnames: website, education, list:plots-education, parent:education
+author: warren
+path: /wiki/requesting-responses.md
+nid: 12750
 uid: 1
-tagnames: website,education,list:plots-education,parent:education
+
 ---
 
 # Requesting responses
+
+by [warren](../profile/warren)
+
+February 24, 2016 20:16 | Tags: [website](../tag/website), [education](../tag/education), [list:plots-education](../tag/list:plots-education), [parent:education](../tag/parent:education)
 
 The Responses feature of PublicLab.org now has a means to post a note requesting responses, which will only be shown on that page, instead of on the main user dashboard. 
 

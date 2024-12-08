@@ -1,12 +1,18 @@
 ---
-nid: 15813
 title: SoC proposal: Pollution analysis on google maps
-path: public/static/notes/sid2111995/02-25-2018/soc-proposal-pollution-analysis-on-google-maps.md
+tagnames: software, gsoc, soc, response:13975, gsoc-2018, soc-2018, soc-2018-proposals, first-time-poster
+author: sid2111995
+path: /notes/sid2111995/02-25-2018/soc-proposal-pollution-analysis-on-google-maps.md
+nid: 15813
 uid: 526051
-tagnames: software,gsoc,soc,response:13975,gsoc-2018,soc-2018,soc-2018-proposals,first-time-poster
+
 ---
 
 # SoC proposal: Pollution analysis on google maps
+
+by [sid2111995](../profile/sid2111995) February 25, 2018 10:04
+
+February 25, 2018 10:04 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [soc](../tag/soc), [response:13975](../tag/response:13975), [gsoc-2018](../tag/gsoc-2018), [soc-2018](../tag/soc-2018), [soc-2018-proposals](../tag/soc-2018-proposals), [first-time-poster](../tag/first-time-poster)
 
 (This template is for students applying to summer code programs with Public Lab. Use this link to start writing a post: [https://publiclab.org/post?n=899&tags=soc,soc-2018,soc-2018-proposals](https://publiclab.org/post?n=899&tags=soc,soc-2018,soc-2018-proposals) You can delete this line once you've started filling it out.)
 

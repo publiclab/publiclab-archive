@@ -1,12 +1,18 @@
 ---
-nid: 13339
 title: Regional Barnraising 2016: A Few Thoughts About Public Lab's Work
-path: public/static/notes/sarasage/08-08-2016/regional-barnraising-2016-a-few-thoughts-about-public-lab-s-work.md
+tagnames: landfill, barnraising, blog, val-verde, socalwastestream, first-time-poster
+author: sarasage
+path: /notes/sarasage/08-08-2016/regional-barnraising-2016-a-few-thoughts-about-public-lab-s-work.md
+nid: 13339
 uid: 451398
-tagnames: landfill,barnraising,blog,val-verde,socalwastestream,first-time-poster
+
 ---
 
 # Regional Barnraising 2016: A Few Thoughts About Public Lab's Work
+
+by [sarasage](../profile/sarasage) August 08, 2016 18:26
+
+August 08, 2016 18:26 | Tags: [landfill](../tag/landfill), [barnraising](../tag/barnraising), [blog](../tag/blog), [val-verde](../tag/val-verde), [socalwastestream](../tag/socalwastestream), [first-time-poster](../tag/first-time-poster)
 
 ## Greetings From Val Verde:
 

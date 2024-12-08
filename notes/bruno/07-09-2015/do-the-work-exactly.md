@@ -1,12 +1,18 @@
 ---
-nid: 12043
 title: do the work exactly
-path: public/static/notes/bruno/07-09-2015/do-the-work-exactly.md
+tagnames: ndvi, white-balance, question:ndvi
+author: bruno
+path: /notes/bruno/07-09-2015/do-the-work-exactly.md
+nid: 12043
 uid: 445183
-tagnames: ndvi,white-balance,question:ndvi
+
 ---
 
 # do the work exactly
+
+by [bruno](../profile/bruno) July 09, 2015 15:56
+
+July 09, 2015 15:56 | Tags: [ndvi](../tag/ndvi), [white-balance](../tag/white-balance), [question:ndvi](../tag/question:ndvi)
 
 good morning public lab and co workers. 
 this is my first post and would be graceful, so many thanks for your efforts.

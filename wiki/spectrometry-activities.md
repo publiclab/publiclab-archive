@@ -1,12 +1,18 @@
 ---
-nid: 4239
 title: Spectrometry activities
-path: public/static/wiki/spectrometry-activities.md
+tagnames: education, spectrometry, curriculum, classroom
+author: warren
+path: /wiki/spectrometry-activities.md
+nid: 4239
 uid: 1
-tagnames: education,spectrometry,curriculum,classroom
+
 ---
 
 # Spectrometry activities
+
+by [warren](../profile/warren), [cfastie](../profile/cfastie), [liz](../profile/liz)
+
+October 06, 2012 15:25 | Tags: [education](../tag/education), [spectrometry](../tag/spectrometry), [curriculum](../tag/curriculum), [classroom](../tag/classroom)
 
 <div class="alert">This page is still under active development and may be incomplete; please help to bring it to completion!</div>
 

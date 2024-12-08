@@ -1,12 +1,18 @@
 ---
-nid: 21587
 title: How can I process the images taken from modified camera?
-path: public/static/notes/ThomasTaufan/11-26-2019/how-can-i-process-the-images-taken-from-modified-camera.md
+tagnames: ndvi, infrared, webcam, imagery, aerial, question:general, general, first-time-poster
+author: ThomasTaufan
+path: /notes/ThomasTaufan/11-26-2019/how-can-i-process-the-images-taken-from-modified-camera.md
+nid: 21587
 uid: 640373
-tagnames: ndvi,infrared,webcam,imagery,aerial,question:general,general,first-time-poster
+
 ---
 
 # How can I process the images taken from modified camera?
+
+by [ThomasTaufan](../profile/ThomasTaufan) November 26, 2019 08:31
+
+November 26, 2019 08:31 | Tags: [ndvi](../tag/ndvi), [infrared](../tag/infrared), [webcam](../tag/webcam), [imagery](../tag/imagery), [aerial](../tag/aerial), [question:general](../tag/question:general), [general](../tag/general), [first-time-poster](../tag/first-time-poster)
 
 I have modified the webcam Logitech c920 by removing the IR Filter attached and applying the DIY Infragram red Filter. Here is the results taken :
 

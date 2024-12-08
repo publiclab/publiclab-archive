@@ -1,12 +1,18 @@
 ---
-nid: 27636
 title: Ida
-path: public/static/wiki/ida.md
+tagnames: hurricane, climate-change, disaster-response, ida, hurricane-ida
+author: stevie
+path: /wiki/ida.md
+nid: 27636
 uid: 422561
-tagnames: hurricane,climate-change,disaster-response,ida,hurricane-ida
+
 ---
 
 # Ida
+
+by [laurel_mire](../profile/laurel_mire), [stevie](../profile/stevie)
+
+August 30, 2021 18:56 | Tags: [hurricane](../tag/hurricane), [climate-change](../tag/climate-change), [disaster-response](../tag/disaster-response), [ida](../tag/ida), [hurricane-ida](../tag/hurricane-ida)
 
 This is a resources collecting page for Hurricane Ida response; we are **not** an emergency service provider, but non-emergency **questions, requests, inquiries, report-ins, offers of help or capacity are welcome**. We are also maintaining a list of [places to donate to](#donate).
 

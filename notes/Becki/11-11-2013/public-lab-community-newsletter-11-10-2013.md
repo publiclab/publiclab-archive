@@ -1,12 +1,18 @@
 ---
-nid: 9760
 title: Public Lab Community Newsletter 11.10.2013
-path: public/static/notes/Becki/11-11-2013/public-lab-community-newsletter-11-10-2013.md
+tagnames: newsletter, newsletter-archive
+author: Becki
+path: /notes/Becki/11-11-2013/public-lab-community-newsletter-11-10-2013.md
+nid: 9760
 uid: 46673
-tagnames: newsletter,newsletter-archive
+
 ---
 
 # Public Lab Community Newsletter 11.10.2013
+
+by [Becki](../profile/Becki) November 11, 2013 02:02
+
+November 11, 2013 02:02 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
 
 Public Lab Community Newsletter 11.10.2013
 

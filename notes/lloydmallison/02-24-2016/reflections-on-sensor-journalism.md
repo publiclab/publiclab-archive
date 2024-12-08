@@ -1,12 +1,18 @@
 ---
-nid: 12739
 title: Reflections on Sensor Journalism
-path: public/static/notes/lloydmallison/02-24-2016/reflections-on-sensor-journalism.md
+tagnames: sensor-journalism, response:12748, hidden:response
+author: lloydmallison
+path: /notes/lloydmallison/02-24-2016/reflections-on-sensor-journalism.md
+nid: 12739
 uid: 461505
-tagnames: sensor-journalism,response:12748,hidden:response
+
 ---
 
 # Reflections on Sensor Journalism
+
+by [lloydmallison](../profile/lloydmallison) February 24, 2016 15:55
+
+February 24, 2016 15:55 | Tags: [sensor-journalism](../tag/sensor-journalism), [response:12748](../tag/response:12748), [hidden:response](../tag/hidden:response)
 
 It’s pretty plain to see that as we evolve to a more data-driven world, journalists must not only become early adopters of telling stories from and through the medium in order to remain relevant, but embrace data as a possible way to drag the journalism industry back into a respectable light. 
 

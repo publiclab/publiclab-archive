@@ -1,6 +1,6 @@
 # new-hampshire
 
-22 notes and wiki pages
+22 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Prototyping a kite for kids](/notes/oscar-brett/7-26-2012/prototyping-kite-kids) by [oscarbrett](../profile/oscarbrett)
 - ["IT'S A MAP!" @ Beam Camp, NH](/notes/oscar-brett/8-1-2012/its-map-beam-camp-nh) by [oscarbrett](../profile/oscarbrett)

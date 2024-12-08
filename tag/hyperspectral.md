@@ -1,8 +1,7 @@
 # hyperspectral
 
-7 notes and wiki pages
+7 notes and wiki pages | [see all topics](/wiki/topics)
 
-- [Hyperspectral scan with Morflex](/notes/warren/1-11-2011/hyperspectral-scan-morflex) by [warren](../profile/warren)
 - [Hyperspectral scan of an apple at ~553 nanometers](/notes/warren/12-9-2011/hyperspectral-scan-apple-553-nanometers) by [warren](../profile/warren)
 - [Hypersperctral imaging using DIY kits](/notes/amirberAgain/02-13-2016/hypersperctral-imaging-using-diy-kits) by [amirberAgain](../profile/amirberAgain)
 - [Spectrometer from a drone](/notes/sylvainbonhommeau/07-13-2016/spectrometer-from-a-drone) by [sylvainbonhommeau](../profile/sylvainbonhommeau)

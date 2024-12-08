@@ -1,12 +1,18 @@
 ---
-nid: 12688
 title: Visual Monitoring of Particulate Matter
-path: public/static/wiki/visual-monitoring-of-particulate-matter.md
+tagnames: particulate, pm, parent:pm-monitoring, visual-monitoring
+author: mathew
+path: /wiki/visual-monitoring-of-particulate-matter.md
+nid: 12688
 uid: 4
-tagnames: particulate,pm,parent:pm-monitoring,visual-monitoring
+
 ---
 
 # Visual Monitoring of Particulate Matter
+
+by [stevie](../profile/stevie), [warren](../profile/warren), [gretchengehrke](../profile/gretchengehrke), [mathew](../profile/mathew)
+
+February 15, 2016 03:32 | Tags: [particulate](../tag/particulate), [pm](../tag/pm), [parent:pm-monitoring](../tag/parent:pm-monitoring), [visual-monitoring](../tag/visual-monitoring)
 
 _When particles are near or larger than the wavelength of the incident light, photons of all colors are scattered out of the beam path.   --Figure 2.7, An Introduction to Visibility, National Parks Service 1999, ISSN 0737-5352-40_
 

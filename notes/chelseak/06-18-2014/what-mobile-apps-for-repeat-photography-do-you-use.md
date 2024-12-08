@@ -1,12 +1,18 @@
 ---
-nid: 10588
 title: What Mobile Apps for Repeat Photography Do You Use?
-path: public/static/notes/chelseak/06-18-2014/what-mobile-apps-for-repeat-photography-do-you-use.md
-uid: 424605
 tagnames: 
+author: chelseak
+path: /notes/chelseak/06-18-2014/what-mobile-apps-for-repeat-photography-do-you-use.md
+nid: 10588
+uid: 424605
+
 ---
 
 # What Mobile Apps for Repeat Photography Do You Use?
+
+by [chelseak](../profile/chelseak) June 18, 2014 18:43
+
+June 18, 2014 18:43 | Tags: 
 
 ##Collecting Images of a Location
 I'm monitoring a stream restoration project and looking for a quick and easy way to collect images of the changes expected to develop over two years. 

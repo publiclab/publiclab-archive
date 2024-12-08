@@ -1,12 +1,18 @@
 ---
-nid: 7050
 title: May 4th Pier 42 Balloon Mapping!
-path: public/static/notes/veroacosta/04-25-2013/may-4th-pier-42-balloon-mapping.md
+tagnames: new-york-city, balloon-mapping, event, replication:14022
+author: veroacosta
+path: /notes/veroacosta/04-25-2013/may-4th-pier-42-balloon-mapping.md
+nid: 7050
 uid: 45662
-tagnames: new-york-city,balloon-mapping,event,replication:14022
+
 ---
 
 # May 4th Pier 42 Balloon Mapping!
+
+by [veroacosta](../profile/veroacosta) April 25, 2013 19:20
+
+April 25, 2013 19:20 | Tags: [new-york-city](../tag/new-york-city), [balloon-mapping](../tag/balloon-mapping), [event](../tag/event), [replication:14022](../tag/replication:14022)
 
 Hi everyone,
 

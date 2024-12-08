@@ -1,6 +1,6 @@
 # farm
 
-30 notes and wiki pages
+30 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Example NDVI usage in a vineyard](/notes/warren/1-7-2011/example-ndvi-usage-vineyard) by [warren](../profile/warren)
 - [Multispectral work at Sunol Ag Park](/notes/gonzoearth/12-9-2011/hyperspectral-work-sunol-ag-park) by [gonzoearth](../profile/gonzoearth)
@@ -27,8 +27,3 @@
 - [iFARM aerial panoramas](/notes/cfastie/05-22-2015/ifarm-aerial-panoramas) by [cfastie](../profile/cfastie)
 - [ccejn](/wiki/ccejn) (wiki)
 - [First EOS M aerials](/notes/cfastie/08-13-2016/first-eos-m-aerials) by [cfastie](../profile/cfastie)
-- [Swan Valley Christmas Trees](/notes/MarkPerger/11-23-2016/swan-valley-christmas-trees) by [MarkPerger](../profile/MarkPerger)
-- [Website for farm owners](/notes/weblium/08-30-2019/website-for-farm-owners) by [weblium](../profile/weblium)
-- [Petrol cultivator manufacturer in India](/notes/kisankraftltd/06-19-2020/petrol-cultivator-manufacturer-in-india) by [kisankraftltd](../profile/kisankraftltd)
-- [Cypionate Propionate Enanthate 🌡 Best Steroid Brands 2021](/notes/fjayfreemanm/04-25-2021/cypionate-propionate-enanthate-best-steroid-brands-2021) by [fjayfreemanm](../profile/fjayfreemanm)
-- [Test Tren Eq Winstrol Dark Web Market Links | Dr. Moore ](/notes/aakramovic/04-26-2021/test-tren-eq-winstrol-dark-web-market-links-dr-moore) by [aakramovic](../profile/aakramovic)

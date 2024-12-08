@@ -1,12 +1,18 @@
 ---
-nid: 16653
 title: New accessibility features for making aerial maps in MapKnitter
-path: public/static/notes/warren/07-06-2018/new-accessibility-features-for-making-aerial-maps-in-mapknitter.md
+tagnames: balloon-mapping, mapknitter, blog, leaflet, code, leaflet-distortable-image
+author: warren
+path: /notes/warren/07-06-2018/new-accessibility-features-for-making-aerial-maps-in-mapknitter.md
+nid: 16653
 uid: 1
-tagnames: balloon-mapping,mapknitter,blog,leaflet,code,leaflet-distortable-image
+
 ---
 
 # New accessibility features for making aerial maps in MapKnitter
+
+by [warren](../profile/warren) July 06, 2018 17:49
+
+July 06, 2018 17:49 | Tags: [balloon-mapping](../tag/balloon-mapping), [mapknitter](../tag/mapknitter), [blog](../tag/blog), [leaflet](../tag/leaflet), [code](../tag/code), [leaflet-distortable-image](../tag/leaflet-distortable-image)
 
 Map-making with your aerial photos is an important part of balloon or kite mapping. It's like making puzzles -- SOME people really love it and SOME people really don't!
 

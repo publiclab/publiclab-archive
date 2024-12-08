@@ -1,12 +1,18 @@
 ---
-nid: 3715
 title: Staff call notes 8 20 2012
-path: public/static/wiki/staff-call-notes-8-20-2012.md
-uid: 1
 tagnames: 
+author: warren
+path: /wiki/staff-call-notes-8-20-2012.md
+nid: 3715
+uid: 1
+
 ---
 
 # Staff call notes 8 20 2012
+
+by [warren](../profile/warren)
+
+September 10, 2012 17:37 | Tags: 
 
 ###Shannon###
 * vacay

@@ -1,12 +1,18 @@
 ---
-nid: 11098
 title: indonesia
-path: public/static/wiki/indonesia.md
+tagnames: kite-aerial-photography, dustduino, indonesia, jakarta
+author: willie
+path: /wiki/indonesia.md
+nid: 11098
 uid: 235174
-tagnames: kite-aerial-photography,dustduino,indonesia,jakarta
+
 ---
 
 # indonesia
+
+by [willie](../profile/willie)
+
+September 02, 2014 22:16 | Tags: [kite-aerial-photography](../tag/kite-aerial-photography), [dustduino](../tag/dustduino), [indonesia](../tag/indonesia), [jakarta](../tag/jakarta)
 
 ###DUSTDUINO
 

@@ -1,12 +1,18 @@
 ---
-nid: 15212
 title: Does the Beer Lambert law apply to the opacity of reagents?
-path: public/static/notes/warren/11-20-2017/does-the-beer-lambert-law-apply-to-the-opacity-of-reagents.md
+tagnames: beers-law, concentration, reagents, question:spectrometry, answered, beer-lambert-law, opacity, question:spectrometry-turbidity, question:reagents, question:beers-law, question:concentration, question:opacity, question:spectrometry-reagents
+author: warren
+path: /notes/warren/11-20-2017/does-the-beer-lambert-law-apply-to-the-opacity-of-reagents.md
+nid: 15212
 uid: 1
-tagnames: beers-law,concentration,reagents,question:spectrometry,answered,beer-lambert-law,opacity,question:spectrometry-turbidity,question:reagents,question:beers-law,question:concentration,question:opacity,question:spectrometry-reagents
+
 ---
 
 # Does the Beer Lambert law apply to the opacity of reagents?
+
+by [warren](../profile/warren) November 20, 2017 21:41
+
+November 20, 2017 21:41 | Tags: [beers-law](../tag/beers-law), [concentration](../tag/concentration), [reagents](../tag/reagents), [question:spectrometry](../tag/question:spectrometry), [answered](../tag/answered), [beer-lambert-law](../tag/beer-lambert-law), [opacity](../tag/opacity), [question:spectrometry-turbidity](../tag/question:spectrometry-turbidity), [question:reagents](../tag/question:reagents), [question:beers-law](../tag/question:beers-law), [question:concentration](../tag/question:concentration), [question:opacity](../tag/question:opacity), [question:spectrometry-reagents](../tag/question:spectrometry-reagents)
 
 I guess it depends on if the reagent color change is linearly related to the concentration of the target compound (say, nitrate).
 

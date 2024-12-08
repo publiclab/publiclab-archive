@@ -1,6 +1,6 @@
 # data-collection
 
-13 notes and wiki pages
+13 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Exhibitions](/wiki/exhibitions) (wiki)
 - [Infrablue minutiae](/notes/cfastie/07-17-2013/infrablue-minutiae) by [cfastie](../profile/cfastie)
@@ -13,5 +13,3 @@
 - [How to bootload a Riffle #Arduino #water #science #tech](/notes/Zengirl2/01-04-2018/how-to-bootload-a-riffle) by [zengirl2](../profile/zengirl2)
 - [Data Collection Resources](/notes/mimiss/06-14-2019/data-collection-resources) by [mimiss](../profile/mimiss)
 - [Why do individuals/organizations want to collect water quality data?](/notes/wmacfarl/09-18-2019/why-do-individuals-organizations-want-to-collect-water-quality-data) by [wmacfarl](../profile/wmacfarl)
-- [https://thehealthconnection.blog/category/health-fitness/](/notes/henreyjohn784/01-12-2021/https-thehealthconnection-blog-category-health-fitness) by [henreyjohn784](../profile/henreyjohn784)
-- [thehealthconnection.blog](/notes/henreyjohn784/01-12-2021/thehealthconnection-blog) by [henreyjohn784](../profile/henreyjohn784)

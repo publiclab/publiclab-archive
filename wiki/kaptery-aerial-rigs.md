@@ -1,12 +1,18 @@
 ---
-nid: 12188
 title: KAPtery Aerial Rigs
-path: public/static/wiki/kaptery-aerial-rigs.md
+tagnames: balloon-mapping, picavet, kite-aerial-photography, agriculture, kite, kap, mining, balloon, urban-planning, 3d-printing, fracking, tool, titan, kap-rigs, redstone, land-use, kaptery, saturnv, skyshield, pendulum, industry, aerobee, method, land-change, oil-and-gas
+author: cfastie
+path: /wiki/kaptery-aerial-rigs.md
+nid: 12188
 uid: 554
-tagnames: balloon-mapping,picavet,kite-aerial-photography,agriculture,kite,kap,mining,balloon,urban-planning,3d-printing,fracking,tool,titan,kap-rigs,redstone,land-use,kaptery,saturnv,skyshield,pendulum,industry,aerobee,method,land-change,oil-and-gas
+
 ---
 
 # KAPtery Aerial Rigs
+
+by [cfastie](../profile/cfastie)
+
+August 31, 2015 03:22 | Tags: [balloon-mapping](../tag/balloon-mapping), [picavet](../tag/picavet), [kite-aerial-photography](../tag/kite-aerial-photography), [agriculture](../tag/agriculture), [kite](../tag/kite), [kap](../tag/kap), [mining](../tag/mining), [balloon](../tag/balloon), [urban-planning](../tag/urban-planning), [3d-printing](../tag/3d-printing), [fracking](../tag/fracking), [tool](../tag/tool), [titan](../tag/titan), [kap-rigs](../tag/kap-rigs), [redstone](../tag/redstone), [land-use](../tag/land-use), [kaptery](../tag/kaptery), [saturnv](../tag/saturnv), [skyshield](../tag/skyshield), [pendulum](../tag/pendulum), [industry](../tag/industry), [aerobee](../tag/aerobee), [method](../tag/method), [land-change](../tag/land-change), [oil-and-gas](../tag/oil-and-gas)
 
 [Chris Fastie](http://publiclab.org/profile/cfastie) designs and builds camera rigs for kite, balloon, and pole aerial photography. The rigs include parts which are manufactured on a 3D printer and are available as kits which can be assembled in a few hours. All of the designs are open source and all the information needed to build your own rigs is freely available through the [KAPtery](http://kaptery.com/guides/). The most up to date model files for 3D printing rig parts are at [Thingiverse](http://www.thingiverse.com/tag:KAPtery). Kits to build these rigs are available for purchase at the [Public Lab Store](http://store.publiclab.org/collections/mapping/products/kaptery-aerial-rigs) and the [KAPtery](http://kaptery.com/).
 

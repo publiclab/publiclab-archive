@@ -1,6 +1,6 @@
 # oil-sampling-kit
 
-3 notes and wiki pages
+3 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Sampling extension for smartphone specs](/notes/warren/02-07-2014/sampling-extension-for-smartphone-specs) by [warren](../profile/warren)
 - [Mobile cuvette holder](/notes/cfastie/02-25-2014/mobile-cuvette-holder) by [cfastie](../profile/cfastie)

@@ -1,12 +1,18 @@
 ---
-nid: 11989
 title: Booster hardware improves the usable WheeStat voltage range.
-path: public/static/notes/JSummers/06-19-2015/booster-hardware-improves-the-usable-wheestat-voltage-range.md
-uid: 304279
 tagnames: wheestat
+author: JSummers
+path: /notes/JSummers/06-19-2015/booster-hardware-improves-the-usable-wheestat-voltage-range.md
+nid: 11989
+uid: 304279
+
 ---
 
 # Booster hardware improves the usable WheeStat voltage range.
+
+by [JSummers](../profile/JSummers) June 19, 2015 11:48
+
+June 19, 2015 11:48 | Tags: [wheestat](../tag/wheestat)
 
 ##The problem:
 The WheeStat hardware does not provide sufficient voltage to the Counter electrode (sometimes called the Auxiliary electrode) to push the working electrode to its intended limits (+/- 1.65 volts).  This can be seen in the ASV scans of Pb2+ containing solutions, below.  In this figure, the initial voltage is set in the GUI at -800 mV, but the data does not go negative of -700 mV.  Setting the initial voltage to a more negative value will not improve things.  For this experiment, -700 is as far negative as you are going to get.  

@@ -1,12 +1,18 @@
 ---
-nid: 25949
 title: Soil remediation
-path: public/static/wiki/soil-remediation.md
+tagnames: remediation, soil, plants, bioassay, bioremediation, method, phytoremediation, soil-contamination, mycoremediation, parent:soil, soil-remediation
+author: bhamster
+path: /wiki/soil-remediation.md
+nid: 25949
 uid: 664477
-tagnames: remediation,soil,plants,bioassay,bioremediation,method,phytoremediation,soil-contamination,mycoremediation,parent:soil,soil-remediation
+
 ---
 
 # Soil remediation
+
+by [laurel_mire](../profile/laurel_mire), [fongvania](../profile/fongvania), [alejobonifacio](../profile/alejobonifacio), [bhamster](../profile/bhamster)
+
+March 16, 2021 23:00 | Tags: [remediation](../tag/remediation), [soil](../tag/soil), [plants](../tag/plants), [bioassay](../tag/bioassay), [bioremediation](../tag/bioremediation), [method](../tag/method), [phytoremediation](../tag/phytoremediation), [soil-contamination](../tag/soil-contamination), [mycoremediation](../tag/mycoremediation), [parent:soil](../tag/parent:soil), [soil-remediation](../tag/soil-remediation)
 
 _Lead image: The New Hope Soil Remediation Project in Cleveland, OH. [ReImagining Cleveland - Image Archive](https://www.flickr.com/photos/124615603@N07/13986778647), [CC BY NC ND](https://creativecommons.org/licenses/by-nc-nd/2.0/)_
 

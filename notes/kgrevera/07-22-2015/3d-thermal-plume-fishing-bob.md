@@ -1,12 +1,18 @@
 ---
-nid: 12087
 title: 3D Thermal Plume Fishing Bob
-path: public/static/notes/kgrevera/07-22-2015/3d-thermal-plume-fishing-bob.md
+tagnames: thermal-photography, thermal-fishing-bob, 3d-thermal-plume, multiple-thermistor
+author: kgrevera
+path: /notes/kgrevera/07-22-2015/3d-thermal-plume-fishing-bob.md
+nid: 12087
 uid: 432001
-tagnames: thermal-photography,thermal-fishing-bob,3d-thermal-plume,multiple-thermistor
+
 ---
 
 # 3D Thermal Plume Fishing Bob
+
+by [kgrevera](../profile/kgrevera) July 22, 2015 00:00
+
+July 22, 2015 00:00 | Tags: [thermal-photography](../tag/thermal-photography), [thermal-fishing-bob](../tag/thermal-fishing-bob), [3d-thermal-plume](../tag/3d-thermal-plume), [multiple-thermistor](../tag/multiple-thermistor)
 
 ##3D Thermal Plume Fishing Bob
 

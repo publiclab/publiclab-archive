@@ -1,12 +1,18 @@
 ---
-nid: 3454
 title: Global helium shortage
-path: public/static/notes/cfastie/8-24-2012/global-helium-shortage.md
-uid: 554
 tagnames: balloon-mapping
+author: cfastie
+path: /notes/cfastie/8-24-2012/global-helium-shortage.md
+nid: 3454
+uid: 554
+
 ---
 
 # Global helium shortage
+
+by [cfastie](../profile/cfastie) August 25, 2012 02:27
+
+August 25, 2012 02:27 | Tags: [balloon-mapping](../tag/balloon-mapping)
 
 <a href="http://newsfeed.time.com/2012/08/23/theres-a-helium-shortage-on-and-its-affecting-more-than-just-balloons/#the-government">From this story at Time:</a>
 

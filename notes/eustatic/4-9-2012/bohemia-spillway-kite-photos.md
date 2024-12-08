@@ -1,12 +1,18 @@
 ---
-nid: 1633
 title: Bohemia Spillway kite photos
-path: public/static/notes/eustatic/4-9-2012/bohemia-spillway-kite-photos.md
+tagnames: gulf-coast, kite-mapping, bohemia, energy, river, atriskfromenergy, atrisk, naturefightsback, mgp, mardigraspass
+author: eustatic
+path: /4-9-2012/bohemia-spillway-kite-photos.md
+nid: 1633
 uid: 379
-tagnames: gulf-coast,kite-mapping,bohemia,energy,river,atriskfromenergy,atrisk,naturefightsback,mgp,mardigraspass
+
 ---
 
 # Bohemia Spillway kite photos
+
+by [eustatic](../profile/eustatic) April 09, 2012 06:20
+
+April 09, 2012 06:20 | Tags: [gulf-coast](../tag/gulf-coast), [kite-mapping](../tag/kite-mapping), [bohemia](../tag/bohemia), [energy](../tag/energy), [river](../tag/river), [atriskfromenergy](../tag/atriskfromenergy), [atrisk](../tag/atrisk), [naturefightsback](../tag/naturefightsback), [mgp](../tag/mgp), [mardigraspass](../tag/mardigraspass)
 
 Way, way down at the end of the road, the Mississippi River has broken through its barriers to flood the marshes of Bohemia. On April 7th, we hiked down the flooded road to take a peek, and took the kite with us to gain some perspective. 
 

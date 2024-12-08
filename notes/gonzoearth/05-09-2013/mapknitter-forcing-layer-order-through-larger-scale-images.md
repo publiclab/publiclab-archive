@@ -1,12 +1,18 @@
 ---
-nid: 7368
 title: MapKnitter: forcing layer order through larger scale images
-path: public/static/notes/gonzoearth/05-09-2013/mapknitter-forcing-layer-order-through-larger-scale-images.md
+tagnames: balloon-mapping, kite-mapping, mapknitter, tips
+author: gonzoearth
+path: /notes/gonzoearth/05-09-2013/mapknitter-forcing-layer-order-through-larger-scale-images.md
+nid: 7368
 uid: 12
-tagnames: balloon-mapping,kite-mapping,mapknitter,tips
+
 ---
 
 # MapKnitter: forcing layer order through larger scale images
+
+by [gonzoearth](../profile/gonzoearth) May 09, 2013 23:41
+
+May 09, 2013 23:41 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [mapknitter](../tag/mapknitter), [tips](../tag/tips)
 
 MapKnitter currently has automated control over the layer ordering of the output mosaic. Order is determined by image extent size from back to front.
 

@@ -1,12 +1,18 @@
 ---
-nid: 30185
 title: Be careful calibrating Coqui conductivity sensor
-path: public/static/notes/alejobonifacio/03-24-2022/be-careful-calibrating-coqui-conductivity-sensor.md
+tagnames: calibration, water-quality, water, conductivity, coqui, zoom:9, lon:-64, lat:-31, research-curation-fellows
+author: alejobonifacio
+path: /notes/alejobonifacio/03-24-2022/be-careful-calibrating-coqui-conductivity-sensor.md
+nid: 30185
 uid: 639376
-tagnames: calibration,water-quality,water,conductivity,coqui,zoom:9,lon:-64,lat:-31,research-curation-fellows
+
 ---
 
 # Be careful calibrating Coqui conductivity sensor
+
+by [alejobonifacio](../profile/alejobonifacio) March 24, 2022 19:24
+
+March 24, 2022 19:24 | Tags: [calibration](../tag/calibration), [water-quality](../tag/water-quality), [water](../tag/water), [conductivity](../tag/conductivity), [coqui](../tag/coqui), [zoom:9](../tag/zoom:9), [lon:-64](../tag/lon:-64), [lat:-31](../tag/lat:-31), [research-curation-fellows](../tag/research-curation-fellows)
 
 #Intro
 

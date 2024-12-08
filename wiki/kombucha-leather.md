@@ -1,12 +1,18 @@
 ---
-nid: 15559
 title: kombucha leather
-path: public/static/wiki/kombucha-leather.md
+tagnames: yeast, microbes, kombucha, biomaterial, kombucha-leather
+author: liz
+path: /wiki/kombucha-leather.md
+nid: 15559
 uid: 7
-tagnames: yeast,microbes,kombucha,biomaterial,kombucha-leather
+
 ---
 
 # kombucha leather
+
+by [liz](../profile/liz), [warren](../profile/warren)
+
+January 19, 2018 19:10 | Tags: [yeast](../tag/yeast), [microbes](../tag/microbes), [kombucha](../tag/kombucha), [biomaterial](../tag/biomaterial), [kombucha-leather](../tag/kombucha-leather)
 
 The lead image is by Suzanne Lee ([watch her TED talk](https://www.ted.com/talks/suzanne_lee_grow_your_own_clothes))
 

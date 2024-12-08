@@ -1,6 +1,6 @@
 # mylar
 
-9 notes and wiki pages
+9 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Leads on mass produced giant mylar balloons](/notes/warren/5-14-2012/leads-mass-produced-giant-mylar-balloons) by [warren](../profile/warren)
 - [Make a simple mylar/trash bag delta kite](/notes/warren/7-18-2012/mylar-delta-kite-design) by [warren](../profile/warren)

@@ -1,12 +1,18 @@
 ---
-nid: 31004
 title: Racine 6/1/22
-path: public/static/notes/junior_walk1337/06-01-2022/racine-6-1-22.md
+tagnames: drones, coal-mining, mmmp
+author: junior_walk1337
+path: /notes/junior_walk1337/06-01-2022/racine-6-1-22.md
+nid: 31004
 uid: 756318
-tagnames: drones,coal-mining,mmmp
+
 ---
 
 # Racine 6/1/22
+
+by [junior_walk1337](../profile/junior_walk1337) June 01, 2022 22:21
+
+June 01, 2022 22:21 | Tags: [drones](../tag/drones), [coal-mining](../tag/coal-mining), [mmmp](../tag/mmmp)
 
 <iframe width="746" height="393" src="https://www.youtube.com/embed/IOBU_Kkxk9I" frameborder="0" allowfullscreen=""></iframe>
 

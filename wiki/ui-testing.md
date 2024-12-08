@@ -1,12 +1,18 @@
 ---
-nid: 18444
 title: UI Testing
-path: public/static/wiki/ui-testing.md
+tagnames: style:minimal, ui, sidebar:none, ui-testing, lookback
+author: warren
+path: /wiki/ui-testing.md
+nid: 18444
 uid: 1
-tagnames: style:minimal,ui,sidebar:none,ui-testing,lookback
+
 ---
 
 # UI Testing
+
+by [warren](../profile/warren)
+
+March 01, 2019 15:07 | Tags: [style:minimal](../tag/style:minimal), [ui](../tag/ui), [sidebar:none](../tag/sidebar:none), [ui-testing](../tag/ui-testing), [lookback](../tag/lookback)
 
 Hi, you've decided to help us test out parts of the Public Lab website so we can improve it. THANKS!!!
 

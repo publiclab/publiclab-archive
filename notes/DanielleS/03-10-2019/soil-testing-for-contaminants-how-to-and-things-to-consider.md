@@ -1,12 +1,18 @@
 ---
-nid: 18505
 title: Things to Consider When Testing Soil for Contaminants  
-path: public/static/notes/DanielleS/03-10-2019/soil-testing-for-contaminants-how-to-and-things-to-consider.md
+tagnames: soil, soil-testing, soil-sampling, activity:soil-sampling, activity:oil-testing, activity:soil, soil-contaminants, soil-contaminant-testing, soil-testing-kits, activity:lead, activity:heavy-metals, mine-soil-health
+author: DanielleS
+path: /notes/DanielleS/03-10-2019/soil-testing-for-contaminants-how-to-and-things-to-consider.md
+nid: 18505
 uid: 569208
-tagnames: soil,soil-testing,soil-sampling,activity:soil-sampling,activity:oil-testing,activity:soil,soil-contaminants,soil-contaminant-testing,soil-testing-kits,activity:lead,activity:heavy-metals,mine-soil-health
+
 ---
 
 # Things to Consider When Testing Soil for Contaminants  
+
+by [DanielleS](../profile/DanielleS) March 10, 2019 10:07
+
+March 10, 2019 10:07 | Tags: [soil](../tag/soil), [soil-testing](../tag/soil-testing), [soil-sampling](../tag/soil-sampling), [activity:soil-sampling](../tag/activity:soil-sampling), [activity:oil-testing](../tag/activity:oil-testing), [activity:soil](../tag/activity:soil), [soil-contaminants](../tag/soil-contaminants), [soil-contaminant-testing](../tag/soil-contaminant-testing), [soil-testing-kits](../tag/soil-testing-kits), [activity:lead](../tag/activity:lead), [activity:heavy-metals](../tag/activity:heavy-metals), [mine-soil-health](../tag/mine-soil-health)
 
 **Things to
 consider when testing your soil for contaminants- \*\***

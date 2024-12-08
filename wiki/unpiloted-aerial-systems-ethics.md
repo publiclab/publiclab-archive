@@ -1,12 +1,18 @@
 ---
-nid: 11563
 title: Unpiloted Aerial Systems Ethics
-path: public/static/wiki/unpiloted-aerial-systems-ethics.md
+tagnames: open-source, gmf, drones, grassrootsmappingforum, aerial-photos, style:fancy, gmf-2
+author: mollydanielsson
+path: /wiki/unpiloted-aerial-systems-ethics.md
+nid: 11563
 uid: 1259
-tagnames: open-source,gmf,drones,grassrootsmappingforum,aerial-photos,style:fancy,gmf-2
+
 ---
 
 # Unpiloted Aerial Systems Ethics
+
+by [mollydanielsson](../profile/mollydanielsson)
+
+February 08, 2015 00:37 | Tags: [open-source](../tag/open-source), [gmf](../tag/gmf), [drones](../tag/drones), [grassrootsmappingforum](../tag/grassrootsmappingforum), [aerial-photos](../tag/aerial-photos), [style:fancy](../tag/style:fancy), [gmf-2](../tag/gmf-2)
 
 _being open, transparent, and friendly while making, flying, and taking pictures from balloons, kites, and drones_
 

@@ -1,12 +1,18 @@
 ---
-nid: 15853
 title: GSoC Proposal: v2 API development and third party app integrations
-path: public/static/notes/sukhbir/03-02-2018/gsoc-proposal-v2-api-development-and-providing-support-to-3rd-party-app-integrations.md
+tagnames: software, gsoc, soc, response:13975, gsoc-2018, soc-2018, soc-2018-proposals, soc-2018-api, first-time-poster
+author: sukhbir
+path: /notes/sukhbir/03-02-2018/gsoc-proposal-v2-api-development-and-providing-support-to-3rd-party-app-integrations.md
+nid: 15853
 uid: 525032
-tagnames: software,gsoc,soc,response:13975,gsoc-2018,soc-2018,soc-2018-proposals,soc-2018-api,first-time-poster
+
 ---
 
 # GSoC Proposal: v2 API development and third party app integrations
+
+by [sukhbir](../profile/sukhbir) March 02, 2018 01:42
+
+March 02, 2018 01:42 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [soc](../tag/soc), [response:13975](../tag/response:13975), [gsoc-2018](../tag/gsoc-2018), [soc-2018](../tag/soc-2018), [soc-2018-proposals](../tag/soc-2018-proposals), [soc-2018-api](../tag/soc-2018-api), [first-time-poster](../tag/first-time-poster)
 
 ## About me
 

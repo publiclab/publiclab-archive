@@ -1,12 +1,18 @@
 ---
-nid: 11568
 title: Attending Frog Church in Violet, Louisiana
-path: public/static/notes/eustatic/02-09-2015/attending-frog-church-in-violet-louisiana.md
+tagnames: gulf-coast, lousiana, sonicenvironment, impacts, noise, frog, aesthetics
+author: eustatic
+path: /02-09-2015/attending-frog-church-in-violet-louisiana.md
+nid: 11568
 uid: 379
-tagnames: gulf-coast,lousiana,sonicenvironment,impacts,noise,frog,aesthetics
+
 ---
 
 # Attending Frog Church in Violet, Louisiana
+
+by [eustatic](../profile/eustatic) February 09, 2015 18:03
+
+February 09, 2015 18:03 | Tags: [gulf-coast](../tag/gulf-coast), [lousiana](../tag/lousiana), [sonicenvironment](../tag/sonicenvironment), [impacts](../tag/impacts), [noise](../tag/noise), [frog](../tag/frog), [aesthetics](../tag/aesthetics)
 
 [pictured: Larry Bird looking for Cajun Chorus frogs, LAMP 1 2015, eastbank]
 

@@ -1,12 +1,18 @@
 ---
-nid: 25180
 title: Air-polluting gases and monitoring methods
-path: public/static/wiki/air-polluting-gases-and-monitoring-methods.md
+tagnames: hydrogen-sulfide, air-quality, h2s, ozone, vocs, gas-monitoring, method, air-sampling, air-sensors, parent:air-quality
+author: bhamster
+path: /wiki/air-polluting-gases-and-monitoring-methods.md
+nid: 25180
 uid: 664477
-tagnames: hydrogen-sulfide,air-quality,h2s,ozone,vocs,gas-monitoring,method,air-sampling,air-sensors,parent:air-quality
+
 ---
 
 # Air-polluting gases and monitoring methods
+
+by [fongvania](../profile/fongvania), [bhamster](../profile/bhamster)
+
+December 07, 2020 20:27 | Tags: [hydrogen-sulfide](../tag/hydrogen-sulfide), [air-quality](../tag/air-quality), [h2s](../tag/h2s), [ozone](../tag/ozone), [vocs](../tag/vocs), [gas-monitoring](../tag/gas-monitoring), [method](../tag/method), [air-sampling](../tag/air-sampling), [air-sensors](../tag/air-sensors), [parent:air-quality](../tag/parent:air-quality)
 
 _Lead image: [Jeff Turner](https://www.flickr.com/photos/40518938@N00/2544979655), CC BY_
 <hr>

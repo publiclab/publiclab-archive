@@ -1,12 +1,18 @@
 ---
-nid: 12818
 title: Tested 9 400nm UV LEDs today these are the results
-path: public/static/notes/dhaffnersr/03-08-2016/tested-9-400nm-uv-leds-today-these-are-the-results.md
-uid: 461120
 tagnames: barnstar:empiricism
+author: dhaffnersr
+path: /notes/dhaffnersr/03-08-2016/tested-9-400nm-uv-leds-today-these-are-the-results.md
+nid: 12818
+uid: 461120
+
 ---
 
 # Tested 9 400nm UV LEDs today these are the results
+
+by [dhaffnersr](../profile/dhaffnersr) March 08, 2016 15:58
+
+March 08, 2016 15:58 | Tags: [barnstar:empiricism](../tag/barnstar:empiricism)
 
 I bought 9 400nm LEDs from superbrightleds.com and I was curious as to their consistency for use in UV spectral analysis, well, I got some very interesting but not too surprising results. 
 

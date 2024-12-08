@@ -1,6 +1,6 @@
 # activity-sensors
 
-4 notes and wiki pages
+4 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Solar Powered Air Quality Sensor](/notes/nicholas/12-22-2014/solar-powered-air-quality-sensor) by [nicholas](../profile/nicholas)
 - [Help collect environmental sensors + probes on a shared list](/notes/warren/12-06-2017/help-collect-environmental-sensors-probes-on-a-shared-list) by [warren](../profile/warren)

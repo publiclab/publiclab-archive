@@ -1,12 +1,18 @@
 ---
-nid: 26835
 title: investigation concepts from journalists
-path: public/static/notes/liz/06-16-2021/investigation-concepts-from-journalists.md
+tagnames: evidence, journalism, lat:35, zoom:13, lon:-78.99, investigation, osint
+author: liz
+path: /notes/liz/06-16-2021/investigation-concepts-from-journalists.md
+nid: 26835
 uid: 7
-tagnames: evidence,journalism,lat:35,zoom:13,lon:-78.99,investigation,osint
+
 ---
 
 # investigation concepts from journalists
+
+by [liz](../profile/liz) June 16, 2021 18:51
+
+June 16, 2021 18:51 | Tags: [evidence](../tag/evidence), [journalism](../tag/journalism), [lat:35](../tag/lat:35), [zoom:13](../tag/zoom:13), [lon:-78.99](../tag/lon:-78.99), [investigation](../tag/investigation), [osint](../tag/osint)
 
 Community science might sometimes be described as "collaborative investigations for accountability" — a [phrase also used by journalists][1]. Into this space of overlap comes this great guide to #OSINT or open source investigations: **[Exposing the Invisible - The Kit][2]**. The [Table of Contents][3] is nice, too. A project by long term comrades, https://tacticaltech.org/!
 

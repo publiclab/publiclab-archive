@@ -1,6 +1,6 @@
 # organizing
 
-70 notes and wiki pages
+70 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Working Groups](/wiki/working-groups) (wiki)
 - [How to organize a public lab chapter](/notes/tlevine/1-10-2013/how-organize-public-lab-chapter) by [tlevine](../profile/tlevine)
@@ -56,19 +56,10 @@
 - [How to get accountability for blasting and dust related permit violations? ](/notes/ekpeterman/11-23-2021/how-to-get-accountability-for-blasting-and-dust-related-permit-violations) by [ekpeterman](../profile/ekpeterman)
 - [Common Permit Violations: MMMP](/notes/ekpeterman/11-24-2021/common-permit-violations-mmmp) by [ekpeterman](../profile/ekpeterman)
 - [Community Organizing Fellowship is open!](/notes/stevie/11-30-2021/community-organizing-fellowship-is-open) by [stevie](../profile/stevie)
-- [LEGO Storage Ideas you Should Try](/notes/bricksmart/12-03-2021/lego-storage-ideas-you-should-try) by [bricksmart](../profile/bricksmart)
 - [What strategies have been implemented to use citizen science successfully in litigation?](/notes/julia_e_masters/01-14-2022/what-strategies-have-been-implemented-to-use-citizen-science-successfully-in-litigation) by [julia_e_masters](../profile/julia_e_masters)
-- [Quickbooks Error H202](/notes/laimrylah/01-21-2022/quickbooks-error-h202) by [laimrylah](../profile/laimrylah)
 - [Community Outreach Associate (Temporary)](/notes/jmacha/03-21-2022/community-outreach-associate-temporary) by [jmacha](../profile/jmacha)
 - [Organizing and Advocacy Happenings at Public Lab!](/notes/julia_e_masters/05-11-2022/organizing-and-advocacy-happenings-at-public-lab) by [julia_e_masters](../profile/julia_e_masters)
 - [Question: What challenges can community members expect during an Environmental Impact Statement (EIS) Process and open comment period?](/notes/michelleiL/05-23-2022/question-what-challenges-can-community-members-expect-during-an-environmental-impact-statement-eis-process-and-open-comment-period) by [michelleiL](../profile/michelleiL)
 - [Introduction to Community Organizing](/notes/julia_e_masters/05-25-2022/introduction-to-community-organizing) by [julia_e_masters](../profile/julia_e_masters)
 - [Important Update from Public Lab](/notes/jmacha/08-03-2022/important-update-from-public-lab) by [jmacha](../profile/jmacha)
-- [professional home buyers wichita](/notes/Tomgrishamq/09-28-2022/professional-home-buyers-wichita) by [Tomgrishamq](../profile/Tomgrishamq)
 - [Update from the Board of Directors](/notes/jmacha/04-14-2023/update-from-the-board-of-directors) by [jmacha](../profile/jmacha)
-- [Buy Elite Yelp Reviews+](/notes/auroraauzyca7373/12-07-2023/buy-elite-yelp-reviews) by [auroraauzyca7373](../profile/auroraauzyca7373)
-- [Buy Google Reviews](/notes/googlereviews/12-08-2023/buy-google-reviews) by [googlereviews](../profile/googlereviews)
-- [Buy Yelp Reviews Fiverr](/notes/yelpreviewsfiverr/12-08-2023/buy-yelp-reviews-fiverr) by [yelpreviewsfiverr](../profile/yelpreviewsfiverr)
-- [Buy Verified Wise Accounts](/notes/yelpreviewsfiverr/12-08-2023/buy-verified-wise-accounts) by [yelpreviewsfiverr](../profile/yelpreviewsfiverr)
-- [Beautiful Images For Good Morning](/notes/yelpreviewsfiverr/12-08-2023/beautiful-images-for-good-morning) by [yelpreviewsfiverr](../profile/yelpreviewsfiverr)
-- [Entdecken Immobilien Flumserberg  | WENET AG](/notes/wenetag/07-24-2024/entdecken-immobilien-flumserberg-wenet-ag) by [wenetag](../profile/wenetag)

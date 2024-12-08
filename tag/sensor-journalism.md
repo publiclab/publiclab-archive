@@ -1,6 +1,6 @@
 # sensor-journalism
 
-55 notes and wiki pages
+55 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Summary of discussion about Sensor Journalism](/wiki/summary-of-discussion-about-sensor-journalism) (wiki)
 - [Water Samples For DataViz Reflection ](/notes/tati/10-06-2014/water-samples-for-dataviz-reflection) by [tati](../profile/tati)

@@ -1,12 +1,18 @@
 ---
-nid: 10113
 title: Hudson Riverkeeper teaches how to report Gowanus pollution
-path: public/static/notes/liz/03-06-2014/hudson-riverkeeper-teaches-how-to-report-gowanus-pollution.md
+tagnames: new-york-city, gowanus-canal, watchdog
+author: liz
+path: /notes/liz/03-06-2014/hudson-riverkeeper-teaches-how-to-report-gowanus-pollution.md
+nid: 10113
 uid: 7
-tagnames: new-york-city,gowanus-canal,watchdog
+
 ---
 
 # Hudson Riverkeeper teaches how to report Gowanus pollution
+
+by [liz](../profile/liz) March 06, 2014 15:58
+
+March 06, 2014 15:58 | Tags: [new-york-city](../tag/new-york-city), [gowanus-canal](../tag/gowanus-canal), [watchdog](../tag/watchdog)
 
 _folks: this note starts off bland but contains **essential** information about the regulatory and enforcement landscape of our beloved Gowanus Canal as well as tips for environmental "bounty hunters" who want $$$!_ 
 

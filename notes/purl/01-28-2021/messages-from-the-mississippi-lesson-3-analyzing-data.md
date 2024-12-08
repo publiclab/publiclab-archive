@@ -1,12 +1,18 @@
 ---
-nid: 25564
 title: Messages From the Mississippi Lesson 3: Analyzing Data
-path: public/static/notes/purl/01-28-2021/messages-from-the-mississippi-lesson-3-analyzing-data.md
+tagnames: microplastics, babylegs, messagesfromthemississippi, lesson-community-microscope
+author: purl
+path: /notes/purl/01-28-2021/messages-from-the-mississippi-lesson-3-analyzing-data.md
+nid: 25564
 uid: 736598
-tagnames: microplastics,babylegs,messagesfromthemississippi,lesson-community-microscope
+
 ---
 
 # Messages From the Mississippi Lesson 3: Analyzing Data
+
+by [purl](../profile/purl) January 28, 2021 15:57
+
+January 28, 2021 15:57 | Tags: [microplastics](../tag/microplastics), [babylegs](../tag/babylegs), [messagesfromthemississippi](../tag/messagesfromthemississippi), [lesson-community-microscope](../tag/lesson-community-microscope)
 
 # Overview [](https://publiclab.org/notes/mimiss/05-07-2019/workshop-i-how-do-communities-respond-to-environmental-problems?_=1561052111#Overview)
 

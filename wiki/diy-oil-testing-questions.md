@@ -1,12 +1,18 @@
 ---
-nid: 12632
 title: DIY Oil Testing Questions
-path: public/static/wiki/diy-oil-testing-questions.md
+tagnames: spectrometer, spectrometry, oil-testing-kit, draft
+author: warren
+path: /wiki/diy-oil-testing-questions.md
+nid: 12632
 uid: 1
-tagnames: spectrometer,spectrometry,oil-testing-kit,draft
+
 ---
 
 # DIY Oil Testing Questions
+
+by [warren](../profile/warren), [gretchengehrke](../profile/gretchengehrke)
+
+January 28, 2016 22:16 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [oil-testing-kit](../tag/oil-testing-kit), [draft](../tag/draft)
 
 <div class="alert alert-info">This is Part I of <a href="/wiki/diy-oil-testing">DIY Oil Testing: Progress toward community oil pollution analysis</a></div>
 

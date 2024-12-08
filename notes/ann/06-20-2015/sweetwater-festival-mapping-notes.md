@@ -1,12 +1,18 @@
 ---
-nid: 11992
 title: Mapping the Sweetwater Festival in Rolla, British Columbia
-path: public/static/notes/ann/06-20-2015/sweetwater-festival-mapping-notes.md
+tagnames: balloon-mapping, canada, northwest
+author: ann
+path: /notes/ann/06-20-2015/sweetwater-festival-mapping-notes.md
+nid: 11992
 uid: 421543
-tagnames: balloon-mapping,canada,northwest
+
 ---
 
 # Mapping the Sweetwater Festival in Rolla, British Columbia
+
+by [ann](../profile/ann) June 20, 2015 20:33
+
+June 20, 2015 20:33 | Tags: [balloon-mapping](../tag/balloon-mapping), [canada](../tag/canada), [northwest](../tag/northwest)
 
 On June 13, 2015, I led a balloon mapping workshop at the Sweetwater 905 Arts and Music Festival in the small town of Rolla, BC, located just across the border from Alberta. I was visiting there as part of a larger project I am working on, Mapping the Northern Gateway Pipeline, tentatively titled, The Map is Not the Territory. For that project, I have been traveling around northern British Columbia and Alberta, documenting the communities along the proposed Northern Gateway Pipeline. More information about the project can be found at [pipelinemapping.tumblr.com](pipelinemapping.tumblr.com).
 

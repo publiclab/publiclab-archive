@@ -1,12 +1,18 @@
 ---
-nid: 12919
 title: Event in Eau Claire, WI
-path: public/static/notes/stevie/04-04-2016/event-in-eau-claire-wi.md
+tagnames: event, wisconsin, air-quality, event:rsvp, mid-west, rsvp:marlokeno, date:04-23-2016
+author: stevie
+path: /notes/stevie/04-04-2016/event-in-eau-claire-wi.md
+nid: 12919
 uid: 422561
-tagnames: event,wisconsin,air-quality,event:rsvp,mid-west,rsvp:marlokeno,date:04-23-2016
+
 ---
 
 # Event in Eau Claire, WI
+
+by [stevie](../profile/stevie) April 04, 2016 20:23
+
+April 04, 2016 20:23 | Tags: [event](../tag/event), [wisconsin](../tag/wisconsin), [air-quality](../tag/air-quality), [event:rsvp](../tag/event:rsvp), [mid-west](../tag/mid-west), [rsvp:marlokeno](../tag/rsvp:marlokeno), [date:04-23-2016](../tag/date:04-23-2016)
 
 Interested in exploring water monitoring techniques that can help us report frac sand water pollution events? Want to learn about low cost dust monitoring and technique development? Join us Saturday, **April 23rd at the Eau Claire Public Library from 10:30am-12:30pm** for an event exploring these projects! 
 

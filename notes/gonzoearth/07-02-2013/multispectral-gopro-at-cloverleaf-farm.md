@@ -1,12 +1,18 @@
 ---
-nid: 8607
 title: Multispectral GoPro at Cloverleaf Farmstand
-path: public/static/notes/gonzoearth/07-02-2013/multispectral-gopro-at-cloverleaf-farm.md
+tagnames: near-infrared-camera, kite-mapping, ndvi, agriculture, infragram, gopro, gopro-ag, mini-camera, activity:mini-camera
+author: gonzoearth
+path: /notes/gonzoearth/07-02-2013/multispectral-gopro-at-cloverleaf-farm.md
+nid: 8607
 uid: 12
-tagnames: near-infrared-camera,kite-mapping,ndvi,agriculture,infragram,gopro,gopro-ag,mini-camera,activity:mini-camera
+
 ---
 
 # Multispectral GoPro at Cloverleaf Farmstand
+
+by [gonzoearth](../profile/gonzoearth) July 02, 2013 15:56
+
+July 02, 2013 15:56 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [ndvi](../tag/ndvi), [agriculture](../tag/agriculture), [infragram](../tag/infragram), [gopro](../tag/gopro), [gopro-ag](../tag/gopro-ag), [mini-camera](../tag/mini-camera), [activity:mini-camera](../tag/activity:mini-camera)
 
 I ran dual image pairs (vis/nir) through Ned Horning's [Photo Monitioring ImageJ Plugin](https://github.com/nedhorning/PhotoMonitoringPlugin) from the [flight at Cloverleaf Farmstand in Davis, CA.](http://publiclab.org/notes/MicheleTobias/06-04-2013/farm-mapping-at-cloverleaf-farmstand-davis-ca)
 

@@ -1,5 +1,5 @@
 # with-khurst
 
-1 notes and wiki pages
+1 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Trash-tography: Mapping Trash in Creeks through Photography](/notes/ikcal11/05-10-2020/trash-tography-mapping-trash-in-creeks-through-photography) by [ikcal11](../profile/ikcal11)

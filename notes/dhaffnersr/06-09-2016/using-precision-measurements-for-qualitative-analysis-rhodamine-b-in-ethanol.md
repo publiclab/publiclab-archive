@@ -1,12 +1,18 @@
 ---
-nid: 13181
 title: Using Precision Measurements for Qualitative Analysis-Rhodamine B in Ethanol
-path: public/static/notes/dhaffnersr/06-09-2016/using-precision-measurements-for-qualitative-analysis-rhodamine-b-in-ethanol.md
-uid: 461120
 tagnames: 
+author: dhaffnersr
+path: /notes/dhaffnersr/06-09-2016/using-precision-measurements-for-qualitative-analysis-rhodamine-b-in-ethanol.md
+nid: 13181
+uid: 461120
+
 ---
 
 # Using Precision Measurements for Qualitative Analysis-Rhodamine B in Ethanol
+
+by [dhaffnersr](../profile/dhaffnersr) June 09, 2016 09:13
+
+June 09, 2016 09:13 | Tags: 
 
 **Abstract**
 

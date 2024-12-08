@@ -1,12 +1,18 @@
 ---
-nid: 11415
 title: Kite Mapping in Vancouver - Take 3
-path: public/static/notes/MelissaN/12-01-2014/kite-mapping-in-vancouver-take-3.md
+tagnames: kite-mapping, vancouver
+author: MelissaN
+path: /notes/MelissaN/12-01-2014/kite-mapping-in-vancouver-take-3.md
+nid: 11415
 uid: 305152
-tagnames: kite-mapping,vancouver
+
 ---
 
 # Kite Mapping in Vancouver - Take 3
+
+by [MelissaN](../profile/MelissaN) December 01, 2014 03:45
+
+December 01, 2014 03:45 | Tags: [kite-mapping](../tag/kite-mapping), [vancouver](../tag/vancouver)
 
 _This research note is third in a series of research notes about my attempts as taking images in Vancouver, BC from a kite.  You can read the previous research note_ [here](http://publiclab.org/notes/MelissaN/11-25-2014/kite-mapping-in-vancouver-take-1-take-2).
 

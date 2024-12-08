@@ -1,6 +1,6 @@
 # image-compositing
 
-4 notes and wiki pages
+4 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Image Analysis](/wiki/image-analysis) (wiki)
 - [Microsoft Research Image Composite Editor](/notes/adam-griffith/4-26-2012/microsoft-research-image-composite-editor) by [adam-griffith](../profile/adam-griffith)

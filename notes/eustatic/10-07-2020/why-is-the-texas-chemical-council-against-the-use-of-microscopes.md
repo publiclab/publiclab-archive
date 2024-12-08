@@ -1,12 +1,18 @@
 ---
-nid: 24712
 title: Why is the Texas Chemical Council against the use of Microscopes?
-path: public/static/notes/eustatic/10-07-2020/why-is-the-texas-chemical-council-against-the-use-of-microscopes.md
+tagnames: gulf-coast, water-quality, barnstar:watchdog, microscope, microplastics, zoom:16, lat:30.267147, lon:-97.743065
+author: eustatic
+path: /10-07-2020/why-is-the-texas-chemical-council-against-the-use-of-microscopes.md
+nid: 24712
 uid: 379
-tagnames: gulf-coast,water-quality,barnstar:watchdog,microscope,microplastics,zoom:16,lat:30.267147,lon:-97.743065
+
 ---
 
 # Why is the Texas Chemical Council against the use of Microscopes?
+
+by [eustatic](../profile/eustatic) October 07, 2020 17:10
+
+October 07, 2020 17:10 | Tags: [gulf-coast](../tag/gulf-coast), [water-quality](../tag/water-quality), [barnstar:watchdog](../tag/barnstar:watchdog), [microscope](../tag/microscope), [microplastics](../tag/microplastics), [zoom:16](../tag/zoom:16), [lat:30.267147](../tag/lat:30.267147), [lon:-97.743065](../tag/lon:-97.743065)
 
 *Photo by Diane Wilson and San Antonio Bay Estuary Waterkeeper, Plastic Powder from Formosa Plastics in Cox Creek, Lavaca Bay, TX*
 

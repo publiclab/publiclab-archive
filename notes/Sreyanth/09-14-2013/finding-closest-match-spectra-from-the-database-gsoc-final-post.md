@@ -1,12 +1,18 @@
 ---
-nid: 9330
 title: Finding closest match spectra from the database (GSoC) - Final Post!
-path: public/static/notes/Sreyanth/09-14-2013/finding-closest-match-spectra-from-the-database-gsoc-final-post.md
+tagnames: spectrometer, spectralworkbench, spectrometry, gsoc-2013, spectral-matching, closest-match
+author: Sreyanth
+path: /notes/Sreyanth/09-14-2013/finding-closest-match-spectra-from-the-database-gsoc-final-post.md
+nid: 9330
 uid: 96713
-tagnames: spectrometer,spectralworkbench,spectrometry,gsoc-2013,spectral-matching,closest-match
+
 ---
 
 # Finding closest match spectra from the database (GSoC) - Final Post!
+
+by [Sreyanth](../profile/Sreyanth) September 14, 2013 21:03
+
+September 14, 2013 21:03 | Tags: [spectrometer](../tag/spectrometer), [spectralworkbench](../tag/spectralworkbench), [spectrometry](../tag/spectrometry), [gsoc-2013](../tag/gsoc-2013), [spectral-matching](../tag/spectral-matching), [closest-match](../tag/closest-match)
 
 Continuing with my previous research notes [1, 2], which discuss about the whereabouts of my project, this note describes the project implementation highlighting the various features that are provided:
 

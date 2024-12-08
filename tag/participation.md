@@ -1,6 +1,6 @@
 # participation
 
-6 notes and wiki pages
+6 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Notes for new Get Involved sequence](/wiki/en/get-involved) (wiki)
 - [How to organize a public lab chapter](/notes/tlevine/1-10-2013/how-organize-public-lab-chapter) by [tlevine](../profile/tlevine)

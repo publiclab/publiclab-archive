@@ -1,12 +1,18 @@
 ---
-nid: 13706
 title: Fresh air collector
-path: public/static/notes/imvec/11-15-2016/fresh-air-collector.md
+tagnames: calibration, spain, sensors, open-air, espana
+author: imvec
+path: /notes/imvec/11-15-2016/fresh-air-collector.md
+nid: 13706
 uid: 495038
-tagnames: calibration,spain,sensors,open-air,espana
+
 ---
 
 # Fresh air collector
+
+by [imvec](../profile/imvec) November 15, 2016 14:09
+
+November 15, 2016 14:09 | Tags: [calibration](../tag/calibration), [spain](../tag/spain), [sensors](../tag/sensors), [open-air](../tag/open-air), [espana](../tag/espana)
 
 ###What we want to do
 We'll try to develop a DIY system to collect a relatively standard “fresh air” during the initial autocalibration of an air quality or gas sensor.

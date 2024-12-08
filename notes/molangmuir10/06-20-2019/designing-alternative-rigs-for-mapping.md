@@ -1,12 +1,18 @@
 ---
-nid: 19761
 title: Child-led R&D of camera rigs for mapping
-path: public/static/notes/molangmuir10/06-20-2019/designing-alternative-rigs-for-mapping.md
+tagnames: education, rig, photo-rig, camera, classroom, activity:photo-rig, ballon-mapping, activity:classroom, community-atlas, urbangreeninginnottingham, urbangreeningnottingham, activity:urbangreeninginnottingham
+author: molangmuir10
+path: /notes/molangmuir10/06-20-2019/designing-alternative-rigs-for-mapping.md
+nid: 19761
 uid: 589023
-tagnames: education,rig,photo-rig,camera,classroom,activity:photo-rig,ballon-mapping,activity:classroom,community-atlas,urbangreeninginnottingham,urbangreeningnottingham,activity:urbangreeninginnottingham
+
 ---
 
 # Child-led R&D of camera rigs for mapping
+
+by [molangmuir10](../profile/molangmuir10) June 20, 2019 15:01
+
+June 20, 2019 15:01 | Tags: [education](../tag/education), [rig](../tag/rig), [photo-rig](../tag/photo-rig), [camera](../tag/camera), [classroom](../tag/classroom), [activity:photo-rig](../tag/activity:photo-rig), [ballon-mapping](../tag/ballon-mapping), [activity:classroom](../tag/activity:classroom), [community-atlas](../tag/community-atlas), [urbangreeninginnottingham](../tag/urbangreeninginnottingham), [urbangreeningnottingham](../tag/urbangreeningnottingham), [activity:urbangreeninginnottingham](../tag/activity:urbangreeninginnottingham)
 
 Building from @warren's research note - [https://publiclab.org/notes/warren/06-05-2019/build-a-simple-aerial-photo-rig-for-a-raspberry-pi-camera#c24748](https://publiclab.org/notes/warren/06-05-2019/build-a-simple-aerial-photo-rig-for-a-raspberry-pi-camera#c24748) - together with a team of young (9-11 year old scientists) we are aiming to develop and test camera rigs for balloon and kite mapping.
 

@@ -1,12 +1,18 @@
 ---
-nid: 6211
 title: Late-night IRCAM hack
-path: public/static/notes/donblair/3-5-2013/late-night-ircam-hack.md
+tagnames: near-infrared-camera, near-infrared, ircam, near-ir, irkit, infragram
+author: donblair
+path: /notes/donblair/3-5-2013/late-night-ircam-hack.md
+nid: 6211
 uid: 43651
-tagnames: near-infrared-camera,near-infrared,ircam,near-ir,irkit,infragram
+
 ---
 
 # Late-night IRCAM hack
+
+by [donblair](../profile/donblair) March 05, 2013 19:09
+
+March 05, 2013 19:09 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [near-infrared](../tag/near-infrared), [ircam](../tag/ircam), [near-ir](../tag/near-ir), [irkit](../tag/irkit), [infragram](../tag/infragram)
 
 ## Background
 

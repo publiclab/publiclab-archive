@@ -1,12 +1,18 @@
 ---
-nid: 10015
 title: Pesticide Detection Methods Development
-path: public/static/wiki/pesticide-detection-methods-development.md
+tagnames: spectrometer, spectrometry, pesticides, quantitative, extraction, reagents, solvent
+author: silverhammer
+path: /wiki/pesticide-detection-methods-development.md
+nid: 10015
 uid: 420530
-tagnames: spectrometer,spectrometry,pesticides,quantitative,extraction,reagents,solvent
+
 ---
 
 # Pesticide Detection Methods Development
+
+by [silverhammer](../profile/silverhammer)
+
+February 06, 2014 17:10 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [pesticides](../tag/pesticides), [quantitative](../tag/quantitative), [extraction](../tag/extraction), [reagents](../tag/reagents), [solvent](../tag/solvent)
 
 ####*Experiment 7 (started on 11/11/2014)*
 ##**Purpose:**

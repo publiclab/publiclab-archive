@@ -1,6 +1,6 @@
 # filters
 
-17 notes and wiki pages
+17 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [First Infragram cam trials - Primeros ensayos con cámaras Infragram](/notes/ivalethia/09-20-2014/first-infragram-cam-trials-primeros-ensayos-con-camaras-infragram) by [ivalethia](../profile/ivalethia)
 - [DIY Indoor Air Remediation Kit](/wiki/diy-indoor-air-quality-remediation-kit) (wiki)
@@ -18,4 +18,3 @@
 - [Building Snake Plant Air Remediation kit in Bangalore, India](/notes/deeptalaxmibharadwaj/09-02-2019/building-snake-plant-air-remediation-kit-in-bangalore-india) by [deeptalaxmibharadwaj](../profile/deeptalaxmibharadwaj)
 - [How to do the white-balancing for the RED filter?](/notes/xmv79667/01-03-2020/how-to-do-the-white-balancing-for-the-red-filter) by [xmv79667](../profile/xmv79667)
 - [Analysis of Dual-Bandpass NDVI Filters using Python ](/notes/ektopyrotic/06-28-2020/analysis-of-dual-bandpass-ndvi-filters-using-python) by [ektopyrotic](../profile/ektopyrotic)
-- [Sleemans Pool & Spa Care & Bottle Gas Supplies](/notes/traceyboswell1/07-06-2020/sleemans-pool-spa-care-bottle-gas-supplies) by [traceyboswell1](../profile/traceyboswell1)

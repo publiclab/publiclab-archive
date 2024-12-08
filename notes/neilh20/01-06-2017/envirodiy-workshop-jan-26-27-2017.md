@@ -1,12 +1,18 @@
 ---
-nid: 13843
 title: Envirodiy workshop Jan 26/27 2017
-path: public/static/notes/neilh20/01-06-2017/envirodiy-workshop-jan-26-27-2017.md
+tagnames: event, event:rsvp, date:01-06-2017
+author: neilh20
+path: /notes/neilh20/01-06-2017/envirodiy-workshop-jan-26-27-2017.md
+nid: 13843
 uid: 425914
-tagnames: event,event:rsvp,date:01-06-2017
+
 ---
 
 # Envirodiy workshop Jan 26/27 2017
+
+by [neilh20](../profile/neilh20) January 06, 2017 20:51
+
+January 06, 2017 20:51 | Tags: [event](../tag/event), [event:rsvp](../tag/event:rsvp), [date:01-06-2017](../tag/date:01-06-2017)
 
 
 For anybody in the Stroud Water Center area/Delaware River watershed this may be of interest

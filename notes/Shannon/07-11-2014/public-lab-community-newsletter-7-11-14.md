@@ -1,12 +1,18 @@
 ---
-nid: 10680
 title: Public Lab community newsletter 7.11.14
-path: public/static/notes/Shannon/07-11-2014/public-lab-community-newsletter-7-11-14.md
+tagnames: newsletter, newsletter-archive
+author: Shannon
+path: /notes/Shannon/07-11-2014/public-lab-community-newsletter-7-11-14.md
+nid: 10680
 uid: 9
-tagnames: newsletter,newsletter-archive
+
 ---
 
 # Public Lab community newsletter 7.11.14
+
+by [Shannon](../profile/Shannon) July 11, 2014 17:40
+
+July 11, 2014 17:40 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
 
 This week in the Public Lab community newsletter, participate in an intro to water quality workshop, a pollution identification workshop or the upcoming OpenHour on spectral analysis, get involved in a Linux development project and check out developments on creating a rig for the Mobius Action Cam. Enjoy!
 

@@ -1,12 +1,18 @@
 ---
-nid: 1630
 title: Discussions in Davis, CA
-path: public/static/notes/mathew/4-6-2012/discussions-davis-ca.md
-uid: 4
 tagnames: 
+author: mathew
+path: /notes/mathew/4-6-2012/discussions-davis-ca.md
+nid: 1630
+uid: 4
+
 ---
 
 # Discussions in Davis, CA
+
+by [mathew](../profile/mathew) April 06, 2012 23:13
+
+April 06, 2012 23:13 | Tags: 
 
 I was in Davis yesterday, talking to a great collection of folks including two balloon kit buyers, [stellar PLOTS researcher Michele Tobias](http://publiclaboratory.org/people/micheletobias), Science and Technology Studies director [Joe Dumit](http://www.anthropology.ucdavis.edu/people/dumit/), [Sarah McCullough](http://sts.ucdavis.edu/humans/smcc),  and Lexie, Lucien ,Braden, and Josef of the [Davis Hackerspace](http://www.facebook.com/groups/364301023608670) effort.  
 

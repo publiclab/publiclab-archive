@@ -1,12 +1,18 @@
 ---
-nid: 13007
 title: Spectrometer Noise Solution?
-path: public/static/notes/stoft/04-20-2016/spectrometer-noise-solution.md
+tagnames: spectrometer, webcam, desktop-spectrometer, noise-reduction, signal-to-noise-ratio, noise
+author: stoft
+path: /notes/stoft/04-20-2016/spectrometer-noise-solution.md
+nid: 13007
 uid: 54025
-tagnames: spectrometer,webcam,desktop-spectrometer,noise-reduction,signal-to-noise-ratio,noise
+
 ---
 
 # Spectrometer Noise Solution?
+
+by [stoft](../profile/stoft) April 20, 2016 23:47
+
+April 20, 2016 23:47 | Tags: [spectrometer](../tag/spectrometer), [webcam](../tag/webcam), [desktop-spectrometer](../tag/desktop-spectrometer), [noise-reduction](../tag/noise-reduction), [signal-to-noise-ratio](../tag/signal-to-noise-ratio), [noise](../tag/noise)
 
 **Abstract**
 

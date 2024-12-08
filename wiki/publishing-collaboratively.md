@@ -1,12 +1,18 @@
 ---
-nid: 11650
 title: Publishing Collaboratively 
-path: public/static/wiki/publishing-collaboratively.md
+tagnames: publication, research-notes, workflows
+author: nicholas
+path: /wiki/publishing-collaboratively.md
+nid: 11650
 uid: 53894
-tagnames: publication,research-notes,workflows
+
 ---
 
 # Publishing Collaboratively 
+
+by [nicholas](../profile/nicholas)
+
+March 02, 2015 14:17 | Tags: [publication](../tag/publication), [research-notes](../tag/research-notes), [workflows](../tag/workflows)
 
 This page is all about finding new (and old) collaborative means to publish the scientific research done by the public lab community.  This page will most likely include several discussions including research note workflows, reproducibility, what is publishing and where to publish research etc.... This page can also serve as a resource for the tools and findings about open publications.
 

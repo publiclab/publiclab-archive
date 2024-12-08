@@ -1,12 +1,18 @@
 ---
-nid: 27567
 title: Presenting Environmental Data
-path: public/static/wiki/presenting-data.md
+tagnames: method, environmental-data, data-visualization, presenting-data, air-quality-data
+author: bhamster
+path: /wiki/presenting-data.md
+nid: 27567
 uid: 664477
-tagnames: method,environmental-data,data-visualization,presenting-data,air-quality-data
+
 ---
 
 # Presenting Environmental Data
+
+by [bhamster](../profile/bhamster), [laurel_mire](../profile/laurel_mire)
+
+August 16, 2021 20:37 | Tags: [method](../tag/method), [environmental-data](../tag/environmental-data), [data-visualization](../tag/data-visualization), [presenting-data](../tag/presenting-data), [air-quality-data](../tag/air-quality-data)
 
 What can we do with environmental data to understand it and communicate with it? 
 

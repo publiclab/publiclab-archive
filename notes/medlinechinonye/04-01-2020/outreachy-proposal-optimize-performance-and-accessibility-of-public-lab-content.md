@@ -1,12 +1,18 @@
 ---
-nid: 23271
 title: Outreachy proposal: Optimize Performance and Accessibility of Public Lab Content.
-path: public/static/notes/medlinechinonye/04-01-2020/outreachy-proposal-optimize-performance-and-accessibility-of-public-lab-content.md
+tagnames: software, soc, outreachy, first-time-poster, zoom:6, soc-2020, outreachy-2020, outreachy-2020-proposals, response:23084, lat:5.52851, lon:7.492675
+author: medlinechinonye
+path: /notes/medlinechinonye/04-01-2020/outreachy-proposal-optimize-performance-and-accessibility-of-public-lab-content.md
+nid: 23271
 uid: 678573
-tagnames: software,soc,outreachy,first-time-poster,zoom:6,soc-2020,outreachy-2020,outreachy-2020-proposals,response:23084,lat:5.52851,lon:7.492675
+
 ---
 
 # Outreachy proposal: Optimize Performance and Accessibility of Public Lab Content.
+
+by [medlinechinonye](../profile/medlinechinonye) April 01, 2020 02:40
+
+April 01, 2020 02:40 | Tags: [software](../tag/software), [soc](../tag/soc), [outreachy](../tag/outreachy), [first-time-poster](../tag/first-time-poster), [zoom:6](../tag/zoom:6), [soc-2020](../tag/soc-2020), [outreachy-2020](../tag/outreachy-2020), [outreachy-2020-proposals](../tag/outreachy-2020-proposals), [response:23084](../tag/response:23084), [lat:5.52851](../tag/lat:5.52851), [lon:7.492675](../tag/lon:7.492675)
 
 # **About me**
 

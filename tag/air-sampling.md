@@ -1,6 +1,6 @@
 # air-sampling
 
-32 notes and wiki pages
+32 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Sampling](/wiki/sampling) (wiki)
 - [What methods are available for doing air grab samples for hydrogen sulfide?](/notes/stevie/10-10-2017/what-methods-are-available-for-doing-air-grab-samples-for-hydrogen-sulfide) by [stevie](../profile/stevie)
@@ -15,7 +15,6 @@
 - [What is EPA Method TO-15?](/notes/kgradow1/08-01-2020/what-is-epa-method-to-15) by [kgradow1](../profile/kgradow1)
 - [A Short List of Community Air Guides](/notes/kgradow1/09-09-2020/a-short-list-of-community-air-guides) by [kgradow1](../profile/kgradow1)
 - [For the Bucket Monitor, how many tedlar bags do you need per-sampling?](/notes/mimiss/09-16-2020/for-the-bucket-monitor-how-many-tedlar-bags-do-you-need-per-sampling) by [mimiss](../profile/mimiss)
-- [The best eye specialist in Karachi](/notes/alkhaleejclinics/09-18-2020/the-best-eye-specialist-in-karachi) by [alkhaleejclinics](../profile/alkhaleejclinics)
 - [How to host a community meeting](/notes/kgradow1/09-26-2020/host-a-community-meeting-to-discuss-your-air-sampling-goals) by [kgradow1](../profile/kgradow1)
 - [Statistics for Action Air Quality Guide](/notes/kgradow1/10-30-2020/statistics-for-action-air-quality-guide) by [kgradow1](../profile/kgradow1)
 - [How to Build a Bucket Air Monitor](/notes/kgradow1/11-08-2020/how-to-build-a-bucket-air-monitor) by [kgradow1](../profile/kgradow1)

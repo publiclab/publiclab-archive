@@ -1,12 +1,18 @@
 ---
-nid: 17294
 title: Public Lab Basics
-path: public/static/wiki/basics.md
+tagnames: community, faq, getting-started, style:minimal, questions, basics, parent:welcome
+author: warren
+path: /wiki/basics.md
+nid: 17294
 uid: 1
-tagnames: community,faq,getting-started,style:minimal,questions,basics,parent:welcome
+
 ---
 
 # Public Lab Basics
+
+by [bhamster](../profile/bhamster), [warren](../profile/warren)
+
+October 15, 2018 03:22 | Tags: [community](../tag/community), [faq](../tag/faq), [getting-started](../tag/getting-started), [style:minimal](../tag/style:minimal), [questions](../tag/questions), [basics](../tag/basics), [parent:welcome](../tag/parent:welcome)
 
 Hello and welcome to Public Lab! 🎈 We hear these questions a lot, so we wanted to collect them together on one page!
 

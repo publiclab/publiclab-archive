@@ -1,12 +1,18 @@
 ---
-nid: 12767
 title: Question: RE: Desktop Spectrometry Kit
-path: public/static/notes/Airship7/03-02-2016/question-re-desktop-spectrometry-kit.md
-uid: 468156
 tagnames: question:spectrometry
+author: Airship7
+path: /notes/Airship7/03-02-2016/question-re-desktop-spectrometry-kit.md
+nid: 12767
+uid: 468156
+
 ---
 
 # Question: RE: Desktop Spectrometry Kit
+
+by [Airship7](../profile/Airship7) March 02, 2016 20:27
+
+March 02, 2016 20:27 | Tags: [question:spectrometry](../tag/question:spectrometry)
 
 ###What I want to do or know
 

@@ -1,6 +1,6 @@
 # gsoc
 
-305 notes and wiki pages
+305 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [GSOC 2012](/wiki/gsoc-2012) (wiki)
 - [SoC ideas](/wiki/gsoc-ideas) (wiki)
@@ -155,7 +155,6 @@
 - [GSoc Proposal: OAuth & Upgrade to Bootstrap 4](/notes/bansal_sidharth2996/02-20-2018/gsoc-proposal-oauth-authentication) by [bansal_sidharth2996](../profile/bansal_sidharth2996)
 - [GSoC proposal: v2 API development | Grape | Swagger Specification](/notes/Raounak/02-21-2018/gsoc-proposal-v2-api-development) by [Raounak](../profile/Raounak)
 - [RGSoC: v2 API development](/notes/milaaraujo/02-23-2018/rgsoc-v2-api-development) by [milaaraujo](../profile/milaaraujo)
-- [SoC proposal: Pollution analysis on map ](/notes/sid2111995/02-25-2018/soc-proposal-pollution-analysis-on-map) by [sid2111995](../profile/sid2111995)
 - [SoC proposal: Pollution analysis on google maps](/notes/sid2111995/02-25-2018/soc-proposal-pollution-analysis-on-google-maps) by [sid2111995](../profile/sid2111995)
 - [GSoC proposal: Upgrade to Rails 5](/notes/souravirus/02-25-2018/gsoc-proposal-upgrade-to-rails-5) by [souravirus](../profile/souravirus)
 - [RGSoC proposal: Upgrade to Rails 5 ](/notes/cess/02-27-2018/rgsoc-proposal-upgrade-to-rails-5-email-integration) by [cess](../profile/cess)
@@ -166,7 +165,6 @@
 - [GSoC proposal: v2 API development](/notes/rishabh07/03-04-2018/gsoc-proposal-v2-api-development) by [rishabh07](../profile/rishabh07)
 - [GSoC proposal: Card UI/UX Implementation v2 & Bootstrap 4 Upgradation](/notes/amitsin6h/03-04-2018/gsoc-proposal-card-ui-ux-implementation-v2) by [amitsin6h](../profile/amitsin6h)
 - [SoC proposal:RGSOC PROPOSAL: Upgrade to Rails 5.1.5 ](/notes/stella/03-14-2018/soc-proposal-rgsoc-proposal-upgrade-to-rails-5-1-5) by [stella](../profile/stella)
-- [Data Science Training In Pune](/notes/DataScience/03-19-2018/data-science-training-in-pune) by [DataScience](../profile/DataScience)
 - [GSoC proposal: Computer Vision enhancements for Raspberry Pi based Public Lab Science Projects](/notes/MaggPi/03-20-2018/gsoc-proposal-computer-vision-enhancements-for-raspberry-pi-based-public-lab-science-projects) by [MaggPi](../profile/MaggPi)
 - [Raspberry Pi Microscope/close up lens system](/notes/MaggPi/04-08-2018/raspberry-pi-microscope-close-up-lens-system) by [MaggPi](../profile/MaggPi)
 - [Announcing 10 Summer of Code projects for 2018](/notes/warren/04-23-2018/announcing-9-google-summer-of-code-projects-for-2018) by [warren](../profile/warren)
@@ -195,7 +193,6 @@
 - [SoC MeetUp at DTU](/notes/bansal_sidharth2996/09-12-2018/soc-meetup-at-dtu) by [bansal_sidharth2996](../profile/bansal_sidharth2996)
 - [Reply-by-email: a new way to use PublicLab.org](/notes/warren/10-04-2018/reply-by-email-a-new-way-to-use-publiclab-org) by [warren](../profile/warren)
 - [Public Lab Code Community Report: Jan 2019](/notes/warren/01-02-2019/public-lab-code-community-report-jan-2019) by [warren](../profile/warren)
-- [Skoda kodiaq ](/notes/skoda_kodiaq/01-02-2019/skoda-kodiaq) by [skoda_kodiaq](../profile/skoda_kodiaq)
 - [Brainstorming for Summer of Code 2019](/notes/warren/01-02-2019/brainstorming-for-summer-of-code-2019) by [warren](../profile/warren)
 - [Call for Summer of Code 2019 mentors!](/notes/warren/01-09-2019/call-for-summer-of-code-2019-mentors) by [warren](../profile/warren)
 - [Call for Summer of Code 2019 proposals!](/notes/warren/02-28-2019/call-for-summer-of-code-2019-proposals) by [warren](../profile/warren)
@@ -224,7 +221,6 @@
 - [SoC proposal: Improving UI and Structure of Leaflet Environmental Layers](/notes/rkpattnaik780/04-05-2019/soc-proposal-improving-ui-and-structure-of-leaflet-environmental-layers) by [rkpattnaik780](../profile/rkpattnaik780)
 - [GSoC proposal: Mapknitter Image Management and Synchronous Editing](/notes/igniteeng000/04-06-2019/gsoc-proposal-mapknitter-image-management) by [igniteeng000](../profile/igniteeng000)
 - [SoC proposal: PublicLab.Editor](/notes/f20171066/04-05-2019/soc-proposal-publiclab-editor) by [f20171066](../profile/f20171066)
-- [SoC proposal: MapKnitter Synchronous Editing.](/notes/juliusmeldrin/04-06-2019/soc-proposal-mapknitter-synchronous-editing) by [juliusmeldrin](../profile/juliusmeldrin)
 - [GSoC proposal: Mapknitter Image Management and Synchronous Editing](/notes/divyabaid16/04-06-2019/gsoc-proposal-mapknitter-image-management-and-synchronous-editing) by [divyabaid16](../profile/divyabaid16)
 - [GSoC proposal: Mapknitter Upgrade to Rails 6](/notes/singhav/04-07-2019/gsoc-proposal-mapknitter-upgrade-to-rails-6) by [singhav](../profile/singhav)
 - [SoC proposal: Image Sequencer](/notes/lohithabhagam123/04-09-2019/soc-proposal-image-sequencer) by [lohithabhagam123](../profile/lohithabhagam123)
@@ -235,7 +231,6 @@
 - [GSoD Ideas](/wiki/gsod-ideas) (wiki)
 - [GSoD : System diagram and Roadmap for Plots2](/notes/bansal_sidharth2996/04-22-2019/gsod-system-diagram-and-roadmap-for-plots2) by [bansal_sidharth2996](../profile/bansal_sidharth2996)
 - [A big WELCOME to our Outreachy/GSoC team for 2019!](/notes/warren/05-06-2019/a-big-welcome-to-our-outreachy-gsoc-team-for-2019) by [warren](../profile/warren)
-- [MapKnitter: Community Atlas project](/notes/warren/05-09-2019/mapknitter-community-atlas-project) by [warren](../profile/warren)
 - [Introducing the MapKnitter: Community Atlas project](/notes/warren/05-28-2019/introducing-the-mapknitter-community-atlas-project) by [warren](../profile/warren)
 - [Google Summer of Code @ Public Lab: 1st and 2nd Week](/notes/rexagod/06-22-2019/google-summer-of-code-public-lab-1st-and-2nd-week) by [rexagod](../profile/rexagod)
 - [Google Summer of Code @ Public Lab: 3rd and 4th Week](/notes/rexagod/06-22-2019/google-summer-of-code-public-lab-3rd-and-4th-week) by [rexagod](../profile/rexagod)
@@ -268,7 +263,6 @@
 - [Google Summer of Code 2019 - Final Work Product - Isha Gupta](/notes/IshaGupta18/08-26-2019/google-summer-of-code-2019-final-work-product-isha-gupta) by [IshaGupta18](../profile/IshaGupta18)
 - [Google Summer of Code 2019: Work Product](/notes/namangupta/08-26-2019/google-summer-of-code-2019-work-product) by [namangupta](../profile/namangupta)
 - [Congratulations to our 2019 Outreachy and Google Summer of Code team!](/notes/warren/09-05-2019/congratulations-to-our-2019-outreachy-and-google-summer-of-code-team) by [warren](../profile/warren)
-- [PublicLab: Call for Outreachy and GSOC proposals 2020](/notes/cess/02-24-2020/publiclab-call-for-outreachy-and-gsoc-proposals-2020) by [cess](../profile/cess)
 - [Call for 2020 GSoC proposals](/notes/cess/03-02-2020/call-for-2020-soc-proposals-gsoc-and-outreachy) by [cess](../profile/cess)
 - [GSoC 2020 proposal: Spam Management Dashboard](/notes/keshav_sethi0004/03-12-2020/gsoc-2020-proposal-spam-management-dashboard) by [keshav_sethi0004](../profile/keshav_sethi0004)
 - [GSOC Proposal : Printability of posts and wiki pages](/notes/rbothra77/03-15-2020/gsoc-proposal-printability-of-posts-and-wiki-pages) by [rbothra77](../profile/rbothra77)

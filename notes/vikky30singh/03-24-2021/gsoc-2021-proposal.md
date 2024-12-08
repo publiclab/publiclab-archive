@@ -1,12 +1,18 @@
 ---
-nid: 26020
 title: GSOC 2021 Proposal.
-path: public/static/notes/vikky30singh/03-24-2021/gsoc-2021-proposal.md
+tagnames: first-time-poster, gsoc-2021-proposals
+author: vikky30singh
+path: /notes/vikky30singh/03-24-2021/gsoc-2021-proposal.md
+nid: 26020
 uid: 746074
-tagnames: first-time-poster,gsoc-2021-proposals
+
 ---
 
 # GSOC 2021 Proposal.
+
+by [vikky30singh](../profile/vikky30singh) March 24, 2021 20:30
+
+March 24, 2021 20:30 | Tags: [first-time-poster](../tag/first-time-poster), [gsoc-2021-proposals](../tag/gsoc-2021-proposals)
 
 ## About me
 

@@ -1,6 +1,6 @@
 # balloon-telemetry-kit
 
-7 notes and wiki pages
+7 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Balloon Telemetry Kit](/wiki/balloon-telemetry-kit) (wiki)
 - [3-camera housing photos and test KAP session](/notes/patcoyle/3-31-2012/3-camera-housing-photos-and-test-kap-session) by [patcoyle](../profile/patcoyle)

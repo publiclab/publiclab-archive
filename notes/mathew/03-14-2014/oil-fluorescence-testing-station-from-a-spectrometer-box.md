@@ -1,12 +1,18 @@
 ---
-nid: 10170
 title: Oil Fluorescence Testing station from a spectrometer box
-path: public/static/notes/mathew/03-14-2014/oil-fluorescence-testing-station-from-a-spectrometer-box.md
+tagnames: spectrometer, oil-testing-kit
+author: mathew
+path: /notes/mathew/03-14-2014/oil-fluorescence-testing-station-from-a-spectrometer-box.md
+nid: 10170
 uid: 4
-tagnames: spectrometer,oil-testing-kit
+
 ---
 
 # Oil Fluorescence Testing station from a spectrometer box
+
+by [mathew](../profile/mathew) March 14, 2014 01:06
+
+March 14, 2014 01:06 | Tags: [spectrometer](../tag/spectrometer), [oil-testing-kit](../tag/oil-testing-kit)
 
 Download the cut pattern as a pdf: <a href="https://i.publiclab.org/system/images/photos/000/003/272/original/cutpattern.pdf"><i class="icon icon-file"></i> cutpattern.pdf</a>
 

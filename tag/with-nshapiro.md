@@ -1,6 +1,6 @@
 # with-nshapiro
 
-6 notes and wiki pages
+6 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [DIY Formaldehyde Test Photo Card](/notes/warren/03-30-2015/diy-formaldehyde-test-photo-card) by [warren](../profile/warren)
 - [Formaldehyde Measurement: testing Public Lab's kit with DOH's equipment](/notes/gretchengehrke/10-07-2015/formaldehyde-measurement-testing-public-lab-s-kit-with-doh-s-equipment) by [gretchengehrke](../profile/gretchengehrke)

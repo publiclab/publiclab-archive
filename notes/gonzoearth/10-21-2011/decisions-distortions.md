@@ -1,12 +1,18 @@
 ---
-nid: 514
 title: Video tutorial: Decisions With Distortions
-path: public/static/notes/gonzoearth/10-21-2011/decisions-distortions.md
-uid: 12
 tagnames: 
+author: gonzoearth
+path: /notes/gonzoearth/10-21-2011/decisions-distortions.md
+nid: 514
+uid: 12
+
 ---
 
 # Video tutorial: Decisions With Distortions
+
+by [gonzoearth](../profile/gonzoearth) October 21, 2011 05:26
+
+October 21, 2011 05:26 | Tags: 
 
 A look inside the process of using distorted aerial data in map production (9 min) 
 

@@ -1,10 +1,16 @@
 ---
-nid: 581
 title: spectral workbenc
-path: public/static/wiki/spectral-workbenc.md
-uid: 361
 tagnames: 
+author: spectra
+path: /wiki/spectral-workbenc.md
+nid: 581
+uid: 361
+
 ---
 
 # spectral workbenc
+
+by [spectra](../profile/spectra)
+
+November 24, 2011 04:20 | Tags: 
 

@@ -1,6 +1,6 @@
 # pendulum-rig
 
-6 notes and wiki pages
+6 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Mobius](/wiki/mobius) (wiki)
 - [Rollup of mobius pendulum kit ideas](/notes/tonyc/01-27-2016/rollup-of-mobius-pendulum-kit-ideas) by [tonyc](../profile/tonyc)

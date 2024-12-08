@@ -1,12 +1,18 @@
 ---
-nid: 11631
 title: My Reflection on Sensor Journalism 
-path: public/static/notes/jessica_colarossi/02-23-2015/my-reflection-on-sensor-journalism.md
-uid: 435609
 tagnames: sensor-journalism
+author: jessica_colarossi
+path: /notes/jessica_colarossi/02-23-2015/my-reflection-on-sensor-journalism.md
+nid: 11631
+uid: 435609
+
 ---
 
 # My Reflection on Sensor Journalism 
+
+by [jessica_colarossi](../profile/jessica_colarossi) February 23, 2015 21:43
+
+February 23, 2015 21:43 | Tags: [sensor-journalism](../tag/sensor-journalism)
 
 By, Jessica Colarossi
 Data Visualization Class, Professor Catherine D’Ignazio 

@@ -1,12 +1,18 @@
 ---
-nid: 11323
 title: DIY Indoor Air Remediation Kit
-path: public/static/wiki/diy-indoor-air-quality-remediation-kit.md
+tagnames: remediation, air-quality, tool, formaldehyde, wherewebreathe, filters, first, parent:indoor-air-quality-monitoring, indoor-air, pick, current, method, chemicals, air-filters, questions:indoor-air-remediation, activities:indoor-air-remediation
+author: scoops
+path: /wiki/diy-indoor-air-quality-remediation-kit.md
+nid: 11323
 uid: 431134
-tagnames: remediation,air-quality,tool,formaldehyde,wherewebreathe,filters,first,parent:indoor-air-quality-monitoring,indoor-air,pick,current,method,chemicals,air-filters,questions:indoor-air-remediation,activities:indoor-air-remediation
+
 ---
 
 # DIY Indoor Air Remediation Kit
+
+by [liz](../profile/liz), [nshapiro](../profile/nshapiro), [warren](../profile/warren), [mathew](../profile/mathew), [scoops](../profile/scoops)
+
+November 07, 2014 21:01 | Tags: [remediation](../tag/remediation), [air-quality](../tag/air-quality), [tool](../tag/tool), [formaldehyde](../tag/formaldehyde), [wherewebreathe](../tag/wherewebreathe), [filters](../tag/filters), [first](../tag/first), [parent:indoor-air-quality-monitoring](../tag/parent:indoor-air-quality-monitoring), [indoor-air](../tag/indoor-air), [pick](../tag/pick), [current](../tag/current), [method](../tag/method), [chemicals](../tag/chemicals), [air-filters](../tag/air-filters), [questions:indoor-air-remediation](../tag/questions:indoor-air-remediation), [activities:indoor-air-remediation](../tag/activities:indoor-air-remediation)
 
 The **rhyzo-remediatior**, bubbles air through plant roots growing in water and rocks, to try to improve indoor air quality. It's an evolving Do-It-Yourself design using commonly available plants and an aquarium pump.
 

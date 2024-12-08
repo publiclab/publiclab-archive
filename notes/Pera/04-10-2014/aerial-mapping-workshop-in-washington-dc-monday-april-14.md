@@ -1,12 +1,18 @@
 ---
-nid: 10290
 title: Aerial mapping workshop in Washington DC - Monday, April 14!
-path: public/static/notes/Pera/04-10-2014/aerial-mapping-workshop-in-washington-dc-monday-april-14.md
+tagnames: dc-baltimore, first-time-poster
+author: Pera
+path: /notes/Pera/04-10-2014/aerial-mapping-workshop-in-washington-dc-monday-april-14.md
+nid: 10290
 uid: 279527
-tagnames: dc-baltimore,first-time-poster
+
 ---
 
 # Aerial mapping workshop in Washington DC - Monday, April 14!
+
+by [Pera](../profile/Pera) April 10, 2014 15:01
+
+April 10, 2014 15:01 | Tags: [dc-baltimore](../tag/dc-baltimore), [first-time-poster](../tag/first-time-poster)
 
 Aerial mapping and imagery workshop for State of the Map Sprint Day  
 Monday, April 14 9am - 4pm in Washington, DC

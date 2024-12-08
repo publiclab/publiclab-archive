@@ -1,12 +1,18 @@
 ---
-nid: 31003
 title: Rising PM 2.5 in St James
-path: public/static/notes/tylerknight/06-01-2022/rising-pm-2-5-in-st-james.md
+tagnames: gulf-coast, air-quality, pm, particulatematter, particulate-matter, purpleair, st-james, formosaplastics
+author: tylerknight
+path: /notes/tylerknight/06-01-2022/rising-pm-2-5-in-st-james.md
+nid: 31003
 uid: 777566
-tagnames: gulf-coast,air-quality,pm,particulatematter,particulate-matter,purpleair,st-james,formosaplastics
+
 ---
 
 # Rising PM 2.5 in St James
+
+by [tylerknight](../profile/tylerknight) June 01, 2022 20:52
+
+June 01, 2022 20:52 | Tags: [gulf-coast](../tag/gulf-coast), [air-quality](../tag/air-quality), [pm](../tag/pm), [particulatematter](../tag/particulatematter), [particulate-matter](../tag/particulate-matter), [purpleair](../tag/purpleair), [st-james](../tag/st-james), [formosaplastics](../tag/formosaplastics)
 
 Another month of data, another month observing high PM 2.5 events in St James Parish.
 

@@ -1,6 +1,6 @@
 # media
 
-29 notes and wiki pages
+29 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Media](/media) (wiki)
 - [OnEarth magazine: Citizen Science : Radiation Monitoring meets Grassroots Mapping with RDTN.org](/notes/warren/4-20-2011/onearth-magazine-citizen-science-radiation-monitoring-meets-grassroots-mappin) by [warren](../profile/warren)
@@ -15,19 +15,7 @@
 - [spectrometer-media](/wiki/spectrometer-media) (wiki)
 - [Infragram featured in April's issue of Wired](/notes/warren/04-15-2014/infragram-featured-in-april-s-issue-of-wired) by [warren](../profile/warren)
 - [Public Laboratory on RAI TV's Ubiq](/notes/btbonval/05-15-2014/public-laboratory-on-rai-tv-s-ubiq) by [btbonval](../profile/btbonval)
-- [How Social Media Optimization is different for each site? ](/notes/sonamjanjoa/08-31-2014/how-social-media-optimization-is-different-for-each-site) by [sonamjanjoa](../profile/sonamjanjoa)
 - [Odyssey magazine piece on Balloon Mapping](/notes/warren/09-03-2014/odyssey-magazine-piece-on-balloon-mapping) by [warren](../profile/warren)
 - [Public Lab featured in White House Citizen Science announcements](/notes/liz/03-23-2015/public-lab-featured-in-white-house-citizen-science-announcements) by [liz](../profile/liz)
 - [Creating a Media Campaign](/wiki/creating-a-media-campaign) (wiki)
-- [Why Buying Instagram Followers?](/notes/VerniceCrum/10-24-2017/why-buying-instagram-followers) by [VerniceCrum](../profile/VerniceCrum)
-- [UFC 223: Khabib vs. Iaquinta live Fight on Livestream](/notes/ufc223fox/04-07-2018/ufc-223-khabib-vs-iaquinta-live-fight-on-livestream) by [ufc223fox](../profile/ufc223fox)
-- [Creating a media campaign for casino](/notes/Alovend/06-19-2018/creating-a-media-campaign-for-casino) by [Alovend](../profile/Alovend)
-- [Digital Marketing in guwahati](/notes/digitalpacemaker/03-28-2019/digital-marketing-in-guwahati) by [digitalpacemaker](../profile/digitalpacemaker)
 - [Make: Magazine](/wiki/make) (wiki)
-- [Pengaruh Media Sosial Dalam Kehidupan](/notes/randicahyanto/11-03-2019/pengaruh-media-sosial-dalam-kehidupan) by [randicahyanto](../profile/randicahyanto)
-- [Digital Marketing Premium Agency](/notes/digitalmarketingpremium/02-17-2020/digital-marketing-premium-agency) by [digitalmarketingpremium](../profile/digitalmarketingpremium)
-- [Social Media Profiles Making](/notes/generatestatus/04-16-2020/social-media-profiles-making) by [generatestatus](../profile/generatestatus)
-- [socialpushers](/notes/socialpushersSS/09-28-2020/socialpushers) by [socialpushersSS](../profile/socialpushersSS)
-- [Find the right electric fireplace for the facility](/notes/Masterfireplaces/09-29-2020/find-the-right-electric-fireplace-for-the-facility) by [Masterfireplaces](../profile/Masterfireplaces)
-- [Social Media Marketing](/notes/WebSonex/11-12-2020/social-media-marketing) by [WebSonex](../profile/WebSonex)
-- [Social Media Platforms That Use AI Support](/notes/algseabiz/08-12-2022/social-media-platforms-that-use-ai-support) by [algseabiz](../profile/algseabiz)

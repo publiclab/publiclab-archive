@@ -1,12 +1,18 @@
 ---
-nid: 628
 title: Recap on FarmHack NH 2011
-path: public/static/notes/rjstatic/12-12-2011/recap-farmhack-nh-2011.md
+tagnames: farmhack, agriculture, farm, first-time-poster
+author: rjstatic
+path: /12-12-2011/recap-farmhack-nh-2011.md
+nid: 628
 uid: 174
-tagnames: farmhack,agriculture,farm,first-time-poster
+
 ---
 
 # Recap on FarmHack NH 2011
+
+by [rjstatic](../profile/rjstatic) December 12, 2011 23:06
+
+December 12, 2011 23:06 | Tags: [farmhack](../tag/farmhack), [agriculture](../tag/agriculture), [farm](../tag/farm), [first-time-poster](../tag/first-time-poster)
 
 (This is cross posted from my blog, with a little delay.  We have since applied for the grant mentioned and I have become involved in helping the Farm Hack community figure out what they want to do for a documentation site.  A questionnaire I'm building to help with that -> http://substance.io/rjstatic/we-believe-in-sharing/2)
 

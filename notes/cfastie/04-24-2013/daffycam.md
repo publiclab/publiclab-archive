@@ -1,12 +1,18 @@
 ---
-nid: 7031
 title: DaffyCam
-path: public/static/notes/cfastie/04-24-2013/daffycam.md
+tagnames: near-infrared-camera, ndvi, vermont, infrared, imagej, infragram, plant-health, timelapse, superblue, vegetation, infrablue, activity:timelapse
+author: cfastie
+path: /notes/cfastie/04-24-2013/daffycam.md
+nid: 7031
 uid: 554
-tagnames: near-infrared-camera,ndvi,vermont,infrared,imagej,infragram,plant-health,timelapse,superblue,vegetation,infrablue,activity:timelapse
+
 ---
 
 # DaffyCam
+
+by [cfastie](../profile/cfastie) April 24, 2013 16:45
+
+April 24, 2013 16:45 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [vermont](../tag/vermont), [infrared](../tag/infrared), [imagej](../tag/imagej), [infragram](../tag/infragram), [plant-health](../tag/plant-health), [timelapse](../tag/timelapse), [superblue](../tag/superblue), [vegetation](../tag/vegetation), [infrablue](../tag/infrablue), [activity:timelapse](../tag/activity:timelapse)
 
 <em>Image above: Some of my favorite things are best done on windy days, but timelapse photography is not one of them. To eliminate the shadows of tree branches, I shaded the daffodil with reemay (spunbond polyester fabric) which fortunately responded like a flag instead of a sail.</em>
 

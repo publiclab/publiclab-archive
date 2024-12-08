@@ -1,12 +1,18 @@
 ---
-nid: 4927
 title: Barnraising: Ethics of Practice
-path: public/static/notes/mathew/11-15-2012/barnraising-ethics-practice.md
+tagnames: barnraising, barnraising2012, ethics, excites
+author: mathew
+path: /notes/mathew/11-15-2012/barnraising-ethics-practice.md
+nid: 4927
 uid: 4
-tagnames: barnraising,barnraising2012,ethics,excites
+
 ---
 
 # Barnraising: Ethics of Practice
+
+by [mathew](../profile/mathew) November 16, 2012 04:23
+
+November 16, 2012 04:23 | Tags: [barnraising](../tag/barnraising), [barnraising2012](../tag/barnraising2012), [ethics](../tag/ethics), [excites](../tag/excites)
 
 These are fairly sporadic notes, I apologize.
 

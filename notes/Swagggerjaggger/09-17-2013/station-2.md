@@ -1,12 +1,18 @@
 ---
-nid: 9340
 title: Station 2
-path: public/static/notes/Swagggerjaggger/09-17-2013/station-2.md
-uid: 258401
 tagnames: 
+author: Swagggerjaggger
+path: /notes/Swagggerjaggger/09-17-2013/station-2.md
+nid: 9340
+uid: 258401
+
 ---
 
 # Station 2
+
+by [Swagggerjaggger](../profile/Swagggerjaggger) September 17, 2013 22:00
+
+September 17, 2013 22:00 | Tags: 
 
 ##What I want to do
 

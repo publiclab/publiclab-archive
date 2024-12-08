@@ -1,12 +1,18 @@
 ---
-nid: 23879
 title: Black Lives Matter.
-path: public/static/notes/joyofsoy/06-18-2020/black-lives-matter.md
-uid: 540844
 tagnames: blog
+author: joyofsoy
+path: /notes/joyofsoy/06-18-2020/black-lives-matter.md
+nid: 23879
+uid: 540844
+
 ---
 
 # Black Lives Matter.
+
+by [joyofsoy](../profile/joyofsoy) June 18, 2020 20:20
+
+June 18, 2020 20:20 | Tags: [blog](../tag/blog)
 
 *Note: this statement was previously shared in our monthly newsletter* 
 

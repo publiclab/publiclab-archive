@@ -1,12 +1,18 @@
 ---
-nid: 17178
 title: Software Freedom Day in NIT Hamirpur
-path: public/static/notes/souravirus/09-26-2018/software-freedom-day-in-nit-hamirpur.md
+tagnames: event, foss, india, barnstar:excessive-enthusiasm, soc, location:blurred, hamirpur, lat:31.7, lon:76.52, place:nit-hamirpur
+author: souravirus
+path: /notes/souravirus/09-26-2018/software-freedom-day-in-nit-hamirpur.md
+nid: 17178
 uid: 524509
-tagnames: event,foss,india,barnstar:excessive-enthusiasm,soc,location:blurred,hamirpur,lat:31.7,lon:76.52,place:nit-hamirpur
+
 ---
 
 # Software Freedom Day in NIT Hamirpur
+
+by [souravirus](../profile/souravirus) September 26, 2018 13:43
+
+September 26, 2018 13:43 | Tags: [event](../tag/event), [foss](../tag/foss), [india](../tag/india), [barnstar:excessive-enthusiasm](../tag/barnstar:excessive-enthusiasm), [soc](../tag/soc), [location:blurred](../tag/location:blurred), [hamirpur](../tag/hamirpur), [lat:31.7](../tag/lat:31.7), [lon:76.52](../tag/lon:76.52), [place:nit-hamirpur](../tag/place:nit-hamirpur)
 
 # Software freedom day
 

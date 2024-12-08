@@ -1,12 +1,18 @@
 ---
-nid: 4471
 title: Prototype Raspberry Pi-based dual IR cam
-path: public/static/notes/warren/10-17-2012/prototype-raspberry-pi-based-dual-ir-cam.md
+tagnames: near-infrared-camera, nrg, ndvi, raspberry-pi, ircam
+author: warren
+path: /notes/warren/10-17-2012/prototype-raspberry-pi-based-dual-ir-cam.md
+nid: 4471
 uid: 1
-tagnames: near-infrared-camera,nrg,ndvi,raspberry-pi,ircam
+
 ---
 
 # Prototype Raspberry Pi-based dual IR cam
+
+by [warren](../profile/warren) October 17, 2012 20:35
+
+October 17, 2012 20:35 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [nrg](../tag/nrg), [ndvi](../tag/ndvi), [raspberry-pi](../tag/raspberry-pi), [ircam](../tag/ircam)
 
 Working on this prototype for the upcoming Barnraising -- i want to have a point-and-shoot IR-VIS camera which is light and can be sent up on a balloon, and which auto-composites image pairs. More progress soon, I'm starting to collect code here: 
 

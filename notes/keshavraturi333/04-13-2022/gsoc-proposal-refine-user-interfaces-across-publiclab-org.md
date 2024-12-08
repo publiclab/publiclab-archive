@@ -1,12 +1,18 @@
 ---
-nid: 30354
 title: GSoC"22 Proposal: Refine User Interfaces across PublicLab.org 
-path: public/static/notes/keshavraturi333/04-13-2022/gsoc-proposal-refine-user-interfaces-across-publiclab-org.md
+tagnames: software, gsoc, soc, first-time-poster, lon:76, lat:28.704059, lon:77.10249, zoom:6, lat:27, gsoc-2022, gsoc-2022-proposals
+author: keshavraturi333
+path: /notes/keshavraturi333/04-13-2022/gsoc-proposal-refine-user-interfaces-across-publiclab-org.md
+nid: 30354
 uid: 794628
-tagnames: software,gsoc,soc,first-time-poster,lon:76,lat:28.704059,lon:77.10249,zoom:6,lat:27,gsoc-2022,gsoc-2022-proposals
+
 ---
 
 # GSoC"22 Proposal: Refine User Interfaces across PublicLab.org 
+
+by [keshavraturi333](../profile/keshavraturi333) April 13, 2022 16:30
+
+April 13, 2022 16:30 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [soc](../tag/soc), [first-time-poster](../tag/first-time-poster), [lon:76](../tag/lon:76), [lat:28.704059](../tag/lat:28.704059), [lon:77.10249](../tag/lon:77.10249), [zoom:6](../tag/zoom:6), [lat:27](../tag/lat:27), [gsoc-2022](../tag/gsoc-2022), [gsoc-2022-proposals](../tag/gsoc-2022-proposals)
 
 ## About me
 

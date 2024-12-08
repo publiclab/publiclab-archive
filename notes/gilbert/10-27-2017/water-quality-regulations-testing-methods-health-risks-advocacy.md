@@ -1,12 +1,18 @@
 ---
-nid: 15122
 title: Water Quality Regulations, Testing Methods, Health Risks & Advocacy
-path: public/static/notes/gilbert/10-27-2017/water-quality-regulations-testing-methods-health-risks-advocacy.md
+tagnames: public-health, water-quality, regulations, with:warren, advocacy, water-testing, water-borne-diseases, enviornmental-regulation
+author: gilbert
+path: /notes/gilbert/10-27-2017/water-quality-regulations-testing-methods-health-risks-advocacy.md
+nid: 15122
 uid: 508551
-tagnames: public-health,water-quality,regulations,with:warren,advocacy,water-testing,water-borne-diseases,enviornmental-regulation
+
 ---
 
 # Water Quality Regulations, Testing Methods, Health Risks & Advocacy
+
+by [gilbert](../profile/gilbert) October 27, 2017 18:36
+
+October 27, 2017 18:36 | Tags: [public-health](../tag/public-health), [water-quality](../tag/water-quality), [regulations](../tag/regulations), [with:warren](../tag/with:warren), [advocacy](../tag/advocacy), [water-testing](../tag/water-testing), [water-borne-diseases](../tag/water-borne-diseases), [enviornmental-regulation](../tag/enviornmental-regulation)
 
 ![](https://lh6.googleusercontent.com/HfUlIUzOTPmJWnFZkKyj6sNxwBPjdNSzigqlre700SYxvKo3BLAoQ83BdBixKClgTcqbIpxCqIyNYW7xHYEo_1XKym00FJTl0nRwPFEiI0VDCPeZswF-Mnl35j4v3f5NmAMPljgm)
 

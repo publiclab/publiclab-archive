@@ -1,12 +1,18 @@
 ---
-nid: 21497
 title: Community Science: Drinking Water Quality
-path: public/static/notes/enviromicro/11-15-2019/community-science-drinking-water-quality.md
+tagnames: education, water-quality, drinking-water, first-time-poster
+author: enviromicro
+path: /notes/enviromicro/11-15-2019/community-science-drinking-water-quality.md
+nid: 21497
 uid: 637801
-tagnames: education,water-quality,drinking-water,first-time-poster
+
 ---
 
 # Community Science: Drinking Water Quality
+
+by [enviromicro](../profile/enviromicro) November 15, 2019 19:05
+
+November 15, 2019 19:05 | Tags: [education](../tag/education), [water-quality](../tag/water-quality), [drinking-water](../tag/drinking-water), [first-time-poster](../tag/first-time-poster)
 
 -><strong>A community science water quality educational session that took place in conjunction with the YLI program at the Desert Mirage high school on 11.05/19 in Mecca, CA. All methods were participatory and data was available to students immediately.</strong><-
 

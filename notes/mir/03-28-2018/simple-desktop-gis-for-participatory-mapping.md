@@ -1,12 +1,18 @@
 ---
-nid: 16033
 title: Simple desktop GIS for participatory mapping
-path: public/static/notes/mir/03-28-2018/simple-desktop-gis-for-participatory-mapping.md
+tagnames: central-america, panama, gis, answered, question:gis, qgis, mapeo
+author: mir
+path: /notes/mir/03-28-2018/simple-desktop-gis-for-participatory-mapping.md
+nid: 16033
 uid: 528162
-tagnames: central-america,panama,gis,answered,question:gis,qgis,mapeo
+
 ---
 
 # Simple desktop GIS for participatory mapping
+
+by [mir](../profile/mir) March 28, 2018 17:26
+
+March 28, 2018 17:26 | Tags: [central-america](../tag/central-america), [panama](../tag/panama), [gis](../tag/gis), [answered](../tag/answered), [question:gis](../tag/question:gis), [qgis](../tag/qgis), [mapeo](../tag/mapeo)
 
 We are working on a project with remote forest communities in Panama with the Almanaque Azul Foundation over there. We will be facilitating participatory mapping of their local forest reserves, and we will train local teams to keep collecting data and keeping their maps updated. So we will be testing Mapeo ([www.digital-democracy.org/mapeo/](http://www.digital-democracy.org/mapeo/)) for data collection and QGIS ([www.qgis.org](http://www.qgis.org)) as a general purpose desktop GIS application.
 

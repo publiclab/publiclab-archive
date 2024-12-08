@@ -1,12 +1,18 @@
 ---
-nid: 18500
 title: GSoC proposal: LEL 2.0 and work on Leaflet-Blurred projects .
-path: public/static/notes/sagarpreet/03-09-2019/gsoc-proposal-lel-2-0-and-work-on-leaflet-blurred-projects.md
+tagnames: software, gsoc, soc, response:13975, rgsoc-2019, gsoc-2019, soc-2019, soc-2019-proposals, response:18440, lat:28.599514, lon:77.053754
+author: sagarpreet
+path: /notes/sagarpreet/03-09-2019/gsoc-proposal-lel-2-0-and-work-on-leaflet-blurred-projects.md
+nid: 18500
 uid: 516343
-tagnames: software,gsoc,soc,response:13975,rgsoc-2019,gsoc-2019,soc-2019,soc-2019-proposals,response:18440,lat:28.599514,lon:77.053754
+
 ---
 
 # GSoC proposal: LEL 2.0 and work on Leaflet-Blurred projects .
+
+by [sagarpreet](../profile/sagarpreet) March 09, 2019 06:02
+
+March 09, 2019 06:02 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [soc](../tag/soc), [response:13975](../tag/response:13975), [rgsoc-2019](../tag/rgsoc-2019), [gsoc-2019](../tag/gsoc-2019), [soc-2019](../tag/soc-2019), [soc-2019-proposals](../tag/soc-2019-proposals), [response:18440](../tag/response:18440), [lat:28.599514](../tag/lat:28.599514), [lon:77.053754](../tag/lon:77.053754)
 
 ## About me
 

@@ -1,6 +1,6 @@
 # with-mimibell
 
-3 notes and wiki pages
+3 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [The Water Hackathon Report](/notes/stevie/12-01-2014/the-water-hackathon-report) by [stevie](../profile/stevie)
 - [Reflecting on the Depth Sensor Build](/notes/stevie/06-06-2016/reflecting-on-the-depth-sensor-build) by [stevie](../profile/stevie)

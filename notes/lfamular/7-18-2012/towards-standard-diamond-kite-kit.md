@@ -1,12 +1,18 @@
 ---
-nid: 2865
 title: Towards a standard diamond kite kit
-path: public/static/notes/lfamular/7-18-2012/towards-standard-diamond-kite-kit.md
+tagnames: kite-mapping, diy-kite, tyvek, diy-kites, kite-making, activity:tyvek, first-time-poster
+author: lfamular
+path: /notes/lfamular/7-18-2012/towards-standard-diamond-kite-kit.md
+nid: 2865
 uid: 120
-tagnames: kite-mapping,diy-kite,tyvek,diy-kites,kite-making,activity:tyvek,first-time-poster
+
 ---
 
 # Towards a standard diamond kite kit
+
+by [lfamular](../profile/lfamular) July 18, 2012 17:35
+
+July 18, 2012 17:35 | Tags: [kite-mapping](../tag/kite-mapping), [diy-kite](../tag/diy-kite), [tyvek](../tag/tyvek), [diy-kites](../tag/diy-kites), [kite-making](../tag/kite-making), [activity:tyvek](../tag/activity:tyvek), [first-time-poster](../tag/first-time-poster)
 
 Here are some ideas for making a standard diamond kite kit. The goal is a kite that beginners can build and fly without much frustration.
 

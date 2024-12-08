@@ -1,12 +1,18 @@
 ---
-nid: 11134
 title: staten-island-photos
-path: public/static/wiki/staten-island-photos.md
-uid: 7
 tagnames: 
+author: liz
+path: /wiki/staten-island-photos.md
+nid: 11134
+uid: 7
+
 ---
 
 # staten-island-photos
+
+by [troy](../profile/troy), [liz](../profile/liz)
+
+September 12, 2014 16:56 | Tags: 
 
 [![038.JPG](https://i.publiclab.org/system/images/photos/000/006/794/medium/038.JPG)](https://i.publiclab.org/system/images/photos/000/006/794/original/038.JPG)
 

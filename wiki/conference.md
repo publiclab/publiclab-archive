@@ -1,12 +1,18 @@
 ---
-nid: 7492
 title: conference
-path: public/static/wiki/conference.md
-uid: 1
 tagnames: 
+author: warren
+path: /wiki/conference.md
+nid: 7492
+uid: 1
+
 ---
 
 # conference
+
+by [warren](../profile/warren)
+
+May 13, 2013 15:37 | Tags: 
 
 A reminder page for our conference call line:
 

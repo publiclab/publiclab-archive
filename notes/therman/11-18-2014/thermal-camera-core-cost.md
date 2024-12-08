@@ -1,12 +1,18 @@
 ---
-nid: 11365
 title: thermal camera core cost
-path: public/static/notes/therman/11-18-2014/thermal-camera-core-cost.md
-uid: 431635
 tagnames: first-time-poster
+author: therman
+path: /notes/therman/11-18-2014/thermal-camera-core-cost.md
+nid: 11365
+uid: 431635
+
 ---
 
 # thermal camera core cost
+
+by [therman](../profile/therman) November 18, 2014 00:21
+
+November 18, 2014 00:21 | Tags: [first-time-poster](../tag/first-time-poster)
 
 I am in need of a thermal camera that isnt $$$$  and can be mounted on a UAV and have video (NTSC) output for FPV flying  . I have only found 2 that are close to my price range. If anyone has an opinion or knows where else I can look please let me know. Thanks so much! These are the ones so far.
 

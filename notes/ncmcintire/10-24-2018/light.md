@@ -1,11 +1,17 @@
 ---
-nid: 17375
 title: Light
-path: public/static/notes/ncmcintire/10-24-2018/light.md
+tagnames: hidden:response, replication:15121, response:17384
+author: ncmcintire
+path: /notes/ncmcintire/10-24-2018/light.md
+nid: 17375
 uid: 556276
-tagnames: hidden:response,replication:15121,response:17384
+
 ---
 
 # Light
+
+by [ncmcintire](../profile/ncmcintire) October 24, 2018 15:55
+
+October 24, 2018 15:55 | Tags: [hidden:response](../tag/hidden:response), [replication:15121](../tag/replication:15121), [response:17384](../tag/response:17384)
 
 Take pic of light

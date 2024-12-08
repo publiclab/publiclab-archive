@@ -1,6 +1,6 @@
 # question-as220-wind-sensors
 
-4 notes and wiki pages
+4 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Any simple ways to measure wind direction from a data logger?](/notes/warren/06-12-2017/any-simple-ways-to-measure-wind-direction-from-a-data-logger) by [warren](../profile/warren)
 - [How does data from a Kestrel wind sensor compare to an Modern Device wind sensor?](/notes/warren/09-30-2017/how-does-data-from-a-kestrel-wind-sensor-compare-to-an-modern-device-wind-sensor) by [warren](../profile/warren)

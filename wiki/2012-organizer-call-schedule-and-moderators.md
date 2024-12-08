@@ -1,12 +1,18 @@
 ---
-nid: 3768
 title: 2013 organizer call schedule and moderators
-path: public/static/wiki/2012-organizer-call-schedule-and-moderators.md
-uid: 9
 tagnames: 
+author: Shannon
+path: /wiki/2012-organizer-call-schedule-and-moderators.md
+nid: 3768
+uid: 9
+
 ---
 
 # 2013 organizer call schedule and moderators
+
+by [liz](../profile/liz), [Shannon](../profile/Shannon)
+
+September 12, 2012 20:53 | Tags: 
 
 This is the call (times are PM) and moderation schedule for Thursday organizers calls:
 

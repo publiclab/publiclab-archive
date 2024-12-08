@@ -1,12 +1,18 @@
 ---
-nid: 7931
 title: Infragram camera conversion test
-path: public/static/notes/warren/05-27-2013/infragram-camera-conversion-test.md
+tagnames: near-infrared-camera, infragram, infragram-conversion
+author: warren
+path: /notes/warren/05-27-2013/infragram-camera-conversion-test.md
+nid: 7931
 uid: 1
-tagnames: near-infrared-camera,infragram,infragram-conversion
+
 ---
 
 # Infragram camera conversion test
+
+by [warren](../profile/warren) May 27, 2013 12:29
+
+May 27, 2013 12:29 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [infragram](../tag/infragram), [infragram-conversion](../tag/infragram-conversion)
 
 Just posting photos of this excellent camera -- including microSD, lithium battery, and 1.3 MP resolution -- i think we want to get a camera like this but higher res for the [Infragram](http://www.kickstarter.com/projects/publiclab/infragram-the-infrared-photography-project/) project.
 

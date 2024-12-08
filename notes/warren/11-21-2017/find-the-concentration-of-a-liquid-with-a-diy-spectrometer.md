@@ -1,12 +1,18 @@
 ---
-nid: 15220
 title: Draft: Find the concentration of a liquid with a DIY spectrometer
-path: public/static/notes/warren/11-21-2017/find-the-concentration-of-a-liquid-with-a-diy-spectrometer.md
+tagnames: spectrometer, spectrometry, beers-law, turbidity, reagents, seeks:replications, activity:foldable-spec, foldable-spec, activity:water-quality, activity:papercraft-spec
+author: warren
+path: /notes/warren/11-21-2017/find-the-concentration-of-a-liquid-with-a-diy-spectrometer.md
+nid: 15220
 uid: 1
-tagnames: spectrometer,spectrometry,beers-law,turbidity,reagents,seeks:replications,activity:foldable-spec,foldable-spec,activity:water-quality,activity:papercraft-spec
+
 ---
 
 # Draft: Find the concentration of a liquid with a DIY spectrometer
+
+by [warren](../profile/warren) November 21, 2017 23:12
+
+November 21, 2017 23:12 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [beers-law](../tag/beers-law), [turbidity](../tag/turbidity), [reagents](../tag/reagents), [seeks:replications](../tag/seeks:replications), [activity:foldable-spec](../tag/activity:foldable-spec), [foldable-spec](../tag/foldable-spec), [activity:water-quality](../tag/activity:water-quality), [activity:papercraft-spec](../tag/activity:papercraft-spec)
 
 If you have a solution of unknown concentration -- for example, a water sample that's greenish or brownish -- you can compare it to two samples whose concentration you **do** know to calculate the unknown one. This lets you measure not what something is, but how much of it there is in a sample.
 

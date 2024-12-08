@@ -1,6 +1,6 @@
 # dust
 
-119 notes and wiki pages
+119 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Roomba indoor air quality mapping](/wiki/roomba-indoor-air-quality-mapping) (wiki)
 - [Sketches for airborne particulate sensor for camera phones](/notes/warren/5-15-2012/sketches-airborne-particulate-sensor-camera-phones) by [warren](../profile/warren)
@@ -119,5 +119,4 @@
 - [Opencv.js for blob detection in microscopic images](/notes/aashnaaashna/06-26-2019/opencv-js-for-blob-detection-in-microscopic-images) by [aashnaaashna](../profile/aashnaaashna)
 - [Simple air sensor assembly notes](/notes/natevw/10-09-2019/simple-air-sensor-assembly-notes) by [natevw](../profile/natevw)
 - [Log Simple Air Sensor data to SD card](/notes/imvec/12-17-2019/logging-simple-air-sensor-data-to-sd-card) by [imvec](../profile/imvec)
-- [How Best Humidifier Review works?](/notes/besthumidifierreview/06-19-2020/how-best-humidifier-review-works) by [besthumidifierreview](../profile/besthumidifierreview)
 - [how do we determine if sand is silica](/notes/MegSheehan/04-08-2021/how-do-we-determine-if-sand-is-silica) by [MegSheehan](../profile/MegSheehan)

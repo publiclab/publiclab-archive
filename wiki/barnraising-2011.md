@@ -1,12 +1,18 @@
 ---
-nid: 8807
 title: Barnraising 2011
-path: public/static/wiki/barnraising-2011.md
+tagnames: western-north-carolina, asheville, barnraising, event, list:plots-barnraising, southeast
+author: warren
+path: /wiki/barnraising-2011.md
+nid: 8807
 uid: 1
-tagnames: western-north-carolina,asheville,barnraising,event,list:plots-barnraising,southeast
+
 ---
 
 # Barnraising 2011
+
+by [warren](../profile/warren)
+
+July 10, 2013 12:18 | Tags: [western-north-carolina](../tag/western-north-carolina), [asheville](../tag/asheville), [barnraising](../tag/barnraising), [event](../tag/event), [list:plots-barnraising](../tag/list:plots-barnraising), [southeast](../tag/southeast)
 
 <a href="http://grassrootsmapping.org/2011/11/public-lab-barn-raising-collaborative-infrared-tool-development/">Blog post by Stephen Debique</a> on the barn raising, cross-posted from Grassrootsmapping.org.
 

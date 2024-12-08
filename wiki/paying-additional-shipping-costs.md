@@ -1,12 +1,18 @@
 ---
-nid: 11136
 title: Paying additional shipping costs
-path: public/static/wiki/paying-additional-shipping-costs.md
-uid: 46673
 tagnames: 
+author: Becki
+path: /wiki/paying-additional-shipping-costs.md
+nid: 11136
+uid: 46673
+
 ---
 
 # Paying additional shipping costs
+
+by [Becki](../profile/Becki)
+
+September 12, 2014 18:22 | Tags: 
 
 Have you been requested by a member of the Public Lab kits to team pay additional shipping costs due to expedited, international shipping, or some other miscellaneous fee not covered under our store's checkout procedure? Please use the drop down menu and button below. Question? Contact kits@publiclab.org
 

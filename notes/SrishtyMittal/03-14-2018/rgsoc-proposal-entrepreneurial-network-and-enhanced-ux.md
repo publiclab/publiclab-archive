@@ -1,12 +1,18 @@
 ---
-nid: 15952
 title: RGSoC proposal: Entrepreneurial Network And Enhanced UX
-path: public/static/notes/SrishtyMittal/03-14-2018/rgsoc-proposal-entrepreneurial-network-and-enhanced-ux.md
+tagnames: software, rgsoc, soc, response:13975, soc-2018, rgsoc-2018, soc-2018-proposals
+author: SrishtyMittal
+path: /notes/SrishtyMittal/03-14-2018/rgsoc-proposal-entrepreneurial-network-and-enhanced-ux.md
+nid: 15952
 uid: 526047
-tagnames: software,rgsoc,soc,response:13975,soc-2018,rgsoc-2018,soc-2018-proposals
+
 ---
 
 # RGSoC proposal: Entrepreneurial Network And Enhanced UX
+
+by [SrishtyMittal](../profile/SrishtyMittal) March 14, 2018 13:43
+
+March 14, 2018 13:43 | Tags: [software](../tag/software), [rgsoc](../tag/rgsoc), [soc](../tag/soc), [response:13975](../tag/response:13975), [soc-2018](../tag/soc-2018), [rgsoc-2018](../tag/rgsoc-2018), [soc-2018-proposals](../tag/soc-2018-proposals)
 
 ## About me
 

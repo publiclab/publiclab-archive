@@ -1,6 +1,6 @@
 # mobius
 
-54 notes and wiki pages
+54 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Mobius and NIR](/notes/cfastie/04-17-2014/mobius-and-nir) by [cfastie](../profile/cfastie)
 - [Mobius Filter-O-Matic](/notes/cfastie/04-18-2014/mobius-filter-o-matic) by [cfastie](../profile/cfastie)

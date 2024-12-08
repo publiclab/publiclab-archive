@@ -1,12 +1,18 @@
 ---
-nid: 11626
 title: Open Air
-path: public/static/wiki/open-air.md
+tagnames: air-quality, air, list:plots-airquality, activities:open-air, upgrades:open-air
+author: liz
+path: /wiki/open-air.md
+nid: 11626
 uid: 7
-tagnames: air-quality,air,list:plots-airquality,activities:open-air,upgrades:open-air
+
 ---
 
 # Open Air
+
+by [liz](../profile/liz), [nshapiro](../profile/nshapiro), [warren](../profile/warren)
+
+February 23, 2015 17:52 | Tags: [air-quality](../tag/air-quality), [air](../tag/air), [list:plots-airquality](../tag/list:plots-airquality), [activities:open-air](../tag/activities:open-air), [upgrades:open-air](../tag/upgrades:open-air)
 
 This is an open source community effort to develop a range of low-cost air quality monitoring and remediation tools. Welcome!
 

@@ -1,12 +1,18 @@
 ---
-nid: 10002
 title: Public Lab community newsletter 2.01.14
-path: public/static/notes/warren/02-02-2014/public-lab-community-newsletter-2-01-14.md
+tagnames: newsletter, newsletter-archive
+author: warren
+path: /notes/warren/02-02-2014/public-lab-community-newsletter-2-01-14.md
+nid: 10002
 uid: 1
-tagnames: newsletter,newsletter-archive
+
 ---
 
 # Public Lab community newsletter 2.01.14
+
+by [warren](../profile/warren) February 02, 2014 01:47
+
+February 02, 2014 01:47 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
 
 Hello everyone! 
 

@@ -1,6 +1,6 @@
 # indoor-air-remediation
 
-5 notes and wiki pages
+5 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Indoor Air Quality](/wiki/indoor-air-quality) (wiki)
 - [What kinds of toxins can be filtered by plants, and how do we know?](/notes/warren/06-06-2017/what-kinds-of-toxins-can-be-filtered-by-plants-and-how-do-we-know) by [warren](../profile/warren)

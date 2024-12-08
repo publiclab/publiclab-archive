@@ -1,12 +1,18 @@
 ---
-nid: 10432
 title: Staten Island North Shore meets with GLAM
-path: public/static/notes/liz/05-06-2014/staten-island-north-shore-meets-with-glam.md
+tagnames: new-york-city, event, glam, radiation, northeast, great-photos, staten-island
+author: liz
+path: /notes/liz/05-06-2014/staten-island-north-shore-meets-with-glam.md
+nid: 10432
 uid: 7
-tagnames: new-york-city,event,glam,radiation,northeast,great-photos,staten-island
+
 ---
 
 # Staten Island North Shore meets with GLAM
+
+by [liz](../profile/liz) May 06, 2014 19:58
+
+May 06, 2014 19:58 | Tags: [new-york-city](../tag/new-york-city), [event](../tag/event), [glam](../tag/glam), [radiation](../tag/radiation), [northeast](../tag/northeast), [great-photos](../tag/great-photos), [staten-island](../tag/staten-island)
 
 This morning Beryl Thurman (North Shore Waterfront Conservancy) and Melissa Checker (CUNY) met with Eymund Diegel, Lise Brenner and I to discuss concerns about floodwater carrying pollution from former industrial and radioactive sites into adjacent neighborhoods. These types of concerns are shared amongst Gowanus and North Shore residents who live adjacent to industrial areas built on filled-in historic wetlands. 
 

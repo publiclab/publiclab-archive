@@ -1,12 +1,18 @@
 ---
-nid: 18790
 title: Water sampling workshop with a "Mega-Coqui" kit with One Cranston
-path: public/static/notes/warren/03-25-2019/water-sampling-workshop-with-a-mega-coqui-kit-with-one-cranston.md
+tagnames: providence, kite-mapping, workshop, event, rhode-island, classroom, water-quality, water, sampling, conductivity, northeast, coqui, water-testing, water-sampling, salinity, activity:coqui-usage, coqui-audio-jack, cranston, one-cranston, cranston-print-works, with:cgsear01, with:ayana14_ac, activity:edu-coqui
+author: warren
+path: /notes/warren/03-25-2019/water-sampling-workshop-with-a-mega-coqui-kit-with-one-cranston.md
+nid: 18790
 uid: 1
-tagnames: providence,kite-mapping,workshop,event,rhode-island,classroom,water-quality,water,sampling,conductivity,northeast,coqui,water-testing,water-sampling,salinity,activity:coqui-usage,coqui-audio-jack,cranston,one-cranston,cranston-print-works,with:cgsear01,with:ayana14_ac,activity:edu-coqui
+
 ---
 
 # Water sampling workshop with a "Mega-Coqui" kit with One Cranston
+
+by [warren](../profile/warren) March 20, 2019 17:46
+
+March 20, 2019 17:46 | Tags: [providence](../tag/providence), [kite-mapping](../tag/kite-mapping), [workshop](../tag/workshop), [event](../tag/event), [rhode-island](../tag/rhode-island), [classroom](../tag/classroom), [water-quality](../tag/water-quality), [water](../tag/water), [sampling](../tag/sampling), [conductivity](../tag/conductivity), [northeast](../tag/northeast), [coqui](../tag/coqui), [water-testing](../tag/water-testing), [water-sampling](../tag/water-sampling), [salinity](../tag/salinity), [activity:coqui-usage](../tag/activity:coqui-usage), [coqui-audio-jack](../tag/coqui-audio-jack), [cranston](../tag/cranston), [one-cranston](../tag/one-cranston), [cranston-print-works](../tag/cranston-print-works), [with:cgsear01](../tag/with:cgsear01), [with:ayana14_ac](../tag/with:ayana14_ac), [activity:edu-coqui](../tag/activity:edu-coqui)
 
 **A modified version of this story is published in Public Lab's *Community Science Forum*, Issue 17. Read more from this issue [here](https://publiclab.org/forum#Issue+17+Cranston+Print+Works+(Fall+2019).** 
 

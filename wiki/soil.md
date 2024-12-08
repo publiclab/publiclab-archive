@@ -1,12 +1,18 @@
 ---
-nid: 10636
 title: Soil Contamination 
-path: public/static/wiki/soil.md
+tagnames: sand, heavy-metals, soil, testing, pah, pcb, lead, silt, clay, soil-testing, soil-contamination, soil-contamination-testing, dioxin
+author: amysoyka
+path: /wiki/soil.md
+nid: 10636
 uid: 422627
-tagnames: sand,heavy-metals,soil,testing,pah,pcb,lead,silt,clay,soil-testing,soil-contamination,soil-contamination-testing,dioxin
+
 ---
 
 # Soil Contamination 
+
+by [laurel_mire](../profile/laurel_mire), [bhamster](../profile/bhamster), [joyofsoy](../profile/joyofsoy), [DanielleS](../profile/DanielleS), [stevie](../profile/stevie), [warren](../profile/warren), [Bronwen](../profile/Bronwen), [amysoyka](../profile/amysoyka)
+
+July 01, 2014 06:18 | Tags: [sand](../tag/sand), [heavy-metals](../tag/heavy-metals), [soil](../tag/soil), [testing](../tag/testing), [pah](../tag/pah), [pcb](../tag/pcb), [lead](../tag/lead), [silt](../tag/silt), [clay](../tag/clay), [soil-testing](../tag/soil-testing), [soil-contamination](../tag/soil-contamination), [soil-contamination-testing](../tag/soil-contamination-testing), [dioxin](../tag/dioxin)
 
 A soil contaminant is an element (also known as ‘heavy metals’ or inorganic contaminants, e.g. lead) or a chemical (also known as ‘organics’, e.g. diesel oil) present in the soil at a level that poses health risks to plant, animal or human health. Common soil contaminants include heavy metals, pesticides, polychlorinated biphenyls (PCBs), polycyclic aromatic hydrocarbons (PAHs), and petroleum products.
 

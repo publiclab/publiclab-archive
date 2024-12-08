@@ -1,11 +1,17 @@
 ---
-nid: 15174
 title: check
-path: public/static/notes/hafidulumam/11-11-2017/check.md
-uid: 518100
 tagnames: 
+author: hafidulumam
+path: /notes/hafidulumam/11-11-2017/check.md
+nid: 15174
+uid: 518100
+
 ---
 
 # check
+
+by [hafidulumam](../profile/hafidulumam) November 11, 2017 14:05
+
+November 11, 2017 14:05 | Tags: 
 
 good or not

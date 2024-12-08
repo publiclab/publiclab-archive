@@ -1,12 +1,18 @@
 ---
-nid: 11435
 title: Detection of heavy metals in plants
-path: public/static/notes/JWL/12-04-2014/detection-of-heavy-metals-in-plants.md
+tagnames: heavy-metals, question:heavy-metals
+author: JWL
+path: /notes/JWL/12-04-2014/detection-of-heavy-metals-in-plants.md
+nid: 11435
 uid: 432339
-tagnames: heavy-metals,question:heavy-metals
+
 ---
 
 # Detection of heavy metals in plants
+
+by [JWL](../profile/JWL) December 04, 2014 20:48
+
+December 04, 2014 20:48 | Tags: [heavy-metals](../tag/heavy-metals), [question:heavy-metals](../tag/question:heavy-metals)
 
 Hi all,
 

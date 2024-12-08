@@ -1,12 +1,18 @@
 ---
-nid: 24853
 title: Nurdle survey
-path: public/static/wiki/nurdle-survey.md
+tagnames: method, beach, microplastics, marine-debris, nurdles, nurdle-patrol, nurdle-survey, plastic-pellets, method:microplastics
+author: bhamster
+path: /wiki/nurdle-survey.md
+nid: 24853
 uid: 664477
-tagnames: method,beach,microplastics,marine-debris,nurdles,nurdle-patrol,nurdle-survey,plastic-pellets,method:microplastics
+
 ---
 
 # Nurdle survey
+
+by [bhamster](../profile/bhamster)
+
+October 28, 2020 21:20 | Tags: [method](../tag/method), [beach](../tag/beach), [microplastics](../tag/microplastics), [marine-debris](../tag/marine-debris), [nurdles](../tag/nurdles), [nurdle-patrol](../tag/nurdle-patrol), [nurdle-survey](../tag/nurdle-survey), [plastic-pellets](../tag/plastic-pellets), [method:microplastics](../tag/method:microplastics)
 
 A survey for nurdles (industrial plastic pellets) on a beach or shoreline is a relatively easy and inexpensive way to monitor microplastics pollution. 
 

@@ -1,12 +1,18 @@
 ---
-nid: 12684
 title: Frac Sand Advocacy Leverage Points
-path: public/static/wiki/frac-sand-advocacy-leverage-points.md
+tagnames: fracking, advocacy, parent:frac-sand, reclamation, mine-reclamation, mine-reclamation-advocacy
+author: stevie
+path: /wiki/frac-sand-advocacy-leverage-points.md
+nid: 12684
 uid: 422561
-tagnames: fracking,advocacy,parent:frac-sand,reclamation,mine-reclamation,mine-reclamation-advocacy
+
 ---
 
 # Frac Sand Advocacy Leverage Points
+
+by [stevie](../profile/stevie), [gretchengehrke](../profile/gretchengehrke)
+
+February 13, 2016 18:23 | Tags: [fracking](../tag/fracking), [advocacy](../tag/advocacy), [parent:frac-sand](../tag/parent:frac-sand), [reclamation](../tag/reclamation), [mine-reclamation](../tag/mine-reclamation), [mine-reclamation-advocacy](../tag/mine-reclamation-advocacy)
 
 <div class="alert alert-info"><a href="/wiki/frac-sand-legislation"><b> Click Here for Frac Sand Legislation Wiki:</br> Regulations relevant to frac sand monitoring, enforcement, and advocacy.</b></a></div>
 

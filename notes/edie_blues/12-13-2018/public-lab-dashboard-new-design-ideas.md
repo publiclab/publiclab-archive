@@ -1,12 +1,18 @@
 ---
-nid: 17890
 title: Public Lab Dashboard - new design ideas 
-path: public/static/notes/edie_blues/12-13-2018/public-lab-dashboard-new-design-ideas.md
+tagnames: design, ui, ui-designs
+author: edie_blues
+path: /notes/edie_blues/12-13-2018/public-lab-dashboard-new-design-ideas.md
+nid: 17890
 uid: 552521
-tagnames: design,ui,ui-designs
+
 ---
 
 # Public Lab Dashboard - new design ideas 
+
+by [edie_blues](../profile/edie_blues) December 13, 2018 21:03
+
+December 13, 2018 21:03 | Tags: [design](../tag/design), [ui](../tag/ui), [ui-designs](../tag/ui-designs)
 
 Hello :)
 

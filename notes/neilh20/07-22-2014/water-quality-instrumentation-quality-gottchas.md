@@ -1,12 +1,18 @@
 ---
-nid: 10945
 title: Water quality instrumentation quality gottchas
-path: public/static/notes/neilh20/07-22-2014/water-quality-instrumentation-quality-gottchas.md
+tagnames: standards, openhardware, water-quality, measurement, riffle, validation, specification, traceability, quality-matrix, first-time-poster
+author: neilh20
+path: /notes/neilh20/07-22-2014/water-quality-instrumentation-quality-gottchas.md
+nid: 10945
 uid: 425914
-tagnames: standards,openhardware,water-quality,measurement,riffle,validation,specification,traceability,quality-matrix,first-time-poster
+
 ---
 
 # Water quality instrumentation quality gottchas
+
+by [neilh20](../profile/neilh20) July 22, 2014 19:11
+
+July 22, 2014 19:11 | Tags: [standards](../tag/standards), [openhardware](../tag/openhardware), [water-quality](../tag/water-quality), [measurement](../tag/measurement), [riffle](../tag/riffle), [validation](../tag/validation), [specification](../tag/specification), [traceability](../tag/traceability), [quality-matrix](../tag/quality-matrix), [first-time-poster](../tag/first-time-poster)
 
 A research note:  
 For quality digital data to be produced by an instrument, it needs to be stability tested - that is it needs to be running in a stable test environment for some months measuring a defined standard. 

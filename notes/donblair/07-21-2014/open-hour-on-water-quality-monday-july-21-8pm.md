@@ -1,12 +1,18 @@
 ---
-nid: 10940
 title: Open Hour on Water Quality, Monday July 21, 8pm
-path: public/static/notes/donblair/07-21-2014/open-hour-on-water-quality-monday-july-21-8pm.md
+tagnames: event, water-monitoring, event:rsvp, rsvp:warren, date:07-21-2014, with:jsummers, with:lilybui, with:kgradow1, with:warren, with:kanarinka, rsvp:donblair
+author: donblair
+path: /notes/donblair/07-21-2014/open-hour-on-water-quality-monday-july-21-8pm.md
+nid: 10940
 uid: 43651
-tagnames: event,water-monitoring,event:rsvp,rsvp:warren,date:07-21-2014,with:jsummers,with:lilybui,with:kgradow1,with:warren,with:kanarinka,rsvp:donblair
+
 ---
 
 # Open Hour on Water Quality, Monday July 21, 8pm
+
+by [donblair](../profile/donblair) July 21, 2014 05:44
+
+July 21, 2014 05:44 | Tags: [event](../tag/event), [water-monitoring](../tag/water-monitoring), [event:rsvp](../tag/event:rsvp), [rsvp:warren](../tag/rsvp:warren), [date:07-21-2014](../tag/date:07-21-2014), [with:jsummers](../tag/with:jsummers), [with:lilybui](../tag/with:lilybui), [with:kgradow1](../tag/with:kgradow1), [with:warren](../tag/with:warren), [with:kanarinka](../tag/with:kanarinka), [rsvp:donblair](../tag/rsvp:donblair)
 
 ## Open Hour call
 

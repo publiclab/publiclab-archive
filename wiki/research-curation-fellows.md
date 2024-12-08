@@ -1,12 +1,18 @@
 ---
-nid: 26732
 title: Research Curation Fellows
-path: public/static/wiki/research-curation-fellows.md
+tagnames: research, fellows, fellowship, parent:fellows, research-curation-fellows
+author: bhamster
+path: /wiki/research-curation-fellows.md
+nid: 26732
 uid: 664477
-tagnames: research,fellows,fellowship,parent:fellows,research-curation-fellows
+
 ---
 
 # Research Curation Fellows
+
+by [bhamster](../profile/bhamster)
+
+May 28, 2021 18:46 | Tags: [research](../tag/research), [fellows](../tag/fellows), [fellowship](../tag/fellowship), [parent:fellows](../tag/parent:fellows), [research-curation-fellows](../tag/research-curation-fellows)
 
 Public Lab’s Research Curation Fellows are growing shared knowledge on environmental health topics related to **air**, **water**, **soil/land**, and **community organizing and advocacy**. 
 

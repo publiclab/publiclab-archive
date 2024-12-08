@@ -1,12 +1,18 @@
 ---
-nid: 26774
 title: How do you make results from environmental monitoring personally meaningful to people?
-path: public/static/notes/bhamster/06-02-2021/how-do-you-make-results-from-environmental-monitoring-personally-meaningful-to-people.md
+tagnames: organizing, advocacy, question:general, general, community-organizing, question:advocacy, public-awareness, question:organizing, question:community-organizing, presenting-data, question:presenting-data, air-quality-data, question:air-quality-data, data-advocacy
+author: bhamster
+path: /notes/bhamster/06-02-2021/how-do-you-make-results-from-environmental-monitoring-personally-meaningful-to-people.md
+nid: 26774
 uid: 664477
-tagnames: organizing,advocacy,question:general,general,community-organizing,question:advocacy,public-awareness,question:organizing,question:community-organizing,presenting-data,question:presenting-data,air-quality-data,question:air-quality-data,data-advocacy
+
 ---
 
 # How do you make results from environmental monitoring personally meaningful to people?
+
+by [bhamster](../profile/bhamster) June 02, 2021 20:47
+
+June 02, 2021 20:47 | Tags: [organizing](../tag/organizing), [advocacy](../tag/advocacy), [question:general](../tag/question:general), [general](../tag/general), [community-organizing](../tag/community-organizing), [question:advocacy](../tag/question:advocacy), [public-awareness](../tag/public-awareness), [question:organizing](../tag/question:organizing), [question:community-organizing](../tag/question:community-organizing), [presenting-data](../tag/presenting-data), [question:presenting-data](../tag/question:presenting-data), [air-quality-data](../tag/air-quality-data), [question:air-quality-data](../tag/question:air-quality-data), [data-advocacy](../tag/data-advocacy)
 
 This question has come up a couple times during our recent Open Calls ([notes here](http://pad.publiclab.org/p/opencall)) on organizing and advocacy.
 

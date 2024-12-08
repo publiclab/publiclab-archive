@@ -1,6 +1,6 @@
 # upgrades
 
-4 notes and wiki pages
+4 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Recent improvements to PublicLab.org](/notes/warren/07-16-2014/recent-improvements-to-publiclab-org) by [warren](../profile/warren)
 - [Document your hardware upgrades at Parts & Crafts Documentation Days - Oct 12 & 19](/notes/warren/09-27-2016/document-your-hardware-upgrades-at-parts-crafts-documentation-days-oct-12-19) by [warren](../profile/warren)

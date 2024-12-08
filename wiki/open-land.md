@@ -1,12 +1,18 @@
 ---
-nid: 11625
 title: Open Land
-path: public/static/wiki/open-land.md
+tagnames: wetlands, farmhack, wetland, soil, garden, photosynq, soil-testing
+author: liz
+path: /wiki/open-land.md
+nid: 11625
 uid: 7
-tagnames: wetlands,farmhack,wetland,soil,garden,photosynq,soil-testing
+
 ---
 
 # Open Land
+
+by [eustatic](../profile/eustatic), [liz](../profile/liz)
+
+February 23, 2015 17:51 | Tags: [wetlands](../tag/wetlands), [farmhack](../tag/farmhack), [wetland](../tag/wetland), [soil](../tag/soil), [garden](../tag/garden), [photosynq](../tag/photosynq), [soil-testing](../tag/soil-testing)
 
 ##Open Hour
 

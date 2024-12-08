@@ -1,12 +1,18 @@
 ---
-nid: 12569
 title: Conductivity Sensing: Open Questions
-path: public/static/notes/donblair/01-07-2016/conductivity-sensing-open-questions.md
+tagnames: water-sensing, water-monitoring, conductivity, riffle, open-water, 555
+author: donblair
+path: /notes/donblair/01-07-2016/conductivity-sensing-open-questions.md
+nid: 12569
 uid: 43651
-tagnames: water-sensing,water-monitoring,conductivity,riffle,open-water,555
+
 ---
 
 # Conductivity Sensing: Open Questions
+
+by [donblair](../profile/donblair) January 07, 2016 17:55
+
+January 07, 2016 17:55 | Tags: [water-sensing](../tag/water-sensing), [water-monitoring](../tag/water-monitoring), [conductivity](../tag/conductivity), [riffle](../tag/riffle), [open-water](../tag/open-water), [555](../tag/555)
 
 ### Design Goals
 

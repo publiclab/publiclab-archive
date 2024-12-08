@@ -1,12 +1,18 @@
 ---
-nid: 11663
 title: Surveying by Drone, Need help with Cfastie's .lut Usage
-path: public/static/notes/PatrickC/03-09-2015/surveying-by-drone-ndvi-need-help-with-cfastie-s-lut-usage.md
+tagnames: mapping, drone, college, shasta
+author: PatrickC
+path: /notes/PatrickC/03-09-2015/surveying-by-drone-ndvi-need-help-with-cfastie-s-lut-usage.md
+nid: 11663
 uid: 431386
-tagnames: mapping,drone,college,shasta
+
 ---
 
 # Surveying by Drone, Need help with Cfastie's .lut Usage
+
+by [PatrickC](../profile/PatrickC) March 09, 2015 04:13
+
+March 09, 2015 04:13 | Tags: [mapping](../tag/mapping), [drone](../tag/drone), [college](../tag/college), [shasta](../tag/shasta)
 
 [![with_mobius.jpg](https://i.publiclab.org/system/images/photos/000/009/224/medium/with_mobius.jpg)](https://i.publiclab.org/system/images/photos/000/009/224/original/with_mobius.jpg)
 

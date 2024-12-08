@@ -1,6 +1,6 @@
 # locked
 
-24 notes and wiki pages
+24 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Kits Initiative](/wiki/kits) (wiki)
 - [Events](/events) (wiki)
@@ -22,7 +22,4 @@
 - [Projects](/wiki/projects) (wiki)
 - [Security/privacy best practices for data and devices](/wiki/security) (wiki)
 - [Strategic Plan](/wiki/strategic-plan) (wiki)
-- [asidoasd](/notes/alexandra/04-20-2020/situs-judi-online-terpercaya-asia89) by [alexandra](../profile/alexandra)
-- [vfvdfdfbdfb](/notes/tamoreanita/02-15-2021/vfvdfdfbdfb) by [tamoreanita](../profile/tamoreanita)
 - [Hiring: Public Lab Education Manager](/notes/jmacha/07-26-2021/hiring-public-lab-education-manager) by [jmacha](../profile/jmacha)
-- [casino con bono sin depósito argentina](/notes/alenadavid/08-04-2022/casino-con-bono-sin-deposito-argentina) by [alenadavid](../profile/alenadavid)

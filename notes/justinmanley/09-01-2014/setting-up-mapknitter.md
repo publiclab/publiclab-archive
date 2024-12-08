@@ -1,12 +1,18 @@
 ---
-nid: 11095
 title: Setting up MapKnitter
-path: public/static/notes/justinmanley/09-01-2014/setting-up-mapknitter.md
+tagnames: mapknitter, gsoc, gsoc-2014, barnstar:basic, mapknitter-development
+author: justinmanley
+path: /notes/justinmanley/09-01-2014/setting-up-mapknitter.md
+nid: 11095
 uid: 421556
-tagnames: mapknitter,gsoc,gsoc-2014,barnstar:basic,mapknitter-development
+
 ---
 
 # Setting up MapKnitter
+
+by [justinmanley](../profile/justinmanley) September 01, 2014 20:49
+
+September 01, 2014 20:49 | Tags: [mapknitter](../tag/mapknitter), [gsoc](../tag/gsoc), [gsoc-2014](../tag/gsoc-2014), [barnstar:basic](../tag/barnstar:basic), [mapknitter-development](../tag/mapknitter-development)
 
 ### How to set up MapKnitter from scratch ###
 

@@ -1,12 +1,18 @@
 ---
-nid: 23792
 title: GSOC 2020 Week 5 (coding Period Week-1)@Spam Management Dashboard 
-path: public/static/notes/keshav_sethi0004/06-07-2020/gsoc-2020-week-5-coding-period-week-1-spam-management-dashboard.md
+tagnames: software, gsoc, spam, general, lat:29.058775, lon:76.085601, zoom:5, keshav, smd, weekly-update
+author: keshav_sethi0004
+path: /notes/keshav_sethi0004/06-07-2020/gsoc-2020-week-5-coding-period-week-1-spam-management-dashboard.md
+nid: 23792
 uid: 653396
-tagnames: software,gsoc,spam,general,lat:29.058775,lon:76.085601,zoom:5,keshav,smd,weekly-update
+
 ---
 
 # GSOC 2020 Week 5 (coding Period Week-1)@Spam Management Dashboard 
+
+by [keshav_sethi0004](../profile/keshav_sethi0004) June 07, 2020 20:52
+
+June 07, 2020 20:52 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [spam](../tag/spam), [general](../tag/general), [lat:29.058775](../tag/lat:29.058775), [lon:76.085601](../tag/lon:76.085601), [zoom:5](../tag/zoom:5), [keshav](../tag/keshav), [smd](../tag/smd), [weekly-update](../tag/weekly-update)
 
 #### Spam Management Dashboard Week-5(Coding Period Week-1)
 

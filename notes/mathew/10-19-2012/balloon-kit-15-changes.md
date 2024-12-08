@@ -1,12 +1,18 @@
 ---
-nid: 4516
 title: Balloon Kit 1.5 changes
-path: public/static/notes/mathew/10-19-2012/balloon-kit-15-changes.md
+tagnames: balloon-mapping, retail, balloon-mapping-kit
+author: mathew
+path: /notes/mathew/10-19-2012/balloon-kit-15-changes.md
+nid: 4516
 uid: 4
-tagnames: balloon-mapping,retail,balloon-mapping-kit
+
 ---
 
 # Balloon Kit 1.5 changes
+
+by [mathew](../profile/mathew) October 19, 2012 23:52
+
+October 19, 2012 23:52 | Tags: [balloon-mapping](../tag/balloon-mapping), [retail](../tag/retail), [balloon-mapping-kit](../tag/balloon-mapping-kit)
 
 As of today, we've changed up the balloon kit parts to address concerns and improvements.  [Its a better kit with more stuff for the same price!](http://breadpig.com/products/balloon-mapping-kit)
 

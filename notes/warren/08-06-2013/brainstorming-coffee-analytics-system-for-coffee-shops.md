@@ -1,12 +1,18 @@
 ---
-nid: 8973
 title: Brainstorming "coffee analytics" system for coffee shops
-path: public/static/notes/warren/08-06-2013/brainstorming-coffee-analytics-system-for-coffee-shops.md
+tagnames: spectrometer, coffee, sampling, eyedropper
+author: warren
+path: /notes/warren/08-06-2013/brainstorming-coffee-analytics-system-for-coffee-shops.md
+nid: 8973
 uid: 1
-tagnames: spectrometer,coffee,sampling,eyedropper
+
 ---
 
 # Brainstorming "coffee analytics" system for coffee shops
+
+by [warren](../profile/warren) August 06, 2013 22:28
+
+August 06, 2013 22:28 | Tags: [spectrometer](../tag/spectrometer), [coffee](../tag/coffee), [sampling](../tag/sampling), [eyedropper](../tag/eyedropper)
 
 Lots of folks have talked about using spectrometers in coffee shops, and I know several of our [countertop models](/notes/warren/04-17-2013/final-countertop-spectrometer-design) went to coffee shops. Of course, I had a great (if brief) opportunity to [try some coffee spectrometry at Toscanini's](/notes/warren/8-29-2012/testing-coffee-spectra-toscaninis) in Cambridge, MA last year, but I've been pondering what it'd look like in a slightly more streamlined form, and speculating about other possibilities. The above sketch shows a few of these, which I'll talk a bit about here.
 

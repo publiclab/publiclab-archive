@@ -1,12 +1,18 @@
 ---
-nid: 13401
 title: Effects of Solvents on Fluorescence of Biological Dyes
-path: public/static/notes/dhaffnersr/08-27-2016/effects-of-solvents-on-fluorescence-of-biological-dyes.md
-uid: 461120
 tagnames: 
+author: dhaffnersr
+path: /notes/dhaffnersr/08-27-2016/effects-of-solvents-on-fluorescence-of-biological-dyes.md
+nid: 13401
+uid: 461120
+
 ---
 
 # Effects of Solvents on Fluorescence of Biological Dyes
+
+by [dhaffnersr](../profile/dhaffnersr) August 27, 2016 06:57
+
+August 27, 2016 06:57 | Tags: 
 
 ##_5 Biological Dyes in Water and Isopropyl Alcohol
 Author David H Haffner Sr.

@@ -1,12 +1,18 @@
 ---
-nid: 12304
 title: Question: Determining Plant-Health
-path: public/static/notes/Kiranay/10-15-2015/question-determining-plant-health.md
-uid: 454266
 tagnames: question:plant-health
+author: kiranay
+path: /notes/Kiranay/10-15-2015/question-determining-plant-health.md
+nid: 12304
+uid: 454266
+
 ---
 
 # Question: Determining Plant-Health
+
+by [kiranay](../profile/kiranay) October 15, 2015 11:12
+
+October 15, 2015 11:12 | Tags: [question:plant-health](../tag/question:plant-health)
 
 ###What I want to do or know
 I want to know how i am able to find the health of the plant with using raspberry pi and it PI-NOIR camera. I have attached the image i have taken with the PI-NOIR camera. I am facing difficulty in determining the health condition. I cannot find the better software for it. Can you help me with it?

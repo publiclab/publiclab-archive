@@ -1,12 +1,18 @@
 ---
-nid: 27958
 title: What are some of the first things you do with air quality monitoring data to better understand it? 
-path: public/static/notes/bhamster/10-22-2021/what-are-some-of-the-first-things-you-do-with-air-quality-monitoring-data-to-better-understand-it.md
+tagnames: air-quality, question:air-quality, air-quality-data, question:air-quality-data, getting-started-air-quality-data
+author: bhamster
+path: /notes/bhamster/10-22-2021/what-are-some-of-the-first-things-you-do-with-air-quality-monitoring-data-to-better-understand-it.md
+nid: 27958
 uid: 664477
-tagnames: air-quality,question:air-quality,air-quality-data,question:air-quality-data,getting-started-air-quality-data
+
 ---
 
 # What are some of the first things you do with air quality monitoring data to better understand it? 
+
+by [bhamster](../profile/bhamster) October 22, 2021 16:39
+
+October 22, 2021 16:39 | Tags: [air-quality](../tag/air-quality), [question:air-quality](../tag/question:air-quality), [air-quality-data](../tag/air-quality-data), [question:air-quality-data](../tag/question:air-quality-data), [getting-started-air-quality-data](../tag/getting-started-air-quality-data)
 
 As part of the current [research area review on air quality data](https://publiclab.org/notes/bhamster/10-18-2021/delving-into-air-quality-data-for-our-next-research-area-review), we're gathering information on steps leading up to creating data visualizations.
 

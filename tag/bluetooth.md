@@ -1,6 +1,5 @@
 # bluetooth
 
-2 notes and wiki pages
+2 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [wireless](/wiki/wireless) (wiki)
-- [Best jbl bluetooth speaker](/notes/kazadeal01/12-22-2022/best-jbl-bluetooth-speaker) by [kazadeal01](../profile/kazadeal01)

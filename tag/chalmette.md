@@ -1,6 +1,6 @@
 # chalmette
 
-8 notes and wiki pages
+8 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Chalmette flare spectrum field trip](/notes/danbeavers/07-30-2013/chalmette-flare-spectrum-field-trip) by [danbeavers](../profile/danbeavers)
 - [Can we kick it?  Yes we can. Signal from a Flickering Refinery Flare ](/notes/eustatic/07-31-2013/can-we-kick-it-yes-we-can-flickering-flare-signal) by [eustatic](../profile/eustatic)

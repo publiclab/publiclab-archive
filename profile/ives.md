@@ -3,6 +3,8 @@ uid: 403
 created_at: 2013-04-13 16:19:28 UTC
 ---
 
+# ives
+
 Public Lab Organizer since 2011.
 Coordinator of "Youth-Led Digital Mapping" in Brazil, a global initiative of UNICEF with CEDAPS from 2011-2015.
 Technical Coordinator of Community-Based Participatory Diagnoses at CEDAPS from 2009-2016. 
@@ -11,5 +13,5 @@ Psychologist from Federal University of Rio de Janeiro and works with Public Hea
 
 ----
 
-[Rio de Janeiro - Morro dos Macacos](/wiki/rio-de-janeiro-morro-dos-macacos)
-[CEDAPS realiza Oficina de Mapeamento em Eusébio, Ceará](/notes/ives/4-10-2013/cedaps-realiza-oficina-de-mapeamento-em-eus-bio-cear)
+- [Rio de Janeiro - Morro dos Macacos](/wiki/rio-de-janeiro-morro-dos-macacos) (wiki)
+- [CEDAPS realiza Oficina de Mapeamento em Eusébio, Ceará](/notes/ives/4-10-2013/cedaps-realiza-oficina-de-mapeamento-em-eus-bio-cear)

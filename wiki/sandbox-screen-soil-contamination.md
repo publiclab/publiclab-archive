@@ -1,12 +1,18 @@
 ---
-nid: 26007
 title: sandbox-screen-soil-contamination
-path: public/static/wiki/sandbox-screen-soil-contamination.md
-uid: 664477
 tagnames: 
+author: bhamster
+path: /wiki/sandbox-screen-soil-contamination.md
+nid: 26007
+uid: 664477
+
 ---
 
 # sandbox-screen-soil-contamination
+
+by [bhamster](../profile/bhamster)
+
+March 23, 2021 16:49 | Tags: 
 
 **The soil testing methods listed on this page use different approaches to screen for contaminants**. In general, the data these methods produce are less accurate and precise than certified lab-based methods, but the methods are **more accessible in terms of materials, cost, and logistics**. Many screening methods are available as kits or portable units that can be used quickly in the field. 
 

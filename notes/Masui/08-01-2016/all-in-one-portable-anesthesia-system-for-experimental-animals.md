@@ -1,12 +1,18 @@
 ---
-nid: 13319
 title: All in One Portable Anesthesia System  for experimental animals
-path: public/static/notes/Masui/08-01-2016/all-in-one-portable-anesthesia-system-for-experimental-animals.md
+tagnames: diy, diy-bio, research, biohacking, for, experimental, medical, animal, mouse, anesthesia, portability
+author: Masui
+path: /notes/Masui/08-01-2016/all-in-one-portable-anesthesia-system-for-experimental-animals.md
+nid: 13319
 uid: 485717
-tagnames: diy,diy-bio,research,biohacking,for,experimental,medical,animal,mouse,anesthesia,portability
+
 ---
 
 # All in One Portable Anesthesia System  for experimental animals
+
+by [Masui](../profile/Masui) August 01, 2016 09:25
+
+August 01, 2016 09:25 | Tags: [diy](../tag/diy), [diy-bio](../tag/diy-bio), [research](../tag/research), [biohacking](../tag/biohacking), [for](../tag/for), [experimental](../tag/experimental), [medical](../tag/medical), [animal](../tag/animal), [mouse](../tag/mouse), [anesthesia](../tag/anesthesia), [portability](../tag/portability)
 
 ###What I want to do
 With today’s bustling advance in medical knowledge, the introduction of experimental animals is indispensable, especially in the field of fundamental medical research. Yet, the truth is, high expenses in research equipment and instruments are limiting the advances of ground breaking discoveries, where researches are forced to meet competitive funds for progression. To cause a break though, we focused to develop an anesthesia apparatus, which is user, experiment and economically friendly at any laboratory to be used. From this, we believe that laboratories with a budget challenge are able to focus on animal research, which was never possible until today.

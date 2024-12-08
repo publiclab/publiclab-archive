@@ -1,6 +1,6 @@
 # micro-plastics
 
-20 notes and wiki pages
+20 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [looking for ideas to detect/remove micro-beads/micro-fibers in water](/notes/vibhor/11-05-2016/looking-for-ideas-to-detect-remove-micro-beads-micro-fibers-in-water) by [vibhor](../profile/vibhor)
 - [Could the Raspberry Pi Microscope be used for looking at microplastics found in ocean water?](/notes/stevie/12-08-2017/could-the-raspberry-pi-microscope-be-used-for-looking-at-microplastics-found-in-ocean-water) by [stevie](../profile/stevie)

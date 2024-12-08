@@ -1,12 +1,18 @@
 ---
-nid: 14228
 title: Getting GPS in Remote Locations
-path: public/static/notes/sarasage/05-26-2017/getting-gps-in-remote-locations.md
-uid: 451398
 tagnames: question:question
+author: sarasage
+path: /notes/sarasage/05-26-2017/getting-gps-in-remote-locations.md
+nid: 14228
+uid: 451398
+
 ---
 
 # Getting GPS in Remote Locations
+
+by [sarasage](../profile/sarasage) May 26, 2017 16:43
+
+May 26, 2017 16:43 | Tags: [question:question](../tag/question:question)
 
 ###Hello! 
 

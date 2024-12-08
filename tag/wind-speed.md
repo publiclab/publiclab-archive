@@ -1,6 +1,6 @@
 # wind-speed
 
-10 notes and wiki pages
+10 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Using Kites as Atmospheric Wind-speed Meters](/notes/mathew/5-11-2012/using-kites-atmospheric-wind-speed-meters) by [mathew](../profile/mathew)
 - [Windmeter options for iPhone - Shaka and Wind Meter](/notes/patcoyle/08-18-2013/windmeter-options-for-iphone-shaka-and-wind-meter) by [patcoyle](../profile/patcoyle)

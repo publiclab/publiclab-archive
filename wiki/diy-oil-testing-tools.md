@@ -1,12 +1,18 @@
 ---
-nid: 12663
 title: DIY Oil Testing Tools
-path: public/static/wiki/diy-oil-testing-tools.md
+tagnames: spectrometer, oil-testing-kit, draft
+author: warren
+path: /wiki/diy-oil-testing-tools.md
+nid: 12663
 uid: 1
-tagnames: spectrometer,oil-testing-kit,draft
+
 ---
 
 # DIY Oil Testing Tools
+
+by [warren](../profile/warren)
+
+February 05, 2016 23:12 | Tags: [spectrometer](../tag/spectrometer), [oil-testing-kit](../tag/oil-testing-kit), [draft](../tag/draft)
 
 <div class="alert alert-info">This is Part III of <a href="/wiki/diy-oil-testing">DIY Oil Testing: Progress toward community oil pollution analysis</a></div>
 

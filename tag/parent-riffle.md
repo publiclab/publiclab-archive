@@ -1,6 +1,6 @@
 # parent-riffle
 
-6 notes and wiki pages
+6 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [riffle-th](/wiki/riffle-th) (wiki)
 - [riffle-dev](/wiki/riffle-dev) (wiki)

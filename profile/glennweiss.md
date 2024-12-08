@@ -3,6 +3,8 @@ uid: 462163
 created_at: 2016-01-23 14:36:30 UTC
 ---
 
+# glennweiss
+
 Glenn Weiss is an artist and activist based in south Florida.  Weiss responds to particular place with interjections designed to critique standard human observations and habits regarding that place.  Photographically, he records multiple occurrences of the same process acting in the same place at the same time.  Much of his work engages horizontal land surfaces. 
 
 In 2016, he is managing the Shivaji Competition for the Rising Water Confab to be held at the Rauschenberg Residency in Captiva Island, Florida, USA; promoting the Ramses Wissa Wassef history and tapestries from Giza, Egypt; keeping my neighbors informed on new land developments through West Delray Updates; and making copies at Office Depot. 
@@ -11,4 +13,4 @@ Previously, Weiss spent 25 years assisting counties, cities, museums and communi
 
 ----
 
-[Shivaji Competition: Islands, Deltas and Rising Seas](/notes/glennweiss/01-23-2016/shivaji-competition-islands-deltas-and-rising-seas)
+- [Shivaji Competition: Islands, Deltas and Rising Seas](/notes/glennweiss/01-23-2016/shivaji-competition-islands-deltas-and-rising-seas)

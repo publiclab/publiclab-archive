@@ -1,6 +1,6 @@
 # flushing-bay
 
-4 notes and wiki pages
+4 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [New York City](/wiki/new-york-city) (wiki)
 - [Dragon Boats versus sewage](/notes/eymund/03-19-2014/dragon-boats-verses-sewage) by [eymund](../profile/eymund)

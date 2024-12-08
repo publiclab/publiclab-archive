@@ -1,12 +1,18 @@
 ---
-nid: 14229
 title: Portable thermal IR temperature logger unit
-path: public/static/notes/cfastie/05-26-2017/portable-thermal-ir-temperature-logger-unit.md
+tagnames: arduino, sensors, data-logging, arduino-nano, nano-data-logger, 16x2_lcd, ds18b20, gy90615, activity:nano-data-logger
+author: cfastie
+path: /notes/cfastie/05-26-2017/portable-thermal-ir-temperature-logger-unit.md
+nid: 14229
 uid: 554
-tagnames: arduino,sensors,data-logging,arduino-nano,nano-data-logger,16x2_lcd,ds18b20,gy90615,activity:nano-data-logger
+
 ---
 
 # Portable thermal IR temperature logger unit
+
+by [cfastie](../profile/cfastie) May 26, 2017 20:37
+
+May 26, 2017 20:37 | Tags: [arduino](../tag/arduino), [sensors](../tag/sensors), [data-logging](../tag/data-logging), [arduino-nano](../tag/arduino-nano), [nano-data-logger](../tag/nano-data-logger), [16x2_lcd](../tag/16x2_lcd), [ds18b20](../tag/ds18b20), [gy90615](../tag/gy90615), [activity:nano-data-logger](../tag/activity:nano-data-logger)
 
 *Above: The infrared sensor on this data logger unit can read the temperature of an object without touching it.*
   

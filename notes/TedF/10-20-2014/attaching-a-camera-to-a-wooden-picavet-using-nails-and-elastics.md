@@ -1,12 +1,18 @@
 ---
-nid: 11279
 title: Attaching a camera to a wooden picavet using elastics looped onto nails
-path: public/static/notes/TedF/10-20-2014/attaching-a-camera-to-a-wooden-picavet-using-nails-and-elastics.md
+tagnames: kite-mapping, picavet, camera-rig, kitemapping
+author: TedF
+path: /notes/TedF/10-20-2014/attaching-a-camera-to-a-wooden-picavet-using-nails-and-elastics.md
+nid: 11279
 uid: 197186
-tagnames: kite-mapping,picavet,camera-rig,kitemapping
+
 ---
 
 # Attaching a camera to a wooden picavet using elastics looped onto nails
+
+by [TedF](../profile/TedF) October 20, 2014 11:26
+
+October 20, 2014 11:26 | Tags: [kite-mapping](../tag/kite-mapping), [picavet](../tag/picavet), [camera-rig](../tag/camera-rig), [kitemapping](../tag/kitemapping)
 
 ### Create a robust holding structure for a camera/picavet
 

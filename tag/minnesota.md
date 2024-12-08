@@ -1,13 +1,10 @@
 # minnesota
 
-24 notes and wiki pages
+24 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Small test tube with 6 ml sample water](/notes/janezhz/07-15-2013/small-test-tube-with-6-ml-sample-water) by [janezhz](../profile/janezhz)
 - [CP RR oil tanker leak from Red wing to Winona MN, beside Mississippi River](/notes/marlokeno/02-12-2014/cp-rr-oil-tanker-leak-from-red-wing-to-winona-mn-beside-mississippi-river) by [marlokeno](../profile/marlokeno)
-- [Minnesota Duluth vs Notre Dame Live](/notes/ufc223fox/04-07-2018/minnesota-duluth-vs-notre-dame-live) by [ufc223fox](../profile/ufc223fox)
-- [Minnesota Duluth vs Notre Dame Live Ice Hockey](/notes/ufc223fox/04-07-2018/minnesota-duluth-vs-notre-dame-live-ice-hockey) by [ufc223fox](../profile/ufc223fox)
 - [The United States has a lot of helpful databases to identify Environmental Justice communities, are there similar tools being used in Canada?  ](/notes/amocorro/05-27-2021/the-united-states-has-a-lot-of-helpful-databases-to-identify-environmental-justice-communities-are-there-similar-tools-being-used-in-canada) by [amocorro](../profile/amocorro)
-- [Online Courses For Free](/notes/scarletjohnson/08-20-2021/online-courses-for-free) by [scarletjohnson](../profile/scarletjohnson)
 - [Seeking an Environmental Policy Fellow](/notes/stevie/04-06-2022/seeking-an-environmental-policy-fellow) by [stevie](../profile/stevie)
 - [Announcing New Fellowship Team: Minnesota Land and Wild Rice Protection Project](/notes/stevie/04-06-2022/announcing-new-fellowship-team-minnesota-land-and-wild-rice-protection-project) by [stevie](../profile/stevie)
 - [Seeking a Community Engagement Fellow ](/notes/stevie/04-06-2022/seeking-a-community-engagement-fellow) by [stevie](../profile/stevie)

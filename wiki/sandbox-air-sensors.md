@@ -1,12 +1,18 @@
 ---
-nid: 25213
 title: sandbox-air-sensors
-path: public/static/wiki/sandbox-air-sensors.md
-uid: 664477
 tagnames: 
+author: bhamster
+path: /wiki/sandbox-air-sensors.md
+nid: 25213
+uid: 664477
+
 ---
 
 # sandbox-air-sensors
+
+by [bhamster](../profile/bhamster)
+
+December 10, 2020 23:31 | Tags: 
 
 ## Choosing Sensors 
 

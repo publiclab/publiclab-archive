@@ -1,12 +1,18 @@
 ---
-nid: 12323
 title: Middle Planet
-path: public/static/notes/cfastie/10-20-2015/middle-planet.md
+tagnames: kite-mapping, middlebury, vermont, kite, middlebury-college, saturnv, skyshield, half-spherical, littleplanet, response:12315
+author: cfastie
+path: /notes/cfastie/10-20-2015/middle-planet.md
+nid: 12323
 uid: 554
-tagnames: kite-mapping,middlebury,vermont,kite,middlebury-college,saturnv,skyshield,half-spherical,littleplanet,response:12315
+
 ---
 
 # Middle Planet
+
+by [cfastie](../profile/cfastie) October 20, 2015 22:13
+
+October 20, 2015 22:13 | Tags: [kite-mapping](../tag/kite-mapping), [middlebury](../tag/middlebury), [vermont](../tag/vermont), [kite](../tag/kite), [middlebury-college](../tag/middlebury-college), [saturnv](../tag/saturnv), [skyshield](../tag/skyshield), [half-spherical](../tag/half-spherical), [littleplanet](../tag/littleplanet), [response:12315](../tag/response:12315)
 
 *Above: Stereographic projection of a spherical KAP panorama from a few hundred feet above the center of the Middlebury College campus. Stitched from 24 photos.*
 

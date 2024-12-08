@@ -1,12 +1,18 @@
 ---
-nid: 12372
 title: The Barnraiser
-path: public/static/wiki/the-barnraiser.md
+tagnames: barnraising, doccom, barnraiser, barnraising-2015, parent:doccom
+author: warren
+path: /wiki/the-barnraiser.md
+nid: 12372
 uid: 1
-tagnames: barnraising,doccom,barnraiser,barnraising-2015,parent:doccom
+
 ---
 
 # The Barnraiser
+
+by [warren](../profile/warren), [liz](../profile/liz), [stevie](../profile/stevie), [lombana](../profile/lombana), [patcoyle](../profile/patcoyle)
+
+November 05, 2015 17:27 | Tags: [barnraising](../tag/barnraising), [doccom](../tag/doccom), [barnraiser](../tag/barnraiser), [barnraising-2015](../tag/barnraising-2015), [parent:doccom](../tag/parent:doccom)
 
 The Barnraiser is a 1-page daily "newspaper" we're publishing during the [PL Barnraising](/barnraising) as part of the Documentation Committee (DocCom). 
 

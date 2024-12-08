@@ -1,12 +1,18 @@
 ---
-nid: 6651
 title: report back from 2013 Just Food Conference
-path: public/static/notes/liz/4-2-2013/report-back-2013-just-food-conference.md
+tagnames: new-york-city, 5bf, five-borough-farm, open-space-technology, events:new-york-city
+author: liz
+path: /notes/liz/4-2-2013/report-back-2013-just-food-conference.md
+nid: 6651
 uid: 7
-tagnames: new-york-city,5bf,five-borough-farm,open-space-technology,events:new-york-city
+
 ---
 
 # report back from 2013 Just Food Conference
+
+by [liz](../profile/liz) April 03, 2013 00:47
+
+April 03, 2013 00:47 | Tags: [new-york-city](../tag/new-york-city), [5bf](../tag/5bf), [five-borough-farm](../tag/five-borough-farm), [open-space-technology](../tag/open-space-technology), [events:new-york-city](../tag/events:new-york-city)
 
 On Friday March 29th, two staffers from the Design Trust and I led two brief workshops at the <a href="http://www.justfood.org/">Just Food</a> <a href="http://justfood.org/events">Conference</a>. 
 

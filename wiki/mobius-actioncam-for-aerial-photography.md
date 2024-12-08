@@ -1,12 +1,18 @@
 ---
-nid: 12567
 title: Mobius ActionCam for Aerial Photography
-path: public/static/wiki/mobius-actioncam-for-aerial-photography.md
-uid: 447491
 tagnames: 
+author: tonyc
+path: /wiki/mobius-actioncam-for-aerial-photography.md
+nid: 12567
+uid: 447491
+
 ---
 
 # Mobius ActionCam for Aerial Photography
+
+by [tonyc](../profile/tonyc)
+
+January 07, 2016 01:18 | Tags: 
 
 The Kits Team is preparing to offer Mobius ActionCams through the store.
 

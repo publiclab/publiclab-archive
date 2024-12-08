@@ -1,12 +1,18 @@
 ---
-nid: 12104
 title: A Lending Library (shipping and other troubles in the holyland)
-path: public/static/notes/hagitkeysar/07-28-2015/a-lending-library-shipping-and-other-troubles-in-the-holyland.md
+tagnames: balloon-mapping, kite-mapping, jerusalem, diy, israel, palestine, lending-library, troubles-in-the-holyland, middle-east
+author: hagitkeysar
+path: /notes/hagitkeysar/07-28-2015/a-lending-library-shipping-and-other-troubles-in-the-holyland.md
+nid: 12104
 uid: 152
-tagnames: balloon-mapping,kite-mapping,jerusalem,diy,israel,palestine,lending-library,troubles-in-the-holyland,middle-east
+
 ---
 
 # A Lending Library (shipping and other troubles in the holyland)
+
+by [hagitkeysar](../profile/hagitkeysar) July 28, 2015 19:40
+
+July 28, 2015 19:40 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [jerusalem](../tag/jerusalem), [diy](../tag/diy), [israel](../tag/israel), [palestine](../tag/palestine), [lending-library](../tag/lending-library), [troubles-in-the-holyland](../tag/troubles-in-the-holyland), [middle-east](../tag/middle-east)
 
 I am writing this research note to start thinking and planning how to solve the problems with shipping to Jerusalem/Israel/Palestine.
 Most of the aerial photography done in the area were created using my equipment and Shai Efrati's, that was excellent but obviously it cannot fit any project. An NGO I assist, ([Bimkom](bimkom.org) planners for planning rights) has just ordered a 1500$ shipment that included a few kits and extra Balloons and Kites. It got stuck because the authorities required us to send it for inspection by the Israeli Institute of Standards, after we finished with that part it got stuck again because DHL sent it for checking aviation regulations. All this required more money and time spent, and handling bureaucracy. Which is not fun...

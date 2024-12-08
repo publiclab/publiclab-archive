@@ -1,12 +1,18 @@
 ---
-nid: 791
 title: Crowd-sourcing Radiation Sampling in Japan
-path: public/static/notes/drdavesonntag/2-15-2012/crowd-sourcing-radiation-sampling-japan.md
-uid: 517
 tagnames: radiation
+author: dr.dave.sonntag
+path: /notes/drdavesonntag/2-15-2012/crowd-sourcing-radiation-sampling-japan.md
+nid: 791
+uid: 517
+
 ---
 
 # Crowd-sourcing Radiation Sampling in Japan
+
+by [dr.dave.sonntag](../profile/dr.dave.sonntag) February 16, 2012 00:40
+
+February 16, 2012 00:40 | Tags: [radiation](../tag/radiation)
 
 An awesome story. Over 2M geotagged, crowd-sourced radiation readings taken in Japan.
 

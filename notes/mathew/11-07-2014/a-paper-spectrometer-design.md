@@ -1,12 +1,18 @@
 ---
-nid: 11324
 title: a paper spectrometer design
-path: public/static/notes/mathew/11-07-2014/a-paper-spectrometer-design.md
+tagnames: spectrometer, desktop-spectrometer, fold-up, dsk, oil-testing-kit, barnstar:photo-documentation, paper
+author: mathew
+path: /notes/mathew/11-07-2014/a-paper-spectrometer-design.md
+nid: 11324
 uid: 4
-tagnames: spectrometer,desktop-spectrometer,fold-up,dsk,oil-testing-kit,barnstar:photo-documentation,paper
+
 ---
 
 # a paper spectrometer design
+
+by [mathew](../profile/mathew) November 07, 2014 21:27
+
+November 07, 2014 21:27 | Tags: [spectrometer](../tag/spectrometer), [desktop-spectrometer](../tag/desktop-spectrometer), [fold-up](../tag/fold-up), [dsk](../tag/dsk), [oil-testing-kit](../tag/oil-testing-kit), [barnstar:photo-documentation](../tag/barnstar:photo-documentation), [paper](../tag/paper)
 
 ###What I want to do
 build a spectrometer that doesn't use a conduit box, out of mostly paper and cardboard. I want it to be easy to open and close, and ideally all the pieces could be printed on 8.5' x 11" paper

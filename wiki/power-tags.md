@@ -1,12 +1,18 @@
 ---
-nid: 9898
 title: Power Tags
-path: public/static/wiki/power-tags.md
+tagnames: posting, list:plots-dev, power-tags, tags, parent:authoring-help, activity-grids, location:blurred, lat:10, parent:website, lon:106, zoom:6, place:vietnam
+author: warren
+path: /wiki/power-tags.md
+nid: 9898
 uid: 1
-tagnames: posting,list:plots-dev,power-tags,tags,parent:authoring-help,activity-grids,location:blurred,lat:10,parent:website,lon:106,zoom:6,place:vietnam
+
 ---
 
 # Power Tags
+
+by [laurel_mire](../profile/laurel_mire), [liz](../profile/liz), [keshavgarg234156](../profile/keshavgarg234156), [natalie_stjean](../profile/natalie_stjean), [warren](../profile/warren), [lekhidugtal](../profile/lekhidugtal), [d1g1t4ld1n4](../profile/d1g1t4ld1n4), [namangupta](../profile/namangupta), [bansal_sidharth2996](../profile/bansal_sidharth2996), [stevie](../profile/stevie), [sagarpreet](../profile/sagarpreet), [vaibhavgeek](../profile/vaibhavgeek), [Ashan](../profile/Ashan), [pablo](../profile/pablo), [mollydanielsson](../profile/mollydanielsson)
+
+December 17, 2013 21:26 | Tags: [posting](../tag/posting), [list:plots-dev](../tag/list:plots-dev), [power-tags](../tag/power-tags), [tags](../tag/tags), [parent:authoring-help](../tag/parent:authoring-help), [activity-grids](../tag/activity-grids), [location:blurred](../tag/location:blurred), [lat:10](../tag/lat:10), [parent:website](../tag/parent:website), [lon:106](../tag/lon:106), [zoom:6](../tag/zoom:6), [place:vietnam](../tag/place:vietnam)
 
 **Power tags** are an advanced feature which can add extra functions and layout options to your wiki pages (and sometimes research notes). They are entered like regular tags but follow the format `key:value`. After adding a power tag, you must refresh the page to see changes made. 
 

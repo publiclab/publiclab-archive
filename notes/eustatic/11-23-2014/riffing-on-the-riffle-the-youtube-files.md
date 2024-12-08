@@ -1,12 +1,18 @@
 ---
-nid: 11393
 title: Riffing on the Riffle:  the youtube files
-path: public/static/notes/eustatic/11-23-2014/riffing-on-the-riffle-the-youtube-files.md
+tagnames: gulf-coast, water, riffle, depth, water-depth
+author: eustatic
+path: /11-23-2014/riffing-on-the-riffle-the-youtube-files.md
+nid: 11393
 uid: 379
-tagnames: gulf-coast,water,riffle,depth,water-depth
+
 ---
 
 # Riffing on the Riffle:  the youtube files
+
+by [eustatic](../profile/eustatic) November 23, 2014 23:11
+
+November 23, 2014 23:11 | Tags: [gulf-coast](../tag/gulf-coast), [water](../tag/water), [riffle](../tag/riffle), [depth](../tag/depth), [water-depth](../tag/water-depth)
 
 ###What I want to do
 

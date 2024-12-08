@@ -1,12 +1,18 @@
 ---
-nid: 25980
 title: sandbox-soil
-path: public/static/wiki/sandbox-soil.md
-uid: 664477
 tagnames: 
+author: bhamster
+path: /wiki/sandbox-soil.md
+nid: 25980
+uid: 664477
+
 ---
 
 # sandbox-soil
+
+by [bhamster](../profile/bhamster)
+
+March 19, 2021 18:23 | Tags: 
 
 A soil contaminant is an element (also known as ‘heavy metals’ or inorganic contaminants, e.g. lead) or a chemical (also known as ‘organics’, e.g. diesel oil) present in the soil at a level that poses health risks to plant, animal or human health. Common soil contaminants include heavy metals, pesticides, polychlorinated biphenyls (PCBs), polycyclic aromatic hydrocarbons (PAHs), and petroleum products.
 

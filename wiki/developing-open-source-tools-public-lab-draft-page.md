@@ -1,12 +1,18 @@
 ---
-nid: 5609
 title: Developing Open Source Tools with Public Lab
-path: public/static/wiki/developing-open-source-tools-public-lab-draft-page.md
-uid: 1259
 tagnames: 
+author: mollydanielsson
+path: /wiki/developing-open-source-tools-public-lab-draft-page.md
+nid: 5609
+uid: 1259
+
 ---
 
 # Developing Open Source Tools with Public Lab
+
+by [liz](../profile/liz), [mollydanielsson](../profile/mollydanielsson)
+
+January 16, 2013 18:01 | Tags: 
 
 **Why open source tools?**
 *Because they make better data faster.*

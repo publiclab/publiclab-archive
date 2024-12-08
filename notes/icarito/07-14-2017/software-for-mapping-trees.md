@@ -1,12 +1,18 @@
 ---
-nid: 14651
 title: Software for mapping trees?
-path: public/static/notes/icarito/07-14-2017/software-for-mapping-trees.md
+tagnames: question:general, first-time-poster
+author: icarito
+path: /notes/icarito/07-14-2017/software-for-mapping-trees.md
+nid: 14651
 uid: 448589
-tagnames: question:general,first-time-poster
+
 ---
 
 # Software for mapping trees?
+
+by [icarito](../profile/icarito) July 14, 2017 02:55
+
+July 14, 2017 02:55 | Tags: [question:general](../tag/question:general), [first-time-poster](../tag/first-time-poster)
 
 ###What I want to do or know
 

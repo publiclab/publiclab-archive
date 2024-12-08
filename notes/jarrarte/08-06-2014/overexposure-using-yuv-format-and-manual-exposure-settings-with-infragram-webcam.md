@@ -1,12 +1,18 @@
 ---
-nid: 11018
 title: Overexposure using YUV format and manual exposure settings with Infragram webcam
-path: public/static/notes/jarrarte/08-06-2014/overexposure-using-yuv-format-and-manual-exposure-settings-with-infragram-webcam.md
+tagnames: webcam, infragram, overexposure, barnstar:empiricism, exposure, yuv, manual
+author: jarrarte
+path: /notes/jarrarte/08-06-2014/overexposure-using-yuv-format-and-manual-exposure-settings-with-infragram-webcam.md
+nid: 11018
 uid: 425714
-tagnames: webcam,infragram,overexposure,barnstar:empiricism,exposure,yuv,manual
+
 ---
 
 # Overexposure using YUV format and manual exposure settings with Infragram webcam
+
+by [jarrarte](../profile/jarrarte) August 06, 2014 14:35
+
+August 06, 2014 14:35 | Tags: [webcam](../tag/webcam), [infragram](../tag/infragram), [overexposure](../tag/overexposure), [barnstar:empiricism](../tag/barnstar:empiricism), [exposure](../tag/exposure), [yuv](../tag/yuv), [manual](../tag/manual)
 
 ###What I want to do
 I want to use the Infragram webcam ([link](http://store.publiclab.org/products/infragram-webcam)) in bright sunny environments, so I need to effectively control exposure. 

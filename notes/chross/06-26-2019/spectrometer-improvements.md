@@ -1,12 +1,18 @@
 ---
-nid: 19870
 title: Spectrometer: improvements
-path: public/static/notes/chross/06-26-2019/spectrometer-improvements.md
+tagnames: spectrometer, spectrometry, light, first-time-poster, diffraction
+author: chross
+path: /notes/chross/06-26-2019/spectrometer-improvements.md
+nid: 19870
 uid: 600374
-tagnames: spectrometer,spectrometry,light,first-time-poster,diffraction
+
 ---
 
 # Spectrometer: improvements
+
+by [chross](../profile/chross) June 26, 2019 09:01
+
+June 26, 2019 09:01 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [light](../tag/light), [first-time-poster](../tag/first-time-poster), [diffraction](../tag/diffraction)
 
 I'm currently building my first spectrometer and have some questions to the more advanced builders out there:
 

@@ -1,6 +1,6 @@
 # diesel
 
-3 notes and wiki pages
+3 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Spectroscopy of oxyhydrogen flames](/notes/tungs10/11-08-2013/spectroscopy-of-oxyhydrogen-flames) by [tungs10](../profile/tungs10)
 - [The effect of dilution on the emission spectrum of diesel fuel ](/notes/ethanbass/02-23-2016/the-effect-of-dilution-on-the-emission-spectrum-of-diesel-fuel) by [ethanbass](../profile/ethanbass)

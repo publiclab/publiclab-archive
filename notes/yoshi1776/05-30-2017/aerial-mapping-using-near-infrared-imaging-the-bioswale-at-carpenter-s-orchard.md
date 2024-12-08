@@ -1,12 +1,18 @@
 ---
-nid: 14247
 title: Aerial Mapping Using Near-Infrared Imaging: The Bioswale at Carpenter's Orchard
-path: public/static/notes/yoshi1776/05-30-2017/aerial-mapping-using-near-infrared-imaging-the-bioswale-at-carpenter-s-orchard.md
+tagnames: near-infrared-camera, ndvi, mapping, water-quality, aerial, hidden:response, response:14179, thacher, bioswale, nutrient-runoff, replication:15075
+author: yoshi1776
+path: /notes/yoshi1776/05-30-2017/aerial-mapping-using-near-infrared-imaging-the-bioswale-at-carpenter-s-orchard.md
+nid: 14247
 uid: 508251
-tagnames: near-infrared-camera,ndvi,mapping,water-quality,aerial,hidden:response,response:14179,thacher,bioswale,nutrient-runoff,replication:15075
+
 ---
 
 # Aerial Mapping Using Near-Infrared Imaging: The Bioswale at Carpenter's Orchard
+
+by [yoshi1776](../profile/yoshi1776) May 30, 2017 16:24
+
+May 30, 2017 16:24 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [mapping](../tag/mapping), [water-quality](../tag/water-quality), [aerial](../tag/aerial), [hidden:response](../tag/hidden:response), [response:14179](../tag/response:14179), [thacher](../tag/thacher), [bioswale](../tag/bioswale), [nutrient-runoff](../tag/nutrient-runoff), [replication:15075](../tag/replication:15075)
 
 Aerial Mapping Using Near-Infrared Imaging: The Bioswale at Carpenter's Orchard
 

@@ -1,12 +1,18 @@
 ---
-nid: 12894
 title: Public Lab Installation in the EU Joint Research Center
-path: public/static/notes/hagitkeysar/03-26-2016/public-lab-installation-in-the-eu-joint-research-center.md
+tagnames: balloon-mapping, italy, eu, installation, europe, exhibition, jrc
+author: hagitkeysar
+path: /notes/hagitkeysar/03-26-2016/public-lab-installation-in-the-eu-joint-research-center.md
+nid: 12894
 uid: 152
-tagnames: balloon-mapping,italy,eu,installation,europe,exhibition,jrc
+
 ---
 
 # Public Lab Installation in the EU Joint Research Center
+
+by [hagitkeysar](../profile/hagitkeysar) March 26, 2016 17:21
+
+March 26, 2016 17:21 | Tags: [balloon-mapping](../tag/balloon-mapping), [italy](../tag/italy), [eu](../tag/eu), [installation](../tag/installation), [europe](../tag/europe), [exhibition](../tag/exhibition), [jrc](../tag/jrc)
 
 **New Currents in Science: The Challenges of Quality 3-4 March 2016 , Ispra, Italy
 **

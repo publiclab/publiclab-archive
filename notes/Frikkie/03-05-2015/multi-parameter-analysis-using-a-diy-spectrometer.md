@@ -1,12 +1,18 @@
 ---
-nid: 11655
 title: Multi parameter analysis using a DIY Spectrometer
-path: public/static/notes/Frikkie/03-05-2015/multi-parameter-analysis-using-a-diy-spectrometer.md
+tagnames: spectrometer, flame-spectroscopy, barnstar:basic, nitrate, colorimetry, sodium, colorimeter, aquaponics, photometer, potassium, nitrates, activity:spectrometry, nitrogen, first-time-poster, activity:nitrogen, activity:nitrates, activity:spectrometry-usage
+author: Frikkie
+path: /notes/Frikkie/03-05-2015/multi-parameter-analysis-using-a-diy-spectrometer.md
+nid: 11655
 uid: 435693
-tagnames: spectrometer,flame-spectroscopy,barnstar:basic,nitrate,colorimetry,sodium,colorimeter,aquaponics,photometer,potassium,nitrates,activity:spectrometry,nitrogen,first-time-poster,activity:nitrogen,activity:nitrates,activity:spectrometry-usage
+
 ---
 
 # Multi parameter analysis using a DIY Spectrometer
+
+by [Frikkie](../profile/Frikkie) March 05, 2015 11:30
+
+March 05, 2015 11:30 | Tags: [spectrometer](../tag/spectrometer), [flame-spectroscopy](../tag/flame-spectroscopy), [barnstar:basic](../tag/barnstar:basic), [nitrate](../tag/nitrate), [colorimetry](../tag/colorimetry), [sodium](../tag/sodium), [colorimeter](../tag/colorimeter), [aquaponics](../tag/aquaponics), [photometer](../tag/photometer), [potassium](../tag/potassium), [nitrates](../tag/nitrates), [activity:spectrometry](../tag/activity:spectrometry), [nitrogen](../tag/nitrogen), [first-time-poster](../tag/first-time-poster), [activity:nitrogen](../tag/activity:nitrogen), [activity:nitrates](../tag/activity:nitrates), [activity:spectrometry-usage](../tag/activity:spectrometry-usage)
 
 <p>A colorimeter, flame photometer and conductivity meter all in one.</p>
 

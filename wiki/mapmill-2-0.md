@@ -1,12 +1,18 @@
 ---
-nid: 10623
 title: MapMill 2.0
-path: public/static/wiki/mapmill-2-0.md
+tagnames: software, mapmill, mockups, wireframes
+author: warren
+path: /wiki/mapmill-2-0.md
+nid: 10623
 uid: 1
-tagnames: software,mapmill,mockups,wireframes
+
 ---
 
 # MapMill 2.0
+
+by [jcarrera](../profile/jcarrera), [sara](../profile/sara), [faboolous](../profile/faboolous), [warren](../profile/warren)
+
+June 27, 2014 14:01 | Tags: [software](../tag/software), [mapmill](../tag/mapmill), [mockups](../tag/mockups), [wireframes](../tag/wireframes)
 
 ##NWF Grant Application for MapMill Redevelopment:
 

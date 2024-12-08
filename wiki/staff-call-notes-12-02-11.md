@@ -1,12 +1,18 @@
 ---
-nid: 604
 title: Staff call notes 12-02-11
-path: public/static/wiki/staff-call-notes-12-02-11.md
-uid: 9
 tagnames: 
+author: Shannon
+path: /wiki/staff-call-notes-12-02-11.md
+nid: 604
+uid: 9
+
 ---
 
 # Staff call notes 12-02-11
+
+by [Shannon](../profile/Shannon)
+
+December 02, 2011 19:13 | Tags: 
 
 Three core staff present
 

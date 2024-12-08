@@ -1,12 +1,18 @@
 ---
-nid: 8882
 title: White balance for NDVI cameras
-path: public/static/wiki/infrablue-white-balance.md
+tagnames: near-infrared-camera, ndvi, infrared, white-balance, infragram, parent:infragram, 2007, 74, 2008
+author: cfastie
+path: /wiki/infrablue-white-balance.md
+nid: 8882
 uid: 554
-tagnames: near-infrared-camera,ndvi,infrared,white-balance,infragram,parent:infragram,2007,74,2008
+
 ---
 
 # White balance for NDVI cameras
+
+by [warren](../profile/warren), [cfastie](../profile/cfastie)
+
+July 14, 2013 23:46 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [infrared](../tag/infrared), [white-balance](../tag/white-balance), [infragram](../tag/infragram), [parent:infragram](../tag/parent:infragram), [2007](../tag/2007), [74](../tag/74), [2008](../tag/2008)
 
 White balance can be critical to getting good results with infrared converted cameras. 
 

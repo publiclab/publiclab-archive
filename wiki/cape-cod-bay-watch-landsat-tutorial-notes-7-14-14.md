@@ -1,12 +1,18 @@
 ---
-nid: 10980
 title: Cape Cod Bay Watch Landsat Tutorial notes 7/14/14
-path: public/static/wiki/cape-cod-bay-watch-landsat-tutorial-notes-7-14-14.md
+tagnames: massachusetts, cape-cod-bay-watch, landsat, tutorial, thermal, northeast, thermal-plume, landsat-7, qgis
+author: karenv
+path: /wiki/cape-cod-bay-watch-landsat-tutorial-notes-7-14-14.md
+nid: 10980
 uid: 60501
-tagnames: massachusetts,cape-cod-bay-watch,landsat,tutorial,thermal,northeast,thermal-plume,landsat-7,qgis
+
 ---
 
 # Cape Cod Bay Watch Landsat Tutorial notes 7/14/14
+
+by [karenv](../profile/karenv)
+
+July 26, 2014 15:11 | Tags: [massachusetts](../tag/massachusetts), [cape-cod-bay-watch](../tag/cape-cod-bay-watch), [landsat](../tag/landsat), [tutorial](../tag/tutorial), [thermal](../tag/thermal), [northeast](../tag/northeast), [thermal-plume](../tag/thermal-plume), [landsat-7](../tag/landsat-7), [qgis](../tag/qgis)
 
 These are the notes from a tutorial that Ned Horning gave to the members of Cape Cod Bay Watch and the Jones River Watershed Association, (Pine duBois, Alex Mansfield, Karen Vale, and Adam Augello) and Don Blaire from Public Lab, on how to download and edit GeoTIFF Landsat images on QGIS. Cape Cod Bay Watch and the JRWA want to use this program for thermal mapping of Cape Cod Bay, specifically to measure the thermal plume generated from the Pilgrim Nuclear Power Station in Plymouth. 
 

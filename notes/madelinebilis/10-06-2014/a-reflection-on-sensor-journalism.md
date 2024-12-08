@@ -1,12 +1,18 @@
 ---
-nid: 11244
 title: A Reflection on Sensor Journalism
-path: public/static/notes/madelinebilis/10-06-2014/a-reflection-on-sensor-journalism.md
+tagnames: water-sensing, conductivity, coqui, sensor-journalism
+author: madelinebilis
+path: /notes/madelinebilis/10-06-2014/a-reflection-on-sensor-journalism.md
+nid: 11244
 uid: 428057
-tagnames: water-sensing,conductivity,coqui,sensor-journalism
+
 ---
 
 # A Reflection on Sensor Journalism
+
+by [madelinebilis](../profile/madelinebilis) October 06, 2014 18:57
+
+October 06, 2014 18:57 | Tags: [water-sensing](../tag/water-sensing), [conductivity](../tag/conductivity), [coqui](../tag/coqui), [sensor-journalism](../tag/sensor-journalism)
 
 Sensor journalism is a new field of reporting that has opened a door of endless possibilities. It is a new way to approach the world and its problems, and a new way to garner solutions to these problems. While the groundbreaking concept presents many opportunities, it has its shortfalls. There are many ways in which sensor journalism can generate a wide variety of errors. Luckily, since the field is so new, there is time to work out the kinks. By recognizing sensor journalism’s opportunities and challenges, journalists and scientists alike can work towards a more legitimate and precise sensor journalism.
 

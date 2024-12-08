@@ -1,12 +1,18 @@
 ---
-nid: 2351
 title: Rhus H2S experiment
-path: public/static/wiki/rhus-h2s-experiment.md
+tagnames: hydrogen-sulfide-sensing, hydrogen-sulfide, h2s
+author: sara
+path: /wiki/rhus-h2s-experiment.md
+nid: 2351
 uid: 8
-tagnames: hydrogen-sulfide-sensing,hydrogen-sulfide,h2s
+
 ---
 
 # Rhus H2S experiment
+
+by [deepwinter](../profile/deepwinter), [sara](../profile/sara)
+
+June 05, 2012 18:40 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s)
 
 This page is for planning experiments with the Rhus platform and mapping H2S detection with photographic strips and draeger tubes.
 

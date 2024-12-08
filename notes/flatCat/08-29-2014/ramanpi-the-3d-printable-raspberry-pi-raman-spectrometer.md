@@ -1,12 +1,18 @@
 ---
-nid: 11087
 title: ramanPi - The 3D Printable Raspberry Pi Raman Spectrometer
-path: public/static/notes/flatCat/08-29-2014/ramanpi-the-3d-printable-raspberry-pi-raman-spectrometer.md
+tagnames: spectrometer, spectrometry, raman, cuvette, 3d-printing, barnstar:basic, barnstar:excessive-enthusiasm, response:11079, hackaday
+author: flatCat
+path: /notes/flatCat/08-29-2014/ramanpi-the-3d-printable-raspberry-pi-raman-spectrometer.md
+nid: 11087
 uid: 427636
-tagnames: spectrometer,spectrometry,raman,cuvette,3d-printing,barnstar:basic,barnstar:excessive-enthusiasm,response:11079,hackaday
+
 ---
 
 # ramanPi - The 3D Printable Raspberry Pi Raman Spectrometer
+
+by [flatCat](../profile/flatCat) August 29, 2014 18:35
+
+August 29, 2014 18:35 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [raman](../tag/raman), [cuvette](../tag/cuvette), [3d-printing](../tag/3d-printing), [barnstar:basic](../tag/barnstar:basic), [barnstar:excessive-enthusiasm](../tag/barnstar:excessive-enthusiasm), [response:11079](../tag/response:11079), [hackaday](../tag/hackaday)
 
 ##ramanPi is looking for developers!!!
 ****If you have Python, pyQt4, matplotlib, signal processing, optics, raman spectroscopy or FPGA experience contact dev @ ramapi .org!  Or go to dev . ramanPi . org and sign up to the developer forums!  

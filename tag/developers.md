@@ -1,6 +1,6 @@
 # developers
 
-84 notes and wiki pages
+84 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [MapMill](/wiki/mapmill) (wiki)
 - [SoC ideas](/wiki/gsoc-ideas) (wiki)
@@ -76,13 +76,10 @@
 - [Congratulations on a great 2018 Summer of Code!](/notes/warren/08-21-2018/congratulations-on-a-great-2018-summer-of-code) by [warren](../profile/warren)
 - [Web Working Group Update 23: August 2018](/notes/warren/08-30-2018/web-working-group-update-23-august-2018) by [warren](../profile/warren)
 - [Public Lab Code Community Report: Jan 2019](/notes/warren/01-02-2019/public-lab-code-community-report-jan-2019) by [warren](../profile/warren)
-- [Skoda kodiaq ](/notes/skoda_kodiaq/01-02-2019/skoda-kodiaq) by [skoda_kodiaq](../profile/skoda_kodiaq)
 - [Congrats to Google Code-In 2018 participants!](/notes/warren/01-07-2019/congrats-to-google-code-in-2018-participants) by [warren](../profile/warren)
 - [Inline map testing ](/notes/sagarpreet/01-30-2019/inline-map-testing) by [sagarpreet](../profile/sagarpreet)
 - [Software Community Growth through "first-timers-only" issues](/notes/gauravano/03-29-2019/software-community-growth-through-first-timers-only-issues) by [gauravano](../profile/gauravano)
 - [Public Lab Code Community Report: April 2019](/notes/warren/04-19-2019/public-lab-code-community-report-april-2019) by [warren](../profile/warren)
 - [User interface projects update and DIAL OSC project recap](/notes/warren/04-22-2019/user-interface-projects-update-and-dial-osc-project-recap) by [warren](../profile/warren)
-- [Top 10 Web Design Companies Brisbane](/notes/JamesOskar/04-12-2020/top-10-web-design-companies-brisbane) by [JamesOskar](../profile/JamesOskar)
 - [Report: 2020 Software Contributors Survey](/notes/liz/01-20-2021/report-2020-software-contributors-survey) by [liz](../profile/liz)
 - [First-timer-only release workflow](/notes/sagarpreet_chadha/10-20-2020/first-timer-only-release-workflow) by [sagarpreet_chadha](../profile/sagarpreet_chadha)
-- [Joomla Development Company in New York](/notes/fortunesoft/12-11-2020/joomla-development-company-in-new-york) by [fortunesoft](../profile/fortunesoft)

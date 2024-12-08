@@ -1,12 +1,18 @@
 ---
-nid: 14612
 title: The Squid and the Rok
-path: public/static/notes/cfastie/07-03-2017/the-squid-and-the-rok.md
+tagnames: kite-mapping, vermont, kite-aerial-photography, kickstarter, kap, mini-kite-kit, squidweek, squid, aerobee-rig, rokkaku
+author: cfastie
+path: /notes/cfastie/07-03-2017/the-squid-and-the-rok.md
+nid: 14612
 uid: 554
-tagnames: kite-mapping,vermont,kite-aerial-photography,kickstarter,kap,mini-kite-kit,squidweek,squid,aerobee-rig,rokkaku
+
 ---
 
 # The Squid and the Rok
+
+by [cfastie](../profile/cfastie) July 03, 2017 17:08
+
+July 03, 2017 17:08 | Tags: [kite-mapping](../tag/kite-mapping), [vermont](../tag/vermont), [kite-aerial-photography](../tag/kite-aerial-photography), [kickstarter](../tag/kickstarter), [kap](../tag/kap), [mini-kite-kit](../tag/mini-kite-kit), [squidweek](../tag/squidweek), [squid](../tag/squid), [aerobee-rig](../tag/aerobee-rig), [rokkaku](../tag/rokkaku)
 
 I might have missed Squid Week, but I had to wait for the rain to stop. The squid kite is part of [Public Lab's current Kickstarter](https://www.kickstarter.com/projects/publiclab/kickstarter-gold-balloon-mapping-kits?ref=project_link) and some people have been trying it out this week for kite aerial photography (KAP). I was gifted a squid kite at the last LEAFFEST and tried it out in October, but it was too windy that day to fly a camera with any of my kites so I have been looking forward to trying Squidward again. 
 

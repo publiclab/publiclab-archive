@@ -1,12 +1,18 @@
 ---
-nid: 10001
 title: Linear CCD
-path: public/static/notes/borsaci06/02-01-2014/linear-ccd.md
+tagnames: spectrometer, linearccd
+author: borsaci06
+path: /notes/borsaci06/02-01-2014/linear-ccd.md
+nid: 10001
 uid: 420223
-tagnames: spectrometer,linearccd
+
 ---
 
 # Linear CCD
+
+by [borsaci06](../profile/borsaci06) February 01, 2014 16:41
+
+February 01, 2014 16:41 | Tags: [spectrometer](../tag/spectrometer), [linearccd](../tag/linearccd)
 
 I already constructed a spectometer and testing it... I want to know whether a Linear CCD can be used like webcam... For the ones who are interested, a Linear CCD is a CCD that captures a single line of pixels at a time... These can be scavenged from old scanners...
 

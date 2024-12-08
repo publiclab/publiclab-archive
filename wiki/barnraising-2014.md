@@ -1,12 +1,18 @@
 ---
-nid: 11404
 title: barnraising-2014
-path: public/static/wiki/barnraising-2014.md
+tagnames: events, barnraising, event, great-photos, parent:barnraising, barnraising2014
+author: stevie
+path: /wiki/barnraising-2014.md
+nid: 11404
 uid: 422561
-tagnames: events,barnraising,event,great-photos,parent:barnraising,barnraising2014
+
 ---
 
 # barnraising-2014
+
+by [liz](../profile/liz), [stevie](../profile/stevie), [ann](../profile/ann)
+
+November 26, 2014 00:24 | Tags: [events](../tag/events), [barnraising](../tag/barnraising), [event](../tag/event), [great-photos](../tag/great-photos), [parent:barnraising](../tag/parent:barnraising), [barnraising2014](../tag/barnraising2014)
 
 ###About the event
 The Barnrasing of 2014 was held at LUMCON in Cocodrie Louisiana in mid November. Over 50 people gathered at this event to share an awesome weekend of "doing stuff together." Here are some reflections on our Barnraising. Our tool hackin, community buildin, story tellin, boat trippin, kite flying, gumbo eatin heck of a good time! 

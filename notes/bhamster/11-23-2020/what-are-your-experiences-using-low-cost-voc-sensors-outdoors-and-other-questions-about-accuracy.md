@@ -1,12 +1,18 @@
 ---
-nid: 25098
 title: What are your experiences using low-cost VOC sensors outdoors? And other questions about accuracy.
-path: public/static/notes/bhamster/11-23-2020/what-are-your-experiences-using-low-cost-voc-sensors-outdoors-and-other-questions-about-accuracy.md
+tagnames: air-quality, question:air-quality, voc, vocs, question:general, general, question:air-sensors, air-sensors, question:vocs
+author: bhamster
+path: /notes/bhamster/11-23-2020/what-are-your-experiences-using-low-cost-voc-sensors-outdoors-and-other-questions-about-accuracy.md
+nid: 25098
 uid: 664477
-tagnames: air-quality,question:air-quality,voc,vocs,question:general,general,question:air-sensors,air-sensors,question:vocs
+
 ---
 
 # What are your experiences using low-cost VOC sensors outdoors? And other questions about accuracy.
+
+by [bhamster](../profile/bhamster) November 23, 2020 22:06
+
+November 23, 2020 22:06 | Tags: [air-quality](../tag/air-quality), [question:air-quality](../tag/question:air-quality), [voc](../tag/voc), [vocs](../tag/vocs), [question:general](../tag/question:general), [general](../tag/general), [question:air-sensors](../tag/question:air-sensors), [air-sensors](../tag/air-sensors), [question:vocs](../tag/question:vocs)
 
 I'm hoping to build off previous posts about volatile organic compound (VOC) sensors ([here](https://publiclab.org/questions/stevie/02-28-2020/does-anyone-have-experience-assembling-low-cost-voc-kits-using-adafruit-s-voc-sensor) about the CCS811 sensor, and [here](https://publiclab.org/questions/stevie/02-06-2020/are-there-any-other-professional-instruments-that-measures-different-voc-besides-pid-photoionisation-detector) about PID sensors), and synthesize information on low-cost VOC sensors for the current [research area review on outdoor air quality](https://publiclab.org/notes/bhamster/10-20-2020/research-area-review-on-air-quality).
 

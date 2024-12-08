@@ -1,12 +1,18 @@
 ---
-nid: 743
 title: Lima, Peru: Kite Making/Ballon Mapping Workshop, U. of San Marcos
-path: public/static/notes/anita/2-2-2012/lima-peru-kite-makingballon-mapping-workshop-u-san-marcos.md
+tagnames: lima, balloon-mapping, kite-mapping, peru, kite-making, first-time-poster
+author: anita
+path: /notes/anita/2-2-2012/lima-peru-kite-makingballon-mapping-workshop-u-san-marcos.md
+nid: 743
 uid: 481
-tagnames: lima,balloon-mapping,kite-mapping,peru,kite-making,first-time-poster
+
 ---
 
 # Lima, Peru: Kite Making/Ballon Mapping Workshop, U. of San Marcos
+
+by [anita](../profile/anita) February 02, 2012 18:26
+
+February 02, 2012 18:26 | Tags: [lima](../tag/lima), [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [peru](../tag/peru), [kite-making](../tag/kite-making), [first-time-poster](../tag/first-time-poster)
 
 We held a Ballon Mapping and Kite Making Workshop on the Campus of San Marcos on Jan. 28, 2012 with a group of about 10 people from: Open Street Map Peru, Saberes Nomadas, and San Marcos Univ. (physics, geography, sociology, and geographic engineering depts.)  
 

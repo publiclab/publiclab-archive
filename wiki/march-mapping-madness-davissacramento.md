@@ -1,12 +1,18 @@
 ---
-nid: 893
 title: March Mapping Madness-Davis/Sacramento
-path: public/static/wiki/march-mapping-madness-davissacramento.md
-uid: 8
 tagnames: 
+author: sara
+path: /wiki/march-mapping-madness-davissacramento.md
+nid: 893
+uid: 8
+
 ---
 
 # March Mapping Madness-Davis/Sacramento
+
+by [sara](../profile/sara)
+
+March 06, 2012 01:23 | Tags: 
 
 Planning Page for Davis/Sacramento Event
 

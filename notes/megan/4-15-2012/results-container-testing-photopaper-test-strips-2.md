@@ -1,12 +1,18 @@
 ---
-nid: 1680
 title: Results: Container Testing for Photopaper Test Strips #2
-path: public/static/notes/megan/4-15-2012/results-container-testing-photopaper-test-strips-2.md
-uid: 775
 tagnames: hydrogen-sulfide-sensing
+author: megan
+path: /notes/megan/4-15-2012/results-container-testing-photopaper-test-strips-2.md
+nid: 1680
+uid: 775
+
 ---
 
 # Results: Container Testing for Photopaper Test Strips #2
+
+by [megan](../profile/megan) April 15, 2012 22:42
+
+April 15, 2012 22:42 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing)
 
 Container Test #2
 4/1/2012-4/4/4/2012

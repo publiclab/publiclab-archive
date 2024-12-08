@@ -1,12 +1,18 @@
 ---
-nid: 786
 title: Artisanal Kite Mapping: Villa Maria, Lima, Peru
-path: public/static/notes/anita/2-13-2012/artisanal-kite-mapping-villa-maria-lima-peru.md
+tagnames: lima, kite-mapping, peru, tenure-mapping
+author: anita
+path: /notes/anita/2-13-2012/artisanal-kite-mapping-villa-maria-lima-peru.md
+nid: 786
 uid: 481
-tagnames: lima,kite-mapping,peru,tenure-mapping
+
 ---
 
 # Artisanal Kite Mapping: Villa Maria, Lima, Peru
+
+by [anita](../profile/anita) February 14, 2012 01:19
+
+February 14, 2012 01:19 | Tags: [lima](../tag/lima), [kite-mapping](../tag/kite-mapping), [peru](../tag/peru), [tenure-mapping](../tag/tenure-mapping)
 
    ** traducion al espanol abajo
 

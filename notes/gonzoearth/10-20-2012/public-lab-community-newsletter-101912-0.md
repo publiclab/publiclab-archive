@@ -1,12 +1,18 @@
 ---
-nid: 4537
 title: Public Lab Community Newsletter 10.19.12
-path: public/static/notes/gonzoearth/10-20-2012/public-lab-community-newsletter-101912-0.md
-uid: 12
 tagnames: 
+author: gonzoearth
+path: /notes/gonzoearth/10-20-2012/public-lab-community-newsletter-101912-0.md
+nid: 4537
+uid: 12
+
 ---
 
 # Public Lab Community Newsletter 10.19.12
+
+by [gonzoearth](../profile/gonzoearth) October 20, 2012 06:49
+
+October 20, 2012 06:49 | Tags: 
 
 **This Week in Public Laboratory** 
 Plenty of action this week including a new balloon kit, flame spectroscopy, a prototype rasberry-pi based dual camera, and a community feedback survey. 

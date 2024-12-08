@@ -1,12 +1,18 @@
 ---
-nid: 4574
 title: Opera Mobile
-path: public/static/wiki/opera-mobile.md
-uid: 1
 tagnames: 
+author: warren
+path: /wiki/opera-mobile.md
+nid: 4574
+uid: 1
+
 ---
 
 # Opera Mobile
+
+by [warren](../profile/warren)
+
+October 22, 2012 14:00 | Tags: 
 
 There is an issue affecting Spectral Workbench capture on Android phones in the latest Opera Mobile (v12.1). Opera makes previous versions available at:
 

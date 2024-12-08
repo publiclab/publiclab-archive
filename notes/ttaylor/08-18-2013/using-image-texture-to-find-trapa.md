@@ -1,12 +1,18 @@
 ---
-nid: 9034
 title: using image texture to find Trapa
-path: public/static/notes/ttaylor/08-18-2013/using-image-texture-to-find-trapa.md
+tagnames: balloon-mapping, near-infrared-camera, amherst, infragram, invasive, classification, h2onutz, trapa, response:9019, activity:classification
+author: ttaylor
+path: /notes/ttaylor/08-18-2013/using-image-texture-to-find-trapa.md
+nid: 9034
 uid: 58398
-tagnames: balloon-mapping,near-infrared-camera,amherst,infragram,invasive,classification,h2onutz,trapa,response:9019,activity:classification
+
 ---
 
 # using image texture to find Trapa
+
+by [ttaylor](../profile/ttaylor) August 18, 2013 21:00
+
+August 18, 2013 21:00 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [amherst](../tag/amherst), [infragram](../tag/infragram), [invasive](../tag/invasive), [classification](../tag/classification), [h2onutz](../tag/h2onutz), [trapa](../tag/trapa), [response:9019](../tag/response:9019), [activity:classification](../tag/activity:classification)
 
 With the limited success of using color to find Trapa as described in my post <a href="http://publiclab.org/notes/ttaylor/08-16-2013/a-little-background-work-for-trapa-classification-from-color">here</a> and with Chris Fastie's words about his cognitive process for finding Trapa based on the "repeating pattern of leaves of Trapa which are smaller than the leaves of other plants there" ringing in my head, I took advantage of my strong need to procrastinate some other chores to take *rough* hack at this problem.  In the Chris'  <a href="http://fastie.net/Bin/12WarnerVIS/WarnerLkVis7075.JPG">Vis7075</a> image, the identified Trapa patches in the top center and bottom center of the image looked to me to have less small scale variability than some other places in the image.   This suggested to me that the Laplacian of this image (see this <a hreft="http://homepages.inf.ed.ac.uk/rbf/HIPR2/log.htm">link</a> among many others) would be useful to highlight locations where Trapa might be present.  It's possible to implement a Laplacian filter in imageJ, and I can tell you how, but fortunately imageJ already has a variance filter (Process->Filters->Variance) what is closely related to the Laplacian and basically gives the same information.
 

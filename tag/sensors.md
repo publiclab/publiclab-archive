@@ -1,6 +1,6 @@
 # sensors
 
-117 notes and wiki pages
+117 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [OGC work on Sensor Web Enablement](/notes/liz/3-9-2013/ogc-work-sensor-web-enablement) by [liz](../profile/liz)
 - [Public Lab 'Open Water Hackathon' @ Amherst College](/notes/donblair/01-22-2014/public-lab-open-water-hackathon-amherst-college) by [donblair](../profile/donblair)
@@ -106,8 +106,6 @@
 - [Building the Simple Turbidity Sensor Prototype](/notes/wmacfarl/11-11-2019/building-the-simple-turbidity-sensor-prototype) by [wmacfarl](../profile/wmacfarl)
 - [Any experience with knockoff temperature sensors?](/notes/wln215/11-22-2019/any-experience-with-knockoff-temperature-sensors) by [wln215](../profile/wln215)
 - [How to Connect a pH Sensor to the Simple Water Sensor Platform](/notes/wmacfarl/12-09-2019/building-the-simple-ph-sensor-prototype) by [wmacfarl](../profile/wmacfarl)
-- [Building the Simple ORP Sensor Prototype](/notes/wmacfarl/12-09-2019/building-the-simple-orp-sensor-prototype) by [wmacfarl](../profile/wmacfarl)
-- [Chennai escorts services](/notes/piyasidayanmain/12-15-2019/chennai-escorts-services) by [piyasidayanmain](../profile/piyasidayanmain)
 - [Building the Simple Water Sensor Platform](/notes/wmacfarl/01-10-2020/building-the-simple-water-sensor-platform) by [wmacfarl](../profile/wmacfarl)
 - [How to Connect an ORP Sensor to the Simple Water Sensor Platform](/notes/wmacfarl/01-11-2020/how-to-connect-an-orp-sensor-to-the-simple-water-sensor-platform) by [wmacfarl](../profile/wmacfarl)
 - [Simple Water Sensor Platform](/wiki/simple-water-sensor-platform) (wiki)
@@ -116,6 +114,4 @@
 - [Particulate Matter and its influence on CoVID-19 and its mortality rate](/notes/silentsairam/05-10-2020/particulate-matter-and-its-influence-on-covid-19-and-its-mortality-rate) by [silentsairam](../profile/silentsairam)
 - [Bucket Monitor](/wiki/bucket-monitor) (wiki)
 - [How long do you need to co-locate an air quality tool to get what you need to calibrate or  "ground truth" another tool? ](/notes/stevie/12-07-2021/how-long-do-you-need-to-co-locate-an-air-quality-tool-to-get-what-you-need-to-calibrate-or-ground-truth-another-tool) by [stevie](../profile/stevie)
-- [Filme-HD Južni vetar 2 |2021| ceo film online sa prevodom](/notes/dandiyasin/12-10-2021/filme-hd-juzni-vetar-2-2021-ceo-film-online-sa-prevodom) by [dandiyasin](../profile/dandiyasin)
-- [How Custom Earring Box Give Fine Appearance?](/notes/bleackkendall5/12-17-2021/how-custom-earring-box-give-fine-appearance) by [bleackkendall5](../profile/bleackkendall5)
 - [Learn Do-It-Yourself Electronics for Environmental Monitoring at the Stroud Center](/notes/StroudCenterScott/06-26-2024/learn-do-it-yourself-electronics-for-environmental-monitoring-at-the-stroud-center) by [StroudCenterScott](../profile/StroudCenterScott)

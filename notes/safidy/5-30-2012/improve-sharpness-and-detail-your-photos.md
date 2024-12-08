@@ -1,12 +1,18 @@
 ---
-nid: 2257
 title: Improve the Sharpness and Details of Your Photos
-path: public/static/notes/safidy/5-30-2012/improve-sharpness-and-detail-your-photos.md
+tagnames: kite-mapping, safidy-andrianantenaina, image-processing
+author: Safidy
+path: /notes/safidy/5-30-2012/improve-sharpness-and-detail-your-photos.md
+nid: 2257
 uid: 898
-tagnames: kite-mapping,safidy-andrianantenaina,image-processing
+
 ---
 
 # Improve the Sharpness and Details of Your Photos
+
+by [Safidy](../profile/Safidy) May 30, 2012 16:35
+
+May 30, 2012 16:35 | Tags: [kite-mapping](../tag/kite-mapping), [safidy-andrianantenaina](../tag/safidy-andrianantenaina), [image-processing](../tag/image-processing)
 
 Use a High Pass Filter to Improve the Detail in Your Photos.
 

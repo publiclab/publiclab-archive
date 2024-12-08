@@ -1,6 +1,6 @@
 # pi-
 
-3 notes and wiki pages
+3 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Raspberry Pi Infragram](/wiki/raspberry-pi-infragram) (wiki)
 - [Microscope Webcam Conversion](/notes/bronwen/05-07-2018/microscope-webcam-conversion) by [Bronwen](../profile/Bronwen)

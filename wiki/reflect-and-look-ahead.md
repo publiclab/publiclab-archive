@@ -1,12 +1,18 @@
 ---
-nid: 11525
 title: reflect-and-look-ahead
-path: public/static/wiki/reflect-and-look-ahead.md
+tagnames: parent:gardening-toolkit, gardening-toolkit
+author: liz
+path: /wiki/reflect-and-look-ahead.md
+nid: 11525
 uid: 7
-tagnames: parent:gardening-toolkit,gardening-toolkit
+
 ---
 
 # reflect-and-look-ahead
+
+by [liz](../profile/liz)
+
+January 15, 2015 01:33 | Tags: [parent:gardening-toolkit](../tag/parent:gardening-toolkit), [gardening-toolkit](../tag/gardening-toolkit)
 
 This is one of a series of guides for collaborative environmental research and advocacy projects. A "SWOT" (Strengths / Weaknesses / Opportunities / Threats) analysis is helpful for a group to assess their project and make decisions about directions to take in the future. 
 

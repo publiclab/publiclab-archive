@@ -1,12 +1,18 @@
 ---
-nid: 8941
 title: Chalmette flare spectrum field trip
-path: public/static/notes/danbeavers/07-30-2013/chalmette-flare-spectrum-field-trip.md
+tagnames: gulf-coast, spectrometer, new-orleans, flare, chalmette
+author: danbeavers
+path: /notes/danbeavers/07-30-2013/chalmette-flare-spectrum-field-trip.md
+nid: 8941
 uid: 51
-tagnames: gulf-coast,spectrometer,new-orleans,flare,chalmette
+
 ---
 
 # Chalmette flare spectrum field trip
+
+by [danbeavers](../profile/danbeavers) July 30, 2013 17:03
+
+July 30, 2013 17:03 | Tags: [gulf-coast](../tag/gulf-coast), [spectrometer](../tag/spectrometer), [new-orleans](../tag/new-orleans), [flare](../tag/flare), [chalmette](../tag/chalmette)
 
 ##What I want to do
 I have not had time to do any analysis yet so in order to not be too much of a hindrance I am posting my slightly processed data from our field trip Friday the 26th of July. 

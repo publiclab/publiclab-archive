@@ -1,12 +1,18 @@
 ---
-nid: 15366
 title: Air Sensors
-path: public/static/wiki/air-sensors.md
+tagnames: sensors, dylos, shinyei, sidebar:none, 11927, parent:sensors, parent:air-quality
+author: warren
+path: /wiki/air-sensors.md
+nid: 15366
 uid: 1
-tagnames: sensors,dylos,shinyei,sidebar:none,11927,parent:sensors,parent:air-quality
+
 ---
 
 # Air Sensors
+
+by [bhamster](../profile/bhamster), [warren](../profile/warren)
+
+December 13, 2017 22:14 | Tags: [sensors](../tag/sensors), [dylos](../tag/dylos), [shinyei](../tag/shinyei), [sidebar:none](../tag/sidebar:none), [11927](../tag/11927), [parent:sensors](../tag/parent:sensors), [parent:air-quality](../tag/parent:air-quality)
 
 ## Choosing Sensors 
 

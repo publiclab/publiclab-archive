@@ -1,12 +1,18 @@
 ---
-nid: 34889
 title: Environmental Science Stimuli That Can Adversely Impact Life In The Future
-path: public/static/notes/TheChessGym/08-19-2022/environmental-science-stimuli-that-can-adversely-impact-life-in-the-future.md
+tagnames: first-time-poster, lat:20, lon:70, zoom:4
+author: TheChessGym
+path: /notes/TheChessGym/08-19-2022/environmental-science-stimuli-that-can-adversely-impact-life-in-the-future.md
+nid: 34889
 uid: 788868
-tagnames: first-time-poster,lat:20,lon:70,zoom:4
+
 ---
 
 # Environmental Science Stimuli That Can Adversely Impact Life In The Future
+
+by [TheChessGym](../profile/TheChessGym) August 19, 2022 13:27
+
+August 19, 2022 13:27 | Tags: [first-time-poster](../tag/first-time-poster), [lat:20](../tag/lat:20), [lon:70](../tag/lon:70), [zoom:4](../tag/zoom:4)
 
 [null](https://www.worldometers.info/)Environmental Science Stimuli That Can Adversely Impact Life
 In The Future

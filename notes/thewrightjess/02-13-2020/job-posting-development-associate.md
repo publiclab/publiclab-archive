@@ -1,12 +1,18 @@
 ---
-nid: 22805
 title: Job Posting: Development Associate
-path: public/static/notes/thewrightjess/02-13-2020/job-posting-development-associate.md
+tagnames: fundraising, development, jobs
+author: thewrightjess
+path: /notes/thewrightjess/02-13-2020/job-posting-development-associate.md
+nid: 22805
 uid: 603909
-tagnames: fundraising,development,jobs
+
 ---
 
 # Job Posting: Development Associate
+
+by [thewrightjess](../profile/thewrightjess) February 13, 2020 23:56
+
+February 13, 2020 23:56 | Tags: [fundraising](../tag/fundraising), [development](../tag/development), [jobs](../tag/jobs)
 
 **Start Date**: Early April 2020
 

@@ -1,6 +1,6 @@
 # slit-width
 
-9 notes and wiki pages
+9 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Spectral image quality](/notes/cfastie/1-21-2013/spectrometer-image-quality) by [cfastie](../profile/cfastie)
 - [Photo-printed collimation slit for the Backpack Spectrometer ](/notes/mathew/09-25-2013/photo-printed-collimation-slit-for-the-backpack-spectrometer) by [mathew](../profile/mathew)

@@ -1,12 +1,18 @@
 ---
-nid: 11608
 title: Tutorial video: Installing MapKnitter 2
-path: public/static/notes/warren/02-19-2015/tutorial-video-installing-mapknitter-2.md
+tagnames: video, mapknitter, software, developers, code, tutorial, mapknitter2, installation
+author: warren
+path: /notes/warren/02-19-2015/tutorial-video-installing-mapknitter-2.md
+nid: 11608
 uid: 1
-tagnames: video,mapknitter,software,developers,code,tutorial,mapknitter2,installation
+
 ---
 
 # Tutorial video: Installing MapKnitter 2
+
+by [warren](../profile/warren) February 19, 2015 23:05
+
+February 19, 2015 23:05 | Tags: [video](../tag/video), [mapknitter](../tag/mapknitter), [software](../tag/software), [developers](../tag/developers), [code](../tag/code), [tutorial](../tag/tutorial), [mapknitter2](../tag/mapknitter2), [installation](../tag/installation)
 
 To learn to install MapKnitter yourself, [check out this video I just made](http://youtu.be/iGYGpS8rZMY):
 

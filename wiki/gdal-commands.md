@@ -1,12 +1,18 @@
 ---
-nid: 228
 title: GDAL Commands
-path: public/static/wiki/gdal-commands.md
-uid: 1
 tagnames: gdal
+author: warren
+path: /wiki/gdal-commands.md
+nid: 228
+uid: 1
+
 ---
 
 # GDAL Commands
+
+by [liz](../profile/liz), [warren](../profile/warren), [gonzoearth](../profile/gonzoearth)
+
+May 07, 2011 04:08 | Tags: [gdal](../tag/gdal)
 
 GDAL commands used for our [public map archive](/maps)
 

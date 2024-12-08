@@ -1,6 +1,6 @@
 # parent-sampling
 
-4 notes and wiki pages
+4 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Spectrometry Sampling](/wiki/spectrometry-sampling) (wiki)
 - [Soil Sampling](/wiki/soil-sampling) (wiki)

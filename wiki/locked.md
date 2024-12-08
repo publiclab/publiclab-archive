@@ -1,12 +1,18 @@
 ---
-nid: 13807
 title: Locked pages
-path: public/static/wiki/locked.md
+tagnames: website, moderation, location:blurred, place:canada, lat:22, parent:moderation, lon:76, website-utilities, zoom:6
+author: warren
+path: /wiki/locked.md
+nid: 13807
 uid: 1
-tagnames: website,moderation,location:blurred,place:canada,lat:22,parent:moderation,lon:76,website-utilities,zoom:6
+
 ---
 
 # Locked pages
+
+by [warren](../profile/warren)
+
+December 27, 2016 06:28 | Tags: [website](../tag/website), [moderation](../tag/moderation), [location:blurred](../tag/location:blurred), [place:canada](../tag/place:canada), [lat:22](../tag/lat:22), [parent:moderation](../tag/parent:moderation), [lon:76](../tag/lon:76), [website-utilities](../tag/website-utilities), [zoom:6](../tag/zoom:6)
 
 Locked wiki pages have been made editable only by [moderators](/wiki/moderators) and site admins; please email [moderators@publiclab.org](mailto:moderators@publiclab.org) if you believe a page has been locked in error. Tags cannot be added to locked pages except by moderators and admins.
 

@@ -1,12 +1,18 @@
 ---
-nid: 11708
 title: Small DIY aerostat "Uchbovy" made in Kharkiv, Ukraine
-path: public/static/notes/Alex_the_Ukrainian/03-21-2015/small-diy-aerostat-made-in-kharkiv-ukraine.md
+tagnames: diy, balloon, training, eu, ukraine, lta, aerostat, europe
+author: Alex_the_Ukrainian
+path: /notes/Alex_the_Ukrainian/03-21-2015/small-diy-aerostat-made-in-kharkiv-ukraine.md
+nid: 11708
 uid: 436428
-tagnames: diy,balloon,training,eu,ukraine,lta,aerostat,europe
+
 ---
 
 # Small DIY aerostat "Uchbovy" made in Kharkiv, Ukraine
+
+by [Alex_the_Ukrainian](../profile/Alex_the_Ukrainian) March 21, 2015 19:21
+
+March 21, 2015 19:21 | Tags: [diy](../tag/diy), [balloon](../tag/balloon), [training](../tag/training), [eu](../tag/eu), [ukraine](../tag/ukraine), [lta](../tag/lta), [aerostat](../tag/aerostat), [europe](../tag/europe)
 
 This post is an addition to the "Egg-shaped [simple] balloon" published earlier today. I choose the "Very small aerostat flying at dusk, Eastern Ukraine" as a main image. This photo was shot two-and-a-half years ago, at the peace time. Now we are under attack from Russia. It would be great to have a numerous tactical-size surveillance aerostats here! Personally, I would suggest something like several U.S.-made PGSS and PTDS. And even couple of TARS [ref_1] would be quite helpful on the Southern Ukraine, facing the threat from the sea and the occupied Crimea.
 

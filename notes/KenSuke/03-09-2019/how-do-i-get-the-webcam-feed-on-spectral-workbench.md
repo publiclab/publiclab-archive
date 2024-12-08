@@ -1,12 +1,18 @@
 ---
-nid: 18502
 title: How do I get the webcam feed on Spectral Workbench?
-path: public/static/notes/KenSuke/03-09-2019/how-do-i-get-the-webcam-feed-on-spectral-workbench.md
+tagnames: spectral-workbench, question:spectral-workbench, first-time-poster
+author: KenSuke
+path: /notes/KenSuke/03-09-2019/how-do-i-get-the-webcam-feed-on-spectral-workbench.md
+nid: 18502
 uid: 569201
-tagnames: spectral-workbench,question:spectral-workbench,first-time-poster
+
 ---
 
 # How do I get the webcam feed on Spectral Workbench?
+
+by [KenSuke](../profile/KenSuke) March 09, 2019 18:17
+
+March 09, 2019 18:17 | Tags: [spectral-workbench](../tag/spectral-workbench), [question:spectral-workbench](../tag/question:spectral-workbench), [first-time-poster](../tag/first-time-poster)
 
 Hi there,  
   

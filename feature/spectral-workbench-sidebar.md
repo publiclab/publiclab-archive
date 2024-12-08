@@ -1,12 +1,16 @@
 ---
-nid: 12061
 title: spectral-workbench-sidebar
-path: public/static/feature/spectral-workbench-sidebar.md
-uid: 1
 tagnames: 
+author: warren
+path: /feature/spectral-workbench-sidebar.md
+nid: 12061
+uid: 1
+
 ---
 
 # spectral-workbench-sidebar
+
+July 14, 2015 18:05 | Tags: 
 
   <a class="feature img inverted" href="/lego" style="background-image:url('https://publiclab.org/system/images/photos/000/022/929/medium/PC051869.JPG');">
     <h1 style="">The Lego Spectrometer</h1>

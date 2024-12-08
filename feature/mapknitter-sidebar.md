@@ -1,12 +1,16 @@
 ---
-nid: 12326
 title: mapknitter-sidebar
-path: public/static/feature/mapknitter-sidebar.md
-uid: 1
 tagnames: 
+author: warren
+path: /feature/mapknitter-sidebar.md
+nid: 12326
+uid: 1
+
 ---
 
 # mapknitter-sidebar
+
+October 21, 2015 16:45 | Tags: 
 
   <a style="height:80px;background-image:url('/i/24998?size=medium');" class="feature img inverted" href="https://store.publiclab.org/products/microscope"></a>
   <a href="https://store.publiclab.org/products/microscope">

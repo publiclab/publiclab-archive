@@ -1,6 +1,6 @@
 # drone
 
-28 notes and wiki pages
+28 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Aerial photos with UAV and an Android phone: first results](/notes/bdiscoe/06-09-2013/aerial-photos-with-uav-and-an-android-phone-first-results) by [bdiscoe](../profile/bdiscoe)
 - [Mapping Vineyards with Quadcopter Using converted Canon Powershot A495](/notes/bc512/08-18-2013/mapping-vineyards-with-quadcopter-using-converted-canon-powershot-a495) by [bc512](../profile/bc512)
@@ -17,7 +17,6 @@
 - [MapKnitter map of Penn Dixie Fossil Park](/notes/gburkett05/03-19-2017/mapknitter-map-of-penn-dixie-fossil-park) by [gburkett05](../profile/gburkett05)
 - [Local Perspectives at Barnraising 2017](/notes/a1ahna/11-13-2017/local-perspectives-at-barnraising-2017) by [a1ahna](../profile/a1ahna)
 - [Do the same regulations that apply to drones apply to balloon mapping?](/notes/Morgan/01-24-2018/do-the-same-regulations-that-apply-to-drones-apply-to-balloon-mapping) by [Morgan](../profile/Morgan)
-- [RC WI-FI FPV BEGINNER DRONE WITH 720P HD CAMERA AND 2 X BATTERIES](/notes/kevinburge/08-21-2019/rc-wi-fi-fpv-beginner-drone-with-720p-hd-camera-and-2-x-batteries) by [kevinburge](../profile/kevinburge)
 - [Can you modify a drone's camera for ndvi pictures?](/notes/Bronwen/11-25-2019/can-you-modify-a-drone-s-camera-for-ndvi-pictures) by [Bronwen](../profile/Bronwen)
 - [Used the PiNoIR camera with blue filter for my experiment in order to obtain the values of NIR and Red region, now i wanted  to know  what out put we are getting is right or wrong?](/notes/harshitha/01-16-2020/used-the-pinoir-camera-with-blue-filter-for-my-experiment-in-order-to-obtain-the-values-of-nir-and-red-region-now-i-wanted-to-know-what-out-put-we-are-getting-is-right-or-wrong) by [harshitha](../profile/harshitha)
 - [Sidewalk & Stones](/notes/mchao2/03-03-2020/sidewalk-stones) by [mchao2](../profile/mchao2)
@@ -25,7 +24,6 @@
 - [NDVI Drone Mapping Research](/notes/ektopyrotic/06-04-2020/ndvi-drone-mapping-research) by [ektopyrotic](../profile/ektopyrotic)
 - [New Developments in Multi-Spectral Drone Imaging in the Ultraviolet Band](/notes/ektopyrotic/09-14-2020/new-developments-in-multi-spectral-drone-imaging-in-the-ultraviolet-band) by [ektopyrotic](../profile/ektopyrotic)
 - [Image + Video Segmentation in Near-Infrared Using HSV Color Spaces with OpenCV in Python](/notes/ektopyrotic/10-03-2020/image-video-segmentation-in-near-infrared-using-hsv-color-spaces-with-opencv-in-python) by [ektopyrotic](../profile/ektopyrotic)
-- [Filter Comparision](/notes/NGB/11-01-2020/filter-comparision) by [NGB](../profile/NGB)
 - [2.5D Multispectral (NIR and UV) Drone Photography Using AI-Assisted Ken Burns Effect](/notes/ektopyrotic/05-25-2021/2-5d-multispectral-nir-and-uv-drone-photography-using-ai-assisted-ken-burns-effect) by [ektopyrotic](../profile/ektopyrotic)
 - [The Mountains and Mines Monitoring Project](/wiki/the-mountains-and-mines-monitoring-project) (wiki)
 - [Middle Ridge surface mine, Sycamore WV](/notes/junior_walk1337/12-15-2021/middle-ridge-surface-mine-sycamore-wv) by [junior_walk1337](../profile/junior_walk1337)

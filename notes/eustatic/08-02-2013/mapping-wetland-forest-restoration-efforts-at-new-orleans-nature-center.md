@@ -1,12 +1,18 @@
 ---
-nid: 8959
 title: Balloon Mapping Wetland Forest Restoration Efforts at New Orleans Nature Center
-path: public/static/notes/eustatic/08-02-2013/mapping-wetland-forest-restoration-efforts-at-new-orleans-nature-center.md
+tagnames: gulf-coast, balloon-mapping, wetlands, forest, restoration, invasive, gulfrestorationnetwork, neworleans, tallow, cypress, naturecenter, lat:30.034817, lon:-89.961031, place:new-orleans-nature-center
+author: eustatic
+path: /08-02-2013/mapping-wetland-forest-restoration-efforts-at-new-orleans-nature-center.md
+nid: 8959
 uid: 379
-tagnames: gulf-coast,balloon-mapping,wetlands,forest,restoration,invasive,gulfrestorationnetwork,neworleans,tallow,cypress,naturecenter,lat:30.034817,lon:-89.961031,place:new-orleans-nature-center
+
 ---
 
 # Balloon Mapping Wetland Forest Restoration Efforts at New Orleans Nature Center
+
+by [eustatic](../profile/eustatic) August 02, 2013 17:51
+
+August 02, 2013 17:51 | Tags: [gulf-coast](../tag/gulf-coast), [balloon-mapping](../tag/balloon-mapping), [wetlands](../tag/wetlands), [forest](../tag/forest), [restoration](../tag/restoration), [invasive](../tag/invasive), [gulfrestorationnetwork](../tag/gulfrestorationnetwork), [neworleans](../tag/neworleans), [tallow](../tag/tallow), [cypress](../tag/cypress), [naturecenter](../tag/naturecenter), [lat:30.034817](../tag/lat:30.034817), [lon:-89.961031](../tag/lon:-89.961031), [place:new-orleans-nature-center](../tag/place:new-orleans-nature-center)
 
 ##What I want to do
 

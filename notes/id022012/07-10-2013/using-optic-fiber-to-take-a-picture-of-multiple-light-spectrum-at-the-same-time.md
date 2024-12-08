@@ -1,12 +1,18 @@
 ---
-nid: 8804
 title: Using optic fiber to take a picture of multiple light spectrum at the same time
-path: public/static/notes/id022012/07-10-2013/using-optic-fiber-to-take-a-picture-of-multiple-light-spectrum-at-the-same-time.md
+tagnames: spectrometer, fiber, optic_fiber
+author: id022012
+path: /notes/id022012/07-10-2013/using-optic-fiber-to-take-a-picture-of-multiple-light-spectrum-at-the-same-time.md
+nid: 8804
 uid: 60504
-tagnames: spectrometer,fiber,optic_fiber
+
 ---
 
 # Using optic fiber to take a picture of multiple light spectrum at the same time
+
+by [id022012](../profile/id022012) July 10, 2013 12:01
+
+July 10, 2013 12:01 | Tags: [spectrometer](../tag/spectrometer), [fiber](../tag/fiber), [optic_fiber](../tag/optic_fiber)
 
 ##Proof of concept: using optic fiber to take a picture of multiple light spectrum at the same time
 

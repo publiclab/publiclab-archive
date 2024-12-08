@@ -1,6 +1,6 @@
 # stitching
 
-9 notes and wiki pages
+9 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [photoshop image distort time lapse video](/notes/gonzoearth/7-10-2011/photoshop-image-distort-time-lapse-video) by [gonzoearth](../profile/gonzoearth)
 - [Palantier: impressive image stitching for UAVs and kites](/notes/warren/2-5-2012/palantier-impressive-image-stitching-uavs-and-kites) by [warren](../profile/warren)

@@ -1,12 +1,18 @@
 ---
-nid: 13876
 title: calibration calculations don't match MiniVol manual
-path: public/static/notes/mathew/01-25-2017/calibration-calculations-don-t-match-minivol-manual.md
+tagnames: calibration, question, air-quality, dust, silica, pm, pump, mini-buck, pm-monitoring, question:question, dust-sensing, question:pm, question:minivol
+author: mathew
+path: /notes/mathew/01-25-2017/calibration-calculations-don-t-match-minivol-manual.md
+nid: 13876
 uid: 4
-tagnames: calibration,question,air-quality,dust,silica,pm,pump,mini-buck,pm-monitoring,question:question,dust-sensing,question:pm,question:minivol
+
 ---
 
 # calibration calculations don't match MiniVol manual
+
+by [mathew](../profile/mathew) January 25, 2017 02:17
+
+January 25, 2017 02:17 | Tags: [calibration](../tag/calibration), [question](../tag/question), [air-quality](../tag/air-quality), [dust](../tag/dust), [silica](../tag/silica), [pm](../tag/pm), [pump](../tag/pump), [mini-buck](../tag/mini-buck), [pm-monitoring](../tag/pm-monitoring), [question:question](../tag/question:question), [dust-sensing](../tag/dust-sensing), [question:pm](../tag/question:pm), [question:minivol](../tag/question:minivol)
 
 I'm trying to calibrate a [MiniVol](https://publiclab.org/notes/mathew/01-10-2017/overview-minivol-pm-monitor) air sampler pump with a [minibuck](https://publiclab.org/notes/mathew/06-11-2015/mini-buck-vs-the-bubbles#how+the+Mini-Buck+M-30+works) flow calibrator.
 

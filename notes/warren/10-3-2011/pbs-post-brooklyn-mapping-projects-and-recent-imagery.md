@@ -1,12 +1,18 @@
 ---
-nid: 493
 title: PBS post on Brooklyn mapping projects and recent imagery
-path: public/static/notes/warren/10-3-2011/pbs-post-brooklyn-mapping-projects-and-recent-imagery.md
-uid: 1
 tagnames: idealab
+author: warren
+path: /notes/warren/10-3-2011/pbs-post-brooklyn-mapping-projects-and-recent-imagery.md
+nid: 493
+uid: 1
+
 ---
 
 # PBS post on Brooklyn mapping projects and recent imagery
+
+by [warren](../profile/warren) October 03, 2011 16:13
+
+October 03, 2011 16:13 | Tags: [idealab](../tag/idealab)
 
 Liz Barry just posted this great overview of recent Brooklyn maps on the PBS Mediashift IdeaLab blog:
 

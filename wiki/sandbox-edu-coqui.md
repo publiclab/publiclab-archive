@@ -1,12 +1,18 @@
 ---
-nid: 19505
 title: sandbox-edu-coqui
-path: public/static/wiki/sandbox-edu-coqui.md
-uid: 579821
 tagnames: 
+author: mimiss
+path: /wiki/sandbox-edu-coqui.md
+nid: 19505
+uid: 579821
+
 ---
 
 # sandbox-edu-coqui
+
+by [mimiss](../profile/mimiss), [warren](../profile/warren)
+
+May 23, 2019 18:43 | Tags: 
 
 The Coqui: a simple device to read a sensor via an audible tone. We're exploring using audio frequencies to convey sensor readings -- like a modem, but even simpler -- in order to make sensor readings more accessible for people (or to enable data transmission over ubiquitous audio jacks on PCs and smartphones)
 

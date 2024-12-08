@@ -1,12 +1,18 @@
 ---
-nid: 12466
 title: Support Public Lab on #GivingTuesday
-path: public/static/notes/Becki/12-01-2015/support-public-lab-on-givingtuesday.md
-uid: 46673
 tagnames: fundraising
+author: Becki
+path: /notes/Becki/12-01-2015/support-public-lab-on-givingtuesday.md
+nid: 12466
+uid: 46673
+
 ---
 
 # Support Public Lab on #GivingTuesday
+
+by [Becki](../profile/Becki) December 01, 2015 16:20
+
+December 01, 2015 16:20 | Tags: [fundraising](../tag/fundraising)
 
 Hey Public Labbers,
 

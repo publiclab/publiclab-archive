@@ -1,12 +1,18 @@
 ---
-nid: 12470
 title: Native Plants Workshop THIS Saturday w/ Groundwork NOLA
-path: public/static/notes/klie/12-02-2015/native-plants-workshop-this-saturday-w-groundworks-nola.md
+tagnames: gulf-coast, event, event:rsvp, date:12-05-2015, location:neworleans
+author: klie
+path: /notes/klie/12-02-2015/native-plants-workshop-this-saturday-w-groundworks-nola.md
+nid: 12470
 uid: 441262
-tagnames: gulf-coast,event,event:rsvp,date:12-05-2015,location:neworleans
+
 ---
 
 # Native Plants Workshop THIS Saturday w/ Groundwork NOLA
+
+by [klie](../profile/klie) December 02, 2015 17:28
+
+December 02, 2015 17:28 | Tags: [gulf-coast](../tag/gulf-coast), [event](../tag/event), [event:rsvp](../tag/event:rsvp), [date:12-05-2015](../tag/date:12-05-2015), [location:neworleans](../tag/location:neworleans)
 
 ###New Orleans! We were so excited to have Groundwork at our Barnraising and hope that some of you will check out their workshop this weekend on Native Plants. 
 

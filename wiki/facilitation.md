@@ -1,12 +1,18 @@
 ---
-nid: 11486
 title: Facilitate your meetings
-path: public/static/wiki/facilitation.md
+tagnames: community, organizing, methodologies, communityengagement, resources-on-facilitation, facilitation, resources-for-facilitation, method
+author: wward1400
+path: /wiki/facilitation.md
+nid: 11486
 uid: 46742
-tagnames: community,organizing,methodologies,communityengagement,resources-on-facilitation,facilitation,resources-for-facilitation,method
+
 ---
 
 # Facilitate your meetings
+
+by [liz](../profile/liz), [stevie](../profile/stevie), [warren](../profile/warren), [DavidMack](../profile/DavidMack), [wward1400](../profile/wward1400)
+
+December 18, 2014 22:35 | Tags: [community](../tag/community), [organizing](../tag/organizing), [methodologies](../tag/methodologies), [communityengagement](../tag/communityengagement), [resources-on-facilitation](../tag/resources-on-facilitation), [facilitation](../tag/facilitation), [resources-for-facilitation](../tag/resources-for-facilitation), [method](../tag/method)
 
 This page includes resources for facilitation and decision making processes. Please edit and add! 
 

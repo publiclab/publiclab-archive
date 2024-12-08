@@ -1,12 +1,18 @@
 ---
-nid: 24568
 title: Substitute diffraction grating for DVD?
-path: public/static/notes/msuphysicsformcb/09-12-2020/substitute-diffraction-grating-for-dvd.md
+tagnames: spectrometer, spectrometry, diffraction-grating, question:spectrometer, question:spectrometry, question:general, general, question:diffraction-grating, first-time-poster
+author: msuphysicsformcb
+path: /notes/msuphysicsformcb/09-12-2020/substitute-diffraction-grating-for-dvd.md
+nid: 24568
 uid: 720360
-tagnames: spectrometer,spectrometry,diffraction-grating,question:spectrometer,question:spectrometry,question:general,general,question:diffraction-grating,first-time-poster
+
 ---
 
 # Substitute diffraction grating for DVD?
+
+by [msuphysicsformcb](../profile/msuphysicsformcb) September 12, 2020 20:16
+
+September 12, 2020 20:16 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [diffraction-grating](../tag/diffraction-grating), [question:spectrometer](../tag/question:spectrometer), [question:spectrometry](../tag/question:spectrometry), [question:general](../tag/question:general), [general](../tag/general), [question:diffraction-grating](../tag/question:diffraction-grating), [first-time-poster](../tag/first-time-poster)
 
 I'm setting up remote lab activities for pandemic-related online learning (university level).  I'm thinking of having the students purchase a diffraction-grating slide such as this.
 

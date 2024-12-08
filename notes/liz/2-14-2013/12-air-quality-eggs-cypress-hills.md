@@ -1,10 +1,16 @@
 ---
-nid: 5989
 title: 12 Air Quality Eggs for Cypress Hills
-path: public/static/notes/liz/2-14-2013/12-air-quality-eggs-cypress-hills.md
+tagnames: new-york-city, cypress-hills, chaq
+author: liz
+path: /notes/liz/2-14-2013/12-air-quality-eggs-cypress-hills.md
+nid: 5989
 uid: 7
-tagnames: new-york-city,cypress-hills,chaq
+
 ---
 
 # 12 Air Quality Eggs for Cypress Hills
+
+by [liz](../profile/liz) February 15, 2013 00:50
+
+February 15, 2013 00:50 | Tags: [new-york-city](../tag/new-york-city), [cypress-hills](../tag/cypress-hills), [chaq](../tag/chaq)
 

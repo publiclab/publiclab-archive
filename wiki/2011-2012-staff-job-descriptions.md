@@ -1,12 +1,18 @@
 ---
-nid: 422
 title: 2011-2012 Staff Job Descriptions
-path: public/static/wiki/2011-2012-staff-job-descriptions.md
-uid: 9
 tagnames: 
+author: Shannon
+path: /wiki/2011-2012-staff-job-descriptions.md
+nid: 422
+uid: 9
+
 ---
 
 # 2011-2012 Staff Job Descriptions
+
+by [Shannon](../profile/Shannon)
+
+August 01, 2011 13:17 | Tags: 
 
 ##Public Laboratory 2011-2012 Job Descriptions##
 

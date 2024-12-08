@@ -1,12 +1,18 @@
 ---
-nid: 9646
 title: Public Lab community newsletter 10.27.13
-path: public/static/notes/Shannon/10-27-2013/public-lab-community-newsletter-10-27-13.md
+tagnames: newsletter, newsletter-archive
+author: Shannon
+path: /notes/Shannon/10-27-2013/public-lab-community-newsletter-10-27-13.md
+nid: 9646
 uid: 9
-tagnames: newsletter,newsletter-archive
+
 ---
 
 # Public Lab community newsletter 10.27.13
+
+by [Shannon](../profile/Shannon) October 27, 2013 16:59
+
+October 27, 2013 16:59 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
 
 This week in the Public Lab community newsletter, prepare for events in Louisiana and Vermont, read about a new initiative to build an urban ag. toolkit, and get as excited as we are about the new Smartphone Spectrometer shipping out. Enjoy!
 

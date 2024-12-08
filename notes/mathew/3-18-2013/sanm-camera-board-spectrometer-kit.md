@@ -1,12 +1,18 @@
 ---
-nid: 6400
 title: Sanm camera board for spectrometer kit
-path: public/static/notes/mathew/3-18-2013/sanm-camera-board-spectrometer-kit.md
+tagnames: spectrometer, kits, webcam, desktop-spectrometry-kit, sanm
+author: mathew
+path: /notes/mathew/3-18-2013/sanm-camera-board-spectrometer-kit.md
+nid: 6400
 uid: 4
-tagnames: spectrometer,kits,webcam,desktop-spectrometry-kit,sanm
+
 ---
 
 # Sanm camera board for spectrometer kit
+
+by [mathew](../profile/mathew) March 19, 2013 00:09
+
+March 19, 2013 00:09 | Tags: [spectrometer](../tag/spectrometer), [kits](../tag/kits), [webcam](../tag/webcam), [desktop-spectrometry-kit](../tag/desktop-spectrometry-kit), [sanm](../tag/sanm)
 
 Today a [small camera board](http://www.aliexpress.com/store/product/2-0-megapixel-USB2-0-Camera-Module-HM2050-cmos-board-camera-with-LED-indicator/404311_663037480.html) made by [Sanm](http://sanmtech.com/) arrived in the mail from Hong Kong.  It came without a USB cable, just a 5-pin header, so I used the pinout diagram on its product page and [wikipedia's USB pinout reference](http://en.wikipedia.org/wiki/Pinout#USB_pinout) to put together a cable.
 

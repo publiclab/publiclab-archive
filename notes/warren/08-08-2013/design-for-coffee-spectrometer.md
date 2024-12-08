@@ -1,12 +1,18 @@
 ---
-nid: 8981
 title: Design for coffee spectrometer
-path: public/static/notes/warren/08-08-2013/design-for-coffee-spectrometer.md
+tagnames: spectrometer, water-monitoring, 3d-printing, coffee, sampling, eyedropper, response:8973, colorimetry
+author: warren
+path: /notes/warren/08-08-2013/design-for-coffee-spectrometer.md
+nid: 8981
 uid: 1
-tagnames: spectrometer,water-monitoring,3d-printing,coffee,sampling,eyedropper,response:8973,colorimetry
+
 ---
 
 # Design for coffee spectrometer
+
+by [warren](../profile/warren) August 08, 2013 14:52
+
+August 08, 2013 14:52 | Tags: [spectrometer](../tag/spectrometer), [water-monitoring](../tag/water-monitoring), [3d-printing](../tag/3d-printing), [coffee](../tag/coffee), [sampling](../tag/sampling), [eyedropper](../tag/eyedropper), [response:8973](../tag/response:8973), [colorimetry](../tag/colorimetry)
 
 Based on the [ideas I was brainstorming a few days ago](/notes/warren/08-06-2013/brainstorming-coffee-analytics-system-for-coffee-shops), I put together a 3d model of a sort of countertop smartphone-based coffee spectrometer which uses eyedroppers as the sample container. It has a built-in light in a closed chamber, and shines light through the eyedropper full of coffee, and into the smartphone camera.
 

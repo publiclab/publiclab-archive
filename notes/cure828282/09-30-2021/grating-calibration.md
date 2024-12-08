@@ -1,12 +1,18 @@
 ---
-nid: 27815
 title: grating calibration
-path: public/static/notes/cure828282/09-30-2021/grating-calibration.md
+tagnames: spectrometer, spectrometry, grating, question:spectrometer, question:grating, first-time-poster
+author: cure828282
+path: /notes/cure828282/09-30-2021/grating-calibration.md
+nid: 27815
 uid: 731949
-tagnames: spectrometer,spectrometry,grating,question:spectrometer,question:grating,first-time-poster
+
 ---
 
 # grating calibration
+
+by [cure828282](../profile/cure828282) September 30, 2021 09:07
+
+September 30, 2021 09:07 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [grating](../tag/grating), [question:spectrometer](../tag/question:spectrometer), [question:grating](../tag/question:grating), [first-time-poster](../tag/first-time-poster)
 
 Hi. 
 

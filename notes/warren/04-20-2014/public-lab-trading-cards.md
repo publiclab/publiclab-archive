@@ -1,12 +1,18 @@
 ---
-nid: 10334
 title: Public Lab trading cards
-path: public/static/notes/warren/04-20-2014/public-lab-trading-cards.md
+tagnames: organizers, case-studies, trading-cards, illustrations, graphic
+author: warren
+path: /notes/warren/04-20-2014/public-lab-trading-cards.md
+nid: 10334
 uid: 1
-tagnames: organizers,case-studies,trading-cards,illustrations,graphic
+
 ---
 
 # Public Lab trading cards
+
+by [warren](../profile/warren) April 20, 2014 03:26
+
+April 20, 2014 03:26 | Tags: [organizers](../tag/organizers), [case-studies](../tag/case-studies), [trading-cards](../tag/trading-cards), [illustrations](../tag/illustrations), [graphic](../tag/graphic)
 
 For highlighting awesome enviro monitoring and other stories. Collect them all!
 

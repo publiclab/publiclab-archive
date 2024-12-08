@@ -1,12 +1,18 @@
 ---
-nid: 12408
 title: Slit holder for Desktop Spectrometer
-path: public/static/notes/warren/11-13-2015/slit-holder-for-desktop-spectrometer.md
+tagnames: spectrometer, kits, dsk, slit, papercraft, slit-width, response:11649, response:12074, upgrade:spec
+author: warren
+path: /notes/warren/11-13-2015/slit-holder-for-desktop-spectrometer.md
+nid: 12408
 uid: 1
-tagnames: spectrometer,kits,dsk,slit,papercraft,slit-width,response:11649,response:12074,upgrade:spec
+
 ---
 
 # Slit holder for Desktop Spectrometer
+
+by [warren](../profile/warren) November 13, 2015 20:14
+
+November 13, 2015 20:14 | Tags: [spectrometer](../tag/spectrometer), [kits](../tag/kits), [dsk](../tag/dsk), [slit](../tag/slit), [papercraft](../tag/papercraft), [slit-width](../tag/slit-width), [response:11649](../tag/response:11649), [response:12074](../tag/response:12074), [upgrade:spec](../tag/upgrade:spec)
 
 ###What I want to do
 

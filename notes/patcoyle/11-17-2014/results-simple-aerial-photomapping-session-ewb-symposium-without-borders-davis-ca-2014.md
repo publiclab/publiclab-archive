@@ -1,12 +1,18 @@
 ---
-nid: 11364
 title: Results: Simple Aerial Photomapping session, EWB Symposium Without Borders, Davis,  CA, 2014
-path: public/static/notes/patcoyle/11-17-2014/results-simple-aerial-photomapping-session-ewb-symposium-without-borders-davis-ca-2014.md
+tagnames: ndvi, dual-camera, kap, infrablue
+author: patcoyle
+path: /notes/patcoyle/11-17-2014/results-simple-aerial-photomapping-session-ewb-symposium-without-borders-davis-ca-2014.md
+nid: 11364
 uid: 77
-tagnames: ndvi,dual-camera,kap,infrablue
+
 ---
 
 # Results: Simple Aerial Photomapping session, EWB Symposium Without Borders, Davis,  CA, 2014
+
+by [patcoyle](../profile/patcoyle) November 17, 2014 23:55
+
+November 17, 2014 23:55 | Tags: [ndvi](../tag/ndvi), [dual-camera](../tag/dual-camera), [kap](../tag/kap), [infrablue](../tag/infrablue)
 
 ###What I want to do
 Continue to make potential users like Engineers Without Borders teams aware of the Public Lab DIY mapping tools.

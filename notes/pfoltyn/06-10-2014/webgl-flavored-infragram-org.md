@@ -1,12 +1,18 @@
 ---
-nid: 10549
 title: WebGL flavored infragram.org
-path: public/static/notes/pfoltyn/06-10-2014/webgl-flavored-infragram-org.md
+tagnames: near-infrared-camera, infragram, infragram-sandbox, webgl, barnstar:basic
+author: pfoltyn
+path: /notes/pfoltyn/06-10-2014/webgl-flavored-infragram-org.md
+nid: 10549
 uid: 264346
-tagnames: near-infrared-camera,infragram,infragram-sandbox,webgl,barnstar:basic
+
 ---
 
 # WebGL flavored infragram.org
+
+by [pfoltyn](../profile/pfoltyn) June 10, 2014 19:41
+
+June 10, 2014 19:41 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [infragram](../tag/infragram), [infragram-sandbox](../tag/infragram-sandbox), [webgl](../tag/webgl), [barnstar:basic](../tag/barnstar:basic)
 
 ###What I want to do
 [Infragram.org](http://infragram.org) is an amazing utility that thanks to some clever JavaScript code can process [infrablue](http://publiclab.org/tag/infrablue) image into a [NDVI](http://publiclab.org/wiki/ndvi) map. Even though JavaScript processing speed is very good on standard PCs, it might not be adequate on mobile devices. I want to use [WebGL](http://en.wikipedia.org/wiki/WebGL) to speed up NDVI map generation to the point it can be used in real-time on mobile devices.

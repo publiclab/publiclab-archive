@@ -1,12 +1,18 @@
 ---
-nid: 12258
 title: New wavelength calibration procedure preview for Spectral Workbench 2.0
-path: public/static/notes/warren/09-30-2015/new-wavelength-calibration-procedure-preview-for-spectral-workbench-2-0.md
+tagnames: spectrometer, calibration, web-development, spectral-workbench, development, coding
+author: warren
+path: /notes/warren/09-30-2015/new-wavelength-calibration-procedure-preview-for-spectral-workbench-2-0.md
+nid: 12258
 uid: 1
-tagnames: spectrometer,calibration,web-development,spectral-workbench,development,coding
+
 ---
 
 # New wavelength calibration procedure preview for Spectral Workbench 2.0
+
+by [warren](../profile/warren) September 30, 2015 20:03
+
+September 30, 2015 20:03 | Tags: [spectrometer](../tag/spectrometer), [calibration](../tag/calibration), [web-development](../tag/web-development), [spectral-workbench](../tag/spectral-workbench), [development](../tag/development), [coding](../tag/coding)
 
 ###What I want to do
 

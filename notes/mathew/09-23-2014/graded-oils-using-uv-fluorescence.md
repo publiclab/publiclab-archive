@@ -1,12 +1,18 @@
 ---
-nid: 11173
 title: Graded oils using UV fluorescence
-path: public/static/notes/mathew/09-23-2014/graded-oils-using-uv-fluorescence.md
+tagnames: spectrometer, oil, fluorescence, spectral-workbench, crude, smoothing, clipping, oil-testing-kit, barnstar:basic, exposure, with:warren, equalizing, 405nm
+author: mathew
+path: /notes/mathew/09-23-2014/graded-oils-using-uv-fluorescence.md
+nid: 11173
 uid: 4
-tagnames: spectrometer,oil,fluorescence,spectral-workbench,crude,smoothing,clipping,oil-testing-kit,barnstar:basic,exposure,with:warren,equalizing,405nm
+
 ---
 
 # Graded oils using UV fluorescence
+
+by [mathew](../profile/mathew) September 23, 2014 04:21
+
+September 23, 2014 04:21 | Tags: [spectrometer](../tag/spectrometer), [oil](../tag/oil), [fluorescence](../tag/fluorescence), [spectral-workbench](../tag/spectral-workbench), [crude](../tag/crude), [smoothing](../tag/smoothing), [clipping](../tag/clipping), [oil-testing-kit](../tag/oil-testing-kit), [barnstar:basic](../tag/barnstar:basic), [exposure](../tag/exposure), [with:warren](../tag/with:warren), [equalizing](../tag/equalizing), [405nm](../tag/405nm)
 
 ###What we want to do
 Me and @Warren  are trying to replicate [the heavy to light sorting of oils,](/notes/mathew/09-17-2014/laser-pointers-and-the-lif-literature) as seen in ["Laser Remote Sensing at Sea, A Quantitative Approach" byT. Hengstermann and R. Reuter ](http://mobile.www.eproceedings.org/Advances/1-2-1992/1-2_09_Henstermann.pdf) and [a bunch of other people's work.](/wiki/oil-testing-kit-literature)

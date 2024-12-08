@@ -1,12 +1,18 @@
 ---
-nid: 25533
 title: Research area review on soil + events!
-path: public/static/notes/bhamster/01-25-2021/research-area-review-on-soil-events.md
+tagnames: soil, research, reviews, soil-contamination, soil-contamination-testing, research-area-review
+author: bhamster
+path: /notes/bhamster/01-25-2021/research-area-review-on-soil-events.md
+nid: 25533
 uid: 664477
-tagnames: soil,research,reviews,soil-contamination,soil-contamination-testing,research-area-review
+
 ---
 
 # Research area review on soil + events!
+
+by [bhamster](../profile/bhamster) January 25, 2021 17:01
+
+January 25, 2021 17:01 | Tags: [soil](../tag/soil), [research](../tag/research), [reviews](../tag/reviews), [soil-contamination](../tag/soil-contamination), [soil-contamination-testing](../tag/soil-contamination-testing), [research-area-review](../tag/research-area-review)
 
 _Image: Soil samples with lead, from the [PlaxcoLab](https://www.flickr.com/photos/34857812@N04/3235839768), [CC BY](https://creativecommons.org/licenses/by/2.0/)_
 

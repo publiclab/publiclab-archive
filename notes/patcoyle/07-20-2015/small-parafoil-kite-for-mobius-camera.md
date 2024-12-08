@@ -1,12 +1,18 @@
 ---
-nid: 12083
 title: yet more: small parafoil kite for Mobius camera
-path: public/static/notes/patcoyle/07-20-2015/small-parafoil-kite-for-mobius-camera.md
+tagnames: kap, infragram, gimp, mobius-action-cam, parafoil, stowaway-delta
+author: patcoyle
+path: /notes/patcoyle/07-20-2015/small-parafoil-kite-for-mobius-camera.md
+nid: 12083
 uid: 77
-tagnames: kap,infragram,gimp,mobius-action-cam,parafoil,stowaway-delta
+
 ---
 
 # yet more: small parafoil kite for Mobius camera
+
+by [patcoyle](../profile/patcoyle) July 20, 2015 23:00
+
+July 20, 2015 23:00 | Tags: [kap](../tag/kap), [infragram](../tag/infragram), [gimp](../tag/gimp), [mobius-action-cam](../tag/mobius-action-cam), [parafoil](../tag/parafoil), [stowaway-delta](../tag/stowaway-delta)
 
 ###What I want to do
 

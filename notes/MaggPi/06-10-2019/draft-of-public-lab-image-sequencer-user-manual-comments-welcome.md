@@ -1,12 +1,18 @@
 ---
-nid: 19642
 title: Draft of Public Lab Image Sequencer User Manual – Comments Welcome!
-path: public/static/notes/MaggPi/06-10-2019/draft-of-public-lab-image-sequencer-user-manual-comments-welcome.md
+tagnames: documentation, soc, activity:documentation, image-sequencer, activity:image-sequencer, gsoc-2019, soc-2019, status:request
+author: MaggPi
+path: /notes/MaggPi/06-10-2019/draft-of-public-lab-image-sequencer-user-manual-comments-welcome.md
+nid: 19642
 uid: 501996
-tagnames: documentation,soc,activity:documentation,image-sequencer,activity:image-sequencer,gsoc-2019,soc-2019,status:request
+
 ---
 
 # Draft of Public Lab Image Sequencer User Manual – Comments Welcome!
+
+by [MaggPi](../profile/MaggPi) June 10, 2019 04:29
+
+June 10, 2019 04:29 | Tags: [documentation](../tag/documentation), [soc](../tag/soc), [activity:documentation](../tag/activity:documentation), [image-sequencer](../tag/image-sequencer), [activity:image-sequencer](../tag/activity:image-sequencer), [gsoc-2019](../tag/gsoc-2019), [soc-2019](../tag/soc-2019), [status:request](../tag/status:request)
 
 **Draft of Public Lab Image Sequencer User Manual – Comments Welcome!**
 

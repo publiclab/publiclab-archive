@@ -1,12 +1,18 @@
 ---
-nid: 9029
 title: Infragram Sandbox
-path: public/static/wiki/infragram-sandbox.md
+tagnames: near-infrared-camera, ndvi, infrared, infragram, infragram-sandbox, parent:infragram
+author: warren
+path: /wiki/infragram-sandbox.md
+nid: 9029
 uid: 1
-tagnames: near-infrared-camera,ndvi,infrared,infragram,infragram-sandbox,parent:infragram
+
 ---
 
 # Infragram Sandbox
+
+by [liz](../profile/liz), [mathew](../profile/mathew), [warren](../profile/warren), [cfastie](../profile/cfastie)
+
+August 17, 2013 18:56 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [infrared](../tag/infrared), [infragram](../tag/infragram), [infragram-sandbox](../tag/infragram-sandbox), [parent:infragram](../tag/parent:infragram)
 
 The [Infragram Sandbox](http://infragram.org/sandbox) is a browser based tool for experimenting with image compositing, intended for use with Public Lab [Infragram cameras](/wiki/infragram). 
 

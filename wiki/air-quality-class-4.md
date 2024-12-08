@@ -1,12 +1,18 @@
 ---
-nid: 6126
 title: air quality class 4
-path: public/static/wiki/air-quality-class-4.md
-uid: 7
 tagnames: 
+author: liz
+path: /wiki/air-quality-class-4.md
+nid: 6126
+uid: 7
+
 ---
 
 # air quality class 4
+
+by [jmsaavedra](../profile/jmsaavedra), [liz](../profile/liz)
+
+February 26, 2013 16:36 | Tags: 
 
 <h3><a href="/wiki/air-quality-class">Class Home</a></h3>
 

@@ -1,6 +1,6 @@
 # flir
 
-9 notes and wiki pages
+9 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Rent FLIR thermal infrared cameras at some Home Depots](/notes/warren/5-24-2011/rent-flir-thermal-infrared-cameras-some-home-depots) by [warren](../profile/warren)
 - [Scanning thermal camera](/wiki/scanning-thermal-camera) (wiki)

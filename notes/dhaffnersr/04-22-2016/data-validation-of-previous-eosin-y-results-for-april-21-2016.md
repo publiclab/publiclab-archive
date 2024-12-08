@@ -1,12 +1,18 @@
 ---
-nid: 13019
 title: Data Validation of previous Eosin Y results for April/21/2016
-path: public/static/notes/dhaffnersr/04-22-2016/data-validation-of-previous-eosin-y-results-for-april-21-2016.md
-uid: 461120
 tagnames: 
+author: dhaffnersr
+path: /notes/dhaffnersr/04-22-2016/data-validation-of-previous-eosin-y-results-for-april-21-2016.md
+nid: 13019
+uid: 461120
+
 ---
 
 # Data Validation of previous Eosin Y results for April/21/2016
+
+by [dhaffnersr](../profile/dhaffnersr) April 22, 2016 18:54
+
+April 22, 2016 18:54 | Tags: 
 
 Using my Aries series green laser, I wanted to validate the Eosin Y study I did the other day with the Prolight Uv LED (410nm). I'm presenting this study as a final result for this series of tests using my plab v2.5 spectrometer (build 3.0)
 

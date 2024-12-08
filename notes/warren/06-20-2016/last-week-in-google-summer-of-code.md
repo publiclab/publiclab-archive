@@ -1,12 +1,18 @@
 ---
-nid: 13214
 title: Last week in Google Summer of Code
-path: public/static/notes/warren/06-20-2016/last-week-in-google-summer-of-code.md
+tagnames: website, software, gsoc, developers, coding, wwg, gsoc-2016, response:13191
+author: warren
+path: /notes/warren/06-20-2016/last-week-in-google-summer-of-code.md
+nid: 13214
 uid: 1
-tagnames: website,software,gsoc,developers,coding,wwg,gsoc-2016,response:13191
+
 ---
 
 # Last week in Google Summer of Code
+
+by [warren](../profile/warren) June 20, 2016 13:05
+
+June 20, 2016 13:05 | Tags: [website](../tag/website), [software](../tag/software), [gsoc](../tag/gsoc), [developers](../tag/developers), [coding](../tag/coding), [wwg](../tag/wwg), [gsoc-2016](../tag/gsoc-2016), [response:13191](../tag/response:13191)
 
 I'm away this week, but will still be trying to do the usual twice-weekly merge from [PublicLab.org][1] code contributors while teaching a workshop; we'll see how that works out.
 

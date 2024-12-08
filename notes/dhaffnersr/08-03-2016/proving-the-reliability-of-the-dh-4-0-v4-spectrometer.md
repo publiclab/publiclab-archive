@@ -1,12 +1,18 @@
 ---
-nid: 13330
 title: Proving The Reliability Of The DH 4.0 v4 Spectrometer
-path: public/static/notes/dhaffnersr/08-03-2016/proving-the-reliability-of-the-dh-4-0-v4-spectrometer.md
-uid: 461120
 tagnames: 
+author: dhaffnersr
+path: /notes/dhaffnersr/08-03-2016/proving-the-reliability-of-the-dh-4-0-v4-spectrometer.md
+nid: 13330
+uid: 461120
+
 ---
 
 # Proving The Reliability Of The DH 4.0 v4 Spectrometer
+
+by [dhaffnersr](../profile/dhaffnersr) August 03, 2016 15:49
+
+August 03, 2016 15:49 | Tags: 
 
 ##**A short tutorial on Fluorescein and is Place in the Visible Spectrum**
 

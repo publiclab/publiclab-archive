@@ -1,12 +1,18 @@
 ---
-nid: 9679
 title: Raspberry Pi Infrared Camera ships with Public Lab's Infragram filter
-path: public/static/notes/warren/10-29-2013/raspberry-pi-infrared-camera-ships-with-public-lab-s-infragram-filter.md
+tagnames: near-infrared-camera, raspberry-pi, infragram
+author: warren
+path: /notes/warren/10-29-2013/raspberry-pi-infrared-camera-ships-with-public-lab-s-infragram-filter.md
+nid: 9679
 uid: 1
-tagnames: near-infrared-camera,raspberry-pi,infragram
+
 ---
 
 # Raspberry Pi Infrared Camera ships with Public Lab's Infragram filter
+
+by [warren](../profile/warren) October 29, 2013 15:36
+
+October 29, 2013 15:36 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [raspberry-pi](../tag/raspberry-pi), [infragram](../tag/infragram)
 
 Raspberry Pi just launched their Pi NoIR - a filter-less camera for the Raspberry Pi low-cost computer board, and they've also just posted a big blog post about another thing that ships with the new camera board. See above -- look familiar? It's a piece of Rosco #74 filter, the same one that ships in the [Public Lab Infragram Filter Pack](http://store.publiclab.org/products/infragram-diy-filter-pack)! 
 

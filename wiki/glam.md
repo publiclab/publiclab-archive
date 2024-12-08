@@ -1,12 +1,18 @@
 ---
-nid: 8980
 title: GLAM
-path: public/static/wiki/glam.md
+tagnames: new-york-city, gowanus, glam, northeast, parent:new-york-city, wastewater-project
+author: liz
+path: /wiki/glam.md
+nid: 8980
 uid: 7
-tagnames: new-york-city,gowanus,glam,northeast,parent:new-york-city,wastewater-project
+
 ---
 
 # GLAM
+
+by [liz](../profile/liz), [natasia](../profile/natasia)
+
+August 08, 2013 12:55 | Tags: [new-york-city](../tag/new-york-city), [gowanus](../tag/gowanus), [glam](../tag/glam), [northeast](../tag/northeast), [parent:new-york-city](../tag/parent:new-york-city), [wastewater-project](../tag/wastewater-project)
 
 **Gowanus Canal is part of [New York City](/wiki/new-york-city) and the [Northeast region](http://publiclab.org/wiki/northeast).**
 

@@ -1,12 +1,18 @@
 ---
-nid: 12880
 title: TTL Serial JPEG Cameras + microcontrollers
-path: public/static/notes/donblair/03-23-2016/ttl-serial-jpeg-cameras-microcontrollers.md
+tagnames: riffle, riffle-examples
+author: donblair
+path: /notes/donblair/03-23-2016/ttl-serial-jpeg-cameras-microcontrollers.md
+nid: 12880
 uid: 43651
-tagnames: riffle,riffle-examples
+
 ---
 
 # TTL Serial JPEG Cameras + microcontrollers
+
+by [donblair](../profile/donblair) March 23, 2016 17:50
+
+March 23, 2016 17:50 | Tags: [riffle](../tag/riffle), [riffle-examples](../tag/riffle-examples)
 
 Just seeing @tonyc 's recent note on [using a Mobius camera for field time lapse](https://publiclab.org/notes/tonyc/03-22-2016/using-mobius-camera-as-a-trap-cam-in-field-deployments) -- great stuff!
 

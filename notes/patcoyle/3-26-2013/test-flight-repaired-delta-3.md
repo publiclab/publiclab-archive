@@ -1,12 +1,18 @@
 ---
-nid: 6549
 title: Test flight with repaired Delta
-path: public/static/notes/patcoyle/3-26-2013/test-flight-repaired-delta-3.md
-uid: 77
 tagnames: 
+author: patcoyle
+path: /notes/patcoyle/3-26-2013/test-flight-repaired-delta-3.md
+nid: 6549
+uid: 77
+
 ---
 
 # Test flight with repaired Delta
+
+by [patcoyle](../profile/patcoyle) March 26, 2013 21:01
+
+March 26, 2013 21:01 | Tags: 
 
 Flew a short test flight in Livermore CA with repaired Delta spar pocket, dual A1200s in bottle-bottom rig, Digispark triggered CHDK. 
 

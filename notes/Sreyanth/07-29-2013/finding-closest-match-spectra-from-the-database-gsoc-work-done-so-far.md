@@ -1,12 +1,18 @@
 ---
-nid: 8939
 title: Finding closest match spectra from the database (GSoC) - work done so far
-path: public/static/notes/Sreyanth/07-29-2013/finding-closest-match-spectra-from-the-database-gsoc-work-done-so-far.md
+tagnames: spectrometer, spectrum-matching, matching, spectral-workbench, gsoc, spectral-searching, closest-match
+author: Sreyanth
+path: /notes/Sreyanth/07-29-2013/finding-closest-match-spectra-from-the-database-gsoc-work-done-so-far.md
+nid: 8939
 uid: 96713
-tagnames: spectrometer,spectrum-matching,matching,spectral-workbench,gsoc,spectral-searching,closest-match
+
 ---
 
 # Finding closest match spectra from the database (GSoC) - work done so far
+
+by [Sreyanth](../profile/Sreyanth) July 29, 2013 13:29
+
+July 29, 2013 13:29 | Tags: [spectrometer](../tag/spectrometer), [spectrum-matching](../tag/spectrum-matching), [matching](../tag/matching), [spectral-workbench](../tag/spectral-workbench), [gsoc](../tag/gsoc), [spectral-searching](../tag/spectral-searching), [closest-match](../tag/closest-match)
 
 Continuing with my previous note here: http://publiclab.org/notes/Sreyanth/06-24-2013/find-closest-match-spectra-from-database-gsoc-project , I would like to let you know the progress of the project, drastic changes from the previous post and most importantly, I would like you to see some working results.
 

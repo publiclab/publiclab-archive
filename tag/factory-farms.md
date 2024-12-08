@@ -1,6 +1,6 @@
 # factory-farms
 
-6 notes and wiki pages
+6 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [How CAFOS (Factory Farms) Are Plaguing North Carolina Communities of Color](/notes/Zengirl2/08-01-2017/how-cafos-factory-farms-are-plaguing-north-carolina-communities-of-color) by [zengirl2](../profile/zengirl2)
 - [Do you know of a success story of DIY monitoring for factory farm related problems?](/notes/Zengirl2/11-25-2017/do-you-know-of-a-success-story-of-diy-monitoring-for-factory-farm-related-problems) by [zengirl2](../profile/zengirl2)

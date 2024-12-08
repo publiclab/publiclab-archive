@@ -1,12 +1,18 @@
 ---
-nid: 13062
 title: Rhodamine b in ethanol study May/02/2016
-path: public/static/notes/dhaffnersr/05-02-2016/rhodamine-b-in-ethanol-study-may-02-2016.md
-uid: 461120
 tagnames: 
+author: dhaffnersr
+path: /notes/dhaffnersr/05-02-2016/rhodamine-b-in-ethanol-study-may-02-2016.md
+nid: 13062
+uid: 461120
+
 ---
 
 # Rhodamine b in ethanol study May/02/2016
+
+by [dhaffnersr](../profile/dhaffnersr) May 02, 2016 19:13
+
+May 02, 2016 19:13 | Tags: 
 
 ###What I want to do:
 Using the new spekwin32 v172.2P3 hardware control prototype software, I wanted to try it's capabilities out and do an analysis of A rhodamine b standard.

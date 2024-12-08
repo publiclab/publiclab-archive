@@ -1,12 +1,18 @@
 ---
-nid: 13010
 title: Comment piece in Nature about peer review
-path: public/static/notes/liz/04-21-2016/comment-piece-in-nature-about-peer-review.md
+tagnames: barnstar:basic, with:warren, peer-production, peer-review
+author: liz
+path: /notes/liz/04-21-2016/comment-piece-in-nature-about-peer-review.md
+nid: 13010
 uid: 7
-tagnames: barnstar:basic,with:warren,peer-production,peer-review
+
 ---
 
 # Comment piece in Nature about peer review
+
+by [liz](../profile/liz) April 21, 2016 16:01
+
+April 21, 2016 16:01 | Tags: [barnstar:basic](../tag/barnstar:basic), [with:warren](../tag/with:warren), [peer-production](../tag/peer-production), [peer-review](../tag/peer-review)
 
 _Jean-Baptiste Colbert Presenting the Members of the Royal Academy of Science to Louis XIV (oil on canvas), Henri Testelin (1616–95)/Bridgeman Images_
 

@@ -1,6 +1,6 @@
 # google-summer-of-code
 
-16 notes and wiki pages
+16 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Google Summer of Code 2013 & Public Lab](/notes/gonzoearth/04-17-2013/google-summer-of-code-2013-public-lab) by [gonzoearth](../profile/gonzoearth)
 - [ORD - SFO](/notes/cfastie/10-23-2013/ord-sfo) by [cfastie](../profile/cfastie)

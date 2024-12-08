@@ -1,12 +1,18 @@
 ---
-nid: 34861
 title: Open Call: "Game Over Formosa Plastics" Report Back 
-path: public/static/notes/michelleiL/08-10-2022/open-call-game-over-formosa-plastics-report-back.md
+tagnames: event, event:rsvp, environmentaljustice, formosaplastics, gameoverformosa, date:08-23-2022
+author: michelleiL
+path: /notes/michelleiL/08-10-2022/open-call-game-over-formosa-plastics-report-back.md
+nid: 34861
 uid: 799004
-tagnames: event,event:rsvp,environmentaljustice,formosaplastics,gameoverformosa,date:08-23-2022
+
 ---
 
 # Open Call: "Game Over Formosa Plastics" Report Back 
+
+by [michelleiL](../profile/michelleiL) August 10, 2022 21:39
+
+August 10, 2022 21:39 | Tags: [event](../tag/event), [event:rsvp](../tag/event:rsvp), [environmentaljustice](../tag/environmentaljustice), [formosaplastics](../tag/formosaplastics), [gameoverformosa](../tag/gameoverformosa), [date:08-23-2022](../tag/date:08-23-2022)
 
 Join SE Louisiana fellows  Travis London, Tyler Ellis, Caitlion O Hunter and Allison Woolverton for a virtual community conversation about their findings on particulate matter monitoring at St. James Parish, a historically Black community in southern Louisiana impacted by the pollution of 11 existing industrial facilities and their work to oppose new petrochemical units like the proposed Formosa Plastics complex.
 

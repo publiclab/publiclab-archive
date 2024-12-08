@@ -1,12 +1,18 @@
 ---
-nid: 25585
 title: Workshop IX: What Story Does Our Data Tell?
-path: public/static/notes/purl/02-02-2021/workshop-ix-what-story-does-our-data-tell.md
-uid: 736598
 tagnames: education
+author: purl
+path: /notes/purl/02-02-2021/workshop-ix-what-story-does-our-data-tell.md
+nid: 25585
+uid: 736598
+
 ---
 
 # Workshop IX: What Story Does Our Data Tell?
+
+by [purl](../profile/purl) February 02, 2021 15:27
+
+February 02, 2021 15:27 | Tags: [education](../tag/education)
 
 This lesson is part of a series of lessons designed for educators to facilitate student-led inquiry around environmental topics. If there are time constraints, this lesson can be split into two at the Elaborate portion of the lesson. During Phase I of this series, students work towards identifying and learning about environmental topics.  
 

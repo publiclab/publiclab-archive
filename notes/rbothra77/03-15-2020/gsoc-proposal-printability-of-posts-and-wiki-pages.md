@@ -1,12 +1,18 @@
 ---
-nid: 23144
 title: GSOC Proposal : Printability of posts and wiki pages
-path: public/static/notes/rbothra77/03-15-2020/gsoc-proposal-printability-of-posts-and-wiki-pages.md
+tagnames: gsoc, printability, first-time-poster, gsoc-2020
+author: rbothra77
+path: /notes/rbothra77/03-15-2020/gsoc-proposal-printability-of-posts-and-wiki-pages.md
+nid: 23144
 uid: 568534
-tagnames: gsoc,printability,first-time-poster,gsoc-2020
+
 ---
 
 # GSOC Proposal : Printability of posts and wiki pages
+
+by [rbothra77](../profile/rbothra77) March 15, 2020 08:42
+
+March 15, 2020 08:42 | Tags: [gsoc](../tag/gsoc), [printability](../tag/printability), [first-time-poster](../tag/first-time-poster), [gsoc-2020](../tag/gsoc-2020)
 
 Name : Rishabh Kumar Bothra
 

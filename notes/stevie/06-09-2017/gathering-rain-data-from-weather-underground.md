@@ -1,12 +1,18 @@
 ---
-nid: 14516
 title: Gathering rain data from weather underground
-path: public/static/notes/stevie/06-09-2017/gathering-rain-data-from-weather-underground.md
+tagnames: stormwater, weather, activity:stormwater, rain, activity:weather, weatherunderground
+author: stevie
+path: /notes/stevie/06-09-2017/gathering-rain-data-from-weather-underground.md
+nid: 14516
 uid: 422561
-tagnames: stormwater,weather,activity:stormwater,rain,activity:weather,weatherunderground
+
 ---
 
 # Gathering rain data from weather underground
+
+by [stevie](../profile/stevie) June 09, 2017 20:02
+
+June 09, 2017 20:02 | Tags: [stormwater](../tag/stormwater), [weather](../tag/weather), [activity:stormwater](../tag/activity:stormwater), [rain](../tag/rain), [activity:weather](../tag/activity:weather), [weatherunderground](../tag/weatherunderground)
 
 While individuals can put up weather stations to report to weather underground, it's also a great place to go find local weather data and history. In this activity we'll walk through how to collect recent rainfall data for the New Orleans area from the Lakefront Airport station. 
 

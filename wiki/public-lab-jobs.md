@@ -1,12 +1,18 @@
 ---
-nid: 10109
 title: Public Lab Jobs
-path: public/static/wiki/public-lab-jobs.md
+tagnames: jobs, redirect:27206
+author: Shannon
+path: /wiki/public-lab-jobs.md
+nid: 10109
 uid: 9
-tagnames: jobs,redirect:27206
+
 ---
 
 # Public Lab Jobs
+
+by [thewrightjess](../profile/thewrightjess), [amocorro](../profile/amocorro), [joyofsoy](../profile/joyofsoy), [Shannon](../profile/Shannon), [warren](../profile/warren)
+
+March 05, 2014 18:14 | Tags: [jobs](../tag/jobs), [redirect:27206](../tag/redirect:27206)
 
 ## Work at Public Lab
 

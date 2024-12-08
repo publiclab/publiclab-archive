@@ -1,12 +1,18 @@
 ---
-nid: 19291
 title: Is the Olympus CAMEDIA C-3040 good for NDVI?
-path: public/static/notes/texacoon/05-10-2019/is-the-olympus-camedia-c-3040-good-for-ndvi.md
+tagnames: question:ndvi, first-time-poster
+author: texacoon
+path: /notes/texacoon/05-10-2019/is-the-olympus-camedia-c-3040-good-for-ndvi.md
+nid: 19291
 uid: 585854
-tagnames: question:ndvi,first-time-poster
+
 ---
 
 # Is the Olympus CAMEDIA C-3040 good for NDVI?
+
+by [texacoon](../profile/texacoon) May 10, 2019 11:46
+
+May 10, 2019 11:46 | Tags: [question:ndvi](../tag/question:ndvi), [first-time-poster](../tag/first-time-poster)
 
 Have several cameras for drone operation ....  Wanted to move away from my GoPros and look into using a larger image sensor type camera so I chose **Olympus CAMEDIA C-3040\.**
 

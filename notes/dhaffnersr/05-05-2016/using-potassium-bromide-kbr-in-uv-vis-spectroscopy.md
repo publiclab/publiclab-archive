@@ -1,12 +1,18 @@
 ---
-nid: 13077
 title: Using Potassium Bromide (KBr) in UV/VIS spectroscopy
-path: public/static/notes/dhaffnersr/05-05-2016/using-potassium-bromide-kbr-in-uv-vis-spectroscopy.md
-uid: 461120
 tagnames: 
+author: dhaffnersr
+path: /notes/dhaffnersr/05-05-2016/using-potassium-bromide-kbr-in-uv-vis-spectroscopy.md
+nid: 13077
+uid: 461120
+
 ---
 
 # Using Potassium Bromide (KBr) in UV/VIS spectroscopy
+
+by [dhaffnersr](../profile/dhaffnersr) May 05, 2016 09:18
+
+May 05, 2016 09:18 | Tags: 
 
 
 Using UV/VIS spectroscopy, either an unknown substance can be identified or the concentration of a known substance determined. In both cases, accurate analytical results depend on the use of very pure solvents for sample preparation, this is why I used my own variation of a regent called Uvasol.

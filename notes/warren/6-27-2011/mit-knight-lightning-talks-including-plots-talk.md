@@ -1,12 +1,18 @@
 ---
-nid: 358
 title: MIT-Knight Lightning talks, including PLOTS talk
-path: public/static/notes/warren/6-27-2011/mit-knight-lightning-talks-including-plots-talk.md
-uid: 1
 tagnames: 
+author: warren
+path: /notes/warren/6-27-2011/mit-knight-lightning-talks-including-plots-talk.md
+nid: 358
+uid: 1
+
 ---
 
 # MIT-Knight Lightning talks, including PLOTS talk
+
+by [warren](../profile/warren) June 27, 2011 14:46
+
+June 27, 2011 14:46 | Tags: 
 
 <script type="text/javascript" src="http://html5.kaltura.org/js"></script>
 <script type="text/javascript">     

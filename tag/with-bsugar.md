@@ -1,6 +1,6 @@
 # with-bsugar
 
-3 notes and wiki pages
+3 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [First draft of tag graph](/notes/liz/09-15-2016/first-draft-of-tag-graph) by [liz](../profile/liz)
 - [Make the most basic github contribution](/notes/liz/11-02-2016/make-the-most-basic-github-contribution) by [liz](../profile/liz)

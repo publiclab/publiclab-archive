@@ -1,12 +1,18 @@
 ---
-nid: 35725
 title: Free, prior informed consent obligation to Indigenous Tribes
-path: public/static/notes/JuliaGuerrein/10-23-2022/free-prior-informed-consent-obligation-to-indigenous-tribes.md
+tagnames: minnesota, zoom:6, lat:46, mn-land-manoomin-protection, lon:-94, environmental-law, international-law, indigenous-rights
+author: JuliaGuerrein
+path: /notes/JuliaGuerrein/10-23-2022/free-prior-informed-consent-obligation-to-indigenous-tribes.md
+nid: 35725
 uid: 796025
-tagnames: minnesota,zoom:6,lat:46,mn-land-manoomin-protection,lon:-94,environmental-law,international-law,indigenous-rights
+
 ---
 
 # Free, prior informed consent obligation to Indigenous Tribes
+
+by [JuliaGuerrein](../profile/JuliaGuerrein) October 23, 2022 00:19
+
+October 23, 2022 00:19 | Tags: [minnesota](../tag/minnesota), [zoom:6](../tag/zoom:6), [lat:46](../tag/lat:46), [mn-land-manoomin-protection](../tag/mn-land-manoomin-protection), [lon:-94](../tag/lon:-94), [environmental-law](../tag/environmental-law), [international-law](../tag/international-law), [indigenous-rights](../tag/indigenous-rights)
 
 Photo source: [fao.org/indigenous-peoples/our-pillars/fpic/en/](http://fao.org/indigenous-peoples/our-pillars/fpic/en/)
 

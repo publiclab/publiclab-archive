@@ -1,6 +1,6 @@
 # urban-heat-island
 
-6 notes and wiki pages
+6 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Cool It ](/notes/baskotasusan/04-15-2014/cool-it) by [baskotasusan](../profile/baskotasusan)
 - [What are ways to record ambient temperature every 5 sec and export easily?](/notes/carohowe/07-13-2017/what-are-ways-to-record-ambient-temperature-every-5-sec-and-export-easily) by [carohowe](../profile/carohowe)

@@ -1,12 +1,18 @@
 ---
-nid: 17902
 title: need information on self-watering irrigation systems, rainwater capture down spout filter, dew collection systems
-path: public/static/notes/birdlink/12-14-2018/need-information-on-self-watering-irrigation-systems-rainwater-capture-down-spout-filter-dew-collection-systems.md
+tagnames: new-york-city, williamsburg, irrigation, hardware, question:general, first-time-poster
+author: birdlink
+path: /notes/birdlink/12-14-2018/need-information-on-self-watering-irrigation-systems-rainwater-capture-down-spout-filter-dew-collection-systems.md
+nid: 17902
 uid: 564432
-tagnames: new-york-city,williamsburg,irrigation,hardware,question:general,first-time-poster
+
 ---
 
 # need information on self-watering irrigation systems, rainwater capture down spout filter, dew collection systems
+
+by [birdlink](../profile/birdlink) December 14, 2018 17:11
+
+December 14, 2018 17:11 | Tags: [new-york-city](../tag/new-york-city), [williamsburg](../tag/williamsburg), [irrigation](../tag/irrigation), [hardware](../tag/hardware), [question:general](../tag/question:general), [first-time-poster](../tag/first-time-poster)
 
 in NYC but relevant anywhere
 

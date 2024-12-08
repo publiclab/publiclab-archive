@@ -1,12 +1,18 @@
 ---
-nid: 12614
 title: Frac Sand Legislation
-path: public/static/wiki/frac-sand-legislation.md
+tagnames: fracking, parent:frac-sand-advocacy-leverage-points
+author: gretchengehrke
+path: /wiki/frac-sand-legislation.md
+nid: 12614
 uid: 430549
-tagnames: fracking,parent:frac-sand-advocacy-leverage-points
+
 ---
 
 # Frac Sand Legislation
+
+by [stevie](../profile/stevie), [gretchengehrke](../profile/gretchengehrke)
+
+January 25, 2016 14:29 | Tags: [fracking](../tag/fracking), [parent:frac-sand-advocacy-leverage-points](../tag/parent:frac-sand-advocacy-leverage-points)
 
 Table of Contents 
 

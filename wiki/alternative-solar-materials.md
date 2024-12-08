@@ -1,12 +1,18 @@
 ---
-nid: 22839
 title: Alternative solar materials
-path: public/static/wiki/alternative-solar-materials.md
-uid: 1
 tagnames: 
+author: warren
+path: /wiki/alternative-solar-materials.md
+nid: 22839
+uid: 1
+
 ---
 
 # Alternative solar materials
+
+by [warren](../profile/warren)
+
+February 17, 2020 22:50 | Tags: 
 
 @warren taking notes here on techniques for DIY solar cells. Some are more toxic than others. 
 

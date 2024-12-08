@@ -1,12 +1,18 @@
 ---
-nid: 9936
 title: Conference Booth Nuts
-path: public/static/wiki/conference-booth-nuts.md
-uid: 43651
 tagnames: 
+author: donblair
+path: /wiki/conference-booth-nuts.md
+nid: 9936
+uid: 43651
+
 ---
 
 # Conference Booth Nuts
+
+by [donblair](../profile/donblair)
+
+January 10, 2014 16:33 | Tags: 
 
 An early draft of a 2-sided 8.5" x 11" Public Lab brochure that folds into thirds:
 

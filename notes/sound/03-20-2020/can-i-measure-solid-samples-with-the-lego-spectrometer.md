@@ -1,11 +1,17 @@
 ---
-nid: 23191
 title: can i measure solid samples with the lego spectrometer?
-path: public/static/notes/sound/03-20-2020/can-i-measure-solid-samples-with-the-lego-spectrometer.md
+tagnames: spectrometer, lego, question:general, general, first-time-poster
+author: sound
+path: /notes/sound/03-20-2020/can-i-measure-solid-samples-with-the-lego-spectrometer.md
+nid: 23191
 uid: 675938
-tagnames: spectrometer,lego,question:general,general,first-time-poster
+
 ---
 
 # can i measure solid samples with the lego spectrometer?
+
+by [sound](../profile/sound) March 20, 2020 13:24
+
+March 20, 2020 13:24 | Tags: [spectrometer](../tag/spectrometer), [lego](../tag/lego), [question:general](../tag/question:general), [general](../tag/general), [first-time-poster](../tag/first-time-poster)
 
 I want to measure solid samples or chromatography paper samples. Can I mount them on the cuvette holder and measure?

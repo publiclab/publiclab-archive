@@ -1,12 +1,18 @@
 ---
-nid: 13364
 title: community development projects
-path: public/static/wiki/community-development-projects.md
-uid: 7
 tagnames: 
+author: liz
+path: /wiki/community-development-projects.md
+nid: 13364
+uid: 7
+
 ---
 
 # community development projects
+
+by [liz](../profile/liz)
+
+August 18, 2016 14:41 | Tags: 
 
 This is the work plan for the "ComDevAd" program area of the non-profit. Check out the overall timeline of community development in public lab here: https://publiclab.org/wiki/community-development
 

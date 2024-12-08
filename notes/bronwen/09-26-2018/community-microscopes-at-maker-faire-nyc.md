@@ -1,12 +1,18 @@
 ---
-nid: 17179
 title: Community Microscopes at Maker Faire NYC
-path: public/static/notes/bronwen/09-26-2018/community-microscopes-at-maker-faire-nyc.md
+tagnames: new-york-city, education, events, queens, northeast, with:eymund, with:liz, microscope, community-microscope, make, maker-faire, with:jholmes5, workshop-community-microscope
+author: Bronwen
+path: /notes/bronwen/09-26-2018/community-microscopes-at-maker-faire-nyc.md
+nid: 17179
 uid: 237313
-tagnames: new-york-city,education,events,queens,northeast,with:eymund,with:liz,microscope,community-microscope,make,maker-faire,with:jholmes5,workshop-community-microscope
+
 ---
 
 # Community Microscopes at Maker Faire NYC
+
+by [Bronwen](../profile/Bronwen) September 26, 2018 22:29
+
+September 26, 2018 22:29 | Tags: [new-york-city](../tag/new-york-city), [education](../tag/education), [events](../tag/events), [queens](../tag/queens), [northeast](../tag/northeast), [with:eymund](../tag/with:eymund), [with:liz](../tag/with:liz), [microscope](../tag/microscope), [community-microscope](../tag/community-microscope), [make](../tag/make), [maker-faire](../tag/maker-faire), [with:jholmes5](../tag/with:jholmes5), [workshop-community-microscope](../tag/workshop-community-microscope)
 
 On Sunday September 23, Public Lab had the opportunity to lead a 
 hands-on microscope workshop for 30 people of all ages at NYC Maker 

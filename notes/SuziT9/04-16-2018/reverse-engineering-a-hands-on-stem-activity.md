@@ -1,12 +1,18 @@
 ---
-nid: 16162
 title: Reverse Engineering (a hands-on STEM activity)
-path: public/static/notes/SuziT9/04-16-2018/reverse-engineering-a-hands-on-stem-activity.md
+tagnames: education, youth, outreach, kidcom, stem, engineering, activity:reverse-engineering, activity:kidcom, activity:session-ideas
+author: SuziT9
+path: /notes/SuziT9/04-16-2018/reverse-engineering-a-hands-on-stem-activity.md
+nid: 16162
 uid: 477814
-tagnames: education,youth,outreach,kidcom,stem,engineering,activity:reverse-engineering,activity:kidcom,activity:session-ideas
+
 ---
 
 # Reverse Engineering (a hands-on STEM activity)
+
+by [SuziT9](../profile/SuziT9) April 16, 2018 19:40
+
+April 16, 2018 19:40 | Tags: [education](../tag/education), [youth](../tag/youth), [outreach](../tag/outreach), [kidcom](../tag/kidcom), [stem](../tag/stem), [engineering](../tag/engineering), [activity:reverse-engineering](../tag/activity:reverse-engineering), [activity:kidcom](../tag/activity:kidcom), [activity:session-ideas](../tag/activity:session-ideas)
 
 If you are looking for a fun activity to do with kids, this is it! **The Reverse Engineering activity is basically **taking stuff apart**! We use standard hand tools to disassemble anything people will donate to us -- broken hair dryers, alarm clocks, VCRs, etc. (see message below for what we won't
 take). 

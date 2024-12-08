@@ -1,12 +1,18 @@
 ---
-nid: 26225
 title: GSoC!proposal:  UX/UI QoL Improvements
-path: public/static/notes/eightballocto/04-13-2021/gsoc-proposal-ux-ui-qol-improvements.md
+tagnames: software, soc, lat:0, lon:0, first-time-poster, zoom:2, gsoc-2021, gsoc-2021-proposals
+author: eightballocto
+path: /notes/eightballocto/04-13-2021/gsoc-proposal-ux-ui-qol-improvements.md
+nid: 26225
 uid: 751770
-tagnames: software,soc,lat:0,lon:0,first-time-poster,zoom:2,gsoc-2021,gsoc-2021-proposals
+
 ---
 
 # GSoC!proposal:  UX/UI QoL Improvements
+
+by [eightballocto](../profile/eightballocto) April 13, 2021 19:03
+
+April 13, 2021 19:03 | Tags: [software](../tag/software), [soc](../tag/soc), [lat:0](../tag/lat:0), [lon:0](../tag/lon:0), [first-time-poster](../tag/first-time-poster), [zoom:2](../tag/zoom:2), [gsoc-2021](../tag/gsoc-2021), [gsoc-2021-proposals](../tag/gsoc-2021-proposals)
 
 # About me  
 

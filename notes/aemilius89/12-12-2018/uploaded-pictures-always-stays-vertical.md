@@ -1,12 +1,18 @@
 ---
-nid: 17878
 title: Uploaded pictures always stays vertical
-path: public/static/notes/aemilius89/12-12-2018/uploaded-pictures-always-stays-vertical.md
+tagnames: spectralworkbench, question:website
+author: aemilius89
+path: /notes/aemilius89/12-12-2018/uploaded-pictures-always-stays-vertical.md
+nid: 17878
 uid: 561190
-tagnames: spectralworkbench,question:website
+
 ---
 
 # Uploaded pictures always stays vertical
+
+by [aemilius89](../profile/aemilius89) December 12, 2018 15:52
+
+December 12, 2018 15:52 | Tags: [spectralworkbench](../tag/spectralworkbench), [question:website](../tag/question:website)
 
 Hello,
 

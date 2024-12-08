@@ -1,12 +1,18 @@
 ---
-nid: 10442
 title: flushing-bay
-path: public/static/wiki/flushing-bay.md
+tagnames: new-york-city, flushing-bay, northeast, dragon-boat
+author: liz
+path: /wiki/flushing-bay.md
+nid: 10442
 uid: 7
-tagnames: new-york-city,flushing-bay,northeast,dragon-boat
+
 ---
 
 # flushing-bay
+
+by [liz](../profile/liz)
+
+May 07, 2014 19:36 | Tags: [new-york-city](../tag/new-york-city), [flushing-bay](../tag/flushing-bay), [northeast](../tag/northeast), [dragon-boat](../tag/dragon-boat)
 
 _Lead image of the May 18, 2014 Flushing Bay annual cleanup is by Christina Santucci and copyright [Times Ledger](http://www.timesledger.com/stories/2014/20/flushingmarinacleanup_all_2014_05_16_q.html)_
 

@@ -1,12 +1,18 @@
 ---
-nid: 12893
 title: Automating Passive Particle Monitor Analysis
-path: public/static/notes/mathew/03-26-2016/automating-passive-particle-monitor-analysis.md
+tagnames: frac-sand, pm, polarized-light-microscopy, particle-monitoring, particle, microscope, passive-particle-monitors, passive-pm, parent:frac-sand, microscopy, pm-monitoring, with:simonpyle, microscopes, activity:microscopes, particle-imaging
+author: mathew
+path: /notes/mathew/03-26-2016/automating-passive-particle-monitor-analysis.md
+nid: 12893
 uid: 4
-tagnames: frac-sand,pm,polarized-light-microscopy,particle-monitoring,particle,microscope,passive-particle-monitors,passive-pm,parent:frac-sand,microscopy,pm-monitoring,with:simonpyle,microscopes,activity:microscopes,particle-imaging
+
 ---
 
 # Automating Passive Particle Monitor Analysis
+
+by [mathew](../profile/mathew) March 26, 2016 04:34
+
+March 26, 2016 04:34 | Tags: [frac-sand](../tag/frac-sand), [pm](../tag/pm), [polarized-light-microscopy](../tag/polarized-light-microscopy), [particle-monitoring](../tag/particle-monitoring), [particle](../tag/particle), [microscope](../tag/microscope), [passive-particle-monitors](../tag/passive-particle-monitors), [passive-pm](../tag/passive-pm), [parent:frac-sand](../tag/parent:frac-sand), [microscopy](../tag/microscopy), [pm-monitoring](../tag/pm-monitoring), [with:simonpyle](../tag/with:simonpyle), [microscopes](../tag/microscopes), [activity:microscopes](../tag/activity:microscopes), [particle-imaging](../tag/particle-imaging)
 
 Along with @AmberWise, @Damarquis, @Pagyebo, I've been working to make and document a method of analyzing [SEM stub passive particle monitors](/wiki/passive-pm) with visible light microscopy in order to determine [PM2.5-10 pollution](/wiki/pm#Regulation).
 

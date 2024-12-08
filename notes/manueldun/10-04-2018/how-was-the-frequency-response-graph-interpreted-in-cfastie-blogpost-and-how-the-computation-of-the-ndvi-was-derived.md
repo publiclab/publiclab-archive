@@ -1,12 +1,18 @@
 ---
-nid: 17220
 title: How was the frequency response graph interpreted in @cfastie blogpost, and how the computation of the NDVI was derived?
-path: public/static/notes/manueldun/10-04-2018/how-was-the-frequency-response-graph-interpreted-in-cfastie-blogpost-and-how-the-computation-of-the-ndvi-was-derived.md
+tagnames: question:ndvi, tsl2561
+author: manueldun
+path: /notes/manueldun/10-04-2018/how-was-the-frequency-response-graph-interpreted-in-cfastie-blogpost-and-how-the-computation-of-the-ndvi-was-derived.md
+nid: 17220
 uid: 553569
-tagnames: question:ndvi,tsl2561
+
 ---
 
 # How was the frequency response graph interpreted in @cfastie blogpost, and how the computation of the NDVI was derived?
+
+by [manueldun](../profile/manueldun) October 04, 2018 14:10
+
+October 04, 2018 14:10 | Tags: [question:ndvi](../tag/question:ndvi), [tsl2561](../tag/tsl2561)
 
 @cfastie made a blog post that intereses me as I need to measure NDVI with micro controllers.
 

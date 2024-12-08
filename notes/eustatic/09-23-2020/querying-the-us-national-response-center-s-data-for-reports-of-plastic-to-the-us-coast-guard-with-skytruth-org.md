@@ -1,12 +1,18 @@
 ---
-nid: 24634
 title: Querying the US National Response Center's data for reports of "plastic" to the US Coast Guard, with Skytruth.org
-path: public/static/notes/eustatic/09-23-2020/querying-the-us-national-response-center-s-data-for-reports-of-plastic-to-the-us-coast-guard-with-skytruth-org.md
+tagnames: gulf-coast, database, water-quality, skytruth, advocacy-pathways, microplastics, skytruth-alerts, zoom:16, plastic-pollution, nurdles, lat:29.953744, lon:-90.073642, plastic-smell, pellets
+author: eustatic
+path: /09-23-2020/querying-the-us-national-response-center-s-data-for-reports-of-plastic-to-the-us-coast-guard-with-skytruth-org.md
+nid: 24634
 uid: 379
-tagnames: gulf-coast,database,water-quality,skytruth,advocacy-pathways,microplastics,skytruth-alerts,zoom:16,plastic-pollution,nurdles,lat:29.953744,lon:-90.073642,plastic-smell,pellets
+
 ---
 
 # Querying the US National Response Center's data for reports of "plastic" to the US Coast Guard, with Skytruth.org
+
+by [eustatic](../profile/eustatic) September 23, 2020 16:43
+
+September 23, 2020 16:43 | Tags: [gulf-coast](../tag/gulf-coast), [database](../tag/database), [water-quality](../tag/water-quality), [skytruth](../tag/skytruth), [advocacy-pathways](../tag/advocacy-pathways), [microplastics](../tag/microplastics), [skytruth-alerts](../tag/skytruth-alerts), [zoom:16](../tag/zoom:16), [plastic-pollution](../tag/plastic-pollution), [nurdles](../tag/nurdles), [lat:29.953744](../tag/lat:29.953744), [lon:-90.073642](../tag/lon:-90.073642), [plastic-smell](../tag/plastic-smell), [pellets](../tag/pellets)
 
 As part of the Gulf Monitoring Consortium, Skytruth offers their alerts system to synthesize an unwieldy database for a very accessible reporting system.
 

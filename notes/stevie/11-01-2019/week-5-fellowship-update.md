@@ -1,12 +1,18 @@
 ---
-nid: 21369
 title: Week 5 Fellowship Update 
-path: public/static/notes/stevie/11-01-2019/week-5-fellowship-update.md
+tagnames: fellowship, oil-and-gas, oil-and-gas-water-trio, with:rollinrenola
+author: stevie
+path: /notes/stevie/11-01-2019/week-5-fellowship-update.md
+nid: 21369
 uid: 422561
-tagnames: fellowship,oil-and-gas,oil-and-gas-water-trio,with:rollinrenola
+
 ---
 
 # Week 5 Fellowship Update 
+
+by [stevie](../profile/stevie) November 01, 2019 18:54
+
+November 01, 2019 18:54 | Tags: [fellowship](../tag/fellowship), [oil-and-gas](../tag/oil-and-gas), [oil-and-gas-water-trio](../tag/oil-and-gas-water-trio), [with:rollinrenola](../tag/with:rollinrenola)
 
 \_Posting the Week 5 Fellowship update on behalf of Rollin Black:\_
 

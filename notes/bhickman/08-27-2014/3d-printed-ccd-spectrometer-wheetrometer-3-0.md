@@ -1,12 +1,18 @@
 ---
-nid: 11079
 title: 3D Printed CCD Spectrometer (WheeTrometer 3.0)
-path: public/static/notes/bhickman/08-27-2014/3d-printed-ccd-spectrometer-wheetrometer-3-0.md
+tagnames: spectrometer, spectrometry, cuvette, 3d-printing, barnstar:basic
+author: bhickman
+path: /notes/bhickman/08-27-2014/3d-printed-ccd-spectrometer-wheetrometer-3-0.md
+nid: 11079
 uid: 201929
-tagnames: spectrometer,spectrometry,cuvette,3d-printing,barnstar:basic
+
 ---
 
 # 3D Printed CCD Spectrometer (WheeTrometer 3.0)
+
+by [bhickman](../profile/bhickman) August 27, 2014 08:49
+
+August 27, 2014 08:49 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [cuvette](../tag/cuvette), [3d-printing](../tag/3d-printing), [barnstar:basic](../tag/barnstar:basic)
 
 ##What we want to do:
 We want to provide an open source and affordable CCD photodiode array spectrometer. The goal is to have 1 nm wavelength resolution and 12 bit intensity resolution. 

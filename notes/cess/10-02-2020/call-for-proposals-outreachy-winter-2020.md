@@ -1,12 +1,18 @@
 ---
-nid: 24687
 title: Call for Proposals Outreachy Winter 2020
-path: public/static/notes/cess/10-02-2020/call-for-proposals-outreachy-winter-2020.md
+tagnames: with:warren, with:liz, seeks:responses, outreachy, lat:-1, call-for-proposals, with:sagarpreet, zoom:6, lon:35
+author: cess
+path: /notes/cess/10-02-2020/call-for-proposals-outreachy-winter-2020.md
+nid: 24687
 uid: 525958
-tagnames: with:warren,with:liz,seeks:responses,outreachy,lat:-1,call-for-proposals,with:sagarpreet,zoom:6,lon:35
+
 ---
 
 # Call for Proposals Outreachy Winter 2020
+
+by [cess](../profile/cess) October 02, 2020 14:44
+
+October 02, 2020 14:44 | Tags: [with:warren](../tag/with:warren), [with:liz](../tag/with:liz), [seeks:responses](../tag/seeks:responses), [outreachy](../tag/outreachy), [lat:-1](../tag/lat:-1), [call-for-proposals](../tag/call-for-proposals), [with:sagarpreet](../tag/with:sagarpreet), [zoom:6](../tag/zoom:6), [lon:35](../tag/lon:35)
 
 ### Outreachy Winter 2020 []()
 

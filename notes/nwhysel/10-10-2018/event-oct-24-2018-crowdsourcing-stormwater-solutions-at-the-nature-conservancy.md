@@ -1,12 +1,18 @@
 ---
-nid: 17268
 title: Event: Oct 24, 2018 Crowdsourcing Stormwater Solutions at The Nature Conservancy
-path: public/static/notes/nwhysel/10-10-2018/event-oct-24-2018-crowdsourcing-stormwater-solutions-at-the-nature-conservancy.md
+tagnames: new-york-city, event, stormwater, green-infrastructure, mitigation
+author: nwhysel
+path: /notes/nwhysel/10-10-2018/event-oct-24-2018-crowdsourcing-stormwater-solutions-at-the-nature-conservancy.md
+nid: 17268
 uid: 434096
-tagnames: new-york-city,event,stormwater,green-infrastructure,mitigation
+
 ---
 
 # Event: Oct 24, 2018 Crowdsourcing Stormwater Solutions at The Nature Conservancy
+
+by [nwhysel](../profile/nwhysel) October 10, 2018 14:26
+
+October 10, 2018 14:26 | Tags: [new-york-city](../tag/new-york-city), [event](../tag/event), [stormwater](../tag/stormwater), [green-infrastructure](../tag/green-infrastructure), [mitigation](../tag/mitigation)
 
 Take on the NYC Stormwater Design Challenge!
 

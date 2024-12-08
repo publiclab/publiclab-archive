@@ -1,12 +1,18 @@
 ---
-nid: 5973
 title: Additive Image Stacking In Spectroscopy
-path: public/static/notes/ulao2/2-13-2013/additive-image-stacking-spectroscopy.md
-uid: 48699
 tagnames: 
+author: Ulao2
+path: /notes/ulao2/2-13-2013/additive-image-stacking-spectroscopy.md
+nid: 5973
+uid: 48699
+
 ---
 
 # Additive Image Stacking In Spectroscopy
+
+by [Ulao2](../profile/Ulao2) February 14, 2013 04:18
+
+February 14, 2013 04:18 | Tags: 
 
 Additive Image Stacking In Spectroscopy
 

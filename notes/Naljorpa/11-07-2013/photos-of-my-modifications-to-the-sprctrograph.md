@@ -1,12 +1,18 @@
 ---
-nid: 9745
 title: Photos of my modifications to the sprctrograph
-path: public/static/notes/Naljorpa/11-07-2013/photos-of-my-modifications-to-the-sprctrograph.md
+tagnames: spectrometer, dsk, tripod
+author: Naljorpa
+path: /notes/Naljorpa/11-07-2013/photos-of-my-modifications-to-the-sprctrograph.md
+nid: 9745
 uid: 306917
-tagnames: spectrometer,dsk,tripod
+
 ---
 
 # Photos of my modifications to the sprctrograph
+
+by [Naljorpa](../profile/Naljorpa) November 07, 2013 17:42
+
+November 07, 2013 17:42 | Tags: [spectrometer](../tag/spectrometer), [dsk](../tag/dsk), [tripod](../tag/tripod)
 
 [![DSCN1719.JPG](https://i.publiclab.org/system/images/photos/000/002/158/medium/DSCN1719.JPG)](https://i.publiclab.org/system/images/photos/000/002/158/original/DSCN1719.JPG)
 

@@ -1,12 +1,18 @@
 ---
-nid: 10335
 title: Barataria 2014: III February 27th
-path: public/static/notes/eustatic/04-20-2014/barataria-2014-february-27th.md
+tagnames: gulf-coast, balloon-mapping, barataria-bay, kite-mapping, wetlands, louisiana, wetland, kite, barataria, bp, boat, patagonia, response:10045, powered
+author: eustatic
+path: /04-20-2014/barataria-2014-february-27th.md
+nid: 10335
 uid: 379
-tagnames: gulf-coast,balloon-mapping,barataria-bay,kite-mapping,wetlands,louisiana,wetland,kite,barataria,bp,boat,patagonia,response:10045,powered
+
 ---
 
 # Barataria 2014: III February 27th
+
+by [eustatic](../profile/eustatic) April 20, 2014 22:29
+
+April 20, 2014 22:29 | Tags: [gulf-coast](../tag/gulf-coast), [balloon-mapping](../tag/balloon-mapping), [barataria-bay](../tag/barataria-bay), [kite-mapping](../tag/kite-mapping), [wetlands](../tag/wetlands), [louisiana](../tag/louisiana), [wetland](../tag/wetland), [kite](../tag/kite), [barataria](../tag/barataria), [bp](../tag/bp), [boat](../tag/boat), [patagonia](../tag/patagonia), [response:10045](../tag/response:10045), [powered](../tag/powered)
 
 ##DRAFT 
 

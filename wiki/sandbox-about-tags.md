@@ -1,12 +1,18 @@
 ---
-nid: 31042
 title: sandbox-about-tags
-path: public/static/wiki/sandbox-about-tags.md
-uid: 664477
 tagnames: 
+author: bhamster
+path: /wiki/sandbox-about-tags.md
+nid: 31042
+uid: 664477
+
 ---
 
 # sandbox-about-tags
+
+by [bhamster](../profile/bhamster)
+
+June 09, 2022 22:14 | Tags: 
 
 _This sandbox page is where we prototype information about tags. See the main "About Tags" page here! https://publiclab.org/wiki/about-tags_
 

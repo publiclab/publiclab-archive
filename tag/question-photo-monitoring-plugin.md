@@ -1,6 +1,6 @@
 # question-photo-monitoring-plugin
 
-4 notes and wiki pages
+4 notes and wiki pages | [see all topics](/wiki/topics)
 
 - ["Test images" for multispectral image processing](/notes/warren/06-21-2017/test-images-for-multispectral-image-processing) by [warren](../profile/warren)
 - [Is it possible to calculate average NDVI in a picture using infragram's sand box?](/notes/Hala73/05-03-2018/is-it-possible-to-calculate-average-ndvi-in-a-picture-using-infragram-s-sand-box) by [Hala73](../profile/Hala73)

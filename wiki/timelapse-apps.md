@@ -1,12 +1,18 @@
 ---
-nid: 643
 title: Timelapse apps
-path: public/static/wiki/timelapse-apps.md
+tagnames: balloon-mapping, kite-mapping, timelapse, apps, parent:balloon-mapping
+author: warren
+path: /wiki/timelapse-apps.md
+nid: 643
 uid: 1
-tagnames: balloon-mapping,kite-mapping,timelapse,apps,parent:balloon-mapping
+
 ---
 
 # Timelapse apps
+
+by [warren](../profile/warren), [cfastie](../profile/cfastie), [gonzoearth](../profile/gonzoearth), [drrjv](../profile/drrjv)
+
+December 16, 2011 15:08 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [timelapse](../tag/timelapse), [apps](../tag/apps), [parent:balloon-mapping](../tag/parent:balloon-mapping)
 
 _Continuous shooting phone applications_
 

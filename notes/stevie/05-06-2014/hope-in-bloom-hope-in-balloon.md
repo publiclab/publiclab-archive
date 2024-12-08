@@ -1,12 +1,18 @@
 ---
-nid: 10428
 title: Hope in Bloom: Hope in Balloon
-path: public/static/notes/stevie/05-06-2014/hope-in-bloom-hope-in-balloon.md
+tagnames: new-york-city, balloon-mapping, nyc, elpuente, southside, williamsburg, first-time-poster
+author: stevie
+path: /notes/stevie/05-06-2014/hope-in-bloom-hope-in-balloon.md
+nid: 10428
 uid: 422561
-tagnames: new-york-city,balloon-mapping,nyc,elpuente,southside,williamsburg,first-time-poster
+
 ---
 
 # Hope in Bloom: Hope in Balloon
+
+by [stevie](../profile/stevie) May 06, 2014 16:27
+
+May 06, 2014 16:27 | Tags: [new-york-city](../tag/new-york-city), [balloon-mapping](../tag/balloon-mapping), [nyc](../tag/nyc), [elpuente](../tag/elpuente), [southside](../tag/southside), [williamsburg](../tag/williamsburg), [first-time-poster](../tag/first-time-poster)
 
 On Tuesday April 29th, Liz and myself met with El Puente Green Light District for their event “Hope In Bloom” in Brooklyn, NYC. Our event for the day was to do a balloon mapping of the gardens in the neighborhood with the students of El Puente Academy with the mission to engage the students on arial photography and highlight community garden spaces. 
 

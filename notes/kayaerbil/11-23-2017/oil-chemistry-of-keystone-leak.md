@@ -1,12 +1,18 @@
 ---
-nid: 15232
 title: Oil Chemistry of Keystone Leak
-path: public/static/notes/kayaerbil/11-23-2017/oil-chemistry-of-keystone-leak.md
+tagnames: oil-spill, oil, question:oil-and-gas, question:sampling, question:oil-sampling, oil-samples, oil-leak, keystone, question:industry
+author: kayaerbil
+path: /notes/kayaerbil/11-23-2017/oil-chemistry-of-keystone-leak.md
+nid: 15232
 uid: 519113
-tagnames: oil-spill,oil,question:oil-and-gas,question:sampling,question:oil-sampling,oil-samples,oil-leak,keystone,question:industry
+
 ---
 
 # Oil Chemistry of Keystone Leak
+
+by [kayaerbil](../profile/kayaerbil) November 23, 2017 13:09
+
+November 23, 2017 13:09 | Tags: [oil-spill](../tag/oil-spill), [oil](../tag/oil), [question:oil-and-gas](../tag/question:oil-and-gas), [question:sampling](../tag/question:sampling), [question:oil-sampling](../tag/question:oil-sampling), [oil-samples](../tag/oil-samples), [oil-leak](../tag/oil-leak), [keystone](../tag/keystone), [question:industry](../tag/question:industry)
 
 I'm looking to get water protectors involved in using the potentiostat and spectrometer to make a map of the Keystone leak by posting data to Twitter, flooding Trump's account, and mapping it. 
 

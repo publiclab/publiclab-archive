@@ -1,6 +1,6 @@
 # enclosure
 
-5 notes and wiki pages
+5 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [sensors in soda bottles](/notes/mathew/02-26-2015/sensors-in-soda-bottles) by [mathew](../profile/mathew)
 - [Desktop Spectrometry Kit (V3) for VNIR Field Spectroscopy](/notes/lukebrown/07-11-2015/desktop-spectrometry-kit-v3-for-vnir-field-spectroscopy) by [lukebrown](../profile/lukebrown)

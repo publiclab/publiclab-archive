@@ -1,12 +1,18 @@
 ---
-nid: 30574
 title: Outreachy proposal: Design a new full-screen and Responsive  user interface for Infragram.org
-path: public/static/notes/arupdeb20010/04-22-2022/outreachy-proposal-design-a-new-full-screen-and-responsive-user-interface-for-infragram-org.md
+tagnames: software, outreachy, first-time-poster, outreachy-2022, outreachy-summer-2022
+author: arupdeb20010
+path: /notes/arupdeb20010/04-22-2022/outreachy-proposal-design-a-new-full-screen-and-responsive-user-interface-for-infragram-org.md
+nid: 30574
 uid: 796187
-tagnames: software,outreachy,first-time-poster,outreachy-2022,outreachy-summer-2022
+
 ---
 
 # Outreachy proposal: Design a new full-screen and Responsive  user interface for Infragram.org
+
+by [arupdeb20010](../profile/arupdeb20010) April 22, 2022 09:33
+
+April 22, 2022 09:33 | Tags: [software](../tag/software), [outreachy](../tag/outreachy), [first-time-poster](../tag/first-time-poster), [outreachy-2022](../tag/outreachy-2022), [outreachy-summer-2022](../tag/outreachy-summer-2022)
 
 _
 

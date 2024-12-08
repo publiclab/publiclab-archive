@@ -1,10 +1,16 @@
 ---
-nid: 553
 title: Paper: Comparison of Orthorectification Methods Suitable for Rapid Mapping...
-path: public/static/notes/warren/11-9-2011/paper-comparison-orthorectification-methods-suitable-rapid-mapping.md
-uid: 1
 tagnames: 
+author: warren
+path: /notes/warren/11-9-2011/paper-comparison-orthorectification-methods-suitable-rapid-mapping.md
+nid: 553
+uid: 1
+
 ---
 
 # Paper: Comparison of Orthorectification Methods Suitable for Rapid Mapping...
+
+by [warren](../profile/warren) November 09, 2011 19:21
+
+November 09, 2011 19:21 | Tags: 
 

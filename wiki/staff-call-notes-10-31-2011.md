@@ -1,12 +1,18 @@
 ---
-nid: 530
 title: Staff call notes 10 31 2011
-path: public/static/wiki/staff-call-notes-10-31-2011.md
-uid: 1
 tagnames: 
+author: warren
+path: /wiki/staff-call-notes-10-31-2011.md
+nid: 530
+uid: 1
+
 ---
 
 # Staff call notes 10 31 2011
+
+by [liz](../profile/liz), [warren](../profile/warren)
+
+October 31, 2011 17:04 | Tags: 
 
 Monday, October 31, 2011
 

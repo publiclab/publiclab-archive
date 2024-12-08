@@ -1,12 +1,18 @@
 ---
-nid: 18413
 title: Txbr-zine-template
-path: public/static/wiki/txbr-zine-template.md
+tagnames: template, parent:templates
+author: warren
+path: /wiki/txbr-zine-template.md
+nid: 18413
 uid: 1
-tagnames: template,parent:templates
+
 ---
 
 # Txbr-zine-template
+
+by [warren](../profile/warren)
+
+February 23, 2019 23:59 | Tags: [template](../tag/template), [parent:templates](../tag/parent:templates)
 
 <!-- a one line summary -->
 

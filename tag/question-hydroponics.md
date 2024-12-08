@@ -1,6 +1,6 @@
 # question-hydroponics
 
-4 notes and wiki pages
+4 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Will Infragram help with Indoor Hydroponics/Aquaponics?](/notes/code4maine/01-15-2014/will-infragram-help-with-indoor-hydroponics-aquaponics) by [ajawitz](../profile/ajawitz)
 - [AstroPlant RPi sensory system](/notes/Sidney_AstroPlant/07-03-2017/astroplant-rpi-sensory-system) by [Sidney_AstroPlant](../profile/Sidney_AstroPlant)

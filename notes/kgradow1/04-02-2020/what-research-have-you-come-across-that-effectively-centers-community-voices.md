@@ -1,12 +1,18 @@
 ---
-nid: 23289
 title: What research have you come across that effectively centers community voices?
-path: public/static/notes/kgradow1/04-02-2020/what-research-have-you-come-across-that-effectively-centers-community-voices.md
+tagnames: interviews, housing, quantitative, question:general, general, affordable-housing, community-voice
+author: kgradow1
+path: /notes/kgradow1/04-02-2020/what-research-have-you-come-across-that-effectively-centers-community-voices.md
+nid: 23289
 uid: 297929
-tagnames: interviews,housing,quantitative,question:general,general,affordable-housing,community-voice
+
 ---
 
 # What research have you come across that effectively centers community voices?
+
+by [kgradow1](../profile/kgradow1) April 02, 2020 21:34
+
+April 02, 2020 21:34 | Tags: [interviews](../tag/interviews), [housing](../tag/housing), [quantitative](../tag/quantitative), [question:general](../tag/question:general), [general](../tag/general), [affordable-housing](../tag/affordable-housing), [community-voice](../tag/community-voice)
 
 I came across this paper recently and am looking for quantitative research that uses survey data to target and better specify and target stated community needs.  I'm specifically interested in affordable housing, childcare, and elder care.
 

@@ -1,12 +1,18 @@
 ---
-nid: 18200
 title: Do you like this design for keeping track of events and projects?
-path: public/static/notes/edie_blues/01-29-2019/do-you-like-this-design-for-keeping-track-of-events-and-projects.md
+tagnames: design, ui, ui-designs
+author: edie_blues
+path: /notes/edie_blues/01-29-2019/do-you-like-this-design-for-keeping-track-of-events-and-projects.md
+nid: 18200
 uid: 552521
-tagnames: design,ui,ui-designs
+
 ---
 
 # Do you like this design for keeping track of events and projects?
+
+by [edie_blues](../profile/edie_blues) January 29, 2019 07:19
+
+January 29, 2019 07:19 | Tags: [design](../tag/design), [ui](../tag/ui), [ui-designs](../tag/ui-designs)
 
 Hello @warren, @liz (and everyone else!),
 

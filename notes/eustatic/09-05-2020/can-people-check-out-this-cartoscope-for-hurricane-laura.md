@@ -1,12 +1,18 @@
 ---
-nid: 24527
 title: Can People Check out This Cartoscope for Hurricane Laura?
-path: public/static/notes/eustatic/09-05-2020/can-people-check-out-this-cartoscope-for-hurricane-laura.md
+tagnames: gulf-coast, photo, aerial, mapmill, response, question:general, general, cartoscope
+author: eustatic
+path: /09-05-2020/can-people-check-out-this-cartoscope-for-hurricane-laura.md
+nid: 24527
 uid: 379
-tagnames: gulf-coast,photo,aerial,mapmill,response,question:general,general,cartoscope
+
 ---
 
 # Can People Check out This Cartoscope for Hurricane Laura?
+
+by [eustatic](../profile/eustatic) September 05, 2020 20:47
+
+September 05, 2020 20:47 | Tags: [gulf-coast](../tag/gulf-coast), [photo](../tag/photo), [aerial](../tag/aerial), [mapmill](../tag/mapmill), [response](../tag/response), [question:general](../tag/question:general), [general](../tag/general), [cartoscope](../tag/cartoscope)
 
 And come with questions.  The moment is over, but we're wondering how to use this as a quick response for hurricanes in the USA.
 

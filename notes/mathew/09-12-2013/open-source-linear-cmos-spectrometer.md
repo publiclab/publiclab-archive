@@ -1,11 +1,17 @@
 ---
-nid: 9319
 title: Open Source Linear CMOS Spectrometer
-path: public/static/notes/mathew/09-12-2013/open-source-linear-cmos-spectrometer.md
+tagnames: spectrometer, spectrometry
+author: mathew
+path: /notes/mathew/09-12-2013/open-source-linear-cmos-spectrometer.md
+nid: 9319
 uid: 4
-tagnames: spectrometer,spectrometry
+
 ---
 
 # Open Source Linear CMOS Spectrometer
+
+by [mathew](../profile/mathew) September 12, 2013 17:17
+
+September 12, 2013 17:17 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry)
 
 The Tricorder Project has just released a [linear CMOS sensor spectrometer design](http://www.tricorderproject.org/blog/?p=206). with 3D printing files and boards available.

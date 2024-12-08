@@ -1,12 +1,18 @@
 ---
-nid: 8982
 title: Last Day!
-path: public/static/notes/msmelody/08-08-2013/last-day.md
+tagnames: new-york-city, chaq, air-quality, air-quality-egg
+author: msmelody
+path: /notes/msmelody/08-08-2013/last-day.md
+nid: 8982
 uid: 163752
-tagnames: new-york-city,chaq,air-quality,air-quality-egg
+
 ---
 
 # Last Day!
+
+by [msmelody](../profile/msmelody) August 08, 2013 17:51
+
+August 08, 2013 17:51 | Tags: [new-york-city](../tag/new-york-city), [chaq](../tag/chaq), [air-quality](../tag/air-quality), [air-quality-egg](../tag/air-quality-egg)
 
 ##What was the most interesting fact you learned from this past week's activities? 
 

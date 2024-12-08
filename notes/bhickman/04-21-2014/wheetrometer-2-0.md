@@ -1,12 +1,18 @@
 ---
-nid: 10338
 title: WheeTrometer 2.0
-path: public/static/notes/bhickman/04-21-2014/wheetrometer-2-0.md
-uid: 201929
 tagnames: spectrometer
+author: bhickman
+path: /notes/bhickman/04-21-2014/wheetrometer-2-0.md
+nid: 10338
+uid: 201929
+
 ---
 
 # WheeTrometer 2.0
+
+by [bhickman](../profile/bhickman) April 21, 2014 04:11
+
+April 21, 2014 04:11 | Tags: [spectrometer](../tag/spectrometer)
 
 WheeTrometer 2.0
 

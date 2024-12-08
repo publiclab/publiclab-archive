@@ -1,12 +1,18 @@
 ---
-nid: 12062
 title: Stepwise procedures to guide users through testing
-path: public/static/notes/Sreyanth/07-14-2015/stepwise-procedures-to-guide-users-through-testing.md
+tagnames: spectral-workbench, barnstar:basic
+author: Sreyanth
+path: /notes/Sreyanth/07-14-2015/stepwise-procedures-to-guide-users-through-testing.md
+nid: 12062
 uid: 96713
-tagnames: spectral-workbench,barnstar:basic
+
 ---
 
 # Stepwise procedures to guide users through testing
+
+by [Sreyanth](../profile/Sreyanth) July 14, 2015 18:06
+
+July 14, 2015 18:06 | Tags: [spectral-workbench](../tag/spectral-workbench), [barnstar:basic](../tag/barnstar:basic)
 
 ###What I want to do
 I wanted to create a new module for SpectralWorkbench, to guide the users through testing, and also help them document their work in a well-mannered fashion. This also attempts to reduce manual intervention as much as possible, by automating several steps.

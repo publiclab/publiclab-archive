@@ -1,12 +1,18 @@
 ---
-nid: 26376
 title: Research area review on mapping for organizing and advocacy
-path: public/static/notes/bhamster/04-27-2021/research-area-review-on-mapping-for-organizing-and-advocacy.md
+tagnames: aerial-photography, organizing, research, aerial-mapping, with:liz, advocacy, reviews, research-area-review
+author: bhamster
+path: /notes/bhamster/04-27-2021/research-area-review-on-mapping-for-organizing-and-advocacy.md
+nid: 26376
 uid: 664477
-tagnames: aerial-photography,organizing,research,aerial-mapping,with:liz,advocacy,reviews,research-area-review
+
 ---
 
 # Research area review on mapping for organizing and advocacy
+
+by [bhamster](../profile/bhamster) April 27, 2021 21:20
+
+April 27, 2021 21:20 | Tags: [aerial-photography](../tag/aerial-photography), [organizing](../tag/organizing), [research](../tag/research), [aerial-mapping](../tag/aerial-mapping), [with:liz](../tag/with:liz), [advocacy](../tag/advocacy), [reviews](../tag/reviews), [research-area-review](../tag/research-area-review)
 
 _Image: "Neighborhood cartography" in El Raval, Barcelona, by @pablo, from [this post](https://publiclab.org/notes/pablo/04-24-2015/presentacion-de-resultados-de-cartografia-aeria-de-barri-en-barcelona)._
 

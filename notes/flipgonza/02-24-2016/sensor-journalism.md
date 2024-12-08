@@ -1,12 +1,18 @@
 ---
-nid: 12744
 title: Sensor Journalism 
-path: public/static/notes/flipgonza/02-24-2016/sensor-journalism.md
+tagnames: sensor-journalism, response:12748, hidden:response
+author: flipgonza
+path: /notes/flipgonza/02-24-2016/sensor-journalism.md
+nid: 12744
 uid: 461517
-tagnames: sensor-journalism,response:12748,hidden:response
+
 ---
 
 # Sensor Journalism 
+
+by [flipgonza](../profile/flipgonza) February 24, 2016 18:59
+
+February 24, 2016 18:59 | Tags: [sensor-journalism](../tag/sensor-journalism), [response:12748](../tag/response:12748), [hidden:response](../tag/hidden:response)
 
 Sensor Journalism 
 

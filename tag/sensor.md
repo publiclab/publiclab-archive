@@ -1,6 +1,6 @@
 # sensor
 
-38 notes and wiki pages
+38 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [OpenBuoy.net , a low cost open source research vessel](/notes/Sebastian/01-15-2014/openbuoy-net-a-low-cost-open-source-research-vessel) by [Sebastian](../profile/Sebastian)
 - [Can infragrams provide useful measurements of how thirsty my lawn is?](/notes/WhiteRabbit/07-25-2014/can-infragrams-provide-useful-measurements-of-thirsty-my-lawn-is) by [WhiteRabbit](../profile/WhiteRabbit)
@@ -11,7 +11,6 @@
 - [Reflection on Sensor Journalism](/notes/paigesolomon/02-23-2015/reflection-on-sensor-journalism) by [paigesolomon](../profile/paigesolomon)
 - [Getting a Sense of the Future ](/notes/vbedford/02-23-2015/getting-a-sense-of-the-future) by [vbedford](../profile/vbedford)
 - [Some Thoughts on Sensor Journalism ](/notes/mattmullen/02-25-2015/some-thoughts-on-sensor-journalism) by [mattmullen](../profile/mattmullen)
-- [Next generation Air Quality Sensors will be Instrumental in Decreasing Global Pollution Levels](/notes/CiaraKelly/10-23-2015/next-generation-air-quality-sensors-will-be-instrumental-in-decreasing-global-pollution-levels) by [CiaraKelly](../profile/CiaraKelly)
 - [Materials Used and Instructable for Blue Light Sensor](/notes/filimon_k/12-14-2015/materials-used-and-instructable-for-blue-light-sensor) by [filimon_k](../profile/filimon_k)
 - [Caroline Witts Sensor Journalism Response](/notes/cwitts20/02-24-2016/caroline-witts-sensor-journalism-response) by [cwitts20](../profile/cwitts20)
 - [NDVI Research with an Analytical Grow Chamber](/notes/JohnsonC/03-03-2016/ndvi-research-with-an-analytical-grow-chamber) by [JohnsonC](../profile/JohnsonC)
@@ -19,9 +18,7 @@
 - [Dendrometers!](/notes/kinasmith/09-09-2016/dendrometers) by [kinasmith](../profile/kinasmith)
 - [Particle Electron](/notes/kinasmith/09-09-2016/particle-electron) by [kinasmith](../profile/kinasmith)
 - [Sap Flux Beginning](/notes/kinasmith/12-14-2016/sap-flux-beginning) by [kinasmith](../profile/kinasmith)
-- [DHT21 / AM2301 sensor not measuring humidity](/notes/mozobata/07-19-2017/dht21-am2301-sensor-not-measuring-humidity) by [mozobata](../profile/mozobata)
 - [Tutorial Connecting SpectralBench To IoT Datalogger?](/notes/LightWaveResearch8000/07-26-2017/tutorial-connecting-spectralbench-to-iot-datalogger) by [LightWaveResearch8000](../profile/LightWaveResearch8000)
-- [Constant power supply with countdown timer triggered by a momentary switch](/notes/miyayoung/07-28-2017/constant-power-supply-with-countdown-timer-triggered-by-a-momentary-switch) by [miyayoung](../profile/miyayoung)
 - [Sensor Collection For KnowFlow --a water-quality-testing facility](/notes/juncheng09/12-09-2017/instruction-for-sensors) by [juncheng09](../profile/juncheng09)
 - [Pressure sensor for depth controller](/notes/Karik/07-02-2018/pressure-sensor-for-depth-controller) by [Karik](../profile/Karik)
 - [How to Open and Clean a PMS 5003 Air Sensor](/notes/kkoerner/09-17-2018/how-to-open-and-clean-a-pms-5003-air-sensor) by [kkoerner](../profile/kkoerner)
@@ -31,12 +28,7 @@
 - [S4: Small Satellites for Secondary Students](/notes/RocketScientist/04-11-2019/s4-small-satellites-for-secondary-students) by [RocketScientist](../profile/RocketScientist)
 - [Exploring with the Simple Air Sensor](/notes/stevie/05-20-2019/exploring-with-the-simple-air-sensor) by [stevie](../profile/stevie)
 - [what are the best light sensors?](/notes/omarion/09-26-2019/what-are-the-best-light-sensors) by [omarion](../profile/omarion)
-- [Chennai escorts services](/notes/piyasidayanmain/12-15-2019/chennai-escorts-services) by [piyasidayanmain](../profile/piyasidayanmain)
 - [Sensoring Citizenship ](/notes/silentsairam/01-07-2020/sensoring-citizenship) by [silentsairam](../profile/silentsairam)
 - [Choosing a method for Particulate Matter Monitoring ](/wiki/choosing-a-method-for-particulate-matter-monitoring) (wiki)
-- [Has anyone tried this?](/notes/chelliet/04-23-2020/has-anyone-tried-this) by [chelliet](../profile/chelliet)
 - [How long do you need to co-locate an air quality tool to get what you need to calibrate or  "ground truth" another tool? ](/notes/stevie/12-07-2021/how-long-do-you-need-to-co-locate-an-air-quality-tool-to-get-what-you-need-to-calibrate-or-ground-truth-another-tool) by [stevie](../profile/stevie)
-- [Filme-HD Južni vetar 2 |2021| ceo film online sa prevodom](/notes/dandiyasin/12-10-2021/filme-hd-juzni-vetar-2-2021-ceo-film-online-sa-prevodom) by [dandiyasin](../profile/dandiyasin)
-- [How Custom Earring Box Give Fine Appearance?](/notes/bleackkendall5/12-17-2021/how-custom-earring-box-give-fine-appearance) by [bleackkendall5](../profile/bleackkendall5)
 - [What are some good trouble shooting tips for installing/maintaining a PurpleAir? ](/notes/stevie/02-24-2022/what-are-some-good-trouble-shooting-tips-for-installing-maintaining-a-purpleair) by [stevie](../profile/stevie)
-- [What is the significance of temperature and humidity monitoring?](/notes/bingrenke/11-24-2023/what-is-the-significance-of-temperature-and-humidity-monitoring) by [bingrenke](../profile/bingrenke)

@@ -1,12 +1,18 @@
 ---
-nid: 8925
 title: spectrometer-media
-path: public/static/wiki/spectrometer-media.md
+tagnames: spectrometer, media, photos
+author: warren
+path: /wiki/spectrometer-media.md
+nid: 8925
 uid: 1
-tagnames: spectrometer,media,photos
+
 ---
 
 # spectrometer-media
+
+by [warren](../profile/warren)
+
+July 23, 2013 17:57 | Tags: [spectrometer](../tag/spectrometer), [media](../tag/media), [photos](../tag/photos)
 
 _Click any image to download a full-resolution version_
 

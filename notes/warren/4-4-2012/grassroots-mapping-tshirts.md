@@ -1,12 +1,18 @@
 ---
-nid: 1620
 title: Grassroots Mapping Tshirts
-path: public/static/notes/warren/4-4-2012/grassroots-mapping-tshirts.md
-uid: 1
 tagnames: balloon-mapping
+author: warren
+path: /notes/warren/4-4-2012/grassroots-mapping-tshirts.md
+nid: 1620
+uid: 1
+
 ---
 
 # Grassroots Mapping Tshirts
+
+by [warren](../profile/warren) April 05, 2012 03:01
+
+April 05, 2012 03:01 | Tags: [balloon-mapping](../tag/balloon-mapping)
 
 We're about to put them up for sale in the store...
 

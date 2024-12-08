@@ -1,12 +1,18 @@
 ---
-nid: 26893
 title: Advocacy
-path: public/static/wiki/advocacy.md
+tagnames: organizing, advocacy, method
+author: bhamster
+path: /wiki/advocacy.md
+nid: 26893
 uid: 664477
-tagnames: organizing,advocacy,method
+
 ---
 
 # Advocacy
+
+by [bhamster](../profile/bhamster)
+
+June 23, 2021 17:35 | Tags: [organizing](../tag/organizing), [advocacy](../tag/advocacy), [method](../tag/method)
 
 **Advocacy means taking action to effect change in an issue that personally matters to you**. Advocacy makes up a large portion of activity undertaken in community science [projects](/projects). These projects often produce much-needed data about an environmental issue, and that data needs someone to speak for it [1] to different audiences: 
 

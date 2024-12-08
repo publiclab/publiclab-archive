@@ -1,12 +1,18 @@
 ---
-nid: 15136
 title: DIY Spectrometer at Women in Photonics Week
-path: public/static/notes/isabellagonzalez/11-01-2017/diy-spectrometer-at-women-in-photonics-week.md
+tagnames: spectrometer, education, outreach, barnstar:excessive-enthusiasm, photonics
+author: isabellagonzalez
+path: /notes/isabellagonzalez/11-01-2017/diy-spectrometer-at-women-in-photonics-week.md
+nid: 15136
 uid: 178517
-tagnames: spectrometer,education,outreach,barnstar:excessive-enthusiasm,photonics
+
 ---
 
 # DIY Spectrometer at Women in Photonics Week
+
+by [isabellagonzalez](../profile/isabellagonzalez) November 01, 2017 00:48
+
+November 01, 2017 00:48 | Tags: [spectrometer](../tag/spectrometer), [education](../tag/education), [outreach](../tag/outreach), [barnstar:excessive-enthusiasm](../tag/barnstar:excessive-enthusiasm), [photonics](../tag/photonics)
 
 ### Women in Photonics Week
 

@@ -1,12 +1,18 @@
 ---
-nid: 10493
 title: Imagining & testing Polarized Light Microscopy for Silica dust speciation
-path: public/static/notes/mathew/05-21-2014/imagining-testing-polarized-light-microscopy-for-silica-dust-speciation.md
+tagnames: particulate-sensing, air-quality, dust, particulates, silica, polarized-light, polarized-light-microscopy, open-air, particles, particle-sensing, passive-pm, activity:microscope, activity:microscopes, activity:community-microscope-usage, polarizing-filter
+author: mathew
+path: /notes/mathew/05-21-2014/imagining-testing-polarized-light-microscopy-for-silica-dust-speciation.md
+nid: 10493
 uid: 4
-tagnames: particulate-sensing,air-quality,dust,particulates,silica,polarized-light,polarized-light-microscopy,open-air,particles,particle-sensing,passive-pm,activity:microscope,activity:microscopes,activity:community-microscope-usage,polarizing-filter
+
 ---
 
 # Imagining & testing Polarized Light Microscopy for Silica dust speciation
+
+by [mathew](../profile/mathew) May 21, 2014 01:04
+
+May 21, 2014 01:04 | Tags: [particulate-sensing](../tag/particulate-sensing), [air-quality](../tag/air-quality), [dust](../tag/dust), [particulates](../tag/particulates), [silica](../tag/silica), [polarized-light](../tag/polarized-light), [polarized-light-microscopy](../tag/polarized-light-microscopy), [open-air](../tag/open-air), [particles](../tag/particles), [particle-sensing](../tag/particle-sensing), [passive-pm](../tag/passive-pm), [activity:microscope](../tag/activity:microscope), [activity:microscopes](../tag/activity:microscopes), [activity:community-microscope-usage](../tag/activity:community-microscope-usage), [polarizing-filter](../tag/polarizing-filter)
 
 ###What I want to do
 Sample and identify [silica](/wiki/silica) [dust particles](/wiki/particle-sensing) preferably at PM2.5 (2.5 μM, [roughly](/wiki/particle-sensing#Particle+Size)).  Polarized light is used in the analysis of a group of crystals that includes silica.  This [explanation from Nikon](http://www.microscopyu.com/articles/polarized/polarizedintro.html) is pretty comprehensive.

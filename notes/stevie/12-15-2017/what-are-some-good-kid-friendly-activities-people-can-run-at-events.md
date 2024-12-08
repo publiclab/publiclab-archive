@@ -1,12 +1,18 @@
 ---
-nid: 15385
 title: What are some good kid friendly activities people can run at events?
-path: public/static/notes/stevie/12-15-2017/what-are-some-good-kid-friendly-activities-people-can-run-at-events.md
+tagnames: events, barnraising, answered, question:general, barnraising-host, question:hosting-materials, family-friendly, kidcom, question:facilitation
+author: stevie
+path: /notes/stevie/12-15-2017/what-are-some-good-kid-friendly-activities-people-can-run-at-events.md
+nid: 15385
 uid: 422561
-tagnames: events,barnraising,answered,question:general,barnraising-host,question:hosting-materials,family-friendly,kidcom,question:facilitation
+
 ---
 
 # What are some good kid friendly activities people can run at events?
+
+by [stevie](../profile/stevie) December 15, 2017 20:35
+
+December 15, 2017 20:35 | Tags: [events](../tag/events), [barnraising](../tag/barnraising), [answered](../tag/answered), [question:general](../tag/question:general), [barnraising-host](../tag/barnraising-host), [question:hosting-materials](../tag/question:hosting-materials), [family-friendly](../tag/family-friendly), [kidcom](../tag/kidcom), [question:facilitation](../tag/question:facilitation)
 
 _We’re compiling resources to help people host Barnraisings!_ 
 

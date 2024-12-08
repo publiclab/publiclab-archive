@@ -1,12 +1,18 @@
 ---
-nid: 27449
 title: sandbox-presenting-data
-path: public/static/wiki/sandbox-presenting-data.md
-uid: 664477
 tagnames: 
+author: bhamster
+path: /wiki/sandbox-presenting-data.md
+nid: 27449
+uid: 664477
+
 ---
 
 # sandbox-presenting-data
+
+by [bhamster](../profile/bhamster)
+
+August 09, 2021 23:11 | Tags: 
 
 _this page is a work in progress!_
 

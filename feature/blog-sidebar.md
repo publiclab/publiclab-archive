@@ -1,12 +1,16 @@
 ---
-nid: 25031
 title: blog-sidebar
-path: public/static/feature/blog-sidebar.md
-uid: 1
 tagnames: 
+author: warren
+path: /feature/blog-sidebar.md
+nid: 25031
+uid: 1
+
 ---
 
 # blog-sidebar
+
+November 10, 2020 17:54 | Tags: 
 
 <div class="recent-heading">
   <h4>Topics</h4>

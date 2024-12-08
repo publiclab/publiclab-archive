@@ -1,6 +1,6 @@
 # diy-bio
 
-10 notes and wiki pages
+10 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [microbes](/wiki/microbes) (wiki)
 - [DIY cotton candy maker](/notes/kosamari/11-14-2012/diy-cotton-candy-maker-0) by [kosamari](../profile/kosamari)

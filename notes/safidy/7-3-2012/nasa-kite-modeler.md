@@ -1,12 +1,18 @@
 ---
-nid: 2702
 title: Nasa Kite modeler
-path: public/static/notes/safidy/7-3-2012/nasa-kite-modeler.md
+tagnames: kite-mapping, safidy-andrianantenaina, nasa, kite-modeler, diy-kite, software
+author: Safidy
+path: /notes/safidy/7-3-2012/nasa-kite-modeler.md
+nid: 2702
 uid: 898
-tagnames: kite-mapping,safidy-andrianantenaina,nasa,kite-modeler,diy-kite,software
+
 ---
 
 # Nasa Kite modeler
+
+by [Safidy](../profile/Safidy) July 04, 2012 01:08
+
+July 04, 2012 01:08 | Tags: [kite-mapping](../tag/kite-mapping), [safidy-andrianantenaina](../tag/safidy-andrianantenaina), [nasa](../tag/nasa), [kite-modeler](../tag/kite-modeler), [diy-kite](../tag/diy-kite), [software](../tag/software)
 
 Kite modeler is a open software from NASA which allow you to understand the physics and math behind the flight of a kite and you can use it to design your own kite.
 

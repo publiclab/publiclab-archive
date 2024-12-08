@@ -1,12 +1,18 @@
 ---
-nid: 811
 title: EcoHackII
-path: public/static/wiki/ecohackii.md
+tagnames: balloon-mapping, air-column-monitor
+author: liz
+path: /wiki/ecohackii.md
+nid: 811
 uid: 7
-tagnames: balloon-mapping,air-column-monitor
+
 ---
 
 # EcoHackII
+
+by [liz](../profile/liz), [warren](../profile/warren), [Shannon](../profile/Shannon)
+
+February 18, 2012 19:57 | Tags: [balloon-mapping](../tag/balloon-mapping), [air-column-monitor](../tag/air-column-monitor)
 
 Building on the success of <a href="http://www.ecohacknyc.org/">EcoHackNYC</a> on November 4&5, 2011, an expanded team of organizers is planning for EcoHackII to be held at Parsons April 20-22, 2012. 
 Planning Doc: https://docs.google.com/document/d/1rsVgueS1dw3uPVLXoiL-Y7Qh7xJT8w-Zo6QvRoNi9kg/edit?pli=1

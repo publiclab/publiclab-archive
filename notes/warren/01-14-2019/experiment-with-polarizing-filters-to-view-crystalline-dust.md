@@ -1,12 +1,18 @@
 ---
-nid: 18114
 title: Experiment with polarizing filters to view crystalline dust
-path: public/static/notes/warren/01-14-2019/experiment-with-polarizing-filters-to-view-crystalline-dust.md
+tagnames: as220, blog, silica, polarizer, polarized-light, polarized-light-microscopy, microscope, hardware, activity:microscope, location:blurred, crystalline-silica, community-microscope, activity:community-microscope-usage, replication:15819, microbrews, grout, polarizing-filter, polarized-, dust-, community-, response:10482, response:17785, activity:dust-sampling, activity:starter-community-microscope, lat:41.821542, lon:-71.415705
+author: warren
+path: /notes/warren/01-14-2019/experiment-with-polarizing-filters-to-view-crystalline-dust.md
+nid: 18114
 uid: 1
-tagnames: as220,blog,silica,polarizer,polarized-light,polarized-light-microscopy,microscope,hardware,activity:microscope,location:blurred,crystalline-silica,community-microscope,activity:community-microscope-usage,replication:15819,microbrews,grout,polarizing-filter,polarized-,dust-,community-,response:10482,response:17785,activity:dust-sampling,activity:starter-community-microscope,lat:41.821542,lon:-71.415705
+
 ---
 
 # Experiment with polarizing filters to view crystalline dust
+
+by [warren](../profile/warren) January 14, 2019 16:48
+
+January 14, 2019 16:48 | Tags: [as220](../tag/as220), [blog](../tag/blog), [silica](../tag/silica), [polarizer](../tag/polarizer), [polarized-light](../tag/polarized-light), [polarized-light-microscopy](../tag/polarized-light-microscopy), [microscope](../tag/microscope), [hardware](../tag/hardware), [activity:microscope](../tag/activity:microscope), [location:blurred](../tag/location:blurred), [crystalline-silica](../tag/crystalline-silica), [community-microscope](../tag/community-microscope), [activity:community-microscope-usage](../tag/activity:community-microscope-usage), [replication:15819](../tag/replication:15819), [microbrews](../tag/microbrews), [grout](../tag/grout), [polarizing-filter](../tag/polarizing-filter), [polarized-](../tag/polarized-), [dust-](../tag/dust-), [community-](../tag/community-), [response:10482](../tag/response:10482), [response:17785](../tag/response:17785), [activity:dust-sampling](../tag/activity:dust-sampling), [activity:starter-community-microscope](../tag/activity:starter-community-microscope), [lat:41.821542](../tag/lat:41.821542), [lon:-71.415705](../tag/lon:-71.415705)
 
 Over the years, a lot of people have been looking at crystalline particles under a microscope (like the DIY [Community Microscope Kit](/micro)), and the idea has come up a few times to try using polarizing filters -- for example to try to distinguish crystalline particles from other types of particles.
 

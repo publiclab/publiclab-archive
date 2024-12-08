@@ -1,12 +1,18 @@
 ---
-nid: 19092
 title: First experiment with the WheeStat - Quercetin
-path: public/static/notes/nanocastro/04-17-2019/first-experiment-with-the-wheestat-quercetin.md
+tagnames: potentiostat, wheestat, food-quality, activity:potentiostat, potenciostat, lat:-32.934928, lon:-68.818875, activity:wheestat
+author: nanocastro
+path: /notes/nanocastro/04-17-2019/first-experiment-with-the-wheestat-quercetin.md
+nid: 19092
 uid: 506212
-tagnames: potentiostat,wheestat,food-quality,activity:potentiostat,potenciostat,lat:-32.934928,lon:-68.818875,activity:wheestat
+
 ---
 
 # First experiment with the WheeStat - Quercetin
+
+by [nanocastro](../profile/nanocastro) April 17, 2019 20:45
+
+April 17, 2019 20:45 | Tags: [potentiostat](../tag/potentiostat), [wheestat](../tag/wheestat), [food-quality](../tag/food-quality), [activity:potentiostat](../tag/activity:potentiostat), [potenciostat](../tag/potenciostat), [lat:-32.934928](../tag/lat:-32.934928), [lon:-68.818875](../tag/lon:-68.818875), [activity:wheestat](../tag/activity:wheestat)
 
 We used the [Wheestat potenciostat](https://store.publiclab.org/products/wheestat-potentiostat) to measure a known solution of quercetin. We used the differencial pulse voltammetry technique. The results obtained were compared with those of the commercial potenciostat [microSTAT 200 from Dropsens](http://www.dropsens.com/en/pdfs_productos/new_brochures/stat200.pdf).
 

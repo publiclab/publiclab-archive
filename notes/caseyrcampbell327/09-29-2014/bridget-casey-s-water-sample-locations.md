@@ -1,12 +1,18 @@
 ---
-nid: 11201
 title: Bridget & Casey's Water Sample Locations 
-path: public/static/notes/caseyrcampbell327/09-29-2014/bridget-casey-s-water-sample-locations.md
+tagnames: water-quality, first-time-poster
+author: caseyrcampbell327
+path: /notes/caseyrcampbell327/09-29-2014/bridget-casey-s-water-sample-locations.md
+nid: 11201
 uid: 427892
-tagnames: water-quality,first-time-poster
+
 ---
 
 # Bridget & Casey's Water Sample Locations 
+
+by [caseyrcampbell327](../profile/caseyrcampbell327) September 29, 2014 11:04
+
+September 29, 2014 11:04 | Tags: [water-quality](../tag/water-quality), [first-time-poster](../tag/first-time-poster)
 
 ##Plymouth Harbor Boat Ramp
 

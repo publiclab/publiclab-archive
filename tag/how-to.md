@@ -1,6 +1,6 @@
 # how-to
 
-7 notes and wiki pages
+7 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Posting research](/wiki/posting-research) (wiki)
 - [Foldable Spectrometry Starter Kit](/wiki/foldable-spec) (wiki)

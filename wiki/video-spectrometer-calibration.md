@@ -1,12 +1,18 @@
 ---
-nid: 573
 title: Video spectrometer calibration
-path: public/static/wiki/video-spectrometer-calibration.md
-uid: 1
 tagnames: 
+author: warren
+path: /wiki/video-spectrometer-calibration.md
+nid: 573
+uid: 1
+
 ---
 
 # Video spectrometer calibration
+
+by [warren](../profile/warren)
+
+November 20, 2011 15:00 | Tags: 
 
 We're developing several approaches to calibrating your video spectrometer. 
 

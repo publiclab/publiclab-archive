@@ -1,6 +1,6 @@
 # foldable
 
-19 notes and wiki pages
+19 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Foldable Spectrometry Starter Kit](/wiki/foldable-spec) (wiki)
 - [Redesign of the Foldable Mini-Spectro to hold a cuvette](/notes/dusjagr/04-29-2013/redesign-of-the-foldable-mini-spectro-to-hold-a-cuvette) by [dusjagr](../profile/dusjagr)

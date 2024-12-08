@@ -1,12 +1,18 @@
 ---
-nid: 10065
 title: Mobile cuvette holder
-path: public/static/notes/cfastie/02-25-2014/mobile-cuvette-holder.md
+tagnames: spectrometer, vermont, cuvettes, 3d-printing, sampling, oil-sampling-kit, smartphone, snowfest2014, activity:spectrometry-sampling
+author: cfastie
+path: /notes/cfastie/02-25-2014/mobile-cuvette-holder.md
+nid: 10065
 uid: 554
-tagnames: spectrometer,vermont,cuvettes,3d-printing,sampling,oil-sampling-kit,smartphone,snowfest2014,activity:spectrometry-sampling
+
 ---
 
 # Mobile cuvette holder
+
+by [cfastie](../profile/cfastie) February 25, 2014 18:27
+
+February 25, 2014 18:27 | Tags: [spectrometer](../tag/spectrometer), [vermont](../tag/vermont), [cuvettes](../tag/cuvettes), [3d-printing](../tag/3d-printing), [sampling](../tag/sampling), [oil-sampling-kit](../tag/oil-sampling-kit), [smartphone](../tag/smartphone), [snowfest2014](../tag/snowfest2014), [activity:spectrometry-sampling](../tag/activity:spectrometry-sampling)
 
 At SNOWFEST we made great progress on the smartphone spectrometer cuvette holder thanks to Jeff's Sketchup skills. Jeff started from scratch and created a working design which we printed on the Public Lab MakerBot Replicator 1 stationed at SNOWFEST HQ. 
 

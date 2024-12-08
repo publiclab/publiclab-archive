@@ -1,6 +1,6 @@
 # south-america
 
-35 notes and wiki pages
+35 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Bifocal infrared/visible filter at Lima workshop](/notes/warren/1-6-2011/bifocal-infraredvisible-filter-lima-workshop) by [warren](../profile/warren)
 - [Taller de espectrometría "DIY" en Lima, Peru](/notes/warren/05-01-2018/taller-de-espectrometria-diy-en-lima-peru) by [warren](../profile/warren)

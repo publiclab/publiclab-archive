@@ -1,12 +1,18 @@
 ---
-nid: 10659
 title: open-water-events
-path: public/static/wiki/open-water-events.md
+tagnames: boston, water-sensing, events:boston, water-quality, parent:open-water
+author: donblair
+path: /wiki/open-water-events.md
+nid: 10659
 uid: 43651
-tagnames: boston,water-sensing,events:boston,water-quality,parent:open-water
+
 ---
 
 # open-water-events
+
+by [donblair](../profile/donblair), [warren](../profile/warren)
+
+July 04, 2014 19:10 | Tags: [boston](../tag/boston), [water-sensing](../tag/water-sensing), [events:boston](../tag/events:boston), [water-quality](../tag/water-quality), [parent:open-water](../tag/parent:open-water)
 
 ## Water Quality Workshop!
 

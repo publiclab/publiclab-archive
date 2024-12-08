@@ -1,12 +1,18 @@
 ---
-nid: 5827
 title: Programs for simple CHDK and Stereo Datamaker Installation
-path: public/static/notes/mathew/1-31-2013/programs-simple-chdk-and-stereo-datamaker-installation.md
+tagnames: kite-mapping, chdk, dual-camera, camera-trigger, sdm, stereo-datamaker
+author: mathew
+path: /notes/mathew/1-31-2013/programs-simple-chdk-and-stereo-datamaker-installation.md
+nid: 5827
 uid: 4
-tagnames: kite-mapping,chdk,dual-camera,camera-trigger,sdm,stereo-datamaker
+
 ---
 
 # Programs for simple CHDK and Stereo Datamaker Installation
+
+by [mathew](../profile/mathew) January 31, 2013 18:16
+
+January 31, 2013 18:16 | Tags: [kite-mapping](../tag/kite-mapping), [chdk](../tag/chdk), [dual-camera](../tag/dual-camera), [camera-trigger](../tag/camera-trigger), [sdm](../tag/sdm), [stereo-datamaker](../tag/stereo-datamaker)
 
 [From the KAP Forums](http://arch.ced.berkeley.edu/kap/discuss/index.php?p=/discussion/4296/installing-sdm-and-chdk-the-really-simple-way) Dave Mitchell just released awesome Java apps that assist in installing both Stereo Data Maker and CHDK on Canon cameras.  They handle card formatting and installation with a click.
 

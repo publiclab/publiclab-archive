@@ -1,12 +1,18 @@
 ---
-nid: 19093
 title: Search
-path: public/static/wiki/search.md
+tagnames: search, style:nobanner, style:minimal
+author: warren
+path: /wiki/search.md
+nid: 19093
 uid: 1
-tagnames: search,style:nobanner,style:minimal
+
 ---
 
 # Search
+
+by [mimiss](../profile/mimiss), [warren](../profile/warren)
+
+April 17, 2019 23:20 | Tags: [search](../tag/search), [style:nobanner](../tag/style:nobanner), [style:minimal](../tag/style:minimal)
 
 <div>
 <script>

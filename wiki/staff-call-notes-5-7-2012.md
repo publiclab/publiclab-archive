@@ -1,12 +1,18 @@
 ---
-nid: 1922
 title: Staff Call Notes 5-7-2012
-path: public/static/wiki/staff-call-notes-5-7-2012.md
-uid: 7
 tagnames: 
+author: liz
+path: /wiki/staff-call-notes-5-7-2012.md
+nid: 1922
+uid: 7
+
 ---
 
 # Staff Call Notes 5-7-2012
+
+by [liz](../profile/liz)
+
+May 07, 2012 16:34 | Tags: 
 
 ###Mathew###
 * Goals

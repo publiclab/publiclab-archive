@@ -1,6 +1,6 @@
 # mapmill
 
-6 notes and wiki pages
+6 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [MapMill](/wiki/mapmill) (wiki)
 - [MapMill 2.0](/wiki/mapmill-2-0) (wiki)

@@ -1,12 +1,18 @@
 ---
-nid: 5695
 title: Spectral Challenge
-path: public/static/wiki/spectral-challenge.md
+tagnames: spectrometer, spectralchallenge
+author: warren
+path: /wiki/spectral-challenge.md
+nid: 5695
 uid: 1
-tagnames: spectrometer,spectralchallenge
+
 ---
 
 # Spectral Challenge
+
+by [warren](../profile/warren), [Shannon](../profile/Shannon), [liz](../profile/liz), [cfastie](../profile/cfastie)
+
+January 24, 2013 18:57 | Tags: [spectrometer](../tag/spectrometer), [spectralchallenge](../tag/spectralchallenge)
 
 Spectral Challenge is a call to makers, hackers, and Do-It-Yourselfers worldwide to tackle real-world environmental problems with low-cost, open source spectrometry.
 

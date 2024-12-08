@@ -1,12 +1,18 @@
 ---
-nid: 16376
 title: Last coal plant in Chicago shut down 
-path: public/static/notes/liz/05-22-2018/last-coal-plant-in-chicago-shut-down.md
+tagnames: coal, chicago
+author: liz
+path: /notes/liz/05-22-2018/last-coal-plant-in-chicago-shut-down.md
+nid: 16376
 uid: 7
-tagnames: coal,chicago
+
 ---
 
 # Last coal plant in Chicago shut down 
+
+by [liz](../profile/liz) May 22, 2018 13:37
+
+May 22, 2018 13:37 | Tags: [coal](../tag/coal), [chicago](../tag/chicago)
 
 _lead image from http://lvejo.org/_
 

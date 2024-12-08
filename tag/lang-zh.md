@@ -1,6 +1,6 @@
 # lang-zh
 
-5 notes and wiki pages
+5 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Knowflow组装（一）——pH和温度监测](/notes/incaking/11-29-2017/knowflow-ph) by [incaking](../profile/incaking)
 - [Sensor Collection For KnowFlow --a water-quality-testing facility](/notes/juncheng09/12-09-2017/instruction-for-sensors) by [juncheng09](../profile/juncheng09)

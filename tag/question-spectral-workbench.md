@@ -1,6 +1,6 @@
 # question-spectral-workbench
 
-107 notes and wiki pages
+107 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Question: "live" compare to camera feed](/notes/wecapa/03-23-2015/question-live-compare-to-camera-feed) by [wecapa](../profile/wecapa)
 - [Question: ](/notes/edilberto/03-24-2015/question) by [edilberto](../profile/edilberto)
@@ -77,7 +77,6 @@
 - [My uploaded file will not process.](/notes/JadaBada/07-30-2018/my-uploaded-file-will-not-process) by [JadaBada](../profile/JadaBada)
 - [Standalone Spectrometry software & uploading JPG or PNG spectra](/notes/lach_myers/08-06-2018/standalone-spectrometry-software-uploading-jpg-or-png-spectra) by [lach_myers](../profile/lach_myers)
 - [copying calibration issue](/notes/ceberndsen/08-23-2018/copying-calibration-issue) by [ceberndsen](../profile/ceberndsen)
-- [How to Restore Exchange Mailbox Database](/notes/convertedbtopst1/08-27-2018/how-to-restore-exchange-mailbox-database) by [convertedbtopst1](../profile/convertedbtopst1)
 - [Only seeing part of color spectrum](/notes/msolomon/11-08-2018/only-seeing-part-of-color-spectrum) by [msolomon](../profile/msolomon)
 - [How can I connect my gopro to SpectralWorkbench software?  Is there other open software that would?](/notes/CD3000/11-20-2018/how-can-i-connect-my-gopro-to-spectralworkbench-software-is-there-other-open-software-that-would) by [CD3000](../profile/CD3000)
 - [changing default webcam ](/notes/julietalemus/12-06-2018/changing-default-webcam) by [julietalemus](../profile/julietalemus)
@@ -90,7 +89,6 @@
 - [Can you calibrate this?](/notes/jela0194/06-11-2019/can-you-calibrate-this) by [jela0194](../profile/jela0194)
 - [Sorry for asking such a elementary question, what does the intensity % means? Can it shows how strong the light source is? Is it in terms of lux?](/notes/willieong/07-06-2019/sorry-for-asking-such-a-elementary-question-what-does-the-intensity-means-can-it-shows-how-strong-the-light-source-is-is-it-in-terms-of-lux) by [willieong](../profile/willieong)
 - [How do I select the back camera of the smartphone?](/notes/renatoianhez/08-05-2019/how-do-i-select-the-back-camera-of-the-smartphone) by [renatoianhez](../profile/renatoianhez)
-- [How can we uninstall stock apps in android](/notes/spotytomp3/08-07-2019/how-can-we-uninstall-stock-apps-in-android) by [spotytomp3](../profile/spotytomp3)
 - [Spectral Workbench so slow on raspberry pi zero](/notes/danieisnietgek/11-28-2019/spectral-workbench-so-slow) by [danieisnietgek](../profile/danieisnietgek)
 - [copying calibration issue](/notes/kog62290/01-03-2020/copying-calibration-issue) by [kog62290](../profile/kog62290)
 - [Problem whit workbench spectra. Unable to manipulate(work) whit any image](/notes/damian_orovitz/04-28-2020/problem-whit-workbench-spectra-unable-to-manipulate-work-whit-any-image) by [damian_orovitz](../profile/damian_orovitz)
@@ -99,8 +97,6 @@
 - [Using Thunderoptics spectrophotometer](/notes/jeffkrol/09-29-2020/using-thunderoptics-spectrophotometer) by [jeffkrol](../profile/jeffkrol)
 - [SW-V1 down samples the input to 256 samples irrespective of the native  camera pixels available has this been fixed in V2?](/notes/stef/10-08-2020/sw-v1-down-samples-the-input-to-256-samples-irrespective-of-the-native-camera-pixels-available-has-this-been-fixed-in-v2) by [stef](../profile/stef)
 - [how does one load a calibration file?](/notes/stef/02-18-2021/how-does-one-load-a-calibration-file) by [stef](../profile/stef)
-- [ Is getting a mobile app that supports 5G feasible right now, and can we use the smartphone efficiently in this concern.](/notes/StevenRobinson/02-19-2021/is-getting-a-mobile-app-that-supports-5g-feasible-right-now-and-can-we-use-the-smartphone-efficiently-in-this-concern) by [StevenRobinson](../profile/StevenRobinson)
-- [the rarest animal in the world 2021](/notes/serdadughfgj/02-21-2021/the-rarest-animal-in-the-world-2021) by [serdadughfgj](../profile/serdadughfgj)
 - [how to upload pictures from own cell phone ](/notes/dianapicazo2104/03-10-2021/how-to-upload-pictures-from-own-cell-phone) by [dianapicazo2104](../profile/dianapicazo2104)
 - [a quoi correspondent l'intensité en axe y et le chiffres en axe x sur le spectre?](/notes/ra_owoussi/03-21-2021/a-quoi-correspondent-l-intensite-en-axe-y-et-le-chiffres-en-axe-x-sur-le-spectre) by [ra_owoussi](../profile/ra_owoussi)
 - [livestream cam](/notes/agraefenstein/03-22-2021/livestream-cam) by [agraefenstein](../profile/agraefenstein)

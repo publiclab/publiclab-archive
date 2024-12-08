@@ -1,6 +1,6 @@
 # cfl
 
-11 notes and wiki pages
+11 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Spectrometer testing](/notes/cfastie/12-3-2012/spectrometer-testing) by [cfastie](../profile/cfastie)
 - [Polynomial](/notes/cfastie/3-6-2013/polynomial) by [cfastie](../profile/cfastie)

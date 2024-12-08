@@ -1,12 +1,18 @@
 ---
-nid: 10160
 title: GSoC Proposal SpectralWorkbench
-path: public/static/notes/PascalW/03-11-2014/gsoc-proposal-spectralworkbench.md
+tagnames: spectrometer, calibration, image-processing, spectralworkbench, neon, gsoc, hdr, gsoc-2014, germany, first-time-poster
+author: PascalW
+path: /notes/PascalW/03-11-2014/gsoc-proposal-spectralworkbench.md
+nid: 10160
 uid: 148271
-tagnames: spectrometer,calibration,image-processing,spectralworkbench,neon,gsoc,hdr,gsoc-2014,germany,first-time-poster
+
 ---
 
 # GSoC Proposal SpectralWorkbench
+
+by [PascalW](../profile/PascalW) March 11, 2014 19:50
+
+March 11, 2014 19:50 | Tags: [spectrometer](../tag/spectrometer), [calibration](../tag/calibration), [image-processing](../tag/image-processing), [spectralworkbench](../tag/spectralworkbench), [neon](../tag/neon), [gsoc](../tag/gsoc), [hdr](../tag/hdr), [gsoc-2014](../tag/gsoc-2014), [germany](../tag/germany), [first-time-poster](../tag/first-time-poster)
 
 ###GsoC Proposal
 

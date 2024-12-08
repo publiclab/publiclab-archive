@@ -1,12 +1,18 @@
 ---
-nid: 45
 title: Experiments with kites, balloons, and infrared photography at FabLab Lima
-path: public/static/notes/warren/05-01-2018/experiments-with-kites-balloons-and-infrared-photography-at-fablab-lima.md
+tagnames: lima, peru, kite-balloon-hybrid, infrared, diy-balloon, south-america
+author: warren
+path: /notes/warren/05-01-2018/experiments-with-kites-balloons-and-infrared-photography-at-fablab-lima.md
+nid: 45
 uid: 1
-tagnames: lima,peru,kite-balloon-hybrid,infrared,diy-balloon,south-america
+
 ---
 
 # Experiments with kites, balloons, and infrared photography at FabLab Lima
+
+by [warren](../profile/warren) January 08, 2011 04:02
+
+January 08, 2011 04:02 | Tags: [lima](../tag/lima), [peru](../tag/peru), [kite-balloon-hybrid](../tag/kite-balloon-hybrid), [infrared](../tag/infrared), [diy-balloon](../tag/diy-balloon), [south-america](../tag/south-america)
 
 <a href="https://www.flickr.com/photos/jeffreywarren/5331230972/" title="Roxana pilots the prototype balloon-kite by jeferonix, on Flickr"><img src="http://farm6.static.flickr.com/5250/5331230972_aa922d2aa6.jpg" width="500" height="375" alt="Roxana pilots the prototype balloon-kite" /></a>
 

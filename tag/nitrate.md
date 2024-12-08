@@ -1,6 +1,6 @@
 # nitrate
 
-10 notes and wiki pages
+10 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Nitrate detection](/wiki/nitrate-detection) (wiki)
 - [Multi parameter analysis using a DIY Spectrometer](/notes/Frikkie/03-05-2015/multi-parameter-analysis-using-a-diy-spectrometer) by [Frikkie](../profile/Frikkie)

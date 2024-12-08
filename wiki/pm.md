@@ -1,12 +1,18 @@
 ---
-nid: 12579
 title: Introduction to Particulate Matter
-path: public/static/wiki/pm.md
+tagnames: dust, particulates, pm, air-sensing, particulate-matter, parent:air-quality
+author: mathew
+path: /wiki/pm.md
+nid: 12579
 uid: 4
-tagnames: dust,particulates,pm,air-sensing,particulate-matter,parent:air-quality
+
 ---
 
 # Introduction to Particulate Matter
+
+by [stevie](../profile/stevie), [liz](../profile/liz), [gretchengehrke](../profile/gretchengehrke), [mathew](../profile/mathew)
+
+January 12, 2016 21:44 | Tags: [dust](../tag/dust), [particulates](../tag/particulates), [pm](../tag/pm), [air-sensing](../tag/air-sensing), [particulate-matter](../tag/particulate-matter), [parent:air-quality](../tag/parent:air-quality)
 
 Particulate matter (PM) is airborne particles and droplets, that can be inhaled. Some PM is formed through physical motion, like pulverized dust getting wind swept, and other PM is formed through gaseous chemical reactions in the atmosphere. Particulate matter is [regulated](/wiki/pm-monitoring-regulations) because it has negative health consequences, especially when it is small enough to travel deep into the lungs, and be [respired.](https://publiclab.org/wiki/pm#Respirable+Particles)
 

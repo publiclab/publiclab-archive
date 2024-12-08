@@ -1,6 +1,6 @@
 # newtown-creek
 
-14 notes and wiki pages
+14 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [New York City](/wiki/new-york-city) (wiki)
 - [Newtown Creek](/wiki/new-town-creek) (wiki)

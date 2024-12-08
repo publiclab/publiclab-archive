@@ -1,12 +1,18 @@
 ---
-nid: 10192
 title: [GSoC 2014 Proposal] Re-designing UI, Improving Web integration for Sky Cam Android app
-path: public/static/notes/tbhargav/03-17-2014/gsoc-2014-proposal-re-designing-ui-improving-web-integration-for-sky-cam-android-app.md
-uid: 421490
 tagnames: gsoc
+author: tbhargav
+path: /notes/tbhargav/03-17-2014/gsoc-2014-proposal-re-designing-ui-improving-web-integration-for-sky-cam-android-app.md
+nid: 10192
+uid: 421490
+
 ---
 
 # [GSoC 2014 Proposal] Re-designing UI, Improving Web integration for Sky Cam Android app
+
+by [tbhargav](../profile/tbhargav) March 17, 2014 03:32
+
+March 17, 2014 03:32 | Tags: [gsoc](../tag/gsoc)
 
 
 ###Name and Contact Information

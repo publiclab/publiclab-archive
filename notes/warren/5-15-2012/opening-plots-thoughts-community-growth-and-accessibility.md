@@ -1,12 +1,18 @@
 ---
-nid: 1995
 title: Opening up PLOTS: thoughts on community growth and accessibility
-path: public/static/notes/warren/5-15-2012/opening-plots-thoughts-community-growth-and-accessibility.md
-uid: 1
 tagnames: community
+author: warren
+path: /notes/warren/5-15-2012/opening-plots-thoughts-community-growth-and-accessibility.md
+nid: 1995
+uid: 1
+
 ---
 
 # Opening up PLOTS: thoughts on community growth and accessibility
+
+by [warren](../profile/warren) May 15, 2012 22:10
+
+May 15, 2012 22:10 | Tags: [community](../tag/community)
 
 *I've been working on these thoughts for a while and although I haven't gotten very far with them, I thought I'd just put this out there and perhaps kick off some discussion or ideas.*
 

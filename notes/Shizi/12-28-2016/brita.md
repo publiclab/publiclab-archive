@@ -1,12 +1,18 @@
 ---
-nid: 13809
 title: 破解Brita净水壶滤芯
-path: public/static/notes/Shizi/12-28-2016/brita.md
-uid: 475993
 tagnames: 
+author: Shizi
+path: /notes/Shizi/12-28-2016/brita.md
+nid: 13809
+uid: 475993
+
 ---
 
 # 破解Brita净水壶滤芯
+
+by [Shizi](../profile/Shizi) December 28, 2016 10:09
+
+December 28, 2016 10:09 | Tags: 
 
 **材料：**
 

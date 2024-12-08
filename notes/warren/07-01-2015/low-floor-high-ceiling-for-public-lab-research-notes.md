@@ -1,12 +1,18 @@
 ---
-nid: 12027
 title: Low floor, high ceiling for Public Lab research notes
-path: public/static/notes/warren/07-01-2015/low-floor-high-ceiling-for-public-lab-research-notes.md
+tagnames: collaboration, community, website, research, blog, authoring, research-notes, growth, ui
+author: warren
+path: /notes/warren/07-01-2015/low-floor-high-ceiling-for-public-lab-research-notes.md
+nid: 12027
 uid: 1
-tagnames: collaboration,community,website,research,blog,authoring,research-notes,growth,ui
+
 ---
 
 # Low floor, high ceiling for Public Lab research notes
+
+by [warren](../profile/warren) July 01, 2015 15:41
+
+July 01, 2015 15:41 | Tags: [collaboration](../tag/collaboration), [community](../tag/community), [website](../tag/website), [research](../tag/research), [blog](../tag/blog), [authoring](../tag/authoring), [research-notes](../tag/research-notes), [growth](../tag/growth), [ui](../tag/ui)
 
 Since the very beginning of Public Lab, we've been aware that we're experimenting with new modes of production, and that the means of publication and communication we employ are keys to success. We started with a range of different "types" of content on [the first Public Lab site](https://github.com/publiclab/plots), including:
 

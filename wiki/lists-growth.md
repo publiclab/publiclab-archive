@@ -1,12 +1,18 @@
 ---
-nid: 13936
 title: Lists Growth
-path: public/static/wiki/lists-growth.md
-uid: 1
 tagnames: 
+author: warren
+path: /wiki/lists-growth.md
+nid: 13936
+uid: 1
+
 ---
 
 # Lists Growth
+
+by [liz](../profile/liz), [warren](../profile/warren)
+
+February 16, 2017 21:37 | Tags: 
 
 We are recording the growth of these lists over time [on this spreadsheet](https://docs.google.com/spreadsheet/ccc?key=0AlY4Tg28DhosdGlzd0RCaFdGYXNWR0pHZEV3R0lCV2c#gid=0) and graphing the results here to track community growth. (You can also see activity over time on [the Google Groups about pages](https://groups.google.com/forum/#!aboutgroup/publiclaboratory))
 

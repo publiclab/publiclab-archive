@@ -1,12 +1,18 @@
 ---
-nid: 9049
 title: Public Lab Selected as a Semi-Finalist for the 2013 Buckminster Fuller Challenge
-path: public/static/notes/Shannon/08-22-2013/public-lab-selected-as-a-semi-finalist-for-the-2013-buckminster-fuller-challenge.md
+tagnames: press-release, press, buckminster-fuller-challenge
+author: Shannon
+path: /notes/Shannon/08-22-2013/public-lab-selected-as-a-semi-finalist-for-the-2013-buckminster-fuller-challenge.md
+nid: 9049
 uid: 9
-tagnames: press-release,press,buckminster-fuller-challenge
+
 ---
 
 # Public Lab Selected as a Semi-Finalist for the 2013 Buckminster Fuller Challenge
+
+by [Shannon](../profile/Shannon) August 22, 2013 16:52
+
+August 22, 2013 16:52 | Tags: [press-release](../tag/press-release), [press](../tag/press), [buckminster-fuller-challenge](../tag/buckminster-fuller-challenge)
 
 For Immediate Release
 Contact: Rebecka Chall

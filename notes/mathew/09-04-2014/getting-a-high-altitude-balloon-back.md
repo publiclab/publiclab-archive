@@ -1,12 +1,18 @@
 ---
-nid: 11101
 title: Getting a high altitude balloon back
-path: public/static/notes/mathew/09-04-2014/getting-a-high-altitude-balloon-back.md
+tagnames: balloon-mapping, solar-balloon, mapping, balloon, arhab
+author: mathew
+path: /notes/mathew/09-04-2014/getting-a-high-altitude-balloon-back.md
+nid: 11101
 uid: 4
-tagnames: balloon-mapping,solar-balloon,mapping,balloon,arhab
+
 ---
 
 # Getting a high altitude balloon back
+
+by [mathew](../profile/mathew) September 04, 2014 05:11
+
+September 04, 2014 05:11 | Tags: [balloon-mapping](../tag/balloon-mapping), [solar-balloon](../tag/solar-balloon), [mapping](../tag/mapping), [balloon](../tag/balloon), [arhab](../tag/arhab)
 
 ###What I want to do
 fly a high altitude balloon and get it back.  This means tracking where it goes and calling home.

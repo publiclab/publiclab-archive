@@ -1,12 +1,18 @@
 ---
-nid: 77
 title: Mapping Curriculum Introduction
-path: public/static/wiki/mapping-curriculum-introduction.md
-uid: 1
 tagnames: 
+author: warren
+path: /wiki/mapping-curriculum-introduction.md
+nid: 77
+uid: 1
+
 ---
 
 # Mapping Curriculum Introduction
+
+by [gonzoearth](../profile/gonzoearth), [warren](../profile/warren)
+
+February 08, 2011 18:25 | Tags: 
 
 *As part of the [Grassroots Mapping Curriculum](/wiki/mapping-curriculum) series.*
 

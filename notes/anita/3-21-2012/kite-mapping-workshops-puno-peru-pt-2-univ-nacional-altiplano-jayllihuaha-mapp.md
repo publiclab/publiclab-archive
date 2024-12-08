@@ -1,12 +1,18 @@
 ---
-nid: 1510
 title: Kite Mapping Workshops in Puno, Peru - Pt. 2: Univ. Nacional Altiplano, Jayllihuaha Mapping
-path: public/static/notes/anita/3-21-2012/kite-mapping-workshops-puno-peru-pt-2-univ-nacional-altiplano-jayllihuaha-mapp.md
+tagnames: self-made-kite-mapping, rural-mapping, rural-government-collaboration
+author: anita
+path: /notes/anita/3-21-2012/kite-mapping-workshops-puno-peru-pt-2-univ-nacional-altiplano-jayllihuaha-mapp.md
+nid: 1510
 uid: 481
-tagnames: self-made-kite-mapping,rural-mapping,rural-government-collaboration
+
 ---
 
 # Kite Mapping Workshops in Puno, Peru - Pt. 2: Univ. Nacional Altiplano, Jayllihuaha Mapping
+
+by [anita](../profile/anita) March 21, 2012 17:54
+
+March 21, 2012 17:54 | Tags: [self-made-kite-mapping](../tag/self-made-kite-mapping), [rural-mapping](../tag/rural-mapping), [rural-government-collaboration](../tag/rural-government-collaboration)
 
 (traducion al espanol abajo)
 

@@ -1,6 +1,6 @@
 # category-verify
 
-8 notes and wiki pages
+8 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Coqui BBv1.0: Reacting to an LED with Sound](/notes/donblair/09-30-2014/coqui-bbv1-0-reacting-to-an-led-with-sound) by [donblair](../profile/donblair)
 - [Coqui BBv1.0: Using a thermistor as a temperature probe](/notes/donblair/09-30-2014/coqui-bbv1-0-using-a-thermistor-as-a-temperature-probe) by [donblair](../profile/donblair)

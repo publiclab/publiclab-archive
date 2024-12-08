@@ -1,12 +1,18 @@
 ---
-nid: 21323
 title: activity:*weekly Updates October 21st- November 4th 
-path: public/static/wiki/activity-weekly-updates-october-21st-november-4th.md
+tagnames: publiclaboratory, fellowship, updates
+author: rollinrenola
+path: /wiki/activity-weekly-updates-october-21st-november-4th.md
+nid: 21323
 uid: 618903
-tagnames: publiclaboratory,fellowship,updates
+
 ---
 
 # activity:*weekly Updates October 21st- November 4th 
+
+by [rollinrenola](../profile/rollinrenola)
+
+October 29, 2019 02:07 | Tags: [publiclaboratory](../tag/publiclaboratory), [fellowship](../tag/fellowship), [updates](../tag/updates)
 
 next two weeks ( October 21st- November 4th)
 1. Collect water and soil samples from parts of St Bernard and Orleans Parish 

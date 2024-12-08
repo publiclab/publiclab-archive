@@ -1,12 +1,18 @@
 ---
-nid: 468
 title: MapKnitter Help
-path: public/static/wiki/mapknitter-help.md
+tagnames: balloon-mapping, mapknitter, hagit-keysar
+author: gonzoearth
+path: /wiki/mapknitter-help.md
+nid: 468
 uid: 12
-tagnames: balloon-mapping,mapknitter,hagit-keysar
+
 ---
 
 # MapKnitter Help
+
+by [warren](../profile/warren), [hagitkeysar](../profile/hagitkeysar), [gonzoearth](../profile/gonzoearth)
+
+September 15, 2011 06:19 | Tags: [balloon-mapping](../tag/balloon-mapping), [mapknitter](../tag/mapknitter), [hagit-keysar](../tag/hagit-keysar)
 
  Visit https://mapknitter.org to start a new MapKnitter project, view existing maps, or work on one in progress.
 

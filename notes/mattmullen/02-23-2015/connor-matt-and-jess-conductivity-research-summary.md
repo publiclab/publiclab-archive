@@ -1,12 +1,18 @@
 ---
-nid: 11617
 title: Connor, Matt, and Jess' conductivity research summary
-path: public/static/notes/mattmullen/02-23-2015/connor-matt-and-jess-conductivity-research-summary.md
+tagnames: conductivity, salt, coqui, sensor-journalism, first-time-poster
+author: mattmullen
+path: /notes/mattmullen/02-23-2015/connor-matt-and-jess-conductivity-research-summary.md
+nid: 11617
 uid: 434175
-tagnames: conductivity,salt,coqui,sensor-journalism,first-time-poster
+
 ---
 
 # Connor, Matt, and Jess' conductivity research summary
+
+by [mattmullen](../profile/mattmullen) February 23, 2015 05:38
+
+February 23, 2015 05:38 | Tags: [conductivity](../tag/conductivity), [salt](../tag/salt), [coqui](../tag/coqui), [sensor-journalism](../tag/sensor-journalism), [first-time-poster](../tag/first-time-poster)
 
 ##Connor, Matt, and Jess 
 

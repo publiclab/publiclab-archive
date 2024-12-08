@@ -1,12 +1,18 @@
 ---
-nid: 15582
 title: Advanced Grids
-path: public/static/wiki/advanced-grids.md
+tagnames: parent:power-tags, basic-microscope:, basic-
+author: warren
+path: /wiki/advanced-grids.md
+nid: 15582
 uid: 1
-tagnames: parent:power-tags,basic-microscope:,basic-
+
 ---
 
 # Advanced Grids
+
+by [warren](../profile/warren)
+
+January 22, 2018 17:29 | Tags: [parent:power-tags](../tag/parent:power-tags), [basic-microscope:](../tag/basic-microscope:), [basic-](../tag/basic-)
 
 ## Thumbnail grids
 

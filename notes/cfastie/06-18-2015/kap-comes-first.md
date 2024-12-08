@@ -1,12 +1,18 @@
 ---
-nid: 11988
 title: KAP comes first
-path: public/static/notes/cfastie/06-18-2015/kap-comes-first.md
+tagnames: balloon-mapping, kite-mapping, kite-aerial-photography, 3dprinting, kaptery, response:11726
+author: cfastie
+path: /notes/cfastie/06-18-2015/kap-comes-first.md
+nid: 11988
 uid: 554
-tagnames: balloon-mapping,kite-mapping,kite-aerial-photography,3dprinting,kaptery,response:11726
+
 ---
 
 # KAP comes first
+
+by [cfastie](../profile/cfastie) June 18, 2015 20:28
+
+June 18, 2015 20:28 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [kite-aerial-photography](../tag/kite-aerial-photography), [3dprinting](../tag/3dprinting), [kaptery](../tag/kaptery), [response:11726](../tag/response:11726)
 
 This week Bre Pettis left Stratasys, two years after Stratasys bought MakerBot, the 3D printer company that he co-founded in 2009. The Bold Machines innovation workshop that Pettis has been running in those two years was spun off and is now his independent company.
 

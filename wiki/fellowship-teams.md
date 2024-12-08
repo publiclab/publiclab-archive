@@ -1,12 +1,18 @@
 ---
-nid: 26321
 title: Fellowship Teams
-path: public/static/wiki/fellowship-teams.md
+tagnames: organizing, fellows, fellowship, parent:fellows, fellowship-team
+author: stevie
+path: /wiki/fellowship-teams.md
+nid: 26321
 uid: 422561
-tagnames: organizing,fellows,fellowship,parent:fellows,fellowship-team
+
 ---
 
 # Fellowship Teams
+
+by [stevie](../profile/stevie), [bhamster](../profile/bhamster), [fongvania](../profile/fongvania), [amocorro](../profile/amocorro)
+
+April 23, 2021 20:16 | Tags: [organizing](../tag/organizing), [fellows](../tag/fellows), [fellowship](../tag/fellowship), [parent:fellows](../tag/parent:fellows), [fellowship-team](../tag/fellowship-team)
 
 #Important update to Fellowship Teams Program
 Due to funding challenges, we have made the tough but necessary decision to scale back programming and take certain services offline. This includes temporarily pausing the Fellowship Team program. You can read more about [the change in programming here](https://publiclab.org/notes/jmacha/08-03-2022/important-update-from-public-lab). 

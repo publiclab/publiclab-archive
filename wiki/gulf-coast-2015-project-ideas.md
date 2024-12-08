@@ -1,12 +1,18 @@
 ---
-nid: 11514
 title: Gulf Coast 2015 Project Ideas
-path: public/static/wiki/gulf-coast-2015-project-ideas.md
-uid: 422561
 tagnames: gulf-coast
+author: stevie
+path: /wiki/gulf-coast-2015-project-ideas.md
+nid: 11514
+uid: 422561
+
 ---
 
 # Gulf Coast 2015 Project Ideas
+
+by [stevie](../profile/stevie), [pixiepickens](../profile/pixiepickens)
+
+January 09, 2015 17:57 | Tags: [gulf-coast](../tag/gulf-coast)
 
 This page hosts compiled information on project ideas people in the Gulf Coast have for 2015. Click edit on this page to add information or add your idea!! 
 

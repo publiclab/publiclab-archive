@@ -1,12 +1,18 @@
 ---
-nid: 425
 title: Infrared balloon image reveals Gowanus plume
-path: public/static/notes/liz/8-3-2011/ir-reveals-gowanus-plume.md
+tagnames: gowanus, nrg, infrared, plume, watchdog, great-photos
+author: liz
+path: /notes/liz/8-3-2011/ir-reveals-gowanus-plume.md
+nid: 425
 uid: 7
-tagnames: gowanus,nrg,infrared,plume,watchdog,great-photos
+
 ---
 
 # Infrared balloon image reveals Gowanus plume
+
+by [liz](../profile/liz) August 03, 2011 18:32
+
+August 03, 2011 18:32 | Tags: [gowanus](../tag/gowanus), [nrg](../tag/nrg), [infrared](../tag/infrared), [plume](../tag/plume), [watchdog](../tag/watchdog), [great-photos](../tag/great-photos)
 
 Two photos (one visible, one near-infrared) taken by balloon aerial rig on Sunday July 31 were composited to reveal this plume.
 

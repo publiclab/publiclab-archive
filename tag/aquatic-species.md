@@ -1,6 +1,6 @@
 # aquatic-species
 
-4 notes and wiki pages
+4 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Manoomin at Moss Lake, Minneosta](/notes/Giiwedin/08-09-2022/manoomin-at-moss-lake-minneosta) by [Giiwedin](../profile/Giiwedin)
 - [Manoomin at White Oak Lake, Minneosta](/notes/Giiwedin/08-09-2022/manoomin-at-white-oak-lake-minneosta) by [Giiwedin](../profile/Giiwedin)

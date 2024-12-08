@@ -1,12 +1,18 @@
 ---
-nid: 20676
 title: GSOC 2019 wrapup 
-path: public/static/notes/vidit/08-26-2019/gsoc-2019-wrapup.md
+tagnames: google-summer-of-code, summer-of-code, gsoc-19, gsoc-final-eval, gsoc-2019-final-report
+author: vidit
+path: /notes/vidit/08-26-2019/gsoc-2019-wrapup.md
+nid: 20676
 uid: 517093
-tagnames: google-summer-of-code,summer-of-code,gsoc-19,gsoc-final-eval,gsoc-2019-final-report
+
 ---
 
 # GSOC 2019 wrapup 
+
+by [vidit](../profile/vidit) August 26, 2019 12:07
+
+August 26, 2019 12:07 | Tags: [google-summer-of-code](../tag/google-summer-of-code), [summer-of-code](../tag/summer-of-code), [gsoc-19](../tag/gsoc-19), [gsoc-final-eval](../tag/gsoc-final-eval), [gsoc-2019-final-report](../tag/gsoc-2019-final-report)
 
 ## GSoC 2019 (Synchronous Image Placement)
 

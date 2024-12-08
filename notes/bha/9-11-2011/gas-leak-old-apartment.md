@@ -1,12 +1,18 @@
 ---
-nid: 464
 title: The gas leak from an old apartment.
-path: public/static/notes/bha/9-11-2011/gas-leak-old-apartment.md
+tagnames: indoor-air-quality-mapping, first-time-poster
+author: bha
+path: /notes/bha/9-11-2011/gas-leak-old-apartment.md
+nid: 464
 uid: 280
-tagnames: indoor-air-quality-mapping,first-time-poster
+
 ---
 
 # The gas leak from an old apartment.
+
+by [bha](../profile/bha) September 12, 2011 03:26
+
+September 12, 2011 03:26 | Tags: [indoor-air-quality-mapping](../tag/indoor-air-quality-mapping), [first-time-poster](../tag/first-time-poster)
 
 About a month ago, I moved into an apartment, where was built around 90 years ago.
 

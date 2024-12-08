@@ -1,6 +1,6 @@
 # webcam
 
-35 notes and wiki pages
+35 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Webcam filter removal](/wiki/webcam-filter-removal) (wiki)
 - [Webcam Conversion to (Near-) Infrared](/notes/joshmc/10-12-2012/webcam-conversion-near-infrared) by [JoshMc](../profile/JoshMc)

@@ -1,12 +1,18 @@
 ---
-nid: 6260
 title: OGC work on Sensor Web Enablement
-path: public/static/notes/liz/3-9-2013/ogc-work-sensor-web-enablement.md
+tagnames: sensing, sensors, standards, interoperability, ogc, open-geospatial-consortium
+author: liz
+path: /notes/liz/3-9-2013/ogc-work-sensor-web-enablement.md
+nid: 6260
 uid: 7
-tagnames: sensing,sensors,standards,interoperability,ogc,open-geospatial-consortium
+
 ---
 
 # OGC work on Sensor Web Enablement
+
+by [liz](../profile/liz) March 09, 2013 18:47
+
+March 09, 2013 18:47 | Tags: [sensing](../tag/sensing), [sensors](../tag/sensors), [standards](../tag/standards), [interoperability](../tag/interoperability), [ogc](../tag/ogc), [open-geospatial-consortium](../tag/open-geospatial-consortium)
 
 Thinking about how to deal with new Public Lab tools that involve environmental sensors of various types, I serendipitously met Luis Bermudez from the Open Geospatial Consortium. He related the OGC's work on standards for sharing sensor data on the web. 
 

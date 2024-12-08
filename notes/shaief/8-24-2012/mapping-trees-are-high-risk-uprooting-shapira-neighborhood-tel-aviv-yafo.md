@@ -1,12 +1,18 @@
 ---
-nid: 3451
 title: Mapping trees that are in high risk of uprooting at Shapira Neighborhood, Tel Aviv-Yafo
-path: public/static/notes/shaief/8-24-2012/mapping-trees-are-high-risk-uprooting-shapira-neighborhood-tel-aviv-yafo.md
+tagnames: kite-mapping, grassrootsmapping, syndicated, qgis
+author: shaief
+path: /notes/shaief/8-24-2012/mapping-trees-are-high-risk-uprooting-shapira-neighborhood-tel-aviv-yafo.md
+nid: 3451
 uid: 151
-tagnames: kite-mapping,grassrootsmapping,syndicated,qgis
+
 ---
 
 # Mapping trees that are in high risk of uprooting at Shapira Neighborhood, Tel Aviv-Yafo
+
+by [shaief](../profile/shaief) August 24, 2012 16:39
+
+August 24, 2012 16:39 | Tags: [kite-mapping](../tag/kite-mapping), [grassrootsmapping](../tag/grassrootsmapping), [syndicated](../tag/syndicated), [qgis](../tag/qgis)
 
 Published originally on <a href="http://shaief.com">my website</a>
 

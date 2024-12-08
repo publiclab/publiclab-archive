@@ -1,12 +1,18 @@
 ---
-nid: 24356
 title: HAAM#2: Plataforma Beal y metales pesados
-path: public/static/notes/imvec/08-19-2020/haam-2-plataforma-beal-y-metales-pesados.md
+tagnames: heavy-metals, lang:es, espana, soil-quality, spanish, zoom:11, haam, murcia, metales-pesados, lat:37.622389, lon:-0.880285, lat:37.624021, lon:-0.885726
+author: imvec
+path: /notes/imvec/08-19-2020/haam-2-plataforma-beal-y-metales-pesados.md
+nid: 24356
 uid: 495038
-tagnames: heavy-metals,lang:es,espana,soil-quality,spanish,zoom:11,haam,murcia,metales-pesados,lat:37.622389,lon:-0.880285,lat:37.624021,lon:-0.885726
+
 ---
 
 # HAAM#2: Plataforma Beal y metales pesados
+
+by [imvec](../profile/imvec) August 19, 2020 11:33
+
+August 19, 2020 11:33 | Tags: [heavy-metals](../tag/heavy-metals), [lang:es](../tag/lang:es), [espana](../tag/espana), [soil-quality](../tag/soil-quality), [spanish](../tag/spanish), [zoom:11](../tag/zoom:11), [haam](../tag/haam), [murcia](../tag/murcia), [metales-pesados](../tag/metales-pesados), [lat:37.622389](../tag/lat:37.622389), [lon:-0.880285](../tag/lon:-0.880285), [lat:37.624021](../tag/lat:37.624021), [lon:-0.885726](../tag/lon:-0.885726)
 
 <iframe src="https://www.youtube.com/embed/W_recswf9ps" allowfullscreen="" width="700" height="393" frameborder="0"></iframe>
 

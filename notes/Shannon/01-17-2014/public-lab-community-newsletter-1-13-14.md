@@ -1,12 +1,18 @@
 ---
-nid: 9954
 title: Public Lab community newsletter 1.13.14
-path: public/static/notes/Shannon/01-17-2014/public-lab-community-newsletter-1-13-14.md
+tagnames: newsletter, newsletter-archive
+author: Shannon
+path: /notes/Shannon/01-17-2014/public-lab-community-newsletter-1-13-14.md
+nid: 9954
 uid: 9
-tagnames: newsletter,newsletter-archive
+
 ---
 
 # Public Lab community newsletter 1.13.14
+
+by [Shannon](../profile/Shannon) January 17, 2014 18:22
+
+January 17, 2014 18:22 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
 
 Happy new year everyone! Hope that you all had a great holiday season and are feeling refreshed and ready to tackle 2014 with renewed enthusiasm! Public Lab weekly newsletters are back with quite a few updates ranging from upcoming events to Infragram progress and new Public Lab chapter announcements. Enjoy!
 

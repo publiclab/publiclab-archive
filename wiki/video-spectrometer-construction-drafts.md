@@ -1,12 +1,18 @@
 ---
-nid: 558
 title: Video spectrometer construction drafts
-path: public/static/wiki/video-spectrometer-construction-drafts.md
-uid: 1
 tagnames: 
+author: warren
+path: /wiki/video-spectrometer-construction-drafts.md
+nid: 558
+uid: 1
+
 ---
 
 # Video spectrometer construction drafts
+
+by [warren](../profile/warren)
+
+November 11, 2011 16:19 | Tags: 
 
 This page serves as the staging for the official [video spectrometer construction page](/wiki/video-spectrometer-construction). As the guide develops, and as new content is added, draft versions live here.
 

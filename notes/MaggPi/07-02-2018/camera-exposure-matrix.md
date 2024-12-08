@@ -1,12 +1,18 @@
 ---
-nid: 16605
 title: Camera exposure matrix
-path: public/static/notes/MaggPi/07-02-2018/camera-exposure-matrix.md
+tagnames: infrared, raspberry-pi, barnstar:basic, computer-vision, picamera, noir
+author: MaggPi
+path: /notes/MaggPi/07-02-2018/camera-exposure-matrix.md
+nid: 16605
 uid: 501996
-tagnames: infrared,raspberry-pi,barnstar:basic,computer-vision,picamera,noir
+
 ---
 
 # Camera exposure matrix
+
+by [MaggPi](../profile/MaggPi) July 02, 2018 09:21
+
+July 02, 2018 09:21 | Tags: [infrared](../tag/infrared), [raspberry-pi](../tag/raspberry-pi), [barnstar:basic](../tag/barnstar:basic), [computer-vision](../tag/computer-vision), [picamera](../tag/picamera), [noir](../tag/noir)
 
 This  research note provides examples of an optimization matrix or digital contact sheet that permits the user to visualize the impact of different camera settings.  
 

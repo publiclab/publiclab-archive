@@ -1,12 +1,18 @@
 ---
-nid: 752
 title: Picavet PET rig
-path: public/static/notes/mathew/2-5-2012/picavet-pet-rig.md
-uid: 4
 tagnames: activity:photo-rig
+author: mathew
+path: /notes/mathew/2-5-2012/picavet-pet-rig.md
+nid: 752
+uid: 4
+
 ---
 
 # Picavet PET rig
+
+by [mathew](../profile/mathew) February 06, 2012 02:58
+
+February 06, 2012 02:58 | Tags: [activity:photo-rig](../tag/activity:photo-rig)
 
 [A Picavet rig](http://www.kaper.us/basics/BASICS_picavet.html) is a very common type of KAP/BAP rig, I've added it to the juice bottle in a fairly simple way, using 1/2" key rings.
 

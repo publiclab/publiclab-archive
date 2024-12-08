@@ -1,12 +1,18 @@
 ---
-nid: 14073
 title: Public Lab Featured on PBS Documentary
-path: public/static/notes/klie/03-31-2017/public-lab-featured-on-pbs-documentary.md
-uid: 441262
 tagnames: 
+author: klie
+path: /notes/klie/03-31-2017/public-lab-featured-on-pbs-documentary.md
+nid: 14073
+uid: 441262
+
 ---
 
 # Public Lab Featured on PBS Documentary
+
+by [klie](../profile/klie) March 31, 2017 21:07
+
+March 31, 2017 21:07 | Tags: 
 
 Passing this viewing information along, as Public Lab will be featured on PBS as part of a documentary series on citizen science! We're excited to be a part and to highlight the need for community science and the open source movement. Here are ways to watch or follow the action:
 

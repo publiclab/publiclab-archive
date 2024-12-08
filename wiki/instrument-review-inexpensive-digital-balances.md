@@ -1,12 +1,18 @@
 ---
-nid: 10199
 title: Instrument Review: Inexpensive Digital Balances
-path: public/static/wiki/instrument-review-inexpensive-digital-balances.md
-uid: 304279
 tagnames: 
+author: JSummers
+path: /wiki/instrument-review-inexpensive-digital-balances.md
+nid: 10199
+uid: 304279
+
 ---
 
 # Instrument Review: Inexpensive Digital Balances
+
+by [JSummers](../profile/JSummers)
+
+March 18, 2014 19:22 | Tags: 
 
 ##Why?
 Any time you want to measure something, you will likely need a reference sample containing a known quantity of the thing.  For example, if you want to quantify lead in water, you need to have samples with known amounts of lead that you can use to calibrate your instrument.  Frequently, preparing these samples requires you to accurately weigh out a small amount of the thing you are interested in.  The purpose of this wiki page is to review the performance of three low cost balances. 

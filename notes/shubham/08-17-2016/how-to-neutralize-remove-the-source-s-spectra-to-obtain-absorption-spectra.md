@@ -1,12 +1,18 @@
 ---
-nid: 13358
 title: How to neutralize/remove the source's spectra to obtain absorption spectra?
-path: public/static/notes/shubham/08-17-2016/how-to-neutralize-remove-the-source-s-spectra-to-obtain-absorption-spectra.md
+tagnames: question:spectrometry, answered
+author: shubham
+path: /notes/shubham/08-17-2016/how-to-neutralize-remove-the-source-s-spectra-to-obtain-absorption-spectra.md
+nid: 13358
 uid: 460486
-tagnames: question:spectrometry,answered
+
 ---
 
 # How to neutralize/remove the source's spectra to obtain absorption spectra?
+
+by [shubham](../profile/shubham) August 17, 2016 06:35
+
+August 17, 2016 06:35 | Tags: [question:spectrometry](../tag/question:spectrometry), [answered](../tag/answered)
 
 Hi Everyone
 

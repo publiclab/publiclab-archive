@@ -1,12 +1,18 @@
 ---
-nid: 19430
 title: Public Lab River Rat Pack
-path: public/static/wiki/public-lab-river-rat-pack.md
+tagnames: flood, mississippi-river, urbanwaters, lat:38, publiclabriverratpack, project, location:blurred, lon:-90, map-knitter, fresh-water, public-access
+author: stevie
+path: /wiki/public-lab-river-rat-pack.md
+nid: 19430
 uid: 422561
-tagnames: flood,mississippi-river,urbanwaters,lat:38,publiclabriverratpack,project,location:blurred,lon:-90,map-knitter,fresh-water,public-access
+
 ---
 
 # Public Lab River Rat Pack
+
+by [stevie](../profile/stevie)
+
+May 16, 2019 18:08 | Tags: [flood](../tag/flood), [mississippi-river](../tag/mississippi-river), [urbanwaters](../tag/urbanwaters), [lat:38](../tag/lat:38), [publiclabriverratpack](../tag/publiclabriverratpack), [project](../tag/project), [location:blurred](../tag/location:blurred), [lon:-90](../tag/lon:-90), [map-knitter](../tag/map-knitter), [fresh-water](../tag/fresh-water), [public-access](../tag/public-access)
 
 
 

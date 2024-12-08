@@ -1,12 +1,18 @@
 ---
-nid: 16934
 title: The Lead (Pb) Data Initiative
-path: public/static/wiki/the-lead-data-collaborative-overview.md
+tagnames: water-quality, lead, overview, how, background, lead-testing, parent:lead, initiative, enter:
+author: read_holman
+path: /wiki/the-lead-data-collaborative-overview.md
+nid: 16934
 uid: 540243
-tagnames: water-quality,lead,overview,how,background,lead-testing,parent:lead,initiative,enter:
+
 ---
 
 # The Lead (Pb) Data Initiative
+
+by [read_holman](../profile/read_holman), [liz](../profile/liz)
+
+August 15, 2018 20:23 | Tags: [water-quality](../tag/water-quality), [lead](../tag/lead), [overview](../tag/overview), [how](../tag/how), [background](../tag/background), [lead-testing](../tag/lead-testing), [parent:lead](../tag/parent:lead), [initiative](../tag/initiative), [enter:](../tag/enter:)
 
 _This space provides an overview of The Lead (Pb) Data Initiative, an effort being led by [@read_holman](https://publiclab.org/profile/read_holman) but hopefully with the help of many others (including you?)._
 

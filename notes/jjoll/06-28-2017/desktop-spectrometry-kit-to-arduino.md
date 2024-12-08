@@ -1,12 +1,18 @@
 ---
-nid: 14589
 title: Desktop Spectrometry Kit to arduino?
-path: public/static/notes/jjoll/06-28-2017/desktop-spectrometry-kit-to-arduino.md
+tagnames: arduino, spectrometry, ccd, question:spectrometry, question:dssk, question:arduino, question:spectrometry-challenge
+author: jjoll
+path: /notes/jjoll/06-28-2017/desktop-spectrometry-kit-to-arduino.md
+nid: 14589
 uid: 508437
-tagnames: arduino,spectrometry,ccd,question:spectrometry,question:dssk,question:arduino,question:spectrometry-challenge
+
 ---
 
 # Desktop Spectrometry Kit to arduino?
+
+by [jjoll](../profile/jjoll) June 28, 2017 13:23
+
+June 28, 2017 13:23 | Tags: [arduino](../tag/arduino), [spectrometry](../tag/spectrometry), [ccd](../tag/ccd), [question:spectrometry](../tag/question:spectrometry), [question:dssk](../tag/question:dssk), [question:arduino](../tag/question:arduino), [question:spectrometry-challenge](../tag/question:spectrometry-challenge)
 
 ###What I want to do or know
 hi, 

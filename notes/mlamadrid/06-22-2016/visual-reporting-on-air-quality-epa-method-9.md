@@ -1,12 +1,18 @@
 ---
-nid: 13221
 title: Visual reporting on air quality: EPA method 9
-path: public/static/notes/mlamadrid/06-22-2016/visual-reporting-on-air-quality-epa-method-9.md
+tagnames: blog, frac-sand, with:stevie, parent:frac-sand, communityscienceforum, visual-monitoring, reclamation
+author: mlamadrid
+path: /notes/mlamadrid/06-22-2016/visual-reporting-on-air-quality-epa-method-9.md
+nid: 13221
 uid: 45586
-tagnames: blog,frac-sand,with:stevie,parent:frac-sand,communityscienceforum,visual-monitoring,reclamation
+
 ---
 
 # Visual reporting on air quality: EPA method 9
+
+by [mlamadrid](../profile/mlamadrid) June 22, 2016 00:36
+
+June 22, 2016 00:36 | Tags: [blog](../tag/blog), [frac-sand](../tag/frac-sand), [with:stevie](../tag/with:stevie), [parent:frac-sand](../tag/parent:frac-sand), [communityscienceforum](../tag/communityscienceforum), [visual-monitoring](../tag/visual-monitoring), [reclamation](../tag/reclamation)
 
 Article by [Stevie Lewis](https://publiclab.org/profile/stevie) for [Community Science Forum: Sand-Frac Issue](https://publiclab.org/forum).
 

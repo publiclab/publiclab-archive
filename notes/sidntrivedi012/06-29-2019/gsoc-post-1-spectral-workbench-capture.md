@@ -1,12 +1,18 @@
 ---
-nid: 19926
 title: GSoC Post 1: Spectral-Workbench-Capture
-path: public/static/notes/sidntrivedi012/06-29-2019/gsoc-post-1-spectral-workbench-capture.md
+tagnames: open-source, spectral-workbench, gsoc, soc-2019, post-1
+author: sidntrivedi012
+path: /notes/sidntrivedi012/06-29-2019/gsoc-post-1-spectral-workbench-capture.md
+nid: 19926
 uid: 572743
-tagnames: open-source,spectral-workbench,gsoc,soc-2019,post-1
+
 ---
 
 # GSoC Post 1: Spectral-Workbench-Capture
+
+by [sidntrivedi012](../profile/sidntrivedi012) June 29, 2019 12:47
+
+June 29, 2019 12:47 | Tags: [open-source](../tag/open-source), [spectral-workbench](../tag/spectral-workbench), [gsoc](../tag/gsoc), [soc-2019](../tag/soc-2019), [post-1](../tag/post-1)
 
 > Linus Torvalds said - <br><br> "I often compare open source to science. To where science took this whole notion of developing ideas in the open and improving on other peoples' ideas and making it into what science is today and the incredible advances that we have had."<br>
 

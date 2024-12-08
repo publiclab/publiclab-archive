@@ -1,12 +1,18 @@
 ---
-nid: 718
 title: Helium high: balloon mapping in the Philippines
-path: public/static/notes/maning/1-25-2012/helium-high-balloon-mapping-phillipines.md
-uid: 468
 tagnames: 
+author: maning
+path: /notes/maning/1-25-2012/helium-high-balloon-mapping-phillipines.md
+nid: 718
+uid: 468
+
 ---
 
 # Helium high: balloon mapping in the Philippines
+
+by [maning](../profile/maning) January 25, 2012 20:00
+
+January 25, 2012 20:00 | Tags: 
 
 <em>This post has been syndicated from <a href="http://epsg4253.wordpress.com/2012/01/21/helium-high/">EPSG4253.wordpress.com</a>
 

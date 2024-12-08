@@ -1,12 +1,18 @@
 ---
-nid: 14923
 title: Can NASA VIIRS data  used for disaster maps?
-path: public/static/notes/marlokeno/09-20-2017/can-nasa-viirs-data-used-for-disaster-maps.md
+tagnames: remote-sensing, infrared, oil-spill, satellite-images, aerial-photography, epa, waste, hurricane, flood, hazards, answered, question:general, question:remote-sensing, harvey, question:harvey, harvey-needs, question:disaster-response
+author: marlokeno
+path: /notes/marlokeno/09-20-2017/can-nasa-viirs-data-used-for-disaster-maps.md
+nid: 14923
 uid: 420760
-tagnames: remote-sensing,infrared,oil-spill,satellite-images,aerial-photography,epa,waste,hurricane,flood,hazards,answered,question:general,question:remote-sensing,harvey,question:harvey,harvey-needs,question:disaster-response
+
 ---
 
 # Can NASA VIIRS data  used for disaster maps?
+
+by [marlokeno](../profile/marlokeno) September 20, 2017 19:28
+
+September 20, 2017 19:28 | Tags: [remote-sensing](../tag/remote-sensing), [infrared](../tag/infrared), [oil-spill](../tag/oil-spill), [satellite-images](../tag/satellite-images), [aerial-photography](../tag/aerial-photography), [epa](../tag/epa), [waste](../tag/waste), [hurricane](../tag/hurricane), [flood](../tag/flood), [hazards](../tag/hazards), [answered](../tag/answered), [question:general](../tag/question:general), [question:remote-sensing](../tag/question:remote-sensing), [harvey](../tag/harvey), [question:harvey](../tag/question:harvey), [harvey-needs](../tag/harvey-needs), [question:disaster-response](../tag/question:disaster-response)
 
 Looking at maps from the Suomi satellite of fires in the Western US, destruction of Rohingya villages- I wondered, how can this data be used after disasters like Harvey, Irma, Maria, Mexican earthquakes to help document damage and help communities recover?
 

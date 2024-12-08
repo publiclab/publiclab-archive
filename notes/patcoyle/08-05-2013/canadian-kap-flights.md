@@ -1,12 +1,18 @@
 ---
-nid: 8962
 title: Canadian KAP flights
-path: public/static/notes/patcoyle/08-05-2013/canadian-kap-flights.md
+tagnames: kite-mapping, kap, canada
+author: patcoyle
+path: /notes/patcoyle/08-05-2013/canadian-kap-flights.md
+nid: 8962
 uid: 77
-tagnames: kite-mapping,kap,canada
+
 ---
 
 # Canadian KAP flights
+
+by [patcoyle](../profile/patcoyle) August 05, 2013 17:00
+
+August 05, 2013 17:00 | Tags: [kite-mapping](../tag/kite-mapping), [kap](../tag/kap), [canada](../tag/canada)
 
 Flew the Canon SX260HS (with built-in GPS) with Levitation 9' Delta with juice bottle rig, two-point attachment at a few locations.
 

@@ -1,12 +1,18 @@
 ---
-nid: 18938
 title: Observable water quality violations related to frac sand mining 
-path: public/static/wiki/water-violations.md
+tagnames: reporting, wisconsin, water-quality, frac-sand, midwest, frac-sand-reporting, sentinel, local-reporting, parent:the-sand-sentinel-program, reclamation
+author: kamau19
+path: /wiki/water-violations.md
+nid: 18938
 uid: 571595
-tagnames: reporting,wisconsin,water-quality,frac-sand,midwest,frac-sand-reporting,sentinel,local-reporting,parent:the-sand-sentinel-program,reclamation
+
 ---
 
 # Observable water quality violations related to frac sand mining 
+
+by [stevie](../profile/stevie), [kamau19](../profile/kamau19)
+
+April 02, 2019 19:23 | Tags: [reporting](../tag/reporting), [wisconsin](../tag/wisconsin), [water-quality](../tag/water-quality), [frac-sand](../tag/frac-sand), [midwest](../tag/midwest), [frac-sand-reporting](../tag/frac-sand-reporting), [sentinel](../tag/sentinel), [local-reporting](../tag/local-reporting), [parent:the-sand-sentinel-program](../tag/parent:the-sand-sentinel-program), [reclamation](../tag/reclamation)
 
 This page includes information about observable permit violations of the frac [sand mining industry](https://publiclab.org/wiki/nonmetallicmining#Industrial+Sand+Mining) related to water quality violations. 
 

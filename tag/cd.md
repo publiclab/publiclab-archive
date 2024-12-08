@@ -1,6 +1,6 @@
 # cd
 
-6 notes and wiki pages
+6 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Spectral Workbench calibration](/wiki/spectral-workbench-calibration) (wiki)
 - [Diffraction gratings](/wiki/diffraction-gratings) (wiki)

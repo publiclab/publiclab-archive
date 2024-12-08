@@ -1,12 +1,18 @@
 ---
-nid: 169
 title: Spectrometry UROP 4/8/11 update
-path: public/static/notes/alex-mccarthy/4-8-2011/spectrometry-urop-4811-update.md
+tagnames: spectrometer, uv, fluorescence, pah
+author: Alex-McCarthy
+path: /notes/alex-mccarthy/4-8-2011/spectrometry-urop-4811-update.md
+nid: 169
 uid: 125
-tagnames: spectrometer,uv,fluorescence,pah
+
 ---
 
 # Spectrometry UROP 4/8/11 update
+
+by [Alex-McCarthy](../profile/Alex-McCarthy) April 09, 2011 00:42
+
+April 09, 2011 00:42 | Tags: [spectrometer](../tag/spectrometer), [uv](../tag/uv), [fluorescence](../tag/fluorescence), [pah](../tag/pah)
 
 Today was my first day of "real" work on my research. I am working towards the basic goals I outlined in my  <a href="http://publiclaboratory.org/notes/alex-mccarthy/4-5-2011/spectrometry-1st-week-plan">1st week plan</a>
 Before I can actauly try to obtain any quantitative data, I needed to find a way to take consistent photographs of spectrum. This was difficult with the <a href="http://publiclaboratory.org/tool/spectrometer">current design</a> for two reasons: the camera was not rigidly mounted to the spectrometer, and there was alot of light pollution in the device. I build a simple <a href="https://picasaweb.google.com/104647791428259934971/SpectrometryUROP#5593369463153730722">spectrometer 1.0</a> with the tube being a roll of dark card stock, the same diameter as the camera lens assembly. This did mostly solve the problem of light pollution, but the assembly was still not rigid, so I could not take reproducible pictures. I did manage to take a picture of the spectra of an <a href="https://picasaweb.google.com/104647791428259934971/SpectrometryUROP#5593369456955671810">incandescent</a> and a <a href="https://picasaweb.google.com/104647791428259934971/SpectrometryUROP#5593370669303602066"> fluorescent</a> bulb. 

@@ -1,6 +1,6 @@
 # diybio
 
-5 notes and wiki pages
+5 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [microbes](/wiki/microbes) (wiki)
 - [Photosynq - measuring plant health across the world](/notes/gbathree/3-26-2013/photosynq-measuring-plant-health-across-world) by [gbathree](../profile/gbathree)

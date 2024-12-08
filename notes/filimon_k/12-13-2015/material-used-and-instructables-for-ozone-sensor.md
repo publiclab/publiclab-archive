@@ -1,12 +1,18 @@
 ---
-nid: 12510
 title: Material used and instructables (for ozone sensor)
-path: public/static/notes/filimon_k/12-13-2015/material-used-and-instructables-for-ozone-sensor.md
-uid: 460113
 tagnames: 
+author: filimon_k
+path: /notes/filimon_k/12-13-2015/material-used-and-instructables-for-ozone-sensor.md
+nid: 12510
+uid: 460113
+
 ---
 
 # Material used and instructables (for ozone sensor)
+
+by [filimon_k](../profile/filimon_k) December 13, 2015 20:20
+
+December 13, 2015 20:20 | Tags: 
 
 Ozone sensor:
 1) Equipment used: 

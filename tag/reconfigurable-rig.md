@@ -1,6 +1,6 @@
 # reconfigurable-rig
 
-13 notes and wiki pages
+13 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Silly Putty KAP Rig](/notes/ranon/06-13-2016/silly-putty-kap-rig) by [ranon](../profile/ranon)
 - [Plastic Tubing Oblique KAP Rig](/notes/ranon/06-22-2016/plastic-tubing-oblique-kap-rig) by [ranon](../profile/ranon)

@@ -1,12 +1,18 @@
 ---
-nid: 11970
 title: Raspberry Pi as Marine Traffic Radar
-path: public/static/notes/ajawitz/06-11-2015/raspberry-pi-as-marine-traffic-radar.md
+tagnames: gulf-coast, software, transportation, open-water, pi, traffic, raspberry, rtl-sdr, ship_tracking, defined, radio, sdr, activity:transportation
+author: ajawitz
+path: /notes/ajawitz/06-11-2015/raspberry-pi-as-marine-traffic-radar.md
+nid: 11970
 uid: 294634
-tagnames: gulf-coast,software,transportation,open-water,pi,traffic,raspberry,rtl-sdr,ship_tracking,defined,radio,sdr,activity:transportation
+
 ---
 
 # Raspberry Pi as Marine Traffic Radar
+
+by [ajawitz](../profile/ajawitz) June 11, 2015 05:08
+
+June 11, 2015 05:08 | Tags: [gulf-coast](../tag/gulf-coast), [software](../tag/software), [transportation](../tag/transportation), [open-water](../tag/open-water), [pi](../tag/pi), [traffic](../tag/traffic), [raspberry](../tag/raspberry), [rtl-sdr](../tag/rtl-sdr), [ship_tracking](../tag/ship_tracking), [defined](../tag/defined), [radio](../tag/radio), [sdr](../tag/sdr), [activity:transportation](../tag/activity:transportation)
 
 ###What I want to do
   I want to monitor and log commercial marine traffic using a Raspberry Pi as a "Software Defined Radio" with a low-cost digital tuner called the RTL-SDR.  If successful, such a device could be deployed in locations such as the Gulf Coast in order to provide a comprehensive database of vessel locations which can be cross-referenced with data from other environmental sensors.

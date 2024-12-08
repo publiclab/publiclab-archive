@@ -1,12 +1,18 @@
 ---
-nid: 14240
 title: Aerial Observation of North and South Facing Slope Ecologies
-path: public/static/notes/aerialmapping123/05-30-2017/aerial-observation-of-north-and-south-facing-slope-ecologies.md
+tagnames: balloon-mapping, event, hidden:response, response:14179
+author: aerialmapping123
+path: /notes/aerialmapping123/05-30-2017/aerial-observation-of-north-and-south-facing-slope-ecologies.md
+nid: 14240
 uid: 508245
-tagnames: balloon-mapping,event,hidden:response,response:14179
+
 ---
 
 # Aerial Observation of North and South Facing Slope Ecologies
+
+by [aerialmapping123](../profile/aerialmapping123) May 30, 2017 16:09
+
+May 30, 2017 16:09 | Tags: [balloon-mapping](../tag/balloon-mapping), [event](../tag/event), [hidden:response](../tag/hidden:response), [response:14179](../tag/response:14179)
 
 # Elias, Sarah, Apple, Edel
 

@@ -1,12 +1,18 @@
 ---
-nid: 18129
 title: What do you think about this design for the /people page?
-path: public/static/notes/edie_blues/01-16-2019/what-do-you-think-about-this-design-for-the-people-page.md
+tagnames: design, ui, ui-designs
+author: edie_blues
+path: /notes/edie_blues/01-16-2019/what-do-you-think-about-this-design-for-the-people-page.md
+nid: 18129
 uid: 552521
-tagnames: design,ui,ui-designs
+
 ---
 
 # What do you think about this design for the /people page?
+
+by [edie_blues](../profile/edie_blues) January 16, 2019 21:00
+
+January 16, 2019 21:00 | Tags: [design](../tag/design), [ui](../tag/ui), [ui-designs](../tag/ui-designs)
 
 ******
 

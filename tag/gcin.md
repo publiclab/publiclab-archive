@@ -1,6 +1,6 @@
 # gcin
 
-6 notes and wiki pages
+6 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Study on the spectra observed from a homemade spectroscope](/notes/Karmanya/12-19-2016/study-on-the-spectra-observed-from-a-homemade-spectroscope) by [Karmanya](../profile/Karmanya)
 - [Transifex Internationalisation of Publiclab.org](/notes/pipix51/12-27-2016/transifex-internationalisation-of-publiclab-org) by [pipix51](../profile/pipix51)

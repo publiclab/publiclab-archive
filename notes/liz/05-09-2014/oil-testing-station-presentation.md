@@ -1,12 +1,18 @@
 ---
-nid: 10459
 title: oil testing station presentation
-path: public/static/notes/liz/05-09-2014/oil-testing-station-presentation.md
+tagnames: presentations, presentation, oil-testing
+author: liz
+path: /notes/liz/05-09-2014/oil-testing-station-presentation.md
+nid: 10459
 uid: 7
-tagnames: presentations,presentation,oil-testing
+
 ---
 
 # oil testing station presentation
+
+by [liz](../profile/liz) May 09, 2014 21:24
+
+May 09, 2014 21:24 | Tags: [presentations](../tag/presentations), [presentation](../tag/presentation), [oil-testing](../tag/oil-testing)
 
 Illustration by Jeff Warren
 

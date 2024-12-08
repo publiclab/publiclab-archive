@@ -1,6 +1,6 @@
 # mn-land-manoomin-protection
 
-27 notes and wiki pages
+27 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Announcing New Fellowship Team: Minnesota Land and Wild Rice Protection Project](/notes/stevie/04-06-2022/announcing-new-fellowship-team-minnesota-land-and-wild-rice-protection-project) by [stevie](../profile/stevie)
 - [Minnesota Land and Manoomin Protection Project](/wiki/minnesota-land-and-manoomin-protection-project) (wiki)

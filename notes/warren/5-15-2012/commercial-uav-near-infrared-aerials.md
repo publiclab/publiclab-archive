@@ -1,12 +1,18 @@
 ---
-nid: 1990
 title: Commercial UAV near-infrared aerials
-path: public/static/notes/warren/5-15-2012/commercial-uav-near-infrared-aerials.md
-uid: 1
 tagnames: near-infrared-camera
+author: warren
+path: /notes/warren/5-15-2012/commercial-uav-near-infrared-aerials.md
+nid: 1990
+uid: 1
+
 ---
 
 # Commercial UAV near-infrared aerials
+
+by [warren](../profile/warren) May 15, 2012 13:45
+
+May 15, 2012 13:45 | Tags: [near-infrared-camera](../tag/near-infrared-camera)
 
 Good to see what commercial companies are doing with NIR:
 

@@ -1,12 +1,18 @@
 ---
-nid: 11559
 title: Public Lab Australia? 
-path: public/static/notes/cobi/02-07-2015/public-lab-australia.md
+tagnames: australia, first-time-poster, oceania
+author: cobi
+path: /notes/cobi/02-07-2015/public-lab-australia.md
+nid: 11559
 uid: 427829
-tagnames: australia,first-time-poster,oceania
+
 ---
 
 # Public Lab Australia? 
+
+by [cobi](../profile/cobi) February 07, 2015 05:45
+
+February 07, 2015 05:45 | Tags: [australia](../tag/australia), [first-time-poster](../tag/first-time-poster), [oceania](../tag/oceania)
 
 ### Update: [publiclab.org/wiki/australia](http://publiclab.org/wiki/australia) now exists :) 
 

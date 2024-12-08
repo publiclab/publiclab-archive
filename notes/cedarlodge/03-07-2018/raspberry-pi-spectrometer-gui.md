@@ -1,12 +1,18 @@
 ---
-nid: 15880
 title: Raspberry Pi spectrometer GUI
-path: public/static/notes/cedarlodge/03-07-2018/raspberry-pi-spectrometer-gui.md
+tagnames: spectrometry, raspberry-pi, barnstar:basic, seeks:replications, activity:raspberry-pi, activity:lego-spectrometer, lego-spectrometer
+author: cedarlodge
+path: /notes/cedarlodge/03-07-2018/raspberry-pi-spectrometer-gui.md
+nid: 15880
 uid: 523507
-tagnames: spectrometry,raspberry-pi,barnstar:basic,seeks:replications,activity:raspberry-pi,activity:lego-spectrometer,lego-spectrometer
+
 ---
 
 # Raspberry Pi spectrometer GUI
+
+by [cedarlodge](../profile/cedarlodge) March 07, 2018 16:12
+
+March 07, 2018 16:12 | Tags: [spectrometry](../tag/spectrometry), [raspberry-pi](../tag/raspberry-pi), [barnstar:basic](../tag/barnstar:basic), [seeks:replications](../tag/seeks:replications), [activity:raspberry-pi](../tag/activity:raspberry-pi), [activity:lego-spectrometer](../tag/activity:lego-spectrometer), [lego-spectrometer](../tag/lego-spectrometer)
 
 \*\*\*Update\*\*\*
 

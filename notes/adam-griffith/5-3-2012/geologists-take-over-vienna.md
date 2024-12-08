@@ -1,12 +1,18 @@
 ---
-nid: 1905
 title: Geologists take over Vienna
-path: public/static/notes/adam-griffith/5-3-2012/geologists-take-over-vienna.md
+tagnames: spectrometer, image-compositing, image-stitching, conferences
+author: adam-griffith
+path: /notes/adam-griffith/5-3-2012/geologists-take-over-vienna.md
+nid: 1905
 uid: 3
-tagnames: spectrometer,image-compositing,image-stitching,conferences
+
 ---
 
 # Geologists take over Vienna
+
+by [adam-griffith](../profile/adam-griffith) May 03, 2012 19:25
+
+May 03, 2012 19:25 | Tags: [spectrometer](../tag/spectrometer), [image-compositing](../tag/image-compositing), [image-stitching](../tag/image-stitching), [conferences](../tag/conferences)
 
 Nearly 10,000 scientists gathered in Vienna at the end of April for the annual meeting of the European Geosciences Union and I was fortunate enough to represent the Public Laboratory.  The PLOTS presentation entitled “Complete data lifecycles and citizen science integration via the Public Laboratory” generated quite a bit of interest from geomorphologists to seismologists.  Some scientists asked about how they could gather their own aerial imagery, but the vast majority of interest was in the open source nature of our data sharing.  Our data flow is distinct from traditional data sharing structures common to higher education, industry, government, and many non-profits: we want people to have our data.
 

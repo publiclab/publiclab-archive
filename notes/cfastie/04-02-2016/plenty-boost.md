@@ -1,12 +1,18 @@
 ---
-nid: 12906
 title: Plenty boost
-path: public/static/notes/cfastie/04-02-2016/plenty-boost.md
+tagnames: kite-mapping, arduino, vermont, kite, saturnv, skyshield, response:12330, voltage, battery
+author: cfastie
+path: /notes/cfastie/04-02-2016/plenty-boost.md
+nid: 12906
 uid: 554
-tagnames: kite-mapping,arduino,vermont,kite,saturnv,skyshield,response:12330,voltage,battery
+
 ---
 
 # Plenty boost
+
+by [cfastie](../profile/cfastie) April 02, 2016 04:24
+
+April 02, 2016 04:24 | Tags: [kite-mapping](../tag/kite-mapping), [arduino](../tag/arduino), [vermont](../tag/vermont), [kite](../tag/kite), [saturnv](../tag/saturnv), [skyshield](../tag/skyshield), [response:12330](../tag/response:12330), [voltage](../tag/voltage), [battery](../tag/battery)
 
 Switching regulators can change the voltage supplied by a battery to a higher or lower level. There are a few recent research notes ([here](https://publiclab.org/notes/donblair/03-23-2016/ttl-serial-jpeg-cameras-microcontrollers), [here](https://publiclab.org/notes/tonyc/03-22-2016/using-mobius-camera-as-a-trap-cam-in-field-deployments)) with examples of how this could be a handy thing, and I have wondered whether it would allow the [Saturn V Rig](http://kaptery.com/product/saturn-v-rig) to [fly with fewer batteries](https://publiclab.org/notes/cfastie/10-23-2015/power-to-the-skyshield).
 

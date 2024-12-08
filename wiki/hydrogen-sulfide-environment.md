@@ -1,12 +1,18 @@
 ---
-nid: 14966
 title: Hydrogen Sulfide in the Environment
-path: public/static/wiki/hydrogen-sulfide-environment.md
+tagnames: hydrogen-sulfide, h2s, parent:hydrogen-sulfide
+author: gretchengehrke
+path: /wiki/hydrogen-sulfide-environment.md
+nid: 14966
 uid: 430549
-tagnames: hydrogen-sulfide,h2s,parent:hydrogen-sulfide
+
 ---
 
 # Hydrogen Sulfide in the Environment
+
+by [gretchengehrke](../profile/gretchengehrke)
+
+September 28, 2017 17:15 | Tags: [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s), [parent:hydrogen-sulfide](../tag/parent:hydrogen-sulfide)
 
 This is a page about hydrogen sulfide spatial and temporal variation in the environment.
 

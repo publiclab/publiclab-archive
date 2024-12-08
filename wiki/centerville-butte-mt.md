@@ -1,12 +1,18 @@
 ---
-nid: 656
 title: Centerville, Butte, MT
-path: public/static/wiki/centerville-butte-mt.md
-uid: 9
 tagnames: 
+author: Shannon
+path: /wiki/centerville-butte-mt.md
+nid: 656
+uid: 9
+
 ---
 
 # Centerville, Butte, MT
+
+by [moparmusclecars](../profile/moparmusclecars), [Shannon](../profile/Shannon)
+
+December 22, 2011 18:36 | Tags: 
 
 ##A Short History of the Centerville Neighborhood##
 

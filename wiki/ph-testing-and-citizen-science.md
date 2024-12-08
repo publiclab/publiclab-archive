@@ -1,12 +1,18 @@
 ---
-nid: 15293
 title: pH Testing and Citizen Science
-path: public/static/wiki/ph-testing-and-citizen-science.md
+tagnames: citizen-science, water-quality-monitoring, ph, water-sensors, water-quality-testing
+author: gilbert
+path: /wiki/ph-testing-and-citizen-science.md
+nid: 15293
 uid: 508551
-tagnames: citizen-science,water-quality-monitoring,ph,water-sensors,water-quality-testing
+
 ---
 
 # pH Testing and Citizen Science
+
+by [gilbert](../profile/gilbert)
+
+December 04, 2017 14:42 | Tags: [citizen-science](../tag/citizen-science), [water-quality-monitoring](../tag/water-quality-monitoring), [ph](../tag/ph), [water-sensors](../tag/water-sensors), [water-quality-testing](../tag/water-quality-testing)
 
  [Photo: Søren Peder Lauritz Sørensen- Chemist who developed the pH Scale in 1909. Source: Carlsberg Lab Archives]
 

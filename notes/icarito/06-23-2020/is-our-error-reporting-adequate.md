@@ -1,12 +1,18 @@
 ---
-nid: 24022
 title: Is our error reporting adequate?
-path: public/static/notes/icarito/06-23-2020/is-our-error-reporting-adequate.md
+tagnames: website, question:website
+author: icarito
+path: /notes/icarito/06-23-2020/is-our-error-reporting-adequate.md
+nid: 24022
 uid: 448589
-tagnames: website,question:website
+
 ---
 
 # Is our error reporting adequate?
+
+by [icarito](../profile/icarito) June 23, 2020 15:54
+
+June 23, 2020 15:54 | Tags: [website](../tag/website), [question:website](../tag/question:website)
 
 We've had some reports about issues when posting to the site, but no automated alerts.
 

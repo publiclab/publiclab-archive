@@ -1,12 +1,18 @@
 ---
-nid: 13253
 title: Capturing location information with trap cam
-path: public/static/notes/tonyc/07-01-2016/capturing-location-information-with-trap-cam.md
+tagnames: timelapse, metadata, geo-tagging, trapcam, geolocation, chain-of-custody
+author: tonyc
+path: /notes/tonyc/07-01-2016/capturing-location-information-with-trap-cam.md
+nid: 13253
 uid: 447491
-tagnames: timelapse,metadata,geo-tagging,trapcam,geolocation,chain-of-custody
+
 ---
 
 # Capturing location information with trap cam
+
+by [tonyc](../profile/tonyc) July 01, 2016 19:20
+
+July 01, 2016 19:20 | Tags: [timelapse](../tag/timelapse), [metadata](../tag/metadata), [geo-tagging](../tag/geo-tagging), [trapcam](../tag/trapcam), [geolocation](../tag/geolocation), [chain-of-custody](../tag/chain-of-custody)
 
 ###What I want to do
 Capture location information in a defensible way, using basic mobius camera configuration.

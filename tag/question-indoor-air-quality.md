@@ -1,6 +1,6 @@
 # question-indoor-air-quality
 
-13 notes and wiki pages
+13 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [In the plant based air purifier, could airflow go the other way, using an unmodified pump?](/notes/warren/10-08-2016/in-the-plant-based-air-purifier-could-airflow-go-the-other-way-using-an-unmodified-pump) by [warren](../profile/warren)
 - [What is the best options for mold testing?](/notes/nshapiro/11-16-2016/what-is-the-best-options-for-mold-testing) by [nshapiro](../profile/nshapiro)

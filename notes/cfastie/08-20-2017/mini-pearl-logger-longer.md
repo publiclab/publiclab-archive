@@ -1,12 +1,18 @@
 ---
-nid: 14774
 title: Mini Pearl Logger longer
-path: public/static/notes/cfastie/08-20-2017/mini-pearl-logger-longer.md
+tagnames: arduino, sensors, data-logging, bme280, arduino-pro-mini, mcp9808, activity:data-logging, mini-pearl-logger, response:14598, mini-pearl, activity:mini-pearl-logger
+author: cfastie
+path: /notes/cfastie/08-20-2017/mini-pearl-logger-longer.md
+nid: 14774
 uid: 554
-tagnames: arduino,sensors,data-logging,bme280,arduino-pro-mini,mcp9808,activity:data-logging,mini-pearl-logger,response:14598,mini-pearl,activity:mini-pearl-logger
+
 ---
 
 # Mini Pearl Logger longer
+
+by [cfastie](../profile/cfastie) August 20, 2017 03:17
+
+August 20, 2017 03:17 | Tags: [arduino](../tag/arduino), [sensors](../tag/sensors), [data-logging](../tag/data-logging), [bme280](../tag/bme280), [arduino-pro-mini](../tag/arduino-pro-mini), [mcp9808](../tag/mcp9808), [activity:data-logging](../tag/activity:data-logging), [mini-pearl-logger](../tag/mini-pearl-logger), [response:14598](../tag/response:14598), [mini-pearl](../tag/mini-pearl), [activity:mini-pearl-logger](../tag/activity:mini-pearl-logger)
 
 I made some incremental progress getting the Mini Pearl Logger to log data for more than two weeks on a set of batteries. But the longevity increased only to three weeks, so there is lots more work to do.
 

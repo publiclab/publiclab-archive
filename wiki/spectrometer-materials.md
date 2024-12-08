@@ -1,12 +1,18 @@
 ---
-nid: 3561
 title: Spectrometer materials list
-path: public/static/wiki/spectrometer-materials.md
+tagnames: spectrometer, kickstarter, materials
+author: warren
+path: /wiki/spectrometer-materials.md
+nid: 3561
 uid: 1
-tagnames: spectrometer,kickstarter,materials
+
 ---
 
 # Spectrometer materials list
+
+by [warren](../profile/warren), [gonzoearth](../profile/gonzoearth)
+
+August 29, 2012 19:35 | Tags: [spectrometer](../tag/spectrometer), [kickstarter](../tag/kickstarter), [materials](../tag/materials)
 
 Page for organizing parts lists and instructions for the "countertop spectrometer" on Kickstarter
 

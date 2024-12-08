@@ -1,12 +1,18 @@
 ---
-nid: 13137
 title: Riffle (and Arduino) first impressions - notes
-path: public/static/notes/pdhixenbaugh/05-22-2016/riffle-and-arduino-first-impressions-notes.md
+tagnames: documentation, github, draft, riffle-beta, first-time-poster
+author: pdhixenbaugh
+path: /notes/pdhixenbaugh/05-22-2016/riffle-and-arduino-first-impressions-notes.md
+nid: 13137
 uid: 459085
-tagnames: documentation,github,draft,riffle-beta,first-time-poster
+
 ---
 
 # Riffle (and Arduino) first impressions - notes
+
+by [pdhixenbaugh](../profile/pdhixenbaugh) May 22, 2016 19:34
+
+May 22, 2016 19:34 | Tags: [documentation](../tag/documentation), [github](../tag/github), [draft](../tag/draft), [riffle-beta](../tag/riffle-beta), [first-time-poster](../tag/first-time-poster)
 
 ###What I want to do
 

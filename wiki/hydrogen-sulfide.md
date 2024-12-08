@@ -1,12 +1,18 @@
 ---
-nid: 476
 title: Hydrogen Sulfide
-path: public/static/wiki/hydrogen-sulfide.md
+tagnames: arduino, hydrogen-sulfide, air-quality, h2s, odors, h2s-sites:, h2s-sites, parent:air-quality, h2s-overview, neurotoxin, odorless
+author: warren
+path: /wiki/hydrogen-sulfide.md
+nid: 476
 uid: 1
-tagnames: arduino,hydrogen-sulfide,air-quality,h2s,odors,h2s-sites:,h2s-sites,parent:air-quality,h2s-overview,neurotoxin,odorless
+
 ---
 
 # Hydrogen Sulfide
+
+by [warren](../profile/warren), [Gaurav](../profile/Gaurav), [gretchengehrke](../profile/gretchengehrke), [stevie](../profile/stevie), [liz](../profile/liz)
+
+September 21, 2011 21:24 | Tags: [arduino](../tag/arduino), [hydrogen-sulfide](../tag/hydrogen-sulfide), [air-quality](../tag/air-quality), [h2s](../tag/h2s), [odors](../tag/odors), [h2s-sites:](../tag/h2s-sites:), [h2s-sites](../tag/h2s-sites), [parent:air-quality](../tag/parent:air-quality), [h2s-overview](../tag/h2s-overview), [neurotoxin](../tag/neurotoxin), [odorless](../tag/odorless)
 
 _This is the organizing page for research related to hydrogen sulfide in Public Lab._
 

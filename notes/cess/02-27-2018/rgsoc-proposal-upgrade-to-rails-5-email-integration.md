@@ -1,12 +1,18 @@
 ---
-nid: 15823
 title: RGSoC proposal: Upgrade to Rails 5 
-path: public/static/notes/cess/02-27-2018/rgsoc-proposal-upgrade-to-rails-5-email-integration.md
+tagnames: software, gsoc, soc, response:13975, gsoc-2018, soc-2018, rgsoc-2018, soc-2018-proposals, first-time-poster
+author: cess
+path: /notes/cess/02-27-2018/rgsoc-proposal-upgrade-to-rails-5-email-integration.md
+nid: 15823
 uid: 525958
-tagnames: software,gsoc,soc,response:13975,gsoc-2018,soc-2018,rgsoc-2018,soc-2018-proposals,first-time-poster
+
 ---
 
 # RGSoC proposal: Upgrade to Rails 5 
+
+by [cess](../profile/cess) February 27, 2018 07:22
+
+February 27, 2018 07:22 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [soc](../tag/soc), [response:13975](../tag/response:13975), [gsoc-2018](../tag/gsoc-2018), [soc-2018](../tag/soc-2018), [rgsoc-2018](../tag/rgsoc-2018), [soc-2018-proposals](../tag/soc-2018-proposals), [first-time-poster](../tag/first-time-poster)
 
 ---------
 

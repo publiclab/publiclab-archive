@@ -1,12 +1,18 @@
 ---
-nid: 14625
 title: Scissors-only build of wider papercraft spectrometer
-path: public/static/notes/warren/07-06-2017/scissors-only-build-of-wider-papercraft-spectrometer.md
+tagnames: spectrometer, spectrometry, fold-up-mini-spectrometer, instructions, foldable, papercraft, foldable-spectrometer, printability, glue, foldable-spec, build:13076
+author: warren
+path: /notes/warren/07-06-2017/scissors-only-build-of-wider-papercraft-spectrometer.md
+nid: 14625
 uid: 1
-tagnames: spectrometer,spectrometry,fold-up-mini-spectrometer,instructions,foldable,papercraft,foldable-spectrometer,printability,glue,foldable-spec,build:13076
+
 ---
 
 # Scissors-only build of wider papercraft spectrometer
+
+by [warren](../profile/warren) July 06, 2017 16:42
+
+July 06, 2017 16:42 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [fold-up-mini-spectrometer](../tag/fold-up-mini-spectrometer), [instructions](../tag/instructions), [foldable](../tag/foldable), [papercraft](../tag/papercraft), [foldable-spectrometer](../tag/foldable-spectrometer), [printability](../tag/printability), [glue](../tag/glue), [foldable-spec](../tag/foldable-spec), [build:13076](../tag/build:13076)
 
 I worked a bit on an easier-to-cut-with-scissors process for this [modification to the papercraft spectrometer](https://publiclab.org/notes/warren/05-04-2016/tweaks-to-foldable-mini-spectrometer-design) (vs. [the version in the store now](https://publiclab.myshopify.com/collections/spectrometry/products/foldable-mini-spectrometer)); since this is the "introductory" design intended to onboard newcomers to the project, I'm looking for ways to make it as easy as possible to build. Here are the photos!
 

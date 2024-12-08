@@ -1,12 +1,18 @@
 ---
-nid: 20777
 title: Congratulations to our 2019 Outreachy and Google Summer of Code team!
-path: public/static/notes/warren/09-05-2019/congratulations-to-our-2019-outreachy-and-google-summer-of-code-team.md
+tagnames: gsoc, blog, code, wwg, soc, outreachy, gsoc-2019, soc-2019, outreachy-2019, gsoc-2019-final-report
+author: warren
+path: /notes/warren/09-05-2019/congratulations-to-our-2019-outreachy-and-google-summer-of-code-team.md
+nid: 20777
 uid: 1
-tagnames: gsoc,blog,code,wwg,soc,outreachy,gsoc-2019,soc-2019,outreachy-2019,gsoc-2019-final-report
+
 ---
 
 # Congratulations to our 2019 Outreachy and Google Summer of Code team!
+
+by [warren](../profile/warren) September 05, 2019 19:17
+
+September 05, 2019 19:17 | Tags: [gsoc](../tag/gsoc), [blog](../tag/blog), [code](../tag/code), [wwg](../tag/wwg), [soc](../tag/soc), [outreachy](../tag/outreachy), [gsoc-2019](../tag/gsoc-2019), [soc-2019](../tag/soc-2019), [outreachy-2019](../tag/outreachy-2019), [gsoc-2019-final-report](../tag/gsoc-2019-final-report)
 
 This week, we wrapped up our 2019 Outreachy and Google Summer of Code with the largest team of fellows ever -- 15, with two joining via Outreachy and 13 via GSoC. We also had our most successful summer ever, with a huge number of amazing projects and some incredible collaborations. 
 

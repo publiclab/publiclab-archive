@@ -1,12 +1,18 @@
 ---
-nid: 22
 title: Balloon & Kite Mapping
-path: public/static/wiki/balloon-mapping.md
+tagnames: balloon-mapping, agriculture, list:grassrootsmapping, transportation, mining, urban-planning, proven-in-the-field, fracking, tool, land-use, industry, parent:aerial-photography, method, land-change, oil-and-gas, location:blurred, zoom:15, lat:48.19, lon:11.6, place:lindberghstra-e-18-80939-m-nchen-germany
+author: warren
+path: /wiki/balloon-mapping.md
+nid: 22
 uid: 1
-tagnames: balloon-mapping,agriculture,list:grassrootsmapping,transportation,mining,urban-planning,proven-in-the-field,fracking,tool,land-use,industry,parent:aerial-photography,method,land-change,oil-and-gas,location:blurred,zoom:15,lat:48.19,lon:11.6,place:lindberghstra-e-18-80939-m-nchen-germany
+
 ---
 
 # Balloon & Kite Mapping
+
+by [imvec](../profile/imvec), [stevie](../profile/stevie), [warren](../profile/warren), [liz](../profile/liz), [mathew](../profile/mathew), [Arnaud](../profile/Arnaud), [gonzoearth](../profile/gonzoearth), [Shannon](../profile/Shannon), [MicheleTobias](../profile/MicheleTobias)
+
+December 10, 2010 18:53 | Tags: [balloon-mapping](../tag/balloon-mapping), [agriculture](../tag/agriculture), [list:grassrootsmapping](../tag/list:grassrootsmapping), [transportation](../tag/transportation), [mining](../tag/mining), [urban-planning](../tag/urban-planning), [proven-in-the-field](../tag/proven-in-the-field), [fracking](../tag/fracking), [tool](../tag/tool), [land-use](../tag/land-use), [industry](../tag/industry), [parent:aerial-photography](../tag/parent:aerial-photography), [method](../tag/method), [land-change](../tag/land-change), [oil-and-gas](../tag/oil-and-gas), [location:blurred](../tag/location:blurred), [zoom:15](../tag/zoom:15), [lat:48.19](../tag/lat:48.19), [lon:11.6](../tag/lon:11.6), [place:lindberghstra-e-18-80939-m-nchen-germany](../tag/place:lindberghstra-e-18-80939-m-nchen-germany)
 
 Balloon mapping is a low-cost way to take aerial photos using a camera, attached to a balloon, on a spool of string. People have done this from a few hundred feet up all the way to over 4,000 feet in the air. 
 

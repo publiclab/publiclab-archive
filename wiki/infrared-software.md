@@ -1,12 +1,18 @@
 ---
-nid: 15084
 title: Infrared Software
-path: public/static/wiki/infrared-software.md
-uid: 1
 tagnames: 
+author: warren
+path: /wiki/infrared-software.md
+nid: 15084
+uid: 1
+
 ---
 
 # Infrared Software
+
+by [warren](../profile/warren)
+
+October 23, 2017 19:04 | Tags: 
 
 There are lots of ways to process infrared imagery to analyze plant health. Here are a few:
 

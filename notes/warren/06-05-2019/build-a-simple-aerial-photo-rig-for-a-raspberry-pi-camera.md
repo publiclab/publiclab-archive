@@ -1,12 +1,18 @@
 ---
-nid: 19620
 title: Build a simple aerial photo rig for a Raspberry Pi camera
-path: public/static/notes/warren/06-05-2019/build-a-simple-aerial-photo-rig-for-a-raspberry-pi-camera.md
+tagnames: balloon-mapping, kite-mapping, raspberry-pi, aerial-mapping, pi-camera, aren, activity:pi-camera, pi-builder, infragram-pi, community-atlas, activity:infragram-pi, activity:pi-camera-setup, pin:activity:infragram-pi, pin:activity:pi-camera
+author: warren
+path: /notes/warren/06-05-2019/build-a-simple-aerial-photo-rig-for-a-raspberry-pi-camera.md
+nid: 19620
 uid: 1
-tagnames: balloon-mapping,kite-mapping,raspberry-pi,aerial-mapping,pi-camera,aren,activity:pi-camera,pi-builder,infragram-pi,community-atlas,activity:infragram-pi,activity:pi-camera-setup,pin:activity:infragram-pi,pin:activity:pi-camera
+
 ---
 
 # Build a simple aerial photo rig for a Raspberry Pi camera
+
+by [warren](../profile/warren) June 05, 2019 21:20
+
+June 05, 2019 21:20 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [raspberry-pi](../tag/raspberry-pi), [aerial-mapping](../tag/aerial-mapping), [pi-camera](../tag/pi-camera), [aren](../tag/aren), [activity:pi-camera](../tag/activity:pi-camera), [pi-builder](../tag/pi-builder), [infragram-pi](../tag/infragram-pi), [community-atlas](../tag/community-atlas), [activity:infragram-pi](../tag/activity:infragram-pi), [activity:pi-camera-setup](../tag/activity:pi-camera-setup), [pin:activity:infragram-pi](../tag/pin:activity:infragram-pi), [pin:activity:pi-camera](../tag/pin:activity:pi-camera)
 
 Folks have been using Raspberry Pi Zero boards with cameras as aerial photography setups more and more recently. Our #pi-builder software has made getting started really easy - just put in the card, plug in the camera and battery, and it starts up a WiFi network; you can start a timelapse by connecting to it from a smartphone or laptop. 
 

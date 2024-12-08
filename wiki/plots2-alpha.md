@@ -1,12 +1,18 @@
 ---
-nid: 4847
 title: plots2 Alpha
-path: public/static/wiki/plots2-alpha.md
+tagnames: website, plots2, alphatest
+author: warren
+path: /wiki/plots2-alpha.md
+nid: 4847
 uid: 1
-tagnames: website,plots2,alphatest
+
 ---
 
 # plots2 Alpha
+
+by [warren](../profile/warren), [liz](../profile/liz)
+
+November 09, 2012 10:10 | Tags: [website](../tag/website), [plots2](../tag/plots2), [alphatest](../tag/alphatest)
 
 The plots-alpha mailing list is for a group of volunteers to be involved in designing, testing and providing feedback on the [new Public Lab 2.0 website](/wiki/plots2). 
 

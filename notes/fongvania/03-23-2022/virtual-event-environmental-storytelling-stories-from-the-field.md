@@ -1,12 +1,18 @@
 ---
-nid: 30180
 title: Virtual Event: Environmental Storytelling - Stories from the Field
-path: public/static/notes/fongvania/03-23-2022/virtual-event-environmental-storytelling-stories-from-the-field.md
+tagnames: event, refinery, art, event:rsvp, rsvp:liz, advocacy, storytelling, virtual, artivism, rsvp:bhamster, research-curation-fellows-event, bioindicators, rsvp:jordanyjackson, date:04-14-2022, rsvp:catherine_m_d_booth, rsvp:mjabot, rsvp:ierealy, rsvp:jessicajewell, rsvp:lb3124, rsvp:julbusk, rsvp:fongvania
+author: fongvania
+path: /notes/fongvania/03-23-2022/virtual-event-environmental-storytelling-stories-from-the-field.md
+nid: 30180
 uid: 754846
-tagnames: event,refinery,art,event:rsvp,rsvp:liz,advocacy,storytelling,virtual,artivism,rsvp:bhamster,research-curation-fellows-event,bioindicators,rsvp:jordanyjackson,date:04-14-2022,rsvp:catherine_m_d_booth,rsvp:mjabot,rsvp:ierealy,rsvp:jessicajewell,rsvp:lb3124,rsvp:julbusk,rsvp:fongvania
+
 ---
 
 # Virtual Event: Environmental Storytelling - Stories from the Field
+
+by [fongvania](../profile/fongvania) March 23, 2022 19:27
+
+March 23, 2022 19:27 | Tags: [event](../tag/event), [refinery](../tag/refinery), [art](../tag/art), [event:rsvp](../tag/event:rsvp), [rsvp:liz](../tag/rsvp:liz), [advocacy](../tag/advocacy), [storytelling](../tag/storytelling), [virtual](../tag/virtual), [artivism](../tag/artivism), [rsvp:bhamster](../tag/rsvp:bhamster), [research-curation-fellows-event](../tag/research-curation-fellows-event), [bioindicators](../tag/bioindicators), [rsvp:jordanyjackson](../tag/rsvp:jordanyjackson), [date:04-14-2022](../tag/date:04-14-2022), [rsvp:catherine_m_d_booth](../tag/rsvp:catherine_m_d_booth), [rsvp:mjabot](../tag/rsvp:mjabot), [rsvp:ierealy](../tag/rsvp:ierealy), [rsvp:jessicajewell](../tag/rsvp:jessicajewell), [rsvp:lb3124](../tag/rsvp:lb3124), [rsvp:julbusk](../tag/rsvp:julbusk), [rsvp:fongvania](../tag/rsvp:fongvania)
 
 In this virtual event, we will introduce the role of storytelling in community science and environmental advocacy, and invite artists, storytellers, researchers, and creators centering environmental stories in their work to share their projects and insights into their creative process. 
 

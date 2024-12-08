@@ -1,12 +1,18 @@
 ---
-nid: 11181
 title: Autonomous Recording Unit
-path: public/static/wiki/autonomous-recording-unit.md
+tagnames: arduino, research, environment, audio, data-logging, parent:data-logging
+author: babailey
+path: /wiki/autonomous-recording-unit.md
+nid: 11181
 uid: 428915
-tagnames: arduino,research,environment,audio,data-logging,parent:data-logging
+
 ---
 
 # Autonomous Recording Unit
+
+by [warren](../profile/warren), [babailey](../profile/babailey)
+
+September 24, 2014 15:28 | Tags: [arduino](../tag/arduino), [research](../tag/research), [environment](../tag/environment), [audio](../tag/audio), [data-logging](../tag/data-logging), [parent:data-logging](../tag/parent:data-logging)
 
 **Current Project Phase: Prototyping & Design Improvement**
 

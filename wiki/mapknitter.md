@@ -1,12 +1,18 @@
 ---
-nid: 467
 title: MapKnitter
-path: public/static/wiki/mapknitter.md
+tagnames: balloon-mapping, kite-mapping, mapknitter, gps, software, needs-revision, tool, gps-autoplace, method, location:blurred, lat:1, activities:mapknitter, questions:mapknitter, lon:9
+author: gonzoearth
+path: /wiki/mapknitter.md
+nid: 467
 uid: 12
-tagnames: balloon-mapping,kite-mapping,mapknitter,gps,software,needs-revision,tool,gps-autoplace,method,location:blurred,lat:1,activities:mapknitter,questions:mapknitter,lon:9
+
 ---
 
 # MapKnitter
+
+by [jmacha](../profile/jmacha), [liz](../profile/liz), [warren](../profile/warren), [GFFchris](../profile/GFFchris), [stevie](../profile/stevie), [freshcleaning15](../profile/freshcleaning15), [gonzoearth](../profile/gonzoearth), [Ariana16](../profile/Ariana16)
+
+September 15, 2011 00:31 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [mapknitter](../tag/mapknitter), [gps](../tag/gps), [software](../tag/software), [needs-revision](../tag/needs-revision), [tool](../tag/tool), [gps-autoplace](../tag/gps-autoplace), [method](../tag/method), [location:blurred](../tag/location:blurred), [lat:1](../tag/lat:1), [activities:mapknitter](../tag/activities:mapknitter), [questions:mapknitter](../tag/questions:mapknitter), [lon:9](../tag/lon:9)
 
 <div class="alert alert-danger">
 <center><a href="https://secure.lglforms.com/form_engine/s/zIbQWRjJiBYCVwCN6tXIHw">Support Public Lab Today!</a></center>

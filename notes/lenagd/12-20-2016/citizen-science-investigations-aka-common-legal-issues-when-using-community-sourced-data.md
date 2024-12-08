@@ -1,12 +1,18 @@
 ---
-nid: 13797
 title: Citizen Science Investigations: aka ‘Common Legal Issues when using Community Sourced Data’
-path: public/static/notes/lenagd/12-20-2016/citizen-science-investigations-aka-common-legal-issues-when-using-community-sourced-data.md
+tagnames: evidence, blog, legal, evidence-project, series:evidence-project, first-time-poster, law-and-policy
+author: lenagd
+path: /notes/lenagd/12-20-2016/citizen-science-investigations-aka-common-legal-issues-when-using-community-sourced-data.md
+nid: 13797
 uid: 429458
-tagnames: evidence,blog,legal,evidence-project,series:evidence-project,first-time-poster,law-and-policy
+
 ---
 
 # Citizen Science Investigations: aka ‘Common Legal Issues when using Community Sourced Data’
+
+by [lenagd](../profile/lenagd) December 20, 2016 17:10
+
+December 20, 2016 17:10 | Tags: [evidence](../tag/evidence), [blog](../tag/blog), [legal](../tag/legal), [evidence-project](../tag/evidence-project), [series:evidence-project](../tag/series:evidence-project), [first-time-poster](../tag/first-time-poster), [law-and-policy](../tag/law-and-policy)
 
 _Image obtained at: [http://www.thebluediamondgallery.com/wooden-tile/images/evidence.jpg][1]_
 

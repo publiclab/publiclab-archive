@@ -1,12 +1,18 @@
 ---
-nid: 399
 title: Mapping Curriculum: Citations
-path: public/static/wiki/mapping-curriculum-citations.md
+tagnames: curriculum, literature-review, parent:mapping-curriculum, mapping-curriculum, citations, works-cited, resources, references
+author: gonzoearth
+path: /wiki/mapping-curriculum-citations.md
+nid: 399
 uid: 12
-tagnames: curriculum,literature-review,parent:mapping-curriculum,mapping-curriculum,citations,works-cited,resources,references
+
 ---
 
 # Mapping Curriculum: Citations
+
+by [gonzoearth](../profile/gonzoearth)
+
+July 21, 2011 05:53 | Tags: [curriculum](../tag/curriculum), [literature-review](../tag/literature-review), [parent:mapping-curriculum](../tag/parent:mapping-curriculum), [mapping-curriculum](../tag/mapping-curriculum), [citations](../tag/citations), [works-cited](../tag/works-cited), [resources](../tag/resources), [references](../tag/references)
 
 *As part of the [Grassroots Mapping Curriculum](/wiki/mapping-curriculum) series.*
 

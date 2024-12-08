@@ -1,6 +1,6 @@
 # air-quality-data
 
-29 notes and wiki pages
+29 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Air Quality Data Visualization: No Coding Necessary](/notes/jiteovien/08-01-2018/air-quality-data-visualization-no-coding-necessary) by [jiteovien](../profile/jiteovien)
 - [Advice for real-time monitoring](/notes/ottinger/08-30-2018/advice-for-real-time-monitoring) by [ottinger](../profile/ottinger)
@@ -30,4 +30,3 @@
 - [Visualize data from a Simple Air Sensor using onboard serial hardware](/notes/bhamster/12-17-2021/visualize-data-from-a-simple-air-sensor-using-onboard-serial-hardware) by [bhamster](../profile/bhamster)
 - [Communicating Air Quality Data: Research Area Review Summary](/notes/bhamster/12-21-2021/communicating-air-quality-data-research-area-review-summary) by [bhamster](../profile/bhamster)
 - [What strategies have been implemented to use citizen science successfully in litigation?](/notes/julia_e_masters/01-14-2022/what-strategies-have-been-implemented-to-use-citizen-science-successfully-in-litigation) by [julia_e_masters](../profile/julia_e_masters)
-- [Quickbooks Error H202](/notes/laimrylah/01-21-2022/quickbooks-error-h202) by [laimrylah](../profile/laimrylah)

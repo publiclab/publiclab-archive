@@ -1,12 +1,18 @@
 ---
-nid: 12667
 title: Guilin Pharma mapping
-path: public/static/notes/shanlter/02-07-2016/guilin-pharma-mapping.md
+tagnames: balloon-mapping, blog, asia, barnstar:watchdog, china, pharmaceutical, guilin
+author: shanlter
+path: /notes/shanlter/02-07-2016/guilin-pharma-mapping.md
+nid: 12667
 uid: 420999
-tagnames: balloon-mapping,blog,asia,barnstar:watchdog,china,pharmaceutical,guilin
+
 ---
 
 # Guilin Pharma mapping
+
+by [shanlter](../profile/shanlter) February 07, 2016 08:59
+
+February 07, 2016 08:59 | Tags: [balloon-mapping](../tag/balloon-mapping), [blog](../tag/blog), [asia](../tag/asia), [barnstar:watchdog](../tag/barnstar:watchdog), [china](../tag/china), [pharmaceutical](../tag/pharmaceutical), [guilin](../tag/guilin)
 
 ###What I want to do
 First time we try to apply the Balloon and Kites Mapping tools on investigating environmental issues in China. We wanted to conduct our aerial photography shooting at a pharmaceutical factory in Guilin, hope to see what it was like inside the pharmaceutical plant, how the sewage system worked and if there were any illegal activities going on in the plant. 

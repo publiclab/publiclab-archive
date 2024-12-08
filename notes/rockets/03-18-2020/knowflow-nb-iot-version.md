@@ -1,12 +1,18 @@
 ---
-nid: 23165
 title: KnowFlow NB-IoT version
-path: public/static/notes/rockets/03-18-2020/knowflow-nb-iot-version.md
+tagnames: water-quality, knowflow, response:14511, zoom:12, lat:30.854489, lon:120.83797
+author: rockets
+path: /notes/rockets/03-18-2020/knowflow-nb-iot-version.md
+nid: 23165
 uid: 492583
-tagnames: water-quality,knowflow,response:14511,zoom:12,lat:30.854489,lon:120.83797
+
 ---
 
 # KnowFlow NB-IoT version
+
+by [rockets](../profile/rockets) March 18, 2020 07:06
+
+March 18, 2020 07:06 | Tags: [water-quality](../tag/water-quality), [knowflow](../tag/knowflow), [response:14511](../tag/response:14511), [zoom:12](../tag/zoom:12), [lat:30.854489](../tag/lat:30.854489), [lon:120.83797](../tag/lon:120.83797)
 
 大家好。通过之前项目的学习，相信大家已经大致了解了阿里云平台的使用方法以及TinkerNode的基本功能。这次将制作一个远程采集水质参数的装置，它可以用来采集湖水的温度、pH、TDS值以及设备电量，并使用TinkerNode开发板的NB-IoT功能，将数据上传至阿里云平台。  
 ![](https://mc.dfrobot.com.cn/data/attachment/forum/202003/11/021322h4zacf55ba58wv8w.png)  

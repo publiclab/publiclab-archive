@@ -1,12 +1,18 @@
 ---
-nid: 6092
 title: Air Quality Class 5
-path: public/static/wiki/air-quality-class-5.md
-uid: 7
 tagnames: 
+author: liz
+path: /wiki/air-quality-class-5.md
+nid: 6092
+uid: 7
+
 ---
 
 # Air Quality Class 5
+
+by [philipsilva](../profile/philipsilva), [MrDan13](../profile/MrDan13), [georgiabullen](../profile/georgiabullen), [liz](../profile/liz)
+
+February 22, 2013 17:06 | Tags: 
 
 <h3><a href="/wiki/air-quality-class">Class Home</a></h3>
 

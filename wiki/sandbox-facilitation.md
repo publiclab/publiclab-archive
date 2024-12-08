@@ -1,12 +1,18 @@
 ---
-nid: 27729
 title: sandbox-facilitation
-path: public/static/wiki/sandbox-facilitation.md
-uid: 7
 tagnames: 
+author: liz
+path: /wiki/sandbox-facilitation.md
+nid: 27729
+uid: 7
+
 ---
 
 # sandbox-facilitation
+
+by [liz](../profile/liz)
+
+September 15, 2021 19:39 | Tags: 
 
 This page includes resources for facilitation for meetings, and decision making processes. Please edit and add! 
 

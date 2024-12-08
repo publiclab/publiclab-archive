@@ -1,12 +1,18 @@
 ---
-nid: 24575
 title: Nurdle Patrol’s 10-minute beach survey for plastic pellets
-path: public/static/notes/bhamster/09-14-2020/nurdle-patrol-s-10-minute-beach-survey-for-plastic-pellets.md
+tagnames: gulf-coast, protocol, texas, micro-plastics, beach, microplastics, activity:microplastics, gulf-of-mexico, marine-debris, nurdles, beach-cleanup, nurdle-patrol, beach-survey, nurdle-survey, plastic-pellets, activity:nurdle-survey
+author: bhamster
+path: /notes/bhamster/09-14-2020/nurdle-patrol-s-10-minute-beach-survey-for-plastic-pellets.md
+nid: 24575
 uid: 664477
-tagnames: gulf-coast,protocol,texas,micro-plastics,beach,microplastics,activity:microplastics,gulf-of-mexico,marine-debris,nurdles,beach-cleanup,nurdle-patrol,beach-survey,nurdle-survey,plastic-pellets,activity:nurdle-survey
+
 ---
 
 # Nurdle Patrol’s 10-minute beach survey for plastic pellets
+
+by [bhamster](../profile/bhamster) September 14, 2020 16:48
+
+September 14, 2020 16:48 | Tags: [gulf-coast](../tag/gulf-coast), [protocol](../tag/protocol), [texas](../tag/texas), [micro-plastics](../tag/micro-plastics), [beach](../tag/beach), [microplastics](../tag/microplastics), [activity:microplastics](../tag/activity:microplastics), [gulf-of-mexico](../tag/gulf-of-mexico), [marine-debris](../tag/marine-debris), [nurdles](../tag/nurdles), [beach-cleanup](../tag/beach-cleanup), [nurdle-patrol](../tag/nurdle-patrol), [beach-survey](../tag/beach-survey), [nurdle-survey](../tag/nurdle-survey), [plastic-pellets](../tag/plastic-pellets), [activity:nurdle-survey](../tag/activity:nurdle-survey)
 
 _Image: Volunteers collecting plastic pellets on a beach in the Gulf of Mexico. [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/ "http://creativecommons.org/licenses/by/4.0/"). Tunnell et al. 2020\. [https://doi.org/10.1016/j.marpolbul.2019.110794](https://doi.org/10.1016/j.marpolbul.2019.110794 "https://doi.org/10.1016/j.marpolbul.2019.110794")._
 

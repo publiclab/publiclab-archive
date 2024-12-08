@@ -1,12 +1,18 @@
 ---
-nid: 24584
 title: sandbox-microplastics
-path: public/static/wiki/sandbox-microplastics.md
-uid: 664477
 tagnames: 
+author: bhamster
+path: /wiki/sandbox-microplastics.md
+nid: 24584
+uid: 664477
+
 ---
 
 # sandbox-microplastics
+
+by [bhamster](../profile/bhamster)
+
+September 15, 2020 21:49 | Tags: 
 
 **What are microplastics?**
 

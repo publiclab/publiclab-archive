@@ -1,12 +1,18 @@
 ---
-nid: 30578
 title: Outreachy proposal: Design a new full-screen UI for Infragram.org
-path: public/static/notes/perfectytindia/04-22-2022/outreachy-proposal-design-a-new-full-screen-ui-for-infragram-org.md
+tagnames: first-time-poster, zoom:3, lat:25.482951, lon:84.990234
+author: perfectytindia
+path: /notes/perfectytindia/04-22-2022/outreachy-proposal-design-a-new-full-screen-ui-for-infragram-org.md
+nid: 30578
 uid: 795448
-tagnames: first-time-poster,zoom:3,lat:25.482951,lon:84.990234
+
 ---
 
 # Outreachy proposal: Design a new full-screen UI for Infragram.org
+
+by [perfectytindia](../profile/perfectytindia) April 22, 2022 14:43
+
+April 22, 2022 14:43 | Tags: [first-time-poster](../tag/first-time-poster), [zoom:3](../tag/zoom:3), [lat:25.482951](../tag/lat:25.482951), [lon:84.990234](../tag/lon:84.990234)
 
 (This template is for students applying to summer code programs with Public Lab. Use this link to start writing a post: [https://publiclab.org/post?n=899&tags=soc,soc-2019,soc-2019-proposals](https://publiclab.org/post?n=899&tags=soc,soc-2019,soc-2019-proposals) You can delete this line once you've started filling it out.)
 

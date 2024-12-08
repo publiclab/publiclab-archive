@@ -1,12 +1,18 @@
 ---
-nid: 20034
 title: Topic Pages
-path: public/static/wiki/topic-pages.md
-uid: 1
 tagnames: parent:website
+author: warren
+path: /wiki/topic-pages.md
+nid: 20034
+uid: 1
+
 ---
 
 # Topic Pages
+
+by [liz](../profile/liz), [warren](../profile/warren)
+
+July 08, 2019 16:37 | Tags: [parent:website](../tag/parent:website)
 
 Topic pages are used to organize communities and shared resources around specific topics, such as those listed on the Topics index, at https://publiclab.org/tags.
 

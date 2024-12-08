@@ -1,6 +1,6 @@
 # nrg
 
-48 notes and wiki pages
+48 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [NRG image of Lima from balloon](/notes/warren/1-27-2011/nrg-image-lima-balloon) by [warren](../profile/warren)
 - [Infrared Vegetation Analysis Activity](/wiki/infrared-vegetation-analysis-activity) (wiki)
@@ -49,4 +49,3 @@
 - [[Reference] Bay Denesse and Plaquemines Bayou aerial photo history  2](/notes/eustatic/09-06-2014/reference-bay-denesse-and-plaquemines-bayou-aerial-photo-history-2) by [eustatic](../profile/eustatic)
 - [NDVI from infrared and visible-light](/notes/Rayishido/02-10-2016/ndvi-from-infrared-and-visible-light) by [Rayishido](../profile/Rayishido)
 - [Related Literatures, International Journals related to NDVI from Cheap Modified Mobius Camera](/notes/suman/03-25-2017/related-literatures-international-journals-related-to-ndvi-from-cheap-modified-mobius-camera) by [suman](../profile/suman)
-- [Xtreme Shock Pre Workout Gnc - GNC Launches Concept X - The Most Xtreme Pre Workout - Chiseled Magazine](/notes/tiomidphede1973/02-08-2024/xtreme-shock-pre-workout-gnc-gnc-launches-concept-x-the-most-xtreme-pre-workout-chiseled-magazine) by [tiomidphede1973](../profile/tiomidphede1973)

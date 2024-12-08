@@ -1,12 +1,18 @@
 ---
-nid: 7405
 title: Start a Chapter
-path: public/static/wiki/start-a-chapter.md
+tagnames: community, organizers, chapters, workshops
+author: warren
+path: /wiki/start-a-chapter.md
+nid: 7405
 uid: 1
-tagnames: community,organizers,chapters,workshops
+
 ---
 
 # Start a Chapter
+
+by [stevie](../profile/stevie), [warren](../profile/warren), [hagitkeysar](../profile/hagitkeysar), [liz](../profile/liz), [Ghastly](../profile/Ghastly), [nkemosprint](../profile/nkemosprint)
+
+May 10, 2013 13:39 | Tags: [community](../tag/community), [organizers](../tag/organizers), [chapters](../tag/chapters), [workshops](../tag/workshops)
 
 Interested in organizing locally? Here are a few things you can do:
 

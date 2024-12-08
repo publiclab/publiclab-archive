@@ -1,12 +1,18 @@
 ---
-nid: 908
 title: Core proposal
-path: public/static/wiki/core-proposal.md
+tagnames: community, organizers, parent:organizers
+author: warren
+path: /wiki/core-proposal.md
+nid: 908
 uid: 1
-tagnames: community,organizers,parent:organizers
+
 ---
 
 # Core proposal
+
+by [warren](../profile/warren)
+
+March 08, 2012 23:12 | Tags: [community](../tag/community), [organizers](../tag/organizers), [parent:organizers](../tag/parent:organizers)
 
 _Jeff: I'm using this page to jot down some ideas for a proposal on an expanded role for the "team" email list_
 

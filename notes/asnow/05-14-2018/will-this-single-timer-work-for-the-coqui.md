@@ -1,12 +1,18 @@
 ---
-nid: 16348
 title: Will this single timer work for the coqui?
-path: public/static/notes/asnow/05-14-2018/will-this-single-timer-work-for-the-coqui.md
+tagnames: coqui, question:coqui
+author: asnow
+path: /notes/asnow/05-14-2018/will-this-single-timer-work-for-the-coqui.md
+nid: 16348
 uid: 515746
-tagnames: coqui,question:coqui
+
 ---
 
 # Will this single timer work for the coqui?
+
+by [asnow](../profile/asnow) May 14, 2018 16:45
+
+May 14, 2018 16:45 | Tags: [coqui](../tag/coqui), [question:coqui](../tag/question:coqui)
 
 We are ordering coqui parts and wondering if this version of the TLC555 single timer would work, the version in the spec sheet is out of stock 
 

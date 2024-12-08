@@ -1,12 +1,18 @@
 ---
-nid: 11326
 title: The Titan II, Unpacked 
-path: public/static/notes/geraldmc/11-08-2014/the-titan-ii-unpacked.md
+tagnames: gulf-coast, ndvi, kite-aerial-photography, aerial-photography, kites, titan, sugarcane, kaptery
+author: geraldmc
+path: /notes/geraldmc/11-08-2014/the-titan-ii-unpacked.md
+nid: 11326
 uid: 421225
-tagnames: gulf-coast,ndvi,kite-aerial-photography,aerial-photography,kites,titan,sugarcane,kaptery
+
 ---
 
 # The Titan II, Unpacked 
+
+by [geraldmc](../profile/geraldmc) November 08, 2014 20:08
+
+November 08, 2014 20:08 | Tags: [gulf-coast](../tag/gulf-coast), [ndvi](../tag/ndvi), [kite-aerial-photography](../tag/kite-aerial-photography), [aerial-photography](../tag/aerial-photography), [kites](../tag/kites), [titan](../tag/titan), [sugarcane](../tag/sugarcane), [kaptery](../tag/kaptery)
 
 ### Preliminaries
 

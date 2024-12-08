@@ -1,12 +1,18 @@
 ---
-nid: 456
 title: Voting
-path: public/static/wiki/voting.md
-uid: 1
 tagnames: 
+author: warren
+path: /wiki/voting.md
+nid: 456
+uid: 1
+
 ---
 
 # Voting
+
+by [warren](../profile/warren)
+
+September 09, 2011 16:53 | Tags: 
 
 Currently, all 6 staff members vote. 70% or currently 5/6 (83%, since 4/6 is only 67%) of current staff must approve of a vote. We use anonymous unranked approval voting, with names of voters revealed after the vote.
 

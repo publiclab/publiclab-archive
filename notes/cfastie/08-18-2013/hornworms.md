@@ -1,12 +1,18 @@
 ---
-nid: 9031
 title: HORNWORMS
-path: public/static/notes/cfastie/08-18-2013/hornworms.md
+tagnames: near-infrared-camera, vermont, infrared, white-balance, infragram, garden, superblue, insects, ccd, response:8900, hornworms, activity:multispectral-imaging
+author: cfastie
+path: /notes/cfastie/08-18-2013/hornworms.md
+nid: 9031
 uid: 554
-tagnames: near-infrared-camera,vermont,infrared,white-balance,infragram,garden,superblue,insects,ccd,response:8900,hornworms,activity:multispectral-imaging
+
 ---
 
 # HORNWORMS
+
+by [cfastie](../profile/cfastie) August 18, 2013 03:52
+
+August 18, 2013 03:52 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [vermont](../tag/vermont), [infrared](../tag/infrared), [white-balance](../tag/white-balance), [infragram](../tag/infragram), [garden](../tag/garden), [superblue](../tag/superblue), [insects](../tag/insects), [ccd](../tag/ccd), [response:8900](../tag/response:8900), [hornworms](../tag/hornworms), [activity:multispectral-imaging](../tag/activity:multispectral-imaging)
 
 It's a good year for tomatoes, and a big year for hornworms. These caterpillars fatten on tomato leaves so they can become huge Carolina sphinx moths (*Manduca sexta*). As fantastic as they are, they are very hard to find.  Even when I see lots of tomato leaves missing, I often can't find the culprit because they are so well camouflaged. In a fleeting moment during which I considered that I was smarter than a hornworm, I decided to use science to overcome their defenses. Although they are the same green color as tomato leaves, everybody knows that caterpillars don't absorb red or blue light for photosynthesis, so they should look distinct to an Infragram camera. Or so I thought.
 

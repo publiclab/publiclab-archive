@@ -1,6 +1,6 @@
 # parent-soil
 
-8 notes and wiki pages
+8 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Soil Sampling](/wiki/soil-sampling) (wiki)
 - [Soil Sampling Toolkit](/wiki/soil-testing-toolkit) (wiki)

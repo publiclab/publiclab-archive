@@ -1,12 +1,18 @@
 ---
-nid: 12561
 title: Testing high-brightness 405nm LEDs in fluorescence spectroscopy of oils
-path: public/static/notes/warren/01-05-2016/testing-high-brightness-405nm-leds-in-fluorescence-spectroscopy-of-oils.md
+tagnames: spectrometer, fluorescence, cuvette, oil-testing-kit, response:12462, response:11063, response:12472, cuvette-frame, activity:spectrometry-sampling
+author: warren
+path: /notes/warren/01-05-2016/testing-high-brightness-405nm-leds-in-fluorescence-spectroscopy-of-oils.md
+nid: 12561
 uid: 1
-tagnames: spectrometer,fluorescence,cuvette,oil-testing-kit,response:12462,response:11063,response:12472,cuvette-frame,activity:spectrometry-sampling
+
 ---
 
 # Testing high-brightness 405nm LEDs in fluorescence spectroscopy of oils
+
+by [warren](../profile/warren) January 05, 2016 16:20
+
+January 05, 2016 16:20 | Tags: [spectrometer](../tag/spectrometer), [fluorescence](../tag/fluorescence), [cuvette](../tag/cuvette), [oil-testing-kit](../tag/oil-testing-kit), [response:12462](../tag/response:12462), [response:11063](../tag/response:11063), [response:12472](../tag/response:12472), [cuvette-frame](../tag/cuvette-frame), [activity:spectrometry-sampling](../tag/activity:spectrometry-sampling)
 
 ###What I want to do
 

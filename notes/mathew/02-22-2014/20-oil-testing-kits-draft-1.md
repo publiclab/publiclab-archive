@@ -1,12 +1,18 @@
 ---
-nid: 10054
 title: 20 Oil Testing kits (draft 1) 
-path: public/static/notes/mathew/02-22-2014/20-oil-testing-kits-draft-1.md
+tagnames: spectrometer, oil-testing-kit
+author: mathew
+path: /notes/mathew/02-22-2014/20-oil-testing-kits-draft-1.md
+nid: 10054
 uid: 4
-tagnames: spectrometer,oil-testing-kit
+
 ---
 
 # 20 Oil Testing kits (draft 1) 
+
+by [mathew](../profile/mathew) February 22, 2014 01:09
+
+February 22, 2014 01:09 | Tags: [spectrometer](../tag/spectrometer), [oil-testing-kit](../tag/oil-testing-kit)
 
 ###What I want to do
 Buy 20 testing kits to Jeff's design.

@@ -1,12 +1,18 @@
 ---
-nid: 26010
 title: Screening for soil contamination
-path: public/static/wiki/screen-soil-contamination.md
+tagnames: heavy-metals, soil, soil-testing, method, soil-contamination, screen-soil-contamination
+author: bhamster
+path: /wiki/screen-soil-contamination.md
+nid: 26010
 uid: 664477
-tagnames: heavy-metals,soil,soil-testing,method,soil-contamination,screen-soil-contamination
+
 ---
 
 # Screening for soil contamination
+
+by [bhamster](../profile/bhamster)
+
+March 23, 2021 17:12 | Tags: [heavy-metals](../tag/heavy-metals), [soil](../tag/soil), [soil-testing](../tag/soil-testing), [method](../tag/method), [soil-contamination](../tag/soil-contamination), [screen-soil-contamination](../tag/screen-soil-contamination)
 
 _Lead image: Gathered around the Hanby Field Kit for detecting petroleum hydrocarbons._
 

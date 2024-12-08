@@ -1,12 +1,18 @@
 ---
-nid: 22362
 title: Simple Water Sensor Platform
-path: public/static/wiki/simple-water-sensor-platform.md
+tagnames: arduino, water-sensing, water-quality-mapping, water-quality-monitoring, sensors, water-quality, method, oil-and-gas-water-trio, simple-water-sensor-platform
+author: wmacfarl
+path: /wiki/simple-water-sensor-platform.md
+nid: 22362
 uid: 424597
-tagnames: arduino,water-sensing,water-quality-mapping,water-quality-monitoring,sensors,water-quality,method,oil-and-gas-water-trio,simple-water-sensor-platform
+
 ---
 
 # Simple Water Sensor Platform
+
+by [wmacfarl](../profile/wmacfarl)
+
+January 21, 2020 17:36 | Tags: [arduino](../tag/arduino), [water-sensing](../tag/water-sensing), [water-quality-mapping](../tag/water-quality-mapping), [water-quality-monitoring](../tag/water-quality-monitoring), [sensors](../tag/sensors), [water-quality](../tag/water-quality), [method](../tag/method), [oil-and-gas-water-trio](../tag/oil-and-gas-water-trio), [simple-water-sensor-platform](../tag/simple-water-sensor-platform)
 
 The simple water sensor platform is a simple, accessible tool for using a variety of water quality parameter sensors to collect and log data about water samples.
 

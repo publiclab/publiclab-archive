@@ -1,12 +1,18 @@
 ---
-nid: 96
 title: Exhibitions
-path: public/static/wiki/exhibitions.md
+tagnames: database, data-collection, data, local-projects
+author: warren
+path: /wiki/exhibitions.md
+nid: 96
 uid: 1
-tagnames: database,data-collection,data,local-projects
+
 ---
 
 # Exhibitions
+
+by [warren](../profile/warren), [mariakatosvich](../profile/mariakatosvich)
+
+February 21, 2011 18:22 | Tags: [database](../tag/database), [data-collection](../tag/data-collection), [data](../tag/data), [local-projects](../tag/local-projects)
 
 An in-progress list of exhibited Public Laboratory data:
 

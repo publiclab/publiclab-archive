@@ -1,12 +1,18 @@
 ---
-nid: 703
 title: hydrogen sulfide sensing review
-path: public/static/wiki/hydrogen-sulfide-sensing-review.md
-uid: 12
 tagnames: 
+author: gonzoearth
+path: /wiki/hydrogen-sulfide-sensing-review.md
+nid: 703
+uid: 12
+
 ---
 
 # hydrogen sulfide sensing review
+
+by [gonzoearth](../profile/gonzoearth)
+
+January 19, 2012 00:43 | Tags: 
 
 Questions for H2S testing
 

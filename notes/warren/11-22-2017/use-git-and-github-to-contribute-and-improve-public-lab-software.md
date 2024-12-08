@@ -1,12 +1,18 @@
 ---
-nid: 15228
 title: Use Git and GitHub to contribute and improve Public Lab software
-path: public/static/notes/warren/11-22-2017/use-git-and-github-to-contribute-and-improve-public-lab-software.md
+tagnames: web-development, software, developers, code, coding, github, with:bsugar, activity:software, activity:soc, git, activity:developers, activity:coding, activity:git, activity:github
+author: warren
+path: /notes/warren/11-22-2017/use-git-and-github-to-contribute-and-improve-public-lab-software.md
+nid: 15228
 uid: 1
-tagnames: web-development,software,developers,code,coding,github,with:bsugar,activity:software,activity:soc,git,activity:developers,activity:coding,activity:git,activity:github
+
 ---
 
 # Use Git and GitHub to contribute and improve Public Lab software
+
+by [warren](../profile/warren) November 22, 2017 20:09
+
+November 22, 2017 20:09 | Tags: [web-development](../tag/web-development), [software](../tag/software), [developers](../tag/developers), [code](../tag/code), [coding](../tag/coding), [github](../tag/github), [with:bsugar](../tag/with:bsugar), [activity:software](../tag/activity:software), [activity:soc](../tag/activity:soc), [git](../tag/git), [activity:developers](../tag/activity:developers), [activity:coding](../tag/activity:coding), [activity:git](../tag/activity:git), [activity:github](../tag/activity:github)
 
 Public Lab software is written in many languages, and each project may have its own guidelines for contributors. These broad guidelines should serve as general principles to guide your approach to a new Public Lab codebase, using Git and the collaborative coding website [GitHub](https://github.com).
 

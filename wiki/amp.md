@@ -1,12 +1,18 @@
 ---
-nid: 12273
 title: amp
-path: public/static/wiki/amp.md
+tagnames: coal-mining, west-virginia, mountaintop-removal, extraction, southeast, amp, mtr, appalachia
+author: liz
+path: /wiki/amp.md
+nid: 12273
 uid: 7
-tagnames: coal-mining,west-virginia,mountaintop-removal,extraction,southeast,amp,mtr,appalachia
+
 ---
 
 # amp
+
+by [liz](../profile/liz), [LauraChipley](../profile/LauraChipley)
+
+October 06, 2015 17:39 | Tags: [coal-mining](../tag/coal-mining), [west-virginia](../tag/west-virginia), [mountaintop-removal](../tag/mountaintop-removal), [extraction](../tag/extraction), [southeast](../tag/southeast), [amp](../tag/amp), [mtr](../tag/mtr), [appalachia](../tag/appalachia)
 
 ###Organization/Organizer: 
 

@@ -1,12 +1,18 @@
 ---
-nid: 12724
 title: Sensor Journalism to Fight Censorship
-path: public/static/notes/mercybenzaquen/02-23-2016/sensor-journalism-to-fight-censorship.md
+tagnames: sensor-journalism, response:12723, response:12748, hidden:response
+author: mercybenzaquen
+path: /notes/mercybenzaquen/02-23-2016/sensor-journalism-to-fight-censorship.md
+nid: 12724
 uid: 461472
-tagnames: sensor-journalism,response:12723,response:12748,hidden:response
+
 ---
 
 # Sensor Journalism to Fight Censorship
+
+by [mercybenzaquen](../profile/mercybenzaquen) February 23, 2016 21:43
+
+February 23, 2016 21:43 | Tags: [sensor-journalism](../tag/sensor-journalism), [response:12723](../tag/response:12723), [response:12748](../tag/response:12748), [hidden:response](../tag/hidden:response)
 
 When [Lily Bui](https://chasethewanderlust.wordpress.com/2014/02/13/sensors-uncensored/) visited our Data visualization class at Emerson College, it was clear that she had a passion for sensor journalism and was excited to talk to a group of young journalists about what she hopes is a contagious spirit of experimentation in the field.    
 

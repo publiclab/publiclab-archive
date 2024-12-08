@@ -1,12 +1,18 @@
 ---
-nid: 17792
 title: OpenHour: Usability Feedback for PublicLab.org
-path: public/static/notes/warren/12-03-2018/openhour-usability-feedback-for-publiclab-org.md
+tagnames: event, design, openhour, feedback, ui
+author: warren
+path: /notes/warren/12-03-2018/openhour-usability-feedback-for-publiclab-org.md
+nid: 17792
 uid: 1
-tagnames: event,design,openhour,feedback,ui
+
 ---
 
 # OpenHour: Usability Feedback for PublicLab.org
+
+by [warren](../profile/warren) December 03, 2018 19:52
+
+December 03, 2018 19:52 | Tags: [event](../tag/event), [design](../tag/design), [openhour](../tag/openhour), [feedback](../tag/feedback), [ui](../tag/ui)
 
 Just sharing notes from our really great OpenHour on Usability! So many good ideas and identified issues... we'll have to have meet-ups like this on a regular basis!
 

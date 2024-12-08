@@ -1,12 +1,18 @@
 ---
-nid: 14824
 title: Smartphone App for Residential Testing of Formaldehyde (SMART-FORM) Interim report 
-path: public/static/notes/nshapiro/09-04-2017/smartphone-app-for-residential-testing-of-formaldehyde-smart-form-interim-report.md
+tagnames: smartphone, formaldehyde, indoor-air-quality, with:gretchengehrke, indoor-air, nsf, smart-form
+author: nshapiro
+path: /notes/nshapiro/09-04-2017/smartphone-app-for-residential-testing-of-formaldehyde-smart-form-interim-report.md
+nid: 14824
 uid: 380298
-tagnames: smartphone,formaldehyde,indoor-air-quality,with:gretchengehrke,indoor-air,nsf,smart-form
+
 ---
 
 # Smartphone App for Residential Testing of Formaldehyde (SMART-FORM) Interim report 
+
+by [nshapiro](../profile/nshapiro) September 04, 2017 15:00
+
+September 04, 2017 15:00 | Tags: [smartphone](../tag/smartphone), [formaldehyde](../tag/formaldehyde), [indoor-air-quality](../tag/indoor-air-quality), [with:gretchengehrke](../tag/with:gretchengehrke), [indoor-air](../tag/indoor-air), [nsf](../tag/nsf), [smart-form](../tag/smart-form)
 
 Below is the interum report of the NSF-funded SMART-FORM project, lead by Karen Dannemiller of Ohio State University and with Public Lab as a Co-PI.
 

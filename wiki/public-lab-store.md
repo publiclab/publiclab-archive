@@ -1,12 +1,18 @@
 ---
-nid: 19127
 title: Public Lab Store
-path: public/static/wiki/public-lab-store.md
+tagnames: kits, store
+author: Bronwen
+path: /wiki/public-lab-store.md
+nid: 19127
 uid: 237313
-tagnames: kits,store
+
 ---
 
 # Public Lab Store
+
+by [Bronwen](../profile/Bronwen)
+
+April 21, 2019 20:23 | Tags: [kits](../tag/kits), [store](../tag/store)
 
 You will be directed to the site for our online store. 
 

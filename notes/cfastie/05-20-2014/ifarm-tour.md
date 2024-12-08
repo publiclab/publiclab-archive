@@ -1,12 +1,18 @@
 ---
-nid: 10486
 title: iFarm tour
-path: public/static/notes/cfastie/05-20-2014/ifarm-tour.md
+tagnames: boston, new-hampshire, farmhack, agriculture, farm, event, garden, ifarm, crops, northeast, ifarm2014, response:10485
+author: cfastie
+path: /notes/cfastie/05-20-2014/ifarm-tour.md
+nid: 10486
 uid: 554
-tagnames: boston,new-hampshire,farmhack,agriculture,farm,event,garden,ifarm,crops,northeast,ifarm2014,response:10485
+
 ---
 
 # iFarm tour
+
+by [cfastie](../profile/cfastie) May 20, 2014 14:51
+
+May 20, 2014 14:51 | Tags: [boston](../tag/boston), [new-hampshire](../tag/new-hampshire), [farmhack](../tag/farmhack), [agriculture](../tag/agriculture), [farm](../tag/farm), [event](../tag/event), [garden](../tag/garden), [ifarm](../tag/ifarm), [crops](../tag/crops), [northeast](../tag/northeast), [ifarm2014](../tag/ifarm2014), [response:10485](../tag/response:10485)
 
 After lunch on Saturday, some of us took a 30 minute tour of Tuckaway Farm in a hay wagon. Our wagoner Chuck Cox is a horseman from way back, but has been using draft horses for farm power mostly in the last five years. Queen and (Dorn, what's the other one's name?) looked like they were working hard at times, but Chuck said they pull the wagon with 80 bails of hay on it, which weighs a lot more than we did. There is a great collection of old and newly designed harrows, cultivators, and rakes on the farm for pulling behind draft animals.  
 .  

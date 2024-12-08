@@ -1,12 +1,18 @@
 ---
-nid: 16900
 title: Mini video recorder
-path: public/static/notes/Ag8n/08-09-2018/mini-video-recorder.md
+tagnames: mapknitter, question:mapknitter
+author: Ag8n
+path: /notes/Ag8n/08-09-2018/mini-video-recorder.md
+nid: 16900
 uid: 520994
-tagnames: mapknitter,question:mapknitter
+
 ---
 
 # Mini video recorder
+
+by [Ag8n](../profile/Ag8n) August 09, 2018 18:13
+
+August 09, 2018 18:13 | Tags: [mapknitter](../tag/mapknitter), [question:mapknitter](../tag/question:mapknitter)
 
 Apogee rockets sells a u-838 video recorder ( currently out of stock) for about $100\.  This recorder weighs 0.67 oz , is about the size of a flash drive, and can record for up to 2 hours ( depending on battery and memory in it).  
 

@@ -1,12 +1,18 @@
 ---
-nid: 9509
 title: Calibrating DIY NIR cameras – part 1
-path: public/static/notes/nedhorning/10-21-2013/calibrating-diy-nir-cameras-part-1.md
+tagnames: calibration, calibrate-ndvi
+author: nedhorning
+path: /notes/nedhorning/10-21-2013/calibrating-diy-nir-cameras-part-1.md
+nid: 9509
 uid: 133
-tagnames: calibration,calibrate-ndvi
+
 ---
 
 # Calibrating DIY NIR cameras – part 1
+
+by [nedhorning](../profile/nedhorning) October 21, 2013 20:13
+
+October 21, 2013 20:13 | Tags: [calibration](../tag/calibration), [calibrate-ndvi](../tag/calibrate-ndvi)
 
 This is the first of what I hope will be a series of notes related to camera calibration. The intent is to document a process of developing a calibration routine that can be used to improve our ability to create NDVI images from DIY near-infrared (NIR) modified cameras so they can be compared with images acquired by satellites. I will try to explain the process I am using in reasonable detail so it can be critiqued and improved. This first note will provide background information and present initial results.
 

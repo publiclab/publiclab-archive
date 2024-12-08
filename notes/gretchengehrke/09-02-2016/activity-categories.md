@@ -1,12 +1,18 @@
 ---
-nid: 13413
 title: Activity Categories
-path: public/static/notes/gretchengehrke/09-02-2016/activity-categories.md
+tagnames: with:warren, with:liz, research-culture, activity-grids, with:abdul, activity-categories, activities
+author: gretchengehrke
+path: /notes/gretchengehrke/09-02-2016/activity-categories.md
+nid: 13413
 uid: 430549
-tagnames: with:warren,with:liz,research-culture,activity-grids,with:abdul,activity-categories,activities
+
 ---
 
 # Activity Categories
+
+by [gretchengehrke](../profile/gretchengehrke) September 02, 2016 22:41
+
+September 02, 2016 22:41 | Tags: [with:warren](../tag/with:warren), [with:liz](../tag/with:liz), [research-culture](../tag/research-culture), [activity-grids](../tag/activity-grids), [with:abdul](../tag/with:abdul), [activity-categories](../tag/activity-categories), [activities](../tag/activities)
 
 A bunch of people here in our community are interested in making our collective work more organized, more inviting with explicit activities for people to engage, and more replicable in order to harness our community's size and diversity to produce solid work. @liz introduced the idea of [activity grids](https://publiclab.org/notes/liz/08-30-2016/check-out-these-activity-grids), and here I want to introduce descriptions of those different categories of activities. You can tag your work with the appropriate category by using the tags listed under each description. I've made a [wiki page](https://publiclab.org/wiki/activity-categories) with longer descriptions for each category -- please feel free to edit and enhance it!!  
 

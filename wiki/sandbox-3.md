@@ -1,12 +1,18 @@
 ---
-nid: 15533
 title: sandbox-3
-path: public/static/wiki/sandbox-3.md
-uid: 1
 tagnames: sandbox
+author: warren
+path: /wiki/sandbox-3.md
+nid: 15533
+uid: 1
+
 ---
 
 # sandbox-3
+
+by [warren](../profile/warren), [sagarpreet](../profile/sagarpreet)
+
+January 16, 2018 19:14 | Tags: [sandbox](../tag/sandbox)
 
 Test of pre-set layers:
 

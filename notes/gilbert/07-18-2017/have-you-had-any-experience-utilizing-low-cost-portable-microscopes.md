@@ -1,12 +1,18 @@
 ---
-nid: 14663
 title: Have you had any experience utilizing low cost portable microscopes?  
-path: public/static/notes/gilbert/07-18-2017/have-you-had-any-experience-utilizing-low-cost-portable-microscopes.md
+tagnames: microscope, method, microscopes, question:microscope, question:microscopes, first-time-poster
+author: gilbert
+path: /notes/gilbert/07-18-2017/have-you-had-any-experience-utilizing-low-cost-portable-microscopes.md
+nid: 14663
 uid: 508551
-tagnames: microscope,method,microscopes,question:microscope,question:microscopes,first-time-poster
+
 ---
 
 # Have you had any experience utilizing low cost portable microscopes?  
+
+by [gilbert](../profile/gilbert) July 18, 2017 19:25
+
+July 18, 2017 19:25 | Tags: [microscope](../tag/microscope), [method](../tag/method), [microscopes](../tag/microscopes), [question:microscope](../tag/question:microscope), [question:microscopes](../tag/question:microscopes), [first-time-poster](../tag/first-time-poster)
 
               
  

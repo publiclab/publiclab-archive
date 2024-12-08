@@ -1,6 +1,6 @@
 # style-presentation
 
-8 notes and wiki pages
+8 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Subscribe](/subscribe) (wiki)
 - [Membership](/membership) (wiki)

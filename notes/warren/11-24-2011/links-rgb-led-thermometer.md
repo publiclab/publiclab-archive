@@ -1,12 +1,18 @@
 ---
-nid: 582
 title: Links for rgb led thermometer
-path: public/static/notes/warren/11-24-2011/links-rgb-led-thermometer.md
-uid: 1
 tagnames: 
+author: warren
+path: /notes/warren/11-24-2011/links-rgb-led-thermometer.md
+nid: 582
+uid: 1
+
 ---
 
 # Links for rgb led thermometer
+
+by [warren](../profile/warren) November 24, 2011 17:45
+
+November 24, 2011 17:45 | Tags: 
 
 http://www.ladyada.net/learn/sensors/thermistor.html
 

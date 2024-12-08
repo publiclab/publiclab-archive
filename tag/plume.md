@@ -1,6 +1,6 @@
 # plume
 
-11 notes and wiki pages
+11 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Infrared balloon image reveals Gowanus plume](/notes/liz/8-3-2011/ir-reveals-gowanus-plume) by [liz](../profile/liz)
 - [Newtown Creek](/wiki/new-town-creek) (wiki)

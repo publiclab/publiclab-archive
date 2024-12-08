@@ -1,12 +1,18 @@
 ---
-nid: 23805
 title: Do we need instrumentation-grade steel for an air intake valve?
-path: public/static/notes/kgradow1/06-09-2020/do-we-need-instrumentation-grade-steel-for-an-air-intake-valve.md
+tagnames: air-quality, question:general, general, air-sensor, bucket-monitor, question:bucket-monitor
+author: kgradow1
+path: /notes/kgradow1/06-09-2020/do-we-need-instrumentation-grade-steel-for-an-air-intake-valve.md
+nid: 23805
 uid: 297929
-tagnames: air-quality,question:general,general,air-sensor,bucket-monitor,question:bucket-monitor
+
 ---
 
 # Do we need instrumentation-grade steel for an air intake valve?
+
+by [kgradow1](../profile/kgradow1) June 09, 2020 18:49
+
+June 09, 2020 18:49 | Tags: [air-quality](../tag/air-quality), [question:general](../tag/question:general), [general](../tag/general), [air-sensor](../tag/air-sensor), [bucket-monitor](../tag/bucket-monitor), [question:bucket-monitor](../tag/question:bucket-monitor)
 
 I am trying to source parts to do a build test for the [bucket monitor](https://publiclab.org/wiki/bucket-monitor).  
 

@@ -1,6 +1,6 @@
 # computer-vision
 
-7 notes and wiki pages
+7 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Computer Vision: Auto selecting blob area from image](/notes/kaushalsingh/11-13-2016/computer-vision-auto-selecting-blob-area-from-image) by [kaushalsingh](../profile/kaushalsingh)
 - [Computer Vision/LED Plant Measurement System](/notes/MaggPi/03-15-2018/computer-vision-led-plant-measurement-system) by [MaggPi](../profile/MaggPi)

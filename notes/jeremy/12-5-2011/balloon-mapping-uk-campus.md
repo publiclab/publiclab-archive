@@ -1,12 +1,18 @@
 ---
-nid: 612
 title: Balloon Mapping the UK Campus
-path: public/static/notes/jeremy/12-5-2011/balloon-mapping-uk-campus.md
-uid: 323
 tagnames: first-time-poster
+author: jeremy
+path: /notes/jeremy/12-5-2011/balloon-mapping-uk-campus.md
+nid: 612
+uid: 323
+
 ---
 
 # Balloon Mapping the UK Campus
+
+by [jeremy](../profile/jeremy) December 05, 2011 15:34
+
+December 05, 2011 15:34 | Tags: [first-time-poster](../tag/first-time-poster)
 
 The UK campus is getting mapped--with helium-filled balloons!
 

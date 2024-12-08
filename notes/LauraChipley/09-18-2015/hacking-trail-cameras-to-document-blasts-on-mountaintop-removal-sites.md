@@ -1,12 +1,18 @@
 ---
-nid: 12225
 title: Hacking trail cameras to document blasts on Mountaintop Removal sites
-path: public/static/notes/LauraChipley/09-18-2015/hacking-trail-cameras-to-document-blasts-on-mountaintop-removal-sites.md
+tagnames: photo-monitoring, timelapse, mountaintop-removal, amp, mtr, appalachian-mountaintop-patrol, trap-cam, activity:timelapse, trail-camera, activity:photo-monitoring, game-camera, story:timelapse, flocculants
+author: LauraChipley
+path: /notes/LauraChipley/09-18-2015/hacking-trail-cameras-to-document-blasts-on-mountaintop-removal-sites.md
+nid: 12225
 uid: 428957
-tagnames: photo-monitoring,timelapse,mountaintop-removal,amp,mtr,appalachian-mountaintop-patrol,trap-cam,activity:timelapse,trail-camera,activity:photo-monitoring,game-camera,story:timelapse,flocculants
+
 ---
 
 # Hacking trail cameras to document blasts on Mountaintop Removal sites
+
+by [LauraChipley](../profile/LauraChipley) September 18, 2015 13:31
+
+September 18, 2015 13:31 | Tags: [photo-monitoring](../tag/photo-monitoring), [timelapse](../tag/timelapse), [mountaintop-removal](../tag/mountaintop-removal), [amp](../tag/amp), [mtr](../tag/mtr), [appalachian-mountaintop-patrol](../tag/appalachian-mountaintop-patrol), [trap-cam](../tag/trap-cam), [activity:timelapse](../tag/activity:timelapse), [trail-camera](../tag/trail-camera), [activity:photo-monitoring](../tag/activity:photo-monitoring), [game-camera](../tag/game-camera), [story:timelapse](../tag/story:timelapse), [flocculants](../tag/flocculants)
 
 I am working a project called [The Appalachian Mountaintop Patrol](http://publiclab.org/notes/LauraChipley/09-25-2014/sensors-for-collecting-environmental-data-at-mtr-and-hydrofracking-sites) (AMP)  that collaborates with environmental activists in Boone, Raleigh and Kanawha counties to document the experience of living in close proximity to, and the environmental contamination caused by Mountaintop Removal.
 

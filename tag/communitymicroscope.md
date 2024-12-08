@@ -1,6 +1,6 @@
 # communitymicroscope
 
-4 notes and wiki pages
+4 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Community Microscope Kit](/wiki/micro) (wiki)
 - [microscope-photos](/wiki/microscope-photos) (wiki)

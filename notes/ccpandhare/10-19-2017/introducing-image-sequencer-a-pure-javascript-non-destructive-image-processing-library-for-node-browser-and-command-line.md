@@ -1,12 +1,18 @@
 ---
-nid: 15066
 title: Introducing Image Sequencer: a pure JavaScript non-destructive image processing library for Node, browser and command line
-path: public/static/notes/ccpandhare/10-19-2017/introducing-image-sequencer-a-pure-javascript-non-destructive-image-processing-library-for-node-browser-and-command-line.md
+tagnames: image-processing, software, infragram, gsoc, web, with:warren, image-analysis, javascript, gsoc-2017, soc, soc-2017, image-sequencer
+author: ccpandhare
+path: /notes/ccpandhare/10-19-2017/introducing-image-sequencer-a-pure-javascript-non-destructive-image-processing-library-for-node-browser-and-command-line.md
+nid: 15066
 uid: 503543
-tagnames: image-processing,software,infragram,gsoc,web,with:warren,image-analysis,javascript,gsoc-2017,soc,soc-2017,image-sequencer
+
 ---
 
 # Introducing Image Sequencer: a pure JavaScript non-destructive image processing library for Node, browser and command line
+
+by [ccpandhare](../profile/ccpandhare) October 19, 2017 19:26
+
+October 19, 2017 19:26 | Tags: [image-processing](../tag/image-processing), [software](../tag/software), [infragram](../tag/infragram), [gsoc](../tag/gsoc), [web](../tag/web), [with:warren](../tag/with:warren), [image-analysis](../tag/image-analysis), [javascript](../tag/javascript), [gsoc-2017](../tag/gsoc-2017), [soc](../tag/soc), [soc-2017](../tag/soc-2017), [image-sequencer](../tag/image-sequencer)
 
 _This past summer, myself, Chinmay led a project (mentored by Jeff) as part of Google Summer of Code to develop a new library to do general-purpose image processing and analysis. This post introduces that new library, Image Sequencer._
 

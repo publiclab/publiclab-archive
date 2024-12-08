@@ -1,12 +1,18 @@
 ---
-nid: 12669
 title: oil-testing-workshop-build-a-spectrometer
-path: public/static/wiki/oil-testing-workshop-build-a-spectrometer.md
+tagnames: workshop, oil-testing-kit, parent:oil-testing-workshops
+author: liz
+path: /wiki/oil-testing-workshop-build-a-spectrometer.md
+nid: 12669
 uid: 7
-tagnames: workshop,oil-testing-kit,parent:oil-testing-workshops
+
 ---
 
 # oil-testing-workshop-build-a-spectrometer
+
+by [stevie](../profile/stevie), [warren](../profile/warren), [liz](../profile/liz)
+
+February 08, 2016 16:51 | Tags: [workshop](../tag/workshop), [oil-testing-kit](../tag/oil-testing-kit), [parent:oil-testing-workshops](../tag/parent:oil-testing-workshops)
 
 _Drafted in January 2016 by Gretchen Gehrke, Stevie Lewis, Liz Barry_
 

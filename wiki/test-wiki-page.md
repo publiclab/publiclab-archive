@@ -1,12 +1,18 @@
 ---
-nid: 15530
 title: test wiki page
-path: public/static/wiki/test-wiki-page.md
+tagnames: testing, developers, lat:22
+author: sagarpreet
+path: /wiki/test-wiki-page.md
+nid: 15530
 uid: 516343
-tagnames: testing,developers,lat:22
+
 ---
 
 # test wiki page
+
+by [sagarpreet](../profile/sagarpreet)
+
+January 16, 2018 09:31 | Tags: [testing](../tag/testing), [developers](../tag/developers), [lat:22](../tag/lat:22)
 
 testing here
 Map testing

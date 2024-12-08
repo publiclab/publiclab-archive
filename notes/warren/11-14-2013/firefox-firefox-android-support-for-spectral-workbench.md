@@ -1,12 +1,18 @@
 ---
-nid: 9781
 title: Firefox/Firefox-Android support for Spectral Workbench!
-path: public/static/notes/warren/11-14-2013/firefox-firefox-android-support-for-spectral-workbench.md
+tagnames: android, spectralworkbench, firefox
+author: warren
+path: /notes/warren/11-14-2013/firefox-firefox-android-support-for-spectral-workbench.md
+nid: 9781
 uid: 1
-tagnames: android,spectralworkbench,firefox
+
 ---
 
 # Firefox/Firefox-Android support for Spectral Workbench!
+
+by [warren](../profile/warren) November 14, 2013 22:35
+
+November 14, 2013 22:35 | Tags: [android](../tag/android), [spectralworkbench](../tag/spectralworkbench), [firefox](../tag/firefox)
 
 As seen in the above screenshot, Spectral Workbench (finally) also works on Firefox and Firefox for Android. 
 

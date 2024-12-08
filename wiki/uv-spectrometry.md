@@ -1,12 +1,18 @@
 ---
-nid: 3837
 title: Ultraviolet spectrometry
-path: public/static/wiki/uv-spectrometry.md
+tagnames: spectrometer, uv, ultraviolet, uv/visible, spectrometry, grating, holographic, reflective
+author: Fernando
+path: /wiki/uv-spectrometry.md
+nid: 3837
 uid: 43374
-tagnames: spectrometer,uv,ultraviolet,uv/visible,spectrometry,grating,holographic,reflective
+
 ---
 
 # Ultraviolet spectrometry
+
+by [warren](../profile/warren), [Fernando](../profile/Fernando)
+
+September 17, 2012 13:20 | Tags: [spectrometer](../tag/spectrometer), [uv](../tag/uv), [ultraviolet](../tag/ultraviolet), [uv/visible](../tag/uv/visible), [spectrometry](../tag/spectrometry), [grating](../tag/grating), [holographic](../tag/holographic), [reflective](../tag/reflective)
 
 This page will sum-up as much information as possible on the subject of ultraviolet or UV/visible spectrometry. It will concentrate on the task of improving the methods to collect data in the 350 - 400nm and possibly below 350nm wavelengths, cameras and gratings permitting 
 

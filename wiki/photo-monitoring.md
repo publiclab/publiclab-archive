@@ -1,12 +1,18 @@
 ---
-nid: 13450
 title: Photo Monitoring
-path: public/static/wiki/photo-monitoring.md
+tagnames: agriculture, photo-monitoring, timelapse, mining, urban-planning, fracking, tool, question:spectrometer, industry, trapcam, trap-cam, trail-cam, activities:timelapse, upgrades:timelapse, method, land-change, oil-and-gas
+author: warren
+path: /wiki/photo-monitoring.md
+nid: 13450
 uid: 1
-tagnames: agriculture,photo-monitoring,timelapse,mining,urban-planning,fracking,tool,question:spectrometer,industry,trapcam,trap-cam,trail-cam,activities:timelapse,upgrades:timelapse,method,land-change,oil-and-gas
+
 ---
 
 # Photo Monitoring
+
+by [stevie](../profile/stevie), [warren](../profile/warren), [mathew](../profile/mathew)
+
+September 15, 2016 18:43 | Tags: [agriculture](../tag/agriculture), [photo-monitoring](../tag/photo-monitoring), [timelapse](../tag/timelapse), [mining](../tag/mining), [urban-planning](../tag/urban-planning), [fracking](../tag/fracking), [tool](../tag/tool), [question:spectrometer](../tag/question:spectrometer), [industry](../tag/industry), [trapcam](../tag/trapcam), [trap-cam](../tag/trap-cam), [trail-cam](../tag/trail-cam), [activities:timelapse](../tag/activities:timelapse), [upgrades:timelapse](../tag/upgrades:timelapse), [method](../tag/method), [land-change](../tag/land-change), [oil-and-gas](../tag/oil-and-gas)
 
 Photography is a powerful and affordable way to document all kinds of environmental issues. We'll be collecting different techniques and tips here -- stay tuned and pitch in where you can! We'll be starting with a focus on #timelapse photography:
 

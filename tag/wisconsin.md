@@ -1,6 +1,6 @@
 # wisconsin
 
-61 notes and wiki pages
+61 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Midwestern Frac Sand Deposits, Aquifers, & Rivers](/notes/mathew/05-23-2014/midwestern-frac-sand-deposits-aquifers-rivers) by [mathew](../profile/mathew)
 - [DIY dust monitoring: Dylos in Wisconsin ](/notes/mathew/06-12-2014/diy-dust-monitoring-dylos-in-wisconsin) by [mathew](../profile/mathew)
@@ -59,7 +59,6 @@
 - [The Sand Sentinel Program](/wiki/the-sand-sentinel-program) (wiki)
 - [Event: Wisconsin Sand Sentinel Training ](/notes/stevie/08-06-2019/event-wisconsin-sand-sentinel-training) by [stevie](../profile/stevie)
 - [Reporting frac sand mine violations in Wisconsin](/notes/joyofsoy/09-26-2019/reporting-frac-sand-mine-violations-in-wisconsin) by [joyofsoy](../profile/joyofsoy)
-- [Wisconsin Solar Companies](/notes/sperbereddie/10-28-2020/wisconsin-solar-companies) by [sperbereddie](../profile/sperbereddie)
 - [Sentinel Training Online](/notes/stevie/01-20-2021/sentinel-training-online) by [stevie](../profile/stevie)
 - [What are people doing about polluted soils that get put back as fill?](/notes/amocorro/03-19-2021/what-are-people-doing-about-polluted-soils-that-get-put-back-as-fill) by [amocorro](../profile/amocorro)
 - [Where can polluted soils be placed?](/notes/amocorro/03-19-2021/where-can-polluted-soils-be-placed) by [amocorro](../profile/amocorro)

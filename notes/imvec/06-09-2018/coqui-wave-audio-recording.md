@@ -1,12 +1,18 @@
 ---
-nid: 16458
 title: Coqui wave audio recording
-path: public/static/notes/imvec/06-09-2018/coqui-wave-audio-recording.md
+tagnames: water, coqui, gaimec, water-conductivity, activity:coqui-usage
+author: imvec
+path: /notes/imvec/06-09-2018/coqui-wave-audio-recording.md
+nid: 16458
 uid: 495038
-tagnames: water,coqui,gaimec,water-conductivity,activity:coqui-usage
+
 ---
 
 # Coqui wave audio recording
+
+by [imvec](../profile/imvec) June 09, 2018 17:02
+
+June 09, 2018 17:02 | Tags: [water](../tag/water), [coqui](../tag/coqui), [gaimec](../tag/gaimec), [water-conductivity](../tag/water-conductivity), [activity:coqui-usage](../tag/activity:coqui-usage)
 
 ## My attempt and results
 After adding a [3.5mm Audio Jack](https://publiclab.org/notes/imvec/06-08-2018/adding-a-jack-to-the-coqui) to the [Coqui build](https://publiclab.org/notes/ashkaya/09-17-2016/build-a-coqui-a-simple-water-conductivity-sensor) we've begun recording waves. Here is a recording of Bezoya bottled water plus an adition of the same water with a teaspoon of salt.

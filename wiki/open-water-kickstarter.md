@@ -1,12 +1,18 @@
 ---
-nid: 11465
 title: open-water-kickstarter
-path: public/static/wiki/open-water-kickstarter.md
-uid: 43651
 tagnames: 
+author: donblair
+path: /wiki/open-water-kickstarter.md
+nid: 11465
+uid: 43651
+
 ---
 
 # open-water-kickstarter
+
+by [donblair](../profile/donblair)
+
+December 16, 2014 15:32 | Tags: 
 
 - Notes for weekly meetings (Google Doc):
 https://docs.google.com/document/d/1nw1dOBPx7Gkd2OrMTbFZhC8RZsoJ0xEE5GEKub3PNqo/edit

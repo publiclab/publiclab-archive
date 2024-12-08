@@ -1,12 +1,18 @@
 ---
-nid: 13130
 title: Shell Gulf of Mexico Oil Spill
-path: public/static/wiki/shell-gulf-of-mexico-oil-spill.md
+tagnames: oil, gulfcoast, oilspill, shelloil, gulfmonitoringconsortium, gulfofmexico
+author: Shannon
+path: /wiki/shell-gulf-of-mexico-oil-spill.md
+nid: 13130
 uid: 9
-tagnames: oil,gulfcoast,oilspill,shelloil,gulfmonitoringconsortium,gulfofmexico
+
 ---
 
 # Shell Gulf of Mexico Oil Spill
+
+by [eustatic](../profile/eustatic), [Shannon](../profile/Shannon), [danbeavers](../profile/danbeavers), [gretchengehrke](../profile/gretchengehrke), [warren](../profile/warren), [tonyc](../profile/tonyc), [stevie](../profile/stevie)
+
+May 19, 2016 20:44 | Tags: [oil](../tag/oil), [gulfcoast](../tag/gulfcoast), [oilspill](../tag/oilspill), [shelloil](../tag/shelloil), [gulfmonitoringconsortium](../tag/gulfmonitoringconsortium), [gulfofmexico](../tag/gulfofmexico)
 
 Public Lab is part of the [Gulf Monitoring Consortium](http://www.gulfmonitor.org/), an alliance launched after the BP Disaster of 2010. Members and partners of the Consortium have been posting information about the recent Shell oil spill in the Gulf of Mexico, and we will be linking to those resources and updating this wiki page in the weeks ahead.
 

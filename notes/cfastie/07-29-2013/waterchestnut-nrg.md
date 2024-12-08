@@ -1,12 +1,18 @@
 ---
-nid: 8937
 title: Water chestnut NRG
-path: public/static/notes/cfastie/07-29-2013/waterchestnut-nrg.md
+tagnames: balloon-mapping, near-infrared-camera, kite-mapping, nrg, vermont, lake, gps, pvos, event, massachusetts, google-earth, invasive, umass-amherst, aquatic, usfws, classification, response:8926, georeferencing, h2onutz, response:8928, gigapan, invasives, waterchestnuts, invasive-species
+author: cfastie
+path: /notes/cfastie/07-29-2013/waterchestnut-nrg.md
+nid: 8937
 uid: 554
-tagnames: balloon-mapping,near-infrared-camera,kite-mapping,nrg,vermont,lake,gps,pvos,event,massachusetts,google-earth,invasive,umass-amherst,aquatic,usfws,classification,response:8926,georeferencing,h2onutz,response:8928,gigapan,invasives,waterchestnuts,invasive-species
+
 ---
 
 # Water chestnut NRG
+
+by [cfastie](../profile/cfastie) July 29, 2013 04:30
+
+July 29, 2013 04:30 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [nrg](../tag/nrg), [vermont](../tag/vermont), [lake](../tag/lake), [gps](../tag/gps), [pvos](../tag/pvos), [event](../tag/event), [massachusetts](../tag/massachusetts), [google-earth](../tag/google-earth), [invasive](../tag/invasive), [umass-amherst](../tag/umass-amherst), [aquatic](../tag/aquatic), [usfws](../tag/usfws), [classification](../tag/classification), [response:8926](../tag/response:8926), [georeferencing](../tag/georeferencing), [h2onutz](../tag/h2onutz), [response:8928](../tag/response:8928), [gigapan](../tag/gigapan), [invasives](../tag/invasives), [waterchestnuts](../tag/waterchestnuts), [invasive-species](../tag/invasive-species)
 
 <em>Image above:  False color infrared image of floating leaved plants on Lake Warner, MA. The canoe is surrounded by white water lily, and the smaller leaved plant (left) is water chestnut, an introduced invasive. This image was made from a pair of synchronous (RGB and NIR) photos taken by a rig lofted by a helium balloon.</em>
 

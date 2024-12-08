@@ -1,12 +1,18 @@
 ---
-nid: 1994
 title: Annotated maps roundup
-path: public/static/notes/warren/5-15-2012/annotated-maps-roundup.md
+tagnames: balloon-mapping, annotated-maps
+author: warren
+path: /notes/warren/5-15-2012/annotated-maps-roundup.md
+nid: 1994
 uid: 1
-tagnames: balloon-mapping,annotated-maps
+
 ---
 
 # Annotated maps roundup
+
+by [warren](../profile/warren) May 15, 2012 20:52
+
+May 15, 2012 20:52 | Tags: [balloon-mapping](../tag/balloon-mapping), [annotated-maps](../tag/annotated-maps)
 
 Several people have been interested in an "annotated maps" feature for MapKnitter and the PLOTS archive. It seems like there are a few possible next steps. 
 

@@ -1,12 +1,18 @@
 ---
-nid: 3607
 title: Flyers or leaflet
-path: public/static/notes/ola/9-1-2012/flyers-or-leaflet.md
-uid: 411
 tagnames: 
+author: Ola
+path: /notes/ola/9-1-2012/flyers-or-leaflet.md
+nid: 3607
+uid: 411
+
 ---
 
 # Flyers or leaflet
+
+by [Ola](../profile/Ola) September 01, 2012 15:35
+
+September 01, 2012 15:35 | Tags: 
 
 Dear all,
 

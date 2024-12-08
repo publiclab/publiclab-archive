@@ -1,12 +1,18 @@
 ---
-nid: 11258
 title: Urban Waters Mapping, NOLA
-path: public/static/wiki/urban-waters-mapping-nola.md
+tagnames: gulf-coast, wetlands, community-mapping, louisiana, restoration, epa, new-orleans, neworleans, tabbed:notes, urbanwater, urbanwaters, community-organizing, project, project:wetlands, fresh-water, urban-wetland
+author: stevie
+path: /wiki/urban-waters-mapping-nola.md
+nid: 11258
 uid: 422561
-tagnames: gulf-coast,wetlands,community-mapping,louisiana,restoration,epa,new-orleans,neworleans,tabbed:notes,urbanwater,urbanwaters,community-organizing,project,project:wetlands,fresh-water,urban-wetland
+
 ---
 
 # Urban Waters Mapping, NOLA
+
+by [stevie](../profile/stevie), [Alexis](../profile/Alexis), [sierra170](../profile/sierra170), [eustatic](../profile/eustatic)
+
+October 11, 2014 16:30 | Tags: [gulf-coast](../tag/gulf-coast), [wetlands](../tag/wetlands), [community-mapping](../tag/community-mapping), [louisiana](../tag/louisiana), [restoration](../tag/restoration), [epa](../tag/epa), [new-orleans](../tag/new-orleans), [neworleans](../tag/neworleans), [tabbed:notes](../tag/tabbed:notes), [urbanwater](../tag/urbanwater), [urbanwaters](../tag/urbanwaters), [community-organizing](../tag/community-organizing), [project](../tag/project), [project:wetlands](../tag/project:wetlands), [fresh-water](../tag/fresh-water), [urban-wetland](../tag/urban-wetland)
 
 Welcome to the New Orleans Urban Waters Restoration Mapping Project page. This project was funded in part by the EPA Urban Waters Small Grant Program. This community mapping project aimed to maps eight urban restoration sites around New Orleans. Learn more about the sites and visit the maps made in this project below!
 

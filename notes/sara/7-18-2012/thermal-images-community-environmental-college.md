@@ -1,12 +1,18 @@
 ---
-nid: 2863
 title: Thermal Images for Community Environmental College
-path: public/static/notes/sara/7-18-2012/thermal-images-community-environmental-college.md
+tagnames: thermal-flashlight, replication:625
+author: sara
+path: /notes/sara/7-18-2012/thermal-images-community-environmental-college.md
+nid: 2863
 uid: 8
-tagnames: thermal-flashlight,replication:625
+
 ---
 
 # Thermal Images for Community Environmental College
+
+by [sara](../profile/sara) July 18, 2012 14:31
+
+July 18, 2012 14:31 | Tags: [thermal-flashlight](../tag/thermal-flashlight), [replication:625](../tag/replication:625)
 
 Over this week, I'm working with <a href="http://ejlri.wordpress.com/">Environmental Justice League</a>'s Community Environmental College. We are making thermal flashlights and experimenting with thermal images.
 

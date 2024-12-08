@@ -1,12 +1,18 @@
 ---
-nid: 684
 title: GIS and balloon mapping at UK
-path: public/static/notes/jeremy/1-10-2012/gis-and-balloon-mapping-uk.md
-uid: 323
 tagnames: 
+author: jeremy
+path: /notes/jeremy/1-10-2012/gis-and-balloon-mapping-uk.md
+nid: 684
+uid: 323
+
 ---
 
 # GIS and balloon mapping at UK
+
+by [jeremy](../profile/jeremy) January 10, 2012 17:57
+
+January 10, 2012 17:57 | Tags: 
 
 Spring semester is just about to begin and here at the University of Kentucky we'll be doing much more balloon and kite mapping to follow up from our initial forays last fall.
 

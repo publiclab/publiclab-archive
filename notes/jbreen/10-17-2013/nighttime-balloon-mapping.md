@@ -1,12 +1,18 @@
 ---
-nid: 9497
 title: Nighttime Balloon Mapping
-path: public/static/notes/jbreen/10-17-2013/nighttime-balloon-mapping.md
-uid: 326
 tagnames: balloon-mapping
+author: jbreen
+path: /notes/jbreen/10-17-2013/nighttime-balloon-mapping.md
+nid: 9497
+uid: 326
+
 ---
 
 # Nighttime Balloon Mapping
+
+by [jbreen](../profile/jbreen) October 17, 2013 22:29
+
+October 17, 2013 22:29 | Tags: [balloon-mapping](../tag/balloon-mapping)
 
 ###What I want to do
 The topic of balloon mapping at night has come up a couple of times recently. [Andy Shears](http://andrewshears.com/2013/09/18/launch-m-01-september-14-2013/) and his students at Mansfield University did some really beautiful work taking pictures of MU's first nighttime football game in over a century in September. However, that seems to be the only nighttime mapping using Public Lab tools that anyone seems to know of and it seems like it would be an exceptionally useful tool for mapping light pollution.  

@@ -1,12 +1,18 @@
 ---
-nid: 12963
 title: Tiny boost
-path: public/static/notes/cfastie/04-13-2016/tiny-boost.md
+tagnames: kite-mapping, arduino, vermont, kite, saturnv, skyshield, half-spherical, eos_m, voltage, battery, boost, response:12906
+author: cfastie
+path: /notes/cfastie/04-13-2016/tiny-boost.md
+nid: 12963
 uid: 554
-tagnames: kite-mapping,arduino,vermont,kite,saturnv,skyshield,half-spherical,eos_m,voltage,battery,boost,response:12906
+
 ---
 
 # Tiny boost
+
+by [cfastie](../profile/cfastie) April 13, 2016 01:22
+
+April 13, 2016 01:22 | Tags: [kite-mapping](../tag/kite-mapping), [arduino](../tag/arduino), [vermont](../tag/vermont), [kite](../tag/kite), [saturnv](../tag/saturnv), [skyshield](../tag/skyshield), [half-spherical](../tag/half-spherical), [eos_m](../tag/eos_m), [voltage](../tag/voltage), [battery](../tag/battery), [boost](../tag/boost), [response:12906](../tag/response:12906)
 
 *Above: Stereographic projection of a spherical panorama stitched from 40 photos taken by a Canon EOS M camera on a Saturn V Rig hanging from the ceiling by its Picavet in the middle of the living room.*
 

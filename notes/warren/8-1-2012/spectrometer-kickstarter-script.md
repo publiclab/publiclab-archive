@@ -1,12 +1,18 @@
 ---
-nid: 3063
 title: Spectrometer Kickstarter script
-path: public/static/notes/warren/8-1-2012/spectrometer-kickstarter-script.md
+tagnames: spectrometer, kickstarter
+author: warren
+path: /notes/warren/8-1-2012/spectrometer-kickstarter-script.md
+nid: 3063
 uid: 1
-tagnames: spectrometer,kickstarter
+
 ---
 
 # Spectrometer Kickstarter script
+
+by [warren](../profile/warren) August 01, 2012 15:17
+
+August 01, 2012 15:17 | Tags: [spectrometer](../tag/spectrometer), [kickstarter](../tag/kickstarter)
 
 I'm getting ready to post a Kickstarter campaign to make a whole bunch of [PLOTS spectrometers](/tool/spectrometer) and get more people involved in that project. I'm trying different reward structures and rejiggering the script a lot and thought I'd share what I have to see if people have input.
 

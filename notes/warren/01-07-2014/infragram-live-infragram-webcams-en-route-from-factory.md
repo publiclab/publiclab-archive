@@ -1,12 +1,18 @@
 ---
-nid: 9929
 title: Infragram Live & Infragram webcams en route from factory
-path: public/static/notes/warren/01-07-2014/infragram-live-infragram-webcams-en-route-from-factory.md
+tagnames: near-infrared-camera, kickstarter, infragram, response:9917
+author: warren
+path: /notes/warren/01-07-2014/infragram-live-infragram-webcams-en-route-from-factory.md
+nid: 9929
 uid: 1
-tagnames: near-infrared-camera,kickstarter,infragram,response:9917
+
 ---
 
 # Infragram Live & Infragram webcams en route from factory
+
+by [warren](../profile/warren) January 07, 2014 17:47
+
+January 07, 2014 17:47 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [kickstarter](../tag/kickstarter), [infragram](../tag/infragram), [response:9917](../tag/response:9917)
 
 ###Infragram Live
 

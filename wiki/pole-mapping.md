@@ -1,12 +1,18 @@
 ---
-nid: 11512
 title: Pole Mapping
-path: public/static/wiki/pole-mapping.md
+tagnames: agriculture, polemapping, urban-planning, pole-mapping, tool, land-use, difficulty:medium, status:in-progress, time:1h, activity:aerial-photography, category:monitor, parent:aerial-photography, method, land-change
+author: liz
+path: /wiki/pole-mapping.md
+nid: 11512
 uid: 7
-tagnames: agriculture,polemapping,urban-planning,pole-mapping,tool,land-use,difficulty:medium,status:in-progress,time:1h,activity:aerial-photography,category:monitor,parent:aerial-photography,method,land-change
+
 ---
 
 # Pole Mapping
+
+by [warren](../profile/warren), [joyofsoy](../profile/joyofsoy), [natalie](../profile/natalie), [stevie](../profile/stevie), [liz](../profile/liz)
+
+January 07, 2015 22:39 | Tags: [agriculture](../tag/agriculture), [polemapping](../tag/polemapping), [urban-planning](../tag/urban-planning), [pole-mapping](../tag/pole-mapping), [tool](../tag/tool), [land-use](../tag/land-use), [difficulty:medium](../tag/difficulty:medium), [status:in-progress](../tag/status:in-progress), [time:1h](../tag/time:1h), [activity:aerial-photography](../tag/activity:aerial-photography), [category:monitor](../tag/category:monitor), [parent:aerial-photography](../tag/parent:aerial-photography), [method](../tag/method), [land-change](../tag/land-change)
 
 <div class="alert">This page is under development, feel free to add!</div>
 

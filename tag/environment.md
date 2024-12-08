@@ -1,8 +1,7 @@
 # environment
 
-25 notes and wiki pages
+25 notes and wiki pages | [see all topics](/wiki/topics)
 
-- [When Flipping Mieszkania Warszawa A](/wiki/when-flipping-mieszkania-warszawa-a) (wiki)
 - [Autonomous Recording Unit](/wiki/autonomous-recording-unit) (wiki)
 - [Fire hazard Vulnerability of Buildings based on their proximity to fuel and gas stations.](/notes/christad92/12-07-2014/fire-hazard-vulnerability-of-buildings-based-on-their-proximity-to-fuel-and-gas-stations) by [christad92](../profile/christad92)
 - [Progress? Options...](/notes/bbran/10-21-2016/progress-options) by [bbran](../profile/bbran)
@@ -18,12 +17,9 @@
 - [How to bootload a Riffle #Arduino #water #science #tech](/notes/Zengirl2/01-04-2018/how-to-bootload-a-riffle) by [zengirl2](../profile/zengirl2)
 - [RGSoC proposal : Pollution tracker](/notes/evjam/03-01-2018/pollution-tracker) by [evjam](../profile/evjam)
 - [Map the quiet places near you using Hush City platform](/notes/Hush_City_Mobile_Lab/05-06-2019/map-the-quiet-places-near-you-using-hushcity-platform) by [Hush_City_Mobile_Lab](../profile/Hush_City_Mobile_Lab)
-- [Pest Control & Exterminator in Rochester NY](/notes/TowNandUSA/10-14-2019/pest-control-exterminator-in-rochester-ny) by [TowNandUSA](../profile/TowNandUSA)
 - [Fusing 3D Modelling with NDVI in Python + VisualSFM + Meshlab](/notes/ektopyrotic/06-10-2020/fusing-3d-modelling-with-ndvi-in-python-visualsfm-meshlab) by [ektopyrotic](../profile/ektopyrotic)
 - [Drone NDVI Mapping with QGIS and Python Analysis Code](/notes/ektopyrotic/06-13-2020/drone-ndvi-mapping-with-qgis-and-python-analysis-code) by [ektopyrotic](../profile/ektopyrotic)
 - [Image + Video Segmentation in Near-Infrared Using HSV Color Spaces with OpenCV in Python](/notes/ektopyrotic/10-03-2020/image-video-segmentation-in-near-infrared-using-hsv-color-spaces-with-opencv-in-python) by [ektopyrotic](../profile/ektopyrotic)
-- [Environment of New Zealand](/notes/ConfidusSolutions/11-09-2020/environment-of-new-zealand) by [ConfidusSolutions](../profile/ConfidusSolutions)
 - [A South Dakota resident's story](/notes/eightballocto/04-22-2021/a-south-dakota-resident-s-story) by [eightballocto](../profile/eightballocto)
-- [Protest (testosterone Mix) 400 Mg ml. Shop Accept Bitcoin #YBN2SNdqj ](/notes/lamlam/05-20-2021/protest-testosterone-mix-400-mg-ml-shop-accept-bitcoin-ybn2sndqj) by [lamlam](../profile/lamlam)
 - [Plastic Waste Makes both the Environment and Living beings Unhealthy ](/notes/Ujitha/07-02-2021/plastic-waste-makes-both-the-environment-and-living-beings-unhealthy) by [Ujitha](../profile/Ujitha)
 - [Evaluating Marine Ecosystems through Plankton](/notes/Roundboy/06-13-2022/evaluating-marine-ecosystems-through-plankton) by [Roundboy](../profile/Roundboy)

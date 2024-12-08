@@ -1,10 +1,9 @@
 # photosynq
 
-23 notes and wiki pages
+23 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Photosynq - measuring plant health across the world](/notes/gbathree/3-26-2013/photosynq-measuring-plant-health-across-world) by [gbathree](../profile/gbathree)
 - [Look mom - no cords! ... well, almost](/notes/gbathree/5-1-2013/look-mom-no-cords-well-almost) by [gbathree](../profile/gbathree)
-- [Making Arduino and Android talk](/notes/gbathree/05-07-2013/making-arduino-and-android-talk) by [gbathree](../profile/gbathree)
 - [Measuring algal photosynthetic activity with Photosynq](/notes/gbathree/07-11-2013/measuring-algal-photosynthetic-activity-with-photosynq) by [gbathree](../profile/gbathree)
 - [Photosynq - Preparing for the Open Hardware Summit](/notes/gbathree/08-13-2013/photosynq-preparing-for-the-open-hardware-summit) by [gbathree](../profile/gbathree)
 - [Killing plants for fun and science](/notes/gbathree/09-05-2013/killing-plants-for-fun-and-science) by [gbathree](../profile/gbathree)

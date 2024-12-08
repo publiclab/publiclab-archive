@@ -1,12 +1,18 @@
 ---
-nid: 15686
 title: Photometer Kit Breakdown
-path: public/static/wiki/photometer-kit-breakdown.md
+tagnames: community-kits, new-community-kits, community-kits-prep
+author: programmer1200
+path: /wiki/photometer-kit-breakdown.md
+nid: 15686
 uid: 509305
-tagnames: community-kits,new-community-kits,community-kits-prep
+
 ---
 
 # Photometer Kit Breakdown
+
+by [programmer1200](../profile/programmer1200), [warren](../profile/warren)
+
+February 05, 2018 13:16 | Tags: [community-kits](../tag/community-kits), [new-community-kits](../tag/new-community-kits), [community-kits-prep](../tag/community-kits-prep)
 
 More updates soon
 

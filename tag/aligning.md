@@ -1,6 +1,6 @@
 # aligning
 
-2 notes and wiki pages
+2 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [The LUMCON Lawn](/notes/cfastie/11-14-2012/lumcon-lawn) by [cfastie](../profile/cfastie)
 - [Mapping the LUMCON lawn](/notes/cfastie/11-11-2014/mapping-the-lumcon-lawn) by [cfastie](../profile/cfastie)

@@ -1,12 +1,18 @@
 ---
-nid: 1622
 title: Water Quality Sensor
-path: public/static/wiki/water-quality-sensor.md
+tagnames: new-york-city, arduino, water-quality, water, water-quality-sensor, tool, dontflushme, method, project:water-quality
+author: liz
+path: /wiki/water-quality-sensor.md
+nid: 1622
 uid: 7
-tagnames: new-york-city,arduino,water-quality,water,water-quality-sensor,tool,dontflushme,method,project:water-quality
+
 ---
 
 # Water Quality Sensor
+
+by [warren](../profile/warren), [Dana](../profile/Dana), [Shannon](../profile/Shannon), [lpercifield](../profile/lpercifield), [liz](../profile/liz)
+
+April 05, 2012 18:33 | Tags: [new-york-city](../tag/new-york-city), [arduino](../tag/arduino), [water-quality](../tag/water-quality), [water](../tag/water), [water-quality-sensor](../tag/water-quality-sensor), [tool](../tag/tool), [dontflushme](../tag/dontflushme), [method](../tag/method), [project:water-quality](../tag/project:water-quality)
 
 Developed during the Water Hackathon on March 23-25 in New York City, the water quality sensor is a multipurpose tool for collecting data remotely. This tool is rapidly changing and is being used as part of the on going research initiative called [DontFlush.me](https://web.archive.org/web/20160111004345/dontflush.me) (archived).
 

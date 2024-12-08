@@ -1,6 +1,6 @@
 # lat--31.4
 
-3 notes and wiki pages
+3 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Mi post de presentación! / My presentation post](/notes/alejobonifacio/05-24-2021/mi-post-de-presentacion) by [alejobonifacio](../profile/alejobonifacio)
 - [El desagüe sospechoso en el río Suquía](/notes/alejobonifacio/10-13-2021/el-desague-sospechoso-en-el-rio-suquia) by [alejobonifacio](../profile/alejobonifacio)

@@ -1,12 +1,18 @@
 ---
-nid: 10996
 title: Spec Cam to Infragram w/the flip of filter? (Rosco "Fire" #19)
-path: public/static/notes/Natalie/07-29-2014/spec-cam-to-infragram-w-the-flip-of-filter-rosco-fire-19.md
+tagnames: near-infrared-camera, spectrometer, ndvi, near-infrared, infragram, infragram-conversion, infragram-filters, infragram-camera-testing, calibrate-ndvi, question:ndvi
+author: natalie
+path: /notes/Natalie/07-29-2014/spec-cam-to-infragram-w-the-flip-of-filter-rosco-fire-19.md
+nid: 10996
 uid: 424454
-tagnames: near-infrared-camera,spectrometer,ndvi,near-infrared,infragram,infragram-conversion,infragram-filters,infragram-camera-testing,calibrate-ndvi,question:ndvi
+
 ---
 
 # Spec Cam to Infragram w/the flip of filter? (Rosco "Fire" #19)
+
+by [natalie](../profile/natalie) July 29, 2014 23:12
+
+July 29, 2014 23:12 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [spectrometer](../tag/spectrometer), [ndvi](../tag/ndvi), [near-infrared](../tag/near-infrared), [infragram](../tag/infragram), [infragram-conversion](../tag/infragram-conversion), [infragram-filters](../tag/infragram-filters), [infragram-camera-testing](../tag/infragram-camera-testing), [calibrate-ndvi](../tag/calibrate-ndvi), [question:ndvi](../tag/question:ndvi)
 
 ###What I want to do
 I would like to see if the "low-cost" webcam we are using currently for our Desktop Sprectrometer Kit will work as an Infragram webcam by installing the red filter (specifically the Rosco "Fire" #19)

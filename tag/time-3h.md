@@ -1,6 +1,6 @@
 # time-3h
 
-15 notes and wiki pages
+15 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [easy cut delta kite plans](/notes/mathew/7-19-2012/easy-cut-delta-kite-plans) by [mathew](../profile/mathew)
 - [Prototyping a kite for kids](/notes/oscar-brett/7-26-2012/prototyping-kite-kids) by [oscarbrett](../profile/oscarbrett)
@@ -15,5 +15,4 @@
 - [Building Snake Plant Air Remediation kit in Bangalore, India](/notes/deeptalaxmibharadwaj/09-02-2019/building-snake-plant-air-remediation-kit-in-bangalore-india) by [deeptalaxmibharadwaj](../profile/deeptalaxmibharadwaj)
 - [Building the Simple Turbidity Sensor Prototype](/notes/wmacfarl/11-11-2019/building-the-simple-turbidity-sensor-prototype) by [wmacfarl](../profile/wmacfarl)
 - [How to Connect a pH Sensor to the Simple Water Sensor Platform](/notes/wmacfarl/12-09-2019/building-the-simple-ph-sensor-prototype) by [wmacfarl](../profile/wmacfarl)
-- [Building the Simple ORP Sensor Prototype](/notes/wmacfarl/12-09-2019/building-the-simple-orp-sensor-prototype) by [wmacfarl](../profile/wmacfarl)
 - [How to find out past and current uses for an area of land](/notes/bhamster/02-19-2021/how-to-find-out-past-and-current-uses-for-an-area-of-land) by [bhamster](../profile/bhamster)

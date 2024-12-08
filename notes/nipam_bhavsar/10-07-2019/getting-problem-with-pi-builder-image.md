@@ -1,12 +1,18 @@
 ---
-nid: 21106
 title: Getting problem with Pi-builder image
-path: public/static/notes/nipam_bhavsar/10-07-2019/getting-problem-with-pi-builder-image.md
+tagnames: camera, pi, raspberry, question:raspberry-pi, first-time-poster, pi-builder, question:pi-builder
+author: nipam_bhavsar
+path: /notes/nipam_bhavsar/10-07-2019/getting-problem-with-pi-builder-image.md
+nid: 21106
 uid: 625789
-tagnames: camera,pi,raspberry,question:raspberry-pi,first-time-poster,pi-builder,question:pi-builder
+
 ---
 
 # Getting problem with Pi-builder image
+
+by [nipam_bhavsar](../profile/nipam_bhavsar) October 07, 2019 14:47
+
+October 07, 2019 14:47 | Tags: [camera](../tag/camera), [pi](../tag/pi), [raspberry](../tag/raspberry), [question:raspberry-pi](../tag/question:raspberry-pi), [first-time-poster](../tag/first-time-poster), [pi-builder](../tag/pi-builder), [question:pi-builder](../tag/question:pi-builder)
 
 Hello Team,
 

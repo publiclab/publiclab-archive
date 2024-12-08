@@ -1,6 +1,6 @@
 # question-infragram-pi
 
-7 notes and wiki pages
+7 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Add a filter on a Pi NoIR camera](/notes/fsxskillz/03-05-2018/add-a-filter-on-a-pi-noir-camera) by [fsxskillz](../profile/fsxskillz)
 - [How can I can make a raspberry pi camera just with the filters process the crops and immediately produce the results to a computer or to other device, without having to use the website?](/notes/csteran/03-13-2018/how-can-i-can-make-a-raspberry-pi-camera-just-with-the-filters-process-the-crops-and-immediately-produce-the-results-to-a-computer-or-to-other-device-without-having-to-use-the-website) by [csteran](../profile/csteran)

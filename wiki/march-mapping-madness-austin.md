@@ -1,12 +1,18 @@
 ---
-nid: 896
 title: March Mapping Madness-Austin
-path: public/static/wiki/march-mapping-madness-austin.md
-uid: 8
 tagnames: 
+author: sara
+path: /wiki/march-mapping-madness-austin.md
+nid: 896
+uid: 8
+
 ---
 
 # March Mapping Madness-Austin
+
+by [Hudonnoodles](../profile/Hudonnoodles), [bodacea](../profile/bodacea), [Shannon](../profile/Shannon), [sara](../profile/sara)
+
+March 06, 2012 01:33 | Tags: 
 
 Updated info, March 11, 2012:
 The meetup is still on for 2:30PM on UT's Campus, unless otherwise noted. Let's hope for some sunshine! 

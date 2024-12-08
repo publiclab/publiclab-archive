@@ -1,6 +1,6 @@
 # activity-raspberry-pi
 
-4 notes and wiki pages
+4 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Raspberry Pi Camera Rig](/notes/SeanKMcGinnis/03-12-2014/raspberry-pi-camera-rig) by [seankmcginnis](../profile/seankmcginnis)
 - [Raspberry Pi spectrometer GUI](/notes/cedarlodge/03-07-2018/raspberry-pi-spectrometer-gui) by [cedarlodge](../profile/cedarlodge)

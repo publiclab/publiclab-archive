@@ -1,12 +1,18 @@
 ---
-nid: 1624
 title: Welcome to Public Lab
-path: public/static/wiki/welcome.md
+tagnames: community, website, welcome, getting-started, newcomers, onboarding, style:minimal, content
+author: warren
+path: /wiki/welcome.md
+nid: 1624
 uid: 1
-tagnames: community,website,welcome,getting-started,newcomers,onboarding,style:minimal,content
+
 ---
 
 # Welcome to Public Lab
+
+by [bhamster](../profile/bhamster), [laurel_mire](../profile/laurel_mire), [xose](../profile/xose), [liz](../profile/liz), [joyofsoy](../profile/joyofsoy), [stevie](../profile/stevie), [warren](../profile/warren)
+
+April 06, 2012 16:10 | Tags: [community](../tag/community), [website](../tag/website), [welcome](../tag/welcome), [getting-started](../tag/getting-started), [newcomers](../tag/newcomers), [onboarding](../tag/onboarding), [style:minimal](../tag/style:minimal), [content](../tag/content)
 
 We're so happy to meet you! 👋🎉🎈 This page is to help newcomers get started with the Public Lab community.
 

@@ -1,12 +1,16 @@
 ---
-nid: 17132
 title: sidebar-welcome
-path: public/static/feature/sidebar-welcome.md
-uid: 1
 tagnames: 
+author: warren
+path: /feature/sidebar-welcome.md
+nid: 17132
+uid: 1
+
 ---
 
 # sidebar-welcome
+
+September 17, 2018 16:43 | Tags: 
 
     <div class="panel panel-default">
       <div class="panel-body">

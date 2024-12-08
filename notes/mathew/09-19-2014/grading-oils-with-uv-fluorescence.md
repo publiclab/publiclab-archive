@@ -1,12 +1,18 @@
 ---
-nid: 11163
 title: Grading oils with UV fluorescence
-path: public/static/notes/mathew/09-19-2014/grading-oils-with-uv-fluorescence.md
+tagnames: spectrometer, laser, fluorescence, crude, oil-testing-kit, 405nm
+author: mathew
+path: /notes/mathew/09-19-2014/grading-oils-with-uv-fluorescence.md
+nid: 11163
 uid: 4
-tagnames: spectrometer,laser,fluorescence,crude,oil-testing-kit,405nm
+
 ---
 
 # Grading oils with UV fluorescence
+
+by [mathew](../profile/mathew) September 19, 2014 17:44
+
+September 19, 2014 17:44 | Tags: [spectrometer](../tag/spectrometer), [laser](../tag/laser), [fluorescence](../tag/fluorescence), [crude](../tag/crude), [oil-testing-kit](../tag/oil-testing-kit), [405nm](../tag/405nm)
 
 ###What I want to do
 I want to be able to grade oils from light to heavy. I'm going to use a means of UV Fluorescence with a 405nm laser pointer. I'll look at the emission spectra and see if I get a shift of the spectra's peak from green to blue as I move from light to heavy oils.  My goal is to replicate a UV Fluorescence technique used in UV LIDAR research.

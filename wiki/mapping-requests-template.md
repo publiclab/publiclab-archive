@@ -1,12 +1,18 @@
 ---
-nid: 14626
 title: Mapping Requests Template
-path: public/static/wiki/mapping-requests-template.md
-uid: 1
 tagnames: 
+author: warren
+path: /wiki/mapping-requests-template.md
+nid: 14626
+uid: 1
+
 ---
 
 # Mapping Requests Template
+
+by [warren](../profile/warren)
+
+July 06, 2017 22:46 | Tags: 
 
 ## Where
 

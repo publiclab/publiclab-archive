@@ -1,12 +1,18 @@
 ---
-nid: 12635
 title: can't get the calibration right
-path: public/static/notes/eigentuininhuis/01-29-2016/can-t-get-the-calibration-right.md
+tagnames: question:spectral-workbench, first-time-poster
+author: eigentuininhuis
+path: /notes/eigentuininhuis/01-29-2016/can-t-get-the-calibration-right.md
+nid: 12635
 uid: 460522
-tagnames: question:spectral-workbench,first-time-poster
+
 ---
 
 # can't get the calibration right
+
+by [eigentuininhuis](../profile/eigentuininhuis) January 29, 2016 08:24
+
+January 29, 2016 08:24 | Tags: [question:spectral-workbench](../tag/question:spectral-workbench), [first-time-poster](../tag/first-time-poster)
 
 ###What I want to do or know
 Can't calibrate under the error <12 and i get this after calibration in the screen....

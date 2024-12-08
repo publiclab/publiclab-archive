@@ -1,12 +1,18 @@
 ---
-nid: 10443
 title: Marine bio spectrometer test
-path: public/static/notes/Wolfness921/05-07-2014/marine-bio-spectrometer-test.md
-uid: 423277
 tagnames: 
+author: Wolfness921
+path: /notes/Wolfness921/05-07-2014/marine-bio-spectrometer-test.md
+nid: 10443
+uid: 423277
+
 ---
 
 # Marine bio spectrometer test
+
+by [Wolfness921](../profile/Wolfness921) May 07, 2014 19:42
+
+May 07, 2014 19:42 | Tags: 
 
 ###What I want to do
 

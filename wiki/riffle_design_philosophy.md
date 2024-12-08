@@ -1,12 +1,18 @@
 ---
-nid: 13476
 title: riffle_design_philosophy
-path: public/static/wiki/riffle_design_philosophy.md
+tagnames: riffle, parent:riffle, design-philosophy
+author: donblair
+path: /wiki/riffle_design_philosophy.md
+nid: 13476
 uid: 43651
-tagnames: riffle,parent:riffle,design-philosophy
+
 ---
 
 # riffle_design_philosophy
+
+by [warren](../profile/warren), [donblair](../profile/donblair)
+
+September 24, 2016 01:31 | Tags: [riffle](../tag/riffle), [parent:riffle](../tag/parent:riffle), [design-philosophy](../tag/design-philosophy)
 
 # Riffle Design Philosophy
 

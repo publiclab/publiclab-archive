@@ -1,12 +1,18 @@
 ---
-nid: 301
 title: Balloon Mapping iPad app
-path: public/static/notes/warren/5-26-2011/balloon-mapping-ipad-app.md
-uid: 1
 tagnames: 
+author: warren
+path: /notes/warren/5-26-2011/balloon-mapping-ipad-app.md
+nid: 301
+uid: 1
+
 ---
 
 # Balloon Mapping iPad app
+
+by [warren](../profile/warren) May 26, 2011 17:06
+
+May 26, 2011 17:06 | Tags: 
 
 (above image by [Gret Curtis, CC-BY](https://www.flickr.com/photos/77692232@N00/5179497260/))
 

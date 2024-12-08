@@ -1,12 +1,18 @@
 ---
-nid: 12986
 title: Thinking about a more stable spectrometer...
-path: public/static/notes/viechdokter/04-15-2016/thinking-about-a-more-stable-spectrometer.md
+tagnames: spectrometer, design, barnstar:basic, stability, setup, rigidness
+author: viechdokter
+path: /notes/viechdokter/04-15-2016/thinking-about-a-more-stable-spectrometer.md
+nid: 12986
 uid: 468990
-tagnames: spectrometer,design,barnstar:basic,stability,setup,rigidness
+
 ---
 
 # Thinking about a more stable spectrometer...
+
+by [viechdokter](../profile/viechdokter) April 15, 2016 20:20
+
+April 15, 2016 20:20 | Tags: [spectrometer](../tag/spectrometer), [design](../tag/design), [barnstar:basic](../tag/barnstar:basic), [stability](../tag/stability), [setup](../tag/setup), [rigidness](../tag/rigidness)
 
 I read a lot about a more rigid setup of the PLab spectrometer in this forum. So I thought about how to avoid the velcro- and paper instabilities and came up with this idea:
 

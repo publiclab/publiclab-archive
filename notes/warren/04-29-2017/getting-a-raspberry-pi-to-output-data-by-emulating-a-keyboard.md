@@ -1,12 +1,18 @@
 ---
-nid: 14151
 title: Getting a Raspberry Pi to output data by emulating a keyboard
-path: public/static/notes/warren/04-29-2017/getting-a-raspberry-pi-to-output-data-by-emulating-a-keyboard.md
+tagnames: raspberry-pi, usb, ease-of-use, keyboard, hid, question:raspberry-pi, question:data-logging
+author: warren
+path: /notes/warren/04-29-2017/getting-a-raspberry-pi-to-output-data-by-emulating-a-keyboard.md
+nid: 14151
 uid: 1
-tagnames: raspberry-pi,usb,ease-of-use,keyboard,hid,question:raspberry-pi,question:data-logging
+
 ---
 
 # Getting a Raspberry Pi to output data by emulating a keyboard
+
+by [warren](../profile/warren) April 29, 2017 20:28
+
+April 29, 2017 20:28 | Tags: [raspberry-pi](../tag/raspberry-pi), [usb](../tag/usb), [ease-of-use](../tag/ease-of-use), [keyboard](../tag/keyboard), [hid](../tag/hid), [question:raspberry-pi](../tag/question:raspberry-pi), [question:data-logging](../tag/question:data-logging)
 
 ### What I want to do
 

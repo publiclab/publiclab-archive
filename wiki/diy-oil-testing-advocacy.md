@@ -1,12 +1,18 @@
 ---
-nid: 12664
 title: DIY Oil Testing Advocacy
-path: public/static/wiki/diy-oil-testing-advocacy.md
+tagnames: spectrometer, oil-testing-kit, draft
+author: warren
+path: /wiki/diy-oil-testing-advocacy.md
+nid: 12664
 uid: 1
-tagnames: spectrometer,oil-testing-kit,draft
+
 ---
 
 # DIY Oil Testing Advocacy
+
+by [warren](../profile/warren), [ann](../profile/ann), [gretchengehrke](../profile/gretchengehrke)
+
+February 05, 2016 23:15 | Tags: [spectrometer](../tag/spectrometer), [oil-testing-kit](../tag/oil-testing-kit), [draft](../tag/draft)
 
 <div class="alert alert-info">This is Part IV of <a href="/wiki/diy-oil-testing">DIY Oil Testing: Progress toward community oil pollution analysis</a></div>
 

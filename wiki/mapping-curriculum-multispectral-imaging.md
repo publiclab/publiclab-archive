@@ -1,12 +1,18 @@
 ---
-nid: 401
 title: Mapping Curriculum: Multispectral Imaging
-path: public/static/wiki/mapping-curriculum-multispectral-imaging.md
-uid: 12
 tagnames: 
+author: gonzoearth
+path: /wiki/mapping-curriculum-multispectral-imaging.md
+nid: 401
+uid: 12
+
 ---
 
 # Mapping Curriculum: Multispectral Imaging
+
+by [gonzoearth](../profile/gonzoearth)
+
+July 21, 2011 06:10 | Tags: 
 
 *As part of the [Grassroots Mapping Curriculum](/wiki/mapping-curriculum) series.*
 

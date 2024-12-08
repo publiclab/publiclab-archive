@@ -1,12 +1,18 @@
 ---
-nid: 24814
 title: Outreachy proposal: New Dashboard Implementation
-path: public/static/notes/stace/10-26-2020/outreachy-proposal-new-dashboard-implementation.md
+tagnames: software, first-time-poster, lat:1.010689, lon:9.997558, zoom:6, outreachy-winter-2020, outreachy-2020-winter-proposals, response:24687
+author: stace
+path: /notes/stace/10-26-2020/outreachy-proposal-new-dashboard-implementation.md
+nid: 24814
 uid: 726043
-tagnames: software,first-time-poster,lat:1.010689,lon:9.997558,zoom:6,outreachy-winter-2020,outreachy-2020-winter-proposals,response:24687
+
 ---
 
 # Outreachy proposal: New Dashboard Implementation
+
+by [stace](../profile/stace) October 26, 2020 15:49
+
+October 26, 2020 15:49 | Tags: [software](../tag/software), [first-time-poster](../tag/first-time-poster), [lat:1.010689](../tag/lat:1.010689), [lon:9.997558](../tag/lon:9.997558), [zoom:6](../tag/zoom:6), [outreachy-winter-2020](../tag/outreachy-winter-2020), [outreachy-2020-winter-proposals](../tag/outreachy-2020-winter-proposals), [response:24687](../tag/response:24687)
 
 -><-
 

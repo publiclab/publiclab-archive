@@ -1,12 +1,16 @@
 ---
-nid: 11796
 title: anniversary-banner
-path: public/static/feature/anniversary-banner.md
+tagnames: anniversary, header
+author: warren
+path: /feature/anniversary-banner.md
+nid: 11796
 uid: 1
-tagnames: anniversary,header
+
 ---
 
 # anniversary-banner
+
+May 08, 2015 16:35 | Tags: [anniversary](../tag/anniversary), [header](../tag/header)
 
 <!-- WHOEVER UPDATES THIS, PLEASE TEST ON DIFFERENT SCREEN SIZES-->
 

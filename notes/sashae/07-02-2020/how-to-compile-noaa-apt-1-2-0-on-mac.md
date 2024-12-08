@@ -1,12 +1,18 @@
 ---
-nid: 24052
 title: How to Compile NOAA APT 1.2.0 and 1.3.0 on Mac
-path: public/static/notes/sashae/07-02-2020/how-to-compile-noaa-apt-1-2-0-on-mac.md
+tagnames: seeks:replications, lat:51.50735, lon:-0.127758, zoom:6, open-weather, activity:open-weather, response:24043
+author: sashae
+path: /notes/sashae/07-02-2020/how-to-compile-noaa-apt-1-2-0-on-mac.md
+nid: 24052
 uid: 693684
-tagnames: seeks:replications,lat:51.50735,lon:-0.127758,zoom:6,open-weather,activity:open-weather,response:24043
+
 ---
 
 # How to Compile NOAA APT 1.2.0 and 1.3.0 on Mac
+
+by [sashae](../profile/sashae) July 02, 2020 07:50
+
+July 02, 2020 07:50 | Tags: [seeks:replications](../tag/seeks:replications), [lat:51.50735](../tag/lat:51.50735), [lon:-0.127758](../tag/lon:-0.127758), [zoom:6](../tag/zoom:6), [open-weather](../tag/open-weather), [activity:open-weather](../tag/activity:open-weather), [response:24043](../tag/response:24043)
 
 ### Guide for installing the open source satellite image decoding software NOAA APT 1.2.0 and NOAA APT 1.3.0 on Mac OS 10.15
 

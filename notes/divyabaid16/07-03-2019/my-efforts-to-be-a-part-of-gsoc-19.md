@@ -1,12 +1,18 @@
 ---
-nid: 19970
 title: My efforts to be a part of GSoC’19
-path: public/static/notes/divyabaid16/07-03-2019/my-efforts-to-be-a-part-of-gsoc-19.md
+tagnames: gsoc, soc, gsoc-2019, soc-2019
+author: divyabaid16
+path: /notes/divyabaid16/07-03-2019/my-efforts-to-be-a-part-of-gsoc-19.md
+nid: 19970
 uid: 578652
-tagnames: gsoc,soc,gsoc-2019,soc-2019
+
 ---
 
 # My efforts to be a part of GSoC’19
+
+by [divyabaid16](../profile/divyabaid16) July 03, 2019 12:42
+
+July 03, 2019 12:42 | Tags: [gsoc](../tag/gsoc), [soc](../tag/soc), [gsoc-2019](../tag/gsoc-2019), [soc-2019](../tag/soc-2019)
 
 I started with my first open source contribution when I was in the second year of my undergraduate engineering degree. At that time, I was more involved in academics and had very little practical experience as a developer. Earlier, I had experimented with few technologies before I went for web development. I worked on android development in my first year and also learned python programming during that time. It was during the summer of my second year that I started with Web development and began to study HTML, CSS, Javascript moving to more complicated libraries and frameworks like jQuery and ReactJS. I really loved building everything. When I code, I forget about everything else and become completely engaged in it. I genuinely relish doing it.
 

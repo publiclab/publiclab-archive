@@ -1,12 +1,18 @@
 ---
-nid: 25072
 title: Education Associate - Temporary - Spring 2021 Semester
-path: public/static/notes/thewrightjess/11-19-2020/education-associate-temporary-spring-2021-semester.md
+tagnames: education, nonprofit, jobs, lat:29.954934, lon:-90.065917, lat:29.951065, lon:-90.071532, zoom:6
+author: thewrightjess
+path: /notes/thewrightjess/11-19-2020/education-associate-temporary-spring-2021-semester.md
+nid: 25072
 uid: 603909
-tagnames: education,nonprofit,jobs,lat:29.954934,lon:-90.065917,lat:29.951065,lon:-90.071532,zoom:6
+
 ---
 
 # Education Associate - Temporary - Spring 2021 Semester
+
+by [thewrightjess](../profile/thewrightjess) November 19, 2020 17:52
+
+November 19, 2020 17:52 | Tags: [education](../tag/education), [nonprofit](../tag/nonprofit), [jobs](../tag/jobs), [lat:29.954934](../tag/lat:29.954934), [lon:-90.065917](../tag/lon:-90.065917), [lat:29.951065](../tag/lat:29.951065), [lon:-90.071532](../tag/lon:-90.071532), [zoom:6](../tag/zoom:6)
 
 ####  Our Organization 
 Public Lab is a community, supported by a 501(c)(3) non-profit, that develops and applies open-source tools to environmental exploration and investigation. By democratizing inexpensive and accessible do-it-yourself techniques, Public Lab creates a collaborative network of practitioners who actively reimagine the human relationship with the environment.

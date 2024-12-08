@@ -1,12 +1,18 @@
 ---
-nid: 17962
 title: How do you make sterile water from bottled water?
-path: public/static/notes/bryanchua/12-17-2018/how-do-you-make-sterile-water-from-bottled-water.md
+tagnames: diy-bio, water-quality, first-time-poster
+author: bryanchua
+path: /notes/bryanchua/12-17-2018/how-do-you-make-sterile-water-from-bottled-water.md
+nid: 17962
 uid: 561828
-tagnames: diy-bio,water-quality,first-time-poster
+
 ---
 
 # How do you make sterile water from bottled water?
+
+by [bryanchua](../profile/bryanchua) December 17, 2018 23:49
+
+December 17, 2018 23:49 | Tags: [diy-bio](../tag/diy-bio), [water-quality](../tag/water-quality), [first-time-poster](../tag/first-time-poster)
 
 Hi everyone,
 

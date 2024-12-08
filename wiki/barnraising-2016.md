@@ -1,12 +1,18 @@
 ---
-nid: 13958
 title: Barnraising 2016
-path: public/static/wiki/barnraising-2016.md
-uid: 422561
 tagnames: 
+author: stevie
+path: /wiki/barnraising-2016.md
+nid: 13958
+uid: 422561
+
 ---
 
 # Barnraising 2016
+
+by [stevie](../profile/stevie)
+
+February 23, 2017 19:05 | Tags: 
 
 #The 2016 Barnraising theme is "Inviting Collaboration"
 

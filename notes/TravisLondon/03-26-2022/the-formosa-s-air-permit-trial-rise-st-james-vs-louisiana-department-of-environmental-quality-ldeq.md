@@ -1,12 +1,18 @@
 ---
-nid: 30191
 title: The Formosa's Air Permit Trial: Rise St. James vs. Louisiana Department of Environmental Quality (LDEQ)
-path: public/static/notes/TravisLondon/03-26-2022/the-formosa-s-air-permit-trial-rise-st-james-vs-louisiana-department-of-environmental-quality-ldeq.md
+tagnames: fellowships, formosaplastics, stjames
+author: TravisLondon
+path: /notes/TravisLondon/03-26-2022/the-formosa-s-air-permit-trial-rise-st-james-vs-louisiana-department-of-environmental-quality-ldeq.md
+nid: 30191
 uid: 776235
-tagnames: fellowships,formosaplastics,stjames
+
 ---
 
 # The Formosa's Air Permit Trial: Rise St. James vs. Louisiana Department of Environmental Quality (LDEQ)
+
+by [TravisLondon](../profile/TravisLondon) March 26, 2022 01:29
+
+March 26, 2022 01:29 | Tags: [fellowships](../tag/fellowships), [formosaplastics](../tag/formosaplastics), [stjames](../tag/stjames)
 
 Updates:
 

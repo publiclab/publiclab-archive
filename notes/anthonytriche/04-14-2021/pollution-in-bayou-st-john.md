@@ -1,12 +1,18 @@
 ---
-nid: 26237
 title: Pollution in Bayou St. John
-path: public/static/notes/anthonytriche/04-14-2021/pollution-in-bayou-st-john.md
+tagnames: location:blurred, place:united-states, issue-brief, lat:29, lon:-90, first-time-poster, zoom:6
+author: anthonytriche
+path: /notes/anthonytriche/04-14-2021/pollution-in-bayou-st-john.md
+nid: 26237
 uid: 750424
-tagnames: location:blurred,place:united-states,issue-brief,lat:29,lon:-90,first-time-poster,zoom:6
+
 ---
 
 # Pollution in Bayou St. John
+
+by [anthonytriche](../profile/anthonytriche) April 14, 2021 16:30
+
+April 14, 2021 16:30 | Tags: [location:blurred](../tag/location:blurred), [place:united-states](../tag/place:united-states), [issue-brief](../tag/issue-brief), [lat:29](../tag/lat:29), [lon:-90](../tag/lon:-90), [first-time-poster](../tag/first-time-poster), [zoom:6](../tag/zoom:6)
 
 ### Introduction: 
 

@@ -1,6 +1,6 @@
 # data-viz
 
-3 notes and wiki pages
+3 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Air Quality Data](/wiki/air-quality-data) (wiki)
 - [How to visualize your location-based data in QGIS](/notes/laurel_mire/12-03-2021/how-to-visualize-your-location-based-data-in-qgis) by [laurel_mire](../profile/laurel_mire)

@@ -1,12 +1,18 @@
 ---
-nid: 11459
 title: Pollution to Solution: Calibrating Ozone Sensor.
-path: public/static/notes/epongrat/12-15-2014/calibrating-ozone-sensor.md
+tagnames: arduino, air-quality, sensors, umass-amherst, makerspaces, amherst-media, 5-college, air-sensors
+author: epongrat
+path: /notes/epongrat/12-15-2014/calibrating-ozone-sensor.md
+nid: 11459
 uid: 428825
-tagnames: arduino,air-quality,sensors,umass-amherst,makerspaces,amherst-media,5-college,air-sensors
+
 ---
 
 # Pollution to Solution: Calibrating Ozone Sensor.
+
+by [epongrat](../profile/epongrat) December 15, 2014 03:42
+
+December 15, 2014 03:42 | Tags: [arduino](../tag/arduino), [air-quality](../tag/air-quality), [sensors](../tag/sensors), [umass-amherst](../tag/umass-amherst), [makerspaces](../tag/makerspaces), [amherst-media](../tag/amherst-media), [5-college](../tag/5-college), [air-sensors](../tag/air-sensors)
 
 ###What I want to do
 

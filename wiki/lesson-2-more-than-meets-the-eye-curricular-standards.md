@@ -1,12 +1,18 @@
 ---
-nid: 12065
 title: Lesson 2: More than Meets the Eye, curricular standards
-path: public/static/wiki/lesson-2-more-than-meets-the-eye-curricular-standards.md
-uid: 4
 tagnames: parent:wetlands-lesson-plans
+author: mathew
+path: /wiki/lesson-2-more-than-meets-the-eye-curricular-standards.md
+nid: 12065
+uid: 4
+
 ---
 
 # Lesson 2: More than Meets the Eye, curricular standards
+
+by [mathew](../profile/mathew)
+
+July 15, 2015 02:23 | Tags: [parent:wetlands-lesson-plans](../tag/parent:wetlands-lesson-plans)
 
 [Link to Lesson 2](http://publiclab.org/wiki/public-lab-lesson-2-more-than-meets-the-eye)
 

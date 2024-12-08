@@ -1,12 +1,18 @@
 ---
-nid: 13163
 title: DIY Mini Kite Kit first flight
-path: public/static/notes/mathew/06-03-2016/diy-mini-kite-kit-first-flight.md
+tagnames: kite-mapping, kap, kap-rigs, diy-mount-kit, difficulty:easy, seeks:replications, category:field-test, time:1h, activity:aerial-photography, activity:kite-mapping
+author: mathew
+path: /notes/mathew/06-03-2016/diy-mini-kite-kit-first-flight.md
+nid: 13163
 uid: 4
-tagnames: kite-mapping,kap,kap-rigs,diy-mount-kit,difficulty:easy,seeks:replications,category:field-test,time:1h,activity:aerial-photography,activity:kite-mapping
+
 ---
 
 # DIY Mini Kite Kit first flight
+
+by [mathew](../profile/mathew) June 03, 2016 23:26
+
+June 03, 2016 23:26 | Tags: [kite-mapping](../tag/kite-mapping), [kap](../tag/kap), [kap-rigs](../tag/kap-rigs), [diy-mount-kit](../tag/diy-mount-kit), [difficulty:easy](../tag/difficulty:easy), [seeks:replications](../tag/seeks:replications), [category:field-test](../tag/category:field-test), [time:1h](../tag/time:1h), [activity:aerial-photography](../tag/activity:aerial-photography), [activity:kite-mapping](../tag/activity:kite-mapping)
 
 ###Background
 Inspired by @PatCoyle's look at [small, cheap parafoil kites for mapping,](/notes/patcoyle/07-20-2015/small-parafoil-kite-for-mobius-camera) I've been looking for a stable, sparless kite that could lift a small camera and pack down easily into a backpack. At the same time, @TonyC has been working to make some super-simple rigs for flying the [Mobius action cam.](https://publiclab.org/tag/diy-mount-kit) 

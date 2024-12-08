@@ -1,12 +1,18 @@
 ---
-nid: 12374
 title: The Tools of Open Science, express hands-on workshop in FSCONS 2015
-path: public/static/notes/pablo/11-06-2015/the-tools-of-open-science-express-hands-on-workshop-in-fscon-2015.md
+tagnames: workshop, mapping, balloon, sweden, fscons
+author: pablo
+path: /notes/pablo/11-06-2015/the-tools-of-open-science-express-hands-on-workshop-in-fscon-2015.md
+nid: 12374
 uid: 160
-tagnames: workshop,mapping,balloon,sweden,fscons
+
 ---
 
 # The Tools of Open Science, express hands-on workshop in FSCONS 2015
+
+by [pablo](../profile/pablo) November 06, 2015 02:20
+
+November 06, 2015 02:20 | Tags: [workshop](../tag/workshop), [mapping](../tag/mapping), [balloon](../tag/balloon), [sweden](../tag/sweden), [fscons](../tag/fscons)
 
 I am talking this Saturday November 7th about Public Lab and doing a short hands-on training to build a camera rig out of a plastic bottle at the Free Society Conference and Nordic Summit [FSCONS 2015](https://fscons.org/2015/) in Göteborg, Sweden. I'll be happy to talk about the different projects that are going on in Public Lab.
 

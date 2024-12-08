@@ -1,12 +1,18 @@
 ---
-nid: 11639
 title: Mehak, Virginia, & Tori  Conductivity Research Summary
-path: public/static/notes/mehaky/02-25-2015/mehak-virginia-tori-conductivity-research-summary.md
+tagnames: video, conductivity, salt, coqui, mission-hill, replication:11213
+author: mehaky
+path: /notes/mehaky/02-25-2015/mehak-virginia-tori-conductivity-research-summary.md
+nid: 11639
 uid: 435583
-tagnames: video,conductivity,salt,coqui,mission-hill,replication:11213
+
 ---
 
 # Mehak, Virginia, & Tori  Conductivity Research Summary
+
+by [mehaky](../profile/mehaky) February 25, 2015 16:32
+
+February 25, 2015 16:32 | Tags: [video](../tag/video), [conductivity](../tag/conductivity), [salt](../tag/salt), [coqui](../tag/coqui), [mission-hill](../tag/mission-hill), [replication:11213](../tag/replication:11213)
 
 ### [Class Wiki](http://publiclab.org/wiki/research-into-chloride-in-boston-with-journalism-class)
 

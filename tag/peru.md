@@ -1,13 +1,12 @@
 # peru
 
-23 notes and wiki pages
+23 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [NDVI test in Lima Peru](/notes/warren/12-24-2010/ndvi-test-lima-peru) by [warren](../profile/warren)
 - [DIY Spectrometry Workshop in Lima, Peru ](/notes/warren/05-01-2018/diy-spectrometry-workshop-in-lima-peru) by [warren](../profile/warren)
 - [Bifocal infrared/visible filter at Lima workshop](/notes/warren/1-6-2011/bifocal-infraredvisible-filter-lima-workshop) by [warren](../profile/warren)
 - [Taller de espectrometría "DIY" en Lima, Peru](/notes/warren/05-01-2018/taller-de-espectrometria-diy-en-lima-peru) by [warren](../profile/warren)
 - [Experiments with kites, balloons, and infrared photography at FabLab Lima](/notes/warren/05-01-2018/experiments-with-kites-balloons-and-infrared-photography-at-fablab-lima) by [warren](../profile/warren)
-- [Hyperspectral scan with Morflex](/notes/warren/1-11-2011/hyperspectral-scan-morflex) by [warren](../profile/warren)
 - [DIY Windmill and Solar Light Workshop](/notes/warren/05-01-2018/diy-windmill-and-solar-light-workshop) by [warren](../profile/warren)
 - [Images arriving from loose flight over Lima](/notes/warren/1-24-2011/images-arriving-loose-flight-over-lima) by [warren](../profile/warren)
 - [Focus shift in bifocal filter?](/notes/warren/1-26-2011/focus-shift-bifocal-filter) by [warren](../profile/warren)
@@ -24,4 +23,3 @@
 - [Villamaria. Lima, Peru.](/map/villamaria-lima-peru/2012-02-02) by [gonzoearth](../profile/gonzoearth)
 - [Canopy structure and function of tropical forests in Peru](/notes/allie_shenkin/07-13-2013/canopy-structure-and-function-of-tropical-forests-in-peru) by [allie_shenkin](../profile/allie_shenkin)
 - [VIHELMO VELAPATINO. - Unmanned Aerial Systems - Drones in LIMA PERU](/notes/vihelmo/08-01-2015/unammne-aerial-systems-drones-in-lima-peru) by [vihelmo](../profile/vihelmo)
-- [What is the best Ayahuasca Retreat in Peru](/notes/LhyliTorrx/04-08-2022/what-is-the-best-ayahuasca-retreat-in-peru) by [LhyliTorrx](../profile/LhyliTorrx)

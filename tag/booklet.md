@@ -1,6 +1,6 @@
 # booklet
 
-8 notes and wiki pages
+8 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Announcing a Public Lab booklet: DIY Oil Testing](/notes/warren/04-26-2016/announcing-a-public-lab-booklet-diy-oil-testing) by [warren](../profile/warren)
 - [DIY Oil Testing Toolkit: Graphic Template Release!](/notes/mlamadrid/05-04-2016/diy-oil-testing-toolkit-graphic-template-release) by [mlamadrid](../profile/mlamadrid)

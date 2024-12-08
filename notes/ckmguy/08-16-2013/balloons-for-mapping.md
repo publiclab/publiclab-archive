@@ -1,12 +1,18 @@
 ---
-nid: 9027
 title: Balloons for Mapping
-path: public/static/notes/ckmguy/08-16-2013/balloons-for-mapping.md
+tagnames: balloon-mapping, kite-balloon-hybrid
+author: ckmguy
+path: /notes/ckmguy/08-16-2013/balloons-for-mapping.md
+nid: 9027
 uid: 194238
-tagnames: balloon-mapping,kite-balloon-hybrid
+
 ---
 
 # Balloons for Mapping
+
+by [ckmguy](../profile/ckmguy) August 16, 2013 20:45
+
+August 16, 2013 20:45 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-balloon-hybrid](../tag/kite-balloon-hybrid)
 
 Lightweight Polyurethane Balloons
 

@@ -1,12 +1,18 @@
 ---
-nid: 26302
 title: VVAMP
-path: public/static/wiki/vvamp.md
+tagnames: landfill, air-quality, lang:es, pm, land-use, air-monitoring, particulate-matter, project, bucket, air-quality-projects, project:featured, VVAMP, prompt:vvamp, questions:vvamp
+author: amocorro
+path: /wiki/vvamp.md
+nid: 26302
 uid: 700923
-tagnames: landfill,air-quality,lang:es,pm,land-use,air-monitoring,particulate-matter,project,bucket,air-quality-projects,project:featured,VVAMP,prompt:vvamp,questions:vvamp
+
 ---
 
 # VVAMP
+
+by [denissebn_06](../profile/denissebn_06), [amocorro](../profile/amocorro)
+
+April 22, 2021 20:18 | Tags: [landfill](../tag/landfill), [air-quality](../tag/air-quality), [lang:es](../tag/lang:es), [pm](../tag/pm), [land-use](../tag/land-use), [air-monitoring](../tag/air-monitoring), [particulate-matter](../tag/particulate-matter), [project](../tag/project), [bucket](../tag/bucket), [air-quality-projects](../tag/air-quality-projects), [project:featured](../tag/project:featured), [VVAMP](../tag/VVAMP), [prompt:vvamp](../tag/prompt:vvamp), [questions:vvamp](../tag/questions:vvamp)
 
 Here you will find everything related to Val Verde Air Monitoring Program in California. 
 Acá encontrarás todo lo relacionado con el programa de monitoreo de aire de Val Verde, California (VVAMP). 

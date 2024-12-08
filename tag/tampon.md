@@ -1,6 +1,6 @@
 # tampon
 
-3 notes and wiki pages
+3 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Tampon Testing for Wastewater](/notes/mcairns/07-23-2015/tampon-testing-for-wastewater) by [mcairns](../profile/mcairns)
 - [El desagüe sospechoso en el río Suquía](/notes/alejobonifacio/10-13-2021/el-desague-sospechoso-en-el-rio-suquia) by [alejobonifacio](../profile/alejobonifacio)

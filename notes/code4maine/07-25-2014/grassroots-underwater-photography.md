@@ -1,12 +1,18 @@
 ---
-nid: 10977
 title: Grassroots Underwater Photography?!!
-path: public/static/notes/code4maine/07-25-2014/grassroots-underwater-photography.md
+tagnames: grassrootsmapping, citizen-science, maine, underwater, invasives, mobius-action-cam, response:10670
+author: ajawitz
+path: /notes/code4maine/07-25-2014/grassroots-underwater-photography.md
+nid: 10977
 uid: 294634
-tagnames: grassrootsmapping,citizen-science,maine,underwater,invasives,mobius-action-cam,response:10670
+
 ---
 
 # Grassroots Underwater Photography?!!
+
+by [ajawitz](../profile/ajawitz) July 25, 2014 16:47
+
+July 25, 2014 16:47 | Tags: [grassrootsmapping](../tag/grassrootsmapping), [citizen-science](../tag/citizen-science), [maine](../tag/maine), [underwater](../tag/underwater), [invasives](../tag/invasives), [mobius-action-cam](../tag/mobius-action-cam), [response:10670](../tag/response:10670)
 
 ###What I want to do
 I want to examine potential low-cost, underwater imaging techniques by adapting approaches originally developed for aerial mapping.  Especially regarding new possibilities opened up by the Mobius Actioncam, 

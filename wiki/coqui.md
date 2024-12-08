@@ -1,12 +1,18 @@
 ---
-nid: 11139
 title: Coqui conductivity sensor
-path: public/static/wiki/coqui.md
+tagnames: water-quality-monitoring, mining, water-quality, water, tool, conductivity, list:plots-waterquality, open-water, coqui, activities:coqui, upgrades:coqui, method, electronic-sensors, sound, parent:water-sensors, community-kits-prep, project:water-quality
+author: donblair
+path: /wiki/coqui.md
+nid: 11139
 uid: 43651
-tagnames: water-quality-monitoring,mining,water-quality,water,tool,conductivity,list:plots-waterquality,open-water,coqui,activities:coqui,upgrades:coqui,method,electronic-sensors,sound,parent:water-sensors,community-kits-prep,project:water-quality
+
 ---
 
 # Coqui conductivity sensor
+
+by [warren](../profile/warren), [zengirl2](../profile/zengirl2), [liz](../profile/liz), [stevie](../profile/stevie), [kgradow1](../profile/kgradow1), [donblair](../profile/donblair)
+
+September 13, 2014 19:14 | Tags: [water-quality-monitoring](../tag/water-quality-monitoring), [mining](../tag/mining), [water-quality](../tag/water-quality), [water](../tag/water), [tool](../tag/tool), [conductivity](../tag/conductivity), [list:plots-waterquality](../tag/list:plots-waterquality), [open-water](../tag/open-water), [coqui](../tag/coqui), [activities:coqui](../tag/activities:coqui), [upgrades:coqui](../tag/upgrades:coqui), [method](../tag/method), [electronic-sensors](../tag/electronic-sensors), [sound](../tag/sound), [parent:water-sensors](../tag/parent:water-sensors), [community-kits-prep](../tag/community-kits-prep), [project:water-quality](../tag/project:water-quality)
 
 ## What Does It Do?
 

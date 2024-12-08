@@ -1,12 +1,18 @@
 ---
-nid: 15796
 title: What do you think about this new design sketch for a Welcome page?
-path: public/static/notes/warren/02-21-2018/what-do-you-think-about-this-new-design-sketch-for-a-welcome-page.md
+tagnames: website, organizers, design, answered, newcomers, onboarding, ui, question:ui, question:design, welcoming, comment-template:ui-feedback-template
+author: warren
+path: /notes/warren/02-21-2018/what-do-you-think-about-this-new-design-sketch-for-a-welcome-page.md
+nid: 15796
 uid: 1
-tagnames: website,organizers,design,answered,newcomers,onboarding,ui,question:ui,question:design,welcoming,comment-template:ui-feedback-template
+
 ---
 
 # What do you think about this new design sketch for a Welcome page?
+
+by [warren](../profile/warren) February 21, 2018 22:32
+
+February 21, 2018 22:32 | Tags: [website](../tag/website), [organizers](../tag/organizers), [design](../tag/design), [answered](../tag/answered), [newcomers](../tag/newcomers), [onboarding](../tag/onboarding), [ui](../tag/ui), [question:ui](../tag/question:ui), [question:design](../tag/question:design), [welcoming](../tag/welcoming), [comment-template:ui-feedback-template](../tag/comment-template:ui-feedback-template)
 
 Hi, all - i'm taking a crack at a new visual organization of a Welcoming Page, starting with the existing content but then starting to think about content a bit after the basic visual organization of the page works.
 

@@ -1,6 +1,6 @@
 # barnraising2017
 
-5 notes and wiki pages
+5 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [How to best write a debrief of a session at Barnraising?](/notes/pdhixenbaugh/11-04-2017/how-to-best-write-a-debrief-of-a-session-at-barnraising) by [pdhixenbaugh](../profile/pdhixenbaugh)
 - [Community Science Interventions: A Framework (Barnraising2017 Session)](/notes/pdhixenbaugh/11-04-2017/community-science-interventions-a-framework-barnraising2017-session) by [pdhixenbaugh](../profile/pdhixenbaugh)

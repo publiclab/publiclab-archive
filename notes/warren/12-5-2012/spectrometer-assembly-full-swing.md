@@ -1,12 +1,18 @@
 ---
-nid: 5123
 title: Spectrometer assembly in full swing
-path: public/static/notes/warren/12-5-2012/spectrometer-assembly-full-swing.md
+tagnames: spectrometer, kickstarter, assembly
+author: warren
+path: /notes/warren/12-5-2012/spectrometer-assembly-full-swing.md
+nid: 5123
 uid: 1
-tagnames: spectrometer,kickstarter,assembly
+
 ---
 
 # Spectrometer assembly in full swing
+
+by [warren](../profile/warren) December 05, 2012 22:46
+
+December 05, 2012 22:46 | Tags: [spectrometer](../tag/spectrometer), [kickstarter](../tag/kickstarter), [assembly](../tag/assembly)
 
 The [DIY Spectrometry Kickstarter project](kickstarter.com/projects/jywarren/public-lab-diy-spectrometry-kit) is humming along as Mathew Lippincott is [up to his elbows in foldable paper spectrometers]() out in Portland, and here in Somerville, we are preparing for our own big assembly of desktop spectrometry kits. I know all you KS backers are eager to see our progress, so here are some photos and other updates! Apologies for slow responses to your messages and comments; please bear with us as we get these rewards out the door.
 

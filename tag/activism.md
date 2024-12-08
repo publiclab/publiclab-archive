@@ -1,6 +1,6 @@
 # activism
 
-3 notes and wiki pages
+3 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Kits Docs](/wiki/kits-docs) (wiki)
 - [Fighting the Flood: Community Activism and Education in Pensacola](/notes/joyofsoy/11-09-2018/fighting-the-flood-community-activism-and-education-in-pensacola) by [joyofsoy](../profile/joyofsoy)

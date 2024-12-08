@@ -1,12 +1,18 @@
 ---
-nid: 14514
 title: Mini Kite Kit
-path: public/static/wiki/mini-kite-kit.md
+tagnames: prototypingkit, prototyping-kit, prototyping-
+author: warren
+path: /wiki/mini-kite-kit.md
+nid: 14514
 uid: 1
-tagnames: prototypingkit,prototyping-kit,prototyping-
+
 ---
 
 # Mini Kite Kit
+
+by [warren](../profile/warren)
+
+June 09, 2017 18:45 | Tags: [prototypingkit](../tag/prototypingkit), [prototyping-kit](../tag/prototyping-kit), [prototyping-](../tag/prototyping-)
 
 The mini kite kit is an effort to curate a cheap, easy, and very portable kit for kite photography for under $50. 
 

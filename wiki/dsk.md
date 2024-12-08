@@ -1,12 +1,18 @@
 ---
-nid: 5187
 title: Desktop Spectrometry Kit
-path: public/static/wiki/dsk.md
+tagnames: spectrometer, needs-revision, prompt:spectrometry, parent:spectrometer, tripod-table-lamp
+author: warren
+path: /wiki/dsk.md
+nid: 5187
 uid: 1
-tagnames: spectrometer,needs-revision,prompt:spectrometry,parent:spectrometer,tripod-table-lamp
+
 ---
 
 # Desktop Spectrometry Kit
+
+by [warren](../profile/warren), [MrBumper](../profile/MrBumper), [pablo](../profile/pablo)
+
+December 13, 2012 17:32 | Tags: [spectrometer](../tag/spectrometer), [needs-revision](../tag/needs-revision), [prompt:spectrometry](../tag/prompt:spectrometry), [parent:spectrometer](../tag/parent:spectrometer), [tripod-table-lamp](../tag/tripod-table-lamp)
 
 <div class="alert alert-warning">
 <h3 style="color:#333;">New version available</h3>

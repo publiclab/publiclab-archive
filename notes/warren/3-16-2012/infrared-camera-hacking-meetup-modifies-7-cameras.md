@@ -1,12 +1,18 @@
 ---
-nid: 1482
 title: Infrared camera hacking meetup modifies 7 cameras
-path: public/static/notes/warren/3-16-2012/infrared-camera-hacking-meetup-modifies-7-cameras.md
+tagnames: balloon-mapping, near-infrared-camera
+author: warren
+path: /notes/warren/3-16-2012/infrared-camera-hacking-meetup-modifies-7-cameras.md
+nid: 1482
 uid: 1
-tagnames: balloon-mapping,near-infrared-camera
+
 ---
 
 # Infrared camera hacking meetup modifies 7 cameras
+
+by [warren](../profile/warren) March 16, 2012 17:14
+
+March 16, 2012 17:14 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera)
 
 The group infrared camera conversion meetup in Somerville last night went really well; we got through 11 cameras, 7 of which were modifiable (the rest had too much glue on the final screws, and we left them unmodified).
 

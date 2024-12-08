@@ -1,12 +1,18 @@
 ---
-nid: 23580
 title: Week 1 @ GSOC 2020: Mapknitter Export Module and Spectral Workbench upgrades
-path: public/static/notes/alaxallves/05-08-2020/week-1-gsoc-2020-mapknitter-export-module-and-spectral-workbench-upgrades.md
+tagnames: mapknitter, spectral-workbench, gsoc, report, zoom:18, soc2020, gsoc2020, week1, mk, sw, lat:-15.890499, lon:-48.014483
+author: alaxallves
+path: /notes/alaxallves/05-08-2020/week-1-gsoc-2020-mapknitter-export-module-and-spectral-workbench-upgrades.md
+nid: 23580
 uid: 577447
-tagnames: mapknitter,spectral-workbench,gsoc,report,zoom:18,soc2020,gsoc2020,week1,mk,sw,lat:-15.890499,lon:-48.014483
+
 ---
 
 # Week 1 @ GSOC 2020: Mapknitter Export Module and Spectral Workbench upgrades
+
+by [alaxallves](../profile/alaxallves) May 08, 2020 20:24
+
+May 08, 2020 20:24 | Tags: [mapknitter](../tag/mapknitter), [spectral-workbench](../tag/spectral-workbench), [gsoc](../tag/gsoc), [report](../tag/report), [zoom:18](../tag/zoom:18), [soc2020](../tag/soc2020), [gsoc2020](../tag/gsoc2020), [week1](../tag/week1), [mk](../tag/mk), [sw](../tag/sw), [lat:-15.890499](../tag/lat:-15.890499), [lon:-48.014483](../tag/lon:-48.014483)
 
 Hi guys, It's Álax from Brazil. 
 

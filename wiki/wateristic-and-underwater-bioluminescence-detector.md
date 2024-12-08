@@ -1,12 +1,18 @@
 ---
-nid: 20996
 title: Wateristic: an underwater bioluminescence detector
-path: public/static/wiki/wateristic-and-underwater-bioluminescence-detector.md
+tagnames: arduino, water, underwater, project, underwater-image, water-sensor, wateristic
+author: omarion
+path: /wiki/wateristic-and-underwater-bioluminescence-detector.md
+nid: 20996
 uid: 622967
-tagnames: arduino,water,underwater,project,underwater-image,water-sensor,wateristic
+
 ---
 
 # Wateristic: an underwater bioluminescence detector
+
+by [stevie](../profile/stevie), [omarion](../profile/omarion)
+
+September 26, 2019 17:10 | Tags: [arduino](../tag/arduino), [water](../tag/water), [underwater](../tag/underwater), [project](../tag/project), [underwater-image](../tag/underwater-image), [water-sensor](../tag/water-sensor), [wateristic](../tag/wateristic)
 
 Lead image "La Jolla and the Blue Waves" by [Kevin Baird](https://www.flickr.com/photos/35928519@N00) is licensed under CC BY-NC-ND 2.0 
 

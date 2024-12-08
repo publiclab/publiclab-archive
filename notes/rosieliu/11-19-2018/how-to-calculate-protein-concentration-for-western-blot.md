@@ -1,12 +1,18 @@
 ---
-nid: 17709
 title: How to Calculate Protein Concentration for Western Blot
-path: public/static/notes/rosieliu/11-19-2018/how-to-calculate-protein-concentration-for-western-blot.md
-uid: 535191
 tagnames: 
+author: rosieliu
+path: /notes/rosieliu/11-19-2018/how-to-calculate-protein-concentration-for-western-blot.md
+nid: 17709
+uid: 535191
+
 ---
 
 # How to Calculate Protein Concentration for Western Blot
+
+by [rosieliu](../profile/rosieliu) November 19, 2018 09:04
+
+November 19, 2018 09:04 | Tags: 
 
 Western Blot is a common method to detect and analyze proteins. It is built on a technique that involves transferring, also known as blotting, proteins separated by electrophoresis from the gel to a membrane where they can be visualized specifically. It is often used in research to separate and identify proteins. In this technique a mixture of proteins is separated based on molecular weight, and thus by type, through gel electrophoresis. These results are then transferred to a membrane producing a band for each protein.
 

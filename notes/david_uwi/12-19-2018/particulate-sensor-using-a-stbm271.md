@@ -1,12 +1,18 @@
 ---
-nid: 17977
 title: Particulate sensor using a STBM271
-path: public/static/notes/david_uwi/12-19-2018/particulate-sensor-using-a-stbm271.md
+tagnames: arduino, particulate-sensing, air-quality, particulates, pm, caribbean, hardware, air-sensors, stbm271, trinidad-and-tobago
+author: david_uwi
+path: /notes/david_uwi/12-19-2018/particulate-sensor-using-a-stbm271.md
+nid: 17977
 uid: 469053
-tagnames: arduino,particulate-sensing,air-quality,particulates,pm,caribbean,hardware,air-sensors,stbm271,trinidad-and-tobago
+
 ---
 
 # Particulate sensor using a STBM271
+
+by [david_uwi](../profile/david_uwi) December 19, 2018 18:20
+
+December 19, 2018 18:20 | Tags: [arduino](../tag/arduino), [particulate-sensing](../tag/particulate-sensing), [air-quality](../tag/air-quality), [particulates](../tag/particulates), [pm](../tag/pm), [caribbean](../tag/caribbean), [hardware](../tag/hardware), [air-sensors](../tag/air-sensors), [stbm271](../tag/stbm271), [trinidad-and-tobago](../tag/trinidad-and-tobago)
 
 ![image description](/i/28453.png "particlenovdec(large).png")![image description](/i/28452.png "particle_sch.png")
 

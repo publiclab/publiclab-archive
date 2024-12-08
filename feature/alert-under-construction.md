@@ -1,12 +1,16 @@
 ---
-nid: 20822
 title: alert-under-construction
-path: public/static/feature/alert-under-construction.md
-uid: 1
 tagnames: 
+author: warren
+path: /feature/alert-under-construction.md
+nid: 20822
+uid: 1
+
 ---
 
 # alert-under-construction
+
+September 11, 2019 15:00 | Tags: 
 
 <div class="alert alert-warning">
 <b>Notice</b> This page is under construction.

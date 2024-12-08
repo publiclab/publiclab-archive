@@ -1,12 +1,18 @@
 ---
-nid: 9816
 title: White balance for all
-path: public/static/notes/cfastie/11-22-2013/white-balance-for-all.md
+tagnames: near-infrared-camera, vermont, white-balance, infragram, list:plots-infrared, infrablue, led, ccd, response:8900, bg3, wratten25a, super-red, activity:white-balance
+author: cfastie
+path: /notes/cfastie/11-22-2013/white-balance-for-all.md
+nid: 9816
 uid: 554
-tagnames: near-infrared-camera,vermont,white-balance,infragram,list:plots-infrared,infrablue,led,ccd,response:8900,bg3,wratten25a,super-red,activity:white-balance
+
 ---
 
 # White balance for all
+
+by [cfastie](../profile/cfastie) November 22, 2013 19:04
+
+November 22, 2013 19:04 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [vermont](../tag/vermont), [white-balance](../tag/white-balance), [infragram](../tag/infragram), [list:plots-infrared](../tag/list:plots-infrared), [infrablue](../tag/infrablue), [led](../tag/led), [ccd](../tag/ccd), [response:8900](../tag/response:8900), [bg3](../tag/bg3), [wratten25a](../tag/wratten25a), [super-red](../tag/super-red), [activity:white-balance](../tag/activity:white-balance)
 
 I have been doing a custom white balance on my CCD Powershot Infragram cameras by [filling the frame with a piece of origami paper as I press the designated button](http://publiclab.org/wiki/infrablue-white-balance). It works great to get the resulting NDVI into the right ballpark. But I'm the only one with that particular origami paper, so we were looking for a standardized white balance protocol that anyone could do. Ned had some colored LEDs, so we tried using an individual narrow band LED as the only source of light during the white balance procedure. The LEDs cost less than a US dollar and are available online. Here are the ones we used:
 

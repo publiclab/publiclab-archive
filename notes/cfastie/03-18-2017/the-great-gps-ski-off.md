@@ -1,12 +1,18 @@
 ---
-nid: 14036
 title: The Great GPS Ski-off
-path: public/static/notes/cfastie/03-18-2017/the-great-gps-ski-off.md
+tagnames: arduino, gps, sensors, data-logging, skypod, response:14020
+author: cfastie
+path: /notes/cfastie/03-18-2017/the-great-gps-ski-off.md
+nid: 14036
 uid: 554
-tagnames: arduino,gps,sensors,data-logging,skypod,response:14020
+
 ---
 
 # The Great GPS Ski-off
+
+by [cfastie](../profile/cfastie) March 18, 2017 23:56
+
+March 18, 2017 23:56 | Tags: [arduino](../tag/arduino), [gps](../tag/gps), [sensors](../tag/sensors), [data-logging](../tag/data-logging), [skypod](../tag/skypod), [response:14020](../tag/response:14020)
 
 _Above: The GPS capabilities of these four devices were compared in a non-definitive and poorly controlled real-world test. Left to right: SkyPod datalogger, Android app, Garmin GPSmap76CSx, Canon PowerShot S100\._
 

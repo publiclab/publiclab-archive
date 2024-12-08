@@ -1,12 +1,18 @@
 ---
-nid: 5149
 title: Portable Energy Scavenging Kit
-path: public/static/wiki/portable-energy-scavenging-kit.md
+tagnames: portable-energy-scavenging-kit, energy, tool, solar, electrochemical-sensor, method
+author: Shannon
+path: /wiki/portable-energy-scavenging-kit.md
+nid: 5149
 uid: 9
-tagnames: portable-energy-scavenging-kit,energy,tool,solar,electrochemical-sensor,method
+
 ---
 
 # Portable Energy Scavenging Kit
+
+by [donblair](../profile/donblair), [Shannon](../profile/Shannon)
+
+December 07, 2012 16:23 | Tags: [portable-energy-scavenging-kit](../tag/portable-energy-scavenging-kit), [energy](../tag/energy), [tool](../tag/tool), [solar](../tag/solar), [electrochemical-sensor](../tag/electrochemical-sensor), [method](../tag/method)
 
 A lightweight, low-cost kit for collecting, storing, and providing energy -- off-the-grid.  
 

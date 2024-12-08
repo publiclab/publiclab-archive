@@ -1,12 +1,18 @@
 ---
-nid: 362
 title: Programs and working groups meeting 6-27-2011
-path: public/static/wiki/programs-and-working-groups-meeting-6-27-2011.md
-uid: 1
 tagnames: 
+author: warren
+path: /wiki/programs-and-working-groups-meeting-6-27-2011.md
+nid: 362
+uid: 1
+
 ---
 
 # Programs and working groups meeting 6-27-2011
+
+by [warren](../profile/warren)
+
+June 27, 2011 20:47 | Tags: 
 
 Mon, June 27 2011: 
 

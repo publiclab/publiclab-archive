@@ -1,12 +1,18 @@
 ---
-nid: 12199
 title: Photo Reconstruction from KAP at Acacia Reservation
-path: public/static/notes/dbenjamin/09-04-2015/photo-reconstruction-from-kap-at-acacia-reservation.md
+tagnames: kite-aerial-photography, kap, autokap, kaptery, saturnv, skyshield, point-cloud
+author: dbenjamin
+path: /notes/dbenjamin/09-04-2015/photo-reconstruction-from-kap-at-acacia-reservation.md
+nid: 12199
 uid: 444468
-tagnames: kite-aerial-photography,kap,autokap,kaptery,saturnv,skyshield,point-cloud
+
 ---
 
 # Photo Reconstruction from KAP at Acacia Reservation
+
+by [dbenjamin](../profile/dbenjamin) September 04, 2015 14:07
+
+September 04, 2015 14:07 | Tags: [kite-aerial-photography](../tag/kite-aerial-photography), [kap](../tag/kap), [autokap](../tag/autokap), [kaptery](../tag/kaptery), [saturnv](../tag/saturnv), [skyshield](../tag/skyshield), [point-cloud](../tag/point-cloud)
 
 ###What I want to do
 We decided to check out [Acacia Reservation](http://maps.clevelandmetroparks.com/url/Nrg), which was an old golf course that has been allowed to grow freely for the past year. We also wanted to test our new helikite using the Saturn V aerial rig. 

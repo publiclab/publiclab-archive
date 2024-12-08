@@ -1,12 +1,18 @@
 ---
-nid: 7295
 title: Public Lab community newsletter 5.4.13
-path: public/static/notes/Shannon/05-07-2013/public-lab-community-newsletter-5-4-13.md
+tagnames: newsletter, newsletter-archive
+author: Shannon
+path: /notes/Shannon/05-07-2013/public-lab-community-newsletter-5-4-13.md
+nid: 7295
 uid: 9
-tagnames: newsletter,newsletter-archive
+
 ---
 
 # Public Lab community newsletter 5.4.13
+
+by [Shannon](../profile/Shannon) May 07, 2013 16:48
+
+May 07, 2013 16:48 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
 
 This week in the Public Lab newsletter, check out announcements for last minute mapping meet-ups in San Francisco and New York City, read about mapping excursions to aerial image a nuclear power plant in Massachusetts and mangroves in Qatar and learn about how trash and technology can go hand-in-hand. 
 

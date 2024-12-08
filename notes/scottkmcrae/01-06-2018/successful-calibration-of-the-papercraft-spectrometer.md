@@ -1,12 +1,18 @@
 ---
-nid: 15466
 title: Successful Calibration of the papercraft spectrometer
-path: public/static/notes/scottkmcrae/01-06-2018/successful-calibration-of-the-papercraft-spectrometer.md
+tagnames: spectrometer, guide, cross-section, replication:13410, foldable-spec, papercraft-spec
+author: scottkmcrae
+path: /notes/scottkmcrae/01-06-2018/successful-calibration-of-the-papercraft-spectrometer.md
+nid: 15466
 uid: 521915
-tagnames: spectrometer,guide,cross-section,replication:13410,foldable-spec,papercraft-spec
+
 ---
 
 # Successful Calibration of the papercraft spectrometer
+
+by [scottkmcrae](../profile/scottkmcrae) January 06, 2018 04:54
+
+January 06, 2018 04:54 | Tags: [spectrometer](../tag/spectrometer), [guide](../tag/guide), [cross-section](../tag/cross-section), [replication:13410](../tag/replication:13410), [foldable-spec](../tag/foldable-spec), [papercraft-spec](../tag/papercraft-spec)
 
 Hello! successfully able to calibrate a rather crappy papercraft spectrometer build (crappy build to great instructions:) )
 

@@ -1,6 +1,6 @@
 # aerial-photography
 
-79 notes and wiki pages
+79 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Classification](/wiki/classification) (wiki)
 - [Light Aircraft Aerial Mapping Setup](/notes/gonzoearth/4-23-2012/light-aircraft-aerial-mapping-setup) by [gonzoearth](../profile/gonzoearth)
@@ -74,7 +74,6 @@
 - [Advocacy with Maps](/wiki/advocacy-with-maps) (wiki)
 - [Summary of a research area review on mapping for organizing and advocacy](/notes/bhamster/07-21-2021/summary-of-a-research-area-review-on-mapping-for-organizing-and-advocacy) by [bhamster](../profile/bhamster)
 - [Announcing our newest Fellowship Team project! ](/notes/stevie/08-19-2021/announcing-our-newest-fellowship-team-project) by [stevie](../profile/stevie)
-- [ Allahabad Escorts, Call Girl Allahabad, Escort Allahabad, Esorts Service In Allahabad](/notes/komal0/09-06-2021/allahabad-escorts-call-girl-allahabad-escort-allahabad-esorts-service-in-allahabad) by [komal0](../profile/komal0)
 - [Post-Ida Nurdle Spill from Plastic Rail Car derailment: lessons from Raceland](/notes/eustatic/09-09-2021/post-ida-nurdle-spill-from-plastic-rail-car-derailment-lessons-from-raceland) by [eustatic](../profile/eustatic)
 - [Did NGS Fly over your US Points of Interest?  Cartosco.pe can help you!  NGS Quick Maps](/notes/eustatic/09-24-2021/did-ngs-fly-over-your-points-of-interest-cartosco-pe-can-help-you-ngs-quick-maps) by [eustatic](../profile/eustatic)
 - [Did US Civilian Air Patrol fly over your house after that Federally declared disaster?  Use a quick interface to find the photo!](/notes/eustatic/09-24-2021/did-us-civilian-air-patrol-fly-over-your-house-after-that-federally-declared-disaster-use-a-quick-interface-to-find-the-photo) by [eustatic](../profile/eustatic)

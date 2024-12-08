@@ -1,6 +1,6 @@
 # aerial
 
-15 notes and wiki pages
+15 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [mapping urban biosphere in Jerusalem](/notes/hagitkeysar/04-10-2014/mapping-urban-biosphere-in-jerusalem) by [hagitkeysar](../profile/hagitkeysar)
 - [Acción PAP de urgencia (Gijón, Spain)](/notes/Juan/05-19-2014/accion-pap-de-urgencia-gijon-spain) by [Juan](../profile/Juan)
@@ -15,5 +15,4 @@
 - [How can I process the images taken from modified camera?](/notes/ThomasTaufan/11-26-2019/how-can-i-process-the-images-taken-from-modified-camera) by [ThomasTaufan](../profile/ThomasTaufan)
 - [Can People Check out This Cartoscope for Hurricane Laura?](/notes/eustatic/09-05-2020/can-people-check-out-this-cartoscope-for-hurricane-laura) by [eustatic](../profile/eustatic)
 - [New Developments in Multi-Spectral Drone Imaging in the Ultraviolet Band](/notes/ektopyrotic/09-14-2020/new-developments-in-multi-spectral-drone-imaging-in-the-ultraviolet-band) by [ektopyrotic](../profile/ektopyrotic)
-- [Winstrol Oral Drops Cycle. Real Steroids For Sale Online](/notes/rilhameilya/06-22-2021/winstrol-oral-drops-cycle-real-steroids-for-sale-online) by [rilhameilya](../profile/rilhameilya)
 - [Drone Archaeology | Tomb Hunting Using NDVI, NIR Threshold with Bitwise NOT in Python](/notes/ektopyrotic/01-03-2022/drone-archaeology-tomb-hunting-using-ndvi-nir-threshold-with-bitwise-not-in-python) by [ektopyrotic](../profile/ektopyrotic)

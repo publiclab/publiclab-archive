@@ -1,12 +1,16 @@
 ---
-nid: 11759
 title: home-carousel
-path: public/static/feature/home-carousel.md
-uid: 1
 tagnames: 
+author: warren
+path: /feature/home-carousel.md
+nid: 11759
+uid: 1
+
 ---
 
 # home-carousel
+
+April 20, 2015 03:24 | Tags: 
 
 <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/gh/kenwheeler/slick@1.8.1/slick/slick.css"/>
 <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/gh/kenwheeler/slick@1.8.1/slick/slick-theme.css"/>

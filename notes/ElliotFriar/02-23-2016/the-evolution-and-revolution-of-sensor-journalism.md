@@ -1,12 +1,18 @@
 ---
-nid: 12723
 title: The Evolution and Revolution of Sensor Journalism
-path: public/static/notes/ElliotFriar/02-23-2016/the-evolution-and-revolution-of-sensor-journalism.md
+tagnames: sensor-journalism, response:12748, hidden:response
+author: ElliotFriar
+path: /notes/ElliotFriar/02-23-2016/the-evolution-and-revolution-of-sensor-journalism.md
+nid: 12723
 uid: 461498
-tagnames: sensor-journalism,response:12748,hidden:response
+
 ---
 
 # The Evolution and Revolution of Sensor Journalism
+
+by [ElliotFriar](../profile/ElliotFriar) February 23, 2016 19:24
+
+February 23, 2016 19:24 | Tags: [sensor-journalism](../tag/sensor-journalism), [response:12748](../tag/response:12748), [hidden:response](../tag/hidden:response)
 
 Sensor journalism is a fascinating new concept gaining interest in journalistic and scientific scholarly discussions, with the potential for revolutionary impact as a vital facet of both industries and professions. In her presentation, scholar Lily Bui defined a sensor as “something that reacts predictively to the environment and can measure some aspect of it.” Bui affirmed these things that react and measure variables in environments do not have to be technological or completely quantifiable, with human anatomy technically considered to fit the definition of sensors. Through seeing, hearing, smelling, tasting, and feeling, your eyes, ears, nose, tastebuds, and skin nerves are all measuring the environment. This information is processed and measured with cognitive function, where your brain uses past experiences to process and derive meaning from the situation.
 	Through this definition, it could be argued that any and all journalism is sensor journalism. Journalists use their eyes when they conduct research, ears when conducting in person interviews, and other features of anatomy and aspects of senses when completing reporting tasks. This information is measured as data, processed as thought, and culminates into a journalistic piece, whether it be digital video, a small article, or a long form opinion editorial.

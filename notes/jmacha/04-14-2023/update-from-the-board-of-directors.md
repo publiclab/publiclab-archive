@@ -1,12 +1,18 @@
 ---
-nid: 38806
 title: Update from the Board of Directors
-path: public/static/notes/jmacha/04-14-2023/update-from-the-board-of-directors.md
+tagnames: education, barnraising, organizing, air, blog, water, land
+author: jmacha
+path: /notes/jmacha/04-14-2023/update-from-the-board-of-directors.md
+nid: 38806
 uid: 423019
-tagnames: education,barnraising,organizing,air,blog,water,land
+
 ---
 
 # Update from the Board of Directors
+
+by [jmacha](../profile/jmacha) April 14, 2023 20:25
+
+April 14, 2023 20:25 | Tags: [education](../tag/education), [barnraising](../tag/barnraising), [organizing](../tag/organizing), [air](../tag/air), [blog](../tag/blog), [water](../tag/water), [land](../tag/land)
 
 Dear Public Lab Community,
 

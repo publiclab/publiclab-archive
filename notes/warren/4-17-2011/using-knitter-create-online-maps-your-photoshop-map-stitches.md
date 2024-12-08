@@ -1,12 +1,18 @@
 ---
-nid: 175
 title: Using Knitter to create online maps from your Photoshop map stitches
-path: public/static/notes/warren/4-17-2011/using-knitter-create-online-maps-your-photoshop-map-stitches.md
+tagnames: peru, mapknitter, photoshop, gdal
+author: warren
+path: /notes/warren/4-17-2011/using-knitter-create-online-maps-your-photoshop-map-stitches.md
+nid: 175
 uid: 1
-tagnames: peru,mapknitter,photoshop,gdal
+
 ---
 
 # Using Knitter to create online maps from your Photoshop map stitches
+
+by [warren](../profile/warren) April 17, 2011 18:40
+
+April 17, 2011 18:40 | Tags: [peru](../tag/peru), [mapknitter](../tag/mapknitter), [photoshop](../tag/photoshop), [gdal](../tag/gdal)
 
 For those who are comfortable doing their map stitching in Photoshop, but for whom the GDAL tools for creating an online version of that map (a tileset) are a bit overwhelming, it does work to just take your Photoshop map and upload it to Knitter: http://cartagen.org/maps
 

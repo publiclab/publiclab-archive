@@ -1,12 +1,18 @@
 ---
-nid: 193
 title: Spectrometry UROP 4/26/11 update
-path: public/static/notes/alex-mccarthy/4-26-2011/spectrometry-urop-42611-update.md
+tagnames: spectrometer, activity:dsk
+author: Alex-McCarthy
+path: /notes/alex-mccarthy/4-26-2011/spectrometry-urop-42611-update.md
+nid: 193
 uid: 125
-tagnames: spectrometer,activity:dsk
+
 ---
 
 # Spectrometry UROP 4/26/11 update
+
+by [Alex-McCarthy](../profile/Alex-McCarthy) April 26, 2011 15:45
+
+April 26, 2011 15:45 | Tags: [spectrometer](../tag/spectrometer), [activity:dsk](../tag/activity:dsk)
 
 Yesterday I tried to increase the resolution of spectrometer 3.0 by making an even thinner slit, which was not to difficult to do. I then found that there is a limit to how small a slit can usefully be- too small, and not enough light enters the device to create a visibly useful spectrum. Last week I was able to take a couple really good spectrum of fluorescent light bulbs, but review the photos I took, only one or two were of this quality out of dozens taken- I wans't sure what cause these photos to come out so crisp. Just looking into the spectrometer,  could the spectrum was consistently sharp, so it was the camera being inconsistent. I spent an afternoon trying to find what camera settings resulted in sharper photos, and I spent some time making sure there was zero light pollution in the device. The setting that had most effect on sharpness was the ISO setting- lower settings led to less blurring, but still not to the degree of clarity that I had achieved last week. Going back through the dozens of photos I found that the crisp ones actually had the most light pollution- the camera had trouble with the large contrast between the spectrum bands, and the black background. After some trial and error, I found cutting a large slit into the side of the device, seen 
 

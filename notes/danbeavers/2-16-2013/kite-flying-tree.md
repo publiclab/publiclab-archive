@@ -1,12 +1,18 @@
 ---
-nid: 6021
 title: Kite Flying Tree
-path: public/static/notes/danbeavers/2-16-2013/kite-flying-tree.md
+tagnames: kite-mapping, kite, diy-kite, homemade-kites, easy-cut-delta
+author: danbeavers
+path: /notes/danbeavers/2-16-2013/kite-flying-tree.md
+nid: 6021
 uid: 51
-tagnames: kite-mapping,kite,diy-kite,homemade-kites,easy-cut-delta
+
 ---
 
 # Kite Flying Tree
+
+by [danbeavers](../profile/danbeavers) February 17, 2013 00:02
+
+February 17, 2013 00:02 | Tags: [kite-mapping](../tag/kite-mapping), [kite](../tag/kite), [diy-kite](../tag/diy-kite), [homemade-kites](../tag/homemade-kites), [easy-cut-delta](../tag/easy-cut-delta)
 
 https://publiclab.org/sites/default/files/imagefield_thumbs/IMG_0271.JPG?1361058416
 

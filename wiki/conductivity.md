@@ -1,12 +1,18 @@
 ---
-nid: 14954
 title: Water conductivity monitoring
-path: public/static/wiki/conductivity.md
+tagnames: conductivity, method, parent:water-quality
+author: warren
+path: /wiki/conductivity.md
+nid: 14954
 uid: 1
-tagnames: conductivity,method,parent:water-quality
+
 ---
 
 # Water conductivity monitoring
+
+by [warren](../profile/warren), [liz](../profile/liz)
+
+September 25, 2017 19:49 | Tags: [conductivity](../tag/conductivity), [method](../tag/method), [parent:water-quality](../tag/parent:water-quality)
 
 **Conductivity** is a measure of a solution's ability to conduct electricity, as measured in Siemens per meter (S/m). (lead image by @ddileona)
 

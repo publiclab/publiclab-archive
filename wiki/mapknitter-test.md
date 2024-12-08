@@ -1,12 +1,18 @@
 ---
-nid: 18526
 title: mapknitter-test
-path: public/static/wiki/mapknitter-test.md
-uid: 1
 tagnames: 
+author: warren
+path: /wiki/mapknitter-test.md
+nid: 18526
+uid: 1
+
 ---
 
 # mapknitter-test
+
+by [warren](../profile/warren)
+
+March 12, 2019 21:28 | Tags: 
 
 On this page you'll find sample images for testing MapKnitter. Click them (or right-click them) to download, then open this page to begin the test:
 

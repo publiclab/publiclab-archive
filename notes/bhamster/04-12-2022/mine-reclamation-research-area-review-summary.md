@@ -1,12 +1,18 @@
 ---
-nid: 30350
 title: Mine Reclamation: Research Area Review Summary
-path: public/static/notes/bhamster/04-12-2022/mine-reclamation-research-area-review-summary.md
+tagnames: mining, reviews, research-area-review, reclamation, with:laurel_mire, mine-reclamation
+author: bhamster
+path: /notes/bhamster/04-12-2022/mine-reclamation-research-area-review-summary.md
+nid: 30350
 uid: 664477
-tagnames: mining,reviews,research-area-review,reclamation,with:laurel_mire,mine-reclamation
+
 ---
 
 # Mine Reclamation: Research Area Review Summary
+
+by [bhamster](../profile/bhamster) April 12, 2022 15:37
+
+April 12, 2022 15:37 | Tags: [mining](../tag/mining), [reviews](../tag/reviews), [research-area-review](../tag/research-area-review), [reclamation](../tag/reclamation), [with:laurel_mire](../tag/with:laurel_mire), [mine-reclamation](../tag/mine-reclamation)
 
 At the end of March, we wrapped up a [review on the topic of mine reclamation](https://publiclab.org/notes/bhamster/01-31-2022/launching-a-research-area-review-on-mine-reclamation). 
 

@@ -1,12 +1,18 @@
 ---
-nid: 28278
 title: Common Permit Violations: MMMP
-path: public/static/notes/ekpeterman/11-24-2021/common-permit-violations-mmmp.md
+tagnames: coal-mining, organizing, mining, water-quality, advocacy, with:junior_walk1337, with:mmmp
+author: ekpeterman
+path: /notes/ekpeterman/11-24-2021/common-permit-violations-mmmp.md
+nid: 28278
 uid: 641166
-tagnames: coal-mining,organizing,mining,water-quality,advocacy,with:junior_walk1337,with:mmmp
+
 ---
 
 # Common Permit Violations: MMMP
+
+by [ekpeterman](../profile/ekpeterman) November 24, 2021 16:25
+
+November 24, 2021 16:25 | Tags: [coal-mining](../tag/coal-mining), [organizing](../tag/organizing), [mining](../tag/mining), [water-quality](../tag/water-quality), [advocacy](../tag/advocacy), [with:junior_walk1337](../tag/with:junior_walk1337), [with:mmmp](../tag/with:mmmp)
 
 _This is the first in a series of posts about common permit violations that citizens can look for and report to hold coal companies accountable. Stay tuned for more!_
 

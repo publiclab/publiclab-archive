@@ -1,12 +1,18 @@
 ---
-nid: 1671
 title: Erosion of civilisation, storm by storm
-path: public/static/notes/neilh/4-13-2012/erosion-civilisation-storm-storm.md
+tagnames: california, water-quality, erosion
+author: neilh
+path: /notes/neilh/4-13-2012/erosion-civilisation-storm-storm.md
+nid: 1671
 uid: 698
-tagnames: california,water-quality,erosion
+
 ---
 
 # Erosion of civilisation, storm by storm
+
+by [neilh](../profile/neilh) April 14, 2012 01:48
+
+April 14, 2012 01:48 | Tags: [california](../tag/california), [water-quality](../tag/water-quality), [erosion](../tag/erosion)
 
 Water quality is often degraded by simple erosion - resulting in excess sedimentation in creeks. The picture shows a little urban creek in Cotati Ca that I've been monitoring for 5years. The visibly brown muddy water coming into the creek is from Cotati Creek joining the slightly larger Laguna da Santa Rosa. 
 The source of the erosion is about a mile away up a steep road - named "Water Rd". The ditches along "Water Rd" appear to have two management regimes - possibly two different municipal management styles one by the city (good) and the other by the county (problem). 

@@ -1,12 +1,18 @@
 ---
-nid: 12615
 title: Raman spectrometer in operation (sort of)
-path: public/static/notes/dhaffnersr/01-25-2016/raman-spectrometer-in-operation-sort-of.md
-uid: 461120
 tagnames: 
+author: dhaffnersr
+path: /notes/dhaffnersr/01-25-2016/raman-spectrometer-in-operation-sort-of.md
+nid: 12615
+uid: 461120
+
 ---
 
 # Raman spectrometer in operation (sort of)
+
+by [dhaffnersr](../profile/dhaffnersr) January 25, 2016 16:26
+
+January 25, 2016 16:26 | Tags: 
 
 ###What I want to do - develop a simple raman spectroscope that the public lab spectrometer kit can pick up the signal.
 

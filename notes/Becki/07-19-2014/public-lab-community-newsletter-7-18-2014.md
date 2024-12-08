@@ -1,12 +1,18 @@
 ---
-nid: 10709
 title: Public Lab Community Newsletter 7.18.2014
-path: public/static/notes/Becki/07-19-2014/public-lab-community-newsletter-7-18-2014.md
+tagnames: newsletter, newsletter-archive
+author: Becki
+path: /notes/Becki/07-19-2014/public-lab-community-newsletter-7-18-2014.md
+nid: 10709
 uid: 46673
-tagnames: newsletter,newsletter-archive
+
 ---
 
 # Public Lab Community Newsletter 7.18.2014
+
+by [Becki](../profile/Becki) July 19, 2014 00:29
+
+July 19, 2014 00:29 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
 
 Public Lab Community Newsletter July 18
 

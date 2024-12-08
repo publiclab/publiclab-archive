@@ -1,12 +1,18 @@
 ---
-nid: 4826
 title: plots2: the Public Lab 2.0 website
-path: public/static/wiki/plots2.md
+tagnames: website, plots2, alphatest, needs-revision, out-of-date
+author: warren
+path: /wiki/plots2.md
+nid: 4826
 uid: 1
-tagnames: website,plots2,alphatest,needs-revision,out-of-date
+
 ---
 
 # plots2: the Public Lab 2.0 website
+
+by [warren](../profile/warren)
+
+November 08, 2012 12:31 | Tags: [website](../tag/website), [plots2](../tag/plots2), [alphatest](../tag/alphatest), [needs-revision](../tag/needs-revision), [out-of-date](../tag/out-of-date)
 
 This is an information page for the **now-complete rewrite** of the Public Lab website on a new platform, with a whole new look. The new website (which you are using already!) replaced the Drupal-based [PublicLaboratory.org](http://publiclaboratory.org) ([on Github](https://github.com/publiclab/plots) which is now redirected, and the old codebase shut down) with [PublicLab.org](http://publiclab.org).
 

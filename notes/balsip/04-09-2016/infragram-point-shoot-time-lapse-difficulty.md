@@ -1,12 +1,18 @@
 ---
-nid: 12947
 title: Infragram Point & Shoot; Time-lapse Difficulty
-path: public/static/notes/balsip/04-09-2016/infragram-point-shoot-time-lapse-difficulty.md
+tagnames: ndvi, time-lapse, infragram, timelapse, code, mobius, infragram-point-shoot, script, error
+author: balsip
+path: /notes/balsip/04-09-2016/infragram-point-shoot-time-lapse-difficulty.md
+nid: 12947
 uid: 422670
-tagnames: ndvi,time-lapse,infragram,timelapse,code,mobius,infragram-point-shoot,script,error
+
 ---
 
 # Infragram Point & Shoot; Time-lapse Difficulty
+
+by [balsip](../profile/balsip) April 09, 2016 04:47
+
+April 09, 2016 04:47 | Tags: [ndvi](../tag/ndvi), [time-lapse](../tag/time-lapse), [infragram](../tag/infragram), [timelapse](../tag/timelapse), [code](../tag/code), [mobius](../tag/mobius), [infragram-point-shoot](../tag/infragram-point-shoot), [script](../tag/script), [error](../tag/error)
 
 I would like to set up the code on the camera to shoot on a time-lapse interval (120 seconds).
 

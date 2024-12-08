@@ -1,12 +1,18 @@
 ---
-nid: 13805
 title: Well done. What method do you use to enhance the output? 
-path: public/static/notes/HappyS5/12-25-2016/well-done-what-method-do-you-use-to-enhance-the-output.md
+tagnames: spectrometer, spectrometry, raman, question:spectrometer, diy-spectrometer, raman-spectrometer, question:general, response:12522
+author: HappyS5
+path: /notes/HappyS5/12-25-2016/well-done-what-method-do-you-use-to-enhance-the-output.md
+nid: 13805
 uid: 459545
-tagnames: spectrometer,spectrometry,raman,question:spectrometer,diy-spectrometer,raman-spectrometer,question:general,response:12522
+
 ---
 
 # Well done. What method do you use to enhance the output? 
+
+by [HappyS5](../profile/HappyS5) December 25, 2016 07:26
+
+December 25, 2016 07:26 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [raman](../tag/raman), [question:spectrometer](../tag/question:spectrometer), [diy-spectrometer](../tag/diy-spectrometer), [raman-spectrometer](../tag/raman-spectrometer), [question:general](../tag/question:general), [response:12522](../tag/response:12522)
 
 Hello, 
 

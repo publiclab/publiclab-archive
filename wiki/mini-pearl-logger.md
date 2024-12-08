@@ -1,12 +1,18 @@
 ---
-nid: 14794
 title: Mini Pearl Logger
-path: public/static/wiki/mini-pearl-logger.md
+tagnames: arduino, sensors, datalogger, data-logging, parent:data-logging, mini-pearl-logger, activities:mini-pearl-logger, community-kits-prep
+author: cfastie
+path: /wiki/mini-pearl-logger.md
+nid: 14794
 uid: 554
-tagnames: arduino,sensors,datalogger,data-logging,parent:data-logging,mini-pearl-logger,activities:mini-pearl-logger,community-kits-prep
+
 ---
 
 # Mini Pearl Logger
+
+by [cfastie](../profile/cfastie)
+
+August 27, 2017 03:50 | Tags: [arduino](../tag/arduino), [sensors](../tag/sensors), [datalogger](../tag/datalogger), [data-logging](../tag/data-logging), [parent:data-logging](../tag/parent:data-logging), [mini-pearl-logger](../tag/mini-pearl-logger), [activities:mini-pearl-logger](../tag/activities:mini-pearl-logger), [community-kits-prep](../tag/community-kits-prep)
 
 The Mini Pearl Logger is a powerful and inexpensive device for logging environmental data. It is based on an Arduino Pro Mini in combination with a real time clock and a microSD card reader. Combining these common electronic components allows logging data from multiple sensors for multiple months. Three different kits to build a Mini Pearl Logger are available at the [KAPtery](http://kaptery.com/products/data-and-control).  
 

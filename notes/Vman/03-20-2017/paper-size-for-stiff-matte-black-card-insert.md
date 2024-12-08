@@ -1,12 +1,18 @@
 ---
-nid: 14038
 title: Paper size for stiff matte black card insert
-path: public/static/notes/Vman/03-20-2017/paper-size-for-stiff-matte-black-card-insert.md
+tagnames: question:spectrometry, first-time-poster
+author: Vman
+path: /notes/Vman/03-20-2017/paper-size-for-stiff-matte-black-card-insert.md
+nid: 14038
 uid: 497579
-tagnames: question:spectrometry,first-time-poster
+
 ---
 
 # Paper size for stiff matte black card insert
+
+by [Vman](../profile/Vman) March 20, 2017 02:30
+
+March 20, 2017 02:30 | Tags: [question:spectrometry](../tag/question:spectrometry), [first-time-poster](../tag/first-time-poster)
 
 ###What I want to do or know
 What paper size should I be printing out the design file provided in this page (under the title 'Design files')?

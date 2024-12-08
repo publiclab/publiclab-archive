@@ -1,6 +1,6 @@
 # question-permits
 
-7 notes and wiki pages
+7 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Are there any exemptions under the NPDES? ](/notes/stevie/02-09-2017/are-there-any-exemptions-under-the-npdes) by [stevie](../profile/stevie)
 - [What type of permits are required for gravel and asphalt processing facilities?](/notes/stevie/07-10-2018/what-type-of-permits-are-required-for-gravel-and-asphalt-processing-facilities) by [stevie](../profile/stevie)

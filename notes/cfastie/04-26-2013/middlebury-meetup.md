@@ -1,12 +1,18 @@
 ---
-nid: 7073
 title: Middlebury Meetup April 30
-path: public/static/notes/cfastie/04-26-2013/middlebury-meetup.md
+tagnames: near-infrared-camera, ndvi, vermont, farmhack, agriculture, event
+author: cfastie
+path: /notes/cfastie/04-26-2013/middlebury-meetup.md
+nid: 7073
 uid: 554
-tagnames: near-infrared-camera,ndvi,vermont,farmhack,agriculture,event
+
 ---
 
 # Middlebury Meetup April 30
+
+by [cfastie](../profile/cfastie) April 26, 2013 19:04
+
+April 26, 2013 19:04 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [vermont](../tag/vermont), [farmhack](../tag/farmhack), [agriculture](../tag/agriculture), [event](../tag/event)
 
 <em>Image above: The Middlebury College Organic Farm on July 19, 2011. It won't look anything like this on April 30, but we might get some aerial images anyway. Photo: two stitched photos from a Canon S95 lofted by 9' delta kite.</em>
 <p></p>

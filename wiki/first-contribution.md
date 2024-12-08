@@ -1,12 +1,18 @@
 ---
-nid: 16325
 title: Your First Contribution on Public Lab
-path: public/static/wiki/first-contribution.md
+tagnames: welcome, newcomers, first-timers, first-contribution
+author: warren
+path: /wiki/first-contribution.md
+nid: 16325
 uid: 1
-tagnames: welcome,newcomers,first-timers,first-contribution
+
 ---
 
 # Your First Contribution on Public Lab
+
+by [bhamster](../profile/bhamster), [liz](../profile/liz), [warren](../profile/warren)
+
+May 10, 2018 21:44 | Tags: [welcome](../tag/welcome), [newcomers](../tag/newcomers), [first-timers](../tag/first-timers), [first-contribution](../tag/first-contribution)
 
 ## Whoop! Whoop! Yay... 🎉 🎉 🎉
 

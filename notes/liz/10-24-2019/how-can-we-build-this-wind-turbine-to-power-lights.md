@@ -1,12 +1,18 @@
 ---
-nid: 21283
 title: How can we build this wind turbine to power lights?
-path: public/static/notes/liz/10-24-2019/how-can-we-build-this-wind-turbine-to-power-lights.md
+tagnames: wind, lebanon, bourjalshamali, with:mustapha, question:wind
+author: liz
+path: /notes/liz/10-24-2019/how-can-we-build-this-wind-turbine-to-power-lights.md
+nid: 21283
 uid: 7
-tagnames: wind,lebanon,bourjalshamali,with:mustapha,question:wind
+
 ---
 
 # How can we build this wind turbine to power lights?
+
+by [liz](../profile/liz) October 24, 2019 18:14
+
+October 24, 2019 18:14 | Tags: [wind](../tag/wind), [lebanon](../tag/lebanon), [bourjalshamali](../tag/bourjalshamali), [with:mustapha](../tag/with:mustapha), [question:wind](../tag/question:wind)
 
 _posting on behalf of @Mustapha_
 

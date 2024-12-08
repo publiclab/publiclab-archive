@@ -1,12 +1,18 @@
 ---
-nid: 12105
 title: Oil Testing Kit Warning
-path: public/static/wiki/oil-testing-kit-warning.md
+tagnames: safety, laser, instructions, realgenius, usefull
+author: warren
+path: /wiki/oil-testing-kit-warning.md
+nid: 12105
 uid: 1
-tagnames: safety,laser,instructions,realgenius,usefull
+
 ---
 
 # Oil Testing Kit Warning
+
+by [warren](../profile/warren), [danbeavers](../profile/danbeavers), [gretchengehrke](../profile/gretchengehrke)
+
+July 29, 2015 13:51 | Tags: [safety](../tag/safety), [laser](../tag/laser), [instructions](../tag/instructions), [realgenius](../tag/realgenius), [usefull](../tag/usefull)
 
 The Oil Testing Kit comes with a 405 (+-10) nanometer blue laser which some refer to as an ultraviolet or UV laser. This laser is powerful (<5mw) and can cause eye damage more easily than many other consumer lasers.
 

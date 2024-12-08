@@ -1,12 +1,18 @@
 ---
-nid: 11805
 title: Multispectral raspberry pi: first light (NDVI images)
-path: public/static/notes/khufkens/05-10-2015/multispectral-raspberry-pi-first-light-ndvi-images.md
+tagnames: ndvi, raspberry-pi, infragram, barnstar:basic, multipspectral
+author: khufkens
+path: /notes/khufkens/05-10-2015/multispectral-raspberry-pi-first-light-ndvi-images.md
+nid: 11805
 uid: 438931
-tagnames: ndvi,raspberry-pi,infragram,barnstar:basic,multipspectral
+
 ---
 
 # Multispectral raspberry pi: first light (NDVI images)
+
+by [khufkens](../profile/khufkens) May 10, 2015 21:37
+
+May 10, 2015 21:37 | Tags: [ndvi](../tag/ndvi), [raspberry-pi](../tag/raspberry-pi), [infragram](../tag/infragram), [barnstar:basic](../tag/barnstar:basic), [multipspectral](../tag/multipspectral)
 
 ### First light
 

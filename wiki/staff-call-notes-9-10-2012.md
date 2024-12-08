@@ -1,12 +1,18 @@
 ---
-nid: 3713
 title: Staff call notes 9 10 2012
-path: public/static/wiki/staff-call-notes-9-10-2012.md
-uid: 1
 tagnames: 
+author: warren
+path: /wiki/staff-call-notes-9-10-2012.md
+nid: 3713
+uid: 1
+
 ---
 
 # Staff call notes 9 10 2012
+
+by [warren](../profile/warren)
+
+September 10, 2012 17:33 | Tags: 
 
 ###Adam###
 * Goals: Kickstarter outreach, site mailing list - no really, nail down a Roanoke date for talk

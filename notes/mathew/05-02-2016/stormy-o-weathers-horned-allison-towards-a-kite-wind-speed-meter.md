@@ -1,12 +1,18 @@
 ---
-nid: 13064
 title: Stormy O. Weathers' Horned Allison- towards a kite wind speed meter
-path: public/static/notes/mathew/05-02-2016/stormy-o-weathers-horned-allison-towards-a-kite-wind-speed-meter.md
+tagnames: kite-mapping, kite, diy-kite, wind-speed-meter, tyvek, diy-kites, open-air, air-monitoring, kite-anemometer, horned-allison, kite-making, activity:kite-making, activity:tyvek
+author: mathew
+path: /notes/mathew/05-02-2016/stormy-o-weathers-horned-allison-towards-a-kite-wind-speed-meter.md
+nid: 13064
 uid: 4
-tagnames: kite-mapping,kite,diy-kite,wind-speed-meter,tyvek,diy-kites,open-air,air-monitoring,kite-anemometer,horned-allison,kite-making,activity:kite-making,activity:tyvek
+
 ---
 
 # Stormy O. Weathers' Horned Allison- towards a kite wind speed meter
+
+by [mathew](../profile/mathew) May 02, 2016 22:05
+
+May 02, 2016 22:05 | Tags: [kite-mapping](../tag/kite-mapping), [kite](../tag/kite), [diy-kite](../tag/diy-kite), [wind-speed-meter](../tag/wind-speed-meter), [tyvek](../tag/tyvek), [diy-kites](../tag/diy-kites), [open-air](../tag/open-air), [air-monitoring](../tag/air-monitoring), [kite-anemometer](../tag/kite-anemometer), [horned-allison](../tag/horned-allison), [kite-making](../tag/kite-making), [activity:kite-making](../tag/activity:kite-making), [activity:tyvek](../tag/activity:tyvek)
 
 Over the past three years me and @Ecta64 have posted a few notes investigating [using a kite itself as a wind speed meter.](/tag/wind-speed-meter).  Recently @Ecta64 has collected a series of parts that replicate the functionality of a commercial wind prospecting device from the '80's, [the Approach Fish TALA](/notes/Ecta64/07-19-2015/unboxing-the-tala-kite-anemometer), or Tethered Aerodynamic Lifting Anemometer (i.e. a kite wind speed meter).  You can see @Ecta64's [overview on his Youtube channel](https://www.youtube.com/watch?v=kLks9dUnrcA).
 

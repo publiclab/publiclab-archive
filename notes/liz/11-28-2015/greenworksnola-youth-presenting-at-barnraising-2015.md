@@ -1,12 +1,18 @@
 ---
-nid: 12460
 title: GroundWorksNOLA youth presenting at Barnraising 2015
-path: public/static/notes/liz/11-28-2015/greenworksnola-youth-presenting-at-barnraising-2015.md
-uid: 7
 tagnames: barnraising-2015
+author: liz
+path: /notes/liz/11-28-2015/greenworksnola-youth-presenting-at-barnraising-2015.md
+nid: 12460
+uid: 7
+
 ---
 
 # GroundWorksNOLA youth presenting at Barnraising 2015
+
+by [liz](../profile/liz) November 28, 2015 19:37
+
+November 28, 2015 19:37 | Tags: [barnraising-2015](../tag/barnraising-2015)
 
 [![Screen_Shot_2015-11-28_at_2.30.41_PM.png](//i.publiclab.org/system/images/photos/000/013/078/medium/Screen_Shot_2015-11-28_at_2.30.41_PM.png)](//i.publiclab.org/system/images/photos/000/013/078/original/Screen_Shot_2015-11-28_at_2.30.41_PM.png)
 

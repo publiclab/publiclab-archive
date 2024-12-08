@@ -1,6 +1,6 @@
 # plant-health
 
-27 notes and wiki pages
+27 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Multispectral DeFelice](/notes/cfastie/4-3-2013/multispectral-defelice) by [cfastie](../profile/cfastie)
 - [Bean Cam](/notes/cfastie/4-8-2013/bean-cam) by [cfastie](../profile/cfastie)

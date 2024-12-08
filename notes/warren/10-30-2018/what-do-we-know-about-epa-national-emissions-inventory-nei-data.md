@@ -1,12 +1,18 @@
 ---
-nid: 17435
 title: What do we know about EPA National Emissions Inventory (NEI) data?
-path: public/static/notes/warren/10-30-2018/what-do-we-know-about-epa-national-emissions-inventory-nei-data.md
+tagnames: epa, database, air-quality, data, emissions, question:air-quality, fractracker, question:epa, air-pollution, leaflet-environmental-layers, question:leaflet-environmental-layers, nei, national-emissions-inventory, lel, question:emissions, response:16600
+author: warren
+path: /notes/warren/10-30-2018/what-do-we-know-about-epa-national-emissions-inventory-nei-data.md
+nid: 17435
 uid: 1
-tagnames: epa,database,air-quality,data,emissions,question:air-quality,fractracker,question:epa,air-pollution,leaflet-environmental-layers,question:leaflet-environmental-layers,nei,national-emissions-inventory,lel,question:emissions,response:16600
+
 ---
 
 # What do we know about EPA National Emissions Inventory (NEI) data?
+
+by [warren](../profile/warren) October 30, 2018 17:09
+
+October 30, 2018 17:09 | Tags: [epa](../tag/epa), [database](../tag/database), [air-quality](../tag/air-quality), [data](../tag/data), [emissions](../tag/emissions), [question:air-quality](../tag/question:air-quality), [fractracker](../tag/fractracker), [question:epa](../tag/question:epa), [air-pollution](../tag/air-pollution), [leaflet-environmental-layers](../tag/leaflet-environmental-layers), [question:leaflet-environmental-layers](../tag/question:leaflet-environmental-layers), [nei](../tag/nei), [national-emissions-inventory](../tag/national-emissions-inventory), [lel](../tag/lel), [question:emissions](../tag/question:emissions), [response:16600](../tag/response:16600)
 
 I found my way into this page for 2014: [https://www.epa.gov/air-emissions-inventories/2014-national-emissions-inventory-nei-data](https://www.epa.gov/air-emissions-inventories/2014-national-emissions-inventory-nei-data)
 

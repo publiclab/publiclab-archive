@@ -1,6 +1,6 @@
 # leaffest
 
-65 notes and wiki pages
+65 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [L E A F F E S T](/notes/cfastie/9-5-2012/l-e-f-f-e-s-t) by [cfastie](../profile/cfastie)
 - [Remote temperature sensing](/notes/cfastie/9-14-2012/remote-temperature-sensing) by [cfastie](../profile/cfastie)

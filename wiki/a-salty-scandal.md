@@ -1,12 +1,18 @@
 ---
-nid: 11595
 title: A Salty Scandal
-path: public/static/wiki/a-salty-scandal.md
-uid: 435415
 tagnames: 
+author: vvincent
+path: /wiki/a-salty-scandal.md
+nid: 11595
+uid: 435415
+
 ---
 
 # A Salty Scandal
+
+by [vvincent](../profile/vvincent)
+
+February 17, 2015 19:02 | Tags: 
 
 Victoria Bedford,
  Mehak Anwar,

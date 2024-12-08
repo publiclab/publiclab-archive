@@ -1,12 +1,18 @@
 ---
-nid: 10040
 title: Great Infragram conversion video (Canon Elph 130IS)
-path: public/static/notes/mathew/02-13-2014/great-infragram-conversion-video-canon-elph-130is.md
+tagnames: near-infrared-camera, video, conversion, infragram, tutorial
+author: mathew
+path: /notes/mathew/02-13-2014/great-infragram-conversion-video-canon-elph-130is.md
+nid: 10040
 uid: 4
-tagnames: near-infrared-camera,video,conversion,infragram,tutorial
+
 ---
 
 # Great Infragram conversion video (Canon Elph 130IS)
+
+by [mathew](../profile/mathew) February 13, 2014 22:21
+
+February 13, 2014 22:21 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [video](../tag/video), [conversion](../tag/conversion), [infragram](../tag/infragram), [tutorial](../tag/tutorial)
 
 Dennis Baldwin made this really great video disassembling and converting a Powershot camera
 

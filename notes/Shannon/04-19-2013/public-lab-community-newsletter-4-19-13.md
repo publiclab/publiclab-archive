@@ -1,12 +1,18 @@
 ---
-nid: 6913
 title: Public Lab community newsletter 4.19.13
-path: public/static/notes/Shannon/04-19-2013/public-lab-community-newsletter-4-19-13.md
+tagnames: newsletter, newsletter-archive
+author: Shannon
+path: /notes/Shannon/04-19-2013/public-lab-community-newsletter-4-19-13.md
+nid: 6913
 uid: 9
-tagnames: newsletter,newsletter-archive
+
 ---
 
 # Public Lab community newsletter 4.19.13
+
+by [Shannon](../profile/Shannon) April 19, 2013 15:34
+
+April 19, 2013 15:34 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
 
 This week in the Public Lab community newsletter... between trying out the new PublicLab.org website, pitching in to help find great mentors and students for Google Summer of Code and completing a map annotation survey, we may not be leaving you time for much else during your weekend! 
 

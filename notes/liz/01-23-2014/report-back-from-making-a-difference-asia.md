@@ -1,12 +1,18 @@
 ---
-nid: 9967
 title: Report back from "Making a Difference" Asia
-path: public/static/notes/liz/01-23-2014/report-back-from-making-a-difference-asia.md
+tagnames: event, hong-kong, asia
+author: liz
+path: /notes/liz/01-23-2014/report-back-from-making-a-difference-asia.md
+nid: 9967
 uid: 7
-tagnames: event,hong-kong,asia
+
 ---
 
 # Report back from "Making a Difference" Asia
+
+by [liz](../profile/liz) January 23, 2014 15:53
+
+January 23, 2014 15:53 | Tags: [event](../tag/event), [hong-kong](../tag/hong-kong), [asia](../tag/asia)
 
 ###Event details
 

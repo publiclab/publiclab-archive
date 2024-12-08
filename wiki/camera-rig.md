@@ -1,11 +1,17 @@
 ---
-nid: 14504
 title: camera-rig
-path: public/static/wiki/camera-rig.md
-uid: 1
 tagnames: redirect:13764
+author: warren
+path: /wiki/camera-rig.md
+nid: 14504
+uid: 1
+
 ---
 
 # camera-rig
+
+by [warren](../profile/warren)
+
+June 06, 2017 17:44 | Tags: [redirect:13764](../tag/redirect:13764)
 
 Redirect!

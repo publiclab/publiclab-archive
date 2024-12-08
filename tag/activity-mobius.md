@@ -1,6 +1,6 @@
 # activity-mobius
 
-9 notes and wiki pages
+9 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Mobius IR conversion](/notes/cfastie/04-22-2014/mobius-ir-conversion) by [cfastie](../profile/cfastie)
 - [KAP Rig for Mobius Action Cam](/notes/code4maine/07-09-2014/kap-rig-for-mobius-action-cam) by [ajawitz](../profile/ajawitz)

@@ -1,6 +1,6 @@
 # pick
 
-5 notes and wiki pages
+5 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [DIY Indoor Air Remediation Kit](/wiki/diy-indoor-air-quality-remediation-kit) (wiki)
 - [Build a plant-based air purifier ](/notes/nshapiro/09-26-2016/build-a-plant-based-air-purifier) by [nshapiro](../profile/nshapiro)

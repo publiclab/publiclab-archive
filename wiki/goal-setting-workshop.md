@@ -1,12 +1,18 @@
 ---
-nid: 14957
 title: Goal Setting Workshop
-path: public/static/wiki/goal-setting-workshop.md
+tagnames: workshop, methods, getting-started, collaborative-tools, goal
+author: stevie
+path: /wiki/goal-setting-workshop.md
+nid: 14957
 uid: 422561
-tagnames: workshop,methods,getting-started,collaborative-tools,goal
+
 ---
 
 # Goal Setting Workshop
+
+by [stevie](../profile/stevie), [warren](../profile/warren)
+
+September 26, 2017 16:08 | Tags: [workshop](../tag/workshop), [methods](../tag/methods), [getting-started](../tag/getting-started), [collaborative-tools](../tag/collaborative-tools), [goal](../tag/goal)
 
 ## About this workshop: 
 

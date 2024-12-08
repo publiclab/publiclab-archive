@@ -1,12 +1,18 @@
 ---
-nid: 10044
 title: Public Lab Community Newsletter February 16, 2014
-path: public/static/notes/Shannon/02-17-2014/public-lab-community-newsletter-february-16-2014.md
+tagnames: newsletter, newsletter-archive
+author: Shannon
+path: /notes/Shannon/02-17-2014/public-lab-community-newsletter-february-16-2014.md
+nid: 10044
 uid: 9
-tagnames: newsletter,newsletter-archive
+
 ---
 
 # Public Lab Community Newsletter February 16, 2014
+
+by [Shannon](../profile/Shannon) February 17, 2014 00:14
+
+February 17, 2014 00:14 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
 
 In the Public Lab community newsletter this week, get updates on projects happening from Spain to Louisiana, dig in to a conversation on indoor gardening and open hardware and check out numerous new research notes on topics ranging from underwater plume sampling to Arduino based underwater sensor platforms. Enjoy!
 

@@ -1,12 +1,18 @@
 ---
-nid: 6073
 title: Lifting capacity of PL balloon kit?
-path: public/static/notes/emjay/2-20-2013/lifting-capacity-pl-balloon-kit.md
-uid: 51038
 tagnames: balloon-mapping
+author: emjay
+path: /notes/emjay/2-20-2013/lifting-capacity-pl-balloon-kit.md
+nid: 6073
+uid: 51038
+
 ---
 
 # Lifting capacity of PL balloon kit?
+
+by [emjay](../profile/emjay) February 21, 2013 01:07
+
+February 21, 2013 01:07 | Tags: [balloon-mapping](../tag/balloon-mapping)
 
 Hi Folks,
 

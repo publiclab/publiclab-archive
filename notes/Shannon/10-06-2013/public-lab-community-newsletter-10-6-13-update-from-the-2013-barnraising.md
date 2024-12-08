@@ -1,12 +1,18 @@
 ---
-nid: 9413
 title: Public Lab community newsletter 10.6.13: Update from the 2013 barnraising
-path: public/static/notes/Shannon/10-06-2013/public-lab-community-newsletter-10-6-13-update-from-the-2013-barnraising.md
+tagnames: newsletter, barnraising, newsletter-archive
+author: Shannon
+path: /notes/Shannon/10-06-2013/public-lab-community-newsletter-10-6-13-update-from-the-2013-barnraising.md
+nid: 9413
 uid: 9
-tagnames: newsletter,barnraising,newsletter-archive
+
 ---
 
 # Public Lab community newsletter 10.6.13: Update from the 2013 barnraising
+
+by [Shannon](../profile/Shannon) October 06, 2013 20:51
+
+October 06, 2013 20:51 | Tags: [newsletter](../tag/newsletter), [barnraising](../tag/barnraising), [newsletter-archive](../tag/newsletter-archive)
 
 In lieu of the normal community newsletter format for this week, I'm excited to do a quick report out from the [2013 barnraising](http://publiclab.org/wiki/barnraising-2013) that is currently going on in New Orleans!
 

@@ -1,12 +1,18 @@
 ---
-nid: 21305
 title: Mycologycal Sovereignty Workshops
-path: public/static/notes/imvec/10-26-2019/mycologycal-sovereignty-workshops.md
+tagnames: spain, workshop, event, bioremediation, event:rsvp, eu, mycology, fughi, date:11-01-2019
+author: imvec
+path: /notes/imvec/10-26-2019/mycologycal-sovereignty-workshops.md
+nid: 21305
 uid: 495038
-tagnames: spain,workshop,event,bioremediation,event:rsvp,eu,mycology,fughi,date:11-01-2019
+
 ---
 
 # Mycologycal Sovereignty Workshops
+
+by [imvec](../profile/imvec) October 26, 2019 18:17
+
+October 26, 2019 18:17 | Tags: [spain](../tag/spain), [workshop](../tag/workshop), [event](../tag/event), [bioremediation](../tag/bioremediation), [event:rsvp](../tag/event:rsvp), [eu](../tag/eu), [mycology](../tag/mycology), [fughi](../tag/fughi), [date:11-01-2019](../tag/date:11-01-2019)
 
 ## What, when and where
 

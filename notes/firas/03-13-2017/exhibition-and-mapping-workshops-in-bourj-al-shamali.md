@@ -1,12 +1,18 @@
 ---
-nid: 14007
 title: Exhibition and Mapping Workshops in Bourj Al Shamali
-path: public/static/notes/firas/03-13-2017/exhibition-and-mapping-workshops-in-bourj-al-shamali.md
+tagnames: balloon-mapping, exhibition, bourjalshamali
+author: firas
+path: /notes/firas/03-13-2017/exhibition-and-mapping-workshops-in-bourj-al-shamali.md
+nid: 14007
 uid: 448963
-tagnames: balloon-mapping,exhibition,bourjalshamali
+
 ---
 
 # Exhibition and Mapping Workshops in Bourj Al Shamali
+
+by [firas](../profile/firas) March 13, 2017 17:31
+
+March 13, 2017 17:31 | Tags: [balloon-mapping](../tag/balloon-mapping), [exhibition](../tag/exhibition), [bourjalshamali](../tag/bourjalshamali)
 
 On 4 -5 February, an exhibition of our balloon mapping project took place in Al Hula 
 

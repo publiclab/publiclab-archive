@@ -1,12 +1,18 @@
 ---
-nid: 12003
 title: Borrowing a Formaldehyde Kit, Take 1
-path: public/static/notes/mathew/06-25-2015/borrowing-a-formaldehyde-kit-take-1.md
+tagnames: air-quality, air, formaldehyde, open-air, openair, barnstar:video-documentation, indoor-air-quality, open
+author: mathew
+path: /notes/mathew/06-25-2015/borrowing-a-formaldehyde-kit-take-1.md
+nid: 12003
 uid: 4
-tagnames: air-quality,air,formaldehyde,open-air,openair,barnstar:video-documentation,indoor-air-quality,open
+
 ---
 
 # Borrowing a Formaldehyde Kit, Take 1
+
+by [mathew](../profile/mathew) June 25, 2015 06:31
+
+June 25, 2015 06:31 | Tags: [air-quality](../tag/air-quality), [air](../tag/air), [formaldehyde](../tag/formaldehyde), [open-air](../tag/open-air), [openair](../tag/openair), [barnstar:video-documentation](../tag/barnstar:video-documentation), [indoor-air-quality](../tag/indoor-air-quality), [open](../tag/open)
 
 ###What I want to do
 Mail a [DIY Formaldehyde](/notes/nshapiro/11-03-2014/diy-formaldehyde-test-kit) Lending [Library Kit](/notes/mathew/05-28-2015/formaldehyde-testing-kit-for-lending) out to five people, and have them use it successfully.  

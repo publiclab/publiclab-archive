@@ -1,12 +1,18 @@
 ---
-nid: 16373
 title: Living near to a major road increases children's risk of asthma
-path: public/static/notes/rosieliu/05-22-2018/living-near-to-a-major-road-increases-children-s-risk-of-asthma.md
+tagnames: health, children, asthma, first-time-poster
+author: rosieliu
+path: /notes/rosieliu/05-22-2018/living-near-to-a-major-road-increases-children-s-risk-of-asthma.md
+nid: 16373
 uid: 535191
-tagnames: health,children,asthma,first-time-poster
+
 ---
 
 # Living near to a major road increases children's risk of asthma
+
+by [rosieliu](../profile/rosieliu) May 22, 2018 02:53
+
+May 22, 2018 02:53 | Tags: [health](../tag/health), [children](../tag/children), [asthma](../tag/asthma), [first-time-poster](../tag/first-time-poster)
 
 A growing number of people in some developed countries including the USA develop a long-term illness called asthma, which predominantly affects the airways of the lungs and triggers difficulty breathing.
 

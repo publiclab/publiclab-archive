@@ -1,12 +1,18 @@
 ---
-nid: 7945
 title: Kite Photo of Ongoing Coal Pollution in Plaquemines Parish, LA
-path: public/static/notes/eustatic/05-28-2013/kite-photos-of-ongoing-coal-pollution-in-plaquemines-parish-la.md
+tagnames: gulf-coast, kite-mapping, watchdog, water-quality, blog, pollution, oblique, coal, petcoke, water, legal, unitedbulk, petroleum-coke, monitoring, coal-terminal, citizen, ubt, cwa, litigation, citizen-suit, federal-court, story:kite-mapping, story:aerial-mapping, law-and-policy
+author: eustatic
+path: /05-28-2013/kite-photos-of-ongoing-coal-pollution-in-plaquemines-parish-la.md
+nid: 7945
 uid: 379
-tagnames: gulf-coast,kite-mapping,watchdog,water-quality,blog,pollution,oblique,coal,petcoke,water,legal,unitedbulk,petroleum-coke,monitoring,coal-terminal,citizen,ubt,cwa,litigation,citizen-suit,federal-court,story:kite-mapping,story:aerial-mapping,law-and-policy
+
 ---
 
 # Kite Photo of Ongoing Coal Pollution in Plaquemines Parish, LA
+
+by [eustatic](../profile/eustatic) May 28, 2013 16:48
+
+May 28, 2013 16:48 | Tags: [gulf-coast](../tag/gulf-coast), [kite-mapping](../tag/kite-mapping), [watchdog](../tag/watchdog), [water-quality](../tag/water-quality), [blog](../tag/blog), [pollution](../tag/pollution), [oblique](../tag/oblique), [coal](../tag/coal), [petcoke](../tag/petcoke), [water](../tag/water), [legal](../tag/legal), [unitedbulk](../tag/unitedbulk), [petroleum-coke](../tag/petroleum-coke), [monitoring](../tag/monitoring), [coal-terminal](../tag/coal-terminal), [citizen](../tag/citizen), [ubt](../tag/ubt), [cwa](../tag/cwa), [litigation](../tag/litigation), [citizen-suit](../tag/citizen-suit), [federal-court](../tag/federal-court), [story:kite-mapping](../tag/story:kite-mapping), [story:aerial-mapping](../tag/story:aerial-mapping), [law-and-policy](../tag/law-and-policy)
 
 ##Kite Photo of Pollution from United Bulk terminal
 We gained a new perspective on the ongoing pollution from the United Bulk terminal using a "Little Bear" Delta kite.  

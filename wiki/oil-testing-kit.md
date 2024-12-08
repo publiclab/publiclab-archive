@@ -1,12 +1,18 @@
 ---
-nid: 10112
 title: Oil Testing Kit
-path: public/static/wiki/oil-testing-kit.md
+tagnames: spectrometer, oil-spill, oil, illustrated-guides, sample-prep, sampling, instructions, oil-testing, oil-testing-kit, prompt:oil-testing-kit, parent:spectrometry
+author: warren
+path: /wiki/oil-testing-kit.md
+nid: 10112
 uid: 1
-tagnames: spectrometer,oil-spill,oil,illustrated-guides,sample-prep,sampling,instructions,oil-testing,oil-testing-kit,prompt:oil-testing-kit,parent:spectrometry
+
 ---
 
 # Oil Testing Kit
+
+by [warren](../profile/warren), [stevie](../profile/stevie), [pdhixenbaugh](../profile/pdhixenbaugh), [MelissaN](../profile/MelissaN), [mathew](../profile/mathew), [gretchengehrke](../profile/gretchengehrke), [mollydanielsson](../profile/mollydanielsson), [bsugar](../profile/bsugar), [Shannon](../profile/Shannon), [liz](../profile/liz)
+
+March 06, 2014 13:58 | Tags: [spectrometer](../tag/spectrometer), [oil-spill](../tag/oil-spill), [oil](../tag/oil), [illustrated-guides](../tag/illustrated-guides), [sample-prep](../tag/sample-prep), [sampling](../tag/sampling), [instructions](../tag/instructions), [oil-testing](../tag/oil-testing), [oil-testing-kit](../tag/oil-testing-kit), [prompt:oil-testing-kit](../tag/prompt:oil-testing-kit), [parent:spectrometry](../tag/parent:spectrometry)
 
 _Detect and grade different kinds of oils using an ultraviolet laser and a DIY spectrometer._
 

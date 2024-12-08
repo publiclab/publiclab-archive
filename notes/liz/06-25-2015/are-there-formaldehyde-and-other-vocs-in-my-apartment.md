@@ -1,12 +1,18 @@
 ---
-nid: 12007
 title: are there formaldehyde and other VOCs in my apartment
-path: public/static/notes/liz/06-25-2015/are-there-formaldehyde-and-other-vocs-in-my-apartment.md
+tagnames: formaldehyde, indoor-air-quality, voc
+author: liz
+path: /notes/liz/06-25-2015/are-there-formaldehyde-and-other-vocs-in-my-apartment.md
+nid: 12007
 uid: 7
-tagnames: formaldehyde,indoor-air-quality,voc
+
 ---
 
 # are there formaldehyde and other VOCs in my apartment
+
+by [liz](../profile/liz) June 25, 2015 21:28
+
+June 25, 2015 21:28 | Tags: [formaldehyde](../tag/formaldehyde), [indoor-air-quality](../tag/indoor-air-quality), [voc](../tag/voc)
 
 ###What I want to do
 

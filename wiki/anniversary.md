@@ -1,12 +1,18 @@
 ---
-nid: 22315
 title: Celebrating Public Lab's tenth anniversary
-path: public/static/wiki/anniversary.md
+tagnames: blog, anniversary, pl10, bp10, geography-of-robots
+author: joyofsoy
+path: /wiki/anniversary.md
+nid: 22315
 uid: 540844
-tagnames: blog,anniversary,pl10,bp10,geography-of-robots
+
 ---
 
 # Celebrating Public Lab's tenth anniversary
+
+by [joyofsoy](../profile/joyofsoy)
+
+January 15, 2020 05:29 | Tags: [blog](../tag/blog), [anniversary](../tag/anniversary), [pl10](../tag/pl10), [bp10](../tag/bp10), [geography-of-robots](../tag/geography-of-robots)
 
 [Learn more about the joint statement from Gulf South and national organizations about the tenth anniversary of the BP oil disaster.](https://www.bp10yearslater.com/)
 

@@ -1,12 +1,18 @@
 ---
-nid: 4343
 title: Spectral Workbench API
-path: public/static/wiki/spectral-workbench-api.md
+tagnames: spectrometer, spectralworkbench
+author: warren
+path: /wiki/spectral-workbench-api.md
+nid: 4343
 uid: 1
-tagnames: spectrometer,spectralworkbench
+
 ---
 
 # Spectral Workbench API
+
+by [warren](../profile/warren)
+
+October 11, 2012 16:46 | Tags: [spectrometer](../tag/spectrometer), [spectralworkbench](../tag/spectralworkbench)
 
 # Spectral Workbench 2.0 API
 

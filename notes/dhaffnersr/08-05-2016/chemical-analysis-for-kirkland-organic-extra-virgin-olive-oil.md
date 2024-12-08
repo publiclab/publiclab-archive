@@ -1,12 +1,18 @@
 ---
-nid: 13335
 title: Chemical Analysis For Kirkland (organic) Extra Virgin Olive Oil
-path: public/static/notes/dhaffnersr/08-05-2016/chemical-analysis-for-kirkland-organic-extra-virgin-olive-oil.md
-uid: 461120
 tagnames: barnstar:basic
+author: dhaffnersr
+path: /notes/dhaffnersr/08-05-2016/chemical-analysis-for-kirkland-organic-extra-virgin-olive-oil.md
+nid: 13335
+uid: 461120
+
 ---
 
 # Chemical Analysis For Kirkland (organic) Extra Virgin Olive Oil
+
+by [dhaffnersr](../profile/dhaffnersr) August 05, 2016 16:13
+
+August 05, 2016 16:13 | Tags: [barnstar:basic](../tag/barnstar:basic)
 
 ##**Olive Oil Study, using Acetone as primary solvent**
 

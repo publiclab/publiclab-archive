@@ -1,12 +1,18 @@
 ---
-nid: 31262
 title: A Quick Look at the Health Impacts of Air Pollutants
-path: public/static/notes/awoolverton1/07-07-2022/a-quick-look-at-the-health-impacts-of-air-pollutants.md
+tagnames: heavy-metals, air-quality, pm, vocs, particulate-matter, zoom:6, formosaplastics, volatile-organic-compounds, lat:30.017929, lon:-90.791322, gameoverformosateam, health-effects
+author: awoolverton1
+path: /notes/awoolverton1/07-07-2022/a-quick-look-at-the-health-impacts-of-air-pollutants.md
+nid: 31262
 uid: 778039
-tagnames: heavy-metals,air-quality,pm,vocs,particulate-matter,zoom:6,formosaplastics,volatile-organic-compounds,lat:30.017929,lon:-90.791322,gameoverformosateam,health-effects
+
 ---
 
 # A Quick Look at the Health Impacts of Air Pollutants
+
+by [awoolverton1](../profile/awoolverton1) July 07, 2022 22:39
+
+July 07, 2022 22:39 | Tags: [heavy-metals](../tag/heavy-metals), [air-quality](../tag/air-quality), [pm](../tag/pm), [vocs](../tag/vocs), [particulate-matter](../tag/particulate-matter), [zoom:6](../tag/zoom:6), [formosaplastics](../tag/formosaplastics), [volatile-organic-compounds](../tag/volatile-organic-compounds), [lat:30.017929](../tag/lat:30.017929), [lon:-90.791322](../tag/lon:-90.791322), [gameoverformosateam](../tag/gameoverformosateam), [health-effects](../tag/health-effects)
 
 The communities of St. James Parish, like those in neighboring parishes throughout Southeast Louisiana's "Cancer Alley," face extremely high levels of pollutants, emitted from the region's 150 industrial plants. These majority Black and historically underrepresented communities bear the brunt of toxins emitted in the production of petrochemical shipped all across the nation.
 

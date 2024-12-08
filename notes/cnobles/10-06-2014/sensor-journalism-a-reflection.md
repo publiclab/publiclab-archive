@@ -1,12 +1,18 @@
 ---
-nid: 11236
 title: Sensor Journalism - A reflection
-path: public/static/notes/cnobles/10-06-2014/sensor-journalism-a-reflection.md
-uid: 427857
 tagnames: sensor-journalism
+author: cnobles
+path: /notes/cnobles/10-06-2014/sensor-journalism-a-reflection.md
+nid: 11236
+uid: 427857
+
 ---
 
 # Sensor Journalism - A reflection
+
+by [cnobles](../profile/cnobles) October 06, 2014 04:24
+
+October 06, 2014 04:24 | Tags: [sensor-journalism](../tag/sensor-journalism)
 
 Throughout my first month in my data visualization class at Emerson, there are a few concepts I’ve found particularly salient in our readings, lectures, and hands-on experience with building a water sensor. Data journalism has many aspects I’ve noticed so far — the intent behind collecting it; as a type of journalism, there are inevitably ethical issues; and the practical application of sensors and the data. I’ll apply both my learned knowledge as well as my practical knowledge from building a Coqui sensor to each of these issues. 
 

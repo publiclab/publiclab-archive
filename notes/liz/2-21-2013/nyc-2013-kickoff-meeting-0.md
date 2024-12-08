@@ -1,12 +1,18 @@
 ---
-nid: 6077
 title: NYC 2013 kickoff meeting
-path: public/static/notes/liz/2-21-2013/nyc-2013-kickoff-meeting-0.md
+tagnames: new-york-city, event
+author: liz
+path: /notes/liz/2-21-2013/nyc-2013-kickoff-meeting-0.md
+nid: 6077
 uid: 7
-tagnames: new-york-city,event
+
 ---
 
 # NYC 2013 kickoff meeting
+
+by [liz](../profile/liz) February 21, 2013 16:24
+
+February 21, 2013 16:24 | Tags: [new-york-city](../tag/new-york-city), [event](../tag/event)
 
 Monday evening February 18 was the kickoff meeting for the NYC Public Lab community. 
 

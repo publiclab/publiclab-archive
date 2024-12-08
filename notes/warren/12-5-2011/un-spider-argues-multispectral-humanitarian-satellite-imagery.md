@@ -1,12 +1,18 @@
 ---
-nid: 611
 title: UN-SPIDER argues for multispectral humanitarian satellite imagery
-path: public/static/notes/warren/12-5-2011/un-spider-argues-multispectral-humanitarian-satellite-imagery.md
-uid: 1
 tagnames: 
+author: warren
+path: /notes/warren/12-5-2011/un-spider-argues-multispectral-humanitarian-satellite-imagery.md
+nid: 611
+uid: 1
+
 ---
 
 # UN-SPIDER argues for multispectral humanitarian satellite imagery
+
+by [warren](../profile/warren) December 05, 2011 14:44
+
+December 05, 2011 14:44 | Tags: 
 
 <p><b>Social Impact through Satellite Remote Sensing – Visualizing Acute and Chronic Crises beyond the Visible Spectrum</b></p>
 

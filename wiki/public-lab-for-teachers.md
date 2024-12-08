@@ -1,12 +1,18 @@
 ---
-nid: 9894
 title: Public Lab for Educators
-path: public/static/wiki/public-lab-for-teachers.md
+tagnames: education, teaching, classroom, teachers, parent:education
+author: warren
+path: /wiki/public-lab-for-teachers.md
+nid: 9894
 uid: 1
-tagnames: education,teaching,classroom,teachers,parent:education
+
 ---
 
 # Public Lab for Educators
+
+by [liz](../profile/liz), [mimiss](../profile/mimiss), [JSummers](../profile/JSummers), [warren](../profile/warren)
+
+December 17, 2013 15:51 | Tags: [education](../tag/education), [teaching](../tag/teaching), [classroom](../tag/classroom), [teachers](../tag/teachers), [parent:education](../tag/parent:education)
 
 The Public Lab site is a social research sharing website for non-professional and professional scientists alike. 
 

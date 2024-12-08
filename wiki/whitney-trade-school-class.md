@@ -1,12 +1,18 @@
 ---
-nid: 116
 title: Whitney Trade School Class
-path: public/static/wiki/whitney-trade-school-class.md
-uid: 1
 tagnames: education
+author: warren
+path: /wiki/whitney-trade-school-class.md
+nid: 116
+uid: 1
+
 ---
 
 # Whitney Trade School Class
+
+by [warren](../profile/warren)
+
+March 04, 2011 18:20 | Tags: [education](../tag/education)
 
 ##Class description##
 

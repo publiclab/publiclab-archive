@@ -1,12 +1,18 @@
 ---
-nid: 24253
 title: APT Satellite Station
-path: public/static/notes/nearsys/08-02-2020/apt-satellite-station.md
+tagnames: satellite-imagery, antenna, open-weather, amplifier
+author: nearsys
+path: /notes/nearsys/08-02-2020/apt-satellite-station.md
+nid: 24253
 uid: 506331
-tagnames: satellite-imagery,antenna,open-weather,amplifier
+
 ---
 
 # APT Satellite Station
+
+by [nearsys](../profile/nearsys) August 02, 2020 17:13
+
+August 02, 2020 17:13 | Tags: [satellite-imagery](../tag/satellite-imagery), [antenna](../tag/antenna), [open-weather](../tag/open-weather), [amplifier](../tag/amplifier)
 
 Great article in receiving APT images. I was able to set up a station and start collecting images. 
 

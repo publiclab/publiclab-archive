@@ -1,12 +1,18 @@
 ---
-nid: 19689
 title: MapKnitter map of Grab-AGE
-path: public/static/notes/silentsairam/06-13-2019/mapknitter-map-of-grab-age.md
+tagnames: balloon-mapping, mapknitter, barnstar:basic, community-atlas
+author: silentsairam
+path: /notes/silentsairam/06-13-2019/mapknitter-map-of-grab-age.md
+nid: 19689
 uid: 553044
-tagnames: balloon-mapping,mapknitter,barnstar:basic,community-atlas
+
 ---
 
 # MapKnitter map of Grab-AGE
+
+by [silentsairam](../profile/silentsairam) June 13, 2019 15:04
+
+June 13, 2019 15:04 | Tags: [balloon-mapping](../tag/balloon-mapping), [mapknitter](../tag/mapknitter), [barnstar:basic](../tag/barnstar:basic), [community-atlas](../tag/community-atlas)
 
 <iframe src="https://mapknitter.org/embed/grab-age" style="border:none" width="100%" height="400px"></iframe><br /><br />Shows the Plastics or Garbage Dump in vegetation area where plants can be grown. If the dump is cleared, it increases the ground water level thereby good for plants<br />https://mapknitter.org/embed/grab-age
 

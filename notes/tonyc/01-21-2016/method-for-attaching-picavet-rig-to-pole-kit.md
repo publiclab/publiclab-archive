@@ -1,12 +1,18 @@
 ---
-nid: 12599
 title: Method for attaching Picavet rig to Pole Kit
-path: public/static/notes/tonyc/01-21-2016/method-for-attaching-picavet-rig-to-pole-kit.md
-uid: 447491
 tagnames: picavet
+author: tonyc
+path: /notes/tonyc/01-21-2016/method-for-attaching-picavet-rig-to-pole-kit.md
+nid: 12599
+uid: 447491
+
 ---
 
 # Method for attaching Picavet rig to Pole Kit
+
+by [tonyc](../profile/tonyc) January 21, 2016 21:45
+
+January 21, 2016 21:45 | Tags: [picavet](../tag/picavet)
 
 ###What I want to do
 

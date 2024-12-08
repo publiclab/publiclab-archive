@@ -1,12 +1,18 @@
 ---
-nid: 19174
 title: PART I: How to create a relational diagram of the Public Lab database.
-path: public/static/notes/bsugar/04-29-2019/part-i-how-to-create-a-relational-diagram-of-the-public-lab-database.md
+tagnames: database, networks, activity:new, programming, diagrams
+author: bsugar
+path: /notes/bsugar/04-29-2019/part-i-how-to-create-a-relational-diagram-of-the-public-lab-database.md
+nid: 19174
 uid: 217812
-tagnames: database,networks,activity:new,programming,diagrams
+
 ---
 
 # PART I: How to create a relational diagram of the Public Lab database.
+
+by [bsugar](../profile/bsugar) April 26, 2019 22:02
+
+April 26, 2019 22:02 | Tags: [database](../tag/database), [networks](../tag/networks), [activity:new](../tag/activity:new), [programming](../tag/programming), [diagrams](../tag/diagrams)
 
 **Background:** Recently, I began a [project](https://publiclab.org/notes/bsugar/03-30-2019/cultivating-community-through-cultivating-data)
 to understand the relationship between the data [publiclab.org](http://publiclab.org) website

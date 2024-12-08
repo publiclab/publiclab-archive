@@ -1,12 +1,18 @@
 ---
-nid: 16014
 title: Call for Papers
-path: public/static/wiki/call-for-papers.md
+tagnames: events, call-for-papers, papers
+author: stefannibrasil
+path: /wiki/call-for-papers.md
+nid: 16014
 uid: 525300
-tagnames: events,call-for-papers,papers
+
 ---
 
 # Call for Papers
+
+by [Bronwen](../profile/Bronwen), [stefannibrasil](../profile/stefannibrasil), [Ag8n](../profile/Ag8n)
+
+March 23, 2018 22:14 | Tags: [events](../tag/events), [call-for-papers](../tag/call-for-papers), [papers](../tag/papers)
 
 ## How does it work
 

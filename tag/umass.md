@@ -1,6 +1,6 @@
 # umass
 
-3 notes and wiki pages
+3 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [WATERCHESTNUTS](/wiki/waterchestnuts) (wiki)
 - [Riffle-esque WQ monitoring](/wiki/riffle-esque-wq-monitoring) (wiki)

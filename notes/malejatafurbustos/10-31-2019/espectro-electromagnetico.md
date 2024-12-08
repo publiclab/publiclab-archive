@@ -1,11 +1,17 @@
 ---
-nid: 21351
 title: espectro electromagnetico
-path: public/static/notes/malejatafurbustos/10-31-2019/espectro-electromagnetico.md
-uid: 633285
 tagnames: first-time-poster
+author: malejatafurbustos
+path: /notes/malejatafurbustos/10-31-2019/espectro-electromagnetico.md
+nid: 21351
+uid: 633285
+
 ---
 
 # espectro electromagnetico
+
+by [malejatafurbustos](../profile/malejatafurbustos) October 31, 2019 00:16
+
+October 31, 2019 00:16 | Tags: [first-time-poster](../tag/first-time-poster)
 
 este es un espectro tomado con una fuente de luz la cual era una linterna, aqui se pueden observar los diferentes colores que representan temperaturas y frecuencias

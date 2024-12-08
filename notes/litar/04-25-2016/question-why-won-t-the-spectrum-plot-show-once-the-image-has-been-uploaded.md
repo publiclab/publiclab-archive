@@ -1,12 +1,18 @@
 ---
-nid: 13027
 title: Question: Why won't the spectrum plot show once the image has been uploaded?
-path: public/static/notes/litar/04-25-2016/question-why-won-t-the-spectrum-plot-show-once-the-image-has-been-uploaded.md
-uid: 471461
 tagnames: question:spectral-workbench
+author: litar
+path: /notes/litar/04-25-2016/question-why-won-t-the-spectrum-plot-show-once-the-image-has-been-uploaded.md
+nid: 13027
+uid: 471461
+
 ---
 
 # Question: Why won't the spectrum plot show once the image has been uploaded?
+
+by [litar](../profile/litar) April 25, 2016 12:00
+
+April 25, 2016 12:00 | Tags: [question:spectral-workbench](../tag/question:spectral-workbench)
 
 I took a spectrum with a spectrometer attached to my phone. I then uploaded it (successfully) onto the site yet the graph and calibration interface didn't turn up. The only possible issue I can think of is that the spectral lines are slightly tilted.
 

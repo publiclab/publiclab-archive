@@ -1,6 +1,6 @@
 # soil
 
-90 notes and wiki pages
+90 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Arsenic detection with UV-Vis spectrometry](/notes/warren/9-26-2011/arsenic-detection-uv-vis-spectrometry) by [warren](../profile/warren)
 - [Preliminary Sample](/notes/livioguerrero/11-30-2012/preliminary-sample) by [Livioguerrero](../profile/Livioguerrero)

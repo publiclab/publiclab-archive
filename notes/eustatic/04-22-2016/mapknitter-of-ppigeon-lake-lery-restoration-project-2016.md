@@ -1,12 +1,18 @@
 ---
-nid: 13015
 title: MapKnitter of PPigeon Lake Lery Restoration Project 2016
-path: public/static/notes/eustatic/04-22-2016/mapknitter-of-ppigeon-lake-lery-restoration-project-2016.md
+tagnames: gulf-coast, mapknitter, louisiana, restoration, marsh, barnstar:basic, lat:29.7946132, lon:-89.8364558, ppigeon, lakelery, plaquemines, estuary
+author: eustatic
+path: /04-22-2016/mapknitter-of-ppigeon-lake-lery-restoration-project-2016.md
+nid: 13015
 uid: 379
-tagnames: gulf-coast,mapknitter,louisiana,restoration,marsh,barnstar:basic,lat:29.7946132,lon:-89.8364558,ppigeon,lakelery,plaquemines,estuary
+
 ---
 
 # MapKnitter of PPigeon Lake Lery Restoration Project 2016
+
+by [eustatic](../profile/eustatic) April 22, 2016 01:06
+
+April 22, 2016 01:06 | Tags: [gulf-coast](../tag/gulf-coast), [mapknitter](../tag/mapknitter), [louisiana](../tag/louisiana), [restoration](../tag/restoration), [marsh](../tag/marsh), [barnstar:basic](../tag/barnstar:basic), [lat:29.7946132](../tag/lat:29.7946132), [lon:-89.8364558](../tag/lon:-89.8364558), [ppigeon](../tag/ppigeon), [lakelery](../tag/lakelery), [plaquemines](../tag/plaquemines), [estuary](../tag/estuary)
 
 Southwest Flight 2264 7am TPA to 7:40a MSY
 Nikon DSLR d3200

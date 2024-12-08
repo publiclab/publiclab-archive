@@ -1,12 +1,18 @@
 ---
-nid: 17444
 title: First-time posters
-path: public/static/wiki/first-time-poster.md
+tagnames: community, parent:welcome, first-time-poster
+author: warren
+path: /wiki/first-time-poster.md
+nid: 17444
 uid: 1
-tagnames: community,parent:welcome,first-time-poster
+
 ---
 
 # First-time posters
+
+by [fongvania](../profile/fongvania), [bhamster](../profile/bhamster), [joyofsoy](../profile/joyofsoy), [warren](../profile/warren)
+
+October 31, 2018 13:49 | Tags: [community](../tag/community), [parent:welcome](../tag/parent:welcome), [first-time-poster](../tag/first-time-poster)
 
 Posts tagged with #first-time-poster are the very first post by someone on PublicLab.org -- please help to welcome newcomers find their way around the community and the website! You can also [subscribe to get email alerts](/subscribe/tag/first-time-poster) when first-timers post. 
 

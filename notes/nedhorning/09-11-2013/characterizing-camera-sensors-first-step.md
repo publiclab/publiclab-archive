@@ -1,12 +1,18 @@
 ---
-nid: 9314
 title: Characterizing camera sensors – first step
-path: public/static/notes/nedhorning/09-11-2013/characterizing-camera-sensors-first-step.md
+tagnames: near-infrared-camera, vermont, infrared, leaffest, infragram, leaffest2013, leds
+author: nedhorning
+path: /notes/nedhorning/09-11-2013/characterizing-camera-sensors-first-step.md
+nid: 9314
 uid: 133
-tagnames: near-infrared-camera,vermont,infrared,leaffest,infragram,leaffest2013,leds
+
 ---
 
 # Characterizing camera sensors – first step
+
+by [nedhorning](../profile/nedhorning) September 11, 2013 14:49
+
+September 11, 2013 14:49 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [vermont](../tag/vermont), [infrared](../tag/infrared), [leaffest](../tag/leaffest), [infragram](../tag/infragram), [leaffest2013](../tag/leaffest2013), [leds](../tag/leds)
 
 One of the tasks at LEAFFEST ([http://publiclab.org/notes/cfastie/08-29-2013/l-e-a-f-f-e-s-t-2013](http://publiclab.org/notes/cfastie/08-29-2013/l-e-a-f-f-e-s-t-2013)) was to develop some methods for characterizing Infrablue and other near-infrared 
 (NIR) cameras to better understand how different wavelengths of light are being recorded by the camera sensor. 

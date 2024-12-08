@@ -1,12 +1,18 @@
 ---
-nid: 27628
 title: Detecting wastewater pollution
-path: public/static/wiki/detecting-wastewater.md
+tagnames: sewage, water-quality, stormwater, wastewater, method, detecting-wastewater, detecting-wastewater-method, parent:wastewater
+author: bhamster
+path: /wiki/detecting-wastewater.md
+nid: 27628
 uid: 664477
-tagnames: sewage,water-quality,stormwater,wastewater,method,detecting-wastewater,detecting-wastewater-method,parent:wastewater
+
 ---
 
 # Detecting wastewater pollution
+
+by [bhamster](../profile/bhamster)
+
+August 27, 2021 16:25 | Tags: [sewage](../tag/sewage), [water-quality](../tag/water-quality), [stormwater](../tag/stormwater), [wastewater](../tag/wastewater), [method](../tag/method), [detecting-wastewater](../tag/detecting-wastewater), [detecting-wastewater-method](../tag/detecting-wastewater-method), [parent:wastewater](../tag/parent:wastewater)
 
 _Lead image: Along the Suquía River in Córdoba, Argentina. From [this comment](https://publiclab.org/notes/bhamster/08-18-2021/post-your-photos-of-possible-wastewater-pollution-postea-tus-fotos-de-aguas-posiblemente-residuales#c29184) by @alejobonifacio, CC BY SA_
 

@@ -1,12 +1,18 @@
 ---
-nid: 10047
 title: Public Lab receives support from the 11th Hour Project for a Silica Monitoring Pilot Program
-path: public/static/notes/Shannon/02-18-2014/public-lab-receives-support-from-the-11th-hour-project-for-a-silica-monitoring-pilot-program.md
+tagnames: spectrometer, particulate-sensing, air-quality, fracking, particulates, silica, frac-sand
+author: Shannon
+path: /notes/Shannon/02-18-2014/public-lab-receives-support-from-the-11th-hour-project-for-a-silica-monitoring-pilot-program.md
+nid: 10047
 uid: 9
-tagnames: spectrometer,particulate-sensing,air-quality,fracking,particulates,silica,frac-sand
+
 ---
 
 # Public Lab receives support from the 11th Hour Project for a Silica Monitoring Pilot Program
+
+by [Shannon](../profile/Shannon) February 18, 2014 22:33
+
+February 18, 2014 22:33 | Tags: [spectrometer](../tag/spectrometer), [particulate-sensing](../tag/particulate-sensing), [air-quality](../tag/air-quality), [fracking](../tag/fracking), [particulates](../tag/particulates), [silica](../tag/silica), [frac-sand](../tag/frac-sand)
 
 The Public Lab nonprofit is excited to announce that we’ve received a two-year grant from the 11th Hour Project, a program of the Schmidt Family Foundation.
 

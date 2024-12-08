@@ -1,12 +1,18 @@
 ---
-nid: 12641
 title: Prototype incident light blocker
-path: public/static/notes/dhaffnersr/02-01-2016/prototype-incident-light-blocker.md
-uid: 461120
 tagnames: 
+author: dhaffnersr
+path: /notes/dhaffnersr/02-01-2016/prototype-incident-light-blocker.md
+nid: 12641
+uid: 461120
+
 ---
 
 # Prototype incident light blocker
+
+by [dhaffnersr](../profile/dhaffnersr) February 01, 2016 20:19
+
+February 01, 2016 20:19 | Tags: 
 
 ###What I want to do - More than what I want to do than what I had to do, I was getting too much incident light from my illumination sources so I fashioned a quick prototype below...I know, it looks kinda silly right now, it's made from a toilet paper tube and some electrical tape but it works!
 

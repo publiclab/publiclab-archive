@@ -1,6 +1,6 @@
 # publiclab-at-umass
 
-12 notes and wiki pages
+12 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Riffle-esque WQ monitoring](/wiki/riffle-esque-wq-monitoring) (wiki)
 - [Pollution to Solution](/wiki/pollution-to-solution) (wiki)

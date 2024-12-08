@@ -1,12 +1,18 @@
 ---
-nid: 21076
 title: How a Leader and a Community Saved the Sprague Mansion
-path: public/static/notes/joyofsoy/10-04-2019/how-a-leader-and-a-community-saved-the-sprague-mansion.md
+tagnames: csf, one-cranston
+author: joyofsoy
+path: /notes/joyofsoy/10-04-2019/how-a-leader-and-a-community-saved-the-sprague-mansion.md
+nid: 21076
 uid: 540844
-tagnames: csf,one-cranston
+
 ---
 
 # How a Leader and a Community Saved the Sprague Mansion
+
+by [joyofsoy](../profile/joyofsoy) October 04, 2019 17:27
+
+October 04, 2019 17:27 | Tags: [csf](../tag/csf), [one-cranston](../tag/one-cranston)
 
 **A version of this story by Sandra Moyer is published in Public Lab's *Community Science Forum*, Issue 17. Read more from this issue [here][1].** 
 

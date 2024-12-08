@@ -1,12 +1,18 @@
 ---
-nid: 11340
 title: An unserious exploration of common household parasites
-path: public/static/wiki/an-unserious-exploration-of-common-household-parasites.md
-uid: 297929
 tagnames: barnraising2014
+author: kgradow1
+path: /wiki/an-unserious-exploration-of-common-household-parasites.md
+nid: 11340
+uid: 297929
+
 ---
 
 # An unserious exploration of common household parasites
+
+by [kgradow1](../profile/kgradow1)
+
+November 13, 2014 23:40 | Tags: [barnraising2014](../tag/barnraising2014)
 
 ##An unserious exploration of seafood parasites
 

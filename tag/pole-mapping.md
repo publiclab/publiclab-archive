@@ -1,6 +1,6 @@
 # pole-mapping
 
-41 notes and wiki pages
+41 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Camera Triggering](/wiki/camera-trigger) (wiki)
 - [Homemade pole photography rig](/notes/shannon/8-2-2012/homemade-pole-photography-rig-0) by [Shannon](../profile/Shannon)

@@ -1,12 +1,18 @@
 ---
-nid: 11573
 title: Valuing two modes of Public Lab activities
-path: public/static/notes/liz/02-10-2015/valuing-two-modes-of-public-lab-activities.md
+tagnames: community, with:warren
+author: liz
+path: /notes/liz/02-10-2015/valuing-two-modes-of-public-lab-activities.md
+nid: 11573
 uid: 7
-tagnames: community,with:warren
+
 ---
 
 # Valuing two modes of Public Lab activities
+
+by [liz](../profile/liz) February 10, 2015 21:04
+
+February 10, 2015 21:04 | Tags: [community](../tag/community), [with:warren](../tag/with:warren)
 
 _Lead image by [DVDP](http://dvdp.tumblr.com/post/24339504298/120603)_
 

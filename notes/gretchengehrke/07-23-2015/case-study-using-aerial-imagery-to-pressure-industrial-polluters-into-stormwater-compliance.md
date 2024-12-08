@@ -1,12 +1,18 @@
 ---
-nid: 12095
 title: Case Study: Using Aerial Imagery to Pressure Industrial Polluters into Stormwater Compliance 
-path: public/static/notes/gretchengehrke/07-23-2015/case-study-using-aerial-imagery-to-pressure-industrial-polluters-into-stormwater-compliance.md
+tagnames: new-york-city, gowanus-canal, brooklyn, blog, nyc, barnstar:basic, image-analysis, data-advocacy-case-studies, activity:image-analysis
+author: gretchengehrke
+path: /notes/gretchengehrke/07-23-2015/case-study-using-aerial-imagery-to-pressure-industrial-polluters-into-stormwater-compliance.md
+nid: 12095
 uid: 430549
-tagnames: new-york-city,gowanus-canal,brooklyn,blog,nyc,barnstar:basic,image-analysis,data-advocacy-case-studies,activity:image-analysis
+
 ---
 
 # Case Study: Using Aerial Imagery to Pressure Industrial Polluters into Stormwater Compliance 
+
+by [gretchengehrke](../profile/gretchengehrke) July 23, 2015 19:28
+
+July 23, 2015 19:28 | Tags: [new-york-city](../tag/new-york-city), [gowanus-canal](../tag/gowanus-canal), [brooklyn](../tag/brooklyn), [blog](../tag/blog), [nyc](../tag/nyc), [barnstar:basic](../tag/barnstar:basic), [image-analysis](../tag/image-analysis), [data-advocacy-case-studies](../tag/data-advocacy-case-studies), [activity:image-analysis](../tag/activity:image-analysis)
 
 <p class="alert alert-info">This is Part 1 of an ongoing series of case studies by <b>Gretchen Gerhrke</b>, Public Lab's Data Advocate, highlighting different stories of environmental data's use in the Public Lab community. <a href="/tag/data-advocacy-case-studies">You can find the entire series here</a>.</p>
 

@@ -1,6 +1,6 @@
 # outreachy-2018-proposals
 
-10 notes and wiki pages
+10 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Outreachy proposal:  Extend community collaboration statistics and visualization system](/notes/cess/10-24-2018/outreachy-proposal) by [cess](../profile/cess)
 - [Outreachy proposal](/notes/quinn-codes-synthesis/10-29-2018/outreachy-proposal) by [quinn-codes-synthesis](../profile/quinn-codes-synthesis)

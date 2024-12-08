@@ -1,12 +1,18 @@
 ---
-nid: 2874
 title: easy cut delta kite plans
-path: public/static/notes/mathew/7-19-2012/easy-cut-delta-kite-plans.md
+tagnames: kite-mapping, easy-cut-delta, diy-kite, difficulty:easy, time:3h, category:build, activity:aerial-photography, activity:kite-mapping, kite-making, activity:kite-making
+author: mathew
+path: /notes/mathew/7-19-2012/easy-cut-delta-kite-plans.md
+nid: 2874
 uid: 4
-tagnames: kite-mapping,easy-cut-delta,diy-kite,difficulty:easy,time:3h,category:build,activity:aerial-photography,activity:kite-mapping,kite-making,activity:kite-making
+
 ---
 
 # easy cut delta kite plans
+
+by [mathew](../profile/mathew) July 19, 2012 07:26
+
+July 19, 2012 07:26 | Tags: [kite-mapping](../tag/kite-mapping), [easy-cut-delta](../tag/easy-cut-delta), [diy-kite](../tag/diy-kite), [difficulty:easy](../tag/difficulty:easy), [time:3h](../tag/time:3h), [category:build](../tag/category:build), [activity:aerial-photography](../tag/activity:aerial-photography), [activity:kite-mapping](../tag/activity:kite-mapping), [kite-making](../tag/kite-making), [activity:kite-making](../tag/activity:kite-making)
 
 This kite is very close to the Levitation Delta, and the plan is for a low-waste, quick (2-hour) assembly from rectangular pieces of material of any size.  Here's Pat Coyle flying a 9' Tyvek version:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VAJGvOFF-Yc" frameborder="0" allowfullscreen></iframe>

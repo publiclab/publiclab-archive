@@ -1,12 +1,18 @@
 ---
-nid: 20273
 title: Google Summer of Code 2019 @ Public Lab: Second Phase Work
-path: public/static/notes/namangupta/07-24-2019/google-summer-of-code-2019-public-lab-second-phase-work.md
+tagnames: gsoc, gsoc-2019
+author: namangupta
+path: /notes/namangupta/07-24-2019/google-summer-of-code-2019-public-lab-second-phase-work.md
+nid: 20273
 uid: 522848
-tagnames: gsoc,gsoc-2019
+
 ---
 
 # Google Summer of Code 2019 @ Public Lab: Second Phase Work
+
+by [namangupta](../profile/namangupta) July 24, 2019 20:40
+
+July 24, 2019 20:40 | Tags: [gsoc](../tag/gsoc), [gsoc-2019](../tag/gsoc-2019)
 
 In GSoC 2019 second phase, I further continued my work and focused more on the notification project after doing work into the Simple Data Grapher project for the most of the time of the first phase. And completed the Browser Notification API integration with the publiclab system. Browser Notification API is integrated with the comment posting which means whenever a user post comments on any node, those people who have been mentioned or liked or have subscibed to the tag that the node is having will receive the Browser Notification. And only those user will get notification who want to get it by using user\_tags but for now we enabled it for all the user by doing notifications:all.
 

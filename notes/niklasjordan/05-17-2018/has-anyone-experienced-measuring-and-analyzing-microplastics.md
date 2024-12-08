@@ -1,12 +1,18 @@
 ---
-nid: 16361
 title: Has anyone experienced measuring and analyzing microplastics?
-path: public/static/notes/niklasjordan/05-17-2018/has-anyone-experienced-measuring-and-analyzing-microplastics.md
+tagnames: answered, question:microplastics, microplastics, ftir
+author: niklasjordan
+path: /notes/niklasjordan/05-17-2018/has-anyone-experienced-measuring-and-analyzing-microplastics.md
+nid: 16361
 uid: 531062
-tagnames: answered,question:microplastics,microplastics,ftir
+
 ---
 
 # Has anyone experienced measuring and analyzing microplastics?
+
+by [niklasjordan](../profile/niklasjordan) May 17, 2018 13:27
+
+May 17, 2018 13:27 | Tags: [answered](../tag/answered), [question:microplastics](../tag/question:microplastics), [microplastics](../tag/microplastics), [ftir](../tag/ftir)
 
 How did you proceed, which system did you use? Somebody use the [LADI trawler][1] or are there better alternatives?
 

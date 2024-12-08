@@ -1,12 +1,18 @@
 ---
-nid: 14789
 title: Kits are on the move!
-path: public/static/notes/bronwen/08-24-2017/kits-are-on-the-move.md
+tagnames: providence, portland, kits, store, jobs, kits-initiative, kits-store
+author: Bronwen
+path: /notes/bronwen/08-24-2017/kits-are-on-the-move.md
+nid: 14789
 uid: 237313
-tagnames: providence,portland,kits,store,jobs,kits-initiative,kits-store
+
 ---
 
 # Kits are on the move!
+
+by [Bronwen](../profile/Bronwen) August 24, 2017 15:59
+
+August 24, 2017 15:59 | Tags: [providence](../tag/providence), [portland](../tag/portland), [kits](../tag/kits), [store](../tag/store), [jobs](../tag/jobs), [kits-initiative](../tag/kits-initiative), [kits-store](../tag/kits-store)
 
 Our kits are on the move! Those of you on our mailing lists may have already heard, but in case you missed it...
 

@@ -1,12 +1,18 @@
 ---
-nid: 5414
 title: Foldup Spectrometer for iPhone
-path: public/static/notes/cfastie/1-4-2013/foldup-spectrometer-iphone.md
+tagnames: spectrometer, iphone, fold-up-mini-spectrometer, fold-up
+author: cfastie
+path: /notes/cfastie/1-4-2013/foldup-spectrometer-iphone.md
+nid: 5414
 uid: 554
-tagnames: spectrometer,iphone,fold-up-mini-spectrometer,fold-up
+
 ---
 
 # Foldup Spectrometer for iPhone
+
+by [cfastie](../profile/cfastie) January 04, 2013 21:44
+
+January 04, 2013 21:44 | Tags: [spectrometer](../tag/spectrometer), [iphone](../tag/iphone), [fold-up-mini-spectrometer](../tag/fold-up-mini-spectrometer), [fold-up](../tag/fold-up)
 
 I now have two Public Lab fold-up spectrometers working with iPhones. These can take still photos of spectra to be uploaded to SpectralWorkbench.org for analysis, but there is not yet an app that streams video to SpectralWorkbench. The still photos are probably better quality than the video, so that's fine with me.
 

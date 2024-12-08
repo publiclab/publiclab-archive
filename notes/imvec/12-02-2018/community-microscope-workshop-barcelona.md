@@ -1,12 +1,18 @@
 ---
-nid: 17782
 title: Community microscope workshop Barcelona
-path: public/static/notes/imvec/12-02-2018/community-microscope-workshop-barcelona.md
+tagnames: event, event:rsvp, lon:2.1, location:blurred, spanish, community-microscope, date:01-17-2019, lat:41.3, microscope-workshop
+author: imvec
+path: /notes/imvec/12-02-2018/community-microscope-workshop-barcelona.md
+nid: 17782
 uid: 495038
-tagnames: event,event:rsvp,lon:2.1,location:blurred,spanish,community-microscope,date:01-17-2019,lat:41.3,microscope-workshop
+
 ---
 
 # Community microscope workshop Barcelona
+
+by [imvec](../profile/imvec) December 02, 2018 15:46
+
+December 02, 2018 15:46 | Tags: [event](../tag/event), [event:rsvp](../tag/event:rsvp), [lon:2.1](../tag/lon:2.1), [location:blurred](../tag/location:blurred), [spanish](../tag/spanish), [community-microscope](../tag/community-microscope), [date:01-17-2019](../tag/date:01-17-2019), [lat:41.3](../tag/lat:41.3), [microscope-workshop](../tag/microscope-workshop)
 
 ## When, where, how
 

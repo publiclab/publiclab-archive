@@ -1,12 +1,18 @@
 ---
-nid: 10296
 title: Presentation on how we collaborate
-path: public/static/notes/liz/04-11-2014/presentation-on-how-we-collaborate.md
+tagnames: collaboration, presentations, presentation, asia, taipei
+author: liz
+path: /notes/liz/04-11-2014/presentation-on-how-we-collaborate.md
+nid: 10296
 uid: 7
-tagnames: collaboration,presentations,presentation,asia,taipei
+
 ---
 
 # Presentation on how we collaborate
+
+by [liz](../profile/liz) April 11, 2014 03:56
+
+April 11, 2014 03:56 | Tags: [collaboration](../tag/collaboration), [presentations](../tag/presentations), [presentation](../tag/presentation), [asia](../tag/asia), [taipei](../tag/taipei)
 
 Joined the [OSDC.tw](http://osdc.tw/) community for their 2014 conference--such wonderful people here! Follow the twitter feed #osdctw
 

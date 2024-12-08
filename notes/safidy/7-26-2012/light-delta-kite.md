@@ -1,12 +1,18 @@
 ---
-nid: 2962
 title: DIY Light Delta kite (Rogallo wing)
-path: public/static/notes/safidy/7-26-2012/light-delta-kite.md
+tagnames: kite-mapping, nasa, kite-modeler, diy-kite, delta, rogallo, diy-kites, kite-making
+author: Safidy
+path: /notes/safidy/7-26-2012/light-delta-kite.md
+nid: 2962
 uid: 898
-tagnames: kite-mapping,nasa,kite-modeler,diy-kite,delta,rogallo,diy-kites,kite-making
+
 ---
 
 # DIY Light Delta kite (Rogallo wing)
+
+by [Safidy](../profile/Safidy) July 26, 2012 21:29
+
+July 26, 2012 21:29 | Tags: [kite-mapping](../tag/kite-mapping), [nasa](../tag/nasa), [kite-modeler](../tag/kite-modeler), [diy-kite](../tag/diy-kite), [delta](../tag/delta), [rogallo](../tag/rogallo), [diy-kites](../tag/diy-kites), [kite-making](../tag/kite-making)
 
 I used Kitemodeler for designing this kite and here are some dimensions.
 

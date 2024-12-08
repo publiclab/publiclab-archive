@@ -1,12 +1,18 @@
 ---
-nid: 6083
 title: Initial experience: SX260HS with gps
-path: public/static/notes/patcoyle/2-21-2013/initial-experiences-sx260hs-gps.md
+tagnames: kite-mapping, chdk, gps, sx260hs
+author: patcoyle
+path: /notes/patcoyle/2-21-2013/initial-experiences-sx260hs-gps.md
+nid: 6083
 uid: 77
-tagnames: kite-mapping,chdk,gps,sx260hs
+
 ---
 
 # Initial experience: SX260HS with gps
+
+by [patcoyle](../profile/patcoyle) February 21, 2013 21:55
+
+February 21, 2013 21:55 | Tags: [kite-mapping](../tag/kite-mapping), [chdk](../tag/chdk), [gps](../tag/gps), [sx260hs](../tag/sx260hs)
 
 I picked up a used Canon SX260HS which has built-in gps ($189.99 including shipping from a seller on Amazon).
 

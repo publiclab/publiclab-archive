@@ -1,6 +1,6 @@
 # africa
 
-24 notes and wiki pages
+24 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Togo](/wiki/togo) (wiki)
 - [TLC Youth Center. Kamwokya, Kawempe, Kampala, Central Region, Uganda.](/map/tlc-youth-center-nsambya-rd-kampala-uganda/2012-11-09) by [gonzoearth](../profile/gonzoearth)
@@ -17,8 +17,6 @@
 - [RAILS GIRLS NAIROBI MEGA CODING EVENT](/notes/stella/03-15-2018/rails-girls-nairobi-mega-coding-event) by [stella](../profile/stella)
 - [build of the microscope kit](/notes/luglimbe/09-21-2018/build-of-the-microscope-kit) by [luglimbe](../profile/luglimbe)
 - [i am sudanese student study electrical engneering 5th year last year i want to creat a drone to spray fields and i want to connect in it a camera to analysis the plants  i use the ardupilot for controlling the plane.  ](/notes/emad/10-01-2018/i-am-sudanese-student-study-electrical-engneering-5th-year-last-year-i-want-to-creat-a-drone-to-spray-fields-and-i-want-to-connect-in-it-a-camera-to-analysis-the-plants-i-use-the-ardupilot-for-controlling-the-plane) by [emad](../profile/emad)
-- [Beauty Products & Cosmetics Exhibition Nigeria ](/notes/beautywestafrica/12-10-2018/beauty-products-cosmetics-exhibition-nigeria) by [beautywestafrica](../profile/beautywestafrica)
-- [Best Things to do in Durban](/notes/seo1/07-24-2019/best-things-to-do-in-durban) by [seo1](../profile/seo1)
 - [Workshop Series on Practical use of the Public Lab kit at the MboaLab](/notes/Bronwen/12-12-2019/workshop-series-on-practical-use-of-the-public-lab-kit-at-the-mboalab) by [Bronwen](../profile/Bronwen)
 - [Smells that Kill: How to Identify Odours](/notes/kgradow1/10-31-2020/smells-that-kill-how-to-identify-odours) by [kgradow1](../profile/kgradow1)
 - [Toxic City: Health Impacts of Chemicals Emitted in the South Durban Area](/notes/kgradow1/11-06-2020/toxic-city-health-impacts-of-chemicals-emitted-in-the-south-durban-area) by [kgradow1](../profile/kgradow1)

@@ -1,12 +1,18 @@
 ---
-nid: 10439
 title: freshkills-park
-path: public/static/wiki/freshkills-park.md
+tagnames: new-york-city, staten-island
+author: liz
+path: /wiki/freshkills-park.md
+nid: 10439
 uid: 7
-tagnames: new-york-city,staten-island
+
 ---
 
 # freshkills-park
+
+by [liz](../profile/liz)
+
+May 07, 2014 15:15 | Tags: [new-york-city](../tag/new-york-city), [staten-island](../tag/staten-island)
 
 **Fresh Kills Park is part of [New York City](/wiki/new-york-city) and the [Northeast region](http://publiclab.org/wiki/northeast).**
 

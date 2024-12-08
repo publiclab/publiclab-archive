@@ -1,12 +1,18 @@
 ---
-nid: 11260
 title: Decolonized Skies at Apexart
-path: public/static/notes/liz/10-12-2014/decolonized-skies-at-apexart.md
+tagnames: new-york-city, balloon-mapping, event, northeast, event:rsvp, date:10-18-2014
+author: liz
+path: /notes/liz/10-12-2014/decolonized-skies-at-apexart.md
+nid: 11260
 uid: 7
-tagnames: new-york-city,balloon-mapping,event,northeast,event:rsvp,date:10-18-2014
+
 ---
 
 # Decolonized Skies at Apexart
+
+by [liz](../profile/liz) October 12, 2014 18:49
+
+October 12, 2014 18:49 | Tags: [new-york-city](../tag/new-york-city), [balloon-mapping](../tag/balloon-mapping), [event](../tag/event), [northeast](../tag/northeast), [event:rsvp](../tag/event:rsvp), [date:10-18-2014](../tag/date:10-18-2014)
 
 ###Event details
 

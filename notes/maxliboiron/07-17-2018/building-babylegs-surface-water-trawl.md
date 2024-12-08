@@ -1,12 +1,18 @@
 ---
-nid: 16733
 title: Building BabyLegs (surface water trawl)
-path: public/static/notes/maxliboiron/07-17-2018/building-babylegs-surface-water-trawl.md
+tagnames: kits, water-quality, water, barnstar:excessive-enthusiasm, barnstar:photo-documentation, micro-plastics, community-kits, microplastics, plastics, babylegs, activity:16667, activity:babylegs, parent:babylegs, activity:microplastics, babylegs-build
+author: maxliboiron
+path: /notes/maxliboiron/07-17-2018/building-babylegs-surface-water-trawl.md
+nid: 16733
 uid: 310707
-tagnames: kits,water-quality,water,barnstar:excessive-enthusiasm,barnstar:photo-documentation,micro-plastics,community-kits,microplastics,plastics,babylegs,activity:16667,activity:babylegs,parent:babylegs,activity:microplastics,babylegs-build
+
 ---
 
 # Building BabyLegs (surface water trawl)
+
+by [maxliboiron](../profile/maxliboiron) July 17, 2018 18:04
+
+July 17, 2018 18:04 | Tags: [kits](../tag/kits), [water-quality](../tag/water-quality), [water](../tag/water), [barnstar:excessive-enthusiasm](../tag/barnstar:excessive-enthusiasm), [barnstar:photo-documentation](../tag/barnstar:photo-documentation), [micro-plastics](../tag/micro-plastics), [community-kits](../tag/community-kits), [microplastics](../tag/microplastics), [plastics](../tag/plastics), [babylegs](../tag/babylegs), [activity:16667](../tag/activity:16667), [activity:babylegs](../tag/activity:babylegs), [parent:babylegs](../tag/parent:babylegs), [activity:microplastics](../tag/activity:microplastics), [babylegs-build](../tag/babylegs-build)
 
 A PDF of these instructions is available here: [BabyLegs\_Build\_\_\_Use\_Guide-SM.pdf](/i/25727.pdf)
 

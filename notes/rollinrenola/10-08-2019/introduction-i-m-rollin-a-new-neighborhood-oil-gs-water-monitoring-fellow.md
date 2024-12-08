@@ -1,12 +1,18 @@
 ---
-nid: 21113
 title: Introduction: I'm Rollin, A new Neighborhood oil & gas water monitoring fellow
-path: public/static/notes/rollinrenola/10-08-2019/introduction-i-m-rollin-a-new-neighborhood-oil-gs-water-monitoring-fellow.md
+tagnames: blog-submission, first-time-poster, oil-and-gas-water-trio
+author: rollinrenola
+path: /notes/rollinrenola/10-08-2019/introduction-i-m-rollin-a-new-neighborhood-oil-gs-water-monitoring-fellow.md
+nid: 21113
 uid: 618903
-tagnames: blog-submission,first-time-poster,oil-and-gas-water-trio
+
 ---
 
 # Introduction: I'm Rollin, A new Neighborhood oil & gas water monitoring fellow
+
+by [rollinrenola](../profile/rollinrenola) October 08, 2019 14:54
+
+October 08, 2019 14:54 | Tags: [blog-submission](../tag/blog-submission), [first-time-poster](../tag/first-time-poster), [oil-and-gas-water-trio](../tag/oil-and-gas-water-trio)
 
 _emphasized text_
 

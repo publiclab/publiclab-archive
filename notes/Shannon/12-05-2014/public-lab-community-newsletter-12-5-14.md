@@ -1,12 +1,18 @@
 ---
-nid: 11439
 title: Public Lab Community Newsletter 12.5.14
-path: public/static/notes/Shannon/12-05-2014/public-lab-community-newsletter-12-5-14.md
+tagnames: newsletter, newsletter-archive
+author: Shannon
+path: /notes/Shannon/12-05-2014/public-lab-community-newsletter-12-5-14.md
+nid: 11439
 uid: 9
-tagnames: newsletter,newsletter-archive
+
 ---
 
 # Public Lab Community Newsletter 12.5.14
+
+by [Shannon](../profile/Shannon) December 05, 2014 22:10
+
+December 05, 2014 22:10 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
 
 It’s been awhile since we last wrote, but only because it’s been an exciting and packed month in the Public Lab community! Project updates abound, reflections on the 2014 Barnraising have been cast and we’re rolling into end of the year celebrations. Enjoy!
 

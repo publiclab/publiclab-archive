@@ -1,12 +1,18 @@
 ---
-nid: 11583
 title: GLAM Vegetation Mapping: Gowanus Low Altitude Mappers focus on biodiversity
-path: public/static/wiki/glam-vegetation-mapping-gowanus-low-altitude-mappers-focus-on-biodiversity.md
+tagnames: gowanus-canal, gowanus-canal-superfund-site, gowanus-dredgers-canoe-club, grassrootsmappingforum, glam, style:fancy, gmf-4
+author: mollydanielsson
+path: /wiki/glam-vegetation-mapping-gowanus-low-altitude-mappers-focus-on-biodiversity.md
+nid: 11583
 uid: 1259
-tagnames: gowanus-canal,gowanus-canal-superfund-site,gowanus-dredgers-canoe-club,grassrootsmappingforum,glam,style:fancy,gmf-4
+
 ---
 
 # GLAM Vegetation Mapping: Gowanus Low Altitude Mappers focus on biodiversity
+
+by [mollydanielsson](../profile/mollydanielsson)
+
+February 14, 2015 01:03 | Tags: [gowanus-canal](../tag/gowanus-canal), [gowanus-canal-superfund-site](../tag/gowanus-canal-superfund-site), [gowanus-dredgers-canoe-club](../tag/gowanus-dredgers-canoe-club), [grassrootsmappingforum](../tag/grassrootsmappingforum), [glam](../tag/glam), [style:fancy](../tag/style:fancy), [gmf-4](../tag/gmf-4)
 
 **Published in 2013** [Grassroots Mapping Forum#4.](http://publiclab.org/forum)
 [Order a copy or subscribe online.](http://store.publiclab.org/products/grassroots-mapping-forum-issue-4)

@@ -1,12 +1,18 @@
 ---
-nid: 15654
 title: How can I identify bits of plastic from the beach in an image?
-path: public/static/notes/jlev/02-01-2018/how-can-i-identify-bits-of-plastic-from-the-beach-in-an-image.md
+tagnames: image-processing, waste, micro-plastics, question:general, question:microscope, beach, question:microplastics, microplastics, plastics, particle-imaging, polymers, question:image-sequencer, question:waste, question:plastics
+author: jlev
+path: /notes/jlev/02-01-2018/how-can-i-identify-bits-of-plastic-from-the-beach-in-an-image.md
+nid: 15654
 uid: 439055
-tagnames: image-processing,waste,micro-plastics,question:general,question:microscope,beach,question:microplastics,microplastics,plastics,particle-imaging,polymers,question:image-sequencer,question:waste,question:plastics
+
 ---
 
 # How can I identify bits of plastic from the beach in an image?
+
+by [jlev](../profile/jlev) February 01, 2018 00:52
+
+February 01, 2018 00:52 | Tags: [image-processing](../tag/image-processing), [waste](../tag/waste), [micro-plastics](../tag/micro-plastics), [question:general](../tag/question:general), [question:microscope](../tag/question:microscope), [beach](../tag/beach), [question:microplastics](../tag/question:microplastics), [microplastics](../tag/microplastics), [plastics](../tag/plastics), [particle-imaging](../tag/particle-imaging), [polymers](../tag/polymers), [question:image-sequencer](../tag/question:image-sequencer), [question:waste](../tag/question:waste), [question:plastics](../tag/question:plastics)
 
 A friend at Greenpeace asked me if there's a way to automate counting micro-plastic particles from beach surveys.
 

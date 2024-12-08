@@ -1,12 +1,18 @@
 ---
-nid: 9768
 title: Invite: Buckminster Fuller Challenge Award Ceremony
-path: public/static/notes/liz/11-11-2013/invite-buckminster-fuller-challenge-award-ceremony.md
+tagnames: new-york-city, events, events:new-york-city
+author: liz
+path: /notes/liz/11-11-2013/invite-buckminster-fuller-challenge-award-ceremony.md
+nid: 9768
 uid: 7
-tagnames: new-york-city,events,events:new-york-city
+
 ---
 
 # Invite: Buckminster Fuller Challenge Award Ceremony
+
+by [liz](../profile/liz) November 11, 2013 18:29
+
+November 11, 2013 18:29 | Tags: [new-york-city](../tag/new-york-city), [events](../tag/events), [events:new-york-city](../tag/events:new-york-city)
 
 **Inviting everyone to join us for a festive evening in New York City at the Buckminster Fuller Challenge Awards Ceremony.** Several Public Lab folks will be there, and we'd love to see you!
 

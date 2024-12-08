@@ -1,12 +1,18 @@
 ---
-nid: 455
 title: Open Hardware SCHOLARSHIP - deadline sept 14th
-path: public/static/notes/warren/9-7-2011/open-hardware-scholarship-deadline-sept-14th.md
-uid: 1
 tagnames: 
+author: warren
+path: /notes/warren/9-7-2011/open-hardware-scholarship-deadline-sept-14th.md
+nid: 455
+uid: 1
+
 ---
 
 # Open Hardware SCHOLARSHIP - deadline sept 14th
+
+by [warren](../profile/warren) September 08, 2011 00:08
+
+September 08, 2011 00:08 | Tags: 
 
 <div class="gmail_quote">---------- Forwarded message ----------<br>From: &quot;Ayah Bdeir&quot; &lt;<a href="mailto:ayah@media.mit.edu">ayah@media.mit.edu</a>&gt;<br>Date: Sep 7, 2011 7:21 PM<br>Subject: [msgs] Open Hardware SCHOLARSHIP - deadline sept 14th<br>
 To:  &lt;<a href="mailto:msgs@media.mit.edu">msgs@media.mit.edu</a>&gt;<br><br type="attribution">Dear all,<br>

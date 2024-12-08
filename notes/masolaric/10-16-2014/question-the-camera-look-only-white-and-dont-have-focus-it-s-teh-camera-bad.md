@@ -1,12 +1,18 @@
 ---
-nid: 11270
 title: Question: the camera look only white and dont have focus...it´s teh camera bad?
-path: public/static/notes/masolaric/10-16-2014/question-the-camera-look-only-white-and-dont-have-focus-it-s-teh-camera-bad.md
-uid: 426768
 tagnames: question:spectrometry
+author: masolaric
+path: /notes/masolaric/10-16-2014/question-the-camera-look-only-white-and-dont-have-focus-it-s-teh-camera-bad.md
+nid: 11270
+uid: 426768
+
 ---
 
 # Question: the camera look only white and dont have focus...it´s teh camera bad?
+
+by [masolaric](../profile/masolaric) October 16, 2014 20:31
+
+October 16, 2014 20:31 | Tags: [question:spectrometry](../tag/question:spectrometry)
 
 ###I I dont know why dont work the camera? and why I dont can see the spectrum of the light?
 

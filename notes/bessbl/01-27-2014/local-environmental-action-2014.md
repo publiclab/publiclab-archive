@@ -1,12 +1,18 @@
 ---
-nid: 9984
 title: Local Environmental Action 2014 
-path: public/static/notes/bessbl/01-27-2014/local-environmental-action-2014.md
+tagnames: somerville-massachusetts, boston, event, tac, toxics-action-center, mcan
+author: bessbl
+path: /notes/bessbl/01-27-2014/local-environmental-action-2014.md
+nid: 9984
 uid: 420473
-tagnames: somerville-massachusetts,boston,event,tac,toxics-action-center,mcan
+
 ---
 
 # Local Environmental Action 2014 
+
+by [bessbl](../profile/bessbl) January 27, 2014 15:52
+
+January 27, 2014 15:52 | Tags: [somerville-massachusetts](../tag/somerville-massachusetts), [boston](../tag/boston), [event](../tag/event), [tac](../tag/tac), [toxics-action-center](../tag/toxics-action-center), [mcan](../tag/mcan)
 
 Register now for the opportunity to join community leaders, environmental advocates and activists from across New England for an exciting day of skills training, networking, and inspiration. Whether you have been to every Environmental Action conference or are attending for the first time, be sure not to miss this amazing opportunity to connect and grow our grassroots movement.
 

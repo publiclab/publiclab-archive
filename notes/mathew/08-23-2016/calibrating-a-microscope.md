@@ -1,12 +1,18 @@
 ---
-nid: 13391
 title: Calibrating a Microscope
-path: public/static/notes/mathew/08-23-2016/calibrating-a-microscope.md
+tagnames: silica, frac-sand, pm, particle-monitoring, microscope, passive-particle-monitors, passive-pm, parent:frac-sand, microscopy, openflexure, dust-sensing, pm-sensing, particulatematter, activity:microscope, microscopes, activity:microscopes, activity:community-microscope
+author: mathew
+path: /notes/mathew/08-23-2016/calibrating-a-microscope.md
+nid: 13391
 uid: 4
-tagnames: silica,frac-sand,pm,particle-monitoring,microscope,passive-particle-monitors,passive-pm,parent:frac-sand,microscopy,openflexure,dust-sensing,pm-sensing,particulatematter,activity:microscope,microscopes,activity:microscopes,activity:community-microscope
+
 ---
 
 # Calibrating a Microscope
+
+by [mathew](../profile/mathew) August 23, 2016 17:19
+
+August 23, 2016 17:19 | Tags: [silica](../tag/silica), [frac-sand](../tag/frac-sand), [pm](../tag/pm), [particle-monitoring](../tag/particle-monitoring), [microscope](../tag/microscope), [passive-particle-monitors](../tag/passive-particle-monitors), [passive-pm](../tag/passive-pm), [parent:frac-sand](../tag/parent:frac-sand), [microscopy](../tag/microscopy), [openflexure](../tag/openflexure), [dust-sensing](../tag/dust-sensing), [pm-sensing](../tag/pm-sensing), [particulatematter](../tag/particulatematter), [activity:microscope](../tag/activity:microscope), [microscopes](../tag/microscopes), [activity:microscopes](../tag/activity:microscopes), [activity:community-microscope](../tag/activity:community-microscope)
 
 [image credit wikimedia](https://commons.wikimedia.org/wiki/File:Asakura-Oosawa_Model,_Two_Plates_in_a_solution_of_Macromolecules.png)
 

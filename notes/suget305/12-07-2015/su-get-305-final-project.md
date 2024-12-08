@@ -1,12 +1,18 @@
 ---
-nid: 12483
 title: SU GET 305 Final Project
-path: public/static/notes/suget305/12-07-2015/su-get-305-final-project.md
-uid: 452260
 tagnames: first-time-poster
+author: suget305
+path: /notes/suget305/12-07-2015/su-get-305-final-project.md
+nid: 12483
+uid: 452260
+
 ---
 
 # SU GET 305 Final Project
+
+by [suget305](../profile/suget305) December 07, 2015 03:50
+
+December 07, 2015 03:50 | Tags: [first-time-poster](../tag/first-time-poster)
 
 ###What I want to do: gain more knowledge on the processes involved with public lab and learn more about citizen science overall.
 

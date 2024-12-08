@@ -1,6 +1,6 @@
 # infrared-camera
 
-15 notes and wiki pages
+15 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Research Plan](/notes/kaya9804/2-12-2013/research-plan) by [Kaya9804](../profile/Kaya9804)
 - [Open Source/hackable Camera platforms](/notes/mathew/3-12-2013/open-sourcehackable-camera-platforms) by [mathew](../profile/mathew)

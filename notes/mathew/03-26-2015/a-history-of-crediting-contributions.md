@@ -1,12 +1,18 @@
 ---
-nid: 11724
 title: a history of crediting contributions
-path: public/static/notes/mathew/03-26-2015/a-history-of-crediting-contributions.md
+tagnames: balloon-mapping, spectrometer, community, gmf, mapping, design, forum, history, attribution, barnstar:basic, grassroots, contributing, theory, contributions
+author: mathew
+path: /notes/mathew/03-26-2015/a-history-of-crediting-contributions.md
+nid: 11724
 uid: 4
-tagnames: balloon-mapping,spectrometer,community,gmf,mapping,design,forum,history,attribution,barnstar:basic,grassroots,contributing,theory,contributions
+
 ---
 
 # a history of crediting contributions
+
+by [mathew](../profile/mathew) March 26, 2015 00:04
+
+March 26, 2015 00:04 | Tags: [balloon-mapping](../tag/balloon-mapping), [spectrometer](../tag/spectrometer), [community](../tag/community), [gmf](../tag/gmf), [mapping](../tag/mapping), [design](../tag/design), [forum](../tag/forum), [history](../tag/history), [attribution](../tag/attribution), [barnstar:basic](../tag/barnstar:basic), [grassroots](../tag/grassroots), [contributing](../tag/contributing), [theory](../tag/theory), [contributions](../tag/contributions)
 
 photo credit @Stevie, [Washington University students build camera rigs.](/notes/stevie/09-12-2014/washington-university-visits-the-gulf-coast-and-maps)
 

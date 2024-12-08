@@ -1,12 +1,18 @@
 ---
-nid: 10710
 title: A Catalogue of Civic Open Hardware Projects
-path: public/static/wiki/a-catalogue-of-civic-open-hardware-projects.md
-uid: 217812
 tagnames: open-hardware
+author: bsugar
+path: /wiki/a-catalogue-of-civic-open-hardware-projects.md
+nid: 10710
+uid: 217812
+
 ---
 
 # A Catalogue of Civic Open Hardware Projects
+
+by [tomasdiez](../profile/tomasdiez), [jalbertbowdenii](../profile/jalbertbowdenii), [amysoyka](../profile/amysoyka), [bsugar](../profile/bsugar), [msaunby](../profile/msaunby), [oliblondeau](../profile/oliblondeau), [warren](../profile/warren), [danbeavers](../profile/danbeavers)
+
+July 19, 2014 19:25 | Tags: [open-hardware](../tag/open-hardware)
 
 ###Beyond Modifying Your Honda Civic    
 

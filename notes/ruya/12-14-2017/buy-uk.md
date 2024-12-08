@@ -1,12 +1,18 @@
 ---
-nid: 15371
 title: buying Infragram filter pack in UK
-path: public/static/notes/ruya/12-14-2017/buy-uk.md
+tagnames: question:infragram, question:kits, question:filter-pack, question:shipping
+author: ruya
+path: /notes/ruya/12-14-2017/buy-uk.md
+nid: 15371
 uid: 520504
-tagnames: question:infragram,question:kits,question:filter-pack,question:shipping
+
 ---
 
 # buying Infragram filter pack in UK
+
+by [ruya](../profile/ruya) December 14, 2017 19:11
+
+December 14, 2017 19:11 | Tags: [question:infragram](../tag/question:infragram), [question:kits](../tag/question:kits), [question:filter-pack](../tag/question:filter-pack), [question:shipping](../tag/question:shipping)
 
 hello! I am from uk... i want to buy 
 

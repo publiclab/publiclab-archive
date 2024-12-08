@@ -1,12 +1,18 @@
 ---
-nid: 15086
 title: Lens Distortion
-path: public/static/wiki/lens-distortion.md
+tagnames: gopro, mobius-action-cam, fisheyegl, parent:mini-camera
+author: warren
+path: /wiki/lens-distortion.md
+nid: 15086
 uid: 1
-tagnames: gopro,mobius-action-cam,fisheyegl,parent:mini-camera
+
 ---
 
 # Lens Distortion
+
+by [warren](../profile/warren)
+
+October 23, 2017 20:58 | Tags: [gopro](../tag/gopro), [mobius-action-cam](../tag/mobius-action-cam), [fisheyegl](../tag/fisheyegl), [parent:mini-camera](../tag/parent:mini-camera)
 
 Lens distortion removal can help "flatten" images with a "fisheye" or barrel distortion, and make it easier for them to be used in creating maps. 
 

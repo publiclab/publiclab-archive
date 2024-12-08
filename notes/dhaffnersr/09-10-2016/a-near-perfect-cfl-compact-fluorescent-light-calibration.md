@@ -1,12 +1,18 @@
 ---
-nid: 13439
 title: A Near Perfect CFL (compact fluorescent light) Calibration
-path: public/static/notes/dhaffnersr/09-10-2016/a-near-perfect-cfl-compact-fluorescent-light-calibration.md
-uid: 461120
 tagnames: 
+author: dhaffnersr
+path: /notes/dhaffnersr/09-10-2016/a-near-perfect-cfl-compact-fluorescent-light-calibration.md
+nid: 13439
+uid: 461120
+
 ---
 
 # A Near Perfect CFL (compact fluorescent light) Calibration
+
+by [dhaffnersr](../profile/dhaffnersr) September 10, 2016 09:52
+
+September 10, 2016 09:52 | Tags: 
 
 I had to run another slit width test verification, so I used Plab's spectral workbench 2.0 online to do a CFL calibration to get a resolution image of my 0.06mm slit width.
 

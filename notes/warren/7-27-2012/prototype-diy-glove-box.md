@@ -1,12 +1,18 @@
 ---
-nid: 2971
 title: Prototype DIY glove box
-path: public/static/notes/warren/7-27-2012/prototype-diy-glove-box.md
+tagnames: hydrogen-sulfide-sensing, hydrogen
+author: warren
+path: /notes/warren/7-27-2012/prototype-diy-glove-box.md
+nid: 2971
 uid: 1
-tagnames: hydrogen-sulfide-sensing,hydrogen
+
 ---
 
 # Prototype DIY glove box
+
+by [warren](../profile/warren) July 27, 2012 17:29
+
+July 27, 2012 17:29 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [hydrogen](../tag/hydrogen)
 
 <iframe width="480" height="360" src="https://www.youtube.com/embed/EHkXDK95AaE" frameborder="0" allowfullscreen></iframe>
 

@@ -1,12 +1,18 @@
 ---
-nid: 26872
 title: Advocacy with Maps
-path: public/static/wiki/advocacy-with-maps.md
+tagnames: annotated-maps, aerial-photography, mapping, organizing, aerial-mapping, advocacy, method, community-organizing, advocacy-with-maps
+author: bhamster
+path: /wiki/advocacy-with-maps.md
+nid: 26872
 uid: 664477
-tagnames: annotated-maps,aerial-photography,mapping,organizing,aerial-mapping,advocacy,method,community-organizing,advocacy-with-maps
+
 ---
 
 # Advocacy with Maps
+
+by [bhamster](../profile/bhamster)
+
+June 21, 2021 21:24 | Tags: [annotated-maps](../tag/annotated-maps), [aerial-photography](../tag/aerial-photography), [mapping](../tag/mapping), [organizing](../tag/organizing), [aerial-mapping](../tag/aerial-mapping), [advocacy](../tag/advocacy), [method](../tag/method), [community-organizing](../tag/community-organizing), [advocacy-with-maps](../tag/advocacy-with-maps)
 
 Mapping offers a way to share and create knowledge about a place. Making a map to document and describe a local issue is often a helpful first step in community science because it can be done collaboratively, represent all kinds of information—from environmental pollution to cultural resources—and show what people close to the issue already know.  
 

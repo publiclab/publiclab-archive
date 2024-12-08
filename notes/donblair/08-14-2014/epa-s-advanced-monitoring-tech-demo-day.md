@@ -1,12 +1,18 @@
 ---
-nid: 11054
 title: EPA's Advanced Monitoring Tech Demo Day
-path: public/static/notes/donblair/08-14-2014/epa-s-advanced-monitoring-tech-demo-day.md
+tagnames: epa, water, riffle, demo, barnstar:basic, openwater
+author: donblair
+path: /notes/donblair/08-14-2014/epa-s-advanced-monitoring-tech-demo-day.md
+nid: 11054
 uid: 43651
-tagnames: epa,water,riffle,demo,barnstar:basic,openwater
+
 ---
 
 # EPA's Advanced Monitoring Tech Demo Day
+
+by [donblair](../profile/donblair) August 14, 2014 23:38
+
+August 14, 2014 23:38 | Tags: [epa](../tag/epa), [water](../tag/water), [riffle](../tag/riffle), [demo](../tag/demo), [barnstar:basic](../tag/barnstar:basic), [openwater](../tag/openwater)
 
 @mathew and I had a great trip EPA's Advanced Monitoring Tech Demo Day on August 5th at the EPA's headquarters in DC.  Catherine Tunis and others at the EPA organized a wonderful event -- we met a ton of folks who were really interested in Public Lab's approach to environmental monitoring, and it has led to lots of great conversations!
 

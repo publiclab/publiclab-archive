@@ -1,12 +1,18 @@
 ---
-nid: 2919
 title: Report back on NYC Kite Workshop
-path: public/static/notes/liz/7-20-2012/report-back-nyc-kite-workshop.md
+tagnames: balloon-mapping, kite-mapping, ilab
+author: liz
+path: /notes/liz/7-20-2012/report-back-nyc-kite-workshop.md
+nid: 2919
 uid: 7
-tagnames: balloon-mapping,kite-mapping,ilab
+
 ---
 
 # Report back on NYC Kite Workshop
+
+by [liz](../profile/liz) July 20, 2012 18:41
+
+July 20, 2012 18:41 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [ilab](../tag/ilab)
 
 Written by Lizzie Ingraham, republished from <a href="http://ilandsymposium.wordpress.com/2012/06/26/kite-and-solar-balloon-workshop-with-higher-e-d/">ilandsymposium.wordpress.com</a>:
 

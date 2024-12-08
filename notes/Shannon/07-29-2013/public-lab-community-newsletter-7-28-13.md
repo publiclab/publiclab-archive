@@ -1,12 +1,18 @@
 ---
-nid: 8936
 title: Public Lab Community Newsletter 7.28.13
-path: public/static/notes/Shannon/07-29-2013/public-lab-community-newsletter-7-28-13.md
+tagnames: newsletter, newsletter-archive
+author: Shannon
+path: /notes/Shannon/07-29-2013/public-lab-community-newsletter-7-28-13.md
+nid: 8936
 uid: 9
-tagnames: newsletter,newsletter-archive
+
 ---
 
 # Public Lab Community Newsletter 7.28.13
+
+by [Shannon](../profile/Shannon) July 29, 2013 04:09
+
+July 29, 2013 04:09 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
 
 This week in the Public Lab community newsletter, check out wrap-ups from Massachusetts events, listen to a piece on Public Lab from the Chemical Heritage Foundation and read about teaching air quality in a Brooklyn classroom. Enjoy!
 

@@ -1,12 +1,18 @@
 ---
-nid: 11791
 title: Field Test of DIY formaldehyde testing and remediation kit  
-path: public/static/notes/nshapiro/05-06-2015/field-test-of-diy-testing-and-remediation-kit.md
+tagnames: remediation, air-quality, formaldehyde, wherewebreathe, coast, gulf, indoor-air-quality-monitoring, indoor-air-quality, replication:13480, activity:formaldehyde
+author: nshapiro
+path: /notes/nshapiro/05-06-2015/field-test-of-diy-testing-and-remediation-kit.md
+nid: 11791
 uid: 380298
-tagnames: remediation,air-quality,formaldehyde,wherewebreathe,coast,gulf,indoor-air-quality-monitoring,indoor-air-quality,replication:13480,activity:formaldehyde
+
 ---
 
 # Field Test of DIY formaldehyde testing and remediation kit  
+
+by [nshapiro](../profile/nshapiro) May 06, 2015 14:19
+
+May 06, 2015 14:19 | Tags: [remediation](../tag/remediation), [air-quality](../tag/air-quality), [formaldehyde](../tag/formaldehyde), [wherewebreathe](../tag/wherewebreathe), [coast](../tag/coast), [gulf](../tag/gulf), [indoor-air-quality-monitoring](../tag/indoor-air-quality-monitoring), [indoor-air-quality](../tag/indoor-air-quality), [replication:13480](../tag/replication:13480), [activity:formaldehyde](../tag/activity:formaldehyde)
 
 As part of the Where We Breathe project of Public Lab we have been developing an inexpensive means of formaldehyde monitoring and an inexpensive living air filter system. 
 

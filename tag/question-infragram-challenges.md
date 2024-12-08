@@ -1,6 +1,6 @@
 # question-infragram-challenges
 
-4 notes and wiki pages
+4 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Can we use a color calibration reference card to calculate absolute values for DIY NDVI?](/notes/warren/10-27-2017/can-we-use-a-color-calibration-reference-card-to-calculate-absolute-values-for-diy-ndvi) by [warren](../profile/warren)
 - [Can I use a Raspberry Pi with the Pi Noir camera to make NDVI images?](/notes/warren/10-31-2017/can-i-use-a-raspberry-pi-with-the-pi-noir-camera-to-make-ndvi-images) by [warren](../profile/warren)

@@ -1,12 +1,18 @@
 ---
-nid: 914
 title: Infrared/visible single camera with beamsplitter: setup
-path: public/static/notes/warren/3-10-2012/infraredvisible-single-camera-beamsplitter-setup.md
-uid: 1
 tagnames: near-infrared-camera
+author: warren
+path: /notes/warren/3-10-2012/infraredvisible-single-camera-beamsplitter-setup.md
+nid: 914
+uid: 1
+
 ---
 
 # Infrared/visible single camera with beamsplitter: setup
+
+by [warren](../profile/warren) March 10, 2012 05:04
+
+March 10, 2012 05:04 | Tags: [near-infrared-camera](../tag/near-infrared-camera)
 
 I wanted to make a very basic proof of concept way to take both infrared and visible images with a single camera. The trick is that both images must be of the same thing, from the same angle. So I tried using a beamsplitter to split the image in two, and filter each half separately. It only kind of worked; I'll post what I got soon, but here is the setup:
 

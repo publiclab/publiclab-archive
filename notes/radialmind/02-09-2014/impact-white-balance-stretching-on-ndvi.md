@@ -1,12 +1,18 @@
 ---
-nid: 10022
 title: Impact white balance & stretching on NDVI
-path: public/static/notes/radialmind/02-09-2014/impact-white-balance-stretching-on-ndvi.md
+tagnames: near-infrared-camera, ndvi, infragram
+author: radialmind
+path: /notes/radialmind/02-09-2014/impact-white-balance-stretching-on-ndvi.md
+nid: 10022
 uid: 170347
-tagnames: near-infrared-camera,ndvi,infragram
+
 ---
 
 # Impact white balance & stretching on NDVI
+
+by [radialmind](../profile/radialmind) February 09, 2014 13:44
+
+February 09, 2014 13:44 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [infragram](../tag/infragram)
 
 ###What I want to do
 After my research note yesterday here I'm posting some pictures that are significant improvements (datawise) to the end results. I'm demonstrating the impact that the white balance has on the end data and I'm demonstrating the effect of stretching in the visible band. Stretching in the NIR band didn't have any apparent significant effect, maybe just a slight intensification of the end results, but stretching in the NIR band is something that still needs further investigation.

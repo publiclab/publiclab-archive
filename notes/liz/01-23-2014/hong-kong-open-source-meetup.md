@@ -1,12 +1,18 @@
 ---
-nid: 9968
 title: Hong Kong Open Source Meetup
-path: public/static/notes/liz/01-23-2014/hong-kong-open-source-meetup.md
+tagnames: event, hong-kong, asia
+author: liz
+path: /notes/liz/01-23-2014/hong-kong-open-source-meetup.md
+nid: 9968
 uid: 7
-tagnames: event,hong-kong,asia
+
 ---
 
 # Hong Kong Open Source Meetup
+
+by [liz](../profile/liz) January 23, 2014 16:21
+
+January 23, 2014 16:21 | Tags: [event](../tag/event), [hong-kong](../tag/hong-kong), [asia](../tag/asia)
 
 ###Event details
 

@@ -1,12 +1,16 @@
 ---
-nid: 16683
 title: welcome-email-body
-path: public/static/feature/welcome-email-body.md
-uid: 1
 tagnames: 
+author: warren
+path: /feature/welcome-email-body.md
+nid: 16683
+uid: 1
+
 ---
 
 # welcome-email-body
+
+July 10, 2018 22:10 | Tags: 
 
 Welcome to Public Lab!
 

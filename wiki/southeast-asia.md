@@ -1,12 +1,18 @@
 ---
-nid: 817
 title: Southeast Asia
-path: public/static/wiki/southeast-asia.md
+tagnames: india, region, igem
+author: liz
+path: /wiki/southeast-asia.md
+nid: 817
 uid: 7
-tagnames: india,region,igem
+
 ---
 
 # Southeast Asia
+
+by [liz](../profile/liz)
+
+February 20, 2012 18:28 | Tags: [india](../tag/india), [region](../tag/region), [igem](../tag/igem)
 
 <strong>People and Places in Southeast Asia</strong>
 

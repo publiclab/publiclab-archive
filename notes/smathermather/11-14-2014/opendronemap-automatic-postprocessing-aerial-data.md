@@ -1,12 +1,18 @@
 ---
-nid: 11342
 title: OpenDroneMap -- Automatic postprocessing aerial data
-path: public/static/notes/smathermather/11-14-2014/opendronemap-automatic-postprocessing-aerial-data.md
+tagnames: new-york-city, balloon-mapping, gowanus, kite-aerial-photography, drones, aerial-photography, glam, aerial-mapping, aerial-photos, northeast, uas, opendronemap, first-time-poster
+author: smathermather
+path: /notes/smathermather/11-14-2014/opendronemap-automatic-postprocessing-aerial-data.md
+nid: 11342
 uid: 431062
-tagnames: new-york-city,balloon-mapping,gowanus,kite-aerial-photography,drones,aerial-photography,glam,aerial-mapping,aerial-photos,northeast,uas,opendronemap,first-time-poster
+
 ---
 
 # OpenDroneMap -- Automatic postprocessing aerial data
+
+by [smathermather](../profile/smathermather) November 14, 2014 13:08
+
+November 14, 2014 13:08 | Tags: [new-york-city](../tag/new-york-city), [balloon-mapping](../tag/balloon-mapping), [gowanus](../tag/gowanus), [kite-aerial-photography](../tag/kite-aerial-photography), [drones](../tag/drones), [aerial-photography](../tag/aerial-photography), [glam](../tag/glam), [aerial-mapping](../tag/aerial-mapping), [aerial-photos](../tag/aerial-photos), [northeast](../tag/northeast), [uas](../tag/uas), [opendronemap](../tag/opendronemap), [first-time-poster](../tag/first-time-poster)
 
 ###What I want to do
 OpenDroneMap ([http://opendronemap.github.io/odm/](http://opendronemap.github.io/odm/)) is intended to be a tool to postprocess small Unmanned Aerial Vehicle (sUAS), balloon, kite, and street view data to geographic data.

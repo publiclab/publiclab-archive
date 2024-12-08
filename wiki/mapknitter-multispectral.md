@@ -1,12 +1,18 @@
 ---
-nid: 683
 title: MapKnitter Multispectral
-path: public/static/wiki/mapknitter-multispectral.md
-uid: 1
 tagnames: 
+author: warren
+path: /wiki/mapknitter-multispectral.md
+nid: 683
+uid: 1
+
 ---
 
 # MapKnitter Multispectral
+
+by [warren](../profile/warren)
+
+January 07, 2012 15:34 | Tags: 
 
 <a href="https://www.flickr.com/photos/jeffreywarren/6653177539/" title="NRG infrared export in MapKnitter by jeferonix, on Flickr"><img src="https://farm8.staticflickr.com/7003/6653177539_74fba8a976.jpg" width="500" height="371" alt="NRG infrared export in MapKnitter"></a>
 

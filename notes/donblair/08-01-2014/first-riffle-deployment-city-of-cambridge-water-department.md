@@ -1,12 +1,18 @@
 ---
-nid: 11004
 title: First Riffle Deployment: City of Cambridge Water Department
-path: public/static/notes/donblair/08-01-2014/first-riffle-deployment-city-of-cambridge-water-department.md
+tagnames: somerville-massachusetts, cambridge, massachusetts, water-quality, riffle, northeast, riffle-examples
+author: donblair
+path: /notes/donblair/08-01-2014/first-riffle-deployment-city-of-cambridge-water-department.md
+nid: 11004
 uid: 43651
-tagnames: somerville-massachusetts,cambridge,massachusetts,water-quality,riffle,northeast,riffle-examples
+
 ---
 
 # First Riffle Deployment: City of Cambridge Water Department
+
+by [donblair](../profile/donblair) August 01, 2014 20:53
+
+August 01, 2014 20:53 | Tags: [somerville-massachusetts](../tag/somerville-massachusetts), [cambridge](../tag/cambridge), [massachusetts](../tag/massachusetts), [water-quality](../tag/water-quality), [riffle](../tag/riffle), [northeast](../tag/northeast), [riffle-examples](../tag/riffle-examples)
 
 > NOTE:  We presented a [poster](https://github.com/p-v-o-s/riffle-ito/raw/master/artwork/epa-demo-aug-2014/epa_poster_august_2014-contrib.pdf) summarizing the data from this deployment at the EPA's 'Advanced Tech Demo' on Aug 5th.
 

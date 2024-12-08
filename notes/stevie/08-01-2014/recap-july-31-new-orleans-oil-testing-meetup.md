@@ -1,12 +1,18 @@
 ---
-nid: 11005
 title: Recap: July 31 New Orleans oil testing meetup
-path: public/static/notes/stevie/08-01-2014/recap-july-31-new-orleans-oil-testing-meetup.md
+tagnames: gulf-coast, spectrometer, calibration, workshop, fluorescence, event, oil-response-toolkit, crude, workshops, tarball, oil-testing-kit, exposure, with:warren, with:mathew, propeller, w, propellergulf-coast, with:mathe, replication:11046
+author: stevie
+path: /notes/stevie/08-01-2014/recap-july-31-new-orleans-oil-testing-meetup.md
+nid: 11005
 uid: 422561
-tagnames: gulf-coast,spectrometer,calibration,workshop,fluorescence,event,oil-response-toolkit,crude,workshops,tarball,oil-testing-kit,exposure,with:warren,with:mathew,propeller,w,propellergulf-coast,with:mathe,replication:11046
+
 ---
 
 # Recap: July 31 New Orleans oil testing meetup
+
+by [stevie](../profile/stevie) August 01, 2014 21:42
+
+August 01, 2014 21:42 | Tags: [gulf-coast](../tag/gulf-coast), [spectrometer](../tag/spectrometer), [calibration](../tag/calibration), [workshop](../tag/workshop), [fluorescence](../tag/fluorescence), [event](../tag/event), [oil-response-toolkit](../tag/oil-response-toolkit), [crude](../tag/crude), [workshops](../tag/workshops), [tarball](../tag/tarball), [oil-testing-kit](../tag/oil-testing-kit), [exposure](../tag/exposure), [with:warren](../tag/with:warren), [with:mathew](../tag/with:mathew), [propeller](../tag/propeller), [w](../tag/w), [propellergulf-coast](../tag/propellergulf-coast), [with:mathe](../tag/with:mathe), [replication:11046](../tag/replication:11046)
 
 Last night we held a meetup (organized by Stevie) to work on the emerging [Oil Testing Kit](/wiki/oil-testing-kit) with folks from the New Orleans area. Our main goals were to start connecting with local contributors and collaborators, and to prototype and improve the Kit itself -- especially the sampling methods. 
 

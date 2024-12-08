@@ -1,6 +1,6 @@
 # multispectral
 
-17 notes and wiki pages
+17 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Quantify wetland from aerial UV photo](/notes/cesarharada/2-24-2011/quantify-wetland-aerial-uv-photo) by [cesarharada](../profile/cesarharada)
 - [Great band color tool from the American Museum of Natural History](/notes/warren/6-5-2011/great-band-color-tool-american-museum-natural-history) by [warren](../profile/warren)
@@ -18,4 +18,3 @@
 - [Bringing Public Lab’s multispectral image processing to Leaflet maps](/notes/warren/08-27-2019/bringing-public-lab-s-multispectral-image-processing-to-leaflet-maps) by [warren](../profile/warren)
 - [Build an Infragram Pi Camera](/notes/mimiss/03-31-2020/build-an-infragram-pi-camera) by [mimiss](../profile/mimiss)
 - [Use 3-D glasses to modify a camera for infrared](/notes/umberto_rootman/05-17-2020/cheap-sports-cam-mod) by [umberto_rootman](../profile/umberto_rootman)
-- [Sports cam filter mod](/notes/umberto_rootman/05-17-2020/sports-cam-filter-mod) by [umberto_rootman](../profile/umberto_rootman)

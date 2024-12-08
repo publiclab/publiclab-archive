@@ -1,6 +1,6 @@
 # matching
 
-7 notes and wiki pages
+7 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [spectrum matching](/notes/jeffreyjoy/1-13-2012/spectrum-matching) by [jeffreyjoy](../profile/jeffreyjoy)
 - [Matching olive oil spectra in SpectralWorkbench](/notes/warren/7-2-2012/matching-olive-oil-spectra-spectralworkbench) by [warren](../profile/warren)

@@ -1,12 +1,18 @@
 ---
-nid: 3864
 title: Spectral Workbench updates: profile page fix & sample row selection
-path: public/static/notes/warren/9-18-2012/spectral-workbench-updates-profile-page-fix-sample-row-selection.md
+tagnames: spectrometer, spectralworkbench
+author: warren
+path: /notes/warren/9-18-2012/spectral-workbench-updates-profile-page-fix-sample-row-selection.md
+nid: 3864
 uid: 1
-tagnames: spectrometer,spectralworkbench
+
 ---
 
 # Spectral Workbench updates: profile page fix & sample row selection
+
+by [warren](../profile/warren) September 18, 2012 12:40
+
+September 18, 2012 12:40 | Tags: [spectrometer](../tag/spectrometer), [spectralworkbench](../tag/spectralworkbench)
 
 Many folks have been uploading images of spectra but the website was not specific about where it was going to take a slice to graph. Now there's a note [on the upload page](https://spectralworkbench.org/spectrums/new). This will be helpful for spectra like:
 

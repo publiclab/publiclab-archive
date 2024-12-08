@@ -1,12 +1,18 @@
 ---
-nid: 675
 title: Classification
-path: public/static/wiki/classification.md
+tagnames: wetlands, aerial-photography, wetlands-restoration, mines
+author: warren
+path: /wiki/classification.md
+nid: 675
 uid: 1
-tagnames: wetlands,aerial-photography,wetlands-restoration,mines
+
 ---
 
 # Classification
+
+by [eustatic](../profile/eustatic), [adam-griffith](../profile/adam-griffith), [warren](../profile/warren)
+
+January 03, 2012 22:03 | Tags: [wetlands](../tag/wetlands), [aerial-photography](../tag/aerial-photography), [wetlands-restoration](../tag/wetlands-restoration), [mines](../tag/mines)
 
 <a href="https://www.flickr.com/photos/worldworldworld/4918161225/" title="how much oil hit the coast ? by cesarharada.com, on Flickr"><img src="https://farm5.staticflickr.com/4074/4918161225_ac11e4ffa4.jpg" width="500" height="156" alt="how much oil hit the coast ?"></a>
 

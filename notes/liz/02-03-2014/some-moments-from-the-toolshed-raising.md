@@ -1,12 +1,18 @@
 ---
-nid: 10005
 title: Some moments from the Toolshed Raising
-path: public/static/notes/liz/02-03-2014/some-moments-from-the-toolshed-raising.md
+tagnames: boston, toolshed-raising, great-photos
+author: liz
+path: /notes/liz/02-03-2014/some-moments-from-the-toolshed-raising.md
+nid: 10005
 uid: 7
-tagnames: boston,toolshed-raising,great-photos
+
 ---
 
 # Some moments from the Toolshed Raising
+
+by [liz](../profile/liz) February 03, 2014 13:32
+
+February 03, 2014 13:32 | Tags: [boston](../tag/boston), [toolshed-raising](../tag/toolshed-raising), [great-photos](../tag/great-photos)
 
 #Intros!
 

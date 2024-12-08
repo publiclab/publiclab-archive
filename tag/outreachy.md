@@ -1,6 +1,6 @@
 # outreachy
 
-110 notes and wiki pages
+110 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Call for Outreachy 2018-19 proposals!](/notes/warren/10-23-2018/call-for-outreachy-2018-19-proposals) by [warren](../profile/warren)
 - [Outreachy Application Template](/wiki/outreachy-application-template) (wiki)
@@ -17,7 +17,6 @@
 - [Outreachy 2018: Week One](/notes/cess/12-09-2018/outreachy-2018-week-one) by [cess](../profile/cess)
 - [Outreachy 2018 Week 2 and 3](/notes/cess/12-30-2018/outreachy-2018-week-2-and-3) by [cess](../profile/cess)
 - [Public Lab Code Community Report: Jan 2019](/notes/warren/01-02-2019/public-lab-code-community-report-jan-2019) by [warren](../profile/warren)
-- [Skoda kodiaq ](/notes/skoda_kodiaq/01-02-2019/skoda-kodiaq) by [skoda_kodiaq](../profile/skoda_kodiaq)
 - [Call for Summer of Code 2019 proposals!](/notes/warren/02-28-2019/call-for-summer-of-code-2019-proposals) by [warren](../profile/warren)
 - [Call for Outreachy 2019 proposals!](/notes/gauravano/03-12-2019/call-for-outreachy-2019-proposals) by [gauravano](../profile/gauravano)
 - [UI Wireframe for Profile Page](/notes/lekhidugtal/03-13-2019/ui-wireframe-for-profile-page) by [lekhidugtal](../profile/lekhidugtal)
@@ -42,7 +41,6 @@
 - [Outreachy proposal: ](/notes/Reenesa/11-01-2019/outreachy-proposal) by [Reenesa](../profile/Reenesa)
 - [Modifying Expectations: A Progress Report](/notes/christie_reni/01-20-2020/modifying-expectations-a-progress-report) by [christie_reni](../profile/christie_reni)
 - [Career goals after Outreachy](/notes/christie_reni/02-11-2020/career-goals-after-outreachy) by [christie_reni](../profile/christie_reni)
-- [PublicLab: Call for Outreachy and GSOC proposals 2020](/notes/cess/02-24-2020/publiclab-call-for-outreachy-and-gsoc-proposals-2020) by [cess](../profile/cess)
 - [Call for 2020 GSoC proposals](/notes/cess/03-02-2020/call-for-2020-soc-proposals-gsoc-and-outreachy) by [cess](../profile/cess)
 - [Outreachy proposal: Optimize perofrmance and accessibility of Public Lab content](/notes/opetunde_adepoju/03-19-2020/outreachy-proposal) by [opetunde_adepoju](../profile/opetunde_adepoju)
 - [Outreachy proposal: Optimize Performance and Accessibility of Public Lab Content.](/notes/medlinechinonye/04-01-2020/outreachy-proposal-optimize-performance-and-accessibility-of-public-lab-content) by [medlinechinonye](../profile/medlinechinonye)

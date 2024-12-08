@@ -1,12 +1,18 @@
 ---
-nid: 26567
 title: Embedded projects
-path: public/static/notes/keerthana06/05-12-2021/embedded-projects.md
-uid: 754722
 tagnames: 
+author: keerthana06
+path: /notes/keerthana06/05-12-2021/embedded-projects.md
+nid: 26567
+uid: 754722
+
 ---
 
 # Embedded projects
+
+by [keerthana06](../profile/keerthana06) May 12, 2021 13:52
+
+May 12, 2021 13:52 | Tags: 
 
 Takeoff Projects helps students complete their academic projects.You can enrol with friends and receive [![embedded projects](/i/43764.jpg "embedded_projects.jpg")](https://takeoffprojects.com/embedded-projects) kits at your doorstep. You can learn from experts, build latest projects, showcase your project to the world and grab the best jobs. Get started today!
 

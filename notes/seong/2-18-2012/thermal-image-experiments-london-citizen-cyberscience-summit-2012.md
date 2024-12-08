@@ -1,12 +1,18 @@
 ---
-nid: 810
 title: Thermal image experiments at London citizen cyberscience summit 2012
-path: public/static/notes/seong/2-18-2012/thermal-image-experiments-london-citizen-cyberscience-summit-2012.md
+tagnames: arduino, london, thermal-flashlight, ucl, uk, eu
+author: seong
+path: /notes/seong/2-18-2012/thermal-image-experiments-london-citizen-cyberscience-summit-2012.md
+nid: 810
 uid: 533
-tagnames: arduino,london,thermal-flashlight,ucl,uk,eu
+
 ---
 
 # Thermal image experiments at London citizen cyberscience summit 2012
+
+by [seong](../profile/seong) February 18, 2012 16:04
+
+February 18, 2012 16:04 | Tags: [arduino](../tag/arduino), [london](../tag/london), [thermal-flashlight](../tag/thermal-flashlight), [ucl](../tag/ucl), [uk](../tag/uk), [eu](../tag/eu)
 
 During the London citizen cyberscience summit, there was a workshop about thermal flashlight by Shannon and Sara. 
 

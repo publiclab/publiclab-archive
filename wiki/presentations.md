@@ -1,12 +1,18 @@
 ---
-nid: 328
 title: Presentations
-path: public/static/wiki/presentations.md
-uid: 1
 tagnames: presentations
+author: warren
+path: /wiki/presentations.md
+nid: 328
+uid: 1
+
 ---
 
 # Presentations
+
+by [liz](../profile/liz), [warren](../profile/warren)
+
+June 04, 2011 01:59 | Tags: [presentations](../tag/presentations)
 
 ##2015 "10 slides on Public Lab"
 

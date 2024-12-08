@@ -1,6 +1,6 @@
 # diy-spectrometer
 
-5 notes and wiki pages
+5 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [A Homemade Cost Effective Raman Spectrometer with High Performance](/notes/emontoya57/12-16-2015/a-homemade-cost-effective-raman-spectrometer-with-high-performance) by [emontoya57](../profile/emontoya57)
 - [A more compact spectrometer](/notes/cristoforetti/05-13-2016/a-more-compact-spectrometer) by [cristoforetti](../profile/cristoforetti)

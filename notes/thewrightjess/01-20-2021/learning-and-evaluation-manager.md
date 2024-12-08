@@ -1,12 +1,18 @@
 ---
-nid: 25506
 title: Learning and Evaluation Manager
-path: public/static/notes/thewrightjess/01-20-2021/learning-and-evaluation-manager.md
+tagnames: evaluation, jobs
+author: thewrightjess
+path: /notes/thewrightjess/01-20-2021/learning-and-evaluation-manager.md
+nid: 25506
 uid: 603909
-tagnames: evaluation,jobs
+
 ---
 
 # Learning and Evaluation Manager
+
+by [thewrightjess](../profile/thewrightjess) January 20, 2021 20:24
+
+January 20, 2021 20:24 | Tags: [evaluation](../tag/evaluation), [jobs](../tag/jobs)
 
 #### Our Organization 
 Join our team and work to bring about a healthier and more equitable world through community science, open technology, and the pursuit of environmental justice. Public Lab is a community, supported by a 501(c)(3) non-profit, that develops and applies open-source tools to environmental exploration and investigation. By democratizing inexpensive and accessible do-it-yourself techniques, Public Lab creates a collaborative network of practitioners who actively reimagine the human relationship with the environment. 

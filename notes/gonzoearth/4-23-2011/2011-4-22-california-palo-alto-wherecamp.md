@@ -1,12 +1,18 @@
 ---
-nid: 190
 title: 2011-4-22 california - palo alto - wherecamp
-path: public/static/notes/gonzoearth/4-23-2011/2011-4-22-california-palo-alto-wherecamp.md
-uid: 12
 tagnames: california
+author: gonzoearth
+path: /notes/gonzoearth/4-23-2011/2011-4-22-california-palo-alto-wherecamp.md
+nid: 190
+uid: 12
+
 ---
 
 # 2011-4-22 california - palo alto - wherecamp
+
+by [gonzoearth](../profile/gonzoearth) April 23, 2011 16:01
+
+April 23, 2011 16:01 | Tags: [california](../tag/california)
 
 Balloon Mapping workshop at 2011 Bay Area Wherecamp at the Stanford Campus Alumni Center
 

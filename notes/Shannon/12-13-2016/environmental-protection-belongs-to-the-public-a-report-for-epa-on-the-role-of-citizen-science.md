@@ -1,12 +1,18 @@
 ---
-nid: 13780
 title: Environmental Protection Belongs to the Public: A report for EPA on the role of citizen science
-path: public/static/notes/Shannon/12-13-2016/environmental-protection-belongs-to-the-public-a-report-for-epa-on-the-role-of-citizen-science.md
+tagnames: blog, report
+author: Shannon
+path: /notes/Shannon/12-13-2016/environmental-protection-belongs-to-the-public-a-report-for-epa-on-the-role-of-citizen-science.md
+nid: 13780
 uid: 9
-tagnames: blog,report
+
 ---
 
 # Environmental Protection Belongs to the Public: A report for EPA on the role of citizen science
+
+by [Shannon](../profile/Shannon) December 13, 2016 21:12
+
+December 13, 2016 21:12 | Tags: [blog](../tag/blog), [report](../tag/report)
 
 _Cross-posted from the Citizen Science Association blog co-written by Shannon Dosemagen (Public Lab) and Alison Parker (ORISE Fellow hosted by EPA)._
 

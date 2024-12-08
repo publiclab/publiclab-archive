@@ -1,6 +1,6 @@
 # fold-up-mini-spectrometer
 
-17 notes and wiki pages
+17 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Diffraction gratings](/wiki/diffraction-gratings) (wiki)
 - [Takes on the fold-up mini-spectrometer](/notes/mathew/11-19-2012/takes-fold-mini-spectrometer) by [mathew](../profile/mathew)

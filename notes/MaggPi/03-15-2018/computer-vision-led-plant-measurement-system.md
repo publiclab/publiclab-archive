@@ -1,12 +1,18 @@
 ---
-nid: 15957
 title: Computer Vision/LED Plant Measurement System
-path: public/static/notes/MaggPi/03-15-2018/computer-vision-led-plant-measurement-system.md
+tagnames: multispectral, raspberry-pi, plant-health, gardening, python, activity:multispectral-imaging, computer-vision, first-time-poster
+author: MaggPi
+path: /notes/MaggPi/03-15-2018/computer-vision-led-plant-measurement-system.md
+nid: 15957
 uid: 501996
-tagnames: multispectral,raspberry-pi,plant-health,gardening,python,activity:multispectral-imaging,computer-vision,first-time-poster
+
 ---
 
 # Computer Vision/LED Plant Measurement System
+
+by [MaggPi](../profile/MaggPi) March 15, 2018 06:57
+
+March 15, 2018 06:57 | Tags: [multispectral](../tag/multispectral), [raspberry-pi](../tag/raspberry-pi), [plant-health](../tag/plant-health), [gardening](../tag/gardening), [python](../tag/python), [activity:multispectral-imaging](../tag/activity:multispectral-imaging), [computer-vision](../tag/computer-vision), [first-time-poster](../tag/first-time-poster)
 
 The project incorporates a digital camera, light emitting diodes (LEDs), and software image analysis tools to conduct non-contact plant growth analysis. The system measures growth parameters such as leaf size and leaf reflectance. Plant growth characteristics can then be used to regulate the spectral and temporal output of the LED grow lights. The goal of the system is
 to provide real time feedback to optimize plant development with minimum

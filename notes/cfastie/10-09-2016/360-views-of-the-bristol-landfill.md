@@ -1,12 +1,18 @@
 ---
-nid: 13541
 title: 360° views of the Bristol landfill
-path: public/static/notes/cfastie/10-09-2016/360-views-of-the-bristol-landfill.md
+tagnames: vermont, kite-aerial-photography, landfill, kap, saturnv, skyshield, half-spherical, littleplanet, bristol-vt, 360, spherical, response:13534
+author: cfastie
+path: /notes/cfastie/10-09-2016/360-views-of-the-bristol-landfill.md
+nid: 13541
 uid: 554
-tagnames: vermont,kite-aerial-photography,landfill,kap,saturnv,skyshield,half-spherical,littleplanet,bristol-vt,360,spherical,response:13534
+
 ---
 
 # 360° views of the Bristol landfill
+
+by [cfastie](../profile/cfastie) October 09, 2016 17:54
+
+October 09, 2016 17:54 | Tags: [vermont](../tag/vermont), [kite-aerial-photography](../tag/kite-aerial-photography), [landfill](../tag/landfill), [kap](../tag/kap), [saturnv](../tag/saturnv), [skyshield](../tag/skyshield), [half-spherical](../tag/half-spherical), [littleplanet](../tag/littleplanet), [bristol-vt](../tag/bristol-vt), [360](../tag/360), [spherical](../tag/spherical), [response:13534](../tag/response:13534)
 
 *Above: Stereographic projection of a spherical panorama stitched from 21 photos taken by a PowerShot S100 lofted by a Fled kite over the landfill in Bristol, VT.*
 

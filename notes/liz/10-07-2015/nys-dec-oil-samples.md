@@ -1,12 +1,18 @@
 ---
-nid: 12277
 title: NYS DEC Oil Samples
-path: public/static/notes/liz/10-07-2015/nys-dec-oil-samples.md
+tagnames: new-york-city, oil, oil-testing-kit, northeast, ny, newtown-creek-alliance, enforcement, oil-and-gas, nysdec
+author: liz
+path: /notes/liz/10-07-2015/nys-dec-oil-samples.md
+nid: 12277
 uid: 7
-tagnames: new-york-city,oil,oil-testing-kit,northeast,ny,newtown-creek-alliance,enforcement,oil-and-gas,nysdec
+
 ---
 
 # NYS DEC Oil Samples
+
+by [liz](../profile/liz) October 07, 2015 16:45
+
+October 07, 2015 16:45 | Tags: [new-york-city](../tag/new-york-city), [oil](../tag/oil), [oil-testing-kit](../tag/oil-testing-kit), [northeast](../tag/northeast), [ny](../tag/ny), [newtown-creek-alliance](../tag/newtown-creek-alliance), [enforcement](../tag/enforcement), [oil-and-gas](../tag/oil-and-gas), [nysdec](../tag/nysdec)
 
 **New York State Department of Conservation oil samples, from left:** 
 

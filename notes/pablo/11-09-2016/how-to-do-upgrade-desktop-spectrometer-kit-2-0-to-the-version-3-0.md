@@ -1,12 +1,18 @@
 ---
-nid: 13689
 title: How to do upgrade Desktop Spectrometer Kit 2.0 to the version 3.0 
-path: public/static/notes/pablo/11-09-2016/how-to-do-upgrade-desktop-spectrometer-kit-2-0-to-the-version-3-0.md
+tagnames: spectrometer, upgrade:spectrometry, seeks:builds, status:in-progress
+author: pablo
+path: /notes/pablo/11-09-2016/how-to-do-upgrade-desktop-spectrometer-kit-2-0-to-the-version-3-0.md
+nid: 13689
 uid: 160
-tagnames: spectrometer,upgrade:spectrometry,seeks:builds,status:in-progress
+
 ---
 
 # How to do upgrade Desktop Spectrometer Kit 2.0 to the version 3.0 
+
+by [pablo](../profile/pablo) November 09, 2016 23:46
+
+November 09, 2016 23:46 | Tags: [spectrometer](../tag/spectrometer), [upgrade:spectrometry](../tag/upgrade:spectrometry), [seeks:builds](../tag/seeks:builds), [status:in-progress](../tag/status:in-progress)
 
 This research note is in progress, I'll update keep updating it.
 

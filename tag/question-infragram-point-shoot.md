@@ -1,6 +1,6 @@
 # question-infragram-point-shoot
 
-10 notes and wiki pages
+10 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Initial results and resolution of timelapse mode issue: PL Mobius Infragram Point and Shoot](/notes/patcoyle/11-08-2014/initial-results-and-timelapse-mode-issue-pl-mobius-infragram-point-and-shoot) by [patcoyle](../profile/patcoyle)
 - [Question: Infragram point & shoot image](/notes/ino/05-05-2016/question-infragram-point-shoot-image) by [ino](../profile/ino)

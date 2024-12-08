@@ -1,12 +1,18 @@
 ---
-nid: 15814
 title: GSoC proposal: Upgrade to Rails 5
-path: public/static/notes/souravirus/02-25-2018/gsoc-proposal-upgrade-to-rails-5.md
+tagnames: software, gsoc, soc, response:13975, gsoc-2018, soc-2018, soc-2018-proposals, gsoc-2018-final, first-time-poster
+author: souravirus
+path: /notes/souravirus/02-25-2018/gsoc-proposal-upgrade-to-rails-5.md
+nid: 15814
 uid: 524509
-tagnames: software,gsoc,soc,response:13975,gsoc-2018,soc-2018,soc-2018-proposals,gsoc-2018-final,first-time-poster
+
 ---
 
 # GSoC proposal: Upgrade to Rails 5
+
+by [souravirus](../profile/souravirus) February 25, 2018 18:59
+
+February 25, 2018 18:59 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [soc](../tag/soc), [response:13975](../tag/response:13975), [gsoc-2018](../tag/gsoc-2018), [soc-2018](../tag/soc-2018), [soc-2018-proposals](../tag/soc-2018-proposals), [gsoc-2018-final](../tag/gsoc-2018-final), [first-time-poster](../tag/first-time-poster)
 
 ![image description](https://lh4.googleusercontent.com/yX-T0wgORDtO-W7Ambzb9yVBLtZ-M2pxfaVFWSJDIIfdd8lj4iMDaC5D9PGIogq-YfPUHC0rNHPjJXWnt7QTOywZd_VI0exdawj7CMSru6-e6PGz0maCccEgQXLZSGFT4GLt4kX_ "Rails.png")
 

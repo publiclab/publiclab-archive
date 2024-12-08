@@ -1,12 +1,18 @@
 ---
-nid: 11508
 title: choosing-how-to-track-progress
-path: public/static/wiki/choosing-how-to-track-progress.md
+tagnames: parent:gardening-toolkit, gardening-toolkit
+author: liz
+path: /wiki/choosing-how-to-track-progress.md
+nid: 11508
 uid: 7
-tagnames: parent:gardening-toolkit,gardening-toolkit
+
 ---
 
 # choosing-how-to-track-progress
+
+by [liz](../profile/liz)
+
+January 04, 2015 21:07 | Tags: [parent:gardening-toolkit](../tag/parent:gardening-toolkit), [gardening-toolkit](../tag/gardening-toolkit)
 
 This is one of a series of guides for collaborative environmental research and advocacy projects. "Choosing How to Track Progress" begins with the goals that the garden members prioritized for the upcoming year in the [previous workshop](/wiki/setting-goals), helps you quantify the goals into objectives, guides you to specify what you're going to do towards achieving these objectives, and points you towards fun and "field-proof" measuring activities to track your progress. This guide covers options for how to do this either on paper or in an online spreadsheet. 
 

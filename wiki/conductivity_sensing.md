@@ -1,12 +1,18 @@
 ---
-nid: 13477
 title: conductivity_sensing
-path: public/static/wiki/conductivity_sensing.md
+tagnames: conductivity, riffle, open-water, parent:conductivity
+author: donblair
+path: /wiki/conductivity_sensing.md
+nid: 13477
 uid: 43651
-tagnames: conductivity,riffle,open-water,parent:conductivity
+
 ---
 
 # conductivity_sensing
+
+by [donblair](../profile/donblair)
+
+September 24, 2016 01:43 | Tags: [conductivity](../tag/conductivity), [riffle](../tag/riffle), [open-water](../tag/open-water), [parent:conductivity](../tag/parent:conductivity)
 
 # DIY conductivity sensor designs
 

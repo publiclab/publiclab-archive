@@ -1,12 +1,18 @@
 ---
-nid: 23502
 title: Problem whit workbench spectra. Unable to manipulate(work) whit any image
-path: public/static/notes/damian_orovitz/04-28-2020/problem-whit-workbench-spectra-unable-to-manipulate-work-whit-any-image.md
+tagnames: spectrometer, spectrometry, spectral-workbench, question:spectrometer, question:spectrometry, question:spectral-workbench, first-time-poster
+author: damian_orovitz
+path: /notes/damian_orovitz/04-28-2020/problem-whit-workbench-spectra-unable-to-manipulate-work-whit-any-image.md
+nid: 23502
 uid: 682559
-tagnames: spectrometer,spectrometry,spectral-workbench,question:spectrometer,question:spectrometry,question:spectral-workbench,first-time-poster
+
 ---
 
 # Problem whit workbench spectra. Unable to manipulate(work) whit any image
+
+by [damian_orovitz](../profile/damian_orovitz) April 28, 2020 17:36
+
+April 28, 2020 17:36 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [spectral-workbench](../tag/spectral-workbench), [question:spectrometer](../tag/question:spectrometer), [question:spectrometry](../tag/question:spectrometry), [question:spectral-workbench](../tag/question:spectral-workbench), [first-time-poster](../tag/first-time-poster)
 
 Hi! My name is Damian.
 

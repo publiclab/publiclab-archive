@@ -1,12 +1,18 @@
 ---
-nid: 11196
 title: Options for Low-Cost LIDAR 
-path: public/static/notes/code4maine/09-28-2014/options-for-low-cost-lidar.md
+tagnames: sensors, lidar, opendronemap
+author: ajawitz
+path: /notes/code4maine/09-28-2014/options-for-low-cost-lidar.md
+nid: 11196
 uid: 294634
-tagnames: sensors,lidar,opendronemap
+
 ---
 
 # Options for Low-Cost LIDAR 
+
+by [ajawitz](../profile/ajawitz) September 28, 2014 15:58
+
+September 28, 2014 15:58 | Tags: [sensors](../tag/sensors), [lidar](../tag/lidar), [opendronemap](../tag/opendronemap)
 
 ###What I want to do
  I want to research the current availability of low-cost [LIDAR](http://en.wikipedia.org/wiki/Lidar) sensors and their potential integration into existing citizen science/grassroots mapping efforts.

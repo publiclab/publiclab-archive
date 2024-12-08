@@ -1,12 +1,18 @@
 ---
-nid: 13456
 title: Is there a water quality equivalent of Smoke School, the EPA air pollution observer certification?
-path: public/static/notes/warren/09-16-2016/is-there-a-water-quality-equivalent-of-smoke-school-the-epa-air-pollution-observer-certification.md
+tagnames: water-quality-monitoring, water-quality, turbidity, question:timelapse, smoke-school, question:water-quality, question:oil-and-gas
+author: warren
+path: /notes/warren/09-16-2016/is-there-a-water-quality-equivalent-of-smoke-school-the-epa-air-pollution-observer-certification.md
+nid: 13456
 uid: 1
-tagnames: water-quality-monitoring,water-quality,turbidity,question:timelapse,smoke-school,question:water-quality,question:oil-and-gas
+
 ---
 
 # Is there a water quality equivalent of Smoke School, the EPA air pollution observer certification?
+
+by [warren](../profile/warren) September 16, 2016 20:19
+
+September 16, 2016 20:19 | Tags: [water-quality-monitoring](../tag/water-quality-monitoring), [water-quality](../tag/water-quality), [turbidity](../tag/turbidity), [question:timelapse](../tag/question:timelapse), [smoke-school](../tag/smoke-school), [question:water-quality](../tag/question:water-quality), [question:oil-and-gas](../tag/question:oil-and-gas)
 
 ###What I want to do or know
 

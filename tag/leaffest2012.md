@@ -1,6 +1,6 @@
 # leaffest2012
 
-10 notes and wiki pages
+10 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [LEAFFEST Brainstorm: raspberry pi based dual webcam kit](/notes/warren/9-23-2012/leaffest-brainstorm-raspberry-pi-based-dual-webcam-kit) by [warren](../profile/warren)
 - [LEAFFEST brainstorm: raspberry pi based dual webcam kit](/notes/warren/9-23-2012/leaffest-brainstorm-raspberry-pi-based-dual-webcam-kit-0) by [warren](../profile/warren)

@@ -1,12 +1,18 @@
 ---
-nid: 1612
 title: Possible sensor for field calibration of photo test strips
-path: public/static/notes/megan/4-2-2012/possible-sensor-field-calibration-photo-test-strips.md
+tagnames: hydrogen-sulfide-sensing, hydrogen-sulfide, h2s, h2s-detector, hydrogen-sulfide-detection
+author: megan
+path: /notes/megan/4-2-2012/possible-sensor-field-calibration-photo-test-strips.md
+nid: 1612
 uid: 775
-tagnames: hydrogen-sulfide-sensing,hydrogen-sulfide,h2s,h2s-detector,hydrogen-sulfide-detection
+
 ---
 
 # Possible sensor for field calibration of photo test strips
+
+by [megan](../profile/megan) April 03, 2012 00:33
+
+April 03, 2012 00:33 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s), [h2s-detector](../tag/h2s-detector), [hydrogen-sulfide-detection](../tag/hydrogen-sulfide-detection)
 
 These hand held gas detectors are relatively inexpensive, around $200. It could possibly be used to test the relationship between the laboratory exposed strips and a field study. 
 

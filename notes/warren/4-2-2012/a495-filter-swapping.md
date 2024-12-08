@@ -1,12 +1,18 @@
 ---
-nid: 1600
 title: A495 filter swapping
-path: public/static/notes/warren/4-2-2012/a495-filter-swapping.md
-uid: 1
 tagnames: near-infrared-camera
+author: warren
+path: /notes/warren/4-2-2012/a495-filter-swapping.md
+nid: 1600
+uid: 1
+
 ---
 
 # A495 filter swapping
+
+by [warren](../profile/warren) April 02, 2012 16:37
+
+April 02, 2012 16:37 | Tags: [near-infrared-camera](../tag/near-infrared-camera)
 
 For the [near infrared camera](/tool/near-infrared-camera) mod with a Canon A495 camera, I wanted to record the size of the infrared-block filter that ships in the camera, so we can accurately cut replacement IR-pass filters. 
 

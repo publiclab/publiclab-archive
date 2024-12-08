@@ -1,12 +1,18 @@
 ---
-nid: 66
 title: NDVI and NRG
-path: public/static/wiki/ndvi.md
+tagnames: near-infrared-camera, ndvi, agriculture
+author: warren
+path: /wiki/ndvi.md
+nid: 66
 uid: 1
-tagnames: near-infrared-camera,ndvi,agriculture
+
 ---
 
 # NDVI and NRG
+
+by [warren](../profile/warren), [bhamster](../profile/bhamster), [stevie](../profile/stevie), [cfastie](../profile/cfastie), [mariakatosvich](../profile/mariakatosvich), [liz](../profile/liz), [gonzoearth](../profile/gonzoearth)
+
+January 28, 2011 17:06 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [agriculture](../tag/agriculture)
 
 NDVI stands for "Normalized Difference Vegetation Index". NRG stands for "Near-infrared / Red / Green". NDVI and NRG are both ways to visualize the amounts of infrared and other wavelengths of light reflected from vegetation. Because both these methods compare ratios of blue and red light absorbed versus green and IR light reflected, they can be used to evaluate the health of vegetation. It's a snapshot of how much photosynthesis is happening. This is helpful in assessing vegetative health or stress. (Read more here: https://www.agronomy.org/publications/jeq/articles/36/3/832) 
 

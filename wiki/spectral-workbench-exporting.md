@@ -1,12 +1,18 @@
 ---
-nid: 4213
 title: Spectral Workbench exporting
-path: public/static/wiki/spectral-workbench-exporting.md
+tagnames: spectrometer, spectralworkbench
+author: warren
+path: /wiki/spectral-workbench-exporting.md
+nid: 4213
 uid: 1
-tagnames: spectrometer,spectralworkbench
+
 ---
 
 # Spectral Workbench exporting
+
+by [warren](../profile/warren)
+
+October 05, 2012 20:25 | Tags: [spectrometer](../tag/spectrometer), [spectralworkbench](../tag/spectralworkbench)
 
 ###How to get data out of [Spectral Workbench](http://spectralworkbench)###
 

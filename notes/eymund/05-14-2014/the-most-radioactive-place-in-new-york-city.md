@@ -1,12 +1,18 @@
 ---
-nid: 10472
 title: The Most Radioactive Place in New York City
-path: public/static/notes/eymund/05-14-2014/the-most-radioactive-place-in-new-york-city.md
+tagnames: gowanus, superfund-site, queens, research, superfund, radiation, water, barnstar:basic, ridgewood, radioactive
+author: eymund
+path: /notes/eymund/05-14-2014/the-most-radioactive-place-in-new-york-city.md
+nid: 10472
 uid: 1016
-tagnames: gowanus,superfund-site,queens,research,superfund,radiation,water,barnstar:basic,ridgewood,radioactive
+
 ---
 
 # The Most Radioactive Place in New York City
+
+by [eymund](../profile/eymund) May 14, 2014 21:25
+
+May 14, 2014 21:25 | Tags: [gowanus](../tag/gowanus), [superfund-site](../tag/superfund-site), [queens](../tag/queens), [research](../tag/research), [superfund](../tag/superfund), [radiation](../tag/radiation), [water](../tag/water), [barnstar:basic](../tag/barnstar:basic), [ridgewood](../tag/ridgewood), [radioactive](../tag/radioactive)
 
 ###What I want to do
 Share Information about a radioactive site in Ridgewood, Queens

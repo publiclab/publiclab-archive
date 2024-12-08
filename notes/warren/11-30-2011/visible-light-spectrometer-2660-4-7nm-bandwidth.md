@@ -1,12 +1,18 @@
 ---
-nid: 600
 title: Visible-light spectrometer for $2,660, 4-7nm bandwidth
-path: public/static/notes/warren/11-30-2011/visible-light-spectrometer-2660-4-7nm-bandwidth.md
-uid: 1
 tagnames: spectrometer
+author: warren
+path: /notes/warren/11-30-2011/visible-light-spectrometer-2660-4-7nm-bandwidth.md
+nid: 600
+uid: 1
+
 ---
 
 # Visible-light spectrometer for $2,660, 4-7nm bandwidth
+
+by [warren](../profile/warren) December 01, 2011 01:38
+
+December 01, 2011 01:38 | Tags: [spectrometer](../tag/spectrometer)
 
 http://www.amazon.com/Visible-Spectrometer-Cuvette-Datalogger-Software/dp/B003NV6MLE
 

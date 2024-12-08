@@ -1,12 +1,18 @@
 ---
-nid: 18862
 title: Outreachy proposal: PublicLab.org UI Improvements
-path: public/static/notes/Getty/03-26-2019/outreachy-proposal-publiclab-org-ui-improvements.md
+tagnames: ui, outreachy, first-time-poster, outreachy-2019, outreachy-2019-proposals, lat:-1.406108, lon:36.914062
+author: Getty
+path: /notes/Getty/03-26-2019/outreachy-proposal-publiclab-org-ui-improvements.md
+nid: 18862
 uid: 580179
-tagnames: ui,outreachy,first-time-poster,outreachy-2019,outreachy-2019-proposals,lat:-1.406108,lon:36.914062
+
 ---
 
 # Outreachy proposal: PublicLab.org UI Improvements
+
+by [Getty](../profile/Getty) March 26, 2019 12:28
+
+March 26, 2019 12:28 | Tags: [ui](../tag/ui), [outreachy](../tag/outreachy), [first-time-poster](../tag/first-time-poster), [outreachy-2019](../tag/outreachy-2019), [outreachy-2019-proposals](../tag/outreachy-2019-proposals), [lat:-1.406108](../tag/lat:-1.406108), [lon:36.914062](../tag/lon:36.914062)
 
 About me  
 

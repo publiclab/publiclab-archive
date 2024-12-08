@@ -1,12 +1,18 @@
 ---
-nid: 11218
 title: Conductivity Results from 3 Water Samples
-path: public/static/notes/madelinebilis/10-01-2014/conductivity-results-from-3-water-samples.md
+tagnames: conductivity, open-water, coqui, response:11205, first-time-poster
+author: madelinebilis
+path: /notes/madelinebilis/10-01-2014/conductivity-results-from-3-water-samples.md
+nid: 11218
 uid: 428057
-tagnames: conductivity,open-water,coqui,response:11205,first-time-poster
+
 ---
 
 # Conductivity Results from 3 Water Samples
+
+by [madelinebilis](../profile/madelinebilis) October 01, 2014 02:36
+
+October 01, 2014 02:36 | Tags: [conductivity](../tag/conductivity), [open-water](../tag/open-water), [coqui](../tag/coqui), [response:11205](../tag/response:11205), [first-time-poster](../tag/first-time-poster)
 
 by Ariana Marini and Madeline Bilis<br>
 In reference to three water samples described in a [previous research note.](http://publiclab.org/notes/amarini/09-29-2014/collect-3-water-samples-for-testing)

@@ -1,12 +1,18 @@
 ---
-nid: 6157
 title: Vermont Winter Festival, Viewed from a Kite String
-path: public/static/notes/kalynrosenberg/3-1-2013/vermont-winter-festival-viewed-kite-string.md
+tagnames: kite-mapping, vermont, event, tac
+author: KalynRosenberg
+path: /notes/kalynrosenberg/3-1-2013/vermont-winter-festival-viewed-kite-string.md
+nid: 6157
 uid: 44895
-tagnames: kite-mapping,vermont,event,tac
+
 ---
 
 # Vermont Winter Festival, Viewed from a Kite String
+
+by [KalynRosenberg](../profile/KalynRosenberg) March 01, 2013 19:32
+
+March 01, 2013 19:32 | Tags: [kite-mapping](../tag/kite-mapping), [vermont](../tag/vermont), [event](../tag/event), [tac](../tag/tac)
 
 **A kite aerial photography field report**
 

@@ -1,6 +1,6 @@
 # pin-question:balloon-mapping
 
-4 notes and wiki pages
+4 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [What's the best way to attach a camera to a balloon?](/notes/warren/07-03-2017/what-s-the-best-way-to-attach-a-camera-to-a-balloon) by [warren](../profile/warren)
 - [Which is the wind speed range (maximum)  when mapping with balloon?  ](/notes/edugil/11-08-2017/which-is-the-wind-speed-range-when-using-when-mapping-with-balloon) by [edugil](../profile/edugil)

@@ -1,6 +1,6 @@
 # invasive
 
-13 notes and wiki pages
+13 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [WATERCHESTNUTS](/wiki/waterchestnuts) (wiki)
 - [WATERCHESTNUT Big Picture](/notes/cfastie/07-23-2013/waterchestnut-big-picture) by [cfastie](../profile/cfastie)

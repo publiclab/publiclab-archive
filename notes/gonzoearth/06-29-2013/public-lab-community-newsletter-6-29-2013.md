@@ -1,12 +1,18 @@
 ---
-nid: 8530
 title: Public Lab Community Newsletter 6.29.2013
-path: public/static/notes/gonzoearth/06-29-2013/public-lab-community-newsletter-6-29-2013.md
+tagnames: response:8141, newsletter, response:8399
+author: gonzoearth
+path: /notes/gonzoearth/06-29-2013/public-lab-community-newsletter-6-29-2013.md
+nid: 8530
 uid: 12
-tagnames: response:8141,newsletter,response:8399
+
 ---
 
 # Public Lab Community Newsletter 6.29.2013
+
+by [gonzoearth](../profile/gonzoearth) June 29, 2013 05:00
+
+June 29, 2013 05:00 | Tags: [response:8141](../tag/response:8141), [newsletter](../tag/newsletter), [response:8399](../tag/response:8399)
 
 See how the community is keeping busy in this edition of our newsletter. Summer has officially arrived in the Northern Hemisphere with the Summer Solstice occurring this week. With the outdoors in mind, we have put together several new kit bundles in the Public Lab Store. More on that and other current events below. 
  

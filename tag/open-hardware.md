@@ -1,6 +1,6 @@
 # open-hardware
 
-30 notes and wiki pages
+30 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Kits Initiative](/wiki/kits) (wiki)
 - [Open Source Licenses](/licenses) (wiki)

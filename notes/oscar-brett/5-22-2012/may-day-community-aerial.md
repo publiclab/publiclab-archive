@@ -1,12 +1,18 @@
 ---
-nid: 2163
 title: may day // community aerial
-path: public/static/notes/oscar-brett/5-22-2012/may-day-community-aerial.md
+tagnames: balloon-mapping, union-square, ows, occupy-wall-street, multiple-tethers, protest-mapping, diy-balloon, mayday
+author: oscarbrett
+path: /notes/oscar-brett/5-22-2012/may-day-community-aerial.md
+nid: 2163
 uid: 409
-tagnames: balloon-mapping,union-square,ows,occupy-wall-street,multiple-tethers,protest-mapping,diy-balloon,mayday
+
 ---
 
 # may day // community aerial
+
+by [oscarbrett](../profile/oscarbrett) May 22, 2012 04:24
+
+May 22, 2012 04:24 | Tags: [balloon-mapping](../tag/balloon-mapping), [union-square](../tag/union-square), [ows](../tag/ows), [occupy-wall-street](../tag/occupy-wall-street), [multiple-tethers](../tag/multiple-tethers), [protest-mapping](../tag/protest-mapping), [diy-balloon](../tag/diy-balloon), [mayday](../tag/mayday)
 
 <html>
 

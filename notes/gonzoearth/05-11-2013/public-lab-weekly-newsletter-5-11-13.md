@@ -1,12 +1,18 @@
 ---
-nid: 7441
 title: Public Lab Weekly Newsletter 5.11.13
-path: public/static/notes/gonzoearth/05-11-2013/public-lab-weekly-newsletter-5-11-13.md
+tagnames: newsletter, newsletter-archive
+author: gonzoearth
+path: /notes/gonzoearth/05-11-2013/public-lab-weekly-newsletter-5-11-13.md
+nid: 7441
 uid: 12
-tagnames: newsletter,newsletter-archive
+
 ---
 
 # Public Lab Weekly Newsletter 5.11.13
+
+by [gonzoearth](../profile/gonzoearth) May 11, 2013 17:49
+
+May 11, 2013 17:49 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
 
 ##Public Lab community weekly update##
 We're pleased to announce that the Public Lab nonprofit will be participating in the second class of the Points of Light civic accelerator: http://venturebeat.com/2013/05/10/10-startups-put-civic-lens-on-tech-to-drive-change-in-communities/

@@ -1,12 +1,18 @@
 ---
-nid: 14806
 title: Harvey Response
-path: public/static/wiki/harvey.md
+tagnames: hurricane, coordinating, disaster-response, harvey, hurricanes, storms, harvey-response, ajustharveyrecovery
+author: warren
+path: /wiki/harvey.md
+nid: 14806
 uid: 1
-tagnames: hurricane,coordinating,disaster-response,harvey,hurricanes,storms,harvey-response,ajustharveyrecovery
+
 ---
 
 # Harvey Response
+
+by [warren](../profile/warren), [zengirl2](../profile/zengirl2), [liz](../profile/liz)
+
+August 31, 2017 15:09 | Tags: [hurricane](../tag/hurricane), [coordinating](../tag/coordinating), [disaster-response](../tag/disaster-response), [harvey](../tag/harvey), [hurricanes](../tag/hurricanes), [storms](../tag/storms), [harvey-response](../tag/harvey-response), [ajustharveyrecovery](../tag/ajustharveyrecovery)
 
 A resources collecting page for Hurricane Harvey response; we are **not** an emergency service provider, but non-emergency **questions, requests, inquiries, report-ins, offers of help or capacity are welcome**. We are also maintaining a list of [places to donate to](#donate).
 

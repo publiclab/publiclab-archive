@@ -1,12 +1,18 @@
 ---
-nid: 11238
 title: Efficiency of Landfill Gas Collection 
-path: public/static/notes/beyondlandfilling/10-06-2014/efficiency-of-landfill-gas-collection.md
-uid: 429454
 tagnames: 
+author: beyondlandfilling
+path: /notes/beyondlandfilling/10-06-2014/efficiency-of-landfill-gas-collection.md
+nid: 11238
+uid: 429454
+
 ---
 
 # Efficiency of Landfill Gas Collection 
+
+by [beyondlandfilling](../profile/beyondlandfilling) October 06, 2014 16:04
+
+October 06, 2014 16:04 | Tags: 
 
 Your methane mapping of landfill ideas are excellent, especially because the industry and EPA's waste office, which is dominated by the large waste companies, claim without any factual basis very high capture rates for the gas collection systems used in landfills in the range of 78% to 95%.
 

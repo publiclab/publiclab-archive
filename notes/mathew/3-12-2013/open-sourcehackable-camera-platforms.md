@@ -1,12 +1,18 @@
 ---
-nid: 6311
 title: Open Source/hackable Camera platforms
-path: public/static/notes/mathew/3-12-2013/open-sourcehackable-camera-platforms.md
+tagnames: infrared, ircam, infrared-camera, cameras
+author: mathew
+path: /notes/mathew/3-12-2013/open-sourcehackable-camera-platforms.md
+nid: 6311
 uid: 4
-tagnames: infrared,ircam,infrared-camera,cameras
+
 ---
 
 # Open Source/hackable Camera platforms
+
+by [mathew](../profile/mathew) March 13, 2013 02:10
+
+March 13, 2013 02:10 | Tags: [infrared](../tag/infrared), [ircam](../tag/ircam), [infrared-camera](../tag/infrared-camera), [cameras](../tag/cameras)
 
 ###Stand alone###
 <b>kind of affordable</b>

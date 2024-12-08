@@ -1,12 +1,18 @@
 ---
-nid: 13981
 title: Choose a way to make your camera take pictures continuously
-path: public/static/notes/liz/03-01-2017/set-your-camera-to-take-pictures-continuously.md
+tagnames: activity:balloon-mapping, activity:publiclabriverratpack, activity:bourjalshamali, pin:activity:balloon-mapping
+author: liz
+path: /notes/liz/03-01-2017/set-your-camera-to-take-pictures-continuously.md
+nid: 13981
 uid: 7
-tagnames: activity:balloon-mapping,activity:publiclabriverratpack,activity:bourjalshamali,pin:activity:balloon-mapping
+
 ---
 
 # Choose a way to make your camera take pictures continuously
+
+by [liz](../profile/liz) March 01, 2017 22:00
+
+March 01, 2017 22:00 | Tags: [activity:balloon-mapping](../tag/activity:balloon-mapping), [activity:publiclabriverratpack](../tag/activity:publiclabriverratpack), [activity:bourjalshamali](../tag/activity:bourjalshamali), [pin:activity:balloon-mapping](../tag/pin:activity:balloon-mapping)
 
 _Reposted from [https://publiclab.org/wiki/balloon-mapping-materials](https://publiclab.org/wiki/balloon-mapping-materials)_
 

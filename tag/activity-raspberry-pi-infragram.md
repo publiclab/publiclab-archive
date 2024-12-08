@@ -1,6 +1,6 @@
 # activity-raspberry-pi-infragram
 
-11 notes and wiki pages
+11 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Removing a Raspberry Pi camera IR filter (learn from my mistakes)](/notes/mathew/06-04-2013/removing-a-raspberry-pi-camera-ir-filter-learn-from-my-mistakes) by [mathew](../profile/mathew)
 - [Raspberry Pi Camera Rig](/notes/SeanKMcGinnis/03-12-2014/raspberry-pi-camera-rig) by [seankmcginnis](../profile/seankmcginnis)

@@ -1,12 +1,18 @@
 ---
-nid: 16019
 title: Turbidity Sensor Assembly
-path: public/static/notes/MadTinker/03-26-2018/turbidity-sensor-assembly.md
+tagnames: water-quality, turbidity, datalogger, data-logging, mini-pearl
+author: MadTinker
+path: /notes/MadTinker/03-26-2018/turbidity-sensor-assembly.md
+nid: 16019
 uid: 461206
-tagnames: water-quality,turbidity,datalogger,data-logging,mini-pearl
+
 ---
 
 # Turbidity Sensor Assembly
+
+by [MadTinker](../profile/MadTinker) March 26, 2018 17:44
+
+March 26, 2018 17:44 | Tags: [water-quality](../tag/water-quality), [turbidity](../tag/turbidity), [datalogger](../tag/datalogger), [data-logging](../tag/data-logging), [mini-pearl](../tag/mini-pearl)
 
 **Abstract**
 

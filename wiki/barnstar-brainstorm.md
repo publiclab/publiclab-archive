@@ -1,12 +1,18 @@
 ---
-nid: 10275
 title: barnstar-brainstorm
-path: public/static/wiki/barnstar-brainstorm.md
-uid: 1
 tagnames: barnstars
+author: warren
+path: /wiki/barnstar-brainstorm.md
+nid: 10275
+uid: 1
+
 ---
 
 # barnstar-brainstorm
+
+by [liz](../profile/liz), [cfastie](../profile/cfastie), [warren](../profile/warren)
+
+April 07, 2014 18:30 | Tags: [barnstars](../tag/barnstars)
 
 ###Barnstar Template
 Use this large PNG as a template! It has a transparent background and it wants to be adorned with only the finest accessories. Click the star, then right click the image and save as to download it locally.

@@ -1,12 +1,18 @@
 ---
-nid: 13274
 title: Question: doubts about processing NIR images.
-path: public/static/notes/ahcalori/07-09-2016/question-doubts-about-processing-nir-images.md
+tagnames: ndvi, nir, image-processing
+author: ahcalori
+path: /notes/ahcalori/07-09-2016/question-doubts-about-processing-nir-images.md
+nid: 13274
 uid: 476358
-tagnames: ndvi,nir,image-processing
+
 ---
 
 # Question: doubts about processing NIR images.
+
+by [ahcalori](../profile/ahcalori) July 09, 2016 16:43
+
+July 09, 2016 16:43 | Tags: [ndvi](../tag/ndvi), [nir](../tag/nir), [image-processing](../tag/image-processing)
 
 Hi, 
 

@@ -1,6 +1,6 @@
 # amherst-media
 
-8 notes and wiki pages
+8 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [GPS tracking device](/wiki/gps-tracking-device) (wiki)
 - [Balloon mapping of local invasive species and town mapping ](/wiki/balloon-mapping-of-local-invasive-species-and-town-mapping) (wiki)

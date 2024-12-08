@@ -1,12 +1,18 @@
 ---
-nid: 11456
 title: Public Lab community newsletter 12.14.14
-path: public/static/notes/Shannon/12-14-2014/public-lab-community-newsletter-12-14-14.md
+tagnames: newsletter, newsletter-archive
+author: Shannon
+path: /notes/Shannon/12-14-2014/public-lab-community-newsletter-12-14-14.md
+nid: 11456
 uid: 9
-tagnames: newsletter,newsletter-archive
+
 ---
 
 # Public Lab community newsletter 12.14.14
+
+by [Shannon](../profile/Shannon) December 14, 2014 13:33
+
+December 14, 2014 13:33 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
 
 This week in the Public Lab community newsletter, read an article from ProPublica on mapping land loss in Louisiana, take a look at the new foldable spectrometer design and check out the MultispeQ beta, coming soon. Enjoy!
 

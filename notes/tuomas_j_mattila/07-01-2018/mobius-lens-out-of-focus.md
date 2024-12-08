@@ -1,12 +1,18 @@
 ---
-nid: 16601
 title: Mobius lens out of focus
-path: public/static/notes/tuomas_j_mattila/07-01-2018/mobius-lens-out-of-focus.md
-uid: 539737
 tagnames: question:general
+author: tuomas_j_mattila
+path: /notes/tuomas_j_mattila/07-01-2018/mobius-lens-out-of-focus.md
+nid: 16601
+uid: 539737
+
 ---
 
 # Mobius lens out of focus
+
+by [tuomas_j_mattila](../profile/tuomas_j_mattila) July 01, 2018 18:35
+
+July 01, 2018 18:35 | Tags: [question:general](../tag/question:general)
 
 I got the new NDVI modified lens, but cannot get it into focus. If I 
 screw it tight against the body of the camera, it's still too long. If I

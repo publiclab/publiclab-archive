@@ -1,11 +1,17 @@
 ---
-nid: 16328
 title: Microscope
-path: public/static/wiki/microscope.md
-uid: 1
 tagnames: 
+author: warren
+path: /wiki/microscope.md
+nid: 16328
+uid: 1
+
 ---
 
 # Microscope
+
+by [warren](../profile/warren)
+
+May 11, 2018 13:13 | Tags: 
 
 Placeholder!

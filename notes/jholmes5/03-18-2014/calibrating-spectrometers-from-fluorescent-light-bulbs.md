@@ -1,12 +1,18 @@
 ---
-nid: 10197
 title: Calibrating Spectrometers from fluorescent light bulbs
-path: public/static/notes/jholmes5/03-18-2014/calibrating-spectrometers-from-fluorescent-light-bulbs.md
+tagnames: new-york-city, spectrometer, calibration, troubleshooting, spectrometry, laser, overexposure, response:10190
+author: jholmes5
+path: /notes/jholmes5/03-18-2014/calibrating-spectrometers-from-fluorescent-light-bulbs.md
+nid: 10197
 uid: 133222
-tagnames: new-york-city,spectrometer,calibration,troubleshooting,spectrometry,laser,overexposure,response:10190
+
 ---
 
 # Calibrating Spectrometers from fluorescent light bulbs
+
+by [jholmes5](../profile/jholmes5) March 18, 2014 01:55
+
+March 18, 2014 01:55 | Tags: [new-york-city](../tag/new-york-city), [spectrometer](../tag/spectrometer), [calibration](../tag/calibration), [troubleshooting](../tag/troubleshooting), [spectrometry](../tag/spectrometry), [laser](../tag/laser), [overexposure](../tag/overexposure), [response:10190](../tag/response:10190)
 
 I was at the Spectrometry Workshop in Brooklyn on Sunday and we were trying to follow the directions for calibrating the Spectrometers from fluorescent light bulbs. 
 

@@ -1,12 +1,18 @@
 ---
-nid: 10673
 title: GSoC Update- Using 3d transformations on objects inside html canvas.
-path: public/static/notes/anishshah101/07-10-2014/gsoc-update-using-3d-transformations-on-objects-inside-html-canvas.md
+tagnames: mapknitter, gsoc, developers, gsoc-2014
+author: anishshah101
+path: /notes/anishshah101/07-10-2014/gsoc-update-using-3d-transformations-on-objects-inside-html-canvas.md
+nid: 10673
 uid: 421046
-tagnames: mapknitter,gsoc,developers,gsoc-2014
+
 ---
 
 # GSoC Update- Using 3d transformations on objects inside html canvas.
+
+by [anishshah101](../profile/anishshah101) July 10, 2014 19:34
+
+July 10, 2014 19:34 | Tags: [mapknitter](../tag/mapknitter), [gsoc](../tag/gsoc), [developers](../tag/developers), [gsoc-2014](../tag/gsoc-2014)
 
 In my previous update I had suggested 2 possibilities of incorporating 3d transformations on objects inside canvas in a manner similar to the one applied on divs.
 

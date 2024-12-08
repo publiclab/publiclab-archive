@@ -1,12 +1,18 @@
 ---
-nid: 12134
 title: Comparing different filters for making NDVI images using the calibration plugin
-path: public/static/notes/nedhorning/08-10-2015/comparing-different-filters-for-making-ndvi-images-using-the-calibration-plugin.md
+tagnames: ndvi-calibrate, midopt
+author: nedhorning
+path: /notes/nedhorning/08-10-2015/comparing-different-filters-for-making-ndvi-images-using-the-calibration-plugin.md
+nid: 12134
 uid: 133
-tagnames: ndvi-calibrate,midopt
+
 ---
 
 # Comparing different filters for making NDVI images using the calibration plugin
+
+by [nedhorning](../profile/nedhorning) August 10, 2015 21:30
+
+August 10, 2015 21:30 | Tags: [ndvi-calibrate](../tag/ndvi-calibrate), [midopt](../tag/midopt)
 
 This research note compares four different filters using the new calibration capabilities in the photo monitoring plugin: http://publiclab.org/notes/nedhorning/07-22-2015/introducing-the-calibration-plugin-for-imagej-fiji
 

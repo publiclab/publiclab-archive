@@ -1,12 +1,18 @@
 ---
-nid: 14956
 title: Requests
-path: public/static/wiki/requests.md
+tagnames: community, requests
+author: warren
+path: /wiki/requests.md
+nid: 14956
 uid: 1
-tagnames: community,requests
+
 ---
 
 # Requests
+
+by [warren](../profile/warren)
+
+September 26, 2017 14:45 | Tags: [community](../tag/community), [requests](../tag/requests)
 
 This page lists recent and urgent requests of all kinds across the Public Lab network, for those looking to pitch in on others' projects and needs.  
 

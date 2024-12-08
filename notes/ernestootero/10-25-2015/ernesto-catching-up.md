@@ -1,12 +1,18 @@
 ---
-nid: 12332
 title: Ernesto. Catching up.
-path: public/static/notes/ernestootero/10-25-2015/ernesto-catching-up.md
+tagnames: oil, kit, testing, first-time-poster
+author: ernestootero
+path: /notes/ernestootero/10-25-2015/ernesto-catching-up.md
+nid: 12332
 uid: 447002
-tagnames: oil,kit,testing,first-time-poster
+
 ---
 
 # Ernesto. Catching up.
+
+by [ernestootero](../profile/ernestootero) October 25, 2015 01:52
+
+October 25, 2015 01:52 | Tags: [oil](../tag/oil), [kit](../tag/kit), [testing](../tag/testing), [first-time-poster](../tag/first-time-poster)
 
 A summary of activity.
 Openned Kit on 30 September 2015

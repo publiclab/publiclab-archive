@@ -1,6 +1,6 @@
 # outreachy-2022
 
-46 notes and wiki pages
+46 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Call for Proposals: Outreachy Summer 2022](/notes/cess/04-04-2022/call-for-proposals-outreachy-summer-2022) by [cess](../profile/cess)
 - [Outreachy proposal: Design a new full-screen user interface for Infragram.org](/notes/stefq1111/04-08-2022/outreachy-proposal) by [stefq1111](../profile/stefq1111)

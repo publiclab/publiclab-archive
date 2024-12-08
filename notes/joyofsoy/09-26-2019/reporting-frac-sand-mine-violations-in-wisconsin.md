@@ -1,12 +1,18 @@
 ---
-nid: 21012
 title: Reporting frac sand mine violations in Wisconsin
-path: public/static/notes/joyofsoy/09-26-2019/reporting-frac-sand-mine-violations-in-wisconsin.md
+tagnames: wisconsin, air-quality, blog, fracking, frac-sand, parent:frac-sand, oil-and-gas, purpleair, frac-sand-reporting, lat:44.292401, lon:-90.856933
+author: joyofsoy
+path: /notes/joyofsoy/09-26-2019/reporting-frac-sand-mine-violations-in-wisconsin.md
+nid: 21012
 uid: 540844
-tagnames: wisconsin,air-quality,blog,fracking,frac-sand,parent:frac-sand,oil-and-gas,purpleair,frac-sand-reporting,lat:44.292401,lon:-90.856933
+
 ---
 
 # Reporting frac sand mine violations in Wisconsin
+
+by [joyofsoy](../profile/joyofsoy) September 26, 2019 18:51
+
+September 26, 2019 18:51 | Tags: [wisconsin](../tag/wisconsin), [air-quality](../tag/air-quality), [blog](../tag/blog), [fracking](../tag/fracking), [frac-sand](../tag/frac-sand), [parent:frac-sand](../tag/parent:frac-sand), [oil-and-gas](../tag/oil-and-gas), [purpleair](../tag/purpleair), [frac-sand-reporting](../tag/frac-sand-reporting), [lat:44.292401](../tag/lat:44.292401), [lon:-90.856933](../tag/lon:-90.856933)
 
 Last month, I joined Public Lab’s Director of Community Development, Stevie Lewis (@stevie), for a pair of workshops in southeast Wisconsin for people impacted by the frac sand mining industry. Along with local environmental activists Pat Popple (@pat) and Sheila Danielson, we walked community members through the process of reporting violations by the frac sand industry. These materials are collected [here][1] for the public.
  

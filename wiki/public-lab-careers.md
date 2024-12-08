@@ -1,12 +1,18 @@
 ---
-nid: 27206
 title: Public Lab Careers
-path: public/static/wiki/public-lab-careers.md
+tagnames: staff, jobs, fellowships, careers
+author: thewrightjess
+path: /wiki/public-lab-careers.md
+nid: 27206
 uid: 603909
-tagnames: staff,jobs,fellowships,careers
+
 ---
 
 # Public Lab Careers
+
+by [thewrightjess](../profile/thewrightjess), [stevie](../profile/stevie), [jmacha](../profile/jmacha)
+
+July 20, 2021 21:05 | Tags: [staff](../tag/staff), [jobs](../tag/jobs), [fellowships](../tag/fellowships), [careers](../tag/careers)
 
 #### Current Openings 
 

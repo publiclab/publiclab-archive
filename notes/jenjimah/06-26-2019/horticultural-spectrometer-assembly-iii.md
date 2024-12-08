@@ -1,12 +1,18 @@
 ---
-nid: 19864
 title: Horticultural Spectrometer - Assembly III
-path: public/static/notes/jenjimah/06-26-2019/horticultural-spectrometer-assembly-iii.md
+tagnames: spectrometer, raspberry-pi, barnstar:basic, lego-spectrometer
+author: jenjimah
+path: /notes/jenjimah/06-26-2019/horticultural-spectrometer-assembly-iii.md
+nid: 19864
 uid: 505738
-tagnames: spectrometer,raspberry-pi,barnstar:basic,lego-spectrometer
+
 ---
 
 # Horticultural Spectrometer - Assembly III
+
+by [jenjimah](../profile/jenjimah) June 25, 2019 23:40
+
+June 25, 2019 23:40 | Tags: [spectrometer](../tag/spectrometer), [raspberry-pi](../tag/raspberry-pi), [barnstar:basic](../tag/barnstar:basic), [lego-spectrometer](../tag/lego-spectrometer)
 
 This is the final assembly post based on the [Horticultural Spectrometer Upgrade - Planning](https://publiclab.org/notes/jenjimah/04-07-2019/horticultural-spectroscope-upgrade-planning) project.
 

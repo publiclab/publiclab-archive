@@ -1,6 +1,6 @@
 # pascagoula
 
-5 notes and wiki pages
+5 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Mississippi Phosphates: Better air for Alice](/notes/stevie/05-23-2014/mississippi-phosphates-better-air-for-alice) by [stevie](../profile/stevie)
 - [MapKnitter map of Bayou Casotte on a calm, sunny day](/notes/eustatic/11-14-2017/mapknitter-map-of-bayou-casotte-on-a-calm-sunny-day) by [eustatic](../profile/eustatic)

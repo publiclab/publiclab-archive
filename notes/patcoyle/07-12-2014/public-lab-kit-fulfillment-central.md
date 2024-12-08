@@ -1,12 +1,18 @@
 ---
-nid: 10681
 title: Public Lab Kit Fulfillment Central
-path: public/static/notes/patcoyle/07-12-2014/public-lab-kit-fulfillment-central.md
+tagnames: portland, kits, staff, portland-oregon
+author: patcoyle
+path: /notes/patcoyle/07-12-2014/public-lab-kit-fulfillment-central.md
+nid: 10681
 uid: 77
-tagnames: portland,kits,staff,portland-oregon
+
 ---
 
 # Public Lab Kit Fulfillment Central
+
+by [patcoyle](../profile/patcoyle) July 12, 2014 05:42
+
+July 12, 2014 05:42 | Tags: [portland](../tag/portland), [kits](../tag/kits), [staff](../tag/staff), [portland-oregon](../tag/portland-oregon)
 
 ###What I want to do
 

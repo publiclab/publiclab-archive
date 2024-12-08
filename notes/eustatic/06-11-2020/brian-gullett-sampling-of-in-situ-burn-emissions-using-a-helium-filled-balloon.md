@@ -1,12 +1,18 @@
 ---
-nid: 23822
 title: Brian Gullett, Sampling of in situ burn emissions using a helium-filled balloon:
-path: public/static/notes/eustatic/06-11-2020/brian-gullett-sampling-of-in-situ-burn-emissions-using-a-helium-filled-balloon.md
+tagnames: balloon-mapping, air-quality, water-quality, aerostat, zoom:7, oil-response, lat:28.67131, lon:-87.977615
+author: eustatic
+path: /06-11-2020/brian-gullett-sampling-of-in-situ-burn-emissions-using-a-helium-filled-balloon.md
+nid: 23822
 uid: 379
-tagnames: balloon-mapping,air-quality,water-quality,aerostat,zoom:7,oil-response,lat:28.67131,lon:-87.977615
+
 ---
 
 # Brian Gullett, Sampling of in situ burn emissions using a helium-filled balloon:
+
+by [eustatic](../profile/eustatic) June 11, 2020 23:42
+
+June 11, 2020 23:42 | Tags: [balloon-mapping](../tag/balloon-mapping), [air-quality](../tag/air-quality), [water-quality](../tag/water-quality), [aerostat](../tag/aerostat), [zoom:7](../tag/zoom:7), [oil-response](../tag/oil-response), [lat:28.67131](../tag/lat:28.67131), [lon:-87.977615](../tag/lon:-87.977615)
 
 This is a reference post for USEPA pilot Brian Gullett, PhD. 
 

@@ -1,12 +1,18 @@
 ---
-nid: 13976
 title: Calculating volume from ground level photos?
-path: public/static/notes/warren/02-28-2017/calculating-volume-from-ground-level-photos.md
+tagnames: sfm, timelapse, volume, answered, sand-mining, question:sfm
+author: warren
+path: /notes/warren/02-28-2017/calculating-volume-from-ground-level-photos.md
+nid: 13976
 uid: 1
-tagnames: sfm,timelapse,volume,answered,sand-mining,question:sfm
+
 ---
 
 # Calculating volume from ground level photos?
+
+by [warren](../profile/warren) February 28, 2017 22:00
+
+February 28, 2017 22:00 | Tags: [sfm](../tag/sfm), [timelapse](../tag/timelapse), [volume](../tag/volume), [answered](../tag/answered), [sand-mining](../tag/sand-mining), [question:sfm](../tag/question:sfm)
 
 @glennwalquist (who shared the above picture) has been [monitoring a sand mine site using a timelapse camera](https://publiclab.org/notes/glennwalquist/12-04-2016/monitoring-sargent-sand-mining-operation-in-ludington-michigan#comments), but says:
 

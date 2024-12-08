@@ -1,12 +1,18 @@
 ---
-nid: 17507
 title: Water Monitoring Network
-path: public/static/notes/roberts_ecofarm/11-13-2018/water-monitoring-network.md
+tagnames: sensors, water-quality, soil-moisture, mid-west, issue-brief, ohio, water-monitoring-network, data-loggers, project:water-quality
+author: roberts_ecofarm
+path: /notes/roberts_ecofarm/11-13-2018/water-monitoring-network.md
+nid: 17507
 uid: 556121
-tagnames: sensors,water-quality,soil-moisture,mid-west,issue-brief,ohio,water-monitoring-network,data-loggers,project:water-quality
+
 ---
 
 # Water Monitoring Network
+
+by [roberts_ecofarm](../profile/roberts_ecofarm) November 10, 2018 16:11
+
+November 10, 2018 16:11 | Tags: [sensors](../tag/sensors), [water-quality](../tag/water-quality), [soil-moisture](../tag/soil-moisture), [mid-west](../tag/mid-west), [issue-brief](../tag/issue-brief), [ohio](../tag/ohio), [water-monitoring-network](../tag/water-monitoring-network), [data-loggers](../tag/data-loggers), [project:water-quality](../tag/project:water-quality)
 
 ### 
 

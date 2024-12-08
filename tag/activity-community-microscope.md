@@ -1,6 +1,6 @@
 # activity-community-microscope
 
-15 notes and wiki pages
+15 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Calibrating a Microscope](/notes/mathew/08-23-2016/calibrating-a-microscope) by [mathew](../profile/mathew)
 - [Looking at Dust (and other things)](/notes/partsandcrafts/02-26-2018/6-looking-at-dust-and-other-things) by [partsandcrafts](../profile/partsandcrafts)

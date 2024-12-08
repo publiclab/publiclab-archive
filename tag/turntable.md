@@ -1,6 +1,6 @@
 # turntable
 
-2 notes and wiki pages
+2 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Steps towards DIY Spectrometry](/notes/warren/9-6-2011/steps-towards-diy-spectrometry) by [warren](../profile/warren)
 - [Fanciful "turntable spectrometer"](/notes/warren/05-05-2013/fanciful-turntable-spectrometer) by [warren](../profile/warren)

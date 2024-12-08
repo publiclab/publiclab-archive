@@ -1,12 +1,18 @@
 ---
-nid: 6437
 title: Re-presenting preliminary Air Quality Egg data
-path: public/static/notes/liz/3-19-2013/re-presenting-preliminary-air-quality-egg-data.md
+tagnames: new-york-city, chaq, air-quality, air-quality-egg
+author: liz
+path: /notes/liz/3-19-2013/re-presenting-preliminary-air-quality-egg-data.md
+nid: 6437
 uid: 7
-tagnames: new-york-city,chaq,air-quality,air-quality-egg
+
 ---
 
 # Re-presenting preliminary Air Quality Egg data
+
+by [liz](../profile/liz) March 19, 2013 19:28
+
+March 19, 2013 19:28 | Tags: [new-york-city](../tag/new-york-city), [chaq](../tag/chaq), [air-quality](../tag/air-quality), [air-quality-egg](../tag/air-quality-egg)
 
 For the first month, the Air Quality Eggs have been collecting readings every minute of basic weather data -- temperature and humidity. They are also collecting raw VOC readings, but the units and relative range of that data is not well understood at this time so we are not yet using it. 
 

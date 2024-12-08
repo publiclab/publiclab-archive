@@ -1,12 +1,18 @@
 ---
-nid: 10145
 title: Auto Knitting enhancement usefulness and implementation.
-path: public/static/notes/xvidun/03-08-2014/auto-knitting-enhancement-usefulness-and-implementation.md
+tagnames: mapknitter, gsoc, auto-knitting, exif
+author: xvidun
+path: /notes/xvidun/03-08-2014/auto-knitting-enhancement-usefulness-and-implementation.md
+nid: 10145
 uid: 421168
-tagnames: mapknitter,gsoc,auto-knitting,exif
+
 ---
 
 # Auto Knitting enhancement usefulness and implementation.
+
+by [xvidun](../profile/xvidun) March 08, 2014 20:13
+
+March 08, 2014 20:13 | Tags: [mapknitter](../tag/mapknitter), [gsoc](../tag/gsoc), [auto-knitting](../tag/auto-knitting), [exif](../tag/exif)
 
 Recently I have been working on a proposal for adding the auto knitting feature to mapknitter, thanks to Chris for most of the tips and suggestions.
 

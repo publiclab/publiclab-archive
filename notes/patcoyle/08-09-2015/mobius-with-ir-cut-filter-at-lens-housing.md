@@ -1,12 +1,18 @@
 ---
-nid: 12126
 title: Mobius with IR cut filter at lens housing 
-path: public/static/notes/patcoyle/08-09-2015/mobius-with-ir-cut-filter-at-lens-housing.md
+tagnames: mobius-actioncam, infragram-point-shoot, non-fish-eye
+author: patcoyle
+path: /notes/patcoyle/08-09-2015/mobius-with-ir-cut-filter-at-lens-housing.md
+nid: 12126
 uid: 77
-tagnames: mobius-actioncam,infragram-point-shoot,non-fish-eye
+
 ---
 
 # Mobius with IR cut filter at lens housing 
+
+by [patcoyle](../profile/patcoyle) August 09, 2015 01:32
+
+August 09, 2015 01:32 | Tags: [mobius-actioncam](../tag/mobius-actioncam), [infragram-point-shoot](../tag/infragram-point-shoot), [non-fish-eye](../tag/non-fish-eye)
 
 ###What I want to do
 

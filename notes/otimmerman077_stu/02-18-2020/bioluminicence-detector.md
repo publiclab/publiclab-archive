@@ -1,12 +1,18 @@
 ---
-nid: 22841
 title: Bioluminescence Detector
-path: public/static/notes/otimmerman077_stu/02-18-2020/bioluminicence-detector.md
+tagnames: arduino, water-sensing, sensors, first-time-poster, wateristic, with:amallozzi, zoom:6, lat:29.935895, lon:-90.109863, bioluminescence
+author: otimmerman077_stu
+path: /notes/otimmerman077_stu/02-18-2020/bioluminicence-detector.md
+nid: 22841
 uid: 626363
-tagnames: arduino,water-sensing,sensors,first-time-poster,wateristic,with:amallozzi,zoom:6,lat:29.935895,lon:-90.109863,bioluminescence
+
 ---
 
 # Bioluminescence Detector
+
+by [otimmerman077_stu](../profile/otimmerman077_stu) February 18, 2020 05:24
+
+February 18, 2020 05:24 | Tags: [arduino](../tag/arduino), [water-sensing](../tag/water-sensing), [sensors](../tag/sensors), [first-time-poster](../tag/first-time-poster), [wateristic](../tag/wateristic), [with:amallozzi](../tag/with:amallozzi), [zoom:6](../tag/zoom:6), [lat:29.935895](../tag/lat:29.935895), [lon:-90.109863](../tag/lon:-90.109863), [bioluminescence](../tag/bioluminescence)
 
 [Omari\_Timmerman\_-\_District\_Poster\_2020.pdf](/i/38180.pdf)
 

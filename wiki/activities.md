@@ -1,12 +1,18 @@
 ---
-nid: 9060
 title: Learn about Activities
-path: public/static/wiki/activities.md
+tagnames: education, curriculum, needs-revision, activity, activity-grids, activities, sidebar:none, activity:website
+author: liz
+path: /wiki/activities.md
+nid: 9060
 uid: 7
-tagnames: education,curriculum,needs-revision,activity,activity-grids,activities,sidebar:none,activity:website
+
 ---
 
 # Learn about Activities
+
+by [warren](../profile/warren), [sagarpreet](../profile/sagarpreet), [liz](../profile/liz), [sara](../profile/sara), [hagitkeysar](../profile/hagitkeysar)
+
+August 27, 2013 20:39 | Tags: [education](../tag/education), [curriculum](../tag/curriculum), [needs-revision](../tag/needs-revision), [activity](../tag/activity), [activity-grids](../tag/activity-grids), [activities](../tag/activities), [sidebar:none](../tag/sidebar:none), [activity:website](../tag/activity:website)
 
 Our new [activities system](https://publiclab.org/notes/liz/08-30-2016/check-out-these-activity-grids) is an easy way to find step-by-step activities built on Public Lab tools and techniques. 
 

@@ -1,12 +1,18 @@
 ---
-nid: 13454
 title: What's the best way to archive/store a timelapse video?
-path: public/static/notes/warren/09-16-2016/what-s-the-best-way-to-archive-store-a-timelapse-video.md
+tagnames: photo-monitoring, timelapse, question:timelapse, method82, smoke-school, question:evidence, question:legal, law-and-policy, question:law-and-policy
+author: warren
+path: /notes/warren/09-16-2016/what-s-the-best-way-to-archive-store-a-timelapse-video.md
+nid: 13454
 uid: 1
-tagnames: photo-monitoring,timelapse,question:timelapse,method82,smoke-school,question:evidence,question:legal,law-and-policy,question:law-and-policy
+
 ---
 
 # What's the best way to archive/store a timelapse video?
+
+by [warren](../profile/warren) September 16, 2016 18:48
+
+September 16, 2016 18:48 | Tags: [photo-monitoring](../tag/photo-monitoring), [timelapse](../tag/timelapse), [question:timelapse](../tag/question:timelapse), [method82](../tag/method82), [smoke-school](../tag/smoke-school), [question:evidence](../tag/question:evidence), [question:legal](../tag/question:legal), [law-and-policy](../tag/law-and-policy), [question:law-and-policy](../tag/question:law-and-policy)
 
 As folks are looking at #timelapse photography as a means to document environmental problems like water contamination, I've heard people ask what's the best way to store these images (or often videos) 
 

@@ -1,12 +1,18 @@
 ---
-nid: 12670
 title: Plant health NDVI Red vs Blue filter
-path: public/static/notes/Claytonb/02-08-2016/plant-health-ndvi-red-vs-blue-filter.md
+tagnames: ndvi, calibration, infrared, infragram, wratten25a, super-red, red-vs-blue, response:9717
+author: Claytonb
+path: /notes/Claytonb/02-08-2016/plant-health-ndvi-red-vs-blue-filter.md
+nid: 12670
 uid: 460246
-tagnames: ndvi,calibration,infrared,infragram,wratten25a,super-red,red-vs-blue,response:9717
+
 ---
 
 # Plant health NDVI Red vs Blue filter
+
+by [Claytonb](../profile/Claytonb) February 08, 2016 17:50
+
+February 08, 2016 17:50 | Tags: [ndvi](../tag/ndvi), [calibration](../tag/calibration), [infrared](../tag/infrared), [infragram](../tag/infragram), [wratten25a](../tag/wratten25a), [super-red](../tag/super-red), [red-vs-blue](../tag/red-vs-blue), [response:9717](../tag/response:9717)
 
 While testing Ned Horning's calibration plugin([Ned's plugin](https://publiclab.org/notes/nedhorning/07-22-2015/introducing-the-calibration-plugin-for-imagej-fiji)) I had the opportunity to compare some red and blue filters and their contrast and sensitivity in relation to NDVI values and plant health. 
 

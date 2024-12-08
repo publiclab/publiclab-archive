@@ -1,12 +1,18 @@
 ---
-nid: 12193
 title: Organizers Handbook
-path: public/static/wiki/organizers-handbook.md
+tagnames: community, organizers
+author: stevie
+path: /wiki/organizers-handbook.md
+nid: 12193
 uid: 422561
-tagnames: community,organizers
+
 ---
 
 # Organizers Handbook
+
+by [stevie](../profile/stevie), [pdhixenbaugh](../profile/pdhixenbaugh), [liz](../profile/liz), [warren](../profile/warren)
+
+September 02, 2015 14:35 | Tags: [community](../tag/community), [organizers](../tag/organizers)
 
 Welcome, organizer! 
 

@@ -1,12 +1,18 @@
 ---
-nid: 26489
 title: Intermittent issues logging into MapKnitter
-path: public/static/notes/warren/05-04-2021/intermittent-issues-logging-into-mapknitter.md
+tagnames: mapknitter, question:mapknitter
+author: warren
+path: /notes/warren/05-04-2021/intermittent-issues-logging-into-mapknitter.md
+nid: 26489
 uid: 1
-tagnames: mapknitter,question:mapknitter
+
 ---
 
 # Intermittent issues logging into MapKnitter
+
+by [warren](../profile/warren) May 04, 2021 17:24
+
+May 04, 2021 17:24 | Tags: [mapknitter](../tag/mapknitter), [question:mapknitter](../tag/question:mapknitter)
 
 We've observed some occasional issues with MapKnitter logins (this may also affect Spectral Workbench), but unfortunately (or fortunately) they are intermittent; sometimes just "trying again" works. This is frustrating, not least because we are having trouble fixing them, but the upside is that we haven't yet encountered a situation where we /cannot/ log in.
 

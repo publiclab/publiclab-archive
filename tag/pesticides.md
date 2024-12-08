@@ -1,6 +1,6 @@
 # pesticides
 
-14 notes and wiki pages
+14 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Sustainable decentralized water treatment using locally generated biochar adsorbents](/notes/kearnsjp/1-21-2013/sustainable-decentralized-water-treatment-using-locally-generated-biochar-0) by [kearnsjp](../profile/kearnsjp)
 - [Detecting Pesticides in Organic and Conventional Raspberries using Open Source Instrumentation](/notes/silverhammer/02-06-2014/detecting-pesticides-in-organic-and-conventional-raspberries-using-open-source-instrumentation) by [silverhammer](../profile/silverhammer)
@@ -15,4 +15,3 @@
 - [Answered: what kinds of contaminants is the soil sampling toolkit appropriate for?](/notes/jjcreedon/10-22-2018/hi-jjcreedon-profile-jjcreedon-what-kinds-of-contaminants-is-this-appropriate-for-i-just-want-to-confirm-so-we-can-tag-it-appropriately-thanks) by [jjcreedon](../profile/jjcreedon)
 - [How can I start a project on environmental air quality around crop dusting areas](/notes/lubcarreon/07-08-2019/how-can-i-start-a-project-on-environmental-air-quality-around-crop-dusting-areas) by [lubcarreon](../profile/lubcarreon)
 - [Statistics for Action Air Quality Guide](/notes/kgradow1/10-30-2020/statistics-for-action-air-quality-guide) by [kgradow1](../profile/kgradow1)
-- [Rice Endosperm-Specific Expression System](/notes/mamamia0819/11-05-2021/rice-endosperm-specific-expression-system) by [mamamia0819](../profile/mamamia0819)

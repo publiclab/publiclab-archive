@@ -1,12 +1,18 @@
 ---
-nid: 23774
 title: Pruebas del Community Microscope
-path: public/static/notes/dbsnp/06-04-2020/experimentos-caseros-por-let-s-do-it-el-salvador.md
+tagnames: spanish, community-microscope, el-salvador, lat:13.69294, lon:-89.218191, zoom:6, zoom:9
+author: dbsnp
+path: /notes/dbsnp/06-04-2020/experimentos-caseros-por-let-s-do-it-el-salvador.md
+nid: 23774
 uid: 543056
-tagnames: spanish,community-microscope,el-salvador,lat:13.69294,lon:-89.218191,zoom:6,zoom:9
+
 ---
 
 # Pruebas del Community Microscope
+
+by [dbsnp](../profile/dbsnp) June 04, 2020 02:37
+
+June 04, 2020 02:37 | Tags: [spanish](../tag/spanish), [community-microscope](../tag/community-microscope), [el-salvador](../tag/el-salvador), [lat:13.69294](../tag/lat:13.69294), [lon:-89.218191](../tag/lon:-89.218191), [zoom:6](../tag/zoom:6), [zoom:9](../tag/zoom:9)
 
 > The following is a transcript of a report made by Let's Do It! El Salvador for a demonstration of Public Lab lab equipment in 2019.
 

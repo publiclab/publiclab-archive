@@ -1,12 +1,18 @@
 ---
-nid: 13257
 title: Definition of User Streaks 
-path: public/static/notes/ananyo2012/07-02-2016/definition-for-user-streaks.md
+tagnames: web, activity, seeks:responses, feature
+author: ananyo2012
+path: /notes/ananyo2012/07-02-2016/definition-for-user-streaks.md
+nid: 13257
 uid: 468506
-tagnames: web,activity,seeks:responses,feature
+
 ---
 
 # Definition of User Streaks 
+
+by [ananyo2012](../profile/ananyo2012) July 02, 2016 09:29
+
+July 02, 2016 09:29 | Tags: [web](../tag/web), [activity](../tag/activity), [seeks:responses](../tag/seeks:responses), [feature](../tag/feature)
 
 ## What is to be implemented
 Show User Streaks in Publiclab User Profile Page. For this we need the proper definition of User **Streaks** that will show the User streaks on profile page.

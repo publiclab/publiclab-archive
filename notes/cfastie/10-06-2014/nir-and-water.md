@@ -1,12 +1,18 @@
 ---
-nid: 11243
 title: NIR and water
-path: public/static/notes/cfastie/10-06-2014/nir-and-water.md
+tagnames: near-infrared-camera, ndvi, nir, vermont, infragram, response:11226, activity:multispectral-imaging
+author: cfastie
+path: /notes/cfastie/10-06-2014/nir-and-water.md
+nid: 11243
 uid: 554
-tagnames: near-infrared-camera,ndvi,nir,vermont,infragram,response:11226,activity:multispectral-imaging
+
 ---
 
 # NIR and water
+
+by [cfastie](../profile/cfastie) October 06, 2014 18:23
+
+October 06, 2014 18:23 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [nir](../tag/nir), [vermont](../tag/vermont), [infragram](../tag/infragram), [response:11226](../tag/response:11226), [activity:multispectral-imaging](../tag/activity:multispectral-imaging)
 
 *Above: Pure NIR photo of white water lily (Nymphaea odorata).*  
 .  

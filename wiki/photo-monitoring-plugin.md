@@ -1,12 +1,18 @@
 ---
-nid: 8017
 title: photo-monitoring-plugin
-path: public/static/wiki/photo-monitoring-plugin.md
+tagnames: near-infrared-camera, ndvi, imagej, infragram, infrablue, fiji, photo-monitoring-plugin, parent:multispectral-imaging
+author: warren
+path: /wiki/photo-monitoring-plugin.md
+nid: 8017
 uid: 1
-tagnames: near-infrared-camera,ndvi,imagej,infragram,infrablue,fiji,photo-monitoring-plugin,parent:multispectral-imaging
+
 ---
 
 # photo-monitoring-plugin
+
+by [cfastie](../profile/cfastie), [nedhorning](../profile/nedhorning), [warren](../profile/warren)
+
+June 02, 2013 14:40 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [imagej](../tag/imagej), [infragram](../tag/infragram), [infrablue](../tag/infrablue), [fiji](../tag/fiji), [photo-monitoring-plugin](../tag/photo-monitoring-plugin), [parent:multispectral-imaging](../tag/parent:multispectral-imaging)
 
 ![Screen_Shot_2013-06-02_at_10.38.41_AM.png](https://i.publiclab.org/system/images/photos/000/000/460/medium/Screen_Shot_2013-06-02_at_10.38.41_AM.png)
 

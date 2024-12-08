@@ -1,12 +1,18 @@
 ---
-nid: 16996
 title: DIY High resolution spectrometer
-path: public/static/notes/homechemist/08-24-2018/diy-high-resolution-spectrometer.md
+tagnames: spectrometer, spectroscopy, chemistry
+author: homechemist
+path: /notes/homechemist/08-24-2018/diy-high-resolution-spectrometer.md
+nid: 16996
 uid: 212574
-tagnames: spectrometer,spectroscopy,chemistry
+
 ---
 
 # DIY High resolution spectrometer
+
+by [homechemist](../profile/homechemist) August 24, 2018 16:21
+
+August 24, 2018 16:21 | Tags: [spectrometer](../tag/spectrometer), [spectroscopy](../tag/spectroscopy), [chemistry](../tag/chemistry)
 
 \*\*
 

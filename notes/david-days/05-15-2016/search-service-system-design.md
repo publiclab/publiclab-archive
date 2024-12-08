@@ -1,12 +1,18 @@
 ---
-nid: 13118
 title: Search Service System Design
-path: public/static/notes/david-days/05-15-2016/search-service-system-design.md
+tagnames: plots2, search, gsoc, indexing, rich-search
+author: david-days
+path: /notes/david-days/05-15-2016/search-service-system-design.md
+nid: 13118
 uid: 468341
-tagnames: plots2,search,gsoc,indexing,rich-search
+
 ---
 
 # Search Service System Design
+
+by [david-days](../profile/david-days) May 15, 2016 01:41
+
+May 15, 2016 01:41 | Tags: [plots2](../tag/plots2), [search](../tag/search), [gsoc](../tag/gsoc), [indexing](../tag/indexing), [rich-search](../tag/rich-search)
 
 #### Purpose
 

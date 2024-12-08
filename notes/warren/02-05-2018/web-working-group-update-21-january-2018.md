@@ -1,12 +1,18 @@
 ---
-nid: 15687
 title: Web Working Group Update 21: January 2018
-path: public/static/notes/warren/02-05-2018/web-working-group-update-21-january-2018.md
+tagnames: web-development, software, plots2, gsoc, developers, code, wwg, webwg, onboarding, first-timers-only, software-outreach, rgsoc, soc, soc-2017, wwg-update, response:14817
+author: warren
+path: /notes/warren/02-05-2018/web-working-group-update-21-january-2018.md
+nid: 15687
 uid: 1
-tagnames: web-development,software,plots2,gsoc,developers,code,wwg,webwg,onboarding,first-timers-only,software-outreach,rgsoc,soc,soc-2017,wwg-update,response:14817
+
 ---
 
 # Web Working Group Update 21: January 2018
+
+by [warren](../profile/warren) February 05, 2018 14:59
+
+February 05, 2018 14:59 | Tags: [web-development](../tag/web-development), [software](../tag/software), [plots2](../tag/plots2), [gsoc](../tag/gsoc), [developers](../tag/developers), [code](../tag/code), [wwg](../tag/wwg), [webwg](../tag/webwg), [onboarding](../tag/onboarding), [first-timers-only](../tag/first-timers-only), [software-outreach](../tag/software-outreach), [rgsoc](../tag/rgsoc), [soc](../tag/soc), [soc-2017](../tag/soc-2017), [wwg-update](../tag/wwg-update), [response:14817](../tag/response:14817)
 
 We've had a **pretty wild month** in our software contributor community. After an [already busy December](https://publiclab.org/notes/warren/01-12-2018/an-amazing-week-of-software-contributing-at-public-lab), a group of contributors has stepped up to really become leaders in our software collaborations -- tackling large new features, welcoming newcomers, and helping to review and support one anothers' contributions. 
 

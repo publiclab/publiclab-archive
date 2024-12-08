@@ -1,12 +1,18 @@
 ---
-nid: 9822
 title: Public Lab community newsletter 11.24.2013
-path: public/static/notes/Shannon/11-25-2013/public-lab-community-newsletter-11-24-2013.md
+tagnames: newsletter, newsletter-archive
+author: Shannon
+path: /notes/Shannon/11-25-2013/public-lab-community-newsletter-11-24-2013.md
+nid: 9822
 uid: 9
-tagnames: newsletter,newsletter-archive
+
 ---
 
 # Public Lab community newsletter 11.24.2013
+
+by [Shannon](../profile/Shannon) November 25, 2013 02:16
+
+November 25, 2013 02:16 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
 
 In the Public Lab community newsletter this week, read about air monitoring projects, thoughts on design and community engagement and browse through some of the interactive media pieces featuring Public Lab collaborators that have come out this week. Enjoy!
 

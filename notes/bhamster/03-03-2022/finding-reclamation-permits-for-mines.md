@@ -1,12 +1,18 @@
 ---
-nid: 30093
 title: Finding reclamation plans and permits for mines
-path: public/static/notes/bhamster/03-03-2022/finding-reclamation-permits-for-mines.md
+tagnames: mining, permits, reclamation, with:laurel_mire, mine-reclamation, activity:mine-reclamation, activity:reclamation, activity:permits
+author: bhamster
+path: /notes/bhamster/03-03-2022/finding-reclamation-permits-for-mines.md
+nid: 30093
 uid: 664477
-tagnames: mining,permits,reclamation,with:laurel_mire,mine-reclamation,activity:mine-reclamation,activity:reclamation,activity:permits
+
 ---
 
 # Finding reclamation plans and permits for mines
+
+by [bhamster](../profile/bhamster) March 03, 2022 16:44
+
+March 03, 2022 16:44 | Tags: [mining](../tag/mining), [permits](../tag/permits), [reclamation](../tag/reclamation), [with:laurel_mire](../tag/with:laurel_mire), [mine-reclamation](../tag/mine-reclamation), [activity:mine-reclamation](../tag/activity:mine-reclamation), [activity:reclamation](../tag/activity:reclamation), [activity:permits](../tag/activity:permits)
 
 _Image: "Photorealistic rendering of the proposed Pebble mine \[in Alaska\], based on the latest (2006) plan shown in permit applications filed by Northern Dynasty Minerals," [Andrew Vernon, SkyTruth](https://www.flickr.com/photos/skytruth/4373988608/in/photostream/), [CC BY NC SA](https://creativecommons.org/licenses/by-nc-sa/2.0/)_
 

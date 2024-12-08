@@ -1,12 +1,18 @@
 ---
-nid: 25807
 title: Bioassay
-path: public/static/wiki/bioassay.md
+tagnames: diy-bio, soil, water-quality, bioassay, method, soil-contamination, bioluminescence, effect-based-test
+author: bhamster
+path: /wiki/bioassay.md
+nid: 25807
 uid: 664477
-tagnames: diy-bio,soil,water-quality,bioassay,method,soil-contamination,bioluminescence,effect-based-test
+
 ---
 
 # Bioassay
+
+by [alejobonifacio](../profile/alejobonifacio), [bhamster](../profile/bhamster), [laurel_mire](../profile/laurel_mire)
+
+February 25, 2021 22:25 | Tags: [diy-bio](../tag/diy-bio), [soil](../tag/soil), [water-quality](../tag/water-quality), [bioassay](../tag/bioassay), [method](../tag/method), [soil-contamination](../tag/soil-contamination), [bioluminescence](../tag/bioluminescence), [effect-based-test](../tag/effect-based-test)
 
 _Lead image: Sprouting lettuce seeds, [Rasbak](https://commons.wikimedia.org/wiki/File:Sla-kiemend.jpg), [CC BY SA](https://creativecommons.org/licenses/by-sa/3.0/deed.en)_
 

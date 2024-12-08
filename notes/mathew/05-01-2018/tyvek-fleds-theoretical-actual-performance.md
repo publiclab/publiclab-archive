@@ -1,12 +1,18 @@
 ---
-nid: 417
 title: Tyvek Fleds, Theoretical & Actual Performance
-path: public/static/notes/mathew/05-01-2018/tyvek-fleds-theoretical-actual-performance.md
+tagnames: kite-mapping, tyvek, kite-making, activity:kite-making, activity:tyvek, fled
+author: mathew
+path: /notes/mathew/05-01-2018/tyvek-fleds-theoretical-actual-performance.md
+nid: 417
 uid: 4
-tagnames: kite-mapping,tyvek,kite-making,activity:kite-making,activity:tyvek,fled
+
 ---
 
 # Tyvek Fleds, Theoretical & Actual Performance
+
+by [mathew](../profile/mathew) July 28, 2011 04:29
+
+July 28, 2011 04:29 | Tags: [kite-mapping](../tag/kite-mapping), [tyvek](../tag/tyvek), [kite-making](../tag/kite-making), [activity:kite-making](../tag/activity:kite-making), [activity:tyvek](../tag/activity:tyvek), [fled](../tag/fled)
 
 I've built a series of three Fled Kites out of Tyvek housewrap and bamboo.  The most recent I built <a href="http://www.brooxes.com/newsite/Downloads/FledPlansAll.pdf">to the full Fled scale</a>, 209cm across, and it rocks.  I've been able to lift a kite in a steady breeze measured at 3-5mph on the ground, and as long as the wind on the ground doesn't drop much below 5mph (I can't quite tell, as my anemometer doesn't go any lower than 4), it will stay in the air lifting a cannon Elph SD600 (250g).  I've flown it in gusts up to 15mph on the ground and it just sits steadily in a constant point in the sky.  
 

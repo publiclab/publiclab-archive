@@ -1,12 +1,18 @@
 ---
-nid: 13722
 title: Reduce light inside foldable PL spectrometer
-path: public/static/notes/xose/11-22-2016/reduce-light-inside-foldable-pl-spectrometer.md
+tagnames: spectrometer, spectrometry, barnstar:basic, foldable, upgrade:spectrometry, seeks:builds, activity:foldable-spec, upgrade:foldable-spec, first-time-poster
+author: xose
+path: /notes/xose/11-22-2016/reduce-light-inside-foldable-pl-spectrometer.md
+nid: 13722
 uid: 497123
-tagnames: spectrometer,spectrometry,barnstar:basic,foldable,upgrade:spectrometry,seeks:builds,activity:foldable-spec,upgrade:foldable-spec,first-time-poster
+
 ---
 
 # Reduce light inside foldable PL spectrometer
+
+by [xose](../profile/xose) November 22, 2016 22:09
+
+November 22, 2016 22:09 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [barnstar:basic](../tag/barnstar:basic), [foldable](../tag/foldable), [upgrade:spectrometry](../tag/upgrade:spectrometry), [seeks:builds](../tag/seeks:builds), [activity:foldable-spec](../tag/activity:foldable-spec), [upgrade:foldable-spec](../tag/upgrade:foldable-spec), [first-time-poster](../tag/first-time-poster)
 
 ###What I want to do
 Reduce reflexions inside the papercraft [foldable spectrometer](https://publiclab.org/wiki/foldable-spec).

@@ -1,12 +1,18 @@
 ---
-nid: 26502
 title: Gaps in Recycling: Think Outside the Trash
-path: public/static/notes/jthomas/05-05-2021/gaps-in-recycling-think-outside-the-trash.md
+tagnames: lat:30, issue-brief, lon:-90, first-time-poster, zoom:12
+author: jthomas
+path: /notes/jthomas/05-05-2021/gaps-in-recycling-think-outside-the-trash.md
+nid: 26502
 uid: 752053
-tagnames: lat:30,issue-brief,lon:-90,first-time-poster,zoom:12
+
 ---
 
 # Gaps in Recycling: Think Outside the Trash
+
+by [jthomas](../profile/jthomas) May 05, 2021 21:09
+
+May 05, 2021 21:09 | Tags: [lat:30](../tag/lat:30), [issue-brief](../tag/issue-brief), [lon:-90](../tag/lon:-90), [first-time-poster](../tag/first-time-poster), [zoom:12](../tag/zoom:12)
 
 ### Introduction:
 

@@ -1,12 +1,18 @@
 ---
-nid: 12852
 title: Oil Test Kit Beta Program - Data Analysis
-path: public/static/notes/mlamadrid/03-17-2016/spectometer-intensity-calibration.md
+tagnames: spectrometer, oil-testing-kit, with:ygzstc
+author: mlamadrid
+path: /notes/mlamadrid/03-17-2016/spectometer-intensity-calibration.md
+nid: 12852
 uid: 45586
-tagnames: spectrometer,oil-testing-kit,with:ygzstc
+
 ---
 
 # Oil Test Kit Beta Program - Data Analysis
+
+by [mlamadrid](../profile/mlamadrid) March 17, 2016 04:02
+
+March 17, 2016 04:02 | Tags: [spectrometer](../tag/spectrometer), [oil-testing-kit](../tag/oil-testing-kit), [with:ygzstc](../tag/with:ygzstc)
 
 This is an article by **Yagiz Sutcu** for [Community Science Forum Issue #1 on DYI Oil Testing](https://publiclab.org/forum). Buy a copy in the Public Lab Store.
 

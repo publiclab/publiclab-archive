@@ -1,12 +1,18 @@
 ---
-nid: 12375
 title: Raspberry Pi based microscope
-path: public/static/notes/Holger/11-06-2015/raspberry-pi-based-microscope.md
+tagnames: raspberry-pi, dust, pm, microscope, pi-camera, microscopy, microscopes
+author: Holger
+path: /notes/Holger/11-06-2015/raspberry-pi-based-microscope.md
+nid: 12375
 uid: 456773
-tagnames: raspberry-pi,dust,pm,microscope,pi-camera,microscopy,microscopes
+
 ---
 
 # Raspberry Pi based microscope
+
+by [Holger](../profile/Holger) November 06, 2015 11:49
+
+November 06, 2015 11:49 | Tags: [raspberry-pi](../tag/raspberry-pi), [dust](../tag/dust), [pm](../tag/pm), [microscope](../tag/microscope), [pi-camera](../tag/pi-camera), [microscopy](../tag/microscopy), [microscopes](../tag/microscopes)
 
 Hey there,
 

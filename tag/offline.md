@@ -1,6 +1,6 @@
 # offline
 
-3 notes and wiki pages
+3 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Spectrometer](/wiki/spectrometer) (wiki)
 - [Spectra Workbench for offline use?](/notes/drabanus/6-4-2013/spectra-workbench-offline-use) by [drabanus](../profile/drabanus)

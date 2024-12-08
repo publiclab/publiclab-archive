@@ -1,12 +1,18 @@
 ---
-nid: 12212
 title: LEAFFEST 2015
-path: public/static/notes/cfastie/09-13-2015/leaffest-2015.md
+tagnames: near-infrared-camera, spectrometer, vermont, oil-spill-toolkit, leaffest, event, infragram, northeast, response:11076, leaffest2015
+author: cfastie
+path: /notes/cfastie/09-13-2015/leaffest-2015.md
+nid: 12212
 uid: 554
-tagnames: near-infrared-camera,spectrometer,vermont,oil-spill-toolkit,leaffest,event,infragram,northeast,response:11076,leaffest2015
+
 ---
 
 # LEAFFEST 2015
+
+by [cfastie](../profile/cfastie) September 13, 2015 03:48
+
+September 13, 2015 03:48 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [spectrometer](../tag/spectrometer), [vermont](../tag/vermont), [oil-spill-toolkit](../tag/oil-spill-toolkit), [leaffest](../tag/leaffest), [event](../tag/event), [infragram](../tag/infragram), [northeast](../tag/northeast), [response:11076](../tag/response:11076), [leaffest2015](../tag/leaffest2015)
 
 *Above: The third annual LEAFFEST (2014)*  
 

@@ -1,12 +1,18 @@
 ---
-nid: 15954
 title: Community Toolbox
-path: public/static/wiki/community-toolbox.md
+tagnames: community, software, wwg, first-timers-only, welcoming, community-toolbox
+author: warren
+path: /wiki/community-toolbox.md
+nid: 15954
 uid: 1
-tagnames: community,software,wwg,first-timers-only,welcoming,community-toolbox
+
 ---
 
 # Community Toolbox
+
+by [warren](../profile/warren), [Bronwen](../profile/Bronwen), [icarito](../profile/icarito), [bigdaw](../profile/bigdaw)
+
+March 14, 2018 17:19 | Tags: [community](../tag/community), [software](../tag/software), [wwg](../tag/wwg), [first-timers-only](../tag/first-timers-only), [welcoming](../tag/welcoming), [community-toolbox](../tag/community-toolbox)
 
 Community Toolbox is a [welcome page](/software-outreach) system for GitHub-based open source software projects, and a growing set of tools to understand and welcome people into a software contributor community. It was created by Public Lab's [Web Working Group](/wwg).
 

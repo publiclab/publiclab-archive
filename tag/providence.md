@@ -1,6 +1,6 @@
 # providence
 
-25 notes and wiki pages
+25 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Providence](/wiki/providence) (wiki)
 - [RISD March 29 meeting](/wiki/risd-march-29-meeting) (wiki)
@@ -10,7 +10,6 @@
 - [Save The Bay NRG. Providence, Rhode Island.](/map/save-bay-providence-rhode-island/2011-10-08-1) by [gonzoearth](../profile/gonzoearth)
 - [May 26th AS220 Thermal Flashlight Workshop](/wiki/may-26th-as220-thermal-flashlight-workshop) (wiki)
 - [Bayou Sauvage Results 2: reflections on fixing process](/notes/sara/7-13-2012/bayou-sauvage-results-2-reflections-fixing-process) by [sara](../profile/sara)
-- [ Mapmill help needed: Providence,RI Metal waste facility](/notes/Lynnrw/05-06-2013/mapmill-help-needed-providence-ri-metal-waste-facility) by [Lynnrw](../profile/Lynnrw)
 - [Help requested with mapknitter- Balloon mapping of Metal processing plant in Providence, RI](/notes/lynnrw/5-10-2013/help-requested-mapknitter-balloon-mapping-metal-processing-plant-providence-r) by [Lynnrw](../profile/Lynnrw)
 - [Northeast Tool-focused Barnraising: June 6-8, 2014](/notes/Hudonnoodles/04-30-2014/northeast-tool-focused-barnraising-june-6-8-2014) by [Hudonnoodles](../profile/Hudonnoodles)
 - [Kits are on the move!](/notes/bronwen/08-24-2017/kits-are-on-the-move) by [Bronwen](../profile/Bronwen)
@@ -26,4 +25,3 @@
 - [Oct 4: MicroBrews meet-up at AS220 Food, Providence](/notes/warren/09-30-2019/microbrews-meet-up-at-as220-food-providence) by [warren](../profile/warren)
 - [Unearthing Providence](/wiki/unearthing-pvd) (wiki)
 - [Rhode Island Timelapse ](/notes/kgradow1/12-22-2020/rhode-island-timelapse-aerial-maps) by [kgradow1](../profile/kgradow1)
-- [Sustanon La Pharma - Steroid Shop - Dr. Stephenson ](/notes/dstretzilarrya/04-29-2021/sustanon-la-pharma-steroid-shop-dr-stephenson) by [dstretzilarrya](../profile/dstretzilarrya)

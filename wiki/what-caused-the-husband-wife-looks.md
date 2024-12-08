@@ -1,12 +1,18 @@
 ---
-nid: 11816
 title: What Caused the Husband-wife Looks?
-path: public/static/wiki/what-caused-the-husband-wife-looks.md
-uid: 441755
 tagnames: 
+author: IreneJessica
+path: /wiki/what-caused-the-husband-wife-looks.md
+nid: 11816
+uid: 441755
+
 ---
 
 # What Caused the Husband-wife Looks?
+
+by [IreneJessica](../profile/IreneJessica)
+
+May 14, 2015 04:12 | Tags: 
 
 Abstract: There is Husband-wife looks in life, namely couples live together for a long time will tend to have similar features. And now, it has been proved that husband-wife looks isn’t the subjective assume by science, scientists have found the reason behind the phenomena of husband-wife looks. 
 

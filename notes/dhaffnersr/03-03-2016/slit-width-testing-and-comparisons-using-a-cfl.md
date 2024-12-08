@@ -1,12 +1,18 @@
 ---
-nid: 12770
 title: Slit width testing and Comparisons using a CFL
-path: public/static/notes/dhaffnersr/03-03-2016/slit-width-testing-and-comparisons-using-a-cfl.md
-uid: 461120
 tagnames: 
+author: dhaffnersr
+path: /notes/dhaffnersr/03-03-2016/slit-width-testing-and-comparisons-using-a-cfl.md
+nid: 12770
+uid: 461120
+
 ---
 
 # Slit width testing and Comparisons using a CFL
+
+by [dhaffnersr](../profile/dhaffnersr) March 03, 2016 14:24
+
+March 03, 2016 14:24 | Tags: 
 
 Here are the results of my CFL testing today of various slit widths:
 

@@ -1,12 +1,18 @@
 ---
-nid: 10579
 title: MapKnitter Annotations Plugin: Preliminary Specification
-path: public/static/notes/justinmanley/06-17-2014/mapknitter-annotations-plugin-preliminary-specification.md
+tagnames: mapknitter, gsoc, gsoc-2014
+author: justinmanley
+path: /notes/justinmanley/06-17-2014/mapknitter-annotations-plugin-preliminary-specification.md
+nid: 10579
 uid: 421556
-tagnames: mapknitter,gsoc,gsoc-2014
+
 ---
 
 # MapKnitter Annotations Plugin: Preliminary Specification
+
+by [justinmanley](../profile/justinmanley) June 17, 2014 05:12
+
+June 17, 2014 05:12 | Tags: [mapknitter](../tag/mapknitter), [gsoc](../tag/gsoc), [gsoc-2014](../tag/gsoc-2014)
 
 ### Background ###
 

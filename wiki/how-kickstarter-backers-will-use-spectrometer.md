@@ -1,12 +1,18 @@
 ---
-nid: 5227
 title: How Kickstarter backers will use the spectrometer
-path: public/static/wiki/how-kickstarter-backers-will-use-spectrometer.md
+tagnames: spectrometer, fold-up-mini-spectrometer
+author: Shannon
+path: /wiki/how-kickstarter-backers-will-use-spectrometer.md
+nid: 5227
 uid: 9
-tagnames: spectrometer,fold-up-mini-spectrometer
+
 ---
 
 # How Kickstarter backers will use the spectrometer
+
+by [Becki](../profile/Becki), [Shannon](../profile/Shannon)
+
+December 17, 2012 04:39 | Tags: [spectrometer](../tag/spectrometer), [fold-up-mini-spectrometer](../tag/fold-up-mini-spectrometer)
 
 We asked our Kickstarter backers what they planned to do with their spectrometer and here are the ideas that we're given. 
 

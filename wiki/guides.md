@@ -1,12 +1,18 @@
 ---
-nid: 90
 title: Guides
-path: public/static/wiki/guides.md
+tagnames: community, guides, illustrated-guides, writing, tool, translation, method, collaborative-writing, location:blurred, lon:-74, zoom:6, lat:4, place:colombia
+author: warren
+path: /wiki/guides.md
+nid: 90
 uid: 1
-tagnames: community,guides,illustrated-guides,writing,tool,translation,method,collaborative-writing,location:blurred,lon:-74,zoom:6,lat:4,place:colombia
+
 ---
 
 # Guides
+
+by [liz](../profile/liz), [stevie](../profile/stevie), [warren](../profile/warren), [MateoNeira](../profile/MateoNeira), [mathew](../profile/mathew), [keimpe](../profile/keimpe), [hagitkeysar](../profile/hagitkeysar), [elainechoi89](../profile/elainechoi89), [ChangeAdmin](../profile/ChangeAdmin), [gonzoearth](../profile/gonzoearth)
+
+February 19, 2011 17:57 | Tags: [community](../tag/community), [guides](../tag/guides), [illustrated-guides](../tag/illustrated-guides), [writing](../tag/writing), [tool](../tag/tool), [translation](../tag/translation), [method](../tag/method), [collaborative-writing](../tag/collaborative-writing), [location:blurred](../tag/location:blurred), [lon:-74](../tag/lon:-74), [zoom:6](../tag/zoom:6), [lat:4](../tag/lat:4), [place:colombia](../tag/place:colombia)
 
 A major goal of Public Laboratory is to produce simple and easy guides to construct many of our low-cost tools. Here are some of the illustrated guides, tutorials, and other supporting materials we've put together so far:
 

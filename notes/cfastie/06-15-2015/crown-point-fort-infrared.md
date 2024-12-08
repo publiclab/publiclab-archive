@@ -1,12 +1,18 @@
 ---
-nid: 11980
 title: Crown Point Fort infrared
-path: public/static/notes/cfastie/06-15-2015/crown-point-fort-infrared.md
+tagnames: near-infrared-camera, ndvi, kite-aerial-photography, infrared, kap, autokap, kaptery, saturnv, skyshield, response:11975, half-spherical
+author: cfastie
+path: /notes/cfastie/06-15-2015/crown-point-fort-infrared.md
+nid: 11980
 uid: 554
-tagnames: near-infrared-camera,ndvi,kite-aerial-photography,infrared,kap,autokap,kaptery,saturnv,skyshield,response:11975,half-spherical
+
 ---
 
 # Crown Point Fort infrared
+
+by [cfastie](../profile/cfastie) June 15, 2015 02:09
+
+June 15, 2015 02:09 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [kite-aerial-photography](../tag/kite-aerial-photography), [infrared](../tag/infrared), [kap](../tag/kap), [autokap](../tag/autokap), [kaptery](../tag/kaptery), [saturnv](../tag/saturnv), [skyshield](../tag/skyshield), [response:11975](../tag/response:11975), [half-spherical](../tag/half-spherical)
 
 Below is a half spherical panorama taken over the 1759 British Fort at Crown Point, New York with an infrared camera. The PowerShot A2200 had its IR block filter replaced with a piece of Wratten 15 gelatin, and a custom white balance was done before shooting. After finding 34 photos that stitched together into a panorama, I put those photos in Photoshop and converted them to false color infrared images. Those CIR images were then stitched together in Microsoft ICE and the panorama was uploaded to Photosynth.net. The only way to get a panorama at Photosynth.net is to do the stitching in ICE and have ICE prepare and upload the panorama for you. Then you can view it in the nice spherical viewer.  
 .  

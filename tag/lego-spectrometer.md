@@ -1,6 +1,6 @@
 # lego-spectrometer
 
-29 notes and wiki pages
+29 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [dsk3](/wiki/dsk3) (wiki)
 - [Lego Spectrometer](/wiki/lego-spectrometer) (wiki)

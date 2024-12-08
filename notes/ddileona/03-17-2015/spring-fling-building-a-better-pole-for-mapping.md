@@ -1,12 +1,18 @@
 ---
-nid: 11682
 title: Spring Fling: Building a Better Pole for Mapping
-path: public/static/notes/ddileona/03-17-2015/spring-fling-building-a-better-pole-for-mapping.md
+tagnames: polemapping, pole-mapping, gulfcoast, barnstar:basic, urbanwaters, springfling, first-time-poster
+author: ddileona
+path: /notes/ddileona/03-17-2015/spring-fling-building-a-better-pole-for-mapping.md
+nid: 11682
 uid: 436738
-tagnames: polemapping,pole-mapping,gulfcoast,barnstar:basic,urbanwaters,springfling,first-time-poster
+
 ---
 
 # Spring Fling: Building a Better Pole for Mapping
+
+by [ddileona](../profile/ddileona) March 17, 2015 02:57
+
+March 17, 2015 02:57 | Tags: [polemapping](../tag/polemapping), [pole-mapping](../tag/pole-mapping), [gulfcoast](../tag/gulfcoast), [barnstar:basic](../tag/barnstar:basic), [urbanwaters](../tag/urbanwaters), [springfling](../tag/springfling), [first-time-poster](../tag/first-time-poster)
 
 Hello! Today I'm going to walk you through the construction of a new pole for pole mapping. 
 

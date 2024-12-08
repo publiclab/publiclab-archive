@@ -1,12 +1,18 @@
 ---
-nid: 11658
 title: PLab 3 Gain Correction
-path: public/static/notes/stoft/03-06-2015/plab-3-gain-correction.md
+tagnames: spectrometer, intensity-calibration, barnstar:basic, intensity, amplitude, gain, gain-correction, response:11638, activity:spectrometry
+author: stoft
+path: /notes/stoft/03-06-2015/plab-3-gain-correction.md
+nid: 11658
 uid: 54025
-tagnames: spectrometer,intensity-calibration,barnstar:basic,intensity,amplitude,gain,gain-correction,response:11638,activity:spectrometry
+
 ---
 
 # PLab 3 Gain Correction
+
+by [stoft](../profile/stoft) March 06, 2015 07:19
+
+March 06, 2015 07:19 | Tags: [spectrometer](../tag/spectrometer), [intensity-calibration](../tag/intensity-calibration), [barnstar:basic](../tag/barnstar:basic), [intensity](../tag/intensity), [amplitude](../tag/amplitude), [gain](../tag/gain), [gain-correction](../tag/gain-correction), [response:11638](../tag/response:11638), [activity:spectrometry](../tag/activity:spectrometry)
 
  In a previous note ( http://publiclab.org/notes/stoft/02-25-2015/plab-spectrometer-gain-correction ) I used a very common light source (the Sun) as a broad-spectrum source for correcting the PLab spectrometer's gain un-flatness. While that source is free and available to nearly anyone, it does suffer from some variability of environmental conditions like winter, time of day and humidity so it's not always so easy. Still the technique does function well with clear mid-day sun.
 

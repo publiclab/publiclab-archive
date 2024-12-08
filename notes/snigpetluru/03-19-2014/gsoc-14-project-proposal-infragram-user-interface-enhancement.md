@@ -1,12 +1,18 @@
 ---
-nid: 10205
 title: [GSOC 14 Project Proposal] Infragram - User Interface Enhancement
-path: public/static/notes/snigpetluru/03-19-2014/gsoc-14-project-proposal-infragram-user-interface-enhancement.md
-uid: 421527
 tagnames: 
+author: snigpetluru
+path: /notes/snigpetluru/03-19-2014/gsoc-14-project-proposal-infragram-user-interface-enhancement.md
+nid: 10205
+uid: 421527
+
 ---
 
 # [GSOC 14 Project Proposal] Infragram - User Interface Enhancement
+
+by [snigpetluru](../profile/snigpetluru) March 19, 2014 15:41
+
+March 19, 2014 15:41 | Tags: 
 
 **Name:** Snigdha Petluru
 

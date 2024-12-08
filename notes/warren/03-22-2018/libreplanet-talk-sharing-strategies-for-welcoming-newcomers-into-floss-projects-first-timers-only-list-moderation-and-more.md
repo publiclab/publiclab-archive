@@ -1,12 +1,18 @@
 ---
-nid: 16008
 title: LibrePlanet talk: Sharing strategies for welcoming newcomers into FLOSS projects: First-timers-only, list moderation, and more  
-path: public/static/notes/warren/03-22-2018/libreplanet-talk-sharing-strategies-for-welcoming-newcomers-into-floss-projects-first-timers-only-list-moderation-and-more.md
+tagnames: community, presentations, event, presentation, developers, with:liz, libreplanet, free-software, talks, onboarding, software-outreach, series:software-outreach, response:11715, date:03-25-2018
+author: warren
+path: /notes/warren/03-22-2018/libreplanet-talk-sharing-strategies-for-welcoming-newcomers-into-floss-projects-first-timers-only-list-moderation-and-more.md
+nid: 16008
 uid: 1
-tagnames: community,presentations,event,presentation,developers,with:liz,libreplanet,free-software,talks,onboarding,software-outreach,series:software-outreach,response:11715,date:03-25-2018
+
 ---
 
 # LibrePlanet talk: Sharing strategies for welcoming newcomers into FLOSS projects: First-timers-only, list moderation, and more  
+
+by [warren](../profile/warren) March 22, 2018 21:42
+
+March 22, 2018 21:42 | Tags: [community](../tag/community), [presentations](../tag/presentations), [event](../tag/event), [presentation](../tag/presentation), [developers](../tag/developers), [with:liz](../tag/with:liz), [libreplanet](../tag/libreplanet), [free-software](../tag/free-software), [talks](../tag/talks), [onboarding](../tag/onboarding), [software-outreach](../tag/software-outreach), [series:software-outreach](../tag/series:software-outreach), [response:11715](../tag/response:11715), [date:03-25-2018](../tag/date:03-25-2018)
 
 Hi all, I'm preparing for a talk with Liz Barry ( @liz) at LibrePlanet 2018 on Sunday at
 

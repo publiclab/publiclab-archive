@@ -1,6 +1,6 @@
 # wwg
 
-75 notes and wiki pages
+75 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [2015 Web Working Group report](/notes/warren/01-14-2015/2015-web-working-group-report) by [warren](../profile/warren)
 - [Web Working Group Monthly Recap](/notes/warren/04-01-2015/web-working-group-monthly-recap) by [warren](../profile/warren)
@@ -62,7 +62,6 @@
 - [Web Working Group Update 23: August 2018](/notes/warren/08-30-2018/web-working-group-update-23-august-2018) by [warren](../profile/warren)
 - [Call for Outreachy 2018-19 proposals!](/notes/warren/10-23-2018/call-for-outreachy-2018-19-proposals) by [warren](../profile/warren)
 - [Public Lab Code Community Report: Jan 2019](/notes/warren/01-02-2019/public-lab-code-community-report-jan-2019) by [warren](../profile/warren)
-- [Skoda kodiaq ](/notes/skoda_kodiaq/01-02-2019/skoda-kodiaq) by [skoda_kodiaq](../profile/skoda_kodiaq)
 - [Brainstorming for Summer of Code 2019](/notes/warren/01-02-2019/brainstorming-for-summer-of-code-2019) by [warren](../profile/warren)
 - [Congrats to Google Code-In 2018 participants!](/notes/warren/01-07-2019/congrats-to-google-code-in-2018-participants) by [warren](../profile/warren)
 - [Call for Outreachy 2019 proposals!](/notes/gauravano/03-12-2019/call-for-outreachy-2019-proposals) by [gauravano](../profile/gauravano)

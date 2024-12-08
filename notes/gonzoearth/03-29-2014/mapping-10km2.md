@@ -1,12 +1,18 @@
 ---
-nid: 10243
 title: Mapping 10km2 
-path: public/static/notes/gonzoearth/03-29-2014/mapping-10km2.md
+tagnames: balloon-mapping, guides, activity:balloon-mapping
+author: gonzoearth
+path: /notes/gonzoearth/03-29-2014/mapping-10km2.md
+nid: 10243
 uid: 12
-tagnames: balloon-mapping,guides,activity:balloon-mapping
+
 ---
 
 # Mapping 10km2 
+
+by [gonzoearth](../profile/gonzoearth) March 29, 2014 01:32
+
+March 29, 2014 01:32 | Tags: [balloon-mapping](../tag/balloon-mapping), [guides](../tag/guides), [activity:balloon-mapping](../tag/activity:balloon-mapping)
 
 I updated the Mapping Curriculum with a [note about larger extent mapping](http://publiclab.org/wiki/mapping-curriculum-high-altitude-mapping) and tried to compile a list of applications for making the tradeoff to fly higher.
 

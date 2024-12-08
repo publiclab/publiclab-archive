@@ -1,6 +1,6 @@
 # jerkpan
 
-6 notes and wiki pages
+6 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [The JerkPan](/notes/cfastie/01-27-2016/the-jerkpan) by [cfastie](../profile/cfastie)
 - [Silly Putty KAP Rig](/notes/ranon/06-13-2016/silly-putty-kap-rig) by [ranon](../profile/ranon)

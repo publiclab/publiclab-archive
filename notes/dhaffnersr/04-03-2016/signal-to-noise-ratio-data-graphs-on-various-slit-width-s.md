@@ -1,12 +1,18 @@
 ---
-nid: 12910
 title: Signal To Noise Ratio data graphs on various slit width's
-path: public/static/notes/dhaffnersr/04-03-2016/signal-to-noise-ratio-data-graphs-on-various-slit-width-s.md
-uid: 461120
 tagnames: 
+author: dhaffnersr
+path: /notes/dhaffnersr/04-03-2016/signal-to-noise-ratio-data-graphs-on-various-slit-width-s.md
+nid: 12910
+uid: 461120
+
 ---
 
 # Signal To Noise Ratio data graphs on various slit width's
+
+by [dhaffnersr](../profile/dhaffnersr) April 03, 2016 10:55
+
+April 03, 2016 10:55 | Tags: 
 
 Here is an excel spread sheet graph on the various slit width's that we use:
 

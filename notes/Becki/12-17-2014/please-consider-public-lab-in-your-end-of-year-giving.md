@@ -1,12 +1,18 @@
 ---
-nid: 11471
 title: Please consider Public Lab in your end of year giving!
-path: public/static/notes/Becki/12-17-2014/please-consider-public-lab-in-your-end-of-year-giving.md
-uid: 46673
 tagnames: 
+author: Becki
+path: /notes/Becki/12-17-2014/please-consider-public-lab-in-your-end-of-year-giving.md
+nid: 11471
+uid: 46673
+
 ---
 
 # Please consider Public Lab in your end of year giving!
+
+by [Becki](../profile/Becki) December 17, 2014 17:43
+
+December 17, 2014 17:43 | Tags: 
 
 **Public Lab is more than a collection of innovative tools for monitoring your environment.**
 

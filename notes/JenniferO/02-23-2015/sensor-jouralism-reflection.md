@@ -1,12 +1,18 @@
 ---
-nid: 11627
 title: Sensor Jouralism Reflection
-path: public/static/notes/JenniferO/02-23-2015/sensor-jouralism-reflection.md
-uid: 434163
 tagnames: sensor-journalism
+author: JenniferO
+path: /notes/JenniferO/02-23-2015/sensor-jouralism-reflection.md
+nid: 11627
+uid: 434163
+
 ---
 
 # Sensor Jouralism Reflection
+
+by [JenniferO](../profile/JenniferO) February 23, 2015 17:59
+
+February 23, 2015 17:59 | Tags: [sensor-journalism](../tag/sensor-journalism)
 
 ##Opportunities of Sensor Journalism
 

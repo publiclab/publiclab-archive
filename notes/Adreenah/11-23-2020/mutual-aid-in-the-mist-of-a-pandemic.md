@@ -1,12 +1,18 @@
 ---
-nid: 25096
 title: Mutual Aid in the Mist of a Pandemic 
-path: public/static/notes/Adreenah/11-23-2020/mutual-aid-in-the-mist-of-a-pandemic.md
+tagnames: gulf-coast, organizing, florida, issue-brief, first-time-poster, zoom:3, covid-19, lat:29.726222, lon:-84.990234, mutual-aid, apalachicola, resource-guides
+author: Adreenah
+path: /notes/Adreenah/11-23-2020/mutual-aid-in-the-mist-of-a-pandemic.md
+nid: 25096
 uid: 730104
-tagnames: gulf-coast,organizing,florida,issue-brief,first-time-poster,zoom:3,covid-19,lat:29.726222,lon:-84.990234,mutual-aid,apalachicola,resource-guides
+
 ---
 
 # Mutual Aid in the Mist of a Pandemic 
+
+by [Adreenah](../profile/Adreenah) November 23, 2020 20:41
+
+November 23, 2020 20:41 | Tags: [gulf-coast](../tag/gulf-coast), [organizing](../tag/organizing), [florida](../tag/florida), [issue-brief](../tag/issue-brief), [first-time-poster](../tag/first-time-poster), [zoom:3](../tag/zoom:3), [covid-19](../tag/covid-19), [lat:29.726222](../tag/lat:29.726222), [lon:-84.990234](../tag/lon:-84.990234), [mutual-aid](../tag/mutual-aid), [apalachicola](../tag/apalachicola), [resource-guides](../tag/resource-guides)
 
 ### Introduction:
 

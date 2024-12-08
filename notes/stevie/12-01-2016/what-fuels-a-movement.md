@@ -1,12 +1,18 @@
 ---
-nid: 13736
 title: What fuels a movement?
-path: public/static/notes/stevie/12-01-2016/what-fuels-a-movement.md
+tagnames: blog, petcoke, chicago, pm, midwest, pet-coke, with:olga, community-organizing, interview-series, series:community-interviews
+author: stevie
+path: /notes/stevie/12-01-2016/what-fuels-a-movement.md
+nid: 13736
 uid: 422561
-tagnames: blog,petcoke,chicago,pm,midwest,pet-coke,with:olga,community-organizing,interview-series,series:community-interviews
+
 ---
 
 # What fuels a movement?
+
+by [stevie](../profile/stevie) December 01, 2016 21:59
+
+December 01, 2016 21:59 | Tags: [blog](../tag/blog), [petcoke](../tag/petcoke), [chicago](../tag/chicago), [pm](../tag/pm), [midwest](../tag/midwest), [pet-coke](../tag/pet-coke), [with:olga](../tag/with:olga), [community-organizing](../tag/community-organizing), [interview-series](../tag/interview-series), [series:community-interviews](../tag/series:community-interviews)
 
 _Lead image of protesters protesting the Pet Coke Piles on southeast side of Chicago. Image found on the [Public Lab Chicago](https://publiclab.org/wiki/chicago) page._  
 

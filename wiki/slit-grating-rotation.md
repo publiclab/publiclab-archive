@@ -1,10 +1,16 @@
 ---
-nid: 5904
 title: Slit - Grating Rotation
-path: public/static/wiki/slit-grating-rotation.md
-uid: 51
 tagnames: 
+author: danbeavers
+path: /wiki/slit-grating-rotation.md
+nid: 5904
+uid: 51
+
 ---
 
 # Slit - Grating Rotation
+
+by [danbeavers](../profile/danbeavers)
+
+February 06, 2013 21:42 | Tags: 
 

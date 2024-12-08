@@ -1,6 +1,6 @@
 # response-13975
 
-67 notes and wiki pages
+67 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Bot for Publiclab](/notes/ryzokuken/02-28-2017/bot-for-publiclab) by [ryzokuken](../profile/ryzokuken)
 - [Map of Projects](/notes/mridulnagpal/03-01-2017/map-of-projects) by [mridulnagpal](../profile/mridulnagpal)
@@ -31,7 +31,6 @@
 - [GSoC proposal: Image-Sequencer v2 : Processing on steroids](/notes/tech4gt/02-19-2018/gsoc-proposal-image-sequencer-v2-processing-on-steroids) by [tech4gt](../profile/tech4gt)
 - [GSoC proposal: v2 API development | Grape | Swagger Specification](/notes/Raounak/02-21-2018/gsoc-proposal-v2-api-development) by [Raounak](../profile/Raounak)
 - [RGSoC: v2 API development](/notes/milaaraujo/02-23-2018/rgsoc-v2-api-development) by [milaaraujo](../profile/milaaraujo)
-- [SoC proposal: Pollution analysis on map ](/notes/sid2111995/02-25-2018/soc-proposal-pollution-analysis-on-map) by [sid2111995](../profile/sid2111995)
 - [SoC proposal: Pollution analysis on google maps](/notes/sid2111995/02-25-2018/soc-proposal-pollution-analysis-on-google-maps) by [sid2111995](../profile/sid2111995)
 - [GSoC proposal: Upgrade to Rails 5](/notes/souravirus/02-25-2018/gsoc-proposal-upgrade-to-rails-5) by [souravirus](../profile/souravirus)
 - [RGSoC proposal: Upgrade to Rails 5 ](/notes/cess/02-27-2018/rgsoc-proposal-upgrade-to-rails-5-email-integration) by [cess](../profile/cess)
@@ -42,7 +41,6 @@
 - [GSoC proposal: Card UI/UX Implementation v2 & Bootstrap 4 Upgradation](/notes/amitsin6h/03-04-2018/gsoc-proposal-card-ui-ux-implementation-v2) by [amitsin6h](../profile/amitsin6h)
 - [SoC proposal:RGSOC PROPOSAL: Upgrade to Rails 5.1.5 ](/notes/stella/03-14-2018/soc-proposal-rgsoc-proposal-upgrade-to-rails-5-1-5) by [stella](../profile/stella)
 - [RGSoC proposal: Entrepreneurial Network And Enhanced UX](/notes/SrishtyMittal/03-14-2018/rgsoc-proposal-entrepreneurial-network-and-enhanced-ux) by [SrishtyMittal](../profile/SrishtyMittal)
-- [Data Science Training In Pune](/notes/DataScience/03-19-2018/data-science-training-in-pune) by [DataScience](../profile/DataScience)
 - [GSoC proposal: Computer Vision enhancements for Raspberry Pi based Public Lab Science Projects](/notes/MaggPi/03-20-2018/gsoc-proposal-computer-vision-enhancements-for-raspberry-pi-based-public-lab-science-projects) by [MaggPi](../profile/MaggPi)
 - [SoC proposal: Community Toolbox overhaul](/notes/icode365/03-02-2019/soc-proposal) by [icode365](../profile/icode365)
 - [SoC proposal: GSoC: Websocket Implementation for Real-time Usage and Sensor data and Display Library](/notes/namangupta/03-02-2019/soc-proposal) by [namangupta](../profile/namangupta)
@@ -61,7 +59,6 @@
 - [SoC proposal: Improving UI and Structure of Leaflet Environmental Layers](/notes/rkpattnaik780/04-05-2019/soc-proposal-improving-ui-and-structure-of-leaflet-environmental-layers) by [rkpattnaik780](../profile/rkpattnaik780)
 - [GSoC proposal: Mapknitter Image Management and Synchronous Editing](/notes/igniteeng000/04-06-2019/gsoc-proposal-mapknitter-image-management) by [igniteeng000](../profile/igniteeng000)
 - [SoC proposal: PublicLab.Editor](/notes/f20171066/04-05-2019/soc-proposal-publiclab-editor) by [f20171066](../profile/f20171066)
-- [SoC proposal: MapKnitter Synchronous Editing.](/notes/juliusmeldrin/04-06-2019/soc-proposal-mapknitter-synchronous-editing) by [juliusmeldrin](../profile/juliusmeldrin)
 - [GSoC proposal: Mapknitter Image Management and Synchronous Editing](/notes/divyabaid16/04-06-2019/gsoc-proposal-mapknitter-image-management-and-synchronous-editing) by [divyabaid16](../profile/divyabaid16)
 - [GSoC proposal: Mapknitter Upgrade to Rails 6](/notes/singhav/04-07-2019/gsoc-proposal-mapknitter-upgrade-to-rails-6) by [singhav](../profile/singhav)
 - [SoC proposal: Image Sequencer](/notes/lohithabhagam123/04-09-2019/soc-proposal-image-sequencer) by [lohithabhagam123](../profile/lohithabhagam123)

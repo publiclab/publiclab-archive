@@ -1,12 +1,18 @@
 ---
-nid: 13066
 title: Excellent photographers handbook design by LIFE magazine
-path: public/static/notes/warren/05-03-2016/excellent-photographers-handbook-design-by-life-magazine.md
+tagnames: guides, design, instructions, steps, onboarding, accessibility, booklets
+author: warren
+path: /notes/warren/05-03-2016/excellent-photographers-handbook-design-by-life-magazine.md
+nid: 13066
 uid: 1
-tagnames: guides,design,instructions,steps,onboarding,accessibility,booklets
+
 ---
 
 # Excellent photographers handbook design by LIFE magazine
+
+by [warren](../profile/warren) May 03, 2016 19:08
+
+May 03, 2016 19:08 | Tags: [guides](../tag/guides), [design](../tag/design), [instructions](../tag/instructions), [steps](../tag/steps), [onboarding](../tag/onboarding), [accessibility](../tag/accessibility), [booklets](../tag/booklets)
 
 I came across this excellent, pocket-size handbook from 1970 on photography, with nice black and white stepwise illustrative photos of things like making enlargements, and how to store a temporary darkroom. Great pointers for us as we develop easy to follow stepwise instructions and think about [printing booklets](https://publiclab.org/notes/warren/04-26-2016/announcing-a-public-lab-booklet-diy-oil-testing). 
 

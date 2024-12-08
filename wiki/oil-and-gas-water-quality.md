@@ -1,12 +1,18 @@
 ---
-nid: 21652
 title: Oil and Gas Water Quality
-path: public/static/wiki/oil-and-gas-water-quality.md
+tagnames: water-quality, oil-and-gas, location:blurred, place:united-states, lat:29, lon:-90, oil-and-gas-water-trio, zoom:6
+author: wmacfarl
+path: /wiki/oil-and-gas-water-quality.md
+nid: 21652
 uid: 424597
-tagnames: water-quality,oil-and-gas,location:blurred,place:united-states,lat:29,lon:-90,oil-and-gas-water-trio,zoom:6
+
 ---
 
 # Oil and Gas Water Quality
+
+by [stevie](../profile/stevie), [wmacfarl](../profile/wmacfarl)
+
+December 04, 2019 01:30 | Tags: [water-quality](../tag/water-quality), [oil-and-gas](../tag/oil-and-gas), [location:blurred](../tag/location:blurred), [place:united-states](../tag/place:united-states), [lat:29](../tag/lat:29), [lon:-90](../tag/lon:-90), [oil-and-gas-water-trio](../tag/oil-and-gas-water-trio), [zoom:6](../tag/zoom:6)
 
 _(lead image:Stuart Logan / Oil Industry support vessel & rig. / CC BY-SA 2.0)_
 

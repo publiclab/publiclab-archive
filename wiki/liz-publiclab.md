@@ -1,12 +1,18 @@
 ---
-nid: 13184
 title: liz@publiclab
-path: public/static/wiki/liz-publiclab.md
-uid: 478126
 tagnames: liz
+author: danielrobinson
+path: /wiki/liz-publiclab.md
+nid: 13184
+uid: 478126
+
 ---
 
 # liz@publiclab
+
+by [danielrobinson](../profile/danielrobinson)
+
+June 10, 2016 11:27 | Tags: [liz](../tag/liz)
 
 The bittorrent sync link on https://publiclab.org/wiki/sharing-images does not work?
 

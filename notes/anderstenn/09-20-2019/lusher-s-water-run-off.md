@@ -1,12 +1,18 @@
 ---
-nid: 20943
 title: Lusher's Water Run-Off 
-path: public/static/notes/anderstenn/09-20-2019/lusher-s-water-run-off.md
+tagnames: water, runoff, first-time-poster, lat:29.935167, lon:-90.114084, with:jeanell873
+author: anderstenn
+path: /notes/anderstenn/09-20-2019/lusher-s-water-run-off.md
+nid: 20943
 uid: 620737
-tagnames: water,runoff,first-time-poster,lat:29.935167,lon:-90.114084,with:jeanell873
+
 ---
 
 # Lusher's Water Run-Off 
+
+by [anderstenn](../profile/anderstenn) September 20, 2019 19:38
+
+September 20, 2019 19:38 | Tags: [water](../tag/water), [runoff](../tag/runoff), [first-time-poster](../tag/first-time-poster), [lat:29.935167](../tag/lat:29.935167), [lon:-90.114084](../tag/lon:-90.114084), [with:jeanell873](../tag/with:jeanell873)
 
 ## Introduction:  
 

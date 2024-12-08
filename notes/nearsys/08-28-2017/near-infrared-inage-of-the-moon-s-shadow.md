@@ -1,12 +1,18 @@
 ---
-nid: 14796
 title: Near Infrared Image of the Moon's Shadow
-path: public/static/notes/nearsys/08-28-2017/near-infrared-inage-of-the-moon-s-shadow.md
+tagnames: infrared, mobius, solar, space, near, eclipse, shadow
+author: nearsys
+path: /notes/nearsys/08-28-2017/near-infrared-inage-of-the-moon-s-shadow.md
+nid: 14796
 uid: 506331
-tagnames: infrared,mobius,solar,space,near,eclipse,shadow
+
 ---
 
 # Near Infrared Image of the Moon's Shadow
+
+by [nearsys](../profile/nearsys) August 28, 2017 23:44
+
+August 28, 2017 23:44 | Tags: [infrared](../tag/infrared), [mobius](../tag/mobius), [solar](../tag/solar), [space](../tag/space), [near](../tag/near), [eclipse](../tag/eclipse), [shadow](../tag/shadow)
 
 I wanted to see what kind of data I could collect during the solar eclipse.
 

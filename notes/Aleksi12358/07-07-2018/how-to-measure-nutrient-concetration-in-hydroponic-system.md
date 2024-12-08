@@ -1,12 +1,18 @@
 ---
-nid: 16659
 title: How to measure nutrient concetration in hydroponic system?
-path: public/static/notes/Aleksi12358/07-07-2018/how-to-measure-nutrient-concetration-in-hydroponic-system.md
+tagnames: hydroponics, question:spectrometry, question:water-quality, question:hydroponics, fertilizer, question:runoff, nutrients, nutrient, uptake, question:fertilizer, first-time-poster, question:nitrogen
+author: Aleksi12358
+path: /notes/Aleksi12358/07-07-2018/how-to-measure-nutrient-concetration-in-hydroponic-system.md
+nid: 16659
 uid: 540470
-tagnames: hydroponics,question:spectrometry,question:water-quality,question:hydroponics,fertilizer,question:runoff,nutrients,nutrient,uptake,question:fertilizer,first-time-poster,question:nitrogen
+
 ---
 
 # How to measure nutrient concetration in hydroponic system?
+
+by [Aleksi12358](../profile/Aleksi12358) July 07, 2018 21:45
+
+July 07, 2018 21:45 | Tags: [hydroponics](../tag/hydroponics), [question:spectrometry](../tag/question:spectrometry), [question:water-quality](../tag/question:water-quality), [question:hydroponics](../tag/question:hydroponics), [fertilizer](../tag/fertilizer), [question:runoff](../tag/question:runoff), [nutrients](../tag/nutrients), [nutrient](../tag/nutrient), [uptake](../tag/uptake), [question:fertilizer](../tag/question:fertilizer), [first-time-poster](../tag/first-time-poster), [question:nitrogen](../tag/question:nitrogen)
 
 Reason I want to do this is so that I can measure plants uptake of 
 different nutrients and add right nutrients to reservoir with automated 

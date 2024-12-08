@@ -1,12 +1,18 @@
 ---
-nid: 8961
 title: New spectrometer build and CFL lines
-path: public/static/notes/Suiris/08-03-2013/new-spectrometer-build-and-cfl-lines-but-why-so-many.md
+tagnames: spectrometer, spectroscopy, first-time-poster
+author: Suiris
+path: /notes/Suiris/08-03-2013/new-spectrometer-build-and-cfl-lines-but-why-so-many.md
+nid: 8961
 uid: 170375
-tagnames: spectrometer,spectroscopy,first-time-poster
+
 ---
 
 # New spectrometer build and CFL lines
+
+by [Suiris](../profile/Suiris) August 03, 2013 06:56
+
+August 03, 2013 06:56 | Tags: [spectrometer](../tag/spectrometer), [spectroscopy](../tag/spectroscopy), [first-time-poster](../tag/first-time-poster)
 
 I decided to build my second spectrometer. I built a box, long and wide enough for me to put a Canon IXUS 120 camera and be able to adjust angles, slit:grating length, and for future projects play a little with collimating lenses. The slit is made of two razor blades.
 

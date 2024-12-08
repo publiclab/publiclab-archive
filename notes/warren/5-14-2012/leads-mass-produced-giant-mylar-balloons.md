@@ -1,12 +1,18 @@
 ---
-nid: 1968
 title: Leads on mass produced giant mylar balloons
-path: public/static/notes/warren/5-14-2012/leads-mass-produced-giant-mylar-balloons.md
+tagnames: balloon-mapping, mylar, diy-balloon, balloon, supply-chain
+author: warren
+path: /notes/warren/5-14-2012/leads-mass-produced-giant-mylar-balloons.md
+nid: 1968
 uid: 1
-tagnames: balloon-mapping,mylar,diy-balloon,balloon,supply-chain
+
 ---
 
 # Leads on mass produced giant mylar balloons
+
+by [warren](../profile/warren) May 14, 2012 21:00
+
+May 14, 2012 21:00 | Tags: [balloon-mapping](../tag/balloon-mapping), [mylar](../tag/mylar), [diy-balloon](../tag/diy-balloon), [balloon](../tag/balloon), [supply-chain](../tag/supply-chain)
 
 Looking for a place to try to get 1.8 meter mylar balloons made, maybe eventually for inclusion in the [balloon mapping kit](/wiki/balloon-mapping-kit-retail).
 

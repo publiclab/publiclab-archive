@@ -1,11 +1,17 @@
 ---
-nid: 17408
 title: Photo comment template
-path: public/static/wiki/photo-comment-template.md
-uid: 1
 tagnames: template
+author: warren
+path: /wiki/photo-comment-template.md
+nid: 17408
+uid: 1
+
 ---
 
 # Photo comment template
+
+by [warren](../profile/warren)
+
+October 26, 2018 22:16 | Tags: [template](../tag/template)
 
 Drag a photo into this box to upload it!

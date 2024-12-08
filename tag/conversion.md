@@ -1,6 +1,6 @@
 # conversion
 
-21 notes and wiki pages
+21 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Canon A2200 NIR conversion](/notes/nedhorning/9-25-2012/canon-a2200-nir-conversion) by [nedhorning](../profile/nedhorning)
 - [Webcam Conversion to (Near-) Infrared](/notes/joshmc/10-12-2012/webcam-conversion-near-infrared) by [JoshMc](../profile/JoshMc)
@@ -21,5 +21,3 @@
 - [Toshiba Camileo S10 Infragram conversion.](/notes/limon93/02-26-2015/toshiba-camileo-s10-infragram-conversion) by [limon93](../profile/limon93)
 - [GoPro Hero HD first version- Making full spectrum( Removing IR filter)](/notes/suman/01-16-2017/gopro-hero-hd-first-version-making-full-spectrum-removing-ir-filter) by [suman](../profile/suman)
 - [Has anyone had any experience converting the Canon SD1000 to infra-red?](/notes/shinnen/12-04-2018/has-anyone-had-any-experience-converting-the-canon-sd1000-to-infra-red) by [shinnen](../profile/shinnen)
-- [Basement Conversion in London By John Cann ](/notes/johncann/12-28-2018/basement-conversion-in-london-by-john-cann) by [johncann](../profile/johncann)
-- [Builders Wimbledon](/notes/builderswimbledon/01-09-2019/builders-wimbledon) by [builderswimbledon](../profile/builderswimbledon)

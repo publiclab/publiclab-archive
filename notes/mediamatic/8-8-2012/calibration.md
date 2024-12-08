@@ -1,11 +1,17 @@
 ---
-nid: 3197
 title: Calibration
-path: public/static/notes/mediamatic/8-8-2012/calibration.md
-uid: 40692
 tagnames: 
+author: mediamatic
+path: /notes/mediamatic/8-8-2012/calibration.md
+nid: 3197
+uid: 40692
+
 ---
 
 # Calibration
+
+by [mediamatic](../profile/mediamatic) August 08, 2012 16:16
+
+August 08, 2012 16:16 | Tags: 
 
 8/8/2012

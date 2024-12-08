@@ -1,12 +1,18 @@
 ---
-nid: 28439
 title: Outreachy - Introduce Yourself
-path: public/static/notes/NaruDesigns/12-11-2021/outreachy-introduce-yourself.md
+tagnames: open-source, outreachy
+author: NaruDesigns
+path: /notes/NaruDesigns/12-11-2021/outreachy-introduce-yourself.md
+nid: 28439
 uid: 775118
-tagnames: open-source,outreachy
+
 ---
 
 # Outreachy - Introduce Yourself
+
+by [NaruDesigns](../profile/NaruDesigns) December 11, 2021 21:53
+
+December 11, 2021 21:53 | Tags: [open-source](../tag/open-source), [outreachy](../tag/outreachy)
 
 # Hello,
 

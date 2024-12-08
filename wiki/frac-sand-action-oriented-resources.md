@@ -1,12 +1,18 @@
 ---
-nid: 12570
 title: Action-Oriented Resources
-path: public/static/wiki/frac-sand-action-oriented-resources.md
+tagnames: frac-sand, advocacy, parent:frac-sand, advocacy-pathways
+author: stevie
+path: /wiki/frac-sand-action-oriented-resources.md
+nid: 12570
 uid: 422561
-tagnames: frac-sand,advocacy,parent:frac-sand,advocacy-pathways
+
 ---
 
 # Action-Oriented Resources
+
+by [stevie](../profile/stevie), [gretchengehrke](../profile/gretchengehrke)
+
+January 07, 2016 19:58 | Tags: [frac-sand](../tag/frac-sand), [advocacy](../tag/advocacy), [parent:frac-sand](../tag/parent:frac-sand), [advocacy-pathways](../tag/advocacy-pathways)
 
 There are many ways that people can collect data, report and strategize around the frac sand issue. This page will outline some options currently available. 
 

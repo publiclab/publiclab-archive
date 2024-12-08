@@ -1,12 +1,18 @@
 ---
-nid: 23484
 title: Report: 2020 Software Contributors Survey
-path: public/static/notes/liz/01-20-2021/report-2020-software-contributors-survey.md
+tagnames: community, developers, code, evaluation, diversity
+author: liz
+path: /notes/liz/01-20-2021/report-2020-software-contributors-survey.md
+nid: 23484
 uid: 7
-tagnames: community,developers,code,evaluation,diversity
+
 ---
 
 # Report: 2020 Software Contributors Survey
+
+by [liz](../profile/liz) January 20, 2021 16:10
+
+January 20, 2021 16:10 | Tags: [community](../tag/community), [developers](../tag/developers), [code](../tag/code), [evaluation](../tag/evaluation), [diversity](../tag/diversity)
 
 NOTE: This report is truncated as compared to other annual Software Contributors Surveys due to reductions in capacity from COVID19. 
 

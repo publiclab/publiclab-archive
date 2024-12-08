@@ -1,12 +1,18 @@
 ---
-nid: 14529
 title: Any way to improve on the DVD grating?
-path: public/static/notes/dsvilko/06-13-2017/any-way-to-improve-on-the-dvd-grating.md
+tagnames: question:spectrometry, question:general, question:grating
+author: dsvilko
+path: /notes/dsvilko/06-13-2017/any-way-to-improve-on-the-dvd-grating.md
+nid: 14529
 uid: 257524
-tagnames: question:spectrometry,question:general,question:grating
+
 ---
 
 # Any way to improve on the DVD grating?
+
+by [dsvilko](../profile/dsvilko) June 13, 2017 15:08
+
+June 13, 2017 15:08 | Tags: [question:spectrometry](../tag/question:spectrometry), [question:general](../tag/question:general), [question:grating](../tag/question:grating)
 
 ###What I want to do or know
 How are you dealing with the slit geometry and the curvature of the DVD grating?

@@ -1,6 +1,6 @@
 # gasfinder
 
-4 notes and wiki pages
+4 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Identifying Wells in Field and Experiment Design](/notes/megan/8-7-2012/identifying-wells-field-and-experiment-design) by [megan](../profile/megan)
 - [A DIY gas-finding camera?](/notes/mathew/11-21-2014/a-diy-gas-finding-camera) by [mathew](../profile/mathew)

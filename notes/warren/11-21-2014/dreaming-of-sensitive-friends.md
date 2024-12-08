@@ -1,12 +1,18 @@
 ---
-nid: 11374
 title: Dreaming of sensitive friends
-path: public/static/notes/warren/11-21-2014/dreaming-of-sensitive-friends.md
+tagnames: gulf-coast, workshop, sensing, water-quality, open-water, great-photos, propeller
+author: warren
+path: /notes/warren/11-21-2014/dreaming-of-sensitive-friends.md
+nid: 11374
 uid: 1
-tagnames: gulf-coast,workshop,sensing,water-quality,open-water,great-photos,propeller
+
 ---
 
 # Dreaming of sensitive friends
+
+by [warren](../profile/warren) November 21, 2014 02:01
+
+November 21, 2014 02:01 | Tags: [gulf-coast](../tag/gulf-coast), [workshop](../tag/workshop), [sensing](../tag/sensing), [water-quality](../tag/water-quality), [open-water](../tag/open-water), [great-photos](../tag/great-photos), [propeller](../tag/propeller)
 
 I took these portraits in a session at the open water workshop at Propeller, in New Orleans, tonight. 
 

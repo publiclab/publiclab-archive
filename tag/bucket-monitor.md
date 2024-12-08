@@ -1,6 +1,6 @@
 # bucket-monitor
 
-69 notes and wiki pages
+69 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Notes on Global Community Monitor Report on Bucket samples from Gas Patch](/notes/sara/9-11-2011/notes-global-community-monitor-report-bucket-samples-gas-patch) by [sara](../profile/sara)
 - [What methods are available for doing air grab samples for hydrogen sulfide?](/notes/stevie/10-10-2017/what-methods-are-available-for-doing-air-grab-samples-for-hydrogen-sulfide) by [stevie](../profile/stevie)
@@ -21,8 +21,6 @@
 - [How the Bucket Works](/notes/kgradow1/06-09-2020/how-the-bucket-works) by [kgradow1](../profile/kgradow1)
 - [How to Set Up a Bucket Brigade](/notes/kgradow1/06-09-2020/how-to-set-up-a-bucket-brigade) by [kgradow1](../profile/kgradow1)
 - [Do we need instrumentation-grade steel for an air intake valve?](/notes/kgradow1/06-09-2020/do-we-need-instrumentation-grade-steel-for-an-air-intake-valve) by [kgradow1](../profile/kgradow1)
-- [Trouble in refund button while securing Cash App refund? Get assistance.](/notes/marcjames797/06-10-2020/trouble-in-refund-button-while-securing-cash-app-refund-get-assistance) by [marcjames797](../profile/marcjames797)
-- [Can’t unlock Cash App account due to unreliable net? Reach help team.](/notes/marcjames797/06-10-2020/can-t-unlock-cash-app-account-due-to-unreliable-net-reach-help-team) by [marcjames797](../profile/marcjames797)
 - [Previous use of the MiniVol in preventing the spread of Cancer Alley](/notes/eustatic/06-11-2020/previous-use-of-the-minivol-in-preventing-the-spread-of-cancer-alley) by [eustatic](../profile/eustatic)
 - [Updated list of EPA TO methods?](/notes/kgradow1/06-16-2020/updated-list-of-epa-to-methods) by [kgradow1](../profile/kgradow1)
 - [What is the Community Right-to-Know Act?](/notes/kgradow1/06-18-2020/what-is-the-community-right-to-know-act) by [kgradow1](../profile/kgradow1)
@@ -36,7 +34,6 @@
 - [What kinds of chemicals can the bucket test for?](/notes/kgradow1/08-01-2020/to-15a-searchable-list-of-pollutants) by [kgradow1](../profile/kgradow1)
 - [A Short List of Community Air Guides](/notes/kgradow1/09-09-2020/a-short-list-of-community-air-guides) by [kgradow1](../profile/kgradow1)
 - [For the Bucket Monitor, how many tedlar bags do you need per-sampling?](/notes/mimiss/09-16-2020/for-the-bucket-monitor-how-many-tedlar-bags-do-you-need-per-sampling) by [mimiss](../profile/mimiss)
-- [The best eye specialist in Karachi](/notes/alkhaleejclinics/09-18-2020/the-best-eye-specialist-in-karachi) by [alkhaleejclinics](../profile/alkhaleejclinics)
 - [How to host a community meeting](/notes/kgradow1/09-26-2020/host-a-community-meeting-to-discuss-your-air-sampling-goals) by [kgradow1](../profile/kgradow1)
 - [Research area review on air quality](/notes/bhamster/10-20-2020/research-area-review-on-air-quality) by [bhamster](../profile/bhamster)
 - [How to Keep a Pollution Log](/notes/kgradow1/10-21-2020/how-to-keep-a-pollution-log) by [kgradow1](../profile/kgradow1)

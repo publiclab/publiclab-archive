@@ -1,12 +1,18 @@
 ---
-nid: 15029
 title: sandbox-2
-path: public/static/wiki/sandbox-2.md
+tagnames: demo, 14625
+author: warren
+path: /wiki/sandbox-2.md
+nid: 15029
 uid: 1
-tagnames: demo,14625
+
 ---
 
 # sandbox-2
+
+by [warren](../profile/warren), [liz](../profile/liz), [icarito](../profile/icarito)
+
+October 11, 2017 19:47 | Tags: [demo](../tag/demo), [14625](../tag/14625)
 
 
 

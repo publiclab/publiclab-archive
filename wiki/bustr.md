@@ -1,12 +1,18 @@
 ---
-nid: 12675
 title: bustr
-path: public/static/wiki/bustr.md
-uid: 43651
 tagnames: 
+author: donblair
+path: /wiki/bustr.md
+nid: 12675
+uid: 43651
+
 ---
 
 # bustr
+
+by [donblair](../profile/donblair)
+
+February 10, 2016 06:53 | Tags: 
 
 Design files here:
 

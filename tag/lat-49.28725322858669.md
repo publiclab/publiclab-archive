@@ -1,5 +1,5 @@
 # lat-49.28725322858669
 
-1 notes and wiki pages
+1 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Kinder Morgan Westridge Terminal. Burnaby, British Columbia. ](/map/kinder-morgan-westridge-terminal-burnaby-british-columbia/2012-10-06) by [gonzoearth](../profile/gonzoearth)

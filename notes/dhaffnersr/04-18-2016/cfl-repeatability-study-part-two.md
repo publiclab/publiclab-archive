@@ -1,12 +1,18 @@
 ---
-nid: 12999
 title: CFL repeatability study part two...
-path: public/static/notes/dhaffnersr/04-18-2016/cfl-repeatability-study-part-two.md
-uid: 461120
 tagnames: 
+author: dhaffnersr
+path: /notes/dhaffnersr/04-18-2016/cfl-repeatability-study-part-two.md
+nid: 12999
+uid: 461120
+
 ---
 
 # CFL repeatability study part two...
+
+by [dhaffnersr](../profile/dhaffnersr) April 18, 2016 12:35
+
+April 18, 2016 12:35 | Tags: 
 
 I put together 4 separate graphs demonstrating any "drift" time from time of data capture to end of data capture for the cfl study, and have some very interesting observations. 
 

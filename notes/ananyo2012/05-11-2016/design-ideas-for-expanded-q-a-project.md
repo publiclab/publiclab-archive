@@ -1,12 +1,18 @@
 ---
-nid: 13101
 title: Design Ideas for Expanded Q & A Project
-path: public/static/notes/ananyo2012/05-11-2016/design-ideas-for-expanded-q-a-project.md
+tagnames: software, design, gsoc, web, developers, gsoc-2016, q-and-a, ui
+author: ananyo2012
+path: /notes/ananyo2012/05-11-2016/design-ideas-for-expanded-q-a-project.md
+nid: 13101
 uid: 468506
-tagnames: software,design,gsoc,web,developers,gsoc-2016,q-and-a,ui
+
 ---
 
 # Design Ideas for Expanded Q & A Project
+
+by [ananyo2012](../profile/ananyo2012) May 11, 2016 01:55
+
+May 11, 2016 01:55 | Tags: [software](../tag/software), [design](../tag/design), [gsoc](../tag/gsoc), [web](../tag/web), [developers](../tag/developers), [gsoc-2016](../tag/gsoc-2016), [q-and-a](../tag/q-and-a), [ui](../tag/ui)
 
 Hello everyone. Here are the very early designs of the Expanded Q & A project for Publiclab.org. 
 

@@ -1,12 +1,18 @@
 ---
-nid: 385
 title: Fundraising
-path: public/static/wiki/fundraising.md
-uid: 1
 tagnames: fundraising
+author: warren
+path: /wiki/fundraising.md
+nid: 385
+uid: 1
+
 ---
 
 # Fundraising
+
+by [liz](../profile/liz), [warren](../profile/warren)
+
+July 16, 2011 12:09 | Tags: [fundraising](../tag/fundraising)
 
 This page is a top level page for the diverse fundraising activities happening in Public Lab. 
 

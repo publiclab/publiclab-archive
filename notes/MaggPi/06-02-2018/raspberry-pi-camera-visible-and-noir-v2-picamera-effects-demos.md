@@ -1,12 +1,18 @@
 ---
-nid: 16423
 title: Raspberry Pi camera (visible and NOIR) V2 / picamera effects demos
-path: public/static/notes/MaggPi/06-02-2018/raspberry-pi-camera-visible-and-noir-v2-picamera-effects-demos.md
+tagnames: webcam, camera, gsoc, pi, raspberry, pi-camera, pinoir, soc, gsoc-2018, soc-2018, pi-microscope, camera-comparison
+author: MaggPi
+path: /notes/MaggPi/06-02-2018/raspberry-pi-camera-visible-and-noir-v2-picamera-effects-demos.md
+nid: 16423
 uid: 501996
-tagnames: webcam,camera,gsoc,pi,raspberry,pi-camera,pinoir,soc,gsoc-2018,soc-2018,pi-microscope,camera-comparison
+
 ---
 
 # Raspberry Pi camera (visible and NOIR) V2 / picamera effects demos
+
+by [MaggPi](../profile/MaggPi) June 02, 2018 22:12
+
+June 02, 2018 22:12 | Tags: [webcam](../tag/webcam), [camera](../tag/camera), [gsoc](../tag/gsoc), [pi](../tag/pi), [raspberry](../tag/raspberry), [pi-camera](../tag/pi-camera), [pinoir](../tag/pinoir), [soc](../tag/soc), [gsoc-2018](../tag/gsoc-2018), [soc-2018](../tag/soc-2018), [pi-microscope](../tag/pi-microscope), [camera-comparison](../tag/camera-comparison)
 
 Four  videos  demonstrate  Raspberry Pi V2 picamera preset processing effects.  The effects show preprogrammed camera settings that may be useful for both spectral imaging and microscope applications.   For info on picamera processing features see: https://projects.raspberrypi.org/en/projects/getting-started-with-picamera
 

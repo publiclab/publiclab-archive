@@ -1,6 +1,6 @@
 # parent-oil-testing-kit
 
-6 notes and wiki pages
+6 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Oil Testing Kit Illustrations](/wiki/oil-testing-kit-illustrations) (wiki)
 - [Oil Testing Kit Literature](/wiki/oil-testing-kit-literature) (wiki)

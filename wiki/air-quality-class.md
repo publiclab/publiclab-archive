@@ -1,12 +1,18 @@
 ---
-nid: 5869
 title: Air Quality Class
-path: public/static/wiki/air-quality-class.md
+tagnames: education, curriculum, cypress-hills, air-quality, airquality, indoor-air-quality, eee, air-quality-projects, cccccc
+author: liz
+path: /wiki/air-quality-class.md
+nid: 5869
 uid: 7
-tagnames: education,curriculum,cypress-hills,air-quality,airquality,indoor-air-quality,eee,air-quality-projects,cccccc
+
 ---
 
 # Air Quality Class
+
+by [warren](../profile/warren), [liz](../profile/liz), [jmsaavedra](../profile/jmsaavedra), [georgiabullen](../profile/georgiabullen)
+
+February 02, 2013 20:31 | Tags: [education](../tag/education), [curriculum](../tag/curriculum), [cypress-hills](../tag/cypress-hills), [air-quality](../tag/air-quality), [airquality](../tag/airquality), [indoor-air-quality](../tag/indoor-air-quality), [eee](../tag/eee), [air-quality-projects](../tag/air-quality-projects), [cccccc](../tag/cccccc)
 
 <style type="text/css">
 .btn {

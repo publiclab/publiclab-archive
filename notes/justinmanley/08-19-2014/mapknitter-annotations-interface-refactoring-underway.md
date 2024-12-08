@@ -1,12 +1,18 @@
 ---
-nid: 11062
 title: MapKnitter Annotations: Interface Refactoring Underway
-path: public/static/notes/justinmanley/08-19-2014/mapknitter-annotations-interface-refactoring-underway.md
+tagnames: mapknitter, map-annotations, annotations
+author: justinmanley
+path: /notes/justinmanley/08-19-2014/mapknitter-annotations-interface-refactoring-underway.md
+nid: 11062
 uid: 421556
-tagnames: mapknitter,map-annotations,annotations
+
 ---
 
 # MapKnitter Annotations: Interface Refactoring Underway
+
+by [justinmanley](../profile/justinmanley) August 19, 2014 00:03
+
+August 19, 2014 00:03 | Tags: [mapknitter](../tag/mapknitter), [map-annotations](../tag/map-annotations), [annotations](../tag/annotations)
 
 ### Background ###
 

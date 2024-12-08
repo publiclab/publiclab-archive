@@ -1,12 +1,18 @@
 ---
-nid: 13793
 title: PublicLab Mobius calibration 
-path: public/static/notes/dbehr/12-19-2016/publiclab-mobius-calibration.md
-uid: 436864
 tagnames: question:infragram
+author: dbehr
+path: /notes/dbehr/12-19-2016/publiclab-mobius-calibration.md
+nid: 13793
+uid: 436864
+
 ---
 
 # PublicLab Mobius calibration 
+
+by [dbehr](../profile/dbehr) December 19, 2016 11:35
+
+December 19, 2016 11:35 | Tags: [question:infragram](../tag/question:infragram)
 
 
 Hi, I have the enclosed image taken with the Mobius Publiclab Camera. I would like to know how to calibrate it for NDVI ?

@@ -1,12 +1,18 @@
 ---
-nid: 7558
 title: Infragram
-path: public/static/wiki/infragram.md
+tagnames: near-infrared-camera, remote-sensing, ndvi, wetlands, agriculture, software, near-infrared, soil, infragram, list:plots-infrared, tool, 19, parent:multispectral-imaging, method, location:blurred, agricultural, fertilizer, remote-, zoom:13, lat:32.74, lon:-117.13
+author: donblair
+path: /wiki/infragram.md
+nid: 7558
 uid: 43651
-tagnames: near-infrared-camera,remote-sensing,ndvi,wetlands,agriculture,software,near-infrared,soil,infragram,list:plots-infrared,tool,19,parent:multispectral-imaging,method,location:blurred,agricultural,fertilizer,remote-,zoom:13,lat:32.74,lon:-117.13
+
 ---
 
 # Infragram
+
+by [warren](../profile/warren), [liz](../profile/liz), [mimiss](../profile/mimiss), [natalie](../profile/natalie), [mathew](../profile/mathew), [paulokemperfilho](../profile/paulokemperfilho), [msfisher](../profile/msfisher), [cfastie](../profile/cfastie), [donblair](../profile/donblair)
+
+May 15, 2013 01:17 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [remote-sensing](../tag/remote-sensing), [ndvi](../tag/ndvi), [wetlands](../tag/wetlands), [agriculture](../tag/agriculture), [software](../tag/software), [near-infrared](../tag/near-infrared), [soil](../tag/soil), [infragram](../tag/infragram), [list:plots-infrared](../tag/list:plots-infrared), [tool](../tag/tool), [19](../tag/19), [parent:multispectral-imaging](../tag/parent:multispectral-imaging), [method](../tag/method), [location:blurred](../tag/location:blurred), [agricultural](../tag/agricultural), [fertilizer](../tag/fertilizer), [remote-](../tag/remote-), [zoom:13](../tag/zoom:13), [lat:32.74](../tag/lat:32.74), [lon:-117.13](../tag/lon:-117.13)
 
 The Infragram project brings together a range of different efforts to make Do-It-Yourself plant health comparisons possible with infrared photography. Use the web-based app at [Infragram.org](https://infragram.org/) to process your imagery.
 

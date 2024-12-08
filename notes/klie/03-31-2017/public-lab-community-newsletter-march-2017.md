@@ -1,12 +1,18 @@
 ---
-nid: 14072
 title: Public Lab Community Newsletter: March 2017
-path: public/static/notes/klie/03-31-2017/public-lab-community-newsletter-march-2017.md
+tagnames: newsletter, pbs, news, stormwater, autodesk, gosh, gosh2017, board-of-directors
+author: klie
+path: /notes/klie/03-31-2017/public-lab-community-newsletter-march-2017.md
+nid: 14072
 uid: 441262
-tagnames: newsletter,pbs,news,stormwater,autodesk,gosh,gosh2017,board-of-directors
+
 ---
 
 # Public Lab Community Newsletter: March 2017
+
+by [klie](../profile/klie) March 31, 2017 16:40
+
+March 31, 2017 16:40 | Tags: [newsletter](../tag/newsletter), [pbs](../tag/pbs), [news](../tag/news), [stormwater](../tag/stormwater), [autodesk](../tag/autodesk), [gosh](../tag/gosh), [gosh2017](../tag/gosh2017), [board-of-directors](../tag/board-of-directors)
 
 ####**Are you subscribed?**
 We send this out monthly to your inboxes in addition to sharing it on [publiclab.org](http://publiclab.org)! 

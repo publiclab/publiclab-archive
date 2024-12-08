@@ -1,12 +1,18 @@
 ---
-nid: 16513
 title: How can you use  computer vision to reduce spectral overlap? 
-path: public/static/notes/MaggPi/06-17-2018/how-can-you-use-computer-vision-to-reduce-spectral-overlap.md
+tagnames: spectrometer, raspberry-pi, spectral-analysis, pi-camera, gsoc-2018, soc-2018, spectral-staircase, noir
+author: MaggPi
+path: /notes/MaggPi/06-17-2018/how-can-you-use-computer-vision-to-reduce-spectral-overlap.md
+nid: 16513
 uid: 501996
-tagnames: spectrometer,raspberry-pi,spectral-analysis,pi-camera,gsoc-2018,soc-2018,spectral-staircase,noir
+
 ---
 
 # How can you use  computer vision to reduce spectral overlap? 
+
+by [MaggPi](../profile/MaggPi) June 17, 2018 19:34
+
+June 17, 2018 19:34 | Tags: [spectrometer](../tag/spectrometer), [raspberry-pi](../tag/raspberry-pi), [spectral-analysis](../tag/spectral-analysis), [pi-camera](../tag/pi-camera), [gsoc-2018](../tag/gsoc-2018), [soc-2018](../tag/soc-2018), [spectral-staircase](../tag/spectral-staircase), [noir](../tag/noir)
 
 Research question: Can  image processing /computer vision be used to increase the free spectral range (or reduce spectral overlap) of spectrometer designs? 
 

@@ -1,12 +1,18 @@
 ---
-nid: 19054
 title: Forest Conservation Through Local Wisdom
-path: public/static/notes/Dasta/04-14-2019/forest-conservation-through-local-wisdom.md
+tagnames: forest, conservation, asia, indonesia, ecosystem, first-time-poster, indigenous, forest-conservation, indigenous-people, local-wisdom, local-knowledge, forest-management, lat:-2.262595, lon:102.700195
+author: Dasta
+path: /notes/Dasta/04-14-2019/forest-conservation-through-local-wisdom.md
+nid: 19054
 uid: 584138
-tagnames: forest,conservation,asia,indonesia,ecosystem,first-time-poster,indigenous,forest-conservation,indigenous-people,local-wisdom,local-knowledge,forest-management,lat:-2.262595,lon:102.700195
+
 ---
 
 # Forest Conservation Through Local Wisdom
+
+by [Dasta](../profile/Dasta) April 14, 2019 10:27
+
+April 14, 2019 10:27 | Tags: [forest](../tag/forest), [conservation](../tag/conservation), [asia](../tag/asia), [indonesia](../tag/indonesia), [ecosystem](../tag/ecosystem), [first-time-poster](../tag/first-time-poster), [indigenous](../tag/indigenous), [forest-conservation](../tag/forest-conservation), [indigenous-people](../tag/indigenous-people), [local-wisdom](../tag/local-wisdom), [local-knowledge](../tag/local-knowledge), [forest-management](../tag/forest-management), [lat:-2.262595](../tag/lat:-2.262595), [lon:102.700195](../tag/lon:102.700195)
 
 Actually, forest conservation efforts have been made by indigenous peoples from generation to generation with local wisdom.
 

@@ -1,12 +1,18 @@
 ---
-nid: 12627
 title: Optical Monitoring of Particulate Matter
-path: public/static/wiki/optical-monitoring-of-particulate-matter.md
+tagnames: arduino, air-quality, pm, parent:pm-monitoring, method, optical-pm, air-sensors, parent:air-quality
+author: mathew
+path: /wiki/optical-monitoring-of-particulate-matter.md
+nid: 12627
 uid: 4
-tagnames: arduino,air-quality,pm,parent:pm-monitoring,method,optical-pm,air-sensors,parent:air-quality
+
 ---
 
 # Optical Monitoring of Particulate Matter
+
+by [stevie](../profile/stevie), [warren](../profile/warren), [mathew](../profile/mathew), [liz](../profile/liz)
+
+January 27, 2016 19:50 | Tags: [arduino](../tag/arduino), [air-quality](../tag/air-quality), [pm](../tag/pm), [parent:pm-monitoring](../tag/parent:pm-monitoring), [method](../tag/method), [optical-pm](../tag/optical-pm), [air-sensors](../tag/air-sensors), [parent:air-quality](../tag/parent:air-quality)
 
 Optical PM monitoring of [Particulate Matter](/wiki/pm) (PM) is an attempt to measure the diameter of particles in flight. Optical monitors are a low-cost way to get real-time data about particles in the air. They are an automated, electronic version of the effect seen in a darkened room by light glinting off of dust in a sunbeam. 
 

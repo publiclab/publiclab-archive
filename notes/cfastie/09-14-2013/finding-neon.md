@@ -1,12 +1,18 @@
 ---
-nid: 9326
 title: Finding Neon
-path: public/static/notes/cfastie/09-14-2013/finding-neon.md
+tagnames: spectrometer, spectralworkbench, ebert, gsoc, gsoc-2013
+author: cfastie
+path: /notes/cfastie/09-14-2013/finding-neon.md
+nid: 9326
 uid: 554
-tagnames: spectrometer,spectralworkbench,ebert,gsoc,gsoc-2013
+
 ---
 
 # Finding Neon
+
+by [cfastie](../profile/cfastie) September 14, 2013 00:38
+
+September 14, 2013 00:38 | Tags: [spectrometer](../tag/spectrometer), [spectralworkbench](../tag/spectralworkbench), [ebert](../tag/ebert), [gsoc](../tag/gsoc), [gsoc-2013](../tag/gsoc-2013)
 
 *Image above: The spectra of the red tubes in these six neon signs are at SpectralWorkbench. You can now search for similar spectra, so these make a good test.*  
 

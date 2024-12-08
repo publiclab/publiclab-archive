@@ -1,12 +1,18 @@
 ---
-nid: 7933
 title: Infrafilters
-path: public/static/notes/cfastie/05-27-2013/infrafilters.md
+tagnames: near-infrared-camera, nir, vermont, photoshop, infragram, rosco, infrablue, infragram-filters
+author: cfastie
+path: /notes/cfastie/05-27-2013/infrafilters.md
+nid: 7933
 uid: 554
-tagnames: near-infrared-camera,nir,vermont,photoshop,infragram,rosco,infrablue,infragram-filters
+
 ---
 
 # Infrafilters
+
+by [cfastie](../profile/cfastie) May 27, 2013 20:03
+
+May 27, 2013 20:03 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [nir](../tag/nir), [vermont](../tag/vermont), [photoshop](../tag/photoshop), [infragram](../tag/infragram), [rosco](../tag/rosco), [infrablue](../tag/infrablue), [infragram-filters](../tag/infragram-filters)
 
 <em>Image above: An infrablue photo (Infragram prototype) and a false color infrared look-alike image made from it. Instead of NRG (near-infrared, red, green) this images displays NBG (near-infrared, blue, green).</em>
 

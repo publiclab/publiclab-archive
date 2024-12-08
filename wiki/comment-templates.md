@@ -1,12 +1,18 @@
 ---
-nid: 17494
 title: Comment templates
-path: public/static/wiki/comment-templates.md
+tagnames: location:blurred, templates, lat:28, lon:77, place:india, parent:templates, zoom:6
+author: warren
+path: /wiki/comment-templates.md
+nid: 17494
 uid: 1
-tagnames: location:blurred,templates,lat:28,lon:77,place:india,parent:templates,zoom:6
+
 ---
 
 # Comment templates
+
+by [warren](../profile/warren)
+
+November 08, 2018 22:11 | Tags: [location:blurred](../tag/location:blurred), [templates](../tag/templates), [lat:28](../tag/lat:28), [lon:77](../tag/lon:77), [place:india](../tag/place:india), [parent:templates](../tag/parent:templates), [zoom:6](../tag/zoom:6)
 
 Authors on PublicLab.org can add a tag to pages to insert a text template into the commenting text input box. This can be useful when soliciting input on an idea, such as in [a call for feedback](/questions/warren/02-21-2018/what-do-you-think-about-this-new-design-sketch-for-a-welcome-page), or a survey. 
 

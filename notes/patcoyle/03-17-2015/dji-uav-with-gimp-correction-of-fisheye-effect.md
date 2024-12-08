@@ -1,12 +1,18 @@
 ---
-nid: 11684
 title: DJI UAV mapping with Gimp correction of fisheye effect
-path: public/static/notes/patcoyle/03-17-2015/dji-uav-with-gimp-correction-of-fisheye-effect.md
+tagnames: fisheye, aerial-mapping, uav-mapping, gimp, dji, lens-distortion, activity:lens-distortion, lens-correction, activity:lens-correction
+author: patcoyle
+path: /notes/patcoyle/03-17-2015/dji-uav-with-gimp-correction-of-fisheye-effect.md
+nid: 11684
 uid: 77
-tagnames: fisheye,aerial-mapping,uav-mapping,gimp,dji,lens-distortion,activity:lens-distortion,lens-correction,activity:lens-correction
+
 ---
 
 # DJI UAV mapping with Gimp correction of fisheye effect
+
+by [patcoyle](../profile/patcoyle) March 17, 2015 03:18
+
+March 17, 2015 03:18 | Tags: [fisheye](../tag/fisheye), [aerial-mapping](../tag/aerial-mapping), [uav-mapping](../tag/uav-mapping), [gimp](../tag/gimp), [dji](../tag/dji), [lens-distortion](../tag/lens-distortion), [activity:lens-distortion](../tag/activity:lens-distortion), [lens-correction](../tag/lens-correction), [activity:lens-correction](../tag/activity:lens-correction)
 
 ###What I want to do
 Continue to explore mapping with corrections to fisheye effect in images from low altitude UAVs (like this DJI Phantom flight). See [prior note](http://publiclab.org/notes/patcoyle/11-27-2014/initial-results-pl-mobius-infragram-point-and-shoot-on-parrot-ar-drone-2-0) and [note](http://publiclab.org/notes/patcoyle/11-27-2014/initial-results-using-ptlens-to-correct-fisheye-effect-in-pl-mobius-infragram-point-and-shoot).

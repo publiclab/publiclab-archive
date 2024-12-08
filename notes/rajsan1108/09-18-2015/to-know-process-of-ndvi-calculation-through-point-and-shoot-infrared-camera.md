@@ -1,12 +1,18 @@
 ---
-nid: 12223
 title: to know process of NDVI calculation through point and shoot infrared camera
-path: public/static/notes/rajsan1108/09-18-2015/to-know-process-of-ndvi-calculation-through-point-and-shoot-infrared-camera.md
-uid: 451698
 tagnames: first-time-poster
+author: rajsan1108
+path: /notes/rajsan1108/09-18-2015/to-know-process-of-ndvi-calculation-through-point-and-shoot-infrared-camera.md
+nid: 12223
+uid: 451698
+
 ---
 
 # to know process of NDVI calculation through point and shoot infrared camera
+
+by [rajsan1108](../profile/rajsan1108) September 18, 2015 07:59
+
+September 18, 2015 07:59 | Tags: [first-time-poster](../tag/first-time-poster)
 
 sir I am researcher in Punjab agricultural university Ludhiana, Punjab (India ). I have bought your camera for NDVI calculation of the corn field for my project work.
 1) I used infragram for image analysis but after uploading image of IR camera and select NDVI for point and shoot camera option on red filter then I select HSV mode.then I obtain red and yellowish image but after that how will I know the NDVI value. please guide me and tell me full process so that I am able to find NDVI.

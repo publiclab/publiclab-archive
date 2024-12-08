@@ -1,12 +1,18 @@
 ---
-nid: 16052
 title: Hacked Infragram Raspberry Pi camera now on the International Space Station
-path: public/static/notes/warren/04-02-2018/hacked-infragram-raspberry-pi-camera-now-on-the-international-space-station.md
+tagnames: ndvi, nasa, filter, raspberry-pi, infragram, rosco, blog, infragram-filters, space, pi-camera, esa, iss, space-station, astro-pi
+author: warren
+path: /notes/warren/04-02-2018/hacked-infragram-raspberry-pi-camera-now-on-the-international-space-station.md
+nid: 16052
 uid: 1
-tagnames: ndvi,nasa,filter,raspberry-pi,infragram,rosco,blog,infragram-filters,space,pi-camera,esa,iss,space-station,astro-pi
+
 ---
 
 # Hacked Infragram Raspberry Pi camera now on the International Space Station
+
+by [warren](../profile/warren) April 02, 2018 15:43
+
+April 02, 2018 15:43 | Tags: [ndvi](../tag/ndvi), [nasa](../tag/nasa), [filter](../tag/filter), [raspberry-pi](../tag/raspberry-pi), [infragram](../tag/infragram), [rosco](../tag/rosco), [blog](../tag/blog), [infragram-filters](../tag/infragram-filters), [space](../tag/space), [pi-camera](../tag/pi-camera), [esa](../tag/esa), [iss](../tag/iss), [space-station](../tag/space-station), [astro-pi](../tag/astro-pi)
 
 _(Reposted from the [Rosco company blog](http://www.rosco.com/spectrum/index.php/2018/03/rosco-filter-helps-students-observe-earths-vegetation-from-space/) with permission)_
 

@@ -1,12 +1,18 @@
 ---
-nid: 13028
 title: Fifty Shades of Graze
-path: public/static/notes/cfastie/04-25-2016/pole-ndvi-of-deer-grazing.md
+tagnames: ndvi, vermont, infrared, filter, infragram, plant-health, pole-photography, pap, pole-aerial-photography, pole-mapping, kaptery, dualband, midopt, dichroic, interference, juno, response:12592, grazing, charismatic-megafauna, pole-bracket, category:experiment, activity:aerial-photography, activity:multispectral-imaging, activity:pole-mapping
+author: cfastie
+path: /notes/cfastie/04-25-2016/pole-ndvi-of-deer-grazing.md
+nid: 13028
 uid: 554
-tagnames: ndvi,vermont,infrared,filter,infragram,plant-health,pole-photography,pap,pole-aerial-photography,pole-mapping,kaptery,dualband,midopt,dichroic,interference,juno,response:12592,grazing,charismatic-megafauna,pole-bracket,category:experiment,activity:aerial-photography,activity:multispectral-imaging,activity:pole-mapping
+
 ---
 
 # Fifty Shades of Graze
+
+by [cfastie](../profile/cfastie) April 25, 2016 19:59
+
+April 25, 2016 19:59 | Tags: [ndvi](../tag/ndvi), [vermont](../tag/vermont), [infrared](../tag/infrared), [filter](../tag/filter), [infragram](../tag/infragram), [plant-health](../tag/plant-health), [pole-photography](../tag/pole-photography), [pap](../tag/pap), [pole-aerial-photography](../tag/pole-aerial-photography), [pole-mapping](../tag/pole-mapping), [kaptery](../tag/kaptery), [dualband](../tag/dualband), [midopt](../tag/midopt), [dichroic](../tag/dichroic), [interference](../tag/interference), [juno](../tag/juno), [response:12592](../tag/response:12592), [grazing](../tag/grazing), [charismatic-megafauna](../tag/charismatic-megafauna), [pole-bracket](../tag/pole-bracket), [category:experiment](../tag/category:experiment), [activity:aerial-photography](../tag/activity:aerial-photography), [activity:multispectral-imaging](../tag/activity:multispectral-imaging), [activity:pole-mapping](../tag/activity:pole-mapping)
 
 This month *Nature* published an article with the following assertions:
 

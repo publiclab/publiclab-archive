@@ -1,12 +1,18 @@
 ---
-nid: 30015
 title: sandbox-reviews
-path: public/static/wiki/sandbox-reviews.md
-uid: 664477
 tagnames: 
+author: bhamster
+path: /wiki/sandbox-reviews.md
+nid: 30015
+uid: 664477
+
 ---
 
 # sandbox-reviews
+
+by [bhamster](../profile/bhamster)
+
+February 09, 2022 21:59 | Tags: 
 
 **Another approach to research area reviews:**
 

@@ -1,12 +1,18 @@
 ---
-nid: 20724
 title: GSoC Final Report for UI Improvements
-path: public/static/notes/gautami_gg/08-30-2019/gsoc-final-report-for-ui-improvements.md
-uid: 579624
 tagnames: gsoc-2019-final-report
+author: gautami_gg
+path: /notes/gautami_gg/08-30-2019/gsoc-final-report-for-ui-improvements.md
+nid: 20724
+uid: 579624
+
 ---
 
 # GSoC Final Report for UI Improvements
+
+by [gautami_gg](../profile/gautami_gg) August 30, 2019 06:42
+
+August 30, 2019 06:42 | Tags: [gsoc-2019-final-report](../tag/gsoc-2019-final-report)
 
 \*\*Project Title \*\*: UI Improvements to [PublicLab website](https://publiclab.org/research).
 

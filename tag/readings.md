@@ -1,6 +1,6 @@
 # readings
 
-5 notes and wiki pages
+5 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Suggested Readings](/wiki/suggested-readings) (wiki)
 - [Recent citizen/open science articles](/notes/warren/2-6-2012/recent-citizenopen-science-articles) by [warren](../profile/warren)

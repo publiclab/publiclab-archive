@@ -1,12 +1,18 @@
 ---
-nid: 10356
 title: GSoC FAQ
-path: public/static/wiki/gsoc-faq.md
+tagnames: gsoc, gsoc-2014
+author: warren
+path: /wiki/gsoc-faq.md
+nid: 10356
 uid: 1
-tagnames: gsoc,gsoc-2014
+
 ---
 
 # GSoC FAQ
+
+by [warren](../profile/warren)
+
+April 24, 2014 17:52 | Tags: [gsoc](../tag/gsoc), [gsoc-2014](../tag/gsoc-2014)
 
 Please post your questions here!
 

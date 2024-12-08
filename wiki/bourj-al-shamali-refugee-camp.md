@@ -1,12 +1,18 @@
 ---
-nid: 12176
 title: Bourj Al Shamali Refugee Camp
-path: public/static/wiki/bourj-al-shamali-refugee-camp.md
+tagnames: aerial-photography, chapter, lebanon, refugees, refugeecamps, lat:33.267941, lon:35.236883, bourjalshamali, project, place:bourj-al-shamali
+author: clauds
+path: /wiki/bourj-al-shamali-refugee-camp.md
+nid: 12176
 uid: 43867
-tagnames: aerial-photography,chapter,lebanon,refugees,refugeecamps,lat:33.267941,lon:35.236883,bourjalshamali,project,place:bourj-al-shamali
+
 ---
 
 # Bourj Al Shamali Refugee Camp
+
+by [liz](../profile/liz), [stevie](../profile/stevie), [clauds](../profile/clauds)
+
+August 27, 2015 23:23 | Tags: [aerial-photography](../tag/aerial-photography), [chapter](../tag/chapter), [lebanon](../tag/lebanon), [refugees](../tag/refugees), [refugeecamps](../tag/refugeecamps), [lat:33.267941](../tag/lat:33.267941), [lon:35.236883](../tag/lon:35.236883), [bourjalshamali](../tag/bourjalshamali), [project](../tag/project), [place:bourj-al-shamali](../tag/place:bourj-al-shamali)
 
 Bourj Al Shamali refugee camp in south Lebanon was opened in 1948 as a temporary shelter for Palestinian refugees coming from north Palestine, now Israel. Sixty years later, it has taken on the air of an overcrowded, unplanned, permanent city, with five times the original inhabitants occupying the original site, under the jurisdiction of the UN. 
 

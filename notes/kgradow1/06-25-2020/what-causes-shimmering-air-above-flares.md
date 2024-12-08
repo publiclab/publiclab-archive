@@ -1,12 +1,18 @@
 ---
-nid: 24042
 title: What causes shimmering air above flares?
-path: public/static/notes/kgradow1/06-25-2020/what-causes-shimmering-air-above-flares.md
+tagnames: air-quality, flare, fire, haze, question:air-quality, emission-spectra, question:general, general
+author: kgradow1
+path: /notes/kgradow1/06-25-2020/what-causes-shimmering-air-above-flares.md
+nid: 24042
 uid: 297929
-tagnames: air-quality,flare,fire,haze,question:air-quality,emission-spectra,question:general,general
+
 ---
 
 # What causes shimmering air above flares?
+
+by [kgradow1](../profile/kgradow1) June 25, 2020 14:39
+
+June 25, 2020 14:39 | Tags: [air-quality](../tag/air-quality), [flare](../tag/flare), [fire](../tag/fire), [haze](../tag/haze), [question:air-quality](../tag/question:air-quality), [emission-spectra](../tag/emission-spectra), [question:general](../tag/question:general), [general](../tag/general)
 
 I was looking through photos from Fractracker and had some questions!
 

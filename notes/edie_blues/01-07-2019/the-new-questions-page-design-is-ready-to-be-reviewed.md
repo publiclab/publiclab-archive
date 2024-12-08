@@ -1,12 +1,18 @@
 ---
-nid: 18073
 title: The new Questions page design is ready to be reviewed :) 
-path: public/static/notes/edie_blues/01-07-2019/the-new-questions-page-design-is-ready-to-be-reviewed.md
+tagnames: design, ui, ui-designs
+author: edie_blues
+path: /notes/edie_blues/01-07-2019/the-new-questions-page-design-is-ready-to-be-reviewed.md
+nid: 18073
 uid: 552521
-tagnames: design,ui,ui-designs
+
 ---
 
 # The new Questions page design is ready to be reviewed :) 
+
+by [edie_blues](../profile/edie_blues) January 07, 2019 20:37
+
+January 07, 2019 20:37 | Tags: [design](../tag/design), [ui](../tag/ui), [ui-designs](../tag/ui-designs)
 
 Hello all,
 

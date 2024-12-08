@@ -1,12 +1,18 @@
 ---
-nid: 17208
 title: Examples of fenceline community emissions and spill reporting services?
-path: public/static/notes/nshapiro/10-02-2018/examples-of-fenceline-community-emissions-and-spill-reporting-services.md
+tagnames: air-quality, water-quality, answered, question:general
+author: nshapiro
+path: /notes/nshapiro/10-02-2018/examples-of-fenceline-community-emissions-and-spill-reporting-services.md
+nid: 17208
 uid: 380298
-tagnames: air-quality,water-quality,answered,question:general
+
 ---
 
 # Examples of fenceline community emissions and spill reporting services?
+
+by [nshapiro](../profile/nshapiro) October 02, 2018 13:17
+
+October 02, 2018 13:17 | Tags: [air-quality](../tag/air-quality), [water-quality](../tag/water-quality), [answered](../tag/answered), [question:general](../tag/question:general)
 
 I'm looking for examples of websites, hotlines, or text-message platforms that enable fenceline communities to report fugitive emissions or spills. I'm also interested in the ways that the services do and don't work and ideas about how they can be improved upon if they are open source.   
 

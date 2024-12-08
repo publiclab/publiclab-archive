@@ -1,12 +1,18 @@
 ---
-nid: 879
 title: Open Hardware Licensing
-path: public/static/wiki/open-hardware-licensing.md
-uid: 1
 tagnames: 
+author: warren
+path: /wiki/open-hardware-licensing.md
+nid: 879
+uid: 1
+
 ---
 
 # Open Hardware Licensing
+
+by [warren](../profile/warren), [liz](../profile/liz)
+
+March 01, 2012 17:12 | Tags: 
 
   <div id="share">
 	<a name="fb_share" type="button_count" href="http://www.facebook.com/sharer.php">Share</a><script src="http://static.ak.fbcdn.net/connect.php/js/FB.Share" type="text/javascript"></script>  

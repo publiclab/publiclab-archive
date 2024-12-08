@@ -1,12 +1,18 @@
 ---
-nid: 10687
 title: Kit Packaging
-path: public/static/wiki/kit-packaging.md
+tagnames: kits, parent:kits
+author: warren
+path: /wiki/kit-packaging.md
+nid: 10687
 uid: 1
-tagnames: kits,parent:kits
+
 ---
 
 # Kit Packaging
+
+by [warren](../profile/warren)
+
+July 14, 2014 14:52 | Tags: [kits](../tag/kits), [parent:kits](../tag/parent:kits)
 
 Working page for Kits Initiative's packaging designs.
 

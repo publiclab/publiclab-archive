@@ -1,6 +1,6 @@
 # project-water-quality
 
-12 notes and wiki pages
+12 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Water Quality Sensor](/wiki/water-quality-sensor) (wiki)
 - [Open Water](/wiki/open-water) (wiki)

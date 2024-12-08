@@ -1,6 +1,6 @@
 # with-wmacfarl
 
-13 notes and wiki pages
+13 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Project Night:  DIY Microscopes!](/notes/partsandcrafts/10-22-2017/project-night-at-fabville-somerville-diy-microscopes) by [partsandcrafts](../profile/partsandcrafts)
 - [Making a Hackteria stage](/notes/partsandcrafts/10-26-2017/making-a-hackteria-microscope) by [partsandcrafts](../profile/partsandcrafts)

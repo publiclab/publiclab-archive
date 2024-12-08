@@ -1,12 +1,18 @@
 ---
-nid: 12122
 title: Public Lab - Summary in Turkish
-path: public/static/wiki/public-lab-summary-in-turkish.md
+tagnames: publiclab, summary, turkish
+author: ygzstc
+path: /wiki/public-lab-summary-in-turkish.md
+nid: 12122
 uid: 422489
-tagnames: publiclab,summary,turkish
+
 ---
 
 # Public Lab - Summary in Turkish
+
+by [ygzstc](../profile/ygzstc)
+
+August 04, 2015 18:10 | Tags: [publiclab](../tag/publiclab), [summary](../tag/summary), [turkish](../tag/turkish)
 
 ###Açık Teknoloji ve Bilim için Halk Laboratuvarı
 

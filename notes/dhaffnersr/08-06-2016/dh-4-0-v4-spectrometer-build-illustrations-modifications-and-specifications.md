@@ -1,12 +1,18 @@
 ---
-nid: 13337
 title: DH 4.0 v4 Spectrometer Build Illustrations, Modifications and Specifications
-path: public/static/notes/dhaffnersr/08-06-2016/dh-4-0-v4-spectrometer-build-illustrations-modifications-and-specifications.md
-uid: 461120
 tagnames: 
+author: dhaffnersr
+path: /notes/dhaffnersr/08-06-2016/dh-4-0-v4-spectrometer-build-illustrations-modifications-and-specifications.md
+nid: 13337
+uid: 461120
+
 ---
 
 # DH 4.0 v4 Spectrometer Build Illustrations, Modifications and Specifications
+
+by [dhaffnersr](../profile/dhaffnersr) August 06, 2016 05:59
+
+August 06, 2016 05:59 | Tags: 
 
 ##**The ZEN of simplicity**
 

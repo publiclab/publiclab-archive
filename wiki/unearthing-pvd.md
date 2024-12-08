@@ -1,12 +1,18 @@
 ---
-nid: 21410
 title: Unearthing Providence
-path: public/static/wiki/unearthing-pvd.md
+tagnames: providence, rhode-island, style:presentation, northeast, seeks:responses, content, project, location:blurred, geo-storytelling, unearthing-pvd, zoom:9, ri
+author: warren
+path: /wiki/unearthing-pvd.md
+nid: 21410
 uid: 1
-tagnames: providence,rhode-island,style:presentation,northeast,seeks:responses,content,project,location:blurred,geo-storytelling,unearthing-pvd,zoom:9,ri
+
 ---
 
 # Unearthing Providence
+
+by [warren](../profile/warren), [sfrickel](../profile/sfrickel), [tmarlow](../profile/tmarlow), [srgonsalves1](../profile/srgonsalves1)
+
+November 06, 2019 15:06 | Tags: [providence](../tag/providence), [rhode-island](../tag/rhode-island), [style:presentation](../tag/style:presentation), [northeast](../tag/northeast), [seeks:responses](../tag/seeks:responses), [content](../tag/content), [project](../tag/project), [location:blurred](../tag/location:blurred), [geo-storytelling](../tag/geo-storytelling), [unearthing-pvd](../tag/unearthing-pvd), [zoom:9](../tag/zoom:9), [ri](../tag/ri)
 
 **A platform for historical data-driven analyses of industrial land use, story-mapping, and community organizing.**
 

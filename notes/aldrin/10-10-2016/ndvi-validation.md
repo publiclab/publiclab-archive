@@ -1,12 +1,18 @@
 ---
-nid: 13544
 title: NDVI validation
-path: public/static/notes/aldrin/10-10-2016/ndvi-validation.md
+tagnames: ndvi, raspberry-pi, question:ndvi, first-time-poster
+author: aldrin
+path: /notes/aldrin/10-10-2016/ndvi-validation.md
+nid: 13544
 uid: 493973
-tagnames: ndvi,raspberry-pi,question:ndvi,first-time-poster
+
 ---
 
 # NDVI validation
+
+by [aldrin](../profile/aldrin) October 10, 2016 01:33
+
+October 10, 2016 01:33 | Tags: [ndvi](../tag/ndvi), [raspberry-pi](../tag/raspberry-pi), [question:ndvi](../tag/question:ndvi), [first-time-poster](../tag/first-time-poster)
 
 How can i validate that the data I obtained using raspi noir camera  are really NIR and NDVI?
 

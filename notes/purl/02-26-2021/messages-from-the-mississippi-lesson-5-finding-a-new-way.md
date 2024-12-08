@@ -1,12 +1,18 @@
 ---
-nid: 25813
 title: Messages from the Mississippi Lesson 5: Finding a New Way
-path: public/static/notes/purl/02-26-2021/messages-from-the-mississippi-lesson-5-finding-a-new-way.md
+tagnames: microplastics, messagesfromthemississippi
+author: purl
+path: /notes/purl/02-26-2021/messages-from-the-mississippi-lesson-5-finding-a-new-way.md
+nid: 25813
 uid: 736598
-tagnames: microplastics,messagesfromthemississippi
+
 ---
 
 # Messages from the Mississippi Lesson 5: Finding a New Way
+
+by [purl](../profile/purl) February 26, 2021 20:53
+
+February 26, 2021 20:53 | Tags: [microplastics](../tag/microplastics), [messagesfromthemississippi](../tag/messagesfromthemississippi)
 
 # Overview [](https://publiclab.org/notes/mimiss/05-07-2019/workshop-i-how-do-communities-respond-to-environmental-problems?_=1561052111#Overview)[](https://publiclab.org/notes/purl/01-28-2021/messages-from-the-mississippi-lesson-3-analyzing-data?_=1611940285#Overview+%3Ca+href=%22https://publiclab.org/notes/mimiss/05-07-2019/workshop-i-how-do-communities-respond-to-environmental-problems?_=1561052111#Overview%22%3E%3C/a%3E)[](https://publiclab.org/questions/purl/02-26-2021/messages-from-the-mississippi-lesson-5-finding-a-new-way#Overview+%3Ca+href=%22https://publiclab.org/notes/mimiss/05-07-2019/workshop-i-how-do-communities-respond-to-environmental-problems?_=1561052111#Overview%22%3E%3C/a%3E%3Ca+href=%22https://publiclab.org/notes/purl/01-28-2021/messages-from-the-mississippi-lesson-3-analyzing-data?_=1611940285#Overview+%3Ca+href=%22https://publiclab.org/notes/mimiss/05-07-2019/workshop-i-how-do-communities-respond-to-environmental-problems?_=1561052111#Overview%22%3E%3C/a%3E%22%3E%3C/a%3E)
 

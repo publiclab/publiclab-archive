@@ -1,12 +1,18 @@
 ---
-nid: 5425
 title: Only getting color at top of image
-path: public/static/notes/brentnewhall/1-5-2013/only-getting-spectra-top-image.md
+tagnames: calibration, troubleshooting
+author: BrentNewhall
+path: /notes/brentnewhall/1-5-2013/only-getting-spectra-top-image.md
+nid: 5425
 uid: 45471
-tagnames: calibration,troubleshooting
+
 ---
 
 # Only getting color at top of image
+
+by [BrentNewhall](../profile/BrentNewhall) January 05, 2013 14:55
+
+January 05, 2013 14:55 | Tags: [calibration](../tag/calibration), [troubleshooting](../tag/troubleshooting)
 
 Thanks to everyone for their suggestions on my "black image only" spectrometer! Turns out the DVD-R piece I received was damaged.
 

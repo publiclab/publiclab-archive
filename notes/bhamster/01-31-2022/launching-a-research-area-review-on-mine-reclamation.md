@@ -1,12 +1,18 @@
 ---
-nid: 29075
 title: Launching a research area review on mine reclamation
-path: public/static/notes/bhamster/01-31-2022/launching-a-research-area-review-on-mine-reclamation.md
+tagnames: mining, land-use, reviews, research-area-review, reclamation, with:laurel_mire, mine-reclamation, land-rehabilitation
+author: bhamster
+path: /notes/bhamster/01-31-2022/launching-a-research-area-review-on-mine-reclamation.md
+nid: 29075
 uid: 664477
-tagnames: mining,land-use,reviews,research-area-review,reclamation,with:laurel_mire,mine-reclamation,land-rehabilitation
+
 ---
 
 # Launching a research area review on mine reclamation
+
+by [bhamster](../profile/bhamster) January 31, 2022 16:17
+
+January 31, 2022 16:17 | Tags: [mining](../tag/mining), [land-use](../tag/land-use), [reviews](../tag/reviews), [research-area-review](../tag/research-area-review), [reclamation](../tag/reclamation), [with:laurel_mire](../tag/with:laurel_mire), [mine-reclamation](../tag/mine-reclamation), [land-rehabilitation](../tag/land-rehabilitation)
 
 _Image: Reclaimed mining land in Kentucky. From [iLoveMountains.org](https://www.flickr.com/photos/nationalmemorialforthemountains/4534742719), [CC BY](https://creativecommons.org/licenses/by/2.0/)_
 

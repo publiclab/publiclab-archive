@@ -1,12 +1,18 @@
 ---
-nid: 11271
 title: Visualizing Riffle-ito data
-path: public/static/notes/lilybui/10-16-2014/visualizing-riffle-ito-data.md
+tagnames: riffle, openwater, sensor, coqui, sensor-journalism, dataviz, data-visualization, presenting-data
+author: lilybui
+path: /notes/lilybui/10-16-2014/visualizing-riffle-ito-data.md
+nid: 11271
 uid: 420662
-tagnames: riffle,openwater,sensor,coqui,sensor-journalism,dataviz,data-visualization,presenting-data
+
 ---
 
 # Visualizing Riffle-ito data
+
+by [lilybui](../profile/lilybui) October 16, 2014 20:45
+
+October 16, 2014 20:45 | Tags: [riffle](../tag/riffle), [openwater](../tag/openwater), [sensor](../tag/sensor), [coqui](../tag/coqui), [sensor-journalism](../tag/sensor-journalism), [dataviz](../tag/dataviz), [data-visualization](../tag/data-visualization), [presenting-data](../tag/presenting-data)
 
 ###What I want to do
 

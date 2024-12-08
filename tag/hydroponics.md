@@ -1,6 +1,6 @@
 # hydroponics
 
-7 notes and wiki pages
+7 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Will Infragram help with Indoor Hydroponics/Aquaponics?](/notes/code4maine/01-15-2014/will-infragram-help-with-indoor-hydroponics-aquaponics) by [ajawitz](../profile/ajawitz)
 - [New Concepts for OSHW in Indoor Gardening](/wiki/new-concepts-for-oshw-in-indoor-gardening) (wiki)

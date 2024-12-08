@@ -1,12 +1,18 @@
 ---
-nid: 13646
 title: a public guide to get a voice in & knowledge of  gov't environmental  regulations
-path: public/static/notes/marlokeno/10-25-2016/a-public-guide-to-get-a-voice-in-knowledge-of-gov-t-environmental-regulations.md
-uid: 420760
 tagnames: 
+author: marlokeno
+path: /notes/marlokeno/10-25-2016/a-public-guide-to-get-a-voice-in-knowledge-of-gov-t-environmental-regulations.md
+nid: 13646
+uid: 420760
+
 ---
 
 # a public guide to get a voice in & knowledge of  gov't environmental  regulations
+
+by [marlokeno](../profile/marlokeno) October 25, 2016 16:06
+
+October 25, 2016 16:06 | Tags: 
 
 ###Make a guide for public input options on local environment:
 from the public for the public.

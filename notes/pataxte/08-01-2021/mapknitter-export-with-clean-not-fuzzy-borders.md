@@ -1,12 +1,18 @@
 ---
-nid: 27398
 title: mapknitter export with clean not fuzzy borders
-path: public/static/notes/pataxte/08-01-2021/mapknitter-export-with-clean-not-fuzzy-borders.md
+tagnames: mapknitter, export, question:general, general, map
+author: pataxte
+path: /notes/pataxte/08-01-2021/mapknitter-export-with-clean-not-fuzzy-borders.md
+nid: 27398
 uid: 559561
-tagnames: mapknitter,export,question:general,general,map
+
 ---
 
 # mapknitter export with clean not fuzzy borders
+
+by [pataxte](../profile/pataxte) August 01, 2021 05:23
+
+August 01, 2021 05:23 | Tags: [mapknitter](../tag/mapknitter), [export](../tag/export), [question:general](../tag/question:general), [general](../tag/general), [map](../tag/map)
 
 When I export a map in Mapknitter the borders of the images that are stitched together are fuzzy/blurred. How can I export the map with clean borders instead?
 

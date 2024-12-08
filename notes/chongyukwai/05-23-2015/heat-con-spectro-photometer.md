@@ -1,12 +1,18 @@
 ---
-nid: 11833
 title: thermal colorimetic spectro photometer
-path: public/static/notes/chongyukwai/05-23-2015/heat-con-spectro-photometer.md
+tagnames: spectro, spectrum, first-time-poster
+author: chongyukwai
+path: /notes/chongyukwai/05-23-2015/heat-con-spectro-photometer.md
+nid: 11833
 uid: 442298
-tagnames: spectro,spectrum,first-time-poster
+
 ---
 
 # thermal colorimetic spectro photometer
+
+by [chongyukwai](../profile/chongyukwai) May 23, 2015 10:50
+
+May 23, 2015 10:50 | Tags: [spectro](../tag/spectro), [spectrum](../tag/spectrum), [first-time-poster](../tag/first-time-poster)
 
 Instruction of the design
 [![Tool_(1).png](https://i.publiclab.org/system/images/photos/000/009/987/medium/Tool_%281%29.png)](https://i.publiclab.org/system/images/photos/000/009/987/original/Tool_%281%29.png)

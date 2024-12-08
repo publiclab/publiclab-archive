@@ -1,12 +1,18 @@
 ---
-nid: 21466
 title: Oil and Gas Hardware Fellow Status Update: Week 7
-path: public/static/notes/wmacfarl/11-12-2019/oil-and-gas-hardware-fellow-status-update-week-7.md
+tagnames: water-quality, oil-and-gas, oil-and-gas-water-trio
+author: wmacfarl
+path: /notes/wmacfarl/11-12-2019/oil-and-gas-hardware-fellow-status-update-week-7.md
+nid: 21466
 uid: 424597
-tagnames: water-quality,oil-and-gas,oil-and-gas-water-trio
+
 ---
 
 # Oil and Gas Hardware Fellow Status Update: Week 7
+
+by [wmacfarl](../profile/wmacfarl) November 12, 2019 15:44
+
+November 12, 2019 15:44 | Tags: [water-quality](../tag/water-quality), [oil-and-gas](../tag/oil-and-gas), [oil-and-gas-water-trio](../tag/oil-and-gas-water-trio)
 
 Hi everyone!  The update this week will not be fundamentally different from [last week's][1] because I've been working on mostly the same two projects:
  - [Open Hour][2] outreach and preparation

@@ -1,12 +1,18 @@
 ---
-nid: 14123
 title: Hack The Earth 5th edition
-path: public/static/notes/imvec/04-19-2017/hack-the-earth-5th-edition.md
+tagnames: event, air-quality, timelapse, energy, place:ca-la-fou
+author: imvec
+path: /notes/imvec/04-19-2017/hack-the-earth-5th-edition.md
+nid: 14123
 uid: 495038
-tagnames: event,air-quality,timelapse,energy,place:ca-la-fou
+
 ---
 
 # Hack The Earth 5th edition
+
+by [imvec](../profile/imvec) April 19, 2017 16:55
+
+April 19, 2017 16:55 | Tags: [event](../tag/event), [air-quality](../tag/air-quality), [timelapse](../tag/timelapse), [energy](../tag/energy), [place:ca-la-fou](../tag/place:ca-la-fou)
 
 From 14 to 16th April took place the fifth edition of the Hack The Earth event at the Ecoindustrial postcapitalist colony of Calafou ([geolocation](https://www.openstreetmap.org/#map=18/41.51136/1.70241))
 

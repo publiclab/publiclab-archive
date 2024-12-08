@@ -1,12 +1,18 @@
 ---
-nid: 13082
 title: Question: Infragram point & shoot image
-path: public/static/notes/ino/05-05-2016/question-infragram-point-shoot-image.md
+tagnames: white-balance, question:infragram, question:white-balance, question:infragram-point-shoot, question:infragram-white-balance
+author: ino
+path: /notes/ino/05-05-2016/question-infragram-point-shoot-image.md
+nid: 13082
 uid: 468582
-tagnames: white-balance,question:infragram,question:white-balance,question:infragram-point-shoot,question:infragram-white-balance
+
 ---
 
 # Question: Infragram point & shoot image
+
+by [ino](../profile/ino) May 05, 2016 22:36
+
+May 05, 2016 22:36 | Tags: [white-balance](../tag/white-balance), [question:infragram](../tag/question:infragram), [question:white-balance](../tag/question:white-balance), [question:infragram-point-shoot](../tag/question:infragram-point-shoot), [question:infragram-white-balance](../tag/question:infragram-white-balance)
 
 Hello, Do you know a software that enable to use the infragram point & shoot in webcam mode under windows 7 ? 
 With these images, the white balance is correct? Thanks

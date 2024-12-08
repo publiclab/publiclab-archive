@@ -1,12 +1,18 @@
 ---
-nid: 813
 title: Balloon Mapping Kit (retail)
-path: public/static/wiki/balloon-mapping-kit-retail.md
+tagnames: balloon-mapping, kits, parent:balloon-mapping
+author: mathew
+path: /wiki/balloon-mapping-kit-retail.md
+nid: 813
 uid: 4
-tagnames: balloon-mapping,kits,parent:balloon-mapping
+
 ---
 
 # Balloon Mapping Kit (retail)
+
+by [warren](../profile/warren), [mathew](../profile/mathew)
+
+February 19, 2012 03:01 | Tags: [balloon-mapping](../tag/balloon-mapping), [kits](../tag/kits), [parent:balloon-mapping](../tag/parent:balloon-mapping)
 
 <a href="https://www.flickr.com/photos/14397636@N07/7199086896/" title="balloonkitsquareIMG_4913 by mathew.lippincott, on Flickr"><img src="https://farm6.staticflickr.com/5192/7199086896_660a6a0119.jpg" width="500" height="500" alt="balloonkitsquareIMG_4913"></a>
 

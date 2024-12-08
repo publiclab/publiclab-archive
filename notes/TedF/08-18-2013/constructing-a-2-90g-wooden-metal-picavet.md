@@ -1,12 +1,18 @@
 ---
-nid: 9033
 title: Constructing a <£2, 90g wooden/metal picavet
-path: public/static/notes/TedF/08-18-2013/constructing-a-2-90g-wooden-metal-picavet.md
+tagnames: balloon-mapping, kite-mapping, picavet, photo-rig, camera-rig, activity:kite-mapping, activity:photo-rig, first-time-poster
+author: TedF
+path: /notes/TedF/08-18-2013/constructing-a-2-90g-wooden-metal-picavet.md
+nid: 9033
 uid: 197186
-tagnames: balloon-mapping,kite-mapping,picavet,photo-rig,camera-rig,activity:kite-mapping,activity:photo-rig,first-time-poster
+
 ---
 
 # Constructing a <£2, 90g wooden/metal picavet
+
+by [TedF](../profile/TedF) August 18, 2013 19:07
+
+August 18, 2013 19:07 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [picavet](../tag/picavet), [photo-rig](../tag/photo-rig), [camera-rig](../tag/camera-rig), [activity:kite-mapping](../tag/activity:kite-mapping), [activity:photo-rig](../tag/activity:photo-rig), [first-time-poster](../tag/first-time-poster)
 
 ##What I want to do
 Build a cheap picavet to stabilise the camera for kite mapping (or balloon mapping).

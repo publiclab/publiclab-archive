@@ -1,6 +1,6 @@
 # indoor-air-quality
 
-70 notes and wiki pages
+70 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Formaldehyde Sensing for Indoor air-pollution](/notes/sara/12-13-2011/formaldehyde-sensing-indoor-air-pollution) by [sara](../profile/sara)
 - [Air Quality Class](/wiki/air-quality-class) (wiki)
@@ -69,6 +69,3 @@
 - [How to Monitor Indoor TVOC with Raspberry PI](/notes/Makepcb/07-12-2021/how-to-monitor-indoor-tvoc-with-raspberry-pi) by [Makepcb](../profile/Makepcb)
 - [Is there a correlation between humidity and particulates in the air?](/notes/sarasage/08-10-2021/is-there-a-correlation-between-humidity-and-particulates-in-the-air) by [sarasage](../profile/sarasage)
 - [What are health and environmental concerns for sewage smell in a home?](/notes/stevie/11-29-2021/what-are-health-and-environmental-concerns-for-sewage-smell-in-a-home) by [stevie](../profile/stevie)
-- [SAP Certified Application Associate – SAP Service Cloud 2111](/notes/xenipaj516/02-13-2023/sap-certified-application-associate-sap-service-cloud-2111) by [xenipaj516](../profile/xenipaj516)
-- [How to Make Nabe Hotpot with Heirloom Vegetables](/notes/launhatban35/08-08-2024/how-to-make-nabe-hotpot-with-heirloom-vegetables) by [launhatban35](../profile/launhatban35)
-- [How to Make Nabe Hotpot with Heirloom Vegetables](/notes/nabehotpot/08-08-2024/how-to-make-nabe-hotpot-with-heirloom-vegetables) by [nabehotpot](../profile/nabehotpot)

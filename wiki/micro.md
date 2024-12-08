@@ -1,12 +1,18 @@
 ---
-nid: 16329
 title: Community Microscope Kit
-path: public/static/wiki/micro.md
+tagnames: dust, pm, microscope, method, microscopes, communityscience, community-kits, parent:microscopes, microplastics, community-microscope, communitymicroscope, activities:microscope, questions:community-microscope, micro
+author: warren
+path: /wiki/micro.md
+nid: 16329
 uid: 1
-tagnames: dust,pm,microscope,method,microscopes,communityscience,community-kits,parent:microscopes,microplastics,community-microscope,communitymicroscope,activities:microscope,questions:community-microscope,micro
+
 ---
 
 # Community Microscope Kit
+
+by [bhamster](../profile/bhamster), [warren](../profile/warren), [mimiss](../profile/mimiss), [liz](../profile/liz), [asnow](../profile/asnow), [imvec](../profile/imvec)
+
+May 11, 2018 13:14 | Tags: [dust](../tag/dust), [pm](../tag/pm), [microscope](../tag/microscope), [method](../tag/method), [microscopes](../tag/microscopes), [communityscience](../tag/communityscience), [community-kits](../tag/community-kits), [parent:microscopes](../tag/parent:microscopes), [microplastics](../tag/microplastics), [community-microscope](../tag/community-microscope), [communitymicroscope](../tag/communitymicroscope), [activities:microscope](../tag/activities:microscope), [questions:community-microscope](../tag/questions:community-microscope), [micro](../tag/micro)
 
 Using simple materials, we’ve developed a microscope kit you can build yourself - the result of many teams’ work coming together! 
 

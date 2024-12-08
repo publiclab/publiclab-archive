@@ -1,12 +1,18 @@
 ---
-nid: 10325
 title: Potential 2014 Northeast Tool-focused Barnraising 
-path: public/static/wiki/potential-2014-northeast-tool-focused-barnraising.md
+tagnames: barnraising, event, massachusetts, plymouth, tidmarsh, list:plots-barnraising, northeast
+author: Hudonnoodles
+path: /wiki/potential-2014-northeast-tool-focused-barnraising.md
+nid: 10325
 uid: 102
-tagnames: barnraising,event,massachusetts,plymouth,tidmarsh,list:plots-barnraising,northeast
+
 ---
 
 # Potential 2014 Northeast Tool-focused Barnraising 
+
+by [Hudonnoodles](../profile/Hudonnoodles)
+
+April 17, 2014 20:41 | Tags: [barnraising](../tag/barnraising), [event](../tag/event), [massachusetts](../tag/massachusetts), [plymouth](../tag/plymouth), [tidmarsh](../tag/tidmarsh), [list:plots-barnraising](../tag/list:plots-barnraising), [northeast](../tag/northeast)
 
 ##What is a Public Lab Barnraising?
 This is the closest thing we have to a Public Lab conference -- but with an emphasis on "doing stuff together" rather than just presenting/talking. In the spirit of bringing a community together to collectively raise a structure such as a barn, Public Lab comes together to develop tools, toolkits, supporting materials such as guides and tutorials, test the tools and develop new research directions and projects. Participants represent a wide range of interests from technologists and designers to social scientists and community organizers. The annual Fall Barnraising is held in Louisiana each year. In 2014, we’ve introducing a second Spring Barnraising into our event schedule. The Spring Barnraisings will be in different locations each year and focus on specific environmental issues or tool development projects.

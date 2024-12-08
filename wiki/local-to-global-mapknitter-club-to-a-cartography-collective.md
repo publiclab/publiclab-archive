@@ -1,12 +1,18 @@
 ---
-nid: 11120
 title: Local to Global: MapKnitter Club to a Cartography Collective
-path: public/static/wiki/local-to-global-mapknitter-club-to-a-cartography-collective.md
+tagnames: barataria-bay, grassrootsmapping, mapknitter, barataria, blog, style:fancy
+author: mollydanielsson
+path: /wiki/local-to-global-mapknitter-club-to-a-cartography-collective.md
+nid: 11120
 uid: 1259
-tagnames: barataria-bay,grassrootsmapping,mapknitter,barataria,blog,style:fancy
+
 ---
 
 # Local to Global: MapKnitter Club to a Cartography Collective
+
+by [mollydanielsson](../profile/mollydanielsson)
+
+September 10, 2014 18:54 | Tags: [barataria-bay](../tag/barataria-bay), [grassrootsmapping](../tag/grassrootsmapping), [mapknitter](../tag/mapknitter), [barataria](../tag/barataria), [blog](../tag/blog), [style:fancy](../tag/style:fancy)
 
 This an excerpt from Public Lab's publication about [mapping Barataria Bay](http://publiclab.org/wiki/barataria-bay-mapping-project), **DIY Aerial Photography of Barataria Bay: A Community Atlas.**
 

@@ -1,12 +1,18 @@
 ---
-nid: 8855
 title: New PublicLab.org website launched
-path: public/static/notes/warren/07-12-2013/new-publiclab-org-website-launched.md
+tagnames: website, plots2, design, ui
+author: warren
+path: /notes/warren/07-12-2013/new-publiclab-org-website-launched.md
+nid: 8855
 uid: 1
-tagnames: website,plots2,design,ui
+
 ---
 
 # New PublicLab.org website launched
+
+by [warren](../profile/warren) July 12, 2013 00:56
+
+July 12, 2013 00:56 | Tags: [website](../tag/website), [plots2](../tag/plots2), [design](../tag/design), [ui](../tag/ui)
 
 ###A brand new website!
 

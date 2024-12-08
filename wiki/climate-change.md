@@ -1,12 +1,18 @@
 ---
-nid: 21772
 title: Climate change
-path: public/static/wiki/climate-change.md
-uid: 540844
 tagnames: climate-change
+author: joyofsoy
+path: /wiki/climate-change.md
+nid: 21772
+uid: 540844
+
 ---
 
 # Climate change
+
+by [bhamster](../profile/bhamster), [joyofsoy](../profile/joyofsoy)
+
+December 16, 2019 23:27 | Tags: [climate-change](../tag/climate-change)
 
 Through more extreme weather events, rising sea levels, and rising global temperatures, climate change impacts the health of our communities in many ways [1]. Throughout Public Lab you’ll find tools and resources to research and monitor the effects of climate change on your local environment. From water quality to air quality to disaster response, many of the environmental issues addressed on Public Lab connect back to climate change and its impacts. 
 

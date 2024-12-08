@@ -1,11 +1,17 @@
 ---
-nid: 16587
 title: community-microscope
-path: public/static/wiki/community-microscope.md
-uid: 1
 tagnames: redirect:micro
+author: warren
+path: /wiki/community-microscope.md
+nid: 16587
+uid: 1
+
 ---
 
 # community-microscope
+
+by [warren](../profile/warren)
+
+June 28, 2018 16:20 | Tags: [redirect:micro](../tag/redirect:micro)
 
 Redirect!

@@ -1,12 +1,18 @@
 ---
-nid: 15315
 title: Activate impact: fund boldness
-path: public/static/notes/mlamadrid/12-06-2017/activate-impact-fund-boldness.md
+tagnames: epa, landscape, governance, department-of-justice, environmental-advocates, 11th-hour
+author: mlamadrid
+path: /notes/mlamadrid/12-06-2017/activate-impact-fund-boldness.md
+nid: 15315
 uid: 45586
-tagnames: epa,landscape,governance,department-of-justice,environmental-advocates,11th-hour
+
 ---
 
 # Activate impact: fund boldness
+
+by [mlamadrid](../profile/mlamadrid) December 06, 2017 01:05
+
+December 06, 2017 01:05 | Tags: [epa](../tag/epa), [landscape](../tag/landscape), [governance](../tag/governance), [department-of-justice](../tag/department-of-justice), [environmental-advocates](../tag/environmental-advocates), [11th-hour](../tag/11th-hour)
 
 Article by Jake Mogan, [The 11th Hour Project](https://publiclab.org/www.11thhourproject.org/) for [Community Science Forum: Changing Environmental Governance Landscape](https://publiclab.org/forum)
 

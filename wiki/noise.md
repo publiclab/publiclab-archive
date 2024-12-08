@@ -1,12 +1,18 @@
 ---
-nid: 16322
 title: Noise
-path: public/static/wiki/noise.md
+tagnames: audio, noise, method, nuisance
+author: stevie
+path: /wiki/noise.md
+nid: 16322
 uid: 422561
-tagnames: audio,noise,method,nuisance
+
 ---
 
 # Noise
+
+by [joyofsoy](../profile/joyofsoy), [warren](../profile/warren), [stevie](../profile/stevie)
+
+May 09, 2018 16:52 | Tags: [audio](../tag/audio), [noise](../tag/noise), [method](../tag/method), [nuisance](../tag/nuisance)
 
 Noise pollution can have a harmful impact on both wildlife and human health. There are several notable community science projects that have focused on noise monitoring, some that use phone applications and others that use noise meters. 
 

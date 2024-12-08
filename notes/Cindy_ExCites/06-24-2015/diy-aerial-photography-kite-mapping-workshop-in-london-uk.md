@@ -1,12 +1,18 @@
 ---
-nid: 12000
 title: DIY aerial photography: Kite-mapping workshop in London, UK
-path: public/static/notes/Cindy_ExCites/06-24-2015/diy-aerial-photography-kite-mapping-workshop-in-london-uk.md
+tagnames: kite-mapping, london, workshop, event, kitemapping, event:rsvp, eu, date:06-24-2015, rsvp:edibleurban, replication:14022
+author: cindy_excites
+path: /notes/Cindy_ExCites/06-24-2015/diy-aerial-photography-kite-mapping-workshop-in-london-uk.md
+nid: 12000
 uid: 1083
-tagnames: kite-mapping,london,workshop,event,kitemapping,event:rsvp,eu,date:06-24-2015,rsvp:edibleurban,replication:14022
+
 ---
 
 # DIY aerial photography: Kite-mapping workshop in London, UK
+
+by [cindy_excites](../profile/cindy_excites) June 24, 2015 14:45
+
+June 24, 2015 14:45 | Tags: [kite-mapping](../tag/kite-mapping), [london](../tag/london), [workshop](../tag/workshop), [event](../tag/event), [kitemapping](../tag/kitemapping), [event:rsvp](../tag/event:rsvp), [eu](../tag/eu), [date:06-24-2015](../tag/date:06-24-2015), [rsvp:edibleurban](../tag/rsvp:edibleurban), [replication:14022](../tag/replication:14022)
 
 [Ted](http://publiclaboratory.org/profile/TedF) and myself, Cindy will be hosting a two-part workshop on kite-mapping and map-making in London. Briefly, Part 1 is using kites to gather aerial imagery; Part 2 is making maps from the images collected using mapknitter.org. Join us!
  

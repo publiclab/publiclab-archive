@@ -1,12 +1,18 @@
 ---
-nid: 14601
 title: EDDI - Eletrodialysis Desalinator for Desalination
-path: public/static/notes/mienaikoe/07-01-2017/eddi-eletrodialysis-desalinator-for-desalination.md
+tagnames: water-quality, water, desalination
+author: mienaikoe
+path: /notes/mienaikoe/07-01-2017/eddi-eletrodialysis-desalinator-for-desalination.md
+nid: 14601
 uid: 510171
-tagnames: water-quality,water,desalination
+
 ---
 
 # EDDI - Eletrodialysis Desalinator for Desalination
+
+by [mienaikoe](../profile/mienaikoe) July 01, 2017 16:05
+
+July 01, 2017 16:05 | Tags: [water-quality](../tag/water-quality), [water](../tag/water), [desalination](../tag/desalination)
 
 ###Smart Electrodialysis
 

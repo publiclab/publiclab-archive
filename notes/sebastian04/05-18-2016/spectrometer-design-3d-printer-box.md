@@ -1,12 +1,18 @@
 ---
-nid: 13124
 title:  Spectrometer design 3d printer box
-path: public/static/notes/sebastian04/05-18-2016/spectrometer-design-3d-printer-box.md
+tagnames: spectrometer, 3d, webcam, 3d-printing
+author: sebastian04
+path: /notes/sebastian04/05-18-2016/spectrometer-design-3d-printer-box.md
+nid: 13124
 uid: 470987
-tagnames: spectrometer,3d,webcam,3d-printing
+
 ---
 
 #  Spectrometer design 3d printer box
+
+by [sebastian04](../profile/sebastian04) May 18, 2016 12:54
+
+May 18, 2016 12:54 | Tags: [spectrometer](../tag/spectrometer), [3d](../tag/3d), [webcam](../tag/webcam), [3d-printing](../tag/3d-printing)
 
 <a href="//i.publiclab.org/system/images/photos/000/016/203/original/tapacamara.stl"><i class="fa fa-file"></i> tapacamara.stl</a>
 

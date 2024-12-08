@@ -1,6 +1,6 @@
 # gopro
 
-23 notes and wiki pages
+23 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Using cameras for NIR that have no buit-in NIR hotfilter](/notes/gonzoearth/5-1-2012/using-cameras-nir-have-no-nir-hotfilter) by [gonzoearth](../profile/gonzoearth)
 - [Farm Mapping at Cloverleaf Farmstand, Davis, CA](/notes/MicheleTobias/06-04-2013/farm-mapping-at-cloverleaf-farmstand-davis-ca) by [MicheleTobias](../profile/MicheleTobias)
@@ -24,4 +24,3 @@
 - [I'm looking for advice using a gopro hero 2 with 32gb memory card for aerial kite photography.](/notes/iragersh/01-08-2019/i-m-looking-for-advice-using-a-gopro-hero-2-with-32gb-memory-card-for-aerial-kite-photography) by [iragersh](../profile/iragersh)
 - [Mini Cameras](/wiki/mini-cameras) (wiki)
 - [Hi Warren. I am interested in your kite-mapping camera rig for mobius or gopro, made from corrugated plastic:https://publiclab.org/notes/warren/08-07-2018/make-a-lightweight-camera-rig-from-corrugated-plastic-or-cardboardHowever, I am a total novice at ki](/notes/mutski/11-29-2020/hi-warren-i-am-interested-in-your-kite-mapping-camera-rig-for-mobius-or-gopro-made-from-corrugated-plastic-https-publiclab-org-notes-warren-08-07-2018-make-a-lightweight-camera-rig-from-corrugated-plastic-or-cardboardhowever-i-am-) by [mutski](../profile/mutski)
-- [Buy Gopro Hero5 Pro 3.5mm MIC Adapter at Lowest Prices in India](/notes/futureforwardindia/07-09-2021/buy-gopro-hero5-pro-3-5mm-mic-adapter-at-lowest-prices-in-india) by [futureforwardindia](../profile/futureforwardindia)

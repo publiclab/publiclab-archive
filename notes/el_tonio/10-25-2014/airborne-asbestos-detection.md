@@ -1,12 +1,18 @@
 ---
-nid: 11300
 title: Airborne Asbestos Detection
-path: public/static/notes/el_tonio/10-25-2014/airborne-asbestos-detection.md
+tagnames: laser, air-quality, asbestos, magnetic, paramagnetic
+author: el_tonio
+path: /notes/el_tonio/10-25-2014/airborne-asbestos-detection.md
+nid: 11300
 uid: 429873
-tagnames: laser,air-quality,asbestos,magnetic,paramagnetic
+
 ---
 
 # Airborne Asbestos Detection
+
+by [el_tonio](../profile/el_tonio) October 25, 2014 14:16
+
+October 25, 2014 14:16 | Tags: [laser](../tag/laser), [air-quality](../tag/air-quality), [asbestos](../tag/asbestos), [magnetic](../tag/magnetic), [paramagnetic](../tag/paramagnetic)
 
 ###What I want to do
 * To detect airborne asbestos

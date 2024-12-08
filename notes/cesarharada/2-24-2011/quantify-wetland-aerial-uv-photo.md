@@ -1,12 +1,18 @@
 ---
-nid: 102
 title: Quantify wetland from aerial UV photo
-path: public/static/notes/cesarharada/2-24-2011/quantify-wetland-aerial-uv-photo.md
+tagnames: gulf-coast, multispectral, uv, wetlands, ultraviolet, lousiana, activity:image-analysis, activity:wetlands, first-time-poster
+author: cesarharada
+path: /notes/cesarharada/2-24-2011/quantify-wetland-aerial-uv-photo.md
+nid: 102
 uid: 50
-tagnames: gulf-coast,multispectral,uv,wetlands,ultraviolet,lousiana,activity:image-analysis,activity:wetlands,first-time-poster
+
 ---
 
 # Quantify wetland from aerial UV photo
+
+by [cesarharada](../profile/cesarharada) February 24, 2011 09:13
+
+February 24, 2011 09:13 | Tags: [gulf-coast](../tag/gulf-coast), [multispectral](../tag/multispectral), [uv](../tag/uv), [wetlands](../tag/wetlands), [ultraviolet](../tag/ultraviolet), [lousiana](../tag/lousiana), [activity:image-analysis](../tag/activity:image-analysis), [activity:wetlands](../tag/activity:wetlands), [first-time-poster](../tag/first-time-poster)
 
 You want to watch the video tutorial  :
 https://www.youtube.com/watch?v=xKy1EZ_TbNs

@@ -1,12 +1,18 @@
 ---
-nid: 11775
 title: Internal Image of Desktop Spectrometer with "Gum Stick" Camera
-path: public/static/notes/kbollhorst/04-30-2015/internal-image-of-desktop-spectrometer-with-gum-stick-camera.md
+tagnames: spectrometer, diy
+author: kbollhorst
+path: /notes/kbollhorst/04-30-2015/internal-image-of-desktop-spectrometer-with-gum-stick-camera.md
+nid: 11775
 uid: 439554
-tagnames: spectrometer,diy
+
 ---
 
 # Internal Image of Desktop Spectrometer with "Gum Stick" Camera
+
+by [kbollhorst](../profile/kbollhorst) April 30, 2015 11:57
+
+April 30, 2015 11:57 | Tags: [spectrometer](../tag/spectrometer), [diy](../tag/diy)
 
 I have posted an image of the "gum stick" camera version of the desktop spectrometer. I wish to add 2 additional notes regarding assembly of the camera.
 

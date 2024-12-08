@@ -1,12 +1,18 @@
 ---
-nid: 412
 title: Wiki pages you'll be needing:
-path: public/static/notes/sara/7-27-2011/wiki-pages-youll-be-needing.md
-uid: 8
 tagnames: first-time-poster
+author: sara
+path: /notes/sara/7-27-2011/wiki-pages-youll-be-needing.md
+nid: 412
+uid: 8
+
 ---
 
 # Wiki pages you'll be needing:
+
+by [sara](../profile/sara) July 27, 2011 19:50
+
+July 27, 2011 19:50 | Tags: [first-time-poster](../tag/first-time-poster)
 
 
 * <a href="http://publiclaboratory.org/wiki/staff-time-keeping">Time Keeping</a>

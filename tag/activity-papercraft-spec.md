@@ -1,6 +1,6 @@
 # activity-papercraft-spec
 
-7 notes and wiki pages
+7 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Preparing a DVD-R to act as a diffraction grating](/notes/MrBumper/01-11-2015/preparing-a-dvd-r-to-act-as-a-diffraction-grating) by [MrBumper](../profile/MrBumper)
 - [Calibrate your spectrometer in Spectral Workbench](/notes/warren/09-01-2016/calibrating-your-spectrometer-in-spectral-workbench) by [warren](../profile/warren)

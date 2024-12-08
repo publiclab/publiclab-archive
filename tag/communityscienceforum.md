@@ -1,6 +1,6 @@
 # communityscienceforum
 
-15 notes and wiki pages
+15 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Community Science Forum](/forum) (wiki)
 - [What happens when the mining stops? Focus on Reclamation](/notes/mlamadrid/06-21-2016/what-happens-when-the-mining-stops-focus-on-reclamation) by [mlamadrid](../profile/mlamadrid)

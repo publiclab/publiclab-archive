@@ -1,12 +1,18 @@
 ---
-nid: 390
 title: mapping curriculum: first flight
-path: public/static/wiki/mapping-curriculum-first-flight.md
+tagnames: curriculum, parent:mapping-curriculum, mapping-curriculum
+author: gonzoearth
+path: /wiki/mapping-curriculum-first-flight.md
+nid: 390
 uid: 12
-tagnames: curriculum,parent:mapping-curriculum,mapping-curriculum
+
 ---
 
 # mapping curriculum: first flight
+
+by [warren](../profile/warren), [gonzoearth](../profile/gonzoearth)
+
+July 19, 2011 18:41 | Tags: [curriculum](../tag/curriculum), [parent:mapping-curriculum](../tag/parent:mapping-curriculum), [mapping-curriculum](../tag/mapping-curriculum)
 
 *As part of the [Grassroots Mapping Curriculum](/wiki/mapping-curriculum) series.*
 

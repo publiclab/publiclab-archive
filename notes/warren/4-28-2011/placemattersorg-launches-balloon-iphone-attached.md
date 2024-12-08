@@ -1,12 +1,18 @@
 ---
-nid: 203
 title: Placematters.org launches balloon with iPhone attached
-path: public/static/notes/warren/4-28-2011/placemattersorg-launches-balloon-iphone-attached.md
-uid: 1
 tagnames: 
+author: warren
+path: /notes/warren/4-28-2011/placemattersorg-launches-balloon-iphone-attached.md
+nid: 203
+uid: 1
+
 ---
 
 # Placematters.org launches balloon with iPhone attached
+
+by [warren](../profile/warren) April 28, 2011 23:31
+
+April 28, 2011 23:31 | Tags: 
 
 <div class="gmail_quote"><div><div class="h5"><div class="gmail_quote"><div class="gmail_quote"><p><a href="http://blog.placematters.org/2011/04/27/using-balloons-for-birds-eye-view-of-community/" target="_blank">http://blog.placematters.org/2011/04/27/using-balloons-for-birds-eye-view-of-community/</a></p>
 

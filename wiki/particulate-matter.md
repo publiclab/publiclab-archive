@@ -1,11 +1,17 @@
 ---
-nid: 21063
 title: particulate-matter
-path: public/static/wiki/particulate-matter.md
-uid: 422561
 tagnames: redirect:pm
+author: stevie
+path: /wiki/particulate-matter.md
+nid: 21063
+uid: 422561
+
 ---
 
 # particulate-matter
+
+by [stevie](../profile/stevie)
+
+October 03, 2019 13:59 | Tags: [redirect:pm](../tag/redirect:pm)
 
 [redirect:pm]

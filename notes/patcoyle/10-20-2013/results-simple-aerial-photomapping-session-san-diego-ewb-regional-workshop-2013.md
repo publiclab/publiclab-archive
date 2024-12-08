@@ -1,12 +1,18 @@
 ---
-nid: 9507
 title: Results: Simple Aerial Photomapping session, San Diego EWB Regional Workshop 2013
-path: public/static/notes/patcoyle/10-20-2013/results-simple-aerial-photomapping-session-san-diego-ewb-regional-workshop-2013.md
-uid: 77
 tagnames: balloon-mapping
+author: patcoyle
+path: /notes/patcoyle/10-20-2013/results-simple-aerial-photomapping-session-san-diego-ewb-regional-workshop-2013.md
+nid: 9507
+uid: 77
+
 ---
 
 # Results: Simple Aerial Photomapping session, San Diego EWB Regional Workshop 2013
+
+by [patcoyle](../profile/patcoyle) October 20, 2013 19:36
+
+October 20, 2013 19:36 | Tags: [balloon-mapping](../tag/balloon-mapping)
 
 ### What I want to do
 

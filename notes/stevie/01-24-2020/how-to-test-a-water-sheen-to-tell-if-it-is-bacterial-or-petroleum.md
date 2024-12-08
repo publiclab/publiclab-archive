@@ -1,12 +1,18 @@
 ---
-nid: 22397
 title: How to test a water sheen to tell if it is bacterial or petroleum
-path: public/static/notes/stevie/01-24-2020/how-to-test-a-water-sheen-to-tell-if-it-is-bacterial-or-petroleum.md
+tagnames: water-quality, new, oil-and-gas, activity:water-quality, lon:-90, activity:new, lat:20, oil-and-gas-water-quality, activity:oil-and-gas-water-quality, activity:oil-and-gas, activity:water-quality-oil-and-gas, zoom:4
+author: stevie
+path: /notes/stevie/01-24-2020/how-to-test-a-water-sheen-to-tell-if-it-is-bacterial-or-petroleum.md
+nid: 22397
 uid: 422561
-tagnames: water-quality,new,oil-and-gas,activity:water-quality,lon:-90,activity:new,lat:20,oil-and-gas-water-quality,activity:oil-and-gas-water-quality,activity:oil-and-gas,activity:water-quality-oil-and-gas,zoom:4
+
 ---
 
 # How to test a water sheen to tell if it is bacterial or petroleum
+
+by [stevie](../profile/stevie) January 24, 2020 19:20
+
+January 24, 2020 19:20 | Tags: [water-quality](../tag/water-quality), [new](../tag/new), [oil-and-gas](../tag/oil-and-gas), [activity:water-quality](../tag/activity:water-quality), [lon:-90](../tag/lon:-90), [activity:new](../tag/activity:new), [lat:20](../tag/lat:20), [oil-and-gas-water-quality](../tag/oil-and-gas-water-quality), [activity:oil-and-gas-water-quality](../tag/activity:oil-and-gas-water-quality), [activity:oil-and-gas](../tag/activity:oil-and-gas), [activity:water-quality-oil-and-gas](../tag/activity:water-quality-oil-and-gas), [zoom:4](../tag/zoom:4)
 
 ## Purpose
 

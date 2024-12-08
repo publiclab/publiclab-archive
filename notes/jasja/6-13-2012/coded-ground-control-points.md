@@ -1,12 +1,18 @@
 ---
-nid: 2476
 title: Coded ground control points
-path: public/static/notes/jasja/6-13-2012/coded-ground-control-points.md
+tagnames: balloon-mapping, kite-mapping, ground-control-points, registration, activity:aerial-photography, activity:ground-control-points, activity:aerial-mapping
+author: Jasja
+path: /notes/jasja/6-13-2012/coded-ground-control-points.md
+nid: 2476
 uid: 835
-tagnames: balloon-mapping,kite-mapping,ground-control-points,registration,activity:aerial-photography,activity:ground-control-points,activity:aerial-mapping
+
 ---
 
 # Coded ground control points
+
+by [Jasja](../profile/Jasja) June 13, 2012 21:26
+
+June 13, 2012 21:26 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [ground-control-points](../tag/ground-control-points), [registration](../tag/registration), [activity:aerial-photography](../tag/activity:aerial-photography), [activity:ground-control-points](../tag/activity:ground-control-points), [activity:aerial-mapping](../tag/activity:aerial-mapping)
 
 Ground control point targets are useful to stitch photos on uniform or repeatitive landscapes. They can be made from cardbord plates, cloth etc. See for example <a href="http://publiclaboratory.org/wiki/mapping-curriculum-ground-control-point-targets">this note</a>.
 

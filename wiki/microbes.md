@@ -1,12 +1,18 @@
 ---
-nid: 3909
 title: microbes
-path: public/static/wiki/microbes.md
+tagnames: air-column-monitor, diy-bio, microbes, air-quality, diybio
+author: liz
+path: /wiki/microbes.md
+nid: 3909
 uid: 7
-tagnames: air-column-monitor,diy-bio,microbes,air-quality,diybio
+
 ---
 
 # microbes
+
+by [liz](../profile/liz)
+
+September 20, 2012 17:41 | Tags: [air-column-monitor](../tag/air-column-monitor), [diy-bio](../tag/diy-bio), [microbes](../tag/microbes), [air-quality](../tag/air-quality), [diybio](../tag/diybio)
 
 Update: December 19, 2012 
 Andrew identified University of Colorado <a href="http://amo.colorado.edu/index.html">Alpine Microbial Observatory</a> that can do sequencing with support from Craig. Ready to do first test with controls on the making the sterile cotton candy sponge mechanism for collecting DNA out of the air, and need to do so before mid-February. We learned that if we scale up in the future, we can make our own sterile sucrose. 

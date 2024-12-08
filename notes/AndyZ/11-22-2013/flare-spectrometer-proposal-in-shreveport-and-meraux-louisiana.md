@@ -1,12 +1,18 @@
 ---
-nid: 9815
 title: Flare Spectrometer proposal in Shreveport and Meraux Louisiana
-path: public/static/notes/AndyZ/11-22-2013/flare-spectrometer-proposal-in-shreveport-and-meraux-louisiana.md
+tagnames: gulf-coast, spectrometer, spectrum-matching, spectralworkbench, flame-spectroscopy, watchdog, flare, shreveport, meraux, ioby
+author: AndyZ
+path: /notes/AndyZ/11-22-2013/flare-spectrometer-proposal-in-shreveport-and-meraux-louisiana.md
+nid: 9815
 uid: 301914
-tagnames: gulf-coast,spectrometer,spectrum-matching,spectralworkbench,flame-spectroscopy,watchdog,flare,shreveport,meraux,ioby
+
 ---
 
 # Flare Spectrometer proposal in Shreveport and Meraux Louisiana
+
+by [AndyZ](../profile/AndyZ) November 22, 2013 18:06
+
+November 22, 2013 18:06 | Tags: [gulf-coast](../tag/gulf-coast), [spectrometer](../tag/spectrometer), [spectrum-matching](../tag/spectrum-matching), [spectralworkbench](../tag/spectralworkbench), [flame-spectroscopy](../tag/flame-spectroscopy), [watchdog](../tag/watchdog), [flare](../tag/flare), [shreveport](../tag/shreveport), [meraux](../tag/meraux), [ioby](../tag/ioby)
 
 [![Shell_Norco_flare.jpg](https://i.publiclab.org/system/images/photos/000/002/293/medium/Shell_Norco_flare.jpg)](https://i.publiclab.org/system/images/photos/000/002/293/original/Shell_Norco_flare.jpg)
 

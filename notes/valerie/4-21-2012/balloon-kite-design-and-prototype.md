@@ -1,12 +1,18 @@
 ---
-nid: 1741
 title: Balloon Kite design and prototype
-path: public/static/notes/valerie/4-21-2012/balloon-kite-design-and-prototype.md
+tagnames: balloon-mapping, diy-balloon, first-time-poster
+author: valerie
+path: /notes/valerie/4-21-2012/balloon-kite-design-and-prototype.md
+nid: 1741
 uid: 890
-tagnames: balloon-mapping,diy-balloon,first-time-poster
+
 ---
 
 # Balloon Kite design and prototype
+
+by [valerie](../profile/valerie) April 21, 2012 22:39
+
+April 21, 2012 22:39 | Tags: [balloon-mapping](../tag/balloon-mapping), [diy-balloon](../tag/diy-balloon), [first-time-poster](../tag/first-time-poster)
 
 My first EcoHack today and what fun!  Armed with my old-school architectural design skills, I scavenged some materials for two different prototypes and got to work.  
 

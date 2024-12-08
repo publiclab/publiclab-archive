@@ -1,12 +1,18 @@
 ---
-nid: 9533
 title: Public Lab focuses on open science education at 2013 barnraising
-path: public/static/notes/Shannon/10-23-2013/public-lab-focuses-on-open-science-education-at-2013-barnraising.md
+tagnames: gulf-coast, education, idealab, barnraising, blog, barnstar:photo-documentation
+author: Shannon
+path: /notes/Shannon/10-23-2013/public-lab-focuses-on-open-science-education-at-2013-barnraising.md
+nid: 9533
 uid: 9
-tagnames: gulf-coast,education,idealab,barnraising,blog,barnstar:photo-documentation
+
 ---
 
 # Public Lab focuses on open science education at 2013 barnraising
+
+by [Shannon](../profile/Shannon) October 23, 2013 14:37
+
+October 23, 2013 14:37 | Tags: [gulf-coast](../tag/gulf-coast), [education](../tag/education), [idealab](../tag/idealab), [barnraising](../tag/barnraising), [blog](../tag/blog), [barnstar:photo-documentation](../tag/barnstar:photo-documentation)
 
 _Cross-posted from PBS IdeaLab blog_
 

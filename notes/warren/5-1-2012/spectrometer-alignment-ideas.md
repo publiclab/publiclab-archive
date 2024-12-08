@@ -1,12 +1,18 @@
 ---
-nid: 1871
 title: Spectrometer alignment ideas
-path: public/static/notes/warren/5-1-2012/spectrometer-alignment-ideas.md
+tagnames: spectrometer, calibration
+author: warren
+path: /notes/warren/5-1-2012/spectrometer-alignment-ideas.md
+nid: 1871
 uid: 1
-tagnames: spectrometer,calibration
+
 ---
 
 # Spectrometer alignment ideas
+
+by [warren](../profile/warren) May 01, 2012 14:50
+
+May 01, 2012 14:50 | Tags: [spectrometer](../tag/spectrometer), [calibration](../tag/calibration)
 
 <a href="https://www.flickr.com/photos/jeffreywarren/7136489341/" title="Spectrometer stand by jeferonix, on Flickr"><img src="https://farm8.staticflickr.com/7057/7136489341_b56708f0ee_m.jpg" width="221" height="240" alt="Spectrometer stand"></a>
 

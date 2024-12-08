@@ -1,12 +1,18 @@
 ---
-nid: 12101
 title: Bayou St. John at Lake Pontchartrain
-path: public/static/wiki/bayou-st-john-at-lake-pontchartrain.md
+tagnames: gulf-coast, bsj
+author: liz
+path: /wiki/bayou-st-john-at-lake-pontchartrain.md
+nid: 12101
 uid: 7
-tagnames: gulf-coast,bsj
+
 ---
 
 # Bayou St. John at Lake Pontchartrain
+
+by [eustatic](../profile/eustatic), [liz](../profile/liz)
+
+July 24, 2015 20:02 | Tags: [gulf-coast](../tag/gulf-coast), [bsj](../tag/bsj)
 
 Year|Month|Day|mapknitter link|notes
 -------------------------|---------------------|-------------------------|-------------------------|-------------------------

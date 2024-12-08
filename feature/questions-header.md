@@ -1,12 +1,16 @@
 ---
-nid: 16307
 title: questions-header
-path: public/static/feature/questions-header.md
-uid: 1
 tagnames: 
+author: warren
+path: /feature/questions-header.md
+nid: 16307
+uid: 1
+
 ---
 
 # questions-header
+
+May 07, 2018 15:52 | Tags: 
 
 <!--
 New questions page content:

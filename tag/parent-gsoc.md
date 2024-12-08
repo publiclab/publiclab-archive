@@ -1,6 +1,6 @@
 # parent-gsoc
 
-7 notes and wiki pages
+7 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [SoC ideas](/wiki/gsoc-ideas) (wiki)
 - [SoC Application Template](/wiki/gsoc-application-template) (wiki)

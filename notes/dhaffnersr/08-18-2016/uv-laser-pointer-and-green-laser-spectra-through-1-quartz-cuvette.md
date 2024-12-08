@@ -1,12 +1,18 @@
 ---
-nid: 13366
 title: UV Laser Pointer and Green Laser Spectra Through 1 Quartz Cuvette
-path: public/static/notes/dhaffnersr/08-18-2016/uv-laser-pointer-and-green-laser-spectra-through-1-quartz-cuvette.md
-uid: 461120
 tagnames: 
+author: dhaffnersr
+path: /notes/dhaffnersr/08-18-2016/uv-laser-pointer-and-green-laser-spectra-through-1-quartz-cuvette.md
+nid: 13366
+uid: 461120
+
 ---
 
 # UV Laser Pointer and Green Laser Spectra Through 1 Quartz Cuvette
+
+by [dhaffnersr](../profile/dhaffnersr) August 18, 2016 21:08
+
+August 18, 2016 21:08 | Tags: 
 
 ##**2 Different Laser Wavelength's through 6 Different Solvents**
 

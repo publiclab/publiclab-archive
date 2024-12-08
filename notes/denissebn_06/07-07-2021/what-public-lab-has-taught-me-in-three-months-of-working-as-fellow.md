@@ -1,12 +1,18 @@
 ---
-nid: 27032
 title: What Public lab has taught me so far working as a Fellow.
-path: public/static/notes/denissebn_06/07-07-2021/what-public-lab-has-taught-me-in-three-months-of-working-as-fellow.md
+tagnames: organizing, lang:es, air-monitoring, advocacy, community-science, women
+author: denissebn_06
+path: /notes/denissebn_06/07-07-2021/what-public-lab-has-taught-me-in-three-months-of-working-as-fellow.md
+nid: 27032
 uid: 749988
-tagnames: organizing,lang:es,air-monitoring,advocacy,community-science,women
+
 ---
 
 # What Public lab has taught me so far working as a Fellow.
+
+by [denissebn_06](../profile/denissebn_06) July 07, 2021 22:37
+
+July 07, 2021 22:37 | Tags: [organizing](../tag/organizing), [lang:es](../tag/lang:es), [air-monitoring](../tag/air-monitoring), [advocacy](../tag/advocacy), [community-science](../tag/community-science), [women](../tag/women)
 
 [Haz click aqui para leer el contenido de esta página en español](https://publiclab.org/notes/denissebn_06/07-07-2021/what-public-lab-has-taught-me-in-three-months-of-working-as-fellow#Lo+que+he+aprendido+hasta+ahora+en+Public+Lab.).
 

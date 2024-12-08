@@ -1,12 +1,18 @@
 ---
-nid: 5353
 title: Black image after assembly
-path: public/static/notes/brentnewhall/12-26-2012/black-image-after-assembly.md
+tagnames: calibration, kit, first-time-poster
+author: BrentNewhall
+path: /notes/brentnewhall/12-26-2012/black-image-after-assembly.md
+nid: 5353
 uid: 45471
-tagnames: calibration,kit,first-time-poster
+
 ---
 
 # Black image after assembly
+
+by [BrentNewhall](../profile/BrentNewhall) December 26, 2012 16:51
+
+December 26, 2012 16:51 | Tags: [calibration](../tag/calibration), [kit](../tag/kit), [first-time-poster](../tag/first-time-poster)
 
 Hi, all! I'm greatly looking forward to helping out with spectrometry.  
   

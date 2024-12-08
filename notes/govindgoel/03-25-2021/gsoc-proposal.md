@@ -1,12 +1,18 @@
 ---
-nid: 26033
 title: GSoC 2021 Proposal: Translation System Refinements 
-path: public/static/notes/govindgoel/03-25-2021/gsoc-proposal.md
+tagnames: software, soc, first-time-poster, zoom:6, gsoc-2021, gsoc-2021-proposals, lat:28.708279, lon:77.656542
+author: govindgoel
+path: /notes/govindgoel/03-25-2021/gsoc-proposal.md
+nid: 26033
 uid: 641919
-tagnames: software,soc,first-time-poster,zoom:6,gsoc-2021,gsoc-2021-proposals,lat:28.708279,lon:77.656542
+
 ---
 
 # GSoC 2021 Proposal: Translation System Refinements 
+
+by [govindgoel](../profile/govindgoel) March 25, 2021 19:45
+
+March 25, 2021 19:45 | Tags: [software](../tag/software), [soc](../tag/soc), [first-time-poster](../tag/first-time-poster), [zoom:6](../tag/zoom:6), [gsoc-2021](../tag/gsoc-2021), [gsoc-2021-proposals](../tag/gsoc-2021-proposals), [lat:28.708279](../tag/lat:28.708279), [lon:77.656542](../tag/lon:77.656542)
 
 ## About me
 

@@ -1,6 +1,6 @@
 # testing
 
-27 notes and wiki pages
+27 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [where can I get Qualitative spectrometer reading.](/notes/ernestbolds/2-2-2013/where-can-i-get-qualitative-spectrometer-reading) by [ernestbolds](../profile/ernestbolds)
 - [Reagent-based PAH, VOH, PCB testing kits for soil and water, with pricing](/notes/warren/01-16-2014/reagent-based-pah-voh-pcb-testing-kits-for-soil-and-water-with-pricing) by [warren](../profile/warren)
@@ -14,10 +14,6 @@
 - [What seeds sprout fastest?](/notes/warren/02-18-2017/what-seeds-sprout-fastest) by [warren](../profile/warren)
 - [How much do different oil pollution tests cost?](/notes/warren/09-07-2017/how-much-do-different-oil-pollution-tests-cost) by [warren](../profile/warren)
 - [test wiki page](/wiki/test-wiki-page) (wiki)
-- [Some flaws in DOT Drug & Alcohol testing](/notes/ersmithjones/06-15-2018/some-flaws-in-dot-drug-alcohol-testing) by [ersmithjones](../profile/ersmithjones)
-- [Century Medical & Dental Center](/notes/DrDvorkina/08-09-2018/century-medical-dental-center) by [DrDvorkina](../profile/DrDvorkina)
-- [Diamond Testing](/notes/diamond-testing/09-15-2018/diamond-testing) by [diamond-testing](../profile/diamond-testing)
-- [Looking for specialist to check diamonds???](/notes/diamond-testing/09-15-2018/looking-for-specialist-to-check-diamonds) by [diamond-testing](../profile/diamond-testing)
 - [AIR-QUALITY & BALLOON LAUNCH: SUMMER 2019 QUEENSBRIDGE TECH LAB COMMUNITY SCIENCE PROJECT](/notes/SadiePrego/12-05-2018/summer-2019-queensbridge-tech-lab-community-science-project-air-water-soil) by [SadiePrego](../profile/SadiePrego)
 - [Chemical/Analytical Methods Used When Testing for Lead](/notes/read_holman/12-12-2018/list-of-methods-for-lead-detection-monitoring) by [read_holman](../profile/read_holman)
 - [How do you test for oil and gas-related contaminants in soils? ](/notes/DanielleS/01-22-2019/how-do-you-test-for-oil-and-gas-related-contaminants-in-soils) by [DanielleS](../profile/DanielleS)
@@ -27,5 +23,3 @@
 - [How to Test For Lead in your Environment](/notes/read_holman/04-11-2019/how-to-test-for-lead-in-your-environment) by [read_holman](../profile/read_holman)
 - [[Testing] New inline maps](/notes/sagarpreet/10-06-2019/testing-new-inline-maps) by [sagarpreet](../profile/sagarpreet)
 - [Water testing protocols for Sulfide Mining?](/notes/Greenhorns/06-02-2021/water-testing-protocols-for-sulfide-mining) by [Greenhorns](../profile/Greenhorns)
-- [Driving Digital Confidence: Leading Software Testing Companies in India: Binary Informatics](/notes/witsonflora710/04-01-2024/driving-digital-confidence-leading-software-testing-companies-in-india-binary-informatics) by [witsonflora710](../profile/witsonflora710)
-- [Beyond Bugs: How a Digital Quality Assurance Services Company Elevates User Experience](/notes/witsonflora710/04-12-2024/beyond-bugs-how-a-digital-quality-assurance-services-company-elevates-user-experience) by [witsonflora710](../profile/witsonflora710)

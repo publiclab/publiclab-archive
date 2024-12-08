@@ -1,12 +1,18 @@
 ---
-nid: 9986
 title: NDVI with Canon A2300, APM Hexacopter DJI550, Help
-path: public/static/notes/Andresc4/01-28-2014/ndvi-with-canon-a2300-apm-hexacopter-dji550-help.md
+tagnames: near-infrared-camera, ndvi, infrared, uav, infragram, rosco, infrablue, uav-mapping, drone, apm, hexacopter, first-time-poster
+author: andresc4
+path: /notes/Andresc4/01-28-2014/ndvi-with-canon-a2300-apm-hexacopter-dji550-help.md
+nid: 9986
 uid: 328260
-tagnames: near-infrared-camera,ndvi,infrared,uav,infragram,rosco,infrablue,uav-mapping,drone,apm,hexacopter,first-time-poster
+
 ---
 
 # NDVI with Canon A2300, APM Hexacopter DJI550, Help
+
+by [andresc4](../profile/andresc4) January 28, 2014 20:46
+
+January 28, 2014 20:46 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [infrared](../tag/infrared), [uav](../tag/uav), [infragram](../tag/infragram), [rosco](../tag/rosco), [infrablue](../tag/infrablue), [uav-mapping](../tag/uav-mapping), [drone](../tag/drone), [apm](../tag/apm), [hexacopter](../tag/hexacopter), [first-time-poster](../tag/first-time-poster)
 
 Hello, I'm new on the community, i have been reading the site for a few weeks and i just decided to join the community to share the project that I'm working on, basically i want to start using areal photography to control some fields. I have experience in UAV Drones ( multirrotors, and now im working on a small plane ). I work with APM2.5 + Mavlink. The drone its working just fine, I was able to complete successful missions, now Im stuch with the NDVI calculations
 

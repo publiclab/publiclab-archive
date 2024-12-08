@@ -1,12 +1,18 @@
 ---
-nid: 12109
 title: DustDuino Sketches 
-path: public/static/notes/Willie/07-31-2015/dustduino-sketches.md
+tagnames: arduino, particulate-sensing, air-quality, programmers, code, dustduino, dust, shinyei, activity:dustduino, activity:data-logging, air-sensors
+author: willie
+path: /notes/Willie/07-31-2015/dustduino-sketches.md
+nid: 12109
 uid: 235174
-tagnames: arduino,particulate-sensing,air-quality,programmers,code,dustduino,dust,shinyei,activity:dustduino,activity:data-logging,air-sensors
+
 ---
 
 # DustDuino Sketches 
+
+by [willie](../profile/willie) July 31, 2015 14:23
+
+July 31, 2015 14:23 | Tags: [arduino](../tag/arduino), [particulate-sensing](../tag/particulate-sensing), [air-quality](../tag/air-quality), [programmers](../tag/programmers), [code](../tag/code), [dustduino](../tag/dustduino), [dust](../tag/dust), [shinyei](../tag/shinyei), [activity:dustduino](../tag/activity:dustduino), [activity:data-logging](../tag/activity:data-logging), [air-sensors](../tag/air-sensors)
 
 The DustDuino is a customization of Arduino designed to help makers create low-power, highly customizable sensor projects. By basing the system on Arduino, the DustDuino can use “out of the box” block of code to program the device to do a number of tasks. Those blocks of code are known as libraries. 
 

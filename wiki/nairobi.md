@@ -1,12 +1,18 @@
 ---
-nid: 11149
 title: nairobi
-path: public/static/wiki/nairobi.md
+tagnames: kenya, africa, parent:kenya
+author: liz
+path: /wiki/nairobi.md
+nid: 11149
 uid: 7
-tagnames: kenya,africa,parent:kenya
+
 ---
 
 # nairobi
+
+by [liz](../profile/liz)
+
+September 17, 2014 20:58 | Tags: [kenya](../tag/kenya), [africa](../tag/africa), [parent:kenya](../tag/parent:kenya)
 
 * The latest visual working paper from IIED that was done in consultation with Sohel Ahmed published on 2015-12-15: http://www.iied.org/mapping-for-food-safety
 * 2015-06: The IIED working paper led by Sohel Ahmed, Edwin Simiyu, Grace Githiri,

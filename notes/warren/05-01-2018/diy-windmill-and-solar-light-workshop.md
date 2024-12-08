@@ -1,12 +1,18 @@
 ---
-nid: 53
 title: DIY Windmill and Solar Light Workshop
-path: public/static/notes/warren/05-01-2018/diy-windmill-and-solar-light-workshop.md
+tagnames: lima, peru, workshop, wind, solar, activity:classroom, windmill
+author: warren
+path: /notes/warren/05-01-2018/diy-windmill-and-solar-light-workshop.md
+nid: 53
 uid: 1
-tagnames: lima,peru,workshop,wind,solar,activity:classroom,windmill
+
 ---
 
 # DIY Windmill and Solar Light Workshop
+
+by [warren](../profile/warren) January 24, 2011 00:56
+
+January 24, 2011 00:56 | Tags: [lima](../tag/lima), [peru](../tag/peru), [workshop](../tag/workshop), [wind](../tag/wind), [solar](../tag/solar), [activity:classroom](../tag/activity:classroom), [windmill](../tag/windmill)
 
 <a href="https://www.flickr.com/photos/jeffreywarren/5382318743/" title="soldering with Morflex by jeferonix, on Flickr"><img src="http://farm6.static.flickr.com/5083/5382318743_1c89929421.jpg" width="500" height="375" alt="soldering with Morflex" /></a>
 

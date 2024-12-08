@@ -1,12 +1,18 @@
 ---
-nid: 13712
 title: collect data for different bacteria growth in liquid and soil
-path: public/static/notes/khalil/11-19-2016/collect-data-for-different-bacteria-growth-in-liquid-and-soil.md
+tagnames: water, bacteria, drinking, cultivation
+author: khalil
+path: /notes/khalil/11-19-2016/collect-data-for-different-bacteria-growth-in-liquid-and-soil.md
+nid: 13712
 uid: 497529
-tagnames: water,bacteria,drinking,cultivation
+
 ---
 
 # collect data for different bacteria growth in liquid and soil
+
+by [khalil](../profile/khalil) November 19, 2016 08:01
+
+November 19, 2016 08:01 | Tags: [water](../tag/water), [bacteria](../tag/bacteria), [drinking](../tag/drinking), [cultivation](../tag/cultivation)
 
 ###What I want to do or know
 I want to look at bacteria growth in water and so what will be a good sensor or methodology to test such thing.

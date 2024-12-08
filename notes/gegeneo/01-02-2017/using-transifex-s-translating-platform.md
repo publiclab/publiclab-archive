@@ -1,12 +1,18 @@
 ---
-nid: 13831
 title: Using Transifex's Translating Platform
-path: public/static/notes/gegeneo/01-02-2017/using-transifex-s-translating-platform.md
+tagnames: internationalization, translation, transifex, first-time-poster
+author: gegeneo
+path: /notes/gegeneo/01-02-2017/using-transifex-s-translating-platform.md
+nid: 13831
 uid: 501144
-tagnames: internationalization,translation,transifex,first-time-poster
+
 ---
 
 # Using Transifex's Translating Platform
+
+by [gegeneo](../profile/gegeneo) January 02, 2017 20:49
+
+January 02, 2017 20:49 | Tags: [internationalization](../tag/internationalization), [translation](../tag/translation), [transifex](../tag/transifex), [first-time-poster](../tag/first-time-poster)
 
 <div class="alert alert-info">This post is outdated and has been <a href="/wiki/translation">updated here</a>.</div>
 

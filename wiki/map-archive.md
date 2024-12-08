@@ -1,12 +1,18 @@
 ---
-nid: 34961
 title: Map archive
-path: public/static/wiki/map-archive.md
-uid: 1
 tagnames: map-archive
+author: warren
+path: /wiki/map-archive.md
+nid: 34961
+uid: 1
+
 ---
 
 # Map archive
+
+by [warren](../profile/warren)
+
+September 13, 2022 19:25 | Tags: [map-archive](../tag/map-archive)
 
 Maps: open data from balloon and kite photography
 

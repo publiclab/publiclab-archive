@@ -1,12 +1,18 @@
 ---
-nid: 5850
 title: North Shore, Mass, Mapping Meetup: Pavilion Beach, Ipswich -- April 6, 2013
-path: public/static/wiki/plum-island-meetup.md
+tagnames: balloon-mapping, kite-mapping, boston, event
+author: Hudonnoodles
+path: /wiki/plum-island-meetup.md
+nid: 5850
 uid: 102
-tagnames: balloon-mapping,kite-mapping,boston,event
+
 ---
 
 # North Shore, Mass, Mapping Meetup: Pavilion Beach, Ipswich -- April 6, 2013
+
+by [wward1400](../profile/wward1400), [Hudonnoodles](../profile/Hudonnoodles)
+
+February 01, 2013 12:45 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [boston](../tag/boston), [event](../tag/event)
 
 Let's have a Boston PLOTS meet up on **Saturday, April 6, 2012** at Great Neck Park and Pavilion Beach in Ipswich, MA. We'll have more logistical information soon, but let us know if you're available on April 6 to meet up at Great Neck Park for a skill share/mapping session and potential potluck. Feel free to invite your friends -- all skill levels welcome.
 

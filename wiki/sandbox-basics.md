@@ -1,12 +1,18 @@
 ---
-nid: 30718
 title: sandbox-basics
-path: public/static/wiki/sandbox-basics.md
-uid: 664477
 tagnames: 
+author: bhamster
+path: /wiki/sandbox-basics.md
+nid: 30718
+uid: 664477
+
 ---
 
 # sandbox-basics
+
+by [bhamster](../profile/bhamster)
+
+May 10, 2022 17:03 | Tags: 
 
 _This sandbox page is where answers are prototyped! See the main "Public Lab Basics" page here: https://publiclab.org/wiki/basics_
 

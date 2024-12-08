@@ -1,6 +1,6 @@
 # gps
 
-43 notes and wiki pages
+43 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [MapKnitter](/wiki/mapknitter) (wiki)
 - [Bread Loaf Ortho](/notes/cfastie/9-26-2012/bread-loaf-ortho) by [cfastie](../profile/cfastie)
@@ -26,7 +26,6 @@
 - [Has anyone tried a dashboard camera for timelapse or aerial mapping?](/notes/warren/09-06-2016/has-anyone-tried-a-dashboard-camera-for-timelapse-or-aerial-mapping) by [warren](../profile/warren)
 - [Adding GPS logging to a kite or balloon aerial photography rig](/notes/cfastie/01-08-2017/adding-gps-logging-to-a-kite-or-balloon-aerial-photography-rig) by [cfastie](../profile/cfastie)
 - [Add GPS logging to a Saturn V Rig](/notes/cfastie/01-14-2017/add-gps-logging-to-microsd-card-to-a-saturn-v-rig) by [cfastie](../profile/cfastie)
-- [Flyer Distribution in Canberra – Advertisement & Marketing Resource ](/notes/flyerdistributioncanberra/03-02-2017/flyer-distribution-in-canberra-advertisement-marketing-resource) by [flyerdistributioncanberra](../profile/flyerdistributioncanberra)
 - [A standalone aerial sensor pod](/notes/cfastie/03-15-2017/a-standalone-aerial-sensor-pod) by [cfastie](../profile/cfastie)
 - [The Great GPS Ski-off](/notes/cfastie/03-18-2017/the-great-gps-ski-off) by [cfastie](../profile/cfastie)
 - [U-blox GPS board](/notes/cfastie/03-31-2017/u-blox-gps-board) by [cfastie](../profile/cfastie)
@@ -34,14 +33,11 @@
 - [Photo Sharing](/wiki/photo-sharing) (wiki)
 - [First flight of the SkyPod](/notes/cfastie/06-18-2017/first-flight-of-the-skypod) by [cfastie](../profile/cfastie)
 - [SkyPod GPS Logger](/wiki/skypod-gps-logger) (wiki)
-- [What do you think about work at home?](/notes/mikekaliven87/06-30-2017/what-do-you-think-about-work-at-home) by [mikekaliven87](../profile/mikekaliven87)
 - [Assembling a SkyPod GPS logger](/notes/cfastie/08-07-2017/assembling-a-skypod-gps-logger) by [cfastie](../profile/cfastie)
 - [Winds aloft: less noise](/notes/cfastie/08-12-2017/winds-aloft-less-noise) by [cfastie](../profile/cfastie)
 - [How do you merge GPS logger data into photographs?](/notes/warren/09-08-2017/how-do-you-merge-gps-logger-data-into-photographs) by [warren](../profile/warren)
 - [Winds aloft: sensor overload](/notes/cfastie/10-17-2017/winds-aloft-sensor-overload) by [cfastie](../profile/cfastie)
 - [Fun with u-blox](/notes/cfastie/10-05-2018/fun-with-u-blox) by [cfastie](../profile/cfastie)
 - [Can geotagged aerial images be automatically placed in the right location on the map according to their coordinates?](/notes/se18023/04-24-2019/can-geotagged-aerial-images-be-automatically-placed-in-the-right-location-on-the-map-according-to-their-coordinates) by [se18023](../profile/se18023)
-- [Garmin lifetime maps update | Garmin Nuvi map update](/notes/Remokok/03-05-2020/garmin-lifetime-maps-update-garmin-nuvi-map-update) by [Remokok](../profile/Remokok)
 - [Can I rapidly survey the Chalmette stink on my way to work?](/notes/eustatic/10-15-2020/can-i-rapidly-survey-the-chalmette-stink-on-my-way-to-work) by [eustatic](../profile/eustatic)
-- [What is Vectras Inc?](/notes/vectrasinc/03-25-2021/what-is-vectras-inc) by [vectrasinc](../profile/vectrasinc)
 - [Best Method(s) of Datalogging Location in the Field Without Cell Reception?](/notes/sarasage/05-11-2021/best-method-s-of-datalogging-location-in-the-field-without-cell-reception) by [sarasage](../profile/sarasage)

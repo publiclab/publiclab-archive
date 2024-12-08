@@ -1,12 +1,18 @@
 ---
-nid: 11327
 title: Initial results and resolution of timelapse mode issue: PL Mobius Infragram Point and Shoot
-path: public/static/notes/patcoyle/11-08-2014/initial-results-and-timelapse-mode-issue-pl-mobius-infragram-point-and-shoot.md
+tagnames: infragram, timelapse, fiji, mobius, question:timelapse, question:infragram-point-shoot
+author: patcoyle
+path: /notes/patcoyle/11-08-2014/initial-results-and-timelapse-mode-issue-pl-mobius-infragram-point-and-shoot.md
+nid: 11327
 uid: 77
-tagnames: infragram,timelapse,fiji,mobius,question:timelapse,question:infragram-point-shoot
+
 ---
 
 # Initial results and resolution of timelapse mode issue: PL Mobius Infragram Point and Shoot
+
+by [patcoyle](../profile/patcoyle) November 08, 2014 23:18
+
+November 08, 2014 23:18 | Tags: [infragram](../tag/infragram), [timelapse](../tag/timelapse), [fiji](../tag/fiji), [mobius](../tag/mobius), [question:timelapse](../tag/question:timelapse), [question:infragram-point-shoot](../tag/question:infragram-point-shoot)
 
 ###What I want to do
 

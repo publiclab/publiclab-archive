@@ -1,12 +1,18 @@
 ---
-nid: 15193
 title: Environmental & Public Health Advocacy Success Stories
-path: public/static/notes/gilbert/11-15-2017/environmental-public-health-advocacy-success-stories.md
+tagnames: public-health, environment, publiclab, advocacy, success-stories, myrwa
+author: gilbert
+path: /notes/gilbert/11-15-2017/environmental-public-health-advocacy-success-stories.md
+nid: 15193
 uid: 508551
-tagnames: public-health,environment,publiclab,advocacy,success-stories,myrwa
+
 ---
 
 # Environmental & Public Health Advocacy Success Stories
+
+by [gilbert](../profile/gilbert) November 15, 2017 19:21
+
+November 15, 2017 19:21 | Tags: [public-health](../tag/public-health), [environment](../tag/environment), [publiclab](../tag/publiclab), [advocacy](../tag/advocacy), [success-stories](../tag/success-stories), [myrwa](../tag/myrwa)
 
 \_\_##Environmental & Public Health Advocacy Success Stories
 

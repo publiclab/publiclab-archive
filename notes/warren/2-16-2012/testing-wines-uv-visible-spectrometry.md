@@ -1,12 +1,18 @@
 ---
-nid: 796
 title: Testing wines with UV-visible spectrometry
-path: public/static/notes/warren/2-16-2012/testing-wines-uv-visible-spectrometry.md
-uid: 1
 tagnames: 
+author: warren
+path: /notes/warren/2-16-2012/testing-wines-uv-visible-spectrometry.md
+nid: 796
+uid: 1
+
 ---
 
 # Testing wines with UV-visible spectrometry
+
+by [warren](../profile/warren) February 16, 2012 17:54
+
+February 16, 2012 17:54 | Tags: 
 
 A couple of good papers on this are attached.
 

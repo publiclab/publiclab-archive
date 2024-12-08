@@ -1,12 +1,18 @@
 ---
-nid: 18893
 title: Software Community Growth through "first-timers-only" issues
-path: public/static/notes/gauravano/03-29-2019/software-community-growth-through-first-timers-only-issues.md
+tagnames: web-development, webworkinggroup, software, blog, developers, community-building, with:warren, onboarding, first-timers-only, software-outreach
+author: gauravano
+path: /notes/gauravano/03-29-2019/software-community-growth-through-first-timers-only-issues.md
+nid: 18893
 uid: 515081
-tagnames: web-development,webworkinggroup,software,blog,developers,community-building,with:warren,onboarding,first-timers-only,software-outreach
+
 ---
 
 # Software Community Growth through "first-timers-only" issues
+
+by [gauravano](../profile/gauravano) March 28, 2019 22:59
+
+March 28, 2019 22:59 | Tags: [web-development](../tag/web-development), [webworkinggroup](../tag/webworkinggroup), [software](../tag/software), [blog](../tag/blog), [developers](../tag/developers), [community-building](../tag/community-building), [with:warren](../tag/with:warren), [onboarding](../tag/onboarding), [first-timers-only](../tag/first-timers-only), [software-outreach](../tag/software-outreach)
 
 > `first-timers-only` issues are those which are written in a very engaging, welcoming way, far different than the usual "just report the bug" type of GitHub issue. To read more about these, check out [firsttimersonly.com](http://firsttimersonly.com/), which really captures how and why this works and is beginning to be a movement in open source coding outreach! Beyond the extra welcome, this also includes getting such well-formatted issues out in front of lots of people who may be contributing to open source software for the very first time.
 

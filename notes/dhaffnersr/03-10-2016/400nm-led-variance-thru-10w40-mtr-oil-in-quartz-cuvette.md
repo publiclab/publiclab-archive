@@ -1,12 +1,18 @@
 ---
-nid: 12826
 title: 400nm LED variance thru 10w40 mtr oil in Quartz cuvette
-path: public/static/notes/dhaffnersr/03-10-2016/400nm-led-variance-thru-10w40-mtr-oil-in-quartz-cuvette.md
-uid: 461120
 tagnames: response:12818
+author: dhaffnersr
+path: /notes/dhaffnersr/03-10-2016/400nm-led-variance-thru-10w40-mtr-oil-in-quartz-cuvette.md
+nid: 12826
+uid: 461120
+
 ---
 
 # 400nm LED variance thru 10w40 mtr oil in Quartz cuvette
+
+by [dhaffnersr](../profile/dhaffnersr) March 10, 2016 17:38
+
+March 10, 2016 17:38 | Tags: [response:12818](../tag/response:12818)
 
 Here are the results of my testing today at the request of Jeff, I took the same LEDs that I tested on March 8th and ran the same procedure but this time with a sample (10w40 motor oil, only because I don't have any access to crude) thru a Quartz cuvette.
 

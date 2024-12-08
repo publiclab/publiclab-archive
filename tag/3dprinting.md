@@ -1,6 +1,6 @@
 # 3dprinting
 
-5 notes and wiki pages
+5 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [The KAPtery marches on](/notes/cfastie/03-26-2015/the-kaptery-marches-on) by [cfastie](../profile/cfastie)
 - [KAP comes first](/notes/cfastie/06-18-2015/kap-comes-first) by [cfastie](../profile/cfastie)

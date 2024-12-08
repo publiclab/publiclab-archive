@@ -1,12 +1,18 @@
 ---
-nid: 19663
 title: The Sand Sentinel Program
-path: public/static/wiki/the-sand-sentinel-program.md
+tagnames: wisconsin, air-quality, transportation, water-quality, frac-sand, pm, midwest, project, air-quality-projects, sentinel, project:mine-reclamation
+author: stevie
+path: /wiki/the-sand-sentinel-program.md
+nid: 19663
 uid: 422561
-tagnames: wisconsin,air-quality,transportation,water-quality,frac-sand,pm,midwest,project,air-quality-projects,sentinel,project:mine-reclamation
+
 ---
 
 # The Sand Sentinel Program
+
+by [stevie](../profile/stevie), [joyofsoy](../profile/joyofsoy)
+
+June 11, 2019 18:41 | Tags: [wisconsin](../tag/wisconsin), [air-quality](../tag/air-quality), [transportation](../tag/transportation), [water-quality](../tag/water-quality), [frac-sand](../tag/frac-sand), [pm](../tag/pm), [midwest](../tag/midwest), [project](../tag/project), [air-quality-projects](../tag/air-quality-projects), [sentinel](../tag/sentinel), [project:mine-reclamation](../tag/project:mine-reclamation)
 
 The Sand Sentinel Program is aimed at creating an easier way for people to collect and file reports on suspected permit violations by frac sand mining companies. 
 

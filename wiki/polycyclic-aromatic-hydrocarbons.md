@@ -1,12 +1,18 @@
 ---
-nid: 26804
 title: polycyclic-aromatic-hydrocarbons
-path: public/static/wiki/polycyclic-aromatic-hydrocarbons.md
+tagnames: polycyclic-aromatic-hydrocarbons, pahs
+author: amocorro
+path: /wiki/polycyclic-aromatic-hydrocarbons.md
+nid: 26804
 uid: 700923
-tagnames: polycyclic-aromatic-hydrocarbons,pahs
+
 ---
 
 # polycyclic-aromatic-hydrocarbons
+
+by [amocorro](../profile/amocorro)
+
+June 09, 2021 19:02 | Tags: [polycyclic-aromatic-hydrocarbons](../tag/polycyclic-aromatic-hydrocarbons), [pahs](../tag/pahs)
 
 Polycylic Aromatic Hydrocarbons (PAHs)
 

@@ -1,6 +1,6 @@
 # photo-rig
 
-90 notes and wiki pages
+90 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Stereo Camera](/wiki/stereo-camera) (wiki)
 - [Balloon Telemetry Kit](/wiki/balloon-telemetry-kit) (wiki)

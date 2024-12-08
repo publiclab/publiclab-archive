@@ -1,12 +1,18 @@
 ---
-nid: 14116
 title: SkyPod endurance test
-path: public/static/notes/cfastie/04-17-2017/skypod-endurance-test.md
+tagnames: balloon-mapping, kite-mapping, arduino, kap, gps, sensors, saturnv, skypod, response:14074, ublox
+author: cfastie
+path: /notes/cfastie/04-17-2017/skypod-endurance-test.md
+nid: 14116
 uid: 554
-tagnames: balloon-mapping,kite-mapping,arduino,kap,gps,sensors,saturnv,skypod,response:14074,ublox
+
 ---
 
 # SkyPod endurance test
+
+by [cfastie](../profile/cfastie) April 17, 2017 00:56
+
+April 17, 2017 00:56 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [arduino](../tag/arduino), [kap](../tag/kap), [gps](../tag/gps), [sensors](../tag/sensors), [saturnv](../tag/saturnv), [skypod](../tag/skypod), [response:14074](../tag/response:14074), [ublox](../tag/ublox)
 
 *Above: After letting the SkyPod record data all afternoon in the yard (boring), I took it for a walk to see if the trailing arbutus was blooming. It was, so I took a photo and [posted it to iNaturalist](https://www.inaturalist.org/observations/5737918).*
 

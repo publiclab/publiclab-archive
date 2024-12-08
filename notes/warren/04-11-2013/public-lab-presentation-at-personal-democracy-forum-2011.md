@@ -1,12 +1,18 @@
 ---
-nid: 6787
 title: Public Lab Presentation at Personal Democracy Forum 2011
-path: public/static/notes/warren/04-11-2013/public-lab-presentation-at-personal-democracy-forum-2011.md
-uid: 1
 tagnames: presentation
+author: warren
+path: /notes/warren/04-11-2013/public-lab-presentation-at-personal-democracy-forum-2011.md
+nid: 6787
+uid: 1
+
 ---
 
 # Public Lab Presentation at Personal Democracy Forum 2011
+
+by [warren](../profile/warren) April 11, 2013 18:48
+
+April 11, 2013 18:48 | Tags: [presentation](../tag/presentation)
 
 Archiving the presentation I gave at Personal Democracy Forum 2011:
 

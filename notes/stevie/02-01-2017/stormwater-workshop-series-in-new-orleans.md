@@ -1,12 +1,18 @@
 ---
-nid: 13895
 title: Stormwater Workshop Series in New Orleans! 
-path: public/static/notes/stevie/02-01-2017/stormwater-workshop-series-in-new-orleans.md
+tagnames: gulf-coast, workshop, new-orleans, stormwater, flooding
+author: stevie
+path: /notes/stevie/02-01-2017/stormwater-workshop-series-in-new-orleans.md
+nid: 13895
 uid: 422561
-tagnames: gulf-coast,workshop,new-orleans,stormwater,flooding
+
 ---
 
 # Stormwater Workshop Series in New Orleans! 
+
+by [stevie](../profile/stevie) February 01, 2017 21:29
+
+February 01, 2017 21:29 | Tags: [gulf-coast](../tag/gulf-coast), [workshop](../tag/workshop), [new-orleans](../tag/new-orleans), [stormwater](../tag/stormwater), [flooding](../tag/flooding)
 
 **Public Lab will be starting a new workshop series in New Orleans focusing on Stormwater and Flooding**! 
 

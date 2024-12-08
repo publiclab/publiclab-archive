@@ -1,12 +1,18 @@
 ---
-nid: 9411
 title: Sample curriculum:  All about light
-path: public/static/wiki/sample-curriculum-all-about-light.md
-uid: 297929
 tagnames: 
+author: kgradow1
+path: /wiki/sample-curriculum-all-about-light.md
+nid: 9411
+uid: 297929
+
 ---
 
 # Sample curriculum:  All about light
+
+by [kgradow1](../profile/kgradow1)
+
+October 06, 2013 20:14 | Tags: 
 
 ##How Light Works
 Visible light has a wavelength in the range of about 380 nanometres (nm), or 380×10−9 m, to about 740 nanometres.   Every color that we see corresponds to a different wavelength, from the very long  (red to orange - 600-700nm) to short (violet to ultraviolet - 440-360 nm).   Beyond that, you have the rest of the electromagnetic spectrum, stretching in each direction as far as the eye can see -- or can't see, as the case may be.   Visible light makes up a very small portion of the electromagnetic spectrum. 

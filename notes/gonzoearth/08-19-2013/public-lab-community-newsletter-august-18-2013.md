@@ -1,12 +1,18 @@
 ---
-nid: 9036
 title: Public Lab Community Newsletter August 18, 2013
-path: public/static/notes/gonzoearth/08-19-2013/public-lab-community-newsletter-august-18-2013.md
+tagnames: newsletter, blog, response:8936, response:8992, newsletter-archive
+author: gonzoearth
+path: /notes/gonzoearth/08-19-2013/public-lab-community-newsletter-august-18-2013.md
+nid: 9036
 uid: 12
-tagnames: newsletter,blog,response:8936,response:8992,newsletter-archive
+
 ---
 
 # Public Lab Community Newsletter August 18, 2013
+
+by [gonzoearth](../profile/gonzoearth) August 19, 2013 05:07
+
+August 19, 2013 05:07 | Tags: [newsletter](../tag/newsletter), [blog](../tag/blog), [response:8936](../tag/response:8936), [response:8992](../tag/response:8992), [newsletter-archive](../tag/newsletter-archive)
 
 This newsletter includes some notes on the growth of PublicLab.org with some stats on the visitors to the site. Lots of great research related to outdoor August activities getting posted online. We got your hornworms and goat brush control covered in the action from this last week.
 

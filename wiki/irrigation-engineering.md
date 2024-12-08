@@ -1,12 +1,18 @@
 ---
-nid: 21151
 title: Irrigation Engineering
-path: public/static/wiki/irrigation-engineering.md
-uid: 576429
 tagnames: 
+author: er_jkshah
+path: /wiki/irrigation-engineering.md
+nid: 21151
+uid: 576429
+
 ---
 
 # Irrigation Engineering
+
+by [er_jkshah](../profile/er_jkshah)
+
+October 13, 2019 09:29 | Tags: 
 
 ##Irrigation system
 [](null)[](https://cementconcrete.org/water-resources/diversion-head-works-in-irrigation-layout-and-functions-of-component/1778/)This is all about Irrigation system development, Headworks design, water management in irrigation, dispute resolution in irrigation. followings are features of this:

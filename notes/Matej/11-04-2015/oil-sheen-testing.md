@@ -1,12 +1,18 @@
 ---
-nid: 12363
 title: Oil Sheen Testing
-path: public/static/notes/Matej/11-04-2015/oil-sheen-testing.md
+tagnames: spectrometer, oil-spill, oil, crude, water-quality, oil-testing-kit, sheen, otk, os, ost, freezing-oil
+author: Matej
+path: /notes/Matej/11-04-2015/oil-sheen-testing.md
+nid: 12363
 uid: 451808
-tagnames: spectrometer,oil-spill,oil,crude,water-quality,oil-testing-kit,sheen,otk,os,ost,freezing-oil
+
 ---
 
 # Oil Sheen Testing
+
+by [Matej](../profile/Matej) November 04, 2015 15:18
+
+November 04, 2015 15:18 | Tags: [spectrometer](../tag/spectrometer), [oil-spill](../tag/oil-spill), [oil](../tag/oil), [crude](../tag/crude), [water-quality](../tag/water-quality), [oil-testing-kit](../tag/oil-testing-kit), [sheen](../tag/sheen), [otk](../tag/otk), [os](../tag/os), [ost](../tag/ost), [freezing-oil](../tag/freezing-oil)
 
 ###What I want to do
 I want to find out the most effective and DIY friendly way how to collect and concentrate oil sheens from a water surface. I will be trying to test several new but also already existing accessible techniques that are non-toxic or otherwise harmful for the environment or living organisms. 

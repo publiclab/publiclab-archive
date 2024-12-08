@@ -1,6 +1,6 @@
 # wratten25a
 
-22 notes and wiki pages
+22 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Red vs. blue filters for NDVI](/notes/nedhorning/10-30-2013/red-vs-blue-filters-for-ndvi) by [nedhorning](../profile/nedhorning)
 - [Why a red filter should work well for NDVI](/notes/nedhorning/11-01-2013/why-a-red-filter-should-work-well-for-ndvi) by [nedhorning](../profile/nedhorning)

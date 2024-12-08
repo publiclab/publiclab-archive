@@ -1,12 +1,18 @@
 ---
-nid: 9079
 title: Public Lab Community Newsletter - August 30, 2013
-path: public/static/notes/warren/08-30-2013/public-lab-community-newsletter-august-30-2013.md
+tagnames: newsletter, blog, newsletter-archive
+author: warren
+path: /notes/warren/08-30-2013/public-lab-community-newsletter-august-30-2013.md
+nid: 9079
 uid: 1
-tagnames: newsletter,blog,newsletter-archive
+
 ---
 
 # Public Lab Community Newsletter - August 30, 2013
+
+by [warren](../profile/warren) August 30, 2013 16:31
+
+August 30, 2013 16:31 | Tags: [newsletter](../tag/newsletter), [blog](../tag/blog), [newsletter-archive](../tag/newsletter-archive)
 
 (_Above, an aerial image taken at last year's [Extreme Citizen Science balloon mapping](http://uclexcites.wordpress.com/2012/02/14/balloon-mapping-with-the-publiclab-at-ucl/) at University College London_)
 

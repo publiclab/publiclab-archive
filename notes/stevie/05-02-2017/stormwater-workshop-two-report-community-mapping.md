@@ -1,12 +1,18 @@
 ---
-nid: 14158
 title: Stormwater Workshop Two Report: Community Mapping
-path: public/static/notes/stevie/05-02-2017/stormwater-workshop-two-report-community-mapping.md
+tagnames: gulf-coast, balloon-mapping, mapping, new-orleans, stormwater, activity:stormwater
+author: stevie
+path: /notes/stevie/05-02-2017/stormwater-workshop-two-report-community-mapping.md
+nid: 14158
 uid: 422561
-tagnames: gulf-coast,balloon-mapping,mapping,new-orleans,stormwater,activity:stormwater
+
 ---
 
 # Stormwater Workshop Two Report: Community Mapping
+
+by [stevie](../profile/stevie) May 02, 2017 19:19
+
+May 02, 2017 19:19 | Tags: [gulf-coast](../tag/gulf-coast), [balloon-mapping](../tag/balloon-mapping), [mapping](../tag/mapping), [new-orleans](../tag/new-orleans), [stormwater](../tag/stormwater), [activity:stormwater](../tag/activity:stormwater)
 
 On April 8th 12 people gathered for the second in the [Stormwater Workshop series][1]. The goal of this event was to both learn about mapping and also capture aerial and ground survey images of the study sites. We will use these in the next workshop where we’ll be working on a study design for our questions. 
 

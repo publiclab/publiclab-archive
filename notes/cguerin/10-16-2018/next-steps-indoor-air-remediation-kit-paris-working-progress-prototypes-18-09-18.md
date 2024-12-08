@@ -1,12 +1,18 @@
 ---
-nid: 17282
 title: #Next steps - Indoor Air Remediation Kit—Paris Working progress & Prototypes 18/09/18
-path: public/static/notes/cguerin/10-16-2018/next-steps-indoor-air-remediation-kit-paris-working-progress-prototypes-18-09-18.md
+tagnames: remediation, kit, air, design, indoor, with:nshapiro, indoor-air-quality, indoor-air, plant-air-purifier-prototypes
+author: cguerin
+path: /notes/cguerin/10-16-2018/next-steps-indoor-air-remediation-kit-paris-working-progress-prototypes-18-09-18.md
+nid: 17282
 uid: 507616
-tagnames: remediation,kit,air,design,indoor,with:nshapiro,indoor-air-quality,indoor-air,plant-air-purifier-prototypes
+
 ---
 
 # #Next steps - Indoor Air Remediation Kit—Paris Working progress & Prototypes 18/09/18
+
+by [cguerin](../profile/cguerin) October 12, 2018 17:16
+
+October 12, 2018 17:16 | Tags: [remediation](../tag/remediation), [kit](../tag/kit), [air](../tag/air), [design](../tag/design), [indoor](../tag/indoor), [with:nshapiro](../tag/with:nshapiro), [indoor-air-quality](../tag/indoor-air-quality), [indoor-air](../tag/indoor-air), [plant-air-purifier-prototypes](../tag/plant-air-purifier-prototypes)
 
 **Next steps after Paris workshop in February 2018 :**
 

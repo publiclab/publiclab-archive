@@ -1,6 +1,6 @@
 # with-sarasage
 
-10 notes and wiki pages
+10 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [How to Use a Transect, illustrated by Sara Sage](/notes/joyofsoy/06-27-2019/how-to-use-a-transect-illustration-by-sara-sage) by [joyofsoy](../profile/joyofsoy)
 - [How to Describe Odors Using FIDO, illustrated by Sara Sage](/notes/joyofsoy/06-27-2019/how-to-describe-odors-using-fido-illustrations-by-sara-sage) by [joyofsoy](../profile/joyofsoy)

@@ -1,12 +1,18 @@
 ---
-nid: 30098
 title: Evaluating the Success of Mine Reclamation
-path: public/static/wiki/evaluating-the-success-of-mine-reclamation.md
+tagnames: method, soil-health, research-curation-fellows, reclamation, mine-reclamation, evaluating-reclamation, parent:mine-reclamation, mine-soil-health
+author: laurel_mire
+path: /wiki/evaluating-the-success-of-mine-reclamation.md
+nid: 30098
 uid: 759178
-tagnames: method,soil-health,research-curation-fellows,reclamation,mine-reclamation,evaluating-reclamation,parent:mine-reclamation,mine-soil-health
+
 ---
 
 # Evaluating the Success of Mine Reclamation
+
+by [laurel_mire](../profile/laurel_mire)
+
+March 04, 2022 18:57 | Tags: [method](../tag/method), [soil-health](../tag/soil-health), [research-curation-fellows](../tag/research-curation-fellows), [reclamation](../tag/reclamation), [mine-reclamation](../tag/mine-reclamation), [evaluating-reclamation](../tag/evaluating-reclamation), [parent:mine-reclamation](../tag/parent:mine-reclamation), [mine-soil-health](../tag/mine-soil-health)
 
 _Lead image: [Abandoned coal mine subsidence stabilization project](https://commons.wikimedia.org/wiki/File:Abandoned_coal_mine_subsidence_stablization_project.jpg) by [BuzzWeiser196](https://commons.wikimedia.org/wiki/User:BuzzWeiser196), [CC-BY-SA-4.0](https://commons.wikimedia.org/wiki/Category:CC-BY-SA-4.0)_
 

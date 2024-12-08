@@ -1,12 +1,18 @@
 ---
-nid: 7408
 title: DIYBIO Ideas and Applications
-path: public/static/wiki/diybio-ideas-and-applications.md
+tagnames: spectrometer, diybio, igem
+author: donblair
+path: /wiki/diybio-ideas-and-applications.md
+nid: 7408
 uid: 43651
-tagnames: spectrometer,diybio,igem
+
 ---
 
 # DIYBIO Ideas and Applications
+
+by [briandegger](../profile/briandegger), [donblair](../profile/donblair)
+
+May 10, 2013 15:23 | Tags: [spectrometer](../tag/spectrometer), [diybio](../tag/diybio), [igem](../tag/igem)
 
 A page for collecting resources and ideas related to do-it-your-self, civic / citizen / grassroots science approaches to biology research.
 

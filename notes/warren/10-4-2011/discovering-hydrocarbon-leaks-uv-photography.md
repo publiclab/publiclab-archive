@@ -1,12 +1,18 @@
 ---
-nid: 497
 title: Discovering hydrocarbon leaks with UV photography?
-path: public/static/notes/warren/10-4-2011/discovering-hydrocarbon-leaks-uv-photography.md
+tagnames: uv, ultraviolet, fluorescence, hydrocarbon
+author: warren
+path: /notes/warren/10-4-2011/discovering-hydrocarbon-leaks-uv-photography.md
+nid: 497
 uid: 1
-tagnames: uv,ultraviolet,fluorescence,hydrocarbon
+
 ---
 
 # Discovering hydrocarbon leaks with UV photography?
+
+by [warren](../profile/warren) October 04, 2011 19:15
+
+October 04, 2011 19:15 | Tags: [uv](../tag/uv), [ultraviolet](../tag/ultraviolet), [fluorescence](../tag/fluorescence), [hydrocarbon](../tag/hydrocarbon)
 
 Wow, great insider info on identifying hydrocarbon leaks from ultraviolet photography... thanks NASA and the Society of Exploration Geophysicists!
 

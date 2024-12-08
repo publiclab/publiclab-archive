@@ -1,12 +1,18 @@
 ---
-nid: 10226
 title: Sunday 4.6.2014 -- Toolshed Raising
-path: public/static/notes/kgradow1/03-26-2014/sunday-3-30-somerville-ma-toolshed-raising-mbta-mapping-edition.md
-uid: 297929
 tagnames: first-time-poster
+author: kgradow1
+path: /notes/kgradow1/03-26-2014/sunday-3-30-somerville-ma-toolshed-raising-mbta-mapping-edition.md
+nid: 10226
+uid: 297929
+
 ---
 
 # Sunday 4.6.2014 -- Toolshed Raising
+
+by [kgradow1](../profile/kgradow1) March 26, 2014 01:49
+
+March 26, 2014 01:49 | Tags: [first-time-poster](../tag/first-time-poster)
 
 ###Updates!
 

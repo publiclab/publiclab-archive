@@ -1,12 +1,18 @@
 ---
-nid: 13798
 title: Stormwater Monitoring
-path: public/static/wiki/stormwater.md
+tagnames: urban-planning, water-monitoring, tool, flood, stormwater, land-use, depth, industry, flooding, method, land-change, activities:stormwater
+author: stevie
+path: /wiki/stormwater.md
+nid: 13798
 uid: 422561
-tagnames: urban-planning,water-monitoring,tool,flood,stormwater,land-use,depth,industry,flooding,method,land-change,activities:stormwater
+
 ---
 
 # Stormwater Monitoring
+
+by [liz](../profile/liz), [bhamster](../profile/bhamster), [joyofsoy](../profile/joyofsoy), [warren](../profile/warren), [stevie](../profile/stevie), [MarionMcMahon](../profile/MarionMcMahon)
+
+December 20, 2016 17:35 | Tags: [urban-planning](../tag/urban-planning), [water-monitoring](../tag/water-monitoring), [tool](../tag/tool), [flood](../tag/flood), [stormwater](../tag/stormwater), [land-use](../tag/land-use), [depth](../tag/depth), [industry](../tag/industry), [flooding](../tag/flooding), [method](../tag/method), [land-change](../tag/land-change), [activities:stormwater](../tag/activities:stormwater)
 
 Stormwater is excess runoff from rain and snowmelt events that flows over land or impervious surfaces, such as paved streets, parking lots, and building rooftops, and does not soak into the ground. 
   

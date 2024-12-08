@@ -1,12 +1,18 @@
 ---
-nid: 9945
 title: Announcing an ioby + Public Lab partnership
-path: public/static/notes/warren/01-15-2014/announcing-an-ioby-public-lab-partnership.md
+tagnames: gulf-coast, refinery, crowdfunding, flare, ioby, local-projects
+author: warren
+path: /notes/warren/01-15-2014/announcing-an-ioby-public-lab-partnership.md
+nid: 9945
 uid: 1
-tagnames: gulf-coast,refinery,crowdfunding,flare,ioby,local-projects
+
 ---
 
 # Announcing an ioby + Public Lab partnership
+
+by [warren](../profile/warren) January 15, 2014 16:21
+
+January 15, 2014 16:21 | Tags: [gulf-coast](../tag/gulf-coast), [refinery](../tag/refinery), [crowdfunding](../tag/crowdfunding), [flare](../tag/flare), [ioby](../tag/ioby), [local-projects](../tag/local-projects)
 
 Hello all -- we wanted to briefly announce a new initiative in partnership with ioby, a locally-focused crowdfunding platform. 
 

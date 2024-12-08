@@ -1,12 +1,18 @@
 ---
-nid: 10203
 title: EcoHack is back, and this time it’s global! May 9th & 10th
-path: public/static/notes/liz/03-19-2014/ecohack-is-back-and-this-time-it-s-global-may-9th-10th.md
+tagnames: new-york-city, ecohack, norcal, event, brasil
+author: liz
+path: /notes/liz/03-19-2014/ecohack-is-back-and-this-time-it-s-global-may-9th-10th.md
+nid: 10203
 uid: 7
-tagnames: new-york-city,ecohack,norcal,event,brasil
+
 ---
 
 # EcoHack is back, and this time it’s global! May 9th & 10th
+
+by [liz](../profile/liz) March 19, 2014 13:56
+
+March 19, 2014 13:56 | Tags: [new-york-city](../tag/new-york-city), [ecohack](../tag/ecohack), [norcal](../tag/norcal), [event](../tag/event), [brasil](../tag/brasil)
 
 _Lead image by [jatorre on flickr](https://www.flickr.com/photos/jatorre/6316165230/sizes/l/in/set-72157628061720092/)_
 

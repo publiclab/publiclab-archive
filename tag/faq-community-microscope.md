@@ -1,6 +1,6 @@
 # faq-community-microscope
 
-4 notes and wiki pages
+4 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [What information should be posted with images taken with a microscope?](/notes/stevie/01-17-2018/what-information-should-be-posted-with-images-taken-with-a-microscope) by [stevie](../profile/stevie)
 - [How can you calculate microscope magnification with just a calibration slide?](/notes/bronwen/10-04-2018/how-can-you-calculate-microscope-magnification-with-just-a-calibration-slide) by [Bronwen](../profile/Bronwen)

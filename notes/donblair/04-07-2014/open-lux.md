@@ -1,12 +1,18 @@
 ---
-nid: 10274
 title: Open-Lux
-path: public/static/notes/donblair/04-07-2014/open-lux.md
+tagnames: thermal-photography, ndvi, infrared, thermal-flashlight, thermal-imaging, thermal-technology, infragram, mercury, test-strips
+author: donblair
+path: /notes/donblair/04-07-2014/open-lux.md
+nid: 10274
 uid: 43651
-tagnames: thermal-photography,ndvi,infrared,thermal-flashlight,thermal-imaging,thermal-technology,infragram,mercury,test-strips
+
 ---
 
 # Open-Lux
+
+by [donblair](../profile/donblair) April 07, 2014 17:53
+
+April 07, 2014 17:53 | Tags: [thermal-photography](../tag/thermal-photography), [ndvi](../tag/ndvi), [infrared](../tag/infrared), [thermal-flashlight](../tag/thermal-flashlight), [thermal-imaging](../tag/thermal-imaging), [thermal-technology](../tag/thermal-technology), [infragram](../tag/infragram), [mercury](../tag/mercury), [test-strips](../tag/test-strips)
 
 Revision of a Thermal Flashlight prototype, with added RGB+NIR sensors.
 

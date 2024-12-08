@@ -1,12 +1,18 @@
 ---
-nid: 13605
 title: Jlb
-path: public/static/notes/Jlbratcher17/10-19-2016/jlb.md
+tagnames: hidden:response, response:13586, first-time-poster
+author: Jlbratcher17
+path: /notes/Jlbratcher17/10-19-2016/jlb.md
+nid: 13605
 uid: 494919
-tagnames: hidden:response,response:13586,first-time-poster
+
 ---
 
 # Jlb
+
+by [Jlbratcher17](../profile/Jlbratcher17) October 19, 2016 17:25
+
+October 19, 2016 17:25 | Tags: [hidden:response](../tag/hidden:response), [response:13586](../tag/response:13586), [first-time-poster](../tag/first-time-poster)
 
 ###What I want to do
 

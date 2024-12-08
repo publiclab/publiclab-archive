@@ -1,12 +1,18 @@
 ---
-nid: 17058
 title: Leaflet Environmental Layers
-path: public/static/wiki/leaflet-environmental-layers.md
-uid: 1
 tagnames: leaflet-environmental-layers
+author: warren
+path: /wiki/leaflet-environmental-layers.md
+nid: 17058
+uid: 1
+
 ---
 
 # Leaflet Environmental Layers
+
+by [warren](../profile/warren)
+
+September 04, 2018 17:27 | Tags: [leaflet-environmental-layers](../tag/leaflet-environmental-layers)
 
 Leaflet Environmental Layers is a plugin for the Leaflet web mapping library, which makes it possible to view many different sources of environmental data on a single unified map. 
 

@@ -1,6 +1,6 @@
 # parent-texas
 
-4 notes and wiki pages
+4 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [galena-park-monitoring-report](/wiki/galena-park-monitoring-report) (wiki)
 - [galena-park-monitoring-report-IV](/wiki/galena-park-monitoring-report-iv) (wiki)

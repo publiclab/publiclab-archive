@@ -1,6 +1,6 @@
 # guide
 
-24 notes and wiki pages
+24 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Draft revised spectrometer guide by Alex McCarthy](/notes/warren/4-29-2011/draft-revised-spectrometer-guide-alex-mccarthy) by [warren](../profile/warren)
 - [Illustrated guide to spectrometer construction](/notes/warren/8-6-2012/illustrated-guide-spectrometer-construction) by [warren](../profile/warren)
@@ -13,16 +13,11 @@
 - [Calibrating the spectrometer](/notes/hns/12-13-2016/calibrating-the-spectrometer) by [hns](../profile/hns)
 - [Beaufort Wind Scale Comic, 1906](/notes/mathew/01-25-2017/beaufort-wind-scale-comic-1906) by [mathew](../profile/mathew)
 - [Getting mini spectrometer to produce a spectrum](/notes/rcmjh/02-03-2017/getting-mini-spectrometer-to-produce-a-spectrum) by [rcmjh](../profile/rcmjh)
-- [ING](/notes/jaimesalamanca/04-14-2017/ing) by [jaimesalamanca](../profile/jaimesalamanca)
 - [Collaboratively write the new Pocket Guide to Grassroots Mapping](/notes/warren/07-01-2017/collaboratively-write-the-new-pocket-guide-to-grassroots-mapping) by [warren](../profile/warren)
 - [How do I start? i made the spectrometer 3.0. I do not see instructions? I had trouble getting my computer to use it as the camera. Is there any help available? Thanks.](/notes/RPiach/11-20-2017/how-do-i-start-i-made-the-spectrometer-3-0-i-do-not-see-instructions-i-had-trouble-getting-my-computer-to-use-it-as-the-camera-is-there-any-help-available-thanks) by [RPiach](../profile/RPiach)
 - [Successful Calibration of the papercraft spectrometer](/notes/scottkmcrae/01-06-2018/successful-calibration-of-the-papercraft-spectrometer) by [scottkmcrae](../profile/scottkmcrae)
 - [Introducing the SERC Manual](/notes/AyakoM/05-16-2018/serc-manual-coming-soon-to-public-lab-store) by [AyakoM](../profile/AyakoM)
-- [Jukolan viesti 2018, testing, thisisnotmywork!!!](/notes/Jimzamjimmyy/06-12-2018/jukolan-viesti-2018-testing-thisisnotmywork) by [Jimzamjimmyy](../profile/Jimzamjimmyy)
-- [Philippines Travel Guide-Travel to Philippines Visa Tips](/notes/bravoking7/04-23-2019/philippines-travel-guide-travel-to-philippines-visa-tips) by [bravoking7](../profile/bravoking7)
 - [Guia de mapeo colectivo con globos y cometas en español](/notes/imvec/02-08-2020/guia-de-mapeo-colectivo-con-globos-y-cometas-en-espanol) by [imvec](../profile/imvec)
-- [Get to know more about Beautiful Delhi Escort Girls ](/notes/boobitabanerji/03-18-2020/get-to-know-more-about-beautiful-delhi-escort-girls) by [boobitabanerji](../profile/boobitabanerji)
-- [Do You Want to Learn the Trumpet?](/notes/Champigny1/03-25-2020/do-you-want-to-learn-the-trumpet) by [Champigny1](../profile/Champigny1)
 - [Subsoil sampling guide](/notes/imvec/07-01-2022/subsoil-sampling-guide) by [imvec](../profile/imvec)
 - [Guía de muestreo de subsuelo](/notes/imvec/07-02-2022/guia-de-muestreo-de-subsuelo) by [imvec](../profile/imvec)
 - [PicaPiKAP: cámara de mapeo libre y abierta](/notes/imvec/10-30-2023/picapikap-camara-de-mapeo-libre-y-abierta) by [imvec](../profile/imvec)

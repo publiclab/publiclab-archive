@@ -1,12 +1,18 @@
 ---
-nid: 13629
 title: Riffle and Thermsistor
-path: public/static/notes/pdhixenbaugh/10-20-2016/riffle-and-thermsistor.md
+tagnames: riffle, riffle-beta, activity:riffle, thermsistor
+author: pdhixenbaugh
+path: /notes/pdhixenbaugh/10-20-2016/riffle-and-thermsistor.md
+nid: 13629
 uid: 459085
-tagnames: riffle,riffle-beta,activity:riffle,thermsistor
+
 ---
 
 # Riffle and Thermsistor
+
+by [pdhixenbaugh](../profile/pdhixenbaugh) October 20, 2016 00:03
+
+October 20, 2016 00:03 | Tags: [riffle](../tag/riffle), [riffle-beta](../tag/riffle-beta), [activity:riffle](../tag/activity:riffle), [thermsistor](../tag/thermsistor)
 
 ###What I want to do
 Trial and Documentation Test for using a thermsistor with the Riffle. The documentation I am following is here: https://github.com/OpenWaterProject/riffle_328-thermistor.

@@ -1,12 +1,18 @@
 ---
-nid: 11179
 title: cooperation
-path: public/static/wiki/cooperation.md
-uid: 43651
 tagnames: boston
+author: donblair
+path: /wiki/cooperation.md
+nid: 11179
+uid: 43651
+
 ---
 
 # cooperation
+
+by [donblair](../profile/donblair)
+
+September 24, 2014 13:33 | Tags: [boston](../tag/boston)
 
 ### About
 

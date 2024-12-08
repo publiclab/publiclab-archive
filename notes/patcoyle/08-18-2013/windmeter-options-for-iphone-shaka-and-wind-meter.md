@@ -1,12 +1,18 @@
 ---
-nid: 9032
 title: Windmeter options for iPhone - Shaka and Wind Meter
-path: public/static/notes/patcoyle/08-18-2013/windmeter-options-for-iphone-shaka-and-wind-meter.md
+tagnames: balloon-mapping, kite-mapping, iphone, anemometer, wind-speed-meter, wind, wind-speed
+author: patcoyle
+path: /notes/patcoyle/08-18-2013/windmeter-options-for-iphone-shaka-and-wind-meter.md
+nid: 9032
 uid: 77
-tagnames: balloon-mapping,kite-mapping,iphone,anemometer,wind-speed-meter,wind,wind-speed
+
 ---
 
 # Windmeter options for iPhone - Shaka and Wind Meter
+
+by [patcoyle](../profile/patcoyle) August 18, 2013 05:01
+
+August 18, 2013 05:01 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [iphone](../tag/iphone), [anemometer](../tag/anemometer), [wind-speed-meter](../tag/wind-speed-meter), [wind](../tag/wind), [wind-speed](../tag/wind-speed)
 
 Windmeters can be helpful in refining our intuition when considering flying kites, balloons or UAVs.
 

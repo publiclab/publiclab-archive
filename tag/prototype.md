@@ -1,6 +1,6 @@
 # prototype
 
-5 notes and wiki pages
+5 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Smartphone spectrometer molded samples have arrived!](/notes/warren/08-20-2013/smartphone-spectrometer-molded-samples-have-arrived) by [warren](../profile/warren)
 - [DIY Indoor Air Quality Remediation](/notes/nshapiro/10-20-2014/diy-indoor-air-quality-remediation) by [nshapiro](../profile/nshapiro)

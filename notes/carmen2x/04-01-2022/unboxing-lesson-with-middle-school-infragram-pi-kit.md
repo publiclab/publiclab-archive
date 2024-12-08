@@ -1,12 +1,18 @@
 ---
-nid: 30245
 title: Unboxing Lesson with Middle School - Infragram Pi Kit
-path: public/static/notes/carmen2x/04-01-2022/unboxing-lesson-with-middle-school-infragram-pi-kit.md
+tagnames: balloon-mapping, kite-mapping, education, kits, nasa, aerial-imaging, aren, globe, infragram-pi
+author: carmen2x
+path: /notes/carmen2x/04-01-2022/unboxing-lesson-with-middle-school-infragram-pi-kit.md
+nid: 30245
 uid: 787988
-tagnames: balloon-mapping,kite-mapping,education,kits,nasa,aerial-imaging,aren,globe,infragram-pi
+
 ---
 
 # Unboxing Lesson with Middle School - Infragram Pi Kit
+
+by [carmen2x](../profile/carmen2x) April 01, 2022 16:48
+
+April 01, 2022 16:48 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [education](../tag/education), [kits](../tag/kits), [nasa](../tag/nasa), [aerial-imaging](../tag/aerial-imaging), [aren](../tag/aren), [globe](../tag/globe), [infragram-pi](../tag/infragram-pi)
 
 **Introduction**
 

@@ -1,12 +1,18 @@
 ---
-nid: 10167
 title: Food grade oil samples
-path: public/static/notes/liz/03-13-2014/food-grade-oil-samples.md
+tagnames: new-york-city, spectrometer, oil, spectroscopy, oil-testing-kit, olive-oil
+author: liz
+path: /notes/liz/03-13-2014/food-grade-oil-samples.md
+nid: 10167
 uid: 7
-tagnames: new-york-city,spectrometer,oil,spectroscopy,oil-testing-kit,olive-oil
+
 ---
 
 # Food grade oil samples
+
+by [liz](../profile/liz) March 13, 2014 14:49
+
+March 13, 2014 14:49 | Tags: [new-york-city](../tag/new-york-city), [spectrometer](../tag/spectrometer), [oil](../tag/oil), [spectroscopy](../tag/spectroscopy), [oil-testing-kit](../tag/oil-testing-kit), [olive-oil](../tag/olive-oil)
 
 ###What I want to do
 

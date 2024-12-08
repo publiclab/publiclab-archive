@@ -1,6 +1,6 @@
 # question-oil-and-gas-water-trio
 
-7 notes and wiki pages
+7 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Why do individuals/organizations want to collect water quality data?](/notes/wmacfarl/09-18-2019/why-do-individuals-organizations-want-to-collect-water-quality-data) by [wmacfarl](../profile/wmacfarl)
 - [How can DIY/community-collected environmental data be used?](/notes/wmacfarl/09-18-2019/how-can-diy-community-collected-environmental-data-be-used) by [wmacfarl](../profile/wmacfarl)

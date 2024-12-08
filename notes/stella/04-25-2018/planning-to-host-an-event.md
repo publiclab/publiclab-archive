@@ -1,12 +1,18 @@
 ---
-nid: 16210
 title: PLANNING TO HOST AN EVENT?
-path: public/static/notes/stella/04-25-2018/planning-to-host-an-event.md
+tagnames: open-source, community, events, software, event, organizers, outreach, organizing, developers, code, barnstar:basic, facilitation, rgsoc, activity:host-an-event, women, activity:facilitation, activity:events, rails-girls, event-how-to
+author: stella
+path: /notes/stella/04-25-2018/planning-to-host-an-event.md
+nid: 16210
 uid: 504749
-tagnames: open-source,community,events,software,event,organizers,outreach,organizing,developers,code,barnstar:basic,facilitation,rgsoc,activity:host-an-event,women,activity:facilitation,activity:events,rails-girls,event-how-to
+
 ---
 
 # PLANNING TO HOST AN EVENT?
+
+by [stella](../profile/stella) April 25, 2018 15:28
+
+April 25, 2018 15:28 | Tags: [open-source](../tag/open-source), [community](../tag/community), [events](../tag/events), [software](../tag/software), [event](../tag/event), [organizers](../tag/organizers), [outreach](../tag/outreach), [organizing](../tag/organizing), [developers](../tag/developers), [code](../tag/code), [barnstar:basic](../tag/barnstar:basic), [facilitation](../tag/facilitation), [rgsoc](../tag/rgsoc), [activity:host-an-event](../tag/activity:host-an-event), [women](../tag/women), [activity:facilitation](../tag/activity:facilitation), [activity:events](../tag/activity:events), [rails-girls](../tag/rails-girls), [event-how-to](../tag/event-how-to)
 
 ## INTRODUCTION
 Event planning can turn even the most capable person into a ball of nerves. After a couple sleepless nights and countless emails requesting for funds, we finally managed to pull through in Organizing Rails Girls Nairobi Event.

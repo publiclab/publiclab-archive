@@ -1,12 +1,18 @@
 ---
-nid: 14523
 title: A Questions page to encourage discussions through better UX
-path: public/static/notes/siyuan/06-12-2017/a-questions-page-to-encourage-discussions-through-better-ux.md
+tagnames: website, software, barnstar:basic, ux, ui, interface-design, user-interface
+author: siyuan
+path: /notes/siyuan/06-12-2017/a-questions-page-to-encourage-discussions-through-better-ux.md
+nid: 14523
 uid: 508697
-tagnames: website,software,barnstar:basic,ux,ui,interface-design,user-interface
+
 ---
 
 # A Questions page to encourage discussions through better UX
+
+by [siyuan](../profile/siyuan) June 12, 2017 19:26
+
+June 12, 2017 19:26 | Tags: [website](../tag/website), [software](../tag/software), [barnstar:basic](../tag/barnstar:basic), [ux](../tag/ux), [ui](../tag/ui), [interface-design](../tag/interface-design), [user-interface](../tag/user-interface)
 
 I'm working on a pro-bono project to improve the user experience on Public Lab's site. I've spent some time in the past few weeks learning about and evaluating the Questions page for ways to improve the UX/UI. 
 

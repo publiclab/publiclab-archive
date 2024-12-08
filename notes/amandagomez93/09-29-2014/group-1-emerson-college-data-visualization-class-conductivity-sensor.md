@@ -1,12 +1,18 @@
 ---
-nid: 11207
 title: Group 1 Emerson College Data Visualization Class: Conductivity Sensor
-path: public/static/notes/amandagomez93/09-29-2014/group-1-emerson-college-data-visualization-class-conductivity-sensor.md
-uid: 428015
 tagnames: first-time-poster
+author: amandagomez93
+path: /notes/amandagomez93/09-29-2014/group-1-emerson-college-data-visualization-class-conductivity-sensor.md
+nid: 11207
+uid: 428015
+
 ---
 
 # Group 1 Emerson College Data Visualization Class: Conductivity Sensor
+
+by [amandagomez93](../profile/amandagomez93) September 29, 2014 21:30
+
+September 29, 2014 21:30 | Tags: [first-time-poster](../tag/first-time-poster)
 
 by Amanda Gomez & Elizabeth Gillis 
 

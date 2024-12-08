@@ -1,12 +1,18 @@
 ---
-nid: 10509
 title:  Suggests fundraising opportunities: KAP before SF Rotary walk 5-17-14
-path: public/static/notes/patcoyle/05-24-2014/kap-before-sf-rotary-walk-5-17-14.md
+tagnames: kap, sfm, fundraising, local-projects, ewb
+author: patcoyle
+path: /notes/patcoyle/05-24-2014/kap-before-sf-rotary-walk-5-17-14.md
+nid: 10509
 uid: 77
-tagnames: kap,sfm,fundraising,local-projects,ewb
+
 ---
 
 #  Suggests fundraising opportunities: KAP before SF Rotary walk 5-17-14
+
+by [patcoyle](../profile/patcoyle) May 24, 2014 04:41
+
+May 24, 2014 04:41 | Tags: [kap](../tag/kap), [sfm](../tag/sfm), [fundraising](../tag/fundraising), [local-projects](../tag/local-projects), [ewb](../tag/ewb)
 
 ###What I want to do
 Demonstrate Public Lab tools and invite discussion whenever it is appropriate. This Rotary event suggests ways to fund raise for projects. 

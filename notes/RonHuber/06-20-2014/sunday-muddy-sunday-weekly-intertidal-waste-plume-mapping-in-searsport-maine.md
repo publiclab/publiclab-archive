@@ -1,12 +1,18 @@
 ---
-nid: 10598
 title: Sunday, Muddy Sunday!  weekly intertidal  waste plume mapping in Searsport Maine.
-path: public/static/notes/RonHuber/06-20-2014/sunday-muddy-sunday-weekly-intertidal-waste-plume-mapping-in-searsport-maine.md
+tagnames: maine, penobscot, bay, stockton, harbor, searsport
+author: ronhuber
+path: /notes/RonHuber/06-20-2014/sunday-muddy-sunday-weekly-intertidal-waste-plume-mapping-in-searsport-maine.md
+nid: 10598
 uid: 437
-tagnames: maine,penobscot,bay,stockton,harbor,searsport
+
 ---
 
 # Sunday, Muddy Sunday!  weekly intertidal  waste plume mapping in Searsport Maine.
+
+by [ronhuber](../profile/ronhuber) June 20, 2014 20:40
+
+June 20, 2014 20:40 | Tags: [maine](../tag/maine), [penobscot](../tag/penobscot), [bay](../tag/bay), [stockton](../tag/stockton), [harbor](../tag/harbor), [searsport](../tag/searsport)
 
 The Friends of Penobscot Bay are pleased to announce the renewal of our 'Stockton Harbor Sundays' field investigations! Please join us every Sunday  at the land end of the  the Sears Island Causeway between noon and 3pm.  June 22nd through  August 31st.  Come see first hand what is possibly the worst coastal acidification site in the United States, as well as nearby Sears Island, New England's biggest wild undeveloped public land island, at the far end of the causeway.
 Plenty of free parking along the  Sears Island Road & causeway  Directions below.   

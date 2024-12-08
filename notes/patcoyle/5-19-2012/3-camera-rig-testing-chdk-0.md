@@ -1,12 +1,18 @@
 ---
-nid: 2144
 title: 3-camera rig testing with with CHDK
-path: public/static/notes/patcoyle/5-19-2012/3-camera-rig-testing-chdk-0.md
+tagnames: balloon-mapping, chdk, balloon-telemetry-kit, telemetry, photo-rig
+author: patcoyle
+path: /notes/patcoyle/5-19-2012/3-camera-rig-testing-chdk-0.md
+nid: 2144
 uid: 77
-tagnames: balloon-mapping,chdk,balloon-telemetry-kit,telemetry,photo-rig
+
 ---
 
 # 3-camera rig testing with with CHDK
+
+by [patcoyle](../profile/patcoyle) May 20, 2012 03:52
+
+May 20, 2012 03:52 | Tags: [balloon-mapping](../tag/balloon-mapping), [chdk](../tag/chdk), [balloon-telemetry-kit](../tag/balloon-telemetry-kit), [telemetry](../tag/telemetry), [photo-rig](../tag/photo-rig)
 
 I flew a quick 3-camera rig test with Sutton FF16 with MK111 timer and CHDK intended to trigger Canon A490 (iR converted by Jeff Warren) and A495 (visible). 
 

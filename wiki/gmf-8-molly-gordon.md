@@ -1,12 +1,18 @@
 ---
-nid: 12149
 title: gmf-8-Molly-Gordon
-path: public/static/wiki/gmf-8-molly-gordon.md
+tagnames: grassrootsmappingforum, blog, style:fancy, gmf-8
+author: liz
+path: /wiki/gmf-8-molly-gordon.md
+nid: 12149
 uid: 7
-tagnames: grassrootsmappingforum,blog,style:fancy,gmf-8
+
 ---
 
 # gmf-8-Molly-Gordon
+
+by [liz](../profile/liz)
+
+August 17, 2015 16:08 | Tags: [grassrootsmappingforum](../tag/grassrootsmappingforum), [blog](../tag/blog), [style:fancy](../tag/style:fancy), [gmf-8](../tag/gmf-8)
 
 By [Molly Gordon](/profile/mjg2171)
 

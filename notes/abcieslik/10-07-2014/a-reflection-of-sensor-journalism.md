@@ -1,12 +1,18 @@
 ---
-nid: 11247
 title: A reflection of sensor journalism
-path: public/static/notes/abcieslik/10-07-2014/a-reflection-of-sensor-journalism.md
+tagnames: water-quality, coqui, sensor-journalism
+author: abcieslik
+path: /notes/abcieslik/10-07-2014/a-reflection-of-sensor-journalism.md
+nid: 11247
 uid: 428083
-tagnames: water-quality,coqui,sensor-journalism
+
 ---
 
 # A reflection of sensor journalism
+
+by [abcieslik](../profile/abcieslik) October 07, 2014 16:44
+
+October 07, 2014 16:44 | Tags: [water-quality](../tag/water-quality), [coqui](../tag/coqui), [sensor-journalism](../tag/sensor-journalism)
 
 	Perhaps the biggest challenge of sensor journalism is the fact that it is such a new and emerging field within journalism. While it is exciting to be at the forefront of sensor journalism, there are relatively few guidelines within the field right now, making so much of it trial and error. There are also plenty of misconceptions regarding sensor journalism that can only be addressed organically as it develops further. 
 

@@ -1,6 +1,6 @@
 # bottle-rig
 
-5 notes and wiki pages
+5 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Wobble adjustments for simple juice bottle rig](/notes/warren/11-19-2012/wobble-adjustments-simple-juice-bottle-rig) by [warren](../profile/warren)
 - [Prototype juice bottle rig on R-10 UAir quad](/notes/patcoyle/6-4-2013/prototype-juice-bottle-rig-r-10-uair-quad) by [patcoyle](../profile/patcoyle)

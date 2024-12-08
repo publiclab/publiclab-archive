@@ -1,12 +1,18 @@
 ---
-nid: 11840
 title: NDVI two camera system calibration
-path: public/static/notes/gpenzo/05-26-2015/ndvi-two-camera-system-calibration.md
-uid: 420719
 tagnames: 
+author: gpenzo
+path: /notes/gpenzo/05-26-2015/ndvi-two-camera-system-calibration.md
+nid: 11840
+uid: 420719
+
 ---
 
 # NDVI two camera system calibration
+
+by [gpenzo](../profile/gpenzo) May 26, 2015 21:25
+
+May 26, 2015 21:25 | Tags: 
 
 ###What I want to do
 I have a [two camera](http://publiclab.org/notes/gpenzo/03-25-2015/ndvi-cape-for-the-beagle-bone) setup to capture NDVI images. Camera works fine.

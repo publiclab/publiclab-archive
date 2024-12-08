@@ -1,12 +1,18 @@
 ---
-nid: 4649
 title: Hello Kitty Watchdog Patrols the Gowanus Canal Skies
-path: public/static/notes/eymund-diegel/10-26-2012/hello-kitty-watchdog-patrols-gowanus-canal-skies.md
+tagnames: balloon-mapping, gowanus, plume, mapping, gowanus-canal-conservancy, gowanus-dredgers-canoe-club-swim-team, hello-kitty, Gowanus Low Altitude Mapping Program (GLAM), watchdog, reporting, altitude, low, program
+author: eymund
+path: /notes/eymund-diegel/10-26-2012/hello-kitty-watchdog-patrols-gowanus-canal-skies.md
+nid: 4649
 uid: 1016
-tagnames: balloon-mapping,gowanus,plume,mapping,gowanus-canal-conservancy,gowanus-dredgers-canoe-club-swim-team,hello-kitty,Gowanus Low Altitude Mapping Program (GLAM),watchdog,reporting,altitude,low,program
+
 ---
 
 # Hello Kitty Watchdog Patrols the Gowanus Canal Skies
+
+by [eymund](../profile/eymund) October 26, 2012 04:47
+
+October 26, 2012 04:47 | Tags: [balloon-mapping](../tag/balloon-mapping), [gowanus](../tag/gowanus), [plume](../tag/plume), [mapping](../tag/mapping), [gowanus-canal-conservancy](../tag/gowanus-canal-conservancy), [gowanus-dredgers-canoe-club-swim-team](../tag/gowanus-dredgers-canoe-club-swim-team), [hello-kitty](../tag/hello-kitty), [Gowanus Low Altitude Mapping Program (GLAM)](../tag/Gowanus Low Altitude Mapping Program (GLAM)), [watchdog](../tag/watchdog), [reporting](../tag/reporting), [altitude](../tag/altitude), [low](../tag/low), [program](../tag/program)
 
 The Gowanus Canal Conservancy has been using kite and balloon photographs to map historic buried stream beds and opportunities for rain filter planting on the edges of a Superfund site in Brooklyn, New York.
 

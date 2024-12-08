@@ -1,12 +1,18 @@
 ---
-nid: 13315
 title: Response to: Dave stoft's challenge (challenge proposed on 07/21/2016)
-path: public/static/notes/dhaffnersr/07-30-2016/response-to-dave-stoft-s-challenge-challenge-proposed-on-07-21-2016.md
-uid: 461120
 tagnames: 
+author: dhaffnersr
+path: /notes/dhaffnersr/07-30-2016/response-to-dave-stoft-s-challenge-challenge-proposed-on-07-21-2016.md
+nid: 13315
+uid: 461120
+
 ---
 
 # Response to: Dave stoft's challenge (challenge proposed on 07/21/2016)
+
+by [dhaffnersr](../profile/dhaffnersr) July 30, 2016 15:20
+
+July 30, 2016 15:20 | Tags: 
 
 ##**To qualify (for this challenge) the application concept needs 1) some detail about the degree of oil detection (it must be better than detecting oil at a level far below that which I can already detect it by sight and smell) and 2) details showing the measurement concept has a viable technique of acquiring reproducible data..**
 

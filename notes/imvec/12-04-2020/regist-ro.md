@@ -1,12 +1,18 @@
 ---
-nid: 25162
 title: Regist.ro
-path: public/static/notes/imvec/12-04-2020/regist-ro.md
+tagnames: lang:es, odor, ballon-mapping, spanish, herramientas
+author: imvec
+path: /notes/imvec/12-04-2020/regist-ro.md
+nid: 25162
 uid: 495038
-tagnames: lang:es,odor,ballon-mapping,spanish,herramientas
+
 ---
 
 # Regist.ro
+
+by [imvec](../profile/imvec) December 04, 2020 20:27
+
+December 04, 2020 20:27 | Tags: [lang:es](../tag/lang:es), [odor](../tag/odor), [ballon-mapping](../tag/ballon-mapping), [spanish](../tag/spanish), [herramientas](../tag/herramientas)
 
 ## [https://regist.ro](https://regist.ro)
 

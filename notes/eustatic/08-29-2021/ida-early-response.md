@@ -1,12 +1,18 @@
 ---
-nid: 27631
 title: Ida early response
-path: public/static/notes/eustatic/08-29-2021/ida-early-response.md
+tagnames: air-quality, blog, hurricane, barnstar:photo-documentation, disaster-response, hurricanes, zoom:15, lat:29.953736, lon:-90.073637, ida, hurricane-ida
+author: eustatic
+path: /08-29-2021/ida-early-response.md
+nid: 27631
 uid: 379
-tagnames: air-quality,blog,hurricane,barnstar:photo-documentation,disaster-response,hurricanes,zoom:15,lat:29.953736,lon:-90.073637,ida,hurricane-ida
+
 ---
 
 # Ida early response
+
+by [eustatic](../profile/eustatic) August 29, 2021 16:52
+
+August 29, 2021 16:52 | Tags: [air-quality](../tag/air-quality), [blog](../tag/blog), [hurricane](../tag/hurricane), [barnstar:photo-documentation](../tag/barnstar:photo-documentation), [disaster-response](../tag/disaster-response), [hurricanes](../tag/hurricanes), [zoom:15](../tag/zoom:15), [lat:29.953736](../tag/lat:29.953736), [lon:-90.073637](../tag/lon:-90.073637), [ida](../tag/ida), [hurricane-ida](../tag/hurricane-ida)
 
 We are recovering from Hurricane Ida, which hit Grand Isle, Lafourche, Terrebonne, Lower Plaquemines, Grand Isle / Lafitte, LaPlace, St James, and entire the New Orleans area as a powerful Cat 5\.
 

@@ -1,12 +1,18 @@
 ---
-nid: 25558
 title: Open Water Data - Data Latern tutorials
-path: public/static/notes/amocorro/01-27-2021/open-water-data-data-latern-tutorials.md
+tagnames: waterway, civic-event, industry, datasets, clean-water-act, project:water-quality, zoom:6, lat:42.391008, lon:-71.037597, open-water-data, data-lanterns, government-data, with:sara
+author: amocorro
+path: /notes/amocorro/01-27-2021/open-water-data-data-latern-tutorials.md
+nid: 25558
 uid: 700923
-tagnames: waterway,civic-event,industry,datasets,clean-water-act,project:water-quality,zoom:6,lat:42.391008,lon:-71.037597,open-water-data,data-lanterns,government-data,with:sara
+
 ---
 
 # Open Water Data - Data Latern tutorials
+
+by [amocorro](../profile/amocorro) January 27, 2021 16:01
+
+January 27, 2021 16:01 | Tags: [waterway](../tag/waterway), [civic-event](../tag/civic-event), [industry](../tag/industry), [datasets](../tag/datasets), [clean-water-act](../tag/clean-water-act), [project:water-quality](../tag/project:water-quality), [zoom:6](../tag/zoom:6), [lat:42.391008](../tag/lat:42.391008), [lon:-71.037597](../tag/lon:-71.037597), [open-water-data](../tag/open-water-data), [data-lanterns](../tag/data-lanterns), [government-data](../tag/government-data), [with:sara](../tag/with:sara)
 
 **Sharing for water quality and organizing interested community members! Here's an activity that is replicable and can be done in your community.**
 

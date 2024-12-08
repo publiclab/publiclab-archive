@@ -1,12 +1,18 @@
 ---
-nid: 25163
 title: sandbox-pm-monitoring
-path: public/static/wiki/sandbox-pm-monitoring.md
-uid: 664477
 tagnames: 
+author: bhamster
+path: /wiki/sandbox-pm-monitoring.md
+nid: 25163
+uid: 664477
+
 ---
 
 # sandbox-pm-monitoring
+
+by [bhamster](../profile/bhamster)
+
+December 04, 2020 22:19 | Tags: 
 
 ## Types of monitoring equipment
 

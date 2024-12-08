@@ -1,12 +1,18 @@
 ---
-nid: 793
 title: Social Media
-path: public/static/wiki/social-media.md
+tagnames: community, media, social-media
+author: liz
+path: /wiki/social-media.md
+nid: 793
 uid: 7
-tagnames: community,media,social-media
+
 ---
 
 # Social Media
+
+by [amocorro](../profile/amocorro), [joyofsoy](../profile/joyofsoy), [liz](../profile/liz), [natalie](../profile/natalie), [warren](../profile/warren)
+
+February 16, 2012 15:59 | Tags: [community](../tag/community), [media](../tag/media), [social-media](../tag/social-media)
 
 * **Find us on Facebook**: http://www.facebook.com/PublicLab 
 * **Follow us on Twitter**: http://twitter.com/publiclab

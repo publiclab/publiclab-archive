@@ -1,12 +1,18 @@
 ---
-nid: 10455
 title: Newark, NJ
-path: public/static/wiki/newark.md
+tagnames: newark, new-jersey, community-garden, garden, food, ironbound, elp, northeast, parent:northeast
+author: liz
+path: /wiki/newark.md
+nid: 10455
 uid: 7
-tagnames: newark,new-jersey,community-garden,garden,food,ironbound,elp,northeast,parent:northeast
+
 ---
 
 # Newark, NJ
+
+by [liz](../profile/liz)
+
+May 09, 2014 19:33 | Tags: [newark](../tag/newark), [new-jersey](../tag/new-jersey), [community-garden](../tag/community-garden), [garden](../tag/garden), [food](../tag/food), [ironbound](../tag/ironbound), [elp](../tag/elp), [northeast](../tag/northeast), [parent:northeast](../tag/parent:northeast)
 
 ### Welcome
 

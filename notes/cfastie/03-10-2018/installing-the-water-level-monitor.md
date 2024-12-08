@@ -1,12 +1,18 @@
 ---
-nid: 15911
 title: Installing the water-level monitor
-path: public/static/notes/cfastie/03-10-2018/installing-the-water-level-monitor.md
+tagnames: arduino, sensors, datalogger, data-logging, water-level, bme280, ds18b20, mini-pearl-logger, activity:mini-pearl-logger, mma8451, series:springhouse-water-level, log-a-long-timer, activity:log-a-long-timer
+author: cfastie
+path: /notes/cfastie/03-10-2018/installing-the-water-level-monitor.md
+nid: 15911
 uid: 554
-tagnames: arduino,sensors,datalogger,data-logging,water-level,bme280,ds18b20,mini-pearl-logger,activity:mini-pearl-logger,mma8451,series:springhouse-water-level,log-a-long-timer,activity:log-a-long-timer
+
 ---
 
 # Installing the water-level monitor
+
+by [cfastie](../profile/cfastie) March 10, 2018 01:07
+
+March 10, 2018 01:07 | Tags: [arduino](../tag/arduino), [sensors](../tag/sensors), [datalogger](../tag/datalogger), [data-logging](../tag/data-logging), [water-level](../tag/water-level), [bme280](../tag/bme280), [ds18b20](../tag/ds18b20), [mini-pearl-logger](../tag/mini-pearl-logger), [activity:mini-pearl-logger](../tag/activity:mini-pearl-logger), [mma8451](../tag/mma8451), [series:springhouse-water-level](../tag/series:springhouse-water-level), [log-a-long-timer](../tag/log-a-long-timer), [activity:log-a-long-timer](../tag/activity:log-a-long-timer)
 
 I did not think it would take this long to get the [water-level monitor](https://publiclab.org/tag/series:springhouse-water-level) installed. I [figured out the trigonometry part](https://publiclab.org/notes/cfastie/12-29-2017/will-trigonometry-help-an-arduino-measure-water-depth) last year and started building the contraption to put into the spring house. Part of the delay was due to a cold spell in January which left a three inch layer of ice in the spring house, and then I got distracted for a while.
 

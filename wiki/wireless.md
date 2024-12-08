@@ -1,12 +1,18 @@
 ---
-nid: 11123
 title: wireless
-path: public/static/wiki/wireless.md
+tagnames: wireless, mobile, sensors, wi-fi, bluetooth
+author: mathew
+path: /wiki/wireless.md
+nid: 11123
 uid: 4
-tagnames: wireless,mobile,sensors,wi-fi,bluetooth
+
 ---
 
 # wireless
+
+by [willie](../profile/willie), [danbeavers](../profile/danbeavers), [mathew](../profile/mathew)
+
+September 11, 2014 17:20 | Tags: [wireless](../tag/wireless), [mobile](../tag/mobile), [sensors](../tag/sensors), [wi-fi](../tag/wi-fi), [bluetooth](../tag/bluetooth)
 
 #Satellite
 

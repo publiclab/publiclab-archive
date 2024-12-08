@@ -1,12 +1,18 @@
 ---
-nid: 22437
 title: Job Posting: Organizational Learning Associate
-path: public/static/notes/thewrightjess/01-30-2020/public-lab-job-posting-organizational-learning-associate.md
+tagnames: community, development, jobs
+author: thewrightjess
+path: /notes/thewrightjess/01-30-2020/public-lab-job-posting-organizational-learning-associate.md
+nid: 22437
 uid: 603909
-tagnames: community,development,jobs
+
 ---
 
 # Job Posting: Organizational Learning Associate
+
+by [thewrightjess](../profile/thewrightjess) January 30, 2020 18:52
+
+January 30, 2020 18:52 | Tags: [community](../tag/community), [development](../tag/development), [jobs](../tag/jobs)
 
 **Start Date**: Late March-early May 2020
 

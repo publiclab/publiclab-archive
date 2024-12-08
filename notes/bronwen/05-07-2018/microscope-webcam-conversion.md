@@ -1,12 +1,18 @@
 ---
-nid: 16309
 title: Microscope Webcam Conversion
-path: public/static/notes/bronwen/05-07-2018/microscope-webcam-conversion.md
+tagnames: webcam, pi, with:warren, microscope, pi-camera, activity:microscope, microscopes, activity:basic-microscope, basic-microscope, pi-, optics, activity:community-microscope, community-microscope, activity:community-microscope-assembly
+author: Bronwen
+path: /notes/bronwen/05-07-2018/microscope-webcam-conversion.md
+nid: 16309
 uid: 237313
-tagnames: webcam,pi,with:warren,microscope,pi-camera,activity:microscope,microscopes,activity:basic-microscope,basic-microscope,pi-,optics,activity:community-microscope,community-microscope,activity:community-microscope-assembly
+
 ---
 
 # Microscope Webcam Conversion
+
+by [Bronwen](../profile/Bronwen) May 07, 2018 21:07
+
+May 07, 2018 21:07 | Tags: [webcam](../tag/webcam), [pi](../tag/pi), [with:warren](../tag/with:warren), [microscope](../tag/microscope), [pi-camera](../tag/pi-camera), [activity:microscope](../tag/activity:microscope), [microscopes](../tag/microscopes), [activity:basic-microscope](../tag/activity:basic-microscope), [basic-microscope](../tag/basic-microscope), [pi-](../tag/pi-), [optics](../tag/optics), [activity:community-microscope](../tag/activity:community-microscope), [community-microscope](../tag/community-microscope), [activity:community-microscope-assembly](../tag/activity:community-microscope-assembly)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pt-9qPCBbQE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen\></iframe>  
 

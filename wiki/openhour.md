@@ -1,12 +1,18 @@
 ---
-nid: 10388
 title: OpenHour
-path: public/static/wiki/openhour.md
+tagnames: community, events, openhour, parent:events, fenceline
+author: liz
+path: /wiki/openhour.md
+nid: 10388
 uid: 7
-tagnames: community,events,openhour,parent:events,fenceline
+
 ---
 
 # OpenHour
+
+by [stevie](../profile/stevie), [amocorro](../profile/amocorro), [liz](../profile/liz), [joyofsoy](../profile/joyofsoy), [mimiss](../profile/mimiss), [Bronwen](../profile/Bronwen), [warren](../profile/warren), [klie](../profile/klie), [mfrangos](../profile/mfrangos), [BrandonFeenstra](../profile/BrandonFeenstra), [alisonjparker](../profile/alisonjparker), [eustatic](../profile/eustatic), [ann](../profile/ann), [vastine](../profile/vastine), [danbeavers](../profile/danbeavers), [jeremyb](../profile/jeremyb)
+
+May 08, 2018 02:07 | Tags: [community](../tag/community), [events](../tag/events), [openhour](../tag/openhour), [parent:events](../tag/parent:events), [fenceline](../tag/fenceline)
 
 OpenHour is an interactive seminar hosted by the Public Lab community, both online and in person. The topics of OpenHour vary from presentations on tools and methods, discussions on environmental issues, to approaches to data-based advocacy. OpenHour is a great way to meet people in the Public Lab community. Bring your research, your ideas, and your questions, and join us for OpenHour!
 

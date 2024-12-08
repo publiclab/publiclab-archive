@@ -1,12 +1,18 @@
 ---
-nid: 13127
 title: Riffle test data
-path: public/static/notes/cfastie/05-18-2016/riffle-test-data.md
+tagnames: arduino, temperature, water-quality, riffle, micro-sd, response:13122, riffle-beta, category:test-limits, data-logging
+author: cfastie
+path: /notes/cfastie/05-18-2016/riffle-test-data.md
+nid: 13127
 uid: 554
-tagnames: arduino,temperature,water-quality,riffle,micro-sd,response:13122,riffle-beta,category:test-limits,data-logging
+
 ---
 
 # Riffle test data
+
+by [cfastie](../profile/cfastie) May 18, 2016 18:32
+
+May 18, 2016 18:32 | Tags: [arduino](../tag/arduino), [temperature](../tag/temperature), [water-quality](../tag/water-quality), [riffle](../tag/riffle), [micro-sd](../tag/micro-sd), [response:13122](../tag/response:13122), [riffle-beta](../tag/riffle-beta), [category:test-limits](../tag/category:test-limits), [data-logging](../tag/data-logging)
 
 I think the [corruption of the micro SD card](https://publiclab.org/notes/cfastie/05-18-2016/riffle-test-1) I was using in the Riffle had nothing to do with the Riffle. I have a USB card reader for both regular and micro SD cards and I inserted the micro SD card when another SD card was already inserted. Then I removed the regular SD card. That must have bricked the micro SD card. Strange.
 

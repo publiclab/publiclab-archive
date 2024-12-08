@@ -1,12 +1,18 @@
 ---
-nid: 750
 title: Android phone hacked as radiation detector
-path: public/static/notes/warren/2-5-2012/android-phone-hacked-radiation-detector.md
+tagnames: android, radiation
+author: warren
+path: /notes/warren/2-5-2012/android-phone-hacked-radiation-detector.md
+nid: 750
 uid: 1
-tagnames: android,radiation
+
 ---
 
 # Android phone hacked as radiation detector
+
+by [warren](../profile/warren) February 05, 2012 17:31
+
+February 05, 2012 17:31 | Tags: [android](../tag/android), [radiation](../tag/radiation)
 
 [Hackaday wrote about](http://hackaday.com/2012/01/15/turn-your-camera-phone-into-a-geiger-counter/) an Android app by Rolf-Dieter Klein of the Helmholtz Research Center in Munich (as far as I'm able to tell):
 

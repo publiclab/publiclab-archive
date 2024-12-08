@@ -1,12 +1,18 @@
 ---
-nid: 27813
 title: How To Become a Carbon Gardener
-path: public/static/notes/laurel_mire/09-29-2021/how-to-become-a-carbon-gardener.md
+tagnames: soil, gardening, climate-change, carbon, carbon-dioxide, how, why, what, motivation, more, research-curation-fellows, conclusion
+author: laurel_mire
+path: /notes/laurel_mire/09-29-2021/how-to-become-a-carbon-gardener.md
+nid: 27813
 uid: 759178
-tagnames: soil,gardening,climate-change,carbon,carbon-dioxide,how,why,what,motivation,more,research-curation-fellows,conclusion
+
 ---
 
 # How To Become a Carbon Gardener
+
+by [laurel_mire](../profile/laurel_mire) September 29, 2021 20:28
+
+September 29, 2021 20:28 | Tags: [soil](../tag/soil), [gardening](../tag/gardening), [climate-change](../tag/climate-change), [carbon](../tag/carbon), [carbon-dioxide](../tag/carbon-dioxide), [how](../tag/how), [why](../tag/why), [what](../tag/what), [motivation](../tag/motivation), [more](../tag/more), [research-curation-fellows](../tag/research-curation-fellows), [conclusion](../tag/conclusion)
 
 _Become a carbon gardener and turn your backyard into a carbon sink to improve soil and air quality, reduce surface and air temperatures, restore biodiversity, & help combat climate change!_
 

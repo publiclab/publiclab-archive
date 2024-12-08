@@ -1,12 +1,18 @@
 ---
-nid: 408
 title: Butte
-path: public/static/wiki/butte.md
+tagnames: chapter, parent:northwest, montana
+author: mathew
+path: /wiki/butte.md
+nid: 408
 uid: 4
-tagnames: chapter,parent:northwest,montana
+
 ---
 
 # Butte
+
+by [stevethom](../profile/stevethom), [Shannon](../profile/Shannon), [warren](../profile/warren), [Olivia](../profile/Olivia), [mathew](../profile/mathew)
+
+July 23, 2011 02:29 | Tags: [chapter](../tag/chapter), [parent:northwest](../tag/parent:northwest), [montana](../tag/montana)
 
 ##Butte, Montana##
 

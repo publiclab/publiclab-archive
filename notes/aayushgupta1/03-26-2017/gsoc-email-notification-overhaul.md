@@ -1,12 +1,18 @@
 ---
-nid: 14060
 title: GSOC - Upgrade Plot to Rails 4 and Email Notification Overhaul
-path: public/static/notes/aayushgupta1/03-26-2017/gsoc-email-notification-overhaul.md
+tagnames: software, gsoc, gsoc-2017, soc, soc-2017, rgsoc-2017, soc-2017-proposals, response:13975
+author: aayushgupta1
+path: /notes/aayushgupta1/03-26-2017/gsoc-email-notification-overhaul.md
+nid: 14060
 uid: 503612
-tagnames: software,gsoc,gsoc-2017,soc,soc-2017,rgsoc-2017,soc-2017-proposals,response:13975
+
 ---
 
 # GSOC - Upgrade Plot to Rails 4 and Email Notification Overhaul
+
+by [aayushgupta1](../profile/aayushgupta1) March 26, 2017 10:24
+
+March 26, 2017 10:24 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [gsoc-2017](../tag/gsoc-2017), [soc](../tag/soc), [soc-2017](../tag/soc-2017), [rgsoc-2017](../tag/rgsoc-2017), [soc-2017-proposals](../tag/soc-2017-proposals), [response:13975](../tag/response:13975)
 
 (This template is for students applying to summer code programs with Public Lab. Use this link to start writing a post: [https://publiclab.org/post?n=899&tags=gsoc,gsoc-2017-proposals](https://publiclab.org/post?n=899&tags=gsoc,gsoc-2017-proposals) You can delete this line once you've started filling it out.)
 

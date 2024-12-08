@@ -1,6 +1,6 @@
 # infragram-conversion
 
-24 notes and wiki pages
+24 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Canon A2200 NIR conversion](/notes/nedhorning/9-25-2012/canon-a2200-nir-conversion) by [nedhorning](../profile/nedhorning)
 - [Canon A1200 IR conversion at November 2-4, 2012, PLOTS Barnraising, Cocodrie, LA at LUMCON ](/notes/patcoyle/11-6-2012/canon-a1200-ir-conversion-november-2-4-2012-plots-barnraising-cocodrie-la-l) by [patcoyle](../profile/patcoyle)
@@ -22,7 +22,5 @@
 - [Spec Cam to Infragram w/the flip of filter? (Rosco "Fire" #19)](/notes/Natalie/07-29-2014/spec-cam-to-infragram-w-the-flip-of-filter-rosco-fire-19) by [natalie](../profile/natalie)
 - [DIY Near-Infrared Imaging](/wiki/diy-near-infrared-imaging) (wiki)
 - [Sudan Team SAP DRONE Project/SAP (Smart Agriculture Payload)](/notes/Mohamed/05-13-2015/sudan-team-sap-drone-project-sap-smart-agriculture-payload) by [Mohamed](../profile/Mohamed)
-- [Question: SAP technology used for drone research?](/notes/Nymann/09-27-2016/question-sap-technology-used-for-drone-research) by [Nymann](../profile/Nymann)
-- [Question: SAP technology for drone research?](/notes/Nymann/09-27-2016/question-sap-technology-for-drone-research) by [Nymann](../profile/Nymann)
 - [RocketPi - a Raspberry Pi based Video Flight Recorder and Live Video Telemetry Transmitter](/notes/jfd/12-14-2016/rocketpi-a-raspberry-pi-based-video-flight-recorder-and-live-video-telemetry-transmitter) by [jfd](../profile/jfd)
 - [Testing a cheap webcam with Infragram - spoiler alert: nope](/notes/warren/04-25-2018/testing-a-cheap-webcam-with-infragram-spoiler-alert-nope) by [warren](../profile/warren)

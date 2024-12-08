@@ -1,12 +1,18 @@
 ---
-nid: 5852
 title: publiclaboratory list
-path: public/static/wiki/publiclaboratory-list.md
-uid: 1
 tagnames: mailing-lists
+author: warren
+path: /wiki/publiclaboratory-list.md
+nid: 5852
+uid: 1
+
 ---
 
 # publiclaboratory list
+
+by [warren](../profile/warren)
+
+February 01, 2013 14:43 | Tags: [mailing-lists](../tag/mailing-lists)
 
 <style>
 #content { width:750px; } h1, .region-sidebar-second { display:none;} 

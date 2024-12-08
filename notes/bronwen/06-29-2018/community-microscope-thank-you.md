@@ -1,12 +1,18 @@
 ---
-nid: 16590
 title: Community Microscope-- THANK YOU
-path: public/static/notes/bronwen/06-29-2018/community-microscope-thank-you.md
+tagnames: kits, kickstarter, blog, with:warren, microscope, community-kits, remixthemicroscope
+author: Bronwen
+path: /notes/bronwen/06-29-2018/community-microscope-thank-you.md
+nid: 16590
 uid: 237313
-tagnames: kits,kickstarter,blog,with:warren,microscope,community-kits,remixthemicroscope
+
 ---
 
 # Community Microscope-- THANK YOU
+
+by [Bronwen](../profile/Bronwen) June 29, 2018 16:50
+
+June 29, 2018 16:50 | Tags: [kits](../tag/kits), [kickstarter](../tag/kickstarter), [blog](../tag/blog), [with:warren](../tag/with:warren), [microscope](../tag/microscope), [community-kits](../tag/community-kits), [remixthemicroscope](../tag/remixthemicroscope)
 
 Thanks to the 357 supporters of our recent Kickstarter campaign, the Community Microscope will soon be shipping to community scientists, environmental investigators and advocates, teachers and learners, artists, makers, and lots of other folks who got involved with making this project happen.
 

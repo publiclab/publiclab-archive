@@ -1,6 +1,6 @@
 # barnraising-2017
 
-12 notes and wiki pages
+12 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [What questions will you bring to the Barnraising?](/notes/warren/09-15-2017/what-questions-will-you-bring-to-the-barnraising) by [warren](../profile/warren)
 - [Join DocCom -- the Barnraising 2017 documentation committee, and publish the Barnraiser!](/notes/warren/10-27-2017/join-doccom-the-barnraising-2017-documentation-committee-and-publish-the-barnraiser) by [warren](../profile/warren)

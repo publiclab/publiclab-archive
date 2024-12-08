@@ -1,12 +1,18 @@
 ---
-nid: 18745
 title: A Card Game Approach to Community Mapping
-path: public/static/notes/dbsnp/03-17-2019/a-card-game-approach-to-community-mapping.md
+tagnames: community-mapping, security, socialintervention, lat:13.69294, lon:-89.218191, r, violence, activity:mapping, activity:game
+author: dbsnp
+path: /notes/dbsnp/03-17-2019/a-card-game-approach-to-community-mapping.md
+nid: 18745
 uid: 543056
-tagnames: community-mapping,security,socialintervention,lat:13.69294,lon:-89.218191,r,violence,activity:mapping,activity:game
+
 ---
 
 # A Card Game Approach to Community Mapping
+
+by [dbsnp](../profile/dbsnp) March 17, 2019 03:04
+
+March 17, 2019 03:04 | Tags: [community-mapping](../tag/community-mapping), [security](../tag/security), [socialintervention](../tag/socialintervention), [lat:13.69294](../tag/lat:13.69294), [lon:-89.218191](../tag/lon:-89.218191), [r](../tag/r), [violence](../tag/violence), [activity:mapping](../tag/activity:mapping), [activity:game](../tag/activity:game)
 
 Last year my good friend Gino Caballero and I we were asked to implement a methodology for violence prevention in San Salvador in urban communities downtown. Although we had previous experiences with mapping at Reacción, these had more to do with natural disasters\[[1](https://reaccion.net/reaccion-in-pasto-colombia/)\] and done in communities where doing guided tours of the area was an easier possibility. This new experience involved areas that were not so accessible by walking, nor safe to walk during the times of the night when the workshops took place.
 

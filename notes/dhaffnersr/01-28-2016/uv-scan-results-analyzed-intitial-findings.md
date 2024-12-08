@@ -1,12 +1,18 @@
 ---
-nid: 12630
 title: UV scan results analyzed (intitial findings)
-path: public/static/notes/dhaffnersr/01-28-2016/uv-scan-results-analyzed-intitial-findings.md
-uid: 461120
 tagnames: 
+author: dhaffnersr
+path: /notes/dhaffnersr/01-28-2016/uv-scan-results-analyzed-intitial-findings.md
+nid: 12630
+uid: 461120
+
 ---
 
 # UV scan results analyzed (intitial findings)
+
+by [dhaffnersr](../profile/dhaffnersr) January 28, 2016 16:38
+
+January 28, 2016 16:38 | Tags: 
 
 ###What I want to do - Download my spectra from publiclab and analyze the results using spectral software installed on my PC
 

@@ -1,12 +1,18 @@
 ---
-nid: 10591
 title: ottawa
-path: public/static/wiki/ottawa.md
+tagnames: spectrometer, chapter, water-quality, water, canada, ottawa, events:ottawa, parent:region
+author: Haripriya
+path: /wiki/ottawa.md
+nid: 10591
 uid: 421299
-tagnames: spectrometer,chapter,water-quality,water,canada,ottawa,events:ottawa,parent:region
+
 ---
 
 # ottawa
+
+by [warren](../profile/warren), [Haripriya](../profile/Haripriya)
+
+June 19, 2014 14:42 | Tags: [spectrometer](../tag/spectrometer), [chapter](../tag/chapter), [water-quality](../tag/water-quality), [water](../tag/water), [canada](../tag/canada), [ottawa](../tag/ottawa), [events:ottawa](../tag/events:ottawa), [parent:region](../tag/parent:region)
 
 ##Overview
 The pollution of water bodies (e.g. rivers and lakes) is a problem that many communities are, or may be susceptible to. Ottawa, Canada is a city that would face severe consequences in the event of water pollution, as it depends on water bodies (e.g. the Ottawa River) as the primary source of drinking water for the city. The goal of this chapter in Ottawa will be to monitor the pollution levels in various bodies of water throughout the city. 

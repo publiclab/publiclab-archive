@@ -1,12 +1,18 @@
 ---
-nid: 30407
 title: Outreachy proposal: Design a new full-screen user interface for Infragram.org
-path: public/static/notes/abiha_fatima1908/04-15-2022/outreachy-proposal-design-a-new-full-screen-user-interface-for-infragram-org.md
+tagnames: software, outreachy, first-time-poster, outreachy-2022, outreachy-summer-2022
+author: abiha_fatima1908
+path: /notes/abiha_fatima1908/04-15-2022/outreachy-proposal-design-a-new-full-screen-user-interface-for-infragram-org.md
+nid: 30407
 uid: 793042
-tagnames: software,outreachy,first-time-poster,outreachy-2022,outreachy-summer-2022
+
 ---
 
 # Outreachy proposal: Design a new full-screen user interface for Infragram.org
+
+by [abiha_fatima1908](../profile/abiha_fatima1908) April 15, 2022 12:38
+
+April 15, 2022 12:38 | Tags: [software](../tag/software), [outreachy](../tag/outreachy), [first-time-poster](../tag/first-time-poster), [outreachy-2022](../tag/outreachy-2022), [outreachy-summer-2022](../tag/outreachy-summer-2022)
 
 ---------
 

@@ -1,11 +1,17 @@
 ---
-nid: 23887
 title: legal
-path: public/static/wiki/legal.md
-uid: 7
 tagnames: 
+author: liz
+path: /wiki/legal.md
+nid: 23887
+uid: 7
+
 ---
 
 # legal
+
+by [liz](../profile/liz)
+
+June 19, 2020 14:51 | Tags: 
 
 for redirect

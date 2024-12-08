@@ -1,12 +1,18 @@
 ---
-nid: 17477
 title: [Outreachy Proposal] Expanding Community Stats System
-path: public/static/notes/chauhan_shubhangi96/11-06-2018/outreachy-proposal-expanded-community-stats-system.md
+tagnames: blog-submission, outreachy, outreachy-2018, outreachy-2018-proposals, first-time-poster
+author: chauhan_shubhangi96
+path: /notes/chauhan_shubhangi96/11-06-2018/outreachy-proposal-expanded-community-stats-system.md
+nid: 17477
 uid: 555727
-tagnames: blog-submission,outreachy,outreachy-2018,outreachy-2018-proposals,first-time-poster
+
 ---
 
 # [Outreachy Proposal] Expanding Community Stats System
+
+by [chauhan_shubhangi96](../profile/chauhan_shubhangi96) November 06, 2018 15:48
+
+November 06, 2018 15:48 | Tags: [blog-submission](../tag/blog-submission), [outreachy](../tag/outreachy), [outreachy-2018](../tag/outreachy-2018), [outreachy-2018-proposals](../tag/outreachy-2018-proposals), [first-time-poster](../tag/first-time-poster)
 
 ## About Me
 

@@ -1,6 +1,6 @@
 # ir
 
-12 notes and wiki pages
+12 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Webcam Conversion to (Near-) Infrared](/notes/joshmc/10-12-2012/webcam-conversion-near-infrared) by [JoshMc](../profile/JoshMc)
 - [The Scottish National Aerial Photography Scheme](/notes/johnwells/5-7-2013/scottish-national-aerial-photography-scheme) by [John_Wells](../profile/John_Wells)

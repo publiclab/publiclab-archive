@@ -1,12 +1,18 @@
 ---
-nid: 18116
 title: Has anyone used EPA's RETIGO to upload air quality data?
-path: public/static/notes/liz/01-14-2019/has-anyone-used-epa-s-retigo-to-upload-air-quality-data.md
+tagnames: air-quality, question:air-quality, question:question, question:epa
+author: liz
+path: /notes/liz/01-14-2019/has-anyone-used-epa-s-retigo-to-upload-air-quality-data.md
+nid: 18116
 uid: 7
-tagnames: air-quality,question:air-quality,question:question,question:epa
+
 ---
 
 # Has anyone used EPA's RETIGO to upload air quality data?
+
+by [liz](../profile/liz) January 14, 2019 20:31
+
+January 14, 2019 20:31 | Tags: [air-quality](../tag/air-quality), [question:air-quality](../tag/question:air-quality), [question:question](../tag/question:question), [question:epa](../tag/question:epa)
 
 Back in 2016, there was an [Open Hour][1] about RETIGO, the EPA's "REAL-TIME GEOSPATIAL DATA VIEWER" (RETIGO) data platform -- has anyone tried viewing their data through this, or uploading their data to the EPA's repo? 
 https://www.epa.gov/hesc/real-time-geospatial-data-viewer-retigo

@@ -1,12 +1,18 @@
 ---
-nid: 23184
 title: GSoC 2020 proposal: Spectral Workbench - Rails and DevOps upgrades
-path: public/static/notes/ruturaj_mohite/03-19-2020/gsoc-2020-proposal-spectral-workbench-rails-and-devops-upgrades.md
+tagnames: software, soc, response:13975, first-time-poster, lat:10, lon:70, zoom:5, soc-2020, soc-2020-proposals
+author: ruturaj_mohite
+path: /notes/ruturaj_mohite/03-19-2020/gsoc-2020-proposal-spectral-workbench-rails-and-devops-upgrades.md
+nid: 23184
 uid: 658211
-tagnames: software,soc,response:13975,first-time-poster,lat:10,lon:70,zoom:5,soc-2020,soc-2020-proposals
+
 ---
 
 # GSoC 2020 proposal: Spectral Workbench - Rails and DevOps upgrades
+
+by [ruturaj_mohite](../profile/ruturaj_mohite) March 19, 2020 10:06
+
+March 19, 2020 10:06 | Tags: [software](../tag/software), [soc](../tag/soc), [response:13975](../tag/response:13975), [first-time-poster](../tag/first-time-poster), [lat:10](../tag/lat:10), [lon:70](../tag/lon:70), [zoom:5](../tag/zoom:5), [soc-2020](../tag/soc-2020), [soc-2020-proposals](../tag/soc-2020-proposals)
 
 ## About me
 

@@ -1,12 +1,18 @@
 ---
-nid: 11588
 title: Five Borough Farm: Measuring impact
-path: public/static/wiki/five-borough-farm-measuring-impact.md
+tagnames: five-borough-farm, community-garden, grassrootsmappingforum, food, style:fancy, with:liz, gmf-4, category:weigh-produce, category:weigh
+author: mollydanielsson
+path: /wiki/five-borough-farm-measuring-impact.md
+nid: 11588
 uid: 1259
-tagnames: five-borough-farm,community-garden,grassrootsmappingforum,food,style:fancy,with:liz,gmf-4,category:weigh-produce,category:weigh
+
 ---
 
 # Five Borough Farm: Measuring impact
+
+by [mollydanielsson](../profile/mollydanielsson)
+
+February 14, 2015 23:36 | Tags: [five-borough-farm](../tag/five-borough-farm), [community-garden](../tag/community-garden), [grassrootsmappingforum](../tag/grassrootsmappingforum), [food](../tag/food), [style:fancy](../tag/style:fancy), [with:liz](../tag/with:liz), [gmf-4](../tag/gmf-4), [category:weigh-produce](../tag/category:weigh-produce), [category:weigh](../tag/category:weigh)
 
 by Phil Silva and Liz Barry
 

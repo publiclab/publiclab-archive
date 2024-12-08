@@ -1,12 +1,18 @@
 ---
-nid: 1967
 title: Tool development timeline
-path: public/static/wiki/tool-development-timeline.md
-uid: 1
 tagnames: 
+author: warren
+path: /wiki/tool-development-timeline.md
+nid: 1967
+uid: 1
+
 ---
 
 # Tool development timeline
+
+by [sara](../profile/sara), [warren](../profile/warren)
+
+May 14, 2012 20:27 | Tags: 
 
 This is an attempt to chart the development of a Public Lab tool in general terms. Some people have also volunteered to explore and expand on these stages in longer articles; their names are listed below.
 

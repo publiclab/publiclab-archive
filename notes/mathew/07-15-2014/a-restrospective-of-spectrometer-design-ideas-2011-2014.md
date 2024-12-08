@@ -1,12 +1,18 @@
 ---
-nid: 10692
 title: A Retrospective of Spectrometer Design Ideas 2011-2014
-path: public/static/notes/mathew/07-15-2014/a-restrospective-of-spectrometer-design-ideas-2011-2014.md
+tagnames: spectrometer, overview, retrospective
+author: mathew
+path: /notes/mathew/07-15-2014/a-restrospective-of-spectrometer-design-ideas-2011-2014.md
+nid: 10692
 uid: 4
-tagnames: spectrometer,overview,retrospective
+
 ---
 
 # A Retrospective of Spectrometer Design Ideas 2011-2014
+
+by [mathew](../profile/mathew) July 15, 2014 00:25
+
+July 15, 2014 00:25 | Tags: [spectrometer](../tag/spectrometer), [overview](../tag/overview), [retrospective](../tag/retrospective)
 
 Here is a history of public lab spectrometer research ideas up to the present.  There is really no analysis here, just a catalog.  The above picture is of LaVar Burton because we have spent three+ years reading rainbows. ** This page also exists as a **[wiki page](/wiki/spectrometer-history), **please add to and edit that.**
 

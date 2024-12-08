@@ -1,12 +1,18 @@
 ---
-nid: 9857
 title: Glow in the dark paint photos
-path: public/static/notes/nathanathan/12-04-2013/glow-in-the-dark-paint-photos.md
+tagnames: calibration, phosphorescence, response:9816, glow-in-the-dark
+author: nathanathan
+path: /notes/nathanathan/12-04-2013/glow-in-the-dark-paint-photos.md
+nid: 9857
 uid: 365600
-tagnames: calibration,phosphorescence,response:9816,glow-in-the-dark
+
 ---
 
 # Glow in the dark paint photos
+
+by [nathanathan](../profile/nathanathan) December 04, 2013 19:59
+
+December 04, 2013 19:59 | Tags: [calibration](../tag/calibration), [phosphorescence](../tag/phosphorescence), [response:9816](../tag/response:9816), [glow-in-the-dark](../tag/glow-in-the-dark)
 
 This is a follow-up to [the discussion in this note](http://publiclab.org/notes/cfastie/11-22-2013/white-balance-for-all).
 

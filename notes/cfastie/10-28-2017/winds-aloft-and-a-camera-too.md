@@ -1,12 +1,18 @@
 ---
-nid: 15125
 title: Winds aloft: and a camera too
-path: public/static/notes/cfastie/10-28-2017/winds-aloft-and-a-camera-too.md
+tagnames: kite-mapping, arduino, kite-aerial-photography, nasa, kite, anemometer, wind-speed-meter, sensors, wind, saturnv, skyshield, data-logging, skypod, ublox, series:diy-wind-sensors, skypod-gps-logger, activity:skypod-gps-logger, wind-speed, aeropod, activity:wind-speed, activity:as220-wind-sensors, activity:aren
+author: cfastie
+path: /notes/cfastie/10-28-2017/winds-aloft-and-a-camera-too.md
+nid: 15125
 uid: 554
-tagnames: kite-mapping,arduino,kite-aerial-photography,nasa,kite,anemometer,wind-speed-meter,sensors,wind,saturnv,skyshield,data-logging,skypod,ublox,series:diy-wind-sensors,skypod-gps-logger,activity:skypod-gps-logger,wind-speed,aeropod,activity:wind-speed,activity:as220-wind-sensors,activity:aren
+
 ---
 
 # Winds aloft: and a camera too
+
+by [cfastie](../profile/cfastie) October 28, 2017 04:15
+
+October 28, 2017 04:15 | Tags: [kite-mapping](../tag/kite-mapping), [arduino](../tag/arduino), [kite-aerial-photography](../tag/kite-aerial-photography), [nasa](../tag/nasa), [kite](../tag/kite), [anemometer](../tag/anemometer), [wind-speed-meter](../tag/wind-speed-meter), [sensors](../tag/sensors), [wind](../tag/wind), [saturnv](../tag/saturnv), [skyshield](../tag/skyshield), [data-logging](../tag/data-logging), [skypod](../tag/skypod), [ublox](../tag/ublox), [series:diy-wind-sensors](../tag/series:diy-wind-sensors), [skypod-gps-logger](../tag/skypod-gps-logger), [activity:skypod-gps-logger](../tag/activity:skypod-gps-logger), [wind-speed](../tag/wind-speed), [aeropod](../tag/aeropod), [activity:wind-speed](../tag/activity:wind-speed), [activity:as220-wind-sensors](../tag/activity:as220-wind-sensors), [activity:aren](../tag/activity:aren)
 
 I have made [four kite flights with anemometers](https://publiclab.org/tag/series:diy-wind-sensors) hanging from the line, but there was not enough wind during the last three flights to lift a camera with the payload. This week a strong south wind allowed my first flight with a [Saturn V Rig](http://kaptery.com/product/saturn-v-rig) with Canon EOS M, two [SkyPod data loggers](https://publiclab.org/tag/skypod-gps-logger), and the NASA Aeropod air column profiler. One of the SkyPods included a [Modern Device Rev P wind speed sensor](https://moderndevice.com/product/wind-sensor-rev-p/) and the other had a GPS receiver (and both SkyPods had BME280 sensors).
 

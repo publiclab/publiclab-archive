@@ -1,12 +1,18 @@
 ---
-nid: 1815
 title: NIR proof of concept: Trout Lily
-path: public/static/wiki/nir-proof-concept-trout-lily.md
+tagnames: near-infrared-camera, vermont
+author: cfastie
+path: /wiki/nir-proof-concept-trout-lily.md
+nid: 1815
 uid: 554
-tagnames: near-infrared-camera,vermont
+
 ---
 
 # NIR proof of concept: Trout Lily
+
+by [cfastie](../profile/cfastie)
+
+April 27, 2012 16:53 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [vermont](../tag/vermont)
 
 I watched the two essential videos that Jeffrey Warren made about post processing near-infrared and visible images to highlight patterns in vegetation and tried to recreate the magic.  The first video is about rectifying two images in Photoshop: http://youtu.be/pv6xB0y-rX4.  I used this technique to align a NIR image taken with a PLOTS modified Canon A495 camera on top of a regular image of the same scene.  The scene is some Trout Lilies in the woods.  The second video is about using GIMP to display combinations of the NIR and visible color data to show enhanced patterns of vegetation health and productivity: http://youtu.be/-nNnWEHNO_w.  Below are examples of four different ways to highlight patterns of photosynthetically active plant biomass using images from the [PLOTS visible/IR camera tool]( /wiki/dual-camera-kit-guide).
 

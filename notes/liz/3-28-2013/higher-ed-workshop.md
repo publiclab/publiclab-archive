@@ -1,12 +1,18 @@
 ---
-nid: 6576
 title: Higher E+D workshop
-path: public/static/notes/liz/3-28-2013/higher-ed-workshop.md
+tagnames: new-york-city, ilab, events, events:new-york-city
+author: liz
+path: /notes/liz/3-28-2013/higher-ed-workshop.md
+nid: 6576
 uid: 7
-tagnames: new-york-city,ilab,events,events:new-york-city
+
 ---
 
 # Higher E+D workshop
+
+by [liz](../profile/liz) March 28, 2013 14:24
+
+March 28, 2013 14:24 | Tags: [new-york-city](../tag/new-york-city), [ilab](../tag/ilab), [events](../tag/events), [events:new-york-city](../tag/events:new-york-city)
 
 <strong>NYC: Saturday April 6, 2-4pm
 

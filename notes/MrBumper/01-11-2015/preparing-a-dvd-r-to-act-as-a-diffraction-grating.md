@@ -1,12 +1,18 @@
 ---
-nid: 11515
 title: Preparing a DVD-R to act as a diffraction grating
-path: public/static/notes/MrBumper/01-11-2015/preparing-a-dvd-r-to-act-as-a-diffraction-grating.md
+tagnames: spectrometer, spectrometry, barnstar:basic, activity:spectrometry, activity:papercraft-spec, activity:lego-spectrometer
+author: MrBumper
+path: /notes/MrBumper/01-11-2015/preparing-a-dvd-r-to-act-as-a-diffraction-grating.md
+nid: 11515
 uid: 432766
-tagnames: spectrometer,spectrometry,barnstar:basic,activity:spectrometry,activity:papercraft-spec,activity:lego-spectrometer
+
 ---
 
 # Preparing a DVD-R to act as a diffraction grating
+
+by [MrBumper](../profile/MrBumper) January 11, 2015 20:22
+
+January 11, 2015 20:22 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [barnstar:basic](../tag/barnstar:basic), [activity:spectrometry](../tag/activity:spectrometry), [activity:papercraft-spec](../tag/activity:papercraft-spec), [activity:lego-spectrometer](../tag/activity:lego-spectrometer)
 
 _Main image - A segment of a DVD-R bottom layer with the photo-reactive dye removed_
 

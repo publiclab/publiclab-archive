@@ -1,6 +1,6 @@
 # barnstar-excessive-enthusiasm
 
-17 notes and wiki pages
+17 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Ariel Levi Simons](/notes/levisimons/05-31-2014/ariel-levi-simons) by [levisimons](../profile/levisimons)
 - [ramanPi - The 3D Printable Raspberry Pi Raman Spectrometer](/notes/flatCat/08-29-2014/ramanpi-the-3d-printable-raspberry-pi-raman-spectrometer) by [flatCat](../profile/flatCat)

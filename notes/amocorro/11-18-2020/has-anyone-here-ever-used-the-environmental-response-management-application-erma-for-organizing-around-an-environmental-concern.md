@@ -1,12 +1,18 @@
 ---
-nid: 25074
 title: Has anyone here ever used the Environmental Response Management Application (ERMA) for organizing around an environmental concern? 
-path: public/static/notes/amocorro/11-18-2020/has-anyone-here-ever-used-the-environmental-response-management-application-erma-for-organizing-around-an-environmental-concern.md
+tagnames: oil-spill, visualization, maps, question:general, general, environmental-sensitivity-index, erma, environmental-responders
+author: amocorro
+path: /notes/amocorro/11-18-2020/has-anyone-here-ever-used-the-environmental-response-management-application-erma-for-organizing-around-an-environmental-concern.md
+nid: 25074
 uid: 700923
-tagnames: oil-spill,visualization,maps,question:general,general,environmental-sensitivity-index,erma,environmental-responders
+
 ---
 
 # Has anyone here ever used the Environmental Response Management Application (ERMA) for organizing around an environmental concern? 
+
+by [amocorro](../profile/amocorro) November 18, 2020 20:31
+
+November 18, 2020 20:31 | Tags: [oil-spill](../tag/oil-spill), [visualization](../tag/visualization), [maps](../tag/maps), [question:general](../tag/question:general), [general](../tag/general), [environmental-sensitivity-index](../tag/environmental-sensitivity-index), [erma](../tag/erma), [environmental-responders](../tag/environmental-responders)
 
 I'd love to hear how this database supported your community needs or fell short. Plus any best "how to use" tips you may have to share. I recently learned that NOAA adds Oil Spill data to this database for the Pacific Northwest Region, which is what sparked my curiosity.
 

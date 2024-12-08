@@ -1,6 +1,6 @@
 # thermal
 
-32 notes and wiki pages
+32 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Thermal photo 2](/notes/warren/2-21-2011/thermal-photo-2) by [warren](../profile/warren)
 - [Some amazing kite aerial thermal photography from West Lothian Archeology](/notes/warren/11-28-2011/some-amazing-kite-aerial-thermal-photography-west-lothian-archeology) by [warren](../profile/warren)

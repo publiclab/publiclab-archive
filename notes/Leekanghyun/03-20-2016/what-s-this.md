@@ -1,12 +1,18 @@
 ---
-nid: 12866
 title: ??what's this?
-path: public/static/notes/Leekanghyun/03-20-2016/what-s-this.md
-uid: 468891
 tagnames: barnstar:basic
+author: Leekanghyun
+path: /notes/Leekanghyun/03-20-2016/what-s-this.md
+nid: 12866
+uid: 468891
+
 ---
 
 # ??what's this?
+
+by [Leekanghyun](../profile/Leekanghyun) March 20, 2016 10:47
+
+March 20, 2016 10:47 | Tags: [barnstar:basic](../tag/barnstar:basic)
 
 ###What I want to do
 I want to know what is this

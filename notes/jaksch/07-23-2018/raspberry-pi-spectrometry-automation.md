@@ -1,12 +1,18 @@
 ---
-nid: 16771
 title: WIP Raspberry Pi Spectrometry automation 
-path: public/static/notes/jaksch/07-23-2018/raspberry-pi-spectrometry-automation.md
+tagnames: spectrometry, activity:spectrometry
+author: jaksch
+path: /notes/jaksch/07-23-2018/raspberry-pi-spectrometry-automation.md
+nid: 16771
 uid: 542671
-tagnames: spectrometry,activity:spectrometry
+
 ---
 
 # WIP Raspberry Pi Spectrometry automation 
+
+by [jaksch](../profile/jaksch) July 23, 2018 15:04
+
+July 23, 2018 15:04 | Tags: [spectrometry](../tag/spectrometry), [activity:spectrometry](../tag/activity:spectrometry)
 
 This is a rough idea for a project I'll be working on during a hacker camp in two weeks. I want to share my ideas already now, so I can get your input early on and still have time to order parts if needed. Please note that this is a project mainly for fun and not scientific accuracy, so sorry if it might seem a bit messy ;)
 

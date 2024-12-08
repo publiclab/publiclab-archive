@@ -1,12 +1,18 @@
 ---
-nid: 19516
 title: Idea for Research Area Reviews
-path: public/static/notes/stevie/05-24-2019/idea-to-distribute-tasks-for-a-reserach-area-review.md
+tagnames: organizers, organizing, organizer, community-development, research-area-review
+author: stevie
+path: /notes/stevie/05-24-2019/idea-to-distribute-tasks-for-a-reserach-area-review.md
+nid: 19516
 uid: 422561
-tagnames: organizers,organizing,organizer,community-development,research-area-review
+
 ---
 
 # Idea for Research Area Reviews
+
+by [stevie](../profile/stevie) May 24, 2019 20:21
+
+May 24, 2019 20:21 | Tags: [organizers](../tag/organizers), [organizing](../tag/organizing), [organizer](../tag/organizer), [community-development](../tag/community-development), [research-area-review](../tag/research-area-review)
 
 Based on my last post ([found here][1]) asking for ideas on how to run Research Area Reviews, I'd like to share two different model ideas, one in which the Review is done by someone who spearheads the project and work, and another where the tasks are broken down and can be done by anyone. 
 

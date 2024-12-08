@@ -1,12 +1,18 @@
 ---
-nid: 12598
 title: Mobius Picavet Rig
-path: public/static/notes/tonyc/01-21-2016/mobius-picavet-rig.md
+tagnames: picavet, diy-mount-kit
+author: tonyc
+path: /notes/tonyc/01-21-2016/mobius-picavet-rig.md
+nid: 12598
 uid: 447491
-tagnames: picavet,diy-mount-kit
+
 ---
 
 # Mobius Picavet Rig
+
+by [tonyc](../profile/tonyc) January 21, 2016 19:36
+
+January 21, 2016 19:36 | Tags: [picavet](../tag/picavet), [diy-mount-kit](../tag/diy-mount-kit)
 
 ###What I want to do
 Create a picavet configuration for the mobius actioncam, using readily available materials

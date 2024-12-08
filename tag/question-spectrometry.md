@@ -1,6 +1,6 @@
 # question-spectrometry
 
-117 notes and wiki pages
+117 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Question: any low light settings for web cam used in desktop spectrometry kit?](/notes/Henry0815/06-16-2014/question-lany-ow-light-settings-for-web-cam-used-in-desktop-spectrometry-kit) by [Henry0815](../profile/Henry0815)
 - [Question: Can the Public Labs Desktop Spectrometer analyze light from a patch of grass?](/notes/WhiteRabbit/07-27-2014/question-can-i-use-the-desktop-spectrometer-to-analyze-ordinary-reflected-light) by [WhiteRabbit](../profile/WhiteRabbit)
@@ -98,7 +98,6 @@
 - [[SOLVED] Why is my image of the spectrum extremely "slim"? DVD+RW is not good as a diffraction grating!](/notes/jaksch/07-21-2018/why-is-my-image-of-the-spectrum-extremely-slim) by [jaksch](../profile/jaksch)
 - [UV measurements](/notes/exekutive/11-06-2018/uv-measurements) by [exekutive](../profile/exekutive)
 - [How can I connect my gopro to SpectralWorkbench software?  Is there other open software that would?](/notes/CD3000/11-20-2018/how-can-i-connect-my-gopro-to-spectralworkbench-software-is-there-other-open-software-that-would) by [CD3000](../profile/CD3000)
-- [how to get rid of hair fall](/notes/ghdv1234/01-03-2019/how-to-get-rid-of-hair-fall) by [ghdv1234](../profile/ghdv1234)
 - [What causes spectrum distortion?](/notes/nathanathan/01-12-2019/what-causes-spectrum-distortion) by [nathanathan](../profile/nathanathan)
 - [Can you give me measure for spectrum? Thank you.](/notes/Skorex/05-05-2019/can-you-give-me-measure-for-spectrum-thank-you) by [Skorex](../profile/Skorex)
 - [Split DVD – which part to use for spectrometer](/notes/Nelari/05-25-2019/split-dvd-which-part-to-use-for-spectrometer) by [Nelari](../profile/Nelari)
@@ -118,4 +117,3 @@
 - [¿como se que mi espectro de una solución sigue la ley de beer? ](/notes/edithcaballero19t/05-02-2021/como-se-que-mi-espectro-de-una-solucion-sigue-la-ley-de-beer) by [edithcaballero19t](../profile/edithcaballero19t)
 - [Can DIY spectrometers be useful for pH determination and/or dissolved organic carbon of a water solution?](/notes/alejobonifacio/03-02-2022/can-diy-spectrometers-be-useful-for-ph-determination-and-or-dissolved-organic-carbon-of-a-water-solution) by [alejobonifacio](../profile/alejobonifacio)
 - [Can I measure CSF turbidity in real time?](/notes/Cheesealmighty/03-17-2022/can-i-measure-csf-turbidity-in-real-time) by [Cheesealmighty](../profile/Cheesealmighty)
-- [Low Temperature Natural Gas Reforming](/notes/alexiaanderson/03-30-2022/low-temperature-natural-gas-reforming) by [alexiaanderson](../profile/alexiaanderson)

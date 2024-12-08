@@ -1,12 +1,18 @@
 ---
-nid: 485
 title: Trees, Chainsaws, Protest and Balloons
-path: public/static/notes/warren/9-28-2011/trees-chainsaws-protest-and-balloons.md
+tagnames: protest-mapping, forest, czech-republic, logging, eu
+author: warren
+path: /notes/warren/9-28-2011/trees-chainsaws-protest-and-balloons.md
+nid: 485
 uid: 1
-tagnames: protest-mapping,forest,czech-republic,logging,eu
+
 ---
 
 # Trees, Chainsaws, Protest and Balloons
+
+by [warren](../profile/warren) September 29, 2011 03:11
+
+September 29, 2011 03:11 | Tags: [protest-mapping](../tag/protest-mapping), [forest](../tag/forest), [czech-republic](../tag/czech-republic), [logging](../tag/logging), [eu](../tag/eu)
 
 <em>Blog post <a href="http://grassrootsmapping.org/2011/09/trees-chainsaws-protest-and-balloons/">cross-posted on Grassroots Mapping Blog</a></em>
 

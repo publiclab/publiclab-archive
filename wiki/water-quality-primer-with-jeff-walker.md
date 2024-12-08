@@ -1,12 +1,18 @@
 ---
-nid: 10424
 title: Water Quality Primer with Jeff Walker
-path: public/static/wiki/water-quality-primer-with-jeff-walker.md
+tagnames: water-quality, water, conductivity, mystic-river, stormwater, open-water, parent:water-quality
+author: kanarinka
+path: /wiki/water-quality-primer-with-jeff-walker.md
+nid: 10424
 uid: 994
-tagnames: water-quality,water,conductivity,mystic-river,stormwater,open-water,parent:water-quality
+
 ---
 
 # Water Quality Primer with Jeff Walker
+
+by [kanarinka](../profile/kanarinka)
+
+May 05, 2014 13:40 | Tags: [water-quality](../tag/water-quality), [water](../tag/water), [conductivity](../tag/conductivity), [mystic-river](../tag/mystic-river), [stormwater](../tag/stormwater), [open-water](../tag/open-water), [parent:water-quality](../tag/parent:water-quality)
 
 On Monday, March 5th, Jeff Walker, PhD newly acquired from Tufts University, presented a Water Quality Primer to some of the Open Water team at MIT. This is a record of that talk and you may be able to watch the YouTube video [here](https://www.youtube.com/watch?v=Vz_bPbwj_jo).
 

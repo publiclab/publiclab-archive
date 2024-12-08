@@ -1,12 +1,18 @@
 ---
-nid: 11569
 title: PhotosynQ in Detroit 
-path: public/static/notes/DustinBlock/02-09-2015/photosynq-in-detroit.md
+tagnames: urban-ag, photosynq, journalism, midwest, detroit, first-time-poster
+author: DustinBlock
+path: /notes/DustinBlock/02-09-2015/photosynq-in-detroit.md
+nid: 11569
 uid: 435046
-tagnames: urban-ag,photosynq,journalism,midwest,detroit,first-time-poster
+
 ---
 
 # PhotosynQ in Detroit 
+
+by [DustinBlock](../profile/DustinBlock) February 09, 2015 20:19
+
+February 09, 2015 20:19 | Tags: [urban-ag](../tag/urban-ag), [photosynq](../tag/photosynq), [journalism](../tag/journalism), [midwest](../tag/midwest), [detroit](../tag/detroit), [first-time-poster](../tag/first-time-poster)
 
 Hi all, 
 

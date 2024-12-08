@@ -1,12 +1,18 @@
 ---
-nid: 23436
 title: Mini Kites
-path: public/static/wiki/mini-kites.md
-uid: 579821
 tagnames: mini-kite
+author: mimiss
+path: /wiki/mini-kites.md
+nid: 23436
+uid: 579821
+
 ---
 
 # Mini Kites
+
+by [mimiss](../profile/mimiss)
+
+April 21, 2020 01:55 | Tags: [mini-kite](../tag/mini-kite)
 
 ## Building Miniature Kites
 

@@ -1,12 +1,18 @@
 ---
-nid: 12851
 title: Oil Sheen Testing
-path: public/static/notes/mlamadrid/03-17-2016/oil-sheen-testing.md
+tagnames: spectrometer, oil-testing, pig-oil, with:matej
+author: mlamadrid
+path: /notes/mlamadrid/03-17-2016/oil-sheen-testing.md
+nid: 12851
 uid: 45586
-tagnames: spectrometer,oil-testing,pig-oil,with:matej
+
 ---
 
 # Oil Sheen Testing
+
+by [mlamadrid](../profile/mlamadrid) March 17, 2016 03:56
+
+March 17, 2016 03:56 | Tags: [spectrometer](../tag/spectrometer), [oil-testing](../tag/oil-testing), [pig-oil](../tag/pig-oil), [with:matej](../tag/with:matej)
 
 This is an article by **Matej Vakula** for [Community Science Forum Issue #1 on DYI Oil Testing](https://publiclab.org/forum). Buy a copy in the Public Lab Store.
 

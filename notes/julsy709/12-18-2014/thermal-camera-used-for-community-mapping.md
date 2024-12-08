@@ -1,12 +1,18 @@
 ---
-nid: 11481
 title: Thermal Camera Used For Community Mapping
-path: public/static/notes/julsy709/12-18-2014/thermal-camera-used-for-community-mapping.md
+tagnames: community-mapping, thermal-technology, thermal-camera, canada, sociology-4107, newfoundland, land-use
+author: julsy709
+path: /notes/julsy709/12-18-2014/thermal-camera-used-for-community-mapping.md
+nid: 11481
 uid: 432717
-tagnames: community-mapping,thermal-technology,thermal-camera,canada,sociology-4107,newfoundland,land-use
+
 ---
 
 # Thermal Camera Used For Community Mapping
+
+by [julsy709](../profile/julsy709) December 18, 2014 11:23
+
+December 18, 2014 11:23 | Tags: [community-mapping](../tag/community-mapping), [thermal-technology](../tag/thermal-technology), [thermal-camera](../tag/thermal-camera), [canada](../tag/canada), [sociology-4107](../tag/sociology-4107), [newfoundland](../tag/newfoundland), [land-use](../tag/land-use)
 
 Our thermal camera was used to locate significant temperature increases within an urban area in St. John's, Newfoundland. For those who have never been here, there are two important factors at play here. The first is physical geography: St. John's is on the far, far east end of the Newfoundland island, on the Avalon Peninsula. Around this area is where the Gulf Stream meets the Labrador Current. This makes for fog, rapidly changing weather, but most importantly in the winter: wind. Cold, bitter wind, Lots of it. 
 

@@ -1,6 +1,6 @@
 # oilandgas
 
-3 notes and wiki pages
+3 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Mardi Gras Pass. Pointe à la Hache, Louisiana.](/map/mardi-gras-pass-pointe-a-la-hache-louisiana/02-12-2014) by [gonzoearth](../profile/gonzoearth)
 - [Smells that Kill: How to Identify Odours](/notes/kgradow1/10-31-2020/smells-that-kill-how-to-identify-odours) by [kgradow1](../profile/kgradow1)

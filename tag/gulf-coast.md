@@ -1,6 +1,6 @@
 # gulf-coast
 
-286 notes and wiki pages
+286 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Gulf Coast](/wiki/gulf-coast) (wiki)
 - [Bayou St. Denis in Cartagen Knitter](/notes/warren/12-8-2010/bayou-st-denis-cartagen-knitter) by [warren](../profile/warren)
@@ -228,7 +228,6 @@
 - [The fight to get out of Pascagoula](/notes/stevie/08-06-2018/the-fight-to-get-out-of-pascagoula) by [stevie](../profile/stevie)
 - [Check up on Bayou Bienvenue 22 August 2018](/notes/eustatic/08-23-2018/check-up-on-bayou-bienvenue-22-august-2018) by [eustatic](../profile/eustatic)
 - [Community Science Oil and Gas Fellowship](/notes/stevie/09-05-2018/community-science-oil-and-gas-fellowship) by [stevie](../profile/stevie)
-- [Citizen Science Methods (and Results) for Beach and tar ball monitoring](/notes/eustatic/09-15-2018/citizen-science-methods-and-results-for-beach-and-tar-ball-monitoring) by [eustatic](../profile/eustatic)
 - [Barnraising Texas 2019](/wiki/barnraising-texas-2019) (wiki)
 - [Educating a New Generation of Advocates](/notes/joyofsoy/10-24-2018/educating-a-new-generation-of-advocates) by [joyofsoy](../profile/joyofsoy)
 - [Project Advances Environmental Literacy on the Coasts](/notes/joyofsoy/10-25-2018/project-advances-environmental-literacy-on-the-coasts) by [joyofsoy](../profile/joyofsoy)

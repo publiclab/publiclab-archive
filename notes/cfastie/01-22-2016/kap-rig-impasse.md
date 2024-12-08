@@ -1,12 +1,18 @@
 ---
-nid: 12601
 title: KAP rig impasse
-path: public/static/notes/cfastie/01-22-2016/kap-rig-impasse.md
+tagnames: kite-aerial-photography, camera-rig-tests, aerial-photography, photo-rig, response:12524, activity:photo-rig
+author: cfastie
+path: /notes/cfastie/01-22-2016/kap-rig-impasse.md
+nid: 12601
 uid: 554
-tagnames: kite-aerial-photography,camera-rig-tests,aerial-photography,photo-rig,response:12524,activity:photo-rig
+
 ---
 
 # KAP rig impasse
+
+by [cfastie](../profile/cfastie) January 22, 2016 18:58
+
+January 22, 2016 18:58 | Tags: [kite-aerial-photography](../tag/kite-aerial-photography), [camera-rig-tests](../tag/camera-rig-tests), [aerial-photography](../tag/aerial-photography), [photo-rig](../tag/photo-rig), [response:12524](../tag/response:12524), [activity:photo-rig](../tag/activity:photo-rig)
 
 *Above: A sketch (left) inspired by Pat's comment on Tony's Note and a rig inspired by the sketch (right).*
 

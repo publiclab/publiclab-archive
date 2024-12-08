@@ -1,12 +1,18 @@
 ---
-nid: 16354
 title: Introducing the SERC Manual
-path: public/static/notes/AyakoM/05-16-2018/serc-manual-coming-soon-to-public-lab-store.md
+tagnames: events, civic-event, organizing, guide, blog, communityengagement, manual, booklet, booklets, serc, ds4si, socialemergency, socialemergencyresponsecenter, sercmanual, socialintervention, radicallibrary, public-lab-press
+author: AyakoM
+path: /notes/AyakoM/05-16-2018/serc-manual-coming-soon-to-public-lab-store.md
+nid: 16354
 uid: 525175
-tagnames: events,civic-event,organizing,guide,blog,communityengagement,manual,booklet,booklets,serc,ds4si,socialemergency,socialemergencyresponsecenter,sercmanual,socialintervention,radicallibrary,public-lab-press
+
 ---
 
 # Introducing the SERC Manual
+
+by [AyakoM](../profile/AyakoM) May 16, 2018 17:03
+
+May 16, 2018 17:03 | Tags: [events](../tag/events), [civic-event](../tag/civic-event), [organizing](../tag/organizing), [guide](../tag/guide), [blog](../tag/blog), [communityengagement](../tag/communityengagement), [manual](../tag/manual), [booklet](../tag/booklet), [booklets](../tag/booklets), [serc](../tag/serc), [ds4si](../tag/ds4si), [socialemergency](../tag/socialemergency), [socialemergencyresponsecenter](../tag/socialemergencyresponsecenter), [sercmanual](../tag/sercmanual), [socialintervention](../tag/socialintervention), [radicallibrary](../tag/radicallibrary), [public-lab-press](../tag/public-lab-press)
 
 _The SERC Manual is part of the Public Lab Press, a project to distribute written works from allies and community members and organizations._
 

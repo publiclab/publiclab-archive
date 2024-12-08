@@ -1,6 +1,6 @@
 # log-a-long-timer
 
-6 notes and wiki pages
+6 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [A DIY low power timer](/notes/cfastie/01-24-2018/a-diy-low-power-timer) by [cfastie](../profile/cfastie)
 - [How to make a low power timer](/notes/cfastie/01-26-2018/how-to-make-a-low-power-timer) by [cfastie](../profile/cfastie)

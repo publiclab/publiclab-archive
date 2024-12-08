@@ -1,12 +1,18 @@
 ---
-nid: 4
 title: About Public Lab
-path: public/static/wiki/about.md
+tagnames: style:wide, about
+author: warren
+path: /wiki/about.md
+nid: 4
 uid: 1
-tagnames: style:wide,about
+
 ---
 
 # About Public Lab
+
+by [liz](../profile/liz), [thewrightjess](../profile/thewrightjess), [joyofsoy](../profile/joyofsoy), [Shannon](../profile/Shannon), [warren](../profile/warren), [stevie](../profile/stevie), [ygzstc](../profile/ygzstc), [Becki](../profile/Becki), [assethomes](../profile/assethomes), [Charles_Hamilton](../profile/Charles_Hamilton), [kalako23](../profile/kalako23), [gonzoearth](../profile/gonzoearth)
+
+December 07, 2010 04:25 | Tags: [style:wide](../tag/style:wide), [about](../tag/about)
 
 ##Mission
 Pursuing environmental justice through community science and open technology

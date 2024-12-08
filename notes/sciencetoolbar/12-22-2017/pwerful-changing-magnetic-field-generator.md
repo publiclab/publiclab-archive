@@ -1,12 +1,18 @@
 ---
-nid: 15421
 title: Powerful changing magnetic field generator 
-path: public/static/notes/sciencetoolbar/12-22-2017/pwerful-changing-magnetic-field-generator.md
+tagnames: magnetic-field, magnetic-field-generator, changing-magnetic-field-generator, magnetic-flux-generator
+author: sciencetoolbar
+path: /notes/sciencetoolbar/12-22-2017/pwerful-changing-magnetic-field-generator.md
+nid: 15421
 uid: 513114
-tagnames: magnetic-field,magnetic-field-generator,changing-magnetic-field-generator,magnetic-flux-generator
+
 ---
 
 # Powerful changing magnetic field generator 
+
+by [sciencetoolbar](../profile/sciencetoolbar) December 22, 2017 11:29
+
+December 22, 2017 11:29 | Tags: [magnetic-field](../tag/magnetic-field), [magnetic-field-generator](../tag/magnetic-field-generator), [changing-magnetic-field-generator](../tag/changing-magnetic-field-generator), [magnetic-flux-generator](../tag/magnetic-flux-generator)
 
 Powerful changing magnetic field generator.
 

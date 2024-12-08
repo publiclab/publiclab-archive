@@ -1,12 +1,18 @@
 ---
-nid: 17987
 title: Share your PublicLab.org experience! 
-path: public/static/notes/stevie/12-21-2018/share-your-publiclab-org-experience.md
+tagnames: request, ui
+author: stevie
+path: /notes/stevie/12-21-2018/share-your-publiclab-org-experience.md
+nid: 17987
 uid: 422561
-tagnames: request,ui
+
 ---
 
 # Share your PublicLab.org experience! 
+
+by [stevie](../profile/stevie) December 21, 2018 19:05
+
+December 21, 2018 19:05 | Tags: [request](../tag/request), [ui](../tag/ui)
 
 Are you new to Public Lab? We want to hear from you! Public Lab is looking for people to connect with for a user experience research project. We want to learn more about how you navigate PublicLab.org so that we can improve your experience on the website. We are offering $100 stipends for selected participants* for one hour of your time.
 

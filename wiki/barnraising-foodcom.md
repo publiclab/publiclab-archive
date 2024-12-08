@@ -1,12 +1,18 @@
 ---
-nid: 9375
 title: barnraising-foodcom
-path: public/static/wiki/barnraising-foodcom.md
+tagnames: barnraising, foodcom
+author: warren
+path: /wiki/barnraising-foodcom.md
+nid: 9375
 uid: 1
-tagnames: barnraising,foodcom
+
 ---
 
 # barnraising-foodcom
+
+by [warren](../profile/warren), [Hudonnoodles](../profile/Hudonnoodles)
+
+September 25, 2013 18:27 | Tags: [barnraising](../tag/barnraising), [foodcom](../tag/foodcom)
 
 ###2014 FOODCOM
 

@@ -1,12 +1,18 @@
 ---
-nid: 2719
 title: Photo monitoring plugin for ImageJ/Fiji
-path: public/static/notes/nedhorning/7-6-2012/photo-monitoring-plugin-imagejfiji.md
+tagnames: near-infrared-camera, plugin, photo-monitoring, infragram, timelapse
+author: nedhorning
+path: /notes/nedhorning/7-6-2012/photo-monitoring-plugin-imagejfiji.md
+nid: 2719
 uid: 133
-tagnames: near-infrared-camera,plugin,photo-monitoring,infragram,timelapse
+
 ---
 
 # Photo monitoring plugin for ImageJ/Fiji
+
+by [nedhorning](../profile/nedhorning) July 06, 2012 21:31
+
+July 06, 2012 21:31 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [plugin](../tag/plugin), [photo-monitoring](../tag/photo-monitoring), [infragram](../tag/infragram), [timelapse](../tag/timelapse)
 
 This is an update on the photo monitoring software I've been working on. A few weeks ago I wrote a Fiji [1] macro that can be used to register a visible and near infrared image that were acquired at roughly the same time. That macro lives on GitHub [2] and comes with a guide on how to use it.
 

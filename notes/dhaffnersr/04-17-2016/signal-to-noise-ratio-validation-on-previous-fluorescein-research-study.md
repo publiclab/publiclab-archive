@@ -1,12 +1,18 @@
 ---
-nid: 12991
 title: Signal to Noise ratio validation on previous fluorescein research study
-path: public/static/notes/dhaffnersr/04-17-2016/signal-to-noise-ratio-validation-on-previous-fluorescein-research-study.md
-uid: 461120
 tagnames: 
+author: dhaffnersr
+path: /notes/dhaffnersr/04-17-2016/signal-to-noise-ratio-validation-on-previous-fluorescein-research-study.md
+nid: 12991
+uid: 461120
+
 ---
 
 # Signal to Noise ratio validation on previous fluorescein research study
+
+by [dhaffnersr](../profile/dhaffnersr) April 17, 2016 10:52
+
+April 17, 2016 10:52 | Tags: 
 
 I have analysed the SNR data for my previous work on fluorescein concentration study and these are my results.
 

@@ -1,12 +1,18 @@
 ---
-nid: 11638
 title: PLab Spectrometer Gain-Correction
-path: public/static/notes/stoft/02-25-2015/plab-spectrometer-gain-correction.md
+tagnames: spectrometer, intensity-calibration, barnstar:basic, intensity, amplitude, gain, gain-correction
+author: stoft
+path: /notes/stoft/02-25-2015/plab-spectrometer-gain-correction.md
+nid: 11638
 uid: 54025
-tagnames: spectrometer,intensity-calibration,barnstar:basic,intensity,amplitude,gain,gain-correction
+
 ---
 
 # PLab Spectrometer Gain-Correction
+
+by [stoft](../profile/stoft) February 25, 2015 10:13
+
+February 25, 2015 10:13 | Tags: [spectrometer](../tag/spectrometer), [intensity-calibration](../tag/intensity-calibration), [barnstar:basic](../tag/barnstar:basic), [intensity](../tag/intensity), [amplitude](../tag/amplitude), [gain](../tag/gain), [gain-correction](../tag/gain-correction)
 
 Calibrating the PLab spectrometer for absolute intensity will likely remain a difficult and expensive concept. However, I'd like to propose a simpler method of at least improving the relative accuracy of the spectra users can display.
 

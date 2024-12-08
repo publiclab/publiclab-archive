@@ -1,6 +1,6 @@
 # led
 
-22 notes and wiki pages
+22 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Spectral Workbench](/wiki/spectral-workbench) (wiki)
 - [RGB color from a knob -- small steps towards thermal flashlight](/notes/warren/12-8-2011/rgb-color-knob-small-steps-towards-thermal-flashlight) by [warren](../profile/warren)
@@ -22,5 +22,3 @@
 - [Honlian 60s LED nail polish hardener, various LED fluorescence updates](/notes/warren/03-10-2016/honlian-60s-led-nail-polish-hardener-various-led-fluorescence-updates) by [warren](../profile/warren)
 - [Plant Health NDVI -White Balance](/notes/Claytonb/08-13-2016/plant-health-ndvi-white-balance) by [Claytonb](../profile/Claytonb)
 - [Spectrometer 3.0 add-on v2 ](/notes/programmer1200/03-29-2018/spectrometer-3-0-add-on-v2) by [programmer1200](../profile/programmer1200)
-- [Best LED Wall Panels](/notes/elianasmith091/05-14-2020/best-led-wall-panels) by [elianasmith091](../profile/elianasmith091)
-- [Best LED Lights for Garage & Workshop Reviews and Buying Guide](/notes/lighthub/07-15-2020/best-led-lights-for-garage-workshop-reviews-and-buying-guide) by [lighthub](../profile/lighthub)

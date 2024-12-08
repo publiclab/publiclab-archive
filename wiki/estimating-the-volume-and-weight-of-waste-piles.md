@@ -1,12 +1,18 @@
 ---
-nid: 11706
 title: Estimating the Volume and Weight of Waste Piles
-path: public/static/wiki/estimating-the-volume-and-weight-of-waste-piles.md
+tagnames: grassrootsmappingforum, waste, trash, petcoke, chicago, midwest, gmf-6, style:fancy, with:holden, method
+author: mollydanielsson
+path: /wiki/estimating-the-volume-and-weight-of-waste-piles.md
+nid: 11706
 uid: 1259
-tagnames: grassrootsmappingforum,waste,trash,petcoke,chicago,midwest,gmf-6,style:fancy,with:holden,method
+
 ---
 
 # Estimating the Volume and Weight of Waste Piles
+
+by [mollydanielsson](../profile/mollydanielsson)
+
+March 21, 2015 00:12 | Tags: [grassrootsmappingforum](../tag/grassrootsmappingforum), [waste](../tag/waste), [trash](../tag/trash), [petcoke](../tag/petcoke), [chicago](../tag/chicago), [midwest](../tag/midwest), [gmf-6](../tag/gmf-6), [style:fancy](../tag/style:fancy), [with:holden](../tag/with:holden), [method](../tag/method)
 
 by Holden Sparacino
 

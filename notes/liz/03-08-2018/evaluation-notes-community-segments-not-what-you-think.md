@@ -1,12 +1,18 @@
 ---
-nid: 15895
 title: evaluation notes: community segments -- not what you think!
-path: public/static/notes/liz/03-08-2018/evaluation-notes-community-segments-not-what-you-think.md
+tagnames: evaluation, question:evaluation
+author: liz
+path: /notes/liz/03-08-2018/evaluation-notes-community-segments-not-what-you-think.md
+nid: 15895
 uid: 7
-tagnames: evaluation,question:evaluation
+
 ---
 
 # evaluation notes: community segments -- not what you think!
+
+by [liz](../profile/liz) March 08, 2018 19:18
+
+March 08, 2018 19:18 | Tags: [evaluation](../tag/evaluation), [question:evaluation](../tag/question:evaluation)
 
 I just got off the phone with the fine people of https://www.fundforsharedinsight.org/listen-for-good/. We were discussing ... evaluation. 
 

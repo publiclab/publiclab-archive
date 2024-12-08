@@ -1,12 +1,18 @@
 ---
-nid: 1
 title: The Public Laboratory
-path: public/static/wiki/home.md
+tagnames: attachments, content, slider
+author: warren
+path: /wiki/home.md
+nid: 1
 uid: 1
-tagnames: attachments,content,slider
+
 ---
 
 # The Public Laboratory
+
+by [warren](../profile/warren)
+
+December 01, 2010 17:53 | Tags: [attachments](../tag/attachments), [content](../tag/content), [slider](../tag/slider)
 
 <style>
 h1, .breadcrumb, .tabs, #attachments, #content .links.inline { display:none; }

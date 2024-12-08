@@ -1,12 +1,18 @@
 ---
-nid: 27827
 title: Spectral Workbench: Can't search (502 Bad Gateway)
-path: public/static/notes/dlwilson1a/10-04-2021/spectral-workbench-can-t-search-502-bad-gateway.md
+tagnames: website, question:website, first-time-poster
+author: dlwilson1a
+path: /notes/dlwilson1a/10-04-2021/spectral-workbench-can-t-search-502-bad-gateway.md
+nid: 27827
 uid: 774267
-tagnames: website,question:website,first-time-poster
+
 ---
 
 # Spectral Workbench: Can't search (502 Bad Gateway)
+
+by [dlwilson1a](../profile/dlwilson1a) October 04, 2021 19:13
+
+October 04, 2021 19:13 | Tags: [website](../tag/website), [question:website](../tag/question:website), [first-time-poster](../tag/first-time-poster)
 
 I'm trying to search for results for a particular material, using the search input on the Spectral Workbench Dashboard, for example:
 

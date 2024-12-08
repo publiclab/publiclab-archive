@@ -1,12 +1,18 @@
 ---
-nid: 27476
 title: Bioindicators
-path: public/static/wiki/bioindicators.md
+tagnames: bioassay, method, bioindicators
+author: alejobonifacio
+path: /wiki/bioindicators.md
+nid: 27476
 uid: 639376
-tagnames: bioassay,method,bioindicators
+
 ---
 
 # Bioindicators
+
+by [fongvania](../profile/fongvania), [alejobonifacio](../profile/alejobonifacio)
+
+August 11, 2021 23:20 | Tags: [bioassay](../tag/bioassay), [method](../tag/method), [bioindicators](../tag/bioindicators)
 
 <hr>
 

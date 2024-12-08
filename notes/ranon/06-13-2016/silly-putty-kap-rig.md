@@ -1,12 +1,18 @@
 ---
-nid: 13194
 title: Silly Putty KAP Rig
-path: public/static/notes/ranon/06-13-2016/silly-putty-kap-rig.md
+tagnames: balloon-mapping, kite-aerial-photography, camera-rig-tests, kite, polemapping, photo-rig, panorama, camera-rig, jerkpan, reconfigurable-rig, activity:photo-rig
+author: ranon
+path: /notes/ranon/06-13-2016/silly-putty-kap-rig.md
+nid: 13194
 uid: 477060
-tagnames: balloon-mapping,kite-aerial-photography,camera-rig-tests,kite,polemapping,photo-rig,panorama,camera-rig,jerkpan,reconfigurable-rig,activity:photo-rig
+
 ---
 
 # Silly Putty KAP Rig
+
+by [ranon](../profile/ranon) June 13, 2016 19:33
+
+June 13, 2016 19:33 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-aerial-photography](../tag/kite-aerial-photography), [camera-rig-tests](../tag/camera-rig-tests), [kite](../tag/kite), [polemapping](../tag/polemapping), [photo-rig](../tag/photo-rig), [panorama](../tag/panorama), [camera-rig](../tag/camera-rig), [jerkpan](../tag/jerkpan), [reconfigurable-rig](../tag/reconfigurable-rig), [activity:photo-rig](../tag/activity:photo-rig)
 
 ###Original Rig Design
 

@@ -1,12 +1,18 @@
 ---
-nid: 24881
 title: [Outreachy Proposal] Public Lab New Dashboard Implementation Project.
-path: public/static/notes/inyangasi4/10-30-2020/outreachy-proposal-public-lab-new-dashboard-implementation-project.md
+tagnames: software, first-time-poster, outreachy-winter-2020, outreachy-2020-winter-proposals, response:24687
+author: inyangasi4
+path: /notes/inyangasi4/10-30-2020/outreachy-proposal-public-lab-new-dashboard-implementation-project.md
+nid: 24881
 uid: 726717
-tagnames: software,first-time-poster,outreachy-winter-2020,outreachy-2020-winter-proposals,response:24687
+
 ---
 
 # [Outreachy Proposal] Public Lab New Dashboard Implementation Project.
+
+by [inyangasi4](../profile/inyangasi4) October 30, 2020 22:31
+
+October 30, 2020 22:31 | Tags: [software](../tag/software), [first-time-poster](../tag/first-time-poster), [outreachy-winter-2020](../tag/outreachy-winter-2020), [outreachy-2020-winter-proposals](../tag/outreachy-2020-winter-proposals), [response:24687](../tag/response:24687)
 
 [](null)
 ## About me

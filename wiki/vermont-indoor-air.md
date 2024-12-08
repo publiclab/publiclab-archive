@@ -1,12 +1,18 @@
 ---
-nid: 13520
 title: Vermont Indoor Air
-path: public/static/wiki/vermont-indoor-air.md
+tagnames: vermont, indoor-air-quality, indoor-air, indoor-air-info-sheet
+author: gretchengehrke
+path: /wiki/vermont-indoor-air.md
+nid: 13520
 uid: 430549
-tagnames: vermont,indoor-air-quality,indoor-air,indoor-air-info-sheet
+
 ---
 
 # Vermont Indoor Air
+
+by [gretchengehrke](../profile/gretchengehrke), [nshapiro](../profile/nshapiro)
+
+October 04, 2016 02:30 | Tags: [vermont](../tag/vermont), [indoor-air-quality](../tag/indoor-air-quality), [indoor-air](../tag/indoor-air), [indoor-air-info-sheet](../tag/indoor-air-info-sheet)
 
 How do residents of Vermont seek information about indoor air quality and address potential concerns with air quality in their residence or in public buildings? A brief introduction to information and services that are available through Vermont Department of Health and Town Health Officers regarding indoor air quality is included in this wiki. 
 

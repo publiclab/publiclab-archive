@@ -1,12 +1,18 @@
 ---
-nid: 10440
 title: new-jersey
-path: public/static/wiki/new-jersey.md
+tagnames: new-jersey, events:new-jersey, northeast, parent:northeast
+author: liz
+path: /wiki/new-jersey.md
+nid: 10440
 uid: 7
-tagnames: new-jersey,events:new-jersey,northeast,parent:northeast
+
 ---
 
 # new-jersey
+
+by [seankmcginnis](../profile/seankmcginnis), [liz](../profile/liz)
+
+May 07, 2014 16:37 | Tags: [new-jersey](../tag/new-jersey), [events:new-jersey](../tag/events:new-jersey), [northeast](../tag/northeast), [parent:northeast](../tag/parent:northeast)
 
 [Sean McGinnis](/profile/SeanKMcGinnis) is New Jersey's main Public Lab organizer. 
 

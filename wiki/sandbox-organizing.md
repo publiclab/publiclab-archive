@@ -1,12 +1,18 @@
 ---
-nid: 25500
 title: sandbox-organizing 
-path: public/static/wiki/sandbox-organizing.md
-uid: 422561
 tagnames: 
+author: stevie
+path: /wiki/sandbox-organizing.md
+nid: 25500
+uid: 422561
+
 ---
 
 # sandbox-organizing 
+
+by [liz](../profile/liz), [bhamster](../profile/bhamster), [stevie](../profile/stevie)
+
+January 19, 2021 21:16 | Tags: 
 
 Public Lab respectfully draws on multiple rich lineages of organizing focused on site-specific knowledge production towards community self-determination: 
 

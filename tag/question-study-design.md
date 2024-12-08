@@ -1,6 +1,6 @@
 # question-study-design
 
-3 notes and wiki pages
+3 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [How to design scientific experiments?](/notes/niklasjordan/05-28-2018/how-to-design-scientific-experiments) by [niklasjordan](../profile/niklasjordan)
 - [What are the initial steps you take when you begin a new environmental data investigation?](/notes/sylvan/07-17-2018/what-are-the-initial-steps-you-take-when-you-begin-a-new-environmental-data-investigation) by [sylvan](../profile/sylvan)

@@ -1,12 +1,18 @@
 ---
-nid: 9731
 title: Board of Directors
-path: public/static/wiki/board.md
+tagnames: nonprofit, board, parent:about, locked, nosidebar
+author: warren
+path: /wiki/board.md
+nid: 9731
 uid: 1
-tagnames: nonprofit,board,parent:about,locked,nosidebar
+
 ---
 
 # Board of Directors
+
+by [jmacha](../profile/jmacha), [thewrightjess](../profile/thewrightjess), [liz](../profile/liz), [Shannon](../profile/Shannon), [Becki](../profile/Becki), [warren](../profile/warren)
+
+November 05, 2013 17:55 | Tags: [nonprofit](../tag/nonprofit), [board](../tag/board), [parent:about](../tag/parent:about), [locked](../tag/locked), [nosidebar](../tag/nosidebar)
 
 [](null)The [Public Lab nonprofit](/about) received 501(c)3 status on October 24, 2013 (retroactive to January 2, 2012). The current board members of Public Lab include:
 

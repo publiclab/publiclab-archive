@@ -1,6 +1,6 @@
 # wheetrometer
 
-4 notes and wiki pages
+4 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Updating the WheeTrometer: Code for running the CCD.](/notes/JSummers/06-03-2018/updating-the-wheetrometer-code-for-running-the-ccd) by [JSummers](../profile/JSummers)
 - [Wheetrometer Spectrometer update: Part 2.](/notes/JSummers/08-16-2018/wheetrometer-spectrometer-update-part-2) by [JSummers](../profile/JSummers)

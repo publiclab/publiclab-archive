@@ -1,12 +1,18 @@
 ---
-nid: 14079
 title: Graph Editor for Image-sequencer
-path: public/static/notes/calvrix/04-02-2017/graph-editor-for-image-sequencer.md
+tagnames: software, gsoc, gsoc-2017, soc, soc-2017, rgsoc-2017, soc-2017-proposals, response:13975, first-time-poster
+author: calvrix
+path: /notes/calvrix/04-02-2017/graph-editor-for-image-sequencer.md
+nid: 14079
 uid: 503867
-tagnames: software,gsoc,gsoc-2017,soc,soc-2017,rgsoc-2017,soc-2017-proposals,response:13975,first-time-poster
+
 ---
 
 # Graph Editor for Image-sequencer
+
+by [calvrix](../profile/calvrix) April 02, 2017 09:32
+
+April 02, 2017 09:32 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [gsoc-2017](../tag/gsoc-2017), [soc](../tag/soc), [soc-2017](../tag/soc-2017), [rgsoc-2017](../tag/rgsoc-2017), [soc-2017-proposals](../tag/soc-2017-proposals), [response:13975](../tag/response:13975), [first-time-poster](../tag/first-time-poster)
 
 (This template is for students applying to summer code programs with Public Lab. Use this link to start writing a post: [https://publiclab.org/post?n=899&tags=gsoc,gsoc-2017-proposals](https://publiclab.org/post?n=899&tags=gsoc,gsoc-2017-proposals) You can delete this line once you've started filling it out.)
 

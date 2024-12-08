@@ -1,12 +1,18 @@
 ---
-nid: 34803
 title: What do Workers Experience? Reflections from a coffee-talk with a lifelong employee of the petrochemical industry. 
-path: public/static/notes/awoolverton1/07-26-2022/what-do-workers-experience-reflections-from-a-coffee-talk-with-a-lifelong-employee-of-the-petrochemical-industry.md
+tagnames: zoom:8, formosaplastics, lat:30.035811, lon:-90.782577, stjames, workers-rights
+author: awoolverton1
+path: /notes/awoolverton1/07-26-2022/what-do-workers-experience-reflections-from-a-coffee-talk-with-a-lifelong-employee-of-the-petrochemical-industry.md
+nid: 34803
 uid: 778039
-tagnames: zoom:8,formosaplastics,lat:30.035811,lon:-90.782577,stjames,workers-rights
+
 ---
 
 # What do Workers Experience? Reflections from a coffee-talk with a lifelong employee of the petrochemical industry. 
+
+by [awoolverton1](../profile/awoolverton1) July 26, 2022 19:28
+
+July 26, 2022 19:28 | Tags: [zoom:8](../tag/zoom:8), [formosaplastics](../tag/formosaplastics), [lat:30.035811](../tag/lat:30.035811), [lon:-90.782577](../tag/lon:-90.782577), [stjames](../tag/stjames), [workers-rights](../tag/workers-rights)
 
 The science on the
 petrochemical industry is clear. It pollutes the air with carcinogens like [benzene](https://www.epa.gov/sites/default/files/2016-09/documents/benzene.pdf)

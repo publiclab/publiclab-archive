@@ -1,12 +1,18 @@
 ---
-nid: 9334
 title: Presentation at Waag Society's Eclectis program
-path: public/static/notes/warren/09-16-2013/presentation-at-waag-society-s-eclectis-program.md
+tagnames: waagsociety, presentations, presentation, waag, eclectis
+author: warren
+path: /notes/warren/09-16-2013/presentation-at-waag-society-s-eclectis-program.md
+nid: 9334
 uid: 1
-tagnames: waagsociety,presentations,presentation,waag,eclectis
+
 ---
 
 # Presentation at Waag Society's Eclectis program
+
+by [warren](../profile/warren) September 16, 2013 08:55
+
+September 16, 2013 08:55 | Tags: [waagsociety](../tag/waagsociety), [presentations](../tag/presentations), [presentation](../tag/presentation), [waag](../tag/waag), [eclectis](../tag/eclectis)
 
 I'm giving a talk at the [Waag Society](http://waag.nl) in Amsterdam today, about Public Lab. Check it out:
 

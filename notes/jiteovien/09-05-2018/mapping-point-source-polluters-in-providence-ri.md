@@ -1,12 +1,18 @@
 ---
-nid: 17067
 title: Mapping point-source polluters in Providence, RI
-path: public/static/notes/jiteovien/09-05-2018/mapping-point-source-polluters-in-providence-ri.md
+tagnames: providence, massachusetts, air-quality, visualization, pollution, monitoring, northeast, tableau, location:blurred, place:providence, lat:41.8, lon:-71.4, fang, demographics, polluters
+author: jiteovien
+path: /notes/jiteovien/09-05-2018/mapping-point-source-polluters-in-providence-ri.md
+nid: 17067
 uid: 540008
-tagnames: providence,massachusetts,air-quality,visualization,pollution,monitoring,northeast,tableau,location:blurred,place:providence,lat:41.8,lon:-71.4,fang,demographics,polluters
+
 ---
 
 # Mapping point-source polluters in Providence, RI
+
+by [jiteovien](../profile/jiteovien) September 05, 2018 16:58
+
+September 05, 2018 16:58 | Tags: [providence](../tag/providence), [massachusetts](../tag/massachusetts), [air-quality](../tag/air-quality), [visualization](../tag/visualization), [pollution](../tag/pollution), [monitoring](../tag/monitoring), [northeast](../tag/northeast), [tableau](../tag/tableau), [location:blurred](../tag/location:blurred), [place:providence](../tag/place:providence), [lat:41.8](../tag/lat:41.8), [lon:-71.4](../tag/lon:-71.4), [fang](../tag/fang), [demographics](../tag/demographics), [polluters](../tag/polluters)
 
 I am un-officially a brand ambassador for tableau public - it's free and intuitive! I wanted to see how the location of polluters correlated with demographic data. I downloaded data from the EPA's National Emissions Inventory [here](https://gispub.epa.gov/neireport/2014/). 
 

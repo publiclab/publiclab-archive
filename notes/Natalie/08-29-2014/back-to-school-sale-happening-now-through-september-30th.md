@@ -1,12 +1,18 @@
 ---
-nid: 11089
 title: Back to School Sale happening now through September 30th!
-path: public/static/notes/Natalie/08-29-2014/back-to-school-sale-happening-now-through-september-30th.md
+tagnames: sales, special, sale, backtoschool, deal
+author: natalie
+path: /notes/Natalie/08-29-2014/back-to-school-sale-happening-now-through-september-30th.md
+nid: 11089
 uid: 424454
-tagnames: sales,special,sale,backtoschool,deal
+
 ---
 
 # Back to School Sale happening now through September 30th!
+
+by [natalie](../profile/natalie) August 29, 2014 21:59
+
+August 29, 2014 21:59 | Tags: [sales](../tag/sales), [special](../tag/special), [sale](../tag/sale), [backtoschool](../tag/backtoschool), [deal](../tag/deal)
 
 ###Get ready to head back to school with Public Lab kits
 Now through September 30th, all kits can be purchased for 20% off. Enter discount code ###BACK2SCHOOL 

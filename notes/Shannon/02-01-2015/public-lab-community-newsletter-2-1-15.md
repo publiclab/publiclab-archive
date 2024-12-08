@@ -1,12 +1,18 @@
 ---
-nid: 11548
 title: Public Lab community newsletter 2.1.15
-path: public/static/notes/Shannon/02-01-2015/public-lab-community-newsletter-2-1-15.md
-uid: 9
 tagnames: newsletter
+author: Shannon
+path: /notes/Shannon/02-01-2015/public-lab-community-newsletter-2-1-15.md
+nid: 11548
+uid: 9
+
 ---
 
 # Public Lab community newsletter 2.1.15
+
+by [Shannon](../profile/Shannon) February 01, 2015 23:19
+
+February 01, 2015 23:19 | Tags: [newsletter](../tag/newsletter)
 
 This week in the Public Lab community newsletter, join us tomorrow for an OpenHour on lending libraries, become a beta tester of MapKnitter 2 and pitch in on a conversation about dealing with patents. Enjoy!
 

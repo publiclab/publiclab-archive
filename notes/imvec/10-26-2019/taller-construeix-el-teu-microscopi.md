@@ -1,12 +1,18 @@
 ---
-nid: 21304
 title: Taller construeix el teu microscopi
-path: public/static/notes/imvec/10-26-2019/taller-construeix-el-teu-microscopi.md
+tagnames: barcelona, spain, workshop, event, lang:es, eu, lat:1, spanish, lon:10, community-microscope, communitymicroscope
+author: imvec
+path: /notes/imvec/10-26-2019/taller-construeix-el-teu-microscopi.md
+nid: 21304
 uid: 495038
-tagnames: barcelona,spain,workshop,event,lang:es,eu,lat:1,spanish,lon:10,community-microscope,communitymicroscope
+
 ---
 
 # Taller construeix el teu microscopi
+
+by [imvec](../profile/imvec) October 26, 2019 17:47
+
+October 26, 2019 17:47 | Tags: [barcelona](../tag/barcelona), [spain](../tag/spain), [workshop](../tag/workshop), [event](../tag/event), [lang:es](../tag/lang:es), [eu](../tag/eu), [lat:1](../tag/lat:1), [spanish](../tag/spanish), [lon:10](../tag/lon:10), [community-microscope](../tag/community-microscope), [communitymicroscope](../tag/communitymicroscope)
 
 ##Cómo, cuando y donde.
 

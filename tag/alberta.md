@@ -1,6 +1,6 @@
 # alberta
 
-8 notes and wiki pages
+8 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Kites at Head-Smashed-In Buffalo Jump in Alberta, Canada.](/notes/patcoyle/08-09-2013/kites-at-head-smashed-in-buffalo-jump-in-alberta-canada) by [patcoyle](../profile/patcoyle)
 - [Peytopit. Banff, Alberta, Canada.](/map/peytopit-banff-alberta-canada/04-24-2014) by [gonzoearth](../profile/gonzoearth)

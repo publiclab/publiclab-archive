@@ -1,12 +1,18 @@
 ---
-nid: 20668
 title: Google Summer of Code 2019 - Final Work Product - Isha Gupta
-path: public/static/notes/IshaGupta18/08-26-2019/google-summer-of-code-2019-final-work-product-isha-gupta.md
+tagnames: open-source, gsoc, barnstar:excessive-enthusiasm, soc, gsoc-2019, soc-2019, gsoc-2019-final-report
+author: IshaGupta18
+path: /notes/IshaGupta18/08-26-2019/google-summer-of-code-2019-final-work-product-isha-gupta.md
+nid: 20668
 uid: 568043
-tagnames: open-source,gsoc,barnstar:excessive-enthusiasm,soc,gsoc-2019,soc-2019,gsoc-2019-final-report
+
 ---
 
 # Google Summer of Code 2019 - Final Work Product - Isha Gupta
+
+by [IshaGupta18](../profile/IshaGupta18) August 26, 2019 04:22
+
+August 26, 2019 04:22 | Tags: [open-source](../tag/open-source), [gsoc](../tag/gsoc), [barnstar:excessive-enthusiasm](../tag/barnstar:excessive-enthusiasm), [soc](../tag/soc), [gsoc-2019](../tag/gsoc-2019), [soc-2019](../tag/soc-2019), [gsoc-2019-final-report](../tag/gsoc-2019-final-report)
 
 # Google Summer of Code'19 Work Product: Isha Gupta
 

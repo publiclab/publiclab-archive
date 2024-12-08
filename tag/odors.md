@@ -1,6 +1,6 @@
 # odors
 
-6 notes and wiki pages
+6 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Hydrogen Sulfide](/wiki/hydrogen-sulfide) (wiki)
 - [Community-level Odor Mapping Site](/notes/sarasage/08-29-2016/community-level-odor-mapping-site) by [sarasage](../profile/sarasage)

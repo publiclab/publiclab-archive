@@ -1,12 +1,18 @@
 ---
-nid: 14029
 title: Is this government security warning on NOAA new?
-path: public/static/notes/marlokeno/03-16-2017/is-this-government-security-warning-on-noaa-new.md
+tagnames: question:general, edgi
+author: marlokeno
+path: /notes/marlokeno/03-16-2017/is-this-government-security-warning-on-noaa-new.md
+nid: 14029
 uid: 420760
-tagnames: question:general,edgi
+
 ---
 
 # Is this government security warning on NOAA new?
+
+by [marlokeno](../profile/marlokeno) March 16, 2017 18:55
+
+March 16, 2017 18:55 | Tags: [question:general](../tag/question:general), [edgi](../tag/edgi)
 
 ###Is this warning on a NOAA arctic data page search new? 
 Also, is this an attempt to copyright a database, and what is going on?

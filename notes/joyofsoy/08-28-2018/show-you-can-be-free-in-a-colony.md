@@ -1,12 +1,18 @@
 ---
-nid: 17011
 title: Show You Can be Free in a Colony
-path: public/static/notes/joyofsoy/08-28-2018/show-you-can-be-free-in-a-colony.md
+tagnames: barnraising, puerto-rico, location:blurred, crisis-convening, lat:18, lon:-66, csf14, place:puerto-rico, series:crisis-convening, first-time-poster
+author: joyofsoy
+path: /notes/joyofsoy/08-28-2018/show-you-can-be-free-in-a-colony.md
+nid: 17011
 uid: 540844
-tagnames: barnraising,puerto-rico,location:blurred,crisis-convening,lat:18,lon:-66,csf14,place:puerto-rico,series:crisis-convening,first-time-poster
+
 ---
 
 # Show You Can be Free in a Colony
+
+by [joyofsoy](../profile/joyofsoy) August 28, 2018 20:19
+
+August 28, 2018 20:19 | Tags: [barnraising](../tag/barnraising), [puerto-rico](../tag/puerto-rico), [location:blurred](../tag/location:blurred), [crisis-convening](../tag/crisis-convening), [lat:18](../tag/lat:18), [lon:-66](../tag/lon:-66), [csf14](../tag/csf14), [place:puerto-rico](../tag/place:puerto-rico), [series:crisis-convening](../tag/series:crisis-convening), [first-time-poster](../tag/first-time-poster)
 
 **_Know the history of the region._** _This is something that community-led crisis responders say to those coming into a region impacted by crisis. But most histories are written by the colonizers, and so the role of educator also falls on the shoulders of those fighting to survive._  
   

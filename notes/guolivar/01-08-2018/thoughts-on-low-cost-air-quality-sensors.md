@@ -1,12 +1,18 @@
 ---
-nid: 15483
 title: Thoughts on Low Cost air quality sensors
-path: public/static/notes/guolivar/01-08-2018/thoughts-on-low-cost-air-quality-sensors.md
+tagnames: air-quality, sensors, dustduino, dust, pm, barnstar:basic, humidity, new-zealand, particulate-matter, air-sensors, purpleair, pm2.5, pm10, plantower, purple-air, pms5003, response:15458, air-sensor-eval
+author: guolivar
+path: /notes/guolivar/01-08-2018/thoughts-on-low-cost-air-quality-sensors.md
+nid: 15483
 uid: 424197
-tagnames: air-quality,sensors,dustduino,dust,pm,barnstar:basic,humidity,new-zealand,particulate-matter,air-sensors,purpleair,pm2.5,pm10,plantower,purple-air,pms5003,response:15458,air-sensor-eval
+
 ---
 
 # Thoughts on Low Cost air quality sensors
+
+by [guolivar](../profile/guolivar) January 08, 2018 23:27
+
+January 08, 2018 23:27 | Tags: [air-quality](../tag/air-quality), [sensors](../tag/sensors), [dustduino](../tag/dustduino), [dust](../tag/dust), [pm](../tag/pm), [barnstar:basic](../tag/barnstar:basic), [humidity](../tag/humidity), [new-zealand](../tag/new-zealand), [particulate-matter](../tag/particulate-matter), [air-sensors](../tag/air-sensors), [purpleair](../tag/purpleair), [pm2.5](../tag/pm2.5), [pm10](../tag/pm10), [plantower](../tag/plantower), [purple-air](../tag/purple-air), [pms5003](../tag/pms5003), [response:15458](../tag/response:15458), [air-sensor-eval](../tag/air-sensor-eval)
 
 This was prompted by a [question by warren](https://publiclab.org/questions/warren/01-04-2018/how-good-is-the-purpleair-sensor-and-what-does-it-detect) that asked about the PurpleAir sensors and how their measurements relate to more _traditional_ air quality measurements.
 

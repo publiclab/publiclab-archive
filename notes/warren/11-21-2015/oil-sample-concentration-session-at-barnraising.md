@@ -1,12 +1,18 @@
 ---
-nid: 12428
 title: Oil sample concentration session at Barnraising
-path: public/static/notes/warren/11-21-2015/oil-sample-concentration-session-at-barnraising.md
+tagnames: spectrometer, oil-spill, oil, spill, oil-testing-kit, sheen, response:12405
+author: warren
+path: /notes/warren/11-21-2015/oil-sample-concentration-session-at-barnraising.md
+nid: 12428
 uid: 1
-tagnames: spectrometer,oil-spill,oil,spill,oil-testing-kit,sheen,response:12405
+
 ---
 
 # Oil sample concentration session at Barnraising
+
+by [warren](../profile/warren) November 21, 2015 16:36
+
+November 21, 2015 16:36 | Tags: [spectrometer](../tag/spectrometer), [oil-spill](../tag/oil-spill), [oil](../tag/oil), [spill](../tag/spill), [oil-testing-kit](../tag/oil-testing-kit), [sheen](../tag/sheen), [response:12405](../tag/response:12405)
 
 We're having a great discussion on how to concentrate oil samples collected from sheens and other places, following up on some of @matej's work in [this research note](/notes/Matej/11-13-2015/separating-oil-from-water-by-freezing-the-water).
 

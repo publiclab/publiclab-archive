@@ -1,12 +1,18 @@
 ---
-nid: 19670
 title: DVD Grating vs. Holographic Film
-path: public/static/notes/jenjimah/06-12-2019/dvd-grating-vs-holographic-film.md
+tagnames: spectrometer, grating, holographic, dvd, diffraction
+author: jenjimah
+path: /notes/jenjimah/06-12-2019/dvd-grating-vs-holographic-film.md
+nid: 19670
 uid: 505738
-tagnames: spectrometer,grating,holographic,dvd,diffraction
+
 ---
 
 # DVD Grating vs. Holographic Film
+
+by [jenjimah](../profile/jenjimah) June 12, 2019 08:08
+
+June 12, 2019 08:08 | Tags: [spectrometer](../tag/spectrometer), [grating](../tag/grating), [holographic](../tag/holographic), [dvd](../tag/dvd), [diffraction](../tag/diffraction)
 
 This is an extension of the spectrometer building process: [Horticultural Spectrometer Upgrade - Planning](https://publiclab.org/notes/jenjimah/04-07-2019/horticultural-spectroscope-upgrade-planning)
 

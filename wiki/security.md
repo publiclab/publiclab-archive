@@ -1,12 +1,18 @@
 ---
-nid: 17805
 title: Security/privacy best practices for data and devices
-path: public/static/wiki/security.md
+tagnames: security, locked, privacy, risk, parent:privacy
+author: warren
+path: /wiki/security.md
+nid: 17805
 uid: 1
-tagnames: security,locked,privacy,risk,parent:privacy
+
 ---
 
 # Security/privacy best practices for data and devices
+
+by [warren](../profile/warren)
+
+December 04, 2018 17:30 | Tags: [security](../tag/security), [locked](../tag/locked), [privacy](../tag/privacy), [risk](../tag/risk), [parent:privacy](../tag/parent:privacy)
 
 ### Public Lab privacy and security guidelines
 

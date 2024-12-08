@@ -1,6 +1,6 @@
 # multispeq
 
-8 notes and wiki pages
+8 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [PhotosynQ midsummer update](/notes/gbathree/08-13-2014/photosynq-midsummer-update) by [gbathree](../profile/gbathree)
 - [Attaching soil moisture sensor to the PhotosynQ platform](/notes/gbathree/09-01-2014/attaching-soil-moisture-sensor-to-the-photosynq-platform) by [gbathree](../profile/gbathree)

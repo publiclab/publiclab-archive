@@ -1,12 +1,18 @@
 ---
-nid: 7493
 title: NASA connections
-path: public/static/wiki/nasa-connections.md
+tagnames: nasa, partnerships
+author: liz
+path: /wiki/nasa-connections.md
+nid: 7493
 uid: 7
-tagnames: nasa,partnerships
+
 ---
 
 # NASA connections
+
+by [liz](../profile/liz)
+
+May 13, 2013 15:38 | Tags: [nasa](../tag/nasa), [partnerships](../tag/partnerships)
 
 There are many divisions of NASA that share interests with Public Lab. Here are just a few: 
 

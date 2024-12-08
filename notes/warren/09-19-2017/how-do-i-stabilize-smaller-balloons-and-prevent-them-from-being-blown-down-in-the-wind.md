@@ -1,12 +1,18 @@
 ---
-nid: 14907
 title: How do I stabilize smaller balloons and prevent them from being blown down in the wind?
-path: public/static/notes/warren/09-19-2017/how-do-i-stabilize-smaller-balloons-and-prevent-them-from-being-blown-down-in-the-wind.md
+tagnames: balloon-mapping, kite-balloon-hybrid, mylar, wind, answered, prototyping, mylar-balloons, balloons, mini-balloon-kit, question:mini-balloon-kit
+author: warren
+path: /notes/warren/09-19-2017/how-do-i-stabilize-smaller-balloons-and-prevent-them-from-being-blown-down-in-the-wind.md
+nid: 14907
 uid: 1
-tagnames: balloon-mapping,kite-balloon-hybrid,mylar,wind,answered,prototyping,mylar-balloons,balloons,mini-balloon-kit,question:mini-balloon-kit
+
 ---
 
 # How do I stabilize smaller balloons and prevent them from being blown down in the wind?
+
+by [warren](../profile/warren) September 19, 2017 17:45
+
+September 19, 2017 17:45 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-balloon-hybrid](../tag/kite-balloon-hybrid), [mylar](../tag/mylar), [wind](../tag/wind), [answered](../tag/answered), [prototyping](../tag/prototyping), [mylar-balloons](../tag/mylar-balloons), [balloons](../tag/balloons), [mini-balloon-kit](../tag/mini-balloon-kit), [question:mini-balloon-kit](../tag/question:mini-balloon-kit)
 
 When flying smaller balloons like in the #mini-balloon-kit, a common issue is that due to the lower lift of these (say, one to three 36 inch mylar balloons) they are more sensitive to light winds blowing them down.
 

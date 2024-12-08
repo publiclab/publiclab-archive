@@ -1,6 +1,6 @@
 # lichen
 
-7 notes and wiki pages
+7 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Rock Tripe Slab](/notes/cfastie/06-11-2013/rock-tripe-slab) by [cfastie](../profile/cfastie)
 - [Activity: Learning to Spot Lichens and Mosses](/notes/fongvania/07-21-2021/learning-to-spot-lichens-and-mosses) by [fongvania](../profile/fongvania)

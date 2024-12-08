@@ -1,6 +1,6 @@
 # parent-open-water
 
-6 notes and wiki pages
+6 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Common Water Contaminants](/wiki/common-water-contaminants) (wiki)
 - [open-water-events](/wiki/open-water-events) (wiki)

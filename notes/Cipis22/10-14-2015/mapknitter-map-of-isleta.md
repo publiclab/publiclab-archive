@@ -1,11 +1,17 @@
 ---
-nid: 12300
 title: MapKnitter map of Isleta
-path: public/static/notes/Cipis22/10-14-2015/mapknitter-map-of-isleta.md
+tagnames: mapknitter, lat:28.1661169223, lon:-15.4411956668
+author: Cipis22
+path: /notes/Cipis22/10-14-2015/mapknitter-map-of-isleta.md
+nid: 12300
 uid: 453842
-tagnames: mapknitter,lat:28.1661169223,lon:-15.4411956668
+
 ---
 
 # MapKnitter map of Isleta
+
+by [Cipis22](../profile/Cipis22) October 14, 2015 15:36
+
+October 14, 2015 15:36 | Tags: [mapknitter](../tag/mapknitter), [lat:28.1661169223](../tag/lat:28.1661169223), [lon:-15.4411956668](../tag/lon:-15.4411956668)
 
 <iframe src="https://mapknitter.org/embed/isleta" style="border:none" width="100%" height="400px"></iframe><br /><br /><br />https://mapknitter.org/embed/isleta

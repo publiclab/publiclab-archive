@@ -1,12 +1,18 @@
 ---
-nid: 17165
 title: Concept of social rules from Recurse Center
-path: public/static/notes/liz/09-24-2018/concept-of-social-rules-from-recurse-center.md
+tagnames: conduct, moderation
+author: liz
+path: /notes/liz/09-24-2018/concept-of-social-rules-from-recurse-center.md
+nid: 17165
 uid: 7
-tagnames: conduct,moderation
+
 ---
 
 # Concept of social rules from Recurse Center
+
+by [liz](../profile/liz) September 24, 2018 14:59
+
+September 24, 2018 14:59 | Tags: [conduct](../tag/conduct), [moderation](../tag/moderation)
 
 Sharing this excerpt from the Recurse Center in NYC https://www.recurse.com/manual because i think they have captured a lot in four very short and sweet "social rules": 
 

@@ -1,12 +1,18 @@
 ---
-nid: 165
 title: Nonprofit
-path: public/static/wiki/nonprofit.md
-uid: 1
 tagnames: 
+author: warren
+path: /wiki/nonprofit.md
+nid: 165
+uid: 1
+
 ---
 
 # Nonprofit
+
+by [warren](../profile/warren)
+
+April 07, 2011 23:15 | Tags: 
 
 ##Nonprofit status filing##
 

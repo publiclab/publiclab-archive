@@ -1,12 +1,18 @@
 ---
-nid: 10180
 title: Cheap single-camera system for NDVI with Professional precision
-path: public/static/notes/Albertazzi/03-14-2014/cheap-single-camera-system-for-ndvi-with-professional-precision.md
-uid: 421089
 tagnames: ndvi
+author: Albertazzi
+path: /notes/Albertazzi/03-14-2014/cheap-single-camera-system-for-ndvi-with-professional-precision.md
+nid: 10180
+uid: 421089
+
 ---
 
 # Cheap single-camera system for NDVI with Professional precision
+
+by [Albertazzi](../profile/Albertazzi) March 14, 2014 13:44
+
+March 14, 2014 13:44 | Tags: [ndvi](../tag/ndvi)
 
 ###What I want to do
 Hi all, I'm following your site form my project. I want to use UAVs for crop monitoring with cheap tools available for everyone.

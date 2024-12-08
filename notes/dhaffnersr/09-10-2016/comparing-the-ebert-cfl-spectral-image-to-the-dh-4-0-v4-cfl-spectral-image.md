@@ -1,12 +1,18 @@
 ---
-nid: 13440
 title: Comparing The Ebert CFL Spectral Image To the DH 4.0 v4 CFL Spectral Image
-path: public/static/notes/dhaffnersr/09-10-2016/comparing-the-ebert-cfl-spectral-image-to-the-dh-4-0-v4-cfl-spectral-image.md
-uid: 461120
 tagnames: 
+author: dhaffnersr
+path: /notes/dhaffnersr/09-10-2016/comparing-the-ebert-cfl-spectral-image-to-the-dh-4-0-v4-cfl-spectral-image.md
+nid: 13440
+uid: 461120
+
 ---
 
 # Comparing The Ebert CFL Spectral Image To the DH 4.0 v4 CFL Spectral Image
+
+by [dhaffnersr](../profile/dhaffnersr) September 10, 2016 12:46
+
+September 10, 2016 12:46 | Tags: 
 
 [![cfastie_cfl_cal_march_2013_PNG_and_mine__sept_10.png](//i.publiclab.org/system/images/photos/000/018/010/large/cfastie_cfl_cal_march_2013_PNG_and_mine__sept_10.png)](//i.publiclab.org/system/images/photos/000/018/010/original/cfastie_cfl_cal_march_2013_PNG_and_mine__sept_10.png)
 

@@ -1,12 +1,18 @@
 ---
-nid: 15138
 title: Write an Issue Brief
-path: public/static/wiki/issue-brief.md
+tagnames: organizing, lat:41, locked, method, community-organizing, location:blurred, place:united-states, issue-brief, parent:website, zoom:6, lon:-87
+author: stevie
+path: /wiki/issue-brief.md
+nid: 15138
 uid: 422561
-tagnames: organizing,lat:41,locked,method,community-organizing,location:blurred,place:united-states,issue-brief,parent:website,zoom:6,lon:-87
+
 ---
 
 # Write an Issue Brief
+
+by [liz](../profile/liz), [stevie](../profile/stevie), [warren](../profile/warren)
+
+November 01, 2017 18:34 | Tags: [organizing](../tag/organizing), [lat:41](../tag/lat:41), [locked](../tag/locked), [method](../tag/method), [community-organizing](../tag/community-organizing), [location:blurred](../tag/location:blurred), [place:united-states](../tag/place:united-states), [issue-brief](../tag/issue-brief), [parent:website](../tag/parent:website), [zoom:6](../tag/zoom:6), [lon:-87](../tag/lon:-87)
 
 This page is intended to help people post on Public Lab when they're just getting started exploring a local issue or concern. It includes step by step instructions on posting an Issue Brief, and examples of posts for you to reference.
 

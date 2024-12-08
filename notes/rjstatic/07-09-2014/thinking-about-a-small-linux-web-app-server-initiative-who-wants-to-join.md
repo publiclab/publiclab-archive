@@ -1,12 +1,18 @@
 ---
-nid: 10668
 title: Thinking about a small Linux web app server initiative. Who wants to join?
-path: public/static/notes/rjstatic/07-09-2014/thinking-about-a-small-linux-web-app-server-initiative-who-wants-to-join.md
+tagnames: server, farmhack, raspberry-pi, apitronics, open-ground, fido, rpi, groundhog, ole, agpl, couchdb, open-pipe-kit
+author: rjstatic
+path: /07-09-2014/thinking-about-a-small-linux-web-app-server-initiative-who-wants-to-join.md
+nid: 10668
 uid: 174
-tagnames: server,farmhack,raspberry-pi,apitronics,open-ground,fido,rpi,groundhog,ole,agpl,couchdb,open-pipe-kit
+
 ---
 
 # Thinking about a small Linux web app server initiative. Who wants to join?
+
+by [rjstatic](../profile/rjstatic) July 09, 2014 12:54
+
+July 09, 2014 12:54 | Tags: [server](../tag/server), [farmhack](../tag/farmhack), [raspberry-pi](../tag/raspberry-pi), [apitronics](../tag/apitronics), [open-ground](../tag/open-ground), [fido](../tag/fido), [rpi](../tag/rpi), [groundhog](../tag/groundhog), [ole](../tag/ole), [agpl](../tag/agpl), [couchdb](../tag/couchdb), [open-pipe-kit](../tag/open-pipe-kit)
 
 > __Definition: Ground Server__ ~
 A Ground Server hosts websites like a Cloud Server hosts websites on the Internet except it's on the ground which means the websites are accessible via your Local Area Network. Ground Servers are usually hosted on little credit card sized computers like the [$35 Raspberry Pi](http://www.raspberrypi.org/) or [$45 BeagleBone Black from Texas Instruments](http://beagleboard.org/Products/BeagleBone+Black). It's Ground Computing, not Cloud Computing.

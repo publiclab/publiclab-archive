@@ -1,12 +1,18 @@
 ---
-nid: 17155
 title: Who will win in a world of...LASER DEPTHS?
-path: public/static/notes/cfastie/09-22-2018/who-will-win-in-a-world-of-laser-depths.md
+tagnames: arduino, water-sensing, laser, sensors, battery, data-logging, mini-pearl-logger, activity:mini-pearl-logger, series:springhouse-water-level, low-power-logging, log-a-long-timer, range-finder, vl53lox
+author: cfastie
+path: /notes/cfastie/09-22-2018/who-will-win-in-a-world-of-laser-depths.md
+nid: 17155
 uid: 554
-tagnames: arduino,water-sensing,laser,sensors,battery,data-logging,mini-pearl-logger,activity:mini-pearl-logger,series:springhouse-water-level,low-power-logging,log-a-long-timer,range-finder,vl53lox
+
 ---
 
 # Who will win in a world of...LASER DEPTHS?
+
+by [cfastie](../profile/cfastie) September 22, 2018 04:08
+
+September 22, 2018 04:08 | Tags: [arduino](../tag/arduino), [water-sensing](../tag/water-sensing), [laser](../tag/laser), [sensors](../tag/sensors), [battery](../tag/battery), [data-logging](../tag/data-logging), [mini-pearl-logger](../tag/mini-pearl-logger), [activity:mini-pearl-logger](../tag/activity:mini-pearl-logger), [series:springhouse-water-level](../tag/series:springhouse-water-level), [low-power-logging](../tag/low-power-logging), [log-a-long-timer](../tag/log-a-long-timer), [range-finder](../tag/range-finder), [vl53lox](../tag/vl53lox)
 
 Last spring I [installed a water level data logger](https://publiclab.org/notes/cfastie/03-10-2018/installing-the-water-level-monitor) in my spring house. The water level was measured using a float connected to a tilting arm and an accelerometer to measure the tilt angle. A [Mini Pearl Logger](https://publiclab.org/wiki/mini-pearl-logger) computed the water depth and logged the result every five minutes.
 

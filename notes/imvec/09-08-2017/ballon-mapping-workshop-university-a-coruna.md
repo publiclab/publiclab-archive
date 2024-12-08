@@ -1,12 +1,18 @@
 ---
-nid: 14857
 title: Ballon mapping workshop - University A Coruña
-path: public/static/notes/imvec/09-08-2017/ballon-mapping-workshop-university-a-coruna.md
+tagnames: events, spain, aerial-photography, event, event:rsvp, eu, replication:14022, ballon-mapping, date:09-29-2017
+author: imvec
+path: /notes/imvec/09-08-2017/ballon-mapping-workshop-university-a-coruna.md
+nid: 14857
 uid: 495038
-tagnames: events,spain,aerial-photography,event,event:rsvp,eu,replication:14022,ballon-mapping,date:09-29-2017
+
 ---
 
 # Ballon mapping workshop - University A Coruña
+
+by [imvec](../profile/imvec) September 08, 2017 09:48
+
+September 08, 2017 09:48 | Tags: [events](../tag/events), [spain](../tag/spain), [aerial-photography](../tag/aerial-photography), [event](../tag/event), [event:rsvp](../tag/event:rsvp), [eu](../tag/eu), [replication:14022](../tag/replication:14022), [ballon-mapping](../tag/ballon-mapping), [date:09-29-2017](../tag/date:09-29-2017)
 
 ###When and where
 29 and 30th September 2017at the [Elviña Campus of the University of A Coruña](https://www.openstreetmap.org/search?query=43.33403%2C-8.41216#map=17/43.33403/-8.41216).

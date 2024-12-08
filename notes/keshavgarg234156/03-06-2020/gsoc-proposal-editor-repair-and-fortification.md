@@ -1,12 +1,18 @@
 ---
-nid: 23092
 title: GSoC Proposal:Editor repair and fortification
-path: public/static/notes/keshavgarg234156/03-06-2020/gsoc-proposal-editor-repair-and-fortification.md
+tagnames: markdown, first-time-poster, soc-2020, soc-2020-proposals
+author: keshavgarg234156
+path: /notes/keshavgarg234156/03-06-2020/gsoc-proposal-editor-repair-and-fortification.md
+nid: 23092
 uid: 613595
-tagnames: markdown,first-time-poster,soc-2020,soc-2020-proposals
+
 ---
 
 # GSoC Proposal:Editor repair and fortification
+
+by [keshavgarg234156](../profile/keshavgarg234156) March 06, 2020 13:41
+
+March 06, 2020 13:41 | Tags: [markdown](../tag/markdown), [first-time-poster](../tag/first-time-poster), [soc-2020](../tag/soc-2020), [soc-2020-proposals](../tag/soc-2020-proposals)
 
 # About me:
 

@@ -1,12 +1,18 @@
 ---
-nid: 12997
 title: Making an OpenFlexure Microscope
-path: public/static/notes/mathew/04-17-2016/making-an-openflexure-microscope.md
+tagnames: raspberry-pi, dust, particle-sensing, microscope, passive-pm, microscopy, pm-monitor, openflexure, activity:microscope, microscopes, activity:microscopes, activity:open-flexure-microscope
+author: mathew
+path: /notes/mathew/04-17-2016/making-an-openflexure-microscope.md
+nid: 12997
 uid: 4
-tagnames: raspberry-pi,dust,particle-sensing,microscope,passive-pm,microscopy,pm-monitor,openflexure,activity:microscope,microscopes,activity:microscopes,activity:open-flexure-microscope
+
 ---
 
 # Making an OpenFlexure Microscope
+
+by [mathew](../profile/mathew) April 17, 2016 21:55
+
+April 17, 2016 21:55 | Tags: [raspberry-pi](../tag/raspberry-pi), [dust](../tag/dust), [particle-sensing](../tag/particle-sensing), [microscope](../tag/microscope), [passive-pm](../tag/passive-pm), [microscopy](../tag/microscopy), [pm-monitor](../tag/pm-monitor), [openflexure](../tag/openflexure), [activity:microscope](../tag/activity:microscope), [microscopes](../tag/microscopes), [activity:microscopes](../tag/activity:microscopes), [activity:open-flexure-microscope](../tag/activity:open-flexure-microscope)
 
 ###Goals: 
 Determine if The [Open Flexure](http://docubricks.com/projects/openflexure-microscope) microscope can replace expensive lab microscopes in the analysis of [Passive PM monitors](/wiki/pm-dev).  In this note i’ll describe how I replicated an early version of this 3D printed microscope and slide stage, my experiences, assembly issues, and suggestions.

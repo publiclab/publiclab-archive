@@ -1,12 +1,18 @@
 ---
-nid: 26415
 title: Embedded Systems Projects
-path: public/static/notes/keerthana06/04-30-2021/embedded-systems-projects.md
-uid: 754722
 tagnames: first-time-poster
+author: keerthana06
+path: /notes/keerthana06/04-30-2021/embedded-systems-projects.md
+nid: 26415
+uid: 754722
+
 ---
 
 # Embedded Systems Projects
+
+by [keerthana06](../profile/keerthana06) April 30, 2021 09:25
+
+April 30, 2021 09:25 | Tags: [first-time-poster](../tag/first-time-poster)
 
 An embedded system is nothing but a computing system which is meant to perform many operations like to access the info , process the info , store the info and also control the info in electronics based systems. In embedded systems, software commonly referred to as firmware is hidden inside an equivalent hardware instead of in another hardware. 
 

@@ -1,6 +1,6 @@
 # lat-42.9212476506
 
-2 notes and wiki pages
+2 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [MapKnitter map of Bennington College CAPA](/notes/araaman/11-28-2017/mapknitter-map-of-bennington-college-capa) by [araaman](../profile/araaman)
 - [MapKnitter map of  CAPA ](/notes/araaman/11-28-2017/mapknitter-map-of-capa) by [araaman](../profile/araaman)

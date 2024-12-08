@@ -1,12 +1,18 @@
 ---
-nid: 12189
 title: Aerial Imagery in the Public Domain 
-path: public/static/wiki/aerial-imagery-in-the-public-domain.md
+tagnames: balloon-mapping, kite-mapping, remote-sensing, mapping, pole-photography, landsat
+author: stevie
+path: /wiki/aerial-imagery-in-the-public-domain.md
+nid: 12189
 uid: 422561
-tagnames: balloon-mapping,kite-mapping,remote-sensing,mapping,pole-photography,landsat
+
 ---
 
 # Aerial Imagery in the Public Domain 
+
+by [stevie](../profile/stevie), [warren](../profile/warren), [gilbert](../profile/gilbert), [eustatic](../profile/eustatic)
+
+August 31, 2015 20:27 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [remote-sensing](../tag/remote-sensing), [mapping](../tag/mapping), [pole-photography](../tag/pole-photography), [landsat](../tag/landsat)
 
 _Above image from the National Map Viewer_
 

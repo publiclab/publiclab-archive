@@ -1,6 +1,6 @@
 # plastics
 
-21 notes and wiki pages
+21 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Could the Raspberry Pi Microscope be used for looking at microplastics found in ocean water?](/notes/stevie/12-08-2017/could-the-raspberry-pi-microscope-be-used-for-looking-at-microplastics-found-in-ocean-water) by [stevie](../profile/stevie)
 - [How can I identify bits of plastic from the beach in an image?](/notes/jlev/02-01-2018/how-can-i-identify-bits-of-plastic-from-the-beach-in-an-image) by [jlev](../profile/jlev)

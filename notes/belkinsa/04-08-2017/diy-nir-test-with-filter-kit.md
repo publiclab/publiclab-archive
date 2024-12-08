@@ -1,12 +1,18 @@
 ---
-nid: 14099
 title: DIY NIR Test with Filter Kit #1
-path: public/static/notes/belkinsa/04-08-2017/diy-nir-test-with-filter-kit.md
+tagnames: nir, infragram, first-time-poster
+author: belkinsa
+path: /notes/belkinsa/04-08-2017/diy-nir-test-with-filter-kit.md
+nid: 14099
 uid: 504609
-tagnames: nir,infragram,first-time-poster
+
 ---
 
 # DIY NIR Test with Filter Kit #1
+
+by [belkinsa](../profile/belkinsa) April 08, 2017 13:22
+
+April 08, 2017 13:22 | Tags: [nir](../tag/nir), [infragram](../tag/infragram), [first-time-poster](../tag/first-time-poster)
 
 Roughly a week ago, I ordered a [DIY Plant Analysis Filter Kit](https://publiclab.myshopify.com/collections/diy-infrared-photography/products/infragram-diy-filter-pack) from the store and just a day ago it came. I used the blue filter since I have a old USB webcam. I tested it with one of the house plants in my house and the title image of this research note is what I got from [Infragram](https://infragram.org/).
 

@@ -1,6 +1,6 @@
 # llactalab
 
-6 notes and wiki pages
+6 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Mapping Experiment Llactalab Cuenca Ecuador day 1](/notes/sebasvanegasb/11-04-2015/mapping-experiment-llactalab-cuenca-ecuador-day-1) by [sebasvanegasb](../profile/sebasvanegasb)
 - [MapKnitter map of Practica Cuenca ](/notes/JuanSardi/11-04-2015/mapknitter-map-of-practica-cuenca) by [JuanSardi](../profile/JuanSardi)

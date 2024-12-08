@@ -1,12 +1,18 @@
 ---
-nid: 5877
 title: distance spectrometry of refineries: questions
-path: public/static/notes/eustatic/2-3-2013/distance-spectrometry-refineries-questions.md
+tagnames: spectrometer, spectralchallenge, flare
+author: eustatic
+path: /2-3-2013/distance-spectrometry-refineries-questions.md
+nid: 5877
 uid: 379
-tagnames: spectrometer,spectralchallenge,flare
+
 ---
 
 # distance spectrometry of refineries: questions
+
+by [eustatic](../profile/eustatic) February 03, 2013 18:41
+
+February 03, 2013 18:41 | Tags: [spectrometer](../tag/spectrometer), [spectralchallenge](../tag/spectralchallenge), [flare](../tag/flare)
 
 inspired by <a href="http://publiclaboratory.org/notes/jetson/1-27-2013/attempt-distance-spectrometery">Jetson's post</a>
 

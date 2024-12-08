@@ -1,12 +1,18 @@
 ---
-nid: 19682
 title: A Method for HDR Imaging
-path: public/static/notes/jenjimah/06-12-2019/a-method-for-hdr-imaging.md
+tagnames: spectrometer, spectrometry, raspberry-pi, cameras, hdr, barnstar:basic
+author: jenjimah
+path: /notes/jenjimah/06-12-2019/a-method-for-hdr-imaging.md
+nid: 19682
 uid: 505738
-tagnames: spectrometer,spectrometry,raspberry-pi,cameras,hdr,barnstar:basic
+
 ---
 
 # A Method for HDR Imaging
+
+by [jenjimah](../profile/jenjimah) June 12, 2019 19:15
+
+June 12, 2019 19:15 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [raspberry-pi](../tag/raspberry-pi), [cameras](../tag/cameras), [hdr](../tag/hdr), [barnstar:basic](../tag/barnstar:basic)
 
 Using a webcam or a pi camera, it quickly becomes clear that a single capture cannot encompass the large range of brightness in the scene, also known as the _dynamic range_. A solution is high dynamic range (HDR) imaging, a process that combines data from multiple exposures into one image that is neither overexposed, nor underexposed.
 

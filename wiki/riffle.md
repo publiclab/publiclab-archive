@@ -1,12 +1,18 @@
 ---
-nid: 10000
 title: Riffle: an Open Source Water Monitoring Approach
-path: public/static/wiki/riffle.md
+tagnames: agriculture, pvos, mining, water-quality, water, water-monitoring, water-quality-sensor, fracking, tool, datalogger, riffle, list:plots-waterquality, open-water, data-logging, activities:riffle, upgrades:riffle, method, chemicals, oil-and-gas, electronic-sensors, parent:data-logging, project:water-quality
+author: donblair
+path: /wiki/riffle.md
+nid: 10000
 uid: 43651
-tagnames: agriculture,pvos,mining,water-quality,water,water-monitoring,water-quality-sensor,fracking,tool,datalogger,riffle,list:plots-waterquality,open-water,data-logging,activities:riffle,upgrades:riffle,method,chemicals,oil-and-gas,electronic-sensors,parent:data-logging,project:water-quality
+
 ---
 
 # Riffle: an Open Source Water Monitoring Approach
+
+by [warren](../profile/warren), [stevie](../profile/stevie), [pdhixenbaugh](../profile/pdhixenbaugh), [liz](../profile/liz), [donblair](../profile/donblair), [mathew](../profile/mathew), [bgamari](../profile/bgamari)
+
+January 31, 2014 23:37 | Tags: [agriculture](../tag/agriculture), [pvos](../tag/pvos), [mining](../tag/mining), [water-quality](../tag/water-quality), [water](../tag/water), [water-monitoring](../tag/water-monitoring), [water-quality-sensor](../tag/water-quality-sensor), [fracking](../tag/fracking), [tool](../tag/tool), [datalogger](../tag/datalogger), [riffle](../tag/riffle), [list:plots-waterquality](../tag/list:plots-waterquality), [open-water](../tag/open-water), [data-logging](../tag/data-logging), [activities:riffle](../tag/activities:riffle), [upgrades:riffle](../tag/upgrades:riffle), [method](../tag/method), [chemicals](../tag/chemicals), [oil-and-gas](../tag/oil-and-gas), [electronic-sensors](../tag/electronic-sensors), [parent:data-logging](../tag/parent:data-logging), [project:water-quality](../tag/project:water-quality)
 
 The **Riffle** is a collection of designs that take an open source approach to water monitoring, with the intent of making gathering water information easier and more accessible. It is part of Public Lab's [Open Water Project](https://publiclab.org/wiki/open-water). (Lead image by @cfastie)
 

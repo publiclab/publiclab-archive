@@ -1,12 +1,18 @@
 ---
-nid: 11628
 title: Sense, Sensibility, and Sensor Journalism
-path: public/static/notes/Tscannell/02-23-2015/sense-sensibility-and-sensor-journalism.md
-uid: 434630
 tagnames: sensor-journalism
+author: Tscannell
+path: /notes/Tscannell/02-23-2015/sense-sensibility-and-sensor-journalism.md
+nid: 11628
+uid: 434630
+
 ---
 
 # Sense, Sensibility, and Sensor Journalism
+
+by [Tscannell](../profile/Tscannell) February 23, 2015 18:10
+
+February 23, 2015 18:10 | Tags: [sensor-journalism](../tag/sensor-journalism)
 
 Journalism is all about collecting information and weeding through that information to tell a story. But as times have changed, the art of journalism has also had to adapt and change. And with the rise of technology in our every-day society, new opportunities arise. A new kind of data-driven journalism movement has erupted. Sensor journalism.
 

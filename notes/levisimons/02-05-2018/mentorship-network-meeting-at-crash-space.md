@@ -1,12 +1,18 @@
 ---
-nid: 15690
 title: Mentorship network meeting at CRASH Space
-path: public/static/notes/levisimons/02-05-2018/mentorship-network-meeting-at-crash-space.md
+tagnames: event, event:rsvp, date:02-17-2018
+author: levisimons
+path: /notes/levisimons/02-05-2018/mentorship-network-meeting-at-crash-space.md
+nid: 15690
 uid: 1087
-tagnames: event,event:rsvp,date:02-17-2018
+
 ---
 
 # Mentorship network meeting at CRASH Space
+
+by [levisimons](../profile/levisimons) February 05, 2018 23:49
+
+February 05, 2018 23:49 | Tags: [event](../tag/event), [event:rsvp](../tag/event:rsvp), [date:02-17-2018](../tag/date:02-17-2018)
 
 Are you a teacher looking for more opportunities for your students?
 Are you an interesting person looking to mentor students and teachers?

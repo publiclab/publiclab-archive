@@ -1,12 +1,18 @@
 ---
-nid: 11285
 title: Intellectual Property Primer (work in progress)
-path: public/static/notes/bronwen/10-21-2014/intellectual-property-primer-work-in-progress.md
-uid: 237313
 tagnames: 
+author: Bronwen
+path: /notes/bronwen/10-21-2014/intellectual-property-primer-work-in-progress.md
+nid: 11285
+uid: 237313
+
 ---
 
 # Intellectual Property Primer (work in progress)
+
+by [Bronwen](../profile/Bronwen) October 21, 2014 00:22
+
+October 21, 2014 00:22 | Tags: 
 
 This is a bit of a work in progress, but I wanted to start a page to set out some of the things that are worth knowing about how different kinds of intellectual property might come into play with some of our work. 
 

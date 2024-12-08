@@ -1,12 +1,18 @@
 ---
-nid: 25407
 title: Take Back Your Air! Using the Bucket Air Quality Monitor
-path: public/static/notes/kgradow1/01-04-2021/take-back-your-air-using-the-bucket-air-quality-monitor.md
+tagnames: air-quality, bucket-brigade, advocacy, oil-and-gas, bucket-monitor
+author: kgradow1
+path: /notes/kgradow1/01-04-2021/take-back-your-air-using-the-bucket-air-quality-monitor.md
+nid: 25407
 uid: 297929
-tagnames: air-quality,bucket-brigade,advocacy,oil-and-gas,bucket-monitor
+
 ---
 
 # Take Back Your Air! Using the Bucket Air Quality Monitor
+
+by [kgradow1](../profile/kgradow1) January 04, 2021 20:23
+
+January 04, 2021 20:23 | Tags: [air-quality](../tag/air-quality), [bucket-brigade](../tag/bucket-brigade), [advocacy](../tag/advocacy), [oil-and-gas](../tag/oil-and-gas), [bucket-monitor](../tag/bucket-monitor)
 
 ##December 9: Public Lab Open Hour
 

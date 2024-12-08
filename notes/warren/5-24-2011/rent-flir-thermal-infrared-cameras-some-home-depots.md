@@ -1,12 +1,18 @@
 ---
-nid: 294
 title: Rent FLIR thermal infrared cameras at some Home Depots
-path: public/static/notes/warren/5-24-2011/rent-flir-thermal-infrared-cameras-some-home-depots.md
+tagnames: thermal-photography, flir, activity:thermal-photography
+author: warren
+path: /notes/warren/5-24-2011/rent-flir-thermal-infrared-cameras-some-home-depots.md
+nid: 294
 uid: 1
-tagnames: thermal-photography,flir,activity:thermal-photography
+
 ---
 
 # Rent FLIR thermal infrared cameras at some Home Depots
+
+by [warren](../profile/warren) May 25, 2011 03:52
+
+May 25, 2011 03:52 | Tags: [thermal-photography](../tag/thermal-photography), [flir](../tag/flir), [activity:thermal-photography](../tag/activity:thermal-photography)
 
 I wonder how much it costs? I think I'll give them a call.
 

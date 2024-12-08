@@ -1,12 +1,18 @@
 ---
-nid: 15748
 title: Web Working Group
-path: public/static/wiki/wwg.md
+tagnames: website, working-groups, web-working-group, wwg, parent:working-groups, parent:website
+author: warren
+path: /wiki/wwg.md
+nid: 15748
 uid: 1
-tagnames: website,working-groups,web-working-group,wwg,parent:working-groups,parent:website
+
 ---
 
 # Web Working Group
+
+by [Bronwen](../profile/Bronwen), [warren](../profile/warren), [bigdaw](../profile/bigdaw)
+
+February 16, 2018 16:54 | Tags: [website](../tag/website), [working-groups](../tag/working-groups), [web-working-group](../tag/web-working-group), [wwg](../tag/wwg), [parent:working-groups](../tag/parent:working-groups), [parent:website](../tag/parent:website)
 
 The Web Working Group is a group hosted by the Public Lab staff to develop and maintain Public Lab web infrastructure, such as our servers and mailing lists. You can contact us at `web@publiclab.org`.
 

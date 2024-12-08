@@ -1,12 +1,18 @@
 ---
-nid: 11683
 title: Sensor Journalism Reflection
-path: public/static/notes/codybowman/03-17-2015/sensor-journalism-reflection.md
-uid: 434172
 tagnames: 
+author: codybowman
+path: /notes/codybowman/03-17-2015/sensor-journalism-reflection.md
+nid: 11683
+uid: 434172
+
 ---
 
 # Sensor Journalism Reflection
+
+by [codybowman](../profile/codybowman) March 17, 2015 03:13
+
+March 17, 2015 03:13 | Tags: 
 
 As a high school senior applying to colleges, the thought of not having to take another math or science course again thrilled me! Emerson College allowed me to pursue my talents and avoid subjects that I didn’t get along with. I’ll admit that I was not overjoyed about doing the water test experiment at first; plagued with flashbacks of high school Earth Science. But I’ll admit, making the coqui sensors was amusing and interesting—and I learned a lot in the sensor-creating process. 
 

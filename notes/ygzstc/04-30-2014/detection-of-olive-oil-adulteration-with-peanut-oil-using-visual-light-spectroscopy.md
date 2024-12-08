@@ -1,12 +1,18 @@
 ---
-nid: 10382
 title: Detection of Olive Oil Adulteration (with Peanut Oil) Using Visual Light Spectroscopy
-path: public/static/notes/ygzstc/04-30-2014/detection-of-olive-oil-adulteration-with-peanut-oil-using-visual-light-spectroscopy.md
+tagnames: spectrometer, desktop-spectrometry-kit, food, olive-oil, response:10167, adulteration, peanut-oil, food-fraud, barnstar:empiricism, food-safety, response:10295, activity:spectrometry, difficulty:medium, time:10h, activity:science-fair, activity:food, first-time-poster
+author: ygzstc
+path: /notes/ygzstc/04-30-2014/detection-of-olive-oil-adulteration-with-peanut-oil-using-visual-light-spectroscopy.md
+nid: 10382
 uid: 422489
-tagnames: spectrometer,desktop-spectrometry-kit,food,olive-oil,response:10167,adulteration,peanut-oil,food-fraud,barnstar:empiricism,food-safety,response:10295,activity:spectrometry,difficulty:medium,time:10h,activity:science-fair,activity:food,first-time-poster
+
 ---
 
 # Detection of Olive Oil Adulteration (with Peanut Oil) Using Visual Light Spectroscopy
+
+by [ygzstc](../profile/ygzstc) April 30, 2014 15:15
+
+April 30, 2014 15:15 | Tags: [spectrometer](../tag/spectrometer), [desktop-spectrometry-kit](../tag/desktop-spectrometry-kit), [food](../tag/food), [olive-oil](../tag/olive-oil), [response:10167](../tag/response:10167), [adulteration](../tag/adulteration), [peanut-oil](../tag/peanut-oil), [food-fraud](../tag/food-fraud), [barnstar:empiricism](../tag/barnstar:empiricism), [food-safety](../tag/food-safety), [response:10295](../tag/response:10295), [activity:spectrometry](../tag/activity:spectrometry), [difficulty:medium](../tag/difficulty:medium), [time:10h](../tag/time:10h), [activity:science-fair](../tag/activity:science-fair), [activity:food](../tag/activity:food), [first-time-poster](../tag/first-time-poster)
 
 Disclaimer: _All the information (including hardware, software, experimental setup, procedure, and results) in this research note is provided "as is" without warranty of any kind. Author makes no warranties, express or implied, that they are free of error, or are consistent with any particular standard of merchantability, or that they will meet your requirements for any particular application and/or problem. They should not be relied on for solving a problem whose incorrect solution could result in incorrect claims which may or may not lead to any kind of monetary loss related to trade and/or legal liability. If you do use them in such a manner, it is at your own risk. The author disclaims all liability for direct, indirect, or consequential damages resulting from your experiments and claims based on their results._
 

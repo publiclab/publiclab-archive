@@ -1,12 +1,18 @@
 ---
-nid: 21039
 title: Oct 4: MicroBrews meet-up at AS220 Food, Providence
-path: public/static/notes/warren/09-30-2019/microbrews-meet-up-at-as220-food-providence.md
+tagnames: providence, events, workshop, event, rhode-island, microscopes, community-microscope, microbrews, date:10-04-2019, event:providence, lat:41.821603, lon:-71.415885
+author: warren
+path: /notes/warren/09-30-2019/microbrews-meet-up-at-as220-food-providence.md
+nid: 21039
 uid: 1
-tagnames: providence,events,workshop,event,rhode-island,microscopes,community-microscope,microbrews,date:10-04-2019,event:providence,lat:41.821603,lon:-71.415885
+
 ---
 
 # Oct 4: MicroBrews meet-up at AS220 Food, Providence
+
+by [warren](../profile/warren) September 30, 2019 16:47
+
+September 30, 2019 16:47 | Tags: [providence](../tag/providence), [events](../tag/events), [workshop](../tag/workshop), [event](../tag/event), [rhode-island](../tag/rhode-island), [microscopes](../tag/microscopes), [community-microscope](../tag/community-microscope), [microbrews](../tag/microbrews), [date:10-04-2019](../tag/date:10-04-2019), [event:providence](../tag/event:providence), [lat:41.821603](../tag/lat:41.821603), [lon:-71.415885](../tag/lon:-71.415885)
 
 We are hosting a meet-up at AS220 Bar in Providence, RI, to look at tiny stuff over brews! DIY Microscopes and kits available. Let's be real. Everything looks cool up close. Come drop by!
 

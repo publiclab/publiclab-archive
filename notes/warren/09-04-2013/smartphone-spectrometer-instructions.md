@@ -1,12 +1,18 @@
 ---
-nid: 9278
 title: Smartphone spectrometer instructions
-path: public/static/notes/warren/09-04-2013/smartphone-spectrometer-instructions.md
+tagnames: spectrometer, kickstarter, smartphone-spectrometer
+author: warren
+path: /notes/warren/09-04-2013/smartphone-spectrometer-instructions.md
+nid: 9278
 uid: 1
-tagnames: spectrometer,kickstarter,smartphone-spectrometer
+
 ---
 
 # Smartphone spectrometer instructions
+
+by [warren](../profile/warren) September 04, 2013 17:06
+
+September 04, 2013 17:06 | Tags: [spectrometer](../tag/spectrometer), [kickstarter](../tag/kickstarter), [smartphone-spectrometer](../tag/smartphone-spectrometer)
 
 For the [Kickstarter Smartphone Spectrometers](/tag/smartphone-spectrometer), [Mathew](/profile/mathew) and I did a new instructions sheet detailing the assembly steps. We've tried to minimize the # of parts, types of adhesive, etc, while still achieving a robust and well-designed device. This has gone to press already, but we can always make additions or corrections on this wiki page:
 

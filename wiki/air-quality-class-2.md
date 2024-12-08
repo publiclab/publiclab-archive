@@ -1,12 +1,18 @@
 ---
-nid: 5947
 title: Air Quality Class 2
-path: public/static/wiki/air-quality-class-2.md
+tagnames: epa, cypress-hills, chaq
+author: liz
+path: /wiki/air-quality-class-2.md
+nid: 5947
 uid: 7
-tagnames: epa,cypress-hills,chaq
+
 ---
 
 # Air Quality Class 2
+
+by [jmsaavedra](../profile/jmsaavedra), [liz](../profile/liz)
+
+February 11, 2013 22:01 | Tags: [epa](../tag/epa), [cypress-hills](../tag/cypress-hills), [chaq](../tag/chaq)
 
 <h3><a href="/wiki/air-quality-class">Class Home</a></h3>
 

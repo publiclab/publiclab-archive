@@ -1,12 +1,18 @@
 ---
-nid: 14839
 title: Sampling
-path: public/static/wiki/sampling.md
+tagnames: sampling, samples, method, sample-collection, soil-sampling, water-sampling, air-sampling
+author: warren
+path: /wiki/sampling.md
+nid: 14839
 uid: 1
-tagnames: sampling,samples,method,sample-collection,soil-sampling,water-sampling,air-sampling
+
 ---
 
 # Sampling
+
+by [liz](../profile/liz), [warren](../profile/warren)
+
+September 07, 2017 19:16 | Tags: [sampling](../tag/sampling), [samples](../tag/samples), [method](../tag/method), [sample-collection](../tag/sample-collection), [soil-sampling](../tag/soil-sampling), [water-sampling](../tag/water-sampling), [air-sampling](../tag/air-sampling)
 
 Taking samples is a key technique in environmental monitoring. Sample collection, when done well, can be cheap, numerous samples can be taken, and many people can participate in sample collection. 
 

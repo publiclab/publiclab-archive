@@ -1,12 +1,18 @@
 ---
-nid: 25192
 title: sandbox-air-quality
-path: public/static/wiki/sandbox-air-quality.md
-uid: 664477
 tagnames: 
+author: bhamster
+path: /wiki/sandbox-air-quality.md
+nid: 25192
+uid: 664477
+
 ---
 
 # sandbox-air-quality
+
+by [bhamster](../profile/bhamster)
+
+December 09, 2020 00:07 | Tags: 
 
 Outdoor air pollution, in the most extreme cases, can be immediately identified even without any special training. It casts a haze over cities, collects on streets and buildings, and provides dramatic fodder for the news. But while high drama is often a prerequisite for news about air quality to be reported, the real story is the health impacts that occur even when the air isn't thick enough to see. 
 

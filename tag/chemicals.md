@@ -1,6 +1,6 @@
 # chemicals
 
-19 notes and wiki pages
+19 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Spectrometry](/wiki/spectrometry) (wiki)
 - [Electronic Hydrogen Sulfide Sensors](/wiki/hydrogen-sulfide-sensor) (wiki)

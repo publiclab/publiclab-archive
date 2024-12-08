@@ -1,12 +1,18 @@
 ---
-nid: 12427
 title: Conduct
-path: public/static/wiki/conduct.md
+tagnames: community, conduct, location:blurred, zoom:6, lat:15, lon:105, place:homepage
+author: warren
+path: /wiki/conduct.md
+nid: 12427
 uid: 1
-tagnames: community,conduct,location:blurred,zoom:6,lat:15,lon:105,place:homepage
+
 ---
 
 # Conduct
+
+by [bsugar](../profile/bsugar), [liz](../profile/liz), [stevie](../profile/stevie), [Shannon](../profile/Shannon), [warren](../profile/warren), [obatperangsang](../profile/obatperangsang), [mathew](../profile/mathew), [nshapiro](../profile/nshapiro)
+
+November 20, 2015 15:57 | Tags: [community](../tag/community), [conduct](../tag/conduct), [location:blurred](../tag/location:blurred), [zoom:6](../tag/zoom:6), [lat:15](../tag/lat:15), [lon:105](../tag/lon:105), [place:homepage](../tag/place:homepage)
 
 Click the link below if you would like to submit your concerns in a safe, completely anonymous way:
 

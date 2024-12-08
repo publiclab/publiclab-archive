@@ -1,12 +1,18 @@
 ---
-nid: 10288
 title: DataLogger: Part 2, Hardware design
-path: public/static/notes/JSummers/04-09-2014/datalogger-part-2-hardware-design.md
+tagnames: datalogger, datalogger-option
+author: JSummers
+path: /notes/JSummers/04-09-2014/datalogger-part-2-hardware-design.md
+nid: 10288
 uid: 304279
-tagnames: datalogger,datalogger-option
+
 ---
 
 # DataLogger: Part 2, Hardware design
+
+by [JSummers](../profile/JSummers) April 09, 2014 16:33
+
+April 09, 2014 16:33 | Tags: [datalogger](../tag/datalogger), [datalogger-option](../tag/datalogger-option)
 
 ###Disclaimer:
 This research note was begun in April, 2014 to allow data logging using commercially available probes sold by Vernier Instruments.  The design did not turn out to be compatible with Vernier pH probes or ion selective electrodes.  A newer design that does work with these probes is available [here](http://publiclab.org/notes/JSummers/09-23-2014/datalogger-part-2b-simpler-hardware-some-observations-about-ion-selective-electrodes-and-ram).  At the time I wrote this note, I did not have a firm working understanding of how Vernier probes interacted with their recording devices and I assumed the probes were passive devices requiring amplification to get good precision.  In fact, the probes in question have amplifiers built in and these need to be powered and do not require amplification.    

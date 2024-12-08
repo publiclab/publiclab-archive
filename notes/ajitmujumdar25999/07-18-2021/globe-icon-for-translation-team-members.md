@@ -1,12 +1,18 @@
 ---
-nid: 27101
 title: Globe Icon for Translation Team Members
-path: public/static/notes/ajitmujumdar25999/07-18-2021/globe-icon-for-translation-team-members.md
-uid: 654056
 tagnames: translation
+author: ajitmujumdar25999
+path: /notes/ajitmujumdar25999/07-18-2021/globe-icon-for-translation-team-members.md
+nid: 27101
+uid: 654056
+
 ---
 
 # Globe Icon for Translation Team Members
+
+by [ajitmujumdar25999](../profile/ajitmujumdar25999) July 18, 2021 09:34
+
+July 18, 2021 09:34 | Tags: [translation](../tag/translation)
 
 The members of the Translation Team might see a globe-icon besides a text or button that needs to be translated. It acts like a tooltip for translators to highlight that the language has some missing translations.
 ![image description][1]

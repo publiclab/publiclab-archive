@@ -1,12 +1,18 @@
 ---
-nid: 13388
 title: Is there a simple and reliable way to test the rigidity of the spectrometer?
-path: public/static/notes/bsugar/08-22-2016/question-is-there-a-simple-and-reliable-way-to-test-the-rigidity-of-the-spectrometer.md
+tagnames: question:spectrometer, question:spectrometry, question:dssk
+author: bsugar
+path: /notes/bsugar/08-22-2016/question-is-there-a-simple-and-reliable-way-to-test-the-rigidity-of-the-spectrometer.md
+nid: 13388
 uid: 217812
-tagnames: question:spectrometer,question:spectrometry,question:dssk
+
 ---
 
 # Is there a simple and reliable way to test the rigidity of the spectrometer?
+
+by [bsugar](../profile/bsugar) August 22, 2016 22:12
+
+August 22, 2016 22:12 | Tags: [question:spectrometer](../tag/question:spectrometer), [question:spectrometry](../tag/question:spectrometry), [question:dssk](../tag/question:dssk)
 
 ###What I want to do or know
 

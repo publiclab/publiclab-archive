@@ -1,6 +1,6 @@
 # water-monitoring
 
-27 notes and wiki pages
+27 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [turbidity sensor](/wiki/turbidity-meter) (wiki)
 - [Water Quality Measurements with Optical Spectroscopy](/notes/philippg/07-10-2013/water-quality-measurements-with-optical-spectroscopy) by [philippg](../profile/philippg)

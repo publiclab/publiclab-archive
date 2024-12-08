@@ -1,6 +1,6 @@
 # wetlands
 
-107 notes and wiki pages
+107 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Quantify wetland from aerial UV photo](/notes/cesarharada/2-24-2011/quantify-wetland-aerial-uv-photo) by [cesarharada](../profile/cesarharada)
 - [Western Carolina University students map on the SC Coast](/notes/Adam-Griffith/05-01-2018/western-carolina-university-students-map-on-the-sc-coast) by [adam-griffith](../profile/adam-griffith)
@@ -108,4 +108,3 @@
 - [Can pond testing kits be used for stream/river water?](/notes/belkinsa/01-30-2022/can-pond-testing-kits-be-used-for-stream-river-water) by [belkinsa](../profile/belkinsa)
 - [Signature Development for Aerial Photo Classification:  Louisiana Wetland Forest Mine Reclamation project](/notes/eustatic/03-11-2022/signature-development-for-aerial-photo-classification-louisiana-wetland-forest-mine-reclamation-project) by [eustatic](../profile/eustatic)
 - [Signature Development for Cartoscope 2022 Project: Wells and Vegetation](/notes/eustatic/03-11-2022/signature-development-for-cartoscope-2022-project-wells-and-vegetation) by [eustatic](../profile/eustatic)
-- [What is an African safari and how is it perceived as? ](/notes/augustinetours1/03-30-2023/what-is-an-african-safari-and-how-is-it-perceived-as) by [augustinetours1](../profile/augustinetours1)

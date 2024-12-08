@@ -1,12 +1,18 @@
 ---
-nid: 10568
 title: Wyoming Hydrogen Sulfide Testing 2013-2014
-path: public/static/wiki/wyoming-hydrogen-sulfide-testing-2013-2014.md
+tagnames: hydrogen-sulfide, h2s, natural-gas, wyoming
+author: sara
+path: /wiki/wyoming-hydrogen-sulfide-testing-2013-2014.md
+nid: 10568
 uid: 8
-tagnames: hydrogen-sulfide,h2s,natural-gas,wyoming
+
 ---
 
 # Wyoming Hydrogen Sulfide Testing 2013-2014
+
+by [ewilder](../profile/ewilder), [sara](../profile/sara)
+
+June 13, 2014 15:23 | Tags: [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s), [natural-gas](../tag/natural-gas), [wyoming](../tag/wyoming)
 
 ##Purpose of this research
 

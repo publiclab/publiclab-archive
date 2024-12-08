@@ -1,12 +1,18 @@
 ---
-nid: 5611
 title: Public Lab helps EVERYONE Monitor the Environment
-path: public/static/wiki/public-lab-helps-everyone-monitor-environment.md
+tagnames: website, plots2, wintercamp, newcomers, onboarding, out-of-date
+author: mollydanielsson
+path: /wiki/public-lab-helps-everyone-monitor-environment.md
+nid: 5611
 uid: 1259
-tagnames: website,plots2,wintercamp,newcomers,onboarding,out-of-date
+
 ---
 
 # Public Lab helps EVERYONE Monitor the Environment
+
+by [liz](../profile/liz), [mollydanielsson](../profile/mollydanielsson)
+
+January 16, 2013 19:35 | Tags: [website](../tag/website), [plots2](../tag/plots2), [wintercamp](../tag/wintercamp), [newcomers](../tag/newcomers), [onboarding](../tag/onboarding), [out-of-date](../tag/out-of-date)
 
 <a href="https://www.flickr.com/photos/recordandremember/8371502643/" title="IMG_3962 by Shannon Dosemagen, on Flickr"><img src="https://farm9.staticflickr.com/8225/8371502643_9c840c03af.jpg" width="375" height="500" alt="IMG_3962"></a>
 

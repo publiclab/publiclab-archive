@@ -1,12 +1,18 @@
 ---
-nid: 13635
 title: Progress? Options...
-path: public/static/notes/bbran/10-21-2016/progress-options.md
+tagnames: research, environment, audio, question:arduino, question:autonomous-recording-unit
+author: bbran
+path: /notes/bbran/10-21-2016/progress-options.md
+nid: 13635
 uid: 495181
-tagnames: research,environment,audio,question:arduino,question:autonomous-recording-unit
+
 ---
 
 # Progress? Options...
+
+by [bbran](../profile/bbran) October 21, 2016 16:28
+
+October 21, 2016 16:28 | Tags: [research](../tag/research), [environment](../tag/environment), [audio](../tag/audio), [question:arduino](../tag/question:arduino), [question:autonomous-recording-unit](../tag/question:autonomous-recording-unit)
 
 ###What I want to do or know
 

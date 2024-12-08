@@ -1,12 +1,18 @@
 ---
-nid: 1514
 title: Mapmaking Training
-path: public/static/wiki/mapmaking-training.md
-uid: 12
 tagnames: 
+author: gonzoearth
+path: /wiki/mapmaking-training.md
+nid: 1514
+uid: 12
+
 ---
 
 # Mapmaking Training
+
+by [gonzoearth](../profile/gonzoearth)
+
+March 22, 2012 04:12 | Tags: 
 
 <a href="https://www.flickr.com/photos/jeffreywarren/6939415409/" title="PLOTS March Mapping Madness poster by jeferonix, on Flickr"><img src="https://farm8.staticflickr.com/7069/6939415409_f5ec501e63.jpg" width="500" height="293" alt="PLOTS March Mapping Madness poster"></a>
 

@@ -1,12 +1,18 @@
 ---
-nid: 297
 title: Calculating Pixel Resolution
-path: public/static/notes/gonzoearth/5-25-2011/calculating-pixel-resolution.md
-uid: 12
 tagnames: 
+author: gonzoearth
+path: /notes/gonzoearth/5-25-2011/calculating-pixel-resolution.md
+nid: 297
+uid: 12
+
 ---
 
 # Calculating Pixel Resolution
+
+by [gonzoearth](../profile/gonzoearth) May 25, 2011 19:18
+
+May 25, 2011 19:18 | Tags: 
 
 Just a brief note here about determining the pixel resolution for a PLOTS map in the Wilkinson Bay, Louisiana area. 
 

@@ -1,12 +1,18 @@
 ---
-nid: 5786
 title: Desktop Spectrometer assembly
-path: public/static/notes/nutandbolt/1-29-2013/desktop-spectrometer-assembly.md
+tagnames: spectrometer, desktop-spectrometer-assembly
+author: nutandbolt
+path: /notes/nutandbolt/1-29-2013/desktop-spectrometer-assembly.md
+nid: 5786
 uid: 49307
-tagnames: spectrometer,desktop-spectrometer-assembly
+
 ---
 
 # Desktop Spectrometer assembly
+
+by [nutandbolt](../profile/nutandbolt) January 29, 2013 17:12
+
+January 29, 2013 17:12 | Tags: [spectrometer](../tag/spectrometer), [desktop-spectrometer-assembly](../tag/desktop-spectrometer-assembly)
 
 I have been trying to assemble the desktop spectrometer kit and had a few questions. I started off well , focusing the camera at a distance of 9" as shown in the figure below
 <img src="https://publiclab.org/sites/default/files/imagefield_thumbs/picture001_0.jpg?1359478465" alt="Camera focusing done" />

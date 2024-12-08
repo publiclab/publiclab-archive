@@ -1,12 +1,18 @@
 ---
-nid: 17115
 title: Soil Sampling Toolkit
-path: public/static/wiki/soil-testing-toolkit.md
+tagnames: soil, soil-testing, tonawanda, method, soil-sampling, with:jjcreedon, parent:soil, parent:soil-sampling, soil-sampling-main
+author: Bronwen
+path: /wiki/soil-testing-toolkit.md
+nid: 17115
 uid: 237313
-tagnames: soil,soil-testing,tonawanda,method,soil-sampling,with:jjcreedon,parent:soil,parent:soil-sampling,soil-sampling-main
+
 ---
 
 # Soil Sampling Toolkit
+
+by [Bronwen](../profile/Bronwen), [xose](../profile/xose), [jjcreedon](../profile/jjcreedon)
+
+September 14, 2018 19:38 | Tags: [soil](../tag/soil), [soil-testing](../tag/soil-testing), [tonawanda](../tag/tonawanda), [method](../tag/method), [soil-sampling](../tag/soil-sampling), [with:jjcreedon](../tag/with:jjcreedon), [parent:soil](../tag/parent:soil), [parent:soil-sampling](../tag/parent:soil-sampling), [soil-sampling-main](../tag/soil-sampling-main)
 
 See also: [Soil Sampling Wiki](https://publiclab.org/wiki/soil-sampling)
 

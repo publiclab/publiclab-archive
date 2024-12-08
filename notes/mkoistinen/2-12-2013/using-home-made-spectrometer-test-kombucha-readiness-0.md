@@ -1,12 +1,18 @@
 ---
-nid: 5955
 title: Using a home-made Spectrometer to test kombucha readiness
-path: public/static/notes/mkoistinen/2-12-2013/using-home-made-spectrometer-test-kombucha-readiness-0.md
+tagnames: spectrometer, microbes, desktop-spectrometer, kombucha, kombucha-leather, activity:kombucha-leather, activity:spectrometer
+author: mkoistinen
+path: /notes/mkoistinen/2-12-2013/using-home-made-spectrometer-test-kombucha-readiness-0.md
+nid: 5955
 uid: 50322
-tagnames: spectrometer,microbes,desktop-spectrometer,kombucha,kombucha-leather,activity:kombucha-leather,activity:spectrometer
+
 ---
 
 # Using a home-made Spectrometer to test kombucha readiness
+
+by [mkoistinen](../profile/mkoistinen) February 12, 2013 15:25
+
+February 12, 2013 15:25 | Tags: [spectrometer](../tag/spectrometer), [microbes](../tag/microbes), [desktop-spectrometer](../tag/desktop-spectrometer), [kombucha](../tag/kombucha), [kombucha-leather](../tag/kombucha-leather), [activity:kombucha-leather](../tag/activity:kombucha-leather), [activity:spectrometer](../tag/activity:spectrometer)
 
 I discovered the spectralworkshop.org website via the complete PLOTS Kickstarter project.  It seemed like a great project and may possibly help me achieve better kombucha batches by allowing me to test if the fermenting process has run its course to a perfect batch without becoming overly bitter.
 

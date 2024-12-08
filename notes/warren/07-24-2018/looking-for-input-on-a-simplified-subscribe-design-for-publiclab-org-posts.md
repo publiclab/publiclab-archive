@@ -1,12 +1,18 @@
 ---
-nid: 16782
 title: Looking for input on a simplified "subscribe" design for PublicLab.org posts
-path: public/static/notes/warren/07-24-2018/looking-for-input-on-a-simplified-subscribe-design-for-publiclab-org-posts.md
+tagnames: design, barnstar:basic, ux, ui, user-interface, question:ui, subscriptions, tagging, comment-template:ui-feedback-template
+author: warren
+path: /notes/warren/07-24-2018/looking-for-input-on-a-simplified-subscribe-design-for-publiclab-org-posts.md
+nid: 16782
 uid: 1
-tagnames: design,barnstar:basic,ux,ui,user-interface,question:ui,subscriptions,tagging,comment-template:ui-feedback-template
+
 ---
 
 # Looking for input on a simplified "subscribe" design for PublicLab.org posts
+
+by [warren](../profile/warren) July 24, 2018 17:06
+
+July 24, 2018 17:06 | Tags: [design](../tag/design), [barnstar:basic](../tag/barnstar:basic), [ux](../tag/ux), [ui](../tag/ui), [user-interface](../tag/user-interface), [question:ui](../tag/question:ui), [subscriptions](../tag/subscriptions), [tagging](../tag/tagging), [comment-template:ui-feedback-template](../tag/comment-template:ui-feedback-template)
 
 We're in the midst of a broader design overhaul for this very website -- PublicLab.org (read more at #ui) -- but we're also looking to get more people **subscribing to follow topics** (tags) on the site. 
 

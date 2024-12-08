@@ -1,12 +1,18 @@
 ---
-nid: 10699
 title: Recent improvements to PublicLab.org
-path: public/static/notes/warren/07-16-2014/recent-improvements-to-publiclab-org.md
+tagnames: website, plots2, developers, code, upgrades, features
+author: warren
+path: /notes/warren/07-16-2014/recent-improvements-to-publiclab-org.md
+nid: 10699
 uid: 1
-tagnames: website,plots2,developers,code,upgrades,features
+
 ---
 
 # Recent improvements to PublicLab.org
+
+by [warren](../profile/warren) July 16, 2014 15:03
+
+July 16, 2014 15:03 | Tags: [website](../tag/website), [plots2](../tag/plots2), [developers](../tag/developers), [code](../tag/code), [upgrades](../tag/upgrades), [features](../tag/features)
 
 ###Overview
 

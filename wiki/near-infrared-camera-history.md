@@ -1,12 +1,18 @@
 ---
-nid: 7660
 title: Near Infrared Camera history
-path: public/static/wiki/near-infrared-camera-history.md
+tagnames: near-infrared-camera, ndvi, infragram
+author: liz
+path: /wiki/near-infrared-camera-history.md
+nid: 7660
 uid: 7
-tagnames: near-infrared-camera,ndvi,infragram
+
 ---
 
 # Near Infrared Camera history
+
+by [warren](../profile/warren), [liz](../profile/liz)
+
+May 17, 2013 19:01 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [infragram](../tag/infragram)
 
 <div class="alert">This page needs revision</div>
 

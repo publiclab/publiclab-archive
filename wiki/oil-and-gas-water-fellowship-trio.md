@@ -1,12 +1,18 @@
 ---
-nid: 21171
 title: Oil and Gas Water Fellowship Trio
-path: public/static/wiki/oil-and-gas-water-fellowship-trio.md
+tagnames: water-quality, oil-and-gas, projects, oil-and-gas-water-trio, fellowships
+author: stevie
+path: /wiki/oil-and-gas-water-fellowship-trio.md
+nid: 21171
 uid: 422561
-tagnames: water-quality,oil-and-gas,projects,oil-and-gas-water-trio,fellowships
+
 ---
 
 # Oil and Gas Water Fellowship Trio
+
+by [stevie](../profile/stevie)
+
+October 15, 2019 14:41 | Tags: [water-quality](../tag/water-quality), [oil-and-gas](../tag/oil-and-gas), [projects](../tag/projects), [oil-and-gas-water-trio](../tag/oil-and-gas-water-trio), [fellowships](../tag/fellowships)
 
 This page is designed to pull together the work of the [Oil and Gas Water Fellowship Trio](https://publiclab.org/wiki/fellows) group. 
 

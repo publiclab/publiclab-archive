@@ -1,6 +1,6 @@
 # community-kits
 
-28 notes and wiki pages
+28 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [What are design guidelines or constraints we aspire to at Public Lab?](/notes/warren/11-17-2017/what-are-design-guidelines-or-constraints-we-aspire-to-at-public-lab) by [warren](../profile/warren)
 - [What do I need to get started with the Community Kits program?](/notes/warren/12-08-2017/what-do-i-need-to-get-started-with-the-community-kits-program) by [warren](../profile/warren)

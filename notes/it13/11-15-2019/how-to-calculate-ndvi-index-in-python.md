@@ -1,12 +1,18 @@
 ---
-nid: 21494
 title: How to calculate NDVI index in python ?
-path: public/static/notes/it13/11-15-2019/how-to-calculate-ndvi-index-in-python.md
-uid: 599584
 tagnames: 
+author: it13
+path: /notes/it13/11-15-2019/how-to-calculate-ndvi-index-in-python.md
+nid: 21494
+uid: 599584
+
 ---
 
 # How to calculate NDVI index in python ?
+
+by [it13](../profile/it13) November 15, 2019 12:01
+
+November 15, 2019 12:01 | Tags: 
 
 Hello 
 

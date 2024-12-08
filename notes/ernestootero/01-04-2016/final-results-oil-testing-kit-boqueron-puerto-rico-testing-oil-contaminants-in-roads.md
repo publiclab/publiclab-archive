@@ -1,12 +1,18 @@
 ---
-nid: 12558
 title: Final results Oil Testing Kit, Boquerón Puerto Rico. Testing Oil Contaminants in Roads.
-path: public/static/notes/ernestootero/01-04-2016/final-results-oil-testing-kit-boqueron-puerto-rico-testing-oil-contaminants-in-roads.md
+tagnames: laser, oil-testing-kit, otk, puerto-rico, boqueron, oil-detection
+author: ernestootero
+path: /notes/ernestootero/01-04-2016/final-results-oil-testing-kit-boqueron-puerto-rico-testing-oil-contaminants-in-roads.md
+nid: 12558
 uid: 447002
-tagnames: laser,oil-testing-kit,otk,puerto-rico,boqueron,oil-detection
+
 ---
 
 # Final results Oil Testing Kit, Boquerón Puerto Rico. Testing Oil Contaminants in Roads.
+
+by [ernestootero](../profile/ernestootero) January 04, 2016 22:25
+
+January 04, 2016 22:25 | Tags: [laser](../tag/laser), [oil-testing-kit](../tag/oil-testing-kit), [otk](../tag/otk), [puerto-rico](../tag/puerto-rico), [boqueron](../tag/boqueron), [oil-detection](../tag/oil-detection)
 
 [![Final_Report.jpg](//i.publiclab.org/system/images/photos/000/013/504/medium/Final_Report.jpg)](//i.publiclab.org/system/images/photos/000/013/504/original/Final_Report.jpg)
 

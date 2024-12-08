@@ -1,12 +1,18 @@
 ---
-nid: 10514
 title: Riffle dev: 'Fun w/ Five-Five-Fives'
-path: public/static/notes/donblair/05-28-2014/riffle-dev-fun-w-five-five-fives.md
+tagnames: water-quality, water-quality-sensor, conductivity, riffle, 555
+author: donblair
+path: /notes/donblair/05-28-2014/riffle-dev-fun-w-five-five-fives.md
+nid: 10514
 uid: 43651
-tagnames: water-quality,water-quality-sensor,conductivity,riffle,555
+
 ---
 
 # Riffle dev: 'Fun w/ Five-Five-Fives'
+
+by [donblair](../profile/donblair) May 28, 2014 18:09
+
+May 28, 2014 18:09 | Tags: [water-quality](../tag/water-quality), [water-quality-sensor](../tag/water-quality-sensor), [conductivity](../tag/conductivity), [riffle](../tag/riffle), [555](../tag/555)
 
 ###What I want to do
 

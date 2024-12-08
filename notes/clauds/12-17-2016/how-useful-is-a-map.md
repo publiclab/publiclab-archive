@@ -1,12 +1,18 @@
 ---
-nid: 13791
 title: How useful is a map?
-path: public/static/notes/clauds/12-17-2016/how-useful-is-a-map.md
+tagnames: balloon-mapping, mapping, evaluation, lebanon, middle-east, bourjalshamali, indicators, usefulness, dialogue, silvarclark
+author: clauds
+path: /notes/clauds/12-17-2016/how-useful-is-a-map.md
+nid: 13791
 uid: 43867
-tagnames: balloon-mapping,mapping,evaluation,lebanon,middle-east,bourjalshamali,indicators,usefulness,dialogue,silvarclark
+
 ---
 
 # How useful is a map?
+
+by [clauds](../profile/clauds) December 17, 2016 02:31
+
+December 17, 2016 02:31 | Tags: [balloon-mapping](../tag/balloon-mapping), [mapping](../tag/mapping), [evaluation](../tag/evaluation), [lebanon](../tag/lebanon), [middle-east](../tag/middle-east), [bourjalshamali](../tag/bourjalshamali), [indicators](../tag/indicators), [usefulness](../tag/usefulness), [dialogue](../tag/dialogue), [silvarclark](../tag/silvarclark)
 
 As we finish preparing the map of Bourj Al Shamali refugee camp that we are producing from our balloon-mapping images, I have often wondered how useful a map is for the local community. I definitely think maps are useful and there are a lot of people in the camp behind the initiative, but I have wondered how much use will we give to the final map and if we can measure it. So in an attempt to "evaluate" our map, I have come up with the following indicators that we are going to try to measure. 
 

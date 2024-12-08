@@ -1,12 +1,18 @@
 ---
-nid: 10448
 title: Español
-path: public/static/wiki/espanol.md
+tagnames: spain, tabbed:notes, tabbed:wikis, lang:es
+author: warren
+path: /wiki/espanol.md
+nid: 10448
 uid: 1
-tagnames: spain,tabbed:notes,tabbed:wikis,lang:es
+
 ---
 
 # Español
+
+by [warren](../profile/warren), [agustinserisuelo](../profile/agustinserisuelo)
+
+May 07, 2014 22:41 | Tags: [spain](../tag/spain), [tabbed:notes](../tag/tabbed:notes), [tabbed:wikis](../tag/tabbed:wikis), [lang:es](../tag/lang:es)
 
 Bienvenidos a Public Lab -- estamos en el proceso de crear funcionas y herramientos para miembros hispanohablantes. 
 

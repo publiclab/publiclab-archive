@@ -1,12 +1,18 @@
 ---
-nid: 14927
 title: Kits Artwork
-path: public/static/wiki/kits-artwork.md
+tagnames: kits, parent:kits, artwork, first-time-poster
+author: kits
+path: /wiki/kits-artwork.md
+nid: 14927
 uid: 514831
-tagnames: kits,parent:kits,artwork,first-time-poster
+
 ---
 
 # Kits Artwork
+
+by [warren](../profile/warren), [kits](../profile/kits)
+
+September 21, 2017 15:45 | Tags: [kits](../tag/kits), [parent:kits](../tag/parent:kits), [artwork](../tag/artwork), [first-time-poster](../tag/first-time-poster)
 
 A page to collect labels, printouts, and other things we use at the Kits Initiative!
 

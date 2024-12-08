@@ -1,12 +1,18 @@
 ---
-nid: 14020
 title: A standalone aerial sensor pod
-path: public/static/notes/cfastie/03-15-2017/a-standalone-aerial-sensor-pod.md
+tagnames: arduino, gps, logging, barnstar:basic, saturnv, activity:arduino, data_logging, response:13850, activity:datalogger, skypod
+author: cfastie
+path: /notes/cfastie/03-15-2017/a-standalone-aerial-sensor-pod.md
+nid: 14020
 uid: 554
-tagnames: arduino,gps,logging,barnstar:basic,saturnv,activity:arduino,data_logging,response:13850,activity:datalogger,skypod
+
 ---
 
 # A standalone aerial sensor pod
+
+by [cfastie](../profile/cfastie) March 15, 2017 04:44
+
+March 15, 2017 04:44 | Tags: [arduino](../tag/arduino), [gps](../tag/gps), [logging](../tag/logging), [barnstar:basic](../tag/barnstar:basic), [saturnv](../tag/saturnv), [activity:arduino](../tag/activity:arduino), [data_logging](../tag/data_logging), [response:13850](../tag/response:13850), [activity:datalogger](../tag/activity:datalogger), [skypod](../tag/skypod)
 
 *Above: The new bracket to hold a self contained GPS + sensor data logger on a Saturn V Rig. The components are not wired together here.*
 

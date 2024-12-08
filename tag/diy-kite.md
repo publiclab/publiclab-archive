@@ -1,6 +1,6 @@
 # diy-kite
 
-30 notes and wiki pages
+30 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Kite Mapping](/wiki/kite-mapping) (wiki)
 - [splitting bamboo for kites](/notes/mathew/7-28-2011/splitting-bamboo-kites) by [mathew](../profile/mathew)

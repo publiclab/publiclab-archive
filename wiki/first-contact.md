@@ -1,12 +1,18 @@
 ---
-nid: 10991
 title: First contact and pathways through
-path: public/static/wiki/first-contact.md
+tagnames: community, evaluation, first-contact, parent:ui
+author: liz
+path: /wiki/first-contact.md
+nid: 10991
 uid: 7
-tagnames: community,evaluation,first-contact,parent:ui
+
 ---
 
 # First contact and pathways through
+
+by [liz](../profile/liz)
+
+July 29, 2014 13:29 | Tags: [community](../tag/community), [evaluation](../tag/evaluation), [first-contact](../tag/first-contact), [parent:ui](../tag/parent:ui)
 
 This wiki page is dedicated to the many ways that people first encounter Public Lab--from seeing a tweet, to picking up our Grassroots Mapping Forum, or following a link to our website--and the pathways they take through the ecosystem. This is also referred to as Sequence of Engagement or an Engagement Funnel. 
 

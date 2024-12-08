@@ -1,12 +1,18 @@
 ---
-nid: 24
 title: Methane absorption band at around 1100nm
-path: public/static/notes/warren/12-10-2010/methane-absorption-band-around-1100nm.md
+tagnames: spectrometer, absorption, spectral-matching, methane, hitran
+author: warren
+path: /notes/warren/12-10-2010/methane-absorption-band-around-1100nm.md
+nid: 24
 uid: 1
-tagnames: spectrometer,absorption,spectral-matching,methane,hitran
+
 ---
 
 # Methane absorption band at around 1100nm
+
+by [warren](../profile/warren) December 11, 2010 03:24
+
+December 11, 2010 03:24 | Tags: [spectrometer](../tag/spectrometer), [absorption](../tag/absorption), [spectral-matching](../tag/spectral-matching), [methane](../tag/methane), [hitran](../tag/hitran)
 
 Playing with the HITRAN online database:
 

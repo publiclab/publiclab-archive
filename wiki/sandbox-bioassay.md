@@ -1,12 +1,18 @@
 ---
-nid: 25672
 title: sandbox-bioassay
-path: public/static/wiki/sandbox-bioassay.md
-uid: 664477
 tagnames: 
+author: bhamster
+path: /wiki/sandbox-bioassay.md
+nid: 25672
+uid: 664477
+
 ---
 
 # sandbox-bioassay
+
+by [bhamster](../profile/bhamster)
+
+February 12, 2021 19:31 | Tags: 
 
 ## What’s a bioassay and how does it work?
 

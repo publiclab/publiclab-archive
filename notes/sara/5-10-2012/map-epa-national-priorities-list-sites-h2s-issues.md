@@ -1,12 +1,18 @@
 ---
-nid: 1948
 title: Map of EPA National Priorities List sites with H2S issues
-path: public/static/notes/sara/5-10-2012/map-epa-national-priorities-list-sites-h2s-issues.md
+tagnames: hydrogen-sulfide-sensing, hydrogen-sulfide, h2s, h2-sites
+author: sara
+path: /notes/sara/5-10-2012/map-epa-national-priorities-list-sites-h2s-issues.md
+nid: 1948
 uid: 8
-tagnames: hydrogen-sulfide-sensing,hydrogen-sulfide,h2s,h2-sites
+
 ---
 
 # Map of EPA National Priorities List sites with H2S issues
+
+by [sara](../profile/sara) May 10, 2012 17:19
+
+May 10, 2012 17:19 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s), [h2-sites](../tag/h2-sites)
 
 This map of EPA National Priorities List sites with reported concerns about H2S comes from a report written by Lana Skrtic and Published in 2006.
 

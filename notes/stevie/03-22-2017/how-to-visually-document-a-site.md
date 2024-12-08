@@ -1,12 +1,18 @@
 ---
-nid: 14047
 title: How to visually document a site
-path: public/static/notes/stevie/03-22-2017/how-to-visually-document-a-site.md
+tagnames: wetlands, organizing, stormwater, getting-started, seeks:replications, activity:timelapse, activity:photo-monitoring, activity:stormwater, site-survey, activity:site-survey, activity:wetlands, activity:organizing, where-to-map
+author: stevie
+path: /notes/stevie/03-22-2017/how-to-visually-document-a-site.md
+nid: 14047
 uid: 422561
-tagnames: wetlands,organizing,stormwater,getting-started,seeks:replications,activity:timelapse,activity:photo-monitoring,activity:stormwater,site-survey,activity:site-survey,activity:wetlands,activity:organizing,where-to-map
+
 ---
 
 # How to visually document a site
+
+by [stevie](../profile/stevie) March 22, 2017 19:13
+
+March 22, 2017 19:13 | Tags: [wetlands](../tag/wetlands), [organizing](../tag/organizing), [stormwater](../tag/stormwater), [getting-started](../tag/getting-started), [seeks:replications](../tag/seeks:replications), [activity:timelapse](../tag/activity:timelapse), [activity:photo-monitoring](../tag/activity:photo-monitoring), [activity:stormwater](../tag/activity:stormwater), [site-survey](../tag/site-survey), [activity:site-survey](../tag/activity:site-survey), [activity:wetlands](../tag/activity:wetlands), [activity:organizing](../tag/activity:organizing), [where-to-map](../tag/where-to-map)
 
 _The below activities from the Wetlands Toolkit, [Workshop 2: Understanding your wetland site](https://publiclab.org/wiki/wetlands-101)_ 
 

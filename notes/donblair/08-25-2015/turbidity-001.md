@@ -1,12 +1,18 @@
 ---
-nid: 12168
 title: Turbidity 001
-path: public/static/notes/donblair/08-25-2015/turbidity-001.md
+tagnames: water-monitoring, turbidity, riffle, open-water, light, secchi-disk, clarity
+author: donblair
+path: /notes/donblair/08-25-2015/turbidity-001.md
+nid: 12168
 uid: 43651
-tagnames: water-monitoring,turbidity,riffle,open-water,light,secchi-disk,clarity
+
 ---
 
 # Turbidity 001
+
+by [donblair](../profile/donblair) August 25, 2015 20:01
+
+August 25, 2015 20:01 | Tags: [water-monitoring](../tag/water-monitoring), [turbidity](../tag/turbidity), [riffle](../tag/riffle), [open-water](../tag/open-water), [light](../tag/light), [secchi-disk](../tag/secchi-disk), [clarity](../tag/clarity)
 
 Just wanted to gather some useful materials around turbidity -- how it's usually assessed, and various approaches one might take to measuring it.
 

@@ -1,6 +1,6 @@
 # parent-water-quality
 
-21 notes and wiki pages
+21 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Common Water Contaminants](/wiki/common-water-contaminants) (wiki)
 - [The Open Water Project: FAQ](/wiki/the-open-water-project-faq) (wiki)

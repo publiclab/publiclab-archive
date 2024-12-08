@@ -1,12 +1,18 @@
 ---
-nid: 10061
 title: Goal setting workshop design
-path: public/static/notes/liz/02-24-2014/goal-setting-workshop-design.md
+tagnames: newark, new-jersey, ironbound, icc, elp
+author: liz
+path: /notes/liz/02-24-2014/goal-setting-workshop-design.md
+nid: 10061
 uid: 7
-tagnames: newark,new-jersey,ironbound,icc,elp
+
 ---
 
 # Goal setting workshop design
+
+by [liz](../profile/liz) February 24, 2014 17:03
+
+February 24, 2014 17:03 | Tags: [newark](../tag/newark), [new-jersey](../tag/new-jersey), [ironbound](../tag/ironbound), [icc](../tag/icc), [elp](../tag/elp)
 
 This is a _indoor_ workshop design for the first meeting with the youth of the Ironbound Community Corporation for our 2014 Environmental Leadership Program project. In February, the garden was still snow-covered: 
 

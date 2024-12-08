@@ -1,12 +1,18 @@
 ---
-nid: 12954
 title: Reflected sunlight and a spectrometer improving proposal
-path: public/static/notes/viechdokter/04-10-2016/reflected-sunlight-and-a-spectrometer-improving-proposal.md
-uid: 468990
 tagnames: 
+author: viechdokter
+path: /notes/viechdokter/04-10-2016/reflected-sunlight-and-a-spectrometer-improving-proposal.md
+nid: 12954
+uid: 468990
+
 ---
 
 # Reflected sunlight and a spectrometer improving proposal
+
+by [viechdokter](../profile/viechdokter) April 10, 2016 13:15
+
+April 10, 2016 13:15 | Tags: 
 
 I went into the garden today and - believe it or not - the sun was shining. Again. So instead of photographing ants or chasing the dog around the garden I took my spectrometer out and photographed _plants and spectra_. Here is the first:
 

@@ -1,6 +1,6 @@
 # response-10230
 
-4 notes and wiki pages
+4 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [KAP'n Hook fail](/notes/cfastie/03-30-2014/kap-n-hook-fail) by [cfastie](../profile/cfastie)
 - [Pierre's plastic Picavet](/notes/cfastie/04-15-2014/pierre-s-plastic-picavet) by [cfastie](../profile/cfastie)

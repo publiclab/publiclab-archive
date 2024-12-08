@@ -1,12 +1,18 @@
 ---
-nid: 19857
 title: Taking Action: Odors in Court
-path: public/static/notes/joyofsoy/06-25-2019/taking-action-odors-in-court.md
+tagnames: with:bronwen, odor, odor-logging, csf, csf16
+author: joyofsoy
+path: /notes/joyofsoy/06-25-2019/taking-action-odors-in-court.md
+nid: 19857
 uid: 540844
-tagnames: with:bronwen,odor,odor-logging,csf,csf16
+
 ---
 
 # Taking Action: Odors in Court
+
+by [joyofsoy](../profile/joyofsoy) June 25, 2019 16:23
+
+June 25, 2019 16:23 | Tags: [with:bronwen](../tag/with:bronwen), [odor](../tag/odor), [odor-logging](../tag/odor-logging), [csf](../tag/csf), [csf16](../tag/csf16)
 
 **A version of this story is published in Public Lab's *Community Science Forum*, Issue 16.** 
 

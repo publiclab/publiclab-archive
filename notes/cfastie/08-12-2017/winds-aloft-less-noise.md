@@ -1,12 +1,18 @@
 ---
-nid: 14756
 title: Winds aloft: less noise
-path: public/static/notes/cfastie/08-12-2017/winds-aloft-less-noise.md
+tagnames: balloon-mapping, kite-mapping, arduino, kite-aerial-photography, kite, gps, sensors, wind, saturnv, skyshield, data-logging, skypod, bme280, ublox, rokkaku, response:14713, series:diy-wind-sensors, skypod-gps-logger, activity:skypod-gps-logger, activity:as220-wind-sensors
+author: cfastie
+path: /notes/cfastie/08-12-2017/winds-aloft-less-noise.md
+nid: 14756
 uid: 554
-tagnames: balloon-mapping,kite-mapping,arduino,kite-aerial-photography,kite,gps,sensors,wind,saturnv,skyshield,data-logging,skypod,bme280,ublox,rokkaku,response:14713,series:diy-wind-sensors,skypod-gps-logger,activity:skypod-gps-logger,activity:as220-wind-sensors
+
 ---
 
 # Winds aloft: less noise
+
+by [cfastie](../profile/cfastie) August 12, 2017 16:34
+
+August 12, 2017 16:34 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [arduino](../tag/arduino), [kite-aerial-photography](../tag/kite-aerial-photography), [kite](../tag/kite), [gps](../tag/gps), [sensors](../tag/sensors), [wind](../tag/wind), [saturnv](../tag/saturnv), [skyshield](../tag/skyshield), [data-logging](../tag/data-logging), [skypod](../tag/skypod), [bme280](../tag/bme280), [ublox](../tag/ublox), [rokkaku](../tag/rokkaku), [response:14713](../tag/response:14713), [series:diy-wind-sensors](../tag/series:diy-wind-sensors), [skypod-gps-logger](../tag/skypod-gps-logger), [activity:skypod-gps-logger](../tag/activity:skypod-gps-logger), [activity:as220-wind-sensors](../tag/activity:as220-wind-sensors)
 
 My first results from a [Modern Device wind sensor](https://moderndevice.com/product/wind-sensor-rev-p/) were [very noisy](https://publiclab.org/notes/cfastie/08-03-2017/winds-aloft). So I made a couple of modifications and collected some more data. 
 

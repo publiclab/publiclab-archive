@@ -1,6 +1,6 @@
 # new-york-city
 
-222 notes and wiki pages
+222 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [New York City](/wiki/new-york-city) (wiki)
 - [Gowanus Canal balloon tests](/notes/warren/2-19-2011/gowanus-canal-balloon-tests) by [warren](../profile/warren)
@@ -156,7 +156,6 @@
 - [Social & Technical Problems of Mother's Day Grassroots Mapping](/notes/eymund/05-12-2014/social-technical-problems-of-mother-s-day-grassroots-mapping) by [eymund](../profile/eymund)
 - [Come try spectrometry at Science Hack Day](/notes/liz/05-23-2014/come-try-spectrometry-at-science-hack-day) by [liz](../profile/liz)
 - [June 1 Jamaica Bay wetland planting photography](/notes/liz/05-30-2014/june-1-jamaica-bay-wetland-planting-photography) by [liz](../profile/liz)
-- [oil sampling meetup](/notes/liz/06-07-2014/oil-sampling-meetup) by [liz](../profile/liz)
 - [Jamaica Bay Marsh Planting ](/notes/gwirth/06-10-2014/jamaica-bay-marsh-planting) by [gwirth](../profile/gwirth)
 - [Join us for the Raritan Bay Festival Kite / Balloon mapping! Saturday June 28th, Staten Island ](/notes/gwirth/06-18-2014/join-us-for-the-raritan-bay-festival-kite-balloon-mapping-saturday-june-28th-staten-island) by [gwirth](../profile/gwirth)
 - [Kite Mapping on the Kill Van Kull](/notes/melissachecker/06-18-2014/kite-mapping-on-the-kill-van-kull) by [melissachecker](../profile/melissachecker)
@@ -196,7 +195,6 @@
 - [Open Hour Viewing (and pizza!)](/notes/bronwen/09-08-2015/open-hour-viewing-and-pizza) by [Bronwen](../profile/Bronwen)
 - [bronx](/wiki/bronx) (wiki)
 - [NYS DEC Oil Samples](/notes/liz/10-07-2015/nys-dec-oil-samples) by [liz](../profile/liz)
-- [MapKnitter map of LunaPark](/notes/zaphit/10-29-2015/mapknitter-map-of-lunapark) by [zaphit](../profile/zaphit)
 - [North Shore Community Resiliency Assessment Memorandum](/notes/liz/11-13-2015/north-shore-community-resiliency-assessment-memorandum) by [liz](../profile/liz)
 - [Legacy oil spills under Pfizer building](/notes/liz/12-07-2015/legacy-oil-spills-under-pfizer-building) by [liz](../profile/liz)
 - [OpenHour winter gathering in NYC](/notes/liz/12-07-2015/openhour-winter-gathering-in-nyc) by [liz](../profile/liz)
@@ -207,7 +205,6 @@
 - [EDGI FOIA event at CUNY in New York City & online](/notes/liz/01-20-2017/edgi-foia-event-at-cuny-in-new-york-city-online) by [liz](../profile/liz)
 - [NYC Data Rescue working group meeting tonight](/notes/liz/02-28-2017/nyc-data-rescue-working-group-meeting-tonight) by [liz](../profile/liz)
 - [Conversation on decentralizing data storage and mesh networks](/notes/liz/01-25-2018/conversation-on-decentralizing-data-storage-and-mesh-networks) by [liz](../profile/liz)
-- [The Supreme Way to Reach to Newark Airport from Manhattan](/notes/UgoShuttle/05-25-2018/the-supreme-way-to-reach-to-newark-airport-from-manhattan) by [UgoShuttle](../profile/UgoShuttle)
 - [Crowdsourcing lead testing in NYC parks and playgrounds](/notes/smmontgom/09-08-2018/crowdsourcing-lead-testing-in-nyc-parks-and-playgrounds) by [smmontgom](../profile/smmontgom)
 - [Community Microscopes at Maker Faire NYC](/notes/bronwen/09-26-2018/community-microscopes-at-maker-faire-nyc) by [Bronwen](../profile/Bronwen)
 - [Event: Oct 24, 2018 Crowdsourcing Stormwater Solutions at The Nature Conservancy](/notes/nwhysel/10-10-2018/event-oct-24-2018-crowdsourcing-stormwater-solutions-at-the-nature-conservancy) by [nwhysel](../profile/nwhysel)

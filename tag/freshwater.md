@@ -1,6 +1,6 @@
 # freshwater
 
-9 notes and wiki pages
+9 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Balloon map of south Bonfouca cel USFWS planting with PIES and TOES](/notes/eustatic/05-24-2019/balloon-map-of-south-bonfouca-cel-usfws-planting-with-pies-and-toes) by [eustatic](../profile/eustatic)
 - [how do hygiene products effect bodies of water ?](/notes/Oc3anResearch3rs/02-07-2020/how-do-hygiene-products-effect-bodies-of-water) by [Oc3anResearch3rs](../profile/Oc3anResearch3rs)
@@ -10,4 +10,3 @@
 - [Is Bayou water cleaner than river water?](/notes/pawpatrol/02-10-2021/is-bayou-water-cleaner-than-river-water) by [pawpatrol](../profile/pawpatrol)
 - [Microplastics in Lake Pontchartrain ](/notes/cummins_leila/03-23-2021/microplastics-in-lake-pontchartrain) by [cummins_leila](../profile/cummins_leila)
 - [Mi post de presentación! / My presentation post](/notes/alejobonifacio/05-24-2021/mi-post-de-presentacion) by [alejobonifacio](../profile/alejobonifacio)
-- [Question: On the validity of colorimetric aquarium test kits for effluent sampling](/notes/jamontalbs/03-29-2023/question-on-the-validity-of-colorimetric-aquarium-test-kits-for-effluent-sampling) by [jamontalbs](../profile/jamontalbs)

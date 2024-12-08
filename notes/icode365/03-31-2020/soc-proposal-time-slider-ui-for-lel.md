@@ -1,12 +1,18 @@
 ---
-nid: 23264
 title: SoC proposal: Time slider UI for LEL
-path: public/static/notes/icode365/03-31-2020/soc-proposal-time-slider-ui-for-lel.md
+tagnames: gsoc, soc-2020, soc-2020-proposals, gsoc-2020
+author: icode365
+path: /notes/icode365/03-31-2020/soc-proposal-time-slider-ui-for-lel.md
+nid: 23264
 uid: 553778
-tagnames: gsoc,soc-2020,soc-2020-proposals,gsoc-2020
+
 ---
 
 # SoC proposal: Time slider UI for LEL
+
+by [icode365](../profile/icode365) March 31, 2020 11:10
+
+March 31, 2020 11:10 | Tags: [gsoc](../tag/gsoc), [soc-2020](../tag/soc-2020), [soc-2020-proposals](../tag/soc-2020-proposals), [gsoc-2020](../tag/gsoc-2020)
 
 ## About Me
 

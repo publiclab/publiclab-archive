@@ -1,12 +1,18 @@
 ---
-nid: 7132
 title: Public Lab Aerial Imagery in Google Earth
-path: public/static/notes/gonzoearth/04-30-2013/public-lab-aerial-imagery-in-google-earth.md
+tagnames: balloon-mapping, kite-mapping, google, google-earth, maps
+author: gonzoearth
+path: /notes/gonzoearth/04-30-2013/public-lab-aerial-imagery-in-google-earth.md
+nid: 7132
 uid: 12
-tagnames: balloon-mapping,kite-mapping,google,google-earth,maps
+
 ---
 
 # Public Lab Aerial Imagery in Google Earth
+
+by [gonzoearth](../profile/gonzoearth) April 30, 2013 14:23
+
+April 30, 2013 14:23 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [google](../tag/google), [google-earth](../tag/google-earth), [maps](../tag/maps)
 
 **NEWS RELEASE**
 FOR IMMEDIATE RELEASE

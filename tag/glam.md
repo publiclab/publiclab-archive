@@ -1,6 +1,6 @@
 # glam
 
-18 notes and wiki pages
+18 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [New York City](/wiki/new-york-city) (wiki)
 - [GLAM featured on Gowanus Your Face Off](/notes/liz/07-31-2013/glam-featured-on-gowanus-your-face-off) by [liz](../profile/liz)

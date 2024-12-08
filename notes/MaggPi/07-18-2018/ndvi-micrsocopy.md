@@ -1,12 +1,18 @@
 ---
-nid: 16741
 title: NDVI microscopy
-path: public/static/notes/MaggPi/07-18-2018/ndvi-micrsocopy.md
+tagnames: ndvi, raspberry-pi, barnstar:basic, microscopy, gsoc-2018, image-sequencer
+author: MaggPi
+path: /notes/MaggPi/07-18-2018/ndvi-micrsocopy.md
+nid: 16741
 uid: 501996
-tagnames: ndvi,raspberry-pi,barnstar:basic,microscopy,gsoc-2018,image-sequencer
+
 ---
 
 # NDVI microscopy
+
+by [MaggPi](../profile/MaggPi) July 18, 2018 09:20
+
+July 18, 2018 09:20 | Tags: [ndvi](../tag/ndvi), [raspberry-pi](../tag/raspberry-pi), [barnstar:basic](../tag/barnstar:basic), [microscopy](../tag/microscopy), [gsoc-2018](../tag/gsoc-2018), [image-sequencer](../tag/image-sequencer)
 
 My first use of  image-sequencer  https://publiclab.github.io/image-sequencer/examples/#steps=    so I am not sure what to expect..
    

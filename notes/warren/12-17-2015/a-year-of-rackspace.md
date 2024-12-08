@@ -1,12 +1,18 @@
 ---
-nid: 12529
 title: A year of Rackspace
-path: public/static/notes/warren/12-17-2015/a-year-of-rackspace.md
+tagnames: server, rackspace, wwg, hosting
+author: warren
+path: /notes/warren/12-17-2015/a-year-of-rackspace.md
+nid: 12529
 uid: 1
-tagnames: server,rackspace,wwg,hosting
+
 ---
 
 # A year of Rackspace
+
+by [warren](../profile/warren) December 17, 2015 16:16
+
+December 17, 2015 16:16 | Tags: [server](../tag/server), [rackspace](../tag/rackspace), [wwg](../tag/wwg), [hosting](../tag/hosting)
 
 Some of you may have noticed that at the foot of many Public Lab web pages, we mention [Rackspace's](https://rackspace.com) support. Since Public Lab runs (for free) several different websites and services, it's important to know how much help their donation of server space is; currently, all Public Lab web systems run -- for free -- on Rackspace's cloud. 
 

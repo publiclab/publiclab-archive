@@ -1,12 +1,18 @@
 ---
-nid: 14031
 title: Tagging Interface
-path: public/static/notes/mkashyap354/03-17-2017/tagging-interface.md
+tagnames: software, gsoc, gsoc-2017, soc, soc-2017, rgsoc-2017, soc-2017-proposals, response:13975
+author: mkashyap354
+path: /notes/mkashyap354/03-17-2017/tagging-interface.md
+nid: 14031
 uid: 503534
-tagnames: software,gsoc,gsoc-2017,soc,soc-2017,rgsoc-2017,soc-2017-proposals,response:13975
+
 ---
 
 # Tagging Interface
+
+by [mkashyap354](../profile/mkashyap354) March 17, 2017 18:16
+
+March 17, 2017 18:16 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [gsoc-2017](../tag/gsoc-2017), [soc](../tag/soc), [soc-2017](../tag/soc-2017), [rgsoc-2017](../tag/rgsoc-2017), [soc-2017-proposals](../tag/soc-2017-proposals), [response:13975](../tag/response:13975)
 
 ##Personal Background 
 

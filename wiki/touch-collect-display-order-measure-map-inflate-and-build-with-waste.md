@@ -1,12 +1,18 @@
 ---
-nid: 11705
 title: Touch, Collect, Display, Order, Measure, Map, Inflate and Build with Waste! 
-path: public/static/wiki/touch-collect-display-order-measure-map-inflate-and-build-with-waste.md
+tagnames: grassrootsmappingforum, waste, trash, basurama, gmf-6, style:fancy, with:basurama, germany, detritivore
+author: mollydanielsson
+path: /wiki/touch-collect-display-order-measure-map-inflate-and-build-with-waste.md
+nid: 11705
 uid: 1259
-tagnames: grassrootsmappingforum,waste,trash,basurama,gmf-6,style:fancy,with:basurama,germany,detritivore
+
 ---
 
 # Touch, Collect, Display, Order, Measure, Map, Inflate and Build with Waste! 
+
+by [pablo](../profile/pablo), [mollydanielsson](../profile/mollydanielsson)
+
+March 21, 2015 00:00 | Tags: [grassrootsmappingforum](../tag/grassrootsmappingforum), [waste](../tag/waste), [trash](../tag/trash), [basurama](../tag/basurama), [gmf-6](../tag/gmf-6), [style:fancy](../tag/style:fancy), [with:basurama](../tag/with:basurama), [germany](../tag/germany), [detritivore](../tag/detritivore)
 
 by [Pablo Rey Mazón](http://publiclab.org/profile/pablo)
 

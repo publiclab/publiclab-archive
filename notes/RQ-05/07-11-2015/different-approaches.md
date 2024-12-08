@@ -1,12 +1,18 @@
 ---
-nid: 12051
 title: Different approaches......
-path: public/static/notes/RQ-05/07-11-2015/different-approaches.md
+tagnames: ndvi, drone, mobius, uas, luts
+author: RQ-05
+path: /notes/RQ-05/07-11-2015/different-approaches.md
+nid: 12051
 uid: 440673
-tagnames: ndvi,drone,mobius,uas,luts
+
 ---
 
 # Different approaches......
+
+by [RQ-05](../profile/RQ-05) July 11, 2015 21:15
+
+July 11, 2015 21:15 | Tags: [ndvi](../tag/ndvi), [drone](../tag/drone), [mobius](../tag/mobius), [uas](../tag/uas), [luts](../tag/luts)
 
 Apparently, I am lost in the world of NDVI images. I need to figure out how to find the LUTs for images created in the sandbox.
 

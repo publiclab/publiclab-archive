@@ -1,12 +1,18 @@
 ---
-nid: 18031
 title: DIY injection device for chemical reaction kinetics.
-path: public/static/notes/JSummers/12-31-2018/diy-injection-device-for-chemical-reaction-kinetics.md
+tagnames: hardware, enzyme-kinetics, chemical-kinetics, reaction-mechanisms, lab-instruments
+author: JSummers
+path: /notes/JSummers/12-31-2018/diy-injection-device-for-chemical-reaction-kinetics.md
+nid: 18031
 uid: 304279
-tagnames: hardware,enzyme-kinetics,chemical-kinetics,reaction-mechanisms,lab-instruments
+
 ---
 
 # DIY injection device for chemical reaction kinetics.
+
+by [JSummers](../profile/JSummers) December 31, 2018 21:28
+
+December 31, 2018 21:28 | Tags: [hardware](../tag/hardware), [enzyme-kinetics](../tag/enzyme-kinetics), [chemical-kinetics](../tag/chemical-kinetics), [reaction-mechanisms](../tag/reaction-mechanisms), [lab-instruments](../tag/lab-instruments)
 
 _\*\*\*\*work by Jack S. Summers, Taylor Stack,
 Hailey Medder, Kristen Eggles._

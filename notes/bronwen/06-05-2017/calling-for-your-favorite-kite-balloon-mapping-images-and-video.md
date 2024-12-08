@@ -1,12 +1,18 @@
 ---
-nid: 14501
 title: Calling for your favorite Kite/Balloon Mapping images and video!
-path: public/static/notes/bronwen/06-05-2017/calling-for-your-favorite-kite-balloon-mapping-images-and-video.md
+tagnames: balloon-mapping, aerial-photography, kickstarter, aerial-mapping, aerial-photos, autodesk
+author: Bronwen
+path: /notes/bronwen/06-05-2017/calling-for-your-favorite-kite-balloon-mapping-images-and-video.md
+nid: 14501
 uid: 237313
-tagnames: balloon-mapping,aerial-photography,kickstarter,aerial-mapping,aerial-photos,autodesk
+
 ---
 
 # Calling for your favorite Kite/Balloon Mapping images and video!
+
+by [Bronwen](../profile/Bronwen) June 05, 2017 16:49
+
+June 05, 2017 16:49 | Tags: [balloon-mapping](../tag/balloon-mapping), [aerial-photography](../tag/aerial-photography), [kickstarter](../tag/kickstarter), [aerial-mapping](../tag/aerial-mapping), [aerial-photos](../tag/aerial-photos), [autodesk](../tag/autodesk)
 
 (above image by @C_Eich in [Union Square, NY](https://publiclab.org/notes/ceich/6-28-2012/pictures-balloon-mapping-union-sq-ny))
 

@@ -1,12 +1,18 @@
 ---
-nid: 13166
 title: Streak
-path: public/static/wiki/streak.md
+tagnames: community, website, streak, streaks
+author: warren
+path: /wiki/streak.md
+nid: 13166
 uid: 1
-tagnames: community,website,streak,streaks
+
 ---
 
 # Streak
+
+by [warren](../profile/warren)
+
+June 04, 2016 01:00 | Tags: [community](../tag/community), [website](../tag/website), [streak](../tag/streak), [streaks](../tag/streaks)
 
 [![Screenshot_2016-06-03_at_4.43.29_PM.png](//i.publiclab.org/system/images/photos/000/016/496/large/Screenshot_2016-06-03_at_4.43.29_PM.png)](//i.publiclab.org/system/images/photos/000/016/496/original/Screenshot_2016-06-03_at_4.43.29_PM.png)
 

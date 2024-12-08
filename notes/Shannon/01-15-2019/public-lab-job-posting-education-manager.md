@@ -1,12 +1,18 @@
 ---
-nid: 18124
 title: Public Lab job posting: Education Manager
-path: public/static/notes/Shannon/01-15-2019/public-lab-job-posting-education-manager.md
+tagnames: education, jobs
+author: Shannon
+path: /notes/Shannon/01-15-2019/public-lab-job-posting-education-manager.md
+nid: 18124
 uid: 9
-tagnames: education,jobs
+
 ---
 
 # Public Lab job posting: Education Manager
+
+by [Shannon](../profile/Shannon) January 15, 2019 22:21
+
+January 15, 2019 22:21 | Tags: [education](../tag/education), [jobs](../tag/jobs)
 
 **Start Date:** Preferred March 2019\*
 

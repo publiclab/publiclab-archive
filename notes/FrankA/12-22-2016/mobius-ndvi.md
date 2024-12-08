@@ -1,12 +1,18 @@
 ---
-nid: 13803
 title: Mobius NDVI
-path: public/static/notes/FrankA/12-22-2016/mobius-ndvi.md
+tagnames: ndvi, infrared, health, plant, infra-red, mobius-actioncam, mobius, mobius-action-cam
+author: FrankA
+path: /notes/FrankA/12-22-2016/mobius-ndvi.md
+nid: 13803
 uid: 469049
-tagnames: ndvi,infrared,health,plant,infra-red,mobius-actioncam,mobius,mobius-action-cam
+
 ---
 
 # Mobius NDVI
+
+by [FrankA](../profile/FrankA) December 22, 2016 20:00
+
+December 22, 2016 20:00 | Tags: [ndvi](../tag/ndvi), [infrared](../tag/infrared), [health](../tag/health), [plant](../tag/plant), [infra-red](../tag/infra-red), [mobius-actioncam](../tag/mobius-actioncam), [mobius](../tag/mobius), [mobius-action-cam](../tag/mobius-action-cam)
 
 [![IMG_1504.JPG](https://publiclab.org/system/images/photos/000/019/128/large/IMG_1504.JPG)](https://publiclab.org/system/images/photos/000/019/128/original/IMG_1504.JPG)
 

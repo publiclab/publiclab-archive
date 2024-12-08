@@ -1,12 +1,18 @@
 ---
-nid: 13692
 title: Can a passive dust monitoring housing be made from a cheaper/easier material?
-path: public/static/notes/warren/11-10-2016/can-a-passive-dust-monitoring-housing-be-made-from-a-cheaper-easier-material.md
+tagnames: diy, dust, frac-sand, pm, particle-monitoring, passive-pm, question:passive-pm, question:pm, question:particulates, fabrication, question:frac-sand, question:dust, question:dust-sampling
+author: warren
+path: /notes/warren/11-10-2016/can-a-passive-dust-monitoring-housing-be-made-from-a-cheaper-easier-material.md
+nid: 13692
 uid: 1
-tagnames: diy,dust,frac-sand,pm,particle-monitoring,passive-pm,question:passive-pm,question:pm,question:particulates,fabrication,question:frac-sand,question:dust,question:dust-sampling
+
 ---
 
 # Can a passive dust monitoring housing be made from a cheaper/easier material?
+
+by [warren](../profile/warren) November 10, 2016 17:21
+
+November 10, 2016 17:21 | Tags: [diy](../tag/diy), [dust](../tag/dust), [frac-sand](../tag/frac-sand), [pm](../tag/pm), [particle-monitoring](../tag/particle-monitoring), [passive-pm](../tag/passive-pm), [question:passive-pm](../tag/question:passive-pm), [question:pm](../tag/question:pm), [question:particulates](../tag/question:particulates), [fabrication](../tag/fabrication), [question:frac-sand](../tag/question:frac-sand), [question:dust](../tag/question:dust), [question:dust-sampling](../tag/question:dust-sampling)
 
 The DIY [passive particle monitor][1] housing (for collecting air pollution particles to count with a microscope) is supposed to be made of stainless steel, and the test versions @mathew and others have made are aluminum. But to make it easier and cheaper to build one, could they be made of acrylic or polycarbonate? (copying in this question from [this page][2], via @mathew)
 

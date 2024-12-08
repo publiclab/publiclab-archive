@@ -1,12 +1,18 @@
 ---
-nid: 22682
 title: Making ink from petrochemical pollution?
-path: public/static/notes/hchalew/02-05-2020/making-ink-from-petrochemical-pollution.md
+tagnames: air-quality, waste, pollution, art, climate-change, question:general, general, oil-and-gas, first-time-poster, petrochemical-pollution, question:climate-change
+author: hchalew
+path: /notes/hchalew/02-05-2020/making-ink-from-petrochemical-pollution.md
+nid: 22682
 uid: 661285
-tagnames: air-quality,waste,pollution,art,climate-change,question:general,general,oil-and-gas,first-time-poster,petrochemical-pollution,question:climate-change
+
 ---
 
 # Making ink from petrochemical pollution?
+
+by [hchalew](../profile/hchalew) February 05, 2020 21:20
+
+February 05, 2020 21:20 | Tags: [air-quality](../tag/air-quality), [waste](../tag/waste), [pollution](../tag/pollution), [art](../tag/art), [climate-change](../tag/climate-change), [question:general](../tag/question:general), [general](../tag/general), [oil-and-gas](../tag/oil-and-gas), [first-time-poster](../tag/first-time-poster), [petrochemical-pollution](../tag/petrochemical-pollution), [question:climate-change](../tag/question:climate-change)
 
 I'm artist living in New Orleans, and my [artwork](http://www.hannahchalew.com/) explores climate change, the fossil fuel
 industry and the future of the Louisiana landscape.

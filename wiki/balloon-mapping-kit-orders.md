@@ -1,12 +1,18 @@
 ---
-nid: 785
 title: Balloon Mapping kit orders
-path: public/static/wiki/balloon-mapping-kit-orders.md
-uid: 1
 tagnames: becki
+author: warren
+path: /wiki/balloon-mapping-kit-orders.md
+nid: 785
+uid: 1
+
 ---
 
 # Balloon Mapping kit orders
+
+by [Becki](../profile/Becki), [warren](../profile/warren)
+
+February 14, 2012 00:18 | Tags: [becki](../tag/becki)
 
 Missed the [Kickstarter for balloon mapping kits](http://www.kickstarter.com/projects/1775485688/balloon-mapping-kits)? 
 

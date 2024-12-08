@@ -1,12 +1,18 @@
 ---
-nid: 20994
 title: Tip: traveling with a demo coqui
-path: public/static/notes/stevie/09-26-2019/tip-traveling-with-a-demo-coqui.md
+tagnames: education, workshop, coqui
+author: stevie
+path: /notes/stevie/09-26-2019/tip-traveling-with-a-demo-coqui.md
+nid: 20994
 uid: 422561
-tagnames: education,workshop,coqui
+
 ---
 
 # Tip: traveling with a demo coqui
+
+by [stevie](../profile/stevie) September 26, 2019 14:14
+
+September 26, 2019 14:14 | Tags: [education](../tag/education), [workshop](../tag/workshop), [coqui](../tag/coqui)
 
 I've long had trouble with transporting a coqui with a conductivity sensor for demos.  Remembering to bring cups, and salt, finding water near my demo site, mixing a saline solution to demonstrate what the coqui can do, and trying to not spill the water all over my table of electronics with a bunch of people around. It can be a lot.
 

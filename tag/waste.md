@@ -1,6 +1,6 @@
 # waste
 
-48 notes and wiki pages
+48 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Progress on NRG compositing from MapKnitter](/notes/warren/1-3-2012/progress-nrg-compositing-mapknitter) by [warren](../profile/warren)
 - [Landfill Incinerator. Saugus, Massachusetts](/map/landfill-incinerator-saugus-massachusetts/2011-10-10) by [gonzoearth](../profile/gonzoearth)
@@ -38,15 +38,10 @@
 - [Online Odor Log v1.0](/notes/imvec/04-06-2018/online-odor-log-v1-0) by [imvec](../profile/imvec)
 - [Topics](/wiki/topics) (wiki)
 - [New Orleans Clogged Storm Drains](/notes/wisegrey/09-19-2019/new-orleans-lusher-charter-clogged-storm-drains) by [wisegrey](../profile/wisegrey)
-- [Recycling & Processing Plants](/notes/wasteinitiatives/01-03-2020/recycling-processing-plants) by [wasteinitiatives](../profile/wasteinitiatives)
 - [Making ink from petrochemical pollution?](/notes/hchalew/02-05-2020/making-ink-from-petrochemical-pollution) by [hchalew](../profile/hchalew)
-- [SM Waste Management](/notes/leebush952/06-02-2020/sm-waste-management) by [leebush952](../profile/leebush952)
-- [Waste Management in India- Challenges and Opportunities](/notes/palak425/07-19-2020/waste-management-in-india-challenges-and-opportunities) by [palak425](../profile/palak425)
 - [can i use a spectrometer to sense food wastes and use an arduino to make it light a led accordingly?](/notes/tasneim3mon3em/08-10-2020/can-i-use-a-spectrometer-to-sense-food-wastes-and-use-an-arduino-to-make-it-light-a-led-accordingly) by [tasneim3mon3em](../profile/tasneim3mon3em)
 - [Creating a Biodegradable water resistant paper](/notes/deeptalaxmibharadwaj/10-25-2020/creating-a-biodegradable-water-resistant-paper) by [deeptalaxmibharadwaj](../profile/deeptalaxmibharadwaj)
 - [Seeking a Land Research Curation Fellow](/notes/bhamster/03-15-2021/seeking-a-land-research-curation-fellow) by [bhamster](../profile/bhamster)
 - [Plastic Waste Makes both the Environment and Living beings Unhealthy ](/notes/Ujitha/07-02-2021/plastic-waste-makes-both-the-environment-and-living-beings-unhealthy) by [Ujitha](../profile/Ujitha)
 - [How subsurface gasses migrate and what allows them to dissipate? Landfill gasses](/notes/denissebn_06/07-12-2021/how-subsurface-gasses-migrate-and-what-allows-them-to-dissipate-landfill-gasses) by [denissebn_06](../profile/denissebn_06)
-- [EXTENDED PRODUCERS RESPONSIBILITY ](/notes/digitaljack11/07-26-2021/extended-producers-responsibility) by [digitaljack11](../profile/digitaljack11)
 - [Choosing Locations and Methodology for Air-Quality Gas Testing](/notes/sarasage/08-09-2021/choosing-locations-and-methodology-for-air-quality-gas-testing) by [sarasage](../profile/sarasage)
-- [Waste Collection London](/notes/wastecollectionlondon/04-11-2022/waste-collection-london) by [wastecollectionlondon](../profile/wastecollectionlondon)

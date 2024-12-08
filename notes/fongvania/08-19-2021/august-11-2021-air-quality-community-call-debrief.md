@@ -1,12 +1,18 @@
 ---
-nid: 27578
 title: August 11, 2021 Air Quality Community Call Debrief 
-path: public/static/notes/fongvania/08-19-2021/august-11-2021-air-quality-community-call-debrief.md
+tagnames: air-quality, community-engagement, notes, air-quality-projects, research-curation-fellows, community-calls
+author: fongvania
+path: /notes/fongvania/08-19-2021/august-11-2021-air-quality-community-call-debrief.md
+nid: 27578
 uid: 754846
-tagnames: air-quality,community-engagement,notes,air-quality-projects,research-curation-fellows,community-calls
+
 ---
 
 # August 11, 2021 Air Quality Community Call Debrief 
+
+by [fongvania](../profile/fongvania) August 19, 2021 05:58
+
+August 19, 2021 05:58 | Tags: [air-quality](../tag/air-quality), [community-engagement](../tag/community-engagement), [notes](../tag/notes), [air-quality-projects](../tag/air-quality-projects), [research-curation-fellows](../tag/research-curation-fellows), [community-calls](../tag/community-calls)
 
 Thank you to everyone who could make it to the call! This research note summarizes the highlights, and you can access the full notes [HERE](https://pad.publiclab.org/p/air-quality-community-call).
 

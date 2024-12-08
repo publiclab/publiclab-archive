@@ -1,12 +1,18 @@
 ---
-nid: 12352
 title: middle-east
-path: public/static/wiki/middle-east.md
+tagnames: region, middle-east
+author: liz
+path: /wiki/middle-east.md
+nid: 12352
 uid: 7
-tagnames: region,middle-east
+
 ---
 
 # middle-east
+
+by [hagitkeysar](../profile/hagitkeysar), [clauds](../profile/clauds), [liz](../profile/liz)
+
+November 01, 2015 20:10 | Tags: [region](../tag/region), [middle-east](../tag/middle-east)
 
 In a region where the control and definition of territory is the seed of many conflicts, this Public Lab region seeks to create thought provoking activities that question assumed understandings of how we see and intervene in spatial territorial and land issues - with the hope that these provocations on place and space help us project new imaginations and future solutions.
 

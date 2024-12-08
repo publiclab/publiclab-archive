@@ -1,12 +1,18 @@
 ---
-nid: 424
 title: Using an el Camino to reel in a giant kite
-path: public/static/notes/warren/8-3-2011/using-car-diabolo-side-reel-giant-kite.md
+tagnames: kite-mapping, cires
+author: warren
+path: /notes/warren/8-3-2011/using-car-diabolo-side-reel-giant-kite.md
+nid: 424
 uid: 1
-tagnames: kite-mapping,cires
+
 ---
 
 # Using an el Camino to reel in a giant kite
+
+by [warren](../profile/warren) August 03, 2011 15:36
+
+August 03, 2011 15:36 | Tags: [kite-mapping](../tag/kite-mapping), [cires](../tag/cires)
 
 Citation (via Mathew Lippincott):
 

@@ -1,12 +1,18 @@
 ---
-nid: 17387
 title: Educating a New Generation of Advocates
-path: public/static/notes/joyofsoy/10-24-2018/educating-a-new-generation-of-advocates.md
+tagnames: gulf-coast, balloon-mapping, water-quality, blog, gulfport, turkey-creek, csf15
+author: joyofsoy
+path: /notes/joyofsoy/10-24-2018/educating-a-new-generation-of-advocates.md
+nid: 17387
 uid: 540844
-tagnames: gulf-coast,balloon-mapping,water-quality,blog,gulfport,turkey-creek,csf15
+
 ---
 
 # Educating a New Generation of Advocates
+
+by [joyofsoy](../profile/joyofsoy) October 24, 2018 19:10
+
+October 24, 2018 19:10 | Tags: [gulf-coast](../tag/gulf-coast), [balloon-mapping](../tag/balloon-mapping), [water-quality](../tag/water-quality), [blog](../tag/blog), [gulfport](../tag/gulfport), [turkey-creek](../tag/turkey-creek), [csf15](../tag/csf15)
 
 Go out into the wetlands. Find a quiet, secluded area. Be very quiet. Be still. After about a minute of silence, you'll start to hear birds. You'll hear the wind in the trees. You'll hear the water trickling. You'll see nature coming back to life.
 

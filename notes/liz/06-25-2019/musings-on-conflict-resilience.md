@@ -1,12 +1,18 @@
 ---
-nid: 19862
 title: musings on conflict resilience
-path: public/static/notes/liz/06-25-2019/musings-on-conflict-resilience.md
-uid: 7
 tagnames: conduct
+author: liz
+path: /notes/liz/06-25-2019/musings-on-conflict-resilience.md
+nid: 19862
+uid: 7
+
 ---
 
 # musings on conflict resilience
+
+by [liz](../profile/liz) June 25, 2019 20:44
+
+June 25, 2019 20:44 | Tags: [conduct](../tag/conduct)
 
 As i'm preparing to shepherd a revision process for our 2016 Code of Conduct, a metaphor came to mind that i'd like to share out early in order to get your feedback.
 

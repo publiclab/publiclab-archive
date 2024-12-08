@@ -1,12 +1,18 @@
 ---
-nid: 13326
 title: Flight report: Aerobee Rig panoramas and pratfalls
-path: public/static/notes/mathew/08-03-2016/flight-report-aerobee-rig-panoramas-and-pratfalls.md
+tagnames: kite-mapping, kite, kap, photo-rig, 10, kaptery, aerobee, jerkpan, sauteaufirstnation, crash, off-wind-flying, flight-report
+author: mathew
+path: /notes/mathew/08-03-2016/flight-report-aerobee-rig-panoramas-and-pratfalls.md
+nid: 13326
 uid: 4
-tagnames: kite-mapping,kite,kap,photo-rig,10,kaptery,aerobee,jerkpan,sauteaufirstnation,crash,off-wind-flying,flight-report
+
 ---
 
 # Flight report: Aerobee Rig panoramas and pratfalls
+
+by [mathew](../profile/mathew) August 03, 2016 01:34
+
+August 03, 2016 01:34 | Tags: [kite-mapping](../tag/kite-mapping), [kite](../tag/kite), [kap](../tag/kap), [photo-rig](../tag/photo-rig), [10](../tag/10), [kaptery](../tag/kaptery), [aerobee](../tag/aerobee), [jerkpan](../tag/jerkpan), [sauteaufirstnation](../tag/sauteaufirstnation), [crash](../tag/crash), [off-wind-flying](../tag/off-wind-flying), [flight-report](../tag/flight-report)
 
 Last week I got a chance to test out an old favorite of mine-- flying off wind with asymmetrical tails, and added a recent acquisition-- the[ KAPtery Aerobee Rig](https://publiclab.org/notes/cfastie/07-05-2016/the-aerobee-rig).
 

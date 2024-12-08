@@ -1,12 +1,18 @@
 ---
-nid: 25056
 title: Air sample lab testing
-path: public/static/wiki/air-lab-testing.md
+tagnames: air-quality, method, grab-sample, air-sampling, lab-testing, lab-tests, parent:air-quality, bucket-monitor, air-lab-testing
+author: bhamster
+path: /wiki/air-lab-testing.md
+nid: 25056
 uid: 664477
-tagnames: air-quality,method,grab-sample,air-sampling,lab-testing,lab-tests,parent:air-quality,bucket-monitor,air-lab-testing
+
 ---
 
 # Air sample lab testing
+
+by [bhamster](../profile/bhamster)
+
+November 13, 2020 15:54 | Tags: [air-quality](../tag/air-quality), [method](../tag/method), [grab-sample](../tag/grab-sample), [air-sampling](../tag/air-sampling), [lab-testing](../tag/lab-testing), [lab-tests](../tag/lab-tests), [parent:air-quality](../tag/parent:air-quality), [bucket-monitor](../tag/bucket-monitor), [air-lab-testing](../tag/air-lab-testing)
 
 If you’ve collected an air sample and want to know what chemicals are present, the next step is **sending the sample to a lab for analysis**. 
 

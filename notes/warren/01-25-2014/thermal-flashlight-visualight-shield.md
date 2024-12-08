@@ -1,12 +1,18 @@
 ---
-nid: 9980
 title: Thermal flashlight Visualight shield
-path: public/static/notes/warren/01-25-2014/thermal-flashlight-visualight-shield.md
+tagnames: thermal-photography, thermal-flashlight, visualight, pcb, response:9784, upverter, circuit, upgrade:thermal-flashlight
+author: warren
+path: /notes/warren/01-25-2014/thermal-flashlight-visualight-shield.md
+nid: 9980
 uid: 1
-tagnames: thermal-photography,thermal-flashlight,visualight,pcb,response:9784,upverter,circuit,upgrade:thermal-flashlight
+
 ---
 
 # Thermal flashlight Visualight shield
+
+by [warren](../profile/warren) January 25, 2014 18:37
+
+January 25, 2014 18:37 | Tags: [thermal-photography](../tag/thermal-photography), [thermal-flashlight](../tag/thermal-flashlight), [visualight](../tag/visualight), [pcb](../tag/pcb), [response:9784](../tag/response:9784), [upverter](../tag/upverter), [circuit](../tag/circuit), [upgrade:thermal-flashlight](../tag/upgrade:thermal-flashlight)
 
 ###What I want to do
 

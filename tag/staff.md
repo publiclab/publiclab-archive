@@ -1,6 +1,6 @@
 # staff
 
-11 notes and wiki pages
+11 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Working Groups](/wiki/working-groups) (wiki)
 - [Public Lab Nonprofit Staff](/wiki/plots-staff) (wiki)

@@ -1,6 +1,6 @@
 # teachers
 
-3 notes and wiki pages
+3 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Education](/wiki/education) (wiki)
 - [Public Lab for Educators](/wiki/public-lab-for-teachers) (wiki)

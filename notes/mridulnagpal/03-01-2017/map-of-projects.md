@@ -1,12 +1,18 @@
 ---
-nid: 13979
 title: Map of Projects
-path: public/static/notes/mridulnagpal/03-01-2017/map-of-projects.md
+tagnames: software, gsoc, gsoc-2017, soc, soc-2017, rgsoc-2017, soc-2017-proposals, response:13975, gsoc-2017-accepted, first-time-poster
+author: mridulnagpal
+path: /notes/mridulnagpal/03-01-2017/map-of-projects.md
+nid: 13979
 uid: 497953
-tagnames: software,gsoc,gsoc-2017,soc,soc-2017,rgsoc-2017,soc-2017-proposals,response:13975,gsoc-2017-accepted,first-time-poster
+
 ---
 
 # Map of Projects
+
+by [mridulnagpal](../profile/mridulnagpal) March 01, 2017 21:31
+
+March 01, 2017 21:31 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [gsoc-2017](../tag/gsoc-2017), [soc](../tag/soc), [soc-2017](../tag/soc-2017), [rgsoc-2017](../tag/rgsoc-2017), [soc-2017-proposals](../tag/soc-2017-proposals), [response:13975](../tag/response:13975), [gsoc-2017-accepted](../tag/gsoc-2017-accepted), [first-time-poster](../tag/first-time-poster)
 
 ## About me
 

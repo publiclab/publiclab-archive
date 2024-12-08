@@ -1,12 +1,18 @@
 ---
-nid: 12133
 title: WasteWater Ponds on Google Earth
-path: public/static/notes/ccampos/08-10-2015/wastewater-ponds-on-google-earth.md
+tagnames: california, ccejn, first-time-poster
+author: ccampos
+path: /notes/ccampos/08-10-2015/wastewater-ponds-on-google-earth.md
+nid: 12133
 uid: 446563
-tagnames: california,ccejn,first-time-poster
+
 ---
 
 # WasteWater Ponds on Google Earth
+
+by [ccampos](../profile/ccampos) August 10, 2015 21:13
+
+August 10, 2015 21:13 | Tags: [california](../tag/california), [ccejn](../tag/ccejn), [first-time-poster](../tag/first-time-poster)
 
 [![Screenshot_2015-07-14-14-48-11.png](https://i.publiclab.org/system/images/photos/000/011/095/medium/Screenshot_2015-07-14-14-48-11.png)](https://i.publiclab.org/system/images/photos/000/011/095/original/Screenshot_2015-07-14-14-48-11.png)
 

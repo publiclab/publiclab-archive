@@ -1,12 +1,9 @@
 # plastic
 
-28 notes and wiki pages
+28 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Ideas for a DIY + Maker class for 6th graders](/notes/Kmckeown/08-22-2018/ideas-for-a-diy-maker-class-for-6th-graders) by [Kmckeown](../profile/Kmckeown)
 - [Could the BabyLegs DIY trawl be used to collect microplastics in my sink?](/notes/warren/10-29-2018/could-the-babylegs-diy-trawl-be-used-to-collect-microplastics-in-my-sink) by [warren](../profile/warren)
-- [Mark Pinksy – A specialized in plastic surgery](/notes/markpinsky/12-11-2018/mark-pinksy-a-specialized-in-plastic-surgery) by [markpinsky](../profile/markpinsky)
-- [PVC Strip Curtains - Austcold Industries Pty Ltd](/notes/austcoldindustries/03-11-2019/pvc-strip-curtains-austcold-industries-pty-ltd) by [austcoldindustries](../profile/austcoldindustries)
-- [Whats is Lip  augmentation](/notes/kingscollege/05-02-2019/whats-is-lip-augmentation) by [kingscollege](../profile/kingscollege)
 - [Can i make a microplastic filter by just putting a nylon over the drain of my washing machine?](/notes/hikinghack/05-12-2019/can-i-make-a-microplastic-filter-by-just-putting-a-nylon-over-the-drain-of-my-washing-machine) by [hikinghack](../profile/hikinghack)
 - [How do I  identify the base polymers in an unknown plastic for recycling? ](/notes/profpearce/05-30-2019/how-do-i-identify-the-base-polymers-in-an-unknown-plastic-for-recycling) by [profpearce](../profile/profpearce)
 - [BabyLegs KS](/wiki/babylegs-ks) (wiki)
@@ -22,11 +19,7 @@
 - [Summary: Public Lab’s microplastics virtual event](/notes/bhamster/09-30-2020/summary-public-lab-s-microplastics-virtual-event) by [bhamster](../profile/bhamster)
 - [Sort and identify plastic polymer debris by density](/notes/bhamster/11-06-2020/sort-and-identify-plastic-polymer-debris-by-density) by [bhamster](../profile/bhamster)
 - [commercial mesh box for filtering plastic nurdles from a river beach](/notes/eustatic/11-03-2020/commercial-mesh-box-for-filtering-plastic-nurdles-from-a-river-beach) by [eustatic](../profile/eustatic)
-- [Best Plastic Surgeon Artist Subscribe to Jakarta, Do You Know?](/notes/Dokter_Bedah_Plastik_Terbaik/12-07-2020/tbest-plastic-surgeon-artist-subscribe-to-jakarta-do-you-know) by [Dokter_Bedah_Plastik_Terbaik](../profile/Dokter_Bedah_Plastik_Terbaik)
 - [Plastic in the Mississippi River:The Malleable Mississippi?](/notes/chadalfonso/04-13-2021/plastic-in-the-mississippi-river-the-malleable-mississippi) by [chadalfonso](../profile/chadalfonso)
-- [California Industrial Rubber Co.](/notes/californiaindustrial/04-14-2021/california-industrial-rubber-co) by [californiaindustrial](../profile/californiaindustrial)
 - [Plastic Waste Makes both the Environment and Living beings Unhealthy ](/notes/Ujitha/07-02-2021/plastic-waste-makes-both-the-environment-and-living-beings-unhealthy) by [Ujitha](../profile/Ujitha)
-- [EXTENDED PRODUCERS RESPONSIBILITY ](/notes/digitaljack11/07-26-2021/extended-producers-responsibility) by [digitaljack11](../profile/digitaljack11)
 - [Announcing New Fellowship Team: Game Over Formosa! ](/notes/stevie/10-19-2021/announcing-new-fellowship-team-game-over-formosa) by [stevie](../profile/stevie)
 - [Event: Messages from the Mississippi Student Art Exhibition](/notes/a1ahna/05-27-2022/event-messages-from-the-mississippi-student-art-exhibition) by [a1ahna](../profile/a1ahna)
-- [small air monitors for PM 10 levels indoors? ](/notes/hdavis/08-03-2024/small-air-monitors-for-pm-10-levels-indoors) by [hdavis](../profile/hdavis)

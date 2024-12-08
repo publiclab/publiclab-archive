@@ -1,12 +1,18 @@
 ---
-nid: 5664
 title: Balloon mapping meetup, Saturday 1/12/13, in San Francisco
-path: public/static/notes/patcoyle/1-21-2013/balloon-mapping-meetup-saturday-11213-san-francisco.md
-uid: 77
 tagnames: balloon-mapping
+author: patcoyle
+path: /notes/patcoyle/1-21-2013/balloon-mapping-meetup-saturday-11213-san-francisco.md
+nid: 5664
+uid: 77
+
 ---
 
 # Balloon mapping meetup, Saturday 1/12/13, in San Francisco
+
+by [patcoyle](../profile/patcoyle) January 21, 2013 18:42
+
+January 21, 2013 18:42 | Tags: [balloon-mapping](../tag/balloon-mapping)
 
 Balloon mapping meetup, Saturday 1/12/13, in San Francisco: Stewart Long posted, Hello, we are getting together to make a map this Saturday. The initial plan is to meet at Fort Mason Green and map around the waterfront at 9. Meeting early to hopefully have low winds. Discuss further at the Public Lab NorCal list. Stewart went with 9AM because the winds are likely to be calmer, and the Niners playoff game is going on after lunch so it's good to be out in front of that.
 

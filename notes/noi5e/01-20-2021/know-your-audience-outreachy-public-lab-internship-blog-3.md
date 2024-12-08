@@ -1,12 +1,18 @@
 ---
-nid: 25507
 title: Know Your Audience - [Outreachy & Public Lab Internship] Blog #3
-path: public/static/notes/noi5e/01-20-2021/know-your-audience-outreachy-public-lab-internship-blog-3.md
+tagnames: coding, blog-submission, outreachy, outreachy-2020
+author: noi5e
+path: /notes/noi5e/01-20-2021/know-your-audience-outreachy-public-lab-internship-blog-3.md
+nid: 25507
 uid: 726270
-tagnames: coding,blog-submission,outreachy,outreachy-2020
+
 ---
 
 # Know Your Audience - [Outreachy & Public Lab Internship] Blog #3
+
+by [noi5e](../profile/noi5e) January 20, 2021 23:03
+
+January 20, 2021 23:03 | Tags: [coding](../tag/coding), [blog-submission](../tag/blog-submission), [outreachy](../tag/outreachy), [outreachy-2020](../tag/outreachy-2020)
 
 Hi again readers! It's time for another blog as one of the Outreachy interns at Public Lab. The theme of this week as selected by the organizers of my internship is *'Think About Your Audience'*.
 

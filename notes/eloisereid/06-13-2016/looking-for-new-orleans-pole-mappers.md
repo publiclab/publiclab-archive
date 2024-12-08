@@ -1,12 +1,18 @@
 ---
-nid: 13193
 title: Looking for New Orleans Pole Mappers
-path: public/static/notes/eloisereid/06-13-2016/looking-for-new-orleans-pole-mappers.md
+tagnames: event, event:rsvp, date:06-13-2016
+author: eloisereid
+path: /notes/eloisereid/06-13-2016/looking-for-new-orleans-pole-mappers.md
+nid: 13193
 uid: 478190
-tagnames: event,event:rsvp,date:06-13-2016
+
 ---
 
 # Looking for New Orleans Pole Mappers
+
+by [eloisereid](../profile/eloisereid) June 13, 2016 17:29
+
+June 13, 2016 17:29 | Tags: [event](../tag/event), [event:rsvp](../tag/event:rsvp), [date:06-13-2016](../tag/date:06-13-2016)
 
 Looking for New Orleans Pole Mappers
 

@@ -1,6 +1,6 @@
 # coding-events
 
-5 notes and wiki pages
+5 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Public Lab Boston/Somerville coding meetup @ Parts & Crafts](/notes/warren/09-03-2015/public-lab-boston-somerville-coding-meetup-parts-crafts) by [warren](../profile/warren)
 - [RAILS GIRLS NAIROBI MEGA CODING EVENT](/notes/stella/03-15-2018/rails-girls-nairobi-mega-coding-event) by [stella](../profile/stella)

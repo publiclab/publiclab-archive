@@ -1,12 +1,18 @@
 ---
-nid: 18090
 title: Call for Summer of Code 2019 mentors!
-path: public/static/notes/warren/01-09-2019/call-for-summer-of-code-2019-mentors.md
+tagnames: software, outreach, gsoc, google, code, software-outreach, rgsoc, soc, summer-of-code, rgsoc-2019, gsoc-2019, soc-2019, call-for-mentors, mentors, mentorship
+author: warren
+path: /notes/warren/01-09-2019/call-for-summer-of-code-2019-mentors.md
+nid: 18090
 uid: 1
-tagnames: software,outreach,gsoc,google,code,software-outreach,rgsoc,soc,summer-of-code,rgsoc-2019,gsoc-2019,soc-2019,call-for-mentors,mentors,mentorship
+
 ---
 
 # Call for Summer of Code 2019 mentors!
+
+by [warren](../profile/warren) January 09, 2019 16:50
+
+January 09, 2019 16:50 | Tags: [software](../tag/software), [outreach](../tag/outreach), [gsoc](../tag/gsoc), [google](../tag/google), [code](../tag/code), [software-outreach](../tag/software-outreach), [rgsoc](../tag/rgsoc), [soc](../tag/soc), [summer-of-code](../tag/summer-of-code), [rgsoc-2019](../tag/rgsoc-2019), [gsoc-2019](../tag/gsoc-2019), [soc-2019](../tag/soc-2019), [call-for-mentors](../tag/call-for-mentors), [mentors](../tag/mentors), [mentorship](../tag/mentorship)
 
 With [Rails Girls Summer of Code](https://railsgirlssummerofcode.org/) (#rgsoc) and [Google Summer of Code](http://summerofcode.withgoogle.com) (#gsoc) 2019 coming up, we're looking ahead to who may be interested in mentoring for these programs. We have participated in both [during the past few years](https://publiclab.org/notes/warren/08-21-2018/congratulations-on-a-great-2018-summer-of-code), and while we are not guaranteed spots, we are planning to apply as an organization.
 

@@ -1,6 +1,6 @@
 # spectralchallenge
 
-10 notes and wiki pages
+10 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Spectral Challenge](/wiki/spectral-challenge) (wiki)
 - [distance spectrometry of refineries: questions](/notes/eustatic/2-3-2013/distance-spectrometry-refineries-questions) by [eustatic](../profile/eustatic)

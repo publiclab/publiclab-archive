@@ -1,12 +1,18 @@
 ---
-nid: 8866
 title: Aerial Imagery Post Processing Tutorials: 3D point clouds, Orthomosaics, and 3D models 
-path: public/static/notes/geobduffy/07-13-2013/aerial-imagery-post-processing-tutorials-3d-point-clouds-orthomosaics-and-3d-models.md
+tagnames: balloon-mapping, kite-mapping, uav, sfm, structure-from-motion, 3d-models, first-time-poster
+author: geobduffy
+path: /notes/geobduffy/07-13-2013/aerial-imagery-post-processing-tutorials-3d-point-clouds-orthomosaics-and-3d-models.md
+nid: 8866
 uid: 60509
-tagnames: balloon-mapping,kite-mapping,uav,sfm,structure-from-motion,3d-models,first-time-poster
+
 ---
 
 # Aerial Imagery Post Processing Tutorials: 3D point clouds, Orthomosaics, and 3D models 
+
+by [geobduffy](../profile/geobduffy) July 13, 2013 13:54
+
+July 13, 2013 13:54 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [uav](../tag/uav), [sfm](../tag/sfm), [structure-from-motion](../tag/structure-from-motion), [3d-models](../tag/3d-models), [first-time-poster](../tag/first-time-poster)
 
 Hello fellow mappers!
 I run a website called [flightriot.com](flightriot.com), which is devoted to advocating purpose driven uses of geospatial technology in personal Unmanned Aerial Vehicles (UAV), with a particular focus on mapping and 3D modeling applications. A major current goal is to complete an aerial imagery post processing open workflow (free for research, education, and personal use) and publish the results for others to use. 

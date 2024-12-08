@@ -1,12 +1,18 @@
 ---
-nid: 10041
 title: Chlorophyll Fluorometer 
-path: public/static/wiki/chlorophyll-fluorometer.md
+tagnames: uv, question, spectroscopy, algae
+author: briandegger
+path: /wiki/chlorophyll-fluorometer.md
+nid: 10041
 uid: 58232
-tagnames: uv,question,spectroscopy,algae
+
 ---
 
 # Chlorophyll Fluorometer 
+
+by [briandegger](../profile/briandegger)
+
+February 15, 2014 17:16 | Tags: [uv](../tag/uv), [question](../tag/question), [spectroscopy](../tag/spectroscopy), [algae](../tag/algae)
 
 A $2000 piece of equipment to measure the amount of chlorophyll in a sample using the fact that it fluoreses under light. 
 Be great to DIY, usefull for tracking algae blooms. 

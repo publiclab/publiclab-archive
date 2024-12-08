@@ -1,6 +1,6 @@
 # maedagua
 
-7 notes and wiki pages
+7 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Mãe d'água - Rede InfoAmazonia ](/wiki/mae-d-agua-rede-infoamazonia) (wiki)
 - [Mãe d'Água](/wiki/mae-d-agua) (wiki)

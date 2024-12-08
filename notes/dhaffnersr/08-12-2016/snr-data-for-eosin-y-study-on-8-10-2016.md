@@ -1,12 +1,18 @@
 ---
-nid: 13349
 title: SNR Data for Eosin Y Study on 8/10/2016
-path: public/static/notes/dhaffnersr/08-12-2016/snr-data-for-eosin-y-study-on-8-10-2016.md
-uid: 461120
 tagnames: 
+author: dhaffnersr
+path: /notes/dhaffnersr/08-12-2016/snr-data-for-eosin-y-study-on-8-10-2016.md
+nid: 13349
+uid: 461120
+
 ---
 
 # SNR Data for Eosin Y Study on 8/10/2016
+
+by [dhaffnersr](../profile/dhaffnersr) August 12, 2016 16:10
+
+August 12, 2016 16:10 | Tags: 
 
 ##**Absorption and Emission of Eosin Y in Ethanol**
 

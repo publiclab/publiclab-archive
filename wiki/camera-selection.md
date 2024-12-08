@@ -1,12 +1,18 @@
 ---
-nid: 799
 title: Camera Selection
-path: public/static/wiki/camera-selection.md
+tagnames: balloon-mapping, near-infrared-camera, kite-mapping, parent:balloon-mapping
+author: gonzoearth
+path: /wiki/camera-selection.md
+nid: 799
 uid: 12
-tagnames: balloon-mapping,near-infrared-camera,kite-mapping,parent:balloon-mapping
+
 ---
 
 # Camera Selection
+
+by [warren](../profile/warren), [hagitkeysar](../profile/hagitkeysar), [Arnaud](../profile/Arnaud), [gonzoearth](../profile/gonzoearth), [mathew](../profile/mathew)
+
+February 17, 2012 23:42 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [parent:balloon-mapping](../tag/parent:balloon-mapping)
 
 ##What kind of camera works best for balloon/kite mapping?##
 

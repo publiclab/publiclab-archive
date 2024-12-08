@@ -1,6 +1,6 @@
 # soc
 
-230 notes and wiki pages
+230 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Developers](/wiki/developers) (wiki)
 - [About Public Lab Questions & Answers](/wiki/public-lab-q-and-a) (wiki)
@@ -54,7 +54,6 @@
 - [GSoc Proposal: OAuth & Upgrade to Bootstrap 4](/notes/bansal_sidharth2996/02-20-2018/gsoc-proposal-oauth-authentication) by [bansal_sidharth2996](../profile/bansal_sidharth2996)
 - [GSoC proposal: v2 API development | Grape | Swagger Specification](/notes/Raounak/02-21-2018/gsoc-proposal-v2-api-development) by [Raounak](../profile/Raounak)
 - [RGSoC: v2 API development](/notes/milaaraujo/02-23-2018/rgsoc-v2-api-development) by [milaaraujo](../profile/milaaraujo)
-- [SoC proposal: Pollution analysis on map ](/notes/sid2111995/02-25-2018/soc-proposal-pollution-analysis-on-map) by [sid2111995](../profile/sid2111995)
 - [SoC proposal: Pollution analysis on google maps](/notes/sid2111995/02-25-2018/soc-proposal-pollution-analysis-on-google-maps) by [sid2111995](../profile/sid2111995)
 - [GSoC proposal: Upgrade to Rails 5](/notes/souravirus/02-25-2018/gsoc-proposal-upgrade-to-rails-5) by [souravirus](../profile/souravirus)
 - [RGSoC proposal: Upgrade to Rails 5 ](/notes/cess/02-27-2018/rgsoc-proposal-upgrade-to-rails-5-email-integration) by [cess](../profile/cess)
@@ -67,7 +66,6 @@
 - [SoC proposal:RGSOC PROPOSAL: Upgrade to Rails 5.1.5 ](/notes/stella/03-14-2018/soc-proposal-rgsoc-proposal-upgrade-to-rails-5-1-5) by [stella](../profile/stella)
 - [RGSoC proposal: Entrepreneurial Network And Enhanced UX](/notes/SrishtyMittal/03-14-2018/rgsoc-proposal-entrepreneurial-network-and-enhanced-ux) by [SrishtyMittal](../profile/SrishtyMittal)
 - [RAILS GIRLS NAIROBI MEGA CODING EVENT](/notes/stella/03-15-2018/rails-girls-nairobi-mega-coding-event) by [stella](../profile/stella)
-- [Data Science Training In Pune](/notes/DataScience/03-19-2018/data-science-training-in-pune) by [DataScience](../profile/DataScience)
 - [GSoC proposal: Computer Vision enhancements for Raspberry Pi based Public Lab Science Projects](/notes/MaggPi/03-20-2018/gsoc-proposal-computer-vision-enhancements-for-raspberry-pi-based-public-lab-science-projects) by [MaggPi](../profile/MaggPi)
 - [Raspberry Pi Microscope/close up lens system](/notes/MaggPi/04-08-2018/raspberry-pi-microscope-close-up-lens-system) by [MaggPi](../profile/MaggPi)
 - [Announcing 10 Summer of Code projects for 2018](/notes/warren/04-23-2018/announcing-9-google-summer-of-code-projects-for-2018) by [warren](../profile/warren)
@@ -140,7 +138,6 @@
 - [SoC proposal: Improving UI and Structure of Leaflet Environmental Layers](/notes/rkpattnaik780/04-05-2019/soc-proposal-improving-ui-and-structure-of-leaflet-environmental-layers) by [rkpattnaik780](../profile/rkpattnaik780)
 - [GSoC proposal: Mapknitter Image Management and Synchronous Editing](/notes/igniteeng000/04-06-2019/gsoc-proposal-mapknitter-image-management) by [igniteeng000](../profile/igniteeng000)
 - [SoC proposal: PublicLab.Editor](/notes/f20171066/04-05-2019/soc-proposal-publiclab-editor) by [f20171066](../profile/f20171066)
-- [SoC proposal: MapKnitter Synchronous Editing.](/notes/juliusmeldrin/04-06-2019/soc-proposal-mapknitter-synchronous-editing) by [juliusmeldrin](../profile/juliusmeldrin)
 - [GSoC proposal: Mapknitter Image Management and Synchronous Editing](/notes/divyabaid16/04-06-2019/gsoc-proposal-mapknitter-image-management-and-synchronous-editing) by [divyabaid16](../profile/divyabaid16)
 - [GSoC proposal: Mapknitter Upgrade to Rails 6](/notes/singhav/04-07-2019/gsoc-proposal-mapknitter-upgrade-to-rails-6) by [singhav](../profile/singhav)
 - [SoC proposal: Image Sequencer](/notes/lohithabhagam123/04-09-2019/soc-proposal-image-sequencer) by [lohithabhagam123](../profile/lohithabhagam123)
@@ -182,7 +179,6 @@
 - [Outreachy proposal: Refine Geographic UI and JS Integration for PublicLab.org](/notes/natalie_stjean/10-29-2019/outreachy-proposal-refine-geographic-ui-and-js-integration-for-publiclab-org) by [natalie_stjean](../profile/natalie_stjean)
 - [Outreachy proposal: ](/notes/Reenesa/11-01-2019/outreachy-proposal) by [Reenesa](../profile/Reenesa)
 - [Career goals after Outreachy](/notes/christie_reni/02-11-2020/career-goals-after-outreachy) by [christie_reni](../profile/christie_reni)
-- [PublicLab: Call for Outreachy and GSOC proposals 2020](/notes/cess/02-24-2020/publiclab-call-for-outreachy-and-gsoc-proposals-2020) by [cess](../profile/cess)
 - [Call for 2020 GSoC proposals](/notes/cess/03-02-2020/call-for-2020-soc-proposals-gsoc-and-outreachy) by [cess](../profile/cess)
 - [GSoC  2020 proposal: Site Wide Accessiblity on PublicLab.org](/notes/suyash1814/03-07-2020/gsoc-2020-proposal-site-wide-accessiblity-on-publiclab-org) by [suyash1814](../profile/suyash1814)
 - [GSoC 2020 Proposal – Implementation of better printability of posts and wiki pages](/notes/susannadiv/03-10-2020/gsoc-2020-proposal-implementation-of-better-printability-of-posts-and-wiki-pages) by [susannadiv](../profile/susannadiv)

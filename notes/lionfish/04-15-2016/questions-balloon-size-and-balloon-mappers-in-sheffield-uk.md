@@ -1,12 +1,18 @@
 ---
-nid: 12981
 title: Questions: Balloon size and balloon mappers in Sheffield, UK
-path: public/static/notes/lionfish/04-15-2016/questions-balloon-size-and-balloon-mappers-in-sheffield-uk.md
+tagnames: balloon-mapping, uk, balloon, eu, sheffield, large
+author: lionfish
+path: /notes/lionfish/04-15-2016/questions-balloon-size-and-balloon-mappers-in-sheffield-uk.md
+nid: 12981
 uid: 470457
-tagnames: balloon-mapping,uk,balloon,eu,sheffield,large
+
 ---
 
 # Questions: Balloon size and balloon mappers in Sheffield, UK
+
+by [lionfish](../profile/lionfish) April 15, 2016 09:22
+
+April 15, 2016 09:22 | Tags: [balloon-mapping](../tag/balloon-mapping), [uk](../tag/uk), [balloon](../tag/balloon), [eu](../tag/eu), [sheffield](../tag/sheffield), [large](../tag/large)
 
 ###What I want to do
 

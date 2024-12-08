@@ -1,12 +1,18 @@
 ---
-nid: 11400
 title: Kite Mapping in Vancouver - Take 1 & Take 2
-path: public/static/notes/MelissaN/11-25-2014/kite-mapping-in-vancouver-take-1-take-2.md
+tagnames: kite-mapping, first-time-poster
+author: MelissaN
+path: /notes/MelissaN/11-25-2014/kite-mapping-in-vancouver-take-1-take-2.md
+nid: 11400
 uid: 305152
-tagnames: kite-mapping,first-time-poster
+
 ---
 
 # Kite Mapping in Vancouver - Take 1 & Take 2
+
+by [MelissaN](../profile/MelissaN) November 25, 2014 02:33
+
+November 25, 2014 02:33 | Tags: [kite-mapping](../tag/kite-mapping), [first-time-poster](../tag/first-time-poster)
 
 ###**Take 1**
 

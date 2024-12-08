@@ -1,12 +1,18 @@
 ---
-nid: 26118
 title: Soil Sampling Toolkit by Citizen Science Community Resources: History and How-To Video
-path: public/static/notes/bhamster/04-07-2021/soil-sampling-toolkit-by-citizen-science-community-resources-history-and-how-to-video.md
+tagnames: video, soil, soil-testing, soil-sampling, soil-testing-toolkit, with:jjcreedon, soil-contamination, with:mike_cscr
+author: bhamster
+path: /notes/bhamster/04-07-2021/soil-sampling-toolkit-by-citizen-science-community-resources-history-and-how-to-video.md
+nid: 26118
 uid: 664477
-tagnames: video,soil,soil-testing,soil-sampling,soil-testing-toolkit,with:jjcreedon,soil-contamination,with:mike_cscr
+
 ---
 
 # Soil Sampling Toolkit by Citizen Science Community Resources: History and How-To Video
+
+by [bhamster](../profile/bhamster) April 07, 2021 15:32
+
+April 07, 2021 15:32 | Tags: [video](../tag/video), [soil](../tag/soil), [soil-testing](../tag/soil-testing), [soil-sampling](../tag/soil-sampling), [soil-testing-toolkit](../tag/soil-testing-toolkit), [with:jjcreedon](../tag/with:jjcreedon), [soil-contamination](../tag/soil-contamination), [with:mike_cscr](../tag/with:mike_cscr)
 
 [Citizen Science Community Resources](https://csresources.org/) and Public Lab co-hosted a virtual tool demo of CSCR's [Soil Sampling Toolkit](https://publiclab.org/wiki/soil-testing-toolkit)! **The open source Toolkit helps community scientists find out and understand what chemicals are in their soil**---in their vegetable gardens, in bare soil around areas where children play, and in their yards due to environmental toxins.
 

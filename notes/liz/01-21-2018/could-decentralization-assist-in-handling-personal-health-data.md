@@ -1,12 +1,18 @@
 ---
-nid: 15575
 title: Could decentralization assist in handling personal health data?
-path: public/static/notes/liz/01-21-2018/could-decentralization-assist-in-handling-personal-health-data.md
+tagnames: health, smart-form, decentralization, ipfs
+author: liz
+path: /notes/liz/01-21-2018/could-decentralization-assist-in-handling-personal-health-data.md
+nid: 15575
 uid: 7
-tagnames: health,smart-form,decentralization,ipfs
+
 ---
 
 # Could decentralization assist in handling personal health data?
+
+by [liz](../profile/liz) January 21, 2018 00:23
+
+January 21, 2018 00:23 | Tags: [health](../tag/health), [smart-form](../tag/smart-form), [decentralization](../tag/decentralization), [ipfs](../tag/ipfs)
 
 There are a few things i have in mind in asking this question,
 

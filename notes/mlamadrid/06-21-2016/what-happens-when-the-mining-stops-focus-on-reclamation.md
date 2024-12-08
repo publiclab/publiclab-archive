@@ -1,12 +1,18 @@
 ---
-nid: 13216
 title: What happens when the mining stops? Focus on Reclamation
-path: public/static/notes/mlamadrid/06-21-2016/what-happens-when-the-mining-stops-focus-on-reclamation.md
+tagnames: wisconsin, mining, blog, frac-sand, midwest, with:mathew, with:gretchengehrke, parent:frac-sand, communityscienceforum, community-science-forum, reclamation, mine-reclamation, evaluating-reclamation
+author: mlamadrid
+path: /notes/mlamadrid/06-21-2016/what-happens-when-the-mining-stops-focus-on-reclamation.md
+nid: 13216
 uid: 45586
-tagnames: wisconsin,mining,blog,frac-sand,midwest,with:mathew,with:gretchengehrke,parent:frac-sand,communityscienceforum,community-science-forum,reclamation,mine-reclamation,evaluating-reclamation
+
 ---
 
 # What happens when the mining stops? Focus on Reclamation
+
+by [mlamadrid](../profile/mlamadrid) June 21, 2016 20:10
+
+June 21, 2016 20:10 | Tags: [wisconsin](../tag/wisconsin), [mining](../tag/mining), [blog](../tag/blog), [frac-sand](../tag/frac-sand), [midwest](../tag/midwest), [with:mathew](../tag/with:mathew), [with:gretchengehrke](../tag/with:gretchengehrke), [parent:frac-sand](../tag/parent:frac-sand), [communityscienceforum](../tag/communityscienceforum), [community-science-forum](../tag/community-science-forum), [reclamation](../tag/reclamation), [mine-reclamation](../tag/mine-reclamation), [evaluating-reclamation](../tag/evaluating-reclamation)
 
 Article by [Gretchen Gehrke](https://publiclab.org/profile/gretchengehrke), [Mathew Lippincott](https://publiclab.org/profile/mathew) and Cheryl Miller for [Community Science Forum: Sand-Frac Issue](https://publiclab.org/forum).
 

@@ -1,12 +1,18 @@
 ---
-nid: 9397
 title: Help!! Problems with spectrophotometer spectra trying to build "countertop" set
-path: public/static/notes/dckim/10-04-2013/help-trying-to-get-spectrophotometer-to-work.md
+tagnames: spectrometer, spectrophotometer, troubleshooting, dsk
+author: dckim
+path: /notes/dckim/10-04-2013/help-trying-to-get-spectrophotometer-to-work.md
+nid: 9397
 uid: 295582
-tagnames: spectrometer,spectrophotometer,troubleshooting,dsk
+
 ---
 
 # Help!! Problems with spectrophotometer spectra trying to build "countertop" set
+
+by [dckim](../profile/dckim) October 04, 2013 03:22
+
+October 04, 2013 03:22 | Tags: [spectrometer](../tag/spectrometer), [spectrophotometer](../tag/spectrophotometer), [troubleshooting](../tag/troubleshooting), [dsk](../tag/dsk)
 
 
 [![Setup1.jpg](https://i.publiclab.org/system/images/photos/000/002/267/medium/Setup1.jpg)](https://i.publiclab.org/system/images/photos/000/002/267/original/Setup1.jpg)

@@ -1,6 +1,6 @@
 # ironbound
 
-4 notes and wiki pages
+4 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Goal setting workshop design](/notes/liz/02-24-2014/goal-setting-workshop-design) by [liz](../profile/liz)
 - [Newark, NJ](/wiki/newark) (wiki)

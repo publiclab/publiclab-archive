@@ -1,12 +1,18 @@
 ---
-nid: 10293
 title: Public Lab is hiring! Job Posting: Kits Initiative Manager
-path: public/static/notes/Shannon/04-10-2014/public-lab-is-hiring-job-posting-kits-initiative-manager.md
-uid: 9
 tagnames: jobs
+author: Shannon
+path: /notes/Shannon/04-10-2014/public-lab-is-hiring-job-posting-kits-initiative-manager.md
+nid: 10293
+uid: 9
+
 ---
 
 # Public Lab is hiring! Job Posting: Kits Initiative Manager
+
+by [Shannon](../profile/Shannon) April 10, 2014 18:47
+
+April 10, 2014 18:47 | Tags: [jobs](../tag/jobs)
 
 **Applications now closed**
 

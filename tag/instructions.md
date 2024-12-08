@@ -1,6 +1,6 @@
 # instructions
 
-12 notes and wiki pages
+12 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Smartphone spectrometer](/wiki/smartphone-spectrometer) (wiki)
 - [Oil Testing Kit](/wiki/oil-testing-kit) (wiki)
@@ -11,6 +11,5 @@
 - [Desktop Spectrometry Starter Kit 3.0 Assembly Instructions](/notes/abdul/10-13-2016/desktop-spectrometry-starter-kit-3-0-instructions) by [abdul](../profile/abdul)
 - [Assemble a DIY Papercraft Spectrometer](/notes/abdul/10-19-2016/foldable-paper-spectrometer-instructions) by [abdul](../profile/abdul)
 - [Getting started with the Infragram Point and Shoot](/notes/abdul/10-21-2016/infragram-point-and-shoot-starting-instructions) by [abdul](../profile/abdul)
-- [Check this inspirational list out! ](/notes/Kaikosog/05-18-2017/check-this-inspirational-list-out) by [Kaikosog](../profile/Kaikosog)
 - [Scissors-only build of wider papercraft spectrometer](/notes/warren/07-06-2017/scissors-only-build-of-wider-papercraft-spectrometer) by [warren](../profile/warren)
 - [Built the entry level paperkit](/notes/Swede2/01-07-2018/built-the-entry-level-paperkit) by [Swede2](../profile/Swede2)

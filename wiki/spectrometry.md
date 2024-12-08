@@ -1,12 +1,18 @@
 ---
-nid: 16
 title: Spectrometry
-path: public/static/wiki/spectrometry.md
+tagnames: spectrometer, spectrometry, list:plots-spectrometry, tool, activities:spectrometry, upgrades:spectrometry, method, chemicals, oil-and-gas, solid, zoom:6, lat:40.346845, lon:-3.827844, place:spain
+author: warren
+path: /wiki/spectrometry.md
+nid: 16
 uid: 1
-tagnames: spectrometer,spectrometry,list:plots-spectrometry,tool,activities:spectrometry,upgrades:spectrometry,method,chemicals,oil-and-gas,solid,zoom:6,lat:40.346845,lon:-3.827844,place:spain
+
 ---
 
 # Spectrometry
+
+by [warren](../profile/warren), [Csollar](../profile/Csollar), [dulce](../profile/dulce), [cpdavngr](../profile/cpdavngr), [liz](../profile/liz), [gretchengehrke](../profile/gretchengehrke), [abdul](../profile/abdul)
+
+December 09, 2010 21:26 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [list:plots-spectrometry](../tag/list:plots-spectrometry), [tool](../tag/tool), [activities:spectrometry](../tag/activities:spectrometry), [upgrades:spectrometry](../tag/upgrades:spectrometry), [method](../tag/method), [chemicals](../tag/chemicals), [oil-and-gas](../tag/oil-and-gas), [solid](../tag/solid), [zoom:6](../tag/zoom:6), [lat:40.346845](../tag/lat:40.346845), [lon:-3.827844](../tag/lon:-3.827844), [place:spain](../tag/place:spain)
 
 The Public Lab spectrometry project is an open source community effort to develop low-cost spectrometers for a range of purposes. All open spectrometry hardware and software efforts are welcome here! 
 

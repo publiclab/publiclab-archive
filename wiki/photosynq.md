@@ -1,12 +1,18 @@
 ---
-nid: 11452
 title: PhotosynQ
-path: public/static/wiki/photosynq.md
+tagnames: photosynq, multispeq
+author: natalie
+path: /wiki/photosynq.md
+nid: 11452
 uid: 424454
-tagnames: photosynq,multispeq
+
 ---
 
 # PhotosynQ
+
+by [natalie](../profile/natalie)
+
+December 12, 2014 22:13 | Tags: [photosynq](../tag/photosynq), [multispeq](../tag/multispeq)
 
                    
 Welcome to PhotosynQ!

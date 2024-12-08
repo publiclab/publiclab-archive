@@ -1,6 +1,6 @@
 # redeinfoamazonia
 
-9 notes and wiki pages
+9 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Rede InfoAmazonia](/notes/vjpixel/07-31-2014/rede-infoamazonia) by [vjpixel](../profile/vjpixel)
 - [Mãe d'água - Rede InfoAmazonia ](/wiki/mae-d-agua-rede-infoamazonia) (wiki)

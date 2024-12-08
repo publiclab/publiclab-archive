@@ -1,12 +1,18 @@
 ---
-nid: 10256
 title: West village 
-path: public/static/notes/FrankVriale/04-03-2014/west-village.md
-uid: 422092
 tagnames: 
+author: FrankVriale
+path: /notes/FrankVriale/04-03-2014/west-village.md
+nid: 10256
+uid: 422092
+
 ---
 
 # West village 
+
+by [FrankVriale](../profile/FrankVriale) April 03, 2014 21:01
+
+April 03, 2014 21:01 | Tags: 
 
 ###What I want to do
 

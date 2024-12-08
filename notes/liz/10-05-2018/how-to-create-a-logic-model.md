@@ -1,12 +1,18 @@
 ---
-nid: 17235
 title: How to create a Logic Model
-path: public/static/notes/liz/10-05-2018/how-to-create-a-logic-model.md
+tagnames: evaluation, activity:evaluation
+author: liz
+path: /notes/liz/10-05-2018/how-to-create-a-logic-model.md
+nid: 17235
 uid: 7
-tagnames: evaluation,activity:evaluation
+
 ---
 
 # How to create a Logic Model
+
+by [liz](../profile/liz) October 05, 2018 21:07
+
+October 05, 2018 21:07 | Tags: [evaluation](../tag/evaluation), [activity:evaluation](../tag/activity:evaluation)
 
 This post begins with some background information, and then lists How-To steps. 
 

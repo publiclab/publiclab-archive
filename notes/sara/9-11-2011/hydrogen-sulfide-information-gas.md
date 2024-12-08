@@ -1,12 +1,18 @@
 ---
-nid: 460
 title: Hydrogen Sulfide Information on the Gas
-path: public/static/notes/sara/9-11-2011/hydrogen-sulfide-information-gas.md
+tagnames: hydrogen-sulfide-sensing, hydrogen-sulfide, h2s
+author: sara
+path: /notes/sara/9-11-2011/hydrogen-sulfide-information-gas.md
+nid: 460
 uid: 8
-tagnames: hydrogen-sulfide-sensing,hydrogen-sulfide,h2s
+
 ---
 
 # Hydrogen Sulfide Information on the Gas
+
+by [sara](../profile/sara) September 11, 2011 17:50
+
+September 11, 2011 17:50 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s)
 
 Information drawn from: http://encyclopedia.airliquide.com/Encyclopedia.asp?GasID=59
 

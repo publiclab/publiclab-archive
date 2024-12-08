@@ -1,6 +1,6 @@
 # civic-hacking
 
-4 notes and wiki pages
+4 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Developing Tools for Mapping Invasive Species in Harpswell Maine](/wiki/developing-tools-for-mapping-invasive-species-in-harpswell-maine) (wiki)
 - [Mobilizing Data to Combat the Evil Green Crab](/notes/code4maine/05-08-2014/mobilizing-data-to-combat-the-evil-green-crab) by [ajawitz](../profile/ajawitz)

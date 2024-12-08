@@ -1,12 +1,18 @@
 ---
-nid: 10462
 title: Public Lab community newsletter 5.10.14
-path: public/static/notes/Shannon/05-10-2014/public-lab-community-newsletter-5-10-14.md
+tagnames: newsletter, newsletter-archive
+author: Shannon
+path: /notes/Shannon/05-10-2014/public-lab-community-newsletter-5-10-14.md
+nid: 10462
 uid: 9
-tagnames: newsletter,newsletter-archive
+
 ---
 
 # Public Lab community newsletter 5.10.14
+
+by [Shannon](../profile/Shannon) May 10, 2014 18:12
+
+May 10, 2014 18:12 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
 
 This week in the Public Lab community newsletter, join in for some open agricultural science hacking at iFarm 2014, participate in the first tool focused Barnraising the first week of June and collaborate with the Public Lab nonprofit team by contributing your web design skills. Enjoy!
 

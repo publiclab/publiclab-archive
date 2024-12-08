@@ -1,12 +1,18 @@
 ---
-nid: 23659
 title: EcoSen -> How healthy are our water resources? (In construction)
-path: public/static/notes/alejobonifacio/05-17-2020/how-healthy-are-our-water-resources.md
+tagnames: new, draft, south-america, argentina, activity:new, first-time-poster, zoom:14, place:cordoba-argentina, zoom:13, lat:-31.42046, lon:-64.18886, lat:-31.42002, lon:-64.188652
+author: alejobonifacio
+path: /notes/alejobonifacio/05-17-2020/how-healthy-are-our-water-resources.md
+nid: 23659
 uid: 639376
-tagnames: new,draft,south-america,argentina,activity:new,first-time-poster,zoom:14,place:cordoba-argentina,zoom:13,lat:-31.42046,lon:-64.18886,lat:-31.42002,lon:-64.188652
+
 ---
 
 # EcoSen -> How healthy are our water resources? (In construction)
+
+by [alejobonifacio](../profile/alejobonifacio) May 17, 2020 20:17
+
+May 17, 2020 20:17 | Tags: [new](../tag/new), [draft](../tag/draft), [south-america](../tag/south-america), [argentina](../tag/argentina), [activity:new](../tag/activity:new), [first-time-poster](../tag/first-time-poster), [zoom:14](../tag/zoom:14), [place:cordoba-argentina](../tag/place:cordoba-argentina), [zoom:13](../tag/zoom:13), [lat:-31.42046](../tag/lat:-31.42046), [lon:-64.18886](../tag/lon:-64.18886), [lat:-31.42002](../tag/lat:-31.42002), [lon:-64.188652](../tag/lon:-64.188652)
 
 ## Purpose
 

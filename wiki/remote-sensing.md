@@ -1,12 +1,18 @@
 ---
-nid: 14618
 title: Remote Sensing
-path: public/static/wiki/remote-sensing.md
+tagnames: remote-sensing, satellite-imagery, historic-aerial, americaview, remote-sensing-data-availability, parent:aerial-imagery-in-the-public-domain
+author: gilbert
+path: /wiki/remote-sensing.md
+nid: 14618
 uid: 508551
-tagnames: remote-sensing,satellite-imagery,historic-aerial,americaview,remote-sensing-data-availability,parent:aerial-imagery-in-the-public-domain
+
 ---
 
 # Remote Sensing
+
+by [warren](../profile/warren), [gilbert](../profile/gilbert)
+
+July 05, 2017 15:46 | Tags: [remote-sensing](../tag/remote-sensing), [satellite-imagery](../tag/satellite-imagery), [historic-aerial](../tag/historic-aerial), [americaview](../tag/americaview), [remote-sensing-data-availability](../tag/remote-sensing-data-availability), [parent:aerial-imagery-in-the-public-domain](../tag/parent:aerial-imagery-in-the-public-domain)
 
 This page lists selected publicly available archival remote sensing data.
 

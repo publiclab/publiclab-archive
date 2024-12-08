@@ -1,12 +1,18 @@
 ---
-nid: 12338
 title: Systematic Imaging of Passive particle monitors on an SEM
-path: public/static/notes/mathew/10-27-2015/systematic-imaging-of-passive-particle-monitors-on-an-sem.md
+tagnames: image-processing, air-quality, dust, silica, particle-sensing, image-analysis, passive-particle-monitors, passive-pm, with:damarquis, with:amberwise, particle-imaging
+author: mathew
+path: /notes/mathew/10-27-2015/systematic-imaging-of-passive-particle-monitors-on-an-sem.md
+nid: 12338
 uid: 4
-tagnames: image-processing,air-quality,dust,silica,particle-sensing,image-analysis,passive-particle-monitors,passive-pm,with:damarquis,with:amberwise,particle-imaging
+
 ---
 
 # Systematic Imaging of Passive particle monitors on an SEM
+
+by [mathew](../profile/mathew) October 27, 2015 20:39
+
+October 27, 2015 20:39 | Tags: [image-processing](../tag/image-processing), [air-quality](../tag/air-quality), [dust](../tag/dust), [silica](../tag/silica), [particle-sensing](../tag/particle-sensing), [image-analysis](../tag/image-analysis), [passive-particle-monitors](../tag/passive-particle-monitors), [passive-pm](../tag/passive-pm), [with:damarquis](../tag/with:damarquis), [with:amberwise](../tag/with:amberwise), [particle-imaging](../tag/particle-imaging)
 
 I did this work with Paul, @Damarquis, Dr. @AmberWise and Dr. Andrew Marselli on the SEM
 

@@ -1,12 +1,18 @@
 ---
-nid: 1789
 title: Mailing lists
-path: public/static/wiki/lists.md
+tagnames: spectrometer, community, kite, help, uk, hello-kitty, mailing-lists, research, forum, forums, lists, discussion, locked, sidebar:none
+author: warren
+path: /wiki/lists.md
+nid: 1789
 uid: 1
-tagnames: spectrometer,community,kite,help,uk,hello-kitty,mailing-lists,research,forum,forums,lists,discussion,locked,sidebar:none
+
 ---
 
 # Mailing lists
+
+by [warren](../profile/warren), [gauravano](../profile/gauravano), [liz](../profile/liz), [stevie](../profile/stevie), [Becki](../profile/Becki), [sydneyluxurycarrentals](../profile/sydneyluxurycarrentals), [topcheapdrones](../profile/topcheapdrones), [jeremyb](../profile/jeremyb), [rjstatic](../profile/rjstatic), [natalie](../profile/natalie), [ann](../profile/ann), [MelissaN](../profile/MelissaN), [bsugar](../profile/bsugar), [ives](../profile/ives), [dbild](../profile/dbild), [cfastie](../profile/cfastie), [gonzoearth](../profile/gonzoearth), [Shannon](../profile/Shannon), [adam-griffith](../profile/adam-griffith), [keimpe](../profile/keimpe)
+
+April 25, 2012 22:14 | Tags: [spectrometer](../tag/spectrometer), [community](../tag/community), [kite](../tag/kite), [help](../tag/help), [uk](../tag/uk), [hello-kitty](../tag/hello-kitty), [mailing-lists](../tag/mailing-lists), [research](../tag/research), [forum](../tag/forum), [forums](../tag/forums), [lists](../tag/lists), [discussion](../tag/discussion), [locked](../tag/locked), [sidebar:none](../tag/sidebar:none)
 
 Stay up to date on community happenings! Subscribe to receive the monthly email newsletter:
 

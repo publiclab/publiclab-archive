@@ -1,12 +1,18 @@
 ---
-nid: 12592
 title: Single vs. dual cameras
-path: public/static/notes/cfastie/01-16-2016/single-vs-dual-cameras.md
+tagnames: ndvi, infrared, filter, infragram, plant-health, dualband, midopt, dichroic, interference, response:12473
+author: cfastie
+path: /notes/cfastie/01-16-2016/single-vs-dual-cameras.md
+nid: 12592
 uid: 554
-tagnames: ndvi,infrared,filter,infragram,plant-health,dualband,midopt,dichroic,interference,response:12473
+
 ---
 
 # Single vs. dual cameras
+
+by [cfastie](../profile/cfastie) January 16, 2016 21:41
+
+January 16, 2016 21:41 | Tags: [ndvi](../tag/ndvi), [infrared](../tag/infrared), [filter](../tag/filter), [infragram](../tag/infragram), [plant-health](../tag/plant-health), [dualband](../tag/dualband), [midopt](../tag/midopt), [dichroic](../tag/dichroic), [interference](../tag/interference), [response:12473](../tag/response:12473)
 
 *Above: Ned Horning taking an aerial photo of the scene for testing filters and calibration targets. December 16, 2015*
 

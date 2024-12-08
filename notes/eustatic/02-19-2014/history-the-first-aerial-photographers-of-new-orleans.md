@@ -1,12 +1,18 @@
 ---
-nid: 10048
 title: History:  the first aerial photographers of New Orleans
-path: public/static/notes/eustatic/02-19-2014/history-the-first-aerial-photographers-of-new-orleans.md
-uid: 379
 tagnames: gulf-coast
+author: eustatic
+path: /02-19-2014/history-the-first-aerial-photographers-of-new-orleans.md
+nid: 10048
+uid: 379
+
 ---
 
 # History:  the first aerial photographers of New Orleans
+
+by [eustatic](../profile/eustatic) February 19, 2014 05:36
+
+February 19, 2014 05:36 | Tags: [gulf-coast](../tag/gulf-coast)
 
 From Richard Campanella:
 

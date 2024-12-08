@@ -1,12 +1,18 @@
 ---
-nid: 14190
 title: How do different time intervals for timelapse cameras affect their required maintenance? 
-path: public/static/notes/cherylh/05-15-2017/how-do-different-time-intervals-for-timelapse-cameras-affect-their-required-maintenance.md
+tagnames: timelapse, answered, question:timelapse, first-time-poster
+author: cherylh
+path: /notes/cherylh/05-15-2017/how-do-different-time-intervals-for-timelapse-cameras-affect-their-required-maintenance.md
+nid: 14190
 uid: 507287
-tagnames: timelapse,answered,question:timelapse,first-time-poster
+
 ---
 
 # How do different time intervals for timelapse cameras affect their required maintenance? 
+
+by [cherylh](../profile/cherylh) May 15, 2017 05:30
+
+May 15, 2017 05:30 | Tags: [timelapse](../tag/timelapse), [answered](../tag/answered), [question:timelapse](../tag/question:timelapse), [first-time-poster](../tag/first-time-poster)
 
 ###What I want to do or know
 [Fair Tech Collective](https://www.fairtechcollective.org/) folks are investigating options for configuring cameras to monitor oil refineries. 

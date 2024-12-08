@@ -1,12 +1,18 @@
 ---
-nid: 13275
 title: Plant Health NDVI Consumer camera vs Professional multispectral camera
-path: public/static/notes/Claytonb/07-09-2016/plant-health-ndvi-consumer-camera-vs-professional-multispectral-camera.md
+tagnames: ndvi, calibration, infrared, near-infrared, infragram, comparison, wratten25a, super-red, red-vs-blue, barnstar:basic, validation, response:12670
+author: Claytonb
+path: /notes/Claytonb/07-09-2016/plant-health-ndvi-consumer-camera-vs-professional-multispectral-camera.md
+nid: 13275
 uid: 460246
-tagnames: ndvi,calibration,infrared,near-infrared,infragram,comparison,wratten25a,super-red,red-vs-blue,barnstar:basic,validation,response:12670
+
 ---
 
 # Plant Health NDVI Consumer camera vs Professional multispectral camera
+
+by [Claytonb](../profile/Claytonb) July 09, 2016 17:50
+
+July 09, 2016 17:50 | Tags: [ndvi](../tag/ndvi), [calibration](../tag/calibration), [infrared](../tag/infrared), [near-infrared](../tag/near-infrared), [infragram](../tag/infragram), [comparison](../tag/comparison), [wratten25a](../tag/wratten25a), [super-red](../tag/super-red), [red-vs-blue](../tag/red-vs-blue), [barnstar:basic](../tag/barnstar:basic), [validation](../tag/validation), [response:12670](../tag/response:12670)
 
 I wanted to share some of my results in comparing a modified consumer camera with a scientific grade multispectral camera when evaluating plant health with NDVI. This note is related to NDVI only as the modified consumer camera tested only has two bands to compare with(Red and NIR). I wanted to see if it was possible to get meaningful and comparable NDVI data from an affordable consumer grade camera vs a scientific multispectral camera and if the difference in price was really worth it.
 

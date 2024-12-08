@@ -1,12 +1,18 @@
 ---
-nid: 3825
 title: Dynamic Reference Spectrometer
-path: public/static/wiki/dynamic-reference-spectrometer.md
-uid: 42579
 tagnames: spectrometer
+author: jasonbarresi
+path: /wiki/dynamic-reference-spectrometer.md
+nid: 3825
+uid: 42579
+
 ---
 
 # Dynamic Reference Spectrometer
+
+by [jasonbarresi](../profile/jasonbarresi)
+
+September 15, 2012 03:11 | Tags: [spectrometer](../tag/spectrometer)
 
 I'm taking a very small step from the portability of other designs. My primary objective is to create a design for desktop spectrometer that is small enough to be portable but large enough to be very adjustable.
 

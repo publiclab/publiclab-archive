@@ -1,12 +1,18 @@
 ---
-nid: 85
 title: Evaluation
-path: public/static/wiki/evaluation.md
+tagnames: community-metrics, evaluation, outcomes
+author: warren
+path: /wiki/evaluation.md
+nid: 85
 uid: 1
-tagnames: community-metrics,evaluation,outcomes
+
 ---
 
 # Evaluation
+
+by [liz](../profile/liz), [warren](../profile/warren)
+
+February 15, 2011 21:47 | Tags: [community-metrics](../tag/community-metrics), [evaluation](../tag/evaluation), [outcomes](../tag/outcomes)
 
 **Welcome! This is the home for all things related to evaluation at Public Lab.** Many different feedback efforts are ongoing in different sectors and we try to coordinate our efforts to minimize survey fatigue or redundancy. @liz leads the evaluation team! See recent work related to evaluation [here](/tag/evaluation), and ask questions below to find out more. 
 

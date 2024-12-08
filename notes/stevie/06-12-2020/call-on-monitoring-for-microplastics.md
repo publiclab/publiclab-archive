@@ -1,12 +1,18 @@
 ---
-nid: 23833
 title: Call on Monitoring for Microplastics
-path: public/static/notes/stevie/06-12-2020/call-on-monitoring-for-microplastics.md
+tagnames: water-quality, microplastics, babylegs, lon:-80, lat:20, zoom:5
+author: stevie
+path: /notes/stevie/06-12-2020/call-on-monitoring-for-microplastics.md
+nid: 23833
 uid: 422561
-tagnames: water-quality,microplastics,babylegs,lon:-80,lat:20,zoom:5
+
 ---
 
 # Call on Monitoring for Microplastics
+
+by [stevie](../profile/stevie) June 12, 2020 20:07
+
+June 12, 2020 20:07 | Tags: [water-quality](../tag/water-quality), [microplastics](../tag/microplastics), [babylegs](../tag/babylegs), [lon:-80](../tag/lon:-80), [lat:20](../tag/lat:20), [zoom:5](../tag/zoom:5)
 
 ## Interested in microplastics? We're looking for you! 
 

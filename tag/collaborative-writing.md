@@ -1,6 +1,6 @@
 # collaborative-writing
 
-4 notes and wiki pages
+4 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Guides](/wiki/guides) (wiki)
 - [Public Lab Writing Group (PLWG)](/wiki/public-lab-writing-group-plwg) (wiki)

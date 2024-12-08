@@ -1,12 +1,18 @@
 ---
-nid: 7993
 title: IR TreeKIT
-path: public/static/notes/cfastie/05-31-2013/ir-treekit.md
+tagnames: near-infrared-camera, nrg, infrared, new-york, infragram, infrablue
+author: cfastie
+path: /notes/cfastie/05-31-2013/ir-treekit.md
+nid: 7993
 uid: 554
-tagnames: near-infrared-camera,nrg,infrared,new-york,infragram,infrablue
+
 ---
 
 # IR TreeKIT
+
+by [cfastie](../profile/cfastie) May 31, 2013 15:19
+
+May 31, 2013 15:19 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [nrg](../tag/nrg), [infrared](../tag/infrared), [new-york](../tag/new-york), [infragram](../tag/infragram), [infrablue](../tag/infrablue)
 
 Liz tweeted a rad Infragram of Brooklyn (above) that deserved some post processing. So here are some fun versions. Should there be a gallery for such images? There is an official Infragram-media wiki, but maybe there should be a less official place to share Infragrams.
 

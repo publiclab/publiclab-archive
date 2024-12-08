@@ -1,12 +1,18 @@
 ---
-nid: 12620
 title: Reporting Forms for Louisiana (and other) pollution events
-path: public/static/notes/eustatic/01-26-2016/reporting-forms-for-louisiana-and-other-pollution-events.md
+tagnames: gulf-coast, evidence, louisiana, reporting, epa, skytruth, otk, citizen, advocacy, lean, gmc, coastguard, deq, reporting-forms, tulane, iwitness, reporting-form
+author: eustatic
+path: /01-26-2016/reporting-forms-for-louisiana-and-other-pollution-events.md
+nid: 12620
 uid: 379
-tagnames: gulf-coast,evidence,louisiana,reporting,epa,skytruth,otk,citizen,advocacy,lean,gmc,coastguard,deq,reporting-forms,tulane,iwitness,reporting-form
+
 ---
 
 # Reporting Forms for Louisiana (and other) pollution events
+
+by [eustatic](../profile/eustatic) January 26, 2016 06:46
+
+January 26, 2016 06:46 | Tags: [gulf-coast](../tag/gulf-coast), [evidence](../tag/evidence), [louisiana](../tag/louisiana), [reporting](../tag/reporting), [epa](../tag/epa), [skytruth](../tag/skytruth), [otk](../tag/otk), [citizen](../tag/citizen), [advocacy](../tag/advocacy), [lean](../tag/lean), [gmc](../tag/gmc), [coastguard](../tag/coastguard), [deq](../tag/deq), [reporting-forms](../tag/reporting-forms), [tulane](../tag/tulane), [iwitness](../tag/iwitness), [reporting-form](../tag/reporting-form)
 
 ###What I want to do
 

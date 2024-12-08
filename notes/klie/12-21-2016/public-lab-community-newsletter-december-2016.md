@@ -1,12 +1,18 @@
 ---
-nid: 13802
 title: Public Lab Community Newsletter: December 2016
-path: public/static/notes/klie/12-21-2016/public-lab-community-newsletter-december-2016.md
+tagnames: balloon-mapping, newsletter, barnraising, lumcon, urban-planning, refugeecamps, bourjalshamali, barnraising-2016
+author: klie
+path: /notes/klie/12-21-2016/public-lab-community-newsletter-december-2016.md
+nid: 13802
 uid: 441262
-tagnames: balloon-mapping,newsletter,barnraising,lumcon,urban-planning,refugeecamps,bourjalshamali,barnraising-2016
+
 ---
 
 # Public Lab Community Newsletter: December 2016
+
+by [klie](../profile/klie) December 21, 2016 18:53
+
+December 21, 2016 18:53 | Tags: [balloon-mapping](../tag/balloon-mapping), [newsletter](../tag/newsletter), [barnraising](../tag/barnraising), [lumcon](../tag/lumcon), [urban-planning](../tag/urban-planning), [refugeecamps](../tag/refugeecamps), [bourjalshamali](../tag/bourjalshamali), [barnraising-2016](../tag/barnraising-2016)
 
 ####**How It Works: Newsletter Relaunch**
 We've relaunched the newsletter and will be sending it out monthly, in addition to sharing it on publiclab.org in the format below! If you previously received them through our main mailing list, please note that you must **[subscribe here if you want to continue receiving them in the future](https://confirmsubscription.com/h/d/280EC1B40351B40B)**. 

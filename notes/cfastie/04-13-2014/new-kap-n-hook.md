@@ -1,12 +1,18 @@
 ---
-nid: 10302
 title: New KAP'n Hook
-path: public/static/notes/cfastie/04-13-2014/new-kap-n-hook.md
+tagnames: balloon-mapping, kite-mapping, vermont, kap, 3d-printing, makerbot, response:10244
+author: cfastie
+path: /notes/cfastie/04-13-2014/new-kap-n-hook.md
+nid: 10302
 uid: 554
-tagnames: balloon-mapping,kite-mapping,vermont,kap,3d-printing,makerbot,response:10244
+
 ---
 
 # New KAP'n Hook
+
+by [cfastie](../profile/cfastie) April 13, 2014 02:54
+
+April 13, 2014 02:54 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [vermont](../tag/vermont), [kap](../tag/kap), [3d-printing](../tag/3d-printing), [makerbot](../tag/makerbot), [response:10244](../tag/response:10244)
 
 I destroyed some more 3D printed parts in the guise of science today. This time I put a spring balance between the hand winch and the kite line to measure the line tension that would break a line hook with kite line wrapped around it. I had one camera recording the fate of the hook, and another recording the tension being applied to the balance.  The video quality is marginal, but the answer is that it takes between 19 and 31 kilograms of pull to break a 3D printed line hook. That’s 42 to 68 pounds of pull. 
 

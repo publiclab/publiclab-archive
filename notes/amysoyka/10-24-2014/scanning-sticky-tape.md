@@ -1,12 +1,18 @@
 ---
-nid: 11297
 title: Scanning Sticky Tape
-path: public/static/notes/amysoyka/10-24-2014/scanning-sticky-tape.md
+tagnames: air-quality, dust, particle-monitoring, asbestos
+author: amysoyka
+path: /notes/amysoyka/10-24-2014/scanning-sticky-tape.md
+nid: 11297
 uid: 422627
-tagnames: air-quality,dust,particle-monitoring,asbestos
+
 ---
 
 # Scanning Sticky Tape
+
+by [amysoyka](../profile/amysoyka) October 24, 2014 02:00
+
+October 24, 2014 02:00 | Tags: [air-quality](../tag/air-quality), [dust](../tag/dust), [particle-monitoring](../tag/particle-monitoring), [asbestos](../tag/asbestos)
 
 ###What I want to do
 

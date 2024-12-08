@@ -1,12 +1,18 @@
 ---
-nid: 12401
 title: Public Lab Spectrometer 3.0
-path: public/static/notes/tonykim55/11-11-2015/public-lab-spectrometer-3-0.md
-uid: 457056
 tagnames: 
+author: tonykim55
+path: /notes/tonykim55/11-11-2015/public-lab-spectrometer-3-0.md
+nid: 12401
+uid: 457056
+
 ---
 
 # Public Lab Spectrometer 3.0
+
+by [tonykim55](../profile/tonykim55) November 11, 2015 02:21
+
+November 11, 2015 02:21 | Tags: 
 
 ###What I want to do
 

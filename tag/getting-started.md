@@ -1,6 +1,6 @@
 # getting-started
 
-20 notes and wiki pages
+20 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Contribute](/contribute) (wiki)
 - [Welcome to Public Lab](/wiki/welcome) (wiki)

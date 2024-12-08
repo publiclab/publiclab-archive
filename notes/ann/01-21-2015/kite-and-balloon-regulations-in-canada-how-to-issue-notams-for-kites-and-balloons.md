@@ -1,12 +1,18 @@
 ---
-nid: 11536
 title: Air Space Regulations in Canada: How to issue NOTAMs for Kites and Balloons
-path: public/static/notes/ann/01-21-2015/kite-and-balloon-regulations-in-canada-how-to-issue-notams-for-kites-and-balloons.md
+tagnames: kite-mapping, canada, northwest, bc, response:11534
+author: ann
+path: /notes/ann/01-21-2015/kite-and-balloon-regulations-in-canada-how-to-issue-notams-for-kites-and-balloons.md
+nid: 11536
 uid: 421543
-tagnames: kite-mapping,canada,northwest,bc,response:11534
+
 ---
 
 # Air Space Regulations in Canada: How to issue NOTAMs for Kites and Balloons
+
+by [ann](../profile/ann) January 21, 2015 20:07
+
+January 21, 2015 20:07 | Tags: [kite-mapping](../tag/kite-mapping), [canada](../tag/canada), [northwest](../tag/northwest), [bc](../tag/bc), [response:11534](../tag/response:11534)
 
 [Note in progress]
 

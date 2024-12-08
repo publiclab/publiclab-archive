@@ -1,12 +1,18 @@
 ---
-nid: 28123
 title: GIS Day 2021 - November 17th!
-path: public/static/notes/laurel_mire/11-16-2021/gis-day-2021-november-17th.md
+tagnames: education, gis, data-visualization, research-curation-fellows
+author: laurel_mire
+path: /notes/laurel_mire/11-16-2021/gis-day-2021-november-17th.md
+nid: 28123
 uid: 759178
-tagnames: education,gis,data-visualization,research-curation-fellows
+
 ---
 
 # GIS Day 2021 - November 17th!
+
+by [laurel_mire](../profile/laurel_mire) November 16, 2021 23:03
+
+November 16, 2021 23:03 | Tags: [education](../tag/education), [gis](../tag/gis), [data-visualization](../tag/data-visualization), [research-curation-fellows](../tag/research-curation-fellows)
 
 *Lead image courtesy of [https://www.gisday.com/en-us/overview][1].*
 

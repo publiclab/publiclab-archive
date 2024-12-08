@@ -1,12 +1,18 @@
 ---
-nid: 12562
 title: Frac Sand
-path: public/static/wiki/frac-sand.md
+tagnames: wisconsin, dust, silica, frac-sand, pm, particle-sensing, particle-monitoring, dust-monitoring, parent:oil-and-gas
+author: stevie
+path: /wiki/frac-sand.md
+nid: 12562
 uid: 422561
-tagnames: wisconsin,dust,silica,frac-sand,pm,particle-sensing,particle-monitoring,dust-monitoring,parent:oil-and-gas
+
 ---
 
 # Frac Sand
+
+by [warren](../profile/warren), [stevie](../profile/stevie), [gretchengehrke](../profile/gretchengehrke), [mathew](../profile/mathew)
+
+January 05, 2016 20:25 | Tags: [wisconsin](../tag/wisconsin), [dust](../tag/dust), [silica](../tag/silica), [frac-sand](../tag/frac-sand), [pm](../tag/pm), [particle-sensing](../tag/particle-sensing), [particle-monitoring](../tag/particle-monitoring), [dust-monitoring](../tag/dust-monitoring), [parent:oil-and-gas](../tag/parent:oil-and-gas)
 
 ## **Industrial Sand Mining in Western Wisconsin:** Resources for Environmental Monitoring and Advocacy 
 

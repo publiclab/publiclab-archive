@@ -1,12 +1,18 @@
 ---
-nid: 547
 title: Spectral libraries
-path: public/static/wiki/spectral-libraries.md
-uid: 1
 tagnames: 
+author: warren
+path: /wiki/spectral-libraries.md
+nid: 547
+uid: 1
+
 ---
 
 # Spectral libraries
+
+by [warren](../profile/warren)
+
+November 07, 2011 15:48 | Tags: 
 
 A collection of online and offline spectral libraries for the [diy spectrometer](/tool/spectrometer) project:
 

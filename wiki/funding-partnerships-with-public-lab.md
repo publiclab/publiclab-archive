@@ -1,12 +1,18 @@
 ---
-nid: 11450
 title: Funding Partnerships with Public Lab
-path: public/static/wiki/funding-partnerships-with-public-lab.md
+tagnames: fundraising, partnerships, grants, parent:fundraising
+author: Becki
+path: /wiki/funding-partnerships-with-public-lab.md
+nid: 11450
 uid: 46673
-tagnames: fundraising,partnerships,grants,parent:fundraising
+
 ---
 
 # Funding Partnerships with Public Lab
+
+by [thewrightjess](../profile/thewrightjess), [lognaturel](../profile/lognaturel), [Becki](../profile/Becki), [warren](../profile/warren), [Shannon](../profile/Shannon)
+
+December 11, 2014 21:33 | Tags: [fundraising](../tag/fundraising), [partnerships](../tag/partnerships), [grants](../tag/grants), [parent:fundraising](../tag/parent:fundraising)
 
 Want to work with the Public Lab non-profit, or know more about how we work with others to fundraise for projects? The non-profit has several models; read on!
 

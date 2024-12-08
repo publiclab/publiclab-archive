@@ -1,12 +1,18 @@
 ---
-nid: 22803
 title: Choosing a method for Particulate Matter Monitoring 
-path: public/static/wiki/choosing-a-method-for-particulate-matter-monitoring.md
+tagnames: air-quality, pm, sensor, passive-particle-monitors, passive-pm, parent:pm, visual-monitoring, particulate-matter
+author: stevie
+path: /wiki/choosing-a-method-for-particulate-matter-monitoring.md
+nid: 22803
 uid: 422561
-tagnames: air-quality,pm,sensor,passive-particle-monitors,passive-pm,parent:pm,visual-monitoring,particulate-matter
+
 ---
 
 # Choosing a method for Particulate Matter Monitoring 
+
+by [bhamster](../profile/bhamster), [stevie](../profile/stevie)
+
+February 13, 2020 16:14 | Tags: [air-quality](../tag/air-quality), [pm](../tag/pm), [sensor](../tag/sensor), [passive-particle-monitors](../tag/passive-particle-monitors), [passive-pm](../tag/passive-pm), [parent:pm](../tag/parent:pm), [visual-monitoring](../tag/visual-monitoring), [particulate-matter](../tag/particulate-matter)
 
 There are many different ways to go about monitoring for particulate matter air pollution. This page will try to break down the benefits and drawbacks of each type of monitoring to help you navigate the method(s) that best suit your interest best. This page reviews types of monitoring practices, and a couple examples of monitoring tools along with each. It is not an exhaustive list, but some of the more well known or documented resources. 
 

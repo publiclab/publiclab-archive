@@ -3,6 +3,8 @@ uid: 60509
 created_at: 2013-04-29 17:21:40 UTC
 ---
 
+# geobduffy
+
 ###Barnstars
 
 <a rel="tooltip" title="The Empirical Barnstar honors those who employ rigorous real world observations to create and improve Public Lab tools and procedures." href="/wiki/barnstars#Empirical+Barnstar"> <img src="http://publiclab.org/system/images/photos/000/001/902/thumb/empirical_300.jpg" width="80" /></a>
@@ -13,5 +15,5 @@ Of particular interest to me is generating VIs such as NDVI using a single camer
 
 ----
 
-[Aerial Imagery Post Processing Tutorials: 3D point clouds, Orthomosaics, and 3D models ](/notes/geobduffy/07-13-2013/aerial-imagery-post-processing-tutorials-3d-point-clouds-orthomosaics-and-3d-models)
-[I Got the InfraBlues - CMOS White Balance Work-around](/notes/geobduffy/07-13-2013/i-got-the-cmos-infrablues-decrypting-custom-white-balance-settings)
+- [Aerial Imagery Post Processing Tutorials: 3D point clouds, Orthomosaics, and 3D models ](/notes/geobduffy/07-13-2013/aerial-imagery-post-processing-tutorials-3d-point-clouds-orthomosaics-and-3d-models)
+- [I Got the InfraBlues - CMOS White Balance Work-around](/notes/geobduffy/07-13-2013/i-got-the-cmos-infrablues-decrypting-custom-white-balance-settings)

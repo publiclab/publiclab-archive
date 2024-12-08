@@ -1,6 +1,6 @@
 # call-for-proposals
 
-14 notes and wiki pages
+14 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Call for Summer of Code 2017 proposals!](/notes/warren/02-28-2017/call-for-proposals) by [warren](../profile/warren)
 - [Call for Summer of Code 2018 proposals!](/notes/warren/02-15-2018/call-for-summer-of-code-2018-proposals) by [warren](../profile/warren)

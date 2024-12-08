@@ -1,12 +1,18 @@
 ---
-nid: 10018
 title: New Concepts for OSHW in Indoor Gardening
-path: public/static/wiki/new-concepts-for-oshw-in-indoor-gardening.md
+tagnames: sensors, garden, datalogger, hydroponics, gardening, data-logging, cannabis
+author: ajawitz
+path: /wiki/new-concepts-for-oshw-in-indoor-gardening.md
+nid: 10018
 uid: 294634
-tagnames: sensors,garden,datalogger,hydroponics,gardening,data-logging,cannabis
+
 ---
 
 # New Concepts for OSHW in Indoor Gardening
+
+by [Aigi666](../profile/Aigi666), [Hanter7](../profile/Hanter7), [cbilgic](../profile/cbilgic), [caldion](../profile/caldion), [ThanhViet](../profile/ThanhViet), [ajawitz](../profile/ajawitz)
+
+February 07, 2014 22:20 | Tags: [sensors](../tag/sensors), [garden](../tag/garden), [datalogger](../tag/datalogger), [hydroponics](../tag/hydroponics), [gardening](../tag/gardening), [data-logging](../tag/data-logging), [cannabis](../tag/cannabis)
 
 ##The Open Source Hydroponic Garden v.2014
 _**NEW! Check out the project repo on Github- https://github.com/Cribstone/OpenHydro**_

@@ -1,12 +1,18 @@
 ---
-nid: 13235
 title: Chinese kite factory 
-path: public/static/notes/shanlter/06-23-2016/chinese-kite-factory.md
+tagnames: kite, history, china, chinese, factory
+author: shanlter
+path: /notes/shanlter/06-23-2016/chinese-kite-factory.md
+nid: 13235
 uid: 420999
-tagnames: kite,history,china,chinese,factory
+
 ---
 
 # Chinese kite factory 
+
+by [shanlter](../profile/shanlter) June 23, 2016 14:32
+
+June 23, 2016 14:32 | Tags: [kite](../tag/kite), [history](../tag/history), [china](../tag/china), [chinese](../tag/chinese), [factory](../tag/factory)
 
 I happened to pass Weifang, which is one of Chinese Kite's birthplace. The old Weifang kite factory is located in a very large and well designed garden, I spent one day to explore :)
 

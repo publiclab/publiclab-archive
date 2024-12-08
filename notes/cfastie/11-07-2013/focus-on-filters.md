@@ -1,12 +1,18 @@
 ---
-nid: 9744
 title: Focus on filters
-path: public/static/notes/cfastie/11-07-2013/focus-on-filters.md
+tagnames: near-infrared-camera, vermont, infrared, a2200, conversion, filter, infragram, focus, infrablue, response:9740, bg3, wratten25a
+author: cfastie
+path: /notes/cfastie/11-07-2013/focus-on-filters.md
+nid: 9744
 uid: 554
-tagnames: near-infrared-camera,vermont,infrared,a2200,conversion,filter,infragram,focus,infrablue,response:9740,bg3,wratten25a
+
 ---
 
 # Focus on filters
+
+by [cfastie](../profile/cfastie) November 07, 2013 16:28
+
+November 07, 2013 16:28 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [vermont](../tag/vermont), [infrared](../tag/infrared), [a2200](../tag/a2200), [conversion](../tag/conversion), [filter](../tag/filter), [infragram](../tag/infragram), [focus](../tag/focus), [infrablue](../tag/infrablue), [response:9740](../tag/response:9740), [bg3](../tag/bg3), [wratten25a](../tag/wratten25a)
 
 Ned Horning has decided that the Canon Powershot A2200 is a good choice for kite, balloon, and UAS aerial photography. He watches the [Canon site where refurbished ones sell for $70](http://shop.usa.canon.com/shop/en/catalog/cameras/refurbished-powershot-digital-cameras/powershot-a2200-blue-refurbished) but sometimes are on sale for $55. He had two A2200s with broken ribbon cables, so I ordered replacements on eBay ($11 for both including shipping) and figured out how to install them. 
 

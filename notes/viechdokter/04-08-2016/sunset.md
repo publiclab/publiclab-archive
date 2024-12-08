@@ -1,12 +1,18 @@
 ---
-nid: 12946
 title: Sunset
-path: public/static/notes/viechdokter/04-08-2016/sunset.md
+tagnames: spectrometry, sunlight, sunset, replication:13460
+author: viechdokter
+path: /notes/viechdokter/04-08-2016/sunset.md
+nid: 12946
 uid: 468990
-tagnames: spectrometry,sunlight,sunset,replication:13460
+
 ---
 
 # Sunset
+
+by [viechdokter](../profile/viechdokter) April 08, 2016 19:38
+
+April 08, 2016 19:38 | Tags: [spectrometry](../tag/spectrometry), [sunlight](../tag/sunlight), [sunset](../tag/sunset), [replication:13460](../tag/replication:13460)
 
 Yesterday I took this wonderfully colourful spectrum of the direct bright sunlight and the less colourful one of the diffuse sunlight. Today after coming home from work I wondered how sunset would affect the spectrum. So here is the bright sun from yesterday:
 

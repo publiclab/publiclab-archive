@@ -1,12 +1,18 @@
 ---
-nid: 11064
 title: MapKnitter Annotations: Riffle Data as Map Annotations
-path: public/static/notes/justinmanley/08-19-2014/mapknitter-annotations-riffle-data-as-map-annotations.md
+tagnames: mapknitter, gsoc, riffle, gsoc-2014, annotations
+author: justinmanley
+path: /notes/justinmanley/08-19-2014/mapknitter-annotations-riffle-data-as-map-annotations.md
+nid: 11064
 uid: 421556
-tagnames: mapknitter,gsoc,riffle,gsoc-2014,annotations
+
 ---
 
 # MapKnitter Annotations: Riffle Data as Map Annotations
+
+by [justinmanley](../profile/justinmanley) August 19, 2014 18:56
+
+August 19, 2014 18:56 | Tags: [mapknitter](../tag/mapknitter), [gsoc](../tag/gsoc), [riffle](../tag/riffle), [gsoc-2014](../tag/gsoc-2014), [annotations](../tag/annotations)
 
 ### What I want to do
 

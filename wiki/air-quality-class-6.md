@@ -1,12 +1,18 @@
 ---
-nid: 6440
 title: air quality class 6
-path: public/static/wiki/air-quality-class-6.md
-uid: 7
 tagnames: chaq
+author: liz
+path: /wiki/air-quality-class-6.md
+nid: 6440
+uid: 7
+
 ---
 
 # air quality class 6
+
+by [liz](../profile/liz), [jmsaavedra](../profile/jmsaavedra)
+
+March 19, 2013 23:43 | Tags: [chaq](../tag/chaq)
 
 <h4><a href="/wiki/air-quality-class">Class Home</a></h4>
 

@@ -1,12 +1,18 @@
 ---
-nid: 13437
 title: Empirical Verification Of Slit Width For The DH4.0 v4 Spectrometer Section II
-path: public/static/notes/dhaffnersr/09-10-2016/empirical-verification-of-slit-width-for-the-dh4-0-v4-spectrometer-section-ii.md
-uid: 461120
 tagnames: 
+author: dhaffnersr
+path: /notes/dhaffnersr/09-10-2016/empirical-verification-of-slit-width-for-the-dh4-0-v4-spectrometer-section-ii.md
+nid: 13437
+uid: 461120
+
 ---
 
 # Empirical Verification Of Slit Width For The DH4.0 v4 Spectrometer Section II
+
+by [dhaffnersr](../profile/dhaffnersr) September 10, 2016 06:51
+
+September 10, 2016 06:51 | Tags: 
 
 ##**Verification through quality control check procedures**
 

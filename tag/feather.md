@@ -1,6 +1,6 @@
 # feather
 
-3 notes and wiki pages
+3 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Adafruit Feathers for datalogging](/notes/cfastie/11-14-2017/adafruit-feathers-for-datalogging) by [cfastie](../profile/cfastie)
 - [Putting sensor data to work](/notes/cfastie/12-03-2017/putting-sensor-data-to-work) by [cfastie](../profile/cfastie)

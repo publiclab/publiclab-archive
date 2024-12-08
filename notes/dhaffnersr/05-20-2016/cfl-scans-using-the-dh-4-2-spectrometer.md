@@ -1,12 +1,18 @@
 ---
-nid: 13133
 title: CFL scans using the DH 4.2 spectrometer 
-path: public/static/notes/dhaffnersr/05-20-2016/cfl-scans-using-the-dh-4-2-spectrometer.md
-uid: 461120
 tagnames: 
+author: dhaffnersr
+path: /notes/dhaffnersr/05-20-2016/cfl-scans-using-the-dh-4-2-spectrometer.md
+nid: 13133
+uid: 461120
+
 ---
 
 # CFL scans using the DH 4.2 spectrometer 
+
+by [dhaffnersr](../profile/dhaffnersr) May 20, 2016 18:56
+
+May 20, 2016 18:56 | Tags: 
 
 I did 8 scans today of a CFL (compact fluorescent light) using a 27 minute random time frame. 
 

@@ -1,12 +1,18 @@
 ---
-nid: 11150
 title: Laser Pointers and the LIF Literature
-path: public/static/notes/mathew/09-17-2014/laser-pointers-and-the-lif-literature.md
+tagnames: spectrometer, uv, laser, fluorescence, oil-testing-kit, literature-review
+author: mathew
+path: /notes/mathew/09-17-2014/laser-pointers-and-the-lif-literature.md
+nid: 11150
 uid: 4
-tagnames: spectrometer,uv,laser,fluorescence,oil-testing-kit,literature-review
+
 ---
 
 # Laser Pointers and the LIF Literature
+
+by [mathew](../profile/mathew) September 17, 2014 23:40
+
+September 17, 2014 23:40 | Tags: [spectrometer](../tag/spectrometer), [uv](../tag/uv), [laser](../tag/laser), [fluorescence](../tag/fluorescence), [oil-testing-kit](../tag/oil-testing-kit), [literature-review](../tag/literature-review)
 
 *LIF stands for Laser Induced Fluorescence.
 

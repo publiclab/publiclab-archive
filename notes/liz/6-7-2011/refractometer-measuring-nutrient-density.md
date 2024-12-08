@@ -1,12 +1,18 @@
 ---
-nid: 339
 title: Refractometer for measuring nutrient density in food
-path: public/static/notes/liz/6-7-2011/refractometer-measuring-nutrient-density.md
+tagnames: refractometer, food, nutrient-density, first-time-poster
+author: liz
+path: /notes/liz/6-7-2011/refractometer-measuring-nutrient-density.md
+nid: 339
 uid: 7
-tagnames: refractometer,food,nutrient-density,first-time-poster
+
 ---
 
 # Refractometer for measuring nutrient density in food
+
+by [liz](../profile/liz) June 07, 2011 15:52
+
+June 07, 2011 15:52 | Tags: [refractometer](../tag/refractometer), [food](../tag/food), [nutrient-density](../tag/nutrient-density), [first-time-poster](../tag/first-time-poster)
 
 <img src="http://realfoodcampaign.org/sites/default/files/refractometer2_0.jpg" alt="Refractrometer from RealFoodCampaign" />
 

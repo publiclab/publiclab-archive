@@ -1,12 +1,18 @@
 ---
-nid: 7823
 title: Infragram convertible cameras
-path: public/static/wiki/infragram-convertible-cameras.md
+tagnames: near-infrared-camera, conversion, filter, infragram, parent:infragram, 74
+author: warren
+path: /wiki/infragram-convertible-cameras.md
+nid: 7823
 uid: 1
-tagnames: near-infrared-camera,conversion,filter,infragram,parent:infragram,74
+
 ---
 
 # Infragram convertible cameras
+
+by [warren](../profile/warren), [jenjimah](../profile/jenjimah), [cfastie](../profile/cfastie), [cindy_excites](../profile/cindy_excites), [funkycbj](../profile/funkycbj), [SWeedenWright](../profile/SWeedenWright), [limon93](../profile/limon93), [arsenix](../profile/arsenix), [davidminn](../profile/davidminn), [carlozousa](../profile/carlozousa), [allie01](../profile/allie01), [AerieWorks](../profile/AerieWorks), [ajchavar](../profile/ajchavar), [Korartiz](../profile/Korartiz), [gpenzo](../profile/gpenzo), [Chernabog](../profile/Chernabog), [danbeavers](../profile/danbeavers), [carllipo](../profile/carllipo)
+
+May 22, 2013 19:11 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [conversion](../tag/conversion), [filter](../tag/filter), [infragram](../tag/infragram), [parent:infragram](../tag/parent:infragram), [74](../tag/74)
 
 A page listing cameras which can be [converted for near-infrared](/wiki/near-infrared-camera), and requests for photos/documentation of cameras to be converted.
 

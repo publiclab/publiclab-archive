@@ -1,6 +1,6 @@
 # upgrade-dssk
 
-13 notes and wiki pages
+13 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [PLab 3 Spectrometer Upgrade Prototype](/notes/stoft/03-02-2015/plab-3-spectrometer-upgrade-prototype) by [stoft](../profile/stoft)
 - [Some Suggestions for Spectrometer v3.0 and Oil Testing Kit (OTK) Attachment](/notes/ygzstc/08-19-2015/some-suggestions-for-spectrometer-v3-0-and-oil-testing-kit-otk-attachment) by [ygzstc](../profile/ygzstc)

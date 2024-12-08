@@ -1,6 +1,6 @@
 # community-organizing
 
-56 notes and wiki pages
+56 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [EPA and Public Lab Revitalize Urban Waters in New Orleans](/notes/Shannon/07-18-2014/epa-and-public-lab-revitalize-urban-waters-in-new-orleans) by [Shannon](../profile/Shannon)
 - [Urban Waters Mapping, NOLA](/wiki/urban-waters-mapping-nola) (wiki)
@@ -21,10 +21,7 @@
 - [Host a Goal Setting Workshop ](/notes/stevie/11-14-2017/host-a-goal-setting-workshop) by [stevie](../profile/stevie)
 - [Workshop: Draft an Issue Brief with a group](/notes/stevie/01-23-2018/workshop-draft-an-issue-brief-with-a-group) by [stevie](../profile/stevie)
 - [Local Environmental Action 2018 in Boston](/notes/warren/02-05-2018/local-environmental-action-2018-in-boston) by [warren](../profile/warren)
-- [Creating a media campaign for casino](/notes/Alovend/06-19-2018/creating-a-media-campaign-for-casino) by [Alovend](../profile/Alovend)
 - [Organizing](/wiki/organizing) (wiki)
-- [~[MEGA 4K] Fast & Furious: Hobbs and Shaw (2019) Pelicula Online gratis!](/notes/tuxi212/07-18-2019/mega-4k-fast-furious-hobbs-and-shaw-2019-pelicula-online-gratis) by [tuxi212](../profile/tuxi212)
-- [First Class Family Law Solicitors - Trust, Empathy & Expertise | Berkson Family Law](/notes/familylawberkson/07-20-2019/first-class-family-law-solicitors-trust-empathy-expertise-berkson-family-law) by [familylawberkson](../profile/familylawberkson)
 - [Introduction to Writing Your Own Website in HTML and CSS](/notes/techlearningcollective/08-03-2019/introduction-to-writing-your-own-website-in-html-and-css) by [techlearningcollective](../profile/techlearningcollective)
 - [Tech Learning as Radical, Queer, Femme, and Collective](/notes/techlearningcollective/08-03-2019/tech-learning-as-radical-queer-femme-and-collective) by [techlearningcollective](../profile/techlearningcollective)
 - [Collecting data about Stormwater Issues through Citizen Science](/notes/panicpuri/09-12-2019/collecting-data-about-stormwater-issues-through-citizen-science) by [panicpuri](../profile/panicpuri)
@@ -55,6 +52,5 @@
 - [Advocacy and Organizing Community Call](/notes/julia_e_masters/08-26-2021/advocacy-and-organizing-community-call) by [julia_e_masters](../profile/julia_e_masters)
 - [Enforcement on inactive permits?](/notes/ekpeterman/10-28-2021/enforcement-on-inactive-permits) by [ekpeterman](../profile/ekpeterman)
 - [What strategies have been implemented to use citizen science successfully in litigation?](/notes/julia_e_masters/01-14-2022/what-strategies-have-been-implemented-to-use-citizen-science-successfully-in-litigation) by [julia_e_masters](../profile/julia_e_masters)
-- [Quickbooks Error H202](/notes/laimrylah/01-21-2022/quickbooks-error-h202) by [laimrylah](../profile/laimrylah)
 - [Seeking a Community Engagement Fellow ](/notes/stevie/04-06-2022/seeking-a-community-engagement-fellow) by [stevie](../profile/stevie)
 - [Introduction to Community Organizing](/notes/julia_e_masters/05-25-2022/introduction-to-community-organizing) by [julia_e_masters](../profile/julia_e_masters)

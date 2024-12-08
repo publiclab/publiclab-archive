@@ -1,12 +1,18 @@
 ---
-nid: 10602
 title: Titan 2 IR
-path: public/static/notes/cfastie/06-22-2014/titan-2-ir.md
+tagnames: balloon-mapping, near-infrared-camera, kite-mapping, ndvi, vermont, infrared, kap, infragram, 3d-printing, gigapan, makerbot, northeast, response:10523, titan, ndvi-ag, category:field-test
+author: cfastie
+path: /notes/cfastie/06-22-2014/titan-2-ir.md
+nid: 10602
 uid: 554
-tagnames: balloon-mapping,near-infrared-camera,kite-mapping,ndvi,vermont,infrared,kap,infragram,3d-printing,gigapan,makerbot,northeast,response:10523,titan,ndvi-ag,category:field-test
+
 ---
 
 # Titan 2 IR
+
+by [cfastie](../profile/cfastie) June 22, 2014 18:19
+
+June 22, 2014 18:19 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [ndvi](../tag/ndvi), [vermont](../tag/vermont), [infrared](../tag/infrared), [kap](../tag/kap), [infragram](../tag/infragram), [3d-printing](../tag/3d-printing), [gigapan](../tag/gigapan), [makerbot](../tag/makerbot), [northeast](../tag/northeast), [response:10523](../tag/response:10523), [titan](../tag/titan), [ndvi-ag](../tag/ndvi-ag), [category:field-test](../tag/category:field-test)
 
 Once again I have been remiss in field testing the aerial camera rigs that I have been designing and building. The [Titan 2 Rig](http://www.kaptery.com/products/?f=product&id=28&name=Titan-2-Rig-Kit) has been available at the KAPtery for five months, but I flew it for the first time last week. Everything performed as expected, and the custom rig I flew is now for sale at the [KAPtery](http://kaptery.com). This package includes the Titan 2 dual camera rig, a Picavet suspension, two cameras (normal and IR), and electronics to trigger the cameras in synchrony.  
 .  

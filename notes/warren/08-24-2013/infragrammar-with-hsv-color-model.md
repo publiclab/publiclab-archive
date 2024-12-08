@@ -1,12 +1,18 @@
 ---
-nid: 9054
 title: Infragrammar with HSV color model
-path: public/static/notes/warren/08-24-2013/infragrammar-with-hsv-color-model.md
+tagnames: near-infrared-camera, ndvi, infragram, processing, compositing, infragram-sandbox, infragrammar, colormap
+author: warren
+path: /notes/warren/08-24-2013/infragrammar-with-hsv-color-model.md
+nid: 9054
 uid: 1
-tagnames: near-infrared-camera,ndvi,infragram,processing,compositing,infragram-sandbox,infragrammar,colormap
+
 ---
 
 # Infragrammar with HSV color model
+
+by [warren](../profile/warren) August 24, 2013 16:12
+
+August 24, 2013 16:12 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [infragram](../tag/infragram), [processing](../tag/processing), [compositing](../tag/compositing), [infragram-sandbox](../tag/infragram-sandbox), [infragrammar](../tag/infragrammar), [colormap](../tag/colormap)
 
 A new idea that evolved [in this thread](https://github.com/Pioneer-Valley-Open-Science/infragram-js/issues/14) -- use the **hue, saturation, value** color model to generate colormaps directly with Infragrammar. While this idea is not fully developed and has had some good criticisms from Ben, I thought this proof of concept was interesting enough to continue exploring. 
 

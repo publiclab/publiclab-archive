@@ -1,12 +1,18 @@
 ---
-nid: 12903
 title: Automating valves using a magnetic position sensor.
-path: public/static/notes/JSummers/04-01-2016/automating-valves-using-a-magnetic-position-sensor.md
+tagnames: 3d-printing, barnstar:basic, syringe, pump, response:11519
+author: JSummers
+path: /notes/JSummers/04-01-2016/automating-valves-using-a-magnetic-position-sensor.md
+nid: 12903
 uid: 304279
-tagnames: 3d-printing,barnstar:basic,syringe,pump,response:11519
+
 ---
 
 # Automating valves using a magnetic position sensor.
+
+by [JSummers](../profile/JSummers) April 01, 2016 20:05
+
+April 01, 2016 20:05 | Tags: [3d-printing](../tag/3d-printing), [barnstar:basic](../tag/barnstar:basic), [syringe](../tag/syringe), [pump](../tag/pump), [response:11519](../tag/response:11519)
 
 ###What I want to do
 This is a part of our bigger program in laboratory automation.  We published an earlier research note (found here) that describes automating a valve that only has to turn about 90 degrees.  In this research note, I describe our work on a more complex type of valve that I will eventually tie into an instrument for automating peptide synthesis.  In this research note, we describe automating an eight port distribution valve.  A distribution valve is a valve that has a center port that can be connected to any one of some specified number of outlet ports. By connecting a syringe pump (like the one we describe in this earlier research note) to the center port, we can withdraw a liquid from any of the outlet ports into the syringe and inject it into any of the other outlet ports.  The ports all are threaded to allow connection of ptfe tubing using the appropriate connectors.  In principle this should be very useful to automate a large number of laboratory tasks. 

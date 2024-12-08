@@ -1,12 +1,18 @@
 ---
-nid: 10146
 title: Infragram Webcam and Arduino
-path: public/static/notes/HoughtonHonors/03-08-2014/infragram-webcam-and-arduino.md
-uid: 420590
 tagnames: radiosonde
+author: HoughtonHonors
+path: /notes/HoughtonHonors/03-08-2014/infragram-webcam-and-arduino.md
+nid: 10146
+uid: 420590
+
 ---
 
 # Infragram Webcam and Arduino
+
+by [HoughtonHonors](../profile/HoughtonHonors) March 08, 2014 22:08
+
+March 08, 2014 22:08 | Tags: [radiosonde](../tag/radiosonde)
 
 I am working on building a radiosonde (weather balloon). From this radiosonde I'd like to take NDVI pictures so I can see how the ratio of infrared to visible light changes with altitude. 
 

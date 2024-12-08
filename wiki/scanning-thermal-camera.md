@@ -1,12 +1,18 @@
 ---
-nid: 630
 title: Scanning thermal camera
-path: public/static/wiki/scanning-thermal-camera.md
+tagnames: thermal-photography, flir, thermal-camera, scanning
+author: warren
+path: /wiki/scanning-thermal-camera.md
+nid: 630
 uid: 1
-tagnames: thermal-photography,flir,thermal-camera,scanning
+
 ---
 
 # Scanning thermal camera
+
+by [warren](../profile/warren)
+
+December 13, 2011 16:20 | Tags: [thermal-photography](../tag/thermal-photography), [flir](../tag/flir), [thermal-camera](../tag/thermal-camera), [scanning](../tag/scanning)
 
 <img src="https://publiclab.org/sites/default/files/thermal-camera_0.png" width="500px" />
 

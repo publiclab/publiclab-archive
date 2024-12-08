@@ -1,12 +1,18 @@
 ---
-nid: 150
 title: Infrared Vegetation Analysis Activity
-path: public/static/wiki/infrared-vegetation-analysis-activity.md
+tagnames: near-infrared-camera, nrg, activity
+author: warren
+path: /wiki/infrared-vegetation-analysis-activity.md
+nid: 150
 uid: 1
-tagnames: near-infrared-camera,nrg,activity
+
 ---
 
 # Infrared Vegetation Analysis Activity
+
+by [warren](../profile/warren)
+
+April 02, 2011 12:53 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [nrg](../tag/nrg), [activity](../tag/activity)
 
 [![An NRG image](http://farm6.static.flickr.com/5302/5581533793_35670ab2c1.jpg)](https://publiclab.org/sites/default/files/nrg.jpg)
 

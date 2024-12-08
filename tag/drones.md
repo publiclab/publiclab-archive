@@ -1,6 +1,6 @@
 # drones
 
-49 notes and wiki pages
+49 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Police Drone Crashes Into Police!](/notes/gonzoearth/3-7-2012/police-drone-crashes-police) by [gonzoearth](../profile/gonzoearth)
 - [NOLA.com : Louisiana coastal erosion being assessed with drones](/notes/shannon/5-15-2012/fwd-nolacom-louisiana-coastal-erosion-being-assessed-drones) by [Shannon](../profile/Shannon)
@@ -18,7 +18,6 @@
 - [Top Down Technologies for Bottom Up Community Action](/notes/bacigalupe/09-04-2017/top-down-technologies-for-bottom-up-community-action) by [bacigalupe](../profile/bacigalupe)
 - [Should I invest in balloons or a drone for windless aerial photography/mapping? ](/notes/Kmckeown/04-12-2018/should-i-invest-in-balloons-or-a-drone-for-windless-aerial-photography-mapping) by [Kmckeown](../profile/Kmckeown)
 - [Use 3-D glasses to modify a camera for infrared](/notes/umberto_rootman/05-17-2020/cheap-sports-cam-mod) by [umberto_rootman](../profile/umberto_rootman)
-- [Sports cam filter mod](/notes/umberto_rootman/05-17-2020/sports-cam-filter-mod) by [umberto_rootman](../profile/umberto_rootman)
 - [Hi Warren. I am interested in your kite-mapping camera rig for mobius or gopro, made from corrugated plastic:https://publiclab.org/notes/warren/08-07-2018/make-a-lightweight-camera-rig-from-corrugated-plastic-or-cardboardHowever, I am a total novice at ki](/notes/mutski/11-29-2020/hi-warren-i-am-interested-in-your-kite-mapping-camera-rig-for-mobius-or-gopro-made-from-corrugated-plastic-https-publiclab-org-notes-warren-08-07-2018-make-a-lightweight-camera-rig-from-corrugated-plastic-or-cardboardhowever-i-am-) by [mutski](../profile/mutski)
 - [Announcing our newest Fellowship Team project! ](/notes/stevie/08-19-2021/announcing-our-newest-fellowship-team-project) by [stevie](../profile/stevie)
 - [The WVDEP says this slip in the hillside is natural, do you think this is the case?](/notes/junior_walk1337/11-29-2021/the-wvdep-says-this-slip-in-the-hillside-is-natural-do-you-think-this-is-the-case) by [junior_walk1337](../profile/junior_walk1337)
@@ -30,7 +29,6 @@
 - [Horse Creek 1/27/22](/notes/junior_walk1337/01-27-2022/horse-creek-1-27-22) by [junior_walk1337](../profile/junior_walk1337)
 - [Water monitoring 101 with Vernon Haltom](/notes/junior_walk1337/01-30-2022/water-monitoring-101-with-vernon-haltom) by [junior_walk1337](../profile/junior_walk1337)
 - [Pettus/Packsville 2/10/22](/notes/junior_walk1337/02-10-2022/pettus-packsville-2-10-22) by [junior_walk1337](../profile/junior_walk1337)
-- [What is Digital Marketing?](/notes/Tknack/02-14-2022/what-is-digital-marketing) by [Tknack](../profile/Tknack)
 - [Ground violations 101 with Vernon Haltom](/notes/junior_walk1337/02-15-2022/ground-violations-101-with-vernon-haltom) by [junior_walk1337](../profile/junior_walk1337)
 - [Montcoal 2/20/22](/notes/junior_walk1337/02-20-2022/montcoal-2-20-22) by [junior_walk1337](../profile/junior_walk1337)
 - [Sycamore 2/21/22](/notes/junior_walk1337/02-21-2022/sycamore-2-21-22) by [junior_walk1337](../profile/junior_walk1337)

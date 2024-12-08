@@ -1,6 +1,6 @@
 # foldable-spec
 
-28 notes and wiki pages
+28 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Foldable Spectrometer Workshop for Cities](/notes/nicholas/02-28-2017/foldable-spectrometer-workshop-for-cities) by [nicholas](../profile/nicholas)
 - [Scissors-only build of wider papercraft spectrometer](/notes/warren/07-06-2017/scissors-only-build-of-wider-papercraft-spectrometer) by [warren](../profile/warren)

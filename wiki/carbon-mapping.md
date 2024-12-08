@@ -1,12 +1,18 @@
 ---
-nid: 360
 title: Carbon mapping
-path: public/static/wiki/carbon-mapping.md
-uid: 1
 tagnames: 
+author: warren
+path: /wiki/carbon-mapping.md
+nid: 360
+uid: 1
+
 ---
 
 # Carbon mapping
+
+by [warren](../profile/warren)
+
+June 27, 2011 16:11 | Tags: 
 
 ###Notes on the potential for quantifying carbon sequestration with balloon mapping or other tools###
 

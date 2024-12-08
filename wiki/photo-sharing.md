@@ -1,12 +1,18 @@
 ---
-nid: 14184
 title: Photo Sharing
-path: public/static/wiki/photo-sharing.md
+tagnames: balloon-mapping, gps, photo-monitoring, timelapse, tool, geo-tagging, lens-distortion, method
+author: warren
+path: /wiki/photo-sharing.md
+nid: 14184
 uid: 1
-tagnames: balloon-mapping,gps,photo-monitoring,timelapse,tool,geo-tagging,lens-distortion,method
+
 ---
 
 # Photo Sharing
+
+by [xose](../profile/xose), [warren](../profile/warren)
+
+May 12, 2017 19:07 | Tags: [balloon-mapping](../tag/balloon-mapping), [gps](../tag/gps), [photo-monitoring](../tag/photo-monitoring), [timelapse](../tag/timelapse), [tool](../tag/tool), [geo-tagging](../tag/geo-tagging), [lens-distortion](../tag/lens-distortion), [method](../tag/method)
 
 In #balloon-mapping, #timelapse, #photo-monitoring and other methods documented on this site, you often end up with thousands of photos, which are hard to upload to the web or share with others. 
 

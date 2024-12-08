@@ -1,12 +1,18 @@
 ---
-nid: 9966
 title: Uncommon Commons event Chicago
-path: public/static/notes/liz/01-23-2014/uncommon-commons-event-chicago.md
+tagnames: events, chicago
+author: liz
+path: /notes/liz/01-23-2014/uncommon-commons-event-chicago.md
+nid: 9966
 uid: 7
-tagnames: events,chicago
+
 ---
 
 # Uncommon Commons event Chicago
+
+by [liz](../profile/liz) January 23, 2014 15:13
+
+January 23, 2014 15:13 | Tags: [events](../tag/events), [chicago](../tag/chicago)
 
 ###Event details
 

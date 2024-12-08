@@ -1,12 +1,18 @@
 ---
-nid: 11237
 title: Sensor Journalism & Water Conductivity Reflection 
-path: public/static/notes/caseyrcampbell327/10-06-2014/sensor-journalism-water-conductivity-reflection.md
-uid: 427892
 tagnames: sensor-journalism
+author: caseyrcampbell327
+path: /notes/caseyrcampbell327/10-06-2014/sensor-journalism-water-conductivity-reflection.md
+nid: 11237
+uid: 427892
+
 ---
 
 # Sensor Journalism & Water Conductivity Reflection 
+
+by [caseyrcampbell327](../profile/caseyrcampbell327) October 06, 2014 14:34
+
+October 06, 2014 14:34 | Tags: [sensor-journalism](../tag/sensor-journalism)
 
 Casey Campbell
 

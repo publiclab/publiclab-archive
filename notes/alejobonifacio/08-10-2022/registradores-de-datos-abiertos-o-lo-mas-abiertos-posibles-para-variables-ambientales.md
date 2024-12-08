@@ -1,12 +1,18 @@
 ---
-nid: 34859
 title: Registradores de datos abiertos (o lo más abiertos posibles) para variables ambientales
-path: public/static/notes/alejobonifacio/08-10-2022/registradores-de-datos-abiertos-o-lo-mas-abiertos-posibles-para-variables-ambientales.md
+tagnames: lat:0, lon:0, zoom:0
+author: alejobonifacio
+path: /notes/alejobonifacio/08-10-2022/registradores-de-datos-abiertos-o-lo-mas-abiertos-posibles-para-variables-ambientales.md
+nid: 34859
 uid: 639376
-tagnames: lat:0,lon:0,zoom:0
+
 ---
 
 # Registradores de datos abiertos (o lo más abiertos posibles) para variables ambientales
+
+by [alejobonifacio](../profile/alejobonifacio) August 10, 2022 19:51
+
+August 10, 2022 19:51 | Tags: [lat:0](../tag/lat:0), [lon:0](../tag/lon:0), [zoom:0](../tag/zoom:0)
 
 Hola gente! Paso por acá solo para comentarles que voy a estar compartiendo instrucciones para la  construcción de registradores de datos con Hardware Abierto a través de [una página de gitHub](https://github.com/Open-Hardware-Leaders/LoRa-Data-Loggers-for-environmental-quality). La página aun está principalmente en inglés pero la idea es ir haciendo una documentación diferente, más como el proyecto abierto y participativo requiere. Por lo pronto, vamos a las instrucciones para medir variables, luego registrarlas y cada vez ir haciendo a los dispositivos lo más independientes de los cables que se pueda.
 

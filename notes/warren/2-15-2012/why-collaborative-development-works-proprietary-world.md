@@ -1,12 +1,18 @@
 ---
-nid: 790
 title: Why Collaborative Development Works in a Proprietary World
-path: public/static/notes/warren/2-15-2012/why-collaborative-development-works-proprietary-world.md
+tagnames: collaboration, licensing, idealab, blog, attribution
+author: warren
+path: /notes/warren/2-15-2012/why-collaborative-development-works-proprietary-world.md
+nid: 790
 uid: 1
-tagnames: collaboration,licensing,idealab,blog,attribution
+
 ---
 
 # Why Collaborative Development Works in a Proprietary World
+
+by [warren](../profile/warren) February 15, 2012 20:08
+
+February 15, 2012 20:08 | Tags: [collaboration](../tag/collaboration), [licensing](../tag/licensing), [idealab](../tag/idealab), [blog](../tag/blog), [attribution](../tag/attribution)
 
 <em>This was re-posted from PBS's <a href="http://www.pbs.org/idealab/2012/02/why-collaborative-development-works-in-a-proprietary-world038.html">IdeaLab blog</a></em>
 

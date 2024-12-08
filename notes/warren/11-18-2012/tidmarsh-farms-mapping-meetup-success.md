@@ -1,12 +1,18 @@
 ---
-nid: 4939
 title: Tidmarsh Farms mapping meetup: success!
-path: public/static/notes/warren/11-18-2012/tidmarsh-farms-mapping-meetup-success.md
+tagnames: near-infrared-camera, kite-mapping, infrared, meetup, tidmarsh
+author: warren
+path: /notes/warren/11-18-2012/tidmarsh-farms-mapping-meetup-success.md
+nid: 4939
 uid: 1
-tagnames: near-infrared-camera,kite-mapping,infrared,meetup,tidmarsh
+
 ---
 
 # Tidmarsh Farms mapping meetup: success!
+
+by [warren](../profile/warren) November 19, 2012 02:49
+
+November 19, 2012 02:49 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [infrared](../tag/infrared), [meetup](../tag/meetup), [tidmarsh](../tag/tidmarsh)
 
 25-30 people showed up in Manomet Massachusetts this weekend and we had a great time kite mapping the [Tidmarsh Farms](/wiki/tidmarsh-farms-meetup) property together despite the cold weather. Here are a few photos and links:
 

@@ -1,12 +1,18 @@
 ---
-nid: 15738
 title: Project management?
-path: public/static/notes/liz/02-14-2018/project-management.md
+tagnames: community, question:general, question:community
+author: liz
+path: /notes/liz/02-14-2018/project-management.md
+nid: 15738
 uid: 7
-tagnames: community,question:general,question:community
+
 ---
 
 # Project management?
+
+by [liz](../profile/liz) February 14, 2018 23:27
+
+February 14, 2018 23:27 | Tags: [community](../tag/community), [question:general](../tag/question:general), [question:community](../tag/question:community)
 
 In a community where we all help each other, there are teams that work together more closely on particular projects. Some teams are all staff, some teams are staff and community members, some are all community members. Sometimes members of other institutions are collaborating too, adding in new set of norms. 
 

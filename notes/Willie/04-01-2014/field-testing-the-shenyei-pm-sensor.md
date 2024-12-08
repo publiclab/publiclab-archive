@@ -1,12 +1,18 @@
 ---
-nid: 10247
 title: Field Testing the Shenyei PM sensor
-path: public/static/notes/Willie/04-01-2014/field-testing-the-shenyei-pm-sensor.md
+tagnames: particulate-sensing, air-quality, dustduino, dust, optical-sensor, academic-journal, response:9818, particulate, pm, shinyei, air-sensors
+author: willie
+path: /notes/Willie/04-01-2014/field-testing-the-shenyei-pm-sensor.md
+nid: 10247
 uid: 235174
-tagnames: particulate-sensing,air-quality,dustduino,dust,optical-sensor,academic-journal,response:9818,particulate,pm,shinyei,air-sensors
+
 ---
 
 # Field Testing the Shenyei PM sensor
+
+by [willie](../profile/willie) April 01, 2014 15:38
+
+April 01, 2014 15:38 | Tags: [particulate-sensing](../tag/particulate-sensing), [air-quality](../tag/air-quality), [dustduino](../tag/dustduino), [dust](../tag/dust), [optical-sensor](../tag/optical-sensor), [academic-journal](../tag/academic-journal), [response:9818](../tag/response:9818), [particulate](../tag/particulate), [pm](../tag/pm), [shinyei](../tag/shinyei), [air-sensors](../tag/air-sensors)
 
 ###Shenyei PPD42NS Gets an Accuracy Test
 

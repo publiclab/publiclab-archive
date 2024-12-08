@@ -1,12 +1,18 @@
 ---
-nid: 9912
 title: Update on Photosynq
-path: public/static/notes/gbathree/12-23-2013/update-on-photosynq.md
-uid: 53164
 tagnames: photosynq
+author: gbathree
+path: /notes/gbathree/12-23-2013/update-on-photosynq.md
+nid: 9912
+uid: 53164
+
 ---
 
 # Update on Photosynq
+
+by [gbathree](../profile/gbathree) December 23, 2013 19:32
+
+December 23, 2013 19:32 | Tags: [photosynq](../tag/photosynq)
 
 This is reposted from http://photosynq.org/countdown-beta-test/ if you want to see more pictures go there -
 

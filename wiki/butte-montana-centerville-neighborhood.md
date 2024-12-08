@@ -1,12 +1,18 @@
 ---
-nid: 446
 title: Butte, Montana: Centerville Neighborhood
-path: public/static/wiki/butte-montana-centerville-neighborhood.md
+tagnames: montana, reclamation
+author: Olivia
+path: /wiki/butte-montana-centerville-neighborhood.md
+nid: 446
 uid: 269
-tagnames: montana,reclamation
+
 ---
 
 # Butte, Montana: Centerville Neighborhood
+
+by [Olivia](../profile/Olivia)
+
+August 29, 2011 03:14 | Tags: [montana](../tag/montana), [reclamation](../tag/reclamation)
 
 <strong>Kites, balloons and 15-foot culms of bamboo are currently mapping Butte’s Centerville Neighborhood. </strong>
 As Butte’s grassroots mappers work to develop new methods to overcome the area's heavy threads of industrial voltage power lines a more comprehensive map of Centerville neighborhood is to come. 

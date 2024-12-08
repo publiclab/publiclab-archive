@@ -1,12 +1,18 @@
 ---
-nid: 10391
 title: Announcing the Infragram Point & Shoot
-path: public/static/notes/mathew/05-02-2014/announcing-the-infragram-point-shoot.md
+tagnames: near-infrared-camera, infrared, kickstarter, infragram, rosco, mobius, wratten, redfilter
+author: mathew
+path: /notes/mathew/05-02-2014/announcing-the-infragram-point-shoot.md
+nid: 10391
 uid: 4
-tagnames: near-infrared-camera,infrared,kickstarter,infragram,rosco,mobius,wratten,redfilter
+
 ---
 
 # Announcing the Infragram Point & Shoot
+
+by [mathew](../profile/mathew) May 02, 2014 05:58
+
+May 02, 2014 05:58 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [infrared](../tag/infrared), [kickstarter](../tag/kickstarter), [infragram](../tag/infragram), [rosco](../tag/rosco), [mobius](../tag/mobius), [wratten](../tag/wratten), [redfilter](../tag/redfilter)
 
 The Infragram Point & Shoot is a [modified Mobius Action Cam](/search/mobius) with a 133 degree wide-angle lens, timelapse and still photography at a resolution of 2304 × 1536, and 1080p video.  It is modified with a [red filter and custom white balance.](http://publiclab.org/notes/cfastie/04-24-2014/mobius-white-balance)
  

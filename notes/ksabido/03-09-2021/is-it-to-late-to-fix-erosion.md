@@ -1,11 +1,17 @@
 ---
-nid: 25879
 title: Is it to late to fix erosion?
-path: public/static/notes/ksabido/03-09-2021/is-it-to-late-to-fix-erosion.md
+tagnames: question:general, general, first-time-poster
+author: ksabido
+path: /notes/ksabido/03-09-2021/is-it-to-late-to-fix-erosion.md
+nid: 25879
 uid: 745908
-tagnames: question:general,general,first-time-poster
+
 ---
 
 # Is it to late to fix erosion?
+
+by [ksabido](../profile/ksabido) March 09, 2021 14:59
+
+March 09, 2021 14:59 | Tags: [question:general](../tag/question:general), [general](../tag/general), [first-time-poster](../tag/first-time-poster)
 
 ![]( alt=)

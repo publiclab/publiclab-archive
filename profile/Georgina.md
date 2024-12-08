@@ -3,6 +3,8 @@ uid: 516039
 created_at: 2017-10-09 21:33:11 UTC
 ---
 
+# Georgina
+
 Since late 2015 I have been a Research Coordinator for the CPRIT Therapeutic Antibody Core at the University of Texas Health Science Center at Houston. My work here focuses on writing, administration, and management of scientific projects, particularly in the area of therapeutic antibodies.   
 
 I have a Bachelor's in Chemical Engineering from Stanford and PhD in Biomedical Engineering from UC Irvine. I worked as a postdoc in tissue engineering at the National University of Singapore, then as an assistant professor at the University of Tsukuba in Japan, studying stem cell biology and radiation effects.  
@@ -17,4 +19,4 @@ Last but not least, I enjoy learning about people and cultures around the world.
 
 ----
 
-[We need help with garden testing after Harvey](/notes/Georgina/10-13-2017/we-need-help-with-garden-testing-after-harvey)
+- [We need help with garden testing after Harvey](/notes/Georgina/10-13-2017/we-need-help-with-garden-testing-after-harvey)

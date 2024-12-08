@@ -1,12 +1,18 @@
 ---
-nid: 4002
 title: Canon A2200 NIR conversion
-path: public/static/notes/nedhorning/9-25-2012/canon-a2200-nir-conversion.md
+tagnames: nir, leaffest, a2200, conversion, infragram-conversion
+author: nedhorning
+path: /notes/nedhorning/9-25-2012/canon-a2200-nir-conversion.md
+nid: 4002
 uid: 133
-tagnames: nir,leaffest,a2200,conversion,infragram-conversion
+
 ---
 
 # Canon A2200 NIR conversion
+
+by [nedhorning](../profile/nedhorning) September 25, 2012 14:08
+
+September 25, 2012 14:08 | Tags: [nir](../tag/nir), [leaffest](../tag/leaffest), [a2200](../tag/a2200), [conversion](../tag/conversion), [infragram-conversion](../tag/infragram-conversion)
 
 Canon A2200 NIR conversion
 

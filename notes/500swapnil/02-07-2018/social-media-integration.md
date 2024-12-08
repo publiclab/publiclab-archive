@@ -1,12 +1,18 @@
 ---
-nid: 15695
 title: GSoC proposal: Calendar Events and Graphs Integration
-path: public/static/notes/500swapnil/02-07-2018/social-media-integration.md
+tagnames: gsoc, soc, gsoc-2018, soc-2018-proposals
+author: 500swapnil
+path: /notes/500swapnil/02-07-2018/social-media-integration.md
+nid: 15695
 uid: 503659
-tagnames: gsoc,soc,gsoc-2018,soc-2018-proposals
+
 ---
 
 # GSoC proposal: Calendar Events and Graphs Integration
+
+by [500swapnil](../profile/500swapnil) February 07, 2018 01:30
+
+February 07, 2018 01:30 | Tags: [gsoc](../tag/gsoc), [soc](../tag/soc), [gsoc-2018](../tag/gsoc-2018), [soc-2018-proposals](../tag/soc-2018-proposals)
 
 ## About me
 

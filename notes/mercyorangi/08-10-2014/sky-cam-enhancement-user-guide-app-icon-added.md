@@ -1,12 +1,18 @@
 ---
-nid: 11028
 title: Sky Cam Enhancement; In-App User guide + App icon added
-path: public/static/notes/mercyorangi/08-10-2014/sky-cam-enhancement-user-guide-app-icon-added.md
+tagnames: gsoc, skycam, gsoc-2014, sky-cam, sky-camera
+author: mercyorangi
+path: /notes/mercyorangi/08-10-2014/sky-cam-enhancement-user-guide-app-icon-added.md
+nid: 11028
 uid: 421649
-tagnames: gsoc,skycam,gsoc-2014,sky-cam,sky-camera
+
 ---
 
 # Sky Cam Enhancement; In-App User guide + App icon added
+
+by [mercyorangi](../profile/mercyorangi) August 10, 2014 21:46
+
+August 10, 2014 21:46 | Tags: [gsoc](../tag/gsoc), [skycam](../tag/skycam), [gsoc-2014](../tag/gsoc-2014), [sky-cam](../tag/sky-cam), [sky-camera](../tag/sky-camera)
 
 ###The user guide..
 An elaborate user-guide has been added to Sky Cam. Under Homepage >> 'Guide' menu >> Sky cam guide

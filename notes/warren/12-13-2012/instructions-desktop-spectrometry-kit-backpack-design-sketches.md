@@ -1,12 +1,18 @@
 ---
-nid: 5190
 title: Instructions for Desktop Spectrometry Kit & 'backpack' design sketches
-path: public/static/notes/warren/12-13-2012/instructions-desktop-spectrometry-kit-backpack-design-sketches.md
+tagnames: spectrometer, guides, kickstarter
+author: warren
+path: /notes/warren/12-13-2012/instructions-desktop-spectrometry-kit-backpack-design-sketches.md
+nid: 5190
 uid: 1
-tagnames: spectrometer,guides,kickstarter
+
 ---
 
 # Instructions for Desktop Spectrometry Kit & 'backpack' design sketches
+
+by [warren](../profile/warren) December 13, 2012 21:01
+
+December 13, 2012 21:01 | Tags: [spectrometer](../tag/spectrometer), [guides](../tag/guides), [kickstarter](../tag/kickstarter)
 
 Quick update; we've completely revised the assembly instructions for the [Desktop Spectrometry Kit](http://shop.breadpig.com/products/desktop-spectrometry-kit) as a folded 1 page brochure-style printout (still letter-sized & monochrome!) with great new line art and 6 simple steps. It includes the CERN Open Hardware License and a list of contributors on the back, and uses the 1" conduit body from the latest design. Download it here:
 

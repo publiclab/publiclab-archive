@@ -1,12 +1,18 @@
 ---
-nid: 16787
 title: Build a budget for Barnraising 
-path: public/static/notes/stevie/07-25-2018/build-a-budget-for-barnraising.md
+tagnames: barnraising, planning, activity:preparations-logistics
+author: stevie
+path: /notes/stevie/07-25-2018/build-a-budget-for-barnraising.md
+nid: 16787
 uid: 422561
-tagnames: barnraising,planning,activity:preparations-logistics
+
 ---
 
 # Build a budget for Barnraising 
+
+by [stevie](../profile/stevie) July 25, 2018 21:16
+
+July 25, 2018 21:16 | Tags: [barnraising](../tag/barnraising), [planning](../tag/planning), [activity:preparations-logistics](../tag/activity:preparations-logistics)
 
 Budgeting for events can be challenging - the costs of things can change, you can have unanticipated expenses, and it can be hard to calculate everything. However, putting a budget together for an event can help you to plan, fundraise, identify things you could ask for donations for, and overall, help you anticipate the actual event costs. This activity is intended to reduce some of the challenges around budgeting. It includes a template for a Barnraising budget and a walk through of how you might adjust it to suit your needs.
 

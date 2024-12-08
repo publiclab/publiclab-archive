@@ -1,12 +1,18 @@
 ---
-nid: 27928
 title: Delving into Air Quality Data for our next Research Area Review
-path: public/static/notes/bhamster/10-18-2021/delving-into-air-quality-data-for-our-next-research-area-review.md
+tagnames: air-quality, reviews, data-visualization, research-area-review, presenting-data, with:fongvania, air-quality-data
+author: bhamster
+path: /notes/bhamster/10-18-2021/delving-into-air-quality-data-for-our-next-research-area-review.md
+nid: 27928
 uid: 664477
-tagnames: air-quality,reviews,data-visualization,research-area-review,presenting-data,with:fongvania,air-quality-data
+
 ---
 
 # Delving into Air Quality Data for our next Research Area Review
+
+by [bhamster](../profile/bhamster) October 18, 2021 18:31
+
+October 18, 2021 18:31 | Tags: [air-quality](../tag/air-quality), [reviews](../tag/reviews), [data-visualization](../tag/data-visualization), [research-area-review](../tag/research-area-review), [presenting-data](../tag/presenting-data), [with:fongvania](../tag/with:fongvania), [air-quality-data](../tag/air-quality-data)
 
 _Lead image: Image: from www.airwatchbayarea.org/_
 

@@ -1,12 +1,18 @@
 ---
-nid: 24756
 title: The concept of community paralegals
-path: public/static/notes/liz/10-16-2020/the-concept-of-community-paralegals.md
+tagnames: legal, lat:35, lon:-79, zoom:13, law-and-policy, community-paralegal, namati
+author: liz
+path: /notes/liz/10-16-2020/the-concept-of-community-paralegals.md
+nid: 24756
 uid: 7
-tagnames: legal,lat:35,lon:-79,zoom:13,law-and-policy,community-paralegal,namati
+
 ---
 
 # The concept of community paralegals
+
+by [liz](../profile/liz) October 16, 2020 20:29
+
+October 16, 2020 20:29 | Tags: [legal](../tag/legal), [lat:35](../tag/lat:35), [lon:-79](../tag/lon:-79), [zoom:13](../tag/zoom:13), [law-and-policy](../tag/law-and-policy), [community-paralegal](../tag/community-paralegal), [namati](../tag/namati)
 
 I'm reading the book **Community Paralegals and the Pursuit of Justice** https://www.cambridge.org/us/academic/subjects/law/human-rights/community-paralegals-and-pursuit-justice (pricey hardcover, free PDF download), and right off the bat was struck by the similarities with how community science relates to the pursuit of justice as an "intermediary institution:" 
 

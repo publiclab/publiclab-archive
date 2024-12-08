@@ -1,12 +1,18 @@
 ---
-nid: 19525
 title: Can you help us with calibrating our spectrometer?
-path: public/static/notes/KristinaTamara/05-26-2019/can-you-help-us-with-calibrating-our-spectrometer.md
+tagnames: spectrometer, calibration, question:spectrometry, first-time-poster, calibrating
+author: KristinaTamara
+path: /notes/KristinaTamara/05-26-2019/can-you-help-us-with-calibrating-our-spectrometer.md
+nid: 19525
 uid: 592485
-tagnames: spectrometer,calibration,question:spectrometry,first-time-poster,calibrating
+
 ---
 
 # Can you help us with calibrating our spectrometer?
+
+by [KristinaTamara](../profile/KristinaTamara) May 26, 2019 18:09
+
+May 26, 2019 18:09 | Tags: [spectrometer](../tag/spectrometer), [calibration](../tag/calibration), [question:spectrometry](../tag/question:spectrometry), [first-time-poster](../tag/first-time-poster), [calibrating](../tag/calibrating)
 
 That would be very helpful for our school project (physics). Thanks in advance.
 

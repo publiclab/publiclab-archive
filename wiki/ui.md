@@ -1,12 +1,18 @@
 ---
-nid: 15043
 title: User interface design
-path: public/static/wiki/ui.md
+tagnames: website, design, autodesk, ux, ui, user-interface, parent:website
+author: warren
+path: /wiki/ui.md
+nid: 15043
 uid: 1
-tagnames: website,design,autodesk,ux,ui,user-interface,parent:website
+
 ---
 
 # User interface design
+
+by [liz](../profile/liz), [warren](../profile/warren)
+
+October 12, 2017 01:07 | Tags: [website](../tag/website), [design](../tag/design), [autodesk](../tag/autodesk), [ux](../tag/ux), [ui](../tag/ui), [user-interface](../tag/user-interface), [parent:website](../tag/parent:website)
 
 User interface design helps us adapt the systems we use to serve a broad set of interests and backgrounds -- especially this very website. In the spirit of Public Lab collaborative work, this page is for sharing and discussing user interface related information. 
 

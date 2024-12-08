@@ -1,12 +1,18 @@
 ---
-nid: 18851
 title: Outreachy proposal: Public Lab UI Improvements
-path: public/static/notes/tonchuks/03-26-2019/outreachy-proposal-public-lab-ui-improvements.md
+tagnames: software, soc, outreachy, response:17359, first-time-poster, soc-2019, outreachy-2019, outreachy-2019-proposals
+author: tonchuks
+path: /notes/tonchuks/03-26-2019/outreachy-proposal-public-lab-ui-improvements.md
+nid: 18851
 uid: 577536
-tagnames: software,soc,outreachy,response:17359,first-time-poster,soc-2019,outreachy-2019,outreachy-2019-proposals
+
 ---
 
 # Outreachy proposal: Public Lab UI Improvements
+
+by [tonchuks](../profile/tonchuks) March 26, 2019 03:45
+
+March 26, 2019 03:45 | Tags: [software](../tag/software), [soc](../tag/soc), [outreachy](../tag/outreachy), [response:17359](../tag/response:17359), [first-time-poster](../tag/first-time-poster), [soc-2019](../tag/soc-2019), [outreachy-2019](../tag/outreachy-2019), [outreachy-2019-proposals](../tag/outreachy-2019-proposals)
 
 ## About me
 

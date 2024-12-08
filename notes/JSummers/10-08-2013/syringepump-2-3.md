@@ -1,12 +1,18 @@
 ---
-nid: 9421
 title: SyringePump 2.3
-path: public/static/notes/JSummers/10-08-2013/syringepump-2-3.md
+tagnames: syringe, pump, first-time-poster
+author: JSummers
+path: /notes/JSummers/10-08-2013/syringepump-2-3.md
+nid: 9421
 uid: 304279
-tagnames: syringe,pump,first-time-poster
+
 ---
 
 # SyringePump 2.3
+
+by [JSummers](../profile/JSummers) October 08, 2013 18:52
+
+October 08, 2013 18:52 | Tags: [syringe](../tag/syringe), [pump](../tag/pump), [first-time-poster](../tag/first-time-poster)
 
 ###What I want to do:  
 I want to develop a syringe pump that can be made by anyone with minimal tools and skills.  Many routine laboratory tasks are subject to automation and syringe pumps are the necessary first component in any automated fluidics project.  Examples of such tasks include routine titrations, making pH buffers.  Other examples could include repetitive synthetic procedures such as solid phase synthesis of things like peptides or DNA primers.  While commercial instruments are available for these types of tasks, they are currently expensive as all get out.

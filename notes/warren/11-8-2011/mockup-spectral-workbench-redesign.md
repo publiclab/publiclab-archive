@@ -1,12 +1,18 @@
 ---
-nid: 551
 title: Mockup for Spectral Workbench redesign
-path: public/static/notes/warren/11-8-2011/mockup-spectral-workbench-redesign.md
-uid: 1
 tagnames: 
+author: warren
+path: /notes/warren/11-8-2011/mockup-spectral-workbench-redesign.md
+nid: 551
+uid: 1
+
 ---
 
 # Mockup for Spectral Workbench redesign
+
+by [warren](../profile/warren) November 09, 2011 03:31
+
+November 09, 2011 03:31 | Tags: 
 
 Spectral Workbench development continues:
 

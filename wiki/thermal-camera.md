@@ -1,12 +1,18 @@
 ---
-nid: 74
 title: Thermal camera
-path: public/static/wiki/thermal-camera.md
-uid: 1
 tagnames: redirect:3
+author: warren
+path: /wiki/thermal-camera.md
+nid: 74
+uid: 1
+
 ---
 
 # Thermal camera
+
+by [warren](../profile/warren)
+
+February 02, 2011 23:15 | Tags: [redirect:3](../tag/redirect:3)
 
 ##Proposed Boston Neighborhood Thermal Camera Project##
 

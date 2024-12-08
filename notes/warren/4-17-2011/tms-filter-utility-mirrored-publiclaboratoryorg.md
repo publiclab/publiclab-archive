@@ -1,12 +1,18 @@
 ---
-nid: 176
 title: tms-filter utility mirrored at publiclaboratory.org
-path: public/static/notes/warren/4-17-2011/tms-filter-utility-mirrored-publiclaboratoryorg.md
-uid: 1
 tagnames: 
+author: warren
+path: /notes/warren/4-17-2011/tms-filter-utility-mirrored-publiclaboratoryorg.md
+nid: 176
+uid: 1
+
 ---
 
 # tms-filter utility mirrored at publiclaboratory.org
+
+by [warren](../profile/warren) April 17, 2011 19:14
+
+April 17, 2011 19:14 | Tags: 
 
 I put up a new mirror of the TMS-filter utility I created with folks at JumpStart/OpenMapsCaucasus:
 

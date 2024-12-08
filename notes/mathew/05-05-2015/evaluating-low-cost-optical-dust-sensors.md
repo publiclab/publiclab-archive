@@ -1,12 +1,18 @@
 ---
-nid: 11783
 title: Evaluating low-cost optical dust sensors
-path: public/static/notes/mathew/05-05-2015/evaluating-low-cost-optical-dust-sensors.md
+tagnames: wisconsin, air-quality, air, dustduino, dust, particulates, speck, particle-sensing, openair, dylos, airbeam, air-sensors
+author: mathew
+path: /notes/mathew/05-05-2015/evaluating-low-cost-optical-dust-sensors.md
+nid: 11783
 uid: 4
-tagnames: wisconsin,air-quality,air,dustduino,dust,particulates,speck,particle-sensing,openair,dylos,airbeam,air-sensors
+
 ---
 
 # Evaluating low-cost optical dust sensors
+
+by [mathew](../profile/mathew) May 05, 2015 00:13
+
+May 05, 2015 00:13 | Tags: [wisconsin](../tag/wisconsin), [air-quality](../tag/air-quality), [air](../tag/air), [dustduino](../tag/dustduino), [dust](../tag/dust), [particulates](../tag/particulates), [speck](../tag/speck), [particle-sensing](../tag/particle-sensing), [openair](../tag/openair), [dylos](../tag/dylos), [airbeam](../tag/airbeam), [air-sensors](../tag/air-sensors)
 
 _image credit: @donblair_
 

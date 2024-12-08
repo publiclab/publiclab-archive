@@ -1,12 +1,18 @@
 ---
-nid: 11532
 title: desktop spectrometer 2
-path: public/static/wiki/desktop-spectrometer-2.md
-uid: 4
 tagnames: prompt:spectrometry
+author: mathew
+path: /wiki/desktop-spectrometer-2.md
+nid: 11532
+uid: 4
+
 ---
 
 # desktop spectrometer 2
+
+by [mathew](../profile/mathew)
+
+January 20, 2015 02:39 | Tags: [prompt:spectrometry](../tag/prompt:spectrometry)
 
 _This page is an archive of the old Desktop Spectrometry Kit page for versions 2 and 2.5:_
 

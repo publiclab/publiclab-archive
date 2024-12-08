@@ -1,12 +1,18 @@
 ---
-nid: 15879
 title: How simple would it be to connect the AS220 wind sensor P to the Mini Pearl Logger?
-path: public/static/notes/warren/03-07-2018/how-simple-would-it-be-to-connect-the-as220-wind-sensor-p-to-the-mini-pearl-logger.md
+tagnames: kite-mapping, as220, air, wind, answered, data-logging, question:data-logging, mini-pearl-logger, aren, wind-speed, question:community-kits, community-kits, question:nasa, question:as220-wind-sensors, question:mini-pearl-logger, question:aren
+author: warren
+path: /notes/warren/03-07-2018/how-simple-would-it-be-to-connect-the-as220-wind-sensor-p-to-the-mini-pearl-logger.md
+nid: 15879
 uid: 1
-tagnames: kite-mapping,as220,air,wind,answered,data-logging,question:data-logging,mini-pearl-logger,aren,wind-speed,question:community-kits,community-kits,question:nasa,question:as220-wind-sensors,question:mini-pearl-logger,question:aren
+
 ---
 
 # How simple would it be to connect the AS220 wind sensor P to the Mini Pearl Logger?
+
+by [warren](../profile/warren) March 07, 2018 14:47
+
+March 07, 2018 14:47 | Tags: [kite-mapping](../tag/kite-mapping), [as220](../tag/as220), [air](../tag/air), [wind](../tag/wind), [answered](../tag/answered), [data-logging](../tag/data-logging), [question:data-logging](../tag/question:data-logging), [mini-pearl-logger](../tag/mini-pearl-logger), [aren](../tag/aren), [wind-speed](../tag/wind-speed), [question:community-kits](../tag/question:community-kits), [community-kits](../tag/community-kits), [question:nasa](../tag/question:nasa), [question:as220-wind-sensors](../tag/question:as220-wind-sensors), [question:mini-pearl-logger](../tag/question:mini-pearl-logger), [question:aren](../tag/question:aren)
 
 [https://moderndevice.com/product/wind-sensor-rev-p/](https://moderndevice.com/product/wind-sensor-rev-p/)
 

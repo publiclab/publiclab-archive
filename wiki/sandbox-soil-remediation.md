@@ -1,12 +1,18 @@
 ---
-nid: 25908
 title: sandbox-soil-remediation
-path: public/static/wiki/sandbox-soil-remediation.md
-uid: 664477
 tagnames: 
+author: bhamster
+path: /wiki/sandbox-soil-remediation.md
+nid: 25908
+uid: 664477
+
 ---
 
 # sandbox-soil-remediation
+
+by [bhamster](../profile/bhamster)
+
+March 12, 2021 19:32 | Tags: 
 
 **Soil remediation involves cleaning up polluted soils**. There are many different ways to reduce exposure to contaminated soils, and remediation methods vary in how effective they are and how much they actually reduce the problem or simply move the problem from one place to another. 
 

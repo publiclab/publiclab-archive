@@ -1,12 +1,18 @@
 ---
-nid: 6060
 title: Opening up a Spectronic 20
-path: public/static/notes/warren/2-19-2013/opening-spectronic-20.md
+tagnames: spectrometer, spectronic20, teardown
+author: warren
+path: /notes/warren/2-19-2013/opening-spectronic-20.md
+nid: 6060
 uid: 1
-tagnames: spectrometer,spectronic20,teardown
+
 ---
 
 # Opening up a Spectronic 20
+
+by [warren](../profile/warren) February 20, 2013 00:27
+
+February 20, 2013 00:27 | Tags: [spectrometer](../tag/spectrometer), [spectronic20](../tag/spectronic20), [teardown](../tag/teardown)
 
 I finally opened the Spectronic 20 underside and here's what it looks like! Great to see they just use an incandescent bulb.
 

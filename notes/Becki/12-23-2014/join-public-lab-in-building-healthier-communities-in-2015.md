@@ -1,12 +1,18 @@
 ---
-nid: 11495
 title: Join Public Lab in building healthier communities in 2015
-path: public/static/notes/Becki/12-23-2014/join-public-lab-in-building-healthier-communities-in-2015.md
-uid: 46673
 tagnames: 
+author: Becki
+path: /notes/Becki/12-23-2014/join-public-lab-in-building-healthier-communities-in-2015.md
+nid: 11495
+uid: 46673
+
 ---
 
 # Join Public Lab in building healthier communities in 2015
+
+by [Becki](../profile/Becki) December 23, 2014 18:09
+
+December 23, 2014 18:09 | Tags: 
 
 Show your support for polluter accountability and healthy communities in 2015 by making a tax deductible donation to Public Lab. **Over the holiday season, our goal is to raise $5,000 in individual donations.** Thanks to your generosity on #GivingTuesday, we’re 20% of the way there - help us reach our goal by December 31st!
 

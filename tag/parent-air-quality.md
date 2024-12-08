@@ -1,6 +1,6 @@
 # parent-air-quality
 
-14 notes and wiki pages
+14 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Hydrogen Sulfide](/wiki/hydrogen-sulfide) (wiki)
 - [Particle Sensing](/wiki/particle-sensing) (wiki)

@@ -1,12 +1,18 @@
 ---
-nid: 10324
 title: Mobius and NIR
-path: public/static/notes/cfastie/04-17-2014/mobius-and-nir.md
+tagnames: near-infrared-camera, ndvi, infrared, infragram, histogram, led, infragram-sandbox, mobius-actioncam, frosted-globe, response:10291, mobius
+author: cfastie
+path: /notes/cfastie/04-17-2014/mobius-and-nir.md
+nid: 10324
 uid: 554
-tagnames: near-infrared-camera,ndvi,infrared,infragram,histogram,led,infragram-sandbox,mobius-actioncam,frosted-globe,response:10291,mobius
+
 ---
 
 # Mobius and NIR
+
+by [cfastie](../profile/cfastie) April 17, 2014 17:39
+
+April 17, 2014 17:39 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [infrared](../tag/infrared), [infragram](../tag/infragram), [histogram](../tag/histogram), [led](../tag/led), [infragram-sandbox](../tag/infragram-sandbox), [mobius-actioncam](../tag/mobius-actioncam), [frosted-globe](../tag/frosted-globe), [response:10291](../tag/response:10291), [mobius](../tag/mobius)
 
 _Above: The Mobius ActionCam (top), one of the earlier "spy" cams (lower), and LEDs for testing._
 

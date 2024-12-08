@@ -1,6 +1,6 @@
 # flare
 
-19 notes and wiki pages
+19 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [monitoring industrial H2S sources in new orleans area](/notes/eustatic/8-6-2012/monitoring-industrial-h2s-sources-new-orleans-area) by [eustatic](../profile/eustatic)
 - [Attempt at Distance Spectrometery](/notes/jetson/1-27-2013/attempt-distance-spectrometery) by [jetson](../profile/jetson)

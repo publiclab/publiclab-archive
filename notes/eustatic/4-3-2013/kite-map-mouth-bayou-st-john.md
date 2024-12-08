@@ -1,12 +1,18 @@
 ---
-nid: 6665
 title: Kite Map of the mouth of Bayou St John
-path: public/static/notes/eustatic/4-3-2013/kite-map-mouth-bayou-st-john.md
+tagnames: gulf-coast, kite-mapping, eustatic, dredgefestla, bsj
+author: eustatic
+path: /4-3-2013/kite-map-mouth-bayou-st-john.md
+nid: 6665
 uid: 379
-tagnames: gulf-coast,kite-mapping,eustatic,dredgefestla,bsj
+
 ---
 
 # Kite Map of the mouth of Bayou St John
+
+by [eustatic](../profile/eustatic) April 03, 2013 13:54
+
+April 03, 2013 13:54 | Tags: [gulf-coast](../tag/gulf-coast), [kite-mapping](../tag/kite-mapping), [eustatic](../tag/eustatic), [dredgefestla](../tag/dredgefestla), [bsj](../tag/bsj)
 
 https://mapknitter.org/maps/mouth-of-bayou-st-john-from-lake-terrace
 

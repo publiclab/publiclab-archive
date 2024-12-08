@@ -1,12 +1,18 @@
 ---
-nid: 24956
 title: Empowering People to Act on Air Pollution
-path: public/static/notes/A_SCH/11-08-2020/empowering-people-to-act-on-air-pollution-draft.md
+tagnames: organizing, bucket-brigade, with:kgradow1, advocacy, community-organizing, advocacy-pathways, bucket-monitor
+author: A_SCH
+path: /notes/A_SCH/11-08-2020/empowering-people-to-act-on-air-pollution-draft.md
+nid: 24956
 uid: 704145
-tagnames: organizing,bucket-brigade,with:kgradow1,advocacy,community-organizing,advocacy-pathways,bucket-monitor
+
 ---
 
 # Empowering People to Act on Air Pollution
+
+by [A_SCH](../profile/A_SCH) November 08, 2020 22:35
+
+November 08, 2020 22:35 | Tags: [organizing](../tag/organizing), [bucket-brigade](../tag/bucket-brigade), [with:kgradow1](../tag/with:kgradow1), [advocacy](../tag/advocacy), [community-organizing](../tag/community-organizing), [advocacy-pathways](../tag/advocacy-pathways), [bucket-monitor](../tag/bucket-monitor)
 
 Co-authored by: Bongani Mthembu and Desmond D'Sa, [South Durban Community Environmental Alliance](https://sdcea.co.za/), Rico Euripidou, [groundWork, Friends of the Earth South Africa](https://www.groundwork.org.za/)
 

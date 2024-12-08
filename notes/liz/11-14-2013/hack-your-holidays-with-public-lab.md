@@ -1,12 +1,18 @@
 ---
-nid: 9780
 title: Hack your holidays with Public Lab!
-path: public/static/notes/liz/11-14-2013/hack-your-holidays-with-public-lab.md
+tagnames: kits, store, holidays, great-photos, kits-initiative
+author: liz
+path: /notes/liz/11-14-2013/hack-your-holidays-with-public-lab.md
+nid: 9780
 uid: 7
-tagnames: kits,store,holidays,great-photos,kits-initiative
+
 ---
 
 # Hack your holidays with Public Lab!
+
+by [liz](../profile/liz) November 14, 2013 22:15
+
+November 14, 2013 22:15 | Tags: [kits](../tag/kits), [store](../tag/store), [holidays](../tag/holidays), [great-photos](../tag/great-photos), [kits-initiative](../tag/kits-initiative)
 
 **This winter, choose gifts that delight your loved ones AND help support your favorite non-profit organization, Public Lab.** 
 

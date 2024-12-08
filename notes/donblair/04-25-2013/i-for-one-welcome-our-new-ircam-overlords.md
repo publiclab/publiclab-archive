@@ -1,12 +1,18 @@
 ---
-nid: 7036
 title: I For One Welcome Our New IRCAM Overlords
-path: public/static/notes/donblair/04-25-2013/i-for-one-welcome-our-new-ircam-overlords.md
+tagnames: near-infrared-camera, raspberry-pi, infrared-camera, nvdi
+author: donblair
+path: /notes/donblair/04-25-2013/i-for-one-welcome-our-new-ircam-overlords.md
+nid: 7036
 uid: 43651
-tagnames: near-infrared-camera,raspberry-pi,infrared-camera,nvdi
+
 ---
 
 # I For One Welcome Our New IRCAM Overlords
+
+by [donblair](../profile/donblair) April 25, 2013 00:34
+
+April 25, 2013 00:34 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [raspberry-pi](../tag/raspberry-pi), [infrared-camera](../tag/infrared-camera), [nvdi](../tag/nvdi)
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/cglic_UuFP4" frameborder="0" allowfullscreen></iframe>
 

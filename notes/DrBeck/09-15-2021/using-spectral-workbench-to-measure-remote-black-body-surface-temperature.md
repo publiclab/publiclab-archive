@@ -1,12 +1,18 @@
 ---
-nid: 27726
 title: Using Spectral Workbench to measure remote "black-body" surface temperature
-path: public/static/notes/DrBeck/09-15-2021/using-spectral-workbench-to-measure-remote-black-body-surface-temperature.md
+tagnames: lat:0, lon:0, first-time-poster, zoom:1
+author: DrBeck
+path: /notes/DrBeck/09-15-2021/using-spectral-workbench-to-measure-remote-black-body-surface-temperature.md
+nid: 27726
 uid: 754147
-tagnames: lat:0,lon:0,first-time-poster,zoom:1
+
 ---
 
 # Using Spectral Workbench to measure remote "black-body" surface temperature
+
+by [DrBeck](../profile/DrBeck) September 15, 2021 03:22
+
+September 15, 2021 03:22 | Tags: [lat:0](../tag/lat:0), [lon:0](../tag/lon:0), [first-time-poster](../tag/first-time-poster), [zoom:1](../tag/zoom:1)
 
 GOAL: To acquire spectra of stellar objects and calibrate/analyze them with the Spectral Workbench tool, so that one may easily extract a surface temperature from these 'black-body' emitters.  By so doing, we can refine yet another approach to remote sensing of temperature from gaseous emitters at great distance.  And..its fun!
 

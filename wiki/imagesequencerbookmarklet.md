@@ -1,12 +1,18 @@
 ---
-nid: 15666
 title: ImageSequencerBookmarklet
-path: public/static/wiki/imagesequencerbookmarklet.md
+tagnames: ndvi, sidebar:none, image-sequencer
+author: tech4gt
+path: /wiki/imagesequencerbookmarklet.md
+nid: 15666
 uid: 523178
-tagnames: ndvi,sidebar:none,image-sequencer
+
 ---
 
 # ImageSequencerBookmarklet
+
+by [warren](../profile/warren), [Aisha](../profile/Aisha), [tech4gt](../profile/tech4gt)
+
+February 02, 2018 16:26 | Tags: [ndvi](../tag/ndvi), [sidebar:none](../tag/sidebar:none), [image-sequencer](../tag/image-sequencer)
 
 ## Leaflet plugin
 

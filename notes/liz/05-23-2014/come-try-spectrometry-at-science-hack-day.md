@@ -1,12 +1,18 @@
 ---
-nid: 10507
 title: Come try spectrometry at Science Hack Day
-path: public/static/notes/liz/05-23-2014/come-try-spectrometry-at-science-hack-day.md
+tagnames: new-york-city, spectrometry, event
+author: liz
+path: /notes/liz/05-23-2014/come-try-spectrometry-at-science-hack-day.md
+nid: 10507
 uid: 7
-tagnames: new-york-city,spectrometry,event
+
 ---
 
 # Come try spectrometry at Science Hack Day
+
+by [liz](../profile/liz) May 23, 2014 21:41
+
+May 23, 2014 21:41 | Tags: [new-york-city](../tag/new-york-city), [spectrometry](../tag/spectrometry), [event](../tag/event)
 
 ###Event details
 

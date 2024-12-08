@@ -1,6 +1,6 @@
 # mine-reclamation-photography
 
-3 notes and wiki pages
+3 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Grassroots Mapping Coal River](/wiki/grassroots-mapping-coal-river) (wiki)
 - [The Mountains and Mines Monitoring Project](/wiki/the-mountains-and-mines-monitoring-project) (wiki)

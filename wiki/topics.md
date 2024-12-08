@@ -1,12 +1,18 @@
 ---
-nid: 18825
 title: Topics
-path: public/static/wiki/topics.md
+tagnames: website, agriculture, soil, organizing, waste, transportation, mining, legal, monitoring, fracking, dust, stormwater, methods, cafo, lead, formaldehyde, climate, filters, advocacy, industry, noise, chemicals, location:blurred, microplastics, place:india, lat:22, topics, lon:73, zoom:6
+author: warren
+path: /wiki/topics.md
+nid: 18825
 uid: 1
-tagnames: website,agriculture,soil,organizing,waste,transportation,mining,legal,monitoring,fracking,dust,stormwater,methods,cafo,lead,formaldehyde,climate,filters,advocacy,industry,noise,chemicals,location:blurred,microplastics,place:india,lat:22,topics,lon:73,zoom:6
+
 ---
 
 # Topics
+
+by [bhamster](../profile/bhamster), [liz](../profile/liz), [warren](../profile/warren)
+
+March 22, 2019 15:56 | Tags: [website](../tag/website), [agriculture](../tag/agriculture), [soil](../tag/soil), [organizing](../tag/organizing), [waste](../tag/waste), [transportation](../tag/transportation), [mining](../tag/mining), [legal](../tag/legal), [monitoring](../tag/monitoring), [fracking](../tag/fracking), [dust](../tag/dust), [stormwater](../tag/stormwater), [methods](../tag/methods), [cafo](../tag/cafo), [lead](../tag/lead), [formaldehyde](../tag/formaldehyde), [climate](../tag/climate), [filters](../tag/filters), [advocacy](../tag/advocacy), [industry](../tag/industry), [noise](../tag/noise), [chemicals](../tag/chemicals), [location:blurred](../tag/location:blurred), [microplastics](../tag/microplastics), [place:india](../tag/place:india), [lat:22](../tag/lat:22), [topics](../tag/topics), [lon:73](../tag/lon:73), [zoom:6](../tag/zoom:6)
 
 ## Featured topics
 

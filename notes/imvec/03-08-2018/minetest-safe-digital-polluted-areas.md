@@ -1,12 +1,18 @@
 ---
-nid: 15887
 title: Minetest safe digital polluted areas
-path: public/static/notes/imvec/03-08-2018/minetest-safe-digital-polluted-areas.md
+tagnames: games, learning, kids, gaimec, minetest
+author: imvec
+path: /notes/imvec/03-08-2018/minetest-safe-digital-polluted-areas.md
+nid: 15887
 uid: 495038
-tagnames: games,learning,kids,gaimec,minetest
+
 ---
 
 # Minetest safe digital polluted areas
+
+by [imvec](../profile/imvec) March 08, 2018 10:47
+
+March 08, 2018 10:47 | Tags: [games](../tag/games), [learning](../tag/learning), [kids](../tag/kids), [gaimec](../tag/gaimec), [minetest](../tag/minetest)
 
 ###What we want to do
 Develop some safe areas inside the [Minetest](https://minetest.net/) game to learn about pollution events with kids. Then think and build solutions.

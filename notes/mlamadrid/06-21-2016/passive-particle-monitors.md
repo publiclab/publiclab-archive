@@ -1,12 +1,18 @@
 ---
-nid: 13220
 title: Passive Particle Monitors
-path: public/static/notes/mlamadrid/06-21-2016/passive-particle-monitors.md
+tagnames: frac-sand, particle-monitoring, with:mathew, passive-particle-monitors, passive-pm, parent:frac-sand, communityscienceforum
+author: mlamadrid
+path: /notes/mlamadrid/06-21-2016/passive-particle-monitors.md
+nid: 13220
 uid: 45586
-tagnames: frac-sand,particle-monitoring,with:mathew,passive-particle-monitors,passive-pm,parent:frac-sand,communityscienceforum
+
 ---
 
 # Passive Particle Monitors
+
+by [mlamadrid](../profile/mlamadrid) June 21, 2016 20:45
+
+June 21, 2016 20:45 | Tags: [frac-sand](../tag/frac-sand), [particle-monitoring](../tag/particle-monitoring), [with:mathew](../tag/with:mathew), [passive-particle-monitors](../tag/passive-particle-monitors), [passive-pm](../tag/passive-pm), [parent:frac-sand](../tag/parent:frac-sand), [communityscienceforum](../tag/communityscienceforum)
 
 Article by [Mathew Lippincott](https://publiclab.org/profile/mathew) for [Community Science Forum: Sand-Frac Issue](https://publiclab.org/forum).
 

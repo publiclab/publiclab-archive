@@ -1,12 +1,18 @@
 ---
-nid: 38675
 title: Final Presentation
-path: public/static/notes/JuliaGuerrein/01-26-2023/final-presentation.md
+tagnames: seeks:replications, mn-land-manoomin-protection, activity:mn-land-manoomin-protection
+author: JuliaGuerrein
+path: /notes/JuliaGuerrein/01-26-2023/final-presentation.md
+nid: 38675
 uid: 796025
-tagnames: seeks:replications,mn-land-manoomin-protection,activity:mn-land-manoomin-protection
+
 ---
 
 # Final Presentation
+
+by [JuliaGuerrein](../profile/JuliaGuerrein) January 26, 2023 02:14
+
+January 26, 2023 02:14 | Tags: [seeks:replications](../tag/seeks:replications), [mn-land-manoomin-protection](../tag/mn-land-manoomin-protection), [activity:mn-land-manoomin-protection](../tag/activity:mn-land-manoomin-protection)
 
 Join us Thursday, January 26, at 7 pm EST, 6 pm CST for our final presentation!
 

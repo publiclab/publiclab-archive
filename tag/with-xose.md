@@ -1,6 +1,6 @@
 # with-xose
 
-13 notes and wiki pages
+13 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [NDVI workshop - Barcelona](/notes/imvec/05-18-2018/ndvi-workshop) by [imvec](../profile/imvec)
 - [MapKnitter map of Collado Villalba ](/notes/imvec/09-29-2018/mapknitter-map-of-collado-villalba) by [imvec](../profile/imvec)

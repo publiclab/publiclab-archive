@@ -1,12 +1,18 @@
 ---
-nid: 16670
 title: Waterproofing the Riffle
-path: public/static/notes/pdhixenbaugh/07-09-2018/waterproofing-the-riffle.md
+tagnames: water-quality-monitoring, water-quality, riffle, waterquality, waterproofing, waterproof
+author: pdhixenbaugh
+path: /notes/pdhixenbaugh/07-09-2018/waterproofing-the-riffle.md
+nid: 16670
 uid: 459085
-tagnames: water-quality-monitoring,water-quality,riffle,waterquality,waterproofing,waterproof
+
 ---
 
 # Waterproofing the Riffle
+
+by [pdhixenbaugh](../profile/pdhixenbaugh) July 09, 2018 21:10
+
+July 09, 2018 21:10 | Tags: [water-quality-monitoring](../tag/water-quality-monitoring), [water-quality](../tag/water-quality), [riffle](../tag/riffle), [waterquality](../tag/waterquality), [waterproofing](../tag/waterproofing), [waterproof](../tag/waterproof)
 
 ## What I want to do
 Hi Y'all

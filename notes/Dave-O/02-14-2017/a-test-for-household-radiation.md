@@ -1,12 +1,18 @@
 ---
-nid: 13928
 title: A Test For Household Radiation
-path: public/static/notes/Dave-O/02-14-2017/a-test-for-household-radiation.md
+tagnames: radiation, uranium, beta, radon, dosimeter, detectors, norm, gamma, first-time-poster
+author: Dave-O
+path: /notes/Dave-O/02-14-2017/a-test-for-household-radiation.md
+nid: 13928
 uid: 502943
-tagnames: radiation,uranium,beta,radon,dosimeter,detectors,norm,gamma,first-time-poster
+
 ---
 
 # A Test For Household Radiation
+
+by [Dave-O](../profile/Dave-O) February 14, 2017 21:47
+
+February 14, 2017 21:47 | Tags: [radiation](../tag/radiation), [uranium](../tag/uranium), [beta](../tag/beta), [radon](../tag/radon), [dosimeter](../tag/dosimeter), [detectors](../tag/detectors), [norm](../tag/norm), [gamma](../tag/gamma), [first-time-poster](../tag/first-time-poster)
 
 So there are several types and sources of radiation occurring in our world both naturally occurring and due to industries. Natural Occurring Radiation Materials (NORM) is all around us both in large and small quantities. Some of the natural occurring radiation materials include terrestrial NORM and Cosmogenic Norm. Industries that produce NORM are the coal energy industry, coal mining,oil and gas production as well as metal, smelting, mineral sands, tin production, tantulum and niobium, Rare Earth Elements (RRE), uranium production, phosphates and fertilizer production and the list goes on and on.
 

@@ -1,12 +1,18 @@
 ---
-nid: 20918
 title: How can DIY/community-collected environmental data be used?
-path: public/static/notes/wmacfarl/09-18-2019/how-can-diy-community-collected-environmental-data-be-used.md
+tagnames: water-quality, data, advocacy, question:water-quality, question:general, oil-and-gas, question:advocacy, oil-and-gas-water-trio, question:oil-and-gas-water-trio
+author: wmacfarl
+path: /notes/wmacfarl/09-18-2019/how-can-diy-community-collected-environmental-data-be-used.md
+nid: 20918
 uid: 424597
-tagnames: water-quality,data,advocacy,question:water-quality,question:general,oil-and-gas,question:advocacy,oil-and-gas-water-trio,question:oil-and-gas-water-trio
+
 ---
 
 # How can DIY/community-collected environmental data be used?
+
+by [wmacfarl](../profile/wmacfarl) September 18, 2019 20:13
+
+September 18, 2019 20:13 | Tags: [water-quality](../tag/water-quality), [data](../tag/data), [advocacy](../tag/advocacy), [question:water-quality](../tag/question:water-quality), [question:general](../tag/question:general), [oil-and-gas](../tag/oil-and-gas), [question:advocacy](../tag/question:advocacy), [oil-and-gas-water-trio](../tag/oil-and-gas-water-trio), [question:oil-and-gas-water-trio](../tag/question:oil-and-gas-water-trio)
 
 More context for this question is here: [https://publiclab.org/notes/wmacfarl/09-18-2019/oil-and-gas-hardware-fellow-introduction](https://publiclab.org/notes/wmacfarl/09-18-2019/oil-and-gas-hardware-fellow-introduction "https://publiclab.org/notes/wmacfarl/09-18-2019/oil-and-gas-hardware-fellow-introduction")
 

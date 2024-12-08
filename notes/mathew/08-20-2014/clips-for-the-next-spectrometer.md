@@ -1,12 +1,18 @@
 ---
-nid: 11068
 title: Clips for the next spectrometer
-path: public/static/notes/mathew/08-20-2014/clips-for-the-next-spectrometer.md
+tagnames: spectrometer, oil-testing-kit
+author: mathew
+path: /notes/mathew/08-20-2014/clips-for-the-next-spectrometer.md
+nid: 11068
 uid: 4
-tagnames: spectrometer,oil-testing-kit
+
 ---
 
 # Clips for the next spectrometer
+
+by [mathew](../profile/mathew) August 20, 2014 23:54
+
+August 20, 2014 23:54 | Tags: [spectrometer](../tag/spectrometer), [oil-testing-kit](../tag/oil-testing-kit)
 
 ###What I want to do
 find and test a clip that works with the bench design @warren and I brainstormed for the [next spectrometer design.](http://publiclab.org/notes/mathew/08-01-2014/hardware-design-work-for-the-oil-testing-kit).

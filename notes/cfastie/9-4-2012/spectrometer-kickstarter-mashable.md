@@ -1,12 +1,18 @@
 ---
-nid: 3633
 title: Spectrometer Kickstarter on Mashable
-path: public/static/notes/cfastie/9-4-2012/spectrometer-kickstarter-mashable.md
+tagnames: spectrometer, kickstarter, media
+author: cfastie
+path: /notes/cfastie/9-4-2012/spectrometer-kickstarter-mashable.md
+nid: 3633
 uid: 554
-tagnames: spectrometer,kickstarter,media
+
 ---
 
 # Spectrometer Kickstarter on Mashable
+
+by [cfastie](../profile/cfastie) September 04, 2012 12:53
+
+September 04, 2012 12:53 | Tags: [spectrometer](../tag/spectrometer), [kickstarter](../tag/kickstarter), [media](../tag/media)
 
 The PLOTS Spectrometer Kickstarter is featured in a very fine Trending Video on Mashable.com.  Here is the <a href="http://mashable.com/2012/09/03/public-labs-diy-spectrometer/">full Mashable story</a>.
 

@@ -1,12 +1,18 @@
 ---
-nid: 26143
 title: GSoC proposal 2021 : Translation System Refinement 
-path: public/static/notes/ajitmujumdar25999/04-05-2021/gsoc-proposal-2021-translation-system-refinement.md
+tagnames: soc, first-time-poster, gsoc-2021, gsoc-2021-proposals
+author: ajitmujumdar25999
+path: /notes/ajitmujumdar25999/04-05-2021/gsoc-proposal-2021-translation-system-refinement.md
+nid: 26143
 uid: 654056
-tagnames: soc,first-time-poster,gsoc-2021,gsoc-2021-proposals
+
 ---
 
 # GSoC proposal 2021 : Translation System Refinement 
+
+by [ajitmujumdar25999](../profile/ajitmujumdar25999) April 05, 2021 21:17
+
+April 05, 2021 21:17 | Tags: [soc](../tag/soc), [first-time-poster](../tag/first-time-poster), [gsoc-2021](../tag/gsoc-2021), [gsoc-2021-proposals](../tag/gsoc-2021-proposals)
 
 -><-
 

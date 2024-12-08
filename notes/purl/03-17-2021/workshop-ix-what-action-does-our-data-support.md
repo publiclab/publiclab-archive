@@ -1,12 +1,18 @@
 ---
-nid: 25955
 title: Workshop X: What Action Does our Data Support?
-path: public/static/notes/purl/03-17-2021/workshop-ix-what-action-does-our-data-support.md
+tagnames: education, workshop, communityscience
+author: purl
+path: /notes/purl/03-17-2021/workshop-ix-what-action-does-our-data-support.md
+nid: 25955
 uid: 736598
-tagnames: education,workshop,communityscience
+
 ---
 
 # Workshop X: What Action Does our Data Support?
+
+by [purl](../profile/purl) March 17, 2021 18:56
+
+March 17, 2021 18:56 | Tags: [education](../tag/education), [workshop](../tag/workshop), [communityscience](../tag/communityscience)
 
 This lesson is part of a series of lessons designed for educators to facilitate student-led inquiry around environmental topics. If there are time constraints, this lesson can be split into two at the Elaborate portion of the lesson. During Phase I of this series, students work towards identifying and learning about environmental topics.
 

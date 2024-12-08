@@ -1,12 +1,18 @@
 ---
-nid: 28314
 title: Data Divide: Kathmandu Living Labs & OpenStreetMap
-path: public/static/notes/julia_e_masters/11-30-2021/data-divide-kathmandu-living-labs-openstreetmap.md
+tagnames: mapping, osm, climate-change, disaster-response, open-data
+author: julia_e_masters
+path: /notes/julia_e_masters/11-30-2021/data-divide-kathmandu-living-labs-openstreetmap.md
+nid: 28314
 uid: 756220
-tagnames: mapping,osm,climate-change,disaster-response,open-data
+
 ---
 
 # Data Divide: Kathmandu Living Labs & OpenStreetMap
+
+by [julia_e_masters](../profile/julia_e_masters) November 30, 2021 00:39
+
+November 30, 2021 00:39 | Tags: [mapping](../tag/mapping), [osm](../tag/osm), [climate-change](../tag/climate-change), [disaster-response](../tag/disaster-response), [open-data](../tag/open-data)
 
 Kathmandu Living Labs is a leading civic-tech company based out of Nepal. Founded in 2013, primarily, to advance the Open Mapping movement, they have trained and engaged thousands of people from Nepal and other Asian countries in mapping their local communities in OpenStreetMap (OSM). As a social enterprise, they provide data and technology solutions to governments, development partners, businesses and civil society. In recognition of our works, KLL has received several national and international awards.
 

@@ -1,6 +1,6 @@
 # san-diego
 
-3 notes and wiki pages
+3 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [RC Testing. San Diego, California.](/map/rc-testing-san-diego-california/2012-09-13) by [gonzoearth](../profile/gonzoearth)
 - [Experiments Monitoring the Everyday: Society for Social Studies of Science Workshop San Diego](/wiki/experiments-monitoring-the-everyday-society-for-social-studies-of-science-workshop-san-diego) (wiki)

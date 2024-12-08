@@ -1,12 +1,18 @@
 ---
-nid: 24823
 title: Using PurpleAir Sensor to monitor neighbour's second hand smoke
-path: public/static/notes/shmoo/10-27-2020/using-pure-air-sensor-to-monitor-neighbour-s-second-hand-smoke.md
+tagnames: air-quality, purpleair, question:purpleair, first-time-poster
+author: shmoo
+path: /notes/shmoo/10-27-2020/using-pure-air-sensor-to-monitor-neighbour-s-second-hand-smoke.md
+nid: 24823
 uid: 727560
-tagnames: air-quality,purpleair,question:purpleair,first-time-poster
+
 ---
 
 # Using PurpleAir Sensor to monitor neighbour's second hand smoke
+
+by [shmoo](../profile/shmoo) October 27, 2020 12:28
+
+October 27, 2020 12:28 | Tags: [air-quality](../tag/air-quality), [purpleair](../tag/purpleair), [question:purpleair](../tag/question:purpleair), [first-time-poster](../tag/first-time-poster)
 
 My two adult neighbours smoke outside their property daily (on and off between 5am - 9pm) and within 3 to 6 metres (10 to 20 feet) of my balcony door/windows.
 

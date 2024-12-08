@@ -1,12 +1,18 @@
 ---
-nid: 615
 title: Staff call notes 12 05 11
-path: public/static/wiki/staff-call-notes-12-05-11.md
-uid: 1
 tagnames: 
+author: warren
+path: /wiki/staff-call-notes-12-05-11.md
+nid: 615
+uid: 1
+
 ---
 
 # Staff call notes 12 05 11
+
+by [warren](../profile/warren)
+
+December 05, 2011 17:45 | Tags: 
 
 ([Google Doc link](https://docs.google.com/document/d/15zkK1Fe1mBCsrL_cms3ofDoQDQ-wZ8eEWzbiJTTa8Rs/edit?pli=1&hl=en#))
 

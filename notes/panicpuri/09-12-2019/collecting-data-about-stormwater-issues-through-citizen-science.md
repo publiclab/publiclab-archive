@@ -1,12 +1,18 @@
 ---
-nid: 20842
 title: Collecting data about Stormwater Issues through Citizen Science
-path: public/static/notes/panicpuri/09-12-2019/collecting-data-about-stormwater-issues-through-citizen-science.md
+tagnames: arduino, water-sensing, sensors, stormwater, flooding, runoff, study-design, community-organizing, irb, issue-brief, air-sensors, first-time-poster, lat:40.446947, lon:-80.002441
+author: panicpuri
+path: /notes/panicpuri/09-12-2019/collecting-data-about-stormwater-issues-through-citizen-science.md
+nid: 20842
 uid: 617886
-tagnames: arduino,water-sensing,sensors,stormwater,flooding,runoff,study-design,community-organizing,irb,issue-brief,air-sensors,first-time-poster,lat:40.446947,lon:-80.002441
+
 ---
 
 # Collecting data about Stormwater Issues through Citizen Science
+
+by [panicpuri](../profile/panicpuri) September 12, 2019 13:57
+
+September 12, 2019 13:57 | Tags: [arduino](../tag/arduino), [water-sensing](../tag/water-sensing), [sensors](../tag/sensors), [stormwater](../tag/stormwater), [flooding](../tag/flooding), [runoff](../tag/runoff), [study-design](../tag/study-design), [community-organizing](../tag/community-organizing), [irb](../tag/irb), [issue-brief](../tag/issue-brief), [air-sensors](../tag/air-sensors), [first-time-poster](../tag/first-time-poster), [lat:40.446947](../tag/lat:40.446947), [lon:-80.002441](../tag/lon:-80.002441)
 
 ### Introduction:
 

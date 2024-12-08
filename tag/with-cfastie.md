@@ -1,6 +1,6 @@
 # with-cfastie
 
-3 notes and wiki pages
+3 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [DIY Near-Infrared Imaging](/wiki/diy-near-infrared-imaging) (wiki)
 - [What goes into choosing a topic name?](/notes/liz/09-27-2016/what-goes-into-choosing-a-topic-name) by [liz](../profile/liz)

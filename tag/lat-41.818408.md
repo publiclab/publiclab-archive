@@ -1,6 +1,6 @@
 # lat-41.818408
 
-5 notes and wiki pages
+5 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Art in Ruins (222 Richmond Street)](/notes/kellyraymond/03-04-2020/art-in-ruins-222-richmond-street) by [kellyraymond](../profile/kellyraymond)
 - [Art in Ruins (755 Westminster Street)](/notes/kellyraymond/03-04-2020/art-in-ruins-755-westminster-street) by [kellyraymond](../profile/kellyraymond)

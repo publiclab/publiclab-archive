@@ -1,12 +1,18 @@
 ---
-nid: 19699
 title: Data Collection Resources
-path: public/static/notes/mimiss/06-14-2019/data-collection-resources.md
+tagnames: education, data-collection, study-design, activity:nas-student-community-science, series:student-community-science, activity:student-community-science, with:purl
+author: mimiss
+path: /notes/mimiss/06-14-2019/data-collection-resources.md
+nid: 19699
 uid: 579821
-tagnames: education,data-collection,study-design,activity:nas-student-community-science,series:student-community-science,activity:student-community-science,with:purl
+
 ---
 
 # Data Collection Resources
+
+by [mimiss](../profile/mimiss) June 14, 2019 13:27
+
+June 14, 2019 13:27 | Tags: [education](../tag/education), [data-collection](../tag/data-collection), [study-design](../tag/study-design), [activity:nas-student-community-science](../tag/activity:nas-student-community-science), [series:student-community-science](../tag/series:student-community-science), [activity:student-community-science](../tag/activity:student-community-science), [with:purl](../tag/with:purl)
 
 In Phase 3 of the [Student-led Community Science Curriculum][1], students focus in on project implementation and data collection. Examples of data collection might include site surveys, collecting information from monitoring devices they have placed in the field, retrieving memory cards for time lapse photographs, and interviewing local residents. Here, you'll find resources to help you get started, organize your tasks, and compile your data.
 

@@ -1,6 +1,6 @@
 # lesson_plan
 
-5 notes and wiki pages
+5 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Lesson 1: Wetlands, Water, & Oil](/wiki/lesson-1-wetlands-water-oil) (wiki)
 - [Public Lab Lesson 2: More Than Meets the Eye](/wiki/public-lab-lesson-2-more-than-meets-the-eye) (wiki)

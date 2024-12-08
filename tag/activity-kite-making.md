@@ -1,6 +1,6 @@
 # activity-kite-making
 
-12 notes and wiki pages
+12 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [splitting bamboo for kites](/notes/mathew/7-28-2011/splitting-bamboo-kites) by [mathew](../profile/mathew)
 - [Tyvek Fleds, Theoretical & Actual Performance](/notes/mathew/05-01-2018/tyvek-fleds-theoretical-actual-performance) by [mathew](../profile/mathew)

@@ -1,12 +1,18 @@
 ---
-nid: 11385
 title: Spherical KAP over Cocodrie
-path: public/static/notes/cfastie/11-22-2014/spherical-kap-over-cocodrie.md
+tagnames: kite-mapping, image-stitching, kap, cocodrie, barnraising, lumcon, barnstar:photo-documentation, barnraising2014
+author: cfastie
+path: /notes/cfastie/11-22-2014/spherical-kap-over-cocodrie.md
+nid: 11385
 uid: 554
-tagnames: kite-mapping,image-stitching,kap,cocodrie,barnraising,lumcon,barnstar:photo-documentation,barnraising2014
+
 ---
 
 # Spherical KAP over Cocodrie
+
+by [cfastie](../profile/cfastie) November 22, 2014 17:44
+
+November 22, 2014 17:44 | Tags: [kite-mapping](../tag/kite-mapping), [image-stitching](../tag/image-stitching), [kap](../tag/kap), [cocodrie](../tag/cocodrie), [barnraising](../tag/barnraising), [lumcon](../tag/lumcon), [barnstar:photo-documentation](../tag/barnstar:photo-documentation), [barnraising2014](../tag/barnraising2014)
 
 The KAP rig I flew on Saturday at the Barnraising was a motorized pan/tilt rig which I controlled with a standard RC transmitter. I could point the camera in any direction (except up) and trigger the shutter manually, which I did 900 times. I could not see where the camera was pointed when it was more than a couple hundred feet away from me, so most of the shooting was more or less blind. So I was surprised to find today that 37 of the photos stitched together into a continuous panorama covering the greater part of a sphere (only the top of the sky is missing). This is my favorite result.  
 .  

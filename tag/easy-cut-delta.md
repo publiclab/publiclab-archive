@@ -1,6 +1,6 @@
 # easy-cut-delta
 
-5 notes and wiki pages
+5 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [easy cut delta kite plans](/notes/mathew/7-19-2012/easy-cut-delta-kite-plans) by [mathew](../profile/mathew)
 - [Dan Beavers shows how to fold a Delta Kite](/notes/mathew/1-24-2013/dan-beavers-shows-how-fold-delta-kite) by [mathew](../profile/mathew)

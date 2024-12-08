@@ -1,12 +1,18 @@
 ---
-nid: 1588
 title: 3-camera housing photos and test KAP session
-path: public/static/notes/patcoyle/3-31-2012/3-camera-housing-photos-and-test-kap-session.md
+tagnames: balloon-telemetry-kit, telemetry, camera-triggering, iphone-intervalometer, photo-rig
+author: patcoyle
+path: /notes/patcoyle/3-31-2012/3-camera-housing-photos-and-test-kap-session.md
+nid: 1588
 uid: 77
-tagnames: balloon-telemetry-kit,telemetry,camera-triggering,iphone-intervalometer,photo-rig
+
 ---
 
 # 3-camera housing photos and test KAP session
+
+by [patcoyle](../profile/patcoyle) April 01, 2012 03:27
+
+April 01, 2012 03:27 | Tags: [balloon-telemetry-kit](../tag/balloon-telemetry-kit), [telemetry](../tag/telemetry), [camera-triggering](../tag/camera-triggering), [iphone-intervalometer](../tag/iphone-intervalometer), [photo-rig](../tag/photo-rig)
 
 I've wanted to try to fly a smart phone with gps and other sensor data acquisition capability along with a visible and IR camera to be able to post-process the gps and other sensor data to  match it to the images taken with the other cameras by time-stamp. 
 

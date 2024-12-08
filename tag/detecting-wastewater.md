@@ -1,6 +1,6 @@
 # detecting-wastewater
 
-5 notes and wiki pages
+5 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Photo Documentation of Turbid Waters for Advocacy](/notes/gretchengehrke/09-18-2015/photo-documentation-of-turbid-waters-for-advocacy) by [gretchengehrke](../profile/gretchengehrke)
 - [What are some observable tell-tale signs of wastewater pollution?](/notes/bhamster/07-28-2021/what-are-some-observable-tell-tale-signs-of-wastewater-pollution) by [bhamster](../profile/bhamster)

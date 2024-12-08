@@ -1,12 +1,18 @@
 ---
-nid: 9753
 title: Nov 16th Saturday wetlands planting (and mapping)
-path: public/static/notes/eustatic/11-09-2013/nov-16th-saturday-wetlands-planting-and-mapping.md
+tagnames: gulf-coast, event, bsj
+author: eustatic
+path: /11-09-2013/nov-16th-saturday-wetlands-planting-and-mapping.md
+nid: 9753
 uid: 379
-tagnames: gulf-coast,event,bsj
+
 ---
 
 # Nov 16th Saturday wetlands planting (and mapping)
+
+by [eustatic](../profile/eustatic) November 09, 2013 15:56
+
+November 09, 2013 15:56 | Tags: [gulf-coast](../tag/gulf-coast), [event](../tag/event), [bsj](../tag/bsj)
 
 ###Event details
 

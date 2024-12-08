@@ -1,12 +1,18 @@
 ---
-nid: 31052
 title: About Tags
-path: public/static/wiki/about-tags.md
+tagnames: website, tags, topics, tagging, parent:website
+author: bhamster
+path: /wiki/about-tags.md
+nid: 31052
 uid: 664477
-tagnames: website,tags,topics,tagging,parent:website
+
 ---
 
 # About Tags
+
+by [bhamster](../profile/bhamster)
+
+June 14, 2022 16:04 | Tags: [website](../tag/website), [tags](../tag/tags), [topics](../tag/topics), [tagging](../tag/tagging), [parent:website](../tag/parent:website)
 
 We’re talking ‘bout tags! 🏷️ This page is about Public Lab’s tagging system for organizing information and communities of people by topic of interest.
 

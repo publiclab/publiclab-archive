@@ -1,12 +1,18 @@
 ---
-nid: 13185
 title: Serial communication via headphone jack
-path: public/static/notes/rmeister/06-10-2016/serial-communication-via-headphone-jack.md
+tagnames: arduino, barnstar:basic, sensor-readout, sensor-nodes, serial-link, fsk-decoder, activity:webjack, category:dev
+author: rmeister
+path: /notes/rmeister/06-10-2016/serial-communication-via-headphone-jack.md
+nid: 13185
 uid: 468994
-tagnames: arduino,barnstar:basic,sensor-readout,sensor-nodes,serial-link,fsk-decoder,activity:webjack,category:dev
+
 ---
 
 # Serial communication via headphone jack
+
+by [rmeister](../profile/rmeister) June 10, 2016 18:06
+
+June 10, 2016 18:06 | Tags: [arduino](../tag/arduino), [barnstar:basic](../tag/barnstar:basic), [sensor-readout](../tag/sensor-readout), [sensor-nodes](../tag/sensor-nodes), [serial-link](../tag/serial-link), [fsk-decoder](../tag/fsk-decoder), [activity:webjack](../tag/activity:webjack), [category:dev](../tag/category:dev)
 
 The main goal of this work is a communication channel between a sensor node (Arduino) and a browser client, that does not require installing drivers or other additional software. With a technology called WebRTC, browsers are capable of recording the audio input from the microphone. Therefore the headphone jack was choosen to implement the needed communication channel. As microphones use two-wire cable, data has to be transmitted serially. There is already an Arduino library that implementing this: [SoftModem](https://github.com/arms22/SoftModem). And with [modem.js](https://github.com/dolske/modem.js) a JavaScript implementation is given, that uses the same modulation scheme, but slightly different encoding. Thus, modem.js is not compatible with SoftModem (yet). That is why I started writing a decoder from scratch. 
 

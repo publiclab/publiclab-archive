@@ -1,12 +1,18 @@
 ---
-nid: 11462
 title: MultispeQ fluorescence
-path: public/static/notes/cfastie/12-15-2014/multispeq-fluorescence.md
+tagnames: fluorescence, barnraising, soil, photosynthesis, photosynq, plant, plant-health, multispeq, barnraising2014, response:11451
+author: cfastie
+path: /notes/cfastie/12-15-2014/multispeq-fluorescence.md
+nid: 11462
 uid: 554
-tagnames: fluorescence,barnraising,soil,photosynthesis,photosynq,plant,plant-health,multispeq,barnraising2014,response:11451
+
 ---
 
 # MultispeQ fluorescence
+
+by [cfastie](../profile/cfastie) December 15, 2014 22:54
+
+December 15, 2014 22:54 | Tags: [fluorescence](../tag/fluorescence), [barnraising](../tag/barnraising), [soil](../tag/soil), [photosynthesis](../tag/photosynthesis), [photosynq](../tag/photosynq), [plant](../tag/plant), [plant-health](../tag/plant-health), [multispeq](../tag/multispeq), [barnraising2014](../tag/barnraising2014), [response:11451](../tag/response:11451)
 
 *Image above: Tristan captures Robert explaining the MultispeQ.*
 

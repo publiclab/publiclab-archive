@@ -1,12 +1,18 @@
 ---
-nid: 2138
 title: Lee, NH – Help and learn about documenting cover crops using balloon mapping and spectral analysis
-path: public/static/notes/warren/5-18-2012/lee-nh-help-and-learn-about-documenting-cover-crops-using-balloon-mapping-and.md
+tagnames: balloon-mapping, near-infrared-camera, spectrometer, kite-mapping, events, meetup, field-test, ifarm
+author: warren
+path: /notes/warren/5-18-2012/lee-nh-help-and-learn-about-documenting-cover-crops-using-balloon-mapping-and.md
+nid: 2138
 uid: 1
-tagnames: balloon-mapping,near-infrared-camera,spectrometer,kite-mapping,events,meetup,field-test,ifarm
+
 ---
 
 # Lee, NH – Help and learn about documenting cover crops using balloon mapping and spectral analysis
+
+by [warren](../profile/warren) May 18, 2012 21:36
+
+May 18, 2012 21:36 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [spectrometer](../tag/spectrometer), [kite-mapping](../tag/kite-mapping), [events](../tag/events), [meetup](../tag/meetup), [field-test](../tag/field-test), [ifarm](../tag/ifarm)
 
 (reposted via [RJ Steinert](/people/rj-steinert) at [FarmHack.net](http://www.youngfarmers.org/farm-hack/2012/05/18/lee-nh-open-invite-to-help-and-learn-about-documenting-cover-crops-using-balloon-mapping-and-spectral-analysis/))
 

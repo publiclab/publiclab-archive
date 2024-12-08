@@ -1,12 +1,18 @@
 ---
-nid: 26584
 title: archbishopchapelle surveying city park
-path: public/static/wiki/archbishopchapelle-surveying-city-park.md
+tagnames: location:blurred, place:united-states, lat:30, lon:-90, zoom:6
+author: jmerrill
+path: /wiki/archbishopchapelle-surveying-city-park.md
+nid: 26584
 uid: 742582
-tagnames: location:blurred,place:united-states,lat:30,lon:-90,zoom:6
+
 ---
 
 # archbishopchapelle surveying city park
+
+by [jmerrill](../profile/jmerrill)
+
+May 14, 2021 02:38 | Tags: [location:blurred](../tag/location:blurred), [place:united-states](../tag/place:united-states), [lat:30](../tag/lat:30), [lon:-90](../tag/lon:-90), [zoom:6](../tag/zoom:6)
 
 Students gathered on Scout Island to use the Babylegs aquatic trawl to look for microplastics in the area.  
 Questions asked:

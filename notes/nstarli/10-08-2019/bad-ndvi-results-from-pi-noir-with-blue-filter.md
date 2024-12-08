@@ -1,12 +1,18 @@
 ---
-nid: 21117
 title: Bad NDVI Results from Pi NOIR with Blue Filter
-path: public/static/notes/nstarli/10-08-2019/bad-ndvi-results-from-pi-noir-with-blue-filter.md
+tagnames: ndvi, raspberry-pi, infragram, infrablue, pi, question:infragram, rpi, raspberry, white, balance, noir, first-time-poster, ndvi-white-balance, infrapi
+author: nstarli
+path: /notes/nstarli/10-08-2019/bad-ndvi-results-from-pi-noir-with-blue-filter.md
+nid: 21117
 uid: 581160
-tagnames: ndvi,raspberry-pi,infragram,infrablue,pi,question:infragram,rpi,raspberry,white,balance,noir,first-time-poster,ndvi-white-balance,infrapi
+
 ---
 
 # Bad NDVI Results from Pi NOIR with Blue Filter
+
+by [nstarli](../profile/nstarli) October 08, 2019 20:49
+
+October 08, 2019 20:49 | Tags: [ndvi](../tag/ndvi), [raspberry-pi](../tag/raspberry-pi), [infragram](../tag/infragram), [infrablue](../tag/infrablue), [pi](../tag/pi), [question:infragram](../tag/question:infragram), [rpi](../tag/rpi), [raspberry](../tag/raspberry), [white](../tag/white), [balance](../tag/balance), [noir](../tag/noir), [first-time-poster](../tag/first-time-poster), [ndvi-white-balance](../tag/ndvi-white-balance), [infrapi](../tag/infrapi)
 
 ![image description](/i/35631.jpg "image03.jpg")
 

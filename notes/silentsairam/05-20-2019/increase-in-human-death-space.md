@@ -1,12 +1,18 @@
 ---
-nid: 19463
 title: Increase in Human Death space
-path: public/static/notes/silentsairam/05-20-2019/increase-in-human-death-space.md
+tagnames: cemetery, compost, issue-brief, community-atlas, urbandeath, lat:10.758918, lon:78.813218
+author: silentsairam
+path: /notes/silentsairam/05-20-2019/increase-in-human-death-space.md
+nid: 19463
 uid: 553044
-tagnames: cemetery,compost,issue-brief,community-atlas,urbandeath,lat:10.758918,lon:78.813218
+
 ---
 
 # Increase in Human Death space
+
+by [silentsairam](../profile/silentsairam) May 20, 2019 17:35
+
+May 20, 2019 17:35 | Tags: [cemetery](../tag/cemetery), [compost](../tag/compost), [issue-brief](../tag/issue-brief), [community-atlas](../tag/community-atlas), [urbandeath](../tag/urbandeath), [lat:10.758918](../tag/lat:10.758918), [lon:78.813218](../tag/lon:78.813218)
 
 ### Introduction:
 

@@ -1,12 +1,18 @@
 ---
-nid: 181
 title: Meeting Notes
-path: public/static/wiki/meeting-notes.md
-uid: 1
 tagnames: 
+author: warren
+path: /wiki/meeting-notes.md
+nid: 181
+uid: 1
+
 ---
 
 # Meeting Notes
+
+by [warren](../profile/warren), [liz](../profile/liz), [Shannon](../profile/Shannon), [gonzoearth](../profile/gonzoearth)
+
+April 20, 2011 12:50 | Tags: 
 
 ##Bi-weekly staff calls##
 

@@ -1,12 +1,18 @@
 ---
-nid: 72
 title: Grassroots Mapping Curriculum
-path: public/static/wiki/mapping-curriculum.md
+tagnames: balloon-mapping, education, curriculum, location:blurred, place:united-states, lat:30, lon:-90, zoom:6
+author: warren
+path: /wiki/mapping-curriculum.md
+nid: 72
 uid: 1
-tagnames: balloon-mapping,education,curriculum,location:blurred,place:united-states,lat:30,lon:-90,zoom:6
+
 ---
 
 # Grassroots Mapping Curriculum
+
+by [gonzoearth](../profile/gonzoearth), [pablo](../profile/pablo), [warren](../profile/warren), [mathew](../profile/mathew), [MicheleTobias](../profile/MicheleTobias)
+
+February 01, 2011 20:13 | Tags: [balloon-mapping](../tag/balloon-mapping), [education](../tag/education), [curriculum](../tag/curriculum), [location:blurred](../tag/location:blurred), [place:united-states](../tag/place:united-states), [lat:30](../tag/lat:30), [lon:-90](../tag/lon:-90), [zoom:6](../tag/zoom:6)
 
 ##Grassroots Mapping Curriculum (BETA)##
 

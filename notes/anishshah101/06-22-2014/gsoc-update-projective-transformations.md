@@ -1,12 +1,18 @@
 ---
-nid: 10601
 title: GSoC Update- Projective Transformations
-path: public/static/notes/anishshah101/06-22-2014/gsoc-update-projective-transformations.md
+tagnames: mapknitter, gsoc, developers, gsoc-2014
+author: anishshah101
+path: /notes/anishshah101/06-22-2014/gsoc-update-projective-transformations.md
+nid: 10601
 uid: 421046
-tagnames: mapknitter,gsoc,developers,gsoc-2014
+
 ---
 
 # GSoC Update- Projective Transformations
+
+by [anishshah101](../profile/anishshah101) June 22, 2014 06:45
+
+June 22, 2014 06:45 | Tags: [mapknitter](../tag/mapknitter), [gsoc](../tag/gsoc), [developers](../tag/developers), [gsoc-2014](../tag/gsoc-2014)
 
 Following up from my last update about how the projective transformations were possible in the current Mapknitter tool, a live demo for projective transformations can be viewed here: http://128.199.208.55 . The github code: https://github.com/anishshah101/ImageDistortLeaflet/blob/master/DivDistort2.html
 

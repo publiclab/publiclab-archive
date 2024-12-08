@@ -1,12 +1,18 @@
 ---
-nid: 20768
 title: babylegsposter
-path: public/static/wiki/babylegsposter.md
-uid: 1
 tagnames: parent:babylegs
+author: warren
+path: /wiki/babylegsposter.md
+nid: 20768
+uid: 1
+
 ---
 
 # babylegsposter
+
+by [warren](../profile/warren)
+
+September 04, 2019 13:24 | Tags: [parent:babylegs](../tag/parent:babylegs)
 
 This “Field Guide to Microplastics” poster is a full-color poster showing a wide variety of plastic pollution types and their sources. 
 

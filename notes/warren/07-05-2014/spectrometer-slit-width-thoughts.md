@@ -1,12 +1,18 @@
 ---
-nid: 10662
 title: Spectrometer slit width thoughts
-path: public/static/notes/warren/07-05-2014/spectrometer-slit-width-thoughts.md
+tagnames: spectrometer, kits, slit, sensitivity, improvement, slit-width, acetate, exposure
+author: warren
+path: /notes/warren/07-05-2014/spectrometer-slit-width-thoughts.md
+nid: 10662
 uid: 1
-tagnames: spectrometer,kits,slit,sensitivity,improvement,slit-width,acetate,exposure
+
 ---
 
 # Spectrometer slit width thoughts
+
+by [warren](../profile/warren) July 05, 2014 13:12
+
+July 05, 2014 13:12 | Tags: [spectrometer](../tag/spectrometer), [kits](../tag/kits), [slit](../tag/slit), [sensitivity](../tag/sensitivity), [improvement](../tag/improvement), [slit-width](../tag/slit-width), [acetate](../tag/acetate), [exposure](../tag/exposure)
 
 ###What I want to do
 

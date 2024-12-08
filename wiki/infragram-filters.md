@@ -1,12 +1,18 @@
 ---
-nid: 15087
 title: Infragram Filters
-path: public/static/wiki/infragram-filters.md
+tagnames: infragram-filters, parent:infragram
+author: warren
+path: /wiki/infragram-filters.md
+nid: 15087
 uid: 1
-tagnames: infragram-filters,parent:infragram
+
 ---
 
 # Infragram Filters
+
+by [warren](../profile/warren)
+
+October 23, 2017 22:17 | Tags: [infragram-filters](../tag/infragram-filters), [parent:infragram](../tag/parent:infragram)
 
 The Infragram project has used a variety of filters to make Do-It-Yourself infrared cameras, as well as infrared-visible multispectral cameras. This page is about choosing filters for different purposes.
 

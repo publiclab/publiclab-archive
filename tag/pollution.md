@@ -1,8 +1,7 @@
 # pollution
 
-52 notes and wiki pages
+52 notes and wiki pages | [see all topics](/wiki/topics)
 
-- [The Best Ways To Clean Central Heating Filter](/wiki/the-best-ways-to-clean-central-heating-filter) (wiki)
 - [Kite Photo of Ongoing Coal Pollution in Plaquemines Parish, LA](/notes/eustatic/05-28-2013/kite-photos-of-ongoing-coal-pollution-in-plaquemines-parish-la) by [eustatic](../profile/eustatic)
 - [Pollution to Solution: First Research Note 1, 10/14/14](/notes/epongrat/10-14-2014/research-note-1-10-14-14) by [epongrat](../profile/epongrat)
 - [The Story of the Stoney Creek. Part 1.](/notes/amysoyka/02-19-2015/the-story-of-the-stoney-creek-part-1) by [amysoyka](../profile/amysoyka)
@@ -26,14 +25,11 @@
 - [AIR-QUALITY & BALLOON LAUNCH: SUMMER 2019 QUEENSBRIDGE TECH LAB COMMUNITY SCIENCE PROJECT](/notes/SadiePrego/12-05-2018/summer-2019-queensbridge-tech-lab-community-science-project-air-water-soil) by [SadiePrego](../profile/SadiePrego)
 - [New Features in Leaflet-Environmental Layers Library](/notes/sagarpreet/12-20-2018/new-features-in-leaflet-environmental-layers) by [sagarpreet](../profile/sagarpreet)
 - [SPS30 instead of PlanTower units?](/notes/subir/09-23-2019/sps30-instead-of-plantower-units) by [subir](../profile/subir)
-- [Delhi Climate change](/notes/Dishantpanchal/10-19-2019/delhi-climate-change) by [Dishantpanchal](../profile/Dishantpanchal)
-- [Why Delhi Govt. hasn't started sprinkling water across the city through helicopters to reduce Air Pollution? ](/notes/laffazmedia/11-27-2019/why-delhi-govt-hasn-t-started-sprinkling-water-across-the-city-through-helicopters-to-reduce-air-pollution) by [laffazmedia](../profile/laffazmedia)
 - [Sensoring Citizenship ](/notes/silentsairam/01-07-2020/sensoring-citizenship) by [silentsairam](../profile/silentsairam)
 - [Nuestros Suelos: a low-cost toolkit for the participative assessment of soil degradation](/notes/sureta/01-09-2020/nuestros-suelos-a-low-cost-toolkit-for-the-participative-assessment-of-soil-degradation) by [sureta](../profile/sureta)
 - [How to reduce pollution in simple way?](/notes/meenatibiswalcynixit/01-09-2020/how-to-reduce-pollution-in-simple-way) by [meenatibiswalcynixit](../profile/meenatibiswalcynixit)
 - [Making ink from petrochemical pollution?](/notes/hchalew/02-05-2020/making-ink-from-petrochemical-pollution) by [hchalew](../profile/hchalew)
 - [Climate Change and Environmental Justice:  How it impacts and continues to prove to be a disadvantage to the low income and minority population.](/notes/MyrnaRomo/11-14-2020/climate-change-and-environmental-justice-how-it-impacts-and-continues-to-prove-to-be-a-disadvantage-to-the-low-income-and-minority-population) by [MyrnaRomo](../profile/MyrnaRomo)
-- [Software Engineering the Sustainable Way!](/notes/govindgoel/12-23-2020/software-engineering-the-sustainable-way) by [govindgoel](../profile/govindgoel)
 - [Testing water for pollution ](/notes/greenbeans/02-19-2021/testing-water-for-pollution) by [greenbeans](../profile/greenbeans)
 - [How severely has climate change and pollution affected Louisiana?](/notes/cummins_leila/03-05-2021/how-severely-has-climate-change-and-pollution-affected-louisiana) by [cummins_leila](../profile/cummins_leila)
 - [How can I, as a student, help with pollution?](/notes/winingham_abbigail/03-09-2021/how-can-i-as-a-student-help-with-pollution) by [winingham_abbigail](../profile/winingham_abbigail)
@@ -53,4 +49,3 @@
 - [Announcing New Fellowship Team: Game Over Formosa! ](/notes/stevie/10-19-2021/announcing-new-fellowship-team-game-over-formosa) by [stevie](../profile/stevie)
 - [Using Coqui in a the Suquía river for conductivity measurements](/notes/alejobonifacio/04-07-2022/using-coqui-in-a-the-suquia-river-for-conductivity-measurements) by [alejobonifacio](../profile/alejobonifacio)
 - [Event: Messages from the Mississippi Student Art Exhibition](/notes/a1ahna/05-27-2022/event-messages-from-the-mississippi-student-art-exhibition) by [a1ahna](../profile/a1ahna)
-- [small air monitors for PM 10 levels indoors? ](/notes/hdavis/08-03-2024/small-air-monitors-for-pm-10-levels-indoors) by [hdavis](../profile/hdavis)

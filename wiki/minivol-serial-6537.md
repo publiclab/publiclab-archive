@@ -1,12 +1,18 @@
 ---
-nid: 13908
 title: MiniVol serial #6537
-path: public/static/wiki/minivol-serial-6537.md
-uid: 4
 tagnames: 6537
+author: mathew
+path: /wiki/minivol-serial-6537.md
+nid: 13908
+uid: 4
+
 ---
 
 # MiniVol serial #6537
+
+by [eustatic](../profile/eustatic), [mathew](../profile/mathew)
+
+February 07, 2017 22:44 | Tags: [6537](../tag/6537)
 
 This page is for Public Lab's [MiniVol](/wiki/minivol) Serial #6537, and notes specific to it. 
 

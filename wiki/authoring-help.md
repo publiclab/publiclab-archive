@@ -1,12 +1,18 @@
 ---
-nid: 6897
 title: Authoring Help
-path: public/static/wiki/authoring-help.md
+tagnames: help, authoring, markdown, authoring-help, parent:website
+author: warren
+path: /wiki/authoring-help.md
+nid: 6897
 uid: 1
-tagnames: help,authoring,markdown,authoring-help,parent:website
+
 ---
 
 # Authoring Help
+
+by [laurel_mire](../profile/laurel_mire), [bhamster](../profile/bhamster), [liz](../profile/liz), [magnitia](../profile/magnitia), [bsugar](../profile/bsugar), [sawaddeekub48](../profile/sawaddeekub48), [warren](../profile/warren), [Omar2106](../profile/Omar2106), [rudolf455](../profile/rudolf455), [aryanbhasin](../profile/aryanbhasin), [ananyo2012](../profile/ananyo2012), [natalie](../profile/natalie), [mollydanielsson](../profile/mollydanielsson), [jenniferdsara](../profile/jenniferdsara), [cfastie](../profile/cfastie), [bodacea](../profile/bodacea)
+
+April 19, 2013 01:26 | Tags: [help](../tag/help), [authoring](../tag/authoring), [markdown](../tag/markdown), [authoring-help](../tag/authoring-help), [parent:website](../tag/parent:website)
 
 ### Intro video
 

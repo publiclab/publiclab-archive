@@ -1,12 +1,18 @@
 ---
-nid: 10693
 title: Recap: Open Water Workshop, 7/12/14
-path: public/static/notes/donblair/07-15-2014/recap-open-water-workshop-july-12-2014.md
+tagnames: cambridge, video, boston, workshop, parts-and-crafts, water-quality, conductivity, riffle, open-water, northeast, barnstar:basic, barnstar:empiricism, 555, riffle-cricket, piezo, mit, hooray, civic-media, barnstar:video-documentation
+author: donblair
+path: /notes/donblair/07-15-2014/recap-open-water-workshop-july-12-2014.md
+nid: 10693
 uid: 43651
-tagnames: cambridge,video,boston,workshop,parts-and-crafts,water-quality,conductivity,riffle,open-water,northeast,barnstar:basic,barnstar:empiricism,555,riffle-cricket,piezo,mit,hooray,civic-media,barnstar:video-documentation
+
 ---
 
 # Recap: Open Water Workshop, 7/12/14
+
+by [donblair](../profile/donblair) July 15, 2014 06:44
+
+July 15, 2014 06:44 | Tags: [cambridge](../tag/cambridge), [video](../tag/video), [boston](../tag/boston), [workshop](../tag/workshop), [parts-and-crafts](../tag/parts-and-crafts), [water-quality](../tag/water-quality), [conductivity](../tag/conductivity), [riffle](../tag/riffle), [open-water](../tag/open-water), [northeast](../tag/northeast), [barnstar:basic](../tag/barnstar:basic), [barnstar:empiricism](../tag/barnstar:empiricism), [555](../tag/555), [riffle-cricket](../tag/riffle-cricket), [piezo](../tag/piezo), [mit](../tag/mit), [hooray](../tag/hooray), [civic-media](../tag/civic-media), [barnstar:video-documentation](../tag/barnstar:video-documentation)
 
 <iframe src="//player.vimeo.com/video/100778803?title=0&amp;byline=0&amp;portrait=0" width="700" height="393" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 *Katie explaining how the 555-based audio conductivity meter works.  The sensor she built was able to distinguish, via audible tones, between "groundwater runoff" and "seawater" levels of salinity.  Credit: this brief interview with Katie was filmed by [Heather Craig](http://civic.mit.edu/users/hhcraig), and was edited by [William Everett](http://williammeverett.com/).*

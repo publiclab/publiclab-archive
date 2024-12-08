@@ -1,11 +1,17 @@
 ---
-nid: 15305
 title: opencall
-path: public/static/wiki/opencall.md
-uid: 1
 tagnames: redirect:14798
+author: warren
+path: /wiki/opencall.md
+nid: 15305
+uid: 1
+
 ---
 
 # opencall
+
+by [warren](../profile/warren)
+
+December 05, 2017 20:01 | Tags: [redirect:14798](../tag/redirect:14798)
 
 redirect

@@ -1,11 +1,17 @@
 ---
-nid: 13926
 title: stormwater-monitoring
-path: public/static/wiki/stormwater-monitoring--2.md
-uid: 1
 tagnames: redirect:stormwater
+author: warren
+path: /wiki/stormwater-monitoring--2.md
+nid: 13926
+uid: 1
+
 ---
 
 # stormwater-monitoring
+
+by [warren](../profile/warren)
+
+February 13, 2017 17:16 | Tags: [redirect:stormwater](../tag/redirect:stormwater)
 
 Redirecting!

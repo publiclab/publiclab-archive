@@ -1,12 +1,18 @@
 ---
-nid: 11023
 title: Canon SD4000IS as Infragram
-path: public/static/notes/warren/08-08-2014/canon-sd4000is-as-infragram.md
+tagnames: near-infrared-camera, infragram, rosco, red-filter
+author: warren
+path: /notes/warren/08-08-2014/canon-sd4000is-as-infragram.md
+nid: 11023
 uid: 1
-tagnames: near-infrared-camera,infragram,rosco,red-filter
+
 ---
 
 # Canon SD4000IS as Infragram
+
+by [warren](../profile/warren) August 08, 2014 18:50
+
+August 08, 2014 18:50 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [infragram](../tag/infragram), [rosco](../tag/rosco), [red-filter](../tag/red-filter)
 
 ###What I want to do
 

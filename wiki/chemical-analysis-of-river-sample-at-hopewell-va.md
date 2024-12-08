@@ -1,12 +1,18 @@
 ---
-nid: 12586
 title: CHEMICAL ANALYSIS OF RIVER SAMPLE AT HOPEWELL VA
-path: public/static/wiki/chemical-analysis-of-river-sample-at-hopewell-va.md
+tagnames: southeast, protocol
+author: dhaffnersr
+path: /wiki/chemical-analysis-of-river-sample-at-hopewell-va.md
+nid: 12586
 uid: 461120
-tagnames: southeast,protocol
+
 ---
 
 # CHEMICAL ANALYSIS OF RIVER SAMPLE AT HOPEWELL VA
+
+by [gargoyle_169](../profile/gargoyle_169), [dhaffnersr](../profile/dhaffnersr)
+
+January 15, 2016 00:37 | Tags: [southeast](../tag/southeast), [protocol](../tag/protocol)
 
 This sample (taken from the Appomattox river) was collected at 9:00 am on 01/14/16. 
 Distance from Hercules chemical plant is less than .25 miles. 

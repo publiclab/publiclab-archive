@@ -1,12 +1,18 @@
 ---
-nid: 156
 title: Spectrometry 1st week plan 
-path: public/static/notes/alex-mccarthy/4-5-2011/spectrometry-1st-week-plan.md
+tagnames: spectrometer, pah, first-time-poster
+author: Alex-McCarthy
+path: /notes/alex-mccarthy/4-5-2011/spectrometry-1st-week-plan.md
+nid: 156
 uid: 125
-tagnames: spectrometer,pah,first-time-poster
+
 ---
 
 # Spectrometry 1st week plan 
+
+by [Alex-McCarthy](../profile/Alex-McCarthy) April 05, 2011 22:24
+
+April 05, 2011 22:24 | Tags: [spectrometer](../tag/spectrometer), [pah](../tag/pah), [first-time-poster](../tag/first-time-poster)
 
 1st week plan for research in low cost spectrometry for pollution detection
 

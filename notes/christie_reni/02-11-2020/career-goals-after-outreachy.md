@@ -1,12 +1,18 @@
 ---
-nid: 22752
 title: Career goals after Outreachy
-path: public/static/notes/christie_reni/02-11-2020/career-goals-after-outreachy.md
+tagnames: blog-submission, soc, location:blurred, place:iran, lat:22, outreachy, lon:76, zoom:6
+author: christie_reni
+path: /notes/christie_reni/02-11-2020/career-goals-after-outreachy.md
+nid: 22752
 uid: 630062
-tagnames: blog-submission,soc,location:blurred,place:iran,lat:22,outreachy,lon:76,zoom:6
+
 ---
 
 # Career goals after Outreachy
+
+by [christie_reni](../profile/christie_reni) February 11, 2020 07:58
+
+February 11, 2020 07:58 | Tags: [blog-submission](../tag/blog-submission), [soc](../tag/soc), [location:blurred](../tag/location:blurred), [place:iran](../tag/place:iran), [lat:22](../tag/lat:22), [outreachy](../tag/outreachy), [lon:76](../tag/lon:76), [zoom:6](../tag/zoom:6)
 
 As I am in the final few weeks of my [Outreachy internship](https://www.outreachy.org/ "https://www.outreachy.org/") I will be sharing my career goals in this blog post. Working as an Outreachy intern for [Public Lab](https://publiclab.org/about "https://publiclab.org/about") has helped me gain more insight into the type of career I want.
 

@@ -1,12 +1,18 @@
 ---
-nid: 1796
 title: Dual camera kit electronics
-path: public/static/wiki/dual-camera-kit-electronics.md
-uid: 1
 tagnames: near-infrared-camera
+author: warren
+path: /wiki/dual-camera-kit-electronics.md
+nid: 1796
+uid: 1
+
 ---
 
 # Dual camera kit electronics
+
+by [mathew](../profile/mathew), [warren](../profile/warren)
+
+April 26, 2012 13:38 | Tags: [near-infrared-camera](../tag/near-infrared-camera)
 
 ##Introduction##
 

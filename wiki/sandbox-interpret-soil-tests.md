@@ -1,12 +1,18 @@
 ---
-nid: 25850
 title: sandbox-interpret-soil-tests
-path: public/static/wiki/sandbox-interpret-soil-tests.md
-uid: 664477
 tagnames: 
+author: bhamster
+path: /wiki/sandbox-interpret-soil-tests.md
+nid: 25850
+uid: 664477
+
 ---
 
 # sandbox-interpret-soil-tests
+
+by [bhamster](../profile/bhamster)
+
+March 05, 2021 19:50 | Tags: 
 
 If you’ve given soil samples to a lab for contaminant testing and received the results, one of the next steps is to interpret the results and make meaning of them. You might have a short document listing test results from the lab, or a longer report that includes some summarizing and recommended actions.
 

@@ -1,12 +1,18 @@
 ---
-nid: 15297
 title: Mayfly
-path: public/static/wiki/mayfly.md
+tagnames: water-sensing, datalogger, data-logging, parent:data-logging, water-sensors, mayfly, stroud
+author: warren
+path: /wiki/mayfly.md
+nid: 15297
 uid: 1
-tagnames: water-sensing,datalogger,data-logging,parent:data-logging,water-sensors,mayfly,stroud
+
 ---
 
 # Mayfly
+
+by [warren](../profile/warren)
+
+December 04, 2017 18:21 | Tags: [water-sensing](../tag/water-sensing), [datalogger](../tag/datalogger), [data-logging](../tag/data-logging), [parent:data-logging](../tag/parent:data-logging), [water-sensors](../tag/water-sensors), [mayfly](../tag/mayfly), [stroud](../tag/stroud)
 
 The MayFly is an Arduino-based data logger (#datalogger) by the Stroud Water Research Center. Learn more at http://envirodiy.org
 

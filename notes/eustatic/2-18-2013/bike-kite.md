@@ -1,12 +1,18 @@
 ---
-nid: 6040
 title: bike kite
-path: public/static/notes/eustatic/2-18-2013/bike-kite.md
+tagnames: gulf-coast, kite-mapping
+author: eustatic
+path: /2-18-2013/bike-kite.md
+nid: 6040
 uid: 379
-tagnames: gulf-coast,kite-mapping
+
 ---
 
 # bike kite
+
+by [eustatic](../profile/eustatic) February 18, 2013 07:29
+
+February 18, 2013 07:29 | Tags: [gulf-coast](../tag/gulf-coast), [kite-mapping](../tag/kite-mapping)
 
 how to bike your kite.  
 

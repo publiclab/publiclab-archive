@@ -1,12 +1,18 @@
 ---
-nid: 1873
 title: Article: "The Difference Between Scientific Evidence And The Scientific Method"
-path: public/static/notes/warren/5-1-2012/article-difference-between-scientific-evidence-and-scientific-method.md
+tagnames: evidence, legal, law-and-policy
+author: warren
+path: /notes/warren/5-1-2012/article-difference-between-scientific-evidence-and-scientific-method.md
+nid: 1873
 uid: 1
-tagnames: evidence,legal,law-and-policy
+
 ---
 
 # Article: "The Difference Between Scientific Evidence And The Scientific Method"
+
+by [warren](../profile/warren) May 01, 2012 18:18
+
+May 01, 2012 18:18 | Tags: [evidence](../tag/evidence), [legal](../tag/legal), [law-and-policy](../tag/law-and-policy)
 
 I came across this fascinating review about the latest edition of a text used by many lawyers and judges -- the "Reference Manual on Scientific Evidence" -- which lays out recommendations on how to make use of scientific evidence in the courtroom.
 

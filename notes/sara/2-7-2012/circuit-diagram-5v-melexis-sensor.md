@@ -1,12 +1,18 @@
 ---
-nid: 762
 title: Circuit Diagrams for 5V Melexis Sensor
-path: public/static/notes/sara/2-7-2012/circuit-diagram-5v-melexis-sensor.md
-uid: 8
 tagnames: thermal-photography
+author: sara
+path: /notes/sara/2-7-2012/circuit-diagram-5v-melexis-sensor.md
+nid: 762
+uid: 8
+
 ---
 
 # Circuit Diagrams for 5V Melexis Sensor
+
+by [sara](../profile/sara) February 07, 2012 17:15
+
+February 07, 2012 17:15 | Tags: [thermal-photography](../tag/thermal-photography)
 
 On the 4th of February, Public Lab and RISD's Digital+Media Department hosted a Thermal Flashlight Workshop.  The workshop went great! All of the students managed to make a Thermal Flashlight in 3 hours, many of them had little to no electronics experience. This is particularly exciting as during the workshop we realized we had ordered 5 Volt Melexis sensors rather than 3 Volt sensor we had developed the circuit board.  Thankfully, Jeff, Shannon and I were able to figure out a fix on the run.  Attached is a circuit diagram for the Thermal Flashlight if you use a 5 Volt sensor rather than a 3 Volt sensor.
 

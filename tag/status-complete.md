@@ -1,6 +1,6 @@
 # status-complete
 
-9 notes and wiki pages
+9 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Use a rubber band and knotted string to trigger a camera](/notes/mathew/1-29-2012/using-knot-trigger-cameras) by [mathew](../profile/mathew)
 - [DIY: Wi-Fi Streaming Weatherproof PM2.5 Monitor (Dylos-based)](/notes/kevinvivergy/12-04-2015/diy-wi-fi-streaming-weatherproof-pm2-5-monitor-dylos-based) by [kevinvivergy](../profile/kevinvivergy)

@@ -1,12 +1,18 @@
 ---
-nid: 13837
 title: How does radon react outside? 
-path: public/static/notes/stevie/01-04-2017/how-does-radon-react-outside.md
+tagnames: indoor-air, radon, question:radon
+author: stevie
+path: /notes/stevie/01-04-2017/how-does-radon-react-outside.md
+nid: 13837
 uid: 422561
-tagnames: indoor-air,radon,question:radon
+
 ---
 
 # How does radon react outside? 
+
+by [stevie](../profile/stevie) January 04, 2017 20:41
+
+January 04, 2017 20:41 | Tags: [indoor-air](../tag/indoor-air), [radon](../tag/radon), [question:radon](../tag/question:radon)
 
 There has been a lot of information published on concerns related to radon in indoor air. I'm wondering why this is specific to indoor environments? 
 

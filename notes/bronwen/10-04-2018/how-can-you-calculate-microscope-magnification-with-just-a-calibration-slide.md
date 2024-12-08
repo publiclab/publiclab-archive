@@ -1,12 +1,18 @@
 ---
-nid: 17221
 title: How can you calculate microscope magnification with just a calibration slide?
-path: public/static/notes/bronwen/10-04-2018/how-can-you-calculate-microscope-magnification-with-just-a-calibration-slide.md
+tagnames: question:calibration, question:general, question:microscope, question:community-microscope, question:microscope-calibration, faq-community-microscope
+author: Bronwen
+path: /notes/bronwen/10-04-2018/how-can-you-calculate-microscope-magnification-with-just-a-calibration-slide.md
+nid: 17221
 uid: 237313
-tagnames: question:calibration,question:general,question:microscope,question:community-microscope,question:microscope-calibration,faq-community-microscope
+
 ---
 
 # How can you calculate microscope magnification with just a calibration slide?
+
+by [Bronwen](../profile/Bronwen) October 04, 2018 15:58
+
+October 04, 2018 15:58 | Tags: [question:calibration](../tag/question:calibration), [question:general](../tag/question:general), [question:microscope](../tag/question:microscope), [question:community-microscope](../tag/question:community-microscope), [question:microscope-calibration](../tag/question:microscope-calibration), [faq-community-microscope](../tag/faq-community-microscope)
 
 We've been learning a lot with the Community Microscopes, and was wondering if anyone could point us to a formula for calculating magnification WITHOUT knowing the specific magnification of the lens-- In the webcam version of the kit we're using an inverted webcam lens, but since the lenses themselves are flipped and moved and re-positioned in relation to the sensor, I'm not sure the original camera specs can help us.   
 

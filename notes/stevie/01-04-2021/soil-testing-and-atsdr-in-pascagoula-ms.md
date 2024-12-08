@@ -1,12 +1,18 @@
 ---
-nid: 25408
 title: Soil Testing and ATSDR in Pascagoula, MS
-path: public/static/notes/stevie/01-04-2021/soil-testing-and-atsdr-in-pascagoula-ms.md
+tagnames: mississippi, epa, blog, legal, soil-testing, location:blurred, lat:30, lon:-88, issue-brief, pascagoula, zoom:6, hanby-soil-kit, with:cherokeeconcernedcitizens, map-drawing, mapping-soil-data
+author: stevie
+path: /notes/stevie/01-04-2021/soil-testing-and-atsdr-in-pascagoula-ms.md
+nid: 25408
 uid: 422561
-tagnames: mississippi,epa,blog,legal,soil-testing,location:blurred,lat:30,lon:-88,issue-brief,pascagoula,zoom:6,hanby-soil-kit,with:cherokeeconcernedcitizens,map-drawing,mapping-soil-data
+
 ---
 
 # Soil Testing and ATSDR in Pascagoula, MS
+
+by [stevie](../profile/stevie) January 04, 2021 21:16
+
+January 04, 2021 21:16 | Tags: [mississippi](../tag/mississippi), [epa](../tag/epa), [blog](../tag/blog), [legal](../tag/legal), [soil-testing](../tag/soil-testing), [location:blurred](../tag/location:blurred), [lat:30](../tag/lat:30), [lon:-88](../tag/lon:-88), [issue-brief](../tag/issue-brief), [pascagoula](../tag/pascagoula), [zoom:6](../tag/zoom:6), [hanby-soil-kit](../tag/hanby-soil-kit), [with:cherokeeconcernedcitizens](../tag/with:cherokeeconcernedcitizens), [map-drawing](../tag/map-drawing), [mapping-soil-data](../tag/mapping-soil-data)
 
 ##Some background:
 

@@ -1,12 +1,18 @@
 ---
-nid: 12589
 title: 600km Kayaking for testing the water condition
-path: public/static/notes/Vickykq/01-16-2016/600km-kayaking-for-testing-the-water-condition.md
+tagnames: water-quality, asia, barnstar:excessive-enthusiasm, kayak, china, canton, greenovation-hub, ghub
+author: Vickykq
+path: /notes/Vickykq/01-16-2016/600km-kayaking-for-testing-the-water-condition.md
+nid: 12589
 uid: 461714
-tagnames: water-quality,asia,barnstar:excessive-enthusiasm,kayak,china,canton,greenovation-hub,ghub
+
 ---
 
 # 600km Kayaking for testing the water condition
+
+by [Vickykq](../profile/Vickykq) January 16, 2016 04:36
+
+January 16, 2016 04:36 | Tags: [water-quality](../tag/water-quality), [asia](../tag/asia), [barnstar:excessive-enthusiasm](../tag/barnstar:excessive-enthusiasm), [kayak](../tag/kayak), [china](../tag/china), [canton](../tag/canton), [greenovation-hub](../tag/greenovation-hub), [ghub](../tag/ghub)
 
 ###What I want to do
 I’m seeking a right approach to bring up the awareness of the citizens and make it more fun that everyone could enjoy and get involved in it. 

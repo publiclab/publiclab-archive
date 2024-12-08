@@ -1,12 +1,18 @@
 ---
-nid: 26528
 title: Project for electrical
-path: public/static/notes/keerthana06/05-08-2021/project-for-electrical.md
-uid: 754722
 tagnames: 
+author: keerthana06
+path: /notes/keerthana06/05-08-2021/project-for-electrical.md
+nid: 26528
+uid: 754722
+
 ---
 
 # Project for electrical
+
+by [keerthana06](../profile/keerthana06) May 08, 2021 12:21
+
+May 08, 2021 12:21 | Tags: 
 
 [![electrical_projects1.jpg](/i/43719)](/i/43719?s=o)
 

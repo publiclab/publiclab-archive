@@ -1,12 +1,18 @@
 ---
-nid: 529
 title: Voting procedure
-path: public/static/wiki/voting-procedure.md
-uid: 1
 tagnames: 
+author: warren
+path: /wiki/voting-procedure.md
+nid: 529
+uid: 1
+
 ---
 
 # Voting procedure
+
+by [warren](../profile/warren)
+
+October 31, 2011 16:44 | Tags: 
 
 _This is a draft document_
 

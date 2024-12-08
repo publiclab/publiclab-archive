@@ -1,6 +1,6 @@
 # makerbot
 
-13 notes and wiki pages
+13 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [makerbot](/wiki/makerbot) (wiki)
 - [Makerbot machine logs](/wiki/makerbot-machine-logs) (wiki)

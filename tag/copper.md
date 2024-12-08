@@ -1,6 +1,6 @@
 # copper
 
-12 notes and wiki pages
+12 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Update on Stockton Harbor, Maine waste site: Media Coverage and heavy metals list](/notes/RonHuber/06-26-2014/update-on-stockton-harbor-maine-waste-site-media-coverage-and-heavy-metals-list) by [ronhuber](../profile/ronhuber)
 - [Detection of Metals in Water with the WheeStat](/wiki/detection-of-metals-in-water-with-the-wheestat) (wiki)
@@ -12,5 +12,4 @@
 - [What are some options for copper materials to make a copper plate test kit?](/notes/warren/12-06-2017/what-are-some-options-for-copper-materials-to-make-a-copper-plate-test-kit) by [warren](../profile/warren)
 - [Literature Review: Copper Rod Analysis](/notes/ErikHanley11/04-12-2018/literature-review-copper-rod-analysis) by [ErikHanley11](../profile/ErikHanley11)
 - [Using the Wheestat in a real time device](/notes/klplum/02-19-2019/using-the-wheestat-in-a-real-time-device) by [klplum](../profile/klplum)
-- [Brass Components](/notes/dhaval/06-21-2019/brass-components) by [dhaval](../profile/dhaval)
 - [Using UVC or "deep UV" light to detect lead by fluorescence](/notes/warren/03-02-2022/using-uvc-or-deep-uv-light-to-detect-lead-by-fluorescence) by [warren](../profile/warren)

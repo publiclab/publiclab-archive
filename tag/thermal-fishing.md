@@ -1,6 +1,6 @@
 # thermal-fishing
 
-16 notes and wiki pages
+16 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Research Plan](/notes/kaya9804/2-12-2013/research-plan) by [Kaya9804](../profile/Kaya9804)
 - [Update on Fishing Bob](/notes/kaya9804/3-27-2013/update-fishing-bob-1) by [Kaya9804](../profile/Kaya9804)

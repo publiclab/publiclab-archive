@@ -1,6 +1,6 @@
 # exif
 
-5 notes and wiki pages
+5 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Auto Knitting enhancement usefulness and implementation.](/notes/xvidun/03-08-2014/auto-knitting-enhancement-usefulness-and-implementation) by [xvidun](../profile/xvidun)
 - [GSoC Update - AutoKnitting](/notes/xvidun/06-20-2014/gsoc-upadate-autoknitting) by [xvidun](../profile/xvidun)

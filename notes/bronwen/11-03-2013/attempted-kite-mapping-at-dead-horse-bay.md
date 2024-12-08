@@ -1,12 +1,18 @@
 ---
-nid: 9722
 title: (Attempted) Kite Mapping at Dead Horse Bay
-path: public/static/notes/bronwen/11-03-2013/attempted-kite-mapping-at-dead-horse-bay.md
+tagnames: new-york-city, kite-mapping, brooklyn, waste, trash, dead-horse-bay
+author: Bronwen
+path: /notes/bronwen/11-03-2013/attempted-kite-mapping-at-dead-horse-bay.md
+nid: 9722
 uid: 237313
-tagnames: new-york-city,kite-mapping,brooklyn,waste,trash,dead-horse-bay
+
 ---
 
 # (Attempted) Kite Mapping at Dead Horse Bay
+
+by [Bronwen](../profile/Bronwen) November 03, 2013 18:02
+
+November 03, 2013 18:02 | Tags: [new-york-city](../tag/new-york-city), [kite-mapping](../tag/kite-mapping), [brooklyn](../tag/brooklyn), [waste](../tag/waste), [trash](../tag/trash), [dead-horse-bay](../tag/dead-horse-bay)
 
 ###What I want to do
 

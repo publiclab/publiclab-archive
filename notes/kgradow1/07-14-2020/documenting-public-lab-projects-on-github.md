@@ -1,12 +1,18 @@
 ---
-nid: 24152
 title: Documenting Public Lab projects on Github
-path: public/static/notes/kgradow1/07-14-2020/documenting-public-lab-projects-on-github.md
+tagnames: question:general, general
+author: kgradow1
+path: /notes/kgradow1/07-14-2020/documenting-public-lab-projects-on-github.md
+nid: 24152
 uid: 297929
-tagnames: question:general,general
+
 ---
 
 # Documenting Public Lab projects on Github
+
+by [kgradow1](../profile/kgradow1) July 14, 2020 18:17
+
+July 14, 2020 18:17 | Tags: [question:general](../tag/question:general), [general](../tag/general)
 
 Hi all, my name is Katie.  I'm the Community Tech Fellow working on the bucket monitor project for Public Lab.  I'm circling back with some procedural questions on open hardware documentation!
 

@@ -1,12 +1,18 @@
 ---
-nid: 14145
 title: Investigating thermal properties of paved surfaces using grassroots mapping approaches. 
-path: public/static/notes/Rmeyer/04-27-2017/investigating-thermal-properties-of-paved-surfaces-using-grassroots-mapping-approaches.md
+tagnames: thermal-photography, aerial-photography, infra-red, aerial-mapping, thermal-camera, thermal, aerial-imaging, answered, question:thermal-photography
+author: Rmeyer
+path: /notes/Rmeyer/04-27-2017/investigating-thermal-properties-of-paved-surfaces-using-grassroots-mapping-approaches.md
+nid: 14145
 uid: 495854
-tagnames: thermal-photography,aerial-photography,infra-red,aerial-mapping,thermal-camera,thermal,aerial-imaging,answered,question:thermal-photography
+
 ---
 
 # Investigating thermal properties of paved surfaces using grassroots mapping approaches. 
+
+by [Rmeyer](../profile/Rmeyer) April 27, 2017 17:23
+
+April 27, 2017 17:23 | Tags: [thermal-photography](../tag/thermal-photography), [aerial-photography](../tag/aerial-photography), [infra-red](../tag/infra-red), [aerial-mapping](../tag/aerial-mapping), [thermal-camera](../tag/thermal-camera), [thermal](../tag/thermal), [aerial-imaging](../tag/aerial-imaging), [answered](../tag/answered), [question:thermal-photography](../tag/question:thermal-photography)
 
 ###What I want to do or know
 

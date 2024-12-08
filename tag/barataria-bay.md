@@ -1,6 +1,6 @@
 # barataria-bay
 
-31 notes and wiki pages
+31 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Barataria Bay Flyover](/notes/adam-griffith/3-1-2011/barataria-bay-flyover) by [adam-griffith](../profile/adam-griffith)
 - [USDA Farm Services Agency imagery of oil in Barataria Bay](/notes/warren/5-13-2011/usda-farm-services-agency-imagery-oil-barataria-bay) by [warren](../profile/warren)

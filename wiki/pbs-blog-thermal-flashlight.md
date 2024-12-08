@@ -1,12 +1,18 @@
 ---
-nid: 714
 title: PBS Blog on Thermal Flashlight
-path: public/static/wiki/pbs-blog-thermal-flashlight.md
-uid: 8
 tagnames: idealab
+author: sara
+path: /wiki/pbs-blog-thermal-flashlight.md
+nid: 714
+uid: 8
+
 ---
 
 # PBS Blog on Thermal Flashlight
+
+by [liz](../profile/liz), [warren](../profile/warren), [sara](../profile/sara)
+
+January 20, 2012 19:07 | Tags: [idealab](../tag/idealab)
 
 PBS published a blog about our Thermal Flashlight Development this week. Check it out:
 

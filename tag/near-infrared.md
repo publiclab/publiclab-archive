@@ -1,6 +1,6 @@
 # near-infrared
 
-24 notes and wiki pages
+24 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Webcam Conversion to (Near-) Infrared](/notes/joshmc/10-12-2012/webcam-conversion-near-infrared) by [JoshMc](../profile/JoshMc)
 - [John Wells Near IR conversion for 808 HD Cams](/notes/mathew/2-19-2013/john-wells-near-ir-conversion-808-hd-cams) by [mathew](../profile/mathew)
@@ -15,7 +15,6 @@
 - [First Drone Flight and White Balance Issues](/notes/amck/09-14-2015/first-drone-flight-and-white-balance-issues) by [amck](../profile/amck)
 - [Near-infrared absorption spectroscopy](/notes/shubham/01-27-2016/near-infrared-absorption-spectroscopy) by [shubham](../profile/shubham)
 - [Plant Health NDVI Consumer camera vs Professional multispectral camera](/notes/Claytonb/07-09-2016/plant-health-ndvi-consumer-camera-vs-professional-multispectral-camera) by [Claytonb](../profile/Claytonb)
-- [Question: SAP technology insights](/notes/Nymann/09-27-2016/question-sap-technology-insights) by [Nymann](../profile/Nymann)
 - [How can I can make a raspberry pi camera just with the filters process the crops and immediately produce the results to a computer or to other device, without having to use the website?](/notes/csteran/03-13-2018/how-can-i-can-make-a-raspberry-pi-camera-just-with-the-filters-process-the-crops-and-immediately-produce-the-results-to-a-computer-or-to-other-device-without-having-to-use-the-website) by [csteran](../profile/csteran)
 - [Which RGB channel is the near-infrared saved in for the red and blue filter?  ](/notes/jenhu/04-03-2018/which-rgb-channel-is-the-near-infrared-saved-in-for-the-red-and-blue-filter) by [jenhu](../profile/jenhu)
 - [Why do the plant colors look the way they do?](/notes/jenhu/04-03-2018/why-do-the-plant-colors-look-the-way-they-do) by [jenhu](../profile/jenhu)

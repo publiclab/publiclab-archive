@@ -1,12 +1,18 @@
 ---
-nid: 5893
 title: Bayou Manchac map of sewerage problem
-path: public/static/notes/eustatic/2-5-2013/bayou-manchac-map-sewerage-problem.md
+tagnames: balloon-mapping, kite-mapping, annotated-maps, map-aesthetics
+author: eustatic
+path: /2-5-2013/bayou-manchac-map-sewerage-problem.md
+nid: 5893
 uid: 379
-tagnames: balloon-mapping,kite-mapping,annotated-maps,map-aesthetics
+
 ---
 
 # Bayou Manchac map of sewerage problem
+
+by [eustatic](../profile/eustatic) February 05, 2013 16:52
+
+February 05, 2013 16:52 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [annotated-maps](../tag/annotated-maps), [map-aesthetics](../tag/map-aesthetics)
 
 Re: our discussion of design aesthetics
 

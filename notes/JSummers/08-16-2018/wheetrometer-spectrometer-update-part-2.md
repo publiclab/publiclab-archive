@@ -1,12 +1,18 @@
 ---
-nid: 16944
 title: Wheetrometer Spectrometer update: Part 2.
-path: public/static/notes/JSummers/08-16-2018/wheetrometer-spectrometer-update-part-2.md
+tagnames: spectrometer, software, wheetrometer
+author: JSummers
+path: /notes/JSummers/08-16-2018/wheetrometer-spectrometer-update-part-2.md
+nid: 16944
 uid: 304279
-tagnames: spectrometer,software,wheetrometer
+
 ---
 
 # Wheetrometer Spectrometer update: Part 2.
+
+by [JSummers](../profile/JSummers) August 16, 2018 20:57
+
+August 16, 2018 20:57 | Tags: [spectrometer](../tag/spectrometer), [software](../tag/software), [wheetrometer](../tag/wheetrometer)
 
 # Goal:
 

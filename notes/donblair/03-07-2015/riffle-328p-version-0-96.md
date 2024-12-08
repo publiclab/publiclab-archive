@@ -1,12 +1,18 @@
 ---
-nid: 11662
 title: Riffle-328p version 0.96 :)
-path: public/static/notes/donblair/03-07-2015/riffle-328p-version-0-96.md
+tagnames: water-quality, riffle, open-water
+author: donblair
+path: /notes/donblair/03-07-2015/riffle-328p-version-0-96.md
+nid: 11662
 uid: 43651
-tagnames: water-quality,riffle,open-water
+
 ---
 
 # Riffle-328p version 0.96 :)
+
+by [donblair](../profile/donblair) March 07, 2015 19:17
+
+March 07, 2015 19:17 | Tags: [water-quality](../tag/water-quality), [riffle](../tag/riffle), [open-water](../tag/open-water)
 
 Quick update on the latest design for the Riffle ...
 

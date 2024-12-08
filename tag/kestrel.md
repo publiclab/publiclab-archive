@@ -1,6 +1,6 @@
 # kestrel
 
-3 notes and wiki pages
+3 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [How do we get data off of different wind sensors](/notes/warren/09-30-2017/how-do-we-get-data-off-of-different-wind-sensors) by [warren](../profile/warren)
 - [Walkthrough:  What software is used to get wind data off the Kestral?](/notes/kgradow1/09-30-2017/walkthrough-what-software-is-used-to-get-wind-data-off-the-kestral) by [kgradow1](../profile/kgradow1)

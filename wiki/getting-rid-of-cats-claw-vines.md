@@ -1,12 +1,18 @@
 ---
-nid: 22884
 title: Getting rid of Cats-Claw Vines
-path: public/static/wiki/getting-rid-of-cats-claw-vines.md
-uid: 664710
 tagnames: with:amallozzi
+author: ExtinctAnimals
+path: /wiki/getting-rid-of-cats-claw-vines.md
+nid: 22884
+uid: 664710
+
 ---
 
 # Getting rid of Cats-Claw Vines
+
+by [ExtinctAnimals](../profile/ExtinctAnimals)
+
+February 20, 2020 15:30 | Tags: [with:amallozzi](../tag/with:amallozzi)
 
 [![image4.jpeg](/i/38505)](/i/38505?s=o)
 

@@ -1,12 +1,18 @@
 ---
-nid: 11230
 title: DIY Hydroelectric Generator
-path: public/static/wiki/diy-hydroelectric-generator.md
+tagnames: diy, amherst-media, 5-college, publiclab-at-amherst-media, publiclab-at-umass, mountholyoke, generator, hydroelectric
+author: EllaHolmes
+path: /wiki/diy-hydroelectric-generator.md
+nid: 11230
 uid: 429415
-tagnames: diy,amherst-media,5-college,publiclab-at-amherst-media,publiclab-at-umass,mountholyoke,generator,hydroelectric
+
 ---
 
 # DIY Hydroelectric Generator
+
+by [EllaHolmes](../profile/EllaHolmes), [romeo22e](../profile/romeo22e)
+
+October 06, 2014 00:25 | Tags: [diy](../tag/diy), [amherst-media](../tag/amherst-media), [5-college](../tag/5-college), [publiclab-at-amherst-media](../tag/publiclab-at-amherst-media), [publiclab-at-umass](../tag/publiclab-at-umass), [mountholyoke](../tag/mountholyoke), [generator](../tag/generator), [hydroelectric](../tag/hydroelectric)
 
 ##Our Process:
 

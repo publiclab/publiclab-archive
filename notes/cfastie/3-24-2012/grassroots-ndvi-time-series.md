@@ -1,12 +1,18 @@
 ---
-nid: 1541
 title: Grassroots NDVI - time series
-path: public/static/notes/cfastie/3-24-2012/grassroots-ndvi-time-series.md
+tagnames: balloon-mapping, near-infrared-camera, kite-mapping, ndvi, timeseries
+author: cfastie
+path: /notes/cfastie/3-24-2012/grassroots-ndvi-time-series.md
+nid: 1541
 uid: 554
-tagnames: balloon-mapping,near-infrared-camera,kite-mapping,ndvi,timeseries
+
 ---
 
 # Grassroots NDVI - time series
+
+by [cfastie](../profile/cfastie) March 25, 2012 03:43
+
+March 25, 2012 03:43 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [ndvi](../tag/ndvi), [timeseries](../tag/timeseries)
 
 About a year after the launch of the first Landsat satellite in 1972, scientists began using the data to compute a normalized difference vegetation index (NDVI) which was a good proxy for photosynthetic activity. Dozens of subsequent satellites have returned data about the red and infrared light reflected from Earth's surface, and for 40 years NDVI computed from these two bands has been a standard way of describing vegetation health or productivity. Some backers of the Balloon Mapping Kickstarter project will receive a pair of cameras which can be used to capture information similar to the red and infrared satellite data, and I have been wondering how this information can be used. One of the more common applications of NDVI data is the compilation of time series which show how photosynthetic activity changes seasonally. For example, here is an animation of 20 years of NDVI showing the seasonal green-up and browning of vegetation in Europe.
 <iframe width="540" height="315" src="https://www.youtube.com/embed/UPan843dZ5Q?rel=0" frameborder="0" allowfullscreen=""></iframe>

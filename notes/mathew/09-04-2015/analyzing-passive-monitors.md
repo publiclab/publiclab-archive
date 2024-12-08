@@ -1,12 +1,18 @@
 ---
-nid: 12197
 title: analyzing passive monitors
-path: public/static/notes/mathew/09-04-2015/analyzing-passive-monitors.md
+tagnames: image-processing, dust, silica, frac-sand, pm, open-air, particle-sensing, particle-monitoring, dust-monitoring, openair, image-analysis, fracsand, air-sensing, passive-particle-monitors, passive-pm, parent:frac-sand
+author: mathew
+path: /notes/mathew/09-04-2015/analyzing-passive-monitors.md
+nid: 12197
 uid: 4
-tagnames: image-processing,dust,silica,frac-sand,pm,open-air,particle-sensing,particle-monitoring,dust-monitoring,openair,image-analysis,fracsand,air-sensing,passive-particle-monitors,passive-pm,parent:frac-sand
+
 ---
 
 # analyzing passive monitors
+
+by [mathew](../profile/mathew) September 04, 2015 01:32
+
+September 04, 2015 01:32 | Tags: [image-processing](../tag/image-processing), [dust](../tag/dust), [silica](../tag/silica), [frac-sand](../tag/frac-sand), [pm](../tag/pm), [open-air](../tag/open-air), [particle-sensing](../tag/particle-sensing), [particle-monitoring](../tag/particle-monitoring), [dust-monitoring](../tag/dust-monitoring), [openair](../tag/openair), [image-analysis](../tag/image-analysis), [fracsand](../tag/fracsand), [air-sensing](../tag/air-sensing), [passive-particle-monitors](../tag/passive-particle-monitors), [passive-pm](../tag/passive-pm), [parent:frac-sand](../tag/parent:frac-sand)
 
 ###Analysis Prep
 In analyzing passive particle monitors, we’ll collect a glass slide cover with a 6mm circle of dust that has settled over 1-10 days in a [passive particle monitor](http://publiclab.org/notes/mathew/09-02-2015/replicating-a-passive-dust-monitor-method) we've [imaged](http://publiclab.org/notes/mathew/09-03-2015/optical-imaging-of-passive-particle-monitors).

@@ -1,12 +1,18 @@
 ---
-nid: 12262
 title: Fall delayed as LEAFFEST looms
-path: public/static/notes/cfastie/10-01-2015/fall-delayed-as-leaffest-looms.md
+tagnames: near-infrared-camera, spectrometer, vermont, oil-spill-toolkit, leaffest, event, infragram, northeast, leaffest2015, response:12212
+author: cfastie
+path: /notes/cfastie/10-01-2015/fall-delayed-as-leaffest-looms.md
+nid: 12262
 uid: 554
-tagnames: near-infrared-camera,spectrometer,vermont,oil-spill-toolkit,leaffest,event,infragram,northeast,leaffest2015,response:12212
+
 ---
 
 # Fall delayed as LEAFFEST looms
+
+by [cfastie](../profile/cfastie) October 01, 2015 18:26
+
+October 01, 2015 18:26 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [spectrometer](../tag/spectrometer), [vermont](../tag/vermont), [oil-spill-toolkit](../tag/oil-spill-toolkit), [leaffest](../tag/leaffest), [event](../tag/event), [infragram](../tag/infragram), [northeast](../tag/northeast), [leaffest2015](../tag/leaffest2015), [response:12212](../tag/response:12212)
 
 Salisbury Vermont (<u>LEAFFEST HQ</u>) -- After nearly a decade of study, scientists in Vermont have discovered how to subdue the traditional colorful displays of fall foliage. Experts predict that this will prevent tons of carbon dioxide, a greenhouse gas, from being released in the state during October by slow moving cars from Connecticut and New Jersey. Author and activist Bill McKibben of Middlebury College confirmed the broad implications of this breakthrough: "Vermont is a green state. There are going to be palm trees growing here soon anyway, so it's time we become accustomed to this color year round." 
 

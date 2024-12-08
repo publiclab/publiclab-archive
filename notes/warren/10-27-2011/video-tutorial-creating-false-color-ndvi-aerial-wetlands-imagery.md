@@ -1,12 +1,18 @@
 ---
-nid: 523
 title: Video tutorial: Creating false-color NDVI with aerial wetlands imagery
-path: public/static/notes/warren/10-27-2011/video-tutorial-creating-false-color-ndvi-aerial-wetlands-imagery.md
+tagnames: near-infrared-camera, video, ndvi, archaeology, gimp, activity:multispectral-imaging, activity:infragram, activity:ndvi
+author: warren
+path: /notes/warren/10-27-2011/video-tutorial-creating-false-color-ndvi-aerial-wetlands-imagery.md
+nid: 523
 uid: 1
-tagnames: near-infrared-camera,video,ndvi,archaeology,gimp,activity:multispectral-imaging,activity:infragram,activity:ndvi
+
 ---
 
 # Video tutorial: Creating false-color NDVI with aerial wetlands imagery
+
+by [warren](../profile/warren) October 27, 2011 18:52
+
+October 27, 2011 18:52 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [video](../tag/video), [ndvi](../tag/ndvi), [archaeology](../tag/archaeology), [gimp](../tag/gimp), [activity:multispectral-imaging](../tag/activity:multispectral-imaging), [activity:infragram](../tag/activity:infragram), [activity:ndvi](../tag/activity:ndvi)
 
 <iframe width="480" height="360" src="https://www.youtube.com/embed/-nNnWEHNO_w" frameborder="0" allowfullscreen></iframe>
 

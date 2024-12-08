@@ -1,12 +1,18 @@
 ---
-nid: 25142
 title: Comparing air quality databases: a fun activity
-path: public/static/notes/bhamster/11-30-2020/comparing-air-quality-databases-a-fun-activity.md
+tagnames: epa, database, air-quality, emissions, skytruth, bucket-brigade, getting-started, advocacy, activity:air-quality, existing-data, toxics-release-inventory, air-pollution, national-emissions-inventory, bucket-monitor, activity:bucket-monitor, air-database, activity:air-database
+author: bhamster
+path: /notes/bhamster/11-30-2020/comparing-air-quality-databases-a-fun-activity.md
+nid: 25142
 uid: 664477
-tagnames: epa,database,air-quality,emissions,skytruth,bucket-brigade,getting-started,advocacy,activity:air-quality,existing-data,toxics-release-inventory,air-pollution,national-emissions-inventory,bucket-monitor,activity:bucket-monitor,air-database,activity:air-database
+
 ---
 
 # Comparing air quality databases: a fun activity
+
+by [bhamster](../profile/bhamster) November 30, 2020 21:53
+
+November 30, 2020 21:53 | Tags: [epa](../tag/epa), [database](../tag/database), [air-quality](../tag/air-quality), [emissions](../tag/emissions), [skytruth](../tag/skytruth), [bucket-brigade](../tag/bucket-brigade), [getting-started](../tag/getting-started), [advocacy](../tag/advocacy), [activity:air-quality](../tag/activity:air-quality), [existing-data](../tag/existing-data), [toxics-release-inventory](../tag/toxics-release-inventory), [air-pollution](../tag/air-pollution), [national-emissions-inventory](../tag/national-emissions-inventory), [bucket-monitor](../tag/bucket-monitor), [activity:bucket-monitor](../tag/activity:bucket-monitor), [air-database](../tag/air-database), [activity:air-database](../tag/activity:air-database)
 
 Do the words database, fun, and activity belong together in a sentence? Let's find out!
 <br>

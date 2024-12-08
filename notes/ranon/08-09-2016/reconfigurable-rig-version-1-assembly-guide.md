@@ -1,12 +1,18 @@
 ---
-nid: 13343
 title: Reconfigurable Rig Version 1 Assembly Guide
-path: public/static/notes/ranon/08-09-2016/reconfigurable-rig-version-1-assembly-guide.md
+tagnames: kite-aerial-photography, kap, photo-rig, diy-balloon, balloon-mapping-kit, autokap, kap-rigs, dii-kites, reconfigurable-rig, activity:photo-rig
+author: ranon
+path: /notes/ranon/08-09-2016/reconfigurable-rig-version-1-assembly-guide.md
+nid: 13343
 uid: 477060
-tagnames: kite-aerial-photography,kap,photo-rig,diy-balloon,balloon-mapping-kit,autokap,kap-rigs,dii-kites,reconfigurable-rig,activity:photo-rig
+
 ---
 
 # Reconfigurable Rig Version 1 Assembly Guide
+
+by [ranon](../profile/ranon) August 09, 2016 21:41
+
+August 09, 2016 21:41 | Tags: [kite-aerial-photography](../tag/kite-aerial-photography), [kap](../tag/kap), [photo-rig](../tag/photo-rig), [diy-balloon](../tag/diy-balloon), [balloon-mapping-kit](../tag/balloon-mapping-kit), [autokap](../tag/autokap), [kap-rigs](../tag/kap-rigs), [dii-kites](../tag/dii-kites), [reconfigurable-rig](../tag/reconfigurable-rig), [activity:photo-rig](../tag/activity:photo-rig)
 
 ###Reconfigurable Rig v. 1
 The first version of the Reconfigurable Rig is now complete and shipped to testers. This is a series of step by step instructions for assembling the rig in landscape and portrait orientations, using the silly putty pan mechanism and a pendulum attachment.

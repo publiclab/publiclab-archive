@@ -1,12 +1,18 @@
 ---
-nid: 10058
 title: The Blair House Project
-path: public/static/notes/lauradietz/02-23-2014/the-blairhouse-project.md
+tagnames: vermont, events:vermont, riffle, snowfest, blair-house, quinzee, snowfest2014, riffle-examples
+author: lauradietz
+path: /notes/lauradietz/02-23-2014/the-blairhouse-project.md
+nid: 10058
 uid: 420993
-tagnames: vermont,events:vermont,riffle,snowfest,blair-house,quinzee,snowfest2014,riffle-examples
+
 ---
 
 # The Blair House Project
+
+by [lauradietz](../profile/lauradietz) February 23, 2014 20:22
+
+February 23, 2014 20:22 | Tags: [vermont](../tag/vermont), [events:vermont](../tag/events:vermont), [riffle](../tag/riffle), [snowfest](../tag/snowfest), [blair-house](../tag/blair-house), [quinzee](../tag/quinzee), [snowfest2014](../tag/snowfest2014), [riffle-examples](../tag/riffle-examples)
 
 ###What I want to do
 Measure overnight temperature inside verus outside a quinzee.

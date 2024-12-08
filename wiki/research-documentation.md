@@ -1,12 +1,18 @@
 ---
-nid: 12935
 title: Research Documentation
-path: public/static/wiki/research-documentation.md
-uid: 430549
 tagnames: 
+author: gretchengehrke
+path: /wiki/research-documentation.md
+nid: 12935
+uid: 430549
+
 ---
 
 # Research Documentation
+
+by [stoft](../profile/stoft), [mathew](../profile/mathew), [gretchengehrke](../profile/gretchengehrke)
+
+April 07, 2016 20:21 | Tags: 
 
 **Abstract**
 

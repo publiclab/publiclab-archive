@@ -1,12 +1,18 @@
 ---
-nid: 14157
 title: NOSA, agencia espacial escolar gallega
-path: public/static/notes/xose/05-02-2017/nosa-agencia-espacial-gallega.md
+tagnames: spain, balloon, high-school, iso:es, lang:es, blog-submission
+author: xose
+path: /notes/xose/05-02-2017/nosa-agencia-espacial-gallega.md
+nid: 14157
 uid: 497123
-tagnames: spain,balloon,high-school,iso:es,lang:es,blog-submission
+
 ---
 
 # NOSA, agencia espacial escolar gallega
+
+by [xose](../profile/xose) May 02, 2017 17:22
+
+May 02, 2017 17:22 | Tags: [spain](../tag/spain), [balloon](../tag/balloon), [high-school](../tag/high-school), [iso:es](../tag/iso:es), [lang:es](../tag/lang:es), [blog-submission](../tag/blog-submission)
 
 ##**esp///**
 

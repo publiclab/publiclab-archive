@@ -1,12 +1,18 @@
 ---
-nid: 889
 title: March Mapping Madness-Asheville
-path: public/static/wiki/march-mapping-madness-asheville.md
-uid: 8
 tagnames: lunalillian
+author: sara
+path: /wiki/march-mapping-madness-asheville.md
+nid: 889
+uid: 8
+
 ---
 
 # March Mapping Madness-Asheville
+
+by [adam-griffith](../profile/adam-griffith), [jbreen](../profile/jbreen), [sara](../profile/sara)
+
+March 06, 2012 00:50 | Tags: [lunalillian](../tag/lunalillian)
 
 Planning Page for March Mapping Madness Event in Asheville, North Carolina.
 

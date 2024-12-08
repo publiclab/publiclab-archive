@@ -1,11 +1,17 @@
 ---
-nid: 24796
 title: bucket
-path: public/static/wiki/bucket.md
-uid: 1
 tagnames: redirect:air-sampling
+author: warren
+path: /wiki/bucket.md
+nid: 24796
+uid: 1
+
 ---
 
 # bucket
+
+by [warren](../profile/warren)
+
+October 23, 2020 13:39 | Tags: [redirect:air-sampling](../tag/redirect:air-sampling)
 
 Redirect

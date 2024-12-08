@@ -1,12 +1,18 @@
 ---
-nid: 25636
 title: New Orleans Parish Educators: Join Public Lab for our March Microplastics Workshop!
-path: public/static/notes/purl/02-09-2021/new-orleans-parish-educators-join-public-lab-for-our-march-microplastics-workshop.md
-uid: 736598
 tagnames: 
+author: purl
+path: /notes/purl/02-09-2021/new-orleans-parish-educators-join-public-lab-for-our-march-microplastics-workshop.md
+nid: 25636
+uid: 736598
+
 ---
 
 # New Orleans Parish Educators: Join Public Lab for our March Microplastics Workshop!
+
+by [purl](../profile/purl) February 09, 2021 16:54
+
+February 09, 2021 16:54 | Tags: 
 
 Date: March 21st, 2021
 

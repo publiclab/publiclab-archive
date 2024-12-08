@@ -1,12 +1,18 @@
 ---
-nid: 1604
 title: Attributing Public Laboratory work
-path: public/static/wiki/attribution.md
-uid: 1
 tagnames: community
+author: warren
+path: /wiki/attribution.md
+nid: 1604
+uid: 1
+
 ---
 
 # Attributing Public Laboratory work
+
+by [warren](../profile/warren)
+
+April 02, 2012 18:33 | Tags: [community](../tag/community)
 
 ###Guidelines for attribution###
 

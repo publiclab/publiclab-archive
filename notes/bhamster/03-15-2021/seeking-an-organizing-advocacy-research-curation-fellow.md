@@ -1,12 +1,18 @@
 ---
-nid: 25926
 title: Seeking an Organizing & Advocacy Research Curation Fellow
-path: public/static/notes/bhamster/03-15-2021/seeking-an-organizing-advocacy-research-curation-fellow.md
+tagnames: jobs, fellows, advocacy, fellowship, community-organizing, advocacy-pathways, fellow, law-and-policy, research-curation-fellows
+author: bhamster
+path: /notes/bhamster/03-15-2021/seeking-an-organizing-advocacy-research-curation-fellow.md
+nid: 25926
 uid: 664477
-tagnames: jobs,fellows,advocacy,fellowship,community-organizing,advocacy-pathways,fellow,law-and-policy,research-curation-fellows
+
 ---
 
 # Seeking an Organizing & Advocacy Research Curation Fellow
+
+by [bhamster](../profile/bhamster) March 15, 2021 21:54
+
+March 15, 2021 21:54 | Tags: [jobs](../tag/jobs), [fellows](../tag/fellows), [advocacy](../tag/advocacy), [fellowship](../tag/fellowship), [community-organizing](../tag/community-organizing), [advocacy-pathways](../tag/advocacy-pathways), [fellow](../tag/fellow), [law-and-policy](../tag/law-and-policy), [research-curation-fellows](../tag/research-curation-fellows)
 
 _**NOTE: The Organizing & Advocacy Research Curation Fellowship has been filled!** Please check out the [Fellows Program page here](https://publiclab.org/wiki/fellows#About+Research+Curation+Fellowships) to see other open fellowships for Research Curation at Public Lab. Thank you!_
 <hr>

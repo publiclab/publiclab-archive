@@ -1,6 +1,6 @@
 # question-microscopes
 
-21 notes and wiki pages
+21 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Have you had any experience utilizing low cost portable microscopes?  ](/notes/gilbert/07-18-2017/have-you-had-any-experience-utilizing-low-cost-portable-microscopes) by [gilbert](../profile/gilbert)
 - [What is the best low-cost or DIY microscope to use with a group? ](/notes/gretchengehrke/08-02-2017/what-is-the-best-low-cost-or-diy-microscope-to-use-with-a-group) by [gretchengehrke](../profile/gretchengehrke)

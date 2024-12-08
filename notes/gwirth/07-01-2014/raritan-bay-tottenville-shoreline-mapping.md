@@ -1,12 +1,18 @@
 ---
-nid: 10639
 title: Raritan Bay Tottenville Shoreline Mapping 
-path: public/static/notes/gwirth/07-01-2014/raritan-bay-tottenville-shoreline-mapping.md
+tagnames: coastal, coastalmonitoring, staten-island, island, bay, raritan, staten, tottenville, kayak, shoreline, place:raritan-bay, lat:40.497679, lon:-74.239897
+author: gwirth
+path: /notes/gwirth/07-01-2014/raritan-bay-tottenville-shoreline-mapping.md
+nid: 10639
 uid: 30539
-tagnames: coastal,coastalmonitoring,staten-island,island,bay,raritan,staten,tottenville,kayak,shoreline,place:raritan-bay,lat:40.497679,lon:-74.239897
+
 ---
 
 # Raritan Bay Tottenville Shoreline Mapping 
+
+by [gwirth](../profile/gwirth) July 01, 2014 21:33
+
+July 01, 2014 21:33 | Tags: [coastal](../tag/coastal), [coastalmonitoring](../tag/coastalmonitoring), [staten-island](../tag/staten-island), [island](../tag/island), [bay](../tag/bay), [raritan](../tag/raritan), [staten](../tag/staten), [tottenville](../tag/tottenville), [kayak](../tag/kayak), [shoreline](../tag/shoreline), [place:raritan-bay](../tag/place:raritan-bay), [lat:40.497679](../tag/lat:40.497679), [lon:-74.239897](../tag/lon:-74.239897)
 
 This Saturday Public Lab was out at the Raritan Bay Festival mapping the Tottenville and Great Kills shoreline in Staten Island. Kayak Staten Island sponsored kayaking events, and Conference House Park hosted Staten Island residents interested in getting closer with the water. More stitched images coming soon - a preview here features Crooke's Pointe at Great Kills, potential points of discharge at Tottenville (to be confirmed), and kayaking events along the shoreline. 
 

@@ -1,12 +1,18 @@
 ---
-nid: 397
 title: mapping curriculum publishing
-path: public/static/wiki/mapping-curriculum-publishing.md
-uid: 12
 tagnames: 
+author: gonzoearth
+path: /wiki/mapping-curriculum-publishing.md
+nid: 397
+uid: 12
+
 ---
 
 # mapping curriculum publishing
+
+by [gonzoearth](../profile/gonzoearth)
+
+July 21, 2011 05:50 | Tags: 
 
 *As part of the [Grassroots Mapping Curriculum](/wiki/mapping-curriculum) series.*
 

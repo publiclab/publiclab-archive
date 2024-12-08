@@ -1,12 +1,18 @@
 ---
-nid: 11834
 title: Mid stream Urine analysis: Check whether you need to drink more water or not
-path: public/static/notes/chongyukwai/05-23-2015/mid-stream-urine-analysis-check-whether-you-need-to-drink-more-water-or-not.md
+tagnames: spectrometer, analysis, spectro, urine
+author: chongyukwai
+path: /notes/chongyukwai/05-23-2015/mid-stream-urine-analysis-check-whether-you-need-to-drink-more-water-or-not.md
+nid: 11834
 uid: 442298
-tagnames: spectrometer,analysis,spectro,urine
+
 ---
 
 # Mid stream Urine analysis: Check whether you need to drink more water or not
+
+by [chongyukwai](../profile/chongyukwai) May 23, 2015 14:56
+
+May 23, 2015 14:56 | Tags: [spectrometer](../tag/spectrometer), [analysis](../tag/analysis), [spectro](../tag/spectro), [urine](../tag/urine)
 
 Background: This is an experiential application of using spectro as a measurement of the concentration of the urine. So people are unaware that they drink insufficient water. This experiment helps us to generate information and provide evidence whether they have drink sufficient H2O and provide advice to them.
 

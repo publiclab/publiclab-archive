@@ -1,12 +1,18 @@
 ---
-nid: 10063
 title: 3D data from image sets & Autostitching
-path: public/static/notes/mathew/02-25-2014/3d-data-from-image-sets-autostitching.md
+tagnames: 3d, mapknitter, sfm, structure-from-motion
+author: mathew
+path: /notes/mathew/02-25-2014/3d-data-from-image-sets-autostitching.md
+nid: 10063
 uid: 4
-tagnames: 3d,mapknitter,sfm,structure-from-motion
+
 ---
 
 # 3D data from image sets & Autostitching
+
+by [mathew](../profile/mathew) February 25, 2014 02:57
+
+February 25, 2014 02:57 | Tags: [3d](../tag/3d), [mapknitter](../tag/mapknitter), [sfm](../tag/sfm), [structure-from-motion](../tag/structure-from-motion)
 
 On our weekly organizers call, we discussed software for doing 3D reconstructions from photos.  I thought I'd make one list of the options currently available.  Please add more in the comments if you know of any.
 

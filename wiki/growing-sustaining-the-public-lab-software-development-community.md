@@ -1,12 +1,18 @@
 ---
-nid: 11789
 title: Growing & Sustaining the Public Lab Software Development Community
-path: public/static/wiki/growing-sustaining-the-public-lab-software-development-community.md
+tagnames: community-metrics, grassrootsmappingforum, style:fancy, with:jeff, software-development, gmf-7, with:btbonval, with:justinmanley, software-outreach
+author: mollydanielsson
+path: /wiki/growing-sustaining-the-public-lab-software-development-community.md
+nid: 11789
 uid: 1259
-tagnames: community-metrics,grassrootsmappingforum,style:fancy,with:jeff,software-development,gmf-7,with:btbonval,with:justinmanley,software-outreach
+
 ---
 
 # Growing & Sustaining the Public Lab Software Development Community
+
+by [mollydanielsson](../profile/mollydanielsson)
+
+May 06, 2015 01:24 | Tags: [community-metrics](../tag/community-metrics), [grassrootsmappingforum](../tag/grassrootsmappingforum), [style:fancy](../tag/style:fancy), [with:jeff](../tag/with:jeff), [software-development](../tag/software-development), [gmf-7](../tag/gmf-7), [with:btbonval](../tag/with:btbonval), [with:justinmanley](../tag/with:justinmanley), [software-outreach](../tag/software-outreach)
 
  by Justin Manley, Bryan Bonvallet, Jeff Warren, and Molly Danielsson
 

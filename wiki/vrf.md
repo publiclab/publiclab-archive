@@ -1,11 +1,17 @@
 ---
-nid: 22765
 title: vrf
-path: public/static/wiki/vrf.md
-uid: 540844
 tagnames: redirect:19661
+author: joyofsoy
+path: /wiki/vrf.md
+nid: 22765
+uid: 540844
+
 ---
 
 # vrf
+
+by [joyofsoy](../profile/joyofsoy)
+
+February 11, 2020 16:37 | Tags: [redirect:19661](../tag/redirect:19661)
 
 redirect

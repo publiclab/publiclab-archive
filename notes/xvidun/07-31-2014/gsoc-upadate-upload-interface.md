@@ -1,12 +1,18 @@
 ---
-nid: 10999
 title: GSoC Upadate - Upload Interface
-path: public/static/notes/xvidun/07-31-2014/gsoc-upadate-upload-interface.md
+tagnames: mapknitter, gsoc, gsoc-2014, response:10594, upload-interface
+author: xvidun
+path: /notes/xvidun/07-31-2014/gsoc-upadate-upload-interface.md
+nid: 10999
 uid: 421168
-tagnames: mapknitter,gsoc,gsoc-2014,response:10594,upload-interface
+
 ---
 
 # GSoC Upadate - Upload Interface
+
+by [xvidun](../profile/xvidun) July 31, 2014 17:41
+
+July 31, 2014 17:41 | Tags: [mapknitter](../tag/mapknitter), [gsoc](../tag/gsoc), [gsoc-2014](../tag/gsoc-2014), [response:10594](../tag/response:10594), [upload-interface](../tag/upload-interface)
 
 ###What I want to do
 I've been working on the upload interface for Mapknitter in the past week. In the coming weeks I'm looking to add more features to the interface based on points discussed earlier

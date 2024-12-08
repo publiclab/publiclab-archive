@@ -1,12 +1,16 @@
 ---
-nid: 13084
 title: dashboard-feature
-path: public/static/feature/dashboard-feature.md
-uid: 1
 tagnames: 
+author: warren
+path: /feature/dashboard-feature.md
+nid: 13084
+uid: 1
+
 ---
 
 # dashboard-feature
+
+May 06, 2016 15:24 | Tags: 
 
 <div class="dashboard-feature">
 

@@ -1,12 +1,18 @@
 ---
-nid: 679
 title: Georectifying in the Wetlands
-path: public/static/notes/gonzoearth/1-4-2012/georectifying-wetlands.md
+tagnames: wetlands, idealab, barataria, rectifying, lat:29.476067, lon:-89.921722, place:wilkinson-bay-louisiana-usa
+author: gonzoearth
+path: /notes/gonzoearth/1-4-2012/georectifying-wetlands.md
+nid: 679
 uid: 12
-tagnames: wetlands,idealab,barataria,rectifying,lat:29.476067,lon:-89.921722,place:wilkinson-bay-louisiana-usa
+
 ---
 
 # Georectifying in the Wetlands
+
+by [gonzoearth](../profile/gonzoearth) January 04, 2012 23:25
+
+January 04, 2012 23:25 | Tags: [wetlands](../tag/wetlands), [idealab](../tag/idealab), [barataria](../tag/barataria), [rectifying](../tag/rectifying), [lat:29.476067](../tag/lat:29.476067), [lon:-89.921722](../tag/lon:-89.921722), [place:wilkinson-bay-louisiana-usa](../tag/place:wilkinson-bay-louisiana-usa)
 
 > cross-posted from [PBS's IdeaLab](http://www.pbs.org/idealab/2012/01/public-lab-produces-wetlands-maps-from-balloon-and-kite-flights357.html). Making maps from balloon and kite flights in the dynamic coastal wetlands areas.
 

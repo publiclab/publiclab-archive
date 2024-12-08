@@ -1,12 +1,18 @@
 ---
-nid: 3988
 title: Super video of thermal infrared spectroscopy
-path: public/static/notes/warren/9-24-2012/super-video-thermal-infrared-spectroscopy.md
+tagnames: spectrometer, mid-infrared
+author: warren
+path: /notes/warren/9-24-2012/super-video-thermal-infrared-spectroscopy.md
+nid: 3988
 uid: 1
-tagnames: spectrometer,mid-infrared
+
 ---
 
 # Super video of thermal infrared spectroscopy
+
+by [warren](../profile/warren) September 24, 2012 15:31
+
+September 24, 2012 15:31 | Tags: [spectrometer](../tag/spectrometer), [mid-infrared](../tag/mid-infrared)
 
 [Jeri Ellsworth](https://www.youtube.com/user/jeriellsworth) (after a brief [intro to mass spectroscopy](https://www.youtube.com/watch?v=n0I6Yvzg7nU&feature=relmfu)) demonstrates a very simple DIY mid-infrared spectrometric detection of a fluorocarbon using a soldering iron as a black-body radiation source, an infrared detector from a home security motion sensor as the detector (starting around 3:00 in the vid). This is truly amazing and although it doesn't address the issue of filtering for a specific wavelength, is a very impressive use of common household materials to do mid-infrared sensing! Video is long but definitely worth the watch! 
 

@@ -1,6 +1,6 @@
 # question-pi-camera
 
-17 notes and wiki pages
+17 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [How do I set a custum white balance of the NoIR modulo cam?](/notes/LaPa/12-03-2015/how-do-i-set-a-costum-white-balance-of-the-noir-modulo-cam) by [LaPa](../profile/LaPa)
 - [Getting the spectrometer to work with a Raspberry Pi?](/notes/anjohn12/04-14-2016/question-getting-the-spectrometer-to-work-with-a-raspberry-pi) by [anjohn12](../profile/anjohn12)

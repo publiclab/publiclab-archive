@@ -1,12 +1,18 @@
 ---
-nid: 10557
 title: GSoC Update- Working of Image Distortion In Mapknitter 
-path: public/static/notes/anishshah101/06-13-2014/gsoc-update-working-of-image-distortion-in-mapknitter.md
+tagnames: mapknitter, gsoc, developers, gsoc-2014, barnstar:basic
+author: anishshah101
+path: /notes/anishshah101/06-13-2014/gsoc-update-working-of-image-distortion-in-mapknitter.md
+nid: 10557
 uid: 421046
-tagnames: mapknitter,gsoc,developers,gsoc-2014,barnstar:basic
+
 ---
 
 # GSoC Update- Working of Image Distortion In Mapknitter 
+
+by [anishshah101](../profile/anishshah101) June 13, 2014 06:17
+
+June 13, 2014 06:17 | Tags: [mapknitter](../tag/mapknitter), [gsoc](../tag/gsoc), [developers](../tag/developers), [gsoc-2014](../tag/gsoc-2014), [barnstar:basic](../tag/barnstar:basic)
 
 The image distortion in the editing interface in Mapknitter is one of the complex operations taking place in the tool.
 

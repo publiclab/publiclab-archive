@@ -1,6 +1,6 @@
 # guides
 
-19 notes and wiki pages
+19 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [T-shirt Guide](/wiki/t-shirt-guide) (wiki)
 - [Guides](/wiki/guides) (wiki)
@@ -19,5 +19,4 @@
 - [Beaufort Wind Scale Comic, 1906](/notes/mathew/01-25-2017/beaufort-wind-scale-comic-1906) by [mathew](../profile/mathew)
 - [Pre-order the community written Pocket Guide to Grassroots Mapping](/notes/warren/01-18-2018/pre-order-the-community-written-pocket-guide-to-grassroots-mapping) by [warren](../profile/warren)
 - [Indoor Air Remediation Kit—Paris Prototype and Workshop 2/2/18](/notes/nshapiro/02-07-2018/indoor-air-remediation-kit-paris-prototype-and-workshop-2-2-18) by [nshapiro](../profile/nshapiro)
-- [how to start baloon mapping?](/notes/ChristineMeany/08-02-2018/how-to-start-baloon-mapping) by [ChristineMeany](../profile/ChristineMeany)
 - [Writing a topic page on PublicLab.org](/notes/warren/03-22-2019/writing-a-topic-page-on-publiclab-org) by [warren](../profile/warren)

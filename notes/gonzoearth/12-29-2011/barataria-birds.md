@@ -1,12 +1,18 @@
 ---
-nid: 670
 title: Barataria Birds
-path: public/static/notes/gonzoearth/12-29-2011/barataria-birds.md
+tagnames: barataria, birds, aerialwildlife, wildlife
+author: gonzoearth
+path: /notes/gonzoearth/12-29-2011/barataria-birds.md
+nid: 670
 uid: 12
-tagnames: barataria,birds,aerialwildlife,wildlife
+
 ---
 
 # Barataria Birds
+
+by [gonzoearth](../profile/gonzoearth) December 30, 2011 00:21
+
+December 30, 2011 00:21 | Tags: [barataria](../tag/barataria), [birds](../tag/birds), [aerialwildlife](../tag/aerialwildlife), [wildlife](../tag/wildlife)
 
 lat: 29.447981° long: -89.943661°
 date: 2011-2-25

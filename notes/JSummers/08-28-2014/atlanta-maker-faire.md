@@ -1,12 +1,18 @@
 ---
-nid: 11084
 title: Atlanta Maker Faire
-path: public/static/notes/JSummers/08-28-2014/atlanta-maker-faire.md
+tagnames: event, event:rsvp, date:08-28-2014
+author: JSummers
+path: /notes/JSummers/08-28-2014/atlanta-maker-faire.md
+nid: 11084
 uid: 304279
-tagnames: event,event:rsvp,date:08-28-2014
+
 ---
 
 # Atlanta Maker Faire
+
+by [JSummers](../profile/JSummers) August 28, 2014 17:24
+
+August 28, 2014 17:24 | Tags: [event](../tag/event), [event:rsvp](../tag/event:rsvp), [date:08-28-2014](../tag/date:08-28-2014)
 
 ###What I want to do:
 I will be presenting material published on the Public Lab site to the good people of Atlanta.  

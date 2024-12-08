@@ -1,12 +1,18 @@
 ---
-nid: 1666
 title: Video History of Balloons: 1944 US Navy
-path: public/static/notes/liz/4-13-2012/video-history-balloons-1944-us-navy.md
+tagnames: balloon-mapping, kite-mapping
+author: liz
+path: /notes/liz/4-13-2012/video-history-balloons-1944-us-navy.md
+nid: 1666
 uid: 7
-tagnames: balloon-mapping,kite-mapping
+
 ---
 
 # Video History of Balloons: 1944 US Navy
+
+by [liz](../profile/liz) April 13, 2012 16:42
+
+April 13, 2012 16:42 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping)
 
 <em>Main image from <a href="http://www.wrl.org/events/centuries-art-your-library-5">civil war re-enacters recreating T.S.C. Lowe's aerial reconnaissance ballons</a>. </em>
 

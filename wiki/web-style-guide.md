@@ -1,12 +1,18 @@
 ---
-nid: 19278
 title: Web Style Guide
-path: public/static/wiki/web-style-guide.md
-uid: 1
 tagnames: parent:style-guide
+author: warren
+path: /wiki/web-style-guide.md
+nid: 19278
+uid: 1
+
 ---
 
 # Web Style Guide
+
+by [warren](../profile/warren)
+
+May 08, 2019 14:58 | Tags: [parent:style-guide](../tag/parent:style-guide)
 
 Coming soon!
 

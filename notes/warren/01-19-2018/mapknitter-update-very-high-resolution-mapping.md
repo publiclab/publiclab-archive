@@ -1,12 +1,18 @@
 ---
-nid: 15568
 title: MapKnitter update: very high resolution mapping
-path: public/static/notes/warren/01-19-2018/mapknitter-update-very-high-resolution-mapping.md
+tagnames: balloon-mapping, kite-mapping, mapknitter, aerial-photography, software, blog, leaflet, upgrades, stitching, updates, leaflet-distortable-image, map-stitching, garden-mapping, gardens
+author: warren
+path: /notes/warren/01-19-2018/mapknitter-update-very-high-resolution-mapping.md
+nid: 15568
 uid: 1
-tagnames: balloon-mapping,kite-mapping,mapknitter,aerial-photography,software,blog,leaflet,upgrades,stitching,updates,leaflet-distortable-image,map-stitching,garden-mapping,gardens
+
 ---
 
 # MapKnitter update: very high resolution mapping
+
+by [warren](../profile/warren) January 19, 2018 22:15
+
+January 19, 2018 22:15 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [mapknitter](../tag/mapknitter), [aerial-photography](../tag/aerial-photography), [software](../tag/software), [blog](../tag/blog), [leaflet](../tag/leaflet), [upgrades](../tag/upgrades), [stitching](../tag/stitching), [updates](../tag/updates), [leaflet-distortable-image](../tag/leaflet-distortable-image), [map-stitching](../tag/map-stitching), [garden-mapping](../tag/garden-mapping), [gardens](../tag/gardens)
 
 For the first time in a while, we've updated [MapKnitter.org](http://mapknitter.org) -- after the release of [Leaflet.DistortableImage v0.1.3](https://github.com/publiclab/Leaflet.DistortableImage/) -- incorporating new improvements from @justinmanley's [Leaflet.toolbar](https://github.com/Leaflet/Leaflet.toolbar) project, as well as some key changes to the image distortion (rubber sheeting) interface. Thanks to @icarito for the help!
 

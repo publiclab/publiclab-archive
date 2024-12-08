@@ -1,12 +1,18 @@
 ---
-nid: 15550
 title: DIY water monitoring workshop at HKBU
-path: public/static/notes/shanlter/01-19-2018/diy-water-monitoring-workshop-at-hkbu.md
+tagnames: workshop, water-quality, knowflow, activity:knowflow
+author: shanlter
+path: /notes/shanlter/01-19-2018/diy-water-monitoring-workshop-at-hkbu.md
+nid: 15550
 uid: 420999
-tagnames: workshop,water-quality,knowflow,activity:knowflow
+
 ---
 
 # DIY water monitoring workshop at HKBU
+
+by [shanlter](../profile/shanlter) January 19, 2018 04:08
+
+January 19, 2018 04:08 | Tags: [workshop](../tag/workshop), [water-quality](../tag/water-quality), [knowflow](../tag/knowflow), [activity:knowflow](../tag/activity:knowflow)
 
 I gave a 3 hour workshop on [DIY water monitoring at HKBU yesterday](https://dnnsociety.org/2018/01/05/workshop-harvest-water-quality-data-for-environmental-investigation-diy-monitor-with-arduino/). and want to share my schedule and slides here.
 

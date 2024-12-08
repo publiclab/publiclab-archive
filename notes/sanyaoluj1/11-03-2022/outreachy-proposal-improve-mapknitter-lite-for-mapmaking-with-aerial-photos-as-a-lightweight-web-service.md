@@ -1,12 +1,18 @@
 ---
-nid: 36051
 title: Outreachy Proposal: Improve MapKnitter Lite for Mapmaking with Aerial Photos as a Lightweight Web Service
-path: public/static/notes/sanyaoluj1/11-03-2022/outreachy-proposal-improve-mapknitter-lite-for-mapmaking-with-aerial-photos-as-a-lightweight-web-service.md
+tagnames: software, outreachy, first-time-poster, zoom:5, outreachy-2022, outreachy-winter-2022, lat:6.839169, lon:4.042968
+author: sanyaoluj1
+path: /notes/sanyaoluj1/11-03-2022/outreachy-proposal-improve-mapknitter-lite-for-mapmaking-with-aerial-photos-as-a-lightweight-web-service.md
+nid: 36051
 uid: 816148
-tagnames: software,outreachy,first-time-poster,zoom:5,outreachy-2022,outreachy-winter-2022,lat:6.839169,lon:4.042968
+
 ---
 
 # Outreachy Proposal: Improve MapKnitter Lite for Mapmaking with Aerial Photos as a Lightweight Web Service
+
+by [sanyaoluj1](../profile/sanyaoluj1) November 03, 2022 18:39
+
+November 03, 2022 18:39 | Tags: [software](../tag/software), [outreachy](../tag/outreachy), [first-time-poster](../tag/first-time-poster), [zoom:5](../tag/zoom:5), [outreachy-2022](../tag/outreachy-2022), [outreachy-winter-2022](../tag/outreachy-winter-2022), [lat:6.839169](../tag/lat:6.839169), [lon:4.042968](../tag/lon:4.042968)
 
 ## **About me**
 

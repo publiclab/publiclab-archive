@@ -1,12 +1,18 @@
 ---
-nid: 10138
 title: [GSOC PROPOSAL DRAFT] MapKnitter Enhancements.
-path: public/static/notes/xvidun/03-07-2014/gsoc-proposal-draft-mapknitter-enhancements.md
+tagnames: mapknitter, gps, gsoc, gsoc-2014, coding, first-time-poster
+author: xvidun
+path: /notes/xvidun/03-07-2014/gsoc-proposal-draft-mapknitter-enhancements.md
+nid: 10138
 uid: 421168
-tagnames: mapknitter,gps,gsoc,gsoc-2014,coding,first-time-poster
+
 ---
 
 # [GSOC PROPOSAL DRAFT] MapKnitter Enhancements.
+
+by [xvidun](../profile/xvidun) March 07, 2014 20:54
+
+March 07, 2014 20:54 | Tags: [mapknitter](../tag/mapknitter), [gps](../tag/gps), [gsoc](../tag/gsoc), [gsoc-2014](../tag/gsoc-2014), [coding](../tag/coding), [first-time-poster](../tag/first-time-poster)
 
 Name: Vidhun K.
 

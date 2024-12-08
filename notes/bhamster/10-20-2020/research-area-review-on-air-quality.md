@@ -1,12 +1,18 @@
 ---
-nid: 24777
 title: Research area review on air quality
-path: public/static/notes/bhamster/10-20-2020/research-area-review-on-air-quality.md
+tagnames: research, air-quality, bucket-brigade, reviews, simple-air-sensor, research-area-review, bucket-monitor
+author: bhamster
+path: /notes/bhamster/10-20-2020/research-area-review-on-air-quality.md
+nid: 24777
 uid: 664477
-tagnames: research,air-quality,bucket-brigade,reviews,simple-air-sensor,research-area-review,bucket-monitor
+
 ---
 
 # Research area review on air quality
+
+by [bhamster](../profile/bhamster) October 20, 2020 16:37
+
+October 20, 2020 16:37 | Tags: [research](../tag/research), [air-quality](../tag/air-quality), [bucket-brigade](../tag/bucket-brigade), [reviews](../tag/reviews), [simple-air-sensor](../tag/simple-air-sensor), [research-area-review](../tag/research-area-review), [bucket-monitor](../tag/bucket-monitor)
 
 _Image: [Foto-Rabe](https://pixabay.com/users/foto-rabe-715168/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=611668), [CC0](https://creativecommons.org/share-your-work/public-domain/cc0/)._
 

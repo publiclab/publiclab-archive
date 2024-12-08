@@ -1,12 +1,18 @@
 ---
-nid: 524
 title: Image Analysis
-path: public/static/wiki/image-analysis.md
+tagnames: image-compositing, image-processing, infragram, image-interpretation, image-analysis
+author: warren
+path: /wiki/image-analysis.md
+nid: 524
 uid: 1
-tagnames: image-compositing,image-processing,infragram,image-interpretation,image-analysis
+
 ---
 
 # Image Analysis
+
+by [wward1400](../profile/wward1400), [warren](../profile/warren)
+
+October 27, 2011 20:35 | Tags: [image-compositing](../tag/image-compositing), [image-processing](../tag/image-processing), [infragram](../tag/infragram), [image-interpretation](../tag/image-interpretation), [image-analysis](../tag/image-analysis)
 
 <img src="https://publiclab.org/sites/default/files/imagecache/default/barataria-nrg.jpg" />
 

@@ -1,12 +1,18 @@
 ---
-nid: 170
 title: Data
-path: public/static/wiki/data.md
-uid: 1
 tagnames: 
+author: warren
+path: /wiki/data.md
+nid: 170
+uid: 1
+
 ---
 
 # Data
+
+by [warren](../profile/warren)
+
+April 09, 2011 03:18 | Tags: 
 
 ##Community-produced data##
 

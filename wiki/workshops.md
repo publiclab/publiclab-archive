@@ -1,12 +1,18 @@
 ---
-nid: 21682
 title: Workshops
-path: public/static/wiki/workshops.md
-uid: 237313
 tagnames: 
+author: Bronwen
+path: /wiki/workshops.md
+nid: 21682
+uid: 237313
+
 ---
 
 # Workshops
+
+by [Bronwen](../profile/Bronwen)
+
+December 06, 2019 14:17 | Tags: 
 
 Public Lab is occasionally able to offer in-person workshops to interested people, groups or organizations. Information about workshops fees, scheduling and regional availability will be coming soon. 
 

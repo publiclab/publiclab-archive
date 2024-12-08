@@ -1,12 +1,18 @@
 ---
-nid: 27603
 title: sandbox-detecting-wastewater
-path: public/static/wiki/sandbox-detecting-wastewater.md
-uid: 664477
 tagnames: 
+author: bhamster
+path: /wiki/sandbox-detecting-wastewater.md
+nid: 27603
+uid: 664477
+
 ---
 
 # sandbox-detecting-wastewater
+
+by [bhamster](../profile/bhamster)
+
+August 19, 2021 21:29 | Tags: 
 
 _This draft wiki page is a work in progress!_
 

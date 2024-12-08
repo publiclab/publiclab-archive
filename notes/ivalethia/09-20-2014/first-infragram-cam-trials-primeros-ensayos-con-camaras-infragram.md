@@ -1,12 +1,18 @@
 ---
-nid: 11165
 title: First Infragram cam trials - Primeros ensayos con cámaras Infragram
-path: public/static/notes/ivalethia/09-20-2014/first-infragram-cam-trials-primeros-ensayos-con-camaras-infragram.md
+tagnames: infragram, camera, focus, sensation, gimp, question:infragram, filters, htc, sony, dsc, p41, vstarcam, t7837wip, ip, autofocus, negative, film, exposed
+author: ivalethia
+path: /notes/ivalethia/09-20-2014/first-infragram-cam-trials-primeros-ensayos-con-camaras-infragram.md
+nid: 11165
 uid: 423004
-tagnames: infragram,camera,focus,sensation,gimp,question:infragram,filters,htc,sony,dsc,p41,vstarcam,t7837wip,ip,autofocus,negative,film,exposed
+
 ---
 
 # First Infragram cam trials - Primeros ensayos con cámaras Infragram
+
+by [ivalethia](../profile/ivalethia) September 20, 2014 04:23
+
+September 20, 2014 04:23 | Tags: [infragram](../tag/infragram), [camera](../tag/camera), [focus](../tag/focus), [sensation](../tag/sensation), [gimp](../tag/gimp), [question:infragram](../tag/question:infragram), [filters](../tag/filters), [htc](../tag/htc), [sony](../tag/sony), [dsc](../tag/dsc), [p41](../tag/p41), [vstarcam](../tag/vstarcam), [t7837wip](../tag/t7837wip), [ip](../tag/ip), [autofocus](../tag/autofocus), [negative](../tag/negative), [film](../tag/film), [exposed](../tag/exposed)
 
 ###What I want to do
 Quisiera poder analizar la salud y crecimiento de distintos cultivos, en sistemas protegidos y otros al aire libre. Para esto dispongo de tres cámaras: Sony DSC-P41, HTC Sensation (teléfono celular), Vstarcam T7837WIP.

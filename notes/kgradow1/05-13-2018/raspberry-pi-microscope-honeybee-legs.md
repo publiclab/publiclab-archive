@@ -1,12 +1,18 @@
 ---
-nid: 16337
 title: Raspberry Pi Microscope:  Honeybee Legs
-path: public/static/notes/kgradow1/05-13-2018/raspberry-pi-microscope-honeybee-legs.md
-uid: 297929
 tagnames: 
+author: kgradow1
+path: /notes/kgradow1/05-13-2018/raspberry-pi-microscope-honeybee-legs.md
+nid: 16337
+uid: 297929
+
 ---
 
 # Raspberry Pi Microscope:  Honeybee Legs
+
+by [kgradow1](../profile/kgradow1) May 13, 2018 04:03
+
+May 13, 2018 04:03 | Tags: 
 
 Photos taken with the [Hackteria Microscope](https://publiclab.org/tag/microscope) of a honeybee legs with a 40x objective.
 

@@ -1,12 +1,18 @@
 ---
-nid: 9491
 title: Developers
-path: public/static/wiki/developers.md
+tagnames: community, software, programmers, developers, code, mapknitter2, soc
+author: warren
+path: /wiki/developers.md
+nid: 9491
 uid: 1
-tagnames: community,software,programmers,developers,code,mapknitter2,soc
+
 ---
 
 # Developers
+
+by [ruthnwaiganjo](../profile/ruthnwaiganjo), [warren](../profile/warren), [gauravano](../profile/gauravano), [liz](../profile/liz), [Gaurav](../profile/Gaurav)
+
+October 15, 2013 21:58 | Tags: [community](../tag/community), [software](../tag/software), [programmers](../tag/programmers), [developers](../tag/developers), [code](../tag/code), [mapknitter2](../tag/mapknitter2), [soc](../tag/soc)
 
 [Public Lab software](#Projects), including this website, is written collaboratively by a community of contributors. _Above: a diagram of the various [Public Lab software projects](https://publiclab.org/notes/warren/05-22-2019/draft-of-a-public-lab-software-roadmap-comments-welcome)_
 

@@ -1,12 +1,18 @@
 ---
-nid: 99
 title: Kits Initiative
-path: public/static/wiki/kits.md
+tagnames: open-hardware, kits, special, kits-initiative, hardware, locked, location:blurred, zoom:6, lat:46, lon:7, place:switzerland
+author: warren
+path: /wiki/kits.md
+nid: 99
 uid: 1
-tagnames: open-hardware,kits,special,kits-initiative,hardware,locked,location:blurred,zoom:6,lat:46,lon:7,place:switzerland
+
 ---
 
 # Kits Initiative
+
+by [mimiss](../profile/mimiss), [warren](../profile/warren), [liz](../profile/liz), [souravirus](../profile/souravirus), [tonyc](../profile/tonyc), [Shannon](../profile/Shannon), [Becki](../profile/Becki), [natalie](../profile/natalie), [mathew](../profile/mathew)
+
+February 22, 2011 22:27 | Tags: [open-hardware](../tag/open-hardware), [kits](../tag/kits), [special](../tag/special), [kits-initiative](../tag/kits-initiative), [hardware](../tag/hardware), [locked](../tag/locked), [location:blurred](../tag/location:blurred), [zoom:6](../tag/zoom:6), [lat:46](../tag/lat:46), [lon:7](../tag/lon:7), [place:switzerland](../tag/place:switzerland)
 
 ## How the Public Lab Kits Initiative is Responding to COVID-19
 

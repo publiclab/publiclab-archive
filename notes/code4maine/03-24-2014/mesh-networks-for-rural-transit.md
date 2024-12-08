@@ -1,12 +1,18 @@
 ---
-nid: 10219
 title: Mesh Networks for Rural Transit
-path: public/static/notes/code4maine/03-24-2014/mesh-networks-for-rural-transit.md
+tagnames: gps, transit, openwrt, mesh
+author: ajawitz
+path: /notes/code4maine/03-24-2014/mesh-networks-for-rural-transit.md
+nid: 10219
 uid: 294634
-tagnames: gps,transit,openwrt,mesh
+
 ---
 
 # Mesh Networks for Rural Transit
+
+by [ajawitz](../profile/ajawitz) March 24, 2014 22:00
+
+March 24, 2014 22:00 | Tags: [gps](../tag/gps), [transit](../tag/transit), [openwrt](../tag/openwrt), [mesh](../tag/mesh)
 
 ###What I want to do
    I want to utilize open source wifi/mesh networking protocols to provide small towns and rural regions with an affordable means of tracking public sector vehicle fleets, with specific attention to improving public transit accessibility. 

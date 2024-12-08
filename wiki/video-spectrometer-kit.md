@@ -1,12 +1,18 @@
 ---
-nid: 554
 title: Video Spectrometer Kit
-path: public/static/wiki/video-spectrometer-kit.md
-uid: 1
 tagnames: 
+author: warren
+path: /wiki/video-spectrometer-kit.md
+nid: 554
+uid: 1
+
 ---
 
 # Video Spectrometer Kit
+
+by [warren](../profile/warren)
+
+November 09, 2011 22:26 | Tags: 
 
 _This page is out of date; please see the [store](/store) for details, or the [video spectrometer page](/wiki/video-spectrometer)_
 

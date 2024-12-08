@@ -1,12 +1,18 @@
 ---
-nid: 11113
 title: Testing Google Maps Embed
-path: public/static/notes/kanarinka/09-06-2014/testing-google-maps-embed.md
+tagnames: mapping, water-quality-mapping, water-quality, map-annotations
+author: kanarinka
+path: /notes/kanarinka/09-06-2014/testing-google-maps-embed.md
+nid: 11113
 uid: 994
-tagnames: mapping,water-quality-mapping,water-quality,map-annotations
+
 ---
 
 # Testing Google Maps Embed
+
+by [kanarinka](../profile/kanarinka) September 06, 2014 11:27
+
+September 06, 2014 11:27 | Tags: [mapping](../tag/mapping), [water-quality-mapping](../tag/water-quality-mapping), [water-quality](../tag/water-quality), [map-annotations](../tag/map-annotations)
 
 ###What I want to do
 @donblair and I are going to be making a collaborative map of water conductivity with my journalism students and I want to see if we can embed a collaborative Google Map on the PublicLab site.

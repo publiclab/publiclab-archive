@@ -1,12 +1,18 @@
 ---
-nid: 30184
 title:  The Environmental Protection Agency's Widget is Useful (How's My Waterway?)
-path: public/static/notes/TheChessGym/03-24-2022/the-environmental-protection-agency-s-widget-is-useful-how-s-my-waterway.md
+tagnames: epa, lat:22, first-time-poster, lon:76, zoom:6
+author: TheChessGym
+path: /notes/TheChessGym/03-24-2022/the-environmental-protection-agency-s-widget-is-useful-how-s-my-waterway.md
+nid: 30184
 uid: 788868
-tagnames: epa,lat:22,first-time-poster,lon:76,zoom:6
+
 ---
 
 #  The Environmental Protection Agency's Widget is Useful (How's My Waterway?)
+
+by [TheChessGym](../profile/TheChessGym) March 24, 2022 14:42
+
+March 24, 2022 14:42 | Tags: [epa](../tag/epa), [lat:22](../tag/lat:22), [first-time-poster](../tag/first-time-poster), [lon:76](../tag/lon:76), [zoom:6](../tag/zoom:6)
 
 The Environmental Protection Agency has a cool widget that allows the public to view data on the water quality and status of all bodies of water in your immediate community. I was amazed at the amount of information provided about the different designations of water quality and its use for recreation, drinking, aquatic life, and even seafood consumption. Upon referencing my zip code I was able to see all of the neighboring waterways, estuaries, rivers, and coastal waters. 
 

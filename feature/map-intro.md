@@ -1,12 +1,16 @@
 ---
-nid: 23615
 title: map-intro
-path: public/static/feature/map-intro.md
-uid: 1
 tagnames: 
+author: warren
+path: /feature/map-intro.md
+nid: 23615
+uid: 1
+
 ---
 
 # map-intro
+
+May 13, 2020 03:49 | Tags: 
 
 <div class="map-intro">
   <span style="float:right;margin-top:-14px;" onclick="$('.map-intro').toggle()"><i style="color:#888;" class="fa fa-times"></i></span>

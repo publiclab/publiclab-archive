@@ -1,12 +1,18 @@
 ---
-nid: 21416
 title: Residents are fighting back against plastics odors in this small NY town
-path: public/static/notes/stevie/12-04-2019/residents-are-fighting-back-against-plastics-odors-in-this-small-ny-town.md
+tagnames: air-quality, blog, odor, oil-and-gas, plastics, with:joyofsoy, with:michaelwma, with:hara214, with:ca4o, orangetown-aluf, lat:41.074021, lon:-73.97621
+author: stevie
+path: /notes/stevie/12-04-2019/residents-are-fighting-back-against-plastics-odors-in-this-small-ny-town.md
+nid: 21416
 uid: 422561
-tagnames: air-quality,blog,odor,oil-and-gas,plastics,with:joyofsoy,with:michaelwma,with:hara214,with:ca4o,orangetown-aluf,lat:41.074021,lon:-73.97621
+
 ---
 
 # Residents are fighting back against plastics odors in this small NY town
+
+by [stevie](../profile/stevie) December 04, 2019 16:50
+
+December 04, 2019 16:50 | Tags: [air-quality](../tag/air-quality), [blog](../tag/blog), [odor](../tag/odor), [oil-and-gas](../tag/oil-and-gas), [plastics](../tag/plastics), [with:joyofsoy](../tag/with:joyofsoy), [with:michaelwma](../tag/with:michaelwma), [with:hara214](../tag/with:hara214), [with:ca4o](../tag/with:ca4o), [orangetown-aluf](../tag/orangetown-aluf), [lat:41.074021](../tag/lat:41.074021), [lon:-73.97621](../tag/lon:-73.97621)
 
 We live near a large manufacturer in Orangetown, NY called Aluf Plastics which has been emitting noxious odors into our community for many years. The facility processes plastic materials into plastic bags and also recycles polyethylene. Aluf runs six days a week 24 hours a day. The factory opened with seven extruders and eight bag machines in 1986. The plant now operates 70 blown film lines and is approximately 500,000 square feet. The factory is located a ½ mile or less to a high school, an elementary school, playgrounds, athletic fields, a college and their dorms, several preschools, a walking trail, churches, and many homes. This factory literally sits in the middle of our community. 
 

@@ -1,12 +1,18 @@
 ---
-nid: 12430
 title: barnraising-2015-photos-bronwen
-path: public/static/wiki/barnraising-2015-photos-bronwen.md
+tagnames: barnraising, lumcon, barnraising-2015
+author: Bronwen
+path: /wiki/barnraising-2015-photos-bronwen.md
+nid: 12430
 uid: 237313
-tagnames: barnraising,lumcon,barnraising-2015
+
 ---
 
 # barnraising-2015-photos-bronwen
+
+by [Bronwen](../profile/Bronwen)
+
+November 21, 2015 19:26 | Tags: [barnraising](../tag/barnraising), [lumcon](../tag/lumcon), [barnraising-2015](../tag/barnraising-2015)
 
 [![IMG_0323.JPG](//i.publiclab.org/system/images/photos/000/012/862/medium/IMG_0323.JPG)](//i.publiclab.org/system/images/photos/000/012/862/original/IMG_0323.JPG)
 

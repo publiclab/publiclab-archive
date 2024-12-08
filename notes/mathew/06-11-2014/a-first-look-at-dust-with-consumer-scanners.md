@@ -1,12 +1,18 @@
 ---
-nid: 10550
 title: a first look at dust with consumer scanners 
-path: public/static/notes/mathew/06-11-2014/a-first-look-at-dust-with-consumer-scanners.md
+tagnames: silica, pm, midwest, particle-sensing, particulate-monitoring, openair, stickypad, passive-pm
+author: mathew
+path: /notes/mathew/06-11-2014/a-first-look-at-dust-with-consumer-scanners.md
+nid: 10550
 uid: 4
-tagnames: silica,pm,midwest,particle-sensing,particulate-monitoring,openair,stickypad,passive-pm
+
 ---
 
 # a first look at dust with consumer scanners 
+
+by [mathew](../profile/mathew) June 11, 2014 02:58
+
+June 11, 2014 02:58 | Tags: [silica](../tag/silica), [pm](../tag/pm), [midwest](../tag/midwest), [particle-sensing](../tag/particle-sensing), [particulate-monitoring](../tag/particulate-monitoring), [openair](../tag/openair), [stickypad](../tag/stickypad), [passive-pm](../tag/passive-pm)
 
 ###What I want to do
 See if I can't see [PM10 or even PM2.5](/wiki/particle-sensing) particles on a consumer scanner.  I purchased a Canon canoscan 9000F MK II, which allegedly does 9600dpi, or interpolated 192000 dpi.  

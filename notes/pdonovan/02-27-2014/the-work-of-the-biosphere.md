@@ -1,12 +1,18 @@
 ---
-nid: 10073
 title: The work of the biosphere
-path: public/static/notes/pdonovan/02-27-2014/the-work-of-the-biosphere.md
+tagnames: water-quality-monitoring, photosynthesis, soilcarbon, soilrespiration, soil-carbon, soil-respiration, water-flow, soil-carbon-accumulation, biosphere
+author: pdonovan
+path: /notes/pdonovan/02-27-2014/the-work-of-the-biosphere.md
+nid: 10073
 uid: 421114
-tagnames: water-quality-monitoring,photosynthesis,soilcarbon,soilrespiration,soil-carbon,soil-respiration,water-flow,soil-carbon-accumulation,biosphere
+
 ---
 
 # The work of the biosphere
+
+by [pdonovan](../profile/pdonovan) February 27, 2014 19:40
+
+February 27, 2014 19:40 | Tags: [water-quality-monitoring](../tag/water-quality-monitoring), [photosynthesis](../tag/photosynthesis), [soilcarbon](../tag/soilcarbon), [soilrespiration](../tag/soilrespiration), [soil-carbon](../tag/soil-carbon), [soil-respiration](../tag/soil-respiration), [water-flow](../tag/water-flow), [soil-carbon-accumulation](../tag/soil-carbon-accumulation), [biosphere](../tag/biosphere)
 
 ##What I want to do
 

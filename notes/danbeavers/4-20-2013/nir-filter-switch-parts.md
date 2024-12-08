@@ -1,12 +1,18 @@
 ---
-nid: 6939
 title: NIR Filter Switch Parts
-path: public/static/notes/danbeavers/4-20-2013/nir-filter-switch-parts.md
-uid: 51
 tagnames: 
+author: danbeavers
+path: /notes/danbeavers/4-20-2013/nir-filter-switch-parts.md
+nid: 6939
+uid: 51
+
 ---
 
 # NIR Filter Switch Parts
+
+by [danbeavers](../profile/danbeavers) April 20, 2013 20:43
+
+April 20, 2013 20:43 | Tags: 
 
 ![IMG_0034.JPG](https://i.publiclab.org/system/images/photos/000/000/103/medium/IMG_0034.JPG)
 

@@ -1,12 +1,18 @@
 ---
-nid: 15760
 title: List of electronic nose projects
-path: public/static/notes/imvec/02-18-2018/electronic-nose-projects.md
+tagnames: air-quality, odor, smell, smell-detection, odor-logging, activity:odor-logging
+author: imvec
+path: /notes/imvec/02-18-2018/electronic-nose-projects.md
+nid: 15760
 uid: 495038
-tagnames: air-quality,odor,smell,smell-detection,odor-logging,activity:odor-logging
+
 ---
 
 # List of electronic nose projects
+
+by [imvec](../profile/imvec) February 18, 2018 17:05
+
+February 18, 2018 17:05 | Tags: [air-quality](../tag/air-quality), [odor](../tag/odor), [smell](../tag/smell), [smell-detection](../tag/smell-detection), [odor-logging](../tag/odor-logging), [activity:odor-logging](../tag/activity:odor-logging)
 
 ###What we want to do
 To create a list of electronic nose projects.

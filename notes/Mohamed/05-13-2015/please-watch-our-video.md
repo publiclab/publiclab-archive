@@ -1,12 +1,18 @@
 ---
-nid: 11815
 title: Please watch  our video ,
-path: public/static/notes/Mohamed/05-13-2015/please-watch-our-video.md
-uid: 431141
 tagnames: ndvi-ag
+author: Mohamed
+path: /notes/Mohamed/05-13-2015/please-watch-our-video.md
+nid: 11815
+uid: 431141
+
 ---
 
 # Please watch  our video ,
+
+by [Mohamed](../profile/Mohamed) May 13, 2015 23:37
+
+May 13, 2015 23:37 | Tags: [ndvi-ag](../tag/ndvi-ag)
 
 dear friends and colleges
  our project inspired by public lab community R&D

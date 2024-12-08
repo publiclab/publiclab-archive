@@ -1,12 +1,18 @@
 ---
-nid: 10477
 title: Public Lab community newsletter 5.18.14
-path: public/static/notes/Shannon/05-19-2014/public-lab-community-newsletter-5-18-14.md
+tagnames: newsletter, newsletter-archive
+author: Shannon
+path: /notes/Shannon/05-19-2014/public-lab-community-newsletter-5-18-14.md
+nid: 10477
 uid: 9
-tagnames: newsletter,newsletter-archive
+
 ---
 
 # Public Lab community newsletter 5.18.14
+
+by [Shannon](../profile/Shannon) May 19, 2014 01:13
+
+May 19, 2014 01:13 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
 
 In the Public Lab community newsletter this week, make your reservation for the 2014 Spring Barnraising in Massachusetts, check out a feature on Public Lab in Forbes and learn more about the most radioactive place in NYC. Enjoy!
 

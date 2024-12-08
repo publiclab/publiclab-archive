@@ -1,12 +1,18 @@
 ---
-nid: 24577
 title: an alternative and open connected sound signal transmissor from any place 
-path: public/static/notes/lelex76/09-14-2020/an-alternative-and-open-connected-sound-signal-transmissor-from-any-place.md
+tagnames: chile, satellite-imagery, radio, south-america, first-time-poster, lon:-70, zoom:6, lat:-33, open-weather
+author: lelex76
+path: /notes/lelex76/09-14-2020/an-alternative-and-open-connected-sound-signal-transmissor-from-any-place.md
+nid: 24577
 uid: 720560
-tagnames: chile,satellite-imagery,radio,south-america,first-time-poster,lon:-70,zoom:6,lat:-33,open-weather
+
 ---
 
 # an alternative and open connected sound signal transmissor from any place 
+
+by [lelex76](../profile/lelex76) September 14, 2020 18:51
+
+September 14, 2020 18:51 | Tags: [chile](../tag/chile), [satellite-imagery](../tag/satellite-imagery), [radio](../tag/radio), [south-america](../tag/south-america), [first-time-poster](../tag/first-time-poster), [lon:-70](../tag/lon:-70), [zoom:6](../tag/zoom:6), [lat:-33](../tag/lat:-33), [open-weather](../tag/open-weather)
 
 am interested in build alternative sound signal transmission and connection ( trough antenna may be : radio?) with internet
 

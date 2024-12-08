@@ -1,12 +1,18 @@
 ---
-nid: 11640
 title: sensors in soda bottles
-path: public/static/notes/mathew/02-26-2015/sensors-in-soda-bottles.md
+tagnames: housing, water-quality, water, riffle, open-water, barnstar:basic, coqui, hydrology, case, enclosure, waterproofing, bottles, soda-bottle, rice, riffle-examples, data-logger-enclosures, sensor-enclosures, activity:sensor-enclosures
+author: mathew
+path: /notes/mathew/02-26-2015/sensors-in-soda-bottles.md
+nid: 11640
 uid: 4
-tagnames: housing,water-quality,water,riffle,open-water,barnstar:basic,coqui,hydrology,case,enclosure,waterproofing,bottles,soda-bottle,rice,riffle-examples,data-logger-enclosures,sensor-enclosures,activity:sensor-enclosures
+
 ---
 
 # sensors in soda bottles
+
+by [mathew](../profile/mathew) February 26, 2015 03:45
+
+February 26, 2015 03:45 | Tags: [housing](../tag/housing), [water-quality](../tag/water-quality), [water](../tag/water), [riffle](../tag/riffle), [open-water](../tag/open-water), [barnstar:basic](../tag/barnstar:basic), [coqui](../tag/coqui), [hydrology](../tag/hydrology), [case](../tag/case), [enclosure](../tag/enclosure), [waterproofing](../tag/waterproofing), [bottles](../tag/bottles), [soda-bottle](../tag/soda-bottle), [rice](../tag/rice), [riffle-examples](../tag/riffle-examples), [data-logger-enclosures](../tag/data-logger-enclosures), [sensor-enclosures](../tag/sensor-enclosures), [activity:sensor-enclosures](../tag/activity:sensor-enclosures)
 
 ###What I want to do
 I want to keep electronics dry while wired to underwater sensors.  I did a short test of a simple system of caulk filled tubes stuck through rubber stoppers in the tops of pop bottles. I did a test [submerging it half a meter (18") down in a trashcan full of water.](/notes/mathew/01-16-2015/sketching-a-waterproof-pop-bottle-sensor-system)

@@ -1,6 +1,6 @@
 # initiative-area
 
-3 notes and wiki pages
+3 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Open Water](/wiki/open-water) (wiki)
 - [Mapping Lead-Free Water](/notes/smmontgom/08-21-2016/mapping-lead-free-water) by [smmontgom](../profile/smmontgom)

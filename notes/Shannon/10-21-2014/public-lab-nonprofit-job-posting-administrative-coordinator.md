@@ -1,12 +1,18 @@
 ---
-nid: 11288
 title: Public Lab nonprofit job posting: Administrative Coordinator
-path: public/static/notes/Shannon/10-21-2014/public-lab-nonprofit-job-posting-administrative-coordinator.md
-uid: 9
 tagnames: nonprofit
+author: Shannon
+path: /notes/Shannon/10-21-2014/public-lab-nonprofit-job-posting-administrative-coordinator.md
+nid: 11288
+uid: 9
+
 ---
 
 # Public Lab nonprofit job posting: Administrative Coordinator
+
+by [Shannon](../profile/Shannon) October 21, 2014 18:41
+
+October 21, 2014 18:41 | Tags: [nonprofit](../tag/nonprofit)
 
 **Public Laboratory for Open Technology and Science: Administrative Coordinator**
 

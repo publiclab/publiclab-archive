@@ -1,12 +1,18 @@
 ---
-nid: 1966
 title: Research notes vs wiki pages
-path: public/static/wiki/research-notes-vs-wiki-pages.md
-uid: 1
 tagnames: help
+author: warren
+path: /wiki/research-notes-vs-wiki-pages.md
+nid: 1966
+uid: 1
+
 ---
 
 # Research notes vs wiki pages
+
+by [warren](../profile/warren)
+
+May 14, 2012 18:52 | Tags: [help](../tag/help)
 
 A common question:
 

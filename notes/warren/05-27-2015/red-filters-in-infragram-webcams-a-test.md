@@ -1,12 +1,18 @@
 ---
-nid: 11846
 title: Red filters in Infragram Webcams: a test
-path: public/static/notes/warren/05-27-2015/red-filters-in-infragram-webcams-a-test.md
+tagnames: ndvi, webcam, infragram, plants, vegetation, infra-red, infrablue, test, infragram-webcam, response:10996
+author: warren
+path: /notes/warren/05-27-2015/red-filters-in-infragram-webcams-a-test.md
+nid: 11846
 uid: 1
-tagnames: ndvi,webcam,infragram,plants,vegetation,infra-red,infrablue,test,infragram-webcam,response:10996
+
 ---
 
 # Red filters in Infragram Webcams: a test
+
+by [warren](../profile/warren) May 27, 2015 19:54
+
+May 27, 2015 19:54 | Tags: [ndvi](../tag/ndvi), [webcam](../tag/webcam), [infragram](../tag/infragram), [plants](../tag/plants), [vegetation](../tag/vegetation), [infra-red](../tag/infra-red), [infrablue](../tag/infrablue), [test](../tag/test), [infragram-webcam](../tag/infragram-webcam), [response:10996](../tag/response:10996)
 
 This test is nowhere near as comprehensive as the big one we did at LEAFFEST a few years ago, but I wanted to know if we could switch Infragram Webcams to red filters as we've begun to do with other Infragram conversions. I set up one of each and ran it through a couple test scenarios, but I'd like to ask folks input on if this seems to be working. 
 

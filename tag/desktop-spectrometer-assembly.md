@@ -1,6 +1,6 @@
 # desktop-spectrometer-assembly
 
-6 notes and wiki pages
+6 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Desktop Spectrometer assembly](/notes/nutandbolt/1-29-2013/desktop-spectrometer-assembly) by [nutandbolt](../profile/nutandbolt)
 - [adjustable camera mount](/notes/sonofaquark/3-28-2013/adjustable-camera-mount) by [sonofaquark](../profile/sonofaquark)

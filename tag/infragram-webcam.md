@@ -1,6 +1,6 @@
 # infragram-webcam
 
-3 notes and wiki pages
+3 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Red filters in Infragram Webcams: a test](/notes/warren/05-27-2015/red-filters-in-infragram-webcams-a-test) by [warren](../profile/warren)
 - [Question infragram kit](/notes/marfisistemidroni/11-03-2016/question-infragram-kit) by [marfisistemidroni](../profile/marfisistemidroni)

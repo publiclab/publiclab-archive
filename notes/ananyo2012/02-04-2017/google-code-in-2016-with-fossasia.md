@@ -1,12 +1,18 @@
 ---
-nid: 13905
 title: Google Code-in 2016 with FOSSASIA
-path: public/static/notes/ananyo2012/02-04-2017/google-code-in-2016-with-fossasia.md
+tagnames: developers, gcin, gcin-2016
+author: ananyo2012
+path: /notes/ananyo2012/02-04-2017/google-code-in-2016-with-fossasia.md
+nid: 13905
 uid: 468506
-tagnames: developers,gcin,gcin-2016
+
 ---
 
 # Google Code-in 2016 with FOSSASIA
+
+by [ananyo2012](../profile/ananyo2012) February 04, 2017 18:51
+
+February 04, 2017 18:51 | Tags: [developers](../tag/developers), [gcin](../tag/gcin), [gcin-2016](../tag/gcin-2016)
 
 This year was PublicLab's first participation in Google Code-in as a sub-org under [FOSSASIA][1]. It was a pleasure being a part of it as a mentor on behalf of PublicLab. I am sharing my experience in this post with all the new things I got to know.
 

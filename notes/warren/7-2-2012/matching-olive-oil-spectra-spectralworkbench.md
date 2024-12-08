@@ -1,12 +1,18 @@
 ---
-nid: 2695
 title: Matching olive oil spectra in SpectralWorkbench
-path: public/static/notes/warren/7-2-2012/matching-olive-oil-spectra-spectralworkbench.md
+tagnames: spectrometer, spectrum-matching, spectralworkbench, matching, olive-oil
+author: warren
+path: /notes/warren/7-2-2012/matching-olive-oil-spectra-spectralworkbench.md
+nid: 2695
 uid: 1
-tagnames: spectrometer,spectrum-matching,spectralworkbench,matching,olive-oil
+
 ---
 
 # Matching olive oil spectra in SpectralWorkbench
+
+by [warren](../profile/warren) July 02, 2012 21:21
+
+July 02, 2012 21:21 | Tags: [spectrometer](../tag/spectrometer), [spectrum-matching](../tag/spectrum-matching), [spectralworkbench](../tag/spectralworkbench), [matching](../tag/matching), [olive-oil](../tag/olive-oil)
 
 Very exciting, though definitely experimental -- while working last week at Mediamatic in Amsterdam, I managed to implement basic spectral matching, which finds the closest spectrum to any new spectral reading you take. Here's a video showing it correctly distinguishing between 2 types of olive oil:
 

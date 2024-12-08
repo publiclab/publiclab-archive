@@ -1,12 +1,18 @@
 ---
-nid: 27964
 title: The Mountains and Mines Monitoring Project
-path: public/static/wiki/the-mountains-and-mines-monitoring-project.md
+tagnames: coal-mining, reporting, mountaintop-removal, coal, drone, southeast, fellowship, project, violations, project:featured, fellowship-teams, mmmp, mine-reclamation, project:mine-reclamation, mine-reclamation-photography
+author: stevie
+path: /wiki/the-mountains-and-mines-monitoring-project.md
+nid: 27964
 uid: 422561
-tagnames: coal-mining,reporting,mountaintop-removal,coal,drone,southeast,fellowship,project,violations,project:featured,fellowship-teams,mmmp,mine-reclamation,project:mine-reclamation,mine-reclamation-photography
+
 ---
 
 # The Mountains and Mines Monitoring Project
+
+by [stevie](../profile/stevie)
+
+October 26, 2021 16:37 | Tags: [coal-mining](../tag/coal-mining), [reporting](../tag/reporting), [mountaintop-removal](../tag/mountaintop-removal), [coal](../tag/coal), [drone](../tag/drone), [southeast](../tag/southeast), [fellowship](../tag/fellowship), [project](../tag/project), [violations](../tag/violations), [project:featured](../tag/project:featured), [fellowship-teams](../tag/fellowship-teams), [mmmp](../tag/mmmp), [mine-reclamation](../tag/mine-reclamation), [project:mine-reclamation](../tag/project:mine-reclamation), [mine-reclamation-photography](../tag/mine-reclamation-photography)
 
 **Photo by Junior Walk**
 

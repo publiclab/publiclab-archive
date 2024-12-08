@@ -1,12 +1,18 @@
 ---
-nid: 12015
 title: Kitimat Mapping Workshop
-path: public/static/notes/ann/06-26-2015/kitimat-mapping-workshop.md
+tagnames: event, event:rsvp, northwest, date:07-26-2015, rsvp:rowlandr, rsvp:lavery
+author: ann
+path: /notes/ann/06-26-2015/kitimat-mapping-workshop.md
+nid: 12015
 uid: 421543
-tagnames: event,event:rsvp,northwest,date:07-26-2015,rsvp:rowlandr,rsvp:lavery
+
 ---
 
 # Kitimat Mapping Workshop
+
+by [ann](../profile/ann) June 26, 2015 23:37
+
+June 26, 2015 23:37 | Tags: [event](../tag/event), [event:rsvp](../tag/event:rsvp), [northwest](../tag/northwest), [date:07-26-2015](../tag/date:07-26-2015), [rsvp:rowlandr](../tag/rsvp:rowlandr), [rsvp:lavery](../tag/rsvp:lavery)
 
 Aerial images, taken where you need them, when you need them, can be powerful tools. Imagine being able to gather your own aerial images and build your own maps. With Public Lab's DIY (Do it yourself) aerial mapping tools you can!
 

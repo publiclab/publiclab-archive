@@ -1,12 +1,18 @@
 ---
-nid: 8703
 title: Infragrams over NYC: Leave It Better Garden
-path: public/static/notes/liz/07-05-2013/infragrams-over-nyc-leave-it-better-garden.md
+tagnames: new-york-city, 5bf, five-borough-farm, pole-photography, pole, overexposure, lux-meter
+author: liz
+path: /notes/liz/07-05-2013/infragrams-over-nyc-leave-it-better-garden.md
+nid: 8703
 uid: 7
-tagnames: new-york-city,5bf,five-borough-farm,pole-photography,pole,overexposure,lux-meter
+
 ---
 
 # Infragrams over NYC: Leave It Better Garden
+
+by [liz](../profile/liz) July 05, 2013 19:54
+
+July 05, 2013 19:54 | Tags: [new-york-city](../tag/new-york-city), [5bf](../tag/5bf), [five-borough-farm](../tag/five-borough-farm), [pole-photography](../tag/pole-photography), [pole](../tag/pole), [overexposure](../tag/overexposure), [lux-meter](../tag/lux-meter)
 
 ##Pole aerial photography above the Leave It Better Garden
 

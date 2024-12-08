@@ -1,12 +1,18 @@
 ---
-nid: 10023
 title: Dried Kombucha SCOBY Uses and Experiments
-path: public/static/wiki/dried-kombucha-scoby-uses-and-experiments.md
+tagnames: yeast, kombucha, bacteria, scoby, fermentation
+author: jakeschievink
+path: /wiki/dried-kombucha-scoby-uses-and-experiments.md
+nid: 10023
 uid: 420581
-tagnames: yeast,kombucha,bacteria,scoby,fermentation
+
 ---
 
 # Dried Kombucha SCOBY Uses and Experiments
+
+by [jakeschievink](../profile/jakeschievink)
+
+February 09, 2014 17:40 | Tags: [yeast](../tag/yeast), [kombucha](../tag/kombucha), [bacteria](../tag/bacteria), [scoby](../tag/scoby), [fermentation](../tag/fermentation)
 
 This is the main page for any research and experiments done with dried Kombucha SCOBY.
 

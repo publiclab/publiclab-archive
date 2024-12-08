@@ -1,12 +1,18 @@
 ---
-nid: 139
 title: Archiving
-path: public/static/wiki/archiving.md
-uid: 1
 tagnames: 
+author: warren
+path: /wiki/archiving.md
+nid: 139
+uid: 1
+
 ---
 
 # Archiving
+
+by [gonzoearth](../profile/gonzoearth), [warren](../profile/warren)
+
+March 09, 2011 00:13 | Tags: 
 
 On our main map archive, our thought was to have a few directory levels, so URLs work out to:
 

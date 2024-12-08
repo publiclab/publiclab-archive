@@ -1,12 +1,18 @@
 ---
-nid: 9414
 title: Biohacking / DIY Bio
-path: public/static/wiki/biohacking-diy-bio.md
+tagnames: environmental-estrogen-testing, diybio, biohacking, bioassay, bioremediation
+author: TedF
+path: /wiki/biohacking-diy-bio.md
+nid: 9414
 uid: 197186
-tagnames: environmental-estrogen-testing,diybio,biohacking,bioassay,bioremediation
+
 ---
 
 # Biohacking / DIY Bio
+
+by [TedF](../profile/TedF)
+
+October 06, 2013 21:43 | Tags: [environmental-estrogen-testing](../tag/environmental-estrogen-testing), [diybio](../tag/diybio), [biohacking](../tag/biohacking), [bioassay](../tag/bioassay), [bioremediation](../tag/bioremediation)
 
 **Biohacking or DIY Bio**
 

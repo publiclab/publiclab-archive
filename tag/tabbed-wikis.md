@@ -1,6 +1,6 @@
 # tabbed-wikis
 
-14 notes and wiki pages
+14 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Gulf Coast](/wiki/gulf-coast) (wiki)
 - [Thermal photography](/wiki/thermal-photography) (wiki)

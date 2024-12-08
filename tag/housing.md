@@ -1,8 +1,7 @@
 # housing
 
-11 notes and wiki pages
+11 notes and wiki pages | [see all topics](/wiki/topics)
 
-- [When Flipping Mieszkania Warszawa A](/wiki/when-flipping-mieszkania-warszawa-a) (wiki)
 - [sketching a waterproof pop bottle sensor system](/notes/mathew/01-16-2015/sketching-a-waterproof-pop-bottle-sensor-system) by [mathew](../profile/mathew)
 - [sensors in soda bottles](/notes/mathew/02-26-2015/sensors-in-soda-bottles) by [mathew](../profile/mathew)
 - [Indoor Air Quality Monitoring](/wiki/indoor-air-quality-monitoring) (wiki)

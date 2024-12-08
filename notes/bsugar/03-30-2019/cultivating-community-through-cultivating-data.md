@@ -1,12 +1,18 @@
 ---
-nid: 18838
 title: Cultivating Community Through Cultivating Data
-path: public/static/notes/bsugar/03-30-2019/cultivating-community-through-cultivating-data.md
+tagnames: community-metrics, data, evaluation, networks, community-analysis
+author: bsugar
+path: /notes/bsugar/03-30-2019/cultivating-community-through-cultivating-data.md
+nid: 18838
 uid: 217812
-tagnames: community-metrics,data,evaluation,networks,community-analysis
+
 ---
 
 # Cultivating Community Through Cultivating Data
+
+by [bsugar](../profile/bsugar) March 25, 2019 00:28
+
+March 25, 2019 00:28 | Tags: [community-metrics](../tag/community-metrics), [data](../tag/data), [evaluation](../tag/evaluation), [networks](../tag/networks), [community-analysis](../tag/community-analysis)
 
 **Code:**
 

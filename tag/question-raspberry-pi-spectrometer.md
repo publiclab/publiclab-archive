@@ -1,6 +1,6 @@
 # question-raspberry-pi-spectrometer
 
-11 notes and wiki pages
+11 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Getting the spectrometer to work with a Raspberry Pi?](/notes/anjohn12/04-14-2016/question-getting-the-spectrometer-to-work-with-a-raspberry-pi) by [anjohn12](../profile/anjohn12)
 - [Can I upgrade a DIY spectrometer with a Raspberry Pi camera?](/notes/warren/09-28-2016/upgrade-a-diy-spectrometer-with-a-raspberry-pi-camera) by [warren](../profile/warren)

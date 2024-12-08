@@ -1,12 +1,18 @@
 ---
-nid: 13202
 title: Which Cuvettes for Spectroscopy are optically the best suited for the job - Part ll
-path: public/static/wiki/which-cuvettes-for-spectroscopy-are-optically-the-best-suited-for-the-job-part-ll.md
-uid: 461120
 tagnames: 
+author: dhaffnersr
+path: /wiki/which-cuvettes-for-spectroscopy-are-optically-the-best-suited-for-the-job-part-ll.md
+nid: 13202
+uid: 461120
+
 ---
 
 # Which Cuvettes for Spectroscopy are optically the best suited for the job - Part ll
+
+by [dhaffnersr](../profile/dhaffnersr)
+
+June 15, 2016 19:35 | Tags: 
 
 continuing in this series on which cuvettes are optimal for spectroscopy:
 

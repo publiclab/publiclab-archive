@@ -1,12 +1,18 @@
 ---
-nid: 2799
 title: Thermal Flashlight Calibration Nomogram
-path: public/static/notes/mathew/7-13-2012/thermal-flashlight-calibration-nomogram.md
+tagnames: thermal-photography, thermal-flashlight, nomogram, chart
+author: mathew
+path: /notes/mathew/7-13-2012/thermal-flashlight-calibration-nomogram.md
+nid: 2799
 uid: 4
-tagnames: thermal-photography,thermal-flashlight,nomogram,chart
+
 ---
 
 # Thermal Flashlight Calibration Nomogram
+
+by [mathew](../profile/mathew) July 13, 2012 20:22
+
+July 13, 2012 20:22 | Tags: [thermal-photography](../tag/thermal-photography), [thermal-flashlight](../tag/thermal-flashlight), [nomogram](../tag/nomogram), [chart](../tag/chart)
 
 ####In this Photo####
 In the photo above the temperature range is set to 0-30 degrees C, and the color divisions within the range are readable.

@@ -1,6 +1,6 @@
 # trawl
 
-9 notes and wiki pages
+9 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [BabyLegs](/wiki/babylegs) (wiki)
 - [How to use BabyLegs](/notes/maxliboiron/07-17-2018/how-to-use-babylegs) by [maxliboiron](../profile/maxliboiron)

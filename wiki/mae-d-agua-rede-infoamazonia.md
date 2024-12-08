@@ -1,12 +1,18 @@
 ---
-nid: 11843
 title: Mãe d'água - Rede InfoAmazonia 
-path: public/static/wiki/mae-d-agua-rede-infoamazonia.md
+tagnames: water-quality, list:plots-waterquality, brasil, parent:open-water, redeinfoamazonia, maedagua, lang:pt, list:publiclab-portugues, south-america
+author: GSan
+path: /wiki/mae-d-agua-rede-infoamazonia.md
+nid: 11843
 uid: 426547
-tagnames: water-quality,list:plots-waterquality,brasil,parent:open-water,redeinfoamazonia,maedagua,lang:pt,list:publiclab-portugues,south-america
+
 ---
 
 # Mãe d'água - Rede InfoAmazonia 
+
+by [GSan](../profile/GSan), [Markos](../profile/Markos), [vjpixel](../profile/vjpixel), [Gina](../profile/Gina)
+
+May 26, 2015 22:30 | Tags: [water-quality](../tag/water-quality), [list:plots-waterquality](../tag/list:plots-waterquality), [brasil](../tag/brasil), [parent:open-water](../tag/parent:open-water), [redeinfoamazonia](../tag/redeinfoamazonia), [maedagua](../tag/maedagua), [lang:pt](../tag/lang:pt), [list:publiclab-portugues](../tag/list:publiclab-portugues), [south-america](../tag/south-america)
 
 ###Notas de pesquisas relacionadas:
 http://publiclab.org/notes/GSan/08-26-2015/mae-d-agua-indice-de-qualidade-water-mother-quality-index

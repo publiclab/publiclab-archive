@@ -1,12 +1,18 @@
 ---
-nid: 5161
 title: Top 10 tips for winter mapping
-path: public/static/notes/cfastie/12-8-2012/top-10-tips-winter-mapping.md
+tagnames: balloon-mapping, kite-mapping, vermont, winter, tac, northeast
+author: cfastie
+path: /notes/cfastie/12-8-2012/top-10-tips-winter-mapping.md
+nid: 5161
 uid: 554
-tagnames: balloon-mapping,kite-mapping,vermont,winter,tac,northeast
+
 ---
 
 # Top 10 tips for winter mapping
+
+by [cfastie](../profile/cfastie) December 08, 2012 16:03
+
+December 08, 2012 16:03 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [vermont](../tag/vermont), [winter](../tag/winter), [tac](../tag/tac), [northeast](../tag/northeast)
 
 [Toxics Action Center]( http://www.toxicsaction.org/) is working on a plan to incorporate Public Lab tools into its work with [several communities in Vermont](http://publiclaboratory.org/wiki/vermont-public-lab-organizing-toxics-action-center-and-public-lab).  Aerial mapping could be an important tool for a couple of urgent projects, so they have inquired about the feasibility of balloon or kite mapping in the winter.  Aerial photography is quite workable in the winter, but presents a few additional challenges compared to warm season flying:
 

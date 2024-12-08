@@ -1,12 +1,18 @@
 ---
-nid: 34820
 title: Join a Citizen Science + Climate Change Monitoring Project
-path: public/static/notes/agentpesnot/08-03-2022/join-a-citizen-science-climate-change-monitoring-project.md
+tagnames: remote-sensing, education, citizen-science, participation, air-quality, climate-change, first-time-poster, lat:30.267153, lon:-97.74306, zoom:2, greehouse-gas
+author: agentpesnot
+path: /notes/agentpesnot/08-03-2022/join-a-citizen-science-climate-change-monitoring-project.md
+nid: 34820
 uid: 808787
-tagnames: remote-sensing,education,citizen-science,participation,air-quality,climate-change,first-time-poster,lat:30.267153,lon:-97.74306,zoom:2,greehouse-gas
+
 ---
 
 # Join a Citizen Science + Climate Change Monitoring Project
+
+by [agentpesnot](../profile/agentpesnot) August 03, 2022 02:07
+
+August 03, 2022 02:07 | Tags: [remote-sensing](../tag/remote-sensing), [education](../tag/education), [citizen-science](../tag/citizen-science), [participation](../tag/participation), [air-quality](../tag/air-quality), [climate-change](../tag/climate-change), [first-time-poster](../tag/first-time-poster), [lat:30.267153](../tag/lat:30.267153), [lon:-97.74306](../tag/lon:-97.74306), [zoom:2](../tag/zoom:2), [greehouse-gas](../tag/greehouse-gas)
 
 Hey! I recently came across the [Dream sensor](https://supersensor.myshopify.com/) and thought it might be of interest to the people in this community. It's a sensor to monitor greenhouse gases (GHGs). All the GHG data will be put on a map so that companies know exactly where to direct efforts to reduce GHG emissions, which reduces global warming.
 

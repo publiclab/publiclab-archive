@@ -1,12 +1,18 @@
 ---
-nid: 6128
 title: Can you take NDVI/NRG infrared composites on a smartphone
-path: public/static/notes/warren/2-26-2013/can-you-take-ndvinrg-infrared-composites-smartphone.md
-uid: 1
 tagnames: near-infrared-camera
+author: warren
+path: /notes/warren/2-26-2013/can-you-take-ndvinrg-infrared-composites-smartphone.md
+nid: 6128
+uid: 1
+
 ---
 
 # Can you take NDVI/NRG infrared composites on a smartphone
+
+by [warren](../profile/warren) February 26, 2013 21:17
+
+February 26, 2013 21:17 | Tags: [near-infrared-camera](../tag/near-infrared-camera)
 
 i.e. without removing the infrared block filter? Above is an attempt just with/without an IR-pass filter with an iPhone 4S - you don't get that bright white color from vegetation, though, so I think this may not work.
 

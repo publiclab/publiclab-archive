@@ -1,6 +1,6 @@
 # barnraising
 
-146 notes and wiki pages
+146 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Past Public Lab Barnraisings](/wiki/past-barnraisings) (wiki)
 - [Public Lab Barnraisings](/barnraising) (wiki)
@@ -143,8 +143,6 @@
 - [Texas Barnraising: Brainstorming the Emergency Response Toolkit ](/notes/Bronwen/04-04-2019/texas-barnraising-brainstorming-the-emergency-response-toolkit) by [Bronwen](../profile/Bronwen)
 - [Home-Made Disaster Kit: Plan Ahead With This Game!](/notes/Bronwen/11-20-2019/home-made-disaster-kit-plan-ahead-with-this-game) by [Bronwen](../profile/Bronwen)
 - [Learning for Justice in a Climate Changing World ](/notes/amocorro/06-23-2020/learning-for-justice-in-a-climate-changing-world) by [amocorro](../profile/amocorro)
-- [evinforme](/notes/merrinferin94/04-09-2021/evinforme) by [merrinferin94](../profile/merrinferin94)
 - [Barnraising Florida 2023 ](/wiki/barnraising-florida-2022) (wiki)
 - [Important Update from Public Lab](/notes/jmacha/08-03-2022/important-update-from-public-lab) by [jmacha](../profile/jmacha)
 - [Update from the Board of Directors](/notes/jmacha/04-14-2023/update-from-the-board-of-directors) by [jmacha](../profile/jmacha)
-- [Tro thanh nguoi choi xo so mien trung chinh thuc ngay hom nay](/notes/mlem2310/10-23-2023/tro-thanh-nguoi-choi-xo-so-mien-trung-chinh-thuc-ngay-hom-nay) by [mlem2310](../profile/mlem2310)

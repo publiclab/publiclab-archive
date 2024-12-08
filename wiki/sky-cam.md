@@ -1,11 +1,17 @@
 ---
-nid: 9323
 title: sky-cam
-path: public/static/wiki/sky-cam.md
-uid: 1
 tagnames: 
+author: warren
+path: /wiki/sky-cam.md
+nid: 9323
+uid: 1
+
 ---
 
 # sky-cam
+
+by [warren](../profile/warren)
+
+September 12, 2013 21:39 | Tags: 
 
 Are you looking for this page? http://publiclab.org/wiki/sky-camera

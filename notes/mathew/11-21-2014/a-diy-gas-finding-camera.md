@@ -1,12 +1,18 @@
 ---
-nid: 11377
 title: A DIY gas-finding camera?
-path: public/static/notes/mathew/11-21-2014/a-diy-gas-finding-camera.md
+tagnames: thermal-photography, infrared, camera, flir, methane, voc, gasfinder
+author: mathew
+path: /notes/mathew/11-21-2014/a-diy-gas-finding-camera.md
+nid: 11377
 uid: 4
-tagnames: thermal-photography,infrared,camera,flir,methane,voc,gasfinder
+
 ---
 
 # A DIY gas-finding camera?
+
+by [mathew](../profile/mathew) November 21, 2014 04:26
+
+November 21, 2014 04:26 | Tags: [thermal-photography](../tag/thermal-photography), [infrared](../tag/infrared), [camera](../tag/camera), [flir](../tag/flir), [methane](../tag/methane), [voc](../tag/voc), [gasfinder](../tag/gasfinder)
 
 ###What I want to do
 Explore whether its possible to make a camera that can see VOCs, like the very expensive [FLIR Gasfinder 320](http://www.flir.com/cs/emea/en/view/?id=41384) camera can.  Tons of people at the [Barnraising](/wiki/barnraising) and at [Science for Action](http://www.gcmonitor.org/2014-conference/) conference wanted one. Me too.

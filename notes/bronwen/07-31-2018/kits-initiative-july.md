@@ -1,12 +1,18 @@
 ---
-nid: 16795
 title: Kits Initiative: July!
-path: public/static/notes/bronwen/07-31-2018/kits-initiative-july.md
+tagnames: newsletter, kits, kits-initiative, community-kits
+author: Bronwen
+path: /notes/bronwen/07-31-2018/kits-initiative-july.md
+nid: 16795
 uid: 237313
-tagnames: newsletter,kits,kits-initiative,community-kits
+
 ---
 
 # Kits Initiative: July!
+
+by [Bronwen](../profile/Bronwen) July 26, 2018 20:39
+
+July 26, 2018 20:39 | Tags: [newsletter](../tag/newsletter), [kits](../tag/kits), [kits-initiative](../tag/kits-initiative), [community-kits](../tag/community-kits)
 
 The kits initiative has had a busy spring and summer, and are reviving our monthly Kits report to help keep everyone up to date on what we've been up to, and what we're planning for in the upcoming months.
 

@@ -1,12 +1,18 @@
 ---
-nid: 31168
 title: MapKnitter map of Embalse de Cachamuiña
-path: public/static/notes/xose/06-30-2022/mapknitter-map-of-embalse-de-cachamuina.md
+tagnames: mapknitter, zoom:16, lat:42.3384868449, lon:-7.8036172666, lat:42.338486, lon:-7.803617, with:imvec
+author: xose
+path: /notes/xose/06-30-2022/mapknitter-map-of-embalse-de-cachamuina.md
+nid: 31168
 uid: 497123
-tagnames: mapknitter,zoom:16,lat:42.3384868449,lon:-7.8036172666,lat:42.338486,lon:-7.803617,with:imvec
+
 ---
 
 # MapKnitter map of Embalse de Cachamuiña
+
+by [xose](../profile/xose) June 30, 2022 09:50
+
+June 30, 2022 09:50 | Tags: [mapknitter](../tag/mapknitter), [zoom:16](../tag/zoom:16), [lat:42.3384868449](../tag/lat:42.3384868449), [lon:-7.8036172666](../tag/lon:-7.8036172666), [lat:42.338486](../tag/lat:42.338486), [lon:-7.803617](../tag/lon:-7.803617), [with:imvec](../tag/with:imvec)
 
 ![](https://s3.amazonaws.com/grassrootsmapping/warpables/342736/download_medium.png)
 <iframe src="https://mapknitter.org/embed/embalse-de-cachamuina" style="border:none" width="100%" height="400px"></iframe>

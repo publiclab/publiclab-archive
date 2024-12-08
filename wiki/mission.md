@@ -1,12 +1,18 @@
 ---
-nid: 296
 title: Mission
-path: public/static/wiki/mission.md
-uid: 1
 tagnames: mission
+author: warren
+path: /wiki/mission.md
+nid: 296
+uid: 1
+
 ---
 
 # Mission
+
+by [joyofsoy](../profile/joyofsoy), [warren](../profile/warren)
+
+May 25, 2011 18:41 | Tags: [mission](../tag/mission)
 
 **Mission**
 Pursuing environmental justice through community science and open technology

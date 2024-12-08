@@ -1,6 +1,6 @@
 # lon--88
 
-13 notes and wiki pages
+13 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [WATER QUALITY MONITORING IN ALABAMA](/notes/gilbert/10-11-2017/water-quality-monitoring-in-alabama) by [gilbert](../profile/gilbert)
 - [What type of permits are required for gravel and asphalt processing facilities?](/notes/stevie/07-10-2018/what-type-of-permits-are-required-for-gravel-and-asphalt-processing-facilities) by [stevie](../profile/stevie)
@@ -14,4 +14,3 @@
 - [Chevron is up for a permit renewal again (under title 5 of the Clean Air Act), we have a 4800 page report on the company, how can we get through it and pull out the valuable info?](/notes/stevie/01-04-2021/chevron-is-up-for-a-permit-renewal-again-under-title-5-of-the-clean-air-act-we-have-a-4800-page-report-on-the-company-how-can-we-get-through-it-and-pull-out-the-valuable-info) by [stevie](../profile/stevie)
 - [What is the petition process to the EPA? And what are the criteria for a strong petition? ](/notes/stevie/01-04-2021/what-is-the-petition-process-to-the-epa-and-what-are-the-criteria-for-a-strong-petition) by [stevie](../profile/stevie)
 - [In terms of community science, MDEQ already discredited community based science, what might add legitimacy to our data? ](/notes/stevie/01-04-2021/in-terms-of-community-science-mdeq-already-discredited-community-based-science-what-might-add-legitimacy-to-our-data) by [stevie](../profile/stevie)
-- [how to define humidity?](/notes/wolfcareers12_/01-07-2021/how-to-define-humidity) by [wolfcareers12_](../profile/wolfcareers12_)

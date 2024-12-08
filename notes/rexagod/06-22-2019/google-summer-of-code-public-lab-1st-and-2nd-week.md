@@ -1,12 +1,18 @@
 ---
-nid: 19814
 title: Google Summer of Code @ Public Lab: 1st and 2nd Week
-path: public/static/notes/rexagod/06-22-2019/google-summer-of-code-public-lab-1st-and-2nd-week.md
+tagnames: gsoc, progress, soc, gsoc-2019, soc-2019
+author: rexagod
+path: /notes/rexagod/06-22-2019/google-summer-of-code-public-lab-1st-and-2nd-week.md
+nid: 19814
 uid: 564358
-tagnames: gsoc,progress,soc,gsoc-2019,soc-2019
+
 ---
 
 # Google Summer of Code @ Public Lab: 1st and 2nd Week
+
+by [rexagod](../profile/rexagod) June 22, 2019 21:03
+
+June 22, 2019 21:03 | Tags: [gsoc](../tag/gsoc), [progress](../tag/progress), [soc](../tag/soc), [gsoc-2019](../tag/gsoc-2019), [soc-2019](../tag/soc-2019)
 
 # Public Lab: 1st & 2nd Week
 

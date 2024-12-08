@@ -1,12 +1,18 @@
 ---
-nid: 11292
 title: community development
-path: public/static/wiki/community-development.md
+tagnames: community, website, wintercamp, history, irc
+author: liz
+path: /wiki/community-development.md
+nid: 11292
 uid: 7
-tagnames: community,website,wintercamp,history,irc
+
 ---
 
 # community development
+
+by [liz](../profile/liz), [sashadev-sky](../profile/sashadev-sky), [ananyo2012](../profile/ananyo2012)
+
+October 22, 2014 20:03 | Tags: [community](../tag/community), [website](../tag/website), [wintercamp](../tag/wintercamp), [history](../tag/history), [irc](../tag/irc)
 
 ### Timeline
 

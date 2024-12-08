@@ -1,12 +1,18 @@
 ---
-nid: 25057
 title: Why Image Sequencer fails to work from web page ?
-path: public/static/notes/dariusjack/11-13-2020/why-image-sequencer-fails-to-work-from-web-page.md
+tagnames: question:general, general
+author: dariusjack
+path: /notes/dariusjack/11-13-2020/why-image-sequencer-fails-to-work-from-web-page.md
+nid: 25057
 uid: 728980
-tagnames: question:general,general
+
 ---
 
 # Why Image Sequencer fails to work from web page ?
+
+by [dariusjack](../profile/dariusjack) November 13, 2020 18:41
+
+November 13, 2020 18:41 | Tags: [question:general](../tag/question:general), [general](../tag/general)
 
 Hi,  
   

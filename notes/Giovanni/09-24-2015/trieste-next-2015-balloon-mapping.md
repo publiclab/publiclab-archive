@@ -1,12 +1,18 @@
 ---
-nid: 12240
 title: Trieste Next 2015 - Balloon Mapping
-path: public/static/notes/Giovanni/09-24-2015/trieste-next-2015-balloon-mapping.md
+tagnames: balloon-mapping, italy, trieste
+author: Giovanni
+path: /notes/Giovanni/09-24-2015/trieste-next-2015-balloon-mapping.md
+nid: 12240
 uid: 422446
-tagnames: balloon-mapping,italy,trieste
+
 ---
 
 # Trieste Next 2015 - Balloon Mapping
+
+by [Giovanni](../profile/Giovanni) September 24, 2015 11:16
+
+September 24, 2015 11:16 | Tags: [balloon-mapping](../tag/balloon-mapping), [italy](../tag/italy), [trieste](../tag/trieste)
 
 In Trieste (Northeast of Italy) this weekend (2015, 24-26 september) there is a scientific manifestation named Trieste Next (http://triestenext.veneziepost.it/).
 

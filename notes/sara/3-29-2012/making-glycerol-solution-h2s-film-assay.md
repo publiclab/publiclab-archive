@@ -1,12 +1,18 @@
 ---
-nid: 1579
 title: Making Glycerol Solution for H2S film Assay
-path: public/static/notes/sara/3-29-2012/making-glycerol-solution-h2s-film-assay.md
+tagnames: hydrogen-sulfide-sensing, hydrogen-sulfide, h2s, h2s-photopaper, activity:h2s-photopaper
+author: sara
+path: /notes/sara/3-29-2012/making-glycerol-solution-h2s-film-assay.md
+nid: 1579
 uid: 8
-tagnames: hydrogen-sulfide-sensing,hydrogen-sulfide,h2s,h2s-photopaper,activity:h2s-photopaper
+
 ---
 
 # Making Glycerol Solution for H2S film Assay
+
+by [sara](../profile/sara) March 29, 2012 16:32
+
+March 29, 2012 16:32 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s), [h2s-photopaper](../tag/h2s-photopaper), [activity:h2s-photopaper](../tag/activity:h2s-photopaper)
 
 I realized none of our notes so far cover how to make the glycerol solution, here is that protocol:
 

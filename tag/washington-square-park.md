@@ -1,6 +1,6 @@
 # washington-square-park
 
-4 notes and wiki pages
+4 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [New York City](/wiki/new-york-city) (wiki)
 - [Washington Square Park, New York City](/map/gonzoearth/2011-4-27) by [gonzoearth](../profile/gonzoearth)

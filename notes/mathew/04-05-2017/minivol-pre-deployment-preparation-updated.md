@@ -1,12 +1,18 @@
 ---
-nid: 14090
 title: MiniVol pre-deployment preparation, Updated
-path: public/static/notes/mathew/04-05-2017/minivol-pre-deployment-preparation-updated.md
+tagnames: air-quality, dust, silica, pm, particle-sensing, with:stevie, pm-monitoring, minivol, activity:minivol, prepping, 1031710, 600-007, replication:13911
+author: mathew
+path: /notes/mathew/04-05-2017/minivol-pre-deployment-preparation-updated.md
+nid: 14090
 uid: 4
-tagnames: air-quality,dust,silica,pm,particle-sensing,with:stevie,pm-monitoring,minivol,activity:minivol,prepping,1031710,600-007,replication:13911
+
 ---
 
 # MiniVol pre-deployment preparation, Updated
+
+by [mathew](../profile/mathew) April 05, 2017 16:44
+
+April 05, 2017 16:44 | Tags: [air-quality](../tag/air-quality), [dust](../tag/dust), [silica](../tag/silica), [pm](../tag/pm), [particle-sensing](../tag/particle-sensing), [with:stevie](../tag/with:stevie), [pm-monitoring](../tag/pm-monitoring), [minivol](../tag/minivol), [activity:minivol](../tag/activity:minivol), [prepping](../tag/prepping), [1031710](../tag/1031710), [600-007](../tag/600-007), [replication:13911](../tag/replication:13911)
 
 [This activity](/wiki/minivol#Activities) is a replication of [this note](/notes/mathew/02-09-2017/minivol-pre-deployment-preparation-with-images) with better images, an updated materials list, and improved instructions. Heather and Bruce Andersen also assisted.
 

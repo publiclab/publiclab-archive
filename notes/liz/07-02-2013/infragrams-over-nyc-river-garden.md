@@ -1,12 +1,18 @@
 ---
-nid: 8610
 title: Infragrams over NYC: River Garden
-path: public/static/notes/liz/07-02-2013/infragrams-over-nyc-river-garden.md
+tagnames: new-york-city, 5bf, five-borough-farm, pole-photography, pole
+author: liz
+path: /notes/liz/07-02-2013/infragrams-over-nyc-river-garden.md
+nid: 8610
 uid: 7
-tagnames: new-york-city,5bf,five-borough-farm,pole-photography,pole
+
 ---
 
 # Infragrams over NYC: River Garden
+
+by [liz](../profile/liz) July 02, 2013 20:02
+
+July 02, 2013 20:02 | Tags: [new-york-city](../tag/new-york-city), [5bf](../tag/5bf), [five-borough-farm](../tag/five-borough-farm), [pole-photography](../tag/pole-photography), [pole](../tag/pole)
 
 _Above: aerial image showing trellised beds and giant scarecrow_
 

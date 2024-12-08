@@ -1,12 +1,18 @@
 ---
-nid: 11984
 title: Question: Would the Thermal Fishing Bob concept work as a SeaGlider robot?
-path: public/static/notes/ajawitz/06-17-2015/question-would-the-thermal-fishing-bob-concept-work-as-a-seaglider-robot.md
+tagnames: thermal-fishing-bob, thermal, robot, heat, question:thermal-photography, question:thermal-fishing-bob, seaglider
+author: ajawitz
+path: /notes/ajawitz/06-17-2015/question-would-the-thermal-fishing-bob-concept-work-as-a-seaglider-robot.md
+nid: 11984
 uid: 294634
-tagnames: thermal-fishing-bob,thermal,robot,heat,question:thermal-photography,question:thermal-fishing-bob,seaglider
+
 ---
 
 # Question: Would the Thermal Fishing Bob concept work as a SeaGlider robot?
+
+by [ajawitz](../profile/ajawitz) June 17, 2015 01:25
+
+June 17, 2015 01:25 | Tags: [thermal-fishing-bob](../tag/thermal-fishing-bob), [thermal](../tag/thermal), [robot](../tag/robot), [heat](../tag/heat), [question:thermal-photography](../tag/question:thermal-photography), [question:thermal-fishing-bob](../tag/question:thermal-fishing-bob), [seaglider](../tag/seaglider)
 
 ###What I want to do or know
   I want to know if the Thermal Fishing Bob concept could work as an Autonomous "SeaGlider" type robot.

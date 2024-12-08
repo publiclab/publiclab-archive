@@ -1,12 +1,18 @@
 ---
-nid: 2961
 title: My first “Personal aerial photo-mapping session with balloons or kites,” a fundraising auction item, was successful
-path: public/static/notes/patcoyle/7-26-2012/my-first-personal-aerial-photo-mapping-session-balloons-or-kites-fundraisin.md
+tagnames: balloon-mapping, kite-mapping
+author: patcoyle
+path: /notes/patcoyle/7-26-2012/my-first-personal-aerial-photo-mapping-session-balloons-or-kites-fundraisin.md
+nid: 2961
 uid: 77
-tagnames: balloon-mapping,kite-mapping
+
 ---
 
 # My first “Personal aerial photo-mapping session with balloons or kites,” a fundraising auction item, was successful
+
+by [patcoyle](../profile/patcoyle) July 26, 2012 16:35
+
+July 26, 2012 16:35 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping)
 
 My first “Personal aerial photo-mapping session with balloons or kites,” a fundraising auction item, was successful. On Sunday, 7/22/12, Nile Runge, who had successfully bid on the item at a Livermore Rotary Club fundraiser, and I flew two mylar sleeping bag balloons with a Canon A1200, shooting in continuous mode in a juice -bottle rig. We flew at Shadow Cliffs Regional Recreation Area, off Stanley Boulevard, Pleasanton, CA, a part of the East Bay Regional Park District.
 

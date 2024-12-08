@@ -1,12 +1,18 @@
 ---
-nid: 25
 title: Using the HITRAN database for spectral analysis
-path: public/static/notes/warren/12-10-2010/using-hitran-database-spectral-analysis.md
+tagnames: spectrometer, spectral-analysis, spectral-matching, methane, hitran
+author: warren
+path: /notes/warren/12-10-2010/using-hitran-database-spectral-analysis.md
+nid: 25
 uid: 1
-tagnames: spectrometer,spectral-analysis,spectral-matching,methane,hitran
+
 ---
 
 # Using the HITRAN database for spectral analysis
+
+by [warren](../profile/warren) December 11, 2010 03:39
+
+December 11, 2010 03:39 | Tags: [spectrometer](../tag/spectrometer), [spectral-analysis](../tag/spectral-analysis), [spectral-matching](../tag/spectral-matching), [methane](../tag/methane), [hitran](../tag/hitran)
 
 I'm really curious about our ability to identify methane and other gases with DIY spectroscopy in some form. I found this database of absorbances for various gases: 
 

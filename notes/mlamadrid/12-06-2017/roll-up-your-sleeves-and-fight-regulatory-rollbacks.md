@@ -1,12 +1,18 @@
 ---
-nid: 15314
 title: Roll up your sleeves and fight regulatory rollbacks
-path: public/static/notes/mlamadrid/12-06-2017/roll-up-your-sleeves-and-fight-regulatory-rollbacks.md
-uid: 45586
 tagnames: governance
+author: mlamadrid
+path: /notes/mlamadrid/12-06-2017/roll-up-your-sleeves-and-fight-regulatory-rollbacks.md
+nid: 15314
+uid: 45586
+
 ---
 
 # Roll up your sleeves and fight regulatory rollbacks
+
+by [mlamadrid](../profile/mlamadrid) December 06, 2017 00:03
+
+December 06, 2017 00:03 | Tags: [governance](../tag/governance)
 
 Article by Stacy Shelton for [Community Science Forum: Changing Environmental Governance Landscape](https://publiclab.org/forum)
 

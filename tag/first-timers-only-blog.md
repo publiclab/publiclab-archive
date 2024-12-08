@@ -1,6 +1,6 @@
 # first-timers-only-blog
 
-3 notes and wiki pages
+3 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Blog Drafting](/wiki/blog-drafting) (wiki)
 - [BostonJS talks focused on welcoming new coding contributors](/notes/warren/03-04-2016/bostonjs-talks-focused-on-welcoming-new-coding-contributors) by [warren](../profile/warren)

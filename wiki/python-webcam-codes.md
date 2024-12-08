@@ -1,12 +1,18 @@
 ---
-nid: 11031
 title: Python Webcam Codes
-path: public/static/wiki/python-webcam-codes.md
+tagnames: software, infragram, python, parent:multispectral-imaging
+author: paulokemperfilho
+path: /wiki/python-webcam-codes.md
+nid: 11031
 uid: 426653
-tagnames: software,infragram,python,parent:multispectral-imaging
+
 ---
 
 # Python Webcam Codes
+
+by [paulokemperfilho](../profile/paulokemperfilho)
+
+August 11, 2014 04:35 | Tags: [software](../tag/software), [infragram](../tag/infragram), [python](../tag/python), [parent:multispectral-imaging](../tag/parent:multispectral-imaging)
 
 ###This page is a draft to host some simple codes in order to speed up coding development in Python for the Infragram Webcam.
 

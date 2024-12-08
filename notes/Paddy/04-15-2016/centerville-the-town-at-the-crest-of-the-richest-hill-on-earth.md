@@ -1,12 +1,18 @@
 ---
-nid: 12984
 title: Centerville, the town at the crest of the Richest Hill on Earth
-path: public/static/notes/Paddy/04-15-2016/centerville-the-town-at-the-crest-of-the-richest-hill-on-earth.md
-uid: 451390
 tagnames: first-time-poster
+author: Paddy
+path: /notes/Paddy/04-15-2016/centerville-the-town-at-the-crest-of-the-richest-hill-on-earth.md
+nid: 12984
+uid: 451390
+
 ---
 
 # Centerville, the town at the crest of the Richest Hill on Earth
+
+by [Paddy](../profile/Paddy) April 15, 2016 14:55
+
+April 15, 2016 14:55 | Tags: [first-time-poster](../tag/first-time-poster)
 
 ###What I want to do: Record the history from 1866 when the first people were recorded in Centerville through the present.
 

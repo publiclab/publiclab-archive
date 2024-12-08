@@ -1,6 +1,6 @@
 # image-gathering
 
-3 notes and wiki pages
+3 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Proofmode + Open Camera](/notes/imvec/02-20-2018/proofmode-open-camera) by [imvec](../profile/imvec)
 - [Update #2: OSIDC Optical Motion Tracking Project](/notes/Emmett_Dec/09-14-2020/update-2-osidc-optical-motion-tracking-project) by [Emmett_Dec](../profile/Emmett_Dec)

@@ -1,12 +1,18 @@
 ---
-nid: 11119
 title: How Grassroots Mapping Got Started: An Intro to Barataria Bay
-path: public/static/wiki/how-grassroots-mapping-got-started.md
+tagnames: barataria-bay, grassrootsmapping, barataria, about, style:fancy, location:blurred, lat:29, lon:-89
+author: mollydanielsson
+path: /wiki/how-grassroots-mapping-got-started.md
+nid: 11119
 uid: 1259
-tagnames: barataria-bay,grassrootsmapping,barataria,about,style:fancy,location:blurred,lat:29,lon:-89
+
 ---
 
 # How Grassroots Mapping Got Started: An Intro to Barataria Bay
+
+by [warren](../profile/warren), [mollydanielsson](../profile/mollydanielsson)
+
+September 10, 2014 18:05 | Tags: [barataria-bay](../tag/barataria-bay), [grassrootsmapping](../tag/grassrootsmapping), [barataria](../tag/barataria), [about](../tag/about), [style:fancy](../tag/style:fancy), [location:blurred](../tag/location:blurred), [lat:29](../tag/lat:29), [lon:-89](../tag/lon:-89)
 
   **An introduction to the[ Barataria Bay Project.](http://publiclab.org/wiki/barataria-bay-mapping-project)** This is an excerpt from our forthcoming publication 'DIY Aerial Photography of Barataria Bay: A Community Atlas'.  
 

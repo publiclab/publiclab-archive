@@ -1,12 +1,18 @@
 ---
-nid: 14086
 title: Site Survey for a Minivol
-path: public/static/notes/mathew/04-04-2017/site-survey-for-a-minivol.md
+tagnames: air-quality, dust, silica, frac-sand, pm, particle-sensing, particle-monitoring, with:stevie, with:gretchengehrke, parent:frac-sand, pm-monitoring, minivol, replication:13891
+author: mathew
+path: /notes/mathew/04-04-2017/site-survey-for-a-minivol.md
+nid: 14086
 uid: 4
-tagnames: air-quality,dust,silica,frac-sand,pm,particle-sensing,particle-monitoring,with:stevie,with:gretchengehrke,parent:frac-sand,pm-monitoring,minivol,replication:13891
+
 ---
 
 # Site Survey for a Minivol
+
+by [mathew](../profile/mathew) April 04, 2017 18:57
+
+April 04, 2017 18:57 | Tags: [air-quality](../tag/air-quality), [dust](../tag/dust), [silica](../tag/silica), [frac-sand](../tag/frac-sand), [pm](../tag/pm), [particle-sensing](../tag/particle-sensing), [particle-monitoring](../tag/particle-monitoring), [with:stevie](../tag/with:stevie), [with:gretchengehrke](../tag/with:gretchengehrke), [parent:frac-sand](../tag/parent:frac-sand), [pm-monitoring](../tag/pm-monitoring), [minivol](../tag/minivol), [replication:13891](../tag/replication:13891)
 
 Heather and Bruce Andersen live in Bloomer, Wisconsin, and want to setup a [MiniVol to identify dust](https://publiclab.org/wiki/minivol#Available+types+of+analysis+for+MiniVol+filters) from nearby mines. @gretchengehrke, @stevie, and I set out to do a [site survey](/wiki/site-survey), following the activity, [Identifying a PM monitoring site for deploying a MiniVol.](/notes/mathew/01-31-2017/identifying-a-monitoring-site-for-deploying-a-minivol)
 

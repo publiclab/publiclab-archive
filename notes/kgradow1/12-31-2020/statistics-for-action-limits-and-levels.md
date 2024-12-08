@@ -1,12 +1,18 @@
 ---
-nid: 25315
 title: Limits and Levels
-path: public/static/notes/kgradow1/12-31-2020/statistics-for-action-limits-and-levels.md
+tagnames: education, air-quality, water-quality, groundwater, bucket-brigade, soil-testing, parent:education, soil-quality, parent:water-quality, detection-limit, parent:air-quality, lon:-71, lat:42, soil-contamination, parent:soil, zoom:6, bucket-monitor, statistics-for-action, cancer-slope, interpret-results-intro, data-advocacy
+author: kgradow1
+path: /notes/kgradow1/12-31-2020/statistics-for-action-limits-and-levels.md
+nid: 25315
 uid: 297929
-tagnames: education,air-quality,water-quality,groundwater,bucket-brigade,soil-testing,parent:education,soil-quality,parent:water-quality,detection-limit,parent:air-quality,lon:-71,lat:42,soil-contamination,parent:soil,zoom:6,bucket-monitor,statistics-for-action,cancer-slope,interpret-results-intro,data-advocacy
+
 ---
 
 # Limits and Levels
+
+by [kgradow1](../profile/kgradow1) December 31, 2020 17:23
+
+December 31, 2020 17:23 | Tags: [education](../tag/education), [air-quality](../tag/air-quality), [water-quality](../tag/water-quality), [groundwater](../tag/groundwater), [bucket-brigade](../tag/bucket-brigade), [soil-testing](../tag/soil-testing), [parent:education](../tag/parent:education), [soil-quality](../tag/soil-quality), [parent:water-quality](../tag/parent:water-quality), [detection-limit](../tag/detection-limit), [parent:air-quality](../tag/parent:air-quality), [lon:-71](../tag/lon:-71), [lat:42](../tag/lat:42), [soil-contamination](../tag/soil-contamination), [parent:soil](../tag/parent:soil), [zoom:6](../tag/zoom:6), [bucket-monitor](../tag/bucket-monitor), [statistics-for-action](../tag/statistics-for-action), [cancer-slope](../tag/cancer-slope), [interpret-results-intro](../tag/interpret-results-intro), [data-advocacy](../tag/data-advocacy)
 
 Adapted from the [Statistics for Action Air Quality Unit "Limits and Levels"][1] and generously shared with permission. You can access a printable version of this guide at [sfa.terc.edu][2]
 

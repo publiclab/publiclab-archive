@@ -1,12 +1,18 @@
 ---
-nid: 1962
 title: Using Kites as Atmospheric Wind-speed Meters
-path: public/static/notes/mathew/5-11-2012/using-kites-atmospheric-wind-speed-meters.md
+tagnames: balloon-mapping, kite-mapping, anemometer, wind-speed-meter, kite-anemometer, activity:kite-anemometer, wind-speed
+author: mathew
+path: /notes/mathew/5-11-2012/using-kites-atmospheric-wind-speed-meters.md
+nid: 1962
 uid: 4
-tagnames: balloon-mapping,kite-mapping,anemometer,wind-speed-meter,kite-anemometer,activity:kite-anemometer,wind-speed
+
 ---
 
 # Using Kites as Atmospheric Wind-speed Meters
+
+by [mathew](../profile/mathew) May 11, 2012 22:34
+
+May 11, 2012 22:34 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [anemometer](../tag/anemometer), [wind-speed-meter](../tag/wind-speed-meter), [kite-anemometer](../tag/kite-anemometer), [activity:kite-anemometer](../tag/activity:kite-anemometer), [wind-speed](../tag/wind-speed)
 
 The idea is fairly simple, measure the inclination of the kite line and the tension on the line, and, controlling for the size of the kite, its weight, and the line weight and elasticity, calculate the wind speed. This note includes links to hardware, field tests, and contacts for a defunct manufacturer of gear. A wind speed meter is usually called an Anemometer.
 

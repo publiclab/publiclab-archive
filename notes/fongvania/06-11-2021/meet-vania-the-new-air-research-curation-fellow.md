@@ -1,12 +1,18 @@
 ---
-nid: 26813
 title: Meet Vania, the new Air Research Curation Fellow!
-path: public/static/notes/fongvania/06-11-2021/meet-vania-the-new-air-research-curation-fellow.md
+tagnames: air-quality, fellows, first-time-poster, research-curation-fellows
+author: fongvania
+path: /notes/fongvania/06-11-2021/meet-vania-the-new-air-research-curation-fellow.md
+nid: 26813
 uid: 754846
-tagnames: air-quality,fellows,first-time-poster,research-curation-fellows
+
 ---
 
 # Meet Vania, the new Air Research Curation Fellow!
+
+by [fongvania](../profile/fongvania) June 11, 2021 06:41
+
+June 11, 2021 06:41 | Tags: [air-quality](../tag/air-quality), [fellows](../tag/fellows), [first-time-poster](../tag/first-time-poster), [research-curation-fellows](../tag/research-curation-fellows)
 
 Hello Public Lab world! I'm Vania Fong and I'm this year's Air Research Curation Fellow, and I'm based in San Francisco, California.
 

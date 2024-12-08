@@ -1,12 +1,18 @@
 ---
-nid: 3122
 title: Update June-July (web-development)
-path: public/static/notes/cindyexcites/8-3-2012/update-june-july-web-development.md
-uid: 1083
 tagnames: web-development
+author: cindy_excites
+path: /notes/cindyexcites/8-3-2012/update-june-july-web-development.md
+nid: 3122
+uid: 1083
+
 ---
 
 # Update June-July (web-development)
+
+by [cindy_excites](../profile/cindy_excites) August 03, 2012 22:05
+
+August 03, 2012 22:05 | Tags: [web-development](../tag/web-development)
 
 Parallel to the developments at the Mildmay Community Centre and based on the initial community needs identification with Citizens without Borders, Zhiwei Cao and Cindy Regalado have been developing the website for Science has no Borders, which, we hope in time will fulfil some of the requests by people in the MCC community. Some of these requests include:
 

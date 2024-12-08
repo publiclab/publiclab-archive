@@ -1,12 +1,18 @@
 ---
-nid: 11380
 title: Building a pavement quality sensor for a bicycle, use data to create maps
-path: public/static/notes/laurenrae/11-21-2014/building-a-pavement-quality-sensor-for-a-bicycle-use-data-to-create-maps.md
+tagnames: grassrootsmapping, remote-sensing, arduino, sensing, sensors, transportation, first-time-poster
+author: laurenrae
+path: /notes/laurenrae/11-21-2014/building-a-pavement-quality-sensor-for-a-bicycle-use-data-to-create-maps.md
+nid: 11380
 uid: 431676
-tagnames: grassrootsmapping,remote-sensing,arduino,sensing,sensors,transportation,first-time-poster
+
 ---
 
 # Building a pavement quality sensor for a bicycle, use data to create maps
+
+by [laurenrae](../profile/laurenrae) November 21, 2014 19:15
+
+November 21, 2014 19:15 | Tags: [grassrootsmapping](../tag/grassrootsmapping), [remote-sensing](../tag/remote-sensing), [arduino](../tag/arduino), [sensing](../tag/sensing), [sensors](../tag/sensors), [transportation](../tag/transportation), [first-time-poster](../tag/first-time-poster)
 
 ###What I want to do
 

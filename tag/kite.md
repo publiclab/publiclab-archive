@@ -1,6 +1,6 @@
 # kite
 
-63 notes and wiki pages
+63 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Palantier: impressive image stitching for UAVs and kites](/notes/warren/2-5-2012/palantier-impressive-image-stitching-uavs-and-kites) by [warren](../profile/warren)
 - [Mailing lists](/lists) (wiki)
@@ -42,7 +42,6 @@
 - [Auto EOS M](/notes/cfastie/02-28-2016/auto-eos-m) by [cfastie](../profile/cfastie)
 - [Plenty boost](/notes/cfastie/04-02-2016/plenty-boost) by [cfastie](../profile/cfastie)
 - [Tiny boost](/notes/cfastie/04-13-2016/tiny-boost) by [cfastie](../profile/cfastie)
-- [http://www.healthproducthub.com/megadrox-reviews/](/notes/Megadrox/04-17-2016/http-www-healthproducthub-com-megadrox-reviews) by [Megadrox](../profile/Megadrox)
 - [Stormy O. Weathers' Horned Allison- towards a kite wind speed meter](/notes/mathew/05-02-2016/stormy-o-weathers-horned-allison-towards-a-kite-wind-speed-meter) by [mathew](../profile/mathew)
 - [Silly Putty KAP Rig](/notes/ranon/06-13-2016/silly-putty-kap-rig) by [ranon](../profile/ranon)
 - [Chinese kite factory ](/notes/shanlter/06-23-2016/chinese-kite-factory) by [shanlter](../profile/shanlter)

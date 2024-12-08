@@ -1,12 +1,18 @@
 ---
-nid: 10518
 title: June 1 Jamaica Bay wetland planting photography
-path: public/static/notes/liz/05-30-2014/june-1-jamaica-bay-wetland-planting-photography.md
+tagnames: new-york-city, kite-mapping, wetlands, jamaica-bay, northeast, with:gwirth, place:rulers-bar-jamaica-bay, lat:40.610564, lon:-73.821601
+author: liz
+path: /notes/liz/05-30-2014/june-1-jamaica-bay-wetland-planting-photography.md
+nid: 10518
 uid: 7
-tagnames: new-york-city,kite-mapping,wetlands,jamaica-bay,northeast,with:gwirth,place:rulers-bar-jamaica-bay,lat:40.610564,lon:-73.821601
+
 ---
 
 # June 1 Jamaica Bay wetland planting photography
+
+by [liz](../profile/liz) May 30, 2014 17:46
+
+May 30, 2014 17:46 | Tags: [new-york-city](../tag/new-york-city), [kite-mapping](../tag/kite-mapping), [wetlands](../tag/wetlands), [jamaica-bay](../tag/jamaica-bay), [northeast](../tag/northeast), [with:gwirth](../tag/with:gwirth), [place:rulers-bar-jamaica-bay](../tag/place:rulers-bar-jamaica-bay), [lat:40.610564](../tag/lat:40.610564), [lon:-73.821601](../tag/lon:-73.821601)
 
 _Image courtesy the American Littoral Society_
 

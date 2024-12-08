@@ -1,12 +1,18 @@
 ---
-nid: 11401
 title: Thermal Imaging: Heat Insulation in Older Building
-path: public/static/notes/SCG/11-25-2014/thermal-imaging-heat-insulation-in-older-building.md
+tagnames: thermal-photography, thermal-flashlight, thermal-camera, tool, insulation, heat, replication:625
+author: SCG
+path: /notes/SCG/11-25-2014/thermal-imaging-heat-insulation-in-older-building.md
+nid: 11401
 uid: 431781
-tagnames: thermal-photography,thermal-flashlight,thermal-camera,tool,insulation,heat,replication:625
+
 ---
 
 # Thermal Imaging: Heat Insulation in Older Building
+
+by [SCG](../profile/SCG) November 25, 2014 03:47
+
+November 25, 2014 03:47 | Tags: [thermal-photography](../tag/thermal-photography), [thermal-flashlight](../tag/thermal-flashlight), [thermal-camera](../tag/thermal-camera), [tool](../tag/tool), [insulation](../tag/insulation), [heat](../tag/heat), [replication:625](../tag/replication:625)
 
 Our second attempt was in a bedroom in an older apartment. We tested the apartment on November 24, 2014 at 6:45pm. The outside temperature at this time was 58 degrees Fahrenheit. We set the temperature on the Arduino program between 72 to 76 degrees Fahrenheit. The average temperature of the room was 73 degrees, which is displayed by the yellowish-light. 
 

@@ -1,12 +1,18 @@
 ---
-nid: 12690
 title: Silica Monitoring
-path: public/static/wiki/silica-monitoring.md
+tagnames: regulations, fracking, dust, silica, particulate, frac-sand, pm, parent:pm, particulate-matter, silica-monitoring, federal-regulations, state-regulations, parent:air-quality, respirable-silica, crystalline-silica
+author: mathew
+path: /wiki/silica-monitoring.md
+nid: 12690
 uid: 4
-tagnames: regulations,fracking,dust,silica,particulate,frac-sand,pm,parent:pm,particulate-matter,silica-monitoring,federal-regulations,state-regulations,parent:air-quality,respirable-silica,crystalline-silica
+
 ---
 
 # Silica Monitoring
+
+by [bhamster](../profile/bhamster), [warren](../profile/warren), [gretchengehrke](../profile/gretchengehrke), [mathew](../profile/mathew), [stevie](../profile/stevie)
+
+February 15, 2016 08:00 | Tags: [regulations](../tag/regulations), [fracking](../tag/fracking), [dust](../tag/dust), [silica](../tag/silica), [particulate](../tag/particulate), [frac-sand](../tag/frac-sand), [pm](../tag/pm), [parent:pm](../tag/parent:pm), [particulate-matter](../tag/particulate-matter), [silica-monitoring](../tag/silica-monitoring), [federal-regulations](../tag/federal-regulations), [state-regulations](../tag/state-regulations), [parent:air-quality](../tag/parent:air-quality), [respirable-silica](../tag/respirable-silica), [crystalline-silica](../tag/crystalline-silica)
 
 Small silica dust is carcinogenic, and exposure to silica has been recognized an occupational health concern for decades.  This size range of particle can travel long distances suspended in the atmosphere and particles smaller than 5 μm are easily lodged in the lungs.  
 

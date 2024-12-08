@@ -1,12 +1,18 @@
 ---
-nid: 13109
 title: Public Lab River Rat Pack -- St. Louis -- Amanda Malone
-path: public/static/notes/amandamalone/05-12-2016/public-lab-river-rat-pack-st-louis-amanda-malone.md
+tagnames: mid-west, missouri, publiclabriverratpack, stlouis
+author: amandamalone
+path: /notes/amandamalone/05-12-2016/public-lab-river-rat-pack-st-louis-amanda-malone.md
+nid: 13109
 uid: 465991
-tagnames: mid-west,missouri,publiclabriverratpack,stlouis
+
 ---
 
 # Public Lab River Rat Pack -- St. Louis -- Amanda Malone
+
+by [amandamalone](../profile/amandamalone) May 12, 2016 15:24
+
+May 12, 2016 15:24 | Tags: [mid-west](../tag/mid-west), [missouri](../tag/missouri), [publiclabriverratpack](../tag/publiclabriverratpack), [stlouis](../tag/stlouis)
 
 As having just moved to St. Louis for graduate school, I joined the Public Lab River Rat Pack class as a way to get to know St. Louis and the Mississippi better. I had heard of the Chain of Rocks and Chouteau’s Island but I had never been to either, or any of the sites we visited, before. It was through this class that I gained a greater understanding of significance of where and why St. Louis is where it is along the Mississippi and its importance in water control and transportation as everything makes its way down river to the gulf. 
 

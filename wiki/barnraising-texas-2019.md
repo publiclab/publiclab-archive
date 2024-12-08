@@ -1,12 +1,18 @@
 ---
-nid: 17210
 title: Barnraising Texas 2019
-path: public/static/wiki/barnraising-texas-2019.md
+tagnames: gulf-coast, barnraising, parent:barnraising, texas, houston, tejas, barnraising-texas-2019, galveston, dataforblacklives, txbarnraising, txbr
+author: stevie
+path: /wiki/barnraising-texas-2019.md
+nid: 17210
 uid: 422561
-tagnames: gulf-coast,barnraising,parent:barnraising,texas,houston,tejas,barnraising-texas-2019,galveston,dataforblacklives,txbarnraising,txbr
+
 ---
 
 # Barnraising Texas 2019
+
+by [liz](../profile/liz), [Shannon](../profile/Shannon), [joyofsoy](../profile/joyofsoy), [stevie](../profile/stevie), [warren](../profile/warren)
+
+October 02, 2018 20:59 | Tags: [gulf-coast](../tag/gulf-coast), [barnraising](../tag/barnraising), [parent:barnraising](../tag/parent:barnraising), [texas](../tag/texas), [houston](../tag/houston), [tejas](../tag/tejas), [barnraising-texas-2019](../tag/barnraising-texas-2019), [galveston](../tag/galveston), [dataforblacklives](../tag/dataforblacklives), [txbarnraising](../tag/txbarnraising), [txbr](../tag/txbr)
 
 This event occurred February 22-24, 2019 in Galveston and Houston, Texas, USA.  
 Organizing partners include Bryan Parras, Reverend James Caldwell, and Eduardo Luna Lopez. 

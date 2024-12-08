@@ -1,12 +1,18 @@
 ---
-nid: 11341
 title: barnraising-2014-photos
-path: public/static/wiki/barnraising-2014-photos.md
+tagnames: barnraising, photos, barnraising2014, pictures
+author: liz
+path: /wiki/barnraising-2014-photos.md
+nid: 11341
 uid: 7
-tagnames: barnraising,photos,barnraising2014,pictures
+
 ---
 
 # barnraising-2014-photos
+
+by [cfastie](../profile/cfastie), [liz](../profile/liz), [Fereshteh](../profile/Fereshteh), [LauraChipley](../profile/LauraChipley), [laurenrae](../profile/laurenrae), [eymund](../profile/eymund)
+
+November 14, 2014 01:15 | Tags: [barnraising](../tag/barnraising), [photos](../tag/photos), [barnraising2014](../tag/barnraising2014), [pictures](../tag/pictures)
 
 ##Place your images here, newest at the top!
 

@@ -1,6 +1,6 @@
 # industrial-monitoring
 
-12 notes and wiki pages
+12 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Black Mountain, Virginia ](/map/black-mountain-virginia/2010-05-30) by [gonzoearth](../profile/gonzoearth)
 - [Marsh Fork Elementary, Coal River, West Virginia](/map/marsh-fork-elementary-coal-river-west-virginia/2010-06-01) by [gonzoearth](../profile/gonzoearth)

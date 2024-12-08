@@ -1,12 +1,18 @@
 ---
-nid: 368
 title: Kite Mapping
-path: public/static/wiki/kite-mapping.md
+tagnames: kite-mapping, diy-kite, kit, parent:balloon-mapping, kite-kit
+author: warren
+path: /wiki/kite-mapping.md
+nid: 368
 uid: 1
-tagnames: kite-mapping,diy-kite,kit,parent:balloon-mapping,kite-kit
+
 ---
 
 # Kite Mapping
+
+by [tahnok](../profile/tahnok), [warren](../profile/warren), [mathew](../profile/mathew), [liz](../profile/liz), [ncraig](../profile/ncraig)
+
+July 05, 2011 14:53 | Tags: [kite-mapping](../tag/kite-mapping), [diy-kite](../tag/diy-kite), [kit](../tag/kit), [parent:balloon-mapping](../tag/parent:balloon-mapping), [kite-kit](../tag/kite-kit)
 
 Kite mapping is similar to [balloon mapping](/wiki/balloon-mapping), but uses kites to lift cameras to take aerial photographs. With kites and a 5-20 mph wind, many of the objectives of balloon mapping are possible without helium or balloons. If you want to map a site with consistent winds, you may be in luck!
 

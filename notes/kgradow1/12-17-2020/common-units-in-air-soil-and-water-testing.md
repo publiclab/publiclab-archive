@@ -1,12 +1,18 @@
 ---
-nid: 25282
 title: Common Units in Air, Soil, and Water Testing
-path: public/static/notes/kgradow1/12-17-2020/common-units-in-air-soil-and-water-testing.md
+tagnames: soil, air-quality, water-quality, bucket-brigade, soil-testing, lon:-71, lat:42, zoom:6, bucket-monitor, statistics-for-action, interpret-results-intro
+author: kgradow1
+path: /notes/kgradow1/12-17-2020/common-units-in-air-soil-and-water-testing.md
+nid: 25282
 uid: 297929
-tagnames: soil,air-quality,water-quality,bucket-brigade,soil-testing,lon:-71,lat:42,zoom:6,bucket-monitor,statistics-for-action,interpret-results-intro
+
 ---
 
 # Common Units in Air, Soil, and Water Testing
+
+by [kgradow1](../profile/kgradow1) December 17, 2020 14:53
+
+December 17, 2020 14:53 | Tags: [soil](../tag/soil), [air-quality](../tag/air-quality), [water-quality](../tag/water-quality), [bucket-brigade](../tag/bucket-brigade), [soil-testing](../tag/soil-testing), [lon:-71](../tag/lon:-71), [lat:42](../tag/lat:42), [zoom:6](../tag/zoom:6), [bucket-monitor](../tag/bucket-monitor), [statistics-for-action](../tag/statistics-for-action), [interpret-results-intro](../tag/interpret-results-intro)
 
 Adapted from the [Statistics for Action Air Quality Unit](https://sfa.terc.edu/materials/activities.html) ["Common Units"](https://sfa.terc.edu/materials/pdfs/common_units.pdf) and generously shared with permission. You can access a printable version of this guide at [sfa.terc.edu](https://sfa.terc.edu/materials/pdfs/common_units.pdf)
 

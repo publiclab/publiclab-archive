@@ -1,12 +1,18 @@
 ---
-nid: 9306
 title: Nungesser test #2, UV and green lazer 
-path: public/static/notes/eustatic/09-09-2013/nungesser-test-2-uv-and-green-lazer.md
+tagnames: gulf-coast, spectrometer, coal, unitedbulk, response:9304
+author: eustatic
+path: /09-09-2013/nungesser-test-2-uv-and-green-lazer.md
+nid: 9306
 uid: 379
-tagnames: gulf-coast,spectrometer,coal,unitedbulk,response:9304
+
 ---
 
 # Nungesser test #2, UV and green lazer 
+
+by [eustatic](../profile/eustatic) September 09, 2013 16:32
+
+September 09, 2013 16:32 | Tags: [gulf-coast](../tag/gulf-coast), [spectrometer](../tag/spectrometer), [coal](../tag/coal), [unitedbulk](../tag/unitedbulk), [response:9304](../tag/response:9304)
 
 ##What I want to do
 

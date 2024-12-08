@@ -1,12 +1,18 @@
 ---
-nid: 17185
 title: Mapir Survey3 RGN image processing pipeline
-path: public/static/notes/mrodriguezorejuela/09-28-2018/mapir-survey3-rgn-image-processing-pipeline.md
+tagnames: ndvi, question:question, rgn, mapir
+author: mrodriguezorejuela
+path: /notes/mrodriguezorejuela/09-28-2018/mapir-survey3-rgn-image-processing-pipeline.md
+nid: 17185
 uid: 550339
-tagnames: ndvi,question:question,rgn,mapir
+
 ---
 
 # Mapir Survey3 RGN image processing pipeline
+
+by [mrodriguezorejuela](../profile/mrodriguezorejuela) September 28, 2018 13:45
+
+September 28, 2018 13:45 | Tags: [ndvi](../tag/ndvi), [question:question](../tag/question:question), [rgn](../tag/rgn), [mapir](../tag/mapir)
 
 Hi there. I need some input regarding how to process some images from our Mapir Survey3 camera in some very specific conditions. 
 

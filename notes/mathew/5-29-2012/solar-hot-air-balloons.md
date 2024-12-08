@@ -1,12 +1,18 @@
 ---
-nid: 2245
 title: Solar Hot Air Balloons
-path: public/static/notes/mathew/5-29-2012/solar-hot-air-balloons.md
+tagnames: balloon-mapping, solar-balloon, hot-air-balloon, diy-balloon
+author: mathew
+path: /notes/mathew/5-29-2012/solar-hot-air-balloons.md
+nid: 2245
 uid: 4
-tagnames: balloon-mapping,solar-balloon,hot-air-balloon,diy-balloon
+
 ---
 
 # Solar Hot Air Balloons
+
+by [mathew](../profile/mathew) May 30, 2012 02:57
+
+May 30, 2012 02:57 | Tags: [balloon-mapping](../tag/balloon-mapping), [solar-balloon](../tag/solar-balloon), [hot-air-balloon](../tag/hot-air-balloon), [diy-balloon](../tag/diy-balloon)
 
 Photo Credit: Matthew Coolidge
 

@@ -1,12 +1,18 @@
 ---
-nid: 10480
 title: strategic-plan-community-development
-path: public/static/wiki/strategic-plan-community-development.md
+tagnames: community, organizers, community-development
+author: liz
+path: /wiki/strategic-plan-community-development.md
+nid: 10480
 uid: 7
-tagnames: community,organizers,community-development
+
 ---
 
 # strategic-plan-community-development
+
+by [warren](../profile/warren), [liz](../profile/liz)
+
+May 19, 2014 17:51 | Tags: [community](../tag/community), [organizers](../tag/organizers), [community-development](../tag/community-development)
 
 **Table of Contents:** <br />
 [October 2014 update](http://publiclab.org/wiki/strategic-plan-community-development#October+2014)<br />

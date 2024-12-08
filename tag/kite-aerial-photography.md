@@ -1,6 +1,6 @@
 # kite-aerial-photography
 
-77 notes and wiki pages
+77 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [One year after oil: Grand Isle State Park](/notes/adam-griffith/6-3-2011/one-year-after-oil-grand-isle-state-park) by [adam-griffith](../profile/adam-griffith)
 - [Evolution of a Picavet](/notes/jbreen/3-6-2012/evolution-picavet) by [jbreen](../profile/jbreen)
@@ -70,7 +70,6 @@
 - [First flight of the SkyPod](/notes/cfastie/06-18-2017/first-flight-of-the-skypod) by [cfastie](../profile/cfastie)
 - [SkyPod GPS Logger](/wiki/skypod-gps-logger) (wiki)
 - [Public Lab Launches Balloon Mapping Kit Campaign with Kickstarter Gold](/wiki/public-lab-launches-balloon-mapping-kit-campaign-with-kickstarter-gold) (wiki)
-- [What do you think about work at home?](/notes/mikekaliven87/06-30-2017/what-do-you-think-about-work-at-home) by [mikekaliven87](../profile/mikekaliven87)
 - [The Squid and the Rok](/notes/cfastie/07-03-2017/the-squid-and-the-rok) by [cfastie](../profile/cfastie)
 - [Winds aloft](/notes/cfastie/08-03-2017/winds-aloft) by [cfastie](../profile/cfastie)
 - [Assembling a SkyPod GPS logger](/notes/cfastie/08-07-2017/assembling-a-skypod-gps-logger) by [cfastie](../profile/cfastie)

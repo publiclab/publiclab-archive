@@ -1,12 +1,18 @@
 ---
-nid: 7140
 title: balloon-mapping-media
-path: public/static/wiki/balloon-mapping-media.md
+tagnames: balloon-mapping, kite-mapping, media
+author: warren
+path: /wiki/balloon-mapping-media.md
+nid: 7140
 uid: 1
-tagnames: balloon-mapping,kite-mapping,media
+
 ---
 
 # balloon-mapping-media
+
+by [warren](../profile/warren)
+
+April 30, 2013 22:15 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [media](../tag/media)
 
 _Media on Grassroots Mapping, including pictures of folks balloon and kite mapping_
 

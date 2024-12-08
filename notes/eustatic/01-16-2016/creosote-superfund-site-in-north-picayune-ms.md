@@ -1,12 +1,18 @@
 ---
-nid: 12590
 title: Creosote Superfund site in north Picayune, MS
-path: public/static/notes/eustatic/01-16-2016/creosote-superfund-site-in-north-picayune-ms.md
+tagnames: gulf-coast, balloon-mapping
+author: eustatic
+path: /01-16-2016/creosote-superfund-site-in-north-picayune-ms.md
+nid: 12590
 uid: 379
-tagnames: gulf-coast,balloon-mapping
+
 ---
 
 # Creosote Superfund site in north Picayune, MS
+
+by [eustatic](../profile/eustatic) January 16, 2016 21:08
+
+January 16, 2016 21:08 | Tags: [gulf-coast](../tag/gulf-coast), [balloon-mapping](../tag/balloon-mapping)
 
 ###What I want to do
 

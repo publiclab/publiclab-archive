@@ -1,6 +1,6 @@
 # wiki
 
-5 notes and wiki pages
+5 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [colab21](/wiki/colab21) (wiki)
 - [Can documenting our work be fun?](/notes/liz/07-24-2014/can-documenting-our-work-be-fun) by [liz](../profile/liz)

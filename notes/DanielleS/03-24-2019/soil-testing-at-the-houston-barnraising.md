@@ -1,12 +1,18 @@
 ---
-nid: 18837
 title: Soil Testing at the Houston Barnraising 
-path: public/static/notes/DanielleS/03-24-2019/soil-testing-at-the-houston-barnraising.md
+tagnames: soil, climate-change, soil-testing, texas, houston, txbarnraising, soil-contamination, lat:29.760426, lon:-95.369802, hanby-soil-kit
+author: DanielleS
+path: /notes/DanielleS/03-24-2019/soil-testing-at-the-houston-barnraising.md
+nid: 18837
 uid: 569208
-tagnames: soil,climate-change,soil-testing,texas,houston,txbarnraising,soil-contamination,lat:29.760426,lon:-95.369802,hanby-soil-kit
+
 ---
 
 # Soil Testing at the Houston Barnraising 
+
+by [DanielleS](../profile/DanielleS) March 24, 2019 22:05
+
+March 24, 2019 22:05 | Tags: [soil](../tag/soil), [climate-change](../tag/climate-change), [soil-testing](../tag/soil-testing), [texas](../tag/texas), [houston](../tag/houston), [txbarnraising](../tag/txbarnraising), [soil-contamination](../tag/soil-contamination), [lat:29.760426](../tag/lat:29.760426), [lon:-95.369802](../tag/lon:-95.369802), [hanby-soil-kit](../tag/hanby-soil-kit)
 
 **Where were we?**
 

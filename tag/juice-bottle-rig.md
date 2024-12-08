@@ -1,6 +1,6 @@
 # juice-bottle-rig
 
-4 notes and wiki pages
+4 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Updated maps - construction site activities near Mocho Park](/notes/patcoyle/01-17-2014/updated-maps-construction-site-activities-near-mocho-park) by [patcoyle](../profile/patcoyle)
 - [Using the Mapknitter 2 image placement using geotagged images](/notes/patcoyle/03-23-2015/using-the-mapknitter-2-image-placement-using-geotagged-images) by [patcoyle](../profile/patcoyle)

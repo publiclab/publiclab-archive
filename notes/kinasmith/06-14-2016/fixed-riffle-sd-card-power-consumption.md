@@ -1,12 +1,18 @@
 ---
-nid: 13195
 title: *FIXED* Riffle SD card Power Consumption
-path: public/static/notes/kinasmith/06-14-2016/fixed-riffle-sd-card-power-consumption.md
-uid: 445906
 tagnames: riffle
+author: kinasmith
+path: /notes/kinasmith/06-14-2016/fixed-riffle-sd-card-power-consumption.md
+nid: 13195
+uid: 445906
+
 ---
 
 # *FIXED* Riffle SD card Power Consumption
+
+by [kinasmith](../profile/kinasmith) June 14, 2016 00:17
+
+June 14, 2016 00:17 | Tags: [riffle](../tag/riffle)
 
 After some sleuthing, I figured out the culprit for why the Riffle was consuming so much power, as detailed [in this Research Note](https://publiclab.org/notes/kinasmith/06-09-2016/riffle-power-consumption). 
 

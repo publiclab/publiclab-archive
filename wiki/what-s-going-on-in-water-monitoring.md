@@ -1,12 +1,18 @@
 ---
-nid: 10392
 title: What's going on in Water Monitoring?
-path: public/static/wiki/what-s-going-on-in-water-monitoring.md
+tagnames: water-sensing, water-quality, water, open-water, parent:water-quality
+author: kanarinka
+path: /wiki/what-s-going-on-in-water-monitoring.md
+nid: 10392
 uid: 994
-tagnames: water-sensing,water-quality,water,open-water,parent:water-quality
+
 ---
 
 # What's going on in Water Monitoring?
+
+by [kanarinka](../profile/kanarinka), [danbeavers](../profile/danbeavers), [cfastie](../profile/cfastie)
+
+May 02, 2014 13:52 | Tags: [water-sensing](../tag/water-sensing), [water-quality](../tag/water-quality), [water](../tag/water), [open-water](../tag/open-water), [parent:water-quality](../tag/parent:water-quality)
 
 For development of Public Lab's [Open Water Project](http://publiclab.org/wiki/open-water) we wanted to do a "lit review" of what other work is going on in the space of community water monitoring, low-cost water sensing, and open source/open hardware in relation to water. This will help us highlight areas we might collaborate with others or potentially improve our own technology. It has already been useful in improving the conductivity measurement for the Riffle (thanks to the CATTFISH project at CMU that shared how they were doing their conductivity monitoring). Please add to this list as you come across other projects!  
 [edit]  

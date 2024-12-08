@@ -1,6 +1,6 @@
 # out-of-date
 
-9 notes and wiki pages
+9 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Join Public Lab](/wiki/join) (wiki)
 - [Website projects](/wiki/website-projects) (wiki)

@@ -1,6 +1,6 @@
 # language
 
-15 notes and wiki pages
+15 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Invite someone to translate on Transifex (managers)](/notes/liz/10-26-2016/how-to-invite-someone-to-translate-on-transifex) by [liz](../profile/liz)
 - [Step 2: Translate on Transifex](/notes/liz/10-26-2016/translating-on-transifex) by [liz](../profile/liz)
@@ -13,7 +13,3 @@
 - [Transifex tutorial for beginners](/notes/adarshkumar/12-31-2016/transifex-tutorial-for-beginners) by [adarshkumar](../profile/adarshkumar)
 - [Using Transifex's Translating Platform](/notes/gegeneo/01-03-2017/using-transifex-s-translating-platform) by [gegeneo](../profile/gegeneo)
 - [Translating project files using transifex](/notes/sanchittechnogeek/01-03-2017/translating-project-files-using-transifex) by [sanchittechnogeek](../profile/sanchittechnogeek)
-- [Online C programming language](/notes/Edutainer/06-27-2019/online-c-programming-language) by [Edutainer](../profile/Edutainer)
-- [Learning Japanese is easy with these method](/notes/lisarisa/10-19-2019/learning-japanese-is-easy-with-these-method) by [lisarisa](../profile/lisarisa)
-- [7 Tricks to Detect Lies on the Spot](/notes/viola/04-07-2020/7-tricks-to-detect-lies-on-the-spot) by [viola](../profile/viola)
-- [Top 7 Myths That Might Affect Your PTE Scores [2022]](/notes/ambitionabroad/10-28-2021/top-7-myths-that-might-affect-your-pte-scores-2022) by [ambitionabroad](../profile/ambitionabroad)

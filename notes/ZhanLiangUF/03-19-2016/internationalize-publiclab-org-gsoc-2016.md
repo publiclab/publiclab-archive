@@ -1,12 +1,18 @@
 ---
-nid: 12863
 title: Internationalize publiclab.org GSoC 2016
-path: public/static/notes/ZhanLiangUF/03-19-2016/internationalize-publiclab-org-gsoc-2016.md
+tagnames: software, gsoc, coding, hidden:response, gsoc-2016, gsoc-2016-proposals, response:12827
+author: ZhanLiangUF
+path: /notes/ZhanLiangUF/03-19-2016/internationalize-publiclab-org-gsoc-2016.md
+nid: 12863
 uid: 468876
-tagnames: software,gsoc,coding,hidden:response,gsoc-2016,gsoc-2016-proposals,response:12827
+
 ---
 
 # Internationalize publiclab.org GSoC 2016
+
+by [ZhanLiangUF](../profile/ZhanLiangUF) March 19, 2016 22:01
+
+March 19, 2016 22:01 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [coding](../tag/coding), [hidden:response](../tag/hidden:response), [gsoc-2016](../tag/gsoc-2016), [gsoc-2016-proposals](../tag/gsoc-2016-proposals), [response:12827](../tag/response:12827)
 
 DISCLAIMER- Ignore image above. I can't seem to find a way to delete it.
 

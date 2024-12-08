@@ -1,12 +1,18 @@
 ---
-nid: 14154
 title: Changing filters on the pDR-1500
-path: public/static/notes/mathew/05-01-2017/changing-filters-on-the-pdr-1500.md
+tagnames: dust, silica, pm, dust-monitoring, pm-monitoring, 1031710, pdr-1500, activity:pdr-1500
+author: mathew
+path: /notes/mathew/05-01-2017/changing-filters-on-the-pdr-1500.md
+nid: 14154
 uid: 4
-tagnames: dust,silica,pm,dust-monitoring,pm-monitoring,1031710,pdr-1500,activity:pdr-1500
+
 ---
 
 # Changing filters on the pDR-1500
+
+by [mathew](../profile/mathew) May 01, 2017 23:21
+
+May 01, 2017 23:21 | Tags: [dust](../tag/dust), [silica](../tag/silica), [pm](../tag/pm), [dust-monitoring](../tag/dust-monitoring), [pm-monitoring](../tag/pm-monitoring), [1031710](../tag/1031710), [pdr-1500](../tag/pdr-1500), [activity:pdr-1500](../tag/activity:pdr-1500)
 
 The pDR-1500 needs its filter changed very 24 hours of runtime. Filters may also be used for [gravimetric calibration](https://publiclab.org/wiki/filter-pm).  This activity steps through filter changing.
 

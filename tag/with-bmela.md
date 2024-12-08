@@ -1,6 +1,6 @@
 # with-bmela
 
-11 notes and wiki pages
+11 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Making a Hackteria stage](/notes/partsandcrafts/10-26-2017/making-a-hackteria-microscope) by [partsandcrafts](../profile/partsandcrafts)
 - [Overview: Hackteria Remix: Building a Basic Microscope with Raspberry Pi](/notes/partsandcrafts/11-26-2017/building-a-raspberry-pi-microscope) by [partsandcrafts](../profile/partsandcrafts)

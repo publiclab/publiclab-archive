@@ -1,12 +1,18 @@
 ---
-nid: 30240
 title: Seeking a Community Engagement Fellow 
-path: public/static/notes/stevie/04-06-2022/seeking-a-community-engagement-fellow.md
+tagnames: heavy-metals, pipeline, mining, minnesota, fracking, jobs, midwest, fellows, fellowship, community-organizing, fellow, community-engagement, mill, fellowship-team, fellowship-teams, lumber, particle-board, with:bee
+author: stevie
+path: /notes/stevie/04-06-2022/seeking-a-community-engagement-fellow.md
+nid: 30240
 uid: 422561
-tagnames: heavy-metals,pipeline,mining,minnesota,fracking,jobs,midwest,fellows,fellowship,community-organizing,fellow,community-engagement,mill,fellowship-team,fellowship-teams,lumber,particle-board,with:bee
+
 ---
 
 # Seeking a Community Engagement Fellow 
+
+by [stevie](../profile/stevie) April 06, 2022 14:18
+
+April 06, 2022 14:18 | Tags: [heavy-metals](../tag/heavy-metals), [pipeline](../tag/pipeline), [mining](../tag/mining), [minnesota](../tag/minnesota), [fracking](../tag/fracking), [jobs](../tag/jobs), [midwest](../tag/midwest), [fellows](../tag/fellows), [fellowship](../tag/fellowship), [community-organizing](../tag/community-organizing), [fellow](../tag/fellow), [community-engagement](../tag/community-engagement), [mill](../tag/mill), [fellowship-team](../tag/fellowship-team), [fellowship-teams](../tag/fellowship-teams), [lumber](../tag/lumber), [particle-board](../tag/particle-board), [with:bee](../tag/with:bee)
 
 _Water Protectors in canoes investigate another potential frac out caused by Enbridge's Line 3 pipeline being forced under the Shell River in northern Minnesota.  
 The lead image was pulled from drone footage by River Akemann_

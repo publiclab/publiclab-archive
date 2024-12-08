@@ -1,12 +1,18 @@
 ---
-nid: 12463
 title: String and paperclip method for attaching Mobius camera to dowel pendulum rig
-path: public/static/notes/tonyc/11-30-2015/string-and-paperclip-method-for-attaching-mobius-camera-to-dowel-pendulum-rig.md
+tagnames: aerial-photography, mobius, diy-mount-kit
+author: tonyc
+path: /notes/tonyc/11-30-2015/string-and-paperclip-method-for-attaching-mobius-camera-to-dowel-pendulum-rig.md
+nid: 12463
 uid: 447491
-tagnames: aerial-photography,mobius,diy-mount-kit
+
 ---
 
 # String and paperclip method for attaching Mobius camera to dowel pendulum rig
+
+by [tonyc](../profile/tonyc) November 30, 2015 22:39
+
+November 30, 2015 22:39 | Tags: [aerial-photography](../tag/aerial-photography), [mobius](../tag/mobius), [diy-mount-kit](../tag/diy-mount-kit)
 
 ###Find a safe, no-cost and teachable method for attaching a Mobius Actioncam to a dowel
 

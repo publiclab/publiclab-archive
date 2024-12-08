@@ -1,12 +1,18 @@
 ---
-nid: 12622
 title: Decolonized Skies
-path: public/static/notes/hagitkeysar/01-26-2016/decolonized-skies.md
+tagnames: balloon-mapping, jerusalem, israel, palestine, exhibition
+author: hagitkeysar
+path: /notes/hagitkeysar/01-26-2016/decolonized-skies.md
+nid: 12622
 uid: 152
-tagnames: balloon-mapping,jerusalem,israel,palestine,exhibition
+
 ---
 
 # Decolonized Skies
+
+by [hagitkeysar](../profile/hagitkeysar) January 26, 2016 19:46
+
+January 26, 2016 19:46 | Tags: [balloon-mapping](../tag/balloon-mapping), [jerusalem](../tag/jerusalem), [israel](../tag/israel), [palestine](../tag/palestine), [exhibition](../tag/exhibition)
 
 [![DSCN5895.JPG](//i.publiclab.org/system/images/photos/000/013/868/large/DSCN5895.JPG)](//i.publiclab.org/system/images/photos/000/013/868/original/DSCN5895.JPG)
 

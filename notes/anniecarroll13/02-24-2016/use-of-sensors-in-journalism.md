@@ -1,12 +1,18 @@
 ---
-nid: 12743
 title: Use of sensors in Journalism 
-path: public/static/notes/anniecarroll13/02-24-2016/use-of-sensors-in-journalism.md
+tagnames: sensor-journalism, response:12748, hidden:response
+author: anniecarroll13
+path: /notes/anniecarroll13/02-24-2016/use-of-sensors-in-journalism.md
+nid: 12743
 uid: 461509
-tagnames: sensor-journalism,response:12748,hidden:response
+
 ---
 
 # Use of sensors in Journalism 
+
+by [anniecarroll13](../profile/anniecarroll13) February 24, 2016 18:26
+
+February 24, 2016 18:26 | Tags: [sensor-journalism](../tag/sensor-journalism), [response:12748](../tag/response:12748), [hidden:response](../tag/hidden:response)
 
 People take in and create data just by doing their everyday routine. What they search for on the web, what kind of apps they use on their phone and where they get there information from could all be used to tell stories that extend and affect other. In the technologically advanced world that we live in today, the opportunity for data and sensor journalism to grow is endless. Just today as I was looking at an article in the New York Times and it referenced back to an interactive visualization about the rising temperature across the globe in 2015.This reminding of something that Lily Bui touched upon in the presentation that she gave to our class. When the company she was working for introduced the concept of using a sensor to individuals while they were biking to track different information, it seemed as though it was something that they didn’t understand why it was necessary. I didn’t really know why I was looking at this graph about the temperatures of different cities when it wasn’t something that I thought I was interested in. I ended up spending around 10 minutes exploring and learning and ended looking up more information about climate change and other issues that are adding to the rise of world temperatures. This resonated with me that this is truly untapped market within most individuals, and even within myself, to learn about new data through sensor based and data based visualizations. This is where I truly realized that sensor based journalism is coming alive and being showcased in the most widely recognized and view publication in the world in the NYT. 
 With the vastness of opportunities in sensor journalism, also comes with challenges. The main challenge lies in the ability to understand what type of sensor would work the best for the information that you want to express to your audience. When Patrick Herron came to our class and talked about the Mystic River Water Shed Association and about the work they do, it really caught my attention. I couldn’t believe that even after growing up in New England, visiting Boston countless times throughout my life and now have been living here for three years, I had never heard of the Mystic River or how it affects such large population of Massachusetts. When we were told that we were going to make device that could test the conductivity of water, I became very nervous since building objects has never been one of my strong suits. I also had learned little about water science in my past education so I was always afraid that I would somehow not understand the findings that we would get from our samples. Once I learned that the device we were putting together were base around noise and pitch of the sound, I became more hopeful that this could actually show the differences in conductivity and that I would be able to understand. We then had to create the sensor ourselves while following along with the class demonstration. After putting my doubt aside, my group found the ability to build the device and test the water samples. Getting out of the way of my own fears and doubt about not being 100% confident in the subject was the true challenge. This challenge I see as being universal since it is a common fear to be afraid of what you don’t know. 

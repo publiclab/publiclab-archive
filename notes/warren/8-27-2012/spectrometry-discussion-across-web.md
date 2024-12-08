@@ -1,12 +1,18 @@
 ---
-nid: 3501
 title: Spectrometry discussion across the web
-path: public/static/notes/warren/8-27-2012/spectrometry-discussion-across-web.md
-uid: 1
 tagnames: spectrometer
+author: warren
+path: /notes/warren/8-27-2012/spectrometry-discussion-across-web.md
+nid: 3501
+uid: 1
+
 ---
 
 # Spectrometry discussion across the web
+
+by [warren](../profile/warren) August 27, 2012 21:11
+
+August 27, 2012 21:11 | Tags: [spectrometer](../tag/spectrometer)
 
 I wanted to jot down these URLs for a couple forums where there's been some really good thinking-out-loud on DIY spectrometry and the challenges we face. One is from a while back, on the OpenSpectrometer.com forum:
 

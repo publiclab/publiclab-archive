@@ -1,12 +1,16 @@
 ---
-nid: 15742
 title: signup-notice
-path: public/static/feature/signup-notice.md
-uid: 1
 tagnames: 
+author: warren
+path: /feature/signup-notice.md
+nid: 15742
+uid: 1
+
 ---
 
 # signup-notice
+
+February 15, 2018 17:26 | Tags: 
 
 <p>By signing up, <b>you agree to the <a href="https://publiclab.org/conduct" target="_blank">Code of Conduct</a></b>, which applies to all online and in-person spaces managed by the Public Lab community and non-profit. You also agree to our <a href="/privacy">Privacy Policy</a>.</p> 
 

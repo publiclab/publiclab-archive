@@ -1,12 +1,18 @@
 ---
-nid: 12617
 title: Mobius
-path: public/static/wiki/mobius.md
+tagnames: infrared-camera, infragram, mobius-actioncam, mobius, pendulum-rig
+author: tonyc
+path: /wiki/mobius.md
+nid: 12617
 uid: 447491
-tagnames: infrared-camera,infragram,mobius-actioncam,mobius,pendulum-rig
+
 ---
 
 # Mobius
+
+by [warren](../profile/warren), [Clash](../profile/Clash), [tonyc](../profile/tonyc)
+
+January 25, 2016 22:07 | Tags: [infrared-camera](../tag/infrared-camera), [infragram](../tag/infragram), [mobius-actioncam](../tag/mobius-actioncam), [mobius](../tag/mobius), [pendulum-rig](../tag/pendulum-rig)
 
 The Public Lab community has been using variants of the Mobius ActionCam for aerial photography purposes for some time, and has also used this as the basis of our Infragram Point and Shoot camera.
 

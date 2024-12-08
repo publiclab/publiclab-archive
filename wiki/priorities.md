@@ -1,12 +1,18 @@
 ---
-nid: 88
 title: Priorities
-path: public/static/wiki/priorities.md
-uid: 1
 tagnames: 
+author: warren
+path: /wiki/priorities.md
+nid: 88
+uid: 1
+
 ---
 
 # Priorities
+
+by [liz](../profile/liz), [warren](../profile/warren)
+
+February 18, 2011 17:18 | Tags: 
 
 ##Community & Outreach##
 

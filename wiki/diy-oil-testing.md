@@ -1,12 +1,18 @@
 ---
-nid: 12629
 title: DIY Oil Testing
-path: public/static/wiki/diy-oil-testing.md
+tagnames: spectrometer, spectrometry, oil-testing-kit, draft, pipeline-monitoring, parent:pipeline
+author: warren
+path: /wiki/diy-oil-testing.md
+nid: 12629
 uid: 1
-tagnames: spectrometer,spectrometry,oil-testing-kit,draft,pipeline-monitoring,parent:pipeline
+
 ---
 
 # DIY Oil Testing
+
+by [warren](../profile/warren)
+
+January 28, 2016 16:16 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [oil-testing-kit](../tag/oil-testing-kit), [draft](../tag/draft), [pipeline-monitoring](../tag/pipeline-monitoring), [parent:pipeline](../tag/parent:pipeline)
 
 #Progress toward community oil pollution analysis
 

@@ -1,12 +1,18 @@
 ---
-nid: 28129
 title: What's New in Land & Soil (11/21 Update)
-path: public/static/notes/laurel_mire/11-18-2021/what-s-new-in-land-soil-11-21-update.md
+tagnames: soil, land-use, research-curation-fellows
+author: laurel_mire
+path: /notes/laurel_mire/11-18-2021/what-s-new-in-land-soil-11-21-update.md
+nid: 28129
 uid: 759178
-tagnames: soil,land-use,research-curation-fellows
+
 ---
 
 # What's New in Land & Soil (11/21 Update)
+
+by [laurel_mire](../profile/laurel_mire) November 18, 2021 16:56
+
+November 18, 2021 16:56 | Tags: [soil](../tag/soil), [land-use](../tag/land-use), [research-curation-fellows](../tag/research-curation-fellows)
 
 ##Land Community Call
 Last week, Public Lab held its quarterly community call focused on sharing experiences, concerns, and resources falling under the topics of land & soil. Thank you to @Pat for attending and sharing your vast knowledge about the frac sand mine industry, your passion for citizen science and community organizing, and your advice for young community scientists--- “persistence and determination are key!” Check out the notes from the call [here][1]. 

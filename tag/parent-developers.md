@@ -1,6 +1,6 @@
 # parent-developers
 
-5 notes and wiki pages
+5 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Summer of Code programs](/wiki/gsoc) (wiki)
 - [Software](/wiki/software) (wiki)

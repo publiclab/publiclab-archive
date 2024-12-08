@@ -1,12 +1,18 @@
 ---
-nid: 12091
 title: People of the New Orleans Urban Waters Project
-path: public/static/wiki/people-of-the-new-orleans-urban-waters-project.md
-uid: 422561
 tagnames: parent:urban-waters-mapping-nola
+author: stevie
+path: /wiki/people-of-the-new-orleans-urban-waters-project.md
+nid: 12091
+uid: 422561
+
 ---
 
 # People of the New Orleans Urban Waters Project
+
+by [stevie](../profile/stevie)
+
+July 22, 2015 15:52 | Tags: [parent:urban-waters-mapping-nola](../tag/parent:urban-waters-mapping-nola)
 
 [![20150314_160012.jpg](https://i.publiclab.org/system/images/photos/000/010/847/medium/20150314_160012.jpg)](https://i.publiclab.org/system/images/photos/000/010/847/original/20150314_160012.jpg)
 by Stevie

@@ -1,12 +1,18 @@
 ---
-nid: 12200
 title: Attempting reflectance measurements with spectrometer
-path: public/static/notes/coight/09-06-2015/attempting-reflectance-measurements-with-spectrometer.md
+tagnames: spectrometer, oil, kit, test, response:12074
+author: coight
+path: /notes/coight/09-06-2015/attempting-reflectance-measurements-with-spectrometer.md
+nid: 12200
 uid: 424607
-tagnames: spectrometer,oil,kit,test,response:12074
+
 ---
 
 # Attempting reflectance measurements with spectrometer
+
+by [coight](../profile/coight) September 06, 2015 01:06
+
+September 06, 2015 01:06 | Tags: [spectrometer](../tag/spectrometer), [oil](../tag/oil), [kit](../tag/kit), [test](../tag/test), [response:12074](../tag/response:12074)
 
 ###What I want to do
  I am trying to undertake reflectance measurements from a version of the public lab spectrometer mounted on a robot

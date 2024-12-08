@@ -1,12 +1,18 @@
 ---
-nid: 8996
 title: Comparative and qualitative flame spectroscopy
-path: public/static/notes/warren/08-13-2013/comparative-and-qualitative-flame-spectroscopy.md
+tagnames: spectrometer, flame, spectral-analysis, flare, emission, emissions, nist, spectral-databases, response:8995
+author: warren
+path: /notes/warren/08-13-2013/comparative-and-qualitative-flame-spectroscopy.md
+nid: 8996
 uid: 1
-tagnames: spectrometer,flame,spectral-analysis,flare,emission,emissions,nist,spectral-databases,response:8995
+
 ---
 
 # Comparative and qualitative flame spectroscopy
+
+by [warren](../profile/warren) August 13, 2013 16:28
+
+August 13, 2013 16:28 | Tags: [spectrometer](../tag/spectrometer), [flame](../tag/flame), [spectral-analysis](../tag/spectral-analysis), [flare](../tag/flare), [emission](../tag/emission), [emissions](../tag/emissions), [nist](../tag/nist), [spectral-databases](../tag/spectral-databases), [response:8995](../tag/response:8995)
 
 The lead image is from three photos on [Wikipedia's article on flame testing](https://en.wikipedia.org/wiki/Flame_test), which lists a variety of flames with helpful photos to match flame color to their probable contents. The flames above are, left to right, lead, arsenic, and copper.
 

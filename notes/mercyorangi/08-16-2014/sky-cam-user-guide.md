@@ -1,12 +1,18 @@
 ---
-nid: 11061
 title: Sky Cam - User Guide
-path: public/static/notes/mercyorangi/08-16-2014/sky-cam-user-guide.md
+tagnames: balloon-mapping, mapknitter, timelapse, skycam, cartography-collective, sky-camera, activity:camera-triggering, activity:intervalometer
+author: mercyorangi
+path: /notes/mercyorangi/08-16-2014/sky-cam-user-guide.md
+nid: 11061
 uid: 421649
-tagnames: balloon-mapping,mapknitter,timelapse,skycam,cartography-collective,sky-camera,activity:camera-triggering,activity:intervalometer
+
 ---
 
 # Sky Cam - User Guide
+
+by [mercyorangi](../profile/mercyorangi) August 16, 2014 20:34
+
+August 16, 2014 20:34 | Tags: [balloon-mapping](../tag/balloon-mapping), [mapknitter](../tag/mapknitter), [timelapse](../tag/timelapse), [skycam](../tag/skycam), [cartography-collective](../tag/cartography-collective), [sky-camera](../tag/sky-camera), [activity:camera-triggering](../tag/activity:camera-triggering), [activity:intervalometer](../tag/activity:intervalometer)
 
 ##Overview
 The Sky Cam application user guide is elaborated in 4 sections as seen below.

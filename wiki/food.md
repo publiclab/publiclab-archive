@@ -1,12 +1,18 @@
 ---
-nid: 11472
 title: food
-path: public/static/wiki/food.md
+tagnames: infrared, food, food-fraud, multispeq, food-quality, food-desert, multispectral-analysis
+author: btbonval
+path: /wiki/food.md
+nid: 11472
 uid: 43229
-tagnames: infrared,food,food-fraud,multispeq,food-quality,food-desert,multispectral-analysis
+
 ---
 
 # food
+
+by [wward1400](../profile/wward1400), [levisimons](../profile/levisimons), [btbonval](../profile/btbonval), [warren](../profile/warren)
+
+December 17, 2014 18:19 | Tags: [infrared](../tag/infrared), [food](../tag/food), [food-fraud](../tag/food-fraud), [multispeq](../tag/multispeq), [food-quality](../tag/food-quality), [food-desert](../tag/food-desert), [multispectral-analysis](../tag/multispectral-analysis)
 
 ###work in progress
 

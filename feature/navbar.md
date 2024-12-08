@@ -1,12 +1,16 @@
 ---
-nid: 21542
 title: navbar
-path: public/static/feature/navbar.md
-uid: 1
 tagnames: e8e8e8
+author: warren
+path: /feature/navbar.md
+nid: 21542
+uid: 1
+
 ---
 
 # navbar
+
+November 20, 2019 22:43 | Tags: [e8e8e8](../tag/e8e8e8)
 
       <li class="nav-item">
           <a class="nav-link topics-nav-link" href="javascript:void(0);">Topics</a>

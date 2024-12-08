@@ -1,12 +1,18 @@
 ---
-nid: 559
 title: CERN-OHL-1.1
-path: public/static/wiki/cern-ohl-11.md
+tagnames: licensing, ohl, open-hardware, licenses, cernohl, parent:licenses
+author: warren
+path: /wiki/cern-ohl-11.md
+nid: 559
 uid: 1
-tagnames: licensing,ohl,open-hardware,licenses,cernohl,parent:licenses
+
 ---
 
 # CERN-OHL-1.1
+
+by [warren](../profile/warren)
+
+November 13, 2011 17:00 | Tags: [licensing](../tag/licensing), [ohl](../tag/ohl), [open-hardware](../tag/open-hardware), [licenses](../tag/licenses), [cernohl](../tag/cernohl), [parent:licenses](../tag/parent:licenses)
 
 > The original text can be found here: http://www.ohwr.org/attachments/735/CERNOHLv1_1.txt
 

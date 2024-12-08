@@ -1,6 +1,6 @@
 # activity
 
-21 notes and wiki pages
+21 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Infrared Vegetation Analysis Activity](/wiki/infrared-vegetation-analysis-activity) (wiki)
 - [Sandbox](/wiki/sandbox) (wiki)
@@ -19,7 +19,6 @@
 - [Transifex tutorial for beginners](/notes/adarshkumar/12-31-2016/transifex-tutorial-for-beginners) by [adarshkumar](../profile/adarshkumar)
 - [Using Transifex's Translating Platform](/notes/gegeneo/01-03-2017/using-transifex-s-translating-platform) by [gegeneo](../profile/gegeneo)
 - [Translating project files using transifex](/notes/sanchittechnogeek/01-03-2017/translating-project-files-using-transifex) by [sanchittechnogeek](../profile/sanchittechnogeek)
-- [Check this inspirational list out! ](/notes/Kaikosog/05-18-2017/check-this-inspirational-list-out) by [Kaikosog](../profile/Kaikosog)
 - [Measuring water in a rain gauge ](/notes/stevie/06-08-2017/measuring-water-in-a-cocorahs-rain-gauge) by [stevie](../profile/stevie)
 - [Time lapse mode on the Crenova Game camera](/notes/stevie/06-29-2017/time-lapse-mode-on-the-crenova-game-camera) by [stevie](../profile/stevie)
 - [Host an Issue Brief workshop](/wiki/host-an-issue-brief-workshop) (wiki)

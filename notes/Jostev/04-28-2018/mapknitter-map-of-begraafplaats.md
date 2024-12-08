@@ -1,12 +1,18 @@
 ---
-nid: 16267
 title: MapKnitter map of Begraafplaats
-path: public/static/notes/Jostev/04-28-2018/mapknitter-map-of-begraafplaats.md
+tagnames: mapknitter, lat:50.90616791, lon:5.4267767072
+author: Jostev
+path: /notes/Jostev/04-28-2018/mapknitter-map-of-begraafplaats.md
+nid: 16267
 uid: 532502
-tagnames: mapknitter,lat:50.90616791,lon:5.4267767072
+
 ---
 
 # MapKnitter map of Begraafplaats
+
+by [Jostev](../profile/Jostev) April 28, 2018 15:28
+
+April 28, 2018 15:28 | Tags: [mapknitter](../tag/mapknitter), [lat:50.90616791](../tag/lat:50.90616791), [lon:5.4267767072](../tag/lon:5.4267767072)
 
 ---------
 

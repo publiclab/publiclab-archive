@@ -1,12 +1,18 @@
 ---
-nid: 3760
 title: Assembly pics for prototype "countertop" spectrometer
-path: public/static/notes/warren/9-12-2012/assembly-pics-prototype-countertop-spectrometer.md
-uid: 1
 tagnames: spectrometer
+author: warren
+path: /notes/warren/9-12-2012/assembly-pics-prototype-countertop-spectrometer.md
+nid: 3760
+uid: 1
+
 ---
 
 # Assembly pics for prototype "countertop" spectrometer
+
+by [warren](../profile/warren) September 12, 2012 17:12
+
+September 12, 2012 17:12 | Tags: [spectrometer](../tag/spectrometer)
 
 OK, folks asked, so here it is! This doesn't have all the part #s yet because we're trying to source very cheap ones, and also [trying to find non-PVC parts](https://groups.google.com/forum/?fromgroups=#!topic/publiclaboratory/Zsx_X0owyWE) where possible. 
 

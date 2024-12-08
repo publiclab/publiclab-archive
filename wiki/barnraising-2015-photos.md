@@ -1,12 +1,18 @@
 ---
-nid: 12422
 title: Barnraising 2015 Photos
-path: public/static/wiki/barnraising-2015-photos.md
+tagnames: barnraising, barnraising-2015, parent:barnraising-2015
+author: Bronwen
+path: /wiki/barnraising-2015-photos.md
+nid: 12422
 uid: 237313
-tagnames: barnraising,barnraising-2015,parent:barnraising-2015
+
 ---
 
 # Barnraising 2015 Photos
+
+by [liz](../profile/liz), [danbeavers](../profile/danbeavers), [Bronwen](../profile/Bronwen)
+
+November 20, 2015 04:32 | Tags: [barnraising](../tag/barnraising), [barnraising-2015](../tag/barnraising-2015), [parent:barnraising-2015](../tag/parent:barnraising-2015)
 
 #Photos and documentation from Barnraising 2015!#
 As with anything on the Public Lab site, you agree to [open source](https://publiclab.org/licenses) any images you post here. 

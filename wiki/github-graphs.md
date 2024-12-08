@@ -1,12 +1,18 @@
 ---
-nid: 647
 title: GitHub graphs
-path: public/static/wiki/github-graphs.md
-uid: 1
 tagnames: 
+author: warren
+path: /wiki/github-graphs.md
+nid: 647
+uid: 1
+
 ---
 
 # GitHub graphs
+
+by [warren](../profile/warren)
+
+December 18, 2011 20:25 | Tags: 
 
 Around the PLOTS website, you'll see small graphs that look like this:
 

@@ -1,12 +1,18 @@
 ---
-nid: 17476
 title: Expanding Public Lab's community stats system
-path: public/static/notes/romrod/11-06-2018/expanding-public-lab-s-community-stats-system.md
+tagnames: software, soc, soc-2018, rgsoc-2018, outreachy, outreachy-2018, outreachy-2018-proposals, response:17359, first-time-poster
+author: romrod
+path: /notes/romrod/11-06-2018/expanding-public-lab-s-community-stats-system.md
+nid: 17476
 uid: 558157
-tagnames: software,soc,soc-2018,rgsoc-2018,outreachy,outreachy-2018,outreachy-2018-proposals,response:17359,first-time-poster
+
 ---
 
 # Expanding Public Lab's community stats system
+
+by [romrod](../profile/romrod) November 06, 2018 04:36
+
+November 06, 2018 04:36 | Tags: [software](../tag/software), [soc](../tag/soc), [soc-2018](../tag/soc-2018), [rgsoc-2018](../tag/rgsoc-2018), [outreachy](../tag/outreachy), [outreachy-2018](../tag/outreachy-2018), [outreachy-2018-proposals](../tag/outreachy-2018-proposals), [response:17359](../tag/response:17359), [first-time-poster](../tag/first-time-poster)
 
 (This template is for students applying to code outreach programs with Public Lab. Use this link to start writing a post: [https://publiclab.org/post?n=17360&tags=soc,outreachy,outreachy-2018,outreachy-2018-proposals](https://publiclab.org/post?n=17360&tags=soc,outreachy,outreachy-2018,outreachy-2018-proposals) You can delete this line once you've started filling it out.)
 

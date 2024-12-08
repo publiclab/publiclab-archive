@@ -1,6 +1,6 @@
 # noir
 
-14 notes and wiki pages
+14 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [How can you use  computer vision to reduce spectral overlap? ](/notes/MaggPi/06-17-2018/how-can-you-use-computer-vision-to-reduce-spectral-overlap) by [MaggPi](../profile/MaggPi)
 - [Infrared Insect Microscopy](/notes/MaggPi/06-21-2018/infrared-insect-microscopy) by [MaggPi](../profile/MaggPi)

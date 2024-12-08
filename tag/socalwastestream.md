@@ -1,6 +1,6 @@
 # socalwastestream
 
-5 notes and wiki pages
+5 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Barnraising Val Verde, CA](/wiki/barnraising-val-verde-ca) (wiki)
 - [Regional Barnraising 2016: A Few Thoughts About Public Lab's Work](/notes/sarasage/08-08-2016/regional-barnraising-2016-a-few-thoughts-about-public-lab-s-work) by [sarasage](../profile/sarasage)

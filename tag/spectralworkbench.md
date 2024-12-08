@@ -1,6 +1,6 @@
 # spectralworkbench
 
-75 notes and wiki pages
+75 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Spectral Workbench](/wiki/spectral-workbench) (wiki)
 - [Spectral Workbench usage](/wiki/spectral-workbench-usage) (wiki)
@@ -43,7 +43,6 @@
 - [GSoC Proposal SpectralWorkbench](/notes/PascalW/03-11-2014/gsoc-proposal-spectralworkbench) by [PascalW](../profile/PascalW)
 - [GSoC 2014 - Automatic Spectrometer Calibration](/notes/Sreyanth/05-20-2014/gsoc-2014-automatic-spectrometer-calibration) by [Sreyanth](../profile/Sreyanth)
 - [Color perception: influence of an different colored object](/notes/Joeri2/12-31-2014/color-perception-influence-of-an-different-colored-object) by [Joeri2](../profile/Joeri2)
-- [spectral](/notes/tap/05-30-2015/spectral) by [tap](../profile/tap)
 - [Homebrew Fellowship Application:  Spectrometer Intensity Calibration ](/notes/klie/09-14-2015/homebrew-fellowship-application-spectrometer-intensity-calibration) by [klie](../profile/klie)
 - [Various CFLs with Different Spectra](/notes/Matej/02-24-2016/various-cfls-with-different-spectra) by [Matej](../profile/Matej)
 - [Assemble a DIY Papercraft Spectrometer](/notes/abdul/10-19-2016/foldable-paper-spectrometer-instructions) by [abdul](../profile/abdul)

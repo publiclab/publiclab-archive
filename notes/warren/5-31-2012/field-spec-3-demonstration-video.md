@@ -1,12 +1,18 @@
 ---
-nid: 2280
 title: Field Spec 3 demonstration video
-path: public/static/notes/warren/5-31-2012/field-spec-3-demonstration-video.md
-uid: 1
 tagnames: spectrometer
+author: warren
+path: /notes/warren/5-31-2012/field-spec-3-demonstration-video.md
+nid: 2280
+uid: 1
+
 ---
 
 # Field Spec 3 demonstration video
+
+by [warren](../profile/warren) May 31, 2012 19:35
+
+May 31, 2012 19:35 | Tags: [spectrometer](../tag/spectrometer)
 
 <iframe width="500" height="281" src="https://www.youtube.com/embed/fL_Z8gJPH5g" frameborder="0" allowfullscreen></iframe>
 

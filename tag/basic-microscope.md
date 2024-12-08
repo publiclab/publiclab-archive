@@ -1,6 +1,6 @@
 # basic-microscope
 
-14 notes and wiki pages
+14 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [ How cheaply can I get all the parts of the basic microscope kit?](/notes/warren/12-08-2017/how-cheaply-can-i-get-all-the-parts-of-the-basic-microscope-kit) by [warren](../profile/warren)
 - [How can we set up a Raspberry Pi camera as an ethernet USB device to avoid using WiFi ](/notes/warren/12-15-2017/how-can-we-set-up-a-raspberry-pi-camera-as-an-ethernet-usb-device-to-avoid-using-wifi) by [warren](../profile/warren)

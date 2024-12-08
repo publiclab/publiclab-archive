@@ -1,12 +1,18 @@
 ---
-nid: 2697
 title: Timer battery disappoints
-path: public/static/notes/cfastie/7-3-2012/timer-battery-disappoints.md
+tagnames: near-infrared-camera, kite-mapping, camera-triggering, mk111
+author: cfastie
+path: /notes/cfastie/7-3-2012/timer-battery-disappoints.md
+nid: 2697
 uid: 554
-tagnames: near-infrared-camera,kite-mapping,camera-triggering,mk111
+
 ---
 
 # Timer battery disappoints
+
+by [cfastie](../profile/cfastie) July 03, 2012 04:24
+
+July 03, 2012 04:24 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [camera-triggering](../tag/camera-triggering), [mk111](../tag/mk111)
 
 These 4LR44 batteries have not lived up to my initial tests.
 

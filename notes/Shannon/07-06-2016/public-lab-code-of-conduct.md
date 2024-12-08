@@ -1,12 +1,18 @@
 ---
-nid: 13263
 title: Public Lab Code of Conduct
-path: public/static/notes/Shannon/07-06-2016/public-lab-code-of-conduct.md
+tagnames: blog, with:thegreencommunitygarden, with:liz, with:nshapiro, with:klie
+author: Shannon
+path: /notes/Shannon/07-06-2016/public-lab-code-of-conduct.md
+nid: 13263
 uid: 9
-tagnames: blog,with:thegreencommunitygarden,with:liz,with:nshapiro,with:klie
+
 ---
 
 # Public Lab Code of Conduct
+
+by [Shannon](../profile/Shannon) July 06, 2016 19:01
+
+July 06, 2016 19:01 | Tags: [blog](../tag/blog), [with:thegreencommunitygarden](../tag/with:thegreencommunitygarden), [with:liz](../tag/with:liz), [with:nshapiro](../tag/with:nshapiro), [with:klie](../tag/with:klie)
 
 Update 9/2016, the Code of Conduct is live at this link: https://publiclab.org/conduct
 

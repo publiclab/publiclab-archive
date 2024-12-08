@@ -1,12 +1,18 @@
 ---
-nid: 13372
 title: GSoC 2016: Final Work Product of Expanded Q & A System for publiclab.org
-path: public/static/notes/ananyo2012/08-20-2016/gsoc-2016-final-work-product-of-expanded-q-a-system-for-publiclab-org.md
+tagnames: software, gsoc, web, developers, coding, barnstar:basic, gsoc-2016, q-and-a, response:13397
+author: ananyo2012
+path: /notes/ananyo2012/08-20-2016/gsoc-2016-final-work-product-of-expanded-q-a-system-for-publiclab-org.md
+nid: 13372
 uid: 468506
-tagnames: software,gsoc,web,developers,coding,barnstar:basic,gsoc-2016,q-and-a,response:13397
+
 ---
 
 # GSoC 2016: Final Work Product of Expanded Q & A System for publiclab.org
+
+by [ananyo2012](../profile/ananyo2012) August 20, 2016 10:36
+
+August 20, 2016 10:36 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [web](../tag/web), [developers](../tag/developers), [coding](../tag/coding), [barnstar:basic](../tag/barnstar:basic), [gsoc-2016](../tag/gsoc-2016), [q-and-a](../tag/q-and-a), [response:13397](../tag/response:13397)
 
 So we nearly come to the end of GSoC 2016 and its time for the Final Work Product Submission. This research note contains all the work that I completed over this summer on my Project on [Expanded Q & A system for publiclab.org](https://publiclab.org/wiki/gsoc-ideas#Expanded+Q&A+system+for+PublicLab.org).
 

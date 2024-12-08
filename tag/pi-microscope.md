@@ -1,6 +1,6 @@
 # pi-microscope
 
-5 notes and wiki pages
+5 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Raspberry Pi Microscope/close up lens system](/notes/MaggPi/04-08-2018/raspberry-pi-microscope-close-up-lens-system) by [MaggPi](../profile/MaggPi)
 - [Raspberry PI NoIR close-up Imaging ](/notes/MaggPi/05-11-2018/raspberry-pi-noir-close-up-imaging) by [MaggPi](../profile/MaggPi)

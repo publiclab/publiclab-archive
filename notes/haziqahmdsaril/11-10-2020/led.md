@@ -1,11 +1,17 @@
 ---
-nid: 25030
 title: led
-path: public/static/notes/haziqahmdsaril/11-10-2020/led.md
-uid: 729124
 tagnames: first-time-poster
+author: haziqahmdsaril
+path: /notes/haziqahmdsaril/11-10-2020/led.md
+nid: 25030
+uid: 729124
+
 ---
 
 # led
+
+by [haziqahmdsaril](../profile/haziqahmdsaril) November 10, 2020 15:28
+
+November 10, 2020 15:28 | Tags: [first-time-poster](../tag/first-time-poster)
 
 ![image description](/i/41714.jpg "led_test.jpg")

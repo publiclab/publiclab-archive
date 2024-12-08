@@ -1,6 +1,6 @@
 # rain-barrel
 
-4 notes and wiki pages
+4 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [How do you build a rain barrel? ](/notes/stevie/11-28-2017/how-do-you-build-a-rain-barrel) by [stevie](../profile/stevie)
 - [Water Wise NOLA Rain Barrel Build! ](/notes/stevie/11-28-2017/water-wise-nola-rain-barrel-build) by [stevie](../profile/stevie)

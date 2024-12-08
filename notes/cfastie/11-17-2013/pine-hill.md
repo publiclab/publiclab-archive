@@ -1,12 +1,18 @@
 ---
-nid: 9792
 title: Pine Hill
-path: public/static/notes/cfastie/11-17-2013/pine-hill.md
+tagnames: near-infrared-camera, nrg, vermont, infrared, conversion, filter, infragram, list:plots-infrared, infrablue, bg3, wratten25a, scattering, nbn, nnr, super-red, response:9769, gigapan
+author: cfastie
+path: /notes/cfastie/11-17-2013/pine-hill.md
+nid: 9792
 uid: 554
-tagnames: near-infrared-camera,nrg,vermont,infrared,conversion,filter,infragram,list:plots-infrared,infrablue,bg3,wratten25a,scattering,nbn,nnr,super-red,response:9769,gigapan
+
 ---
 
 # Pine Hill
+
+by [cfastie](../profile/cfastie) November 17, 2013 02:01
+
+November 17, 2013 02:01 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [nrg](../tag/nrg), [vermont](../tag/vermont), [infrared](../tag/infrared), [conversion](../tag/conversion), [filter](../tag/filter), [infragram](../tag/infragram), [list:plots-infrared](../tag/list:plots-infrared), [infrablue](../tag/infrablue), [bg3](../tag/bg3), [wratten25a](../tag/wratten25a), [scattering](../tag/scattering), [nbn](../tag/nbn), [nnr](../tag/nnr), [super-red](../tag/super-red), [response:9769](../tag/response:9769), [gigapan](../tag/gigapan)
 
 *Image above: A Gigapan Epic 100 imager with Powershot A2200 modified with a Wratten 25A red filter. This robotic device automatically shoots a grid of photos which can be stitched together into a seamless, high resolution panorama.*  
   

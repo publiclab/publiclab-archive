@@ -1,12 +1,18 @@
 ---
-nid: 11187
 title: Sensors for collecting environmental data at MTR and hydrofracking sites?
-path: public/static/notes/LauraChipley/09-25-2014/sensors-for-collecting-environmental-data-at-mtr-and-hydrofracking-sites.md
+tagnames: west-virginia, fracking, amp, mtr, hydrofracking, appalachian-mountaintop-patrol, first-time-poster
+author: LauraChipley
+path: /notes/LauraChipley/09-25-2014/sensors-for-collecting-environmental-data-at-mtr-and-hydrofracking-sites.md
+nid: 11187
 uid: 428957
-tagnames: west-virginia,fracking,amp,mtr,hydrofracking,appalachian-mountaintop-patrol,first-time-poster
+
 ---
 
 # Sensors for collecting environmental data at MTR and hydrofracking sites?
+
+by [LauraChipley](../profile/LauraChipley) September 25, 2014 17:34
+
+September 25, 2014 17:34 | Tags: [west-virginia](../tag/west-virginia), [fracking](../tag/fracking), [amp](../tag/amp), [mtr](../tag/mtr), [hydrofracking](../tag/hydrofracking), [appalachian-mountaintop-patrol](../tag/appalachian-mountaintop-patrol), [first-time-poster](../tag/first-time-poster)
 
 I'm working to develop a new project called Appalachian Mountaintop Patrol (AMP).
 

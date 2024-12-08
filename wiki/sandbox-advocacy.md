@@ -1,12 +1,18 @@
 ---
-nid: 24850
 title: sandbox-advocacy
-path: public/static/wiki/sandbox-advocacy.md
-uid: 7
 tagnames: 
+author: liz
+path: /wiki/sandbox-advocacy.md
+nid: 24850
+uid: 7
+
 ---
 
 # sandbox-advocacy
+
+by [bhamster](../profile/bhamster), [liz](../profile/liz)
+
+October 28, 2020 20:05 | Tags: 
 
 The most up-to-date advocacy wiki page is here: https://publiclab.org/wiki/advocacy
 

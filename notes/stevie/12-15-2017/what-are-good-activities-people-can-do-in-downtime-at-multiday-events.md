@@ -1,12 +1,18 @@
 ---
-nid: 15383
 title: What are good activities people can do in downtime at multiday events? 
-path: public/static/notes/stevie/12-15-2017/what-are-good-activities-people-can-do-in-downtime-at-multiday-events.md
+tagnames: events, barnraising, question:general, barnraising-host, question:hosting-materials, funcom
+author: stevie
+path: /notes/stevie/12-15-2017/what-are-good-activities-people-can-do-in-downtime-at-multiday-events.md
+nid: 15383
 uid: 422561
-tagnames: events,barnraising,question:general,barnraising-host,question:hosting-materials,funcom
+
 ---
 
 # What are good activities people can do in downtime at multiday events? 
+
+by [stevie](../profile/stevie) December 15, 2017 20:32
+
+December 15, 2017 20:32 | Tags: [events](../tag/events), [barnraising](../tag/barnraising), [question:general](../tag/question:general), [barnraising-host](../tag/barnraising-host), [question:hosting-materials](../tag/question:hosting-materials), [funcom](../tag/funcom)
 
 _We’re compiling resources to help people host Barnraisings!_ 
 

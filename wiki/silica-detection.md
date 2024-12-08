@@ -1,12 +1,18 @@
 ---
-nid: 9382
 title: Silica detection
-path: public/static/wiki/silica-detection.md
-uid: 1
 tagnames: 
+author: warren
+path: /wiki/silica-detection.md
+nid: 9382
+uid: 1
+
 ---
 
 # Silica detection
+
+by [warren](../profile/warren)
+
+September 28, 2013 17:06 | Tags: 
 
 https://en.wikipedia.org/wiki/Silicosis
 

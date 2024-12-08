@@ -1,12 +1,18 @@
 ---
-nid: 18024
 title: A DIY pipetting robot for biochemistry applications, Part 1: Hardware.
-path: public/static/notes/JSummers/12-29-2018/a-diy-pipetting-robot-for-biochemistry-applications-part-1-hardware.md
+tagnames: diy-bio, processing, biohacking, hardware, laboratoryautomation, pipetting_robot
+author: JSummers
+path: /notes/JSummers/12-29-2018/a-diy-pipetting-robot-for-biochemistry-applications-part-1-hardware.md
+nid: 18024
 uid: 304279
-tagnames: diy-bio,processing,biohacking,hardware,laboratoryautomation,pipetting_robot
+
 ---
 
 # A DIY pipetting robot for biochemistry applications, Part 1: Hardware.
+
+by [JSummers](../profile/JSummers) December 29, 2018 21:04
+
+December 29, 2018 21:04 | Tags: [diy-bio](../tag/diy-bio), [processing](../tag/processing), [biohacking](../tag/biohacking), [hardware](../tag/hardware), [laboratoryautomation](../tag/laboratoryautomation), [pipetting_robot](../tag/pipetting_robot)
 
 _by Brittany L. Boggs and Jack
 S. Summers_

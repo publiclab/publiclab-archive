@@ -1,12 +1,18 @@
 ---
-nid: 1921
 title: NIR proof of concept: Trout Lily
-path: public/static/notes/cfastie/5-7-2012/nir-proof-concept-trout-lily-0.md
-uid: 554
 tagnames: near-infrared-camera
+author: cfastie
+path: /notes/cfastie/5-7-2012/nir-proof-concept-trout-lily-0.md
+nid: 1921
+uid: 554
+
 ---
 
 # NIR proof of concept: Trout Lily
+
+by [cfastie](../profile/cfastie) May 07, 2012 14:39
+
+May 07, 2012 14:39 | Tags: [near-infrared-camera](../tag/near-infrared-camera)
 
 (note: This has been at the <a href="http://publiclaboratory.org/wiki/dual-camera-kit-guide">wiki about the PLOTS IR camera tool</a>, but a research note is probably a better place for it.  The photos were taken on April 26, 2012.)
 

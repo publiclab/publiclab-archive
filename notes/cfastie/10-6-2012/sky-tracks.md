@@ -1,12 +1,18 @@
 ---
-nid: 4240
 title: Sky Tracks
-path: public/static/notes/cfastie/10-6-2012/sky-tracks.md
+tagnames: kite-mapping, vermont, mapknitter, leaffest, gps
+author: cfastie
+path: /notes/cfastie/10-6-2012/sky-tracks.md
+nid: 4240
 uid: 554
-tagnames: kite-mapping,vermont,mapknitter,leaffest,gps
+
 ---
 
 # Sky Tracks
+
+by [cfastie](../profile/cfastie) October 06, 2012 20:39
+
+October 06, 2012 20:39 | Tags: [kite-mapping](../tag/kite-mapping), [vermont](../tag/vermont), [mapknitter](../tag/mapknitter), [leaffest](../tag/leaffest), [gps](../tag/gps)
 
 <em>A kite photo from yesterday at the site of the LEAFFEST flight featured below.  The colors were at their peak.</em>
 

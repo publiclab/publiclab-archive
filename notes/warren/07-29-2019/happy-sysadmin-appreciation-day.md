@@ -1,12 +1,18 @@
 ---
-nid: 20352
 title: Happy Sysadmin appreciation day!
-path: public/static/notes/warren/07-29-2019/happy-sysadmin-appreciation-day.md
+tagnames: code, wwg
+author: warren
+path: /notes/warren/07-29-2019/happy-sysadmin-appreciation-day.md
+nid: 20352
 uid: 1
-tagnames: code,wwg
+
 ---
 
 # Happy Sysadmin appreciation day!
+
+by [warren](../profile/warren) July 29, 2019 14:26
+
+July 29, 2019 14:26 | Tags: [code](../tag/code), [wwg](../tag/wwg)
 
 I'd like to wish Sebastian (@icarito) a great day for everything he does to keep our systems running smoothly and healthily!
 

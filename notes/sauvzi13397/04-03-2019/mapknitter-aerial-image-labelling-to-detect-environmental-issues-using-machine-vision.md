@@ -1,12 +1,18 @@
 ---
-nid: 18950
 title: MapKnitter Aerial Image labelling to detect Environmental issues using machine vision
-path: public/static/notes/sauvzi13397/04-03-2019/mapknitter-aerial-image-labelling-to-detect-environmental-issues-using-machine-vision.md
+tagnames: software, gsoc, first-time-poster, gsoc-2019, soc-2019, soc-2019-proposals
+author: sauvzi13397
+path: /notes/sauvzi13397/04-03-2019/mapknitter-aerial-image-labelling-to-detect-environmental-issues-using-machine-vision.md
+nid: 18950
 uid: 581175
-tagnames: software,gsoc,first-time-poster,gsoc-2019,soc-2019,soc-2019-proposals
+
 ---
 
 # MapKnitter Aerial Image labelling to detect Environmental issues using machine vision
+
+by [sauvzi13397](../profile/sauvzi13397) April 03, 2019 21:01
+
+April 03, 2019 21:01 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [first-time-poster](../tag/first-time-poster), [gsoc-2019](../tag/gsoc-2019), [soc-2019](../tag/soc-2019), [soc-2019-proposals](../tag/soc-2019-proposals)
 
 ## 
 

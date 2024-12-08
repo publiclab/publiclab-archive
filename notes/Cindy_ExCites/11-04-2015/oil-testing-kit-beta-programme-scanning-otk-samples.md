@@ -1,12 +1,18 @@
 ---
-nid: 12366
 title: Oil testing kit Beta programme - Scanning OTK samples
-path: public/static/notes/Cindy_ExCites/11-04-2015/oil-testing-kit-beta-programme-scanning-otk-samples.md
+tagnames: spectrometer, calibration, fluorescence, spectrometer-calibration, oil-testing-kit, oil-testing-kit-beta, oil-testing-kit-beta-calibration, response:12349
+author: cindy_excites
+path: /notes/Cindy_ExCites/11-04-2015/oil-testing-kit-beta-programme-scanning-otk-samples.md
+nid: 12366
 uid: 1083
-tagnames: spectrometer,calibration,fluorescence,spectrometer-calibration,oil-testing-kit,oil-testing-kit-beta,oil-testing-kit-beta-calibration,response:12349
+
 ---
 
 # Oil testing kit Beta programme - Scanning OTK samples
+
+by [cindy_excites](../profile/cindy_excites) November 04, 2015 22:39
+
+November 04, 2015 22:39 | Tags: [spectrometer](../tag/spectrometer), [calibration](../tag/calibration), [fluorescence](../tag/fluorescence), [spectrometer-calibration](../tag/spectrometer-calibration), [oil-testing-kit](../tag/oil-testing-kit), [oil-testing-kit-beta](../tag/oil-testing-kit-beta), [oil-testing-kit-beta-calibration](../tag/oil-testing-kit-beta-calibration), [response:12349](../tag/response:12349)
 
 ###[Oil testing kit Beta programme](http://publiclab.org/notes/ygzstc/07-14-2015/oil-testing-kit-beta-program) - Sample scanning notes
 

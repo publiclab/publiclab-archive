@@ -1,12 +1,18 @@
 ---
-nid: 17848
 title: Extra Super Volatile
-path: public/static/notes/cfastie/12-10-2018/extra-super-volatile.md
+tagnames: arduino, air-quality, sensors, dust, indoor-air-quality-monitoring, hardware, data-logging, activity:particulate-monitoring, activity:arduino, nano-data-logger, activity:nano-data-logger, activity:data-logging, air-sensors, purpleair, plantower, pms7003, air-quality-monitoring, ccs811-gas-sensor
+author: cfastie
+path: /notes/cfastie/12-10-2018/extra-super-volatile.md
+nid: 17848
 uid: 554
-tagnames: arduino,air-quality,sensors,dust,indoor-air-quality-monitoring,hardware,data-logging,activity:particulate-monitoring,activity:arduino,nano-data-logger,activity:nano-data-logger,activity:data-logging,air-sensors,purpleair,plantower,pms7003,air-quality-monitoring,ccs811-gas-sensor
+
 ---
 
 # Extra Super Volatile
+
+by [cfastie](../profile/cfastie) December 10, 2018 05:31
+
+December 10, 2018 05:31 | Tags: [arduino](../tag/arduino), [air-quality](../tag/air-quality), [sensors](../tag/sensors), [dust](../tag/dust), [indoor-air-quality-monitoring](../tag/indoor-air-quality-monitoring), [hardware](../tag/hardware), [data-logging](../tag/data-logging), [activity:particulate-monitoring](../tag/activity:particulate-monitoring), [activity:arduino](../tag/activity:arduino), [nano-data-logger](../tag/nano-data-logger), [activity:nano-data-logger](../tag/activity:nano-data-logger), [activity:data-logging](../tag/activity:data-logging), [air-sensors](../tag/air-sensors), [purpleair](../tag/purpleair), [plantower](../tag/plantower), [pms7003](../tag/pms7003), [air-quality-monitoring](../tag/air-quality-monitoring), [ccs811-gas-sensor](../tag/ccs811-gas-sensor)
 
 Last month Gizmodo posted a story about the “[toxic particles spewed by 3D printers]( https://gizmodo.com/new-study-details-all-the-toxic-shit-spewed-out-by-3d-p-1830379464).” It was based on two articles from the last 18 months in the journal *Aerosol Science and Technology* ([this one]( https://www.tandfonline.com/doi/full/10.1080/02786826.2017.1342029) and [this one]( https://www.tandfonline.com/doi/full/10.1080/02786826.2018.1464115)). These are not the first articles on the subject but are carefully done and use standard protocols established earlier for documenting emissions from laser printers. The articles describe tests of six different printers (all FDM printers in which molten plastic is extruded as a bead) and 10 different filament types (all ABS, PLA, or nylon). 
 

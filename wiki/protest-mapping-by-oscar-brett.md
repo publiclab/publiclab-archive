@@ -1,12 +1,18 @@
 ---
-nid: 11689
 title: Protest Mapping by Oscar Brett
-path: public/static/wiki/protest-mapping-by-oscar-brett.md
+tagnames: balloon-mapping, protest-mapping, photo-rig, grassrootsmappingforum, style:fancy, gmf-3, with:oscarbrett
+author: mollydanielsson
+path: /wiki/protest-mapping-by-oscar-brett.md
+nid: 11689
 uid: 1259
-tagnames: balloon-mapping,protest-mapping,photo-rig,grassrootsmappingforum,style:fancy,gmf-3,with:oscarbrett
+
 ---
 
 # Protest Mapping by Oscar Brett
+
+by [mollydanielsson](../profile/mollydanielsson)
+
+March 19, 2015 01:02 | Tags: [balloon-mapping](../tag/balloon-mapping), [protest-mapping](../tag/protest-mapping), [photo-rig](../tag/photo-rig), [grassrootsmappingforum](../tag/grassrootsmappingforum), [style:fancy](../tag/style:fancy), [gmf-3](../tag/gmf-3), [with:oscarbrett](../tag/with:oscarbrett)
 
 _Oscar Brett on party balloons, consensus, and consent for aerial imaging during a public protest_
 

@@ -1,12 +1,18 @@
 ---
-nid: 24242
 title: What is EPA Method TO-15?
-path: public/static/notes/kgradow1/08-01-2020/what-is-epa-method-to-15.md
+tagnames: epa, air-quality, bucket-brigade, air-sampling, mass-spectrometry, lat:42, lon:-70, gas-chromatograph, zoom:6, bucket-monitor
+author: kgradow1
+path: /notes/kgradow1/08-01-2020/what-is-epa-method-to-15.md
+nid: 24242
 uid: 297929
-tagnames: epa,air-quality,bucket-brigade,air-sampling,mass-spectrometry,lat:42,lon:-70,gas-chromatograph,zoom:6,bucket-monitor
+
 ---
 
 # What is EPA Method TO-15?
+
+by [kgradow1](../profile/kgradow1) August 01, 2020 12:48
+
+August 01, 2020 12:48 | Tags: [epa](../tag/epa), [air-quality](../tag/air-quality), [bucket-brigade](../tag/bucket-brigade), [air-sampling](../tag/air-sampling), [mass-spectrometry](../tag/mass-spectrometry), [lat:42](../tag/lat:42), [lon:-70](../tag/lon:-70), [gas-chromatograph](../tag/gas-chromatograph), [zoom:6](../tag/zoom:6), [bucket-monitor](../tag/bucket-monitor)
 
 ##Overview
 EPA Method TO-15 is the procedure used to analyze air samples collected through canister sampling.  “TO” stands for “toxic organics.” It is used to measure up to 97 volatile organic compounds (VOCs) of the total 189 hazardous air pollutants listed in the Clean Air Act. It is used for testing grab samples of ambient air.   

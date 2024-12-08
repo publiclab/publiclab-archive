@@ -1,12 +1,18 @@
 ---
-nid: 4950
 title: Vermont Environmental Summit
-path: public/static/notes/cfastie/11-19-2012/vermont-environmental-summit.md
+tagnames: balloon-mapping, near-infrared-camera, spectrometer, kite-mapping, conferences, events, tac
+author: cfastie
+path: /notes/cfastie/11-19-2012/vermont-environmental-summit.md
+nid: 4950
 uid: 554
-tagnames: balloon-mapping,near-infrared-camera,spectrometer,kite-mapping,conferences,events,tac
+
 ---
 
 # Vermont Environmental Summit
+
+by [cfastie](../profile/cfastie) November 19, 2012 17:30
+
+November 19, 2012 17:30 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [spectrometer](../tag/spectrometer), [kite-mapping](../tag/kite-mapping), [conferences](../tag/conferences), [events](../tag/events), [tac](../tag/tac)
 
 <em>Top: Paul Burns, VPIRG Executive Director, delivers a State of the State Address at the Vermont Environmental Summit, November 18, 2012. Bottom: Image analysis with the PLOTS Infrared Camera Tool displaying the Normalized Difference Vegetation Index and revealing which attendees were in fact GREEN (Yup, pretty much all of them). </em>
 

@@ -1,12 +1,18 @@
 ---
-nid: 13498
 title: What sensor would I need to detect spectra of small organisms (virtus, bacteria etc)
-path: public/static/notes/fouadalnoor/09-28-2016/what-sensor-would-i-need-to-detect-spectra-of-small-organisms-virtus-bacteria-etc.md
+tagnames: question:spectrometry, question:bacteria
+author: fouadalnoor
+path: /notes/fouadalnoor/09-28-2016/what-sensor-would-i-need-to-detect-spectra-of-small-organisms-virtus-bacteria-etc.md
+nid: 13498
 uid: 493187
-tagnames: question:spectrometry,question:bacteria
+
 ---
 
 # What sensor would I need to detect spectra of small organisms (virtus, bacteria etc)
+
+by [fouadalnoor](../profile/fouadalnoor) September 28, 2016 19:00
+
+September 28, 2016 19:00 | Tags: [question:spectrometry](../tag/question:spectrometry), [question:bacteria](../tag/question:bacteria)
 
 ###What I want to do or know
 What CCD sensor (or other sensor?) that could be used to detect the spectra of very small organisms such as bacteria or viruses?

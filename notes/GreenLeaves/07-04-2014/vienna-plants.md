@@ -1,12 +1,18 @@
 ---
-nid: 10652
 title: Vienna Plants
-path: public/static/notes/GreenLeaves/07-04-2014/vienna-plants.md
+tagnames: near-infrared-camera, ndvi, infragram, first-time-poster
+author: GreenLeaves
+path: /notes/GreenLeaves/07-04-2014/vienna-plants.md
+nid: 10652
 uid: 425426
-tagnames: near-infrared-camera,ndvi,infragram,first-time-poster
+
 ---
 
 # Vienna Plants
+
+by [GreenLeaves](../profile/GreenLeaves) July 04, 2014 09:30
+
+July 04, 2014 09:30 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [infragram](../tag/infragram), [first-time-poster](../tag/first-time-poster)
 
 We want to share our finished results.
 It was fun to build the camera and we were very exited when we took our first photos.

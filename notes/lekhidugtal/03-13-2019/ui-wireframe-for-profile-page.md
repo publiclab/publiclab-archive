@@ -1,12 +1,18 @@
 ---
-nid: 18537
 title: UI Wireframe for Profile Page
-path: public/static/notes/lekhidugtal/03-13-2019/ui-wireframe-for-profile-page.md
+tagnames: design, wireframes, ui, ideas, outreachy, profile, outreachy-2019, ui-designs, outreachy-proposals
+author: lekhidugtal
+path: /notes/lekhidugtal/03-13-2019/ui-wireframe-for-profile-page.md
+nid: 18537
 uid: 577754
-tagnames: design,wireframes,ui,ideas,outreachy,profile,outreachy-2019,ui-designs,outreachy-proposals
+
 ---
 
 # UI Wireframe for Profile Page
+
+by [lekhidugtal](../profile/lekhidugtal) March 13, 2019 16:11
+
+March 13, 2019 16:11 | Tags: [design](../tag/design), [wireframes](../tag/wireframes), [ui](../tag/ui), [ideas](../tag/ideas), [outreachy](../tag/outreachy), [profile](../tag/profile), [outreachy-2019](../tag/outreachy-2019), [ui-designs](../tag/ui-designs), [outreachy-proposals](../tag/outreachy-proposals)
 
 I created some rough wirefarmes for profile section.  
 Regarding the profile, we had so much data that it took me a ton of hours to think than in actually applying. The information was huge and regarding architecture I had no clue. I needed to ensure that I don't miss out anything. And yet with so much data, the UI doesn't look messy. I walked-through various designs to ensure the consistency.

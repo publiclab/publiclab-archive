@@ -1,6 +1,6 @@
 # parent-barnraising
 
-10 notes and wiki pages
+10 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Barnraising 2013](/wiki/barnraising-2013) (wiki)
 - [barnraising-northeast-2014](/wiki/barnraising-northeast-2014) (wiki)

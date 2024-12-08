@@ -1,6 +1,6 @@
 # purpleair
 
-55 notes and wiki pages
+55 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [How good is the PurpleAir sensor and what does it detect?](/notes/warren/01-04-2018/how-good-is-the-purpleair-sensor-and-what-does-it-detect) by [warren](../profile/warren)
 - [Thoughts on Low Cost air quality sensors](/notes/guolivar/01-08-2018/thoughts-on-low-cost-air-quality-sensors) by [guolivar](../profile/guolivar)
@@ -48,7 +48,6 @@
 - [are real-time PM 2.5 push warnings from the PurpleAir possible?](/notes/purpleairfan/10-04-2021/are-real-time-pm-2-5-push-warnings-from-the-purpleair-possible) by [purpleairfan](../profile/purpleairfan)
 - [Seeking Technical Air Quality Fellow](/notes/stevie/10-19-2021/seeking-technical-air-quality-fellow) by [stevie](../profile/stevie)
 - [Is there an easy way (app?) to find my elevation above sea level?](/notes/stevie/11-30-2021/is-there-an-easy-way-app-to-find-my-elevation-above-sea-level) by [stevie](../profile/stevie)
-- [Planning to travel Dubai travel & Tourism](/notes/dubaitraveltourism/12-08-2021/planning-to-travel-dubai-travel-tourism) by [dubaitraveltourism](../profile/dubaitraveltourism)
 - [PurpleAir Installation Guide](/notes/tylerknight/02-18-2022/purpleair-installation-guide) by [tylerknight](../profile/tylerknight)
 - [What are some good trouble shooting tips for installing/maintaining a PurpleAir? ](/notes/stevie/02-24-2022/what-are-some-good-trouble-shooting-tips-for-installing-maintaining-a-purpleair) by [stevie](../profile/stevie)
 - [Has anyone tried establishing battery backups for Purple Air?](/notes/eustatic/04-01-2022/has-anyone-tried-establishing-battery-backups-for-purple-air) by [eustatic](../profile/eustatic)

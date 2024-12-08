@@ -1,12 +1,18 @@
 ---
-nid: 19731
 title: Launching a Newcomers Welcome Call! 
-path: public/static/notes/stevie/06-18-2019/launching-a-newcomers-welcome-call.md
+tagnames: organizing, blog, getting-started, organizer, opencall, location:blurred, organize, zoom:6, place:australia, lat:-36, lon:143
+author: stevie
+path: /notes/stevie/06-18-2019/launching-a-newcomers-welcome-call.md
+nid: 19731
 uid: 422561
-tagnames: organizing,blog,getting-started,organizer,opencall,location:blurred,organize,zoom:6,place:australia,lat:-36,lon:143
+
 ---
 
 # Launching a Newcomers Welcome Call! 
+
+by [stevie](../profile/stevie) June 18, 2019 19:52
+
+June 18, 2019 19:52 | Tags: [organizing](../tag/organizing), [blog](../tag/blog), [getting-started](../tag/getting-started), [organizer](../tag/organizer), [opencall](../tag/opencall), [location:blurred](../tag/location:blurred), [organize](../tag/organize), [zoom:6](../tag/zoom:6), [place:australia](../tag/place:australia), [lat:-36](../tag/lat:-36), [lon:143](../tag/lon:143)
 
 Over the past couple years Public Lab has hosted a weekly [Open Call](/open-call) every Tuesday. We started this call with the intent to share an open line for anyone who wanted to physically talk with people at Public Lab (by phoning in or connecting through video conference). 
 

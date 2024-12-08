@@ -1,12 +1,18 @@
 ---
-nid: 4951
 title: Staff call notes 11 19 12
-path: public/static/wiki/staff-call-notes-11-19-12.md
-uid: 1
 tagnames: 
+author: warren
+path: /wiki/staff-call-notes-11-19-12.md
+nid: 4951
+uid: 1
+
 ---
 
 # Staff call notes 11 19 12
+
+by [warren](../profile/warren)
+
+November 19, 2012 17:35 | Tags: 
 
 ###Shannon###
 * Goals: Insurance packet review, CPA review, evals completed, post note on Bienvenue, meetings, dev. mgr. hire, TAC/mt. justice/coal meetings, Kickstarter surveys, begin January meeting planning, OpenDisrupt, budgets, staff meeting wrap up, grant help?

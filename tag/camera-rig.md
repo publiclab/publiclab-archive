@@ -1,6 +1,6 @@
 # camera-rig
 
-13 notes and wiki pages
+13 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Balloon kit tips](/notes/natevw/4-9-2012/balloon-kit-tips) by [natevw](../profile/natevw)
 - [Pictures of Balloon Mapping Union Sq NY](/notes/ceich/6-28-2012/pictures-balloon-mapping-union-sq-ny) by [C_Eich](../profile/C_Eich)

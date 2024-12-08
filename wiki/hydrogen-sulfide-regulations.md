@@ -1,12 +1,18 @@
 ---
-nid: 15018
 title: Hydrogen Sulfide Regulations
-path: public/static/wiki/hydrogen-sulfide-regulations.md
+tagnames: hydrogen-sulfide, h2s, regulations, 6, parent:hydrogen-sulfide, h2s-overview, air-quality-regulations
+author: gretchengehrke
+path: /wiki/hydrogen-sulfide-regulations.md
+nid: 15018
 uid: 430549
-tagnames: hydrogen-sulfide,h2s,regulations,6,parent:hydrogen-sulfide,h2s-overview,air-quality-regulations
+
 ---
 
 # Hydrogen Sulfide Regulations
+
+by [stevie](../profile/stevie), [warren](../profile/warren), [gretchengehrke](../profile/gretchengehrke)
+
+October 10, 2017 19:03 | Tags: [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s), [regulations](../tag/regulations), [6](../tag/6), [parent:hydrogen-sulfide](../tag/parent:hydrogen-sulfide), [h2s-overview](../tag/h2s-overview), [air-quality-regulations](../tag/air-quality-regulations)
 
 **Snapshot: In the United States, hydrogen sulfide exposure is mostly regulated as an occupational hazard, with some environmental regulations for controlling emissions from major sources.** 
 

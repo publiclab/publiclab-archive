@@ -1,10 +1,9 @@
 # ballon-mapping
 
-15 notes and wiki pages
+15 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Ballon mapping workshop - University A Coruña](/notes/imvec/09-08-2017/ballon-mapping-workshop-university-a-coruna) by [imvec](../profile/imvec)
 - [MapKnitter map of Collado Villalba ](/notes/imvec/09-29-2018/mapknitter-map-of-collado-villalba) by [imvec](../profile/imvec)
-- [In Need Of A Reliable Career Have You Considered Airport Jobs](/notes/ryanbennett/02-27-2019/in-need-of-a-reliable-career-have-you-considered-airport-jobs) by [ryanbennett](../profile/ryanbennett)
 - [Map Knitter- UI Evaluation 1 , Ballon Mapping Test](/notes/silentsairam/05-07-2019/map-knitter-ui-test-ballon-mapping-test) by [silentsairam](../profile/silentsairam)
 - [How to delete the images which I do not want to place in the map?](/notes/silentsairam/05-11-2019/how-to-delete-the-images-which-i-do-not-want-to-place-in-the-map) by [silentsairam](../profile/silentsairam)
 - [Child-led R&D of camera rigs for mapping](/notes/molangmuir10/06-20-2019/designing-alternative-rigs-for-mapping) by [molangmuir10](../profile/molangmuir10)

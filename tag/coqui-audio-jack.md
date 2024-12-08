@@ -1,6 +1,6 @@
 # coqui-audio-jack
 
-3 notes and wiki pages
+3 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Coqui PCB + audio jack](/notes/donblair/10-18-2014/coqui-pcb-audio-jack) by [donblair](../profile/donblair)
 - [Adding a jack to the Coqui](/notes/imvec/06-08-2018/adding-a-jack-to-the-coqui) by [imvec](../profile/imvec)

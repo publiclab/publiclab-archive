@@ -1,12 +1,18 @@
 ---
-nid: 17500
 title: Fighting the Flood: Community Activism and Education in Pensacola
-path: public/static/notes/joyofsoy/11-09-2018/fighting-the-flood-community-activism-and-education-in-pensacola.md
+tagnames: gulf-coast, blog, stormwater, with:stevie, florida, flooding, activism, pensacola-stormwater, pensacola, naacp, csf15
+author: joyofsoy
+path: /notes/joyofsoy/11-09-2018/fighting-the-flood-community-activism-and-education-in-pensacola.md
+nid: 17500
 uid: 540844
-tagnames: gulf-coast,blog,stormwater,with:stevie,florida,flooding,activism,pensacola-stormwater,pensacola,naacp,csf15
+
 ---
 
 # Fighting the Flood: Community Activism and Education in Pensacola
+
+by [joyofsoy](../profile/joyofsoy) November 09, 2018 18:51
+
+November 09, 2018 18:51 | Tags: [gulf-coast](../tag/gulf-coast), [blog](../tag/blog), [stormwater](../tag/stormwater), [with:stevie](../tag/with:stevie), [florida](../tag/florida), [flooding](../tag/flooding), [activism](../tag/activism), [pensacola-stormwater](../tag/pensacola-stormwater), [pensacola](../tag/pensacola), [naacp](../tag/naacp), [csf15](../tag/csf15)
 
 **_A version of this story by @stevie is published in Public Lab's Community Science Forum, Issue 15\. Photos courtesy of Dr. Gloria Horning._**
 

@@ -1,10 +1,8 @@
 # photos
 
-8 notes and wiki pages
+8 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [spectrometer-media](/wiki/spectrometer-media) (wiki)
-- [How can I regain deleted pictures from android cell phone](/notes/Ltxwanntt/10-30-2014/how-can-i-regain-deleted-pictures-from-android-cell-phone) by [Ltxwanntt](../profile/Ltxwanntt)
-- [How to recover HTC photos and videos](/notes/lisaab/11-07-2014/how-to-recover-htc-photos-and-videos) by [lisaab](../profile/lisaab)
 - [barnraising-2014-photos](/wiki/barnraising-2014-photos) (wiki)
 - [Barnraising Tweets](/notes/cfastie/11-21-2014/barnraising-tweets) by [cfastie](../profile/cfastie)
 - [Barnraising 2015 Photos Bronwen](/notes/bronwen/11-21-2015/barnraising-2015-photos-bronwen) by [Bronwen](../profile/Bronwen)

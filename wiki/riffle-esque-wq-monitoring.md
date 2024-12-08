@@ -1,12 +1,18 @@
 ---
-nid: 11169
 title: Riffle-esque WQ monitoring
-path: public/static/wiki/riffle-esque-wq-monitoring.md
+tagnames: water-quality, umass, umass-amherst, riffle, 5-college, publiclab-at-amherst-media, publiclab-at-umass, makers-and-amherst-media, amherstcollege, mt.holyoke
+author: markwh
+path: /wiki/riffle-esque-wq-monitoring.md
+nid: 11169
 uid: 428820
-tagnames: water-quality,umass,umass-amherst,riffle,5-college,publiclab-at-amherst-media,publiclab-at-umass,makers-and-amherst-media,amherstcollege,mt.holyoke
+
 ---
 
 # Riffle-esque WQ monitoring
+
+by [jenniferdsara](../profile/jenniferdsara), [markwh](../profile/markwh)
+
+September 22, 2014 15:38 | Tags: [water-quality](../tag/water-quality), [umass](../tag/umass), [umass-amherst](../tag/umass-amherst), [riffle](../tag/riffle), [5-college](../tag/5-college), [publiclab-at-amherst-media](../tag/publiclab-at-amherst-media), [publiclab-at-umass](../tag/publiclab-at-umass), [makers-and-amherst-media](../tag/makers-and-amherst-media), [amherstcollege](../tag/amherstcollege), [mt.holyoke](../tag/mt.holyoke)
 
 This is the main page for the water-quality monitoring team project for the UMass Public Science Maker class. 
 

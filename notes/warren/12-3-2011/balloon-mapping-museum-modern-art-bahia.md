@@ -1,12 +1,18 @@
 ---
-nid: 608
 title: Balloon mapping at Museum of Modern Art of Bahia
-path: public/static/notes/warren/12-3-2011/balloon-mapping-museum-modern-art-bahia.md
-uid: 1
 tagnames: 
+author: warren
+path: /notes/warren/12-3-2011/balloon-mapping-museum-modern-art-bahia.md
+nid: 608
+uid: 1
+
 ---
 
 # Balloon mapping at Museum of Modern Art of Bahia
+
+by [warren](../profile/warren) December 03, 2011 23:05
+
+December 03, 2011 23:05 | Tags: 
 
 I came across this yesterday, pretty cool!
 

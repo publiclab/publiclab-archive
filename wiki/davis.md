@@ -1,12 +1,18 @@
 ---
-nid: 778
 title: Davis
-path: public/static/wiki/davis.md
-uid: 12
 tagnames: chapter
+author: gonzoearth
+path: /wiki/davis.md
+nid: 778
+uid: 12
+
 ---
 
 # Davis
+
+by [MicheleTobias](../profile/MicheleTobias), [gonzoearth](../profile/gonzoearth)
+
+February 11, 2012 00:22 | Tags: [chapter](../tag/chapter)
 
 Public Laboratory working with interested members of the STS community around UCD in Davis, California. We are trying to reach out to interested folks and find some local issues to focus on.
 http://keckcaves.org/

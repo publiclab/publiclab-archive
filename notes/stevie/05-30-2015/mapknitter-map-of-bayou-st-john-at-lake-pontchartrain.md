@@ -1,12 +1,18 @@
 ---
-nid: 11916
 title: MapKnitter map of Bayou St John at Lake Pontchartrain 
-path: public/static/notes/stevie/05-30-2015/mapknitter-map-of-bayou-st-john-at-lake-pontchartrain.md
+tagnames: mapknitter, bsj, urbanwaters, lat:30.0257050856, lon:-90.0827354193, with:ddileona
+author: stevie
+path: /notes/stevie/05-30-2015/mapknitter-map-of-bayou-st-john-at-lake-pontchartrain.md
+nid: 11916
 uid: 422561
-tagnames: mapknitter,bsj,urbanwaters,lat:30.0257050856,lon:-90.0827354193,with:ddileona
+
 ---
 
 # MapKnitter map of Bayou St John at Lake Pontchartrain 
+
+by [stevie](../profile/stevie) May 30, 2015 21:17
+
+May 30, 2015 21:17 | Tags: [mapknitter](../tag/mapknitter), [bsj](../tag/bsj), [urbanwaters](../tag/urbanwaters), [lat:30.0257050856](../tag/lat:30.0257050856), [lon:-90.0827354193](../tag/lon:-90.0827354193), [with:ddileona](../tag/with:ddileona)
 
 <iframe src="https://mapknitter.org/embed/bayou-st-john-at-lake-pontchartrain--2" style="border:none" width="600px" height="400px"></iframe><br /><br />May 30, 2015
 

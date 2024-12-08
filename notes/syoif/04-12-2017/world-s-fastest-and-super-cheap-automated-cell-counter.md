@@ -1,12 +1,18 @@
 ---
-nid: 14107
 title: World's fastest and super cheap automated cell counter!
-path: public/static/notes/syoif/04-12-2017/world-s-fastest-and-super-cheap-automated-cell-counter.md
+tagnames: image-processing, diy, 3d-printer, cell, opencv
+author: syoif
+path: /notes/syoif/04-12-2017/world-s-fastest-and-super-cheap-automated-cell-counter.md
+nid: 14107
 uid: 505605
-tagnames: image-processing,diy,3d-printer,cell,opencv
+
 ---
 
 # World's fastest and super cheap automated cell counter!
+
+by [syoif](../profile/syoif) April 12, 2017 12:59
+
+April 12, 2017 12:59 | Tags: [image-processing](../tag/image-processing), [diy](../tag/diy), [3d-printer](../tag/3d-printer), [cell](../tag/cell), [opencv](../tag/opencv)
 
 [https://academist-cf.com/projects/?id=39](https://academist-cf.com/projects/?id=39) ←Cloud funding now.
 

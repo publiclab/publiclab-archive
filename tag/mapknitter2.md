@@ -1,6 +1,6 @@
 # mapknitter2
 
-5 notes and wiki pages
+5 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Developers](/wiki/developers) (wiki)
 - [MapKnitter 2: Test Edition](/notes/warren/02-10-2015/mapknitter-2-test-edition) by [warren](../profile/warren)

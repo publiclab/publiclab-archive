@@ -1,12 +1,18 @@
 ---
-nid: 25513
 title: Risks of PAH exposure from contaminated dust?
-path: public/static/notes/kgradow1/01-21-2021/what-are-the-risks-of-pah-exposure-from-contaminated-dust.md
+tagnames: soil, pah, lead, question:general, general, soil-quality, question:soil, question:soil-quality
+author: kgradow1
+path: /notes/kgradow1/01-21-2021/what-are-the-risks-of-pah-exposure-from-contaminated-dust.md
+nid: 25513
 uid: 297929
-tagnames: soil,pah,lead,question:general,general,soil-quality,question:soil,question:soil-quality
+
 ---
 
 # Risks of PAH exposure from contaminated dust?
+
+by [kgradow1](../profile/kgradow1) January 21, 2021 23:52
+
+January 21, 2021 23:52 | Tags: [soil](../tag/soil), [pah](../tag/pah), [lead](../tag/lead), [question:general](../tag/question:general), [general](../tag/general), [soil-quality](../tag/soil-quality), [question:soil](../tag/question:soil), [question:soil-quality](../tag/question:soil-quality)
 
 I live in Providence where there was recently a large exposed pile of contaminated fill related to a highway project that was left uncovered form 3 months (potentially much longer). It was subsequently covered and then removed, but there are significant concerns about community exposure from dust blowing off the site. Here is one of the early articles covering the issue: [https://www.golocalprov.com/news/EXCLUSIVE-Union-Official-Says-RIDOT-Allows-Contractor-to-Illegally-Dump-Co](https://www.golocalprov.com/news/EXCLUSIVE-Union-Official-Says-RIDOT-Allows-Contractor-to-Illegally-Dump-Co)
 

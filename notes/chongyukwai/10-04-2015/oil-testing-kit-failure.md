@@ -1,12 +1,18 @@
 ---
-nid: 12264
 title: Oil testing kit Evaluation
-path: public/static/notes/chongyukwai/10-04-2015/oil-testing-kit-failure.md
-uid: 442298
 tagnames: oil-testing-kit
+author: chongyukwai
+path: /notes/chongyukwai/10-04-2015/oil-testing-kit-failure.md
+nid: 12264
+uid: 442298
+
 ---
 
 # Oil testing kit Evaluation
+
+by [chongyukwai](../profile/chongyukwai) October 04, 2015 11:32
+
+October 04, 2015 11:32 | Tags: [oil-testing-kit](../tag/oil-testing-kit)
 
 ###What I want to do
 The destop spectrometer kit and the oil testing kit was set up as below. The slit was using the standard slit provided in the kit

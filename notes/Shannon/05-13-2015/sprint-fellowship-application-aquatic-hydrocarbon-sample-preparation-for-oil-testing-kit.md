@@ -1,12 +1,18 @@
 ---
-nid: 11811
 title: Sprint Fellowship Application: Aquatic hydrocarbon sample preparation for Oil Testing Kit
-path: public/static/notes/Shannon/05-13-2015/sprint-fellowship-application-aquatic-hydrocarbon-sample-preparation-for-oil-testing-kit.md
+tagnames: oil-testing-kit, fellows
+author: Shannon
+path: /notes/Shannon/05-13-2015/sprint-fellowship-application-aquatic-hydrocarbon-sample-preparation-for-oil-testing-kit.md
+nid: 11811
 uid: 9
-tagnames: oil-testing-kit,fellows
+
 ---
 
 # Sprint Fellowship Application: Aquatic hydrocarbon sample preparation for Oil Testing Kit
+
+by [Shannon](../profile/Shannon) May 13, 2015 13:56
+
+May 13, 2015 13:56 | Tags: [oil-testing-kit](../tag/oil-testing-kit), [fellows](../tag/fellows)
 
 Application due: May 27, 2015</br/>
 Dates of Fellowship: mid-June to mid-September 2015</br/>

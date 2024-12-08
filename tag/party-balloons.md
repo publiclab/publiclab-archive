@@ -1,5 +1,5 @@
 # party-balloons
 
-1 notes and wiki pages
+1 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [How many regular ~1 foot balloons does it take to lift a camera?](/notes/warren/06-20-2019/how-many-regular-1-foot-balloons-does-it-take-to-lift-a-camera) by [warren](../profile/warren)

@@ -1,12 +1,18 @@
 ---
-nid: 15757
 title: GSoC Proposal: Draft Feature & Email Integration Project
-path: public/static/notes/gauravano/02-18-2018/gsoc-proposal-email-integration-project.md
+tagnames: software, gsoc, soc, response:13975, gsoc-2018, soc-2018, soc-2018-proposals, soc-2018-email, gsoc-2018-final, first-time-poster
+author: gauravano
+path: /notes/gauravano/02-18-2018/gsoc-proposal-email-integration-project.md
+nid: 15757
 uid: 515081
-tagnames: software,gsoc,soc,response:13975,gsoc-2018,soc-2018,soc-2018-proposals,soc-2018-email,gsoc-2018-final,first-time-poster
+
 ---
 
 # GSoC Proposal: Draft Feature & Email Integration Project
+
+by [gauravano](../profile/gauravano) February 18, 2018 00:24
+
+February 18, 2018 00:24 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [soc](../tag/soc), [response:13975](../tag/response:13975), [gsoc-2018](../tag/gsoc-2018), [soc-2018](../tag/soc-2018), [soc-2018-proposals](../tag/soc-2018-proposals), [soc-2018-email](../tag/soc-2018-email), [gsoc-2018-final](../tag/gsoc-2018-final), [first-time-poster](../tag/first-time-poster)
 
 ## About me
 

@@ -1,12 +1,18 @@
 ---
-nid: 23852
 title: Name your template here
-path: public/static/wiki/name-your-template-here.md
-uid: 671968
 tagnames: 
+author: asoamarachi
+path: /wiki/name-your-template-here.md
+nid: 23852
+uid: 671968
+
 ---
 
 # Name your template here
+
+by [asoamarachi](../profile/asoamarachi)
+
+June 15, 2020 11:23 | Tags: 
 
 ## Help us document this bug.
 

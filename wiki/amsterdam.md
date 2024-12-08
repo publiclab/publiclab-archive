@@ -1,12 +1,18 @@
 ---
-nid: 9321
 title: Amsterdam
-path: public/static/wiki/amsterdam.md
+tagnames: waagsociety, amsterdam, netherlands, chapter, list:plots-amsterdam, waag, lat:52.3747158, lng:4.8986166
+author: warren
+path: /wiki/amsterdam.md
+nid: 9321
 uid: 1
-tagnames: waagsociety,amsterdam,netherlands,chapter,list:plots-amsterdam,waag,lat:52.3747158,lng:4.8986166
+
 ---
 
 # Amsterdam
+
+by [warren](../profile/warren)
+
+September 12, 2013 18:49 | Tags: [waagsociety](../tag/waagsociety), [amsterdam](../tag/amsterdam), [netherlands](../tag/netherlands), [chapter](../tag/chapter), [list:plots-amsterdam](../tag/list:plots-amsterdam), [waag](../tag/waag), [lat:52.3747158](../tag/lat:52.3747158), [lng:4.8986166](../tag/lng:4.8986166)
 
 [![Schermafbeelding_2013-09-10_om_09.55.52.png](https://i.publiclab.org/system/images/photos/000/001/501/medium/Schermafbeelding_2013-09-10_om_09.55.52.png)](https://i.publiclab.org/system/images/photos/000/001/501/original/Schermafbeelding_2013-09-10_om_09.55.52.png)
 

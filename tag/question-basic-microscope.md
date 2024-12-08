@@ -1,6 +1,6 @@
 # question-basic-microscope
 
-15 notes and wiki pages
+15 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [What are some ways to collect dust or particulate samples for analysis? ](/notes/warren/11-30-2017/what-are-some-ways-to-collect-dust-or-particulate-samples-for-analysis) by [warren](../profile/warren)
 - [Where can microscope lenses (objectives) be bought?](/notes/warren/12-08-2017/where-can-microscope-lenses-objectives-be-bought) by [warren](../profile/warren)
@@ -13,7 +13,5 @@
 - [What do respirable silica particles (frac sand pollution) look like?](/notes/warren/02-22-2018/what-do-respirable-silica-particles-frac-sand-pollution-look-like) by [warren](../profile/warren)
 - [Help the Kits Initiative launch the Basic Microscope Kit by 3d printing lens adaptors!](/notes/bronwen/03-09-2018/help-the-kits-initiative-launch-the-basic-microscope-kit-by-3d-printing-lens-adaptors) by [Bronwen](../profile/Bronwen)
 - [Looking for a simple DIY microscope stage design with parallel plates](/notes/warren/03-12-2018/looking-for-a-simple-diy-microscope-stage-design-with-parallel-plates) by [warren](../profile/warren)
-- [How do I...](/notes/sixtwo_037/10-04-2018/how-do-i) by [sixtwo_037](../profile/sixtwo_037)
-- [How do I...it](/notes/sixtwo_037/10-04-2018/how-do-i-it) by [sixtwo_037](../profile/sixtwo_037)
 - [Would it be possible to make our own microscopic scale rulers (micrometers) using optical discs (DVDs?)](/notes/warren/04-17-2019/would-it-be-possible-to-make-our-own-microscopic-scale-rulers-micrometers-using-optical-discs-dvds) by [warren](../profile/warren)
 - [What is the magnification on the Basic Microscope kit?](/notes/maxliboiron/07-18-2019/how-do-i) by [maxliboiron](../profile/maxliboiron)

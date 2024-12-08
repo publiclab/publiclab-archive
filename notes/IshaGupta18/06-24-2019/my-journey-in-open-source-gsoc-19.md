@@ -1,12 +1,18 @@
 ---
-nid: 19839
 title: My Journey in Open Source (GSoC’19)
-path: public/static/notes/IshaGupta18/06-24-2019/my-journey-in-open-source-gsoc-19.md
+tagnames: open-source, open-source-communities, soc, gsoc-2019, soc-2019, gsoc-19
+author: IshaGupta18
+path: /notes/IshaGupta18/06-24-2019/my-journey-in-open-source-gsoc-19.md
+nid: 19839
 uid: 568043
-tagnames: open-source,open-source-communities,soc,gsoc-2019,soc-2019,gsoc-19
+
 ---
 
 # My Journey in Open Source (GSoC’19)
+
+by [IshaGupta18](../profile/IshaGupta18) June 24, 2019 16:01
+
+June 24, 2019 16:01 | Tags: [open-source](../tag/open-source), [open-source-communities](../tag/open-source-communities), [soc](../tag/soc), [gsoc-2019](../tag/gsoc-2019), [soc-2019](../tag/soc-2019), [gsoc-19](../tag/gsoc-19)
 
 I first started my journey with Open-Source in December'18\.  
 I had just finished a very stressful first semester of engineering and I was so excited about the upcoming holidays that I broke my right ankle and was bedridden for the entire holidays.

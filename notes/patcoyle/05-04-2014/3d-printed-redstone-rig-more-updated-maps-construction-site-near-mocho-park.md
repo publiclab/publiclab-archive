@@ -1,12 +1,18 @@
 ---
-nid: 10409
 title: 3D printed Redstone rig  - more updated maps construction site near Mocho Park
-path: public/static/notes/patcoyle/05-04-2014/3d-printed-redstone-rig-more-updated-maps-construction-site-near-mocho-park.md
-uid: 77
 tagnames: 
+author: patcoyle
+path: /notes/patcoyle/05-04-2014/3d-printed-redstone-rig-more-updated-maps-construction-site-near-mocho-park.md
+nid: 10409
+uid: 77
+
 ---
 
 # 3D printed Redstone rig  - more updated maps construction site near Mocho Park
+
+by [patcoyle](../profile/patcoyle) May 04, 2014 00:54
+
+May 04, 2014 00:54 | Tags: 
 
 ###What I want to do
 

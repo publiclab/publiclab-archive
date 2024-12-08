@@ -1,6 +1,6 @@
 # communityscience
 
-6 notes and wiki pages
+6 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Kits Docs](/wiki/kits-docs) (wiki)
 - [Community Microscope Kit](/wiki/micro) (wiki)

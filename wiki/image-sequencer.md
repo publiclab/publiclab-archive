@@ -1,12 +1,18 @@
 ---
-nid: 15851
 title: Image Sequencer
-path: public/static/wiki/image-sequencer.md
+tagnames: ndvi, image-compositing, infrared, image-processing, image-analysis, method, parent:infrared-software
+author: warren
+path: /wiki/image-sequencer.md
+nid: 15851
 uid: 1
-tagnames: ndvi,image-compositing,infrared,image-processing,image-analysis,method,parent:infrared-software
+
 ---
 
 # Image Sequencer
+
+by [liz](../profile/liz), [warren](../profile/warren)
+
+March 01, 2018 19:36 | Tags: [ndvi](../tag/ndvi), [image-compositing](../tag/image-compositing), [infrared](../tag/infrared), [image-processing](../tag/image-processing), [image-analysis](../tag/image-analysis), [method](../tag/method), [parent:infrared-software](../tag/parent:infrared-software)
 
 Image Sequencer is an online tool for image processing -- based on the idea of a storyboard. Each modification makes a new copy of the image, resulting in a series of images showing each step. It is designed for use in browsers, as well as on the [Raspberry Pi](/pi-camera). This project is supported in part by the [NASA AREN project](/aren)
 

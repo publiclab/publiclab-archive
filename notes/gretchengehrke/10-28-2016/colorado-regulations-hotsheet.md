@@ -1,12 +1,18 @@
 ---
-nid: 13664
 title: Colorado Regulations Hotsheet
-path: public/static/notes/gretchengehrke/10-28-2016/colorado-regulations-hotsheet.md
+tagnames: colorado, air-quality, regulations, regional, airborne, hotsheet, visible, gaseous, effluent
+author: gretchengehrke
+path: /notes/gretchengehrke/10-28-2016/colorado-regulations-hotsheet.md
+nid: 13664
 uid: 430549
-tagnames: colorado,air-quality,regulations,regional,airborne,hotsheet,visible,gaseous,effluent
+
 ---
 
 # Colorado Regulations Hotsheet
+
+by [gretchengehrke](../profile/gretchengehrke) October 28, 2016 21:41
+
+October 28, 2016 21:41 | Tags: [colorado](../tag/colorado), [air-quality](../tag/air-quality), [regulations](../tag/regulations), [regional](../tag/regional), [airborne](../tag/airborne), [hotsheet](../tag/hotsheet), [visible](../tag/visible), [gaseous](../tag/gaseous), [effluent](../tag/effluent)
 
 As we start to work with community members in Colorado on issues emanating from oil and gas industry activities, we think it's important to look at the regulatory landscape in the state. Eventually (soon!) we'll build this out into a more in-depth wiki like [https://publiclab.org/wiki/frac-sand-legislation][1], (and eventually the Wisconsin regulations wiki will include sections about water quality and the non-metallic mining program). For starters, here is a "hot sheet" about various Colorado state regulations that may be of interest for oil and gas monitoring and advocacy work.
 

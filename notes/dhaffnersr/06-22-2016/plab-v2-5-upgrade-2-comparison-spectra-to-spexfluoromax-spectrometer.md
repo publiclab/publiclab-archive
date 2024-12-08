@@ -1,12 +1,18 @@
 ---
-nid: 13226
 title: Plab v2.5 (upgrade 2) Comparison Spectra to SpexFluoroMax Spectrometer
-path: public/static/notes/dhaffnersr/06-22-2016/plab-v2-5-upgrade-2-comparison-spectra-to-spexfluoromax-spectrometer.md
-uid: 461120
 tagnames: 
+author: dhaffnersr
+path: /notes/dhaffnersr/06-22-2016/plab-v2-5-upgrade-2-comparison-spectra-to-spexfluoromax-spectrometer.md
+nid: 13226
+uid: 461120
+
 ---
 
 # Plab v2.5 (upgrade 2) Comparison Spectra to SpexFluoroMax Spectrometer
+
+by [dhaffnersr](../profile/dhaffnersr) June 22, 2016 14:12
+
+June 22, 2016 14:12 | Tags: 
 
 **Abstract**
 

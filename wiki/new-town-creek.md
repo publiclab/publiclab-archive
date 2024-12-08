@@ -1,12 +1,18 @@
 ---
-nid: 648
 title: Newtown Creek
-path: public/static/wiki/new-town-creek.md
+tagnames: new-york-city, balloon-mapping, kite-mapping, newtown-creek, brooklyn, plume, cement, concrete, northeast
+author: warren
+path: /wiki/new-town-creek.md
+nid: 648
 uid: 1
-tagnames: new-york-city,balloon-mapping,kite-mapping,newtown-creek,brooklyn,plume,cement,concrete,northeast
+
 ---
 
 # Newtown Creek
+
+by [liz](../profile/liz), [warren](../profile/warren)
+
+December 19, 2011 16:58 | Tags: [new-york-city](../tag/new-york-city), [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [newtown-creek](../tag/newtown-creek), [brooklyn](../tag/brooklyn), [plume](../tag/plume), [cement](../tag/cement), [concrete](../tag/concrete), [northeast](../tag/northeast)
 
 **Newtown Creek is part of [New York City](/wiki/new-york-city) and the [Northeast region](http://publiclab.org/wiki/northeast).**
 

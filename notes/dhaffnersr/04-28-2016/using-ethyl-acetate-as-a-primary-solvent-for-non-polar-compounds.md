@@ -1,12 +1,18 @@
 ---
-nid: 13046
 title: Using Ethyl acetate as a primary solvent for non-polar compounds
-path: public/static/notes/dhaffnersr/04-28-2016/using-ethyl-acetate-as-a-primary-solvent-for-non-polar-compounds.md
-uid: 461120
 tagnames: 
+author: dhaffnersr
+path: /notes/dhaffnersr/04-28-2016/using-ethyl-acetate-as-a-primary-solvent-for-non-polar-compounds.md
+nid: 13046
+uid: 461120
+
 ---
 
 # Using Ethyl acetate as a primary solvent for non-polar compounds
+
+by [dhaffnersr](../profile/dhaffnersr) April 28, 2016 21:06
+
+April 28, 2016 21:06 | Tags: 
 
 The picture above is the exact samples I used for this test on using Ethyl acetate for a primary solvent. The first thing you will notice is the difference in color, the sample on the left was the control used as a reference ( undiluted 2 stroke motor oil,) the sample on the right is 2 stroke motor oil dissolved in Ethyl acetate - chemical formula= C4H8O2. 
 

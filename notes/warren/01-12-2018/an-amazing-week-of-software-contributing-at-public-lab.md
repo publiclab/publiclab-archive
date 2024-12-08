@@ -1,12 +1,18 @@
 ---
-nid: 15518
 title: An amazing week of software contributing at Public Lab
-path: public/static/notes/warren/01-12-2018/an-amazing-week-of-software-contributing-at-public-lab.md
+tagnames: software, developers, code, first-timers-only, contributors, software-outreach
+author: warren
+path: /notes/warren/01-12-2018/an-amazing-week-of-software-contributing-at-public-lab.md
+nid: 15518
 uid: 1
-tagnames: software,developers,code,first-timers-only,contributors,software-outreach
+
 ---
 
 # An amazing week of software contributing at Public Lab
+
+by [warren](../profile/warren) January 12, 2018 22:20
+
+January 12, 2018 22:20 | Tags: [software](../tag/software), [developers](../tag/developers), [code](../tag/code), [first-timers-only](../tag/first-timers-only), [contributors](../tag/contributors), [software-outreach](../tag/software-outreach)
 
 Hi, everybody - i'm just opening an issue to say THANK YOU to everyone who's been coding here recently. ([cross-post from GitHub](https://github.com/publiclab/plots2/issues/1981))
 

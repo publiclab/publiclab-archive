@@ -1,12 +1,18 @@
 ---
-nid: 10369
 title: Mobius NDVI
-path: public/static/notes/cfastie/04-26-2014/mobius-ndvi.md
+tagnames: near-infrared-camera, ndvi, vermont, infrared, white-balance, infragram, mobius-actioncam, wratten25a, super-red, mobius, msetup, response:10353, activity:multispectral-imaging, activity:infragram
+author: cfastie
+path: /notes/cfastie/04-26-2014/mobius-ndvi.md
+nid: 10369
 uid: 554
-tagnames: near-infrared-camera,ndvi,vermont,infrared,white-balance,infragram,mobius-actioncam,wratten25a,super-red,mobius,msetup,response:10353,activity:multispectral-imaging,activity:infragram
+
 ---
 
 # Mobius NDVI
+
+by [cfastie](../profile/cfastie) April 26, 2014 14:33
+
+April 26, 2014 14:33 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [vermont](../tag/vermont), [infrared](../tag/infrared), [white-balance](../tag/white-balance), [infragram](../tag/infragram), [mobius-actioncam](../tag/mobius-actioncam), [wratten25a](../tag/wratten25a), [super-red](../tag/super-red), [mobius](../tag/mobius), [msetup](../tag/msetup), [response:10353](../tag/response:10353), [activity:multispectral-imaging](../tag/activity:multispectral-imaging), [activity:infragram](../tag/activity:infragram)
 
 *Above: It should be pretty easy for a DIY NDVI image to differentiate between things in this scene that are green plants and things that are not.*
 

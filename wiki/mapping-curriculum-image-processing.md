@@ -1,12 +1,18 @@
 ---
-nid: 82
 title: Mapping Curriculum Image Processing
-path: public/static/wiki/mapping-curriculum-image-processing.md
+tagnames: education, curriculum, map-curriculum
+author: warren
+path: /wiki/mapping-curriculum-image-processing.md
+nid: 82
 uid: 1
-tagnames: education,curriculum,map-curriculum
+
 ---
 
 # Mapping Curriculum Image Processing
+
+by [gonzoearth](../profile/gonzoearth), [johnsmith2167](../profile/johnsmith2167), [warren](../profile/warren)
+
+February 10, 2011 15:36 | Tags: [education](../tag/education), [curriculum](../tag/curriculum), [map-curriculum](../tag/map-curriculum)
 
 *As part of the [Grassroots Mapping Curriculum](/wiki/mapping-curriculum) series.*
 

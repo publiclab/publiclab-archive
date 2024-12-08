@@ -1,12 +1,18 @@
 ---
-nid: 24953
 title: How to Take an Air Quality Sample with a Bucket Monitor
-path: public/static/notes/A_SCH/11-08-2020/how-to-take-a-sample-with-a-bucket-monitor.md
+tagnames: air-quality, bucket-brigade, barnstar:video-documentation, with:kgradow1, africa, advocacy, community-organizing, advocacy-pathways, bucket, bucket-monitor, activity:bucket-monitor, south-africa, south-durban
+author: A_SCH
+path: /notes/A_SCH/11-08-2020/how-to-take-a-sample-with-a-bucket-monitor.md
+nid: 24953
 uid: 704145
-tagnames: air-quality,bucket-brigade,barnstar:video-documentation,with:kgradow1,africa,advocacy,community-organizing,advocacy-pathways,bucket,bucket-monitor,activity:bucket-monitor,south-africa,south-durban
+
 ---
 
 # How to Take an Air Quality Sample with a Bucket Monitor
+
+by [A_SCH](../profile/A_SCH) November 08, 2020 04:22
+
+November 08, 2020 04:22 | Tags: [air-quality](../tag/air-quality), [bucket-brigade](../tag/bucket-brigade), [barnstar:video-documentation](../tag/barnstar:video-documentation), [with:kgradow1](../tag/with:kgradow1), [africa](../tag/africa), [advocacy](../tag/advocacy), [community-organizing](../tag/community-organizing), [advocacy-pathways](../tag/advocacy-pathways), [bucket](../tag/bucket), [bucket-monitor](../tag/bucket-monitor), [activity:bucket-monitor](../tag/activity:bucket-monitor), [south-africa](../tag/south-africa), [south-durban](../tag/south-durban)
 
 Co-authored by: Bongani Mthembu and Desmond D'Sa, [South Durban Community Environmental Alliance](https://sdcea.co.za/ "https://sdcea.co.za/"), Rico Euripidou, [groundWork, Friends of the Earth South Africa](https://www.groundwork.org.za/ "https://www.groundwork.org.za/")
 

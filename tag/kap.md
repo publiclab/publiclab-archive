@@ -1,6 +1,6 @@
 # kap
 
-98 notes and wiki pages
+98 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Cris Benton on TWiT](/notes/cfastie/8-26-2012/cris-benton-twit) by [cfastie](../profile/cfastie)
 - [Citizen Science on Google+](/notes/cfastie/12-10-2012/citizen-science-google) by [cfastie](../profile/cfastie)
@@ -91,7 +91,6 @@
 - [SkyPod endurance test](/notes/cfastie/04-17-2017/skypod-endurance-test) by [cfastie](../profile/cfastie)
 - [First flight of the SkyPod](/notes/cfastie/06-18-2017/first-flight-of-the-skypod) by [cfastie](../profile/cfastie)
 - [SkyPod GPS Logger](/wiki/skypod-gps-logger) (wiki)
-- [What do you think about work at home?](/notes/mikekaliven87/06-30-2017/what-do-you-think-about-work-at-home) by [mikekaliven87](../profile/mikekaliven87)
 - [The Squid and the Rok](/notes/cfastie/07-03-2017/the-squid-and-the-rok) by [cfastie](../profile/cfastie)
 - [Redstone Rig 2.0](/notes/cfastie/07-18-2017/redstone-rig-2-0) by [cfastie](../profile/cfastie)
 - [NASA Aeropod unboxing](/notes/cfastie/09-29-2017/nasa-aeropod-unboxing) by [cfastie](../profile/cfastie)

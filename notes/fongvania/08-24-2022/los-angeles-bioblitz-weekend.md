@@ -1,12 +1,18 @@
 ---
-nid: 34853
 title: Los Angeles Bioblitz Weekend
-path: public/static/notes/fongvania/08-24-2022/los-angeles-bioblitz-weekend.md
+tagnames: biodiversity, location:blurred, place:united-states, lat:36, zoom:6, lon:-121, research-curation-fellows, bioindicators, bioblitz
+author: fongvania
+path: /notes/fongvania/08-24-2022/los-angeles-bioblitz-weekend.md
+nid: 34853
 uid: 754846
-tagnames: biodiversity,location:blurred,place:united-states,lat:36,zoom:6,lon:-121,research-curation-fellows,bioindicators,bioblitz
+
 ---
 
 # Los Angeles Bioblitz Weekend
+
+by [fongvania](../profile/fongvania) August 24, 2022 06:22
+
+August 24, 2022 06:22 | Tags: [biodiversity](../tag/biodiversity), [location:blurred](../tag/location:blurred), [place:united-states](../tag/place:united-states), [lat:36](../tag/lat:36), [zoom:6](../tag/zoom:6), [lon:-121](../tag/lon:-121), [research-curation-fellows](../tag/research-curation-fellows), [bioindicators](../tag/bioindicators), [bioblitz](../tag/bioblitz)
 
 Researchers at CALeDNA gathered four groups of volunteers around the Los Angeles area on June 30th for a Bioblitz weekend. Volunteers collected soil and water samples along the LA river to send back to the lab in Santa Cruz for DNA sequencing, which indicates which species were present near the sampling sites and can include everything from bacteria to oak trees to coyotes. 
 

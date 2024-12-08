@@ -1,12 +1,18 @@
 ---
-nid: 11964
 title: Thermal Fishing Bob: multiple inputs/outputs 
-path: public/static/notes/lperovich/06-10-2015/thermal-fishing-bob-multiple-inputs-outputs.md
+tagnames: thermal-fishing-bob, activity:thermal-fishing-bob, first-time-poster
+author: lperovich
+path: /notes/lperovich/06-10-2015/thermal-fishing-bob-multiple-inputs-outputs.md
+nid: 11964
 uid: 443410
-tagnames: thermal-fishing-bob,activity:thermal-fishing-bob,first-time-poster
+
 ---
 
 # Thermal Fishing Bob: multiple inputs/outputs 
+
+by [lperovich](../profile/lperovich) June 10, 2015 15:28
+
+June 10, 2015 15:28 | Tags: [thermal-fishing-bob](../tag/thermal-fishing-bob), [activity:thermal-fishing-bob](../tag/activity:thermal-fishing-bob), [first-time-poster](../tag/first-time-poster)
 
 I made another iteration of the thermal fishing bob code and electronics.  This builds from the original version found here: [http://publiclab.org/wiki/thermal-fishing-bob-barnraising](http://publiclab.org/wiki/thermal-fishing-bob-barnraising)
 

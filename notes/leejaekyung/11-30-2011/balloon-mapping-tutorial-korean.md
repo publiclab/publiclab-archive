@@ -1,12 +1,18 @@
 ---
-nid: 601
 title: balloon mapping tutorial (Korean)
-path: public/static/notes/leejaekyung/11-30-2011/balloon-mapping-tutorial-korean.md
+tagnames: illustrated-guides, korea, location:blurred, lat:30, lon:120, place:korea, first-time-poster
+author: leejaekyung
+path: /notes/leejaekyung/11-30-2011/balloon-mapping-tutorial-korean.md
+nid: 601
 uid: 274
-tagnames: illustrated-guides,korea,location:blurred,lat:30,lon:120,place:korea,first-time-poster
+
 ---
 
 # balloon mapping tutorial (Korean)
+
+by [leejaekyung](../profile/leejaekyung) December 01, 2011 01:48
+
+December 01, 2011 01:48 | Tags: [illustrated-guides](../tag/illustrated-guides), [korea](../tag/korea), [location:blurred](../tag/location:blurred), [lat:30](../tag/lat:30), [lon:120](../tag/lon:120), [place:korea](../tag/place:korea), [first-time-poster](../tag/first-time-poster)
 
 Hello. I'm jaekyung lee from South Korea. 
 These days, I'm trying to get picture at 350 meters high.

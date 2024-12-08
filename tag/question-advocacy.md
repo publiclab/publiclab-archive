@@ -1,6 +1,6 @@
 # question-advocacy
 
-16 notes and wiki pages
+16 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [How do I know which key points to push when making a public comment against an industry? ](/notes/stevie/02-22-2017/how-do-i-know-which-key-points-to-push-when-making-a-public-comment-against-an-industry) by [stevie](../profile/stevie)
 - [What do you do if your environmental concern is linked to your neighbor's paycheck?](/notes/gretchengehrke/07-10-2017/what-do-you-do-if-your-environmental-concern-is-linked-to-your-neighbor-s-paycheck) by [gretchengehrke](../profile/gretchengehrke)
@@ -17,4 +17,3 @@
 - [How do you turn results about environmental pollution into personal actions that people can take?](/notes/bhamster/06-02-2021/how-do-you-turn-results-about-environmental-pollution-into-personal-actions-that-people-can-take) by [bhamster](../profile/bhamster)
 - [Enforcement on inactive permits?](/notes/ekpeterman/10-28-2021/enforcement-on-inactive-permits) by [ekpeterman](../profile/ekpeterman)
 - [What strategies have been implemented to use citizen science successfully in litigation?](/notes/julia_e_masters/01-14-2022/what-strategies-have-been-implemented-to-use-citizen-science-successfully-in-litigation) by [julia_e_masters](../profile/julia_e_masters)
-- [Quickbooks Error H202](/notes/laimrylah/01-21-2022/quickbooks-error-h202) by [laimrylah](../profile/laimrylah)

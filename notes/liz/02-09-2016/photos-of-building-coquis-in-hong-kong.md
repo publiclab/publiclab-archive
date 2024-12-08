@@ -1,12 +1,18 @@
 ---
-nid: 12673
 title: Photos of building Coquis in Hong Kong
-path: public/static/notes/liz/02-09-2016/photos-of-building-coquis-in-hong-kong.md
+tagnames: hong-kong, open-water, coqui, china
+author: liz
+path: /notes/liz/02-09-2016/photos-of-building-coquis-in-hong-kong.md
+nid: 12673
 uid: 7
-tagnames: hong-kong,open-water,coqui,china
+
 ---
 
 # Photos of building Coquis in Hong Kong
+
+by [liz](../profile/liz) February 09, 2016 18:10
+
+February 09, 2016 18:10 | Tags: [hong-kong](../tag/hong-kong), [open-water](../tag/open-water), [coqui](../tag/coqui), [china](../tag/china)
 
 From the time period January 21-24
 [![IMG_3582.JPG](//i.publiclab.org/system/images/photos/000/014/168/medium/IMG_3582.JPG)](//i.publiclab.org/system/images/photos/000/014/168/original/IMG_3582.JPG)

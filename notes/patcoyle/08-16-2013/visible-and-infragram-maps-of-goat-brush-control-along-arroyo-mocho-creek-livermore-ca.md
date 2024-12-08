@@ -1,12 +1,18 @@
 ---
-nid: 9020
 title: Visible and Infragram maps of goat brush control along Arroyo Mocho creek, Livermore CA
-path: public/static/notes/patcoyle/08-16-2013/visible-and-infragram-maps-of-goat-brush-control-along-arroyo-mocho-creek-livermore-ca.md
+tagnames: near-infrared-camera, kite-mapping, livermore, norcal, infragram, goats
+author: patcoyle
+path: /notes/patcoyle/08-16-2013/visible-and-infragram-maps-of-goat-brush-control-along-arroyo-mocho-creek-livermore-ca.md
+nid: 9020
 uid: 77
-tagnames: near-infrared-camera,kite-mapping,livermore,norcal,infragram,goats
+
 ---
 
 # Visible and Infragram maps of goat brush control along Arroyo Mocho creek, Livermore CA
+
+by [patcoyle](../profile/patcoyle) August 16, 2013 06:35
+
+August 16, 2013 06:35 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [livermore](../tag/livermore), [norcal](../tag/norcal), [infragram](../tag/infragram), [goats](../tag/goats)
 
 Livermore Area Parks and Recreation District (LARPD) is using goats for brush control along Arroyo Mocho creek. 
 

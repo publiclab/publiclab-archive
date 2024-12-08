@@ -1,12 +1,18 @@
 ---
-nid: 15923
 title: Report: Particle Visualization Event
-path: public/static/notes/stevie/03-12-2018/report-particle-visualization-event.md
+tagnames: wisconsin, air-quality, frac-sand, pm, midwest, particle-monitoring, with:warren, fracsand, microscope, passive-particle-monitors, parent:frac-sand, with:pat, basic-microscope, with:dswenson
+author: stevie
+path: /notes/stevie/03-12-2018/report-particle-visualization-event.md
+nid: 15923
 uid: 422561
-tagnames: wisconsin,air-quality,frac-sand,pm,midwest,particle-monitoring,with:warren,fracsand,microscope,passive-particle-monitors,parent:frac-sand,with:pat,basic-microscope,with:dswenson
+
 ---
 
 # Report: Particle Visualization Event
+
+by [stevie](../profile/stevie) March 12, 2018 15:40
+
+March 12, 2018 15:40 | Tags: [wisconsin](../tag/wisconsin), [air-quality](../tag/air-quality), [frac-sand](../tag/frac-sand), [pm](../tag/pm), [midwest](../tag/midwest), [particle-monitoring](../tag/particle-monitoring), [with:warren](../tag/with:warren), [fracsand](../tag/fracsand), [microscope](../tag/microscope), [passive-particle-monitors](../tag/passive-particle-monitors), [parent:frac-sand](../tag/parent:frac-sand), [with:pat](../tag/with:pat), [basic-microscope](../tag/basic-microscope), [with:dswenson](../tag/with:dswenson)
 
 **Testimonial:**
 A farmer in Hixton Wisconsin stood up in front of the group and began to tell his story. Originally, he said he wasn’t too concerned about the incoming frac sand mining operation, that “dust was dust.” But as time went on, and the mine opened right next to his property, he started to notice that more and more of his cattle were getting sick, and he started to question if there really was something behind this air quality issue. 

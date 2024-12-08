@@ -1,12 +1,18 @@
 ---
-nid: 9982
 title: Public Lab community newsletter 1.26.14
-path: public/static/notes/Shannon/01-26-2014/public-lab-community-newsletter-1-26-14.md
+tagnames: newsletter, newsletter-archive
+author: Shannon
+path: /notes/Shannon/01-26-2014/public-lab-community-newsletter-1-26-14.md
+nid: 9982
 uid: 9
-tagnames: newsletter,newsletter-archive
+
 ---
 
 # Public Lab community newsletter 1.26.14
+
+by [Shannon](../profile/Shannon) January 26, 2014 21:36
+
+January 26, 2014 21:36 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
 
 In the Public Lab community newsletter this week, check out all the exciting upcoming events happening in Castellón (Spain), Boston, New Orleans, London and Chicago. These in-person meet-ups are a great way to connect with other Public Lab folks in your area, so if you’re around, please consider attending. Enjoy!
 

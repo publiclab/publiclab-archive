@@ -1,12 +1,18 @@
 ---
-nid: 10532
 title: Using Fluxtream to look at Speck Data
-path: public/static/notes/mathew/06-05-2014/using-fluxtream-to-look-at-speck-data.md
+tagnames: visualization, data, dust, silica, speck
+author: mathew
+path: /notes/mathew/06-05-2014/using-fluxtream-to-look-at-speck-data.md
+nid: 10532
 uid: 4
-tagnames: visualization,data,dust,silica,speck
+
 ---
 
 # Using Fluxtream to look at Speck Data
+
+by [mathew](../profile/mathew) June 05, 2014 22:26
+
+June 05, 2014 22:26 | Tags: [visualization](../tag/visualization), [data](../tag/data), [dust](../tag/dust), [silica](../tag/silica), [speck](../tag/speck)
 
 ###What I want to do
 Document how to upload data from a Speck to CMU's analysis program [Fluxtream.org](https://fluxtream.org/welcome).  Fluxtream is a data visualization service aimed at the quantified self community, tracking personal sensor, calendar, and geodata. 

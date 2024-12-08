@@ -1,12 +1,18 @@
 ---
-nid: 20009
 title: My journey to getting selected and first few weeks of the internship
-path: public/static/notes/anan12/07-05-2019/my-journey-to-getting-selected-and-first-few-weeks-of-the-internship.md
+tagnames: soc, outreachy, soc-2019, outreachy-2019
+author: anan12
+path: /notes/anan12/07-05-2019/my-journey-to-getting-selected-and-first-few-weeks-of-the-internship.md
+nid: 20009
 uid: 577881
-tagnames: soc,outreachy,soc-2019,outreachy-2019
+
 ---
 
 # My journey to getting selected and first few weeks of the internship
+
+by [anan12](../profile/anan12) July 05, 2019 19:50
+
+July 05, 2019 19:50 | Tags: [soc](../tag/soc), [outreachy](../tag/outreachy), [soc-2019](../tag/soc-2019), [outreachy-2019](../tag/outreachy-2019)
 
 I am an open source enthusiast and have been contributing to open source for the past
 few years.

@@ -1,6 +1,6 @@
 # question-air-quality-data
 
-11 notes and wiki pages
+11 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [What are best practices and tools to help clean up data sets? ](/notes/stevie/08-23-2019/what-are-best-practices-and-tools-to-help-clean-up-data-sets) by [stevie](../profile/stevie)
 - [What are ways to make dense CSV data more readable?](/notes/warren/10-03-2019/what-are-ways-to-make-dense-csv-data-more-readable) by [warren](../profile/warren)
@@ -12,4 +12,3 @@
 - [What are examples of "real-life", immersive experiences that help people understand pollution?](/notes/fongvania/11-04-2021/what-are-examples-of-real-life-immersive-experiences-that-help-people-understand-pollution) by [fongvania](../profile/fongvania)
 - [What is “data storytelling” and how can it be used for environmental data?](/notes/bhamster/11-08-2021/what-is-data-storytelling-and-how-can-it-be-used-for-environmental-data) by [bhamster](../profile/bhamster)
 - [What strategies have been implemented to use citizen science successfully in litigation?](/notes/julia_e_masters/01-14-2022/what-strategies-have-been-implemented-to-use-citizen-science-successfully-in-litigation) by [julia_e_masters](../profile/julia_e_masters)
-- [Quickbooks Error H202](/notes/laimrylah/01-21-2022/quickbooks-error-h202) by [laimrylah](../profile/laimrylah)

@@ -1,12 +1,18 @@
 ---
-nid: 14562
 title: A New Balloon and Kite Mapping campaign: Kickstarter Gold and Beyond!
-path: public/static/notes/bronwen/06-20-2017/a-new-balloon-and-kite-mapping-campaign-kickstarter-gold-and-beyond.md
+tagnames: balloon-mapping, kite-mapping, kickstarter, blog, mini-kite-kit, mini-balloon-kit
+author: Bronwen
+path: /notes/bronwen/06-20-2017/a-new-balloon-and-kite-mapping-campaign-kickstarter-gold-and-beyond.md
+nid: 14562
 uid: 237313
-tagnames: balloon-mapping,kite-mapping,kickstarter,blog,mini-kite-kit,mini-balloon-kit
+
 ---
 
 # A New Balloon and Kite Mapping campaign: Kickstarter Gold and Beyond!
+
+by [Bronwen](../profile/Bronwen) June 20, 2017 22:40
+
+June 20, 2017 22:40 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [kickstarter](../tag/kickstarter), [blog](../tag/blog), [mini-kite-kit](../tag/mini-kite-kit), [mini-balloon-kit](../tag/mini-balloon-kit)
 
 **We'v**e **just launched a new kite and balloon mapping project** as a part of _Kickstarter Gold_, a new initiative designed to help highlight the evolution of initiatives that have received funding in the past.
 

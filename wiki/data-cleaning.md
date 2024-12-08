@@ -1,12 +1,18 @@
 ---
-nid: 28318
 title: Cleaning and Organizing Environmental Data
-path: public/static/wiki/data-cleaning.md
+tagnames: status:under-development, method, environmental-data, presenting-data, air-quality-data, data-cleaning
+author: bhamster
+path: /wiki/data-cleaning.md
+nid: 28318
 uid: 664477
-tagnames: status:under-development,method,environmental-data,presenting-data,air-quality-data,data-cleaning
+
 ---
 
 # Cleaning and Organizing Environmental Data
+
+by [bhamster](../profile/bhamster)
+
+November 30, 2021 23:19 | Tags: [status:under-development](../tag/status:under-development), [method](../tag/method), [environmental-data](../tag/environmental-data), [presenting-data](../tag/presenting-data), [air-quality-data](../tag/air-quality-data), [data-cleaning](../tag/data-cleaning)
 
 _Lead image: Clean Data by Gene Stroman from the [Noun Project](https://thenounproject.com), CC BY_
 

@@ -1,12 +1,18 @@
 ---
-nid: 9991
 title: Initial experience with Wratten 25 filter on A490
-path: public/static/notes/patcoyle/01-30-2014/initial-experience-with-wratten-25-filter-on-a490.md
+tagnames: ndvi, infrablue, wratten25a, a-490
+author: patcoyle
+path: /notes/patcoyle/01-30-2014/initial-experience-with-wratten-25-filter-on-a490.md
+nid: 9991
 uid: 77
-tagnames: ndvi,infrablue,wratten25a,a-490
+
 ---
 
 # Initial experience with Wratten 25 filter on A490
+
+by [patcoyle](../profile/patcoyle) January 30, 2014 23:19
+
+January 30, 2014 23:19 | Tags: [ndvi](../tag/ndvi), [infrablue](../tag/infrablue), [wratten25a](../tag/wratten25a), [a-490](../tag/a-490)
 
 ###What I want to do
 Change external filter on A490 from Rosco 2007 to Wratten 25. Try it for NDVI. 

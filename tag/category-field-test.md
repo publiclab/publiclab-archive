@@ -1,6 +1,6 @@
 # category-field-test
 
-7 notes and wiki pages
+7 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Titan 2 IR](/notes/cfastie/06-22-2014/titan-2-ir) by [cfastie](../profile/cfastie)
 - [Titan 2 IR flight](/notes/cfastie/08-08-2014/titan-2-ir-flight) by [cfastie](../profile/cfastie)

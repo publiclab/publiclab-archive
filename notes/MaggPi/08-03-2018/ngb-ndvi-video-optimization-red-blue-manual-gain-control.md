@@ -1,12 +1,18 @@
 ---
-nid: 16844
 title: NGB NDVI Video Optimization (Red/Blue Manual Gain Control)
-path: public/static/notes/MaggPi/08-03-2018/ngb-ndvi-video-optimization-red-blue-manual-gain-control.md
+tagnames: video, ndvi, raspberry-pi, ngb, pi-camera, opencv, gsoc-2018, noir, awb
+author: MaggPi
+path: /notes/MaggPi/08-03-2018/ngb-ndvi-video-optimization-red-blue-manual-gain-control.md
+nid: 16844
 uid: 501996
-tagnames: video,ndvi,raspberry-pi,ngb,pi-camera,opencv,gsoc-2018,noir,awb
+
 ---
 
 # NGB NDVI Video Optimization (Red/Blue Manual Gain Control)
+
+by [MaggPi](../profile/MaggPi) August 03, 2018 02:06
+
+August 03, 2018 02:06 | Tags: [video](../tag/video), [ndvi](../tag/ndvi), [raspberry-pi](../tag/raspberry-pi), [ngb](../tag/ngb), [pi-camera](../tag/pi-camera), [opencv](../tag/opencv), [gsoc-2018](../tag/gsoc-2018), [noir](../tag/noir), [awb](../tag/awb)
 
 **Introduction:**  
 This project demonstrates the impact of different Raspberry Pi camera gain settings when collecting NGB NDVI images.  

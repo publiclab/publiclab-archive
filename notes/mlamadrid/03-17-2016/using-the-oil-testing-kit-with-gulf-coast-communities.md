@@ -1,12 +1,18 @@
 ---
-nid: 12853
 title: Using the Oil Testing Kit with Gulf Coast Communities
-path: public/static/notes/mlamadrid/03-17-2016/using-the-oil-testing-kit-with-gulf-coast-communities.md
-uid: 45586
 tagnames: with:stevie
+author: mlamadrid
+path: /notes/mlamadrid/03-17-2016/using-the-oil-testing-kit-with-gulf-coast-communities.md
+nid: 12853
+uid: 45586
+
 ---
 
 # Using the Oil Testing Kit with Gulf Coast Communities
+
+by [mlamadrid](../profile/mlamadrid) March 17, 2016 04:10
+
+March 17, 2016 04:10 | Tags: [with:stevie](../tag/with:stevie)
 
 This is an article by **Stevie Lewis** for [Community Science Forum Issue #1 on DYI Oil Testing](https://publiclab.org/forum). Buy a copy in the Public Lab Store. 
 

@@ -1,12 +1,18 @@
 ---
-nid: 14821
 title: How can the public find or make maps of the polluters next door?
-path: public/static/notes/marlokeno/09-02-2017/how-can-the-public-find-or-make-maps-of-the-polluters-next-door.md
+tagnames: neighborhood, mapping, database, air-quality, water-quality, toxic-waste, pollution, data-collection, emissions, answered, airpollution, oil-pollution, harvey, question:harvey, question:emissions
+author: marlokeno
+path: /notes/marlokeno/09-02-2017/how-can-the-public-find-or-make-maps-of-the-polluters-next-door.md
+nid: 14821
 uid: 420760
-tagnames: neighborhood,mapping,database,air-quality,water-quality,toxic-waste,pollution,data-collection,emissions,answered,airpollution,oil-pollution,harvey,question:harvey,question:emissions
+
 ---
 
 # How can the public find or make maps of the polluters next door?
+
+by [marlokeno](../profile/marlokeno) September 02, 2017 18:45
+
+September 02, 2017 18:45 | Tags: [neighborhood](../tag/neighborhood), [mapping](../tag/mapping), [database](../tag/database), [air-quality](../tag/air-quality), [water-quality](../tag/water-quality), [toxic-waste](../tag/toxic-waste), [pollution](../tag/pollution), [data-collection](../tag/data-collection), [emissions](../tag/emissions), [answered](../tag/answered), [airpollution](../tag/airpollution), [oil-pollution](../tag/oil-pollution), [harvey](../tag/harvey), [question:harvey](../tag/question:harvey), [question:emissions](../tag/question:emissions)
 
 What's a chemical plant neighbor to do?   
 

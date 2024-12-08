@@ -1,12 +1,18 @@
 ---
-nid: 171
 title: Notes from Tues April 12 staff call
-path: public/static/notes/warren/4-12-2011/notes-tues-april-12-staff-call.md
-uid: 1
 tagnames: 
+author: warren
+path: /notes/warren/4-12-2011/notes-tues-april-12-staff-call.md
+nid: 171
+uid: 1
+
 ---
 
 # Notes from Tues April 12 staff call
+
+by [warren](../profile/warren) April 12, 2011 15:26
+
+April 12, 2011 15:26 | Tags: 
 
 Stewart Long, Shannon Dosemagen and I had our bi-weekly meeting today. We reviewed [last weeks list](http://publiclaboratory.org/notes/warren/4-5-2011/notes-tuesday-plots-staff-call), and set out some deadlines and to-dos:
 

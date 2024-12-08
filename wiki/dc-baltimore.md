@@ -1,12 +1,18 @@
 ---
-nid: 9404
 title: DC-Baltimore 
-path: public/static/wiki/dc-baltimore.md
+tagnames: chapter, tabbed:notes, tabbed:wikis, events:dc-baltimore, list:plots-baltimore-dc, lat:38.8951, lon:-77.0367, northeast, great-photos, parent:northeast
+author: Pera
+path: /wiki/dc-baltimore.md
+nid: 9404
 uid: 279527
-tagnames: chapter,tabbed:notes,tabbed:wikis,events:dc-baltimore,list:plots-baltimore-dc,lat:38.8951,lon:-77.0367,northeast,great-photos,parent:northeast
+
 ---
 
 # DC-Baltimore 
+
+by [liz](../profile/liz), [Pera](../profile/Pera)
+
+October 05, 2013 21:48 | Tags: [chapter](../tag/chapter), [tabbed:notes](../tag/tabbed:notes), [tabbed:wikis](../tag/tabbed:wikis), [events:dc-baltimore](../tag/events:dc-baltimore), [list:plots-baltimore-dc](../tag/list:plots-baltimore-dc), [lat:38.8951](../tag/lat:38.8951), [lon:-77.0367](../tag/lon:-77.0367), [northeast](../tag/northeast), [great-photos](../tag/great-photos), [parent:northeast](../tag/parent:northeast)
 
 Hello Northern Virginia, Maryland, and DC!  We are just getting a local Public Lab chapter started here in this area.  
 

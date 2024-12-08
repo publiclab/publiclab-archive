@@ -1,12 +1,18 @@
 ---
-nid: 9401
 title: Flare Spectroscopy Activity
-path: public/static/wiki/flare-spectroscopy-activity.md
+tagnames: education, spectrometry, classroom, activity, response:4406
+author: warren
+path: /wiki/flare-spectroscopy-activity.md
+nid: 9401
 uid: 1
-tagnames: education,spectrometry,classroom,activity,response:4406
+
 ---
 
 # Flare Spectroscopy Activity
+
+by [warren](../profile/warren)
+
+October 05, 2013 15:54 | Tags: [education](../tag/education), [spectrometry](../tag/spectrometry), [classroom](../tag/classroom), [activity](../tag/activity), [response:4406](../tag/response:4406)
 
 <div class="alert">This page is under construction.</div>
 

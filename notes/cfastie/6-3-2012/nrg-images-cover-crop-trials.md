@@ -1,12 +1,18 @@
 ---
-nid: 2311
 title: NRG images of cover crop trials
-path: public/static/notes/cfastie/6-3-2012/nrg-images-cover-crop-trials.md
+tagnames: balloon-mapping, near-infrared-camera, 3d, nrg, nir, farmhack, agriculture, farm, sfm, ifarm
+author: cfastie
+path: /notes/cfastie/6-3-2012/nrg-images-cover-crop-trials.md
+nid: 2311
 uid: 554
-tagnames: balloon-mapping,near-infrared-camera,3d,nrg,nir,farmhack,agriculture,farm,sfm,ifarm
+
 ---
 
 # NRG images of cover crop trials
+
+by [cfastie](../profile/cfastie) June 04, 2012 00:47
+
+June 04, 2012 00:47 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [3d](../tag/3d), [nrg](../tag/nrg), [nir](../tag/nir), [farmhack](../tag/farmhack), [agriculture](../tag/agriculture), [farm](../tag/farm), [sfm](../tag/sfm), [ifarm](../tag/ifarm)
 
 I used [Ned Horning’s ImageJ macro]( http://publiclaboratory.org/notes/nedhorning/5-31-2012/registering-and-processing-photos-acquired-two-cameras) to produce false color infrared (NRG) images from 108 of the pairs of near infrared (NIR) and visible photos taken on the [balloon flight over the agricultural field trials in New Hampshire]( http://publiclaboratory.org/notes/cfastie/5-29-2012/lee-nh-plotsfarmhack-meetup) in May.  NRG images highlight vegetation by displaying the NIR data as red, the Red data as green, and the Green data as blue, and are a common way to present satellite images of earth.  It’s sort of a parlor trick, but in this case it really helps to distinguish a single species in the cover crop plots.  Hairy vetch was planted in all the plots in September, but established well only in the plots treated with high carbon wood ash.  Hairy vetch is a distinct light pink color in these images, and the plots treated with wood ash are very easy to pick out.  It will probably be possible to estimate percent cover of hairy vetch in all the plots from these images.  Ideally, a classification routine could be trained to recognize the hairy vetch visual signature, but the pattern is so distinct that you could just outline the putative hairy vetch areas by hand and have a GIS program compute the area.
 

@@ -1,6 +1,6 @@
 # elp
 
-15 notes and wiki pages
+15 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Goal setting workshop design](/notes/liz/02-24-2014/goal-setting-workshop-design) by [liz](../profile/liz)
 - [gardening-toolkit-events](/wiki/gardening-toolkit-events) (wiki)

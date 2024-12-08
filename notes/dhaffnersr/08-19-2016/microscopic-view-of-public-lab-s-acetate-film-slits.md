@@ -1,12 +1,18 @@
 ---
-nid: 13370
 title: Microscopic View of Public Lab's Acetate film slits
-path: public/static/notes/dhaffnersr/08-19-2016/microscopic-view-of-public-lab-s-acetate-film-slits.md
-uid: 461120
 tagnames: 
+author: dhaffnersr
+path: /notes/dhaffnersr/08-19-2016/microscopic-view-of-public-lab-s-acetate-film-slits.md
+nid: 13370
+uid: 461120
+
 ---
 
 # Microscopic View of Public Lab's Acetate film slits
+
+by [dhaffnersr](../profile/dhaffnersr) August 19, 2016 16:48
+
+August 19, 2016 16:48 | Tags: 
 
 I have wanted to do this for awhile now, and finally got around to it and I am glad I did, I took my microscope today and examined the 0.09mm slit (one of 4 that comes with the Plab kit you can order, for various slit widths,) as I had suspected there are many imperfections riddled throughout the slit entrance area.
 

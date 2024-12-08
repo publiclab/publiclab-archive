@@ -1,12 +1,18 @@
 ---
-nid: 11231
 title: Reflections on Sensor Journalism
-path: public/static/notes/AbbeyCollins/10-06-2014/reflections-on-sensor-journalism.md
-uid: 428043
 tagnames: 
+author: AbbeyCollins
+path: /notes/AbbeyCollins/10-06-2014/reflections-on-sensor-journalism.md
+nid: 11231
+uid: 428043
+
 ---
 
 # Reflections on Sensor Journalism
+
+by [AbbeyCollins](../profile/AbbeyCollins) October 06, 2014 01:33
+
+October 06, 2014 01:33 | Tags: 
 
 The chorus of sound omitted from a handful of hastily-built homemade sensors delighted a room of journalists with little experience in electrical wiring. Not only did the wiring succeed, the sensors presented a new way to tell a story. It was an experiment in sensor journalism, the emergence of which presents new challenges and opportunities for journalists across all mediums. 
 

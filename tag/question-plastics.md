@@ -1,6 +1,6 @@
 # question-plastics
 
-5 notes and wiki pages
+5 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [How can I identify bits of plastic from the beach in an image?](/notes/jlev/02-01-2018/how-can-i-identify-bits-of-plastic-from-the-beach-in-an-image) by [jlev](../profile/jlev)
 - [Can plastic trawls be used in rivers?](/notes/warren/07-11-2018/can-plastic-trawls-be-used-in-rivers) by [warren](../profile/warren)

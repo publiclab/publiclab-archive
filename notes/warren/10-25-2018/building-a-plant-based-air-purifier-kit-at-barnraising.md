@@ -1,12 +1,18 @@
 ---
-nid: 17395
 title: Building a plant-based air purifier kit at Barnraising
-path: public/static/notes/warren/10-25-2018/building-a-plant-based-air-purifier-kit-at-barnraising.md
+tagnames: remediation, air-quality, formaldehyde, open-air, filters, with:liz, indoor-air-quality, indoor-air, pick, current, vocs, replication:13480, with:zengirl2, activity:indoor-air-quality
+author: warren
+path: /notes/warren/10-25-2018/building-a-plant-based-air-purifier-kit-at-barnraising.md
+nid: 17395
 uid: 1
-tagnames: remediation,air-quality,formaldehyde,open-air,filters,with:liz,indoor-air-quality,indoor-air,pick,current,vocs,replication:13480,with:zengirl2,activity:indoor-air-quality
+
 ---
 
 # Building a plant-based air purifier kit at Barnraising
+
+by [warren](../profile/warren) October 25, 2018 20:54
+
+October 25, 2018 20:54 | Tags: [remediation](../tag/remediation), [air-quality](../tag/air-quality), [formaldehyde](../tag/formaldehyde), [open-air](../tag/open-air), [filters](../tag/filters), [with:liz](../tag/with:liz), [indoor-air-quality](../tag/indoor-air-quality), [indoor-air](../tag/indoor-air), [pick](../tag/pick), [current](../tag/current), [vocs](../tag/vocs), [replication:13480](../tag/replication:13480), [with:zengirl2](../tag/with:zengirl2), [activity:indoor-air-quality](../tag/activity:indoor-air-quality)
 
 _This is an attempt to follow the latest instructions for this kit: https://publiclab.org/notes/nshapiro/09-26-2016/build-a-plant-based-air-purifier_
 

@@ -1,12 +1,18 @@
 ---
-nid: 1819
 title: iLAB Fellowship Award
-path: public/static/notes/liz/4-27-2012/ilab-fellowship-award.md
+tagnames: balloon-mapping, kite-mapping, ilab
+author: liz
+path: /notes/liz/4-27-2012/ilab-fellowship-award.md
+nid: 1819
 uid: 7
-tagnames: balloon-mapping,kite-mapping,ilab
+
 ---
 
 # iLAB Fellowship Award
+
+by [liz](../profile/liz) April 27, 2012 18:17
+
+April 27, 2012 18:17 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [ilab](../tag/ilab)
 
 Jessica Einhorn, Lailye Wiedman, and Liz Barry were awarded one of two iLAB fellowships for 2012 for their collaboration "HigherED (Ecology + Dance)". Announcement <a href="http://ilandsymposium.wordpress.com/ilab-residencies/2012-ilab-residents/">here:http://ilandsymposium.wordpress.com/ilab-residencies/2012-ilab-residents/</a>. Keep an eye out for the summer workshop series entitled "Lifting Bodies" featuring the design of hybrid floating/flying structures and embodied research practices. 
 

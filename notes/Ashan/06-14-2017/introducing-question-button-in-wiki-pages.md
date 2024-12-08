@@ -1,12 +1,18 @@
 ---
-nid: 14536
 title: Introducing Question Button in Wiki Pages
-path: public/static/notes/Ashan/06-14-2017/introducing-question-button-in-wiki-pages.md
+tagnames: website, gsoc, demo, rich-wikis, gsoc-2017, soc, soc-2017, questions
+author: Ashan
+path: /notes/Ashan/06-14-2017/introducing-question-button-in-wiki-pages.md
+nid: 14536
 uid: 502016
-tagnames: website,gsoc,demo,rich-wikis,gsoc-2017,soc,soc-2017,questions
+
 ---
 
 # Introducing Question Button in Wiki Pages
+
+by [Ashan](../profile/Ashan) June 14, 2017 09:49
+
+June 14, 2017 09:49 | Tags: [website](../tag/website), [gsoc](../tag/gsoc), [demo](../tag/demo), [rich-wikis](../tag/rich-wikis), [gsoc-2017](../tag/gsoc-2017), [soc](../tag/soc), [soc-2017](../tag/soc-2017), [questions](../tag/questions)
 
 ### What is this feature
 In PublicLab wiki pages are used very often to collect information, do documentations, to give instructions on projects and etc. Under my gsoc project I'm trying to make wiki pages more interactive. One step for that is to give wiki readers ability to ask questions easily regarding the wiki. Follow I describe how you can test it and hope you could give me some feedback.

@@ -1,12 +1,18 @@
 ---
-nid: 10081
 title: Gowanus Canal and Newtown Creek Project Meetup
-path: public/static/notes/bronwen/02-28-2014/gowanus-canal-and-newtown-creek-project-meetup.md
-uid: 237313
 tagnames: nyc
+author: Bronwen
+path: /notes/bronwen/02-28-2014/gowanus-canal-and-newtown-creek-project-meetup.md
+nid: 10081
+uid: 237313
+
 ---
 
 # Gowanus Canal and Newtown Creek Project Meetup
+
+by [Bronwen](../profile/Bronwen) February 28, 2014 13:06
+
+February 28, 2014 13:06 | Tags: [nyc](../tag/nyc)
 
 (above photo courtesy Liz )
 

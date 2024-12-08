@@ -1,6 +1,6 @@
 # rokkaku
 
-4 notes and wiki pages
+4 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [The Squid and the Rok](/notes/cfastie/07-03-2017/the-squid-and-the-rok) by [cfastie](../profile/cfastie)
 - [Winds aloft](/notes/cfastie/08-03-2017/winds-aloft) by [cfastie](../profile/cfastie)

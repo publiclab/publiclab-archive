@@ -1,12 +1,18 @@
 ---
-nid: 10159
 title: Estimating Volume and Weight of Petroleum Waste Piles in Southeast Chicago
-path: public/static/notes/Holden/03-11-2014/estimating-volume-and-weight-of-petroleum-waste-piles-in-southeast-chicago.md
+tagnames: balloon-mapping, landfill, waste, petcoke, petroleum-coke, chicago, response:9977, volume, midwest, first-time-poster
+author: holden
+path: /notes/Holden/03-11-2014/estimating-volume-and-weight-of-petroleum-waste-piles-in-southeast-chicago.md
+nid: 10159
 uid: 170164
-tagnames: balloon-mapping,landfill,waste,petcoke,petroleum-coke,chicago,response:9977,volume,midwest,first-time-poster
+
 ---
 
 # Estimating Volume and Weight of Petroleum Waste Piles in Southeast Chicago
+
+by [holden](../profile/holden) March 11, 2014 17:42
+
+March 11, 2014 17:42 | Tags: [balloon-mapping](../tag/balloon-mapping), [landfill](../tag/landfill), [waste](../tag/waste), [petcoke](../tag/petcoke), [petroleum-coke](../tag/petroleum-coke), [chicago](../tag/chicago), [response:9977](../tag/response:9977), [volume](../tag/volume), [midwest](../tag/midwest), [first-time-poster](../tag/first-time-poster)
 
 This is an updated version of [this research note](http://publiclab.org/notes/Sara/01-24-2014/methods-of-estimating-the-volume-and-weight-of-waste-piles-through-balloon-mapping) describing similar methods that Sara Wylie and myself developed. This research note will be specific to an upcoming project in Southeast Chicago in March. For more information on the project and/or issues in Southeast Chicago, check out the [Chicago Wiki page](http://publiclab.org/wiki/chicago).
 

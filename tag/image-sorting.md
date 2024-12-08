@@ -1,6 +1,6 @@
 # image-sorting
 
-10 notes and wiki pages
+10 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Efficiently sort images with Finder & Preview (Mac)](/notes/mathew/1-30-2012/efficient-image-sorting-finder-preview-mac) by [mathew](../profile/mathew)
 - [Analytics on aerial images -- using filesize](/notes/warren/6-20-2012/analytics-aerial-images-using-filesize) by [warren](../profile/warren)

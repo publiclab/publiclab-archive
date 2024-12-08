@@ -1,12 +1,18 @@
 ---
-nid: 11019
 title: MapKnitter Annotations: Interface Refactoring
-path: public/static/notes/justinmanley/08-06-2014/mapknitter-annotations-interface-refactoring.md
+tagnames: balloon-mapping, mapknitter, software, gsoc, gsoc-2014
+author: justinmanley
+path: /notes/justinmanley/08-06-2014/mapknitter-annotations-interface-refactoring.md
+nid: 11019
 uid: 421556
-tagnames: balloon-mapping,mapknitter,software,gsoc,gsoc-2014
+
 ---
 
 # MapKnitter Annotations: Interface Refactoring
+
+by [justinmanley](../profile/justinmanley) August 06, 2014 20:03
+
+August 06, 2014 20:03 | Tags: [balloon-mapping](../tag/balloon-mapping), [mapknitter](../tag/mapknitter), [software](../tag/software), [gsoc](../tag/gsoc), [gsoc-2014](../tag/gsoc-2014)
 
 ### Background ###
 

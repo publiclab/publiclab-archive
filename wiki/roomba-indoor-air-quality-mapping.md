@@ -1,12 +1,18 @@
 ---
-nid: 409
 title: Roomba indoor air quality mapping
-path: public/static/wiki/roomba-indoor-air-quality-mapping.md
+tagnames: dust, roomba, air-quality-projects
+author: warren
+path: /wiki/roomba-indoor-air-quality-mapping.md
+nid: 409
 uid: 1
-tagnames: dust,roomba,air-quality-projects
+
 ---
 
 # Roomba indoor air quality mapping
+
+by [warren](../profile/warren)
+
+July 23, 2011 14:01 | Tags: [dust](../tag/dust), [roomba](../tag/roomba), [air-quality-projects](../tag/air-quality-projects)
 
 ##Experiment 1:##
 

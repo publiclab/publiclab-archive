@@ -1,12 +1,18 @@
 ---
-nid: 173
 title: Mon April 18 2011 Agenda
-path: public/static/wiki/mon-april-18-2011-agenda.md
-uid: 1
 tagnames: 
+author: warren
+path: /wiki/mon-april-18-2011-agenda.md
+nid: 173
+uid: 1
+
 ---
 
 # Mon April 18 2011 Agenda
+
+by [warren](../profile/warren), [mathew](../profile/mathew), [gonzoearth](../profile/gonzoearth), [Shannon](../profile/Shannon)
+
+April 15, 2011 15:19 | Tags: 
 
 
 Notes on the actual meeting [can be found here](https://docs.google.com/document/d/1In3jsRS7GqEs2sfbUpx_dStPfZpOQglSxUAu-FP5QJY/edit?hl=en#)

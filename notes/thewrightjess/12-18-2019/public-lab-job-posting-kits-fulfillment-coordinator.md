@@ -1,12 +1,18 @@
 ---
-nid: 21795
 title: Public Lab Job Posting: Kits Fulfillment Coordinator
-path: public/static/notes/thewrightjess/12-18-2019/public-lab-job-posting-kits-fulfillment-coordinator.md
+tagnames: kits, nonprofit, jobs, fulfillment, kitsinitiative, lat:29.964621, lon:-90.046398
+author: thewrightjess
+path: /notes/thewrightjess/12-18-2019/public-lab-job-posting-kits-fulfillment-coordinator.md
+nid: 21795
 uid: 603909
-tagnames: kits,nonprofit,jobs,fulfillment,kitsinitiative,lat:29.964621,lon:-90.046398
+
 ---
 
 # Public Lab Job Posting: Kits Fulfillment Coordinator
+
+by [thewrightjess](../profile/thewrightjess) December 18, 2019 15:31
+
+December 18, 2019 15:31 | Tags: [kits](../tag/kits), [nonprofit](../tag/nonprofit), [jobs](../tag/jobs), [fulfillment](../tag/fulfillment), [kitsinitiative](../tag/kitsinitiative), [lat:29.964621](../tag/lat:29.964621), [lon:-90.046398](../tag/lon:-90.046398)
 
 ## About Public Lab
 

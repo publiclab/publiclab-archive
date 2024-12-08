@@ -1,12 +1,18 @@
 ---
-nid: 12761
 title: Procedure for separation of 10W40 motor oil
-path: public/static/notes/dhaffnersr/02-29-2016/procedure-for-separation-of-10w40-motor-oil.md
-uid: 461120
 tagnames: 
+author: dhaffnersr
+path: /notes/dhaffnersr/02-29-2016/procedure-for-separation-of-10w40-motor-oil.md
+nid: 12761
+uid: 461120
+
 ---
 
 # Procedure for separation of 10W40 motor oil
+
+by [dhaffnersr](../profile/dhaffnersr) February 29, 2016 21:22
+
+February 29, 2016 21:22 | Tags: 
 
 Below are the steps I took in preparing my sample of 10w40 motor oil:
 

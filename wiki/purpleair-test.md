@@ -1,12 +1,18 @@
 ---
-nid: 22427
 title: PurpleAir Test
-path: public/static/wiki/purpleair-test.md
-uid: 1
 tagnames: 
+author: warren
+path: /wiki/purpleair-test.md
+nid: 22427
+uid: 1
+
 ---
 
 # PurpleAir Test
+
+by [warren](../profile/warren)
+
+January 29, 2020 15:32 | Tags: 
 
 <br style="padding-bottom:100px;">
 

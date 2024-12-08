@@ -1,12 +1,18 @@
 ---
-nid: 12766
 title: Riffle Beta
-path: public/static/wiki/riffle-beta.md
-uid: 7
 tagnames: parent:riffle
+author: liz
+path: /wiki/riffle-beta.md
+nid: 12766
+uid: 7
+
 ---
 
 # Riffle Beta
+
+by [liz](../profile/liz), [mathew](../profile/mathew)
+
+March 01, 2016 19:08 | Tags: [parent:riffle](../tag/parent:riffle)
 
 <div class="alert">This page is under development March 2016.</div>
 

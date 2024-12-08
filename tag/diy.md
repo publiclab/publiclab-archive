@@ -1,6 +1,6 @@
 # diy
 
-41 notes and wiki pages
+41 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Initiative summary](/notes/cindyexcites/8-3-2012/initiative-summary) by [cindy_excites](../profile/cindy_excites)
 - [Aims of initiative](/notes/cindyexcites/8-3-2012/aims-initiative) by [cindy_excites](../profile/cindy_excites)
@@ -34,12 +34,7 @@
 - [Where can I find the instructions?](/notes/jpater/12-31-2018/where-can-i-find-the-instructions) by [jpater](../profile/jpater)
 - [What kinds of environmental tools or hardware do you want explore (or invent) at Barnraising?](/notes/Bronwen/02-06-2019/what-kinds-of-environmental-tools-or-hardware-do-you-want-explore-or-invent-at-barnraising) by [Bronwen](../profile/Bronwen)
 - [BabyLegs KS](/wiki/babylegs-ks) (wiki)
-- [Build N number of project with Stem:Bit - The programmable blocks kit for micro:bit](/notes/sbcomponentsuk/08-19-2019/build-n-number-of-project-with-stem-bit-the-programmable-blocks-kit-for-micro-bit) by [sbcomponentsuk](../profile/sbcomponentsuk)
 - [How to Build a Bucket Air Monitor](/notes/kgradow1/11-08-2020/how-to-build-a-bucket-air-monitor) by [kgradow1](../profile/kgradow1)
 - [First Time Build: The Bucket Air Quality Monitor](/notes/a1ahna/03-29-2021/first-time-build-the-bucket-air-quality-monitor) by [a1ahna](../profile/a1ahna)
-- [5 REASONS WHY MOST DIY REPAINTING FAILS](/notes/painters16/04-08-2021/5-reasons-why-most-diy-repainting-fails) by [painters16](../profile/painters16)
 - [[Talk Recording] Mobilizing People to Act on Air Pollution with the Bucket Air Monitor - a Community Science Tool](/notes/amocorro/05-12-2021/talk-recording-mobilizing-people-to-act-on-air-pollution-with-the-bucket-air-monitor-a-community-science-tool) by [amocorro](../profile/amocorro)
 - [Seeking for bioindicator protozoans with the DIY microscope](/notes/alejobonifacio/07-27-2022/seeking-for-bioindicator-protozoans-with-the-diy-microscope) by [alejobonifacio](../profile/alejobonifacio)
-- [How To Mix Bpc 157 - BPC-157 Dosage Calculator and Chart | A-Z Guide - Peptides](/notes/biogradnexslern1975/12-10-2023/how-to-mix-bpc-157-bpc-157-dosage-calculator-and-chart-a-z-guide-peptides) by [biogradnexslern1975](../profile/biogradnexslern1975)
-- [Bpc 157 5Mg Reconstitution - How to Properly Mix, Measure, and Store Peptides - Paradigm Peptides](/notes/lilasdococ1975/01-02-2024/bpc-157-5mg-reconstitution-how-to-properly-mix-measure-and-store-peptides-paradigm-peptides) by [lilasdococ1975](../profile/lilasdococ1975)
-- [Cut Wig Into Blunt Bob - Diy Blunt Bob Cut | How to Cut a Wig Into a Bob in Two Simple Steps .  (Discount Code: 45lfxQFz)](/notes/boxrilyngfun1985/05-05-2024/cut-wig-into-blunt-bob-diy-blunt-bob-cut-how-to-cut-a-wig-into-a-bob-in-two-simple-steps-discount-code-45lfxqfz) by [boxrilyngfun1985](../profile/boxrilyngfun1985)

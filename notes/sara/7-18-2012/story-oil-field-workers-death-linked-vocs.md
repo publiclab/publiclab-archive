@@ -1,12 +1,18 @@
 ---
-nid: 2864
 title: Story Of Oil Field Worker's Death linked to VOCs
-path: public/static/notes/sara/7-18-2012/story-oil-field-workers-death-linked-vocs.md
-uid: 8
 tagnames: hydrogen-sulfide-sensing
+author: sara
+path: /notes/sara/7-18-2012/story-oil-field-workers-death-linked-vocs.md
+nid: 2864
+uid: 8
+
 ---
 
 # Story Of Oil Field Worker's Death linked to VOCs
+
+by [sara](../profile/sara) July 18, 2012 15:39
+
+July 18, 2012 15:39 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing)
 
 Lacey Bergsing left this story as comment to <a href="http://www.texassharon.com/2012/07/06/deadly-flowback-vapors-killed-21-year-old-montana-man/">TXSharon's Blog</a> about the death of her fiancee <a href="http://bismarcktribune.com/bakken/hydrocarbon-poisoning-blamed-for-n-d-oil-worker-death/article_71b31cc6-c716-11e1-88e1-001a4bcf887a.html">due to exposure to hydrocarbon fumes</a>. Dustin Bergsing was a Marathon employee working in flowback operations. He was working 24 hour shifts alone when he died:
 

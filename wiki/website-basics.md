@@ -1,12 +1,18 @@
 ---
-nid: 15264
 title: Website Basics
-path: public/static/wiki/website-basics.md
+tagnames: website, introduction, newcomers, basics, parent:website
+author: warren
+path: /wiki/website-basics.md
+nid: 15264
 uid: 1
-tagnames: website,introduction,newcomers,basics,parent:website
+
 ---
 
 # Website Basics
+
+by [laurel_mire](../profile/laurel_mire), [liz](../profile/liz), [warren](../profile/warren)
+
+November 29, 2017 16:16 | Tags: [website](../tag/website), [introduction](../tag/introduction), [newcomers](../tag/newcomers), [basics](../tag/basics), [parent:website](../tag/parent:website)
 
 This page collects some basic introduction and guidance to using the Public Lab website. There are many ways to use the site, but this page focuses on supporting newcomers.
 

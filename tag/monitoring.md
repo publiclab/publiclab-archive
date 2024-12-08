@@ -1,6 +1,6 @@
 # monitoring
 
-37 notes and wiki pages
+37 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Kite Photo of Ongoing Coal Pollution in Plaquemines Parish, LA](/notes/eustatic/05-28-2013/kite-photos-of-ongoing-coal-pollution-in-plaquemines-parish-la) by [eustatic](../profile/eustatic)
 - [The Open Water Project: FAQ](/notes/kanarinka/04-15-2014/the-open-water-project-faq) by [kanarinka](../profile/kanarinka)
@@ -33,9 +33,6 @@
 - [NDVI Drone Mapping Research](/notes/ektopyrotic/06-04-2020/ndvi-drone-mapping-research) by [ektopyrotic](../profile/ektopyrotic)
 - [Learning for Justice in a Climate Changing World ](/notes/amocorro/06-23-2020/learning-for-justice-in-a-climate-changing-world) by [amocorro](../profile/amocorro)
 - [Image + Video Segmentation in Near-Infrared Using HSV Color Spaces with OpenCV in Python](/notes/ektopyrotic/10-03-2020/image-video-segmentation-in-near-infrared-using-hsv-color-spaces-with-opencv-in-python) by [ektopyrotic](../profile/ektopyrotic)
-- [[![view_tech_cover.jpg](/i/43313)](/i/43313?s=o)[Viewtech](https://www.viewtech.ca) are Specialists in installing CCTV Security Cameras, Automation, Intercom and Low Voltage Systems for both Residential and Commercial Sector.[https://www.viewtech.ca](http](/notes/brownamelia137/04-15-2021/view_tech_cover-jpg-i-43313-i-43313-s-o-viewtech-https-www-viewtech-ca-are-specialists-in-installing-cctv-security-cameras-automation-intercom-and-low-voltage-systems-for-both-residential-and-commercial-sector-https-www-vi) by [brownamelia137](../profile/brownamelia137)
 - [Seeking Technical Air Quality Fellow](/notes/stevie/10-19-2021/seeking-technical-air-quality-fellow) by [stevie](../profile/stevie)
-- [Tunnel Monitoring: Advanced Survey and Monitoring Sensors](/notes/encardio/11-26-2021/tunnel-monitoring-advanced-survey-and-monitoring-sensors) by [encardio](../profile/encardio)
 - [Looking for recommendations of how to obtain air quality samples around a fracked gas compressor station](/notes/SBucic/07-11-2022/looking-for-recommendations-of-how-to-obtain-air-quality-samples-around-a-fracked-gas-compressor-station) by [SBucic](../profile/SBucic)
-- [Tracking software](/notes/philipphillips578/08-08-2022/tracking-software) by [philipphillips578](../profile/philipphillips578)
 - [Learn Do-It-Yourself Electronics for Environmental Monitoring at the Stroud Center](/notes/StroudCenterScott/06-26-2024/learn-do-it-yourself-electronics-for-environmental-monitoring-at-the-stroud-center) by [StroudCenterScott](../profile/StroudCenterScott)

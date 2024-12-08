@@ -1,12 +1,18 @@
 ---
-nid: 11017
 title: Using the infragram webcam in Linux
-path: public/static/notes/jarrarte/08-06-2014/using-the-infragram-webcam-in-linux.md
+tagnames: webcam, infragram, linux, v4l2, uvc, first-time-poster
+author: jarrarte
+path: /notes/jarrarte/08-06-2014/using-the-infragram-webcam-in-linux.md
+nid: 11017
 uid: 425714
-tagnames: webcam,infragram,linux,v4l2,uvc,first-time-poster
+
 ---
 
 # Using the infragram webcam in Linux
+
+by [jarrarte](../profile/jarrarte) August 06, 2014 14:19
+
+August 06, 2014 14:19 | Tags: [webcam](../tag/webcam), [infragram](../tag/infragram), [linux](../tag/linux), [v4l2](../tag/v4l2), [uvc](../tag/uvc), [first-time-poster](../tag/first-time-poster)
 
 ###What I want to do
 I want to use the infragram webcam ([link](store.publiclab.org/products/infragram-webcam)) with a Linux Mint or Ubuntu notebook. I'm also testing it in a Beaglebone Black with a Debian system.

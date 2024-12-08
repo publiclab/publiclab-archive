@@ -1,12 +1,18 @@
 ---
-nid: 19880
 title: Opencv.js for blob detection in microscopic images
-path: public/static/notes/aashnaaashna/06-26-2019/opencv-js-for-blob-detection-in-microscopic-images.md
+tagnames: dust, pm, particle, javascript, opencv, image-sequencer, particle-imaging, particle-analysis, blob-detection, opencv.js, object-marking, particle-detection
+author: aashnaaashna
+path: /notes/aashnaaashna/06-26-2019/opencv-js-for-blob-detection-in-microscopic-images.md
+nid: 19880
 uid: 553271
-tagnames: dust,pm,particle,javascript,opencv,image-sequencer,particle-imaging,particle-analysis,blob-detection,opencv.js,object-marking,particle-detection
+
 ---
 
 # Opencv.js for blob detection in microscopic images
+
+by [aashnaaashna](../profile/aashnaaashna) June 26, 2019 21:39
+
+June 26, 2019 21:39 | Tags: [dust](../tag/dust), [pm](../tag/pm), [particle](../tag/particle), [javascript](../tag/javascript), [opencv](../tag/opencv), [image-sequencer](../tag/image-sequencer), [particle-imaging](../tag/particle-imaging), [particle-analysis](../tag/particle-analysis), [blob-detection](../tag/blob-detection), [opencv.js](../tag/opencv.js), [object-marking](../tag/object-marking), [particle-detection](../tag/particle-detection)
 
 This is a procedural guide for using Opencv.js for blob detection in microscopic images. Opencv.js provides javascript bindings for opencv, bringing the powerful image processing operations to javascripts. It can be embedded using a script tag and it is ready for use!![image description](/i/33257.png "scriopt.png")
 

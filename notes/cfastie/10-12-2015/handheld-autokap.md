@@ -1,12 +1,18 @@
 ---
-nid: 12289
 title: Handheld AutoKAP
-path: public/static/notes/cfastie/10-12-2015/handheld-autokap.md
+tagnames: vermont, leaffest, saturnv, skyshield, leaffest2015, leaffester, doccom, response:12288
+author: cfastie
+path: /notes/cfastie/10-12-2015/handheld-autokap.md
+nid: 12289
 uid: 554
-tagnames: vermont,leaffest,saturnv,skyshield,leaffest2015,leaffester,doccom,response:12288
+
 ---
 
 # Handheld AutoKAP
+
+by [cfastie](../profile/cfastie) October 12, 2015 00:20
+
+October 12, 2015 00:20 | Tags: [vermont](../tag/vermont), [leaffest](../tag/leaffest), [saturnv](../tag/saturnv), [skyshield](../tag/skyshield), [leaffest2015](../tag/leaffest2015), [leaffester](../tag/leaffester), [doccom](../tag/doccom), [response:12288](../tag/response:12288)
 
 *Above: Flying the Fled at LEAFFEST. A field reporter for the [LEAFFESTer](http://publiclab.org/notes/warren/10-11-2015/leaffest-2015-day-one-in-photos) captured this moment on Saturday as the Fled kite struggled to fly with the soaring hawk and Don struggled to get the deer poop off of his hand.*  
 

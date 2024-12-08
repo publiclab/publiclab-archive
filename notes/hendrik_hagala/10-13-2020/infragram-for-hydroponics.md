@@ -1,12 +1,18 @@
 ---
-nid: 24745
 title: Infragram for Hydroponics
-path: public/static/notes/hendrik_hagala/10-13-2020/infragram-for-hydroponics.md
+tagnames: first-time-poster, zoom:6, lat:8.537981, lon:-80.782127
+author: hendrik_hagala
+path: /notes/hendrik_hagala/10-13-2020/infragram-for-hydroponics.md
+nid: 24745
 uid: 726020
-tagnames: first-time-poster,zoom:6,lat:8.537981,lon:-80.782127
+
 ---
 
 # Infragram for Hydroponics
+
+by [hendrik_hagala](../profile/hendrik_hagala) October 13, 2020 15:24
+
+October 13, 2020 15:24 | Tags: [first-time-poster](../tag/first-time-poster), [zoom:6](../tag/zoom:6), [lat:8.537981](../tag/lat:8.537981), [lon:-80.782127](../tag/lon:-80.782127)
 
 Hello everyone,
 

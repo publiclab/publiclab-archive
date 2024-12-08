@@ -1,12 +1,18 @@
 ---
-nid: 12886
 title: Internationalize Public Lab : GSoC 2016
-path: public/static/notes/sudheesh001/03-25-2016/internationalize-public-lab-gsoc-2016.md
+tagnames: software, gsoc, coding, hidden:response, gsoc-2016, gsoc-2016-proposals, response:12827
+author: sudheesh001
+path: /notes/sudheesh001/03-25-2016/internationalize-public-lab-gsoc-2016.md
+nid: 12886
 uid: 468998
-tagnames: software,gsoc,coding,hidden:response,gsoc-2016,gsoc-2016-proposals,response:12827
+
 ---
 
 # Internationalize Public Lab : GSoC 2016
+
+by [sudheesh001](../profile/sudheesh001) March 25, 2016 06:34
+
+March 25, 2016 06:34 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [coding](../tag/coding), [hidden:response](../tag/hidden:response), [gsoc-2016](../tag/gsoc-2016), [gsoc-2016-proposals](../tag/gsoc-2016-proposals), [response:12827](../tag/response:12827)
 
 **Name**: Sudheesh Singanamalla
 

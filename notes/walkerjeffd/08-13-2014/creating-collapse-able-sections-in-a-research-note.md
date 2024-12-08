@@ -1,12 +1,18 @@
 ---
-nid: 11044
 title: Creating Collapse-able Sections in a Research Note
-path: public/static/notes/walkerjeffd/08-13-2014/creating-collapse-able-sections-in-a-research-note.md
+tagnames: website, markdown, publishing, formatting, research-notes, ui
+author: walkerjeffd
+path: /notes/walkerjeffd/08-13-2014/creating-collapse-able-sections-in-a-research-note.md
+nid: 11044
 uid: 422528
-tagnames: website,markdown,publishing,formatting,research-notes,ui
+
 ---
 
 # Creating Collapse-able Sections in a Research Note
+
+by [walkerjeffd](../profile/walkerjeffd) August 13, 2014 17:43
+
+August 13, 2014 17:43 | Tags: [website](../tag/website), [markdown](../tag/markdown), [publishing](../tag/publishing), [formatting](../tag/formatting), [research-notes](../tag/research-notes), [ui](../tag/ui)
 
 ###What I want to do
 

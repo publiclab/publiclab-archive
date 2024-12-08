@@ -1,12 +1,18 @@
 ---
-nid: 15300
 title: Noise when Trying to Analyze Spectrum
-path: public/static/notes/matthart610/12-05-2017/noise-when-trying-to-analyze-spectrum.md
+tagnames: spectrometer, spectralworkbench, export, question:spectrometry, graph, question:foldable-spec
+author: matthart610
+path: /notes/matthart610/12-05-2017/noise-when-trying-to-analyze-spectrum.md
+nid: 15300
 uid: 519570
-tagnames: spectrometer,spectralworkbench,export,question:spectrometry,graph,question:foldable-spec
+
 ---
 
 # Noise when Trying to Analyze Spectrum
+
+by [matthart610](../profile/matthart610) December 05, 2017 02:42
+
+December 05, 2017 02:42 | Tags: [spectrometer](../tag/spectrometer), [spectralworkbench](../tag/spectralworkbench), [export](../tag/export), [question:spectrometry](../tag/question:spectrometry), [graph](../tag/graph), [question:foldable-spec](../tag/question:foldable-spec)
 
 This is my first time trying to use this and the images I had taken from my phone of the diffraction pattern show only noise levels when looking at the intensity vs. wavelength? Any suggestions? Is the slit too big, do I need a better camera, is there possible excess light bleeding in?
 

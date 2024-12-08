@@ -1,12 +1,18 @@
 ---
-nid: 24714
 title: (Towards) AI-Assisted Water Testing - Instructions
-path: public/static/notes/jrmc502/10-07-2020/towards-ai-assisted-water-testing-instructions.md
-uid: 705531
 tagnames: first-time-poster
+author: jrmc502
+path: /notes/jrmc502/10-07-2020/towards-ai-assisted-water-testing-instructions.md
+nid: 24714
+uid: 705531
+
 ---
 
 # (Towards) AI-Assisted Water Testing - Instructions
+
+by [jrmc502](../profile/jrmc502) October 07, 2020 19:24
+
+October 07, 2020 19:24 | Tags: [first-time-poster](../tag/first-time-poster)
 
 #### 
 

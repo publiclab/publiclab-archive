@@ -1,12 +1,18 @@
 ---
-nid: 10994
 title: exposure settings to balloon mapping
-path: public/static/notes/mjain26/07-29-2014/exposure-settings-to-balloon-mapping.md
+tagnames: balloon-mapping, troubleshooting, chicago, civiclab, civic-lab, exposure
+author: mjain26
+path: /notes/mjain26/07-29-2014/exposure-settings-to-balloon-mapping.md
+nid: 10994
 uid: 424870
-tagnames: balloon-mapping,troubleshooting,chicago,civiclab,civic-lab,exposure
+
 ---
 
 # exposure settings to balloon mapping
+
+by [mjain26](../profile/mjain26) July 29, 2014 19:51
+
+July 29, 2014 19:51 | Tags: [balloon-mapping](../tag/balloon-mapping), [troubleshooting](../tag/troubleshooting), [chicago](../tag/chicago), [civiclab](../tag/civiclab), [civic-lab](../tag/civic-lab), [exposure](../tag/exposure)
 
 ###Details about the problem
 When conducting my [youth balloon mapping workshop](http://publiclab.org/notes/mjain26/07-28-2014/youth-balloon-mapping-workshop-complete), I ran into the issue of the images being overexposed. So I played around with my camera, and along with the help of the Public Lab community, I reached a solution....

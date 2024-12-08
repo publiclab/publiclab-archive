@@ -1,12 +1,18 @@
 ---
-nid: 13943
 title: EPA Method 9: Visual Determination of the Opacity of Emissions from Stationary Sources
-path: public/static/notes/gretchengehrke/02-21-2017/epa-method-9-visual-determination-of-the-opacity-of-emissions-from-stationary-sources.md
+tagnames: epa, emissions, dust, pm, barnstar:basic, pm-monitoring, method-9, 21, activity:observation, activity:monitor, opacity, activity:site-survey, stationary-sources
+author: gretchengehrke
+path: /notes/gretchengehrke/02-21-2017/epa-method-9-visual-determination-of-the-opacity-of-emissions-from-stationary-sources.md
+nid: 13943
 uid: 430549
-tagnames: epa,emissions,dust,pm,barnstar:basic,pm-monitoring,method-9,21,activity:observation,activity:monitor,opacity,activity:site-survey,stationary-sources
+
 ---
 
 # EPA Method 9: Visual Determination of the Opacity of Emissions from Stationary Sources
+
+by [gretchengehrke](../profile/gretchengehrke) February 21, 2017 22:26
+
+February 21, 2017 22:26 | Tags: [epa](../tag/epa), [emissions](../tag/emissions), [dust](../tag/dust), [pm](../tag/pm), [barnstar:basic](../tag/barnstar:basic), [pm-monitoring](../tag/pm-monitoring), [method-9](../tag/method-9), [21](../tag/21), [activity:observation](../tag/activity:observation), [activity:monitor](../tag/activity:monitor), [opacity](../tag/opacity), [activity:site-survey](../tag/activity:site-survey), [stationary-sources](../tag/stationary-sources)
 
 ## Purpose
 This is a step by step guide to to assess the opacity of emissions, using EPA’s Method 9 “Visual Determination of the Opacity of Emissions from Stationary Sources.” Stationary emissions sources, such as industrial facilities with smokestacks, are subject to federal and state emissions opacity limits, meaning there are limits to the thickness of emissions they can release. Federal opacity limits are included in the [Code of Federal Regulations, Title 40, Chapter 1 part 60, 61, and 62 (40 CFR Part 60)](http://www.ecfr.gov/cgi-bin/text-idx?tpl=/ecfrbrowse/Title40/40cfr60_main_02.tpl), and state opacity limits can be found in that state’s administrative codes for air pollution or in their state implementation plan (SIP), available on the relevant EPA region’s website.  

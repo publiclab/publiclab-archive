@@ -1,6 +1,6 @@
 # desktop-spectrometry-kit
 
-19 notes and wiki pages
+19 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Sanm camera board for spectrometer kit](/notes/mathew/3-18-2013/sanm-camera-board-spectrometer-kit) by [mathew](../profile/mathew)
 - [Spectrometer focus](/notes/stoft/05-03-2013/spectrometer-focus) by [stoft](../profile/stoft)
@@ -18,6 +18,5 @@
 - [Document your hardware upgrades at Parts & Crafts Documentation Days - Oct 12 & 19](/notes/warren/09-27-2016/document-your-hardware-upgrades-at-parts-crafts-documentation-days-oct-12-19) by [warren](../profile/warren)
 - [Desktop Spectrometry Starter Kit 3.0 Assembly Instructions](/notes/abdul/10-13-2016/desktop-spectrometry-starter-kit-3-0-instructions) by [abdul](../profile/abdul)
 - [Laser-cut the Desktop Spectrometry Kit v3 box](/notes/warren/02-15-2017/laser-cut-the-desktop-spectrometry-kit-v3-box) by [warren](../profile/warren)
-- [Check this inspirational list out! ](/notes/Kaikosog/05-18-2017/check-this-inspirational-list-out) by [Kaikosog](../profile/Kaikosog)
 - [Dark images, can't get spectrometer to work](/notes/Tomas0413/06-16-2018/dark-images-can-t-get-spectrometer-to-work) by [Tomas0413](../profile/Tomas0413)
 - [alternatives to CFL for calibration? ](/notes/carmatic/02-24-2021/alternatives-to-cfl-for-calibration) by [carmatic](../profile/carmatic)

@@ -1,12 +1,18 @@
 ---
-nid: 9987
 title: Summary of discussion about Sensor Journalism
-path: public/static/wiki/summary-of-discussion-about-sensor-journalism.md
+tagnames: journalism, sensor-journalism, parent:journalism
+author: bodacea
+path: /wiki/summary-of-discussion-about-sensor-journalism.md
+nid: 9987
 uid: 648
-tagnames: journalism,sensor-journalism,parent:journalism
+
 ---
 
 # Summary of discussion about Sensor Journalism
+
+by [natalie](../profile/natalie), [bodacea](../profile/bodacea)
+
+January 29, 2014 20:16 | Tags: [journalism](../tag/journalism), [sensor-journalism](../tag/sensor-journalism), [parent:journalism](../tag/parent:journalism)
 
 Discussion in the newsgroup about journalists using sensors. 
 

@@ -1,12 +1,18 @@
 ---
-nid: 10590
 title: ottawa/homemade-spectrophotometer
-path: public/static/wiki/ottawa-homemade-spectrophotometer.md
+tagnames: spectrometer, spectrophotometer, guide, parent:spectrometer, first-time-poster
+author: Haripriya
+path: /wiki/ottawa-homemade-spectrophotometer.md
+nid: 10590
 uid: 421299
-tagnames: spectrometer,spectrophotometer,guide,parent:spectrometer,first-time-poster
+
 ---
 
 # ottawa/homemade-spectrophotometer
+
+by [Haripriya](../profile/Haripriya)
+
+June 19, 2014 14:34 | Tags: [spectrometer](../tag/spectrometer), [spectrophotometer](../tag/spectrophotometer), [guide](../tag/guide), [parent:spectrometer](../tag/parent:spectrometer), [first-time-poster](../tag/first-time-poster)
 
 ##Materials:
 

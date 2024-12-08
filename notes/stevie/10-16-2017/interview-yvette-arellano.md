@@ -1,12 +1,18 @@
 ---
-nid: 15054
 title: Interview: Yvette Arellano
-path: public/static/notes/stevie/10-16-2017/interview-yvette-arellano.md
+tagnames: gulf-coast, interview, blog, grassroots, texas, environmental-justice, community-organizing, interview-series, harvey, houston, tejas, hurricane-harvey, series:community-interviews
+author: stevie
+path: /notes/stevie/10-16-2017/interview-yvette-arellano.md
+nid: 15054
 uid: 422561
-tagnames: gulf-coast,interview,blog,grassroots,texas,environmental-justice,community-organizing,interview-series,harvey,houston,tejas,hurricane-harvey,series:community-interviews
+
 ---
 
 # Interview: Yvette Arellano
+
+by [stevie](../profile/stevie) October 16, 2017 15:27
+
+October 16, 2017 15:27 | Tags: [gulf-coast](../tag/gulf-coast), [interview](../tag/interview), [blog](../tag/blog), [grassroots](../tag/grassroots), [texas](../tag/texas), [environmental-justice](../tag/environmental-justice), [community-organizing](../tag/community-organizing), [interview-series](../tag/interview-series), [harvey](../tag/harvey), [houston](../tag/houston), [tejas](../tag/tejas), [hurricane-harvey](../tag/hurricane-harvey), [series:community-interviews](../tag/series:community-interviews)
 
 _Lead Image from [YES! Magazine](http://www.yesmagazine.org/planet/cop21-meet-five-everyday-people-heading-to-the-paris-climate-talks-20151125)_
 

@@ -1,12 +1,18 @@
 ---
-nid: 8929
 title: Student Survey Results
-path: public/static/notes/msmelody/07-25-2013/student-survey-results.md
+tagnames: new-york-city, cypress-hills, chaq, air-quality, air-quality-egg, first-time-poster
+author: msmelody
+path: /notes/msmelody/07-25-2013/student-survey-results.md
+nid: 8929
 uid: 163752
-tagnames: new-york-city,cypress-hills,chaq,air-quality,air-quality-egg,first-time-poster
+
 ---
 
 # Student Survey Results
+
+by [msmelody](../profile/msmelody) July 25, 2013 22:27
+
+July 25, 2013 22:27 | Tags: [new-york-city](../tag/new-york-city), [cypress-hills](../tag/cypress-hills), [chaq](../tag/chaq), [air-quality](../tag/air-quality), [air-quality-egg](../tag/air-quality-egg), [first-time-poster](../tag/first-time-poster)
 
 We did a quick survey about the air quality of the neighborhood we lived in. 
 

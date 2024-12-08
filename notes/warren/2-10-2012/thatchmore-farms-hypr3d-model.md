@@ -1,12 +1,18 @@
 ---
-nid: 772
 title: Thatchmore farms hypr3d model
-path: public/static/notes/warren/2-10-2012/thatchmore-farms-hypr3d-model.md
-uid: 1
 tagnames: 
+author: warren
+path: /notes/warren/2-10-2012/thatchmore-farms-hypr3d-model.md
+nid: 772
+uid: 1
+
 ---
 
 # Thatchmore farms hypr3d model
+
+by [warren](../profile/warren) February 10, 2012 17:22
+
+February 10, 2012 17:22 | Tags: 
 
 <iframe width="500" height="500" src="http://www.hypr3d.com/models/4f3526e2276cd700010000a3/embedded_viewer"></iframe>
 

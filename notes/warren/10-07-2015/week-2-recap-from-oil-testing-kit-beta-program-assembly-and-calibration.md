@@ -1,12 +1,18 @@
 ---
-nid: 12280
 title: Week 2: recap from Oil Testing Kit Beta Program: Assembly and Calibration
-path: public/static/notes/warren/10-07-2015/week-2-recap-from-oil-testing-kit-beta-program-assembly-and-calibration.md
+tagnames: spectrometer, calibration, oil, fluorescence, oil-testing-kit, oil-testing-kit-beta, response:12257
+author: warren
+path: /notes/warren/10-07-2015/week-2-recap-from-oil-testing-kit-beta-program-assembly-and-calibration.md
+nid: 12280
 uid: 1
-tagnames: spectrometer,calibration,oil,fluorescence,oil-testing-kit,oil-testing-kit-beta,response:12257
+
 ---
 
 # Week 2: recap from Oil Testing Kit Beta Program: Assembly and Calibration
+
+by [warren](../profile/warren) October 07, 2015 18:09
+
+October 07, 2015 18:09 | Tags: [spectrometer](../tag/spectrometer), [calibration](../tag/calibration), [oil](../tag/oil), [fluorescence](../tag/fluorescence), [oil-testing-kit](../tag/oil-testing-kit), [oil-testing-kit-beta](../tag/oil-testing-kit-beta), [response:12257](../tag/response:12257)
 
 Hi, all - welcome to the Week 2 recap; we just wrapped up the weekly chat and some folks are making great progress (thanks for the above image by @Cindy_ExCites!). Thanks to everyone who showed, and for the great posts we've seen in the past week. Remember to stay up to date by reading the Oil Testing Kit blog:
 

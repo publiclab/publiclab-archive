@@ -1,12 +1,18 @@
 ---
-nid: 30179
 title:  Quickly find regulatory violations near you
-path: public/static/notes/liz/03-23-2022/quickly-find-regulatory-violations-near-you.md
+tagnames: epa, regulations, enforcement, edgi, environmental-data, echo, violations, with:a1ahna, public-data, with:lourdesvera
+author: liz
+path: /notes/liz/03-23-2022/quickly-find-regulatory-violations-near-you.md
+nid: 30179
 uid: 7
-tagnames: epa,regulations,enforcement,edgi,environmental-data,echo,violations,with:a1ahna,public-data,with:lourdesvera
+
 ---
 
 #  Quickly find regulatory violations near you
+
+by [liz](../profile/liz) March 23, 2022 19:18
+
+March 23, 2022 19:18 | Tags: [epa](../tag/epa), [regulations](../tag/regulations), [enforcement](../tag/enforcement), [edgi](../tag/edgi), [environmental-data](../tag/environmental-data), [echo](../tag/echo), [violations](../tag/violations), [with:a1ahna](../tag/with:a1ahna), [public-data](../tag/public-data), [with:lourdesvera](../tag/with:lourdesvera)
 
 Ready-to-use reports on how well environmental regs are enforced in every congressional district in the country! Use this website to take the temperature of environmental governance in your local area, and get deets to ratchet up the heat on your local elected officials. 
 

@@ -1,12 +1,18 @@
 ---
-nid: 158
 title: Hydrogen Balloon Mapping
-path: public/static/wiki/hydrogen-balloon-mapping.md
+tagnames: hydrogen, coffee-box, dunkin-donuts, lye, aluminum
+author: warren
+path: /wiki/hydrogen-balloon-mapping.md
+nid: 158
 uid: 1
-tagnames: hydrogen,coffee-box,dunkin-donuts,lye,aluminum
+
 ---
 
 # Hydrogen Balloon Mapping
+
+by [warren](../profile/warren)
+
+April 06, 2011 15:47 | Tags: [hydrogen](../tag/hydrogen), [coffee-box](../tag/coffee-box), [dunkin-donuts](../tag/dunkin-donuts), [lye](../tag/lye), [aluminum](../tag/aluminum)
 
 ##Warning: this is purely experimental, can be dangerous, and we do not recommend you try it##
 

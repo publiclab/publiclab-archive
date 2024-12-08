@@ -1,12 +1,18 @@
 ---
-nid: 21272
 title: Oil and Gas Monitoring Methods Fellow Update: Week 5
-path: public/static/notes/charlotte_clarke/10-23-2019/oil-and-gas-monitoring-methods-fellow-update-week-5.md
+tagnames: gulf-coast, water-quality, oil-and-gas, oil-and-gas-water-trio
+author: charlotte_clarke
+path: /notes/charlotte_clarke/10-23-2019/oil-and-gas-monitoring-methods-fellow-update-week-5.md
+nid: 21272
 uid: 510781
-tagnames: gulf-coast,water-quality,oil-and-gas,oil-and-gas-water-trio
+
 ---
 
 # Oil and Gas Monitoring Methods Fellow Update: Week 5
+
+by [charlotte_clarke](../profile/charlotte_clarke) October 23, 2019 13:36
+
+October 23, 2019 13:36 | Tags: [gulf-coast](../tag/gulf-coast), [water-quality](../tag/water-quality), [oil-and-gas](../tag/oil-and-gas), [oil-and-gas-water-trio](../tag/oil-and-gas-water-trio)
 
 It is week 5, and our work to review and advance information about oil and gas water monitoring is well under way. Here are a few projects that are currently in the works:
 

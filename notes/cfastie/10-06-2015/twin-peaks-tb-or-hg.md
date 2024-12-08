@@ -1,12 +1,18 @@
 ---
-nid: 12270
 title: Twin Peaks, Tb or Hg?
-path: public/static/notes/cfastie/10-06-2015/twin-peaks-tb-or-hg.md
+tagnames: spectrometer, calibration, web-development, cfl, ebert, spectral-workbench, development, coding, response:12258
+author: cfastie
+path: /notes/cfastie/10-06-2015/twin-peaks-tb-or-hg.md
+nid: 12270
 uid: 554
-tagnames: spectrometer,calibration,web-development,cfl,ebert,spectral-workbench,development,coding,response:12258
+
 ---
 
 # Twin Peaks, Tb or Hg?
+
+by [cfastie](../profile/cfastie) October 06, 2015 02:15
+
+October 06, 2015 02:15 | Tags: [spectrometer](../tag/spectrometer), [calibration](../tag/calibration), [web-development](../tag/web-development), [cfl](../tag/cfl), [ebert](../tag/ebert), [spectral-workbench](../tag/spectral-workbench), [development](../tag/development), [coding](../tag/coding), [response:12258](../tag/response:12258)
 
 Jeff is making great improvements to the way you can [calibrate spectra at Spectral Workbench]( http://publiclab.org/notes/warren/09-30-2015/new-wavelength-calibration-procedure-preview-for-spectral-workbench-2-0).  His nice graphical interface uses the image of a well calibrated spectrum of a compact fluorescent lamp, and for that reference image he is using a [spectrum which I made in 2013]( https://spectralworkbench.org/spectrums/4474).  Back then I noticed that this and other CFL spectra I was making [did not match well with the known emission lines]( https://spectralworkbench.org/sets/183) of CFL lamps. So I [corrected this spectrum mathematically]( http://publiclab.org/notes/cfastie/3-6-2013/polynomial) to make it match better. The correction “rubber sheeted” my spectrum data to shift some lines more than others until they fit well with the known reference. 
 

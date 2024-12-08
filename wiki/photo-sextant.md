@@ -1,12 +1,18 @@
 ---
-nid: 1733
 title: Photo Sextant
-path: public/static/wiki/photo-sextant.md
-uid: 1
 tagnames: grassrootsmappingwiki
+author: warren
+path: /wiki/photo-sextant.md
+nid: 1733
+uid: 1
+
 ---
 
 # Photo Sextant
+
+by [warren](../profile/warren)
+
+April 21, 2012 14:49 | Tags: [grassrootsmappingwiki](../tag/grassrootsmappingwiki)
 
 <div markdown='1' style='width:470px;float:right;padding-left:15px;'>![photosextant](http://farm3.static.flickr.com/2488/4169302344_639f35876a_o.png)
 </div>

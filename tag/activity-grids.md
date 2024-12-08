@@ -1,6 +1,6 @@
 # activity-grids
 
-9 notes and wiki pages
+9 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Learn about Activities](/wiki/activities) (wiki)
 - [Power Tags](/wiki/power-tags) (wiki)

@@ -1,6 +1,6 @@
 # trapcam
 
-7 notes and wiki pages
+7 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Capturing location information with trap cam](/notes/tonyc/07-01-2016/capturing-location-information-with-trap-cam) by [tonyc](../profile/tonyc)
 - [Mobius TrapCam Housing](/notes/tonyc/07-01-2016/mobius-trapcam-housing) by [tonyc](../profile/tonyc)

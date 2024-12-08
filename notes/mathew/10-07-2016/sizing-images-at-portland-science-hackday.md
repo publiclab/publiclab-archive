@@ -1,12 +1,18 @@
 ---
-nid: 13533
 title: Sizing particles in microscope images at Portland Science Hackday
-path: public/static/notes/mathew/10-07-2016/sizing-images-at-portland-science-hackday.md
+tagnames: calibration, silica, frac-sand, pm, particles, particle-monitoring, microscope, passive-particle-monitors, passive-pm, parent:frac-sand, pm-monitoring, pm-sensing, microscopes, sizing, particle-imaging
+author: mathew
+path: /notes/mathew/10-07-2016/sizing-images-at-portland-science-hackday.md
+nid: 13533
 uid: 4
-tagnames: calibration,silica,frac-sand,pm,particles,particle-monitoring,microscope,passive-particle-monitors,passive-pm,parent:frac-sand,pm-monitoring,pm-sensing,microscopes,sizing,particle-imaging
+
 ---
 
 # Sizing particles in microscope images at Portland Science Hackday
+
+by [mathew](../profile/mathew) October 07, 2016 19:00
+
+October 07, 2016 19:00 | Tags: [calibration](../tag/calibration), [silica](../tag/silica), [frac-sand](../tag/frac-sand), [pm](../tag/pm), [particles](../tag/particles), [particle-monitoring](../tag/particle-monitoring), [microscope](../tag/microscope), [passive-particle-monitors](../tag/passive-particle-monitors), [passive-pm](../tag/passive-pm), [parent:frac-sand](../tag/parent:frac-sand), [pm-monitoring](../tag/pm-monitoring), [pm-sensing](../tag/pm-sensing), [microscopes](../tag/microscopes), [sizing](../tag/sizing), [particle-imaging](../tag/particle-imaging)
 
 _[Image](https://publiclab.org/notes/SimonPyle/05-13-2016/automating-imagej-for-particle-image-analysis) @SimonPyle_ 
 

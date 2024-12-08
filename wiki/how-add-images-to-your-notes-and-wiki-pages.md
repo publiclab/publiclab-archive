@@ -1,12 +1,18 @@
 ---
-nid: 658
 title: Tips for adding images to your Notes and Wiki pages
-path: public/static/wiki/how-add-images-to-your-notes-and-wiki-pages.md
-uid: 391
 tagnames: 
+author: rjstatic-admin
+path: /wiki/how-add-images-to-your-notes-and-wiki-pages.md
+nid: 658
+uid: 391
+
 ---
 
 # Tips for adding images to your Notes and Wiki pages
+
+by [rjstatic](../profile/rjstatic), [rjstatic-authenticated](../profile/rjstatic-authenticated)
+
+December 22, 2011 19:29 | Tags: 
 
 <style type='text/css'> #content-area h2 { background: #EEE; padding: 10px; border-color: #CCC; border-width: 0 0 0 15px; border-style: solid; margin: 30px 0px 0px 0px;}
 </style>

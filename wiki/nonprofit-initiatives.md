@@ -1,12 +1,18 @@
 ---
-nid: 11675
 title: Nonprofit Initiatives
-path: public/static/wiki/nonprofit-initiatives.md
+tagnames: nonprofit, open-water, open-air, style:fancy, kits-initiative, open-land, out-of-date
+author: Shannon
+path: /wiki/nonprofit-initiatives.md
+nid: 11675
 uid: 9
-tagnames: nonprofit,open-water,open-air,style:fancy,kits-initiative,open-land,out-of-date
+
 ---
 
 # Nonprofit Initiatives
+
+by [nshapiro](../profile/nshapiro), [pdhixenbaugh](../profile/pdhixenbaugh), [warren](../profile/warren), [suzeejain](../profile/suzeejain), [Shannon](../profile/Shannon)
+
+March 13, 2015 14:35 | Tags: [nonprofit](../tag/nonprofit), [open-water](../tag/open-water), [open-air](../tag/open-air), [style:fancy](../tag/style:fancy), [kits-initiative](../tag/kits-initiative), [open-land](../tag/open-land), [out-of-date](../tag/out-of-date)
 
 The Public Lab nonprofit supports specific projects in four topic areas, Open Air, Open Water, Open Land and Civic Kits, in order to enable cohesive community collaboration across hardware, software, expertise, and locale. In each of these topic areas, the Public Lab community is increasing public access to open source data collection tools and techniques, sharing best practices for advocacy, and building networks across the globe. We are working to facilitate easy and powerful ways for people to get involved in environmental investigation in the places we live, work and explore.
 

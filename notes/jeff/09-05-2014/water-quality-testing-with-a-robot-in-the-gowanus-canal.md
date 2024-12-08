@@ -1,12 +1,18 @@
 ---
-nid: 11105
 title: Water quality testing with a robot in the Gowanus Canal
-path: public/static/notes/jeff/09-05-2014/water-quality-testing-with-a-robot-in-the-gowanus-canal.md
+tagnames: new-york-city, gowanus, gowanus-canal, water-quality, northeast, robot
+author: jeff
+path: /notes/jeff/09-05-2014/water-quality-testing-with-a-robot-in-the-gowanus-canal.md
+nid: 11105
 uid: 54526
-tagnames: new-york-city,gowanus,gowanus-canal,water-quality,northeast,robot
+
 ---
 
 # Water quality testing with a robot in the Gowanus Canal
+
+by [jeff](../profile/jeff) September 05, 2014 02:04
+
+September 05, 2014 02:04 | Tags: [new-york-city](../tag/new-york-city), [gowanus](../tag/gowanus), [gowanus-canal](../tag/gowanus-canal), [water-quality](../tag/water-quality), [northeast](../tag/northeast), [robot](../tag/robot)
 
 This is one of the robots used in the [Brooklyn Atlantis](http://www.brooklynatlantis.org) project.  We've recently fit it with YSI 600r water quality sonde, which gives us a few measures of water quality, such as pH, dissolved oxygen, conductivity, etc.  Both the water quality data and the GPS are logged as the robot moves throughout the canal.  We've also put a DSLR camera with an automated pan-tilt mechanism on top to get some interesting photos.
 

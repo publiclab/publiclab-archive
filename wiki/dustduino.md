@@ -1,12 +1,18 @@
 ---
-nid: 10357
 title: DustDuino
-path: public/static/wiki/dustduino.md
+tagnames: indoor-air-quality-mapping, particulate-sensing, agriculture, air-quality, internet, transportation, mining, fracking, tool, datalogger, dustduino, prompt:dustduino, shinyei, method, oil-and-gas, air-sensors, particle-sensor
+author: willie
+path: /wiki/dustduino.md
+nid: 10357
 uid: 235174
-tagnames: indoor-air-quality-mapping,particulate-sensing,agriculture,air-quality,internet,transportation,mining,fracking,tool,datalogger,dustduino,prompt:dustduino,shinyei,method,oil-and-gas,air-sensors,particle-sensor
+
 ---
 
 # DustDuino
+
+by [bhamster](../profile/bhamster), [warren](../profile/warren), [willie](../profile/willie), [Becky](../profile/Becky)
+
+April 24, 2014 18:47 | Tags: [indoor-air-quality-mapping](../tag/indoor-air-quality-mapping), [particulate-sensing](../tag/particulate-sensing), [agriculture](../tag/agriculture), [air-quality](../tag/air-quality), [internet](../tag/internet), [transportation](../tag/transportation), [mining](../tag/mining), [fracking](../tag/fracking), [tool](../tag/tool), [datalogger](../tag/datalogger), [dustduino](../tag/dustduino), [prompt:dustduino](../tag/prompt:dustduino), [shinyei](../tag/shinyei), [method](../tag/method), [oil-and-gas](../tag/oil-and-gas), [air-sensors](../tag/air-sensors), [particle-sensor](../tag/particle-sensor)
 
 ## What is it?
 

@@ -1,12 +1,18 @@
 ---
-nid: 11619
 title: Sensors: A Powerful Asset to Journalism
-path: public/static/notes/philiptang42/02-23-2015/sensors-a-powerful-asset-to-journalism.md
-uid: 434166
 tagnames: sensor-journalism
+author: philiptang42
+path: /notes/philiptang42/02-23-2015/sensors-a-powerful-asset-to-journalism.md
+nid: 11619
+uid: 434166
+
 ---
 
 # Sensors: A Powerful Asset to Journalism
+
+by [philiptang42](../profile/philiptang42) February 23, 2015 06:35
+
+February 23, 2015 06:35 | Tags: [sensor-journalism](../tag/sensor-journalism)
 
 While still a relatively new and emergent field, sensor journalism shows promise; potential toward becoming an important arsenal in the journalistic weapon load out, a specialized tool to bring out for situations requiring analysis that borders on scientific.
 

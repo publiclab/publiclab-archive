@@ -1,6 +1,6 @@
 # mmmp
 
-40 notes and wiki pages
+40 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Seeking Documentation Fellow for Fellowship Team](/notes/stevie/08-11-2021/seeking-documentation-fellow-for-fellowship-team) by [stevie](../profile/stevie)
 - [Seeking Environmental Policy Fellow for Fellowship Team](/notes/stevie/08-11-2021/seeking-environmental-policy-fellow-for-fellowship-team) by [stevie](../profile/stevie)
@@ -40,5 +40,3 @@
 - [Racine 6/1/22](/notes/junior_walk1337/06-01-2022/racine-6-1-22) by [junior_walk1337](../profile/junior_walk1337)
 - [Edwight to Edwight 6/5/22](/notes/junior_walk1337/06-05-2022/edwight-to-edwight-6-5-22) by [junior_walk1337](../profile/junior_walk1337)
 - [White Oak 6/14/22](/notes/junior_walk1337/06-14-2022/white-oak-6-14-22) by [junior_walk1337](../profile/junior_walk1337)
-- [How do I... personalized workout programs In Canada](/notes/ameliamarten577/07-22-2024/how-do-i-personalized-workout-programs-in-canada) by [ameliamarten577](../profile/ameliamarten577)
-- [how do it personalized workout programs ](/notes/ameliamarten577/07-22-2024/how-do-it-personalized-workout-programs) by [ameliamarten577](../profile/ameliamarten577)

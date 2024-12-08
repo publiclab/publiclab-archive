@@ -1,12 +1,18 @@
 ---
-nid: 14767
 title: Public Lab nonprofit job posting: Kit Fulfillment Coordinator
-path: public/static/notes/klie/08-18-2017/public-lab-nonprofit-job-posting-kit-fulfillment-coordinator.md
+tagnames: nonprofit, jobs
+author: klie
+path: /notes/klie/08-18-2017/public-lab-nonprofit-job-posting-kit-fulfillment-coordinator.md
+nid: 14767
 uid: 441262
-tagnames: nonprofit,jobs
+
 ---
 
 # Public Lab nonprofit job posting: Kit Fulfillment Coordinator
+
+by [klie](../profile/klie) August 18, 2017 15:00
+
+August 18, 2017 15:00 | Tags: [nonprofit](../tag/nonprofit), [jobs](../tag/jobs)
 
 **Kit Fulfillment Coordinator**
 

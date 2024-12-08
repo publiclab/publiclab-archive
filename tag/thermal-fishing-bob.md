@@ -1,6 +1,6 @@
 # thermal-fishing-bob
 
-41 notes and wiki pages
+41 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Thermal photography](/wiki/thermal-photography) (wiki)
 - [Temperature Sensor / LED light](/notes/sobers/11-28-2011/temperature-sensor-led-light) by [sobers](../profile/sobers)

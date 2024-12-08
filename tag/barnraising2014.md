@@ -1,6 +1,6 @@
 # barnraising2014
 
-17 notes and wiki pages
+17 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Mapping the LUMCON lawn](/notes/cfastie/11-11-2014/mapping-the-lumcon-lawn) by [cfastie](../profile/cfastie)
 - [An unserious exploration of common household parasites](/wiki/an-unserious-exploration-of-common-household-parasites) (wiki)

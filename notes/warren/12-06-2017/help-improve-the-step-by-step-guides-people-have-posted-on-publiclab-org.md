@@ -1,12 +1,18 @@
 ---
-nid: 15323
 title: Help improve the step-by-step guides people have posted on PublicLab.org
-path: public/static/notes/warren/12-06-2017/help-improve-the-step-by-step-guides-people-have-posted-on-publiclab-org.md
+tagnames: seeks:replications, activities, requests, activity:requests, activity:activities, peer-support, authoring-help
+author: warren
+path: /notes/warren/12-06-2017/help-improve-the-step-by-step-guides-people-have-posted-on-publiclab-org.md
+nid: 15323
 uid: 1
-tagnames: seeks:replications,activities,requests,activity:requests,activity:activities,peer-support,authoring-help
+
 ---
 
 # Help improve the step-by-step guides people have posted on PublicLab.org
+
+by [warren](../profile/warren) December 06, 2017 19:43
+
+December 06, 2017 19:43 | Tags: [seeks:replications](../tag/seeks:replications), [activities](../tag/activities), [requests](../tag/requests), [activity:requests](../tag/activity:requests), [activity:activities](../tag/activity:activities), [peer-support](../tag/peer-support), [authoring-help](../tag/authoring-help)
 
 There are [over 300 activities posted](https://publiclab.org/tag/activity:*) on the Public Lab site -- ranging from fully illustrated step-by-step instructions to more informal notes on how to do things.
 

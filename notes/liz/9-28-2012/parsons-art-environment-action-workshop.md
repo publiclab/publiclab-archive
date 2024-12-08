@@ -1,12 +1,18 @@
 ---
-nid: 4087
 title: Parsons Art Environment Action! workshop
-path: public/static/notes/liz/9-28-2012/parsons-art-environment-action-workshop.md
+tagnames: new-york-city, balloon-mapping, washington-square-park
+author: liz
+path: /notes/liz/9-28-2012/parsons-art-environment-action-workshop.md
+nid: 4087
 uid: 7
-tagnames: new-york-city,balloon-mapping,washington-square-park
+
 ---
 
 # Parsons Art Environment Action! workshop
+
+by [liz](../profile/liz) September 28, 2012 20:30
+
+September 28, 2012 20:30 | Tags: [new-york-city](../tag/new-york-city), [balloon-mapping](../tag/balloon-mapping), [washington-square-park](../tag/washington-square-park)
 
 September 28, 2012
 Washington Square Park 

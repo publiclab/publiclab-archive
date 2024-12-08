@@ -1,12 +1,18 @@
 ---
-nid: 12782
 title: Removing ambient interference from turbidity measurements through signal modulation
-path: public/static/notes/donblair/03-08-2016/removing-ambient-background-light-from-turbidity-measurements-through-signal-modulation.md
+tagnames: water-quality, water, turbidity, open-water, barnstar:basic
+author: donblair
+path: /notes/donblair/03-08-2016/removing-ambient-background-light-from-turbidity-measurements-through-signal-modulation.md
+nid: 12782
 uid: 43651
-tagnames: water-quality,water,turbidity,open-water,barnstar:basic
+
 ---
 
 # Removing ambient interference from turbidity measurements through signal modulation
+
+by [donblair](../profile/donblair) March 08, 2016 04:12
+
+March 08, 2016 04:12 | Tags: [water-quality](../tag/water-quality), [water](../tag/water), [turbidity](../tag/turbidity), [open-water](../tag/open-water), [barnstar:basic](../tag/barnstar:basic)
 
 Turbidity is an optical measurement of suspended solids in solution -- a broadly useful water quality parameter. Typical methods for measuring turbidity involve shining light into a solution, and measuring how much light either passes through the solution, or is scattered back at an angle. 
 

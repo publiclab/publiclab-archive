@@ -1,12 +1,18 @@
 ---
-nid: 27575
 title: Introducing a new Dashboard for PublicLab.org
-path: public/static/notes/warren/08-17-2021/introducing-a-new-dashboard-for-publiclab-org.md
+tagnames: website, design, code, barnstar:basic, wwg, dashboard, ui, outreachy
+author: warren
+path: /notes/warren/08-17-2021/introducing-a-new-dashboard-for-publiclab-org.md
+nid: 27575
 uid: 1
-tagnames: website,design,code,barnstar:basic,wwg,dashboard,ui,outreachy
+
 ---
 
 # Introducing a new Dashboard for PublicLab.org
+
+by [warren](../profile/warren) August 17, 2021 19:05
+
+August 17, 2021 19:05 | Tags: [website](../tag/website), [design](../tag/design), [code](../tag/code), [barnstar:basic](../tag/barnstar:basic), [wwg](../tag/wwg), [dashboard](../tag/dashboard), [ui](../tag/ui), [outreachy](../tag/outreachy)
 
 After two years of design and development, with extensive input from Public Lab staff, community, and a TON of hard work by our code community -- especially @ruthnwaiganjo (:tada:) - we're launching the new Public Lab dashboard, officially the 4th major dashboard revision we've done since 2010. 
 

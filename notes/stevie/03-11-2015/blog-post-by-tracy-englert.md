@@ -1,12 +1,18 @@
 ---
-nid: 11671
 title: Blog Post by Tracy Englert!
-path: public/static/notes/stevie/03-11-2015/blog-post-by-tracy-englert.md
+tagnames: gulf-coast, gulfcoast
+author: stevie
+path: /notes/stevie/03-11-2015/blog-post-by-tracy-englert.md
+nid: 11671
 uid: 422561
-tagnames: gulf-coast,gulfcoast
+
 ---
 
 # Blog Post by Tracy Englert!
+
+by [stevie](../profile/stevie) March 11, 2015 15:40
+
+March 11, 2015 15:40 | Tags: [gulf-coast](../tag/gulf-coast), [gulfcoast](../tag/gulfcoast)
 
 My library at the University of Southern Mississippi recently had a science café about the Public Laboratory for Open Technology and Science (Public Lab) which is a community — supported by a 501(c)3 non-profit — which develops and applies open-source tools to environmental exploration and investigation. By democratizing inexpensive and accessible Do-It-Yourself techniques, Public Lab creates a collaborative network of practitioners who actively re-imagine the human relationship with the environment.
 The core Public Lab program is focused on “civic science” in which they research open source hardware and software tools and methods to generate knowledge and share data about community environmental health. Our goal is to increase the ability of underserved communities to identify, redress, remediate, and create awareness and accountability around environmental concerns. Public Lab achieves this by providing online and offline training, education and support, and by focusing on locally-relevant outcomes that emphasize human capacity and understanding.

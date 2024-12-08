@@ -1,12 +1,18 @@
 ---
-nid: 11302
 title: Public Lab community newsletter 10.26.14
-path: public/static/notes/Shannon/10-27-2014/public-lab-community-newsletter-10-16-14.md
+tagnames: newsletter, newsletter-archive
+author: Shannon
+path: /notes/Shannon/10-27-2014/public-lab-community-newsletter-10-16-14.md
+nid: 11302
 uid: 9
-tagnames: newsletter,newsletter-archive
+
 ---
 
 # Public Lab community newsletter 10.26.14
+
+by [Shannon](../profile/Shannon) October 27, 2014 01:07
+
+October 27, 2014 01:07 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
 
 This week in the Public Lab community newsletter, join the Public Lab nonprofit team, check out updates on air quality monitoring projects and join the largest Barnraising yet in a couple of weeks. Enjoy!
 

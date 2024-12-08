@@ -1,12 +1,18 @@
 ---
-nid: 16456
 title: Adding a jack to the Coqui
-path: public/static/notes/imvec/06-08-2018/adding-a-jack-to-the-coqui.md
+tagnames: water, tutorial, conductivity, open-water, coqui, category:build, gaimec, dificulty:easy, replication:13459, activity:coqui-usage, coqui-audio-jack
+author: imvec
+path: /notes/imvec/06-08-2018/adding-a-jack-to-the-coqui.md
+nid: 16456
 uid: 495038
-tagnames: water,tutorial,conductivity,open-water,coqui,category:build,gaimec,dificulty:easy,replication:13459,activity:coqui-usage,coqui-audio-jack
+
 ---
 
 # Adding a jack to the Coqui
+
+by [imvec](../profile/imvec) June 08, 2018 20:52
+
+June 08, 2018 20:52 | Tags: [water](../tag/water), [tutorial](../tag/tutorial), [conductivity](../tag/conductivity), [open-water](../tag/open-water), [coqui](../tag/coqui), [category:build](../tag/category:build), [gaimec](../tag/gaimec), [dificulty:easy](../tag/dificulty:easy), [replication:13459](../tag/replication:13459), [activity:coqui-usage](../tag/activity:coqui-usage), [coqui-audio-jack](../tag/coqui-audio-jack)
 
 ### What we want to do
 Record Coqui sensor measurements.

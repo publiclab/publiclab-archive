@@ -1,6 +1,6 @@
 # balloon-mapping-kit
 
-17 notes and wiki pages
+17 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Balloon Kit 1.5 changes](/notes/mathew/10-19-2012/balloon-kit-15-changes) by [mathew](../profile/mathew)
 - [Barnraising: Stewart talks map making](/notes/mathew/11-3-2012/barnraising-stewart-talks-map-making) by [mathew](../profile/mathew)

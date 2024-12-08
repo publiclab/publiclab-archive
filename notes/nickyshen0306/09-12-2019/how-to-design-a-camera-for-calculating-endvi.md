@@ -1,12 +1,18 @@
 ---
-nid: 20843
 title: How to design a camera for calculating ENDVI.
-path: public/static/notes/nickyshen0306/09-12-2019/how-to-design-a-camera-for-calculating-endvi.md
+tagnames: ndvi, infrared, infragram, question:ndvi, question:infragram, question:infrared, question:multispectral-imaging, multispectral-imaging
+author: nickyshen0306
+path: /notes/nickyshen0306/09-12-2019/how-to-design-a-camera-for-calculating-endvi.md
+nid: 20843
 uid: 612401
-tagnames: ndvi,infrared,infragram,question:ndvi,question:infragram,question:infrared,question:multispectral-imaging,multispectral-imaging
+
 ---
 
 # How to design a camera for calculating ENDVI.
+
+by [nickyshen0306](../profile/nickyshen0306) September 12, 2019 15:26
+
+September 12, 2019 15:26 | Tags: [ndvi](../tag/ndvi), [infrared](../tag/infrared), [infragram](../tag/infragram), [question:ndvi](../tag/question:ndvi), [question:infragram](../tag/question:infragram), [question:infrared](../tag/question:infrared), [question:multispectral-imaging](../tag/question:multispectral-imaging), [multispectral-imaging](../tag/multispectral-imaging)
 
 -><center><center><a name="_Toc15860432">ENDVI = [(NIR + Green) – (2 * Blue)] / [(NIR + Green) + (2 * Blue)]</a><p></p><p class="MsoNormal" align="center" style="margin-bottom: 8pt; margin-left: 18pt; text-align: center; line-height: 150%;"><a name="_Toc15860432"><span lang="EN-GB" style="font-size:
 11.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-language:

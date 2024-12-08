@@ -1,11 +1,17 @@
 ---
-nid: 91
 title: Guides wiki page
-path: public/static/notes/warren/2-19-2011/guides-wiki-page.md
-uid: 1
 tagnames: 
+author: warren
+path: /notes/warren/2-19-2011/guides-wiki-page.md
+nid: 91
+uid: 1
+
 ---
 
 # Guides wiki page
+
+by [warren](../profile/warren) February 19, 2011 17:58
+
+February 19, 2011 17:58 | Tags: 
 
 http://publiclaboratory.org/wiki/guides

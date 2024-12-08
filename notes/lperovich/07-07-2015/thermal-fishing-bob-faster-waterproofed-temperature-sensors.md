@@ -1,12 +1,18 @@
 ---
-nid: 12037
 title: Thermal Fishing Bob: faster waterproofed temperature sensors
-path: public/static/notes/lperovich/07-07-2015/thermal-fishing-bob-faster-waterproofed-temperature-sensors.md
+tagnames: water-quality, thermal-fishing-bob, thermal, thermal-pollution, heat, replication:689
+author: lperovich
+path: /notes/lperovich/07-07-2015/thermal-fishing-bob-faster-waterproofed-temperature-sensors.md
+nid: 12037
 uid: 443410
-tagnames: water-quality,thermal-fishing-bob,thermal,thermal-pollution,heat,replication:689
+
 ---
 
 # Thermal Fishing Bob: faster waterproofed temperature sensors
+
+by [lperovich](../profile/lperovich) July 07, 2015 22:20
+
+July 07, 2015 22:20 | Tags: [water-quality](../tag/water-quality), [thermal-fishing-bob](../tag/thermal-fishing-bob), [thermal](../tag/thermal), [thermal-pollution](../tag/thermal-pollution), [heat](../tag/heat), [replication:689](../tag/replication:689)
 
 **Goal:** 
 Test alternative (smaller!) temperature sensors for the thermal fishing bob to achieve faster temperature measurements.

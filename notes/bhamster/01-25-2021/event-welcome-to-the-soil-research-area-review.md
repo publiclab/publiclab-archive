@@ -1,12 +1,18 @@
 ---
-nid: 25535
 title: Event: Welcome to the soil research area review!
-path: public/static/notes/bhamster/01-25-2021/event-welcome-to-the-soil-research-area-review.md
+tagnames: event, soil, reviews, soil-contamination, research-area-review
+author: bhamster
+path: /notes/bhamster/01-25-2021/event-welcome-to-the-soil-research-area-review.md
+nid: 25535
 uid: 664477
-tagnames: event,soil,reviews,soil-contamination,research-area-review
+
 ---
 
 # Event: Welcome to the soil research area review!
+
+by [bhamster](../profile/bhamster) January 25, 2021 22:27
+
+January 25, 2021 22:27 | Tags: [event](../tag/event), [soil](../tag/soil), [reviews](../tag/reviews), [soil-contamination](../tag/soil-contamination), [research-area-review](../tag/research-area-review)
 
 Join us on a call to kick-off a [research area review on soil contamination](https://publiclab.org/notes/bhamster/01-25-2021/research-area-review-on-soil-events) and be a part of this collaborative project. **If you've used or created accessible tools for detecting soil contaminants, we'd love to hear from you!**
 <br>

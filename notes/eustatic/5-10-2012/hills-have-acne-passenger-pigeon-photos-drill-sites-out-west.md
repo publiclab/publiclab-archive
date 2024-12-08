@@ -1,12 +1,18 @@
 ---
-nid: 1952
 title: the Hills have Acne: passenger pigeon photos of drill sites out West
-path: public/static/notes/eustatic/5-10-2012/hills-have-acne-passenger-pigeon-photos-drill-sites-out-west.md
-uid: 379
 tagnames: passenger-pigeon
+author: eustatic
+path: /5-10-2012/hills-have-acne-passenger-pigeon-photos-drill-sites-out-west.md
+nid: 1952
+uid: 379
+
 ---
 
 # the Hills have Acne: passenger pigeon photos of drill sites out West
+
+by [eustatic](../profile/eustatic) May 10, 2012 22:08
+
+May 10, 2012 22:08 | Tags: [passenger-pigeon](../tag/passenger-pigeon)
 
 https://www.flickr.com/photos/eustatic/7165625584/in/set-72157629653527524/ 
 

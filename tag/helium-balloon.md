@@ -1,6 +1,6 @@
 # helium-balloon
 
-3 notes and wiki pages
+3 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Balloon mapping of local invasive species and town mapping ](/wiki/balloon-mapping-of-local-invasive-species-and-town-mapping) (wiki)
 - [Aerial Balloon Mapping in Amherst, MA](/notes/aferland/10-21-2014/aerial-balloon-mapping) by [aferland](../profile/aferland)

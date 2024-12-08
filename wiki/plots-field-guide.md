@@ -1,12 +1,18 @@
 ---
-nid: 4331
 title: PLOTS Field Guide
-path: public/static/wiki/plots-field-guide.md
-uid: 43651
 tagnames: 
+author: donblair
+path: /wiki/plots-field-guide.md
+nid: 4331
+uid: 43651
+
 ---
 
 # PLOTS Field Guide
+
+by [donblair](../profile/donblair)
+
+October 10, 2012 22:14 | Tags: 
 
 This page was created to collect notes and ideas around the development of a concise guide and overview of useful methods and approaches used in grassroots science.
 

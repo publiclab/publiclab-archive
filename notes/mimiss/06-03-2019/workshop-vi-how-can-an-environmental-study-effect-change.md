@@ -1,12 +1,18 @@
 ---
-nid: 19433
 title: Workshop VI: How can an environmental study effect change?
-path: public/static/notes/mimiss/06-03-2019/workshop-vi-how-can-an-environmental-study-effect-change.md
+tagnames: education, workshop, curriculum, activity:education, study-design, lesson, parent:student-led-community-science-in-the-classroom-a-curriculum, activity:student-community-science, with:purl
+author: mimiss
+path: /notes/mimiss/06-03-2019/workshop-vi-how-can-an-environmental-study-effect-change.md
+nid: 19433
 uid: 579821
-tagnames: education,workshop,curriculum,activity:education,study-design,lesson,parent:student-led-community-science-in-the-classroom-a-curriculum,activity:student-community-science,with:purl
+
 ---
 
 # Workshop VI: How can an environmental study effect change?
+
+by [mimiss](../profile/mimiss) May 16, 2019 18:46
+
+May 16, 2019 18:46 | Tags: [education](../tag/education), [workshop](../tag/workshop), [curriculum](../tag/curriculum), [activity:education](../tag/activity:education), [study-design](../tag/study-design), [lesson](../tag/lesson), [parent:student-led-community-science-in-the-classroom-a-curriculum](../tag/parent:student-led-community-science-in-the-classroom-a-curriculum), [activity:student-community-science](../tag/activity:student-community-science), [with:purl](../tag/with:purl)
 
 This lesson is part of a series of lessons designed for educators to facilitate student-led inquiry around environmental topics. If there are time constraints, this lesson can be split into two at the Elaborate portion of the lesson. During Phase I of this series, students work towards identifying and learning about environmental topics. 
 

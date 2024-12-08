@@ -1,12 +1,18 @@
 ---
-nid: 15452
 title: Systems Integration - Spectrometry
-path: public/static/notes/31gane/01-02-2018/integration.md
+tagnames: spectrometer, design, building, integration, abstraction, plan
+author: 31gane
+path: /notes/31gane/01-02-2018/integration.md
+nid: 15452
 uid: 420044
-tagnames: spectrometer,design,building,integration,abstraction,plan
+
 ---
 
 # Systems Integration - Spectrometry
+
+by [31gane](../profile/31gane) January 02, 2018 11:18
+
+January 02, 2018 11:18 | Tags: [spectrometer](../tag/spectrometer), [design](../tag/design), [building](../tag/building), [integration](../tag/integration), [abstraction](../tag/abstraction), [plan](../tag/plan)
 
 # Introduction
 

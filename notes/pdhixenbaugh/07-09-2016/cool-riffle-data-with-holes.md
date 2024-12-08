@@ -1,12 +1,18 @@
 ---
-nid: 13276
 title: "Cool" Riffle Data - with holes!
-path: public/static/notes/pdhixenbaugh/07-09-2016/cool-riffle-data-with-holes.md
-uid: 459085
 tagnames: riffle-beta
+author: pdhixenbaugh
+path: /notes/pdhixenbaugh/07-09-2016/cool-riffle-data-with-holes.md
+nid: 13276
+uid: 459085
+
 ---
 
 # "Cool" Riffle Data - with holes!
+
+by [pdhixenbaugh](../profile/pdhixenbaugh) July 09, 2016 23:14
+
+July 09, 2016 23:14 | Tags: [riffle-beta](../tag/riffle-beta)
 
 ###Setting the scene:
 

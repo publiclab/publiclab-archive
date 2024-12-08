@@ -1,12 +1,18 @@
 ---
-nid: 15004
 title: Scenes from a LEAFFEST
-path: public/static/notes/cfastie/10-06-2017/scenes-from-a-leaffest.md
+tagnames: vermont, leaffest, leaffest2017
+author: cfastie
+path: /notes/cfastie/10-06-2017/scenes-from-a-leaffest.md
+nid: 15004
 uid: 554
-tagnames: vermont,leaffest,leaffest2017
+
 ---
 
 # Scenes from a LEAFFEST
+
+by [cfastie](../profile/cfastie) October 06, 2017 03:34
+
+October 06, 2017 03:34 | Tags: [vermont](../tag/vermont), [leaffest](../tag/leaffest), [leaffest2017](../tag/leaffest2017)
 
 Share a few of your LEAFFEST photos in a comment below.  
 

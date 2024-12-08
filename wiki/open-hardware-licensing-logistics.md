@@ -1,12 +1,18 @@
 ---
-nid: 884
 title: Open hardware licensing logistics
-path: public/static/wiki/open-hardware-licensing-logistics.md
-uid: 1
 tagnames: 
+author: warren
+path: /wiki/open-hardware-licensing-logistics.md
+nid: 884
+uid: 1
+
 ---
 
 # Open hardware licensing logistics
+
+by [warren](../profile/warren)
+
+March 02, 2012 17:22 | Tags: 
 
 ###Help get the word out###
 

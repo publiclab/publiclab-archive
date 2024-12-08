@@ -1,12 +1,18 @@
 ---
-nid: 300
 title: Mapping Curriculum: Ground Control Point Targets
-path: public/static/wiki/ground-control-point-targets.md
+tagnames: balloon-mapping, rectification, ground-control-points, parent:mapping-curriculum
+author: MicheleTobias
+path: /wiki/ground-control-point-targets.md
+nid: 300
 uid: 149
-tagnames: balloon-mapping,rectification,ground-control-points,parent:mapping-curriculum
+
 ---
 
 # Mapping Curriculum: Ground Control Point Targets
+
+by [mathew](../profile/mathew), [gonzoearth](../profile/gonzoearth), [MicheleTobias](../profile/MicheleTobias)
+
+May 26, 2011 04:40 | Tags: [balloon-mapping](../tag/balloon-mapping), [rectification](../tag/rectification), [ground-control-points](../tag/ground-control-points), [parent:mapping-curriculum](../tag/parent:mapping-curriculum)
 
 *As part of the [Grassroots Mapping Curriculum](/wiki/mapping-curriculum) series.*
 

@@ -1,12 +1,18 @@
 ---
-nid: 16174
 title: Hand-cut or lasercut a simple DIY microscope stage
-path: public/static/notes/warren/04-18-2018/hand-cut-or-lasercut-a-simple-diy-microscope-stage.md
+tagnames: kits, 3d-printing, pm, prototyping, microscope, laser-cutting, microscopes, sourcing, activity:microscopes, community-kits, activity:basic-microscope, basic-microscope, response:16101, response:15926, response:15904, basic-microscope-kit, acrylic
+author: warren
+path: /notes/warren/04-18-2018/hand-cut-or-lasercut-a-simple-diy-microscope-stage.md
+nid: 16174
 uid: 1
-tagnames: kits,3d-printing,pm,prototyping,microscope,laser-cutting,microscopes,sourcing,activity:microscopes,community-kits,activity:basic-microscope,basic-microscope,response:16101,response:15926,response:15904,basic-microscope-kit,acrylic
+
 ---
 
 # Hand-cut or lasercut a simple DIY microscope stage
+
+by [warren](../profile/warren) April 18, 2018 20:38
+
+April 18, 2018 20:38 | Tags: [kits](../tag/kits), [3d-printing](../tag/3d-printing), [pm](../tag/pm), [prototyping](../tag/prototyping), [microscope](../tag/microscope), [laser-cutting](../tag/laser-cutting), [microscopes](../tag/microscopes), [sourcing](../tag/sourcing), [activity:microscopes](../tag/activity:microscopes), [community-kits](../tag/community-kits), [activity:basic-microscope](../tag/activity:basic-microscope), [basic-microscope](../tag/basic-microscope), [response:16101](../tag/response:16101), [response:15926](../tag/response:15926), [response:15904](../tag/response:15904), [basic-microscope-kit](../tag/basic-microscope-kit), [acrylic](../tag/acrylic)
 
 We're working on simpler and cheaper ways to make good DIY microscopes, working from this @partsandcrafts recommendation -- on this Hackteria page: [https://hackteria.org/wiki/Laser-cut\_microscopy\_stages#LifePatch\_DIY\_WebCam\_Microscope\_Stage](https://hackteria.org/wiki/Laser-cut_microscopy_stages#LifePatch_DIY_WebCam_Microscope_Stage)
 

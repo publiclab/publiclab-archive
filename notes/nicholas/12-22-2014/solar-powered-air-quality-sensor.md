@@ -1,12 +1,18 @@
 ---
-nid: 11492
 title: Solar Powered Air Quality Sensor
-path: public/static/notes/nicholas/12-22-2014/solar-powered-air-quality-sensor.md
+tagnames: air-quality, cellular, dustduino, dust-monitoring, solar, gsm, shinyei, activity:dustduino, activity:pm, activity:arduino, replication:9818, activity:pm-monitoring, activity:dust, activity:sensors, activity:air-quality, activity:data-logging-power, air-sensors
+author: nicholas
+path: /notes/nicholas/12-22-2014/solar-powered-air-quality-sensor.md
+nid: 11492
 uid: 53894
-tagnames: air-quality,cellular,dustduino,dust-monitoring,solar,gsm,shinyei,activity:dustduino,activity:pm,activity:arduino,replication:9818,activity:pm-monitoring,activity:dust,activity:sensors,activity:air-quality,activity:data-logging-power,air-sensors
+
 ---
 
 # Solar Powered Air Quality Sensor
+
+by [nicholas](../profile/nicholas) December 22, 2014 18:44
+
+December 22, 2014 18:44 | Tags: [air-quality](../tag/air-quality), [cellular](../tag/cellular), [dustduino](../tag/dustduino), [dust-monitoring](../tag/dust-monitoring), [solar](../tag/solar), [gsm](../tag/gsm), [shinyei](../tag/shinyei), [activity:dustduino](../tag/activity:dustduino), [activity:pm](../tag/activity:pm), [activity:arduino](../tag/activity:arduino), [replication:9818](../tag/replication:9818), [activity:pm-monitoring](../tag/activity:pm-monitoring), [activity:dust](../tag/activity:dust), [activity:sensors](../tag/activity:sensors), [activity:air-quality](../tag/activity:air-quality), [activity:data-logging-power](../tag/activity:data-logging-power), [air-sensors](../tag/air-sensors)
 
 ###What I want to do
 Recently I've been working with sending data back and forth over cellular networks using the Arduino GSM module.  The ability to send text messages, transmit data and connect to websites over a cellular network has created a great opportunity for collecting sensor data and sending it directly to the web.  After reading about the [Dustuino project](http://publiclab.org/notes/Schroyer/11-23-2013/measure-coarse-and-fine-air-particulates-with-a-dustduino), I wanted to take it a step further and combine the air quality sensor with a GSM network.  This would allow a more 'stand alone' capability to monitoring air quality.  

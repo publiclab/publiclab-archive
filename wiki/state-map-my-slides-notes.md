@@ -1,12 +1,18 @@
 ---
-nid: 4420
 title: State of the Map, my slides & notes
-path: public/static/wiki/state-map-my-slides-notes.md
+tagnames: balloon-mapping, grassrootsmapping, kite-aerial-photography, open-street-map, osm
+author: mathew
+path: /wiki/state-map-my-slides-notes.md
+nid: 4420
 uid: 4
-tagnames: balloon-mapping,grassrootsmapping,kite-aerial-photography,open-street-map,osm
+
 ---
 
 # State of the Map, my slides & notes
+
+by [mathew](../profile/mathew)
+
+October 15, 2012 22:33 | Tags: [balloon-mapping](../tag/balloon-mapping), [grassrootsmapping](../tag/grassrootsmapping), [kite-aerial-photography](../tag/kite-aerial-photography), [open-street-map](../tag/open-street-map), [osm](../tag/osm)
 
 I was at State of the Map US all weekend (Oct 13-14, 2012).  Many wonderful presentations on OSM, check out the notes especially on storytelling and historical maps, which hold lessons and collaboration suggestions for us as we review map annotation.
 

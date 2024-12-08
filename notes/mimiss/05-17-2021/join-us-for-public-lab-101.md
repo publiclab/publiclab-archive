@@ -1,12 +1,18 @@
 ---
-nid: 26630
 title: Join us for Public Lab 101!
-path: public/static/notes/mimiss/05-17-2021/join-us-for-public-lab-101.md
+tagnames: website, education, event, classroom, classroom-community-science, event:education
+author: mimiss
+path: /notes/mimiss/05-17-2021/join-us-for-public-lab-101.md
+nid: 26630
 uid: 579821
-tagnames: website,education,event,classroom,classroom-community-science,event:education
+
 ---
 
 # Join us for Public Lab 101!
+
+by [mimiss](../profile/mimiss) May 17, 2021 21:39
+
+May 17, 2021 21:39 | Tags: [website](../tag/website), [education](../tag/education), [event](../tag/event), [classroom](../tag/classroom), [classroom-community-science](../tag/classroom-community-science), [event:education](../tag/event:education)
 
 -><a href="https://forms.gle/mPuGAnhoP9RtxXG97" title="">Register</a><br><-
 

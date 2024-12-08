@@ -1,12 +1,18 @@
 ---
-nid: 11208
 title: Follow up on Bridget and Casey's water samples
-path: public/static/notes/caseyrcampbell327/09-30-2014/follow-up-on-bridget-and-casey-s-water-samples.md
+tagnames: massachusetts, plymouth, testing, water, conductivity, journalism, beacon, hill, emerson, college
+author: caseyrcampbell327
+path: /notes/caseyrcampbell327/09-30-2014/follow-up-on-bridget-and-casey-s-water-samples.md
+nid: 11208
 uid: 427892
-tagnames: massachusetts,plymouth,testing,water,conductivity,journalism,beacon,hill,emerson,college
+
 ---
 
 # Follow up on Bridget and Casey's water samples
+
+by [caseyrcampbell327](../profile/caseyrcampbell327) September 30, 2014 13:59
+
+September 30, 2014 13:59 | Tags: [massachusetts](../tag/massachusetts), [plymouth](../tag/plymouth), [testing](../tag/testing), [water](../tag/water), [conductivity](../tag/conductivity), [journalism](../tag/journalism), [beacon](../tag/beacon), [hill](../tag/hill), [emerson](../tag/emerson), [college](../tag/college)
 
 Here's a link to our previous post relating to water testing in the Boston area:
 [](http://publiclab.org/notes/caseyrcampbell327/09-29-2014/bridget-casey-s-water-sample-locations)

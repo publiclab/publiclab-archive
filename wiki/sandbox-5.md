@@ -1,12 +1,18 @@
 ---
-nid: 21650
 title: sandbox-5
-path: public/static/wiki/sandbox-5.md
-uid: 1
 tagnames: content
+author: warren
+path: /wiki/sandbox-5.md
+nid: 21650
+uid: 1
+
 ---
 
 # sandbox-5
+
+by [warren](../profile/warren)
+
+December 03, 2019 17:16 | Tags: [content](../tag/content)
 
 Testing map:
 

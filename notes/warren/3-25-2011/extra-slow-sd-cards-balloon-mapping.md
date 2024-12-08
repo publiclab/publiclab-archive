@@ -1,12 +1,18 @@
 ---
-nid: 148
 title: Extra-slow SD cards for balloon mapping
-path: public/static/notes/warren/3-25-2011/extra-slow-sd-cards-balloon-mapping.md
-uid: 1
 tagnames: 
+author: warren
+path: /notes/warren/3-25-2011/extra-slow-sd-cards-balloon-mapping.md
+nid: 148
+uid: 1
+
 ---
 
 # Extra-slow SD cards for balloon mapping
+
+by [warren](../profile/warren) March 25, 2011 12:42
+
+March 25, 2011 12:42 | Tags: 
 
 For balloon mappers: I found this note on SD card write speeds. Some of us had discussed the idea of using a slow SD card to limit writing speed and thus capture fewer redundant images when rubber-banding the camera trigger down.
 

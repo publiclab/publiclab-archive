@@ -1,6 +1,6 @@
 # emission-spectroscopy
 
-9 notes and wiki pages
+9 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Carbon Arc](/notes/bwilliams/10-9-2012/carbon-arc) by [B.Williams](../profile/B.Williams)
 - [Carbon Arc Electrode Prep](/notes/bwilliams/10-12-2012/carbon-arc-electrode-prep) by [B.Williams](../profile/B.Williams)

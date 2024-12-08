@@ -1,12 +1,18 @@
 ---
-nid: 30089
 title: Budidaya udang vaname
-path: public/static/notes/vaname/03-02-2022/budidaya-udang-vaname.md
+tagnames: first-time-poster, aquaculture
+author: vaname
+path: /notes/vaname/03-02-2022/budidaya-udang-vaname.md
+nid: 30089
 uid: 790344
-tagnames: first-time-poster,aquaculture
+
 ---
 
 # Budidaya udang vaname
+
+by [vaname](../profile/vaname) March 02, 2022 10:56
+
+March 02, 2022 10:56 | Tags: [first-time-poster](../tag/first-time-poster), [aquaculture](../tag/aquaculture)
 
 [Budidaya udang vaname](https://budidayaudangvaname.com/budidaya-udang-vaname) dapat jadi kesempatan usaha untuk para pendatang baru yang mau terjun ke dunia bisnis. Terlebih, usaha ini membutuhkan modal kecil, namun untungnya melimpah!
 

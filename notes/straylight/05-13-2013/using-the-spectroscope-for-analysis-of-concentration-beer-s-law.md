@@ -1,12 +1,18 @@
 ---
-nid: 7475
 title: Using the Spectroscope for Analysis of Concentration (Beer's Law)
-path: public/static/notes/straylight/05-13-2013/using-the-spectroscope-for-analysis-of-concentration-beer-s-law.md
+tagnames: spectrometer, education, curriculum, classroom, beers-law, concentration, sensitivity, quantitative, response:6566, response:6587, activity:spectrometry, time:3h, difficulty:medium, beer-lambert-law, category:test-limits, activity:education, activity:spectrometry-sampling, activity:classroom
+author: straylight
+path: /notes/straylight/05-13-2013/using-the-spectroscope-for-analysis-of-concentration-beer-s-law.md
+nid: 7475
 uid: 43047
-tagnames: spectrometer,education,curriculum,classroom,beers-law,concentration,sensitivity,quantitative,response:6566,response:6587,activity:spectrometry,time:3h,difficulty:medium,beer-lambert-law,category:test-limits,activity:education,activity:spectrometry-sampling,activity:classroom
+
 ---
 
 # Using the Spectroscope for Analysis of Concentration (Beer's Law)
+
+by [straylight](../profile/straylight) May 13, 2013 02:59
+
+May 13, 2013 02:59 | Tags: [spectrometer](../tag/spectrometer), [education](../tag/education), [curriculum](../tag/curriculum), [classroom](../tag/classroom), [beers-law](../tag/beers-law), [concentration](../tag/concentration), [sensitivity](../tag/sensitivity), [quantitative](../tag/quantitative), [response:6566](../tag/response:6566), [response:6587](../tag/response:6587), [activity:spectrometry](../tag/activity:spectrometry), [time:3h](../tag/time:3h), [difficulty:medium](../tag/difficulty:medium), [beer-lambert-law](../tag/beer-lambert-law), [category:test-limits](../tag/category:test-limits), [activity:education](../tag/activity:education), [activity:spectrometry-sampling](../tag/activity:spectrometry-sampling), [activity:classroom](../tag/activity:classroom)
 
 ##Introduction
 

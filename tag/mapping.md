@@ -1,6 +1,6 @@
 # mapping
 
-109 notes and wiki pages
+109 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Video on geocoded conductivity readings from strip mine watersheds](/notes/warren/4-29-2011/video-geocoded-conductivity-readings-strip-mine-watersheds) by [warren](../profile/warren)
 - [Grassroots Mapping Coal River](/wiki/grassroots-mapping-coal-river) (wiki)
@@ -75,18 +75,13 @@
 - [Is there a way to use ground-proximity data to do terrain mapping via kite/balloon mapping?](/notes/mimiss/05-09-2019/is-there-a-way-to-use-ground-proximity-data-to-do-terrain-mapping-via-kite-balloon-mapping) by [mimiss](../profile/mimiss)
 - [What is the best way to measure areas of land from aerial mapping photos?](/notes/molangmuir10/07-01-2019/what-is-the-best-way-to-measure-areas-of-land-from-aerial-mapping-photos) by [molangmuir10](../profile/molangmuir10)
 - [MapKnitter UI evaluation 2: Mapping Nottingham's Urban Greening](/notes/molangmuir10/07-02-2019/mapknitter-ui-evaluation-2-mapping-nottingham-s-urban-greening) by [molangmuir10](../profile/molangmuir10)
-- [Things to look for before Buying Men’s Shoes Online](/notes/missalishoes/07-20-2019/things-to-look-for-before-buying-men-s-shoes-online) by [missalishoes](../profile/missalishoes)
 - [Urban greening in Nottingham](/wiki/urban-greening-in-nottingham) (wiki)
 - [Favorite camera for balloon/kite mapping?](/notes/adam-griffith/08-27-2019/favorite-camera-for-balloon-kite-mapping) by [adam-griffith](../profile/adam-griffith)
 - [Amount of helium needed for a 5.5 foot balloon](/notes/geoderek/11-21-2019/amount-of-helium-needed-for-a-5-5-foot-balloon) by [geoderek](../profile/geoderek)
 - [Introducing new inline LEL power tags](/notes/sagarpreet/12-17-2019/introducing-new-inline-lel-power-tags) by [sagarpreet](../profile/sagarpreet)
-- [918Kiss Malaysia](/notes/918kissr/03-26-2020/918kiss-malaysia) by [918kissr](../profile/918kissr)
-- [Quality thesis](/notes/bruceneumann/04-02-2020/quality-thesis) by [bruceneumann](../profile/bruceneumann)
 - [New Developments in Multi-Spectral Drone Imaging in the Ultraviolet Band](/notes/ektopyrotic/09-14-2020/new-developments-in-multi-spectral-drone-imaging-in-the-ultraviolet-band) by [ektopyrotic](../profile/ektopyrotic)
 - [Legalities of 'map-knitting' in Australia](/notes/aviceda/10-03-2020/legalities-of-map-knitting-in-australia) by [aviceda](../profile/aviceda)
 - [Image + Video Segmentation in Near-Infrared Using HSV Color Spaces with OpenCV in Python](/notes/ektopyrotic/10-03-2020/image-video-segmentation-in-near-infrared-using-hsv-color-spaces-with-opencv-in-python) by [ektopyrotic](../profile/ektopyrotic)
-- [Filter Comparision](/notes/NGB/11-01-2020/filter-comparision) by [NGB](../profile/NGB)
-- [pramgnet](/notes/pramgnet/11-18-2020/pramgnet) by [pramgnet](../profile/pramgnet)
 - [Impacted Communities - Citizen Science in a "No Zoning" City from Strategy to Solutions](/notes/mashalawais/11-30-2020/impacted-communities-citizen-science-in-a-no-zoning-city-from-strategy-to-solutions) by [mashalawais](../profile/mashalawais)
 - [How to find out past and current uses for an area of land](/notes/bhamster/02-19-2021/how-to-find-out-past-and-current-uses-for-an-area-of-land) by [bhamster](../profile/bhamster)
 - [Balloon Mapping In Edgard!](/notes/Keimyren/04-30-2021/balloon-mapping-in-edgard) by [Keimyren](../profile/Keimyren)
@@ -104,10 +99,8 @@
 - [Creating orthomosaics with oblique aerial images from 1940s in Agisoft or other software?](/notes/klausmayr/08-20-2021/creating-orthomosaics-with-oblique-aerial-images-from-1940s-in-agisoft-or-other-software) by [klausmayr](../profile/klausmayr)
 - [Data Visualization with Sheet Mapper: How to connect a live spreadsheet to a web map](/notes/laurel_mire/09-09-2021/data-visualization-with-sheet-mapper-how-to-connect-a-live-spreadsheet-to-a-web-map) by [laurel_mire](../profile/laurel_mire)
 - [What are ways to identify pockets of heat/air pollution in a neighborhood?](/notes/julia_e_masters/10-07-2021/what-are-ways-to-identify-pockets-of-heat-air-pollution-in-a-neighborhood) by [julia_e_masters](../profile/julia_e_masters)
-- [Urban Environment and Social Inclusion Index: Urban Heat Index](/notes/julia_e_masters/10-07-2021/urban-environment-and-social-inclusion-index-urban-heat-index) by [julia_e_masters](../profile/julia_e_masters)
 - [Data Divide: Kathmandu Living Labs & OpenStreetMap](/notes/julia_e_masters/11-30-2021/data-divide-kathmandu-living-labs-openstreetmap) by [julia_e_masters](../profile/julia_e_masters)
 - [Is there an easy way (app?) to find my elevation above sea level?](/notes/stevie/11-30-2021/is-there-an-easy-way-app-to-find-my-elevation-above-sea-level) by [stevie](../profile/stevie)
 - [How to visualize your location-based data in QGIS](/notes/laurel_mire/12-03-2021/how-to-visualize-your-location-based-data-in-qgis) by [laurel_mire](../profile/laurel_mire)
-- [Planning to travel Dubai travel & Tourism](/notes/dubaitraveltourism/12-08-2021/planning-to-travel-dubai-travel-tourism) by [dubaitraveltourism](../profile/dubaitraveltourism)
 - [Drone Archaeology | Tomb Hunting Using NDVI, NIR Threshold with Bitwise NOT in Python](/notes/ektopyrotic/01-03-2022/drone-archaeology-tomb-hunting-using-ndvi-nir-threshold-with-bitwise-not-in-python) by [ektopyrotic](../profile/ektopyrotic)
 - [Event: A conversation with Yutsi, creator of NORCO the game](/notes/a1ahna/05-26-2022/event-a-conversation-with-yutsi-creator-of-norco-the-game) by [a1ahna](../profile/a1ahna)

@@ -1,12 +1,18 @@
 ---
-nid: 24117
 title: Notes from a call on Babylegs (microplastics monitoring)
-path: public/static/notes/stevie/07-08-2020/notes-from-a-call-on-babylegs-microplastics-monitoring.md
+tagnames: water-quality, microplastics, babylegs
+author: stevie
+path: /notes/stevie/07-08-2020/notes-from-a-call-on-babylegs-microplastics-monitoring.md
+nid: 24117
 uid: 422561
-tagnames: water-quality,microplastics,babylegs
+
 ---
 
 # Notes from a call on Babylegs (microplastics monitoring)
+
+by [stevie](../profile/stevie) July 08, 2020 20:21
+
+July 08, 2020 20:21 | Tags: [water-quality](../tag/water-quality), [microplastics](../tag/microplastics), [babylegs](../tag/babylegs)
 
 On July 2, 13 people joined on a call to share a discussion about microplastics found in water, and the [Babylegs monitoring tool][1]. 
 

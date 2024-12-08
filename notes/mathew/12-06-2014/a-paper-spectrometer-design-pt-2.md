@@ -1,12 +1,18 @@
 ---
-nid: 11440
 title: a paper spectrometer design, pt 2
-path: public/static/notes/mathew/12-06-2014/a-paper-spectrometer-design-pt-2.md
+tagnames: spectrometer, oil, oil-spill-toolkit, spectrometry, oil-testing-kit, barnstar:basic, paper, fold-up-spectrometer, otk
+author: mathew
+path: /notes/mathew/12-06-2014/a-paper-spectrometer-design-pt-2.md
+nid: 11440
 uid: 4
-tagnames: spectrometer,oil,oil-spill-toolkit,spectrometry,oil-testing-kit,barnstar:basic,paper,fold-up-spectrometer,otk
+
 ---
 
 # a paper spectrometer design, pt 2
+
+by [mathew](../profile/mathew) December 06, 2014 02:34
+
+December 06, 2014 02:34 | Tags: [spectrometer](../tag/spectrometer), [oil](../tag/oil), [oil-spill-toolkit](../tag/oil-spill-toolkit), [spectrometry](../tag/spectrometry), [oil-testing-kit](../tag/oil-testing-kit), [barnstar:basic](../tag/barnstar:basic), [paper](../tag/paper), [fold-up-spectrometer](../tag/fold-up-spectrometer), [otk](../tag/otk)
 
 ###What I want to do
 This is a substantial [revision to an earlier design](/notes/mathew/11-07-2014/a-paper-spectrometer-design), which integrated a bunch of other earlier design concepts. 

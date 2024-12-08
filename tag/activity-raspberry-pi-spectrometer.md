@@ -1,6 +1,6 @@
 # activity-raspberry-pi-spectrometer
 
-5 notes and wiki pages
+5 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [A more compact spectrometer](/notes/cristoforetti/05-13-2016/a-more-compact-spectrometer) by [cristoforetti](../profile/cristoforetti)
 - [Setting up the Raspberry Pi Camera for Wireless Streaming](/notes/partsandcrafts/12-03-2017/setting-up-the-raspberry-pi-camera-for-wireless-streaming) by [partsandcrafts](../profile/partsandcrafts)

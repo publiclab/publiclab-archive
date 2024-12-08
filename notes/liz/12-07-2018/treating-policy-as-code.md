@@ -1,12 +1,18 @@
 ---
-nid: 17825
 title: Treating policy as code
-path: public/static/notes/liz/12-07-2018/treating-policy-as-code.md
+tagnames: writing, lead, versioning, policy
+author: liz
+path: /notes/liz/12-07-2018/treating-policy-as-code.md
+nid: 17825
 uid: 7
-tagnames: writing,lead,versioning,policy
+
 ---
 
 # Treating policy as code
+
+by [liz](../profile/liz) December 06, 2018 21:59
+
+December 06, 2018 21:59 | Tags: [writing](../tag/writing), [lead](../tag/lead), [versioning](../tag/versioning), [policy](../tag/policy)
 
 There are some discussions going on about how we might approach environmental regulation as a community -- understanding it, critiquing it, improving it -- here are my thoughts:
 

@@ -1,12 +1,18 @@
 ---
-nid: 1515
 title: MapMaker Training
-path: public/static/notes/gonzoearth/3-22-2012/mapmaker-training.md
+tagnames: balloon-mapping, near-infrared-camera, kite-mapping
+author: gonzoearth
+path: /notes/gonzoearth/3-22-2012/mapmaker-training.md
+nid: 1515
 uid: 12
-tagnames: balloon-mapping,near-infrared-camera,kite-mapping
+
 ---
 
 # MapMaker Training
+
+by [gonzoearth](../profile/gonzoearth) March 22, 2012 04:20
+
+March 22, 2012 04:20 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping)
 
 ##After flying it's time to make a map!##
 * Get started at [MapKnitter](MapKnitter.org) where you can start a project and use MapKnitter help to begin learning how to stitch or "georectify" the imagery into a orthomosaic vertical map. 

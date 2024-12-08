@@ -1,12 +1,18 @@
 ---
-nid: 29038
 title: Did you see gray “hair” in the bottom of freshwater bodies?
-path: public/static/notes/alejobonifacio/02-01-2022/did-you-see-gray-hair-in-the-bottom-of-freshwater-bodies.md
+tagnames: sewage, water-quality, bacteria, new, wastewater, activity:new, zoom:6, lon:-64, lat:-31, research-curation-fellows, activity:wastewater
+author: alejobonifacio
+path: /notes/alejobonifacio/02-01-2022/did-you-see-gray-hair-in-the-bottom-of-freshwater-bodies.md
+nid: 29038
 uid: 639376
-tagnames: sewage,water-quality,bacteria,new,wastewater,activity:new,zoom:6,lon:-64,lat:-31,research-curation-fellows,activity:wastewater
+
 ---
 
 # Did you see gray “hair” in the bottom of freshwater bodies?
+
+by [alejobonifacio](../profile/alejobonifacio) February 01, 2022 15:39
+
+February 01, 2022 15:39 | Tags: [sewage](../tag/sewage), [water-quality](../tag/water-quality), [bacteria](../tag/bacteria), [new](../tag/new), [wastewater](../tag/wastewater), [activity:new](../tag/activity:new), [zoom:6](../tag/zoom:6), [lon:-64](../tag/lon:-64), [lat:-31](../tag/lat:-31), [research-curation-fellows](../tag/research-curation-fellows), [activity:wastewater](../tag/activity:wastewater)
 
 ## Purpose
 

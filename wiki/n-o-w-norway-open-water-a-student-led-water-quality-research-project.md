@@ -1,12 +1,18 @@
 ---
-nid: 11382
 title: N.O.W. Norway Open Water -A Student Led Water Quality Research Project  
-path: public/static/wiki/n-o-w-norway-open-water-a-student-led-water-quality-research-project.md
+tagnames: water-sensing, water-quality-monitoring, finland, europe
+author: NewtonGjengen
+path: /wiki/n-o-w-norway-open-water-a-student-led-water-quality-research-project.md
+nid: 11382
 uid: 431841
-tagnames: water-sensing,water-quality-monitoring,finland,europe
+
 ---
 
 # N.O.W. Norway Open Water -A Student Led Water Quality Research Project  
+
+by [NewtonGjengen](../profile/NewtonGjengen)
+
+November 22, 2014 08:38 | Tags: [water-sensing](../tag/water-sensing), [water-quality-monitoring](../tag/water-quality-monitoring), [finland](../tag/finland), [europe](../tag/europe)
 
 ##N.O.W.
 

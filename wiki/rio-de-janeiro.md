@@ -1,12 +1,18 @@
 ---
-nid: 495
 title: Rio de Janeiro
-path: public/static/wiki/rio-de-janeiro.md
+tagnames: rio, brazil, events:rio-de-janeiro, chapter, lat:-22.9083, lon:-43.1964
+author: liz
+path: /wiki/rio-de-janeiro.md
+nid: 495
 uid: 7
-tagnames: rio,brazil,events:rio-de-janeiro,chapter,lat:-22.9083,lon:-43.1964
+
 ---
 
 # Rio de Janeiro
+
+by [faraujo](../profile/faraujo), [liz](../profile/liz), [gonzoearth](../profile/gonzoearth)
+
+October 03, 2011 21:48 | Tags: [rio](../tag/rio), [brazil](../tag/brazil), [events:rio-de-janeiro](../tag/events:rio-de-janeiro), [chapter](../tag/chapter), [lat:-22.9083](../tag/lat:-22.9083), [lon:-43.1964](../tag/lon:-43.1964)
 
 ![6082768397_0f43af8470_o.jpg](https://i.publiclab.org/system/images/photos/000/000/128/medium/6082768397_0f43af8470_o.jpg)
 

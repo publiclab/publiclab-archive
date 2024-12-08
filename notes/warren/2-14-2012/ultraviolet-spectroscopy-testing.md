@@ -1,12 +1,18 @@
 ---
-nid: 789
 title: Ultraviolet spectroscopy test at ~350nm
-path: public/static/notes/warren/2-14-2012/ultraviolet-spectroscopy-testing.md
-uid: 1
 tagnames: 
+author: warren
+path: /notes/warren/2-14-2012/ultraviolet-spectroscopy-testing.md
+nid: 789
+uid: 1
+
 ---
 
 # Ultraviolet spectroscopy test at ~350nm
+
+by [warren](../profile/warren) February 14, 2012 22:10
+
+February 14, 2012 22:10 | Tags: 
 
 Messing with an ultraviolet LED flashlight and some makeup today, i was able to get reflected/fluoresced light at around 350 nanometers!
 

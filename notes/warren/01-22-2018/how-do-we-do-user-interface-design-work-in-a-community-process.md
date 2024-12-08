@@ -1,12 +1,18 @@
 ---
-nid: 15587
 title: How do we do user interface design work in a community process?
-path: public/static/notes/warren/01-22-2018/how-do-we-do-user-interface-design-work-in-a-community-process.md
+tagnames: design, evaluation, answered, autodesk, ux, ui, user-interface, question:ui, question:design, pro-bono, autodesk-pro-bono, user-experience, with:caufenkamp, with:tommystyles, with:julvie
+author: warren
+path: /notes/warren/01-22-2018/how-do-we-do-user-interface-design-work-in-a-community-process.md
+nid: 15587
 uid: 1
-tagnames: design,evaluation,answered,autodesk,ux,ui,user-interface,question:ui,question:design,pro-bono,autodesk-pro-bono,user-experience,with:caufenkamp,with:tommystyles,with:julvie
+
 ---
 
 # How do we do user interface design work in a community process?
+
+by [warren](../profile/warren) January 22, 2018 23:46
+
+January 22, 2018 23:46 | Tags: [design](../tag/design), [evaluation](../tag/evaluation), [answered](../tag/answered), [autodesk](../tag/autodesk), [ux](../tag/ux), [ui](../tag/ui), [user-interface](../tag/user-interface), [question:ui](../tag/question:ui), [question:design](../tag/question:design), [pro-bono](../tag/pro-bono), [autodesk-pro-bono](../tag/autodesk-pro-bono), [user-experience](../tag/user-experience), [with:caufenkamp](../tag/with:caufenkamp), [with:tommystyles](../tag/with:tommystyles), [with:julvie](../tag/with:julvie)
 
 With generous support from Autodesk, @caufenkamp, @tommystyles, @julvie and I have been meeting for a few months, digging into tough questions about user interface design on PublicLab.org -- see this post, for some of the topics we got into: https://publiclab.org/questions/tommystyles/10-20-2017/need-your-feedback-on-tag-pages#a725
 

@@ -1,12 +1,18 @@
 ---
-nid: 11022
 title: Single camera NDVI solution
-path: public/static/notes/theowallis/08-08-2014/single-camera-ndvi-solution.md
+tagnames: near-infrared-camera, ndvi, nir, vegetation, infrablue, mobius-actioncam, ir-block
+author: theowallis
+path: /notes/theowallis/08-08-2014/single-camera-ndvi-solution.md
+nid: 11022
 uid: 425909
-tagnames: near-infrared-camera,ndvi,nir,vegetation,infrablue,mobius-actioncam,ir-block
+
 ---
 
 # Single camera NDVI solution
+
+by [theowallis](../profile/theowallis) August 08, 2014 16:50
+
+August 08, 2014 16:50 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [nir](../tag/nir), [vegetation](../tag/vegetation), [infrablue](../tag/infrablue), [mobius-actioncam](../tag/mobius-actioncam), [ir-block](../tag/ir-block)
 
 ###What I want to do
 

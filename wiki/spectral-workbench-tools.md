@@ -1,12 +1,18 @@
 ---
-nid: 12286
 title: Spectral Workbench Tools
-path: public/static/wiki/spectral-workbench-tools.md
+tagnames: fluorescence, spectral-workbench, transmittance, parent:spectral-workbench, wishlist
+author: warren
+path: /wiki/spectral-workbench-tools.md
+nid: 12286
 uid: 1
-tagnames: fluorescence,spectral-workbench,transmittance,parent:spectral-workbench,wishlist
+
 ---
 
 # Spectral Workbench Tools
+
+by [warren](../profile/warren)
+
+October 09, 2015 20:22 | Tags: [fluorescence](../tag/fluorescence), [spectral-workbench](../tag/spectral-workbench), [transmittance](../tag/transmittance), [parent:spectral-workbench](../tag/parent:spectral-workbench), [wishlist](../tag/wishlist)
 
 This is list of the tools available in Spectral Workbench 2. Most of these generate an Operation, and have a corresponding entry in [the Spectral Workbench Operations page](/wiki/spectral-workbench-operations).
 

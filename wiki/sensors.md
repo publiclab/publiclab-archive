@@ -1,12 +1,18 @@
 ---
-nid: 15363
 title: Sensors
-path: public/static/wiki/sensors.md
-uid: 430549
 tagnames: 
+author: gretchengehrke
+path: /wiki/sensors.md
+nid: 15363
+uid: 430549
+
 ---
 
 # Sensors
+
+by [gretchengehrke](../profile/gretchengehrke)
+
+December 13, 2017 16:49 | Tags: 
 
 Relatively inexpensive, transportable and deployable sensors are produced all over the world for a variety of analytes. Broadly defined, sensors respond to a physical or chemical property, providing an interpretable output. For our purposes, a main distinction of a sensor versus a sampler is that sensors do not require laboratory-based analyses, and provide outputs in near-real time. 
 

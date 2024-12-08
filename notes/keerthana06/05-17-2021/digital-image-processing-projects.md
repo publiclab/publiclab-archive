@@ -1,12 +1,18 @@
 ---
-nid: 26621
 title: digital image processing projects
-path: public/static/notes/keerthana06/05-17-2021/digital-image-processing-projects.md
-uid: 754722
 tagnames: 
+author: keerthana06
+path: /notes/keerthana06/05-17-2021/digital-image-processing-projects.md
+nid: 26621
+uid: 754722
+
 ---
 
 # digital image processing projects
+
+by [keerthana06](../profile/keerthana06) May 17, 2021 12:53
+
+May 17, 2021 12:53 | Tags: 
 
 - Takeoff Projects helps students complete their academic projects.You can enrol with friends and receive [digital image processing projects](https://takeoffprojects.com/digital-image-processing-projects) kits at your doorstep. You can learn from experts, build latest projects, showcase your project to the world and grab the best jobs. Get started today!
 

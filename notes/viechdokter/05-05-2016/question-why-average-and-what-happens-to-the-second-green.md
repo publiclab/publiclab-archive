@@ -1,12 +1,18 @@
 ---
-nid: 13081
 title: Question:  Why average? And what happens to the second Green?
-path: public/static/notes/viechdokter/05-05-2016/question-why-average-and-what-happens-to-the-second-green.md
+tagnames: spectrometer, spectroscopy, rgb, question:spectrometry, question:spectral-workbench, average
+author: viechdokter
+path: /notes/viechdokter/05-05-2016/question-why-average-and-what-happens-to-the-second-green.md
+nid: 13081
 uid: 468990
-tagnames: spectrometer,spectroscopy,rgb,question:spectrometry,question:spectral-workbench,average
+
 ---
 
 # Question:  Why average? And what happens to the second Green?
+
+by [viechdokter](../profile/viechdokter) May 05, 2016 15:51
+
+May 05, 2016 15:51 | Tags: [spectrometer](../tag/spectrometer), [spectroscopy](../tag/spectroscopy), [rgb](../tag/rgb), [question:spectrometry](../tag/question:spectrometry), [question:spectral-workbench](../tag/question:spectral-workbench), [average](../tag/average)
 
 I have been reading a lot about spectroscopy and spectral analysis lately. I got a lot of feedback from the community here and someone pointed me to how a Bayer webcam filter worked. The Bayer filter essentially is divided into 4 squares (or channels) per pixel - Red,Green, Green, Blue. For each pixel we get the four intensities (photon counts) from the webcam which will be reduced to three channels (RGGB -> RGB) by putting the two Gs together into 1 channel. 
 

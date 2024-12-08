@@ -1,12 +1,18 @@
 ---
-nid: 13254
 title: Mobius TrapCam Housing
-path: public/static/notes/tonyc/07-01-2016/mobius-trapcam-housing.md
+tagnames: timelapse, housing, mobius, trapcam
+author: tonyc
+path: /notes/tonyc/07-01-2016/mobius-trapcam-housing.md
+nid: 13254
 uid: 447491
-tagnames: timelapse,housing,mobius,trapcam
+
 ---
 
 # Mobius TrapCam Housing
+
+by [tonyc](../profile/tonyc) July 01, 2016 23:22
+
+July 01, 2016 23:22 | Tags: [timelapse](../tag/timelapse), [housing](../tag/housing), [mobius](../tag/mobius), [trapcam](../tag/trapcam)
 
 ###Make a low-cost housing for Mobius camera for outdoor deployments.
 

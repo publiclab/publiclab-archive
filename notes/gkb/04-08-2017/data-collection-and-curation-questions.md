@@ -1,12 +1,18 @@
 ---
-nid: 14102
 title: Data Collection and Curation Questions
-path: public/static/notes/gkb/04-08-2017/data-collection-and-curation-questions.md
+tagnames: question:data-collection, curation, question:data-sharing, question:metadata
+author: gkb
+path: /notes/gkb/04-08-2017/data-collection-and-curation-questions.md
+nid: 14102
 uid: 505449
-tagnames: question:data-collection,curation,question:data-sharing,question:metadata
+
 ---
 
 # Data Collection and Curation Questions
+
+by [gkb](../profile/gkb) April 08, 2017 23:51
+
+April 08, 2017 23:51 | Tags: [question:data-collection](../tag/question:data-collection), [curation](../tag/curation), [question:data-sharing](../tag/question:data-sharing), [question:metadata](../tag/question:metadata)
 
 You have a data archive for maps. You are planning to have a data archive for water quality. For your water quality database: 
 --The goal is to reliably monitor water conditions in real-time, and provide remote access to that data.  

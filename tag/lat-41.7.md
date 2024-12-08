@@ -1,6 +1,6 @@
 # lat-41.7
 
-45 notes and wiki pages
+45 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [This post will apppear on maps](/notes/kellyraymond/02-12-2020/this-post-will-apppear-on-maps) by [kellyraymond](../profile/kellyraymond)
 - [Art in Ruins (40 Church Street)](/notes/kellyraymond/03-04-2020/art-in-ruins-40-church-street) by [kellyraymond](../profile/kellyraymond)

@@ -1,12 +1,18 @@
 ---
-nid: 10137
 title: Makerbot Rev1 5v Power Upgrade
-path: public/static/notes/danbeavers/03-07-2014/makerbot-rev1-5v-power-upgrade.md
+tagnames: 3d-printing, makerbot, maintenance
+author: danbeavers
+path: /notes/danbeavers/03-07-2014/makerbot-rev1-5v-power-upgrade.md
+nid: 10137
 uid: 51
-tagnames: 3d-printing,makerbot,maintenance
+
 ---
 
 # Makerbot Rev1 5v Power Upgrade
+
+by [danbeavers](../profile/danbeavers) March 07, 2014 18:34
+
+March 07, 2014 18:34 | Tags: [3d-printing](../tag/3d-printing), [makerbot](../tag/makerbot), [maintenance](../tag/maintenance)
 
 ###What I want to do
 The 5v power supply on the Makerbot Rev1 is marginal and subject to failure.  I replaced the power supply with a Lucent JCO3A1-29M DC - DC Power Module.

@@ -1,12 +1,18 @@
 ---
-nid: 14660
 title: Redstone Rig 2.0
-path: public/static/notes/cfastie/07-18-2017/redstone-rig-2-0.md
+tagnames: balloon-mapping, kite-mapping, aerial-photography, kap, photo-rig, aerial-mapping, camera-rig, redstone, kaptery, autodesk
+author: cfastie
+path: /notes/cfastie/07-18-2017/redstone-rig-2-0.md
+nid: 14660
 uid: 554
-tagnames: balloon-mapping,kite-mapping,aerial-photography,kap,photo-rig,aerial-mapping,camera-rig,redstone,kaptery,autodesk
+
 ---
 
 # Redstone Rig 2.0
+
+by [cfastie](../profile/cfastie) July 18, 2017 02:40
+
+July 18, 2017 02:40 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [aerial-photography](../tag/aerial-photography), [kap](../tag/kap), [photo-rig](../tag/photo-rig), [aerial-mapping](../tag/aerial-mapping), [camera-rig](../tag/camera-rig), [redstone](../tag/redstone), [kaptery](../tag/kaptery), [autodesk](../tag/autodesk)
 
 Three and a half years ago I posted [a research note](https://publiclab.org/notes/cfastie/03-27-2014/the-redstone-rig-is-ready) describing the Redstone Rig, a simple bracket to attach a small camera to a kite or balloon line. I have used a 3D printer to make more than a hundred Redstone Rigs, many of which are prototypes which still litter my office. The design files have been [freely available on Thingiverse](https://www.thingiverse.com/thing:281664) and have been downloaded hundreds of times. I don't know how many have been printed by others. 
 

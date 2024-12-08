@@ -1,12 +1,18 @@
 ---
-nid: 11618
 title: My Two Cents on Sensor Journalism 
-path: public/static/notes/amandagomez93/02-23-2015/my-two-cents-on-sensor-journalism.md
+tagnames: sensors, journalism, sensor-journalism
+author: amandagomez93
+path: /notes/amandagomez93/02-23-2015/my-two-cents-on-sensor-journalism.md
+nid: 11618
 uid: 428015
-tagnames: sensors,journalism,sensor-journalism
+
 ---
 
 # My Two Cents on Sensor Journalism 
+
+by [amandagomez93](../profile/amandagomez93) February 23, 2015 05:42
+
+February 23, 2015 05:42 | Tags: [sensors](../tag/sensors), [journalism](../tag/journalism), [sensor-journalism](../tag/sensor-journalism)
 
 Sensor journalism takes data journalism a step further. Data journalism depends solely on existing data to carry a story; whereas, sensor journalism can potentially create real-time data for a story. Don’t have access because it’s closed data, or maybe the data just doesn’t exist? Sensor journalism could be the solution. The story possibilities seem infinite—at least, that’s how sensor journalism initially appeared to me. After having read the [Tow Report](http://towcenter.org/wp-content/uploads/2014/05/Tow-Center-Sensors-and-Journalism.pdf) on sensor journalism, heard journalist Lily Bui’s presentation on the subject, and experimented with sensors firsthand, I can’t help but be skeptical now. Though that’s not to say that it’s any less exciting, or that I object to working with sensor journalism completely. I’m just not as naive, I would say. 
 

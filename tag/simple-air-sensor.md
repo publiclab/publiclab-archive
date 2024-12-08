@@ -1,6 +1,6 @@
 # simple-air-sensor
 
-24 notes and wiki pages
+24 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Simple Air Sensor](/wiki/simple-air-sensor) (wiki)
 - [Questions about Plantower sensors from the University of Wisconsin - Eau Claire](/notes/OrionAllgaier/03-13-2019/questions-from-the-university-of-wisconsin-eau-claire) by [OrionAllgaier](../profile/OrionAllgaier)
@@ -20,7 +20,6 @@
 - [Simple air sensor assembly notes](/notes/natevw/10-09-2019/simple-air-sensor-assembly-notes) by [natevw](../profile/natevw)
 - [Simple Air Sensors (and more) with Public Lab and the Queensbridge Tech Lab](/notes/Bronwen/10-29-2019/simple-air-sensors-and-more-with-public-lab-and-the-queensbridge-tech-lab) by [Bronwen](../profile/Bronwen)
 - [Fall Workshops in NYC- Oil & Gas](/notes/Bronwen/11-18-2019/fall-workshops-in-nyc-oil-gas) by [Bronwen](../profile/Bronwen)
-- [Chennai escorts services](/notes/piyasidayanmain/12-15-2019/chennai-escorts-services) by [piyasidayanmain](../profile/piyasidayanmain)
 - [Log Simple Air Sensor data to SD card](/notes/imvec/12-17-2019/logging-simple-air-sensor-data-to-sd-card) by [imvec](../profile/imvec)
 - [Sensoring Citizenship ](/notes/silentsairam/01-07-2020/sensoring-citizenship) by [silentsairam](../profile/silentsairam)
 - [Where can I find good low-cost air quality sensors? ](/notes/mgoodwin/04-01-2020/where-can-i-find-good-low-cost-air-quality-sensors) by [mgoodwin](../profile/mgoodwin)

@@ -1,12 +1,18 @@
 ---
-nid: 16753
 title: Picking a venue for a Barnraising event
-path: public/static/notes/stevie/07-19-2018/picking-a-venue-for-a-barnraising-event.md
+tagnames: barnraising, barnraising-host, preparations-logistics, activity:preparations-logistics
+author: stevie
+path: /notes/stevie/07-19-2018/picking-a-venue-for-a-barnraising-event.md
+nid: 16753
 uid: 422561
-tagnames: barnraising,barnraising-host,preparations-logistics,activity:preparations-logistics
+
 ---
 
 # Picking a venue for a Barnraising event
+
+by [stevie](../profile/stevie) July 19, 2018 20:16
+
+July 19, 2018 20:16 | Tags: [barnraising](../tag/barnraising), [barnraising-host](../tag/barnraising-host), [preparations-logistics](../tag/preparations-logistics), [activity:preparations-logistics](../tag/activity:preparations-logistics)
 
 The venue for the Barnraising is flexible in many ways. The event can be hosted at a school, an office space, it has even been hosted in a barn! Here are some things you should look for or keep in mind in choosing your venue: 
 

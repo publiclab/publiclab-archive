@@ -1,12 +1,18 @@
 ---
-nid: 10273
 title: Portable Spectrometer with Light Source Development
-path: public/static/wiki/portable-spectrometer-with-light-source-development.md
-uid: 420530
 tagnames: 
+author: silverhammer
+path: /wiki/portable-spectrometer-with-light-source-development.md
+nid: 10273
+uid: 420530
+
 ---
 
 # Portable Spectrometer with Light Source Development
+
+by [silverhammer](../profile/silverhammer)
+
+April 07, 2014 16:00 | Tags: 
 
 Page used to track and document work on portable spectrometer with light source development.  Reference research note        http://publiclab.org/notes/silverhammer/03-20-2014/test-rig-for-portable-spectrometer 
 as the starting point for this work.

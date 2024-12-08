@@ -1,12 +1,18 @@
 ---
-nid: 184
 title: How to connect to a Vivitar $10 Walgreens camera
-path: public/static/notes/warren/4-20-2011/how-connect-vivitar-10-walgreens-camera.md
+tagnames: near-infrared-camera, keychain-cameras, vivitar
+author: warren
+path: /notes/warren/4-20-2011/how-connect-vivitar-10-walgreens-camera.md
+nid: 184
 uid: 1
-tagnames: near-infrared-camera,keychain-cameras,vivitar
+
 ---
 
 # How to connect to a Vivitar $10 Walgreens camera
+
+by [warren](../profile/warren) April 20, 2011 16:08
+
+April 20, 2011 16:08 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [keychain-cameras](../tag/keychain-cameras), [vivitar](../tag/vivitar)
 
 from:http://www.camerahacker.com/Forums/DisplayComments.php?file=Digital%20Camera/Vivitar/Anyone_seen_the__Vivitar_Mini_Digital_Camera.
 

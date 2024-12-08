@@ -1,12 +1,18 @@
 ---
-nid: 8023
 title: Public Lab Community Newsletter 6.2.2013
-path: public/static/notes/gonzoearth/06-03-2013/public-lab-community-newsletter-6-2-2013.md
+tagnames: newsletter, newsletter-archive
+author: gonzoearth
+path: /notes/gonzoearth/06-03-2013/public-lab-community-newsletter-6-2-2013.md
+nid: 8023
 uid: 12
-tagnames: newsletter,newsletter-archive
+
 ---
 
 # Public Lab Community Newsletter 6.2.2013
+
+by [gonzoearth](../profile/gonzoearth) June 03, 2013 06:07
+
+June 03, 2013 06:07 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
 
 Many different links to share this week from the ongoing infrared photography fundraising and some of the highlights from a busy week of research, news, and events.
 

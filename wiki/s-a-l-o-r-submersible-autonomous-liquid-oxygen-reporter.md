@@ -1,12 +1,18 @@
 ---
-nid: 11371
 title: S.A.L.O.R. (Submersible Autonomous Liquid Oxygen Reporter)
-path: public/static/wiki/s-a-l-o-r-submersible-autonomous-liquid-oxygen-reporter.md
+tagnames: open-source, open-hardware, conservation, openhardware, opensource, umass, umass-amherst, dissolved-oxygen, amherst-media, publiclab-at-amherst-media, publiclab-at-umass, makers-and-amherst-media, amherstcollege
+author: dsmoliga
+path: /wiki/s-a-l-o-r-submersible-autonomous-liquid-oxygen-reporter.md
+nid: 11371
 uid: 431747
-tagnames: open-source,open-hardware,conservation,openhardware,opensource,umass,umass-amherst,dissolved-oxygen,amherst-media,publiclab-at-amherst-media,publiclab-at-umass,makers-and-amherst-media,amherstcollege
+
 ---
 
 # S.A.L.O.R. (Submersible Autonomous Liquid Oxygen Reporter)
+
+by [dsmoliga](../profile/dsmoliga)
+
+November 20, 2014 17:46 | Tags: [open-source](../tag/open-source), [open-hardware](../tag/open-hardware), [conservation](../tag/conservation), [openhardware](../tag/openhardware), [opensource](../tag/opensource), [umass](../tag/umass), [umass-amherst](../tag/umass-amherst), [dissolved-oxygen](../tag/dissolved-oxygen), [amherst-media](../tag/amherst-media), [publiclab-at-amherst-media](../tag/publiclab-at-amherst-media), [publiclab-at-umass](../tag/publiclab-at-umass), [makers-and-amherst-media](../tag/makers-and-amherst-media), [amherstcollege](../tag/amherstcollege)
 
 Thais C. - Daniel S. - Leif D.
 

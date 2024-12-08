@@ -1,12 +1,18 @@
 ---
-nid: 5128
 title: Toolkits
-path: public/static/wiki/toolkits.md
-uid: 7
 tagnames: toolkits
+author: liz
+path: /wiki/toolkits.md
+nid: 5128
+uid: 7
+
 ---
 
 # Toolkits
+
+by [warren](../profile/warren), [liz](../profile/liz)
+
+December 06, 2012 16:07 | Tags: [toolkits](../tag/toolkits)
 
 Responding to environmental health situations often requires a suite of methods including community organizing, study design and tool selection, data analysis, and advocacy. 
 

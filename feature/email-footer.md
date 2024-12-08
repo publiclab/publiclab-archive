@@ -1,12 +1,16 @@
 ---
-nid: 13754
 title: email-footer
-path: public/static/feature/email-footer.md
-uid: 1
 tagnames: 
+author: warren
+path: /feature/email-footer.md
+nid: 13754
+uid: 1
+
 ---
 
 # email-footer
+
+December 07, 2016 00:16 | Tags: 
 
 <br/>
 

@@ -1,12 +1,18 @@
 ---
-nid: 13129
 title: Survey for newcomers on interface design of new editor
-path: public/static/notes/warren/05-19-2016/survey-for-newcomers-on-interface-design-of-new-editor.md
+tagnames: software, developers, code, survey, editor, rich-editor, newcomers
+author: warren
+path: /notes/warren/05-19-2016/survey-for-newcomers-on-interface-design-of-new-editor.md
+nid: 13129
 uid: 1
-tagnames: software,developers,code,survey,editor,rich-editor,newcomers
+
 ---
 
 # Survey for newcomers on interface design of new editor
+
+by [warren](../profile/warren) May 19, 2016 17:00
+
+May 19, 2016 17:00 | Tags: [software](../tag/software), [developers](../tag/developers), [code](../tag/code), [survey](../tag/survey), [editor](../tag/editor), [rich-editor](../tag/rich-editor), [newcomers](../tag/newcomers)
 
 One thing we're working on for the new #rich-editor design process is seeking input and feedback from people who aren't (yet, at least) familiar with PublicLab.org, or at least who haven't posted content. 
 

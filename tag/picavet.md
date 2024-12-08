@@ -1,6 +1,6 @@
 # picavet
 
-17 notes and wiki pages
+17 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Dual camera KAP rig](/notes/cfastie/2-22-2012/dual-camera-kap-rig) by [cfastie](../profile/cfastie)
 - [Evolution of a Picavet](/notes/jbreen/3-6-2012/evolution-picavet) by [jbreen](../profile/jbreen)

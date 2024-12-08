@@ -1,12 +1,18 @@
 ---
-nid: 12186
 title: More dock data!
-path: public/static/notes/lperovich/08-30-2015/more-dock-data.md
+tagnames: thermal-fishing, riffle, riffle-examples
+author: lperovich
+path: /notes/lperovich/08-30-2015/more-dock-data.md
+nid: 12186
 uid: 443410
-tagnames: thermal-fishing,riffle,riffle-examples
+
 ---
 
 # More dock data!
+
+by [lperovich](../profile/lperovich) August 30, 2015 18:10
+
+August 30, 2015 18:10 | Tags: [thermal-fishing](../tag/thermal-fishing), [riffle](../tag/riffle), [riffle-examples](../tag/riffle-examples)
 
 After the success of the first deployment (@sara, @donblair), I repackaged the thermal fishing bob for a longer even more real test.  
 

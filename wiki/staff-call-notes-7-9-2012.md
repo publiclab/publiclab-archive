@@ -1,12 +1,18 @@
 ---
-nid: 3033
 title: Staff call notes 7 9 2012
-path: public/static/wiki/staff-call-notes-7-9-2012.md
-uid: 1
 tagnames: 
+author: warren
+path: /wiki/staff-call-notes-7-9-2012.md
+nid: 3033
+uid: 1
+
 ---
 
 # Staff call notes 7 9 2012
+
+by [warren](../profile/warren)
+
+July 30, 2012 16:49 | Tags: 
 
 ###Sara###
 * Achievements: Vacation! moved Ray and found apt in Milton.

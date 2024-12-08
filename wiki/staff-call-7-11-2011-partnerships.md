@@ -1,12 +1,18 @@
 ---
-nid: 392
 title: Staff Call 7 11 2011: Partnerships
-path: public/static/wiki/staff-call-7-11-2011-partnerships.md
-uid: 1
 tagnames: partnerships
+author: warren
+path: /wiki/staff-call-7-11-2011-partnerships.md
+nid: 392
+uid: 1
+
 ---
 
 # Staff Call 7 11 2011: Partnerships
+
+by [warren](../profile/warren)
+
+July 19, 2011 21:54 | Tags: [partnerships](../tag/partnerships)
 
 ###Collaborations###
 

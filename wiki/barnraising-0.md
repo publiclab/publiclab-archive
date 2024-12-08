@@ -1,12 +1,18 @@
 ---
-nid: 450
 title: OLDFirst Annual Barnraising!
-path: public/static/wiki/barnraising-0.md
-uid: 8
 tagnames: 
+author: sara
+path: /wiki/barnraising-0.md
+nid: 450
+uid: 8
+
 ---
 
 # OLDFirst Annual Barnraising!
+
+by [sara](../profile/sara)
+
+September 02, 2011 18:48 | Tags: 
 
 <strong>First Annual Public Laboratory Barn Raising*!</strong>
 

@@ -1,12 +1,18 @@
 ---
-nid: 11405
 title: Asbestonim-test
-path: public/static/wiki/asbestonim-test.md
+tagnames: balloon-mapping, jerusalem, israel, palestine, urban-planning, list:publiclab-jerusalem, maree-makom, kiryat-hayovel, public-participation
+author: hagitkeysar
+path: /wiki/asbestonim-test.md
+nid: 11405
 uid: 152
-tagnames: balloon-mapping,jerusalem,israel,palestine,urban-planning,list:publiclab-jerusalem,maree-makom,kiryat-hayovel,public-participation
+
 ---
 
 # Asbestonim-test
+
+by [asbest](../profile/asbest), [ytavb](../profile/ytavb), [hagitkeysar](../profile/hagitkeysar)
+
+November 26, 2014 18:39 | Tags: [balloon-mapping](../tag/balloon-mapping), [jerusalem](../tag/jerusalem), [israel](../tag/israel), [palestine](../tag/palestine), [urban-planning](../tag/urban-planning), [list:publiclab-jerusalem](../tag/list:publiclab-jerusalem), [maree-makom](../tag/maree-makom), [kiryat-hayovel](../tag/kiryat-hayovel), [public-participation](../tag/public-participation)
 
 # ואדי האסבסטונים-- תכנון בשיתוף הציבור
 

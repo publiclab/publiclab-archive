@@ -1,12 +1,18 @@
 ---
-nid: 30140
 title: Training and Equipment for Terra-Rovers available
-path: public/static/notes/carmen2x/03-17-2022/training-and-equipment-for-terra-rovers-available.md
+tagnames: education, nasa, atmosphere, heat, urban-heat-island, aren, first-time-poster
+author: carmen2x
+path: /notes/carmen2x/03-17-2022/training-and-equipment-for-terra-rovers-available.md
+nid: 30140
 uid: 787988
-tagnames: education,nasa,atmosphere,heat,urban-heat-island,aren,first-time-poster
+
 ---
 
 # Training and Equipment for Terra-Rovers available
+
+by [carmen2x](../profile/carmen2x) March 17, 2022 19:47
+
+March 17, 2022 19:47 | Tags: [education](../tag/education), [nasa](../tag/nasa), [atmosphere](../tag/atmosphere), [heat](../tag/heat), [urban-heat-island](../tag/urban-heat-island), [aren](../tag/aren), [first-time-poster](../tag/first-time-poster)
 
 The AREN team is offering a great opportunity for teachers who are interested in learning about how to use a Terra-Rover to collect data on surface temperature.
 

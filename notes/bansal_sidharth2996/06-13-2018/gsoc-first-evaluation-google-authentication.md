@@ -1,12 +1,18 @@
 ---
-nid: 16494
 title: GSOC: First Evaluation Google Authentication
-path: public/static/notes/bansal_sidharth2996/06-13-2018/gsoc-first-evaluation-google-authentication.md
+tagnames: social-media, gsoc, soc, gsoc:2018
+author: bansal_sidharth2996
+path: /notes/bansal_sidharth2996/06-13-2018/gsoc-first-evaluation-google-authentication.md
+nid: 16494
 uid: 503599
-tagnames: social-media,gsoc,soc,gsoc:2018
+
 ---
 
 # GSOC: First Evaluation Google Authentication
+
+by [bansal_sidharth2996](../profile/bansal_sidharth2996) June 13, 2018 15:30
+
+June 13, 2018 15:30 | Tags: [social-media](../tag/social-media), [gsoc](../tag/gsoc), [soc](../tag/soc), [gsoc:2018](../tag/gsoc:2018)
 
 This page is about the Multi-Party Authentication System of Public Labs created in the first evaluation of Google Summer Of Code 2018
 

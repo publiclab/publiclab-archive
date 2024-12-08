@@ -1,6 +1,6 @@
 # activity-organizing
 
-7 notes and wiki pages
+7 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [How to visually document a site](/notes/stevie/03-22-2017/how-to-visually-document-a-site) by [stevie](../profile/stevie)
 - [Workshop: Explore Issue Briefs with others ](/notes/stevie/11-14-2017/host-an-issue-brief-workshop) by [stevie](../profile/stevie)

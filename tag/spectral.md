@@ -1,6 +1,6 @@
 # spectral
 
-7 notes and wiki pages
+7 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Can infragrams provide useful measurements of how thirsty my lawn is?](/notes/WhiteRabbit/07-25-2014/can-infragrams-provide-useful-measurements-of-thirsty-my-lawn-is) by [WhiteRabbit](../profile/WhiteRabbit)
 - [The accidental raspberry pi spectrometer](/notes/khufkens/04-25-2015/the-accidental-raspberry-pi-spectrometer) by [khufkens](../profile/khufkens)

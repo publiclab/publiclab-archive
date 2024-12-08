@@ -1,6 +1,6 @@
 # speck
 
-3 notes and wiki pages
+3 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Speck particle monitor](/notes/chrisbartley/04-15-2014/speck-particle-monitor) by [chrisbartley](../profile/chrisbartley)
 - [Using Fluxtream to look at Speck Data](/notes/mathew/06-05-2014/using-fluxtream-to-look-at-speck-data) by [mathew](../profile/mathew)

@@ -1,12 +1,18 @@
 ---
-nid: 10703
 title: Public Lab receives support from EPA Urban Waters Program
-path: public/static/notes/Becki/07-17-2014/public-lab-receives-support-from-epa-urban-waters-program.md
-uid: 46673
 tagnames: nonprofit
+author: Becki
+path: /notes/Becki/07-17-2014/public-lab-receives-support-from-epa-urban-waters-program.md
+nid: 10703
+uid: 46673
+
 ---
 
 # Public Lab receives support from EPA Urban Waters Program
+
+by [Becki](../profile/Becki) July 17, 2014 16:55
+
+July 17, 2014 16:55 | Tags: [nonprofit](../tag/nonprofit)
 
 Public Lab is excited to announce our new partnership with the EPA Urban Waters Program and Region 6 to monitor eight wetland restoration sites around New Orleans.
 

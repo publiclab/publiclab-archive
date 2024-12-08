@@ -1,12 +1,18 @@
 ---
-nid: 30175
 title: Middle Ridge 3/22/22
-path: public/static/notes/junior_walk1337/03-23-2022/middle-ridge-3-22-22.md
+tagnames: drones, coal-mining, mmmp
+author: junior_walk1337
+path: /notes/junior_walk1337/03-23-2022/middle-ridge-3-22-22.md
+nid: 30175
 uid: 756318
-tagnames: drones,coal-mining,mmmp
+
 ---
 
 # Middle Ridge 3/22/22
+
+by [junior_walk1337](../profile/junior_walk1337) March 23, 2022 01:05
+
+March 23, 2022 01:05 | Tags: [drones](../tag/drones), [coal-mining](../tag/coal-mining), [mmmp](../tag/mmmp)
 
 <iframe width="1280" height="675" src="https://www.youtube.com/embed/ttouJteyTio" frameborder="0" allowfullscreen=""></iframe>
 

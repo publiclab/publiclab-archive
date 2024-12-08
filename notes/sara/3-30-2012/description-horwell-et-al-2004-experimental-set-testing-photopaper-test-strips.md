@@ -1,12 +1,18 @@
 ---
-nid: 1585
 title: Description: Horwell et. al. 2004 Experimental Set for Testing Photopaper test strips
-path: public/static/notes/sara/3-30-2012/description-horwell-et-al-2004-experimental-set-testing-photopaper-test-strips.md
+tagnames: hydrogen-sulfide-sensing, h2s, photo-paper, h2s-photopaper
+author: sara
+path: /notes/sara/3-30-2012/description-horwell-et-al-2004-experimental-set-testing-photopaper-test-strips.md
+nid: 1585
 uid: 8
-tagnames: hydrogen-sulfide-sensing,h2s,photo-paper,h2s-photopaper
+
 ---
 
 # Description: Horwell et. al. 2004 Experimental Set for Testing Photopaper test strips
+
+by [sara](../profile/sara) March 30, 2012 21:33
+
+March 30, 2012 21:33 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [h2s](../tag/h2s), [photo-paper](../tag/photo-paper), [h2s-photopaper](../tag/h2s-photopaper)
 
 Yesterday (3.29.12) Megan and I met with Roy Heaton in Rhode Island’s Department of Health’s Air Quality devision to discuss development of low cost tests for hydrogen sulfide. 
 

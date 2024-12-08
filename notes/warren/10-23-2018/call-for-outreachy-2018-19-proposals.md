@@ -1,12 +1,18 @@
 ---
-nid: 17359
 title: Call for Outreachy 2018-19 proposals!
-path: public/static/notes/warren/10-23-2018/call-for-outreachy-2018-19-proposals.md
+tagnames: website, software, code, wwg, software-outreach, soc, outreachy, call-for-proposals, outreachy-2018, proposals, call-
+author: warren
+path: /notes/warren/10-23-2018/call-for-outreachy-2018-19-proposals.md
+nid: 17359
 uid: 1
-tagnames: website,software,code,wwg,software-outreach,soc,outreachy,call-for-proposals,outreachy-2018,proposals,call-
+
 ---
 
 # Call for Outreachy 2018-19 proposals!
+
+by [warren](../profile/warren) October 23, 2018 17:00
+
+October 23, 2018 17:00 | Tags: [website](../tag/website), [software](../tag/software), [code](../tag/code), [wwg](../tag/wwg), [software-outreach](../tag/software-outreach), [soc](../tag/soc), [outreachy](../tag/outreachy), [call-for-proposals](../tag/call-for-proposals), [outreachy-2018](../tag/outreachy-2018), [proposals](../tag/proposals), [call-](../tag/call-)
 
 With support from the [DIAL Open Source Center](https://osc.dial.community), we're part of a new fellowship program this year, [Outreachy](http://outreachy.org) -- which recruits software contributors to work on open source projects:
 

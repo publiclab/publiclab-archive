@@ -1,12 +1,18 @@
 ---
-nid: 9782
 title: 3-class module at Trillium Charter School
-path: public/static/notes/mathew/11-15-2013/3-class-module-at-trillium-charter-school.md
-uid: 4
 tagnames: portland
+author: mathew
+path: /notes/mathew/11-15-2013/3-class-module-at-trillium-charter-school.md
+nid: 9782
+uid: 4
+
 ---
 
 # 3-class module at Trillium Charter School
+
+by [mathew](../profile/mathew) November 15, 2013 08:08
+
+November 15, 2013 08:08 | Tags: [portland](../tag/portland)
 
 ###What I want to do
 Teach three blocks of 50 minutes each on grassroots mapping to a collection of 6-8th graders in Grace Hwang's Art of Politics elective at Trillium Charter School.

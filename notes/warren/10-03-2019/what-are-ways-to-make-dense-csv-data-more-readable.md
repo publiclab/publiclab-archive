@@ -1,12 +1,18 @@
 ---
-nid: 21068
 title: What are ways to make dense CSV data more readable?
-path: public/static/notes/warren/10-03-2019/what-are-ways-to-make-dense-csv-data-more-readable.md
+tagnames: data, data-logging, question:pm, question:frac-sand, question:data, question:purple-air, question:data-cleaning, air-quality-data, question:air-quality-data
+author: warren
+path: /notes/warren/10-03-2019/what-are-ways-to-make-dense-csv-data-more-readable.md
+nid: 21068
 uid: 1
-tagnames: data,data-logging,question:pm,question:frac-sand,question:data,question:purple-air,question:data-cleaning,air-quality-data,question:air-quality-data
+
 ---
 
 # What are ways to make dense CSV data more readable?
+
+by [warren](../profile/warren) October 03, 2019 18:40
+
+October 03, 2019 18:40 | Tags: [data](../tag/data), [data-logging](../tag/data-logging), [question:pm](../tag/question:pm), [question:frac-sand](../tag/question:frac-sand), [question:data](../tag/question:data), [question:purple-air](../tag/question:purple-air), [question:data-cleaning](../tag/question:data-cleaning), [air-quality-data](../tag/air-quality-data), [question:air-quality-data](../tag/question:air-quality-data)
 
 In follow-up to the question @stevie posted about cleaning datasets, I had a related one -- when I tried to post a CSV file (essentially a spreadsheet), I found it had too many columns to be very readable. When it graphed, there was just too much information. 
 

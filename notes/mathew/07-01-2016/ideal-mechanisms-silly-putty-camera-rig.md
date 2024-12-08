@@ -1,12 +1,18 @@
 ---
-nid: 13255
 title: ideal mechanisms & silly putty camera rig
-path: public/static/notes/mathew/07-01-2016/ideal-mechanisms-silly-putty-camera-rig.md
+tagnames: kite-mapping, kap, photo-rig, autokap, kap-rigs, silly-putty, reconfigurable-rig
+author: mathew
+path: /notes/mathew/07-01-2016/ideal-mechanisms-silly-putty-camera-rig.md
+nid: 13255
 uid: 4
-tagnames: kite-mapping,kap,photo-rig,autokap,kap-rigs,silly-putty,reconfigurable-rig
+
 ---
 
 # ideal mechanisms & silly putty camera rig
+
+by [mathew](../profile/mathew) July 01, 2016 23:25
+
+July 01, 2016 23:25 | Tags: [kite-mapping](../tag/kite-mapping), [kap](../tag/kap), [photo-rig](../tag/photo-rig), [autokap](../tag/autokap), [kap-rigs](../tag/kap-rigs), [silly-putty](../tag/silly-putty), [reconfigurable-rig](../tag/reconfigurable-rig)
 
 ###Goals
 @Ranon is working on a [silly putty and rubber band powered automatic pan and tilt rigging for cameras](/notes/ranon/06-13-2016/silly-putty-kap-rig). The pan functionality was easy, but the tilt has been hard to implement.  I wanted to look at some ideal mechanisms and see what guidance I could find on improving/designing a better tilt system.

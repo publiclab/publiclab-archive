@@ -1,5 +1,5 @@
 # lat-57.142107
 
-1 notes and wiki pages
+1 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Kite Aerial Mapping of Torry Battery](/notes/Jvan/09-25-2021/kite-aerial-mapping-of-torry-battery) by [Jvan](../profile/Jvan)

@@ -1,12 +1,18 @@
 ---
-nid: 721
 title: Sandbox
-path: public/static/wiki/sandbox.md
+tagnames: organizers, activity, organizer
+author: warren
+path: /wiki/sandbox.md
+nid: 721
 uid: 1
-tagnames: organizers,activity,organizer
+
 ---
 
 # Sandbox
+
+by [liz](../profile/liz), [bhamster](../profile/bhamster), [stevie](../profile/stevie), [warren](../profile/warren), [xose](../profile/xose), [ananyo2012](../profile/ananyo2012), [sarasage](../profile/sarasage), [mathew](../profile/mathew), [gretchengehrke](../profile/gretchengehrke), [icarito](../profile/icarito), [nemo](../profile/nemo), [mollydanielsson](../profile/mollydanielsson)
+
+January 26, 2012 20:44 | Tags: [organizers](../tag/organizers), [activity](../tag/activity), [organizer](../tag/organizer)
 
 <div class="alert alert-danger">
 The MapKnitter platform runs on a combination of volunteer and paid labor by the many people that build, maintain, and operate it via Public Lab. This is an effective combination thanks to the culture of Public Lab's Coding Community. Public Lab's web ecosystem, including PublicLab.org, MapKnitter.org, SpectralWorkbench.org, Infragram.org and associated projects, takes 20 hours a week from three Code Coordinators and our sysadmin. While cost effective, it is not free. Web hosting and server costs for MapKnitter are approximately $1000 per month.

@@ -1,12 +1,18 @@
 ---
-nid: 11654
 title: Stand Alone Data Logger for Field Use
-path: public/static/notes/bhickman/03-05-2015/stand-alone-data-logger-for-field-use.md
+tagnames: sensors, datalogger, logging
+author: bhickman
+path: /notes/bhickman/03-05-2015/stand-alone-data-logger-for-field-use.md
+nid: 11654
 uid: 201929
-tagnames: sensors,datalogger,logging
+
 ---
 
 # Stand Alone Data Logger for Field Use
+
+by [bhickman](../profile/bhickman) March 05, 2015 07:26
+
+March 05, 2015 07:26 | Tags: [sensors](../tag/sensors), [datalogger](../tag/datalogger), [logging](../tag/logging)
 
 ##Purpose:  
 Many project require that instruments be left in the field for extended periods of time to collect data. Many of these instruments do not log data, but have an analog output that must be recorded by some other device. Previously [Dr. Summers](http://publiclab.org/profile/JSummers) has developed a couple boards ([here](http://publiclab.org/notes/JSummers/09-23-2014/datalogger-part-2b-simpler-hardware-some-observations-about-ion-selective-electrodes-and-ram) and [here](http://publiclab.org/notes/JSummers/09-25-2014/datalogger-part-2a-generating-a-signal-amplifying-it-and-displaying-the-data)) that, once connected to a computer, will log an analog instrument’s output as well as display the data in real time. This note demonstrates how to take the board developed by Dr. Summers and use it without the need for a computer.

@@ -1,6 +1,6 @@
 # list-plots-waterquality
 
-13 notes and wiki pages
+13 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Home Testing for Endocrine Disruptors](/wiki/environmental-estrogen-testing) (wiki)
 - [Potentiostat](/wiki/potentiostat) (wiki)

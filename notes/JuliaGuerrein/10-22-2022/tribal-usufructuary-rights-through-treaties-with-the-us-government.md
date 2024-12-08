@@ -1,12 +1,18 @@
 ---
-nid: 35724
 title: Tribal usufructuary rights through treaties with the US Government
-path: public/static/notes/JuliaGuerrein/10-22-2022/tribal-usufructuary-rights-through-treaties-with-the-us-government.md
+tagnames: minnesota, location:blurred, lat:44, place:united-states, zoom:6, mn-land-manoomin-protection, lon:-93, treaty-rights, environmental-law
+author: JuliaGuerrein
+path: /notes/JuliaGuerrein/10-22-2022/tribal-usufructuary-rights-through-treaties-with-the-us-government.md
+nid: 35724
 uid: 796025
-tagnames: minnesota,location:blurred,lat:44,place:united-states,zoom:6,mn-land-manoomin-protection,lon:-93,treaty-rights,environmental-law
+
 ---
 
 # Tribal usufructuary rights through treaties with the US Government
+
+by [JuliaGuerrein](../profile/JuliaGuerrein) October 22, 2022 22:48
+
+October 22, 2022 22:48 | Tags: [minnesota](../tag/minnesota), [location:blurred](../tag/location:blurred), [lat:44](../tag/lat:44), [place:united-states](../tag/place:united-states), [zoom:6](../tag/zoom:6), [mn-land-manoomin-protection](../tag/mn-land-manoomin-protection), [lon:-93](../tag/lon:-93), [treaty-rights](../tag/treaty-rights), [environmental-law](../tag/environmental-law)
 
 _Photo: 1854 Treaty Boundary sign on Highway 210 near Tamarack in Northern Minnesota by [Lorie Shaull](https://www.lorieshaull.com/)_
 

@@ -1,12 +1,18 @@
 ---
-nid: 12313
 title: Return to Planet LEAFFEST
-path: public/static/notes/cfastie/10-16-2015/return-to-planet-leaffest.md
+tagnames: kite-mapping, vermont, kite, leaffest, grassrootsmappingforum, northeast, style:fancy, saturnv, skyshield, half-spherical, leaffest2015, response:12291, littleplanet, gmf-9
+author: cfastie
+path: /notes/cfastie/10-16-2015/return-to-planet-leaffest.md
+nid: 12313
 uid: 554
-tagnames: kite-mapping,vermont,kite,leaffest,grassrootsmappingforum,northeast,style:fancy,saturnv,skyshield,half-spherical,leaffest2015,response:12291,littleplanet,gmf-9
+
 ---
 
 # Return to Planet LEAFFEST
+
+by [cfastie](../profile/cfastie) October 16, 2015 23:47
+
+October 16, 2015 23:47 | Tags: [kite-mapping](../tag/kite-mapping), [vermont](../tag/vermont), [kite](../tag/kite), [leaffest](../tag/leaffest), [grassrootsmappingforum](../tag/grassrootsmappingforum), [northeast](../tag/northeast), [style:fancy](../tag/style:fancy), [saturnv](../tag/saturnv), [skyshield](../tag/skyshield), [half-spherical](../tag/half-spherical), [leaffest2015](../tag/leaffest2015), [response:12291](../tag/response:12291), [littleplanet](../tag/littleplanet), [gmf-9](../tag/gmf-9)
 
 *Above: Dramatic differences in the surface of Planet LEAFFEST have been documented by repeat flyby missions four days apart. The second mission reached a greater altitude above the planet surface making it appear that topographic relief has been reduced. That's just an illusion, but the change in color actually happened. It was also noon instead of late afternoon, but you get the idea -- fall is here.*
 

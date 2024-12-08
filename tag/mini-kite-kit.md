@@ -1,6 +1,6 @@
 # mini-kite-kit
 
-15 notes and wiki pages
+15 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Infragram kite mapping at Fab10 Barcelona](/notes/warren/07-09-2014/infragram-kite-mapping-at-fab10-barcelona) by [warren](../profile/warren)
 - [KAP Rig for Mobius Action Cam](/notes/code4maine/07-09-2014/kap-rig-for-mobius-action-cam) by [ajawitz](../profile/ajawitz)

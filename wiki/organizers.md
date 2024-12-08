@@ -1,12 +1,18 @@
 ---
-nid: 1805
 title: Public Lab organizers
-path: public/static/wiki/organizers.md
+tagnames: community, organizers
+author: Shannon
+path: /wiki/organizers.md
+nid: 1805
 uid: 9
-tagnames: community,organizers
+
 ---
 
 # Public Lab organizers
+
+by [stevie](../profile/stevie), [zengirl2](../profile/zengirl2), [liz](../profile/liz), [pdhixenbaugh](../profile/pdhixenbaugh), [sarasage](../profile/sarasage), [cfastie](../profile/cfastie), [ygzstc](../profile/ygzstc), [polygal](../profile/polygal), [klie](../profile/klie), [shanlter](../profile/shanlter), [ddileona](../profile/ddileona), [clauds](../profile/clauds), [Shannon](../profile/Shannon), [nshapiro](../profile/nshapiro), [warren](../profile/warren), [briantakita](../profile/briantakita), [MelissaN](../profile/MelissaN), [manetomapping](../profile/manetomapping), [vjpixel](../profile/vjpixel), [btbonval](../profile/btbonval), [natalie](../profile/natalie), [bsugar](../profile/bsugar), [MicheleTobias](../profile/MicheleTobias), [Juan](../profile/Juan), [kanarinka](../profile/kanarinka), [Bronwen](../profile/Bronwen), [willie](../profile/willie), [eustatic](../profile/eustatic), [pablo](../profile/pablo), [nicholas](../profile/nicholas), [amansingh](../profile/amansingh), [hagitkeysar](../profile/hagitkeysar), [jbreen](../profile/jbreen), [geography76](../profile/geography76), [gonzoearth](../profile/gonzoearth), [mathew](../profile/mathew), [patcoyle](../profile/patcoyle), [Hudonnoodles](../profile/Hudonnoodles), [sara](../profile/sara)
+
+April 26, 2012 21:54 | Tags: [community](../tag/community), [organizers](../tag/organizers)
 
 ###Overview###
 

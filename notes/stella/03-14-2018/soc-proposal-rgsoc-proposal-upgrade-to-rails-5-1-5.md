@@ -1,12 +1,18 @@
 ---
-nid: 15948
 title: SoC proposal:RGSOC PROPOSAL: Upgrade to Rails 5.1.5 
-path: public/static/notes/stella/03-14-2018/soc-proposal-rgsoc-proposal-upgrade-to-rails-5-1-5.md
+tagnames: software, gsoc, rgsoc, soc, response:13975, gsoc-2018, soc-2018, rgsoc-2018, soc-2018-proposals, to_json
+author: stella
+path: /notes/stella/03-14-2018/soc-proposal-rgsoc-proposal-upgrade-to-rails-5-1-5.md
+nid: 15948
 uid: 504749
-tagnames: software,gsoc,rgsoc,soc,response:13975,gsoc-2018,soc-2018,rgsoc-2018,soc-2018-proposals,to_json
+
 ---
 
 # SoC proposal:RGSOC PROPOSAL: Upgrade to Rails 5.1.5 
+
+by [stella](../profile/stella) March 14, 2018 06:57
+
+March 14, 2018 06:57 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [rgsoc](../tag/rgsoc), [soc](../tag/soc), [response:13975](../tag/response:13975), [gsoc-2018](../tag/gsoc-2018), [soc-2018](../tag/soc-2018), [rgsoc-2018](../tag/rgsoc-2018), [soc-2018-proposals](../tag/soc-2018-proposals), [to_json](../tag/to_json)
 
 ######**RGSOC PROPOSAL: Upgrade to Rails 5.1.5**
 [![log.png](https://publiclab.org/system/images/photos/000/023/735/large/log.png)](https://publiclab.org/system/images/photos/000/023/735/original/log.png)

@@ -1,12 +1,18 @@
 ---
-nid: 17726
 title: The new Welcome Page is waiting for your feedback
-path: public/static/notes/edie_blues/11-21-2018/the-new-welcome-page-is-waiting-for-your-feedback.md
+tagnames: welcome, ui, first-time-poster, new-users, ui-designs
+author: edie_blues
+path: /notes/edie_blues/11-21-2018/the-new-welcome-page-is-waiting-for-your-feedback.md
+nid: 17726
 uid: 552521
-tagnames: welcome,ui,first-time-poster,new-users,ui-designs
+
 ---
 
 # The new Welcome Page is waiting for your feedback
+
+by [edie_blues](../profile/edie_blues) November 21, 2018 18:26
+
+November 21, 2018 18:26 | Tags: [welcome](../tag/welcome), [ui](../tag/ui), [first-time-poster](../tag/first-time-poster), [new-users](../tag/new-users), [ui-designs](../tag/ui-designs)
 
 Hello,
 

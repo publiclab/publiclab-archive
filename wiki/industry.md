@@ -1,12 +1,18 @@
 ---
-nid: 21064
 title: Industry
-path: public/static/wiki/industry.md
-uid: 422561
 tagnames: industry
+author: stevie
+path: /wiki/industry.md
+nid: 21064
+uid: 422561
+
 ---
 
 # Industry
+
+by [stevie](../profile/stevie)
+
+October 03, 2019 14:26 | Tags: [industry](../tag/industry)
 
 Industry is a major contributor to pollution and land change. From manufacturing, to oil and gas, transportation, and mining, the industrial landscape of a place affects the way we live our lives and the health of our communities. 
 

@@ -1,12 +1,18 @@
 ---
-nid: 11278
 title: A Matter of Scale - Civil Architecture and Open Hardware
-path: public/static/notes/hagitkeysar/10-19-2014/a-matter-of-scale-civil-architecture-and-open-hardware.md
+tagnames: balloon-mapping, jerusalem, annotated-maps, presentations, israel, palestine, design, presentation, urban-design, urban-planning, blog, annotation, architecture, urban-biosphere, barnstar:photo-documentation, civil-architecture
+author: hagitkeysar
+path: /notes/hagitkeysar/10-19-2014/a-matter-of-scale-civil-architecture-and-open-hardware.md
+nid: 11278
 uid: 152
-tagnames: balloon-mapping,jerusalem,annotated-maps,presentations,israel,palestine,design,presentation,urban-design,urban-planning,blog,annotation,architecture,urban-biosphere,barnstar:photo-documentation,civil-architecture
+
 ---
 
 # A Matter of Scale - Civil Architecture and Open Hardware
+
+by [hagitkeysar](../profile/hagitkeysar) October 19, 2014 09:50
+
+October 19, 2014 09:50 | Tags: [balloon-mapping](../tag/balloon-mapping), [jerusalem](../tag/jerusalem), [annotated-maps](../tag/annotated-maps), [presentations](../tag/presentations), [israel](../tag/israel), [palestine](../tag/palestine), [design](../tag/design), [presentation](../tag/presentation), [urban-design](../tag/urban-design), [urban-planning](../tag/urban-planning), [blog](../tag/blog), [annotation](../tag/annotation), [architecture](../tag/architecture), [urban-biosphere](../tag/urban-biosphere), [barnstar:photo-documentation](../tag/barnstar:photo-documentation), [civil-architecture](../tag/civil-architecture)
 
 I am sharing here the talk + slides that [Liat Brix-Etgar](http://innovationweek.makerfairerome.eu/en/liat-brix-etgar-2/) and myself, [Hagit Keysar](http://innovationweek.makerfairerome.eu/en/hagit-keysar-2/), delivered at the Open Hardware Summit that took place in Rome, Italy, September 30 - October 1 2014.
 You can find a video documentation of the talk [here](http://vimeo.com/album/3114662/video/110336585).

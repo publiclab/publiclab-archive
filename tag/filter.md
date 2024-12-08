@@ -1,6 +1,6 @@
 # filter
 
-45 notes and wiki pages
+45 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Cheap UV photos: Using a UV-pass filter with a CMOS camera](/notes/warren/4-28-2011/cheap-uv-photos-using-uv-pass-filter-cmos-camera) by [warren](../profile/warren)
 - [Webcam filter removal](/wiki/webcam-filter-removal) (wiki)
@@ -40,9 +40,7 @@
 - [Need insight on using this lens on modded camera for NDVI: OCN (Orange+Cyan+NIR) filter](/notes/alanw/08-23-2018/need-insight-on-using-this-lens-on-modded-camera-for-ndvi-ocn-orange-cyan-nir-filter) by [alanw](../profile/alanw)
 - [Has anyone had any experience converting the Canon SD1000 to infra-red?](/notes/shinnen/12-04-2018/has-anyone-had-any-experience-converting-the-canon-sd1000-to-infra-red) by [shinnen](../profile/shinnen)
 - [Testing a Midopt DB660/850 filter: NIR contamination of the red channel](/notes/Corymbia/02-19-2019/testing-a-midopt-db660-850-filter-nir-contamination-of-the-red-channel) by [Corymbia](../profile/Corymbia)
-- [Qualitative Cellulose Filter Papers Grade:1](/notes/c329163204/05-21-2019/qualitative-cellulose-filter-papers-grade-1) by [c329163204](../profile/c329163204)
 - [NDVI results from modified camera is inaccurate](/notes/ThomasTaufan/06-05-2020/ndvi-results-from-modified-camera-is-inaccurate) by [ThomasTaufan](../profile/ThomasTaufan)
-- [Torque Limiting Oil Filter Socket Wrench Manufacturer - Klick Wrench ](/notes/Klickwrench/07-09-2020/torque-limiting-oil-filter-socket-wrench-manufacturer-klick-wrench) by [Klickwrench](../profile/Klickwrench)
 - [New Developments in Multi-Spectral Drone Imaging in the Ultraviolet Band](/notes/ektopyrotic/09-14-2020/new-developments-in-multi-spectral-drone-imaging-in-the-ultraviolet-band) by [ektopyrotic](../profile/ektopyrotic)
 - [NDVI image issues from GoPro 3+ Silver ](/notes/jeffa_plain/11-22-2021/ndvi-image-issues-from-gopro-3-silver) by [jeffa_plain](../profile/jeffa_plain)
 - [Why Red filter results are blurry compared to Blue filters?](/notes/shahdharam7/12-17-2021/why-red-filter-results-are-blurry-compared-to-blue-filters) by [shahdharam7](../profile/shahdharam7)

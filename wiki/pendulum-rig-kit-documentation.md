@@ -1,12 +1,18 @@
 ---
-nid: 12494
 title: Pendulum Rig Kit Documentation
-path: public/static/wiki/pendulum-rig-kit-documentation.md
+tagnames: balloon-mapping, kite-mapping, polemapping, pole-mapping
+author: tonyc
+path: /wiki/pendulum-rig-kit-documentation.md
+nid: 12494
 uid: 447491
-tagnames: balloon-mapping,kite-mapping,polemapping,pole-mapping
+
 ---
 
 # Pendulum Rig Kit Documentation
+
+by [tonyc](../profile/tonyc)
+
+December 09, 2015 22:57 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [polemapping](../tag/polemapping), [pole-mapping](../tag/pole-mapping)
 
 This is first stab at manual for the forthcoming Pendulum Rig Kit.
 

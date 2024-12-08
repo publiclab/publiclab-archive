@@ -1,6 +1,6 @@
 # maps
 
-13 notes and wiki pages
+13 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Public Lab Aerial Imagery in Google Earth](/notes/gonzoearth/04-30-2013/public-lab-aerial-imagery-in-google-earth) by [gonzoearth](../profile/gonzoearth)
 - [MapKnitter: using the browser for maximun zoom ](/notes/gonzoearth/05-09-2013/mapknitter-using-the-browser-for-maximun-zoom) by [gonzoearth](../profile/gonzoearth)
@@ -13,5 +13,4 @@
 - [Leaflet Environmental Layer Library - Part 2](/notes/sagarpreet/07-16-2018/leaflet-environmental-layer-library-part-2) by [sagarpreet](../profile/sagarpreet)
 - [Download & Analyze Purple Air data](/notes/jiteovien/08-28-2018/download-analyze-your-purple-air-data) by [jiteovien](../profile/jiteovien)
 - [PM 2.5 Air Quality Index for Keller, Texas](/notes/jiteovien/08-28-2018/pm-2-5-air-quality-index-for-keller-texas) by [jiteovien](../profile/jiteovien)
-- [Garmin lifetime maps update | Garmin Nuvi map update](/notes/Remokok/03-05-2020/garmin-lifetime-maps-update-garmin-nuvi-map-update) by [Remokok](../profile/Remokok)
 - [Has anyone here ever used the Environmental Response Management Application (ERMA) for organizing around an environmental concern? ](/notes/amocorro/11-18-2020/has-anyone-here-ever-used-the-environmental-response-management-application-erma-for-organizing-around-an-environmental-concern) by [amocorro](../profile/amocorro)

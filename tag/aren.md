@@ -1,6 +1,6 @@
 # aren
 
-21 notes and wiki pages
+21 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Any simple ways to measure wind direction from a data logger?](/notes/warren/06-12-2017/any-simple-ways-to-measure-wind-direction-from-a-data-logger) by [warren](../profile/warren)
 - [Remove lens distortion from photos with FisheyeGL](/notes/warren/08-25-2017/remove-lens-distortion-from-photos-with-fisheyegl) by [warren](../profile/warren)
@@ -10,7 +10,6 @@
 - [What are materials we could include in a Kite Making Materials Pack?](/notes/warren/01-17-2018/what-are-materials-we-could-include-in-a-kite-making-materials-pack) by [warren](../profile/warren)
 - [How simple would it be to connect the AS220 wind sensor P to the Mini Pearl Logger?](/notes/warren/03-07-2018/how-simple-would-it-be-to-connect-the-as220-wind-sensor-p-to-the-mini-pearl-logger) by [warren](../profile/warren)
 - [Building miniature kites at a family science night](/notes/SuziT9/03-08-2018/building-miniature-kites-at-a-family-science-night) by [SuziT9](../profile/SuziT9)
-- [Have done this before](/notes/SeoServicesSydney/03-23-2018/have-done-this-before) by [SeoServicesSydney](../profile/SeoServicesSydney)
 - [Testing a cheap webcam with Infragram - spoiler alert: nope](/notes/warren/04-25-2018/testing-a-cheap-webcam-with-infragram-spoiler-alert-nope) by [warren](../profile/warren)
 - [Prototype: filter map tiles in real-time in a browser with ImageSequencer (NDVI Landsat)](/notes/warren/05-10-2018/prototype-filter-map-tiles-in-real-time-in-a-browser-with-imagesequencer-ndvi-landsat) by [warren](../profile/warren)
 - [Use Image Sequencer for NDVI plant analysis with 2 images](/notes/warren/05-30-2018/use-image-sequencer-for-ndvi-plant-analysis-with-2-images) by [warren](../profile/warren)

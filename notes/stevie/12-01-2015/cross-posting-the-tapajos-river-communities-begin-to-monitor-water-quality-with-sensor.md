@@ -1,12 +1,18 @@
 ---
-nid: 12467
 title: Cross-posting:: The Tapajos River communities begin to monitor water quality with sensor
-path: public/static/notes/stevie/12-01-2015/cross-posting-the-tapajos-river-communities-begin-to-monitor-water-quality-with-sensor.md
-uid: 422561
 tagnames: blog
+author: stevie
+path: /notes/stevie/12-01-2015/cross-posting-the-tapajos-river-communities-begin-to-monitor-water-quality-with-sensor.md
+nid: 12467
+uid: 422561
+
 ---
 
 # Cross-posting:: The Tapajos River communities begin to monitor water quality with sensor
+
+by [stevie](../profile/stevie) December 01, 2015 18:35
+
+December 01, 2015 18:35 | Tags: [blog](../tag/blog)
 
 This is a cross-posting from InfoAmazonia's blog page, and google-translated from Portuguese. Check out the original post with pictures [here](http://infoamazonia.blogosfera.uol.com.br/2015/11/24/comunidades-do-rio-tapajos-passam-a-monitorar-qualidade-dagua-com-sensor/). The above photo came from InfoAmazonia. 
 

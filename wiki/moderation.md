@@ -1,12 +1,18 @@
 ---
-nid: 12861
 title: Moderation
-path: public/static/wiki/moderation.md
+tagnames: community, spam, moderation, lat:25, first-contribution, contribute
+author: warren
+path: /wiki/moderation.md
+nid: 12861
 uid: 1
-tagnames: community,spam,moderation,lat:25,first-contribution,contribute
+
 ---
 
 # Moderation
+
+by [bsugar](../profile/bsugar), [liz](../profile/liz), [koplak79](../profile/koplak79), [cfastie](../profile/cfastie), [engineeredgreenhouses12](../profile/engineeredgreenhouses12), [xose](../profile/xose), [engineeredgreenhouses1](../profile/engineeredgreenhouses1), [growextrememax](../profile/growextrememax), [warren](../profile/warren), [tester](../profile/tester), [ddileona](../profile/ddileona)
+
+March 18, 2016 14:51 | Tags: [community](../tag/community), [spam](../tag/spam), [moderation](../tag/moderation), [lat:25](../tag/lat:25), [first-contribution](../tag/first-contribution), [contribute](../tag/contribute)
 
 ## Why moderate?
 

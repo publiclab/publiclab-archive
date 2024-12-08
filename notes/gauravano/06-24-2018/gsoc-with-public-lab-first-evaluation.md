@@ -1,12 +1,18 @@
 ---
-nid: 16557
 title: GSoC with Public Lab: First Evaluation 
-path: public/static/notes/gauravano/06-24-2018/gsoc-with-public-lab-first-evaluation.md
+tagnames: gsoc, soc, gsoc-2018, draft-feature
+author: gauravano
+path: /notes/gauravano/06-24-2018/gsoc-with-public-lab-first-evaluation.md
+nid: 16557
 uid: 515081
-tagnames: gsoc,soc,gsoc-2018,draft-feature
+
 ---
 
 # GSoC with Public Lab: First Evaluation 
+
+by [gauravano](../profile/gauravano) June 23, 2018 09:38
+
+June 23, 2018 09:38 | Tags: [gsoc](../tag/gsoc), [soc](../tag/soc), [gsoc-2018](../tag/gsoc-2018), [draft-feature](../tag/draft-feature)
 
 **Hello!** 
 

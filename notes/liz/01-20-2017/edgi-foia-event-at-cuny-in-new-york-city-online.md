@@ -1,12 +1,18 @@
 ---
-nid: 13868
 title: EDGI FOIA event at CUNY in New York City & online
-path: public/static/notes/liz/01-20-2017/edgi-foia-event-at-cuny-in-new-york-city-online.md
+tagnames: new-york-city, event, live-call, cuny, edgi
+author: liz
+path: /notes/liz/01-20-2017/edgi-foia-event-at-cuny-in-new-york-city-online.md
+nid: 13868
 uid: 7
-tagnames: new-york-city,event,live-call,cuny,edgi
+
 ---
 
 # EDGI FOIA event at CUNY in New York City & online
+
+by [liz](../profile/liz) January 20, 2017 22:30
+
+January 20, 2017 22:30 | Tags: [new-york-city](../tag/new-york-city), [event](../tag/event), [live-call](../tag/live-call), [cuny](../tag/cuny), [edgi](../tag/edgi)
 
 This event will be at the [Center for Urban Environmental Reform][1], hosted by [CUNY School of Law][2] as part of the [Environmental Data and Governance Initiative][3] with Public Lab.
 

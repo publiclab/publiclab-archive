@@ -1,12 +1,18 @@
 ---
-nid: 11701
 title: Mapping along the Rio Hondo River in Belize
-path: public/static/wiki/mapping-along-the-rio-hondo-river-in-belize.md
+tagnames: belize, belizeopensource, grassrootsmappingforum, style:fancy, with:patcoyle, gmf-5, geomatic
+author: mollydanielsson
+path: /wiki/mapping-along-the-rio-hondo-river-in-belize.md
+nid: 11701
 uid: 1259
-tagnames: belize,belizeopensource,grassrootsmappingforum,style:fancy,with:patcoyle,gmf-5,geomatic
+
 ---
 
 # Mapping along the Rio Hondo River in Belize
+
+by [mollydanielsson](../profile/mollydanielsson)
+
+March 20, 2015 23:30 | Tags: [belize](../tag/belize), [belizeopensource](../tag/belizeopensource), [grassrootsmappingforum](../tag/grassrootsmappingforum), [style:fancy](../tag/style:fancy), [with:patcoyle](../tag/with:patcoyle), [gmf-5](../tag/gmf-5), [geomatic](../tag/geomatic)
 
 by Pat Coyle
 

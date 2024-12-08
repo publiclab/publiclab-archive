@@ -1,12 +1,18 @@
 ---
-nid: 13000
 title: Question: I want to do citizen bee science
-path: public/static/notes/FortunaWolf/04-18-2016/question-i-want-to-do-citizen-bee-science.md
+tagnames: spectrometer, question:spectrometry, bees, pollen, resolution
+author: FortunaWolf
+path: /notes/FortunaWolf/04-18-2016/question-i-want-to-do-citizen-bee-science.md
+nid: 13000
 uid: 470770
-tagnames: spectrometer,question:spectrometry,bees,pollen,resolution
+
 ---
 
 # Question: I want to do citizen bee science
+
+by [FortunaWolf](../profile/FortunaWolf) April 18, 2016 15:49
+
+April 18, 2016 15:49 | Tags: [spectrometer](../tag/spectrometer), [question:spectrometry](../tag/question:spectrometry), [bees](../tag/bees), [pollen](../tag/pollen), [resolution](../tag/resolution)
 
 ###What I want to do or know
 Hello human colleagues, 

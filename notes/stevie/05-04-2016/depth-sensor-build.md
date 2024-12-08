@@ -1,12 +1,18 @@
 ---
-nid: 13073
 title: Depth Sensor Build!
-path: public/static/notes/stevie/05-04-2016/depth-sensor-build.md
+tagnames: gulf-coast, event, neworleans, depth, event:gulf-coast
+author: stevie
+path: /notes/stevie/05-04-2016/depth-sensor-build.md
+nid: 13073
 uid: 422561
-tagnames: gulf-coast,event,neworleans,depth,event:gulf-coast
+
 ---
 
 # Depth Sensor Build!
+
+by [stevie](../profile/stevie) May 04, 2016 16:41
+
+May 04, 2016 16:41 | Tags: [gulf-coast](../tag/gulf-coast), [event](../tag/event), [neworleans](../tag/neworleans), [depth](../tag/depth), [event:gulf-coast](../tag/event:gulf-coast)
 
 _Background image above credit to the New Orleans Advocate, John McCusker_
 

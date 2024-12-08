@@ -1,6 +1,6 @@
 # mapknitter-development
 
-4 notes and wiki pages
+4 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Setting up MapKnitter](/notes/justinmanley/09-01-2014/setting-up-mapknitter) by [justinmanley](../profile/justinmanley)
 - [MapKnitter Long-Term Development](/wiki/mapknitter-long-term-development) (wiki)

@@ -1,12 +1,16 @@
 ---
-nid: 12044
 title: sandbox-2
-path: public/static/feature/sandbox-2.md
-uid: 1
 tagnames: 
+author: warren
+path: /feature/sandbox-2.md
+nid: 12044
+uid: 1
+
 ---
 
 # sandbox-2
+
+July 09, 2015 19:37 | Tags: 
 
   <a href="/notes/ygzstc/07-14-2015/oil-testing-kit-beta-program" class="span4 feature img inverted" style="background-image:url('https://i.publiclab.org/system/images/photos/000/010/594/medium/otk-b-dark.jpg')">
     <h3>Oil Testing Kit Public Beta</h3>

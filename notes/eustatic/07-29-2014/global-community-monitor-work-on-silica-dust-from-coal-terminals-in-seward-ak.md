@@ -1,12 +1,18 @@
 ---
-nid: 10988
 title: Global Community  Monitor work on Silica Dust from Coal Terminals in Seward, AK
-path: public/static/notes/eustatic/07-29-2014/global-community-monitor-work-on-silica-dust-from-coal-terminals-in-seward-ak.md
+tagnames: alaska, coal, dust, silica, particulate, pm, seward, global-community-monitor
+author: eustatic
+path: /07-29-2014/global-community-monitor-work-on-silica-dust-from-coal-terminals-in-seward-ak.md
+nid: 10988
 uid: 379
-tagnames: alaska,coal,dust,silica,particulate,pm,seward,global-community-monitor
+
 ---
 
 # Global Community  Monitor work on Silica Dust from Coal Terminals in Seward, AK
+
+by [eustatic](../profile/eustatic) July 29, 2014 00:39
+
+July 29, 2014 00:39 | Tags: [alaska](../tag/alaska), [coal](../tag/coal), [dust](../tag/dust), [silica](../tag/silica), [particulate](../tag/particulate), [pm](../tag/pm), [seward](../tag/seward), [global-community-monitor](../tag/global-community-monitor)
 
 This is a re-post of a press release relevant to the Open Hour on Dust
 

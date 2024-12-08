@@ -1,12 +1,18 @@
 ---
-nid: 14553
 title: SkyPod GPS Logger
-path: public/static/wiki/skypod-gps-logger.md
+tagnames: balloon-mapping, kite-mapping, kite-aerial-photography, balloon-telemetry-kit, kap, gps, datalogger, skypod, parent:data-logging, activities:skypod-gps-logger
+author: cfastie
+path: /wiki/skypod-gps-logger.md
+nid: 14553
 uid: 554
-tagnames: balloon-mapping,kite-mapping,kite-aerial-photography,balloon-telemetry-kit,kap,gps,datalogger,skypod,parent:data-logging,activities:skypod-gps-logger
+
 ---
 
 # SkyPod GPS Logger
+
+by [cfastie](../profile/cfastie)
+
+June 19, 2017 15:40 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [kite-aerial-photography](../tag/kite-aerial-photography), [balloon-telemetry-kit](../tag/balloon-telemetry-kit), [kap](../tag/kap), [gps](../tag/gps), [datalogger](../tag/datalogger), [skypod](../tag/skypod), [parent:data-logging](../tag/parent:data-logging), [activities:skypod-gps-logger](../tag/activities:skypod-gps-logger)
 
 The SkyPod is an Arduino-based GPS logger designed to fly on a kite or balloon camera rig, but can be used as a general purpose data logger with a GPS receiver. The SkyPod includes an Arduino Nano, GPS module with antenna, and microSD card socket. Environmental sensors for temperature, humidity, and barometric pressure are typically part of the payload. Data can be saved to microSD card at any interval. Everything fits into a 3D printed housing which can be firmly attached to a camera rig. 
 

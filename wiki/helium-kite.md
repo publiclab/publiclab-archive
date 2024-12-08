@@ -1,12 +1,18 @@
 ---
-nid: 1730
 title: Helium Kite
-path: public/static/wiki/helium-kite.md
+tagnames: balloon-mapping, kite-mapping, grassrootsmappingwiki, diy-balloon
+author: warren
+path: /wiki/helium-kite.md
+nid: 1730
 uid: 1
-tagnames: balloon-mapping,kite-mapping,grassrootsmappingwiki,diy-balloon
+
 ---
 
 # Helium Kite
+
+by [mathew](../profile/mathew), [warren](../profile/warren)
+
+April 21, 2012 14:36 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [grassrootsmappingwiki](../tag/grassrootsmappingwiki), [diy-balloon](../tag/diy-balloon)
 
 (copied from GrassrootsMapping Wiki)
 

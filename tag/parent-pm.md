@@ -1,6 +1,6 @@
 # parent-pm
 
-6 notes and wiki pages
+6 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [passive-pm](/wiki/passive-pm) (wiki)
 - [pm-monitoring-regulations](/wiki/pm-monitoring-regulations) (wiki)

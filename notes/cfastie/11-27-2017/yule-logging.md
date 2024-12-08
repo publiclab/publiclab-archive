@@ -1,12 +1,18 @@
 ---
-nid: 15242
 title: Yule logging
-path: public/static/notes/cfastie/11-27-2017/yule-logging.md
+tagnames: arduino, sensors, datalogger, data-logging, arduino-nano, nano-data-logger, 16x2_lcd, bme280, gy90615, activity:nano-data-logger, thermal-infrared, gy90614, series:woodstove-control
+author: cfastie
+path: /notes/cfastie/11-27-2017/yule-logging.md
+nid: 15242
 uid: 554
-tagnames: arduino,sensors,datalogger,data-logging,arduino-nano,nano-data-logger,16x2_lcd,bme280,gy90615,activity:nano-data-logger,thermal-infrared,gy90614,series:woodstove-control
+
 ---
 
 # Yule logging
+
+by [cfastie](../profile/cfastie) November 27, 2017 00:41
+
+November 27, 2017 00:41 | Tags: [arduino](../tag/arduino), [sensors](../tag/sensors), [datalogger](../tag/datalogger), [data-logging](../tag/data-logging), [arduino-nano](../tag/arduino-nano), [nano-data-logger](../tag/nano-data-logger), [16x2_lcd](../tag/16x2_lcd), [bme280](../tag/bme280), [gy90615](../tag/gy90615), [activity:nano-data-logger](../tag/activity:nano-data-logger), [thermal-infrared](../tag/thermal-infrared), [gy90614](../tag/gy90614), [series:woodstove-control](../tag/series:woodstove-control)
 
 I heat my house in Vermont with a woodstove. There is an oil furnace which I use on really cold days or when I am away and can't feed the stove, but the woodstove supplies about 90% of the heat. I use three or four cords of wood every year, and I buy heating oil once every four years.
 

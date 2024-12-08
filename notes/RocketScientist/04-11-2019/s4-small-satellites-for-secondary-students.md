@@ -1,12 +1,18 @@
 ---
-nid: 19041
 title: S4: Small Satellites for Secondary Students
-path: public/static/notes/RocketScientist/04-11-2019/s4-small-satellites-for-secondary-students.md
+tagnames: spectrometer, balloon-telemetry-kit, sensor, first-time-poster
+author: RocketScientist
+path: /notes/RocketScientist/04-11-2019/s4-small-satellites-for-secondary-students.md
+nid: 19041
 uid: 583835
-tagnames: spectrometer,balloon-telemetry-kit,sensor,first-time-poster
+
 ---
 
 # S4: Small Satellites for Secondary Students
+
+by [RocketScientist](../profile/RocketScientist) April 11, 2019 23:06
+
+April 11, 2019 23:06 | Tags: [spectrometer](../tag/spectrometer), [balloon-telemetry-kit](../tag/balloon-telemetry-kit), [sensor](../tag/sensor), [first-time-poster](../tag/first-time-poster)
 
 A project I have been working on (ARLISS for the past 20 years - inventors of CanSats and CubeSats), in various versions over the years, is S4 - science payloads for amateur rockets and high altitude balloons - and even LEO satellites, for secondary school students.   The current format is a PocketQube - 1/8 of a CubeSat - 50mm on a side.
 

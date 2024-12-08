@@ -1,12 +1,18 @@
 ---
-nid: 10248
 title: Air Quality
-path: public/static/wiki/air-quality.md
+tagnames: indoor-air-quality-mapping, air-quality, air-quality-egg, dustduino, list:plots-airquality
+author: willie
+path: /wiki/air-quality.md
+nid: 10248
 uid: 235174
-tagnames: indoor-air-quality-mapping,air-quality,air-quality-egg,dustduino,list:plots-airquality
+
 ---
 
 # Air Quality
+
+by [bhamster](../profile/bhamster), [liz](../profile/liz), [warren](../profile/warren), [stevie](../profile/stevie), [kamau19](../profile/kamau19), [DavidMack](../profile/DavidMack), [mathew](../profile/mathew), [willie](../profile/willie)
+
+April 01, 2014 15:48 | Tags: [indoor-air-quality-mapping](../tag/indoor-air-quality-mapping), [air-quality](../tag/air-quality), [air-quality-egg](../tag/air-quality-egg), [dustduino](../tag/dustduino), [list:plots-airquality](../tag/list:plots-airquality)
 
 Outdoor air pollution, in the most extreme cases, can be immediately identified even without any special training. It casts a haze over cities, collects on streets and buildings, and provides dramatic fodder for the news. But while high drama is often a prerequisite for news about air quality to be reported, the real story is the health impacts that occur even when the air isn't thick enough to see. 
 

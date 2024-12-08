@@ -1,12 +1,18 @@
 ---
-nid: 13616
 title: Light bulb spectrum fchslamp
-path: public/static/notes/mpmoberly/10-19-2016/light-bulb-spectrum-fchslamp.md
+tagnames: hidden:response, response:13586
+author: mpmoberly
+path: /notes/mpmoberly/10-19-2016/light-bulb-spectrum-fchslamp.md
+nid: 13616
 uid: 494931
-tagnames: hidden:response,response:13586
+
 ---
 
 # Light bulb spectrum fchslamp
+
+by [mpmoberly](../profile/mpmoberly) October 19, 2016 17:27
+
+October 19, 2016 17:27 | Tags: [hidden:response](../tag/hidden:response), [response:13586](../tag/response:13586)
 
 ###What I want to do
 

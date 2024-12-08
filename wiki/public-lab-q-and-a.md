@@ -1,12 +1,18 @@
 ---
-nid: 13357
 title: About Public Lab Questions & Answers
-path: public/static/wiki/public-lab-q-and-a.md
+tagnames: help, research, q-and-a, soc, questions, parent:website-basics, asking-questions
+author: ananyo2012
+path: /wiki/public-lab-q-and-a.md
+nid: 13357
 uid: 468506
-tagnames: help,research,q-and-a,soc,questions,parent:website-basics,asking-questions
+
 ---
 
 # About Public Lab Questions & Answers
+
+by [bhamster](../profile/bhamster), [souravirus](../profile/souravirus), [liz](../profile/liz), [ananyo2012](../profile/ananyo2012)
+
+August 17, 2016 00:15 | Tags: [help](../tag/help), [research](../tag/research), [q-and-a](../tag/q-and-a), [soc](../tag/soc), [questions](../tag/questions), [parent:website-basics](../tag/parent:website-basics), [asking-questions](../tag/asking-questions)
 
 Welcome! This page is about Public Lab’s [Question & Answer system](/questions). The Q&A system is designed to help connect people who have environmental questions with those who can help to answer them. 
 

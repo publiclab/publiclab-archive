@@ -1,12 +1,18 @@
 ---
-nid: 8410
 title: Find closest match spectra from database - GSoC project
-path: public/static/notes/Sreyanth/06-24-2013/find-closest-match-spectra-from-database-gsoc-project.md
+tagnames: spectrometer, spectral-workbench, gsoc, spectral-matching, first-time-poster
+author: Sreyanth
+path: /notes/Sreyanth/06-24-2013/find-closest-match-spectra-from-database-gsoc-project.md
+nid: 8410
 uid: 96713
-tagnames: spectrometer,spectral-workbench,gsoc,spectral-matching,first-time-poster
+
 ---
 
 # Find closest match spectra from database - GSoC project
+
+by [Sreyanth](../profile/Sreyanth) June 24, 2013 07:46
+
+June 24, 2013 07:46 | Tags: [spectrometer](../tag/spectrometer), [spectral-workbench](../tag/spectral-workbench), [gsoc](../tag/gsoc), [spectral-matching](../tag/spectral-matching), [first-time-poster](../tag/first-time-poster)
 
 ##Who I am
 Hi everyone. I am Sreyantha Chary Mora (preferred: _Sreyanth_), a senior undergrad majoring in Computer Engineering at the National Institute of Technology Karnataka, Surathkal. This summer, I am working for the Public Lab as a GSoC student.

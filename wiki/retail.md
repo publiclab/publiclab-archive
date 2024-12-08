@@ -1,12 +1,18 @@
 ---
-nid: 535
 title: Retail 
-path: public/static/wiki/retail.md
-uid: 1
 tagnames: 
+author: warren
+path: /wiki/retail.md
+nid: 535
+uid: 1
+
 ---
 
 # Retail 
+
+by [liz](../profile/liz), [gonzoearth](../profile/gonzoearth), [warren](../profile/warren)
+
+November 02, 2011 20:21 | Tags: 
 
 #Retail Outline#
 

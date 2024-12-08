@@ -1,12 +1,18 @@
 ---
-nid: 6895
 title: Kite / Balloon Map of BP memorial demonstration in Artillery Park (wear black)
-path: public/static/notes/eustatic/04-18-2013/kite-balloon-map-of-bp-memorial-demonstration-in-artillery-park-wear-black.md
+tagnames: gulf-coast, event
+author: eustatic
+path: /04-18-2013/kite-balloon-map-of-bp-memorial-demonstration-in-artillery-park-wear-black.md
+nid: 6895
 uid: 379
-tagnames: gulf-coast,event
+
 ---
 
 # Kite / Balloon Map of BP memorial demonstration in Artillery Park (wear black)
+
+by [eustatic](../profile/eustatic) April 18, 2013 15:38
+
+April 18, 2013 15:38 | Tags: [gulf-coast](../tag/gulf-coast), [event](../tag/event)
 
 ##Event details
 What:  3 year memorial of the BP disaster, visual demonstration

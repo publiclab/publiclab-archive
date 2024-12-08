@@ -1,12 +1,18 @@
 ---
-nid: 8944
 title: Can we kick it?  Yes we can. Signal from a Flickering Refinery Flare 
-path: public/static/notes/eustatic/07-31-2013/can-we-kick-it-yes-we-can-flickering-flare-signal.md
+tagnames: gulf-coast, spectrometer, spectrometry, flare, chalmette, distance-spectrometry
+author: eustatic
+path: /07-31-2013/can-we-kick-it-yes-we-can-flickering-flare-signal.md
+nid: 8944
 uid: 379
-tagnames: gulf-coast,spectrometer,spectrometry,flare,chalmette,distance-spectrometry
+
 ---
 
 # Can we kick it?  Yes we can. Signal from a Flickering Refinery Flare 
+
+by [eustatic](../profile/eustatic) July 31, 2013 06:04
+
+July 31, 2013 06:04 | Tags: [gulf-coast](../tag/gulf-coast), [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [flare](../tag/flare), [chalmette](../tag/chalmette), [distance-spectrometry](../tag/distance-spectrometry)
 
 <img src="https://farm8.staticflickr.com/7408/9375537877_932f15e565_c.jpg">
 

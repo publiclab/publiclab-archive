@@ -1,12 +1,18 @@
 ---
-nid: 54
 title: Kite-Balloon Hybrid
-path: public/static/wiki/kite-balloon-hybrid.md
+tagnames: balloon-mapping, kite-mapping, kite-balloon-hybrid, agriculture, diy-balloon, mining, urban-planning, fracking, tool, land-use, industry, method, land-change
+author: mathew
+path: /wiki/kite-balloon-hybrid.md
+nid: 54
 uid: 4
-tagnames: balloon-mapping,kite-mapping,kite-balloon-hybrid,agriculture,diy-balloon,mining,urban-planning,fracking,tool,land-use,industry,method,land-change
+
 ---
 
 # Kite-Balloon Hybrid
+
+by [warren](../profile/warren), [mathew](../profile/mathew), [liz](../profile/liz)
+
+January 24, 2011 02:20 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [kite-balloon-hybrid](../tag/kite-balloon-hybrid), [agriculture](../tag/agriculture), [diy-balloon](../tag/diy-balloon), [mining](../tag/mining), [urban-planning](../tag/urban-planning), [fracking](../tag/fracking), [tool](../tag/tool), [land-use](../tag/land-use), [industry](../tag/industry), [method](../tag/method), [land-change](../tag/land-change)
 
 A kite balloon combines a lifting gas with active lift structures like wings to fly in all conditions. A good design may solve the common difficulty of flying in light winds, which makes balloon mapping difficult, but still falls short of kite-flying weather. It may also help reduce helium use, and therefore price.
 

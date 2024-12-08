@@ -1,12 +1,18 @@
 ---
-nid: 21321
 title: Oil and Gas Hardware Fellow Status Update: Week 6!
-path: public/static/notes/wmacfarl/10-28-2019/oil-and-gas-hardware-fellow-status-update-week-6.md
+tagnames: water-quality, turbidity, oil-and-gas, oil-and-gas-water-trio
+author: wmacfarl
+path: /notes/wmacfarl/10-28-2019/oil-and-gas-hardware-fellow-status-update-week-6.md
+nid: 21321
 uid: 424597
-tagnames: water-quality,turbidity,oil-and-gas,oil-and-gas-water-trio
+
 ---
 
 # Oil and Gas Hardware Fellow Status Update: Week 6!
+
+by [wmacfarl](../profile/wmacfarl) October 28, 2019 22:26
+
+October 28, 2019 22:26 | Tags: [water-quality](../tag/water-quality), [turbidity](../tag/turbidity), [oil-and-gas](../tag/oil-and-gas), [oil-and-gas-water-trio](../tag/oil-and-gas-water-trio)
 
 Over the last week, I have continued working on documenting the DF Robot liquid sensors.  Two weeks ago I wrote an [overview guide](https://publiclab.org/notes/wmacfarl/10-22-2019/testing-the-df-robot-liquid-sensors), describing the general process of getting these sensors to work with the Arduino and getting basic data off of them.  
 

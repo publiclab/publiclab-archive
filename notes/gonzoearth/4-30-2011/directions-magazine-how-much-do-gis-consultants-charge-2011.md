@@ -1,12 +1,18 @@
 ---
-nid: 207
 title: Directions Magazine: how much do GIS consultants charge in 2011 ?
-path: public/static/notes/gonzoearth/4-30-2011/directions-magazine-how-much-do-gis-consultants-charge-2011.md
-uid: 12
 tagnames: 
+author: gonzoearth
+path: /notes/gonzoearth/4-30-2011/directions-magazine-how-much-do-gis-consultants-charge-2011.md
+nid: 207
+uid: 12
+
 ---
 
 # Directions Magazine: how much do GIS consultants charge in 2011 ?
+
+by [gonzoearth](../profile/gonzoearth) April 30, 2011 19:18
+
+April 30, 2011 19:18 | Tags: 
 
 <div><span class="Apple-style-span" style="font-family: &#39;Helvetica Neue&#39;, Arial, Helvetica, sans-serif; font-size: 12px; color: rgb(34, 34, 34); line-height: 18px; "><h1 class="title" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0.5em; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; font-weight: normal; font-style: inherit; font-size: 1.8em; font-family: inherit; vertical-align: baseline; color: rgb(17, 17, 17); line-height: 1; ">
 How Much Do GIS Consultants Charge in 2011?</h1><div class="date" style="margin-top: -1em; margin-right: 0px; margin-bottom: 1em; margin-left: 0px; padding-top: 5px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; font-weight: inherit; font-style: inherit; font-size: 1.1em; font-family: inherit; vertical-align: baseline; color: rgb(102, 102, 102); ">

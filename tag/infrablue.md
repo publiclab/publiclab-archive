@@ -1,6 +1,6 @@
 # infrablue
 
-64 notes and wiki pages
+64 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [NDVI from the PLOTS IR camera kit](/wiki/ndvi-plots-ir-kit) (wiki)
 - [Rosco!](/notes/cfastie/04-21-2013/rosco) by [cfastie](../profile/cfastie)

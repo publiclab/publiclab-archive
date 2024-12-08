@@ -1,12 +1,18 @@
 ---
-nid: 849
 title: Mapping Flight Log
-path: public/static/wiki/mapping-flight-log.md
-uid: 1
 tagnames: 
+author: warren
+path: /wiki/mapping-flight-log.md
+nid: 849
+uid: 1
+
 ---
 
 # Mapping Flight Log
+
+by [warren](../profile/warren)
+
+February 24, 2012 20:56 | Tags: 
 
 Draft of a 1 page "log entry" form for mappers to take with them to collect site info while balloon mapping. This needs to be formatted into a single page. It is based on the [more comprehensive Logbook project](/wiki/logbook)
 

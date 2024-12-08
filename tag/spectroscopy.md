@@ -1,6 +1,6 @@
 # spectroscopy
 
-33 notes and wiki pages
+33 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Carbon Arc Electrode Prep](/notes/bwilliams/10-12-2012/carbon-arc-electrode-prep) by [B.Williams](../profile/B.Williams)
 - [Sketches for how-to-prep sediment for spectral analysis](/notes/liz/2-26-2013/sketches-how-prep-sediment-spectral-analysis) by [liz](../profile/liz)

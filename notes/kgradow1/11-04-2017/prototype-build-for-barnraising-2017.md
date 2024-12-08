@@ -1,12 +1,18 @@
 ---
-nid: 15151
 title: Microscope build for Barnraising 2017
-path: public/static/notes/kgradow1/11-04-2017/prototype-build-for-barnraising-2017.md
+tagnames: barnraising, hackteria, microscopes, barnraising-2017, location:blurred, replication:15094, lat:29, lon:-90, place:cocodrie-la, with:wmacfarl
+author: kgradow1
+path: /notes/kgradow1/11-04-2017/prototype-build-for-barnraising-2017.md
+nid: 15151
 uid: 297929
-tagnames: barnraising,hackteria,microscopes,barnraising-2017,location:blurred,replication:15094,lat:29,lon:-90,place:cocodrie-la,with:wmacfarl
+
 ---
 
 # Microscope build for Barnraising 2017
+
+by [kgradow1](../profile/kgradow1) November 04, 2017 17:10
+
+November 04, 2017 17:10 | Tags: [barnraising](../tag/barnraising), [hackteria](../tag/hackteria), [microscopes](../tag/microscopes), [barnraising-2017](../tag/barnraising-2017), [location:blurred](../tag/location:blurred), [replication:15094](../tag/replication:15094), [lat:29](../tag/lat:29), [lon:-90](../tag/lon:-90), [place:cocodrie-la](../tag/place:cocodrie-la), [with:wmacfarl](../tag/with:wmacfarl)
 
 # What we did:
 

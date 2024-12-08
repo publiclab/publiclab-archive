@@ -1,12 +1,18 @@
 ---
-nid: 2539
 title: Bamboo/tyvek kite and solar balloon construction workshop
-path: public/static/wiki/bambootyvek-kite-and-solar-balloon-construction-workshop.md
+tagnames: new-york-city, balloon-mapping, kite-mapping, ilab, solar-balloon, event
+author: liz
+path: /wiki/bambootyvek-kite-and-solar-balloon-construction-workshop.md
+nid: 2539
 uid: 7
-tagnames: new-york-city,balloon-mapping,kite-mapping,ilab,solar-balloon,event
+
 ---
 
 # Bamboo/tyvek kite and solar balloon construction workshop
+
+by [liz](../profile/liz), [mathew](../profile/mathew), [rjstatic](../profile/rjstatic)
+
+June 18, 2012 17:11 | Tags: [new-york-city](../tag/new-york-city), [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [ilab](../tag/ilab), [solar-balloon](../tag/solar-balloon), [event](../tag/event)
 
 ###<strong>Workshop and flights, Sunday July 1, 2012, 11am-5pm</strong>###
 

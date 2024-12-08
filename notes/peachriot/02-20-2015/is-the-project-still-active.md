@@ -1,12 +1,18 @@
 ---
-nid: 11610
 title: Is the project still active?
-path: public/static/notes/peachriot/02-20-2015/is-the-project-still-active.md
+tagnames: environmental-estrogen-testing, estrogen, question:environmental-estrogen-testing
+author: peachriot
+path: /notes/peachriot/02-20-2015/is-the-project-still-active.md
+nid: 11610
 uid: 435436
-tagnames: environmental-estrogen-testing,estrogen,question:environmental-estrogen-testing
+
 ---
 
 # Is the project still active?
+
+by [peachriot](../profile/peachriot) February 20, 2015 18:36
+
+February 20, 2015 18:36 | Tags: [environmental-estrogen-testing](../tag/environmental-estrogen-testing), [estrogen](../tag/estrogen), [question:environmental-estrogen-testing](../tag/question:environmental-estrogen-testing)
 
 Hi all,
 

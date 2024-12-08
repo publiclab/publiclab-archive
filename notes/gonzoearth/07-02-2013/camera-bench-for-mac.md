@@ -1,12 +1,18 @@
 ---
-nid: 8614
 title: Camera Bench for Mac
-path: public/static/notes/gonzoearth/07-02-2013/camera-bench-for-mac.md
+tagnames: near-infrared-camera, conversion, infragram, response:8285
+author: gonzoearth
+path: /notes/gonzoearth/07-02-2013/camera-bench-for-mac.md
+nid: 8614
 uid: 12
-tagnames: near-infrared-camera,conversion,infragram,response:8285
+
 ---
 
 # Camera Bench for Mac
+
+by [gonzoearth](../profile/gonzoearth) July 02, 2013 22:27
+
+July 02, 2013 22:27 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [conversion](../tag/conversion), [infragram](../tag/infragram), [response:8285](../tag/response:8285)
 
 Mathew Lippincott put together this nice standalone [image capture program for Mac](https://dl.dropboxusercontent.com/u/31205904/camera%20bench.app.zip) and I tried it out last week with a modified infrablue webcam. 
 

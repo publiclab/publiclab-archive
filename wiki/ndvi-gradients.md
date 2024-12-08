@@ -1,12 +1,18 @@
 ---
-nid: 7758
 title: ndvi-gradients
-path: public/static/wiki/ndvi-gradients.md
+tagnames: near-infrared-camera, ndvi, infragram, gradient, colormap, lut, lookup-tables
+author: warren
+path: /wiki/ndvi-gradients.md
+nid: 7758
 uid: 1
-tagnames: near-infrared-camera,ndvi,infragram,gradient,colormap,lut,lookup-tables
+
 ---
 
 # ndvi-gradients
+
+by [cfastie](../profile/cfastie), [warren](../profile/warren)
+
+May 21, 2013 03:46 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [infragram](../tag/infragram), [gradient](../tag/gradient), [colormap](../tag/colormap), [lut](../tag/lut), [lookup-tables](../tag/lookup-tables)
 
 List of gradients for use in [NDVI composites](/wiki/ndvi)
 

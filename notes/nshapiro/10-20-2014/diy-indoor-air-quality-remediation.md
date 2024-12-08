@@ -1,12 +1,18 @@
 ---
-nid: 11282
 title: DIY Indoor Air Quality Remediation
-path: public/static/notes/nshapiro/10-20-2014/diy-indoor-air-quality-remediation.md
+tagnames: remediation, air-quality, air, prototype, bacteria, indoor, wherewebreathe, first-time-poster, plant-air-purifier-prototypes
+author: nshapiro
+path: /notes/nshapiro/10-20-2014/diy-indoor-air-quality-remediation.md
+nid: 11282
 uid: 380298
-tagnames: remediation,air-quality,air,prototype,bacteria,indoor,wherewebreathe,first-time-poster,plant-air-purifier-prototypes
+
 ---
 
 # DIY Indoor Air Quality Remediation
+
+by [nshapiro](../profile/nshapiro) October 20, 2014 23:44
+
+October 20, 2014 23:44 | Tags: [remediation](../tag/remediation), [air-quality](../tag/air-quality), [air](../tag/air), [prototype](../tag/prototype), [bacteria](../tag/bacteria), [indoor](../tag/indoor), [wherewebreathe](../tag/wherewebreathe), [first-time-poster](../tag/first-time-poster), [plant-air-purifier-prototypes](../tag/plant-air-purifier-prototypes)
 
 Indoor air is routinely more polluted than the air of corresponding outdoor environments. This is partly because polluted outdoor air seeps inside, but the major contributors to poor indoor air quality are often the construction materials of the built environment itself, which slowly off-gas a host of volatile organic compounds.
 

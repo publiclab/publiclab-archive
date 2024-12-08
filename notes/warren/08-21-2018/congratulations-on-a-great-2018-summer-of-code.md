@@ -1,12 +1,18 @@
 ---
-nid: 16979
 title: Congratulations on a great 2018 Summer of Code!
-path: public/static/notes/warren/08-21-2018/congratulations-on-a-great-2018-summer-of-code.md
+tagnames: website, gsoc, google, developers, code, wwg, rgsoc, soc, gsoc-2018, soc-2018, rgsoc-2018, programming, response:16197
+author: warren
+path: /notes/warren/08-21-2018/congratulations-on-a-great-2018-summer-of-code.md
+nid: 16979
 uid: 1
-tagnames: website,gsoc,google,developers,code,wwg,rgsoc,soc,gsoc-2018,soc-2018,rgsoc-2018,programming,response:16197
+
 ---
 
 # Congratulations on a great 2018 Summer of Code!
+
+by [warren](../profile/warren) August 21, 2018 19:41
+
+August 21, 2018 19:41 | Tags: [website](../tag/website), [gsoc](../tag/gsoc), [google](../tag/google), [developers](../tag/developers), [code](../tag/code), [wwg](../tag/wwg), [rgsoc](../tag/rgsoc), [soc](../tag/soc), [gsoc-2018](../tag/gsoc-2018), [soc-2018](../tag/soc-2018), [rgsoc-2018](../tag/rgsoc-2018), [programming](../tag/programming), [response:16197](../tag/response:16197)
 
 Hi, everybody -- I just wanted to offer a huge, heartfelt THANKS for this summer. :raised\_hands: :zap: :zap:
 

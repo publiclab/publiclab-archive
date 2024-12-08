@@ -1,12 +1,18 @@
 ---
-nid: 10123
 title: A Year of Thermal Pollution from Oyster Creek Nuclear Plant
-path: public/static/notes/zenontc/03-06-2014/a-year-of-thermal-pollution.md
+tagnames: thermal-photography, landsat, nuclear, satellite-imagery, satellite, lat:39.748887, lon:-74.39676, place:oyster-creek-nuclear-generating-station-u-s-9-forked-river-nj
+author: zenontc
+path: /notes/zenontc/03-06-2014/a-year-of-thermal-pollution.md
+nid: 10123
 uid: 421242
-tagnames: thermal-photography,landsat,nuclear,satellite-imagery,satellite,lat:39.748887,lon:-74.39676,place:oyster-creek-nuclear-generating-station-u-s-9-forked-river-nj
+
 ---
 
 # A Year of Thermal Pollution from Oyster Creek Nuclear Plant
+
+by [zenontc](../profile/zenontc) March 06, 2014 19:49
+
+March 06, 2014 19:49 | Tags: [thermal-photography](../tag/thermal-photography), [landsat](../tag/landsat), [nuclear](../tag/nuclear), [satellite-imagery](../tag/satellite-imagery), [satellite](../tag/satellite), [lat:39.748887](../tag/lat:39.748887), [lon:-74.39676](../tag/lon:-74.39676), [place:oyster-creek-nuclear-generating-station-u-s-9-forked-river-nj](../tag/place:oyster-creek-nuclear-generating-station-u-s-9-forked-river-nj)
 
 Jeff asked me to share this as a reference for thermal pollution mapping. It's an animation I made several years ago of thermal pollution from Oyster Creek Nuclear Plant in New Jersey. I went through a similar discovery process as [Don](http://publiclab.org/notes/donblair/02-23-2014/preliminary-plymouth-plant-plume-ponderings) -- and actually did the calculation where I was able to measure temperature by pixel -- but for the purpose of the clarity I chose to simplify the visualization to above ambient water temperature. Enjoy!
 

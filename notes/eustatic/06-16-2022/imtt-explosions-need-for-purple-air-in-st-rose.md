@@ -1,12 +1,18 @@
 ---
-nid: 31060
 title: IMTT explosions:  Need for Purple Air in St Rose
-path: public/static/notes/eustatic/06-16-2022/imtt-explosions-need-for-purple-air-in-st-rose.md
+tagnames: air-quality, zoom:14, lat:29.94, lon:-90.32
+author: eustatic
+path: /06-16-2022/imtt-explosions-need-for-purple-air-in-st-rose.md
+nid: 31060
 uid: 379
-tagnames: air-quality,zoom:14,lat:29.94,lon:-90.32
+
 ---
 
 # IMTT explosions:  Need for Purple Air in St Rose
+
+by [eustatic](../profile/eustatic) June 16, 2022 17:21
+
+June 16, 2022 17:21 | Tags: [air-quality](../tag/air-quality), [zoom:14](../tag/zoom:14), [lat:29.94](../tag/lat:29.94), [lon:-90.32](../tag/lon:-90.32)
 
 June 13th 2022\.
 

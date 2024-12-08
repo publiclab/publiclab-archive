@@ -1,6 +1,6 @@
 # watchdog
 
-10 notes and wiki pages
+10 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Infrared balloon image reveals Gowanus plume](/notes/liz/8-3-2011/ir-reveals-gowanus-plume) by [liz](../profile/liz)
 - [Gowanus inflow now contained with boom?](/notes/warren/10-1-2012/gowanus-inflow-now-contained-boom) by [warren](../profile/warren)

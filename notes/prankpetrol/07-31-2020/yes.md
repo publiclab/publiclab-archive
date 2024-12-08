@@ -1,11 +1,17 @@
 ---
-nid: 24238
 title: yes
-path: public/static/notes/prankpetrol/07-31-2020/yes.md
-uid: 711253
 tagnames: first-time-poster
+author: prankpetrol
+path: /notes/prankpetrol/07-31-2020/yes.md
+nid: 24238
+uid: 711253
+
 ---
 
 # yes
+
+by [prankpetrol](../profile/prankpetrol) July 31, 2020 01:53
+
+July 31, 2020 01:53 | Tags: [first-time-poster](../tag/first-time-poster)
 
 disc spectrometre

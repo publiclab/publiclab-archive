@@ -1,12 +1,18 @@
 ---
-nid: 10317
 title: Silica
-path: public/static/wiki/silica.md
+tagnames: particulate-sensing, sand, air-quality, fracking, silica, frac-sand
+author: mathew
+path: /wiki/silica.md
+nid: 10317
 uid: 4
-tagnames: particulate-sensing,sand,air-quality,fracking,silica,frac-sand
+
 ---
 
 # Silica
+
+by [mathew](../profile/mathew)
+
+April 16, 2014 01:02 | Tags: [particulate-sensing](../tag/particulate-sensing), [sand](../tag/sand), [air-quality](../tag/air-quality), [fracking](../tag/fracking), [silica](../tag/silica), [frac-sand](../tag/frac-sand)
 
 _this page is outdated, please see [Silica Monitoring](/wiki/silica-monitoring)._
 

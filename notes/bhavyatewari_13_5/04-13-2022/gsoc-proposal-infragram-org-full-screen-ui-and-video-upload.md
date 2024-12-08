@@ -1,12 +1,18 @@
 ---
-nid: 30355
 title: GSoC"proposal: Infragram.org full-screen UI and video upload
-path: public/static/notes/bhavyatewari_13_5/04-13-2022/gsoc-proposal-infragram-org-full-screen-ui-and-video-upload.md
+tagnames: software, gsoc, soc, first-time-poster, lat:28.704059, lon:77.10249, zoom:6, gsoc-2022, gsoc-2022-proposals
+author: bhavyatewari_13_5
+path: /notes/bhavyatewari_13_5/04-13-2022/gsoc-proposal-infragram-org-full-screen-ui-and-video-upload.md
+nid: 30355
 uid: 795167
-tagnames: software,gsoc,soc,first-time-poster,lat:28.704059,lon:77.10249,zoom:6,gsoc-2022,gsoc-2022-proposals
+
 ---
 
 # GSoC"proposal: Infragram.org full-screen UI and video upload
+
+by [bhavyatewari_13_5](../profile/bhavyatewari_13_5) April 13, 2022 19:11
+
+April 13, 2022 19:11 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [soc](../tag/soc), [first-time-poster](../tag/first-time-poster), [lat:28.704059](../tag/lat:28.704059), [lon:77.10249](../tag/lon:77.10249), [zoom:6](../tag/zoom:6), [gsoc-2022](../tag/gsoc-2022), [gsoc-2022-proposals](../tag/gsoc-2022-proposals)
 
 ## About me
 

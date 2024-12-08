@@ -1,12 +1,18 @@
 ---
-nid: 8877
 title: WATERCHESTNUTS
-path: public/static/wiki/waterchestnuts.md
+tagnames: near-infrared-camera, boston, amherst, pvos, event, massachusetts, water-chestnut, invasive, umass, umass-amherst
+author: donblair
+path: /wiki/waterchestnuts.md
+nid: 8877
 uid: 43651
-tagnames: near-infrared-camera,boston,amherst,pvos,event,massachusetts,water-chestnut,invasive,umass,umass-amherst
+
 ---
 
 # WATERCHESTNUTS
+
+by [warren](../profile/warren), [cfastie](../profile/cfastie), [donblair](../profile/donblair), [Bob](../profile/Bob), [Hudonnoodles](../profile/Hudonnoodles)
+
+July 13, 2013 23:56 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [boston](../tag/boston), [amherst](../tag/amherst), [pvos](../tag/pvos), [event](../tag/event), [massachusetts](../tag/massachusetts), [water-chestnut](../tag/water-chestnut), [invasive](../tag/invasive), [umass](../tag/umass), [umass-amherst](../tag/umass-amherst)
 
 **W**orkshop on **A**quatic and **TER**restrial **C**haracterization via **H**elium **E**levation of **S**ensor **T**echnology;  **N**eeded: **U**FOs and/or **T**urgid **S**leepingbagcovers
 

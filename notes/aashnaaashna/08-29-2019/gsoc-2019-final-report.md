@@ -1,12 +1,18 @@
 ---
-nid: 20716
 title: GSoC 2019: Final report
-path: public/static/notes/aashnaaashna/08-29-2019/gsoc-2019-final-report.md
-uid: 553271
 tagnames: 
+author: aashnaaashna
+path: /notes/aashnaaashna/08-29-2019/gsoc-2019-final-report.md
+nid: 20716
+uid: 553271
+
 ---
 
 # GSoC 2019: Final report
+
+by [aashnaaashna](../profile/aashnaaashna) August 29, 2019 20:53
+
+August 29, 2019 20:53 | Tags: 
 
 ```
 ## GSOC 2019 Work Report

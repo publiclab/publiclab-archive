@@ -1,12 +1,18 @@
 ---
-nid: 31009
 title: Lichen for Air Quality Biomonitoring
-path: public/static/wiki/lichen-for-air-quality-biomonitoring.md
+tagnames: lichen, resources, air-quality-monitoring, bioindicators, parent:bioindicators
+author: fongvania
+path: /wiki/lichen-for-air-quality-biomonitoring.md
+nid: 31009
 uid: 754846
-tagnames: lichen,resources,air-quality-monitoring,bioindicators,parent:bioindicators
+
 ---
 
 # Lichen for Air Quality Biomonitoring
+
+by [fongvania](../profile/fongvania)
+
+June 03, 2022 06:07 | Tags: [lichen](../tag/lichen), [resources](../tag/resources), [air-quality-monitoring](../tag/air-quality-monitoring), [bioindicators](../tag/bioindicators), [parent:bioindicators](../tag/parent:bioindicators)
 
 __
 # Background

@@ -1,12 +1,18 @@
 ---
-nid: 20513
 title: Extensible OSS
-path: public/static/notes/sashadev-sky/08-12-2019/extensible-oss.md
+tagnames: software, development
+author: sashadev-sky
+path: /notes/sashadev-sky/08-12-2019/extensible-oss.md
+nid: 20513
 uid: 555321
-tagnames: software,development
+
 ---
 
 # Extensible OSS
+
+by [sashadev-sky](../profile/sashadev-sky) August 12, 2019 20:19
+
+August 12, 2019 20:19 | Tags: [software](../tag/software), [development](../tag/development)
 
 Leaflet brands itself as an extensible library; it has readable source code, thorough documentation, and a large plugin ecosystem. "Extensible" was just another adjective to me before I started working on Leaflet.DistortableImage (LDI). Now its synonymous to an invitation to build things outside of the box.
 

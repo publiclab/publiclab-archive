@@ -1,12 +1,18 @@
 ---
-nid: 10637
 title: Reimagining the data  lifecycle
-path: public/static/notes/warren/07-01-2014/reimagining-the-data-lifecycle.md
+tagnames: gmf, grassrootsmappingforum, forum, with:shannon, gmf-1
+author: warren
+path: /notes/warren/07-01-2014/reimagining-the-data-lifecycle.md
+nid: 10637
 uid: 1
-tagnames: gmf,grassrootsmappingforum,forum,with:shannon,gmf-1
+
 ---
 
 # Reimagining the data  lifecycle
+
+by [warren](../profile/warren) July 01, 2014 15:04
+
+July 01, 2014 15:04 | Tags: [gmf](../tag/gmf), [grassrootsmappingforum](../tag/grassrootsmappingforum), [forum](../tag/forum), [with:shannon](../tag/with:shannon), [gmf-1](../tag/gmf-1)
 
 <div class="alert">This article, by <a href="/profile/warren">Jeffrey Warren</a> and <a href="/profile/shannon">Shannon Dosemagen</a> was first published in the summer of 2011 in Issue #1 of the <a href="/forum">Grassroots Mapping Forum</a></div>
 

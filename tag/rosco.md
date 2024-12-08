@@ -1,6 +1,6 @@
 # rosco
 
-15 notes and wiki pages
+15 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Superblue](/notes/cfastie/04-20-2013/superblue) by [cfastie](../profile/cfastie)
 - [Rosco!](/notes/cfastie/04-21-2013/rosco) by [cfastie](../profile/cfastie)

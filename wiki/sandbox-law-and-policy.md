@@ -1,12 +1,18 @@
 ---
-nid: 24110
 title: sandbox-law-and-policy
-path: public/static/wiki/sandbox-law-and-policy.md
-uid: 664477
 tagnames: 
+author: bhamster
+path: /wiki/sandbox-law-and-policy.md
+nid: 24110
+uid: 664477
+
 ---
 
 # sandbox-law-and-policy
+
+by [bhamster](../profile/bhamster)
+
+July 07, 2020 15:55 | Tags: 
 
 How do laws, regulations, policies, and community science affect each other? Community-collected data has the power to prompt local, state, or federal action by alerting government agencies to an issue. At the same time, laws will affect how community scientists can collect their data for maximum potential impact. 
 

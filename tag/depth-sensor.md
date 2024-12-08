@@ -1,6 +1,6 @@
 # depth-sensor
 
-4 notes and wiki pages
+4 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Shallow note on depth](/notes/donblair/01-14-2015/shallow-note-on-depth) by [donblair](../profile/donblair)
 - [Getting Started with the Riffle Beta Test](/notes/ddileona/05-28-2016/getting-started-with-the-riffle-beta-test) by [ddileona](../profile/ddileona)

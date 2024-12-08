@@ -1,12 +1,18 @@
 ---
-nid: 8903
 title: The Promise of Small Data
-path: public/static/notes/warren/07-17-2013/the-promise-of-small-data.md
+tagnames: database, big-data, small-data, opinion
+author: warren
+path: /notes/warren/07-17-2013/the-promise-of-small-data.md
+nid: 8903
 uid: 1
-tagnames: database,big-data,small-data,opinion
+
 ---
 
 # The Promise of Small Data
+
+by [warren](../profile/warren) July 17, 2013 19:14
+
+July 17, 2013 19:14 | Tags: [database](../tag/database), [big-data](../tag/big-data), [small-data](../tag/small-data), [opinion](../tag/opinion)
 
 TechPresident just ran an opinion piece I wrote on community-produced "Small Data" and a critique of Big Data -- hope you enjoy it! The ideas are very Public Lab, of course.
 

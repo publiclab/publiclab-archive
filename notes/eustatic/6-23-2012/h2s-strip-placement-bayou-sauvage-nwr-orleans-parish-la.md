@@ -1,12 +1,18 @@
 ---
-nid: 2619
 title: H2S strip placement in Bayou Sauvage NWR, Orleans Parish, LA
-path: public/static/notes/eustatic/6-23-2012/h2s-strip-placement-bayou-sauvage-nwr-orleans-parish-la.md
+tagnames: hydrogen-sulfide-sensing, h2s, h2s-photopaper
+author: eustatic
+path: /6-23-2012/h2s-strip-placement-bayou-sauvage-nwr-orleans-parish-la.md
+nid: 2619
 uid: 379
-tagnames: hydrogen-sulfide-sensing,h2s,h2s-photopaper
+
 ---
 
 # H2S strip placement in Bayou Sauvage NWR, Orleans Parish, LA
+
+by [eustatic](../profile/eustatic) June 24, 2012 00:24
+
+June 24, 2012 00:24 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [h2s](../tag/h2s), [h2s-photopaper](../tag/h2s-photopaper)
 
 Today, Shannon and Scott placed 4 x 8 = 32 H2S test strips in a degraded wetland under pump in Orleans Parish, LA. 
 

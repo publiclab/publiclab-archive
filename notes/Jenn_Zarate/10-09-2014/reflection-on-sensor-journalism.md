@@ -1,12 +1,18 @@
 ---
-nid: 11255
 title: Reflection on Sensor Journalism
-path: public/static/notes/Jenn_Zarate/10-09-2014/reflection-on-sensor-journalism.md
+tagnames: water-sensing, conductivity, coqui, sensor-journalism
+author: Jenn_Zarate
+path: /notes/Jenn_Zarate/10-09-2014/reflection-on-sensor-journalism.md
+nid: 11255
 uid: 429632
-tagnames: water-sensing,conductivity,coqui,sensor-journalism
+
 ---
 
 # Reflection on Sensor Journalism
+
+by [Jenn_Zarate](../profile/Jenn_Zarate) October 09, 2014 15:29
+
+October 09, 2014 15:29 | Tags: [water-sensing](../tag/water-sensing), [conductivity](../tag/conductivity), [coqui](../tag/coqui), [sensor-journalism](../tag/sensor-journalism)
 
 The popularity of data journalism is rising and sensors have become a vital device for collecting, sifting through and interpreting data that journalists (and their audiences) have never seen before. So, the concept of sensor journalism is generating or collecting data from sensors, and using that data to tell a story. Such sensors used and demanded by reporters, journalists, and technologists can produce quality data that can therefore be useful and informative to the public. However, due to technological, ethical and legal issues, there are many pitfalls that come with employing sensor journalism. Certain limitations may include, the law and ethics of reporting with sensors or even how accurate “said” data was gathered.
 

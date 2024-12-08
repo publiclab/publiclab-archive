@@ -1,12 +1,18 @@
 ---
-nid: 30032
 title: PurpleAir Installation Guide
-path: public/static/notes/tylerknight/02-18-2022/purpleair-installation-guide.md
+tagnames: air-quality, purpleair, purple-air, formosaplastics
+author: tylerknight
+path: /notes/tylerknight/02-18-2022/purpleair-installation-guide.md
+nid: 30032
 uid: 777566
-tagnames: air-quality,purpleair,purple-air,formosaplastics
+
 ---
 
 # PurpleAir Installation Guide
+
+by [tylerknight](../profile/tylerknight) February 18, 2022 19:29
+
+February 18, 2022 19:29 | Tags: [air-quality](../tag/air-quality), [purpleair](../tag/purpleair), [purple-air](../tag/purple-air), [formosaplastics](../tag/formosaplastics)
 
 PurpleAir monitors measure particulate matter (PM), both PM2.5 (fine particles) and PM10 (coarser particles). They can also connect to a local wifi connection, allowing for remote access of data, which is particularly useful for long-term monitoring.
 

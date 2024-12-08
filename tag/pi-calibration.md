@@ -1,6 +1,6 @@
 # pi-calibration
 
-4 notes and wiki pages
+4 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Raspberry Pi Manual Camera Control](/notes/MaggPi/08-09-2018/raspberry-pi-manual-camera-control) by [MaggPi](../profile/MaggPi)
 - [Horticultural Spectrometer Upgrade - Planning](/notes/jenjimah/04-07-2019/horticultural-spectroscope-upgrade-planning) by [jenjimah](../profile/jenjimah)

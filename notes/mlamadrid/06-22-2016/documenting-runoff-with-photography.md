@@ -1,12 +1,18 @@
 ---
-nid: 13224
 title: Documenting Runoff with Photography
-path: public/static/notes/mlamadrid/06-22-2016/documenting-runoff-with-photography.md
+tagnames: wisconsin, blog, frac-sand, with:gretchengehrke, parent:frac-sand, communityscienceforum
+author: mlamadrid
+path: /notes/mlamadrid/06-22-2016/documenting-runoff-with-photography.md
+nid: 13224
 uid: 45586
-tagnames: wisconsin,blog,frac-sand,with:gretchengehrke,parent:frac-sand,communityscienceforum
+
 ---
 
 # Documenting Runoff with Photography
+
+by [mlamadrid](../profile/mlamadrid) June 22, 2016 01:00
+
+June 22, 2016 01:00 | Tags: [wisconsin](../tag/wisconsin), [blog](../tag/blog), [frac-sand](../tag/frac-sand), [with:gretchengehrke](../tag/with:gretchengehrke), [parent:frac-sand](../tag/parent:frac-sand), [communityscienceforum](../tag/communityscienceforum)
 
 Article by [Gretchen Gehrke](https://publiclab.org/profile/gretchengehrke) for [Community Science Forum: Sand-Frac Issue](https://publiclab.org/forum).
 

@@ -1,12 +1,18 @@
 ---
-nid: 15826
 title: RGSoC proposal: Upgrade to Rails 5
-path: public/static/notes/meghana-07/02-27-2018/rgsoc-proposal-upgrade-to-rails-5.md
+tagnames: software, gsoc, soc, response:13975, gsoc-2018, soc-2018, rgsoc-2018, soc-2018-proposals
+author: meghana-07
+path: /notes/meghana-07/02-27-2018/rgsoc-proposal-upgrade-to-rails-5.md
+nid: 15826
 uid: 526196
-tagnames: software,gsoc,soc,response:13975,gsoc-2018,soc-2018,rgsoc-2018,soc-2018-proposals
+
 ---
 
 # RGSoC proposal: Upgrade to Rails 5
+
+by [meghana-07](../profile/meghana-07) February 27, 2018 14:03
+
+February 27, 2018 14:03 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [soc](../tag/soc), [response:13975](../tag/response:13975), [gsoc-2018](../tag/gsoc-2018), [soc-2018](../tag/soc-2018), [rgsoc-2018](../tag/rgsoc-2018), [soc-2018-proposals](../tag/soc-2018-proposals)
 
 ---------
 

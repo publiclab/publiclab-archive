@@ -1,12 +1,18 @@
 ---
-nid: 2156
 title: Aerial photos with Passenger Pigeon
-path: public/static/wiki/passenger-pigeon.md
+tagnames: aerial-photos, passenger-pigeon, airplane, method, oil-and-gas
+author: warren
+path: /wiki/passenger-pigeon.md
+nid: 2156
 uid: 1
-tagnames: aerial-photos,passenger-pigeon,airplane,method,oil-and-gas
+
 ---
 
 # Aerial photos with Passenger Pigeon
+
+by [pablo](../profile/pablo), [warren](../profile/warren)
+
+May 21, 2012 17:28 | Tags: [aerial-photos](../tag/aerial-photos), [passenger-pigeon](../tag/passenger-pigeon), [airplane](../tag/airplane), [method](../tag/method), [oil-and-gas](../tag/oil-and-gas)
 
 Passenger Pigeon is a project/concept for collecting aerial imagery from passenger plane windows with handheld digital cameras. To make a map, just take photos out the window of your commercial flight. Then use the free and open source [MapKnitter.org](https://mapknitter.org) to align the images with a map as soon as you land.
 

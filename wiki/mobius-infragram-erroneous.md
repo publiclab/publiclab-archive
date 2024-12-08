@@ -1,12 +1,18 @@
 ---
-nid: 10294
 title: mobius-infragram-erroneous
-path: public/static/wiki/mobius-infragram-erroneous.md
-uid: 1
 tagnames: 
+author: warren
+path: /wiki/mobius-infragram-erroneous.md
+nid: 10294
+uid: 1
+
 ---
 
 # mobius-infragram-erroneous
+
+by [warren](../profile/warren)
+
+April 10, 2014 20:32 | Tags: 
 
 HSV example: H: `.5-(R-B/B+R)/2`, S: 1, V: 1
 

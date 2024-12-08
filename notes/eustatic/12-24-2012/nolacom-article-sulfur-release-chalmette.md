@@ -1,12 +1,18 @@
 ---
-nid: 5328
 title: NOLA.com article on Sulfur release to Chalmette
-path: public/static/notes/eustatic/12-24-2012/nolacom-article-sulfur-release-chalmette.md
-uid: 379
 tagnames: hydrogen-sulfide-sensing
+author: eustatic
+path: /12-24-2012/nolacom-article-sulfur-release-chalmette.md
+nid: 5328
+uid: 379
+
 ---
 
 # NOLA.com article on Sulfur release to Chalmette
+
+by [eustatic](../profile/eustatic) December 24, 2012 23:07
+
+December 24, 2012 23:07 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing)
 
 Chalmette is east of New Orleans, and east of the lower 9th ward.  there are a couple of refineries and a pet coke facility there. 
 

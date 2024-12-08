@@ -1,6 +1,6 @@
 # texas
 
-27 notes and wiki pages
+27 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Texas](/wiki/texas) (wiki)
 - [The weTable and CHARM](/notes/jacobsimonson/10-19-2011/wetable-and-charm) by [jacobsimonson](../profile/jacobsimonson)
@@ -27,5 +27,3 @@
 - [Benzene Air Monitors For Fenceline Communities](/notes/MsSema/11-20-2020/benzene-air-monitors-for-fenceline-communities) by [MsSema](../profile/MsSema)
 - [Impacted Communities - Citizen Science in a "No Zoning" City from Strategy to Solutions](/notes/mashalawais/11-30-2020/impacted-communities-citizen-science-in-a-no-zoning-city-from-strategy-to-solutions) by [mashalawais](../profile/mashalawais)
 - [Join us January 23-24, 2021 for a virtual education workshop!](/notes/mimiss/12-16-2020/join-us-january-23-24-2021-for-a-virtual-education-workshop) by [mimiss](../profile/mimiss)
-- [How does No-Closing-Cost Refinance work?](/notes/modernmortgage/02-01-2021/how-does-no-closing-cost-refinance-work) by [modernmortgage](../profile/modernmortgage)
-- [JK Studios - Texas](/notes/Jkstudios/10-09-2021/jk-studios-texas) by [Jkstudios](../profile/Jkstudios)

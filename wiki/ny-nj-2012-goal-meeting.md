@@ -1,12 +1,18 @@
 ---
-nid: 826
 title: NY-NJ 2012 meeting
-path: public/static/wiki/ny-nj-2012-goal-meeting.md
-uid: 7
 tagnames: 
+author: liz
+path: /wiki/ny-nj-2012-goal-meeting.md
+nid: 826
+uid: 7
+
 ---
 
 # NY-NJ 2012 meeting
+
+by [liz](../profile/liz)
+
+February 21, 2012 19:31 | Tags: 
 
 This meeting occurred on Feb 28, 2012
 Notes here: http://goo.gl/tL0Ka

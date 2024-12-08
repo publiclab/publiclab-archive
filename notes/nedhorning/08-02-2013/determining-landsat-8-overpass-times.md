@@ -1,12 +1,18 @@
 ---
-nid: 8960
 title: Determining Landsat 8 overpass times
-path: public/static/notes/nedhorning/08-02-2013/determining-landsat-8-overpass-times.md
+tagnames: remote-sensing, landsat, satellite-imagery, activity:remote-sensing
+author: nedhorning
+path: /notes/nedhorning/08-02-2013/determining-landsat-8-overpass-times.md
+nid: 8960
 uid: 133
-tagnames: remote-sensing,landsat,satellite-imagery,activity:remote-sensing
+
 ---
 
 # Determining Landsat 8 overpass times
+
+by [nedhorning](../profile/nedhorning) August 02, 2013 22:54
+
+August 02, 2013 22:54 | Tags: [remote-sensing](../tag/remote-sensing), [landsat](../tag/landsat), [satellite-imagery](../tag/satellite-imagery), [activity:remote-sensing](../tag/activity:remote-sensing)
 
 There has been some discussion about coordinating aerial mapping missions with the overpass of Landsat satellites so I wanted to post a a guide on how to determine when the Landsat 8 satellite is scheduled to pass over your area of interest. 
 

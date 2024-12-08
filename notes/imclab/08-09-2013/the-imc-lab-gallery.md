@@ -1,12 +1,18 @@
 ---
-nid: 8985
 title: The  IMC Lab +Gallery
-path: public/static/notes/imclab/08-09-2013/the-imc-lab-gallery.md
+tagnames: new-york-city, imc, nyc
+author: imclab
+path: /notes/imclab/08-09-2013/the-imc-lab-gallery.md
+nid: 8985
 uid: 179952
-tagnames: new-york-city,imc,nyc
+
 ---
 
 # The  IMC Lab +Gallery
+
+by [imclab](../profile/imclab) August 09, 2013 13:49
+
+August 09, 2013 13:49 | Tags: [new-york-city](../tag/new-york-city), [imc](../tag/imc), [nyc](../tag/nyc)
 
 The IMC Lab + Gallery
 http://TheIMClab.com

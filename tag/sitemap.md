@@ -1,6 +1,5 @@
 # sitemap
 
-2 notes and wiki pages
+2 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [sandbox-sitemap](/wiki/sandbox-sitemap) (wiki)
-- [Top 30 SEO Ranking Factors Every Beginner Should Know](/notes/digitalmarketingseo/02-28-2019/top-30-seo-ranking-factors-every-beginner-should-know) by [digitalmarketingseo](../profile/digitalmarketingseo)

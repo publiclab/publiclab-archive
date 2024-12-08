@@ -1,12 +1,18 @@
 ---
-nid: 9812
 title: Ground Penetrating Radar
-path: public/static/wiki/ground-penetrating-radar.md
+tagnames: radar, ground-penetrating-radar
+author: bodacea
+path: /wiki/ground-penetrating-radar.md
+nid: 9812
 uid: 648
-tagnames: radar,ground-penetrating-radar
+
 ---
 
 # Ground Penetrating Radar
+
+by [marlokeno](../profile/marlokeno), [KPed](../profile/KPed), [bodacea](../profile/bodacea)
+
+November 20, 2013 22:45 | Tags: [radar](../tag/radar), [ground-penetrating-radar](../tag/ground-penetrating-radar)
 
 Write up of notes from summer 2013 about locating unmarked graves with ground-penetrating radar.  There might be some other uses for this, including amateur archaeology. 
 

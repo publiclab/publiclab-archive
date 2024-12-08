@@ -1,12 +1,18 @@
 ---
-nid: 10530
 title: The development of stickypad monitoring
-path: public/static/notes/mathew/06-05-2014/the-development-of-stickypad-monitoring.md
+tagnames: air, dust, silica, pm, midwest, particle-monitoring, particulate-monitoring, openair, passive-pm, activity:dust-collection, activity:sticky-pad
+author: mathew
+path: /notes/mathew/06-05-2014/the-development-of-stickypad-monitoring.md
+nid: 10530
 uid: 4
-tagnames: air,dust,silica,pm,midwest,particle-monitoring,particulate-monitoring,openair,passive-pm,activity:dust-collection,activity:sticky-pad
+
 ---
 
 # The development of stickypad monitoring
+
+by [mathew](../profile/mathew) June 05, 2014 03:42
+
+June 05, 2014 03:42 | Tags: [air](../tag/air), [dust](../tag/dust), [silica](../tag/silica), [pm](../tag/pm), [midwest](../tag/midwest), [particle-monitoring](../tag/particle-monitoring), [particulate-monitoring](../tag/particulate-monitoring), [openair](../tag/openair), [passive-pm](../tag/passive-pm), [activity:dust-collection](../tag/activity:dust-collection), [activity:sticky-pad](../tag/activity:sticky-pad)
 
 ###What I want to do
 Summarize the development of sticky pads for dust monitoring and collect the published literature on the topic.  I started with a list of three articles gleaned from [Sustainable Aggregates](http://www.sustainableaggregates.com/sourcesofaggregates/landbased/dust/dust_monitoring.htm), a UK industry group. 

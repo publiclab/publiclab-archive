@@ -1,6 +1,6 @@
 # near-infrared-camera
 
-376 notes and wiki pages
+376 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Attempted infrared imaging of motor oil in salt water](/notes/warren/12-7-2010/attempted-infrared-imaging-motor-oil-salt-water) by [warren](../profile/warren)
 - [Normalized Difference Vegetation Index, NRG, and Landsat 7 bands](/notes/warren/12-10-2010/normalized-difference-vegetation-index-nrg-and-landsat-7-bands) by [warren](../profile/warren)

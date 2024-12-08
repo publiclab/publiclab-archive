@@ -1,12 +1,18 @@
 ---
-nid: 895
 title: March Mapping Madness-Vermont/Northern New England
-path: public/static/wiki/march-mapping-madness-vermontnorthern-new-england.md
-uid: 8
 tagnames: 
+author: sara
+path: /wiki/march-mapping-madness-vermontnorthern-new-england.md
+nid: 895
+uid: 8
+
 ---
 
 # March Mapping Madness-Vermont/Northern New England
+
+by [rjstatic](../profile/rjstatic), [cfastie](../profile/cfastie), [sara](../profile/sara)
+
+March 06, 2012 01:27 | Tags: 
 
 Planning Page for Vermont/Northern New England Meet up!
 

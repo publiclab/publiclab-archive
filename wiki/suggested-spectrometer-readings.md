@@ -1,12 +1,18 @@
 ---
-nid: 7433
 title: Suggested Spectrometer Readings
-path: public/static/wiki/suggested-spectrometer-readings.md
+tagnames: spectrometer, curriculum, readings
+author: Shannon
+path: /wiki/suggested-spectrometer-readings.md
+nid: 7433
 uid: 9
-tagnames: spectrometer,curriculum,readings
+
 ---
 
 # Suggested Spectrometer Readings
+
+by [PeterDavidowicz](../profile/PeterDavidowicz), [Shannon](../profile/Shannon)
+
+May 11, 2013 13:48 | Tags: [spectrometer](../tag/spectrometer), [curriculum](../tag/curriculum), [readings](../tag/readings)
 
 **Related to Public Lab spectrometer**
 

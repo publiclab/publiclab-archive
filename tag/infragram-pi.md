@@ -1,6 +1,6 @@
 # infragram-pi
 
-13 notes and wiki pages
+13 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [SnapPiCam: a Raspberry Pi Point & Shoot](/notes/mathew/02-12-2014/snappicam-a-raspberry-pi-point-shoot) by [mathew](../profile/mathew)
 - [Sant Adriá, Barcelona NDVI](/notes/imvec/03-29-2019/sant-adria-barcelona-ndvi) by [imvec](../profile/imvec)

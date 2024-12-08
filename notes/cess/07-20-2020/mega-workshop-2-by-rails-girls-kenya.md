@@ -1,12 +1,18 @@
 ---
-nid: 24200
 title: Rails Girls Kenya:  Mega Workshop 2
-path: public/static/notes/cess/07-20-2020/mega-workshop-2-by-rails-girls-kenya.md
+tagnames: event, blog, lat:-1, lon:36, zoom:6
+author: cess
+path: /notes/cess/07-20-2020/mega-workshop-2-by-rails-girls-kenya.md
+nid: 24200
 uid: 525958
-tagnames: event,blog,lat:-1,lon:36,zoom:6
+
 ---
 
 # Rails Girls Kenya:  Mega Workshop 2
+
+by [cess](../profile/cess) July 20, 2020 16:40
+
+July 20, 2020 16:40 | Tags: [event](../tag/event), [blog](../tag/blog), [lat:-1](../tag/lat:-1), [lon:36](../tag/lon:36), [zoom:6](../tag/zoom:6)
 
 ### Description
 

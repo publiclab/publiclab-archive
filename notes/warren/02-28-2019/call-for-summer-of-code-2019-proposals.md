@@ -1,12 +1,18 @@
 ---
-nid: 18440
 title: Call for Summer of Code 2019 proposals!
-path: public/static/notes/warren/02-28-2019/call-for-summer-of-code-2019-proposals.md
+tagnames: software, gsoc, blog, code, rgsoc, soc, outreachy, call-for-proposals, gsoc-2019, soc-2019, outreachy-2019
+author: warren
+path: /notes/warren/02-28-2019/call-for-summer-of-code-2019-proposals.md
+nid: 18440
 uid: 1
-tagnames: software,gsoc,blog,code,rgsoc,soc,outreachy,call-for-proposals,gsoc-2019,soc-2019,outreachy-2019
+
 ---
 
 # Call for Summer of Code 2019 proposals!
+
+by [warren](../profile/warren) February 28, 2019 22:22
+
+February 28, 2019 22:22 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [blog](../tag/blog), [code](../tag/code), [rgsoc](../tag/rgsoc), [soc](../tag/soc), [outreachy](../tag/outreachy), [call-for-proposals](../tag/call-for-proposals), [gsoc-2019](../tag/gsoc-2019), [soc-2019](../tag/soc-2019), [outreachy-2019](../tag/outreachy-2019)
 
 ### Outreachy and GSoC
 

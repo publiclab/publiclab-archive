@@ -1,12 +1,18 @@
 ---
-nid: 617
 title: Public Lab History
-path: public/static/wiki/plots-history.md
+tagnames: nonprofit, history
+author: Shannon
+path: /wiki/plots-history.md
+nid: 617
 uid: 9
-tagnames: nonprofit,history
+
 ---
 
 # Public Lab History
+
+by [Shannon](../profile/Shannon), [warren](../profile/warren), [gonzoearth](../profile/gonzoearth), [liz](../profile/liz)
+
+December 06, 2011 06:25 | Tags: [nonprofit](../tag/nonprofit), [history](../tag/history)
 
 <div class="alert">This page is outdated and needs revision.</div>
 

@@ -1,11 +1,17 @@
 ---
-nid: 19295
 title: What size cuvettes are used for the lego spectrometer?
-path: public/static/notes/joquendo/05-11-2019/what-size-cuvettes-are-used-for-the-lego-spectrometer.md
+tagnames: question:lego-spectrometer, lego-spectrometer, first-time-poster
+author: joquendo
+path: /notes/joquendo/05-11-2019/what-size-cuvettes-are-used-for-the-lego-spectrometer.md
+nid: 19295
 uid: 589024
-tagnames: question:lego-spectrometer,lego-spectrometer,first-time-poster
+
 ---
 
 # What size cuvettes are used for the lego spectrometer?
+
+by [joquendo](../profile/joquendo) May 11, 2019 05:45
+
+May 11, 2019 05:45 | Tags: [question:lego-spectrometer](../tag/question:lego-spectrometer), [lego-spectrometer](../tag/lego-spectrometer), [first-time-poster](../tag/first-time-poster)
 
 I built my spectrometer with spare Lego parts I had, but now I need to know what size cuvettes are used so I can source the right ones.

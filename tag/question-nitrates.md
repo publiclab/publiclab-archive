@@ -1,6 +1,6 @@
 # question-nitrates
 
-5 notes and wiki pages
+5 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [DIY methods for nitrate detection in food?](/notes/fez/02-01-2017/diy-methods-for-nitrate-detection-in-food) by [fez](../profile/fez)
 - [Nitrogenous waste sensors for 24/7 monitoring](/notes/winsorje/03-24-2017/nitrogenous-waste-sensors-for-24-7-monitoring) by [winsorje](../profile/winsorje)

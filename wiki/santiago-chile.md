@@ -1,12 +1,18 @@
 ---
-nid: 371
 title: Santiago, Chile
-path: public/static/wiki/santiago-chile.md
+tagnames: santiago-chile, santiago, protest-mapping, chile, chapter, list:laboratoriopublico, lat:-33.457511, lon:-70.639858, south-america
+author: Shannon
+path: /wiki/santiago-chile.md
+nid: 371
 uid: 9
-tagnames: santiago-chile,santiago,protest-mapping,chile,chapter,list:laboratoriopublico,lat:-33.457511,lon:-70.639858,south-america
+
 ---
 
 # Santiago, Chile
+
+by [gonzoearth](../profile/gonzoearth), [Shannon](../profile/Shannon), [warren](../profile/warren)
+
+July 06, 2011 23:21 | Tags: [santiago-chile](../tag/santiago-chile), [santiago](../tag/santiago), [protest-mapping](../tag/protest-mapping), [chile](../tag/chile), [chapter](../tag/chapter), [list:laboratoriopublico](../tag/list:laboratoriopublico), [lat:-33.457511](../tag/lat:-33.457511), [lon:-70.639858](../tag/lon:-70.639858), [south-america](../tag/south-america)
 
 <img src="http://archive.publiclaboratory.org/santiago/blog/ciudadanointeligente_globos2.jpg" width="500" />
 <em>

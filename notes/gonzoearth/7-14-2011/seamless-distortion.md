@@ -1,12 +1,18 @@
 ---
-nid: 383
 title: seamless distortion?
-path: public/static/notes/gonzoearth/7-14-2011/seamless-distortion.md
-uid: 12
 tagnames: 
+author: gonzoearth
+path: /notes/gonzoearth/7-14-2011/seamless-distortion.md
+nid: 383
+uid: 12
+
 ---
 
 # seamless distortion?
+
+by [gonzoearth](../profile/gonzoearth) July 15, 2011 03:10
+
+July 15, 2011 03:10 | Tags: 
 
 This map was made from a vertical balloon flight where the camera did not move horizontally around the scene. It is important to use the ground level as the common denominator when registering the imagery. 
 

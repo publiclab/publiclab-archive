@@ -1,12 +1,18 @@
 ---
-nid: 10618
 title: Raspberry Pi NDVI
-path: public/static/notes/noctividus/06-25-2014/raspberry-pi-ndvi.md
+tagnames: near-infrared-camera, video, ndvi, mobile-phone-camera, raspberry-pi, infragram, cameras, barnstar:basic
+author: noctividus
+path: /notes/noctividus/06-25-2014/raspberry-pi-ndvi.md
+nid: 10618
 uid: 424585
-tagnames: near-infrared-camera,video,ndvi,mobile-phone-camera,raspberry-pi,infragram,cameras,barnstar:basic
+
 ---
 
 # Raspberry Pi NDVI
+
+by [noctividus](../profile/noctividus) June 25, 2014 19:54
+
+June 25, 2014 19:54 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [video](../tag/video), [ndvi](../tag/ndvi), [mobile-phone-camera](../tag/mobile-phone-camera), [raspberry-pi](../tag/raspberry-pi), [infragram](../tag/infragram), [cameras](../tag/cameras), [barnstar:basic](../tag/barnstar:basic)
 
 I started this project to create a NDVI camera that could stream video over IP and directly output via SD video. I choose the raspberry pi because it's cheap, readily available, and has tons of support. I've managed to make some good progress by following guides around the internet.
 

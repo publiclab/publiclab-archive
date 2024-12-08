@@ -1,12 +1,18 @@
 ---
-nid: 3927
 title: Public Lab community newsletter 9.21.12
-path: public/static/notes/warren/9-21-2012/public-lab-community-newsletter-92112.md
+tagnames: newsletter, newsletter-archive
+author: warren
+path: /notes/warren/9-21-2012/public-lab-community-newsletter-92112.md
+nid: 3927
 uid: 1
-tagnames: newsletter,newsletter-archive
+
 ---
 
 # Public Lab community newsletter 9.21.12
+
+by [warren](../profile/warren) September 21, 2012 19:29
+
+September 21, 2012 19:29 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
 
 We've had a **very** busy week with lots of new folks on the list -- over 200 new members since the beginning of the month. Here's a roundup of what's been going on:
 

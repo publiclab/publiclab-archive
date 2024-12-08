@@ -1,12 +1,18 @@
 ---
-nid: 312
 title: Analysis
-path: public/static/wiki/analysis.md
-uid: 1
 tagnames: 
+author: warren
+path: /wiki/analysis.md
+nid: 312
+uid: 1
+
 ---
 
 # Analysis
+
+by [liz](../profile/liz), [warren](../profile/warren)
+
+June 01, 2011 15:55 | Tags: 
 
 Printed copies of the [Grassroots Mapping Forum](/subscribe) offer a means to continue monitoring the sites they depict; if you can visit the site shown on the map, annotate any observations directly onto the back side (the blue side). You can mail in the map or photograph upload it here.
 

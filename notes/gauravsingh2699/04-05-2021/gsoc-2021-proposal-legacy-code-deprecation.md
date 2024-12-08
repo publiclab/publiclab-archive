@@ -1,12 +1,18 @@
 ---
-nid: 26138
 title: GSoC 2021 Proposal: Legacy Code Deprecation
-path: public/static/notes/gauravsingh2699/04-05-2021/gsoc-2021-proposal-legacy-code-deprecation.md
+tagnames: software, soc, lat:20, lon:70, zoom:4, gsoc-2021, gsoc-2021-proposals
+author: gauravsingh2699
+path: /notes/gauravsingh2699/04-05-2021/gsoc-2021-proposal-legacy-code-deprecation.md
+nid: 26138
 uid: 746843
-tagnames: software,soc,lat:20,lon:70,zoom:4,gsoc-2021,gsoc-2021-proposals
+
 ---
 
 # GSoC 2021 Proposal: Legacy Code Deprecation
+
+by [gauravsingh2699](../profile/gauravsingh2699) April 05, 2021 08:10
+
+April 05, 2021 08:10 | Tags: [software](../tag/software), [soc](../tag/soc), [lat:20](../tag/lat:20), [lon:70](../tag/lon:70), [zoom:4](../tag/zoom:4), [gsoc-2021](../tag/gsoc-2021), [gsoc-2021-proposals](../tag/gsoc-2021-proposals)
 
 ## GSoC 2021: Legacy code deprecation
 

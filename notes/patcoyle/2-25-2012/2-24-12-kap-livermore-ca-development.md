@@ -1,12 +1,18 @@
 ---
-nid: 851
 title: 2-24-12 KAP Livermore CA development
-path: public/static/notes/patcoyle/2-25-2012/2-24-12-kap-livermore-ca-development.md
-uid: 77
 tagnames: first-time-poster
+author: patcoyle
+path: /notes/patcoyle/2-25-2012/2-24-12-kap-livermore-ca-development.md
+nid: 851
+uid: 77
+
 ---
 
 # 2-24-12 KAP Livermore CA development
+
+by [patcoyle](../profile/patcoyle) February 25, 2012 08:33
+
+February 25, 2012 08:33 | Tags: [first-time-poster](../tag/first-time-poster)
 
 I flew a Sutton FF16 this afternoon in 12-13 mph winds with a two-camera juice-bottle rig. The session covered part of a new development under construction near the airport in Livermore CA. I deliberately stayed at relatively low altitude, since the location is near the pattern for the airport. I didn't contact the airport tower, based on recent reports about experience with FAA and NOTAMs. There were a number of planes taking off toward me, typically all well above me in the pattern, some are visible in the videos. As I've previewed the images, I recall Stewart Long's advice that higher is generally better in terms of mapping and minimizing distortion. The session resulted in photos from two Canon cameras: A1200 visible (recent Fry's acquisition, on sale for $59.99): 2,601 images; A490 (modified by Jeff Warren) IR: 2,082 images (about an hour of shooting, obviously not all at altitude).
 

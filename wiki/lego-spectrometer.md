@@ -1,12 +1,18 @@
 ---
-nid: 15354
 title: Lego Spectrometer
-path: public/static/wiki/lego-spectrometer.md
+tagnames: spectrometry, lego, parent:spectrometry, method, lego-spectrometer, activities:lego-spectrometer
+author: warren
+path: /wiki/lego-spectrometer.md
+nid: 15354
 uid: 1
-tagnames: spectrometry,lego,parent:spectrometry,method,lego-spectrometer,activities:lego-spectrometer
+
 ---
 
 # Lego Spectrometer
+
+by [stevie](../profile/stevie), [mimiss](../profile/mimiss), [warren](../profile/warren), [vidit](../profile/vidit)
+
+December 11, 2017 21:21 | Tags: [spectrometry](../tag/spectrometry), [lego](../tag/lego), [parent:spectrometry](../tag/parent:spectrometry), [method](../tag/method), [lego-spectrometer](../tag/lego-spectrometer), [activities:lego-spectrometer](../tag/activities:lego-spectrometer)
 
 This is the latest version of Public Lab's DIY Desktop Spectrometry Kit -- the Lego Spectrometer. It addresses issues of rigidity, sourcing, modularity, and image quality over previous versions.
 

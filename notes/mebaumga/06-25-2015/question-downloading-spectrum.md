@@ -1,12 +1,18 @@
 ---
-nid: 12006
 title: Question: downloading spectrum
-path: public/static/notes/mebaumga/06-25-2015/question-downloading-spectrum.md
+tagnames: question:spectral-workbench, answered
+author: mebaumga
+path: /notes/mebaumga/06-25-2015/question-downloading-spectrum.md
+nid: 12006
 uid: 442457
-tagnames: question:spectral-workbench,answered
+
 ---
 
 # Question: downloading spectrum
+
+by [mebaumga](../profile/mebaumga) June 25, 2015 15:15
+
+June 25, 2015 15:15 | Tags: [question:spectral-workbench](../tag/question:spectral-workbench), [answered](../tag/answered)
 
 Can anyone tell me how to download a spectrum? I want the intensity vs. wavelength plot in excel friendly format (*.txt, *.csv, etc).
 

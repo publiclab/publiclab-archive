@@ -1,12 +1,18 @@
 ---
-nid: 10152
 title: Quantifying Airborne Hydrogen Sulfide
-path: public/static/notes/JSummers/03-10-2014/quantifying-airborne-hydrogen-sulfide.md
+tagnames: hydrogen-sulfide-sensing, calibration, hydrogen-sulfide, h2s, wheestat, h2s-detection-method, h2s-potentiometry, potentiometer, potentiometry
+author: JSummers
+path: /notes/JSummers/03-10-2014/quantifying-airborne-hydrogen-sulfide.md
+nid: 10152
 uid: 304279
-tagnames: hydrogen-sulfide-sensing,calibration,hydrogen-sulfide,h2s,wheestat,h2s-detection-method,h2s-potentiometry,potentiometer,potentiometry
+
 ---
 
 # Quantifying Airborne Hydrogen Sulfide
+
+by [JSummers](../profile/JSummers) March 10, 2014 20:49
+
+March 10, 2014 20:49 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [calibration](../tag/calibration), [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s), [wheestat](../tag/wheestat), [h2s-detection-method](../tag/h2s-detection-method), [h2s-potentiometry](../tag/h2s-potentiometry), [potentiometer](../tag/potentiometer), [potentiometry](../tag/potentiometry)
 
 ###Authors
 Jack Summers, Alexandra Shuey and Taylor Royalty

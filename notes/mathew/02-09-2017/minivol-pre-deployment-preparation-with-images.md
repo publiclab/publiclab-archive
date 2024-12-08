@@ -1,12 +1,18 @@
 ---
-nid: 13911
 title: MiniVol pre-deployment preparation, with images
-path: public/static/notes/mathew/02-09-2017/minivol-pre-deployment-preparation-with-images.md
+tagnames: air-quality, dust, silica, pm, particle-sensing, pm-monitoring, minivol, activity:minivol, prepping, 1031710, 600-007, replication:13898
+author: mathew
+path: /notes/mathew/02-09-2017/minivol-pre-deployment-preparation-with-images.md
+nid: 13911
 uid: 4
-tagnames: air-quality,dust,silica,pm,particle-sensing,pm-monitoring,minivol,activity:minivol,prepping,1031710,600-007,replication:13898
+
 ---
 
 # MiniVol pre-deployment preparation, with images
+
+by [mathew](../profile/mathew) February 09, 2017 01:14
+
+February 09, 2017 01:14 | Tags: [air-quality](../tag/air-quality), [dust](../tag/dust), [silica](../tag/silica), [pm](../tag/pm), [particle-sensing](../tag/particle-sensing), [pm-monitoring](../tag/pm-monitoring), [minivol](../tag/minivol), [activity:minivol](../tag/activity:minivol), [prepping](../tag/prepping), [1031710](../tag/1031710), [600-007](../tag/600-007), [replication:13898](../tag/replication:13898)
 
 _This activity is a replication of [this note](/notes/mathew/02-02-2017/minivol-pre-deployment-preparation) with more images._
 

@@ -1,12 +1,18 @@
 ---
-nid: 14930
 title: SmART-Form
-path: public/static/wiki/smart-form.md
+tagnames: formaldehyde, indoor-air-quality-monitoring, indoor-air-quality, smart-form
+author: gretchengehrke
+path: /wiki/smart-form.md
+nid: 14930
 uid: 430549
-tagnames: formaldehyde,indoor-air-quality-monitoring,indoor-air-quality,smart-form
+
 ---
 
 # SmART-Form
+
+by [gretchengehrke](../profile/gretchengehrke), [nshapiro](../profile/nshapiro), [liz](../profile/liz)
+
+September 21, 2017 18:52 | Tags: [formaldehyde](../tag/formaldehyde), [indoor-air-quality-monitoring](../tag/indoor-air-quality-monitoring), [indoor-air-quality](../tag/indoor-air-quality), [smart-form](../tag/smart-form)
 
 **Smartphone App for Residential Testing of Formaldehyde (SmART-Form): a community science effort to measure formaldehyde in the home environment.** 
 

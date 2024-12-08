@@ -1,6 +1,6 @@
 # wateristic
 
-4 notes and wiki pages
+4 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Can we use an arduino to run a photodiode and interference filter to detect  bioluminescence?](/notes/omarion/09-26-2019/can-we-use-an-arduino-to-run-a-photodiode-and-interference-filter-to-detect-bioluminescence) by [omarion](../profile/omarion)
 - [Wateristic: an underwater bioluminescence detector](/wiki/wateristic-and-underwater-bioluminescence-detector) (wiki)

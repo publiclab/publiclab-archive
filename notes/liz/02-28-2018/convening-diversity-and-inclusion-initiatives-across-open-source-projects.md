@@ -1,12 +1,18 @@
 ---
-nid: 15840
 title: Convening diversity and inclusion initiatives across open source projects
-path: public/static/notes/liz/02-28-2018/convening-diversity-and-inclusion-initiatives-across-open-source-projects.md
+tagnames: community, evaluation, software-outreach, eval, diversity, welcoming, inclusion
+author: liz
+path: /notes/liz/02-28-2018/convening-diversity-and-inclusion-initiatives-across-open-source-projects.md
+nid: 15840
 uid: 7
-tagnames: community,evaluation,software-outreach,eval,diversity,welcoming,inclusion
+
 ---
 
 # Convening diversity and inclusion initiatives across open source projects
+
+by [liz](../profile/liz) February 28, 2018 23:02
+
+February 28, 2018 23:02 | Tags: [community](../tag/community), [evaluation](../tag/evaluation), [software-outreach](../tag/software-outreach), [eval](../tag/eval), [diversity](../tag/diversity), [welcoming](../tag/welcoming), [inclusion](../tag/inclusion)
 
 Mozilla is convening a diversity and inclusion working group across open source projects, and many large communities are already involved: OpenStreetMap's Women's group, Drupal, Wordpress, Linux's CHAOSS Project, Kubernetes, Fedora, etc. Leading up to this they did a cross-project survey of projects including 90 detailed multi-modal interviews
 

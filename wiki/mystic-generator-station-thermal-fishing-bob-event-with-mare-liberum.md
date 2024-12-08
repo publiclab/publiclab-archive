@@ -1,12 +1,18 @@
 ---
-nid: 13189
 title: Mystic Generator Station Thermal Fishing Bob Event with Mare Liberum
-path: public/static/wiki/mystic-generator-station-thermal-fishing-bob-event-with-mare-liberum.md
-uid: 444638
 tagnames: 
+author: ErikHanley11
+path: /wiki/mystic-generator-station-thermal-fishing-bob-event-with-mare-liberum.md
+nid: 13189
+uid: 444638
+
 ---
 
 # Mystic Generator Station Thermal Fishing Bob Event with Mare Liberum
+
+by [ErikHanley11](../profile/ErikHanley11)
+
+June 11, 2016 21:13 | Tags: 
 
 ##Please note that this research note is a work in progress with a group of contributors. Expect more content very soon.
 

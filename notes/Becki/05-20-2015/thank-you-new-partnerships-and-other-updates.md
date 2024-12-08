@@ -1,12 +1,18 @@
 ---
-nid: 11824
 title: THANK YOU, new partnerships, and other updates
-path: public/static/notes/Becki/05-20-2015/thank-you-new-partnerships-and-other-updates.md
-uid: 46673
 tagnames: 
+author: Becki
+path: /notes/Becki/05-20-2015/thank-you-new-partnerships-and-other-updates.md
+nid: 11824
+uid: 46673
+
 ---
 
 # THANK YOU, new partnerships, and other updates
+
+by [Becki](../profile/Becki) May 20, 2015 21:28
+
+May 20, 2015 21:28 | Tags: 
 
 Hello Public Lab community!
 

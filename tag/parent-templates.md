@@ -1,6 +1,6 @@
 # parent-templates
 
-7 notes and wiki pages
+7 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [method-template-lite](/wiki/method-template-lite) (wiki)
 - [Issue Brief Template](/wiki/issue-brief-template) (wiki)

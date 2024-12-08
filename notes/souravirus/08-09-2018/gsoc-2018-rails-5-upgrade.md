@@ -1,12 +1,18 @@
 ---
-nid: 16901
 title: GSoC 2018: Upgrade of Public Lab to Rails 5.2
-path: public/static/notes/souravirus/08-09-2018/gsoc-2018-rails-5-upgrade.md
+tagnames: social-media, gsoc, gsoc-2018-final, soc-2018-final-report
+author: souravirus
+path: /notes/souravirus/08-09-2018/gsoc-2018-rails-5-upgrade.md
+nid: 16901
 uid: 524509
-tagnames: social-media,gsoc,gsoc-2018-final,soc-2018-final-report
+
 ---
 
 # GSoC 2018: Upgrade of Public Lab to Rails 5.2
+
+by [souravirus](../profile/souravirus) August 09, 2018 21:53
+
+August 09, 2018 21:53 | Tags: [social-media](../tag/social-media), [gsoc](../tag/gsoc), [gsoc-2018-final](../tag/gsoc-2018-final), [soc-2018-final-report](../tag/soc-2018-final-report)
 
 ## About Me
 

@@ -1,6 +1,6 @@
 # method
 
-122 notes and wiki pages
+122 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Thermal photography](/wiki/thermal-photography) (wiki)
 - [Spectrometry](/wiki/spectrometry) (wiki)
@@ -86,7 +86,6 @@
 - [Noise](/wiki/noise) (wiki)
 - [Community Microscope Kit](/wiki/micro) (wiki)
 - [Will this gadget work for spectrophotometry?](/notes/jjroper/06-15-2018/will-this-gadget-work-for-spectrophotometry) by [jjroper](../profile/jjroper)
-- [Creating a media campaign for casino](/notes/Alovend/06-19-2018/creating-a-media-campaign-for-casino) by [Alovend](../profile/Alovend)
 - [BabyLegs](/wiki/babylegs) (wiki)
 - [Best light source for spectrometer?](/notes/jneish/07-10-2018/best-light-source-for-spectrometer) by [jneish](../profile/jneish)
 - [Most accurate spectrographs? ](/notes/jneish/07-10-2018/most-accurate-spectrographs) by [jneish](../profile/jneish)
@@ -100,15 +99,12 @@
 - [Pipeline Monitoring](/wiki/pipeline-monitoring) (wiki)
 - [Map the quiet places near you using Hush City platform](/notes/Hush_City_Mobile_Lab/05-06-2019/map-the-quiet-places-near-you-using-hushcity-platform) by [Hush_City_Mobile_Lab](../profile/Hush_City_Mobile_Lab)
 - [Testing Our Waters](/wiki/testing-our-waters) (wiki)
-- [~[MEGA 4K] Fast & Furious: Hobbs and Shaw (2019) Pelicula Online gratis!](/notes/tuxi212/07-18-2019/mega-4k-fast-furious-hobbs-and-shaw-2019-pelicula-online-gratis) by [tuxi212](../profile/tuxi212)
-- [First Class Family Law Solicitors - Trust, Empathy & Expertise | Berkson Family Law](/notes/familylawberkson/07-20-2019/first-class-family-law-solicitors-trust-empathy-expertise-berkson-family-law) by [familylawberkson](../profile/familylawberkson)
 - [Simple Water Sensor Platform](/wiki/simple-water-sensor-platform) (wiki)
 - [Have you used the bucket air sampler or other grab sample tool?  ](/notes/kgradow1/05-06-2020/have-you-used-the-bucket-air-sampler-or-other-grab-sample-tool) by [kgradow1](../profile/kgradow1)
 - [Is the Purple Air sensor an EPA-validated tool?](/notes/kgradow1/05-08-2020/is-the-purple-air-sensor-an-epa-validated-tool) by [kgradow1](../profile/kgradow1)
 - [MiniVol for gas sensing?](/notes/kgradow1/05-08-2020/using-the-minivol-for-gas-sensing) by [kgradow1](../profile/kgradow1)
 - [Bucket Monitor](/wiki/bucket-monitor) (wiki)
 - [For the Bucket Monitor, how many tedlar bags do you need per-sampling?](/notes/mimiss/09-16-2020/for-the-bucket-monitor-how-many-tedlar-bags-do-you-need-per-sampling) by [mimiss](../profile/mimiss)
-- [The best eye specialist in Karachi](/notes/alkhaleejclinics/09-18-2020/the-best-eye-specialist-in-karachi) by [alkhaleejclinics](../profile/alkhaleejclinics)
 - [Nurdle survey](/wiki/nurdle-survey) (wiki)
 - [Air sample lab testing](/wiki/air-lab-testing) (wiki)
 - [Filtering microplastics from sand](/wiki/filter-microplastics-from-sand) (wiki)

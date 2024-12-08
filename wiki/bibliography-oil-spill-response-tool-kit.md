@@ -1,12 +1,18 @@
 ---
-nid: 5104
 title: Bibliography Oil Spill Response Tool Kit
-path: public/static/wiki/bibliography-oil-spill-response-tool-kit.md
-uid: 8
 tagnames: 
+author: sara
+path: /wiki/bibliography-oil-spill-response-tool-kit.md
+nid: 5104
+uid: 8
+
 ---
 
 # Bibliography Oil Spill Response Tool Kit
+
+by [sara](../profile/sara)
+
+December 04, 2012 20:16 | Tags: 
 
 <strong>Interesting Articles:</strong>
 

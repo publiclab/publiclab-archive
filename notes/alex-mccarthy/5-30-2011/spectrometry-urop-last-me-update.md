@@ -1,12 +1,18 @@
 ---
-nid: 305
 title: Spectrometry UROP last (for me) update
-path: public/static/notes/alex-mccarthy/5-30-2011/spectrometry-urop-last-me-update.md
+tagnames: spectrometer, uv, urop, fluorescence, pah
+author: Alex-McCarthy
+path: /notes/alex-mccarthy/5-30-2011/spectrometry-urop-last-me-update.md
+nid: 305
 uid: 125
-tagnames: spectrometer,uv,urop,fluorescence,pah
+
 ---
 
 # Spectrometry UROP last (for me) update
+
+by [Alex-McCarthy](../profile/Alex-McCarthy) May 30, 2011 14:35
+
+May 30, 2011 14:35 | Tags: [spectrometer](../tag/spectrometer), [uv](../tag/uv), [urop](../tag/urop), [fluorescence](../tag/fluorescence), [pah](../tag/pah)
 
 The semester has ended, and so has my research with the PLOTs spectrometer, which will be picked up this summer by another student.
 I thought I would post a general outline of what I accomplished this (half) semester, and where I would have gone next.

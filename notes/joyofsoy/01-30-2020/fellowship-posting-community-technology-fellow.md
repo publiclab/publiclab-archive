@@ -1,12 +1,18 @@
 ---
-nid: 22441
 title: Fellowship Posting: Community Technology Fellow
-path: public/static/notes/joyofsoy/01-30-2020/fellowship-posting-community-technology-fellow.md
+tagnames: air-quality, fellows, fellowship, air-sensors, fellowships
+author: joyofsoy
+path: /notes/joyofsoy/01-30-2020/fellowship-posting-community-technology-fellow.md
+nid: 22441
 uid: 540844
-tagnames: air-quality,fellows,fellowship,air-sensors,fellowships
+
 ---
 
 # Fellowship Posting: Community Technology Fellow
+
+by [joyofsoy](../profile/joyofsoy) January 30, 2020 23:12
+
+January 30, 2020 23:12 | Tags: [air-quality](../tag/air-quality), [fellows](../tag/fellows), [fellowship](../tag/fellowship), [air-sensors](../tag/air-sensors), [fellowships](../tag/fellowships)
 
 Starting: Late March
 

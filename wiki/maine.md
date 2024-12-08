@@ -1,12 +1,18 @@
 ---
-nid: 10479
 title: maine
-path: public/static/wiki/maine.md
+tagnames: maine, northeast, parent:northeast, phosphogypsum, bauxite, alum, penobscot
+author: liz
+path: /wiki/maine.md
+nid: 10479
 uid: 7
-tagnames: maine,northeast,parent:northeast,phosphogypsum,bauxite,alum,penobscot
+
 ---
 
 # maine
+
+by [liz](../profile/liz), [ronhuber](../profile/ronhuber), [ajawitz](../profile/ajawitz)
+
+May 19, 2014 15:43 | Tags: [maine](../tag/maine), [northeast](../tag/northeast), [parent:northeast](../tag/parent:northeast), [phosphogypsum](../tag/phosphogypsum), [bauxite](../tag/bauxite), [alum](../tag/alum), [penobscot](../tag/penobscot)
 
 ###organizations
 preliminary conversations with: 

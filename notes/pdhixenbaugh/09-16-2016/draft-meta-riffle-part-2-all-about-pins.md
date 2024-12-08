@@ -1,12 +1,18 @@
 ---
-nid: 13457
 title: Draft Meta-Riffle Part 2: All about pins
-path: public/static/notes/pdhixenbaugh/09-16-2016/draft-meta-riffle-part-2-all-about-pins.md
+tagnames: riffle, 4, 8, 6, 3, define, 5, 9
+author: pdhixenbaugh
+path: /notes/pdhixenbaugh/09-16-2016/draft-meta-riffle-part-2-all-about-pins.md
+nid: 13457
 uid: 459085
-tagnames: riffle,4,8,6,3,define,5,9
+
 ---
 
 # Draft Meta-Riffle Part 2: All about pins
+
+by [pdhixenbaugh](../profile/pdhixenbaugh) September 16, 2016 22:16
+
+September 16, 2016 22:16 | Tags: [riffle](../tag/riffle), [4](../tag/4), [8](../tag/8), [6](../tag/6), [3](../tag/3), [define](../tag/define), [5](../tag/5), [9](../tag/9)
 
 ###What I want to do
 * Continue where [Part 1](https://publiclab.org/notes/pdhixenbaugh/09-15-2016/draft-don-t-look-meta-riffle-researching-how-to-build-electronic-circuits-with-the-riffle) left off, exploring Riffle and Arduino documentation

@@ -1,12 +1,18 @@
 ---
-nid: 10385
 title: organizers-summit
-path: public/static/wiki/organizers-summit.md
+tagnames: community, organizers, parent:organizers
+author: liz
+path: /wiki/organizers-summit.md
+nid: 10385
 uid: 7
-tagnames: community,organizers,parent:organizers
+
 ---
 
 # organizers-summit
+
+by [stevie](../profile/stevie), [warren](../profile/warren), [cfastie](../profile/cfastie), [liz](../profile/liz), [philipsilva](../profile/philipsilva), [Bronwen](../profile/Bronwen)
+
+April 30, 2014 18:09 | Tags: [community](../tag/community), [organizers](../tag/organizers), [parent:organizers](../tag/parent:organizers)
 
 ###Upcoming Organizers Summit
 

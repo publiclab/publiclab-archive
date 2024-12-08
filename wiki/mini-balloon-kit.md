@@ -1,12 +1,18 @@
 ---
-nid: 14513
 title: Mini Balloon Kit
-path: public/static/wiki/mini-balloon-kit.md
+tagnames: balloon-mapping, aerial-photography, aerial-mapping, parent:balloon-mapping, prototyping, mini-balloon-kit, kite-
+author: warren
+path: /wiki/mini-balloon-kit.md
+nid: 14513
 uid: 1
-tagnames: balloon-mapping,aerial-photography,aerial-mapping,parent:balloon-mapping,prototyping,mini-balloon-kit,kite-
+
 ---
 
 # Mini Balloon Kit
+
+by [warren](../profile/warren)
+
+June 09, 2017 18:29 | Tags: [balloon-mapping](../tag/balloon-mapping), [aerial-photography](../tag/aerial-photography), [aerial-mapping](../tag/aerial-mapping), [parent:balloon-mapping](../tag/parent:balloon-mapping), [prototyping](../tag/prototyping), [mini-balloon-kit](../tag/mini-balloon-kit), [kite-](../tag/kite-)
 
 The Mini Balloon Kit is based around [the 36 inch wide mylar foil balloons](/notes/patcoyle/09-07-2015/mobius-non-fish-eye-and-small-lifter-wrapup) found by contributor @patcoyle -- which are much cheaper (as little as $3 each!), and can stay inflated for over a week. They fit in the back seat of your car, or can be taken on the subway. Heck, unlike the big red rubber balloons, they fit through a doorway and can be stored indoors. They do lift much less than our standard rubber weather balloons, however -- see below for more!
 

@@ -1,12 +1,18 @@
 ---
-nid: 13177
 title: 中国农村饮用水问题 - Water Risks in Rural China
-path: public/static/wiki/water-risks-in-rural-china.md
-uid: 420999
 tagnames: 
+author: shanlter
+path: /wiki/water-risks-in-rural-china.md
+nid: 13177
+uid: 420999
+
 ---
 
 # 中国农村饮用水问题 - Water Risks in Rural China
+
+by [shanlter](../profile/shanlter)
+
+June 08, 2016 04:06 | Tags: 
 
 这个页面主要介绍了中国农村饮用水（分散式供水）常见问题的主要表征及可能的问题来源，来帮助我们确定检测指标。 检测往往只能反映一个方面的水质表象，在很多时候，而观测和检查常被视作更为重要的水质分析方法。只有确定了污染源信息及污染路径，才能甄别水源污染的起因及适当的解决办法。
 如果对中国城市饮用水问题感兴趣，请查看[中国城乡水质问题 - Water Risks in Urban and Rural China](https://publiclab.org/wiki/water-risks-in-urban-and-rural-china)

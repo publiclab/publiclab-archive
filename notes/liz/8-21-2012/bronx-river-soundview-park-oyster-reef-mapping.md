@@ -1,12 +1,18 @@
 ---
-nid: 3354
 title: Bronx River Soundview Park Oyster Reef Mapping
-path: public/static/notes/liz/8-21-2012/bronx-river-soundview-park-oyster-reef-mapping.md
+tagnames: new-york-city, balloon-mapping, oyster-reef, bronx, oysters, soundview-park, river
+author: liz
+path: /notes/liz/8-21-2012/bronx-river-soundview-park-oyster-reef-mapping.md
+nid: 3354
 uid: 7
-tagnames: new-york-city,balloon-mapping,oyster-reef,bronx,oysters,soundview-park,river
+
 ---
 
 # Bronx River Soundview Park Oyster Reef Mapping
+
+by [liz](../profile/liz) August 21, 2012 21:50
+
+August 21, 2012 21:50 | Tags: [new-york-city](../tag/new-york-city), [balloon-mapping](../tag/balloon-mapping), [oyster-reef](../tag/oyster-reef), [bronx](../tag/bronx), [oysters](../tag/oysters), [soundview-park](../tag/soundview-park), [river](../tag/river)
 
 Main image: oyster spat growing on edge of Bronx River. Courtesy of NY/NJ Baykeeper by Kerstin Kalchmayr.
 

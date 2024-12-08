@@ -1,6 +1,6 @@
 # activity-sensor-enclosures
 
-7 notes and wiki pages
+7 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [sketching a waterproof pop bottle sensor system](/notes/mathew/01-16-2015/sketching-a-waterproof-pop-bottle-sensor-system) by [mathew](../profile/mathew)
 - [sensors in soda bottles](/notes/mathew/02-26-2015/sensors-in-soda-bottles) by [mathew](../profile/mathew)

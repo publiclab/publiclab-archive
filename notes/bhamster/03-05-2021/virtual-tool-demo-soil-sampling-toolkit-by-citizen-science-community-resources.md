@@ -1,12 +1,18 @@
 ---
-nid: 25849
 title: Virtual tool demo: Soil Sampling Toolkit by Citizen Science Community Resources
-path: public/static/notes/bhamster/03-05-2021/virtual-tool-demo-soil-sampling-toolkit-by-citizen-science-community-resources.md
+tagnames: event, soil, event:rsvp, rsvp:bronwen, soil-testing, soil-sampling, soil-testing-toolkit, with:jjcreedon, soil-contamination, rsvp:jjcreedon, rsvp:dianner, rsvp:bernard, rsvp:blessedshrub, rsvp:alejobonifacio
+author: bhamster
+path: /notes/bhamster/03-05-2021/virtual-tool-demo-soil-sampling-toolkit-by-citizen-science-community-resources.md
+nid: 25849
 uid: 664477
-tagnames: event,soil,event:rsvp,rsvp:bronwen,soil-testing,soil-sampling,soil-testing-toolkit,with:jjcreedon,soil-contamination,rsvp:jjcreedon,rsvp:dianner,rsvp:bernard,rsvp:blessedshrub,rsvp:alejobonifacio
+
 ---
 
 # Virtual tool demo: Soil Sampling Toolkit by Citizen Science Community Resources
+
+by [bhamster](../profile/bhamster) March 05, 2021 22:12
+
+March 05, 2021 22:12 | Tags: [event](../tag/event), [soil](../tag/soil), [event:rsvp](../tag/event:rsvp), [rsvp:bronwen](../tag/rsvp:bronwen), [soil-testing](../tag/soil-testing), [soil-sampling](../tag/soil-sampling), [soil-testing-toolkit](../tag/soil-testing-toolkit), [with:jjcreedon](../tag/with:jjcreedon), [soil-contamination](../tag/soil-contamination), [rsvp:jjcreedon](../tag/rsvp:jjcreedon), [rsvp:dianner](../tag/rsvp:dianner), [rsvp:bernard](../tag/rsvp:bernard), [rsvp:blessedshrub](../tag/rsvp:blessedshrub), [rsvp:alejobonifacio](../tag/rsvp:alejobonifacio)
 
 _Lead image: courtesy of Citizen Science Community Resources, all rights reserved._
 

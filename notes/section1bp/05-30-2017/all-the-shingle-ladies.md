@@ -1,12 +1,18 @@
 ---
-nid: 14241
 title: All the Shingle Ladies 
-path: public/static/notes/section1bp/05-30-2017/all-the-shingle-ladies.md
+tagnames: balloon-mapping, event, hidden:response, response:14179, roof, shingle, dorm
+author: section1bp
+path: /notes/section1bp/05-30-2017/all-the-shingle-ladies.md
+nid: 14241
 uid: 506910
-tagnames: balloon-mapping,event,hidden:response,response:14179,roof,shingle,dorm
+
 ---
 
 # All the Shingle Ladies 
+
+by [section1bp](../profile/section1bp) May 30, 2017 16:16
+
+May 30, 2017 16:16 | Tags: [balloon-mapping](../tag/balloon-mapping), [event](../tag/event), [hidden:response](../tag/hidden:response), [response:14179](../tag/response:14179), [roof](../tag/roof), [shingle](../tag/shingle), [dorm](../tag/dorm)
 
 All The Shingle Ladies
 

@@ -1,6 +1,6 @@
 # faq
 
-4 notes and wiki pages
+4 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Spectrometer FAQ](/wiki/spectrometer-faq) (wiki)
 - [Infragram FAQ](/wiki/infragram-faq) (wiki)

@@ -1,12 +1,18 @@
 ---
-nid: 11966
 title: DIY Document Scanning
-path: public/static/notes/ajawitz/06-10-2015/diy-document-scanning.md
+tagnames: archival, tool, open_source_hardware, diybookscanner, book-scanning
+author: ajawitz
+path: /notes/ajawitz/06-10-2015/diy-document-scanning.md
+nid: 11966
 uid: 294634
-tagnames: archival,tool,open_source_hardware,diybookscanner,book-scanning
+
 ---
 
 # DIY Document Scanning
+
+by [ajawitz](../profile/ajawitz) June 10, 2015 18:56
+
+June 10, 2015 18:56 | Tags: [archival](../tag/archival), [tool](../tag/tool), [open_source_hardware](../tag/open_source_hardware), [diybookscanner](../tag/diybookscanner), [book-scanning](../tag/book-scanning)
 
 ###What I want to do
   I want to share various DIY techniques for digitizing hard-copy books and documents using some of the same components used for grassroots mapping (Canon Powershot cameras with CHDK firmware)

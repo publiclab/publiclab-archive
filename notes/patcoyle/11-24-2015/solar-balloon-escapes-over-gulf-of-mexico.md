@@ -1,12 +1,18 @@
 ---
-nid: 12444
 title: SOLAR BALLOON ESCAPES OVER GULF OF MEXICO
-path: public/static/notes/patcoyle/11-24-2015/solar-balloon-escapes-over-gulf-of-mexico.md
+tagnames: solar-balloon, documentation, barnraising, the-barnraiser
+author: patcoyle
+path: /notes/patcoyle/11-24-2015/solar-balloon-escapes-over-gulf-of-mexico.md
+nid: 12444
 uid: 77
-tagnames: solar-balloon,documentation,barnraising,the-barnraiser
+
 ---
 
 # SOLAR BALLOON ESCAPES OVER GULF OF MEXICO
+
+by [patcoyle](../profile/patcoyle) November 24, 2015 22:55
+
+November 24, 2015 22:55 | Tags: [solar-balloon](../tag/solar-balloon), [documentation](../tag/documentation), [barnraising](../tag/barnraising), [the-barnraiser](../tag/the-barnraiser)
 
 ###What I want to do
 

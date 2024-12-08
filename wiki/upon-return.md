@@ -1,12 +1,18 @@
 ---
-nid: 230
 title: Upon Return
-path: public/static/wiki/upon-return.md
-uid: 1
 tagnames: redirect:13474
+author: warren
+path: /wiki/upon-return.md
+nid: 230
+uid: 1
+
 ---
 
 # Upon Return
+
+by [liz](../profile/liz), [gonzoearth](../profile/gonzoearth), [warren](../profile/warren), [Shannon](../profile/Shannon)
+
+May 09, 2011 04:37 | Tags: [redirect:13474](../tag/redirect:13474)
 
 Upon return from your balloon mapping trip, you'll want to:
 

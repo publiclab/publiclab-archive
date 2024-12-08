@@ -1,12 +1,18 @@
 ---
-nid: 10371
 title: Public Lab community newsletter 4.27.14
-path: public/static/notes/Shannon/04-27-2014/public-lab-community-newsletter-4-27-14.md
+tagnames: newsletter, newsletter-archive
+author: Shannon
+path: /notes/Shannon/04-27-2014/public-lab-community-newsletter-4-27-14.md
+nid: 10371
 uid: 9
-tagnames: newsletter,newsletter-archive
+
 ---
 
 # Public Lab community newsletter 4.27.14
+
+by [Shannon](../profile/Shannon) April 27, 2014 20:10
+
+April 27, 2014 20:10 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
 
 This week in the Public Lab community newsletter (hang in there folks, it's a long one!), we’re happy to introduce you to our new team members, invite you to Virtual Contamination Meet-ups and the June tool Barnraising, as well as give you updates on projects from monitoring sand frac mining to the Open Water project. Enjoy!
 

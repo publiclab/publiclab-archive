@@ -1,12 +1,18 @@
 ---
-nid: 12479
 title: Barnraising 2015
-path: public/static/wiki/barnraising-2015.md
+tagnames: barnraising, parent:barnraising, barnraising-2015
+author: liz
+path: /wiki/barnraising-2015.md
+nid: 12479
 uid: 7
-tagnames: barnraising,parent:barnraising,barnraising-2015
+
 ---
 
 # Barnraising 2015
+
+by [warren](../profile/warren), [stevie](../profile/stevie), [liz](../profile/liz)
+
+December 04, 2015 20:50 | Tags: [barnraising](../tag/barnraising), [parent:barnraising](../tag/parent:barnraising), [barnraising-2015](../tag/barnraising-2015)
 
 ####2015 Annual Barnraising, "Building networks across regions" November 20-22nd in Cocodrie, Louisiana! 
 

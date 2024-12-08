@@ -1,12 +1,18 @@
 ---
-nid: 2783
 title: printable scale targets for cataloging camera & phone dimensions
-path: public/static/notes/mathew/7-12-2012/printable-scale-targets-cataloging-camera-phone-dimensions.md
+tagnames: balloon-mapping, spectrometer, kite-mapping
+author: mathew
+path: /notes/mathew/7-12-2012/printable-scale-targets-cataloging-camera-phone-dimensions.md
+nid: 2783
 uid: 4
-tagnames: balloon-mapping,spectrometer,kite-mapping
+
 ---
 
 # printable scale targets for cataloging camera & phone dimensions
+
+by [mathew](../profile/mathew) July 12, 2012 19:56
+
+July 12, 2012 19:56 | Tags: [balloon-mapping](../tag/balloon-mapping), [spectrometer](../tag/spectrometer), [kite-mapping](../tag/kite-mapping)
 
 In this photo I used the scale linked below and traced my camera's vertical profile onto the page, then photographed everything in the bathroom mirror to get the exact dimensions of my canon S90.
 

@@ -1,12 +1,18 @@
 ---
-nid: 14769
 title: Using 2 camera try to find NDVI Image. Please verify my image .
-path: public/static/notes/Kalarav/08-19-2017/using-2-camera-try-to-find-ndvi-image-please-verify-my-image.md
+tagnames: ndvi, nera-infrared
+author: Kalarav
+path: /notes/Kalarav/08-19-2017/using-2-camera-try-to-find-ndvi-image-please-verify-my-image.md
+nid: 14769
 uid: 512890
-tagnames: ndvi,nera-infrared
+
 ---
 
 # Using 2 camera try to find NDVI Image. Please verify my image .
+
+by [Kalarav](../profile/Kalarav) August 19, 2017 07:14
+
+August 19, 2017 07:14 | Tags: [ndvi](../tag/ndvi), [nera-infrared](../tag/nera-infrared)
 
 Hello to all, 
 I am An Embedded enthusiast  right now I’m working on to find NDVI images and it's index.

@@ -1,12 +1,18 @@
 ---
-nid: 239
 title: Interviews
-path: public/static/wiki/interviews.md
+tagnames: interview, evaluation
+author: Shannon
+path: /wiki/interviews.md
+nid: 239
 uid: 9
-tagnames: interview,evaluation
+
 ---
 
 # Interviews
+
+by [Shannon](../profile/Shannon)
+
+May 16, 2011 16:34 | Tags: [interview](../tag/interview), [evaluation](../tag/evaluation)
 
 We have started interviews with Gulf Coast residents about the different locations where maps have been created. The consent form that we are using is attached and here are questions that we have been asking:
 

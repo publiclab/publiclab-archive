@@ -1,12 +1,18 @@
 ---
-nid: 11483
 title: Start Here
-path: public/static/wiki/start-here.md
+tagnames: elp, mental-mapping, parent:gardening-toolkit, gardening-toolkit
+author: liz
+path: /wiki/start-here.md
+nid: 11483
 uid: 7
-tagnames: elp,mental-mapping,parent:gardening-toolkit,gardening-toolkit
+
 ---
 
 # Start Here
+
+by [warren](../profile/warren), [liz](../profile/liz)
+
+December 18, 2014 15:50 | Tags: [elp](../tag/elp), [mental-mapping](../tag/mental-mapping), [parent:gardening-toolkit](../tag/parent:gardening-toolkit), [gardening-toolkit](../tag/gardening-toolkit)
 
 This is one of a series of guides for collaborative environmental research and advocacy projects. "Start Here" is about creating a picture of our place together. This guide covers how to do this with a group using paper and markers. For a followup activity, check out the next guide to putting this info online using [mapknitter](https://mapknitter.org).
 

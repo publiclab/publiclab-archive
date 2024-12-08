@@ -1,12 +1,18 @@
 ---
-nid: 23093
 title: GSoC Proposal 2020: Mapknitter Image Export and Spectral Workbench upgrade
-path: public/static/notes/alaxallves/03-06-2020/gsoc-proposal-2020-spectral-workbench-rails-and-devops-upgrades.md
+tagnames: soc-2020-proposals, zoom:18, lat:-15.890474, lon:-48.014493
+author: alaxallves
+path: /notes/alaxallves/03-06-2020/gsoc-proposal-2020-spectral-workbench-rails-and-devops-upgrades.md
+nid: 23093
 uid: 577447
-tagnames: soc-2020-proposals,zoom:18,lat:-15.890474,lon:-48.014493
+
 ---
 
 # GSoC Proposal 2020: Mapknitter Image Export and Spectral Workbench upgrade
+
+by [alaxallves](../profile/alaxallves) March 06, 2020 14:07
+
+March 06, 2020 14:07 | Tags: [soc-2020-proposals](../tag/soc-2020-proposals), [zoom:18](../tag/zoom:18), [lat:-15.890474](../tag/lat:-15.890474), [lon:-48.014493](../tag/lon:-48.014493)
 
 # About me
 

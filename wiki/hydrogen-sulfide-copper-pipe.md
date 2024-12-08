@@ -1,12 +1,18 @@
 ---
-nid: 15067
 title: Hydrogen Sulfide Copper Pipe Testing
-path: public/static/wiki/hydrogen-sulfide-copper-pipe.md
+tagnames: hydrogen-sulfide, method, h2s-copper-pipe, copper-pipe, parent:hydrogen-sulfide, community-kits-prep, activities:h2s-copper-pipe, questions:h2s-copper-pipe
+author: gretchengehrke
+path: /wiki/hydrogen-sulfide-copper-pipe.md
+nid: 15067
 uid: 430549
-tagnames: hydrogen-sulfide,method,h2s-copper-pipe,copper-pipe,parent:hydrogen-sulfide,community-kits-prep,activities:h2s-copper-pipe,questions:h2s-copper-pipe
+
 ---
 
 # Hydrogen Sulfide Copper Pipe Testing
+
+by [stevie](../profile/stevie), [warren](../profile/warren), [asnow](../profile/asnow), [gretchengehrke](../profile/gretchengehrke)
+
+October 19, 2017 19:58 | Tags: [hydrogen-sulfide](../tag/hydrogen-sulfide), [method](../tag/method), [h2s-copper-pipe](../tag/h2s-copper-pipe), [copper-pipe](../tag/copper-pipe), [parent:hydrogen-sulfide](../tag/parent:hydrogen-sulfide), [community-kits-prep](../tag/community-kits-prep), [activities:h2s-copper-pipe](../tag/activities:h2s-copper-pipe), [questions:h2s-copper-pipe](../tag/questions:h2s-copper-pipe)
 
 This method, developed by Lionel Milberger, is a low-cost, accessible way to detect if [hydrogen sulfide](https://publiclab.org/wiki/hydrogen-sulfide) is present in the air. The elemental copper will react with hydrogen sulfide to produce a purple-black-ish copper sulfide product, visible on the surface of the copper rod. This method has not been quantified or validated yet. Consider collaborating on this project to help assess it! 
 

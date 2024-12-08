@@ -1,12 +1,18 @@
 ---
-nid: 30905
 title: Edwight 5/24/22
-path: public/static/notes/junior_walk1337/05-25-2022/edwight-5-24-22.md
+tagnames: drones, coal-mining, mmmp
+author: junior_walk1337
+path: /notes/junior_walk1337/05-25-2022/edwight-5-24-22.md
+nid: 30905
 uid: 756318
-tagnames: drones,coal-mining,mmmp
+
 ---
 
 # Edwight 5/24/22
+
+by [junior_walk1337](../profile/junior_walk1337) May 25, 2022 03:36
+
+May 25, 2022 03:36 | Tags: [drones](../tag/drones), [coal-mining](../tag/coal-mining), [mmmp](../tag/mmmp)
 
 Here's a view of the new mining on the recently re-opened Edwight surface mine.
 

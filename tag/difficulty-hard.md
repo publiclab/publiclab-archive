@@ -1,6 +1,6 @@
 # difficulty-hard
 
-5 notes and wiki pages
+5 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [CrocusCam](/notes/cfastie/04-20-2013/crocuscam) by [cfastie](../profile/cfastie)
 - [Scripting Raspberry Pi to boot and shoot timelapse photos ](/notes/mathew/11-03-2013/scripting-raspberry-pi-to-boot-and-shoot-timelapse-photos) by [mathew](../profile/mathew)

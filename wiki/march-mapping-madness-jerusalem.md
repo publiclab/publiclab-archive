@@ -1,12 +1,18 @@
 ---
-nid: 894
 title: March Mapping Madness-Jerusalem
-path: public/static/wiki/march-mapping-madness-jerusalem.md
-uid: 8
 tagnames: 
+author: sara
+path: /wiki/march-mapping-madness-jerusalem.md
+nid: 894
+uid: 8
+
 ---
 
 # March Mapping Madness-Jerusalem
+
+by [sara](../profile/sara)
+
+March 06, 2012 01:25 | Tags: 
 
 Planning Page for Jerusalem Mapping Event
 

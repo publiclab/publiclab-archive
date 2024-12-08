@@ -1,12 +1,18 @@
 ---
-nid: 7223
 title: Barnraising Planning
-path: public/static/wiki/barnraising-planning.md
+tagnames: barnraising, list:plots-barnraising
+author: warren
+path: /wiki/barnraising-planning.md
+nid: 7223
 uid: 1
-tagnames: barnraising,list:plots-barnraising
+
 ---
 
 # Barnraising Planning
+
+by [liz](../profile/liz), [warren](../profile/warren)
+
+May 03, 2013 17:20 | Tags: [barnraising](../tag/barnraising), [list:plots-barnraising](../tag/list:plots-barnraising)
 
 A page for organizing upcoming barnraisings. 
 

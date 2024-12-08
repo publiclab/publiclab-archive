@@ -1,12 +1,18 @@
 ---
-nid: 11477
 title: Multispectral analysis for determining plant health
-path: public/static/wiki/multispectral-analysis-for-determining-plant-health.md
+tagnames: spectrography, infrared, spectrometry, photosynthesis, plant-health, plant-biology
+author: btbonval
+path: /wiki/multispectral-analysis-for-determining-plant-health.md
+nid: 11477
 uid: 43229
-tagnames: spectrography,infrared,spectrometry,photosynthesis,plant-health,plant-biology
+
 ---
 
 # Multispectral analysis for determining plant health
+
+by [btbonval](../profile/btbonval)
+
+December 17, 2014 19:32 | Tags: [spectrography](../tag/spectrography), [infrared](../tag/infrared), [spectrometry](../tag/spectrometry), [photosynthesis](../tag/photosynthesis), [plant-health](../tag/plant-health), [plant-biology](../tag/plant-biology)
 
 ### Fundamentals
 

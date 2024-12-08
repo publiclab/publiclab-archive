@@ -1,12 +1,18 @@
 ---
-nid: 11531
 title: Filters in focus
-path: public/static/notes/cfastie/01-19-2015/filters-in-focus.md
+tagnames: near-infrared-camera, vermont, infrared, a2200, conversion, filter, infragram, focus, infrablue, bg3, wratten25a, response:9744, wratten15
+author: cfastie
+path: /notes/cfastie/01-19-2015/filters-in-focus.md
+nid: 11531
 uid: 554
-tagnames: near-infrared-camera,vermont,infrared,a2200,conversion,filter,infragram,focus,infrablue,bg3,wratten25a,response:9744,wratten15
+
 ---
 
 # Filters in focus
+
+by [cfastie](../profile/cfastie) January 19, 2015 04:19
+
+January 19, 2015 04:19 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [vermont](../tag/vermont), [infrared](../tag/infrared), [a2200](../tag/a2200), [conversion](../tag/conversion), [filter](../tag/filter), [infragram](../tag/infragram), [focus](../tag/focus), [infrablue](../tag/infrablue), [bg3](../tag/bg3), [wratten25a](../tag/wratten25a), [response:9744](../tag/response:9744), [wratten15](../tag/wratten15)
 
 *Above: The three screws (red marks) holding the sensor plate inside a Canon PowerShot S95.*  
 .  

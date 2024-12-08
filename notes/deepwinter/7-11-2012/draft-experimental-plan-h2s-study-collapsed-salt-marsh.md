@@ -1,12 +1,18 @@
 ---
-nid: 2758
 title: Draft Experimental Plan for H2S Study in Collapsed Salt Marsh
-path: public/static/notes/deepwinter/7-11-2012/draft-experimental-plan-h2s-study-collapsed-salt-marsh.md
+tagnames: hydrogen-sulfide-sensing, san-francisco, rhus, salt-marsh, california
+author: deepwinter
+path: /notes/deepwinter/7-11-2012/draft-experimental-plan-h2s-study-collapsed-salt-marsh.md
+nid: 2758
 uid: 808
-tagnames: hydrogen-sulfide-sensing,san-francisco,rhus,salt-marsh,california
+
 ---
 
 # Draft Experimental Plan for H2S Study in Collapsed Salt Marsh
+
+by [deepwinter](../profile/deepwinter) July 11, 2012 19:04
+
+July 11, 2012 19:04 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [san-francisco](../tag/san-francisco), [rhus](../tag/rhus), [salt-marsh](../tag/salt-marsh), [california](../tag/california)
 
 
 Experimental Objectives:

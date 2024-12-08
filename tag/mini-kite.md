@@ -1,6 +1,6 @@
 # mini-kite
 
-3 notes and wiki pages
+3 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Building Miniature Kites](/notes/mimiss/04-21-2020/building-miniature-kites) by [mimiss](../profile/mimiss)
 - [Mini Kites](/wiki/mini-kites) (wiki)

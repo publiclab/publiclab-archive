@@ -1,12 +1,18 @@
 ---
-nid: 10610
 title: Updated photo monitoring plugin to compare NDVI with DVI
-path: public/static/notes/nedhorning/06-24-2014/updated-photo-monitoring-plugin-to-compare-ndvi-with-dvi.md
+tagnames: near-infrared-camera, ndvi, imagej, software, plugin, photo, infragram, fiji, photo-monitoring-plugin, monitoring, dvi
+author: nedhorning
+path: /notes/nedhorning/06-24-2014/updated-photo-monitoring-plugin-to-compare-ndvi-with-dvi.md
+nid: 10610
 uid: 133
-tagnames: near-infrared-camera,ndvi,imagej,software,plugin,photo,infragram,fiji,photo-monitoring-plugin,monitoring,dvi
+
 ---
 
 # Updated photo monitoring plugin to compare NDVI with DVI
+
+by [nedhorning](../profile/nedhorning) June 24, 2014 14:25
+
+June 24, 2014 14:25 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [imagej](../tag/imagej), [software](../tag/software), [plugin](../tag/plugin), [photo](../tag/photo), [infragram](../tag/infragram), [fiji](../tag/fiji), [photo-monitoring-plugin](../tag/photo-monitoring-plugin), [monitoring](../tag/monitoring), [dvi](../tag/dvi)
 
 I finally got around to updating the Photo Monitoring Plugin that runs in ImageJ/Fiji (https://github.com/nedhorning/PhotoMonitoringPlugin). The main addition is a dropdown menu that allows you to pick the type of two-band index you want to create. For now the only two options are NDVI Normalized Difference Vegetation Index) and DVI (Difference Vegetation Index). I updated the guide to reflect those changes. I also added two of the LUTs that Chris Fastie frequently uses. If you use the new plugin please let me know if something doesn't work as expected or if the guide or interface windows don't make sense.
 

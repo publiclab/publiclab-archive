@@ -1,12 +1,18 @@
 ---
-nid: 144
 title: 2011 Harvard GCA Conference
-path: public/static/wiki/2011-harvard-gca-conference.md
+tagnames: presentations, talks, harvard
+author: warren
+path: /wiki/2011-harvard-gca-conference.md
+nid: 144
 uid: 1
-tagnames: presentations,talks,harvard
+
 ---
 
 # 2011 Harvard GCA Conference
+
+by [warren](../profile/warren)
+
+March 11, 2011 22:03 | Tags: [presentations](../tag/presentations), [talks](../tag/talks), [harvard](../tag/harvard)
 
 ##Community-based approaches to high-resolution multispectral imaging with balloons##
 

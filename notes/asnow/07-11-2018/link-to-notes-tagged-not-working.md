@@ -1,12 +1,18 @@
 ---
-nid: 16689
 title: Link to notes tagged not working
-path: public/static/notes/asnow/07-11-2018/link-to-notes-tagged-not-working.md
+tagnames: question:website, bug
+author: asnow
+path: /notes/asnow/07-11-2018/link-to-notes-tagged-not-working.md
+nid: 16689
 uid: 515746
-tagnames: question:website,bug
+
 ---
 
 # Link to notes tagged not working
+
+by [asnow](../profile/asnow) July 11, 2018 16:51
+
+July 11, 2018 16:51 | Tags: [question:website](../tag/question:website), [bug](../tag/bug)
 
 ### Please describe the problem (or idea)
 

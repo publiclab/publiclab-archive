@@ -1,12 +1,18 @@
 ---
-nid: 13404
 title: MapKnitter map of Prairie Island One
-path: public/static/notes/jkpetter/08-29-2016/mapknitter-map-of-prairie-island-one.md
+tagnames: mapknitter, north-carolina, southeast, lat:35.9894740318, lon:-78.9067053795, durham, first-time-poster
+author: jkpetter
+path: /notes/jkpetter/08-29-2016/mapknitter-map-of-prairie-island-one.md
+nid: 13404
 uid: 489340
-tagnames: mapknitter,north-carolina,southeast,lat:35.9894740318,lon:-78.9067053795,durham,first-time-poster
+
 ---
 
 # MapKnitter map of Prairie Island One
+
+by [jkpetter](../profile/jkpetter) August 29, 2016 15:09
+
+August 29, 2016 15:09 | Tags: [mapknitter](../tag/mapknitter), [north-carolina](../tag/north-carolina), [southeast](../tag/southeast), [lat:35.9894740318](../tag/lat:35.9894740318), [lon:-78.9067053795](../tag/lon:-78.9067053795), [durham](../tag/durham), [first-time-poster](../tag/first-time-poster)
 
 <iframe src="https://mapknitter.org/embed/prairie-island-one" style="border:none" width="100%" height="400px"></iframe><br /><br /><br />https://mapknitter.org/embed/prairie-island-one
 

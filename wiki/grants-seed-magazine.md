@@ -1,12 +1,18 @@
 ---
-nid: 112
 title: Grants: Seed Magazine
-path: public/static/wiki/grants-seed-magazine.md
-uid: 1
 tagnames: 
+author: warren
+path: /wiki/grants-seed-magazine.md
+nid: 112
+uid: 1
+
 ---
 
 # Grants: Seed Magazine
+
+by [warren](../profile/warren)
+
+March 02, 2011 21:49 | Tags: 
 
 Submitted on Jan 24, 2011, not accepted
 

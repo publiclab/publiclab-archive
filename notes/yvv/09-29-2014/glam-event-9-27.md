@@ -1,12 +1,18 @@
 ---
-nid: 11199
 title: GLAM Event 9/27/14
-path: public/static/notes/yvv/09-29-2014/glam-event-9-27.md
+tagnames: new-york-city, balloon-mapping, gowanus, brooklyn, mapping, glam, superfund, northeast, canal, altitude, conservancy, low
+author: yvv
+path: /notes/yvv/09-29-2014/glam-event-9-27.md
+nid: 11199
 uid: 427257
-tagnames: new-york-city,balloon-mapping,gowanus,brooklyn,mapping,glam,superfund,northeast,canal,altitude,conservancy,low
+
 ---
 
 # GLAM Event 9/27/14
+
+by [yvv](../profile/yvv) September 29, 2014 04:44
+
+September 29, 2014 04:44 | Tags: [new-york-city](../tag/new-york-city), [balloon-mapping](../tag/balloon-mapping), [gowanus](../tag/gowanus), [brooklyn](../tag/brooklyn), [mapping](../tag/mapping), [glam](../tag/glam), [superfund](../tag/superfund), [northeast](../tag/northeast), [canal](../tag/canal), [altitude](../tag/altitude), [conservancy](../tag/conservancy), [low](../tag/low)
 
 Thank you to everyone who participated in Saturday's GLAM Event, it was a great success!
 

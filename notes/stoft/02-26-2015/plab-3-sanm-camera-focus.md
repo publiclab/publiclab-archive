@@ -1,12 +1,18 @@
 ---
-nid: 11642
 title: PLab 3 Sanm Camera Focus
-path: public/static/notes/stoft/02-26-2015/plab-3-sanm-camera-focus.md
+tagnames: spectrometer, webcam, focus, barnstar:empiricism, spec-3
+author: stoft
+path: /notes/stoft/02-26-2015/plab-3-sanm-camera-focus.md
+nid: 11642
 uid: 54025
-tagnames: spectrometer,webcam,focus,barnstar:empiricism,spec-3
+
 ---
 
 # PLab 3 Sanm Camera Focus
+
+by [stoft](../profile/stoft) February 26, 2015 20:15
+
+February 26, 2015 20:15 | Tags: [spectrometer](../tag/spectrometer), [webcam](../tag/webcam), [focus](../tag/focus), [barnstar:empiricism](../tag/barnstar:empiricism), [spec-3](../tag/spec-3)
 
 There has been continuing discussion about PLab spectrometer camera focus since poor focus can add error. I have recommended that the camera should be focused on the slit, as opposed to infinity or any other value, because the slit forms the simulation of collimated light and, in practicality, forms the "object" being photographed. However, webcam optics are somewhat limited.
 

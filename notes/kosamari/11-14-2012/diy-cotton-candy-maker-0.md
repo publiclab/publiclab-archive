@@ -1,12 +1,18 @@
 ---
-nid: 4904
 title: DIY cotton candy maker
-path: public/static/notes/kosamari/11-14-2012/diy-cotton-candy-maker-0.md
+tagnames: air-column-monitor, diy-bio, microbes, activity:cotton-candy, activity:microbes, first-time-poster
+author: kosamari
+path: /notes/kosamari/11-14-2012/diy-cotton-candy-maker-0.md
+nid: 4904
 uid: 44255
-tagnames: air-column-monitor,diy-bio,microbes,activity:cotton-candy,activity:microbes,first-time-poster
+
 ---
 
 # DIY cotton candy maker
+
+by [kosamari](../profile/kosamari) November 14, 2012 14:52
+
+November 14, 2012 14:52 | Tags: [air-column-monitor](../tag/air-column-monitor), [diy-bio](../tag/diy-bio), [microbes](../tag/microbes), [activity:cotton-candy](../tag/activity:cotton-candy), [activity:microbes](../tag/activity:microbes), [first-time-poster](../tag/first-time-poster)
 
 I was talking with Liz at EcoHack3 about sterilized cotton candy microbe project, and this home science project came to my mind for easy to sterilize cotton candy machine.
 

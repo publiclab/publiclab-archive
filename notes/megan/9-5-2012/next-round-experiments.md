@@ -1,12 +1,18 @@
 ---
-nid: 3654
 title: Next Round of Experiments
-path: public/static/notes/megan/9-5-2012/next-round-experiments.md
+tagnames: hydrogen-sulfide-sensing, new-mexico, h2s
+author: megan
+path: /notes/megan/9-5-2012/next-round-experiments.md
+nid: 3654
 uid: 775
-tagnames: hydrogen-sulfide-sensing,new-mexico,h2s
+
 ---
 
 # Next Round of Experiments
+
+by [megan](../profile/megan) September 05, 2012 18:17
+
+September 05, 2012 18:17 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [new-mexico](../tag/new-mexico), [h2s](../tag/h2s)
 
 It has been decided that the next round of experiments will take place at the first well pad off the main road, Sunray 1.
 

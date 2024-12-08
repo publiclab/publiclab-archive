@@ -1,12 +1,18 @@
 ---
-nid: 15277
 title: Papercraft Spectrometer Intro Kit
-path: public/static/wiki/papercraft-spectrometer.md
+tagnames: spectrometry, foldable, papercraft, parent:spectrometry, papercraft-spec, papercraft-spectrometer
+author: warren
+path: /wiki/papercraft-spectrometer.md
+nid: 15277
 uid: 1
-tagnames: spectrometry,foldable,papercraft,parent:spectrometry,papercraft-spec,papercraft-spectrometer
+
 ---
 
 # Papercraft Spectrometer Intro Kit
+
+by [joyofsoy](../profile/joyofsoy), [warren](../profile/warren)
+
+November 30, 2017 19:38 | Tags: [spectrometry](../tag/spectrometry), [foldable](../tag/foldable), [papercraft](../tag/papercraft), [parent:spectrometry](../tag/parent:spectrometry), [papercraft-spec](../tag/papercraft-spec), [papercraft-spectrometer](../tag/papercraft-spectrometer)
 
 After a few years, we're returning to one of our oldest kits to update and improve it, building on lots of community-contributed ideas, improvements, and refinements. This page collects resources, questions and activities related to the design. 
 

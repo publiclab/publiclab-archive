@@ -1,12 +1,18 @@
 ---
-nid: 6581
 title: Fabry-Perot Effect
-path: public/static/notes/sonofaquark/3-28-2013/fabry-perot-effect.md
-uid: 54330
 tagnames: spectrometer
+author: sonofaquark
+path: /notes/sonofaquark/3-28-2013/fabry-perot-effect.md
+nid: 6581
+uid: 54330
+
 ---
 
 # Fabry-Perot Effect
+
+by [sonofaquark](../profile/sonofaquark) March 28, 2013 17:56
+
+March 28, 2013 17:56 | Tags: [spectrometer](../tag/spectrometer)
 
 I have seen this interferometer effect before between the array cover glass and the array. It is demonstrated quite clearly in this spectrum.https://spectralworkbench.org/analyze/spectrum/5479
 

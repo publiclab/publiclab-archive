@@ -1,12 +1,18 @@
 ---
-nid: 12220
 title: EJ in LA
-path: public/static/notes/stevie/09-17-2015/ej-in-la.md
+tagnames: gulf-coast, louisiana, blog, gulfcoast, environmental-justice
+author: stevie
+path: /notes/stevie/09-17-2015/ej-in-la.md
+nid: 12220
 uid: 422561
-tagnames: gulf-coast,louisiana,blog,gulfcoast,environmental-justice
+
 ---
 
 # EJ in LA
+
+by [stevie](../profile/stevie) September 17, 2015 20:21
+
+September 17, 2015 20:21 | Tags: [gulf-coast](../tag/gulf-coast), [louisiana](../tag/louisiana), [blog](../tag/blog), [gulfcoast](../tag/gulfcoast), [environmental-justice](../tag/environmental-justice)
 
 Lead image: _EJScreen Snapshot of Baton Rouge, LA under the Environmental Justice Indicator: Number of facilities within 5k with potential chemical accident management plans._
 

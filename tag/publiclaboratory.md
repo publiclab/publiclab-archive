@@ -1,6 +1,6 @@
 # publiclaboratory
 
-6 notes and wiki pages
+6 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Key elements of using the crate rig](/notes/patcoyle/11-11-2012/key-elements-using-crate-rigideo-key-elements-using-crate-rig) by [patcoyle](../profile/patcoyle)
 - [updated map from 2012 Barnraising session November 2-4, 2012 at LUMCON, Cocodrie, LA](/notes/patcoyle/11-19-2012/updated-map-2012-barnraising-session-november-2-4-2012-lumcon-cocodrie-la) by [patcoyle](../profile/patcoyle)

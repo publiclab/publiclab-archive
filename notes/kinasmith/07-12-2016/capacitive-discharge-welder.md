@@ -1,12 +1,18 @@
 ---
-nid: 13284
 title: Capacitive Discharge Welder
-path: public/static/notes/kinasmith/07-12-2016/capacitive-discharge-welder.md
+tagnames: spectrometer, sensor, thermocouple, welder
+author: kinasmith
+path: /notes/kinasmith/07-12-2016/capacitive-discharge-welder.md
+nid: 13284
 uid: 445906
-tagnames: spectrometer,sensor,thermocouple,welder
+
 ---
 
 # Capacitive Discharge Welder
+
+by [kinasmith](../profile/kinasmith) July 12, 2016 20:50
+
+July 12, 2016 20:50 | Tags: [spectrometer](../tag/spectrometer), [sensor](../tag/sensor), [thermocouple](../tag/thermocouple), [welder](../tag/welder)
 
 I've been working on this
 

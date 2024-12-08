@@ -1,12 +1,18 @@
 ---
-nid: 7264
 title: Report back from Transparency Camp 2013
-path: public/static/notes/liz/05-06-2013/report-back-from-transparency-camp-2013.md
+tagnames: community, washington-dc, event:washington-dc
+author: liz
+path: /notes/liz/05-06-2013/report-back-from-transparency-camp-2013.md
+nid: 7264
 uid: 7
-tagnames: community,washington-dc,event:washington-dc
+
 ---
 
 # Report back from Transparency Camp 2013
+
+by [liz](../profile/liz) May 06, 2013 21:32
+
+May 06, 2013 21:32 | Tags: [community](../tag/community), [washington-dc](../tag/washington-dc), [event:washington-dc](../tag/event:washington-dc)
 
 Transparency Camp is a project of the Sunlight Foundation. 
 Shannon and I held a session on "What citizen science can teach open government"

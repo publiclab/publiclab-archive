@@ -1,12 +1,18 @@
 ---
-nid: 3907
 title: Infrared camera test - film types
-path: public/static/notes/cindyexcites/9-20-2012/infrared-camera-test-film-types.md
+tagnames: near-infrared-camera, nrg, ndvi
+author: cindy_excites
+path: /notes/cindyexcites/9-20-2012/infrared-camera-test-film-types.md
+nid: 3907
 uid: 1083
-tagnames: near-infrared-camera,nrg,ndvi
+
 ---
 
 # Infrared camera test - film types
+
+by [cindy_excites](../profile/cindy_excites) September 20, 2012 11:01
+
+September 20, 2012 11:01 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [nrg](../tag/nrg), [ndvi](../tag/ndvi)
 
 Hello All! I finally managed to make myself an infrared camera using the same canon model as in the tutorial. However, I got two different results with two different films: 1) a piece of film extracted from an new film roll and exposed to direct light and 2) an end piece of developed film as shown in the <a href="http://publiclaboratory.org/tool/near-infrared-camera">video tutorial</a> these are my corresponding results:
 

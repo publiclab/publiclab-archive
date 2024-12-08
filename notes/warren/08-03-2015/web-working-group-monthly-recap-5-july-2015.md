@@ -1,12 +1,18 @@
 ---
-nid: 12117
 title: Web Working Group Monthly Recap 5: July 2015
-path: public/static/notes/warren/08-03-2015/web-working-group-monthly-recap-5-july-2015.md
+tagnames: mapknitter, web-development, software, plots2, spectral-workbench, wwg, webwg, response:12028
+author: warren
+path: /notes/warren/08-03-2015/web-working-group-monthly-recap-5-july-2015.md
+nid: 12117
 uid: 1
-tagnames: mapknitter,web-development,software,plots2,spectral-workbench,wwg,webwg,response:12028
+
 ---
 
 # Web Working Group Monthly Recap 5: July 2015
+
+by [warren](../profile/warren) August 03, 2015 20:49
+
+August 03, 2015 20:49 | Tags: [mapknitter](../tag/mapknitter), [web-development](../tag/web-development), [software](../tag/software), [plots2](../tag/plots2), [spectral-workbench](../tag/spectral-workbench), [wwg](../tag/wwg), [webwg](../tag/webwg), [response:12028](../tag/response:12028)
 
 Hello again - a lot has happened since last month's Web Working Group recap, and mostly it's happened in the [Spectral Workbench](https://spectralworkbench.org) codebase, which is great because it's been way overdue. (Originally, this work was to be done in the spring.) 
 

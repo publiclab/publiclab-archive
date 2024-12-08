@@ -1,12 +1,18 @@
 ---
-nid: 3350
 title: Staff time keeping 2012-2013
-path: public/static/wiki/staff-time-keeping-2012-2013.md
-uid: 9
 tagnames: 
+author: Shannon
+path: /wiki/staff-time-keeping-2012-2013.md
+nid: 3350
+uid: 9
+
 ---
 
 # Staff time keeping 2012-2013
+
+by [warren](../profile/warren), [Shannon](../profile/Shannon)
+
+August 21, 2012 10:08 | Tags: 
 
 <iframe src="https://docs.google.com/spreadsheet/embeddedform?formkey=dGRLQmJNQjJvamZsVVp6RHVISHpSN2c6MA" width="760" height="1783" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 

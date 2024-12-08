@@ -1,12 +1,18 @@
 ---
-nid: 12486
 title: OpenHour winter gathering in NYC
-path: public/static/notes/liz/12-07-2015/openhour-winter-gathering-in-nyc.md
+tagnames: new-york-city, openhour, with:thegreencommunitygarden
+author: liz
+path: /notes/liz/12-07-2015/openhour-winter-gathering-in-nyc.md
+nid: 12486
 uid: 7
-tagnames: new-york-city,openhour,with:thegreencommunitygarden
+
 ---
 
 # OpenHour winter gathering in NYC
+
+by [liz](../profile/liz) December 07, 2015 21:00
+
+December 07, 2015 21:00 | Tags: [new-york-city](../tag/new-york-city), [openhour](../tag/openhour), [with:thegreencommunitygarden](../tag/with:thegreencommunitygarden)
 
 Attending:
 

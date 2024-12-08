@@ -1,12 +1,18 @@
 ---
-nid: 12631
 title: Public Lab job posting: Inventory and Shipping Coordinator
-path: public/static/notes/klie/01-28-2016/public-lab-job-posting-inventory-and-shipping-coordinator.md
+tagnames: kits, nonprofit, jobs
+author: klie
+path: /notes/klie/01-28-2016/public-lab-job-posting-inventory-and-shipping-coordinator.md
+nid: 12631
 uid: 441262
-tagnames: kits,nonprofit,jobs
+
 ---
 
 # Public Lab job posting: Inventory and Shipping Coordinator
+
+by [klie](../profile/klie) January 28, 2016 17:08
+
+January 28, 2016 17:08 | Tags: [kits](../tag/kits), [nonprofit](../tag/nonprofit), [jobs](../tag/jobs)
 
 ###Inventory and Shipping Coordinator
 

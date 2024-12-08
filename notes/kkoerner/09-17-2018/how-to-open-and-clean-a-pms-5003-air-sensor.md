@@ -1,12 +1,18 @@
 ---
-nid: 17133
 title: How to Open and Clean a PMS 5003 Air Sensor
-path: public/static/notes/kkoerner/09-17-2018/how-to-open-and-clean-a-pms-5003-air-sensor.md
+tagnames: teardown, air-quality, pollution, sensor, airpollution, air-sensors, purpleair, plantower, activity:purpleair, pms-5003, activity:plantower
+author: kkoerner
+path: /notes/kkoerner/09-17-2018/how-to-open-and-clean-a-pms-5003-air-sensor.md
+nid: 17133
 uid: 442666
-tagnames: teardown,air-quality,pollution,sensor,airpollution,air-sensors,purpleair,plantower,activity:purpleair,pms-5003,activity:plantower
+
 ---
 
 # How to Open and Clean a PMS 5003 Air Sensor
+
+by [kkoerner](../profile/kkoerner) September 17, 2018 19:25
+
+September 17, 2018 19:25 | Tags: [teardown](../tag/teardown), [air-quality](../tag/air-quality), [pollution](../tag/pollution), [sensor](../tag/sensor), [airpollution](../tag/airpollution), [air-sensors](../tag/air-sensors), [purpleair](../tag/purpleair), [plantower](../tag/plantower), [activity:purpleair](../tag/activity:purpleair), [pms-5003](../tag/pms-5003), [activity:plantower](../tag/activity:plantower)
 
 Inside the PMS 5003
 

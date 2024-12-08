@@ -1,12 +1,18 @@
 ---
-nid: 12603
 title: Start an Environmental Monitoring Study
-path: public/static/wiki/start-enviro-monitor-study.md
+tagnames: research, research-plan, needs-revision, guidelines, tool, method, study-design, parent:study-design
+author: gretchengehrke
+path: /wiki/start-enviro-monitor-study.md
+nid: 12603
 uid: 430549
-tagnames: research,research-plan,needs-revision,guidelines,tool,method,study-design,parent:study-design
+
 ---
 
 # Start an Environmental Monitoring Study
+
+by [bhamster](../profile/bhamster), [liz](../profile/liz), [mathew](../profile/mathew), [stevie](../profile/stevie), [gretchengehrke](../profile/gretchengehrke)
+
+January 23, 2016 04:21 | Tags: [research](../tag/research), [research-plan](../tag/research-plan), [needs-revision](../tag/needs-revision), [guidelines](../tag/guidelines), [tool](../tag/tool), [method](../tag/method), [study-design](../tag/study-design), [parent:study-design](../tag/parent:study-design)
 
 ## General Guidelines and Best Practices for Starting Your Own Environmental Monitoring Study 
 

@@ -1,12 +1,18 @@
 ---
-nid: 15377
 title: Distributed web + Data Together meetup today 4pm in NYC
-path: public/static/notes/liz/12-15-2017/distributed-web-data-together-meetup-today-4pm-in-nyc.md
+tagnames: events:new-york-city, data-together
+author: liz
+path: /notes/liz/12-15-2017/distributed-web-data-together-meetup-today-4pm-in-nyc.md
+nid: 15377
 uid: 7
-tagnames: events:new-york-city,data-together
+
 ---
 
 # Distributed web + Data Together meetup today 4pm in NYC
+
+by [liz](../profile/liz) December 15, 2017 17:06
+
+December 15, 2017 17:06 | Tags: [events:new-york-city](../tag/events:new-york-city), [data-together](../tag/data-together)
 
 Here's a just-in-time invite for anyone to stop by the New Lab at 4pm today and hang out with folks from the **Data Together** group that grew out of the "rescue climate data" work from earlier this year. 
 

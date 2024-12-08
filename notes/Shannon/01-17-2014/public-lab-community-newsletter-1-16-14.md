@@ -1,12 +1,18 @@
 ---
-nid: 9955
 title: Public Lab community newsletter 1.16.14
-path: public/static/notes/Shannon/01-17-2014/public-lab-community-newsletter-1-16-14.md
+tagnames: newsletter, newsletter-archive
+author: Shannon
+path: /notes/Shannon/01-17-2014/public-lab-community-newsletter-1-16-14.md
+nid: 9955
 uid: 9
-tagnames: newsletter,newsletter-archive
+
 ---
 
 # Public Lab community newsletter 1.16.14
+
+by [Shannon](../profile/Shannon) January 17, 2014 20:20
+
+January 17, 2014 20:20 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
 
 This week in the Public Lab community newsletter, learn more about the launch of the Homebrew Sensing Project, join a new mailing list for Public Lab Los Angeles and get ready for Toolshed Raising part 2 in Boston. Enjoy!
 

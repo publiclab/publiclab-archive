@@ -1,12 +1,18 @@
 ---
-nid: 10526
 title: Halo: Red vs. Blue
-path: public/static/notes/cfastie/06-03-2014/halo-red-vs-blue.md
+tagnames: vermont, infrared, sky, atmosphere, infragram, super-red, response:10523, activity:multispectral-imaging
+author: cfastie
+path: /notes/cfastie/06-03-2014/halo-red-vs-blue.md
+nid: 10526
 uid: 554
-tagnames: vermont,infrared,sky,atmosphere,infragram,super-red,response:10523,activity:multispectral-imaging
+
 ---
 
 # Halo: Red vs. Blue
+
+by [cfastie](../profile/cfastie) June 03, 2014 03:57
+
+June 03, 2014 03:57 | Tags: [vermont](../tag/vermont), [infrared](../tag/infrared), [sky](../tag/sky), [atmosphere](../tag/atmosphere), [infragram](../tag/infragram), [super-red](../tag/super-red), [response:10523](../tag/response:10523), [activity:multispectral-imaging](../tag/activity:multispectral-imaging)
 
 *Above: A bucket blocks the Sun at the center of a 22° ice crystal halo.*  
 .  

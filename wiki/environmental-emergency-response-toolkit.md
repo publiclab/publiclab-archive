@@ -1,12 +1,18 @@
 ---
-nid: 18956
 title: Environmental Emergency Response Toolkit
-path: public/static/wiki/environmental-emergency-response-toolkit.md
-uid: 237313
 tagnames: parent:barnraising-texas-2019
+author: Bronwen
+path: /wiki/environmental-emergency-response-toolkit.md
+nid: 18956
+uid: 237313
+
 ---
 
 # Environmental Emergency Response Toolkit
+
+by [Bronwen](../profile/Bronwen)
+
+April 04, 2019 12:29 | Tags: [parent:barnraising-texas-2019](../tag/parent:barnraising-texas-2019)
 
 #### This wiki page is being developed! Please help us build it by contributing here, asking questions, or posting notes/activities on this topic. 
 

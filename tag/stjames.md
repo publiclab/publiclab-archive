@@ -1,6 +1,6 @@
 # stjames
 
-4 notes and wiki pages
+4 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [A Public Statement Against Formosa Plastic's Air Permit Application](/notes/TravisLondon/03-22-2022/a-public-statement-against-formosa-plastic-s-air-permit-application) by [TravisLondon](../profile/TravisLondon)
 - [The Formosa's Air Permit Trial: Rise St. James vs. Louisiana Department of Environmental Quality (LDEQ)](/notes/TravisLondon/03-26-2022/the-formosa-s-air-permit-trial-rise-st-james-vs-louisiana-department-of-environmental-quality-ldeq) by [TravisLondon](../profile/TravisLondon)

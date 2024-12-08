@@ -1,12 +1,18 @@
 ---
-nid: 6220
 title: Countertop Spectrometer
-path: public/static/wiki/countertop-spectrometer.md
+tagnames: spectrometer, countertop-spectrometer
+author: warren
+path: /wiki/countertop-spectrometer.md
+nid: 6220
 uid: 1
-tagnames: spectrometer,countertop-spectrometer
+
 ---
 
 # Countertop Spectrometer
+
+by [warren](../profile/warren)
+
+March 06, 2013 14:51 | Tags: [spectrometer](../tag/spectrometer), [countertop-spectrometer](../tag/countertop-spectrometer)
 
 This page documents assembly and use of the Public Lab **Countertop Spectrometer** -- a pre-assembled, pre-calibrated spectrometer with a built-in dimmable light and stage, based on the [Desktop Spectrometry Kit](/wiki/dsk), which was offered as a reward during the [Public Lab DIY Spectrometry Kit Kickstarter](http://kickstarter.com/projects/jywarren/public-lab-diy-spectrometry-kit)
 

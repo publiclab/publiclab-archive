@@ -1,12 +1,18 @@
 ---
-nid: 9896
 title: 2013 Slideshow
-path: public/static/wiki/2013-slideshow.md
+tagnames: sidebar:featured, style:wide, style:presentation
+author: warren
+path: /wiki/2013-slideshow.md
+nid: 9896
 uid: 1
-tagnames: sidebar:featured,style:wide,style:presentation
+
 ---
 
 # 2013 Slideshow
+
+by [warren](../profile/warren)
+
+December 17, 2013 20:43 | Tags: [sidebar:featured](../tag/sidebar:featured), [style:wide](../tag/style:wide), [style:presentation](../tag/style:presentation)
 
 <!-- http://getbootstrap.com/javascript/#carousel -->
 

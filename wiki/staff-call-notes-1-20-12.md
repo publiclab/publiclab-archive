@@ -1,12 +1,18 @@
 ---
-nid: 712
 title: Staff call notes 1 20 12
-path: public/static/wiki/staff-call-notes-1-20-12.md
-uid: 1
 tagnames: 
+author: warren
+path: /wiki/staff-call-notes-1-20-12.md
+nid: 712
+uid: 1
+
 ---
 
 # Staff call notes 1 20 12
+
+by [warren](../profile/warren)
+
+January 20, 2012 18:38 | Tags: 
 
 ###Collaborations###
 

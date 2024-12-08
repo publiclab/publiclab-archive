@@ -1,12 +1,18 @@
 ---
-nid: 10208
 title: [GSoC 2014 Proposal - DRAFT] Sky Cam Enhancements
-path: public/static/notes/mj7007/03-20-2014/gsoc-2014-proposal-draft-sky-cam-enhancements.md
+tagnames: gsoc, skycam, gsoc-2014, coding
+author: mj7007
+path: /notes/mj7007/03-20-2014/gsoc-2014-proposal-draft-sky-cam-enhancements.md
+nid: 10208
 uid: 421351
-tagnames: gsoc,skycam,gsoc-2014,coding
+
 ---
 
 # [GSoC 2014 Proposal - DRAFT] Sky Cam Enhancements
+
+by [mj7007](../profile/mj7007) March 20, 2014 07:06
+
+March 20, 2014 07:06 | Tags: [gsoc](../tag/gsoc), [skycam](../tag/skycam), [gsoc-2014](../tag/gsoc-2014), [coding](../tag/coding)
 
 Name: Jayaruwan Mannapperuma
 

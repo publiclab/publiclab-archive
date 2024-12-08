@@ -1,12 +1,18 @@
 ---
-nid: 13415
 title: DH 4.0 v4 Spectrometer Build Illustrations, Modifications and Specifications
-path: public/static/wiki/dh-4-0-v4-spectrometer-build-illustrations-modifications-and-specifications.md
-uid: 461120
 tagnames: 
+author: dhaffnersr
+path: /wiki/dh-4-0-v4-spectrometer-build-illustrations-modifications-and-specifications.md
+nid: 13415
+uid: 461120
+
 ---
 
 # DH 4.0 v4 Spectrometer Build Illustrations, Modifications and Specifications
+
+by [dhaffnersr](../profile/dhaffnersr)
+
+September 03, 2016 22:48 | Tags: 
 
 This is what my spectrometer looks like at the present moment...
 

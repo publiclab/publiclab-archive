@@ -1,12 +1,18 @@
 ---
-nid: 267
 title: The PLOTS Archive
-path: public/static/wiki/archive.md
-uid: 1
 tagnames: 
+author: warren
+path: /wiki/archive.md
+nid: 267
+uid: 1
+
 ---
 
 # The PLOTS Archive
+
+by [warren](../profile/warren)
+
+May 23, 2011 21:35 | Tags: 
 
 <style>
  #content .tabs,

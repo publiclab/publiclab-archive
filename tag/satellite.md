@@ -1,6 +1,6 @@
 # satellite
 
-4 notes and wiki pages
+4 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Article: MODIS Detects Oil Spills in Lake Maracaibo, Venezuela](/notes/warren/1-30-2011/article-modis-detects-oil-spills-lake-maracaibo-venezuela) by [warren](../profile/warren)
 - [A Year of Thermal Pollution from Oyster Creek Nuclear Plant](/notes/zenontc/03-06-2014/a-year-of-thermal-pollution) by [zenontc](../profile/zenontc)

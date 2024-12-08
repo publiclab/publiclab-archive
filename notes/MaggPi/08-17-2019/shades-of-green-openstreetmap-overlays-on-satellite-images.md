@@ -1,12 +1,18 @@
 ---
-nid: 20562
 title: Shades of Green - OpenStreetMap Overlays on Satellite images
-path: public/static/notes/MaggPi/08-17-2019/shades-of-green-openstreetmap-overlays-on-satellite-images.md
+tagnames: mapknitter, osm, geospatial, satellite-imagery, gsoc-2019, planet, nottingham, lat:52.954783, lon:-1.158108
+author: MaggPi
+path: /notes/MaggPi/08-17-2019/shades-of-green-openstreetmap-overlays-on-satellite-images.md
+nid: 20562
 uid: 501996
-tagnames: mapknitter,osm,geospatial,satellite-imagery,gsoc-2019,planet,nottingham,lat:52.954783,lon:-1.158108
+
 ---
 
 # Shades of Green - OpenStreetMap Overlays on Satellite images
+
+by [MaggPi](../profile/MaggPi) August 17, 2019 17:41
+
+August 17, 2019 17:41 | Tags: [mapknitter](../tag/mapknitter), [osm](../tag/osm), [geospatial](../tag/geospatial), [satellite-imagery](../tag/satellite-imagery), [gsoc-2019](../tag/gsoc-2019), [planet](../tag/planet), [nottingham](../tag/nottingham), [lat:52.954783](../tag/lat:52.954783), [lon:-1.158108](../tag/lon:-1.158108)
 
 ## Abstract 
 This note provides an example of satellite image processing using OpenStreetMap (OSM) data mining tools and [Jupyter](https://jupyter.org/) interactive computing environment.  Park areas of Nottingham, England are identified and compared using [Planet](https://www.planet.com/) satellite image data and [overpass-turbo](https://overpass-turbo.eu/) overlays.

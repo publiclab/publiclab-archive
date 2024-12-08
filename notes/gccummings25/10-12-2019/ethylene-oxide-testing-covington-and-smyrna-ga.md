@@ -1,12 +1,18 @@
 ---
-nid: 21149
 title: Ethylene Oxide Testing - Covington and Smyrna, GA
-path: public/static/notes/gccummings25/10-12-2019/ethylene-oxide-testing-covington-and-smyrna-ga.md
+tagnames: georgia, air-quality, southeast, advocacy, study-design, community-organizing, air-sensors, first-time-poster, lat:33.610044, lon:-83.871222, ethylene-oxide
+author: gccummings25
+path: /notes/gccummings25/10-12-2019/ethylene-oxide-testing-covington-and-smyrna-ga.md
+nid: 21149
 uid: 622597
-tagnames: georgia,air-quality,southeast,advocacy,study-design,community-organizing,air-sensors,first-time-poster,lat:33.610044,lon:-83.871222,ethylene-oxide
+
 ---
 
 # Ethylene Oxide Testing - Covington and Smyrna, GA
+
+by [gccummings25](../profile/gccummings25) October 12, 2019 20:34
+
+October 12, 2019 20:34 | Tags: [georgia](../tag/georgia), [air-quality](../tag/air-quality), [southeast](../tag/southeast), [advocacy](../tag/advocacy), [study-design](../tag/study-design), [community-organizing](../tag/community-organizing), [air-sensors](../tag/air-sensors), [first-time-poster](../tag/first-time-poster), [lat:33.610044](../tag/lat:33.610044), [lon:-83.871222](../tag/lon:-83.871222), [ethylene-oxide](../tag/ethylene-oxide)
 
 **Hello all, my name is Grace Kelley (nee Cummings) and I am a graduate student in communications design at Pratt Institute in Brooklyn, NY. I'm doing a project on environmental contamination with a focus on ethylene oxide contamination affecting the communities of Covington, GA and Smyrna, GA.**
 

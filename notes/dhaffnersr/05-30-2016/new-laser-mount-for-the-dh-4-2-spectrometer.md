@@ -1,12 +1,18 @@
 ---
-nid: 13154
 title: New Laser mount for the DH 4.2 Spectrometer
-path: public/static/notes/dhaffnersr/05-30-2016/new-laser-mount-for-the-dh-4-2-spectrometer.md
-uid: 461120
 tagnames: 
+author: dhaffnersr
+path: /notes/dhaffnersr/05-30-2016/new-laser-mount-for-the-dh-4-2-spectrometer.md
+nid: 13154
+uid: 461120
+
 ---
 
 # New Laser mount for the DH 4.2 Spectrometer
+
+by [dhaffnersr](../profile/dhaffnersr) May 30, 2016 13:59
+
+May 30, 2016 13:59 | Tags: 
 
 **I had to build a far more stable apparatus for holding my laser when illuminating the samples in the cuvette holder in the spectrometer, so keeping my goals in mind, ( low cost but with high precision and quality,) I used my lab stand as a base foundation, since it is made out of metal and has sufficient weight.
 

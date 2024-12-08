@@ -1,12 +1,18 @@
 ---
-nid: 13713
 title: Photoreactive purple dye: can it block wavelengths longer than green?
-path: public/static/notes/axman/11-20-2016/photoreactive-purple-dye-can-it-block-wavelengths-longer-than-green.md
+tagnames: question:spectrometer, question:spectrometry
+author: axman
+path: /notes/axman/11-20-2016/photoreactive-purple-dye-can-it-block-wavelengths-longer-than-green.md
+nid: 13713
 uid: 497547
-tagnames: question:spectrometer,question:spectrometry
+
 ---
 
 # Photoreactive purple dye: can it block wavelengths longer than green?
+
+by [axman](../profile/axman) November 20, 2016 06:11
+
+November 20, 2016 06:11 | Tags: [question:spectrometer](../tag/question:spectrometer), [question:spectrometry](../tag/question:spectrometry)
 
 In attempting to calibrate my Desktop Spectrometer, I was challenged:  light with a longer wavelength than green was not visible in the results.
 

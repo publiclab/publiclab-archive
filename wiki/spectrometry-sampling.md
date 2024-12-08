@@ -1,12 +1,18 @@
 ---
-nid: 9403
 title: Spectrometry Sampling
-path: public/static/wiki/spectrometry-sampling.md
+tagnames: spectrometer, sampling, spectrometry-sampling, parent:sampling, sample-collection
+author: warren
+path: /wiki/spectrometry-sampling.md
+nid: 9403
 uid: 1
-tagnames: spectrometer,sampling,spectrometry-sampling,parent:sampling,sample-collection
+
 ---
 
 # Spectrometry Sampling
+
+by [warren](../profile/warren), [OpenSourceScience](../profile/OpenSourceScience)
+
+October 05, 2013 21:18 | Tags: [spectrometer](../tag/spectrometer), [sampling](../tag/sampling), [spectrometry-sampling](../tag/spectrometry-sampling), [parent:sampling](../tag/parent:sampling), [sample-collection](../tag/sample-collection)
 
 **How do you test liquid or solid samples with your [DIY Spectrometer](/wiki/spectrometer)?** Read about ways to prepare and scan samples here, and [read about different tests you can do with your spectrometer](/wiki/spectrometry-activities).
 

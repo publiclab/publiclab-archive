@@ -1,12 +1,18 @@
 ---
-nid: 27630
 title: GSoC 2021 experience with Public Lab
-path: public/static/notes/waridrox/08-28-2021/gsoc-2021-experience-with-public-lab.md
+tagnames: spectral-workbench, soc, soc-2021-final
+author: waridrox
+path: /notes/waridrox/08-28-2021/gsoc-2021-experience-with-public-lab.md
+nid: 27630
 uid: 745996
-tagnames: spectral-workbench,soc,soc-2021-final
+
 ---
 
 # GSoC 2021 experience with Public Lab
+
+by [waridrox](../profile/waridrox) August 28, 2021 16:47
+
+August 28, 2021 16:47 | Tags: [spectral-workbench](../tag/spectral-workbench), [soc](../tag/soc), [soc-2021-final](../tag/soc-2021-final)
 
 Some context about the project  
 **Public Lab** has a renowned web app called **spectral workbench** that is responsible for capturing, analysing and saving the data to an open sourced database of spectrums.

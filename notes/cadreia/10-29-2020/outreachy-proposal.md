@@ -1,12 +1,18 @@
 ---
-nid: 24868
 title: Outreachy Proposal: Comment Editor Overhaul
-path: public/static/notes/cadreia/10-29-2020/outreachy-proposal.md
+tagnames: software, first-time-poster, outreachy-winter-2020, outreachy-2020-winter-proposals, response:24687
+author: cadreia
+path: /notes/cadreia/10-29-2020/outreachy-proposal.md
+nid: 24868
 uid: 725561
-tagnames: software,first-time-poster,outreachy-winter-2020,outreachy-2020-winter-proposals,response:24687
+
 ---
 
 # Outreachy Proposal: Comment Editor Overhaul
+
+by [cadreia](../profile/cadreia) October 29, 2020 16:36
+
+October 29, 2020 16:36 | Tags: [software](../tag/software), [first-time-poster](../tag/first-time-poster), [outreachy-winter-2020](../tag/outreachy-winter-2020), [outreachy-2020-winter-proposals](../tag/outreachy-2020-winter-proposals), [response:24687](../tag/response:24687)
 
 # About Me
 

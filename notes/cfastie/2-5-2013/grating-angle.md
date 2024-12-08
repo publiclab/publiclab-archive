@@ -1,12 +1,18 @@
 ---
-nid: 5892
 title: Grating angle
-path: public/static/notes/cfastie/2-5-2013/grating-angle.md
+tagnames: spectrometer, vermont, diffraction-grating, entrance-slit, ebert, focus, barnstar:empiricism, lego
+author: cfastie
+path: /notes/cfastie/2-5-2013/grating-angle.md
+nid: 5892
 uid: 554
-tagnames: spectrometer,vermont,diffraction-grating,entrance-slit,ebert,focus,barnstar:empiricism,lego
+
 ---
 
 # Grating angle
+
+by [cfastie](../profile/cfastie) February 05, 2013 16:40
+
+February 05, 2013 16:40 | Tags: [spectrometer](../tag/spectrometer), [vermont](../tag/vermont), [diffraction-grating](../tag/diffraction-grating), [entrance-slit](../tag/entrance-slit), [ebert](../tag/ebert), [focus](../tag/focus), [barnstar:empiricism](../tag/barnstar:empiricism), [lego](../tag/lego)
 
 <em>Image above: Lab assistant operating the SpectroBench 2000.</em>
 

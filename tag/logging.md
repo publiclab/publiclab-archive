@@ -1,6 +1,6 @@
 # logging
 
-10 notes and wiki pages
+10 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Trees, Chainsaws, Protest and Balloons](/notes/warren/9-28-2011/trees-chainsaws-protest-and-balloons) by [warren](../profile/warren)
 - [DataLogger](/notes/JSummers/11-16-2013/datalogger) by [JSummers](../profile/JSummers)

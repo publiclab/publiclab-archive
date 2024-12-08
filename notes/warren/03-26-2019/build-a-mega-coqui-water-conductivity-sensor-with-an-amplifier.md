@@ -1,12 +1,18 @@
 ---
-nid: 18868
 title: Build a "Mega Coqui" water conductivity sensor with an amplifier
-path: public/static/notes/warren/03-26-2019/build-a-mega-coqui-water-conductivity-sensor-with-an-amplifier.md
+tagnames: water-quality, coqui, seeks:replications, activity:coqui, lat:41.804078, lon:-71.433105, with:mimiss
+author: warren
+path: /notes/warren/03-26-2019/build-a-mega-coqui-water-conductivity-sensor-with-an-amplifier.md
+nid: 18868
 uid: 1
-tagnames: water-quality,coqui,seeks:replications,activity:coqui,lat:41.804078,lon:-71.433105,with:mimiss
+
 ---
 
 # Build a "Mega Coqui" water conductivity sensor with an amplifier
+
+by [warren](../profile/warren) March 26, 2019 18:51
+
+March 26, 2019 18:51 | Tags: [water-quality](../tag/water-quality), [coqui](../tag/coqui), [seeks:replications](../tag/seeks:replications), [activity:coqui](../tag/activity:coqui), [lat:41.804078](../tag/lat:41.804078), [lon:-71.433105](../tag/lon:-71.433105), [with:mimiss](../tag/with:mimiss)
 
 Building on these two activities: #coqui-audio-jack, and looking to do a [Coqui water sampling and comparison workshop](/tag/one-cranston), we added an audio jack to the Coqui so we could amplify the output. This was nice both at the student workshop in Cranston, and also at the [Texas Barnraising](/txbr "https://publiclab.org/txbr"), where people built their own Coquis.
 

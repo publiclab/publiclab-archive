@@ -1,12 +1,18 @@
 ---
-nid: 16433
 title: New documentary: Promise in the Sand
-path: public/static/notes/stevie/06-05-2018/new-documentary-promise-in-the-sand.md
+tagnames: wisconsin, air-quality, blog, fracking, frac-sand, midwest, parent:frac-sand, location:blurred, lat:43, place:united-states, lon:-90, fracksand
+author: stevie
+path: /notes/stevie/06-05-2018/new-documentary-promise-in-the-sand.md
+nid: 16433
 uid: 422561
-tagnames: wisconsin,air-quality,blog,fracking,frac-sand,midwest,parent:frac-sand,location:blurred,lat:43,place:united-states,lon:-90,fracksand
+
 ---
 
 # New documentary: Promise in the Sand
+
+by [stevie](../profile/stevie) June 05, 2018 21:22
+
+June 05, 2018 21:22 | Tags: [wisconsin](../tag/wisconsin), [air-quality](../tag/air-quality), [blog](../tag/blog), [fracking](../tag/fracking), [frac-sand](../tag/frac-sand), [midwest](../tag/midwest), [parent:frac-sand](../tag/parent:frac-sand), [location:blurred](../tag/location:blurred), [lat:43](../tag/lat:43), [place:united-states](../tag/place:united-states), [lon:-90](../tag/lon:-90), [fracksand](../tag/fracksand)
 
 _Lead photo from [Promise in the Sand Facebook page][1]_
 

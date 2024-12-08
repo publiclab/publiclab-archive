@@ -1,11 +1,17 @@
 ---
-nid: 11537
 title: advocacy-initiative
-path: public/static/wiki/advocacy-initiative.md
-uid: 7
 tagnames: 
+author: liz
+path: /wiki/advocacy-initiative.md
+nid: 11537
+uid: 7
+
 ---
 
 # advocacy-initiative
+
+by [liz](../profile/liz)
+
+January 23, 2015 18:53 | Tags: 
 
 test page

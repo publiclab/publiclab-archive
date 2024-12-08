@@ -1,12 +1,18 @@
 ---
-nid: 11579
 title: australia
-path: public/static/wiki/australia.md
+tagnames: australia, chapter
+author: cobi
+path: /wiki/australia.md
+nid: 11579
 uid: 427829
-tagnames: australia,chapter
+
 ---
 
 # australia
+
+by [cobi](../profile/cobi), [warren](../profile/warren)
+
+February 13, 2015 01:46 | Tags: [australia](../tag/australia), [chapter](../tag/chapter)
 
 More than 20 people have taken the time to put their name on [this list](http://pad.publiclab.org/p/auslaunch) expressing interest in a Public Lab mailing list for our region, including people from Adelaide, Melbourne, Sydney and New Zealand. Until a mailing list is created, interested folk can add their name to that list. 
 

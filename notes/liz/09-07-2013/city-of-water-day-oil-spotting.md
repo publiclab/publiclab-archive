@@ -1,12 +1,18 @@
 ---
-nid: 9301
 title: City Of Water Day oil spotting
-path: public/static/notes/liz/09-07-2013/city-of-water-day-oil-spotting.md
+tagnames: new-york-city, balloon-mapping, gowanus, oil-spill, oil, plume, canoe, glam, water-quality, nyc
+author: liz
+path: /notes/liz/09-07-2013/city-of-water-day-oil-spotting.md
+nid: 9301
 uid: 7
-tagnames: new-york-city,balloon-mapping,gowanus,oil-spill,oil,plume,canoe,glam,water-quality,nyc
+
 ---
 
 # City Of Water Day oil spotting
+
+by [liz](../profile/liz) September 07, 2013 22:20
+
+September 07, 2013 22:20 | Tags: [new-york-city](../tag/new-york-city), [balloon-mapping](../tag/balloon-mapping), [gowanus](../tag/gowanus), [oil-spill](../tag/oil-spill), [oil](../tag/oil), [plume](../tag/plume), [canoe](../tag/canoe), [glam](../tag/glam), [water-quality](../tag/water-quality), [nyc](../tag/nyc)
 
 **Posting on behalf of Eymund Diegel: **
 

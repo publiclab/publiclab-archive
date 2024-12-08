@@ -1,12 +1,18 @@
 ---
-nid: 23129
 title: GSoC 2020 proposal: Spam Management Dashboard
-path: public/static/notes/keshav_sethi0004/03-12-2020/gsoc-2020-proposal-spam-management-dashboard.md
+tagnames: software, plots2, gsoc, google, spam, dashboard, first-time-poster, dial, zoom:6, soc-2020, soc-2020-proposals, soc2020, lat:28.362672, lon:75.586146, keshav, smd
+author: keshav_sethi0004
+path: /notes/keshav_sethi0004/03-12-2020/gsoc-2020-proposal-spam-management-dashboard.md
+nid: 23129
 uid: 653396
-tagnames: software,plots2,gsoc,google,spam,dashboard,first-time-poster,dial,zoom:6,soc-2020,soc-2020-proposals,soc2020,lat:28.362672,lon:75.586146,keshav,smd
+
 ---
 
 # GSoC 2020 proposal: Spam Management Dashboard
+
+by [keshav_sethi0004](../profile/keshav_sethi0004) March 12, 2020 17:12
+
+March 12, 2020 17:12 | Tags: [software](../tag/software), [plots2](../tag/plots2), [gsoc](../tag/gsoc), [google](../tag/google), [spam](../tag/spam), [dashboard](../tag/dashboard), [first-time-poster](../tag/first-time-poster), [dial](../tag/dial), [zoom:6](../tag/zoom:6), [soc-2020](../tag/soc-2020), [soc-2020-proposals](../tag/soc-2020-proposals), [soc2020](../tag/soc2020), [lat:28.362672](../tag/lat:28.362672), [lon:75.586146](../tag/lon:75.586146), [keshav](../tag/keshav), [smd](../tag/smd)
 
 Name: Keshav Sethi
 

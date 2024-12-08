@@ -1,12 +1,18 @@
 ---
-nid: 410
 title: Piezoelectric biosensors for estrogen and organophosphate detection
-path: public/static/notes/warren/7-25-2011/piezoelectric-biosensors-estrogen-and-organophosphate-detection.md
+tagnames: estrogen, organophosphates, biosensors, piezoelectric
+author: warren
+path: /notes/warren/7-25-2011/piezoelectric-biosensors-estrogen-and-organophosphate-detection.md
+nid: 410
 uid: 1
-tagnames: estrogen,organophosphates,biosensors,piezoelectric
+
 ---
 
 # Piezoelectric biosensors for estrogen and organophosphate detection
+
+by [warren](../profile/warren) July 25, 2011 17:35
+
+July 25, 2011 17:35 | Tags: [estrogen](../tag/estrogen), [organophosphates](../tag/organophosphates), [biosensors](../tag/biosensors), [piezoelectric](../tag/piezoelectric)
 
 > There are several commercial piezoelectric biosensors available from companies such as Elchema (Potsdam, NY) and Maxtek (Torrance, CA) which have been used to test for substances like estrogen and organophosphates (29, 102)
 

@@ -1,12 +1,18 @@
 ---
-nid: 35065
 title: The Nitrogen Cycle Is Essential For Life On Earth
-path: public/static/notes/TheChessGym/10-13-2022/the-nitrogen-cycle-is-essential-for-life-on-earth.md
+tagnames: lat:22, first-time-poster, lon:76, zoom:6
+author: TheChessGym
+path: /notes/TheChessGym/10-13-2022/the-nitrogen-cycle-is-essential-for-life-on-earth.md
+nid: 35065
 uid: 788868
-tagnames: lat:22,first-time-poster,lon:76,zoom:6
+
 ---
 
 # The Nitrogen Cycle Is Essential For Life On Earth
+
+by [TheChessGym](../profile/TheChessGym) October 13, 2022 13:12
+
+October 13, 2022 13:12 | Tags: [lat:22](../tag/lat:22), [first-time-poster](../tag/first-time-poster), [lon:76](../tag/lon:76), [zoom:6](../tag/zoom:6)
 
 The Nitrogen Cycle Is Essential For Life On Earth
 

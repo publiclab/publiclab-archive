@@ -1,12 +1,18 @@
 ---
-nid: 2
 title: Gulf Coast
-path: public/static/wiki/gulf-coast.md
+tagnames: gulf-coast, list:plots-gulfcoast, events:gulf-coast, chapter, tabbed:notes, tabbed:wikis, region, location:blurred, lat:30, lon:-90, place:gulf-coast
+author: warren
+path: /wiki/gulf-coast.md
+nid: 2
 uid: 1
-tagnames: gulf-coast,list:plots-gulfcoast,events:gulf-coast,chapter,tabbed:notes,tabbed:wikis,region,location:blurred,lat:30,lon:-90,place:gulf-coast
+
 ---
 
 # Gulf Coast
+
+by [stevie](../profile/stevie), [warren](../profile/warren), [eustatic](../profile/eustatic), [Shannon](../profile/Shannon), [mathew](../profile/mathew), [danbeavers](../profile/danbeavers), [Becki](../profile/Becki), [gonzoearth](../profile/gonzoearth)
+
+December 02, 2010 15:09 | Tags: [gulf-coast](../tag/gulf-coast), [list:plots-gulfcoast](../tag/list:plots-gulfcoast), [events:gulf-coast](../tag/events:gulf-coast), [chapter](../tag/chapter), [tabbed:notes](../tag/tabbed:notes), [tabbed:wikis](../tag/tabbed:wikis), [region](../tag/region), [location:blurred](../tag/location:blurred), [lat:30](../tag/lat:30), [lon:-90](../tag/lon:-90), [place:gulf-coast](../tag/place:gulf-coast)
 
 ###Welcome to The Public Lab Gulf Coast Page
 

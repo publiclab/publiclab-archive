@@ -1,12 +1,18 @@
 ---
-nid: 179
 title: Infrared camera hacking at Parts and Crafts
-path: public/static/notes/warren/4-18-2011/infrared-camera-hacking-parts-and-crafts.md
+tagnames: near-infrared-camera, somerville-massachusetts, infrared, partsandcrafts, massachusetts, parts-and-crafts, keychain-cameras
+author: warren
+path: /notes/warren/4-18-2011/infrared-camera-hacking-parts-and-crafts.md
+nid: 179
 uid: 1
-tagnames: near-infrared-camera,somerville-massachusetts,infrared,partsandcrafts,massachusetts,parts-and-crafts,keychain-cameras
+
 ---
 
 # Infrared camera hacking at Parts and Crafts
+
+by [warren](../profile/warren) April 18, 2011 23:25
+
+April 18, 2011 23:25 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [somerville-massachusetts](../tag/somerville-massachusetts), [infrared](../tag/infrared), [partsandcrafts](../tag/partsandcrafts), [massachusetts](../tag/massachusetts), [parts-and-crafts](../tag/parts-and-crafts), [keychain-cameras](../tag/keychain-cameras)
 
 Today I spent a few hours hacking $10 Walgreens digital cameras with some young environmental scientists at [Parts and Crafts](http://partsandcrafts.org), a DIY-oriented "camp" in Somerville, Massachusetts. 
 

@@ -1,12 +1,18 @@
 ---
-nid: 11245
 title: Reflection on Sensor Journalism Module
-path: public/static/notes/amarini/10-06-2014/reflection-on-sensor-journalism-module.md
-uid: 428064
 tagnames: sensor-journalism
+author: amarini
+path: /notes/amarini/10-06-2014/reflection-on-sensor-journalism-module.md
+nid: 11245
+uid: 428064
+
 ---
 
 # Reflection on Sensor Journalism Module
+
+by [amarini](../profile/amarini) October 06, 2014 19:40
+
+October 06, 2014 19:40 | Tags: [sensor-journalism](../tag/sensor-journalism)
 
 Sensor journalism is an exciting, but challenging new frontier in the journalism field. Data collection with sensors performed by journalists shows promise as a new way for them to tell stories, but certainly has potential pitfalls. 
 

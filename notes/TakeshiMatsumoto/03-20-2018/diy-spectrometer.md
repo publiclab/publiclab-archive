@@ -1,12 +1,18 @@
 ---
-nid: 15985
 title: DIY-spectrometer
-path: public/static/notes/TakeshiMatsumoto/03-20-2018/diy-spectrometer.md
+tagnames: spectrometer, diy-bio, hardware, first-time-poster
+author: TakeshiMatsumoto
+path: /notes/TakeshiMatsumoto/03-20-2018/diy-spectrometer.md
+nid: 15985
 uid: 528173
-tagnames: spectrometer,diy-bio,hardware,first-time-poster
+
 ---
 
 # DIY-spectrometer
+
+by [TakeshiMatsumoto](../profile/TakeshiMatsumoto) March 20, 2018 22:26
+
+March 20, 2018 22:26 | Tags: [spectrometer](../tag/spectrometer), [diy-bio](../tag/diy-bio), [hardware](../tag/hardware), [first-time-poster](../tag/first-time-poster)
 
 _**Motivation**_： We are dealing with piezo crystal products.
 We are considering new analysis technique that combining piezo sensor 

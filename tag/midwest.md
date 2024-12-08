@@ -1,6 +1,6 @@
 # midwest
 
-45 notes and wiki pages
+45 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Humboldt Park mapping with Jen Hudon](/notes/warren/6-15-2011/humboldt-park-mapping-jen-hudon) by [warren](../profile/warren)
 - [Chicago](/wiki/chicago) (wiki)

@@ -1,6 +1,6 @@
 # mining
 
-61 notes and wiki pages
+61 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Balloon & Kite Mapping](/wiki/balloon-mapping) (wiki)
 - [Kite-Balloon Hybrid](/wiki/kite-balloon-hybrid) (wiki)
@@ -31,10 +31,8 @@
 - [Is gravel mining containing silica dangerous to the surrounding community?](/notes/annemolony413/02-17-2020/is-gravel-mining-containing-silica-dangerous-to-the-surrounding-community) by [annemolony413](../profile/annemolony413)
 - [A frac sand mine recently blasted 140 holes in a day. What might they be doing?](/notes/joyofsoy/04-23-2020/a-frac-sand-mine-recently-blasted-140-holes-in-a-day-what-might-they-be-doing) by [joyofsoy](../profile/joyofsoy)
 - [JAM#5: Nuestros suelos](/notes/imvec/04-30-2020/jam-5-nuestros-suelos) by [imvec](../profile/imvec)
-- [how to rank site un google](/notes/ajay974/05-10-2020/how-to-rank-site-un-google) by [ajay974](../profile/ajay974)
 - [Proposed Wolfden Mine at Pickett Mountain](/notes/Greenhorns/05-13-2021/proposed-wolfden-mine-at-pickett-mountain) by [Greenhorns](../profile/Greenhorns)
 - [Seeking maps of mining sites in Maine](/notes/liz/05-19-2021/seeking-maps-of-mining-sites-in-maine) by [liz](../profile/liz)
-- [Những nhà cái lô đề uy tín nhất](/notes/baotp123/05-26-2021/nh-ng-nha-cai-lo-d-uy-tin-nh-t) by [baotp123](../profile/baotp123)
 - [Water testing protocols for Sulfide Mining?](/notes/Greenhorns/06-02-2021/water-testing-protocols-for-sulfide-mining) by [Greenhorns](../profile/Greenhorns)
 - [Tips about seeking funding for water testing?](/notes/Greenhorns/06-02-2021/tips-about-seeking-funding-for-water-testing) by [Greenhorns](../profile/Greenhorns)
 - [Seeking Documentation Fellow for Fellowship Team](/notes/stevie/08-11-2021/seeking-documentation-fellow-for-fellowship-team) by [stevie](../profile/stevie)
@@ -61,5 +59,4 @@
 - [Seeking a Documentation Fellow](/notes/stevie/04-06-2022/seeking-a-documentation-fellow) by [stevie](../profile/stevie)
 - [Mine Reclamation: Research Area Review Summary](/notes/bhamster/04-12-2022/mine-reclamation-research-area-review-summary) by [bhamster](../profile/bhamster)
 - [Minnesota Land and Manoomin Protection Project](/wiki/minnesota-land-and-manoomin-protection-project) (wiki)
-- [crushers](/notes/msnehsani/08-15-2022/crushers) by [msnehsani](../profile/msnehsani)
 - [Sept 2022 Bioblitz Summary ](/notes/michelleiL/10-19-2022/sept-2022-bioblitz-summary) by [michelleiL](../profile/michelleiL)

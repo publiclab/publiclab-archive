@@ -1,12 +1,18 @@
 ---
-nid: 19255
 title: Map the quiet places near you using Hush City platform
-path: public/static/notes/Hush_City_Mobile_Lab/05-06-2019/map-the-quiet-places-near-you-using-hushcity-platform.md
+tagnames: urban, citizen-science, mapping, health, transportation, environment, apps, land-use, noise, method, sound, planning, mobile-apps, first-time-poster, soundscape, cities, quiet, activity:noise, activity:transportation
+author: Hush_City_Mobile_Lab
+path: /notes/Hush_City_Mobile_Lab/05-06-2019/map-the-quiet-places-near-you-using-hushcity-platform.md
+nid: 19255
 uid: 580774
-tagnames: urban,citizen-science,mapping,health,transportation,environment,apps,land-use,noise,method,sound,planning,mobile-apps,first-time-poster,soundscape,cities,quiet,activity:noise,activity:transportation
+
 ---
 
 # Map the quiet places near you using Hush City platform
+
+by [Hush_City_Mobile_Lab](../profile/Hush_City_Mobile_Lab) May 06, 2019 11:13
+
+May 06, 2019 11:13 | Tags: [urban](../tag/urban), [citizen-science](../tag/citizen-science), [mapping](../tag/mapping), [health](../tag/health), [transportation](../tag/transportation), [environment](../tag/environment), [apps](../tag/apps), [land-use](../tag/land-use), [noise](../tag/noise), [method](../tag/method), [sound](../tag/sound), [planning](../tag/planning), [mobile-apps](../tag/mobile-apps), [first-time-poster](../tag/first-time-poster), [soundscape](../tag/soundscape), [cities](../tag/cities), [quiet](../tag/quiet), [activity:noise](../tag/activity:noise), [activity:transportation](../tag/activity:transportation)
 
 With Hush City
 app, you are an active part of a soundscape and citizen science research

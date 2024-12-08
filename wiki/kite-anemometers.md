@@ -1,12 +1,18 @@
 ---
-nid: 13231
 title: Kite Anemometers
-path: public/static/wiki/kite-anemometers.md
+tagnames: wind-speed-meter, kite-anemometer, kite-wind-speed-meter
+author: ecta64
+path: /wiki/kite-anemometers.md
+nid: 13231
 uid: 421042
-tagnames: wind-speed-meter,kite-anemometer,kite-wind-speed-meter
+
 ---
 
 # Kite Anemometers
+
+by [ecta64](../profile/ecta64), [mathew](../profile/mathew), [warren](../profile/warren)
+
+June 22, 2016 21:51 | Tags: [wind-speed-meter](../tag/wind-speed-meter), [kite-anemometer](../tag/kite-anemometer), [kite-wind-speed-meter](../tag/kite-wind-speed-meter)
 
 Kite anemometry is the use of a kite as a sensor to measure the wind velocity, vector and turbulence. It is differentiated from other methods of kite meteorological data gathering in that information is obtained by observing the kite and the forces acting on it. This typically means that all substantial instrumentation is on the ground versus being flown on the kite as a payload.
 

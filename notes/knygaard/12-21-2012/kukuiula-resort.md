@@ -1,12 +1,18 @@
 ---
-nid: 5287
 title: Kukui'ula Resort
-path: public/static/notes/knygaard/12-21-2012/kukuiula-resort.md
-uid: 46987
 tagnames: 
+author: knygaard
+path: /notes/knygaard/12-21-2012/kukuiula-resort.md
+nid: 5287
+uid: 46987
+
 ---
 
 # Kukui'ula Resort
+
+by [knygaard](../profile/knygaard) December 21, 2012 22:12
+
+December 21, 2012 22:12 | Tags: 
 
 The Kukuiula Club  is a luxury community in Koloa, Kauai. Their relatively new development was looking for a map more accurate than recent Google data.  By sending them a weather balloon and kit, they took aerial photos from which we created our mapknitter map – a one of a kind map of their property.
 Because the site is so large, we had over 1000 photographs to work with. Using an automated lens correction tool on Adobe Photoshop, I converted fisheye photos to rectilinear. Once I had the corrected photos, I began selecting areas on Map Knitter to work on. I’ve never used Map Knitter before so I watched the tutorial which explained everything I needed to know about all the tools and how to use them.

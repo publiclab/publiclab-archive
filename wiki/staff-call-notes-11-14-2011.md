@@ -1,12 +1,18 @@
 ---
-nid: 570
 title: Staff call notes 11-14-2011
-path: public/static/wiki/staff-call-notes-11-14-2011.md
-uid: 1
 tagnames: 
+author: warren
+path: /wiki/staff-call-notes-11-14-2011.md
+nid: 570
+uid: 1
+
 ---
 
 # Staff call notes 11-14-2011
+
+by [warren](../profile/warren)
+
+November 18, 2011 20:05 | Tags: 
 
 Monday, November 14, 2011
 

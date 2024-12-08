@@ -1,12 +1,18 @@
 ---
-nid: 16663
 title: computer vision color detection
-path: public/static/notes/MaggPi/07-09-2018/computer-vision-color-detection.md
+tagnames: ndvi, raspberry-pi, color, computer-vision, opencv, gsoc-2018, response:15978, color-detection
+author: MaggPi
+path: /notes/MaggPi/07-09-2018/computer-vision-color-detection.md
+nid: 16663
 uid: 501996
-tagnames: ndvi,raspberry-pi,color,computer-vision,opencv,gsoc-2018,response:15978,color-detection
+
 ---
 
 # computer vision color detection
+
+by [MaggPi](../profile/MaggPi) July 09, 2018 03:28
+
+July 09, 2018 03:28 | Tags: [ndvi](../tag/ndvi), [raspberry-pi](../tag/raspberry-pi), [color](../tag/color), [computer-vision](../tag/computer-vision), [opencv](../tag/opencv), [gsoc-2018](../tag/gsoc-2018), [response:15978](../tag/response:15978), [color-detection](../tag/color-detection)
 
  
 Introduction: 

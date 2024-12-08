@@ -1,12 +1,18 @@
 ---
-nid: 528
 title: Video Spectrometer Construction
-path: public/static/wiki/video-spectrometer-construction.md
-uid: 1
 tagnames: spectrometer
+author: warren
+path: /wiki/video-spectrometer-construction.md
+nid: 528
+uid: 1
+
 ---
 
 # Video Spectrometer Construction
+
+by [warren](../profile/warren), [mathew](../profile/mathew), [Misterdeman](../profile/Misterdeman), [Shannon](../profile/Shannon)
+
+October 28, 2011 18:13 | Tags: [spectrometer](../tag/spectrometer)
 
 This page documents the construction of the [video spectrometer](/wiki/video-spectrometer), which **is no longer actively supported**. Please see one of the following newer designs:
 

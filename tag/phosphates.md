@@ -1,6 +1,6 @@
 # phosphates
 
-3 notes and wiki pages
+3 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Mississippi Phosphates: Better air for Alice](/notes/stevie/05-23-2014/mississippi-phosphates-better-air-for-alice) by [stevie](../profile/stevie)
 - [Spectrometer for analysing garden soil](/notes/Guillaume123/01-21-2015/spectrometer-for-analysing-garden-soil) by [Guillaume123](../profile/Guillaume123)

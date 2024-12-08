@@ -1,12 +1,18 @@
 ---
-nid: 30580
 title: Outreachy proposal: Infragram Redesign
-path: public/static/notes/anushkachauhan/04-22-2022/outreachy-proposal-infragram-redesign.md
+tagnames: software, outreachy, first-time-poster, zoom:6, outreachy-2022, outreachy-summer-2022, lat:21.145992, lon:79.079589
+author: anushkachauhan
+path: /notes/anushkachauhan/04-22-2022/outreachy-proposal-infragram-redesign.md
+nid: 30580
 uid: 796158
-tagnames: software,outreachy,first-time-poster,zoom:6,outreachy-2022,outreachy-summer-2022,lat:21.145992,lon:79.079589
+
 ---
 
 # Outreachy proposal: Infragram Redesign
+
+by [anushkachauhan](../profile/anushkachauhan) April 22, 2022 15:57
+
+April 22, 2022 15:57 | Tags: [software](../tag/software), [outreachy](../tag/outreachy), [first-time-poster](../tag/first-time-poster), [zoom:6](../tag/zoom:6), [outreachy-2022](../tag/outreachy-2022), [outreachy-summer-2022](../tag/outreachy-summer-2022), [lat:21.145992](../tag/lat:21.145992), [lon:79.079589](../tag/lon:79.079589)
 
 ## About me
 

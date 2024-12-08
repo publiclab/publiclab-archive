@@ -1,12 +1,18 @@
 ---
-nid: 11692
 title: Indoor Air Quality Monitoring
-path: public/static/wiki/indoor-air-quality-monitoring.md
+tagnames: remediation, air-quality, housing, bioremediation, monitoring, list:plots-airquality, indoor, formaldehyde, wherewebreathe, open-air, indoor-air-quality, voc
+author: nshapiro
+path: /wiki/indoor-air-quality-monitoring.md
+nid: 11692
 uid: 380298
-tagnames: remediation,air-quality,housing,bioremediation,monitoring,list:plots-airquality,indoor,formaldehyde,wherewebreathe,open-air,indoor-air-quality,voc
+
 ---
 
 # Indoor Air Quality Monitoring
+
+by [liz](../profile/liz), [mathew](../profile/mathew), [nshapiro](../profile/nshapiro), [warren](../profile/warren), [Shannon](../profile/Shannon)
+
+March 19, 2015 20:56 | Tags: [remediation](../tag/remediation), [air-quality](../tag/air-quality), [housing](../tag/housing), [bioremediation](../tag/bioremediation), [monitoring](../tag/monitoring), [list:plots-airquality](../tag/list:plots-airquality), [indoor](../tag/indoor), [formaldehyde](../tag/formaldehyde), [wherewebreathe](../tag/wherewebreathe), [open-air](../tag/open-air), [indoor-air-quality](../tag/indoor-air-quality), [voc](../tag/voc)
 
 ##Where We Breathe 
 

@@ -1,6 +1,6 @@
 # barnraising-2016
 
-5 notes and wiki pages
+5 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Join DocCom -- the Barnraising documentation committee](/notes/warren/11-03-2016/join-doccom-the-barnraising-documentation-committee) by [warren](../profile/warren)
 - [Barnraising 2016 Photos](/notes/bronwen/11-10-2016/barnraising-2016-photos) by [Bronwen](../profile/Bronwen)

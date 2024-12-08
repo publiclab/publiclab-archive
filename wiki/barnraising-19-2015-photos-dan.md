@@ -1,12 +1,18 @@
 ---
-nid: 12437
 title: barnraising-19-2015-photos-dan
-path: public/static/wiki/barnraising-19-2015-photos-dan.md
+tagnames: barnraising, barnraising-2015
+author: danbeavers
+path: /wiki/barnraising-19-2015-photos-dan.md
+nid: 12437
 uid: 51
-tagnames: barnraising,barnraising-2015
+
 ---
 
 # barnraising-19-2015-photos-dan
+
+by [danbeavers](../profile/danbeavers)
+
+November 22, 2015 00:48 | Tags: [barnraising](../tag/barnraising), [barnraising-2015](../tag/barnraising-2015)
 
 These pictures of the "real" hot air balloon launch 2015.   
 Cindy Regalado was kind enough to share these with me.    

@@ -1,12 +1,18 @@
 ---
-nid: 10291
 title: Mobius Action Cam Infragram tests
-path: public/static/notes/warren/04-10-2014/mobius-action-cam-infragram-tests.md
+tagnames: near-infrared-camera, ndvi, infragram, infragram-sandbox, mobius-actioncam, response:9293, response:9302, response:9325, response:9296
+author: warren
+path: /notes/warren/04-10-2014/mobius-action-cam-infragram-tests.md
+nid: 10291
 uid: 1
-tagnames: near-infrared-camera,ndvi,infragram,infragram-sandbox,mobius-actioncam,response:9293,response:9302,response:9325,response:9296
+
 ---
 
 # Mobius Action Cam Infragram tests
+
+by [warren](../profile/warren) April 10, 2014 15:46
+
+April 10, 2014 15:46 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [infragram](../tag/infragram), [infragram-sandbox](../tag/infragram-sandbox), [mobius-actioncam](../tag/mobius-actioncam), [response:9293](../tag/response:9293), [response:9302](../tag/response:9302), [response:9325](../tag/response:9325), [response:9296](../tag/response:9296)
 
 ###What I want to do
 

@@ -1,12 +1,18 @@
 ---
-nid: 9963
 title: Software
-path: public/static/wiki/software.md
+tagnames: mapknitter, spectralworkbench, software, plots2, infragram, web, code, coding, parent:developers
+author: warren
+path: /wiki/software.md
+nid: 9963
 uid: 1
-tagnames: mapknitter,spectralworkbench,software,plots2,infragram,web,code,coding,parent:developers
+
 ---
 
 # Software
+
+by [liz](../profile/liz), [warren](../profile/warren)
+
+January 22, 2014 23:07 | Tags: [mapknitter](../tag/mapknitter), [spectralworkbench](../tag/spectralworkbench), [software](../tag/software), [plots2](../tag/plots2), [infragram](../tag/infragram), [web](../tag/web), [code](../tag/code), [coding](../tag/coding), [parent:developers](../tag/parent:developers)
 
 Public Lab has developed a number of open source software platforms to assist in the collection, analysis, storage, sharing, and conversion of data from our open source tools. The data storage and sharing websites MapKnitter.org, SpectralWorkbench.org, and Infragram.org provide long-term storage for locally produced data, and convert and present that data in open, standard formats which are easy to use for the press, "scientists", and other advocacy groups while providing community researchers with a forum to discuss, interpret, and compare their data. 
 

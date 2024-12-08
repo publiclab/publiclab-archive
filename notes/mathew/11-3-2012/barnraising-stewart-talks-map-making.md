@@ -1,12 +1,18 @@
 ---
-nid: 4760
 title: Barnraising: Stewart talks map making
-path: public/static/notes/mathew/11-3-2012/barnraising-stewart-talks-map-making.md
+tagnames: balloon-mapping, kite-mapping, mapknitter, photoshop, balloon-mapping-kit, barnraising2012
+author: mathew
+path: /notes/mathew/11-3-2012/barnraising-stewart-talks-map-making.md
+nid: 4760
 uid: 4
-tagnames: balloon-mapping,kite-mapping,mapknitter,photoshop,balloon-mapping-kit,barnraising2012
+
 ---
 
 # Barnraising: Stewart talks map making
+
+by [mathew](../profile/mathew) November 03, 2012 15:30
+
+November 03, 2012 15:30 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [mapknitter](../tag/mapknitter), [photoshop](../tag/photoshop), [balloon-mapping-kit](../tag/balloon-mapping-kit), [barnraising2012](../tag/barnraising2012)
 
 Stewart: Mapmaking tips
 ##What a Flight looks like##

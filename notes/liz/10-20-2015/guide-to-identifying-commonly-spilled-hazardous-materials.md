@@ -1,12 +1,18 @@
 ---
-nid: 12321
 title: guide to identifying commonly spilled hazardous materials
-path: public/static/notes/liz/10-20-2015/guide-to-identifying-commonly-spilled-hazardous-materials.md
+tagnames: material-identification, hazardous-materials
+author: liz
+path: /notes/liz/10-20-2015/guide-to-identifying-commonly-spilled-hazardous-materials.md
+nid: 12321
 uid: 7
-tagnames: material-identification,hazardous-materials
+
 ---
 
 # guide to identifying commonly spilled hazardous materials
+
+by [liz](../profile/liz) October 20, 2015 19:57
+
+October 20, 2015 19:57 | Tags: [material-identification](../tag/material-identification), [hazardous-materials](../tag/hazardous-materials)
 
 **"The HAZCAT Report: a system of field identifications and classifications of commonly spilled materials"**
 

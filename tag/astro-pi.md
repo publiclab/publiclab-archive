@@ -1,5 +1,5 @@
 # astro-pi
 
-1 notes and wiki pages
+1 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Hacked Infragram Raspberry Pi camera now on the International Space Station](/notes/warren/04-02-2018/hacked-infragram-raspberry-pi-camera-now-on-the-international-space-station) by [warren](../profile/warren)

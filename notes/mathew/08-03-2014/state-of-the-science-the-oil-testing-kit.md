@@ -1,12 +1,18 @@
 ---
-nid: 11010
 title: State of the Science: The Oil Testing Kit
-path: public/static/notes/mathew/08-03-2014/state-of-the-science-the-oil-testing-kit.md
+tagnames: spectrometer, video, oil-testing-kit, with:warren
+author: mathew
+path: /notes/mathew/08-03-2014/state-of-the-science-the-oil-testing-kit.md
+nid: 11010
 uid: 4
-tagnames: spectrometer,video,oil-testing-kit,with:warren
+
 ---
 
 # State of the Science: The Oil Testing Kit
+
+by [mathew](../profile/mathew) August 03, 2014 21:12
+
+August 03, 2014 21:12 | Tags: [spectrometer](../tag/spectrometer), [video](../tag/video), [oil-testing-kit](../tag/oil-testing-kit), [with:warren](../tag/with:warren)
 
 ###What we want to do
 I sat down with @warren to record a video presentation on the state of the [oil testing kit ](http://publiclab.org/wiki/oil-testing-kit) development. I would like to make videos like this about all the tools in development with Public Lab, contact me if you'd like to work on one.  

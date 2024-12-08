@@ -1,12 +1,18 @@
 ---
-nid: 79
 title: Mapping Curriculum: Regulatory Situation
-path: public/static/wiki/mapping-curriculum-regulatory.md
+tagnames: balloon-mapping, curriculum, regulations, parent:balloon-mapping
+author: warren
+path: /wiki/mapping-curriculum-regulatory.md
+nid: 79
 uid: 1
-tagnames: balloon-mapping,curriculum,regulations,parent:balloon-mapping
+
 ---
 
 # Mapping Curriculum: Regulatory Situation
+
+by [mathew](../profile/mathew), [gonzoearth](../profile/gonzoearth), [warren](../profile/warren)
+
+February 08, 2011 18:43 | Tags: [balloon-mapping](../tag/balloon-mapping), [curriculum](../tag/curriculum), [regulations](../tag/regulations), [parent:balloon-mapping](../tag/parent:balloon-mapping)
 
 *As part of the [Grassroots Mapping Curriculum](/wiki/mapping-curriculum) series.*
 

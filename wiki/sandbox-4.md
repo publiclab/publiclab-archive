@@ -1,12 +1,18 @@
 ---
-nid: 18257
 title: Sandbox 4
-path: public/static/wiki/sandbox-4.md
-uid: 1
 tagnames: stories-test
+author: warren
+path: /wiki/sandbox-4.md
+nid: 18257
+uid: 1
+
 ---
 
 # Sandbox 4
+
+by [warren](../profile/warren)
+
+February 04, 2019 23:24 | Tags: [stories-test](../tag/stories-test)
 
 <link rel="stylesheet" href="https://idurar.github.io/vanilla-js-modal/src/modal.css" />
 <script src="https://idurar.github.io/vanilla-js-modal/src/modal.js"></script>

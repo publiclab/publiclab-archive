@@ -1,6 +1,6 @@
 # presentation
 
-23 notes and wiki pages
+23 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Waag Society: Citizen Science presentation](/notes/warren/6-27-2012/waag-society-citizen-science-presentation) by [warren](../profile/warren)
 - [PLOTS at Ars Electronica "Accountability Tech" symposium](/notes/warren/9-1-2012/plots-ars-electronica-accountability-tech-symposium) by [warren](../profile/warren)

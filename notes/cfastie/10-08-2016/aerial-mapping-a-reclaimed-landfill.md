@@ -1,12 +1,18 @@
 ---
-nid: 13534
 title: Aerial mapping a reclaimed landfill
-path: public/static/notes/cfastie/10-08-2016/aerial-mapping-a-reclaimed-landfill.md
+tagnames: kite-mapping, vermont, kite-aerial-photography, landfill, kap, waste-management, waste, northeast, saturnv, skyshield, bristol-vt
+author: cfastie
+path: /notes/cfastie/10-08-2016/aerial-mapping-a-reclaimed-landfill.md
+nid: 13534
 uid: 554
-tagnames: kite-mapping,vermont,kite-aerial-photography,landfill,kap,waste-management,waste,northeast,saturnv,skyshield,bristol-vt
+
 ---
 
 # Aerial mapping a reclaimed landfill
+
+by [cfastie](../profile/cfastie) October 08, 2016 03:35
+
+October 08, 2016 03:35 | Tags: [kite-mapping](../tag/kite-mapping), [vermont](../tag/vermont), [kite-aerial-photography](../tag/kite-aerial-photography), [landfill](../tag/landfill), [kap](../tag/kap), [waste-management](../tag/waste-management), [waste](../tag/waste), [northeast](../tag/northeast), [saturnv](../tag/saturnv), [skyshield](../tag/skyshield), [bristol-vt](../tag/bristol-vt)
 
 *Above: A high point on the capped surface of the retired municipal landfill at Bristol, VT. At right is one of several methane vents which release the gas into the air. Vegetation appears to include the dried stalks of winter rye (*Secale cereale*), a fescue grass (*Festuca* sp.), and red clover (*Trifolium pratense*). A patch of yellow bristlegrass (Setaria pumila) is near the methane vent.*
 

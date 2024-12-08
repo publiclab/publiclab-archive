@@ -1,12 +1,18 @@
 ---
-nid: 20359
 title: Practice reporting suspected frac sand violations 
-path: public/static/notes/stevie/07-30-2019/practice-reporting-suspected-frac-sand-violations.md
+tagnames: air-quality, frac-sand, parent:frac-sand, activity:pm, activity:water-quality, frac-sand-reporting, sentinel, parent:the-sand-sentinel-program, activity:midwest, activity:sentinel, activity:frac-sand, activity:violations, activity:reporting, sand-sentinel, law-and-policy, activity:law-and-policy
+author: stevie
+path: /notes/stevie/07-30-2019/practice-reporting-suspected-frac-sand-violations.md
+nid: 20359
 uid: 422561
-tagnames: air-quality,frac-sand,parent:frac-sand,activity:pm,activity:water-quality,frac-sand-reporting,sentinel,parent:the-sand-sentinel-program,activity:midwest,activity:sentinel,activity:frac-sand,activity:violations,activity:reporting,sand-sentinel,law-and-policy,activity:law-and-policy
+
 ---
 
 # Practice reporting suspected frac sand violations 
+
+by [stevie](../profile/stevie) July 30, 2019 17:24
+
+July 30, 2019 17:24 | Tags: [air-quality](../tag/air-quality), [frac-sand](../tag/frac-sand), [parent:frac-sand](../tag/parent:frac-sand), [activity:pm](../tag/activity:pm), [activity:water-quality](../tag/activity:water-quality), [frac-sand-reporting](../tag/frac-sand-reporting), [sentinel](../tag/sentinel), [parent:the-sand-sentinel-program](../tag/parent:the-sand-sentinel-program), [activity:midwest](../tag/activity:midwest), [activity:sentinel](../tag/activity:sentinel), [activity:frac-sand](../tag/activity:frac-sand), [activity:violations](../tag/activity:violations), [activity:reporting](../tag/activity:reporting), [sand-sentinel](../tag/sand-sentinel), [law-and-policy](../tag/law-and-policy), [activity:law-and-policy](../tag/activity:law-and-policy)
 
 As part of the [Sand Sentinel program](https://publiclab.org/wiki/the-sand-sentinel-program), we're putting some materials together to use in an in-person training to help people learn about and practice filing suspected frac sand violations.
 

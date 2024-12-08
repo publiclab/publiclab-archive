@@ -1,12 +1,18 @@
 ---
-nid: 25102
 title: sandbox-air-polluting-gases-and-monitoring-methods
-path: public/static/wiki/sandbox-air-polluting-gases-and-monitoring-methods.md
-uid: 664477
 tagnames: 
+author: bhamster
+path: /wiki/sandbox-air-polluting-gases-and-monitoring-methods.md
+nid: 25102
+uid: 664477
+
 ---
 
 # sandbox-air-polluting-gases-and-monitoring-methods
+
+by [bhamster](../profile/bhamster)
+
+November 24, 2020 19:54 | Tags: 
 
 **What are some common outdoor air-polluting gases and what kinds of tools are available to detect and measure them?** On this page, we’re collecting information on gas-phase pollutants, approaches to investigate them, example tools, and pollutant-related posts from the Public Lab community. For a similar overview of particulate matter monitoring, [check out this page](https://publiclab.org/wiki/choosing-a-method-for-particulate-matter-monitoring). 
 

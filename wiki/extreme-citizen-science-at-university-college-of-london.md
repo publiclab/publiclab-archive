@@ -1,12 +1,18 @@
 ---
-nid: 11566
 title: Extreme Citizen Science at University College of London
-path: public/static/wiki/extreme-citizen-science-at-university-college-of-london.md
+tagnames: london, citizen-science, uk, excites, grassrootsmappingforum, with:shannon, style:fancy, eu, with:cindy_excites, gmf-3
+author: mollydanielsson
+path: /wiki/extreme-citizen-science-at-university-college-of-london.md
+nid: 11566
 uid: 1259
-tagnames: london,citizen-science,uk,excites,grassrootsmappingforum,with:shannon,style:fancy,eu,with:cindy_excites,gmf-3
+
 ---
 
 # Extreme Citizen Science at University College of London
+
+by [mollydanielsson](../profile/mollydanielsson)
+
+February 08, 2015 01:34 | Tags: [london](../tag/london), [citizen-science](../tag/citizen-science), [uk](../tag/uk), [excites](../tag/excites), [grassrootsmappingforum](../tag/grassrootsmappingforum), [with:shannon](../tag/with:shannon), [style:fancy](../tag/style:fancy), [eu](../tag/eu), [with:cindy_excites](../tag/with:cindy_excites), [gmf-3](../tag/gmf-3)
 
 **Published in Winter 2012/2013** [Grassroots Mapping Forum#3.](http://publiclab.org/forum)
 [Order online.](http://store.publiclab.org/products/grassroots-mapping-forum-issue-3)

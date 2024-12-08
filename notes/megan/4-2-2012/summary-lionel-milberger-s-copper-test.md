@@ -1,12 +1,18 @@
 ---
-nid: 1613
 title: Summary of Lionel Milberger’s Copper Test
-path: public/static/notes/megan/4-2-2012/summary-lionel-milberger-s-copper-test.md
+tagnames: hydrogen-sulfide-sensing, hydrogen-sulfide, h2s-copper-pipe, h2s-copper-pipe-background
+author: megan
+path: /notes/megan/4-2-2012/summary-lionel-milberger-s-copper-test.md
+nid: 1613
 uid: 775
-tagnames: hydrogen-sulfide-sensing,hydrogen-sulfide,h2s-copper-pipe,h2s-copper-pipe-background
+
 ---
 
 # Summary of Lionel Milberger’s Copper Test
+
+by [megan](../profile/megan) April 03, 2012 02:24
+
+April 03, 2012 02:24 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s-copper-pipe](../tag/h2s-copper-pipe), [h2s-copper-pipe-background](../tag/h2s-copper-pipe-background)
 
 <strong>Focus of test is on residential ambient air from a fraction of a ppm to <100ppm</strong>
 

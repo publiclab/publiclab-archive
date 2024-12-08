@@ -1,12 +1,18 @@
 ---
-nid: 11586
 title: Eymund Diegel finds the fun in Super Fund
-path: public/static/wiki/eymund-diegel-finds-the-fun-in-super-fund.md
+tagnames: new-york-city, gowanus, gowanus-canal, gowanus-canal-superfund-site, grassrootsmappingforum, glam, northeast, with:shannon, style:fancy, with:eymund, gmf-4
+author: mollydanielsson
+path: /wiki/eymund-diegel-finds-the-fun-in-super-fund.md
+nid: 11586
 uid: 1259
-tagnames: new-york-city,gowanus,gowanus-canal,gowanus-canal-superfund-site,grassrootsmappingforum,glam,northeast,with:shannon,style:fancy,with:eymund,gmf-4
+
 ---
 
 # Eymund Diegel finds the fun in Super Fund
+
+by [mollydanielsson](../profile/mollydanielsson)
+
+February 14, 2015 01:49 | Tags: [new-york-city](../tag/new-york-city), [gowanus](../tag/gowanus), [gowanus-canal](../tag/gowanus-canal), [gowanus-canal-superfund-site](../tag/gowanus-canal-superfund-site), [grassrootsmappingforum](../tag/grassrootsmappingforum), [glam](../tag/glam), [northeast](../tag/northeast), [with:shannon](../tag/with:shannon), [style:fancy](../tag/style:fancy), [with:eymund](../tag/with:eymund), [gmf-4](../tag/gmf-4)
 
 **Published in 2013** [Grassroots Mapping Forum#4.](http://publiclab.org/forum)
 

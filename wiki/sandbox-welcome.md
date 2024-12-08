@@ -1,12 +1,18 @@
 ---
-nid: 20896
 title: sandbox-welcome
-path: public/static/wiki/sandbox-welcome.md
-uid: 540844
 tagnames: 
+author: joyofsoy
+path: /wiki/sandbox-welcome.md
+nid: 20896
+uid: 540844
+
 ---
 
 # sandbox-welcome
+
+by [bhamster](../profile/bhamster), [alejobonifacio](../profile/alejobonifacio), [liz](../profile/liz), [xose](../profile/xose), [stevie](../profile/stevie), [joyofsoy](../profile/joyofsoy)
+
+September 17, 2019 16:57 | Tags: 
 
 We're so happy to meet you! 👋🎉🎈 This page is to help newcomers get started with the Public Lab community.
 

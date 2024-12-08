@@ -1,12 +1,18 @@
 ---
-nid: 12014
 title: Oil Testing Kit Construction
-path: public/static/wiki/oil-testing-kit-construction.md
+tagnames: spectrometer, oil-testing-kit, parent:oil-testing-kit, beta
+author: warren
+path: /wiki/oil-testing-kit-construction.md
+nid: 12014
 uid: 1
-tagnames: spectrometer,oil-testing-kit,parent:oil-testing-kit,beta
+
 ---
 
 # Oil Testing Kit Construction
+
+by [warren](../profile/warren)
+
+June 26, 2015 18:39 | Tags: [spectrometer](../tag/spectrometer), [oil-testing-kit](../tag/oil-testing-kit), [parent:oil-testing-kit](../tag/parent:oil-testing-kit), [beta](../tag/beta)
 
 The Public Lab Oil Testing Kit is an attachment to Public Lab's v3.0 Desktop Spectrometer which holds a sample container and a laser. 
 

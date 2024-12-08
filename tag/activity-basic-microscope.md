@@ -1,6 +1,6 @@
 # activity-basic-microscope
 
-14 notes and wiki pages
+14 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Overview: Hackteria Remix: Building a Basic Microscope with Raspberry Pi](/notes/partsandcrafts/11-26-2017/building-a-raspberry-pi-microscope) by [partsandcrafts](../profile/partsandcrafts)
 - [Quick Build:  Basic Microscope Kit with Raspberry Pi](/notes/partsandcrafts/12-02-2017/quick-build-raspberry-pi-microscope) by [partsandcrafts](../profile/partsandcrafts)

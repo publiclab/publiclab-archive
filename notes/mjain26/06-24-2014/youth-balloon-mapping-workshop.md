@@ -1,12 +1,18 @@
 ---
-nid: 10612
 title: Youth Balloon Mapping Workshop
-path: public/static/notes/mjain26/06-24-2014/youth-balloon-mapping-workshop.md
+tagnames: balloon-mapping, education, curriculum, chicago, midwest, civiclab, civic-lab, first-time-poster
+author: mjain26
+path: /notes/mjain26/06-24-2014/youth-balloon-mapping-workshop.md
+nid: 10612
 uid: 424870
-tagnames: balloon-mapping,education,curriculum,chicago,midwest,civiclab,civic-lab,first-time-poster
+
 ---
 
 # Youth Balloon Mapping Workshop
+
+by [mjain26](../profile/mjain26) June 24, 2014 21:39
+
+June 24, 2014 21:39 | Tags: [balloon-mapping](../tag/balloon-mapping), [education](../tag/education), [curriculum](../tag/curriculum), [chicago](../tag/chicago), [midwest](../tag/midwest), [civiclab](../tag/civiclab), [civic-lab](../tag/civic-lab), [first-time-poster](../tag/first-time-poster)
 
 ###What I want to do
 My name is Meghan Jain. I am working with the Civic Lab in Chicago. I want to create a workshop for youth in Chicago on Balloon Mapping. 

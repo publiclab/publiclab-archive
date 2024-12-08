@@ -1,12 +1,18 @@
 ---
-nid: 13023
 title: New moderation system for first-time posters
-path: public/static/notes/tester/04-23-2016/new-moderation-system-for-first-time-posters.md
+tagnames: community, website, organizers, spam, barnstar:basic, with:warren, moderation, newcomers, location:blurred, lat:-80, lon:630, first-contribution
+author: tester
+path: /notes/tester/04-23-2016/new-moderation-system-for-first-time-posters.md
+nid: 13023
 uid: 60662
-tagnames: community,website,organizers,spam,barnstar:basic,with:warren,moderation,newcomers,location:blurred,lat:-80,lon:630,first-contribution
+
 ---
 
 # New moderation system for first-time posters
+
+by [tester](../profile/tester) April 23, 2016 20:25
+
+April 23, 2016 20:25 | Tags: [community](../tag/community), [website](../tag/website), [organizers](../tag/organizers), [spam](../tag/spam), [barnstar:basic](../tag/barnstar:basic), [with:warren](../tag/with:warren), [moderation](../tag/moderation), [newcomers](../tag/newcomers), [location:blurred](../tag/location:blurred), [lat:-80](../tag/lat:-80), [lon:630](../tag/lon:630), [first-contribution](../tag/first-contribution)
 
 We've just launched a new moderation system, so that **each first-time posters' initial research note is now held for moderation** by [our new community moderators group](/wiki/moderators). This very post (actually written by @warren) will have to pass through the new system in order to be shown [on the dashboard](/dashboard) or [the main research note feed](/research). 
 

@@ -1,12 +1,18 @@
 ---
-nid: 14952
 title: Hydrogen Sulfide Effects
-path: public/static/wiki/hydrogen-sulfide-effects.md
+tagnames: hydrogen-sulfide, h2s, parent:hydrogen-sulfide, h2s-overview
+author: warren
+path: /wiki/hydrogen-sulfide-effects.md
+nid: 14952
 uid: 1
-tagnames: hydrogen-sulfide,h2s,parent:hydrogen-sulfide,h2s-overview
+
 ---
 
 # Hydrogen Sulfide Effects
+
+by [warren](../profile/warren), [gretchengehrke](../profile/gretchengehrke)
+
+September 25, 2017 19:40 | Tags: [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s), [parent:hydrogen-sulfide](../tag/parent:hydrogen-sulfide), [h2s-overview](../tag/h2s-overview)
 
 This page summarizes the health effects of hydrogen sulfide.
 

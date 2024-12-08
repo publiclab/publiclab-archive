@@ -1,6 +1,6 @@
 # flame
 
-8 notes and wiki pages
+8 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Spectrometry UROP 4/20/11 update](/notes/alex-mccarthy/4-20-2011/spectrometry-urop-42011-update) by [Alex-McCarthy](../profile/Alex-McCarthy)
 - [Classroom Flame Spectroscopy](/notes/straylight/10-14-2012/classroom-flame-spectroscopy) by [straylight](../profile/straylight)

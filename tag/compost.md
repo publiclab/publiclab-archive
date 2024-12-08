@@ -1,6 +1,6 @@
 # compost
 
-5 notes and wiki pages
+5 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Remote temperature sensing](/notes/cfastie/9-14-2012/remote-temperature-sensing) by [cfastie](../profile/cfastie)
 - [Compost is hot, says Riffle](/notes/cfastie/06-09-2016/compost-is-hot-says-riffle) by [cfastie](../profile/cfastie)

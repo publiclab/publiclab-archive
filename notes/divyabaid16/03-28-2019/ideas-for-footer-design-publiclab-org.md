@@ -1,12 +1,18 @@
 ---
-nid: 18883
 title: Ideas for Footer Design - PublicLab.org
-path: public/static/notes/divyabaid16/03-28-2019/ideas-for-footer-design-publiclab-org.md
+tagnames: design, ui, ideas
+author: divyabaid16
+path: /notes/divyabaid16/03-28-2019/ideas-for-footer-design-publiclab-org.md
+nid: 18883
 uid: 578652
-tagnames: design,ui,ideas
+
 ---
 
 # Ideas for Footer Design - PublicLab.org
+
+by [divyabaid16](../profile/divyabaid16) March 28, 2019 11:26
+
+March 28, 2019 11:26 | Tags: [design](../tag/design), [ui](../tag/ui), [ideas](../tag/ideas)
 
 I have just designed a basic structure of footer that incorporates everything as in the present footer.
 

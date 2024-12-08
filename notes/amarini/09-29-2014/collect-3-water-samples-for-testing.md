@@ -1,12 +1,18 @@
 ---
-nid: 11205
 title: Collect 3 Water Samples for Testing 
-path: public/static/notes/amarini/09-29-2014/collect-3-water-samples-for-testing.md
+tagnames: conductivity, open-water, coqui, first-time-poster
+author: amarini
+path: /notes/amarini/09-29-2014/collect-3-water-samples-for-testing.md
+nid: 11205
 uid: 428064
-tagnames: conductivity,open-water,coqui,first-time-poster
+
 ---
 
 # Collect 3 Water Samples for Testing 
+
+by [amarini](../profile/amarini) September 29, 2014 17:58
+
+September 29, 2014 17:58 | Tags: [conductivity](../tag/conductivity), [open-water](../tag/open-water), [coqui](../tag/coqui), [first-time-poster](../tag/first-time-poster)
 
 Samples collected by Ariana Marini & Madeline Bilis<br>
 JR-368 Emerson College Data Visualization<br><br>

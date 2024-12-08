@@ -1,6 +1,6 @@
 # classroom
 
-29 notes and wiki pages
+29 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [CEDRO Grassroots Mapping Curriculum (es)](/wiki/es/cedro-grassroots-mapping-curriculum-es) (wiki)
 - [Grassroots Mapping youth curriculum](/wiki/grassroots-mapping-youth-curriculum) (wiki)
@@ -27,7 +27,6 @@
 - [Water sampling workshop with a "Mega-Coqui" kit with One Cranston](/notes/warren/03-25-2019/water-sampling-workshop-with-a-mega-coqui-kit-with-one-cranston) by [warren](../profile/warren)
 - [Child-led R&D of camera rigs for mapping](/notes/molangmuir10/06-20-2019/designing-alternative-rigs-for-mapping) by [molangmuir10](../profile/molangmuir10)
 - [How could we design a group activity around siting air sensors?](/notes/warren/06-24-2019/how-could-we-design-a-group-activity-around-siting-air-sensors) by [warren](../profile/warren)
-- [Online Classes for Kids | Online courses for Kids | Free Trial](/notes/switcheddubai/04-12-2021/online-classes-for-kids-online-courses-for-kids-free-trial) by [switcheddubai](../profile/switcheddubai)
 - [Community Science in the Classroom](/notes/mimiss/04-16-2021/community-science-in-the-classroom) by [mimiss](../profile/mimiss)
 - [Join us for Public Lab 101!](/notes/mimiss/05-17-2021/join-us-for-public-lab-101) by [mimiss](../profile/mimiss)
 - [How to measure the pH of a solution with a purple cabbage? Its relation to water quality](/notes/alejobonifacio/12-20-2021/how-to-measure-the-ph-of-a-solution-with-a-purple-cabbage-its-relation-to-water-quality) by [alejobonifacio](../profile/alejobonifacio)

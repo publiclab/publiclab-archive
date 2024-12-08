@@ -1,12 +1,18 @@
 ---
-nid: 16208
 title: How to Make a Simple Air Purifier #airquality #air #DIY #citizenscience
-path: public/static/wiki/how-to-make-a-simple-air-purifier-airquality-air-diy-citizenscience.md
-uid: 423961
 tagnames: 
+author: zengirl2
+path: /wiki/how-to-make-a-simple-air-purifier-airquality-air-diy-citizenscience.md
+nid: 16208
+uid: 423961
+
 ---
 
 # How to Make a Simple Air Purifier #airquality #air #DIY #citizenscience
+
+by [zengirl2](../profile/zengirl2)
+
+April 24, 2018 23:22 | Tags: 
 
 Many people suffer from air quality issues inside their homes, whether it be from dust, materials used in construction, furniture, pets or secondhand smoke. The polluted air may be entering from outside, like pollen or factory farms producing dust and toxic gases. 
 

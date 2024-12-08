@@ -1,6 +1,6 @@
 # question-nano-data-logger
 
-3 notes and wiki pages
+3 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [What are the differences between the Nano Data Logger and the Riffle?](/notes/warren/06-12-2017/what-are-the-differences-between-the-nano-data-logger-and-the-riffle) by [warren](../profile/warren)
 - [What's the battery life of the Nano Data Logger?](/notes/warren/06-12-2017/what-s-the-battery-life-of-the-nano-data-logger) by [warren](../profile/warren)

@@ -1,12 +1,18 @@
 ---
-nid: 78
 title: Mapping Curriculum Activity Lens Calculation
-path: public/static/wiki/mapping-curriculum-activity-lens-calculation.md
+tagnames: balloon-mapping, curriculum, lens
+author: warren
+path: /wiki/mapping-curriculum-activity-lens-calculation.md
+nid: 78
 uid: 1
-tagnames: balloon-mapping,curriculum,lens
+
 ---
 
 # Mapping Curriculum Activity Lens Calculation
+
+by [warren](../profile/warren)
+
+February 08, 2011 18:27 | Tags: [balloon-mapping](../tag/balloon-mapping), [curriculum](../tag/curriculum), [lens](../tag/lens)
 
 ##Activity: basic lens calculation technique##
 

@@ -1,12 +1,18 @@
 ---
-nid: 10376
 title: A Wratten 25A replacement from Rosco?
-path: public/static/notes/mathew/04-29-2014/a-wratten-25a-replacement-from-rosco.md
+tagnames: ndvi, infrared, infragram, rosco, mobius, red, wratten
+author: mathew
+path: /notes/mathew/04-29-2014/a-wratten-25a-replacement-from-rosco.md
+nid: 10376
 uid: 4
-tagnames: ndvi,infrared,infragram,rosco,mobius,red,wratten
+
 ---
 
 # A Wratten 25A replacement from Rosco?
+
+by [mathew](../profile/mathew) April 29, 2014 00:59
+
+April 29, 2014 00:59 | Tags: [ndvi](../tag/ndvi), [infrared](../tag/infrared), [infragram](../tag/infragram), [rosco](../tag/rosco), [mobius](../tag/mobius), [red](../tag/red), [wratten](../tag/wratten)
 
 ###What I want to do
 Find a cheap polycarbonate or polyester film filter made by [Rosco](http://www.rosco.com/filters/roscolux.cfm) that can replace the more expensive and less durable [Kodak Wratten 25A gelatin filter](http://motion.kodak.com/motion/Products/Lab_And_Post_Production/Kodak_filters/wrattten2.htm)

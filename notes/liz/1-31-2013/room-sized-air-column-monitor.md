@@ -1,12 +1,18 @@
 ---
-nid: 5833
 title: Room-sized "air column monitor"
-path: public/static/notes/liz/1-31-2013/room-sized-air-column-monitor.md
-uid: 7
 tagnames: air-column-monitor
+author: liz
+path: /notes/liz/1-31-2013/room-sized-air-column-monitor.md
+nid: 5833
+uid: 7
+
 ---
 
 # Room-sized "air column monitor"
+
+by [liz](../profile/liz) January 31, 2013 23:23
+
+January 31, 2013 23:23 | Tags: [air-column-monitor](../tag/air-column-monitor)
 
 <a href="http://www.photolib.noaa.gov/htmls/wea01433.htm"</a>
 

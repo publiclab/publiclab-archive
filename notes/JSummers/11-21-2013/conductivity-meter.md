@@ -1,12 +1,18 @@
 ---
-nid: 9813
 title: Conductivity meter
-path: public/static/notes/JSummers/11-21-2013/conductivity-meter.md
+tagnames: wcu, launchpad, conductivity, activity:conductivity
+author: JSummers
+path: /notes/JSummers/11-21-2013/conductivity-meter.md
+nid: 9813
 uid: 304279
-tagnames: wcu,launchpad,conductivity,activity:conductivity
+
 ---
 
 # Conductivity meter
+
+by [JSummers](../profile/JSummers) November 21, 2013 22:28
+
+November 21, 2013 22:28 | Tags: [wcu](../tag/wcu), [launchpad](../tag/launchpad), [conductivity](../tag/conductivity), [activity:conductivity](../tag/activity:conductivity)
 
 ###What I want to do
 The plan here was to come up with something that would log water levels as the storm surge from a hurricane passes over a barrier island.  The project was begun as a collaboration with the center for the study of developed shorelines here at WCU.   

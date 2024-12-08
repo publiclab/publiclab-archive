@@ -1,12 +1,18 @@
 ---
-nid: 20916
 title: Tallow Rapid Assessment for Green Infrastructure
-path: public/static/notes/eustatic/09-18-2019/tallow-rapid-assessment-for-green-infrastructure.md
+tagnames: gulf-coast, open-source, forest, invasive, tallow, climate, location:blurred, place:united-states, lat:30, lon:-84, reforestation, zoom:6
+author: eustatic
+path: /09-18-2019/tallow-rapid-assessment-for-green-infrastructure.md
+nid: 20916
 uid: 379
-tagnames: gulf-coast,open-source,forest,invasive,tallow,climate,location:blurred,place:united-states,lat:30,lon:-84,reforestation,zoom:6
+
 ---
 
 # Tallow Rapid Assessment for Green Infrastructure
+
+by [eustatic](../profile/eustatic) September 18, 2019 19:00
+
+September 18, 2019 19:00 | Tags: [gulf-coast](../tag/gulf-coast), [open-source](../tag/open-source), [forest](../tag/forest), [invasive](../tag/invasive), [tallow](../tag/tallow), [climate](../tag/climate), [location:blurred](../tag/location:blurred), [place:united-states](../tag/place:united-states), [lat:30](../tag/lat:30), [lon:-84](../tag/lon:-84), [reforestation](../tag/reforestation), [zoom:6](../tag/zoom:6)
 
 ## Intro
 

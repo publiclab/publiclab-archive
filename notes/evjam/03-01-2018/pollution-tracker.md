@@ -1,12 +1,18 @@
 ---
-nid: 15845
 title: RGSoC proposal : Pollution tracker
-path: public/static/notes/evjam/03-01-2018/pollution-tracker.md
+tagnames: safety, health, improvements, pollution, environment, communityengagement, airpollution, soc, personal-information, public-awareness, soc-2018, user-experience, rgsoc-2018, soc-2018-proposals
+author: evjam
+path: /notes/evjam/03-01-2018/pollution-tracker.md
+nid: 15845
 uid: 526436
-tagnames: safety,health,improvements,pollution,environment,communityengagement,airpollution,soc,personal-information,public-awareness,soc-2018,user-experience,rgsoc-2018,soc-2018-proposals
+
 ---
 
 # RGSoC proposal : Pollution tracker
+
+by [evjam](../profile/evjam) March 01, 2018 11:14
+
+March 01, 2018 11:14 | Tags: [safety](../tag/safety), [health](../tag/health), [improvements](../tag/improvements), [pollution](../tag/pollution), [environment](../tag/environment), [communityengagement](../tag/communityengagement), [airpollution](../tag/airpollution), [soc](../tag/soc), [personal-information](../tag/personal-information), [public-awareness](../tag/public-awareness), [soc-2018](../tag/soc-2018), [user-experience](../tag/user-experience), [rgsoc-2018](../tag/rgsoc-2018), [soc-2018-proposals](../tag/soc-2018-proposals)
 
 ## About me
 

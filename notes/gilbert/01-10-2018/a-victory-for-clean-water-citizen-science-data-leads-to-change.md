@@ -1,12 +1,18 @@
 ---
-nid: 15503
 title: A Victory for Clean Water: Citizen Science Data Leads to Change by Andy Hrycyna
-path: public/static/notes/gilbert/01-10-2018/a-victory-for-clean-water-citizen-science-data-leads-to-change.md
+tagnames: citizen-science, water-quality, blog, alewife-brook, mystic-river-watershed-association
+author: gilbert
+path: /notes/gilbert/01-10-2018/a-victory-for-clean-water-citizen-science-data-leads-to-change.md
+nid: 15503
 uid: 508551
-tagnames: citizen-science,water-quality,blog,alewife-brook,mystic-river-watershed-association
+
 ---
 
 # A Victory for Clean Water: Citizen Science Data Leads to Change by Andy Hrycyna
+
+by [gilbert](../profile/gilbert) January 10, 2018 17:10
+
+January 10, 2018 17:10 | Tags: [citizen-science](../tag/citizen-science), [water-quality](../tag/water-quality), [blog](../tag/blog), [alewife-brook](../tag/alewife-brook), [mystic-river-watershed-association](../tag/mystic-river-watershed-association)
 
 A
 Victory for Clean Water: Citizen Science Data Leads to Change

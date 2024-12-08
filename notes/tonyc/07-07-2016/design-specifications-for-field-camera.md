@@ -1,12 +1,18 @@
 ---
-nid: 13266
 title: Design Specifications for Field Camera
-path: public/static/notes/tonyc/07-07-2016/design-specifications-for-field-camera.md
+tagnames: design, turbidity, mobius, trapcam, specs
+author: tonyc
+path: /notes/tonyc/07-07-2016/design-specifications-for-field-camera.md
+nid: 13266
 uid: 447491
-tagnames: design,turbidity,mobius,trapcam,specs
+
 ---
 
 # Design Specifications for Field Camera
+
+by [tonyc](../profile/tonyc) July 07, 2016 19:01
+
+July 07, 2016 19:01 | Tags: [design](../tag/design), [turbidity](../tag/turbidity), [mobius](../tag/mobius), [trapcam](../tag/trapcam), [specs](../tag/specs)
 
 ###What I want to do
 Establish a set of design specs for a field-deployable time lapse camera, based on real-life use-cases.

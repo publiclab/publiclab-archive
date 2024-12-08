@@ -1,12 +1,18 @@
 ---
-nid: 11550
 title: New Orleans February Water Quality Meet-up
-path: public/static/notes/stevie/02-02-2015/new-orleans-feburary-water-quality-meet-up.md
+tagnames: gulf-coast, event, water-quality, event:rsvp, urbanwater, coqui, date:02-26-2015
+author: stevie
+path: /notes/stevie/02-02-2015/new-orleans-feburary-water-quality-meet-up.md
+nid: 11550
 uid: 422561
-tagnames: gulf-coast,event,water-quality,event:rsvp,urbanwater,coqui,date:02-26-2015
+
 ---
 
 # New Orleans February Water Quality Meet-up
+
+by [stevie](../profile/stevie) February 02, 2015 23:09
+
+February 02, 2015 23:09 | Tags: [gulf-coast](../tag/gulf-coast), [event](../tag/event), [water-quality](../tag/water-quality), [event:rsvp](../tag/event:rsvp), [urbanwater](../tag/urbanwater), [coqui](../tag/coqui), [date:02-26-2015](../tag/date:02-26-2015)
 
 ####Join us for the next in our water quality meet-up series! 
 **February 26th from 5:30-7:30 at Propeller (4035 Washington Ave.)**

@@ -1,12 +1,18 @@
 ---
-nid: 30139
 title: Mine Reclamation
-path: public/static/wiki/mine-reclamation.md
+tagnames: mining, reclamation, mine-reclamation
+author: laurel_mire
+path: /wiki/mine-reclamation.md
+nid: 30139
 uid: 759178
-tagnames: mining,reclamation,mine-reclamation
+
 ---
 
 # Mine Reclamation
+
+by [laurel_mire](../profile/laurel_mire), [bhamster](../profile/bhamster)
+
+March 17, 2022 19:30 | Tags: [mining](../tag/mining), [reclamation](../tag/reclamation), [mine-reclamation](../tag/mine-reclamation)
 
 At its core, reclamation is an effort to restore harm done to a mined land’s soil health and prepare the land for another use after mining activities cease. Reclamation is ideally a two-part process undertaken from the moment mining activity begins: first minimizing negative environmental effects during mining and, at its conclusion, restoring land to a beneficial end use, such as open land, wildlife habitat, agriculture, residential/commercial use, etc. From a technical perspective, reclamation activities likely include efforts to “clean-up” the damaged landscape such as acid rock drainage management, efforts to control erosion and sedimentation, construction of tailings covers, revegetation, soil decontamination and topsoil replacement, and water treatment. While these technical aspects are needed, there is some research suggesting a more holistic, inclusive approach which aims to reframe reclamation as an “ongoing, creative process of community healing” ([Rethinking remediation](https://research.library.mun.ca/13771/1/Rethinking%20remediation_LocalEnvironment_Accepted.pdf)). See the [“Holistic Remediation”](https://publiclab.org/wiki/mine-reclamation#Holistic+Remediation") section of this wiki for more information and resources.
 

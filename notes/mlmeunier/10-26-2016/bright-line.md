@@ -1,12 +1,18 @@
 ---
-nid: 13648
 title: Bright line 
-path: public/static/notes/mlmeunier/10-26-2016/bright-line.md
-uid: 495697
 tagnames: 
+author: mlmeunier
+path: /notes/mlmeunier/10-26-2016/bright-line.md
+nid: 13648
+uid: 495697
+
 ---
 
 # Bright line 
+
+by [mlmeunier](../profile/mlmeunier) October 26, 2016 14:18
+
+October 26, 2016 14:18 | Tags: 
 
 ###What I want to do
 

@@ -1,12 +1,18 @@
 ---
-nid: 30436
 title: GSoC'22 proposal: Refine User Interfaces across PublicLab.org
-path: public/static/notes/karishmagvanwari/04-16-2022/gsoc-22-proposal-refine-user-interfaces-across-publiclab-org.md
+tagnames: software, gsoc, soc, first-time-poster, gsoc-2022, gsoc-2022-proposals
+author: karishmagvanwari
+path: /notes/karishmagvanwari/04-16-2022/gsoc-22-proposal-refine-user-interfaces-across-publiclab-org.md
+nid: 30436
 uid: 779523
-tagnames: software,gsoc,soc,first-time-poster,gsoc-2022,gsoc-2022-proposals
+
 ---
 
 # GSoC'22 proposal: Refine User Interfaces across PublicLab.org
+
+by [karishmagvanwari](../profile/karishmagvanwari) April 16, 2022 11:24
+
+April 16, 2022 11:24 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [soc](../tag/soc), [first-time-poster](../tag/first-time-poster), [gsoc-2022](../tag/gsoc-2022), [gsoc-2022-proposals](../tag/gsoc-2022-proposals)
 
 ## About me
 

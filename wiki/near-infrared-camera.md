@@ -1,12 +1,18 @@
 ---
-nid: 59
 title: Near-Infrared Camera
-path: public/static/wiki/near-infrared-camera.md
+tagnames: near-infrared-camera, infragram, list:plots-infrared, tabbed:notes, tabbed:wikis, n
+author: warren
+path: /wiki/near-infrared-camera.md
+nid: 59
 uid: 1
-tagnames: near-infrared-camera,infragram,list:plots-infrared,tabbed:notes,tabbed:wikis,n
+
 ---
 
 # Near-Infrared Camera
+
+by [warren](../profile/warren), [liz](../profile/liz), [Shannon](../profile/Shannon), [gonzoearth](../profile/gonzoearth), [mathew](../profile/mathew), [cfastie](../profile/cfastie), [wward1400](../profile/wward1400), [cversek](../profile/cversek), [donblair](../profile/donblair), [ncraig](../profile/ncraig), [sara](../profile/sara)
+
+January 25, 2011 03:26 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [infragram](../tag/infragram), [list:plots-infrared](../tag/list:plots-infrared), [tabbed:notes](../tag/tabbed:notes), [tabbed:wikis](../tag/tabbed:wikis), [n](../tag/n)
 
 <iframe width="480" height="360" src="//www.youtube.com/embed/ZVbC3UxlX8c" frameborder="0" allowfullscreen></iframe>
 

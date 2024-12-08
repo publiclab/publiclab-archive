@@ -1,12 +1,18 @@
 ---
-nid: 30259
 title: Environmental Science Climate Change Poster Campaign 
-path: public/static/notes/TheChessGym/04-05-2022/environmental-science-climate-change-poster-campaign.md
+tagnames: first-time-poster, zoom:10, lat:22.004174, lon:76.003417
+author: TheChessGym
+path: /notes/TheChessGym/04-05-2022/environmental-science-climate-change-poster-campaign.md
+nid: 30259
 uid: 788868
-tagnames: first-time-poster,zoom:10,lat:22.004174,lon:76.003417
+
 ---
 
 # Environmental Science Climate Change Poster Campaign 
+
+by [TheChessGym](../profile/TheChessGym) April 05, 2022 14:40
+
+April 05, 2022 14:40 | Tags: [first-time-poster](../tag/first-time-poster), [zoom:10](../tag/zoom:10), [lat:22.004174](../tag/lat:22.004174), [lon:76.003417](../tag/lon:76.003417)
 
 Environmental Science Climate Change Poster Campaign 
 

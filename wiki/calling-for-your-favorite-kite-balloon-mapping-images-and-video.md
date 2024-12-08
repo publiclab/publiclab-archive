@@ -1,12 +1,18 @@
 ---
-nid: 14500
 title: Calling for your favorite Kite/Balloon Mapping images and video!
-path: public/static/wiki/calling-for-your-favorite-kite-balloon-mapping-images-and-video.md
+tagnames: balloon-mapping, aerial-photography, kickstarter, aerial-photos, redirect:14501
+author: Bronwen
+path: /wiki/calling-for-your-favorite-kite-balloon-mapping-images-and-video.md
+nid: 14500
 uid: 237313
-tagnames: balloon-mapping,aerial-photography,kickstarter,aerial-photos,redirect:14501
+
 ---
 
 # Calling for your favorite Kite/Balloon Mapping images and video!
+
+by [xose](../profile/xose), [Bronwen](../profile/Bronwen)
+
+June 05, 2017 15:37 | Tags: [balloon-mapping](../tag/balloon-mapping), [aerial-photography](../tag/aerial-photography), [kickstarter](../tag/kickstarter), [aerial-photos](../tag/aerial-photos), [redirect:14501](../tag/redirect:14501)
 
 Public Lab is working on a campaign to relaunch our Balloon Mapping Kit, and to that end we're hoping to round up images and/or video showcasing your kite and balloon photography over the years! 
 

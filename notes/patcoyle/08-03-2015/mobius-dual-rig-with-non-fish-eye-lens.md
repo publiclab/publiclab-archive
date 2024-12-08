@@ -1,12 +1,18 @@
 ---
-nid: 12116
 title: Mobius dual rig with non-fish-eye lens
-path: public/static/notes/patcoyle/08-03-2015/mobius-dual-rig-with-non-fish-eye-lens.md
+tagnames: kap, mobius-actioncam, juice-bottle-rig, infragram-point-shoot, kap-rigs, photomonitoring, stowaway-delta, non-fish-eye, levitation-delta
+author: patcoyle
+path: /notes/patcoyle/08-03-2015/mobius-dual-rig-with-non-fish-eye-lens.md
+nid: 12116
 uid: 77
-tagnames: kap,mobius-actioncam,juice-bottle-rig,infragram-point-shoot,kap-rigs,photomonitoring,stowaway-delta,non-fish-eye,levitation-delta
+
 ---
 
 # Mobius dual rig with non-fish-eye lens
+
+by [patcoyle](../profile/patcoyle) August 03, 2015 05:08
+
+August 03, 2015 05:08 | Tags: [kap](../tag/kap), [mobius-actioncam](../tag/mobius-actioncam), [juice-bottle-rig](../tag/juice-bottle-rig), [infragram-point-shoot](../tag/infragram-point-shoot), [kap-rigs](../tag/kap-rigs), [photomonitoring](../tag/photomonitoring), [stowaway-delta](../tag/stowaway-delta), [non-fish-eye](../tag/non-fish-eye), [levitation-delta](../tag/levitation-delta)
 
 ###What I want to do
 Continue to explore non-fish-eye lens options for use with Mobius Infragram plant cam and standard visible imagery Mobius.See prior [note](http://publiclab.org/notes/patcoyle/08-01-2015/mobius-non-fish-eye-lens-conversion) and prior [note](http://publiclab.org/notes/patcoyle/07-24-2015/small-kites-for-mobius-stowaway-delta) and  [note](http://publiclab.org/notes/patcoyle/07-20-2015/small-parafoil-kite-for-mobius-camera) and [note](http://publiclab.org/notes/patcoyle/07-17-2015/more-re-small-pocket-sled-kite-for-mobius-camera) and [note](http://publiclab.org/notes/patcoyle/07-14-2015/smal-pocket-sled-kite-for-mobius-camera).

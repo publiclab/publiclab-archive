@@ -1,12 +1,18 @@
 ---
-nid: 9347
 title: Possible problem with DIY Infragram camera or infrapix
-path: public/static/notes/ceefoster/09-19-2013/possible-problem-with-diy-infragram-camera-or-infrapix.md
+tagnames: near-infrared-camera, ndvi, mailing-lists, infragram
+author: ceefoster
+path: /notes/ceefoster/09-19-2013/possible-problem-with-diy-infragram-camera-or-infrapix.md
+nid: 9347
 uid: 264459
-tagnames: near-infrared-camera,ndvi,mailing-lists,infragram
+
 ---
 
 # Possible problem with DIY Infragram camera or infrapix
+
+by [ceefoster](../profile/ceefoster) September 19, 2013 17:11
+
+September 19, 2013 17:11 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [mailing-lists](../tag/mailing-lists), [infragram](../tag/infragram)
 
 I've been working with an Infragram camera that was made following the instructions on the website, and originally it appeared to work fine. However, I've noticed that in recent photos some of the buildings are colored like they living. 
 

@@ -1,12 +1,18 @@
 ---
-nid: 13654
 title: Translation
-path: public/static/wiki/translation.md
+tagnames: community, website, internationalization, localization, translation, language, prompt:translation
+author: liz
+path: /wiki/translation.md
+nid: 13654
 uid: 7
-tagnames: community,website,internationalization,localization,translation,language,prompt:translation
+
 ---
 
 # Translation
+
+by [warren](../profile/warren), [ajitmujumdar25999](../profile/ajitmujumdar25999), [liz](../profile/liz), [gauravano](../profile/gauravano), [ananyo2012](../profile/ananyo2012)
+
+October 26, 2016 19:49 | Tags: [community](../tag/community), [website](../tag/website), [internationalization](../tag/internationalization), [localization](../tag/localization), [translation](../tag/translation), [language](../tag/language), [prompt:translation](../tag/prompt:translation)
 
 **Welcome to the translation project for publiclab.org! **
 

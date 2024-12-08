@@ -1,12 +1,18 @@
 ---
-nid: 10217
 title: northeast-usa
-path: public/static/wiki/northeast-usa.md
-uid: 7
 tagnames: 
+author: liz
+path: /wiki/northeast-usa.md
+nid: 10217
+uid: 7
+
 ---
 
 # northeast-usa
+
+by [liz](../profile/liz)
+
+March 23, 2014 18:10 | Tags: 
 
 ###Places in the Northeast Chapter:
 

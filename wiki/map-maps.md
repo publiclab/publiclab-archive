@@ -1,12 +1,18 @@
 ---
-nid: 2540
 title: Map of Maps
-path: public/static/wiki/map-maps.md
-uid: 8
 tagnames: 
+author: sara
+path: /wiki/map-maps.md
+nid: 2540
+uid: 8
+
 ---
 
 # Map of Maps
+
+by [sara](../profile/sara)
+
+June 18, 2012 17:52 | Tags: 
 
 
 

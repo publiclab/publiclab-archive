@@ -1,12 +1,18 @@
 ---
-nid: 14561
 title: Kickstarter Credits
-path: public/static/wiki/kickstarter-credits.md
-uid: 1
 tagnames: 
+author: warren
+path: /wiki/kickstarter-credits.md
+nid: 14561
+uid: 1
+
 ---
 
 # Kickstarter Credits
+
+by [warren](../profile/warren)
+
+June 20, 2017 15:41 | Tags: 
 
 All [balloon and kite mappers](/contributors/balloon-mapping) -- 115 contributing on this site, and many more
 

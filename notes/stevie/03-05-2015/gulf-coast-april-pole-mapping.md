@@ -1,12 +1,18 @@
 ---
-nid: 11656
 title: Gulf Coast April Pole Mapping
-path: public/static/notes/stevie/03-05-2015/gulf-coast-april-pole-mapping.md
+tagnames: events, polemapping, mapping, event, neworleans, pole-mapping, gulfcoast
+author: stevie
+path: /notes/stevie/03-05-2015/gulf-coast-april-pole-mapping.md
+nid: 11656
 uid: 422561
-tagnames: events,polemapping,mapping,event,neworleans,pole-mapping,gulfcoast
+
 ---
 
 # Gulf Coast April Pole Mapping
+
+by [stevie](../profile/stevie) March 05, 2015 17:30
+
+March 05, 2015 17:30 | Tags: [events](../tag/events), [polemapping](../tag/polemapping), [mapping](../tag/mapping), [event](../tag/event), [neworleans](../tag/neworleans), [pole-mapping](../tag/pole-mapping), [gulfcoast](../tag/gulfcoast)
 
 ##Hold the showers: 
 April _pole mapping_ brings May... _wetland maps!_

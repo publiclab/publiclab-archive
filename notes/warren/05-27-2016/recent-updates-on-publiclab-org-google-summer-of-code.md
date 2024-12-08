@@ -1,12 +1,18 @@
 ---
-nid: 13150
 title: Recent updates on PublicLab.org, Google Summer of Code
-path: public/static/notes/warren/05-27-2016/recent-updates-on-publiclab-org-google-summer-of-code.md
+tagnames: website, software, gsoc, developers, coding, wwg, gsoc-2016
+author: warren
+path: /notes/warren/05-27-2016/recent-updates-on-publiclab-org-google-summer-of-code.md
+nid: 13150
 uid: 1
-tagnames: website,software,gsoc,developers,coding,wwg,gsoc-2016
+
 ---
 
 # Recent updates on PublicLab.org, Google Summer of Code
+
+by [warren](../profile/warren) May 27, 2016 18:04
+
+May 27, 2016 18:04 | Tags: [website](../tag/website), [software](../tag/software), [gsoc](../tag/gsoc), [developers](../tag/developers), [coding](../tag/coding), [wwg](../tag/wwg), [gsoc-2016](../tag/gsoc-2016)
 
 Hi, all - I wanted to summarize some of the recent activity by PublicLab.org code contributors, which you may notice around the site, and also recap some of what this summer's Google Summer of Code students have tackled so far in their first week.
 

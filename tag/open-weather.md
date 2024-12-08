@@ -1,6 +1,6 @@
 # open-weather
 
-9 notes and wiki pages
+9 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [open-weather](/wiki/open-weather) (wiki)
 - [What does a raw NOAA image look like?](/notes/sashae/06-25-2020/what-does-a-raw-noaa-image-look-like) by [sashae](../profile/sashae)

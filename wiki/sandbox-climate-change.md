@@ -1,12 +1,18 @@
 ---
-nid: 24213
 title: sandbox-climate-change
-path: public/static/wiki/sandbox-climate-change.md
-uid: 664477
 tagnames: 
+author: bhamster
+path: /wiki/sandbox-climate-change.md
+nid: 24213
+uid: 664477
+
 ---
 
 # sandbox-climate-change
+
+by [bhamster](../profile/bhamster), [muthaliganesh77](../profile/muthaliganesh77)
+
+July 23, 2020 14:42 | Tags: 
 
 Through more extreme weather events, rising sea levels, and rising global temperatures, climate change impacts the health of our communities in many ways [1]. Throughout Public Lab you’ll find tools and resources to research and monitor the effects of climate change on your local environment. From water quality to air quality to disaster response, many of the environmental issues addressed on Public Lab connect back to climate change and its impacts. 
 

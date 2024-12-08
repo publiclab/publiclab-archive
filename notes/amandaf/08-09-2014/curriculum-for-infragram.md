@@ -1,12 +1,18 @@
 ---
-nid: 11026
 title: Curriculum for Infragram
-path: public/static/notes/amandaf/08-09-2014/curriculum-for-infragram.md
+tagnames: near-infrared-camera, curriculum, near-infrared, raspberry-pi, near-ir, infragram, rpi, with:mathew, first-time-poster
+author: amandaf
+path: /notes/amandaf/08-09-2014/curriculum-for-infragram.md
+nid: 11026
 uid: 426589
-tagnames: near-infrared-camera,curriculum,near-infrared,raspberry-pi,near-ir,infragram,rpi,with:mathew,first-time-poster
+
 ---
 
 # Curriculum for Infragram
+
+by [amandaf](../profile/amandaf) August 09, 2014 00:27
+
+August 09, 2014 00:27 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [curriculum](../tag/curriculum), [near-infrared](../tag/near-infrared), [raspberry-pi](../tag/raspberry-pi), [near-ir](../tag/near-ir), [infragram](../tag/infragram), [rpi](../tag/rpi), [with:mathew](../tag/with:mathew), [first-time-poster](../tag/first-time-poster)
 
 ###What we want to do
 Create four lesson plans for middle and high school teachers to introduce IR photography, Infragram Sandbox, and environmental monitoring.  Please check out [lesson 1 and 2 in the wiki](/wiki/infragram-curriculum)

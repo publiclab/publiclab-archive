@@ -1,12 +1,18 @@
 ---
-nid: 12166
 title: Community Mapping to Reevaluate Space in a Refugee Camp
-path: public/static/notes/gretchengehrke/08-25-2015/community-mapping-to-reevaluate-space-in-a-refugee-camp.md
+tagnames: balloon-mapping, kite-mapping, data-advocacy-case-studies, lebanon, middle-east, bourjalshamali
+author: gretchengehrke
+path: /notes/gretchengehrke/08-25-2015/community-mapping-to-reevaluate-space-in-a-refugee-camp.md
+nid: 12166
 uid: 430549
-tagnames: balloon-mapping,kite-mapping,data-advocacy-case-studies,lebanon,middle-east,bourjalshamali
+
 ---
 
 # Community Mapping to Reevaluate Space in a Refugee Camp
+
+by [gretchengehrke](../profile/gretchengehrke) August 25, 2015 14:33
+
+August 25, 2015 14:33 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [data-advocacy-case-studies](../tag/data-advocacy-case-studies), [lebanon](../tag/lebanon), [middle-east](../tag/middle-east), [bourjalshamali](../tag/bourjalshamali)
 
 _image by Claudia Martinez Mansell_ 
 

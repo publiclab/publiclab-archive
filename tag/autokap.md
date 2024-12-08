@@ -1,6 +1,6 @@
 # autokap
 
-26 notes and wiki pages
+26 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Clockwork Picavet](/notes/johnwells/2-26-2013/clockwork-picavet) by [John_Wells](../profile/John_Wells)
 - [Initial results: Arduino driven servo with CHDK for aerial panoramas](/notes/patcoyle/05-22-2014/initial-results-kap-with-arduino-driven-servo-with-chdk-for-panoramas) by [patcoyle](../profile/patcoyle)

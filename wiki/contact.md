@@ -1,12 +1,18 @@
 ---
-nid: 9439
 title: Contact Us
-path: public/static/wiki/contact.md
+tagnames: staff, contact, lat:41, locked, location:blurred, zoom:6, place:usa, lon:29
+author: Shannon
+path: /wiki/contact.md
+nid: 9439
 uid: 9
-tagnames: staff,contact,lat:41,locked,location:blurred,zoom:6,place:usa,lon:29
+
 ---
 
 # Contact Us
+
+by [thewrightjess](../profile/thewrightjess), [joyofsoy](../profile/joyofsoy), [warren](../profile/warren), [Shannon](../profile/Shannon), [natalie](../profile/natalie), [liz](../profile/liz), [Bostonwag](../profile/Bostonwag)
+
+October 11, 2013 19:41 | Tags: [staff](../tag/staff), [contact](../tag/contact), [lat:41](../tag/lat:41), [locked](../tag/locked), [location:blurred](../tag/location:blurred), [zoom:6](../tag/zoom:6), [place:usa](../tag/place:usa), [lon:29](../tag/lon:29)
 
 If you have questions related to tools or want to suggest a project, we recommend that you start by checking out the [Welcome Page](https://publiclab.org/welcome) to understand how the Public Lab community works together and then post a question to the [Questions and Answers](https://publiclab.org/questions) page.
 

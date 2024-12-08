@@ -1,12 +1,18 @@
 ---
-nid: 12048
 title: Achieving a high quality spectrum
-path: public/static/notes/Ankur_Bodhe/07-11-2015/achieving-a-high-quality-spectrum.md
+tagnames: spectrometer, carbon, spectrum, nanotubes, sharpness
+author: Ankur_Bodhe
+path: /notes/Ankur_Bodhe/07-11-2015/achieving-a-high-quality-spectrum.md
+nid: 12048
 uid: 444365
-tagnames: spectrometer,carbon,spectrum,nanotubes,sharpness
+
 ---
 
 # Achieving a high quality spectrum
+
+by [Ankur_Bodhe](../profile/Ankur_Bodhe) July 11, 2015 12:56
+
+July 11, 2015 12:56 | Tags: [spectrometer](../tag/spectrometer), [carbon](../tag/carbon), [spectrum](../tag/spectrum), [nanotubes](../tag/nanotubes), [sharpness](../tag/sharpness)
 
 Hey Guys,
 So I wanted to use the spectrometer to Characterize Carbon Nanotubes.

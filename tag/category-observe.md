@@ -1,6 +1,6 @@
 # category-observe
 
-14 notes and wiki pages
+14 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Bean Cam](/notes/cfastie/4-8-2013/bean-cam) by [cfastie](../profile/cfastie)
 - [CrocusCam](/notes/cfastie/04-20-2013/crocuscam) by [cfastie](../profile/cfastie)

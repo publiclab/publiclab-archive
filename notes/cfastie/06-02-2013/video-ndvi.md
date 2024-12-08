@@ -1,12 +1,18 @@
 ---
-nid: 8016
 title: Video NDVI 
-path: public/static/notes/cfastie/06-02-2013/video-ndvi.md
+tagnames: near-infrared-camera, ndvi, infragram, infrablue, ffmpeg
+author: cfastie
+path: /notes/cfastie/06-02-2013/video-ndvi.md
+nid: 8016
 uid: 554
-tagnames: near-infrared-camera,ndvi,infragram,infrablue,ffmpeg
+
 ---
 
 # Video NDVI 
+
+by [cfastie](../profile/cfastie) June 02, 2013 14:01
+
+June 02, 2013 14:01 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [infragram](../tag/infragram), [infrablue](../tag/infrablue), [ffmpeg](../tag/ffmpeg)
 
 <em>Image above: Three frames from an infrablue video we are trying to convert to NDVI</em>
 

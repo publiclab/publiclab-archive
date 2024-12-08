@@ -1,12 +1,18 @@
 ---
-nid: 10592
 title: Infragram Point & Shoot cameras now in production
-path: public/static/notes/Natalie/06-19-2014/mobius-cam-point-and-shoot-shipping-update.md
+tagnames: near-infrared-camera, store, kickstarter, infragram, mobius-actioncam, mobius, first-time-poster
+author: natalie
+path: /notes/Natalie/06-19-2014/mobius-cam-point-and-shoot-shipping-update.md
+nid: 10592
 uid: 424454
-tagnames: near-infrared-camera,store,kickstarter,infragram,mobius-actioncam,mobius,first-time-poster
+
 ---
 
 # Infragram Point & Shoot cameras now in production
+
+by [natalie](../profile/natalie) June 19, 2014 20:26
+
+June 19, 2014 20:26 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [store](../tag/store), [kickstarter](../tag/kickstarter), [infragram](../tag/infragram), [mobius-actioncam](../tag/mobius-actioncam), [mobius](../tag/mobius), [first-time-poster](../tag/first-time-poster)
 
 ***UPDATE*** 7/29/14
 We have received the first 100 point and shoot cameras and are getting them ready to ship. We are still waiting on the SD cards to arrive, but they should be in this week along with 300 more cameras. Shipping should begin early next week! Thanks again for all your support and patience through this new venture!

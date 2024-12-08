@@ -1,6 +1,6 @@
 # fracking
 
-37 notes and wiki pages
+37 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Balloon & Kite Mapping](/wiki/balloon-mapping) (wiki)
 - [Kite-Balloon Hybrid](/wiki/kite-balloon-hybrid) (wiki)

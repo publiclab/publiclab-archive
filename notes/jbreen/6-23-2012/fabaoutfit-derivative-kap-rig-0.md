@@ -1,12 +1,18 @@
 ---
-nid: 2618
 title: FABAoutfit derivative KAP rig
-path: public/static/notes/jbreen/6-23-2012/fabaoutfit-derivative-kap-rig-0.md
+tagnames: picavet, kite-aerial-photography, photo-rig, activity:photo-rig
+author: jbreen
+path: /notes/jbreen/6-23-2012/fabaoutfit-derivative-kap-rig-0.md
+nid: 2618
 uid: 326
-tagnames: picavet,kite-aerial-photography,photo-rig,activity:photo-rig
+
 ---
 
 # FABAoutfit derivative KAP rig
+
+by [jbreen](../profile/jbreen) June 23, 2012 19:21
+
+June 23, 2012 19:21 | Tags: [picavet](../tag/picavet), [kite-aerial-photography](../tag/kite-aerial-photography), [photo-rig](../tag/photo-rig), [activity:photo-rig](../tag/activity:photo-rig)
 
 A few weeks ago, <a href="http://publiclaboratory.com/people/juan">Juan</a> from the <a href="http://www.faba.in">FABA Collective</a> posted<a href=http://publiclaboratory.com/notes/juan/6-5-2012/fabaoutfit-vertical-kap-and-bap> this</a> research note showing a beautifully minimalist KAP rig they call the FABAoutfit.  Inspired, I made a trip to my local Swedish big box store to hunt down the parts for the rig.  In my lingonberry-induced haze, I seem to have managed to bring home the white recycling bin, but not the S-hooks FABA so ingeniously put to use in their rig.  Therefore, my rig looks a little different...
 

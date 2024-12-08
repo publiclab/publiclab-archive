@@ -1,12 +1,18 @@
 ---
-nid: 6382
 title: a new burp in the Texas Brine Sinkhole
-path: public/static/notes/eustatic/3-17-2013/new-burb-texas-sinkhole.md
+tagnames: sinkhole, passenger-pigeon
+author: eustatic
+path: /3-17-2013/new-burb-texas-sinkhole.md
+nid: 6382
 uid: 379
-tagnames: sinkhole,passenger-pigeon
+
 ---
 
 # a new burp in the Texas Brine Sinkhole
+
+by [eustatic](../profile/eustatic) March 18, 2013 03:19
+
+March 18, 2013 03:19 | Tags: [sinkhole](../tag/sinkhole), [passenger-pigeon](../tag/passenger-pigeon)
 
 Assumption Parish maintains a blog here:
 

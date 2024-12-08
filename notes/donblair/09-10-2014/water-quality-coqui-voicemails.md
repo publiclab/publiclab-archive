@@ -1,12 +1,18 @@
 ---
-nid: 11121
 title: Water quality voicemails: Vojo & Coqui
-path: public/static/notes/donblair/09-10-2014/water-quality-coqui-voicemails.md
+tagnames: water-quality, coqui, voicemail, audio, vojo, activity:coqui-usage, activity:coqui-mods
+author: donblair
+path: /notes/donblair/09-10-2014/water-quality-coqui-voicemails.md
+nid: 11121
 uid: 43651
-tagnames: water-quality,coqui,voicemail,audio,vojo,activity:coqui-usage,activity:coqui-mods
+
 ---
 
 # Water quality voicemails: Vojo & Coqui
+
+by [donblair](../profile/donblair) September 10, 2014 22:06
+
+September 10, 2014 22:06 | Tags: [water-quality](../tag/water-quality), [coqui](../tag/coqui), [voicemail](../tag/voicemail), [audio](../tag/audio), [vojo](../tag/vojo), [activity:coqui-usage](../tag/activity:coqui-usage), [activity:coqui-mods](../tag/activity:coqui-mods)
 
 ###What I want to do
 

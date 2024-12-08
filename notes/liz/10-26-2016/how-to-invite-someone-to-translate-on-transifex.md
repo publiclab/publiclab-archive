@@ -1,12 +1,18 @@
 ---
-nid: 13649
 title: Invite someone to translate on Transifex (managers)
-path: public/static/notes/liz/10-26-2016/how-to-invite-someone-to-translate-on-transifex.md
+tagnames: community, website, activity, localization, translation, language, activity:localization-managers
+author: liz
+path: /notes/liz/10-26-2016/how-to-invite-someone-to-translate-on-transifex.md
+nid: 13649
 uid: 7
-tagnames: community,website,activity,localization,translation,language,activity:localization-managers
+
 ---
 
 # Invite someone to translate on Transifex (managers)
+
+by [liz](../profile/liz) October 26, 2016 14:52
+
+October 26, 2016 14:52 | Tags: [community](../tag/community), [website](../tag/website), [activity](../tag/activity), [localization](../tag/localization), [translation](../tag/translation), [language](../tag/language), [activity:localization-managers](../tag/activity:localization-managers)
 
 This activity is for managers of Public Lab's Transifex project. Please leave a comment if you would like to help manage this project. When you have completed this activity, you will know how to invite a new person into Transifex, and you will know what that person will be emailed from the Transifex platform. 
 

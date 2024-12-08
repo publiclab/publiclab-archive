@@ -1,6 +1,6 @@
 # lending-library
 
-6 notes and wiki pages
+6 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Lending Libraries](/notes/liz/07-18-2014/lending-libraries) by [liz](../profile/liz)
 - [Public Lab Lending Library](/wiki/lending-library) (wiki)

@@ -1,12 +1,18 @@
 ---
-nid: 30138
 title: Flocculation
-path: public/static/wiki/flocculation.md
+tagnames: industry, mine-reclamation, flocculants, parent:industry
+author: laurel_mire
+path: /wiki/flocculation.md
+nid: 30138
 uid: 759178
-tagnames: industry,mine-reclamation,flocculants,parent:industry
+
 ---
 
 # Flocculation
+
+by [laurel_mire](../profile/laurel_mire)
+
+March 17, 2022 18:59 | Tags: [industry](../tag/industry), [mine-reclamation](../tag/mine-reclamation), [flocculants](../tag/flocculants), [parent:industry](../tag/parent:industry)
 
 _Lead image of hydroseed containing polyacrylamide flocculating agent, "[L-13 Levee Ditch Infill Project](https://www.flickr.com/photos/132290357@N04/34483614420)" by [SFWMD](https://www.flickr.com/photos/132290357@N04) is marked with [CC BY-ND 2.0](https://creativecommons.org/licenses/by-nd/2.0/?ref=openverse)._
 

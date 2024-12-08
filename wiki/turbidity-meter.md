@@ -1,12 +1,18 @@
 ---
-nid: 924
 title: turbidity sensor
-path: public/static/wiki/turbidity-meter.md
+tagnames: water-quality, water-monitoring, turbidity, parent:turbidity
+author: liz
+path: /wiki/turbidity-meter.md
+nid: 924
 uid: 7
-tagnames: water-quality,water-monitoring,turbidity,parent:turbidity
+
 ---
 
 # turbidity sensor
+
+by [liz](../profile/liz)
+
+March 14, 2012 18:04 | Tags: [water-quality](../tag/water-quality), [water-monitoring](../tag/water-monitoring), [turbidity](../tag/turbidity), [parent:turbidity](../tag/parent:turbidity)
 
 <strong>Turbidity sensors:</strong>
 

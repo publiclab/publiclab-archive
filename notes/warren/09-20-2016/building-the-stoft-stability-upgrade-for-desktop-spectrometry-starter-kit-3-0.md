@@ -1,12 +1,18 @@
 ---
-nid: 13463
 title: Building the @stoft stability upgrade for Desktop Spectrometry Starter Kit 3.0
-path: public/static/notes/warren/09-20-2016/building-the-stoft-stability-upgrade-for-desktop-spectrometry-starter-kit-3-0.md
+tagnames: spectrometer, spectrometry, replication, leaffest-2016, build:13455, dssk
+author: warren
+path: /notes/warren/09-20-2016/building-the-stoft-stability-upgrade-for-desktop-spectrometry-starter-kit-3-0.md
+nid: 13463
 uid: 1
-tagnames: spectrometer,spectrometry,replication,leaffest-2016,build:13455,dssk
+
 ---
 
 # Building the @stoft stability upgrade for Desktop Spectrometry Starter Kit 3.0
+
+by [warren](../profile/warren) September 20, 2016 01:59
+
+September 20, 2016 01:59 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [replication](../tag/replication), [leaffest-2016](../tag/leaffest-2016), [build:13455](../tag/build:13455), [dssk](../tag/dssk)
 
 [![build](https://i.publiclab.org/system/images/photos/000/018/075/medium/IMG_20160918_114553.jpg)](https://i.publiclab.org/system/images/photos/000/018/075/original/IMG_20160918_114553.jpg)
 

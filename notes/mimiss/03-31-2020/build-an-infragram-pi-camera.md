@@ -1,12 +1,18 @@
 ---
-nid: 23270
 title: Build an Infragram Pi Camera
-path: public/static/notes/mimiss/03-31-2020/build-an-infragram-pi-camera.md
+tagnames: multispectral, raspberry-pi, infragram, infragram-pi, activity:pi-camera-setup, pin:activity:infragram-pi, pi-camera-setup
+author: mimiss
+path: /notes/mimiss/03-31-2020/build-an-infragram-pi-camera.md
+nid: 23270
 uid: 579821
-tagnames: multispectral,raspberry-pi,infragram,infragram-pi,activity:pi-camera-setup,pin:activity:infragram-pi,pi-camera-setup
+
 ---
 
 # Build an Infragram Pi Camera
+
+by [mimiss](../profile/mimiss) March 31, 2020 19:14
+
+March 31, 2020 19:14 | Tags: [multispectral](../tag/multispectral), [raspberry-pi](../tag/raspberry-pi), [infragram](../tag/infragram), [infragram-pi](../tag/infragram-pi), [activity:pi-camera-setup](../tag/activity:pi-camera-setup), [pin:activity:infragram-pi](../tag/pin:activity:infragram-pi), [pi-camera-setup](../tag/pi-camera-setup)
 
 ## Materials
 ![Materials for the Raspberry Pi Infragram Camera][1]

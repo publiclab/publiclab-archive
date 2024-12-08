@@ -1,12 +1,18 @@
 ---
-nid: 19900
 title: Getting help in a coding project
-path: public/static/notes/warren/06-27-2019/getting-help-in-a-coding-project.md
+tagnames: gsoc, code, software-outreach, soc, gsoc-2019, soc-2019
+author: warren
+path: /notes/warren/06-27-2019/getting-help-in-a-coding-project.md
+nid: 19900
 uid: 1
-tagnames: gsoc,code,software-outreach,soc,gsoc-2019,soc-2019
+
 ---
 
 # Getting help in a coding project
+
+by [warren](../profile/warren) June 27, 2019 21:47
+
+June 27, 2019 21:47 | Tags: [gsoc](../tag/gsoc), [code](../tag/code), [software-outreach](../tag/software-outreach), [soc](../tag/soc), [gsoc-2019](../tag/gsoc-2019), [soc-2019](../tag/soc-2019)
 
 At times we've all been stuck even in trying to help out, because of the complexity of a project. But we have a great community who's willing to offer support! I wanted to share some thoughts on how **good documentation of a problem** can help when asking for help!
 

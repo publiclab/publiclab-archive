@@ -1,12 +1,18 @@
 ---
-nid: 10025
 title: Cloud Sensor Base-Station
-path: public/static/notes/code4maine/02-10-2014/cloud-sensor-base-station.md
+tagnames: garden, datalogger, hydroponics, gardening, data-logging, datalogging
+author: ajawitz
+path: /notes/code4maine/02-10-2014/cloud-sensor-base-station.md
+nid: 10025
 uid: 294634
-tagnames: garden,datalogger,hydroponics,gardening,data-logging,datalogging
+
 ---
 
 # Cloud Sensor Base-Station
+
+by [ajawitz](../profile/ajawitz) February 10, 2014 23:15
+
+February 10, 2014 23:15 | Tags: [garden](../tag/garden), [datalogger](../tag/datalogger), [hydroponics](../tag/hydroponics), [gardening](../tag/gardening), [data-logging](../tag/data-logging), [datalogging](../tag/datalogging)
 
 ###What I want to do
 I want to create a platform with the capacity to control a large number of sensors and actuators necessary for the hydronponics system outlined in[ this wiki](http://publiclab.org/wiki/new-concepts-for-oshw-in-indoor-gardening), and to serve as the central gateway to a cloud-enabled dashboard.  The basis for this experiment is the new [Arduino Yun](http://arduino.cc/en/Main/ArduinoBoardYun) which combines an OpenWRT/Linux wifi processor with an Arduino Leonardo Microcontroller.  However, the complexity of the Open Source Hydroponics Platform is such that it will likely require multiple microcontrollers to adequately handle the tasks involved.  

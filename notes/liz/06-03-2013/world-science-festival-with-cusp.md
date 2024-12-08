@@ -1,12 +1,18 @@
 ---
-nid: 8020
 title: World Science Festival with CUSP
-path: public/static/notes/liz/06-03-2013/world-science-festival-with-cusp.md
-uid: 7
 tagnames: balloon-mapping
+author: liz
+path: /notes/liz/06-03-2013/world-science-festival-with-cusp.md
+nid: 8020
+uid: 7
+
 ---
 
 # World Science Festival with CUSP
+
+by [liz](../profile/liz) June 03, 2013 01:19
+
+June 03, 2013 01:19 | Tags: [balloon-mapping](../tag/balloon-mapping)
 
 **Article written about the event: http://www.directionsmag.com/articles/open-data-and-the-next-evolution-in-citizen-science/347361**
 

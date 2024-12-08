@@ -1,12 +1,18 @@
 ---
-nid: 10377
 title: Nitrate detection
-path: public/static/wiki/nitrate-detection.md
+tagnames: water-quality, nitrate, nitrogen, parent:nitrogen
+author: warren
+path: /wiki/nitrate-detection.md
+nid: 10377
 uid: 1
-tagnames: water-quality,nitrate,nitrogen,parent:nitrogen
+
 ---
 
 # Nitrate detection
+
+by [warren](../profile/warren)
+
+April 29, 2014 17:11 | Tags: [water-quality](../tag/water-quality), [nitrate](../tag/nitrate), [nitrogen](../tag/nitrogen), [parent:nitrogen](../tag/parent:nitrogen)
 
 ##Exploratory pilot project for low-cost nitrate measurement
 

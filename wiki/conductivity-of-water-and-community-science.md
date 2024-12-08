@@ -1,12 +1,18 @@
 ---
-nid: 15407
 title: Conductivity of Water and Community Science
-path: public/static/wiki/conductivity-of-water-and-community-science.md
+tagnames: water-sensing, water-quality, conductivity, community-science, parent:water-quality
+author: gilbert
+path: /wiki/conductivity-of-water-and-community-science.md
+nid: 15407
 uid: 508551
-tagnames: water-sensing,water-quality,conductivity,community-science,parent:water-quality
+
 ---
 
 # Conductivity of Water and Community Science
+
+by [gilbert](../profile/gilbert)
+
+December 20, 2017 22:01 | Tags: [water-sensing](../tag/water-sensing), [water-quality](../tag/water-quality), [conductivity](../tag/conductivity), [community-science](../tag/community-science), [parent:water-quality](../tag/parent:water-quality)
 
 ****[](https://archive.epa.gov/water/archive/web/html/vms59.html)**Conductivity of Water and Community Science**
 

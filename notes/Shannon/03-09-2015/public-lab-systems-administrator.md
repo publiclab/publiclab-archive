@@ -1,12 +1,18 @@
 ---
-nid: 11668
 title: Public Lab: Systems Administrator
-path: public/static/notes/Shannon/03-09-2015/public-lab-systems-administrator.md
+tagnames: nonprofit, jobs
+author: Shannon
+path: /notes/Shannon/03-09-2015/public-lab-systems-administrator.md
+nid: 11668
 uid: 9
-tagnames: nonprofit,jobs
+
 ---
 
 # Public Lab: Systems Administrator
+
+by [Shannon](../profile/Shannon) March 09, 2015 20:22
+
+March 09, 2015 20:22 | Tags: [nonprofit](../tag/nonprofit), [jobs](../tag/jobs)
 
 **Start Date:** Early April </br>
 **Location:** Remote </br>

@@ -1,12 +1,18 @@
 ---
-nid: 13922
 title: Can PM4 be monitored with the MiniVol?
-path: public/static/notes/mathew/02-11-2017/can-pm4-be-monitored-with-the-minivol.md
+tagnames: wisconsin, dust, silica, frac-sand, pm, particle-sensing, pm-monitoring, minivol, question:minivol, question:silica, question:pm-monitoring, question:dust, question:dust-sampling
+author: mathew
+path: /notes/mathew/02-11-2017/can-pm4-be-monitored-with-the-minivol.md
+nid: 13922
 uid: 4
-tagnames: wisconsin,dust,silica,frac-sand,pm,particle-sensing,pm-monitoring,minivol,question:minivol,question:silica,question:pm-monitoring,question:dust,question:dust-sampling
+
 ---
 
 # Can PM4 be monitored with the MiniVol?
+
+by [mathew](../profile/mathew) February 11, 2017 01:22
+
+February 11, 2017 01:22 | Tags: [wisconsin](../tag/wisconsin), [dust](../tag/dust), [silica](../tag/silica), [frac-sand](../tag/frac-sand), [pm](../tag/pm), [particle-sensing](../tag/particle-sensing), [pm-monitoring](../tag/pm-monitoring), [minivol](../tag/minivol), [question:minivol](../tag/question:minivol), [question:silica](../tag/question:silica), [question:pm-monitoring](../tag/question:pm-monitoring), [question:dust](../tag/question:dust), [question:dust-sampling](../tag/question:dust-sampling)
 
 _Image Source: ["Citrine" by Jarno from Rotterdam, Netherlands, on Wikimedia](https://en.wikipedia.org/wiki/Quartz#/media/File:Citrine-sample2.jpg) CC: BY_
 

@@ -1,12 +1,18 @@
 ---
-nid: 17013
 title: Projects
-path: public/static/wiki/projects.md
+tagnames: community, water-quality, locked, location:blurred, place:united-states, lat:29, lon:-90, zoom:6
+author: warren
+path: /wiki/projects.md
+nid: 17013
 uid: 1
-tagnames: community,water-quality,locked,location:blurred,place:united-states,lat:29,lon:-90,zoom:6
+
 ---
 
 # Projects
+
+by [liz](../profile/liz), [wmacfarl](../profile/wmacfarl), [JungleBoysWeed](../profile/JungleBoysWeed), [stevie](../profile/stevie), [warren](../profile/warren)
+
+August 28, 2018 22:16 | Tags: [community](../tag/community), [water-quality](../tag/water-quality), [locked](../tag/locked), [location:blurred](../tag/location:blurred), [place:united-states](../tag/place:united-states), [lat:29](../tag/lat:29), [lon:-90](../tag/lon:-90), [zoom:6](../tag/zoom:6)
 
 This page is intended to help people post Project Pages on Public Lab. It includes step by step instructions on posting a Project Page, and examples of pages for you to reference.
 

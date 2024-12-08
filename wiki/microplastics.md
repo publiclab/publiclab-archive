@@ -1,12 +1,18 @@
 ---
-nid: 21172
 title: Microplastics
-path: public/static/wiki/microplastics.md
-uid: 7
 tagnames: microplastics
+author: liz
+path: /wiki/microplastics.md
+nid: 21172
+uid: 7
+
 ---
 
 # Microplastics
+
+by [bhamster](../profile/bhamster), [amocorro](../profile/amocorro), [joyofsoy](../profile/joyofsoy), [stevie](../profile/stevie), [liz](../profile/liz)
+
+October 15, 2019 16:30 | Tags: [microplastics](../tag/microplastics)
 
 Microplastics are small pieces of plastic less than 5 millimeters long. Some microplastics start out small, like industrial plastic pellets used to make plastic products, or microbeads added to exfoliating personal care products like cleansers and toothpaste [1]. Other microplastics result from large pieces of plastic breaking down. Tumbling around in water or on land, exposure to sunlight, and interactions with living things can break down plastic materials into smaller microplastics [2]. Small fragments of plastic water bottles, fibers from fleece clothing, frayed pieces of nylon rope—these can all be microplastics. They never go away, they just get smaller and smaller.
 

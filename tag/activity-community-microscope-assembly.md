@@ -1,6 +1,6 @@
 # activity-community-microscope-assembly
 
-6 notes and wiki pages
+6 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Lighting Your Sample](/notes/partsandcrafts/02-26-2018/4-lighting-your-sample) by [partsandcrafts](../profile/partsandcrafts)
 - [Microscope Webcam Conversion](/notes/bronwen/05-07-2018/microscope-webcam-conversion) by [Bronwen](../profile/Bronwen)

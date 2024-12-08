@@ -1,12 +1,18 @@
 ---
-nid: 12162
 title: water quality indices
-path: public/static/wiki/water-quality-indices.md
+tagnames: water-quality, list:plots-waterquality, parent:mae-d-agua, parent:water-quality
+author: vjpixel
+path: /wiki/water-quality-indices.md
+nid: 12162
 uid: 420617
-tagnames: water-quality,list:plots-waterquality,parent:mae-d-agua,parent:water-quality
+
 ---
 
 # water quality indices
+
+by [vjpixel](../profile/vjpixel), [danbeavers](../profile/danbeavers)
+
+August 24, 2015 03:15 | Tags: [water-quality](../tag/water-quality), [list:plots-waterquality](../tag/list:plots-waterquality), [parent:mae-d-agua](../tag/parent:mae-d-agua), [parent:water-quality](../tag/parent:water-quality)
 
 ##National Sanitation Foundation
 **Parameters:** Temperature, pH, Dissolved Oxygen, Turbidity, Fecal Coliform, Biochemical Oxygen, Total Phosphates, Nitrates, Total Suspended Solids

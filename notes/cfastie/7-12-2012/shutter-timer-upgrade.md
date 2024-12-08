@@ -1,12 +1,18 @@
 ---
-nid: 2785
 title: Shutter timer upgrade
-path: public/static/notes/cfastie/7-12-2012/shutter-timer-upgrade.md
+tagnames: balloon-mapping, near-infrared-camera, kite-mapping, triggering, 555-timer, camera-triggering, timer, intervalometer, 555, activity:camera-triggering, activity:intervalometer
+author: cfastie
+path: /notes/cfastie/7-12-2012/shutter-timer-upgrade.md
+nid: 2785
 uid: 554
-tagnames: balloon-mapping,near-infrared-camera,kite-mapping,triggering,555-timer,camera-triggering,timer,intervalometer,555,activity:camera-triggering,activity:intervalometer
+
 ---
 
 # Shutter timer upgrade
+
+by [cfastie](../profile/cfastie) July 13, 2012 00:17
+
+July 13, 2012 00:17 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [triggering](../tag/triggering), [555-timer](../tag/555-timer), [camera-triggering](../tag/camera-triggering), [timer](../tag/timer), [intervalometer](../tag/intervalometer), [555](../tag/555), [activity:camera-triggering](../tag/activity:camera-triggering), [activity:intervalometer](../tag/activity:intervalometer)
 
 After walking around like a fool for an hour towing a kite lofting the cameras that were not shooting because the <a href="http://publiclaboratory.org/notes/cfastie/7-3-2012/timer-battery-disappoints">timer battery had died after 13 minutes</a>, I decided to try Randy Sargent's modification of the MK111 timer. Randy's suggestions are described in the <a href="http://publiclaboratory.org/notes/cfastie/5-2-2012/no-output-signal-ir-kit-timer">later comments on this note</a>. The modified timer works as expected!
 

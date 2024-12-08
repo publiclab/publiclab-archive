@@ -1,12 +1,18 @@
 ---
-nid: 2237
 title: Lee, NH PLOTS/FarmHack Meetup
-path: public/static/notes/cfastie/5-29-2012/lee-nh-plotsfarmhack-meetup.md
+tagnames: balloon-mapping, near-infrared-camera, grassrootsmapping, ndvi, nir, farmhack, cropcover, ifarm
+author: cfastie
+path: /notes/cfastie/5-29-2012/lee-nh-plotsfarmhack-meetup.md
+nid: 2237
 uid: 554
-tagnames: balloon-mapping,near-infrared-camera,grassrootsmapping,ndvi,nir,farmhack,cropcover,ifarm
+
 ---
 
 # Lee, NH PLOTS/FarmHack Meetup
+
+by [cfastie](../profile/cfastie) May 29, 2012 13:41
+
+May 29, 2012 13:41 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [grassrootsmapping](../tag/grassrootsmapping), [ndvi](../tag/ndvi), [nir](../tag/nir), [farmhack](../tag/farmhack), [cropcover](../tag/cropcover), [ifarm](../tag/ifarm)
 
 We had a successful day last week balloon mapping an agricultural experiment study in Lee, New Hampshire.  Dorn Cox of [GreenStart](http://www.greenstartnh.org/index.php?option=com_content&view=article&id=58&Itemid=53) hosted the day at the site of a no-till trial where hairy vetch had been seeded the previous September into established hay field turf.  Thirteen different experimental treatments with four replicates each are designed to reveal the best management practices for conserving fuel, enhancing soil carbon, and reducing weeds while switching from grass-based to legume-based cover.  This is the second year this experiment has been done, and is part of Dorn’s dissertation research.  [More photos of the activity are in this Flickr set.](https://www.flickr.com/photos/chrisfastie/sets/72157629939056310/)
 

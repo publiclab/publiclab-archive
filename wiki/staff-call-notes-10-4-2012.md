@@ -1,12 +1,18 @@
 ---
-nid: 4179
 title: Staff call notes 10 4 2012
-path: public/static/wiki/staff-call-notes-10-4-2012.md
-uid: 1
 tagnames: 
+author: warren
+path: /wiki/staff-call-notes-10-4-2012.md
+nid: 4179
+uid: 1
+
 ---
 
 # Staff call notes 10 4 2012
+
+by [warren](../profile/warren)
+
+October 05, 2012 00:43 | Tags: 
 
 ###Finalizing Retail Report (July 2011 - June 20 2012)
 

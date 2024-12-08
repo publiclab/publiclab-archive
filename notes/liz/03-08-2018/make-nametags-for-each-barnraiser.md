@@ -1,12 +1,18 @@
 ---
-nid: 15892
 title: Make nametags for in-person events like the Barnraising
-path: public/static/notes/liz/03-08-2018/make-nametags-for-each-barnraiser.md
+tagnames: barnraising, facilitation, activity:day-before-barnraising, activity:facilitation
+author: liz
+path: /notes/liz/03-08-2018/make-nametags-for-each-barnraiser.md
+nid: 15892
 uid: 7
-tagnames: barnraising,facilitation,activity:day-before-barnraising,activity:facilitation
+
 ---
 
 # Make nametags for in-person events like the Barnraising
+
+by [liz](../profile/liz) March 08, 2018 15:58
+
+March 08, 2018 15:58 | Tags: [barnraising](../tag/barnraising), [facilitation](../tag/facilitation), [activity:day-before-barnraising](../tag/activity:day-before-barnraising), [activity:facilitation](../tag/activity:facilitation)
 
 The lead image is a good example how to present a set of nametags: alphabetized and organized on the Welcome table. Make sure you have blank cards and extra holders for surprise drop-ins!
 

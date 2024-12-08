@@ -1,6 +1,6 @@
 # data-advocacy
 
-7 notes and wiki pages
+7 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Advice for real-time monitoring](/notes/ottinger/08-30-2018/advice-for-real-time-monitoring) by [ottinger](../profile/ottinger)
 - [Tips for environmental storytelling](/notes/joyofsoy/08-07-2020/tips-for-environmental-storytelling) by [joyofsoy](../profile/joyofsoy)

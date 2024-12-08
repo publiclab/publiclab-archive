@@ -1,12 +1,18 @@
 ---
-nid: 9720
 title: Public Lab Named Honorable Mention in 2013 Buckminster Fuller Challenge
-path: public/static/notes/Becki/11-03-2013/public-lab-named-honorable-mention-in-2013-buckminster-fuller-challenge.md
-uid: 46673
 tagnames: buckminster-fuller-challenge
+author: Becki
+path: /notes/Becki/11-03-2013/public-lab-named-honorable-mention-in-2013-buckminster-fuller-challenge.md
+nid: 9720
+uid: 46673
+
 ---
 
 # Public Lab Named Honorable Mention in 2013 Buckminster Fuller Challenge
+
+by [Becki](../profile/Becki) November 03, 2013 15:20
+
+November 03, 2013 15:20 | Tags: [buckminster-fuller-challenge](../tag/buckminster-fuller-challenge)
 
 Public Lab is proud to be selected as an [Honorable Mention](http://challenge.bfi.org/2013Finalist_PublicLab) amongst a great group of Finalists for the Buckminster Fuller Challenge! We received some great compliments from review team--thanks everyone for your hardwork and dedication!
 

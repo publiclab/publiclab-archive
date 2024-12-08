@@ -1,6 +1,6 @@
 # snowfest
 
-5 notes and wiki pages
+5 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Thermal flashlight -- now with more LEDz!](/notes/donblair/02-15-2014/thermal-flashlight-now-with-more-ledz) by [donblair](../profile/donblair)
 - [Preliminary Plymouth Plant Plume Ponderings](/notes/donblair/02-23-2014/preliminary-plymouth-plant-plume-ponderings) by [donblair](../profile/donblair)

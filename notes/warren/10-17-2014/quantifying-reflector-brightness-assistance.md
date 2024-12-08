@@ -1,12 +1,18 @@
 ---
-nid: 11272
 title: Quantifying reflector brightness assistance
-path: public/static/notes/warren/10-17-2014/quantifying-reflector-brightness-assistance.md
+tagnames: spectrometer, reflective, cuvette, clipping, oil-testing-kit, exposure, brightness, reflector
+author: warren
+path: /notes/warren/10-17-2014/quantifying-reflector-brightness-assistance.md
+nid: 11272
 uid: 1
-tagnames: spectrometer,reflective,cuvette,clipping,oil-testing-kit,exposure,brightness,reflector
+
 ---
 
 # Quantifying reflector brightness assistance
+
+by [warren](../profile/warren) October 17, 2014 18:03
+
+October 17, 2014 18:03 | Tags: [spectrometer](../tag/spectrometer), [reflective](../tag/reflective), [cuvette](../tag/cuvette), [clipping](../tag/clipping), [oil-testing-kit](../tag/oil-testing-kit), [exposure](../tag/exposure), [brightness](../tag/brightness), [reflector](../tag/reflector)
 
 ###What I want to do
 

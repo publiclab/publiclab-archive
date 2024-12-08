@@ -1,12 +1,18 @@
 ---
-nid: 12179
 title: Riffle: sensor board approach
-path: public/static/notes/donblair/08-28-2015/riffle-sensor-board-approach.md
+tagnames: riffle, open-water
+author: donblair
+path: /notes/donblair/08-28-2015/riffle-sensor-board-approach.md
+nid: 12179
 uid: 43651
-tagnames: riffle,open-water
+
 ---
 
 # Riffle: sensor board approach
+
+by [donblair](../profile/donblair) August 28, 2015 15:08
+
+August 28, 2015 15:08 | Tags: [riffle](../tag/riffle), [open-water](../tag/open-water)
 
 One idea that came up in Colombia (and, really, in various forms earlier, at LEAFFEST and elsewhere -- gosh, it's so hard to credit all of the folks who've contributed all of these cool ideas! Need to make a looooong list ASAP) was that of making through-hole versions of the conductivity + temperature 'daughter boards' we're hoping to use with the Riffle datalogger. 
 

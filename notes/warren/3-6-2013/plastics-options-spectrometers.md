@@ -1,12 +1,18 @@
 ---
-nid: 6223
 title: Plastics options for spectrometers
-path: public/static/notes/warren/3-6-2013/plastics-options-spectrometers.md
+tagnames: near-infrared-camera, spectrometer, materials
+author: warren
+path: /notes/warren/3-6-2013/plastics-options-spectrometers.md
+nid: 6223
 uid: 1
-tagnames: near-infrared-camera,spectrometer,materials
+
 ---
 
 # Plastics options for spectrometers
+
+by [warren](../profile/warren) March 06, 2013 21:34
+
+March 06, 2013 21:34 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [spectrometer](../tag/spectrometer), [materials](../tag/materials)
 
 After issues with the high reflectivity of some black paper stock in the near-infrared range, I wanted to double-check that the plastic we'll be using for our spectrometers is truly dark in the near-infrared range. 
 

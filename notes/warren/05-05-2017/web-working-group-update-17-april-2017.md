@@ -1,12 +1,18 @@
 ---
-nid: 14163
 title: Web Working Group Update 17: April 2017
-path: public/static/notes/warren/05-05-2017/web-working-group-update-17-april-2017.md
+tagnames: community, web-development, software, plots2, outreach, gsoc, developers, wwg, webwg, first-timers-only, software-outreach, wwg-update, response:14091
+author: warren
+path: /notes/warren/05-05-2017/web-working-group-update-17-april-2017.md
+nid: 14163
 uid: 1
-tagnames: community,web-development,software,plots2,outreach,gsoc,developers,wwg,webwg,first-timers-only,software-outreach,wwg-update,response:14091
+
 ---
 
 # Web Working Group Update 17: April 2017
+
+by [warren](../profile/warren) May 05, 2017 15:42
+
+May 05, 2017 15:42 | Tags: [community](../tag/community), [web-development](../tag/web-development), [software](../tag/software), [plots2](../tag/plots2), [outreach](../tag/outreach), [gsoc](../tag/gsoc), [developers](../tag/developers), [wwg](../tag/wwg), [webwg](../tag/webwg), [first-timers-only](../tag/first-timers-only), [software-outreach](../tag/software-outreach), [wwg-update](../tag/wwg-update), [response:14091](../tag/response:14091)
 
 Activity on the Public Lab website codebase has been a little lower than typical, in large part due to my having been traveling for much of the past few months. You can look over this at [Github Pulse](https://github.com/publiclab/plots2/pulse/monthly), as always -- and the above "punch card" image, showing when contributions are made, is pretty neat -- [see it in full here](https://github.com/publiclab/plots2/graphs/punch-card).  
 

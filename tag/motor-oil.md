@@ -1,6 +1,6 @@
 # motor-oil
 
-4 notes and wiki pages
+4 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Attempted infrared imaging of motor oil in salt water](/notes/warren/12-7-2010/attempted-infrared-imaging-motor-oil-salt-water) by [warren](../profile/warren)
 - [Oil Testing Kit: draft materials list](/notes/warren/02-04-2014/oil-testing-kit-draft-materials-list) by [warren](../profile/warren)

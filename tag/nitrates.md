@@ -1,6 +1,6 @@
 # nitrates
 
-7 notes and wiki pages
+7 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Common Water Contaminants](/wiki/common-water-contaminants) (wiki)
 - [Multi parameter analysis using a DIY Spectrometer](/notes/Frikkie/03-05-2015/multi-parameter-analysis-using-a-diy-spectrometer) by [Frikkie](../profile/Frikkie)

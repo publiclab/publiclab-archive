@@ -1,12 +1,18 @@
 ---
-nid: 4259
 title: Job Posting: Development Manager
-path: public/static/wiki/job-posting-development-manager.md
-uid: 9
 tagnames: 
+author: Shannon
+path: /wiki/job-posting-development-manager.md
+nid: 4259
+uid: 9
+
 ---
 
 # Job Posting: Development Manager
+
+by [Shannon](../profile/Shannon)
+
+October 08, 2012 18:38 | Tags: 
 
 **DEVELOPMENT MANAGER**
  

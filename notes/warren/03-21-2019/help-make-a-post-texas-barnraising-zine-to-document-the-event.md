@@ -1,12 +1,18 @@
 ---
-nid: 18561
 title: Help make a post-Texas Barnraising zine to document the event
-path: public/static/notes/warren/03-21-2019/help-make-a-post-texas-barnraising-zine-to-document-the-event.md
+tagnames: documentation, barnraising, doccom, booklet, location:blurred, lat:29.3, txbarnraising, zine, google-doc, with:joyofsoy, lon:-94.79
+author: warren
+path: /notes/warren/03-21-2019/help-make-a-post-texas-barnraising-zine-to-document-the-event.md
+nid: 18561
 uid: 1
-tagnames: documentation,barnraising,doccom,booklet,location:blurred,lat:29.3,txbarnraising,zine,google-doc,with:joyofsoy,lon:-94.79
+
 ---
 
 # Help make a post-Texas Barnraising zine to document the event
+
+by [warren](../profile/warren) March 15, 2019 17:22
+
+March 15, 2019 17:22 | Tags: [documentation](../tag/documentation), [barnraising](../tag/barnraising), [doccom](../tag/doccom), [booklet](../tag/booklet), [location:blurred](../tag/location:blurred), [lat:29.3](../tag/lat:29.3), [txbarnraising](../tag/txbarnraising), [zine](../tag/zine), [google-doc](../tag/google-doc), [with:joyofsoy](../tag/with:joyofsoy), [lon:-94.79](../tag/lon:-94.79)
 
 UPDATE: The Barnraising zine has been completed and is available for [purchase in our store][1], or for free download here in [English][2] and [Spanish][3].
 

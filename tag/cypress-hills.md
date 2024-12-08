@@ -1,6 +1,6 @@
 # cypress-hills
 
-26 notes and wiki pages
+26 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [New York City](/wiki/new-york-city) (wiki)
 - [Air Quality Class](/wiki/air-quality-class) (wiki)

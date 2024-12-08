@@ -1,12 +1,18 @@
 ---
-nid: 12583
 title: Background on Frac Sand
-path: public/static/wiki/nonmetallicmining.md
-uid: 430549
 tagnames: parent:frac-sand
+author: gretchengehrke
+path: /wiki/nonmetallicmining.md
+nid: 12583
+uid: 430549
+
 ---
 
 # Background on Frac Sand
+
+by [stevie](../profile/stevie), [gretchengehrke](../profile/gretchengehrke)
+
+January 13, 2016 20:49 | Tags: [parent:frac-sand](../tag/parent:frac-sand)
 
 ####Introduction
 Sand and gravel are mined for use in a variety of contexts, from concrete to glass production. Mining for aggregates such as sand and gravel is often accomplished through strip mining bedrock below soil layers.  Miners displace everything above the target bedrock formation (e.g. soil and non-target rock formations), extract bedrock, and process it into gravel and sand through crushing and sifting.  Sand is mostly comprised of crystalline silica, a hard mineral with high compressive strength.  While particles of crushed silica, less than 50 microns ( 50μm, or millionths of a meter), are small enough to become airborne, silica’s high strength prevents it from fracturing small enough to become respirable unless under intense pressure. Under the high pressures of industrial processing, silica can be crushed smaller than 5 μm, the size at which it is carcinogenic when respired.

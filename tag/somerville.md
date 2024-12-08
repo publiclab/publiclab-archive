@@ -1,6 +1,6 @@
 # somerville
 
-10 notes and wiki pages
+10 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Tidmarsh Farms meetup](/wiki/tidmarsh-farms-meetup) (wiki)
 - [Boston Toolshed Raising 2014](/wiki/boston-toolshed-raising-2014) (wiki)

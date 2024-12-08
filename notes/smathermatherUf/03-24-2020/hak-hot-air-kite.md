@@ -1,12 +1,18 @@
 ---
-nid: 23203
 title: HAK: Hot Air Kite
-path: public/static/notes/smathermatherUf/03-24-2020/hak-hot-air-kite.md
+tagnames: balloon-mapping, kite-balloon-hybrid, first-time-poster
+author: smathermatherUf
+path: /notes/smathermatherUf/03-24-2020/hak-hot-air-kite.md
+nid: 23203
 uid: 596011
-tagnames: balloon-mapping,kite-balloon-hybrid,first-time-poster
+
 ---
 
 # HAK: Hot Air Kite
+
+by [smathermatherUf](../profile/smathermatherUf) March 24, 2020 19:48
+
+March 24, 2020 19:48 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-balloon-hybrid](../tag/kite-balloon-hybrid), [first-time-poster](../tag/first-time-poster)
 
 Hi All,
 

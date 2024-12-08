@@ -1,12 +1,18 @@
 ---
-nid: 8011
 title: June 1 Sensor Journalism Conference at Columbia University
-path: public/static/notes/liz/06-01-2013/june-1-sensor-journalism-conference-at-columbia-university.md
+tagnames: new-york-city, event
+author: liz
+path: /notes/liz/06-01-2013/june-1-sensor-journalism-conference-at-columbia-university.md
+nid: 8011
 uid: 7
-tagnames: new-york-city,event
+
 ---
 
 # June 1 Sensor Journalism Conference at Columbia University
+
+by [liz](../profile/liz) June 01, 2013 14:02
+
+June 01, 2013 14:02 | Tags: [new-york-city](../tag/new-york-city), [event](../tag/event)
 
 ##Event details
 

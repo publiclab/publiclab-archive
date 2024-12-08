@@ -1,12 +1,18 @@
 ---
-nid: 27480
 title: How to find out if waterbodies near you in the US are healthy or impaired
-path: public/static/notes/bhamster/08-12-2021/how-to-find-out-if-waterbodies-near-you-in-the-us-are-healthy-or-impaired.md
+tagnames: waterway, epa, database, water-quality, getting-started, wastewater, time:30m, difficulty:easy, category:observe, watershed, activity:water-quality, existing-data, getting-started-wastewater, activity:wastewater, impaired-waters, wastewater-advocacy
+author: bhamster
+path: /notes/bhamster/08-12-2021/how-to-find-out-if-waterbodies-near-you-in-the-us-are-healthy-or-impaired.md
+nid: 27480
 uid: 664477
-tagnames: waterway,epa,database,water-quality,getting-started,wastewater,time:30m,difficulty:easy,category:observe,watershed,activity:water-quality,existing-data,getting-started-wastewater,activity:wastewater,impaired-waters,wastewater-advocacy
+
 ---
 
 # How to find out if waterbodies near you in the US are healthy or impaired
+
+by [bhamster](../profile/bhamster) August 12, 2021 16:50
+
+August 12, 2021 16:50 | Tags: [waterway](../tag/waterway), [epa](../tag/epa), [database](../tag/database), [water-quality](../tag/water-quality), [getting-started](../tag/getting-started), [wastewater](../tag/wastewater), [time:30m](../tag/time:30m), [difficulty:easy](../tag/difficulty:easy), [category:observe](../tag/category:observe), [watershed](../tag/watershed), [activity:water-quality](../tag/activity:water-quality), [existing-data](../tag/existing-data), [getting-started-wastewater](../tag/getting-started-wastewater), [activity:wastewater](../tag/activity:wastewater), [impaired-waters](../tag/impaired-waters), [wastewater-advocacy](../tag/wastewater-advocacy)
 
 _Lead image: Whatcom Creek in Bellingham, WA, [Robert Ashworth](https://www.flickr.com/photos/90536753@N00/28053822135), [CC BY](https://creativecommons.org/licenses/by/2.0/)_
 

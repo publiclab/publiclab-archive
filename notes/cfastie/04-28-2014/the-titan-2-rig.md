@@ -1,12 +1,18 @@
 ---
-nid: 10374
 title: The Titan 2 Rig
-path: public/static/notes/cfastie/04-28-2014/the-titan-2-rig.md
+tagnames: balloon-mapping, near-infrared-camera, kite-mapping, ndvi, vermont, kap, 3d-printing, makerbot, response:10230, titan
+author: cfastie
+path: /notes/cfastie/04-28-2014/the-titan-2-rig.md
+nid: 10374
 uid: 554
-tagnames: balloon-mapping,near-infrared-camera,kite-mapping,ndvi,vermont,kap,3d-printing,makerbot,response:10230,titan
+
 ---
 
 # The Titan 2 Rig
+
+by [cfastie](../profile/cfastie) April 28, 2014 03:35
+
+April 28, 2014 03:35 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [ndvi](../tag/ndvi), [vermont](../tag/vermont), [kap](../tag/kap), [3d-printing](../tag/3d-printing), [makerbot](../tag/makerbot), [response:10230](../tag/response:10230), [titan](../tag/titan)
 
 The [Infragram camera]( http://publiclab.org/wiki/infragram) makes capturing aerial photos for infrared vegetation analysis easy. The alternate method is to use two cameras, one for visible light and one for near infrared light. This doubles the weight and expense, and requires synchronizing the shutters of the two cameras and then aligning the photo pairs afterwards. But this is the only way to get a pure near infrared photo and a pure red light photo of the same aerial scene (both are needed for standard NDVI).  It also allows the creation of false color infrared images using infrared, red, and green data (Infragrams never have both red and green bands).  I have a few different Infragram cameras, but when I want to get the best quality aerial infrared photos for vegetation analysis, I fly a dual camera system. I designed a rig to hold two cameras and the required electronics for this purpose. The 3D printable design is freely downloadable at [Thingiverse](http://www.thingiverse.com/thing:281676).  
 .  

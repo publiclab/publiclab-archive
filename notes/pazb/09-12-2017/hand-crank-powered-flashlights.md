@@ -1,12 +1,18 @@
 ---
-nid: 14885
 title: Hand-crank powered flashlights 
-path: public/static/notes/pazb/09-12-2017/hand-crank-powered-flashlights.md
+tagnames: workshops, energy, barnstar:basic, flashlight, motor, activity:kids, activity:education, activity:science-fair, activity:energy, kids, workshop-formats, activity:classroom, activity:field-studies
+author: pazb
+path: /notes/pazb/09-12-2017/hand-crank-powered-flashlights.md
+nid: 14885
 uid: 512631
-tagnames: workshops,energy,barnstar:basic,flashlight,motor,activity:kids,activity:education,activity:science-fair,activity:energy,kids,workshop-formats,activity:classroom,activity:field-studies
+
 ---
 
 # Hand-crank powered flashlights 
+
+by [pazb](../profile/pazb) September 12, 2017 17:59
+
+September 12, 2017 17:59 | Tags: [workshops](../tag/workshops), [energy](../tag/energy), [barnstar:basic](../tag/barnstar:basic), [flashlight](../tag/flashlight), [motor](../tag/motor), [activity:kids](../tag/activity:kids), [activity:education](../tag/activity:education), [activity:science-fair](../tag/activity:science-fair), [activity:energy](../tag/activity:energy), [kids](../tag/kids), [workshop-formats](../tag/workshop-formats), [activity:classroom](../tag/activity:classroom), [activity:field-studies](../tag/activity:field-studies)
 
 ¿Or "crankable flashlight"? Have no idea what sounds better
 

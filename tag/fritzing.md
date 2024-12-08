@@ -1,6 +1,6 @@
 # fritzing
 
-3 notes and wiki pages
+3 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Arduino + Figaro hydrogen sulfide sensor](/notes/warren/9-6-2011/arduino-figaro-hydrogen-sulfide-sensor) by [warren](../profile/warren)
 - [Build a simple Thermal Flashlight](/notes/warren/12-12-2011/circuit-diagram-simple-thermal-flashlight) by [warren](../profile/warren)

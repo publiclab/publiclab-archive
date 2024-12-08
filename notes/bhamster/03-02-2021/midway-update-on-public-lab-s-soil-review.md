@@ -1,12 +1,18 @@
 ---
-nid: 25827
 title: Midway update on Public Lab’s soil review
-path: public/static/notes/bhamster/03-02-2021/midway-update-on-public-lab-s-soil-review.md
+tagnames: soil, research, reviews, soil-contamination, research-area-review
+author: bhamster
+path: /notes/bhamster/03-02-2021/midway-update-on-public-lab-s-soil-review.md
+nid: 25827
 uid: 664477
-tagnames: soil,research,reviews,soil-contamination,research-area-review
+
 ---
 
 # Midway update on Public Lab’s soil review
+
+by [bhamster](../profile/bhamster) March 02, 2021 18:03
+
+March 02, 2021 18:03 | Tags: [soil](../tag/soil), [research](../tag/research), [reviews](../tag/reviews), [soil-contamination](../tag/soil-contamination), [research-area-review](../tag/research-area-review)
 
 _Image: Mapping soils, [Tom Koerner/USFWS](https://www.flickr.com/photos/51986662@N05/14044824086), [CC BY](https://creativecommons.org/licenses/by/2.0/)_
 

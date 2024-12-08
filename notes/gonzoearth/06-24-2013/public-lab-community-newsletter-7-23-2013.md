@@ -1,12 +1,18 @@
 ---
-nid: 8399
 title: Public Lab Community Newsletter 6.23.2013
-path: public/static/notes/gonzoearth/06-24-2013/public-lab-community-newsletter-7-23-2013.md
+tagnames: newsletter, response:8141
+author: gonzoearth
+path: /notes/gonzoearth/06-24-2013/public-lab-community-newsletter-7-23-2013.md
+nid: 8399
 uid: 12
-tagnames: newsletter,response:8141
+
 ---
 
 # Public Lab Community Newsletter 6.23.2013
+
+by [gonzoearth](../profile/gonzoearth) June 24, 2013 05:33
+
+June 24, 2013 05:33 | Tags: [newsletter](../tag/newsletter), [response:8141](../tag/response:8141)
 
 In this edition of the Public Lab community newsletter; a heavy dose of Infragram with a sprinkling of mapping videos. Lots of research news related to the Public Lab infrared photography kickstarter campaign that now [has only 12 days remaining](http://www.kickstarter.com/projects/publiclab/infragram-the-infrared-photography-project?ref=card).  
 

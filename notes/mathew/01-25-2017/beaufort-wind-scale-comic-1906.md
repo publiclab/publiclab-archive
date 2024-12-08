@@ -1,12 +1,18 @@
 ---
-nid: 13880
 title: Beaufort Wind Scale Comic, 1906
-path: public/static/notes/mathew/01-25-2017/beaufort-wind-scale-comic-1906.md
+tagnames: balloon-mapping, kite-mapping, safety, guides, anemometer, wind-speed-meter, air-quality, guide, wind, barnstar:excessive-enthusiasm, beaufort, cartoon, activity:wind-speed
+author: mathew
+path: /notes/mathew/01-25-2017/beaufort-wind-scale-comic-1906.md
+nid: 13880
 uid: 4
-tagnames: balloon-mapping,kite-mapping,safety,guides,anemometer,wind-speed-meter,air-quality,guide,wind,barnstar:excessive-enthusiasm,beaufort,cartoon,activity:wind-speed
+
 ---
 
 # Beaufort Wind Scale Comic, 1906
+
+by [mathew](../profile/mathew) January 25, 2017 22:42
+
+January 25, 2017 22:42 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [safety](../tag/safety), [guides](../tag/guides), [anemometer](../tag/anemometer), [wind-speed-meter](../tag/wind-speed-meter), [air-quality](../tag/air-quality), [guide](../tag/guide), [wind](../tag/wind), [barnstar:excessive-enthusiasm](../tag/barnstar:excessive-enthusiasm), [beaufort](../tag/beaufort), [cartoon](../tag/cartoon), [activity:wind-speed](../tag/activity:wind-speed)
 
 The [Beaufort Scale][1]
 is a means of measuring wind speed by visual inspection of indirect

@@ -1,12 +1,18 @@
 ---
-nid: 13906
 title: Editable wiki sub-sections prototype on PublicLab.org
-path: public/static/notes/warren/02-07-2017/editable-wiki-sub-sections-prototype-on-publiclab-org.md
+tagnames: documentation, software, developers, coding, wwg, rich-wikis
+author: warren
+path: /notes/warren/02-07-2017/editable-wiki-sub-sections-prototype-on-publiclab-org.md
+nid: 13906
 uid: 1
-tagnames: documentation,software,developers,coding,wwg,rich-wikis
+
 ---
 
 # Editable wiki sub-sections prototype on PublicLab.org
+
+by [warren](../profile/warren) February 07, 2017 19:15
+
+February 07, 2017 19:15 | Tags: [documentation](../tag/documentation), [software](../tag/software), [developers](../tag/developers), [coding](../tag/coding), [wwg](../tag/wwg), [rich-wikis](../tag/rich-wikis)
 
 I've been working on this part of the [Rich Wikis project][1] to make [PublicLab.org][2]'s wikis more interactive -- to encourage people to author more -- and one part of that has been the ["Editable sub-sections" feature][3].
 

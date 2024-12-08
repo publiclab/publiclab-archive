@@ -1,12 +1,18 @@
 ---
-nid: 5188
 title: Massive updates to Spectral Workbench
-path: public/static/notes/warren/12-13-2012/massive-updates-spectral-workbench.md
+tagnames: spectrometer, spectralworkbench, kickstarter
+author: warren
+path: /notes/warren/12-13-2012/massive-updates-spectral-workbench.md
+nid: 5188
 uid: 1
-tagnames: spectrometer,spectralworkbench,kickstarter
+
 ---
 
 # Massive updates to Spectral Workbench
+
+by [warren](../profile/warren) December 13, 2012 20:48
+
+December 13, 2012 20:48 | Tags: [spectrometer](../tag/spectrometer), [spectralworkbench](../tag/spectralworkbench), [kickstarter](../tag/kickstarter)
 
 If you've used [Spectral Workbench](https://spectralworkbench.org) recently, you may have noticed the frenetic pace of changes over the past week. Wholly revised interfaces such as the above front-page screenshot, as well as a vastly improved (but still in-progress) mobile interface for the site (largely using Bootstrap) have accompanied bugfixes and other revisions.
 

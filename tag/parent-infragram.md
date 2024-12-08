@@ -1,6 +1,6 @@
 # parent-infragram
 
-11 notes and wiki pages
+11 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [NDVI from the PLOTS IR camera kit](/wiki/ndvi-plots-ir-kit) (wiki)
 - [Infragram convertible cameras](/wiki/infragram-convertible-cameras) (wiki)

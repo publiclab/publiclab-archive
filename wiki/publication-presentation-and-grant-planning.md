@@ -1,12 +1,18 @@
 ---
-nid: 51
 title: Publication, presentation and grant planning
-path: public/static/wiki/publication-presentation-and-grant-planning.md
-uid: 1
 tagnames: 
+author: warren
+path: /wiki/publication-presentation-and-grant-planning.md
+nid: 51
+uid: 1
+
 ---
 
 # Publication, presentation and grant planning
+
+by [warren](../profile/warren), [Shannon](../profile/Shannon)
+
+January 21, 2011 18:55 | Tags: 
 
 <dme:context type='node' cid='51' />Here is a list of all the publications and presentations we're writing for, deadlines, and who's in charge of each:
 

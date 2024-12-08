@@ -1,12 +1,18 @@
 ---
-nid: 12511
 title: Riffle CT (Conductivity & Temp) Beta Design: Electronics, Enclosure, Probes, Data Collection
-path: public/static/notes/donblair/12-13-2015/riffle-ct-conductivity-temp-beta-design-enclosure-probes-data-collection.md
+tagnames: water-quality, datalogger, logging, riffle, beta
+author: donblair
+path: /notes/donblair/12-13-2015/riffle-ct-conductivity-temp-beta-design-enclosure-probes-data-collection.md
+nid: 12511
 uid: 43651
-tagnames: water-quality,datalogger,logging,riffle,beta
+
 ---
 
 # Riffle CT (Conductivity & Temp) Beta Design: Electronics, Enclosure, Probes, Data Collection
+
+by [donblair](../profile/donblair) December 13, 2015 23:30
+
+December 13, 2015 23:30 | Tags: [water-quality](../tag/water-quality), [datalogger](../tag/datalogger), [logging](../tag/logging), [riffle](../tag/riffle), [beta](../tag/beta)
 
 Hi All,
 

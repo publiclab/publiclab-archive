@@ -1,6 +1,6 @@
 # cameroon
 
-3 notes and wiki pages
+3 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [build of the microscope kit](/notes/luglimbe/09-21-2018/build-of-the-microscope-kit) by [luglimbe](../profile/luglimbe)
 - [Our usb microscop design](/notes/luglimbe/11-20-2018/our-usb-microscop-design) by [luglimbe](../profile/luglimbe)

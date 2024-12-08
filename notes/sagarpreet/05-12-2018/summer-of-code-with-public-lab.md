@@ -1,12 +1,18 @@
 ---
-nid: 16332
 title: Summer of code with Public Lab
-path: public/static/notes/sagarpreet/05-12-2018/summer-of-code-with-public-lab.md
-uid: 516343
 tagnames: 
+author: sagarpreet
+path: /notes/sagarpreet/05-12-2018/summer-of-code-with-public-lab.md
+nid: 16332
+uid: 516343
+
 ---
 
 # Summer of code with Public Lab
+
+by [sagarpreet](../profile/sagarpreet) May 12, 2018 09:24
+
+May 12, 2018 09:24 | Tags: 
 
 Hi all :)
 

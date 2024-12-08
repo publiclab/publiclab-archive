@@ -1,12 +1,18 @@
 ---
-nid: 20223
 title: Google Summer of Code: Second Evaluations
-path: public/static/notes/rexagod/07-21-2019/google-summer-of-code-second-evaluations.md
+tagnames: gsoc, soc, gsoc-2019, soc-2019, soc-2019-eval
+author: rexagod
+path: /notes/rexagod/07-21-2019/google-summer-of-code-second-evaluations.md
+nid: 20223
 uid: 564358
-tagnames: gsoc,soc,gsoc-2019,soc-2019,soc-2019-eval
+
 ---
 
 # Google Summer of Code: Second Evaluations
+
+by [rexagod](../profile/rexagod) July 21, 2019 18:23
+
+July 21, 2019 18:23 | Tags: [gsoc](../tag/gsoc), [soc](../tag/soc), [gsoc-2019](../tag/gsoc-2019), [soc-2019](../tag/soc-2019), [soc-2019-eval](../tag/soc-2019-eval)
 
 # Public Lab: Second Evaluations
 

@@ -1,12 +1,18 @@
 ---
-nid: 3032
 title: Staff call notes 7 12 2012
-path: public/static/wiki/staff-call-notes-7-12-2012.md
-uid: 1
 tagnames: 
+author: warren
+path: /wiki/staff-call-notes-7-12-2012.md
+nid: 3032
+uid: 1
+
 ---
 
 # Staff call notes 7 12 2012
+
+by [warren](../profile/warren)
+
+July 30, 2012 16:46 | Tags: 
 
 ###Liz###
 * Achieved: FAA NOTAM process wrangling: (http://publiclaboratory.org/wiki/mapping-curriculum-regulatory-situation, 

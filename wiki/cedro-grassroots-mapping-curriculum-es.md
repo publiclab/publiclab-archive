@@ -1,12 +1,18 @@
 ---
-nid: 857
 title: CEDRO Grassroots Mapping Curriculum (es)
-path: public/static/wiki/cedro-grassroots-mapping-curriculum-es.md
+tagnames: lima, balloon-mapping, peru, curriculum, classroom, lang:es, cedro
+author: warren
+path: /wiki/cedro-grassroots-mapping-curriculum-es.md
+nid: 857
 uid: 1
-tagnames: lima,balloon-mapping,peru,curriculum,classroom,lang:es,cedro
+
 ---
 
 # CEDRO Grassroots Mapping Curriculum (es)
+
+by [warren](../profile/warren)
+
+February 27, 2012 15:16 | Tags: [lima](../tag/lima), [balloon-mapping](../tag/balloon-mapping), [peru](../tag/peru), [curriculum](../tag/curriculum), [classroom](../tag/classroom), [lang:es](../tag/lang:es), [cedro](../tag/cedro)
 
 _Version en castellano; para la version ingles, mira [CEDRO Grassroots Mapping Curriculum](/wiki/cedro-grassroots-mapping-curriculum)_
 

@@ -1,12 +1,18 @@
 ---
-nid: 10552
 title: DIY dust monitoring: Dylos in Wisconsin 
-path: public/static/notes/mathew/06-12-2014/diy-dust-monitoring-dylos-in-wisconsin.md
+tagnames: wisconsin, air-quality, dust, silica, midwest, particle-sensing, particulate-monitoring, openair, air-sensors
+author: mathew
+path: /notes/mathew/06-12-2014/diy-dust-monitoring-dylos-in-wisconsin.md
+nid: 10552
 uid: 4
-tagnames: wisconsin,air-quality,dust,silica,midwest,particle-sensing,particulate-monitoring,openair,air-sensors
+
 ---
 
 # DIY dust monitoring: Dylos in Wisconsin 
+
+by [mathew](../profile/mathew) June 12, 2014 02:13
+
+June 12, 2014 02:13 | Tags: [wisconsin](../tag/wisconsin), [air-quality](../tag/air-quality), [dust](../tag/dust), [silica](../tag/silica), [midwest](../tag/midwest), [particle-sensing](../tag/particle-sensing), [particulate-monitoring](../tag/particulate-monitoring), [openair](../tag/openair), [air-sensors](../tag/air-sensors)
 
 Hank Boschen and [Concerned Chippewa Citizen](http://wisair.wordpress.com/) have been deploying  ~$200 [Dylos 1100](http://www.dylosproducts.com/ornodcairqum.html) laser particulate monitors [around NW Wisconsin.](http://wisair.wordpress.com/web-ready-monitor/)
 

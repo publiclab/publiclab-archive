@@ -1,12 +1,18 @@
 ---
-nid: 19816
 title: Organizing
-path: public/static/wiki/organizing.md
+tagnames: organizing, community-organizing, youth-organizing
+author: warren
+path: /wiki/organizing.md
+nid: 19816
 uid: 1
-tagnames: organizing,community-organizing,youth-organizing
+
 ---
 
 # Organizing
+
+by [bhamster](../profile/bhamster), [warren](../profile/warren)
+
+June 23, 2019 01:13 | Tags: [organizing](../tag/organizing), [community-organizing](../tag/community-organizing), [youth-organizing](../tag/youth-organizing)
 
 Public Lab respectfully draws on multiple rich lineages of organizing with a site-specific focus for community self-determination. 
 

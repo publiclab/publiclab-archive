@@ -1,12 +1,18 @@
 ---
-nid: 14718
 title: What type of health issues are associated with inhalation of ultrafine particles?
-path: public/static/notes/liz/08-04-2017/what-type-of-health-issues-are-associated-with-inhalation-of-ultrafine-particles.md
+tagnames: question:air-quality, answered, question:ultrafines
+author: liz
+path: /notes/liz/08-04-2017/what-type-of-health-issues-are-associated-with-inhalation-of-ultrafine-particles.md
+nid: 14718
 uid: 7
-tagnames: question:air-quality,answered,question:ultrafines
+
 ---
 
 # What type of health issues are associated with inhalation of ultrafine particles?
+
+by [liz](../profile/liz) August 04, 2017 13:55
+
+August 04, 2017 13:55 | Tags: [question:air-quality](../tag/question:air-quality), [answered](../tag/answered), [question:ultrafines](../tag/question:ultrafines)
 
 **What type of health issues are associated with inhalation of ultrafine particles?**
 

@@ -1,12 +1,18 @@
 ---
-nid: 5911
 title: Feb 20th Public Lab meetup in Somerville MA
-path: public/static/notes/warren/2-7-2013/feb-20th-public-lab-meetup-somerville-ma.md
+tagnames: meetup, event
+author: warren
+path: /notes/warren/2-7-2013/feb-20th-public-lab-meetup-somerville-ma.md
+nid: 5911
 uid: 1
-tagnames: meetup,event
+
 ---
 
 # Feb 20th Public Lab meetup in Somerville MA
+
+by [warren](../profile/warren) February 07, 2013 14:09
+
+February 07, 2013 14:09 | Tags: [meetup](../tag/meetup), [event](../tag/event)
 
 We're hoping to have a chance for Public Lab folks to meet, discuss their projects, and possibly plan upcoming Public Lab events. The meetup will be on the evening of **Wednesday, Feb 20**:
 

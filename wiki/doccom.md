@@ -1,12 +1,18 @@
 ---
-nid: 12425
 title: DOCCOM
-path: public/static/wiki/doccom.md
+tagnames: barnraising, parent:barnraising, doccom, barnraising-2015
+author: warren
+path: /wiki/doccom.md
+nid: 12425
 uid: 1
-tagnames: barnraising,parent:barnraising,doccom,barnraising-2015
+
 ---
 
 # DOCCOM
+
+by [warren](../profile/warren)
+
+November 20, 2015 15:34 | Tags: [barnraising](../tag/barnraising), [parent:barnraising](../tag/parent:barnraising), [doccom](../tag/doccom), [barnraising-2015](../tag/barnraising-2015)
 
 The DOCumentation COMmitte helps to record and share the thoughts, ideas, and insights of the Barnraising with one another, rest of the the Public Lab community, and the rest of the world. 
 

@@ -1,12 +1,18 @@
 ---
-nid: 15238
 title: Spectrometer 3.0 Cuvette Add-on
-path: public/static/notes/programmer1200/11-25-2017/spectrometer-3-0-cuvette-add-on.md
+tagnames: spectrometer, spectrometry, cuvette, thingiverse, activity:spectrometry, upgrade:dssk, add-on, upgrade, activity:3d-printing
+author: programmer1200
+path: /notes/programmer1200/11-25-2017/spectrometer-3-0-cuvette-add-on.md
+nid: 15238
 uid: 509305
-tagnames: spectrometer,spectrometry,cuvette,thingiverse,activity:spectrometry,upgrade:dssk,add-on,upgrade,activity:3d-printing
+
 ---
 
 # Spectrometer 3.0 Cuvette Add-on
+
+by [programmer1200](../profile/programmer1200) November 25, 2017 18:31
+
+November 25, 2017 18:31 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [cuvette](../tag/cuvette), [thingiverse](../tag/thingiverse), [activity:spectrometry](../tag/activity:spectrometry), [upgrade:dssk](../tag/upgrade:dssk), [add-on](../tag/add-on), [upgrade](../tag/upgrade), [activity:3d-printing](../tag/activity:3d-printing)
 
 **NOTICE : I'm not great at writing** 
 

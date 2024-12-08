@@ -1,6 +1,6 @@
 # arduino-nano
 
-5 notes and wiki pages
+5 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Data logger shield for Nano](/notes/cfastie/04-30-2017/data-logger-shield-for-nano) by [cfastie](../profile/cfastie)
 - [Monitor your data logger](/notes/cfastie/05-03-2017/monitor-your-data-logger) by [cfastie](../profile/cfastie)

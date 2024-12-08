@@ -1,12 +1,18 @@
 ---
-nid: 298
 title: calculating pixel resolution
-path: public/static/wiki/calculating-pixel-resolution.md
+tagnames: curriculum, gis, resolution, parent:mapping-curriculum, mapping-curriculum, pixel, scale
+author: gonzoearth
+path: /wiki/calculating-pixel-resolution.md
+nid: 298
 uid: 12
-tagnames: curriculum,gis,resolution,parent:mapping-curriculum,mapping-curriculum,pixel,scale
+
 ---
 
 # calculating pixel resolution
+
+by [gonzoearth](../profile/gonzoearth)
+
+May 25, 2011 20:22 | Tags: [curriculum](../tag/curriculum), [gis](../tag/gis), [resolution](../tag/resolution), [parent:mapping-curriculum](../tag/parent:mapping-curriculum), [mapping-curriculum](../tag/mapping-curriculum), [pixel](../tag/pixel), [scale](../tag/scale)
 
 *As part of the [Grassroots Mapping Curriculum](/wiki/mapping-curriculum) series.*
 

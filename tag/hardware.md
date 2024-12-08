@@ -1,6 +1,6 @@
 # hardware
 
-45 notes and wiki pages
+45 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Kits Initiative](/wiki/kits) (wiki)
 - [Universal Hardware Registry?](/notes/donblair/12-15-2015/universal-hardware-registry) by [donblair](../profile/donblair)
@@ -44,6 +44,4 @@
 - [Holiday Sale on Public Lab Kits!](/notes/Bronwen/12-11-2019/holiday-sale-on-public-lab-kits) by [Bronwen](../profile/Bronwen)
 - [Workshop Series on Practical use of the Public Lab kit at the MboaLab](/notes/Bronwen/12-12-2019/workshop-series-on-practical-use-of-the-public-lab-kit-at-the-mboalab) by [Bronwen](../profile/Bronwen)
 - [Emery Board as Bathymeter: ETP vs Beau Bayou](/notes/eustatic/01-11-2020/emery-board-as-bathymeter-etp-vs-beau-bayou) by [eustatic](../profile/eustatic)
-- [ICETRONIC Poder y Tecnología a tu Alcance](/notes/ICETRONIC/01-13-2020/icetronic-poder-y-tecnologia-a-tu-alcance) by [ICETRONIC](../profile/ICETRONIC)
-- [Aluminium extrusion](/notes/digitaltrainingindia/07-29-2020/aluminium-extrusion) by [digitaltrainingindia](../profile/digitaltrainingindia)
 - [Sponsored Makerspace Memberships in NYC](/notes/Bronwen/10-22-2020/sponsored-makerspace-memberships-in-nyc) by [Bronwen](../profile/Bronwen)

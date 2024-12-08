@@ -1,12 +1,18 @@
 ---
-nid: 16532
 title: Pensacola Stormwater 
-path: public/static/notes/stevie/06-19-2018/pensacola-stormwater.md
+tagnames: superfund, stormwater, flooding, npdes, permits, nas, issue-brief, pensacola-stormwater, pensacola, naacp
+author: stevie
+path: /notes/stevie/06-19-2018/pensacola-stormwater.md
+nid: 16532
 uid: 422561
-tagnames: superfund,stormwater,flooding,npdes,permits,nas,issue-brief,pensacola-stormwater,pensacola,naacp
+
 ---
 
 # Pensacola Stormwater 
+
+by [stevie](../profile/stevie) June 19, 2018 19:08
+
+June 19, 2018 19:08 | Tags: [superfund](../tag/superfund), [stormwater](../tag/stormwater), [flooding](../tag/flooding), [npdes](../tag/npdes), [permits](../tag/permits), [nas](../tag/nas), [issue-brief](../tag/issue-brief), [pensacola-stormwater](../tag/pensacola-stormwater), [pensacola](../tag/pensacola), [naacp](../tag/naacp)
 
 ### Introduction: 
 In early June, 2018, a group of us from the Pensacola NAACP, and other interested parties got together to begin to explore some of the stormwater issues in Pensacola. 

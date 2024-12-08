@@ -1,12 +1,18 @@
 ---
-nid: 27515
 title: HOW WE RECOLLECT OUR DATA
-path: public/static/notes/denissebn_06/08-13-2021/how-we-recollect-our-data.md
+tagnames: landfill, data, lang:es, weather, field, project, spanish, air-quality-testing, air-quality-monitoring, VVAMP, prompt:vvamp
+author: denissebn_06
+path: /notes/denissebn_06/08-13-2021/how-we-recollect-our-data.md
+nid: 27515
 uid: 749988
-tagnames: landfill,data,lang:es,weather,field,project,spanish,air-quality-testing,air-quality-monitoring,VVAMP,prompt:vvamp
+
 ---
 
 # HOW WE RECOLLECT OUR DATA
+
+by [denissebn_06](../profile/denissebn_06) August 13, 2021 23:53
+
+August 13, 2021 23:53 | Tags: [landfill](../tag/landfill), [data](../tag/data), [lang:es](../tag/lang:es), [weather](../tag/weather), [field](../tag/field), [project](../tag/project), [spanish](../tag/spanish), [air-quality-testing](../tag/air-quality-testing), [air-quality-monitoring](../tag/air-quality-monitoring), [VVAMP](../tag/VVAMP), [prompt:vvamp](../tag/prompt:vvamp)
 
 <div class="alert alert-info" role="alert"> <a href="https://publiclab.org/notes/denissebn_06/08-13-2021/how-we-recollect-our-data?_=1628899059#Recolectando+datos+del+clima">Haz click aqui para leer el contenido de esta página en español</a>.</div>
 

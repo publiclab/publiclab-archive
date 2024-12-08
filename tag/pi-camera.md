@@ -1,6 +1,6 @@
 # pi-camera
 
-51 notes and wiki pages
+51 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Raspberry Pi-in-the-sky](/notes/donblair/9-20-2012/raspberry-pi-sky) by [donblair](../profile/donblair)
 - [SnapPiCam: a Raspberry Pi Point & Shoot](/notes/mathew/02-12-2014/snappicam-a-raspberry-pi-point-shoot) by [mathew](../profile/mathew)

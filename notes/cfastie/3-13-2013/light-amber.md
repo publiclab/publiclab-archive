@@ -1,12 +1,18 @@
 ---
-nid: 6318
 title: Light Amber
-path: public/static/notes/cfastie/3-13-2013/light-amber.md
+tagnames: spectrometer, vermont, spectralworkbench, ebert, absorption, syrup, activity:spectrometry, activity:science-fair
+author: cfastie
+path: /notes/cfastie/3-13-2013/light-amber.md
+nid: 6318
 uid: 554
-tagnames: spectrometer,vermont,spectralworkbench,ebert,absorption,syrup,activity:spectrometry,activity:science-fair
+
 ---
 
 # Light Amber
+
+by [cfastie](../profile/cfastie) March 13, 2013 19:39
+
+March 13, 2013 19:39 | Tags: [spectrometer](../tag/spectrometer), [vermont](../tag/vermont), [spectralworkbench](../tag/spectralworkbench), [ebert](../tag/ebert), [absorption](../tag/absorption), [syrup](../tag/syrup), [activity:spectrometry](../tag/activity:spectrometry), [activity:science-fair](../tag/activity:science-fair)
 
 Maple syrup grades are determined by the color of the syrup. The lightest colors are less common because they generally require sap from the beginning of the sugaring season which often has a higher sugar content.  The color is caused by heat, especially during the later stages of evaporation when sugars are concentrated and the boiling point of the syrup approaches 220° F.  Sap with a higher sugar content can be made into syrup with less heating, and therefore can produce lighter syrup. Efficient processing can also reduce heating time and produce lighter syrup.
 

@@ -1,12 +1,18 @@
 ---
-nid: 13295
 title: WebJack: Testers needed!
-path: public/static/notes/rmeister/07-18-2016/webjack-testers-needed.md
+tagnames: arduino, alphatest, sensors, gsoc, barnstar:basic, webjack, headphone-jack, category:build, include, activity:webjack
+author: rmeister
+path: /notes/rmeister/07-18-2016/webjack-testers-needed.md
+nid: 13295
 uid: 468994
-tagnames: arduino,alphatest,sensors,gsoc,barnstar:basic,webjack,headphone-jack,category:build,include,activity:webjack
+
 ---
 
 # WebJack: Testers needed!
+
+by [rmeister](../profile/rmeister) July 18, 2016 11:52
+
+July 18, 2016 11:52 | Tags: [arduino](../tag/arduino), [alphatest](../tag/alphatest), [sensors](../tag/sensors), [gsoc](../tag/gsoc), [barnstar:basic](../tag/barnstar:basic), [webjack](../tag/webjack), [headphone-jack](../tag/headphone-jack), [category:build](../tag/category:build), [include](../tag/include), [activity:webjack](../tag/activity:webjack)
 
 This is a tutorial on how to test WebJack.
 

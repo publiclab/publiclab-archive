@@ -1,12 +1,18 @@
 ---
-nid: 10410
 title: GSoC blog on the project of revamping the Mapkniiter tool.
-path: public/static/notes/anishshah101/05-04-2014/gsoc-blog-on-the-project-of-revamping-the-mapkniiter-tool.md
+tagnames: mapknitter, gsoc, leaflet, developers, code, gsoc-2014
+author: anishshah101
+path: /notes/anishshah101/05-04-2014/gsoc-blog-on-the-project-of-revamping-the-mapkniiter-tool.md
+nid: 10410
 uid: 421046
-tagnames: mapknitter,gsoc,leaflet,developers,code,gsoc-2014
+
 ---
 
 # GSoC blog on the project of revamping the Mapkniiter tool.
+
+by [anishshah101](../profile/anishshah101) May 04, 2014 06:26
+
+May 04, 2014 06:26 | Tags: [mapknitter](../tag/mapknitter), [gsoc](../tag/gsoc), [leaflet](../tag/leaflet), [developers](../tag/developers), [code](../tag/code), [gsoc-2014](../tag/gsoc-2014)
 
 Hi!
 

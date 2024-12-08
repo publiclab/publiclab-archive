@@ -1,12 +1,18 @@
 ---
-nid: 12090
 title: "Ecohackers: These kids track pollution with balloons and kites"
-path: public/static/notes/stevie/07-22-2015/ecohackers-these-kids-track-pollution-with-balloons-and-kites.md
-uid: 422561
 tagnames: blog
+author: stevie
+path: /notes/stevie/07-22-2015/ecohackers-these-kids-track-pollution-with-balloons-and-kites.md
+nid: 12090
+uid: 422561
+
 ---
 
 # "Ecohackers: These kids track pollution with balloons and kites"
+
+by [stevie](../profile/stevie) July 22, 2015 14:41
+
+July 22, 2015 14:41 | Tags: [blog](../tag/blog)
 
 **Check out this column by Chris Berdik in [The Hechinger Report](http://hechingerreport.org/ecohackers-these-kids-track-pollution-with-balloons-and-kites/)**
 

@@ -1,12 +1,18 @@
 ---
-nid: 633
 title: Video spectrometer troubleshooting
-path: public/static/wiki/video-spectrometer-troubleshooting.md
+tagnames: spectrometer, troubleshooting
+author: warren
+path: /wiki/video-spectrometer-troubleshooting.md
+nid: 633
 uid: 1
-tagnames: spectrometer,troubleshooting
+
 ---
 
 # Video spectrometer troubleshooting
+
+by [warren](../profile/warren)
+
+December 13, 2011 21:51 | Tags: [spectrometer](../tag/spectrometer), [troubleshooting](../tag/troubleshooting)
 
 ###I can't remove the cap or turn the lens!###
 

@@ -1,12 +1,18 @@
 ---
-nid: 1786
 title: 100 Maps
-path: public/static/notes/gonzoearth/4-25-2012/100-maps.md
+tagnames: balloon-mapping, near-infrared-camera, kite-mapping
+author: gonzoearth
+path: /notes/gonzoearth/4-25-2012/100-maps.md
+nid: 1786
 uid: 12
-tagnames: balloon-mapping,near-infrared-camera,kite-mapping
+
 ---
 
 # 100 Maps
+
+by [gonzoearth](../profile/gonzoearth) April 25, 2012 18:56
+
+April 25, 2012 18:56 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping)
 
 There are now 100 published maps in the Public Laboratory Archive!
 

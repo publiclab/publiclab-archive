@@ -1,12 +1,18 @@
 ---
-nid: 14048
 title: How to evaluate and choose an advocacy pathway
-path: public/static/notes/stevie/03-22-2017/how-to-evaluate-and-choose-an-advocacy-pathway.md
+tagnames: workshop, organizing, barnstar:basic, advocacy, seeks:replications, activity:advocacy-pathways, advocacy-pathways, activity:community-organizing, activity:advocacy, start-advocacy
+author: stevie
+path: /notes/stevie/03-22-2017/how-to-evaluate-and-choose-an-advocacy-pathway.md
+nid: 14048
 uid: 422561
-tagnames: workshop,organizing,barnstar:basic,advocacy,seeks:replications,activity:advocacy-pathways,advocacy-pathways,activity:community-organizing,activity:advocacy,start-advocacy
+
 ---
 
 # How to evaluate and choose an advocacy pathway
+
+by [stevie](../profile/stevie) March 22, 2017 19:48
+
+March 22, 2017 19:48 | Tags: [workshop](../tag/workshop), [organizing](../tag/organizing), [barnstar:basic](../tag/barnstar:basic), [advocacy](../tag/advocacy), [seeks:replications](../tag/seeks:replications), [activity:advocacy-pathways](../tag/activity:advocacy-pathways), [advocacy-pathways](../tag/advocacy-pathways), [activity:community-organizing](../tag/activity:community-organizing), [activity:advocacy](../tag/activity:advocacy), [start-advocacy](../tag/start-advocacy)
 
 ##Workshop: Evaluating and Choosing Advocacy Pathways 
 

@@ -1,6 +1,6 @@
 # web-development
 
-46 notes and wiki pages
+46 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Update June-July (web-development)](/notes/cindyexcites/8-3-2012/update-june-july-web-development) by [cindy_excites](../profile/cindy_excites)
 - [2015 Web Working Group report](/notes/warren/01-14-2015/2015-web-working-group-report) by [warren](../profile/warren)
@@ -36,15 +36,9 @@
 - [Use Git and GitHub to contribute and improve Public Lab software](/notes/warren/11-22-2017/use-git-and-github-to-contribute-and-improve-public-lab-software) by [warren](../profile/warren)
 - [How can we get hashtags on research notes so they are found on Twitter?](/notes/Zengirl2/12-12-2017/how-can-we-get-hashtags-on-research-notes-so-they-are-found-on-twitter) by [zengirl2](../profile/zengirl2)
 - [Web Working Group Update 21: January 2018](/notes/warren/02-05-2018/web-working-group-update-21-january-2018) by [warren](../profile/warren)
-- [Information Process Solution (IPS USA)](/notes/lizabeth/03-15-2018/information-process-solution-ips-usa) by [lizabeth](../profile/lizabeth)
-- [Result Driven Web Development Solutions for Your Business](/notes/sarahrob/05-18-2018/result-driven-web-development-solutions-for-your-business) by [sarahrob](../profile/sarahrob)
 - [Web Working Group Update 22: June 2018](/notes/warren/06-08-2018/web-working-group-update-22-june-2018) by [warren](../profile/warren)
 - [Web Working Group Update 23: August 2018](/notes/warren/08-30-2018/web-working-group-update-23-august-2018) by [warren](../profile/warren)
 - [Public Lab Code Community Report: Jan 2019](/notes/warren/01-02-2019/public-lab-code-community-report-jan-2019) by [warren](../profile/warren)
-- [Skoda kodiaq ](/notes/skoda_kodiaq/01-02-2019/skoda-kodiaq) by [skoda_kodiaq](../profile/skoda_kodiaq)
-- [Grow Your Business With Right Solution - Sani IT-Consultant](/notes/saniitconsultant/02-13-2019/grow-your-business-with-right-solution-sani-it-consultant) by [saniitconsultant](../profile/saniitconsultant)
 - [Software Community Growth through "first-timers-only" issues](/notes/gauravano/03-29-2019/software-community-growth-through-first-timers-only-issues) by [gauravano](../profile/gauravano)
 - [Public Lab Code Community Report: April 2019](/notes/warren/04-19-2019/public-lab-code-community-report-april-2019) by [warren](../profile/warren)
 - [How can I create and work on my own issue in Github? ](/notes/bsugar/05-12-2019/how-can-i-create-and-work-on-my-own-issue-in-github) by [bsugar](../profile/bsugar)
-- [Mass Event Management Site for Schools and Universities ](/notes/manojnaidu619/06-14-2019/mass-event-management-site-for-schools-and-universities) by [manojnaidu619](../profile/manojnaidu619)
-- [The Full-Service Web Design and Development Company You're Looking For](/notes/insigniawm/04-28-2021/the-full-service-web-design-and-development-company-you-re-looking-for) by [insigniawm](../profile/insigniawm)

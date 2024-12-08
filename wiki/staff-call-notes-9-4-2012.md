@@ -1,12 +1,18 @@
 ---
-nid: 3714
 title: Staff call notes 9 4 2012
-path: public/static/wiki/staff-call-notes-9-4-2012.md
-uid: 1
 tagnames: 
+author: warren
+path: /wiki/staff-call-notes-9-4-2012.md
+nid: 3714
+uid: 1
+
 ---
 
 # Staff call notes 9 4 2012
+
+by [warren](../profile/warren)
+
+September 10, 2012 17:36 | Tags: 
 
 ###Liz###
 * Goals - further outreach for spectrometer campaign, event organizing (as usual)

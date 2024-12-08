@@ -1,12 +1,18 @@
 ---
-nid: 17501
 title: For Us, by Us: A Network of Support for Puerto Rico
-path: public/static/notes/joyofsoy/11-09-2018/for-us-by-us-a-network-of-support-for-puerto-rico.md
+tagnames: disaster-preparedness, barnraising, hurricane, with:liz, puerto-rico, disaster-response, disaster-resilience, disaster-recovery, crisis-convening, csf14, series:crisis-convening, hurricane-maria, with:ayakom
+author: joyofsoy
+path: /notes/joyofsoy/11-09-2018/for-us-by-us-a-network-of-support-for-puerto-rico.md
+nid: 17501
 uid: 540844
-tagnames: disaster-preparedness,barnraising,hurricane,with:liz,puerto-rico,disaster-response,disaster-resilience,disaster-recovery,crisis-convening,csf14,series:crisis-convening,hurricane-maria,with:ayakom
+
 ---
 
 # For Us, by Us: A Network of Support for Puerto Rico
+
+by [joyofsoy](../profile/joyofsoy) November 09, 2018 20:04
+
+November 09, 2018 20:04 | Tags: [disaster-preparedness](../tag/disaster-preparedness), [barnraising](../tag/barnraising), [hurricane](../tag/hurricane), [with:liz](../tag/with:liz), [puerto-rico](../tag/puerto-rico), [disaster-response](../tag/disaster-response), [disaster-resilience](../tag/disaster-resilience), [disaster-recovery](../tag/disaster-recovery), [crisis-convening](../tag/crisis-convening), [csf14](../tag/csf14), [series:crisis-convening](../tag/series:crisis-convening), [hurricane-maria](../tag/hurricane-maria), [with:ayakom](../tag/with:ayakom)
 
 **On the second day of the Crisis Convening, participants Raquela Delgado Valentín, Luís Rodriguez, Jessica Santos López gave an overview of mutual aid and other efforts in Puerto Rico since Hurricane Maria. This article is adapted from transcript notes taken by Liz Barry, Willow Brugh, and Ayako Maruyama.**
 

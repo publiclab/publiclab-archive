@@ -1,12 +1,18 @@
 ---
-nid: 9948
 title: Using PhotosynQ as general purpose tool for detecting contaminants
-path: public/static/notes/gbathree/01-15-2014/using-photosynq-as-general-purpose-tool-for-detecting-contaminants.md
+tagnames: spectrometer, fluorescence, photosynthesis, photosynq
+author: gbathree
+path: /notes/gbathree/01-15-2014/using-photosynq-as-general-purpose-tool-for-detecting-contaminants.md
+nid: 9948
 uid: 53164
-tagnames: spectrometer,fluorescence,photosynthesis,photosynq
+
 ---
 
 # Using PhotosynQ as general purpose tool for detecting contaminants
+
+by [gbathree](../profile/gbathree) January 15, 2014 18:00
+
+January 15, 2014 18:00 | Tags: [spectrometer](../tag/spectrometer), [fluorescence](../tag/fluorescence), [photosynthesis](../tag/photosynthesis), [photosynq](../tag/photosynq)
 
 If you haven't heard of PhotosynQ, it's a platform for measing plant health with a focus on plant photosynthesis.  Our group has been working on this problem for 20+ years, so the design is pretty darn good with high accuracy and low noise.  The device itself (we call it the MultispeQ) has 2 pin photodiodes which detect light, one is IR only and the other is visible light only.  It also has room for about 7 LEDs which can be configured on either side of the detector (ie light passes through sample into the detector, or light relfects off the sample back to the detector).
 

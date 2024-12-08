@@ -1,12 +1,18 @@
 ---
-nid: 13658
 title: WebJack
-path: public/static/wiki/webjack.md
+tagnames: arduino, sensors, tool, datalogger, arduino-uno, webjack, headphone-jack, activities:webjack, upgrades:webjack, method, electronic-sensors
+author: rmeister
+path: /wiki/webjack.md
+nid: 13658
 uid: 468994
-tagnames: arduino,sensors,tool,datalogger,arduino-uno,webjack,headphone-jack,activities:webjack,upgrades:webjack,method,electronic-sensors
+
 ---
 
 # WebJack
+
+by [warren](../profile/warren), [rmeister](../profile/rmeister)
+
+October 27, 2016 19:11 | Tags: [arduino](../tag/arduino), [sensors](../tag/sensors), [tool](../tag/tool), [datalogger](../tag/datalogger), [arduino-uno](../tag/arduino-uno), [webjack](../tag/webjack), [headphone-jack](../tag/headphone-jack), [activities:webjack](../tag/activities:webjack), [upgrades:webjack](../tag/upgrades:webjack), [method](../tag/method), [electronic-sensors](../tag/electronic-sensors)
 
 ## What Does It Do?
 

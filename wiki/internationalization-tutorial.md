@@ -1,12 +1,18 @@
 ---
-nid: 13380
 title: Internationalization | Tutorial
-path: public/static/wiki/internationalization-tutorial.md
-uid: 468400
 tagnames: 
+author: jiteshxyz
+path: /wiki/internationalization-tutorial.md
+nid: 13380
+uid: 468400
+
 ---
 
 # Internationalization | Tutorial
+
+by [mariakatosvich](../profile/mariakatosvich), [jiteshxyz](../profile/jiteshxyz)
+
+August 22, 2016 15:18 | Tags: 
 
 #Internationalization or "I18n"
 

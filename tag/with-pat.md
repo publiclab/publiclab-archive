@@ -1,6 +1,6 @@
 # with-pat
 
-12 notes and wiki pages
+12 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Frac Sand Mining: The community fight ](/notes/stevie/01-21-2016/frac-sand-mining-the-community-fight) by [stevie](../profile/stevie)
 - [Interview with Pat Popple](/notes/mlamadrid/06-21-2016/interview-with-pat-popple) by [mlamadrid](../profile/mlamadrid)

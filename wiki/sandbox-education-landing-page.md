@@ -1,12 +1,18 @@
 ---
-nid: 19493
 title: sandbox-education-landing-page
-path: public/static/wiki/sandbox-education-landing-page.md
-uid: 579821
 tagnames: 
+author: mimiss
+path: /wiki/sandbox-education-landing-page.md
+nid: 19493
+uid: 579821
+
 ---
 
 # sandbox-education-landing-page
+
+by [mimiss](../profile/mimiss)
+
+May 22, 2019 18:14 | Tags: 
 
 ### Goal: to create a streamlined page for education-related peeps to land. 
 

@@ -1,12 +1,18 @@
 ---
-nid: 19112
 title: Pipeline Webinar
-path: public/static/wiki/pipeline-webinar.md
+tagnames: monitoring, webinar, oil-and-gas, pipelines, pipeline-monitoring, parent:pipeline
+author: warren
+path: /wiki/pipeline-webinar.md
+nid: 19112
 uid: 1
-tagnames: monitoring,webinar,oil-and-gas,pipelines,pipeline-monitoring,parent:pipeline
+
 ---
 
 # Pipeline Webinar
+
+by [warren](../profile/warren)
+
+April 18, 2019 20:31 | Tags: [monitoring](../tag/monitoring), [webinar](../tag/webinar), [oil-and-gas](../tag/oil-and-gas), [pipelines](../tag/pipelines), [pipeline-monitoring](../tag/pipeline-monitoring), [parent:pipeline](../tag/parent:pipeline)
 
 This wiki page contains all of the published videos in the "Civilian Monitoring of Pipelines in Louisiana" series.  These webinars were  created and compiled by Alahna Moore as a part of Public Lab's _oil and gas accountability fellowship_.  
 

@@ -1,12 +1,18 @@
 ---
-nid: 13762
 title: Kite making
-path: public/static/wiki/kite-making.md
+tagnames: balloon-mapping, kite-mapping, aerial-photography, diy-kite, kites, list:grassrootsmapping, aerial-mapping, kite-making, activities:kite-making, parent:aerial-photography
+author: warren
+path: /wiki/kite-making.md
+nid: 13762
 uid: 1
-tagnames: balloon-mapping,kite-mapping,aerial-photography,diy-kite,kites,list:grassrootsmapping,aerial-mapping,kite-making,activities:kite-making,parent:aerial-photography
+
 ---
 
 # Kite making
+
+by [warren](../profile/warren)
+
+December 07, 2016 23:33 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [aerial-photography](../tag/aerial-photography), [diy-kite](../tag/diy-kite), [kites](../tag/kites), [list:grassrootsmapping](../tag/list:grassrootsmapping), [aerial-mapping](../tag/aerial-mapping), [kite-making](../tag/kite-making), [activities:kite-making](../tag/activities:kite-making), [parent:aerial-photography](../tag/parent:aerial-photography)
 
 If you can't get balloons, helium, or if it's just too windy (more than about 5mph or 10kph wind) for #balloon-mapping, consider lifting a camera up on a kite. Kites are cheap and available through most of the world, and they're easy to build if you can't find one big enough. 
 

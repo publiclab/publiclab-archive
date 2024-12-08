@@ -1,12 +1,18 @@
 ---
-nid: 58
 title: Kinect for 3d mapping from a car
-path: public/static/notes/warren/1-24-2011/kinect-3d-mapping-car.md
+tagnames: 3d, kinect
+author: warren
+path: /notes/warren/1-24-2011/kinect-3d-mapping-car.md
+nid: 58
 uid: 1
-tagnames: 3d,kinect
+
 ---
 
 # Kinect for 3d mapping from a car
+
+by [warren](../profile/warren) January 24, 2011 21:16
+
+January 24, 2011 21:16 | Tags: [3d](../tag/3d), [kinect](../tag/kinect)
 
 http://blog.decoratorpattern.com/2011/01/23/real-world-mapping-with-the-kinect/
 

@@ -1,12 +1,18 @@
 ---
-nid: 11478
 title: Holiday Promotion at the Public Lab Store
-path: public/static/notes/Natalie/12-17-2014/holiday-promotion-at-the-public-lab-store.md
-uid: 424454
 tagnames: sales
+author: natalie
+path: /notes/Natalie/12-17-2014/holiday-promotion-at-the-public-lab-store.md
+nid: 11478
+uid: 424454
+
 ---
 
 # Holiday Promotion at the Public Lab Store
+
+by [natalie](../profile/natalie) December 17, 2014 20:31
+
+December 17, 2014 20:31 | Tags: [sales](../tag/sales)
 
 ##**Specials on kits including Spectrometers, Filters, and Balloon Kits**
 It's that time of the year and the season of giving is in full swing here at Public Lab. Right now we are giving the gift of open source science with additional savings on DIY environmental monitoring tools. Our injection molded, rigid, plastic, one of a kind Smartphone Spectrometer is on sale for $40. This handy little device quickly and easily assembles to attach to your smartphone's camera turning it into a mobile spectrometer. The perfect gift for a budding field scientist, student of molecular chemistry or for just bringing the family and friends together around the kitchen table or outside. (Coming soon, a Festivus Low Aerial Mapping Pole for the rest of us.)

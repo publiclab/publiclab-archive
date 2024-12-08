@@ -1,12 +1,18 @@
 ---
-nid: 12073
 title: More re: small pocket sled kite for Mobius camera
-path: public/static/notes/patcoyle/07-17-2015/more-re-small-pocket-sled-kite-for-mobius-camera.md
+tagnames: kap, sled-kite, gimp, mobius-actioncam
+author: patcoyle
+path: /notes/patcoyle/07-17-2015/more-re-small-pocket-sled-kite-for-mobius-camera.md
+nid: 12073
 uid: 77
-tagnames: kap,sled-kite,gimp,mobius-actioncam
+
 ---
 
 # More re: small pocket sled kite for Mobius camera
+
+by [patcoyle](../profile/patcoyle) July 17, 2015 05:19
+
+July 17, 2015 05:19 | Tags: [kap](../tag/kap), [sled-kite](../tag/sled-kite), [gimp](../tag/gimp), [mobius-actioncam](../tag/mobius-actioncam)
 
 ###What I want to do
 Continue to explore smaller kites for use with [Mobius Infragram plant cam](http://publiclab.org/wiki/infragram-point-shoot). [See prior note.

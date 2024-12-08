@@ -1,6 +1,6 @@
 # metadata
 
-10 notes and wiki pages
+10 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Infrablue minutiae](/notes/cfastie/07-17-2013/infrablue-minutiae) by [cfastie](../profile/cfastie)
 - [OpenAerialMap, Open Imagery Network & Public Lab's MapKnitter](/notes/warren/05-29-2015/openaerialmap-open-imagery-network-public-lab-s-mapknitter) by [warren](../profile/warren)

@@ -1,12 +1,18 @@
 ---
-nid: 10321
 title: Kite Mapping Tips
-path: public/static/wiki/kite-mapping-tips.md
+tagnames: kite-mapping, guide, quick-start, parent:kite-mapping
+author: warren
+path: /wiki/kite-mapping-tips.md
+nid: 10321
 uid: 1
-tagnames: kite-mapping,guide,quick-start,parent:kite-mapping
+
 ---
 
 # Kite Mapping Tips
+
+by [mathew](../profile/mathew), [warren](../profile/warren)
+
+April 16, 2014 20:14 | Tags: [kite-mapping](../tag/kite-mapping), [guide](../tag/guide), [quick-start](../tag/quick-start), [parent:kite-mapping](../tag/parent:kite-mapping)
 
 ##tips for trouble-free kite mapping
 

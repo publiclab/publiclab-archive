@@ -1,12 +1,18 @@
 ---
-nid: 15841
 title: Low-power timer upgrade
-path: public/static/notes/cfastie/03-01-2018/low-power-timer-upgrade.md
+tagnames: arduino, sensors, activity:data-logging, mini-pearl-logger, activity:data-logging-power, tpl5110, low-power-logging, log-a-long-timer, activity:log-a-long-timer
+author: cfastie
+path: /notes/cfastie/03-01-2018/low-power-timer-upgrade.md
+nid: 15841
 uid: 554
-tagnames: arduino,sensors,activity:data-logging,mini-pearl-logger,activity:data-logging-power,tpl5110,low-power-logging,log-a-long-timer,activity:log-a-long-timer
+
 ---
 
 # Low-power timer upgrade
+
+by [cfastie](../profile/cfastie) March 01, 2018 01:30
+
+March 01, 2018 01:30 | Tags: [arduino](../tag/arduino), [sensors](../tag/sensors), [activity:data-logging](../tag/activity:data-logging), [mini-pearl-logger](../tag/mini-pearl-logger), [activity:data-logging-power](../tag/activity:data-logging-power), [tpl5110](../tag/tpl5110), [low-power-logging](../tag/low-power-logging), [log-a-long-timer](../tag/log-a-long-timer), [activity:log-a-long-timer](../tag/activity:log-a-long-timer)
 
 The [Log-a-Long Timer](https://publiclab.org/tag/log-a-long-timer) is a home-made circuit for controlling data loggers and other electronics which can be powered down between discrete events. Data loggers can last a long time on small batteries if they use power only when they are reading sensors and saving data to an SD card. Arduino-based data loggers work well with this type of timer because they start running their program (sketch) as soon as they are turned on, and can tolerate having the power cut abruptly.
 

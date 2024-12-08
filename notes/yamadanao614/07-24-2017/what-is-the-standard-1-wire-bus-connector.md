@@ -1,12 +1,18 @@
 ---
-nid: 14676
 title: What is the standard 1-wire bus connector?
-path: public/static/notes/yamadanao614/07-24-2017/what-is-the-standard-1-wire-bus-connector.md
-uid: 511444
 tagnames: question:general
+author: yamadanao614
+path: /notes/yamadanao614/07-24-2017/what-is-the-standard-1-wire-bus-connector.md
+nid: 14676
+uid: 511444
+
 ---
 
 # What is the standard 1-wire bus connector?
+
+by [yamadanao614](../profile/yamadanao614) July 24, 2017 09:00
+
+July 24, 2017 09:00 | Tags: [question:general](../tag/question:general)
 
 What is the normal connector that people put at the end of a long cable with a MAX31820 / DS18B20 (link deleted by admin) temperature sensor at the other end? What is the normal connector that people solder to the PCB when they intend such a cable to be plugged into that PCB?
 

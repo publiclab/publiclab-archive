@@ -1,12 +1,18 @@
 ---
-nid: 11398
 title: Talk science to me - Kenny and Don audtion for Public Lab TV
-path: public/static/notes/laurenrae/11-24-2014/talk-science-to-me-kenny-and-don-audtion-for-public-lab-tv.md
+tagnames: gulf-coast, video, water-sensing, riffle, engagement, coqui
+author: laurenrae
+path: /notes/laurenrae/11-24-2014/talk-science-to-me-kenny-and-don-audtion-for-public-lab-tv.md
+nid: 11398
 uid: 431676
-tagnames: gulf-coast,video,water-sensing,riffle,engagement,coqui
+
 ---
 
 # Talk science to me - Kenny and Don audtion for Public Lab TV
+
+by [laurenrae](../profile/laurenrae) November 24, 2014 15:35
+
+November 24, 2014 15:35 | Tags: [gulf-coast](../tag/gulf-coast), [video](../tag/video), [water-sensing](../tag/water-sensing), [riffle](../tag/riffle), [engagement](../tag/engagement), [coqui](../tag/coqui)
 
 ###What I want to do
 

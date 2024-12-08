@@ -1,12 +1,18 @@
 ---
-nid: 4725
 title: Results: Simple Aerial Photomapping session, EWB Regional Workshop
-path: public/static/notes/patcoyle/11-1-2012/results-simple-aerial-photomapping-session-ewb-regional-workshop.md
+tagnames: ndvi, bap, ewb
+author: patcoyle
+path: /notes/patcoyle/11-1-2012/results-simple-aerial-photomapping-session-ewb-regional-workshop.md
+nid: 4725
 uid: 77
-tagnames: ndvi,bap,ewb
+
 ---
 
 # Results: Simple Aerial Photomapping session, EWB Regional Workshop
+
+by [patcoyle](../profile/patcoyle) November 01, 2012 05:24
+
+November 01, 2012 05:24 | Tags: [ndvi](../tag/ndvi), [bap](../tag/bap), [ewb](../tag/ewb)
 
 I did a workshop at Engineers Without Borders Regional Conference at Cal Poly on 10/20/12. I've done this last three years, on the Peninsula, at YouTube's HQ, in Portland, and now at Cal Poly. I also presented a poster at EWB-USA International Conference.
 

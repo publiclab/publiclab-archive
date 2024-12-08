@@ -1,12 +1,18 @@
 ---
-nid: 14838
 title: Irma
-path: public/static/wiki/irma.md
+tagnames: disaster-response, hurricanes, irma
+author: liz
+path: /wiki/irma.md
+nid: 14838
 uid: 7
-tagnames: disaster-response,hurricanes,irma
+
 ---
 
 # Irma
+
+by [liz](../profile/liz), [stevie](../profile/stevie), [warren](../profile/warren)
+
+September 07, 2017 14:08 | Tags: [disaster-response](../tag/disaster-response), [hurricanes](../tag/hurricanes), [irma](../tag/irma)
 
 A resources collecting page for Hurricane Irma response; we are **not** an emergency service provider, but non-emergency **questions, requests, inquiries, report-ins, offers of help or capacity** are welcome.
 

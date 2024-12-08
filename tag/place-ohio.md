@@ -1,6 +1,6 @@
 # place-ohio
 
-3 notes and wiki pages
+3 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [DIY conductivity Sensors](/notes/roberts_ecofarm/10-24-2018/diy-conductivity-sensors) by [roberts_ecofarm](../profile/roberts_ecofarm)
 - [Inexpensive conductivity probe for drinking water monitoring network](/notes/roberts_ecofarm/10-24-2018/inexpensive-conductivity-probe-for-drinking-water-monitoring-network) by [roberts_ecofarm](../profile/roberts_ecofarm)

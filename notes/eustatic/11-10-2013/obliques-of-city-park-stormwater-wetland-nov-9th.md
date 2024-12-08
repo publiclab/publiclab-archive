@@ -1,12 +1,18 @@
 ---
-nid: 9758
 title: Obliques of City Park Stormwater wetland Nov 9th
-path: public/static/notes/eustatic/11-10-2013/obliques-of-city-park-stormwater-wetland-nov-9th.md
+tagnames: gulf-coast, kite-mapping, polemapping, pole-mapping, flood, stormwater
+author: eustatic
+path: /11-10-2013/obliques-of-city-park-stormwater-wetland-nov-9th.md
+nid: 9758
 uid: 379
-tagnames: gulf-coast,kite-mapping,polemapping,pole-mapping,flood,stormwater
+
 ---
 
 # Obliques of City Park Stormwater wetland Nov 9th
+
+by [eustatic](../profile/eustatic) November 10, 2013 00:32
+
+November 10, 2013 00:32 | Tags: [gulf-coast](../tag/gulf-coast), [kite-mapping](../tag/kite-mapping), [polemapping](../tag/polemapping), [pole-mapping](../tag/pole-mapping), [flood](../tag/flood), [stormwater](../tag/stormwater)
 
 ###What I want to do
 

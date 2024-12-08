@@ -1,12 +1,18 @@
 ---
-nid: 30070
 title: How can community science results be integrated into environmental indicator reports and screening tools?
-path: public/static/notes/fongvania/02-22-2022/how-can-community-science-results-be-integrated-into-environmental-indicator-reports-and-screening-tools.md
+tagnames: question:general, general, environmental-tools, environmental-monitoring
+author: fongvania
+path: /notes/fongvania/02-22-2022/how-can-community-science-results-be-integrated-into-environmental-indicator-reports-and-screening-tools.md
+nid: 30070
 uid: 754846
-tagnames: question:general,general,environmental-tools,environmental-monitoring
+
 ---
 
 # How can community science results be integrated into environmental indicator reports and screening tools?
+
+by [fongvania](../profile/fongvania) February 22, 2022 01:12
+
+February 22, 2022 01:12 | Tags: [question:general](../tag/question:general), [general](../tag/general), [environmental-tools](../tag/environmental-tools), [environmental-monitoring](../tag/environmental-monitoring)
 
 Screening tools are useful ways to combine multiple environmental, socioeconomic, and health indicators and identify specific areas with disproportionate burdens. Some examples of these tools include [CalEnviroScreen](https://oehha.ca.gov/calenviroscreen), [EJScreen](
 https://www.epa.gov/ejscreen). There's also an extensive list of indicators and related resources developed by [Community Indicators Consortium](https://communityindicators.net/resources/)

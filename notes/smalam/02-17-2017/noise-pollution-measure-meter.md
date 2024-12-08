@@ -1,12 +1,18 @@
 ---
-nid: 13938
 title: Noise Pollution measure meter 
-path: public/static/notes/smalam/02-17-2017/noise-pollution-measure-meter.md
+tagnames: staff, contact, question:general
+author: smalam
+path: /notes/smalam/02-17-2017/noise-pollution-measure-meter.md
+nid: 13938
 uid: 503036
-tagnames: staff,contact,question:general
+
 ---
 
 # Noise Pollution measure meter 
+
+by [smalam](../profile/smalam) February 17, 2017 02:42
+
+February 17, 2017 02:42 | Tags: [staff](../tag/staff), [contact](../tag/contact), [question:general](../tag/question:general)
 
 ### Support for Noise Pollution measure meter 
 

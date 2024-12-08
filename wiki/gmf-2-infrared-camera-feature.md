@@ -1,12 +1,18 @@
 ---
-nid: 2541
 title: GMF 2 infrared camera feature
-path: public/static/wiki/gmf-2-infrared-camera-feature.md
-uid: 1
 tagnames: near-infrared-camera
+author: warren
+path: /wiki/gmf-2-infrared-camera-feature.md
+nid: 2541
+uid: 1
+
 ---
 
 # GMF 2 infrared camera feature
+
+by [mathew](../profile/mathew), [warren](../profile/warren), [cfastie](../profile/cfastie)
+
+June 18, 2012 18:51 | Tags: [near-infrared-camera](../tag/near-infrared-camera)
 
 <a href="https://www.flickr.com/photos/jeffreywarren/7166622545/" title="infrared camera hack poster sketches by jeferonix, on Flickr"><img src="https://farm8.staticflickr.com/7102/7166622545_5b9b4c68c5.jpg" width="500" height="375" alt="infrared camera hack poster sketches"></a>
 

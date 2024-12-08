@@ -1,12 +1,16 @@
 ---
-nid: 17211
 title: dashboard-sidebar
-path: public/static/feature/dashboard-sidebar.md
-uid: 1
 tagnames: 
+author: warren
+path: /feature/dashboard-sidebar.md
+nid: 17211
+uid: 1
+
 ---
 
 # dashboard-sidebar
+
+October 02, 2018 22:07 | Tags: 
 
 <p>The easiest way to start with Public Lab community is to <b>ask a question</b>.</p>
 

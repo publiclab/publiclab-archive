@@ -1,12 +1,18 @@
 ---
-nid: 16368
 title: GOOGLE SUMMER OF CODE & PUBLIC LABS
-path: public/static/notes/bansal_sidharth2996/05-19-2018/google-summer-of-code-public-labs.md
-uid: 503599
 tagnames: 
+author: bansal_sidharth2996
+path: /notes/bansal_sidharth2996/05-19-2018/google-summer-of-code-public-labs.md
+nid: 16368
+uid: 503599
+
 ---
 
 # GOOGLE SUMMER OF CODE & PUBLIC LABS
+
+by [bansal_sidharth2996](../profile/bansal_sidharth2996) May 19, 2018 16:07
+
+May 19, 2018 16:07 | Tags: 
 
 When I heard I got selected in GSOC 18 with Public Labs I was jumping and dancing. That day was one of the happiest moments of my life. 
 This post is how I get selected in GSOC with Public Labs.

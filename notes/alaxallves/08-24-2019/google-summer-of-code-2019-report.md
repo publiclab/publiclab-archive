@@ -1,12 +1,18 @@
 ---
-nid: 20656
 title: Google Summer of Code 2019 Report
-path: public/static/notes/alaxallves/08-24-2019/google-summer-of-code-2019-report.md
+tagnames: mapknitter, gsoc, google, barnstar:excessive-enthusiasm, report, 2019, rails-6, gsoc2019, googlesummerofcode, gsoc-2019-final-report
+author: alaxallves
+path: /notes/alaxallves/08-24-2019/google-summer-of-code-2019-report.md
+nid: 20656
 uid: 577447
-tagnames: mapknitter,gsoc,google,barnstar:excessive-enthusiasm,report,2019,rails-6,gsoc2019,googlesummerofcode,gsoc-2019-final-report
+
 ---
 
 # Google Summer of Code 2019 Report
+
+by [alaxallves](../profile/alaxallves) August 24, 2019 19:18
+
+August 24, 2019 19:18 | Tags: [mapknitter](../tag/mapknitter), [gsoc](../tag/gsoc), [google](../tag/google), [barnstar:excessive-enthusiasm](../tag/barnstar:excessive-enthusiasm), [report](../tag/report), [2019](../tag/2019), [rails-6](../tag/rails-6), [gsoc2019](../tag/gsoc2019), [googlesummerofcode](../tag/googlesummerofcode), [gsoc-2019-final-report](../tag/gsoc-2019-final-report)
 
 # What is a MapKnitter
 

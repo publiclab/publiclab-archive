@@ -1,12 +1,18 @@
 ---
-nid: 15846
 title: RGSoC proposal: Rich Editor Extras
-path: public/static/notes/soniya2903/03-01-2018/rgsoc-proposal-rich-editor-extras.md
+tagnames: software, gsoc, soc, response:13975, gsoc-2018, soc-2018, rgsoc-2018, soc-2018-proposals
+author: soniya2903
+path: /notes/soniya2903/03-01-2018/rgsoc-proposal-rich-editor-extras.md
+nid: 15846
 uid: 526441
-tagnames: software,gsoc,soc,response:13975,gsoc-2018,soc-2018,rgsoc-2018,soc-2018-proposals
+
 ---
 
 # RGSoC proposal: Rich Editor Extras
+
+by [soniya2903](../profile/soniya2903) March 01, 2018 12:05
+
+March 01, 2018 12:05 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [soc](../tag/soc), [response:13975](../tag/response:13975), [gsoc-2018](../tag/gsoc-2018), [soc-2018](../tag/soc-2018), [rgsoc-2018](../tag/rgsoc-2018), [soc-2018-proposals](../tag/soc-2018-proposals)
 
 (This template is for students applying to summer code programs with Public Lab. Use this link to start writing a post: [https://publiclab.org/post?n=899&tags=soc,soc-2018,soc-2018-proposals](https://publiclab.org/post?n=899&tags=soc,soc-2018,soc-2018-proposals) You can delete this line once you've started filling it out.)
 

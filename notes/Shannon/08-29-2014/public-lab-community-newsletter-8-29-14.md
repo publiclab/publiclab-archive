@@ -1,12 +1,18 @@
 ---
-nid: 11086
 title: Public Lab community newsletter 8.29.14
-path: public/static/notes/Shannon/08-29-2014/public-lab-community-newsletter-8-29-14.md
+tagnames: newsletter, newsletter-archive
+author: Shannon
+path: /notes/Shannon/08-29-2014/public-lab-community-newsletter-8-29-14.md
+nid: 11086
 uid: 9
-tagnames: newsletter,newsletter-archive
+
 ---
 
 # Public Lab community newsletter 8.29.14
+
+by [Shannon](../profile/Shannon) August 29, 2014 14:49
+
+August 29, 2014 14:49 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
 
 This week in the Public Lab community newsletter, get ready for events in Atlanta, New Orleans and Salisbury (Vermont) and participate in the upcoming OpenHour. Enjoy!
 

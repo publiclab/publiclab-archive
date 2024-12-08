@@ -1,12 +1,18 @@
 ---
-nid: 10471
 title: Public Lab Chicago and Chicago Ideas Week
-path: public/static/wiki/public-lab-chicago-and-chicago-ideas-week.md
+tagnames: event, chicago, civiclab
+author: bsugar
+path: /wiki/public-lab-chicago-and-chicago-ideas-week.md
+nid: 10471
 uid: 217812
-tagnames: event,chicago,civiclab
+
 ---
 
 # Public Lab Chicago and Chicago Ideas Week
+
+by [bsugar](../profile/bsugar)
+
+May 13, 2014 22:40 | Tags: [event](../tag/event), [chicago](../tag/chicago), [civiclab](../tag/civiclab)
 
 ### Summary
 

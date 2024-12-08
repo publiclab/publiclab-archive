@@ -1,12 +1,18 @@
 ---
-nid: 17038
 title: Citizen log v1
-path: public/static/notes/imvec/09-02-2018/citizen-log-v1.md
+tagnames: reporting, air-quality, water-quality, odor, activity:odor, activity:water
+author: imvec
+path: /notes/imvec/09-02-2018/citizen-log-v1.md
+nid: 17038
 uid: 495038
-tagnames: reporting,air-quality,water-quality,odor,activity:odor,activity:water
+
 ---
 
 # Citizen log v1
+
+by [imvec](../profile/imvec) September 02, 2018 13:33
+
+September 02, 2018 13:33 | Tags: [reporting](../tag/reporting), [air-quality](../tag/air-quality), [water-quality](../tag/water-quality), [odor](../tag/odor), [activity:odor](../tag/activity:odor), [activity:water](../tag/activity:water)
 
 ### What we want to do
 To set a worldwide Online Pollution Reporting Tool, free, open and as private as possible.

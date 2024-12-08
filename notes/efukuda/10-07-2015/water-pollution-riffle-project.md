@@ -1,12 +1,18 @@
 ---
-nid: 12274
 title: Water Pollution (Riffle) Project
-path: public/static/notes/efukuda/10-07-2015/water-pollution-riffle-project.md
-uid: 453502
 tagnames: 
+author: efukuda
+path: /notes/efukuda/10-07-2015/water-pollution-riffle-project.md
+nid: 12274
+uid: 453502
+
 ---
 
 # Water Pollution (Riffle) Project
+
+by [efukuda](../profile/efukuda) October 07, 2015 13:02
+
+October 07, 2015 13:02 | Tags: 
 
 ###What I want to do
 Project semester goal(s):

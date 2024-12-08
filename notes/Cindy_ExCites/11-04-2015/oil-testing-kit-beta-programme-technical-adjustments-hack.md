@@ -1,12 +1,18 @@
 ---
-nid: 12368
 title: Oil testing kit Beta programme - Technical adjustments (hack!)
-path: public/static/notes/Cindy_ExCites/11-04-2015/oil-testing-kit-beta-programme-technical-adjustments-hack.md
+tagnames: spectrometer, fluorescence, oil-testing-kit, oil-testing-kit-beta, response:12348
+author: cindy_excites
+path: /notes/Cindy_ExCites/11-04-2015/oil-testing-kit-beta-programme-technical-adjustments-hack.md
+nid: 12368
 uid: 1083
-tagnames: spectrometer,fluorescence,oil-testing-kit,oil-testing-kit-beta,response:12348
+
 ---
 
 # Oil testing kit Beta programme - Technical adjustments (hack!)
+
+by [cindy_excites](../profile/cindy_excites) November 04, 2015 22:40
+
+November 04, 2015 22:40 | Tags: [spectrometer](../tag/spectrometer), [fluorescence](../tag/fluorescence), [oil-testing-kit](../tag/oil-testing-kit), [oil-testing-kit-beta](../tag/oil-testing-kit-beta), [response:12348](../tag/response:12348)
 
 [Oil testing kit Beta programme](http://publiclab.org/notes/ygzstc/07-14-2015/oil-testing-kit-beta-program) - Technical adjustments to Public Lab Spectrometer 3.0
 

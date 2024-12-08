@@ -1,12 +1,18 @@
 ---
-nid: 13088
 title: Quantum Yield calculations for Fluorescein in Potassium bromide
-path: public/static/notes/dhaffnersr/05-07-2016/quantum-yield-calculations-for-fluorescein-in-potassium-bromide.md
-uid: 461120
 tagnames: 
+author: dhaffnersr
+path: /notes/dhaffnersr/05-07-2016/quantum-yield-calculations-for-fluorescein-in-potassium-bromide.md
+nid: 13088
+uid: 461120
+
 ---
 
 # Quantum Yield calculations for Fluorescein in Potassium bromide
+
+by [dhaffnersr](../profile/dhaffnersr) May 07, 2016 16:01
+
+May 07, 2016 16:01 | Tags: 
 
 I finally figured out how to calculate the quantum yield for a sample, so using the raw data from the Oregon Medical Laser Center's spectral data (which thanks to Warren and his upgrade to the CSV beta upload, now it is very easy to upload this raw emission data and use it in a meaningful way.)
 

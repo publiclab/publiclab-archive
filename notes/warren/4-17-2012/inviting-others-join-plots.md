@@ -1,12 +1,18 @@
 ---
-nid: 1693
 title: Inviting others to join PLOTS
-path: public/static/notes/warren/4-17-2012/inviting-others-join-plots.md
+tagnames: community, licensing, open-hardware, cern-ohl
+author: warren
+path: /notes/warren/4-17-2012/inviting-others-join-plots.md
+nid: 1693
 uid: 1
-tagnames: community,licensing,open-hardware,cern-ohl
+
 ---
 
 # Inviting others to join PLOTS
+
+by [warren](../profile/warren) April 17, 2012 19:14
+
+April 17, 2012 19:14 | Tags: [community](../tag/community), [licensing](../tag/licensing), [open-hardware](../tag/open-hardware), [cern-ohl](../tag/cern-ohl)
 
 Now that we have the [CERN Open Hardware License](/wiki/open-hardware-licensing) on our registration page, I feel much more excited about inviting new people to join PLOTS -- so I just did so with a list of Kickstarter backers on the Balloon Mapping Kit project. Now any new user is asked to open source not only the content, but the hardware designs they publish on the site.
 

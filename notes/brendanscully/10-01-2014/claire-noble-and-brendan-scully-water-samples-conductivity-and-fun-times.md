@@ -1,12 +1,18 @@
 ---
-nid: 11220
 title: Claire Nobles and Brendan Scully - Water Samples, Conductivity, and Fun Times 
-path: public/static/notes/brendanscully/10-01-2014/claire-noble-and-brendan-scully-water-samples-conductivity-and-fun-times.md
-uid: 428089
 tagnames: first-time-poster
+author: brendanscully
+path: /notes/brendanscully/10-01-2014/claire-noble-and-brendan-scully-water-samples-conductivity-and-fun-times.md
+nid: 11220
+uid: 428089
+
 ---
 
 # Claire Nobles and Brendan Scully - Water Samples, Conductivity, and Fun Times 
+
+by [brendanscully](../profile/brendanscully) October 01, 2014 15:55
+
+October 01, 2014 15:55 | Tags: [first-time-poster](../tag/first-time-poster)
 
 Below is the link to our previous post about the process of getting our water samples. 
 

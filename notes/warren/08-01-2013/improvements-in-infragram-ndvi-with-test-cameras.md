@@ -1,12 +1,18 @@
 ---
-nid: 8950
 title: Improvements in Infragram NDVI with test cameras
-path: public/static/notes/warren/08-01-2013/improvements-in-infragram-ndvi-with-test-cameras.md
+tagnames: near-infrared-camera, ndvi, infrared, infragram, infrablue, tests, response:8261, infragram-conversion, annazubkova2009jem
+author: warren
+path: /notes/warren/08-01-2013/improvements-in-infragram-ndvi-with-test-cameras.md
+nid: 8950
 uid: 1
-tagnames: near-infrared-camera,ndvi,infrared,infragram,infrablue,tests,response:8261,infragram-conversion,annazubkova2009jem
+
 ---
 
 # Improvements in Infragram NDVI with test cameras
+
+by [warren](../profile/warren) August 01, 2013 06:39
+
+August 01, 2013 06:39 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [infrared](../tag/infrared), [infragram](../tag/infragram), [infrablue](../tag/infrablue), [tests](../tag/tests), [response:8261](../tag/response:8261), [infragram-conversion](../tag/infragram-conversion), [annazubkova2009jem](../tag/annazubkova2009jem)
 
 I'd had [a lot of trouble](/notes/warren/06-18-2013/continuing-difficulties-with-infrablue-in-cheaper-cmos-cameras) getting good [infragram](/wiki/infragram) photos due to the blue channels leaking a lot of infrared light, meaning that the red and blue channels we compare to measure chlorophyll were not well differentiated. [Chris Fastie](/profile/cfastie) posted some great notes about how histograms can be used to assess how differentiated channels are, on a whole-image basis, which is not the same as per-pixel, but is a good rough gauge. (i.e. red and blue could have similar histograms but not share any pixels, and it'd still be well differentiated, but this is not super likely)
 

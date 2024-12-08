@@ -1,12 +1,18 @@
 ---
-nid: 20537
 title: Sandbox projects
-path: public/static/wiki/sandbox-projects.md
-uid: 1
 tagnames: 
+author: warren
+path: /wiki/sandbox-projects.md
+nid: 20537
+uid: 1
+
 ---
 
 # Sandbox projects
+
+by [liz](../profile/liz), [warren](../profile/warren)
+
+August 15, 2019 17:21 | Tags: 
 
 Community science projects begin when frontline leaders facing environmental injustice set goals and go about producing the knowledge needed for self-determination. Projects follow a non-linear trajectory that may include organizing, mobilization, empirical documentation, and [advocacy](/sandbox-advocacy) based on the results.
 

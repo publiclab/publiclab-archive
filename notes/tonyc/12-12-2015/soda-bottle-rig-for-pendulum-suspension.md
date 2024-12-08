@@ -1,12 +1,18 @@
 ---
-nid: 12502
 title: soda bottle rig for pendulum suspension
-path: public/static/notes/tonyc/12-12-2015/soda-bottle-rig-for-pendulum-suspension.md
-uid: 447491
 tagnames: diy-mount-kit
+author: tonyc
+path: /notes/tonyc/12-12-2015/soda-bottle-rig-for-pendulum-suspension.md
+nid: 12502
+uid: 447491
+
 ---
 
 # soda bottle rig for pendulum suspension
+
+by [tonyc](../profile/tonyc) December 12, 2015 00:05
+
+December 12, 2015 00:05 | Tags: [diy-mount-kit](../tag/diy-mount-kit)
 
 ###What I want to do
 

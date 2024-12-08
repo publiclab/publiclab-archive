@@ -1,12 +1,18 @@
 ---
-nid: 30099
 title: Edwight and Shumate 3/4/22
-path: public/static/notes/junior_walk1337/03-04-2022/edwight-and-shumate-3-4-22.md
+tagnames: drones, coal-mining, coal, mmmp
+author: junior_walk1337
+path: /notes/junior_walk1337/03-04-2022/edwight-and-shumate-3-4-22.md
+nid: 30099
 uid: 756318
-tagnames: drones,coal-mining,coal,mmmp
+
 ---
 
 # Edwight and Shumate 3/4/22
+
+by [junior_walk1337](../profile/junior_walk1337) March 04, 2022 20:45
+
+March 04, 2022 20:45 | Tags: [drones](../tag/drones), [coal-mining](../tag/coal-mining), [coal](../tag/coal), [mmmp](../tag/mmmp)
 
 <iframe width="1280" height="676" src="https://www.youtube.com/embed/zlvRKl7p__c" frameborder="0" allowfullscreen=""></iframe>
 

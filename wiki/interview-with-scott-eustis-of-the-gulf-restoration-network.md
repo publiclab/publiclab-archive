@@ -1,12 +1,18 @@
 ---
-nid: 11564
 title: Interview with Scott Eustis of the Gulf Restoration Network
-path: public/static/wiki/interview-with-scott-eustis-of-the-gulf-restoration-network.md
+tagnames: grassrootsmapping, gulf-restoration-network, chandeleur-islands, grassrootsmappingforum, with:shannon, style:fancy, with:eustatic, gmf-2
+author: mollydanielsson
+path: /wiki/interview-with-scott-eustis-of-the-gulf-restoration-network.md
+nid: 11564
 uid: 1259
-tagnames: grassrootsmapping,gulf-restoration-network,chandeleur-islands,grassrootsmappingforum,with:shannon,style:fancy,with:eustatic,gmf-2
+
 ---
 
 # Interview with Scott Eustis of the Gulf Restoration Network
+
+by [mollydanielsson](../profile/mollydanielsson)
+
+February 08, 2015 01:02 | Tags: [grassrootsmapping](../tag/grassrootsmapping), [gulf-restoration-network](../tag/gulf-restoration-network), [chandeleur-islands](../tag/chandeleur-islands), [grassrootsmappingforum](../tag/grassrootsmappingforum), [with:shannon](../tag/with:shannon), [style:fancy](../tag/style:fancy), [with:eustatic](../tag/with:eustatic), [gmf-2](../tag/gmf-2)
 
 **Shannon Dosemagen and Scott discuss the shifting sands and fortunes of the Mississippi Delta and the Chandeleur Islands**
 

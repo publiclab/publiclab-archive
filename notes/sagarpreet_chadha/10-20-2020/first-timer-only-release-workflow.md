@@ -1,12 +1,18 @@
 ---
-nid: 24773
 title: First-timer-only release workflow
-path: public/static/notes/sagarpreet_chadha/10-20-2020/first-timer-only-release-workflow.md
+tagnames: software, developers, seeks:replications, activity:software, soc, activity:soc, lon:77, first-time-poster, lat:12, zoom:6
+author: sagarpreet_chadha
+path: /notes/sagarpreet_chadha/10-20-2020/first-timer-only-release-workflow.md
+nid: 24773
 uid: 725408
-tagnames: software,developers,seeks:replications,activity:software,soc,activity:soc,lon:77,first-time-poster,lat:12,zoom:6
+
 ---
 
 # First-timer-only release workflow
+
+by [sagarpreet_chadha](../profile/sagarpreet_chadha) October 20, 2020 08:26
+
+October 20, 2020 08:26 | Tags: [software](../tag/software), [developers](../tag/developers), [seeks:replications](../tag/seeks:replications), [activity:software](../tag/activity:software), [soc](../tag/soc), [activity:soc](../tag/activity:soc), [lon:77](../tag/lon:77), [first-time-poster](../tag/first-time-poster), [lat:12](../tag/lat:12), [zoom:6](../tag/zoom:6)
 
 # What is this program about?
 

@@ -1,12 +1,18 @@
 ---
-nid: 9983
 title: Public Lab Mascot Tryouts
-path: public/static/notes/donblair/01-27-2014/public-lab-mascot-tryouts.md
-uid: 43651
 tagnames: 
+author: donblair
+path: /notes/donblair/01-27-2014/public-lab-mascot-tryouts.md
+nid: 9983
+uid: 43651
+
 ---
 
 # Public Lab Mascot Tryouts
+
+by [donblair](../profile/donblair) January 27, 2014 04:39
+
+January 27, 2014 04:39 | Tags: 
 
 ###What I want to do
 

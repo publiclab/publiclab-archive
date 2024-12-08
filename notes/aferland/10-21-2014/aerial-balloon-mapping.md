@@ -1,12 +1,18 @@
 ---
-nid: 11287
 title: Aerial Balloon Mapping in Amherst, MA
-path: public/static/notes/aferland/10-21-2014/aerial-balloon-mapping.md
+tagnames: amherst, balloon-mapping-kit, massachusetts, urban-planning, umass-amherst, helium, northeast, amherst-media, publiclab-at-umass, makers-and-amherst-media, amherstcollege, helium-balloon, city-planning, first-time-poster
+author: aferland
+path: /notes/aferland/10-21-2014/aerial-balloon-mapping.md
+nid: 11287
 uid: 428191
-tagnames: amherst,balloon-mapping-kit,massachusetts,urban-planning,umass-amherst,helium,northeast,amherst-media,publiclab-at-umass,makers-and-amherst-media,amherstcollege,helium-balloon,city-planning,first-time-poster
+
 ---
 
 # Aerial Balloon Mapping in Amherst, MA
+
+by [aferland](../profile/aferland) October 21, 2014 18:35
+
+October 21, 2014 18:35 | Tags: [amherst](../tag/amherst), [balloon-mapping-kit](../tag/balloon-mapping-kit), [massachusetts](../tag/massachusetts), [urban-planning](../tag/urban-planning), [umass-amherst](../tag/umass-amherst), [helium](../tag/helium), [northeast](../tag/northeast), [amherst-media](../tag/amherst-media), [publiclab-at-umass](../tag/publiclab-at-umass), [makers-and-amherst-media](../tag/makers-and-amherst-media), [amherstcollege](../tag/amherstcollege), [helium-balloon](../tag/helium-balloon), [city-planning](../tag/city-planning), [first-time-poster](../tag/first-time-poster)
 
 ##What I want to do
 Use one of the public labs DIY helium balloons to do mapping of a local invasive aquatic plant **Water Chestnut** and to help map in downtown Amherst to assist in **city planning**.

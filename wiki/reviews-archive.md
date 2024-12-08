@@ -1,12 +1,18 @@
 ---
-nid: 25290
 title: Research Area Reviews Archive
-path: public/static/wiki/reviews-archive.md
+tagnames: archive, reviews, research-area-review, parent:reviews
+author: bhamster
+path: /wiki/reviews-archive.md
+nid: 25290
 uid: 664477
-tagnames: archive,reviews,research-area-review,parent:reviews
+
 ---
 
 # Research Area Reviews Archive
+
+by [bhamster](../profile/bhamster)
+
+December 17, 2020 22:52 | Tags: [archive](../tag/archive), [reviews](../tag/reviews), [research-area-review](../tag/research-area-review), [parent:reviews](../tag/parent:reviews)
 
 **Watch recordings and see shared resources from Public Lab’s past research area review events here**
 

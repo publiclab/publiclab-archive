@@ -1,12 +1,18 @@
 ---
-nid: 20995
 title: Can we use an arduino to run a photodiode and interference filter to detect  bioluminescence?
-path: public/static/notes/omarion/09-26-2019/can-we-use-an-arduino-to-run-a-photodiode-and-interference-filter-to-detect-bioluminescence.md
+tagnames: arduino, code, question:question, question:arduino, question:water, water-sensor, first-time-poster, question:sensor, wateristic, question:wateristic, with:amallozzi
+author: omarion
+path: /notes/omarion/09-26-2019/can-we-use-an-arduino-to-run-a-photodiode-and-interference-filter-to-detect-bioluminescence.md
+nid: 20995
 uid: 622967
-tagnames: arduino,code,question:question,question:arduino,question:water,water-sensor,first-time-poster,question:sensor,wateristic,question:wateristic,with:amallozzi
+
 ---
 
 # Can we use an arduino to run a photodiode and interference filter to detect  bioluminescence?
+
+by [omarion](../profile/omarion) September 26, 2019 16:52
+
+September 26, 2019 16:52 | Tags: [arduino](../tag/arduino), [code](../tag/code), [question:question](../tag/question:question), [question:arduino](../tag/question:arduino), [question:water](../tag/question:water), [water-sensor](../tag/water-sensor), [first-time-poster](../tag/first-time-poster), [question:sensor](../tag/question:sensor), [wateristic](../tag/wateristic), [question:wateristic](../tag/question:wateristic), [with:amallozzi](../tag/with:amallozzi)
 
 Bioluminescence is a light thats emitted by living organisms. John Lee gives a really good explanation on  this. [http://photobiology.info/LeeBasicBiolum.html](http://photobiology.info/LeeBasicBiolum.html)
 

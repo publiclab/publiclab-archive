@@ -1,12 +1,18 @@
 ---
-nid: 13123
 title: Riffle first experience
-path: public/static/notes/ggallant/05-18-2016/riffle-first-experience.md
+tagnames: riffle, riffle-beta
+author: ggallant
+path: /notes/ggallant/05-18-2016/riffle-first-experience.md
+nid: 13123
 uid: 427373
-tagnames: riffle,riffle-beta
+
 ---
 
 # Riffle first experience
+
+by [ggallant](../profile/ggallant) May 18, 2016 12:22
+
+May 18, 2016 12:22 | Tags: [riffle](../tag/riffle), [riffle-beta](../tag/riffle-beta)
 
 ###What I want to do
 

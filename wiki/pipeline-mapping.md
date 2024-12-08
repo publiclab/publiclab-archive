@@ -1,12 +1,18 @@
 ---
-nid: 11411
 title: Pipeline Mapping
-path: public/static/wiki/pipeline-mapping.md
-uid: 421543
 tagnames: alberta
+author: ann
+path: /wiki/pipeline-mapping.md
+nid: 11411
+uid: 421543
+
 ---
 
 # Pipeline Mapping
+
+by [ann](../profile/ann)
+
+November 27, 2014 03:45 | Tags: [alberta](../tag/alberta)
 
 **Pipeline Mapping is a project in the [Western Canada](http://publiclab.org/wiki/western-canada) region.**
 

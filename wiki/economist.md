@@ -1,12 +1,18 @@
 ---
-nid: 15169
 title: Make a Public Lab spectrometer
-path: public/static/wiki/economist.md
+tagnames: spectrometry, water-quality, sidebar:featured, parent:spectrometry
+author: warren
+path: /wiki/economist.md
+nid: 15169
 uid: 1
-tagnames: spectrometry,water-quality,sidebar:featured,parent:spectrometry
+
 ---
 
 # Make a Public Lab spectrometer
+
+by [warren](../profile/warren)
+
+November 09, 2017 23:49 | Tags: [spectrometry](../tag/spectrometry), [water-quality](../tag/water-quality), [sidebar:featured](../tag/sidebar:featured), [parent:spectrometry](../tag/parent:spectrometry)
 
 If you've found your way here after cutting out a spectrometer from the Economist, welcome! 
 

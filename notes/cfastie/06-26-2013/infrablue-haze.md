@@ -1,12 +1,18 @@
 ---
-nid: 8456
 title: Infrablue Haze
-path: public/static/notes/cfastie/06-26-2013/infrablue-haze.md
+tagnames: near-infrared-camera, nrg, ndvi, passenger-pigeon, infrared, michigan, infragram, infrablue, gigapan, a810, activity:multispectral-imaging
+author: cfastie
+path: /notes/cfastie/06-26-2013/infrablue-haze.md
+nid: 8456
 uid: 554
-tagnames: near-infrared-camera,nrg,ndvi,passenger-pigeon,infrared,michigan,infragram,infrablue,gigapan,a810,activity:multispectral-imaging
+
 ---
 
 # Infrablue Haze
+
+by [cfastie](../profile/cfastie) June 26, 2013 19:05
+
+June 26, 2013 19:05 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [nrg](../tag/nrg), [ndvi](../tag/ndvi), [passenger-pigeon](../tag/passenger-pigeon), [infrared](../tag/infrared), [michigan](../tag/michigan), [infragram](../tag/infragram), [infrablue](../tag/infrablue), [gigapan](../tag/gigapan), [a810](../tag/a810), [activity:multispectral-imaging](../tag/activity:multispectral-imaging)
 
 <em>Image above:  False color infrared (NBG) image from an infrablue photo taken from a commercial airliner. Scene is looking south near Delta, Alaska at the dendritic erosional pattern of loess covered hills. Reddish patches are birch and aspen trees on the mostly south-facing slopes. North facing slopes are dominated by permafrost and support stunted muskeg and black spruce forests.</em>
 

@@ -1,12 +1,18 @@
 ---
-nid: 26156
 title: Wrapping up a research area review on soil contamination
-path: public/static/notes/bhamster/04-07-2021/wrapping-up-a-research-area-review-on-soil-contamination.md
+tagnames: soil, research, reviews, soil-contamination, research-area-review, pin:soil
+author: bhamster
+path: /notes/bhamster/04-07-2021/wrapping-up-a-research-area-review-on-soil-contamination.md
+nid: 26156
 uid: 664477
-tagnames: soil,research,reviews,soil-contamination,research-area-review,pin:soil
+
 ---
 
 # Wrapping up a research area review on soil contamination
+
+by [bhamster](../profile/bhamster) April 07, 2021 15:32
+
+April 07, 2021 15:32 | Tags: [soil](../tag/soil), [research](../tag/research), [reviews](../tag/reviews), [soil-contamination](../tag/soil-contamination), [research-area-review](../tag/research-area-review), [pin:soil](../tag/pin:soil)
 
 The seasons are turning over and we're wrapping up our most recent [research area review on soil contamination.](https://publiclab.org/notes/bhamster/01-25-2021/research-area-review-on-soil-events "https://publiclab.org/notes/bhamster/01-25-2021/research-area-review-on-soil-events")
 

@@ -1,12 +1,18 @@
 ---
-nid: 11694
 title: Spring Fling: Calibrating the Coqui
-path: public/static/notes/ddileona/03-20-2015/spring-fling-calibrating-the-coqui.md
+tagnames: gulf-coast, list:plots-waterquality, coqui
+author: ddileona
+path: /notes/ddileona/03-20-2015/spring-fling-calibrating-the-coqui.md
+nid: 11694
 uid: 436738
-tagnames: gulf-coast,list:plots-waterquality,coqui
+
 ---
 
 # Spring Fling: Calibrating the Coqui
+
+by [ddileona](../profile/ddileona) March 20, 2015 03:10
+
+March 20, 2015 03:10 | Tags: [gulf-coast](../tag/gulf-coast), [list:plots-waterquality](../tag/list:plots-waterquality), [coqui](../tag/coqui)
 
 Hello again!  I have more fun from the Spring Fling for you.
 

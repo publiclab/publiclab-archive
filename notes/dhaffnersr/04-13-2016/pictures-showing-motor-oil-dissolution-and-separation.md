@@ -1,12 +1,18 @@
 ---
-nid: 12968
 title: Pictures showing motor oil dissolution and separation
-path: public/static/notes/dhaffnersr/04-13-2016/pictures-showing-motor-oil-dissolution-and-separation.md
-uid: 461120
 tagnames: 
+author: dhaffnersr
+path: /notes/dhaffnersr/04-13-2016/pictures-showing-motor-oil-dissolution-and-separation.md
+nid: 12968
+uid: 461120
+
 ---
 
 # Pictures showing motor oil dissolution and separation
+
+by [dhaffnersr](../profile/dhaffnersr) April 13, 2016 19:03
+
+April 13, 2016 19:03 | Tags: 
 
 Here are some pictures showing what the samples look like after processing with the regent I used to process these oil samples:
 

@@ -1,12 +1,18 @@
 ---
-nid: 26830
 title: Meet Public Lab’s new Research Curation Fellows!
-path: public/static/notes/bhamster/06-15-2021/meet-public-lab-s-new-research-curation-fellows.md
+tagnames: research, fellows, research-curation-fellows
+author: bhamster
+path: /notes/bhamster/06-15-2021/meet-public-lab-s-new-research-curation-fellows.md
+nid: 26830
 uid: 664477
-tagnames: research,fellows,research-curation-fellows
+
 ---
 
 # Meet Public Lab’s new Research Curation Fellows!
+
+by [bhamster](../profile/bhamster) June 15, 2021 22:19
+
+June 15, 2021 22:19 | Tags: [research](../tag/research), [fellows](../tag/fellows), [research-curation-fellows](../tag/research-curation-fellows)
 
 **We are thrilled to welcome four new Research Curation Fellows to Public Lab this spring!** 🎉🎈🔬 Meet the brilliant people who will be growing community science resources on the environmental health topics of water, land, air, and organizing and advocacy over the next twelve months.
 

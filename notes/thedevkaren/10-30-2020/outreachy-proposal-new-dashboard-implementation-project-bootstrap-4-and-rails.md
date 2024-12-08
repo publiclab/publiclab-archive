@@ -1,12 +1,18 @@
 ---
-nid: 24872
 title: # Outreachy Proposal : New Dashboard Implementation Project: Bootstrap 4 and Rails
-path: public/static/notes/thedevkaren/10-30-2020/outreachy-proposal-new-dashboard-implementation-project-bootstrap-4-and-rails.md
-uid: 727770
 tagnames: first-time-poster
+author: thedevkaren
+path: /notes/thedevkaren/10-30-2020/outreachy-proposal-new-dashboard-implementation-project-bootstrap-4-and-rails.md
+nid: 24872
+uid: 727770
+
 ---
 
 # # Outreachy Proposal : New Dashboard Implementation Project: Bootstrap 4 and Rails
+
+by [thedevkaren](../profile/thedevkaren) October 30, 2020 11:11
+
+October 30, 2020 11:11 | Tags: [first-time-poster](../tag/first-time-poster)
 
 
 ## <b>About Me</b>

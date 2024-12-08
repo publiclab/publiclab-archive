@@ -1,12 +1,18 @@
 ---
-nid: 12574
 title: Measuring particulate matter from an airplane
-path: public/static/notes/bdebaque/01-10-2016/measuring-particulate-matter-from-an-airplane.md
+tagnames: particulate-sensing, quebec, canada, dustduino, dust-monitoring, espacelab, first-time-poster
+author: bdebaque
+path: /notes/bdebaque/01-10-2016/measuring-particulate-matter-from-an-airplane.md
+nid: 12574
 uid: 57052
-tagnames: particulate-sensing,quebec,canada,dustduino,dust-monitoring,espacelab,first-time-poster
+
 ---
 
 # Measuring particulate matter from an airplane
+
+by [bdebaque](../profile/bdebaque) January 10, 2016 14:58
+
+January 10, 2016 14:58 | Tags: [particulate-sensing](../tag/particulate-sensing), [quebec](../tag/quebec), [canada](../tag/canada), [dustduino](../tag/dustduino), [dust-monitoring](../tag/dust-monitoring), [espacelab](../tag/espacelab), [first-time-poster](../tag/first-time-poster)
 
 ###What I want to do
 We propose to build and adapt dustduino sensor for air flight collection of particulate matter. This project is a collaboration between Wings for science and EspaceLab (a fablab and a chapter of Public Lab located in Quebec city, Canada).

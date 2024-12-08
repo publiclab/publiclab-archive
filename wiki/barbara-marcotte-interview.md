@@ -1,12 +1,18 @@
 ---
-nid: 311
 title: Barbara Marcotte Interview
-path: public/static/wiki/barbara-marcotte-interview.md
-uid: 1
 tagnames: 
+author: warren
+path: /wiki/barbara-marcotte-interview.md
+nid: 311
+uid: 1
+
 ---
 
 # Barbara Marcotte Interview
+
+by [Shannon](../profile/Shannon), [warren](../profile/warren)
+
+June 01, 2011 15:15 | Tags: 
 
 _A shorter version of this interview was published in the first issue of the Grassroots Mapping Forum_
 

@@ -1,12 +1,16 @@
 ---
-nid: 17026
 title: header
-path: public/static/feature/header.md
-uid: 1
 tagnames: 
+author: warren
+path: /feature/header.md
+nid: 17026
+uid: 1
+
 ---
 
 # header
+
+August 30, 2018 17:55 | Tags: 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-180781-33"></script>

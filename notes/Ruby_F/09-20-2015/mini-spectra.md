@@ -1,12 +1,18 @@
 ---
-nid: 12233
 title: Mini Spectra
-path: public/static/notes/Ruby_F/09-20-2015/mini-spectra.md
-uid: 452070
 tagnames: 
+author: Ruby_F
+path: /notes/Ruby_F/09-20-2015/mini-spectra.md
+nid: 12233
+uid: 452070
+
 ---
 
 # Mini Spectra
+
+by [Ruby_F](../profile/Ruby_F) September 20, 2015 23:55
+
+September 20, 2015 23:55 | Tags: 
 
 ###What I want to do
 

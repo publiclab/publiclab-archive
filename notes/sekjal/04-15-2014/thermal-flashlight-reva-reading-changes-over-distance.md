@@ -1,12 +1,18 @@
 ---
-nid: 10309
 title: Thermal Flashlight REVA reading changes over distance
-path: public/static/notes/sekjal/04-15-2014/thermal-flashlight-reva-reading-changes-over-distance.md
+tagnames: thermal-photography, arduino, thermal-flashlight, thermal-fishing, thermal-fishing-bob, pcb, response:10094
+author: sekjal
+path: /notes/sekjal/04-15-2014/thermal-flashlight-reva-reading-changes-over-distance.md
+nid: 10309
 uid: 422460
-tagnames: thermal-photography,arduino,thermal-flashlight,thermal-fishing,thermal-fishing-bob,pcb,response:10094
+
 ---
 
 # Thermal Flashlight REVA reading changes over distance
+
+by [sekjal](../profile/sekjal) April 15, 2014 01:13
+
+April 15, 2014 01:13 | Tags: [thermal-photography](../tag/thermal-photography), [arduino](../tag/arduino), [thermal-flashlight](../tag/thermal-flashlight), [thermal-fishing](../tag/thermal-fishing), [thermal-fishing-bob](../tag/thermal-fishing-bob), [pcb](../tag/pcb), [response:10094](../tag/response:10094)
 
 ###What I want to do
 

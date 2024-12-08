@@ -1,12 +1,18 @@
 ---
-nid: 12360
 title: pole mapping kit ideas
-path: public/static/notes/tonyc/11-03-2015/pole-mapping-kit-ideas.md
+tagnames: polemapping, pole-photography, pole-mapping
+author: tonyc
+path: /notes/tonyc/11-03-2015/pole-mapping-kit-ideas.md
+nid: 12360
 uid: 447491
-tagnames: polemapping,pole-photography,pole-mapping
+
 ---
 
 # pole mapping kit ideas
+
+by [tonyc](../profile/tonyc) November 03, 2015 23:40
+
+November 03, 2015 23:40 | Tags: [polemapping](../tag/polemapping), [pole-photography](../tag/pole-photography), [pole-mapping](../tag/pole-mapping)
 
 I wanted to revisit the current Pole mapping kit, and look to improve stability and safety of the product. 
 

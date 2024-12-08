@@ -1,12 +1,18 @@
 ---
-nid: 13570
 title: Mapping the Waste Stream of Southern California
-path: public/static/wiki/mapping-the-waste-stream-of-southern-california.md
+tagnames: landfill, california, mapping, waste-management, waste, cartography-collective, los-angeles, landfills, socalwastestream, sandiego, santabarbara, longbeach, greenhousegas, greenhousegases, carto, southerncalifornia, prompt:socalwastestream, project, project:advocacy-with-maps
+author: sarasage
+path: /wiki/mapping-the-waste-stream-of-southern-california.md
+nid: 13570
 uid: 451398
-tagnames: landfill,california,mapping,waste-management,waste,cartography-collective,los-angeles,landfills,socalwastestream,sandiego,santabarbara,longbeach,greenhousegas,greenhousegases,carto,southerncalifornia,prompt:socalwastestream,project,project:advocacy-with-maps
+
 ---
 
 # Mapping the Waste Stream of Southern California
+
+by [stevie](../profile/stevie), [sarasage](../profile/sarasage), [warren](../profile/warren)
+
+October 17, 2016 18:42 | Tags: [landfill](../tag/landfill), [california](../tag/california), [mapping](../tag/mapping), [waste-management](../tag/waste-management), [waste](../tag/waste), [cartography-collective](../tag/cartography-collective), [los-angeles](../tag/los-angeles), [landfills](../tag/landfills), [socalwastestream](../tag/socalwastestream), [sandiego](../tag/sandiego), [santabarbara](../tag/santabarbara), [longbeach](../tag/longbeach), [greenhousegas](../tag/greenhousegas), [greenhousegases](../tag/greenhousegases), [carto](../tag/carto), [southerncalifornia](../tag/southerncalifornia), [prompt:socalwastestream](../tag/prompt:socalwastestream), [project](../tag/project), [project:advocacy-with-maps](../tag/project:advocacy-with-maps)
 
 ### About the issue and the project
 

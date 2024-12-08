@@ -1,12 +1,18 @@
 ---
-nid: 14793
 title: Personal Reflections from Appalachia Barnraising 2017
-path: public/static/notes/nanocaj/08-27-2017/personal-reflections-from-appalachia-barnraising-2017.md
+tagnames: community, barnraising, event, blog, datalogger, appalachia, blog-submission, appalachia-barnraising
+author: nanocaj
+path: /notes/nanocaj/08-27-2017/personal-reflections-from-appalachia-barnraising-2017.md
+nid: 14793
 uid: 513316
-tagnames: community,barnraising,event,blog,datalogger,appalachia,blog-submission,appalachia-barnraising
+
 ---
 
 # Personal Reflections from Appalachia Barnraising 2017
+
+by [nanocaj](../profile/nanocaj) August 27, 2017 02:41
+
+August 27, 2017 02:41 | Tags: [community](../tag/community), [barnraising](../tag/barnraising), [event](../tag/event), [blog](../tag/blog), [datalogger](../tag/datalogger), [appalachia](../tag/appalachia), [blog-submission](../tag/blog-submission), [appalachia-barnraising](../tag/appalachia-barnraising)
 
 A full five days before the Appalachia Barnraising, out of work for only three days, and I get an email from Stevie through the Public Lab listserv -- registration has been extended! I had no idea what a "Barnraising" or an "un-conference" was in this context, but after doing a little research on the website I make a quick decision that I should definitely get in my car and drive from western MA to Morgantown, WV for this event. Since I had lived in the Appalachians of southwest VA and had done some research on contaminated mine drainage, the theme of extreme resource extraction (such as mountaintop removal coal mining and natural gas fracking) really drew me in. Even more so was the opportunity to hear the personal stories of those directly affected by the dusty and cancer-causing air, flammable and polluted water, and who live in towns manipulated by out-of-town greed and a desperate need for local jobs. As best I could I prepared myself to not be an obvious out-of-touch academic and went forth with as little expectations as possible, with an open mind and ready to learn.
 

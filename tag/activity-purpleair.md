@@ -1,6 +1,6 @@
 # activity-purpleair
 
-3 notes and wiki pages
+3 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Download & Analyze Purple Air data](/notes/jiteovien/08-28-2018/download-analyze-your-purple-air-data) by [jiteovien](../profile/jiteovien)
 - [Setup your Purple Air](/notes/jiteovien/08-28-2018/setup-your-purple-air) by [jiteovien](../profile/jiteovien)

@@ -1,6 +1,6 @@
 # sensing
 
-13 notes and wiki pages
+13 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Actual Air – Sensing Bicycle Project in Somerville, MA](/notes/mike-styczynski/5-2-2011/actual-air-sensing-bicycle-project-somerville-ma) by [mike styczynski](../profile/mike styczynski)
 - [Video/Audio interface, Web page & Microcontroller](/notes/donblair/10-14-2012/videoaudio-interface-web-page-microcontroller) by [donblair](../profile/donblair)

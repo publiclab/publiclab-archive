@@ -1,12 +1,18 @@
 ---
-nid: 12359
 title: OTK Unboxing
-path: public/static/notes/Matej/11-03-2015/otk-unboxing.md
+tagnames: spectrometry, unboxing, otk
+author: Matej
+path: /notes/Matej/11-03-2015/otk-unboxing.md
+nid: 12359
 uid: 451808
-tagnames: spectrometry,unboxing,otk
+
 ---
 
 # OTK Unboxing
+
+by [Matej](../profile/Matej) November 03, 2015 17:58
+
+November 03, 2015 17:58 | Tags: [spectrometry](../tag/spectrometry), [unboxing](../tag/unboxing), [otk](../tag/otk)
 
 [![IMG_6426.JPG](https://i.publiclab.org/system/images/photos/000/012/363/medium/IMG_6426.JPG)](https://i.publiclab.org/system/images/photos/000/012/363/original/IMG_6426.JPG)
 

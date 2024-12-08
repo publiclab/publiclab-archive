@@ -1,12 +1,18 @@
 ---
-nid: 9303
 title: Public Lab community newsletter 9.8.13
-path: public/static/notes/Shannon/09-08-2013/public-lab-community-newsletter-9-8-13.md
+tagnames: newsletter, newsletter-archive
+author: Shannon
+path: /notes/Shannon/09-08-2013/public-lab-community-newsletter-9-8-13.md
+nid: 9303
 uid: 9
-tagnames: newsletter,newsletter-archive
+
 ---
 
 # Public Lab community newsletter 9.8.13
+
+by [Shannon](../profile/Shannon) September 08, 2013 21:38
+
+September 08, 2013 21:38 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
 
 This week in the Public Lab community newsletter, apply for travel support to the Public Lab barnraising in October, help out with the mid-year appeal and read about spotting oil contamination at the Gowanus Canal. Enjoy!
 

@@ -1,12 +1,18 @@
 ---
-nid: 567
 title: Frequently Asked Questions
-path: public/static/wiki/frequently-asked-questions.md
+tagnames: community, welcome, needs-revision
+author: Shannon
+path: /wiki/frequently-asked-questions.md
+nid: 567
 uid: 9
-tagnames: community,welcome,needs-revision
+
 ---
 
 # Frequently Asked Questions
+
+by [Becki](../profile/Becki), [warren](../profile/warren), [Shannon](../profile/Shannon)
+
+November 18, 2011 15:39 | Tags: [community](../tag/community), [welcome](../tag/welcome), [needs-revision](../tag/needs-revision)
 
 <div class="alert">This page needs revision</div>
 

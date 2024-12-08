@@ -1,12 +1,18 @@
 ---
-nid: 10942
 title: open-water-contributors
-path: public/static/wiki/open-water-contributors.md
-uid: 43651
 tagnames: 
+author: donblair
+path: /wiki/open-water-contributors.md
+nid: 10942
+uid: 43651
+
 ---
 
 # open-water-contributors
+
+by [donblair](../profile/donblair)
+
+July 21, 2014 21:34 | Tags: 
 
 - [Mary Martin](http://www.eos.unh.edu/Faculty/mem) - Research Assistant Professor at the Institute for the Study of Earth, Oceans, Space, University of New Hampshire
 - [Mark Green](https://www.plymouth.edu/center-for-the-environment/people/faculty-staff/mark-green/) - Assistant Professor of Hydrology, Center for the Environment, Plymouth State University

@@ -1,12 +1,18 @@
 ---
-nid: 1489
 title: Rough placement of Chandeleur map
-path: public/static/notes/warren/3-19-2012/rough-placement-chandeleur-map.md
-uid: 1
 tagnames: balloon-mapping
+author: warren
+path: /notes/warren/3-19-2012/rough-placement-chandeleur-map.md
+nid: 1489
+uid: 1
+
 ---
 
 # Rough placement of Chandeleur map
+
+by [warren](../profile/warren) March 19, 2012 23:41
+
+March 19, 2012 23:41 | Tags: [balloon-mapping](../tag/balloon-mapping)
 
 Preparing for the next issue of the Grassroots Mapping Forum; I managed to very roughly place our Chandeleur Islands map from May 9, 2010 on a 2008 NAIP (USGS) aerial photo of the area. Sands shift so fast in this region... yikes. 
 

@@ -1,12 +1,18 @@
 ---
-nid: 24079
 title: Seeking input on prioritizing Topic page updates
-path: public/static/notes/bhamster/07-02-2020/seeking-input-on-prioritizing-topic-page-updates.md
+tagnames: organizers, research, community-development, topics, research-area-review
+author: bhamster
+path: /notes/bhamster/07-02-2020/seeking-input-on-prioritizing-topic-page-updates.md
+nid: 24079
 uid: 664477
-tagnames: organizers,research,community-development,topics,research-area-review
+
 ---
 
 # Seeking input on prioritizing Topic page updates
+
+by [bhamster](../profile/bhamster) July 02, 2020 15:07
+
+July 02, 2020 15:07 | Tags: [organizers](../tag/organizers), [research](../tag/research), [community-development](../tag/community-development), [topics](../tag/topics), [research-area-review](../tag/research-area-review)
 
 Hello community members!
 

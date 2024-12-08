@@ -1,12 +1,18 @@
 ---
-nid: 13789
 title: Glossary of Terms 
-path: public/static/wiki/glossary-of-terms.md
-uid: 422561
 tagnames: 
+author: stevie
+path: /wiki/glossary-of-terms.md
+nid: 13789
+uid: 422561
+
 ---
 
 # Glossary of Terms 
+
+by [warren](../profile/warren), [stevie](../profile/stevie)
+
+December 15, 2016 16:54 | Tags: 
 
 This page has been moved here:
 

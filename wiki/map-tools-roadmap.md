@@ -1,12 +1,18 @@
 ---
-nid: 447
 title: PLOTS Map Toolkit
-path: public/static/wiki/map-tools-roadmap.md
-uid: 12
 tagnames: 
+author: gonzoearth
+path: /wiki/map-tools-roadmap.md
+nid: 447
+uid: 12
+
 ---
 
 # PLOTS Map Toolkit
+
+by [warren](../profile/warren), [gonzoearth](../profile/gonzoearth)
+
+August 29, 2011 18:58 | Tags: 
 
 <div class="alert">This page is out of date.</div>
 

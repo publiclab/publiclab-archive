@@ -1,6 +1,6 @@
 # activity-science-fair
 
-14 notes and wiki pages
+14 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Setup for UV Testing with Specrtrometer](/notes/joshmc/4-28-2012/setup-uv-testing-specrtrometer) by [JoshMc](../profile/JoshMc)
 - [Prototyping a kite for kids](/notes/oscar-brett/7-26-2012/prototyping-kite-kids) by [oscarbrett](../profile/oscarbrett)

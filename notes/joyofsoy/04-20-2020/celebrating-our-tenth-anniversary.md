@@ -1,12 +1,18 @@
 ---
-nid: 23422
 title: Celebrating our tenth anniversary
-path: public/static/notes/joyofsoy/04-20-2020/celebrating-our-tenth-anniversary.md
+tagnames: blog, anniversary, pl10
+author: joyofsoy
+path: /notes/joyofsoy/04-20-2020/celebrating-our-tenth-anniversary.md
+nid: 23422
 uid: 540844
-tagnames: blog,anniversary,pl10
+
 ---
 
 # Celebrating our tenth anniversary
+
+by [joyofsoy](../profile/joyofsoy) April 20, 2020 07:14
+
+April 20, 2020 07:14 | Tags: [blog](../tag/blog), [anniversary](../tag/anniversary), [pl10](../tag/pl10)
 
 [Learn more about the joint statement from Gulf South and national organizations about the tenth anniversary of the BP oil disaster.](https://www.bp10yearslater.com/)
 

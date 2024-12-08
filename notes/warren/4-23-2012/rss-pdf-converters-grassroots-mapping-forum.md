@@ -1,12 +1,18 @@
 ---
-nid: 1760
 title: RSS to PDF converters for the Grassroots Mapping Forum
-path: public/static/notes/warren/4-23-2012/rss-pdf-converters-grassroots-mapping-forum.md
+tagnames: gmf, website
+author: warren
+path: /notes/warren/4-23-2012/rss-pdf-converters-grassroots-mapping-forum.md
+nid: 1760
 uid: 1
-tagnames: gmf,website
+
 ---
 
 # RSS to PDF converters for the Grassroots Mapping Forum
+
+by [warren](../profile/warren) April 23, 2012 23:45
+
+April 23, 2012 23:45 | Tags: [gmf](../tag/gmf), [website](../tag/website)
 
 [Mathew](/people/mathew) suggested that we try to automate the creation of Grassroots Mapping Forum issues by sourcing them from the website -- so I looked into converters that can make nicely formatted PDFs from RSS feeds. Attached are a few i generated, and there are options:
 

@@ -1,12 +1,18 @@
 ---
-nid: 10649
 title: Presentation at FAB10 in Barcelona
-path: public/static/notes/warren/07-03-2014/presentation-at-fab10-in-barcelona.md
+tagnames: barcelona, spain, presentations, presentation, fab10
+author: warren
+path: /notes/warren/07-03-2014/presentation-at-fab10-in-barcelona.md
+nid: 10649
 uid: 1
-tagnames: barcelona,spain,presentations,presentation,fab10
+
 ---
 
 # Presentation at FAB10 in Barcelona
+
+by [warren](../profile/warren) July 03, 2014 08:35
+
+July 03, 2014 08:35 | Tags: [barcelona](../tag/barcelona), [spain](../tag/spain), [presentations](../tag/presentations), [presentation](../tag/presentation), [fab10](../tag/fab10)
 
 I'm presenting today at FAB10 (http://fab10.org) and wanted to share my presentation!
 

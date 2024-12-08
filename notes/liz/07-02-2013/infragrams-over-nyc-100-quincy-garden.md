@@ -1,12 +1,18 @@
 ---
-nid: 8612
 title: Infragrams over NYC: 100 Quincy Garden
-path: public/static/notes/liz/07-02-2013/infragrams-over-nyc-100-quincy-garden.md
+tagnames: new-york-city, near-infrared-camera, 5bf, five-borough-farm
+author: liz
+path: /notes/liz/07-02-2013/infragrams-over-nyc-100-quincy-garden.md
+nid: 8612
 uid: 7
-tagnames: new-york-city,near-infrared-camera,5bf,five-borough-farm
+
 ---
 
 # Infragrams over NYC: 100 Quincy Garden
+
+by [liz](../profile/liz) July 02, 2013 20:39
+
+July 02, 2013 20:39 | Tags: [new-york-city](../tag/new-york-city), [near-infrared-camera](../tag/near-infrared-camera), [5bf](../tag/5bf), [five-borough-farm](../tag/five-borough-farm)
 
 ##Hand-held photos taken at 100 Quincy Garden, Brooklyn
 

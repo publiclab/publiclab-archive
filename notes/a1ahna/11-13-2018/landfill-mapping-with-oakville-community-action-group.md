@@ -1,12 +1,18 @@
 ---
-nid: 17544
 title: Landfill mapping with Oakville Community Action Group
-path: public/static/notes/a1ahna/11-13-2018/landfill-mapping-with-oakville-community-action-group.md
+tagnames: gulf-coast, kite-mapping, wetlands, louisiana, landfill, plaquemines, location:blurred, oakville, lat:29.78, lon:-90.02, place:oakville
+author: a1ahna
+path: /notes/a1ahna/11-13-2018/landfill-mapping-with-oakville-community-action-group.md
+nid: 17544
 uid: 518193
-tagnames: gulf-coast,kite-mapping,wetlands,louisiana,landfill,plaquemines,location:blurred,oakville,lat:29.78,lon:-90.02,place:oakville
+
 ---
 
 # Landfill mapping with Oakville Community Action Group
+
+by [a1ahna](../profile/a1ahna) November 13, 2018 17:18
+
+November 13, 2018 17:18 | Tags: [gulf-coast](../tag/gulf-coast), [kite-mapping](../tag/kite-mapping), [wetlands](../tag/wetlands), [louisiana](../tag/louisiana), [landfill](../tag/landfill), [plaquemines](../tag/plaquemines), [location:blurred](../tag/location:blurred), [oakville](../tag/oakville), [lat:29.78](../tag/lat:29.78), [lon:-90.02](../tag/lon:-90.02), [place:oakville](../tag/place:oakville)
 
 The community of Oakville is located within Plaquemines Parish, approximately 10 miles south of New Orleans, Louisiana. The historically black community has been actively fighting against a massive construction debris landfill that has been operating outside of its permit since the 1980's and still today. Details of this ongoing saga can be read in [documentation from a 2006 lawsuit](https://caselaw.findlaw.com/la-court-of-appeal/1266256.html) (Oakville Community Action Group v. Plaquemines Parish Council), and [this Times Picayune article](https://www.nola.com/environment/index.ssf/2011/07/oakville_residents_face_new_fi.html) from early in 2011\.
 

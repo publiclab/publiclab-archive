@@ -1,12 +1,18 @@
 ---
-nid: 12827
 title: Google Summer of Code 2016: draft proposals
-path: public/static/notes/warren/03-10-2016/google-summer-of-code-2016-draft-proposals.md
+tagnames: software, gsoc, coding, seeks:responses, gsoc-2016, gsoc-2016-proposals
+author: warren
+path: /notes/warren/03-10-2016/google-summer-of-code-2016-draft-proposals.md
+nid: 12827
 uid: 1
-tagnames: software,gsoc,coding,seeks:responses,gsoc-2016,gsoc-2016-proposals
+
 ---
 
 # Google Summer of Code 2016: draft proposals
+
+by [warren](../profile/warren) March 10, 2016 19:19
+
+March 10, 2016 19:19 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [coding](../tag/coding), [seeks:responses](../tag/seeks:responses), [gsoc-2016](../tag/gsoc-2016), [gsoc-2016-proposals](../tag/gsoc-2016-proposals)
 
 Hello! If you're on some of the [Public Lab discussion lists](/lists), especially the [dev list](/wiki/developers), you may have seen a lot of chatter recently about [Google Summer of Code](https://summerofcode.withgoogle.com/), a program where Google funds students to work the summer on open source coding projects. This year, Public Lab was accepted (as we were in 2013 and 2014) and we've been helping prospective students choose projects [from our Ideas page](/wiki/gsoc-ideas) (thanks, @liz!).
 

@@ -1,12 +1,18 @@
 ---
-nid: 30581
 title: sandbox-contribute
-path: public/static/wiki/sandbox-contribute.md
-uid: 664477
 tagnames: 
+author: bhamster
+path: /wiki/sandbox-contribute.md
+nid: 30581
+uid: 664477
+
 ---
 
 # sandbox-contribute
+
+by [bhamster](../profile/bhamster)
+
+April 22, 2022 16:18 | Tags: 
 
 We’re so glad you’re here, thanks for your interest in getting involved with Public Lab! 👋🏽 🎈
 

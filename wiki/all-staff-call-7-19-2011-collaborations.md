@@ -1,12 +1,18 @@
 ---
-nid: 391
 title: all staff call 7 19 2011 collaborations
-path: public/static/wiki/all-staff-call-7-19-2011-collaborations.md
-uid: 1
 tagnames: 
+author: warren
+path: /wiki/all-staff-call-7-19-2011-collaborations.md
+nid: 391
+uid: 1
+
 ---
 
 # all staff call 7 19 2011 collaborations
+
+by [liz](../profile/liz), [warren](../profile/warren)
+
+July 19, 2011 21:48 | Tags: 
 
 ###Togo### 
 

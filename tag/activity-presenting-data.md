@@ -1,6 +1,6 @@
 # activity-presenting-data
 
-4 notes and wiki pages
+4 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Creating a Box Plot to Identify Potential Outliers Using CODAP](/notes/mimiss/06-18-2019/creating-a-boxplot-to-identify-outliers-using-codap) by [mimiss](../profile/mimiss)
 - [Data Visualization with Sheet Mapper: How to connect a live spreadsheet to a web map](/notes/laurel_mire/09-09-2021/data-visualization-with-sheet-mapper-how-to-connect-a-live-spreadsheet-to-a-web-map) by [laurel_mire](../profile/laurel_mire)

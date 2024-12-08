@@ -1,12 +1,18 @@
 ---
-nid: 11159
 title: Duty Cycles & 555s --> linearity!
-path: public/static/notes/donblair/09-18-2014/duty-cycles-555s-linearity.md
+tagnames: calibration, water-quality, conductivity, open-water, linearity, 555, coqui
+author: donblair
+path: /notes/donblair/09-18-2014/duty-cycles-555s-linearity.md
+nid: 11159
 uid: 43651
-tagnames: calibration,water-quality,conductivity,open-water,linearity,555,coqui
+
 ---
 
 # Duty Cycles & 555s --> linearity!
+
+by [donblair](../profile/donblair) September 18, 2014 15:11
+
+September 18, 2014 15:11 | Tags: [calibration](../tag/calibration), [water-quality](../tag/water-quality), [conductivity](../tag/conductivity), [open-water](../tag/open-water), [linearity](../tag/linearity), [555](../tag/555), [coqui](../tag/coqui)
 
 I had a great long chat with [Mark Brownawell](http://www.linkedin.com/pub/mark-brownawell/5/530/666) at the [Artisan's Aslylum](http://artisansasylum.com/site/).  Mark has a long career designing instruments, and he had great insights into every project idea I brought up.  Here's one of them:
 

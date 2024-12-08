@@ -1,12 +1,18 @@
 ---
-nid: 11745
 title: 5th Anniversary call for memories!
-path: public/static/notes/liz/04-06-2015/5th-anniversary-call-for-memories.md
+tagnames: community, events, event
+author: liz
+path: /notes/liz/04-06-2015/5th-anniversary-call-for-memories.md
+nid: 11745
 uid: 7
-tagnames: community,events,event
+
 ---
 
 # 5th Anniversary call for memories!
+
+by [liz](../profile/liz) April 06, 2015 13:01
+
+April 06, 2015 13:01 | Tags: [community](../tag/community), [events](../tag/events), [event](../tag/event)
 
 Hi, all! Jeff and I spent a little time remembering some of our favorite moments from over the past 5 years. 
 

@@ -1,12 +1,18 @@
 ---
-nid: 225
 title: Open Source Licenses
-path: public/static/wiki/licenses.md
+tagnames: open-hardware, licenses, openhardware, cernohl, creativecommons, cc-by-sa, contributing, sidebar:none
+author: warren
+path: /wiki/licenses.md
+nid: 225
 uid: 1
-tagnames: open-hardware,licenses,openhardware,cernohl,creativecommons,cc-by-sa,contributing,sidebar:none
+
 ---
 
 # Open Source Licenses
+
+by [cfastie](../profile/cfastie), [xose](../profile/xose), [getvrly](../profile/getvrly), [warren](../profile/warren), [Kayabajajdelhi](../profile/Kayabajajdelhi), [justtech](../profile/justtech), [carsuper66](../profile/carsuper66), [honglonga100](../profile/honglonga100)
+
+May 06, 2011 18:07 | Tags: [open-hardware](../tag/open-hardware), [licenses](../tag/licenses), [openhardware](../tag/openhardware), [cernohl](../tag/cernohl), [creativecommons](../tag/creativecommons), [cc-by-sa](../tag/cc-by-sa), [contributing](../tag/contributing), [sidebar:none](../tag/sidebar:none)
 
 ## Why Open Source?
 

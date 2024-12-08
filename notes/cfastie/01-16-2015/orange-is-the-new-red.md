@@ -1,12 +1,18 @@
 ---
-nid: 11527
 title: Orange is the new red
-path: public/static/notes/cfastie/01-16-2015/orange-is-the-new-red.md
+tagnames: ndvi, vermont, calibration, infrared, infragram, wratten25a, super-red, wratten15, response:9717, upgrade:multispectral-imaging
+author: cfastie
+path: /notes/cfastie/01-16-2015/orange-is-the-new-red.md
+nid: 11527
 uid: 554
-tagnames: ndvi,vermont,calibration,infrared,infragram,wratten25a,super-red,wratten15,response:9717,upgrade:multispectral-imaging
+
 ---
 
 # Orange is the new red
+
+by [cfastie](../profile/cfastie) January 16, 2015 21:57
+
+January 16, 2015 21:57 | Tags: [ndvi](../tag/ndvi), [vermont](../tag/vermont), [calibration](../tag/calibration), [infrared](../tag/infrared), [infragram](../tag/infragram), [wratten25a](../tag/wratten25a), [super-red](../tag/super-red), [wratten15](../tag/wratten15), [response:9717](../tag/response:9717), [upgrade:multispectral-imaging](../tag/upgrade:multispectral-imaging)
 
 A couple of weeks ago Joe Sommer from Penn State [asked about using an orange filter instead of a red filter](https://groups.google.com/forum/#!topic/plots-infrared/v8hxKDse190) for single camera infrared plant health photos. He thought it would preserve more information about green light which could be useful for image interpretation. This sounded like a clever idea, so I bought a Wratten15 gelatin filter on ebay and taped a piece in front of the lens on my full spectrum PowerShot A810.  The filter is really more yellow than orange.  
 .  

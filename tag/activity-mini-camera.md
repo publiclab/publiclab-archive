@@ -1,6 +1,6 @@
 # activity-mini-camera
 
-9 notes and wiki pages
+9 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Using cameras for NIR that have no buit-in NIR hotfilter](/notes/gonzoearth/5-1-2012/using-cameras-nir-have-no-nir-hotfilter) by [gonzoearth](../profile/gonzoearth)
 - [Converting GoPro cameras](/notes/gonzoearth/06-24-2013/converting-gopro-cameras) by [gonzoearth](../profile/gonzoearth)

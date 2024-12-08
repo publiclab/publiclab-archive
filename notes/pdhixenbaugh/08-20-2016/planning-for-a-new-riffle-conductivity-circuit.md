@@ -1,12 +1,18 @@
 ---
-nid: 13374
 title: Planning for a new Riffle conductivity circuit
-path: public/static/notes/pdhixenbaugh/08-20-2016/planning-for-a-new-riffle-conductivity-circuit.md
+tagnames: conductivity, riffle
+author: pdhixenbaugh
+path: /notes/pdhixenbaugh/08-20-2016/planning-for-a-new-riffle-conductivity-circuit.md
+nid: 13374
 uid: 459085
-tagnames: conductivity,riffle
+
 ---
 
 # Planning for a new Riffle conductivity circuit
+
+by [pdhixenbaugh](../profile/pdhixenbaugh) August 20, 2016 21:32
+
+August 20, 2016 21:32 | Tags: [conductivity](../tag/conductivity), [riffle](../tag/riffle)
 
 ###What I want to do
 I want to build a conductivity sensor that can attach to the riffle inside of a water bottle, for use measuring conductivity changes from road salts during the winter season. The coqui is a good starting point, however there are two questions I have:

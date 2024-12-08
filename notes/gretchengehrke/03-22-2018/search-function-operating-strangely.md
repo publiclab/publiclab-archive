@@ -1,12 +1,18 @@
 ---
-nid: 16002
 title: Search function operating strangely?
-path: public/static/notes/gretchengehrke/03-22-2018/search-function-operating-strangely.md
-uid: 430549
 tagnames: question:website
+author: gretchengehrke
+path: /notes/gretchengehrke/03-22-2018/search-function-operating-strangely.md
+nid: 16002
+uid: 430549
+
 ---
 
 # Search function operating strangely?
+
+by [gretchengehrke](../profile/gretchengehrke) March 22, 2018 15:25
+
+March 22, 2018 15:25 | Tags: [question:website](../tag/question:website)
 
 ### Please describe the problem (or idea)
 

@@ -1,12 +1,18 @@
 ---
-nid: 12407
 title: ImageJ exporting data into Excel:  Used for Analysing Images of particulate matter
-path: public/static/notes/pagyebo/11-13-2015/imagej-exporting-data-into-excel-used-for-analysing-images-of-particulate-matter.md
+tagnames: chicago, barnstar:basic, midwest, passive-pm, data-management
+author: pagyebo
+path: /notes/pagyebo/11-13-2015/imagej-exporting-data-into-excel-used-for-analysing-images-of-particulate-matter.md
+nid: 12407
 uid: 451158
-tagnames: chicago,barnstar:basic,midwest,passive-pm,data-management
+
 ---
 
 # ImageJ exporting data into Excel:  Used for Analysing Images of particulate matter
+
+by [pagyebo](../profile/pagyebo) November 13, 2015 19:06
+
+November 13, 2015 19:06 | Tags: [chicago](../tag/chicago), [barnstar:basic](../tag/barnstar:basic), [midwest](../tag/midwest), [passive-pm](../tag/passive-pm), [data-management](../tag/data-management)
 
 Purpose
 

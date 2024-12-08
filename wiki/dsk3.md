@@ -1,12 +1,18 @@
 ---
-nid: 11578
 title: dsk3
-path: public/static/wiki/dsk3.md
+tagnames: spectrometer, kits, kit-parts, parts, spectrometer3, parent:desktop-spectrometry-kit-3-0, lego-spectrometer
+author: mathew
+path: /wiki/dsk3.md
+nid: 11578
 uid: 4
-tagnames: spectrometer,kits,kit-parts,parts,spectrometer3,parent:desktop-spectrometry-kit-3-0,lego-spectrometer
+
 ---
 
 # dsk3
+
+by [warren](../profile/warren), [mathew](../profile/mathew)
+
+February 12, 2015 03:49 | Tags: [spectrometer](../tag/spectrometer), [kits](../tag/kits), [kit-parts](../tag/kit-parts), [parts](../tag/parts), [spectrometer3](../tag/spectrometer3), [parent:desktop-spectrometry-kit-3-0](../tag/parent:desktop-spectrometry-kit-3-0), [lego-spectrometer](../tag/lego-spectrometer)
 
  
 

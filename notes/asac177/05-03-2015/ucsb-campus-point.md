@@ -1,12 +1,18 @@
 ---
-nid: 11781
 title: UCSB Campus Point
-path: public/static/notes/asac177/05-03-2015/ucsb-campus-point.md
-uid: 440398
 tagnames: first-time-poster
+author: asac177
+path: /notes/asac177/05-03-2015/ucsb-campus-point.md
+nid: 11781
+uid: 440398
+
 ---
 
 # UCSB Campus Point
+
+by [asac177](../profile/asac177) May 03, 2015 22:55
+
+May 03, 2015 22:55 | Tags: [first-time-poster](../tag/first-time-poster)
 
 Made by Kite Ariel Photography
 

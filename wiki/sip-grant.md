@@ -1,12 +1,18 @@
 ---
-nid: 1488
 title: SIP Grant
-path: public/static/wiki/sip-grant.md
-uid: 1
 tagnames: 
+author: warren
+path: /wiki/sip-grant.md
+nid: 1488
+uid: 1
+
 ---
 
 # SIP Grant
+
+by [warren](../profile/warren)
+
+March 19, 2012 17:06 | Tags: 
 
 The PLOTS nonprofit arm received a grant from the Shpilman Institute for Photography, and has to submit updates every 3 months. 
 

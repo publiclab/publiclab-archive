@@ -1,12 +1,18 @@
 ---
-nid: 11676
 title: Unsuccessfully trying to upload a main image
-path: public/static/notes/Alex_the_Ukrainian/03-13-2015/unsuccessfully-trying-to-upload-a-main-image.md
+tagnames: troubleshooting, request, vista, ie8
+author: Alex_the_Ukrainian
+path: /notes/Alex_the_Ukrainian/03-13-2015/unsuccessfully-trying-to-upload-a-main-image.md
+nid: 11676
 uid: 436428
-tagnames: troubleshooting,request,vista,ie8
+
 ---
 
 # Unsuccessfully trying to upload a main image
+
+by [Alex_the_Ukrainian](../profile/Alex_the_Ukrainian) March 13, 2015 21:20
+
+March 13, 2015 21:20 | Tags: [troubleshooting](../tag/troubleshooting), [request](../tag/request), [vista](../tag/vista), [ie8](../tag/ie8)
 
 I’m new to the PublicLab website.
 My first post was made yesterday – with somewhat 50% success. The text appeared on the website almost immediately, several attempts to upload an image were unsuccessful.

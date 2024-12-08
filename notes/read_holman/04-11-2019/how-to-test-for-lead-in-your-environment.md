@@ -1,12 +1,18 @@
 ---
-nid: 18978
 title: How to Test For Lead in your Environment
-path: public/static/notes/read_holman/04-11-2019/how-to-test-for-lead-in-your-environment.md
+tagnames: heavy-metals, soil, testing, lead, colorimetry, lead-testing, mine-soil-health
+author: read_holman
+path: /notes/read_holman/04-11-2019/how-to-test-for-lead-in-your-environment.md
+nid: 18978
 uid: 540243
-tagnames: heavy-metals,soil,testing,lead,colorimetry,lead-testing,mine-soil-health
+
 ---
 
 # How to Test For Lead in your Environment
+
+by [read_holman](../profile/read_holman) April 06, 2019 18:09
+
+April 06, 2019 18:09 | Tags: [heavy-metals](../tag/heavy-metals), [soil](../tag/soil), [testing](../tag/testing), [lead](../tag/lead), [colorimetry](../tag/colorimetry), [lead-testing](../tag/lead-testing), [mine-soil-health](../tag/mine-soil-health)
 
 Lead is a toxic metal that is common in our lived environment, particularly in paint and soil (which can convert to dust) in older neighborhoods. The presence of lead in water is a growing concern among many people. Lead may also exists in many household items such as dishware, toys, spices, and cosmetics.
 

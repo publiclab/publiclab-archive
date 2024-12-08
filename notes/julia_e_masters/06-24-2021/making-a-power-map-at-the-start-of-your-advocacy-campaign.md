@@ -1,12 +1,18 @@
 ---
-nid: 26896
 title: Making a power map at the start of your advocacy campaign
-path: public/static/notes/julia_e_masters/06-24-2021/making-a-power-map-at-the-start-of-your-advocacy-campaign.md
+tagnames: mapping, organizing, advocacy, community-organizing, research-curation-fellows, activity:organizing, activity:advocacy, start-advocacy, advocacy-with-maps, activity:advocacy-with-maps, power-mapping
+author: julia_e_masters
+path: /notes/julia_e_masters/06-24-2021/making-a-power-map-at-the-start-of-your-advocacy-campaign.md
+nid: 26896
 uid: 756220
-tagnames: mapping,organizing,advocacy,community-organizing,research-curation-fellows,activity:organizing,activity:advocacy,start-advocacy,advocacy-with-maps,activity:advocacy-with-maps,power-mapping
+
 ---
 
 # Making a power map at the start of your advocacy campaign
+
+by [julia_e_masters](../profile/julia_e_masters) June 24, 2021 18:03
+
+June 24, 2021 18:03 | Tags: [mapping](../tag/mapping), [organizing](../tag/organizing), [advocacy](../tag/advocacy), [community-organizing](../tag/community-organizing), [research-curation-fellows](../tag/research-curation-fellows), [activity:organizing](../tag/activity:organizing), [activity:advocacy](../tag/activity:advocacy), [start-advocacy](../tag/start-advocacy), [advocacy-with-maps](../tag/advocacy-with-maps), [activity:advocacy-with-maps](../tag/activity:advocacy-with-maps), [power-mapping](../tag/power-mapping)
 
 ##What is power mapping and why is it important?
 

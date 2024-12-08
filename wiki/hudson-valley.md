@@ -1,12 +1,18 @@
 ---
-nid: 10650
 title: Hudson-Valley
-path: public/static/wiki/hudson-valley.md
+tagnames: new-york, nyc, river, northeast, valley, beacon, hudson, ny, node
+author: joshuaflux
+path: /wiki/hudson-valley.md
+nid: 10650
 uid: 425404
-tagnames: new-york,nyc,river,northeast,valley,beacon,hudson,ny,node
+
 ---
 
 # Hudson-Valley
+
+by [joshuaflux](../profile/joshuaflux)
+
+July 03, 2014 18:32 | Tags: [new-york](../tag/new-york), [nyc](../tag/nyc), [river](../tag/river), [northeast](../tag/northeast), [valley](../tag/valley), [beacon](../tag/beacon), [hudson](../tag/hudson), [ny](../tag/ny), [node](../tag/node)
 
 Welcome to the Hudson Valley's Public Lab regional hub located at the "node" ecological adaptive design and arts center/space in Beacon, NY.  Our aim is to use empowering open source tools to increase transparency around ecological issues up and down the Hudson River Valley, and share our work with the greater community of people doing the "good work".
 

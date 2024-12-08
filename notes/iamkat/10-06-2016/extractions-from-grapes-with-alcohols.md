@@ -1,12 +1,18 @@
 ---
-nid: 13529
 title: Extractions from Grapes with Alcohols
-path: public/static/notes/iamkat/10-06-2016/extractions-from-grapes-with-alcohols.md
+tagnames: spectrometer, spectrometry, comparison, extraction, spectrum, grapes, polyphenols, alcohol, phytophenol, anthocyanin, chemical_analysis
+author: iamkat
+path: /notes/iamkat/10-06-2016/extractions-from-grapes-with-alcohols.md
+nid: 13529
 uid: 492745
-tagnames: spectrometer,spectrometry,comparison,extraction,spectrum,grapes,polyphenols,alcohol,phytophenol,anthocyanin,chemical_analysis
+
 ---
 
 # Extractions from Grapes with Alcohols
+
+by [iamkat](../profile/iamkat) October 06, 2016 15:58
+
+October 06, 2016 15:58 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [comparison](../tag/comparison), [extraction](../tag/extraction), [spectrum](../tag/spectrum), [grapes](../tag/grapes), [polyphenols](../tag/polyphenols), [alcohol](../tag/alcohol), [phytophenol](../tag/phytophenol), [anthocyanin](../tag/anthocyanin), [chemical_analysis](../tag/chemical_analysis)
 
 ###What I want to do
 

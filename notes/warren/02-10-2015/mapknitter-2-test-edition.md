@@ -1,12 +1,18 @@
 ---
-nid: 11574
 title: MapKnitter 2: Test Edition
-path: public/static/notes/warren/02-10-2015/mapknitter-2-test-edition.md
+tagnames: balloon-mapping, mapknitter, web-development, webworkinggroup, software, developers, mapknitter2
+author: warren
+path: /notes/warren/02-10-2015/mapknitter-2-test-edition.md
+nid: 11574
 uid: 1
-tagnames: balloon-mapping,mapknitter,web-development,webworkinggroup,software,developers,mapknitter2
+
 ---
 
 # MapKnitter 2: Test Edition
+
+by [warren](../profile/warren) February 10, 2015 21:46
+
+February 10, 2015 21:46 | Tags: [balloon-mapping](../tag/balloon-mapping), [mapknitter](../tag/mapknitter), [web-development](../tag/web-development), [webworkinggroup](../tag/webworkinggroup), [software](../tag/software), [developers](../tag/developers), [mapknitter2](../tag/mapknitter2)
 
 Hello, mapmakers!
 

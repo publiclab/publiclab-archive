@@ -1,12 +1,18 @@
 ---
-nid: 16437
 title: Leaflet Environmental Layers Library
-path: public/static/notes/sagarpreet/06-06-2018/leaflet-environmental-layer-library.md
+tagnames: mapping, gsoc, pollution, leaflet, skytruth, barnstar:basic, weather, alerts, odor, soc, lon:77, gsoc-2018, soc-2018, tri, odor-logging, odor-mapping, geographic, toxic-release-inventory, justicemap, skytruth-alerts, leaflet-environmental-layers, lat:17
+author: sagarpreet
+path: /notes/sagarpreet/06-06-2018/leaflet-environmental-layer-library.md
+nid: 16437
 uid: 516343
-tagnames: mapping,gsoc,pollution,leaflet,skytruth,barnstar:basic,weather,alerts,odor,soc,lon:77,gsoc-2018,soc-2018,tri,odor-logging,odor-mapping,geographic,toxic-release-inventory,justicemap,skytruth-alerts,leaflet-environmental-layers,lat:17
+
 ---
 
 # Leaflet Environmental Layers Library
+
+by [sagarpreet](../profile/sagarpreet) June 06, 2018 10:49
+
+June 06, 2018 10:49 | Tags: [mapping](../tag/mapping), [gsoc](../tag/gsoc), [pollution](../tag/pollution), [leaflet](../tag/leaflet), [skytruth](../tag/skytruth), [barnstar:basic](../tag/barnstar:basic), [weather](../tag/weather), [alerts](../tag/alerts), [odor](../tag/odor), [soc](../tag/soc), [lon:77](../tag/lon:77), [gsoc-2018](../tag/gsoc-2018), [soc-2018](../tag/soc-2018), [tri](../tag/tri), [odor-logging](../tag/odor-logging), [odor-mapping](../tag/odor-mapping), [geographic](../tag/geographic), [toxic-release-inventory](../tag/toxic-release-inventory), [justicemap](../tag/justicemap), [skytruth-alerts](../tag/skytruth-alerts), [leaflet-environmental-layers](../tag/leaflet-environmental-layers), [lat:17](../tag/lat:17)
 
 This library is a made upon the very popular [LeafletJS Library](https://leafletjs.com/) and using this we can choose combinations of layers to display on map .
 Each layers gives some environment - related information on map in form of small markers . Each marker on clicking shows pop-up with detailed information .

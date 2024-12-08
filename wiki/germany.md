@@ -1,12 +1,18 @@
 ---
-nid: 16232
 title: Germany
-path: public/static/wiki/germany.md
-uid: 422561
 tagnames: 
+author: stevie
+path: /wiki/germany.md
+nid: 16232
+uid: 422561
+
 ---
 
 # Germany
+
+by [niklasjordan](../profile/niklasjordan), [stevie](../profile/stevie)
+
+April 27, 2018 15:02 | Tags: 
 
 On this page the German Public Lab Enthusiasts organize themselves. 
 

@@ -1,12 +1,18 @@
 ---
-nid: 18540
 title: Providence Public Lab code fellowship
-path: public/static/wiki/pvd.md
+tagnames: jobs, sidebar:none, redirect:21030
+author: warren
+path: /wiki/pvd.md
+nid: 18540
 uid: 1
-tagnames: jobs,sidebar:none,redirect:21030
+
 ---
 
 # Providence Public Lab code fellowship
+
+by [warren](../profile/warren)
+
+March 13, 2019 17:19 | Tags: [jobs](../tag/jobs), [sidebar:none](../tag/sidebar:none), [redirect:21030](../tag/redirect:21030)
 
 ## Public Lab: Providence, RI software development fellowship
 

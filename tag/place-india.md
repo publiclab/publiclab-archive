@@ -1,6 +1,6 @@
 # place-india
 
-28 notes and wiki pages
+28 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Relevance of Virtual  Reality to the World of Grassroots Mapping and Citizen Science?](/notes/ajawitz/11-16-2015/relevance-of-virtual-reality-to-the-world-of-grassroots-mapping-and-citizen-science) by [ajawitz](../profile/ajawitz)
 - [Adafruit Feathers for datalogging](/notes/cfastie/11-14-2017/adafruit-feathers-for-datalogging) by [cfastie](../profile/cfastie)
@@ -8,25 +8,6 @@
 - [Comment templates](/wiki/comment-templates) (wiki)
 - [India](/wiki/india) (wiki)
 - [Topics](/wiki/topics) (wiki)
-- [Hitachi Air conditioner Repair Center in Hyderabad](/notes/asntechno_ravalika/02-03-2020/hitachi-air-conditioner-repair-center-in-hyderabad) by [asntechno_ravalika](../profile/asntechno_ravalika)
-- [Sanand Escorts Services](/notes/nishinegi/02-12-2020/sanand-escorts-services) by [nishinegi](../profile/nishinegi)
-- [Online Trainings](/notes/traininghub_2020/03-12-2020/online-trainings) by [traininghub_2020](../profile/traininghub_2020)
 - [What air pollution patterns do you see?](/notes/subir/05-07-2020/what-air-pollution-patterns-do-you-see) by [subir](../profile/subir)
-- [Samsung Washing Machine Repair And Service in Chandrapur](/notes/sadiyatabassum402/08-24-2020/samsung-washing-machine-repair-and-service-in-chandrapur) by [sadiyatabassum402](../profile/sadiyatabassum402)
-- [Softomotive Free Online Courses](/notes/nethrasmiley1996/09-24-2020/softomotive-free-online-courses) by [nethrasmiley1996](../profile/nethrasmiley1996)
-- [What is Paying Guest/PG and How does it work in Bangalore?](/notes/zolopg121/12-21-2020/what-is-paying-guest-pg-and-how-does-it-work-in-bangalore) by [zolopg121](../profile/zolopg121)
-- [Best Online Cas!n0 Malaysia](/notes/12play3/01-22-2021/best-online-cas-n0-malaysia) by [12play3](../profile/12play3)
-- [Best animation institute in Bhubaneswar](/notes/Prismmedia/01-27-2021/best-animation-institute-in-bhubaneswar) by [Prismmedia](../profile/Prismmedia)
-- [Why shri krishna school top school in mahendergarh](/notes/topschoolinmahendergarh/01-29-2021/why-shri-krishna-school-top-school-in-mahendergarh) by [topschoolinmahendergarh](../profile/topschoolinmahendergarh)
-- [Yoga Courses](/notes/link_ivys/03-19-2021/yoga-courses) by [link_ivys](../profile/link_ivys)
 - [GSoC Proposal : Tag/Topic System Refinements](/notes/17sushmita/04-12-2021/gsoc-proposal-tag-topic-system-refinements) by [17sushmita](../profile/17sushmita)
 - [GsOc Proposal 2021: Filter out spam from comment.](/wiki/gsoc-proposal-2021-filter-out-spam-from-comment) (wiki)
-- [which is best ias coaching in delhi](/notes/coachanu/05-12-2021/which-is-best-ias-coaching-in-delhi) by [coachanu](../profile/coachanu)
-- [website: https://www.thedolive.cc/](/notes/thedolive_bdtt/05-28-2021/website-https-www-thedolive-cc) by [thedolive_bdtt](../profile/thedolive_bdtt)
-- [Sports](/notes/lawrencebryan/06-28-2021/sports) by [lawrencebryan](../profile/lawrencebryan)
-- [What are 7 facts you didn’t know about Lucknow?](/notes/paarthinfrabuild/12-13-2021/what-are-7-facts-you-didn-t-know-about-lucknow) by [paarthinfrabuild](../profile/paarthinfrabuild)
-- [Is FullStack Development Course a Good Career ?](/notes/seven_mentor/01-17-2023/is-fullstack-development-course-a-good-career) by [seven_mentor](../profile/seven_mentor)
-- [Best Wedding Organizer in Greater Noida](/notes/goyaltenthouse/03-21-2023/best-wedding-organizer-in-greater-noida) by [goyaltenthouse](../profile/goyaltenthouse)
-- [Lotus 365 Best Online Betting ID Providers in India|](/notes/MarcoCWatson/06-14-2023/lotus-365-best-online-betting-id-providers-in-india) by [MarcoCWatson](../profile/MarcoCWatson)
-- [Best Wedding Photographer In Delhi NCR | Peppynite](/notes/peppyniteee/12-28-2023/best-wedding-photographer-in-delhi-ncr-peppynite) by [peppyniteee](../profile/peppyniteee)
-- [NEBOSH IGC Training](/notes/srig3960/12-30-2023/nebosh-igc-training) by [srig3960](../profile/srig3960)

@@ -1,6 +1,6 @@
 # with-shannon
 
-7 notes and wiki pages
+7 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Reimagining the data  lifecycle](/notes/warren/07-01-2014/reimagining-the-data-lifecycle) by [warren](../profile/warren)
 - [Interview with Scott Eustis of the Gulf Restoration Network](/wiki/interview-with-scott-eustis-of-the-gulf-restoration-network) (wiki)

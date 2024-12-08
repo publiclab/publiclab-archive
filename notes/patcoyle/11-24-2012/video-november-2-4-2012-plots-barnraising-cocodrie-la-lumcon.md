@@ -1,12 +1,18 @@
 ---
-nid: 5013
 title: video - November 2-4, 2012, PLOTS Barnraising, Cocodrie, LA at LUMCON
-path: public/static/notes/patcoyle/11-24-2012/video-november-2-4-2012-plots-barnraising-cocodrie-la-lumcon.md
+tagnames: gulf-coast, plots, barnraising2012, lumcon, publiclaboratory, cocodrie-la
+author: patcoyle
+path: /notes/patcoyle/11-24-2012/video-november-2-4-2012-plots-barnraising-cocodrie-la-lumcon.md
+nid: 5013
 uid: 77
-tagnames: gulf-coast,plots,barnraising2012,lumcon,publiclaboratory,cocodrie-la
+
 ---
 
 # video - November 2-4, 2012, PLOTS Barnraising, Cocodrie, LA at LUMCON
+
+by [patcoyle](../profile/patcoyle) November 24, 2012 07:24
+
+November 24, 2012 07:24 | Tags: [gulf-coast](../tag/gulf-coast), [plots](../tag/plots), [barnraising2012](../tag/barnraising2012), [lumcon](../tag/lumcon), [publiclaboratory](../tag/publiclaboratory), [cocodrie-la](../tag/cocodrie-la)
 
 The playlist included on the wiki page http://publiclaboratory.org/wiki/barnraising now has most of the video snippets (~58 clips, ~3 hours 30 minutes). A few are still uploading and some may need to be re-uploaded.
 

@@ -1,12 +1,18 @@
 ---
-nid: 10218
 title: NIR cameras and color histograms: what information is really there?
-path: public/static/notes/ttaylor/03-23-2014/nir-cameras-and-color-histograms-what-information-is-really-there.md
+tagnames: near-infrared-camera, infrared, infragram, infrablue, histogram, response:8190, histograms
+author: ttaylor
+path: /notes/ttaylor/03-23-2014/nir-cameras-and-color-histograms-what-information-is-really-there.md
+nid: 10218
 uid: 58398
-tagnames: near-infrared-camera,infrared,infragram,infrablue,histogram,response:8190,histograms
+
 ---
 
 # NIR cameras and color histograms: what information is really there?
+
+by [ttaylor](../profile/ttaylor) March 23, 2014 21:50
+
+March 23, 2014 21:50 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [infrared](../tag/infrared), [infragram](../tag/infragram), [infrablue](../tag/infrablue), [histogram](../tag/histogram), [response:8190](../tag/response:8190), [histograms](../tag/histograms)
 
 ###What I want to do
 Along the lines of [Chris Fastie's post last September](http://publiclab.org/notes/cfastie/09-11-2013/infrared-behavior-of-a810), I've been wondering what real spectral information is in the color channels of an ir-converted point and shoot camera.  This post is a data-dump of what I've learned and what I'm thinking.

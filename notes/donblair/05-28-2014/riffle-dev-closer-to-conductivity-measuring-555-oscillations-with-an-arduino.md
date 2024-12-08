@@ -1,12 +1,18 @@
 ---
-nid: 10515
 title: Riffle dev: 'Closer to Conductivity: Measuring 555 Oscillations with an Arduino'
-path: public/static/notes/donblair/05-28-2014/riffle-dev-closer-to-conductivity-measuring-555-oscillations-with-an-arduino.md
+tagnames: water-quality, riffle, open-water, 555
+author: donblair
+path: /notes/donblair/05-28-2014/riffle-dev-closer-to-conductivity-measuring-555-oscillations-with-an-arduino.md
+nid: 10515
 uid: 43651
-tagnames: water-quality,riffle,open-water,555
+
 ---
 
 # Riffle dev: 'Closer to Conductivity: Measuring 555 Oscillations with an Arduino'
+
+by [donblair](../profile/donblair) May 28, 2014 18:23
+
+May 28, 2014 18:23 | Tags: [water-quality](../tag/water-quality), [riffle](../tag/riffle), [open-water](../tag/open-water), [555](../tag/555)
 
 ###What I want to do
 

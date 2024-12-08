@@ -1,12 +1,18 @@
 ---
-nid: 11142
 title: Coqui draft board design on Upverter
-path: public/static/notes/warren/09-14-2014/coqui-draft-board-design-on-upverter.md
+tagnames: vermont, leaffest, conductivity, pcb, upverter, riffle, open-water, northeast, 555, leaffest2014, coqui, schematic, activity:coqui-version
+author: warren
+path: /notes/warren/09-14-2014/coqui-draft-board-design-on-upverter.md
+nid: 11142
 uid: 1
-tagnames: vermont,leaffest,conductivity,pcb,upverter,riffle,open-water,northeast,555,leaffest2014,coqui,schematic,activity:coqui-version
+
 ---
 
 # Coqui draft board design on Upverter
+
+by [warren](../profile/warren) September 14, 2014 18:09
+
+September 14, 2014 18:09 | Tags: [vermont](../tag/vermont), [leaffest](../tag/leaffest), [conductivity](../tag/conductivity), [pcb](../tag/pcb), [upverter](../tag/upverter), [riffle](../tag/riffle), [open-water](../tag/open-water), [northeast](../tag/northeast), [555](../tag/555), [leaffest2014](../tag/leaffest2014), [coqui](../tag/coqui), [schematic](../tag/schematic), [activity:coqui-version](../tag/activity:coqui-version)
 
 ###What I want to do
 

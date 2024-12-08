@@ -1,12 +1,18 @@
 ---
-nid: 21392
 title: Oil and Gas Hardware Fellow Status Update: Week 6!
-path: public/static/notes/wmacfarl/11-05-2019/oil-and-gas-hardware-fellow-status-update-week-6.md
+tagnames: water-quality, turbidity, oil-and-gas, oil-and-gas-water-trio
+author: wmacfarl
+path: /notes/wmacfarl/11-05-2019/oil-and-gas-hardware-fellow-status-update-week-6.md
+nid: 21392
 uid: 424597
-tagnames: water-quality,turbidity,oil-and-gas,oil-and-gas-water-trio
+
 ---
 
 # Oil and Gas Hardware Fellow Status Update: Week 6!
+
+by [wmacfarl](../profile/wmacfarl) November 05, 2019 01:41
+
+November 05, 2019 01:41 | Tags: [water-quality](../tag/water-quality), [turbidity](../tag/turbidity), [oil-and-gas](../tag/oil-and-gas), [oil-and-gas-water-trio](../tag/oil-and-gas-water-trio)
 
 My work during this last week was focused on two different big things. The first was prepping and doing outreach for our upcoming [Open Hour on November 12th](https://publiclab.org/openhour "https://publiclab.org/openhour"). We are all doing planning and outreach to bring a group of people together to discuss issues around oil, gas, and water monitoring. It looks like we will have a lot of really amazing and knowledgeable people with a lot of different backgrounds and experiences and I'm really looking forward to the conversations.
 

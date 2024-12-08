@@ -1,12 +1,18 @@
 ---
-nid: 12257
 title: Week 1: Recap from Oil Testing Kit Beta Program kickoff chat
-path: public/static/notes/warren/09-30-2015/week-1-recap-from-oil-testing-kit-beta-program-kickoff-chat.md
+tagnames: spectrometer, fluorescence, oil-testing-kit, oil-testing-kit-beta
+author: warren
+path: /notes/warren/09-30-2015/week-1-recap-from-oil-testing-kit-beta-program-kickoff-chat.md
+nid: 12257
 uid: 1
-tagnames: spectrometer,fluorescence,oil-testing-kit,oil-testing-kit-beta
+
 ---
 
 # Week 1: Recap from Oil Testing Kit Beta Program kickoff chat
+
+by [warren](../profile/warren) September 30, 2015 18:38
+
+September 30, 2015 18:38 | Tags: [spectrometer](../tag/spectrometer), [fluorescence](../tag/fluorescence), [oil-testing-kit](../tag/oil-testing-kit), [oil-testing-kit-beta](../tag/oil-testing-kit-beta)
 
 Hi, all - thanks to those who attended the kickoff chat. We'll be meeting in the same place, same time next week ([see the schedule here](/wiki/oil-testing-kit-beta#Schedule)).
 

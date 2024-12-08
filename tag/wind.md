@@ -1,6 +1,6 @@
 # wind
 
-26 notes and wiki pages
+26 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [DIY Windmill and Solar Light Workshop](/notes/warren/05-01-2018/diy-windmill-and-solar-light-workshop) by [warren](../profile/warren)
 - [Windmeter options for iPhone - Shaka and Wind Meter](/notes/patcoyle/08-18-2013/windmeter-options-for-iphone-shaka-and-wind-meter) by [patcoyle](../profile/patcoyle)
@@ -26,5 +26,4 @@
 - [How can we build this wind turbine to power lights?](/notes/liz/10-24-2019/how-can-we-build-this-wind-turbine-to-power-lights) by [liz](../profile/liz)
 - [Can fans be used to power a vehicle and if so how many will you need?](/notes/REVOLG/02-14-2020/can-fans-be-used-to-power-a-vehicle-and-if-so-how-many-will-you-need) by [REVOLG](../profile/REVOLG)
 - [How do you account for wind in an air study?](/notes/kgradow1/06-19-2020/how-do-you-account-for-wind-in-an-air-study) by [kgradow1](../profile/kgradow1)
-- [Boldenone Undecylenate Steroid. Anabolic Steroids Shop #D21qf ](/notes/rilhameilya/06-22-2021/boldenone-undecylenate-steroid-anabolic-steroids-shop-d21qf) by [rilhameilya](../profile/rilhameilya)
 - [How to connect an anemometer to an air particulate monitor?](/notes/crispinpierce/07-30-2021/how-to-connect-an-anemometer-to-an-air-particulate-monitor) by [crispinpierce](../profile/crispinpierce)

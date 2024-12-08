@@ -1,12 +1,18 @@
 ---
-nid: 11035
 title: Research Note Workflows
-path: public/static/notes/donblair/08-11-2014/research-note-workflows.md
-uid: 43651
 tagnames: research
+author: donblair
+path: /notes/donblair/08-11-2014/research-note-workflows.md
+nid: 11035
+uid: 43651
+
 ---
 
 # Research Note Workflows
+
+by [donblair](../profile/donblair) August 11, 2014 19:34
+
+August 11, 2014 19:34 | Tags: [research](../tag/research)
 
 ###What I want to do
 

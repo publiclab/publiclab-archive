@@ -1,12 +1,18 @@
 ---
-nid: 13499
 title: Can I upgrade a DIY spectrometer with a Raspberry Pi camera?
-path: public/static/notes/warren/09-28-2016/upgrade-a-diy-spectrometer-with-a-raspberry-pi-camera.md
+tagnames: spectrometer, calibration, spectrometry, webcam, raspberry-pi, question:spectrometry, exposure, rpi, pi-camera, gain-correction, gain-control, webvalley, exposure-calibration, question:pi-camera, question:spectrometry-challenge, question:spectrometry-turbidity, raspberry-pi-spectrometer, question:raspberry-pi-spectrometer, question:lego-spectrometer
+author: warren
+path: /notes/warren/09-28-2016/upgrade-a-diy-spectrometer-with-a-raspberry-pi-camera.md
+nid: 13499
 uid: 1
-tagnames: spectrometer,calibration,spectrometry,webcam,raspberry-pi,question:spectrometry,exposure,rpi,pi-camera,gain-correction,gain-control,webvalley,exposure-calibration,question:pi-camera,question:spectrometry-challenge,question:spectrometry-turbidity,raspberry-pi-spectrometer,question:raspberry-pi-spectrometer,question:lego-spectrometer
+
 ---
 
 # Can I upgrade a DIY spectrometer with a Raspberry Pi camera?
+
+by [warren](../profile/warren) September 28, 2016 19:13
+
+September 28, 2016 19:13 | Tags: [spectrometer](../tag/spectrometer), [calibration](../tag/calibration), [spectrometry](../tag/spectrometry), [webcam](../tag/webcam), [raspberry-pi](../tag/raspberry-pi), [question:spectrometry](../tag/question:spectrometry), [exposure](../tag/exposure), [rpi](../tag/rpi), [pi-camera](../tag/pi-camera), [gain-correction](../tag/gain-correction), [gain-control](../tag/gain-control), [webvalley](../tag/webvalley), [exposure-calibration](../tag/exposure-calibration), [question:pi-camera](../tag/question:pi-camera), [question:spectrometry-challenge](../tag/question:spectrometry-challenge), [question:spectrometry-turbidity](../tag/question:spectrometry-turbidity), [raspberry-pi-spectrometer](../tag/raspberry-pi-spectrometer), [question:raspberry-pi-spectrometer](../tag/question:raspberry-pi-spectrometer), [question:lego-spectrometer](../tag/question:lego-spectrometer)
 
 ### What I want to do or know
 

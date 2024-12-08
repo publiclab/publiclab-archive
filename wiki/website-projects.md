@@ -1,12 +1,18 @@
 ---
-nid: 1808
 title: Website projects
-path: public/static/wiki/website-projects.md
+tagnames: website, out-of-date
+author: warren
+path: /wiki/website-projects.md
+nid: 1808
 uid: 1
-tagnames: website,out-of-date
+
 ---
 
 # Website projects
+
+by [warren](../profile/warren), [liz](../profile/liz), [alicesmith](../profile/alicesmith), [sara](../profile/sara)
+
+April 27, 2012 00:08 | Tags: [website](../tag/website), [out-of-date](../tag/out-of-date)
 
 (This page is a snapshot of 2011-13 out of date website improvement ideas)
 

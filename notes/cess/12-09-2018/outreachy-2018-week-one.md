@@ -1,12 +1,18 @@
 ---
-nid: 17839
 title: Outreachy 2018: Week One
-path: public/static/notes/cess/12-09-2018/outreachy-2018-week-one.md
+tagnames: blog, outreachy
+author: cess
+path: /notes/cess/12-09-2018/outreachy-2018-week-one.md
+nid: 17839
 uid: 525958
-tagnames: blog,outreachy
+
 ---
 
 # Outreachy 2018: Week One
+
+by [cess](../profile/cess) December 08, 2018 22:52
+
+December 08, 2018 22:52 | Tags: [blog](../tag/blog), [outreachy](../tag/outreachy)
 
 ### Update
 

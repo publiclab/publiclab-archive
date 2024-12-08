@@ -1,12 +1,18 @@
 ---
-nid: 12600
 title: Riffle 0.1.1 Debugging
-path: public/static/notes/donblair/01-21-2016/riffle-0-1-1-debugging.md
+tagnames: riffle, data-logging
+author: donblair
+path: /notes/donblair/01-21-2016/riffle-0-1-1-debugging.md
+nid: 12600
 uid: 43651
-tagnames: riffle,data-logging
+
 ---
 
 # Riffle 0.1.1 Debugging
+
+by [donblair](../profile/donblair) January 21, 2016 23:32
+
+January 21, 2016 23:32 | Tags: [riffle](../tag/riffle), [data-logging](../tag/data-logging)
 
 Hi All,
 

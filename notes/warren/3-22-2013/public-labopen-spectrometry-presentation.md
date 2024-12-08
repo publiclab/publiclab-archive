@@ -1,12 +1,18 @@
 ---
-nid: 6489
 title: Public Lab/open spectrometry presentation
-path: public/static/notes/warren/3-22-2013/public-labopen-spectrometry-presentation.md
+tagnames: spectrometer, boston, presentations, event, talk, presentation
+author: warren
+path: /notes/warren/3-22-2013/public-labopen-spectrometry-presentation.md
+nid: 6489
 uid: 1
-tagnames: spectrometer,boston,presentations,event,talk,presentation
+
 ---
 
 # Public Lab/open spectrometry presentation
+
+by [warren](../profile/warren) March 22, 2013 17:01
+
+March 22, 2013 17:01 | Tags: [spectrometer](../tag/spectrometer), [boston](../tag/boston), [presentations](../tag/presentations), [event](../tag/event), [talk](../tag/talk), [presentation](../tag/presentation)
 
 I'm giving an Ignite talk on Monday at Ignite LocationTech in Boston, and put together these slides... feel free to reuse! And no peeking if you're going to be there on Monday night... :-)
 

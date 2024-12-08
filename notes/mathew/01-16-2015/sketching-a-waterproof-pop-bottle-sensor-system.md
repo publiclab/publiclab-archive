@@ -1,12 +1,18 @@
 ---
-nid: 11528
 title: sketching a waterproof pop bottle sensor system
-path: public/static/notes/mathew/01-16-2015/sketching-a-waterproof-pop-bottle-sensor-system.md
+tagnames: housing, water-quality, riffle, open-water, openwater, bottle, weatherproofing, riffle-examples, data-logger-enclosures, sensor-enclosures, activity:sensor-enclosures
+author: mathew
+path: /notes/mathew/01-16-2015/sketching-a-waterproof-pop-bottle-sensor-system.md
+nid: 11528
 uid: 4
-tagnames: housing,water-quality,riffle,open-water,openwater,bottle,weatherproofing,riffle-examples,data-logger-enclosures,sensor-enclosures,activity:sensor-enclosures
+
 ---
 
 # sketching a waterproof pop bottle sensor system
+
+by [mathew](../profile/mathew) January 16, 2015 23:16
+
+January 16, 2015 23:16 | Tags: [housing](../tag/housing), [water-quality](../tag/water-quality), [riffle](../tag/riffle), [open-water](../tag/open-water), [openwater](../tag/openwater), [bottle](../tag/bottle), [weatherproofing](../tag/weatherproofing), [riffle-examples](../tag/riffle-examples), [data-logger-enclosures](../tag/data-logger-enclosures), [sensor-enclosures](../tag/sensor-enclosures), [activity:sensor-enclosures](../tag/activity:sensor-enclosures)
 
 ###What I want to do
 I want to make a way to reliably put sensors through the cap of a PET bottle. the [Open Water Project](http://publiclab.org/wiki/the-open-water-project-faq) is using bottles for waterproofing, which I really like, and punches sensors through the lid.

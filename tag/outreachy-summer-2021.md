@@ -1,6 +1,6 @@
 # outreachy-summer-2021
 
-5 notes and wiki pages
+5 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [GSoC 2021 Proposal : Tag / topic system refinements](/notes/Manasa2850/04-10-2021/gsoc-2021-proposal-tag-topic-system-refinements) by [Manasa2850](../profile/Manasa2850)
 - [GSoC!proposal: Filter out spam from comment. ](/notes/lukoyedith/04-20-2021/gsoc-proposal-filter-out-spam-from-comment) by [lukoyedith](../profile/lukoyedith)

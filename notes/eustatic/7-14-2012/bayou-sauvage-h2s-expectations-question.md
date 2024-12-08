@@ -1,12 +1,18 @@
 ---
-nid: 2809
 title: Bayou Sauvage H2S expectations, question 
-path: public/static/notes/eustatic/7-14-2012/bayou-sauvage-h2s-expectations-question.md
-uid: 379
 tagnames: hydrogen-sulfide-sensing
+author: eustatic
+path: /7-14-2012/bayou-sauvage-h2s-expectations-question.md
+nid: 2809
+uid: 379
+
 ---
 
 # Bayou Sauvage H2S expectations, question 
+
+by [eustatic](../profile/eustatic) July 14, 2012 20:33
+
+July 14, 2012 20:33 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing)
 
 See:
 http://publiclaboratory.org/notes/sara/7-13-2012/bayou-sauvage-results-2-reflections-fixing-process

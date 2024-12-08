@@ -1,12 +1,18 @@
 ---
-nid: 14847
 title: Wrapping up Google Summer of Code 2017 at Public Lab
-path: public/static/notes/warren/09-07-2017/wrapping-up-google-summer-of-code-2017-at-public-lab.md
+tagnames: software, gsoc, google, google-summer-of-code, blog, code, wwg, response:13397, first-timers-only, software-outreach, gsoc-2017, rgsoc, soc, soc-2017, rgsoc-2017, response:13975, response:14788, response:14162, response:13910, summer-of-code
+author: warren
+path: /notes/warren/09-07-2017/wrapping-up-google-summer-of-code-2017-at-public-lab.md
+nid: 14847
 uid: 1
-tagnames: software,gsoc,google,google-summer-of-code,blog,code,wwg,response:13397,first-timers-only,software-outreach,gsoc-2017,rgsoc,soc,soc-2017,rgsoc-2017,response:13975,response:14788,response:14162,response:13910,summer-of-code
+
 ---
 
 # Wrapping up Google Summer of Code 2017 at Public Lab
+
+by [warren](../profile/warren) September 07, 2017 21:51
+
+September 07, 2017 21:51 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [google](../tag/google), [google-summer-of-code](../tag/google-summer-of-code), [blog](../tag/blog), [code](../tag/code), [wwg](../tag/wwg), [response:13397](../tag/response:13397), [first-timers-only](../tag/first-timers-only), [software-outreach](../tag/software-outreach), [gsoc-2017](../tag/gsoc-2017), [rgsoc](../tag/rgsoc), [soc](../tag/soc), [soc-2017](../tag/soc-2017), [rgsoc-2017](../tag/rgsoc-2017), [response:13975](../tag/response:13975), [response:14788](../tag/response:14788), [response:14162](../tag/response:14162), [response:13910](../tag/response:13910), [summer-of-code](../tag/summer-of-code)
 
 Hi, everyone! This past week we wrapped up our fourth year of Google Summer of Code (see #gsoc), a Google-funded summer program for students to get paid to work on open source projects. I'll be posting more thoughts as we go, but I first wanted to thank the amazing team we had. We had -- counting mentors, coaches, etc -- 17 people involved in this summer's work. (We're also wrapping up a Rails Girls Summer of Code soon -- many thanks to that team as well!)
 

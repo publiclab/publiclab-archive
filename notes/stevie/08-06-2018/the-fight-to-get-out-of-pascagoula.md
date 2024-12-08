@@ -1,12 +1,18 @@
 ---
-nid: 16871
 title: The fight to get out of Pascagoula
-path: public/static/notes/stevie/08-06-2018/the-fight-to-get-out-of-pascagoula.md
+tagnames: gulf-coast, mississippi, blog, pollution, pm, industry, odor, odor-log, chemicals, pascagoula, tri, toxics-release-inventory, odor-logging, chevron, mdeq, phosphates
+author: stevie
+path: /notes/stevie/08-06-2018/the-fight-to-get-out-of-pascagoula.md
+nid: 16871
 uid: 422561
-tagnames: gulf-coast,mississippi,blog,pollution,pm,industry,odor,odor-log,chemicals,pascagoula,tri,toxics-release-inventory,odor-logging,chevron,mdeq,phosphates
+
 ---
 
 # The fight to get out of Pascagoula
+
+by [stevie](../profile/stevie) August 06, 2018 19:16
+
+August 06, 2018 19:16 | Tags: [gulf-coast](../tag/gulf-coast), [mississippi](../tag/mississippi), [blog](../tag/blog), [pollution](../tag/pollution), [pm](../tag/pm), [industry](../tag/industry), [odor](../tag/odor), [odor-log](../tag/odor-log), [chemicals](../tag/chemicals), [pascagoula](../tag/pascagoula), [tri](../tag/tri), [toxics-release-inventory](../tag/toxics-release-inventory), [odor-logging](../tag/odor-logging), [chevron](../tag/chevron), [mdeq](../tag/mdeq), [phosphates](../tag/phosphates)
 
 Pascagoula, Mississippi hosts 12 facilities that report to the federal Toxics Release Inventory, six of which are within a mile-and-a-half radius of the Cherokee Forest Community ([2016 Reported toxic release data here](https://iaspub.epa.gov/triexplorer/release_fac?p_view=COFA&trilib=TRIQ1&sort=_VIEW_&sort_fmt=1&state=28&county=28059&chemical=All+chemicals&industry=ALL&year=2016&tab_rpt=1&fld=RELLBY&fld=TSFDSP)). Below is the story of Barbara Weckesser, and her struggle to get out.
 

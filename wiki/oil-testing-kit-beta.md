@@ -1,12 +1,18 @@
 ---
-nid: 12011
 title: Oil Testing Kit Beta
-path: public/static/wiki/oil-testing-kit-beta.md
+tagnames: spectrometer, oil, list:plots-spectrometry, crude-oil, oil-testing-kit, parent:oil-testing-kit, beta, alpha
+author: warren
+path: /wiki/oil-testing-kit-beta.md
+nid: 12011
 uid: 1
-tagnames: spectrometer,oil,list:plots-spectrometry,crude-oil,oil-testing-kit,parent:oil-testing-kit,beta,alpha
+
 ---
 
 # Oil Testing Kit Beta
+
+by [warren](../profile/warren), [stevie](../profile/stevie), [eustatic](../profile/eustatic), [liz](../profile/liz), [gretchengehrke](../profile/gretchengehrke)
+
+June 26, 2015 16:52 | Tags: [spectrometer](../tag/spectrometer), [oil](../tag/oil), [list:plots-spectrometry](../tag/list:plots-spectrometry), [crude-oil](../tag/crude-oil), [oil-testing-kit](../tag/oil-testing-kit), [parent:oil-testing-kit](../tag/parent:oil-testing-kit), [beta](../tag/beta), [alpha](../tag/alpha)
 
 [![tmp_31304-IMG_20150702_151735_2-1028119148.jpg](https://i.publiclab.org/system/images/photos/000/010/578/medium/tmp_31304-IMG_20150702_151735_2-1028119148.jpg)](https://i.publiclab.org/system/images/photos/000/010/578/original/tmp_31304-IMG_20150702_151735_2-1028119148.jpg)
 

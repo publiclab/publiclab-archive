@@ -1,12 +1,18 @@
 ---
-nid: 14171
 title: Inline maps
-path: public/static/wiki/inline-maps.md
+tagnames: power-tags, parent:power-tags
+author: warren
+path: /wiki/inline-maps.md
+nid: 14171
 uid: 1
-tagnames: power-tags,parent:power-tags
+
 ---
 
 # Inline maps
+
+by [warren](../profile/warren), [sagarpreet](../profile/sagarpreet)
+
+May 09, 2017 22:25 | Tags: [power-tags](../tag/power-tags), [parent:power-tags](../tag/parent:power-tags)
 
 A brief guide to embedding maps on PublicLab.org pages. 
 

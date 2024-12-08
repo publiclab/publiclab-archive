@@ -1,12 +1,18 @@
 ---
-nid: 26057
 title: Seeking support in having document translated or found, can you help?
-path: public/static/notes/amocorro/03-29-2021/seeking-support-in-having-document-translated.md
+tagnames: brazil, icc, climate-change, amazon, amazonia, lang:pt, translation, question:general, general, environmental-journalism, environmental-regulations, lang:en, activity:translation, covid-19, obsclima, bolsonaro-administration
+author: amocorro
+path: /notes/amocorro/03-29-2021/seeking-support-in-having-document-translated.md
+nid: 26057
 uid: 700923
-tagnames: brazil,icc,climate-change,amazon,amazonia,lang:pt,translation,question:general,general,environmental-journalism,environmental-regulations,lang:en,activity:translation,covid-19,obsclima,bolsonaro-administration
+
 ---
 
 # Seeking support in having document translated or found, can you help?
+
+by [amocorro](../profile/amocorro) March 29, 2021 20:21
+
+March 29, 2021 20:21 | Tags: [brazil](../tag/brazil), [icc](../tag/icc), [climate-change](../tag/climate-change), [amazon](../tag/amazon), [amazonia](../tag/amazonia), [lang:pt](../tag/lang:pt), [translation](../tag/translation), [question:general](../tag/question:general), [general](../tag/general), [environmental-journalism](../tag/environmental-journalism), [environmental-regulations](../tag/environmental-regulations), [lang:en](../tag/lang:en), [activity:translation](../tag/activity:translation), [covid-19](../tag/covid-19), [obsclima](../tag/obsclima), [bolsonaro-administration](../tag/bolsonaro-administration)
 
 Report by Climate Observatory (Observatório do Clima) in São Paulo, State of São Paulo, Brazil. Twitter: @obsclima. Network of Brazilian NGOs working on climate change issues.
 

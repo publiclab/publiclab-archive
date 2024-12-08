@@ -1,12 +1,18 @@
 ---
-nid: 11753
 title: Unix Philosophy + The Internet of Things = Best Friends ?
-path: public/static/notes/rjstatic/04-08-2015/unix-philosophy-the-internet-of-things-best-friends.md
-uid: 174
 tagnames: open-pipe-kit
+author: rjstatic
+path: /04-08-2015/unix-philosophy-the-internet-of-things-best-friends.md
+nid: 11753
+uid: 174
+
 ---
 
 # Unix Philosophy + The Internet of Things = Best Friends ?
+
+by [rjstatic](../profile/rjstatic) April 08, 2015 22:14
+
+April 08, 2015 22:14 | Tags: [open-pipe-kit](../tag/open-pipe-kit)
 
 The Internet of Things (IoT) has, since its inception, been in a standards war over protocols, database technologies, hardware, etc. What if instead of talking about standards, we had a philosophy that could help guide those decisions on standards? In our work on the Open Pipe Kit project, we're really digging Unix Philosophy for developing software that connects the Internet of Things.
 

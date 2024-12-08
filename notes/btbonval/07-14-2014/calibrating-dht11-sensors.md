@@ -1,12 +1,18 @@
 ---
-nid: 10688
 title: Calibrating DHT11 sensors
-path: public/static/notes/btbonval/07-14-2014/calibrating-dht11-sensors.md
+tagnames: arduino, calibration, temperature, sensors, data-collection, data, collection, humidity, dht11, dht22, dht12, dhtxx, rh, relative-humidity
+author: btbonval
+path: /notes/btbonval/07-14-2014/calibrating-dht11-sensors.md
+nid: 10688
 uid: 43229
-tagnames: arduino,calibration,temperature,sensors,data-collection,data,collection,humidity,dht11,dht22,dht12,dhtxx,rh,relative-humidity
+
 ---
 
 # Calibrating DHT11 sensors
+
+by [btbonval](../profile/btbonval) July 14, 2014 16:30
+
+July 14, 2014 16:30 | Tags: [arduino](../tag/arduino), [calibration](../tag/calibration), [temperature](../tag/temperature), [sensors](../tag/sensors), [data-collection](../tag/data-collection), [data](../tag/data), [collection](../tag/collection), [humidity](../tag/humidity), [dht11](../tag/dht11), [dht22](../tag/dht22), [dht12](../tag/dht12), [dhtxx](../tag/dhtxx), [rh](../tag/rh), [relative-humidity](../tag/relative-humidity)
 
 ###What I want to do
 I bought a handful of DHT11 sensors. Before putting them in different locations to measure statistically significant differences between the locations, it is important to ensure the sensors have comparable performance.

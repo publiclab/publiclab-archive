@@ -1,11 +1,17 @@
 ---
-nid: 900
 title: Apply to GSoC with PLOTS
-path: public/static/wiki/gsoc-apply.md
+tagnames: gsoc, parent:gsoc
+author: warren
+path: /wiki/gsoc-apply.md
+nid: 900
 uid: 1
-tagnames: gsoc,parent:gsoc
+
 ---
 
 # Apply to GSoC with PLOTS
+
+by [warren](../profile/warren)
+
+March 07, 2012 22:08 | Tags: [gsoc](../tag/gsoc), [parent:gsoc](../tag/parent:gsoc)
 
 We have consolidated this page into https://publiclab.org/wiki/gsoc-ideas, thanks!

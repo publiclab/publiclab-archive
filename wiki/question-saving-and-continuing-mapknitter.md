@@ -1,12 +1,18 @@
 ---
-nid: 24330
 title: question:* Saving and Continuing Mapknitter
-path: public/static/wiki/question-saving-and-continuing-mapknitter.md
+tagnames: location:blurred, zoom:15, lat:40.3, lon:-105.08, place:berthoud-co-80513-united-states
+author: willkarspeck
+path: /wiki/question-saving-and-continuing-mapknitter.md
+nid: 24330
 uid: 713206
-tagnames: location:blurred,zoom:15,lat:40.3,lon:-105.08,place:berthoud-co-80513-united-states
+
 ---
 
 # question:* Saving and Continuing Mapknitter
+
+by [willkarspeck](../profile/willkarspeck)
+
+August 15, 2020 23:22 | Tags: [location:blurred](../tag/location:blurred), [zoom:15](../tag/zoom:15), [lat:40.3](../tag/lat:40.3), [lon:-105.08](../tag/lon:-105.08), [place:berthoud-co-80513-united-states](../tag/place:berthoud-co-80513-united-states)
 
 Hello,
 Big fan of Public Lab, first time user.

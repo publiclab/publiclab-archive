@@ -1,12 +1,18 @@
 ---
-nid: 15731
 title: Public Lab nonprofit internship posting: Environmental Kit Prototyping Intern
-path: public/static/notes/Delaney/02-14-2018/public-lab-nonprofit-internship-posting-environmental-kit-prototyping-intern.md
+tagnames: kits, nonprofit, jobs, autodesk, prototyping-kits
+author: Delaney
+path: /notes/Delaney/02-14-2018/public-lab-nonprofit-internship-posting-environmental-kit-prototyping-intern.md
+nid: 15731
 uid: 517173
-tagnames: kits,nonprofit,jobs,autodesk,prototyping-kits
+
 ---
 
 # Public Lab nonprofit internship posting: Environmental Kit Prototyping Intern
+
+by [Delaney](../profile/Delaney) February 14, 2018 20:05
+
+February 14, 2018 20:05 | Tags: [kits](../tag/kits), [nonprofit](../tag/nonprofit), [jobs](../tag/jobs), [autodesk](../tag/autodesk), [prototyping-kits](../tag/prototyping-kits)
 
 **Project location:** Providence, Rhode Island
 

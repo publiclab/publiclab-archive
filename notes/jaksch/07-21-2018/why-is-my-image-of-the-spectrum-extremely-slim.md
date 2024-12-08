@@ -1,12 +1,18 @@
 ---
-nid: 16762
 title: [SOLVED] Why is my image of the spectrum extremely "slim"? DVD+RW is not good as a diffraction grating!
-path: public/static/notes/jaksch/07-21-2018/why-is-my-image-of-the-spectrum-extremely-slim.md
+tagnames: spectrometry, diffraction-grating, question:spectrometry, dvd, dvd-grating, question:diffraction-grating, question:dvd, first-time-poster
+author: jaksch
+path: /notes/jaksch/07-21-2018/why-is-my-image-of-the-spectrum-extremely-slim.md
+nid: 16762
 uid: 542671
-tagnames: spectrometry,diffraction-grating,question:spectrometry,dvd,dvd-grating,question:diffraction-grating,question:dvd,first-time-poster
+
 ---
 
 # [SOLVED] Why is my image of the spectrum extremely "slim"? DVD+RW is not good as a diffraction grating!
+
+by [jaksch](../profile/jaksch) July 21, 2018 10:27
+
+July 21, 2018 10:27 | Tags: [spectrometry](../tag/spectrometry), [diffraction-grating](../tag/diffraction-grating), [question:spectrometry](../tag/question:spectrometry), [dvd](../tag/dvd), [dvd-grating](../tag/dvd-grating), [question:diffraction-grating](../tag/question:diffraction-grating), [question:dvd](../tag/question:dvd), [first-time-poster](../tag/first-time-poster)
 
 A friend gave my a spectrometer kit (of unknown origin) and I'm trying to get it to work. I use DVD-RW grating at 65° (lines horizontally), camera at 45° and a distance to the slit of 200mm. I adjusted the distance camera <--\> grating, so that the spectrum is in the middle of the captured image.
 

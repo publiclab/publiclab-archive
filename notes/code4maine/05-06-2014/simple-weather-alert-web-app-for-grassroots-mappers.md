@@ -1,12 +1,18 @@
 ---
-nid: 10427
 title: Simple Weather-Alert Web App for Grassroots Mappers?
-path: public/static/notes/code4maine/05-06-2014/simple-weather-alert-web-app-for-grassroots-mappers.md
+tagnames: mapping, grassroots, weather, webapp, forecast
+author: ajawitz
+path: /notes/code4maine/05-06-2014/simple-weather-alert-web-app-for-grassroots-mappers.md
+nid: 10427
 uid: 294634
-tagnames: mapping,grassroots,weather,webapp,forecast
+
 ---
 
 # Simple Weather-Alert Web App for Grassroots Mappers?
+
+by [ajawitz](../profile/ajawitz) May 06, 2014 01:29
+
+May 06, 2014 01:29 | Tags: [mapping](../tag/mapping), [grassroots](../tag/grassroots), [weather](../tag/weather), [webapp](../tag/webapp), [forecast](../tag/forecast)
 
 ###What I want to do
  I would like to create a simple script/recipe to help plan for weather-sensitive group events (aka Balloon/Kite Mapping) by polling weather forecast data for the specific time/location and posting alerts to a group calendar event/discussion list/wiki/webpage etc...

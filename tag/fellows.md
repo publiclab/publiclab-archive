@@ -1,6 +1,6 @@
 # fellows
 
-44 notes and wiki pages
+44 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Public Lab Fellows Program](/wiki/fellows) (wiki)
 - [Sprint Fellowship Application: Public Lab Beta Oil Testing Kit](/notes/Shannon/05-12-2015/sprint-fellowship-application-public-lab-beta-oil-testing-kit) by [Shannon](../profile/Shannon)
@@ -12,7 +12,6 @@
 - [Frac Sand Sentinel Fellowship ](/notes/stevie/12-10-2018/frac-sand-sentinel-fellowship) by [stevie](../profile/stevie)
 - [Providence, RI software development fellowship](/notes/warren/03-13-2019/providence-ri-software-development-fellowship) by [warren](../profile/warren)
 - [Community Mapping Fellowship](/notes/stevie/03-15-2019/community-mapping-fellowship) by [stevie](../profile/stevie)
-- [MapKnitter: Community Atlas project](/notes/warren/05-09-2019/mapknitter-community-atlas-project) by [warren](../profile/warren)
 - [Introducing the MapKnitter: Community Atlas project](/notes/warren/05-28-2019/introducing-the-mapknitter-community-atlas-project) by [warren](../profile/warren)
 - [Seeking Hardware Fellow for Oil & Gas Water Fellowship Trio](/notes/stevie/08-06-2019/seeking-hardware-fellow-for-oil-gas-water-fellowship-trio) by [stevie](../profile/stevie)
 - [Seeking Monitoring Methods Fellow for Oil & Gas Water Fellowship Trio](/notes/stevie/08-06-2019/seeking-monitoring-methods-fellow-for-oil-gas-water-fellowship-trio) by [stevie](../profile/stevie)

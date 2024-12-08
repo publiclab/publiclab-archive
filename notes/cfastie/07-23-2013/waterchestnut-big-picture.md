@@ -1,12 +1,18 @@
 ---
-nid: 8926
 title: WATERCHESTNUT Big Picture
-path: public/static/notes/cfastie/07-23-2013/waterchestnut-big-picture.md
+tagnames: balloon-mapping, near-infrared-camera, kite-mapping, vermont, vegetation-mapping, lake, pvos, event, massachusetts, invasive, umass-amherst, aquatic, usfws, classification, h2onutz, invasive-species, pioneer-valley
+author: cfastie
+path: /notes/cfastie/07-23-2013/waterchestnut-big-picture.md
+nid: 8926
 uid: 554
-tagnames: balloon-mapping,near-infrared-camera,kite-mapping,vermont,vegetation-mapping,lake,pvos,event,massachusetts,invasive,umass-amherst,aquatic,usfws,classification,h2onutz,invasive-species,pioneer-valley
+
 ---
 
 # WATERCHESTNUT Big Picture
+
+by [cfastie](../profile/cfastie) July 23, 2013 22:20
+
+July 23, 2013 22:20 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [vermont](../tag/vermont), [vegetation-mapping](../tag/vegetation-mapping), [lake](../tag/lake), [pvos](../tag/pvos), [event](../tag/event), [massachusetts](../tag/massachusetts), [invasive](../tag/invasive), [umass-amherst](../tag/umass-amherst), [aquatic](../tag/aquatic), [usfws](../tag/usfws), [classification](../tag/classification), [h2onutz](../tag/h2onutz), [invasive-species](../tag/invasive-species), [pioneer-valley](../tag/pioneer-valley)
 
 <em>Image above: Monday’s WATERCHESTNUT crew as the big balloon landed after a 2.5 hour flight. Half of these people were tasked with harvesting the invasive water chestnut from Lake Warner, and the others tried to document the extent of the invasion using aerial photography.</em>
 

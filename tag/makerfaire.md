@@ -1,6 +1,6 @@
 # makerfaire
 
-6 notes and wiki pages
+6 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Posters](/wiki/posters) (wiki)
 - [World Maker Faire 2013](/notes/liz/09-24-2013/world-maker-faire-2013) by [liz](../profile/liz)

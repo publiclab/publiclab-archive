@@ -1,12 +1,18 @@
 ---
-nid: 153
 title: Maps
-path: public/static/wiki/maps.md
-uid: 12
 tagnames: 
+author: gonzoearth
+path: /wiki/maps.md
+nid: 153
+uid: 12
+
 ---
 
 # Maps
+
+by [gonzoearth](../profile/gonzoearth), [warren](../profile/warren)
+
+April 04, 2011 21:47 | Tags: 
 
 ##Placeholder listing of PLOTS published maps:##
 

@@ -1,12 +1,18 @@
 ---
-nid: 30910
 title: Introduction to Community Organizing
-path: public/static/notes/julia_e_masters/05-25-2022/introduction-to-community-organizing.md
+tagnames: video, organizing, advocacy, community-organizing, research-curation-fellows
+author: julia_e_masters
+path: /notes/julia_e_masters/05-25-2022/introduction-to-community-organizing.md
+nid: 30910
 uid: 756220
-tagnames: video,organizing,advocacy,community-organizing,research-curation-fellows
+
 ---
 
 # Introduction to Community Organizing
+
+by [julia_e_masters](../profile/julia_e_masters) May 25, 2022 22:01
+
+May 25, 2022 22:01 | Tags: [video](../tag/video), [organizing](../tag/organizing), [advocacy](../tag/advocacy), [community-organizing](../tag/community-organizing), [research-curation-fellows](../tag/research-curation-fellows)
 
 Julia Masters, Public Lab's Organizing & Advocacy Research Curation Fellow, gives a presentation of the basics of community organizing that can be applied to various efforts and initiatives. Julia walks through how strategy, goals, tactics, and success all play into organizing work, and some strategies for strengthening the potential of campaigns.
 

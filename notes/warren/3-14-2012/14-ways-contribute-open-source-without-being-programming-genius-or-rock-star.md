@@ -1,12 +1,18 @@
 ---
-nid: 925
 title: 14 Ways to Contribute to Open Source without Being a Programming Genius or a Rock Star
-path: public/static/notes/warren/3-14-2012/14-ways-contribute-open-source-without-being-programming-genius-or-rock-star.md
+tagnames: collaboration, process, open-source
+author: warren
+path: /notes/warren/3-14-2012/14-ways-contribute-open-source-without-being-programming-genius-or-rock-star.md
+nid: 925
 uid: 1
-tagnames: collaboration,process,open-source
+
 ---
 
 # 14 Ways to Contribute to Open Source without Being a Programming Genius or a Rock Star
+
+by [warren](../profile/warren) March 15, 2012 03:07
+
+March 15, 2012 03:07 | Tags: [collaboration](../tag/collaboration), [process](../tag/process), [open-source](../tag/open-source)
 
 This article by Andy Lester has some key thoughts for those trying to get involved in open source collaboration but aren't sure about what they have to offer. The biggest thing I take away from it is that actually implementing hardware or software is only a small part of open source development - and is arguably far less important than investigating and thoroughly characterizing problems with a technology. These might be things the open source project is trying to solve, or bugs with its approach to solving the problem. 
 

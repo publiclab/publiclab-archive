@@ -1,12 +1,18 @@
 ---
-nid: 11449
 title: Using Aerial Photography to Identify Wildlife
-path: public/static/notes/eustatic/12-11-2014/using-aerial-photography-to-identify-wildlife.md
+tagnames: gulf-coast, barataria-bay, mapknitter, barataria, washustlouis, washu-stlouis, bird, response:11129
+author: eustatic
+path: /12-11-2014/using-aerial-photography-to-identify-wildlife.md
+nid: 11449
 uid: 379
-tagnames: gulf-coast,barataria-bay,mapknitter,barataria,washustlouis,washu-stlouis,bird,response:11129
+
 ---
 
 # Using Aerial Photography to Identify Wildlife
+
+by [eustatic](../profile/eustatic) December 11, 2014 15:24
+
+December 11, 2014 15:24 | Tags: [gulf-coast](../tag/gulf-coast), [barataria-bay](../tag/barataria-bay), [mapknitter](../tag/mapknitter), [barataria](../tag/barataria), [washustlouis](../tag/washustlouis), [washu-stlouis](../tag/washu-stlouis), [bird](../tag/bird), [response:11129](../tag/response:11129)
 
 \###What I want to do
 

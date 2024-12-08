@@ -1,12 +1,18 @@
 ---
-nid: 16397
 title: oauth
-path: public/static/wiki/oauth.md
+tagnames: social-media, parent:power-tags, oauth, gsoc:2018
+author: bansal_sidharth2996
+path: /wiki/oauth.md
+nid: 16397
 uid: 503599
-tagnames: social-media,parent:power-tags,oauth,gsoc:2018
+
 ---
 
 # oauth
+
+by [bansal_sidharth2996](../profile/bansal_sidharth2996)
+
+May 27, 2018 08:30 | Tags: [social-media](../tag/social-media), [parent:power-tags](../tag/parent:power-tags), [oauth](../tag/oauth), [gsoc:2018](../tag/gsoc:2018)
 
 This page is about the Multi-Party Authentication System of Public Labs.
 # Sign Up

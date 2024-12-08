@@ -1,12 +1,18 @@
 ---
-nid: 6785
 title: Presentation to FOSS4G Denver, 2011
-path: public/static/notes/warren/04-11-2013/presentation-to-foss4g-denver-2011.md
+tagnames: presentation, foss4g
+author: warren
+path: /notes/warren/04-11-2013/presentation-to-foss4g-denver-2011.md
+nid: 6785
 uid: 1
-tagnames: presentation,foss4g
+
 ---
 
 # Presentation to FOSS4G Denver, 2011
+
+by [warren](../profile/warren) April 11, 2013 18:43
+
+April 11, 2013 18:43 | Tags: [presentation](../tag/presentation), [foss4g](../tag/foss4g)
 
 Archiving my presentation to FOSS4G 2011: Crowdsourcing Aerial Image Mapping with MapMill.org and MapKnitter.org
 

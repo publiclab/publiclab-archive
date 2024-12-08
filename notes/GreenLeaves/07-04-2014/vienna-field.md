@@ -1,11 +1,17 @@
 ---
-nid: 10653
 title: Vienna field
-path: public/static/notes/GreenLeaves/07-04-2014/vienna-field.md
+tagnames: near-infrared-camera, ndvi, infragram
+author: GreenLeaves
+path: /notes/GreenLeaves/07-04-2014/vienna-field.md
+nid: 10653
 uid: 425426
-tagnames: near-infrared-camera,ndvi,infragram
+
 ---
 
 # Vienna field
+
+by [GreenLeaves](../profile/GreenLeaves) July 04, 2014 10:45
+
+July 04, 2014 10:45 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [infragram](../tag/infragram)
 
 Beautiful

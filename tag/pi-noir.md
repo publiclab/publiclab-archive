@@ -1,6 +1,6 @@
 # pi-noir
 
-4 notes and wiki pages
+4 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Raspberry + NoIR cam + Blue filter](/notes/carolccarvalho/07-15-2016/raspberry-noir-cam-blue-filter) by [carolccarvalho](../profile/carolccarvalho)
 - [AstroPlant RPi sensory system](/notes/Sidney_AstroPlant/07-03-2017/astroplant-rpi-sensory-system) by [Sidney_AstroPlant](../profile/Sidney_AstroPlant)

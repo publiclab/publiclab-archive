@@ -1,12 +1,18 @@
 ---
-nid: 12563
 title: passive-pm
-path: public/static/wiki/passive-pm.md
-uid: 4
 tagnames: parent:pm
+author: mathew
+path: /wiki/passive-pm.md
+nid: 12563
+uid: 4
+
 ---
 
 # passive-pm
+
+by [stevie](../profile/stevie), [mathew](../profile/mathew)
+
+January 05, 2016 22:52 | Tags: [parent:pm](../tag/parent:pm)
 
 ###Introduction
 A passive particle monitor measures particles without the use of mechanical or electrical systems, depending instead on natural wind-blown deposition of particles on a collection surface.  Passive particle monitoring is frequently used for qualitative "nuisance dust" measurements, and more recently to extrapolate [airborne PM concentrations](https://publiclab.org/wiki/pm) and the direction dust comes from.

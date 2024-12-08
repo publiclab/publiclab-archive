@@ -1,12 +1,18 @@
 ---
-nid: 9989
 title: Radiation Monitoring
-path: public/static/notes/bodacea/01-30-2014/radiation-monitoring.md
+tagnames: radiation, first-time-poster
+author: bodacea
+path: /notes/bodacea/01-30-2014/radiation-monitoring.md
+nid: 9989
 uid: 648
-tagnames: radiation,first-time-poster
+
 ---
 
 # Radiation Monitoring
+
+by [bodacea](../profile/bodacea) January 30, 2014 17:41
+
+January 30, 2014 17:41 | Tags: [radiation](../tag/radiation), [first-time-poster](../tag/first-time-poster)
 
 ###What I want to do
 

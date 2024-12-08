@@ -1,12 +1,18 @@
 ---
-nid: 2588
 title: Keeping it easy, making it awesome: open source documentation
-path: public/static/notes/warren/6-20-2012/keeping-it-easy-making-it-awesome-open-source-documentation.md
+tagnames: open-source, documentation, guides
+author: warren
+path: /notes/warren/6-20-2012/keeping-it-easy-making-it-awesome-open-source-documentation.md
+nid: 2588
 uid: 1
-tagnames: open-source,documentation,guides
+
 ---
 
 # Keeping it easy, making it awesome: open source documentation
+
+by [warren](../profile/warren) June 20, 2012 19:34
+
+June 20, 2012 19:34 | Tags: [open-source](../tag/open-source), [documentation](../tag/documentation), [guides](../tag/guides)
 
 Thinking a lot about how to make documentation that helps the first-time user (can you do this in < 5 minutes with only what you have in your office/kitchen/garage?) and supporting the amazing advanced work so many people are doing in PLOTS. 
 

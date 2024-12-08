@@ -1,12 +1,18 @@
 ---
-nid: 506
 title: Foothills Community Garden NRG Imagery
-path: public/static/notes/gonzoearth/10-11-2011/foothills-community-garden-nrg-imagery.md
-uid: 12
 tagnames: 
+author: gonzoearth
+path: /notes/gonzoearth/10-11-2011/foothills-community-garden-nrg-imagery.md
+nid: 506
+uid: 12
+
 ---
 
 # Foothills Community Garden NRG Imagery
+
+by [gonzoearth](../profile/gonzoearth) October 11, 2011 23:38
+
+October 11, 2011 23:38 | Tags: 
 
 <a href="http://archive.publiclaboratory.org/boulder/2011-9-10-colorado-boulder-foothills-community-park/tms-nrg/googlemaps.html"><strong>NRG composite imagery - MAP LINK</strong></a>
 

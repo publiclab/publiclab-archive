@@ -1,12 +1,18 @@
 ---
-nid: 10164
 title: brasil
-path: public/static/wiki/brasil.md
+tagnames: events:brasil, brasil, list:publiclab-portugues, south-america, sa
+author: liz
+path: /wiki/brasil.md
+nid: 10164
 uid: 7
-tagnames: events:brasil,brasil,list:publiclab-portugues,south-america,sa
+
 ---
 
 # brasil
+
+by [gtalckmin](../profile/gtalckmin), [liz](../profile/liz)
+
+March 12, 2014 17:51 | Tags: [events:brasil](../tag/events:brasil), [brasil](../tag/brasil), [list:publiclab-portugues](../tag/list:publiclab-portugues), [south-america](../tag/south-america), [sa](../tag/sa)
 
 ###Organizers in Brasil
 

@@ -1,6 +1,6 @@
 # microscope-stage
 
-5 notes and wiki pages
+5 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Where can you get the stage for the basic microscope? ](/notes/stevie/01-23-2018/where-can-you-get-the-stage-for-the-basic-microscope) by [stevie](../profile/stevie)
 - [Looking for a simple DIY microscope stage design with parallel plates](/notes/warren/03-12-2018/looking-for-a-simple-diy-microscope-stage-design-with-parallel-plates) by [warren](../profile/warren)

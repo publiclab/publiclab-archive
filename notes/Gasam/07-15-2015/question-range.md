@@ -1,12 +1,18 @@
 ---
-nid: 12068
 title: Question: Range
-path: public/static/notes/Gasam/07-15-2015/question-range.md
-uid: 444988
 tagnames: question:spectrometry
+author: Gasam
+path: /notes/Gasam/07-15-2015/question-range.md
+nid: 12068
+uid: 444988
+
 ---
 
 # Question: Range
+
+by [Gasam](../profile/Gasam) July 15, 2015 07:23
+
+July 15, 2015 07:23 | Tags: [question:spectrometry](../tag/question:spectrometry)
 
 ###What I want to do or know
 

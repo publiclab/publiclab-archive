@@ -1,12 +1,18 @@
 ---
-nid: 7543
 title: Artichoke filter search
-path: public/static/notes/cfastie/05-14-2013/artichoke-filter-search.md
+tagnames: near-infrared-camera, ndvi, infragram, rosco, infrablue, infragram-filters, gigapan
+author: cfastie
+path: /notes/cfastie/05-14-2013/artichoke-filter-search.md
+nid: 7543
 uid: 554
-tagnames: near-infrared-camera,ndvi,infragram,rosco,infrablue,infragram-filters,gigapan
+
 ---
 
 # Artichoke filter search
+
+by [cfastie](../profile/cfastie) May 14, 2013 15:26
+
+May 14, 2013 15:26 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [infragram](../tag/infragram), [rosco](../tag/rosco), [infrablue](../tag/infrablue), [infragram-filters](../tag/infragram-filters), [gigapan](../tag/gigapan)
 
 Mathew captured the same photo of artichoke plants with several different blue Rosco filters in front of the lens. All of these filters pass colors at the blue end of the spectrum and also in the infrared, but block most of the red visible wavelengths.  He used a Canon Powershot SX100 IS with the infrared block filter removed. White balance was set to auto, so there might have been variation in white balance among the shots through different filters. I downloaded 1064x768 versions of eight of his photos and used Ned's ImageJ plugin to make NDVI images for each one. NDVI was scaled between -1 and +1 and no stretching was done. Then I used Adobe Lightroom to do a custom white balance on each photo by using the eye dropper tool and trying to click on the same medium gray (pink) spot on each photo. Then I made NDVI images from the new photos. All NDVI images used the blue channel as visible light and the red channel as infrared light, so NDVI=(red-blue)/(red+blue).
 

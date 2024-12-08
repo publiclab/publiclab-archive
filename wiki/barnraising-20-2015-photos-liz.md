@@ -1,12 +1,18 @@
 ---
-nid: 12439
 title: barnraising-20-2015-photos-liz
-path: public/static/wiki/barnraising-20-2015-photos-liz.md
+tagnames: barnraising, barnraising-2015
+author: liz
+path: /wiki/barnraising-20-2015-photos-liz.md
+nid: 12439
 uid: 7
-tagnames: barnraising,barnraising-2015
+
 ---
 
 # barnraising-20-2015-photos-liz
+
+by [liz](../profile/liz)
+
+November 22, 2015 15:29 | Tags: [barnraising](../tag/barnraising), [barnraising-2015](../tag/barnraising-2015)
 
 [![IMG_20151120_141546.jpg](//i.publiclab.org/system/images/photos/000/012/928/medium/IMG_20151120_141546.jpg)](//i.publiclab.org/system/images/photos/000/012/928/original/IMG_20151120_141546.jpg)
 

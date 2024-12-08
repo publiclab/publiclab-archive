@@ -1,12 +1,18 @@
 ---
-nid: 17069
 title: Publiclab Mastodon bot
-path: public/static/notes/imvec/09-05-2018/publiclab-mastodon-bot.md
+tagnames: social-media, outreach, mirror, software-outreach, bot, federation, mastodon, tor
+author: imvec
+path: /notes/imvec/09-05-2018/publiclab-mastodon-bot.md
+nid: 17069
 uid: 495038
-tagnames: social-media,outreach,mirror,software-outreach,bot,federation,mastodon,tor
+
 ---
 
 # Publiclab Mastodon bot
+
+by [imvec](../profile/imvec) September 05, 2018 20:54
+
+September 05, 2018 20:54 | Tags: [social-media](../tag/social-media), [outreach](../tag/outreach), [mirror](../tag/mirror), [software-outreach](../tag/software-outreach), [bot](../tag/bot), [federation](../tag/federation), [mastodon](../tag/mastodon), [tor](../tag/tor)
 
 ### What we want to do
 Feed the Publiclab research notes into the [fediverse](https://fediverse.party) a federation os social networks free, libres and open source. Among others Mastodon, GNUsocial, Pleroma, Friendica...

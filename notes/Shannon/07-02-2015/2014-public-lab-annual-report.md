@@ -1,12 +1,18 @@
 ---
-nid: 12029
 title: 2014 Public Lab Annual Report
-path: public/static/notes/Shannon/07-02-2015/2014-public-lab-annual-report.md
+tagnames: nonprofit, annual-report
+author: Shannon
+path: /notes/Shannon/07-02-2015/2014-public-lab-annual-report.md
+nid: 12029
 uid: 9
-tagnames: nonprofit,annual-report
+
 ---
 
 # 2014 Public Lab Annual Report
+
+by [Shannon](../profile/Shannon) July 02, 2015 19:25
+
+July 02, 2015 19:25 | Tags: [nonprofit](../tag/nonprofit), [annual-report](../tag/annual-report)
 
 Below and attached is the 2014 Public Lab Annual Report, designed by Molly Danielsson and written by Public Lab staff and organizers.
 

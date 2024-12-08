@@ -1,12 +1,18 @@
 ---
-nid: 4099
 title: Staff call notes 9 24 2012
-path: public/static/wiki/staff-call-notes-9-24-2012.md
-uid: 1
 tagnames: 
+author: warren
+path: /wiki/staff-call-notes-9-24-2012.md
+nid: 4099
+uid: 1
+
 ---
 
 # Staff call notes 9 24 2012
+
+by [warren](../profile/warren)
+
+October 02, 2012 00:36 | Tags: 
 
 ###Liz###
 * Accomplishments workshop w/ 35 people, edit in OSM through MapKnitter, last iLab event, Nov start date for Cypress Hills- Joe/Leif- split sessions between them (need to talk more about Leif’s role), EcoHack planning- overlap w/ EcoHack and FarmHack

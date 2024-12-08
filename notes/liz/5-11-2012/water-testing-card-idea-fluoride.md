@@ -1,11 +1,17 @@
 ---
-nid: 1961
 title: Water testing card idea: fluoride
-path: public/static/notes/liz/5-11-2012/water-testing-card-idea-fluoride.md
+tagnames: water-quality, fluoride, indiawaterportal
+author: liz
+path: /notes/liz/5-11-2012/water-testing-card-idea-fluoride.md
+nid: 1961
 uid: 7
-tagnames: water-quality,fluoride,indiawaterportal
+
 ---
 
 # Water testing card idea: fluoride
+
+by [liz](../profile/liz) May 11, 2012 21:26
+
+May 11, 2012 21:26 | Tags: [water-quality](../tag/water-quality), [fluoride](../tag/fluoride), [indiawaterportal](../tag/indiawaterportal)
 
 <p>With Nisha of indiawaterportal and Leif Percifield</p>

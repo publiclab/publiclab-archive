@@ -1,12 +1,18 @@
 ---
-nid: 13406
 title: Silica (frac) Sand Research
-path: public/static/notes/bkleist/08-30-2016/silica-frac-sand-research.md
+tagnames: wisconsin, air-quality, timelapse, transportation, fracking, silica, frac-sand, particle-monitoring, traffic, fracsand, parent:frac-sand, trapcam, first-time-poster
+author: bkleist
+path: /notes/bkleist/08-30-2016/silica-frac-sand-research.md
+nid: 13406
 uid: 489504
-tagnames: wisconsin,air-quality,timelapse,transportation,fracking,silica,frac-sand,particle-monitoring,traffic,fracsand,parent:frac-sand,trapcam,first-time-poster
+
 ---
 
 # Silica (frac) Sand Research
+
+by [bkleist](../profile/bkleist) August 30, 2016 17:20
+
+August 30, 2016 17:20 | Tags: [wisconsin](../tag/wisconsin), [air-quality](../tag/air-quality), [timelapse](../tag/timelapse), [transportation](../tag/transportation), [fracking](../tag/fracking), [silica](../tag/silica), [frac-sand](../tag/frac-sand), [particle-monitoring](../tag/particle-monitoring), [traffic](../tag/traffic), [fracsand](../tag/fracsand), [parent:frac-sand](../tag/parent:frac-sand), [trapcam](../tag/trapcam), [first-time-poster](../tag/first-time-poster)
 
 My team and I have been measuring concentrations of PM10 and PM2.5 particulates near frac sand mines in small Wisconsin towns. We are using multiple pieces of equipment to conduct this research, including the Mobius ActionCam from Public Lab.  
 

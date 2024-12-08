@@ -1,12 +1,18 @@
 ---
-nid: 16752
 title: DFRobot TDS sensor first look
-path: public/static/notes/cfastie/07-19-2018/dfrobot-tds-sensor-first-look.md
+tagnames: arduino, water-quality-monitoring, sensors, water-quality, data-logging, water-level, ds18b20, mini-pearl-logger, activity:mini-pearl-logger, series:springhouse-water-level, total-dissolved-solids
+author: cfastie
+path: /notes/cfastie/07-19-2018/dfrobot-tds-sensor-first-look.md
+nid: 16752
 uid: 554
-tagnames: arduino,water-quality-monitoring,sensors,water-quality,data-logging,water-level,ds18b20,mini-pearl-logger,activity:mini-pearl-logger,series:springhouse-water-level,total-dissolved-solids
+
 ---
 
 # DFRobot TDS sensor first look
+
+by [cfastie](../profile/cfastie) July 19, 2018 15:05
+
+July 19, 2018 15:05 | Tags: [arduino](../tag/arduino), [water-quality-monitoring](../tag/water-quality-monitoring), [sensors](../tag/sensors), [water-quality](../tag/water-quality), [data-logging](../tag/data-logging), [water-level](../tag/water-level), [ds18b20](../tag/ds18b20), [mini-pearl-logger](../tag/mini-pearl-logger), [activity:mini-pearl-logger](../tag/activity:mini-pearl-logger), [series:springhouse-water-level](../tag/series:springhouse-water-level), [total-dissolved-solids](../tag/total-dissolved-solids)
 
 A few people at Public Lab have expressed interest in the [DFRobot TDS sensor](https://www.dfrobot.com/product-1662.html) for Arduino data loggers. This sensor measures the electrical conductivity of water and the analog result can be converted to an estimate of total dissolved solids (TDS). TDS is a common measure of how much material is dissolved or suspended in the water and can be used as an index of water clarity or contamination. The sensor includes a waterproof probe and a circuit board (see main image above). One of the things the circuit board does is produce an alternating current to send to the two electrodes on the probe. This prevents the polarization that happens with direct current which can compromise conductivity readings and corrode the electrodes.
 

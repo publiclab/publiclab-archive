@@ -1,6 +1,6 @@
 # soc-2020-proposals
 
-10 notes and wiki pages
+10 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [GSoC Proposal:Editor repair and fortification](/notes/keshavgarg234156/03-06-2020/gsoc-proposal-editor-repair-and-fortification) by [keshavgarg234156](../profile/keshavgarg234156)
 - [GSoC Proposal 2020: Mapknitter Image Export and Spectral Workbench upgrade](/notes/alaxallves/03-06-2020/gsoc-proposal-2020-spectral-workbench-rails-and-devops-upgrades) by [alaxallves](../profile/alaxallves)

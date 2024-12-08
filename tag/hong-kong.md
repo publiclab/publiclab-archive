@@ -1,6 +1,6 @@
 # hong-kong
 
-4 notes and wiki pages
+4 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Report back from "Making a Difference" Asia](/notes/liz/01-23-2014/report-back-from-making-a-difference-asia) by [liz](../profile/liz)
 - [Hong Kong Open Source Meetup](/notes/liz/01-23-2014/hong-kong-open-source-meetup) by [liz](../profile/liz)

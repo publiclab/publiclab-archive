@@ -1,12 +1,18 @@
 ---
-nid: 10470
 title: taarifa
-path: public/static/wiki/taarifa.md
-uid: 43651
 tagnames: 
+author: donblair
+path: /wiki/taarifa.md
+nid: 10470
+uid: 43651
+
 ---
 
 # taarifa
+
+by [drew](../profile/drew), [donblair](../profile/donblair)
+
+May 13, 2014 21:23 | Tags: 
 
 ## Understanding The Water Situation
 <iframe width="420" height="315" src="//www.youtube.com/embed/1wIw0A1iJVo?rel=0" frameborder="0" allowfullscreen></iframe>

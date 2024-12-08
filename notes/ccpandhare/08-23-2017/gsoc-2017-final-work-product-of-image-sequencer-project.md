@@ -1,12 +1,18 @@
 ---
-nid: 14780
 title: GSoC 2017: Final Work Product of Image Sequencer Project
-path: public/static/notes/ccpandhare/08-23-2017/gsoc-2017-final-work-product-of-image-sequencer-project.md
+tagnames: image-processing, gsoc, google-summer-of-code, image-analysis, gsoc-2017, soc, soc-2017, response:14788
+author: ccpandhare
+path: /notes/ccpandhare/08-23-2017/gsoc-2017-final-work-product-of-image-sequencer-project.md
+nid: 14780
 uid: 503543
-tagnames: image-processing,gsoc,google-summer-of-code,image-analysis,gsoc-2017,soc,soc-2017,response:14788
+
 ---
 
 # GSoC 2017: Final Work Product of Image Sequencer Project
+
+by [ccpandhare](../profile/ccpandhare) August 23, 2017 15:27
+
+August 23, 2017 15:27 | Tags: [image-processing](../tag/image-processing), [gsoc](../tag/gsoc), [google-summer-of-code](../tag/google-summer-of-code), [image-analysis](../tag/image-analysis), [gsoc-2017](../tag/gsoc-2017), [soc](../tag/soc), [soc-2017](../tag/soc-2017), [response:14788](../tag/response:14788)
 
 # Developing Image Sequencer as a Library
 

@@ -1,12 +1,18 @@
 ---
-nid: 3394
 title: Spectral analysis
-path: public/static/wiki/spectral-analysis.md
+tagnames: spectrometer, spectrometry, methodologies, location:blurred, lat:-32, zoom:7, place:argentina, lon:-64
+author: warren
+path: /wiki/spectral-analysis.md
+nid: 3394
 uid: 1
-tagnames: spectrometer,spectrometry,methodologies,location:blurred,lat:-32,zoom:7,place:argentina,lon:-64
+
 ---
 
 # Spectral analysis
+
+by [warren](../profile/warren), [jamesbond007](../profile/jamesbond007), [Jasonchoi82222](../profile/Jasonchoi82222), [chongyukwai](../profile/chongyukwai), [mchapman87501](../profile/mchapman87501)
+
+August 22, 2012 16:31 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [methodologies](../tag/methodologies), [location:blurred](../tag/location:blurred), [lat:-32](../tag/lat:-32), [zoom:7](../tag/zoom:7), [place:argentina](../tag/place:argentina), [lon:-64](../tag/lon:-64)
 
 ##Intro
 

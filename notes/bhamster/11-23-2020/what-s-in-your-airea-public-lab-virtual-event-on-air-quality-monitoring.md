@@ -1,12 +1,18 @@
 ---
-nid: 25083
 title: What’s in your AIRea? Public Lab virtual event on air quality monitoring
-path: public/static/notes/bhamster/11-23-2020/what-s-in-your-airea-public-lab-virtual-event-on-air-quality-monitoring.md
+tagnames: event, research, air-quality, event:rsvp, rsvp:liz, air-sampling, air-sensors, research-area-review, bucket-monitor, rsvp:amocorro, rsvp:ruthnwaiganjo
+author: bhamster
+path: /notes/bhamster/11-23-2020/what-s-in-your-airea-public-lab-virtual-event-on-air-quality-monitoring.md
+nid: 25083
 uid: 664477
-tagnames: event,research,air-quality,event:rsvp,rsvp:liz,air-sampling,air-sensors,research-area-review,bucket-monitor,rsvp:amocorro,rsvp:ruthnwaiganjo
+
 ---
 
 # What’s in your AIRea? Public Lab virtual event on air quality monitoring
+
+by [bhamster](../profile/bhamster) November 23, 2020 16:16
+
+November 23, 2020 16:16 | Tags: [event](../tag/event), [research](../tag/research), [air-quality](../tag/air-quality), [event:rsvp](../tag/event:rsvp), [rsvp:liz](../tag/rsvp:liz), [air-sampling](../tag/air-sampling), [air-sensors](../tag/air-sensors), [research-area-review](../tag/research-area-review), [bucket-monitor](../tag/bucket-monitor), [rsvp:amocorro](../tag/rsvp:amocorro), [rsvp:ruthnwaiganjo](../tag/rsvp:ruthnwaiganjo)
 
 _Image from [@liz](https://publiclab.org/profile/liz) in [this post](https://publiclab.org/notes/liz/02-18-2015/haze-over-chilly-manhattan)_
 

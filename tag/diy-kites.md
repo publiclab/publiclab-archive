@@ -1,6 +1,6 @@
 # diy-kites
 
-18 notes and wiki pages
+18 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [splitting bamboo for kites](/notes/mathew/7-28-2011/splitting-bamboo-kites) by [mathew](../profile/mathew)
 - [Tyvek Fleds, Theoretical & Actual Performance](/notes/mathew/8-5-2011/tyvek-fleds-theoretical-actual-performance) by [mathew](../profile/mathew)
@@ -17,6 +17,5 @@
 - [Kite Construction: How bad can it get? ](/notes/mathew/06-04-2016/kite-construction-how-bad-can-it-get) by [mathew](../profile/mathew)
 - [Reconfigurable Rig](/wiki/reconfigurable-rig) (wiki)
 - [Building miniature kites at a family science night](/notes/SuziT9/03-08-2018/building-miniature-kites-at-a-family-science-night) by [SuziT9](../profile/SuziT9)
-- [Have done this before](/notes/SeoServicesSydney/03-23-2018/have-done-this-before) by [SeoServicesSydney](../profile/SeoServicesSydney)
 - [Building Miniature Kites](/notes/mimiss/04-21-2020/building-miniature-kites) by [mimiss](../profile/mimiss)
 - [Live Build with Public Lab: Mini Kites! ](/notes/mimiss/04-21-2020/live-build-with-public-lab-mini-kites) by [mimiss](../profile/mimiss)

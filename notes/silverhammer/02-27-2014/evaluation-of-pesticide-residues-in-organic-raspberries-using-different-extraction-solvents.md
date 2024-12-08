@@ -1,12 +1,18 @@
 ---
-nid: 10074
 title: Evaluation of Pesticide Residues in Organic Raspberries using Different Extraction Solvents
-path: public/static/notes/silverhammer/02-27-2014/evaluation-of-pesticide-residues-in-organic-raspberries-using-different-extraction-solvents.md
+tagnames: spectrometer, agriculture, pesticides, extraction, reagents, raspberries, organic, response:10014, solvents
+author: silverhammer
+path: /notes/silverhammer/02-27-2014/evaluation-of-pesticide-residues-in-organic-raspberries-using-different-extraction-solvents.md
+nid: 10074
 uid: 420530
-tagnames: spectrometer,agriculture,pesticides,extraction,reagents,raspberries,organic,response:10014,solvents
+
 ---
 
 # Evaluation of Pesticide Residues in Organic Raspberries using Different Extraction Solvents
+
+by [silverhammer](../profile/silverhammer) February 27, 2014 22:03
+
+February 27, 2014 22:03 | Tags: [spectrometer](../tag/spectrometer), [agriculture](../tag/agriculture), [pesticides](../tag/pesticides), [extraction](../tag/extraction), [reagents](../tag/reagents), [raspberries](../tag/raspberries), [organic](../tag/organic), [response:10014](../tag/response:10014), [solvents](../tag/solvents)
 
 ####**Purpose**
 Explore alternative extract solvents that are easier to work with or more readily accessible than what is used as the extraction solvent in the pesticide detection kit from RenekaBio (part# 003RT).   

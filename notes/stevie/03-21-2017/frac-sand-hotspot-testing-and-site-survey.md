@@ -1,12 +1,18 @@
 ---
-nid: 14044
 title: Frac sand hotspot testing and site survey
-path: public/static/notes/stevie/03-21-2017/frac-sand-hotspot-testing-and-site-survey.md
+tagnames: photo-monitoring, event, wisconsin, air-quality, frac-sand, pm, mid-west, fracsand, parent:frac-sand, hotspot-monitoring, hotspot, site-survey, sitesurvey, pdr1500
+author: stevie
+path: /notes/stevie/03-21-2017/frac-sand-hotspot-testing-and-site-survey.md
+nid: 14044
 uid: 422561
-tagnames: photo-monitoring,event,wisconsin,air-quality,frac-sand,pm,mid-west,fracsand,parent:frac-sand,hotspot-monitoring,hotspot,site-survey,sitesurvey,pdr1500
+
 ---
 
 # Frac sand hotspot testing and site survey
+
+by [stevie](../profile/stevie) March 21, 2017 18:04
+
+March 21, 2017 18:04 | Tags: [photo-monitoring](../tag/photo-monitoring), [event](../tag/event), [wisconsin](../tag/wisconsin), [air-quality](../tag/air-quality), [frac-sand](../tag/frac-sand), [pm](../tag/pm), [mid-west](../tag/mid-west), [fracsand](../tag/fracsand), [parent:frac-sand](../tag/parent:frac-sand), [hotspot-monitoring](../tag/hotspot-monitoring), [hotspot](../tag/hotspot), [site-survey](../tag/site-survey), [sitesurvey](../tag/sitesurvey), [pdr1500](../tag/pdr1500)
 
 Public Lab will be hosting a get together for anyone interested in practicing a site survey and hotspot particulate matter sampling in New Auburn, WI on Friday March 31st. We’ll start with a breakfast-brainstorm and head out from there! 
 

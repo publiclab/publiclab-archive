@@ -1,12 +1,18 @@
 ---
-nid: 12333
 title: Uncontrolled reentry
-path: public/static/notes/cfastie/10-25-2015/uncontrolled-reentry.md
+tagnames: kite-mapping, vermont, kite, saturnv, skyshield, half-spherical, littleplanet, response:12330, s100-gps
+author: cfastie
+path: /notes/cfastie/10-25-2015/uncontrolled-reentry.md
+nid: 12333
 uid: 554
-tagnames: kite-mapping,vermont,kite,saturnv,skyshield,half-spherical,littleplanet,response:12330,s100-gps
+
 ---
 
 # Uncontrolled reentry
+
+by [cfastie](../profile/cfastie) October 25, 2015 05:16
+
+October 25, 2015 05:16 | Tags: [kite-mapping](../tag/kite-mapping), [vermont](../tag/vermont), [kite](../tag/kite), [saturnv](../tag/saturnv), [skyshield](../tag/skyshield), [half-spherical](../tag/half-spherical), [littleplanet](../tag/littleplanet), [response:12330](../tag/response:12330), [s100-gps](../tag/s100-gps)
 
 *Above: Stereographic projection of a panorama stitched from 22 photos taken by a Canon S100 on a [Saturn V autoKAP rig](http://kaptery.com/product/saturn-v-rig) lofted by a Fled kite on October 23, 2015.*
 

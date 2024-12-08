@@ -1,12 +1,18 @@
 ---
-nid: 11592
 title: Freshwater Salinity Preliminary Research
-path: public/static/notes/paigesolomon/02-17-2015/freshwater-salinity-preliminary-research.md
+tagnames: water-quality, first-time-poster
+author: paigesolomon
+path: /notes/paigesolomon/02-17-2015/freshwater-salinity-preliminary-research.md
+nid: 11592
 uid: 434147
-tagnames: water-quality,first-time-poster
+
 ---
 
 # Freshwater Salinity Preliminary Research
+
+by [paigesolomon](../profile/paigesolomon) February 17, 2015 17:07
+
+February 17, 2015 17:07 | Tags: [water-quality](../tag/water-quality), [first-time-poster](../tag/first-time-poster)
 
 ****Paige Solomon, Cody Bowman, Ryan Smythe
 Preliminary Research of Road Sa**lt**

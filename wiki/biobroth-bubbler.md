@@ -1,12 +1,18 @@
 ---
-nid: 14505
 title: BioBroth Bubbler
-path: public/static/wiki/biobroth-bubbler.md
+tagnames: remediation, air-quality, bacteria, tool, open-air, indoor-air-quality, indoor-air, method, chemicals, parent:diy-indoor-air-quality-remediation-kit, biobroth-bubbler
+author: warren
+path: /wiki/biobroth-bubbler.md
+nid: 14505
 uid: 1
-tagnames: remediation,air-quality,bacteria,tool,open-air,indoor-air-quality,indoor-air,method,chemicals,parent:diy-indoor-air-quality-remediation-kit,biobroth-bubbler
+
 ---
 
 # BioBroth Bubbler
+
+by [warren](../profile/warren)
+
+June 06, 2017 17:55 | Tags: [remediation](../tag/remediation), [air-quality](../tag/air-quality), [bacteria](../tag/bacteria), [tool](../tag/tool), [open-air](../tag/open-air), [indoor-air-quality](../tag/indoor-air-quality), [indoor-air](../tag/indoor-air), [method](../tag/method), [chemicals](../tag/chemicals), [parent:diy-indoor-air-quality-remediation-kit](../tag/parent:diy-indoor-air-quality-remediation-kit), [biobroth-bubbler](../tag/biobroth-bubbler)
 
 The biobroth bubbler is still in its experimental stage and we are looking into the potential harms of introducing these bacteria colonies in the home before posting further documentation. 
 

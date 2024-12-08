@@ -1,12 +1,18 @@
 ---
-nid: 13279
 title: #BarnraisingCA
-path: public/static/notes/lilahiggins/07-11-2016/barnraisingca.md
+tagnames: landfill, mapping, balloon, barnraisingca, chiquita, canyon
+author: lilahiggins
+path: /notes/lilahiggins/07-11-2016/barnraisingca.md
+nid: 13279
 uid: 482809
-tagnames: landfill,mapping,balloon,barnraisingca,chiquita,canyon
+
 ---
 
 # #BarnraisingCA
+
+by [lilahiggins](../profile/lilahiggins) July 11, 2016 19:26
+
+July 11, 2016 19:26 | Tags: [landfill](../tag/landfill), [mapping](../tag/mapping), [balloon](../tag/balloon), [barnraisingca](../tag/barnraisingca), [chiquita](../tag/chiquita), [canyon](../tag/canyon)
 
 Over the weekend I attended the regional #barnraisingCA in Val Verde, California. Here are my notes from the weekend. 
 

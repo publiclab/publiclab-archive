@@ -1,12 +1,18 @@
 ---
-nid: 7752
 title: Pontchartrain Restoration
-path: public/static/notes/eustatic/05-20-2013/pontchartrain-restoration.md
+tagnames: gulf-coast, event, bsj
+author: eustatic
+path: /05-20-2013/pontchartrain-restoration.md
+nid: 7752
 uid: 379
-tagnames: gulf-coast,event,bsj
+
 ---
 
 # Pontchartrain Restoration
+
+by [eustatic](../profile/eustatic) May 20, 2013 23:47
+
+May 20, 2013 23:47 | Tags: [gulf-coast](../tag/gulf-coast), [event](../tag/event), [bsj](../tag/bsj)
 
 ##Pontchartrain Wetlands Project photos
 

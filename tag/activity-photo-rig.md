@@ -1,6 +1,6 @@
 # activity-photo-rig
 
-45 notes and wiki pages
+45 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Yet another soda bottle camera house](/notes/gonzoearth/7-5-2011/yet-another-soda-bottle-camera-house) by [gonzoearth](../profile/gonzoearth)
 - [Picavet PET rig](/notes/mathew/2-5-2012/picavet-pet-rig) by [mathew](../profile/mathew)

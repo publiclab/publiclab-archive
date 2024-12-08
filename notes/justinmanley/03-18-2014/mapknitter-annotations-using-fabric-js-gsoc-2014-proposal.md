@@ -1,12 +1,18 @@
 ---
-nid: 10198
 title: Mapknitter Annotations using Fabric.js (GSOC 2014 Proposal)
-path: public/static/notes/justinmanley/03-18-2014/mapknitter-annotations-using-fabric-js-gsoc-2014-proposal.md
+tagnames: mapknitter, gsoc, annotation, gsoc-2014, map-annotations, first-time-poster
+author: justinmanley
+path: /notes/justinmanley/03-18-2014/mapknitter-annotations-using-fabric-js-gsoc-2014-proposal.md
+nid: 10198
 uid: 421556
-tagnames: mapknitter,gsoc,annotation,gsoc-2014,map-annotations,first-time-poster
+
 ---
 
 # Mapknitter Annotations using Fabric.js (GSOC 2014 Proposal)
+
+by [justinmanley](../profile/justinmanley) March 18, 2014 10:12
+
+March 18, 2014 10:12 | Tags: [mapknitter](../tag/mapknitter), [gsoc](../tag/gsoc), [annotation](../tag/annotation), [gsoc-2014](../tag/gsoc-2014), [map-annotations](../tag/map-annotations), [first-time-poster](../tag/first-time-poster)
 
 ##MapKnitter Annotations (GSOC 2014 Proposal)##
 

@@ -1,12 +1,18 @@
 ---
-nid: 12937
 title: Some notes + updates from PhotosynQ
-path: public/static/notes/gbathree/04-08-2016/some-notes-updates-from-photosynq.md
+tagnames: event, soil, photosynq, soilcarbon, event:rsvp, multispeq, soil-testing, date:04-22-2016
+author: gbathree
+path: /notes/gbathree/04-08-2016/some-notes-updates-from-photosynq.md
+nid: 12937
 uid: 53164
-tagnames: event,soil,photosynq,soilcarbon,event:rsvp,multispeq,soil-testing,date:04-22-2016
+
 ---
 
 # Some notes + updates from PhotosynQ
+
+by [gbathree](../profile/gbathree) April 08, 2016 03:34
+
+April 08, 2016 03:34 | Tags: [event](../tag/event), [soil](../tag/soil), [photosynq](../tag/photosynq), [soilcarbon](../tag/soilcarbon), [event:rsvp](../tag/event:rsvp), [multispeq](../tag/multispeq), [soil-testing](../tag/soil-testing), [date:04-22-2016](../tag/date:04-22-2016)
 
 I haven't posted in a while, but wanted to let folks know a few interesting things:
 

@@ -1,6 +1,6 @@
 # biosolids
 
-3 notes and wiki pages
+3 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [map of Bayou Bienvenue CIAP restoration ("B" of Green Slice area)](/notes/eustatic/10-8-2012/map-bayou-bienvenue-ciap-restoration-b-green-slice-area) by [eustatic](../profile/eustatic)
 - [Issue briefing: ultrafine particle pollution from dehydrated biosolids](/notes/liz/06-14-2017/issue-briefing-ultrafine-particle-pollution-from-dehydrated-biosolids) by [liz](../profile/liz)

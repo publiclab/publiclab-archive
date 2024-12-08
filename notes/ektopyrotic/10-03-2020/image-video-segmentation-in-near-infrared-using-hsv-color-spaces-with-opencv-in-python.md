@@ -1,12 +1,18 @@
 ---
-nid: 24696
 title: Image + Video Segmentation in Near-Infrared Using HSV Color Spaces with OpenCV in Python
-path: public/static/notes/ektopyrotic/10-03-2020/image-video-segmentation-in-near-infrared-using-hsv-color-spaces-with-opencv-in-python.md
+tagnames: ndvi, infrared, uav, mapping, plants, camera, vegetation, environment, drone, monitoring, coding, detection, python, project, lat:28, image, zoom:6, lon:-15
+author: ektopyrotic
+path: /notes/ektopyrotic/10-03-2020/image-video-segmentation-in-near-infrared-using-hsv-color-spaces-with-opencv-in-python.md
+nid: 24696
 uid: 699450
-tagnames: ndvi,infrared,uav,mapping,plants,camera,vegetation,environment,drone,monitoring,coding,detection,python,project,lat:28,image,zoom:6,lon:-15
+
 ---
 
 # Image + Video Segmentation in Near-Infrared Using HSV Color Spaces with OpenCV in Python
+
+by [ektopyrotic](../profile/ektopyrotic) October 03, 2020 19:08
+
+October 03, 2020 19:08 | Tags: [ndvi](../tag/ndvi), [infrared](../tag/infrared), [uav](../tag/uav), [mapping](../tag/mapping), [plants](../tag/plants), [camera](../tag/camera), [vegetation](../tag/vegetation), [environment](../tag/environment), [drone](../tag/drone), [monitoring](../tag/monitoring), [coding](../tag/coding), [detection](../tag/detection), [python](../tag/python), [project](../tag/project), [lat:28](../tag/lat:28), [image](../tag/image), [zoom:6](../tag/zoom:6), [lon:-15](../tag/lon:-15)
 
 Demo Video Here:https://www.youtube.com/watch?v=LR37KuKt5nQ&feature=emb\_title
 

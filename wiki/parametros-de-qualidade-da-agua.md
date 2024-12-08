@@ -1,12 +1,18 @@
 ---
-nid: 12478
 title: Parâmetros de qualidade da água
-path: public/static/wiki/parametros-de-qualidade-da-agua.md
+tagnames: water-quality-monitoring, water-quality, list:plots-waterquality, lang:pt, list:publiclab-portugues, parent:water-quality
+author: vjpixel
+path: /wiki/parametros-de-qualidade-da-agua.md
+nid: 12478
 uid: 420617
-tagnames: water-quality-monitoring,water-quality,list:plots-waterquality,lang:pt,list:publiclab-portugues,parent:water-quality
+
 ---
 
 # Parâmetros de qualidade da água
+
+by [vjpixel](../profile/vjpixel)
+
+December 04, 2015 06:20 | Tags: [water-quality-monitoring](../tag/water-quality-monitoring), [water-quality](../tag/water-quality), [list:plots-waterquality](../tag/list:plots-waterquality), [lang:pt](../tag/lang:pt), [list:publiclab-portugues](../tag/list:publiclab-portugues), [parent:water-quality](../tag/parent:water-quality)
 
 Abaixo são descritos alguns parâmetros utilizados para monitorar qualidade da água. Se você quer mais detalhes sobre algum dos parâmetros listados abaixo, veja as referências.
 

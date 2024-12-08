@@ -1,12 +1,18 @@
 ---
-nid: 10497
 title: Southeast United States
-path: public/static/wiki/southeast.md
+tagnames: list:plots-southeast, tabbed:notes, tabbed:wikis, region
+author: liz
+path: /wiki/southeast.md
+nid: 10497
 uid: 7
-tagnames: list:plots-southeast,tabbed:notes,tabbed:wikis,region
+
 ---
 
 # Southeast United States
+
+by [wward1400](../profile/wward1400), [stevie](../profile/stevie), [liz](../profile/liz)
+
+May 21, 2014 15:15 | Tags: [list:plots-southeast](../tag/list:plots-southeast), [tabbed:notes](../tag/tabbed:notes), [tabbed:wikis](../tag/tabbed:wikis), [region](../tag/region)
 
 This is a regional page for the Public Lab community in the southeastern United States, reaching from the Appalachian mountains to the coastal plain. It sometimes reaches as far west as the Mississippi River, is bounded to the south by the [Gulf Coast region](http://publiclab.org/wiki/gulf-coast), and to the north by [Midwest](http://publiclab.org/wiki/midwest) and [Northeast](http://publiclab.org/wiki/northeast). Join the mailing list--plots-southeast--in the left sidebar. Also, look through the places listed below and see if your locality is already organizing locally. If so, join its local mailing list and subscribe to relevant tags on the website.
 

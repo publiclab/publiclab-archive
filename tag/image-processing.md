@@ -1,6 +1,6 @@
 # image-processing
 
-26 notes and wiki pages
+26 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Image Analysis](/wiki/image-analysis) (wiki)
 - [Improve the Sharpness and Details of Your Photos](/notes/safidy/5-30-2012/improve-sharpness-and-detail-your-photos) by [Safidy](../profile/Safidy)

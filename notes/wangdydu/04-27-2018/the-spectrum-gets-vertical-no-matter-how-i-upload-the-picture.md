@@ -1,12 +1,18 @@
 ---
-nid: 16220
 title: The spectrum gets vertical no matter how I upload the picture. 
-path: public/static/notes/wangdydu/04-27-2018/the-spectrum-gets-vertical-no-matter-how-i-upload-the-picture.md
+tagnames: spectral-workbench, question:spectral-workbench
+author: wangdydu
+path: /notes/wangdydu/04-27-2018/the-spectrum-gets-vertical-no-matter-how-i-upload-the-picture.md
+nid: 16220
 uid: 532021
-tagnames: spectral-workbench,question:spectral-workbench
+
 ---
 
 # The spectrum gets vertical no matter how I upload the picture. 
+
+by [wangdydu](../profile/wangdydu) April 27, 2018 08:55
+
+April 27, 2018 08:55 | Tags: [spectral-workbench](../tag/spectral-workbench), [question:spectral-workbench](../tag/question:spectral-workbench)
 
 I took photo with my smartphone, upload with smartphone and PC, checked and unchecked the checkbox of vertical, rotated the device for 90 degree on my smartphone, zoomed in/out, rename the file, and all the methods lead to the same result: vertical spectrum. Am I doing anything wrong?
 

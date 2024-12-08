@@ -1,12 +1,18 @@
 ---
-nid: 8611
 title: Infragrams over NYC: 462 Halsey
-path: public/static/notes/liz/07-02-2013/infragrams-over-nyc-462-halsey.md
+tagnames: new-york-city, near-infrared-camera, 5bf, five-borough-farm
+author: liz
+path: /notes/liz/07-02-2013/infragrams-over-nyc-462-halsey.md
+nid: 8611
 uid: 7
-tagnames: new-york-city,near-infrared-camera,5bf,five-borough-farm
+
 ---
 
 # Infragrams over NYC: 462 Halsey
+
+by [liz](../profile/liz) July 02, 2013 20:23
+
+July 02, 2013 20:23 | Tags: [new-york-city](../tag/new-york-city), [near-infrared-camera](../tag/near-infrared-camera), [5bf](../tag/5bf), [five-borough-farm](../tag/five-borough-farm)
 
 ##handheld Infragrams of 462 Halsey Garden, Brooklyn
 

@@ -1,6 +1,6 @@
 # colorimeter
 
-5 notes and wiki pages
+5 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Multi parameter analysis using a DIY Spectrometer](/notes/Frikkie/03-05-2015/multi-parameter-analysis-using-a-diy-spectrometer) by [Frikkie](../profile/Frikkie)
 - [How can we detect contaminants in water samples with a DIY spectrometer using reagents?](/notes/warren/12-18-2017/how-do-i) by [warren](../profile/warren)

@@ -1,6 +1,6 @@
 # philadelphia
 
-14 notes and wiki pages
+14 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Launch at Washington Crossing Historic Park](/notes/geography76/5-1-2013/launch-washington-crossing-historic-park) by [geography76](../profile/geography76)
 - [Philadelphia](/wiki/philadelphia) (wiki)
@@ -14,5 +14,3 @@
 - [Ignite Philly Talk on Balloon Mapping ](/notes/manetomapping/10-16-2014/ignite-philly-talk-on-balloon-mapping) by [manetomapping](../profile/manetomapping)
 - [GeoPhilly Balloon Mapping Workshop - April 22nd, 2015](/notes/SeanKMcGinnis/02-15-2015/geophilly-balloon-mapping-workshop-april-22nd-2015) by [seankmcginnis](../profile/seankmcginnis)
 - [Summer of Maps Fellowship Presentation](/notes/SeanKMcGinnis/08-17-2015/summer-of-maps-fellowship-presentation) by [seankmcginnis](../profile/seankmcginnis)
-- [Free photobank of Philadelphia](/notes/freephillyphoto/11-07-2018/free-photobank-of-philadelphia) by [freephillyphoto](../profile/freephillyphoto)
-- [Pest Control & Exterminator in Philadelphia PA](/notes/DavidJohnUSA/10-16-2019/pest-control-exterminator-in-philadelphia-pa) by [DavidJohnUSA](../profile/DavidJohnUSA)

@@ -1,12 +1,18 @@
 ---
-nid: 12895
 title: Ph adjustments and their effects when taking sample spectra
-path: public/static/notes/dhaffnersr/03-27-2016/ph-adjustments-and-their-effects-when-taking-sample-spectra.md
-uid: 461120
 tagnames: 
+author: dhaffnersr
+path: /notes/dhaffnersr/03-27-2016/ph-adjustments-and-their-effects-when-taking-sample-spectra.md
+nid: 12895
+uid: 461120
+
 ---
 
 # Ph adjustments and their effects when taking sample spectra
+
+by [dhaffnersr](../profile/dhaffnersr) March 27, 2016 15:39
+
+March 27, 2016 15:39 | Tags: 
 
 Here are a series of experiments done using rhodamine b and methylene blue with and without adjusting the Ph balance within the sample:
 

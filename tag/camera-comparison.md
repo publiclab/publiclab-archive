@@ -1,6 +1,6 @@
 # camera-comparison
 
-3 notes and wiki pages
+3 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Raspberry Pi Microscope/close up lens system](/notes/MaggPi/04-08-2018/raspberry-pi-microscope-close-up-lens-system) by [MaggPi](../profile/MaggPi)
 - [Raspberry Pi camera (visible and NOIR) V2 / picamera effects demos](/notes/MaggPi/06-02-2018/raspberry-pi-camera-visible-and-noir-v2-picamera-effects-demos) by [MaggPi](../profile/MaggPi)

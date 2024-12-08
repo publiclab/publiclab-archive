@@ -1,12 +1,18 @@
 ---
-nid: 10674
 title: Inconsistent two cam ndvi
-path: public/static/notes/gpenzo/07-10-2014/inconsistant-two-cam-ndvi.md
+tagnames: ndvi, canon, a2500
+author: gpenzo
+path: /notes/gpenzo/07-10-2014/inconsistant-two-cam-ndvi.md
+nid: 10674
 uid: 420719
-tagnames: ndvi,canon,a2500
+
 ---
 
 # Inconsistent two cam ndvi
+
+by [gpenzo](../profile/gpenzo) July 10, 2014 23:10
+
+July 10, 2014 23:10 | Tags: [ndvi](../tag/ndvi), [canon](../tag/canon), [a2500](../tag/a2500)
 
 ###What I want to do
 A while ago I made a ndvi picutre with two canon a2500 cameras. [NDVI canon a2500](http://publiclab.org/notes/gpenzo/02-16-2014/ndvi-720nm-850nm-filter-two-camera-setup-result).

@@ -1,12 +1,18 @@
 ---
-nid: 13927
 title: Oil and Gas Accountability Toolkit
-path: public/static/wiki/oil-and-gas.md
+tagnames: oil-spill-toolkit, toolkits, parent:toolkits
+author: warren
+path: /wiki/oil-and-gas.md
+nid: 13927
 uid: 1
-tagnames: oil-spill-toolkit,toolkits,parent:toolkits
+
 ---
 
 # Oil and Gas Accountability Toolkit
+
+by [joyofsoy](../profile/joyofsoy), [stevie](../profile/stevie), [warren](../profile/warren)
+
+February 13, 2017 19:41 | Tags: [oil-spill-toolkit](../tag/oil-spill-toolkit), [toolkits](../tag/toolkits), [parent:toolkits](../tag/parent:toolkits)
 
 The Public Lab non-profit hosts the **Oil and Gas Accountability Toolkit**, a collection of resources and a coalition of people working around the world on oil and gas issues. 
 

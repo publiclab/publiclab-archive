@@ -1,12 +1,18 @@
 ---
-nid: 13164
 title: Jim Day's Picavet rigging on my Saturn V
-path: public/static/notes/mathew/06-03-2016/jim-day-s-picavet-rigging-on-my-saturn-v.md
+tagnames: kite-mapping, picavet, kite-aerial-photography, photo-rig, kap-rigs
+author: mathew
+path: /notes/mathew/06-03-2016/jim-day-s-picavet-rigging-on-my-saturn-v.md
+nid: 13164
 uid: 4
-tagnames: kite-mapping,picavet,kite-aerial-photography,photo-rig,kap-rigs
+
 ---
 
 # Jim Day's Picavet rigging on my Saturn V
+
+by [mathew](../profile/mathew) June 03, 2016 23:51
+
+June 03, 2016 23:51 | Tags: [kite-mapping](../tag/kite-mapping), [picavet](../tag/picavet), [kite-aerial-photography](../tag/kite-aerial-photography), [photo-rig](../tag/photo-rig), [kap-rigs](../tag/kap-rigs)
 
 I'm a big fan of my [Kaptery Saturn V rig.](http://kaptery.com/product/saturn-v-rig) and have recently flown it with a new, easier-to-handle [picavet](/tag/picavet) rigging.
 

@@ -1,6 +1,6 @@
 # flame-spectroscopy
 
-6 notes and wiki pages
+6 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Classroom Flame Spectroscopy](/notes/straylight/10-14-2012/classroom-flame-spectroscopy) by [straylight](../profile/straylight)
 - [Limits on Flame Spectra](/notes/summers/4-22-2013/limits-flame-spectra) by [Summers](../profile/Summers)

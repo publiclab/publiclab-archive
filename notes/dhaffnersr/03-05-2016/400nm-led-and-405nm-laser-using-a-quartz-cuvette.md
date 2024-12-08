@@ -1,12 +1,18 @@
 ---
-nid: 12777
 title: 400nm LED and 405nm laser using a quartz cuvette
-path: public/static/notes/dhaffnersr/03-05-2016/400nm-led-and-405nm-laser-using-a-quartz-cuvette.md
-uid: 461120
 tagnames: 
+author: dhaffnersr
+path: /notes/dhaffnersr/03-05-2016/400nm-led-and-405nm-laser-using-a-quartz-cuvette.md
+nid: 12777
+uid: 461120
+
 ---
 
 # 400nm LED and 405nm laser using a quartz cuvette
+
+by [dhaffnersr](../profile/dhaffnersr) March 05, 2016 18:49
+
+March 05, 2016 18:49 | Tags: 
 
 I just got my quartz cuvettes in and I was very excited to use them and here are some results which I do have to say, make a huge difference in quality of spectral imaging and data collection:
 

@@ -1,12 +1,18 @@
 ---
-nid: 484
 title: Sumava, Czech Republic
-path: public/static/wiki/sumava-czech-republic.md
-uid: 9
 tagnames: chapter
+author: Shannon
+path: /wiki/sumava-czech-republic.md
+nid: 484
+uid: 9
+
 ---
 
 # Sumava, Czech Republic
+
+by [Shannon](../profile/Shannon)
+
+September 27, 2011 22:42 | Tags: [chapter](../tag/chapter)
 
 View the area that activists are currently working at: http://maps.google.com/maps?q=Modrava,+Czech+Republic&hl=en&sll=37.0625,-95.677068&sspn=37.819897,79.013672&vpsrc=0&t=m&z=12
 

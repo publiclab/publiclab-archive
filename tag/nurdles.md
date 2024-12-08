@@ -1,6 +1,6 @@
 # nurdles
 
-10 notes and wiki pages
+10 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Typology for the nurdles of the "Bianca" spill](/notes/eustatic/08-26-2020/typology-for-the-nurdles-of-the-bianca-spill) by [eustatic](../profile/eustatic)
 - [Sweep and Pan vs Scoop and Sift:  Methods for Nurdle Retrieval](/notes/eustatic/09-05-2020/sweep-and-pan-vs-scoop-and-sift-methods-for-nurdle-retrieval) by [eustatic](../profile/eustatic)

@@ -1,12 +1,18 @@
 ---
-nid: 13432
 title: 0.05mm Slit Gillette Utility Knife Razor Blade design 100X Magnification
-path: public/static/notes/dhaffnersr/09-08-2016/0-05mm-slit-gillette-utility-knife-razor-blade-design-100x-magnification.md
-uid: 461120
 tagnames: 
+author: dhaffnersr
+path: /notes/dhaffnersr/09-08-2016/0-05mm-slit-gillette-utility-knife-razor-blade-design-100x-magnification.md
+nid: 13432
+uid: 461120
+
 ---
 
 # 0.05mm Slit Gillette Utility Knife Razor Blade design 100X Magnification
+
+by [dhaffnersr](../profile/dhaffnersr) September 08, 2016 19:01
+
+September 08, 2016 19:01 | Tags: 
 
 This is actually a follow up on my previous post on the two laser scans using the new 0.05mm slit width. I wanted to verify the width using my microscope, since the image capture program, AMScope has a pretty awesome measurement feature, also this is the first time I have used it with the measurement feature layered on the image itself, and didn't realize I could export it to Excel.
 

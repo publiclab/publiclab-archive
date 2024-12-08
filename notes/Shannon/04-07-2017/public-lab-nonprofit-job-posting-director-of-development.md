@@ -1,12 +1,18 @@
 ---
-nid: 14097
 title: Public Lab nonprofit job posting: Director of Development
-path: public/static/notes/Shannon/04-07-2017/public-lab-nonprofit-job-posting-director-of-development.md
+tagnames: nonprofit, jobs
+author: Shannon
+path: /notes/Shannon/04-07-2017/public-lab-nonprofit-job-posting-director-of-development.md
+nid: 14097
 uid: 9
-tagnames: nonprofit,jobs
+
 ---
 
 # Public Lab nonprofit job posting: Director of Development
+
+by [Shannon](../profile/Shannon) April 07, 2017 12:53
+
+April 07, 2017 12:53 | Tags: [nonprofit](../tag/nonprofit), [jobs](../tag/jobs)
 
 **Director of Development**
 

@@ -1,12 +1,18 @@
 ---
-nid: 3028
 title: Staff call notes 7 26 2012
-path: public/static/wiki/staff-call-notes-7-26-2012.md
-uid: 1
 tagnames: 
+author: warren
+path: /wiki/staff-call-notes-7-26-2012.md
+nid: 3028
+uid: 1
+
 ---
 
 # Staff call notes 7 26 2012
+
+by [warren](../profile/warren)
+
+July 30, 2012 16:38 | Tags: 
 
 ###Stewart###
 * Working on Barataria regrowth sites (20) from Alex Ameen, workshop with Chris C. in L.A. prior to UNICEF trip to Uganda, Monday goals continued.

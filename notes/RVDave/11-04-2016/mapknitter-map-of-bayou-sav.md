@@ -1,12 +1,18 @@
 ---
-nid: 13677
 title: MapKnitter map of Bayou Sav
-path: public/static/notes/RVDave/11-04-2016/mapknitter-map-of-bayou-sav.md
+tagnames: mapknitter, lat:30.0330059998, lon:-89.8617482185
+author: RVDave
+path: /notes/RVDave/11-04-2016/mapknitter-map-of-bayou-sav.md
+nid: 13677
 uid: 496388
-tagnames: mapknitter,lat:30.0330059998,lon:-89.8617482185
+
 ---
 
 # MapKnitter map of Bayou Sav
+
+by [RVDave](../profile/RVDave) November 04, 2016 21:04
+
+November 04, 2016 21:04 | Tags: [mapknitter](../tag/mapknitter), [lat:30.0330059998](../tag/lat:30.0330059998), [lon:-89.8617482185](../tag/lon:-89.8617482185)
 
 first post - 18 Sep
 

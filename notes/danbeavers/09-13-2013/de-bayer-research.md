@@ -1,12 +1,18 @@
 ---
-nid: 9324
 title: De-Bayer research
-path: public/static/notes/danbeavers/09-13-2013/de-bayer-research.md
+tagnames: bayer-filter, camera, camera-modification, debayering
+author: danbeavers
+path: /notes/danbeavers/09-13-2013/de-bayer-research.md
+nid: 9324
 uid: 51
-tagnames: bayer-filter,camera,camera-modification,debayering
+
 ---
 
 # De-Bayer research
+
+by [danbeavers](../profile/danbeavers) September 13, 2013 03:34
+
+September 13, 2013 03:34 | Tags: [bayer-filter](../tag/bayer-filter), [camera](../tag/camera), [camera-modification](../tag/camera-modification), [debayering](../tag/debayering)
 
 ##What I want to do
 I got interested in how to remove the Bayer layer on image sensors.  Or how to convert a color camera into a monochrome camera by debayering it.

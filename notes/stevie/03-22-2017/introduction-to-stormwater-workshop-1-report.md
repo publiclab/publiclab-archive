@@ -1,12 +1,18 @@
 ---
-nid: 14049
 title: Introduction to Stormwater Workshop 1 Report
-path: public/static/notes/stevie/03-22-2017/introduction-to-stormwater-workshop-1-report.md
+tagnames: gulf-coast, new-orleans, stormwater, site-survey, replication:14048, replication:14047
+author: stevie
+path: /notes/stevie/03-22-2017/introduction-to-stormwater-workshop-1-report.md
+nid: 14049
 uid: 422561
-tagnames: gulf-coast,new-orleans,stormwater,site-survey,replication:14048,replication:14047
+
 ---
 
 # Introduction to Stormwater Workshop 1 Report
+
+by [stevie](../profile/stevie) March 22, 2017 20:48
+
+March 22, 2017 20:48 | Tags: [gulf-coast](../tag/gulf-coast), [new-orleans](../tag/new-orleans), [stormwater](../tag/stormwater), [site-survey](../tag/site-survey), [replication:14048](../tag/replication:14048), [replication:14047](../tag/replication:14047)
 
 On March 4th, we hosted an event in New Orleans that was the first of the [New Orleans Stormwater Workshop Series](https://publiclab.org/notes/stevie/02-01-2017/stormwater-workshop-series-in-new-orleans). About 18 participants gathered for this event at the New Orleans Healing Center. 
 

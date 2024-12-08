@@ -1,6 +1,6 @@
 # pinoir
 
-6 notes and wiki pages
+6 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [How do I set a custum white balance of the NoIR modulo cam?](/notes/LaPa/12-03-2015/how-do-i-set-a-costum-white-balance-of-the-noir-modulo-cam) by [LaPa](../profile/LaPa)
 - [NDVI from PiNoir with a blue filter](/notes/carolccarvalho/02-18-2016/ndvi-from-pinoir-with-a-blue-filter) by [carolccarvalho](../profile/carolccarvalho)

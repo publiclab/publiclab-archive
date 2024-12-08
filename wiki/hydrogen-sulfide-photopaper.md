@@ -1,12 +1,18 @@
 ---
-nid: 15478
 title: Hydrogen Sulfide Photopaper
-path: public/static/wiki/hydrogen-sulfide-photopaper.md
+tagnames: method, h2s-photopaper, parent:hydrogen-sulfide
+author: warren
+path: /wiki/hydrogen-sulfide-photopaper.md
+nid: 15478
 uid: 1
-tagnames: method,h2s-photopaper,parent:hydrogen-sulfide
+
 ---
 
 # Hydrogen Sulfide Photopaper
+
+by [gretchengehrke](../profile/gretchengehrke), [warren](../profile/warren)
+
+January 08, 2018 20:05 | Tags: [method](../tag/method), [h2s-photopaper](../tag/h2s-photopaper), [parent:hydrogen-sulfide](../tag/parent:hydrogen-sulfide)
 
 Silver halide photo paper tarnishes in the presence of hydrogen sulfide, creating silver sulfide. In this method, we expose photo paper to air and assess the relative amount of airborne hydrogen sulfide present. We hope to make this a quantitative method soon. 
 

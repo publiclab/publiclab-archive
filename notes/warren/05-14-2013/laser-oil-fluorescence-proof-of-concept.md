@@ -1,12 +1,18 @@
 ---
-nid: 7551
 title: Laser oil fluorescence proof of concept
-path: public/static/notes/warren/05-14-2013/laser-oil-fluorescence-proof-of-concept.md
+tagnames: spectrometer, partsandcrafts, oil, laser, fluorescence, parts-and-crafts
+author: warren
+path: /notes/warren/05-14-2013/laser-oil-fluorescence-proof-of-concept.md
+nid: 7551
 uid: 1
-tagnames: spectrometer,partsandcrafts,oil,laser,fluorescence,parts-and-crafts
+
 ---
 
 # Laser oil fluorescence proof of concept
+
+by [warren](../profile/warren) May 14, 2013 20:03
+
+May 14, 2013 20:03 | Tags: [spectrometer](../tag/spectrometer), [partsandcrafts](../tag/partsandcrafts), [oil](../tag/oil), [laser](../tag/laser), [fluorescence](../tag/fluorescence), [parts-and-crafts](../tag/parts-and-crafts)
 
 I just worked with some smart and excitable kids from [Parts & Crafts](http://partsandcrafts.org) and we managed to get a sample of suspected motor oil residue from a nearby street drain to fluoresce strongly enough to be detected (faintly) by a [desktop spectrometry kit](/wiki/dsk):
 

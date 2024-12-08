@@ -1,12 +1,18 @@
 ---
-nid: 9490
 title: Updates on Photosynq
-path: public/static/notes/gbathree/10-15-2013/updates-on-photosynq.md
-uid: 53164
 tagnames: photosynq
+author: gbathree
+path: /notes/gbathree/10-15-2013/updates-on-photosynq.md
+nid: 9490
+uid: 53164
+
 ---
 
 # Updates on Photosynq
+
+by [gbathree](../profile/gbathree) October 15, 2013 18:22
+
+October 15, 2013 18:22 | Tags: [photosynq](../tag/photosynq)
 
 We're getting closer to our beta test ready version of Photosynq, the handheld device for measuring photosynthesis, and we're still seeking beta testers (that could be you!).  Here's the updates on how things are going -
 

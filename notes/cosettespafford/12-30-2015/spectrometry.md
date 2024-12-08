@@ -1,12 +1,18 @@
 ---
-nid: 12551
 title: Spectrometry
-path: public/static/notes/cosettespafford/12-30-2015/spectrometry.md
+tagnames: spectrometer, spectroscopy, grating-angle, cooking, ingredients
+author: cosettespafford
+path: /notes/cosettespafford/12-30-2015/spectrometry.md
+nid: 12551
 uid: 457275
-tagnames: spectrometer,spectroscopy,grating-angle,cooking,ingredients
+
 ---
 
 # Spectrometry
+
+by [cosettespafford](../profile/cosettespafford) December 30, 2015 22:13
+
+December 30, 2015 22:13 | Tags: [spectrometer](../tag/spectrometer), [spectroscopy](../tag/spectroscopy), [grating-angle](../tag/grating-angle), [cooking](../tag/cooking), [ingredients](../tag/ingredients)
 
 ###What I want to do
 Use my spectrometer to test cooking ingredients

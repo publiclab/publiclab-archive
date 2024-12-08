@@ -1,6 +1,6 @@
 # time-15m
 
-3 notes and wiki pages
+3 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Use a rubber band and knotted string to trigger a camera](/notes/mathew/1-29-2012/using-knot-trigger-cameras) by [mathew](../profile/mathew)
 - [Calibrate your spectrometer in Spectral Workbench](/notes/warren/09-01-2016/calibrating-your-spectrometer-in-spectral-workbench) by [warren](../profile/warren)

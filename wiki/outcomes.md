@@ -1,12 +1,18 @@
 ---
-nid: 172
 title: Outcomes
-path: public/static/wiki/outcomes.md
-uid: 1
 tagnames: 
+author: warren
+path: /wiki/outcomes.md
+nid: 172
+uid: 1
+
 ---
 
 # Outcomes
+
+by [warren](../profile/warren)
+
+April 12, 2011 19:16 | Tags: 
 
 _This page is a draft_
 

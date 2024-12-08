@@ -1,12 +1,18 @@
 ---
-nid: 26254
 title: Community Science in the Classroom
-path: public/static/notes/mimiss/04-16-2021/community-science-in-the-classroom.md
+tagnames: education, classroom, blog, community-science, classroom-community-science, with:purl, eeweek2021
+author: mimiss
+path: /notes/mimiss/04-16-2021/community-science-in-the-classroom.md
+nid: 26254
 uid: 579821
-tagnames: education,classroom,blog,community-science,classroom-community-science,with:purl,eeweek2021
+
 ---
 
 # Community Science in the Classroom
+
+by [mimiss](../profile/mimiss) April 16, 2021 02:52
+
+April 16, 2021 02:52 | Tags: [education](../tag/education), [classroom](../tag/classroom), [blog](../tag/blog), [community-science](../tag/community-science), [classroom-community-science](../tag/classroom-community-science), [with:purl](../tag/with:purl), [eeweek2021](../tag/eeweek2021)
 
 ## What is community science?  
 

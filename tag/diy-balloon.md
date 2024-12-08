@@ -1,6 +1,6 @@
 # diy-balloon
 
-21 notes and wiki pages
+21 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Experiments with kites, balloons, and infrared photography at FabLab Lima](/notes/warren/05-01-2018/experiments-with-kites-balloons-and-infrared-photography-at-fablab-lima) by [warren](../profile/warren)
 - [Kite-Balloon Hybrid](/wiki/kite-balloon-hybrid) (wiki)

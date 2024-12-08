@@ -1,12 +1,18 @@
 ---
-nid: 15252
 title: Water Wise NOLA Rain Barrel Build! 
-path: public/static/notes/stevie/11-28-2017/water-wise-nola-rain-barrel-build.md
+tagnames: gulf-coast, event, new-orleans, stormwater, flooding, nola, rain-barrel
+author: stevie
+path: /notes/stevie/11-28-2017/water-wise-nola-rain-barrel-build.md
+nid: 15252
 uid: 422561
-tagnames: gulf-coast,event,new-orleans,stormwater,flooding,nola,rain-barrel
+
 ---
 
 # Water Wise NOLA Rain Barrel Build! 
+
+by [stevie](../profile/stevie) November 28, 2017 21:00
+
+November 28, 2017 21:00 | Tags: [gulf-coast](../tag/gulf-coast), [event](../tag/event), [new-orleans](../tag/new-orleans), [stormwater](../tag/stormwater), [flooding](../tag/flooding), [nola](../tag/nola), [rain-barrel](../tag/rain-barrel)
 
 _Sharing a note (and above image) from [Water Wise NOLA][1]::_
 

@@ -1,12 +1,18 @@
 ---
-nid: 25707
 title: Public Lab Seeking Documentation Fellow
-path: public/static/notes/stevie/02-16-2021/public-lab-seeking-documentation-fellow.md
+tagnames: documentation, air-quality, jobs, fellows, fellowship, community-organizing, fellow
+author: stevie
+path: /notes/stevie/02-16-2021/public-lab-seeking-documentation-fellow.md
+nid: 25707
 uid: 422561
-tagnames: documentation,air-quality,jobs,fellows,fellowship,community-organizing,fellow
+
 ---
 
 # Public Lab Seeking Documentation Fellow
+
+by [stevie](../profile/stevie) February 16, 2021 16:52
+
+February 16, 2021 16:52 | Tags: [documentation](../tag/documentation), [air-quality](../tag/air-quality), [jobs](../tag/jobs), [fellows](../tag/fellows), [fellowship](../tag/fellowship), [community-organizing](../tag/community-organizing), [fellow](../tag/fellow)
 
 ###Public Lab is seeking a Documentation Fellow 
 

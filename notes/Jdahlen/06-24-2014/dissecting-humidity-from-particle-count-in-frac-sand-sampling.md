@@ -1,12 +1,18 @@
 ---
-nid: 10611
 title: Dissecting Humidity from Particle Count in Frac Sand Sampling 
-path: public/static/notes/Jdahlen/06-24-2014/dissecting-humidity-from-particle-count-in-frac-sand-sampling.md
+tagnames: sand, wisconsin, air-quality, eau-claire, fracking, silica, particulate, frac-sand, pm, midwest, particle-monitoring, dusttrak, dylos, uw, humidity, parent:frac-sand
+author: Jdahlen
+path: /notes/Jdahlen/06-24-2014/dissecting-humidity-from-particle-count-in-frac-sand-sampling.md
+nid: 10611
 uid: 425122
-tagnames: sand,wisconsin,air-quality,eau-claire,fracking,silica,particulate,frac-sand,pm,midwest,particle-monitoring,dusttrak,dylos,uw,humidity,parent:frac-sand
+
 ---
 
 # Dissecting Humidity from Particle Count in Frac Sand Sampling 
+
+by [Jdahlen](../profile/Jdahlen) June 24, 2014 19:32
+
+June 24, 2014 19:32 | Tags: [sand](../tag/sand), [wisconsin](../tag/wisconsin), [air-quality](../tag/air-quality), [eau-claire](../tag/eau-claire), [fracking](../tag/fracking), [silica](../tag/silica), [particulate](../tag/particulate), [frac-sand](../tag/frac-sand), [pm](../tag/pm), [midwest](../tag/midwest), [particle-monitoring](../tag/particle-monitoring), [dusttrak](../tag/dusttrak), [dylos](../tag/dylos), [uw](../tag/uw), [humidity](../tag/humidity), [parent:frac-sand](../tag/parent:frac-sand)
 
 ###What I want to do
 Dr. Crispin PIerce (UW-Eau Claire) and I, Jonathan Dahlen (UW-Stout), are researching into particulate matter 2.5 and 10 around frac sand mines. What we are looking to do is create a device that can sample both PM 2.5 and 10, but also collect measurements of temperature and humidity. 

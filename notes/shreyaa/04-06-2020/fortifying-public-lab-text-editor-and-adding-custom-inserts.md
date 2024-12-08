@@ -1,12 +1,18 @@
 ---
-nid: 23313
 title: Fortifying Public Lab Text Editor and Adding Custom Inserts
-path: public/static/notes/shreyaa/04-06-2020/fortifying-public-lab-text-editor-and-adding-custom-inserts.md
+tagnames: first-time-poster, outreachy-2020-proposals
+author: shreyaa
+path: /notes/shreyaa/04-06-2020/fortifying-public-lab-text-editor-and-adding-custom-inserts.md
+nid: 23313
 uid: 676730
-tagnames: first-time-poster,outreachy-2020-proposals
+
 ---
 
 # Fortifying Public Lab Text Editor and Adding Custom Inserts
+
+by [shreyaa](../profile/shreyaa) April 06, 2020 16:24
+
+April 06, 2020 16:24 | Tags: [first-time-poster](../tag/first-time-poster), [outreachy-2020-proposals](../tag/outreachy-2020-proposals)
 
 Name: Shreyaa Sharma
 

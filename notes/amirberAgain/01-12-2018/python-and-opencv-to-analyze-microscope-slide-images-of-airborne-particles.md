@@ -1,12 +1,18 @@
 ---
-nid: 15519
 title: Python and openCV to analyze microscope slide images of airborne particles
-path: public/static/notes/amirberAgain/01-12-2018/python-and-opencv-to-analyze-microscope-slide-images-of-airborne-particles.md
+tagnames: air-quality, pm, python, microscope, passive-particle-monitors, microscopy, opencv, particle-imaging
+author: amirberAgain
+path: /notes/amirberAgain/01-12-2018/python-and-opencv-to-analyze-microscope-slide-images-of-airborne-particles.md
+nid: 15519
 uid: 420776
-tagnames: air-quality,pm,python,microscope,passive-particle-monitors,microscopy,opencv,particle-imaging
+
 ---
 
 # Python and openCV to analyze microscope slide images of airborne particles
+
+by [amirberAgain](../profile/amirberAgain) January 12, 2018 23:21
+
+January 12, 2018 23:21 | Tags: [air-quality](../tag/air-quality), [pm](../tag/pm), [python](../tag/python), [microscope](../tag/microscope), [passive-particle-monitors](../tag/passive-particle-monitors), [microscopy](../tag/microscopy), [opencv](../tag/opencv), [particle-imaging](../tag/particle-imaging)
 
 Following the Jan 9th air quality open call I wanted to see what can be done with a microscope slide image of airborne particles. Inspired by the work started by Mathew and Stevie a couple of years ago I set out to try and get a similar process running on Python using openCV and skimage. Based on an old tutorial to detect coins I repurposed it for a single slide example. Once more example images are obtained this process could be made more robust, could also be a great candidate for DL!
 

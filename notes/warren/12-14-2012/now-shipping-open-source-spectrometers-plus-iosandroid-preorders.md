@@ -1,12 +1,18 @@
 ---
-nid: 5204
 title: Now shipping open source spectrometers!! Plus iOS/Android & preorders
-path: public/static/notes/warren/12-14-2012/now-shipping-open-source-spectrometers-plus-iosandroid-preorders.md
+tagnames: spectrometer, retail, kickstarter
+author: warren
+path: /notes/warren/12-14-2012/now-shipping-open-source-spectrometers-plus-iosandroid-preorders.md
+nid: 5204
 uid: 1
-tagnames: spectrometer,retail,kickstarter
+
 ---
 
 # Now shipping open source spectrometers!! Plus iOS/Android & preorders
+
+by [warren](../profile/warren) December 14, 2012 22:08
+
+December 14, 2012 22:08 | Tags: [spectrometer](../tag/spectrometer), [retail](../tag/retail), [kickstarter](../tag/kickstarter)
 
 900 webcams just arrived, and we are in the midst of final assembly for the 974 Desktop Spectrometry Kits ($35 reward; the remaining webcams should be here soon). What's more, the night before last, all of our foldable mini-spectrometers shipped out from Portland, OR. We expect to ship the first 900 desktop kits tomorrow.
 

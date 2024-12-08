@@ -1,12 +1,18 @@
 ---
-nid: 1854
 title: Juice jug rig
-path: public/static/wiki/juice-jug-rig.md
-uid: 1
 tagnames: photo-rig
+author: warren
+path: /wiki/juice-jug-rig.md
+nid: 1854
+uid: 1
+
 ---
 
 # Juice jug rig
+
+by [warren](../profile/warren), [mathew](../profile/mathew)
+
+April 30, 2012 22:09 | Tags: [photo-rig](../tag/photo-rig)
 
 <a href="https://www.flickr.com/photos/jeffreywarren/7129638595/" title="Complete dual/infrared camera setup by jeferonix, on Flickr"><img src="https://farm8.staticflickr.com/7232/7129638595_2ea75ac88b.jpg" width="500" height="375" alt="Complete dual/infrared camera setup"></a>
 

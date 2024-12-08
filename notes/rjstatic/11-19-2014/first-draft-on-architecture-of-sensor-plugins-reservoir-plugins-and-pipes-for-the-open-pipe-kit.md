@@ -1,12 +1,18 @@
 ---
-nid: 11370
 title: First draft on architecture of Sensor plugins, Reservoir plugins, and Pipes for the Open Pipe Kit
-path: public/static/notes/rjstatic/11-19-2014/first-draft-on-architecture-of-sensor-plugins-reservoir-plugins-and-pipes-for-the-open-pipe-kit.md
-uid: 174
 tagnames: open-pipe-kit
+author: rjstatic
+path: /11-19-2014/first-draft-on-architecture-of-sensor-plugins-reservoir-plugins-and-pipes-for-the-open-pipe-kit.md
+nid: 11370
+uid: 174
+
 ---
 
 # First draft on architecture of Sensor plugins, Reservoir plugins, and Pipes for the Open Pipe Kit
+
+by [rjstatic](../profile/rjstatic) November 19, 2014 22:59
+
+November 19, 2014 22:59 | Tags: [open-pipe-kit](../tag/open-pipe-kit)
 
 ###What I want to do
 

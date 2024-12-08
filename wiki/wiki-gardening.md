@@ -1,12 +1,18 @@
 ---
-nid: 6925
 title: Wiki gardening
-path: public/static/wiki/wiki-gardening.md
-uid: 1
 tagnames: needs-revision
+author: warren
+path: /wiki/wiki-gardening.md
+nid: 6925
+uid: 1
+
 ---
 
 # Wiki gardening
+
+by [btbonval](../profile/btbonval), [warren](../profile/warren)
+
+April 20, 2013 05:45 | Tags: [needs-revision](../tag/needs-revision)
 
 This page is a starting point for "wiki gardening", which is what we call tidying up and editing the wiki pages of the Public Lab website. Our website is made up of blog-like research notes and a sprawling user-editable wiki. Wiki pages sometimes get a bit old or out of date, or just need a little writing or editing help. 
 

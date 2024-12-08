@@ -1,12 +1,18 @@
 ---
-nid: 10707
 title: riffle-pilots
-path: public/static/wiki/riffle-pilots.md
-uid: 43651
 tagnames: 
+author: donblair
+path: /wiki/riffle-pilots.md
+nid: 10707
+uid: 43651
+
 ---
 
 # riffle-pilots
+
+by [donblair](../profile/donblair)
+
+July 18, 2014 19:40 | Tags: 
 
 ## WA-17  
 

@@ -1,12 +1,18 @@
 ---
-nid: 17835
 title: Community Science Soil Testing Fellowship
-path: public/static/notes/stevie/12-07-2018/community-science-soil-testing-fellowship.md
+tagnames: soil, jobs, fellows, fellowship, soil-sampling, fellow
+author: stevie
+path: /notes/stevie/12-07-2018/community-science-soil-testing-fellowship.md
+nid: 17835
 uid: 422561
-tagnames: soil,jobs,fellows,fellowship,soil-sampling,fellow
+
 ---
 
 # Community Science Soil Testing Fellowship
+
+by [stevie](../profile/stevie) December 07, 2018 21:19
+
+December 07, 2018 21:19 | Tags: [soil](../tag/soil), [jobs](../tag/jobs), [fellows](../tag/fellows), [fellowship](../tag/fellowship), [soil-sampling](../tag/soil-sampling), [fellow](../tag/fellow)
 
 **When:** Jan 5th - April 5th, 2019 </br>
 **Where:** this fellowship is not geographically restricted, however residents of the Gulf Coast are encouraged to apply.  </br>

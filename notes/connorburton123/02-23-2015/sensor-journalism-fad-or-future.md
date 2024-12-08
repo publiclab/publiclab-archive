@@ -1,12 +1,18 @@
 ---
-nid: 11615
 title: Sensor Journalism: Fad or Future? 
-path: public/static/notes/connorburton123/02-23-2015/sensor-journalism-fad-or-future.md
-uid: 435383
 tagnames: sensor-journalism
+author: connorburton123
+path: /notes/connorburton123/02-23-2015/sensor-journalism-fad-or-future.md
+nid: 11615
+uid: 435383
+
 ---
 
 # Sensor Journalism: Fad or Future? 
+
+by [connorburton123](../profile/connorburton123) February 23, 2015 00:02
+
+February 23, 2015 00:02 | Tags: [sensor-journalism](../tag/sensor-journalism)
 
 Before I reflect on our experience with sensors and the future of sensor journalism as a viable, new medium, I want to share my previous experience with sensors as a journalist. Over the last two summers, I worked for ABC News in Los Angeles as a production assistant, desk assistant and producer for their various shows and website. 
 

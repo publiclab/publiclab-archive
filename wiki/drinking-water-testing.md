@@ -1,12 +1,18 @@
 ---
-nid: 13174
 title: 饮用水自测指引-Drinking Water Testing 
-path: public/static/wiki/drinking-water-testing.md
+tagnames: water-quality, open-water, water-testing
+author: shanlter
+path: /wiki/drinking-water-testing.md
+nid: 13174
 uid: 420999
-tagnames: water-quality,open-water,water-testing
+
 ---
 
 # 饮用水自测指引-Drinking Water Testing 
+
+by [shanlter](../profile/shanlter)
+
+June 08, 2016 03:36 | Tags: [water-quality](../tag/water-quality), [open-water](../tag/open-water), [water-testing](../tag/water-testing)
 
 仰赖于科技的发展，不管是精确定量的专业检测，还是低成本易操作的快速检测，都越来越容易获得。本文旨在让任何对饮用水水质感兴趣，但没有相关专业背景的个人，能够实施水质检测，理解检测结果。对于常见的饮用水检测项目，我们列出了上百条购买链接，读者可根据自己的实际情况进行选择。
 

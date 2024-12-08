@@ -1,12 +1,18 @@
 ---
-nid: 4907
 title: Article: Bay Area Automated Mapping Association: "Public Laboratory Map Tools"
-path: public/static/notes/gonzoearth/11-14-2012/article-bay-area-automated-mapping-association-public-laboratory-map-too.md
+tagnames: balloon-mapping, kite-mapping
+author: gonzoearth
+path: /notes/gonzoearth/11-14-2012/article-bay-area-automated-mapping-association-public-laboratory-map-too.md
+nid: 4907
 uid: 12
-tagnames: balloon-mapping,kite-mapping
+
 ---
 
 # Article: Bay Area Automated Mapping Association: "Public Laboratory Map Tools"
+
+by [gonzoearth](../profile/gonzoearth) November 15, 2012 01:22
+
+November 15, 2012 01:22 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping)
 
 The BAAMA Journal is a biannual publication that serves to highlight San Francisco Bay Area geospatial people, technology, applications, projects, and maps.
 

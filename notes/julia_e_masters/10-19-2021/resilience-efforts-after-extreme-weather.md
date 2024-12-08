@@ -1,12 +1,18 @@
 ---
-nid: 27839
 title: Resilience efforts after extreme weather
-path: public/static/notes/julia_e_masters/10-19-2021/resilience-efforts-after-extreme-weather.md
+tagnames: organizing, weather, advocacy, response:14802, extreme
+author: julia_e_masters
+path: /notes/julia_e_masters/10-19-2021/resilience-efforts-after-extreme-weather.md
+nid: 27839
 uid: 756220
-tagnames: organizing,weather,advocacy,response:14802,extreme
+
 ---
 
 # Resilience efforts after extreme weather
+
+by [julia_e_masters](../profile/julia_e_masters) October 19, 2021 17:17
+
+October 19, 2021 17:17 | Tags: [organizing](../tag/organizing), [weather](../tag/weather), [advocacy](../tag/advocacy), [response:14802](../tag/response:14802), [extreme](../tag/extreme)
 
 After extreme weather and other disasters hit, there is often a scramble to organize resources, activate volunteer bases, and mobilize coordinated responses and support. However, despite the best proactive planning, the reality of on-the-ground disaster relief is challenging. In this research note, we will pull together a range of support, through organizations working directly with and for communities to online resources to implement in your own communities moving forward.
 

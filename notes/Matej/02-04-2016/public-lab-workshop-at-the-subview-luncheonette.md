@@ -1,12 +1,18 @@
 ---
-nid: 12653
 title: Public Lab Workshop at the Sunview Luncheonette
-path: public/static/notes/Matej/02-04-2016/public-lab-workshop-at-the-subview-luncheonette.md
+tagnames: new-york-city, oil, event, spill, nyc, creek, event:rsvp, rsvp:warren, rsvp:bronwen, rsvp:liz, otk, newtown, beta, oak, greenpoint, dep, date:02-13-2016, rsvp:englishkillsproject, rsvp:nicholas, rsvp:ianbarbour
+author: Matej
+path: /notes/Matej/02-04-2016/public-lab-workshop-at-the-subview-luncheonette.md
+nid: 12653
 uid: 451808
-tagnames: new-york-city,oil,event,spill,nyc,creek,event:rsvp,rsvp:warren,rsvp:bronwen,rsvp:liz,otk,newtown,beta,oak,greenpoint,dep,date:02-13-2016,rsvp:englishkillsproject,rsvp:nicholas,rsvp:ianbarbour
+
 ---
 
 # Public Lab Workshop at the Sunview Luncheonette
+
+by [Matej](../profile/Matej) February 04, 2016 01:01
+
+February 04, 2016 01:01 | Tags: [new-york-city](../tag/new-york-city), [oil](../tag/oil), [event](../tag/event), [spill](../tag/spill), [nyc](../tag/nyc), [creek](../tag/creek), [event:rsvp](../tag/event:rsvp), [rsvp:warren](../tag/rsvp:warren), [rsvp:bronwen](../tag/rsvp:bronwen), [rsvp:liz](../tag/rsvp:liz), [otk](../tag/otk), [newtown](../tag/newtown), [beta](../tag/beta), [oak](../tag/oak), [greenpoint](../tag/greenpoint), [dep](../tag/dep), [date:02-13-2016](../tag/date:02-13-2016), [rsvp:englishkillsproject](../tag/rsvp:englishkillsproject), [rsvp:nicholas](../tag/rsvp:nicholas), [rsvp:ianbarbour](../tag/rsvp:ianbarbour)
 
 Join for experiments in collecting oil sheens and and identifying where did they came from!
 Public Lab in collaboration with [Newtown Creek Alliance](http://www.newtowncreekalliance.org), [Sunview Luncheonette](http://thesunview.org) and [CLAKULA Productions](http://clakula.org) is organizing an oil sheen collection and analysis workshop in Greenpoint, Brooklyn - a place of the second largest (but not widely known) oil spill in the US history! 

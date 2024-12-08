@@ -1,12 +1,18 @@
 ---
-nid: 3193
 title: Collection and Processing of Aztec Test Strips
-path: public/static/notes/megan/8-8-2012/collection-and-processing-aztec-test-strips.md
-uid: 775
 tagnames: hydrogen-sulfide-sensing
+author: megan
+path: /notes/megan/8-8-2012/collection-and-processing-aztec-test-strips.md
+nid: 3193
+uid: 775
+
 ---
 
 # Collection and Processing of Aztec Test Strips
+
+by [megan](../profile/megan) August 08, 2012 05:42
+
+August 08, 2012 05:42 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing)
 
 On 8/1 we went back out to the well sites in Aztec to collect the strips, and we found all but two!
 

@@ -1,12 +1,18 @@
 ---
-nid: 11609
 title: Sensor Journalism- Kassandra Ryback
-path: public/static/notes/Kassandra_Ryback/02-20-2015/sensor-journalism-kassandra-ryback.md
-uid: 435210
 tagnames: sensor-journalism
+author: Kassandra_Ryback
+path: /notes/Kassandra_Ryback/02-20-2015/sensor-journalism-kassandra-ryback.md
+nid: 11609
+uid: 435210
+
 ---
 
 # Sensor Journalism- Kassandra Ryback
+
+by [Kassandra_Ryback](../profile/Kassandra_Ryback) February 20, 2015 07:02
+
+February 20, 2015 07:02 | Tags: [sensor-journalism](../tag/sensor-journalism)
 
 Sensor Journalism: the hands-on collecting of data with a sensor, finding measurements and information with the sensor, and using it to tell a story. There is an art to sensor journalism that takes journalism and data collection to a higher level, giving journalists the power to be a part of the story, rather than just a person behind a notepad/microphone/camera etc. It involves the people of the community, making the stories local and connected to the residents, rather than just another "environmental/research" story. Usually, journalism is gathering information/data from others and using that to tell a story. In this case, sensor journalism allows a journalist to gather their own data and use it, along with other’s, and create a story based on that data. It is the best combination of data journalism and news-gathering journalism. From information on air pollution— to the effects of toxicity of water on aquatic life, sensor journalism can explore so many areas of research. Personally, I wasn't aware of how many issues we have with our water and environment right here in my own backyard.I don't know because I am unaware which is an issue that sensor journalism can solve. Without sensor journalism and research, no one else will be aware of what is going on in their own communities/neighborhoods.
 

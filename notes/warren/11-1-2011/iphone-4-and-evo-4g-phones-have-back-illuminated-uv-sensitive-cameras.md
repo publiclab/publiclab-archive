@@ -1,12 +1,18 @@
 ---
-nid: 533
 title: iPhone 4 and Evo 4G phones have back-illuminated UV-sensitive cameras
-path: public/static/notes/warren/11-1-2011/iphone-4-and-evo-4g-phones-have-back-illuminated-uv-sensitive-cameras.md
-uid: 1
 tagnames: 
+author: warren
+path: /notes/warren/11-1-2011/iphone-4-and-evo-4g-phones-have-back-illuminated-uv-sensitive-cameras.md
+nid: 533
+uid: 1
+
 ---
 
 # iPhone 4 and Evo 4G phones have back-illuminated UV-sensitive cameras
+
+by [warren](../profile/warren) November 01, 2011 13:45
+
+November 01, 2011 13:45 | Tags: 
 
 These back-illuminated CMOS sensors would be great for UV-visible spectroscopy... just a note for future work.
 

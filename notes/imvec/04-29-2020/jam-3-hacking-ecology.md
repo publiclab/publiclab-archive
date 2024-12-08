@@ -1,12 +1,18 @@
 ---
-nid: 23506
 title: JAM#3: Hacking Ecology 
-path: public/static/notes/imvec/04-29-2020/jam-3-hacking-ecology.md
+tagnames: water-quality, lang:es, spanish, zoom:14, cosquin, lat:41.408488, lon:2.199325, jam, charla, nayad, autodefensa-vecinal, hacking-ecology
+author: imvec
+path: /notes/imvec/04-29-2020/jam-3-hacking-ecology.md
+nid: 23506
 uid: 495038
-tagnames: water-quality,lang:es,spanish,zoom:14,cosquin,lat:41.408488,lon:2.199325,jam,charla,nayad,autodefensa-vecinal,hacking-ecology
+
 ---
 
 # JAM#3: Hacking Ecology 
+
+by [imvec](../profile/imvec) April 29, 2020 00:56
+
+April 29, 2020 00:56 | Tags: [water-quality](../tag/water-quality), [lang:es](../tag/lang:es), [spanish](../tag/spanish), [zoom:14](../tag/zoom:14), [cosquin](../tag/cosquin), [lat:41.408488](../tag/lat:41.408488), [lon:2.199325](../tag/lon:2.199325), [jam](../tag/jam), [charla](../tag/charla), [nayad](../tag/nayad), [autodefensa-vecinal](../tag/autodefensa-vecinal), [hacking-ecology](../tag/hacking-ecology)
 
 <iframe width="800" height="462" src="https://www.youtube.com/embed/zRROb6AAZCA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

@@ -1,12 +1,18 @@
 ---
-nid: 923
 title: Open hardware licensing in detail
-path: public/static/wiki/open-hardware-licensing-detail.md
+tagnames: licensing, open-hardware, open-source-communities
+author: warren
+path: /wiki/open-hardware-licensing-detail.md
+nid: 923
 uid: 1
-tagnames: licensing,open-hardware,open-source-communities
+
 ---
 
 # Open hardware licensing in detail
+
+by [warren](../profile/warren)
+
+March 14, 2012 02:05 | Tags: [licensing](../tag/licensing), [open-hardware](../tag/open-hardware), [open-source-communities](../tag/open-source-communities)
 
 This page goes into even more nitty-gritty detail about open source hardware.
 

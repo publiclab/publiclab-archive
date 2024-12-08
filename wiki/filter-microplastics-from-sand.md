@@ -1,12 +1,18 @@
 ---
-nid: 25081
 title: Filtering microplastics from sand
-path: public/static/wiki/filter-microplastics-from-sand.md
+tagnames: remediation, method, beach, microplastics, marine-debris, nurdles, plastic-pellets, filter-plastics-sand
+author: bhamster
+path: /wiki/filter-microplastics-from-sand.md
+nid: 25081
 uid: 664477
-tagnames: remediation,method,beach,microplastics,marine-debris,nurdles,plastic-pellets,filter-plastics-sand
+
 ---
 
 # Filtering microplastics from sand
+
+by [bhamster](../profile/bhamster)
+
+November 19, 2020 17:42 | Tags: [remediation](../tag/remediation), [method](../tag/method), [beach](../tag/beach), [microplastics](../tag/microplastics), [marine-debris](../tag/marine-debris), [nurdles](../tag/nurdles), [plastic-pellets](../tag/plastic-pellets), [filter-plastics-sand](../tag/filter-plastics-sand)
 
 Community groups have gotten creative with ways to collect and filter microplastics pollution from sandy coastal beaches and riverbanks. Read on below for methods that range from standardized protocols, to clean up strategies, to youth-oriented activities. 
 

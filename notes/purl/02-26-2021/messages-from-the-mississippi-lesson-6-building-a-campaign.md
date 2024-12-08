@@ -1,12 +1,18 @@
 ---
-nid: 25814
 title: Messages from the Mississippi Lesson 6: Building a Campaign
-path: public/static/notes/purl/02-26-2021/messages-from-the-mississippi-lesson-6-building-a-campaign.md
+tagnames: microplastics, messagesfromthemississippi
+author: purl
+path: /notes/purl/02-26-2021/messages-from-the-mississippi-lesson-6-building-a-campaign.md
+nid: 25814
 uid: 736598
-tagnames: microplastics,messagesfromthemississippi
+
 ---
 
 # Messages from the Mississippi Lesson 6: Building a Campaign
+
+by [purl](../profile/purl) February 26, 2021 21:11
+
+February 26, 2021 21:11 | Tags: [microplastics](../tag/microplastics), [messagesfromthemississippi](../tag/messagesfromthemississippi)
 
 ## Overview [](https://publiclab.org/notes/purl/01-27-2021/messages-from-the-mississippi-lesson-2-a-river-of-plastic#Overview)
 

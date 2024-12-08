@@ -1,12 +1,18 @@
 ---
-nid: 14802
 title: DISASTER MANAGEMENT ORGANIZATIONS AND SOFTWARE - OPEN SOURCE & PROPRIETARY
-path: public/static/notes/gilbert/08-30-2017/disaster-management-organizations-and-software-open-source-proprietary.md
+tagnames: disaster-preparedness, disaster-response, disaster-resilience, disaster-recovery, disaster-early-warning
+author: gilbert
+path: /notes/gilbert/08-30-2017/disaster-management-organizations-and-software-open-source-proprietary.md
+nid: 14802
 uid: 508551
-tagnames: disaster-preparedness,disaster-response,disaster-resilience,disaster-recovery,disaster-early-warning
+
 ---
 
 # DISASTER MANAGEMENT ORGANIZATIONS AND SOFTWARE - OPEN SOURCE & PROPRIETARY
+
+by [gilbert](../profile/gilbert) August 30, 2017 19:01
+
+August 30, 2017 19:01 | Tags: [disaster-preparedness](../tag/disaster-preparedness), [disaster-response](../tag/disaster-response), [disaster-resilience](../tag/disaster-resilience), [disaster-recovery](../tag/disaster-recovery), [disaster-early-warning](../tag/disaster-early-warning)
 
 DISASTER MANAGEMENT ORGANIZATIONS AND SOFTWARE - OPEN SOURCE & PROPRIETARY:
 

@@ -1,12 +1,18 @@
 ---
-nid: 14940
 title: How has pH testing evolved over time?
-path: public/static/notes/liz/09-22-2017/how-has-ph-testing-evolved-over-time.md
+tagnames: answered, question:ph, questions:ph-testing
+author: liz
+path: /notes/liz/09-22-2017/how-has-ph-testing-evolved-over-time.md
+nid: 14940
 uid: 7
-tagnames: answered,question:ph,questions:ph-testing
+
 ---
 
 # How has pH testing evolved over time?
+
+by [liz](../profile/liz) September 22, 2017 17:09
+
+September 22, 2017 17:09 | Tags: [answered](../tag/answered), [question:ph](../tag/question:ph), [questions:ph-testing](../tag/questions:ph-testing)
 
 Image credit to [Kellie Griffen][1]
 

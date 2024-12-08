@@ -1,12 +1,18 @@
 ---
-nid: 12671
 title: oil-testing-workshop-calibration-and-scanning
-path: public/static/wiki/oil-testing-workshop-calibration-and-scanning.md
+tagnames: workshop, oil-testing-kit, parent:oil-testing-workshops
+author: liz
+path: /wiki/oil-testing-workshop-calibration-and-scanning.md
+nid: 12671
 uid: 7
-tagnames: workshop,oil-testing-kit,parent:oil-testing-workshops
+
 ---
 
 # oil-testing-workshop-calibration-and-scanning
+
+by [warren](../profile/warren), [liz](../profile/liz)
+
+February 08, 2016 19:25 | Tags: [workshop](../tag/workshop), [oil-testing-kit](../tag/oil-testing-kit), [parent:oil-testing-workshops](../tag/parent:oil-testing-workshops)
 
 _Drafted in January 2016 by Gretchen Gehrke, Stevie Lewis, Liz Barry._
 

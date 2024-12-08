@@ -1,12 +1,18 @@
 ---
-nid: 11447
 title: Northwest
-path: public/static/wiki/northwest.md
+tagnames: edmonton, canada, alberta, northwest, vancouver, list:northwest, parent:region, lat:49.2500, lon:123.1000, events:northwest
+author: ann
+path: /wiki/northwest.md
+nid: 11447
 uid: 421543
-tagnames: edmonton,canada,alberta,northwest,vancouver,list:northwest,parent:region,lat:49.2500,lon:123.1000,events:northwest
+
 ---
 
 # Northwest
+
+by [ann](../profile/ann), [liz](../profile/liz), [mathew](../profile/mathew)
+
+December 10, 2014 01:43 | Tags: [edmonton](../tag/edmonton), [canada](../tag/canada), [alberta](../tag/alberta), [northwest](../tag/northwest), [vancouver](../tag/vancouver), [list:northwest](../tag/list:northwest), [parent:region](../tag/parent:region), [lat:49.2500](../tag/lat:49.2500), [lon:123.1000](../tag/lon:123.1000), [events:northwest](../tag/events:northwest)
 
 This is a regional page for the Public Lab community in the northwestern North America (Oregon, Washington, British Columbia, Alberta, Idaho, Montana).
 

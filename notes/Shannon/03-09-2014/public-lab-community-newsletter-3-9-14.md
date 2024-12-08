@@ -1,12 +1,18 @@
 ---
-nid: 10148
 title: Public Lab Community Newsletter 3.9.14
-path: public/static/notes/Shannon/03-09-2014/public-lab-community-newsletter-3-9-14.md
+tagnames: newsletter, newsletter-archive
+author: Shannon
+path: /notes/Shannon/03-09-2014/public-lab-community-newsletter-3-9-14.md
+nid: 10148
 uid: 9
-tagnames: newsletter,newsletter-archive
+
 ---
 
 # Public Lab Community Newsletter 3.9.14
+
+by [Shannon](../profile/Shannon) March 09, 2014 21:17
+
+March 09, 2014 21:17 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
 
 This week in the Public Lab community newsletter, turn your applications in to join the Public Lab nonprofit team as Outreach Manager, attend one of the gatherings in Austin or New Orleans and get updates on testing for pesticide, the Thermal Flashlight and tips for reporting pollution at the Gowanus Canal. Enjoy!
 

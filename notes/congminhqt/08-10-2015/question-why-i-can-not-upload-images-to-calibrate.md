@@ -1,11 +1,17 @@
 ---
-nid: 12129
 title: Question: Why I can not upload images to calibrate
-path: public/static/notes/congminhqt/08-10-2015/question-why-i-can-not-upload-images-to-calibrate.md
-uid: 446338
 tagnames: question:spectral-workbench
+author: congminhqt
+path: /notes/congminhqt/08-10-2015/question-why-i-can-not-upload-images-to-calibrate.md
+nid: 12129
+uid: 446338
+
 ---
 
 # Question: Why I can not upload images to calibrate
+
+by [congminhqt](../profile/congminhqt) August 10, 2015 15:15
+
+August 10, 2015 15:15 | Tags: [question:spectral-workbench](../tag/question:spectral-workbench)
 
 Why I can not upload images to calibrate

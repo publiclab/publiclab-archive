@@ -1,12 +1,18 @@
 ---
-nid: 5615
 title: "the clouds are alive" -- ArsTechnica article
-path: public/static/notes/liz/1-16-2013/clouds-are-alive-arstechnica-article.md
+tagnames: air-column-monitor, microbes
+author: liz
+path: /notes/liz/1-16-2013/clouds-are-alive-arstechnica-article.md
+nid: 5615
 uid: 7
-tagnames: air-column-monitor,microbes
+
 ---
 
 # "the clouds are alive" -- ArsTechnica article
+
+by [liz](../profile/liz) January 16, 2013 21:54
+
+January 16, 2013 21:54 | Tags: [air-column-monitor](../tag/air-column-monitor), [microbes](../tag/microbes)
 
 <a href="https://www.flickr.com/photos/theaucitron/5810163712/" title="Clouds by theaucitron, on Flickr"><img src="https://farm6.staticflickr.com/5274/5810163712_ac8a7f249e.jpg" width="500" height="334" alt="Clouds"></a>
 By <a href="https://www.flickr.com/photos/theaucitron/5810163712/in/photostream/">theaucitron</a>

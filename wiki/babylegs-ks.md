@@ -1,12 +1,18 @@
 ---
-nid: 19732
 title: BabyLegs KS
-path: public/static/wiki/babylegs-ks.md
+tagnames: diy, opensource, communityscience, microplastics, babylegs, parent:babylegs, plastic, plasticpollution, marinedebris, alert:testing, plastic-pollution
+author: warren
+path: /wiki/babylegs-ks.md
+nid: 19732
 uid: 1
-tagnames: diy,opensource,communityscience,microplastics,babylegs,parent:babylegs,plastic,plasticpollution,marinedebris,alert:testing,plastic-pollution
+
 ---
 
 # BabyLegs KS
+
+by [warren](../profile/warren)
+
+June 18, 2019 20:58 | Tags: [diy](../tag/diy), [opensource](../tag/opensource), [communityscience](../tag/communityscience), [microplastics](../tag/microplastics), [babylegs](../tag/babylegs), [parent:babylegs](../tag/parent:babylegs), [plastic](../tag/plastic), [plasticpollution](../tag/plasticpollution), [marinedebris](../tag/marinedebris), [alert:testing](../tag/alert:testing), [plastic-pollution](../tag/plastic-pollution)
 
 ## BabyLegs Outreach Kit
 

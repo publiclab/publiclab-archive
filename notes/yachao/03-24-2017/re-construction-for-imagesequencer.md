@@ -1,12 +1,18 @@
 ---
-nid: 14053
 title: Re-construction for ImageSequencer
-path: public/static/notes/yachao/03-24-2017/re-construction-for-imagesequencer.md
+tagnames: software, gsoc, gsoc-2017, soc, soc-2017, rgsoc-2017, soc-2017-proposals, response:13975
+author: yachao
+path: /notes/yachao/03-24-2017/re-construction-for-imagesequencer.md
+nid: 14053
 uid: 504397
-tagnames: software,gsoc,gsoc-2017,soc,soc-2017,rgsoc-2017,soc-2017-proposals,response:13975
+
 ---
 
 # Re-construction for ImageSequencer
+
+by [yachao](../profile/yachao) March 24, 2017 01:24
+
+March 24, 2017 01:24 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [gsoc-2017](../tag/gsoc-2017), [soc](../tag/soc), [soc-2017](../tag/soc-2017), [rgsoc-2017](../tag/rgsoc-2017), [soc-2017-proposals](../tag/soc-2017-proposals), [response:13975](../tag/response:13975)
 
 ## About me
 

@@ -1,12 +1,18 @@
 ---
-nid: 15767
 title: GSoC proposal: Image-Sequencer v2 : Processing on steroids
-path: public/static/notes/tech4gt/02-19-2018/gsoc-proposal-image-sequencer-v2-processing-on-steroids.md
+tagnames: software, gsoc, soc, response:13975, gsoc-2018, soc-2018, image-sequencer, soc-2018-proposals, gsoc-2018-final, first-time-poster
+author: tech4gt
+path: /notes/tech4gt/02-19-2018/gsoc-proposal-image-sequencer-v2-processing-on-steroids.md
+nid: 15767
 uid: 523178
-tagnames: software,gsoc,soc,response:13975,gsoc-2018,soc-2018,image-sequencer,soc-2018-proposals,gsoc-2018-final,first-time-poster
+
 ---
 
 # GSoC proposal: Image-Sequencer v2 : Processing on steroids
+
+by [tech4gt](../profile/tech4gt) February 19, 2018 13:57
+
+February 19, 2018 13:57 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [soc](../tag/soc), [response:13975](../tag/response:13975), [gsoc-2018](../tag/gsoc-2018), [soc-2018](../tag/soc-2018), [image-sequencer](../tag/image-sequencer), [soc-2018-proposals](../tag/soc-2018-proposals), [gsoc-2018-final](../tag/gsoc-2018-final), [first-time-poster](../tag/first-time-poster)
 
 # About me
 

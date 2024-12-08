@@ -1,12 +1,18 @@
 ---
-nid: 9395
 title: Harpswell Makerspace
-path: public/static/wiki/harpswell-makerspace.md
-uid: 294634
 tagnames: makerspaces
+author: ajawitz
+path: /wiki/harpswell-makerspace.md
+nid: 9395
+uid: 294634
+
 ---
 
 # Harpswell Makerspace
+
+by [ajawitz](../profile/ajawitz)
+
+October 03, 2013 16:46 | Tags: [makerspaces](../tag/makerspaces)
 
 ##Harpswell Coastal Academy MakerSpace
 

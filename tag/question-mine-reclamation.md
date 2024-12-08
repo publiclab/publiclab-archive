@@ -1,6 +1,6 @@
 # question-mine-reclamation
 
-6 notes and wiki pages
+6 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Enforcement on inactive permits?](/notes/ekpeterman/10-28-2021/enforcement-on-inactive-permits) by [ekpeterman](../profile/ekpeterman)
 - [Is there federal-level recourse that communities can take when mine reclamation is not being done properly?](/notes/bhamster/02-10-2022/is-there-federal-level-recourse-that-communities-can-take-when-mine-reclamation-is-not-being-done-properly) by [bhamster](../profile/bhamster)

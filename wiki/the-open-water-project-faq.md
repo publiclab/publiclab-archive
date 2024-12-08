@@ -1,12 +1,18 @@
 ---
-nid: 10320
 title: The Open Water Project: FAQ
-path: public/static/wiki/the-open-water-project-faq.md
+tagnames: water-quality, riffle, parent:water-quality
+author: kanarinka
+path: /wiki/the-open-water-project-faq.md
+nid: 10320
 uid: 994
-tagnames: water-quality,riffle,parent:water-quality
+
 ---
 
 # The Open Water Project: FAQ
+
+by [donblair](../profile/donblair), [kanarinka](../profile/kanarinka)
+
+April 16, 2014 10:14 | Tags: [water-quality](../tag/water-quality), [riffle](../tag/riffle), [parent:water-quality](../tag/parent:water-quality)
 
 Water quality is a pressing, global issue that is implicated in nearly every human system on our planet. The Open Water project aims to develop and curate a set of low-cost, open source tools that will enable communities everywhere to collect, interpret, and share their water quality data. This is a FAQ about Public Lab's Open Water Project.
 

@@ -1,12 +1,18 @@
 ---
-nid: 10307
 title: Public Lab receives support from the Passport Foundation for air quality project
-path: public/static/notes/Shannon/04-14-2014/public-lab-receives-support-from-the-passport-foundation.md
+tagnames: air, quality, indoor
+author: Shannon
+path: /notes/Shannon/04-14-2014/public-lab-receives-support-from-the-passport-foundation.md
+nid: 10307
 uid: 9
-tagnames: air,quality,indoor
+
 ---
 
 # Public Lab receives support from the Passport Foundation for air quality project
+
+by [Shannon](../profile/Shannon) April 14, 2014 17:41
+
+April 14, 2014 17:41 | Tags: [air](../tag/air), [quality](../tag/quality), [indoor](../tag/indoor)
 
 The Public Lab nonprofit is excited to announce that it has received support from the Passport Foundation to launch a pilot digital infrastructure and outreach program for people impacted by poor indoor air quality (IAQ). The project will give special attention to inhabitants of manufactured homes and emerges out of research by Dr. Nick Shapiro and Public Lab research on over 120,000 chemically contaminated former emergency housing units that were resold to under-resourced communities across the United States. 
 

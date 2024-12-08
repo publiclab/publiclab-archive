@@ -1,12 +1,18 @@
 ---
-nid: 12992
 title: Batch work
-path: public/static/notes/viechdokter/04-17-2016/batch-work.md
+tagnames: spectrometer, macro, serial, formats, file
+author: viechdokter
+path: /notes/viechdokter/04-17-2016/batch-work.md
+nid: 12992
 uid: 468990
-tagnames: spectrometer,macro,serial,formats,file
+
 ---
 
 # Batch work
+
+by [viechdokter](../profile/viechdokter) April 17, 2016 12:30
+
+April 17, 2016 12:30 | Tags: [spectrometer](../tag/spectrometer), [macro](../tag/macro), [serial](../tag/serial), [formats](../tag/formats), [file](../tag/file)
 
 @Warren: Hi Warren, yesterday I used your serial capture macro to do another reproducibility test. It worked very well. Thanx again for your coding work! 
 

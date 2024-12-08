@@ -1,12 +1,18 @@
 ---
-nid: 10571
 title: Stickers
-path: public/static/wiki/stickers.md
+tagnames: stickers, drawings, parent:kits-artwork
+author: warren
+path: /wiki/stickers.md
+nid: 10571
 uid: 1
-tagnames: stickers,drawings,parent:kits-artwork
+
 ---
 
 # Stickers
+
+by [warren](../profile/warren)
+
+June 13, 2014 19:44 | Tags: [stickers](../tag/stickers), [drawings](../tag/drawings), [parent:kits-artwork](../tag/parent:kits-artwork)
 
 Also see https://publiclab.org/wiki/kits-artwork
 

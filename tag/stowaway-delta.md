@@ -1,6 +1,6 @@
 # stowaway-delta
 
-5 notes and wiki pages
+5 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [yet more: small parafoil kite for Mobius camera](/notes/patcoyle/07-20-2015/small-parafoil-kite-for-mobius-camera) by [patcoyle](../profile/patcoyle)
 - [Small kites for Mobius: Stowaway Delta ](/notes/patcoyle/07-24-2015/small-kites-for-mobius-stowaway-delta) by [patcoyle](../profile/patcoyle)

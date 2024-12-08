@@ -1,12 +1,18 @@
 ---
-nid: 15458
 title: How good is the PurpleAir sensor and what does it detect?
-path: public/static/notes/warren/01-04-2018/how-good-is-the-purpleair-sensor-and-what-does-it-detect.md
+tagnames: laser, air-quality, sensors, dust, particulate, pm, dylos, answered, indoor-air, question:air-sensors, air-sensors, purpleair, pm2.5, pm10, pm1.0, question:indoor-air, question:purpleair, pms5003, scaqmd
+author: warren
+path: /notes/warren/01-04-2018/how-good-is-the-purpleair-sensor-and-what-does-it-detect.md
+nid: 15458
 uid: 1
-tagnames: laser,air-quality,sensors,dust,particulate,pm,dylos,answered,indoor-air,question:air-sensors,air-sensors,purpleair,pm2.5,pm10,pm1.0,question:indoor-air,question:purpleair,pms5003,scaqmd
+
 ---
 
 # How good is the PurpleAir sensor and what does it detect?
+
+by [warren](../profile/warren) January 04, 2018 23:15
+
+January 04, 2018 23:15 | Tags: [laser](../tag/laser), [air-quality](../tag/air-quality), [sensors](../tag/sensors), [dust](../tag/dust), [particulate](../tag/particulate), [pm](../tag/pm), [dylos](../tag/dylos), [answered](../tag/answered), [indoor-air](../tag/indoor-air), [question:air-sensors](../tag/question:air-sensors), [air-sensors](../tag/air-sensors), [purpleair](../tag/purpleair), [pm2.5](../tag/pm2.5), [pm10](../tag/pm10), [pm1.0](../tag/pm1.0), [question:indoor-air](../tag/question:indoor-air), [question:purpleair](../tag/question:purpleair), [pms5003](../tag/pms5003), [scaqmd](../tag/scaqmd)
 
 The website for [PurpleAir](https://www.purpleair.com
 ) (and the [Wunderground page](https://www.wunderground.com/sensors/purpleair) for it) speak very highly of it:

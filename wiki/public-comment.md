@@ -1,12 +1,18 @@
 ---
-nid: 13331
 title: Public Comment
-path: public/static/wiki/public-comment.md
+tagnames: organizing, tool, methods, resource, public-comment, method, community-organizing, prompt:public-comment
+author: stevie
+path: /wiki/public-comment.md
+nid: 13331
 uid: 422561
-tagnames: organizing,tool,methods,resource,public-comment,method,community-organizing,prompt:public-comment
+
 ---
 
 # Public Comment
+
+by [stevie](../profile/stevie), [liz](../profile/liz), [warren](../profile/warren), [sarasage](../profile/sarasage), [eustatic](../profile/eustatic)
+
+August 03, 2016 21:22 | Tags: [organizing](../tag/organizing), [tool](../tag/tool), [methods](../tag/methods), [resource](../tag/resource), [public-comment](../tag/public-comment), [method](../tag/method), [community-organizing](../tag/community-organizing), [prompt:public-comment](../tag/prompt:public-comment)
 
 _Information contributed by: Karen Vale (@karenv), Susie Cambria, Scott Eustis (@eustatic), Mathew Lippincott (@mathew), Brian Butler, Liz Barry (@liz), Shaun Goho._
 

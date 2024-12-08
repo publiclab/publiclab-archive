@@ -1,12 +1,18 @@
 ---
-nid: 143
 title: Mapper interview: Dawn McKinney
-path: public/static/notes/warren/05-01-2018/mapper-interview-dawn-mckinney.md
+tagnames: gulf-coast, interview, rochellecollier35, micheleclemons, alabama
+author: warren
+path: /notes/warren/05-01-2018/mapper-interview-dawn-mckinney.md
+nid: 143
 uid: 1
-tagnames: gulf-coast,interview,rochellecollier35,micheleclemons,alabama
+
 ---
 
 # Mapper interview: Dawn McKinney
+
+by [warren](../profile/warren) March 09, 2011 23:50
+
+March 09, 2011 23:50 | Tags: [gulf-coast](../tag/gulf-coast), [interview](../tag/interview), [rochellecollier35](../tag/rochellecollier35), [micheleclemons](../tag/micheleclemons), [alabama](../tag/alabama)
 
 <a href="https://www.flickr.com/photos/jeffreywarren/5513569512/" title="Dawn McKinney by jeferonix, on Flickr"><img src="http://farm6.static.flickr.com/5134/5513569512_2aecc19b4c.jpg" width="500" height="375" alt="Dawn McKinney" /></a>
 

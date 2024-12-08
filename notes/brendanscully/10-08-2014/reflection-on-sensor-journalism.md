@@ -1,12 +1,18 @@
 ---
-nid: 11250
 title: Reflection on Sensor Journalism 
-path: public/static/notes/brendanscully/10-08-2014/reflection-on-sensor-journalism.md
-uid: 428089
 tagnames: sensor-journalism
+author: brendanscully
+path: /notes/brendanscully/10-08-2014/reflection-on-sensor-journalism.md
+nid: 11250
+uid: 428089
+
 ---
 
 # Reflection on Sensor Journalism 
+
+by [brendanscully](../profile/brendanscully) October 08, 2014 16:32
+
+October 08, 2014 16:32 | Tags: [sensor-journalism](../tag/sensor-journalism)
 
 
 	After spending a few weeks reading about, analyzing, and experimenting with many different outlets of sensor journalism, I've become enthralled with the concept and how it can impact a variety of aspects in the world of journalism. To me, the possibilities of what can happen and the subject itself is really quite fascinating. So as I reflect what I've learned in this brief introduction to sensor journalism, I recognize the immense opportunities it brings, as well as the challenges of the practice that need to be addressed. 

@@ -1,12 +1,18 @@
 ---
-nid: 13430
 title: Collaboratively generating more knowledge: Public Lab’s approach to citizen science
-path: public/static/notes/stevie/09-08-2016/collaboratively-generating-more-knowledge-public-lab-s-approach-to-citizen-science.md
-uid: 422561
 tagnames: 
+author: stevie
+path: /notes/stevie/09-08-2016/collaboratively-generating-more-knowledge-public-lab-s-approach-to-citizen-science.md
+nid: 13430
+uid: 422561
+
 ---
 
 # Collaboratively generating more knowledge: Public Lab’s approach to citizen science
+
+by [stevie](../profile/stevie) September 08, 2016 15:11
+
+September 08, 2016 15:11 | Tags: 
 
 _[Blog Crosspost from: www.https://creativecommons.org](https://creativecommons.org/2016/09/07/collaboratively-generating-knowledge/)_ 
 

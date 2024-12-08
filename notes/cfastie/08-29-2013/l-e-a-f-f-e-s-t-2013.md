@@ -1,12 +1,18 @@
 ---
-nid: 9071
 title: L E A F F E S T 2013
-path: public/static/notes/cfastie/08-29-2013/l-e-a-f-f-e-s-t-2013.md
+tagnames: near-infrared-camera, kite-mapping, vermont, events, leaffest, leaffest2012, infragram, events:vermont, pole-photography, leaffest2013
+author: cfastie
+path: /notes/cfastie/08-29-2013/l-e-a-f-f-e-s-t-2013.md
+nid: 9071
 uid: 554
-tagnames: near-infrared-camera,kite-mapping,vermont,events,leaffest,leaffest2012,infragram,events:vermont,pole-photography,leaffest2013
+
 ---
 
 # L E A F F E S T 2013
+
+by [cfastie](../profile/cfastie) August 29, 2013 04:01
+
+August 29, 2013 04:01 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [vermont](../tag/vermont), [events](../tag/events), [leaffest](../tag/leaffest), [leaffest2012](../tag/leaffest2012), [infragram](../tag/infragram), [events:vermont](../tag/events:vermont), [pole-photography](../tag/pole-photography), [leaffest2013](../tag/leaffest2013)
 
 <em>Image above: I don't have any photos from the first week of September, so please interpolate between Late July (left) and early October (right). Thank you.</em>
 

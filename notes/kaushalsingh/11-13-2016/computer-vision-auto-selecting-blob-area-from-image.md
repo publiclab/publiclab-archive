@@ -1,12 +1,18 @@
 ---
-nid: 13698
 title: Computer Vision: Auto selecting blob area from image
-path: public/static/notes/kaushalsingh/11-13-2016/computer-vision-auto-selecting-blob-area-from-image.md
+tagnames: matlab, computer-vision, question:computer-vision
+author: kaushalsingh
+path: /notes/kaushalsingh/11-13-2016/computer-vision-auto-selecting-blob-area-from-image.md
+nid: 13698
 uid: 496664
-tagnames: matlab,computer-vision,question:computer-vision
+
 ---
 
 # Computer Vision: Auto selecting blob area from image
+
+by [kaushalsingh](../profile/kaushalsingh) November 13, 2016 03:54
+
+November 13, 2016 03:54 | Tags: [matlab](../tag/matlab), [computer-vision](../tag/computer-vision), [question:computer-vision](../tag/question:computer-vision)
 
 ###I need average pixel value of centre most blob in the image?
 

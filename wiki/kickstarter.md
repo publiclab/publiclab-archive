@@ -1,12 +1,18 @@
 ---
-nid: 14568
 title: Kickstarter
-path: public/static/wiki/kickstarter.md
-uid: 1
 tagnames: kickstarter
+author: warren
+path: /wiki/kickstarter.md
+nid: 14568
+uid: 1
+
 ---
 
 # Kickstarter
+
+by [warren](../profile/warren)
+
+June 22, 2017 13:24 | Tags: [kickstarter](../tag/kickstarter)
 
 A page to track Public Lab's Kickstarter!
 

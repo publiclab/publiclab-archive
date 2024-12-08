@@ -1,12 +1,18 @@
 ---
-nid: 27326
 title: sandbox-wastewater
-path: public/static/wiki/sandbox-wastewater.md
-uid: 664477
 tagnames: 
+author: bhamster
+path: /wiki/sandbox-wastewater.md
+nid: 27326
+uid: 664477
+
 ---
 
 # sandbox-wastewater
+
+by [bhamster](../profile/bhamster)
+
+July 26, 2021 19:05 | Tags: 
 
 _This draft wiki page is a work in progress!_
 

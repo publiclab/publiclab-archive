@@ -1,6 +1,6 @@
 # plants
 
-16 notes and wiki pages
+16 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Bean Cam](/notes/cfastie/4-8-2013/bean-cam) by [cfastie](../profile/cfastie)
 - [Can infragrams provide useful measurements of how thirsty my lawn is?](/notes/WhiteRabbit/07-25-2014/can-infragrams-provide-useful-measurements-of-thirsty-my-lawn-is) by [WhiteRabbit](../profile/WhiteRabbit)
@@ -14,7 +14,5 @@
 - [Drone NDVI Mapping with QGIS and Python Analysis Code](/notes/ektopyrotic/06-13-2020/drone-ndvi-mapping-with-qgis-and-python-analysis-code) by [ektopyrotic](../profile/ektopyrotic)
 - [Image + Video Segmentation in Near-Infrared Using HSV Color Spaces with OpenCV in Python](/notes/ektopyrotic/10-03-2020/image-video-segmentation-in-near-infrared-using-hsv-color-spaces-with-opencv-in-python) by [ektopyrotic](../profile/ektopyrotic)
 - [Soil remediation](/wiki/soil-remediation) (wiki)
-- [beautiful tetra fish online](/notes/NMSAQUATICS/03-19-2021/beautiful-tetra-fish-online) by [NMSAQUATICS](../profile/NMSAQUATICS)
-- [Cypionate Propionate Enanthate 🌡 Best Steroid Brands 2021](/notes/fjayfreemanm/04-25-2021/cypionate-propionate-enanthate-best-steroid-brands-2021) by [fjayfreemanm](../profile/fjayfreemanm)
 - [Tips and Resources for Green Walls](/notes/fongvania/07-14-2021/tips-and-resources-for-green-walls) by [fongvania](../profile/fongvania)
 - [Activity: Air Pollution Gardens](/notes/fongvania/02-17-2022/activity-air-pollution-gardens) by [fongvania](../profile/fongvania)

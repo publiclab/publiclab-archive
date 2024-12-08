@@ -1,6 +1,6 @@
 # mid-west
 
-25 notes and wiki pages
+25 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Midwest](/wiki/midwest) (wiki)
 - [PVC Pipe Fitting Modification to 3D Printed Body](/notes/bsugar/10-08-2014/pvc-pipe-fitting-modification-to-3d-printed-body) by [bsugar](../profile/bsugar)

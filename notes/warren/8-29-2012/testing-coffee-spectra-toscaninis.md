@@ -1,12 +1,18 @@
 ---
-nid: 3562
 title: Testing coffee spectra at Toscanini's
-path: public/static/notes/warren/8-29-2012/testing-coffee-spectra-toscaninis.md
+tagnames: spectrometer, kickstarter, coffee, toscaninis
+author: warren
+path: /notes/warren/8-29-2012/testing-coffee-spectra-toscaninis.md
+nid: 3562
 uid: 1
-tagnames: spectrometer,kickstarter,coffee,toscaninis
+
 ---
 
 # Testing coffee spectra at Toscanini's
+
+by [warren](../profile/warren) August 29, 2012 22:00
+
+August 29, 2012 22:00 | Tags: [spectrometer](../tag/spectrometer), [kickstarter](../tag/kickstarter), [coffee](../tag/coffee), [toscaninis](../tag/toscaninis)
 
 I visited [Toscanini's](http://tosci.com) in Central Square, Cambridge, today, and Gus and Lucy were very willing to nerd out with me and the [countertop spectrometer prototype](http://www.kickstarter.com/projects/jywarren/public-lab-diy-spectrometry-kit). Lucy brought over samples of all their coffees and we collected some spectra of each. 
 

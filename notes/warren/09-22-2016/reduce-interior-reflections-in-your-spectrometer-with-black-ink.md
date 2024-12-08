@@ -1,12 +1,18 @@
 ---
-nid: 13470
 title: Reduce interior reflections in your spectrometer with black ink
-path: public/static/notes/warren/09-22-2016/reduce-interior-reflections-in-your-spectrometer-with-black-ink.md
+tagnames: spectrometer, spectrometry, difficulty:easy, upgrade:spectrometry, upgrade:dssk, seeks:builds, status:review-me, category:build, ambient-light, reflections, response:13461, time:10m
+author: warren
+path: /notes/warren/09-22-2016/reduce-interior-reflections-in-your-spectrometer-with-black-ink.md
+nid: 13470
 uid: 1
-tagnames: spectrometer,spectrometry,difficulty:easy,upgrade:spectrometry,upgrade:dssk,seeks:builds,status:review-me,category:build,ambient-light,reflections,response:13461,time:10m
+
 ---
 
 # Reduce interior reflections in your spectrometer with black ink
+
+by [warren](../profile/warren) September 22, 2016 12:33
+
+September 22, 2016 12:33 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [difficulty:easy](../tag/difficulty:easy), [upgrade:spectrometry](../tag/upgrade:spectrometry), [upgrade:dssk](../tag/upgrade:dssk), [seeks:builds](../tag/seeks:builds), [status:review-me](../tag/status:review-me), [category:build](../tag/category:build), [ambient-light](../tag/ambient-light), [reflections](../tag/reflections), [response:13461](../tag/response:13461), [time:10m](../tag/time:10m)
 
 ### Goals
 

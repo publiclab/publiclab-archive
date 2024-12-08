@@ -1,6 +1,6 @@
 # data-visualization-tool
 
-6 notes and wiki pages
+6 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Environmental data management & analysis tools](/notes/warren/02-17-2017/environmental-data-management-analysis-tools) by [warren](../profile/warren)
 - [Data Visualization with Sheet Mapper: How to connect a live spreadsheet to a web map](/notes/laurel_mire/09-09-2021/data-visualization-with-sheet-mapper-how-to-connect-a-live-spreadsheet-to-a-web-map) by [laurel_mire](../profile/laurel_mire)

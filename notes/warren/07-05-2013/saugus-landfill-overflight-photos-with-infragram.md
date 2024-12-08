@@ -1,12 +1,18 @@
 ---
-nid: 8704
 title: Saugus landfill overflight photos -- with Infragram
-path: public/static/notes/warren/07-05-2013/saugus-landfill-overflight-photos-with-infragram.md
+tagnames: near-infrared-camera, somerville-massachusetts, ndvi, boston, saugus, passenger-pigeon, landfill, infragram, waste
+author: warren
+path: /notes/warren/07-05-2013/saugus-landfill-overflight-photos-with-infragram.md
+nid: 8704
 uid: 1
-tagnames: near-infrared-camera,somerville-massachusetts,ndvi,boston,saugus,passenger-pigeon,landfill,infragram,waste
+
 ---
 
 # Saugus landfill overflight photos -- with Infragram
+
+by [warren](../profile/warren) July 05, 2013 19:55
+
+July 05, 2013 19:55 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [somerville-massachusetts](../tag/somerville-massachusetts), [ndvi](../tag/ndvi), [boston](../tag/boston), [saugus](../tag/saugus), [passenger-pigeon](../tag/passenger-pigeon), [landfill](../tag/landfill), [infragram](../tag/infragram), [waste](../tag/waste)
 
 Over the past few years we've periodically [mapped the Saugus incinerator landfill near Revere beach, north of Boston]() ([here is one of those maps](/map/landfill-incinerator-saugus-massachusetts/2011-10-10), stitched by [Pablo Rey](/profile/pablo)). I happened to fly over it on approach to Logan Airport on Wednesday afternoon, and snapped these photos -- the above, processed with the [Infrapix](http://infrapix.pvos.org) app into an [NDVI image](/wiki/ndvi).
 

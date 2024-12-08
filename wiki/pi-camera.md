@@ -1,12 +1,18 @@
 ---
-nid: 14571
 title: Pi Camera
-path: public/static/wiki/pi-camera.md
+tagnames: balloon-mapping, kite-mapping, spectrometry, raspberry-pi, timelapse, aerial-mapping, rpi, pi-camera, datasheet
+author: warren
+path: /wiki/pi-camera.md
+nid: 14571
 uid: 1
-tagnames: balloon-mapping,kite-mapping,spectrometry,raspberry-pi,timelapse,aerial-mapping,rpi,pi-camera,datasheet
+
 ---
 
 # Pi Camera
+
+by [warren](../profile/warren), [hill58081495](../profile/hill58081495), [nataliatorres](../profile/nataliatorres)
+
+June 22, 2017 18:12 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [spectrometry](../tag/spectrometry), [raspberry-pi](../tag/raspberry-pi), [timelapse](../tag/timelapse), [aerial-mapping](../tag/aerial-mapping), [rpi](../tag/rpi), [pi-camera](../tag/pi-camera), [datasheet](../tag/datasheet)
 
 This page collects different ways to use Raspberry Pi computer boards (and related boards) to make small, cheap, lightweight cameras for different purposes, including #aerial-mapping, #balloon-mapping, #kite-mapping, #timelapse and #spectrometry.
 

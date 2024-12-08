@@ -1,6 +1,6 @@
 # mini-kite-build
 
-3 notes and wiki pages
+3 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Building miniature kites at a family science night](/notes/SuziT9/03-08-2018/building-miniature-kites-at-a-family-science-night) by [SuziT9](../profile/SuziT9)
 - [Building Miniature Kites](/notes/mimiss/04-21-2020/building-miniature-kites) by [mimiss](../profile/mimiss)

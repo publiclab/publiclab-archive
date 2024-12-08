@@ -1,12 +1,18 @@
 ---
-nid: 2105
 title: Infrared camera how-to guide for GM Forum
-path: public/static/notes/warren/5-17-2012/infrared-camera-how-guide-gm-forum.md
+tagnames: near-infrared-camera, great-photos
+author: warren
+path: /notes/warren/5-17-2012/infrared-camera-how-guide-gm-forum.md
+nid: 2105
 uid: 1
-tagnames: near-infrared-camera,great-photos
+
 ---
 
 # Infrared camera how-to guide for GM Forum
+
+by [warren](../profile/warren) May 17, 2012 23:42
+
+May 17, 2012 23:42 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [great-photos](../tag/great-photos)
 
 Just kicking off an off-list discussion on a how-to style piece for upcoming Grassroots Mapping Forum II -- Chris F and I are brainstorming some ideas based on the [documentation we've put together](/wiki/dual-camera-kit-guide).
 

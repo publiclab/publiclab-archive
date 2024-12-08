@@ -1,12 +1,18 @@
 ---
-nid: 6247
 title: Macro system for Spectral Workbench API
-path: public/static/notes/warren/3-8-2013/macro-system-spectral-workbench-api.md
+tagnames: spectrometer, spectralworkbench, api
+author: warren
+path: /notes/warren/3-8-2013/macro-system-spectral-workbench-api.md
+nid: 6247
 uid: 1
-tagnames: spectrometer,spectralworkbench,api
+
 ---
 
 # Macro system for Spectral Workbench API
+
+by [warren](../profile/warren) March 08, 2013 21:28
+
+March 08, 2013 21:28 | Tags: [spectrometer](../tag/spectrometer), [spectralworkbench](../tag/spectralworkbench), [api](../tag/api)
 
 The [Spectral Workbench API](/wiki/spectral-workbench-api) is getting a boost with a new system for sharing macros, released late this week. Since it's an early-stage release, there are few links to it on the [SpectralWorkbench.org website](https://spectralworkbench.org), but you can published macros and share your own it by [visiting this page](https://spectralworkbench.org/macros/). 
 

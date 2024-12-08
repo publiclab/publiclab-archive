@@ -1,12 +1,18 @@
 ---
-nid: 12120
 title: Western NY Community Based Science for Action Regional Workshop: Tonawanda, NY
-path: public/static/notes/liz/08-04-2015/western-ny-community-based-science-for-action-regional-workshop-tonawanda-ny.md
+tagnames: new-york-city, event, event:rsvp, date:08-04-2015
+author: liz
+path: /notes/liz/08-04-2015/western-ny-community-based-science-for-action-regional-workshop-tonawanda-ny.md
+nid: 12120
 uid: 7
-tagnames: new-york-city,event,event:rsvp,date:08-04-2015
+
 ---
 
 # Western NY Community Based Science for Action Regional Workshop: Tonawanda, NY
+
+by [liz](../profile/liz) August 04, 2015 16:20
+
+August 04, 2015 16:20 | Tags: [new-york-city](../tag/new-york-city), [event](../tag/event), [event:rsvp](../tag/event:rsvp), [date:08-04-2015](../tag/date:08-04-2015)
 
 ###Event details
 

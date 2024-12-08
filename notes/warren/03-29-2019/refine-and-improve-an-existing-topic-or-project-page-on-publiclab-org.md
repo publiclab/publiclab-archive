@@ -1,12 +1,18 @@
 ---
-nid: 18904
 title: Refine and improve an existing topic or project page on PublicLab.org
-path: public/static/notes/warren/03-29-2019/refine-and-improve-an-existing-topic-or-project-page-on-publiclab-org.md
+tagnames: website, power-tags, wiki-gardening, seeks:replications, activity:website, inline-power-tags, knowledge-base
+author: warren
+path: /notes/warren/03-29-2019/refine-and-improve-an-existing-topic-or-project-page-on-publiclab-org.md
+nid: 18904
 uid: 1
-tagnames: website,power-tags,wiki-gardening,seeks:replications,activity:website,inline-power-tags,knowledge-base
+
 ---
 
 # Refine and improve an existing topic or project page on PublicLab.org
+
+by [warren](../profile/warren) March 29, 2019 20:14
+
+March 29, 2019 20:14 | Tags: [website](../tag/website), [power-tags](../tag/power-tags), [wiki-gardening](../tag/wiki-gardening), [seeks:replications](../tag/seeks:replications), [activity:website](../tag/activity:website), [inline-power-tags](../tag/inline-power-tags), [knowledge-base](../tag/knowledge-base)
 
 Lots of pages on [PublicLab.org](http://PublicLab.org) need some work, or are starting to get overgrown -- either because they need updating with more recent posts and community work, or sometimes because there has been too much added to the page, and it's hard to read. 
 

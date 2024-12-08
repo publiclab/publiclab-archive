@@ -1,12 +1,18 @@
 ---
-nid: 12417
 title: Contributing to Public Lab hardware
-path: public/static/wiki/contributing-to-public-lab-hardware.md
+tagnames: collaboration, community, open-hardware, contributing
+author: warren
+path: /wiki/contributing-to-public-lab-hardware.md
+nid: 12417
 uid: 1
-tagnames: collaboration,community,open-hardware,contributing
+
 ---
 
 # Contributing to Public Lab hardware
+
+by [liz](../profile/liz), [warren](../profile/warren)
+
+November 16, 2015 19:25 | Tags: [collaboration](../tag/collaboration), [community](../tag/community), [open-hardware](../tag/open-hardware), [contributing](../tag/contributing)
 
 ###Rough Draft
 

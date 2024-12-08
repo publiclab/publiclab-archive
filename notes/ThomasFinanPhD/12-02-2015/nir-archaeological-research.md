@@ -1,12 +1,18 @@
 ---
-nid: 12468
 title: NIR Archaeological Research 
-path: public/static/notes/ThomasFinanPhD/12-02-2015/nir-archaeological-research.md
+tagnames: infrared, raspberry-pi, infrared-camera, infragram
+author: ThomasFinanPhD
+path: /notes/ThomasFinanPhD/12-02-2015/nir-archaeological-research.md
+nid: 12468
 uid: 459445
-tagnames: infrared,raspberry-pi,infrared-camera,infragram
+
 ---
 
 # NIR Archaeological Research 
+
+by [ThomasFinanPhD](../profile/ThomasFinanPhD) December 02, 2015 00:55
+
+December 02, 2015 00:55 | Tags: [infrared](../tag/infrared), [raspberry-pi](../tag/raspberry-pi), [infrared-camera](../tag/infrared-camera), [infragram](../tag/infragram)
 
 ###What I want to do
 

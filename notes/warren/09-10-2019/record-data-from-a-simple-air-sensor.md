@@ -1,12 +1,18 @@
 ---
-nid: 20818
 title: Record data from a Simple Air Sensor
-path: public/static/notes/warren/09-10-2019/record-data-from-a-simple-air-sensor.md
+tagnames: air-quality, seeks:replications, data-logging, simple-air-sensor, activity:simple-air-sensor, simple-air-sensor-data
+author: warren
+path: /notes/warren/09-10-2019/record-data-from-a-simple-air-sensor.md
+nid: 20818
 uid: 1
-tagnames: air-quality,seeks:replications,data-logging,simple-air-sensor,activity:simple-air-sensor,simple-air-sensor-data
+
 ---
 
 # Record data from a Simple Air Sensor
+
+by [warren](../profile/warren) September 10, 2019 21:32
+
+September 10, 2019 21:32 | Tags: [air-quality](../tag/air-quality), [seeks:replications](../tag/seeks:replications), [data-logging](../tag/data-logging), [simple-air-sensor](../tag/simple-air-sensor), [activity:simple-air-sensor](../tag/activity:simple-air-sensor), [simple-air-sensor-data](../tag/simple-air-sensor-data)
 
 Simple Air Sensors have no on-board logging (although there are some efforts to add #data-logging), but you can read data off of them in two ways, both of which produce comma-separated values (CSV) that you can use to make a graph.
 

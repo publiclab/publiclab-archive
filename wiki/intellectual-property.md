@@ -1,12 +1,18 @@
 ---
-nid: 11295
 title: Intellectual Property
-path: public/static/wiki/intellectual-property.md
-uid: 237313
 tagnames: 
+author: Bronwen
+path: /wiki/intellectual-property.md
+nid: 11295
+uid: 237313
+
 ---
 
 # Intellectual Property
+
+by [Bronwen](../profile/Bronwen)
+
+October 22, 2014 21:34 | Tags: 
 
 A work in progress! Feel free to add to, edit, etc.
 

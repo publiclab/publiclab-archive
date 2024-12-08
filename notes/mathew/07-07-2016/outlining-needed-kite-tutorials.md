@@ -1,12 +1,18 @@
 ---
-nid: 13269
 title: Outlining needed kite tutorials
-path: public/static/notes/mathew/07-07-2016/outlining-needed-kite-tutorials.md
+tagnames: kite-mapping, kite-aerial-photography, kite, photo-rig, kite-fishing, kite-anemometer
+author: mathew
+path: /notes/mathew/07-07-2016/outlining-needed-kite-tutorials.md
+nid: 13269
 uid: 4
-tagnames: kite-mapping,kite-aerial-photography,kite,photo-rig,kite-fishing,kite-anemometer
+
 ---
 
 # Outlining needed kite tutorials
+
+by [mathew](../profile/mathew) July 07, 2016 22:26
+
+July 07, 2016 22:26 | Tags: [kite-mapping](../tag/kite-mapping), [kite-aerial-photography](../tag/kite-aerial-photography), [kite](../tag/kite), [photo-rig](../tag/photo-rig), [kite-fishing](../tag/kite-fishing), [kite-anemometer](../tag/kite-anemometer)
 
 photo: @stevie
 

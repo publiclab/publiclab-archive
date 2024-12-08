@@ -1,6 +1,6 @@
 # parent-data-logging
 
-10 notes and wiki pages
+10 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Riffle: an Open Source Water Monitoring Approach](/riffle) (wiki)
 - [Autonomous Recording Unit](/wiki/autonomous-recording-unit) (wiki)

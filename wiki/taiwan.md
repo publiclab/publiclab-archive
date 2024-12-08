@@ -1,12 +1,18 @@
 ---
-nid: 11203
 title: taiwan
-path: public/static/wiki/taiwan.md
+tagnames: asia, china
+author: liz
+path: /wiki/taiwan.md
+nid: 11203
 uid: 7
-tagnames: asia,china
+
 ---
 
 # taiwan
+
+by [liz](../profile/liz)
+
+September 29, 2014 14:24 | Tags: [asia](../tag/asia), [china](../tag/china)
 
 **April 2014:** 
 

@@ -1,12 +1,18 @@
 ---
-nid: 13309
 title: Progress of the Expanded Q & A Project
-path: public/static/notes/ananyo2012/07-25-2016/progress-of-the-expanded-q-a-project.md
+tagnames: software, gsoc, web, developers, barnstar:basic, gsoc-2016, q-and-a
+author: ananyo2012
+path: /notes/ananyo2012/07-25-2016/progress-of-the-expanded-q-a-project.md
+nid: 13309
 uid: 468506
-tagnames: software,gsoc,web,developers,barnstar:basic,gsoc-2016,q-and-a
+
 ---
 
 # Progress of the Expanded Q & A Project
+
+by [ananyo2012](../profile/ananyo2012) July 25, 2016 20:19
+
+July 25, 2016 20:19 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [web](../tag/web), [developers](../tag/developers), [barnstar:basic](../tag/barnstar:basic), [gsoc-2016](../tag/gsoc-2016), [q-and-a](../tag/q-and-a)
 
 It's time for an update on the Q & A Project. The Q & A Project is almost up and running and now you can Post and answer a question from the Q & A pages. Here are all the detailed list of  features that are introduced in the Q & A pages. You can now visit the  https://publiclab.org/questions link to view all the questions in publiclab.org website.
 

@@ -1,12 +1,18 @@
 ---
-nid: 11584
 title: The Mission of GLAM: Gowanus Low Altitude Mappers
-path: public/static/wiki/the-mission-of-glam-gowanus-low-altitude-mappers.md
+tagnames: gowanus, gowanus-canal, gowanus-canal-superfund-site, grassrootsmappingforum, glam, style:fancy, gmf-4
+author: mollydanielsson
+path: /wiki/the-mission-of-glam-gowanus-low-altitude-mappers.md
+nid: 11584
 uid: 1259
-tagnames: gowanus,gowanus-canal,gowanus-canal-superfund-site,grassrootsmappingforum,glam,style:fancy,gmf-4
+
 ---
 
 # The Mission of GLAM: Gowanus Low Altitude Mappers
+
+by [mollydanielsson](../profile/mollydanielsson)
+
+February 14, 2015 01:14 | Tags: [gowanus](../tag/gowanus), [gowanus-canal](../tag/gowanus-canal), [gowanus-canal-superfund-site](../tag/gowanus-canal-superfund-site), [grassrootsmappingforum](../tag/grassrootsmappingforum), [glam](../tag/glam), [style:fancy](../tag/style:fancy), [gmf-4](../tag/gmf-4)
 
 **Published in 2013** [Grassroots Mapping Forum#4.](http://publiclab.org/forum)
 

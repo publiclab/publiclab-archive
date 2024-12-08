@@ -1,12 +1,18 @@
 ---
-nid: 9759
 title: Vermont Environmental Summit 2013
-path: public/static/notes/cfastie/11-10-2013/vermont-environmental-summit-2013.md
+tagnames: balloon-mapping, near-infrared-camera, spectrometer, kite-mapping, vermont, conferences, events, presentations, tac, events:vermont, presentation, response:4950
+author: cfastie
+path: /notes/cfastie/11-10-2013/vermont-environmental-summit-2013.md
+nid: 9759
 uid: 554
-tagnames: balloon-mapping,near-infrared-camera,spectrometer,kite-mapping,vermont,conferences,events,presentations,tac,events:vermont,presentation,response:4950
+
 ---
 
 # Vermont Environmental Summit 2013
+
+by [cfastie](../profile/cfastie) November 10, 2013 17:10
+
+November 10, 2013 17:10 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [spectrometer](../tag/spectrometer), [kite-mapping](../tag/kite-mapping), [vermont](../tag/vermont), [conferences](../tag/conferences), [events](../tag/events), [presentations](../tag/presentations), [tac](../tag/tac), [events:vermont](../tag/events:vermont), [presentation](../tag/presentation), [response:4950](../tag/response:4950)
 
 *Image above: VPIRG and TAC held a little celebration for the retirement of the Vermont Yankee nuclear power plant in Vernon, VT.*  
 

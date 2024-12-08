@@ -1,12 +1,18 @@
 ---
-nid: 11124
 title: Tracks from the WashUstLouis trip to Bayou Plaquemines
-path: public/static/notes/eustatic/09-11-2014/tracks-from-the-washustlouis-trip-to-bay-denesse.md
+tagnames: gulf-coast, balloon-mapping, washustlouis, washu-stlouis
+author: eustatic
+path: /09-11-2014/tracks-from-the-washustlouis-trip-to-bay-denesse.md
+nid: 11124
 uid: 379
-tagnames: gulf-coast,balloon-mapping,washustlouis,washu-stlouis
+
 ---
 
 # Tracks from the WashUstLouis trip to Bayou Plaquemines
+
+by [eustatic](../profile/eustatic) September 11, 2014 18:45
+
+September 11, 2014 18:45 | Tags: [gulf-coast](../tag/gulf-coast), [balloon-mapping](../tag/balloon-mapping), [washustlouis](../tag/washustlouis), [washu-stlouis](../tag/washu-stlouis)
 
 ###What I want to do
 

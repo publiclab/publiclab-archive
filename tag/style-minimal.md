@@ -1,6 +1,6 @@
 # style-minimal
 
-7 notes and wiki pages
+7 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Events](/events) (wiki)
 - [Getting Started](/wiki/getting-started) (wiki)

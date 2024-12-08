@@ -1,12 +1,18 @@
 ---
-nid: 21651
 title: Deindustrialization in RI: An Uneven Geography
-path: public/static/notes/tmarlow/12-03-2019/deindustrialization-in-ri-an-uneven-geography.md
+tagnames: rhode-island, blog, industry, first-time-poster, employment, brown, unearthing-pvd, unearthing-pvd-analyses, lat:41.826858, lon:-71.401872, deindustrialization
+author: tmarlow
+path: /notes/tmarlow/12-03-2019/deindustrialization-in-ri-an-uneven-geography.md
+nid: 21651
 uid: 635271
-tagnames: rhode-island,blog,industry,first-time-poster,employment,brown,unearthing-pvd,unearthing-pvd-analyses,lat:41.826858,lon:-71.401872,deindustrialization
+
 ---
 
 # Deindustrialization in RI: An Uneven Geography
+
+by [tmarlow](../profile/tmarlow) December 03, 2019 21:44
+
+December 03, 2019 21:44 | Tags: [rhode-island](../tag/rhode-island), [blog](../tag/blog), [industry](../tag/industry), [first-time-poster](../tag/first-time-poster), [employment](../tag/employment), [brown](../tag/brown), [unearthing-pvd](../tag/unearthing-pvd), [unearthing-pvd-analyses](../tag/unearthing-pvd-analyses), [lat:41.826858](../tag/lat:41.826858), [lon:-71.401872](../tag/lon:-71.401872), [deindustrialization](../tag/deindustrialization)
 
 It is common to hear people describe Rhode Island as a "post-industrial" state. But what does that really mean? Researchers often study deindustrialization by measuring declining levels of manufacturing employment. This is an important measure because it tells us about the level of economic disinvestment the state has experienced. As the graph below indicates, net manufacturing job loss in Rhode Island began around 1980\.  
 

@@ -1,12 +1,18 @@
 ---
-nid: 10103
 title: Automatic Spectrometer Calibration and Offline SWB - GSoC 2014 Proposal
-path: public/static/notes/Sreyanth/03-04-2014/automatic-spectrometer-calibration-and-offline-swb-gsoc-2014-proposal.md
+tagnames: spectrometer, spectralworkbench, matching, gsoc, gsoc-2014, gsoc-proposal
+author: Sreyanth
+path: /notes/Sreyanth/03-04-2014/automatic-spectrometer-calibration-and-offline-swb-gsoc-2014-proposal.md
+nid: 10103
 uid: 96713
-tagnames: spectrometer,spectralworkbench,matching,gsoc,gsoc-2014,gsoc-proposal
+
 ---
 
 # Automatic Spectrometer Calibration and Offline SWB - GSoC 2014 Proposal
+
+by [Sreyanth](../profile/Sreyanth) March 04, 2014 18:29
+
+March 04, 2014 18:29 | Tags: [spectrometer](../tag/spectrometer), [spectralworkbench](../tag/spectralworkbench), [matching](../tag/matching), [gsoc](../tag/gsoc), [gsoc-2014](../tag/gsoc-2014), [gsoc-proposal](../tag/gsoc-proposal)
 
 **Name:** Mora Sreyantha Chary, (fondly called as _Sreyanth_)
 

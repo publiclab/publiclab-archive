@@ -1,12 +1,18 @@
 ---
-nid: 30434
 title: Outreachy proposal: Re-design of the Infragram landing page and responsive design on mobile 
-path: public/static/notes/S_mboyi/04-16-2022/outreachy-proposal-re-design-of-the-infragram-landing-page-and-responsive-design-on-mobile.md
+tagnames: software, outreachy, first-time-poster, lon:10.195312, zoom:4, lat:5.965753, outreachy-2022, outreachy-summer-2022
+author: S_mboyi
+path: /notes/S_mboyi/04-16-2022/outreachy-proposal-re-design-of-the-infragram-landing-page-and-responsive-design-on-mobile.md
+nid: 30434
 uid: 795348
-tagnames: software,outreachy,first-time-poster,lon:10.195312,zoom:4,lat:5.965753,outreachy-2022,outreachy-summer-2022
+
 ---
 
 # Outreachy proposal: Re-design of the Infragram landing page and responsive design on mobile 
+
+by [S_mboyi](../profile/S_mboyi) April 16, 2022 01:01
+
+April 16, 2022 01:01 | Tags: [software](../tag/software), [outreachy](../tag/outreachy), [first-time-poster](../tag/first-time-poster), [lon:10.195312](../tag/lon:10.195312), [zoom:4](../tag/zoom:4), [lat:5.965753](../tag/lat:5.965753), [outreachy-2022](../tag/outreachy-2022), [outreachy-summer-2022](../tag/outreachy-summer-2022)
 
 ![image description](/i/45820.png "Desktop_-_1_(1).png")![image description](/i/45822.png "Android_Large_-_1.png")(This template is for students applying to summer code programs with Public Lab. Use this link to start writing a post: [https://publiclab.org/post?n=899&tags=soc,soc-2019,soc-2019-proposals](https://publiclab.org/post?n=899&tags=soc,soc-2019,soc-2019-proposals) You can delete this line once you've started filling it out.)
 

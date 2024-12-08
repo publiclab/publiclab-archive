@@ -1,12 +1,18 @@
 ---
-nid: 210
 title: Bonnet Carre Spillway
-path: public/static/wiki/bonnet-carre-spillway.md
+tagnames: gulf-coast, balloon-mapping, bonne-carre, spillway
+author: warren
+path: /wiki/bonnet-carre-spillway.md
+nid: 210
 uid: 1
-tagnames: gulf-coast,balloon-mapping,bonne-carre,spillway
+
 ---
 
 # Bonnet Carre Spillway
+
+by [gonzoearth](../profile/gonzoearth), [warren](../profile/warren)
+
+May 02, 2011 16:35 | Tags: [gulf-coast](../tag/gulf-coast), [balloon-mapping](../tag/balloon-mapping), [bonne-carre](../tag/bonne-carre), [spillway](../tag/spillway)
 
 <iframe width="500" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?client=safari&amp;q=Bonnet+Carre+Spillway,+6,+St.+Charles,+Louisiana+70068&amp;oe=UTF-8&amp;ie=UTF8&amp;hl=en&amp;geocode=FfrMyQEdAPmb-g&amp;split=0&amp;sll=37.0625,-95.677068&amp;sspn=23.875,57.630033&amp;hq=&amp;hnear=Bonnet+Carre+Spillway&amp;t=h&amp;view=map&amp;ll=30.010098,-90.436792&amp;spn=0.026013,0.042915&amp;z=14&amp;iwloc=A&amp;output=embed"></iframe><br /><small><a href="http://maps.google.com/maps?client=safari&amp;q=Bonnet+Carre+Spillway,+6,+St.+Charles,+Louisiana+70068&amp;oe=UTF-8&amp;ie=UTF8&amp;hl=en&amp;geocode=FfrMyQEdAPmb-g&amp;split=0&amp;sll=37.0625,-95.677068&amp;sspn=23.875,57.630033&amp;hq=&amp;hnear=Bonnet+Carre+Spillway&amp;t=h&amp;view=map&amp;ll=30.010098,-90.436792&amp;spn=0.026013,0.042915&amp;z=14&amp;iwloc=A&amp;source=embed" style="color:#0000FF;text-align:left">View Larger Map</a></small>
 

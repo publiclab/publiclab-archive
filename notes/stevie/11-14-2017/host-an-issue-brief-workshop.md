@@ -1,12 +1,18 @@
 ---
-nid: 15186
 title: Workshop: Explore Issue Briefs with others 
-path: public/static/notes/stevie/11-14-2017/host-an-issue-brief-workshop.md
+tagnames: organizing, barnstar:basic, facilitation, getting-started, community-organizing, issue-brief, activity:community-organizing, activity:issue-brief, activity:organizing
+author: stevie
+path: /notes/stevie/11-14-2017/host-an-issue-brief-workshop.md
+nid: 15186
 uid: 422561
-tagnames: organizing,barnstar:basic,facilitation,getting-started,community-organizing,issue-brief,activity:community-organizing,activity:issue-brief,activity:organizing
+
 ---
 
 # Workshop: Explore Issue Briefs with others 
+
+by [stevie](../profile/stevie) November 14, 2017 19:49
+
+November 14, 2017 19:49 | Tags: [organizing](../tag/organizing), [barnstar:basic](../tag/barnstar:basic), [facilitation](../tag/facilitation), [getting-started](../tag/getting-started), [community-organizing](../tag/community-organizing), [issue-brief](../tag/issue-brief), [activity:community-organizing](../tag/activity:community-organizing), [activity:issue-brief](../tag/activity:issue-brief), [activity:organizing](../tag/activity:organizing)
 
 **About this workshop:** In this workshop, participants will work together to explore [Issue Briefs](https://publiclab.org/wiki/issue-brief) posted to Public Lab. Objectives of the workshop are to engage in community science issues, help build ideas on how to address them, share ideas and pathways forward with the broader Public Lab community. This workshop can be adapted to be done for as few as 10 people or as many as 90. 
 

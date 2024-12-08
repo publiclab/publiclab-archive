@@ -1,12 +1,18 @@
 ---
-nid: 5962
 title: Countertop and Mobile Spectrometers and iOS progress
-path: public/static/notes/warren/2-12-2013/countertop-and-mobile-spectrometers-and-ios-progress.md
+tagnames: spectrometer, kickstarter, dsk, ios, mobile, mobile-spectrometer, backpack
+author: warren
+path: /notes/warren/2-12-2013/countertop-and-mobile-spectrometers-and-ios-progress.md
+nid: 5962
 uid: 1
-tagnames: spectrometer,kickstarter,dsk,ios,mobile,mobile-spectrometer,backpack
+
 ---
 
 # Countertop and Mobile Spectrometers and iOS progress
+
+by [warren](../profile/warren) February 12, 2013 22:45
+
+February 12, 2013 22:45 | Tags: [spectrometer](../tag/spectrometer), [kickstarter](../tag/kickstarter), [dsk](../tag/dsk), [ios](../tag/ios), [mobile](../tag/mobile), [mobile-spectrometer](../tag/mobile-spectrometer), [backpack](../tag/backpack)
 
 [Reposted from Kickstarter](http://www.kickstarter.com/projects/jywarren/public-lab-diy-spectrometry-kit/posts/404240)
 

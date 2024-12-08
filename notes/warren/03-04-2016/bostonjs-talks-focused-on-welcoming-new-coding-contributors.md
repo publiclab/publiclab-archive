@@ -1,12 +1,18 @@
 ---
-nid: 12771
 title: BostonJS talks focused on welcoming new coding contributors
-path: public/static/notes/warren/03-04-2016/bostonjs-talks-focused-on-welcoming-new-coding-contributors.md
+tagnames: boston, community, presentations, developers, coding, talks, javascript, new-contributors, first-timers-only, software-outreach, first-timers-only-blog
+author: warren
+path: /notes/warren/03-04-2016/bostonjs-talks-focused-on-welcoming-new-coding-contributors.md
+nid: 12771
 uid: 1
-tagnames: boston,community,presentations,developers,coding,talks,javascript,new-contributors,first-timers-only,software-outreach,first-timers-only-blog
+
 ---
 
 # BostonJS talks focused on welcoming new coding contributors
+
+by [warren](../profile/warren) March 04, 2016 01:09
+
+March 04, 2016 01:09 | Tags: [boston](../tag/boston), [community](../tag/community), [presentations](../tag/presentations), [developers](../tag/developers), [coding](../tag/coding), [talks](../tag/talks), [javascript](../tag/javascript), [new-contributors](../tag/new-contributors), [first-timers-only](../tag/first-timers-only), [software-outreach](../tag/software-outreach), [first-timers-only-blog](../tag/first-timers-only-blog)
 
 I'm speaking tonight at BostonJS, and some of the other speakers are doing really amazing talks on welcoming new contributors. Check out the event and links here, including links to the other speakers:
 

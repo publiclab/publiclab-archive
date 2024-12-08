@@ -1,12 +1,18 @@
 ---
-nid: 17414
 title: Pi Builder
-path: public/static/wiki/pi-builder.md
+tagnames: raspberry-pi, cameras, pi, rpi, activity:community-microscope, pi-builder, parent:pi-camera
+author: warren
+path: /wiki/pi-builder.md
+nid: 17414
 uid: 1
-tagnames: raspberry-pi,cameras,pi,rpi,activity:community-microscope,pi-builder,parent:pi-camera
+
 ---
 
 # Pi Builder
+
+by [warren](../profile/warren)
+
+October 28, 2018 17:18 | Tags: [raspberry-pi](../tag/raspberry-pi), [cameras](../tag/cameras), [pi](../tag/pi), [rpi](../tag/rpi), [activity:community-microscope](../tag/activity:community-microscope), [pi-builder](../tag/pi-builder), [parent:pi-camera](../tag/parent:pi-camera)
 
 Documentation for the Pi Builder software; see more at [https://github.com/publiclab/pi-builder](https://github.com/publiclab/pi-builder)
 

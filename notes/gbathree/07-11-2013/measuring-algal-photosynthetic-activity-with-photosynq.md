@@ -1,12 +1,18 @@
 ---
-nid: 8850
 title: Measuring algal photosynthetic activity with Photosynq
-path: public/static/notes/gbathree/07-11-2013/measuring-algal-photosynthetic-activity-with-photosynq.md
+tagnames: photosynthesis, photosynq, algae
+author: gbathree
+path: /notes/gbathree/07-11-2013/measuring-algal-photosynthetic-activity-with-photosynq.md
+nid: 8850
 uid: 53164
-tagnames: photosynthesis,photosynq,algae
+
 ---
 
 # Measuring algal photosynthetic activity with Photosynq
+
+by [gbathree](../profile/gbathree) July 11, 2013 13:00
+
+July 11, 2013 13:00 | Tags: [photosynthesis](../tag/photosynthesis), [photosynq](../tag/photosynq), [algae](../tag/algae)
 
 So we've been makinng good progress on Photosynq, our little handheld photosynthesis measurement device, and for the last 2 weeks we've been taking it out for a spin - with algae!
 

@@ -1,12 +1,18 @@
 ---
-nid: 9917
 title: Live webcam Infragramming, WebGL option
-path: public/static/notes/warren/12-28-2013/live-webcam-infragramming-webgl-option.md
+tagnames: near-infrared-camera, infragram, infragram-sandbox, infragrammar, webgl
+author: warren
+path: /notes/warren/12-28-2013/live-webcam-infragramming-webgl-option.md
+nid: 9917
 uid: 1
-tagnames: near-infrared-camera,infragram,infragram-sandbox,infragrammar,webgl
+
 ---
 
 # Live webcam Infragramming, WebGL option
+
+by [warren](../profile/warren) December 28, 2013 20:03
+
+December 28, 2013 20:03 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [infragram](../tag/infragram), [infragram-sandbox](../tag/infragram-sandbox), [infragrammar](../tag/infragrammar), [webgl](../tag/webgl)
 
 Working from Piotr's [great WebGL code](https://github.com/pfoltyn/infragram-js/) (which uses your GPU to accelerate Infragram calculations) theres now a WebGL option on [Infragram Sandbox](http://infragram.org/static/sandbox/):
 

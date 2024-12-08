@@ -1,12 +1,18 @@
 ---
-nid: 1849
 title: Gowanus Canal Salt Lot Kite Mapping
-path: public/static/notes/eymund-diegel/4-30-2012/gowanus-canal-salt-lot-kite-mapping.md
+tagnames: balloon-mapping, kite-mapping, camera-rig-tests, photo-rig, activity:photo-rig, first-time-poster
+author: eymund
+path: /notes/eymund-diegel/4-30-2012/gowanus-canal-salt-lot-kite-mapping.md
+nid: 1849
 uid: 1016
-tagnames: balloon-mapping,kite-mapping,camera-rig-tests,photo-rig,activity:photo-rig,first-time-poster
+
 ---
 
 # Gowanus Canal Salt Lot Kite Mapping
+
+by [eymund](../profile/eymund) April 30, 2012 14:50
+
+April 30, 2012 14:50 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [camera-rig-tests](../tag/camera-rig-tests), [photo-rig](../tag/photo-rig), [activity:photo-rig](../tag/activity:photo-rig), [first-time-poster](../tag/first-time-poster)
 
 I posted some selected pics from Saturday's Salt Lot kite photography exercises. We got a couple of good shots of the new Composting Gowanus site improvements:
 

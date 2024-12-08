@@ -1,12 +1,18 @@
 ---
-nid: 13050
 title: Early design ideas for the Rich Editor project
-path: public/static/notes/warren/04-29-2016/early-design-ideas-for-the-rich-editor-project.md
+tagnames: software, design, web, developers, wwg, editor, rich-editor
+author: warren
+path: /notes/warren/04-29-2016/early-design-ideas-for-the-rich-editor-project.md
+nid: 13050
 uid: 1
-tagnames: software,design,web,developers,wwg,editor,rich-editor
+
 ---
 
 # Early design ideas for the Rich Editor project
+
+by [warren](../profile/warren) April 29, 2016 18:43
+
+April 29, 2016 18:43 | Tags: [software](../tag/software), [design](../tag/design), [web](../tag/web), [developers](../tag/developers), [wwg](../tag/wwg), [editor](../tag/editor), [rich-editor](../tag/rich-editor)
 
 There've been LOTS of great ideas posted, both in response to my recent [ask for input on the new Rich Editor project](/notes/warren/04-13-2016/call-for-input-on-upcoming-rich-editor-and-rich-wiki-projects-for-publiclab-org), and in response to @liz's [post on peer review](/notes/liz/04-21-2016/comment-piece-in-nature-about-peer-review) -- that have relevance to the ongoing design of the new Rich Editor. 
 

@@ -1,12 +1,18 @@
 ---
-nid: 20704
 title: microscope-photos
-path: public/static/wiki/microscope-photos.md
+tagnames: communityscience, communitymicroscope
+author: liz
+path: /wiki/microscope-photos.md
+nid: 20704
 uid: 7
-tagnames: communityscience,communitymicroscope
+
 ---
 
 # microscope-photos
+
+by [liz](../profile/liz)
+
+August 28, 2019 18:43 | Tags: [communityscience](../tag/communityscience), [communitymicroscope](../tag/communitymicroscope)
 
 
 

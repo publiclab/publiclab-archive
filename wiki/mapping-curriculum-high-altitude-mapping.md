@@ -1,12 +1,18 @@
 ---
-nid: 10237
 title: Mapping Curriculum: High Altitude Mapping
-path: public/static/wiki/mapping-curriculum-high-altitude-mapping.md
+tagnames: balloon-mapping, curriculum, map-curriculum, parent:mapping-curriculum, mapping-curriculum
+author: gonzoearth
+path: /wiki/mapping-curriculum-high-altitude-mapping.md
+nid: 10237
 uid: 12
-tagnames: balloon-mapping,curriculum,map-curriculum,parent:mapping-curriculum,mapping-curriculum
+
 ---
 
 # Mapping Curriculum: High Altitude Mapping
+
+by [gonzoearth](../profile/gonzoearth)
+
+March 28, 2014 21:56 | Tags: [balloon-mapping](../tag/balloon-mapping), [curriculum](../tag/curriculum), [map-curriculum](../tag/map-curriculum), [parent:mapping-curriculum](../tag/parent:mapping-curriculum), [mapping-curriculum](../tag/mapping-curriculum)
 
 Sometimes the goal is to map a larger extent of a given area due to various situations such as: 
 

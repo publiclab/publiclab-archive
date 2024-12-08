@@ -1,12 +1,18 @@
 ---
-nid: 94
 title: Contribute
-path: public/static/wiki/contribute.md
+tagnames: community, welcome, getting-started, parent:welcome, contribute
+author: warren
+path: /wiki/contribute.md
+nid: 94
 uid: 1
-tagnames: community,welcome,getting-started,parent:welcome,contribute
+
 ---
 
 # Contribute
+
+by [bhamster](../profile/bhamster), [liz](../profile/liz), [zengirl2](../profile/zengirl2), [warren](../profile/warren)
+
+February 20, 2011 20:54 | Tags: [community](../tag/community), [welcome](../tag/welcome), [getting-started](../tag/getting-started), [parent:welcome](../tag/parent:welcome), [contribute](../tag/contribute)
 
 We’re so glad you’re here, thanks for your interest in getting involved with Public Lab! 👋🏽 🎈
 

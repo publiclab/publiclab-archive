@@ -1,12 +1,18 @@
 ---
-nid: 9050
 title: Public Lab Community Newsletter - August 23, 2013
-path: public/static/notes/warren/08-23-2013/public-lab-community-newsletter-august-23-2013.md
+tagnames: newsletter, blog, newsletter-archive
+author: warren
+path: /notes/warren/08-23-2013/public-lab-community-newsletter-august-23-2013.md
+nid: 9050
 uid: 1
-tagnames: newsletter,blog,newsletter-archive
+
 ---
 
 # Public Lab Community Newsletter - August 23, 2013
+
+by [warren](../profile/warren) August 23, 2013 15:27
+
+August 23, 2013 15:27 | Tags: [newsletter](../tag/newsletter), [blog](../tag/blog), [newsletter-archive](../tag/newsletter-archive)
 
 Happy Friday, Public Lab! Lots happening this week between updates on two Kickstarters, hundreds of new potential contributors to our infrared photography project, and various announcements and upcoming events. Stay cool, summer’s almost over!
 

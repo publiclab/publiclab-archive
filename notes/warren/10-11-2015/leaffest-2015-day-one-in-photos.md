@@ -1,12 +1,18 @@
 ---
-nid: 12288
 title: LEAFFEST 2015 day one in photos
-path: public/static/notes/warren/10-11-2015/leaffest-2015-day-one-in-photos.md
+tagnames: vermont, leaffest, leaffest2015, leaffester, doccom
+author: warren
+path: /notes/warren/10-11-2015/leaffest-2015-day-one-in-photos.md
+nid: 12288
 uid: 1
-tagnames: vermont,leaffest,leaffest2015,leaffester,doccom
+
 ---
 
 # LEAFFEST 2015 day one in photos
+
+by [warren](../profile/warren) October 11, 2015 02:36
+
+October 11, 2015 02:36 | Tags: [vermont](../tag/vermont), [leaffest](../tag/leaffest), [leaffest2015](../tag/leaffest2015), [leaffester](../tag/leaffester), [doccom](../tag/doccom)
 
 We're wrapping up a great first day of LEAFFEST 2015, for which I've prepared a daily publication entitled The LEAFFESTER:
 

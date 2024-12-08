@@ -1,6 +1,6 @@
 # foldable-spectrometer
 
-5 notes and wiki pages
+5 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Smartphone spectrometer](/wiki/smartphone-spectrometer) (wiki)
 - [Silhouette cut Public Lab Mobile spectrometer v2](/notes/briandegger/12-11-2015/silhouette-cut-public-lab-mobile-spectrometer-v2) by [briandegger](../profile/briandegger)

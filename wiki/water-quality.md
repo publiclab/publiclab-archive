@@ -1,12 +1,18 @@
 ---
-nid: 9937
 title: Water quality
-path: public/static/wiki/water-quality.md
+tagnames: water-quality, water, reagents
+author: donblair
+path: /wiki/water-quality.md
+nid: 9937
 uid: 43651
-tagnames: water-quality,water,reagents
+
 ---
 
 # Water quality
+
+by [warren](../profile/warren), [liz](../profile/liz), [stevie](../profile/stevie), [vjpixel](../profile/vjpixel), [donblair](../profile/donblair)
+
+January 11, 2014 04:58 | Tags: [water-quality](../tag/water-quality), [water](../tag/water), [reagents](../tag/reagents)
 
 Rivers, oceans, lakes, aquifers, groundwater, stormwater, urban canals, underground streams, estuaries, and more -- we are passionate about water quality! This page will help you find resources to explore the waterbodies you care about, and connect with other people who have the same interests: 
 

@@ -1,12 +1,18 @@
 ---
-nid: 6456
 title: never say it can't be done
-path: public/static/notes/sonofaquark/3-21-2013/never-say-it-cant-be-done.md
+tagnames: spectrometer, spectroscopy, first-time-poster
+author: sonofaquark
+path: /notes/sonofaquark/3-21-2013/never-say-it-cant-be-done.md
+nid: 6456
 uid: 54330
-tagnames: spectrometer,spectroscopy,first-time-poster
+
 ---
 
 # never say it can't be done
+
+by [sonofaquark](../profile/sonofaquark) March 21, 2013 12:17
+
+March 21, 2013 12:17 | Tags: [spectrometer](../tag/spectrometer), [spectroscopy](../tag/spectroscopy), [first-time-poster](../tag/first-time-poster)
 
 somebody tried to tell me it's impossible to detect pesticide residue optically. When I went to work in a dingy lead lined basement at UCSF 35 years ago we had a small resistive magnet, a teletype, a 6802, and a tek storage scope. They told us the idea of imaging with NMR was ridiculous.
 

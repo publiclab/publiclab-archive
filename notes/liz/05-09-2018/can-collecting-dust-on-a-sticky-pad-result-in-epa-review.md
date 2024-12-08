@@ -1,12 +1,18 @@
 ---
-nid: 16319
 title: Can collecting dust on a sticky pad result in EPA review?
-path: public/static/notes/liz/05-09-2018/can-collecting-dust-on-a-sticky-pad-result-in-epa-review.md
+tagnames: epa, air-quality, pm, question:pm, question:general, sticky-pad
+author: liz
+path: /notes/liz/05-09-2018/can-collecting-dust-on-a-sticky-pad-result-in-epa-review.md
+nid: 16319
 uid: 7
-tagnames: epa,air-quality,pm,question:pm,question:general,sticky-pad
+
 ---
 
 # Can collecting dust on a sticky pad result in EPA review?
+
+by [liz](../profile/liz) May 09, 2018 13:52
+
+May 09, 2018 13:52 | Tags: [epa](../tag/epa), [air-quality](../tag/air-quality), [pm](../tag/pm), [question:pm](../tag/question:pm), [question:general](../tag/question:general), [sticky-pad](../tag/sticky-pad)
 
 I am asking a question on behalf of a community member. They want to know: 
 

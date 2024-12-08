@@ -1,12 +1,18 @@
 ---
-nid: 30759
 title: Want to Share Your Perspective on Sustainability and the Future of Coal?
-path: public/static/notes/kassidy219s/05-16-2022/want-to-share-your-perspective-on-sustainability-and-the-future-of-coal.md
+tagnames: first-time-poster, mmmp, question:mmmp
+author: kassidy219s
+path: /notes/kassidy219s/05-16-2022/want-to-share-your-perspective-on-sustainability-and-the-future-of-coal.md
+nid: 30759
 uid: 790275
-tagnames: first-time-poster,mmmp,question:mmmp
+
 ---
 
 # Want to Share Your Perspective on Sustainability and the Future of Coal?
+
+by [kassidy219s](../profile/kassidy219s) May 16, 2022 23:46
+
+May 16, 2022 23:46 | Tags: [first-time-poster](../tag/first-time-poster), [mmmp](../tag/mmmp), [question:mmmp](../tag/question:mmmp)
 
 I'm Kassidy Slaughter, and I'm a sophomore at Cornell University majoring in Industrial and Labor Relations.  
 

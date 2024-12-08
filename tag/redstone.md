@@ -1,6 +1,6 @@
 # redstone
 
-9 notes and wiki pages
+9 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [The Redstone Rig is ready](/notes/cfastie/03-27-2014/the-redstone-rig-is-ready) by [cfastie](../profile/cfastie)
 - [Pierre's plastic Picavet](/notes/cfastie/04-15-2014/pierre-s-plastic-picavet) by [cfastie](../profile/cfastie)

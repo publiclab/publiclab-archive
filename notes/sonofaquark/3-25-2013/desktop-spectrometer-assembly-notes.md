@@ -1,12 +1,18 @@
 ---
-nid: 6535
 title: Desktop Spectrometer Assembly Notes
-path: public/static/notes/sonofaquark/3-25-2013/desktop-spectrometer-assembly-notes.md
+tagnames: spectrometer, unboxing
+author: sonofaquark
+path: /notes/sonofaquark/3-25-2013/desktop-spectrometer-assembly-notes.md
+nid: 6535
 uid: 54330
-tagnames: spectrometer,unboxing
+
 ---
 
 # Desktop Spectrometer Assembly Notes
+
+by [sonofaquark](../profile/sonofaquark) March 26, 2013 03:13
+
+March 26, 2013 03:13 | Tags: [spectrometer](../tag/spectrometer), [unboxing](../tag/unboxing)
 
 I just finished assembling my desktop unit and posting my first spectra, and couldn't really find the right place for a collection of suggestions from users to share their assembly experience and suggest possible improvements within the current design parameters. If I missed it I would have no problem with transferring this note there.
 

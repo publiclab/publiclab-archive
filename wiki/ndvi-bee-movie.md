@@ -1,12 +1,18 @@
 ---
-nid: 8005
 title: NDVI Bee Movie
-path: public/static/wiki/ndvi-bee-movie.md
-uid: 43651
 tagnames: 
+author: donblair
+path: /wiki/ndvi-bee-movie.md
+nid: 8005
+uid: 43651
+
 ---
 
 # NDVI Bee Movie
+
+by [donblair](../profile/donblair)
+
+June 01, 2013 04:48 | Tags: 
 
 ![NDVI.png](https://i.publiclab.org/system/images/photos/000/000/446/medium/NDVI.png)
 

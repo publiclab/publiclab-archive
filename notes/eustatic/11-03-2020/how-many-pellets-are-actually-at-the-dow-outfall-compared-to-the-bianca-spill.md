@@ -1,12 +1,18 @@
 ---
-nid: 24913
 title: How many pellets are actually at the Dow outfall, compared to the Bianca Spill?
-path: public/static/notes/eustatic/11-03-2020/how-many-pellets-are-actually-at-the-dow-outfall-compared-to-the-bianca-spill.md
+tagnames: water-quality, microplastics, zoom:13, nurdles, dow, nurdle-patrol, nurdle-survey, plastic-pellets, lat:29.999989, lon:-90.45209
+author: eustatic
+path: /11-03-2020/how-many-pellets-are-actually-at-the-dow-outfall-compared-to-the-bianca-spill.md
+nid: 24913
 uid: 379
-tagnames: water-quality,microplastics,zoom:13,nurdles,dow,nurdle-patrol,nurdle-survey,plastic-pellets,lat:29.999989,lon:-90.45209
+
 ---
 
 # How many pellets are actually at the Dow outfall, compared to the Bianca Spill?
+
+by [eustatic](../profile/eustatic) November 03, 2020 02:10
+
+November 03, 2020 02:10 | Tags: [water-quality](../tag/water-quality), [microplastics](../tag/microplastics), [zoom:13](../tag/zoom:13), [nurdles](../tag/nurdles), [dow](../tag/dow), [nurdle-patrol](../tag/nurdle-patrol), [nurdle-survey](../tag/nurdle-survey), [plastic-pellets](../tag/plastic-pellets), [lat:29.999989](../tag/lat:29.999989), [lon:-90.45209](../tag/lon:-90.45209)
 
 USES and others say that pellets are "unrecoverable." I wanted to see how many pellets I could recover across from the source, the Dow Taft plant, which manufactures polyethylene.
 

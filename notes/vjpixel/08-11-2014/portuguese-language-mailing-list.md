@@ -1,12 +1,18 @@
 ---
-nid: 11038
 title: Portuguese language mailing list
-path: public/static/notes/vjpixel/08-11-2014/portuguese-language-mailing-list.md
+tagnames: mailing-lists, portuguese
+author: vjpixel
+path: /notes/vjpixel/08-11-2014/portuguese-language-mailing-list.md
+nid: 11038
 uid: 420617
-tagnames: mailing-lists,portuguese
+
 ---
 
 # Portuguese language mailing list
+
+by [vjpixel](../profile/vjpixel) August 11, 2014 22:12
+
+August 11, 2014 22:12 | Tags: [mailing-lists](../tag/mailing-lists), [portuguese](../tag/portuguese)
 
 ###What I want to do
 

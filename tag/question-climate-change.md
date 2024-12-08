@@ -1,6 +1,6 @@
 # question-climate-change
 
-4 notes and wiki pages
+4 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Can anyone help with weather station recommendations?](/notes/stevie/06-13-2017/can-anyone-help-with-weather-station-recommendations) by [stevie](../profile/stevie)
 - [Making ink from petrochemical pollution?](/notes/hchalew/02-05-2020/making-ink-from-petrochemical-pollution) by [hchalew](../profile/hchalew)

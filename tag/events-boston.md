@@ -1,6 +1,6 @@
 # events-boston
 
-5 notes and wiki pages
+5 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Somerville, Massachusetts](/wiki/somerville-massachusetts) (wiki)
 - [Boston](/wiki/boston) (wiki)

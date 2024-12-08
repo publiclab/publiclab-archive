@@ -3,6 +3,8 @@ uid: 43229
 created_at: 2013-04-15 00:36:43 UTC
 ---
 
+# btbonval
+
 <p align="right">
 <a title="This classic barnstar is awarded to people who exemplify the spirit of open research, as well as to all who attend a Public Lab Barnraising." href="/sites/default/files/TheBarnstar.png"> <img src="/system/images/photos/000/001/787/thumb/TheBarnstar_300.jpg" width="80" /></a>
 <a title="This Octocat barnstar honors those who use GitHub to file issues, comment on issues, or contribute code." href="/system/images/photos/000/001/816/original/octocatstar.png"> <img src="/system/images/photos/000/001/816/thumb/octocatstar.png" width="80" /></a>
@@ -14,9 +16,9 @@ Bill Nye's theme song was once quoted as saying, "Science rules!" Thus it is tha
 
 ----
 
-[Boston Toolshed Raising 2014](/wiki/boston-toolshed-raising-2014)
-[Public Laboratory on RAI TV's Ubiq](/notes/btbonval/05-15-2014/public-laboratory-on-rai-tv-s-ubiq)
-[Calibrating DHT11 sensors](/notes/btbonval/07-14-2014/calibrating-dht11-sensors)
-[food](/wiki/food)
-[Multispectral analysis for determining plant health](/wiki/multispectral-analysis-for-determining-plant-health)
-[Video Tutorials for using Public Lab tools and accessories.](/wiki/video-tutorials-for-using-public-lab-tools-and-accessories)
+- [Boston Toolshed Raising 2014](/wiki/boston-toolshed-raising-2014) (wiki)
+- [Public Laboratory on RAI TV's Ubiq](/notes/btbonval/05-15-2014/public-laboratory-on-rai-tv-s-ubiq)
+- [Calibrating DHT11 sensors](/notes/btbonval/07-14-2014/calibrating-dht11-sensors)
+- [food](/wiki/food) (wiki)
+- [Multispectral analysis for determining plant health](/wiki/multispectral-analysis-for-determining-plant-health) (wiki)
+- [Video Tutorials for using Public Lab tools and accessories.](/wiki/video-tutorials-for-using-public-lab-tools-and-accessories) (wiki)

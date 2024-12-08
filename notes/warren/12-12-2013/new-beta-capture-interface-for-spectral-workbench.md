@@ -1,12 +1,18 @@
 ---
-nid: 9875
 title: New beta capture interface for Spectral Workbench
-path: public/static/notes/warren/12-12-2013/new-beta-capture-interface-for-spectral-workbench.md
+tagnames: spectrometer, spectralworkbench
+author: warren
+path: /notes/warren/12-12-2013/new-beta-capture-interface-for-spectral-workbench.md
+nid: 9875
 uid: 1
-tagnames: spectrometer,spectralworkbench
+
 ---
 
 # New beta capture interface for Spectral Workbench
+
+by [warren](../profile/warren) December 12, 2013 16:07
+
+December 12, 2013 16:07 | Tags: [spectrometer](../tag/spectrometer), [spectralworkbench](../tag/spectralworkbench)
 
 I've been working in my spare time on a new interface for capturing spectra, pictured above, which is available at:
 

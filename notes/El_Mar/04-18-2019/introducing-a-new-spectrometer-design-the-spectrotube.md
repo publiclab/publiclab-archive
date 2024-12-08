@@ -1,12 +1,18 @@
 ---
-nid: 19103
 title: Introducing a new spectrometer design - "The Spectrotube"
-path: public/static/notes/El_Mar/04-18-2019/introducing-a-new-spectrometer-design-the-spectrotube.md
+tagnames: spectrometer, spectrometry, camera, upgrade:spectrometry, noir, first-time-poster, spectrotube
+author: El_Mar
+path: /notes/El_Mar/04-18-2019/introducing-a-new-spectrometer-design-the-spectrotube.md
+nid: 19103
 uid: 527923
-tagnames: spectrometer,spectrometry,camera,upgrade:spectrometry,noir,first-time-poster,spectrotube
+
 ---
 
 # Introducing a new spectrometer design - "The Spectrotube"
+
+by [El_Mar](../profile/El_Mar) April 18, 2019 09:04
+
+April 18, 2019 09:04 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [camera](../tag/camera), [upgrade:spectrometry](../tag/upgrade:spectrometry), [noir](../tag/noir), [first-time-poster](../tag/first-time-poster), [spectrotube](../tag/spectrotube)
 
 **Features**
 

@@ -1,12 +1,18 @@
 ---
-nid: 10984
 title: Question: Can the Public Labs Desktop Spectrometer analyze light from a patch of grass?
-path: public/static/notes/WhiteRabbit/07-27-2014/question-can-i-use-the-desktop-spectrometer-to-analyze-ordinary-reflected-light.md
-uid: 425996
 tagnames: question:spectrometry
+author: WhiteRabbit
+path: /notes/WhiteRabbit/07-27-2014/question-can-i-use-the-desktop-spectrometer-to-analyze-ordinary-reflected-light.md
+nid: 10984
+uid: 425996
+
 ---
 
 # Question: Can the Public Labs Desktop Spectrometer analyze light from a patch of grass?
+
+by [WhiteRabbit](../profile/WhiteRabbit) July 27, 2014 17:11
+
+July 27, 2014 17:11 | Tags: [question:spectrometry](../tag/question:spectrometry)
 
 ###What I want to do or know:  
 Can I generate a reflectance curve like that shown for lawn grass at the start of research note http://publiclab.org/notes/nedhorning/11-01-2013/why-a-red-filter-should-work-well-for-ndvi by simply pointing the Public Lab desktop spectrometer at a patch of grass on a sunny day? Would it be that simple, or would I need some optics to bring enough light into the desktop spectrometer for that to work?  Or would it not work even then?

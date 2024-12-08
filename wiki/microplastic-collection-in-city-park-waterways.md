@@ -1,12 +1,18 @@
 ---
-nid: 26500
 title: Microplastic Collection in City Park waterways
-path: public/static/wiki/microplastic-collection-in-city-park-waterways.md
+tagnames: gulf-coast, new-orleans, nola, location:blurred, place:united-states, lat:30, lon:-90, microplastics, zoom:6, citypark, loopnola, achschipmunks, reduceplasticconsumption, reducemicroplastics, nolitter, cleanupthebayou, archbishopchapelle, excelatchapelle, chipmunkcityparkproject, chipmunks
+author: jmerrill
+path: /wiki/microplastic-collection-in-city-park-waterways.md
+nid: 26500
 uid: 742582
-tagnames: gulf-coast,new-orleans,nola,location:blurred,place:united-states,lat:30,lon:-90,microplastics,zoom:6,citypark,loopnola,achschipmunks,reduceplasticconsumption,reducemicroplastics,nolitter,cleanupthebayou,archbishopchapelle,excelatchapelle,chipmunkcityparkproject,chipmunks
+
 ---
 
 # Microplastic Collection in City Park waterways
+
+by [jmerrill](../profile/jmerrill)
+
+May 05, 2021 19:40 | Tags: [gulf-coast](../tag/gulf-coast), [new-orleans](../tag/new-orleans), [nola](../tag/nola), [location:blurred](../tag/location:blurred), [place:united-states](../tag/place:united-states), [lat:30](../tag/lat:30), [lon:-90](../tag/lon:-90), [microplastics](../tag/microplastics), [zoom:6](../tag/zoom:6), [citypark](../tag/citypark), [loopnola](../tag/loopnola), [achschipmunks](../tag/achschipmunks), [reduceplasticconsumption](../tag/reduceplasticconsumption), [reducemicroplastics](../tag/reducemicroplastics), [nolitter](../tag/nolitter), [cleanupthebayou](../tag/cleanupthebayou), [archbishopchapelle](../tag/archbishopchapelle), [excelatchapelle](../tag/excelatchapelle), [chipmunkcityparkproject](../tag/chipmunkcityparkproject), [chipmunks](../tag/chipmunks)
 
 [![IMG-8473.jpg](/i/43819)](/i/43819?s=o)
 ****

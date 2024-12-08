@@ -1,12 +1,18 @@
 ---
-nid: 27327
 title: Hiring: Public Lab Education Manager
-path: public/static/notes/jmacha/07-26-2021/hiring-public-lab-education-manager.md
+tagnames: education, jobs, locked, careers
+author: jmacha
+path: /notes/jmacha/07-26-2021/hiring-public-lab-education-manager.md
+nid: 27327
 uid: 423019
-tagnames: education,jobs,locked,careers
+
 ---
 
 # Hiring: Public Lab Education Manager
+
+by [jmacha](../profile/jmacha) July 26, 2021 20:02
+
+July 26, 2021 20:02 | Tags: [education](../tag/education), [jobs](../tag/jobs), [locked](../tag/locked), [careers](../tag/careers)
 
 ## Education Manager
 

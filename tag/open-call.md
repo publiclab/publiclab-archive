@@ -1,6 +1,6 @@
 # open-call
 
-6 notes and wiki pages
+6 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Open Call](/wiki/open-call) (wiki)
 - [Public Lab Community Newsletter: December 2017](/notes/Delaney/12-12-2017/public-lab-community-newsletter-december-2017) by [Delaney](../profile/Delaney)

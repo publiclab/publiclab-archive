@@ -1,12 +1,18 @@
 ---
-nid: 27983
 title: Logging Complex Odors
-path: public/static/notes/sarasage/10-29-2021/logging-complex-odors.md
+tagnames: landfill, air-quality, blog, barnstar:empiricism, odor, odor-mapping, VVAMP, ambient-air
+author: sarasage
+path: /notes/sarasage/10-29-2021/logging-complex-odors.md
+nid: 27983
 uid: 451398
-tagnames: landfill,air-quality,blog,barnstar:empiricism,odor,odor-mapping,VVAMP,ambient-air
+
 ---
 
 # Logging Complex Odors
+
+by [sarasage](../profile/sarasage) October 29, 2021 18:50
+
+October 29, 2021 18:50 | Tags: [landfill](../tag/landfill), [air-quality](../tag/air-quality), [blog](../tag/blog), [barnstar:empiricism](../tag/barnstar:empiricism), [odor](../tag/odor), [odor-mapping](../tag/odor-mapping), [VVAMP](../tag/VVAMP), [ambient-air](../tag/ambient-air)
 
 During the summer, our fellowship team logged ambient odors on field sheets to accompany data from our gas monitors. As we are closing up the fellowship and looking through the data, we want to know what quality of odors are coming into our community from a nearby landfill - and if there are patterns or trends in the type, frequency or accompanying factors.
 

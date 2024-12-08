@@ -1,12 +1,18 @@
 ---
-nid: 12764
 title: Creating an evaluation framework for Public Lab
-path: public/static/notes/Shannon/03-01-2016/creating-an-evaluation-framework-for-public-lab.md
+tagnames: nonprofit, evaluation
+author: Shannon
+path: /notes/Shannon/03-01-2016/creating-an-evaluation-framework-for-public-lab.md
+nid: 12764
 uid: 9
-tagnames: nonprofit,evaluation
+
 ---
 
 # Creating an evaluation framework for Public Lab
+
+by [Shannon](../profile/Shannon) March 01, 2016 16:36
+
+March 01, 2016 16:36 | Tags: [nonprofit](../tag/nonprofit), [evaluation](../tag/evaluation)
 
 During 2015, the Public Lab nonprofit received a grant from the Rita Allen Foundation in partnership with UC-Davis to build an evaluation framework that can be implemented by the nonprofit staff. Launching almost six years ago during the BP oil spill, the Public Lab community has created a unique model that combines civic technology and community science to support people in becoming stakeholders engaged in the decision-making processes of places they care about. 
 

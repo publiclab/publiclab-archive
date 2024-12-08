@@ -1,12 +1,18 @@
 ---
-nid: 20703
 title: Community Microscope Stage Assembly Instructions
-path: public/static/notes/mimiss/09-05-2019/community-microscope-stage-assembly-instructions.md
+tagnames: with:warren, with:stevie, with:liz, microscope, with:bronwen, activity:microscope, activity:community-microscope, assembly:community-microscope
+author: mimiss
+path: /notes/mimiss/09-05-2019/community-microscope-stage-assembly-instructions.md
+nid: 20703
 uid: 579821
-tagnames: with:warren,with:stevie,with:liz,microscope,with:bronwen,activity:microscope,activity:community-microscope,assembly:community-microscope
+
 ---
 
 # Community Microscope Stage Assembly Instructions
+
+by [mimiss](../profile/mimiss) August 28, 2019 16:09
+
+August 28, 2019 16:09 | Tags: [with:warren](../tag/with:warren), [with:stevie](../tag/with:stevie), [with:liz](../tag/with:liz), [microscope](../tag/microscope), [with:bronwen](../tag/with:bronwen), [activity:microscope](../tag/activity:microscope), [activity:community-microscope](../tag/activity:community-microscope), [assembly:community-microscope](../tag/assembly:community-microscope)
 
 The microscope stage holds the optics, the sensor, and the sample together in a fixed geometric relationship. We can use this simple stage to move the sample closer to and further away from the microscope lens to focus the image.
 

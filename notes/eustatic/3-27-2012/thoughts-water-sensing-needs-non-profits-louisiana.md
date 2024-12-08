@@ -1,12 +1,18 @@
 ---
-nid: 1547
 title: Thoughts on water sensing needs of non-profits in Louisiana
-path: public/static/notes/eustatic/3-27-2012/thoughts-water-sensing-needs-non-profits-louisiana.md
+tagnames: gulf-coast, louisiana, water-quality, water, water-sensing, dissolved-oxygen, oxygen, probe, underwater, usecase, wastewater, do, first-time-poster
+author: eustatic
+path: /3-27-2012/thoughts-water-sensing-needs-non-profits-louisiana.md
+nid: 1547
 uid: 379
-tagnames: gulf-coast,louisiana,water-quality,water,water-sensing,dissolved-oxygen,oxygen,probe,underwater,usecase,wastewater,do,first-time-poster
+
 ---
 
 # Thoughts on water sensing needs of non-profits in Louisiana
+
+by [eustatic](../profile/eustatic) March 27, 2012 20:19
+
+March 27, 2012 20:19 | Tags: [gulf-coast](../tag/gulf-coast), [louisiana](../tag/louisiana), [water-quality](../tag/water-quality), [water](../tag/water), [water-sensing](../tag/water-sensing), [dissolved-oxygen](../tag/dissolved-oxygen), [oxygen](../tag/oxygen), [probe](../tag/probe), [underwater](../tag/underwater), [usecase](../tag/usecase), [wastewater](../tag/wastewater), [do](../tag/do), [first-time-poster](../tag/first-time-poster)
 
 I don't have experience building a probe, but i have a lot of experience using hydrolab and YSI devices in ways that are not effective.  These devices cost over $1000. And so, they are cost-prohibitive for non-profits, and shape official government response monitoring practices in ways that retard effective sampling. 
 

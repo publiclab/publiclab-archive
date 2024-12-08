@@ -1,12 +1,18 @@
 ---
-nid: 9018
 title: White balancing a Canon camera for Infragram photography
-path: public/static/notes/warren/08-15-2013/white-balancing-a-canon-camera-for-infragram-photography.md
+tagnames: near-infrared-camera, white-balance, infragram, response:8224, response:8869, response:8900, canon, super-red
+author: warren
+path: /notes/warren/08-15-2013/white-balancing-a-canon-camera-for-infragram-photography.md
+nid: 9018
 uid: 1
-tagnames: near-infrared-camera,white-balance,infragram,response:8224,response:8869,response:8900,canon,super-red
+
 ---
 
 # White balancing a Canon camera for Infragram photography
+
+by [warren](../profile/warren) August 15, 2013 23:52
+
+August 15, 2013 23:52 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [white-balance](../tag/white-balance), [infragram](../tag/infragram), [response:8224](../tag/response:8224), [response:8869](../tag/response:8869), [response:8900](../tag/response:8900), [canon](../tag/canon), [super-red](../tag/super-red)
 
 [Chris Fastie](/profile/cfastie) has already [covered this in great detail](/notes/cfastie/06-17-2013/white-balance), and [contributor geobduffy has delved even deeper](/notes/geobduffy/07-13-2013/i-got-the-cmos-infrablues-decrypting-custom-white-balance-settings) but I wanted to post a quick video on how to actually set up custom white balance on your camera, with a blue background, for optimal [Infragram](/wiki/near-infrared-camera) photography. Here's a quick video walking through the process on a Canon camera:
 

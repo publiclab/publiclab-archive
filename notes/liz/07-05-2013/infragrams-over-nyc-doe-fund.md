@@ -1,12 +1,18 @@
 ---
-nid: 8700
 title: Infragrams over NYC: DOE Fund
-path: public/static/notes/liz/07-05-2013/infragrams-over-nyc-doe-fund.md
+tagnames: new-york-city, polemapping, 5bf, five-borough-farm, pole-photography, pole, pole-mapping
+author: liz
+path: /notes/liz/07-05-2013/infragrams-over-nyc-doe-fund.md
+nid: 8700
 uid: 7
-tagnames: new-york-city,polemapping,5bf,five-borough-farm,pole-photography,pole,pole-mapping
+
 ---
 
 # Infragrams over NYC: DOE Fund
+
+by [liz](../profile/liz) July 05, 2013 18:55
+
+July 05, 2013 18:55 | Tags: [new-york-city](../tag/new-york-city), [polemapping](../tag/polemapping), [5bf](../tag/5bf), [five-borough-farm](../tag/five-borough-farm), [pole-photography](../tag/pole-photography), [pole](../tag/pole), [pole-mapping](../tag/pole-mapping)
 
 ![IMG_20130628_182047.jpg](https://i.publiclab.org/system/images/photos/000/000/651/medium/IMG_20130628_182047.jpg)
 

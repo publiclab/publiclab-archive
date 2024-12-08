@@ -1,6 +1,6 @@
 # methods
 
-17 notes and wiki pages
+17 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Creating a Media Campaign](/wiki/creating-a-media-campaign) (wiki)
 - [Choosing advocacy pathways](/wiki/choosing-advocacy-pathways) (wiki)
@@ -10,10 +10,8 @@
 - [Survey your site](/wiki/site-survey) (wiki)
 - [Methods](/wiki/methods) (wiki)
 - [Goal Setting Workshop](/wiki/goal-setting-workshop) (wiki)
-- [Creating a media campaign for casino](/notes/Alovend/06-19-2018/creating-a-media-campaign-for-casino) by [Alovend](../profile/Alovend)
 - [Topics](/wiki/topics) (wiki)
 - [Do you do Soil Testing and Analysis? ](/notes/DanielleS/03-24-2019/do-you-do-soil-testing-and-analysis) by [DanielleS](../profile/DanielleS)
-- [Best WordPress Live Chat Plugins Compared ](/notes/rajrashed421/06-25-2019/best-wordpress-live-chat-plugins-compared) by [rajrashed421](../profile/rajrashed421)
 - [Air Sampling with Tedlar Bags](/notes/kgradow1/06-03-2020/grab-sampling-with-tedlar-bags) by [kgradow1](../profile/kgradow1)
 - [How the Bucket Works](/notes/kgradow1/06-09-2020/how-the-bucket-works) by [kgradow1](../profile/kgradow1)
 - [What is the Community Right-to-Know Act?](/notes/kgradow1/06-18-2020/what-is-the-community-right-to-know-act) by [kgradow1](../profile/kgradow1)

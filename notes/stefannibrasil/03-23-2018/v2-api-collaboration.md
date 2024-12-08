@@ -1,12 +1,18 @@
 ---
-nid: 16015
 title: v2 API collaboration
-path: public/static/notes/stefannibrasil/03-23-2018/v2-api-collaboration.md
+tagnames: soc-2018-api, question:soc-2018-api
+author: stefannibrasil
+path: /notes/stefannibrasil/03-23-2018/v2-api-collaboration.md
+nid: 16015
 uid: 525300
-tagnames: soc-2018-api,question:soc-2018-api
+
 ---
 
 # v2 API collaboration
+
+by [stefannibrasil](../profile/stefannibrasil) March 23, 2018 22:46
+
+March 23, 2018 22:46 | Tags: [soc-2018-api](../tag/soc-2018-api), [question:soc-2018-api](../tag/question:soc-2018-api)
 
 Hello, everyone!
 

@@ -1,12 +1,18 @@
 ---
-nid: 12067
 title: Public Lab Lesson 4: Environmental Monitoring curricular standards
-path: public/static/wiki/public-lab-lesson-4-environmental-monitoring-curricular-standards.md
+tagnames: education, curriculum, parent:wetlands-lesson-plans
+author: mathew
+path: /wiki/public-lab-lesson-4-environmental-monitoring-curricular-standards.md
+nid: 12067
 uid: 4
-tagnames: education,curriculum,parent:wetlands-lesson-plans
+
 ---
 
 # Public Lab Lesson 4: Environmental Monitoring curricular standards
+
+by [JSummers](../profile/JSummers), [mathew](../profile/mathew)
+
+July 15, 2015 03:06 | Tags: [education](../tag/education), [curriculum](../tag/curriculum), [parent:wetlands-lesson-plans](../tag/parent:wetlands-lesson-plans)
 
 [Link to Lesson 4](/wiki/public-lab-lesson-4-environmental-monitoring)
 

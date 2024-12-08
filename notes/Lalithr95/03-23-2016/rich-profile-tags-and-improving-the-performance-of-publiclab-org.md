@@ -1,12 +1,18 @@
 ---
-nid: 12879
 title: Rich Profile tags and improving the performance of Publiclab.org
-path: public/static/notes/Lalithr95/03-23-2016/rich-profile-tags-and-improving-the-performance-of-publiclab-org.md
+tagnames: software, event, gsoc, coding, event:rsvp, hidden:response, gsoc-2016, gsoc-2016-proposals, response:12827, first-time-poster
+author: Lalithr95
+path: /notes/Lalithr95/03-23-2016/rich-profile-tags-and-improving-the-performance-of-publiclab-org.md
+nid: 12879
 uid: 468698
-tagnames: software,event,gsoc,coding,event:rsvp,hidden:response,gsoc-2016,gsoc-2016-proposals,response:12827,first-time-poster
+
 ---
 
 # Rich Profile tags and improving the performance of Publiclab.org
+
+by [Lalithr95](../profile/Lalithr95) March 23, 2016 15:44
+
+March 23, 2016 15:44 | Tags: [software](../tag/software), [event](../tag/event), [gsoc](../tag/gsoc), [coding](../tag/coding), [event:rsvp](../tag/event:rsvp), [hidden:response](../tag/hidden:response), [gsoc-2016](../tag/gsoc-2016), [gsoc-2016-proposals](../tag/gsoc-2016-proposals), [response:12827](../tag/response:12827), [first-time-poster](../tag/first-time-poster)
 
 **Name:** Lalith Rallabhandi
 

@@ -1,12 +1,18 @@
 ---
-nid: 9974
 title: makerbot
-path: public/static/wiki/makerbot.md
+tagnames: 3d-printing, makerbot
+author: danbeavers
+path: /wiki/makerbot.md
+nid: 9974
 uid: 51
-tagnames: 3d-printing,makerbot
+
 ---
 
 # makerbot
+
+by [cfastie](../profile/cfastie), [danbeavers](../profile/danbeavers), [liz](../profile/liz)
+
+January 24, 2014 03:12 | Tags: [3d-printing](../tag/3d-printing), [makerbot](../tag/makerbot)
 
 [![MakerBot.jpg](https://i.publiclab.org/system/images/photos/000/002/770/medium/MakerBot.jpg)](https://i.publiclab.org/system/images/photos/000/002/770/original/MakerBot.jpg)
 

@@ -1,12 +1,18 @@
 ---
-nid: 14497
 title: U.S. EPA Community Webinar on Citizen Science Air Monitoring: Jun 7, 2017
-path: public/static/notes/DavidMack/05-31-2017/u-s-epa-community-webinar-on-citizen-science-air-monitoring-jun-7-2017.md
-uid: 420189
 tagnames: event
+author: DavidMack
+path: /notes/DavidMack/05-31-2017/u-s-epa-community-webinar-on-citizen-science-air-monitoring-jun-7-2017.md
+nid: 14497
+uid: 420189
+
 ---
 
 # U.S. EPA Community Webinar on Citizen Science Air Monitoring: Jun 7, 2017
+
+by [DavidMack](../profile/DavidMack) May 31, 2017 21:44
+
+May 31, 2017 21:44 | Tags: [event](../tag/event)
 
 June 7, 2017 @ 1:00 - 2:30 pm EST  
 

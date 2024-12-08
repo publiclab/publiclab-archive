@@ -1,12 +1,18 @@
 ---
-nid: 13061
 title: Question: Calibration...
-path: public/static/notes/Georgi/05-02-2016/question-calibration.md
+tagnames: question:spectrometry, answered
+author: Georgi
+path: /notes/Georgi/05-02-2016/question-calibration.md
+nid: 13061
 uid: 472098
-tagnames: question:spectrometry,answered
+
 ---
 
 # Question: Calibration...
+
+by [Georgi](../profile/Georgi) May 02, 2016 15:03
+
+May 02, 2016 15:03 | Tags: [question:spectrometry](../tag/question:spectrometry), [answered](../tag/answered)
 
 Hi,
 Just wondering how it works (we wish to change the camera), does the software only expects raw data coming from the camera ? And what resolution does it require ? 

@@ -1,12 +1,18 @@
 ---
-nid: 11354
 title: Test of the Thermal Light: Env+Tech_NEU2014
-path: public/static/notes/jens/11-17-2014/test-of-the-thermal-light-env-tech_neu2014.md
+tagnames: thermal-photography, thermal-flashlight, thermal-imaging, northeastern, thermal, insulation, heat, replication:625
+author: jens
+path: /notes/jens/11-17-2014/test-of-the-thermal-light-env-tech_neu2014.md
+nid: 11354
 uid: 431604
-tagnames: thermal-photography,thermal-flashlight,thermal-imaging,northeastern,thermal,insulation,heat,replication:625
+
 ---
 
 # Test of the Thermal Light: Env+Tech_NEU2014
+
+by [jens](../profile/jens) November 17, 2014 16:05
+
+November 17, 2014 16:05 | Tags: [thermal-photography](../tag/thermal-photography), [thermal-flashlight](../tag/thermal-flashlight), [thermal-imaging](../tag/thermal-imaging), [northeastern](../tag/northeastern), [thermal](../tag/thermal), [insulation](../tag/insulation), [heat](../tag/heat), [replication:625](../tag/replication:625)
 
 ###What I want to do
 Create a thermal flash light with a broad diffused light. 

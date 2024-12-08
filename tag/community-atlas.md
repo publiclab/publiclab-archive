@@ -1,9 +1,8 @@
 # community-atlas
 
-15 notes and wiki pages
+15 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Map Knitter- UI Evaluation 1 , Ballon Mapping Test](/notes/silentsairam/05-07-2019/map-knitter-ui-test-ballon-mapping-test) by [silentsairam](../profile/silentsairam)
-- [MapKnitter: Community Atlas project](/notes/warren/05-09-2019/mapknitter-community-atlas-project) by [warren](../profile/warren)
 - [How to delete the images which I do not want to place in the map?](/notes/silentsairam/05-11-2019/how-to-delete-the-images-which-i-do-not-want-to-place-in-the-map) by [silentsairam](../profile/silentsairam)
 - [Mapping Nottingham's urban greening & growing spaces (UK)](/notes/molangmuir10/05-13-2019/mapping-nottingham-s-urban-greening-growing-spaces) by [molangmuir10](../profile/molangmuir10)
 - [Increase in Human Death space](/notes/silentsairam/05-20-2019/increase-in-human-death-space) by [silentsairam](../profile/silentsairam)

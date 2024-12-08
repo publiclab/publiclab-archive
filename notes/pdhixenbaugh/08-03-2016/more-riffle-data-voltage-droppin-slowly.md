@@ -1,12 +1,18 @@
 ---
-nid: 13332
 title: More Riffle Data - Voltage droppin slowly
-path: public/static/notes/pdhixenbaugh/08-03-2016/more-riffle-data-voltage-droppin-slowly.md
+tagnames: riffle, riffle-beta
+author: pdhixenbaugh
+path: /notes/pdhixenbaugh/08-03-2016/more-riffle-data-voltage-droppin-slowly.md
+nid: 13332
 uid: 459085
-tagnames: riffle,riffle-beta
+
 ---
 
 # More Riffle Data - Voltage droppin slowly
+
+by [pdhixenbaugh](../profile/pdhixenbaugh) August 03, 2016 23:10
+
+August 03, 2016 23:10 | Tags: [riffle](../tag/riffle), [riffle-beta](../tag/riffle-beta)
 
 ###What I want to do
 Share Temp and Voltage Data from Riffle Test in a refridgerator for a week followed by room temperature for a week.

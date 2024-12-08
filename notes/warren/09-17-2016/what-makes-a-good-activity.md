@@ -1,12 +1,18 @@
 ---
-nid: 13458
 title: What makes a good activity?
-path: public/static/notes/warren/09-17-2016/what-makes-a-good-activity.md
+tagnames: collaboration, community, leaffest, blog, mobius, with:gretchengehrke, leaffest2016, research-culture, activity-grids, activities, leaffest-2016, question:activities
+author: warren
+path: /notes/warren/09-17-2016/what-makes-a-good-activity.md
+nid: 13458
 uid: 1
-tagnames: collaboration,community,leaffest,blog,mobius,with:gretchengehrke,leaffest2016,research-culture,activity-grids,activities,leaffest-2016,question:activities
+
 ---
 
 # What makes a good activity?
+
+by [warren](../profile/warren) September 17, 2016 20:18
+
+September 17, 2016 20:18 | Tags: [collaboration](../tag/collaboration), [community](../tag/community), [leaffest](../tag/leaffest), [blog](../tag/blog), [mobius](../tag/mobius), [with:gretchengehrke](../tag/with:gretchengehrke), [leaffest2016](../tag/leaffest2016), [research-culture](../tag/research-culture), [activity-grids](../tag/activity-grids), [activities](../tag/activities), [leaffest-2016](../tag/leaffest-2016), [question:activities](../tag/question:activities)
 
 In our continuing shift towards using the new Q&A feature and the new Activity grids as a framework for collaboration on [PublicLab.org][1], we're encouraging people to post their work more in the spirit of [Instructables.com][2] -- "showing each other how to do something" rather than just telling people about something you've done. This shifts the emphasis from solely documenting what you've done, to helping others do it too. (_image above from a Lego Technics kit_)
 

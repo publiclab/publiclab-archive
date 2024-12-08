@@ -1,12 +1,18 @@
 ---
-nid: 12742
 title: Sensor Journalism: What I've Learned
-path: public/static/notes/jillianmeehan/02-24-2016/sensor-journalism-what-i-ve-learned.md
+tagnames: sensor-journalism, response:12748, hidden:response
+author: jillianmeehan
+path: /notes/jillianmeehan/02-24-2016/sensor-journalism-what-i-ve-learned.md
+nid: 12742
 uid: 466918
-tagnames: sensor-journalism,response:12748,hidden:response
+
 ---
 
 # Sensor Journalism: What I've Learned
+
+by [jillianmeehan](../profile/jillianmeehan) February 24, 2016 18:02
+
+February 24, 2016 18:02 | Tags: [sensor-journalism](../tag/sensor-journalism), [response:12748](../tag/response:12748), [hidden:response](../tag/hidden:response)
 
 I admit that when I signed up for this Data Visualization class I wasn’t sure what I was getting into—yes, I’d get to make a few charts and learn how to implement data into my reporting, but beyond that, I didn’t know the full scope of data journalism. I still don’t; I’m still learning, though I’m closer than I was before. Through listening to talks by Lily Bui and Patrick Herron, reading the Tow Center for Digital Journalism’s [report](http://towcenter.org/research/sensors-and-journalism/) on sensor journalism, and completing a water conductivity workshop in class, I have come to see the benefits of sensor journalism as well as its limitations. 
 

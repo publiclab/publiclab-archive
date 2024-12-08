@@ -1,12 +1,18 @@
 ---
-nid: 12206
 title: Open Hour Viewing (and pizza!)
-path: public/static/notes/bronwen/09-08-2015/open-hour-viewing-and-pizza.md
+tagnames: new-york-city, events, openhour
+author: Bronwen
+path: /notes/bronwen/09-08-2015/open-hour-viewing-and-pizza.md
+nid: 12206
 uid: 237313
-tagnames: new-york-city,events,openhour
+
 ---
 
 # Open Hour Viewing (and pizza!)
+
+by [Bronwen](../profile/Bronwen) September 08, 2015 16:32
+
+September 08, 2015 16:32 | Tags: [new-york-city](../tag/new-york-city), [events](../tag/events), [openhour](../tag/openhour)
 
 Join us at the Pfizer space this Wednesday, Sept 9th for an Open Hour viewing, with pizza generously provided by Public Lab! Open Hour begins at 8, but arrive earlier if you want to hang out, snack and admire the view. BYOB
 

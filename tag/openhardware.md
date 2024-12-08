@@ -1,6 +1,6 @@
 # openhardware
 
-5 notes and wiki pages
+5 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Open Source Licenses](/licenses) (wiki)
 - [Open Hardware Summit talk: Building communities one kit at a time](/notes/warren/09-06-2013/open-hardware-summit-talk-building-communities-one-kit-at-a-time) by [warren](../profile/warren)

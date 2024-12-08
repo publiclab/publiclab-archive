@@ -1,12 +1,18 @@
 ---
-nid: 12541
 title: Tales from the Cryptogam
-path: public/static/notes/cfastie/12-24-2015/tales-from-the-cryptogam.md
+tagnames: vermont, polemapping, pole-photography, pap, pole-aerial-photography, pole-mapping, moss, kaptery, saturnv, response:8988, cryptogam, pole-bracket
+author: cfastie
+path: /notes/cfastie/12-24-2015/tales-from-the-cryptogam.md
+nid: 12541
 uid: 554
-tagnames: vermont,polemapping,pole-photography,pap,pole-aerial-photography,pole-mapping,moss,kaptery,saturnv,response:8988,cryptogam,pole-bracket
+
 ---
 
 # Tales from the Cryptogam
+
+by [cfastie](../profile/cfastie) December 24, 2015 23:43
+
+December 24, 2015 23:43 | Tags: [vermont](../tag/vermont), [polemapping](../tag/polemapping), [pole-photography](../tag/pole-photography), [pap](../tag/pap), [pole-aerial-photography](../tag/pole-aerial-photography), [pole-mapping](../tag/pole-mapping), [moss](../tag/moss), [kaptery](../tag/kaptery), [saturnv](../tag/saturnv), [response:8988](../tag/response:8988), [cryptogam](../tag/cryptogam), [pole-bracket](../tag/pole-bracket)
 
 *Above: Little planet projection of a spherical panorama stitched from 25 photos taken by a Canon S100 on a [Saturn V Rig](http://kaptery.com/product/saturn-v-rig) atop a 24 foot tall carbon fiber pole. The green area at the center is a cryptogam garden.*
 

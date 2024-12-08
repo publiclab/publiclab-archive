@@ -1,11 +1,17 @@
 ---
-nid: 466
 title: Hydrogen sulfide sensing brainstorm
-path: public/static/notes/warren/9-14-2011/hydrogen-sulfide-sensing-brainstorm.md
-uid: 1
 tagnames: 
+author: warren
+path: /notes/warren/9-14-2011/hydrogen-sulfide-sensing-brainstorm.md
+nid: 466
+uid: 1
+
 ---
 
 # Hydrogen sulfide sensing brainstorm
+
+by [warren](../profile/warren) September 14, 2011 18:14
+
+September 14, 2011 18:14 | Tags: 
 
 

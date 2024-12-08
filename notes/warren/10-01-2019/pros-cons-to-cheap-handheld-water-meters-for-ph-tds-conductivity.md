@@ -1,12 +1,18 @@
 ---
-nid: 21044
 title: Pros/cons to cheap handheld water meters for pH, TDS, conductivity?
-path: public/static/notes/warren/10-01-2019/pros-cons-to-cheap-handheld-water-meters-for-ph-tds-conductivity.md
+tagnames: water-quality, conductivity, ph, question:water-quality, knowflow, question:water-sensors, question:ph, water-sensors, tds, question:conductivity, question:tds, dfrobot, off-the-shelf
+author: warren
+path: /notes/warren/10-01-2019/pros-cons-to-cheap-handheld-water-meters-for-ph-tds-conductivity.md
+nid: 21044
 uid: 1
-tagnames: water-quality,conductivity,ph,question:water-quality,knowflow,question:water-sensors,question:ph,water-sensors,tds,question:conductivity,question:tds,dfrobot,off-the-shelf
+
 ---
 
 # Pros/cons to cheap handheld water meters for pH, TDS, conductivity?
+
+by [warren](../profile/warren) October 01, 2019 18:29
+
+October 01, 2019 18:29 | Tags: [water-quality](../tag/water-quality), [conductivity](../tag/conductivity), [ph](../tag/ph), [question:water-quality](../tag/question:water-quality), [knowflow](../tag/knowflow), [question:water-sensors](../tag/question:water-sensors), [question:ph](../tag/question:ph), [water-sensors](../tag/water-sensors), [tds](../tag/tds), [question:conductivity](../tag/question:conductivity), [question:tds](../tag/question:tds), [dfrobot](../tag/dfrobot), [off-the-shelf](../tag/off-the-shelf)
 
 While buying parts for the #knowflow sensor collection, I saw some pretty affordable <$20 sensors on Amazon:
 

@@ -1,12 +1,18 @@
 ---
-nid: 632
 title: Thermal fishing bob
-path: public/static/wiki/thermal-fishing-bob.md
+tagnames: thermal-fishing-bob, parent:thermal-photography
+author: warren
+path: /wiki/thermal-fishing-bob.md
+nid: 632
 uid: 1
-tagnames: thermal-fishing-bob,parent:thermal-photography
+
 ---
 
 # Thermal fishing bob
+
+by [warren](../profile/warren), [donblair](../profile/donblair), [liz](../profile/liz)
+
+December 13, 2011 17:23 | Tags: [thermal-fishing-bob](../tag/thermal-fishing-bob), [parent:thermal-photography](../tag/parent:thermal-photography)
 
 This variation on the [thermal flashlight](/tool/thermal-camera) uses a cheaper **thermistor** instead of a non-contact IR thermometer ($20), but can only detect the temperature of things the sensor is literally **touching**.
 

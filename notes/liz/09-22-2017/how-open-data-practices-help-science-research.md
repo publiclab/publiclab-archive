@@ -1,12 +1,18 @@
 ---
-nid: 14935
 title: how open data practices help science research
-path: public/static/notes/liz/09-22-2017/how-open-data-practices-help-science-research.md
+tagnames: readings, with:gretchengehrke, reproducibility
+author: liz
+path: /notes/liz/09-22-2017/how-open-data-practices-help-science-research.md
+nid: 14935
 uid: 7
-tagnames: readings,with:gretchengehrke,reproducibility
+
 ---
 
 # how open data practices help science research
+
+by [liz](../profile/liz) September 22, 2017 14:17
+
+September 22, 2017 14:17 | Tags: [readings](../tag/readings), [with:gretchengehrke](../tag/with:gretchengehrke), [reproducibility](../tag/reproducibility)
 
 *lead image from https://www.nature.com/articles/s41559-017-0160*
 

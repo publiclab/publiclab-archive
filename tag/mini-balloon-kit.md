@@ -1,6 +1,6 @@
 # mini-balloon-kit
 
-18 notes and wiki pages
+18 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Make a $25 minimal-helium balloon mapping rig](/notes/natevw/07-03-2014/25-minimal-helium-balloon-mapping-rig) by [natevw](../profile/natevw)
 - [KAP Rig for Mobius Action Cam](/notes/code4maine/07-09-2014/kap-rig-for-mobius-action-cam) by [ajawitz](../profile/ajawitz)

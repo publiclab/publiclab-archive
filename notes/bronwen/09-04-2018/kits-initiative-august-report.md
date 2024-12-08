@@ -1,12 +1,18 @@
 ---
-nid: 17060
 title: Kits Initiative: August Report
-path: public/static/notes/bronwen/09-04-2018/kits-initiative-august-report.md
+tagnames: newsletter, kits, kits-initiative
+author: Bronwen
+path: /notes/bronwen/09-04-2018/kits-initiative-august-report.md
+nid: 17060
 uid: 237313
-tagnames: newsletter,kits,kits-initiative
+
 ---
 
 # Kits Initiative: August Report
+
+by [Bronwen](../profile/Bronwen) September 04, 2018 19:03
+
+September 04, 2018 19:03 | Tags: [newsletter](../tag/newsletter), [kits](../tag/kits), [kits-initiative](../tag/kits-initiative)
 
 **Updates**
 

@@ -1,12 +1,18 @@
 ---
-nid: 8868
 title: Canopy structure and function of tropical forests in Peru
-path: public/static/notes/allie_shenkin/07-13-2013/canopy-structure-and-function-of-tropical-forests-in-peru.md
+tagnames: balloon-mapping, 3d, peru, forest, transect, lidar, photoscan, south-america
+author: allie_shenkin
+path: /notes/allie_shenkin/07-13-2013/canopy-structure-and-function-of-tropical-forests-in-peru.md
+nid: 8868
 uid: 170116
-tagnames: balloon-mapping,3d,peru,forest,transect,lidar,photoscan,south-america
+
 ---
 
 # Canopy structure and function of tropical forests in Peru
+
+by [allie_shenkin](../profile/allie_shenkin) July 13, 2013 15:40
+
+July 13, 2013 15:40 | Tags: [balloon-mapping](../tag/balloon-mapping), [3d](../tag/3d), [peru](../tag/peru), [forest](../tag/forest), [transect](../tag/transect), [lidar](../tag/lidar), [photoscan](../tag/photoscan), [south-america](../tag/south-america)
 
 ##What I want to do
 

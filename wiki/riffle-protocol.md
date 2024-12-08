@@ -1,12 +1,18 @@
 ---
-nid: 12165
 title: riffle-protocol
-path: public/static/wiki/riffle-protocol.md
+tagnames: riffle, parent:riffle
+author: mathew
+path: /wiki/riffle-protocol.md
+nid: 12165
 uid: 4
-tagnames: riffle,parent:riffle
+
 ---
 
 # riffle-protocol
+
+by [mathew](../profile/mathew)
+
+August 24, 2015 20:52 | Tags: [riffle](../tag/riffle), [parent:riffle](../tag/parent:riffle)
 
 ###Retrieving data from the device.
 

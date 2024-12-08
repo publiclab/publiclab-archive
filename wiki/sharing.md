@@ -1,12 +1,18 @@
 ---
-nid: 10548
 title: Sharing
-path: public/static/wiki/sharing.md
-uid: 1
 tagnames: sharing
+author: warren
+path: /wiki/sharing.md
+nid: 10548
+uid: 1
+
 ---
 
 # Sharing
+
+by [liz](../profile/liz), [natalie](../profile/natalie), [warren](../profile/warren)
+
+June 10, 2014 18:20 | Tags: [sharing](../tag/sharing)
 
 Want to share images easily? Take a look at our [guide to sharing images](/wiki/sharing-images) to exchange large #s of files with free tools. 
 

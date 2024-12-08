@@ -1,12 +1,18 @@
 ---
-nid: 6894
 title: Screening of short film on Public Lab on April 19
-path: public/static/notes/warren/04-18-2013/screening-of-short-film-on-public-l.md
+tagnames: somerville-massachusetts, kite-mapping, boston, barnraising, event
+author: warren
+path: /notes/warren/04-18-2013/screening-of-short-film-on-public-l.md
+nid: 6894
 uid: 1
-tagnames: somerville-massachusetts,kite-mapping,boston,barnraising,event
+
 ---
 
 # Screening of short film on Public Lab on April 19
+
+by [warren](../profile/warren) April 18, 2013 15:03
+
+April 18, 2013 15:03 | Tags: [somerville-massachusetts](../tag/somerville-massachusetts), [kite-mapping](../tag/kite-mapping), [boston](../tag/boston), [barnraising](../tag/barnraising), [event](../tag/event)
 
 (via [Caterina Scaramelli](http://web.mit.edu/hasts/graduate/scaramelli.html)) 
 

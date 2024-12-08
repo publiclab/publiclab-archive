@@ -1,12 +1,18 @@
 ---
-nid: 12081
 title: wetlands lesson plans
-path: public/static/wiki/wetlands-lesson-plans.md
+tagnames: education, wetlands, new-orleans, urbanwater, urbanwaters, parent:wetlands-toolkit, lesson
+author: Shannon
+path: /wiki/wetlands-lesson-plans.md
+nid: 12081
 uid: 9
-tagnames: education,wetlands,new-orleans,urbanwater,urbanwaters,parent:wetlands-toolkit,lesson
+
 ---
 
 # wetlands lesson plans
+
+by [Shannon](../profile/Shannon)
+
+July 20, 2015 17:47 | Tags: [education](../tag/education), [wetlands](../tag/wetlands), [new-orleans](../tag/new-orleans), [urbanwater](../tag/urbanwater), [urbanwaters](../tag/urbanwaters), [parent:wetlands-toolkit](../tag/parent:wetlands-toolkit), [lesson](../tag/lesson)
 
 ###Lesson One
 

@@ -1,12 +1,18 @@
 ---
-nid: 10284
 title: AMS Science Club: Toxics Skycrane + Projected Impacts
-path: public/static/notes/donblair/04-08-2014/ams-science-club-toxics-skycrane-projected-impact.md
-uid: 43651
 tagnames: balloon-mapping
+author: donblair
+path: /notes/donblair/04-08-2014/ams-science-club-toxics-skycrane-projected-impact.md
+nid: 10284
+uid: 43651
+
 ---
 
 # AMS Science Club: Toxics Skycrane + Projected Impacts
+
+by [donblair](../profile/donblair) April 08, 2014 21:48
+
+April 08, 2014 21:48 | Tags: [balloon-mapping](../tag/balloon-mapping)
 
 ###What I want to do
 

@@ -1,6 +1,6 @@
 # parent-mapknitter
 
-5 notes and wiki pages
+5 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [MapKnitter: Exporting ](/wiki/mapknitter-exporting-your-map) (wiki)
 - [MapKnitter Long-Term Development](/wiki/mapknitter-long-term-development) (wiki)

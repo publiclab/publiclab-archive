@@ -1,12 +1,18 @@
 ---
-nid: 13273
 title: Notes on assembling an Aerobee Rig
-path: public/static/notes/mathew/07-08-2016/notes-on-assembling-an-aerobee-rig.md
+tagnames: kite-mapping, kite-aerial-photography, kite, kaptery, aerobee, difficulty:easy, category:build, activity:photo-rig
+author: mathew
+path: /notes/mathew/07-08-2016/notes-on-assembling-an-aerobee-rig.md
+nid: 13273
 uid: 4
-tagnames: kite-mapping,kite-aerial-photography,kite,kaptery,aerobee,difficulty:easy,category:build,activity:photo-rig
+
 ---
 
 # Notes on assembling an Aerobee Rig
+
+by [mathew](../profile/mathew) July 08, 2016 20:35
+
+July 08, 2016 20:35 | Tags: [kite-mapping](../tag/kite-mapping), [kite-aerial-photography](../tag/kite-aerial-photography), [kite](../tag/kite), [kaptery](../tag/kaptery), [aerobee](../tag/aerobee), [difficulty:easy](../tag/difficulty:easy), [category:build](../tag/category:build), [activity:photo-rig](../tag/activity:photo-rig)
 
 I purchased an [Aerobee rig](/notes/cfastie/07-05-2016/the-aerobee-rig) from the [KAPtery](http://kaptery.com) because I'm real excited about the [Jerk Pan mechanism](/notes/cfastie/01-27-2016/the-jerkpan).  Our unpredictable late spring rains  (its still spring in Oregon) have kept me from getting a good flight window to test this rig, but I hope to have it in the air soon. 
 

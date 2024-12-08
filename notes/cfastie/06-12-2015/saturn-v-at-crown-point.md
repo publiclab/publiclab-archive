@@ -1,12 +1,18 @@
 ---
-nid: 11975
 title: Saturn V at Crown Point
-path: public/static/notes/cfastie/06-12-2015/saturn-v-at-crown-point.md
+tagnames: kite-aerial-photography, kap, autokap, kaptery, saturnv, skyshield, response:11900, half-spherical
+author: cfastie
+path: /notes/cfastie/06-12-2015/saturn-v-at-crown-point.md
+nid: 11975
 uid: 554
-tagnames: kite-aerial-photography,kap,autokap,kaptery,saturnv,skyshield,response:11900,half-spherical
+
 ---
 
 # Saturn V at Crown Point
+
+by [cfastie](../profile/cfastie) June 12, 2015 04:55
+
+June 12, 2015 04:55 | Tags: [kite-aerial-photography](../tag/kite-aerial-photography), [kap](../tag/kap), [autokap](../tag/autokap), [kaptery](../tag/kaptery), [saturnv](../tag/saturnv), [skyshield](../tag/skyshield), [response:11900](../tag/response:11900), [half-spherical](../tag/half-spherical)
 
 Wednesday night I started from scratch (piles of 3D printed parts, electronic components, and other hardware) and built the sixth and final Saturn V Rig with SkyShield v0.4. The other five have been shipped to beta testers [who have started to report](http://publiclab.org/tag/saturnv). It took about six hours to get it working, from soldering the SkyShield to lacing the Picavet. On Thursday, I put it in the air.  
 .  

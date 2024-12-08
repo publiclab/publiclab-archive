@@ -1,12 +1,18 @@
 ---
-nid: 11972
 title: Thermal Fishing Bob Workshop Northeastern
-path: public/static/wiki/thermal-fishing-bob-workshop-northeastern.md
+tagnames: somerville-massachusetts, boston, thermal-fishing, water-quality, nuclear, thermal-fishing-bob, cso, pilgrim
+author: sara
+path: /wiki/thermal-fishing-bob-workshop-northeastern.md
+nid: 11972
 uid: 8
-tagnames: somerville-massachusetts,boston,thermal-fishing,water-quality,nuclear,thermal-fishing-bob,cso,pilgrim
+
 ---
 
 # Thermal Fishing Bob Workshop Northeastern
+
+by [kgrevera](../profile/kgrevera), [sara](../profile/sara)
+
+June 11, 2015 14:43 | Tags: [somerville-massachusetts](../tag/somerville-massachusetts), [boston](../tag/boston), [thermal-fishing](../tag/thermal-fishing), [water-quality](../tag/water-quality), [nuclear](../tag/nuclear), [thermal-fishing-bob](../tag/thermal-fishing-bob), [cso](../tag/cso), [pilgrim](../tag/pilgrim)
 
 ##Thermal Fishing Bob Development Workshop
 

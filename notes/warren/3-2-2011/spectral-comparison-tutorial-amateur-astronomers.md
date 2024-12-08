@@ -1,12 +1,18 @@
 ---
-nid: 108
 title: Spectral comparison tutorial for amateur astronomers
-path: public/static/notes/warren/3-2-2011/spectral-comparison-tutorial-amateur-astronomers.md
+tagnames: spectrometer, intensity-calibration, comparison, intensity, normalizing
+author: warren
+path: /notes/warren/3-2-2011/spectral-comparison-tutorial-amateur-astronomers.md
+nid: 108
 uid: 1
-tagnames: spectrometer,intensity-calibration,comparison,intensity,normalizing
+
 ---
 
 # Spectral comparison tutorial for amateur astronomers
+
+by [warren](../profile/warren) March 02, 2011 18:08
+
+March 02, 2011 18:08 | Tags: [spectrometer](../tag/spectrometer), [intensity-calibration](../tag/intensity-calibration), [comparison](../tag/comparison), [intensity](../tag/intensity), [normalizing](../tag/normalizing)
 
 A tutorial on "how to superimposed spectra and to make sure the comparison is scientifically relevant by normalizing the intensity"
 

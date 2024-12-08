@@ -1,12 +1,18 @@
 ---
-nid: 2243
 title: May 26th AS220 Thermal Flashlight Workshop
-path: public/static/wiki/may-26th-as220-thermal-flashlight-workshop.md
+tagnames: providence, thermal-photography, as220, event, parent:as220
+author: sara
+path: /wiki/may-26th-as220-thermal-flashlight-workshop.md
+nid: 2243
 uid: 8
-tagnames: providence,thermal-photography,as220,event,parent:as220
+
 ---
 
 # May 26th AS220 Thermal Flashlight Workshop
+
+by [sara](../profile/sara)
+
+May 29, 2012 20:11 | Tags: [providence](../tag/providence), [thermal-photography](../tag/thermal-photography), [as220](../tag/as220), [event](../tag/event), [parent:as220](../tag/parent:as220)
 
 This weekend Public Lab had its first Public event in Providence Rhode Island, hosted by [[http://labs.as220.org/|AS220 Labs]].  It was a big success with each participant making their own Thermal Flashlight from scratch. A huge thanks is deserved to those who helped others trouble shoot this process particularly Byeongwon, Megan and Matt!
 

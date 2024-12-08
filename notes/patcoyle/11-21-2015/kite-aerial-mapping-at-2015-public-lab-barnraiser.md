@@ -1,12 +1,18 @@
 ---
-nid: 12435
 title: Kite aerial mapping at 2015 Public Lab Barnraiser
-path: public/static/notes/patcoyle/11-21-2015/kite-aerial-mapping-at-2015-public-lab-barnraiser.md
+tagnames: mapknitter, kap, mobius-actioncam, stowaway-delta, levitation-delta, barnraising-2015, lat:29.254103, lon:-90.6626, gps-autoplace, canon-hs260sx, soft-parafoil-kites
+author: patcoyle
+path: /notes/patcoyle/11-21-2015/kite-aerial-mapping-at-2015-public-lab-barnraiser.md
+nid: 12435
 uid: 77
-tagnames: mapknitter,kap,mobius-actioncam,stowaway-delta,levitation-delta,barnraising-2015,lat:29.254103,lon:-90.6626,gps-autoplace,canon-hs260sx,soft-parafoil-kites
+
 ---
 
 # Kite aerial mapping at 2015 Public Lab Barnraiser
+
+by [patcoyle](../profile/patcoyle) November 21, 2015 23:31
+
+November 21, 2015 23:31 | Tags: [mapknitter](../tag/mapknitter), [kap](../tag/kap), [mobius-actioncam](../tag/mobius-actioncam), [stowaway-delta](../tag/stowaway-delta), [levitation-delta](../tag/levitation-delta), [barnraising-2015](../tag/barnraising-2015), [lat:29.254103](../tag/lat:29.254103), [lon:-90.6626](../tag/lon:-90.6626), [gps-autoplace](../tag/gps-autoplace), [canon-hs260sx](../tag/canon-hs260sx), [soft-parafoil-kites](../tag/soft-parafoil-kites)
 
 ###What I want to do
 Demonstrate kite aerial photomapping workflow with participants at 2015 Public Lab Barnraiser. For those who need up to date, high-resolution imagery, this technique is so accessible that it should not be overlooked.

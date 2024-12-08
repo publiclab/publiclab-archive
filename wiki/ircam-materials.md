@@ -1,12 +1,18 @@
 ---
-nid: 4472
 title: IRCam materials
-path: public/static/wiki/ircam-materials.md
+tagnames: ircam, materials
+author: warren
+path: /wiki/ircam-materials.md
+nid: 4472
 uid: 1
-tagnames: ircam,materials
+
 ---
 
 # IRCam materials
+
+by [warren](../profile/warren)
+
+October 17, 2012 23:00 | Tags: [ircam](../tag/ircam), [materials](../tag/materials)
 
 <a href="https://www.flickr.com/photos/jeffreywarren/8412812124/" title="IRCam draft box by jeferonix, on Flickr"><img src="https://farm9.staticflickr.com/8323/8412812124_d0472718ed.jpg" width="500" height="375" alt="IRCam draft box"></a>
 

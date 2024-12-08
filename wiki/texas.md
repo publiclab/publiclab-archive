@@ -1,12 +1,18 @@
 ---
-nid: 370
 title: Texas
-path: public/static/wiki/texas.md
+tagnames: gulf-coast, chapter, texas, location:blurred, place:united-states, zoom:6, lat:31, lon:-99
+author: Shannon
+path: /wiki/texas.md
+nid: 370
 uid: 9
-tagnames: gulf-coast,chapter,texas,location:blurred,place:united-states,zoom:6,lat:31,lon:-99
+
 ---
 
 # Texas
+
+by [liz](../profile/liz), [gregoryfoster](../profile/gregoryfoster), [Hudonnoodles](../profile/Hudonnoodles), [Shannon](../profile/Shannon)
+
+July 06, 2011 13:30 | Tags: [gulf-coast](../tag/gulf-coast), [chapter](../tag/chapter), [texas](../tag/texas), [location:blurred](../tag/location:blurred), [place:united-states](../tag/place:united-states), [zoom:6](../tag/zoom:6), [lat:31](../tag/lat:31), [lon:-99](../tag/lon:-99)
 
 A Public Laboratory group is just starting up in Texas, read below for more information and to get involved!
 

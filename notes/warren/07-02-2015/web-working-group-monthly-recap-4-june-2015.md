@@ -1,12 +1,18 @@
 ---
-nid: 12028
 title: Web Working Group Monthly Recap 4: June 2015
-path: public/static/notes/warren/07-02-2015/web-working-group-monthly-recap-4-june-2015.md
+tagnames: mapknitter, web-development, software, plots2, spectral-workbench, web-wg, wwg, webwg, response:11963
+author: warren
+path: /notes/warren/07-02-2015/web-working-group-monthly-recap-4-june-2015.md
+nid: 12028
 uid: 1
-tagnames: mapknitter,web-development,software,plots2,spectral-workbench,web-wg,wwg,webwg,response:11963
+
 ---
 
 # Web Working Group Monthly Recap 4: June 2015
+
+by [warren](../profile/warren) July 02, 2015 14:07
+
+July 02, 2015 14:07 | Tags: [mapknitter](../tag/mapknitter), [web-development](../tag/web-development), [software](../tag/software), [plots2](../tag/plots2), [spectral-workbench](../tag/spectral-workbench), [web-wg](../tag/web-wg), [wwg](../tag/wwg), [webwg](../tag/webwg), [response:11963](../tag/response:11963)
 
 Hello all, happy 4th in advance, and here's our latest recap from PL's Web Working Group:
 

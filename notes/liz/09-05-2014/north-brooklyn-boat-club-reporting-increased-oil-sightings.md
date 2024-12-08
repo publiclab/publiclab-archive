@@ -1,12 +1,18 @@
 ---
-nid: 11106
 title: North Brooklyn Boat Club reporting increased oil sightings 
-path: public/static/notes/liz/09-05-2014/north-brooklyn-boat-club-reporting-increased-oil-sightings.md
+tagnames: new-york-city, newtown-creek, oil-spill, oil, sample-prep, sampling, oil-sampling-kit, oil-testing-kit, northeast, gas, sheen, nbbc
+author: liz
+path: /notes/liz/09-05-2014/north-brooklyn-boat-club-reporting-increased-oil-sightings.md
+nid: 11106
 uid: 7
-tagnames: new-york-city,newtown-creek,oil-spill,oil,sample-prep,sampling,oil-sampling-kit,oil-testing-kit,northeast,gas,sheen,nbbc
+
 ---
 
 # North Brooklyn Boat Club reporting increased oil sightings 
+
+by [liz](../profile/liz) September 05, 2014 15:32
+
+September 05, 2014 15:32 | Tags: [new-york-city](../tag/new-york-city), [newtown-creek](../tag/newtown-creek), [oil-spill](../tag/oil-spill), [oil](../tag/oil), [sample-prep](../tag/sample-prep), [sampling](../tag/sampling), [oil-sampling-kit](../tag/oil-sampling-kit), [oil-testing-kit](../tag/oil-testing-kit), [northeast](../tag/northeast), [gas](../tag/gas), [sheen](../tag/sheen), [nbbc](../tag/nbbc)
 
 ###What I want to do
 

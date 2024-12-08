@@ -1,12 +1,18 @@
 ---
-nid: 14587
 title: Challenges, questions and problem-solving together: choosing cameras for Mini Balloon and Kite Kits
-path: public/static/notes/warren/06-27-2017/challenges-questions-and-problem-solving-together-choosing-cameras-for-mini-balloon-and-kite-kits.md
+tagnames: balloon-mapping, kite-mapping, kits, kickstarter, barnraising, blog, prototyping, with:bronwen, mini-kite-kit, mini-balloon-kit, camera-selection, lightweight-cameras, question:camera-selection, question:mini-balloon-kit, question:mini-kite-kit, challenges, prototyping-kits, question:mini-balloon-mapping
+author: warren
+path: /notes/warren/06-27-2017/challenges-questions-and-problem-solving-together-choosing-cameras-for-mini-balloon-and-kite-kits.md
+nid: 14587
 uid: 1
-tagnames: balloon-mapping,kite-mapping,kits,kickstarter,barnraising,blog,prototyping,with:bronwen,mini-kite-kit,mini-balloon-kit,camera-selection,lightweight-cameras,question:camera-selection,question:mini-balloon-kit,question:mini-kite-kit,challenges,prototyping-kits,question:mini-balloon-mapping
+
 ---
 
 # Challenges, questions and problem-solving together: choosing cameras for Mini Balloon and Kite Kits
+
+by [warren](../profile/warren) June 27, 2017 15:55
+
+June 27, 2017 15:55 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [kits](../tag/kits), [kickstarter](../tag/kickstarter), [barnraising](../tag/barnraising), [blog](../tag/blog), [prototyping](../tag/prototyping), [with:bronwen](../tag/with:bronwen), [mini-kite-kit](../tag/mini-kite-kit), [mini-balloon-kit](../tag/mini-balloon-kit), [camera-selection](../tag/camera-selection), [lightweight-cameras](../tag/lightweight-cameras), [question:camera-selection](../tag/question:camera-selection), [question:mini-balloon-kit](../tag/question:mini-balloon-kit), [question:mini-kite-kit](../tag/question:mini-kite-kit), [challenges](../tag/challenges), [prototyping-kits](../tag/prototyping-kits), [question:mini-balloon-mapping](../tag/question:mini-balloon-mapping)
 
 Thanks for a terrific first week of [our Kickstarter](https://www.kickstarter.com/projects/publiclab/kickstarter-gold-balloon-mapping-kits/)! 47% in our first seven days is awesome -- thanks for your support.  
 

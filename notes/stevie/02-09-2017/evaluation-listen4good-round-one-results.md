@@ -1,12 +1,18 @@
 ---
-nid: 13914
 title: Evaluation: Listen4Good round one results
-path: public/static/notes/stevie/02-09-2017/evaluation-listen4good-round-one-results.md
+tagnames: events, evaluation, listen4good
+author: stevie
+path: /notes/stevie/02-09-2017/evaluation-listen4good-round-one-results.md
+nid: 13914
 uid: 422561
-tagnames: events,evaluation,listen4good
+
 ---
 
 # Evaluation: Listen4Good round one results
+
+by [stevie](../profile/stevie) February 09, 2017 18:48
+
+February 09, 2017 18:48 | Tags: [events](../tag/events), [evaluation](../tag/evaluation), [listen4good](../tag/listen4good)
 
 ###Background:
 In 2015 we began creating an evaluation framework for understanding more about Public Lab's constituency and how we, as a non-profit, can better serve them. (See: [https://publiclab.org/notes/Shannon/03-01-2016/creating-an-evaluation-framework-for-public-lab](https://publiclab.org/notes/Shannon/03-01-2016/creating-an-evaluation-framework-for-public-lab))

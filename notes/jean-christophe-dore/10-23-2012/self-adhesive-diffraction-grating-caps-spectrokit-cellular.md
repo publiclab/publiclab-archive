@@ -1,12 +1,18 @@
 ---
-nid: 4586
 title:  Self-adhesive diffraction grating caps SpectroKit® for cellular
-path: public/static/notes/jean-christophe-dore/10-23-2012/self-adhesive-diffraction-grating-caps-spectrokit-cellular.md
+tagnames: spectrometer, first-time-poster
+author: Jean-Christophe-DORE
+path: /notes/jean-christophe-dore/10-23-2012/self-adhesive-diffraction-grating-caps-spectrokit-cellular.md
+nid: 4586
 uid: 44865
-tagnames: spectrometer,first-time-poster
+
 ---
 
 #  Self-adhesive diffraction grating caps SpectroKit® for cellular
+
+by [Jean-Christophe-DORE](../profile/Jean-Christophe-DORE) October 23, 2012 17:09
+
+October 23, 2012 17:09 | Tags: [spectrometer](../tag/spectrometer), [first-time-poster](../tag/first-time-poster)
 
 In addition to the delivered grating cap, the kit also includes a user guide, a procedure to follow in case of unidentified light effects phenomenon, a short introduction to spectroscopy techniques, the whole packaged in a protective case easy to carry around.
 

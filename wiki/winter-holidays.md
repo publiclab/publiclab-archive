@@ -1,12 +1,18 @@
 ---
-nid: 9747
 title: winter-holidays
-path: public/static/wiki/winter-holidays.md
-uid: 7
 tagnames: community
+author: liz
+path: /wiki/winter-holidays.md
+nid: 9747
+uid: 7
+
 ---
 
 # winter-holidays
+
+by [cfastie](../profile/cfastie), [balrog](../profile/balrog), [liz](../profile/liz)
+
+November 07, 2013 18:59 | Tags: [community](../tag/community)
 
 ##Post your festive photos here!
 

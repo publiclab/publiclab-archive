@@ -1,12 +1,18 @@
 ---
-nid: 11167
 title: IR Pass Filters and a 2 camera NDVI Setup
-path: public/static/notes/dlaflash/09-21-2014/ir-pass-filters-and-a-2-camera-ndvi-setup.md
+tagnames: near-infrared-camera, ndvi, infrared, dual-camera
+author: dlaflash
+path: /notes/dlaflash/09-21-2014/ir-pass-filters-and-a-2-camera-ndvi-setup.md
+nid: 11167
 uid: 427566
-tagnames: near-infrared-camera,ndvi,infrared,dual-camera
+
 ---
 
 # IR Pass Filters and a 2 camera NDVI Setup
+
+by [dlaflash](../profile/dlaflash) September 21, 2014 18:26
+
+September 21, 2014 18:26 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [infrared](../tag/infrared), [dual-camera](../tag/dual-camera)
 
 ###What I want to do
 Purchase an IR pass filter (blocks everything but IR light) or more ideally purchase IR pass filter sheets to be modified for my Mobius 2 camera NDVI system. I want to see if using an IR pass filter on the modified (IR filter removed) Mobius camera will help with NDVI in any way.

@@ -1,12 +1,18 @@
 ---
-nid: 14777
 title: Small Ac generator using a single neodymium sphere 
-path: public/static/notes/sciencetoolbar/08-23-2017/small-ac-generator-using-a-single-neodymium-sphere.md
+tagnames: generator, project, electric, inverter, electric-generator, ac-generator, small-generator, 230v-generator, activity:generator, activity:electronics, science-projects, simple-projects, first-time-poster
+author: sciencetoolbar
+path: /notes/sciencetoolbar/08-23-2017/small-ac-generator-using-a-single-neodymium-sphere.md
+nid: 14777
 uid: 513114
-tagnames: generator,project,electric,inverter,electric-generator,ac-generator,small-generator,230v-generator,activity:generator,activity:electronics,science-projects,simple-projects,first-time-poster
+
 ---
 
 # Small Ac generator using a single neodymium sphere 
+
+by [sciencetoolbar](../profile/sciencetoolbar) August 23, 2017 12:23
+
+August 23, 2017 12:23 | Tags: [generator](../tag/generator), [project](../tag/project), [electric](../tag/electric), [inverter](../tag/inverter), [electric-generator](../tag/electric-generator), [ac-generator](../tag/ac-generator), [small-generator](../tag/small-generator), [230v-generator](../tag/230v-generator), [activity:generator](../tag/activity:generator), [activity:electronics](../tag/activity:electronics), [science-projects](../tag/science-projects), [simple-projects](../tag/simple-projects), [first-time-poster](../tag/first-time-poster)
 
 Electric generators are devices that use alternating magnetic fields to create a current through a wire circuit. While full scale models can be complex and expensive to build, you can create a simple electric generator easily using a single neodymium magnet sphere, a coil iron -less form a syncronous motor (230 V) - inside A4 laminators, microwawes turntables motor, a small Dc motor 3 V - 5V - inside electric toys, a screw pot metal case and a Li - Po Battery. This even works well to teach electromagnetic properties, or display as a science project.
 

@@ -1,12 +1,18 @@
 ---
-nid: 15256
 title: AREN Project
-path: public/static/wiki/aren.md
+tagnames: as220, nasa, infragram, aren
+author: warren
+path: /wiki/aren.md
+nid: 15256
 uid: 1
-tagnames: as220,nasa,infragram,aren
+
 ---
 
 # AREN Project
+
+by [warren](../profile/warren)
+
+November 28, 2017 23:03 | Tags: [as220](../tag/as220), [nasa](../tag/nasa), [infragram](../tag/infragram), [aren](../tag/aren)
 
 A number of Public Lab projects are supported in part by [NASA](https://science.nasa.gov/stem-activation-team) through the [AREN project](https://www.globe.gov/web/aren-project/), which focuses on educational uses of kite aerial photography for photographic and sensor data collection. 
 

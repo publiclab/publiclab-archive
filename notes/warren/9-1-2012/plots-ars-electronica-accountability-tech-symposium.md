@@ -1,12 +1,18 @@
 ---
-nid: 3602
 title: PLOTS at Ars Electronica "Accountability Tech" symposium
-path: public/static/notes/warren/9-1-2012/plots-ars-electronica-accountability-tech-symposium.md
+tagnames: presentations, presentation
+author: warren
+path: /notes/warren/9-1-2012/plots-ars-electronica-accountability-tech-symposium.md
+nid: 3602
 uid: 1
-tagnames: presentations,presentation
+
 ---
 
 # PLOTS at Ars Electronica "Accountability Tech" symposium
+
+by [warren](../profile/warren) September 01, 2012 07:34
+
+September 01, 2012 07:34 | Tags: [presentations](../tag/presentations), [presentation](../tag/presentation)
 
 <iframe src="https://docs.google.com/presentation/embed?id=1B24GVlbxG2uLQDEVkUjQoy4L08SJfp_PSvmPHA9Kr7Y&start=false&loop=false&delayms=3000" frameborder="0" width="480" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 

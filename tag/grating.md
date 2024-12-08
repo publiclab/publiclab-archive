@@ -1,6 +1,6 @@
 # grating
 
-6 notes and wiki pages
+6 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Ultraviolet spectrometry](/wiki/uv-spectrometry) (wiki)
 - [Spectrometer testing](/notes/cfastie/12-3-2012/spectrometer-testing) by [cfastie](../profile/cfastie)

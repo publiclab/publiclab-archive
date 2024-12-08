@@ -1,6 +1,6 @@
 # israel
 
-12 notes and wiki pages
+12 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Jerusalem](/notes/hagit-keysar/8-25-2012/jerusalem) by [hagitkeysar](../profile/hagitkeysar)
 - [Community Aerial Maps on Uni' Posters](/notes/hagitkeysar/3-30-2013/community-aerial-maps-uni-posters-0) by [hagitkeysar](../profile/hagitkeysar)

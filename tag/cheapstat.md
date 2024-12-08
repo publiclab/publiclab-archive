@@ -1,6 +1,6 @@
 # cheapstat
 
-5 notes and wiki pages
+5 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Potentiostat](/wiki/potentiostat) (wiki)
 - [Potentiostat Notes 5:  How to make low cost electrodes.](/notes/JSummers/01-09-2014/potentiostat-notes-5-how-to-make-low-cost-electrodes) by [JSummers](../profile/JSummers)

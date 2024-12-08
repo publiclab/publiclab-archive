@@ -1,12 +1,18 @@
 ---
-nid: 8189
 title: Video: Kitemappers
-path: public/static/notes/scaramel/6-13-2013/video-kitemappers.md
+tagnames: balloon-mapping, kite-mapping, video, photo-rig, barnraising, lumcon
+author: scaramel
+path: /notes/scaramel/6-13-2013/video-kitemappers.md
+nid: 8189
 uid: 43696
-tagnames: balloon-mapping,kite-mapping,video,photo-rig,barnraising,lumcon
+
 ---
 
 # Video: Kitemappers
+
+by [scaramel](../profile/scaramel) June 13, 2013 19:56
+
+June 13, 2013 19:56 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [video](../tag/video), [photo-rig](../tag/photo-rig), [barnraising](../tag/barnraising), [lumcon](../tag/lumcon)
 
 <iframe src="http://techtv.mit.edu/embeds/24646?size=medium&amp;custom_width=432&amp;external_stylesheet=" frameborder="0" height="200" width="450"></iframe>
 

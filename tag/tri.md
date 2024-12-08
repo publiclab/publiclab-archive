@@ -1,6 +1,6 @@
 # tri
 
-4 notes and wiki pages
+4 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Is there a way to view EPA's Toxics Release Inventory on a map, or by location?](/notes/warren/02-01-2018/is-there-a-way-to-view-epa-s-toxics-release-inventory-on-a-map-or-by-location) by [warren](../profile/warren)
 - [Leaflet Environmental Layers Library](/notes/sagarpreet/06-06-2018/leaflet-environmental-layer-library) by [sagarpreet](../profile/sagarpreet)

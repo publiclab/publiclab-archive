@@ -1,12 +1,18 @@
 ---
-nid: 27954
 title: Senior Thesis: Arduino-Raspberry Pi Root tracking system
-path: public/static/notes/maya_mohanty/10-22-2021/senior-thesis-arduino-raspberry-pi-root-tracking-system.md
+tagnames: arduino, diy-bio, first-time-poster
+author: maya_mohanty
+path: /notes/maya_mohanty/10-22-2021/senior-thesis-arduino-raspberry-pi-root-tracking-system.md
+nid: 27954
 uid: 776445
-tagnames: arduino,diy-bio,first-time-poster
+
 ---
 
 # Senior Thesis: Arduino-Raspberry Pi Root tracking system
+
+by [maya_mohanty](../profile/maya_mohanty) October 22, 2021 01:22
+
+October 22, 2021 01:22 | Tags: [arduino](../tag/arduino), [diy-bio](../tag/diy-bio), [first-time-poster](../tag/first-time-poster)
 
 Hi all-
 

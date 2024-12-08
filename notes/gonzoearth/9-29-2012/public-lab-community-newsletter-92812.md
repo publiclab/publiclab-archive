@@ -1,12 +1,18 @@
 ---
-nid: 4093
 title: Public Lab community newsletter 9.28.12
-path: public/static/notes/gonzoearth/9-29-2012/public-lab-community-newsletter-92812.md
+tagnames: newsletter, newsletter-archive
+author: gonzoearth
+path: /notes/gonzoearth/9-29-2012/public-lab-community-newsletter-92812.md
+nid: 4093
 uid: 12
-tagnames: newsletter,newsletter-archive
+
 ---
 
 # Public Lab community newsletter 9.28.12
+
+by [gonzoearth](../profile/gonzoearth) September 29, 2012 05:14
+
+September 29, 2012 05:14 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
 
 **Zoom!** Another busy week around Public Lab. Here is a roundup of some of the things going on in our community.
 

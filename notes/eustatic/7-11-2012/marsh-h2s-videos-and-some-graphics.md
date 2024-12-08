@@ -1,12 +1,18 @@
 ---
-nid: 2760
 title: marsh-H2S videos and some graphics
-path: public/static/notes/eustatic/7-11-2012/marsh-h2s-videos-and-some-graphics.md
-uid: 379
 tagnames: hydrogen-sulfide-sensing
+author: eustatic
+path: /7-11-2012/marsh-h2s-videos-and-some-graphics.md
+nid: 2760
+uid: 379
+
 ---
 
 # marsh-H2S videos and some graphics
+
+by [eustatic](../profile/eustatic) July 11, 2012 22:30
+
+July 11, 2012 22:30 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing)
 
 Shannon explains what we're doing, while in Bayou Sauvage.
 

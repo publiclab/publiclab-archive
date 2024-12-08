@@ -1,12 +1,18 @@
 ---
-nid: 420
 title: Mapping Curriculum: Map Production with PLOTS Map Toolkit 
-path: public/static/wiki/mapping-curriculum-map-preparation.md
-uid: 1
 tagnames: 
+author: warren
+path: /wiki/mapping-curriculum-map-preparation.md
+nid: 420
+uid: 1
+
 ---
 
 # Mapping Curriculum: Map Production with PLOTS Map Toolkit 
+
+by [gonzoearth](../profile/gonzoearth), [warren](../profile/warren)
+
+July 29, 2011 19:41 | Tags: 
 
 *As part of the [Grassroots Mapping Curriculum](/wiki/mapping-curriculum) series.*
 ##Step 3: Selecting images and preparing a map##

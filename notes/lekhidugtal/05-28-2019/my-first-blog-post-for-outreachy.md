@@ -1,12 +1,18 @@
 ---
-nid: 19557
 title: My first blog post for outreachy
-path: public/static/notes/lekhidugtal/05-28-2019/my-first-blog-post-for-outreachy.md
+tagnames: blog, soc, summer-of-code, outreachy
+author: lekhidugtal
+path: /notes/lekhidugtal/05-28-2019/my-first-blog-post-for-outreachy.md
+nid: 19557
 uid: 577754
-tagnames: blog,soc,summer-of-code,outreachy
+
 ---
 
 # My first blog post for outreachy
+
+by [lekhidugtal](../profile/lekhidugtal) May 28, 2019 16:06
+
+May 28, 2019 16:06 | Tags: [blog](../tag/blog), [soc](../tag/soc), [summer-of-code](../tag/summer-of-code), [outreachy](../tag/outreachy)
 
 #### Who am I ?
 

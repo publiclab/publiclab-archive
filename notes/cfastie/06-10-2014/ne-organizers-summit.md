@@ -1,12 +1,18 @@
 ---
-nid: 10545
 title: NE Organizers Summit
-path: public/static/notes/cfastie/06-10-2014/ne-organizers-summit.md
+tagnames: barnraising, event, organizers, massachusetts, tidmarsh, northeast, nebarnraising, ma, barnstar:photo-documentation
+author: cfastie
+path: /notes/cfastie/06-10-2014/ne-organizers-summit.md
+nid: 10545
 uid: 554
-tagnames: barnraising,event,organizers,massachusetts,tidmarsh,northeast,nebarnraising,ma,barnstar:photo-documentation
+
 ---
 
 # NE Organizers Summit
+
+by [cfastie](../profile/cfastie) June 10, 2014 17:06
+
+June 10, 2014 17:06 | Tags: [barnraising](../tag/barnraising), [event](../tag/event), [organizers](../tag/organizers), [massachusetts](../tag/massachusetts), [tidmarsh](../tag/tidmarsh), [northeast](../tag/northeast), [nebarnraising](../tag/nebarnraising), [ma](../tag/ma), [barnstar:photo-documentation](../tag/barnstar:photo-documentation)
 
 The Friday before the Northeast Barnraising brought together a half dozen Public Lab Organizers, four staff members, and a few other community members to outline the roles and responsibilities of the 50 or so current Organizers and discuss ways to continue successful volunteer interactions. We spent the day at Tidmarsh Farms, and ended it with a potluck dinner and boating at Jones River Landing.  Below are some photos from an early morning walk around the abandoned cranberry cells, the summit, and fun at Jones River Landing. There are a few more photos in this [Flickr album](https://www.flickr.com/photos/chrisfastie/sets/72157645110862264/).  
 .  

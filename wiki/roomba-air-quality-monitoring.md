@@ -1,12 +1,18 @@
 ---
-nid: 11691
 title: Roomba Air Quality Monitoring
-path: public/static/wiki/roomba-air-quality-monitoring.md
+tagnames: air-quality, formaldehyde, roomba, wherewebreathe, indoor-air-quality
+author: Shannon
+path: /wiki/roomba-air-quality-monitoring.md
+nid: 11691
 uid: 9
-tagnames: air-quality,formaldehyde,roomba,wherewebreathe,indoor-air-quality
+
 ---
 
 # Roomba Air Quality Monitoring
+
+by [Shannon](../profile/Shannon)
+
+March 19, 2015 15:06 | Tags: [air-quality](../tag/air-quality), [formaldehyde](../tag/formaldehyde), [roomba](../tag/roomba), [wherewebreathe](../tag/wherewebreathe), [indoor-air-quality](../tag/indoor-air-quality)
 
 The current work on indoor air sensing through the Where We Breathe project is located here: http://publiclab.org/wiki/roomba-indoor-air-quality-mapping
 ___________________________________________________________________________________________

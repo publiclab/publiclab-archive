@@ -1,12 +1,18 @@
 ---
-nid: 686
 title: New Whistleblower Website Promises Transparency in Appalachia
-path: public/static/notes/warren/1-13-2012/new-whistleblower-website-promises-transparency-appalachia.md
+tagnames: southeast, appalachia
+author: warren
+path: /notes/warren/1-13-2012/new-whistleblower-website-promises-transparency-appalachia.md
+nid: 686
 uid: 1
-tagnames: southeast,appalachia
+
 ---
 
 # New Whistleblower Website Promises Transparency in Appalachia
+
+by [warren](../profile/warren) January 13, 2012 19:55
+
+January 13, 2012 19:55 | Tags: [southeast](../tag/southeast), [appalachia](../tag/appalachia)
 
 <div class="gmail_quote">---------- Forwarded message ----------<br>From: &quot;csuggs4&quot; &lt;<a href="mailto:csuggs4@gmail.com">csuggs4@gmail.com</a>&gt;<br>Date: Jan 13, 2012 11:07 AM<br>Subject: [MJ info] RELEASE: New Whistleblower Website Promises Transparency in Appalachia<br>
 To: &quot;MJS List&quot; &lt;<a href="mailto:mountainjusticesummer@lists.riseup.net">mountainjusticesummer@lists.riseup.net</a>&gt;,  &lt;<a href="mailto:mjsnews@lists.riseup.net">mjsnews@lists.riseup.net</a>&gt;<br><br type="attribution">

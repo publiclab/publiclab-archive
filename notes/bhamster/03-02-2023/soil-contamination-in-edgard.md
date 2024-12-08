@@ -1,12 +1,18 @@
 ---
-nid: 38735
 title: Soil Contamination in Edgard
-path: public/static/notes/bhamster/03-02-2023/soil-contamination-in-edgard.md
+tagnames: csf, community-science-forum, soil-contamination, student-community-science, classroom-community-science, csf18
+author: bhamster
+path: /notes/bhamster/03-02-2023/soil-contamination-in-edgard.md
+nid: 38735
 uid: 664477
-tagnames: csf,community-science-forum,soil-contamination,student-community-science,classroom-community-science,csf18
+
 ---
 
 # Soil Contamination in Edgard
+
+by [bhamster](../profile/bhamster) March 02, 2023 22:05
+
+March 02, 2023 22:05 | Tags: [csf](../tag/csf), [community-science-forum](../tag/community-science-forum), [soil-contamination](../tag/soil-contamination), [student-community-science](../tag/student-community-science), [classroom-community-science](../tag/classroom-community-science), [csf18](../tag/csf18)
 
 **A version of this story by high school student Jayla is published in Public Lab's _Community Science Forum_, Issue 18. Read more from this issue <a href="https://publiclab.org/forum#Issue+18+Student-Led+Community+Science+Projects+(Summer+2021)">here</a>.**
 

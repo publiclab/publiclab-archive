@@ -1,6 +1,6 @@
 # style-fancy
 
-39 notes and wiki pages
+39 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [stories](/wiki/stories) (wiki)
 - [Annual Reports](/wiki/annual-reports) (wiki)

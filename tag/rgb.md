@@ -1,6 +1,6 @@
 # rgb
 
-4 notes and wiki pages
+4 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [RGB color from a knob -- small steps towards thermal flashlight](/notes/warren/12-8-2011/rgb-color-knob-small-steps-towards-thermal-flashlight) by [warren](../profile/warren)
 - [NIR Camera Calibration](/notes/babu/12-19-2012/nir-camera-calibration) by [Babu](../profile/Babu)

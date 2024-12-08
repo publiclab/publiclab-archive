@@ -1,12 +1,18 @@
 ---
-nid: 13341
 title: Multispectral imaging
-path: public/static/wiki/multispectral-imaging.md
+tagnames: agriculture, list:plots-infrared, urban-planning, tool, land-use, activities:multispectral-imaging, upgrades:multispectral-imaging, method, land-change
+author: liz
+path: /wiki/multispectral-imaging.md
+nid: 13341
 uid: 7
-tagnames: agriculture,list:plots-infrared,urban-planning,tool,land-use,activities:multispectral-imaging,upgrades:multispectral-imaging,method,land-change
+
 ---
 
 # Multispectral imaging
+
+by [warren](../profile/warren), [liz](../profile/liz)
+
+August 08, 2016 20:15 | Tags: [agriculture](../tag/agriculture), [list:plots-infrared](../tag/list:plots-infrared), [urban-planning](../tag/urban-planning), [tool](../tag/tool), [land-use](../tag/land-use), [activities:multispectral-imaging](../tag/activities:multispectral-imaging), [upgrades:multispectral-imaging](../tag/upgrades:multispectral-imaging), [method](../tag/method), [land-change](../tag/land-change)
 
 The Public Lab near infrared imaging project is an open source community effort to modify consumer cameras to capture near infrared imagery for a range of purposes, including plant health. All open or accessible near infrared imaging hardware and software efforts are welcome here! 
 

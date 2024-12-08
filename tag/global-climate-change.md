@@ -1,6 +1,6 @@
 # global-climate-change
 
-4 notes and wiki pages
+4 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Important Report on Climate Change 2014](/notes/amysoyka/06-23-2014/important-report-on-climate-change-2014) by [amysoyka](../profile/amysoyka)
 - [[reference] "Carbon Bombs" or "Climate Bombs" --EcoFys analysis for Greenpeace](/notes/eustatic/01-13-2016/reference-carbon-bombs-or-climate-bombs-ecofys-analysis-for-greenpeace) by [eustatic](../profile/eustatic)

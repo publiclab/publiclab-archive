@@ -1,6 +1,6 @@
 # absorption
 
-16 notes and wiki pages
+16 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Methane absorption band at around 1100nm](/notes/warren/12-10-2010/methane-absorption-band-around-1100nm) by [warren](../profile/warren)
 - [Gowanus water absorption spectrum](/notes/warren/7-29-2011/gowanus-water-absorption-spectrum) by [warren](../profile/warren)

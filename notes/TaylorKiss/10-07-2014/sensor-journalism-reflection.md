@@ -1,12 +1,18 @@
 ---
-nid: 11248
 title: Sensor Journalism Reflection 
-path: public/static/notes/TaylorKiss/10-07-2014/sensor-journalism-reflection.md
-uid: 427886
 tagnames: sensor-journalism
+author: TaylorKiss
+path: /notes/TaylorKiss/10-07-2014/sensor-journalism-reflection.md
+nid: 11248
+uid: 427886
+
 ---
 
 # Sensor Journalism Reflection 
+
+by [TaylorKiss](../profile/TaylorKiss) October 07, 2014 17:10
+
+October 07, 2014 17:10 | Tags: [sensor-journalism](../tag/sensor-journalism)
 
 
 	In the ever changing world of journalism, trends come and go. As journalists, we are seeing an increasing trend of moving away from the more antiquated journalism methods, in conjunction with a huge push away from print and toward more multi-media, and computer based methods. This is also a time where we see the addition of new and exciting methods of journalism that have never been seen before, and at the forefront is Sensor Journalism, which allows a story to be told through data.

@@ -1,12 +1,18 @@
 ---
-nid: 11965
 title: Tracking Plant Health Using Visible and Infrared Light -- Initial Experiences at an Arts High School
-path: public/static/notes/Travis/06-10-2015/tracking-plant-health-using-visible-and-infrared-light-initial-experiences-at-an-arts-high-school.md
+tagnames: education, wetlands, infrared, wetland, spectrometry, curriculum, coastalmonitoring, wetlands-toolkit, parent:wetlands-lesson-plans, activity:spectrometry, activity:multispectral-imaging, multispectral-imaging, activity:infrared, activity:education, activity:classroom
+author: Travis
+path: /notes/Travis/06-10-2015/tracking-plant-health-using-visible-and-infrared-light-initial-experiences-at-an-arts-high-school.md
+nid: 11965
 uid: 442974
-tagnames: education,wetlands,infrared,wetland,spectrometry,curriculum,coastalmonitoring,wetlands-toolkit,parent:wetlands-lesson-plans,activity:spectrometry,activity:multispectral-imaging,multispectral-imaging,activity:infrared,activity:education,activity:classroom
+
 ---
 
 # Tracking Plant Health Using Visible and Infrared Light -- Initial Experiences at an Arts High School
+
+by [Travis](../profile/Travis) June 10, 2015 16:57
+
+June 10, 2015 16:57 | Tags: [education](../tag/education), [wetlands](../tag/wetlands), [infrared](../tag/infrared), [wetland](../tag/wetland), [spectrometry](../tag/spectrometry), [curriculum](../tag/curriculum), [coastalmonitoring](../tag/coastalmonitoring), [wetlands-toolkit](../tag/wetlands-toolkit), [parent:wetlands-lesson-plans](../tag/parent:wetlands-lesson-plans), [activity:spectrometry](../tag/activity:spectrometry), [activity:multispectral-imaging](../tag/activity:multispectral-imaging), [multispectral-imaging](../tag/multispectral-imaging), [activity:infrared](../tag/activity:infrared), [activity:education](../tag/activity:education), [activity:classroom](../tag/activity:classroom)
 
 Over the course of four weeks this spring, I utilized the Public Lab [Infrared Curriculum Lessons](http://publiclab.org/wiki/lesson-1-wetlands-water-oil) in the two sections of my junior-level environmental science course at an arts high school in the southeastern United States. 
 

@@ -1,12 +1,18 @@
 ---
-nid: 31174
 title: Guía de muestreo de subsuelo
-path: public/static/notes/imvec/07-02-2022/guia-de-muestreo-de-subsuelo.md
+tagnames: soil, guide, lang:es, new, soil-testing, soil-sampling, activity:soil-sampling, with:arturunderwater, with:xose, activity:soil, parent:soil, parent:soil-sampling, guia, soil-sampling-toolkit, soil-sampling-main, subsoil-sampling, subsoil, subsoil-testing
+author: imvec
+path: /notes/imvec/07-02-2022/guia-de-muestreo-de-subsuelo.md
+nid: 31174
 uid: 495038
-tagnames: soil,guide,lang:es,new,soil-testing,soil-sampling,activity:soil-sampling,with:arturunderwater,with:xose,activity:soil,parent:soil,parent:soil-sampling,guia,soil-sampling-toolkit,soil-sampling-main,subsoil-sampling,subsoil,subsoil-testing
+
 ---
 
 # Guía de muestreo de subsuelo
+
+by [imvec](../profile/imvec) July 02, 2022 12:12
+
+July 02, 2022 12:12 | Tags: [soil](../tag/soil), [guide](../tag/guide), [lang:es](../tag/lang:es), [new](../tag/new), [soil-testing](../tag/soil-testing), [soil-sampling](../tag/soil-sampling), [activity:soil-sampling](../tag/activity:soil-sampling), [with:arturunderwater](../tag/with:arturunderwater), [with:xose](../tag/with:xose), [activity:soil](../tag/activity:soil), [parent:soil](../tag/parent:soil), [parent:soil-sampling](../tag/parent:soil-sampling), [guia](../tag/guia), [soil-sampling-toolkit](../tag/soil-sampling-toolkit), [soil-sampling-main](../tag/soil-sampling-main), [subsoil-sampling](../tag/subsoil-sampling), [subsoil](../tag/subsoil), [subsoil-testing](../tag/subsoil-testing)
 
 Mediante este manual aprenderás a realizar los diferentes pasos del proceso de sondeo de subsuelo: extracción, selección, procesado de las muestras y su envío a laboratorio para la detección de metales pesados.
 

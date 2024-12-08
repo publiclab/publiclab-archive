@@ -1,6 +1,6 @@
 # power-tags
 
-4 notes and wiki pages
+4 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Power Tags](/wiki/power-tags) (wiki)
 - [Reproducibility](/notes/cfastie/12-05-2014/reproducibility) by [cfastie](../profile/cfastie)

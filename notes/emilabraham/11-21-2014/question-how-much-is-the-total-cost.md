@@ -1,12 +1,18 @@
 ---
-nid: 11378
 title: Question: How much is the total cost?
-path: public/static/notes/emilabraham/11-21-2014/question-how-much-is-the-total-cost.md
-uid: 430731
 tagnames: question:dustduino
+author: emilabraham
+path: /notes/emilabraham/11-21-2014/question-how-much-is-the-total-cost.md
+nid: 11378
+uid: 430731
+
 ---
 
 # Question: How much is the total cost?
+
+by [emilabraham](../profile/emilabraham) November 21, 2014 05:36
+
+November 21, 2014 05:36 | Tags: [question:dustduino](../tag/question:dustduino)
 
 ###What I want to do or know
 

@@ -1,12 +1,18 @@
 ---
-nid: 15134
 title: Raspberry Pi Infragram
-path: public/static/wiki/raspberry-pi-infragram.md
+tagnames: raspberry-pi, parent:infragram, pi-camera, method, raspberry-, pi-
+author: warren
+path: /wiki/raspberry-pi-infragram.md
+nid: 15134
 uid: 1
-tagnames: raspberry-pi,parent:infragram,pi-camera,method,raspberry-,pi-
+
 ---
 
 # Raspberry Pi Infragram
+
+by [mimiss](../profile/mimiss), [warren](../profile/warren)
+
+October 31, 2017 16:54 | Tags: [raspberry-pi](../tag/raspberry-pi), [parent:infragram](../tag/parent:infragram), [pi-camera](../tag/pi-camera), [method](../tag/method), [raspberry-](../tag/raspberry-), [pi-](../tag/pi-)
 
 This page collects research on using #raspberry-pi based cameras (aka #pi-camera) to take [Infragram](/wiki/infragram) multispectral photos, for plant health analysis. It is supported in part by the [AREN project at NASA](/aren). 
 

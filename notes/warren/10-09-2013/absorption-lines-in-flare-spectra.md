@@ -1,12 +1,18 @@
 ---
-nid: 9431
 title: Absorption lines in flare spectra
-path: public/static/notes/warren/10-09-2013/absorption-lines-in-flare-spectra.md
+tagnames: spectrometer, analysis, spectral-analysis, absorption, spectral-workbench, flare, chalmette, response:8946, response:8944
+author: warren
+path: /notes/warren/10-09-2013/absorption-lines-in-flare-spectra.md
+nid: 9431
 uid: 1
-tagnames: spectrometer,analysis,spectral-analysis,absorption,spectral-workbench,flare,chalmette,response:8946,response:8944
+
 ---
 
 # Absorption lines in flare spectra
+
+by [warren](../profile/warren) October 09, 2013 20:10
+
+October 09, 2013 20:10 | Tags: [spectrometer](../tag/spectrometer), [analysis](../tag/analysis), [spectral-analysis](../tag/spectral-analysis), [absorption](../tag/absorption), [spectral-workbench](../tag/spectral-workbench), [flare](../tag/flare), [chalmette](../tag/chalmette), [response:8946](../tag/response:8946), [response:8944](../tag/response:8944)
 
 ###What I want to do
 

@@ -1,12 +1,18 @@
 ---
-nid: 479
 title: Barnraising Travel
-path: public/static/wiki/barnraising-travel.md
-uid: 1
 tagnames: 
+author: warren
+path: /wiki/barnraising-travel.md
+nid: 479
+uid: 1
+
 ---
 
 # Barnraising Travel
+
+by [Shannon](../profile/Shannon), [liz](../profile/liz), [adam-griffith](../profile/adam-griffith), [warren](../profile/warren)
+
+September 26, 2011 15:34 | Tags: 
 
 ##Options##
 

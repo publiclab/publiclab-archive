@@ -1,12 +1,18 @@
 ---
-nid: 13223
 title: Local  Knowledge and Aerial Imagery
-path: public/static/notes/mlamadrid/06-22-2016/local-knowledge-and-aerial-imagery.md
+tagnames: wisconsin, blog, frac-sand, parent:frac-sand, communityscienceforum, with:marlokeno
+author: mlamadrid
+path: /notes/mlamadrid/06-22-2016/local-knowledge-and-aerial-imagery.md
+nid: 13223
 uid: 45586
-tagnames: wisconsin,blog,frac-sand,parent:frac-sand,communityscienceforum,with:marlokeno
+
 ---
 
 # Local  Knowledge and Aerial Imagery
+
+by [mlamadrid](../profile/mlamadrid) June 22, 2016 00:54
+
+June 22, 2016 00:54 | Tags: [wisconsin](../tag/wisconsin), [blog](../tag/blog), [frac-sand](../tag/frac-sand), [parent:frac-sand](../tag/parent:frac-sand), [communityscienceforum](../tag/communityscienceforum), [with:marlokeno](../tag/with:marlokeno)
 
 Article by Mary Kenosian for [Community Science Forum: Sand-Frac Issue](https://publiclab.org/forum)
 

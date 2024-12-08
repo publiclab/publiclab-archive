@@ -1,12 +1,18 @@
 ---
-nid: 9785
 title: The BRIT camera rig
-path: public/static/notes/jbest/11-15-2013/the-brit-camera-rig.md
+tagnames: balloon-mapping, picavet, photo-rig, response:9742, activity:photo-rig
+author: jbest
+path: /notes/jbest/11-15-2013/the-brit-camera-rig.md
+nid: 9785
 uid: 194322
-tagnames: balloon-mapping,picavet,photo-rig,response:9742,activity:photo-rig
+
 ---
 
 # The BRIT camera rig
+
+by [jbest](../profile/jbest) November 15, 2013 20:17
+
+November 15, 2013 20:17 | Tags: [balloon-mapping](../tag/balloon-mapping), [picavet](../tag/picavet), [photo-rig](../tag/photo-rig), [response:9742](../tag/response:9742), [activity:photo-rig](../tag/activity:photo-rig)
 
 ###Exploring different camera rig designs
 

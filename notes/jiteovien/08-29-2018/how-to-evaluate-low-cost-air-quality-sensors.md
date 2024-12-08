@@ -1,12 +1,18 @@
 ---
-nid: 17020
 title: How to evaluate low cost air quality sensors
-path: public/static/notes/jiteovien/08-29-2018/how-to-evaluate-low-cost-air-quality-sensors.md
+tagnames: air-quality, sensors, pm, particulate-matter, activity:sensors, air-sensors, purpleair, purple-air, collocation, air-sensor-eval
+author: jiteovien
+path: /notes/jiteovien/08-29-2018/how-to-evaluate-low-cost-air-quality-sensors.md
+nid: 17020
 uid: 540008
-tagnames: air-quality,sensors,pm,particulate-matter,activity:sensors,air-sensors,purpleair,purple-air,collocation,air-sensor-eval
+
 ---
 
 # How to evaluate low cost air quality sensors
+
+by [jiteovien](../profile/jiteovien) August 29, 2018 21:45
+
+August 29, 2018 21:45 | Tags: [air-quality](../tag/air-quality), [sensors](../tag/sensors), [pm](../tag/pm), [particulate-matter](../tag/particulate-matter), [activity:sensors](../tag/activity:sensors), [air-sensors](../tag/air-sensors), [purpleair](../tag/purpleair), [purple-air](../tag/purple-air), [collocation](../tag/collocation), [air-sensor-eval](../tag/air-sensor-eval)
 
 The Environmental Protection Agency (EPA) has a pretty good [powerpoint](https://www.epa.gov/sites/production/files/2018-01/documents/collocation_instruction_guide.pdf) that details the process of evaluating an air quality sensor. While there are research studies that have evaluations of several different types of sensors, these types of characterizations may not reflect the sensor that you have and the environment you are using it in. I wanted to summarize this process here on the Public Lab site while also offering some reflections on my experience doing this.
 

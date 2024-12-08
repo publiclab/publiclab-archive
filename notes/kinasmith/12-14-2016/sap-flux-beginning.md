@@ -1,12 +1,18 @@
 ---
-nid: 13782
 title: Sap Flux Beginning
-path: public/static/notes/kinasmith/12-14-2016/sap-flux-beginning.md
+tagnames: alaska, tree, sensor-networks, sensor, sapflux, circuits
+author: kinasmith
+path: /notes/kinasmith/12-14-2016/sap-flux-beginning.md
+nid: 13782
 uid: 445906
-tagnames: alaska,tree,sensor-networks,sensor,sapflux,circuits
+
 ---
 
 # Sap Flux Beginning
+
+by [kinasmith](../profile/kinasmith) December 14, 2016 02:02
+
+December 14, 2016 02:02 | Tags: [alaska](../tag/alaska), [tree](../tag/tree), [sensor-networks](../tag/sensor-networks), [sensor](../tag/sensor), [sapflux](../tag/sapflux), [circuits](../tag/circuits)
 
 ###Background
 

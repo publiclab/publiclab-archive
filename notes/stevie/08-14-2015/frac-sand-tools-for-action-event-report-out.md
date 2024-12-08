@@ -1,12 +1,18 @@
 ---
-nid: 12142
 title: Frac Sand Tools for Action: Event report out
-path: public/static/notes/stevie/08-14-2015/frac-sand-tools-for-action-event-report-out.md
+tagnames: wisconsin, water-quality, dust, frac-sand, waterquality, indoor-air-quality-monitoring, with:gretchengehrke, fracsand, parent:frac-sand, parent:frac-sand-advocacy-leverage-points
+author: stevie
+path: /notes/stevie/08-14-2015/frac-sand-tools-for-action-event-report-out.md
+nid: 12142
 uid: 422561
-tagnames: wisconsin,water-quality,dust,frac-sand,waterquality,indoor-air-quality-monitoring,with:gretchengehrke,fracsand,parent:frac-sand,parent:frac-sand-advocacy-leverage-points
+
 ---
 
 # Frac Sand Tools for Action: Event report out
+
+by [stevie](../profile/stevie) August 14, 2015 18:05
+
+August 14, 2015 18:05 | Tags: [wisconsin](../tag/wisconsin), [water-quality](../tag/water-quality), [dust](../tag/dust), [frac-sand](../tag/frac-sand), [waterquality](../tag/waterquality), [indoor-air-quality-monitoring](../tag/indoor-air-quality-monitoring), [with:gretchengehrke](../tag/with:gretchengehrke), [fracsand](../tag/fracsand), [parent:frac-sand](../tag/parent:frac-sand), [parent:frac-sand-advocacy-leverage-points](../tag/parent:frac-sand-advocacy-leverage-points)
 
 
 

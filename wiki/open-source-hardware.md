@@ -1,12 +1,18 @@
 ---
-nid: 86
 title: Open Source Hardware
-path: public/static/wiki/open-source-hardware.md
-uid: 1
 tagnames: 
+author: warren
+path: /wiki/open-source-hardware.md
+nid: 86
+uid: 1
+
 ---
 
 # Open Source Hardware
+
+by [warren](../profile/warren)
+
+February 16, 2011 12:45 | Tags: 
 
 ###Open Source Hardware (OSHW) Statement of Principles and Definition v1.0###
 

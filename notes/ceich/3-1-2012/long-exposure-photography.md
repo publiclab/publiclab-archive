@@ -1,12 +1,18 @@
 ---
-nid: 882
 title: On Long Exposure Photography
-path: public/static/notes/ceich/3-1-2012/long-exposure-photography.md
-uid: 597
 tagnames: first-time-poster
+author: C_Eich
+path: /notes/ceich/3-1-2012/long-exposure-photography.md
+nid: 882
+uid: 597
+
 ---
 
 # On Long Exposure Photography
+
+by [C_Eich](../profile/C_Eich) March 02, 2012 00:18
+
+March 02, 2012 00:18 | Tags: [first-time-poster](../tag/first-time-poster)
 
 Long exposure photography has a lot of  artistic and scientific potential. Even when its use is scientific, the practice is an art, simple in principle yet depending on a sensitive eye and soft touch. I am writing here a general overview of long exposure photography for still cameras, not for video or webcams using Glow Doodle.
 

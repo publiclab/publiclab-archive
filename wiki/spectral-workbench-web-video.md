@@ -1,12 +1,18 @@
 ---
-nid: 2430
 title: Spectral Workbench web video
-path: public/static/wiki/spectral-workbench-web-video.md
-uid: 1
 tagnames: spectralworkbench
+author: warren
+path: /wiki/spectral-workbench-web-video.md
+nid: 2430
+uid: 1
+
 ---
 
 # Spectral Workbench web video
+
+by [warren](../profile/warren)
+
+June 11, 2012 13:02 | Tags: [spectralworkbench](../tag/spectralworkbench)
 
 ###Desktop browsers
 

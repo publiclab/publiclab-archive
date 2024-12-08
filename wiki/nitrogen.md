@@ -1,12 +1,18 @@
 ---
-nid: 18524
 title: Nitrogen
-path: public/static/wiki/nitrogen.md
+tagnames: water-quality, nitrate, nitrates, no2, phosphate, parent:water-quality, nitrogen
+author: warren
+path: /wiki/nitrogen.md
+nid: 18524
 uid: 1
-tagnames: water-quality,nitrate,nitrates,no2,phosphate,parent:water-quality,nitrogen
+
 ---
 
 # Nitrogen
+
+by [warren](../profile/warren)
+
+March 12, 2019 19:40 | Tags: [water-quality](../tag/water-quality), [nitrate](../tag/nitrate), [nitrates](../tag/nitrates), [no2](../tag/no2), [phosphate](../tag/phosphate), [parent:water-quality](../tag/parent:water-quality), [nitrogen](../tag/nitrogen)
 
 Nitrogen or #nitrate contamination of drinking and surface water poses serious health risks, and can result from agricultural runoff in rivers. It is often associated with algal blooms as well. Also see the topic #phosphate.
 

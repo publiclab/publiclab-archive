@@ -1,12 +1,18 @@
 ---
-nid: 11787
 title: Public Lab Five Year Retrospective by Shannon Dosemagen
-path: public/static/wiki/public-lab-five-year-retrospective-by-shannon-dosemagen.md
+tagnames: grassrootsmapping, grassrootsmappingforum, history, with:shannon, style:fancy, gmf-7
+author: mollydanielsson
+path: /wiki/public-lab-five-year-retrospective-by-shannon-dosemagen.md
+nid: 11787
 uid: 1259
-tagnames: grassrootsmapping,grassrootsmappingforum,history,with:shannon,style:fancy,gmf-7
+
 ---
 
 # Public Lab Five Year Retrospective by Shannon Dosemagen
+
+by [mollydanielsson](../profile/mollydanielsson), [Shannon](../profile/Shannon)
+
+May 06, 2015 00:49 | Tags: [grassrootsmapping](../tag/grassrootsmapping), [grassrootsmappingforum](../tag/grassrootsmappingforum), [history](../tag/history), [with:shannon](../tag/with:shannon), [style:fancy](../tag/style:fancy), [gmf-7](../tag/gmf-7)
 
  by [Shannon Dosemagen](http://publiclab.org/profile/shannon)
 

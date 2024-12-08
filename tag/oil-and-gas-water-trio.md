@@ -1,6 +1,6 @@
 # oil-and-gas-water-trio
 
-48 notes and wiki pages
+48 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Seeking Hardware Fellow for Oil & Gas Water Fellowship Trio](/notes/stevie/08-06-2019/seeking-hardware-fellow-for-oil-gas-water-fellowship-trio) by [stevie](../profile/stevie)
 - [Seeking Monitoring Methods Fellow for Oil & Gas Water Fellowship Trio](/notes/stevie/08-06-2019/seeking-monitoring-methods-fellow-for-oil-gas-water-fellowship-trio) by [stevie](../profile/stevie)
@@ -28,7 +28,6 @@
 - [Reused fracking water?](/notes/charlotte_clarke/10-29-2019/reused-fracking-water) by [charlotte_clarke](../profile/charlotte_clarke)
 - [Oil and Gas Monitoring Methods Fellow Update: Week 6](/notes/charlotte_clarke/10-29-2019/oil-and-gas-monitoring-methods-fellow-update-week-6) by [charlotte_clarke](../profile/charlotte_clarke)
 - [Week 5 Fellowship Update ](/notes/stevie/11-01-2019/week-5-fellowship-update) by [stevie](../profile/stevie)
-- [Samosa recipe](/notes/satnam95795/11-02-2019/samosa-recipe) by [satnam95795](../profile/satnam95795)
 - [Oil and Gas Hardware Fellow Status Update: Week 6!](/notes/wmacfarl/11-05-2019/oil-and-gas-hardware-fellow-status-update-week-6) by [wmacfarl](../profile/wmacfarl)
 - [Oil and Gas Monitoring Methods Fellow Update: Week 7](/notes/charlotte_clarke/11-05-2019/oil-and-gas-monitoring-methods-fellow-update-week-7) by [charlotte_clarke](../profile/charlotte_clarke)
 - [Oil and Gas Monitoring  Fellowship Update:](/notes/rollinrenola/11-05-2019/oil-and-gas-monitoring-fellowship-update) by [rollinrenola](../profile/rollinrenola)
@@ -44,7 +43,6 @@
 - [Week 9 Fellowship Update](/notes/rollinrenola/12-03-2019/week-9-fellowship-update) by [rollinrenola](../profile/rollinrenola)
 - [Oil and Gas Water Quality](/wiki/oil-and-gas-water-quality) (wiki)
 - [How to Connect a pH Sensor to the Simple Water Sensor Platform](/notes/wmacfarl/12-09-2019/building-the-simple-ph-sensor-prototype) by [wmacfarl](../profile/wmacfarl)
-- [Building the Simple ORP Sensor Prototype](/notes/wmacfarl/12-09-2019/building-the-simple-orp-sensor-prototype) by [wmacfarl](../profile/wmacfarl)
 - [Oil and Gas Hardware Fellow Status Update: Week 11](/notes/wmacfarl/12-10-2019/oil-and-gas-hardware-fellow-status-update-week-11) by [wmacfarl](../profile/wmacfarl)
 - [Building the Simple Water Sensor Platform](/notes/wmacfarl/01-10-2020/building-the-simple-water-sensor-platform) by [wmacfarl](../profile/wmacfarl)
 - [How to Connect an ORP Sensor to the Simple Water Sensor Platform](/notes/wmacfarl/01-11-2020/how-to-connect-an-orp-sensor-to-the-simple-water-sensor-platform) by [wmacfarl](../profile/wmacfarl)

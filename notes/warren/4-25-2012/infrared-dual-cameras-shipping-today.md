@@ -1,12 +1,18 @@
 ---
-nid: 1779
 title: Infrared dual cameras shipping today
-path: public/static/notes/warren/4-25-2012/infrared-dual-cameras-shipping-today.md
-uid: 1
 tagnames: near-infrared-camera
+author: warren
+path: /notes/warren/4-25-2012/infrared-dual-cameras-shipping-today.md
+nid: 1779
+uid: 1
+
 ---
 
 # Infrared dual cameras shipping today
+
+by [warren](../profile/warren) April 25, 2012 14:26
+
+April 25, 2012 14:26 | Tags: [near-infrared-camera](../tag/near-infrared-camera)
 
 I am almost done packing the boxes with help from others at the p.irateship -- if all goes well they'll ship out today!
 

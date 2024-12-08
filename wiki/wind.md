@@ -1,12 +1,18 @@
 ---
-nid: 14531
 title: Wind
-path: public/static/wiki/wind.md
+tagnames: atmosphere, wind, weather, activities:wind, questions:wind
+author: warren
+path: /wiki/wind.md
+nid: 14531
 uid: 1
-tagnames: atmosphere,wind,weather,activities:wind,questions:wind
+
 ---
 
 # Wind
+
+by [warren](../profile/warren)
+
+June 13, 2017 16:51 | Tags: [atmosphere](../tag/atmosphere), [wind](../tag/wind), [weather](../tag/weather), [activities:wind](../tag/activities:wind), [questions:wind](../tag/questions:wind)
 
 This is a page to collect resources, stories and projects related to measuring wind. 
 

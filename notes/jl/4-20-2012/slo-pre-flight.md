@@ -1,12 +1,18 @@
 ---
-nid: 1716
 title: SLO pre flight
-path: public/static/notes/jl/4-20-2012/slo-pre-flight.md
+tagnames: balloon-mapping, near-infrared-camera, vegetation-mapping, vineyard
+author: jl
+path: /notes/jl/4-20-2012/slo-pre-flight.md
+nid: 1716
 uid: 587
-tagnames: balloon-mapping,near-infrared-camera,vegetation-mapping,vineyard
+
 ---
 
 # SLO pre flight
+
+by [jl](../profile/jl) April 20, 2012 05:18
+
+April 20, 2012 05:18 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [vegetation-mapping](../tag/vegetation-mapping), [vineyard](../tag/vineyard)
 
 Here's the rig setup I'm attempting to launch. <a href="https://www.flickr.com/photos/j03lar50n/7095363693/" title="near_ir setup front by j03lar50n, on Flickr"><img src="https://farm6.staticflickr.com/5349/7095363693_51e3c4aea3_n.jpg" width="180" height="320" alt="near_ir setup front"></a>
 

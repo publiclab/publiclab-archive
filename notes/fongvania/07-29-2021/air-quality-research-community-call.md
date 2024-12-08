@@ -1,12 +1,18 @@
 ---
-nid: 27382
 title: Air Quality Research Community Call
-path: public/static/notes/fongvania/07-29-2021/air-quality-research-community-call.md
+tagnames: event, air-quality, air, event:rsvp, air-monitoring, research-curation-fellows, research-curation-fellows-event, date:08-10-2021, bioindicators
+author: fongvania
+path: /notes/fongvania/07-29-2021/air-quality-research-community-call.md
+nid: 27382
 uid: 754846
-tagnames: event,air-quality,air,event:rsvp,air-monitoring,research-curation-fellows,research-curation-fellows-event,date:08-10-2021,bioindicators
+
 ---
 
 # Air Quality Research Community Call
+
+by [fongvania](../profile/fongvania) July 29, 2021 21:58
+
+July 29, 2021 21:58 | Tags: [event](../tag/event), [air-quality](../tag/air-quality), [air](../tag/air), [event:rsvp](../tag/event:rsvp), [air-monitoring](../tag/air-monitoring), [research-curation-fellows](../tag/research-curation-fellows), [research-curation-fellows-event](../tag/research-curation-fellows-event), [date:08-10-2021](../tag/date:08-10-2021), [bioindicators](../tag/bioindicators)
 
 **August 10, 2021
 10am-11:30am  PST | 1-2:30pm EST**

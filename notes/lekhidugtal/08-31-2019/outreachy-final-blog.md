@@ -1,12 +1,18 @@
 ---
-nid: 20736
 title: Outreachy Final Blog : An awesome Journey
-path: public/static/notes/lekhidugtal/08-31-2019/outreachy-final-blog.md
+tagnames: design, blog, barnstar:basic, blog-submission, soc, ui, summer-of-code, outreachy, outreachy-2019, gsoc-2019-final-report
+author: lekhidugtal
+path: /notes/lekhidugtal/08-31-2019/outreachy-final-blog.md
+nid: 20736
 uid: 577754
-tagnames: design,blog,barnstar:basic,blog-submission,soc,ui,summer-of-code,outreachy,outreachy-2019,gsoc-2019-final-report
+
 ---
 
 # Outreachy Final Blog : An awesome Journey
+
+by [lekhidugtal](../profile/lekhidugtal) August 31, 2019 12:32
+
+August 31, 2019 12:32 | Tags: [design](../tag/design), [blog](../tag/blog), [barnstar:basic](../tag/barnstar:basic), [blog-submission](../tag/blog-submission), [soc](../tag/soc), [ui](../tag/ui), [summer-of-code](../tag/summer-of-code), [outreachy](../tag/outreachy), [outreachy-2019](../tag/outreachy-2019), [gsoc-2019-final-report](../tag/gsoc-2019-final-report)
 
 Here in this post I would be summing up my contribution for this summer.
 We do have this one single link to checkout the whole contribution in project -

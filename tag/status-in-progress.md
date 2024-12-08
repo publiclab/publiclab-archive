@@ -1,6 +1,6 @@
 # status-in-progress
 
-7 notes and wiki pages
+7 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [DIY Formaldehyde Test Kit](/notes/nshapiro/11-03-2014/diy-formaldehyde-test-kit) by [nshapiro](../profile/nshapiro)
 - [Pole Mapping](/wiki/pole-mapping) (wiki)

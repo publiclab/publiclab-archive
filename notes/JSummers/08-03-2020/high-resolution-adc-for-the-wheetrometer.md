@@ -1,12 +1,18 @@
 ---
-nid: 24256
 title: High resolution ADC for the WheeTrometer.
-path: public/static/notes/JSummers/08-03-2020/high-resolution-adc-for-the-wheetrometer.md
+tagnames: advancedsearch, response:16427
+author: JSummers
+path: /notes/JSummers/08-03-2020/high-resolution-adc-for-the-wheetrometer.md
+nid: 24256
 uid: 304279
-tagnames: advancedsearch,response:16427
+
 ---
 
 # High resolution ADC for the WheeTrometer.
+
+by [JSummers](../profile/JSummers) August 03, 2020 14:29
+
+August 03, 2020 14:29 | Tags: [advancedsearch](../tag/advancedsearch), [response:16427](../tag/response:16427)
 
 # Background:We are working to develop hardware and software for low cost
 visible and uv spectroscopy. Design evolution of the

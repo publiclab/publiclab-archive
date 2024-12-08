@@ -1,12 +1,18 @@
 ---
-nid: 19070
 title: Report: 2019 Software Contributors Survey
-path: public/static/notes/liz/04-15-2019/report-2019-software-contributors-survey.md
+tagnames: community-metrics, software, web, code, evaluation, survey, with:warren, wwg, diversity, response:15093, inclusion
+author: liz
+path: /notes/liz/04-15-2019/report-2019-software-contributors-survey.md
+nid: 19070
 uid: 7
-tagnames: community-metrics,software,web,code,evaluation,survey,with:warren,wwg,diversity,response:15093,inclusion
+
 ---
 
 # Report: 2019 Software Contributors Survey
+
+by [liz](../profile/liz) April 15, 2019 13:58
+
+April 15, 2019 13:58 | Tags: [community-metrics](../tag/community-metrics), [software](../tag/software), [web](../tag/web), [code](../tag/code), [evaluation](../tag/evaluation), [survey](../tag/survey), [with:warren](../tag/with:warren), [wwg](../tag/wwg), [diversity](../tag/diversity), [response:15093](../tag/response:15093), [inclusion](../tag/inclusion)
 
 Public Lab has received support for students to work on Public Lab software projects via [Google's Summer of Code program](https://summerofcode.withgoogle.com/) -- 2019 is our sixth great year of open source coding with GSoC! In 2017 and 2018 we also joined the [Rails Girls Summer of Code program](https://railsgirlssummerofcode.org/), and in 2018 we participated in [Outreachy](https://outreachy.org/) through sponsorship by the United Nations Foundation DIAL OSC program. This is a key way that we are able to develop our collaborative platform at [PublicLab.org](http://PublicLab.org), as well as other Public Lab coding projects such as MapKnitter and Image Sequencer.
 

@@ -1,12 +1,18 @@
 ---
-nid: 15127
 title: Making Thermocouples
-path: public/static/notes/Vern/10-30-2017/making-thermocouples.md
-uid: 517328
 tagnames: thermocouple
+author: Vern
+path: /notes/Vern/10-30-2017/making-thermocouples.md
+nid: 15127
+uid: 517328
+
 ---
 
 # Making Thermocouples
+
+by [Vern](../profile/Vern) October 30, 2017 09:10
+
+October 30, 2017 09:10 | Tags: [thermocouple](../tag/thermocouple)
 
 I was amused by the notion of creating a complicated DIY capacitive-discharge welder just to make thermocouples. 
 

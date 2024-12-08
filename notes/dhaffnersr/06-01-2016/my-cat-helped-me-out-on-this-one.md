@@ -1,12 +1,18 @@
 ---
-nid: 13157
 title: My cat helped me out on this one!
-path: public/static/notes/dhaffnersr/06-01-2016/my-cat-helped-me-out-on-this-one.md
-uid: 461120
 tagnames: 
+author: dhaffnersr
+path: /notes/dhaffnersr/06-01-2016/my-cat-helped-me-out-on-this-one.md
+nid: 13157
+uid: 461120
+
 ---
 
 # My cat helped me out on this one!
+
+by [dhaffnersr](../profile/dhaffnersr) June 01, 2016 16:08
+
+June 01, 2016 16:08 | Tags: 
 
 I finally was able to do a 4 sample concentration study with Eosin Y in Ethanol, for some odd reason I had to fend off one of my cats (tee tee,) who apparently found what I was doing very interesting and decided she could help too!
 

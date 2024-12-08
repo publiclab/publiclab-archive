@@ -1,12 +1,18 @@
 ---
-nid: 10689
 title: Youth Balloon Mapping Workshop Curriculum 
-path: public/static/wiki/youth-balloon-mapping-workshop-curriculum.md
+tagnames: balloon-mapping, education, curriculum, youth, chicago, midwest, civic-lab, civiclb, response:10638, response:10612
+author: mjain26
+path: /wiki/youth-balloon-mapping-workshop-curriculum.md
+nid: 10689
 uid: 424870
-tagnames: balloon-mapping,education,curriculum,youth,chicago,midwest,civic-lab,civiclb,response:10638,response:10612
+
 ---
 
 # Youth Balloon Mapping Workshop Curriculum 
+
+by [warren](../profile/warren), [mjain26](../profile/mjain26)
+
+July 14, 2014 18:45 | Tags: [balloon-mapping](../tag/balloon-mapping), [education](../tag/education), [curriculum](../tag/curriculum), [youth](../tag/youth), [chicago](../tag/chicago), [midwest](../tag/midwest), [civic-lab](../tag/civic-lab), [civiclb](../tag/civiclb), [response:10638](../tag/response:10638), [response:10612](../tag/response:10612)
 
 So this is my third post regarding this topic. I am working to create a balloon mapping workshop for youth in Chicago. Here is the [link](http://publiclab.org/notes/mjain26/06-24-2014/youth-balloon-mapping-workshop) to my first draft and here is the [link](http://publiclab.org/notes/mjain26/07-01-2014/youth-balloon-mapping-workshop-second-draft) to my second draft. Warren commented on one of my previous posts suggesting that I post the curriculum alone so community members can edit it directly, so here it is! In the first draft, the curriculum is titled "draft 1" and in the second draft, it is titled "outline". Please excuse my subpar markdown skills. All edits would be graciously accepted. 
 

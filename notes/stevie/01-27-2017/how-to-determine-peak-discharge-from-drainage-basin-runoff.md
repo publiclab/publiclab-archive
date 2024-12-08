@@ -1,12 +1,18 @@
 ---
-nid: 13884
 title: How to determine peak discharge from drainage basin runoff
-path: public/static/notes/stevie/01-27-2017/how-to-determine-peak-discharge-from-drainage-basin-runoff.md
+tagnames: stormwater, seeks:replications, activity:stormwater
+author: stevie
+path: /notes/stevie/01-27-2017/how-to-determine-peak-discharge-from-drainage-basin-runoff.md
+nid: 13884
 uid: 422561
-tagnames: stormwater,seeks:replications,activity:stormwater
+
 ---
 
 # How to determine peak discharge from drainage basin runoff
+
+by [stevie](../profile/stevie) January 27, 2017 18:43
+
+January 27, 2017 18:43 | Tags: [stormwater](../tag/stormwater), [seeks:replications](../tag/seeks:replications), [activity:stormwater](../tag/activity:stormwater)
 
 _Source of lead image: http://www.geograph.org.uk/photo/2255129_
 

@@ -1,12 +1,18 @@
 ---
-nid: 14059
 title: portable NDVi camera with processing
-path: public/static/notes/aldrin/03-25-2017/portable-ndvi-camera-with-processing.md
+tagnames: ndvi, question:general
+author: aldrin
+path: /notes/aldrin/03-25-2017/portable-ndvi-camera-with-processing.md
+nid: 14059
 uid: 493973
-tagnames: ndvi,question:general
+
 ---
 
 # portable NDVi camera with processing
+
+by [aldrin](../profile/aldrin) March 25, 2017 15:12
+
+March 25, 2017 15:12 | Tags: [ndvi](../tag/ndvi), [question:general](../tag/question:general)
 
 ###What I want to do or know
 We want to know how to calibrate pi NOIR camera with red filter and provide the image processing inside the raspberry pi using python

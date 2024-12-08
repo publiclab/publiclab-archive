@@ -1,12 +1,18 @@
 ---
-nid: 13474
 title: Aerial Photography
-path: public/static/wiki/aerial-photography.md
+tagnames: agriculture, mining, urban-planning, fracking, tool, land-use, industry, activities:aerial-photography, upgrades:aerial-photography, method, land-change, oil-and-gas
+author: Bronwen
+path: /wiki/aerial-photography.md
+nid: 13474
 uid: 237313
-tagnames: agriculture,mining,urban-planning,fracking,tool,land-use,industry,activities:aerial-photography,upgrades:aerial-photography,method,land-change,oil-and-gas
+
 ---
 
 # Aerial Photography
+
+by [liz](../profile/liz), [warren](../profile/warren), [Bronwen](../profile/Bronwen)
+
+September 23, 2016 19:24 | Tags: [agriculture](../tag/agriculture), [mining](../tag/mining), [urban-planning](../tag/urban-planning), [fracking](../tag/fracking), [tool](../tag/tool), [land-use](../tag/land-use), [industry](../tag/industry), [activities:aerial-photography](../tag/activities:aerial-photography), [upgrades:aerial-photography](../tag/upgrades:aerial-photography), [method](../tag/method), [land-change](../tag/land-change), [oil-and-gas](../tag/oil-and-gas)
 
 This is an open source community effort to develop **simple, low-cost aerial photography** methods for a range of conditions. All accessible hardware and software efforts are welcome here! 
 

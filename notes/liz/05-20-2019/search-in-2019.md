@@ -1,12 +1,18 @@
 ---
-nid: 19466
 title: Search in 2019
-path: public/static/notes/liz/05-20-2019/search-in-2019.md
+tagnames: website, search, code, wwg, ui
+author: liz
+path: /notes/liz/05-20-2019/search-in-2019.md
+nid: 19466
 uid: 7
-tagnames: website,search,code,wwg,ui
+
 ---
 
 # Search in 2019
+
+by [liz](../profile/liz) May 20, 2019 18:38
+
+May 20, 2019 18:38 | Tags: [website](../tag/website), [search](../tag/search), [code](../tag/code), [wwg](../tag/wwg), [ui](../tag/ui)
 
 *above: mockup of a new Search interface*
 

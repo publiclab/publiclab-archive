@@ -1,12 +1,18 @@
 ---
-nid: 15540
 title: Logo
-path: public/static/wiki/logo.md
+tagnames: logo, logos
+author: warren
+path: /wiki/logo.md
+nid: 15540
 uid: 1
-tagnames: logo,logos
+
 ---
 
 # Logo
+
+by [warren](../profile/warren)
+
+January 17, 2018 20:45 | Tags: [logo](../tag/logo), [logos](../tag/logos)
 
 
 Public Lab logos!

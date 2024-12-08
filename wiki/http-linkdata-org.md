@@ -1,12 +1,18 @@
 ---
-nid: 6970
 title: http://LinkData.org
-path: public/static/wiki/http-linkdata-org.md
+tagnames: database, standards, lod, rdf, data
+author: davidgifford
+path: /wiki/http-linkdata-org.md
+nid: 6970
 uid: 58526
-tagnames: database,standards,lod,rdf,data
+
 ---
 
 # http://LinkData.org
+
+by [davidgifford](../profile/davidgifford)
+
+April 22, 2013 06:35 | Tags: [database](../tag/database), [standards](../tag/standards), [lod](../tag/lod), [rdf](../tag/rdf), [data](../tag/data)
 
 [![LinkData_logo_square_150.png](https://i.publiclab.org/system/images/photos/000/000/110/medium/LinkData_logo_square_150.png)](http://linkdata.org)
 

@@ -1,6 +1,6 @@
 # licensing
 
-10 notes and wiki pages
+10 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [CERN-OHL-1.1](/wiki/cern-ohl-11) (wiki)
 - [Why Collaborative Development Works in a Proprietary World](/notes/warren/2-15-2012/why-collaborative-development-works-proprietary-world) by [warren](../profile/warren)

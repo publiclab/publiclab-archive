@@ -1,12 +1,18 @@
 ---
-nid: 16163
 title: Which organizer can I contact if I want to start the first chapter in Germany?
-path: public/static/notes/niklasjordan/04-17-2018/which-organizer-can-i-contact-if-i-want-to-start-the-first-chapter-in-germany.md
+tagnames: chapters, eu, getting-started, answered, germany, question:chapters, first-time-poster
+author: niklasjordan
+path: /notes/niklasjordan/04-17-2018/which-organizer-can-i-contact-if-i-want-to-start-the-first-chapter-in-germany.md
+nid: 16163
 uid: 531062
-tagnames: chapters,eu,getting-started,answered,germany,question:chapters,first-time-poster
+
 ---
 
 # Which organizer can I contact if I want to start the first chapter in Germany?
+
+by [niklasjordan](../profile/niklasjordan) April 17, 2018 07:22
+
+April 17, 2018 07:22 | Tags: [chapters](../tag/chapters), [eu](../tag/eu), [getting-started](../tag/getting-started), [answered](../tag/answered), [germany](../tag/germany), [question:chapters](../tag/question:chapters), [first-time-poster](../tag/first-time-poster)
 
 On the wiki page for "Start a chapter" it says that I should contact an organizer near me:  
   

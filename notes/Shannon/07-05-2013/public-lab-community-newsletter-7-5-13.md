@@ -1,12 +1,18 @@
 ---
-nid: 8706
 title: Public Lab community newsletter 7.5.13
-path: public/static/notes/Shannon/07-05-2013/public-lab-community-newsletter-7-5-13.md
+tagnames: newsletter, newsletter-archive
+author: Shannon
+path: /notes/Shannon/07-05-2013/public-lab-community-newsletter-7-5-13.md
+nid: 8706
 uid: 9
-tagnames: newsletter,newsletter-archive
+
 ---
 
 # Public Lab community newsletter 7.5.13
+
+by [Shannon](../profile/Shannon) July 05, 2013 23:24
+
+July 05, 2013 23:24 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
 
 This week in the Public Lab community newsletter, meet our new board member, take a second to support the Kickstarter, get ready for a barn raising in the wetlands of Louisiana and read about infrared imaging work being done at urban gardens, farms and landfills. Enjoy!
 

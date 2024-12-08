@@ -1,12 +1,18 @@
 ---
-nid: 27099
 title: Importing New Translations from Transifex Project ( managers only)
-path: public/static/notes/ajitmujumdar25999/07-18-2021/importing-new-translations-from-transifex-project.md
+tagnames: localization, translation, activity:localization, activity:localization-managers, localization-managers
+author: ajitmujumdar25999
+path: /notes/ajitmujumdar25999/07-18-2021/importing-new-translations-from-transifex-project.md
+nid: 27099
 uid: 654056
-tagnames: localization,translation,activity:localization,activity:localization-managers,localization-managers
+
 ---
 
 # Importing New Translations from Transifex Project ( managers only)
+
+by [ajitmujumdar25999](../profile/ajitmujumdar25999) July 18, 2021 09:05
+
+July 18, 2021 09:05 | Tags: [localization](../tag/localization), [translation](../tag/translation), [activity:localization](../tag/activity:localization), [activity:localization-managers](../tag/activity:localization-managers), [localization-managers](../tag/localization-managers)
 
 As part of [Translation project][1], Public Lab, we invite contributors to translate various parts of the Forum so that we can make Publiclab.org more genial and accessible to new and existing users and foster diversity.
 The Public Lab website is available in different languages, with translation provided by community members. As the website menus, buttons, and other interfaces change, those new texts must be imported back into the translation system to be shown to translators. This activity shows how that process works; it can be done by Transifex managers only.

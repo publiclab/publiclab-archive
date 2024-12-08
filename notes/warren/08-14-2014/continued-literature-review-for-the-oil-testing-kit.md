@@ -1,12 +1,18 @@
 ---
-nid: 11053
 title: Continued literature review for the Oil Testing Kit
-path: public/static/notes/warren/08-14-2014/continued-literature-review-for-the-oil-testing-kit.md
+tagnames: spectrometer, spectrum-matching, fluorescence, heavy-metals, matching, closest-match, literature, identifying-oil, oil-testing-kit, lifs, lif, humic-acid, humic, humic-fluorescence, plant-matter
+author: warren
+path: /notes/warren/08-14-2014/continued-literature-review-for-the-oil-testing-kit.md
+nid: 11053
 uid: 1
-tagnames: spectrometer,spectrum-matching,fluorescence,heavy-metals,matching,closest-match,literature,identifying-oil,oil-testing-kit,lifs,lif,humic-acid,humic,humic-fluorescence,plant-matter
+
 ---
 
 # Continued literature review for the Oil Testing Kit
+
+by [warren](../profile/warren) August 14, 2014 22:27
+
+August 14, 2014 22:27 | Tags: [spectrometer](../tag/spectrometer), [spectrum-matching](../tag/spectrum-matching), [fluorescence](../tag/fluorescence), [heavy-metals](../tag/heavy-metals), [matching](../tag/matching), [closest-match](../tag/closest-match), [literature](../tag/literature), [identifying-oil](../tag/identifying-oil), [oil-testing-kit](../tag/oil-testing-kit), [lifs](../tag/lifs), [lif](../tag/lif), [humic-acid](../tag/humic-acid), [humic](../tag/humic), [humic-fluorescence](../tag/humic-fluorescence), [plant-matter](../tag/plant-matter)
 
 ##What I want to do
 

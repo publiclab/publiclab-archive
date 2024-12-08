@@ -1,12 +1,18 @@
 ---
-nid: 11513
 title: New Orleans Water Quality Meet-up
-path: public/static/notes/stevie/01-08-2015/new-orleans-water-quality-meet-up.md
+tagnames: gulf-coast, event, water-quality, water, event:rsvp, rsvp:stevie, rsvp:geraldmc, coqui, urbanwaters, waterquality, date:01-24-2015, rsvp:gracecagle, rsvp:eustatic
+author: stevie
+path: /notes/stevie/01-08-2015/new-orleans-water-quality-meet-up.md
+nid: 11513
 uid: 422561
-tagnames: gulf-coast,event,water-quality,water,event:rsvp,rsvp:stevie,rsvp:geraldmc,coqui,urbanwaters,waterquality,date:01-24-2015,rsvp:gracecagle,rsvp:eustatic
+
 ---
 
 # New Orleans Water Quality Meet-up
+
+by [stevie](../profile/stevie) January 08, 2015 22:57
+
+January 08, 2015 22:57 | Tags: [gulf-coast](../tag/gulf-coast), [event](../tag/event), [water-quality](../tag/water-quality), [water](../tag/water), [event:rsvp](../tag/event:rsvp), [rsvp:stevie](../tag/rsvp:stevie), [rsvp:geraldmc](../tag/rsvp:geraldmc), [coqui](../tag/coqui), [urbanwaters](../tag/urbanwaters), [waterquality](../tag/waterquality), [date:01-24-2015](../tag/date:01-24-2015), [rsvp:gracecagle](../tag/rsvp:gracecagle), [rsvp:eustatic](../tag/rsvp:eustatic)
 
 See the report on this[ meetup here!](http://publiclab.org/notes/stevie/01-27-2015/january-water-quality-meet-up-report)
 

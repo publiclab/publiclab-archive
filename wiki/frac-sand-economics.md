@@ -1,12 +1,18 @@
 ---
-nid: 14648
 title: Building a Frac Sand Economic Assessment 
-path: public/static/wiki/frac-sand-economics.md
+tagnames: wisconsin, frac-sand, parent:frac-sand, parent:frac-sand-advocacy-leverage-points, reclamation
+author: gretchengehrke
+path: /wiki/frac-sand-economics.md
+nid: 14648
 uid: 430549
-tagnames: wisconsin,frac-sand,parent:frac-sand,parent:frac-sand-advocacy-leverage-points,reclamation
+
 ---
 
 # Building a Frac Sand Economic Assessment 
+
+by [gretchengehrke](../profile/gretchengehrke)
+
+July 13, 2017 19:49 | Tags: [wisconsin](../tag/wisconsin), [frac-sand](../tag/frac-sand), [parent:frac-sand](../tag/parent:frac-sand), [parent:frac-sand-advocacy-leverage-points](../tag/parent:frac-sand-advocacy-leverage-points), [reclamation](../tag/reclamation)
 
 Economic factors are important to consider when planning or advocating for a community or region's future. Unfortunately, there is often a false dichotomy presented by industries about the environment _versus_ the economy, and there is frequently the problematic assertion that an industry is _always_ good for an economy. This sort of framing facilitates incomplete assessments of an industry's economic impact, often inflating the local economic benefits and dismissing the economic and cultural benefits of a healthy environment. 
 

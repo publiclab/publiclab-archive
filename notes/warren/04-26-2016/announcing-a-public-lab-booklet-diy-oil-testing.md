@@ -1,12 +1,18 @@
 ---
-nid: 13032
 title: Announcing a Public Lab booklet: DIY Oil Testing
-path: public/static/notes/warren/04-26-2016/announcing-a-public-lab-booklet-diy-oil-testing.md
+tagnames: spectrometer, publication, oil-testing-kit, barnstar:basic, homebrew-oil-testing-kit, booklet
+author: warren
+path: /notes/warren/04-26-2016/announcing-a-public-lab-booklet-diy-oil-testing.md
+nid: 13032
 uid: 1
-tagnames: spectrometer,publication,oil-testing-kit,barnstar:basic,homebrew-oil-testing-kit,booklet
+
 ---
 
 # Announcing a Public Lab booklet: DIY Oil Testing
+
+by [warren](../profile/warren) April 26, 2016 15:09
+
+April 26, 2016 15:09 | Tags: [spectrometer](../tag/spectrometer), [publication](../tag/publication), [oil-testing-kit](../tag/oil-testing-kit), [barnstar:basic](../tag/barnstar:basic), [homebrew-oil-testing-kit](../tag/homebrew-oil-testing-kit), [booklet](../tag/booklet)
 
 Hello all -- today we’re announcing a booklet @gretchen, @stevie, @liz and I put together in December and January on the state of the [Oil Testing Kit](/wiki/oil-testing-kit) program, and more broadly on developing open collaborative projects. It has lots of details on oil testing in particular, but also covers topics like working with communities, cultivating online collaboration on hardware, and environmental regulatory issues. It’s full title is **DIY Oil Testing: Progress toward community oil pollution analysis**
 

@@ -1,12 +1,18 @@
 ---
-nid: 12501
 title: Oil Testing Kit: 3 scans of diesel
-path: public/static/notes/liz/12-11-2015/oil-testing-kit-3-scans-of-diesel.md
+tagnames: spectrometer, oil-testing-kit, oil-testing-kit-beta
+author: liz
+path: /notes/liz/12-11-2015/oil-testing-kit-3-scans-of-diesel.md
+nid: 12501
 uid: 7
-tagnames: spectrometer,oil-testing-kit,oil-testing-kit-beta
+
 ---
 
 # Oil Testing Kit: 3 scans of diesel
+
+by [liz](../profile/liz) December 11, 2015 20:58
+
+December 11, 2015 20:58 | Tags: [spectrometer](../tag/spectrometer), [oil-testing-kit](../tag/oil-testing-kit), [oil-testing-kit-beta](../tag/oil-testing-kit-beta)
 
 Here is a screenshot of three scans of diesel oil, set https://spectralworkbench.org/sets/2877 : 
 

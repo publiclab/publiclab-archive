@@ -1,12 +1,18 @@
 ---
-nid: 30121
 title: Does this plume count as a violation under Method 9 Opacity? (photos)
-path: public/static/notes/eustatic/03-11-2022/does-this-plume-count-as-a-violation-under-method-9-opacity-photos.md
+tagnames: gulf-coast, louisiana, epa, air-quality, coal, petcoke, coal-export, dredge, question:air-quality, question:general, general, particulate-matter, air-pollution, zoom:6, cancer-alley, lat:30.050076, docks, lon:-90.659179
+author: eustatic
+path: /03-11-2022/does-this-plume-count-as-a-violation-under-method-9-opacity-photos.md
+nid: 30121
 uid: 379
-tagnames: gulf-coast,louisiana,epa,air-quality,coal,petcoke,coal-export,dredge,question:air-quality,question:general,general,particulate-matter,air-pollution,zoom:6,cancer-alley,lat:30.050076,docks,lon:-90.659179
+
 ---
 
 # Does this plume count as a violation under Method 9 Opacity? (photos)
+
+by [eustatic](../profile/eustatic) March 11, 2022 19:48
+
+March 11, 2022 19:48 | Tags: [gulf-coast](../tag/gulf-coast), [louisiana](../tag/louisiana), [epa](../tag/epa), [air-quality](../tag/air-quality), [coal](../tag/coal), [petcoke](../tag/petcoke), [coal-export](../tag/coal-export), [dredge](../tag/dredge), [question:air-quality](../tag/question:air-quality), [question:general](../tag/question:general), [general](../tag/general), [particulate-matter](../tag/particulate-matter), [air-pollution](../tag/air-pollution), [zoom:6](../tag/zoom:6), [cancer-alley](../tag/cancer-alley), [lat:30.050076](../tag/lat:30.050076), [docks](../tag/docks), [lon:-90.659179](../tag/lon:-90.659179)
 
 Does this count? It is an operations fugitive emissions point source for Rain CII Carbon in St John Parish, Louisiana.
 

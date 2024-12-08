@@ -1,12 +1,18 @@
 ---
-nid: 24793
 title: Outreachy Proposal: Comment Editor Overhaul Project
-path: public/static/notes/Anavela/10-22-2020/outreachy-proposal-comment-editor-overhaul-project.md
+tagnames: software, first-time-poster, outreachy-winter-2020, outreachy-2020-winter-proposals, response:24687
+author: Anavela
+path: /notes/Anavela/10-22-2020/outreachy-proposal-comment-editor-overhaul-project.md
+nid: 24793
 uid: 725718
-tagnames: software,first-time-poster,outreachy-winter-2020,outreachy-2020-winter-proposals,response:24687
+
 ---
 
 # Outreachy Proposal: Comment Editor Overhaul Project
+
+by [Anavela](../profile/Anavela) October 22, 2020 19:40
+
+October 22, 2020 19:40 | Tags: [software](../tag/software), [first-time-poster](../tag/first-time-poster), [outreachy-winter-2020](../tag/outreachy-winter-2020), [outreachy-2020-winter-proposals](../tag/outreachy-2020-winter-proposals), [response:24687](../tag/response:24687)
 
 # **About Me**
 

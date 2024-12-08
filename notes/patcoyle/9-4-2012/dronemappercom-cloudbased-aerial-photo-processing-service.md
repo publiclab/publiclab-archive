@@ -1,12 +1,18 @@
 ---
-nid: 3645
 title: dronemapper.com cloudbased aerial photo processing service 
-path: public/static/notes/patcoyle/9-4-2012/dronemappercom-cloudbased-aerial-photo-processing-service.md
-uid: 77
 tagnames: 
+author: patcoyle
+path: /notes/patcoyle/9-4-2012/dronemappercom-cloudbased-aerial-photo-processing-service.md
+nid: 3645
+uid: 77
+
 ---
 
 # dronemapper.com cloudbased aerial photo processing service 
+
+by [patcoyle](../profile/patcoyle) September 05, 2012 03:59
+
+September 05, 2012 03:59 | Tags: 
 
 I learned of another cloudbased aerial photo processing service  http://dronemapper.com/
 

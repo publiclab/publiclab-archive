@@ -1,6 +1,6 @@
 # water-level
 
-4 notes and wiki pages
+4 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Jakarta Flood Kite Mapping ](/notes/Willie/02-05-2014/jakarta-flood-kite-mapping) by [willie](../profile/willie)
 - [Installing the water-level monitor](/notes/cfastie/03-10-2018/installing-the-water-level-monitor) by [cfastie](../profile/cfastie)

@@ -1,12 +1,18 @@
 ---
-nid: 23522
 title: Have you used surveys to inform open hardware development?  
-path: public/static/notes/kgradow1/04-30-2020/using-survey-info-to-inform-open-hardware-development.md
+tagnames: air-quality, question:air-quality, question:general, general, question:air-sensors, air-sensors, response:15589
+author: kgradow1
+path: /notes/kgradow1/04-30-2020/using-survey-info-to-inform-open-hardware-development.md
+nid: 23522
 uid: 297929
-tagnames: air-quality,question:air-quality,question:general,general,question:air-sensors,air-sensors,response:15589
+
 ---
 
 # Have you used surveys to inform open hardware development?  
+
+by [kgradow1](../profile/kgradow1) April 30, 2020 15:39
+
+April 30, 2020 15:39 | Tags: [air-quality](../tag/air-quality), [question:air-quality](../tag/question:air-quality), [question:general](../tag/question:general), [general](../tag/general), [question:air-sensors](../tag/question:air-sensors), [air-sensors](../tag/air-sensors), [response:15589](../tag/response:15589)
 
 Hi everyone! My name is Katie. I'm a Community Tech Fellow working on updated documentation for the bucket samplers with Public Lab and Fair Tech Collective. I'd like to explore putting together a simple survey for prospective users -- people who may not be familiar with the bucket grab sampling, but who may be interested in using the bucket for air quality monitoring -- to inform kit documentation.
 

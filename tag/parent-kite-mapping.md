@@ -1,6 +1,6 @@
 # parent-kite-mapping
 
-3 notes and wiki pages
+3 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Fuzzy Tail for Kites](/wiki/en/fuzzy-tail-kites) (wiki)
 - [Kite Mapping Tips](/wiki/kite-mapping-tips) (wiki)

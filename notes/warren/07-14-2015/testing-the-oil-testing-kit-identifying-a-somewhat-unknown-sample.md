@@ -1,12 +1,18 @@
 ---
-nid: 12063
 title: Testing the Oil Testing Kit: identifying a "somewhat unknown" sample
-path: public/static/notes/warren/07-14-2015/testing-the-oil-testing-kit-identifying-a-somewhat-unknown-sample.md
+tagnames: spectrometer, laser, fluorescence, crude, oil-testing-kit, 405nm, response:11173, response:11163, response:12046, activity:spectrometry, activity:spectrometry-sampling
+author: warren
+path: /notes/warren/07-14-2015/testing-the-oil-testing-kit-identifying-a-somewhat-unknown-sample.md
+nid: 12063
 uid: 1
-tagnames: spectrometer,laser,fluorescence,crude,oil-testing-kit,405nm,response:11173,response:11163,response:12046,activity:spectrometry,activity:spectrometry-sampling
+
 ---
 
 # Testing the Oil Testing Kit: identifying a "somewhat unknown" sample
+
+by [warren](../profile/warren) July 14, 2015 19:37
+
+July 14, 2015 19:37 | Tags: [spectrometer](../tag/spectrometer), [laser](../tag/laser), [fluorescence](../tag/fluorescence), [crude](../tag/crude), [oil-testing-kit](../tag/oil-testing-kit), [405nm](../tag/405nm), [response:11173](../tag/response:11173), [response:11163](../tag/response:11163), [response:12046](../tag/response:12046), [activity:spectrometry](../tag/activity:spectrometry), [activity:spectrometry-sampling](../tag/activity:spectrometry-sampling)
 
 I finally made time to test @mathew's [prototype Oil Testing Kit attachment](/notes/mathew/04-07-2015/designing-an-oil-testing-kit-cuvette-frame) for the [Public Lab Spectrometer v3.0](https://store.publiclab.org/products/desktop-spectrometry-kit-3-0), and here are my results. 
 

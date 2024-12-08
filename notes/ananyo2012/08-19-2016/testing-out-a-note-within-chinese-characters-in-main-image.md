@@ -1,12 +1,18 @@
 ---
-nid: 13369
 title: Testing out a note within chinese characters in main image
-path: public/static/notes/ananyo2012/08-19-2016/testing-out-a-note-within-chinese-characters-in-main-image.md
-uid: 468506
 tagnames: 
+author: ananyo2012
+path: /notes/ananyo2012/08-19-2016/testing-out-a-note-within-chinese-characters-in-main-image.md
+nid: 13369
+uid: 468506
+
 ---
 
 # Testing out a note within chinese characters in main image
+
+by [ananyo2012](../profile/ananyo2012) August 19, 2016 13:15
+
+August 19, 2016 13:15 | Tags: 
 
 ###What I want to do
 Testing research note with chinese characters in main image. Testing issue [plots2](https://github.com/publiclab/plots2) [#546](https://github.com/publiclab/plots2/issues/546).

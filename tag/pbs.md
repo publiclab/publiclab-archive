@@ -1,6 +1,6 @@
 # pbs
 
-3 notes and wiki pages
+3 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [PBS IdeaLab article 3d arts inspire environmental research](/notes/liz/3-28-2013/pbs-idealab-article-3d-arts-inspire-environmental-research) by [liz](../profile/liz)
 - [PBS Idea Lab Post: Field Trips](/notes/adam-griffith/3-31-2013/pbs-idea-lab-post-field-trips) by [adam-griffith](../profile/adam-griffith)

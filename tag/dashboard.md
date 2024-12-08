@@ -1,6 +1,6 @@
 # dashboard
 
-9 notes and wiki pages
+9 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Announcing a new dashboard for PublicLab.org](/notes/warren/04-28-2016/announcing-a-new-dashboard-for-publiclab-org) by [warren](../profile/warren)
 - [ShenangoChannel.org - a dashboard for monitoring and sharing](/notes/liz/01-10-2017/shenangochannel-org-a-dashboard-for-monitoring-and-sharing) by [liz](../profile/liz)

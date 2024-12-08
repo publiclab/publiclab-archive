@@ -1,12 +1,18 @@
 ---
-nid: 25288
 title: On the need to answer multiple questions at once in the US Gulf Coast
-path: public/static/notes/eustatic/12-17-2020/on-the-need-to-answer-multiple-questions-at-once-in-the-us-gulf-coast.md
+tagnames: gulf-coast, air-quality, barnstar:basic, zoom:16, lat:29.953744, lon:-90.073642
+author: eustatic
+path: /12-17-2020/on-the-need-to-answer-multiple-questions-at-once-in-the-us-gulf-coast.md
+nid: 25288
 uid: 379
-tagnames: gulf-coast,air-quality,barnstar:basic,zoom:16,lat:29.953744,lon:-90.073642
+
 ---
 
 # On the need to answer multiple questions at once in the US Gulf Coast
+
+by [eustatic](../profile/eustatic) December 17, 2020 18:22
+
+December 17, 2020 18:22 | Tags: [gulf-coast](../tag/gulf-coast), [air-quality](../tag/air-quality), [barnstar:basic](../tag/barnstar:basic), [zoom:16](../tag/zoom:16), [lat:29.953744](../tag/lat:29.953744), [lon:-90.073642](../tag/lon:-90.073642)
 
 Just a response to the Air Quality manuals asking researchers to pick "one question," and problems raised during the "What's in your Air-ea" Public Lab session.
 

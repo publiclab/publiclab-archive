@@ -1,12 +1,18 @@
 ---
-nid: 26574
 title: Are you sampling local air quality? Are you sending results to a lab? Ask these questions! 
-path: public/static/notes/amocorro/05-13-2021/are-you-sampling-local-air-quality-are-you-sending-results-to-a-lab-ask-these-questions.md
+tagnames: air-quality, with:sarasage, bucket-monitor, air-lab-testing, lab-results, question:vvamp
+author: amocorro
+path: /notes/amocorro/05-13-2021/are-you-sampling-local-air-quality-are-you-sending-results-to-a-lab-ask-these-questions.md
+nid: 26574
 uid: 700923
-tagnames: air-quality,with:sarasage,bucket-monitor,air-lab-testing,lab-results,question:vvamp
+
 ---
 
 # Are you sampling local air quality? Are you sending results to a lab? Ask these questions! 
+
+by [amocorro](../profile/amocorro) May 13, 2021 17:04
+
+May 13, 2021 17:04 | Tags: [air-quality](../tag/air-quality), [with:sarasage](../tag/with:sarasage), [bucket-monitor](../tag/bucket-monitor), [air-lab-testing](../tag/air-lab-testing), [lab-results](../tag/lab-results), [question:vvamp](../tag/question:vvamp)
 
 These comments were originally shared by *Public Lab Frontline Community Organizer Fellow* @sarasage, follow along with their Val Verde air quality monitoring team project here: https://publiclab.org/wiki/vvamp
 

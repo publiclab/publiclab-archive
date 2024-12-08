@@ -1,12 +1,18 @@
 ---
-nid: 2677
 title: Help learning to use MapKnitter
-path: public/static/notes/gonzoearth/6-29-2012/help-learning-use-mapknitter.md
+tagnames: balloon-mapping, kite-mapping
+author: gonzoearth
+path: /notes/gonzoearth/6-29-2012/help-learning-use-mapknitter.md
+nid: 2677
 uid: 12
-tagnames: balloon-mapping,kite-mapping
+
 ---
 
 # Help learning to use MapKnitter
+
+by [gonzoearth](../profile/gonzoearth) June 29, 2012 15:32
+
+June 29, 2012 15:32 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping)
 
 Get help learning how to use Mapknitter. the MapKnitter guide is found here http://publiclaboratory.org/wiki/mapknitter
 

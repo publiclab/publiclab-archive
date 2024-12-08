@@ -1,12 +1,18 @@
 ---
-nid: 13897
 title: TechRaking: Sensing the News
-path: public/static/notes/Matt_P/02-02-2017/techraking-sensing-the-news.md
+tagnames: community, event, sensors, engagement
+author: Matt_P
+path: /notes/Matt_P/02-02-2017/techraking-sensing-the-news.md
+nid: 13897
 uid: 343508
-tagnames: community,event,sensors,engagement
+
 ---
 
 # TechRaking: Sensing the News
+
+by [Matt_P](../profile/Matt_P) February 02, 2017 18:27
+
+February 02, 2017 18:27 | Tags: [community](../tag/community), [event](../tag/event), [sensors](../tag/sensors), [engagement](../tag/engagement)
 
 https://www.eventbrite.com/e/techraking-sensing-the-news-tickets-30473667560
 

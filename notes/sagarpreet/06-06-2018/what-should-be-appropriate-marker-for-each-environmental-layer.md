@@ -1,12 +1,18 @@
 ---
-nid: 16438
 title: What should be appropriate marker for each environmental layer ?
-path: public/static/notes/sagarpreet/06-06-2018/what-should-be-appropriate-marker-for-each-environmental-layer.md
+tagnames: question:general, general
+author: sagarpreet
+path: /notes/sagarpreet/06-06-2018/what-should-be-appropriate-marker-for-each-environmental-layer.md
+nid: 16438
 uid: 516343
-tagnames: question:general,general
+
 ---
 
 # What should be appropriate marker for each environmental layer ?
+
+by [sagarpreet](../profile/sagarpreet) June 06, 2018 11:23
+
+June 06, 2018 11:23 | Tags: [question:general](../tag/question:general), [general](../tag/general)
 
 As part of Google Summer of Code program , i have been working on Leaflet Environmental Layers Library . 
 

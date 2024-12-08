@@ -1,12 +1,18 @@
 ---
-nid: 13408
 title: 2015 Public Lab annual report
-path: public/static/notes/Shannon/08-31-2016/2015-public-lab-annual-report.md
-uid: 9
 tagnames: annual-report
+author: Shannon
+path: /notes/Shannon/08-31-2016/2015-public-lab-annual-report.md
+nid: 13408
+uid: 9
+
 ---
 
 # 2015 Public Lab annual report
+
+by [Shannon](../profile/Shannon) August 31, 2016 01:21
+
+August 31, 2016 01:21 | Tags: [annual-report](../tag/annual-report)
 
 Below and attached is the 2015 Public Lab Annual Report, designed by Maria del Carmen Lamadrid and written by Public Lab staff and organizers.
 

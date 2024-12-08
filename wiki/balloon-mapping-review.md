@@ -1,12 +1,18 @@
 ---
-nid: 700
 title: balloon mapping review
-path: public/static/wiki/balloon-mapping-review.md
-uid: 12
 tagnames: 
+author: gonzoearth
+path: /wiki/balloon-mapping-review.md
+nid: 700
+uid: 12
+
 ---
 
 # balloon mapping review
+
+by [gonzoearth](../profile/gonzoearth)
+
+January 19, 2012 00:42 | Tags: 
 
 Questions for Balloons/Kites
 

@@ -1,12 +1,18 @@
 ---
-nid: 9039
 title: Smartphone spectrometer molded samples have arrived!
-path: public/static/notes/warren/08-20-2013/smartphone-spectrometer-molded-samples-have-arrived.md
+tagnames: spectrometer, iphone, kickstarter, molding, smartphone-spectrometer, prototype
+author: warren
+path: /notes/warren/08-20-2013/smartphone-spectrometer-molded-samples-have-arrived.md
+nid: 9039
 uid: 1
-tagnames: spectrometer,iphone,kickstarter,molding,smartphone-spectrometer,prototype
+
 ---
 
 # Smartphone spectrometer molded samples have arrived!
+
+by [warren](../profile/warren) August 20, 2013 17:03
+
+August 20, 2013 17:03 | Tags: [spectrometer](../tag/spectrometer), [iphone](../tag/iphone), [kickstarter](../tag/kickstarter), [molding](../tag/molding), [smartphone-spectrometer](../tag/smartphone-spectrometer), [prototype](../tag/prototype)
 
 We are now making final plastics decisions and setting up the final run of 1000! Just wanted to share these images as the samples arrived moments ago and they look great.
 

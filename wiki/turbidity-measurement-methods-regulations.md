@@ -1,12 +1,18 @@
 ---
-nid: 15406
 title: Turbidity Measurement Methods & Regulations
-path: public/static/wiki/turbidity-measurement-methods-regulations.md
+tagnames: water-quality, turbidity, water-sensors, nephelometry, water-regulation, parent:water-quality
+author: gilbert
+path: /wiki/turbidity-measurement-methods-regulations.md
+nid: 15406
 uid: 508551
-tagnames: water-quality,turbidity,water-sensors,nephelometry,water-regulation,parent:water-quality
+
 ---
 
 # Turbidity Measurement Methods & Regulations
+
+by [gilbert](../profile/gilbert)
+
+December 20, 2017 20:15 | Tags: [water-quality](../tag/water-quality), [turbidity](../tag/turbidity), [water-sensors](../tag/water-sensors), [nephelometry](../tag/nephelometry), [water-regulation](../tag/water-regulation), [parent:water-quality](../tag/parent:water-quality)
 
 ##Turbidity Measurement Methods & Regulations
 [Photo Credit: USGS Water Science School]

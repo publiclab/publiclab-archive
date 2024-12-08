@@ -1,12 +1,18 @@
 ---
-nid: 27828
 title: Historical Chart Of Odor Complaints for VVAMP
-path: public/static/notes/denissebn_06/10-04-2021/historical-chart-of-odor-complaints-for-vvamp.md
+tagnames: california, database, air-quality, bucket, environmental-advocacy, with:sarasage, community-voice, VVAMP, air-sample
+author: denissebn_06
+path: /notes/denissebn_06/10-04-2021/historical-chart-of-odor-complaints-for-vvamp.md
+nid: 27828
 uid: 749988
-tagnames: california,database,air-quality,bucket,environmental-advocacy,with:sarasage,community-voice,VVAMP,air-sample
+
 ---
 
 # Historical Chart Of Odor Complaints for VVAMP
+
+by [denissebn_06](../profile/denissebn_06) October 04, 2021 21:36
+
+October 04, 2021 21:36 | Tags: [california](../tag/california), [database](../tag/database), [air-quality](../tag/air-quality), [bucket](../tag/bucket), [environmental-advocacy](../tag/environmental-advocacy), [with:sarasage](../tag/with:sarasage), [community-voice](../tag/community-voice), [VVAMP](../tag/VVAMP), [air-sample](../tag/air-sample)
 
 <div class="alert alert-info" role="alert"> <a href="https://publiclab.org/notes/denissebn_06/10-04-2021/historical-chart-of-odor-complaints-for-vvamp#Cuadro+hist%C3%B3rico+de+quejas+por+mal+olor+para+VVAMP ">Haz click aqui para leer el contenido de esta página en español</a>.</div>
 

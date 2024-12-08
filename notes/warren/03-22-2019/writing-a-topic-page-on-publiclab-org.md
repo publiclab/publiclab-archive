@@ -1,12 +1,18 @@
 ---
-nid: 18779
 title: Writing a topic page on PublicLab.org
-path: public/static/notes/warren/03-22-2019/writing-a-topic-page-on-publiclab-org.md
+tagnames: website, guides, how-to, activities, authoring-help, topics, with:a1ahna, topic-pages, activity:website, with:bhamster
+author: warren
+path: /notes/warren/03-22-2019/writing-a-topic-page-on-publiclab-org.md
+nid: 18779
 uid: 1
-tagnames: website,guides,how-to,activities,authoring-help,topics,with:a1ahna,topic-pages,activity:website,with:bhamster
+
 ---
 
 # Writing a topic page on PublicLab.org
+
+by [warren](../profile/warren) March 19, 2019 18:10
+
+March 19, 2019 18:10 | Tags: [website](../tag/website), [guides](../tag/guides), [how-to](../tag/how-to), [activities](../tag/activities), [authoring-help](../tag/authoring-help), [topics](../tag/topics), [with:a1ahna](../tag/with:a1ahna), [topic-pages](../tag/topic-pages), [activity:website](../tag/activity:website), [with:bhamster](../tag/with:bhamster)
 
 Creating a topic page is a strategy for organizing community knowledge on the Public Lab website; by grouping peoples' work under common themes, we make it easier to browse and engage with.
 

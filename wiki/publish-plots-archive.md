@@ -1,12 +1,18 @@
 ---
-nid: 870
 title: Publish in the PLOTS archive
-path: public/static/wiki/publish-plots-archive.md
+tagnames: balloon-mapping, kite-mapping
+author: warren
+path: /wiki/publish-plots-archive.md
+nid: 870
 uid: 1
-tagnames: balloon-mapping,kite-mapping
+
 ---
 
 # Publish in the PLOTS archive
+
+by [warren](../profile/warren), [gonzoearth](../profile/gonzoearth), [medikid](../profile/medikid), [eustatic](../profile/eustatic), [patcoyle](../profile/patcoyle), [csik](../profile/csik), [cfastie](../profile/cfastie), [jbreen](../profile/jbreen)
+
+February 29, 2012 15:34 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping)
 
 We're looking for maps to publish in the open data [PLOTS Archive](/archive). To get your data published, please follow the instructions below. (This page generally replaces [the previous version](/wiki/open-sourcing-mapknitter-data))
 

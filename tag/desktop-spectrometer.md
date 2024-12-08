@@ -1,6 +1,6 @@
 # desktop-spectrometer
 
-33 notes and wiki pages
+33 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [ABSOLUTE OPTICAL CALIBRATION USING A SIMPLE TUNGSTEN LIGHT BULB](/notes/xiphmont/2-8-2012/absolute-optical-calibration-using-simple-tungsten-light-bulb) by [xiphmont](../profile/xiphmont)
 - [Ideas from the $400 and $200 Kickstarter backers on how they will use the spectrometer](/notes/shannon/12-13-2012/ideas-400-and-200-kickstarter-backers-how-they-will-use-spectrometer) by [Shannon](../profile/Shannon)

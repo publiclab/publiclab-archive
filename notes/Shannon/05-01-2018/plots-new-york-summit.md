@@ -1,12 +1,18 @@
 ---
-nid: 188
 title: PLOTS New York Summit
-path: public/static/notes/Shannon/05-01-2018/plots-new-york-summit.md
-uid: 9
 tagnames: new-york-city
+author: Shannon
+path: /notes/Shannon/05-01-2018/plots-new-york-summit.md
+nid: 188
+uid: 9
+
 ---
 
 # PLOTS New York Summit
+
+by [Shannon](../profile/Shannon) April 13, 2011 23:34
+
+April 13, 2011 23:34 | Tags: [new-york-city](../tag/new-york-city)
 
 <a title="DSC_0188 by publiclaboratory, on Flickr" href="https://www.flickr.com/photos/publiclaboratory/5596571809/"><img src="http://farm6.static.flickr.com/5109/5596571809_58e870fe73.jpg" alt="DSC_0188" width="500" height="332" /></a>
 

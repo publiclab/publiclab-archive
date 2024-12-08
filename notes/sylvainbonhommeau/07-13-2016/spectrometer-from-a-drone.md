@@ -1,12 +1,18 @@
 ---
-nid: 13286
 title: Spectrometer from a drone
-path: public/static/notes/sylvainbonhommeau/07-13-2016/spectrometer-from-a-drone.md
+tagnames: spectrometer, hyperspectral, drone, question:spectrometry, drone-spectrometry
+author: sylvainbonhommeau
+path: /notes/sylvainbonhommeau/07-13-2016/spectrometer-from-a-drone.md
+nid: 13286
 uid: 483452
-tagnames: spectrometer,hyperspectral,drone,question:spectrometry,drone-spectrometry
+
 ---
 
 # Spectrometer from a drone
+
+by [sylvainbonhommeau](../profile/sylvainbonhommeau) July 13, 2016 04:05
+
+July 13, 2016 04:05 | Tags: [spectrometer](../tag/spectrometer), [hyperspectral](../tag/hyperspectral), [drone](../tag/drone), [question:spectrometry](../tag/question:spectrometry), [drone-spectrometry](../tag/drone-spectrometry)
 
 ###Hi guys and congrats on this project, it's amazing! I'd like to know if it would be possible to take imagery from a drone using your spectrometer with a high quality cam? 
 

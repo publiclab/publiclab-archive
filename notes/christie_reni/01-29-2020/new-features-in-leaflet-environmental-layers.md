@@ -1,12 +1,18 @@
 ---
-nid: 22425
 title: New UI features in Leaflet Environmental Layers
-path: public/static/notes/christie_reni/01-29-2020/new-features-in-leaflet-environmental-layers.md
-uid: 630062
 tagnames: blog-submission
+author: christie_reni
+path: /notes/christie_reni/01-29-2020/new-features-in-leaflet-environmental-layers.md
+nid: 22425
+uid: 630062
+
 ---
 
 # New UI features in Leaflet Environmental Layers
+
+by [christie_reni](../profile/christie_reni) January 29, 2020 18:03
+
+January 29, 2020 18:03 | Tags: [blog-submission](../tag/blog-submission)
 
 Leaflet environmental layers library has some new features for browsing layer data. Among them is the new layers menu that replaces leaflet's default layers control and a minimal mode control that changes how markers are rendered on the map.
 

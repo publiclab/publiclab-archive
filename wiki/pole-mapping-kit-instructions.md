@@ -1,12 +1,18 @@
 ---
-nid: 12484
 title: Pole Mapping Kit Instructions
-path: public/static/wiki/pole-mapping-kit-instructions.md
+tagnames: polemapping, pole-aerial-photography, pole-mapping, activities:aerial-photography, method, parent:pole-mapping
+author: tonyc
+path: /wiki/pole-mapping-kit-instructions.md
+nid: 12484
 uid: 447491
-tagnames: polemapping,pole-aerial-photography,pole-mapping,activities:aerial-photography,method,parent:pole-mapping
+
 ---
 
 # Pole Mapping Kit Instructions
+
+by [ecta64](../profile/ecta64), [tonyc](../profile/tonyc), [abdul](../profile/abdul)
+
+December 07, 2015 17:42 | Tags: [polemapping](../tag/polemapping), [pole-aerial-photography](../tag/pole-aerial-photography), [pole-mapping](../tag/pole-mapping), [activities:aerial-photography](../tag/activities:aerial-photography), [method](../tag/method), [parent:pole-mapping](../tag/parent:pole-mapping)
 
 #Pole mapping Kit instructions v 0.0.1
 

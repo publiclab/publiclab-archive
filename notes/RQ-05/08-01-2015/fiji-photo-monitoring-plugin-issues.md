@@ -1,12 +1,18 @@
 ---
-nid: 12114
 title: Fiji Photo Monitoring Plugin issues
-path: public/static/notes/RQ-05/08-01-2015/fiji-photo-monitoring-plugin-issues.md
+tagnames: near-infrared-camera, ndvi, imagej, infragram, infrablue, fiji, photo-monitoring-plugin
+author: RQ-05
+path: /notes/RQ-05/08-01-2015/fiji-photo-monitoring-plugin-issues.md
+nid: 12114
 uid: 440673
-tagnames: near-infrared-camera,ndvi,imagej,infragram,infrablue,fiji,photo-monitoring-plugin
+
 ---
 
 # Fiji Photo Monitoring Plugin issues
+
+by [RQ-05](../profile/RQ-05) August 01, 2015 22:03
+
+August 01, 2015 22:03 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [imagej](../tag/imagej), [infragram](../tag/infragram), [infrablue](../tag/infrablue), [fiji](../tag/fiji), [photo-monitoring-plugin](../tag/photo-monitoring-plugin)
 
 **Has anyone seen this error while trying to process an NDVI image.? I can't get this to work. :  (**
 

@@ -1,6 +1,6 @@
 # fungus
 
-5 notes and wiki pages
+5 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [FungalFest](/notes/cfastie/09-03-2013/fungalfest) by [cfastie](../profile/cfastie)
 - [Solutions to Plastic Pollution](/notes/Johudson1/06-22-2015/solutions-to-plastic-pollution) by [Johudson1](../profile/Johudson1)

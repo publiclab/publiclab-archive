@@ -1,12 +1,18 @@
 ---
-nid: 8983
 title: Improvements and additions to the new website
-path: public/static/notes/warren/08-08-2013/improvements-and-additions-to-the-new-website.md
+tagnames: website, plots2
+author: warren
+path: /notes/warren/08-08-2013/improvements-and-additions-to-the-new-website.md
+nid: 8983
 uid: 1
-tagnames: website,plots2
+
 ---
 
 # Improvements and additions to the new website
+
+by [warren](../profile/warren) August 08, 2013 21:51
+
+August 08, 2013 21:51 | Tags: [website](../tag/website), [plots2](../tag/plots2)
 
 The past few weeks have seen a number of small improvements to the site, and I wanted to highlight a few which folks have asked for in the past:
 

@@ -1,12 +1,18 @@
 ---
-nid: 8196
 title: Infragram Tidepooling
-path: public/static/notes/wward1400/06-14-2013/infragram-tidepooling.md
+tagnames: near-infrared-camera, infragram, intertidal, coastalmonitoring
+author: wward1400
+path: /notes/wward1400/06-14-2013/infragram-tidepooling.md
+nid: 8196
 uid: 46742
-tagnames: near-infrared-camera,infragram,intertidal,coastalmonitoring
+
 ---
 
 # Infragram Tidepooling
+
+by [wward1400](../profile/wward1400) June 14, 2013 06:09
+
+June 14, 2013 06:09 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [infragram](../tag/infragram), [intertidal](../tag/intertidal), [coastalmonitoring](../tag/coastalmonitoring)
 
 Tidepooling is a good way to get outside & go explore a new area more in depth.  I went out to Seacoast Science Center & Odiorne Park in Rye, NH, to see what I could capture with the Infragram camera.  
 

@@ -1,12 +1,18 @@
 ---
-nid: 10423
 title: Nondestructive Analysis of ivory, bone, horn etc
-path: public/static/notes/anibalrod/05-05-2014/nondestructive-analysis-of-ivory-bone-horn-etc.md
+tagnames: ivory, bone, horn
+author: anibalrod
+path: /notes/anibalrod/05-05-2014/nondestructive-analysis-of-ivory-bone-horn-etc.md
+nid: 10423
 uid: 421831
-tagnames: ivory,bone,horn
+
 ---
 
 # Nondestructive Analysis of ivory, bone, horn etc
+
+by [anibalrod](../profile/anibalrod) May 05, 2014 12:25
+
+May 05, 2014 12:25 | Tags: [ivory](../tag/ivory), [bone](../tag/bone), [horn](../tag/horn)
 
 ###What I want to do
 

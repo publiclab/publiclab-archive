@@ -1,12 +1,18 @@
 ---
-nid: 10634
 title: Infragram Point & Shoot
-path: public/static/wiki/infragram-point-shoot.md
+tagnames: infragram, parent:infragram
+author: warren
+path: /wiki/infragram-point-shoot.md
+nid: 10634
 uid: 1
-tagnames: infragram,parent:infragram
+
 ---
 
 # Infragram Point & Shoot
+
+by [warren](../profile/warren), [abdul](../profile/abdul), [mathew](../profile/mathew), [natalie](../profile/natalie)
+
+June 30, 2014 16:12 | Tags: [infragram](../tag/infragram), [parent:infragram](../tag/parent:infragram)
 
 The Infragram Point & Shoot is a handheld, battery powered mini camera (a modified Mobius Action Cam) for doing plant analysis. We [modify these](https://publiclab.org/notes/warren/10-19-2017/install-a-filter-or-change-the-lens-in-a-mobius-action-cam) to replace the infrared-blocking filter with a red filter, effectively exchanging its blue light channel for infrared light. 
 

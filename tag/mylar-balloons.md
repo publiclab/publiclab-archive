@@ -1,6 +1,6 @@
 # mylar-balloons
 
-3 notes and wiki pages
+3 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Gowanus Canal balloon tests](/notes/warren/2-19-2011/gowanus-canal-balloon-tests) by [warren](../profile/warren)
 - [Mobius non-fish eye and small lifter wrapup](/notes/patcoyle/09-07-2015/mobius-non-fish-eye-and-small-lifter-wrapup) by [patcoyle](../profile/patcoyle)

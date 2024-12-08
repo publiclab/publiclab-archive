@@ -1,12 +1,18 @@
 ---
-nid: 13836
 title: Is using iodine a good way to determine if rice grains are real or are merely bits of plastic?
-path: public/static/notes/liz/01-04-2017/is-using-iodine-a-good-way-to-determine-if-rice-grains-are-real-or-are-merely-bits-of-plastic.md
+tagnames: rice, question:question, iodine, starch
+author: liz
+path: /notes/liz/01-04-2017/is-using-iodine-a-good-way-to-determine-if-rice-grains-are-real-or-are-merely-bits-of-plastic.md
+nid: 13836
 uid: 7
-tagnames: rice,question:question,iodine,starch
+
 ---
 
 # Is using iodine a good way to determine if rice grains are real or are merely bits of plastic?
+
+by [liz](../profile/liz) January 04, 2017 18:32
+
+January 04, 2017 18:32 | Tags: [rice](../tag/rice), [question:question](../tag/question:question), [iodine](../tag/iodine), [starch](../tag/starch)
 
 ###What I want to do or know
 

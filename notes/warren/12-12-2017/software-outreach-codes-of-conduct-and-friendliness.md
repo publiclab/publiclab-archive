@@ -1,12 +1,18 @@
 ---
-nid: 15358
 title: Software outreach: Codes of conduct and friendliness
-path: public/static/notes/warren/12-12-2017/software-outreach-codes-of-conduct-and-friendliness.md
+tagnames: community, outreach, organizing, wwg, conduct, software-outreach, code-of-conduct, series:software-outreach, friendliness, welcoming, codes-of-conduct
+author: warren
+path: /notes/warren/12-12-2017/software-outreach-codes-of-conduct-and-friendliness.md
+nid: 15358
 uid: 1
-tagnames: community,outreach,organizing,wwg,conduct,software-outreach,code-of-conduct,series:software-outreach,friendliness,welcoming,codes-of-conduct
+
 ---
 
 # Software outreach: Codes of conduct and friendliness
+
+by [warren](../profile/warren) December 12, 2017 23:17
+
+December 12, 2017 23:17 | Tags: [community](../tag/community), [outreach](../tag/outreach), [organizing](../tag/organizing), [wwg](../tag/wwg), [conduct](../tag/conduct), [software-outreach](../tag/software-outreach), [code-of-conduct](../tag/code-of-conduct), [series:software-outreach](../tag/series:software-outreach), [friendliness](../tag/friendliness), [welcoming](../tag/welcoming), [codes-of-conduct](../tag/codes-of-conduct)
 
 This is part 2 in our [Software Outreach series](/wiki/software-outreach) -- and I wanted to note that a lot of things we're doing in software contributor outreach at Public Lab also apply to outreach more broadly across Public Lab.  
 

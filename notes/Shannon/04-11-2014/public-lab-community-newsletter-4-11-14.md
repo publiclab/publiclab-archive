@@ -1,12 +1,18 @@
 ---
-nid: 10300
 title: Public Lab community newsletter 4.11.14
-path: public/static/notes/Shannon/04-11-2014/public-lab-community-newsletter-4-11-14.md
+tagnames: newsletter, newsletter-archive
+author: Shannon
+path: /notes/Shannon/04-11-2014/public-lab-community-newsletter-4-11-14.md
+nid: 10300
 uid: 9
-tagnames: newsletter,newsletter-archive
+
 ---
 
 # Public Lab community newsletter 4.11.14
+
+by [Shannon](../profile/Shannon) April 11, 2014 19:52
+
+April 11, 2014 19:52 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
 
 This week in the Public Lab community newsletter, check out some incredible data milestones Public Labbers have reached, join the nonprofit team in Portland and attend meet-ups in Taipei and Washington DC. Enjoy!
 

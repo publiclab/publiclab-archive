@@ -1,12 +1,18 @@
 ---
-nid: 15235
 title: Make a narrow slit for a DIY spectrometer out of paper
-path: public/static/notes/warren/11-24-2017/make-a-narrow-slit-for-a-diy-spectrometer-out-of-paper.md
+tagnames: spectrometry, slit, papercraft, activity:spectrometry, activity:foldable-spec, foldable-spec, activity:papercraft-spec
+author: warren
+path: /notes/warren/11-24-2017/make-a-narrow-slit-for-a-diy-spectrometer-out-of-paper.md
+nid: 15235
 uid: 1
-tagnames: spectrometry,slit,papercraft,activity:spectrometry,activity:foldable-spec,foldable-spec,activity:papercraft-spec
+
 ---
 
 # Make a narrow slit for a DIY spectrometer out of paper
+
+by [warren](../profile/warren) November 24, 2017 19:52
+
+November 24, 2017 19:52 | Tags: [spectrometry](../tag/spectrometry), [slit](../tag/slit), [papercraft](../tag/papercraft), [activity:spectrometry](../tag/activity:spectrometry), [activity:foldable-spec](../tag/activity:foldable-spec), [foldable-spec](../tag/foldable-spec), [activity:papercraft-spec](../tag/activity:papercraft-spec)
 
 Spectrometers (see #spectrometry) require a narrow slit for light to pass through, so you can get a super narrow beam of light -- this is then split by color using a prism or diffraction grating. Many [Public Lab kits](http://store.publiclab.org) use slits [printed onto film negatives](https://publiclab.myshopify.com/collections/spectrometry/products/acetate-slit-bundle), which is a really nice and precise way to make slits, but is not always easy for people to make themselves.
 

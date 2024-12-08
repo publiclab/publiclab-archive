@@ -1,12 +1,18 @@
 ---
-nid: 18933
 title: Introducing Leaflet Blurred Location Display Library .
-path: public/static/notes/sagarpreet/04-02-2019/introducing-leaflet-blurred-location-display.md
+tagnames: website, blog, leaflet, location, lat:28, lon:77, location-privacy, f3
+author: sagarpreet
+path: /notes/sagarpreet/04-02-2019/introducing-leaflet-blurred-location-display.md
+nid: 18933
 uid: 516343
-tagnames: website,blog,leaflet,location,lat:28,lon:77,location-privacy,f3
+
 ---
 
 # Introducing Leaflet Blurred Location Display Library .
+
+by [sagarpreet](../profile/sagarpreet) April 02, 2019 08:02
+
+April 02, 2019 08:02 | Tags: [website](../tag/website), [blog](../tag/blog), [leaflet](../tag/leaflet), [location](../tag/location), [lat:28](../tag/lat:28), [lon:77](../tag/lon:77), [location-privacy](../tag/location-privacy), [f3](../tag/f3)
 
 _Hello everyone ,_
 

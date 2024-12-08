@@ -1,6 +1,6 @@
 # photosynthesis
 
-19 notes and wiki pages
+19 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [PAR](/notes/cfastie/3-16-2013/par) by [cfastie](../profile/cfastie)
 - [Look mom - no cords! ... well, almost](/notes/gbathree/5-1-2013/look-mom-no-cords-well-almost) by [gbathree](../profile/gbathree)

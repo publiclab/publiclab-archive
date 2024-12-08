@@ -1,6 +1,6 @@
 # with-stevie
 
-23 notes and wiki pages
+23 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Hardware design work for the Oil Testing Kit](/notes/mathew/08-01-2014/hardware-design-work-for-the-oil-testing-kit) by [mathew](../profile/mathew)
 - [Better communicate the purpose of research notes](/notes/liz/08-12-2014/better-communicate-the-purpose-of-research-notes) by [liz](../profile/liz)

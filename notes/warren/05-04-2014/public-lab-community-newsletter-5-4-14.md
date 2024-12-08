@@ -1,12 +1,18 @@
 ---
-nid: 10411
 title: Public Lab Community Newsletter 5.4.14
-path: public/static/notes/warren/05-04-2014/public-lab-community-newsletter-5-4-14.md
+tagnames: newsletter, newsletter-archive
+author: warren
+path: /notes/warren/05-04-2014/public-lab-community-newsletter-5-4-14.md
+nid: 10411
 uid: 1
-tagnames: newsletter,newsletter-archive
+
 ---
 
 # Public Lab Community Newsletter 5.4.14
+
+by [warren](../profile/warren) May 04, 2014 16:21
+
+May 04, 2014 16:21 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
 
 _Featured image: an Infragram-converted [Mobius Action Cam](/notes/mathew/05-02-2014/announcing-the-infragram-point-shoot) false-color image, by [Mathew Lippincott](/profile/mathew)_
 

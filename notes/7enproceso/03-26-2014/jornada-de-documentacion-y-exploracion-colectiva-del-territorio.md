@@ -1,12 +1,18 @@
 ---
-nid: 10227
 title: Jornada de documentación y exploración colectiva del territorio
-path: public/static/notes/7enproceso/03-26-2014/jornada-de-documentacion-y-exploracion-colectiva-del-territorio.md
+tagnames: balloon-mapping, spain, event, waste, valldigna, valencia, landscape, iso:es, lang:es, espana, eu, location:blurred, lat:39.1, lon:-0.2, place:valldigna-spain
+author: 7enproceso
+path: /notes/7enproceso/03-26-2014/jornada-de-documentacion-y-exploracion-colectiva-del-territorio.md
+nid: 10227
 uid: 421767
-tagnames: balloon-mapping,spain,event,waste,valldigna,valencia,landscape,iso:es,lang:es,espana,eu,location:blurred,lat:39.1,lon:-0.2,place:valldigna-spain
+
 ---
 
 # Jornada de documentación y exploración colectiva del territorio
+
+by [7enproceso](../profile/7enproceso) March 26, 2014 13:11
+
+March 26, 2014 13:11 | Tags: [balloon-mapping](../tag/balloon-mapping), [spain](../tag/spain), [event](../tag/event), [waste](../tag/waste), [valldigna](../tag/valldigna), [valencia](../tag/valencia), [landscape](../tag/landscape), [iso:es](../tag/iso:es), [lang:es](../tag/lang:es), [espana](../tag/espana), [eu](../tag/eu), [location:blurred](../tag/location:blurred), [lat:39.1](../tag/lat:39.1), [lon:-0.2](../tag/lon:-0.2), [place:valldigna-spain](../tag/place:valldigna-spain)
 
 Hemos organizado una jornada exploradora documentadora en els Clots, lugar situado en la Valldigna entre los términos municipales de Benifairó y Simat (Valencia). Mañana sábado, 5 de abril, hemos quedado a las 12.00 en Benifairó de la Valldigna (cruce calle Castell y calle Sant Roc)
 https://mapsengine.google.com/map/edit?mid=z1cxNiE_-52Q.k2bLSYf_jzuo

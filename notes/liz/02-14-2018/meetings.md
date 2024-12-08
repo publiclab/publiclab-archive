@@ -1,12 +1,18 @@
 ---
-nid: 15737
 title: Meetings? 
-path: public/static/notes/liz/02-14-2018/meetings.md
+tagnames: community, question:general, opencall, question:community
+author: liz
+path: /notes/liz/02-14-2018/meetings.md
+nid: 15737
 uid: 7
-tagnames: community,question:general,opencall,question:community
+
 ---
 
 # Meetings? 
+
+by [liz](../profile/liz) February 14, 2018 23:10
+
+February 14, 2018 23:10 | Tags: [community](../tag/community), [question:general](../tag/question:general), [opencall](../tag/opencall), [question:community](../tag/question:community)
 
 [Open Call][1] has been running for over a year - wow! With its weekly "same time, same place" routine and casual, drop-in format, it's ideal for onboarding newcomers and inviting collaborators in for impromptu check-ins.
 

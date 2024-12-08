@@ -1,12 +1,18 @@
 ---
-nid: 11712
 title: Public Lab Fellows Program
-path: public/static/wiki/fellows.md
+tagnames: community, nonprofit, openair, openwater, fellows, openland, parent:nonprofit-initiatives, contribute
+author: Shannon
+path: /wiki/fellows.md
+nid: 11712
 uid: 9
-tagnames: community,nonprofit,openair,openwater,fellows,openland,parent:nonprofit-initiatives,contribute
+
 ---
 
 # Public Lab Fellows Program
+
+by [stevie](../profile/stevie), [jmacha](../profile/jmacha), [bhamster](../profile/bhamster), [amocorro](../profile/amocorro), [joyofsoy](../profile/joyofsoy), [donblair](../profile/donblair), [pdhixenbaugh](../profile/pdhixenbaugh), [ygzstc](../profile/ygzstc), [Shannon](../profile/Shannon), [warren](../profile/warren)
+
+March 21, 2015 21:31 | Tags: [community](../tag/community), [nonprofit](../tag/nonprofit), [openair](../tag/openair), [openwater](../tag/openwater), [fellows](../tag/fellows), [openland](../tag/openland), [parent:nonprofit-initiatives](../tag/parent:nonprofit-initiatives), [contribute](../tag/contribute)
 
 While anyone may join Public Lab and take part in developing and applying do-it-yourself pollution monitoring techniques, the Public Lab non-profit also supports fellowships that emphasize peer production projects working on community environmental health issues.  Fellowships activities can include:
 

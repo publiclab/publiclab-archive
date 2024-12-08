@@ -1,12 +1,18 @@
 ---
-nid: 428
 title: Staff Call notes 8 5 2011
-path: public/static/wiki/staff-call-notes-8-5-2011.md
-uid: 1
 tagnames: 
+author: warren
+path: /wiki/staff-call-notes-8-5-2011.md
+nid: 428
+uid: 1
+
 ---
 
 # Staff Call notes 8 5 2011
+
+by [warren](../profile/warren)
+
+August 05, 2011 15:40 | Tags: 
 
 Fri, Aug 05 2011: 
 

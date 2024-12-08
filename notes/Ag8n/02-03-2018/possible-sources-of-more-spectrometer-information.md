@@ -1,12 +1,18 @@
 ---
-nid: 15670
 title: Possible sources of more spectrometer information
-path: public/static/notes/Ag8n/02-03-2018/possible-sources-of-more-spectrometer-information.md
+tagnames: spectrometry, question:spectrometry, request:activity
+author: Ag8n
+path: /notes/Ag8n/02-03-2018/possible-sources-of-more-spectrometer-information.md
+nid: 15670
 uid: 520994
-tagnames: spectrometry,question:spectrometry,request:activity
+
 ---
 
 # Possible sources of more spectrometer information
+
+by [Ag8n](../profile/Ag8n) February 03, 2018 00:15
+
+February 03, 2018 00:15 | Tags: [spectrometry](../tag/spectrometry), [question:spectrometry](../tag/question:spectrometry), [request:activity](../tag/request:activity)
 
 Not a question.  Ran across the national science digital library NSDL, the other day.  It's a good source of some tutorials.  Google it, if interested.
 

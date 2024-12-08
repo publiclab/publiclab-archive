@@ -1,12 +1,18 @@
 ---
-nid: 21599
 title: Disaster-response
-path: public/static/wiki/disaster-response.md
+tagnames: disaster-preparedness, disaster-response
+author: stevie
+path: /wiki/disaster-response.md
+nid: 21599
 uid: 422561
-tagnames: disaster-preparedness,disaster-response
+
 ---
 
 # Disaster-response
+
+by [bhamster](../profile/bhamster), [joyofsoy](../profile/joyofsoy), [stevie](../profile/stevie)
+
+November 26, 2019 18:44 | Tags: [disaster-preparedness](../tag/disaster-preparedness), [disaster-response](../tag/disaster-response)
 
 Disaster preparedness and disaster response have come to the forefront of concerns for many climate vulnerable communities. Preparedness can include creating plans for what to do during a disaster and running practice exercises. Response includes personal, community, and government actions taken immediately after a disaster, like carrying out a disaster preparedness plan. Source: [FEMA Emergency Management Institute](https://training.fema.gov/)
 

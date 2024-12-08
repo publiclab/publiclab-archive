@@ -1,11 +1,17 @@
 ---
-nid: 739
 title: Sprout HEAT dinner thermal images
-path: public/static/notes/warren/2-1-2012/sprout-heat-dinner-thermal-images.md
-uid: 1
 tagnames: 
+author: warren
+path: /notes/warren/2-1-2012/sprout-heat-dinner-thermal-images.md
+nid: 739
+uid: 1
+
 ---
 
 # Sprout HEAT dinner thermal images
+
+by [warren](../profile/warren) February 01, 2012 17:49
+
+February 01, 2012 17:49 | Tags: 
 
 Thanks, Shaunalynn for sending these over!<div><br></div><div>People were wearing dark winter clothes so they didn&#39;t show up as well. Still a cool image.</div>

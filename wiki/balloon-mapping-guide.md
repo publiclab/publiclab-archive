@@ -1,12 +1,18 @@
 ---
-nid: 10533
 title: Balloon Mapping Guide
-path: public/static/wiki/balloon-mapping-guide.md
+tagnames: balloon-mapping, kite-mapping, guides, balloon-mapping-kit, guide
+author: warren
+path: /wiki/balloon-mapping-guide.md
+nid: 10533
 uid: 1
-tagnames: balloon-mapping,kite-mapping,guides,balloon-mapping-kit,guide
+
 ---
 
 # Balloon Mapping Guide
+
+by [abdul](../profile/abdul), [warren](../profile/warren)
+
+June 06, 2014 20:41 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [guides](../tag/guides), [balloon-mapping-kit](../tag/balloon-mapping-kit), [guide](../tag/guide)
 
 ###An Illustrated Guide to Grassroots Mapping with Balloons and Kites
 

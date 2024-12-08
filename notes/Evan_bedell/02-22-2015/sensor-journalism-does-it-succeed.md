@@ -1,12 +1,18 @@
 ---
-nid: 11614
 title: Sensor Journalism: Does it Succeed? 
-path: public/static/notes/Evan_bedell/02-22-2015/sensor-journalism-does-it-succeed.md
-uid: 434615
 tagnames: sensor-journalism
+author: Evan_bedell
+path: /notes/Evan_bedell/02-22-2015/sensor-journalism-does-it-succeed.md
+nid: 11614
+uid: 434615
+
 ---
 
 # Sensor Journalism: Does it Succeed? 
+
+by [Evan_bedell](../profile/Evan_bedell) February 22, 2015 23:39
+
+February 22, 2015 23:39 | Tags: [sensor-journalism](../tag/sensor-journalism)
 
 The basic definition of sensor journalism is that it's the method of collecting data from sensors and then using that data to create and tell a story. The rise of sensor journalism has been in an upswing the past few years, with new technology and different ways of acquiring information and data being found and appreciated. While sensor journalism is still in its beginning stages, there are several opportunities and benefits that have arisen from its practice. However, with these opportunities also come a number of challenges.
 

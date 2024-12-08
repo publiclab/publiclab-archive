@@ -1,12 +1,18 @@
 ---
-nid: 1738
 title: GrassrootsMappingBelizeFeb21
-path: public/static/wiki/grassrootsmappingbelizefeb21.md
+tagnames: balloon-mapping, grassrootsmappingwiki
+author: warren
+path: /wiki/grassrootsmappingbelizefeb21.md
+nid: 1738
 uid: 1
-tagnames: balloon-mapping,grassrootsmappingwiki
+
 ---
 
 # GrassrootsMappingBelizeFeb21
+
+by [warren](../profile/warren)
+
+April 21, 2012 14:54 | Tags: [balloon-mapping](../tag/balloon-mapping), [grassrootsmappingwiki](../tag/grassrootsmappingwiki)
 
 (copied from Pat Coyle's entries in the Grassroots Mapping Wiki)
 

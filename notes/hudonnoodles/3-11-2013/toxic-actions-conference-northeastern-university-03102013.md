@@ -1,12 +1,18 @@
 ---
-nid: 6293
 title: Toxic Actions Conference @ Northeastern University, 03/10/2013
-path: public/static/notes/hudonnoodles/3-11-2013/toxic-actions-conference-northeastern-university-03102013.md
+tagnames: balloon-mapping, spectrometer, conferences, thermal-flashlight
+author: Hudonnoodles
+path: /notes/hudonnoodles/3-11-2013/toxic-actions-conference-northeastern-university-03102013.md
+nid: 6293
 uid: 102
-tagnames: balloon-mapping,spectrometer,conferences,thermal-flashlight
+
 ---
 
 # Toxic Actions Conference @ Northeastern University, 03/10/2013
+
+by [Hudonnoodles](../profile/Hudonnoodles) March 11, 2013 23:27
+
+March 11, 2013 23:27 | Tags: [balloon-mapping](../tag/balloon-mapping), [spectrometer](../tag/spectrometer), [conferences](../tag/conferences), [thermal-flashlight](../tag/thermal-flashlight)
 
 Sara Wylie and Jen Hudon represented Public Laboratory at the <a href="http://www.maenvironmentalaction.org/">Environmental Action Conferenc</a>e on Sunday, March 10, 2013. The conference was organized by the <a href="http://www.toxicsaction.org/">Toxic Actions Center</a> and <a href="http://www.massclimateaction.org/">Massachusetts Climate Action Network</a>, and was hosted on Northeastern University's campus in the Curry Student Center. 
 

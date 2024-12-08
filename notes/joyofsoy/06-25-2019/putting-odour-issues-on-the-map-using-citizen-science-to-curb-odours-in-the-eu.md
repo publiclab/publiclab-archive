@@ -1,12 +1,18 @@
 ---
-nid: 19858
 title: Putting Odor Issues on the Map: Using citizen science to curb odors in the EU
-path: public/static/notes/joyofsoy/06-25-2019/putting-odour-issues-on-the-map-using-citizen-science-to-curb-odours-in-the-eu.md
+tagnames: eu, europe, odor, odor-logging, csf, csf16
+author: joyofsoy
+path: /notes/joyofsoy/06-25-2019/putting-odour-issues-on-the-map-using-citizen-science-to-curb-odours-in-the-eu.md
+nid: 19858
 uid: 540844
-tagnames: eu,europe,odor,odor-logging,csf,csf16
+
 ---
 
 # Putting Odor Issues on the Map: Using citizen science to curb odors in the EU
+
+by [joyofsoy](../profile/joyofsoy) June 25, 2019 16:30
+
+June 25, 2019 16:30 | Tags: [eu](../tag/eu), [europe](../tag/europe), [odor](../tag/odor), [odor-logging](../tag/odor-logging), [csf](../tag/csf), [csf16](../tag/csf16)
 
 ***A version of this story from [D-NOSES][1] is published in Public Lab's Community Science Forum, Issue 16. Photos courtesy of D-NOSES.*** 
 

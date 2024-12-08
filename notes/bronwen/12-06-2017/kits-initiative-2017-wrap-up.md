@@ -1,12 +1,18 @@
 ---
-nid: 15324
 title: Kits Initiative 2017 Wrap Up!
-path: public/static/notes/bronwen/12-06-2017/kits-initiative-2017-wrap-up.md
+tagnames: newsletter, kits, kits-initiative
+author: Bronwen
+path: /notes/bronwen/12-06-2017/kits-initiative-2017-wrap-up.md
+nid: 15324
 uid: 237313
-tagnames: newsletter,kits,kits-initiative
+
 ---
 
 # Kits Initiative 2017 Wrap Up!
+
+by [Bronwen](../profile/Bronwen) December 06, 2017 21:38
+
+December 06, 2017 21:38 | Tags: [newsletter](../tag/newsletter), [kits](../tag/kits), [kits-initiative](../tag/kits-initiative)
 
 **2017 was an exciting year for Public Lab Kits Initiative.** We welcomed new team members said goodbye to others, moved our store from its longtime home in Portland Oregon (so long, City of Roses!) to Providence Rhode Island (the donut capital of the USA!), introduced new variations of our aerial mapping kits, and most recently launched our Community Kits program, a initiative designed to support new kits collaborators in developing and sharing their tools with the rest of the world. Read on below to see some of the things that happened this year!
 

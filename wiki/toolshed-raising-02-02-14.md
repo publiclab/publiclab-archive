@@ -1,12 +1,18 @@
 ---
-nid: 9927
 title: Toolshed Raising 02-02-14
-path: public/static/wiki/toolshed-raising-02-02-14.md
+tagnames: somerville-massachusetts, boston, event, toolshed-raising, toolshed
+author: warren
+path: /wiki/toolshed-raising-02-02-14.md
+nid: 9927
 uid: 1
-tagnames: somerville-massachusetts,boston,event,toolshed-raising,toolshed
+
 ---
 
 # Toolshed Raising 02-02-14
+
+by [kgradow1](../profile/kgradow1), [warren](../profile/warren), [kanarinka](../profile/kanarinka)
+
+January 06, 2014 19:51 | Tags: [somerville-massachusetts](../tag/somerville-massachusetts), [boston](../tag/boston), [event](../tag/event), [toolshed-raising](../tag/toolshed-raising), [toolshed](../tag/toolshed)
 
 ###What is it? 
 

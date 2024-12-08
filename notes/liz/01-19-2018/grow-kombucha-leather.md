@@ -1,12 +1,18 @@
 ---
-nid: 15560
 title: Grow kombucha leather
-path: public/static/notes/liz/01-19-2018/grow-kombucha-leather.md
+tagnames: seeks:replications, kombucha-leather, activity:kombucha-leather
+author: liz
+path: /notes/liz/01-19-2018/grow-kombucha-leather.md
+nid: 15560
 uid: 7
-tagnames: seeks:replications,kombucha-leather,activity:kombucha-leather
+
 ---
 
 # Grow kombucha leather
+
+by [liz](../profile/liz) January 19, 2018 19:24
+
+January 19, 2018 19:24 | Tags: [seeks:replications](../tag/seeks:replications), [kombucha-leather](../tag/kombucha-leather), [activity:kombucha-leather](../tag/activity:kombucha-leather)
 
 By [Oliver Kellhammer](http://www.oliverk.org/) and [Parsons Sustainable Systems](https://courses.newschool.edu/courses/PUFY1100)
 

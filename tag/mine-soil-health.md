@@ -1,6 +1,6 @@
 # mine-soil-health
 
-4 notes and wiki pages
+4 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Things to Consider When Testing Soil for Contaminants  ](/notes/DanielleS/03-10-2019/soil-testing-for-contaminants-how-to-and-things-to-consider) by [DanielleS](../profile/DanielleS)
 - [How to Test For Lead in your Environment](/notes/read_holman/04-11-2019/how-to-test-for-lead-in-your-environment) by [read_holman](../profile/read_holman)

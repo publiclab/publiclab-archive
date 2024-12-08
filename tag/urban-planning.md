@@ -1,6 +1,6 @@
 # urban-planning
 
-24 notes and wiki pages
+24 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Thermal photography](/wiki/thermal-photography) (wiki)
 - [Balloon & Kite Mapping](/wiki/balloon-mapping) (wiki)

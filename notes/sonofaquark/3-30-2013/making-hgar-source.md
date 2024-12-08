@@ -1,12 +1,18 @@
 ---
-nid: 6622
 title: making a HgAr source
-path: public/static/notes/sonofaquark/3-30-2013/making-hgar-source.md
-uid: 54330
 tagnames: spectrometer
+author: sonofaquark
+path: /notes/sonofaquark/3-30-2013/making-hgar-source.md
+nid: 6622
+uid: 54330
+
 ---
 
 # making a HgAr source
+
+by [sonofaquark](../profile/sonofaquark) March 30, 2013 17:20
+
+March 30, 2013 17:20 | Tags: [spectrometer](../tag/spectrometer)
 
 High purity Argon has previously been difficult to obtain in small quantities and required expensive tanks. Mercury is everywhere.
 

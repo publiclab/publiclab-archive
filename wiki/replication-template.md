@@ -1,12 +1,18 @@
 ---
-nid: 15798
 title: replication-template
-path: public/static/wiki/replication-template.md
+tagnames: template, parent:templates
+author: warren
+path: /wiki/replication-template.md
+nid: 15798
 uid: 1
-tagnames: template,parent:templates
+
 ---
 
 # replication-template
+
+by [warren](../profile/warren)
+
+February 22, 2018 00:36 | Tags: [template](../tag/template), [parent:templates](../tag/parent:templates)
 
 ### How the activity went
 

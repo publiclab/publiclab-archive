@@ -1,12 +1,18 @@
 ---
-nid: 15319
 title: Help collect environmental sensors + probes on a shared list
-path: public/static/notes/warren/12-06-2017/help-collect-environmental-sensors-probes-on-a-shared-list.md
+tagnames: hydrogen-sulfide, data-logging, activity:data-logging, activity:sensors, requests, activity:requests, response:15308, activity:water-sensors
+author: warren
+path: /notes/warren/12-06-2017/help-collect-environmental-sensors-probes-on-a-shared-list.md
+nid: 15319
 uid: 1
-tagnames: hydrogen-sulfide,data-logging,activity:data-logging,activity:sensors,requests,activity:requests,response:15308,activity:water-sensors
+
 ---
 
 # Help collect environmental sensors + probes on a shared list
+
+by [warren](../profile/warren) December 06, 2017 16:02
+
+December 06, 2017 16:02 | Tags: [hydrogen-sulfide](../tag/hydrogen-sulfide), [data-logging](../tag/data-logging), [activity:data-logging](../tag/activity:data-logging), [activity:sensors](../tag/activity:sensors), [requests](../tag/requests), [activity:requests](../tag/activity:requests), [response:15308](../tag/response:15308), [activity:water-sensors](../tag/activity:water-sensors)
 
 Let's work together to compile information on **different sensors that could be used across these different platforms**. That way, each data logging project doesn't have to develop its own separate documentation for each type of sensor. (above picture of lots of different probes by @shanlter, [of the KnowFlow project](/wiki/knowflow))
 

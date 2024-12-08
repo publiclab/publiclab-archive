@@ -1,12 +1,18 @@
 ---
-nid: 10569
 title: Science for the People
-path: public/static/notes/donblair/06-13-2014/science-for-the-people.md
+tagnames: conferences, massachusetts, umass-amherst, northeast, science-for-the-people
+author: donblair
+path: /notes/donblair/06-13-2014/science-for-the-people.md
+nid: 10569
 uid: 43651
-tagnames: conferences,massachusetts,umass-amherst,northeast,science-for-the-people
+
 ---
 
 # Science for the People
+
+by [donblair](../profile/donblair) June 13, 2014 15:49
+
+June 13, 2014 15:49 | Tags: [conferences](../tag/conferences), [massachusetts](../tag/massachusetts), [umass-amherst](../tag/umass-amherst), [northeast](../tag/northeast), [science-for-the-people](../tag/science-for-the-people)
 
 Just wanted to share with you some materials and footage from an amazing conference that happened at UMass a little while ago that brought together some of the key players in the 'Science for the People' movement from the 1970s and 1980s to reflect upon their goals, what they had accomplished, and what they still hope to accomplish.  I attended the conference, and was struck by how many ideas from the movement seemed useful for our community to consider in our own work.
 

@@ -1,12 +1,18 @@
 ---
-nid: 12733
 title: Reflections of Sensor Journalism
-path: public/static/notes/lily_rugo/02-24-2016/reflections-of-sensor-journalism.md
+tagnames: sensor-journalism, response:12748, hidden:response
+author: lily_rugo
+path: /notes/lily_rugo/02-24-2016/reflections-of-sensor-journalism.md
+nid: 12733
 uid: 461426
-tagnames: sensor-journalism,response:12748,hidden:response
+
 ---
 
 # Reflections of Sensor Journalism
+
+by [lily_rugo](../profile/lily_rugo) February 24, 2016 06:28
+
+February 24, 2016 06:28 | Tags: [sensor-journalism](../tag/sensor-journalism), [response:12748](../tag/response:12748), [hidden:response](../tag/hidden:response)
 
 	Before now, I had never really considered sensor journalism— or even really knew what it was— nor what it means for the future of reporting. On first hearing of sensor journalism, I imagined that it was gathering data from highly specialized instruments that only well-trained journalists could use. But listening to the guest speakers and working our own class workshop, I learned that censorship journalism means taking in data from sensors to tell a story, which is something that journalists do everyday. Using this definition, it’s more exciting to think about the possibilities of storytelling through sensor journalism. 
 	After hearing the presentation by MIT student Lily Bui, I learned that anything that takes in data from the environment— thermometers, step trackers, heart rate monitors, cell phones, and even our own five senses. Because there are many sensors for reporters to use, the opportunities for sensor journalism are many and the data gathered helps not only to tell the story, but also to show how the story impacts the audience. The most obvious examples would be weather and climate based data taken from various meteorological sensors, showing readers how the immediate and near-future weather reports would affect their lives. 

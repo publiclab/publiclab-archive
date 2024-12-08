@@ -1,12 +1,18 @@
 ---
-nid: 14721
 title: Prototyping Kits
-path: public/static/wiki/prototyping-kits.md
+tagnames: kits, parent:kits, kits-initiative, prototyping, prototyping-kits
+author: warren
+path: /wiki/prototyping-kits.md
+nid: 14721
 uid: 1
-tagnames: kits,parent:kits,kits-initiative,prototyping,prototyping-kits
+
 ---
 
 # Prototyping Kits
+
+by [warren](../profile/warren)
+
+August 04, 2017 18:53 | Tags: [kits](../tag/kits), [parent:kits](../tag/parent:kits), [kits-initiative](../tag/kits-initiative), [prototyping](../tag/prototyping), [prototyping-kits](../tag/prototyping-kits)
 
 Prototyping Kits offered by the Public Lab Kits Initiative are in-development kits which we send out for people to help prototype and experiment with, in order to refine and improve. These help support the development of new techniques for monitoring environmental problems. We call these **Prototyping Kits** and they come with a list of challenges and problems to solve.
 

@@ -1,12 +1,18 @@
 ---
-nid: 13379
 title: Internationalization | Getting started as a translator
-path: public/static/wiki/internationalization-getting-started-as-a-translator.md
+tagnames: signing, getting, internationalization, i18n, translator, parent:translation
+author: jiteshxyz
+path: /wiki/internationalization-getting-started-as-a-translator.md
+nid: 13379
 uid: 468400
-tagnames: signing,getting,internationalization,i18n,translator,parent:translation
+
 ---
 
 # Internationalization | Getting started as a translator
+
+by [jiteshxyz](../profile/jiteshxyz)
+
+August 22, 2016 12:25 | Tags: [signing](../tag/signing), [getting](../tag/getting), [internationalization](../tag/internationalization), [i18n](../tag/i18n), [translator](../tag/translator), [parent:translation](../tag/parent:translation)
 
 Internationalization effort of Publiclab's website is entirely present on Transifex - a localization platform.
 

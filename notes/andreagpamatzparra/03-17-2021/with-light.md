@@ -1,11 +1,17 @@
 ---
-nid: 25951
 title: with light
-path: public/static/notes/andreagpamatzparra/03-17-2021/with-light.md
-uid: 747967
 tagnames: first-time-poster
+author: andreagpamatzparra
+path: /notes/andreagpamatzparra/03-17-2021/with-light.md
+nid: 25951
+uid: 747967
+
 ---
 
 # with light
+
+by [andreagpamatzparra](../profile/andreagpamatzparra) March 17, 2021 02:42
+
+March 17, 2021 02:42 | Tags: [first-time-poster](../tag/first-time-poster)
 
 pink glow stick

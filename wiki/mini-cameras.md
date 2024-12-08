@@ -1,12 +1,18 @@
 ---
-nid: 19404
 title: Mini Cameras
-path: public/static/wiki/mini-cameras.md
+tagnames: infragram, gopro, mini-camera, gitup
+author: warren
+path: /wiki/mini-cameras.md
+nid: 19404
 uid: 1
-tagnames: infragram,gopro,mini-camera,gitup
+
 ---
 
 # Mini Cameras
+
+by [warren](../profile/warren)
+
+May 14, 2019 18:17 | Tags: [infragram](../tag/infragram), [gopro](../tag/gopro), [mini-camera](../tag/mini-camera), [gitup](../tag/gitup)
 
 This page collects resources related to the recent wave of #GoPro -like mini cameras that often have features like:
 

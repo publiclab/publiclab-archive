@@ -1,12 +1,18 @@
 ---
-nid: 12482
 title: How can one Infragram photo produce different NDVI results?
-path: public/static/notes/cfastie/12-05-2015/how-can-one-infragram-photo-produce-different-ndvi-results.md
+tagnames: ndvi, infrared, infragram, question:infragram
+author: cfastie
+path: /notes/cfastie/12-05-2015/how-can-one-infragram-photo-produce-different-ndvi-results.md
+nid: 12482
 uid: 554
-tagnames: ndvi,infrared,infragram,question:infragram
+
 ---
 
 # How can one Infragram photo produce different NDVI results?
+
+by [cfastie](../profile/cfastie) December 05, 2015 15:59
+
+December 05, 2015 15:59 | Tags: [ndvi](../tag/ndvi), [infrared](../tag/infrared), [infragram](../tag/infragram), [question:infragram](../tag/question:infragram)
 
 Rutvij bought an infrared Mobius camera ([Infragram Point & Shoot](https://store.publiclab.org/collections/diy-infrared-photography/products/infragram-point-shoot-plant-cam)) from the Public Lab store. He took a photo of a tree and processed it three ways: at infragram.org, with Ned's Photo Monitoring plugin for Fiji, and with python code which predates infragram.org. The results from each method are quite different and he asked me why. I thought this was a good question. Which method is best, and are the others unreliable? If so, should they be removed as options for users who can find links to them at the Public Lab site? Should the process of getting reliable NDVI results be made less confusing for first-time users?
 

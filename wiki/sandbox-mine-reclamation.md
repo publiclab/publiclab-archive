@@ -1,12 +1,18 @@
 ---
-nid: 30079
 title: sandbox-mine-reclamation
-path: public/static/wiki/sandbox-mine-reclamation.md
-uid: 664477
 tagnames: 
+author: bhamster
+path: /wiki/sandbox-mine-reclamation.md
+nid: 30079
+uid: 664477
+
 ---
 
 # sandbox-mine-reclamation
+
+by [bhamster](../profile/bhamster), [laurel_mire](../profile/laurel_mire)
+
+February 23, 2022 23:12 | Tags: 
 
 Visit the working wiki on this topic here:
 https://publiclab.org/wiki/mine-reclamation

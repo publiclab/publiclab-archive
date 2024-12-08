@@ -1,12 +1,18 @@
 ---
-nid: 19163
 title: Public Lab job posting: Business and Operations Manager
-path: public/static/notes/Shannon/04-25-2019/public-lab-job-posting-business-and-operations-manager.md
+tagnames: nonprofit, blog, jobs
+author: Shannon
+path: /notes/Shannon/04-25-2019/public-lab-job-posting-business-and-operations-manager.md
+nid: 19163
 uid: 9
-tagnames: nonprofit,blog,jobs
+
 ---
 
 # Public Lab job posting: Business and Operations Manager
+
+by [Shannon](../profile/Shannon) April 25, 2019 16:22
+
+April 25, 2019 16:22 | Tags: [nonprofit](../tag/nonprofit), [blog](../tag/blog), [jobs](../tag/jobs)
 
 **Start Date:** Mid June 2019
 

@@ -1,12 +1,18 @@
 ---
-nid: 21332
 title: Reused fracking water?
-path: public/static/notes/charlotte_clarke/10-29-2019/reused-fracking-water.md
+tagnames: water-quality, fracking, question:water-quality, oil-and-gas, question:oil-and-gas, question:fracking, oil-and-gas-water-trio, question:oil-and-gas-water-trio, oil-and-gas-water-quality, question:oil-and-gas-water-quality
+author: charlotte_clarke
+path: /notes/charlotte_clarke/10-29-2019/reused-fracking-water.md
+nid: 21332
 uid: 510781
-tagnames: water-quality,fracking,question:water-quality,oil-and-gas,question:oil-and-gas,question:fracking,oil-and-gas-water-trio,question:oil-and-gas-water-trio,oil-and-gas-water-quality,question:oil-and-gas-water-quality
+
 ---
 
 # Reused fracking water?
+
+by [charlotte_clarke](../profile/charlotte_clarke) October 29, 2019 13:40
+
+October 29, 2019 13:40 | Tags: [water-quality](../tag/water-quality), [fracking](../tag/fracking), [question:water-quality](../tag/question:water-quality), [oil-and-gas](../tag/oil-and-gas), [question:oil-and-gas](../tag/question:oil-and-gas), [question:fracking](../tag/question:fracking), [oil-and-gas-water-trio](../tag/oil-and-gas-water-trio), [question:oil-and-gas-water-trio](../tag/question:oil-and-gas-water-trio), [oil-and-gas-water-quality](../tag/oil-and-gas-water-quality), [question:oil-and-gas-water-quality](../tag/question:oil-and-gas-water-quality)
 
 This week, Greg from New Mexico emailed with a question:
 

@@ -1,12 +1,18 @@
 ---
-nid: 13303
 title: OpenFlexure Microscope: high-resolution assembly
-path: public/static/notes/mathew/07-21-2016/openflexure-microscope-high-resolution-assembly.md
+tagnames: raspberry-pi, dust, frac-sand, pm, particle-monitoring, microscope, passive-particle-monitors, passive-pm, parent:frac-sand, microscopy, openflexure, activity:microscope, microscopes, activity:microscopes
+author: mathew
+path: /notes/mathew/07-21-2016/openflexure-microscope-high-resolution-assembly.md
+nid: 13303
 uid: 4
-tagnames: raspberry-pi,dust,frac-sand,pm,particle-monitoring,microscope,passive-particle-monitors,passive-pm,parent:frac-sand,microscopy,openflexure,activity:microscope,microscopes,activity:microscopes
+
 ---
 
 # OpenFlexure Microscope: high-resolution assembly
+
+by [mathew](../profile/mathew) July 21, 2016 19:17
+
+July 21, 2016 19:17 | Tags: [raspberry-pi](../tag/raspberry-pi), [dust](../tag/dust), [frac-sand](../tag/frac-sand), [pm](../tag/pm), [particle-monitoring](../tag/particle-monitoring), [microscope](../tag/microscope), [passive-particle-monitors](../tag/passive-particle-monitors), [passive-pm](../tag/passive-pm), [parent:frac-sand](../tag/parent:frac-sand), [microscopy](../tag/microscopy), [openflexure](../tag/openflexure), [activity:microscope](../tag/activity:microscope), [microscopes](../tag/microscopes), [activity:microscopes](../tag/activity:microscopes)
 
 [previously](/notes/mathew/04-17-2016/making-an-openflexure-microscope) I assembled an [OpenFlexure microscope](http://docubricks.com/projects/openflexure-microscope) using the standard optics, achieving a low resolution, approximately 10x zoom microscope.  I plan to use it to assess [Passive particle monitor](/tag/passive-pm) samples.
 

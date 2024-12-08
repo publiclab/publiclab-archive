@@ -1,6 +1,6 @@
 # openhour
 
-14 notes and wiki pages
+14 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [OpenHour](/openhour) (wiki)
 - [OpenHour NYC IRL](/notes/liz/08-05-2014/openhour-nyc-irl) by [liz](../profile/liz)

@@ -1,12 +1,18 @@
 ---
-nid: 11051
 title: Sample container search
-path: public/static/notes/warren/08-14-2014/sample-container-search.md
+tagnames: spectrometer, fluorescence, cuvettes, sample-containers, sample-prep, oil-testing-kit, nano-drop, question:spectrometry, question:spectrometry-sampling, question:spectrometry-turbidity
+author: warren
+path: /notes/warren/08-14-2014/sample-container-search.md
+nid: 11051
 uid: 1
-tagnames: spectrometer,fluorescence,cuvettes,sample-containers,sample-prep,oil-testing-kit,nano-drop,question:spectrometry,question:spectrometry-sampling,question:spectrometry-turbidity
+
 ---
 
 # Sample container search
+
+by [warren](../profile/warren) August 14, 2014 21:38
+
+August 14, 2014 21:38 | Tags: [spectrometer](../tag/spectrometer), [fluorescence](../tag/fluorescence), [cuvettes](../tag/cuvettes), [sample-containers](../tag/sample-containers), [sample-prep](../tag/sample-prep), [oil-testing-kit](../tag/oil-testing-kit), [nano-drop](../tag/nano-drop), [question:spectrometry](../tag/question:spectrometry), [question:spectrometry-sampling](../tag/question:spectrometry-sampling), [question:spectrometry-turbidity](../tag/question:spectrometry-turbidity)
 
 Note: Lots on sample containers is now collected on this page: https://publiclab.org/wiki/spectrometry-sampling
 

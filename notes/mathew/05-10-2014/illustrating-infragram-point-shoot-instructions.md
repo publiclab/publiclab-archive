@@ -1,12 +1,18 @@
 ---
-nid: 10460
 title: Illustrating Infragram Point & Shoot Instructions
-path: public/static/notes/mathew/05-10-2014/illustrating-infragram-point-shoot-instructions.md
+tagnames: near-infrared-camera, infragram, instructions, mobius
+author: mathew
+path: /notes/mathew/05-10-2014/illustrating-infragram-point-shoot-instructions.md
+nid: 10460
 uid: 4
-tagnames: near-infrared-camera,infragram,instructions,mobius
+
 ---
 
 # Illustrating Infragram Point & Shoot Instructions
+
+by [mathew](../profile/mathew) May 10, 2014 00:29
+
+May 10, 2014 00:29 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [infragram](../tag/infragram), [instructions](../tag/instructions), [mobius](../tag/mobius)
 
 ###What I want to do
 Use Sketchup models of the Mobius action cam to illustrate instructions on its use.  The [existing instructions are hard to read](http://www.mytempfiles.info/mobius/) and could use illustrations. They also [rely on pages in the RC Groups Forums](http://www.rcgroups.com/forums/showpost.php?p=25170908&postcount=3).  I want to make a single document of instructions.

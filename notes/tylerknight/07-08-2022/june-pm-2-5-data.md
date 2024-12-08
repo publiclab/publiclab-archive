@@ -1,12 +1,18 @@
 ---
-nid: 31265
 title: June PM 2.5 Data
-path: public/static/notes/tylerknight/07-08-2022/june-pm-2-5-data.md
+tagnames: gulf-coast, air-quality, pm, particulate-matter, purpleair, st-james, formosaplastics
+author: tylerknight
+path: /notes/tylerknight/07-08-2022/june-pm-2-5-data.md
+nid: 31265
 uid: 777566
-tagnames: gulf-coast,air-quality,pm,particulate-matter,purpleair,st-james,formosaplastics
+
 ---
 
 # June PM 2.5 Data
+
+by [tylerknight](../profile/tylerknight) July 08, 2022 14:35
+
+July 08, 2022 14:35 | Tags: [gulf-coast](../tag/gulf-coast), [air-quality](../tag/air-quality), [pm](../tag/pm), [particulate-matter](../tag/particulate-matter), [purpleair](../tag/purpleair), [st-james](../tag/st-james), [formosaplastics](../tag/formosaplastics)
 
 June saw similar levels of PM 2.5 in St James compared to those seen in May.
 

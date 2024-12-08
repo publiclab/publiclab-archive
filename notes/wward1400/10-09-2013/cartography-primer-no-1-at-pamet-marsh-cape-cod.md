@@ -1,12 +1,18 @@
 ---
-nid: 9429
 title: Cartography Primer at Phats Valley Residency, Cape Cod
-path: public/static/notes/wward1400/10-09-2013/cartography-primer-no-1-at-pamet-marsh-cape-cod.md
+tagnames: balloon-mapping, near-infrared-camera, annotated-maps, community-mapping, infragram, list:plots-boston, coastalmonitoring, pamet
+author: wward1400
+path: /notes/wward1400/10-09-2013/cartography-primer-no-1-at-pamet-marsh-cape-cod.md
+nid: 9429
 uid: 46742
-tagnames: balloon-mapping,near-infrared-camera,annotated-maps,community-mapping,infragram,list:plots-boston,coastalmonitoring,pamet
+
 ---
 
 # Cartography Primer at Phats Valley Residency, Cape Cod
+
+by [wward1400](../profile/wward1400) October 09, 2013 16:42
+
+October 09, 2013 16:42 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [annotated-maps](../tag/annotated-maps), [community-mapping](../tag/community-mapping), [infragram](../tag/infragram), [list:plots-boston](../tag/list:plots-boston), [coastalmonitoring](../tag/coastalmonitoring), [pamet](../tag/pamet)
 
 [![MassDEP_Truro.png](https://i.publiclab.org/system/images/photos/000/001/842/medium/MassDEP_Truro.png)](https://i.publiclab.org/system/images/photos/000/001/842/original/MassDEP_Truro.png)
 

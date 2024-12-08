@@ -1,12 +1,18 @@
 ---
-nid: 7106
 title: Public Lab community newsletter 4.27.13
-path: public/static/notes/Shannon/04-28-2013/public-lab-community-newsletter-4-27-13.md
+tagnames: newsletter, newsletter-archive
+author: Shannon
+path: /notes/Shannon/04-28-2013/public-lab-community-newsletter-4-27-13.md
+nid: 7106
 uid: 9
-tagnames: newsletter,newsletter-archive
+
 ---
 
 # Public Lab community newsletter 4.27.13
+
+by [Shannon](../profile/Shannon) April 28, 2013 15:30
+
+April 28, 2013 15:30 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
 
 In the Public Lab community newsletter this week, get involved in a number of events happening in the Northeast U.S., organize a Spectral Challenge meet-up in your neighborhood and check out the new maps from the Public Lab archive appearing in Google Earth and Maps. 
 

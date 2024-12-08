@@ -1,12 +1,18 @@
 ---
-nid: 9827
 title: Refinery Watching
-path: public/static/wiki/refinery-watching.md
+tagnames: spectrometer, particulate-sensing, industrial-monitoring, flame-spectroscopy, photo-monitoring, refinery, air-quality, flare, tool, ioby, industry, method, chemicals, oil-and-gas, parent:photo-monitoring
+author: danbeavers
+path: /wiki/refinery-watching.md
+nid: 9827
 uid: 51
-tagnames: spectrometer,particulate-sensing,industrial-monitoring,flame-spectroscopy,photo-monitoring,refinery,air-quality,flare,tool,ioby,industry,method,chemicals,oil-and-gas,parent:photo-monitoring
+
 ---
 
 # Refinery Watching
+
+by [warren](../profile/warren), [danbeavers](../profile/danbeavers)
+
+November 25, 2013 21:51 | Tags: [spectrometer](../tag/spectrometer), [particulate-sensing](../tag/particulate-sensing), [industrial-monitoring](../tag/industrial-monitoring), [flame-spectroscopy](../tag/flame-spectroscopy), [photo-monitoring](../tag/photo-monitoring), [refinery](../tag/refinery), [air-quality](../tag/air-quality), [flare](../tag/flare), [tool](../tag/tool), [ioby](../tag/ioby), [industry](../tag/industry), [method](../tag/method), [chemicals](../tag/chemicals), [oil-and-gas](../tag/oil-and-gas), [parent:photo-monitoring](../tag/parent:photo-monitoring)
 
 ###What we want to do
 

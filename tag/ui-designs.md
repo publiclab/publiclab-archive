@@ -1,6 +1,6 @@
 # ui-designs
 
-8 notes and wiki pages
+8 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [The new Welcome Page is waiting for your feedback](/notes/edie_blues/11-21-2018/the-new-welcome-page-is-waiting-for-your-feedback) by [edie_blues](../profile/edie_blues)
 - [Public Lab Dashboard - new design ideas ](/notes/edie_blues/12-13-2018/public-lab-dashboard-new-design-ideas) by [edie_blues](../profile/edie_blues)

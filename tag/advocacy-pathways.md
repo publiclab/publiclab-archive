@@ -1,6 +1,6 @@
 # advocacy-pathways
 
-12 notes and wiki pages
+12 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Action-Oriented Resources](/wiki/frac-sand-action-oriented-resources) (wiki)
 - [Report out: Eau Claire event ](/notes/stevie/05-03-2016/report-out-eau-claire-event) by [stevie](../profile/stevie)
@@ -12,5 +12,4 @@
 - [Addressing the Health Impacts of Petrochemical Production](/notes/A_SCH/11-08-2020/draft) by [A_SCH](../profile/A_SCH)
 - [Empowering People to Act on Air Pollution](/notes/A_SCH/11-08-2020/empowering-people-to-act-on-air-pollution-draft) by [A_SCH](../profile/A_SCH)
 - [Bucket Successes ](/notes/A_SCH/11-08-2020/mobilizing-action-through-community-science-draft) by [A_SCH](../profile/A_SCH)
-- [Daftar Sabung Ayam](/notes/blainetrevin/12-17-2020/daftar-sabung-ayam) by [blainetrevin](../profile/blainetrevin)
 - [Seeking an Organizing & Advocacy Research Curation Fellow](/notes/bhamster/03-15-2021/seeking-an-organizing-advocacy-research-curation-fellow) by [bhamster](../profile/bhamster)

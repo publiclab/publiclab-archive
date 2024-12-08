@@ -1,12 +1,18 @@
 ---
-nid: 13383
 title: GSoC 2016: Final Work Product of Advanced Searching and Sorting Tool for publiclab.org
-path: public/static/notes/Ujitha/08-22-2016/gsoc-2016-final-work-product-of-advanced-searching-and-sorting-tool-for-publiclab-org.md
+tagnames: gsoc, gsoc-2016, advancedsearch, solr, sunspot, search-api, response:13397
+author: Ujitha
+path: /notes/Ujitha/08-22-2016/gsoc-2016-final-work-product-of-advanced-searching-and-sorting-tool-for-publiclab-org.md
+nid: 13383
 uid: 467748
-tagnames: gsoc,gsoc-2016,advancedsearch,solr,sunspot,search-api,response:13397
+
 ---
 
 # GSoC 2016: Final Work Product of Advanced Searching and Sorting Tool for publiclab.org
+
+by [Ujitha](../profile/Ujitha) August 22, 2016 18:51
+
+August 22, 2016 18:51 | Tags: [gsoc](../tag/gsoc), [gsoc-2016](../tag/gsoc-2016), [advancedsearch](../tag/advancedsearch), [solr](../tag/solr), [sunspot](../tag/sunspot), [search-api](../tag/search-api), [response:13397](../tag/response:13397)
 
 ###Project Details 
 Project Title: Advanced Searching and Sorting Tool for publiclab.org

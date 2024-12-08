@@ -1,12 +1,18 @@
 ---
-nid: 12902
 title: Prolight 1 Watt UV LED almost ready for testing...
-path: public/static/notes/dhaffnersr/04-01-2016/prolight-1-watt-uv-led-almost-ready-for-testing.md
-uid: 461120
 tagnames: 
+author: dhaffnersr
+path: /notes/dhaffnersr/04-01-2016/prolight-1-watt-uv-led-almost-ready-for-testing.md
+nid: 12902
+uid: 461120
+
 ---
 
 # Prolight 1 Watt UV LED almost ready for testing...
+
+by [dhaffnersr](../profile/dhaffnersr) April 01, 2016 15:40
+
+April 01, 2016 15:40 | Tags: 
 
 I finally got the high brightness 1W UV LED and soldered the leads and got it set for testing next week, I just wanted to post some pics of my design and set up with the circuit I designed for it also with the LED driver.
 

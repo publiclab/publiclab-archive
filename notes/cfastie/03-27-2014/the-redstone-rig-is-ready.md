@@ -1,12 +1,18 @@
 ---
-nid: 10230
 title: The Redstone Rig is ready
-path: public/static/notes/cfastie/03-27-2014/the-redstone-rig-is-ready.md
+tagnames: balloon-mapping, kite-mapping, vermont, kap, 3d-printing, makerbot, response:10101, redstone
+author: cfastie
+path: /notes/cfastie/03-27-2014/the-redstone-rig-is-ready.md
+nid: 10230
 uid: 554
-tagnames: balloon-mapping,kite-mapping,vermont,kap,3d-printing,makerbot,response:10101,redstone
+
 ---
 
 # The Redstone Rig is ready
+
+by [cfastie](../profile/cfastie) March 27, 2014 15:39
+
+March 27, 2014 15:39 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [vermont](../tag/vermont), [kap](../tag/kap), [3d-printing](../tag/3d-printing), [makerbot](../tag/makerbot), [response:10101](../tag/response:10101), [redstone](../tag/redstone)
 
 I started designing this aerial photography rig at Christmas when I got access to one of the MakerBot Replicator 3D printers that were donated to Public Lab. Today I put the files for a very solid version of the [Redstone Rig at Thingiverse](http://www.thingiverse.com/thing:281664), and I hope some people will make prints of the parts and try it out.  
 

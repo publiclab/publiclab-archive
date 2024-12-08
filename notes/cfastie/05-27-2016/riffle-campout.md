@@ -1,12 +1,18 @@
 ---
-nid: 13149
 title: Riffle campout
-path: public/static/notes/cfastie/05-27-2016/riffle-campout.md
+tagnames: arduino, temperature, sensors, water-quality, riffle, noise, micro-sd, response:13128, category:test-limits, data-logging, activity:riffle, riffle-examples, activity:data-logging
+author: cfastie
+path: /notes/cfastie/05-27-2016/riffle-campout.md
+nid: 13149
 uid: 554
-tagnames: arduino,temperature,sensors,water-quality,riffle,noise,micro-sd,response:13128,category:test-limits,data-logging,activity:riffle,riffle-examples,activity:data-logging
+
 ---
 
 # Riffle campout
+
+by [cfastie](../profile/cfastie) May 27, 2016 16:11
+
+May 27, 2016 16:11 | Tags: [arduino](../tag/arduino), [temperature](../tag/temperature), [sensors](../tag/sensors), [water-quality](../tag/water-quality), [riffle](../tag/riffle), [noise](../tag/noise), [micro-sd](../tag/micro-sd), [response:13128](../tag/response:13128), [category:test-limits](../tag/category:test-limits), [data-logging](../tag/data-logging), [activity:riffle](../tag/activity:riffle), [riffle-examples](../tag/riffle-examples), [activity:data-logging](../tag/activity:data-logging)
 
 The Riffle had a campout all by itself in the back yard last night. Here are some details about this healthy outdoor activity. 
 

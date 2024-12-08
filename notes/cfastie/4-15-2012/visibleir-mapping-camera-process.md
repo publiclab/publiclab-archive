@@ -1,12 +1,18 @@
 ---
-nid: 1677
 title: Visible/IR mapping camera process 
-path: public/static/notes/cfastie/4-15-2012/visibleir-mapping-camera-process.md
+tagnames: balloon-mapping, near-infrared-camera, kite-mapping
+author: cfastie
+path: /notes/cfastie/4-15-2012/visibleir-mapping-camera-process.md
+nid: 1677
 uid: 554
-tagnames: balloon-mapping,near-infrared-camera,kite-mapping
+
 ---
 
 # Visible/IR mapping camera process 
+
+by [cfastie](../profile/cfastie) April 15, 2012 13:10
+
+April 15, 2012 13:10 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping)
 
 Image: Spectral response of each color channel (R,G,B) of a Canon 40D with the IR block filter removed. If you then block most visible light (<700 nm) what do you get?
 

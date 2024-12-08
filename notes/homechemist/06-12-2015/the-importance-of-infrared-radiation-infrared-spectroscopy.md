@@ -1,12 +1,18 @@
 ---
-nid: 11976
 title: The importance of infrared radiation:INFRARED SPECTROSCOPY
-path: public/static/notes/homechemist/06-12-2015/the-importance-of-infrared-radiation-infrared-spectroscopy.md
+tagnames: infrared, mid-infrared, spectroscopy, near-infrared, barnstar:basic, copper, chloroform
+author: homechemist
+path: /notes/homechemist/06-12-2015/the-importance-of-infrared-radiation-infrared-spectroscopy.md
+nid: 11976
 uid: 212574
-tagnames: infrared,mid-infrared,spectroscopy,near-infrared,barnstar:basic,copper,chloroform
+
 ---
 
 # The importance of infrared radiation:INFRARED SPECTROSCOPY
+
+by [homechemist](../profile/homechemist) June 12, 2015 18:19
+
+June 12, 2015 18:19 | Tags: [infrared](../tag/infrared), [mid-infrared](../tag/mid-infrared), [spectroscopy](../tag/spectroscopy), [near-infrared](../tag/near-infrared), [barnstar:basic](../tag/barnstar:basic), [copper](../tag/copper), [chloroform](../tag/chloroform)
 
 ####What I want to do
 As we Know ,Spectroscopy is a very powerful technique for analytical chemistry, it help us to understand how light interacts with a certain compound or element allowing us to identify it, there are several types of spectroscopy, the most common one is visible spectroscopy which allows us to analyze in the visible range, (from 400-700 nm) this is good specially for colorimetric analysis and determination of the amount of analyte in solution, for element detection or specific compounds which emits/absorbs in visible light.., but one of the most important types of spectroscopy is infrared spectroscopy which works in the infrared region, infrared light is associated with vibrations, that’s why we usually associated infrared light with heat(thermal motion) , so let's go farther and lets imagine a molecule as a spring, this molecule is able to vibrate among the different bonds between atoms, some bonds are able to rotate , while others cannot depending on the electronic overlapping of the atoms that are bond to form the molecule, so let´s consider a vibration of atoms with respect to a certain bond, if a pulse of infrared radiation reaches the compound this vibration can be absorbed producing great variations on the infrared spectrum of the compound so we can conclude that infrared light is as a consequence the most cheap and non destructive analytical method that we can use to detect functional groups, and consequently to detect the presence of organic molecules among other analytes.The problem is that infrared spectroscopy instruments are extremely expensive , so the aim of this note would be to develop a powerfull but cheap spectroscope in order to be able to detect more infrared radiation than what we can detect with nowaday´s  spectroscopes.

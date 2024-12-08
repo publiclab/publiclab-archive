@@ -1,6 +1,6 @@
 # leaflet
 
-31 notes and wiki pages
+31 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Riverside Cemetery](/notes/cwhite/06-03-2013/riverside-cemetery) by [cwhite](../profile/cwhite)
 - [GSoC blog on the project of revamping the Mapkniiter tool.](/notes/anishshah101/05-04-2014/gsoc-blog-on-the-project-of-revamping-the-mapkniiter-tool) by [anishshah101](../profile/anishshah101)
@@ -8,7 +8,6 @@
 - [MapKnitter Annotations: Textbox Rotation using CSS Transforms](/notes/justinmanley/07-02-2014/mapknitter-annotations-textbox-rotation-using-css-transforms) by [justinmanley](../profile/justinmanley)
 - [OpenAerialMap, Open Imagery Network & Public Lab's MapKnitter](/notes/warren/05-29-2015/openaerialmap-open-imagery-network-public-lab-s-mapknitter) by [warren](../profile/warren)
 - [OpenDroneMap,OpenAerialMap,and MapKnitter](/notes/smathermather/06-08-2015/opendronemap-openaerialmap-and-mapknitter) by [smathermather](../profile/smathermather)
-- [Flyer Distribution in Canberra – Advertisement & Marketing Resource ](/notes/flyerdistributioncanberra/03-02-2017/flyer-distribution-in-canberra-advertisement-marketing-resource) by [flyerdistributioncanberra](../profile/flyerdistributioncanberra)
 - [Can someone make a map to display NOAA Harvey imagery with coordinates and permalink?](/notes/warren/09-20-2017/can-someone-make-a-map-to-display-noaa-harvey-imagery-with-coordinates-and-permalink) by [warren](../profile/warren)
 - [Does anyone know someone at Archive.org who can enable CORS for images of Harvey pollution?](/notes/warren/09-22-2017/does-anyone-know-someone-at-archive-org-who-can-enable-cors-for-images-of-harvey-pollution) by [warren](../profile/warren)
 - [MapKnitter update: very high resolution mapping](/notes/warren/01-19-2018/mapknitter-update-very-high-resolution-mapping) by [warren](../profile/warren)
@@ -19,7 +18,6 @@
 - [What more data-layers can we show on map ?](/notes/sagarpreet/07-01-2018/what-more-data-layers-can-we-show-on-map) by [sagarpreet](../profile/sagarpreet)
 - [New accessibility features for making aerial maps in MapKnitter](/notes/warren/07-06-2018/new-accessibility-features-for-making-aerial-maps-in-mapknitter) by [warren](../profile/warren)
 - [Leaflet Environmental Layer Library - Part 2](/notes/sagarpreet/07-16-2018/leaflet-environmental-layer-library-part-2) by [sagarpreet](../profile/sagarpreet)
-- [What's the programme do you use?](/notes/rachel_shaw/08-09-2018/what-s-the-programme-do-you-use) by [rachel_shaw](../profile/rachel_shaw)
 - [GSoC Submission for Leaflet Blurred Location Part 2](/notes/mridulnagpal/08-10-2018/gsoc-submission-for-leaflet-blurred-location-part-2) by [mridulnagpal](../profile/mridulnagpal)
 - [New Features in Leaflet-Environmental Layers Library](/notes/sagarpreet/12-20-2018/new-features-in-leaflet-environmental-layers) by [sagarpreet](../profile/sagarpreet)
 - [Leaflet.DistortableImage full resolution download](/notes/warren/02-15-2019/leaflet-distortableimage-full-resolution-download) by [warren](../profile/warren)

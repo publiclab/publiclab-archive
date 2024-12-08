@@ -1,6 +1,6 @@
 # list-plots-infrared
 
-9 notes and wiki pages
+9 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Near-Infrared Camera](/wiki/near-infrared-camera) (wiki)
 - [Infragram](/wiki/infragram) (wiki)

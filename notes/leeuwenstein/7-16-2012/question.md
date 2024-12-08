@@ -1,12 +1,18 @@
 ---
-nid: 2823
 title: question
-path: public/static/notes/leeuwenstein/7-16-2012/question.md
+tagnames: spectrometer, question:spectrometer
+author: leeuwenstein
+path: /notes/leeuwenstein/7-16-2012/question.md
+nid: 2823
 uid: 480
-tagnames: spectrometer,question:spectrometer
+
 ---
 
 # question
+
+by [leeuwenstein](../profile/leeuwenstein) July 16, 2012 10:58
+
+July 16, 2012 10:58 | Tags: [spectrometer](../tag/spectrometer), [question:spectrometer](../tag/question:spectrometer)
 
 I ' AM INTERSTING IN SPECTRA'S OF GEMSTONES 
 I'am a gemmologist.

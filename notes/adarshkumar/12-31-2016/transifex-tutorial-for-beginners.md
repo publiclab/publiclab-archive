@@ -1,12 +1,18 @@
 ---
-nid: 13828
 title: Transifex tutorial for beginners
-path: public/static/notes/adarshkumar/12-31-2016/transifex-tutorial-for-beginners.md
+tagnames: community, website, activity, localization, translation, language, gcin, gcin-2016, replication:13651, transifex
+author: adarshkumar
+path: /notes/adarshkumar/12-31-2016/transifex-tutorial-for-beginners.md
+nid: 13828
 uid: 500732
-tagnames: community,website,activity,localization,translation,language,gcin,gcin-2016,replication:13651,transifex
+
 ---
 
 # Transifex tutorial for beginners
+
+by [adarshkumar](../profile/adarshkumar) December 31, 2016 21:43
+
+December 31, 2016 21:43 | Tags: [community](../tag/community), [website](../tag/website), [activity](../tag/activity), [localization](../tag/localization), [translation](../tag/translation), [language](../tag/language), [gcin](../tag/gcin), [gcin-2016](../tag/gcin-2016), [replication:13651](../tag/replication:13651), [transifex](../tag/transifex)
 
 **Created a video tutorial for beginners to learn Transifex translation platform**
 *This tutorial was created for publiclab while working with fossasia during Google Code-In 2016*

@@ -1,12 +1,18 @@
 ---
-nid: 11059
 title: GSoC Final Update for Mapknitter- Rotation and Scaling.
-path: public/static/notes/anishshah101/08-15-2014/gsoc-final-update-for-mapknitter-rotation-and-scaling.md
+tagnames: mapknitter, gsoc, developers, gsoc-2014
+author: anishshah101
+path: /notes/anishshah101/08-15-2014/gsoc-final-update-for-mapknitter-rotation-and-scaling.md
+nid: 11059
 uid: 421046
-tagnames: mapknitter,gsoc,developers,gsoc-2014
+
 ---
 
 # GSoC Final Update for Mapknitter- Rotation and Scaling.
+
+by [anishshah101](../profile/anishshah101) August 15, 2014 21:08
+
+August 15, 2014 21:08 | Tags: [mapknitter](../tag/mapknitter), [gsoc](../tag/gsoc), [developers](../tag/developers), [gsoc-2014](../tag/gsoc-2014)
 
 The following features for the Leaflet based Edit page are complete:
 1) Dragging

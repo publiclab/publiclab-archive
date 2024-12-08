@@ -1,6 +1,6 @@
 # holographic
 
-3 notes and wiki pages
+3 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Ultraviolet spectrometry](/wiki/uv-spectrometry) (wiki)
 - [Lensless holograpic microscope](/notes/amirberAgain/04-30-2018/lensless-holograpic-microscope) by [amirberAgain](../profile/amirberAgain)

@@ -1,6 +1,6 @@
 # partnerships
 
-6 notes and wiki pages
+6 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Staff Call 7 11 2011: Partnerships](/wiki/staff-call-7-11-2011-partnerships) (wiki)
 - [NASA connections](/wiki/nasa-connections) (wiki)

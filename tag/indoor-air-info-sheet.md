@@ -1,6 +1,6 @@
 # indoor-air-info-sheet
 
-4 notes and wiki pages
+4 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Vermont Indoor Air](/wiki/vermont-indoor-air) (wiki)
 - [Oklahoma Indoor Air](/wiki/oklahoma-indoor-air) (wiki)

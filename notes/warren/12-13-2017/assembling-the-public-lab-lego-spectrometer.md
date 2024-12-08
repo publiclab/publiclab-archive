@@ -1,12 +1,18 @@
 ---
-nid: 15360
 title: Assembling the Public Lab Lego Spectrometer
-path: public/static/notes/warren/12-13-2017/assembling-the-public-lab-lego-spectrometer.md
+tagnames: spectrometer, spectrometry, fluorescence, raspberry-pi, lego, with:bronwen, activity:education, raspberry-pi-spectrometer, activity:raspberry-pi-spectrometer, activity:lego-spectrometer, lego-spectrometer, with:asnow, lego-quickstart, pin:spectrometry
+author: warren
+path: /notes/warren/12-13-2017/assembling-the-public-lab-lego-spectrometer.md
+nid: 15360
 uid: 1
-tagnames: spectrometer,spectrometry,fluorescence,raspberry-pi,lego,with:bronwen,activity:education,raspberry-pi-spectrometer,activity:raspberry-pi-spectrometer,activity:lego-spectrometer,lego-spectrometer,with:asnow,lego-quickstart,pin:spectrometry
+
 ---
 
 # Assembling the Public Lab Lego Spectrometer
+
+by [warren](../profile/warren) December 13, 2017 06:27
+
+December 13, 2017 06:27 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [fluorescence](../tag/fluorescence), [raspberry-pi](../tag/raspberry-pi), [lego](../tag/lego), [with:bronwen](../tag/with:bronwen), [activity:education](../tag/activity:education), [raspberry-pi-spectrometer](../tag/raspberry-pi-spectrometer), [activity:raspberry-pi-spectrometer](../tag/activity:raspberry-pi-spectrometer), [activity:lego-spectrometer](../tag/activity:lego-spectrometer), [lego-spectrometer](../tag/lego-spectrometer), [with:asnow](../tag/with:asnow), [lego-quickstart](../tag/lego-quickstart), [pin:spectrometry](../tag/pin:spectrometry)
 
 Follow these steps to assemble a Lego Spectrometer, for use with the [Raspberry Pi](/w/pi-camera) camera.
 

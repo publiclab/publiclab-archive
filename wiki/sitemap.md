@@ -1,12 +1,18 @@
 ---
-nid: 17203
 title: sitemap
-path: public/static/wiki/sitemap.md
-uid: 7
 tagnames: 
+author: liz
+path: /wiki/sitemap.md
+nid: 17203
+uid: 7
+
 ---
 
 # sitemap
+
+by [liz](../profile/liz)
+
+October 01, 2018 21:44 | Tags: 
 
 Pages in **bold** indicate **sysadmin-only editing access**
 

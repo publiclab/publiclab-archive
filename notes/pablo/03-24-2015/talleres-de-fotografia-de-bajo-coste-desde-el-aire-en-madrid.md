@@ -1,12 +1,18 @@
 ---
-nid: 11719
 title:  Talleres de Fotografía de bajo coste desde el aire en Madrid
-path: public/static/notes/pablo/03-24-2015/talleres-de-fotografia-de-bajo-coste-desde-el-aire-en-madrid.md
+tagnames: balloon-mapping, spain, workshop, madrid, event, lang:es, replication:14022
+author: pablo
+path: /notes/pablo/03-24-2015/talleres-de-fotografia-de-bajo-coste-desde-el-aire-en-madrid.md
+nid: 11719
 uid: 160
-tagnames: balloon-mapping,spain,workshop,madrid,event,lang:es,replication:14022
+
 ---
 
 #  Talleres de Fotografía de bajo coste desde el aire en Madrid
+
+by [pablo](../profile/pablo) March 24, 2015 11:49
+
+March 24, 2015 11:49 | Tags: [balloon-mapping](../tag/balloon-mapping), [spain](../tag/spain), [workshop](../tag/workshop), [madrid](../tag/madrid), [event](../tag/event), [lang:es](../tag/lang:es), [replication:14022](../tag/replication:14022)
 
 **Fotografía de bajo coste desde el aire** es un proyecto educativo que para enseñar técnicas de documentación del territorio mediante fotografías aérea de bajo coste con globos y cometas organizado por [Basurama](http://basurama.org). Se usarán [herramientas y técnicas desarrolladas de _hardware_ y _software_](http://publiclab.org/wiki/balloon-mapping) por la comunidad de Public Laboratory.
 

@@ -1,12 +1,18 @@
 ---
-nid: 157
 title: Notes from Tuesday PLOTS staff call
-path: public/static/notes/warren/4-5-2011/notes-tuesday-plots-staff-call.md
-uid: 1
 tagnames: 
+author: warren
+path: /notes/warren/4-5-2011/notes-tuesday-plots-staff-call.md
+nid: 157
+uid: 1
+
 ---
 
 # Notes from Tuesday PLOTS staff call
+
+by [warren](../profile/warren) April 06, 2011 00:50
+
+April 06, 2011 00:50 | Tags: 
 
 Stewart Long, Shannon Dosemagen and I caught up given that we're all working on PLOTS full time now; we're going to have bi-weekly meetings. 
 

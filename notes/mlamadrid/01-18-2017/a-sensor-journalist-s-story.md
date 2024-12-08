@@ -1,12 +1,18 @@
 ---
-nid: 13859
 title: A Sensor Journalist’s Story
-path: public/static/notes/mlamadrid/01-18-2017/a-sensor-journalist-s-story.md
+tagnames: arduino, water-quality, water, riffle, communityscienceforum, riffle-examples
+author: mlamadrid
+path: /notes/mlamadrid/01-18-2017/a-sensor-journalist-s-story.md
+nid: 13859
 uid: 45586
-tagnames: arduino,water-quality,water,riffle,communityscienceforum,riffle-examples
+
 ---
 
 # A Sensor Journalist’s Story
+
+by [mlamadrid](../profile/mlamadrid) January 18, 2017 00:14
+
+January 18, 2017 00:14 | Tags: [arduino](../tag/arduino), [water-quality](../tag/water-quality), [water](../tag/water), [riffle](../tag/riffle), [communityscienceforum](../tag/communityscienceforum), [riffle-examples](../tag/riffle-examples)
 
 Article by [Jillian Clemente](https://twitter.com/West_VirJillian) for [Community Science Forum: Water](https://publiclab.org/forum)
 Photo Credit: David Smith, Reed College of Media

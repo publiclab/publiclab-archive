@@ -1,12 +1,18 @@
 ---
-nid: 13790
 title: Impressive stats from GreenHunan
-path: public/static/notes/liz/12-16-2016/impressive-stats-from-greenhunan.md
+tagnames: water-quality, china, hunan, green-hunan, with:shanlter
+author: liz
+path: /notes/liz/12-16-2016/impressive-stats-from-greenhunan.md
+nid: 13790
 uid: 7
-tagnames: water-quality,china,hunan,green-hunan,with:shanlter
+
 ---
 
 # Impressive stats from GreenHunan
+
+by [liz](../profile/liz) December 16, 2016 14:49
+
+December 16, 2016 14:49 | Tags: [water-quality](../tag/water-quality), [china](../tag/china), [hunan](../tag/hunan), [green-hunan](../tag/green-hunan), [with:shanlter](../tag/with:shanlter)
 
 Green Hunan is a civil society organization in China that organizes volunteers to monitor the watershed of the Xiang River, a major tributary of the Yangtze River. See their website 
 http://www.greenhunan.org.cn/

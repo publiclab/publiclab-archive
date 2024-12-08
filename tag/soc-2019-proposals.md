@@ -1,6 +1,6 @@
 # soc-2019-proposals
 
-33 notes and wiki pages
+33 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [SoC proposal: Community Toolbox overhaul](/notes/icode365/03-02-2019/soc-proposal) by [icode365](../profile/icode365)
 - [SoC proposal: GSoC: Websocket Implementation for Real-time Usage and Sensor data and Display Library](/notes/namangupta/03-02-2019/soc-proposal) by [namangupta](../profile/namangupta)
@@ -28,7 +28,6 @@
 - [SoC proposal: Improving UI and Structure of Leaflet Environmental Layers](/notes/rkpattnaik780/04-05-2019/soc-proposal-improving-ui-and-structure-of-leaflet-environmental-layers) by [rkpattnaik780](../profile/rkpattnaik780)
 - [GSoC proposal: Mapknitter Image Management and Synchronous Editing](/notes/igniteeng000/04-06-2019/gsoc-proposal-mapknitter-image-management) by [igniteeng000](../profile/igniteeng000)
 - [SoC proposal: PublicLab.Editor](/notes/f20171066/04-05-2019/soc-proposal-publiclab-editor) by [f20171066](../profile/f20171066)
-- [SoC proposal: MapKnitter Synchronous Editing.](/notes/juliusmeldrin/04-06-2019/soc-proposal-mapknitter-synchronous-editing) by [juliusmeldrin](../profile/juliusmeldrin)
 - [GSoC proposal: Mapknitter Image Management and Synchronous Editing](/notes/divyabaid16/04-06-2019/gsoc-proposal-mapknitter-image-management-and-synchronous-editing) by [divyabaid16](../profile/divyabaid16)
 - [GSoC proposal: Mapknitter Upgrade to Rails 6](/notes/singhav/04-07-2019/gsoc-proposal-mapknitter-upgrade-to-rails-6) by [singhav](../profile/singhav)
 - [SoC proposal: Image Sequencer](/notes/lohithabhagam123/04-09-2019/soc-proposal-image-sequencer) by [lohithabhagam123](../profile/lohithabhagam123)

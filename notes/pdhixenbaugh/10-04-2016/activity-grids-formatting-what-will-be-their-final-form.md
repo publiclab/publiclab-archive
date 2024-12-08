@@ -1,12 +1,18 @@
 ---
-nid: 13517
 title: Activity Grids formatting - what will be their final form? 
-path: public/static/notes/pdhixenbaugh/10-04-2016/activity-grids-formatting-what-will-be-their-final-form.md
+tagnames: activity-grids, question:website, question:website-structure
+author: pdhixenbaugh
+path: /notes/pdhixenbaugh/10-04-2016/activity-grids-formatting-what-will-be-their-final-form.md
+nid: 13517
 uid: 459085
-tagnames: activity-grids,question:website,question:website-structure
+
 ---
 
 # Activity Grids formatting - what will be their final form? 
+
+by [pdhixenbaugh](../profile/pdhixenbaugh) October 04, 2016 01:40
+
+October 04, 2016 01:40 | Tags: [activity-grids](../tag/activity-grids), [question:website](../tag/question:website), [question:website-structure](../tag/question:website-structure)
 
 Hi all,
 

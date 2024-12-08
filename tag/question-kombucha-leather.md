@@ -1,6 +1,6 @@
 # question-kombucha-leather
 
-7 notes and wiki pages
+7 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Does it matter what kind of tea i use to grow kombucha?](/notes/liz/01-19-2018/does-it-matter-what-kind-of-tea-i-use-to-grow-kombucha) by [liz](../profile/liz)
 - [How can i manipulate kombucha leather?](/notes/liz/01-19-2018/how-can-i-manipulate-kombucha-leather) by [liz](../profile/liz)

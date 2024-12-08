@@ -1,12 +1,18 @@
 ---
-nid: 315
 title: Comparison of 4 versions of imagery, moire effects and resampling
-path: public/static/notes/warren/6-1-2011/comparison-4-versions-imagery-moire-effects-and-resampling.md
-uid: 1
 tagnames: 
+author: warren
+path: /notes/warren/6-1-2011/comparison-4-versions-imagery-moire-effects-and-resampling.md
+nid: 315
+uid: 1
+
 ---
 
 # Comparison of 4 versions of imagery, moire effects and resampling
+
+by [warren](../profile/warren) June 02, 2011 02:43
+
+June 02, 2011 02:43 | Tags: 
 
 Check out this image of Wilkinson Bay, Louisiana, by the USGS. Clockwise from top left:
 

@@ -1,12 +1,18 @@
 ---
-nid: 11424
 title: Thermal Imaging: A Comparison of Heat Insulation
-path: public/static/notes/fkamara/12-03-2014/thermal-imaging-a-comparison-of-heat-insulation.md
+tagnames: thermal-photography, thermal-flashlight, thermal-imaging, northeastern, insulation, heat, replication:625
+author: fkamara
+path: /notes/fkamara/12-03-2014/thermal-imaging-a-comparison-of-heat-insulation.md
+nid: 11424
 uid: 432244
-tagnames: thermal-photography,thermal-flashlight,thermal-imaging,northeastern,insulation,heat,replication:625
+
 ---
 
 # Thermal Imaging: A Comparison of Heat Insulation
+
+by [fkamara](../profile/fkamara) December 03, 2014 03:24
+
+December 03, 2014 03:24 | Tags: [thermal-photography](../tag/thermal-photography), [thermal-flashlight](../tag/thermal-flashlight), [thermal-imaging](../tag/thermal-imaging), [northeastern](../tag/northeastern), [insulation](../tag/insulation), [heat](../tag/heat), [replication:625](../tag/replication:625)
 
 ####****What we did****
 

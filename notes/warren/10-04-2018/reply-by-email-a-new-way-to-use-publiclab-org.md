@@ -1,12 +1,18 @@
 ---
-nid: 17227
 title: Reply-by-email: a new way to use PublicLab.org
-path: public/static/notes/warren/10-04-2018/reply-by-email-a-new-way-to-use-publiclab-org.md
+tagnames: community, gsoc, blog, code, barnstar:basic, forums, soc, soc-2018, google-groups, email, groups
+author: warren
+path: /notes/warren/10-04-2018/reply-by-email-a-new-way-to-use-publiclab-org.md
+nid: 17227
 uid: 1
-tagnames: community,gsoc,blog,code,barnstar:basic,forums,soc,soc-2018,google-groups,email,groups
+
 ---
 
 # Reply-by-email: a new way to use PublicLab.org
+
+by [warren](../profile/warren) October 04, 2018 21:52
+
+October 04, 2018 21:52 | Tags: [community](../tag/community), [gsoc](../tag/gsoc), [blog](../tag/blog), [code](../tag/code), [barnstar:basic](../tag/barnstar:basic), [forums](../tag/forums), [soc](../tag/soc), [soc-2018](../tag/soc-2018), [google-groups](../tag/google-groups), [email](../tag/email), [groups](../tag/groups)
 
 Today we're announcing a new feature you may have noticed over the past few weeks! For a long time, emails about new posts or comments on [PublicLab.org](http://PublicLab.org) have been from an address called [do-not-reply@publiclab.org](mailto:do-not-reply@publiclab.org) -- how unfriendly! But it's because, unlike a mailing list, you couldn't just write a reply email. Remember this?![image description](/i/26787.png "Screen_Shot_2018-10-04_at_12.42.01_PM.png")
 

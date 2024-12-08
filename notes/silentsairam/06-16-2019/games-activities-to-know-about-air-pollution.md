@@ -1,12 +1,18 @@
 ---
-nid: 19716
 title: Games/Activities to know about Air Pollution
-path: public/static/notes/silentsairam/06-16-2019/games-activities-to-know-about-air-pollution.md
+tagnames: education, workshop, curriculum, air-quality, lesson, exploring-environmental-issues, lat:12.944198, lon:80.148028
+author: silentsairam
+path: /notes/silentsairam/06-16-2019/games-activities-to-know-about-air-pollution.md
+nid: 19716
 uid: 553044
-tagnames: education,workshop,curriculum,air-quality,lesson,exploring-environmental-issues,lat:12.944198,lon:80.148028
+
 ---
 
 # Games/Activities to know about Air Pollution
+
+by [silentsairam](../profile/silentsairam) June 16, 2019 18:14
+
+June 16, 2019 18:14 | Tags: [education](../tag/education), [workshop](../tag/workshop), [curriculum](../tag/curriculum), [air-quality](../tag/air-quality), [lesson](../tag/lesson), [exploring-environmental-issues](../tag/exploring-environmental-issues), [lat:12.944198](../tag/lat:12.944198), [lon:80.148028](../tag/lon:80.148028)
 
 We all knew that **Air Pollution** is important to be solved before it becomes a serious issue. It is hard for anyone to understand how "Air" affects us as it's not seen as other kinds of Pollution. Also, very difficult for a Young student to know: _Why, How, where, What of Air Pollution_.
 

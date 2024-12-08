@@ -1,12 +1,18 @@
 ---
-nid: 13409
 title: CFL Spectral Irradiance Study using Spekwin32
-path: public/static/notes/dhaffnersr/09-01-2016/cfl-spectral-irradiance-study-using-spekwin32.md
-uid: 461120
 tagnames: 
+author: dhaffnersr
+path: /notes/dhaffnersr/09-01-2016/cfl-spectral-irradiance-study-using-spekwin32.md
+nid: 13409
+uid: 461120
+
 ---
 
 # CFL Spectral Irradiance Study using Spekwin32
+
+by [dhaffnersr](../profile/dhaffnersr) September 01, 2016 13:11
+
+September 01, 2016 13:11 | Tags: 
 
 ##10 CFL Scans using a 13W 2300K CFL (LTS brand_Generic)
 

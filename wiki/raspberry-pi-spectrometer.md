@@ -1,12 +1,18 @@
 ---
-nid: 15245
 title: Raspberry Pi Spectrometer
-path: public/static/wiki/raspberry-pi-spectrometer.md
+tagnames: spectrometer, parent:spectrometry, raspberry-pi-spectrometer, qtesting
+author: warren
+path: /wiki/raspberry-pi-spectrometer.md
+nid: 15245
 uid: 1
-tagnames: spectrometer,parent:spectrometry,raspberry-pi-spectrometer,qtesting
+
 ---
 
 # Raspberry Pi Spectrometer
+
+by [warren](../profile/warren)
+
+November 27, 2017 14:38 | Tags: [spectrometer](../tag/spectrometer), [parent:spectrometry](../tag/parent:spectrometry), [raspberry-pi-spectrometer](../tag/raspberry-pi-spectrometer), [qtesting](../tag/qtesting)
 
 This page collects efforts to develop a Raspberry Pi (#raspberry-pi) based spectrometer, building on Public Lab (and others') open source [DIY spectrometer designs](/wiki/spectrometry).
 

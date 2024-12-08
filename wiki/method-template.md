@@ -1,12 +1,18 @@
 ---
-nid: 13732
 title: Method template
-path: public/static/wiki/method-template.md
+tagnames: methodologies, tags, template, methods-template
+author: warren
+path: /wiki/method-template.md
+nid: 13732
 uid: 1
-tagnames: methodologies,tags,template,methods-template
+
 ---
 
 # Method template
+
+by [warren](../profile/warren), [liz](../profile/liz)
+
+November 29, 2016 21:47 | Tags: [methodologies](../tag/methodologies), [tags](../tag/tags), [template](../tag/template), [methods-template](../tag/methods-template)
 
 This first line of a page will appear as the "summary" of your method here and elsewhere around publiclab.org -- edit this sentence into a one-line summary of your method!
 

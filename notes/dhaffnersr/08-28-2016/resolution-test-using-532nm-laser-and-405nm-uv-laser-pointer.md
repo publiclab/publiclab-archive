@@ -1,12 +1,18 @@
 ---
-nid: 13402
 title: Resolution Test Using 532nm Laser and 405nm UV Laser Pointer
-path: public/static/notes/dhaffnersr/08-28-2016/resolution-test-using-532nm-laser-and-405nm-uv-laser-pointer.md
-uid: 461120
 tagnames: 
+author: dhaffnersr
+path: /notes/dhaffnersr/08-28-2016/resolution-test-using-532nm-laser-and-405nm-uv-laser-pointer.md
+nid: 13402
+uid: 461120
+
 ---
 
 # Resolution Test Using 532nm Laser and 405nm UV Laser Pointer
+
+by [dhaffnersr](../profile/dhaffnersr) August 28, 2016 15:15
+
+August 28, 2016 15:15 | Tags: 
 
 ##**Resolution Test for The DH 4.0 v4 Spectrometer (Replaced Slit with new 0.09mm Gillette metal razor blade open-air design.)**
 

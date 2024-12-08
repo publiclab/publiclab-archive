@@ -1,12 +1,18 @@
 ---
-nid: 10215
 title: Oil Testing Kit Video
-path: public/static/wiki/oil-testing-kit-video.md
-uid: 1
 tagnames: 
+author: warren
+path: /wiki/oil-testing-kit-video.md
+nid: 10215
+uid: 1
+
 ---
 
 # Oil Testing Kit Video
+
+by [warren](../profile/warren)
+
+March 21, 2014 19:44 | Tags: 
 
 <img src="https://i.publiclab.org/system/images/photos/000/003/363/original/lead-title.jpg" style="width:100%;" />
 

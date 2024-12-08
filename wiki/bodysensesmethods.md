@@ -1,12 +1,18 @@
 ---
-nid: 13367
 title: Bodily Sense Environmental Data Methods
-path: public/static/wiki/bodysensesmethods.md
+tagnames: regulations, methods, body-senses
+author: gretchengehrke
+path: /wiki/bodysensesmethods.md
+nid: 13367
 uid: 430549
-tagnames: regulations,methods,body-senses
+
 ---
 
 # Bodily Sense Environmental Data Methods
+
+by [sarasage](../profile/sarasage), [christyspackman](../profile/christyspackman), [gretchengehrke](../profile/gretchengehrke)
+
+August 18, 2016 21:27 | Tags: [regulations](../tag/regulations), [methods](../tag/methods), [body-senses](../tag/body-senses)
 
 _photo credit Stevie Lewis and Mathew Lippincott_ 
 

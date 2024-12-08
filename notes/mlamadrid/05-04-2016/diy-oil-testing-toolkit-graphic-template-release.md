@@ -1,12 +1,18 @@
 ---
-nid: 13071
 title: DIY Oil Testing Toolkit: Graphic Template Release!
-path: public/static/notes/mlamadrid/05-04-2016/diy-oil-testing-toolkit-graphic-template-release.md
+tagnames: spectrometer, community, workshops, oil-testing-kit, barnstar:basic, with:warren, homebrew-oil-testing-kit, booklet
+author: mlamadrid
+path: /notes/mlamadrid/05-04-2016/diy-oil-testing-toolkit-graphic-template-release.md
+nid: 13071
 uid: 45586
-tagnames: spectrometer,community,workshops,oil-testing-kit,barnstar:basic,with:warren,homebrew-oil-testing-kit,booklet
+
 ---
 
 # DIY Oil Testing Toolkit: Graphic Template Release!
+
+by [mlamadrid](../profile/mlamadrid) May 04, 2016 16:35
+
+May 04, 2016 16:35 | Tags: [spectrometer](../tag/spectrometer), [community](../tag/community), [workshops](../tag/workshops), [oil-testing-kit](../tag/oil-testing-kit), [barnstar:basic](../tag/barnstar:basic), [with:warren](../tag/with:warren), [homebrew-oil-testing-kit](../tag/homebrew-oil-testing-kit), [booklet](../tag/booklet)
 
 Hello! I have uploaded a template version of the book design for the DIY Oil Testing Toolkit. It's a basic Indesign template. You can print it using a self-publishing service like Blurb or take it to a printer and get it spiral bound! 
 

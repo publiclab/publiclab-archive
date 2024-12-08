@@ -1,12 +1,18 @@
 ---
-nid: 6343
 title: Public Lab to participate in IDEAS CITY with Kickstarter
-path: public/static/notes/liz/3-14-2013/public-lab-participate-ideas-city-kickstarter.md
+tagnames: new-york-city, festival, public-space
+author: liz
+path: /notes/liz/3-14-2013/public-lab-participate-ideas-city-kickstarter.md
+nid: 6343
 uid: 7
-tagnames: new-york-city,festival,public-space
+
 ---
 
 # Public Lab to participate in IDEAS CITY with Kickstarter
+
+by [liz](../profile/liz) March 14, 2013 22:25
+
+March 14, 2013 22:25 | Tags: [new-york-city](../tag/new-york-city), [festival](../tag/festival), [public-space](../tag/public-space)
 
 We have been invited to join Kickstarter during the New Museum's <a href="http://www.newmuseum.org/ideascity">IDEAS CITY</a> festival, May 1-4. The Public Lab blimp with our logo will be floating high above the festival! <strong>Please let me know if you are interested in leading the crew.</strong>
 

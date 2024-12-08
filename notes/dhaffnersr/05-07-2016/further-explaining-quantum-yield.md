@@ -1,12 +1,18 @@
 ---
-nid: 13089
 title: Further explaining quantum yield
-path: public/static/notes/dhaffnersr/05-07-2016/further-explaining-quantum-yield.md
-uid: 461120
 tagnames: 
+author: dhaffnersr
+path: /notes/dhaffnersr/05-07-2016/further-explaining-quantum-yield.md
+nid: 13089
+uid: 461120
+
 ---
 
 # Further explaining quantum yield
+
+by [dhaffnersr](../profile/dhaffnersr) May 07, 2016 23:29
+
+May 07, 2016 23:29 | Tags: 
 
 I wanted to present this as a learning tool for others who may be interested at how these calculations are arrived at, so I took some screen shots of my processin software spekwin32 because it does the quantum yield calculations for me, as long as the right data and values are entered correctly.
 

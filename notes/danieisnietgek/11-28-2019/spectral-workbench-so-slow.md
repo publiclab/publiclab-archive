@@ -1,12 +1,18 @@
 ---
-nid: 21611
 title: Spectral Workbench so slow on raspberry pi zero
-path: public/static/notes/danieisnietgek/11-28-2019/spectral-workbench-so-slow.md
+tagnames: spectral-workbench, question:spectral-workbench, question:lego-spectrometer, lego-spectrometer, first-time-poster
+author: danieisnietgek
+path: /notes/danieisnietgek/11-28-2019/spectral-workbench-so-slow.md
+nid: 21611
 uid: 636328
-tagnames: spectral-workbench,question:spectral-workbench,question:lego-spectrometer,lego-spectrometer,first-time-poster
+
 ---
 
 # Spectral Workbench so slow on raspberry pi zero
+
+by [danieisnietgek](../profile/danieisnietgek) November 28, 2019 10:17
+
+November 28, 2019 10:17 | Tags: [spectral-workbench](../tag/spectral-workbench), [question:spectral-workbench](../tag/question:spectral-workbench), [question:lego-spectrometer](../tag/question:lego-spectrometer), [lego-spectrometer](../tag/lego-spectrometer), [first-time-poster](../tag/first-time-poster)
 
 Hello,
 

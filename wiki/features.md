@@ -1,12 +1,18 @@
 ---
-nid: 11546
 title: Features
-path: public/static/wiki/features.md
+tagnames: website, website-utilities
+author: warren
+path: /wiki/features.md
+nid: 11546
 uid: 1
-tagnames: website,website-utilities
+
 ---
 
 # Features
+
+by [warren](../profile/warren), [stevie](../profile/stevie), [liz](../profile/liz), [natalie](../profile/natalie)
+
+January 29, 2015 23:51 | Tags: [website](../tag/website), [website-utilities](../tag/website-utilities)
 
 Features are a type of Node used for things like the front page, banners, footer text, and other content that is more infrastructural but change periodically. They are managed at https://publiclab.org/features. (admin only)
 

@@ -1,12 +1,18 @@
 ---
-nid: 14082
 title: Email notification overhaul
-path: public/static/notes/bash/04-02-2017/email-notification-overhaul.md
+tagnames: software, gsoc, gsoc-2017, soc, soc-2017, rgsoc-2017, soc-2017-proposals, response:13975
+author: bash
+path: /notes/bash/04-02-2017/email-notification-overhaul.md
+nid: 14082
 uid: 505018
-tagnames: software,gsoc,gsoc-2017,soc,soc-2017,rgsoc-2017,soc-2017-proposals,response:13975
+
 ---
 
 # Email notification overhaul
+
+by [bash](../profile/bash) April 02, 2017 13:51
+
+April 02, 2017 13:51 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [gsoc-2017](../tag/gsoc-2017), [soc](../tag/soc), [soc-2017](../tag/soc-2017), [rgsoc-2017](../tag/rgsoc-2017), [soc-2017-proposals](../tag/soc-2017-proposals), [response:13975](../tag/response:13975)
 
 (This template is for students applying to summer code programs with Public Lab. Use this link to start writing a post: [https://publiclab.org/post?n=899&tags=gsoc,gsoc-2017-proposals](https://publiclab.org/post?n=899&tags=gsoc,gsoc-2017-proposals) You can delete this line once you've started filling it out.)
 

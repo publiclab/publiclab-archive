@@ -1,12 +1,18 @@
 ---
-nid: 21710
 title: Oil and Gas Hardware Fellow Status Update: Week 11
-path: public/static/notes/wmacfarl/12-10-2019/oil-and-gas-hardware-fellow-status-update-week-11.md
+tagnames: water-quality, oil-and-gas, oil-and-gas-water-trio
+author: wmacfarl
+path: /notes/wmacfarl/12-10-2019/oil-and-gas-hardware-fellow-status-update-week-11.md
+nid: 21710
 uid: 424597
-tagnames: water-quality,oil-and-gas,oil-and-gas-water-trio
+
 ---
 
 # Oil and Gas Hardware Fellow Status Update: Week 11
+
+by [wmacfarl](../profile/wmacfarl) December 10, 2019 01:32
+
+December 10, 2019 01:32 | Tags: [water-quality](../tag/water-quality), [oil-and-gas](../tag/oil-and-gas), [oil-and-gas-water-trio](../tag/oil-and-gas-water-trio)
 
 These last couple of weeks have been difficult and busy for personal reasons so I haven't had as much of a chance to work on oil+gas+water-related projects as I would like.  
 

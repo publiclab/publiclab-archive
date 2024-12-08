@@ -1,12 +1,18 @@
 ---
-nid: 10214
 title: Hosting a Successful Balloon Mapping Community Workshop
-path: public/static/notes/Holden/03-21-2014/directing-a-successful-balloon-mapping-community-workshop.md
+tagnames: balloon-mapping, workshop, balloon-mapping-kit, petcoke, chicago, midwest
+author: holden
+path: /notes/Holden/03-21-2014/directing-a-successful-balloon-mapping-community-workshop.md
+nid: 10214
 uid: 170164
-tagnames: balloon-mapping,workshop,balloon-mapping-kit,petcoke,chicago,midwest
+
 ---
 
 # Hosting a Successful Balloon Mapping Community Workshop
+
+by [holden](../profile/holden) March 21, 2014 17:31
+
+March 21, 2014 17:31 | Tags: [balloon-mapping](../tag/balloon-mapping), [workshop](../tag/workshop), [balloon-mapping-kit](../tag/balloon-mapping-kit), [petcoke](../tag/petcoke), [chicago](../tag/chicago), [midwest](../tag/midwest)
 
 ###What I want to do
 

@@ -1,6 +1,6 @@
 # illustrations
 
-4 notes and wiki pages
+4 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Public Lab trading cards](/notes/warren/04-20-2014/public-lab-trading-cards) by [warren](../profile/warren)
 - [Oil Testing Kit Illustrations](/wiki/oil-testing-kit-illustrations) (wiki)

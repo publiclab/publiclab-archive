@@ -1,12 +1,18 @@
 ---
-nid: 12674
 title: Riffle conductivity caps and other housing ideas
-path: public/static/notes/mathew/02-10-2016/riffle-conductivity-caps-and-other-housing-ideas.md
+tagnames: arduino, water-quality, riffle, bottle, pet-bottle, data-logger-enclosures, sensor-enclosures, activity:sensor-enclosures, activity:conductivity
+author: mathew
+path: /notes/mathew/02-10-2016/riffle-conductivity-caps-and-other-housing-ideas.md
+nid: 12674
 uid: 4
-tagnames: arduino,water-quality,riffle,bottle,pet-bottle,data-logger-enclosures,sensor-enclosures,activity:sensor-enclosures,activity:conductivity
+
 ---
 
 # Riffle conductivity caps and other housing ideas
+
+by [mathew](../profile/mathew) February 10, 2016 01:54
+
+February 10, 2016 01:54 | Tags: [arduino](../tag/arduino), [water-quality](../tag/water-quality), [riffle](../tag/riffle), [bottle](../tag/bottle), [pet-bottle](../tag/pet-bottle), [data-logger-enclosures](../tag/data-logger-enclosures), [sensor-enclosures](../tag/sensor-enclosures), [activity:sensor-enclosures](../tag/activity:sensor-enclosures), [activity:conductivity](../tag/activity:conductivity)
 
 ###What I want to do
 Follow up on @Donblair's [Riffle housing specification](/notes/donblair/12-13-2015/riffle-ct-conductivity-temp-beta-design-enclosure-probes-data-collection) with some tested parts. 

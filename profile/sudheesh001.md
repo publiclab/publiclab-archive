@@ -3,6 +3,8 @@ uid: 468998
 created_at: 2016-03-25 02:09:28 UTC
 ---
 
+# sudheesh001
+
 I am Sudheesh Singanamalla, a dual major student studying Computer Science & Engineering at National Institute of Technology Warangal and Technology, Entrepreneurship and Product design at Indian School of Business, Hyderabad. I am reachable at the following email IDs
 - sudheesh95@gmail.com  (Personal)
 - ssudheesh@student.nitw.ac.in
@@ -16,4 +18,4 @@ My interests in computer science are web technologies, algorithms, language proc
 
 ----
 
-[Internationalize Public Lab : GSoC 2016](/notes/sudheesh001/03-25-2016/internationalize-public-lab-gsoc-2016)
+- [Internationalize Public Lab : GSoC 2016](/notes/sudheesh001/03-25-2016/internationalize-public-lab-gsoc-2016)

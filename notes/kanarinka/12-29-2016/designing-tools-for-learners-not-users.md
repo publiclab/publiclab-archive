@@ -1,12 +1,18 @@
 ---
-nid: 13823
 title: Designing Tools for Learners (Not Users)
-path: public/static/notes/kanarinka/12-29-2016/designing-tools-for-learners-not-users.md
+tagnames: data, learning, activities, data-literacy, databasic
+author: kanarinka
+path: /notes/kanarinka/12-29-2016/designing-tools-for-learners-not-users.md
+nid: 13823
 uid: 994
-tagnames: data,learning,activities,data-literacy,databasic
+
 ---
 
 # Designing Tools for Learners (Not Users)
+
+by [kanarinka](../profile/kanarinka) December 29, 2016 18:17
+
+December 29, 2016 18:17 | Tags: [data](../tag/data), [learning](../tag/learning), [activities](../tag/activities), [data-literacy](../tag/data-literacy), [databasic](../tag/databasic)
 
 Rahul Bhargava and I just co-authored an article in the Journal of Community Informatics called [Design Principles, Tools and Activities for Data Literacy Learners][1]. In it, we make the case that most tools that help people work with data prioritize flashy visualizations and outputs rather than helping to scaffold a learning process. This ends up making the process of data analysis like a black box (especially for people from non-technical backgrounds). We pose the question - what would it be like if we designed tools for _learners_ rather than _users_? We offer four qualities that a tool designed for learners should aspire to be: **focused**, **guided**, **inviting**, and **expandable **and we go on to talk about Databasic.io as a case study. Databasic is what I showed at Barnraising 2015 and consists of four suite simple tools that help explain basic concepts of analyzing and interpreting data.****Here are the four qualities:
 

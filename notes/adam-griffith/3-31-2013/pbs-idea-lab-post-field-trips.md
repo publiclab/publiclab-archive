@@ -1,12 +1,18 @@
 ---
-nid: 6635
 title: PBS Idea Lab Post: Field Trips
-path: public/static/notes/adam-griffith/3-31-2013/pbs-idea-lab-post-field-trips.md
+tagnames: balloon-mapping, education, idealab, pbs, field-trip
+author: adam-griffith
+path: /notes/adam-griffith/3-31-2013/pbs-idea-lab-post-field-trips.md
+nid: 6635
 uid: 3
-tagnames: balloon-mapping,education,idealab,pbs,field-trip
+
 ---
 
 # PBS Idea Lab Post: Field Trips
+
+by [adam-griffith](../profile/adam-griffith) April 01, 2013 00:50
+
+April 01, 2013 00:50 | Tags: [balloon-mapping](../tag/balloon-mapping), [education](../tag/education), [idealab](../tag/idealab), [pbs](../tag/pbs), [field-trip](../tag/field-trip)
 
 This blog post appeared on 15 MAR 2013 on the Media Shift Idea Lab website: http://www.pbs.org/idealab/2013/03/how-public-lab-creates-memorable-field-trips-for-students072.html
 

@@ -1,12 +1,18 @@
 ---
-nid: 12820
 title: Question: Is dontflush.me service closed? 
-path: public/static/notes/lyjune/03-09-2016/question-is-dontflush-me-service-closed.md
+tagnames: question:dontflushme, question:leif, percifield, question:open-water
+author: lyjune
+path: /notes/lyjune/03-09-2016/question-is-dontflush-me-service-closed.md
+nid: 12820
 uid: 468617
-tagnames: question:dontflushme,question:leif,percifield,question:open-water
+
 ---
 
 # Question: Is dontflush.me service closed? 
+
+by [lyjune](../profile/lyjune) March 09, 2016 20:41
+
+March 09, 2016 20:41 | Tags: [question:dontflushme](../tag/question:dontflushme), [question:leif](../tag/question:leif), [percifield](../tag/percifield), [question:open-water](../tag/question:open-water)
 
 ###What I want to do or know
 

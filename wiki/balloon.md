@@ -1,11 +1,17 @@
 ---
-nid: 18415
 title: balloon
-path: public/static/wiki/balloon.md
-uid: 1
 tagnames: redirect:balloon-mapping
+author: warren
+path: /wiki/balloon.md
+nid: 18415
+uid: 1
+
 ---
 
 # balloon
+
+by [warren](../profile/warren)
+
+February 24, 2019 16:50 | Tags: [redirect:balloon-mapping](../tag/redirect:balloon-mapping)
 
 Redirect!!

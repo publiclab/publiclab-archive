@@ -1,6 +1,6 @@
 # staten-island
 
-14 notes and wiki pages
+14 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [New York City](/wiki/new-york-city) (wiki)
 - [ITP Camp @ Fresh Kills](/notes/nejohnson2/06-17-2013/itp-camp-fresh-kills) by [nicholas](../profile/nicholas)

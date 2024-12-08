@@ -1,12 +1,18 @@
 ---
-nid: 13808
 title: Transifex Internationalisation of Publiclab.org
-path: public/static/notes/pipix51/12-27-2016/transifex-internationalisation-of-publiclab-org.md
+tagnames: website, activity, localization, translation, language, gcin, gcin-2016, replication:13651, transifex
+author: pipix51
+path: /notes/pipix51/12-27-2016/transifex-internationalisation-of-publiclab-org.md
+nid: 13808
 uid: 500694
-tagnames: website,activity,localization,translation,language,gcin,gcin-2016,replication:13651,transifex
+
 ---
 
 # Transifex Internationalisation of Publiclab.org
+
+by [pipix51](../profile/pipix51) December 27, 2016 14:38
+
+December 27, 2016 14:38 | Tags: [website](../tag/website), [activity](../tag/activity), [localization](../tag/localization), [translation](../tag/translation), [language](../tag/language), [gcin](../tag/gcin), [gcin-2016](../tag/gcin-2016), [replication:13651](../tag/replication:13651), [transifex](../tag/transifex)
 
 ## Introduction
 I translated some strings on Transifex for Public Lab as part of the Publiclab.org internationalisation project and as a task for Google Code In 2016. As I have a basic understanding of Chinese, I translated the words on the webpage into Chinese. Overall the interface provided by Transifex is easy to use and at first glance, I could undertand what I had to do to translate the strings given.

@@ -1,12 +1,18 @@
 ---
-nid: 12386
 title: Oil Testing with the Green Team
-path: public/static/notes/stevie/11-09-2015/oil-testing-with-the-green-team.md
+tagnames: gulf-coast, spectrometer, gulfcoast, oil-testing-kit, barnstar:basic, otk, oiltesting, replication:11046, pipeline-monitoring
+author: stevie
+path: /notes/stevie/11-09-2015/oil-testing-with-the-green-team.md
+nid: 12386
 uid: 422561
-tagnames: gulf-coast,spectrometer,gulfcoast,oil-testing-kit,barnstar:basic,otk,oiltesting,replication:11046,pipeline-monitoring
+
 ---
 
 # Oil Testing with the Green Team
+
+by [stevie](../profile/stevie) November 09, 2015 17:42
+
+November 09, 2015 17:42 | Tags: [gulf-coast](../tag/gulf-coast), [spectrometer](../tag/spectrometer), [gulfcoast](../tag/gulfcoast), [oil-testing-kit](../tag/oil-testing-kit), [barnstar:basic](../tag/barnstar:basic), [otk](../tag/otk), [oiltesting](../tag/oiltesting), [replication:11046](../tag/replication:11046), [pipeline-monitoring](../tag/pipeline-monitoring)
 
 I have been working to refine the [workshop](http://publiclab.org/wiki/oil-testing-event) that will support the new [Public Lab Oil Testing Kit](http://publiclab.org/wiki/oil-testing-kit). To test out the existing format, I spent two  afternoons with Groundwork New Orleans' Green Team - a great group of enthusiastic high school students. We've been running the [Beta program](http://publiclab.org/wiki/oil-testing-kit-beta) for the past couple months, and so alongside the workshop format, I ran a version of the beta program for the students to contribute to. In this post I will include some of our experiences building the kit, taking some samples and reflect on the workshop format. 
 

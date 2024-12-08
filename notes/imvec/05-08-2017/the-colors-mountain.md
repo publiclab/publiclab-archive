@@ -1,12 +1,18 @@
 ---
-nid: 14168
 title: The Colors Mountain
-path: public/static/notes/imvec/05-08-2017/the-colors-mountain.md
+tagnames: balloon-mapping, spain, lat:39.895, lon:-4.024, grassroots, documentary
+author: imvec
+path: /notes/imvec/05-08-2017/the-colors-mountain.md
+nid: 14168
 uid: 495038
-tagnames: balloon-mapping,spain,lat:39.895,lon:-4.024,grassroots,documentary
+
 ---
 
 # The Colors Mountain
+
+by [imvec](../profile/imvec) May 08, 2017 11:13
+
+May 08, 2017 11:13 | Tags: [balloon-mapping](../tag/balloon-mapping), [spain](../tag/spain), [lat:39.895](../tag/lat:39.895), [lon:-4.024](../tag/lon:-4.024), [grassroots](../tag/grassroots), [documentary](../tag/documentary)
 
 ###What Is The Colors Mountain
 The Colors Mountain is a collective artistic intervention project developed during 6 years that uses a virtual space dedicated to the observation and investigation of alleged ecological crimes, with the goal of using the concept of "reasonable doubt", not only for possible court acquittal but also cause a formal investigation that could lead to a court complaint.

@@ -3,6 +3,8 @@ uid: 424454
 created_at: 2014-06-02 17:30:47 UTC
 ---
 
+# natalie
+
 Civic Kits Manager
 Location: Portland, OR
 Contact: natalie@publiclab.org
@@ -13,12 +15,12 @@ She is currently rounding out her AAOT and continuing education through Portland
 
 ----
 
-[Infragram Point & Shoot cameras now in production](/notes/Natalie/06-19-2014/mobius-cam-point-and-shoot-shipping-update)
-[Donations/promos/consignment](/wiki/donations-promos-consignment)
-[promos](/wiki/promos)
-[Spec Cam to Infragram w/the flip of filter? (Rosco "Fire" #19)](/notes/Natalie/07-29-2014/spec-cam-to-infragram-w-the-flip-of-filter-rosco-fire-19)
-[Back to School Sale happening now through September 30th!](/notes/Natalie/08-29-2014/back-to-school-sale-happening-now-through-september-30th)
-[PhotosynQ](/wiki/photosynq)
-[Holiday Promotion at the Public Lab Store](/notes/Natalie/12-17-2014/holiday-promotion-at-the-public-lab-store)
-[DIY Camera Mount for Pole Mapping](/notes/Natalie/02-18-2015/diy-camera-mount-for-pole-mapping)
-[DIY Pole Mapping Camera Mount](/notes/Natalie/03-06-2015/diy-pole-mapping-camera-mount)
+- [Infragram Point & Shoot cameras now in production](/notes/Natalie/06-19-2014/mobius-cam-point-and-shoot-shipping-update)
+- [Donations/promos/consignment](/wiki/donations-promos-consignment) (wiki)
+- [promos](/wiki/promos) (wiki)
+- [Spec Cam to Infragram w/the flip of filter? (Rosco "Fire" #19)](/notes/Natalie/07-29-2014/spec-cam-to-infragram-w-the-flip-of-filter-rosco-fire-19)
+- [Back to School Sale happening now through September 30th!](/notes/Natalie/08-29-2014/back-to-school-sale-happening-now-through-september-30th)
+- [PhotosynQ](/wiki/photosynq) (wiki)
+- [Holiday Promotion at the Public Lab Store](/notes/Natalie/12-17-2014/holiday-promotion-at-the-public-lab-store)
+- [DIY Camera Mount for Pole Mapping](/notes/Natalie/02-18-2015/diy-camera-mount-for-pole-mapping)
+- [DIY Pole Mapping Camera Mount](/notes/Natalie/03-06-2015/diy-pole-mapping-camera-mount)

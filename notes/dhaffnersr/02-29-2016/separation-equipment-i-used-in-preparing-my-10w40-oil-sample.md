@@ -1,12 +1,18 @@
 ---
-nid: 12762
 title: Separation equipment I used in preparing my 10w40 oil sample
-path: public/static/notes/dhaffnersr/02-29-2016/separation-equipment-i-used-in-preparing-my-10w40-oil-sample.md
-uid: 461120
 tagnames: 
+author: dhaffnersr
+path: /notes/dhaffnersr/02-29-2016/separation-equipment-i-used-in-preparing-my-10w40-oil-sample.md
+nid: 12762
+uid: 461120
+
 ---
 
 # Separation equipment I used in preparing my 10w40 oil sample
+
+by [dhaffnersr](../profile/dhaffnersr) February 29, 2016 21:54
+
+February 29, 2016 21:54 | Tags: 
 
 [![my_log_book_Wnotes.JPG](//i.publiclab.org/system/images/photos/000/014/620/medium/my_log_book_Wnotes.JPG)](//i.publiclab.org/system/images/photos/000/014/620/original/my_log_book_Wnotes.JPG)
 

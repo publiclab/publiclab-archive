@@ -1,12 +1,18 @@
 ---
-nid: 12689
 title: Passive Particulate Tool Development
-path: public/static/wiki/pm-dev.md
-uid: 4
 tagnames: parent:pm
+author: mathew
+path: /wiki/pm-dev.md
+nid: 12689
+uid: 4
+
 ---
 
 # Passive Particulate Tool Development
+
+by [warren](../profile/warren), [mathew](../profile/mathew), [stevie](../profile/stevie), [gretchengehrke](../profile/gretchengehrke)
+
+February 15, 2016 06:28 | Tags: [parent:pm](../tag/parent:pm)
 
 We have two different technologies in development: alert systems built around [optical PM monitors](/wiki/optical-pm) with [Open Pipe Kit](http://openpipekit.github.io/), and [passive PM monitors](/wiki/passive-pm) to meet EPA’s proposed [supplementary monitoring](https://publiclab.org/wiki/pm-monitoring#Proposed+EPA+precision+categories+for+citizen+monitoring) goals for citizen science. 
 

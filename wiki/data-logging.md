@@ -1,12 +1,18 @@
 ---
-nid: 14521
 title: Data Logging
-path: public/static/wiki/data-logging.md
+tagnames: arduino, tool, riffle, data-logging, method, oil-and-gas, nano-data-logger, datalogging, data-logger-enclosures, parent:water-sensors
+author: warren
+path: /wiki/data-logging.md
+nid: 14521
 uid: 1
-tagnames: arduino,tool,riffle,data-logging,method,oil-and-gas,nano-data-logger,datalogging,data-logger-enclosures,parent:water-sensors
+
 ---
 
 # Data Logging
+
+by [warren](../profile/warren), [stevie](../profile/stevie), [cfastie](../profile/cfastie)
+
+June 12, 2017 18:56 | Tags: [arduino](../tag/arduino), [tool](../tag/tool), [riffle](../tag/riffle), [data-logging](../tag/data-logging), [method](../tag/method), [oil-and-gas](../tag/oil-and-gas), [nano-data-logger](../tag/nano-data-logger), [datalogging](../tag/datalogging), [data-logger-enclosures](../tag/data-logger-enclosures), [parent:water-sensors](../tag/parent:water-sensors)
 
 Data loggers can help to record data from a sensor over time -- often over days or weeks, or even months. There are a variety of data loggers available, both commercial and open source. Each entry from a logger -- stored on, for example, a memory card -- may have a timestamp and some data loggers can record location from a GPS as well. 
 

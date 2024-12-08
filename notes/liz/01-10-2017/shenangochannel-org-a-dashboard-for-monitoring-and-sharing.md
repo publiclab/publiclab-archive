@@ -1,12 +1,18 @@
 ---
-nid: 13849
 title: ShenangoChannel.org - a dashboard for monitoring and sharing
-path: public/static/notes/liz/01-10-2017/shenangochannel-org-a-dashboard-for-monitoring-and-sharing.md
+tagnames: photo-monitoring, cmu, timelapse, data, pm, particulate-monitoring, data-management, dashboard, drexel, smokestacks, smoke, story:timelapse, data-logging-visualization, data-visualization
+author: liz
+path: /notes/liz/01-10-2017/shenangochannel-org-a-dashboard-for-monitoring-and-sharing.md
+nid: 13849
 uid: 7
-tagnames: photo-monitoring,cmu,timelapse,data,pm,particulate-monitoring,data-management,dashboard,drexel,smokestacks,smoke,story:timelapse,data-logging-visualization,data-visualization
+
 ---
 
 # ShenangoChannel.org - a dashboard for monitoring and sharing
+
+by [liz](../profile/liz) January 10, 2017 16:31
+
+January 10, 2017 16:31 | Tags: [photo-monitoring](../tag/photo-monitoring), [cmu](../tag/cmu), [timelapse](../tag/timelapse), [data](../tag/data), [pm](../tag/pm), [particulate-monitoring](../tag/particulate-monitoring), [data-management](../tag/data-management), [dashboard](../tag/dashboard), [drexel](../tag/drexel), [smokestacks](../tag/smokestacks), [smoke](../tag/smoke), [story:timelapse](../tag/story:timelapse), [data-logging-visualization](../tag/data-logging-visualization), [data-visualization](../tag/data-visualization)
 
 Just saw a great presentation yesterday at EPA's Region 2 Citizen Science Forum by Amy Gottsegen of Drexel University (Gwen Ottinger's student) on **http://shenangochannel.org/**. CMU's CREATE Lab is also involved but i'm not sure how the project is structured. 
 

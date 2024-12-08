@@ -1,12 +1,18 @@
 ---
-nid: 5068
 title: Measuring our community growth using web traffic
-path: public/static/notes/warren/11-30-2012/measuring-our-community-growth-using-web-traffic.md
+tagnames: community-metrics, community, website, webworkinggroup, organizers, analytics, quantitative, evaluation
+author: warren
+path: /notes/warren/11-30-2012/measuring-our-community-growth-using-web-traffic.md
+nid: 5068
 uid: 1
-tagnames: community-metrics,community,website,webworkinggroup,organizers,analytics,quantitative,evaluation
+
 ---
 
 # Measuring our community growth using web traffic
+
+by [warren](../profile/warren) November 30, 2012 19:12
+
+November 30, 2012 19:12 | Tags: [community-metrics](../tag/community-metrics), [community](../tag/community), [website](../tag/website), [webworkinggroup](../tag/webworkinggroup), [organizers](../tag/organizers), [analytics](../tag/analytics), [quantitative](../tag/quantitative), [evaluation](../tag/evaluation)
 
 I keep an eye on our web traffic at PublicLaboratory.org as a way to see how the community is growing -- it's obviously not the whole story but gives us a sense of the level of activity. And especially since our community grows quite a bit after major events or drives like the Kickstarters we've done, it's interesting to see the effects in terms of how many visitors we have.
 

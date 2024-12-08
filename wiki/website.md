@@ -1,12 +1,18 @@
 ---
-nid: 18871
 title: How to use and improve this website
-path: public/static/wiki/website.md
-uid: 1
 tagnames: website
+author: warren
+path: /wiki/website.md
+nid: 18871
+uid: 1
+
 ---
 
 # How to use and improve this website
+
+by [laurel_mire](../profile/laurel_mire), [liz](../profile/liz), [warren](../profile/warren)
+
+March 26, 2019 20:23 | Tags: [website](../tag/website)
 
 This page collects tips, guides, and documentation about using the Public Lab website. As a collaborative community, we are always refining our collaboration infrastructure. Please read on to learn how, and leave a comment if you'd like to help out -- thank you!
 

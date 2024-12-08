@@ -1,12 +1,18 @@
 ---
-nid: 16563
 title: Microscope calibration overlays… What’s the best approach?
-path: public/static/notes/MaggPi/06-23-2018/microscope-calibration-overlays-what-s-the-best-approach.md
+tagnames: calibration, raspberry-pi, microscope, opencv, activity:microscope, gsoc-2018, activity:community-microscope, community-microscope, microscope-calibration, community-microscope-prototyping, activity:community-microscope-usage, activity:microscope-calibration, overlay
+author: MaggPi
+path: /notes/MaggPi/06-23-2018/microscope-calibration-overlays-what-s-the-best-approach.md
+nid: 16563
 uid: 501996
-tagnames: calibration,raspberry-pi,microscope,opencv,activity:microscope,gsoc-2018,activity:community-microscope,community-microscope,microscope-calibration,community-microscope-prototyping,activity:community-microscope-usage,activity:microscope-calibration,overlay
+
 ---
 
 # Microscope calibration overlays… What’s the best approach?
+
+by [MaggPi](../profile/MaggPi) June 23, 2018 18:35
+
+June 23, 2018 18:35 | Tags: [calibration](../tag/calibration), [raspberry-pi](../tag/raspberry-pi), [microscope](../tag/microscope), [opencv](../tag/opencv), [activity:microscope](../tag/activity:microscope), [gsoc-2018](../tag/gsoc-2018), [activity:community-microscope](../tag/activity:community-microscope), [community-microscope](../tag/community-microscope), [microscope-calibration](../tag/microscope-calibration), [community-microscope-prototyping](../tag/community-microscope-prototyping), [activity:community-microscope-usage](../tag/activity:community-microscope-usage), [activity:microscope-calibration](../tag/activity:microscope-calibration), [overlay](../tag/overlay)
 
 Research question
 

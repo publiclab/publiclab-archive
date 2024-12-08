@@ -1,12 +1,18 @@
 ---
-nid: 14202
 title: Stormwater Workshop 3 Report: Designing a Stormwater Study
-path: public/static/notes/stevie/05-16-2017/stormwater-workshop-3-report-designing-a-stormwater-study.md
+tagnames: gulf-coast, new-orleans, annotation, stormwater, activity:stormwater, study-design, map-annotation
+author: stevie
+path: /notes/stevie/05-16-2017/stormwater-workshop-3-report-designing-a-stormwater-study.md
+nid: 14202
 uid: 422561
-tagnames: gulf-coast,new-orleans,annotation,stormwater,activity:stormwater,study-design,map-annotation
+
 ---
 
 # Stormwater Workshop 3 Report: Designing a Stormwater Study
+
+by [stevie](../profile/stevie) May 16, 2017 22:20
+
+May 16, 2017 22:20 | Tags: [gulf-coast](../tag/gulf-coast), [new-orleans](../tag/new-orleans), [annotation](../tag/annotation), [stormwater](../tag/stormwater), [activity:stormwater](../tag/activity:stormwater), [study-design](../tag/study-design), [map-annotation](../tag/map-annotation)
 
 On May 6th, we met for the third in the [Stormwater Workshop Series][1] on "Designing a Stormwater Study." I had never hosted a workshop like this before, and wasn't entirely sure how it would work out, but things went really smoothly and when we all reflected on the event, things felt clear and on a good path. Everyone reflected that the two workshops we held before this, ([the first][2] where we held an  introduction to Stormwater, discussed the issues, visited the sites and picked our study question, [the second][3] where we mapped out the sites and did ground surveys) set us up for success on this complicated step of the project, actually drafting a study design. 
 

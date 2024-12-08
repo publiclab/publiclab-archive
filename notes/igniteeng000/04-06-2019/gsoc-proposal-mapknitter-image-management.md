@@ -1,12 +1,18 @@
 ---
-nid: 18969
 title: GSoC proposal: Mapknitter Image Management and Synchronous Editing
-path: public/static/notes/igniteeng000/04-06-2019/gsoc-proposal-mapknitter-image-management.md
+tagnames: software, gsoc, soc, response:13975, rgsoc-2019, gsoc-2019, soc-2019, soc-2019-proposals
+author: igniteeng000
+path: /notes/igniteeng000/04-06-2019/gsoc-proposal-mapknitter-image-management.md
+nid: 18969
 uid: 551692
-tagnames: software,gsoc,soc,response:13975,rgsoc-2019,gsoc-2019,soc-2019,soc-2019-proposals
+
 ---
 
 # GSoC proposal: Mapknitter Image Management and Synchronous Editing
+
+by [igniteeng000](../profile/igniteeng000) April 05, 2019 20:24
+
+April 05, 2019 20:24 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [soc](../tag/soc), [response:13975](../tag/response:13975), [rgsoc-2019](../tag/rgsoc-2019), [gsoc-2019](../tag/gsoc-2019), [soc-2019](../tag/soc-2019), [soc-2019-proposals](../tag/soc-2019-proposals)
 
 ## 
 

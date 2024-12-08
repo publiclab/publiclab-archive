@@ -1,6 +1,6 @@
 # ambient-light
 
-4 notes and wiki pages
+4 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [How can I reduce ambient light inside the Desktop Spectrometry Starter Kit?](/notes/warren/09-19-2016/how-can-i-reduce-ambient-light-inside-the-desktop-spectrometry-starter-kit) by [warren](../profile/warren)
 - [Reduce interior reflections in your spectrometer with black ink](/notes/warren/09-22-2016/reduce-interior-reflections-in-your-spectrometer-with-black-ink) by [warren](../profile/warren)

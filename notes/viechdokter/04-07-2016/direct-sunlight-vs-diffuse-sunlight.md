@@ -1,12 +1,18 @@
 ---
-nid: 12934
 title: Direct sunlight vs. diffuse sunlight...
-path: public/static/notes/viechdokter/04-07-2016/direct-sunlight-vs-diffuse-sunlight.md
+tagnames: spectrometer, spectrometry, sunlight, replication:13460
+author: viechdokter
+path: /notes/viechdokter/04-07-2016/direct-sunlight-vs-diffuse-sunlight.md
+nid: 12934
 uid: 468990
-tagnames: spectrometer,spectrometry,sunlight,replication:13460
+
 ---
 
 # Direct sunlight vs. diffuse sunlight...
+
+by [viechdokter](../profile/viechdokter) April 07, 2016 18:02
+
+April 07, 2016 18:02 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [sunlight](../tag/sunlight), [replication:13460](../tag/replication:13460)
 
 Today was a nice spring day here in Germany so I played a bit with my spectrograph. One minute there was full sunlight - the other minute the sun was hidden by nice white clouds. I took the two spectra to compare them. (Sorry, no calibration yet. I don't have a fluorescent lamp here at the moment.)
 

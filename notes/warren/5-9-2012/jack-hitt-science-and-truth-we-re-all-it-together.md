@@ -1,12 +1,18 @@
 ---
-nid: 1934
 title: Jack Hitt: Science and Truth: We’re All in It Together
-path: public/static/notes/warren/5-9-2012/jack-hitt-science-and-truth-we-re-all-it-together.md
-uid: 1
 tagnames: 
+author: warren
+path: /notes/warren/5-9-2012/jack-hitt-science-and-truth-we-re-all-it-together.md
+nid: 1934
+uid: 1
+
 ---
 
 # Jack Hitt: Science and Truth: We’re All in It Together
+
+by [warren](../profile/warren) May 09, 2012 13:21
+
+May 09, 2012 13:21 | Tags: 
 
 <p>Interesting article on &quot;crowd review; when commenters or amateur experts challenge research and sometimes overturn it with their own evidence:</p>
 <p><i>by JACK HITT, <a href="http://nytimes.com">nytimes.com</a></i><br>

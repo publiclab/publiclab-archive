@@ -1,12 +1,18 @@
 ---
-nid: 766
 title: SPECTRAL LINE CALIBRATION
-path: public/static/notes/xiphmont/2-8-2012/spectral-line-calibration.md
-uid: 470
 tagnames: 
+author: xiphmont
+path: /notes/xiphmont/2-8-2012/spectral-line-calibration.md
+nid: 766
+uid: 470
+
 ---
 
 # SPECTRAL LINE CALIBRATION
+
+by [xiphmont](../profile/xiphmont) February 08, 2012 23:59
+
+February 08, 2012 23:59 | Tags: 
 
 A nice summary of using common gas emission lamps (like the ubiquitous neon indicator lamps available from many sources including radio shack) for spectrometer scale calibration:
 

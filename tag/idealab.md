@@ -1,6 +1,6 @@
 # idealab
 
-13 notes and wiki pages
+13 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Steps towards DIY Spectrometry](/notes/warren/9-6-2011/steps-towards-diy-spectrometry) by [warren](../profile/warren)
 - [PBS post on Brooklyn mapping projects and recent imagery](/notes/warren/10-3-2011/pbs-post-brooklyn-mapping-projects-and-recent-imagery) by [warren](../profile/warren)

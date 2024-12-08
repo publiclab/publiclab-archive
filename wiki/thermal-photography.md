@@ -1,12 +1,18 @@
 ---
-nid: 3
 title: Thermal photography
-path: public/static/wiki/thermal-photography.md
+tagnames: thermal-photography, thermal-flashlight, urban-planning, thermal-camera, thermal-fishing-bob, methane, tabbed:notes, tabbed:wikis, indiawaterportal, tool, method
+author: warren
+path: /wiki/thermal-photography.md
+nid: 3
 uid: 1
-tagnames: thermal-photography,thermal-flashlight,urban-planning,thermal-camera,thermal-fishing-bob,methane,tabbed:notes,tabbed:wikis,indiawaterportal,tool,method
+
 ---
 
 # Thermal photography
+
+by [warren](../profile/warren), [sara](../profile/sara), [kgrevera](../profile/kgrevera), [bsugar](../profile/bsugar), [kgradow1](../profile/kgradow1), [Shannon](../profile/Shannon), [liz](../profile/liz)
+
+December 03, 2010 23:04 | Tags: [thermal-photography](../tag/thermal-photography), [thermal-flashlight](../tag/thermal-flashlight), [urban-planning](../tag/urban-planning), [thermal-camera](../tag/thermal-camera), [thermal-fishing-bob](../tag/thermal-fishing-bob), [methane](../tag/methane), [tabbed:notes](../tag/tabbed:notes), [tabbed:wikis](../tag/tabbed:wikis), [indiawaterportal](../tag/indiawaterportal), [tool](../tag/tool), [method](../tag/method)
 
 Thermal infrared cameras are designed to take photos or videos of heat (not to be confused with [near infrared cameras](/wiki/multispectral-imaging)). Some of these are tuned specifically for gases, and can be used to image #methane. 
 

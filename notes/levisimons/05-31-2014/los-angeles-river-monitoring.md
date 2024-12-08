@@ -1,12 +1,18 @@
 ---
-nid: 10521
 title: Los Angeles river monitoring
-path: public/static/notes/levisimons/05-31-2014/los-angeles-river-monitoring.md
+tagnames: california, river, los-angeles, la
+author: levisimons
+path: /notes/levisimons/05-31-2014/los-angeles-river-monitoring.md
+nid: 10521
 uid: 1087
-tagnames: california,river,los-angeles,la
+
 ---
 
 # Los Angeles river monitoring
+
+by [levisimons](../profile/levisimons) May 31, 2014 01:41
+
+May 31, 2014 01:41 | Tags: [california](../tag/california), [river](../tag/river), [los-angeles](../tag/los-angeles), [la](../tag/la)
 
 Project name: [Ecology and the Chemistry of the Los Angeles Watershed](http://scienceland.wikispaces.com/LARiver)
 

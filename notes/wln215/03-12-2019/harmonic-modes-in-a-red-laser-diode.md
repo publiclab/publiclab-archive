@@ -1,12 +1,18 @@
 ---
-nid: 18522
 title: Harmonic Modes in a Red Laser Diode
-path: public/static/notes/wln215/03-12-2019/harmonic-modes-in-a-red-laser-diode.md
+tagnames: spectrometer, spectrometers, first-time-poster, lasers, lat:40.713955, lon:-74.014892
+author: wln215
+path: /notes/wln215/03-12-2019/harmonic-modes-in-a-red-laser-diode.md
+nid: 18522
 uid: 578478
-tagnames: spectrometer,spectrometers,first-time-poster,lasers,lat:40.713955,lon:-74.014892
+
 ---
 
 # Harmonic Modes in a Red Laser Diode
+
+by [wln215](../profile/wln215) March 12, 2019 16:02
+
+March 12, 2019 16:02 | Tags: [spectrometer](../tag/spectrometer), [spectrometers](../tag/spectrometers), [first-time-poster](../tag/first-time-poster), [lasers](../tag/lasers), [lat:40.713955](../tag/lat:40.713955), [lon:-74.014892](../tag/lon:-74.014892)
 
 # High Resolution Laser Diode Spectroscopy
 

@@ -1,12 +1,18 @@
 ---
-nid: 11633
 title: NDVI in realtime video
-path: public/static/notes/Andresc4/02-24-2015/ndvi-in-realtime-video.md
+tagnames: ndvi, infrared, question:ndvi, ndvi-arg, argiculture
+author: andresc4
+path: /notes/Andresc4/02-24-2015/ndvi-in-realtime-video.md
+nid: 11633
 uid: 328260
-tagnames: ndvi,infrared,question:ndvi,ndvi-arg,argiculture
+
 ---
 
 # NDVI in realtime video
+
+by [andresc4](../profile/andresc4) February 24, 2015 16:37
+
+February 24, 2015 16:37 | Tags: [ndvi](../tag/ndvi), [infrared](../tag/infrared), [question:ndvi](../tag/question:ndvi), [ndvi-arg](../tag/ndvi-arg), [argiculture](../tag/argiculture)
 
 ### What I want to Do: 
 Hi, I want to get a NDVI video in realtime from a UAV, either by using a small Pcduino+linux software + and 2 webcams + composite video out + vtx  

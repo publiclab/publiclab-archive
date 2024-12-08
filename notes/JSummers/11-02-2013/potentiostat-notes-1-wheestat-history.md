@@ -1,12 +1,18 @@
 ---
-nid: 9718
 title: Potentiostat Notes-1, WheeStat history
-path: public/static/notes/JSummers/11-02-2013/potentiostat-notes-1-wheestat-history.md
+tagnames: water-sensing, water-quality, potentiostat
+author: JSummers
+path: /notes/JSummers/11-02-2013/potentiostat-notes-1-wheestat-history.md
+nid: 9718
 uid: 304279
-tagnames: water-sensing,water-quality,potentiostat
+
 ---
 
 # Potentiostat Notes-1, WheeStat history
+
+by [JSummers](../profile/JSummers) November 02, 2013 22:06
+
+November 02, 2013 22:06 | Tags: [water-sensing](../tag/water-sensing), [water-quality](../tag/water-quality), [potentiostat](../tag/potentiostat)
 
 ###What I want to do
 This note describes some recent development work on potentiostat, an instrument that measures current / voltage curves for electrode processes.  I have been told that I should worry less about having something fully developed and put more of our results online. In response, this is my attempt to be more transparent about the process.   This note just covers development history.  In the near future, I hope to write one that describes how to build one of these (it will probably be as boring as this one, but it will have more pictures).  In the not-as-near future, I will put actual code on my GitHub site (https://github.com/WheeSci).  If you are interested in design files or code and don't find what you need at the GitHub site, let me know and I will send you what I can.

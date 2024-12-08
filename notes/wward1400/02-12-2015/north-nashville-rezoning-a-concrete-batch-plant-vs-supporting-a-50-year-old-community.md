@@ -1,12 +1,18 @@
 ---
-nid: 11577
 title: North Nashville: Concrete Batch Plant Rezoning Adjacent to a +50 Year Old Community
-path: public/static/notes/wward1400/02-12-2015/north-nashville-rezoning-a-concrete-batch-plant-vs-supporting-a-50-year-old-community.md
+tagnames: balloon-mapping, water-sensing, air-column-monitor, water-quality-mapping, air-quality, transportation, water-quality, southeast, traffic, land-use, zoning, tennessee, lulu
+author: wward1400
+path: /notes/wward1400/02-12-2015/north-nashville-rezoning-a-concrete-batch-plant-vs-supporting-a-50-year-old-community.md
+nid: 11577
 uid: 46742
-tagnames: balloon-mapping,water-sensing,air-column-monitor,water-quality-mapping,air-quality,transportation,water-quality,southeast,traffic,land-use,zoning,tennessee,lulu
+
 ---
 
 # North Nashville: Concrete Batch Plant Rezoning Adjacent to a +50 Year Old Community
+
+by [wward1400](../profile/wward1400) February 12, 2015 00:25
+
+February 12, 2015 00:25 | Tags: [balloon-mapping](../tag/balloon-mapping), [water-sensing](../tag/water-sensing), [air-column-monitor](../tag/air-column-monitor), [water-quality-mapping](../tag/water-quality-mapping), [air-quality](../tag/air-quality), [transportation](../tag/transportation), [water-quality](../tag/water-quality), [southeast](../tag/southeast), [traffic](../tag/traffic), [land-use](../tag/land-use), [zoning](../tag/zoning), [tennessee](../tag/tennessee), [lulu](../tag/lulu)
 
 The communities of North Nashville have long been considered "a dumping ground" for the city's unwanted land uses. See: <ul><li>["Environmental Racism?: Northwest Nashvillians say their neighborhoods have been "a dumping ground" for Davidson County", Nashville Scene, June 2004](http://www.nashvillescene.com/nashville/environmental-racism/Content?oid=1190156)</li>
 <li>["Your opinion of the Bordeaux area?," city-data.com, April 2009](http://www.city-data.com/forum/nashville/611751-your-opinion-bordeaux-area-2.html)</li>.  

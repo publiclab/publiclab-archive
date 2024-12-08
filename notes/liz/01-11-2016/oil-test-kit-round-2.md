@@ -1,12 +1,18 @@
 ---
-nid: 12576
 title: Oil Test Kit Round 2
-path: public/static/notes/liz/01-11-2016/oil-test-kit-round-2.md
-uid: 7
 tagnames: oil-testing-kit
+author: liz
+path: /notes/liz/01-11-2016/oil-test-kit-round-2.md
+nid: 12576
+uid: 7
+
 ---
 
 # Oil Test Kit Round 2
+
+by [liz](../profile/liz) January 11, 2016 01:28
+
+January 11, 2016 01:28 | Tags: [oil-testing-kit](../tag/oil-testing-kit)
 
 I wanted to run through the Oil Test Kit again and see if i could improve my results. So, I started from scratch built a new cuvette holder (this one included the light-blocking flap, cool!) and a new spectrometer.
 

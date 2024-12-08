@@ -1,12 +1,18 @@
 ---
-nid: 13716
 title: Interview: Chris Nidel on environmental evidence in court
-path: public/static/notes/warren/11-22-2016/interview-chris-nidel-on-environmental-evidence-in-court.md
+tagnames: evidence, blog, legal, openhour, with:gretchengehrke, evidence-project, chris-nidel, photographic-evidence, photographic-monitoring, court, jury, series:evidence-project, law-and-policy
+author: warren
+path: /notes/warren/11-22-2016/interview-chris-nidel-on-environmental-evidence-in-court.md
+nid: 13716
 uid: 1
-tagnames: evidence,blog,legal,openhour,with:gretchengehrke,evidence-project,chris-nidel,photographic-evidence,photographic-monitoring,court,jury,series:evidence-project,law-and-policy
+
 ---
 
 # Interview: Chris Nidel on environmental evidence in court
+
+by [warren](../profile/warren) November 22, 2016 16:31
+
+November 22, 2016 16:31 | Tags: [evidence](../tag/evidence), [blog](../tag/blog), [legal](../tag/legal), [openhour](../tag/openhour), [with:gretchengehrke](../tag/with:gretchengehrke), [evidence-project](../tag/evidence-project), [chris-nidel](../tag/chris-nidel), [photographic-evidence](../tag/photographic-evidence), [photographic-monitoring](../tag/photographic-monitoring), [court](../tag/court), [jury](../tag/jury), [series:evidence-project](../tag/series:evidence-project), [law-and-policy](../tag/law-and-policy)
 
 A few months ago, as our first interview for the Environmental Evidence Project blog series (#evidence-project), we caught up with Chris Nidel, an attorney with [Nidel Law, PLLC][1], based in the DC area. _Lead image: satellite images of waste at a Maryland Perdue chicken farm from a case Chris fought in 2012\._
 

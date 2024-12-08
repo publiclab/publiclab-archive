@@ -1,12 +1,18 @@
 ---
-nid: 15108
 title: How to identify herbicide known as Dicamba or identify the damage it causes?
-path: public/static/notes/liz/10-27-2017/how-to-identify-herbicide-known-as-dicamba-or-identify-the-damage-it-causes.md
+tagnames: answered, question:general, question:herbicides, question:agriculture
+author: liz
+path: /notes/liz/10-27-2017/how-to-identify-herbicide-known-as-dicamba-or-identify-the-damage-it-causes.md
+nid: 15108
 uid: 7
-tagnames: answered,question:general,question:herbicides,question:agriculture
+
 ---
 
 # How to identify herbicide known as Dicamba or identify the damage it causes?
+
+by [liz](../profile/liz) October 27, 2017 13:21
+
+October 27, 2017 13:21 | Tags: [answered](../tag/answered), [question:general](../tag/question:general), [question:herbicides](../tag/question:herbicides), [question:agriculture](../tag/question:agriculture)
 
 I'm posting this question on behalf of a farming community member. Dicamba is a namebrand Monsanto herbicide that is paired with genetically modified crops who are resistant to it, however, it volatilizes (not simply physical drift) beyond the fields where it is applied, damaging other crops. 
 

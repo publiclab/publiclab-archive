@@ -1,12 +1,18 @@
 ---
-nid: 12253
 title: Olympic Legacy
-path: public/static/notes/Mesc/09-29-2015/olympic-legacy.md
-uid: 444516
 tagnames: 
+author: mesc
+path: /notes/Mesc/09-29-2015/olympic-legacy.md
+nid: 12253
+uid: 444516
+
 ---
 
 # Olympic Legacy
+
+by [mesc](../profile/mesc) September 29, 2015 19:47
+
+September 29, 2015 19:47 | Tags: 
 
 Map the bio health of the Olympic Park.
 

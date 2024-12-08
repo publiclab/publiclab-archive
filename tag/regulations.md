@@ -1,6 +1,6 @@
 # regulations
 
-23 notes and wiki pages
+23 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Mapping Curriculum: Regulatory Situation](/wiki/mapping-curriculum-regulatory) (wiki)
 - [Balloon Mapping Regulations](/wiki/balloon-mapping-regulations) (wiki)

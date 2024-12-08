@@ -1,12 +1,18 @@
 ---
-nid: 15049
 title: Wiki Templates 
-path: public/static/wiki/wiki-templates.md
+tagnames: issue, templates, template, parent:website
+author: stevie
+path: /wiki/wiki-templates.md
+nid: 15049
 uid: 422561
-tagnames: issue,templates,template,parent:website
+
 ---
 
 # Wiki Templates 
+
+by [warren](../profile/warren), [stevie](../profile/stevie)
+
+October 13, 2017 18:42 | Tags: [issue](../tag/issue), [templates](../tag/templates), [template](../tag/template), [parent:website](../tag/parent:website)
 
 This page has templates that can be used to create new wikis. Click edit on the page and copy the template you'd like to use for posting a new page! Feel free to adjust the template on your new post to suit your specific need. 
 

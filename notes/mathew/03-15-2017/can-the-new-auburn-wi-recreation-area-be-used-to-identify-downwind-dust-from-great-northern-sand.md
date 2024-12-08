@@ -1,12 +1,18 @@
 ---
-nid: 14018
 title: Can the New Auburn, WI Recreation Area be used to identify downwind dust from Great Northern Sand?
-path: public/static/notes/mathew/03-15-2017/can-the-new-auburn-wi-recreation-area-be-used-to-identify-downwind-dust-from-great-northern-sand.md
+tagnames: wisconsin, dust, frac-sand, pm, pm-monitoring, question:pm-monitoring, pdr-1500, question:frac-sand, optical-pm
+author: mathew
+path: /notes/mathew/03-15-2017/can-the-new-auburn-wi-recreation-area-be-used-to-identify-downwind-dust-from-great-northern-sand.md
+nid: 14018
 uid: 4
-tagnames: wisconsin,dust,frac-sand,pm,pm-monitoring,question:pm-monitoring,pdr-1500,question:frac-sand,optical-pm
+
 ---
 
 # Can the New Auburn, WI Recreation Area be used to identify downwind dust from Great Northern Sand?
+
+by [mathew](../profile/mathew) March 15, 2017 00:17
+
+March 15, 2017 00:17 | Tags: [wisconsin](../tag/wisconsin), [dust](../tag/dust), [frac-sand](../tag/frac-sand), [pm](../tag/pm), [pm-monitoring](../tag/pm-monitoring), [question:pm-monitoring](../tag/question:pm-monitoring), [pdr-1500](../tag/pdr-1500), [question:frac-sand](../tag/question:frac-sand), [optical-pm](../tag/optical-pm)
 
 An [Optical PM monitor can be used to take a qualitative survey of the relative PM levels](https://publiclab.org/notes/mathew/04-06-2016/mapping-dust-hotspots-with-low-cost-monitors) near a source of rock dust, potentially identifying areas of relatively high PM, known as a PM hotspot.
 

@@ -1,12 +1,18 @@
 ---
-nid: 12716
 title: Preliminary LED and isopropyl alcohol solvent tests for oil fluorescence analysis
-path: public/static/notes/warren/02-19-2016/preliminary-led-and-isopropyl-alcohol-solvent-tests-for-oil-fluorescence-analysis.md
+tagnames: new-york-city, spectrometer, oil, workshop, extraction, oil-testing-kit, otk, pig, isopropyl, response:12713, response:10074, activity:spectrometry-sampling
+author: warren
+path: /notes/warren/02-19-2016/preliminary-led-and-isopropyl-alcohol-solvent-tests-for-oil-fluorescence-analysis.md
+nid: 12716
 uid: 1
-tagnames: new-york-city,spectrometer,oil,workshop,extraction,oil-testing-kit,otk,pig,isopropyl,response:12713,response:10074,activity:spectrometry-sampling
+
 ---
 
 # Preliminary LED and isopropyl alcohol solvent tests for oil fluorescence analysis
+
+by [warren](../profile/warren) February 19, 2016 23:26
+
+February 19, 2016 23:26 | Tags: [new-york-city](../tag/new-york-city), [spectrometer](../tag/spectrometer), [oil](../tag/oil), [workshop](../tag/workshop), [extraction](../tag/extraction), [oil-testing-kit](../tag/oil-testing-kit), [otk](../tag/otk), [pig](../tag/pig), [isopropyl](../tag/isopropyl), [response:12713](../tag/response:12713), [response:10074](../tag/response:10074), [activity:spectrometry-sampling](../tag/activity:spectrometry-sampling)
 
 Just wanted to post a followup to @matej's post about the Sunview Luncheonette event -- we had a couple important successes which merit some more detail.
 

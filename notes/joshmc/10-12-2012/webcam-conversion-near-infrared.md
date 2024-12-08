@@ -1,12 +1,18 @@
 ---
-nid: 4389
 title: Webcam Conversion to (Near-) Infrared
-path: public/static/notes/joshmc/10-12-2012/webcam-conversion-near-infrared.md
+tagnames: near-infrared-camera, nir, infrared, webcam, near-infrared, ir, conversion, filter, activity:infrared-camera-conversion
+author: JoshMc
+path: /notes/joshmc/10-12-2012/webcam-conversion-near-infrared.md
+nid: 4389
 uid: 995
-tagnames: near-infrared-camera,nir,infrared,webcam,near-infrared,ir,conversion,filter,activity:infrared-camera-conversion
+
 ---
 
 # Webcam Conversion to (Near-) Infrared
+
+by [JoshMc](../profile/JoshMc) October 13, 2012 03:12
+
+October 13, 2012 03:12 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [nir](../tag/nir), [infrared](../tag/infrared), [webcam](../tag/webcam), [near-infrared](../tag/near-infrared), [ir](../tag/ir), [conversion](../tag/conversion), [filter](../tag/filter), [activity:infrared-camera-conversion](../tag/activity:infrared-camera-conversion)
 
 UPDATE:  My previous image server has shut down, so I've uploaded them to a new host, so you can see them here:  http://s1127.photobucket.com/user/Josh_McIlvain/slideshow/Webcam%20IR%20Conversion
 

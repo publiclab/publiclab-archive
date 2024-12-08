@@ -1,6 +1,6 @@
 # cape-cod-bay-watch
 
-4 notes and wiki pages
+4 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Kite Mapping Near Pilgrim Power Plant](/notes/karenv/5-1-2013/kite-mapping-near-pilgrim) by [karenv](../profile/karenv)
 - [Preliminary Plymouth Plant Plume Ponderings](/notes/donblair/02-23-2014/preliminary-plymouth-plant-plume-ponderings) by [donblair](../profile/donblair)

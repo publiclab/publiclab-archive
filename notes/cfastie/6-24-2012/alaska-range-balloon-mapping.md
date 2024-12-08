@@ -1,12 +1,18 @@
 ---
-nid: 2623
 title: Alaska Range balloon mapping
-path: public/static/notes/cfastie/6-24-2012/alaska-range-balloon-mapping.md
+tagnames: balloon-mapping, kite-mapping, ground-control-points, alaska, akrange
+author: cfastie
+path: /notes/cfastie/6-24-2012/alaska-range-balloon-mapping.md
+nid: 2623
 uid: 554
-tagnames: balloon-mapping,kite-mapping,ground-control-points,alaska,akrange
+
 ---
 
 # Alaska Range balloon mapping
+
+by [cfastie](../profile/cfastie) June 25, 2012 02:31
+
+June 25, 2012 02:31 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [ground-control-points](../tag/ground-control-points), [alaska](../tag/alaska), [akrange](../tag/akrange)
 
 Okay, this is probably not what you were expecting.  Reasonable people have recommended <a href="http://publiclaboratory.org/notes/jasja/6-13-2012/coded-ground-control-points">reasonable solutions</a> for <a href="http://publiclaboratory.org/wiki/mapping-curriculum-ground-control-point-targets">marking ground control points</a> in aerial photos. So I was looking for something quick and easy to mark the plot corners at an alpine tundra study site south of the Alaska Range. 
 

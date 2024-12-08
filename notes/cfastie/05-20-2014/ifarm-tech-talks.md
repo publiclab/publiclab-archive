@@ -1,12 +1,18 @@
 ---
-nid: 10485
 title: iFarm tech talks
-path: public/static/notes/cfastie/05-20-2014/ifarm-tech-talks.md
+tagnames: remote-sensing, boston, new-hampshire, farmhack, uav, agriculture, farm, event, garden, ifarm, crops, northeast, uas, ifarm2014, aerial-imaging, sensor-networks, internet-of-things, response:10481
+author: cfastie
+path: /notes/cfastie/05-20-2014/ifarm-tech-talks.md
+nid: 10485
 uid: 554
-tagnames: remote-sensing,boston,new-hampshire,farmhack,uav,agriculture,farm,event,garden,ifarm,crops,northeast,uas,ifarm2014,aerial-imaging,sensor-networks,internet-of-things,response:10481
+
 ---
 
 # iFarm tech talks
+
+by [cfastie](../profile/cfastie) May 20, 2014 02:13
+
+May 20, 2014 02:13 | Tags: [remote-sensing](../tag/remote-sensing), [boston](../tag/boston), [new-hampshire](../tag/new-hampshire), [farmhack](../tag/farmhack), [uav](../tag/uav), [agriculture](../tag/agriculture), [farm](../tag/farm), [event](../tag/event), [garden](../tag/garden), [ifarm](../tag/ifarm), [crops](../tag/crops), [northeast](../tag/northeast), [uas](../tag/uas), [ifarm2014](../tag/ifarm2014), [aerial-imaging](../tag/aerial-imaging), [sensor-networks](../tag/sensor-networks), [internet-of-things](../tag/internet-of-things), [response:10481](../tag/response:10481)
 
 This past Saturday morning at [iFarm](http://publiclab.org/tag/ifarm2014) at Tuckaway Farm in New Hampshire, we heard from eight presenters about their current efforts to apply sensor networks and related technology to environmentally sound agriculture. The talks were brief, relaxed, spontaneous, engaging, and incredibly smart. One of the talks was about the process of deploying wifi over 200 acres of Tuckaway Farm, so there was open wifi throughout the 1830s barn where the session took place. There was also a projector and screen, but nobody used them. This was a show, not a slide show.  
 .  

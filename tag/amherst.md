@@ -1,6 +1,6 @@
 # amherst
 
-7 notes and wiki pages
+7 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [WATERCHESTNUTS](/wiki/waterchestnuts) (wiki)
 - [A little background work for Trapa classification from color](/notes/ttaylor/08-16-2013/a-little-background-work-for-trapa-classification-from-color) by [ttaylor](../profile/ttaylor)

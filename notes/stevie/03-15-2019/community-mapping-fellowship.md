@@ -1,12 +1,18 @@
 ---
-nid: 18560
 title: Community Mapping Fellowship
-path: public/static/notes/stevie/03-15-2019/community-mapping-fellowship.md
+tagnames: balloon-mapping, kite-mapping, mapping, fellows, fellowship, job, map
+author: stevie
+path: /notes/stevie/03-15-2019/community-mapping-fellowship.md
+nid: 18560
 uid: 422561
-tagnames: balloon-mapping,kite-mapping,mapping,fellows,fellowship,job,map
+
 ---
 
 # Community Mapping Fellowship
+
+by [stevie](../profile/stevie) March 15, 2019 16:18
+
+March 15, 2019 16:18 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [mapping](../tag/mapping), [fellows](../tag/fellows), [fellowship](../tag/fellowship), [job](../tag/job), [map](../tag/map)
 
 **When:** April 5th - June 30th </br>
 **Where:** This fellowship is not geographically restricted (_*note on the time commitment below_),  </br>

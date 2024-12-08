@@ -1,12 +1,18 @@
 ---
-nid: 8963
 title: More Infragram sample webcam tests
-path: public/static/notes/warren/08-05-2013/more-infragram-sample-webcam-tests.md
+tagnames: near-infrared-camera, infragram, infragram-conversion, infragram-camera-testing
+author: warren
+path: /notes/warren/08-05-2013/more-infragram-sample-webcam-tests.md
+nid: 8963
 uid: 1
-tagnames: near-infrared-camera,infragram,infragram-conversion,infragram-camera-testing
+
 ---
 
 # More Infragram sample webcam tests
+
+by [warren](../profile/warren) August 05, 2013 18:37
+
+August 05, 2013 18:37 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [infragram](../tag/infragram), [infragram-conversion](../tag/infragram-conversion), [infragram-camera-testing](../tag/infragram-camera-testing)
 
 Following up on [my recent posts on Infragram tests](/tag/infragram-conversion), I just received a new sample, of this webcam:
 

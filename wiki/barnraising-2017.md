@@ -1,12 +1,18 @@
 ---
-nid: 15192
 title: Barnraising 2017
-path: public/static/wiki/barnraising-2017.md
-uid: 422561
 tagnames: barnraising
+author: stevie
+path: /wiki/barnraising-2017.md
+nid: 15192
+uid: 422561
+
 ---
 
 # Barnraising 2017
+
+by [stevie](../profile/stevie)
+
+November 15, 2017 15:21 | Tags: [barnraising](../tag/barnraising)
 
 Public Lab hosted the 2017 Barnraising November 3rd-5th at LUMCON in Cocodrie, Louisiana. The event drew 36 people from 12 states, and event brought participants from Germany and China! Check out some of the materials below and continue the conversations of Barnraising! 
 

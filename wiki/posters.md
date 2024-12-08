@@ -1,12 +1,18 @@
 ---
-nid: 161
 title: Posters
-path: public/static/wiki/posters.md
+tagnames: spectrometer, thermal-photography, hydrogen-sulfide-sensing, grassrootsmapping, ndvi, makerfaire, white-house
+author: warren
+path: /wiki/posters.md
+nid: 161
 uid: 1
-tagnames: spectrometer,thermal-photography,hydrogen-sulfide-sensing,grassrootsmapping,ndvi,makerfaire,white-house
+
 ---
 
 # Posters
+
+by [sara](../profile/sara), [warren](../profile/warren)
+
+April 07, 2011 16:34 | Tags: [spectrometer](../tag/spectrometer), [thermal-photography](../tag/thermal-photography), [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [grassrootsmapping](../tag/grassrootsmapping), [ndvi](../tag/ndvi), [makerfaire](../tag/makerfaire), [white-house](../tag/white-house)
 
 ##Public Lab Posters for the 1st Ever White House Maker Faire
 

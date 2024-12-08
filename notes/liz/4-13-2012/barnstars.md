@@ -1,12 +1,18 @@
 ---
-nid: 1663
 title: barnstars
-path: public/static/notes/liz/4-13-2012/barnstars.md
+tagnames: community, metrics, barnstars
+author: liz
+path: /notes/liz/4-13-2012/barnstars.md
+nid: 1663
 uid: 7
-tagnames: community,metrics,barnstars
+
 ---
 
 # barnstars
+
+by [liz](../profile/liz) April 13, 2012 04:03
+
+April 13, 2012 04:03 | Tags: [community](../tag/community), [metrics](../tag/metrics), [barnstars](../tag/barnstars)
 
 The idea of "barnstars" has been used in online, collaborative communities to express appreciation or recognize contribution. For example, it's very successful in <a href="http://en.wikipedia.org/wiki/Wikipedia:Barnstars">Wikipedia</a>:
 <em>"Some years ago, some wiki-based communities began to give their users awards called barn stars, using a star anchor to represent the concept of the shared work experience, as in barn raising."</em>

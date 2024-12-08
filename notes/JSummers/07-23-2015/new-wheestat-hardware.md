@@ -1,12 +1,18 @@
 ---
-nid: 12096
 title: New WheeStat Hardware
-path: public/static/notes/JSummers/07-23-2015/new-wheestat-hardware.md
-uid: 304279
 tagnames: wheestat
+author: JSummers
+path: /notes/JSummers/07-23-2015/new-wheestat-hardware.md
+nid: 12096
+uid: 304279
+
 ---
 
 # New WheeStat Hardware
+
+by [JSummers](../profile/JSummers) July 23, 2015 21:53
+
+July 23, 2015 21:53 | Tags: [wheestat](../tag/wheestat)
 
 ###What I want to do
 As outlined in an earlier research note ([here](http://publiclab.org/notes/JSummers/06-19-2015/booster-hardware-improves-the-usable-wheestat-voltage-range)), the original WheeStat was limited to voltages between +/- 1.65 volts on both the working and counter electrodes.  In this research note, I describe how we redesigned the potentiostat to give +/- 12 volts on the counter electrode and up to +/- 5 volts on the working electrode, all without a detectable frying (yet anyway) of the 0-3.3 volt compatible electronics.

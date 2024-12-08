@@ -1,12 +1,18 @@
 ---
-nid: 12178
 title: Riffle Datalogger: quick development snapshot
-path: public/static/notes/donblair/08-28-2015/riffle-datalogger-quick-development-snapshot.md
+tagnames: arduino, water-quality, riffle, open-water
+author: donblair
+path: /notes/donblair/08-28-2015/riffle-datalogger-quick-development-snapshot.md
+nid: 12178
 uid: 43651
-tagnames: arduino,water-quality,riffle,open-water
+
 ---
 
 # Riffle Datalogger: quick development snapshot
+
+by [donblair](../profile/donblair) August 28, 2015 14:43
+
+August 28, 2015 14:43 | Tags: [arduino](../tag/arduino), [water-quality](../tag/water-quality), [riffle](../tag/riffle), [open-water](../tag/open-water)
 
 ## Background
 

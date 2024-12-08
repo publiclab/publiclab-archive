@@ -1,12 +1,18 @@
 ---
-nid: 11410
 title: Vancouver
-path: public/static/wiki/vancouver.md
-uid: 421543
 tagnames: canada
+author: ann
+path: /wiki/vancouver.md
+nid: 11410
+uid: 421543
+
 ---
 
 # Vancouver
+
+by [MelissaN](../profile/MelissaN), [ann](../profile/ann)
+
+November 27, 2014 03:27 | Tags: [canada](../tag/canada)
 
 **Vancouver includes the greater Vancouver area and is a part of the [Western Canada](http://publiclab.org/wiki/western-canada) region.**
 

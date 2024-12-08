@@ -1,12 +1,18 @@
 ---
-nid: 22804
 title: Upcoming OpenHour on Particulate Matter Monitoring 
-path: public/static/notes/stevie/02-13-2020/upcoming-openhour-on-particulate-matter-monitoring.md
+tagnames: event, air-quality, pm, openhour, oil-and-gas, particulate-matter, lat:29, lon:-90, zoom:6, date:03-02-2020
+author: stevie
+path: /notes/stevie/02-13-2020/upcoming-openhour-on-particulate-matter-monitoring.md
+nid: 22804
 uid: 422561
-tagnames: event,air-quality,pm,openhour,oil-and-gas,particulate-matter,lat:29,lon:-90,zoom:6,date:03-02-2020
+
 ---
 
 # Upcoming OpenHour on Particulate Matter Monitoring 
+
+by [stevie](../profile/stevie) February 13, 2020 20:11
+
+February 13, 2020 20:11 | Tags: [event](../tag/event), [air-quality](../tag/air-quality), [pm](../tag/pm), [openhour](../tag/openhour), [oil-and-gas](../tag/oil-and-gas), [particulate-matter](../tag/particulate-matter), [lat:29](../tag/lat:29), [lon:-90](../tag/lon:-90), [zoom:6](../tag/zoom:6), [date:03-02-2020](../tag/date:03-02-2020)
 
 Hello!
 

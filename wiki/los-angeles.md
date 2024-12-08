@@ -1,12 +1,18 @@
 ---
-nid: 7749
 title: Los Angeles
-path: public/static/wiki/los-angeles.md
+tagnames: california, tabbed:notes, tabbed:wikis, lat:34.0600471, lon:-118.3072052, list:publiclab-la, los-angeles, la
+author: levisimons
+path: /wiki/los-angeles.md
+nid: 7749
 uid: 1087
-tagnames: california,tabbed:notes,tabbed:wikis,lat:34.0600471,lon:-118.3072052,list:publiclab-la,los-angeles,la
+
 ---
 
 # Los Angeles
+
+by [liz](../profile/liz), [stevie](../profile/stevie), [levisimons](../profile/levisimons), [warren](../profile/warren)
+
+May 20, 2013 20:05 | Tags: [california](../tag/california), [tabbed:notes](../tag/tabbed:notes), [tabbed:wikis](../tag/tabbed:wikis), [lat:34.0600471](../tag/lat:34.0600471), [lon:-118.3072052](../tag/lon:-118.3072052), [list:publiclab-la](../tag/list:publiclab-la), [los-angeles](../tag/los-angeles), [la](../tag/la)
 
 Welcome to the main page for Public Laboratory for Los Angeles.
 

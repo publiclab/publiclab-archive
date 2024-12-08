@@ -1,12 +1,18 @@
 ---
-nid: 23559
 title: Job Posting: Executive Director, Public Lab
-path: public/static/notes/thewrightjess/05-07-2020/job-posting-executive-director-public-lab.md
+tagnames: nonprofit, jobs, director, executive
+author: thewrightjess
+path: /notes/thewrightjess/05-07-2020/job-posting-executive-director-public-lab.md
+nid: 23559
 uid: 603909
-tagnames: nonprofit,jobs,director,executive
+
 ---
 
 # Job Posting: Executive Director, Public Lab
+
+by [thewrightjess](../profile/thewrightjess) May 07, 2020 15:46
+
+May 07, 2020 15:46 | Tags: [nonprofit](../tag/nonprofit), [jobs](../tag/jobs), [director](../tag/director), [executive](../tag/executive)
 
 #### Executive Director, Public Lab
 Public Lab is seeking a team leader with top emotional intelligence, fundraising and communication skills, with a history of managing team operations and financial budgeting. Public Lab’s new Executive Director must be committed to environmental justice and equity, and have experience leading grassroots organizations. 

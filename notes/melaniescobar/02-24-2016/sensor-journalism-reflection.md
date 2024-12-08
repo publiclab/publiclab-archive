@@ -1,12 +1,18 @@
 ---
-nid: 12740
 title: Sensor Journalism Reflection 
-path: public/static/notes/melaniescobar/02-24-2016/sensor-journalism-reflection.md
+tagnames: sensor-journalism, response:12748, hidden:response
+author: melaniescobar
+path: /notes/melaniescobar/02-24-2016/sensor-journalism-reflection.md
+nid: 12740
 uid: 461508
-tagnames: sensor-journalism,response:12748,hidden:response
+
 ---
 
 # Sensor Journalism Reflection 
+
+by [melaniescobar](../profile/melaniescobar) February 24, 2016 16:25
+
+February 24, 2016 16:25 | Tags: [sensor-journalism](../tag/sensor-journalism), [response:12748](../tag/response:12748), [hidden:response](../tag/hidden:response)
 
 
 	Sensor Journalism is a newer form of collecting data for reporting news. Pretty much what happens is people use sensors of some sort to collect data and use it in their reports. For example, there are sensors when it comes to collecting data for the weather; we use sensors to collect data on the environment to understand levels of contamination or pollution in areas, etc. 

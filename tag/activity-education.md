@@ -1,6 +1,6 @@
 # activity-education
 
-34 notes and wiki pages
+34 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Prototyping a kite for kids](/notes/oscar-brett/7-26-2012/prototyping-kite-kids) by [oscarbrett](../profile/oscarbrett)
 - [Bean Cam](/notes/cfastie/4-8-2013/bean-cam) by [cfastie](../profile/cfastie)

@@ -1,6 +1,6 @@
 # autostitch
 
-5 notes and wiki pages
+5 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [initial observations (revised): free SFM tools for scaled measurements and volume calculations](/notes/patcoyle/03-16-2014/initial-observations-free-sfm-tools-for-scaled-measurements-and-volume-calculations) by [patcoyle](../profile/patcoyle)
 - [Example: using free SFM tools for calculation of volume of earth mound on construction site ](/notes/patcoyle/03-27-2014/example-using-free-sfm-tools-for-calculation-of-volume-of-earth-mound-on-construction-site) by [patcoyle](../profile/patcoyle)

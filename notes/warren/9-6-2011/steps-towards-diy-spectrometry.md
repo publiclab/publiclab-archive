@@ -1,12 +1,18 @@
 ---
-nid: 452
 title: Steps towards DIY Spectrometry
-path: public/static/notes/warren/9-6-2011/steps-towards-diy-spectrometry.md
+tagnames: lima, spectrometer, peru, boston, partsandcrafts, idealab, parts-and-crafts, turntable, escuelab
+author: warren
+path: /notes/warren/9-6-2011/steps-towards-diy-spectrometry.md
+nid: 452
 uid: 1
-tagnames: lima,spectrometer,peru,boston,partsandcrafts,idealab,parts-and-crafts,turntable,escuelab
+
 ---
 
 # Steps towards DIY Spectrometry
+
+by [warren](../profile/warren) September 06, 2011 16:55
+
+September 06, 2011 16:55 | Tags: [lima](../tag/lima), [spectrometer](../tag/spectrometer), [peru](../tag/peru), [boston](../tag/boston), [partsandcrafts](../tag/partsandcrafts), [idealab](../tag/idealab), [parts-and-crafts](../tag/parts-and-crafts), [turntable](../tag/turntable), [escuelab](../tag/escuelab)
 
 <em>Reposted from <a href="http://www.pbs.org/idealab/2011/09/taking-steps-toward-diy-spectrometry-so-citizens-can-test-for-pollutants249.html">PBS IdeaLab</a></em>
 

@@ -1,12 +1,18 @@
 ---
-nid: 30545
 title: ¿Cómo hago una serie de diluciones para calibrar un Coqui para medir sólidos disueltos totales (STD)?
-path: public/static/notes/alejobonifacio/05-03-2022/como-hago-una-serie-de-diluciones-para-calibrar-un-coqui-para-medir-solidos-disueltos-totales-std.md
+tagnames: calibration, water-quality, lang:es, coqui, activity:coqui, activity:new, zoom:6, lon:-64, lat:-31, conductividad, coqui-conductivity
+author: alejobonifacio
+path: /notes/alejobonifacio/05-03-2022/como-hago-una-serie-de-diluciones-para-calibrar-un-coqui-para-medir-solidos-disueltos-totales-std.md
+nid: 30545
 uid: 639376
-tagnames: calibration,water-quality,lang:es,coqui,activity:coqui,activity:new,zoom:6,lon:-64,lat:-31,conductividad,coqui-conductivity
+
 ---
 
 # ¿Cómo hago una serie de diluciones para calibrar un Coqui para medir sólidos disueltos totales (STD)?
+
+by [alejobonifacio](../profile/alejobonifacio) May 03, 2022 20:45
+
+May 03, 2022 20:45 | Tags: [calibration](../tag/calibration), [water-quality](../tag/water-quality), [lang:es](../tag/lang:es), [coqui](../tag/coqui), [activity:coqui](../tag/activity:coqui), [activity:new](../tag/activity:new), [zoom:6](../tag/zoom:6), [lon:-64](../tag/lon:-64), [lat:-31](../tag/lat:-31), [conductividad](../tag/conductividad), [coqui-conductivity](../tag/coqui-conductivity)
 
 _Foto de portada bajo licencia CC 2.5, autor de la foto [Leridant~commonswiki](https://commons.wikimedia.org/wiki/User:Leridant~commonswiki)_
 

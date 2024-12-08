@@ -1,6 +1,6 @@
 # activity-skypod-gps-logger
 
-6 notes and wiki pages
+6 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [First flight of the SkyPod](/notes/cfastie/06-18-2017/first-flight-of-the-skypod) by [cfastie](../profile/cfastie)
 - [Winds aloft](/notes/cfastie/08-03-2017/winds-aloft) by [cfastie](../profile/cfastie)

@@ -1,11 +1,17 @@
 ---
-nid: 9410
 title: Gear Map
-path: public/static/wiki/gear-map.md
-uid: 8
 tagnames: 
+author: sara
+path: /wiki/gear-map.md
+nid: 9410
+uid: 8
+
 ---
 
 # Gear Map
+
+by [sara](../profile/sara)
+
+October 06, 2013 19:15 | Tags: 
 
 hi

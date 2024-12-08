@@ -1,12 +1,18 @@
 ---
-nid: 12446
 title: Biobubbler session at 2015 Public Lab Barnraiser
-path: public/static/notes/patcoyle/11-25-2015/biobubbler-session-at-2015-public-lab-barnraiser.md
+tagnames: documentation, barnraising, bioremediation, formaldehyde, indoor-air-quality, barnraising-2015, biobubbler
+author: patcoyle
+path: /notes/patcoyle/11-25-2015/biobubbler-session-at-2015-public-lab-barnraiser.md
+nid: 12446
 uid: 77
-tagnames: documentation,barnraising,bioremediation,formaldehyde,indoor-air-quality,barnraising-2015,biobubbler
+
 ---
 
 # Biobubbler session at 2015 Public Lab Barnraiser
+
+by [patcoyle](../profile/patcoyle) November 25, 2015 01:48
+
+November 25, 2015 01:48 | Tags: [documentation](../tag/documentation), [barnraising](../tag/barnraising), [bioremediation](../tag/bioremediation), [formaldehyde](../tag/formaldehyde), [indoor-air-quality](../tag/indoor-air-quality), [barnraising-2015](../tag/barnraising-2015), [biobubbler](../tag/biobubbler)
 
 ###What I want to do
 

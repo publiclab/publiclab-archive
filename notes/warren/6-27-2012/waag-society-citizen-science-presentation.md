@@ -1,12 +1,18 @@
 ---
-nid: 2636
 title: Waag Society: Citizen Science presentation
-path: public/static/notes/warren/6-27-2012/waag-society-citizen-science-presentation.md
+tagnames: waagsociety, amsterdam, presentations, presentation, waag
+author: warren
+path: /notes/warren/6-27-2012/waag-society-citizen-science-presentation.md
+nid: 2636
 uid: 1
-tagnames: waagsociety,amsterdam,presentations,presentation,waag
+
 ---
 
 # Waag Society: Citizen Science presentation
+
+by [warren](../profile/warren) June 27, 2012 07:15
+
+June 27, 2012 07:15 | Tags: [waagsociety](../tag/waagsociety), [amsterdam](../tag/amsterdam), [presentations](../tag/presentations), [presentation](../tag/presentation), [waag](../tag/waag)
 
 I'm giving a talk this morning at the Waag Society in Amsterdam. Here are my slides! I cite a number of projects from PLOTS and this afternoon we'll be doing some balloon mapping workshops.
 

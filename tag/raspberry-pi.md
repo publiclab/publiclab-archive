@@ -1,6 +1,6 @@
 # raspberry-pi
 
-114 notes and wiki pages
+114 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Raspberry Pi-in-the-sky](/notes/donblair/9-20-2012/raspberry-pi-sky) by [donblair](../profile/donblair)
 - [Prototype Raspberry Pi-based dual IR cam](/notes/warren/10-17-2012/prototype-raspberry-pi-based-dual-ir-cam) by [warren](../profile/warren)

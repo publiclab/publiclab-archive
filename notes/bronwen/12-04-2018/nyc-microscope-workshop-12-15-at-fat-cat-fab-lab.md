@@ -1,12 +1,18 @@
 ---
-nid: 17806
 title: NYC Microscope Workshop, 12/15 at Fat Cat Fab Lab
-path: public/static/notes/bronwen/12-04-2018/nyc-microscope-workshop-12-15-at-fat-cat-fab-lab.md
+tagnames: new-york-city, kits, workshop, event, water-quality, nyc, microscope, hardware, community-kits, community-microscope, microscope-workshop, webcam-microscope, workshop-community-microscope
+author: Bronwen
+path: /notes/bronwen/12-04-2018/nyc-microscope-workshop-12-15-at-fat-cat-fab-lab.md
+nid: 17806
 uid: 237313
-tagnames: new-york-city,kits,workshop,event,water-quality,nyc,microscope,hardware,community-kits,community-microscope,microscope-workshop,webcam-microscope,workshop-community-microscope
+
 ---
 
 # NYC Microscope Workshop, 12/15 at Fat Cat Fab Lab
+
+by [Bronwen](../profile/Bronwen) December 04, 2018 21:04
+
+December 04, 2018 21:04 | Tags: [new-york-city](../tag/new-york-city), [kits](../tag/kits), [workshop](../tag/workshop), [event](../tag/event), [water-quality](../tag/water-quality), [nyc](../tag/nyc), [microscope](../tag/microscope), [hardware](../tag/hardware), [community-kits](../tag/community-kits), [community-microscope](../tag/community-microscope), [microscope-workshop](../tag/microscope-workshop), [webcam-microscope](../tag/webcam-microscope), [workshop-community-microscope](../tag/workshop-community-microscope)
 
 On Sat, Dec 15, we'll be offering a DIY Community Microscope workshop at[Fat Cat Fab Lab. ](https://www.fatcatfablab.org/)  
 

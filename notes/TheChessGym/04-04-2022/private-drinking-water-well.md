@@ -1,12 +1,18 @@
 ---
-nid: 30253
 title: Private Drinking Water Well 
-path: public/static/notes/TheChessGym/04-04-2022/private-drinking-water-well.md
+tagnames: microplastics, lat:22, lon:76, zoom:6
+author: TheChessGym
+path: /notes/TheChessGym/04-04-2022/private-drinking-water-well.md
+nid: 30253
 uid: 788868
-tagnames: microplastics,lat:22,lon:76,zoom:6
+
 ---
 
 # Private Drinking Water Well 
+
+by [TheChessGym](../profile/TheChessGym) April 04, 2022 15:05
+
+April 04, 2022 15:05 | Tags: [microplastics](../tag/microplastics), [lat:22](../tag/lat:22), [lon:76](../tag/lon:76), [zoom:6](../tag/zoom:6)
 
 Obtaining Your Private Drinking Water Well 
 

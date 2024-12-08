@@ -1,12 +1,18 @@
 ---
-nid: 7494
 title: Infragram Media
-path: public/static/wiki/infragram-media.md
+tagnames: near-infrared-camera, ndvi, infragram
+author: warren
+path: /wiki/infragram-media.md
+nid: 7494
 uid: 1
-tagnames: near-infrared-camera,ndvi,infragram
+
 ---
 
 # Infragram Media
+
+by [liz](../profile/liz), [warren](../profile/warren), [donblair](../profile/donblair), [cfastie](../profile/cfastie), [gonzoearth](../profile/gonzoearth)
+
+May 13, 2013 17:35 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [infragram](../tag/infragram)
 
 _A collection of images for the Infragram plant health camera project_
 

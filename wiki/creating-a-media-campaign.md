@@ -1,12 +1,18 @@
 ---
-nid: 12595
 title: Creating a Media Campaign
-path: public/static/wiki/creating-a-media-campaign.md
+tagnames: media, organizing, tool, methods, advocacy, strategy, campaign, method, community-organizing
+author: stevie
+path: /wiki/creating-a-media-campaign.md
+nid: 12595
 uid: 422561
-tagnames: media,organizing,tool,methods,advocacy,strategy,campaign,method,community-organizing
+
 ---
 
 # Creating a Media Campaign
+
+by [xose](../profile/xose), [stevie](../profile/stevie), [warren](../profile/warren), [hagitkeysar](../profile/hagitkeysar)
+
+January 20, 2016 17:41 | Tags: [media](../tag/media), [organizing](../tag/organizing), [tool](../tag/tool), [methods](../tag/methods), [advocacy](../tag/advocacy), [strategy](../tag/strategy), [campaign](../tag/campaign), [method](../tag/method), [community-organizing](../tag/community-organizing)
 
 _The resources on this page have been compiled by [Catherine D'Ignazio](https://publiclab.org/profile/kanarinka), Jessica Hendricks, [Hagit Keysar](https://publiclab.org/profile/hagitkeysar), [Jeff Warren](https://publiclab.org/profile/warren), and [Stevie Lewis](https://publiclab.org/profile/stevie)._
 

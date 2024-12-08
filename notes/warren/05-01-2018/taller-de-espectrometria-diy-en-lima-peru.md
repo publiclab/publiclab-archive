@@ -1,12 +1,18 @@
 ---
-nid: 41
 title: Taller de espectrometría "DIY" en Lima, Peru
-path: public/static/notes/warren/05-01-2018/taller-de-espectrometria-diy-en-lima-peru.md
+tagnames: peru, escuelab, lang:es, south-america
+author: warren
+path: /notes/warren/05-01-2018/taller-de-espectrometria-diy-en-lima-peru.md
+nid: 41
 uid: 1
-tagnames: peru,escuelab,lang:es,south-america
+
 ---
 
 # Taller de espectrometría "DIY" en Lima, Peru
+
+by [warren](../profile/warren) January 07, 2011 13:26
+
+January 07, 2011 13:26 | Tags: [peru](../tag/peru), [escuelab](../tag/escuelab), [lang:es](../tag/lang:es), [south-america](../tag/south-america)
 
 <a href="https://www.flickr.com/photos/nadya/5328588362/" title="TL lamps by Nadya Peek, on Flickr"><img src="http://farm6.static.flickr.com/5046/5328588362_5f3a65026e.jpg" width="500" height="274" alt="TL lamps" /></a>
 

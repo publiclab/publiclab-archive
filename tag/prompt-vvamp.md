@@ -1,6 +1,6 @@
 # prompt-vvamp
 
-3 notes and wiki pages
+3 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [VVAMP](/wiki/vvamp) (wiki)
 - [Choosing Locations and Methodology for Air-Quality Gas Testing](/notes/sarasage/08-09-2021/choosing-locations-and-methodology-for-air-quality-gas-testing) by [sarasage](../profile/sarasage)

@@ -1,12 +1,18 @@
 ---
-nid: 12987
 title: Spectrometer Noise
-path: public/static/notes/stoft/04-16-2016/spectrometer-noise.md
+tagnames: spectrometer, webcam, desktop-spectrometer, barnstar:empiricism, noise-reduction, signal-to-noise-ratio, stability, noise, averaging
+author: stoft
+path: /notes/stoft/04-16-2016/spectrometer-noise.md
+nid: 12987
 uid: 54025
-tagnames: spectrometer,webcam,desktop-spectrometer,barnstar:empiricism,noise-reduction,signal-to-noise-ratio,stability,noise,averaging
+
 ---
 
 # Spectrometer Noise
+
+by [stoft](../profile/stoft) April 16, 2016 07:01
+
+April 16, 2016 07:01 | Tags: [spectrometer](../tag/spectrometer), [webcam](../tag/webcam), [desktop-spectrometer](../tag/desktop-spectrometer), [barnstar:empiricism](../tag/barnstar:empiricism), [noise-reduction](../tag/noise-reduction), [signal-to-noise-ratio](../tag/signal-to-noise-ratio), [stability](../tag/stability), [noise](../tag/noise), [averaging](../tag/averaging)
 
 **Abstract**
 

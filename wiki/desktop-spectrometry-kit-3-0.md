@@ -1,12 +1,18 @@
 ---
-nid: 11533
 title: Desktop Spectrometry Kit 3.0
-path: public/static/wiki/desktop-spectrometry-kit-3-0.md
+tagnames: spectrometer, kits, spectrometry, assembly, list:plots-spectrometry, prompt:spectrometry, beautiful, parent:spectrometry
+author: mathew
+path: /wiki/desktop-spectrometry-kit-3-0.md
+nid: 11533
 uid: 4
-tagnames: spectrometer,kits,spectrometry,assembly,list:plots-spectrometry,prompt:spectrometry,beautiful,parent:spectrometry
+
 ---
 
 # Desktop Spectrometry Kit 3.0
+
+by [warren](../profile/warren), [liz](../profile/liz), [pablo](../profile/pablo), [abdul](../profile/abdul), [tonyc](../profile/tonyc), [natalie](../profile/natalie), [mathew](../profile/mathew)
+
+January 20, 2015 02:49 | Tags: [spectrometer](../tag/spectrometer), [kits](../tag/kits), [spectrometry](../tag/spectrometry), [assembly](../tag/assembly), [list:plots-spectrometry](../tag/list:plots-spectrometry), [prompt:spectrometry](../tag/prompt:spectrometry), [beautiful](../tag/beautiful), [parent:spectrometry](../tag/parent:spectrometry)
 
 The **Desktop Spectrometry Starter Kit** (now at version 3.0) is our most recent “reference design” incorporating some community improvements while balancing low cost and relative ease of construction. The DSSK was originally created as part of the Public Lab Spectrometry Project’s goal of identifying suspected oil residue after the BP oil spill. 
 

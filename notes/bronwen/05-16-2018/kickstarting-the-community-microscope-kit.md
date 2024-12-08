@@ -1,12 +1,18 @@
 ---
-nid: 16353
 title: Kickstarting the Community Microscope Kit!
-path: public/static/notes/bronwen/05-16-2018/kickstarting-the-community-microscope-kit.md
+tagnames: kickstarter, microscope, microscopes, community-kits
+author: Bronwen
+path: /notes/bronwen/05-16-2018/kickstarting-the-community-microscope-kit.md
+nid: 16353
 uid: 237313
-tagnames: kickstarter,microscope,microscopes,community-kits
+
 ---
 
 # Kickstarting the Community Microscope Kit!
+
+by [Bronwen](../profile/Bronwen) May 16, 2018 12:13
+
+May 16, 2018 12:13 | Tags: [kickstarter](../tag/kickstarter), [microscope](../tag/microscope), [microscopes](../tag/microscopes), [community-kits](../tag/community-kits)
 
 <iframe src="https://www.kickstarter.com/projects/publiclab/the-community-microscope-kit/widget/video.html" scrolling="no" height="450" frameborder="0" width="800"> </iframe>  
   

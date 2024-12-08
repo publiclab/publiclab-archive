@@ -1,12 +1,18 @@
 ---
-nid: 27693
 title: sandbox community science
-path: public/static/wiki/sandbox-community-science.md
-uid: 7
 tagnames: 
+author: liz
+path: /wiki/sandbox-community-science.md
+nid: 27693
+uid: 7
+
 ---
 
 # sandbox community science
+
+by [liz](../profile/liz)
+
+September 07, 2021 18:13 | Tags: 
 
 _This content is stewarded by @Liz Barry_
 

@@ -1,12 +1,18 @@
 ---
-nid: 14539
 title: Europe
-path: public/static/wiki/eu.md
-uid: 7
 tagnames: 
+author: liz
+path: /wiki/eu.md
+nid: 14539
+uid: 7
+
 ---
 
 # Europe
+
+by [liz](../profile/liz)
+
+June 14, 2017 14:47 | Tags: 
 
 Since 2016, Organizer @cindy_excites is managing the EU-wide project togetherscience.eu -- check it out!
 

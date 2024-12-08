@@ -1,12 +1,18 @@
 ---
-nid: 12127
 title: Question: 
-path: public/static/notes/monoxyde/08-09-2015/question.md
-uid: 432132
 tagnames: question:near-infrared-camera
+author: Monoxyde
+path: /notes/monoxyde/08-09-2015/question.md
+nid: 12127
+uid: 432132
+
 ---
 
 # Question: 
+
+by [Monoxyde](../profile/Monoxyde) August 09, 2015 08:20
+
+August 09, 2015 08:20 | Tags: [question:near-infrared-camera](../tag/question:near-infrared-camera)
 
 **Goodmorning everyone.
 **

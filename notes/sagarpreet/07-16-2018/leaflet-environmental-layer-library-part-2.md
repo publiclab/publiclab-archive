@@ -1,12 +1,18 @@
 ---
-nid: 16724
 title: Leaflet Environmental Layer Library - Part 2
-path: public/static/notes/sagarpreet/07-16-2018/leaflet-environmental-layer-library-part-2.md
+tagnames: air-quality, pipeline, gsoc, maps, leaflet, code, fracking, fractracker, soc, purpleair, gsoc-2018, soc-2018, infrastructure, pipelines, leaflet-environmental-layers
+author: sagarpreet
+path: /notes/sagarpreet/07-16-2018/leaflet-environmental-layer-library-part-2.md
+nid: 16724
 uid: 516343
-tagnames: air-quality,pipeline,gsoc,maps,leaflet,code,fracking,fractracker,soc,purpleair,gsoc-2018,soc-2018,infrastructure,pipelines,leaflet-environmental-layers
+
 ---
 
 # Leaflet Environmental Layer Library - Part 2
+
+by [sagarpreet](../profile/sagarpreet) July 16, 2018 17:43
+
+July 16, 2018 17:43 | Tags: [air-quality](../tag/air-quality), [pipeline](../tag/pipeline), [gsoc](../tag/gsoc), [maps](../tag/maps), [leaflet](../tag/leaflet), [code](../tag/code), [fracking](../tag/fracking), [fractracker](../tag/fractracker), [soc](../tag/soc), [purpleair](../tag/purpleair), [gsoc-2018](../tag/gsoc-2018), [soc-2018](../tag/soc-2018), [infrastructure](../tag/infrastructure), [pipelines](../tag/pipelines), [leaflet-environmental-layers](../tag/leaflet-environmental-layers)
 
 Hi all !
 This post is continued from [https://publiclab.org/notes/sagarpreet/06-06-2018/leaflet-environmental-layer-library](https://publiclab.org/notes/sagarpreet/06-06-2018/leaflet-environmental-layer-library) and explains various more layers added to the library .

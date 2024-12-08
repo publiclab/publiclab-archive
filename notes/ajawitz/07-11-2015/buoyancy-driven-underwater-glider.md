@@ -1,12 +1,18 @@
 ---
-nid: 12049
 title: Buoyancy-Driven Underwater Glider
-path: public/static/notes/ajawitz/07-11-2015/buoyancy-driven-underwater-glider.md
+tagnames: open-water, robotics, oceanography
+author: ajawitz
+path: /notes/ajawitz/07-11-2015/buoyancy-driven-underwater-glider.md
+nid: 12049
 uid: 294634
-tagnames: open-water,robotics,oceanography
+
 ---
 
 # Buoyancy-Driven Underwater Glider
+
+by [ajawitz](../profile/ajawitz) July 11, 2015 17:51
+
+July 11, 2015 17:51 | Tags: [open-water](../tag/open-water), [robotics](../tag/robotics), [oceanography](../tag/oceanography)
 
 ###What I want to do
   I want to develop an underwater autonomous vehicle based on a design the US Navy developed for a school program called the "Seaglide". 

@@ -1,12 +1,18 @@
 ---
-nid: 13877
 title: Part 2: ‘Common Legal Issues when using Community Sourced Data’
-path: public/static/notes/lenagd/01-25-2017/part-2-common-legal-issues-when-using-community-sourced-data.md
+tagnames: evidence, legal, litigation, evidence-project, series:evidence-project, torts, law-and-policy
+author: lenagd
+path: /notes/lenagd/01-25-2017/part-2-common-legal-issues-when-using-community-sourced-data.md
+nid: 13877
 uid: 429458
-tagnames: evidence,legal,litigation,evidence-project,series:evidence-project,torts,law-and-policy
+
 ---
 
 # Part 2: ‘Common Legal Issues when using Community Sourced Data’
+
+by [lenagd](../profile/lenagd) January 25, 2017 16:43
+
+January 25, 2017 16:43 | Tags: [evidence](../tag/evidence), [legal](../tag/legal), [litigation](../tag/litigation), [evidence-project](../tag/evidence-project), [series:evidence-project](../tag/series:evidence-project), [torts](../tag/torts), [law-and-policy](../tag/law-and-policy)
 
 This is part of Public Lab's 'Environmental Evidence' blog series - an examination of the ways in which the law and the legal system are helpful and harmful - for communities and advocacy groups seeking to use community-sourced data to activate change. 'The Law' can be an incredibly powerful tool for holding polluters accountable, but it is often overly complex, costly, and slow to respond to changing circumstances.
 

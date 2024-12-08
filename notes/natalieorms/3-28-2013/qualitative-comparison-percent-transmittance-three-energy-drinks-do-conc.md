@@ -1,12 +1,18 @@
 ---
-nid: 6589
 title: Qualitative Comparison of Percent Transmittance of Three Energy Drinks: Do the concentrations of red food coloring in energy beverages differ?
-path: public/static/notes/natalieorms/3-28-2013/qualitative-comparison-percent-transmittance-three-energy-drinks-do-conc.md
+tagnames: centre-college, che-350
+author: natalie.orms
+path: /notes/natalieorms/3-28-2013/qualitative-comparison-percent-transmittance-three-energy-drinks-do-conc.md
+nid: 6589
 uid: 50193
-tagnames: centre-college,che-350
+
 ---
 
 # Qualitative Comparison of Percent Transmittance of Three Energy Drinks: Do the concentrations of red food coloring in energy beverages differ?
+
+by [natalie.orms](../profile/natalie.orms) March 29, 2013 00:16
+
+March 29, 2013 00:16 | Tags: [centre-college](../tag/centre-college), [che-350](../tag/che-350)
 
 <strong>Motivation</strong>
 

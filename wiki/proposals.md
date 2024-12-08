@@ -1,12 +1,18 @@
 ---
-nid: 111
 title: Proposals
-path: public/static/wiki/proposals.md
-uid: 1
 tagnames: 
+author: warren
+path: /wiki/proposals.md
+nid: 111
+uid: 1
+
 ---
 
 # Proposals
+
+by [warren](../profile/warren)
+
+March 02, 2011 21:47 | Tags: 
 
 Here are the texts of some of the grant applications and other proposals we've submitted. 
 

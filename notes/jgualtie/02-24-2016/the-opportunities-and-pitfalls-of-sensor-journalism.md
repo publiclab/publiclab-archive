@@ -1,12 +1,18 @@
 ---
-nid: 12741
 title: The Opportunities and Pitfalls of Sensor Journalism
-path: public/static/notes/jgualtie/02-24-2016/the-opportunities-and-pitfalls-of-sensor-journalism.md
+tagnames: sensor-journalism, response:12748, hidden:response
+author: jgualtie
+path: /notes/jgualtie/02-24-2016/the-opportunities-and-pitfalls-of-sensor-journalism.md
+nid: 12741
 uid: 461488
-tagnames: sensor-journalism,response:12748,hidden:response
+
 ---
 
 # The Opportunities and Pitfalls of Sensor Journalism
+
+by [jgualtie](../profile/jgualtie) February 24, 2016 17:27
+
+February 24, 2016 17:27 | Tags: [sensor-journalism](../tag/sensor-journalism), [response:12748](../tag/response:12748), [hidden:response](../tag/hidden:response)
 
 Sensor journalism is a relatively new form of journalism that relies on technology to gather information to prepare it to be accessible to the public. While data journalists often relies on existing data to create their story, sensor journalists create data. 
 

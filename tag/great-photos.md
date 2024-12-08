@@ -1,6 +1,6 @@
 # great-photos
 
-18 notes and wiki pages
+18 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Infrared balloon image reveals Gowanus plume](/notes/liz/8-3-2011/ir-reveals-gowanus-plume) by [liz](../profile/liz)
 - [Infrared camera how-to guide for GM Forum](/notes/warren/5-17-2012/infrared-camera-how-guide-gm-forum) by [warren](../profile/warren)

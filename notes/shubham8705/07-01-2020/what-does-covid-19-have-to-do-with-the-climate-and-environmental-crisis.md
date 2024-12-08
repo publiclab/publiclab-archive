@@ -1,12 +1,18 @@
 ---
-nid: 24078
 title: What does COVID-19 have to do with the climate and environmental crisis
-path: public/static/notes/shubham8705/07-01-2020/what-does-covid-19-have-to-do-with-the-climate-and-environmental-crisis.md
+tagnames: forest, air-quality, climate-change, barnstar:watchdog, biodiversity, blog-submission, air-pollution, environmental-health, first-time-poster, covid-19, landscape-fragmentation, deforestation
+author: shubham8705
+path: /notes/shubham8705/07-01-2020/what-does-covid-19-have-to-do-with-the-climate-and-environmental-crisis.md
+nid: 24078
 uid: 687735
-tagnames: forest,air-quality,climate-change,barnstar:watchdog,biodiversity,blog-submission,air-pollution,environmental-health,first-time-poster,covid-19,landscape-fragmentation,deforestation
+
 ---
 
 # What does COVID-19 have to do with the climate and environmental crisis
+
+by [shubham8705](../profile/shubham8705) July 01, 2020 06:26
+
+July 01, 2020 06:26 | Tags: [forest](../tag/forest), [air-quality](../tag/air-quality), [climate-change](../tag/climate-change), [barnstar:watchdog](../tag/barnstar:watchdog), [biodiversity](../tag/biodiversity), [blog-submission](../tag/blog-submission), [air-pollution](../tag/air-pollution), [environmental-health](../tag/environmental-health), [first-time-poster](../tag/first-time-poster), [covid-19](../tag/covid-19), [landscape-fragmentation](../tag/landscape-fragmentation), [deforestation](../tag/deforestation)
 
 The appearance of zoonotic diseases (viruses that are transmitted from animals to humans) is not new to this time, although it does seem to be on the rise. Research suggests these [have quadrupled in the past 50 years](https://blogs.iadb.org/sostenibilidad/es/cual-es-el-vinculo-entre-covid-19-y-las-emergencias-ecologicas-y-climaticas/). And a look at this young 21st century seems sufficient evidence, given that four have already occurred: Severe Acute Respiratory Syndrome (SARS), avian influenza (H5N1), swine (H1N1) and the current COVID-19\. In all cases, they were viruses unique to animal populations that mutated, invaded a human organism, and then spread as new pathogens among the world population.
 

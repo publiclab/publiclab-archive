@@ -1,12 +1,18 @@
 ---
-nid: 13856
 title: The Riffle: DIY and Open Source
-path: public/static/notes/mlamadrid/01-17-2017/the-riffle-diy-and-open-source.md
+tagnames: water-quality, riffle, with:mathew, with:donblair, communityscienceforum, riffle-examples
+author: mlamadrid
+path: /notes/mlamadrid/01-17-2017/the-riffle-diy-and-open-source.md
+nid: 13856
 uid: 45586
-tagnames: water-quality,riffle,with:mathew,with:donblair,communityscienceforum,riffle-examples
+
 ---
 
 # The Riffle: DIY and Open Source
+
+by [mlamadrid](../profile/mlamadrid) January 17, 2017 22:24
+
+January 17, 2017 22:24 | Tags: [water-quality](../tag/water-quality), [riffle](../tag/riffle), [with:mathew](../tag/with:mathew), [with:donblair](../tag/with:donblair), [communityscienceforum](../tag/communityscienceforum), [riffle-examples](../tag/riffle-examples)
 
 Article by [Mathew Lippincott][1] and [Don Blair][2] for [Community Science Forum: Water][3]
 

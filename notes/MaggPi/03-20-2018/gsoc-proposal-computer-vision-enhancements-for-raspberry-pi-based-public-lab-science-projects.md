@@ -1,12 +1,18 @@
 ---
-nid: 15978
 title: GSoC proposal: Computer Vision enhancements for Raspberry Pi based Public Lab Science Projects
-path: public/static/notes/MaggPi/03-20-2018/gsoc-proposal-computer-vision-enhancements-for-raspberry-pi-based-public-lab-science-projects.md
+tagnames: software, gsoc, soc, response:13975, gsoc-2018, soc-2018, soc-2018-proposals, gsoc-2018-final
+author: MaggPi
+path: /notes/MaggPi/03-20-2018/gsoc-proposal-computer-vision-enhancements-for-raspberry-pi-based-public-lab-science-projects.md
+nid: 15978
 uid: 501996
-tagnames: software,gsoc,soc,response:13975,gsoc-2018,soc-2018,soc-2018-proposals,gsoc-2018-final
+
 ---
 
 # GSoC proposal: Computer Vision enhancements for Raspberry Pi based Public Lab Science Projects
+
+by [MaggPi](../profile/MaggPi) March 20, 2018 02:44
+
+March 20, 2018 02:44 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [soc](../tag/soc), [response:13975](../tag/response:13975), [gsoc-2018](../tag/gsoc-2018), [soc-2018](../tag/soc-2018), [soc-2018-proposals](../tag/soc-2018-proposals), [gsoc-2018-final](../tag/gsoc-2018-final)
 
 ## About me
 18 year old aspiring computer programmer; interested in computer science and how computer vision can be applied to automate spectroscopic analysis.  

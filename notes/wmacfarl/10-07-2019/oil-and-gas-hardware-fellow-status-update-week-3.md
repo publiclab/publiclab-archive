@@ -1,12 +1,18 @@
 ---
-nid: 21107
 title: Oil and Gas Hardware Fellow Status Update: Week 3!
-path: public/static/notes/wmacfarl/10-07-2019/oil-and-gas-hardware-fellow-status-update-week-3.md
+tagnames: water-quality, lat:41.834189, lon:-71.441798, oil-and-gas-water-trio
+author: wmacfarl
+path: /notes/wmacfarl/10-07-2019/oil-and-gas-hardware-fellow-status-update-week-3.md
+nid: 21107
 uid: 424597
-tagnames: water-quality,lat:41.834189,lon:-71.441798,oil-and-gas-water-trio
+
 ---
 
 # Oil and Gas Hardware Fellow Status Update: Week 3!
+
+by [wmacfarl](../profile/wmacfarl) October 07, 2019 16:51
+
+October 07, 2019 16:51 | Tags: [water-quality](../tag/water-quality), [lat:41.834189](../tag/lat:41.834189), [lon:-71.441798](../tag/lon:-71.441798), [oil-and-gas-water-trio](../tag/oil-and-gas-water-trio)
 
 It's the beginning of the third week of the Public Lab Oil and Gas water monitoring fellowship trio and we've all been busy starting to weave together the threads of the three different fellowships and research areas.
 

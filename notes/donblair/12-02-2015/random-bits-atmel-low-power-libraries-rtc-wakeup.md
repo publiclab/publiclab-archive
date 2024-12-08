@@ -1,12 +1,18 @@
 ---
-nid: 12471
 title: Random Bits: Atmel Low Power Libraries & RTC wakeup
-path: public/static/notes/donblair/12-02-2015/random-bits-atmel-low-power-libraries-rtc-wakeup.md
+tagnames: riffle, low-power
+author: donblair
+path: /notes/donblair/12-02-2015/random-bits-atmel-low-power-libraries-rtc-wakeup.md
+nid: 12471
 uid: 43651
-tagnames: riffle,low-power
+
 ---
 
 # Random Bits: Atmel Low Power Libraries & RTC wakeup
+
+by [donblair](../profile/donblair) December 02, 2015 19:14
+
+December 02, 2015 19:14 | Tags: [riffle](../tag/riffle), [low-power](../tag/low-power)
 
 Quick notes from the last several days -- sorry it'll be a bit of a ramble -- just trying to capture some ideas here quickly. 
 

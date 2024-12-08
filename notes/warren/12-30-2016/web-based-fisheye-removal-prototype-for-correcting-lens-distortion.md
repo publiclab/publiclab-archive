@@ -1,12 +1,18 @@
 ---
-nid: 13826
 title: Web-based fisheye-removal prototype for correcting lens distortion
-path: public/static/notes/warren/12-30-2016/web-based-fisheye-removal-prototype-for-correcting-lens-distortion.md
+tagnames: infragram, fisheye, mobius, mobius-action-cam, javascript, lens-distortion, web-based, browser, response:12201, response:11407, lens-correction, lat:42.38, location:blurred, lon:-71.08
+author: warren
+path: /notes/warren/12-30-2016/web-based-fisheye-removal-prototype-for-correcting-lens-distortion.md
+nid: 13826
 uid: 1
-tagnames: infragram,fisheye,mobius,mobius-action-cam,javascript,lens-distortion,web-based,browser,response:12201,response:11407,lens-correction,lat:42.38,location:blurred,lon:-71.08
+
 ---
 
 # Web-based fisheye-removal prototype for correcting lens distortion
+
+by [warren](../profile/warren) December 30, 2016 21:18
+
+December 30, 2016 21:18 | Tags: [infragram](../tag/infragram), [fisheye](../tag/fisheye), [mobius](../tag/mobius), [mobius-action-cam](../tag/mobius-action-cam), [javascript](../tag/javascript), [lens-distortion](../tag/lens-distortion), [web-based](../tag/web-based), [browser](../tag/browser), [response:12201](../tag/response:12201), [response:11407](../tag/response:11407), [lens-correction](../tag/lens-correction), [lat:42.38](../tag/lat:42.38), [location:blurred](../tag/location:blurred), [lon:-71.08](../tag/lon:-71.08)
 
 Hi, all - I'd been meaning to for some time, but I finally got a quick prototype up for in-browser #fisheye correction:
 

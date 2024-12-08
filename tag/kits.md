@@ -1,6 +1,6 @@
 # kits
 
-91 notes and wiki pages
+91 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Kits Initiative](/wiki/kits) (wiki)
 - [Grants: MIT 100k](/wiki/grants-mit-100k) (wiki)
@@ -81,7 +81,6 @@
 - [Public Lab Store](/wiki/public-lab-store) (wiki)
 - [Prototyping a Tablet Microscope-- Like the Cell Phone Microscope, But Bigger](/notes/Bronwen/04-29-2019/prototyping-a-tablet-microscope-like-the-cell-phone-microscope-but-bigger) by [Bronwen](../profile/Bronwen)
 - [Public Lab job posting: Kits Fulfillment Coordinator](/notes/thewrightjess/09-27-2019/public-lab-job-posting-kits-fulfillment-coordinator) by [thewrightjess](../profile/thewrightjess)
-- [Professional Teeth Whitening Kits](/notes/Magicsmile129/10-14-2019/professional-teeth-whitening-kits) by [Magicsmile129](../profile/Magicsmile129)
 - [Responding to Environmental Disasters-- Building a Kit](/notes/Bronwen/11-20-2019/responding-to-environmental-disasters-building-a-kit) by [Bronwen](../profile/Bronwen)
 - [Any experience with knockoff temperature sensors?](/notes/wln215/11-22-2019/any-experience-with-knockoff-temperature-sensors) by [wln215](../profile/wln215)
 - [Holiday Sale on Public Lab Kits!](/notes/Bronwen/12-11-2019/holiday-sale-on-public-lab-kits) by [Bronwen](../profile/Bronwen)

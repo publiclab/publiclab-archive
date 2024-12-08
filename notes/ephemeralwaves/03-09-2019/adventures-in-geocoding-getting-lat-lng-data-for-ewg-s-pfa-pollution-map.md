@@ -1,12 +1,18 @@
 ---
-nid: 18499
 title: Adventures in Geocoding: Getting lat/lng data for EWG's PFA pollution map
-path: public/static/notes/ephemeralwaves/03-09-2019/adventures-in-geocoding-getting-lat-lng-data-for-ewg-s-pfa-pollution-map.md
+tagnames: water, map, pfas, geocode
+author: ephemeralwaves
+path: /notes/ephemeralwaves/03-09-2019/adventures-in-geocoding-getting-lat-lng-data-for-ewg-s-pfa-pollution-map.md
+nid: 18499
 uid: 47284
-tagnames: water,map,pfas,geocode
+
 ---
 
 # Adventures in Geocoding: Getting lat/lng data for EWG's PFA pollution map
+
+by [ephemeralwaves](../profile/ephemeralwaves) March 09, 2019 02:13
+
+March 09, 2019 02:13 | Tags: [water](../tag/water), [map](../tag/map), [pfas](../tag/pfas), [geocode](../tag/geocode)
 
 To add a layer to the [leaflet-environmental-layers](https://github.com/publiclab/leaflet-environmental-layers) I figured I needed the latitude and longitude of the sites of contamination.
 

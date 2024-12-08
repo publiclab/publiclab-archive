@@ -1,12 +1,18 @@
 ---
-nid: 10496
 title: Southeast United States
-path: public/static/wiki/southeast-united-states.md
-uid: 148271
 tagnames: regional
+author: PascalW
+path: /wiki/southeast-united-states.md
+nid: 10496
+uid: 148271
+
 ---
 
 # Southeast United States
+
+by [liz](../profile/liz), [JSummers](../profile/JSummers), [PascalW](../profile/PascalW)
+
+May 21, 2014 15:14 | Tags: [regional](../tag/regional)
 
 _above: TaraMei and Justin from ExtraTerrestrial Projects conducting native prairie restoration on the American Tobacco Trail in downtown Durham_
 

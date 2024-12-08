@@ -1,12 +1,18 @@
 ---
-nid: 10583
 title: Update 2 on Sky Cam Enhancement - GSoC 2014
-path: public/static/notes/mercyorangi/06-17-2014/update-2-on-sky-cam-enhancement-gsoc-2014.md
+tagnames: image-processing, gsoc, skycam, gsoc-2014, image-streaming
+author: mercyorangi
+path: /notes/mercyorangi/06-17-2014/update-2-on-sky-cam-enhancement-gsoc-2014.md
+nid: 10583
 uid: 421649
-tagnames: image-processing,gsoc,skycam,gsoc-2014,image-streaming
+
 ---
 
 # Update 2 on Sky Cam Enhancement - GSoC 2014
+
+by [mercyorangi](../profile/mercyorangi) June 17, 2014 20:38
+
+June 17, 2014 20:38 | Tags: [image-processing](../tag/image-processing), [gsoc](../tag/gsoc), [skycam](../tag/skycam), [gsoc-2014](../tag/gsoc-2014), [image-streaming](../tag/image-streaming)
 
 ###Streaming photos to a 2nd mobile device
 For the past 10 days, I have been working on having the photos taken by the camera on a 'drone' to be streamed to a 2nd phone. This was after consultation and feedback from my previous research note. 

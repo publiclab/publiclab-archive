@@ -1,12 +1,18 @@
 ---
-nid: 8958
 title: Trapa detection
-path: public/static/notes/cfastie/08-02-2013/trapa-detection.md
+tagnames: balloon-mapping, near-infrared-camera, kite-mapping, vermont, lake, gps, pvos, event, massachusetts, invasive, umass-amherst, aquatic, usfws, classification, georeferencing, h2onutz, response:8928, response:8937, invasive-species
+author: cfastie
+path: /notes/cfastie/08-02-2013/trapa-detection.md
+nid: 8958
 uid: 554
-tagnames: balloon-mapping,near-infrared-camera,kite-mapping,vermont,lake,gps,pvos,event,massachusetts,invasive,umass-amherst,aquatic,usfws,classification,georeferencing,h2onutz,response:8928,response:8937,invasive-species
+
 ---
 
 # Trapa detection
+
+by [cfastie](../profile/cfastie) August 02, 2013 15:56
+
+August 02, 2013 15:56 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [vermont](../tag/vermont), [lake](../tag/lake), [gps](../tag/gps), [pvos](../tag/pvos), [event](../tag/event), [massachusetts](../tag/massachusetts), [invasive](../tag/invasive), [umass-amherst](../tag/umass-amherst), [aquatic](../tag/aquatic), [usfws](../tag/usfws), [classification](../tag/classification), [georeferencing](../tag/georeferencing), [h2onutz](../tag/h2onutz), [response:8928](../tag/response:8928), [response:8937](../tag/response:8937), [invasive-species](../tag/invasive-species)
 
 <em>Image above: Balloon aerial photo of aquatic plants on Lake Warner with patches of water chestnut circled. Click image to enlarge.</em>
 

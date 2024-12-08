@@ -1,12 +1,18 @@
 ---
-nid: 17007
 title: Download & Analyze Purple Air data
-path: public/static/notes/jiteovien/08-28-2018/download-analyze-your-purple-air-data.md
+tagnames: analysis, air-quality, maps, dust, pm, seeks:replications, air-sensors, purpleair, activity:purpleair
+author: jiteovien
+path: /notes/jiteovien/08-28-2018/download-analyze-your-purple-air-data.md
+nid: 17007
 uid: 540008
-tagnames: analysis,air-quality,maps,dust,pm,seeks:replications,air-sensors,purpleair,activity:purpleair
+
 ---
 
 # Download & Analyze Purple Air data
+
+by [jiteovien](../profile/jiteovien) August 28, 2018 16:27
+
+August 28, 2018 16:27 | Tags: [analysis](../tag/analysis), [air-quality](../tag/air-quality), [maps](../tag/maps), [dust](../tag/dust), [pm](../tag/pm), [seeks:replications](../tag/seeks:replications), [air-sensors](../tag/air-sensors), [purpleair](../tag/purpleair), [activity:purpleair](../tag/activity:purpleair)
 
 **To do this activity you do not need to actually have a PurpleAir.**
 

@@ -1,12 +1,18 @@
 ---
-nid: 13398
 title: Conducting a Literature Review
-path: public/static/wiki/literature-review.md
+tagnames: research, tool, literature-review, method
+author: gretchengehrke
+path: /wiki/literature-review.md
+nid: 13398
 uid: 430549
-tagnames: research,tool,literature-review,method
+
 ---
 
 # Conducting a Literature Review
+
+by [gretchengehrke](../profile/gretchengehrke)
+
+August 26, 2016 20:31 | Tags: [research](../tag/research), [tool](../tag/tool), [literature-review](../tag/literature-review), [method](../tag/method)
 
 ##Conducting a Literature Review
 

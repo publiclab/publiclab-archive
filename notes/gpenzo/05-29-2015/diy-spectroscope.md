@@ -1,12 +1,18 @@
 ---
-nid: 11906
 title: DIY spectroscope
-path: public/static/notes/gpenzo/05-29-2015/diy-spectroscope.md
+tagnames: diy, spectroscope
+author: gpenzo
+path: /notes/gpenzo/05-29-2015/diy-spectroscope.md
+nid: 11906
 uid: 420719
-tagnames: diy,spectroscope
+
 ---
 
 # DIY spectroscope
+
+by [gpenzo](../profile/gpenzo) May 29, 2015 19:33
+
+May 29, 2015 19:33 | Tags: [diy](../tag/diy), [spectroscope](../tag/spectroscope)
 
 ###What I want to do
 I had some usb camera and some lenses laying around from a previous project.

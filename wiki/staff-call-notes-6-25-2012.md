@@ -1,12 +1,18 @@
 ---
-nid: 2661
 title: Staff call notes 6 25 2012
-path: public/static/wiki/staff-call-notes-6-25-2012.md
-uid: 1
 tagnames: 
+author: warren
+path: /wiki/staff-call-notes-6-25-2012.md
+nid: 2661
+uid: 1
+
 ---
 
 # Staff call notes 6 25 2012
+
+by [warren](../profile/warren)
+
+June 28, 2012 16:31 | Tags: 
 
 ###Sara###
 * 5 accomplished: Providence mapping meet up--providence research group-Matt Stalz: web developer for Maker Bot founder of http://www.hackpittsburgh.org/, EPA meetings, move of materials from Pirateship, H2S, RPI talk, mapknitter training,

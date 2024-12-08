@@ -1,12 +1,18 @@
 ---
-nid: 13265
 title: Making the aluminum frame of an aerial camera rig (video)
-path: public/static/notes/cfastie/07-07-2016/making-aerobee.md
+tagnames: vermont, kite-aerial-photography, camera-rig-tests, aerial-photography, photo-rig, barnstar:video-documentation, kaptery, aerobee, jerkpan, response:13261, category:build
+author: cfastie
+path: /notes/cfastie/07-07-2016/making-aerobee.md
+nid: 13265
 uid: 554
-tagnames: vermont,kite-aerial-photography,camera-rig-tests,aerial-photography,photo-rig,barnstar:video-documentation,kaptery,aerobee,jerkpan,response:13261,category:build
+
 ---
 
 # Making the aluminum frame of an aerial camera rig (video)
+
+by [cfastie](../profile/cfastie) July 07, 2016 17:30
+
+July 07, 2016 17:30 | Tags: [vermont](../tag/vermont), [kite-aerial-photography](../tag/kite-aerial-photography), [camera-rig-tests](../tag/camera-rig-tests), [aerial-photography](../tag/aerial-photography), [photo-rig](../tag/photo-rig), [barnstar:video-documentation](../tag/barnstar:video-documentation), [kaptery](../tag/kaptery), [aerobee](../tag/aerobee), [jerkpan](../tag/jerkpan), [response:13261](../tag/response:13261), [category:build](../tag/category:build)
 
 Making the aluminum frame of the [Aerobee Rig](https://publiclab.org/notes/cfastie/07-05-2016/the-aerobee-rig) required some new tools and skills. I haven't done much metal work, and don't have any real metal shop tools, so after I had made a few prototypes it was obvious that making multiple copies of the rig would be difficult. I wanted this rig to be as simple and inexpensive as possible to make it available to more people.
 

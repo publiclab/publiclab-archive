@@ -1,12 +1,18 @@
 ---
-nid: 11821
 title: PhotoMonitoringPlugin fuzzy
-path: public/static/notes/gpenzo/05-16-2015/photomonitoringplugin-fuzzy.md
+tagnames: ndvi, qgis
+author: gpenzo
+path: /notes/gpenzo/05-16-2015/photomonitoringplugin-fuzzy.md
+nid: 11821
 uid: 420719
-tagnames: ndvi,qgis
+
 ---
 
 # PhotoMonitoringPlugin fuzzy
+
+by [gpenzo](../profile/gpenzo) May 16, 2015 08:39
+
+May 16, 2015 08:39 | Tags: [ndvi](../tag/ndvi), [qgis](../tag/qgis)
 
 ###What I want to do
 For my [NDVI cap](http://publiclab.org/notes/gpenzo/03-25-2015/ndvi-cape-for-the-beagle-bone) project

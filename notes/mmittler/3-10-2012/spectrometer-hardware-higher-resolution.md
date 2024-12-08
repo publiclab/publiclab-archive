@@ -1,12 +1,18 @@
 ---
-nid: 917
 title: spectrometer hardware with higher resolution
-path: public/static/notes/mmittler/3-10-2012/spectrometer-hardware-higher-resolution.md
-uid: 653
 tagnames: spectrometer
+author: mmittler
+path: /notes/mmittler/3-10-2012/spectrometer-hardware-higher-resolution.md
+nid: 917
+uid: 653
+
 ---
 
 # spectrometer hardware with higher resolution
+
+by [mmittler](../profile/mmittler) March 10, 2012 21:13
+
+March 10, 2012 21:13 | Tags: [spectrometer](../tag/spectrometer)
 
 Hello Labbers,
 

@@ -1,6 +1,6 @@
 # question-infragram
 
-84 notes and wiki pages
+84 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Will Infragram help with Indoor Hydroponics/Aquaponics?](/notes/code4maine/01-15-2014/will-infragram-help-with-indoor-hydroponics-aquaponics) by [ajawitz](../profile/ajawitz)
 - [Question: retrieving true color image from infragram images](/notes/brooksdr/09-12-2014/question-retrieving-true-color-image-from-infragram-images) by [brooksdr](../profile/brooksdr)
@@ -56,7 +56,6 @@
 - [Infragram Point and shoot photos: white balance not working](/notes/Muneeswaran/12-17-2018/infragram-point-and-shoot-photos-white-balance-not-working) by [Muneeswaran](../profile/Muneeswaran)
 - [I am getting very low NDVI values.](/notes/Anice/01-09-2019/i-am-getting-very-low-ndvi-values) by [Anice](../profile/Anice)
 - [How to calibrate the white-balance for NDVI using the BLUE filter?](/notes/cagiva/01-10-2019/ndvi-for-blue-filter) by [cagiva](../profile/cagiva)
-- [How do I...](/notes/Courtneyy/03-26-2019/how-do-i) by [Courtneyy](../profile/Courtneyy)
 - [Should I use two sheets of filter?](/notes/kauemv2/05-16-2019/should-i-use-two-sheets-of-filter) by [kauemv2](../profile/kauemv2)
 - [AWB_Gains for PiNoIRCamera V2 (Red Filter)](/notes/kauemv2/05-27-2019/awb_gains-for-pinoircamera-v2-red-filter) by [kauemv2](../profile/kauemv2)
 - [I just gotten my newly purchased Infragram Pi Camera, my pi.local is blank and pi.local/Cam keeps popping up message "Error in RaspiMJPEG" hence I do not get any live video feed. Anyone can help?](/notes/willieong/07-09-2019/i-just-gotten-my-newly-purchased-infragram-pi-camera-my-pi-local-is-blank-and-pi-local-cam-keeps-popping-up-message-error-in-raspimjpeg-hence-i-do-not-get-any-live-video-feed-anyone-can-help) by [willieong](../profile/willieong)
@@ -65,11 +64,9 @@
 - [Need help to reduce the Blue in mobius point and shoot camera](/notes/Muneeswaran/08-26-2019/need-help-to-reduce-the-blue-in-mobius-point-and-shoot-camera) by [Muneeswaran](../profile/Muneeswaran)
 - [How to design a camera for calculating ENDVI.](/notes/nickyshen0306/09-12-2019/how-to-design-a-camera-for-calculating-endvi) by [nickyshen0306](../profile/nickyshen0306)
 - [Bad NDVI Results from Pi NOIR with Blue Filter](/notes/nstarli/10-08-2019/bad-ndvi-results-from-pi-noir-with-blue-filter) by [nstarli](../profile/nstarli)
-- [What kind of thermal cameras would be worth it for you?](/notes/perfectprime/10-17-2019/what-kind-of-thermal-cameras-would-be-worth-it-for-you) by [perfectprime](../profile/perfectprime)
 - [Feasibility-check: NDVI analysis of moss](/notes/zomb23/11-15-2019/feasibility-check-ndvi-analysis-of-moss) by [zomb23](../profile/zomb23)
 - [How to do the white-balancing for the RED filter?](/notes/xmv79667/01-03-2020/how-to-do-the-white-balancing-for-the-red-filter) by [xmv79667](../profile/xmv79667)
 - [How can I make IR photos derived from various cutoff useful for creating NDVI (normalized difference vegetation index) images?](/notes/lev29/01-15-2020/can-certain-types-of-ir-photos-i-could-submit-be-useful-or-convertible-to-infrablue-images) by [lev29](../profile/lev29)
-- [Letasoft Sound Booster 1.11 Crack](/notes/Keyactivator/01-25-2020/letasoft-sound-booster-1-11-crack) by [Keyactivator](../profile/Keyactivator)
 - [Can I use the infragram.org for my thesis? Thanks!](/notes/tooooopher05/02-22-2020/can-i-use-the-infragram-org-for-my-thesis-thanks) by [tooooopher05](../profile/tooooopher05)
 - [Is there a way to convert an infrared video footage to NDVI?](/notes/sam14/04-30-2020/is-there-a-way-to-convert-an-infrared-video-footage-to-ndvi) by [sam14](../profile/sam14)
 - [Can I use a clear case with the Infragram pi camera?](/notes/mimiss/05-08-2020/can-i-use-a-clear-case-with-the-infragram-pi-camera) by [mimiss](../profile/mimiss)
@@ -83,6 +80,5 @@
 - [NDVI image issues from GoPro 3+ Silver ](/notes/jeffa_plain/11-22-2021/ndvi-image-issues-from-gopro-3-silver) by [jeffa_plain](../profile/jeffa_plain)
 - [Can NOIR camera distinguise different types of leaf?](/notes/shahdharam7/12-17-2021/can-noir-camera-distinguise-different-types-of-leaf) by [shahdharam7](../profile/shahdharam7)
 - [Why Red filter results are blurry compared to Blue filters?](/notes/shahdharam7/12-17-2021/why-red-filter-results-are-blurry-compared-to-blue-filters) by [shahdharam7](../profile/shahdharam7)
-- [How to find best events Catering Services in Calgary?](/notes/vivek_genuvenue1220/01-03-2022/how-to-find-best-events-catering-services-in-calgary) by [vivek_genuvenue1220](../profile/vivek_genuvenue1220)
 - [Run infragram offiline (whitout online analysis)](/notes/elucasfreitas/06-19-2022/run-infragram-offiline-whitout-online-analysis) by [elucasfreitas](../profile/elucasfreitas)
 - [Infrared camera](/notes/eduardo_gamosa/10-10-2022/infrared-camera) by [eduardo_gamosa](../profile/eduardo_gamosa)

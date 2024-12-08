@@ -1,12 +1,18 @@
 ---
-nid: 9953
 title: Reviews of Replica Chanel J12
-path: public/static/wiki/reviews-of-replica-chanel-j12.md
-uid: 380595
 tagnames: first-time-poster
+author: lawraymond3
+path: /wiki/reviews-of-replica-chanel-j12.md
+nid: 9953
+uid: 380595
+
 ---
 
 # Reviews of Replica Chanel J12
+
+by [lawraymond3](../profile/lawraymond3)
+
+January 17, 2014 14:57 | Tags: [first-time-poster](../tag/first-time-poster)
 
 ##[![252382.jpg](https://i.publiclab.org/system/images/photos/000/002/573/medium/252382.jpg)](https://i.publiclab.org/system/images/photos/000/002/573/original/252382.jpg)
 

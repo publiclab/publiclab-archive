@@ -1,12 +1,18 @@
 ---
-nid: 9740
 title: Canon A2400 IR conversion
-path: public/static/notes/jbest/11-06-2013/canon-a2400-ir-conversion.md
+tagnames: near-infrared-camera, conversion, filter, infragram, activity:infrared-camera-conversion, first-time-poster
+author: jbest
+path: /notes/jbest/11-06-2013/canon-a2400-ir-conversion.md
+nid: 9740
 uid: 194322
-tagnames: near-infrared-camera,conversion,filter,infragram,activity:infrared-camera-conversion,first-time-poster
+
 ---
 
 # Canon A2400 IR conversion
+
+by [jbest](../profile/jbest) November 06, 2013 18:15
+
+November 06, 2013 18:15 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [conversion](../tag/conversion), [filter](../tag/filter), [infragram](../tag/infragram), [activity:infrared-camera-conversion](../tag/activity:infrared-camera-conversion), [first-time-poster](../tag/first-time-poster)
 
 ### Canon A2400 IR conversion
 

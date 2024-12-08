@@ -1,6 +1,6 @@
 # beginner
 
-3 notes and wiki pages
+3 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Absorbance of grass in blue light](/notes/vanjo63/02-21-2016/absorbance-of-grass-in-blue-light) by [vanjo63](../profile/vanjo63)
 - [Assemble a DIY Papercraft Spectrometer](/notes/abdul/10-19-2016/foldable-paper-spectrometer-instructions) by [abdul](../profile/abdul)

@@ -1,12 +1,18 @@
 ---
-nid: 20498
 title: A Day in the Life of LDI
-path: public/static/notes/sashadev-sky/08-11-2019/a-day-in-the-life-of-ldi.md
+tagnames: mapknitter, software, development, leaflet
+author: sashadev-sky
+path: /notes/sashadev-sky/08-11-2019/a-day-in-the-life-of-ldi.md
+nid: 20498
 uid: 555321
-tagnames: mapknitter,software,development,leaflet
+
 ---
 
 # A Day in the Life of LDI
+
+by [sashadev-sky](../profile/sashadev-sky) August 11, 2019 01:17
+
+August 11, 2019 01:17 | Tags: [mapknitter](../tag/mapknitter), [software](../tag/software), [development](../tag/development), [leaflet](../tag/leaflet)
 
 During the development process, we add a lot of gifs on our PRs to better document the changes we implement. I figured rather than writing about developments in LDI, I can use the gifs to show them.
 

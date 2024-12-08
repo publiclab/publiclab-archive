@@ -1,12 +1,18 @@
 ---
-nid: 22323
 title: How can I make IR photos derived from various cutoff useful for creating NDVI (normalized difference vegetation index) images?
-path: public/static/notes/lev29/01-15-2020/can-certain-types-of-ir-photos-i-could-submit-be-useful-or-convertible-to-infrablue-images.md
+tagnames: ndvi, infrared, infragram, question:ndvi, question:infragram, question:infrared, question:multispectral-imaging, multispectral-imaging, first-time-poster
+author: lev29
+path: /notes/lev29/01-15-2020/can-certain-types-of-ir-photos-i-could-submit-be-useful-or-convertible-to-infrablue-images.md
+nid: 22323
 uid: 654422
-tagnames: ndvi,infrared,infragram,question:ndvi,question:infragram,question:infrared,question:multispectral-imaging,multispectral-imaging,first-time-poster
+
 ---
 
 # How can I make IR photos derived from various cutoff useful for creating NDVI (normalized difference vegetation index) images?
+
+by [lev29](../profile/lev29) January 15, 2020 19:17
+
+January 15, 2020 19:17 | Tags: [ndvi](../tag/ndvi), [infrared](../tag/infrared), [infragram](../tag/infragram), [question:ndvi](../tag/question:ndvi), [question:infragram](../tag/question:infragram), [question:infrared](../tag/question:infrared), [question:multispectral-imaging](../tag/question:multispectral-imaging), [multispectral-imaging](../tag/multispectral-imaging), [first-time-poster](../tag/first-time-poster)
 
 I own both digital SLR and mirrorless Sony cameras that capture only visible light images. I also own Full Spectrum-converted Sony mirrorless camera to which I apply a number of different external optical filters, including the following (note that for simple bandpass filters, I use the letter "K" followed by the approximate cutoff wavelength as expressed in nanometers):
 

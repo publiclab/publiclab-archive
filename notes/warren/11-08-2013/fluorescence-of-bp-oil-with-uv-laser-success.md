@@ -1,12 +1,18 @@
 ---
-nid: 9750
 title: Fluorescence of BP oil with UV laser: success!
-path: public/static/notes/warren/11-08-2013/fluorescence-of-bp-oil-with-uv-laser-success.md
+tagnames: spectrometer, uv, oil, ultraviolet, laser, fluorescence, bp, response:8949, response:8955, response:9306, response:7551, oil-testing-kit
+author: warren
+path: /notes/warren/11-08-2013/fluorescence-of-bp-oil-with-uv-laser-success.md
+nid: 9750
 uid: 1
-tagnames: spectrometer,uv,oil,ultraviolet,laser,fluorescence,bp,response:8949,response:8955,response:9306,response:7551,oil-testing-kit
+
 ---
 
 # Fluorescence of BP oil with UV laser: success!
+
+by [warren](../profile/warren) November 08, 2013 21:48
+
+November 08, 2013 21:48 | Tags: [spectrometer](../tag/spectrometer), [uv](../tag/uv), [oil](../tag/oil), [ultraviolet](../tag/ultraviolet), [laser](../tag/laser), [fluorescence](../tag/fluorescence), [bp](../tag/bp), [response:8949](../tag/response:8949), [response:8955](../tag/response:8955), [response:9306](../tag/response:9306), [response:7551](../tag/response:7551), [oil-testing-kit](../tag/oil-testing-kit)
 
 ###What I want to do
 

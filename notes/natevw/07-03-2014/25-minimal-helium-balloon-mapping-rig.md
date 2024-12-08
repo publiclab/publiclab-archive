@@ -1,12 +1,18 @@
 ---
-nid: 10651
 title: Make a $25 minimal-helium balloon mapping rig
-path: public/static/notes/natevw/07-03-2014/25-minimal-helium-balloon-mapping-rig.md
+tagnames: balloon-mapping, photo-rig, cheap, mobius, barnstar:basic, keychain-camera, low-cost, mini-balloon-kit, activity:balloon-mapping, activity:photo-rig, affordable, activity:mini-balloon-kit
+author: natevw
+path: /notes/natevw/07-03-2014/25-minimal-helium-balloon-mapping-rig.md
+nid: 10651
 uid: 804
-tagnames: balloon-mapping,photo-rig,cheap,mobius,barnstar:basic,keychain-camera,low-cost,mini-balloon-kit,activity:balloon-mapping,activity:photo-rig,affordable,activity:mini-balloon-kit
+
 ---
 
 # Make a $25 minimal-helium balloon mapping rig
+
+by [natevw](../profile/natevw) July 03, 2014 23:03
+
+July 03, 2014 23:03 | Tags: [balloon-mapping](../tag/balloon-mapping), [photo-rig](../tag/photo-rig), [cheap](../tag/cheap), [mobius](../tag/mobius), [barnstar:basic](../tag/barnstar:basic), [keychain-camera](../tag/keychain-camera), [low-cost](../tag/low-cost), [mini-balloon-kit](../tag/mini-balloon-kit), [activity:balloon-mapping](../tag/activity:balloon-mapping), [activity:photo-rig](../tag/activity:photo-rig), [affordable](../tag/affordable), [activity:mini-balloon-kit](../tag/activity:mini-balloon-kit)
 
 ###What I want to do
 

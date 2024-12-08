@@ -1,12 +1,18 @@
 ---
-nid: 11893
 title: OpenAerialMap, Open Imagery Network & Public Lab's MapKnitter
-path: public/static/notes/warren/05-29-2015/openaerialmap-open-imagery-network-public-lab-s-mapknitter.md
+tagnames: 3d, mapknitter, bundleadjustment, gps, software, gsoc, leaflet, metadata, autostitch, auto-placement, opendronemap, openaerialmap, leaflet.distortableimage
+author: warren
+path: /notes/warren/05-29-2015/openaerialmap-open-imagery-network-public-lab-s-mapknitter.md
+nid: 11893
 uid: 1
-tagnames: 3d,mapknitter,bundleadjustment,gps,software,gsoc,leaflet,metadata,autostitch,auto-placement,opendronemap,openaerialmap,leaflet.distortableimage
+
 ---
 
 # OpenAerialMap, Open Imagery Network & Public Lab's MapKnitter
+
+by [warren](../profile/warren) May 29, 2015 15:26
+
+May 29, 2015 15:26 | Tags: [3d](../tag/3d), [mapknitter](../tag/mapknitter), [bundleadjustment](../tag/bundleadjustment), [gps](../tag/gps), [software](../tag/software), [gsoc](../tag/gsoc), [leaflet](../tag/leaflet), [metadata](../tag/metadata), [autostitch](../tag/autostitch), [auto-placement](../tag/auto-placement), [opendronemap](../tag/opendronemap), [openaerialmap](../tag/openaerialmap), [leaflet.distortableimage](../tag/leaflet.distortableimage)
 
 The [OpenAerialMap Beta](http://beta.openaerialmap.org/) was just [launched yesterday](https://developmentseed.org/blog/2015/05/27/introducing-openaerialmap/) by DevelopmentSeed - a reboot of the old OAM from ~2008 (if I recall?). It's a global index of aerial imagery, depending on a simple standard for metadata which we now plan to support in Public Lab's MapKnitter:
 

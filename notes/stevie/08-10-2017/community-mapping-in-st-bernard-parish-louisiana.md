@@ -1,12 +1,18 @@
 ---
-nid: 14729
 title: Community Mapping in St. Bernard Parish, Louisiana
-path: public/static/notes/stevie/08-10-2017/community-mapping-in-st-bernard-parish-louisiana.md
+tagnames: gulf-coast, balloon-mapping, kite-mapping, event, new-orleans, nas, st.bernard
+author: stevie
+path: /notes/stevie/08-10-2017/community-mapping-in-st-bernard-parish-louisiana.md
+nid: 14729
 uid: 422561
-tagnames: gulf-coast,balloon-mapping,kite-mapping,event,new-orleans,nas,st.bernard
+
 ---
 
 # Community Mapping in St. Bernard Parish, Louisiana
+
+by [stevie](../profile/stevie) August 10, 2017 17:50
+
+August 10, 2017 17:50 | Tags: [gulf-coast](../tag/gulf-coast), [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [event](../tag/event), [new-orleans](../tag/new-orleans), [nas](../tag/nas), [st.bernard](../tag/st.bernard)
 
 Join Public Lab, the [Meraux Foundation][1], and collaborators for a hands on Do-It-Together community mapping workshop. Participants will learn how to use balloons, kites, and digital cameras to capture aerial imagery and use the images to build maps. The workshop will be from 10-3pm at Docville Farm, in Violet, LA. Lunch included! 
 

@@ -1,6 +1,6 @@
 # infragram-camera-testing
 
-5 notes and wiki pages
+5 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Infrablue Webcam Panoramas in the Oakland Hills](/notes/gonzoearth/07-02-2013/infrablue-webcam-panoramas-in-the-oakland-hills) by [gonzoearth](../profile/gonzoearth)
 - [More Infragram sample webcam tests](/notes/warren/08-05-2013/more-infragram-sample-webcam-tests) by [warren](../profile/warren)

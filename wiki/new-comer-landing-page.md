@@ -1,12 +1,18 @@
 ---
-nid: 5608
 title: New Comer Landing Page
-path: public/static/wiki/new-comer-landing-page.md
+tagnames: website, plots2, introduction, wintercamp, newcomers, onboarding, out-of-date
+author: mollydanielsson
+path: /wiki/new-comer-landing-page.md
+nid: 5608
 uid: 1259
-tagnames: website,plots2,introduction,wintercamp,newcomers,onboarding,out-of-date
+
 ---
 
 # New Comer Landing Page
+
+by [liz](../profile/liz), [mollydanielsson](../profile/mollydanielsson), [warren](../profile/warren)
+
+January 16, 2013 17:51 | Tags: [website](../tag/website), [plots2](../tag/plots2), [introduction](../tag/introduction), [wintercamp](../tag/wintercamp), [newcomers](../tag/newcomers), [onboarding](../tag/onboarding), [out-of-date](../tag/out-of-date)
 
 <a href="https://www.flickr.com/photos/recordandremember/8371504243/" title="IMG_3961 by Shannon Dosemagen, on Flickr"><img src="https://farm9.staticflickr.com/8497/8371504243_94a14c162a.jpg" width="375" height="500" alt="IMG_3961"></a>
 

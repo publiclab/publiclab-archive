@@ -1,12 +1,18 @@
 ---
-nid: 2862
 title: Fluorescence from oil spill residue & diverse spectrometer use
-path: public/static/notes/warren/7-18-2012/fluorescence-oil-spill-residue-diverse-spectrometer-use.md
+tagnames: spectrometer, uv, fluorescence
+author: warren
+path: /notes/warren/7-18-2012/fluorescence-oil-spill-residue-diverse-spectrometer-use.md
+nid: 2862
 uid: 1
-tagnames: spectrometer,uv,fluorescence
+
 ---
 
 # Fluorescence from oil spill residue & diverse spectrometer use
+
+by [warren](../profile/warren) July 18, 2012 12:45
+
+July 18, 2012 12:45 | Tags: [spectrometer](../tag/spectrometer), [uv](../tag/uv), [fluorescence](../tag/fluorescence)
 
 My long-term goal of using the [PLOTS video spectrometer](/tool/spectrometer) to identify oil contamination is looking closer than ever recently due to recent [tests with a green laser](http://publiclaboratory.org/notes/warren/6-6-2012/testing-oil-fluorescence-green-laser). The above photo shows actual oil residue, dissolved in mineral oil (on the left) fluorescing strongly when shot with a green laser! The right-hand bottle is of mineral oil alone. I haven't yet been able to get a strong reading of this on a spectrometer but will be trying as hard as I can to do so in coming days.
 

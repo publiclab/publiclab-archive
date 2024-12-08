@@ -1,12 +1,18 @@
 ---
-nid: 13835
 title: NPDES
-path: public/static/wiki/npdes.md
+tagnames: water-quality, water, regulations, stormwater, wastewater, npdes, clean-water-act, parent:water-quality, law, wastewater-advocacy
+author: gretchengehrke
+path: /wiki/npdes.md
+nid: 13835
 uid: 430549
-tagnames: water-quality,water,regulations,stormwater,wastewater,npdes,clean-water-act,parent:water-quality,law,wastewater-advocacy
+
 ---
 
 # NPDES
+
+by [warren](../profile/warren), [gretchengehrke](../profile/gretchengehrke)
+
+January 03, 2017 22:41 | Tags: [water-quality](../tag/water-quality), [water](../tag/water), [regulations](../tag/regulations), [stormwater](../tag/stormwater), [wastewater](../tag/wastewater), [npdes](../tag/npdes), [clean-water-act](../tag/clean-water-act), [parent:water-quality](../tag/parent:water-quality), [law](../tag/law), [wastewater-advocacy](../tag/wastewater-advocacy)
 
 The National Pollutant Discharge Elimination System ([NPDES](https://www.epa.gov/npdes)) is part of the US Clean Water Act.
 

@@ -1,12 +1,18 @@
 ---
-nid: 14826
 title: Top Down Technologies for Bottom Up Community Action
-path: public/static/notes/bacigalupe/09-04-2017/top-down-technologies-for-bottom-up-community-action.md
+tagnames: drones, aerial-photography, chile, south-america, disaster, reduction, risk
+author: bacigalupe
+path: /notes/bacigalupe/09-04-2017/top-down-technologies-for-bottom-up-community-action.md
+nid: 14826
 uid: 513744
-tagnames: drones,aerial-photography,chile,south-america,disaster,reduction,risk
+
 ---
 
 # Top Down Technologies for Bottom Up Community Action
+
+by [bacigalupe](../profile/bacigalupe) September 04, 2017 19:15
+
+September 04, 2017 19:15 | Tags: [drones](../tag/drones), [aerial-photography](../tag/aerial-photography), [chile](../tag/chile), [south-america](../tag/south-america), [disaster](../tag/disaster), [reduction](../tag/reduction), [risk](../tag/risk)
 
 [Ramaditas Brief Video](https://www.youtube.com/watch?v=-nnaOUXQpek)
 

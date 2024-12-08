@@ -1,12 +1,18 @@
 ---
-nid: 541
 title: Ethnographic terminalia exhibition
-path: public/static/wiki/ethnographic-terminalia-exhibition.md
-uid: 1
 tagnames: 
+author: warren
+path: /wiki/ethnographic-terminalia-exhibition.md
+nid: 541
+uid: 1
+
 ---
 
 # Ethnographic terminalia exhibition
+
+by [warren](../profile/warren)
+
+November 03, 2011 21:35 | Tags: 
 
 * Installation will take place on 12 and 13 November 2011
 

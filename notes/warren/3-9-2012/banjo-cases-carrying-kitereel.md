@@ -1,12 +1,18 @@
 ---
-nid: 912
 title: Banjo cases for carrying kite/reel
-path: public/static/notes/warren/3-9-2012/banjo-cases-carrying-kitereel.md
-uid: 1
 tagnames: kite-mapping
+author: warren
+path: /notes/warren/3-9-2012/banjo-cases-carrying-kitereel.md
+nid: 912
+uid: 1
+
 ---
 
 # Banjo cases for carrying kite/reel
+
+by [warren](../profile/warren) March 09, 2012 17:53
+
+March 09, 2012 17:53 | Tags: [kite-mapping](../tag/kite-mapping)
 
 I had a funny thought today; I have a lot of trouble carrying big kites around (though Pat Coyle's ferrule-equipped kit allows breaking down big kites into shorter packages)
 

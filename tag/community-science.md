@@ -1,6 +1,6 @@
 # community-science
 
-17 notes and wiki pages
+17 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Where can I find models for community-university data co-ownership?](/notes/nshapiro/09-27-2017/where-can-i-find-models-for-community-university-data-co-ownership) by [nshapiro](../profile/nshapiro)
 - [In addition to testing for pH, what other water quality testing have you utilized, such as turbidity, conductivity, dissolved oxygen (DO), etc.? Can you share your experience with these?](/notes/gilbert/12-05-2017/in-addition-to-testing-for-ph-what-other-water-quality-testing-have-you-utilized-such-as-turbidity-conductivity-dissolved-oxygen-do-etc-can-you-share-your-experience-with-these) by [gilbert](../profile/gilbert)
@@ -17,5 +17,4 @@
 - [Student Views: Explaining Science with Babylegs, A Photo Essay](/notes/mimiss/04-20-2021/student-views-explaining-science-with-babylegs-a-photo-essay) by [mimiss](../profile/mimiss)
 - [What experiences do you know of participatory design of community science apps? ](/notes/aliciapaz/06-14-2021/what-experiences-do-you-know-of-participatory-design-of-community-science-apps) by [aliciapaz](../profile/aliciapaz)
 - [What Public lab has taught me so far working as a Fellow.](/notes/denissebn_06/07-07-2021/what-public-lab-has-taught-me-in-three-months-of-working-as-fellow) by [denissebn_06](../profile/denissebn_06)
-- [Cheap Web Hosting](/notes/susanbrad165/08-12-2021/cheap-web-hosting) by [susanbrad165](../profile/susanbrad165)
 - [Event: Messages from the Mississippi Student Art Exhibition](/notes/a1ahna/05-27-2022/event-messages-from-the-mississippi-student-art-exhibition) by [a1ahna](../profile/a1ahna)

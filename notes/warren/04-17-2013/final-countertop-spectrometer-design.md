@@ -1,12 +1,18 @@
 ---
-nid: 6878
 title: Final Countertop Spectrometer Design
-path: public/static/notes/warren/04-17-2013/final-countertop-spectrometer-design.md
+tagnames: spectrometer, countertop-spectrometer
+author: warren
+path: /notes/warren/04-17-2013/final-countertop-spectrometer-design.md
+nid: 6878
 uid: 1
-tagnames: spectrometer,countertop-spectrometer
+
 ---
 
 # Final Countertop Spectrometer Design
+
+by [warren](../profile/warren) April 17, 2013 18:29
+
+April 17, 2013 18:29 | Tags: [spectrometer](../tag/spectrometer), [countertop-spectrometer](../tag/countertop-spectrometer)
 
 Just wanted to upload build photos of the final built-up countertop design , with the built in light, dimmer, and stage. Its all made of off the shelf parts and can be hand assembled, with the only laser cut part being the acrylic stage (besides what already comes in the Desktop Spectrometry Kit.
 

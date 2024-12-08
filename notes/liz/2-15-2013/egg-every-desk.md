@@ -1,11 +1,17 @@
 ---
-nid: 6000
 title: An egg on every desk
-path: public/static/notes/liz/2-15-2013/egg-every-desk.md
+tagnames: new-york-city, cypress-hills, chaq
+author: liz
+path: /notes/liz/2-15-2013/egg-every-desk.md
+nid: 6000
 uid: 7
-tagnames: new-york-city,cypress-hills,chaq
+
 ---
 
 # An egg on every desk
+
+by [liz](../profile/liz) February 15, 2013 17:02
+
+February 15, 2013 17:02 | Tags: [new-york-city](../tag/new-york-city), [cypress-hills](../tag/cypress-hills), [chaq](../tag/chaq)
 
 with <a href="/people/jmsaavedra">Joe Saavedra</a>

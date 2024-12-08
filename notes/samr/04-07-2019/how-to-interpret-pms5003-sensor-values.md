@@ -1,12 +1,18 @@
 ---
-nid: 18997
 title: How to interpret PMS5003 sensor values?
-path: public/static/notes/samr/04-07-2019/how-to-interpret-pms5003-sensor-values.md
+tagnames: air-quality, question:air-quality, purpleair, question:purpleair, first-time-poster
+author: samr
+path: /notes/samr/04-07-2019/how-to-interpret-pms5003-sensor-values.md
+nid: 18997
 uid: 581810
-tagnames: air-quality,question:air-quality,purpleair,question:purpleair,first-time-poster
+
 ---
 
 # How to interpret PMS5003 sensor values?
+
+by [samr](../profile/samr) April 07, 2019 21:48
+
+April 07, 2019 21:48 | Tags: [air-quality](../tag/air-quality), [question:air-quality](../tag/question:air-quality), [purpleair](../tag/purpleair), [question:purpleair](../tag/question:purpleair), [first-time-poster](../tag/first-time-poster)
 
 hi. we are trying to use the pms5003 sensor for a school project to take air quality measurements. We don't have much experience with air quality measurements/standards. Can you explain in simple terms what the 12 data values are that this sensor reports back ?
 

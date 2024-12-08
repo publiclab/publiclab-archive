@@ -1,12 +1,18 @@
 ---
-nid: 19514
 title: Make: Magazine
-path: public/static/wiki/make.md
+tagnames: media, event, style:fancy, make-magazine
+author: Bronwen
+path: /wiki/make.md
+nid: 19514
 uid: 237313
-tagnames: media,event,style:fancy,make-magazine
+
 ---
 
 # Make: Magazine
+
+by [joyofsoy](../profile/joyofsoy), [liz](../profile/liz), [Bronwen](../profile/Bronwen), [warren](../profile/warren)
+
+May 24, 2019 15:28 | Tags: [media](../tag/media), [event](../tag/event), [style:fancy](../tag/style:fancy), [make-magazine](../tag/make-magazine)
 
 **Our collaboration with [Make Magazine](https://makezine.com/) hit newsstands in October 2019! Get your copy [here](https://www.makershed.com/products/make-magazine-volume-70-pdf).**
 

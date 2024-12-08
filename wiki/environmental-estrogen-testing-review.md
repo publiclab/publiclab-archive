@@ -1,12 +1,18 @@
 ---
-nid: 702
 title: environmental estrogen testing review
-path: public/static/wiki/environmental-estrogen-testing-review.md
-uid: 12
 tagnames: 
+author: gonzoearth
+path: /wiki/environmental-estrogen-testing-review.md
+nid: 702
+uid: 12
+
 ---
 
 # environmental estrogen testing review
+
+by [gonzoearth](../profile/gonzoearth)
+
+January 19, 2012 00:43 | Tags: 
 
 Questions for Env. Estrogen Screen / Home Testing for Endocrine Disruptors
 

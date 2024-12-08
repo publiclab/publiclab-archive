@@ -1,12 +1,18 @@
 ---
-nid: 13578
 title: A month in the field and nothing to show
-path: public/static/notes/bkleist/10-19-2016/a-month-in-the-field-and-nothing-to-show.md
+tagnames: sand, photo-monitoring, wisconsin, timelapse, camera, mining, silica, frac-sand, mobius, mid-west, parent:frac-sand
+author: bkleist
+path: /notes/bkleist/10-19-2016/a-month-in-the-field-and-nothing-to-show.md
+nid: 13578
 uid: 489504
-tagnames: sand,photo-monitoring,wisconsin,timelapse,camera,mining,silica,frac-sand,mobius,mid-west,parent:frac-sand
+
 ---
 
 # A month in the field and nothing to show
+
+by [bkleist](../profile/bkleist) October 19, 2016 03:09
+
+October 19, 2016 03:09 | Tags: [sand](../tag/sand), [photo-monitoring](../tag/photo-monitoring), [wisconsin](../tag/wisconsin), [timelapse](../tag/timelapse), [camera](../tag/camera), [mining](../tag/mining), [silica](../tag/silica), [frac-sand](../tag/frac-sand), [mobius](../tag/mobius), [mid-west](../tag/mid-west), [parent:frac-sand](../tag/parent:frac-sand)
 
 I am sorry for such a delay in posts, I recently got a sustainability internship and have been working a lot of hours there. Additionally, we deployed the Mobius Actioncam for a month and a half duration in a small town in Wisconsin, and just recently retrieved it. 
 

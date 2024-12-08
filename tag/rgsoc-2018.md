@@ -1,10 +1,9 @@
 # rgsoc-2018
 
-22 notes and wiki pages
+22 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Call for Summer of Code 2018 proposals!](/notes/warren/02-15-2018/call-for-summer-of-code-2018-proposals) by [warren](../profile/warren)
 - [RGSoC: v2 API development](/notes/milaaraujo/02-23-2018/rgsoc-v2-api-development) by [milaaraujo](../profile/milaaraujo)
-- [SoC proposal: Pollution analysis on map ](/notes/sid2111995/02-25-2018/soc-proposal-pollution-analysis-on-map) by [sid2111995](../profile/sid2111995)
 - [RGSoC proposal: Upgrade to Rails 5 ](/notes/cess/02-27-2018/rgsoc-proposal-upgrade-to-rails-5-email-integration) by [cess](../profile/cess)
 - [RGSoC proposal: Upgrade to Rails 5](/notes/meghana-07/02-27-2018/rgsoc-proposal-upgrade-to-rails-5) by [meghana-07](../profile/meghana-07)
 - [rgsoc-2018](/wiki/rgsoc-2018) (wiki)
@@ -12,7 +11,6 @@
 - [RGSoC proposal: Rich Editor Extras](/notes/soniya2903/03-01-2018/rgsoc-proposal-rich-editor-extras) by [soniya2903](../profile/soniya2903)
 - [SoC proposal:RGSOC PROPOSAL: Upgrade to Rails 5.1.5 ](/notes/stella/03-14-2018/soc-proposal-rgsoc-proposal-upgrade-to-rails-5-1-5) by [stella](../profile/stella)
 - [RGSoC proposal: Entrepreneurial Network And Enhanced UX](/notes/SrishtyMittal/03-14-2018/rgsoc-proposal-entrepreneurial-network-and-enhanced-ux) by [SrishtyMittal](../profile/SrishtyMittal)
-- [Data Science Training In Pune](/notes/DataScience/03-19-2018/data-science-training-in-pune) by [DataScience](../profile/DataScience)
 - [Congratulations on a great 2018 Summer of Code!](/notes/warren/08-21-2018/congratulations-on-a-great-2018-summer-of-code) by [warren](../profile/warren)
 - [Outreachy proposal:  Extend community collaboration statistics and visualization system](/notes/cess/10-24-2018/outreachy-proposal) by [cess](../profile/cess)
 - [Outreachy proposal](/notes/quinn-codes-synthesis/10-29-2018/outreachy-proposal) by [quinn-codes-synthesis](../profile/quinn-codes-synthesis)

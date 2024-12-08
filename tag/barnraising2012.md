@@ -1,6 +1,6 @@
 # barnraising2012
 
-11 notes and wiki pages
+11 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Barnraising: Stewart talks map making](/notes/mathew/11-3-2012/barnraising-stewart-talks-map-making) by [mathew](../profile/mathew)
 - [Key elements of using the crate rig](/notes/patcoyle/11-11-2012/key-elements-using-crate-rigideo-key-elements-using-crate-rig) by [patcoyle](../profile/patcoyle)

@@ -1,12 +1,18 @@
 ---
-nid: 792
 title: Selecting Kite Flight Launch Sites in Centerville
-path: public/static/notes/olivia/2-16-2012/finding-kite-flight-launch-sites-centerville.md
+tagnames: balloon-mapping, kite-mapping, diy-kite, pre-flight-planning, flying, activity:aerial-photography, activity:kite-mapping, activity:balloon-mapping, activity:site-survey, mountain-west, montana, location:blurred, first-time-poster, lat:47, lon:-111, place:centerville-montana, where-to-map
+author: Olivia
+path: /notes/olivia/2-16-2012/finding-kite-flight-launch-sites-centerville.md
+nid: 792
 uid: 269
-tagnames: balloon-mapping,kite-mapping,diy-kite,pre-flight-planning,flying,activity:aerial-photography,activity:kite-mapping,activity:balloon-mapping,activity:site-survey,mountain-west,montana,location:blurred,first-time-poster,lat:47,lon:-111,place:centerville-montana,where-to-map
+
 ---
 
 # Selecting Kite Flight Launch Sites in Centerville
+
+by [Olivia](../profile/Olivia) February 16, 2012 07:03
+
+February 16, 2012 07:03 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [diy-kite](../tag/diy-kite), [pre-flight-planning](../tag/pre-flight-planning), [flying](../tag/flying), [activity:aerial-photography](../tag/activity:aerial-photography), [activity:kite-mapping](../tag/activity:kite-mapping), [activity:balloon-mapping](../tag/activity:balloon-mapping), [activity:site-survey](../tag/activity:site-survey), [mountain-west](../tag/mountain-west), [montana](../tag/montana), [location:blurred](../tag/location:blurred), [first-time-poster](../tag/first-time-poster), [lat:47](../tag/lat:47), [lon:-111](../tag/lon:-111), [place:centerville-montana](../tag/place:centerville-montana), [where-to-map](../tag/where-to-map)
 
 Before we began working with Mathew Lippincott’s Tyvek kite designs in Butte, we had already been working with the Centerville Neighborhood as our focus site.  Between a 5 million dollar EPA reclamation project and what will become a 2.14 million affordable housing investment—a once neglected (and nearly forgotten) Centerville is now on the verge of major social and physical change. 
 We knew that we wanted to collect regular geographic data to support our ongoing efforts to document the neighborhood in its revitalization process. Using Mathew’s tools meant that this goal was possible and by creating high-resolution images we looked forward to observing some of the more subtle changes—such as the growth patterns of new vegetation on Centerville’s reclaimed mining sites. 

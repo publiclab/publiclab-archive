@@ -1,6 +1,6 @@
 # gsoc-2021-proposals
 
-16 notes and wiki pages
+16 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [GSOC 2021 Proposal.](/notes/vikky30singh/03-24-2021/gsoc-2021-proposal) by [vikky30singh](../profile/vikky30singh)
 - [GSoC 2021 Proposal: Geographic Features Refinement](/notes/barun1024/03-24-2021/gsoc-2021-proposal-geographic-features-refinement) by [barun1024](../profile/barun1024)

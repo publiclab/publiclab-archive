@@ -1,12 +1,18 @@
 ---
-nid: 38734
 title: Household Recycling in New Orleans
-path: public/static/notes/bhamster/03-02-2023/household-recycling-in-new-orleans.md
+tagnames: recycling, student-community-science, classroom-community-science
+author: bhamster
+path: /notes/bhamster/03-02-2023/household-recycling-in-new-orleans.md
+nid: 38734
 uid: 664477
-tagnames: recycling,student-community-science,classroom-community-science
+
 ---
 
 # Household Recycling in New Orleans
+
+by [bhamster](../profile/bhamster) March 02, 2023 21:57
+
+March 02, 2023 21:57 | Tags: [recycling](../tag/recycling), [student-community-science](../tag/student-community-science), [classroom-community-science](../tag/classroom-community-science)
 
 **A version of this story by high school student Owen is published in Public Lab's _Community Science Forum_, Issue 18. Read more from this issue <a href="https://publiclab.org/forum#Issue+18+Student-Led+Community+Science+Projects+(Summer+2021)">here</a>.**
 

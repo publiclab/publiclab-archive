@@ -1,12 +1,18 @@
 ---
-nid: 10434
 title: VIDEO: hunting for groundwater springs
-path: public/static/notes/liz/05-06-2014/video-hunting-for-groundwater-springs.md
+tagnames: new-york-city, gowanus, proteus-gowanus, spring
+author: liz
+path: /notes/liz/05-06-2014/video-hunting-for-groundwater-springs.md
+nid: 10434
 uid: 7
-tagnames: new-york-city,gowanus,proteus-gowanus,spring
+
 ---
 
 # VIDEO: hunting for groundwater springs
+
+by [liz](../profile/liz) May 06, 2014 21:12
+
+May 06, 2014 21:12 | Tags: [new-york-city](../tag/new-york-city), [gowanus](../tag/gowanus), [proteus-gowanus](../tag/proteus-gowanus), [spring](../tag/spring)
 
 **This note is posted in behalf of [Eymund](/profile/eymund), and is reposted from the [Flickr Stream of Proteus Gowanus](https://www.flickr.com/photos/51802375@N04/13545808113/).**
 

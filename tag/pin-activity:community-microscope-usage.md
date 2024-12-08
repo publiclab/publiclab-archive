@@ -1,6 +1,6 @@
 # pin-activity:community-microscope-usage
 
-3 notes and wiki pages
+3 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Testing and Calibrating Your Microscope](/notes/partsandcrafts/02-26-2018/5-testing-and-calibrating-your-microscope) by [partsandcrafts](../profile/partsandcrafts)
 - [Looking at Dust (and other things)](/notes/partsandcrafts/02-26-2018/6-looking-at-dust-and-other-things) by [partsandcrafts](../profile/partsandcrafts)

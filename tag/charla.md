@@ -1,6 +1,6 @@
 # charla
 
-3 notes and wiki pages
+3 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [JAM#3: Hacking Ecology ](/notes/imvec/04-29-2020/jam-3-hacking-ecology) by [imvec](../profile/imvec)
 - [JAM#4: Instituto de Tecnología SociAmbiental](/notes/imvec/04-29-2020/jam-4-instituto-de-tecnologia-sociambiental) by [imvec](../profile/imvec)

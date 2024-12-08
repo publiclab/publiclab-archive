@@ -1,12 +1,18 @@
 ---
-nid: 706
 title: Wine spectroscopy with Adam Hasler
-path: public/static/notes/warren/1-19-2012/wine-spectroscopy-adam-hasler.md
+tagnames: spectrometer, wine, absorption-spectrometry
+author: warren
+path: /notes/warren/1-19-2012/wine-spectroscopy-adam-hasler.md
+nid: 706
 uid: 1
-tagnames: spectrometer,wine,absorption-spectrometry
+
 ---
 
 # Wine spectroscopy with Adam Hasler
+
+by [warren](../profile/warren) January 19, 2012 15:47
+
+January 19, 2012 15:47 | Tags: [spectrometer](../tag/spectrometer), [wine](../tag/wine), [absorption-spectrometry](../tag/absorption-spectrometry)
 
 Adam brought a number of wines which we measured in one of our [DIY spectrometers](/tool/spectrometer), and tasted, too. He described the background of each wine and its place of origin, and we spent some time discussing how to improve readings and sample prep for this early stage prototype instrument.
 

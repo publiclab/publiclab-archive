@@ -1,12 +1,18 @@
 ---
-nid: 14761
 title: Homemade Raman spectrometer
-path: public/static/notes/homechemist/08-16-2017/homemade-raman-spectrometer.md
+tagnames: spectrometer, raman, spectroscopy, homemade
+author: homechemist
+path: /notes/homechemist/08-16-2017/homemade-raman-spectrometer.md
+nid: 14761
 uid: 212574
-tagnames: spectrometer,raman,spectroscopy,homemade
+
 ---
 
 # Homemade Raman spectrometer
+
+by [homechemist](../profile/homechemist) August 16, 2017 20:32
+
+August 16, 2017 20:32 | Tags: [spectrometer](../tag/spectrometer), [raman](../tag/raman), [spectroscopy](../tag/spectroscopy), [homemade](../tag/homemade)
 
 Raman spectroscopy is a very powerful analytical technique that can be used for the **identification of almost any sample** .Unfortunately , commercial raman spectrometers are quite expensive so i have decided to make a "**cheap**" and **fully functional** **raman spectrometer**
 

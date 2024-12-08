@@ -1,6 +1,6 @@
 # agricultural
 
-5 notes and wiki pages
+5 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Infragram](/wiki/infragram) (wiki)
 - [Madeira](/wiki/madeira) (wiki)

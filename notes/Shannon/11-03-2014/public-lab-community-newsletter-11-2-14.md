@@ -1,12 +1,18 @@
 ---
-nid: 11316
 title: Public Lab community newsletter 11.2.14
-path: public/static/notes/Shannon/11-03-2014/public-lab-community-newsletter-11-2-14.md
+tagnames: newsletter, newsletter-archive
+author: Shannon
+path: /notes/Shannon/11-03-2014/public-lab-community-newsletter-11-2-14.md
+nid: 11316
 uid: 9
-tagnames: newsletter,newsletter-archive
+
 ---
 
 # Public Lab community newsletter 11.2.14
+
+by [Shannon](../profile/Shannon) November 03, 2014 02:28
+
+November 03, 2014 02:28 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
 
 This week in the Public Lab community newsletter get your applications in for our current job openings, prepare for the annual Barnraising and check out posts on smart sensor boards for air quality monitoring and a conversation on certifying open sensors. Enjoy!
 

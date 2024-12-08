@@ -1,12 +1,18 @@
 ---
-nid: 1758
 title: Dual Camera Kit Guide
-path: public/static/wiki/dual-camera-kit-guide.md
+tagnames: near-infrared-camera, infrared, dual-camera, photo-rig
+author: warren
+path: /wiki/dual-camera-kit-guide.md
+nid: 1758
 uid: 1
-tagnames: near-infrared-camera,infrared,dual-camera,photo-rig
+
 ---
 
 # Dual Camera Kit Guide
+
+by [cfastie](../profile/cfastie), [mathew](../profile/mathew), [warren](../profile/warren)
+
+April 23, 2012 18:14 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [infrared](../tag/infrared), [dual-camera](../tag/dual-camera), [photo-rig](../tag/photo-rig)
 
 <a href="https://www.flickr.com/photos/jeffreywarren/7110924837/" title="Dual camera kit by jeferonix, on Flickr"><img src="https://farm8.staticflickr.com/7057/7110924837_557b834762.jpg" width="500" height="375" alt="Dual camera kit"></a>
 

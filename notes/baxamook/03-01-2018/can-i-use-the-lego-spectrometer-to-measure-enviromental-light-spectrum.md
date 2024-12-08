@@ -1,12 +1,18 @@
 ---
-nid: 15842
 title: Can I use the lego spectrometer to measure enviromental light spectrum?
-path: public/static/notes/baxamook/03-01-2018/can-i-use-the-lego-spectrometer-to-measure-enviromental-light-spectrum.md
+tagnames: question:lego-spectrometer, lego-spectrometer, response:15135
+author: baxamook
+path: /notes/baxamook/03-01-2018/can-i-use-the-lego-spectrometer-to-measure-enviromental-light-spectrum.md
+nid: 15842
 uid: 526403
-tagnames: question:lego-spectrometer,lego-spectrometer,response:15135
+
 ---
 
 # Can I use the lego spectrometer to measure enviromental light spectrum?
+
+by [baxamook](../profile/baxamook) March 01, 2018 04:36
+
+March 01, 2018 04:36 | Tags: [question:lego-spectrometer](../tag/question:lego-spectrometer), [lego-spectrometer](../tag/lego-spectrometer), [response:15135](../tag/response:15135)
 
 I want to know the spectrum of the public lighting used in certain area. They are supposed to use high pressure sodium lamps, but the only way to be sure is to analize the spectrum of such bulbs. Does the lego spectrometer could be used to obtain the spectrum profile? if so, at what distance do you think that I could get usable readigns with this spectrometer given that I'm not able to get closer readings (i.e. If the lights are hanging at 10 m above surface level).
 

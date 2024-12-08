@@ -1,12 +1,18 @@
 ---
-nid: 6115
 title: Passenger Pigeon shots of MSY to PHX
-path: public/static/notes/eustatic/2-24-2013/passenger-pigeon-shots-msy-phx.md
+tagnames: gulf-coast, passenger-pigeon
+author: eustatic
+path: /2-24-2013/passenger-pigeon-shots-msy-phx.md
+nid: 6115
 uid: 379
-tagnames: gulf-coast,passenger-pigeon
+
 ---
 
 # Passenger Pigeon shots of MSY to PHX
+
+by [eustatic](../profile/eustatic) February 25, 2013 02:22
+
+February 25, 2013 02:22 | Tags: [gulf-coast](../tag/gulf-coast), [passenger-pigeon](../tag/passenger-pigeon)
 
 MSY to PHX 
 

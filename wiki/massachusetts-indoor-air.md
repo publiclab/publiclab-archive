@@ -1,12 +1,18 @@
 ---
-nid: 13564
 title: Massachusetts Indoor Air 
-path: public/static/wiki/massachusetts-indoor-air.md
+tagnames: massachusetts, indoor-air-quality, indoor-air, indoor-air-info-sheet
+author: gretchengehrke
+path: /wiki/massachusetts-indoor-air.md
+nid: 13564
 uid: 430549
-tagnames: massachusetts,indoor-air-quality,indoor-air,indoor-air-info-sheet
+
 ---
 
 # Massachusetts Indoor Air 
+
+by [gretchengehrke](../profile/gretchengehrke)
+
+October 14, 2016 20:56 | Tags: [massachusetts](../tag/massachusetts), [indoor-air-quality](../tag/indoor-air-quality), [indoor-air](../tag/indoor-air), [indoor-air-info-sheet](../tag/indoor-air-info-sheet)
 
 How do residents of Massachusetts seek information about indoor air quality and address potential concerns with air quality in their residence or in public buildings? A brief introduction to information and services that are available through Massachusetts state and local agencies regarding indoor air quality is included in this wiki. 
 

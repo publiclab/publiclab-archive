@@ -1,12 +1,18 @@
 ---
-nid: 12685
 title: Hypersperctral imaging using DIY kits
-path: public/static/notes/amirberAgain/02-13-2016/hypersperctral-imaging-using-diy-kits.md
+tagnames: spectrometer, hyperspectral, first-time-poster
+author: amirberAgain
+path: /notes/amirberAgain/02-13-2016/hypersperctral-imaging-using-diy-kits.md
+nid: 12685
 uid: 420776
-tagnames: spectrometer,hyperspectral,first-time-poster
+
 ---
 
 # Hypersperctral imaging using DIY kits
+
+by [amirberAgain](../profile/amirberAgain) February 13, 2016 21:52
+
+February 13, 2016 21:52 | Tags: [spectrometer](../tag/spectrometer), [hyperspectral](../tag/hyperspectral), [first-time-poster](../tag/first-time-poster)
 
 A couple of years ago a friend showed me how a hyper spectral camera works. I cam to the realization such an instroment can be built very easily. I have noticed that when using the Public lab's mobile spectrometer it is possible to see variations in lighting when rotating the spectromter jig. I wish to share this project with others.
 

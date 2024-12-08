@@ -1,12 +1,18 @@
 ---
-nid: 892
 title: March Mapping Madness-San Francisco
-path: public/static/wiki/march-mapping-madness-san-francisco.md
-uid: 8
 tagnames: 
+author: sara
+path: /wiki/march-mapping-madness-san-francisco.md
+nid: 892
+uid: 8
+
 ---
 
 # March Mapping Madness-San Francisco
+
+by [sara](../profile/sara)
+
+March 06, 2012 01:20 | Tags: 
 
 Planning page for San Francisco March Mapping Event
 

@@ -1,12 +1,18 @@
 ---
-nid: 20417
 title: sandbox-community-microscope-kit-revamp
-path: public/static/wiki/sandbox-community-microscope-kit-revamp.md
-uid: 579821
 tagnames: community-microscope
+author: mimiss
+path: /wiki/sandbox-community-microscope-kit-revamp.md
+nid: 20417
+uid: 579821
+
 ---
 
 # sandbox-community-microscope-kit-revamp
+
+by [mimiss](../profile/mimiss), [warren](../profile/warren)
+
+August 05, 2019 18:11 | Tags: [community-microscope](../tag/community-microscope)
 
 Using simple materials, we’ve developed a microscope kit you can build yourself - the result of many teams’ work coming together! 
 

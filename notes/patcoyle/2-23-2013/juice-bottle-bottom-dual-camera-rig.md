@@ -1,12 +1,18 @@
 ---
-nid: 6108
 title: prototype juice bottle bottom dual camera rig
-path: public/static/notes/patcoyle/2-23-2013/juice-bottle-bottom-dual-camera-rig.md
-uid: 77
 tagnames: 
+author: patcoyle
+path: /notes/patcoyle/2-23-2013/juice-bottle-bottom-dual-camera-rig.md
+nid: 6108
+uid: 77
+
 ---
 
 # prototype juice bottle bottom dual camera rig
+
+by [patcoyle](../profile/patcoyle) February 24, 2013 03:05
+
+February 24, 2013 03:05 | Tags: 
 
 Updated with images and video of A1200s being triggered with Digispark CHDK.
 

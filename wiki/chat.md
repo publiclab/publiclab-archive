@@ -1,12 +1,18 @@
 ---
-nid: 405
 title: Chat
-path: public/static/wiki/chat.md
+tagnames: community, chat, chatroom, style:wide, publiclab, locked, lat:22, lon:76, website-utilities
+author: warren
+path: /wiki/chat.md
+nid: 405
 uid: 1
-tagnames: community,chat,chatroom,style:wide,publiclab,locked,lat:22,lon:76,website-utilities
+
 ---
 
 # Chat
+
+by [warren](../profile/warren), [liz](../profile/liz), [letshome](../profile/letshome), [Shish](../profile/Shish), [stevie](../profile/stevie), [gonzoearth](../profile/gonzoearth)
+
+July 22, 2011 15:13 | Tags: [community](../tag/community), [chat](../tag/chat), [chatroom](../tag/chatroom), [style:wide](../tag/style:wide), [publiclab](../tag/publiclab), [locked](../tag/locked), [lat:22](../tag/lat:22), [lon:76](../tag/lon:76), [website-utilities](../tag/website-utilities)
 
 We have several ways to participate in the Public Lab chatroom; the easiest is listed first. For other methods, scroll down!
 

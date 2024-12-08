@@ -1,12 +1,18 @@
 ---
-nid: 13219
 title: Interview with Pat Popple
-path: public/static/notes/mlamadrid/06-21-2016/interview-with-pat-popple.md
+tagnames: wisconsin, blog, frac-sand, with:stevie, parent:frac-sand, communityscienceforum, with:pat
+author: mlamadrid
+path: /notes/mlamadrid/06-21-2016/interview-with-pat-popple.md
+nid: 13219
 uid: 45586
-tagnames: wisconsin,blog,frac-sand,with:stevie,parent:frac-sand,communityscienceforum,with:pat
+
 ---
 
 # Interview with Pat Popple
+
+by [mlamadrid](../profile/mlamadrid) June 21, 2016 20:39
+
+June 21, 2016 20:39 | Tags: [wisconsin](../tag/wisconsin), [blog](../tag/blog), [frac-sand](../tag/frac-sand), [with:stevie](../tag/with:stevie), [parent:frac-sand](../tag/parent:frac-sand), [communityscienceforum](../tag/communityscienceforum), [with:pat](../tag/with:pat)
 
 Interview by [Stevie Lewis](https://publiclab.org/profile/stevie) for [Community Science Forum: Sand-Frac Issue](https://publiclab.org/forum).
 

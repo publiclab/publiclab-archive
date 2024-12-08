@@ -1,12 +1,18 @@
 ---
-nid: 13512
 title: Homemade spectrometer
-path: public/static/notes/david_uwi/09-30-2016/homemade-spectrometer.md
+tagnames: spectrometer, spectrometry, homemade-spectrometer, first-time-poster
+author: david_uwi
+path: /notes/david_uwi/09-30-2016/homemade-spectrometer.md
+nid: 13512
 uid: 469053
-tagnames: spectrometer,spectrometry,homemade-spectrometer,first-time-poster
+
 ---
 
 # Homemade spectrometer
+
+by [david_uwi](../profile/david_uwi) September 30, 2016 12:35
+
+September 30, 2016 12:35 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [homemade-spectrometer](../tag/homemade-spectrometer), [first-time-poster](../tag/first-time-poster)
 
 380-930 nm resolution about 4 nm. Cost < 50GBP
 Fully self contained (battery powered). With color display (240x320) and SD card slot.

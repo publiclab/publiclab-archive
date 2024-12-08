@@ -1,12 +1,18 @@
 ---
-nid: 10691
 title: Spectrometer History
-path: public/static/wiki/spectrometer-history.md
+tagnames: spectrometer, parent:spectrometry
+author: mathew
+path: /wiki/spectrometer-history.md
+nid: 10691
 uid: 4
-tagnames: spectrometer,parent:spectrometry
+
 ---
 
 # Spectrometer History
+
+by [mathew](../profile/mathew)
+
+July 15, 2014 00:24 | Tags: [spectrometer](../tag/spectrometer), [parent:spectrometry](../tag/parent:spectrometry)
 
 Here is a history of public lab spectrometer research ideas up to the present.  There is really no analysis here, just a catalog. 
 

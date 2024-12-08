@@ -1,12 +1,18 @@
 ---
-nid: 10519
 title: Update 1 on Sky Cam Enhancement - GSoC 2014
-path: public/static/notes/mercyorangi/05-30-2014/update-1-on-sky-cam-enhancement-gsoc-2014.md
+tagnames: plots, gsoc, skycam, gsoc-2014
+author: mercyorangi
+path: /notes/mercyorangi/05-30-2014/update-1-on-sky-cam-enhancement-gsoc-2014.md
+nid: 10519
 uid: 421649
-tagnames: plots,gsoc,skycam,gsoc-2014
+
 ---
 
 # Update 1 on Sky Cam Enhancement - GSoC 2014
+
+by [mercyorangi](../profile/mercyorangi) May 30, 2014 20:35
+
+May 30, 2014 20:35 | Tags: [plots](../tag/plots), [gsoc](../tag/gsoc), [skycam](../tag/skycam), [gsoc-2014](../tag/gsoc-2014)
 
 ###My attempt and results
 This is my week one update. Been a good start and I am appreciating the learning curve already.

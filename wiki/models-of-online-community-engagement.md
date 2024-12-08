@@ -1,12 +1,18 @@
 ---
-nid: 10487
 title: Models of Online Community Engagement 
-path: public/static/wiki/models-of-online-community-engagement.md
-uid: 422561
 tagnames: community
+author: stevie
+path: /wiki/models-of-online-community-engagement.md
+nid: 10487
+uid: 422561
+
 ---
 
 # Models of Online Community Engagement 
+
+by [stevie](../profile/stevie)
+
+May 20, 2014 15:43 | Tags: [community](../tag/community)
 
 One of the things I have found myself thinking about as new Outreach Manager with Public Lab, is how people engage with the Public Lab community. Be it an avid research note poster, an awesome community and events coordinator (cough Cough **[Jen Hudon](http://publiclab.org/profile/hudonnoodles) ), or a first time visitor to publiclab.org, we all identify our own roles and niches in Public Lab. 
 

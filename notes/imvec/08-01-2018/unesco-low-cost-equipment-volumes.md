@@ -1,12 +1,18 @@
 ---
-nid: 16821
 title: UNESCO low cost equipment volumes
-path: public/static/notes/imvec/08-01-2018/unesco-low-cost-equipment-volumes.md
+tagnames: documentation, laboratory, equipment
+author: imvec
+path: /notes/imvec/08-01-2018/unesco-low-cost-equipment-volumes.md
+nid: 16821
 uid: 495038
-tagnames: documentation,laboratory,equipment
+
 ---
 
 # UNESCO low cost equipment volumes
+
+by [imvec](../profile/imvec) August 01, 2018 15:45
+
+August 01, 2018 15:45 | Tags: [documentation](../tag/documentation), [laboratory](../tag/laboratory), [equipment](../tag/equipment)
 
 ### UNESCO low cost equipment for science and education 
 We have recently found online these two volumes full of low cost equipment with lists of parts and schematics:

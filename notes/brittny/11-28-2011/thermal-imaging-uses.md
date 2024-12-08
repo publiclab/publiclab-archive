@@ -1,12 +1,18 @@
 ---
-nid: 587
 title: Thermal Imaging Uses
-path: public/static/notes/brittny/11-28-2011/thermal-imaging-uses.md
-uid: 370
 tagnames: first-time-poster
+author: Brittny
+path: /notes/brittny/11-28-2011/thermal-imaging-uses.md
+nid: 587
+uid: 370
+
 ---
 
 # Thermal Imaging Uses
+
+by [Brittny](../profile/Brittny) November 28, 2011 18:28
+
+November 28, 2011 18:28 | Tags: [first-time-poster](../tag/first-time-poster)
 
 Art Lab brainstorming uses for thermal images:
 

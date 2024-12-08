@@ -1,12 +1,18 @@
 ---
-nid: 24483
 title: GSoC 2020 Report: PublicLab.Editor Repair and Fortification
-path: public/static/notes/keshavgarg234156/08-30-2020/gsoc-2020-report-publiclab-editor-repair-and-fortification.md
-uid: 613595
 tagnames: 
+author: keshavgarg234156
+path: /notes/keshavgarg234156/08-30-2020/gsoc-2020-report-publiclab-editor-repair-and-fortification.md
+nid: 24483
+uid: 613595
+
 ---
 
 # GSoC 2020 Report: PublicLab.Editor Repair and Fortification
+
+by [keshavgarg234156](../profile/keshavgarg234156) August 30, 2020 15:00
+
+August 30, 2020 15:00 | Tags: 
 
 ## About Google Summer of Code
 

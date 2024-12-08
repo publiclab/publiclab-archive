@@ -1,12 +1,18 @@
 ---
-nid: 11074
 title: riffle-dev
-path: public/static/wiki/riffle-dev.md
+tagnames: riffle, parent:riffle
+author: donblair
+path: /wiki/riffle-dev.md
+nid: 11074
 uid: 43651
-tagnames: riffle,parent:riffle
+
 ---
 
 # riffle-dev
+
+by [donblair](../profile/donblair)
+
+August 23, 2014 14:50 | Tags: [riffle](../tag/riffle), [parent:riffle](../tag/parent:riffle)
 
 ### The [RIFFLE](http://en.wikipedia.org/wiki/Riffle) water quality sensor
 

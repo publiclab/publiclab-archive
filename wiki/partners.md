@@ -1,12 +1,18 @@
 ---
-nid: 11013
 title: Public Lab friends, partners and collaborators
-path: public/static/wiki/partners.md
+tagnames: community, partnerships, citizenscience
+author: Shannon
+path: /wiki/partners.md
+nid: 11013
 uid: 9
-tagnames: community,partnerships,citizenscience
+
 ---
 
 # Public Lab friends, partners and collaborators
+
+by [stevie](../profile/stevie), [liz](../profile/liz), [warren](../profile/warren), [shanlter](../profile/shanlter), [clauds](../profile/clauds), [Shannon](../profile/Shannon), [hagitkeysar](../profile/hagitkeysar), [nshapiro](../profile/nshapiro), [kanarinka](../profile/kanarinka), [ives](../profile/ives), [eustatic](../profile/eustatic)
+
+August 04, 2014 18:31 | Tags: [community](../tag/community), [partnerships](../tag/partnerships), [citizenscience](../tag/citizenscience)
 
 _Thanks to the collaboration and support with the following organization and individuals, the work of Public Lab is made possible._
 

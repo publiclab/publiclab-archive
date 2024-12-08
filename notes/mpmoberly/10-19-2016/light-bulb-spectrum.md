@@ -1,12 +1,18 @@
 ---
-nid: 13612
 title: Light bulb spectrum 
-path: public/static/notes/mpmoberly/10-19-2016/light-bulb-spectrum.md
+tagnames: hidden:response, response:13586, first-time-poster
+author: mpmoberly
+path: /notes/mpmoberly/10-19-2016/light-bulb-spectrum.md
+nid: 13612
 uid: 494931
-tagnames: hidden:response,response:13586,first-time-poster
+
 ---
 
 # Light bulb spectrum 
+
+by [mpmoberly](../profile/mpmoberly) October 19, 2016 17:27
+
+October 19, 2016 17:27 | Tags: [hidden:response](../tag/hidden:response), [response:13586](../tag/response:13586), [first-time-poster](../tag/first-time-poster)
 
 ###What I want to do
 

@@ -1,12 +1,18 @@
 ---
-nid: 15094
 title: Making a Hackteria stage
-path: public/static/notes/partsandcrafts/10-26-2017/making-a-hackteria-microscope.md
+tagnames: barnstar:basic, hackteria, with:kgradow1, with:warren, seeks:replications, microscopes, activity:microscopes, with:wmacfarl, with:bmela
+author: partsandcrafts
+path: /notes/partsandcrafts/10-26-2017/making-a-hackteria-microscope.md
+nid: 15094
 uid: 66014
-tagnames: barnstar:basic,hackteria,with:kgradow1,with:warren,seeks:replications,microscopes,activity:microscopes,with:wmacfarl,with:bmela
+
 ---
 
 # Making a Hackteria stage
+
+by [partsandcrafts](../profile/partsandcrafts) October 26, 2017 04:17
+
+October 26, 2017 04:17 | Tags: [barnstar:basic](../tag/barnstar:basic), [hackteria](../tag/hackteria), [with:kgradow1](../tag/with:kgradow1), [with:warren](../tag/with:warren), [seeks:replications](../tag/seeks:replications), [microscopes](../tag/microscopes), [activity:microscopes](../tag/activity:microscopes), [with:wmacfarl](../tag/with:wmacfarl), [with:bmela](../tag/with:bmela)
 
 # Goals
 

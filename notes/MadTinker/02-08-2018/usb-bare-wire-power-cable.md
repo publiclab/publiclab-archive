@@ -1,12 +1,18 @@
 ---
-nid: 15700
 title: USB bare wire power cable
-path: public/static/notes/MadTinker/02-08-2018/usb-bare-wire-power-cable.md
+tagnames: arduino, battery, power, activity:arduino, usb
+author: MadTinker
+path: /notes/MadTinker/02-08-2018/usb-bare-wire-power-cable.md
+nid: 15700
 uid: 461206
-tagnames: arduino,battery,power,activity:arduino,usb
+
 ---
 
 # USB bare wire power cable
+
+by [MadTinker](../profile/MadTinker) February 08, 2018 00:36
+
+February 08, 2018 00:36 | Tags: [arduino](../tag/arduino), [battery](../tag/battery), [power](../tag/power), [activity:arduino](../tag/activity:arduino), [usb](../tag/usb)
 
 This is a simple step-by-step guide to making a USB bare wire power cord to be used in various Arduino projects. I needed it for a water quality sampling project I'm working on and I thought it might be of general interest.
 

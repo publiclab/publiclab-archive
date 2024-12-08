@@ -1,12 +1,18 @@
 ---
-nid: 11621
 title: Sensor Journalism - Why It Is Important To Use & Use Correctly
-path: public/static/notes/sho1624/02-23-2015/sensor-journalism-why-it-is-important-to-use-use-correctly.md
+tagnames: testing, water, sensor-journalism
+author: sho1624
+path: /notes/sho1624/02-23-2015/sensor-journalism-why-it-is-important-to-use-use-correctly.md
+nid: 11621
 uid: 434116
-tagnames: testing,water,sensor-journalism
+
 ---
 
 # Sensor Journalism - Why It Is Important To Use & Use Correctly
+
+by [sho1624](../profile/sho1624) February 23, 2015 08:51
+
+February 23, 2015 08:51 | Tags: [testing](../tag/testing), [water](../tag/water), [sensor-journalism](../tag/sensor-journalism)
 
 Sensor journalism is an absolutely essential and pertinent niche of journalism that is on the rise. I did not have a ton of experience in the field of sensor journalism before working on project for class, however I found the work not only extremely challenging but also extremely rewarding. After reading the [Tow Report](http://towcenter.org/wp-content/uploads/2014/05/Tow-Center-Sensors-and-Journalism.pdf), listening to Lily Bui's presentation and working on a sensor journalism project myself I think that sensor journalism is an effective tool of gathering and interpreting data, however I think that it is a tool that needs to be used correctly and intelligently. 
 

@@ -1,12 +1,18 @@
 ---
-nid: 14148
 title: Determining wind direction with a kite and compass
-path: public/static/notes/mathew/04-28-2017/determining-wind-direction-with-a-kite-and-compass.md
+tagnames: kite-mapping, anemometer, wind-speed-meter, with:gretchengehrke, kite-anemometer, with:marlokeno, activity:kite-anemometer, wind-speed, activity:wind-speed
+author: mathew
+path: /notes/mathew/04-28-2017/determining-wind-direction-with-a-kite-and-compass.md
+nid: 14148
 uid: 4
-tagnames: kite-mapping,anemometer,wind-speed-meter,with:gretchengehrke,kite-anemometer,with:marlokeno,activity:kite-anemometer,wind-speed,activity:wind-speed
+
 ---
 
 # Determining wind direction with a kite and compass
+
+by [mathew](../profile/mathew) April 28, 2017 21:57
+
+April 28, 2017 21:57 | Tags: [kite-mapping](../tag/kite-mapping), [anemometer](../tag/anemometer), [wind-speed-meter](../tag/wind-speed-meter), [with:gretchengehrke](../tag/with:gretchengehrke), [kite-anemometer](../tag/kite-anemometer), [with:marlokeno](../tag/with:marlokeno), [activity:kite-anemometer](../tag/activity:kite-anemometer), [wind-speed](../tag/wind-speed), [activity:wind-speed](../tag/activity:wind-speed)
 
 During [PM hotspot monitoring](https://publiclab.org/notes/mathew/04-28-2017/practicing-a-pm-hotspot-survey-in-new-auburn-wi), we launched a small kite to take wind direction measurements above the tree height. These measurements were usually about 10-15° off of our measurements at ground level.
 

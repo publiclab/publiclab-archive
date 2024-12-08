@@ -1,12 +1,18 @@
 ---
-nid: 11228
 title: Newtown Creek EPA Superfund CAG meeting
-path: public/static/notes/liz/10-02-2014/newtown-creek-epa-superfund-cag-meeting.md
+tagnames: new-york-city, newtown-creek, superfund-site, epa, cag, northeast
+author: liz
+path: /notes/liz/10-02-2014/newtown-creek-epa-superfund-cag-meeting.md
+nid: 11228
 uid: 7
-tagnames: new-york-city,newtown-creek,superfund-site,epa,cag,northeast
+
 ---
 
 # Newtown Creek EPA Superfund CAG meeting
+
+by [liz](../profile/liz) October 02, 2014 00:00
+
+October 02, 2014 00:00 | Tags: [new-york-city](../tag/new-york-city), [newtown-creek](../tag/newtown-creek), [superfund-site](../tag/superfund-site), [epa](../tag/epa), [cag](../tag/cag), [northeast](../tag/northeast)
 
 _Above: CAG co-chairs Mike Schade opening the meeting._ 
 

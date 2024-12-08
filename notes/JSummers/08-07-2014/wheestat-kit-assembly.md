@@ -1,12 +1,18 @@
 ---
-nid: 11020
 title: WheeStat kit assembly
-path: public/static/notes/JSummers/08-07-2014/wheestat-kit-assembly.md
+tagnames: water-quality, potentiostat, wheestat, response:10658, response:10627
+author: JSummers
+path: /notes/JSummers/08-07-2014/wheestat-kit-assembly.md
+nid: 11020
 uid: 304279
-tagnames: water-quality,potentiostat,wheestat,response:10658,response:10627
+
 ---
 
 # WheeStat kit assembly
+
+by [JSummers](../profile/JSummers) August 07, 2014 20:38
+
+August 07, 2014 20:38 | Tags: [water-quality](../tag/water-quality), [potentiostat](../tag/potentiostat), [wheestat](../tag/wheestat), [response:10658](../tag/response:10658), [response:10627](../tag/response:10627)
 
 ###What I want to do
 This note describes the WheeStat kit and how to put it together.  More information on the WheeStat is available on the User's Manual wiki page, found [here](http://publiclab.org/wiki/wheestat-user-s-manual). 

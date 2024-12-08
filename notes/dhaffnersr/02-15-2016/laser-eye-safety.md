@@ -1,12 +1,18 @@
 ---
-nid: 12692
 title: Laser Eye Safety!
-path: public/static/notes/dhaffnersr/02-15-2016/laser-eye-safety.md
-uid: 461120
 tagnames: 
+author: dhaffnersr
+path: /notes/dhaffnersr/02-15-2016/laser-eye-safety.md
+nid: 12692
+uid: 461120
+
 ---
 
 # Laser Eye Safety!
+
+by [dhaffnersr](../profile/dhaffnersr) February 15, 2016 13:56
+
+February 15, 2016 13:56 | Tags: 
 
 I just wanted to post up a quick note about the importance of using appropriete eye wear when using ANY kind of laser within close proximity of you or anyone else, the reason is simple...you only have one pair of eyeballs, try and keep them for as long as possible!
 

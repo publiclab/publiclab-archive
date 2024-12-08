@@ -1,6 +1,6 @@
 # lon--89
 
-3 notes and wiki pages
+3 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Trying to detect emission lines in flare spectra from Chalmette](/notes/warren/10-09-2013/trying-to-detect-emission-lines-in-flare-spectra-from-chalmette) by [warren](../profile/warren)
 - [How Grassroots Mapping Got Started: An Intro to Barataria Bay](/wiki/how-grassroots-mapping-got-started) (wiki)

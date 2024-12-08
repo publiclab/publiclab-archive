@@ -1,12 +1,18 @@
 ---
-nid: 11409
 title: Edmonton
-path: public/static/wiki/edmonton.md
+tagnames: edmonton, canada
+author: ann
+path: /wiki/edmonton.md
+nid: 11409
 uid: 421543
-tagnames: edmonton,canada
+
 ---
 
 # Edmonton
+
+by [ann](../profile/ann)
+
+November 27, 2014 03:20 | Tags: [edmonton](../tag/edmonton), [canada](../tag/canada)
 
 **
 Edmonton is part of the [Western Canada](http://publiclab.org/wiki/western-canada) region.**

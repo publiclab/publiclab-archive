@@ -1,12 +1,18 @@
 ---
-nid: 1850
 title: Staff call notes 4 30 2012
-path: public/static/wiki/staff-call-notes-4-30-2012.md
-uid: 1
 tagnames: 
+author: warren
+path: /wiki/staff-call-notes-4-30-2012.md
+nid: 1850
+uid: 1
+
 ---
 
 # Staff call notes 4 30 2012
+
+by [warren](../profile/warren)
+
+April 30, 2012 16:37 | Tags: 
 
 ###Adam (moderator)###
 * Goals

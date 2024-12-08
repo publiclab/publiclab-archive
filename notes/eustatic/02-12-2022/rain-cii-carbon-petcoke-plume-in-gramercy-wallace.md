@@ -1,12 +1,18 @@
 ---
-nid: 30023
 title: Rain Cii Carbon Petcoke Plume in Gramercy / Wallace
-path: public/static/notes/eustatic/02-12-2022/rain-cii-carbon-petcoke-plume-in-gramercy-wallace.md
+tagnames: air-quality, zoom:12, lat:30.053372, lon:-90.668269
+author: eustatic
+path: /02-12-2022/rain-cii-carbon-petcoke-plume-in-gramercy-wallace.md
+nid: 30023
 uid: 379
-tagnames: air-quality,zoom:12,lat:30.053372,lon:-90.668269
+
 ---
 
 # Rain Cii Carbon Petcoke Plume in Gramercy / Wallace
+
+by [eustatic](../profile/eustatic) February 12, 2022 01:52
+
+February 12, 2022 01:52 | Tags: [air-quality](../tag/air-quality), [zoom:12](../tag/zoom:12), [lat:30.053372](../tag/lat:30.053372), [lon:-90.668269](../tag/lon:-90.668269)
 
 [https://www.flickr.com/photos/tags/oc3876](https://www.flickr.com/photos/tags/oc3876)
 

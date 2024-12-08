@@ -1,12 +1,18 @@
 ---
-nid: 14219
 title: Cheap, lightweight GoPro alternatives for aerial mapping?
-path: public/static/notes/warren/05-20-2017/cheap-lightweight-gopro-alternatives-for-aerial-mapping.md
+tagnames: balloon-mapping, gopro, mobius, question:balloon-mapping, answered, mini-kite-kit, mini-balloon-kit, question:aerial-mapping, question:kite-mapping, question:aerial-photography, response:14191, camera-selection, lightweight-cameras, question:camera-selection, question:mini-balloon-kit, question:mini-kite-kit, mini-camera, activity:mini-camera
+author: warren
+path: /notes/warren/05-20-2017/cheap-lightweight-gopro-alternatives-for-aerial-mapping.md
+nid: 14219
 uid: 1
-tagnames: balloon-mapping,gopro,mobius,question:balloon-mapping,answered,mini-kite-kit,mini-balloon-kit,question:aerial-mapping,question:kite-mapping,question:aerial-photography,response:14191,camera-selection,lightweight-cameras,question:camera-selection,question:mini-balloon-kit,question:mini-kite-kit,mini-camera,activity:mini-camera
+
 ---
 
 # Cheap, lightweight GoPro alternatives for aerial mapping?
+
+by [warren](../profile/warren) May 20, 2017 21:42
+
+May 20, 2017 21:42 | Tags: [balloon-mapping](../tag/balloon-mapping), [gopro](../tag/gopro), [mobius](../tag/mobius), [question:balloon-mapping](../tag/question:balloon-mapping), [answered](../tag/answered), [mini-kite-kit](../tag/mini-kite-kit), [mini-balloon-kit](../tag/mini-balloon-kit), [question:aerial-mapping](../tag/question:aerial-mapping), [question:kite-mapping](../tag/question:kite-mapping), [question:aerial-photography](../tag/question:aerial-photography), [response:14191](../tag/response:14191), [camera-selection](../tag/camera-selection), [lightweight-cameras](../tag/lightweight-cameras), [question:camera-selection](../tag/question:camera-selection), [question:mini-balloon-kit](../tag/question:mini-balloon-kit), [question:mini-kite-kit](../tag/question:mini-kite-kit), [mini-camera](../tag/mini-camera), [activity:mini-camera](../tag/activity:mini-camera)
 
 Just following up on [the question](/questions/cherylh/05-15-2017/how-can-real-time-camera-monitoring-be-set-up) posted by @cherylh from [Fair Tech Collective](https://www.fairtechcollective.org/) with something that may be relevant to real-time video counter-surveillance --
 

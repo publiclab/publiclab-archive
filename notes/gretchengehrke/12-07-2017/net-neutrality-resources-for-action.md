@@ -1,12 +1,18 @@
 ---
-nid: 15326
 title: Net Neutrality: resources for action
-path: public/static/notes/gretchengehrke/12-07-2017/net-neutrality-resources-for-action.md
+tagnames: blog, blog-submission
+author: gretchengehrke
+path: /notes/gretchengehrke/12-07-2017/net-neutrality-resources-for-action.md
+nid: 15326
 uid: 430549
-tagnames: blog,blog-submission
+
 ---
 
 # Net Neutrality: resources for action
+
+by [gretchengehrke](../profile/gretchengehrke) December 07, 2017 15:13
+
+December 07, 2017 15:13 | Tags: [blog](../tag/blog), [blog-submission](../tag/blog-submission)
 
 _Image obtained from: https://imgur.com/gallery/zfxwB_
 

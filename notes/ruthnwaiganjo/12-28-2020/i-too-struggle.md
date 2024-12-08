@@ -1,12 +1,18 @@
 ---
-nid: 25344
 title: I, Too, Struggle
-path: public/static/notes/ruthnwaiganjo/12-28-2020/i-too-struggle.md
+tagnames: coding, happy-holidays, blog-submission, outreachy, programming, codebase
+author: ruthnwaiganjo
+path: /notes/ruthnwaiganjo/12-28-2020/i-too-struggle.md
+nid: 25344
 uid: 725565
-tagnames: coding,happy-holidays,blog-submission,outreachy,programming,codebase
+
 ---
 
 # I, Too, Struggle
+
+by [ruthnwaiganjo](../profile/ruthnwaiganjo) December 28, 2020 17:03
+
+December 28, 2020 17:03 | Tags: [coding](../tag/coding), [happy-holidays](../tag/happy-holidays), [blog-submission](../tag/blog-submission), [outreachy](../tag/outreachy), [programming](../tag/programming), [codebase](../tag/codebase)
 
 When I started learning about programming, I knew someone good at it. Effortlessly solving any programming challenges they faced. Several people acknowledged them as one of the best programmers they knew. I always noticed that this person never once reached out for help in any programming related problems. It made me think that becoming a proficient programmer meant that you were self-sufficient in addition to rarely facing any challenges.
 

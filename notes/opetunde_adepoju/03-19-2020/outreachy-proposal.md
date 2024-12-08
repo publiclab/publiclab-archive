@@ -1,12 +1,18 @@
 ---
-nid: 23186
 title: Outreachy proposal: Optimize perofrmance and accessibility of Public Lab content
-path: public/static/notes/opetunde_adepoju/03-19-2020/outreachy-proposal.md
+tagnames: software, soc, outreachy, first-time-poster, soc-2020, outreachy-2020, outreachy-2020-proposals, response:23084
+author: opetunde_adepoju
+path: /notes/opetunde_adepoju/03-19-2020/outreachy-proposal.md
+nid: 23186
 uid: 672574
-tagnames: software,soc,outreachy,first-time-poster,soc-2020,outreachy-2020,outreachy-2020-proposals,response:23084
+
 ---
 
 # Outreachy proposal: Optimize perofrmance and accessibility of Public Lab content
+
+by [opetunde_adepoju](../profile/opetunde_adepoju) March 19, 2020 11:40
+
+March 19, 2020 11:40 | Tags: [software](../tag/software), [soc](../tag/soc), [outreachy](../tag/outreachy), [first-time-poster](../tag/first-time-poster), [soc-2020](../tag/soc-2020), [outreachy-2020](../tag/outreachy-2020), [outreachy-2020-proposals](../tag/outreachy-2020-proposals), [response:23084](../tag/response:23084)
 
 # About Me
 

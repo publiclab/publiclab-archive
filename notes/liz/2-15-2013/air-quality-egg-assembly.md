@@ -1,11 +1,17 @@
 ---
-nid: 5997
 title: Air Quality Egg assembly
-path: public/static/notes/liz/2-15-2013/air-quality-egg-assembly.md
+tagnames: new-york-city, cypress-hills, chaq
+author: liz
+path: /notes/liz/2-15-2013/air-quality-egg-assembly.md
+nid: 5997
 uid: 7
-tagnames: new-york-city,cypress-hills,chaq
+
 ---
 
 # Air Quality Egg assembly
+
+by [liz](../profile/liz) February 15, 2013 14:48
+
+February 15, 2013 14:48 | Tags: [new-york-city](../tag/new-york-city), [cypress-hills](../tag/cypress-hills), [chaq](../tag/chaq)
 
 Here are pictures from assembling the 12 Air Quality Eggs for Cypress Hills Community School. 

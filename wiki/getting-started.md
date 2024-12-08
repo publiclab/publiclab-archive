@@ -1,12 +1,18 @@
 ---
-nid: 539
 title: Getting Started
-path: public/static/wiki/getting-started.md
+tagnames: community, welcome, style:minimal, locked, location:blurred, sidebar:none, parent:welcome, redirect:1624
+author: warren
+path: /wiki/getting-started.md
+nid: 539
 uid: 1
-tagnames: community,welcome,style:minimal,locked,location:blurred,sidebar:none,parent:welcome,redirect:1624
+
 ---
 
 # Getting Started
+
+by [liz](../profile/liz), [warren](../profile/warren), [stevie](../profile/stevie), [claimaccident](../profile/claimaccident), [Shannon](../profile/Shannon), [FamilyLaw1](../profile/FamilyLaw1), [JRTyner](../profile/JRTyner), [kleidaries](../profile/kleidaries), [Samwilson](../profile/Samwilson), [eriol](../profile/eriol), [goergewilliam1902](../profile/goergewilliam1902), [gonzoearth](../profile/gonzoearth), [adam-griffith](../profile/adam-griffith), [sara](../profile/sara), [Michelrawn20](../profile/Michelrawn20), [Waltercriss55](../profile/Waltercriss55), [Thomasskritt25](../profile/Thomasskritt25), [Patrickmall99](../profile/Patrickmall99), [Ronnalddiser75](../profile/Ronnalddiser75), [JamesBlunt13](../profile/JamesBlunt13), [rjstatic](../profile/rjstatic)
+
+November 03, 2011 17:09 | Tags: [community](../tag/community), [welcome](../tag/welcome), [style:minimal](../tag/style:minimal), [locked](../tag/locked), [location:blurred](../tag/location:blurred), [sidebar:none](../tag/sidebar:none), [parent:welcome](../tag/parent:welcome), [redirect:1624](../tag/redirect:1624)
 
 <div class="alert alert-success">Welcome! This page is out of date, so please visit <a href="https://publiclab.org/welcome">our Welcome page</a>, thanks!</div>
 

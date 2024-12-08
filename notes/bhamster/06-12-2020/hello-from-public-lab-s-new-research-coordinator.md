@@ -1,12 +1,18 @@
 ---
-nid: 23830
 title: Hello from Public Lab's new Research Coordinator
-path: public/static/notes/bhamster/06-12-2020/hello-from-public-lab-s-new-research-coordinator.md
+tagnames: first-time-poster, zoom:6, lat:48, lon:-121
+author: bhamster
+path: /notes/bhamster/06-12-2020/hello-from-public-lab-s-new-research-coordinator.md
+nid: 23830
 uid: 664477
-tagnames: first-time-poster,zoom:6,lat:48,lon:-121
+
 ---
 
 # Hello from Public Lab's new Research Coordinator
+
+by [bhamster](../profile/bhamster) June 12, 2020 16:53
+
+June 12, 2020 16:53 | Tags: [first-time-poster](../tag/first-time-poster), [zoom:6](../tag/zoom:6), [lat:48](../tag/lat:48), [lon:-121](../tag/lon:-121)
 
 Hello Public Lab community!
 

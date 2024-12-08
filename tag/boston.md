@@ -1,6 +1,6 @@
 # boston
 
-91 notes and wiki pages
+91 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Somerville, Massachusetts](/wiki/somerville-massachusetts) (wiki)
 - [Posted photos from Parts & Crafts infrared workshop](/notes/warren/4-20-2011/posted-photos-parts-crafts-infrared-workshop) by [warren](../profile/warren)
@@ -81,15 +81,9 @@
 - [Public Lab Boston/Somerville coding meetup @ Parts & Crafts](/notes/warren/09-03-2015/public-lab-boston-somerville-coding-meetup-parts-crafts) by [warren](../profile/warren)
 - [Flame testing metal salts](/notes/kgradow1/10-19-2015/pyrotechnics-101-flame-testing-metal-salts) by [kgradow1](../profile/kgradow1)
 - [BostonJS talks focused on welcoming new coding contributors](/notes/warren/03-04-2016/bostonjs-talks-focused-on-welcoming-new-coding-contributors) by [warren](../profile/warren)
-- [My friend bubble soccer ball](/notes/bubblesoccerball/06-24-2016/my-friend-bubble-soccer-ball) by [bubblesoccerball](../profile/bubblesoccerball)
 - [Southwest Boston CDC seeks volunteers for land and water restoration](/notes/Patalvarez/01-03-2017/southwest-boston-cdc-seeks-volunteers-for-land-and-water-restoration) by [Patalvarez](../profile/Patalvarez)
 - [Renegotiating Expertise: a talk at ClimateX MIT](/notes/warren/01-18-2017/renegotiating-expertise-a-talk-at-climatex-mit) by [warren](../profile/warren)
 - [Next Saturday: Timelapse Kit workshop and Social Emergency Response Center in Somerville](/notes/warren/03-12-2017/next-saturday-timelapse-kit-workshop-and-social-emergency-response-center-in-somerville) by [warren](../profile/warren)
 - [Photos from a kite mapping party in Somerville](/notes/warren/07-07-2017/photos-from-a-kite-mapping-party-in-somerville) by [warren](../profile/warren)
 - [Local Environmental Action 2018 in Boston](/notes/warren/02-05-2018/local-environmental-action-2018-in-boston) by [warren](../profile/warren)
-- [Suburban HVAV](/notes/Suburbanhvac/08-28-2018/suburban-hvav) by [Suburbanhvac](../profile/Suburbanhvac)
 - [5 Awesome Tech Moments at Open Hardware Summit #tech #opensource #Arduino #raspberrypi #diy #science](/notes/Zengirl2/10-04-2018/5-awesome-tech-moments-at-open-hardware-summit-tech-opensource-arduino-raspberrypi-diy-science) by [zengirl2](../profile/zengirl2)
-- [Opus Design](/notes/opusdesign/07-08-2020/opus-design) by [opusdesign](../profile/opusdesign)
-- [Best Pandit in USA](/notes/stevensmithh679/11-04-2020/best-pandit-in-usa) by [stevensmithh679](../profile/stevensmithh679)
-- [Emergency Dentist Boston MA ](/notes/dentistofficial1/11-19-2020/emergency-dentist-boston-ma) by [dentistofficial1](../profile/dentistofficial1)
-- [Sustanon La Pharma - Steroid Shop - Dr. Stephenson ](/notes/dstretzilarrya/04-29-2021/sustanon-la-pharma-steroid-shop-dr-stephenson) by [dstretzilarrya](../profile/dstretzilarrya)

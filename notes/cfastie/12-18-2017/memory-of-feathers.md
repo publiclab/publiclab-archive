@@ -1,12 +1,18 @@
 ---
-nid: 15394
 title: Memory of Feathers
-path: public/static/notes/cfastie/12-18-2017/memory-of-feathers.md
+tagnames: arduino, sensors, datalogger, data-logging, feather, thermal-infrared, gy90614, relay, activity:feather, series:woodstove-control
+author: cfastie
+path: /notes/cfastie/12-18-2017/memory-of-feathers.md
+nid: 15394
 uid: 554
-tagnames: arduino,sensors,datalogger,data-logging,feather,thermal-infrared,gy90614,relay,activity:feather,series:woodstove-control
+
 ---
 
 # Memory of Feathers
+
+by [cfastie](../profile/cfastie) December 18, 2017 21:07
+
+December 18, 2017 21:07 | Tags: [arduino](../tag/arduino), [sensors](../tag/sensors), [datalogger](../tag/datalogger), [data-logging](../tag/data-logging), [feather](../tag/feather), [thermal-infrared](../tag/thermal-infrared), [gy90614](../tag/gy90614), [relay](../tag/relay), [activity:feather](../tag/activity:feather), [series:woodstove-control](../tag/series:woodstove-control)
 
 I made some modifications to the data logging and control [device that is hooked up to the fan on my woodstove](https://publiclab.org/notes/cfastie/12-03-2017/putting-sensor-data-to-work):
 

@@ -1,12 +1,18 @@
 ---
-nid: 11296
 title: CFL detection by contrast, for auto-calibration
-path: public/static/notes/warren/10-22-2014/cfl-detection-by-contrast-for-auto-calibration.md
+tagnames: spectrometer, calibration, cfl, spectrometer-calibration, spectral-workbench, gsoc, spectral-workbench-api, oil-testing-kit
+author: warren
+path: /notes/warren/10-22-2014/cfl-detection-by-contrast-for-auto-calibration.md
+nid: 11296
 uid: 1
-tagnames: spectrometer,calibration,cfl,spectrometer-calibration,spectral-workbench,gsoc,spectral-workbench-api,oil-testing-kit
+
 ---
 
 # CFL detection by contrast, for auto-calibration
+
+by [warren](../profile/warren) October 22, 2014 21:56
+
+October 22, 2014 21:56 | Tags: [spectrometer](../tag/spectrometer), [calibration](../tag/calibration), [cfl](../tag/cfl), [spectrometer-calibration](../tag/spectrometer-calibration), [spectral-workbench](../tag/spectral-workbench), [gsoc](../tag/gsoc), [spectral-workbench-api](../tag/spectral-workbench-api), [oil-testing-kit](../tag/oil-testing-kit)
 
 ###What I want to do
 

@@ -1,12 +1,18 @@
 ---
-nid: 12150
 title: gmf-8-Amy-LeGaux
-path: public/static/wiki/gmf-8-amy-legaux.md
-uid: 7
 tagnames: style:fancy
+author: liz
+path: /wiki/gmf-8-amy-legaux.md
+nid: 12150
+uid: 7
+
 ---
 
 # gmf-8-Amy-LeGaux
+
+by [liz](../profile/liz)
+
+August 17, 2015 16:21 | Tags: [style:fancy](../tag/style:fancy)
 
 By Amy LeGaux
 

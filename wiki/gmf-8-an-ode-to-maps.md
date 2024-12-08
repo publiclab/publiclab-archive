@@ -1,12 +1,18 @@
 ---
-nid: 12148
 title: GMF-8-An-Ode-To-Maps
-path: public/static/wiki/gmf-8-an-ode-to-maps.md
+tagnames: grassrootsmappingforum, style:fancy, gmf-8
+author: liz
+path: /wiki/gmf-8-an-ode-to-maps.md
+nid: 12148
 uid: 7
-tagnames: grassrootsmappingforum,style:fancy,gmf-8
+
 ---
 
 # GMF-8-An-Ode-To-Maps
+
+by [liz](../profile/liz)
+
+August 17, 2015 15:59 | Tags: [grassrootsmappingforum](../tag/grassrootsmappingforum), [style:fancy](../tag/style:fancy), [gmf-8](../tag/gmf-8)
 
 By [Diana Di Leonardo](/profile/ddileona)
 

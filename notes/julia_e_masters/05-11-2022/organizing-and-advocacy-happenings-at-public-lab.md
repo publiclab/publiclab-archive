@@ -1,12 +1,18 @@
 ---
-nid: 30715
 title: Organizing and Advocacy Happenings at Public Lab!
-path: public/static/notes/julia_e_masters/05-11-2022/organizing-and-advocacy-happenings-at-public-lab.md
+tagnames: organizing, advocacy, formosaplastics
+author: julia_e_masters
+path: /notes/julia_e_masters/05-11-2022/organizing-and-advocacy-happenings-at-public-lab.md
+nid: 30715
 uid: 756220
-tagnames: organizing,advocacy,formosaplastics
+
 ---
 
 # Organizing and Advocacy Happenings at Public Lab!
+
+by [julia_e_masters](../profile/julia_e_masters) May 11, 2022 23:43
+
+May 11, 2022 23:43 | Tags: [organizing](../tag/organizing), [advocacy](../tag/advocacy), [formosaplastics](../tag/formosaplastics)
 
 Over the last few months, we've had some great events and work highlighting advocacy and organizing efforts among our community. Check them out here!
 

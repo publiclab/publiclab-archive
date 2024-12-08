@@ -1,12 +1,18 @@
 ---
-nid: 12565
 title: Wisconsin 
-path: public/static/wiki/wisconsin.md
+tagnames: wisconsin, tabbed:notes, location:blurred, lat:44, lon:-91
+author: stevie
+path: /wiki/wisconsin.md
+nid: 12565
 uid: 422561
-tagnames: wisconsin,tabbed:notes,location:blurred,lat:44,lon:-91
+
 ---
 
 # Wisconsin 
+
+by [warren](../profile/warren), [stevie](../profile/stevie), [gretchengehrke](../profile/gretchengehrke)
+
+January 06, 2016 18:07 | Tags: [wisconsin](../tag/wisconsin), [tabbed:notes](../tag/tabbed:notes), [location:blurred](../tag/location:blurred), [lat:44](../tag/lat:44), [lon:-91](../tag/lon:-91)
 
 Hello and welcome the Public Lab Wisconsin page! Currently, people in this area communicate on the Public Lab Midwest google group. Join us there! Or get updates on Public Lab from this region by following the tag "[Midwest](https://publiclab.org/tag/midwest)"
 

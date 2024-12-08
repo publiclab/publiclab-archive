@@ -1,12 +1,18 @@
 ---
-nid: 9074
 title: Huentek Infragram Webcam tests
-path: public/static/notes/warren/08-29-2013/huentek-infragram-webcam-tests.md
+tagnames: near-infrared-camera, kickstarter, webcam, infragram, infragram-conversion
+author: warren
+path: /notes/warren/08-29-2013/huentek-infragram-webcam-tests.md
+nid: 9074
 uid: 1
-tagnames: near-infrared-camera,kickstarter,webcam,infragram,infragram-conversion
+
 ---
 
 # Huentek Infragram Webcam tests
+
+by [warren](../profile/warren) August 29, 2013 17:53
+
+August 29, 2013 17:53 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [kickstarter](../tag/kickstarter), [webcam](../tag/webcam), [infragram](../tag/infragram), [infragram-conversion](../tag/infragram-conversion)
 
 Just got a batch of 4 webcams from the Korean company Huentek; Here's the HU203, and I'll post more as I go:
 

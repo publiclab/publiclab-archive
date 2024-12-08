@@ -1,12 +1,18 @@
 ---
-nid: 12031
 title: False positives for Formaldehyde testing
-path: public/static/notes/mathew/07-03-2015/false-positives-for-formaldehyde-testing.md
+tagnames: air-quality, formaldehyde, wherewebreathe, wwb, indoor-air-quality
+author: mathew
+path: /notes/mathew/07-03-2015/false-positives-for-formaldehyde-testing.md
+nid: 12031
 uid: 4
-tagnames: air-quality,formaldehyde,wherewebreathe,wwb,indoor-air-quality
+
 ---
 
 # False positives for Formaldehyde testing
+
+by [mathew](../profile/mathew) July 03, 2015 23:47
+
+July 03, 2015 23:47 | Tags: [air-quality](../tag/air-quality), [formaldehyde](../tag/formaldehyde), [wherewebreathe](../tag/wherewebreathe), [wwb](../tag/wwb), [indoor-air-quality](../tag/indoor-air-quality)
 
 ###What I want to do
 Understand why used Kitagawa tubes are turning pink in our fridge. We've been storing them in there for a while, and they've been stable-- i.e. if I put a tube in there it has the same reading the next day. Then, starting over the past two weeks they've been getting pinker (exposed) in the fridge.

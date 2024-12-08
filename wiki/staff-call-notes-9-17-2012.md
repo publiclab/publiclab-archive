@@ -1,12 +1,18 @@
 ---
-nid: 3838
 title: Staff call notes 9 17 2012
-path: public/static/wiki/staff-call-notes-9-17-2012.md
-uid: 1
 tagnames: 
+author: warren
+path: /wiki/staff-call-notes-9-17-2012.md
+nid: 3838
+uid: 1
+
 ---
 
 # Staff call notes 9 17 2012
+
+by [warren](../profile/warren)
+
+September 17, 2012 18:10 | Tags: 
 
 Monday, September 17, 2012
 

@@ -1,12 +1,18 @@
 ---
-nid: 11240
 title: NDVI with red filters
-path: public/static/notes/fliperbaker/10-06-2014/ndvi-with-red-filters.md
+tagnames: near-infrared-camera, super-red, barnstar:empiricism
+author: fliperbaker
+path: /notes/fliperbaker/10-06-2014/ndvi-with-red-filters.md
+nid: 11240
 uid: 421358
-tagnames: near-infrared-camera,super-red,barnstar:empiricism
+
 ---
 
 # NDVI with red filters
+
+by [fliperbaker](../profile/fliperbaker) October 06, 2014 16:24
+
+October 06, 2014 16:24 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [super-red](../tag/super-red), [barnstar:empiricism](../tag/barnstar:empiricism)
 
 ###What I want to do
 Test the results on NDVI photos using red filters

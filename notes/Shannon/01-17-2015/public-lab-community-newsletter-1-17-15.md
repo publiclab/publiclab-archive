@@ -1,12 +1,18 @@
 ---
-nid: 11530
 title: Public Lab community newsletter 1.17.15
-path: public/static/notes/Shannon/01-17-2015/public-lab-community-newsletter-1-17-15.md
+tagnames: newsletter, newsletter-archive
+author: Shannon
+path: /notes/Shannon/01-17-2015/public-lab-community-newsletter-1-17-15.md
+nid: 11530
 uid: 9
-tagnames: newsletter,newsletter-archive
+
 ---
 
 # Public Lab community newsletter 1.17.15
+
+by [Shannon](../profile/Shannon) January 17, 2015 23:51
+
+January 17, 2015 23:51 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
 
 Happy New Year! We hope that everyone had a great holiday season and is ringing in 2015 refreshed. This week in the Public Lab community newsletter, meet the two new Public Lab nonprofit staff members, get ready for a couple winter mapping and water quality events and catch up on progress made on your favorite DIY community science project. Enjoy!
 

@@ -1,12 +1,18 @@
 ---
-nid: 23630
 title: The Bucket: Updating and open-sourcing a community air monitoring tool
-path: public/static/notes/Shannon/05-14-2020/the-bucket-updating-and-open-sourcing-a-community-air-monitoring-tool.md
+tagnames: air-quality, blog, bucket-brigade, oil-and-gas, toxics, bucket-monitor, fair-tech-collective
+author: Shannon
+path: /notes/Shannon/05-14-2020/the-bucket-updating-and-open-sourcing-a-community-air-monitoring-tool.md
+nid: 23630
 uid: 9
-tagnames: air-quality,blog,bucket-brigade,oil-and-gas,toxics,bucket-monitor,fair-tech-collective
+
 ---
 
 # The Bucket: Updating and open-sourcing a community air monitoring tool
+
+by [Shannon](../profile/Shannon) May 14, 2020 16:40
+
+May 14, 2020 16:40 | Tags: [air-quality](../tag/air-quality), [blog](../tag/blog), [bucket-brigade](../tag/bucket-brigade), [oil-and-gas](../tag/oil-and-gas), [toxics](../tag/toxics), [bucket-monitor](../tag/bucket-monitor), [fair-tech-collective](../tag/fair-tech-collective)
 
 _By: Dr. Gwen Ottinger ([Fair Tech Collective](https://www.fairtechcollective.org/)) and [Shannon Dosemagen](https://publiclab.org/profile/Shannon)_[](https://publiclab.org/profile/Shannon)
 

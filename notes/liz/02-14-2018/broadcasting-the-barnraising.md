@@ -1,12 +1,18 @@
 ---
-nid: 15736
 title: Broadcasting the Barnraising?
-path: public/static/notes/liz/02-14-2018/broadcasting-the-barnraising.md
+tagnames: community, question:general, question:community
+author: liz
+path: /notes/liz/02-14-2018/broadcasting-the-barnraising.md
+nid: 15736
 uid: 7
-tagnames: community,question:general,question:community
+
 ---
 
 # Broadcasting the Barnraising?
+
+by [liz](../profile/liz) February 14, 2018 21:53
+
+February 14, 2018 21:53 | Tags: [community](../tag/community), [question:general](../tag/question:general), [question:community](../tag/question:community)
 
 Hi everyone, many people aren't able to attend Barnraising but want to follow along from afar. But how? Some ideas i've heard: 
 

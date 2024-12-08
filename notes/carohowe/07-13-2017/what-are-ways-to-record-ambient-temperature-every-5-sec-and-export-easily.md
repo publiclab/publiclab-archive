@@ -1,12 +1,18 @@
 ---
-nid: 14650
 title: What are ways to record ambient temperature every 5 sec and export easily?
-path: public/static/notes/carohowe/07-13-2017/what-are-ways-to-record-ambient-temperature-every-5-sec-and-export-easily.md
+tagnames: arduino, temperature, question:question, data-logging, question:data-logging, dc, question:arduino, question:temperature, heat-island, thermometer, temperature-sensing, urban-heat-island, bicycle, shading, first-time-poster
+author: carohowe
+path: /notes/carohowe/07-13-2017/what-are-ways-to-record-ambient-temperature-every-5-sec-and-export-easily.md
+nid: 14650
 uid: 510884
-tagnames: arduino,temperature,question:question,data-logging,question:data-logging,dc,question:arduino,question:temperature,heat-island,thermometer,temperature-sensing,urban-heat-island,bicycle,shading,first-time-poster
+
 ---
 
 # What are ways to record ambient temperature every 5 sec and export easily?
+
+by [carohowe](../profile/carohowe) July 13, 2017 21:08
+
+July 13, 2017 21:08 | Tags: [arduino](../tag/arduino), [temperature](../tag/temperature), [question:question](../tag/question:question), [data-logging](../tag/data-logging), [question:data-logging](../tag/question:data-logging), [dc](../tag/dc), [question:arduino](../tag/question:arduino), [question:temperature](../tag/question:temperature), [heat-island](../tag/heat-island), [thermometer](../tag/thermometer), [temperature-sensing](../tag/temperature-sensing), [urban-heat-island](../tag/urban-heat-island), [bicycle](../tag/bicycle), [shading](../tag/shading), [first-time-poster](../tag/first-time-poster)
 
 I am trying to figure out how we can give cyclists across DC temperature sensors that would capture temperature data at a minimum of every 5 seconds (or even faster, if possible) as they travel through the city. I am looking for something that could plug directly into a phone, so the data could easily be shared, or something that could be downloaded via USB. Data would not need to be immediately transmitted in real-time. 
 

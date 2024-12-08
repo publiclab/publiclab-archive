@@ -1,12 +1,18 @@
 ---
-nid: 10511
 title: iFarm quad flight
-path: public/static/notes/cfastie/05-25-2014/ifarm-quad-flight.md
+tagnames: new-hampshire, farmhack, uav, farm, aerial-photography, infragram, ifarm, northeast, mobius, uas, ifarm2014, response:10503, multirotor
+author: cfastie
+path: /notes/cfastie/05-25-2014/ifarm-quad-flight.md
+nid: 10511
 uid: 554
-tagnames: new-hampshire,farmhack,uav,farm,aerial-photography,infragram,ifarm,northeast,mobius,uas,ifarm2014,response:10503,multirotor
+
 ---
 
 # iFarm quad flight
+
+by [cfastie](../profile/cfastie) May 25, 2014 00:33
+
+May 25, 2014 00:33 | Tags: [new-hampshire](../tag/new-hampshire), [farmhack](../tag/farmhack), [uav](../tag/uav), [farm](../tag/farm), [aerial-photography](../tag/aerial-photography), [infragram](../tag/infragram), [ifarm](../tag/ifarm), [northeast](../tag/northeast), [mobius](../tag/mobius), [uas](../tag/uas), [ifarm2014](../tag/ifarm2014), [response:10503](../tag/response:10503), [multirotor](../tag/multirotor)
 
 Saturday afternoon at [iFarm 2014](http://publiclab.org/tag/ifarm2014) was aerial photography time. Dorn's Bixler plane flew with an Infragram PowerShot A2200, I flew a [Fled kite lofting a PowerShot S95](http://publiclab.org/notes/cfastie/05-23-2014/ifarm-aeries), and Ned flew his quadcopter with an Infragram Mobius ActionCam.  
 .  

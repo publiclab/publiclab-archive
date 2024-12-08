@@ -1,12 +1,18 @@
 ---
-nid: 19842
 title: What do I do next, after using a low-cost or DIY air sensor?
-path: public/static/notes/warren/06-24-2019/what-do-i-do-next-after-using-a-low-cost-or-diy-air-sensor.md
+tagnames: air-quality, dustduino, pm, question:dustduino, data-logging, particulate-matter, study-design, question:simple-air-sensor, simple-air-sensor
+author: warren
+path: /notes/warren/06-24-2019/what-do-i-do-next-after-using-a-low-cost-or-diy-air-sensor.md
+nid: 19842
 uid: 1
-tagnames: air-quality,dustduino,pm,question:dustduino,data-logging,particulate-matter,study-design,question:simple-air-sensor,simple-air-sensor
+
 ---
 
 # What do I do next, after using a low-cost or DIY air sensor?
+
+by [warren](../profile/warren) June 24, 2019 22:20
+
+June 24, 2019 22:20 | Tags: [air-quality](../tag/air-quality), [dustduino](../tag/dustduino), [pm](../tag/pm), [question:dustduino](../tag/question:dustduino), [data-logging](../tag/data-logging), [particulate-matter](../tag/particulate-matter), [study-design](../tag/study-design), [question:simple-air-sensor](../tag/question:simple-air-sensor), [simple-air-sensor](../tag/simple-air-sensor)
 
 What would be a good next step after using a Simple Air Sensor ( #simple-air-sensor) or another DIY air sensor like the #dustduino? The activities listed on the Simple Air Sensor are interesting, but there are many things it can't do as well. After using one, should people:
 

@@ -1,12 +1,18 @@
 ---
-nid: 13651
 title: Step 2: Translate on Transifex
-path: public/static/notes/liz/10-26-2016/translating-on-transifex.md
+tagnames: website, activity, localization, translation, language, comunity, activity:localization
+author: liz
+path: /notes/liz/10-26-2016/translating-on-transifex.md
+nid: 13651
 uid: 7
-tagnames: website,activity,localization,translation,language,comunity,activity:localization
+
 ---
 
 # Step 2: Translate on Transifex
+
+by [liz](../profile/liz) October 26, 2016 18:34
+
+October 26, 2016 18:34 | Tags: [website](../tag/website), [activity](../tag/activity), [localization](../tag/localization), [translation](../tag/translation), [language](../tag/language), [comunity](../tag/comunity), [activity:localization](../tag/activity:localization)
 
 This activity is written for someone who has already logged into Transifex and joined / accepted to the publiclab.org project (see [this activity](https://publiclab.org/notes/liz/10-26-2016/how-to-join-public-lab-s-transifex-project)).
 

@@ -1,12 +1,18 @@
 ---
-nid: 8940
 title: Smartphone spectrometer now available on Shapeways
-path: public/static/notes/warren/07-30-2013/smartphone-spectrometer-now-available-on-shapeways.md
+tagnames: spectrometer, mobile-spectrometer, backpack
+author: warren
+path: /notes/warren/07-30-2013/smartphone-spectrometer-now-available-on-shapeways.md
+nid: 8940
 uid: 1
-tagnames: spectrometer,mobile-spectrometer,backpack
+
 ---
 
 # Smartphone spectrometer now available on Shapeways
+
+by [warren](../profile/warren) July 30, 2013 07:02
+
+July 30, 2013 07:02 | Tags: [spectrometer](../tag/spectrometer), [mobile-spectrometer](../tag/mobile-spectrometer), [backpack](../tag/backpack)
 
 As the smartphone spectrometer is going into production, we're also posting the most recent 3d printable version for sale on Shapeways:
 

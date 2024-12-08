@@ -1,12 +1,18 @@
 ---
-nid: 15121
 title: Scan and compare different gases (in discharge tubes, like neon) using a DIY spectrometer
-path: public/static/notes/warren/10-27-2017/scan-various-gases-in-tube-lamps-like-neon-using-a-diy-spectrometer.md
+tagnames: spectrometer, education, spectrometry, neon, classroom, helium, gas, co2, activity:spectrometry, activity:foldable-spec, activity:education, foldable-spec, activity:science-fair, science-fair, gases, curricula, science-class, activity:classroom, activity:papercraft-spec
+author: warren
+path: /notes/warren/10-27-2017/scan-various-gases-in-tube-lamps-like-neon-using-a-diy-spectrometer.md
+nid: 15121
 uid: 1
-tagnames: spectrometer,education,spectrometry,neon,classroom,helium,gas,co2,activity:spectrometry,activity:foldable-spec,activity:education,foldable-spec,activity:science-fair,science-fair,gases,curricula,science-class,activity:classroom,activity:papercraft-spec
+
 ---
 
 # Scan and compare different gases (in discharge tubes, like neon) using a DIY spectrometer
+
+by [warren](../profile/warren) October 27, 2017 18:13
+
+October 27, 2017 18:13 | Tags: [spectrometer](../tag/spectrometer), [education](../tag/education), [spectrometry](../tag/spectrometry), [neon](../tag/neon), [classroom](../tag/classroom), [helium](../tag/helium), [gas](../tag/gas), [co2](../tag/co2), [activity:spectrometry](../tag/activity:spectrometry), [activity:foldable-spec](../tag/activity:foldable-spec), [activity:education](../tag/activity:education), [foldable-spec](../tag/foldable-spec), [activity:science-fair](../tag/activity:science-fair), [science-fair](../tag/science-fair), [gases](../tag/gases), [curricula](../tag/curricula), [science-class](../tag/science-class), [activity:classroom](../tag/activity:classroom), [activity:papercraft-spec](../tag/activity:papercraft-spec)
 
 A common classroom activity I remember is to scan different excited gases (safely inside glass tubes, the way a neon light works) using a spectrometer. Public Lab's \[foldable spectrometry kit\](/wiki/foldable-spec) makes this even more interactive -- you can make your own paper spectrometer with a DVD as a diffraction grating, and every student can make their own scans.
 

@@ -1,12 +1,18 @@
 ---
-nid: 9422
 title: Cheap spectrometer fundraiser on indiegogo
-path: public/static/notes/nemo/10-09-2013/cheap-spectrometer-fundraiser-on-indiegogo.md
-uid: 39668
 tagnames: spectrometer
+author: nemo
+path: /notes/nemo/10-09-2013/cheap-spectrometer-fundraiser-on-indiegogo.md
+nid: 9422
+uid: 39668
+
 ---
 
 # Cheap spectrometer fundraiser on indiegogo
+
+by [nemo](../profile/nemo) October 09, 2013 00:14
+
+October 09, 2013 00:14 | Tags: [spectrometer](../tag/spectrometer)
 
 Cheap spectrometer fundraiser on [indiegogo](http://www.indiegogo.com/projects/tellspec-what-s-in-your-food) which is tailored towards food detection ...
 

@@ -1,12 +1,18 @@
 ---
-nid: 13182
 title: Compost is hot, says Riffle
-path: public/static/notes/cfastie/06-09-2016/compost-is-hot-says-riffle.md
+tagnames: arduino, vermont, temperature, sensors, water-quality, riffle, barnstar:basic, humidity, compost, response:13158, category:field-test, data-logging, activity:riffle, riffle-examples, activity:data-logging
+author: cfastie
+path: /notes/cfastie/06-09-2016/compost-is-hot-says-riffle.md
+nid: 13182
 uid: 554
-tagnames: arduino,vermont,temperature,sensors,water-quality,riffle,barnstar:basic,humidity,compost,response:13158,category:field-test,data-logging,activity:riffle,riffle-examples,activity:data-logging
+
 ---
 
 # Compost is hot, says Riffle
+
+by [cfastie](../profile/cfastie) June 09, 2016 17:06
+
+June 09, 2016 17:06 | Tags: [arduino](../tag/arduino), [vermont](../tag/vermont), [temperature](../tag/temperature), [sensors](../tag/sensors), [water-quality](../tag/water-quality), [riffle](../tag/riffle), [barnstar:basic](../tag/barnstar:basic), [humidity](../tag/humidity), [compost](../tag/compost), [response:13158](../tag/response:13158), [category:field-test](../tag/category:field-test), [data-logging](../tag/data-logging), [activity:riffle](../tag/activity:riffle), [riffle-examples](../tag/riffle-examples), [activity:data-logging](../tag/activity:data-logging)
 
 *Above: Two temperature probes wired to a Riffle in the Nalgene bottle.*
 

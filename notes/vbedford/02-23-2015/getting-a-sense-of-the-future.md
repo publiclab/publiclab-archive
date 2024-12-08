@@ -1,12 +1,18 @@
 ---
-nid: 11623
 title: Getting a Sense of the Future 
-path: public/static/notes/vbedford/02-23-2015/getting-a-sense-of-the-future.md
+tagnames: sensors, data, journalism, sensor, sensor-journalism
+author: vbedford
+path: /notes/vbedford/02-23-2015/getting-a-sense-of-the-future.md
+nid: 11623
 uid: 434423
-tagnames: sensors,data,journalism,sensor,sensor-journalism
+
 ---
 
 # Getting a Sense of the Future 
+
+by [vbedford](../profile/vbedford) February 23, 2015 17:50
+
+February 23, 2015 17:50 | Tags: [sensors](../tag/sensors), [data](../tag/data), [journalism](../tag/journalism), [sensor](../tag/sensor), [sensor-journalism](../tag/sensor-journalism)
 
 All past and present journalists know that the media landscape is constantly evolving. With each development comes new opportunity, raising the same question: what does this mean for the future of journalism? 
 

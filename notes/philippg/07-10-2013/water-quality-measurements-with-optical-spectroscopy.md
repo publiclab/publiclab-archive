@@ -1,12 +1,18 @@
 ---
-nid: 8809
 title: Water Quality Measurements with Optical Spectroscopy
-path: public/static/notes/philippg/07-10-2013/water-quality-measurements-with-optical-spectroscopy.md
+tagnames: spectrometer, water-quality, water, water-monitoring, estonia, chlorophyll, eutrophication, algae, algal-blooms, cyanobacteria, activity:spectrometry, status:under-development, first-time-poster
+author: philippg
+path: /notes/philippg/07-10-2013/water-quality-measurements-with-optical-spectroscopy.md
+nid: 8809
 uid: 121462
-tagnames: spectrometer,water-quality,water,water-monitoring,estonia,chlorophyll,eutrophication,algae,algal-blooms,cyanobacteria,activity:spectrometry,status:under-development,first-time-poster
+
 ---
 
 # Water Quality Measurements with Optical Spectroscopy
+
+by [philippg](../profile/philippg) July 10, 2013 20:15
+
+July 10, 2013 20:15 | Tags: [spectrometer](../tag/spectrometer), [water-quality](../tag/water-quality), [water](../tag/water), [water-monitoring](../tag/water-monitoring), [estonia](../tag/estonia), [chlorophyll](../tag/chlorophyll), [eutrophication](../tag/eutrophication), [algae](../tag/algae), [algal-blooms](../tag/algal-blooms), [cyanobacteria](../tag/cyanobacteria), [activity:spectrometry](../tag/activity:spectrometry), [status:under-development](../tag/status:under-development), [first-time-poster](../tag/first-time-poster)
 
 ## What I want to do
 I'm a PhD student working on water remote sensing. In water remote sensing, or '[ocean color](http://www.oceanopticsbook.info/view/remote_sensing/ocean_color)', people extract water quality parameters from satellite imagery. Probably the most interesting parameter is [chlorophyll-a concentration](http://24.media.tumblr.com/tumblr_lretq9wY7g1qaityko1_500.jpg), which can be related to the phytoplankton (algae, cyanobacteria) biomass in the water. Applications are quite diverse, ranging from harmful algal blooms early warning systems, [eutrophication](https://en.wikipedia.org/wiki/Eutrophication) assessment to climate change research - to name a few. 

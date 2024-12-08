@@ -1,12 +1,18 @@
 ---
-nid: 3687
 title: Urban Systems Symposium
-path: public/static/notes/liz/9-7-2012/urban-systems-symposium.md
-uid: 7
 tagnames: events
+author: liz
+path: /notes/liz/9-7-2012/urban-systems-symposium.md
+nid: 3687
+uid: 7
+
 ---
 
 # Urban Systems Symposium
+
+by [liz](../profile/liz) September 07, 2012 18:29
+
+September 07, 2012 18:29 | Tags: [events](../tag/events)
 
 <em>caption: UCBerkeley's campus, site of this year's Urban Systems Symposium. </em>
 Link to event page: <a href="http://urbansystemscollaborative.org/usc-fall-2012-meet-university-of-california-berkeley/">http://urbansystemscollaborative.org/usc-fall-2012-meet-university-of-california-berkeley/</a>

@@ -1,12 +1,18 @@
 ---
-nid: 11776
 title: Wetlands Toolkit
-path: public/static/wiki/wetlands-toolkit.md
+tagnames: wetlands, epa, pole-mapping, urbanwaters, wetlands-toolkit, toolkit, workshop-series
+author: liz
+path: /wiki/wetlands-toolkit.md
+nid: 11776
 uid: 7
-tagnames: wetlands,epa,pole-mapping,urbanwaters,wetlands-toolkit,toolkit,workshop-series
+
 ---
 
 # Wetlands Toolkit
+
+by [gretchengehrke](../profile/gretchengehrke), [liz](../profile/liz), [Shannon](../profile/Shannon), [stevie](../profile/stevie)
+
+April 30, 2015 18:49 | Tags: [wetlands](../tag/wetlands), [epa](../tag/epa), [pole-mapping](../tag/pole-mapping), [urbanwaters](../tag/urbanwaters), [wetlands-toolkit](../tag/wetlands-toolkit), [toolkit](../tag/toolkit), [workshop-series](../tag/workshop-series)
 
 _Image: Community mapping of Bayou St. John, New Orleans, LA._
 

@@ -1,12 +1,18 @@
 ---
-nid: 30
 title: 2011 PLOTS NYC Summit
-path: public/static/wiki/2011-plots-nyc-summit.md
-uid: 1
 tagnames: 
+author: warren
+path: /wiki/2011-plots-nyc-summit.md
+nid: 30
+uid: 1
+
 ---
 
 # 2011 PLOTS NYC Summit
+
+by [Shannon](../profile/Shannon), [liz](../profile/liz), [mathew](../profile/mathew), [warren](../profile/warren)
+
+December 14, 2010 21:01 | Tags: 
 
 This page holds the schedule for the March 25-27 workshop -- a smaller meeting of the board and other interested parties. Emphasis on framing PLOTS and planning, not as much on outreach yet.
 

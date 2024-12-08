@@ -1,12 +1,18 @@
 ---
-nid: 12899
 title: $200.00 laser Vs $18.00 laser
-path: public/static/notes/dhaffnersr/03-31-2016/200-00-laser-vs-18-00-laser.md
-uid: 461120
 tagnames: 
+author: dhaffnersr
+path: /notes/dhaffnersr/03-31-2016/200-00-laser-vs-18-00-laser.md
+nid: 12899
+uid: 461120
+
 ---
 
 # $200.00 laser Vs $18.00 laser
+
+by [dhaffnersr](../profile/dhaffnersr) March 31, 2016 12:22
+
+March 31, 2016 12:22 | Tags: 
 
 I wanted to know if there really was a difference between an expensive green laser and a very cheap one, so here are the results of those tests:
 

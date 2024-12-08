@@ -1,12 +1,18 @@
 ---
-nid: 13865
 title:  3D printed mini spectrometer
-path: public/static/notes/rthalman/01-19-2017/3d-printed-mini-spectrometer.md
+tagnames: spectrometer, spectrometry, intensity-calibration, absorption, absorption-spectrometry, upgrade:spectrometry, upgrade:foldable-spec, vis-spectroscopy, 3d-print
+author: rthalman
+path: /notes/rthalman/01-19-2017/3d-printed-mini-spectrometer.md
+nid: 13865
 uid: 495835
-tagnames: spectrometer,spectrometry,intensity-calibration,absorption,absorption-spectrometry,upgrade:spectrometry,upgrade:foldable-spec,vis-spectroscopy,3d-print
+
 ---
 
 #  3D printed mini spectrometer
+
+by [rthalman](../profile/rthalman) January 19, 2017 17:04
+
+January 19, 2017 17:04 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [intensity-calibration](../tag/intensity-calibration), [absorption](../tag/absorption), [absorption-spectrometry](../tag/absorption-spectrometry), [upgrade:spectrometry](../tag/upgrade:spectrometry), [upgrade:foldable-spec](../tag/upgrade:foldable-spec), [vis-spectroscopy](../tag/vis-spectroscopy), [3d-print](../tag/3d-print)
 
 ###3D printed mini spectrometer and absorption cell holder with LED.
 I took the basic design of the simple paper spectrometer and created a 3D printable version. 

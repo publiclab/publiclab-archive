@@ -1,12 +1,18 @@
 ---
-nid: 34816
 title: Important Update from Public Lab
-path: public/static/notes/jmacha/08-03-2022/important-update-from-public-lab.md
+tagnames: education, events, kits, spectralworkbench, barnraising, organizing, research, fundraising, web, blog, barnstar:basic, kits-initiative, parent:mapknitter, publiclab.org, kits-store, updates, funding
+author: jmacha
+path: /notes/jmacha/08-03-2022/important-update-from-public-lab.md
+nid: 34816
 uid: 423019
-tagnames: education,events,kits,spectralworkbench,barnraising,organizing,research,fundraising,web,blog,barnstar:basic,kits-initiative,parent:mapknitter,publiclab.org,kits-store,updates,funding
+
 ---
 
 # Important Update from Public Lab
+
+by [jmacha](../profile/jmacha) August 03, 2022 19:55
+
+August 03, 2022 19:55 | Tags: [education](../tag/education), [events](../tag/events), [kits](../tag/kits), [spectralworkbench](../tag/spectralworkbench), [barnraising](../tag/barnraising), [organizing](../tag/organizing), [research](../tag/research), [fundraising](../tag/fundraising), [web](../tag/web), [blog](../tag/blog), [barnstar:basic](../tag/barnstar:basic), [kits-initiative](../tag/kits-initiative), [parent:mapknitter](../tag/parent:mapknitter), [publiclab.org](../tag/publiclab.org), [kits-store](../tag/kits-store), [updates](../tag/updates), [funding](../tag/funding)
 
 Dear Friends and Supporters:
 

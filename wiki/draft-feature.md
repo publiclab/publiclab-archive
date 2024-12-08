@@ -1,12 +1,18 @@
 ---
-nid: 16496
 title: Draft Feature
-path: public/static/wiki/draft-feature.md
+tagnames: draft, feature, status:draft, soc, gsoc-2018, parent:website-basics
+author: gauravano
+path: /wiki/draft-feature.md
+nid: 16496
 uid: 515081
-tagnames: draft,feature,status:draft,soc,gsoc-2018,parent:website-basics
+
 ---
 
 # Draft Feature
+
+by [gauravano](../profile/gauravano)
+
+June 13, 2018 19:16 | Tags: [draft](../tag/draft), [feature](../tag/feature), [status:draft](../tag/status:draft), [soc](../tag/soc), [gsoc-2018](../tag/gsoc-2018), [parent:website-basics](../tag/parent:website-basics)
 
 This page is intended to help people getting familiar with the draft feature so that they can save their research notes as a draft and can complete them at their own convenience.
 

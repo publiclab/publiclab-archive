@@ -1,12 +1,18 @@
 ---
-nid: 13667
 title: Create a welcoming "first-timers-only" issue to invite new software contributors
-path: public/static/notes/warren/10-31-2016/create-a-welcoming-first-timers-only-issue-to-invite-new-software-contributors.md
+tagnames: community, outreach, gsoc, web, wwg, activity:software, first-timers-only, contributors, software-outreach, activity:soc, activity:software-outreach, first-timers-only-blog, series:software-outreach, activity:developers
+author: warren
+path: /notes/warren/10-31-2016/create-a-welcoming-first-timers-only-issue-to-invite-new-software-contributors.md
+nid: 13667
 uid: 1
-tagnames: community,outreach,gsoc,web,wwg,activity:software,first-timers-only,contributors,software-outreach,activity:soc,activity:software-outreach,first-timers-only-blog,series:software-outreach,activity:developers
+
 ---
 
 # Create a welcoming "first-timers-only" issue to invite new software contributors
+
+by [warren](../profile/warren) October 31, 2016 03:10
+
+October 31, 2016 03:10 | Tags: [community](../tag/community), [outreach](../tag/outreach), [gsoc](../tag/gsoc), [web](../tag/web), [wwg](../tag/wwg), [activity:software](../tag/activity:software), [first-timers-only](../tag/first-timers-only), [contributors](../tag/contributors), [software-outreach](../tag/software-outreach), [activity:soc](../tag/activity:soc), [activity:software-outreach](../tag/activity:software-outreach), [first-timers-only-blog](../tag/first-timers-only-blog), [series:software-outreach](../tag/series:software-outreach), [activity:developers](../tag/activity:developers)
 
 We've been doing some [serious outreach](/software-outreach) for our software contributor community -- that is, people who help us make [PublicLab.org](http://PublicLab.org) and other Public Lab software, through coding, designing, testing, and other helpful tasks.
 

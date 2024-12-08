@@ -1,12 +1,18 @@
 ---
-nid: 17023
 title: GCI Possible Tasks : 
-path: public/static/wiki/gci-possible-tasks.md
-uid: 516343
 tagnames: lat:0
+author: sagarpreet
+path: /wiki/gci-possible-tasks.md
+nid: 17023
+uid: 516343
+
 ---
 
 # GCI Possible Tasks : 
+
+by [sagarpreet](../profile/sagarpreet)
+
+August 30, 2018 06:35 | Tags: [lat:0](../tag/lat:0)
 
 Lets curate a list of possible tasks for this year Google Code In :
 

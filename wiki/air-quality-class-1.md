@@ -1,12 +1,18 @@
 ---
-nid: 5914
 title: Air Quality Class 1
-path: public/static/wiki/air-quality-class-1.md
+tagnames: new-york-city, epa, cypress-hills, chaq, air-quality-egg
+author: liz
+path: /wiki/air-quality-class-1.md
+nid: 5914
 uid: 7
-tagnames: new-york-city,epa,cypress-hills,chaq,air-quality-egg
+
 ---
 
 # Air Quality Class 1
+
+by [liz](../profile/liz)
+
+February 07, 2013 19:29 | Tags: [new-york-city](../tag/new-york-city), [epa](../tag/epa), [cypress-hills](../tag/cypress-hills), [chaq](../tag/chaq), [air-quality-egg](../tag/air-quality-egg)
 
 <h3><a href="/wiki/air-quality-class">Class Home</a></h3>
 

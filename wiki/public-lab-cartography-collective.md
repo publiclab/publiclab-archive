@@ -1,12 +1,18 @@
 ---
-nid: 9360
 title: Public Lab Cartography Collective
-path: public/static/wiki/public-lab-cartography-collective.md
+tagnames: mapknitter, cartography-collective
+author: Shannon
+path: /wiki/public-lab-cartography-collective.md
+nid: 9360
 uid: 9
-tagnames: mapknitter,cartography-collective
+
 ---
 
 # Public Lab Cartography Collective
+
+by [liz](../profile/liz), [stevie](../profile/stevie), [eustatic](../profile/eustatic), [Shannon](../profile/Shannon), [warren](../profile/warren)
+
+September 23, 2013 20:02 | Tags: [mapknitter](../tag/mapknitter), [cartography-collective](../tag/cartography-collective)
 
 [![IMG_1447.JPG](https://i.publiclab.org/system/images/photos/000/001/660/medium/IMG_1447.JPG)](https://i.publiclab.org/system/images/photos/000/001/660/original/IMG_1447.JPG)
 

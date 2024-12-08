@@ -1,12 +1,18 @@
 ---
-nid: 19840
 title: <code> Into GSoC’19 with Public Lab </code>
-path: public/static/notes/IshaGupta18/06-24-2019/code-into-gsoc-19-with-public-lab-code.md
+tagnames: open-source, gsoc, soc, soc-2019
+author: IshaGupta18
+path: /notes/IshaGupta18/06-24-2019/code-into-gsoc-19-with-public-lab-code.md
+nid: 19840
 uid: 568043
-tagnames: open-source,gsoc,soc,soc-2019
+
 ---
 
 # <code> Into GSoC’19 with Public Lab </code>
+
+by [IshaGupta18](../profile/IshaGupta18) June 24, 2019 17:07
+
+June 24, 2019 17:07 | Tags: [open-source](../tag/open-source), [gsoc](../tag/gsoc), [soc](../tag/soc), [soc-2019](../tag/soc-2019)
 
 It's been about 1.5 months since the GSoC result was declared, and it's been a marvelous journey till now, as it will be till the end.
 

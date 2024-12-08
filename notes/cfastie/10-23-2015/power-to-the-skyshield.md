@@ -1,12 +1,18 @@
 ---
-nid: 12330
 title: Power to the SkyShield
-path: public/static/notes/cfastie/10-23-2015/power-to-the-skyshield.md
+tagnames: kite-mapping, vermont, kite, saturnv, skyshield, response:12323
+author: cfastie
+path: /notes/cfastie/10-23-2015/power-to-the-skyshield.md
+nid: 12330
 uid: 554
-tagnames: kite-mapping,vermont,kite,saturnv,skyshield,response:12323
+
 ---
 
 # Power to the SkyShield
+
+by [cfastie](../profile/cfastie) October 23, 2015 18:43
+
+October 23, 2015 18:43 | Tags: [kite-mapping](../tag/kite-mapping), [vermont](../tag/vermont), [kite](../tag/kite), [saturnv](../tag/saturnv), [skyshield](../tag/skyshield), [response:12323](../tag/response:12323)
 
 *Above: The dreaded result when the SkyShield batteries get too low to drive the servos correctly. After eight shots of mostly sky, the Saturn V Rig should be tilting down for 17 shots of mostly earth. With low batteries the tilting rarely happens and most of the photos are of sky. Pretty, but mostly useless.*
 

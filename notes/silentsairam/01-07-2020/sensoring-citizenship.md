@@ -1,12 +1,18 @@
 ---
-nid: 22231
 title: Sensoring Citizenship 
-path: public/static/notes/silentsairam/01-07-2020/sensoring-citizenship.md
+tagnames: air, simple, pollution, sensor, air-sensing, plantower, purple-air, simple-air-sensor, activity:air-sensing, activity:plantower, airsense, lat:10.765577, lon:78.805975
+author: silentsairam
+path: /notes/silentsairam/01-07-2020/sensoring-citizenship.md
+nid: 22231
 uid: 553044
-tagnames: air,simple,pollution,sensor,air-sensing,plantower,purple-air,simple-air-sensor,activity:air-sensing,activity:plantower,airsense,lat:10.765577,lon:78.805975
+
 ---
 
 # Sensoring Citizenship 
+
+by [silentsairam](../profile/silentsairam) January 07, 2020 09:48
+
+January 07, 2020 09:48 | Tags: [air](../tag/air), [simple](../tag/simple), [pollution](../tag/pollution), [sensor](../tag/sensor), [air-sensing](../tag/air-sensing), [plantower](../tag/plantower), [purple-air](../tag/purple-air), [simple-air-sensor](../tag/simple-air-sensor), [activity:air-sensing](../tag/activity:air-sensing), [activity:plantower](../tag/activity:plantower), [airsense](../tag/airsense), [lat:10.765577](../tag/lat:10.765577), [lon:78.805975](../tag/lon:78.805975)
 
 This article enlightens on How Sensor Technology helps citizens to Solve Local Issues. Here we take a DIY (Air Quality Monitoring device) as a Case study.
 

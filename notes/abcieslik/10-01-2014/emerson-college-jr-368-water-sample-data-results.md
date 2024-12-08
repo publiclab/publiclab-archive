@@ -1,12 +1,18 @@
 ---
-nid: 11227
 title: Emerson College JR-368 Water Sample Data Results
-path: public/static/notes/abcieslik/10-01-2014/emerson-college-jr-368-water-sample-data-results.md
+tagnames: water-quality, coqui
+author: abcieslik
+path: /notes/abcieslik/10-01-2014/emerson-college-jr-368-water-sample-data-results.md
+nid: 11227
 uid: 428083
-tagnames: water-quality,coqui
+
 ---
 
 # Emerson College JR-368 Water Sample Data Results
+
+by [abcieslik](../profile/abcieslik) October 01, 2014 20:10
+
+October 01, 2014 20:10 | Tags: [water-quality](../tag/water-quality), [coqui](../tag/coqui)
 
 Findings by Anna Cieslik and Taylor Kiss
 

@@ -1,12 +1,18 @@
 ---
-nid: 13913
 title: A kit to design your own formaldehyde experiment?
-path: public/static/notes/warren/02-09-2017/a-kit-to-design-your-own-formaldehyde-experiment.md
+tagnames: remediation, formaldehyde, indoor-air-quality, prototyping, indoor-air, placebo, study-design, feedback-loop, priming, blind-testing, double-blind, activity:indoor-air-quality
+author: warren
+path: /notes/warren/02-09-2017/a-kit-to-design-your-own-formaldehyde-experiment.md
+nid: 13913
 uid: 1
-tagnames: remediation,formaldehyde,indoor-air-quality,prototyping,indoor-air,placebo,study-design,feedback-loop,priming,blind-testing,double-blind,activity:indoor-air-quality
+
 ---
 
 # A kit to design your own formaldehyde experiment?
+
+by [warren](../profile/warren) February 09, 2017 17:43
+
+February 09, 2017 17:43 | Tags: [remediation](../tag/remediation), [formaldehyde](../tag/formaldehyde), [indoor-air-quality](../tag/indoor-air-quality), [prototyping](../tag/prototyping), [indoor-air](../tag/indoor-air), [placebo](../tag/placebo), [study-design](../tag/study-design), [feedback-loop](../tag/feedback-loop), [priming](../tag/priming), [blind-testing](../tag/blind-testing), [double-blind](../tag/double-blind), [activity:indoor-air-quality](../tag/activity:indoor-air-quality)
 
 ### 
 

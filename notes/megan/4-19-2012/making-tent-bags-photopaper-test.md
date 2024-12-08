@@ -1,12 +1,18 @@
 ---
-nid: 1713
 title: Making tent bags for photopaper test
-path: public/static/notes/megan/4-19-2012/making-tent-bags-photopaper-test.md
-uid: 775
 tagnames: 
+author: megan
+path: /notes/megan/4-19-2012/making-tent-bags-photopaper-test.md
+nid: 1713
+uid: 775
+
 ---
 
 # Making tent bags for photopaper test
+
+by [megan](../profile/megan) April 20, 2012 00:25
+
+April 20, 2012 00:25 | Tags: 
 
 The advantage of using the tent container is that it can be flat packed and shipped in an envelope and then sealed up at the end of the test and shipped back rather in expensively.
 

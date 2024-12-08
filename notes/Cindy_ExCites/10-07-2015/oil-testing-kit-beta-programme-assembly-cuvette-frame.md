@@ -1,12 +1,18 @@
 ---
-nid: 12279
 title: Oil testing kit Beta programme - Assembly: cuvette frame
-path: public/static/notes/Cindy_ExCites/10-07-2015/oil-testing-kit-beta-programme-assembly-cuvette-frame.md
+tagnames: spectrometer, fluorescence, oil-testing-kit, oil-testing-kit-beta
+author: cindy_excites
+path: /notes/Cindy_ExCites/10-07-2015/oil-testing-kit-beta-programme-assembly-cuvette-frame.md
+nid: 12279
 uid: 1083
-tagnames: spectrometer,fluorescence,oil-testing-kit,oil-testing-kit-beta
+
 ---
 
 # Oil testing kit Beta programme - Assembly: cuvette frame
+
+by [cindy_excites](../profile/cindy_excites) October 07, 2015 17:15
+
+October 07, 2015 17:15 | Tags: [spectrometer](../tag/spectrometer), [fluorescence](../tag/fluorescence), [oil-testing-kit](../tag/oil-testing-kit), [oil-testing-kit-beta](../tag/oil-testing-kit-beta)
 
 ##[Oil testing kit Beta programme](http://publiclab.org/notes/ygzstc/07-14-2015/oil-testing-kit-beta-program) - Assembly notes Part 2: cuvette frame##
 

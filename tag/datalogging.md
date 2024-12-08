@@ -1,6 +1,6 @@
 # datalogging
 
-9 notes and wiki pages
+9 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Cloud Sensor Base-Station](/notes/code4maine/02-10-2014/cloud-sensor-base-station) by [ajawitz](../profile/ajawitz)
 - [Data Logging](/wiki/data-logging) (wiki)

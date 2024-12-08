@@ -1,12 +1,18 @@
 ---
-nid: 12351
 title: learning
-path: public/static/wiki/learning.md
+tagnames: community, education, list:plots-education, parent:education
+author: liz
+path: /wiki/learning.md
+nid: 12351
 uid: 7
-tagnames: community,education,list:plots-education,parent:education
+
 ---
 
 # learning
+
+by [liz](../profile/liz)
+
+November 01, 2015 18:17 | Tags: [community](../tag/community), [education](../tag/education), [list:plots-education](../tag/list:plots-education), [parent:education](../tag/parent:education)
 
 From Etienne Wegner, in _Communities of Practice: Learning, Meaning, and Identity_, p7
 

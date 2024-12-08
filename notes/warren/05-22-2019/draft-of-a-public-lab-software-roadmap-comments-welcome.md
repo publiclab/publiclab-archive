@@ -1,12 +1,18 @@
 ---
-nid: 19494
 title: Draft of a Public Lab Software Roadmap: Comments welcome!
-path: public/static/notes/warren/05-22-2019/draft-of-a-public-lab-software-roadmap-comments-welcome.md
+tagnames: software, code, wwg, software-outreach, soc, diagram, roadmap
+author: warren
+path: /notes/warren/05-22-2019/draft-of-a-public-lab-software-roadmap-comments-welcome.md
+nid: 19494
 uid: 1
-tagnames: software,code,wwg,software-outreach,soc,diagram,roadmap
+
 ---
 
 # Draft of a Public Lab Software Roadmap: Comments welcome!
+
+by [warren](../profile/warren) May 22, 2019 19:46
+
+May 22, 2019 19:46 | Tags: [software](../tag/software), [code](../tag/code), [wwg](../tag/wwg), [software-outreach](../tag/software-outreach), [soc](../tag/soc), [diagram](../tag/diagram), [roadmap](../tag/roadmap)
 
 Hi, all - we've been working on this idea for a "Roadmap for Public Lab code projects", as part of our goal to improve transparency, discussion, and the sharing of decision-making in the Public Lab code community. We on the Public Lab staff, and people who've been very involved in PL, use a few different venues to discuss/plan/chart our work, including:
 

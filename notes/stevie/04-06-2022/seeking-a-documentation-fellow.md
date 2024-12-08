@@ -1,12 +1,18 @@
 ---
-nid: 30241
 title: Seeking a Documentation Fellow
-path: public/static/notes/stevie/04-06-2022/seeking-a-documentation-fellow.md
+tagnames: documentation, heavy-metals, pipeline, mining, minnesota, fracking, jobs, midwest, fellows, fellowship, fellow, mill, fellowship-team, anthropology, fellowship-teams, lumber, particle-board, with:bee, story-telling
+author: stevie
+path: /notes/stevie/04-06-2022/seeking-a-documentation-fellow.md
+nid: 30241
 uid: 422561
-tagnames: documentation,heavy-metals,pipeline,mining,minnesota,fracking,jobs,midwest,fellows,fellowship,fellow,mill,fellowship-team,anthropology,fellowship-teams,lumber,particle-board,with:bee,story-telling
+
 ---
 
 # Seeking a Documentation Fellow
+
+by [stevie](../profile/stevie) April 06, 2022 14:20
+
+April 06, 2022 14:20 | Tags: [documentation](../tag/documentation), [heavy-metals](../tag/heavy-metals), [pipeline](../tag/pipeline), [mining](../tag/mining), [minnesota](../tag/minnesota), [fracking](../tag/fracking), [jobs](../tag/jobs), [midwest](../tag/midwest), [fellows](../tag/fellows), [fellowship](../tag/fellowship), [fellow](../tag/fellow), [mill](../tag/mill), [fellowship-team](../tag/fellowship-team), [anthropology](../tag/anthropology), [fellowship-teams](../tag/fellowship-teams), [lumber](../tag/lumber), [particle-board](../tag/particle-board), [with:bee](../tag/with:bee), [story-telling](../tag/story-telling)
 
 _People in canoes on Shell Lake in northern Minnesota collecting Manoomin or wild rice. Wild rice is the traditional and sacred food of the Anishinaabeg, the Indigenous people whose lands are occupied by the State of Minnesota. Manoomin is endemic to the Great Lakes Region and is one of the primary species we are fighting to protect with this Public Labs project.  
 The lead image was pulled from drone footage by River Akemann_

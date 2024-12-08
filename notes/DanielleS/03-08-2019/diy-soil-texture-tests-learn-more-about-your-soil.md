@@ -1,12 +1,18 @@
 ---
-nid: 18491
 title: DIY Soil Texture Tests- Learn more about your soil! 
-path: public/static/notes/DanielleS/03-08-2019/diy-soil-texture-tests-learn-more-about-your-soil.md
+tagnames: soil, seeks:replications, activity:soil, soil-contamination, getting-started-soil, activity:getting-started-soil
+author: DanielleS
+path: /notes/DanielleS/03-08-2019/diy-soil-texture-tests-learn-more-about-your-soil.md
+nid: 18491
 uid: 569208
-tagnames: soil,seeks:replications,activity:soil,soil-contamination,getting-started-soil,activity:getting-started-soil
+
 ---
 
 # DIY Soil Texture Tests- Learn more about your soil! 
+
+by [DanielleS](../profile/DanielleS) March 08, 2019 05:54
+
+March 08, 2019 05:54 | Tags: [soil](../tag/soil), [seeks:replications](../tag/seeks:replications), [activity:soil](../tag/activity:soil), [soil-contamination](../tag/soil-contamination), [getting-started-soil](../tag/getting-started-soil), [activity:getting-started-soil](../tag/activity:getting-started-soil)
 
 ---------
 

@@ -1,12 +1,18 @@
 ---
-nid: 14220
 title: INDOOR AIR QUALITY REMEDIATION KIT
-path: public/static/notes/cguerin/05-22-2017/indoor-air-quality-remediation-kit.md
+tagnames: remediation, air-quality, formaldehyde, indoor-air-quality-monitoring, indoor-air-quality, phytoremediation, first-time-poster, plant-air-purifier-prototypes
+author: cguerin
+path: /notes/cguerin/05-22-2017/indoor-air-quality-remediation-kit.md
+nid: 14220
 uid: 507616
-tagnames: remediation,air-quality,formaldehyde,indoor-air-quality-monitoring,indoor-air-quality,phytoremediation,first-time-poster,plant-air-purifier-prototypes
+
 ---
 
 # INDOOR AIR QUALITY REMEDIATION KIT
+
+by [cguerin](../profile/cguerin) May 22, 2017 17:54
+
+May 22, 2017 17:54 | Tags: [remediation](../tag/remediation), [air-quality](../tag/air-quality), [formaldehyde](../tag/formaldehyde), [indoor-air-quality-monitoring](../tag/indoor-air-quality-monitoring), [indoor-air-quality](../tag/indoor-air-quality), [phytoremediation](../tag/phytoremediation), [first-time-poster](../tag/first-time-poster), [plant-air-purifier-prototypes](../tag/plant-air-purifier-prototypes)
 
 ---------
 

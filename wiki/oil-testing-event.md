@@ -1,12 +1,18 @@
 ---
-nid: 11304
 title: Oil Testing Event
-path: public/static/wiki/oil-testing-event.md
+tagnames: event, oil-testing, parent:oil-testing-kit, activity:teach-and-learn, activity:events
+author: liz
+path: /wiki/oil-testing-event.md
+nid: 11304
 uid: 7
-tagnames: event,oil-testing,parent:oil-testing-kit,activity:teach-and-learn,activity:events
+
 ---
 
 # Oil Testing Event
+
+by [stevie](../profile/stevie), [liz](../profile/liz)
+
+October 27, 2014 20:33 | Tags: [event](../tag/event), [oil-testing](../tag/oil-testing), [parent:oil-testing-kit](../tag/parent:oil-testing-kit), [activity:teach-and-learn](../tag/activity:teach-and-learn), [activity:events](../tag/activity:events)
 
 Oil Testing Workshop
 

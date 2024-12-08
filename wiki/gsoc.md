@@ -1,12 +1,18 @@
 ---
-nid: 7963
 title: Summer of Code programs
-path: public/static/wiki/gsoc.md
+tagnames: gsoc, list:plots-gsoc, developers, parent:developers, soc-2017, questions, soc-2018, outreachy-2018, soc-2019, outreachy-2019, pin:gsoc, pin:soc, pin:outreachy
+author: warren
+path: /wiki/gsoc.md
+nid: 7963
 uid: 1
-tagnames: gsoc,list:plots-gsoc,developers,parent:developers,soc-2017,questions,soc-2018,outreachy-2018,soc-2019,outreachy-2019,pin:gsoc,pin:soc,pin:outreachy
+
 ---
 
 # Summer of Code programs
+
+by [warren](../profile/warren), [ruthnwaiganjo](../profile/ruthnwaiganjo), [stevie](../profile/stevie), [liz](../profile/liz)
+
+May 29, 2013 18:19 | Tags: [gsoc](../tag/gsoc), [list:plots-gsoc](../tag/list:plots-gsoc), [developers](../tag/developers), [parent:developers](../tag/parent:developers), [soc-2017](../tag/soc-2017), [questions](../tag/questions), [soc-2018](../tag/soc-2018), [outreachy-2018](../tag/outreachy-2018), [soc-2019](../tag/soc-2019), [outreachy-2019](../tag/outreachy-2019), [pin:gsoc](../tag/pin:gsoc), [pin:soc](../tag/pin:soc), [pin:outreachy](../tag/pin:outreachy)
 
 Public Lab has received support for fellows to work on Public Lab software projects via several "Summer of Code" style programs including [Google's Summer of Code program](https://summerofcode.withgoogle.com) -- 2021 is our eighth great year of open-source coding with GSoC! In 2017 and 2018 we also joined the [Rails Girls Summer of Code](https://railsgirlssummerofcode.org/) program, and in 2018 we participated in [Outreachy](https://outreachy.org).
 

@@ -1,12 +1,18 @@
 ---
-nid: 11221
 title: Conductivity Results, Group 1 EmersonDataViz 
-path: public/static/notes/ElizabethGillis/10-01-2014/conductivity-results-group-1-emersondataviz.md
+tagnames: boston, conductivity, coqui, first-time-poster
+author: ElizabethGillis
+path: /notes/ElizabethGillis/10-01-2014/conductivity-results-group-1-emersondataviz.md
+nid: 11221
 uid: 428096
-tagnames: boston,conductivity,coqui,first-time-poster
+
 ---
 
 # Conductivity Results, Group 1 EmersonDataViz 
+
+by [ElizabethGillis](../profile/ElizabethGillis) October 01, 2014 15:55
+
+October 01, 2014 15:55 | Tags: [boston](../tag/boston), [conductivity](../tag/conductivity), [coqui](../tag/coqui), [first-time-poster](../tag/first-time-poster)
 
 Group 1: Elizabeth Gillis and Amanda Gomez 
 

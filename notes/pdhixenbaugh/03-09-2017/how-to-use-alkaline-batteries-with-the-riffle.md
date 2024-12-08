@@ -1,12 +1,18 @@
 ---
-nid: 13996
 title: How to use Alkaline Batteries with the Riffle?
-path: public/static/notes/pdhixenbaugh/03-09-2017/how-to-use-alkaline-batteries-with-the-riffle.md
+tagnames: riffle, question:riffle, answered
+author: pdhixenbaugh
+path: /notes/pdhixenbaugh/03-09-2017/how-to-use-alkaline-batteries-with-the-riffle.md
+nid: 13996
 uid: 459085
-tagnames: riffle,question:riffle,answered
+
 ---
 
 # How to use Alkaline Batteries with the Riffle?
+
+by [pdhixenbaugh](../profile/pdhixenbaugh) March 09, 2017 18:47
+
+March 09, 2017 18:47 | Tags: [riffle](../tag/riffle), [question:riffle](../tag/question:riffle), [answered](../tag/answered)
 
 # The question in general
 

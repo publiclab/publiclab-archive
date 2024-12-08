@@ -1,12 +1,18 @@
 ---
-nid: 13630
 title: Leptos: gas detection and monitoring station
-path: public/static/notes/imvec/10-20-2016/leptos-gas-detection-and-monitoring-station.md
+tagnames: arduino, barcelona, spain, air-quality, espana, gas-sensor, air-monitoring, activity:open-air, gas-monitoring, grove, first-time-poster
+author: imvec
+path: /notes/imvec/10-20-2016/leptos-gas-detection-and-monitoring-station.md
+nid: 13630
 uid: 495038
-tagnames: arduino,barcelona,spain,air-quality,espana,gas-sensor,air-monitoring,activity:open-air,gas-monitoring,grove,first-time-poster
+
 ---
 
 # Leptos: gas detection and monitoring station
+
+by [imvec](../profile/imvec) October 20, 2016 13:14
+
+October 20, 2016 13:14 | Tags: [arduino](../tag/arduino), [barcelona](../tag/barcelona), [spain](../tag/spain), [air-quality](../tag/air-quality), [espana](../tag/espana), [gas-sensor](../tag/gas-sensor), [air-monitoring](../tag/air-monitoring), [activity:open-air](../tag/activity:open-air), [gas-monitoring](../tag/gas-monitoring), [grove](../tag/grove), [first-time-poster](../tag/first-time-poster)
 
 ###What's Leptos
 Leptos is a project in development for the construction of a gas detection and monitoring station to be deployed in the field for long periods of time. It will be equipped with MQ-2 sensors for the detection and monitoring of lethal gases, a PPD42 sensor to measure PM10 and PM2.5 solid particles in suspension and a BME280 of temperature-humidity - barometer. Leptos station is thought to be located in the vicinity of highly contaminated areas and carry out monitoring in real time of lethal gases and solid suspended particles. It will be connected to the I.M.V.E.C. online platform via Wifi or GPRS connection. 

@@ -1,12 +1,18 @@
 ---
-nid: 12864
 title: Blood component analysis using Finger Tip video image
-path: public/static/notes/mdkamrulhasan/03-20-2016/blood-component-analysis-using-finger-tip-video-image.md
-uid: 468879
 tagnames: 
+author: mdkamrulhasan
+path: /notes/mdkamrulhasan/03-20-2016/blood-component-analysis-using-finger-tip-video-image.md
+nid: 12864
+uid: 468879
+
 ---
 
 # Blood component analysis using Finger Tip video image
+
+by [mdkamrulhasan](../profile/mdkamrulhasan) March 20, 2016 02:03
+
+March 20, 2016 02:03 | Tags: 
 
 Goal: Non invasive way Blood component analysis using Finger Tip video image by smart phone
 

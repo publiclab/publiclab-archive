@@ -1,12 +1,18 @@
 ---
-nid: 19504
 title: sandbox-edu-microscope
-path: public/static/wiki/sandbox-edu-microscope.md
-uid: 579821
 tagnames: 
+author: mimiss
+path: /wiki/sandbox-edu-microscope.md
+nid: 19504
+uid: 579821
+
 ---
 
 # sandbox-edu-microscope
+
+by [mimiss](../profile/mimiss)
+
+May 23, 2019 15:10 | Tags: 
 
 With the Public Lab Community Microscope, your students can explore the invisible microscopic world around them using a microscope they've built themselves! This microscope is the result of many teams' work coming together. You can learn more about the journey on our [Kickstarter](https://www.kickstarter.com/projects/publiclab/the-community-microscope-kit)
 

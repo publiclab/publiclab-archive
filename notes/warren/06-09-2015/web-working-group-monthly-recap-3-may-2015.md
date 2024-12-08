@@ -1,12 +1,18 @@
 ---
-nid: 11963
 title: Web Working Group Monthly Recap 3: May 2015
-path: public/static/notes/warren/06-09-2015/web-working-group-monthly-recap-3-may-2015.md
+tagnames: mapknitter, web-development, software, plots2, spectral-workbench, web-wg, wwg, response:11734, webwg
+author: warren
+path: /notes/warren/06-09-2015/web-working-group-monthly-recap-3-may-2015.md
+nid: 11963
 uid: 1
-tagnames: mapknitter,web-development,software,plots2,spectral-workbench,web-wg,wwg,response:11734,webwg
+
 ---
 
 # Web Working Group Monthly Recap 3: May 2015
+
+by [warren](../profile/warren) June 09, 2015 20:24
+
+June 09, 2015 20:24 | Tags: [mapknitter](../tag/mapknitter), [web-development](../tag/web-development), [software](../tag/software), [plots2](../tag/plots2), [spectral-workbench](../tag/spectral-workbench), [web-wg](../tag/web-wg), [wwg](../tag/wwg), [response:11734](../tag/response:11734), [webwg](../tag/webwg)
 
 Web Working Group Monthly Recap 3: May 2015
 

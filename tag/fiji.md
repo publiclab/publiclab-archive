@@ -1,6 +1,6 @@
 # fiji
 
-14 notes and wiki pages
+14 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [photo-monitoring-plugin](/wiki/photo-monitoring-plugin) (wiki)
 - [Creating NDVI images?](/notes/rway/05-13-2014/creating-ndvi-images) by [rway](../profile/rway)

@@ -1,12 +1,18 @@
 ---
-nid: 16269
 title: Lensless holograpic microscope
-path: public/static/notes/amirberAgain/04-30-2018/lensless-holograpic-microscope.md
+tagnames: holographic, microscope, microscopy, microscopes, lensless, geekcon
+author: amirberAgain
+path: /notes/amirberAgain/04-30-2018/lensless-holograpic-microscope.md
+nid: 16269
 uid: 420776
-tagnames: holographic,microscope,microscopy,microscopes,lensless,geekcon
+
 ---
 
 # Lensless holograpic microscope
+
+by [amirberAgain](../profile/amirberAgain) April 30, 2018 07:25
+
+April 30, 2018 07:25 | Tags: [holographic](../tag/holographic), [microscope](../tag/microscope), [microscopy](../tag/microscopy), [microscopes](../tag/microscopes), [lensless](../tag/lensless), [geekcon](../tag/geekcon)
 
 I will post a more detailed description here over the coming days.
 

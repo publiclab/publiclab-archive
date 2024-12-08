@@ -1,12 +1,18 @@
 ---
-nid: 13674
 title: The Barnraiser 2015
-path: public/static/wiki/the-barnraiser-2015.md
-uid: 1
 tagnames: 
+author: warren
+path: /wiki/the-barnraiser-2015.md
+nid: 13674
+uid: 1
+
 ---
 
 # The Barnraiser 2015
+
+by [warren](../profile/warren)
+
+November 03, 2016 17:14 | Tags: 
 
 
 For 2015, we did a digital layout using Google Drawings, and [the template is here](https://docs.google.com/drawings/d/1l9O7oA79tKwvZzY9GvWddWl05wi-cJj2KYOsX5xSCWs/edit). 

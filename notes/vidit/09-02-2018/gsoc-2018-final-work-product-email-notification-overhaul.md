@@ -1,12 +1,18 @@
 ---
-nid: 17039
 title: Gsoc 2018: Final Work Product - Email notification overhaul
-path: public/static/notes/vidit/09-02-2018/gsoc-2018-final-work-product-email-notification-overhaul.md
+tagnames: software, gsoc, gsoc-2018, soc-2018, gsoc-2018-final, soc-2018-final-report, email-notification-overhaul, customized-digest, emojification
+author: vidit
+path: /notes/vidit/09-02-2018/gsoc-2018-final-work-product-email-notification-overhaul.md
+nid: 17039
 uid: 517093
-tagnames: software,gsoc,gsoc-2018,soc-2018,gsoc-2018-final,soc-2018-final-report,email-notification-overhaul,customized-digest,emojification
+
 ---
 
 # Gsoc 2018: Final Work Product - Email notification overhaul
+
+by [vidit](../profile/vidit) September 02, 2018 16:13
+
+September 02, 2018 16:13 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [gsoc-2018](../tag/gsoc-2018), [soc-2018](../tag/soc-2018), [gsoc-2018-final](../tag/gsoc-2018-final), [soc-2018-final-report](../tag/soc-2018-final-report), [email-notification-overhaul](../tag/email-notification-overhaul), [customized-digest](../tag/customized-digest), [emojification](../tag/emojification)
 
 ```
 ## GSoC 2018 (Email Notification Overhaul)

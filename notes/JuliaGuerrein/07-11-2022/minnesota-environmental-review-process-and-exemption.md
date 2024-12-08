@@ -1,12 +1,18 @@
 ---
-nid: 31271
 title: Minnesota environmental review process—and exemption
-path: public/static/notes/JuliaGuerrein/07-11-2022/minnesota-environmental-review-process-and-exemption.md
+tagnames: minnesota, mn-land-manoomin-protection, great-lakes-region, environmental-review, environmental-impact-statement
+author: JuliaGuerrein
+path: /notes/JuliaGuerrein/07-11-2022/minnesota-environmental-review-process-and-exemption.md
+nid: 31271
 uid: 796025
-tagnames: minnesota,mn-land-manoomin-protection,great-lakes-region,environmental-review,environmental-impact-statement
+
 ---
 
 # Minnesota environmental review process—and exemption
+
+by [JuliaGuerrein](../profile/JuliaGuerrein) July 11, 2022 10:59
+
+July 11, 2022 10:59 | Tags: [minnesota](../tag/minnesota), [mn-land-manoomin-protection](../tag/mn-land-manoomin-protection), [great-lakes-region](../tag/great-lakes-region), [environmental-review](../tag/environmental-review), [environmental-impact-statement](../tag/environmental-impact-statement)
 
 In 1973, the Minnesota legislature established an environmental review process through the Minnesota Environmental Policy Act of 1973 (the Act). The Act established an Environmental Quality Board (EQB), which creates rules in order to carry out the mandate of the Act. The EQB includes a representative from the governor's office, those in charge of nine state agencies related to environment and development, and seven appointed citizen members. Appointed members apply to become members of the EQB and then the governor appoints the members with the advice and consent of the Minnesota Senate. EQB advises organizations on the procedures of environmental review and oversees the review process. More information available [here](https://www.eqb.state.mn.us/sites/default/files/documents/Introduction.pdf "https://www.eqb.state.mn.us/sites/default/files/documents/Introduction.pdf") and [here](https://www.eqb.state.mn.us/join-board).__ 
 

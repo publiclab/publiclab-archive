@@ -1,12 +1,18 @@
 ---
-nid: 11565
 title: Open Sourcing Jerusalem
-path: public/static/wiki/open-sourcing-jerusalem.md
+tagnames: style:fancy, with:hagitkeysar
+author: mollydanielsson
+path: /wiki/open-sourcing-jerusalem.md
+nid: 11565
 uid: 1259
-tagnames: style:fancy,with:hagitkeysar
+
 ---
 
 # Open Sourcing Jerusalem
+
+by [mollydanielsson](../profile/mollydanielsson)
+
+February 08, 2015 01:26 | Tags: [style:fancy](../tag/style:fancy), [with:hagitkeysar](../tag/with:hagitkeysar)
 
  by [Hagit Keysar](http://publiclab.org/profile/hagitkeysar)
 

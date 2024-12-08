@@ -1,6 +1,6 @@
 # student-community-science
 
-11 notes and wiki pages
+11 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Student-led Community Science: A Curriculum](/wiki/student-led-community-science-in-the-classroom-a-curriculum) (wiki)
 - [Gulf Coast Educator's Workshop Summer 2019](/notes/mimiss/07-11-2019/gulf-coast-educator-s-workshop-summer-2019) by [mimiss](../profile/mimiss)

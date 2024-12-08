@@ -1,12 +1,18 @@
 ---
-nid: 13320
 title: Absorption spectra of extra virgin olive oil-Supplementation part III 
-path: public/static/notes/dhaffnersr/08-01-2016/absorption-spectra-of-extra-virgin-olive-oil-supplementation-part-iii.md
-uid: 461120
 tagnames: 
+author: dhaffnersr
+path: /notes/dhaffnersr/08-01-2016/absorption-spectra-of-extra-virgin-olive-oil-supplementation-part-iii.md
+nid: 13320
+uid: 461120
+
 ---
 
 # Absorption spectra of extra virgin olive oil-Supplementation part III 
+
+by [dhaffnersr](../profile/dhaffnersr) August 01, 2016 11:51
+
+August 01, 2016 11:51 | Tags: 
 
 ##**Supplemental analysis of initial absorption spectrum, related to Dave Stoft's challenge: Chemical analysis of Extra Virgin Olive Oil sample SP07-C0[4] (Chlorophyll [A] and Chlorophyll [B].**
 

@@ -1,12 +1,18 @@
 ---
-nid: 19506
 title: Thinking through Research Area Reviews 
-path: public/static/notes/stevie/05-23-2019/thinking-through-research-area-reviews.md
+tagnames: community, organizers, research, organizer, community-development
+author: stevie
+path: /notes/stevie/05-23-2019/thinking-through-research-area-reviews.md
+nid: 19506
 uid: 422561
-tagnames: community,organizers,research,organizer,community-development
+
 ---
 
 # Thinking through Research Area Reviews 
+
+by [stevie](../profile/stevie) May 23, 2019 20:45
+
+May 23, 2019 20:45 | Tags: [community](../tag/community), [organizers](../tag/organizers), [research](../tag/research), [organizer](../tag/organizer), [community-development](../tag/community-development)
 
 ###Probem: 
 There’s a lot of information on topical areas of research on Public Lab, but it’s hard to understand “the current state of things.” For example, Public Lab has a lot of information on tools such as spectrometers, and areas of interest such as turbidity and water monitoring. However currently, we don’t have a clear process for synthesizing the existing material.  

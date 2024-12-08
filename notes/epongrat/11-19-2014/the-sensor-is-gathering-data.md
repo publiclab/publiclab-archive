@@ -1,12 +1,18 @@
 ---
-nid: 11369
 title: Pollution to Solution: The sensor is gathering data!
-path: public/static/notes/epongrat/11-19-2014/the-sensor-is-gathering-data.md
+tagnames: air-quality, umass-amherst, amherst-media, 5-college, publiclab-at-umass
+author: epongrat
+path: /notes/epongrat/11-19-2014/the-sensor-is-gathering-data.md
+nid: 11369
 uid: 428825
-tagnames: air-quality,umass-amherst,amherst-media,5-college,publiclab-at-umass
+
 ---
 
 # Pollution to Solution: The sensor is gathering data!
+
+by [epongrat](../profile/epongrat) November 19, 2014 20:53
+
+November 19, 2014 20:53 | Tags: [air-quality](../tag/air-quality), [umass-amherst](../tag/umass-amherst), [amherst-media](../tag/amherst-media), [5-college](../tag/5-college), [publiclab-at-umass](../tag/publiclab-at-umass)
 
 ###What I want to do
 I want to measure ozone and NO2 in the air at two high schools in Springfield. Currently I would like to use code to program my sainsmart ozone module to talk to my adafruit datalogger shield through my arduino uno.

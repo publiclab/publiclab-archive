@@ -1,12 +1,18 @@
 ---
-nid: 10043
 title: NDVI 720nm, 850nm filter two camera setup result.
-path: public/static/notes/gpenzo/02-16-2014/ndvi-720nm-850nm-filter-two-camera-setup-result.md
+tagnames: near-infrared-camera, ndvi, nir, canon
+author: gpenzo
+path: /notes/gpenzo/02-16-2014/ndvi-720nm-850nm-filter-two-camera-setup-result.md
+nid: 10043
 uid: 420719
-tagnames: near-infrared-camera,ndvi,nir,canon
+
 ---
 
 # NDVI 720nm, 850nm filter two camera setup result.
+
+by [gpenzo](../profile/gpenzo) February 16, 2014 17:01
+
+February 16, 2014 17:01 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [nir](../tag/nir), [canon](../tag/canon)
 
 ###What I want to do
 I made a simple test two day with my canon [two camera setup](http://publiclab.org/notes/gpenzo/02-09-2014/nvdi-with-canon-a2500).

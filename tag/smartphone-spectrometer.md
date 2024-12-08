@@ -1,6 +1,6 @@
 # smartphone-spectrometer
 
-10 notes and wiki pages
+10 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Smartphone spectrometer molded samples have arrived!](/notes/warren/08-20-2013/smartphone-spectrometer-molded-samples-have-arrived) by [warren](../profile/warren)
 - [Smartphone spectrometer](/wiki/smartphone-spectrometer) (wiki)

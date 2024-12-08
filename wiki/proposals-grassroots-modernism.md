@@ -1,12 +1,18 @@
 ---
-nid: 152
 title: Proposals: Grassroots Modernism
-path: public/static/wiki/proposals-grassroots-modernism.md
-uid: 1
 tagnames: 
+author: warren
+path: /wiki/proposals-grassroots-modernism.md
+nid: 152
+uid: 1
+
 ---
 
 # Proposals: Grassroots Modernism
+
+by [warren](../profile/warren)
+
+April 04, 2011 21:22 | Tags: 
 
 ##Journal of Aesthetics and Protest Press: Grassroots Modernism##
 

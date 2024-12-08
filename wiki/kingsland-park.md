@@ -1,12 +1,18 @@
 ---
-nid: 9445
 title: Kingsland Park
-path: public/static/wiki/kingsland-park.md
+tagnames: balloon-mapping, new-jersey, nutley_nj, kingsland-park
+author: gdotoli
+path: /wiki/kingsland-park.md
+nid: 9445
 uid: 312022
-tagnames: balloon-mapping,new-jersey,nutley_nj,kingsland-park
+
 ---
 
 # Kingsland Park
+
+by [gdotoli](../profile/gdotoli)
+
+October 13, 2013 00:32 | Tags: [balloon-mapping](../tag/balloon-mapping), [new-jersey](../tag/new-jersey), [nutley_nj](../tag/nutley_nj), [kingsland-park](../tag/kingsland-park)
 
 This is the beginning of a map of Kingsland Park in Nutley, NJ.
 We are beginning the first phase of the aerial photography process. This morning we 

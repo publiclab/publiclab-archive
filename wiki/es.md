@@ -1,12 +1,18 @@
 ---
-nid: 5
 title: El Laboratorio Publico
-path: public/static/wiki/es.md
-uid: 1
 tagnames: lang:es
+author: warren
+path: /wiki/es.md
+nid: 5
+uid: 1
+
 ---
 
 # El Laboratorio Publico
+
+by [warren](../profile/warren)
+
+December 07, 2010 07:07 | Tags: [lang:es](../tag/lang:es)
 
 <style>h1 {display:none;}</style>
 <img src="https://publiclab.org/sites/default/files/plots-header.png" />

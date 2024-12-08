@@ -1,12 +1,18 @@
 ---
-nid: 15148
 title: How to best write a debrief of a session at Barnraising?
-path: public/static/notes/pdhixenbaugh/11-04-2017/how-to-best-write-a-debrief-of-a-session-at-barnraising.md
+tagnames: documentation, barnraising, question:question, question:barnraising, barnraising2017, question:hosting-materials
+author: pdhixenbaugh
+path: /notes/pdhixenbaugh/11-04-2017/how-to-best-write-a-debrief-of-a-session-at-barnraising.md
+nid: 15148
 uid: 459085
-tagnames: documentation,barnraising,question:question,question:barnraising,barnraising2017,question:hosting-materials
+
 ---
 
 # How to best write a debrief of a session at Barnraising?
+
+by [pdhixenbaugh](../profile/pdhixenbaugh) November 04, 2017 15:15
+
+November 04, 2017 15:15 | Tags: [documentation](../tag/documentation), [barnraising](../tag/barnraising), [question:question](../tag/question:question), [question:barnraising](../tag/question:barnraising), [barnraising2017](../tag/barnraising2017), [question:hosting-materials](../tag/question:hosting-materials)
 
 At every Barnraising session, there are a few notetakers with the goal of documenting and sharing back with the larger Public Lab community.
 

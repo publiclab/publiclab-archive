@@ -1,12 +1,18 @@
 ---
-nid: 11797
 title: How to Map
-path: public/static/wiki/how-to-map.md
+tagnames: balloon-mapping, kite-mapping, kite, polemapping, mapping, balloon, pole, pole-mapping, parent:wetlands-toolkit, activity:mapping
+author: stevie
+path: /wiki/how-to-map.md
+nid: 11797
 uid: 422561
-tagnames: balloon-mapping,kite-mapping,kite,polemapping,mapping,balloon,pole,pole-mapping,parent:wetlands-toolkit,activity:mapping
+
 ---
 
 # How to Map
+
+by [stevie](../profile/stevie), [Shannon](../profile/Shannon)
+
+May 08, 2015 18:30 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [kite](../tag/kite), [polemapping](../tag/polemapping), [mapping](../tag/mapping), [balloon](../tag/balloon), [pole](../tag/pole), [pole-mapping](../tag/pole-mapping), [parent:wetlands-toolkit](../tag/parent:wetlands-toolkit), [activity:mapping](../tag/activity:mapping)
 
 ##Workshop 3: How to Map
 

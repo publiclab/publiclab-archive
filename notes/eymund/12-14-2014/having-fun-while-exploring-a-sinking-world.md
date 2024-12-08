@@ -1,12 +1,18 @@
 ---
-nid: 11455
 title: Having Fun while Exploring a Sinking World
-path: public/static/notes/eymund/12-14-2014/having-fun-while-exploring-a-sinking-world.md
+tagnames: new-york-city, gulf-coast, kite-mapping, wetlands, kite, mapping, barnraising, lat:29.382175, lon:-90.62622, place:cocodrie-louisiana
+author: eymund
+path: /notes/eymund/12-14-2014/having-fun-while-exploring-a-sinking-world.md
+nid: 11455
 uid: 1016
-tagnames: new-york-city,gulf-coast,kite-mapping,wetlands,kite,mapping,barnraising,lat:29.382175,lon:-90.62622,place:cocodrie-louisiana
+
 ---
 
 # Having Fun while Exploring a Sinking World
+
+by [eymund](../profile/eymund) December 14, 2014 13:19
+
+December 14, 2014 13:19 | Tags: [new-york-city](../tag/new-york-city), [gulf-coast](../tag/gulf-coast), [kite-mapping](../tag/kite-mapping), [wetlands](../tag/wetlands), [kite](../tag/kite), [mapping](../tag/mapping), [barnraising](../tag/barnraising), [lat:29.382175](../tag/lat:29.382175), [lon:-90.62622](../tag/lon:-90.62622), [place:cocodrie-louisiana](../tag/place:cocodrie-louisiana)
 
 "_..I see everything that made me lying around in invisible pieces._ When I look too hard, it goes away. And when it all goes quiet, I see they are right here. I see that I'm a little piece in a big, big universe. "
 

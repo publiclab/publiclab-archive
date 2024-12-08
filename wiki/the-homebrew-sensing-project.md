@@ -1,12 +1,18 @@
 ---
-nid: 10067
 title: The Homebrew Sensing Project
-path: public/static/wiki/the-homebrew-sensing-project.md
+tagnames: spectrometer, tabbed:notes
+author: warren
+path: /wiki/the-homebrew-sensing-project.md
+nid: 10067
 uid: 1
-tagnames: spectrometer,tabbed:notes
+
 ---
 
 # The Homebrew Sensing Project
+
+by [Becki](../profile/Becki), [warren](../profile/warren)
+
+February 26, 2014 16:39 | Tags: [spectrometer](../tag/spectrometer), [tabbed:notes](../tag/tabbed:notes)
 
 <iframe width="640" height="360" src="//www.youtube.com/embed/TIwvv_EXgmY?rel=0" frameborder="0" allowfullscreen></iframe>
 

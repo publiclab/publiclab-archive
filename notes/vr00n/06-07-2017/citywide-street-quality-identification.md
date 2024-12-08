@@ -1,12 +1,18 @@
 ---
-nid: 14510
 title: Citywide Street Quality Identification
-path: public/static/notes/vr00n/06-07-2017/citywide-street-quality-identification.md
+tagnames: street-quality, potholes, bike-lanes
+author: vr00n
+path: /notes/vr00n/06-07-2017/citywide-street-quality-identification.md
+nid: 14510
 uid: 508616
-tagnames: street-quality,potholes,bike-lanes
+
 ---
 
 # Citywide Street Quality Identification
+
+by [vr00n](../profile/vr00n) June 07, 2017 23:40
+
+June 07, 2017 23:40 | Tags: [street-quality](../tag/street-quality), [potholes](../tag/potholes), [bike-lanes](../tag/bike-lanes)
 
 Please follow through on.  
 

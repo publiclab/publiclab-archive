@@ -1,12 +1,18 @@
 ---
-nid: 11047
 title: Increasing brightness of fluorescence spectra
-path: public/static/notes/warren/08-13-2014/increasing-brightness-of-fluorescence-spectra.md
+tagnames: spectrometer, kits, fluorescence, desktop-spectrometer, sensitivity, oil-testing-kit, exposure, response:11006, brightness
+author: warren
+path: /notes/warren/08-13-2014/increasing-brightness-of-fluorescence-spectra.md
+nid: 11047
 uid: 1
-tagnames: spectrometer,kits,fluorescence,desktop-spectrometer,sensitivity,oil-testing-kit,exposure,response:11006,brightness
+
 ---
 
 # Increasing brightness of fluorescence spectra
+
+by [warren](../profile/warren) August 13, 2014 22:19
+
+August 13, 2014 22:19 | Tags: [spectrometer](../tag/spectrometer), [kits](../tag/kits), [fluorescence](../tag/fluorescence), [desktop-spectrometer](../tag/desktop-spectrometer), [sensitivity](../tag/sensitivity), [oil-testing-kit](../tag/oil-testing-kit), [exposure](../tag/exposure), [response:11006](../tag/response:11006), [brightness](../tag/brightness)
 
 ###What I want to do
 

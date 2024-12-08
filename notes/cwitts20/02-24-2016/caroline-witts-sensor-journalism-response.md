@@ -1,12 +1,18 @@
 ---
-nid: 12728
 title: Caroline Witts Sensor Journalism Response
-path: public/static/notes/cwitts20/02-24-2016/caroline-witts-sensor-journalism-response.md
+tagnames: journalism, sensor, sensor-journalism, response:12748, hidden:response
+author: cwitts20
+path: /notes/cwitts20/02-24-2016/caroline-witts-sensor-journalism-response.md
+nid: 12728
 uid: 461484
-tagnames: journalism,sensor,sensor-journalism,response:12748,hidden:response
+
 ---
 
 # Caroline Witts Sensor Journalism Response
+
+by [cwitts20](../profile/cwitts20) February 24, 2016 02:02
+
+February 24, 2016 02:02 | Tags: [journalism](../tag/journalism), [sensor](../tag/sensor), [sensor-journalism](../tag/sensor-journalism), [response:12748](../tag/response:12748), [hidden:response](../tag/hidden:response)
 
 Before this class, I had a very limited knowledge of the world of sensor journalism. I thought sensors were strictly used for gathering data for scientific experiments and had no room in the world of journalism. However, after listening to Patrick Herron and Lily Bulli’s presentations and participating in our in-class water conductivity workshop, I’ve discovered just how useful sensors can be when it comes to reporting. 
 	There are huge benefits to using data to tell stories. Mainly, in comparison to interviewing people, data can be a much more reliable source of information. Asking someone about whether they think the Mystic River is polluted is not the same as actually testing a sample and gathering concrete, numeric evidence that proves it is. Data adds a level of authenticity to your story that simple word of mouth can’t match. 

@@ -1,12 +1,18 @@
 ---
-nid: 5983
 title: Flying off wind with the Dazzle Delta
-path: public/static/notes/mathew/2-14-2013/flying-wind-dazzle-delta.md
+tagnames: portland, kite-mapping, kite-fishing, kites, kite-techniques, off-wind-flying
+author: mathew
+path: /notes/mathew/2-14-2013/flying-wind-dazzle-delta.md
+nid: 5983
 uid: 4
-tagnames: portland,kite-mapping,kite-fishing,kites,kite-techniques,off-wind-flying
+
 ---
 
 # Flying off wind with the Dazzle Delta
+
+by [mathew](../profile/mathew) February 14, 2013 19:43
+
+February 14, 2013 19:43 | Tags: [portland](../tag/portland), [kite-mapping](../tag/kite-mapping), [kite-fishing](../tag/kite-fishing), [kites](../tag/kites), [kite-techniques](../tag/kite-techniques), [off-wind-flying](../tag/off-wind-flying)
 
 Last sunday I got a chance to test out off-wind flying with the three tail attachment points on my G-kites Dazzle delta in super low winds less than 4mph on the ground, a little more above. not enough to lift a camera. I practiced in the Willamette Valley (portland, OR) for the steady winds, and also to use the Steel Bridge in the background as a reference.
 

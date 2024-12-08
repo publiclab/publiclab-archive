@@ -1,12 +1,18 @@
 ---
-nid: 27807
 title: Recap of Greenpeace's Data Activist Co-op 2021
-path: public/static/notes/laurel_mire/09-28-2021/recap-of-greenpeace-s-data-activist-co-op-2021.md
+tagnames: data, data-analysis, data-visualization, data-activism, research-curation-fellows, with:julia_e_masters, presenting-data, with:fongvania, air-quality-data, data-advocacy
+author: laurel_mire
+path: /notes/laurel_mire/09-28-2021/recap-of-greenpeace-s-data-activist-co-op-2021.md
+nid: 27807
 uid: 759178
-tagnames: data,data-analysis,data-visualization,data-activism,research-curation-fellows,with:julia_e_masters,presenting-data,with:fongvania,air-quality-data,data-advocacy
+
 ---
 
 # Recap of Greenpeace's Data Activist Co-op 2021
+
+by [laurel_mire](../profile/laurel_mire) September 28, 2021 20:03
+
+September 28, 2021 20:03 | Tags: [data](../tag/data), [data-analysis](../tag/data-analysis), [data-visualization](../tag/data-visualization), [data-activism](../tag/data-activism), [research-curation-fellows](../tag/research-curation-fellows), [with:julia_e_masters](../tag/with:julia_e_masters), [presenting-data](../tag/presenting-data), [with:fongvania](../tag/with:fongvania), [air-quality-data](../tag/air-quality-data), [data-advocacy](../tag/data-advocacy)
 
 This three day virtual collaboration brought together social & environmental justice organizations, data & GIS professionals, activists, community leaders, scientists. and climate leaders. **Greenpeace’s framework of open data is rooted in similar values as Public Lab’s, specifically, that in using data for activism, we must work to reduce harm caused by biased data collection and fight to change the imbalance of information power and availability.**
 

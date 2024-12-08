@@ -1,6 +1,6 @@
 # lego
 
-13 notes and wiki pages
+13 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Air-testing hamster ball progress](/notes/warren/2-6-2012/air-testing-hamster-ball-progress) by [warren](../profile/warren)
 - [Grating angle](/notes/cfastie/2-5-2013/grating-angle) by [cfastie](../profile/cfastie)

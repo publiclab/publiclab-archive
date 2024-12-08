@@ -1,12 +1,18 @@
 ---
-nid: 20580
 title: UI principles for offline apps
-path: public/static/notes/warren/08-19-2019/ui-principles-for-offline-apps.md
+tagnames: software, code, wwg, ui
+author: warren
+path: /notes/warren/08-19-2019/ui-principles-for-offline-apps.md
+nid: 20580
 uid: 1
-tagnames: software,code,wwg,ui
+
 ---
 
 # UI principles for offline apps
+
+by [warren](../profile/warren) August 19, 2019 16:26
+
+August 19, 2019 16:26 | Tags: [software](../tag/software), [code](../tag/code), [wwg](../tag/wwg), [ui](../tag/ui)
 
 Public Lab has offered "offline apps" for a long time, starting with [Spectral Workbench's capture feature](http://spectralworkbench.org/capture), and with our Software Roadmap ([https://publiclab.org/notes/warren/05-22-2019/draft-of-a-public-lab-software-roadmap-comments-welcome](https://publiclab.org/notes/warren/05-22-2019/draft-of-a-public-lab-software-roadmap-comments-welcome "https://publiclab.org/notes/warren/05-22-2019/draft-of-a-public-lab-software-roadmap-comments-welcome")) we are increasingly developing stand-alone JavaScript apps that have (or should have) offline features, like:
 

@@ -1,12 +1,18 @@
 ---
-nid: 13748
 title: A balloon mapping event at MPavilion (Melbourne, Australia)
-path: public/static/notes/AssemblePapers/12-06-2016/a-balloon-mapping-event-at-mpavilion-melbourne-australia.md
+tagnames: balloon-mapping, australia, event, event:rsvp, assemble-papers, mpavilion, melbourne, replication:14022, oceania
+author: AssemblePapers
+path: /notes/AssemblePapers/12-06-2016/a-balloon-mapping-event-at-mpavilion-melbourne-australia.md
+nid: 13748
 uid: 497918
-tagnames: balloon-mapping,australia,event,event:rsvp,assemble-papers,mpavilion,melbourne,replication:14022,oceania
+
 ---
 
 # A balloon mapping event at MPavilion (Melbourne, Australia)
+
+by [AssemblePapers](../profile/AssemblePapers) December 06, 2016 01:50
+
+December 06, 2016 01:50 | Tags: [balloon-mapping](../tag/balloon-mapping), [australia](../tag/australia), [event](../tag/event), [event:rsvp](../tag/event:rsvp), [assemble-papers](../tag/assemble-papers), [mpavilion](../tag/mpavilion), [melbourne](../tag/melbourne), [replication:14022](../tag/replication:14022), [oceania](../tag/oceania)
 
 We are _[Assemble Papers](http://assemblepapers.com.au/)_, a Melbourne, Australia-based weekly online and biannual print publication about small footprint living, covering art, design, architecture, urbanism, the environment and finance. Each year we partner with [MPavilion](http://mpavilion.org/), an annual architecture commission and free four-month public program of events, to produce a special edition of our publication and to present a series of events that tie in to our values and ideas.
 

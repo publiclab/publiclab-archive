@@ -1,12 +1,18 @@
 ---
-nid: 38736
 title: Challenges and Solutions doing Fieldwork
-path: public/static/notes/bhamster/03-02-2023/challenges-and-solutions-doing-fieldwork.md
+tagnames: csf, community-science-forum, student-community-science, classroom-community-science, csf18
+author: bhamster
+path: /notes/bhamster/03-02-2023/challenges-and-solutions-doing-fieldwork.md
+nid: 38736
 uid: 664477
-tagnames: csf,community-science-forum,student-community-science,classroom-community-science,csf18
+
 ---
 
 # Challenges and Solutions doing Fieldwork
+
+by [bhamster](../profile/bhamster) March 02, 2023 22:06
+
+March 02, 2023 22:06 | Tags: [csf](../tag/csf), [community-science-forum](../tag/community-science-forum), [student-community-science](../tag/student-community-science), [classroom-community-science](../tag/classroom-community-science), [csf18](../tag/csf18)
 
 **A version of this story by high school student Laila is published in Public Lab's _Community Science Forum_, Issue 18. Read more from this issue <a href="https://publiclab.org/forum#Issue+18+Student-Led+Community+Science+Projects+(Summer+2021)">here</a>.**
 

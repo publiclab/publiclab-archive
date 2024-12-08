@@ -1,6 +1,6 @@
 # histogram
 
-10 notes and wiki pages
+10 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Histograms](/notes/cfastie/06-13-2013/histograms) by [cfastie](../profile/cfastie)
 - [NDVI from Infrablue](/notes/cfastie/06-20-2013/ndvi-from-infrablue) by [cfastie](../profile/cfastie)

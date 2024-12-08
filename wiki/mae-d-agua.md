@@ -1,12 +1,18 @@
 ---
-nid: 12086
 title: Mãe d'Água
-path: public/static/wiki/mae-d-agua.md
+tagnames: water-quality, water, tool, datalogger, list:plots-waterquality, brasil, redeinfoamazonia, maedagua, drinking-water, data-logging, method, chemicals, parent:data-logging
+author: vjpixel
+path: /wiki/mae-d-agua.md
+nid: 12086
 uid: 420617
-tagnames: water-quality,water,tool,datalogger,list:plots-waterquality,brasil,redeinfoamazonia,maedagua,drinking-water,data-logging,method,chemicals,parent:data-logging
+
 ---
 
 # Mãe d'Água
+
+by [vjpixel](../profile/vjpixel), [GSan](../profile/GSan), [liz](../profile/liz)
+
+July 21, 2015 16:04 | Tags: [water-quality](../tag/water-quality), [water](../tag/water), [tool](../tag/tool), [datalogger](../tag/datalogger), [list:plots-waterquality](../tag/list:plots-waterquality), [brasil](../tag/brasil), [redeinfoamazonia](../tag/redeinfoamazonia), [maedagua](../tag/maedagua), [drinking-water](../tag/drinking-water), [data-logging](../tag/data-logging), [method](../tag/method), [chemicals](../tag/chemicals), [parent:data-logging](../tag/parent:data-logging)
 
 The project [Rede InfoAmazonia](https://publiclab.org/wiki/rede-infoamazonia) is developing "Mãe d'água - Water's mother", an open hardware to monitor water quality in real time. The project goal is to detect possible contaminants like sewage, industrial toxins and heavy metals in the water. The system will help infer accurately physicochemical properties and variables that differentiates drinkable from contaminated water.
 

@@ -1,12 +1,18 @@
 ---
-nid: 9913
 title: Help Public Lab raise $2,014 by 2014!
-path: public/static/notes/Becki/12-23-2013/help-public-lab-raise-2-014-by-2014.md
-uid: 46673
 tagnames: donation
+author: Becki
+path: /notes/Becki/12-23-2013/help-public-lab-raise-2-014-by-2014.md
+nid: 9913
+uid: 46673
+
 ---
 
 # Help Public Lab raise $2,014 by 2014!
+
+by [Becki](../profile/Becki) December 23, 2013 19:49
+
+December 23, 2013 19:49 | Tags: [donation](../tag/donation)
 
 **Did you know that in 2013 [www.publiclab.org](www.publiclab.org) was visited by over 236,000 people in 110 countries, from every continent except Antarctica?  **
  

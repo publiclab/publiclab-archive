@@ -1,12 +1,18 @@
 ---
-nid: 9862
 title: Public Lab community newsletter 12.10.13
-path: public/static/notes/warren/12-10-2013/public-lab-community-newsletter-12-10-13.md
+tagnames: newsletter, newsletter-archive
+author: warren
+path: /notes/warren/12-10-2013/public-lab-community-newsletter-12-10-13.md
+nid: 9862
 uid: 1
-tagnames: newsletter,newsletter-archive
+
 ---
 
 # Public Lab community newsletter 12.10.13
+
+by [warren](../profile/warren) December 10, 2013 15:07
+
+December 10, 2013 15:07 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
 
 _(Above, [DJUltis](/profile/DJUltis)' MQI environmental recorder, posted last week. Read below to learn more!)_
 

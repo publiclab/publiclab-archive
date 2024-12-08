@@ -1,6 +1,6 @@
 # oshwa
 
-5 notes and wiki pages
+5 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Standardizing open source hardware publication practices with contributors.json](/notes/warren/02-24-2015/standardizing-open-source-hardware-publication-practices-with-contributors-json) by [warren](../profile/warren)
 - [Document your hardware upgrades at Parts & Crafts Documentation Days - Oct 12 & 19](/notes/warren/09-27-2016/document-your-hardware-upgrades-at-parts-crafts-documentation-days-oct-12-19) by [warren](../profile/warren)

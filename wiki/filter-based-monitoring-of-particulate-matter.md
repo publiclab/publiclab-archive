@@ -1,12 +1,18 @@
 ---
-nid: 12687
 title: Filter Based Monitoring of Particulate Matter
-path: public/static/wiki/filter-based-monitoring-of-particulate-matter.md
+tagnames: air-quality, dust, silica, pm, filters, filtration, parent:pm-monitoring, method, air-filters
+author: mathew
+path: /wiki/filter-based-monitoring-of-particulate-matter.md
+nid: 12687
 uid: 4
-tagnames: air-quality,dust,silica,pm,filters,filtration,parent:pm-monitoring,method,air-filters
+
 ---
 
 # Filter Based Monitoring of Particulate Matter
+
+by [warren](../profile/warren), [mathew](../profile/mathew), [stevie](../profile/stevie)
+
+February 15, 2016 00:59 | Tags: [air-quality](../tag/air-quality), [dust](../tag/dust), [silica](../tag/silica), [pm](../tag/pm), [filters](../tag/filters), [filtration](../tag/filtration), [parent:pm-monitoring](../tag/parent:pm-monitoring), [method](../tag/method), [air-filters](../tag/air-filters)
 
 ## Filter-based PM monitors
 

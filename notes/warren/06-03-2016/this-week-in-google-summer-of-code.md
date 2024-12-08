@@ -1,12 +1,18 @@
 ---
-nid: 13161
 title: This week in Google Summer of Code
-path: public/static/notes/warren/06-03-2016/this-week-in-google-summer-of-code.md
+tagnames: website, software, gsoc, developers, coding, wwg, gsoc-2016, response:13150
+author: warren
+path: /notes/warren/06-03-2016/this-week-in-google-summer-of-code.md
+nid: 13161
 uid: 1
-tagnames: website,software,gsoc,developers,coding,wwg,gsoc-2016,response:13150
+
 ---
 
 # This week in Google Summer of Code
+
+by [warren](../profile/warren) June 03, 2016 20:32
+
+June 03, 2016 20:32 | Tags: [website](../tag/website), [software](../tag/software), [gsoc](../tag/gsoc), [developers](../tag/developers), [coding](../tag/coding), [wwg](../tag/wwg), [gsoc-2016](../tag/gsoc-2016), [response:13150](../tag/response:13150)
 
 This week a lot's gotten done by our [Google Summer of Code](/wiki/gsoc) students. I'll jump right in:
 

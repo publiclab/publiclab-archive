@@ -1,12 +1,18 @@
 ---
-nid: 49
 title: Publications
-path: public/static/wiki/publications.md
-uid: 0
 tagnames: 
+author: 
+path: /wiki/publications.md
+nid: 49
+uid: 0
+
 ---
 
 # Publications
+
+by [warren](../profile/warren)
+
+January 12, 2011 00:38 | Tags: 
 
 We at PLOTS are beginning to write for a variety of venues; as our work goes up, 
 

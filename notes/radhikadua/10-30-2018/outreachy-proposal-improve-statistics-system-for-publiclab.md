@@ -1,12 +1,18 @@
 ---
-nid: 17427
 title: Outreachy proposal: Improve statistics system for publiclab
-path: public/static/notes/radhikadua/10-30-2018/outreachy-proposal-improve-statistics-system-for-publiclab.md
+tagnames: software, soc, soc-2018, rgsoc-2018, outreachy, outreachy-2018, outreachy-2018-proposals, response:17359, first-time-poster
+author: radhikadua
+path: /notes/radhikadua/10-30-2018/outreachy-proposal-improve-statistics-system-for-publiclab.md
+nid: 17427
 uid: 556474
-tagnames: software,soc,soc-2018,rgsoc-2018,outreachy,outreachy-2018,outreachy-2018-proposals,response:17359,first-time-poster
+
 ---
 
 # Outreachy proposal: Improve statistics system for publiclab
+
+by [radhikadua](../profile/radhikadua) October 30, 2018 00:59
+
+October 30, 2018 00:59 | Tags: [software](../tag/software), [soc](../tag/soc), [soc-2018](../tag/soc-2018), [rgsoc-2018](../tag/rgsoc-2018), [outreachy](../tag/outreachy), [outreachy-2018](../tag/outreachy-2018), [outreachy-2018-proposals](../tag/outreachy-2018-proposals), [response:17359](../tag/response:17359), [first-time-poster](../tag/first-time-poster)
 
 ---------
 

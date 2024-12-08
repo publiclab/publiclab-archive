@@ -1,6 +1,6 @@
 # kickstarter
 
-41 notes and wiki pages
+41 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Plant spectral timelapse (~7hrs)](/notes/warren/12-14-2010/plant-spectral-timelapse-7hrs) by [warren](../profile/warren)
 - [Spectrometer Kickstarter script](/notes/warren/8-1-2012/spectrometer-kickstarter-script) by [warren](../profile/warren)

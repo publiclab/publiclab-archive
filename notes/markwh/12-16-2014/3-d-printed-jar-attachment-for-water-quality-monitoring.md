@@ -1,12 +1,18 @@
 ---
-nid: 11467
 title: 3-D printed jar attachment for water-quality monitoring
-path: public/static/notes/markwh/12-16-2014/3-d-printed-jar-attachment-for-water-quality-monitoring.md
+tagnames: water-sensing, water-quality-monitoring, umass-amherst, publiclab-at-umass
+author: markwh
+path: /notes/markwh/12-16-2014/3-d-printed-jar-attachment-for-water-quality-monitoring.md
+nid: 11467
 uid: 428820
-tagnames: water-sensing,water-quality-monitoring,umass-amherst,publiclab-at-umass
+
 ---
 
 # 3-D printed jar attachment for water-quality monitoring
+
+by [markwh](../profile/markwh) December 16, 2014 21:07
+
+December 16, 2014 21:07 | Tags: [water-sensing](../tag/water-sensing), [water-quality-monitoring](../tag/water-quality-monitoring), [umass-amherst](../tag/umass-amherst), [publiclab-at-umass](../tag/publiclab-at-umass)
 
 *This is a follow-up to previous research notes [here](http://publiclab.org/notes/jenniferdsara/11-13-2014/waterproof-housing-for-the-arduino-conductivity-meter) and [here](http://publiclab.org/notes/markwh/11-19-2014/waterproof-housing-for-arduino-conductivity-meter-part-2-results-and-other-containers).*
 

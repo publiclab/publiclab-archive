@@ -1,12 +1,18 @@
 ---
-nid: 2276
 title: Developing and Running a Public Lab Workshop
-path: public/static/wiki/developing-and-running-public-lab-workshop.md
+tagnames: community, workshop, event-how-to
+author: sara
+path: /wiki/developing-and-running-public-lab-workshop.md
+nid: 2276
 uid: 8
-tagnames: community,workshop,event-how-to
+
 ---
 
 # Developing and Running a Public Lab Workshop
+
+by [warren](../profile/warren), [sara](../profile/sara)
+
+May 31, 2012 15:57 | Tags: [community](../tag/community), [workshop](../tag/workshop), [event-how-to](../tag/event-how-to)
 
 ![kite-mapping](https://farm6.staticflickr.com/5292/5443645895_c0f13505ac_z.jpg)
 

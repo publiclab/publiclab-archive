@@ -1,12 +1,18 @@
 ---
-nid: 11376
 title: All Barnraising Tweets
-path: public/static/notes/cfastie/11-21-2014/all-barnraising-tweets.md
+tagnames: gulf-coast, kite-mapping, louisiana, cocodrie, barnraising, lumcon, barnraising2014
+author: cfastie
+path: /notes/cfastie/11-21-2014/all-barnraising-tweets.md
+nid: 11376
 uid: 554
-tagnames: gulf-coast,kite-mapping,louisiana,cocodrie,barnraising,lumcon,barnraising2014
+
 ---
 
 # All Barnraising Tweets
+
+by [cfastie](../profile/cfastie) November 21, 2014 03:03
+
+November 21, 2014 03:03 | Tags: [gulf-coast](../tag/gulf-coast), [kite-mapping](../tag/kite-mapping), [louisiana](../tag/louisiana), [cocodrie](../tag/cocodrie), [barnraising](../tag/barnraising), [lumcon](../tag/lumcon), [barnraising2014](../tag/barnraising2014)
 
 This is a Wakelet link to Barnraising 2014 Tweets.  
 

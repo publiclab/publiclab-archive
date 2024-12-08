@@ -1,12 +1,18 @@
 ---
-nid: 9068
 title: LEAFFEST
-path: public/static/wiki/leaffest.md
+tagnames: near-infrared-camera, vermont, leaffest, leaffest2012, event, infragram, events:vermont, tabbed:notes, tabbed:wikis
+author: cfastie
+path: /wiki/leaffest.md
+nid: 9068
 uid: 554
-tagnames: near-infrared-camera,vermont,leaffest,leaffest2012,event,infragram,events:vermont,tabbed:notes,tabbed:wikis
+
 ---
 
 # LEAFFEST
+
+by [warren](../profile/warren), [cfastie](../profile/cfastie)
+
+August 28, 2013 15:20 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [vermont](../tag/vermont), [leaffest](../tag/leaffest), [leaffest2012](../tag/leaffest2012), [event](../tag/event), [infragram](../tag/infragram), [events:vermont](../tag/events:vermont), [tabbed:notes](../tag/tabbed:notes), [tabbed:wikis](../tag/tabbed:wikis)
 
 An organizing page for LEAFFEST!
 

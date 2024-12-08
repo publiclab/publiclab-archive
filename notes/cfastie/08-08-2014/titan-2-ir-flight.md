@@ -1,12 +1,18 @@
 ---
-nid: 11021
 title: Titan 2 IR flight
-path: public/static/notes/cfastie/08-08-2014/titan-2-ir-flight.md
+tagnames: balloon-mapping, near-infrared-camera, kite-mapping, ndvi, vermont, infrared, kap, photo-rig, infragram, 3d-printing, makerbot, northeast, titan, response:10602, category:field-test, activity:photo-rig
+author: cfastie
+path: /notes/cfastie/08-08-2014/titan-2-ir-flight.md
+nid: 11021
 uid: 554
-tagnames: balloon-mapping,near-infrared-camera,kite-mapping,ndvi,vermont,infrared,kap,photo-rig,infragram,3d-printing,makerbot,northeast,titan,response:10602,category:field-test,activity:photo-rig
+
 ---
 
 # Titan 2 IR flight
+
+by [cfastie](../profile/cfastie) August 08, 2014 04:52
+
+August 08, 2014 04:52 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [ndvi](../tag/ndvi), [vermont](../tag/vermont), [infrared](../tag/infrared), [kap](../tag/kap), [photo-rig](../tag/photo-rig), [infragram](../tag/infragram), [3d-printing](../tag/3d-printing), [makerbot](../tag/makerbot), [northeast](../tag/northeast), [titan](../tag/titan), [response:10602](../tag/response:10602), [category:field-test](../tag/category:field-test), [activity:photo-rig](../tag/activity:photo-rig)
 
 I took a new Titan 2 IR rig for a test flight yesterday. I flew the Fled kite over a clearing where in [May I had documented skidder trails from a logging operation](http://publiclab.org/notes/cfastie/06-01-2014/super-redstone). On the ground these scars seemed to be recovering well especially where the roots of damaged perennial plants survived to send up new shoots. Older trails used for many years by ATVs have also started to heal since motorized travel was prohibited in May. No roots survived on these bare trails, but annual grasses are filling in even where no seed was sown.  
 .  

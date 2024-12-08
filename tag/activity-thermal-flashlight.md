@@ -1,6 +1,6 @@
 # activity-thermal-flashlight
 
-10 notes and wiki pages
+10 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Build a simple Thermal Flashlight](/notes/warren/12-12-2011/circuit-diagram-simple-thermal-flashlight) by [warren](../profile/warren)
 - [Common cathode variant of Thermal Flashlight code](/notes/warren/2-11-2012/common-cathode-variant-thermal-flashlight-code) by [warren](../profile/warren)

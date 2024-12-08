@@ -1,6 +1,6 @@
 # replication-13948
 
-4 notes and wiki pages
+4 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Yet another soda bottle camera house](/notes/gonzoearth/7-5-2011/yet-another-soda-bottle-camera-house) by [gonzoearth](../profile/gonzoearth)
 - [simple soda bottle rig stabilization with tape](/notes/gonzoearth/8-2-2011/simple-soda-bottle-rig-stabilization-tape) by [gonzoearth](../profile/gonzoearth)

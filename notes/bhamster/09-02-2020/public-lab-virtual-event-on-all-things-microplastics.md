@@ -1,12 +1,18 @@
 ---
-nid: 24494
 title: Public Lab virtual event on all things microplastics
-path: public/static/notes/bhamster/09-02-2020/public-lab-virtual-event-on-all-things-microplastics.md
+tagnames: event, research, water-monitoring, event:rsvp, rsvp:liz, rivers, ocean, microplastics, plastic, research-area-review, freshwater, plastic-pollution
+author: bhamster
+path: /notes/bhamster/09-02-2020/public-lab-virtual-event-on-all-things-microplastics.md
+nid: 24494
 uid: 664477
-tagnames: event,research,water-monitoring,event:rsvp,rsvp:liz,rivers,ocean,microplastics,plastic,research-area-review,freshwater,plastic-pollution
+
 ---
 
 # Public Lab virtual event on all things microplastics
+
+by [bhamster](../profile/bhamster) September 02, 2020 18:42
+
+September 02, 2020 18:42 | Tags: [event](../tag/event), [research](../tag/research), [water-monitoring](../tag/water-monitoring), [event:rsvp](../tag/event:rsvp), [rsvp:liz](../tag/rsvp:liz), [rivers](../tag/rivers), [ocean](../tag/ocean), [microplastics](../tag/microplastics), [plastic](../tag/plastic), [research-area-review](../tag/research-area-review), [freshwater](../tag/freshwater), [plastic-pollution](../tag/plastic-pollution)
 
 _Image: [Microplastics from the Rhode River](https://www.flickr.com/photos/chesbayprogram/16813235480/in/photostream/), photographed by Will Parson/Chesapeake Bay Program at the laboratory of Dr. Lance Yonkos in the Department of Environmental Science & Technology at the University of Maryland. [CC BY NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/)_[](https://creativecommons.org/licenses/by-nc/2.0/).
 

@@ -1,12 +1,18 @@
 ---
-nid: 24964
 title: How to Use Your Bucket Data
-path: public/static/notes/A_SCH/11-09-2020/how-to-use-your-bucket-data-draft.md
+tagnames: air-quality, bucket-brigade, with:kgradow1, advocacy, community-organizing, activity:community-organizing, bucket-monitor, activity:bucket-monitor, activity:advocacy
+author: A_SCH
+path: /notes/A_SCH/11-09-2020/how-to-use-your-bucket-data-draft.md
+nid: 24964
 uid: 704145
-tagnames: air-quality,bucket-brigade,with:kgradow1,advocacy,community-organizing,activity:community-organizing,bucket-monitor,activity:bucket-monitor,activity:advocacy
+
 ---
 
 # How to Use Your Bucket Data
+
+by [A_SCH](../profile/A_SCH) November 09, 2020 07:19
+
+November 09, 2020 07:19 | Tags: [air-quality](../tag/air-quality), [bucket-brigade](../tag/bucket-brigade), [with:kgradow1](../tag/with:kgradow1), [advocacy](../tag/advocacy), [community-organizing](../tag/community-organizing), [activity:community-organizing](../tag/activity:community-organizing), [bucket-monitor](../tag/bucket-monitor), [activity:bucket-monitor](../tag/activity:bucket-monitor), [activity:advocacy](../tag/activity:advocacy)
 
 Co-authored by: Bongani Mthembu and Desmond D'Sa, [South Durban Community Environmental Alliance](https://sdcea.co.za/ "https://sdcea.co.za/"), Rico Euripidou, Avena Jacklin, and Bobby Peek, [groundWork, Friends of the Earth South Africa](https://www.groundwork.org.za/ "https://www.groundwork.org.za/")
 

@@ -1,12 +1,18 @@
 ---
-nid: 11561
 title: Public Lab Lesson 4: Environmental Monitoring
-path: public/static/wiki/public-lab-lesson-4-environmental-monitoring.md
+tagnames: ndvi, photography, education, lesson_plan, biology, botany, parent:wetlands-lesson-plans, activity:ndvi
+author: mollydanielsson
+path: /wiki/public-lab-lesson-4-environmental-monitoring.md
+nid: 11561
 uid: 1259
-tagnames: ndvi,photography,education,lesson_plan,biology,botany,parent:wetlands-lesson-plans,activity:ndvi
+
 ---
 
 # Public Lab Lesson 4: Environmental Monitoring
+
+by [gretchengehrke](../profile/gretchengehrke), [mathew](../profile/mathew), [mollydanielsson](../profile/mollydanielsson)
+
+February 07, 2015 23:56 | Tags: [ndvi](../tag/ndvi), [photography](../tag/photography), [education](../tag/education), [lesson_plan](../tag/lesson_plan), [biology](../tag/biology), [botany](../tag/botany), [parent:wetlands-lesson-plans](../tag/parent:wetlands-lesson-plans), [activity:ndvi](../tag/activity:ndvi)
 
 Infrared Curriculum Lessons [1](/wiki/lesson-1-wetlands-water-oil), [2](/wiki/public-lab-lesson-2-more-than-meets-the-eye), [3](/wiki/public-lab-lesson-3-photography-in-a-new-light), [4](/wiki/public-lab-lesson-4-environmental-monitoring)
 

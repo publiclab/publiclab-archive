@@ -1,12 +1,18 @@
 ---
-nid: 12399
 title: llactalab
-path: public/static/wiki/llactalab.md
+tagnames: ecuador, llactalab, cuenca, south-america
+author: liz
+path: /wiki/llactalab.md
+nid: 12399
 uid: 7
-tagnames: ecuador,llactalab,cuenca,south-america
+
 ---
 
 # llactalab
+
+by [liz](../profile/liz)
+
+November 10, 2015 22:12 | Tags: [ecuador](../tag/ecuador), [llactalab](../tag/llactalab), [cuenca](../tag/cuenca), [south-america](../tag/south-america)
 
 Based in the University of Cuenca, Ecuador. 
 

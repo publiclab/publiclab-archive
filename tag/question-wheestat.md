@@ -1,6 +1,6 @@
 # question-wheestat
 
-5 notes and wiki pages
+5 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [What software can i use to view Wheestat data?](/notes/Abdulhakeem0801/11-12-2017/please-tell-me) by [Abdulhakeem0801](../profile/Abdulhakeem0801)
 - [What is my potential all over the place?](/notes/Greg_H/12-21-2017/what-is-my-potential-all-over-the-place) by [Greg_H](../profile/Greg_H)

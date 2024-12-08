@@ -1,12 +1,18 @@
 ---
-nid: 22619
 title: TEST PAGE FOR #7320
-path: public/static/notes/radimir_cacic09/02-04-2020/test-page-for-7320.md
+tagnames: new, draft, activity:new
+author: radimir_cacic09
+path: /notes/radimir_cacic09/02-04-2020/test-page-for-7320.md
+nid: 22619
 uid: 644656
-tagnames: new,draft,activity:new
+
 ---
 
 # TEST PAGE FOR #7320
+
+by [radimir_cacic09](../profile/radimir_cacic09) February 04, 2020 18:38
+
+February 04, 2020 18:38 | Tags: [new](../tag/new), [draft](../tag/draft), [activity:new](../tag/activity:new)
 
 _This is a minimal template for new activities! If you're drafting a new activity ([http://publiclab.org/wiki/activities](http://publiclab.org/wiki/activities)), remove this line._
 

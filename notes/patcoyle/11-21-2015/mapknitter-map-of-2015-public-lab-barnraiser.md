@@ -1,12 +1,18 @@
 ---
-nid: 12433
 title: MapKnitter map of 2015 Public Lab Barnraiser
-path: public/static/notes/patcoyle/11-21-2015/mapknitter-map-of-2015-public-lab-barnraiser.md
+tagnames: mapknitter, lat:29.254103, lon:-90.6626
+author: patcoyle
+path: /notes/patcoyle/11-21-2015/mapknitter-map-of-2015-public-lab-barnraiser.md
+nid: 12433
 uid: 77
-tagnames: mapknitter,lat:29.254103,lon:-90.6626
+
 ---
 
 # MapKnitter map of 2015 Public Lab Barnraiser
+
+by [patcoyle](../profile/patcoyle) November 21, 2015 23:29
+
+November 21, 2015 23:29 | Tags: [mapknitter](../tag/mapknitter), [lat:29.254103](../tag/lat:29.254103), [lon:-90.6626](../tag/lon:-90.6626)
 
 <iframe src="https://mapknitter.org/embed/2015-public-lab-barnraiser-visible" style="border:none" width="100%" height="400px"></iframe><br /><br /><br />https://mapknitter.org/embed/2015-public-lab-barnraiser-visible
 

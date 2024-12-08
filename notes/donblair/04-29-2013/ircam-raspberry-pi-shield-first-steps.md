@@ -1,12 +1,18 @@
 ---
-nid: 7121
 title: ircam raspberry pi shield -- first steps
-path: public/static/notes/donblair/04-29-2013/ircam-raspberry-pi-shield-first-steps.md
+tagnames: balloon-mapping, raspberry-pi, infrared-camera
+author: donblair
+path: /notes/donblair/04-29-2013/ircam-raspberry-pi-shield-first-steps.md
+nid: 7121
 uid: 43651
-tagnames: balloon-mapping,raspberry-pi,infrared-camera
+
 ---
 
 # ircam raspberry pi shield -- first steps
+
+by [donblair](../profile/donblair) April 29, 2013 18:41
+
+April 29, 2013 18:41 | Tags: [balloon-mapping](../tag/balloon-mapping), [raspberry-pi](../tag/raspberry-pi), [infrared-camera](../tag/infrared-camera)
 
 Here are some first passes at a Raspberry Pi shield design.  I don't quite yet know what I'm doing, but here's the rough idea I'm aiming at.  I'm not sure how sensible it is, so I'd love to get any feedback!
 

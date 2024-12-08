@@ -1,12 +1,18 @@
 ---
-nid: 17409
 title: UI feedback template
-path: public/static/wiki/ui-feedback-template.md
-uid: 1
 tagnames: 
+author: warren
+path: /wiki/ui-feedback-template.md
+nid: 17409
+uid: 1
+
 ---
 
 # UI feedback template
+
+by [warren](../profile/warren)
+
+October 26, 2018 22:20 | Tags: 
 
 1) Issues or problems with the current system/design
 

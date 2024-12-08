@@ -1,12 +1,18 @@
 ---
-nid: 12210
 title: NDVI MAPS for Precision Farming
-path: public/static/notes/monoxyde/09-11-2015/ndvi-maps-for-precision-farming.md
+tagnames: near-infrared-camera, ndvi, imagej, infrared-conversion
+author: Monoxyde
+path: /notes/monoxyde/09-11-2015/ndvi-maps-for-precision-farming.md
+nid: 12210
 uid: 432132
-tagnames: near-infrared-camera,ndvi,imagej,infrared-conversion
+
 ---
 
 # NDVI MAPS for Precision Farming
+
+by [Monoxyde](../profile/Monoxyde) September 11, 2015 18:27
+
+September 11, 2015 18:27 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [imagej](../tag/imagej), [infrared-conversion](../tag/infrared-conversion)
 
 ###What I want to do
 **I want to get Aereal (UAV) prescription maps for precision farming**

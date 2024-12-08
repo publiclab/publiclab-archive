@@ -1,6 +1,6 @@
 # seeks-builds
 
-12 notes and wiki pages
+12 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Ongoing design of compact cuvette frame](/notes/warren/01-25-2016/ongoing-design-of-compact-cuvette-frame) by [warren](../profile/warren)
 - [Prototype of easy-to-build rigid spectrometer housing](/notes/warren/04-21-2016/prototype-of-easy-to-build-rigid-spectrometer-housing) by [warren](../profile/warren)

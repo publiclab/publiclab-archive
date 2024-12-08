@@ -1,8 +1,7 @@
 # projects
 
-7 notes and wiki pages
+7 notes and wiki pages | [see all topics](/wiki/topics)
 
-- [Pre launch Apartments](/notes/ajmeranucleus2019/02-13-2019/pre-launch-apartments) by [ajmeranucleus2019](../profile/ajmeranucleus2019)
 - [What are some different ways to use turbidity sensors? ](/notes/lekhidugtal/03-24-2019/what-are-different-ways-to-use-turbidity-sensors) by [lekhidugtal](../profile/lekhidugtal)
 - [Oil and Gas Water Fellowship Trio](/wiki/oil-and-gas-water-fellowship-trio) (wiki)
 - [About Projects](/wiki/about-projects) (wiki)

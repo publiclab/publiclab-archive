@@ -1,12 +1,18 @@
 ---
-nid: 20667
 title: GSoC19: Mapknitter Rails Upgrade 
-path: public/static/notes/kaustubh_nair/08-26-2019/gsoc19-mapknitter-rails-upgrade.md
+tagnames: mapknitter, gsoc, soc, gsoc-2019, soc-2019, gsoc-19, soc-19, gsoc-2019-final-report
+author: kaustubh_nair
+path: /notes/kaustubh_nair/08-26-2019/gsoc19-mapknitter-rails-upgrade.md
+nid: 20667
 uid: 577485
-tagnames: mapknitter,gsoc,soc,gsoc-2019,soc-2019,gsoc-19,soc-19,gsoc-2019-final-report
+
 ---
 
 # GSoC19: Mapknitter Rails Upgrade 
+
+by [kaustubh_nair](../profile/kaustubh_nair) August 26, 2019 03:07
+
+August 26, 2019 03:07 | Tags: [mapknitter](../tag/mapknitter), [gsoc](../tag/gsoc), [soc](../tag/soc), [gsoc-2019](../tag/gsoc-2019), [soc-2019](../tag/soc-2019), [gsoc-19](../tag/gsoc-19), [soc-19](../tag/soc-19), [gsoc-2019-final-report](../tag/gsoc-2019-final-report)
 
 Hi all, I've been working with Alax Alves together on the mapknitter rails upgrade.here's a final report of all the work  done during time.
 

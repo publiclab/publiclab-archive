@@ -1,12 +1,18 @@
 ---
-nid: 23510
 title: Contributors
-path: public/static/wiki/contributors.md
+tagnames: community, parent:website, contribute
+author: liz
+path: /wiki/contributors.md
+nid: 23510
 uid: 7
-tagnames: community,parent:website,contribute
+
 ---
 
 # Contributors
+
+by [liz](../profile/liz)
+
+April 29, 2020 14:21 | Tags: [community](../tag/community), [parent:website](../tag/parent:website), [contribute](../tag/contribute)
 
 Contributors are people who have asked questions, answered questions, posted notes, created or edited wiki pages, or commented on others' contributions on this [website](/website-basics)
 

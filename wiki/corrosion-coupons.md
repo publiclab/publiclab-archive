@@ -1,12 +1,18 @@
 ---
-nid: 15517
 title: Purafil Corrosion Coupons
-path: public/static/wiki/corrosion-coupons.md
+tagnames: hydrogen-sulfide-sensing, hydrogen-sulfide, h2s, h2s-copper-pipe, parent:hydrogen-sulfide
+author: gretchengehrke
+path: /wiki/corrosion-coupons.md
+nid: 15517
 uid: 430549
-tagnames: hydrogen-sulfide-sensing,hydrogen-sulfide,h2s,h2s-copper-pipe,parent:hydrogen-sulfide
+
 ---
 
 # Purafil Corrosion Coupons
+
+by [gretchengehrke](../profile/gretchengehrke), [warren](../profile/warren)
+
+January 12, 2018 20:19 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s), [h2s-copper-pipe](../tag/h2s-copper-pipe), [parent:hydrogen-sulfide](../tag/parent:hydrogen-sulfide)
 
 _Images obtained from www.purafil.com_
 

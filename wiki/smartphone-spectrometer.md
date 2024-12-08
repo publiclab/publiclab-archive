@@ -1,12 +1,18 @@
 ---
-nid: 9075
 title: Smartphone spectrometer
-path: public/static/wiki/smartphone-spectrometer.md
+tagnames: spectrometer, smartphone-spectrometer, instructions, parent:spectrometer, foldable, foldable-spectrometer
+author: warren
+path: /wiki/smartphone-spectrometer.md
+nid: 9075
 uid: 1
-tagnames: spectrometer,smartphone-spectrometer,instructions,parent:spectrometer,foldable,foldable-spectrometer
+
 ---
 
 # Smartphone spectrometer
+
+by [amandah](../profile/amandah), [albertwgb](../profile/albertwgb), [tonyc](../profile/tonyc), [mathew](../profile/mathew), [warren](../profile/warren)
+
+August 29, 2013 20:54 | Tags: [spectrometer](../tag/spectrometer), [smartphone-spectrometer](../tag/smartphone-spectrometer), [instructions](../tag/instructions), [parent:spectrometer](../tag/parent:spectrometer), [foldable](../tag/foldable), [foldable-spectrometer](../tag/foldable-spectrometer)
 
 <div class="alert">This page refers to a product no longer sold by the kits department. Plans still exist but item is discontinued in favor of the desktop spectrometer and the foldup spectrometer. This info is here for archive purposes only.</div>
 

@@ -1,12 +1,18 @@
 ---
-nid: 12315
 title: The Orb of Salisbury
-path: public/static/notes/cfastie/10-17-2015/the-orb-of-salisbury.md
+tagnames: kite-mapping, vermont, kite, blog, gigapan, saturnv, skyshield, half-spherical, response:12313, littleplanet
+author: cfastie
+path: /notes/cfastie/10-17-2015/the-orb-of-salisbury.md
+nid: 12315
 uid: 554
-tagnames: kite-mapping,vermont,kite,blog,gigapan,saturnv,skyshield,half-spherical,response:12313,littleplanet
+
 ---
 
 # The Orb of Salisbury
+
+by [cfastie](../profile/cfastie) October 17, 2015 04:28
+
+October 17, 2015 04:28 | Tags: [kite-mapping](../tag/kite-mapping), [vermont](../tag/vermont), [kite](../tag/kite), [blog](../tag/blog), [gigapan](../tag/gigapan), [saturnv](../tag/saturnv), [skyshield](../tag/skyshield), [half-spherical](../tag/half-spherical), [response:12313](../tag/response:12313), [littleplanet](../tag/littleplanet)
 
 *Above: The big white buildings are Maple Meadow Farm in Salisbury, Vermont. The longer ones house 65,000 laying hens. That is big for a shell egg business in Vermont, but nationwide, farms with one to three million hens are not uncommon.*
 

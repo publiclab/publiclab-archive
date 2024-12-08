@@ -1,12 +1,18 @@
 ---
-nid: 888
 title: Pie charts
-path: public/static/wiki/pie-charts.md
-uid: 1
 tagnames: 
+author: warren
+path: /wiki/pie-charts.md
+nid: 888
+uid: 1
+
 ---
 
 # Pie charts
+
+by [warren](../profile/warren)
+
+March 05, 2012 22:37 | Tags: 
 
 <style>
 div.graph

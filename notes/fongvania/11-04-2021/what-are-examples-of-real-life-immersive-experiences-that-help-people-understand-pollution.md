@@ -1,12 +1,18 @@
 ---
-nid: 28075
 title: What are examples of "real-life", immersive experiences that help people understand pollution?
-path: public/static/notes/fongvania/11-04-2021/what-are-examples-of-real-life-immersive-experiences-that-help-people-understand-pollution.md
+tagnames: air-quality, data, art, question:general, general, data-visualization, artivism, research-curation-fellows, presenting-data, question:presenting-data, air-quality-data, question:air-quality-data, question:data-visualization, data-advocacy
+author: fongvania
+path: /notes/fongvania/11-04-2021/what-are-examples-of-real-life-immersive-experiences-that-help-people-understand-pollution.md
+nid: 28075
 uid: 754846
-tagnames: air-quality,data,art,question:general,general,data-visualization,artivism,research-curation-fellows,presenting-data,question:presenting-data,air-quality-data,question:air-quality-data,question:data-visualization,data-advocacy
+
 ---
 
 # What are examples of "real-life", immersive experiences that help people understand pollution?
+
+by [fongvania](../profile/fongvania) November 04, 2021 03:35
+
+November 04, 2021 03:35 | Tags: [air-quality](../tag/air-quality), [data](../tag/data), [art](../tag/art), [question:general](../tag/question:general), [general](../tag/general), [data-visualization](../tag/data-visualization), [artivism](../tag/artivism), [research-curation-fellows](../tag/research-curation-fellows), [presenting-data](../tag/presenting-data), [question:presenting-data](../tag/question:presenting-data), [air-quality-data](../tag/air-quality-data), [question:air-quality-data](../tag/question:air-quality-data), [question:data-visualization](../tag/question:data-visualization), [data-advocacy](../tag/data-advocacy)
 
 Often, the pollutants that get into our air, water, and soil are invisible and "out of sight, out of mind".  Even with a network of sensors and real-time graphs showing air quality, people often don't intuitively know what a certain number feels like. What are creative ways to help people not just visualize, but contextualize what environmental measurements mean and make data tangible?
 

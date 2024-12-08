@@ -1,12 +1,18 @@
 ---
-nid: 30116
 title: Monitoring High-Rise Construction on a State Remediation Site
-path: public/static/notes/marinaraHQ/03-10-2022/monitoring-high-rise-construction-on-a-state-remediation-site.md
+tagnames: soil, water, pcb, construction, northeast, lead, first-time-poster, run-off, soil-contamination, zoom:15, lat:42.45568220597949, lon:-76.49245179811261, soil-monitoring, tce, ithaca, cornell
+author: marinaraHQ
+path: /notes/marinaraHQ/03-10-2022/monitoring-high-rise-construction-on-a-state-remediation-site.md
+nid: 30116
 uid: 791074
-tagnames: soil,water,pcb,construction,northeast,lead,first-time-poster,run-off,soil-contamination,zoom:15,lat:42.45568220597949,lon:-76.49245179811261,soil-monitoring,tce,ithaca,cornell
+
 ---
 
 # Monitoring High-Rise Construction on a State Remediation Site
+
+by [marinaraHQ](../profile/marinaraHQ) March 10, 2022 20:38
+
+March 10, 2022 20:38 | Tags: [soil](../tag/soil), [water](../tag/water), [pcb](../tag/pcb), [construction](../tag/construction), [northeast](../tag/northeast), [lead](../tag/lead), [first-time-poster](../tag/first-time-poster), [run-off](../tag/run-off), [soil-contamination](../tag/soil-contamination), [zoom:15](../tag/zoom:15), [lat:42.45568220597949](../tag/lat:42.45568220597949), [lon:-76.49245179811261](../tag/lon:-76.49245179811261), [soil-monitoring](../tag/soil-monitoring), [tce](../tag/tce), [ithaca](../tag/ithaca), [cornell](../tag/cornell)
 
 Ithaca Gun factory (121-125 Lake Street, Ithaca NY) is a current NYS DEC remediation site right off of the Ithaca Falls Natural Area. This [thesis](https://ecommons.cornell.edu/bitstream/handle/1813/23122/Hendricks,%20Rachel%20-%20Research%20Honors%20Thesis.pdf?sequence=2&isAllowed=y#:~:text=The%20Ithaca%20Gun%20Factory,%20located,before%20this%20thesis%20was%20written.) lays out extensively the environmental context of the area, which includes history of lead-laden soils, PCB spills, and TCE, vinyl chloride, benzene contamination. The status of chemical presence is unclear, given the DEC classification of N.\*  It was just announced that the Ithaca Gun factory site is now subject to high-rise apartment building construction in August 2022\. 
 

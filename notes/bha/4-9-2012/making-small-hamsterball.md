@@ -1,12 +1,18 @@
 ---
-nid: 1634
 title: Making a small hamsterball
-path: public/static/notes/bha/4-9-2012/making-small-hamsterball.md
+tagnames: indoor-air-quality-mapping, hamster-ball, air-quality
+author: bha
+path: /notes/bha/4-9-2012/making-small-hamsterball.md
+nid: 1634
 uid: 280
-tagnames: indoor-air-quality-mapping,hamster-ball,air-quality
+
 ---
 
 # Making a small hamsterball
+
+by [bha](../profile/bha) April 09, 2012 18:42
+
+April 09, 2012 18:42 | Tags: [indoor-air-quality-mapping](../tag/indoor-air-quality-mapping), [hamster-ball](../tag/hamster-ball), [air-quality](../tag/air-quality)
 
 From the Jeff's idea, Byeongwon Ha and Sara Wylie are trying to make a small hamsterball, which powered by arduino. 
 

@@ -1,12 +1,18 @@
 ---
-nid: 11722
 title: Link: DIY Microbalance
-path: public/static/notes/Frikkie/03-25-2015/link-diy-microbalance.md
+tagnames: analytical_balance, weighing
+author: Frikkie
+path: /notes/Frikkie/03-25-2015/link-diy-microbalance.md
+nid: 11722
 uid: 435693
-tagnames: analytical_balance,weighing
+
 ---
 
 # Link: DIY Microbalance
+
+by [Frikkie](../profile/Frikkie) March 25, 2015 10:34
+
+March 25, 2015 10:34 | Tags: [analytical_balance](../tag/analytical_balance), [weighing](../tag/weighing)
 
 I found this on YOUTUBE and think it is worth sharing.  
 https://www.youtube.com/watch?v=ta7nlkI5K5g  

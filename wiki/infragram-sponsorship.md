@@ -1,12 +1,18 @@
 ---
-nid: 8175
 title: Infragram Sponsorship
-path: public/static/wiki/infragram-sponsorship.md
-uid: 1
 tagnames: 
+author: warren
+path: /wiki/infragram-sponsorship.md
+nid: 8175
+uid: 1
+
 ---
 
 # Infragram Sponsorship
+
+by [Shannon](../profile/Shannon), [warren](../profile/warren)
+
+June 12, 2013 14:00 | Tags: 
 
 We've announced three special "sponsorship" reward levels to the [Infragram Kickstarter campaign](http://kickstarter.com/projects/publiclab/infragram-the-infrared-photography-project). Read more about these rewards here:
 

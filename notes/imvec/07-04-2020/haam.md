@@ -1,12 +1,18 @@
 ---
-nid: 24097
 title: HAAM
-path: public/static/notes/imvec/07-04-2020/haam.md
+tagnames: lang:es, openhour, spanish, zoom:14, lat:41.408488, lon:2.199325, horaabierta, haam
+author: imvec
+path: /notes/imvec/07-04-2020/haam.md
+nid: 24097
 uid: 495038
-tagnames: lang:es,openhour,spanish,zoom:14,lat:41.408488,lon:2.199325,horaabierta,haam
+
 ---
 
 # HAAM
+
+by [imvec](../profile/imvec) July 04, 2020 14:17
+
+July 04, 2020 14:17 | Tags: [lang:es](../tag/lang:es), [openhour](../tag/openhour), [spanish](../tag/spanish), [zoom:14](../tag/zoom:14), [lat:41.408488](../tag/lat:41.408488), [lon:2.199325](../tag/lon:2.199325), [horaabierta](../tag/horaabierta), [haam](../tag/haam)
 
 ## Hora Abierta de Autodefensa Medioambiental
 

@@ -1,12 +1,18 @@
 ---
-nid: 28124
 title: Fracking
-path: public/static/wiki/fracking.md
+tagnames: fracking, environmental, hydrofracking, oil-and-gas
+author: laurel_mire
+path: /wiki/fracking.md
+nid: 28124
 uid: 759178
-tagnames: fracking,environmental,hydrofracking,oil-and-gas
+
 ---
 
 # Fracking
+
+by [laurel_mire](../profile/laurel_mire)
+
+November 17, 2021 23:35 | Tags: [fracking](../tag/fracking), [environmental](../tag/environmental), [hydrofracking](../tag/hydrofracking), [oil-and-gas](../tag/oil-and-gas)
 
 _**Hydraulic fracturing (aka fracking or hydrofracking) makes up a growing portion of the energy sector, and the environmental concerns associated with this process are shared among concerned citizens across the world. There are dozens of subtopics associated with the fracking industry, and this wiki is a work in progress. Please contribute to the resources and discussion by [editing this wiki page](https://publiclab.org/wiki/edit/fracking) or [adding and answering questions](https://publiclab.org/wiki/fracking#Questions) below!**_
 

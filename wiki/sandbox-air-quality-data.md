@@ -1,12 +1,18 @@
 ---
-nid: 28017
 title: sandbox-air-quality-data
-path: public/static/wiki/sandbox-air-quality-data.md
-uid: 664477
 tagnames: 
+author: bhamster
+path: /wiki/sandbox-air-quality-data.md
+nid: 28017
+uid: 664477
+
 ---
 
 # sandbox-air-quality-data
+
+by [bhamster](../profile/bhamster), [fongvania](../profile/fongvania)
+
+November 01, 2021 18:38 | Tags: 
 
 What can you do with air quality data once you have it? Whether you’ve collected the data yourself through community air monitoring or obtained it from an open database, there are many ways to communicate the data and make it meaningful. 
 

@@ -1,12 +1,18 @@
 ---
-nid: 9076
 title: Extremely Precise mapping
-path: public/static/notes/bc512/08-30-2013/extremely-precise-mapping.md
+tagnames: balloon-mapping, kite-mapping, infrared, vineyard, uav, mapping, infrared-camera, plant-health, infrared-photography, quadcopter, drone
+author: bc512
+path: /notes/bc512/08-30-2013/extremely-precise-mapping.md
+nid: 9076
 uid: 197512
-tagnames: balloon-mapping,kite-mapping,infrared,vineyard,uav,mapping,infrared-camera,plant-health,infrared-photography,quadcopter,drone
+
 ---
 
 # Extremely Precise mapping
+
+by [bc512](../profile/bc512) August 30, 2013 03:01
+
+August 30, 2013 03:01 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [infrared](../tag/infrared), [vineyard](../tag/vineyard), [uav](../tag/uav), [mapping](../tag/mapping), [infrared-camera](../tag/infrared-camera), [plant-health](../tag/plant-health), [infrared-photography](../tag/infrared-photography), [quadcopter](../tag/quadcopter), [drone](../tag/drone)
 
 hello everyone, 
 I am a viticultural Agronomist from the McLaren Vale wine region in South Australia

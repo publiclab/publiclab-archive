@@ -1,12 +1,18 @@
 ---
-nid: 10706
 title: Lending Libraries
-path: public/static/notes/liz/07-18-2014/lending-libraries.md
+tagnames: community, lending-library, response:10953
+author: liz
+path: /notes/liz/07-18-2014/lending-libraries.md
+nid: 10706
 uid: 7
-tagnames: community,lending-library,response:10953
+
 ---
 
 # Lending Libraries
+
+by [liz](../profile/liz) July 18, 2014 16:23
+
+July 18, 2014 16:23 | Tags: [community](../tag/community), [lending-library](../tag/lending-library), [response:10953](../tag/response:10953)
 
 Many of us have a tote bag, box, shelf, or even a bookcase full of gear. Many of us loan out this gear to a folks we know personally. Some organizers maintain a centralized storage place for their chapter where anyone can check out equipment. This cycle of storing and loaning could be described as a **Lending Library**, a concept that's never been formalized within Public Lab but nonetheless is emerging as a strong part of chapter culture.
 

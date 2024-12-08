@@ -1,12 +1,18 @@
 ---
-nid: 11225
 title: Water Samples Group 7 
-path: public/static/notes/cassandrasue_/10-01-2014/water-samples-group-7.md
-uid: 427890
 tagnames: 
+author: cassandrasue_
+path: /notes/cassandrasue_/10-01-2014/water-samples-group-7.md
+nid: 11225
+uid: 427890
+
 ---
 
 # Water Samples Group 7 
+
+by [cassandrasue_](../profile/cassandrasue_) October 01, 2014 19:03
+
+October 01, 2014 19:03 | Tags: 
 
 See a [video](https://www.youtube.com/watch?v=X8v23EBZoS8&feature=youtu.be) of the conductivity of our samples! 
 

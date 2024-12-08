@@ -1,6 +1,6 @@
 # infragram-filters
 
-16 notes and wiki pages
+16 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Superblue](/notes/cfastie/04-20-2013/superblue) by [cfastie](../profile/cfastie)
 - [Rosco!](/notes/cfastie/04-21-2013/rosco) by [cfastie](../profile/cfastie)
@@ -16,5 +16,4 @@
 - [What is the latest thinking of red / blue filters for NDVI?](/notes/stevesteve/01-15-2018/what-is-the-latest-thinking-of-red-green-filters-for-ndvi) by [stevesteve](../profile/stevesteve)
 - [Hacked Infragram Raspberry Pi camera now on the International Space Station](/notes/warren/04-02-2018/hacked-infragram-raspberry-pi-camera-now-on-the-international-space-station) by [warren](../profile/warren)
 - [Which RGB channel is the near-infrared saved in for the red and blue filter?  ](/notes/jenhu/04-03-2018/which-rgb-channel-is-the-near-infrared-saved-in-for-the-red-and-blue-filter) by [jenhu](../profile/jenhu)
-- [Filter Comparision](/notes/NGB/11-01-2020/filter-comparision) by [NGB](../profile/NGB)
 - [Converting a WyzeCam for 2-camera NDVI in 1 camera](/notes/DS501st/01-18-2021/converting-a-wyzecam-for-dual-camera-ndvi) by [DS501st](../profile/DS501st)

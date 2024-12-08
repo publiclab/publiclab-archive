@@ -1,12 +1,18 @@
 ---
-nid: 17728
 title: OHL
-path: public/static/wiki/ohl.md
-uid: 1
 tagnames: 
+author: warren
+path: /wiki/ohl.md
+nid: 17728
+uid: 1
+
 ---
 
 # OHL
+
+by [warren](../profile/warren)
+
+November 22, 2018 00:07 | Tags: 
 
 This page reproduces the text found at https://www.ohwr.org/documents/294 -- read more about the CERN OHL at https://www.ohwr.org/projects/cernohl/wiki
 

@@ -1,12 +1,18 @@
 ---
-nid: 698
 title: near infrared camera review
-path: public/static/wiki/near-infrared-camera-review.md
-uid: 12
 tagnames: 
+author: gonzoearth
+path: /wiki/near-infrared-camera-review.md
+nid: 698
+uid: 12
+
 ---
 
 # near infrared camera review
+
+by [gonzoearth](../profile/gonzoearth)
+
+January 19, 2012 00:40 | Tags: 
 
 Questions for Near Infrared Camera
 staff notes:

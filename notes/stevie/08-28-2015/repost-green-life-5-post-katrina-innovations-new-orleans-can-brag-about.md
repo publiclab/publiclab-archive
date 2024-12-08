@@ -1,12 +1,18 @@
 ---
-nid: 12181
 title: Repost: GREEN LIFE 5 POST-KATRINA INNOVATIONS NEW ORLEANS CAN BRAG ABOUT
-path: public/static/notes/stevie/08-28-2015/repost-green-life-5-post-katrina-innovations-new-orleans-can-brag-about.md
+tagnames: gulf-coast, blog, gulfcoast
+author: stevie
+path: /notes/stevie/08-28-2015/repost-green-life-5-post-katrina-innovations-new-orleans-can-brag-about.md
+nid: 12181
 uid: 422561
-tagnames: gulf-coast,blog,gulfcoast
+
 ---
 
 # Repost: GREEN LIFE 5 POST-KATRINA INNOVATIONS NEW ORLEANS CAN BRAG ABOUT
+
+by [stevie](../profile/stevie) August 28, 2015 19:18
+
+August 28, 2015 19:18 | Tags: [gulf-coast](../tag/gulf-coast), [blog](../tag/blog), [gulfcoast](../tag/gulfcoast)
 
 Check out [this post](http://www.sierraclub.org/sierra/2015-4-july-august/green-life/5-post-katrina-innovations-new-orleans-can-brag-about) from CATHERINE SCHUKNECHT in the Sierra Club Green Life Blog:: 
 

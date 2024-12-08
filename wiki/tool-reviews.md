@@ -1,12 +1,18 @@
 ---
-nid: 697
 title: Tool reviews
-path: public/static/wiki/tool-reviews.md
-uid: 1
 tagnames: 
+author: warren
+path: /wiki/tool-reviews.md
+nid: 697
+uid: 1
+
 ---
 
 # Tool reviews
+
+by [warren](../profile/warren), [alicesmith](../profile/alicesmith)
+
+January 18, 2012 19:30 | Tags: 
 
 ##Tool reviews, Jan 18, 2012##
 

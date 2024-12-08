@@ -1,6 +1,6 @@
 # land-use
 
-50 notes and wiki pages
+50 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Balloon & Kite Mapping](/wiki/balloon-mapping) (wiki)
 - [Stereo Camera](/wiki/stereo-camera) (wiki)
@@ -27,7 +27,6 @@
 - [Let public lands speak for themselves](/notes/mlamadrid/12-05-2017/let-public-lands-speak-for-themselves) by [mlamadrid](../profile/mlamadrid)
 - [What is the latest thinking of red / blue filters for NDVI?](/notes/stevesteve/01-15-2018/what-is-the-latest-thinking-of-red-green-filters-for-ndvi) by [stevesteve](../profile/stevesteve)
 - [ Canon PowerShot SD750 ](/notes/rjun86/01-26-2018/canon-powershot-sd750) by [rjun86](../profile/rjun86)
-- [Did engine rate really go up?](/notes/JonathanWilliamson/04-06-2018/did-engine-rate-really-go-up) by [JonathanWilliamson](../profile/JonathanWilliamson)
 - [Studying the impact of a Cineplex in a residential area](/notes/SSamuel/10-01-2018/studying-the-impact-of-a-cineplex-in-a-residential-area) by [SSamuel](../profile/SSamuel)
 - [Emery Board Terrain Survey ](/wiki/emery-board) (wiki)
 - [How to decide on a tool for mapping](/notes/stevie/04-26-2019/how-to-decide-on-a-tool-for-mapping) by [stevie](../profile/stevie)

@@ -1,12 +1,18 @@
 ---
-nid: 25310
 title: Rhode Island Timelapse 
-path: public/static/notes/kgradow1/12-22-2020/rhode-island-timelapse-aerial-maps.md
+tagnames: providence, balloon-mapping, aerial-photography, timelapse, development, rhode-island, northeast, lon:-71, lat:42, zoom:6
+author: kgradow1
+path: /notes/kgradow1/12-22-2020/rhode-island-timelapse-aerial-maps.md
+nid: 25310
 uid: 297929
-tagnames: providence,balloon-mapping,aerial-photography,timelapse,development,rhode-island,northeast,lon:-71,lat:42,zoom:6
+
 ---
 
 # Rhode Island Timelapse 
+
+by [kgradow1](../profile/kgradow1) December 22, 2020 16:17
+
+December 22, 2020 16:17 | Tags: [providence](../tag/providence), [balloon-mapping](../tag/balloon-mapping), [aerial-photography](../tag/aerial-photography), [timelapse](../tag/timelapse), [development](../tag/development), [rhode-island](../tag/rhode-island), [northeast](../tag/northeast), [lon:-71](../tag/lon:-71), [lat:42](../tag/lat:42), [zoom:6](../tag/zoom:6)
 
 ##Overview
 Rhode Island Department of Environmental Management has done flyovers of the state for close to 100 years.  I went through their database and took screenshots of my neighborhood (Elmhurst / Providence), Jamestown / Newport, and Warwick to see how the methodology and the landscape changed over time.  

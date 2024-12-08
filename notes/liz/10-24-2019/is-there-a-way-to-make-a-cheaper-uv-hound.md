@@ -1,12 +1,18 @@
 ---
-nid: 21284
 title: Is there a way to make a cheaper "UV Hound"?
-path: public/static/notes/liz/10-24-2019/is-there-a-way-to-make-a-cheaper-uv-hound.md
+tagnames: uv, spectrometry, air-quality, question:air-quality, mass-spectrometry
+author: liz
+path: /notes/liz/10-24-2019/is-there-a-way-to-make-a-cheaper-uv-hound.md
+nid: 21284
 uid: 7
-tagnames: uv,spectrometry,air-quality,question:air-quality,mass-spectrometry
+
 ---
 
 # Is there a way to make a cheaper "UV Hound"?
+
+by [liz](../profile/liz) October 24, 2019 19:03
+
+October 24, 2019 19:03 | Tags: [uv](../tag/uv), [spectrometry](../tag/spectrometry), [air-quality](../tag/air-quality), [question:air-quality](../tag/question:air-quality), [mass-spectrometry](../tag/mass-spectrometry)
 
 I'm posting on behalf of the amazing Houston organizer Bryan Parras, who shared some insights with me on the phone the other day. 
 

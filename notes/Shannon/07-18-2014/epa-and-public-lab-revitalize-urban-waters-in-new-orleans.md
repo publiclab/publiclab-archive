@@ -1,12 +1,18 @@
 ---
-nid: 10705
 title: EPA and Public Lab Revitalize Urban Waters in New Orleans
-path: public/static/notes/Shannon/07-18-2014/epa-and-public-lab-revitalize-urban-waters-in-new-orleans.md
+tagnames: gulf-coast, balloon-mapping, wetlands, louisiana, restoration, epa, new-orleans, urbanwater, urbanwaters, epaurbanwater, community-organizing, project, project:wetlands, fresh-water, urban-wetland
+author: Shannon
+path: /notes/Shannon/07-18-2014/epa-and-public-lab-revitalize-urban-waters-in-new-orleans.md
+nid: 10705
 uid: 9
-tagnames: gulf-coast,balloon-mapping,wetlands,louisiana,restoration,epa,new-orleans,urbanwater,urbanwaters,epaurbanwater,community-organizing,project,project:wetlands,fresh-water,urban-wetland
+
 ---
 
 # EPA and Public Lab Revitalize Urban Waters in New Orleans
+
+by [Shannon](../profile/Shannon) July 18, 2014 13:25
+
+July 18, 2014 13:25 | Tags: [gulf-coast](../tag/gulf-coast), [balloon-mapping](../tag/balloon-mapping), [wetlands](../tag/wetlands), [louisiana](../tag/louisiana), [restoration](../tag/restoration), [epa](../tag/epa), [new-orleans](../tag/new-orleans), [urbanwater](../tag/urbanwater), [urbanwaters](../tag/urbanwaters), [epaurbanwater](../tag/epaurbanwater), [community-organizing](../tag/community-organizing), [project](../tag/project), [project:wetlands](../tag/project:wetlands), [fresh-water](../tag/fresh-water), [urban-wetland](../tag/urban-wetland)
 
 _Below is a Press Release issued from EPA Region (original release can be found [here](http://yosemite.epa.gov/opa/admpress.nsf/0/e5121d8de2c3ce5585257d1800572d20?OpenDocument)). Additional information on EPA Urban Waters grants in the Region 6 area can be found in this [Nola.com article](http://www.nola.com/environment/index.ssf/2014/07/new_orleans_community_groups_s.html)._
 

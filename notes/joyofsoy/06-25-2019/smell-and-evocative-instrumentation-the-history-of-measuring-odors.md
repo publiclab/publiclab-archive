@@ -1,12 +1,18 @@
 ---
-nid: 19856
 title: Smell and Evocative Instrumentation: The history of measuring odors.
-path: public/static/notes/joyofsoy/06-25-2019/smell-and-evocative-instrumentation-the-history-of-measuring-odors.md
+tagnames: odors, odor-logging, csf, csf16, with:nadya
+author: joyofsoy
+path: /notes/joyofsoy/06-25-2019/smell-and-evocative-instrumentation-the-history-of-measuring-odors.md
+nid: 19856
 uid: 540844
-tagnames: odors,odor-logging,csf,csf16,with:nadya
+
 ---
 
 # Smell and Evocative Instrumentation: The history of measuring odors.
+
+by [joyofsoy](../profile/joyofsoy) June 25, 2019 16:14
+
+June 25, 2019 16:14 | Tags: [odors](../tag/odors), [odor-logging](../tag/odor-logging), [csf](../tag/csf), [csf16](../tag/csf16), [with:nadya](../tag/with:nadya)
 
 **A version of this story by Nadya Peek is published in Public Lab's *Community Science Forum*, Issue 16.** 
 

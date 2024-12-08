@@ -1,12 +1,18 @@
 ---
-nid: 11070
 title: A non-maker's take on the Picayune Make :) 
-path: public/static/notes/stevie/08-21-2014/a-non-maker-s-take-on-the-picayune-make.md
+tagnames: gulf-coast, event, picayune-make
+author: stevie
+path: /notes/stevie/08-21-2014/a-non-maker-s-take-on-the-picayune-make.md
+nid: 11070
 uid: 422561
-tagnames: gulf-coast,event,picayune-make
+
 ---
 
 # A non-maker's take on the Picayune Make :) 
+
+by [stevie](../profile/stevie) August 21, 2014 20:25
+
+August 21, 2014 20:25 | Tags: [gulf-coast](../tag/gulf-coast), [event](../tag/event), [picayune-make](../tag/picayune-make)
 
 The Picayune Make Event was a great opportunity for community members to come out and experience electronics, circuit board making and test out just about anything! I had never been to a Make event before, and it was a great experience. Ever since I was a child, I was really careful with electronics because they are expensive, and I don't really understand how they work. So if something broke, it was always a total loss. I learned this isn't the case at Picayune Make. Avid Makers were really excited to see old toaster ovens, heating units and printers. Where I would look at this equipment and see yet another money sink, Makers see these things as tools and opportunities to repurpose! 
 

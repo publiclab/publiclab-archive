@@ -1,12 +1,18 @@
 ---
-nid: 14074
 title: U-blox GPS board
-path: public/static/notes/cfastie/03-31-2017/u-blox-gps-board.md
+tagnames: arduino, gps, sensors, altitude, data-logging, skypod, response:14036, ublox
+author: cfastie
+path: /notes/cfastie/03-31-2017/u-blox-gps-board.md
+nid: 14074
 uid: 554
-tagnames: arduino,gps,sensors,altitude,data-logging,skypod,response:14036,ublox
+
 ---
 
 # U-blox GPS board
+
+by [cfastie](../profile/cfastie) March 31, 2017 23:09
+
+March 31, 2017 23:09 | Tags: [arduino](../tag/arduino), [gps](../tag/gps), [sensors](../tag/sensors), [altitude](../tag/altitude), [data-logging](../tag/data-logging), [skypod](../tag/skypod), [response:14036](../tag/response:14036), [ublox](../tag/ublox)
 
 _Above: I walked this loop which is about two miles long. The route in the upper and upper left part of the image is in a steep valley where reception from many GPS satellites could be blocked._
 

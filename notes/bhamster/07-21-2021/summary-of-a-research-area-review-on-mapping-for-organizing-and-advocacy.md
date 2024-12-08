@@ -1,12 +1,18 @@
 ---
-nid: 27255
 title: Summary of a research area review on mapping for organizing and advocacy
-path: public/static/notes/bhamster/07-21-2021/summary-of-a-research-area-review-on-mapping-for-organizing-and-advocacy.md
+tagnames: aerial-photography, mapping, organizing, with:liz, advocacy, reviews, research-area-review, advocacy-with-maps, pin:organizing
+author: bhamster
+path: /notes/bhamster/07-21-2021/summary-of-a-research-area-review-on-mapping-for-organizing-and-advocacy.md
+nid: 27255
 uid: 664477
-tagnames: aerial-photography,mapping,organizing,with:liz,advocacy,reviews,research-area-review,advocacy-with-maps,pin:organizing
+
 ---
 
 # Summary of a research area review on mapping for organizing and advocacy
+
+by [bhamster](../profile/bhamster) July 21, 2021 23:00
+
+July 21, 2021 23:00 | Tags: [aerial-photography](../tag/aerial-photography), [mapping](../tag/mapping), [organizing](../tag/organizing), [with:liz](../tag/with:liz), [advocacy](../tag/advocacy), [reviews](../tag/reviews), [research-area-review](../tag/research-area-review), [advocacy-with-maps](../tag/advocacy-with-maps), [pin:organizing](../tag/pin:organizing)
 
 We've wrapped up our latest collaborative [research area review on mapping for community organizing and advocacy](https://publiclab.org/notes/bhamster/04-27-2021/research-area-review-on-mapping-for-organizing-and-advocacy "https://publiclab.org/notes/bhamster/04-27-2021/research-area-review-on-mapping-for-organizing-and-advocacy")!
 

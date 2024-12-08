@@ -1,12 +1,18 @@
 ---
-nid: 13484
 title: sandbox-hacking
-path: public/static/wiki/sandbox-hacking.md
-uid: 7
 tagnames: 
+author: liz
+path: /wiki/sandbox-hacking.md
+nid: 13484
+uid: 7
+
 ---
 
 # sandbox-hacking
+
+by [liz](../profile/liz)
+
+September 26, 2016 18:31 | Tags: 
 
 #Header
 

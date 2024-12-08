@@ -1,12 +1,16 @@
 ---
-nid: 11742
 title: anniversary-banner-backup
-path: public/static/feature/anniversary-banner-backup.md
-uid: 1
 tagnames: 
+author: warren
+path: /feature/anniversary-banner-backup.md
+nid: 11742
+uid: 1
+
 ---
 
 # anniversary-banner-backup
+
+April 03, 2015 19:24 | Tags: 
 
 <div id="anniversary">
 <div class="progress hidden-phone">

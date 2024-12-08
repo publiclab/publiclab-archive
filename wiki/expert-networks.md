@@ -1,12 +1,18 @@
 ---
-nid: 15942
 title: Expert networks
-path: public/static/wiki/expert-networks.md
+tagnames: expertise, experts, expert-networks
+author: warren
+path: /wiki/expert-networks.md
+nid: 15942
 uid: 1
-tagnames: expertise,experts,expert-networks
+
 ---
 
 # Expert networks
+
+by [warren](../profile/warren)
+
+March 13, 2018 21:09 | Tags: [expertise](../tag/expertise), [experts](../tag/experts), [expert-networks](../tag/expert-networks)
 
 Different organizations and coalitions of people with specific sets of expertise have been organized to offer support of different kinds -- from professional scientists to people organizing around environmental issues. This page collects links to a variety of these efforts by topic and region.
 

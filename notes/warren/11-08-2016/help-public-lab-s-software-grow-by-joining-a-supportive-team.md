@@ -1,12 +1,18 @@
 ---
-nid: 13687
 title: Help Public Lab’s software grow by joining a supportive team
-path: public/static/notes/warren/11-08-2016/help-public-lab-s-software-grow-by-joining-a-supportive-team.md
+tagnames: software, gsoc, web, coding, github, wwg, activity:software, software-outreach, 1234, mentoring, activity:soc, activity:software-outreach, series:software-outreach
+author: warren
+path: /notes/warren/11-08-2016/help-public-lab-s-software-grow-by-joining-a-supportive-team.md
+nid: 13687
 uid: 1
-tagnames: software,gsoc,web,coding,github,wwg,activity:software,software-outreach,1234,mentoring,activity:soc,activity:software-outreach,series:software-outreach
+
 ---
 
 # Help Public Lab’s software grow by joining a supportive team
+
+by [warren](../profile/warren) November 08, 2016 21:55
+
+November 08, 2016 21:55 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [web](../tag/web), [coding](../tag/coding), [github](../tag/github), [wwg](../tag/wwg), [activity:software](../tag/activity:software), [software-outreach](../tag/software-outreach), [1234](../tag/1234), [mentoring](../tag/mentoring), [activity:soc](../tag/activity:soc), [activity:software-outreach](../tag/activity:software-outreach), [series:software-outreach](../tag/series:software-outreach)
 
 [PublicLab.org][1] and PL's [other open source software][2] is written, maintained, and dreamed up by community contributors, just like the techniques you see on [PublicLab.org][1] itself. While you can read about our software development projects at [https://publiclab.org/wiki/developers][3], we know not everyone can jump into being a code contributor -- but we also know there are lots of other ways you can help out, **even without taking on a coding task**.
 

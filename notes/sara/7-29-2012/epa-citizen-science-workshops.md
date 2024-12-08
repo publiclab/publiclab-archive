@@ -1,12 +1,18 @@
 ---
-nid: 3013
 title: EPA Citizen Science Workshops
-path: public/static/notes/sara/7-29-2012/epa-citizen-science-workshops.md
+tagnames: new-york-city, epa, new-jersey, northeast
+author: sara
+path: /notes/sara/7-29-2012/epa-citizen-science-workshops.md
+nid: 3013
 uid: 8
-tagnames: new-york-city,epa,new-jersey,northeast
+
 ---
 
 # EPA Citizen Science Workshops
+
+by [sara](../profile/sara) July 29, 2012 21:33
+
+July 29, 2012 21:33 | Tags: [new-york-city](../tag/new-york-city), [epa](../tag/epa), [new-jersey](../tag/new-jersey), [northeast](../tag/northeast)
 
 On the 18th and 19th of July, Liz Barry, Leif Percifield and I attended EPA first ever Citizen Science Workshops. Also in attendance were our friends at Global Community Monitor. This was there first time being formally invited to present to the EPA. Among other presenters were Riverkeeper, speaking about their remarkable longterm project tracking sewage levels all the Hudson River 
 

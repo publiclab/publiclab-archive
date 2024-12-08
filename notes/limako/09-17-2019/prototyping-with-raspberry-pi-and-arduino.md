@@ -1,12 +1,18 @@
 ---
-nid: 20899
 title: Prototyping with Raspberry Pi and Arduino
-path: public/static/notes/limako/09-17-2019/prototyping-with-raspberry-pi-and-arduino.md
+tagnames: arduino, education, raspberry-pi, umass-amherst, prototyping, first-time-poster
+author: limako
+path: /notes/limako/09-17-2019/prototyping-with-raspberry-pi-and-arduino.md
+nid: 20899
 uid: 546871
-tagnames: arduino,education,raspberry-pi,umass-amherst,prototyping,first-time-poster
+
 ---
 
 # Prototyping with Raspberry Pi and Arduino
+
+by [limako](../profile/limako) September 17, 2019 20:23
+
+September 17, 2019 20:23 | Tags: [arduino](../tag/arduino), [education](../tag/education), [raspberry-pi](../tag/raspberry-pi), [umass-amherst](../tag/umass-amherst), [prototyping](../tag/prototyping), [first-time-poster](../tag/first-time-poster)
 
 I'm beginning to build a prototyping rig for students to use for learning how to build open science instrumentation.  My thought is that most instruments students might build will use either a Raspberry Pi or Arduino-like device as the platform/data logger. My thought was to have  students learn how to set up, secure, and use a raspberry pi via ssh -- and then use the raspberry pi to program an Arduino via the command line. There's a steep learning curve for starting out, but it will encourage students to learn the foundational skills with the command line that, in the long run, will make it much easier to support and interact with their instruments.
 

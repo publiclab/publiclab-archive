@@ -1,12 +1,18 @@
 ---
-nid: 10572
 title: Public Lab Community Newsletter June 14, 2014
-path: public/static/notes/Shannon/06-15-2014/public-lab-community-newsletter-june-14-2014.md
+tagnames: newsletter, newsletter-archive
+author: Shannon
+path: /notes/Shannon/06-15-2014/public-lab-community-newsletter-june-14-2014.md
+nid: 10572
 uid: 9
-tagnames: newsletter,newsletter-archive
+
 ---
 
 # Public Lab Community Newsletter June 14, 2014
+
+by [Shannon](../profile/Shannon) June 15, 2014 15:41
+
+June 15, 2014 15:41 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
 
 This week in the Public Lab community newsletter take a look at images from the Barnraising last weekend, read updates on the final Barataria Bay mapping trip and work being done around dust sensing and check out posts on community science and storytelling such as “exploring the space unseen”. Enjoy!
 

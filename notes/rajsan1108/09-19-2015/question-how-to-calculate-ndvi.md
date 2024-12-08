@@ -1,12 +1,18 @@
 ---
-nid: 12231
 title: Question: how to calculate NDVI
-path: public/static/notes/rajsan1108/09-19-2015/question-how-to-calculate-ndvi.md
-uid: 451698
 tagnames: question:infragram
+author: rajsan1108
+path: /notes/rajsan1108/09-19-2015/question-how-to-calculate-ndvi.md
+nid: 12231
+uid: 451698
+
 ---
 
 # Question: how to calculate NDVI
+
+by [rajsan1108](../profile/rajsan1108) September 19, 2015 13:30
+
+September 19, 2015 13:30 | Tags: [question:infragram](../tag/question:infragram)
 
 sir I am researcher in Punjab agricultural university Ludhiana, Punjab (India ). I have bought your camera for NDVI calculation of the corn field for my project work.
 1) I used infragram for image analysis but after uploading image of IR camera and select NDVI for point and shoot camera option on red filter then I select HSV mode.then I obtain red and yellowish image but after that how will I know the NDVI value. please guide me and tell me full process so that I am able to find NDVI.

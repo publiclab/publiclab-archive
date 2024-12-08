@@ -1,12 +1,18 @@
 ---
-nid: 21429
 title: Removing IR filter from basic webcam?
-path: public/static/notes/jevs/11-09-2019/removing-ir-filter-from-basic-webcam.md
+tagnames: question:lego-spectrometer, lego-spectrometer, first-time-poster
+author: jevs
+path: /notes/jevs/11-09-2019/removing-ir-filter-from-basic-webcam.md
+nid: 21429
 uid: 635927
-tagnames: question:lego-spectrometer,lego-spectrometer,first-time-poster
+
 ---
 
 # Removing IR filter from basic webcam?
+
+by [jevs](../profile/jevs) November 09, 2019 01:09
+
+November 09, 2019 01:09 | Tags: [question:lego-spectrometer](../tag/question:lego-spectrometer), [lego-spectrometer](../tag/lego-spectrometer), [first-time-poster](../tag/first-time-poster)
 
 I bought a basic webcam like the one shown in the kit. Took it apart. Pulled what I thought might be the IR glass off the sensor. I knew it was a risk, but I got the glass off the sensor, but must have broke it also. 
 

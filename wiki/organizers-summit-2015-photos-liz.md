@@ -1,12 +1,18 @@
 ---
-nid: 12423
 title: organizers-summit-2015-photos-liz
-path: public/static/wiki/organizers-summit-2015-photos-liz.md
+tagnames: barnraising, barnraising-2015
+author: liz
+path: /wiki/organizers-summit-2015-photos-liz.md
+nid: 12423
 uid: 7
-tagnames: barnraising,barnraising-2015
+
 ---
 
 # organizers-summit-2015-photos-liz
+
+by [liz](../profile/liz)
+
+November 20, 2015 13:42 | Tags: [barnraising](../tag/barnraising), [barnraising-2015](../tag/barnraising-2015)
 
 [![IMG_20151119_091234161_HDR.jpg](//i.publiclab.org/system/images/photos/000/012/788/medium/IMG_20151119_091234161_HDR.jpg)](//i.publiclab.org/system/images/photos/000/012/788/original/IMG_20151119_091234161_HDR.jpg)
 

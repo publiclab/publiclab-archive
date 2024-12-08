@@ -1,12 +1,18 @@
 ---
-nid: 12046
 title: Oil Testing Kit -- discerning 5W30 20W30
-path: public/static/notes/gretchengehrke/07-10-2015/oil-testing-kit-discerning-5w30-20w30.md
+tagnames: spectrometer, oil, desktop-spectrometer, oil-testing-kit, oiltestkit
+author: gretchengehrke
+path: /notes/gretchengehrke/07-10-2015/oil-testing-kit-discerning-5w30-20w30.md
+nid: 12046
 uid: 430549
-tagnames: spectrometer,oil,desktop-spectrometer,oil-testing-kit,oiltestkit
+
 ---
 
 # Oil Testing Kit -- discerning 5W30 20W30
+
+by [gretchengehrke](../profile/gretchengehrke) July 10, 2015 15:59
+
+July 10, 2015 15:59 | Tags: [spectrometer](../tag/spectrometer), [oil](../tag/oil), [desktop-spectrometer](../tag/desktop-spectrometer), [oil-testing-kit](../tag/oil-testing-kit), [oiltestkit](../tag/oiltestkit)
 
 ###What I want to do
 I am taking spectra of the five oils in the Oil Testing Kit, and I forgot to label one of the cuvettes.  Based on color, I could not determine if it was 5W30 or 20W50, so I compared the fluorescence spectra with hopes that they would have different lambda-max values.

@@ -1,12 +1,18 @@
 ---
-nid: 19234
 title: People who work on soil- join us for methods jam this Tuesday! 
-path: public/static/notes/DanielleS/05-03-2019/people-who-work-on-soil-join-us-for-methods-jam-this-tuesday.md
+tagnames: event, soil, event:rsvp, soil-testing, soil-contamination, soil-contamination-testing, date:05-07-2019
+author: DanielleS
+path: /notes/DanielleS/05-03-2019/people-who-work-on-soil-join-us-for-methods-jam-this-tuesday.md
+nid: 19234
 uid: 569208
-tagnames: event,soil,event:rsvp,soil-testing,soil-contamination,soil-contamination-testing,date:05-07-2019
+
 ---
 
 # People who work on soil- join us for methods jam this Tuesday! 
+
+by [DanielleS](../profile/DanielleS) May 03, 2019 20:57
+
+May 03, 2019 20:57 | Tags: [event](../tag/event), [soil](../tag/soil), [event:rsvp](../tag/event:rsvp), [soil-testing](../tag/soil-testing), [soil-contamination](../tag/soil-contamination), [soil-contamination-testing](../tag/soil-contamination-testing), [date:05-07-2019](../tag/date:05-07-2019)
 
 Last month during the Public Lab Open Hour we shared our methods for soil testing and analysis. You can [watch the recorded call here](https://www.youtube.com/watch?v=xqAdO86NAkY&feature=youtu.be) and [read the notes from the meeting here](https://publiclab.org/talk/soil). 
 

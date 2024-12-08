@@ -1,12 +1,18 @@
 ---
-nid: 11987
 title: 2015 Regional Barnraising 
-path: public/static/wiki/2015-regional-barnraising.md
+tagnames: barnraising, chicago, midwest, mid-west, regionalbarnraising
+author: stevie
+path: /wiki/2015-regional-barnraising.md
+nid: 11987
 uid: 422561
-tagnames: barnraising,chicago,midwest,mid-west,regionalbarnraising
+
 ---
 
 # 2015 Regional Barnraising 
+
+by [liz](../profile/liz), [stevie](../profile/stevie), [klie](../profile/klie)
+
+June 18, 2015 14:22 | Tags: [barnraising](../tag/barnraising), [chicago](../tag/chicago), [midwest](../tag/midwest), [mid-west](../tag/mid-west), [regionalbarnraising](../tag/regionalbarnraising)
 
 ##The Public Lab Regional Barnraising 2015: Chicago, Illinois
 ###**June 13th and 14th**

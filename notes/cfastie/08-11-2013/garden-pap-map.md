@@ -1,12 +1,18 @@
 ---
-nid: 8988
 title: Garden PAP map
-path: public/static/notes/cfastie/08-11-2013/garden-pap-map.md
+tagnames: vermont, polemapping, garden, pole-photography, pap, pole-aerial-photography, gigapan, pole-bracket
+author: cfastie
+path: /notes/cfastie/08-11-2013/garden-pap-map.md
+nid: 8988
 uid: 554
-tagnames: vermont,polemapping,garden,pole-photography,pap,pole-aerial-photography,gigapan,pole-bracket
+
 ---
 
 # Garden PAP map
+
+by [cfastie](../profile/cfastie) August 11, 2013 03:40
+
+August 11, 2013 03:40 | Tags: [vermont](../tag/vermont), [polemapping](../tag/polemapping), [garden](../tag/garden), [pole-photography](../tag/pole-photography), [pap](../tag/pap), [pole-aerial-photography](../tag/pole-aerial-photography), [gigapan](../tag/gigapan), [pole-bracket](../tag/pole-bracket)
 
 <em>Image above: The backyard garden which had never been photographed from above.</em>
 <p>.</p>

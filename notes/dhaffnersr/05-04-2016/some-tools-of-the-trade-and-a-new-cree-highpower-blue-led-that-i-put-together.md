@@ -1,12 +1,18 @@
 ---
-nid: 13069
 title: Some tools of the trade and a new Cree highpower Blue LED that I put together
-path: public/static/notes/dhaffnersr/05-04-2016/some-tools-of-the-trade-and-a-new-cree-highpower-blue-led-that-i-put-together.md
-uid: 461120
 tagnames: 
+author: dhaffnersr
+path: /notes/dhaffnersr/05-04-2016/some-tools-of-the-trade-and-a-new-cree-highpower-blue-led-that-i-put-together.md
+nid: 13069
+uid: 461120
+
 ---
 
 # Some tools of the trade and a new Cree highpower Blue LED that I put together
+
+by [dhaffnersr](../profile/dhaffnersr) May 04, 2016 09:31
+
+May 04, 2016 09:31 | Tags: 
 
 I received yesterday my Cree high powered 470nm blue LED, and so I put it together and tested it out.
 

@@ -1,12 +1,18 @@
 ---
-nid: 9086
 title: Skytruthing the Bakken Shale 
-path: public/static/notes/davidmanthos/09-01-2013/skytruthing-the-bakken-shale.md
+tagnames: balloon-mapping, bakken, bakken-shale, shale, skytruth, flares, natural-gas
+author: davidmanthos
+path: /notes/davidmanthos/09-01-2013/skytruthing-the-bakken-shale.md
+nid: 9086
 uid: 224945
-tagnames: balloon-mapping,bakken,bakken-shale,shale,skytruth,flares,natural-gas
+
 ---
 
 # Skytruthing the Bakken Shale 
+
+by [davidmanthos](../profile/davidmanthos) September 01, 2013 05:10
+
+September 01, 2013 05:10 | Tags: [balloon-mapping](../tag/balloon-mapping), [bakken](../tag/bakken), [bakken-shale](../tag/bakken-shale), [shale](../tag/shale), [skytruth](../tag/skytruth), [flares](../tag/flares), [natural-gas](../tag/natural-gas)
 
 UPDATE: The launch was a success! Read our first report at - [http://blog.skytruth.org/2013/09/skytruth-the-bakken-field-report.html](http://blog.skytruth.org/2013/09/skytruth-the-bakken-field-report.html)
 

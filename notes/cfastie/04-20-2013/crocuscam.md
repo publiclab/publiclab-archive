@@ -1,12 +1,18 @@
 ---
-nid: 6924
 title: CrocusCam
-path: public/static/notes/cfastie/04-20-2013/crocuscam.md
+tagnames: near-infrared-camera, nrg, ndvi, nir, vermont, infragram, plant-health, timelapse, category:observe, activity:timelapse, difficulty:hard, time:10h
+author: cfastie
+path: /notes/cfastie/04-20-2013/crocuscam.md
+nid: 6924
 uid: 554
-tagnames: near-infrared-camera,nrg,ndvi,nir,vermont,infragram,plant-health,timelapse,category:observe,activity:timelapse,difficulty:hard,time:10h
+
 ---
 
 # CrocusCam
+
+by [cfastie](../profile/cfastie) April 20, 2013 04:50
+
+April 20, 2013 04:50 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [nrg](../tag/nrg), [ndvi](../tag/ndvi), [nir](../tag/nir), [vermont](../tag/vermont), [infragram](../tag/infragram), [plant-health](../tag/plant-health), [timelapse](../tag/timelapse), [category:observe](../tag/category:observe), [activity:timelapse](../tag/activity:timelapse), [difficulty:hard](../tag/difficulty:hard), [time:10h](../tag/time:10h)
 
 <em>Image above: Ned Horning dropped by while the CrocusCam was doing its crocus camera thing. I spread vermiculite around the plants to reduce the difference in albedo between the soil and the flowers. The little Sanm cameras do not have much dynamic range.</em>
 

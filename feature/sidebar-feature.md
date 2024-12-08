@@ -1,12 +1,16 @@
 ---
-nid: 11741
 title: sidebar-feature
-path: public/static/feature/sidebar-feature.md
-uid: 1
 tagnames: 
+author: warren
+path: /feature/sidebar-feature.md
+nid: 11741
+uid: 1
+
 ---
 
 # sidebar-feature
+
+April 03, 2015 19:22 | Tags: 
 
   <div class="sidebar-nav hidden-sm hidden-xs">
 

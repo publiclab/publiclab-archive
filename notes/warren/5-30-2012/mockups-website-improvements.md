@@ -1,12 +1,18 @@
 ---
-nid: 2261
 title: Mockups for website improvements
-path: public/static/notes/warren/5-30-2012/mockups-website-improvements.md
-uid: 1
 tagnames: website
+author: warren
+path: /notes/warren/5-30-2012/mockups-website-improvements.md
+nid: 2261
+uid: 1
+
 ---
 
 # Mockups for website improvements
+
+by [warren](../profile/warren) May 30, 2012 22:14
+
+May 30, 2012 22:14 | Tags: [website](../tag/website)
 
 For those interested or already involved in one of the ongoing projects to improve the Public Lab website:
 

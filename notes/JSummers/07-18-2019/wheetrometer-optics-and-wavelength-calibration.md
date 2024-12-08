@@ -1,12 +1,18 @@
 ---
-nid: 20183
 title: WheeTrometer Optics and Wavelength Calibration
-path: public/static/notes/JSummers/07-18-2019/wheetrometer-optics-and-wavelength-calibration.md
+tagnames: spectrometer, wheetrometer, spectrophotometry
+author: JSummers
+path: /notes/JSummers/07-18-2019/wheetrometer-optics-and-wavelength-calibration.md
+nid: 20183
 uid: 304279
-tagnames: spectrometer,wheetrometer,spectrophotometry
+
 ---
 
 # WheeTrometer Optics and Wavelength Calibration
+
+by [JSummers](../profile/JSummers) July 18, 2019 19:55
+
+July 18, 2019 19:55 | Tags: [spectrometer](../tag/spectrometer), [wheetrometer](../tag/wheetrometer), [spectrophotometry](../tag/spectrophotometry)
 
 We are working to develop low cost spectrometers for UV-vis-near IR wavelengths based on the Toshiba TCD1304 charge coupled device. This is an update on our earlier work, which can be found [here](https://publiclab.org/notes/JSummers/08-16-2018/wheetrometer-spectrometer-update-part-2) and [here](https://publiclab.org/notes/JSummers/06-03-2018/updating-the-wheetrometer-code-for-running-the-ccd) and [here](https://publiclab.org/notes/JSummers/12-29-2018/programming-texas-instruments-microcontrollers-using-the-tiva-c-launchpad). It has been quite a while since we wrote about this and we have made and tested quite a few prototypes. In this research note, I am presenting some of our work on this effort.
 

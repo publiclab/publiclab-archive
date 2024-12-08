@@ -1,6 +1,6 @@
 # question-lego-spectrometer
 
-32 notes and wiki pages
+32 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Getting the spectrometer to work with a Raspberry Pi?](/notes/anjohn12/04-14-2016/question-getting-the-spectrometer-to-work-with-a-raspberry-pi) by [anjohn12](../profile/anjohn12)
 - [Can I upgrade a DIY spectrometer with a Raspberry Pi camera?](/notes/warren/09-28-2016/upgrade-a-diy-spectrometer-with-a-raspberry-pi-camera) by [warren](../profile/warren)
@@ -22,7 +22,6 @@
 - [Does the image quality of the raspberry camera higher than the webcam?](/notes/Builder6274/09-03-2018/does-the-image-quality-of-the-raspberry-camera-higher-than-the-webcam) by [Builder6274](../profile/Builder6274)
 - [Does the image quality of the raspberry camera higher than the webcam?](/notes/Builder6274/09-03-2018/does-the-image-quality-of-the-raspberry-camera-higher-than-the-webcam) by [Builder6274](../profile/Builder6274)
 - [Lego Spectrometer cardboard cut out template? ](/notes/aga/10-25-2018/lego-spectrometer-cardboards) by [aga](../profile/aga)
-- [how to get rid of hair fall](/notes/ghdv1234/01-03-2019/how-to-get-rid-of-hair-fall) by [ghdv1234](../profile/ghdv1234)
 - [What could be some applications of a hand-powered paper centrifuge?](/notes/mimiss/04-01-2019/what-could-be-some-applications-of-a-hand-powered-paper-centrifuge) by [mimiss](../profile/mimiss)
 - [What size cuvettes are used for the lego spectrometer?](/notes/joquendo/05-11-2019/what-size-cuvettes-are-used-for-the-lego-spectrometer) by [joquendo](../profile/joquendo)
 - [Can't access pi camera in Spectral Workbench](/notes/lukemcpheters/07-08-2019/can-t-access-pi-camera-in-spectral-workbench) by [lukemcpheters](../profile/lukemcpheters)

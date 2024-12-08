@@ -1,12 +1,18 @@
 ---
-nid: 12746
 title: Sensor Journalism: A Reflection on the Opportunities and Challenges it Brings
-path: public/static/notes/deirdrem/02-24-2016/sensor-journalism-a-reflection-on-the-opportunities-and-challenges-it-brings.md
+tagnames: sensor-journalism, response:12748, hidden:response
+author: deirdrem
+path: /notes/deirdrem/02-24-2016/sensor-journalism-a-reflection-on-the-opportunities-and-challenges-it-brings.md
+nid: 12746
 uid: 461479
-tagnames: sensor-journalism,response:12748,hidden:response
+
 ---
 
 # Sensor Journalism: A Reflection on the Opportunities and Challenges it Brings
+
+by [deirdrem](../profile/deirdrem) February 24, 2016 19:03
+
+February 24, 2016 19:03 | Tags: [sensor-journalism](../tag/sensor-journalism), [response:12748](../tag/response:12748), [hidden:response](../tag/hidden:response)
 
 The technological advances of the 21st century are changing the types of stories journalists cover and how they find information to report on those stories. In our Data Visualization class, we have studied the history of data journalism, explored the tools available for journalists to organize and present data and discussed the importance of transparency in sharing data. A sector of data journalism that is becoming increasingly popular is “sensor journalism”. As the Tow Center for Digital Journalism report states in their [article](http://towcenter.org/research/sensors-and-journalism/) on Sensor Journalism,  “The increasing ubiquity of sensors, their increasing capability and accessibility are on the supply side, while investigative reporters, computer aided reporters and journalist/technologists are on the demand side.” In guest lecturer Lily Bui’s presentation, she defined sensor journalism as “Generating or collecting data from sensors, then using that data to tell a story.”
 

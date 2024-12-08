@@ -1,6 +1,6 @@
 # activity-localization-managers
 
-4 notes and wiki pages
+4 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Invite someone to translate on Transifex (managers)](/notes/liz/10-26-2016/how-to-invite-someone-to-translate-on-transifex) by [liz](../profile/liz)
 - [Add a new language in Transifex (managers)](/notes/liz/10-26-2016/add-a-new-language-in-transifex-managers) by [liz](../profile/liz)

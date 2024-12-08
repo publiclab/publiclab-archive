@@ -1,12 +1,18 @@
 ---
-nid: 23853
 title: Editor Bug Report Template
-path: public/static/wiki/editor-bug-report-template.md
-uid: 671968
 tagnames: template
+author: asoamarachi
+path: /wiki/editor-bug-report-template.md
+nid: 23853
+uid: 671968
+
 ---
 
 # Editor Bug Report Template
+
+by [asoamarachi](../profile/asoamarachi)
+
+June 15, 2020 11:31 | Tags: [template](../tag/template)
 
 ## Help us document this bug.
 

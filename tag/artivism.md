@@ -1,6 +1,6 @@
 # artivism
 
-5 notes and wiki pages
+5 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Territories || Borders](/notes/pixellibre/08-11-2019/territories-borders) by [pixellibre](../profile/pixellibre)
 - [Infragram Pi Cameras and public installation: For the tool setup, can the camera can be connected to other devices like a tablet, to instantly view photos on a screen?](/notes/amocorro/05-26-2021/infragram-pi-cameras-and-installation-for-the-tool-setup-can-the-camera-can-be-connected-to-other-devices-like-a-tablet-to-instantly-view-photos-on-a-screen) by [amocorro](../profile/amocorro)

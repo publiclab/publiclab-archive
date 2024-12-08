@@ -1,12 +1,18 @@
 ---
-nid: 922
 title: Public Lab Bibliography
-path: public/static/wiki/public-lab-bibliography.md
-uid: 8
 tagnames: locked
+author: sara
+path: /wiki/public-lab-bibliography.md
+nid: 922
+uid: 8
+
 ---
 
 # Public Lab Bibliography
+
+by [Shannon](../profile/Shannon), [sara](../profile/sara)
+
+March 13, 2012 21:39 | Tags: [locked](../tag/locked)
 
 **Works Cited**
 

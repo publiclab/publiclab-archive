@@ -1,12 +1,18 @@
 ---
-nid: 3736
 title: Art Environment Action!
-path: public/static/notes/liz/9-11-2012/art-environment-action.md
+tagnames: balloon-mapping, mapknitter
+author: liz
+path: /notes/liz/9-11-2012/art-environment-action.md
+nid: 3736
 uid: 7
-tagnames: balloon-mapping,mapknitter
+
 ---
 
 # Art Environment Action!
+
+by [liz](../profile/liz) September 11, 2012 13:49
+
+September 11, 2012 13:49 | Tags: [balloon-mapping](../tag/balloon-mapping), [mapknitter](../tag/mapknitter)
 
 For those in NYC: 
 A warm invitation to the opening reception of AEA! on September 27.  The location is 2 W 13th Street, Kellen Gallery. The invite is attached -- please feel free to circulate and post.  Also, the website for registration is live www.sjdcparsons.org (it's on the invitation).  Please encourage people to sign up.   

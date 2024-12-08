@@ -1,12 +1,18 @@
 ---
-nid: 23130
 title: Outreachy Proposal: Optimize Performance and Accessibility of Public Lab Content.
-path: public/static/notes/itm2017004/03-12-2020/outreachy-proposal-optimize-performance-and-accessibility-of-public-lab-content.md
+tagnames: app, soc, first-time-poster, soc-2020-proposals, outreachy-2020, outreachy-2020-proposals
+author: itm2017004
+path: /notes/itm2017004/03-12-2020/outreachy-proposal-optimize-performance-and-accessibility-of-public-lab-content.md
+nid: 23130
 uid: 667155
-tagnames: app,soc,first-time-poster,soc-2020-proposals,outreachy-2020,outreachy-2020-proposals
+
 ---
 
 # Outreachy Proposal: Optimize Performance and Accessibility of Public Lab Content.
+
+by [itm2017004](../profile/itm2017004) March 12, 2020 18:01
+
+March 12, 2020 18:01 | Tags: [app](../tag/app), [soc](../tag/soc), [first-time-poster](../tag/first-time-poster), [soc-2020-proposals](../tag/soc-2020-proposals), [outreachy-2020](../tag/outreachy-2020), [outreachy-2020-proposals](../tag/outreachy-2020-proposals)
 
 ## About me
 

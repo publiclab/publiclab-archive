@@ -1,12 +1,18 @@
 ---
-nid: 15325
 title: Embed a Q&A system on another website
-path: public/static/notes/warren/12-06-2017/embed-a-q-a-system-on-another-website.md
+tagnames: question, activities, activity:activities, activity:questions
+author: warren
+path: /notes/warren/12-06-2017/embed-a-q-a-system-on-another-website.md
+nid: 15325
 uid: 1
-tagnames: question,activities,activity:activities,activity:questions
+
 ---
 
 # Embed a Q&A system on another website
+
+by [warren](../profile/warren) December 06, 2017 21:56
+
+December 06, 2017 21:56 | Tags: [question](../tag/question), [activities](../tag/activities), [activity:activities](../tag/activity:activities), [activity:questions](../tag/activity:questions)
 
 Our Q&A system is based at [https://publiclab.org/questions](https://publiclab.org/questions) -- but most of our questions are actually sorted by topic, on pages like:  
 

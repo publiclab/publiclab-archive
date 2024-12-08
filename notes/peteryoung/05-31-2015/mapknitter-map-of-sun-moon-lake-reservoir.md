@@ -1,12 +1,18 @@
 ---
-nid: 11920
 title: MapKnitter map of Sun Moon Lake Reservoir
-path: public/static/notes/peteryoung/05-31-2015/mapknitter-map-of-sun-moon-lake-reservoir.md
+tagnames: mapknitter, asia, taiwan, lat:23.8654727, lon:120.9120994
+author: peteryoung
+path: /notes/peteryoung/05-31-2015/mapknitter-map-of-sun-moon-lake-reservoir.md
+nid: 11920
 uid: 440752
-tagnames: mapknitter,asia,taiwan,lat:23.8654727,lon:120.9120994
+
 ---
 
 # MapKnitter map of Sun Moon Lake Reservoir
+
+by [peteryoung](../profile/peteryoung) May 31, 2015 15:55
+
+May 31, 2015 15:55 | Tags: [mapknitter](../tag/mapknitter), [asia](../tag/asia), [taiwan](../tag/taiwan), [lat:23.8654727](../tag/lat:23.8654727), [lon:120.9120994](../tag/lon:120.9120994)
 
 <iframe src="https://mapknitter.org/embed/sun-moon-lake-reservoir--2" style="border:none" width="600px" height="400px"></iframe><br /><br />
 

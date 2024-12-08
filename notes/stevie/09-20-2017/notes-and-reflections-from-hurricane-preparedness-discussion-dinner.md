@@ -1,12 +1,18 @@
 ---
-nid: 14921
 title: Notes and Reflections from Hurricane Preparedness Discussion/Dinner
-path: public/static/notes/stevie/09-20-2017/notes-and-reflections-from-hurricane-preparedness-discussion-dinner.md
+tagnames: gulf-coast, disaster-preparedness, workshop, new-orleans, hurricane, with:mimibell, nas, disaster-response, nola, resilience, water-works
+author: stevie
+path: /notes/stevie/09-20-2017/notes-and-reflections-from-hurricane-preparedness-discussion-dinner.md
+nid: 14921
 uid: 422561
-tagnames: gulf-coast,disaster-preparedness,workshop,new-orleans,hurricane,with:mimibell,nas,disaster-response,nola,resilience,water-works
+
 ---
 
 # Notes and Reflections from Hurricane Preparedness Discussion/Dinner
+
+by [stevie](../profile/stevie) September 20, 2017 16:51
+
+September 20, 2017 16:51 | Tags: [gulf-coast](../tag/gulf-coast), [disaster-preparedness](../tag/disaster-preparedness), [workshop](../tag/workshop), [new-orleans](../tag/new-orleans), [hurricane](../tag/hurricane), [with:mimibell](../tag/with:mimibell), [nas](../tag/nas), [disaster-response](../tag/disaster-response), [nola](../tag/nola), [resilience](../tag/resilience), [water-works](../tag/water-works)
 
 Monday, [Water Works][1] hosted Hurricane Preparedness Discussion and Dinner event in partnership with Public Lab. The event was facilitated by Sebastian Rey and was hosted at The Warehouse in New Orleans. The goal of the event was to identify opportunities for collaboration between organizations representing community interests throughout the Gulf Coast on hurricane preparedness. 
 

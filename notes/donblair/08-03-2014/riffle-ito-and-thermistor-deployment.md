@@ -1,12 +1,18 @@
 ---
-nid: 11009
 title: RIffle-ito and Thermistor Deployment
-path: public/static/notes/donblair/08-03-2014/riffle-ito-and-thermistor-deployment.md
+tagnames: temperature, riffle
+author: donblair
+path: /notes/donblair/08-03-2014/riffle-ito-and-thermistor-deployment.md
+nid: 11009
 uid: 43651
-tagnames: temperature,riffle
+
 ---
 
 # RIffle-ito and Thermistor Deployment
+
+by [donblair](../profile/donblair) August 03, 2014 16:18
+
+August 03, 2014 16:18 | Tags: [temperature](../tag/temperature), [riffle](../tag/riffle)
 
 > This post was written by Jeffrey D Walker  on August, 3 , 2014.  I've just copied it from its original location in a github repo, [here](https://github.com/walkerjeffd/riffle-ito-apps/blob/master/analyses/20140731_thermistor/index.md). 
 

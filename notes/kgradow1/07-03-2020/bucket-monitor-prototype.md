@@ -1,12 +1,18 @@
 ---
-nid: 24090
 title: First Pass Bucket Build
-path: public/static/notes/kgradow1/07-03-2020/bucket-monitor-prototype.md
+tagnames: air-quality, bucket-brigade, global-community-monitor, air-sampling, lat:42, lon:-70, zoom:6, bucket-monitor, parent:bucket-monitor
+author: kgradow1
+path: /notes/kgradow1/07-03-2020/bucket-monitor-prototype.md
+nid: 24090
 uid: 297929
-tagnames: air-quality,bucket-brigade,global-community-monitor,air-sampling,lat:42,lon:-70,zoom:6,bucket-monitor,parent:bucket-monitor
+
 ---
 
 # First Pass Bucket Build
+
+by [kgradow1](../profile/kgradow1) July 03, 2020 20:21
+
+July 03, 2020 20:21 | Tags: [air-quality](../tag/air-quality), [bucket-brigade](../tag/bucket-brigade), [global-community-monitor](../tag/global-community-monitor), [air-sampling](../tag/air-sampling), [lat:42](../tag/lat:42), [lon:-70](../tag/lon:-70), [zoom:6](../tag/zoom:6), [bucket-monitor](../tag/bucket-monitor), [parent:bucket-monitor](../tag/parent:bucket-monitor)
 
 \##Purpose
 

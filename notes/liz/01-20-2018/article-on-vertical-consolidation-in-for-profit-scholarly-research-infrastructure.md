@@ -1,12 +1,18 @@
 ---
-nid: 15573
 title: article on vertical consolidation in for-profit scholarly research infrastructure
-path: public/static/notes/liz/01-20-2018/article-on-vertical-consolidation-in-for-profit-scholarly-research-infrastructure.md
-uid: 7
 tagnames: knowledge-production
+author: liz
+path: /notes/liz/01-20-2018/article-on-vertical-consolidation-in-for-profit-scholarly-research-infrastructure.md
+nid: 15573
+uid: 7
+
 ---
 
 # article on vertical consolidation in for-profit scholarly research infrastructure
+
+by [liz](../profile/liz) January 20, 2018 20:56
+
+January 20, 2018 20:56 | Tags: [knowledge-production](../tag/knowledge-production)
 
 _lead image from http://knowledgegap.org/index.php/sub-projects/rent-seeking-and-financialization-of-the-academic-publishing-industry/preliminary-findings/_
 

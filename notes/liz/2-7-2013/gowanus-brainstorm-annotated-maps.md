@@ -1,12 +1,18 @@
 ---
-nid: 5917
 title: Gowanus brainstorm on annotated maps
-path: public/static/notes/liz/2-7-2013/gowanus-brainstorm-annotated-maps.md
-uid: 7
 tagnames: 
+author: liz
+path: /notes/liz/2-7-2013/gowanus-brainstorm-annotated-maps.md
+nid: 5917
+uid: 7
+
 ---
 
 # Gowanus brainstorm on annotated maps
+
+by [liz](../profile/liz) February 07, 2013 21:59
+
+February 07, 2013 21:59 | Tags: 
 
 <em>Organizer <a href="/people/gwirth">Gena Wirth</a> shows her large format print</em>
 <strong>Exercise on feature design for annotated maps:</strong>

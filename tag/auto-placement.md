@@ -1,6 +1,6 @@
 # auto-placement
 
-5 notes and wiki pages
+5 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [MapKnitter Auto-placement](/wiki/mapknitter-auto-placement) (wiki)
 - [Automatic placement of images in MapKnitter using GPS metadata](/notes/warren/03-19-2015/automatic-placement-of-images-in-mapknitter-using-gps-metadata) by [warren](../profile/warren)

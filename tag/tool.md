@@ -1,6 +1,6 @@
 # tool
 
-97 notes and wiki pages
+97 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Thermal photography](/wiki/thermal-photography) (wiki)
 - [Spectrometry](/wiki/spectrometry) (wiki)
@@ -40,10 +40,6 @@
 - [Common-anode LED thermal flashlight casing and circuit diagram](/notes/lmc6399group/02-13-2015/common-anode-led-thermal-flashlight-casing-and-circuit-diagram) by [lmc6399group](../profile/lmc6399group)
 - [DustDuino Data Quality](/notes/Willie/03-06-2015/dustduino-data-quality) by [willie](../profile/willie)
 - [DIY Pole Mapping Camera Mount](/notes/Natalie/03-06-2015/diy-pole-mapping-camera-mount) by [natalie](../profile/natalie)
-- [abc](/notes/mm1/06-02-2015/abc) by [mm1](../profile/mm1)
-- [spectar](/notes/mm1/06-02-2015/spectar) by [mm1](../profile/mm1)
-- [Unban](/notes/kacakrstic97/06-02-2015/unban) by [kacakrstic97](../profile/kacakrstic97)
-- [sprectar](/notes/marina_lazarevic/06-03-2015/sprectar) by [marina_lazarevic](../profile/marina_lazarevic)
 - [DIY Document Scanning](/notes/ajawitz/06-10-2015/diy-document-scanning) by [ajawitz](../profile/ajawitz)
 - [Mãe d'Água](/wiki/mae-d-agua) (wiki)
 - [KAPtery Aerial Rigs](/wiki/kaptery-aerial-rigs) (wiki)
@@ -86,16 +82,11 @@
 - [I just made my  Papercraft  Spectrometer and have no idea what to next!](/notes/TeacherHelen/03-22-2018/i-just-made-my-papercraft-spectrometer-and-have-no-idea-what-to-next) by [TeacherHelen](../profile/TeacherHelen)
 - [How to Get Excited About Climate Change Prep #climatechange #science #citizenscience](/notes/Zengirl2/03-22-2018/how-to-get-excited-about-climate-change-prep-climatechange-science-citizenscience) by [zengirl2](../profile/zengirl2)
 - [Will this gadget work for spectrophotometry?](/notes/jjroper/06-15-2018/will-this-gadget-work-for-spectrophotometry) by [jjroper](../profile/jjroper)
-- [Creating a media campaign for casino](/notes/Alovend/06-19-2018/creating-a-media-campaign-for-casino) by [Alovend](../profile/Alovend)
 - [Best light source for spectrometer?](/notes/jneish/07-10-2018/best-light-source-for-spectrometer) by [jneish](../profile/jneish)
 - [Most accurate spectrographs? ](/notes/jneish/07-10-2018/most-accurate-spectrographs) by [jneish](../profile/jneish)
 - [What are the initial steps you take when you begin a new environmental data investigation?](/notes/sylvan/07-17-2018/what-are-the-initial-steps-you-take-when-you-begin-a-new-environmental-data-investigation) by [sylvan](../profile/sylvan)
 - [Cheap multispectral camera ](/notes/maykef/10-12-2018/cheap-multispectral-camera) by [maykef](../profile/maykef)
-- [A Complete guide of SEO Submission List | SEO Tools](/notes/crazyjar/08-20-2019/a-complete-guide-of-seo-submission-list-seo-tools) by [crazyjar](../profile/crazyjar)
 - [Guia de mapeo colectivo con globos y cometas en español](/notes/imvec/02-08-2020/guia-de-mapeo-colectivo-con-globos-y-cometas-en-espanol) by [imvec](../profile/imvec)
 - [Bucket Monitor](/wiki/bucket-monitor) (wiki)
-- [Next Generation SharePoint Migration Tool](/notes/sharepoint_saketa/05-25-2020/next-generation-sharepoint-migration-tool) by [sharepoint_saketa](../profile/sharepoint_saketa)
-- [Are you a new mom?](/notes/bestmultitoolbrands/06-11-2020/are-you-a-new-mom) by [bestmultitoolbrands](../profile/bestmultitoolbrands)
 - [WheeStat potentiostat "sold out" in Public Lab store, how can I learn more about this tool?](/notes/amocorro/05-26-2021/wheestat-potentiostat-sold-out-in-public-lab-store-how-can-i-learn-more-about-this-unit) by [amocorro](../profile/amocorro)
 - [PicaPiKAP: cámara de mapeo libre y abierta](/notes/imvec/10-30-2023/picapikap-camara-de-mapeo-libre-y-abierta) by [imvec](../profile/imvec)
-- [Master Data Management Solutions Tool ](/notes/jordansmith8055/06-13-2024/master-data-management-solutions-tool) by [jordansmith8055](../profile/jordansmith8055)

@@ -1,12 +1,18 @@
 ---
-nid: 19091
 title: Would it be possible to make our own microscopic scale rulers (micrometers) using optical discs (DVDs?)
-path: public/static/notes/warren/04-17-2019/would-it-be-possible-to-make-our-own-microscopic-scale-rulers-micrometers-using-optical-discs-dvds.md
+tagnames: calibration, cd, dvd, blu-ray, microscope, microscopes, question:microscope, question:microscopes, question:basic-microscope, scale, community-microscope, question:community-microscope, cd-rom, dvd-r, optical-disc, micrometer
+author: warren
+path: /notes/warren/04-17-2019/would-it-be-possible-to-make-our-own-microscopic-scale-rulers-micrometers-using-optical-discs-dvds.md
+nid: 19091
 uid: 1
-tagnames: calibration,cd,dvd,blu-ray,microscope,microscopes,question:microscope,question:microscopes,question:basic-microscope,scale,community-microscope,question:community-microscope,cd-rom,dvd-r,optical-disc,micrometer
+
 ---
 
 # Would it be possible to make our own microscopic scale rulers (micrometers) using optical discs (DVDs?)
+
+by [warren](../profile/warren) April 17, 2019 20:30
+
+April 17, 2019 20:30 | Tags: [calibration](../tag/calibration), [cd](../tag/cd), [dvd](../tag/dvd), [blu-ray](../tag/blu-ray), [microscope](../tag/microscope), [microscopes](../tag/microscopes), [question:microscope](../tag/question:microscope), [question:microscopes](../tag/question:microscopes), [question:basic-microscope](../tag/question:basic-microscope), [scale](../tag/scale), [community-microscope](../tag/community-microscope), [question:community-microscope](../tag/question:community-microscope), [cd-rom](../tag/cd-rom), [dvd-r](../tag/dvd-r), [optical-disc](../tag/optical-disc), [micrometer](../tag/micrometer)
 
 Micrometers, or microscopic rulers, are a little expensive; something like $15 each. But they're really helpful for measuring the scale of (i.e. calibrating) a microscope, as in these activities:
 

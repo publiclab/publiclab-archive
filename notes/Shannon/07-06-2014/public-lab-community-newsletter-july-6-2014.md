@@ -1,12 +1,18 @@
 ---
-nid: 10664
 title: Public Lab Community Newsletter July 6, 2014
-path: public/static/notes/Shannon/07-06-2014/public-lab-community-newsletter-july-6-2014.md
+tagnames: newsletter, newsletter-archive
+author: Shannon
+path: /notes/Shannon/07-06-2014/public-lab-community-newsletter-july-6-2014.md
+nid: 10664
 uid: 9
-tagnames: newsletter,newsletter-archive
+
 ---
 
 # Public Lab Community Newsletter July 6, 2014
+
+by [Shannon](../profile/Shannon) July 06, 2014 23:38
+
+July 06, 2014 23:38 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
 
 This week in the Public Lab community newsletter, hear updates from the west and east coasts on mapping shorelines, rivers and bays, join an intro to water quality workshop in Cambridge, MA and participate in OpenHour tomorrow, focused on near infrared imaging. Enjoy!
 

@@ -1,6 +1,6 @@
 # series-diy-wind-sensors
 
-6 notes and wiki pages
+6 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Winds aloft](/notes/cfastie/08-03-2017/winds-aloft) by [cfastie](../profile/cfastie)
 - [Winds aloft: less noise](/notes/cfastie/08-12-2017/winds-aloft-less-noise) by [cfastie](../profile/cfastie)

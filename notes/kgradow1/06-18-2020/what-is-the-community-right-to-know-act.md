@@ -1,12 +1,18 @@
 ---
-nid: 23874
 title: What is the Community Right-to-Know Act?
-path: public/static/notes/kgradow1/06-18-2020/what-is-the-community-right-to-know-act.md
+tagnames: epa, air-quality, superfund, water-quality, legal, tools, methods, bucket-brigade, serc, hazardous, emergency, tri, toxics-release-inventory, lon:-71, lat:42, zoom:6, bucket-monitor, law-and-policy
+author: kgradow1
+path: /notes/kgradow1/06-18-2020/what-is-the-community-right-to-know-act.md
+nid: 23874
 uid: 297929
-tagnames: epa,air-quality,superfund,water-quality,legal,tools,methods,bucket-brigade,serc,hazardous,emergency,tri,toxics-release-inventory,lon:-71,lat:42,zoom:6,bucket-monitor,law-and-policy
+
 ---
 
 # What is the Community Right-to-Know Act?
+
+by [kgradow1](../profile/kgradow1) June 18, 2020 01:30
+
+June 18, 2020 01:30 | Tags: [epa](../tag/epa), [air-quality](../tag/air-quality), [superfund](../tag/superfund), [water-quality](../tag/water-quality), [legal](../tag/legal), [tools](../tag/tools), [methods](../tag/methods), [bucket-brigade](../tag/bucket-brigade), [serc](../tag/serc), [hazardous](../tag/hazardous), [emergency](../tag/emergency), [tri](../tag/tri), [toxics-release-inventory](../tag/toxics-release-inventory), [lon:-71](../tag/lon:-71), [lat:42](../tag/lat:42), [zoom:6](../tag/zoom:6), [bucket-monitor](../tag/bucket-monitor), [law-and-policy](../tag/law-and-policy)
 
 Community Right-to-Know refers to the Emergency Planning and Community Right-to-Know Act (EPCRA), which was passed in the United States response to the 1984 [Bhopal chemical disaster][1].  It was passed in 1986 and created new emergency planning and reporting requirements for hazardous chemical spills.  
 

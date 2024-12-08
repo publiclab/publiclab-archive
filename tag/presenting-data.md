@@ -1,6 +1,6 @@
 # presenting-data
 
-24 notes and wiki pages
+24 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Visualizing Riffle-ito data](/notes/lilybui/10-16-2014/visualizing-riffle-ito-data) by [lilybui](../profile/lilybui)
 - [Creating a Box Plot to Identify Potential Outliers Using CODAP](/notes/mimiss/06-18-2019/creating-a-boxplot-to-identify-outliers-using-codap) by [mimiss](../profile/mimiss)
@@ -24,5 +24,4 @@
 - [Visualize data from a Simple Air Sensor using onboard serial hardware](/notes/bhamster/12-17-2021/visualize-data-from-a-simple-air-sensor-using-onboard-serial-hardware) by [bhamster](../profile/bhamster)
 - [Communicating Air Quality Data: Research Area Review Summary](/notes/bhamster/12-21-2021/communicating-air-quality-data-research-area-review-summary) by [bhamster](../profile/bhamster)
 - [What strategies have been implemented to use citizen science successfully in litigation?](/notes/julia_e_masters/01-14-2022/what-strategies-have-been-implemented-to-use-citizen-science-successfully-in-litigation) by [julia_e_masters](../profile/julia_e_masters)
-- [Quickbooks Error H202](/notes/laimrylah/01-21-2022/quickbooks-error-h202) by [laimrylah](../profile/laimrylah)
 - [Event Recap: Environmental Storytelling - Stories from the Field](/notes/fongvania/04-21-2022/event-recap-environmental-storytelling-stories-from-the-field) by [fongvania](../profile/fongvania)

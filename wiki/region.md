@@ -1,12 +1,18 @@
 ---
-nid: 10499
 title: Region
-path: public/static/wiki/region.md
+tagnames: community, chapters, region, website-utilities, parent:locations
+author: liz
+path: /wiki/region.md
+nid: 10499
 uid: 7
-tagnames: community,chapters,region,website-utilities,parent:locations
+
 ---
 
 # Region
+
+by [liz](../profile/liz), [ann](../profile/ann)
+
+May 21, 2014 16:24 | Tags: [community](../tag/community), [chapters](../tag/chapters), [region](../tag/region), [website-utilities](../tag/website-utilities), [parent:locations](../tag/parent:locations)
 
 <div class="alert alert-info">To get an overview of place-based activity beyond North America, see the <a href="/wiki/locations">location page</a>.</div>
 

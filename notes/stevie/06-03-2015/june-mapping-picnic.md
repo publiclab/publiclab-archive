@@ -1,12 +1,18 @@
 ---
-nid: 11947
 title: June Mapping Picnic 
-path: public/static/notes/stevie/06-03-2015/june-mapping-picnic.md
+tagnames: gulf-coast, balloon-mapping, event, gulfcoast, event:rsvp, rsvp:eustatic, date:06-27-2015, rsvp:klie, replication:14022
+author: stevie
+path: /notes/stevie/06-03-2015/june-mapping-picnic.md
+nid: 11947
 uid: 422561
-tagnames: gulf-coast,balloon-mapping,event,gulfcoast,event:rsvp,rsvp:eustatic,date:06-27-2015,rsvp:klie,replication:14022
+
 ---
 
 # June Mapping Picnic 
+
+by [stevie](../profile/stevie) June 03, 2015 18:46
+
+June 03, 2015 18:46 | Tags: [gulf-coast](../tag/gulf-coast), [balloon-mapping](../tag/balloon-mapping), [event](../tag/event), [gulfcoast](../tag/gulfcoast), [event:rsvp](../tag/event:rsvp), [rsvp:eustatic](../tag/rsvp:eustatic), [date:06-27-2015](../tag/date:06-27-2015), [rsvp:klie](../tag/rsvp:klie), [replication:14022](../tag/replication:14022)
 
 ####June 27th Public Lab will be hosting a Mapping Picnic at Wetland Watchers Park in Norco, Louisiana!
 

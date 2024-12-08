@@ -1,12 +1,18 @@
 ---
-nid: 11015
 title: Aerial Mapping Drone for Under $60? 
-path: public/static/notes/code4maine/08-05-2014/aerial-mapping-drone-for-under-60.md
+tagnames: grassrootsmapping, barnstar:basic
+author: ajawitz
+path: /notes/code4maine/08-05-2014/aerial-mapping-drone-for-under-60.md
+nid: 11015
 uid: 294634
-tagnames: grassrootsmapping,barnstar:basic
+
 ---
 
 # Aerial Mapping Drone for Under $60? 
+
+by [ajawitz](../profile/ajawitz) August 05, 2014 16:31
+
+August 05, 2014 16:31 | Tags: [grassrootsmapping](../tag/grassrootsmapping), [barnstar:basic](../tag/barnstar:basic)
 
 [![wing.jpg](https://i.publiclab.org/system/images/photos/000/006/938/medium/wing.jpg)](https://i.publiclab.org/system/images/photos/000/006/938/original/wing.jpg)
 

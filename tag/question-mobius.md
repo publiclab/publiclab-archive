@@ -1,6 +1,6 @@
 # question-mobius
 
-4 notes and wiki pages
+4 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [How much helium do I need to lift the mobius camera?](/notes/stevie/08-17-2016/how-much-helium-do-i-need-to-lift-the-mobius-camera) by [stevie](../profile/stevie)
 - [How to process images using a mobius with an IR lens?](/notes/miguel_rosas/10-18-2016/how-to-process-images-using-a-mobiles-with-the-ir-lens) by [miguel_rosas](../profile/miguel_rosas)

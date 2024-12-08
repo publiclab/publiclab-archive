@@ -1,12 +1,18 @@
 ---
-nid: 15996
 title: Willow Creek Water Quality Monitoring (EC and TDS)
-path: public/static/notes/MadTinker/03-21-2018/willow-creek-water-quality-monitoring-electrical-conductivity-sensor.md
+tagnames: water-quality, water-quality-sensor, activity:turbidity, activity:data-logging, mini-pearl-logger, activity:mini-pearl-logger, tds, activity:conductivity, response:14702, reclamation
+author: MadTinker
+path: /notes/MadTinker/03-21-2018/willow-creek-water-quality-monitoring-electrical-conductivity-sensor.md
+nid: 15996
 uid: 461206
-tagnames: water-quality,water-quality-sensor,activity:turbidity,activity:data-logging,mini-pearl-logger,activity:mini-pearl-logger,tds,activity:conductivity,response:14702,reclamation
+
 ---
 
 # Willow Creek Water Quality Monitoring (EC and TDS)
+
+by [MadTinker](../profile/MadTinker) March 21, 2018 22:57
+
+March 21, 2018 22:57 | Tags: [water-quality](../tag/water-quality), [water-quality-sensor](../tag/water-quality-sensor), [activity:turbidity](../tag/activity:turbidity), [activity:data-logging](../tag/activity:data-logging), [mini-pearl-logger](../tag/mini-pearl-logger), [activity:mini-pearl-logger](../tag/activity:mini-pearl-logger), [tds](../tag/tds), [activity:conductivity](../tag/activity:conductivity), [response:14702](../tag/response:14702), [reclamation](../tag/reclamation)
 
 \[The above picture is of my wife spreading grass and wild flower seeds on our section of the Willow Creek Reclamation Area. For those of you in the Western US, this should be an alarming picture. We are at the headwaters of the Rio Grande watershed and there hasn't been much snow- about 50% of snowpack. Where she is standing the snow is usually about a meter deep. If we don't get more snow this winter, you won't get water this summer. Dave \]
 

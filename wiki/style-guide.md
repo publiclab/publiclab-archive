@@ -1,12 +1,18 @@
 ---
-nid: 11739
 title: Style guide
-path: public/static/wiki/style-guide.md
+tagnames: design, style-guide, sidebar:none
+author: warren
+path: /wiki/style-guide.md
+nid: 11739
 uid: 1
-tagnames: design,style-guide,sidebar:none
+
 ---
 
 # Style guide
+
+by [warren](../profile/warren), [liz](../profile/liz)
+
+April 02, 2015 17:21 | Tags: [design](../tag/design), [style-guide](../tag/style-guide), [sidebar:none](../tag/sidebar:none)
 
 In 2019 we published a style guide for the PublicLab.org website, to set some clear design conventions, and improve consistency. This guide is designed to support coders, designers, and writers building and designing pages on PublicLab.org.
 

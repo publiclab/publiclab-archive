@@ -1,12 +1,18 @@
 ---
-nid: 26968
 title: Plastic Waste Makes both the Environment and Living beings Unhealthy 
-path: public/static/notes/Ujitha/07-02-2021/plastic-waste-makes-both-the-environment-and-living-beings-unhealthy.md
+tagnames: waste, pollution, environment, issue-brief, plastic, zoom:12, colombo, sri-lanka, lat:6.927078, lon:79.861243
+author: Ujitha
+path: /notes/Ujitha/07-02-2021/plastic-waste-makes-both-the-environment-and-living-beings-unhealthy.md
+nid: 26968
 uid: 467748
-tagnames: waste,pollution,environment,issue-brief,plastic,zoom:12,colombo,sri-lanka,lat:6.927078,lon:79.861243
+
 ---
 
 # Plastic Waste Makes both the Environment and Living beings Unhealthy 
+
+by [Ujitha](../profile/Ujitha) July 02, 2021 21:16
+
+July 02, 2021 21:16 | Tags: [waste](../tag/waste), [pollution](../tag/pollution), [environment](../tag/environment), [issue-brief](../tag/issue-brief), [plastic](../tag/plastic), [zoom:12](../tag/zoom:12), [colombo](../tag/colombo), [sri-lanka](../tag/sri-lanka), [lat:6.927078](../tag/lat:6.927078), [lon:79.861243](../tag/lon:79.861243)
 
 ### Introduction:
 

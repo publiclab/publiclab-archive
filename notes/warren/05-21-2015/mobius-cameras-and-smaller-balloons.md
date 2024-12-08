@@ -1,12 +1,18 @@
 ---
-nid: 11827
 title: Mobius cameras and smaller balloons
-path: public/static/notes/warren/05-21-2015/mobius-cameras-and-smaller-balloons.md
+tagnames: balloon-mapping, mylar, photo-rig, balloon-mapping-kit, mobius, activity:photo-rig
+author: warren
+path: /notes/warren/05-21-2015/mobius-cameras-and-smaller-balloons.md
+nid: 11827
 uid: 1
-tagnames: balloon-mapping,mylar,photo-rig,balloon-mapping-kit,mobius,activity:photo-rig
+
 ---
 
 # Mobius cameras and smaller balloons
+
+by [warren](../profile/warren) May 21, 2015 16:52
+
+May 21, 2015 16:52 | Tags: [balloon-mapping](../tag/balloon-mapping), [mylar](../tag/mylar), [photo-rig](../tag/photo-rig), [balloon-mapping-kit](../tag/balloon-mapping-kit), [mobius](../tag/mobius), [activity:photo-rig](../tag/activity:photo-rig)
 
 I've been curious about how little helium it'd take to lift a Möbius camera as we've been using for our [Infragram Point and Shoot cams](/wiki/infragram). 
 

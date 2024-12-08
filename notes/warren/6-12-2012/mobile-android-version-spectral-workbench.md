@@ -1,12 +1,18 @@
 ---
-nid: 2461
 title: Mobile (Android) version of Spectral Workbench
-path: public/static/notes/warren/6-12-2012/mobile-android-version-spectral-workbench.md
+tagnames: spectrometer, android, my-concern
+author: warren
+path: /notes/warren/6-12-2012/mobile-android-version-spectral-workbench.md
+nid: 2461
 uid: 1
-tagnames: spectrometer,android,my-concern
+
 ---
 
 # Mobile (Android) version of Spectral Workbench
+
+by [warren](../profile/warren) June 12, 2012 19:24
+
+June 12, 2012 19:24 | Tags: [spectrometer](../tag/spectrometer), [android](../tag/android), [my-concern](../tag/my-concern)
 
 I just finished the first draft of this today -- it's a basic version of the Spectral Workbench spectrometer client software which simply runs in a web browser -- on an Android phone. It only works in the Opera browser (the only mobile browser which has implemented the MediaStream API).
 

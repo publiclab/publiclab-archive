@@ -1,12 +1,18 @@
 ---
-nid: 6397
 title: Spectral Challenge Teams
-path: public/static/wiki/spectral-challenge-teams.md
+tagnames: spectrometer, spectralchallenge
+author: warren
+path: /wiki/spectral-challenge-teams.md
+nid: 6397
 uid: 1
-tagnames: spectrometer,spectralchallenge
+
 ---
 
 # Spectral Challenge Teams
+
+by [warren](../profile/warren)
+
+March 18, 2013 16:57 | Tags: [spectrometer](../tag/spectrometer), [spectralchallenge](../tag/spectralchallenge)
 
 To win the Spectral Challenge, your best bet is to form a strong team. This will speak to your collaborative ethos and help you be more ambitious in your entry!
 

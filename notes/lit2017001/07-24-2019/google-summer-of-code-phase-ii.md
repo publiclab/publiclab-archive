@@ -1,12 +1,18 @@
 ---
-nid: 20292
 title: Google Summer of Code: Phase II
-path: public/static/notes/lit2017001/07-24-2019/google-summer-of-code-phase-ii.md
+tagnames: gsoc, soc, gsoc-2019, soc-2019, soc-2019-eval
+author: lit2017001
+path: /notes/lit2017001/07-24-2019/google-summer-of-code-phase-ii.md
+nid: 20292
 uid: 577890
-tagnames: gsoc,soc,gsoc-2019,soc-2019,soc-2019-eval
+
 ---
 
 # Google Summer of Code: Phase II
+
+by [lit2017001](../profile/lit2017001) July 24, 2019 22:26
+
+July 24, 2019 22:26 | Tags: [gsoc](../tag/gsoc), [soc](../tag/soc), [gsoc-2019](../tag/gsoc-2019), [soc-2019](../tag/soc-2019), [soc-2019-eval](../tag/soc-2019-eval)
 
 It has been a very splendid time till date working on Image Sequencer and I learnt a lot of things. Here I will summarize, some core points of my work from the very first day of the coding period:
 

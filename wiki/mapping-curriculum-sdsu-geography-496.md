@@ -1,12 +1,18 @@
 ---
-nid: 73
 title: Mapping Curriculum SDSU Geography 496
-path: public/static/wiki/mapping-curriculum-sdsu-geography-496.md
+tagnames: curriculum, parent:mapping-curriculum
+author: warren
+path: /wiki/mapping-curriculum-sdsu-geography-496.md
+nid: 73
 uid: 1
-tagnames: curriculum,parent:mapping-curriculum
+
 ---
 
 # Mapping Curriculum SDSU Geography 496
+
+by [warren](../profile/warren), [mariakat](../profile/mariakat)
+
+February 01, 2011 20:14 | Tags: [curriculum](../tag/curriculum), [parent:mapping-curriculum](../tag/parent:mapping-curriculum)
 
 Written by Stewart Long for the San Diego State University Geography Department in anticipation of use Fall 2011 for Geography 496: Selected Studies in Geography. This course will be conducted over four to five, three hour class sessions and integrates field sessions with the critical analysis of the Grassroots Mapping process.
 

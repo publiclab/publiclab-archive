@@ -1,12 +1,18 @@
 ---
-nid: 12553
 title: Creating Graphic User Interfaces (GUIs)
-path: public/static/wiki/creating-graphic-user-interfaces-guis.md
+tagnames: gui, graphic-user-interface
+author: JSummers
+path: /wiki/creating-graphic-user-interfaces-guis.md
+nid: 12553
 uid: 304279
-tagnames: gui,graphic-user-interface
+
 ---
 
 # Creating Graphic User Interfaces (GUIs)
+
+by [JSummers](../profile/JSummers)
+
+January 01, 2016 20:23 | Tags: [gui](../tag/gui), [graphic-user-interface](../tag/graphic-user-interface)
 
 This wiki was written to help people with limited computer / microcontroller experience write graphic user interfaces.  While I have not put a lot of effort into finding then, I have not seen many examples of open source GUI code out there.  In the text below, we provide links to examples (and a few modules) that I hope will enable people to understand and modify GUIs that they find and to write their own when necessary.
 

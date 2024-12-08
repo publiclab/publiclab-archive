@@ -1,12 +1,18 @@
 ---
-nid: 13720
 title: What are the limits to what can be interpreted from a photograph without an expert witness?
-path: public/static/notes/warren/11-22-2016/what-are-the-limits-to-what-can-be-interpreted-from-a-photograph-without-an-expert-witness.md
+tagnames: evidence, photo-monitoring, timelapse, legal, question:evidence, court, question:legal, law-and-policy, question:law-and-policy
+author: warren
+path: /notes/warren/11-22-2016/what-are-the-limits-to-what-can-be-interpreted-from-a-photograph-without-an-expert-witness.md
+nid: 13720
 uid: 1
-tagnames: evidence,photo-monitoring,timelapse,legal,question:evidence,court,question:legal,law-and-policy,question:law-and-policy
+
 ---
 
 # What are the limits to what can be interpreted from a photograph without an expert witness?
+
+by [warren](../profile/warren) November 22, 2016 18:30
+
+November 22, 2016 18:30 | Tags: [evidence](../tag/evidence), [photo-monitoring](../tag/photo-monitoring), [timelapse](../tag/timelapse), [legal](../tag/legal), [question:evidence](../tag/question:evidence), [court](../tag/court), [question:legal](../tag/question:legal), [law-and-policy](../tag/law-and-policy), [question:law-and-policy](../tag/question:law-and-policy)
 
 ...and what factors play into this determination?
 

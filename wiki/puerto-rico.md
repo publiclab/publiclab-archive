@@ -1,12 +1,18 @@
 ---
-nid: 12131
 title: Puerto Rico
-path: public/static/wiki/puerto-rico.md
+tagnames: pr, place, caribbean, puerto-rico, location:blurred, lat:18, lon:-66
+author: liz
+path: /wiki/puerto-rico.md
+nid: 12131
 uid: 7
-tagnames: pr,place,caribbean,puerto-rico,location:blurred,lat:18,lon:-66
+
 ---
 
 # Puerto Rico
+
+by [warren](../profile/warren), [liz](../profile/liz)
+
+August 10, 2015 20:02 | Tags: [pr](../tag/pr), [place](../tag/place), [caribbean](../tag/caribbean), [puerto-rico](../tag/puerto-rico), [location:blurred](../tag/location:blurred), [lat:18](../tag/lat:18), [lon:-66](../tag/lon:-66)
 
 
 

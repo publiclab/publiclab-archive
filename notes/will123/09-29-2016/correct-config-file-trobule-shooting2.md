@@ -1,12 +1,18 @@
 ---
-nid: 13505
 title: Correct Config. File & Trobule shooting2
-path: public/static/notes/will123/09-29-2016/correct-config-file-trobule-shooting2.md
+tagnames: infragram, question:infragram, question:infragram-point-shoot
+author: will123
+path: /notes/will123/09-29-2016/correct-config-file-trobule-shooting2.md
+nid: 13505
 uid: 492777
-tagnames: infragram,question:infragram,question:infragram-point-shoot
+
 ---
 
 # Correct Config. File & Trobule shooting2
+
+by [will123](../profile/will123) September 29, 2016 01:28
+
+September 29, 2016 01:28 | Tags: [infragram](../tag/infragram), [question:infragram](../tag/question:infragram), [question:infragram-point-shoot](../tag/question:infragram-point-shoot)
 
 ###What I want to do
 I want to verify my mobius camera is taking the correct type photos

@@ -1,12 +1,18 @@
 ---
-nid: 10605
 title: Balloon Mapping at Faculty of Science, Olomouc, Czech Republic
-path: public/static/notes/JirkaPanek/06-23-2014/balloon-mapping-at-faculty-of-science-olomouc-czech-republic.md
+tagnames: balloon-mapping, chdk, field, test
+author: JirkaPanek
+path: /notes/JirkaPanek/06-23-2014/balloon-mapping-at-faculty-of-science-olomouc-czech-republic.md
+nid: 10605
 uid: 179
-tagnames: balloon-mapping,chdk,field,test
+
 ---
 
 # Balloon Mapping at Faculty of Science, Olomouc, Czech Republic
+
+by [JirkaPanek](../profile/JirkaPanek) June 23, 2014 07:53
+
+June 23, 2014 07:53 | Tags: [balloon-mapping](../tag/balloon-mapping), [chdk](../tag/chdk), [field](../tag/field), [test](../tag/test)
 
 ###What I want to do
 In April 2014 I tried my first balloon mapping attempt with my students, as a part of Participatory GIS class. We didnt succeed, as I didnt have enough helium, to make the balloon fly, you can read more about our failure in this [research note](http://publiclab.org/notes/JirkaPanek/04-01-2014/balloon-mapping-at-the-department-of-development-studies-olomouc-czech-republic). 

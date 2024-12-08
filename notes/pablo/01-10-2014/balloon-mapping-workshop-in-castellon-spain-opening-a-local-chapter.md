@@ -1,12 +1,18 @@
 ---
-nid: 9935
 title: Balloon mapping workshop in Castellón (Spain): opening a local chapter
-path: public/static/notes/pablo/01-10-2014/balloon-mapping-workshop-in-castellon-spain-opening-a-local-chapter.md
+tagnames: balloon-mapping, spain, events:spain, eu
+author: pablo
+path: /notes/pablo/01-10-2014/balloon-mapping-workshop-in-castellon-spain-opening-a-local-chapter.md
+nid: 9935
 uid: 160
-tagnames: balloon-mapping,spain,events:spain,eu
+
 ---
 
 # Balloon mapping workshop in Castellón (Spain): opening a local chapter
+
+by [pablo](../profile/pablo) January 10, 2014 09:58
+
+January 10, 2014 09:58 | Tags: [balloon-mapping](../tag/balloon-mapping), [spain](../tag/spain), [events:spain](../tag/events:spain), [eu](../tag/eu)
 
 ### What we want to do
 We are starting this project as part of an exhibition in Castellón (Spain) in the EACC (Espai d'art contemporani de Castelló). At [Basurama](http://basurama.org) we want to continue with the [6,000km mapping project](http://6000km.org/localizaciones) and use the Public Lab techniques for aerial mapping. A workshop is a good format to engage with the local community and build a community of users/teachers. It could be a good beginning to start a Spanish Public Lab local chapter. We will start using [the mailing list in Spanish](https://groups.google.com/forum/#!forum/laboratoriopublico), that was initially used in Perú. 

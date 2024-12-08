@@ -1,12 +1,18 @@
 ---
-nid: 12835
 title: GSOC 2016 : Expanded Q&A System
-path: public/static/notes/jiteshxyz/03-11-2016/gsoc-2016-expanded-q-a-system.md
+tagnames: software, gsoc, coding, hidden:response, gsoc-2016, gsoc-2016-proposals, response:12827, first-time-poster
+author: jiteshxyz
+path: /notes/jiteshxyz/03-11-2016/gsoc-2016-expanded-q-a-system.md
+nid: 12835
 uid: 468400
-tagnames: software,gsoc,coding,hidden:response,gsoc-2016,gsoc-2016-proposals,response:12827,first-time-poster
+
 ---
 
 # GSOC 2016 : Expanded Q&A System
+
+by [jiteshxyz](../profile/jiteshxyz) March 11, 2016 23:36
+
+March 11, 2016 23:36 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [coding](../tag/coding), [hidden:response](../tag/hidden:response), [gsoc-2016](../tag/gsoc-2016), [gsoc-2016-proposals](../tag/gsoc-2016-proposals), [response:12827](../tag/response:12827), [first-time-poster](../tag/first-time-poster)
 
 **Name:** Jitesh Kumar Jha
 

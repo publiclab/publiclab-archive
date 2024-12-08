@@ -1,6 +1,6 @@
 # anniversary
 
-3 notes and wiki pages
+3 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [anniversary-banner]()
 - [Celebrating Public Lab's tenth anniversary](/wiki/anniversary) (wiki)

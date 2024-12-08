@@ -1,12 +1,18 @@
 ---
-nid: 29988
 title: Contributing to Research Area Reviews
-path: public/static/wiki/contributing-to-reviews.md
+tagnames: research, guidelines, contributing, reviews, research-area-review, parent:reviews
+author: bhamster
+path: /wiki/contributing-to-reviews.md
+nid: 29988
 uid: 664477
-tagnames: research,guidelines,contributing,reviews,research-area-review,parent:reviews
+
 ---
 
 # Contributing to Research Area Reviews
+
+by [bhamster](../profile/bhamster)
+
+February 08, 2022 18:07 | Tags: [research](../tag/research), [guidelines](../tag/guidelines), [contributing](../tag/contributing), [reviews](../tag/reviews), [research-area-review](../tag/research-area-review), [parent:reviews](../tag/parent:reviews)
 
 **Welcome and thank you for your interest in contributing to a Research Area Review!** 🙋🏽🎉🎈
 

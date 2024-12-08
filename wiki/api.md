@@ -1,12 +1,18 @@
 ---
-nid: 16575
 title: API
-path: public/static/wiki/api.md
+tagnames: website, needs-revision, website-utilities
+author: warren
+path: /wiki/api.md
+nid: 16575
 uid: 1
-tagnames: website,needs-revision,website-utilities
+
 ---
 
 # API
+
+by [warren](../profile/warren)
+
+June 26, 2018 21:37 | Tags: [website](../tag/website), [needs-revision](../tag/needs-revision), [website-utilities](../tag/website-utilities)
 
 See our API documentation here:
 

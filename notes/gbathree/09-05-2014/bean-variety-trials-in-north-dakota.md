@@ -1,12 +1,18 @@
 ---
-nid: 11108
 title: Bean Variety Trials in North Dakota
-path: public/static/notes/gbathree/09-05-2014/bean-variety-trials-in-north-dakota.md
+tagnames: soil, photosynq, multispeq, carbon, co2, beans, breeding
+author: gbathree
+path: /notes/gbathree/09-05-2014/bean-variety-trials-in-north-dakota.md
+nid: 11108
 uid: 53164
-tagnames: soil,photosynq,multispeq,carbon,co2,beans,breeding
+
 ---
 
 # Bean Variety Trials in North Dakota
+
+by [gbathree](../profile/gbathree) September 05, 2014 18:46
+
+September 05, 2014 18:46 | Tags: [soil](../tag/soil), [photosynq](../tag/photosynq), [multispeq](../tag/multispeq), [carbon](../tag/carbon), [co2](../tag/co2), [beans](../tag/beans), [breeding](../tag/breeding)
 
 So we took 6 MultispeQs to North Dakota and measured 150 varities of the common bean.  We're interested in the common bean in part because it is widely used in developing countries.
 [

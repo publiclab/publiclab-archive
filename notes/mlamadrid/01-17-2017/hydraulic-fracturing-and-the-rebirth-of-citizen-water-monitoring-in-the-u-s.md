@@ -1,12 +1,18 @@
 ---
-nid: 13857
 title: Hydraulic Fracturing and the Rebirth of Citizen Water Monitoring in the U.S
-path: public/static/notes/mlamadrid/01-17-2017/hydraulic-fracturing-and-the-rebirth-of-citizen-water-monitoring-in-the-u-s.md
+tagnames: citizen-science, water-quality, water, communityscienceforum, water-monitor, fractracker
+author: mlamadrid
+path: /notes/mlamadrid/01-17-2017/hydraulic-fracturing-and-the-rebirth-of-citizen-water-monitoring-in-the-u-s.md
+nid: 13857
 uid: 45586
-tagnames: citizen-science,water-quality,water,communityscienceforum,water-monitor,fractracker
+
 ---
 
 # Hydraulic Fracturing and the Rebirth of Citizen Water Monitoring in the U.S
+
+by [mlamadrid](../profile/mlamadrid) January 17, 2017 23:54
+
+January 17, 2017 23:54 | Tags: [citizen-science](../tag/citizen-science), [water-quality](../tag/water-quality), [water](../tag/water), [communityscienceforum](../tag/communityscienceforum), [water-monitor](../tag/water-monitor), [fractracker](../tag/fractracker)
 
 Article by Kirk Jalbert, Manager of Community-Based Research & Engagement, [FracTracker Alliance](https://www.fractracker.org) for [Community Science Forum: Water](https://publiclab.org/forum)
 

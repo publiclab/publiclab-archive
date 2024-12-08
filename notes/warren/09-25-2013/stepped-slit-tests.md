@@ -1,12 +1,18 @@
 ---
-nid: 9373
 title: Stepped slit tests
-path: public/static/notes/warren/09-25-2013/stepped-slit-tests.md
+tagnames: spectrometer, slit, clipping, response:9366, stepped-slit, slit-width
+author: warren
+path: /notes/warren/09-25-2013/stepped-slit-tests.md
+nid: 9373
 uid: 1
-tagnames: spectrometer,slit,clipping,response:9366,stepped-slit,slit-width
+
 ---
 
 # Stepped slit tests
+
+by [warren](../profile/warren) September 25, 2013 13:42
+
+September 25, 2013 13:42 | Tags: [spectrometer](../tag/spectrometer), [slit](../tag/slit), [clipping](../tag/clipping), [response:9366](../tag/response:9366), [stepped-slit](../tag/stepped-slit), [slit-width](../tag/slit-width)
 
 ##What I want to do
 

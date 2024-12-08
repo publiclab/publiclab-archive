@@ -1,12 +1,18 @@
 ---
-nid: 12110
 title: Argonne Interns at Public Lab 2015 Midwest Regional Barnraising
-path: public/static/notes/wsnutt/07-31-2015/argonne-interns-at-public-lab-2015-midwest-regional-barnraising.md
+tagnames: barnraising, blog, barnstar:basic
+author: wsnutt
+path: /notes/wsnutt/07-31-2015/argonne-interns-at-public-lab-2015-midwest-regional-barnraising.md
+nid: 12110
 uid: 446438
-tagnames: barnraising,blog,barnstar:basic
+
 ---
 
 # Argonne Interns at Public Lab 2015 Midwest Regional Barnraising
+
+by [wsnutt](../profile/wsnutt) July 31, 2015 16:12
+
+July 31, 2015 16:12 | Tags: [barnraising](../tag/barnraising), [blog](../tag/blog), [barnstar:basic](../tag/barnstar:basic)
 
 The Public Lab Chicago Barnraising was a great opportunity for local community members to connect with each other and with Public Lab about citizen science.  This event provided us much insight about citizen science for our intern research project at Argonne National Laboratory, and we would like to share our experiences from the weekend!  
 

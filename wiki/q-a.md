@@ -1,12 +1,18 @@
 ---
-nid: 12702
 title: Q&A
-path: public/static/wiki/q-a.md
-uid: 7
 tagnames: 
+author: liz
+path: /wiki/q-a.md
+nid: 12702
+uid: 7
+
 ---
 
 # Q&A
+
+by [liz](../profile/liz)
+
+February 17, 2016 16:07 | Tags: 
 
 <div class="alert">This page is a stub and needs to be expanded.</div>
 

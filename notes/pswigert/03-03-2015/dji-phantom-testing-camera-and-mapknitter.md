@@ -1,12 +1,18 @@
 ---
-nid: 11653
 title: DJI Phantom- Testing Camera and Mapknitter
-path: public/static/notes/pswigert/03-03-2015/dji-phantom-testing-camera-and-mapknitter.md
-uid: 434699
 tagnames: uav-mapping
+author: pswigert
+path: /notes/pswigert/03-03-2015/dji-phantom-testing-camera-and-mapknitter.md
+nid: 11653
+uid: 434699
+
 ---
 
 # DJI Phantom- Testing Camera and Mapknitter
+
+by [pswigert](../profile/pswigert) March 03, 2015 21:59
+
+March 03, 2015 21:59 | Tags: [uav-mapping](../tag/uav-mapping)
 
 As part of a research project I'm working on at UC Berkeley I'm exploring opportunities for sharing and collaborating on aerial imagery, obviously something Public Lab has lots of experience with.
 

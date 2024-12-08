@@ -1,12 +1,18 @@
 ---
-nid: 711
 title: Storyboard sketches for thermal flashlight
-path: public/static/notes/warren/1-20-2012/storyboard-sketches-thermal-flashlight.md
-uid: 1
 tagnames: 
+author: warren
+path: /notes/warren/1-20-2012/storyboard-sketches-thermal-flashlight.md
+nid: 711
+uid: 1
+
 ---
 
 # Storyboard sketches for thermal flashlight
+
+by [warren](../profile/warren) January 20, 2012 16:34
+
+January 20, 2012 16:34 | Tags: 
 
 Been working on sketches for possible illustrated guides and also generally to explain how to use a thermal flashlight. Below, a parts list sketch. For the below sketch, I have [a version in Google Presentations](https://docs.google.com/presentation/d/1aL_7crXbEaR3gcNO9AlAFapraZHXwRGSow7QFw3C8Tg/edit) which has labels and rough pricing. I tried to highball the prices to be as conservative as possible. 
 

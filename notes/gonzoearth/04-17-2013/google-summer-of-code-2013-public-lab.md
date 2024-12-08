@@ -1,12 +1,18 @@
 ---
-nid: 6877
 title: Google Summer of Code 2013 & Public Lab
-path: public/static/notes/gonzoearth/04-17-2013/google-summer-of-code-2013-public-lab.md
+tagnames: mapknitter, spectralworkbench, gsoc, gsoc-2013, google, google-summer-of-code
+author: gonzoearth
+path: /notes/gonzoearth/04-17-2013/google-summer-of-code-2013-public-lab.md
+nid: 6877
 uid: 12
-tagnames: mapknitter,spectralworkbench,gsoc,gsoc-2013,google,google-summer-of-code
+
 ---
 
 # Google Summer of Code 2013 & Public Lab
+
+by [gonzoearth](../profile/gonzoearth) April 17, 2013 18:22
+
+April 17, 2013 18:22 | Tags: [mapknitter](../tag/mapknitter), [spectralworkbench](../tag/spectralworkbench), [gsoc](../tag/gsoc), [gsoc-2013](../tag/gsoc-2013), [google](../tag/google), [google-summer-of-code](../tag/google-summer-of-code)
 
 Public Lab is happy to announce that we are part of the Google Summer of Code (GSOC) 2013 program!
 

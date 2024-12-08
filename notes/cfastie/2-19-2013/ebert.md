@@ -1,12 +1,18 @@
 ---
-nid: 6061
 title: Ebert
-path: public/static/notes/cfastie/2-19-2013/ebert.md
+tagnames: spectrometer, vermont, open-hardware, grating, desktop-spectrometer, ebert, upgrade:spectrometry
+author: cfastie
+path: /notes/cfastie/2-19-2013/ebert.md
+nid: 6061
 uid: 554
-tagnames: spectrometer,vermont,open-hardware,grating,desktop-spectrometer,ebert,upgrade:spectrometry
+
 ---
 
 # Ebert
+
+by [cfastie](../profile/cfastie) February 20, 2013 01:09
+
+February 20, 2013 01:09 | Tags: [spectrometer](../tag/spectrometer), [vermont](../tag/vermont), [open-hardware](../tag/open-hardware), [grating](../tag/grating), [desktop-spectrometer](../tag/desktop-spectrometer), [ebert](../tag/ebert), [upgrade:spectrometry](../tag/upgrade:spectrometry)
 
 The video below suggests that I had a plan for this new spectrometer, but that plan changed every day as the device came together in the last couple of weeks.  Stuff I found in the garage and at the hardware store altered the design, and my observations on the [SpectroBench 2000]( http://publiclaboratory.org/notes/cfastie/2-5-2013/grating-angle) completely changed the final dimensions and angles. The angles above could still change, but I'm not planning on changing the slit-to-grating distance.
 

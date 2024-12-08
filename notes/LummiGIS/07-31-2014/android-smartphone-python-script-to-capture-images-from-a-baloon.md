@@ -1,12 +1,18 @@
 ---
-nid: 11002
 title: Android smartphone/Python Script to capture images from a balloon.
-path: public/static/notes/LummiGIS/07-31-2014/android-smartphone-python-script-to-capture-images-from-a-baloon.md
-uid: 426179
 tagnames: balloon-mapping
+author: LummiGIS
+path: /notes/LummiGIS/07-31-2014/android-smartphone-python-script-to-capture-images-from-a-baloon.md
+nid: 11002
+uid: 426179
+
 ---
 
 # Android smartphone/Python Script to capture images from a balloon.
+
+by [LummiGIS](../profile/LummiGIS) July 31, 2014 22:34
+
+July 31, 2014 22:34 | Tags: [balloon-mapping](../tag/balloon-mapping)
 
 We used an old Android smartphone, the Scripting Language for Android (SL4A), and Python to auto trigger the phones camera while suspended from a balloon.  This was a nice alternative to purchasing a camera since I had the old phone sitting around and no rubber banding the camera button was needed.  While there was an app available from the Google Play store to auto capture images, the app only captured low resolution images with a max 10 second delay.  
 

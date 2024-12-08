@@ -1,12 +1,18 @@
 ---
-nid: 12959
 title: Repeatability
-path: public/static/notes/viechdokter/04-11-2016/repeatability.md
+tagnames: spectrometer, oil-testing-kit, barnstar:empiricism, repeatability, empiricism
+author: viechdokter
+path: /notes/viechdokter/04-11-2016/repeatability.md
+nid: 12959
 uid: 468990
-tagnames: spectrometer,oil-testing-kit,barnstar:empiricism,repeatability,empiricism
+
 ---
 
 # Repeatability
+
+by [viechdokter](../profile/viechdokter) April 11, 2016 22:26
+
+April 11, 2016 22:26 | Tags: [spectrometer](../tag/spectrometer), [oil-testing-kit](../tag/oil-testing-kit), [barnstar:empiricism](../tag/barnstar:empiricism), [repeatability](../tag/repeatability), [empiricism](../tag/empiricism)
 
 I am not sure if this word even exists in the English language but well... I browsed this forum and found some notes by "stoft" about rigidness of the PLab spectrometer and proposals how to make the setup more stable. Because I had some stability problems, too, when I put together my PLab Spec. 3.0 I found the proposals and the comments very interesting. One point in this discussion was that results should be repeatable (even for different users with different spectrometers) so that for instance an oil pollution spectra database could make any sense at all.
 

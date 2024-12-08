@@ -1,12 +1,18 @@
 ---
-nid: 12013
 title: Gulf Coast Wetlands 
-path: public/static/wiki/gulf-coast-wetlands.md
-uid: 422561
 tagnames: 
+author: stevie
+path: /wiki/gulf-coast-wetlands.md
+nid: 12013
+uid: 422561
+
 ---
 
 # Gulf Coast Wetlands 
+
+by [stevie](../profile/stevie)
+
+June 26, 2015 17:43 | Tags: 
 
 Contributors to this wiki include: Jay McIlwain, Amy LeGaux and Stevie Lewis
 

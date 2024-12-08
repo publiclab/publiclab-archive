@@ -1,12 +1,18 @@
 ---
-nid: 25458
 title: Messages from the Mississippi: Lesson Plans
-path: public/static/wiki/messages-from-the-mississippi-lesson-plans.md
+tagnames: education, mississippi-river, parent:education, microplastics, babylegs, environmental-education, lesson, hands-on, baby-legs, plastic-pollution, lesson-plans
+author: mimiss
+path: /wiki/messages-from-the-mississippi-lesson-plans.md
+nid: 25458
 uid: 579821
-tagnames: education,mississippi-river,parent:education,microplastics,babylegs,environmental-education,lesson,hands-on,baby-legs,plastic-pollution,lesson-plans
+
 ---
 
 # Messages from the Mississippi: Lesson Plans
+
+by [purl](../profile/purl), [stevie](../profile/stevie), [mimiss](../profile/mimiss)
+
+January 14, 2021 02:13 | Tags: [education](../tag/education), [mississippi-river](../tag/mississippi-river), [parent:education](../tag/parent:education), [microplastics](../tag/microplastics), [babylegs](../tag/babylegs), [environmental-education](../tag/environmental-education), [lesson](../tag/lesson), [hands-on](../tag/hands-on), [baby-legs](../tag/baby-legs), [plastic-pollution](../tag/plastic-pollution), [lesson-plans](../tag/lesson-plans)
 
 ## Understanding Plastic Pollution Through Hands-On Environmental Education
 

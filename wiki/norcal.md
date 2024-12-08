@@ -1,12 +1,18 @@
 ---
-nid: 6818
 title: norcal
-path: public/static/wiki/norcal.md
+tagnames: norcal, list:plots-norcal, events:norcal, chapter, lat:37.80, lon:-122.26, regional, region
+author: warren
+path: /wiki/norcal.md
+nid: 6818
 uid: 1
-tagnames: norcal,list:plots-norcal,events:norcal,chapter,lat:37.80,lon:-122.26,regional,region
+
 ---
 
 # norcal
+
+by [MicheleTobias](../profile/MicheleTobias), [liz](../profile/liz), [warren](../profile/warren)
+
+April 14, 2013 05:01 | Tags: [norcal](../tag/norcal), [list:plots-norcal](../tag/list:plots-norcal), [events:norcal](../tag/events:norcal), [chapter](../tag/chapter), [lat:37.80](../tag/lat:37.80), [lon:-122.26](../tag/lon:-122.26), [regional](../tag/regional), [region](../tag/region)
 
 The Northern California region has held a number of balloon mapping and other Public Lab events, and has an active mailing list where members organize and announce events.
 

@@ -1,12 +1,18 @@
 ---
-nid: 8995
 title: Importing spectra from NIST and WebMineral.com to Spectral Workbench
-path: public/static/notes/warren/08-13-2013/importing-spectra-from-nist-and-webmineral-com-to-spectral-workbench.md
+tagnames: spectrometer, flame, spectral-analysis, flare, emission, emissions, nist, spectral-databases, activity:spectrometry, activity:spectral-workbench, 10863
+author: warren
+path: /notes/warren/08-13-2013/importing-spectra-from-nist-and-webmineral-com-to-spectral-workbench.md
+nid: 8995
 uid: 1
-tagnames: spectrometer,flame,spectral-analysis,flare,emission,emissions,nist,spectral-databases,activity:spectrometry,activity:spectral-workbench,10863
+
 ---
 
 # Importing spectra from NIST and WebMineral.com to Spectral Workbench
+
+by [warren](../profile/warren) August 13, 2013 16:16
+
+August 13, 2013 16:16 | Tags: [spectrometer](../tag/spectrometer), [flame](../tag/flame), [spectral-analysis](../tag/spectral-analysis), [flare](../tag/flare), [emission](../tag/emission), [emissions](../tag/emissions), [nist](../tag/nist), [spectral-databases](../tag/spectral-databases), [activity:spectrometry](../tag/activity:spectrometry), [activity:spectral-workbench](../tag/activity:spectral-workbench), [10863](../tag/10863)
 
 **Note:** this may now be possible more easily using [the JSON/CSV upload feature of Spectral Workbench](https://spectralworkbench.org/upload).
 

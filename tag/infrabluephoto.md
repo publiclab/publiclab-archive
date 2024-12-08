@@ -1,6 +1,6 @@
 # infrabluephoto
 
-6 notes and wiki pages
+6 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Lots of sample Infragram images for testing](/notes/warren/05-21-2013/lots-of-sample-infragram-images-for-testing) by [warren](../profile/warren)
 - [Infragram test photos from a plane window](/notes/warren/05-27-2013/infragram-test-photos-from-a-plane-window) by [warren](../profile/warren)

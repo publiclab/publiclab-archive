@@ -1,6 +1,6 @@
 # leds
 
-4 notes and wiki pages
+4 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Spectra of Sparkfun Multicolor LED kit](/notes/warren/09-10-2013/spectra-of-sparkfun-multicolor-led-kit) by [warren](../profile/warren)
 - [Infrared behavior of A810](/notes/cfastie/09-11-2013/infrared-behavior-of-a810) by [cfastie](../profile/cfastie)

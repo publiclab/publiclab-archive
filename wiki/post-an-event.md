@@ -1,12 +1,18 @@
 ---
-nid: 9772
 title: Post an event
-path: public/static/wiki/post-an-event.md
+tagnames: community, events, parent:events
+author: warren
+path: /wiki/post-an-event.md
+nid: 9772
 uid: 1
-tagnames: community,events,parent:events
+
 ---
 
 # Post an event
+
+by [cfastie](../profile/cfastie), [stevie](../profile/stevie), [markmcloy](../profile/markmcloy), [patelpriyaa0](../profile/patelpriyaa0), [patelisha122](../profile/patelisha122), [florencewillburn](../profile/florencewillburn), [academicfora](../profile/academicfora), [pr226146](../profile/pr226146), [warren](../profile/warren), [erinajopel](../profile/erinajopel), [sheldonwisely](../profile/sheldonwisely), [RonaldoRoss](../profile/RonaldoRoss), [Lenoxvan](../profile/Lenoxvan), [liz](../profile/liz), [Shannon](../profile/Shannon)
+
+November 13, 2013 20:06 | Tags: [community](../tag/community), [events](../tag/events), [parent:events](../tag/parent:events)
 
 Anyone may host a Public Lab event -- it's a great way to get a local community of Public Labbers together, even just for a meet-and-greet. With **over 8,000 members worldwide**, it's likely that you live near some of them! [Ask on a local discussion list](/lists) if anyone's interested in helping organize it, and feel free to reach out to the [organizers group](/wiki/organizers) for support!
 

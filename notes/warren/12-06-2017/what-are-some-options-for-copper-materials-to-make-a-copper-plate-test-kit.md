@@ -1,12 +1,18 @@
 ---
-nid: 15321
 title: What are some options for copper materials to make a copper plate test kit?
-path: public/static/notes/warren/12-06-2017/what-are-some-options-for-copper-materials-to-make-a-copper-plate-test-kit.md
+tagnames: materials, hydrogen-sulfide, h2s, copper, answered, prototyping, h2s-copper-pipe, prototyping-kit, question:kits, sourcing, question:h2s-copper-pipe, proto-kit, question:materials, question:prototyping-kit, question:h2s-copper-pipe-challenge
+author: warren
+path: /notes/warren/12-06-2017/what-are-some-options-for-copper-materials-to-make-a-copper-plate-test-kit.md
+nid: 15321
 uid: 1
-tagnames: materials,hydrogen-sulfide,h2s,copper,answered,prototyping,h2s-copper-pipe,prototyping-kit,question:kits,sourcing,question:h2s-copper-pipe,proto-kit,question:materials,question:prototyping-kit,question:h2s-copper-pipe-challenge
+
 ---
 
 # What are some options for copper materials to make a copper plate test kit?
+
+by [warren](../profile/warren) December 06, 2017 17:55
+
+December 06, 2017 17:55 | Tags: [materials](../tag/materials), [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s), [copper](../tag/copper), [answered](../tag/answered), [prototyping](../tag/prototyping), [h2s-copper-pipe](../tag/h2s-copper-pipe), [prototyping-kit](../tag/prototyping-kit), [question:kits](../tag/question:kits), [sourcing](../tag/sourcing), [question:h2s-copper-pipe](../tag/question:h2s-copper-pipe), [proto-kit](../tag/proto-kit), [question:materials](../tag/question:materials), [question:prototyping-kit](../tag/question:prototyping-kit), [question:h2s-copper-pipe-challenge](../tag/question:h2s-copper-pipe-challenge)
 
 We've looked at copper pipes and plates as potential materials for our prototype copper plate discoloration test for hydrogen sulfide.
 

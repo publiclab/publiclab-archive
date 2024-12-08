@@ -3,6 +3,8 @@ uid: 497123
 created_at: 2016-11-15 15:19:32 UTC
 ---
 
+# xose
+
 Interested in audiovisuals, prototyping and documentary social processes </br>
 Co-founder of the [IMVEC project](https://publiclab.org/profile/imvec) Living at Calafou and doing my living out of CàmeresiAcció cooperative.</br>
 
@@ -22,10 +24,10 @@ https://cameresiaccio.org
 
 ----
 
-[Reduce light inside foldable PL spectrometer](/notes/xose/11-22-2016/reduce-light-inside-foldable-pl-spectrometer)
-[AFLOSS collection of tutorials](/notes/xose/12-06-2016/afloss-collection-of-tutorials)
-[NOSA, agencia espacial escolar gallega](/notes/xose/05-02-2017/nosa-agencia-espacial-gallega)
-[Use Archive.org to share large photo collections](/notes/xose/05-13-2017/use-archive-org-to-share-large-photo-collections)
-[How to extend wifi range underwater?](/notes/xose/02-24-2018/how-to-extend-wifi-range-underwater)
-[lang:es](/wiki/lang-es)
-[MapKnitter map of Embalse de Cachamuiña](/notes/xose/06-30-2022/mapknitter-map-of-embalse-de-cachamuina)
+- [Reduce light inside foldable PL spectrometer](/notes/xose/11-22-2016/reduce-light-inside-foldable-pl-spectrometer)
+- [AFLOSS collection of tutorials](/notes/xose/12-06-2016/afloss-collection-of-tutorials)
+- [NOSA, agencia espacial escolar gallega](/notes/xose/05-02-2017/nosa-agencia-espacial-gallega)
+- [Use Archive.org to share large photo collections](/notes/xose/05-13-2017/use-archive-org-to-share-large-photo-collections)
+- [How to extend wifi range underwater?](/notes/xose/02-24-2018/how-to-extend-wifi-range-underwater)
+- [lang:es](/wiki/lang-es) (wiki)
+- [MapKnitter map of Embalse de Cachamuiña](/notes/xose/06-30-2022/mapknitter-map-of-embalse-de-cachamuina)

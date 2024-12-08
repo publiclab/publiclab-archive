@@ -1,12 +1,18 @@
 ---
-nid: 26021
 title: GSoC 2021 Proposal: Geographic Features Refinement
-path: public/static/notes/barun1024/03-24-2021/gsoc-2021-proposal-geographic-features-refinement.md
+tagnames: software, soc, first-time-poster, gsoc-2021, gsoc-2021-proposals
+author: barun1024
+path: /notes/barun1024/03-24-2021/gsoc-2021-proposal-geographic-features-refinement.md
+nid: 26021
 uid: 647185
-tagnames: software,soc,first-time-poster,gsoc-2021,gsoc-2021-proposals
+
 ---
 
 # GSoC 2021 Proposal: Geographic Features Refinement
+
+by [barun1024](../profile/barun1024) March 24, 2021 22:28
+
+March 24, 2021 22:28 | Tags: [software](../tag/software), [soc](../tag/soc), [first-time-poster](../tag/first-time-poster), [gsoc-2021](../tag/gsoc-2021), [gsoc-2021-proposals](../tag/gsoc-2021-proposals)
 
 ## About Me
 

@@ -1,12 +1,18 @@
 ---
-nid: 16967
 title: Calibrating low cost air quality sensor part 2
-path: public/static/notes/jiteovien/08-20-2018/calibrating-low-cost-air-quality-sensor-part-2.md
+tagnames: calibration, air-quality, dustduino, pm, particulate-matter, air-sensors, activity:calibration
+author: jiteovien
+path: /notes/jiteovien/08-20-2018/calibrating-low-cost-air-quality-sensor-part-2.md
+nid: 16967
 uid: 540008
-tagnames: calibration,air-quality,dustduino,pm,particulate-matter,air-sensors,activity:calibration
+
 ---
 
 # Calibrating low cost air quality sensor part 2
+
+by [jiteovien](../profile/jiteovien) August 20, 2018 16:08
+
+August 20, 2018 16:08 | Tags: [calibration](../tag/calibration), [air-quality](../tag/air-quality), [dustduino](../tag/dustduino), [pm](../tag/pm), [particulate-matter](../tag/particulate-matter), [air-sensors](../tag/air-sensors), [activity:calibration](../tag/activity:calibration)
 
 This is a follow up post to \[Calibrating low cost air quality sensor\]([https://publiclab.org/notes/jiteovien/07-18-2018/calibrating-low-cost-air-quality-sensor-1-2](https://publiclab.org/notes/jiteovien/07-18-2018/calibrating-low-cost-air-quality-sensor-1-2)).
 

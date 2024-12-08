@@ -1,12 +1,18 @@
 ---
-nid: 10319
 title: Particle Sensing
-path: public/static/wiki/particle-sensing.md
+tagnames: indoor-air-quality-mapping, particulate-sensing, agriculture, air-quality, fracking, tool, dust, particulates, particulate, pm, method, oil-and-gas, parent:air-quality, particulate-sensing-overview, questions:dust-sampling
+author: mathew
+path: /wiki/particle-sensing.md
+nid: 10319
 uid: 4
-tagnames: indoor-air-quality-mapping,particulate-sensing,agriculture,air-quality,fracking,tool,dust,particulates,particulate,pm,method,oil-and-gas,parent:air-quality,particulate-sensing-overview,questions:dust-sampling
+
 ---
 
 # Particle Sensing
+
+by [warren](../profile/warren), [liz](../profile/liz), [DavidMack](../profile/DavidMack), [mathew](../profile/mathew), [JSummers](../profile/JSummers), [amysoyka](../profile/amysoyka)
+
+April 16, 2014 02:40 | Tags: [indoor-air-quality-mapping](../tag/indoor-air-quality-mapping), [particulate-sensing](../tag/particulate-sensing), [agriculture](../tag/agriculture), [air-quality](../tag/air-quality), [fracking](../tag/fracking), [tool](../tag/tool), [dust](../tag/dust), [particulates](../tag/particulates), [particulate](../tag/particulate), [pm](../tag/pm), [method](../tag/method), [oil-and-gas](../tag/oil-and-gas), [parent:air-quality](../tag/parent:air-quality), [particulate-sensing-overview](../tag/particulate-sensing-overview), [questions:dust-sampling](../tag/questions:dust-sampling)
 
 **Particle Sensing** is the act of detecting dust in the air, and characterizing that dust and its potential health effects on those who may breathe it.
 

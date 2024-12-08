@@ -1,12 +1,18 @@
 ---
-nid: 11716
 title: Public Lab featured in White House Citizen Science announcements
-path: public/static/notes/liz/03-23-2015/public-lab-featured-in-white-house-citizen-science-announcements.md
+tagnames: media, press-release, white-house
+author: liz
+path: /notes/liz/03-23-2015/public-lab-featured-in-white-house-citizen-science-announcements.md
+nid: 11716
 uid: 7
-tagnames: media,press-release,white-house
+
 ---
 
 # Public Lab featured in White House Citizen Science announcements
+
+by [liz](../profile/liz) March 23, 2015 15:08
+
+March 23, 2015 15:08 | Tags: [media](../tag/media), [press-release](../tag/press-release), [white-house](../tag/white-house)
 
 The US White House is holding its annual Science Fair this week and is celebrating all sorts of commitments to STEM education and citizen science. Public Lab is highlighted for increasing the ability of more members of the public to participate in the scientific process. Live feed for the event at: https://www.whitehouse.gov/science-fair 
 

@@ -1,12 +1,18 @@
 ---
-nid: 3159
 title: Gas, some Hydrogen Sulfide escaping from collapsing salt dome
-path: public/static/notes/eustatic/8-6-2012/gas-some-hydrogen-sulfide-escaping-collapsing-salt-dome.md
+tagnames: hydrogen-sulfide-sensing, hydrogen-sulfide, h2s, h2s-sites
+author: eustatic
+path: /8-6-2012/gas-some-hydrogen-sulfide-escaping-collapsing-salt-dome.md
+nid: 3159
 uid: 379
-tagnames: hydrogen-sulfide-sensing,hydrogen-sulfide,h2s,h2s-sites
+
 ---
 
 # Gas, some Hydrogen Sulfide escaping from collapsing salt dome
+
+by [eustatic](../profile/eustatic) August 07, 2012 02:19
+
+August 07, 2012 02:19 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s), [h2s-sites](../tag/h2s-sites)
 
 Salt Domes are natural formations often associated with oil deposits, and they are hollowed out and used to store oil, gas, and compressed air. 
 

@@ -1,12 +1,18 @@
 ---
-nid: 15413
 title: Log all the data with Adafruit's TPL5110 Low Power Timer
-path: public/static/notes/cfastie/12-21-2017/log-all-the-data-with-adafruit-s-tpl5110-low-power-timer.md
+tagnames: arduino, sensors, datalogger, low-power, data-logging, bme280, activity:data-logging, mini-pearl-logger, activity:mini-pearl-logger, bmp280, activity:data-logging-power, tpl5110, low-power-logging
+author: cfastie
+path: /notes/cfastie/12-21-2017/log-all-the-data-with-adafruit-s-tpl5110-low-power-timer.md
+nid: 15413
 uid: 554
-tagnames: arduino,sensors,datalogger,low-power,data-logging,bme280,activity:data-logging,mini-pearl-logger,activity:mini-pearl-logger,bmp280,activity:data-logging-power,tpl5110,low-power-logging
+
 ---
 
 # Log all the data with Adafruit's TPL5110 Low Power Timer
+
+by [cfastie](../profile/cfastie) December 21, 2017 22:02
+
+December 21, 2017 22:02 | Tags: [arduino](../tag/arduino), [sensors](../tag/sensors), [datalogger](../tag/datalogger), [low-power](../tag/low-power), [data-logging](../tag/data-logging), [bme280](../tag/bme280), [activity:data-logging](../tag/activity:data-logging), [mini-pearl-logger](../tag/mini-pearl-logger), [activity:mini-pearl-logger](../tag/activity:mini-pearl-logger), [bmp280](../tag/bmp280), [activity:data-logging-power](../tag/activity:data-logging-power), [tpl5110](../tag/tpl5110), [low-power-logging](../tag/low-power-logging)
 
 Most of the data logging I did this summer and fall was to learn how to make a data logger operate longer on small batteries. It's not too hard to coax an Arduino-based logger to last for a week, but making it last three weeks involves a list of modifications and coding tricks. So it was very gratifying to finally see a [Mini Pearl Logger last for eight weeks](https://publiclab.org/notes/cfastie/12-18-2017/longer-mini-pearl-logging). To make that happen, some of the things I had to check on the longevity list are:
 

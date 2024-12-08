@@ -1,12 +1,18 @@
 ---
-nid: 7116
 title: Doing it Yourself: Kite-mapping… an activity for the ‘privileged’?
-path: public/static/notes/cindyexcites/4-29-2013/doing-it-yourself-kite-mapping-activity-privileged.md
+tagnames: kite-mapping, london, kite-aerial-photography, community, camera-rig-tests, easy-cut-delta
+author: cindy_excites
+path: /notes/cindyexcites/4-29-2013/doing-it-yourself-kite-mapping-activity-privileged.md
+nid: 7116
 uid: 1083
-tagnames: kite-mapping,london,kite-aerial-photography,community,camera-rig-tests,easy-cut-delta
+
 ---
 
 # Doing it Yourself: Kite-mapping… an activity for the ‘privileged’?
+
+by [cindy_excites](../profile/cindy_excites) April 29, 2013 11:54
+
+April 29, 2013 11:54 | Tags: [kite-mapping](../tag/kite-mapping), [london](../tag/london), [kite-aerial-photography](../tag/kite-aerial-photography), [community](../tag/community), [camera-rig-tests](../tag/camera-rig-tests), [easy-cut-delta](../tag/easy-cut-delta)
 
 <em>Kite, check, reel, check, camera, check, SD card & batteries, check, camera rig, check, gloves, check, map, check, sunglasses, check. Weather conditions: partially cloudy with intermittent winds.</em>
 

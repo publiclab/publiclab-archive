@@ -1,12 +1,18 @@
 ---
-nid: 21033
 title: Blurred Location and variable location privacy
-path: public/static/notes/warren/09-27-2019/blurred-location-and-variable-location-privacy.md
+tagnames: blog, leaflet, code, privacy, location-privacy, leaflet-blurred-location, variable-location-privacy, blurred-location, digital-impacts, with:sagarpreet
+author: warren
+path: /notes/warren/09-27-2019/blurred-location-and-variable-location-privacy.md
+nid: 21033
 uid: 1
-tagnames: blog,leaflet,code,privacy,location-privacy,leaflet-blurred-location,variable-location-privacy,blurred-location,digital-impacts,with:sagarpreet
+
 ---
 
 # Blurred Location and variable location privacy
+
+by [warren](../profile/warren) September 27, 2019 22:06
+
+September 27, 2019 22:06 | Tags: [blog](../tag/blog), [leaflet](../tag/leaflet), [code](../tag/code), [privacy](../tag/privacy), [location-privacy](../tag/location-privacy), [leaflet-blurred-location](../tag/leaflet-blurred-location), [variable-location-privacy](../tag/variable-location-privacy), [blurred-location](../tag/blurred-location), [digital-impacts](../tag/digital-impacts), [with:sagarpreet](../tag/with:sagarpreet)
 
 With increased focus on location privacy in the wake of last year's New York Times report ([Your Apps Know Where You Were Last Night, and They're Not Keeping It Secret](https://www.nytimes.com/interactive/2018/12/10/business/location-data-privacy-apps.html "https://www.nytimes.com/interactive/2018/12/10/business/location-data-privacy-apps.html"), image above), we felt this was a good time to talk about some of the systems for storing locations, and some of the work Public Lab has been doing on what we're calling **blurred location** and a model for **variable location privacy**. We use both these terms to refer to systems that set out to share or store locations to different degrees of precision.
 

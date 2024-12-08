@@ -1,12 +1,18 @@
 ---
-nid: 4330
 title: Comparisons of oil samples and residues in UV light
-path: public/static/notes/warren/10-10-2012/comparisons-oil-samples-and-residues-uv-light.md
+tagnames: spectrometer, ultraviolet, fluorescence
+author: warren
+path: /notes/warren/10-10-2012/comparisons-oil-samples-and-residues-uv-light.md
+nid: 4330
 uid: 1
-tagnames: spectrometer,ultraviolet,fluorescence
+
 ---
 
 # Comparisons of oil samples and residues in UV light
+
+by [warren](../profile/warren) October 10, 2012 21:08
+
+October 10, 2012 21:08 | Tags: [spectrometer](../tag/spectrometer), [ultraviolet](../tag/ultraviolet), [fluorescence](../tag/fluorescence)
 
 More tests of different oil residues (and olive oils) in UV light (from a UV CFL) are yielding some nice images. I'm going to be doing my best to measure spectra of these soon. Above, two different olive oils. Below, in order:
 

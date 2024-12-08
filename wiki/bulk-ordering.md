@@ -1,12 +1,18 @@
 ---
-nid: 747
 title: Bulk ordering
-path: public/static/wiki/bulk-ordering.md
-uid: 1
 tagnames: 
+author: warren
+path: /wiki/bulk-ordering.md
+nid: 747
+uid: 1
+
 ---
 
 # Bulk ordering
+
+by [warren](../profile/warren)
+
+February 03, 2012 20:17 | Tags: 
 
 We're ordering more and more things bulk for kits or just splitting up. Here's a list of links.
 

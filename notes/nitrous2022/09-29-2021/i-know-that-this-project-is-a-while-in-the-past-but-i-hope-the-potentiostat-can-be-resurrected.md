@@ -1,12 +1,18 @@
 ---
-nid: 27812
 title: I know that this project is a while in the past, but I hope the potentiostat can be resurrected...
-path: public/static/notes/nitrous2022/09-29-2021/i-know-that-this-project-is-a-while-in-the-past-but-i-hope-the-potentiostat-can-be-resurrected.md
-uid: 774066
 tagnames: first-time-poster
+author: nitrous2022
+path: /notes/nitrous2022/09-29-2021/i-know-that-this-project-is-a-while-in-the-past-but-i-hope-the-potentiostat-can-be-resurrected.md
+nid: 27812
+uid: 774066
+
 ---
 
 # I know that this project is a while in the past, but I hope the potentiostat can be resurrected...
+
+by [nitrous2022](../profile/nitrous2022) September 29, 2021 18:47
+
+September 29, 2021 18:47 | Tags: [first-time-poster](../tag/first-time-poster)
 
 there seems to be a lot of interest in the potentiostat project.
 

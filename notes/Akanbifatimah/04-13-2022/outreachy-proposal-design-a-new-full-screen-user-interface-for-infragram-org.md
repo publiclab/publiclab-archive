@@ -1,12 +1,18 @@
 ---
-nid: 30353
 title: Outreachy proposal: Design a new full-screen user interface for Infragram.org
-path: public/static/notes/Akanbifatimah/04-13-2022/outreachy-proposal-design-a-new-full-screen-user-interface-for-infragram-org.md
+tagnames: software, outreachy, first-time-poster, zoom:6, lat:6.533645, outreachy-2022, outreachy-summer-2022, lon:3.394775
+author: Akanbifatimah
+path: /notes/Akanbifatimah/04-13-2022/outreachy-proposal-design-a-new-full-screen-user-interface-for-infragram-org.md
+nid: 30353
 uid: 793806
-tagnames: software,outreachy,first-time-poster,zoom:6,lat:6.533645,outreachy-2022,outreachy-summer-2022,lon:3.394775
+
 ---
 
 # Outreachy proposal: Design a new full-screen user interface for Infragram.org
+
+by [Akanbifatimah](../profile/Akanbifatimah) April 13, 2022 14:36
+
+April 13, 2022 14:36 | Tags: [software](../tag/software), [outreachy](../tag/outreachy), [first-time-poster](../tag/first-time-poster), [zoom:6](../tag/zoom:6), [lat:6.533645](../tag/lat:6.533645), [outreachy-2022](../tag/outreachy-2022), [outreachy-summer-2022](../tag/outreachy-summer-2022), [lon:3.394775](../tag/lon:3.394775)
 
 ---------
 

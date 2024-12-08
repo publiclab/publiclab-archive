@@ -1,12 +1,18 @@
 ---
-nid: 12616
 title: Ongoing design of compact cuvette frame
-path: public/static/notes/warren/01-25-2016/ongoing-design-of-compact-cuvette-frame.md
+tagnames: spectrometer, fluorescence, cuvette, oil-testing-kit, response:12462, response:11063, response:12472, cuvette-frame, response:12561, upgrade:spectrometry, upgrade:dssk, status:under-development, seeks:builds, time:5h, difficulty:medium
+author: warren
+path: /notes/warren/01-25-2016/ongoing-design-of-compact-cuvette-frame.md
+nid: 12616
 uid: 1
-tagnames: spectrometer,fluorescence,cuvette,oil-testing-kit,response:12462,response:11063,response:12472,cuvette-frame,response:12561,upgrade:spectrometry,upgrade:dssk,status:under-development,seeks:builds,time:5h,difficulty:medium
+
 ---
 
 # Ongoing design of compact cuvette frame
+
+by [warren](../profile/warren) January 25, 2016 18:27
+
+January 25, 2016 18:27 | Tags: [spectrometer](../tag/spectrometer), [fluorescence](../tag/fluorescence), [cuvette](../tag/cuvette), [oil-testing-kit](../tag/oil-testing-kit), [response:12462](../tag/response:12462), [response:11063](../tag/response:11063), [response:12472](../tag/response:12472), [cuvette-frame](../tag/cuvette-frame), [response:12561](../tag/response:12561), [upgrade:spectrometry](../tag/upgrade:spectrometry), [upgrade:dssk](../tag/upgrade:dssk), [status:under-development](../tag/status:under-development), [seeks:builds](../tag/seeks:builds), [time:5h](../tag/time:5h), [difficulty:medium](../tag/difficulty:medium)
 
 ###What I want to do
 

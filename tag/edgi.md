@@ -1,6 +1,6 @@
 # edgi
 
-10 notes and wiki pages
+10 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [EDGI FOIA event at CUNY in New York City & online](/notes/liz/01-20-2017/edgi-foia-event-at-cuny-in-new-york-city-online) by [liz](../profile/liz)
 - [Public Lab Community Newsletter: January 2017](/notes/klie/01-27-2017/public-lab-community-newsletter-january-2017) by [klie](../profile/klie)

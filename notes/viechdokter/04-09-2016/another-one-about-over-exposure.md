@@ -1,12 +1,18 @@
 ---
-nid: 12950
 title: Another one about over-exposure...
-path: public/static/notes/viechdokter/04-09-2016/another-one-about-over-exposure.md
+tagnames: spectrometer, overexposure, clipping, exposure, sunlight, replication:13460
+author: viechdokter
+path: /notes/viechdokter/04-09-2016/another-one-about-over-exposure.md
+nid: 12950
 uid: 468990
-tagnames: spectrometer,overexposure,clipping,exposure,sunlight,replication:13460
+
 ---
 
 # Another one about over-exposure...
+
+by [viechdokter](../profile/viechdokter) April 09, 2016 16:15
+
+April 09, 2016 16:15 | Tags: [spectrometer](../tag/spectrometer), [overexposure](../tag/overexposure), [clipping](../tag/clipping), [exposure](../tag/exposure), [sunlight](../tag/sunlight), [replication:13460](../tag/replication:13460)
 
 Warren told me it would be interesting for some of you to know what happens when we try to avoid over-exposure. Well, here are my first results. 
 

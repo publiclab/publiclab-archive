@@ -1,12 +1,18 @@
 ---
-nid: 17226
 title: Creating Public Lab's Logic Model
-path: public/static/notes/liz/10-05-2018/creating-public-lab-s-logic-model.md
+tagnames: evaluation, replication:17235
+author: liz
+path: /notes/liz/10-05-2018/creating-public-lab-s-logic-model.md
+nid: 17226
 uid: 7
-tagnames: evaluation,replication:17235
+
 ---
 
 # Creating Public Lab's Logic Model
+
+by [liz](../profile/liz) October 04, 2018 20:54
+
+October 04, 2018 20:54 | Tags: [evaluation](../tag/evaluation), [replication:17235](../tag/replication:17235)
 
 The University of California Davis Center for Citizen and Community Science worked with the staff of Public Lab to create a Logic Model that we could use in evaluating our impact. Here it is, both the [direct link][1], and as an image: 
 

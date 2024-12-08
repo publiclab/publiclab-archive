@@ -1,12 +1,18 @@
 ---
-nid: 13299
 title: The last three weeks in Google Summer of Code
-path: public/static/notes/warren/07-18-2016/the-last-three-weeks-in-google-summer-of-code.md
+tagnames: website, software, gsoc, developers, coding, wwg, gsoc-2016, response:13214
+author: warren
+path: /notes/warren/07-18-2016/the-last-three-weeks-in-google-summer-of-code.md
+nid: 13299
 uid: 1
-tagnames: website,software,gsoc,developers,coding,wwg,gsoc-2016,response:13214
+
 ---
 
 # The last three weeks in Google Summer of Code
+
+by [warren](../profile/warren) July 18, 2016 22:07
+
+July 18, 2016 22:07 | Tags: [website](../tag/website), [software](../tag/software), [gsoc](../tag/gsoc), [developers](../tag/developers), [coding](../tag/coding), [wwg](../tag/wwg), [gsoc-2016](../tag/gsoc-2016), [response:13214](../tag/response:13214)
 
 Hello everyone! We haven't had a Web Working Group (#wwg) or #GSoC update for a little while, as I've been traveling and busy catching up. But to resume, I wanted to highlight some of the great work the Google Summer of Code work that's been happening, as well as the work of a new contributor, @chongr, during the past three weeks.
 

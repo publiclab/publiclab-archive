@@ -1,12 +1,18 @@
 ---
-nid: 16156
 title: Is it possible to have a digital copy of the step-by-step instructions?
-path: public/static/notes/SuziT9/04-15-2018/fantastic-suzit9-profile-suzit9-is-it-possible-to-have-a-digital-copy-of-the-step-by-step-instructions-looking-forward-to-try-these-minikites.md
+tagnames: kite-mapping, outreach, kites, kite-making, question:kite-mapping, question:kite-making, stem, question:kites
+author: SuziT9
+path: /notes/SuziT9/04-15-2018/fantastic-suzit9-profile-suzit9-is-it-possible-to-have-a-digital-copy-of-the-step-by-step-instructions-looking-forward-to-try-these-minikites.md
+nid: 16156
 uid: 477814
-tagnames: kite-mapping,outreach,kites,kite-making,question:kite-mapping,question:kite-making,stem,question:kites
+
 ---
 
 # Is it possible to have a digital copy of the step-by-step instructions?
+
+by [SuziT9](../profile/SuziT9) April 15, 2018 12:38
+
+April 15, 2018 12:38 | Tags: [kite-mapping](../tag/kite-mapping), [outreach](../tag/outreach), [kites](../tag/kites), [kite-making](../tag/kite-making), [question:kite-mapping](../tag/question:kite-mapping), [question:kite-making](../tag/question:kite-making), [stem](../tag/stem), [question:kites](../tag/question:kites)
 
 ---------
 

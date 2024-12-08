@@ -1,12 +1,18 @@
 ---
-nid: 23802
 title: How the Bucket Works
-path: public/static/notes/kgradow1/06-09-2020/how-the-bucket-works.md
+tagnames: air-quality, methods, bucket-brigade, lon:-71, lat:42, zoom:6, air-sensor, bucket-monitor
+author: kgradow1
+path: /notes/kgradow1/06-09-2020/how-the-bucket-works.md
+nid: 23802
 uid: 297929
-tagnames: air-quality,methods,bucket-brigade,lon:-71,lat:42,zoom:6,air-sensor,bucket-monitor
+
 ---
 
 # How the Bucket Works
+
+by [kgradow1](../profile/kgradow1) June 09, 2020 15:34
+
+June 09, 2020 15:34 | Tags: [air-quality](../tag/air-quality), [methods](../tag/methods), [bucket-brigade](../tag/bucket-brigade), [lon:-71](../tag/lon:-71), [lat:42](../tag/lat:42), [zoom:6](../tag/zoom:6), [air-sensor](../tag/air-sensor), [bucket-monitor](../tag/bucket-monitor)
 
 Adapted the [Bucket Brigade Manual: Take Back Your Air!](https://publiclab.org/i/39437)
 

@@ -1,12 +1,18 @@
 ---
-nid: 8224
 title: White balance
-path: public/static/notes/cfastie/06-17-2013/white-balance.md
+tagnames: near-infrared-camera, vermont, white-balance, infragram, infrablue, response:8018, response:8196
+author: cfastie
+path: /notes/cfastie/06-17-2013/white-balance.md
+nid: 8224
 uid: 554
-tagnames: near-infrared-camera,vermont,white-balance,infragram,infrablue,response:8018,response:8196
+
 ---
 
 # White balance
+
+by [cfastie](../profile/cfastie) June 17, 2013 03:31
+
+June 17, 2013 03:31 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [vermont](../tag/vermont), [white-balance](../tag/white-balance), [infragram](../tag/infragram), [infrablue](../tag/infrablue), [response:8018](../tag/response:8018), [response:8196](../tag/response:8196)
 
 <em>Image above: Some of the surfaces I used to custom white balance the infrablue SX120</em>
 

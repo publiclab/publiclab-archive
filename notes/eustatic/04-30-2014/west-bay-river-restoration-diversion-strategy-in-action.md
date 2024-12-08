@@ -1,12 +1,18 @@
 ---
-nid: 10381
 title: West Bay River Restoration: Diversion strategy in action
-path: public/static/notes/eustatic/04-30-2014/west-bay-river-restoration-diversion-strategy-in-action.md
+tagnames: gulf-coast, mississippi, river, sediment, passenger, pigeon, passengerpigeon
+author: eustatic
+path: /04-30-2014/west-bay-river-restoration-diversion-strategy-in-action.md
+nid: 10381
 uid: 379
-tagnames: gulf-coast,mississippi,river,sediment,passenger,pigeon,passengerpigeon
+
 ---
 
 # West Bay River Restoration: Diversion strategy in action
+
+by [eustatic](../profile/eustatic) April 30, 2014 02:17
+
+April 30, 2014 02:17 | Tags: [gulf-coast](../tag/gulf-coast), [mississippi](../tag/mississippi), [river](../tag/river), [sediment](../tag/sediment), [passenger](../tag/passenger), [pigeon](../tag/pigeon), [passengerpigeon](../tag/passengerpigeon)
 
 ###What I want to do
 

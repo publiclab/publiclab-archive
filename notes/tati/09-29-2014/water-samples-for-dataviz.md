@@ -1,12 +1,18 @@
 ---
-nid: 11200
 title: Water Samples for DataViz
-path: public/static/notes/tati/09-29-2014/water-samples-for-dataviz.md
+tagnames: water-quality, first-time-poster
+author: tati
+path: /notes/tati/09-29-2014/water-samples-for-dataviz.md
+nid: 11200
 uid: 428062
-tagnames: water-quality,first-time-poster
+
 ---
 
 # Water Samples for DataViz
+
+by [tati](../profile/tati) September 29, 2014 05:56
+
+September 29, 2014 05:56 | Tags: [water-quality](../tag/water-quality), [first-time-poster](../tag/first-time-poster)
 
 [![IMG_2287-1.JPG](https://i.publiclab.org/system/images/photos/000/007/066/medium/IMG_2287-1.JPG)](https://i.publiclab.org/system/images/photos/000/007/066/original/IMG_2287-1.JPG)
  

@@ -1,12 +1,18 @@
 ---
-nid: 8867
 title: Infrablue Highways
-path: public/static/notes/cfastie/07-13-2013/infrablue-highways.md
+tagnames: near-infrared-camera, infrared, alaska, infragram, plant-health, timelapse, nbg, infrablue, treeline, akrange
+author: cfastie
+path: /notes/cfastie/07-13-2013/infrablue-highways.md
+nid: 8867
 uid: 554
-tagnames: near-infrared-camera,infrared,alaska,infragram,plant-health,timelapse,nbg,infrablue,treeline,akrange
+
 ---
 
 # Infrablue Highways
+
+by [cfastie](../profile/cfastie) July 13, 2013 14:24
+
+July 13, 2013 14:24 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [infrared](../tag/infrared), [alaska](../tag/alaska), [infragram](../tag/infragram), [plant-health](../tag/plant-health), [timelapse](../tag/timelapse), [nbg](../tag/nbg), [infrablue](../tag/infrablue), [treeline](../tag/treeline), [akrange](../tag/akrange)
 
 <em>Image above: False color infrared image of the Jack River in the Alaska Range from a pullout on the George Parks Highway.</em>
 

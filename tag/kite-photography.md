@@ -1,6 +1,6 @@
 # kite-photography
 
-3 notes and wiki pages
+3 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [The Scottish National Aerial Photography Scheme](/notes/johnwells/5-7-2013/scottish-national-aerial-photography-scheme) by [John_Wells](../profile/John_Wells)
 - [Adding GPS logging to a kite or balloon aerial photography rig](/notes/cfastie/01-08-2017/adding-gps-logging-to-a-kite-or-balloon-aerial-photography-rig) by [cfastie](../profile/cfastie)

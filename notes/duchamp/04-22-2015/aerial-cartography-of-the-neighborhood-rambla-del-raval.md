@@ -1,12 +1,18 @@
 ---
-nid: 11761
 title: Aerial Cartography of the neighborhood. Rambla del Raval
-path: public/static/notes/duchamp/04-22-2015/aerial-cartography-of-the-neighborhood-rambla-del-raval.md
+tagnames: rambla, del, raval, first-time-poster
+author: duchamp
+path: /notes/duchamp/04-22-2015/aerial-cartography-of-the-neighborhood-rambla-del-raval.md
+nid: 11761
 uid: 439194
-tagnames: rambla,del,raval,first-time-poster
+
 ---
 
 # Aerial Cartography of the neighborhood. Rambla del Raval
+
+by [duchamp](../profile/duchamp) April 22, 2015 15:36
+
+April 22, 2015 15:36 | Tags: [rambla](../tag/rambla), [del](../tag/del), [raval](../tag/raval), [first-time-poster](../tag/first-time-poster)
 
 In this ninth edition of the NOVUM Festival, researchers, scientists, artists, creators, students and entrepreneurs will take innovative science and technology out into the streets. Barcelona will become a huge citizen laboratory in which to experiment, build, learn, and enjoy a programme of actions and activities for all ages.
 

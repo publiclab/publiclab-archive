@@ -1,6 +1,6 @@
 # waagsociety
 
-7 notes and wiki pages
+7 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Waag Society: Citizen Science presentation](/notes/warren/6-27-2012/waag-society-citizen-science-presentation) by [warren](../profile/warren)
 - [Amsterdam kite satellite](/notes/keimpe/6-29-2012/amsterdam-kite-satellite) by [keimpe](../profile/keimpe)

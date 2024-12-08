@@ -1,12 +1,18 @@
 ---
-nid: 13610
 title: Light or something 
-path: public/static/notes/Smh/10-19-2016/light-or-something.md
+tagnames: hidden:response, response:13586
+author: Smh
+path: /notes/Smh/10-19-2016/light-or-something.md
+nid: 13610
 uid: 494923
-tagnames: hidden:response,response:13586
+
 ---
 
 # Light or something 
+
+by [Smh](../profile/Smh) October 19, 2016 17:26
+
+October 19, 2016 17:26 | Tags: [hidden:response](../tag/hidden:response), [response:13586](../tag/response:13586)
 
 ###What I want to do
 

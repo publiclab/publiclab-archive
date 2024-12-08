@@ -1,12 +1,18 @@
 ---
-nid: 13838
 title: Has anyone used a radon test kit? 
-path: public/static/notes/stevie/01-04-2017/has-anyone-used-a-radon-test-kit.md
+tagnames: indoor-air-quality, question:question, indoor-air, radon, question:indoor-air-quality
+author: stevie
+path: /notes/stevie/01-04-2017/has-anyone-used-a-radon-test-kit.md
+nid: 13838
 uid: 422561
-tagnames: indoor-air-quality,question:question,indoor-air,radon,question:indoor-air-quality
+
 ---
 
 # Has anyone used a radon test kit? 
+
+by [stevie](../profile/stevie) January 04, 2017 21:09
+
+January 04, 2017 21:09 | Tags: [indoor-air-quality](../tag/indoor-air-quality), [question:question](../tag/question:question), [indoor-air](../tag/indoor-air), [radon](../tag/radon), [question:indoor-air-quality](../tag/question:indoor-air-quality)
 
 ###What I want to do or know
 I'd like to know more about the low cost radon testing kits the EPA is promoting [here](https://www.epa.gov/radon/find-radon-test-kit-or-measurement-and-mitigation-professional). 

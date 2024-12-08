@@ -1,6 +1,6 @@
 # samples
 
-3 notes and wiki pages
+3 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Hydrocarbon standard samples for kits](/notes/gretchengehrke/02-04-2015/hydrocarbon-standard-samples-for-kits) by [gretchengehrke](../profile/gretchengehrke)
 - [Sampling](/wiki/sampling) (wiki)

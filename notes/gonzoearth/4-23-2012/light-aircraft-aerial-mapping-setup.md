@@ -1,12 +1,18 @@
 ---
-nid: 1759
 title: Light Aircraft Aerial Mapping Setup
-path: public/static/notes/gonzoearth/4-23-2012/light-aircraft-aerial-mapping-setup.md
+tagnames: near-infrared-camera, aerial-photography, plane, overflight, hand-clamp, clamp, cessna, window
+author: gonzoearth
+path: /notes/gonzoearth/4-23-2012/light-aircraft-aerial-mapping-setup.md
+nid: 1759
 uid: 12
-tagnames: near-infrared-camera,aerial-photography,plane,overflight,hand-clamp,clamp,cessna,window
+
 ---
 
 # Light Aircraft Aerial Mapping Setup
+
+by [gonzoearth](../profile/gonzoearth) April 23, 2012 20:04
+
+April 23, 2012 20:04 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [aerial-photography](../tag/aerial-photography), [plane](../tag/plane), [overflight](../tag/overflight), [hand-clamp](../tag/hand-clamp), [clamp](../tag/clamp), [cessna](../tag/cessna), [window](../tag/window)
 
 Using a light aircraft such as a Cessna can be the best way to get your imagery if you need to cover a large area. Especially if your resolution requirements are not too great. In California you can use the local flight school at a municipal airport to buy an hour of airtime at a total cost of under $300/hr. This cost will be lower in other places and still represents a great value in terms of the amount of imagery that you can collect from one hourlong flight.
 

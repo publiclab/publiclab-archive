@@ -1,12 +1,18 @@
 ---
-nid: 12249
 title: Request for Interviews
-path: public/static/wiki/request-for-interviews.md
-uid: 452753
 tagnames: 
+author: paultnylund
+path: /wiki/request-for-interviews.md
+nid: 12249
+uid: 452753
+
 ---
 
 # Request for Interviews
+
+by [paultnylund](../profile/paultnylund)
+
+September 28, 2015 08:53 | Tags: 
 
 Hi all,
 

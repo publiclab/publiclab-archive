@@ -1,6 +1,6 @@
 # upgrade-thermal-flashlight
 
-9 notes and wiki pages
+9 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Surface mount mini thermal flashlight](/notes/nadya/6-4-2012/surface-mount-mini-thermal-flashlight) by [nadya](../profile/nadya)
 - [Visualight board for Thermal Flashlights](/notes/warren/11-15-2013/visualight-board-for-thermal-flashlights) by [warren](../profile/warren)

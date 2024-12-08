@@ -1,12 +1,18 @@
 ---
-nid: 13227
 title: Ball Joint KAP Rigs
-path: public/static/notes/ranon/06-22-2016/ball-joint-kap-rigs.md
+tagnames: balloon-mapping, kite-aerial-photography, aerial-photography, diy-kite, kap, photo-rig, aerial-mapping, aerial-photos, kap-rigs, activity:photo-rig
+author: ranon
+path: /notes/ranon/06-22-2016/ball-joint-kap-rigs.md
+nid: 13227
 uid: 477060
-tagnames: balloon-mapping,kite-aerial-photography,aerial-photography,diy-kite,kap,photo-rig,aerial-mapping,aerial-photos,kap-rigs,activity:photo-rig
+
 ---
 
 # Ball Joint KAP Rigs
+
+by [ranon](../profile/ranon) June 22, 2016 19:58
+
+June 22, 2016 19:58 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-aerial-photography](../tag/kite-aerial-photography), [aerial-photography](../tag/aerial-photography), [diy-kite](../tag/diy-kite), [kap](../tag/kap), [photo-rig](../tag/photo-rig), [aerial-mapping](../tag/aerial-mapping), [aerial-photos](../tag/aerial-photos), [kap-rigs](../tag/kap-rigs), [activity:photo-rig](../tag/activity:photo-rig)
 
 ###Ball Joint Rigs
 

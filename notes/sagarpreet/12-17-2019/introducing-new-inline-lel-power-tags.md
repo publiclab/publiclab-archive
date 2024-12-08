@@ -1,12 +1,18 @@
 ---
-nid: 21773
 title: Introducing new inline LEL power tags
-path: public/static/notes/sagarpreet/12-17-2019/introducing-new-inline-lel-power-tags.md
+tagnames: mapping, leaflet, location:blurred, lat:28, lon:77, leaflet-environmental-layers
+author: sagarpreet
+path: /notes/sagarpreet/12-17-2019/introducing-new-inline-lel-power-tags.md
+nid: 21773
 uid: 516343
-tagnames: mapping,leaflet,location:blurred,lat:28,lon:77,leaflet-environmental-layers
+
 ---
 
 # Introducing new inline LEL power tags
+
+by [sagarpreet](../profile/sagarpreet) December 17, 2019 05:20
+
+December 17, 2019 05:20 | Tags: [mapping](../tag/mapping), [leaflet](../tag/leaflet), [location:blurred](../tag/location:blurred), [lat:28](../tag/lat:28), [lon:77](../tag/lon:77), [leaflet-environmental-layers](../tag/leaflet-environmental-layers)
 
 Inline maps are a form of inline power tags which you can read more about on the power tags page. These will display any content tagged with lat:____ and lon:____ tags showing location, near the provided coordinates. You can read more about these inline power tags [here][1].
 

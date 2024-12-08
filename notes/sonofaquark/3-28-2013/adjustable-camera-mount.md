@@ -1,12 +1,18 @@
 ---
-nid: 6570
 title: adjustable camera mount
-path: public/static/notes/sonofaquark/3-28-2013/adjustable-camera-mount.md
+tagnames: spectrometer, desktop-spectrometer, desktop-spectrometer-assembly
+author: sonofaquark
+path: /notes/sonofaquark/3-28-2013/adjustable-camera-mount.md
+nid: 6570
 uid: 54330
-tagnames: spectrometer,desktop-spectrometer,desktop-spectrometer-assembly
+
 ---
 
 # adjustable camera mount
+
+by [sonofaquark](../profile/sonofaquark) March 28, 2013 07:29
+
+March 28, 2013 07:29 | Tags: [spectrometer](../tag/spectrometer), [desktop-spectrometer](../tag/desktop-spectrometer), [desktop-spectrometer-assembly](../tag/desktop-spectrometer-assembly)
 
 Very simple. A piece of aluminum is drilled through and recessed on one side to provide a flat camera mounting surface when the screw is inserted, or it can be threaded and a piece of threaded stock used instead, with the threads mangled to keep them from turning. the camera is mounted, the assembly inserted into the case, and the washer and nut installed. a slot cut in the end of the screw is used for adjustment with the nut loosened slightly, then the nut is tightened to lock the setting down.
 

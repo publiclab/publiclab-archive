@@ -1,6 +1,6 @@
 # messagesfromthemississippi
 
-6 notes and wiki pages
+6 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Messages From the Mississippi Lesson 1: Plastic Pollution](/notes/purl/01-27-2021/messages-from-the-mississippi-lesson-1-plastic-pollution) by [purl](../profile/purl)
 - [Messages From the Mississippi Lesson 2: A River of Plastic](/notes/purl/01-27-2021/messages-from-the-mississippi-lesson-2-a-river-of-plastic) by [purl](../profile/purl)

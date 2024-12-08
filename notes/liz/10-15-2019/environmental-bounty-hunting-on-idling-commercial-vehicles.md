@@ -1,12 +1,18 @@
 ---
-nid: 21170
 title: Environmental bounty hunting on idling commercial vehicles
-path: public/static/notes/liz/10-15-2019/environmental-bounty-hunting-on-idling-commercial-vehicles.md
+tagnames: new-york-city, air-quality, legal, law-and-policy
+author: liz
+path: /notes/liz/10-15-2019/environmental-bounty-hunting-on-idling-commercial-vehicles.md
+nid: 21170
 uid: 7
-tagnames: new-york-city,air-quality,legal,law-and-policy
+
 ---
 
 # Environmental bounty hunting on idling commercial vehicles
+
+by [liz](../profile/liz) October 15, 2019 14:00
+
+October 15, 2019 14:00 | Tags: [new-york-city](../tag/new-york-city), [air-quality](../tag/air-quality), [legal](../tag/legal), [law-and-policy](../tag/law-and-policy)
 
 "Thanks to a new law, any New Yorker with a cell phone and some time to kill can report on idling commercial vehicles, and earn thousands of dollars doing it."
 

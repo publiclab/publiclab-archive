@@ -1,6 +1,6 @@
 # ndvi-ag
 
-11 notes and wiki pages
+11 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Agricultural mapping](/notes/cfastie/10-29-2012/agricultural-trial-mapping) by [cfastie](../profile/cfastie)
 - [2 cameras or not 2 cameras](/notes/cfastie/06-05-2013/2-cameras-or-not-2-cameras) by [cfastie](../profile/cfastie)
@@ -11,5 +11,3 @@
 - [Sudan Team SAP DRONE Project/SAP (Smart Agriculture Payload)](/notes/Mohamed/05-13-2015/sudan-team-sap-drone-project-sap-smart-agriculture-payload) by [Mohamed](../profile/Mohamed)
 - [Please watch  our video ,](/notes/Mohamed/05-13-2015/please-watch-our-video) by [Mohamed](../profile/Mohamed)
 - [Modified MOBIUS with PL red filter](/notes/RQ-05/06-15-2015/modified-mobius-with-pl-red-filter) by [RQ-05](../profile/RQ-05)
-- [Question: SAP technology used for drone research?](/notes/Nymann/09-27-2016/question-sap-technology-used-for-drone-research) by [Nymann](../profile/Nymann)
-- [Question: SAP technology for drone research?](/notes/Nymann/09-27-2016/question-sap-technology-for-drone-research) by [Nymann](../profile/Nymann)

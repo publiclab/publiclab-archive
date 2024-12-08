@@ -1,12 +1,18 @@
 ---
-nid: 11093
 title: Attaching soil moisture sensor to the PhotosynQ platform
-path: public/static/notes/gbathree/09-01-2014/attaching-soil-moisture-sensor-to-the-photosynq-platform.md
+tagnames: photosynq, multispeq, soil-moisture
+author: gbathree
+path: /notes/gbathree/09-01-2014/attaching-soil-moisture-sensor-to-the-photosynq-platform.md
+nid: 11093
 uid: 53164
-tagnames: photosynq,multispeq,soil-moisture
+
 ---
 
 # Attaching soil moisture sensor to the PhotosynQ platform
+
+by [gbathree](../profile/gbathree) September 01, 2014 15:38
+
+September 01, 2014 15:38 | Tags: [photosynq](../tag/photosynq), [multispeq](../tag/multispeq), [soil-moisture](../tag/soil-moisture)
 
 So last week I tried attaching one of YwRobot's soil conductivity meters (good proxy for soil moisture) to the MultispeQ device and PhotosynQ's data display / sharing / analysis backend.
 

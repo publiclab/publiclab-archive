@@ -1,12 +1,18 @@
 ---
-nid: 13180
 title: Riffle Power Consumption
-path: public/static/notes/kinasmith/06-09-2016/riffle-power-consumption.md
+tagnames: riffle, low-power, riffle-beta, riffle-examples
+author: kinasmith
+path: /notes/kinasmith/06-09-2016/riffle-power-consumption.md
+nid: 13180
 uid: 445906
-tagnames: riffle,low-power,riffle-beta,riffle-examples
+
 ---
 
 # Riffle Power Consumption
+
+by [kinasmith](../profile/kinasmith) June 09, 2016 01:54
+
+June 09, 2016 01:54 | Tags: [riffle](../tag/riffle), [low-power](../tag/low-power), [riffle-beta](../tag/riffle-beta), [riffle-examples](../tag/riffle-examples)
 
 ##Measuring Power Consumption
 

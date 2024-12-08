@@ -1,6 +1,6 @@
 # open-water
 
-60 notes and wiki pages
+60 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Riffle: an Open Source Water Monitoring Approach](/riffle) (wiki)
 - [The Open Water Project: FAQ](/notes/kanarinka/04-15-2014/the-open-water-project-faq) by [kanarinka](../profile/kanarinka)

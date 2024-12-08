@@ -1,12 +1,18 @@
 ---
-nid: 10454
 title: Glossary
-path: public/static/wiki/glossary.md
+tagnames: community, citizen-science, evaluation, glossary, definitions, civic-science, parent:about, about
+author: warren
+path: /wiki/glossary.md
+nid: 10454
 uid: 1
-tagnames: community,citizen-science,evaluation,glossary,definitions,civic-science,parent:about,about
+
 ---
 
 # Glossary
+
+by [bhamster](../profile/bhamster), [liz](../profile/liz), [stevie](../profile/stevie), [warren](../profile/warren)
+
+May 09, 2014 15:00 | Tags: [community](../tag/community), [citizen-science](../tag/citizen-science), [evaluation](../tag/evaluation), [glossary](../tag/glossary), [definitions](../tag/definitions), [civic-science](../tag/civic-science), [parent:about](../tag/parent:about), [about](../tag/about)
 
 On this page you'll find more information about some of the words and terms seen and used around Public Lab:
 

@@ -1,12 +1,18 @@
 ---
-nid: 11680
 title: our values are related to and distinct from basic peer production
-path: public/static/notes/liz/03-15-2015/our-values-are-related-to-and-distinct-from-basic-peer-production.md
+tagnames: community, values-statement, peer-production
+author: liz
+path: /notes/liz/03-15-2015/our-values-are-related-to-and-distinct-from-basic-peer-production.md
+nid: 11680
 uid: 7
-tagnames: community,values-statement,peer-production
+
 ---
 
 # our values are related to and distinct from basic peer production
+
+by [liz](../profile/liz) March 15, 2015 14:34
+
+March 15, 2015 14:34 | Tags: [community](../tag/community), [values-statement](../tag/values-statement), [peer-production](../tag/peer-production)
 
 Back in the fall, Public Lab organizers worked on a [values statement](http://publiclab.org/wiki/values-statement) for Public Lab. 
 

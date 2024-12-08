@@ -1,6 +1,6 @@
 # workshop-series
 
-3 notes and wiki pages
+3 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [gardening-toolkit](/wiki/gardening-toolkit) (wiki)
 - [Wetlands Toolkit](/wiki/wetlands-toolkit) (wiki)

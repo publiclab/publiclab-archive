@@ -1,12 +1,18 @@
 ---
-nid: 25505
 title: Sentinel Training Online
-path: public/static/notes/stevie/01-20-2021/sentinel-training-online.md
+tagnames: reporting, event, wisconsin, fracking, frac-sand, pm, parent:frac-sand, particulate-matter, with:pat, violation-reporting, frac-sand-reporting, sentinel, parent:the-sand-sentinel-program, sentinel-program
+author: stevie
+path: /notes/stevie/01-20-2021/sentinel-training-online.md
+nid: 25505
 uid: 422561
-tagnames: reporting,event,wisconsin,fracking,frac-sand,pm,parent:frac-sand,particulate-matter,with:pat,violation-reporting,frac-sand-reporting,sentinel,parent:the-sand-sentinel-program,sentinel-program
+
 ---
 
 # Sentinel Training Online
+
+by [stevie](../profile/stevie) January 20, 2021 18:31
+
+January 20, 2021 18:31 | Tags: [reporting](../tag/reporting), [event](../tag/event), [wisconsin](../tag/wisconsin), [fracking](../tag/fracking), [frac-sand](../tag/frac-sand), [pm](../tag/pm), [parent:frac-sand](../tag/parent:frac-sand), [particulate-matter](../tag/particulate-matter), [with:pat](../tag/with:pat), [violation-reporting](../tag/violation-reporting), [frac-sand-reporting](../tag/frac-sand-reporting), [sentinel](../tag/sentinel), [parent:the-sand-sentinel-program](../tag/parent:the-sand-sentinel-program), [sentinel-program](../tag/sentinel-program)
 
 _Photo by of Ted Auch of [FracTracker Alliance][1]_
   

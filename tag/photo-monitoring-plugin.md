@@ -1,6 +1,6 @@
 # photo-monitoring-plugin
 
-8 notes and wiki pages
+8 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [photo-monitoring-plugin](/wiki/photo-monitoring-plugin) (wiki)
 - [LEAFFEST Infragram camboard batch tests](/notes/warren/09-13-2013/leaffest-infragram-camboard-batch-tests) by [warren](../profile/warren)

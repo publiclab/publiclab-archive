@@ -1,12 +1,18 @@
 ---
-nid: 10694
 title: Why is 'peer-to-peer' file sharing useful?  Should I put effort into learning how to do it?
-path: public/static/notes/donblair/07-15-2014/why-is-peer-to-peer-file-sharing-useful-should-i-put-effort-into-learning-how-to-do-it.md
+tagnames: file-sharing, response:10694, question:file-sharing, p2p, question:image-sharing
+author: donblair
+path: /notes/donblair/07-15-2014/why-is-peer-to-peer-file-sharing-useful-should-i-put-effort-into-learning-how-to-do-it.md
+nid: 10694
 uid: 43651
-tagnames: file-sharing,response:10694,question:file-sharing,p2p,question:image-sharing
+
 ---
 
 # Why is 'peer-to-peer' file sharing useful?  Should I put effort into learning how to do it?
+
+by [donblair](../profile/donblair) July 15, 2014 16:52
+
+July 15, 2014 16:52 | Tags: [file-sharing](../tag/file-sharing), [response:10694](../tag/response:10694), [question:file-sharing](../tag/question:file-sharing), [p2p](../tag/p2p), [question:image-sharing](../tag/question:image-sharing)
 
 Much of the important work done by members of the Public Lab community involves sharing images and other data:  a kite mapping session generates lots of images to be shared with those who are interested in the results; we use sensors to collect data that we'd like to distribute to those who are interested in helping us to analyze and interpret it; we record and share narrative accounts of the environmental concerns we have.
 

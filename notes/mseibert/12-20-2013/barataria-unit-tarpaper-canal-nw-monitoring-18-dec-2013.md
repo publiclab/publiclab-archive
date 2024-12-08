@@ -1,12 +1,18 @@
 ---
-nid: 9909
 title: Barataria Unit Tarpaper Canal (NW) Monitoring   [18 Dec 2013]
-path: public/static/notes/mseibert/12-20-2013/barataria-unit-tarpaper-canal-nw-monitoring-18-dec-2013.md
+tagnames: gulf-coast, balloon-mapping, wetlands, marsh, dredgefestla, dredgefest, lat:29.811636, lon:-90.141294, place:jean-lafitte-national-park
+author: mseibert
+path: /notes/mseibert/12-20-2013/barataria-unit-tarpaper-canal-nw-monitoring-18-dec-2013.md
+nid: 9909
 uid: 419999
-tagnames: gulf-coast,balloon-mapping,wetlands,marsh,dredgefestla,dredgefest,lat:29.811636,lon:-90.141294,place:jean-lafitte-national-park
+
 ---
 
 # Barataria Unit Tarpaper Canal (NW) Monitoring   [18 Dec 2013]
+
+by [mseibert](../profile/mseibert) December 20, 2013 00:28
+
+December 20, 2013 00:28 | Tags: [gulf-coast](../tag/gulf-coast), [balloon-mapping](../tag/balloon-mapping), [wetlands](../tag/wetlands), [marsh](../tag/marsh), [dredgefestla](../tag/dredgefestla), [dredgefest](../tag/dredgefest), [lat:29.811636](../tag/lat:29.811636), [lon:-90.141294](../tag/lon:-90.141294), [place:jean-lafitte-national-park](../tag/place:jean-lafitte-national-park)
 
 ###What I want to do
 Document change over time in the restoration work of an oil/gas canal in Jean Lafitte National Park. The canal had its spoil banks back filled in attempt to promote increased marsh vegetation and aquatic habitat.

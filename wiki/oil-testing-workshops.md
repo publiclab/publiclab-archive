@@ -1,12 +1,18 @@
 ---
-nid: 12655
 title: Oil Testing Workshops
-path: public/static/wiki/oil-testing-workshops.md
+tagnames: workshop, workshops, oil-testing-kit, parent:diy-oil-testing
+author: liz
+path: /wiki/oil-testing-workshops.md
+nid: 12655
 uid: 7
-tagnames: workshop,workshops,oil-testing-kit,parent:diy-oil-testing
+
 ---
 
 # Oil Testing Workshops
+
+by [warren](../profile/warren), [stevie](../profile/stevie), [liz](../profile/liz)
+
+February 04, 2016 19:32 | Tags: [workshop](../tag/workshop), [workshops](../tag/workshops), [oil-testing-kit](../tag/oil-testing-kit), [parent:diy-oil-testing](../tag/parent:diy-oil-testing)
 
 _Above photo by Scott Eustis (@eustatic), Oil testing workshop at St. Tammany parish, Louisiana_
 

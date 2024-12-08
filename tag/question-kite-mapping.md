@@ -1,6 +1,6 @@
 # question-kite-mapping
 
-12 notes and wiki pages
+12 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Size of aerial imagery from balloons and kites](/notes/Morgan/01-05-2017/size-of-aerial-imagery-from-balloons-and-kites) by [Morgan](../profile/Morgan)
 - [Cheap, lightweight GoPro alternatives for aerial mapping?](/notes/warren/05-20-2017/cheap-lightweight-gopro-alternatives-for-aerial-mapping) by [warren](../profile/warren)

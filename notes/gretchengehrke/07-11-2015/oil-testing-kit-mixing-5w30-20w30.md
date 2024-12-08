@@ -1,12 +1,18 @@
 ---
-nid: 12050
 title: Oil Testing Kit -- mixing 5W30 20W30
-path: public/static/notes/gretchengehrke/07-11-2015/oil-testing-kit-mixing-5w30-20w30.md
+tagnames: spectrometer, oil, oil-testing, oil-testing-kit, response:12046
+author: gretchengehrke
+path: /notes/gretchengehrke/07-11-2015/oil-testing-kit-mixing-5w30-20w30.md
+nid: 12050
 uid: 430549
-tagnames: spectrometer,oil,oil-testing,oil-testing-kit,response:12046
+
 ---
 
 # Oil Testing Kit -- mixing 5W30 20W30
+
+by [gretchengehrke](../profile/gretchengehrke) July 11, 2015 20:04
+
+July 11, 2015 20:04 | Tags: [spectrometer](../tag/spectrometer), [oil](../tag/oil), [oil-testing](../tag/oil-testing), [oil-testing-kit](../tag/oil-testing-kit), [response:12046](../tag/response:12046)
 
 ###What I want to do
 Since the oils in the Oil Testing Kit 5W30 and 20W50 are distinguishable by their fluorescence spectra (see Research Note: [http://publiclab.org/notes/gretchengehrke/07-10-2015/oil-testing-kit-discerning-5w30-20w30](http://publiclab.org/notes/gretchengehrke/07-10-2015/oil-testing-kit-discerning-5w30-20w30)), I wanted to see if a 1:1 mixture of the two oils would have a fluorescence spectra with bimodal lambda-max values that would align with the lambda-max value of each neat oil.  

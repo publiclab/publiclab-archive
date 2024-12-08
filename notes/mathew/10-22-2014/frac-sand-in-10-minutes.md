@@ -1,12 +1,18 @@
 ---
-nid: 11290
 title: Frac Sand in 10 minutes
-path: public/static/notes/mathew/10-22-2014/frac-sand-in-10-minutes.md
+tagnames: air-quality, air, monitoring, dust, silica, quality, frac-sand, particle-monitoring, barnstar:watchdog, mid-west, particle, fracsand, parent:frac-sand
+author: mathew
+path: /notes/mathew/10-22-2014/frac-sand-in-10-minutes.md
+nid: 11290
 uid: 4
-tagnames: air-quality,air,monitoring,dust,silica,quality,frac-sand,particle-monitoring,barnstar:watchdog,mid-west,particle,fracsand,parent:frac-sand
+
 ---
 
 # Frac Sand in 10 minutes
+
+by [mathew](../profile/mathew) October 22, 2014 00:33
+
+October 22, 2014 00:33 | Tags: [air-quality](../tag/air-quality), [air](../tag/air), [monitoring](../tag/monitoring), [dust](../tag/dust), [silica](../tag/silica), [quality](../tag/quality), [frac-sand](../tag/frac-sand), [particle-monitoring](../tag/particle-monitoring), [barnstar:watchdog](../tag/barnstar:watchdog), [mid-west](../tag/mid-west), [particle](../tag/particle), [fracsand](../tag/fracsand), [parent:frac-sand](../tag/parent:frac-sand)
 
 photo credit: Crispin Pierce PhD
 

@@ -1,12 +1,18 @@
 ---
-nid: 2930
 title: Yellow Bar Island - Dredge Reuse and FAA permitting
-path: public/static/notes/gwirth/7-23-2012/yellow-bar-island-dredge-reuse.md
+tagnames: new-york-city, balloon-mapping, wetlands, jamaica-bay, sand, spartina, cordgrass, dredge-reuse, faa, salt-marsh, corrinetravis, lat:40.605663, lon:-73.871309, place:yellow-bar-island-jamaica-bay-ny
+author: gwirth
+path: /notes/gwirth/7-23-2012/yellow-bar-island-dredge-reuse.md
+nid: 2930
 uid: 30539
-tagnames: new-york-city,balloon-mapping,wetlands,jamaica-bay,sand,spartina,cordgrass,dredge-reuse,faa,salt-marsh,corrinetravis,lat:40.605663,lon:-73.871309,place:yellow-bar-island-jamaica-bay-ny
+
 ---
 
 # Yellow Bar Island - Dredge Reuse and FAA permitting
+
+by [gwirth](../profile/gwirth) July 23, 2012 11:03
+
+July 23, 2012 11:03 | Tags: [new-york-city](../tag/new-york-city), [balloon-mapping](../tag/balloon-mapping), [wetlands](../tag/wetlands), [jamaica-bay](../tag/jamaica-bay), [sand](../tag/sand), [spartina](../tag/spartina), [cordgrass](../tag/cordgrass), [dredge-reuse](../tag/dredge-reuse), [faa](../tag/faa), [salt-marsh](../tag/salt-marsh), [corrinetravis](../tag/corrinetravis), [lat:40.605663](../tag/lat:40.605663), [lon:-73.871309](../tag/lon:-73.871309), [place:yellow-bar-island-jamaica-bay-ny](../tag/place:yellow-bar-island-jamaica-bay-ny)
 
 The <a href="http://dredgeresearchcollaborative.org/">Dredge Research Collaborative</a> and Public Laboratory (Gena Wirth and Rob Holmes) visited Yellow Bar Island in Jamaica Bay in mid-July to document progress on the Army Corps of Engineers project that aims to restore eroding salt marsh habitat with recycled dredge material. 
 

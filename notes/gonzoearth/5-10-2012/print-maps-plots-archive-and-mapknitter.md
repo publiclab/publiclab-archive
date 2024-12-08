@@ -1,12 +1,18 @@
 ---
-nid: 1949
 title: Print maps from the PLOTS Archive and MapKnitter
-path: public/static/notes/gonzoearth/5-10-2012/print-maps-plots-archive-and-mapknitter.md
+tagnames: balloon-mapping, near-infrared-camera, kite-mapping
+author: gonzoearth
+path: /notes/gonzoearth/5-10-2012/print-maps-plots-archive-and-mapknitter.md
+nid: 1949
 uid: 12
-tagnames: balloon-mapping,near-infrared-camera,kite-mapping
+
 ---
 
 # Print maps from the PLOTS Archive and MapKnitter
+
+by [gonzoearth](../profile/gonzoearth) May 10, 2012 20:38
+
+May 10, 2012 20:38 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping)
 
 This was a bit lost in the hubbub over the Google announcement, but a few weeks ago we added a feature to  order a print directly from [MapKnitter](https://mapknitter.org/) and from the [PLOTS map archive](/archive). Users can now click-through directly from their map details page. Public Laboratory map production is working towards a end-to-end open source solution:
 

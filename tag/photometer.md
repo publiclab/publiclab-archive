@@ -1,6 +1,6 @@
 # photometer
 
-3 notes and wiki pages
+3 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Multi parameter analysis using a DIY Spectrometer](/notes/Frikkie/03-05-2015/multi-parameter-analysis-using-a-diy-spectrometer) by [Frikkie](../profile/Frikkie)
 - [Photometer Kit idea ](/notes/programmer1200/02-03-2018/photometer-kit-idea) by [programmer1200](../profile/programmer1200)

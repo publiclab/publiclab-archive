@@ -1,12 +1,18 @@
 ---
-nid: 10503
 title: iFarm aeries
-path: public/static/notes/cfastie/05-23-2014/ifarm-aeries.md
+tagnames: kite-mapping, boston, new-hampshire, farmhack, farm, kap, event, ifarm, 3d-printing, northeast, ifarm2014, aeries, response:10486, redstone
+author: cfastie
+path: /notes/cfastie/05-23-2014/ifarm-aeries.md
+nid: 10503
 uid: 554
-tagnames: kite-mapping,boston,new-hampshire,farmhack,farm,kap,event,ifarm,3d-printing,northeast,ifarm2014,aeries,response:10486,redstone
+
 ---
 
 # iFarm aeries
+
+by [cfastie](../profile/cfastie) May 23, 2014 01:35
+
+May 23, 2014 01:35 | Tags: [kite-mapping](../tag/kite-mapping), [boston](../tag/boston), [new-hampshire](../tag/new-hampshire), [farmhack](../tag/farmhack), [farm](../tag/farm), [kap](../tag/kap), [event](../tag/event), [ifarm](../tag/ifarm), [3d-printing](../tag/3d-printing), [northeast](../tag/northeast), [ifarm2014](../tag/ifarm2014), [aeries](../tag/aeries), [response:10486](../tag/response:10486), [redstone](../tag/redstone)
 
 *Above: Severine flying the Redstone Rig.*  
 .  

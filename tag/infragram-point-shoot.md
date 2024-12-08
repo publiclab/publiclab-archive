@@ -1,6 +1,6 @@
 # infragram-point-shoot
 
-19 notes and wiki pages
+19 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Mobius Filter-O-Matic](/notes/cfastie/04-18-2014/mobius-filter-o-matic) by [cfastie](../profile/cfastie)
 - [Infragram kite mapping at Fab10 Barcelona](/notes/warren/07-09-2014/infragram-kite-mapping-at-fab10-barcelona) by [warren](../profile/warren)

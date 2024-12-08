@@ -1,12 +1,18 @@
 ---
-nid: 34908
 title: GSOC Report:  full-screen UI and video upload on Infragram.org
-path: public/static/notes/forcha/08-28-2022/gsoc-report-full-screen-ui-and-video-upload-on-infragram-org.md
+tagnames: infragram, gsoc, google, water-quality, multispectral-imaging, infragram.org, lat:1.010689, lon:9.997558, zoom:6, 2022
+author: forcha
+path: /notes/forcha/08-28-2022/gsoc-report-full-screen-ui-and-video-upload-on-infragram-org.md
+nid: 34908
 uid: 791076
-tagnames: infragram,gsoc,google,water-quality,multispectral-imaging,infragram.org,lat:1.010689,lon:9.997558,zoom:6,2022
+
 ---
 
 # GSOC Report:  full-screen UI and video upload on Infragram.org
+
+by [forcha](../profile/forcha) August 28, 2022 21:30
+
+August 28, 2022 21:30 | Tags: [infragram](../tag/infragram), [gsoc](../tag/gsoc), [google](../tag/google), [water-quality](../tag/water-quality), [multispectral-imaging](../tag/multispectral-imaging), [infragram.org](../tag/infragram.org), [lat:1.010689](../tag/lat:1.010689), [lon:9.997558](../tag/lon:9.997558), [zoom:6](../tag/zoom:6), [2022](../tag/2022)
 
 Name: Forcha Pearl Fri  
 Gitter: forchapeatl  

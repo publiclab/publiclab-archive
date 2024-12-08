@@ -1,12 +1,18 @@
 ---
-nid: 159
 title: Archive Planning
-path: public/static/wiki/archive-planning.md
-uid: 1
 tagnames: 
+author: warren
+path: /wiki/archive-planning.md
+nid: 159
+uid: 1
+
 ---
 
 # Archive Planning
+
+by [gonzoearth](../profile/gonzoearth), [warren](../profile/warren)
+
+April 06, 2011 19:24 | Tags: 
 
 ##Planning for the upcoming Public Laboratory archive##
 

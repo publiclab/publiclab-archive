@@ -1,12 +1,18 @@
 ---
-nid: 599
 title: Video tutorial: Build a $10 USB visible-light spectrometer 
-path: public/static/notes/warren/11-30-2011/video-tutorial-build-10-usb-visible-light-spectrometer.md
-uid: 1
 tagnames: 
+author: warren
+path: /notes/warren/11-30-2011/video-tutorial-build-10-usb-visible-light-spectrometer.md
+nid: 599
+uid: 1
+
 ---
 
 # Video tutorial: Build a $10 USB visible-light spectrometer 
+
+by [warren](../profile/warren) December 01, 2011 00:22
+
+December 01, 2011 00:22 | Tags: 
 
 <iframe width="480" height="360" src="https://www.youtube.com/embed/IA5BTD-aelo" frameborder="0" allowfullscreen></iframe>
 

@@ -1,12 +1,18 @@
 ---
-nid: 15207
 title: Spectrometer 3.0 Upgrades
-path: public/static/notes/programmer1200/11-20-2017/spectrometer-3-0-upgrades.md
+tagnames: spectrometer, spectrometry, cuvette, modifications, barnstar:basic, upgrade:spectrometry, upgrade:dssk, activity:dssk, dssk
+author: programmer1200
+path: /notes/programmer1200/11-20-2017/spectrometer-3-0-upgrades.md
+nid: 15207
 uid: 509305
-tagnames: spectrometer,spectrometry,cuvette,modifications,barnstar:basic,upgrade:spectrometry,upgrade:dssk,activity:dssk,dssk
+
 ---
 
 # Spectrometer 3.0 Upgrades
+
+by [programmer1200](../profile/programmer1200) November 20, 2017 17:35
+
+November 20, 2017 17:35 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [cuvette](../tag/cuvette), [modifications](../tag/modifications), [barnstar:basic](../tag/barnstar:basic), [upgrade:spectrometry](../tag/upgrade:spectrometry), [upgrade:dssk](../tag/upgrade:dssk), [activity:dssk](../tag/activity:dssk), [dssk](../tag/dssk)
 
 Over the last month or so I had finally been able to sit down and start upgrading and building my Spectrometer 3.0\. Now the Spectrometer 3.0 is a great machine and was well designed but I had few changes and additions I wanted to add to it.The things I wanted to change are the mount that holds the camera and a cuvette holder that I could easily change the light sample.All the changes that I made are 3d printed and will be made available to anyone that would like to try them out.
 

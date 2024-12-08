@@ -1,12 +1,18 @@
 ---
-nid: 11974
 title: Thermal Fishing Bob Temperature Measurement Speed
-path: public/static/notes/neilhendrick/06-11-2015/thermal-fishing-bob-temperature-measurement-speed.md
+tagnames: thermal-imaging, thermal-fishing-bob
+author: neilhendrick
+path: /notes/neilhendrick/06-11-2015/thermal-fishing-bob-temperature-measurement-speed.md
+nid: 11974
 uid: 421122
-tagnames: thermal-imaging,thermal-fishing-bob
+
 ---
 
 # Thermal Fishing Bob Temperature Measurement Speed
+
+by [neilhendrick](../profile/neilhendrick) June 11, 2015 22:20
+
+June 11, 2015 22:20 | Tags: [thermal-imaging](../tag/thermal-imaging), [thermal-fishing-bob](../tag/thermal-fishing-bob)
 
 ### A test to see how quickly the Thermister used in the Thermal Fishing Bob can measure changes in temperature###
 Conducted at the [Themal Fishing Bob Barnraising](http://www.publiclab.org/wiki/thermal-fishing-bob-barnraising)

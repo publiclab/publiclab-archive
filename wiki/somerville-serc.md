@@ -1,12 +1,18 @@
 ---
-nid: 16147
 title: Somerville SERC
-path: public/static/wiki/somerville-serc.md
-uid: 1
 tagnames: parent:serc
+author: warren
+path: /wiki/somerville-serc.md
+nid: 16147
+uid: 1
+
 ---
 
 # Somerville SERC
+
+by [warren](../profile/warren)
+
+April 12, 2018 15:04 | Tags: [parent:serc](../tag/parent:serc)
 
 
 

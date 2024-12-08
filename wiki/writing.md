@@ -1,12 +1,18 @@
 ---
-nid: 387
 title: Writing
-path: public/static/wiki/writing.md
-uid: 1
 tagnames: 
+author: warren
+path: /wiki/writing.md
+nid: 387
+uid: 1
+
 ---
 
 # Writing
+
+by [liz](../profile/liz), [warren](../profile/warren)
+
+July 16, 2011 14:07 | Tags: 
 
 ##Harvard book on the future of the Public Library##
 * approached March 28, 2012

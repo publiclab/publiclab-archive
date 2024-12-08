@@ -1,12 +1,18 @@
 ---
-nid: 24806
 title: Outreachy proposal: Comment Editor Overhaul
-path: public/static/notes/urvashi072000/10-24-2020/outreachy-proposal-comment-editor-overhaul.md
+tagnames: software, first-time-poster, outreachy-winter-2020, outreachy-2020-winter-proposals, response:24687
+author: urvashi072000
+path: /notes/urvashi072000/10-24-2020/outreachy-proposal-comment-editor-overhaul.md
+nid: 24806
 uid: 638826
-tagnames: software,first-time-poster,outreachy-winter-2020,outreachy-2020-winter-proposals,response:24687
+
 ---
 
 # Outreachy proposal: Comment Editor Overhaul
+
+by [urvashi072000](../profile/urvashi072000) October 24, 2020 14:01
+
+October 24, 2020 14:01 | Tags: [software](../tag/software), [first-time-poster](../tag/first-time-poster), [outreachy-winter-2020](../tag/outreachy-winter-2020), [outreachy-2020-winter-proposals](../tag/outreachy-2020-winter-proposals), [response:24687](../tag/response:24687)
 
 # ABOUT ME
 

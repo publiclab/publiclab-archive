@@ -1,12 +1,18 @@
 ---
-nid: 13443
 title: Laser Calibration (532nm) of New DVD Diffration Grating 4.7 GB
-path: public/static/notes/dhaffnersr/09-12-2016/laser-calibration-532nm-of-new-dvd-diffration-grating-4-7-gb.md
-uid: 461120
 tagnames: 
+author: dhaffnersr
+path: /notes/dhaffnersr/09-12-2016/laser-calibration-532nm-of-new-dvd-diffration-grating-4-7-gb.md
+nid: 13443
+uid: 461120
+
 ---
 
 # Laser Calibration (532nm) of New DVD Diffration Grating 4.7 GB
+
+by [dhaffnersr](../profile/dhaffnersr) September 12, 2016 16:47
+
+September 12, 2016 16:47 | Tags: 
 
 ##**Resolution and Calibration for the DH 4 v4a Spectrometer**
 

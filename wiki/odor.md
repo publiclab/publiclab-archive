@@ -1,12 +1,18 @@
 ---
-nid: 15794
 title: Odor Logging
-path: public/static/wiki/odor.md
+tagnames: landfill, air-quality, air, waste, landfills, odor, method, oil-and-gas, smell, parent:air-quality, odor-logging, bucket-monitor
+author: imvec
+path: /wiki/odor.md
+nid: 15794
 uid: 495038
-tagnames: landfill,air-quality,air,waste,landfills,odor,method,oil-and-gas,smell,parent:air-quality,odor-logging,bucket-monitor
+
 ---
 
 # Odor Logging
+
+by [bhamster](../profile/bhamster), [joyofsoy](../profile/joyofsoy), [liz](../profile/liz), [imvec](../profile/imvec), [gretchengehrke](../profile/gretchengehrke)
+
+February 21, 2018 16:29 | Tags: [landfill](../tag/landfill), [air-quality](../tag/air-quality), [air](../tag/air), [waste](../tag/waste), [landfills](../tag/landfills), [odor](../tag/odor), [method](../tag/method), [oil-and-gas](../tag/oil-and-gas), [smell](../tag/smell), [parent:air-quality](../tag/parent:air-quality), [odor-logging](../tag/odor-logging), [bucket-monitor](../tag/bucket-monitor)
 
 Bad odor events usually signal the presence of hydrogen sulfide, methane, and other dangerous gases. Keeping track of them and investigating their origin is important for health and safety. This page collects **resources to keep track of bad odor events** for further investigating their origin and their potential effects on people.  
 

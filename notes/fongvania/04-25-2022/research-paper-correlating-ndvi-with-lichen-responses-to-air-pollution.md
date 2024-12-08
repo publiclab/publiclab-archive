@@ -1,12 +1,18 @@
 ---
-nid: 30586
 title: Research Paper: Correlating NDVI with Lichen Responses to Air Pollution
-path: public/static/notes/fongvania/04-25-2022/research-paper-correlating-ndvi-with-lichen-responses-to-air-pollution.md
+tagnames: ndvi, nir, spectrometry, air-quality, photosynthesis, academic-journal, lichen, research-curation-fellows, bioindicators
+author: fongvania
+path: /notes/fongvania/04-25-2022/research-paper-correlating-ndvi-with-lichen-responses-to-air-pollution.md
+nid: 30586
 uid: 754846
-tagnames: ndvi,nir,spectrometry,air-quality,photosynthesis,academic-journal,lichen,research-curation-fellows,bioindicators
+
 ---
 
 # Research Paper: Correlating NDVI with Lichen Responses to Air Pollution
+
+by [fongvania](../profile/fongvania) April 25, 2022 06:50
+
+April 25, 2022 06:50 | Tags: [ndvi](../tag/ndvi), [nir](../tag/nir), [spectrometry](../tag/spectrometry), [air-quality](../tag/air-quality), [photosynthesis](../tag/photosynthesis), [academic-journal](../tag/academic-journal), [lichen](../tag/lichen), [research-curation-fellows](../tag/research-curation-fellows), [bioindicators](../tag/bioindicators)
 
 *Cover Image: Photo by Ken-ichi Ueda,  [Flickr][1], [CC BY-NC 2.0][2]*
 

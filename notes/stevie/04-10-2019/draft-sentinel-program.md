@@ -1,12 +1,18 @@
 ---
-nid: 19030
 title: Draft Sand Sentinel Program 
-path: public/static/notes/stevie/04-10-2019/draft-sentinel-program.md
+tagnames: wisconsin, blog, frac-sand, pm, midwest, parent:frac-sand, sentinel, parent:the-sand-sentinel-program, sand-sentinel
+author: stevie
+path: /notes/stevie/04-10-2019/draft-sentinel-program.md
+nid: 19030
 uid: 422561
-tagnames: wisconsin,blog,frac-sand,pm,midwest,parent:frac-sand,sentinel,parent:the-sand-sentinel-program,sand-sentinel
+
 ---
 
 # Draft Sand Sentinel Program 
+
+by [stevie](../profile/stevie) April 10, 2019 20:07
+
+April 10, 2019 20:07 | Tags: [wisconsin](../tag/wisconsin), [blog](../tag/blog), [frac-sand](../tag/frac-sand), [pm](../tag/pm), [midwest](../tag/midwest), [parent:frac-sand](../tag/parent:frac-sand), [sentinel](../tag/sentinel), [parent:the-sand-sentinel-program](../tag/parent:the-sand-sentinel-program), [sand-sentinel](../tag/sand-sentinel)
 
 _Logo above courtesy of Pat Popple_ 
 

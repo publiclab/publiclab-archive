@@ -1,12 +1,18 @@
 ---
-nid: 11814
 title: Idea:80%COMPLETED-SAP project (Smart Agriculture Payload)
-path: public/static/wiki/idea-80-completed-sap-project-smart-agriculture-payload.md
+tagnames: near-infrared-camera, ndvi, farming, agriculture, organic-agriculture, near-infrared, near-ir, robot, nutrient-density, smart
+author: Mohamed
+path: /wiki/idea-80-completed-sap-project-smart-agriculture-payload.md
+nid: 11814
 uid: 431141
-tagnames: near-infrared-camera,ndvi,farming,agriculture,organic-agriculture,near-infrared,near-ir,robot,nutrient-density,smart
+
 ---
 
 # Idea:80%COMPLETED-SAP project (Smart Agriculture Payload)
+
+by [Mohamed](../profile/Mohamed)
+
+May 13, 2015 23:20 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [farming](../tag/farming), [agriculture](../tag/agriculture), [organic-agriculture](../tag/organic-agriculture), [near-infrared](../tag/near-infrared), [near-ir](../tag/near-ir), [robot](../tag/robot), [nutrient-density](../tag/nutrient-density), [smart](../tag/smart)
 
 Developing UAVs for combined millet / Acacia , Airborne Automated Cultivation.
 ![Desertification][1]

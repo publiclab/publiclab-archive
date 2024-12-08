@@ -1,12 +1,18 @@
 ---
-nid: 16201
 title: How durable is kombucha leather?
-path: public/static/notes/lait422/04-23-2018/how-durable-is-kombucha-leather.md
+tagnames: kombucha-leather, question:kombucha-leather
+author: lait422
+path: /notes/lait422/04-23-2018/how-durable-is-kombucha-leather.md
+nid: 16201
 uid: 531878
-tagnames: kombucha-leather,question:kombucha-leather
+
 ---
 
 # How durable is kombucha leather?
+
+by [lait422](../profile/lait422) April 23, 2018 21:32
+
+April 23, 2018 21:32 | Tags: [kombucha-leather](../tag/kombucha-leather), [question:kombucha-leather](../tag/question:kombucha-leather)
 
 I conducted a stretch test and a crumple test on a piece of kombucha leather before and after it was coated with the beeswax and coconut oil mixture.   
 

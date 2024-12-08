@@ -1,12 +1,18 @@
 ---
-nid: 13144
 title: Val Verde, California
-path: public/static/wiki/val-verde-california.md
+tagnames: losangeles, regionalbarnraising, environmentaljustice, landfills, val-verde
+author: sarasage
+path: /wiki/val-verde-california.md
+nid: 13144
 uid: 451398
-tagnames: losangeles,regionalbarnraising,environmentaljustice,landfills,val-verde
+
 ---
 
 # Val Verde, California
+
+by [sarasage](../profile/sarasage)
+
+May 27, 2016 00:07 | Tags: [losangeles](../tag/losangeles), [regionalbarnraising](../tag/regionalbarnraising), [environmentaljustice](../tag/environmentaljustice), [landfills](../tag/landfills), [val-verde](../tag/val-verde)
 
 ##Val Verde, California 
 

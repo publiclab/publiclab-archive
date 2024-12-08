@@ -1,12 +1,18 @@
 ---
-nid: 11307
 title: Calibrating Arduino-based conductivity meter
-path: public/static/notes/markwh/10-29-2014/calibrating-arduino-based-conductivity-meter.md
+tagnames: umass-amherst, riffle, publiclab-at-umass, first-time-poster
+author: markwh
+path: /notes/markwh/10-29-2014/calibrating-arduino-based-conductivity-meter.md
+nid: 11307
 uid: 428820
-tagnames: umass-amherst,riffle,publiclab-at-umass,first-time-poster
+
 ---
 
 # Calibrating Arduino-based conductivity meter
+
+by [markwh](../profile/markwh) October 29, 2014 01:55
+
+October 29, 2014 01:55 | Tags: [umass-amherst](../tag/umass-amherst), [riffle](../tag/riffle), [publiclab-at-umass](../tag/publiclab-at-umass), [first-time-poster](../tag/first-time-poster)
 
 ###What I want to do
 

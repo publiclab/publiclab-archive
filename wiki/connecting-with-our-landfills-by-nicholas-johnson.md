@@ -1,12 +1,18 @@
 ---
-nid: 11704
 title: Connecting with our Landfills by Nicholas Johnson
-path: public/static/wiki/connecting-with-our-landfills-by-nicholas-johnson.md
+tagnames: landfill, grassrootsmappingforum, trash, fresh-kills, gmf-6, style:fancy
+author: mollydanielsson
+path: /wiki/connecting-with-our-landfills-by-nicholas-johnson.md
+nid: 11704
 uid: 1259
-tagnames: landfill,grassrootsmappingforum,trash,fresh-kills,gmf-6,style:fancy
+
 ---
 
 # Connecting with our Landfills by Nicholas Johnson
+
+by [mollydanielsson](../profile/mollydanielsson)
+
+March 20, 2015 23:50 | Tags: [landfill](../tag/landfill), [grassrootsmappingforum](../tag/grassrootsmappingforum), [trash](../tag/trash), [fresh-kills](../tag/fresh-kills), [gmf-6](../tag/gmf-6), [style:fancy](../tag/style:fancy)
 
 by Nicholas Johnson
 

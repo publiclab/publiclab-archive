@@ -1,12 +1,18 @@
 ---
-nid: 5964
 title: Grating angle: DVD+R
-path: public/static/notes/cfastie/2-12-2013/grating-angle-dvdr.md
+tagnames: spectrometer, vermont, diffraction-grating, focus
+author: cfastie
+path: /notes/cfastie/2-12-2013/grating-angle-dvdr.md
+nid: 5964
 uid: 554
-tagnames: spectrometer,vermont,diffraction-grating,focus
+
 ---
 
 # Grating angle: DVD+R
+
+by [cfastie](../profile/cfastie) February 13, 2013 03:39
+
+February 13, 2013 03:39 | Tags: [spectrometer](../tag/spectrometer), [vermont](../tag/vermont), [diffraction-grating](../tag/diffraction-grating), [focus](../tag/focus)
 
 <em>I measured angle g for multiple distances (D) between the entrance slit and the grating.</em>
 

@@ -1,12 +1,18 @@
 ---
-nid: 20517
 title: Urban greening in Nottingham
-path: public/static/wiki/urban-greening-in-nottingham.md
+tagnames: mapping, uk, urban-ag, eu, project, nottingham, project:advocacy-with-maps
+author: molangmuir10
+path: /wiki/urban-greening-in-nottingham.md
+nid: 20517
 uid: 589023
-tagnames: mapping,uk,urban-ag,eu,project,nottingham,project:advocacy-with-maps
+
 ---
 
 # Urban greening in Nottingham
+
+by [molangmuir10](../profile/molangmuir10)
+
+August 13, 2019 09:04 | Tags: [mapping](../tag/mapping), [uk](../tag/uk), [urban-ag](../tag/urban-ag), [eu](../tag/eu), [project](../tag/project), [nottingham](../tag/nottingham), [project:advocacy-with-maps](../tag/project:advocacy-with-maps)
 
 The aim of this project is to develop a mapped plan for urban greening and growing in Nottingham with children and young people from the community. The work is ongoing.
 

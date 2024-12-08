@@ -1,12 +1,18 @@
 ---
-nid: 4026
 title: Bread Loaf Ortho
-path: public/static/notes/cfastie/9-26-2012/bread-loaf-ortho.md
+tagnames: kite-mapping, mapknitter, leaffest, leaffest2012, gps
+author: cfastie
+path: /notes/cfastie/9-26-2012/bread-loaf-ortho.md
+nid: 4026
 uid: 554
-tagnames: kite-mapping,mapknitter,leaffest,leaffest2012,gps
+
 ---
 
 # Bread Loaf Ortho
+
+by [cfastie](../profile/cfastie) September 26, 2012 21:38
+
+September 26, 2012 21:38 | Tags: [kite-mapping](../tag/kite-mapping), [mapknitter](../tag/mapknitter), [leaffest](../tag/leaffest), [leaffest2012](../tag/leaffest2012), [gps](../tag/gps)
 
 On LEAFFEST’s gorgeous Saturday, we invaded the Bread Loaf Campus of Middlebury College on a plateau in the Green Mountains at 1450 feet above sea level. The Campus is mostly empty at this time of year, so our invasion was unopposed and also pretty much unnoticed. There was a variable south wind so we tried a few different kites, and I settled on a Levitation Delta for lifting KAP rigs. During one of the flights, a radio controlled (RC) pan/tilt rig with a Canon S95 was augmented with two instruments.  We strapped on a Garmin Forerunner 305 GPS watch which was recording lat, long, and altitude every few (?) seconds. We also lashed on a Jeenode with sensors for temperature, barometric pressure, and acceleration.  The Jeenode data were saved to an SD card every second (?). 
 

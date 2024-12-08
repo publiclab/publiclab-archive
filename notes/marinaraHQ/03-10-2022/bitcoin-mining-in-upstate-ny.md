@@ -1,12 +1,18 @@
 ---
-nid: 30115
 title: Bitcoin Mining in Upstate NY
-path: public/static/notes/marinaraHQ/03-10-2022/bitcoin-mining-in-upstate-ny.md
+tagnames: new-york, mining, water-quality, water, northeast, ballon-mapping, first-time-poster, crypto, zoom:9, zoom:12, lat:42.60864848616297, lon:-76.91454253625126, acid-rain, greenhouse-gas, ithaca, cornell, lat:43.047561, lon:-77.667246
+author: marinaraHQ
+path: /notes/marinaraHQ/03-10-2022/bitcoin-mining-in-upstate-ny.md
+nid: 30115
 uid: 791074
-tagnames: new-york,mining,water-quality,water,northeast,ballon-mapping,first-time-poster,crypto,zoom:9,zoom:12,lat:42.60864848616297,lon:-76.91454253625126,acid-rain,greenhouse-gas,ithaca,cornell,lat:43.047561,lon:-77.667246
+
 ---
 
 # Bitcoin Mining in Upstate NY
+
+by [marinaraHQ](../profile/marinaraHQ) March 10, 2022 19:18
+
+March 10, 2022 19:18 | Tags: [new-york](../tag/new-york), [mining](../tag/mining), [water-quality](../tag/water-quality), [water](../tag/water), [northeast](../tag/northeast), [ballon-mapping](../tag/ballon-mapping), [first-time-poster](../tag/first-time-poster), [crypto](../tag/crypto), [zoom:9](../tag/zoom:9), [zoom:12](../tag/zoom:12), [lat:42.60864848616297](../tag/lat:42.60864848616297), [lon:-76.91454253625126](../tag/lon:-76.91454253625126), [acid-rain](../tag/acid-rain), [greenhouse-gas](../tag/greenhouse-gas), [ithaca](../tag/ithaca), [cornell](../tag/cornell), [lat:43.047561](../tag/lat:43.047561), [lon:-77.667246](../tag/lon:-77.667246)
 
 [Greenidge Generation LLC](https://goo.gl/maps/UUG3LtfFCrsjCmp99) is one example of a decommissioned industrial plant that has been _revitalized_ into one of the largest cryptocurrency mines in the country. Bitcoin mining facilities devote huge quantities of computational power to solving cryptographic problems, resulting in insane energy grid demands. Old power plants industrial regions (like those found in finger lakes region New York) are hot real estate for bitcoin mining predominately due to their river/lakeside locations and existing facility infrastructure that cool the operating computer systems. [  
 ](https://goo.gl/maps/UUG3LtfFCrsjCmp99)

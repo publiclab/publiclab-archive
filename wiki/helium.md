@@ -1,12 +1,18 @@
 ---
-nid: 2501
 title: Helium
-path: public/static/wiki/helium.md
+tagnames: balloon-mapping, helium, table-lamp
+author: gonzoearth
+path: /wiki/helium.md
+nid: 2501
 uid: 12
-tagnames: balloon-mapping,helium,table-lamp
+
 ---
 
 # Helium
+
+by [Bronwen](../profile/Bronwen), [mathew](../profile/mathew), [warren](../profile/warren), [eustatic](../profile/eustatic), [wward1400](../profile/wward1400), [Juan](../profile/Juan), [Shannon](../profile/Shannon), [gonzoearth](../profile/gonzoearth)
+
+June 15, 2012 19:59 | Tags: [balloon-mapping](../tag/balloon-mapping), [helium](../tag/helium), [table-lamp](../tag/table-lamp)
 
 <img src="https://farm6.staticflickr.com/5349/7207537300_928821ee09.jpg" width="500" title="image via recordandremember@Flickr">
 ##June 2012##

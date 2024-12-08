@@ -1,12 +1,18 @@
 ---
-nid: 17280
 title: gifs
-path: public/static/wiki/gifs.md
-uid: 1
 tagnames: 
+author: warren
+path: /wiki/gifs.md
+nid: 17280
+uid: 1
+
 ---
 
 # gifs
+
+by [warren](../profile/warren)
+
+October 12, 2018 06:40 | Tags: 
 
 This is a page showing how to make Gifs of what's on your computer screen -- to help document software issues in [Public Lab software projects](https://code.publiclab.org).
 

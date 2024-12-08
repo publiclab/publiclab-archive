@@ -1,6 +1,6 @@
 # activity-filters
 
-3 notes and wiki pages
+3 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Inexpensive HEPA Filter Fan project to reduce air pollution](/notes/Melissa/08-26-2015/inexpensive-hepa-filter-fan-project-to-reduce-air-pollution) by [Melissa](../profile/Melissa)
 - [Build a plant-based air purifier ](/notes/nshapiro/09-26-2016/build-a-plant-based-air-purifier) by [nshapiro](../profile/nshapiro)

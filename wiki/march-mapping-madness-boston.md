@@ -1,12 +1,18 @@
 ---
-nid: 890
 title: March Mapping Madness-Boston
-path: public/static/wiki/march-mapping-madness-boston.md
+tagnames: balloon-mapping, somerville-massachusetts
+author: sara
+path: /wiki/march-mapping-madness-boston.md
+nid: 890
 uid: 8
-tagnames: balloon-mapping,somerville-massachusetts
+
 ---
 
 # March Mapping Madness-Boston
+
+by [warren](../profile/warren), [rjstatic](../profile/rjstatic), [sara](../profile/sara)
+
+March 06, 2012 00:56 | Tags: [balloon-mapping](../tag/balloon-mapping), [somerville-massachusetts](../tag/somerville-massachusetts)
 
 <a href="http://g.co/maps/ntvzq" title="Hodgkins Park, Somerville by publiclaboratory, on Flickr"><img src="https://farm8.staticflickr.com/7204/7006017349_739aea05e4.jpg" width="500" height="374" alt="Hodgkins Park, Somerville"></a>
 

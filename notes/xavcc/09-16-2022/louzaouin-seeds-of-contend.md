@@ -1,12 +1,18 @@
 ---
-nid: 34968
 title: Louzaouiñ Seeds Of Contend
-path: public/static/notes/xavcc/09-16-2022/louzaouin-seeds-of-contend.md
+tagnames: event, soil, water-quality, bioassay, seeds, zoom:6, lat:48.117266, lon:-1.677792, date:10-24-2022
+author: xavcc
+path: /notes/xavcc/09-16-2022/louzaouin-seeds-of-contend.md
+nid: 34968
 uid: 630823
-tagnames: event,soil,water-quality,bioassay,seeds,zoom:6,lat:48.117266,lon:-1.677792,date:10-24-2022
+
 ---
 
 # Louzaouiñ Seeds Of Contend
+
+by [xavcc](../profile/xavcc) September 16, 2022 17:21
+
+September 16, 2022 17:21 | Tags: [event](../tag/event), [soil](../tag/soil), [water-quality](../tag/water-quality), [bioassay](../tag/bioassay), [seeds](../tag/seeds), [zoom:6](../tag/zoom:6), [lat:48.117266](../tag/lat:48.117266), [lon:-1.677792](../tag/lon:-1.677792), [date:10-24-2022](../tag/date:10-24-2022)
 
  Come and collect seeds in a corner of Rennes, Brittany, France.
 

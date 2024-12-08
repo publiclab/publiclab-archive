@@ -1,12 +1,18 @@
 ---
-nid: 13988
 title: SERC
-path: public/static/wiki/serc.md
+tagnames: serc, community-kits-prep
+author: warren
+path: /wiki/serc.md
+nid: 13988
 uid: 1
-tagnames: serc,community-kits-prep
+
 ---
 
 # SERC
+
+by [warren](../profile/warren)
+
+March 05, 2017 16:25 | Tags: [serc](../tag/serc), [community-kits-prep](../tag/community-kits-prep)
 
 > In 2017, DS4SI created **Social Emergency Response Centers** (SERCs) to help people understand the moment we’re in, from all different perspectives. Co-created with activists, artists and community members, SERCs are temporary, pop-up spaces that help us move from rage and despair into collective, radical action. SERCs are continuing and growing—a people-led public infrastructure sweeping the country from Utica, MS to Atlanta, Albuquerque, Washington DC, Chicago, Orange, NJ, Hartford, CT, etc. 
 

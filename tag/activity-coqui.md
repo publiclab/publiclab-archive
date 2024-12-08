@@ -1,6 +1,6 @@
 # activity-coqui
 
-10 notes and wiki pages
+10 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Build a Coquí: A Simple Water Conductivity Sensor (version 1)](/notes/ashkaya/09-17-2016/build-a-coqui-a-simple-water-conductivity-sensor) by [akshaya](../profile/akshaya)
 - [Build a sound-generating Coqui conductivity sensor (new version!)](/notes/warren/03-01-2019/build-a-sound-generating-coqui-conductivity-sensor) by [warren](../profile/warren)

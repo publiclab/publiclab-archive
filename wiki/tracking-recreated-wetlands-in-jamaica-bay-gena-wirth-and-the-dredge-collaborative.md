@@ -1,12 +1,18 @@
 ---
-nid: 11587
 title: Tracking recreated wetlands in Jamaica Bay: Gena Wirth and the Dredge Collaborative
-path: public/static/wiki/tracking-recreated-wetlands-in-jamaica-bay-gena-wirth-and-the-dredge-collaborative.md
+tagnames: wetlands, jamaica-bay, yellow-bar-island, spartina, dredgeresearchcollaborative, style:fancy, gmf-4, with:gwirth
+author: mollydanielsson
+path: /wiki/tracking-recreated-wetlands-in-jamaica-bay-gena-wirth-and-the-dredge-collaborative.md
+nid: 11587
 uid: 1259
-tagnames: wetlands,jamaica-bay,yellow-bar-island,spartina,dredgeresearchcollaborative,style:fancy,gmf-4,with:gwirth
+
 ---
 
 # Tracking recreated wetlands in Jamaica Bay: Gena Wirth and the Dredge Collaborative
+
+by [mollydanielsson](../profile/mollydanielsson)
+
+February 14, 2015 23:28 | Tags: [wetlands](../tag/wetlands), [jamaica-bay](../tag/jamaica-bay), [yellow-bar-island](../tag/yellow-bar-island), [spartina](../tag/spartina), [dredgeresearchcollaborative](../tag/dredgeresearchcollaborative), [style:fancy](../tag/style:fancy), [gmf-4](../tag/gmf-4), [with:gwirth](../tag/with:gwirth)
 
 **Published in 2013** [Grassroots Mapping Forum#4.](http://publiclab.org/forum)
 

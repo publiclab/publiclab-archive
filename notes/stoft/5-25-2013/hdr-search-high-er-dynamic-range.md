@@ -1,12 +1,18 @@
 ---
-nid: 7917
 title: HDR: In search of High-er Dynamic Range
-path: public/static/notes/stoft/5-25-2013/hdr-search-high-er-dynamic-range.md
+tagnames: spectrometer, calibration, hdr, attenuation
+author: stoft
+path: /notes/stoft/5-25-2013/hdr-search-high-er-dynamic-range.md
+nid: 7917
 uid: 54025
-tagnames: spectrometer,calibration,hdr,attenuation
+
 ---
 
 # HDR: In search of High-er Dynamic Range
+
+by [stoft](../profile/stoft) May 26, 2013 00:26
+
+May 26, 2013 00:26 | Tags: [spectrometer](../tag/spectrometer), [calibration](../tag/calibration), [hdr](../tag/hdr), [attenuation](../tag/attenuation)
 
 <strong>Abstract</strong>
 

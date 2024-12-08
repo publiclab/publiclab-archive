@@ -1,6 +1,6 @@
 # fundraising
 
-13 notes and wiki pages
+13 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Fundraising](/wiki/fundraising) (wiki)
 - [Public Lab Financials](/wiki/how-we-are-funded) (wiki)

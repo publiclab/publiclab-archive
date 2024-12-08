@@ -1,6 +1,6 @@
 # prototyping
 
-16 notes and wiki pages
+16 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [DIY Kit Design Strategies for participation](/notes/liz/01-13-2015/diy-kit-design-strategies-for-participation) by [liz](../profile/liz)
 - [Silhouette Cameo desktop paper cutter for prototyping](/notes/warren/07-30-2015/silhouette-cameo-desktop-paper-cutter-for-prototyping) by [warren](../profile/warren)

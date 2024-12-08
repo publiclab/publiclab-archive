@@ -1,12 +1,18 @@
 ---
-nid: 8089
 title: Infradark
-path: public/static/notes/cfastie/06-06-2013/infradark.md
+tagnames: ndvi, infragram, night
+author: cfastie
+path: /notes/cfastie/06-06-2013/infradark.md
+nid: 8089
 uid: 554
-tagnames: ndvi,infragram,night
+
 ---
 
 # Infradark
+
+by [cfastie](../profile/cfastie) June 06, 2013 23:02
+
+June 06, 2013 23:02 | Tags: [ndvi](../tag/ndvi), [infragram](../tag/infragram), [night](../tag/night)
 
 <em>Image above: Will Ward's nighttime infrablue and normal photos.</em>
 

@@ -1,12 +1,18 @@
 ---
-nid: 11522
 title: Shallow note on depth
-path: public/static/notes/donblair/01-14-2015/shallow-note-on-depth.md
+tagnames: water-quality, coqui, depth, depth-sensor
+author: donblair
+path: /notes/donblair/01-14-2015/shallow-note-on-depth.md
+nid: 11522
 uid: 43651
-tagnames: water-quality,coqui,depth,depth-sensor
+
 ---
 
 # Shallow note on depth
+
+by [donblair](../profile/donblair) January 14, 2015 17:52
+
+January 14, 2015 17:52 | Tags: [water-quality](../tag/water-quality), [coqui](../tag/coqui), [depth](../tag/depth), [depth-sensor](../tag/depth-sensor)
 
 This is just to hold some pics for now ... more deets later!
 

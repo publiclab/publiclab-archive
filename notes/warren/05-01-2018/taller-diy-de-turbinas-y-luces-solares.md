@@ -1,12 +1,18 @@
 ---
-nid: 52
 title: Taller DIY de turbinas y luces solares
-path: public/static/notes/warren/05-01-2018/taller-diy-de-turbinas-y-luces-solares.md
-uid: 1
 tagnames: 
+author: warren
+path: /notes/warren/05-01-2018/taller-diy-de-turbinas-y-luces-solares.md
+nid: 52
+uid: 1
+
 ---
 
 # Taller DIY de turbinas y luces solares
+
+by [warren](../profile/warren) January 22, 2011 00:04
+
+January 22, 2011 00:04 | Tags: 
 
 <a href="https://www.flickr.com/photos/jeffreywarren/5382318743/" title="soldering with Morflex by jeferonix, on Flickr"><img src="http://farm6.static.flickr.com/5083/5382318743_1c89929421.jpg" width="500" height="375" alt="soldering with Morflex" /></a>
 

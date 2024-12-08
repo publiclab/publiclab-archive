@@ -1,12 +1,18 @@
 ---
-nid: 11276
 title: Public Lab receives support from Open Society Foundations to launch Data Advocacy initiative
-path: public/static/notes/Shannon/10-18-2014/public-lab-receives-support-from-open-society-foundations-to-launch-data-advocacy-initiative.md
-uid: 9
 tagnames: nonprofit
+author: Shannon
+path: /notes/Shannon/10-18-2014/public-lab-receives-support-from-open-society-foundations-to-launch-data-advocacy-initiative.md
+nid: 11276
+uid: 9
+
 ---
 
 # Public Lab receives support from Open Society Foundations to launch Data Advocacy initiative
+
+by [Shannon](../profile/Shannon) October 18, 2014 01:49
+
+October 18, 2014 01:49 | Tags: [nonprofit](../tag/nonprofit)
 
 The Public Lab nonprofit is happy to announce that the Foundation to Promote Open Society, a part of the Open Society Foundations, has awarded Public Lab a two year grant to launch the Data Advocacy initiative and assist in hiring a Data Ambassador to lead the program.
 

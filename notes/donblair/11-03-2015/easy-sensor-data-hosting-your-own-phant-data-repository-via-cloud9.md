@@ -1,12 +1,18 @@
 ---
-nid: 12357
 title: Testing a Phant Data Repository on Cloud9
-path: public/static/notes/donblair/11-03-2015/easy-sensor-data-hosting-your-own-phant-data-repository-via-cloud9.md
+tagnames: phant, data-management, cloud, cloud9, data-logging-visualization
+author: donblair
+path: /notes/donblair/11-03-2015/easy-sensor-data-hosting-your-own-phant-data-repository-via-cloud9.md
+nid: 12357
 uid: 43651
-tagnames: phant,data-management,cloud,cloud9,data-logging-visualization
+
 ---
 
 # Testing a Phant Data Repository on Cloud9
+
+by [donblair](../profile/donblair) November 03, 2015 15:58
+
+November 03, 2015 15:58 | Tags: [phant](../tag/phant), [data-management](../tag/data-management), [cloud](../tag/cloud), [cloud9](../tag/cloud9), [data-logging-visualization](../tag/data-logging-visualization)
 
 [Edit 11/8: an earlier title for this was "Your Own Data Repository on Cloud9" -- but I've since found out that Cloud9 is not set up to allow for persistent hosting.  For that, one needs to host Phant using another approach, e.g. like digitalocean.com, or Amazon EC2 (or perhaps Heroku?).  I'm exploring digitalocean.com -- will post about that soon.]
 

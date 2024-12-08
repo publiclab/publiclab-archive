@@ -1,12 +1,18 @@
 ---
-nid: 11746
 title: Celebrate 5 years with Public Lab!
-path: public/static/notes/Shannon/04-06-2015/celebrate-5-years-with-public-lab.md
-uid: 9
 tagnames: nonprofit
+author: Shannon
+path: /notes/Shannon/04-06-2015/celebrate-5-years-with-public-lab.md
+nid: 11746
+uid: 9
+
 ---
 
 # Celebrate 5 years with Public Lab!
+
+by [Shannon](../profile/Shannon) April 06, 2015 13:43
+
+April 06, 2015 13:43 | Tags: [nonprofit](../tag/nonprofit)
 
 Five years ago this month, I was working in New Orleans with the Louisiana Bucket Brigade, an organization that acts as a watchdog towards the oil and gas industry in Louisiana. April 20th of 2010 marked a turning point in my life, and the lives of many others, as we rapidly had to figure out how to address the largest oil disaster in U.S. history. The end of April 2010 also marked an opportunity for me to meet several of the other soon-to-be co-founders of Public Lab -- Jeff Warren, Stewart Long and Adam Griffith -- and launch a large-scale project to spur community engagement by mapping the oil disaster from the ground up. 
 

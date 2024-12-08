@@ -1,12 +1,18 @@
 ---
-nid: 6105
 title: Neon
-path: public/static/notes/cfastie/2-23-2013/neon.md
+tagnames: spectrometer, vermont, ebert, neon-sign, neon
+author: cfastie
+path: /notes/cfastie/2-23-2013/neon.md
+nid: 6105
 uid: 554
-tagnames: spectrometer,vermont,ebert,neon-sign,neon
+
 ---
 
 # Neon
+
+by [cfastie](../profile/cfastie) February 23, 2013 20:04
+
+February 23, 2013 20:04 | Tags: [spectrometer](../tag/spectrometer), [vermont](../tag/vermont), [ebert](../tag/ebert), [neon-sign](../tag/neon-sign), [neon](../tag/neon)
 
 <em>Image above: Detail of a neon sign of a Shindaiwa Power Broom.</em>
 

@@ -1,12 +1,18 @@
 ---
-nid: 15405
 title: When would you choose to monitor noise with an app verses a stand alone monitor? 
-path: public/static/notes/stevie/12-20-2017/when-would-you-choose-to-monitor-noise-with-an-app-verses-a-stand-alone-monitor.md
+tagnames: gulf-coast, new-orleans, answered, noise, question:general, noise-pollution, interstate, question:noise, question:noise-pollution
+author: stevie
+path: /notes/stevie/12-20-2017/when-would-you-choose-to-monitor-noise-with-an-app-verses-a-stand-alone-monitor.md
+nid: 15405
 uid: 422561
-tagnames: gulf-coast,new-orleans,answered,noise,question:general,noise-pollution,interstate,question:noise,question:noise-pollution
+
 ---
 
 # When would you choose to monitor noise with an app verses a stand alone monitor? 
+
+by [stevie](../profile/stevie) December 20, 2017 16:30
+
+December 20, 2017 16:30 | Tags: [gulf-coast](../tag/gulf-coast), [new-orleans](../tag/new-orleans), [answered](../tag/answered), [noise](../tag/noise), [question:general](../tag/question:general), [noise-pollution](../tag/noise-pollution), [interstate](../tag/interstate), [question:noise](../tag/question:noise), [question:noise-pollution](../tag/question:noise-pollution)
 
 I recently asked a question about [resources for monitoring noise pollution][1] and heard back from people about a number of [available apps][2], and a couple monitors (a [digital sound level meter][3] and the [softhook][4] Raspberry Pi sound-streaming device). I'm wondering
 

@@ -1,12 +1,18 @@
 ---
-nid: 21684
 title: Wetlands
-path: public/static/wiki/wetlands.md
+tagnames: wetlands, regulations
+author: stevie
+path: /wiki/wetlands.md
+nid: 21684
 uid: 422561
-tagnames: wetlands,regulations
+
 ---
 
 # Wetlands
+
+by [bhamster](../profile/bhamster), [joyofsoy](../profile/joyofsoy), [stevie](../profile/stevie)
+
+December 06, 2019 17:45 | Tags: [wetlands](../tag/wetlands), [regulations](../tag/regulations)
 
 Wetlands are places that are saturated with water, either salt or fresh. Wetlands include areas on the edges of larger water bodies including lakes, oceans, bayous, rivers and deltas. There are also wetlands that are independent from bodies of water, but remain saturated seasonally or year around. You can read more about wetland types from [NOAA here ](https://oceanservice.noaa.gov/facts/wetland.html) and from the [EPA here](https://www.epa.gov/wetlands/what-wetland). 
 

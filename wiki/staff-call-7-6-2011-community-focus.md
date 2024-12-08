@@ -1,12 +1,18 @@
 ---
-nid: 393
 title: Staff Call 7 6 2011: Community Focus
-path: public/static/wiki/staff-call-7-6-2011-community-focus.md
-uid: 1
 tagnames: 
+author: warren
+path: /wiki/staff-call-7-6-2011-community-focus.md
+nid: 393
+uid: 1
+
 ---
 
 # Staff Call 7 6 2011: Community Focus
+
+by [warren](../profile/warren)
+
+July 19, 2011 22:01 | Tags: 
 
 ##Community Focus:##
 

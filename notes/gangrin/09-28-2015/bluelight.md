@@ -1,12 +1,18 @@
 ---
-nid: 12247
 title: Bluelight
-path: public/static/notes/gangrin/09-28-2015/bluelight.md
+tagnames: event, event:rsvp, date:09-28-2015
+author: gangrin
+path: /notes/gangrin/09-28-2015/bluelight.md
+nid: 12247
 uid: 452627
-tagnames: event,event:rsvp,date:09-28-2015
+
 ---
 
 # Bluelight
+
+by [gangrin](../profile/gangrin) September 28, 2015 07:22
+
+September 28, 2015 07:22 | Tags: [event](../tag/event), [event:rsvp](../tag/event:rsvp), [date:09-28-2015](../tag/date:09-28-2015)
 
  I'm a high school first grade student in South Korea. Nice to meet you!^^
 Our school is prestige school. We decided to participate a dissertation contest, which is the biggest event among all another contests! Proffesors from university were jury judge and we won third prize!

@@ -1,12 +1,18 @@
 ---
-nid: 8899
 title: Spectrometer Curriculum
-path: public/static/wiki/spectrometer-curriculum.md
+tagnames: spectrometer, education, curriculum
+author: PeterDavidowicz
+path: /wiki/spectrometer-curriculum.md
+nid: 8899
 uid: 169614
-tagnames: spectrometer,education,curriculum
+
 ---
 
 # Spectrometer Curriculum
+
+by [bicwood](../profile/bicwood), [warren](../profile/warren), [DavidB](../profile/DavidB), [stoft](../profile/stoft), [PeterDavidowicz](../profile/PeterDavidowicz)
+
+July 16, 2013 22:07 | Tags: [spectrometer](../tag/spectrometer), [education](../tag/education), [curriculum](../tag/curriculum)
 
 <div class="alert">This page is still under active development and may be incomplete; please help to bring it to completion!</div>
 

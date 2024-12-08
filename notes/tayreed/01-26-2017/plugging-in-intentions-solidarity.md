@@ -1,12 +1,18 @@
 ---
-nid: 13881
 title: Plugging In! (Intentions & Solidarity)
-path: public/static/notes/tayreed/01-26-2017/plugging-in-intentions-solidarity.md
+tagnames: statistics, spatial
+author: tayreed
+path: /notes/tayreed/01-26-2017/plugging-in-intentions-solidarity.md
+nid: 13881
 uid: 502372
-tagnames: statistics,spatial
+
 ---
 
 # Plugging In! (Intentions & Solidarity)
+
+by [tayreed](../profile/tayreed) January 26, 2017 20:01
+
+January 26, 2017 20:01 | Tags: [statistics](../tag/statistics), [spatial](../tag/spatial)
 
 Hey friends,
 

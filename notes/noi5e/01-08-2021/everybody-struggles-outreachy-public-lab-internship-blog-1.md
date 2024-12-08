@@ -1,12 +1,18 @@
 ---
-nid: 25436
 title: Everybody Struggles! - [Outreachy & Public Lab Internship] Blog #2
-path: public/static/notes/noi5e/01-08-2021/everybody-struggles-outreachy-public-lab-internship-blog-1.md
+tagnames: outreachy, outreachy-2020
+author: noi5e
+path: /notes/noi5e/01-08-2021/everybody-struggles-outreachy-public-lab-internship-blog-1.md
+nid: 25436
 uid: 726270
-tagnames: outreachy,outreachy-2020
+
 ---
 
 # Everybody Struggles! - [Outreachy & Public Lab Internship] Blog #2
+
+by [noi5e](../profile/noi5e) January 08, 2021 08:49
+
+January 08, 2021 08:49 | Tags: [outreachy](../tag/outreachy), [outreachy-2020](../tag/outreachy-2020)
 
 Happy 2021! It's time for another blog as one of the [Outreachy](https://www.outreachy.org) interns here at [Public Lab](https://www.publiclab.org). Every two weeks, the Outreachy organizers suggest a new topic for our blogposts. The theme of this post is: ***GETTING STUCK***. 
 

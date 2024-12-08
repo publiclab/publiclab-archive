@@ -1,12 +1,18 @@
 ---
-nid: 11085
 title: Clips for the next spectrometer, pt 2
-path: public/static/notes/mathew/08-29-2014/clips-for-the-next-spectrometer-pt-2.md
+tagnames: spectrometer, oil-testing-kit
+author: mathew
+path: /notes/mathew/08-29-2014/clips-for-the-next-spectrometer-pt-2.md
+nid: 11085
 uid: 4
-tagnames: spectrometer,oil-testing-kit
+
 ---
 
 # Clips for the next spectrometer, pt 2
+
+by [mathew](../profile/mathew) August 29, 2014 04:36
+
+August 29, 2014 04:36 | Tags: [spectrometer](../tag/spectrometer), [oil-testing-kit](../tag/oil-testing-kit)
 
 ###What I want to do
 try out some [clips I bought](/notes/mathew/08-20-2014/clips-for-the-next-spectrometer) and figure how they fit in a [new spectrometer design](/notes/mathew/08-01-2014/hardware-design-work-for-the-oil-testing-kit).

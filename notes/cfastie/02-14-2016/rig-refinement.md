@@ -1,12 +1,18 @@
 ---
-nid: 12686
 title: Rig refinement
-path: public/static/notes/cfastie/02-14-2016/rig-refinement.md
+tagnames: balloon-mapping, kite-mapping, kite-aerial-photography, 3dprinting, kaptery, response:11726
+author: cfastie
+path: /notes/cfastie/02-14-2016/rig-refinement.md
+nid: 12686
 uid: 554
-tagnames: balloon-mapping,kite-mapping,kite-aerial-photography,3dprinting,kaptery,response:11726
+
 ---
 
 # Rig refinement
+
+by [cfastie](../profile/cfastie) February 14, 2016 16:18
+
+February 14, 2016 16:18 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [kite-aerial-photography](../tag/kite-aerial-photography), [3dprinting](../tag/3dprinting), [kaptery](../tag/kaptery), [response:11726](../tag/response:11726)
 
 *Above: Detail of the base of a camera tray displayed in the slicing program Simplify3D. I placed tiny support structures (darker orange) under the curved base to keep the strands from drooping where the angle was lowest (left panel). On the right is a display of the individual beads of plastic to be printed, including those in the support structures. Color represents the printing speed (blue is slower).*
 

@@ -1,6 +1,6 @@
 # uv
 
-38 notes and wiki pages
+38 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Front-illumination CCDs (as used in digital cameras) don't perform well in UV](/notes/warren/12-12-2010/front-illumination-ccds-used-digital-cameras-dont-perform-well-uv) by [warren](../profile/warren)
 - [Can we use back-illuminated CMOS video cameras for UV imaging?](/notes/warren/12-12-2010/can-we-use-back-illuminated-cmos-video-cameras-uv-imaging) by [warren](../profile/warren)
@@ -37,6 +37,5 @@
 - [Report: Public Lab Workshop at Sunview](/notes/Matej/02-19-2016/report-public-lab-workshop-at-sunview) by [Matej](../profile/Matej)
 - [Various CFLs with Different Spectra](/notes/Matej/02-24-2016/various-cfls-with-different-spectra) by [Matej](../profile/Matej)
 - [Is there a way to make a cheaper "UV Hound"?](/notes/liz/10-24-2019/is-there-a-way-to-make-a-cheaper-uv-hound) by [liz](../profile/liz)
-- [Rudd Plumbing, Heating and Air](/notes/ruddpros/05-20-2021/rudd-plumbing-heating-and-air) by [ruddpros](../profile/ruddpros)
 - [2.5D Multispectral (NIR and UV) Drone Photography Using AI-Assisted Ken Burns Effect](/notes/ektopyrotic/05-25-2021/2-5d-multispectral-nir-and-uv-drone-photography-using-ai-assisted-ken-burns-effect) by [ektopyrotic](../profile/ektopyrotic)
 - [Using UVC or "deep UV" light to detect lead by fluorescence](/notes/warren/03-02-2022/using-uvc-or-deep-uv-light-to-detect-lead-by-fluorescence) by [warren](../profile/warren)

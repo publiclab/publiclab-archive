@@ -1,12 +1,18 @@
 ---
-nid: 14646
 title: Adventures on the Gowanus on a July Evening
-path: public/static/notes/eustatic/07-12-2017/adventures-on-the-gowanus-on-a-july-evening.md
+tagnames: gowanus, new-york, nyc, northeast, barnstar:photo-documentation
+author: eustatic
+path: /07-12-2017/adventures-on-the-gowanus-on-a-july-evening.md
+nid: 14646
 uid: 379
-tagnames: gowanus,new-york,nyc,northeast,barnstar:photo-documentation
+
 ---
 
 # Adventures on the Gowanus on a July Evening
+
+by [eustatic](../profile/eustatic) July 12, 2017 16:59
+
+July 12, 2017 16:59 | Tags: [gowanus](../tag/gowanus), [new-york](../tag/new-york), [nyc](../tag/nyc), [northeast](../tag/northeast), [barnstar:photo-documentation](../tag/barnstar:photo-documentation)
 
 Inspired by common ancestry with  Fundulus, four of us got in the waters of the Gowanus, and saw what was brewing in everyone's favorite superfund weltand basin. 
 

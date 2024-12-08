@@ -1,12 +1,18 @@
 ---
-nid: 89
 title: T-shirt Guide
-path: public/static/wiki/t-shirt-guide.md
+tagnames: guides, illustrated-guides
+author: warren
+path: /wiki/t-shirt-guide.md
+nid: 89
 uid: 1
-tagnames: guides,illustrated-guides
+
 ---
 
 # T-shirt Guide
+
+by [warren](../profile/warren)
+
+February 19, 2011 17:54 | Tags: [guides](../tag/guides), [illustrated-guides](../tag/illustrated-guides)
 
 We've been talking about using a t-shirt as a means to disseminate instructional diagrams of DIY citizen science tools related to our new initiative PublicLaboratory.org. 
 

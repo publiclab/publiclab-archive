@@ -1,12 +1,18 @@
 ---
-nid: 4291
 title: Carbon Arc
-path: public/static/notes/bwilliams/10-9-2012/carbon-arc.md
+tagnames: spectrometer, spectrometry, emission-spectroscopy, carbon-arc
+author: B.Williams
+path: /notes/bwilliams/10-9-2012/carbon-arc.md
+nid: 4291
 uid: 42631
-tagnames: spectrometer,spectrometry,emission-spectroscopy,carbon-arc
+
 ---
 
 # Carbon Arc
+
+by [B.Williams](../profile/B.Williams) October 09, 2012 23:00
+
+October 09, 2012 23:00 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [emission-spectroscopy](../tag/emission-spectroscopy), [carbon-arc](../tag/carbon-arc)
 
 I have been working a small project to allow more energetic reactions than a Propane torch. The concept here is to utilize a Carbon Arc to to achieve this.
 At present this would be a Lab base device, but could be amended for field work.

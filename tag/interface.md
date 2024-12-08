@@ -1,6 +1,6 @@
 # interface
 
-5 notes and wiki pages
+5 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Mapknitter 2.0](/notes/xvidun/03-12-2014/mapknitter-2-0) by [xvidun](../profile/xvidun)
 - [Datalogging, Part 3: GUI software for handling files](/notes/JSummers/05-19-2015/datalogging-part-3-gui-software-for-handling-files) by [JSummers](../profile/JSummers)

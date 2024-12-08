@@ -1,12 +1,18 @@
 ---
-nid: 28221
 title: MapKnitter map of Wyldcity
-path: public/static/notes/joeoilrigs/11-22-2021/mapknitter-map-of-wyldcity.md
+tagnames: mapknitter, first-time-poster
+author: joeoilrigs
+path: /notes/joeoilrigs/11-22-2021/mapknitter-map-of-wyldcity.md
+nid: 28221
 uid: 779414
-tagnames: mapknitter,first-time-poster
+
 ---
 
 # MapKnitter map of Wyldcity
+
+by [joeoilrigs](../profile/joeoilrigs) November 22, 2021 18:05
+
+November 22, 2021 18:05 | Tags: [mapknitter](../tag/mapknitter), [first-time-poster](../tag/first-time-poster)
 
 <iframe src="https://mapknitter.org/embed/wyldcity" style="border:none" width="100%" height="400px"></iframe>  
   

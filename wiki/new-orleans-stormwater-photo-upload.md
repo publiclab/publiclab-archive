@@ -1,12 +1,18 @@
 ---
-nid: 14918
 title: New Orleans Stormwater Photo Upload
-path: public/static/wiki/new-orleans-stormwater-photo-upload.md
+tagnames: stormwater, parent:new-orleans-stormwater-project-data
+author: warren
+path: /wiki/new-orleans-stormwater-photo-upload.md
+nid: 14918
 uid: 1
-tagnames: stormwater,parent:new-orleans-stormwater-project-data
+
 ---
 
 # New Orleans Stormwater Photo Upload
+
+by [warren](../profile/warren)
+
+September 20, 2017 15:16 | Tags: [stormwater](../tag/stormwater), [parent:new-orleans-stormwater-project-data](../tag/parent:new-orleans-stormwater-project-data)
 
 This is a mini-guide to uploading photos for the [New Orleans Stormwater Project](/wiki/stormwater).
 

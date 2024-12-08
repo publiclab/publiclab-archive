@@ -1,12 +1,18 @@
 ---
-nid: 13304
 title: Solux 4700K Lamp Set Up
-path: public/static/wiki/solux-4700k-lamp-set-up.md
-uid: 461120
 tagnames: 
+author: dhaffnersr
+path: /wiki/solux-4700k-lamp-set-up.md
+nid: 13304
+uid: 461120
+
 ---
 
 # Solux 4700K Lamp Set Up
+
+by [dhaffnersr](../profile/dhaffnersr)
+
+July 22, 2016 12:38 | Tags: 
 
 **This is how I presently have my spectrometer set up for absorption spectra testing, yeah, it doesn't look very sophisticated but it works very well!**
 

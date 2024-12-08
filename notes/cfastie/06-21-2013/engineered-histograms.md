@@ -1,12 +1,18 @@
 ---
-nid: 8358
 title: Engineered Histograms
-path: public/static/notes/cfastie/06-21-2013/engineered-histograms.md
+tagnames: near-infrared-camera, ndvi, infrared, infragram, infrablue, response:8190, tests, response:8261, response:8353
+author: cfastie
+path: /notes/cfastie/06-21-2013/engineered-histograms.md
+nid: 8358
 uid: 554
-tagnames: near-infrared-camera,ndvi,infrared,infragram,infrablue,response:8190,tests,response:8261,response:8353
+
 ---
 
 # Engineered Histograms
+
+by [cfastie](../profile/cfastie) June 21, 2013 22:04
+
+June 21, 2013 22:04 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [infrared](../tag/infrared), [infragram](../tag/infragram), [infrablue](../tag/infrablue), [response:8190](../tag/response:8190), [tests](../tag/tests), [response:8261](../tag/response:8261), [response:8353](../tag/response:8353)
 
 <em>Image above: An infrablue photo from a little camera Jeff converted. The histograms of a bright area of tree foliage show that the red and blue channels are very similar, probably because they are recording lots of infrared light.</em>
 

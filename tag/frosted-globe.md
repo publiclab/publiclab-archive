@@ -1,6 +1,6 @@
 # frosted-globe
 
-5 notes and wiki pages
+5 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Infrared behavior of A810](/notes/cfastie/09-11-2013/infrared-behavior-of-a810) by [cfastie](../profile/cfastie)
 - [Moar NIR tracking](/notes/cfastie/09-12-2013/moar-nir-tracking) by [cfastie](../profile/cfastie)

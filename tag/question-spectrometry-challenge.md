@@ -1,6 +1,6 @@
 # question-spectrometry-challenge
 
-13 notes and wiki pages
+13 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Getting the spectrometer to work with a Raspberry Pi?](/notes/anjohn12/04-14-2016/question-getting-the-spectrometer-to-work-with-a-raspberry-pi) by [anjohn12](../profile/anjohn12)
 - [Question: Can DIY-spectrometer be used for analysis of soil](/notes/interestedperson_ha/06-27-2016/question-can-diy-spectrometer-be-used-for-analysis-of-soil) by [interestedperson_ha](../profile/interestedperson_ha)
@@ -13,5 +13,4 @@
 - [Can a DIY spectrometer be used to measure water turbidity?](/notes/warren/12-18-2017/can-a-diy-spectrometer-be-used-to-measure-water-turbidity) by [warren](../profile/warren)
 - [How can we detect contaminants in water samples with a DIY spectrometer using reagents?](/notes/warren/12-18-2017/how-do-i) by [warren](../profile/warren)
 - [Can the spectrometer or turbocharger be used for lal testing?](/notes/Ag8n/04-02-2018/can-the-spectrometer-or-turbocharger-be-used-for-lal-testing) by [Ag8n](../profile/Ag8n)
-- [how to get rid of hair fall](/notes/ghdv1234/01-03-2019/how-to-get-rid-of-hair-fall) by [ghdv1234](../profile/ghdv1234)
 - [How do I...](/notes/akhila/12-15-2020/how-do-i) by [akhila](../profile/akhila)

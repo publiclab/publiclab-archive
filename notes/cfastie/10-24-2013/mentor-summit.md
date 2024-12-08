@@ -1,12 +1,18 @@
 ---
-nid: 9542
 title: Mentor Summit
-path: public/static/notes/cfastie/10-24-2013/mentor-summit.md
+tagnames: near-infrared-camera, ndvi, infragram, gsoc, google, google-summer-of-code, gsoc2013, blog, infrablue, response:9540, mentorsummit, mentorsummit13
+author: cfastie
+path: /notes/cfastie/10-24-2013/mentor-summit.md
+nid: 9542
 uid: 554
-tagnames: near-infrared-camera,ndvi,infragram,gsoc,google,google-summer-of-code,gsoc2013,blog,infrablue,response:9540,mentorsummit,mentorsummit13
+
 ---
 
 # Mentor Summit
+
+by [cfastie](../profile/cfastie) October 24, 2013 04:38
+
+October 24, 2013 04:38 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [infragram](../tag/infragram), [gsoc](../tag/gsoc), [google](../tag/google), [google-summer-of-code](../tag/google-summer-of-code), [gsoc2013](../tag/gsoc2013), [blog](../tag/blog), [infrablue](../tag/infrablue), [response:9540](../tag/response:9540), [mentorsummit](../tag/mentorsummit), [mentorsummit13](../tag/mentorsummit13)
 
 *Image above: A group photo of 230+ of the mentors at the Google Summer of Code Mentor Summit in Building 43 at the GooglePlex. Three photos by Daniel Pocock (Daniel's originals are beautiful 36 MP photos).*  
 

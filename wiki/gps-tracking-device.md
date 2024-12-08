@@ -1,12 +1,18 @@
 ---
-nid: 11171
 title: GPS tracking device
-path: public/static/wiki/gps-tracking-device.md
+tagnames: gps, umass-amherst, amherst-media, 5-college, publiclab-at-amherst-media, publiclab-at-umass, makers-and-amherst-media
+author: najwa
+path: /wiki/gps-tracking-device.md
+nid: 11171
 uid: 428842
-tagnames: gps,umass-amherst,amherst-media,5-college,publiclab-at-amherst-media,publiclab-at-umass,makers-and-amherst-media
+
 ---
 
 # GPS tracking device
+
+by [najwa](../profile/najwa)
+
+September 23, 2014 01:28 | Tags: [gps](../tag/gps), [umass-amherst](../tag/umass-amherst), [amherst-media](../tag/amherst-media), [5-college](../tag/5-college), [publiclab-at-amherst-media](../tag/publiclab-at-amherst-media), [publiclab-at-umass](../tag/publiclab-at-umass), [makers-and-amherst-media](../tag/makers-and-amherst-media)
 
   
      I am one of the students of the Public Laboratory for Science class at Umass Amherst in collaboration with the five colleges. The project that I am working on is  a GPS device set on an animal collar using cheap technology and open source software to track animals. It should be capable of being used whether for tracking domestic animals ( dogs) or wild animals. 

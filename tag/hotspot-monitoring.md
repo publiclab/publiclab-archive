@@ -1,6 +1,6 @@
 # hotspot-monitoring
 
-3 notes and wiki pages
+3 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Mapping dust hotspots with low-cost monitors](/notes/mathew/04-06-2016/mapping-dust-hotspots-with-low-cost-monitors) by [mathew](../profile/mathew)
 - [Frac sand hotspot testing and site survey](/notes/stevie/03-21-2017/frac-sand-hotspot-testing-and-site-survey) by [stevie](../profile/stevie)

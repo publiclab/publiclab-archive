@@ -1,12 +1,18 @@
 ---
-nid: 12732
 title: Sensor Journalism Reflection
-path: public/static/notes/Jimmymcinnis/02-24-2016/sensor-journalism-reflection.md
+tagnames: sensor-journalism, response:12748, hidden:response
+author: Jimmymcinnis
+path: /notes/Jimmymcinnis/02-24-2016/sensor-journalism-reflection.md
+nid: 12732
 uid: 461514
-tagnames: sensor-journalism,response:12748,hidden:response
+
 ---
 
 # Sensor Journalism Reflection
+
+by [Jimmymcinnis](../profile/Jimmymcinnis) February 24, 2016 06:04
+
+February 24, 2016 06:04 | Tags: [sensor-journalism](../tag/sensor-journalism), [response:12748](../tag/response:12748), [hidden:response](../tag/hidden:response)
 
 Sensor Journalism is a growing sect of journalism that is creating a lot of buzz for both good and bad reasons. On one hand, it may hold the key to a more modern reporting, one where we rely heavily on data to find information as well as stories. On the other hand, it has proven to yield questionable results and often has issues with how it can present information. To clarify, Sensor journalism is a method of generating or collecting data from sensors, and then using that data to tell a story. As opposed to data-driven journalism, which requires finding datasets to report on, sensor journalism has the journalist collect the data his or herself. This allows for many new opportunities and possibilities in journalism, but also many drawbacks.
 

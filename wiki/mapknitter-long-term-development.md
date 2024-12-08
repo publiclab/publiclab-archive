@@ -1,12 +1,18 @@
 ---
-nid: 11164
 title: MapKnitter Long-Term Development
-path: public/static/wiki/mapknitter-long-term-development.md
+tagnames: mapknitter, developers, coding, mapknitter-development, parent:mapknitter
+author: justinmanley
+path: /wiki/mapknitter-long-term-development.md
+nid: 11164
 uid: 421556
-tagnames: mapknitter,developers,coding,mapknitter-development,parent:mapknitter
+
 ---
 
 # MapKnitter Long-Term Development
+
+by [justinmanley](../profile/justinmanley)
+
+September 19, 2014 19:31 | Tags: [mapknitter](../tag/mapknitter), [developers](../tag/developers), [coding](../tag/coding), [mapknitter-development](../tag/mapknitter-development), [parent:mapknitter](../tag/parent:mapknitter)
 
 ## Goals ###
 

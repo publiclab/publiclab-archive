@@ -1,6 +1,6 @@
 # gaimec
 
-9 notes and wiki pages
+9 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Convocatoria GAIMeC](/notes/imvec/01-19-2018/convocatoria-gaimec) by [imvec](../profile/imvec)
 - [Registro de olores](/notes/imvec/02-04-2018/registro-de-olores) by [imvec](../profile/imvec)

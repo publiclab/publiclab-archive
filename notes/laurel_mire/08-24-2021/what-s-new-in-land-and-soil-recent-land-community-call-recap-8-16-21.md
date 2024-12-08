@@ -1,12 +1,18 @@
 ---
-nid: 27618
 title: What’s New in Land and Soil! Recent Land Community Call Recap (8/16/21)
-path: public/static/notes/laurel_mire/08-24-2021/what-s-new-in-land-and-soil-recent-land-community-call-recap-8-16-21.md
+tagnames: soil, land-use, fellows, land, land-change, research-curation-fellows
+author: laurel_mire
+path: /notes/laurel_mire/08-24-2021/what-s-new-in-land-and-soil-recent-land-community-call-recap-8-16-21.md
+nid: 27618
 uid: 759178
-tagnames: soil,land-use,fellows,land,land-change,research-curation-fellows
+
 ---
 
 # What’s New in Land and Soil! Recent Land Community Call Recap (8/16/21)
+
+by [laurel_mire](../profile/laurel_mire) August 24, 2021 18:13
+
+August 24, 2021 18:13 | Tags: [soil](../tag/soil), [land-use](../tag/land-use), [fellows](../tag/fellows), [land](../tag/land), [land-change](../tag/land-change), [research-curation-fellows](../tag/research-curation-fellows)
 
 A new face! Back in June, the land and soil topic got a new research curation fellow--[me](https://publiclab.org/notes/laurel_mire/06-13-2021/hi-there-my-name-is-laurel-and-i-m-the-new-land-research-curation-fellow)! Please feel free to reach out/let me know if there's anything I can help you out with--I'd love to chat!
 

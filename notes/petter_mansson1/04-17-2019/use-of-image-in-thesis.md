@@ -1,12 +1,18 @@
 ---
-nid: 19084
 title: Use of image in thesis
-path: public/static/notes/petter_mansson1/04-17-2019/use-of-image-in-thesis.md
+tagnames: infragram-point-shoot, question:infragram-point-shoot
+author: petter_mansson1
+path: /notes/petter_mansson1/04-17-2019/use-of-image-in-thesis.md
+nid: 19084
 uid: 573015
-tagnames: infragram-point-shoot,question:infragram-point-shoot
+
 ---
 
 # Use of image in thesis
+
+by [petter_mansson1](../profile/petter_mansson1) April 17, 2019 14:44
+
+April 17, 2019 14:44 | Tags: [infragram-point-shoot](../tag/infragram-point-shoot), [question:infragram-point-shoot](../tag/question:infragram-point-shoot)
 
 Hello,   
 

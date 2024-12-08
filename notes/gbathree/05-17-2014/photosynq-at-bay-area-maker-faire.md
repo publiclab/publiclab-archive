@@ -1,12 +1,18 @@
 ---
-nid: 10475
 title: PhotosynQ at Bay Area Maker Faire
-path: public/static/notes/gbathree/05-17-2014/photosynq-at-bay-area-maker-faire.md
+tagnames: california, science, health, photosynq, plant, makerfaire, maker, faire, make
+author: gbathree
+path: /notes/gbathree/05-17-2014/photosynq-at-bay-area-maker-faire.md
+nid: 10475
 uid: 53164
-tagnames: california,science,health,photosynq,plant,makerfaire,maker,faire,make
+
 ---
 
 # PhotosynQ at Bay Area Maker Faire
+
+by [gbathree](../profile/gbathree) May 17, 2014 05:40
+
+May 17, 2014 05:40 | Tags: [california](../tag/california), [science](../tag/science), [health](../tag/health), [photosynq](../tag/photosynq), [plant](../tag/plant), [makerfaire](../tag/makerfaire), [maker](../tag/maker), [faire](../tag/faire), [make](../tag/make)
 
 Hey Publiclab folks, just wanted to let people know that PhotosynQ, the plant health measurement project, is at the Bay Area Maker Faire and we're running an experiment at the Faire.  We're letting participants take a MultispeQ device and measure plants on the event center grounds to measure photosynthetic efficiency, and get some real world testing of the MultispeQ.  
 

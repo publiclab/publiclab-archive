@@ -1,12 +1,18 @@
 ---
-nid: 3010
 title: Fuzzy Tail for Kites
-path: public/static/wiki/fuzzy-tail-kites.md
+tagnames: kite-aerial-photography, diy-kite, parent:kite-mapping
+author: MicheleTobias
+path: /wiki/fuzzy-tail-kites.md
+nid: 3010
 uid: 149
-tagnames: kite-aerial-photography,diy-kite,parent:kite-mapping
+
 ---
 
 # Fuzzy Tail for Kites
+
+by [mathew](../profile/mathew), [MicheleTobias](../profile/MicheleTobias)
+
+July 29, 2012 03:37 | Tags: [kite-aerial-photography](../tag/kite-aerial-photography), [diy-kite](../tag/diy-kite), [parent:kite-mapping](../tag/parent:kite-mapping)
 
 <a href="https://www.flickr.com/photos/51797249@N05/7666082796/" title="FuzzyTail_Kite by ClammyStewart, on Flickr"><img src="https://farm8.staticflickr.com/7246/7666082796_0cfcd5baf5.jpg" width="500" height="387" alt="FuzzyTail_Kite"></a>
 

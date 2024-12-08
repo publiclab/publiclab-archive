@@ -1,12 +1,18 @@
 ---
-nid: 449
 title: Place template
-path: public/static/wiki/place-template.md
-uid: 1
 tagnames: 
+author: warren
+path: /wiki/place-template.md
+nid: 449
+uid: 1
+
 ---
 
 # Place template
+
+by [warren](../profile/warren)
+
+August 31, 2011 23:43 | Tags: 
 
 When we launch a new Place page on the Public Laboratory site, we like to start with some basic contextual information. Use the following as a starting point but don't be afraid to improve this template, as it's just a starting point:
 

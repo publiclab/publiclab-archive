@@ -1,12 +1,18 @@
 ---
-nid: 10229
 title: gardening-toolkit
-path: public/static/wiki/gardening-toolkit.md
+tagnames: polemapping, urban-ag, infragram, garden, pole-photography, pole-mapping, tool, elp, gardening-toolkit, method, activity:teach-and-learn, workshop-series, activity:workshop-series
+author: liz
+path: /wiki/gardening-toolkit.md
+nid: 10229
 uid: 7
-tagnames: polemapping,urban-ag,infragram,garden,pole-photography,pole-mapping,tool,elp,gardening-toolkit,method,activity:teach-and-learn,workshop-series,activity:workshop-series
+
 ---
 
 # gardening-toolkit
+
+by [warren](../profile/warren), [jbest](../profile/jbest), [trizcs](../profile/trizcs), [liz](../profile/liz)
+
+March 27, 2014 00:56 | Tags: [polemapping](../tag/polemapping), [urban-ag](../tag/urban-ag), [infragram](../tag/infragram), [garden](../tag/garden), [pole-photography](../tag/pole-photography), [pole-mapping](../tag/pole-mapping), [tool](../tag/tool), [elp](../tag/elp), [gardening-toolkit](../tag/gardening-toolkit), [method](../tag/method), [activity:teach-and-learn](../tag/activity:teach-and-learn), [workshop-series](../tag/workshop-series), [activity:workshop-series](../tag/activity:workshop-series)
 
 **Simple, appropriate technologies for great garden outcomes**
 

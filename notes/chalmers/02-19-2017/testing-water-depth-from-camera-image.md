@@ -1,12 +1,18 @@
 ---
-nid: 13942
 title: Testing - water depth from camera image
-path: public/static/notes/chalmers/02-19-2017/testing-water-depth-from-camera-image.md
+tagnames: stormwater, seeks:replications, activity:timelapse, activity:stormwater, activity:site-survey
+author: chalmers
+path: /notes/chalmers/02-19-2017/testing-water-depth-from-camera-image.md
+nid: 13942
 uid: 503143
-tagnames: stormwater,seeks:replications,activity:timelapse,activity:stormwater,activity:site-survey
+
 ---
 
 # Testing - water depth from camera image
+
+by [chalmers](../profile/chalmers) February 19, 2017 18:42
+
+February 19, 2017 18:42 | Tags: [stormwater](../tag/stormwater), [seeks:replications](../tag/seeks:replications), [activity:timelapse](../tag/activity:timelapse), [activity:stormwater](../tag/activity:stormwater), [activity:site-survey](../tag/activity:site-survey)
 
 Introduction summary:
 

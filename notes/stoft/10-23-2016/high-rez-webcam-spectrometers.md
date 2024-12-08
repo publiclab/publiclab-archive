@@ -1,12 +1,18 @@
 ---
-nid: 13641
 title: High-Rez WebCam Spectrometers
-path: public/static/notes/stoft/10-23-2016/high-rez-webcam-spectrometers.md
+tagnames: spectrometer, spectrometry, desktop-spectrometer, diy-spectrometer, resolution
+author: stoft
+path: /notes/stoft/10-23-2016/high-rez-webcam-spectrometers.md
+nid: 13641
 uid: 54025
-tagnames: spectrometer,spectrometry,desktop-spectrometer,diy-spectrometer,resolution
+
 ---
 
 # High-Rez WebCam Spectrometers
+
+by [stoft](../profile/stoft) October 23, 2016 07:16
+
+October 23, 2016 07:16 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [desktop-spectrometer](../tag/desktop-spectrometer), [diy-spectrometer](../tag/diy-spectrometer), [resolution](../tag/resolution)
 
 **Abstract**
 

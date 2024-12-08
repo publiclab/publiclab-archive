@@ -1,12 +1,18 @@
 ---
-nid: 10466
 title: barnraising-northeast-2014
-path: public/static/wiki/barnraising-northeast-2014.md
+tagnames: barnraising, event, massachusetts, plymouth, tidmarsh, list:plots-barnraising, northeast, jones-river, parent:barnraising
+author: liz
+path: /wiki/barnraising-northeast-2014.md
+nid: 10466
 uid: 7
-tagnames: barnraising,event,massachusetts,plymouth,tidmarsh,list:plots-barnraising,northeast,jones-river,parent:barnraising
+
 ---
 
 # barnraising-northeast-2014
+
+by [Hudonnoodles](../profile/Hudonnoodles), [Shannon](../profile/Shannon), [kgradow1](../profile/kgradow1), [liz](../profile/liz), [warren](../profile/warren)
+
+May 12, 2014 22:14 | Tags: [barnraising](../tag/barnraising), [event](../tag/event), [massachusetts](../tag/massachusetts), [plymouth](../tag/plymouth), [tidmarsh](../tag/tidmarsh), [list:plots-barnraising](../tag/list:plots-barnraising), [northeast](../tag/northeast), [jones-river](../tag/jones-river), [parent:barnraising](../tag/parent:barnraising)
 
 [![coverimage-banner-01.png](https://i.publiclab.org/system/images/photos/000/004/258/medium/coverimage-banner-01.png)](https://i.publiclab.org/system/images/photos/000/004/258/original/coverimage-banner-01.png)
 

@@ -1,6 +1,6 @@
 # activity-riffle
 
-10 notes and wiki pages
+10 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Riffle test 1](/notes/cfastie/05-18-2016/riffle-test-1) by [cfastie](../profile/cfastie)
 - [Riffle campout](/notes/cfastie/05-27-2016/riffle-campout) by [cfastie](../profile/cfastie)

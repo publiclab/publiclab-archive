@@ -1,12 +1,18 @@
 ---
-nid: 12651
 title: passive-pm-analysis
-path: public/static/wiki/passive-pm-analysis.md
-uid: 4
 tagnames: parent:passive-pm
+author: mathew
+path: /wiki/passive-pm-analysis.md
+nid: 12651
+uid: 4
+
 ---
 
 # passive-pm-analysis
+
+by [stevie](../profile/stevie), [mathew](../profile/mathew)
+
+February 03, 2016 23:48 | Tags: [parent:passive-pm](../tag/parent:passive-pm)
 
 ###Analysis Prep
 In analyzing passive particle monitors, we’ll collect a glass slide cover with a 6mm circle of dust that has settled over 1-10 days in a [passive particle monitor](http://publiclab.org/notes/mathew/09-02-2015/replicating-a-passive-dust-monitor-method) we've [imaged](http://publiclab.org/notes/mathew/09-03-2015/optical-imaging-of-passive-particle-monitors).

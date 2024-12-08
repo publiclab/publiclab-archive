@@ -1,6 +1,6 @@
 # infrared
 
-189 notes and wiki pages
+189 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Experiments with kites, balloons, and infrared photography at FabLab Lima](/notes/warren/05-01-2018/experiments-with-kites-balloons-and-infrared-photography-at-fablab-lima) by [warren](../profile/warren)
 - [Live video NDVI with infrared-visible-video-kit](/notes/warren/3-4-2011/live-video-ndvi-infrared-visible-video-kit) by [warren](../profile/warren)
@@ -165,17 +165,14 @@
 - [Should I use two sheets of filter?](/notes/kauemv2/05-16-2019/should-i-use-two-sheets-of-filter) by [kauemv2](../profile/kauemv2)
 - [How do I take root and hypocotyl pictures for plant without light influence](/notes/Xing/08-20-2019/how-do-i-take-root-and-hypocotyl-pictures-for-plant-without-light-influence) by [Xing](../profile/Xing)
 - [How to design a camera for calculating ENDVI.](/notes/nickyshen0306/09-12-2019/how-to-design-a-camera-for-calculating-endvi) by [nickyshen0306](../profile/nickyshen0306)
-- [What kind of thermal cameras would be worth it for you?](/notes/perfectprime/10-17-2019/what-kind-of-thermal-cameras-would-be-worth-it-for-you) by [perfectprime](../profile/perfectprime)
 - [Feasibility-check: NDVI analysis of moss](/notes/zomb23/11-15-2019/feasibility-check-ndvi-analysis-of-moss) by [zomb23](../profile/zomb23)
 - [Which No IR 12mm lens should I get for 640x480 webcam?](/notes/jevs/11-16-2019/which-no-ir-12mm-lens-should-i-get-for-640x480-webcam) by [jevs](../profile/jevs)
 - [How can I process the images taken from modified camera?](/notes/ThomasTaufan/11-26-2019/how-can-i-process-the-images-taken-from-modified-camera) by [ThomasTaufan](../profile/ThomasTaufan)
 - [How can I make IR photos derived from various cutoff useful for creating NDVI (normalized difference vegetation index) images?](/notes/lev29/01-15-2020/can-certain-types-of-ir-photos-i-could-submit-be-useful-or-convertible-to-infrablue-images) by [lev29](../profile/lev29)
-- [Letasoft Sound Booster 1.11 Crack](/notes/Keyactivator/01-25-2020/letasoft-sound-booster-1-11-crack) by [Keyactivator](../profile/Keyactivator)
 - [Can I use the infragram.org for my thesis? Thanks!](/notes/tooooopher05/02-22-2020/can-i-use-the-infragram-org-for-my-thesis-thanks) by [tooooopher05](../profile/tooooopher05)
 - [Is there a way to convert an infrared video footage to NDVI?](/notes/sam14/04-30-2020/is-there-a-way-to-convert-an-infrared-video-footage-to-ndvi) by [sam14](../profile/sam14)
 - [Can I use a clear case with the Infragram pi camera?](/notes/mimiss/05-08-2020/can-i-use-a-clear-case-with-the-infragram-pi-camera) by [mimiss](../profile/mimiss)
 - [Use 3-D glasses to modify a camera for infrared](/notes/umberto_rootman/05-17-2020/cheap-sports-cam-mod) by [umberto_rootman](../profile/umberto_rootman)
-- [Sports cam filter mod](/notes/umberto_rootman/05-17-2020/sports-cam-filter-mod) by [umberto_rootman](../profile/umberto_rootman)
 - [How should I modify Infragram NDVI settings for Raspberry Pi Noir orbital photos?](/notes/brendan_stanford/05-20-2020/how-should-i-modify-infragram-ndvi-settings-for-raspberry-pi-noir-orbital-photos) by [brendan_stanford](../profile/brendan_stanford)
 - [Does anyone know the upper spectrum range of the Pi NoIR Camera V2?](/notes/justin_bauer/06-02-2020/does-anyone-know-the-upper-spectrum-range-of-the-pi-noir-camera-v2) by [justin_bauer](../profile/justin_bauer)
 - [NDVI Drone Mapping Research](/notes/ektopyrotic/06-04-2020/ndvi-drone-mapping-research) by [ektopyrotic](../profile/ektopyrotic)
@@ -187,7 +184,6 @@
 - [Why the color of Infragram picture is different from what I take with my Raspberry Pi using Picamera API](/notes/iman/03-30-2021/why-the-color-of-infragram-picture-is-different-from-what-i-take-with-my-raspberry-pi-using-picamera-api) by [iman](../profile/iman)
 - [Can NOIR camera distinguise different types of leaf?](/notes/shahdharam7/12-17-2021/can-noir-camera-distinguise-different-types-of-leaf) by [shahdharam7](../profile/shahdharam7)
 - [Why Red filter results are blurry compared to Blue filters?](/notes/shahdharam7/12-17-2021/why-red-filter-results-are-blurry-compared-to-blue-filters) by [shahdharam7](../profile/shahdharam7)
-- [How to find best events Catering Services in Calgary?](/notes/vivek_genuvenue1220/01-03-2022/how-to-find-best-events-catering-services-in-calgary) by [vivek_genuvenue1220](../profile/vivek_genuvenue1220)
 - [Drone Archaeology | Tomb Hunting Using NDVI, NIR Threshold with Bitwise NOT in Python](/notes/ektopyrotic/01-03-2022/drone-archaeology-tomb-hunting-using-ndvi-nir-threshold-with-bitwise-not-in-python) by [ektopyrotic](../profile/ektopyrotic)
 - [Run infragram offiline (whitout online analysis)](/notes/elucasfreitas/06-19-2022/run-infragram-offiline-whitout-online-analysis) by [elucasfreitas](../profile/elucasfreitas)
 - [Infrared camera](/notes/eduardo_gamosa/10-10-2022/infrared-camera) by [eduardo_gamosa](../profile/eduardo_gamosa)

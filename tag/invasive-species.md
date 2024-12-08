@@ -1,6 +1,6 @@
 # invasive-species
 
-12 notes and wiki pages
+12 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [WATERCHESTNUT Big Picture](/notes/cfastie/07-23-2013/waterchestnut-big-picture) by [cfastie](../profile/cfastie)
 - [Water chestnut NRG](/notes/cfastie/07-29-2013/waterchestnut-nrg) by [cfastie](../profile/cfastie)

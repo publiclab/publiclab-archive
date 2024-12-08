@@ -1,6 +1,6 @@
 # event-how-to
 
-4 notes and wiki pages
+4 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Developing and Running a Public Lab Workshop](/wiki/developing-and-running-public-lab-workshop) (wiki)
 - [Host an event](/wiki/host-an-event) (wiki)

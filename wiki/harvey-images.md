@@ -1,12 +1,18 @@
 ---
-nid: 14900
 title: Harvey Images
-path: public/static/wiki/harvey-images.md
+tagnames: oil-spill, aerial-photography, oil, epa, waste, toxic-waste, aerial-mapping, nuclear, hurricane, flood, hazards, flood-mapping, harvey, harvey-response, harvey-needs, parent:harvey
+author: warren
+path: /wiki/harvey-images.md
+nid: 14900
 uid: 1
-tagnames: oil-spill,aerial-photography,oil,epa,waste,toxic-waste,aerial-mapping,nuclear,hurricane,flood,hazards,flood-mapping,harvey,harvey-response,harvey-needs,parent:harvey
+
 ---
 
 # Harvey Images
+
+by [warren](../profile/warren), [zengirl2](../profile/zengirl2)
+
+September 16, 2017 14:13 | Tags: [oil-spill](../tag/oil-spill), [aerial-photography](../tag/aerial-photography), [oil](../tag/oil), [epa](../tag/epa), [waste](../tag/waste), [toxic-waste](../tag/toxic-waste), [aerial-mapping](../tag/aerial-mapping), [nuclear](../tag/nuclear), [hurricane](../tag/hurricane), [flood](../tag/flood), [hazards](../tag/hazards), [flood-mapping](../tag/flood-mapping), [harvey](../tag/harvey), [harvey-response](../tag/harvey-response), [harvey-needs](../tag/harvey-needs), [parent:harvey](../tag/parent:harvey)
 
 This draft page is attempting to create a workflow for people to identify reportable issues captured in aerial photography of Harvey-affected areas, specifically industrial sites. 
 

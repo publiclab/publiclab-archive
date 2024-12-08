@@ -1,12 +1,18 @@
 ---
-nid: 26224
 title: GsOc Proposal 2021: Filter out spam from comment.
-path: public/static/wiki/gsoc-proposal-2021-filter-out-spam-from-comment.md
+tagnames: gsoc, soc, location:blurred, lat:28, lon:77, place:india, zoom:6, gsoc-2021-proposals
+author: lukoyedith
+path: /wiki/gsoc-proposal-2021-filter-out-spam-from-comment.md
+nid: 26224
 uid: 751723
-tagnames: gsoc,soc,location:blurred,lat:28,lon:77,place:india,zoom:6,gsoc-2021-proposals
+
 ---
 
 # GsOc Proposal 2021: Filter out spam from comment.
+
+by [lukoyedith](../profile/lukoyedith)
+
+April 13, 2021 17:48 | Tags: [gsoc](../tag/gsoc), [soc](../tag/soc), [location:blurred](../tag/location:blurred), [lat:28](../tag/lat:28), [lon:77](../tag/lon:77), [place:india](../tag/place:india), [zoom:6](../tag/zoom:6), [gsoc-2021-proposals](../tag/gsoc-2021-proposals)
 
 **About Me **
 Name: Emogene Lukoye

@@ -1,12 +1,18 @@
 ---
-nid: 12649
 title: passive-pm-imaging
-path: public/static/wiki/passive-pm-imaging.md
-uid: 4
 tagnames: parent:passive-pm
+author: mathew
+path: /wiki/passive-pm-imaging.md
+nid: 12649
+uid: 4
+
 ---
 
 # passive-pm-imaging
+
+by [stevie](../profile/stevie), [mathew](../profile/mathew)
+
+February 03, 2016 23:22 | Tags: [parent:passive-pm](../tag/parent:passive-pm)
 
 This is an attempt to document the steps in a method of imaging for the passive monitor [you can make with instructions here](/notes/mathew/09-02-2015/replicating-a-passive-dust-monitor-method), as written in:  
 

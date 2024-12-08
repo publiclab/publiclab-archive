@@ -1,12 +1,18 @@
 ---
-nid: 16448
 title: Make an accurate soda bottle rain gauge 
-path: public/static/notes/stevie/06-07-2018/accurate-soda-bottle-rain-gauge.md
+tagnames: stormwater, activity:stormwater, raingauge, rain, activity:raingauge
+author: stevie
+path: /notes/stevie/06-07-2018/accurate-soda-bottle-rain-gauge.md
+nid: 16448
 uid: 422561
-tagnames: stormwater,activity:stormwater,raingauge,rain,activity:raingauge
+
 ---
 
 # Make an accurate soda bottle rain gauge 
+
+by [stevie](../profile/stevie) June 07, 2018 17:42
+
+June 07, 2018 17:42 | Tags: [stormwater](../tag/stormwater), [activity:stormwater](../tag/activity:stormwater), [raingauge](../tag/raingauge), [rain](../tag/rain), [activity:raingauge](../tag/activity:raingauge)
 
 I’ve been interested in DIY rain gauges. The ones we used for the [stormwater workshop series][1] in New Orleans are really nice, but still between $30-40. There are some cheaper ones you can buy, but I found some neat models you can make with just a plastic bottle. However, the [directions for a lot of them][2] are just to add a ruler on the side after you cut off and invert the top, but that doesn't really create an accurate rain gauge because most of the bottles aren’t a strait cylinder, and it also doesn't account for the radius of the bottle and how much rainfall would take to make 1in of water in your gauge. So, I’ve done some examining on the more expensive rain gauge and the plastic bottle models and came up with this idea:
 

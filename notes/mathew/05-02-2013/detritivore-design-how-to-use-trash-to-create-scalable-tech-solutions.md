@@ -1,12 +1,18 @@
 ---
-nid: 7208
 title: 'Detritivore' Design: How to Use Trash to Create Scalable Tech Solutions
-path: public/static/notes/mathew/05-02-2013/detritivore-design-how-to-use-trash-to-create-scalable-tech-solutions.md
+tagnames: spectrometer, reuse, idealab, waste
+author: mathew
+path: /notes/mathew/05-02-2013/detritivore-design-how-to-use-trash-to-create-scalable-tech-solutions.md
+nid: 7208
 uid: 4
-tagnames: spectrometer,reuse,idealab,waste
+
 ---
 
 # 'Detritivore' Design: How to Use Trash to Create Scalable Tech Solutions
+
+by [mathew](../profile/mathew) May 02, 2013 16:43
+
+May 02, 2013 16:43 | Tags: [spectrometer](../tag/spectrometer), [reuse](../tag/reuse), [idealab](../tag/idealab), [waste](../tag/waste)
 
 [Original article on IdeaLab](http://www.pbs.org/idealab/2013/04/detritivore-design-how-to-use-trash-to-create-scalable-tech-solutions109.html)
 

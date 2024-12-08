@@ -1,12 +1,18 @@
 ---
-nid: 15309
 title: How is the changing environmental governance landscape affecting YOUR work?
-path: public/static/notes/mlamadrid/12-05-2017/how-is-the-changing-environmental-governance-landscape-affecting-your-work.md
+tagnames: epa, environment, climate-change, with:gretchengehrke, policy, governance
+author: mlamadrid
+path: /notes/mlamadrid/12-05-2017/how-is-the-changing-environmental-governance-landscape-affecting-your-work.md
+nid: 15309
 uid: 45586
-tagnames: epa,environment,climate-change,with:gretchengehrke,policy,governance
+
 ---
 
 # How is the changing environmental governance landscape affecting YOUR work?
+
+by [mlamadrid](../profile/mlamadrid) December 05, 2017 23:19
+
+December 05, 2017 23:19 | Tags: [epa](../tag/epa), [environment](../tag/environment), [climate-change](../tag/climate-change), [with:gretchengehrke](../tag/with:gretchengehrke), [policy](../tag/policy), [governance](../tag/governance)
 
 Article by Public Lab Staff for [Community Science Forum: Changing Environmental Governance Landscape](https://publiclab.org/forum)
 

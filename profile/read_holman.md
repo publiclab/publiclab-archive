@@ -3,6 +3,8 @@ uid: 540243
 created_at: 2018-07-05 17:43:25 UTC
 ---
 
+# read_holman
+
 -----------------------
 
 ##Read Holman, Public Lab Fellow
@@ -19,12 +21,12 @@ created_at: 2018-07-05 17:43:25 UTC
 
 ----
 
-[Anyone working on environmental lead exposure / poisoning?](/notes/read_holman/08-13-2018/anyone-working-on-environmental-lead-exposure-poisoning)
-[The Lead (Pb) Data Initiative](/wiki/the-lead-data-collaborative-overview)
-[Help us test public water fountains in NYC for lead!?](/notes/read_holman/08-30-2018/help-us-test-public-water-fountains-in-nyc-for-lead)
-[Chemical/Analytical Methods Used When Testing for Lead](/notes/read_holman/12-12-2018/list-of-methods-for-lead-detection-monitoring)
-[Partnering with a Local College for Environmental Testing](/notes/read_holman/12-17-2018/partnering-with-a-local-college-for-environmental-testing)
-[Seeking GIS / Data folks: Help us create a nation Lead Exposure Risk map.](/notes/read_holman/01-14-2019/seeking-gis-data-folks-help-us-create-a-nation-lead-exposure-risk-map)
-[Seeking Info re Commercial Low-cost Lead Screening Products](/notes/read_holman/04-04-2019/seeking-info-re-commercial-low-cost-lead-screening-products)
-[How to Test For Lead in your Environment](/notes/read_holman/04-11-2019/how-to-test-for-lead-in-your-environment)
-[Evaluating Low-cost Lead Screening Products](/notes/read_holman/04-16-2019/evaluating-low-cost-lead-screening-products)
+- [Anyone working on environmental lead exposure / poisoning?](/notes/read_holman/08-13-2018/anyone-working-on-environmental-lead-exposure-poisoning)
+- [The Lead (Pb) Data Initiative](/wiki/the-lead-data-collaborative-overview) (wiki)
+- [Help us test public water fountains in NYC for lead!?](/notes/read_holman/08-30-2018/help-us-test-public-water-fountains-in-nyc-for-lead)
+- [Chemical/Analytical Methods Used When Testing for Lead](/notes/read_holman/12-12-2018/list-of-methods-for-lead-detection-monitoring)
+- [Partnering with a Local College for Environmental Testing](/notes/read_holman/12-17-2018/partnering-with-a-local-college-for-environmental-testing)
+- [Seeking GIS / Data folks: Help us create a nation Lead Exposure Risk map.](/notes/read_holman/01-14-2019/seeking-gis-data-folks-help-us-create-a-nation-lead-exposure-risk-map)
+- [Seeking Info re Commercial Low-cost Lead Screening Products](/notes/read_holman/04-04-2019/seeking-info-re-commercial-low-cost-lead-screening-products)
+- [How to Test For Lead in your Environment](/notes/read_holman/04-11-2019/how-to-test-for-lead-in-your-environment)
+- [Evaluating Low-cost Lead Screening Products](/notes/read_holman/04-16-2019/evaluating-low-cost-lead-screening-products)

@@ -1,12 +1,18 @@
 ---
-nid: 9254
 title: Fukuoka's One Straw Revolution
-path: public/static/notes/GreenYouth/09-04-2013/fukuoka-s-one-straw-revolution.md
+tagnames: farming, agriculture, urban-ag, naturalfarming, onestrawrevolution, vietnam, green-youth-collective, asia
+author: GreenYouth
+path: /notes/GreenYouth/09-04-2013/fukuoka-s-one-straw-revolution.md
+nid: 9254
 uid: 231045
-tagnames: farming,agriculture,urban-ag,naturalfarming,onestrawrevolution,vietnam,green-youth-collective,asia
+
 ---
 
 # Fukuoka's One Straw Revolution
+
+by [GreenYouth](../profile/GreenYouth) September 04, 2013 03:54
+
+September 04, 2013 03:54 | Tags: [farming](../tag/farming), [agriculture](../tag/agriculture), [urban-ag](../tag/urban-ag), [naturalfarming](../tag/naturalfarming), [onestrawrevolution](../tag/onestrawrevolution), [vietnam](../tag/vietnam), [green-youth-collective](../tag/green-youth-collective), [asia](../tag/asia)
 
 Hi guys,
 

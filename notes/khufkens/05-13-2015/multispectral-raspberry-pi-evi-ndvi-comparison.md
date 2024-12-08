@@ -1,12 +1,18 @@
 ---
-nid: 11808
 title: Multispectral raspberry pi: EVI - NDVI comparison
-path: public/static/notes/khufkens/05-13-2015/multispectral-raspberry-pi-evi-ndvi-comparison.md
+tagnames: ndvi, multiple-camera, raspberry-pi, vegetation, multipspectral, evi
+author: khufkens
+path: /notes/khufkens/05-13-2015/multispectral-raspberry-pi-evi-ndvi-comparison.md
+nid: 11808
 uid: 438931
-tagnames: ndvi,multiple-camera,raspberry-pi,vegetation,multipspectral,evi
+
 ---
 
 # Multispectral raspberry pi: EVI - NDVI comparison
+
+by [khufkens](../profile/khufkens) May 13, 2015 03:49
+
+May 13, 2015 03:49 | Tags: [ndvi](../tag/ndvi), [multiple-camera](../tag/multiple-camera), [raspberry-pi](../tag/raspberry-pi), [vegetation](../tag/vegetation), [multipspectral](../tag/multipspectral), [evi](../tag/evi)
 
 Today two filters arrived in my mailbox, one filter is a bandpass filter from [400-710nm](http://www.thorlabs.com/thorproduct.cfm?partnumber=FGS900), the other filter is a longpass filter with the cut-off at [721nm](http://www.thorlabs.com/thorproduct.cfm?partnumber=FGL9). [Narrower band pass filters are available](http://www.thorlabs.com/thorproduct.cfm?partnumber=FGS600) and I might order one to see if this further improves image quality.
 

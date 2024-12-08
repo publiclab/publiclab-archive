@@ -1,6 +1,6 @@
 # advocacy
 
-87 notes and wiki pages
+87 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [wetlands-advocacy](/wiki/wetlands-advocacy) (wiki)
 - [Blog Drafting](/wiki/blog-drafting) (wiki)
@@ -23,7 +23,6 @@
 - [Risks to public comment](/notes/liz/12-03-2017/risks-to-public-comment) by [liz](../profile/liz)
 - [How could the new basic microscope project be used in building towards advocacy outcomes?](/notes/stevie/01-10-2018/how-could-the-new-basic-microscope-project-be-used-in-building-towards-advocacy-outcomes) by [stevie](../profile/stevie)
 - [Designing a soil sampling tool kit for community science /environmental justice applications](/notes/jjcreedon/05-17-2018/designing-a-soil-sampling-tool-kit-for-community-science-environmental-justice-applications) by [jjcreedon](../profile/jjcreedon)
-- [Creating a media campaign for casino](/notes/Alovend/06-19-2018/creating-a-media-campaign-for-casino) by [Alovend](../profile/Alovend)
 - [AIR-QUALITY & BALLOON LAUNCH: SUMMER 2019 QUEENSBRIDGE TECH LAB COMMUNITY SCIENCE PROJECT](/notes/SadiePrego/12-05-2018/summer-2019-queensbridge-tech-lab-community-science-project-air-water-soil) by [SadiePrego](../profile/SadiePrego)
 - [SOIL TESTING & DATA VIZ: SUMMER 2019 QUEENSBRIDGE TECH LAB COMMUNITY SCIENCE PROJECT](/notes/SadiePrego/12-05-2018/soil-testing-data-viz-summer-2019-queensbridge-tech-lab-community-science-project) by [SadiePrego](../profile/SadiePrego)
 - [Has odor ever been used against an industry in court? ](/notes/stevie/12-07-2018/has-odor-ever-been-used-against-an-industry-in-court) by [stevie](../profile/stevie)
@@ -38,7 +37,6 @@
 - [Are there examples where environmental concerns were addressed as a result of people filing complaints (or suspected permit violations)? ](/notes/stevie/02-12-2020/are-there-examples-where-environmental-concerns-were-addressed-as-a-result-of-people-filing-complaints-or-suspected-permit-violations) by [stevie](../profile/stevie)
 - [How to Set Up a Bucket Brigade](/notes/kgradow1/06-09-2020/how-to-set-up-a-bucket-brigade) by [kgradow1](../profile/kgradow1)
 - [Learning for Justice in a Climate Changing World ](/notes/amocorro/06-23-2020/learning-for-justice-in-a-climate-changing-world) by [amocorro](../profile/amocorro)
-- [Cheap Car Rental in Dubai](/notes/alemadmarina/06-29-2020/cheap-car-rental-in-dubai) by [alemadmarina](../profile/alemadmarina)
 - [Law and Policy](/wiki/law-and-policy) (wiki)
 - [Typology for the nurdles of the "Bianca" spill](/notes/eustatic/08-26-2020/typology-for-the-nurdles-of-the-bianca-spill) by [eustatic](../profile/eustatic)
 - [A First Look at Technical Documents](/notes/kgradow1/11-09-2020/a-first-look-at-technical-documents) by [kgradow1](../profile/kgradow1)
@@ -80,7 +78,6 @@
 - [THE CRY OF THE SUQUÍA RIVER](/notes/alejobonifacio/12-20-2021/the-cry-of-the-suquia-river) by [alejobonifacio](../profile/alejobonifacio)
 - [What strategies have been implemented to use citizen science successfully in litigation?](/notes/julia_e_masters/01-14-2022/what-strategies-have-been-implemented-to-use-citizen-science-successfully-in-litigation) by [julia_e_masters](../profile/julia_e_masters)
 - [Water: Common Permit Violations](/notes/ekpeterman/01-20-2022/common-permit-violations-water) by [ekpeterman](../profile/ekpeterman)
-- [Quickbooks Error H202](/notes/laimrylah/01-21-2022/quickbooks-error-h202) by [laimrylah](../profile/laimrylah)
 - [Ground: Common Permit Violations](/notes/ekpeterman/02-15-2022/ground-common-permit-violations) by [ekpeterman](../profile/ekpeterman)
 - [Communicating expectations from Chippewa County residents concerned with frac sand mines](/notes/bhamster/02-16-2022/communicating-expectations-from-chippewa-county-residents-concerned-with-frac-sand-mines) by [bhamster](../profile/bhamster)
 - [Virtual Event: Environmental Storytelling - Stories from the Field](/notes/fongvania/03-23-2022/virtual-event-environmental-storytelling-stories-from-the-field) by [fongvania](../profile/fongvania)
@@ -88,4 +85,3 @@
 - [Organizing and Advocacy Happenings at Public Lab!](/notes/julia_e_masters/05-11-2022/organizing-and-advocacy-happenings-at-public-lab) by [julia_e_masters](../profile/julia_e_masters)
 - [Introduction to Community Organizing](/notes/julia_e_masters/05-25-2022/introduction-to-community-organizing) by [julia_e_masters](../profile/julia_e_masters)
 - [Do you have any examples of community-based lawyering or policy work?](/notes/JuliaGuerrein/06-07-2022/do-you-have-any-examples-of-community-based-lawyering-or-policy-work) by [JuliaGuerrein](../profile/JuliaGuerrein)
-- [Why are people not viewing my website?](/notes/chateris/02-21-2023/why-are-people-not-viewing-my-website) by [chateris](../profile/chateris)

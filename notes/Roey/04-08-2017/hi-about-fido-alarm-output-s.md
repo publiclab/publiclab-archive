@@ -1,12 +1,18 @@
 ---
-nid: 14101
 title: Hi, about fido alarm output's
-path: public/static/notes/Roey/04-08-2017/hi-about-fido-alarm-output-s.md
-uid: 505445
 tagnames: question:fido
+author: Roey
+path: /notes/Roey/04-08-2017/hi-about-fido-alarm-output-s.md
+nid: 14101
+uid: 505445
+
 ---
 
 # Hi, about fido alarm output's
+
+by [Roey](../profile/Roey) April 08, 2017 20:17
+
+April 08, 2017 20:17 | Tags: [question:fido](../tag/question:fido)
 
 Hello,
 I would like to setup fido in some freezer. I want to know if there's a way to send email notification instead sms .

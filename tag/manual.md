@@ -1,6 +1,6 @@
 # manual
 
-5 notes and wiki pages
+5 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Spectral Workbench usage](/wiki/spectral-workbench-usage) (wiki)
 - [Overexposure using YUV format and manual exposure settings with Infragram webcam](/notes/jarrarte/08-06-2014/overexposure-using-yuv-format-and-manual-exposure-settings-with-infragram-webcam) by [jarrarte](../profile/jarrarte)

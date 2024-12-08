@@ -1,12 +1,18 @@
 ---
-nid: 22690
 title: Agrotóxicos en Cosquín - Argentina
-path: public/static/wiki/agrotoxicos-en-cosquin-argentina.md
+tagnames: lang:es, project, argentina, soil-sampling, ballon-mapping, spanish, zoom:8, cosquin, place:cordoba-argentina, monsanto, lat:-31.245681, lon:-64.467773, place:argentina, autodefensa-vecinal
+author: imvec
+path: /wiki/agrotoxicos-en-cosquin-argentina.md
+nid: 22690
 uid: 495038
-tagnames: lang:es,project,argentina,soil-sampling,ballon-mapping,spanish,zoom:8,cosquin,place:cordoba-argentina,monsanto,lat:-31.245681,lon:-64.467773,place:argentina,autodefensa-vecinal
+
 ---
 
 # Agrotóxicos en Cosquín - Argentina
+
+by [imvec](../profile/imvec), [xose](../profile/xose)
+
+February 06, 2020 18:40 | Tags: [lang:es](../tag/lang:es), [project](../tag/project), [argentina](../tag/argentina), [soil-sampling](../tag/soil-sampling), [ballon-mapping](../tag/ballon-mapping), [spanish](../tag/spanish), [zoom:8](../tag/zoom:8), [cosquin](../tag/cosquin), [place:cordoba-argentina](../tag/place:cordoba-argentina), [monsanto](../tag/monsanto), [lat:-31.245681](../tag/lat:-31.245681), [lon:-64.467773](../tag/lon:-64.467773), [place:argentina](../tag/place:argentina), [autodefensa-vecinal](../tag/autodefensa-vecinal)
 
 La población de la ciudad de Cosquín en la provincia Argentina de Córdoba vive afectada desde hace años por la fumigación continuada con agrotóxicos en cultivos experimentales con transgénicos.
 

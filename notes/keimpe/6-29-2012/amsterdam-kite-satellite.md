@@ -1,12 +1,18 @@
 ---
-nid: 2667
 title: Amsterdam kite satellite
-path: public/static/notes/keimpe/6-29-2012/amsterdam-kite-satellite.md
+tagnames: waagsociety, amsterdam, satellite-images, sensepod, netherlands, nieuwmarkt, citizen-science, waag
+author: keimpe
+path: /notes/keimpe/6-29-2012/amsterdam-kite-satellite.md
+nid: 2667
 uid: 18394
-tagnames: waagsociety,amsterdam,satellite-images,sensepod,netherlands,nieuwmarkt,citizen-science,waag
+
 ---
 
 # Amsterdam kite satellite
+
+by [keimpe](../profile/keimpe) June 29, 2012 06:58
+
+June 29, 2012 06:58 | Tags: [waagsociety](../tag/waagsociety), [amsterdam](../tag/amsterdam), [satellite-images](../tag/satellite-images), [sensepod](../tag/sensepod), [netherlands](../tag/netherlands), [nieuwmarkt](../tag/nieuwmarkt), [citizen-science](../tag/citizen-science), [waag](../tag/waag)
 
 During the Citizen Scientist on the Move conference in Amsterdam on June 27th we experimented with kite satellite image mapping. We combined the photo camera with a Sensepod developed by Sensaris. Interesting stuff! At an altitude of approx 400 meters we did air quality measurements using the Sensepod and also shot some interesting photo imagery.
 

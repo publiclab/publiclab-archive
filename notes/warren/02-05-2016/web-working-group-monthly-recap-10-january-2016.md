@@ -1,12 +1,18 @@
 ---
-nid: 12660
 title: Web Working Group Monthly Recap 10: January 2016
-path: public/static/notes/warren/02-05-2016/web-working-group-monthly-recap-10-january-2016.md
+tagnames: mapknitter, web-development, software, plots2, spectral-workbench, wwg, webwg, response:12557
+author: warren
+path: /notes/warren/02-05-2016/web-working-group-monthly-recap-10-january-2016.md
+nid: 12660
 uid: 1
-tagnames: mapknitter,web-development,software,plots2,spectral-workbench,wwg,webwg,response:12557
+
 ---
 
 # Web Working Group Monthly Recap 10: January 2016
+
+by [warren](../profile/warren) February 05, 2016 18:26
+
+February 05, 2016 18:26 | Tags: [mapknitter](../tag/mapknitter), [web-development](../tag/web-development), [software](../tag/software), [plots2](../tag/plots2), [spectral-workbench](../tag/spectral-workbench), [wwg](../tag/wwg), [webwg](../tag/webwg), [response:12557](../tag/response:12557)
 
 Hi, all - this month's Web Working Group recap is very exciting, as we've launched Spectral Workbench 2 -- the bulk of the work from so many past months' reports. 
 

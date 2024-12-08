@@ -1,6 +1,6 @@
 # soc-2019-projects
 
-14 notes and wiki pages
+14 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [SoC proposal: Community Toolbox overhaul](/notes/icode365/03-02-2019/soc-proposal) by [icode365](../profile/icode365)
 - [SoC proposal: GSoC: Websocket Implementation for Real-time Usage and Sensor data and Display Library](/notes/namangupta/03-02-2019/soc-proposal) by [namangupta](../profile/namangupta)

@@ -1,12 +1,18 @@
 ---
-nid: 101
 title: Balloon Mapping
-path: public/static/wiki/balloon-mapping-2.md
-uid: 1
 tagnames: 
+author: warren
+path: /wiki/balloon-mapping-2.md
+nid: 101
+uid: 1
+
 ---
 
 # Balloon Mapping
+
+by [warren](../profile/warren)
+
+February 23, 2011 05:31 | Tags: 
 
 <img src='http://farm3.static.flickr.com/2629/4098484223_0f3a511098.jpg' />
 

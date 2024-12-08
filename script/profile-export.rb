@@ -12,10 +12,16 @@ users.uniq.each do |user|
     text = "---\n"\
       "uid: #{user.id}\n"\
       "created_at: #{user.created_at}\n"\
-      "---\n\n#{user.bio}\n\n"\
+      "---\n\n"\
+      "# #{user.username}\n\n"\
+      "#{user.bio}\n\n"\
       "----\n\n"
     user.nodes.each do |node|
-      text += "- [#{node.title}](#{node.path})\n"
+      if node.type == "page"
+        text += "- [#{node.title}](#{node.path}) (wiki)\n"
+      else	
+        text += "- [#{node.title}](#{node.path})\n"
+      end
     end
     file.write(text)
   end

@@ -1,12 +1,18 @@
 ---
-nid: 618
 title: RGB color from a knob -- small steps towards thermal flashlight
-path: public/static/notes/warren/12-8-2011/rgb-color-knob-small-steps-towards-thermal-flashlight.md
+tagnames: arduino, thermal-flashlight, rgb, led
+author: warren
+path: /notes/warren/12-8-2011/rgb-color-knob-small-steps-towards-thermal-flashlight.md
+nid: 618
 uid: 1
-tagnames: arduino,thermal-flashlight,rgb,led
+
 ---
 
 # RGB color from a knob -- small steps towards thermal flashlight
+
+by [warren](../profile/warren) December 08, 2011 17:15
+
+December 08, 2011 17:15 | Tags: [arduino](../tag/arduino), [thermal-flashlight](../tag/thermal-flashlight), [rgb](../tag/rgb), [led](../tag/led)
 
 Modified to go from Blue to Red, for use in heatmap "light-painting". More soon.
 

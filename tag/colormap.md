@@ -1,6 +1,6 @@
 # colormap
 
-12 notes and wiki pages
+12 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [ndvi-gradients](/wiki/ndvi-gradients) (wiki)
 - [Infragram test photos from a plane window](/notes/warren/05-27-2013/infragram-test-photos-from-a-plane-window) by [warren](../profile/warren)

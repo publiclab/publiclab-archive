@@ -1,12 +1,18 @@
 ---
-nid: 26501
 title: Invasive Species - New Orleans
-path: public/static/notes/jthomas/05-05-2021/invasive-species-new-orleans.md
+tagnames: gulf-coast, louisiana, invasive-species, lat:30, first-time-poster, zoom:14, lon:-90.12
+author: jthomas
+path: /notes/jthomas/05-05-2021/invasive-species-new-orleans.md
+nid: 26501
 uid: 752053
-tagnames: gulf-coast,louisiana,invasive-species,lat:30,first-time-poster,zoom:14,lon:-90.12
+
 ---
 
 # Invasive Species - New Orleans
+
+by [jthomas](../profile/jthomas) May 05, 2021 21:00
+
+May 05, 2021 21:00 | Tags: [gulf-coast](../tag/gulf-coast), [louisiana](../tag/louisiana), [invasive-species](../tag/invasive-species), [lat:30](../tag/lat:30), [first-time-poster](../tag/first-time-poster), [zoom:14](../tag/zoom:14), [lon:-90.12](../tag/lon:-90.12)
 
 ### Introduction:
 

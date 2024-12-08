@@ -1,12 +1,18 @@
 ---
-nid: 9749
 title: Spectroscopy of oxyhydrogen flames
-path: public/static/notes/tungs10/11-08-2013/spectroscopy-of-oxyhydrogen-flames.md
+tagnames: spectrometer, hydrogen, oxyhydrogen, diesel
+author: tungs10
+path: /notes/tungs10/11-08-2013/spectroscopy-of-oxyhydrogen-flames.md
+nid: 9749
 uid: 356541
-tagnames: spectrometer,hydrogen,oxyhydrogen,diesel
+
 ---
 
 # Spectroscopy of oxyhydrogen flames
+
+by [tungs10](../profile/tungs10) November 08, 2013 21:25
+
+November 08, 2013 21:25 | Tags: [spectrometer](../tag/spectrometer), [hydrogen](../tag/hydrogen), [oxyhydrogen](../tag/oxyhydrogen), [diesel](../tag/diesel)
 
 To see research so far:
 [click here](http://www.academia.edu/4058265/HHO_and_Diesel_Technology)

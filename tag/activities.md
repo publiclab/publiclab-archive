@@ -1,6 +1,6 @@
 # activities
 
-10 notes and wiki pages
+10 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Learn about Activities](/wiki/activities) (wiki)
 - [Activity Categories](/notes/gretchengehrke/09-02-2016/activity-categories) by [gretchengehrke](../profile/gretchengehrke)
@@ -11,4 +11,3 @@
 - [Help improve the step-by-step guides people have posted on PublicLab.org](/notes/warren/12-06-2017/help-improve-the-step-by-step-guides-people-have-posted-on-publiclab-org) by [warren](../profile/warren)
 - [Embed a Q&A system on another website](/notes/warren/12-06-2017/embed-a-q-a-system-on-another-website) by [warren](../profile/warren)
 - [Writing a topic page on PublicLab.org](/notes/warren/03-22-2019/writing-a-topic-page-on-publiclab-org) by [warren](../profile/warren)
-- [search engine marketing specialist](/notes/kickandik21/02-12-2022/search-engine-marketing-specialist) by [kickandik21](../profile/kickandik21)

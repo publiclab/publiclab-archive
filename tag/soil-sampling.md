@@ -1,6 +1,6 @@
 # soil-sampling
 
-28 notes and wiki pages
+28 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Sampling](/wiki/sampling) (wiki)
 - [Soil Sampling](/wiki/soil-sampling) (wiki)
@@ -25,7 +25,6 @@
 - [Workshop Guide: Mapping Soil Data](/notes/kgradow1/12-31-2020/workshop-guide-mapping-data) by [kgradow1](../profile/kgradow1)
 - [Microplastics sampling in Haw River, NC](/notes/liz/01-15-2021/microplastics-sampling-in-haw-river-nc) by [liz](../profile/liz)
 - [Are there ways to trace detected soil contaminants back to the polluting source?](/notes/amocorro/02-10-2021/are-there-ways-to-trace-detected-soil-contaminants-back-to-the-polluting-source) by [amocorro](../profile/amocorro)
-- [Adobe Photoshop Elements 2020](/notes/assignments_live/02-17-2021/adobe-photoshop-elements-2020) by [assignments_live](../profile/assignments_live)
 - [Virtual tool demo: Soil Sampling Toolkit by Citizen Science Community Resources](/notes/bhamster/03-05-2021/virtual-tool-demo-soil-sampling-toolkit-by-citizen-science-community-resources) by [bhamster](../profile/bhamster)
 - [Soil Sampling Toolkit by Citizen Science Community Resources: History and How-To Video](/notes/bhamster/04-07-2021/soil-sampling-toolkit-by-citizen-science-community-resources-history-and-how-to-video) by [bhamster](../profile/bhamster)
 - [Subsoil sampling guide](/notes/imvec/07-01-2022/subsoil-sampling-guide) by [imvec](../profile/imvec)

@@ -1,12 +1,18 @@
 ---
-nid: 38685
 title: Vinyl chloride spill in eastern ohio
-path: public/static/notes/Ag8n/02-07-2023/vinyl-chloride-spill-in-eastern-ohio.md
+tagnames: question:general, general, place:ohio
+author: Ag8n
+path: /notes/Ag8n/02-07-2023/vinyl-chloride-spill-in-eastern-ohio.md
+nid: 38685
 uid: 520994
-tagnames: question:general,general,place:ohio
+
 ---
 
 # Vinyl chloride spill in eastern ohio
+
+by [Ag8n](../profile/Ag8n) February 07, 2023 01:05
+
+February 07, 2023 01:05 | Tags: [question:general](../tag/question:general), [general](../tag/general), [place:ohio](../tag/place:ohio)
 
 Came home to the TV news, tonight  There was a train derailment, that included four railcars carrying vinyl chloride.  This spill is in Eastern Ohio.  
 

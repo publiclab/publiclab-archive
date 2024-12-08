@@ -1,6 +1,6 @@
 # simple-water-sensor-platform
 
-9 notes and wiki pages
+9 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Why do individuals/organizations want to collect water quality data?](/notes/wmacfarl/09-18-2019/why-do-individuals-organizations-want-to-collect-water-quality-data) by [wmacfarl](../profile/wmacfarl)
 - [What water quality data can we collect to investigate oil/gas pollution?](/notes/wmacfarl/09-18-2019/what-water-quality-data-can-we-collect-to-investigate-oil-gas-pollution) by [wmacfarl](../profile/wmacfarl)

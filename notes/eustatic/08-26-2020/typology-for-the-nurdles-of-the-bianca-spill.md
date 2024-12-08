@@ -1,12 +1,18 @@
 ---
-nid: 24462
 title: Typology for the nurdles of the "Bianca" spill
-path: public/static/notes/eustatic/08-26-2020/typology-for-the-nurdles-of-the-bianca-spill.md
+tagnames: gulf-coast, industrial-monitoring, water-quality, mississippi-river, microscope, advocacy, clean-water-act, microplastics, plastics, place:chalmette-la, healthygulf, zoom:15, plastic-pollution, lat:29.939576, lon:-89.993932, oil-industry, nurdles
+author: eustatic
+path: /08-26-2020/typology-for-the-nurdles-of-the-bianca-spill.md
+nid: 24462
 uid: 379
-tagnames: gulf-coast,industrial-monitoring,water-quality,mississippi-river,microscope,advocacy,clean-water-act,microplastics,plastics,place:chalmette-la,healthygulf,zoom:15,plastic-pollution,lat:29.939576,lon:-89.993932,oil-industry,nurdles
+
 ---
 
 # Typology for the nurdles of the "Bianca" spill
+
+by [eustatic](../profile/eustatic) August 26, 2020 21:12
+
+August 26, 2020 21:12 | Tags: [gulf-coast](../tag/gulf-coast), [industrial-monitoring](../tag/industrial-monitoring), [water-quality](../tag/water-quality), [mississippi-river](../tag/mississippi-river), [microscope](../tag/microscope), [advocacy](../tag/advocacy), [clean-water-act](../tag/clean-water-act), [microplastics](../tag/microplastics), [plastics](../tag/plastics), [place:chalmette-la](../tag/place:chalmette-la), [healthygulf](../tag/healthygulf), [zoom:15](../tag/zoom:15), [plastic-pollution](../tag/plastic-pollution), [lat:29.939576](../tag/lat:29.939576), [lon:-89.993932](../tag/lon:-89.993932), [oil-industry](../tag/oil-industry), [nurdles](../tag/nurdles)
 
 On 2nd August, 2020, CMA CGM Group vessel Bianca released multiple boxes of cargo into the Mississippi River, including nurdle cargo. 
 

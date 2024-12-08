@@ -1,12 +1,18 @@
 ---
-nid: 30405
 title: GSoC"proposal: Infragram.org full-screen UI and video upload 
-path: public/static/notes/yravianand111/04-15-2022/gsoc-proposal-infragram-org-full-screen-ui-and-video-upload.md
+tagnames: software, gsoc, soc, first-time-poster, gsoc-2022, gsoc-2022-proposals
+author: yravianand111
+path: /notes/yravianand111/04-15-2022/gsoc-proposal-infragram-org-full-screen-ui-and-video-upload.md
+nid: 30405
 uid: 784616
-tagnames: software,gsoc,soc,first-time-poster,gsoc-2022,gsoc-2022-proposals
+
 ---
 
 # GSoC"proposal: Infragram.org full-screen UI and video upload 
+
+by [yravianand111](../profile/yravianand111) April 15, 2022 11:03
+
+April 15, 2022 11:03 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [soc](../tag/soc), [first-time-poster](../tag/first-time-poster), [gsoc-2022](../tag/gsoc-2022), [gsoc-2022-proposals](../tag/gsoc-2022-proposals)
 
 ### About me
 

@@ -1,12 +1,18 @@
 ---
-nid: 12530
 title: Thank you for another wonderful year of Public Lab!
-path: public/static/notes/Becki/12-17-2015/thank-you-for-another-wonderful-year-of-public-lab.md
-uid: 46673
 tagnames: blog
+author: Becki
+path: /notes/Becki/12-17-2015/thank-you-for-another-wonderful-year-of-public-lab.md
+nid: 12530
+uid: 46673
+
 ---
 
 # Thank you for another wonderful year of Public Lab!
+
+by [Becki](../profile/Becki) December 17, 2015 19:11
+
+December 17, 2015 19:11 | Tags: [blog](../tag/blog)
 
 Last week marked my three year anniversary as Public Lab staff, though I’ve been working with Public Lab since the mapping of the BP disaster. It’s amazing to think how far we’ve come as a community and an organization since our scrappy band of aerial mappers spread across the Gulf Coast in the wake of the oil spill, mapping hundreds of miles of spill with just a few shared kite and balloon kits.
 

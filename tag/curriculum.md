@@ -1,6 +1,6 @@
 # curriculum
 
-51 notes and wiki pages
+51 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Grassroots Mapping Curriculum](/wiki/mapping-curriculum) (wiki)
 - [Mapping Curriculum SDSU Geography 496](/wiki/mapping-curriculum-sdsu-geography-496) (wiki)
@@ -51,5 +51,4 @@
 - [Workshop VIII: What will we do to conduct our study?](/notes/mimiss/06-04-2019/workshop-viii) by [mimiss](../profile/mimiss)
 - [Games/Activities to know about Air Pollution](/notes/silentsairam/06-16-2019/games-activities-to-know-about-air-pollution) by [silentsairam](../profile/silentsairam)
 - [How could we design a group activity around siting air sensors?](/notes/warren/06-24-2019/how-could-we-design-a-group-activity-around-siting-air-sensors) by [warren](../profile/warren)
-- [Oxbridge Education - World Class Homeschooling](/notes/steveoxbridge/10-18-2019/oxbridge-education-world-class-homeschooling) by [steveoxbridge](../profile/steveoxbridge)
 - [Workshop XI: How can we affect change?](/notes/mimiss/04-13-2021/workshop-xi-how-can-we-affect-change) by [mimiss](../profile/mimiss)

@@ -1,12 +1,18 @@
 ---
-nid: 30701
 title: An accessible browser-based decoder for NOAA images
-path: public/static/notes/sashae/05-03-2022/an-accessible-browser-based-decoder-for-noaa-images.md
+tagnames: seeks:replications, open-weather, activity:open-weather
+author: sashae
+path: /notes/sashae/05-03-2022/an-accessible-browser-based-decoder-for-noaa-images.md
+nid: 30701
 uid: 693684
-tagnames: seeks:replications,open-weather,activity:open-weather
+
 ---
 
 # An accessible browser-based decoder for NOAA images
+
+by [sashae](../profile/sashae) May 03, 2022 14:04
+
+May 03, 2022 14:04 | Tags: [seeks:replications](../tag/seeks:replications), [open-weather](../tag/open-weather), [activity:open-weather](../tag/activity:open-weather)
 
 <div class="alert alert-block alert-danger">
 **Research note in progress**

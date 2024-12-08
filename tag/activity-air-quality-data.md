@@ -1,6 +1,6 @@
 # activity-air-quality-data
 
-5 notes and wiki pages
+5 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Data Visualization with Sheet Mapper: How to connect a live spreadsheet to a web map](/notes/laurel_mire/09-09-2021/data-visualization-with-sheet-mapper-how-to-connect-a-live-spreadsheet-to-a-web-map) by [laurel_mire](../profile/laurel_mire)
 - [Create a “data story” to communicate environmental data](/notes/bhamster/12-02-2021/create-a-data-story-to-communicate-environmental-data) by [bhamster](../profile/bhamster)

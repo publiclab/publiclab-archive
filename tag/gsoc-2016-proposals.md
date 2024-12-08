@@ -1,6 +1,6 @@
 # gsoc-2016-proposals
 
-11 notes and wiki pages
+11 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Google Summer of Code 2016: draft proposals](/notes/warren/03-10-2016/google-summer-of-code-2016-draft-proposals) by [warren](../profile/warren)
 - [GSOC 2016 : Expanded Q&A System](/notes/jiteshxyz/03-11-2016/gsoc-2016-expanded-q-a-system) by [jiteshxyz](../profile/jiteshxyz)

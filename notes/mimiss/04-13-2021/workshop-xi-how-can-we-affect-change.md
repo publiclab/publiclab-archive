@@ -1,12 +1,18 @@
 ---
-nid: 26168
 title: Workshop XI: How can we affect change?
-path: public/static/notes/mimiss/04-13-2021/workshop-xi-how-can-we-affect-change.md
+tagnames: education, workshop, curriculum, activity:education, study-design, lesson, parent:student-led-community-science-in-the-classroom-a-curriculum, lat:29.954934, lon:-90.076904, zoom:16, pin:study-design
+author: mimiss
+path: /notes/mimiss/04-13-2021/workshop-xi-how-can-we-affect-change.md
+nid: 26168
 uid: 579821
-tagnames: education,workshop,curriculum,activity:education,study-design,lesson,parent:student-led-community-science-in-the-classroom-a-curriculum,lat:29.954934,lon:-90.076904,zoom:16,pin:study-design
+
 ---
 
 # Workshop XI: How can we affect change?
+
+by [mimiss](../profile/mimiss) April 13, 2021 15:41
+
+April 13, 2021 15:41 | Tags: [education](../tag/education), [workshop](../tag/workshop), [curriculum](../tag/curriculum), [activity:education](../tag/activity:education), [study-design](../tag/study-design), [lesson](../tag/lesson), [parent:student-led-community-science-in-the-classroom-a-curriculum](../tag/parent:student-led-community-science-in-the-classroom-a-curriculum), [lat:29.954934](../tag/lat:29.954934), [lon:-90.076904](../tag/lon:-90.076904), [zoom:16](../tag/zoom:16), [pin:study-design](../tag/pin:study-design)
 
 This lesson is part of a series of lessons designed for educators to facilitate student-led inquiry around environmental topics. If there are time constraints, this lesson can be split into two at the Elaborate portion of the lesson.
 

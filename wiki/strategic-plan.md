@@ -1,12 +1,18 @@
 ---
-nid: 22430
 title: Strategic Plan
-path: public/static/wiki/strategic-plan.md
+tagnames: nonprofit, locked
+author: Shannon
+path: /wiki/strategic-plan.md
+nid: 22430
 uid: 9
-tagnames: nonprofit,locked
+
 ---
 
 # Strategic Plan
+
+by [joyofsoy](../profile/joyofsoy), [mimiss](../profile/mimiss), [Shannon](../profile/Shannon)
+
+January 30, 2020 04:09 | Tags: [nonprofit](../tag/nonprofit), [locked](../tag/locked)
 
 #### **Goal:** We support community science base-building, leading to increased victories for local environmental action.
 

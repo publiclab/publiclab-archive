@@ -1,12 +1,18 @@
 ---
-nid: 11810
 title: Second Design Concept for Kayak-towable Thermal Fishing Bob
-path: public/static/notes/kgrevera/05-13-2015/second-design-concept-for-kayak-towable-thermal-fishing-bob.md
+tagnames: thermal-fishing-bob, towable-rig
+author: kgrevera
+path: /notes/kgrevera/05-13-2015/second-design-concept-for-kayak-towable-thermal-fishing-bob.md
+nid: 11810
 uid: 432001
-tagnames: thermal-fishing-bob,towable-rig
+
 ---
 
 # Second Design Concept for Kayak-towable Thermal Fishing Bob
+
+by [kgrevera](../profile/kgrevera) May 13, 2015 13:30
+
+May 13, 2015 13:30 | Tags: [thermal-fishing-bob](../tag/thermal-fishing-bob), [towable-rig](../tag/towable-rig)
 
 #Second Design Concept for Kayak-towable Thermal Fishing Bob
 

@@ -1,12 +1,18 @@
 ---
-nid: 11301
 title: Question: Do you guys retract the kite / balloon line manually?
-path: public/static/notes/madapeti/10-26-2014/question-do-you-guys-retract-the-kite-balloon-line-manually.md
-uid: 430465
 tagnames: question:balloon-mapping
+author: madapeti
+path: /notes/madapeti/10-26-2014/question-do-you-guys-retract-the-kite-balloon-line-manually.md
+nid: 11301
+uid: 430465
+
 ---
 
 # Question: Do you guys retract the kite / balloon line manually?
+
+by [madapeti](../profile/madapeti) October 26, 2014 10:38
+
+October 26, 2014 10:38 | Tags: [question:balloon-mapping](../tag/question:balloon-mapping)
 
 ###What I want to do or know
 I was wondering if the line of the mapping balloons / kites is operated manually (hand spooling) most of the time. Using a special spool with a cordless drill / driver with a direction toggle could make the process much less tiring and faster while avoiding rope burns. 

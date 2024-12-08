@@ -1,12 +1,18 @@
 ---
-nid: 880
 title: Playlist
-path: public/static/wiki/playlist.md
-uid: 1
 tagnames: 
+author: warren
+path: /wiki/playlist.md
+nid: 880
+uid: 1
+
 ---
 
 # Playlist
+
+by [warren](../profile/warren)
+
+March 01, 2012 18:47 | Tags: 
 
 <style>
 h1 {display:none;}

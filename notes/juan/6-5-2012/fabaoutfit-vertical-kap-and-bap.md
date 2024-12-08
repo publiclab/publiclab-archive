@@ -1,12 +1,18 @@
 ---
-nid: 2352
 title: FABAoutfit for vertical  KAP and BAP
-path: public/static/notes/juan/6-5-2012/fabaoutfit-vertical-kap-and-bap.md
+tagnames: balloon-mapping, kite-mapping, picavet, chdk, rig, hangup, photo-rig, activity:photo-rig, first-time-poster
+author: Juan
+path: /notes/juan/6-5-2012/fabaoutfit-vertical-kap-and-bap.md
+nid: 2352
 uid: 1310
-tagnames: balloon-mapping,kite-mapping,picavet,chdk,rig,hangup,photo-rig,activity:photo-rig,first-time-poster
+
 ---
 
 # FABAoutfit for vertical  KAP and BAP
+
+by [Juan](../profile/Juan) June 05, 2012 20:23
+
+June 05, 2012 20:23 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [picavet](../tag/picavet), [chdk](../tag/chdk), [rig](../tag/rig), [hangup](../tag/hangup), [photo-rig](../tag/photo-rig), [activity:photo-rig](../tag/activity:photo-rig), [first-time-poster](../tag/first-time-poster)
 
 <strong>This work is released under the Creative Commons/CERN Open Hardware License.</strong>
 

@@ -1,12 +1,18 @@
 ---
-nid: 674
 title: Staff call notes 1-2-12
-path: public/static/wiki/staff-call-notes-1-2-12.md
-uid: 9
 tagnames: 
+author: Shannon
+path: /wiki/staff-call-notes-1-2-12.md
+nid: 674
+uid: 9
+
 ---
 
 # Staff call notes 1-2-12
+
+by [Shannon](../profile/Shannon)
+
+January 02, 2012 20:50 | Tags: 
 
 Monday, January 2, 2012
 

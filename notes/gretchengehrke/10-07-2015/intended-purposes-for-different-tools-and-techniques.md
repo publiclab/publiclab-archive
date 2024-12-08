@@ -1,12 +1,18 @@
 ---
-nid: 12275
 title: Intended Purposes for Different Tools and Techniques
-path: public/static/notes/gretchengehrke/10-07-2015/intended-purposes-for-different-tools-and-techniques.md
+tagnames: evidence, standards, data, evaluation, barnstar:basic, with:shannon, with:warren, with:donblair, certification
+author: gretchengehrke
+path: /notes/gretchengehrke/10-07-2015/intended-purposes-for-different-tools-and-techniques.md
+nid: 12275
 uid: 430549
-tagnames: evidence,standards,data,evaluation,barnstar:basic,with:shannon,with:warren,with:donblair,certification
+
 ---
 
 # Intended Purposes for Different Tools and Techniques
+
+by [gretchengehrke](../profile/gretchengehrke) October 07, 2015 13:30
+
+October 07, 2015 13:30 | Tags: [evidence](../tag/evidence), [standards](../tag/standards), [data](../tag/data), [evaluation](../tag/evaluation), [barnstar:basic](../tag/barnstar:basic), [with:shannon](../tag/with:shannon), [with:warren](../tag/with:warren), [with:donblair](../tag/with:donblair), [certification](../tag/certification)
 
 ##Technique Strata 
 

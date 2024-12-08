@@ -1,12 +1,18 @@
 ---
-nid: 13399
 title: Conducting and Writing a Health Effects Literature Review
-path: public/static/wiki/health-effects-lit-review.md
+tagnames: research, tool, methods, literature-review, method
+author: gretchengehrke
+path: /wiki/health-effects-lit-review.md
+nid: 13399
 uid: 430549
-tagnames: research,tool,methods,literature-review,method
+
 ---
 
 # Conducting and Writing a Health Effects Literature Review
+
+by [gretchengehrke](../profile/gretchengehrke)
+
+August 26, 2016 20:46 | Tags: [research](../tag/research), [tool](../tag/tool), [methods](../tag/methods), [literature-review](../tag/literature-review), [method](../tag/method)
 
 ##Health Effects and Toxicology Literature Review 
 Literature reviews are important steps in research processes, as they provide context and background knowledge for whatever situation you are interested in further exploring. There is a companion wiki to this one with detailed descriptions of literature review purpose and process, found [here](http://publiclab.org/wiki/literature-review). In the present wiki, we focus on exactly how to conduct a literature review specifically about health effects of a contaminant. We delineate a [guide](http://publiclab.org/wiki/health-effects-lit-review#Guide) including steps for how to conduct searches in the literature review, and include a [template](http://publiclab.org/wiki/health-effects-lit-review#Template) for how to write up a health effects literature review. 

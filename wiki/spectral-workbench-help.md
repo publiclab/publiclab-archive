@@ -1,12 +1,18 @@
 ---
-nid: 886
 title: Spectral Workbench Help
-path: public/static/wiki/spectral-workbench-help.md
+tagnames: spectrometer, spectralworkbench, export, parent:spectral-workbench, graph
+author: warren
+path: /wiki/spectral-workbench-help.md
+nid: 886
 uid: 1
-tagnames: spectrometer,spectralworkbench,export,parent:spectral-workbench,graph
+
 ---
 
 # Spectral Workbench Help
+
+by [warren](../profile/warren), [ScottC](../profile/ScottC)
+
+March 05, 2012 18:25 | Tags: [spectrometer](../tag/spectrometer), [spectralworkbench](../tag/spectralworkbench), [export](../tag/export), [parent:spectral-workbench](../tag/parent:spectral-workbench), [graph](../tag/graph)
 
 ##Quick Links
 

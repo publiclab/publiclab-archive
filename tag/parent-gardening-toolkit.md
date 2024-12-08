@@ -1,6 +1,6 @@
 # parent-gardening-toolkit
 
-8 notes and wiki pages
+8 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [5BF](/wiki/5bf) (wiki)
 - [Start Here](/wiki/start-here) (wiki)

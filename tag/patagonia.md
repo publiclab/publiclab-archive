@@ -1,6 +1,6 @@
 # patagonia
 
-6 notes and wiki pages
+6 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Barataria 2014: I February 9th](/notes/eustatic/02-12-2014/barataria-2014-february-9th) by [eustatic](../profile/eustatic)
 - [Barataria 2014:  II February 16th](/notes/eustatic/02-17-2014/barataria-2014-february-16th) by [eustatic](../profile/eustatic)

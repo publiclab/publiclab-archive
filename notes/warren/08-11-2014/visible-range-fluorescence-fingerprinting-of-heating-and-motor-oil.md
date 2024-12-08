@@ -1,12 +1,18 @@
 ---
-nid: 11037
 title: Visible-range fluorescence fingerprinting of heating and motor oil 
-path: public/static/notes/warren/08-11-2014/visible-range-fluorescence-fingerprinting-of-heating-and-motor-oil.md
+tagnames: spectrometer, oil, fluorescence, matching, motor-oil, crude, literature, oil-testing-kit, aging, synchronous-scanning, fuel, fingerprinting, sfs
+author: warren
+path: /notes/warren/08-11-2014/visible-range-fluorescence-fingerprinting-of-heating-and-motor-oil.md
+nid: 11037
 uid: 1
-tagnames: spectrometer,oil,fluorescence,matching,motor-oil,crude,literature,oil-testing-kit,aging,synchronous-scanning,fuel,fingerprinting,sfs
+
 ---
 
 # Visible-range fluorescence fingerprinting of heating and motor oil 
+
+by [warren](../profile/warren) August 11, 2014 19:45
+
+August 11, 2014 19:45 | Tags: [spectrometer](../tag/spectrometer), [oil](../tag/oil), [fluorescence](../tag/fluorescence), [matching](../tag/matching), [motor-oil](../tag/motor-oil), [crude](../tag/crude), [literature](../tag/literature), [oil-testing-kit](../tag/oil-testing-kit), [aging](../tag/aging), [synchronous-scanning](../tag/synchronous-scanning), [fuel](../tag/fuel), [fingerprinting](../tag/fingerprinting), [sfs](../tag/sfs)
 
 I forwarded this 1992 article, "Fingerprinting petroleum contamination using synchronous scanning fluorescence spectroscopy," around a while ago (and posted on the wiki) but it's open access and there's a particular section that's really great and related to our [Oil Testing Kit](/wiki/oil-testing-kit). 
 

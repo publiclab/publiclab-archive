@@ -1,12 +1,18 @@
 ---
-nid: 6801
 title: registration
-path: public/static/wiki/registration.md
-uid: 1
 tagnames: 
+author: warren
+path: /wiki/registration.md
+nid: 6801
+uid: 1
+
 ---
 
 # registration
+
+by [warren](../profile/warren)
+
+April 12, 2013 18:58 | Tags: 
 
 <div class="alert warning">We are in the middle of upgrading to a new Public Lab website! This can cause a little confusion, but bear with us during the transition.</div>
 

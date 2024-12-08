@@ -1,12 +1,18 @@
 ---
-nid: 10435
 title: Prospect Park spring mapping project
-path: public/static/notes/liz/05-06-2014/prospect-park-spring-mapping-project.md
+tagnames: new-york-city, gowanus, event, prospect-park, glam, groundwater, spring
+author: liz
+path: /notes/liz/05-06-2014/prospect-park-spring-mapping-project.md
+nid: 10435
 uid: 7
-tagnames: new-york-city,gowanus,event,prospect-park,glam,groundwater,spring
+
 ---
 
 # Prospect Park spring mapping project
+
+by [liz](../profile/liz) May 06, 2014 21:25
+
+May 06, 2014 21:25 | Tags: [new-york-city](../tag/new-york-city), [gowanus](../tag/gowanus), [event](../tag/event), [prospect-park](../tag/prospect-park), [glam](../tag/glam), [groundwater](../tag/groundwater), [spring](../tag/spring)
 
 **This note is posted on behalf of [Eymund](/profile/eymund).**
 

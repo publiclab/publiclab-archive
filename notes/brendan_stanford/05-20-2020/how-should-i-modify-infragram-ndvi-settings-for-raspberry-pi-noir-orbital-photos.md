@@ -1,12 +1,18 @@
 ---
-nid: 23674
 title: How should I modify Infragram NDVI settings for Raspberry Pi Noir orbital photos?
-path: public/static/notes/brendan_stanford/05-20-2020/how-should-i-modify-infragram-ndvi-settings-for-raspberry-pi-noir-orbital-photos.md
+tagnames: ndvi, infrared, infragram, canada, question:infragram, newfoundland, question:infrared, image-sequencer, question:image-sequencer, first-time-poster, raspberry_pi, orbit
+author: brendan_stanford
+path: /notes/brendan_stanford/05-20-2020/how-should-i-modify-infragram-ndvi-settings-for-raspberry-pi-noir-orbital-photos.md
+nid: 23674
 uid: 694882
-tagnames: ndvi,infrared,infragram,canada,question:infragram,newfoundland,question:infrared,image-sequencer,question:image-sequencer,first-time-poster,raspberry_pi,orbit
+
 ---
 
 # How should I modify Infragram NDVI settings for Raspberry Pi Noir orbital photos?
+
+by [brendan_stanford](../profile/brendan_stanford) May 20, 2020 13:53
+
+May 20, 2020 13:53 | Tags: [ndvi](../tag/ndvi), [infrared](../tag/infrared), [infragram](../tag/infragram), [canada](../tag/canada), [question:infragram](../tag/question:infragram), [newfoundland](../tag/newfoundland), [question:infrared](../tag/question:infrared), [image-sequencer](../tag/image-sequencer), [question:image-sequencer](../tag/question:image-sequencer), [first-time-poster](../tag/first-time-poster), [raspberry_pi](../tag/raspberry_pi), [orbit](../tag/orbit)
 
 ![image description](/i/39449.jpg "2020-05-20T13_43_05.679Z.jpg")
 

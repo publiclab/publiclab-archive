@@ -1,12 +1,18 @@
 ---
-nid: 10987
 title: First field day in Newark's Green Garden 
-path: public/static/notes/liz/07-28-2014/first-field-day-in-newark-s-green-garden.md
+tagnames: newark, new-jersey, 5bf, urban-ag, infragram, garden, elp, northeast, with:thegreencommunitygarden
+author: liz
+path: /notes/liz/07-28-2014/first-field-day-in-newark-s-green-garden.md
+nid: 10987
 uid: 7
-tagnames: newark,new-jersey,5bf,urban-ag,infragram,garden,elp,northeast,with:thegreencommunitygarden
+
 ---
 
 # First field day in Newark's Green Garden 
+
+by [liz](../profile/liz) July 28, 2014 20:19
+
+July 28, 2014 20:19 | Tags: [newark](../tag/newark), [new-jersey](../tag/new-jersey), [5bf](../tag/5bf), [urban-ag](../tag/urban-ag), [infragram](../tag/infragram), [garden](../tag/garden), [elp](../tag/elp), [northeast](../tag/northeast), [with:thegreencommunitygarden](../tag/with:thegreencommunitygarden)
 
 On Sunday, July 27, [Phil](/profile/p_silva_82) and I went to Newark, NJ, picked up Cynthia Mellon, and went to Green Garden to meet Carla Green, Frank, and Elizabeth Reynoso. 
 <br>

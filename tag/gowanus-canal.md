@@ -1,6 +1,6 @@
 # gowanus-canal
 
-13 notes and wiki pages
+13 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Gowanus Canal balloon tests](/notes/warren/2-19-2011/gowanus-canal-balloon-tests) by [warren](../profile/warren)
 - [GO SCUM update](/notes/liz/1-15-2012/go-scum-update) by [liz](../profile/liz)

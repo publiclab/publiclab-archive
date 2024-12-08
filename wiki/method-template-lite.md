@@ -1,12 +1,18 @@
 ---
-nid: 14552
 title: method-template-lite
-path: public/static/wiki/method-template-lite.md
+tagnames: template, parent:templates
+author: warren
+path: /wiki/method-template-lite.md
+nid: 14552
 uid: 1
-tagnames: template,parent:templates
+
 ---
 
 # method-template-lite
+
+by [warren](../profile/warren)
+
+June 19, 2017 14:45 | Tags: [template](../tag/template), [parent:templates](../tag/parent:templates)
 
 This is a minimal template for new projects (methods) -- replace this sentence with a few sentences introducing the thing, what it's for, etc. (To use this template to create a new page, [use this link](/wiki/new?n=14552&title=Your%20method%20name%20here))
 

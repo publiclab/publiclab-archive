@@ -1,12 +1,18 @@
 ---
-nid: 28246
 title: Air Quality Data
-path: public/static/wiki/air-quality-data.md
+tagnames: environmental-data, data-visualization, parent:air-quality, presenting-data, air-quality-data, data-viz, parent:presenting-data
+author: bhamster
+path: /wiki/air-quality-data.md
+nid: 28246
 uid: 664477
-tagnames: environmental-data,data-visualization,parent:air-quality,presenting-data,air-quality-data,data-viz,parent:presenting-data
+
 ---
 
 # Air Quality Data
+
+by [bhamster](../profile/bhamster)
+
+November 23, 2021 19:19 | Tags: [environmental-data](../tag/environmental-data), [data-visualization](../tag/data-visualization), [parent:air-quality](../tag/parent:air-quality), [presenting-data](../tag/presenting-data), [air-quality-data](../tag/air-quality-data), [data-viz](../tag/data-viz), [parent:presenting-data](../tag/parent:presenting-data)
 
 What can you do with air quality data once you have it? Whether you’ve collected the data yourself through community air monitoring or obtained it from an open database, there are many ways to communicate the data and make it meaningful. 
 

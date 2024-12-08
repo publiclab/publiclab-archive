@@ -1,12 +1,18 @@
 ---
-nid: 19861
 title: Google Summer of Code @ Public Lab : First Phase Work
-path: public/static/notes/namangupta/06-25-2019/google-summer-of-code-public-lab-first-phase-work.md
+tagnames: gsoc, soc, gsoc-2019, soc-2019, gsoc-19
+author: namangupta
+path: /notes/namangupta/06-25-2019/google-summer-of-code-public-lab-first-phase-work.md
+nid: 19861
 uid: 522848
-tagnames: gsoc,soc,gsoc-2019,soc-2019,gsoc-19
+
 ---
 
 # Google Summer of Code @ Public Lab : First Phase Work
+
+by [namangupta](../profile/namangupta) June 25, 2019 19:14
+
+June 25, 2019 19:14 | Tags: [gsoc](../tag/gsoc), [soc](../tag/soc), [gsoc-2019](../tag/gsoc-2019), [soc-2019](../tag/soc-2019), [gsoc-19](../tag/gsoc-19)
 
 In GSoC 2019, I am working on two projects one is Simple Data Grapher and another is Implementation of WebSocket in PublicLab. In simple data grapher which is a new library that we are building for making Graphs using CSV data, there was a lot to learn and implement. From implementing the standard structure of the scalable javascript application to making the code moduar using OOPs concept in Javascript using es6 to setting testing suite there was lot to learn and do.
 

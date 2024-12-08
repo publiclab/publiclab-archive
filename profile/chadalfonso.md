@@ -3,8 +3,10 @@ uid: 750414
 created_at: 2021-03-26 16:33:24 UTC
 ---
 
+# chadalfonso
+
 
 
 ----
 
-[Plastic in the Mississippi River:The Malleable Mississippi?](/notes/chadalfonso/04-13-2021/plastic-in-the-mississippi-river-the-malleable-mississippi)
+- [Plastic in the Mississippi River:The Malleable Mississippi?](/notes/chadalfonso/04-13-2021/plastic-in-the-mississippi-river-the-malleable-mississippi)

@@ -1,12 +1,18 @@
 ---
-nid: 12340
 title: Using a Cellular Modem to post directly to the web & track location 
-path: public/static/notes/donblair/10-28-2015/using-a-cellular-modem-to-post-directly-to-the-web-track-location.md
-uid: 43651
 tagnames: riffle
+author: donblair
+path: /notes/donblair/10-28-2015/using-a-cellular-modem-to-post-directly-to-the-web-track-location.md
+nid: 12340
+uid: 43651
+
 ---
 
 # Using a Cellular Modem to post directly to the web & track location 
+
+by [donblair](../profile/donblair) October 28, 2015 17:03
+
+October 28, 2015 17:03 | Tags: [riffle](../tag/riffle)
 
 Hi Folks!
 

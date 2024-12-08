@@ -1,12 +1,18 @@
 ---
-nid: 12416
 title: An "open open hardware" development cycle
-path: public/static/notes/warren/11-16-2015/an-open-open-hardware-development-cycle.md
+tagnames: spectrometer, collaboration, community, open-hardware, kits, dsk, kits-initiative, with:mathew, with:liz, open-open-hardware, transparency, with:tonyc
+author: warren
+path: /notes/warren/11-16-2015/an-open-open-hardware-development-cycle.md
+nid: 12416
 uid: 1
-tagnames: spectrometer,collaboration,community,open-hardware,kits,dsk,kits-initiative,with:mathew,with:liz,open-open-hardware,transparency,with:tonyc
+
 ---
 
 # An "open open hardware" development cycle
+
+by [warren](../profile/warren) November 16, 2015 19:12
+
+November 16, 2015 19:12 | Tags: [spectrometer](../tag/spectrometer), [collaboration](../tag/collaboration), [community](../tag/community), [open-hardware](../tag/open-hardware), [kits](../tag/kits), [dsk](../tag/dsk), [kits-initiative](../tag/kits-initiative), [with:mathew](../tag/with:mathew), [with:liz](../tag/with:liz), [open-open-hardware](../tag/open-open-hardware), [transparency](../tag/transparency), [with:tonyc](../tag/with:tonyc)
 
 Greetings! Starting today, we're adopting a more open, but also more integrated development process for [the Public Lab Spectrometer project](/wiki/spectrometer). 
 

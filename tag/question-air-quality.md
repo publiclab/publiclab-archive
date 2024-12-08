@@ -1,6 +1,6 @@
 # question-air-quality
 
-103 notes and wiki pages
+103 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Is CALPUFF a good air quality modeling tool](/notes/marlokeno/09-16-2016/is-calpuff-a-good-air-quality-modeling-tool) by [marlokeno](../profile/marlokeno)
 - [How can i know if my plant-based air filter is working?](/notes/liz/09-26-2016/how-can-i-know-if-my-plant-based-air-filter-is-working) by [liz](../profile/liz)
@@ -37,7 +37,6 @@
 - [Can biosolids promote certain types of mold growth in buildings?](/notes/Zengirl2/10-04-2018/can-biosolids-promote-certain-types-of-mold-growth-in-buildings) by [zengirl2](../profile/zengirl2)
 - [How can we connect a PMS5003 dust sensor to an Arduino?](/notes/warren/10-26-2018/how-can-we-connect-a-pms5003-dust-sensor-to-an-arduino) by [warren](../profile/warren)
 - [What do we know about EPA National Emissions Inventory (NEI) data?](/notes/warren/10-30-2018/what-do-we-know-about-epa-national-emissions-inventory-nei-data) by [warren](../profile/warren)
-- [water](/notes/elinadcruise/12-04-2018/water) by [elinadcruise](../profile/elinadcruise)
 - [Building a case against Aluf Plastics -- polluting my town & I need help](/notes/michaelwma/12-14-2018/building-a-case-against-aluf-plastics-polluting-my-town-i-need-help) by [michaelwma](../profile/michaelwma)
 - [Has anyone used EPA's RETIGO to upload air quality data?](/notes/liz/01-14-2019/has-anyone-used-epa-s-retigo-to-upload-air-quality-data) by [liz](../profile/liz)
 - [How to start air monitoring project?](/notes/shannonkmcalpine/02-01-2019/how-to-start-air-monitoring-project) by [shannonkmcalpine](../profile/shannonkmcalpine)
@@ -45,7 +44,6 @@
 - [Where can diffusion tubes for detecting nitrogen dioxide be found in different parts of the world?](/notes/warren/03-04-2019/where-can-diffusion-tubes-for-detecting-nitrogen-dioxide-be-found-in-different-parts-of-the-world) by [warren](../profile/warren)
 - [Is there a predictive relationship between the number of PM 2.5 and smaller airborne particulates compared to the mass of the same ug per cubic meter?](/notes/Tomp/04-07-2019/is-there-a-predictive-relationship-between-the-number-of-pm-2-5-and-smaller-airborne-particulates-compared-to-the-mass-of-the-same-ug-per-cubic-meter) by [Tomp](../profile/Tomp)
 - [How to interpret PMS5003 sensor values?](/notes/samr/04-07-2019/how-to-interpret-pms5003-sensor-values) by [samr](../profile/samr)
-- [https://tvlivevsfootball.de/juventusvsajax/](/notes/wewreterte/04-09-2019/https-tvlivevsfootball-de-juventusvsajax) by [wewreterte](../profile/wewreterte)
 - [How can I start a project on environmental air quality around crop dusting areas](/notes/lubcarreon/07-08-2019/how-can-i-start-a-project-on-environmental-air-quality-around-crop-dusting-areas) by [lubcarreon](../profile/lubcarreon)
 - [PMS7003 with Arduino MEGA2560](/notes/vinushi1995/07-21-2019/pms7003-with-arduino-mega2560) by [vinushi1995](../profile/vinushi1995)
 - [What are indoor air quality concerns related to nail salons? ](/notes/stevie/07-25-2019/what-are-indoor-air-quality-concerns-related-to-nail-salons) by [stevie](../profile/stevie)
@@ -79,7 +77,6 @@
 - [Where is non-compliance reported for fencline monitoring?](/notes/A_SCH/06-23-2020/where-is-non-compliance-reported-for-fencline-monitoring) by [A_SCH](../profile/A_SCH)
 - [What causes shimmering air above flares?](/notes/kgradow1/06-25-2020/what-causes-shimmering-air-above-flares) by [kgradow1](../profile/kgradow1)
 - [For the Bucket Monitor, how many tedlar bags do you need per-sampling?](/notes/mimiss/09-16-2020/for-the-bucket-monitor-how-many-tedlar-bags-do-you-need-per-sampling) by [mimiss](../profile/mimiss)
-- [The best eye specialist in Karachi](/notes/alkhaleejclinics/09-18-2020/the-best-eye-specialist-in-karachi) by [alkhaleejclinics](../profile/alkhaleejclinics)
 - [Can a successful heavy metal analysis using moss samples be designed for community partners?](/notes/stevie/09-24-2020/can-a-successful-heavy-metal-analysis-using-moss-samples-be-designed-for-community-partners) by [stevie](../profile/stevie)
 - [What are your experiences using low-cost VOC sensors outdoors? And other questions about accuracy.](/notes/bhamster/11-23-2020/what-are-your-experiences-using-low-cost-voc-sensors-outdoors-and-other-questions-about-accuracy) by [bhamster](../profile/bhamster)
 - [Chevron is up for a permit renewal again (under title 5 of the Clean Air Act), we have a 4800 page report on the company, how can we get through it and pull out the valuable info?](/notes/stevie/01-04-2021/chevron-is-up-for-a-permit-renewal-again-under-title-5-of-the-clean-air-act-we-have-a-4800-page-report-on-the-company-how-can-we-get-through-it-and-pull-out-the-valuable-info) by [stevie](../profile/stevie)
@@ -95,13 +92,9 @@
 - [What are health and environmental concerns for sewage smell in a home?](/notes/stevie/11-29-2021/what-are-health-and-environmental-concerns-for-sewage-smell-in-a-home) by [stevie](../profile/stevie)
 - [Is there an easy way (app?) to find my elevation above sea level?](/notes/stevie/11-30-2021/is-there-an-easy-way-app-to-find-my-elevation-above-sea-level) by [stevie](../profile/stevie)
 - [How long do you need to co-locate an air quality tool to get what you need to calibrate or  "ground truth" another tool? ](/notes/stevie/12-07-2021/how-long-do-you-need-to-co-locate-an-air-quality-tool-to-get-what-you-need-to-calibrate-or-ground-truth-another-tool) by [stevie](../profile/stevie)
-- [Planning to travel Dubai travel & Tourism](/notes/dubaitraveltourism/12-08-2021/planning-to-travel-dubai-travel-tourism) by [dubaitraveltourism](../profile/dubaitraveltourism)
-- [Filme-HD Južni vetar 2 |2021| ceo film online sa prevodom](/notes/dandiyasin/12-10-2021/filme-hd-juzni-vetar-2-2021-ceo-film-online-sa-prevodom) by [dandiyasin](../profile/dandiyasin)
-- [How Custom Earring Box Give Fine Appearance?](/notes/bleackkendall5/12-17-2021/how-custom-earring-box-give-fine-appearance) by [bleackkendall5](../profile/bleackkendall5)
 - [How to find/request an air emissions permit for a facility in Quebec?](/notes/Fleer/01-27-2022/how-to-find-request-an-air-emissions-permit-for-a-facility-in-quebec) by [Fleer](../profile/Fleer)
 - [What is the most accurate low-cost VOC monitoring method?](/notes/tylerknight/01-27-2022/what-is-the-most-accurate-low-cost-voc-monitoring-method) by [tylerknight](../profile/tylerknight)
 - [Does keeping a bucket sample cold extend the time you have to get it to a lab for testing? ](/notes/stevie/02-09-2022/does-keeping-a-bucket-sample-cold-extend-the-time-you-have-to-get-it-to-a-lab-for-testing) by [stevie](../profile/stevie)
 - [What are some good trouble shooting tips for installing/maintaining a PurpleAir? ](/notes/stevie/02-24-2022/what-are-some-good-trouble-shooting-tips-for-installing-maintaining-a-purpleair) by [stevie](../profile/stevie)
 - [Does this plume count as a violation under Method 9 Opacity? (photos)](/notes/eustatic/03-11-2022/does-this-plume-count-as-a-violation-under-method-9-opacity-photos) by [eustatic](../profile/eustatic)
 - [Looking for recommendations of how to obtain air quality samples around a fracked gas compressor station](/notes/SBucic/07-11-2022/looking-for-recommendations-of-how-to-obtain-air-quality-samples-around-a-fracked-gas-compressor-station) by [SBucic](../profile/SBucic)
-- [women footwear for sale in Pakistan?](/notes/likeaproservices/07-22-2022/women-footwear-for-sale-in-pakistan) by [likeaproservices](../profile/likeaproservices)

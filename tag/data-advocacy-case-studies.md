@@ -1,6 +1,6 @@
 # data-advocacy-case-studies
 
-4 notes and wiki pages
+4 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Case Study: Using Aerial Imagery to Pressure Industrial Polluters into Stormwater Compliance ](/notes/gretchengehrke/07-23-2015/case-study-using-aerial-imagery-to-pressure-industrial-polluters-into-stormwater-compliance) by [gretchengehrke](../profile/gretchengehrke)
 - [Case Study: Ecological Assessment and Management  using Balloon- and Kite-collected Aerial Images](/notes/gretchengehrke/07-24-2015/case-study-ecological-assessment-and-management-using-balloon-and-kite-collected-aerial-images) by [gretchengehrke](../profile/gretchengehrke)

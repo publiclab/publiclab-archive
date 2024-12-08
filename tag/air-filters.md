@@ -1,6 +1,6 @@
 # air-filters
 
-5 notes and wiki pages
+5 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [DIY Indoor Air Remediation Kit](/wiki/diy-indoor-air-quality-remediation-kit) (wiki)
 - [Inexpensive HEPA Filter Fan project to reduce air pollution](/notes/Melissa/08-26-2015/inexpensive-hepa-filter-fan-project-to-reduce-air-pollution) by [Melissa](../profile/Melissa)

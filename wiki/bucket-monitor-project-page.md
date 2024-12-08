@@ -1,12 +1,18 @@
 ---
-nid: 24787
 title: Bucket Monitor 
-path: public/static/wiki/bucket-monitor-project-page.md
+tagnames: project, air-quality-projects
+author: kgradow1
+path: /wiki/bucket-monitor-project-page.md
+nid: 24787
 uid: 297929
-tagnames: project,air-quality-projects
+
 ---
 
 # Bucket Monitor 
+
+by [kgradow1](../profile/kgradow1)
+
+October 21, 2020 19:58 | Tags: [project](../tag/project), [air-quality-projects](../tag/air-quality-projects)
 
 The “bucket” is a low-cost, community-friendly air sampler that helps people measure toxic chemicals such as benzene and hydrogen sulfide in their air. Developed in the late 1990s, it was one of the first (if not the very first) do-it-together environmental monitors. Communities living near oil refineries and petrochemical plants gathered to build their own buckets. They established phone trees to make sure that, when noxious fumes enveloped their neighborhood, someone would take a sample. 
 

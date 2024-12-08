@@ -1,6 +1,6 @@
 # water-quality-sensor
 
-21 notes and wiki pages
+21 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Water Hackathon](/wiki/water-hackathon-pachube-and-ushahidi) (wiki)
 - [Water Hackathon NYC Scribble Feed](/notes/shannon/3-27-2012/water-hackathon-nyc-scribble-feed) by [Shannon](../profile/Shannon)

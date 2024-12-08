@@ -1,12 +1,18 @@
 ---
-nid: 9990
 title: Zone X
-path: public/static/notes/agann3/01-30-2014/zone-x.md
+tagnames: architecture, memphis
+author: agann3
+path: /notes/agann3/01-30-2014/zone-x.md
+nid: 9990
 uid: 420538
-tagnames: architecture,memphis
+
 ---
 
 # Zone X
+
+by [agann3](../profile/agann3) January 30, 2014 21:10
+
+January 30, 2014 21:10 | Tags: [architecture](../tag/architecture), [memphis](../tag/memphis)
 
 I want to uncover the potential stimulation of urban revitalization within an area demarcated on the FEMA flood maps called Zone X, which claims to be "protected by the levees but subject to flood during extreme floods" 
 

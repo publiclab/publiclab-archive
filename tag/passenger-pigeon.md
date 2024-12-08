@@ -1,6 +1,6 @@
 # passenger-pigeon
 
-15 notes and wiki pages
+15 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [NDVI-NRG infrared tests from an airplane](/notes/warren/3-15-2011/ndvi-nrg-infrared-tests-airplane) by [warren](../profile/warren)
 - [the Hills have Acne: passenger pigeon photos of drill sites out West](/notes/eustatic/5-10-2012/hills-have-acne-passenger-pigeon-photos-drill-sites-out-west) by [eustatic](../profile/eustatic)

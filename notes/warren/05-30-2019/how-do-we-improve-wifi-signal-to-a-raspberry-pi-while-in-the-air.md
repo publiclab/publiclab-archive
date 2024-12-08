@@ -1,12 +1,18 @@
 ---
-nid: 19579
 title: How do we improve WiFi signal to a Raspberry Pi while in the air?
-path: public/static/notes/warren/05-30-2019/how-do-we-improve-wifi-signal-to-a-raspberry-pi-while-in-the-air.md
+tagnames: pi-camera, wifi, question:pi-camera, antenna, downlink
+author: warren
+path: /notes/warren/05-30-2019/how-do-we-improve-wifi-signal-to-a-raspberry-pi-while-in-the-air.md
+nid: 19579
 uid: 1
-tagnames: pi-camera,wifi,question:pi-camera,antenna,downlink
+
 ---
 
 # How do we improve WiFi signal to a Raspberry Pi while in the air?
+
+by [warren](../profile/warren) May 30, 2019 15:30
+
+May 30, 2019 15:30 | Tags: [pi-camera](../tag/pi-camera), [wifi](../tag/wifi), [question:pi-camera](../tag/question:pi-camera), [antenna](../tag/antenna), [downlink](../tag/downlink)
 
 The #pi-camera Raspberry Pi cameras people are starting to use can do live Wifi streaming video if you can get a signal, but I found that the signal didn't reach once it was really up in the air. 
 

@@ -1,12 +1,16 @@
 ---
-nid: 24228
 title: post-chooser
-path: public/static/feature/post-chooser.md
-uid: 1
 tagnames: choose-screen
+author: warren
+path: /feature/post-chooser.md
+nid: 24228
+uid: 1
+
 ---
 
 # post-chooser
+
+July 28, 2020 16:12 | Tags: [choose-screen](../tag/choose-screen)
 
 <div id="choose-screen">
 

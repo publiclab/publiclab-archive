@@ -1,6 +1,6 @@
 # outreachy-2019-proposals
 
-12 notes and wiki pages
+12 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Outreachy'19 Proposal: Public Lab UI Improvements](/notes/IshaGupta18/03-22-2019/outreachy-19-proposal-public-lab-ui-improvements) by [IshaGupta18](../profile/IshaGupta18)
 - [Outreachy proposal: PublicLab.org UI Improvements](/notes/divyabaid16/03-23-2019/outreachy-proposal-publiclab-org-ui-improvements) by [divyabaid16](../profile/divyabaid16)

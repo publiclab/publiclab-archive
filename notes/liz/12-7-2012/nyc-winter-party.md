@@ -1,12 +1,18 @@
 ---
-nid: 5151
 title: NYC Winter Party
-path: public/static/notes/liz/12-7-2012/nyc-winter-party.md
-uid: 7
 tagnames: event
+author: liz
+path: /notes/liz/12-7-2012/nyc-winter-party.md
+nid: 5151
+uid: 7
+
 ---
 
 # NYC Winter Party
+
+by [liz](../profile/liz) December 07, 2012 18:54
+
+December 07, 2012 18:54 | Tags: [event](../tag/event)
 
 Dear Public Lab NYC, 
 I hope this holiday season is finding you well! 

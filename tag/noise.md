@@ -1,6 +1,6 @@
 # noise
 
-22 notes and wiki pages
+22 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Attending Frog Church in Violet, Louisiana](/notes/eustatic/02-09-2015/attending-frog-church-in-violet-louisiana) by [eustatic](../profile/eustatic)
 - [Spectrometer Noise](/notes/stoft/04-16-2016/spectrometer-noise) by [stoft](../profile/stoft)
@@ -19,8 +19,3 @@
 - [Studying the impact of a Cineplex in a residential area](/notes/SSamuel/10-01-2018/studying-the-impact-of-a-cineplex-in-a-residential-area) by [SSamuel](../profile/SSamuel)
 - [Topics](/wiki/topics) (wiki)
 - [Map the quiet places near you using Hush City platform](/notes/Hush_City_Mobile_Lab/05-06-2019/map-the-quiet-places-near-you-using-hushcity-platform) by [Hush_City_Mobile_Lab](../profile/Hush_City_Mobile_Lab)
-- [No more - pooking at the room](/notes/noname12345612/05-12-2023/no-more-pooking-at-the-room) by [noname12345612](../profile/noname12345612)
-- [electricity blood](/notes/noname12345612/05-12-2023/electricity-blood) by [noname12345612](../profile/noname12345612)
-- [Hidji](/notes/noname12345612/05-12-2023/hidji) by [noname12345612](../profile/noname12345612)
-- [Deaths count](/notes/noname12345612/05-12-2023/deaths-count) by [noname12345612](../profile/noname12345612)
-- [moderator](/notes/noname12345612/05-12-2023/moderator) by [noname12345612](../profile/noname12345612)

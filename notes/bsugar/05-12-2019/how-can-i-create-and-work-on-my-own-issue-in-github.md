@@ -1,12 +1,18 @@
 ---
-nid: 19308
 title: How can I create and work on my own issue in Github? 
-path: public/static/notes/bsugar/05-12-2019/how-can-i-create-and-work-on-my-own-issue-in-github.md
+tagnames: web-development, github, wwg, question:website
+author: bsugar
+path: /notes/bsugar/05-12-2019/how-can-i-create-and-work-on-my-own-issue-in-github.md
+nid: 19308
 uid: 217812
-tagnames: web-development,github,wwg,question:website
+
 ---
 
 # How can I create and work on my own issue in Github? 
+
+by [bsugar](../profile/bsugar) May 12, 2019 17:57
+
+May 12, 2019 17:57 | Tags: [web-development](../tag/web-development), [github](../tag/github), [wwg](../tag/wwg), [question:website](../tag/question:website)
 
 I have a few features I'd like to make to my recent work on the stats page, as well as seeing if I can implement a bridge between Github and the Public Lab Q&A system.  Both of them have been discussed informally with positive feedback.    
 

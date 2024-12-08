@@ -1,12 +1,18 @@
 ---
-nid: 16199
 title: Splitting the SCOBY
-path: public/static/notes/lait422/04-23-2018/splitting-the-scoby.md
+tagnames: kombucha-leather, replication:15560, first-time-poster
+author: lait422
+path: /notes/lait422/04-23-2018/splitting-the-scoby.md
+nid: 16199
 uid: 531878
-tagnames: kombucha-leather,replication:15560,first-time-poster
+
 ---
 
 # Splitting the SCOBY
+
+by [lait422](../profile/lait422) April 23, 2018 21:21
+
+April 23, 2018 21:21 | Tags: [kombucha-leather](../tag/kombucha-leather), [replication:15560](../tag/replication:15560), [first-time-poster](../tag/first-time-poster)
 
 ![image description](https://publiclab.org/system/images/photos/000/024/698/large/IMG_0954.JPG "IMG_0954.JPG")
 

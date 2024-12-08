@@ -1,11 +1,17 @@
 ---
-nid: 13963
 title: camera-triggering
-path: public/static/wiki/camera-triggering.md
-uid: 1
 tagnames: redirect:800
+author: warren
+path: /wiki/camera-triggering.md
+nid: 13963
+uid: 1
+
 ---
 
 # camera-triggering
+
+by [warren](../profile/warren)
+
+February 26, 2017 18:17 | Tags: [redirect:800](../tag/redirect:800)
 
 Redirect page

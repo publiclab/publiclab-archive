@@ -1,12 +1,18 @@
 ---
-nid: 12041
 title: Measuring Particulate Matter with the Girl Scouts
-path: public/static/notes/nicholas/07-08-2015/measuring-particulate-matter-with-the-girl-scouts.md
+tagnames: air-quality, blog, dust, barnstar:basic, air-sensors
+author: nicholas
+path: /notes/nicholas/07-08-2015/measuring-particulate-matter-with-the-girl-scouts.md
+nid: 12041
 uid: 53894
-tagnames: air-quality,blog,dust,barnstar:basic,air-sensors
+
 ---
 
 # Measuring Particulate Matter with the Girl Scouts
+
+by [nicholas](../profile/nicholas) July 08, 2015 20:42
+
+July 08, 2015 20:42 | Tags: [air-quality](../tag/air-quality), [blog](../tag/blog), [dust](../tag/dust), [barnstar:basic](../tag/barnstar:basic), [air-sensors](../tag/air-sensors)
 
 Girl Scout Troop 5399 is going on a journey to learn about air.  All aspects of air.  To learn more about air, we decided to deploy a dust particle sensor - the Shinyei PPD42S - in downtown Brooklyn.  All of the code, data and report can be found [here on github](https://github.com/nejohnson2/girl_scout_air_quality).
 

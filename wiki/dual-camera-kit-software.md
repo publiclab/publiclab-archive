@@ -1,12 +1,18 @@
 ---
-nid: 1764
 title: Dual Camera Kit Software
-path: public/static/wiki/dual-camera-kit-software.md
-uid: 1
 tagnames: near-infrared-camera
+author: warren
+path: /wiki/dual-camera-kit-software.md
+nid: 1764
+uid: 1
+
 ---
 
 # Dual Camera Kit Software
+
+by [cfastie](../profile/cfastie), [warren](../profile/warren)
+
+April 24, 2012 17:47 | Tags: [near-infrared-camera](../tag/near-infrared-camera)
 
 ###Installing and using CHDK###
 

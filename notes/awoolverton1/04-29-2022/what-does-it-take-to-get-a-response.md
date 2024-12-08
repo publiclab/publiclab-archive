@@ -1,12 +1,18 @@
 ---
-nid: 30660
 title: What Does It Take to Get a Response? 
-path: public/static/notes/awoolverton1/04-29-2022/what-does-it-take-to-get-a-response.md
+tagnames: gulf-coast, reporting, air-quality, formosaplastics, ldeq
+author: awoolverton1
+path: /notes/awoolverton1/04-29-2022/what-does-it-take-to-get-a-response.md
+nid: 30660
 uid: 778039
-tagnames: gulf-coast,reporting,air-quality,formosaplastics,ldeq
+
 ---
 
 # What Does It Take to Get a Response? 
+
+by [awoolverton1](../profile/awoolverton1) April 29, 2022 19:11
+
+April 29, 2022 19:11 | Tags: [gulf-coast](../tag/gulf-coast), [reporting](../tag/reporting), [air-quality](../tag/air-quality), [formosaplastics](../tag/formosaplastics), [ldeq](../tag/ldeq)
 
 In
 Louisiana, the burden of regulating our air and water quality repeatedly falls

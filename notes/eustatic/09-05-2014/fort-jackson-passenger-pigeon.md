@@ -1,12 +1,18 @@
 ---
-nid: 11109
 title: Fort Jackson Passenger Pigeon
-path: public/static/notes/eustatic/09-05-2014/fort-jackson-passenger-pigeon.md
+tagnames: gulf-coast, mapknitter, passenger-pigeon
+author: eustatic
+path: /09-05-2014/fort-jackson-passenger-pigeon.md
+nid: 11109
 uid: 379
-tagnames: gulf-coast,mapknitter,passenger-pigeon
+
 ---
 
 # Fort Jackson Passenger Pigeon
+
+by [eustatic](../profile/eustatic) September 05, 2014 19:06
+
+September 05, 2014 19:06 | Tags: [gulf-coast](../tag/gulf-coast), [mapknitter](../tag/mapknitter), [passenger-pigeon](../tag/passenger-pigeon)
 
 ###What I want to do
 

@@ -3,6 +3,8 @@ uid: 46525
 created_at: 2013-09-28 20:57:09 UTC
 ---
 
+# Markos
+
 I am Chemist and have worked with the "Water" in the last 10 years.
 
 I use Linux and the programming language Tcl/Tk to automate experimental setups in lab and analysis of water, in studis about treatability of wastewater.
@@ -20,4 +22,4 @@ Markos
 
 ----
 
-[Klorauto - Automated Chlorination](/notes/Markos/08-24-2015/klorauto-automated-chlorination)
+- [Klorauto - Automated Chlorination](/notes/Markos/08-24-2015/klorauto-automated-chlorination)

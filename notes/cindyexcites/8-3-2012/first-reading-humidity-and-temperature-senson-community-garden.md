@@ -1,12 +1,18 @@
 ---
-nid: 3124
 title: First reading from the humidity and temperature sensor @ the community garden
-path: public/static/notes/cindyexcites/8-3-2012/first-reading-humidity-and-temperature-senson-community-garden.md
+tagnames: arduino, diy, humidity-and-temperature-sensor
+author: cindy_excites
+path: /notes/cindyexcites/8-3-2012/first-reading-humidity-and-temperature-senson-community-garden.md
+nid: 3124
 uid: 1083
-tagnames: arduino,diy,humidity-and-temperature-sensor
+
 ---
 
 # First reading from the humidity and temperature sensor @ the community garden
+
+by [cindy_excites](../profile/cindy_excites) August 03, 2012 22:11
+
+August 03, 2012 22:11 | Tags: [arduino](../tag/arduino), [diy](../tag/diy), [humidity-and-temperature-sensor](../tag/humidity-and-temperature-sensor)
 
 On the 1st of August we prototyped and installed a humidity and temperature sensor at the Mildmay Community Centre (MCC) garden. The <a href="http://www.tigoe.com/pcomp/code/arduinowiring/1043/">Arduino-based sensor uses a DHT11 humidity and temperature sensor</a> and records to a micro SD card.
 

@@ -1,12 +1,18 @@
 ---
-nid: 8878
 title: Public Lab community newsletter 7.14.13
-path: public/static/notes/Shannon/07-14-2013/public-lab-community-newsletter-7-14-13.md
+tagnames: newsletter, newsletter-archive
+author: Shannon
+path: /notes/Shannon/07-14-2013/public-lab-community-newsletter-7-14-13.md
+nid: 8878
 uid: 9
-tagnames: newsletter,newsletter-archive
+
 ---
 
 # Public Lab community newsletter 7.14.13
+
+by [Shannon](../profile/Shannon) July 14, 2013 15:36
+
+July 14, 2013 15:36 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
 
 In the Public Lab newsletter this week, listen to a story on challenging a nuclear power plant permit with kite imagery, sign-up for the 2013 barnraising, pre-order  an Infragram filter pack and check out new infrared photography and spectrometry projects being done by the community. Enjoy!
 

@@ -1,12 +1,18 @@
 ---
-nid: 26004
 title: Call for 2021 GSoC proposals
-path: public/static/notes/cess/03-24-2021/call-for-2021-gsoc-proposals.md
+tagnames: gsoc, with:warren, with:liz, call-for-proposals, zoom:6, soc-2021, with:ruthnwaiganjo, gsoc-2021
+author: cess
+path: /notes/cess/03-24-2021/call-for-2021-gsoc-proposals.md
+nid: 26004
 uid: 525958
-tagnames: gsoc,with:warren,with:liz,call-for-proposals,zoom:6,soc-2021,with:ruthnwaiganjo,gsoc-2021
+
 ---
 
 # Call for 2021 GSoC proposals
+
+by [cess](../profile/cess) March 24, 2021 14:49
+
+March 24, 2021 14:49 | Tags: [gsoc](../tag/gsoc), [with:warren](../tag/with:warren), [with:liz](../tag/with:liz), [call-for-proposals](../tag/call-for-proposals), [zoom:6](../tag/zoom:6), [soc-2021](../tag/soc-2021), [with:ruthnwaiganjo](../tag/with:ruthnwaiganjo), [gsoc-2021](../tag/gsoc-2021)
 
 ### Google Summer of Code 2021
 

@@ -1,12 +1,18 @@
 ---
-nid: 374
 title: Nieman Lab: The MacGyver method: With News Challenge funding, The Public Lab is building up its civic media toolkit
-path: public/static/notes/warren/7-8-2011/nieman-lab-macgyver-method-news-challenge-funding-public-lab-building-its-civi.md
-uid: 1
 tagnames: 
+author: warren
+path: /notes/warren/7-8-2011/nieman-lab-macgyver-method-news-challenge-funding-public-lab-building-its-civi.md
+nid: 374
+uid: 1
+
 ---
 
 # Nieman Lab: The MacGyver method: With News Challenge funding, The Public Lab is building up its civic media toolkit
+
+by [warren](../profile/warren) July 08, 2011 09:23
+
+July 08, 2011 09:23 | Tags: 
 
 Megan Garber of the [Nieman Journalism Lab](http://www.niemanlab.org/2011/07/the-macgyver-method-with-news-challenge-funding-the-public-lab-is-building-up-its-civic-media-toolkit/) posted a writeup on our recent Knight News Challenge grant along with some thoughts on civic technologies:
 

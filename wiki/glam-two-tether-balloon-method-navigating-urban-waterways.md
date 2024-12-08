@@ -1,12 +1,18 @@
 ---
-nid: 11585
 title: GLAM Two-Tether Balloon Method: navigating urban waterways 
-path: public/static/wiki/glam-two-tether-balloon-method-navigating-urban-waterways.md
+tagnames: balloon-mapping, gowanus, gowanus-canal-superfund-site, glam, style:fancy, with:natasia, with:liz, two-tether
+author: mollydanielsson
+path: /wiki/glam-two-tether-balloon-method-navigating-urban-waterways.md
+nid: 11585
 uid: 1259
-tagnames: balloon-mapping,gowanus,gowanus-canal-superfund-site,glam,style:fancy,with:natasia,with:liz,two-tether
+
 ---
 
 # GLAM Two-Tether Balloon Method: navigating urban waterways 
+
+by [mollydanielsson](../profile/mollydanielsson)
+
+February 14, 2015 01:33 | Tags: [balloon-mapping](../tag/balloon-mapping), [gowanus](../tag/gowanus), [gowanus-canal-superfund-site](../tag/gowanus-canal-superfund-site), [glam](../tag/glam), [style:fancy](../tag/style:fancy), [with:natasia](../tag/with:natasia), [with:liz](../tag/with:liz), [two-tether](../tag/two-tether)
 
 **Published in 2013** [Grassroots Mapping Forum#4.](http://publiclab.org/forum)
 

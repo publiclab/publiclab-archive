@@ -1,12 +1,18 @@
 ---
-nid: 597
 title: Spectral Workbench download
-path: public/static/wiki/spectral-workbench-download.md
-uid: 1
 tagnames: 
+author: warren
+path: /wiki/spectral-workbench-download.md
+nid: 597
+uid: 1
+
 ---
 
 # Spectral Workbench download
+
+by [warren](../profile/warren)
+
+November 29, 2011 20:06 | Tags: 
 
 
 ###The downloadable version of Spectral Workbench has been retired in favor of the web-based version###

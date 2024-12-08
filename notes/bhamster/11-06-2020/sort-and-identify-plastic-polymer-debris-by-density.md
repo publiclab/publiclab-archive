@@ -1,12 +1,18 @@
 ---
-nid: 24709
 title: Sort and identify plastic polymer debris by density
-path: public/static/notes/bhamster/11-06-2020/sort-and-identify-plastic-polymer-debris-by-density.md
+tagnames: micro-plastics, microplastics, plastics, polymers, plastic, activity:microplastics, marine-debris, plastic-pollution, method:microplastics
+author: bhamster
+path: /notes/bhamster/11-06-2020/sort-and-identify-plastic-polymer-debris-by-density.md
+nid: 24709
 uid: 664477
-tagnames: micro-plastics,microplastics,plastics,polymers,plastic,activity:microplastics,marine-debris,plastic-pollution,method:microplastics
+
 ---
 
 # Sort and identify plastic polymer debris by density
+
+by [bhamster](../profile/bhamster) November 06, 2020 17:01
+
+November 06, 2020 17:01 | Tags: [micro-plastics](../tag/micro-plastics), [microplastics](../tag/microplastics), [plastics](../tag/plastics), [polymers](../tag/polymers), [plastic](../tag/plastic), [activity:microplastics](../tag/activity:microplastics), [marine-debris](../tag/marine-debris), [plastic-pollution](../tag/plastic-pollution), [method:microplastics](../tag/method:microplastics)
 
 _This activity was developed by Daniel Brendle-Moczuk and is posted here with permission and extra background information. Daniel is the geospatial librarian at the University of Victoria in BC, Canada, and studies plastic pellet pollution with the Surfrider Foundation of Vancouver Island. He specializes in geography and environmental studies. The original PDF of the activity embedded at the bottom of the page contains Daniel's contact information._
 

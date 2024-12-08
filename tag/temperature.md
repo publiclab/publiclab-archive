@@ -1,6 +1,6 @@
 # temperature
 
-30 notes and wiki pages
+30 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Thermal flashlight tests at the p.irateship](/notes/warren/12-12-2011/thermal-flashlight-tests-pirateship) by [warren](../profile/warren)
 - [Analytics on aerial images -- using filesize](/notes/warren/6-20-2012/analytics-aerial-images-using-filesize) by [warren](../profile/warren)
@@ -21,8 +21,6 @@
 - [In the heat of the pile](/notes/cfastie/06-15-2016/in-the-heat-of-the-pile) by [cfastie](../profile/cfastie)
 - [What are ways to record ambient temperature every 5 sec and export easily?](/notes/carohowe/07-13-2017/what-are-ways-to-record-ambient-temperature-every-5-sec-and-export-easily) by [carohowe](../profile/carohowe)
 - [Seeking DC-area folks interested in building temperature sensors for urban heat island measurement](/notes/carohowe/07-14-2017/seeking-dc-area-folks-interested-in-building-temperature-sensors-for-urban-heat-island-measurement) by [carohowe](../profile/carohowe)
-- [DHT21 / AM2301 sensor not measuring humidity](/notes/mozobata/07-19-2017/dht21-am2301-sensor-not-measuring-humidity) by [mozobata](../profile/mozobata)
-- [Constant power supply with countdown timer triggered by a momentary switch](/notes/miyayoung/07-28-2017/constant-power-supply-with-countdown-timer-triggered-by-a-momentary-switch) by [miyayoung](../profile/miyayoung)
 - [Suggestions for a temperature sensor for surface (stone) measurements?](/notes/MadTinker/09-08-2017/suggestions-for-a-temperature-sensor-for-surface-stone-measurements) by [MadTinker](../profile/MadTinker)
 - [Knowflow组装（一）——pH和温度监测](/notes/incaking/11-29-2017/knowflow-ph) by [incaking](../profile/incaking)
 - [Putting sensor data to work](/notes/cfastie/12-03-2017/putting-sensor-data-to-work) by [cfastie](../profile/cfastie)
@@ -31,4 +29,3 @@
 - [LaMotte and Earth Force low cost Water Monitoring kit](/notes/stevie/04-18-2018/lamotte-and-earth-force-low-cost-water-monitoring-kit) by [stevie](../profile/stevie)
 - [Any experience with knockoff temperature sensors?](/notes/wln215/11-22-2019/any-experience-with-knockoff-temperature-sensors) by [wln215](../profile/wln215)
 - [Does anyone aware of heat sensors that can record INDOOR heat intensity at 5-10 minutes intervals?](/notes/Filipaul/02-26-2020/does-anyone-aware-of-heat-sensors-that-can-record-indoor-heat-intensity-at-5-10-minutes-intervals) by [Filipaul](../profile/Filipaul)
-- [[![view_tech_cover.jpg](/i/43313)](/i/43313?s=o)[Viewtech](https://www.viewtech.ca) are Specialists in installing CCTV Security Cameras, Automation, Intercom and Low Voltage Systems for both Residential and Commercial Sector.[https://www.viewtech.ca](http](/notes/brownamelia137/04-15-2021/view_tech_cover-jpg-i-43313-i-43313-s-o-viewtech-https-www-viewtech-ca-are-specialists-in-installing-cctv-security-cameras-automation-intercom-and-low-voltage-systems-for-both-residential-and-commercial-sector-https-www-vi) by [brownamelia137](../profile/brownamelia137)

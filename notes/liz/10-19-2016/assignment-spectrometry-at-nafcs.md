@@ -1,11 +1,17 @@
 ---
-nid: 13586
 title: Assignment: spectrometry at NAFCS
-path: public/static/notes/liz/10-19-2016/assignment-spectrometry-at-nafcs.md
+tagnames: classroom, seeks:responses, assignment, assignment:spectrometry, response:15121
+author: liz
+path: /notes/liz/10-19-2016/assignment-spectrometry-at-nafcs.md
+nid: 13586
 uid: 7
-tagnames: classroom,seeks:responses,assignment,assignment:spectrometry,response:15121
+
 ---
 
 # Assignment: spectrometry at NAFCS
+
+by [liz](../profile/liz) October 19, 2016 14:50
+
+October 19, 2016 14:50 | Tags: [classroom](../tag/classroom), [seeks:responses](../tag/seeks:responses), [assignment](../tag/assignment), [assignment:spectrometry](../tag/assignment:spectrometry), [response:15121](../tag/response:15121)
 
 This is a class exercise. Please post your first spectra as responses to this post. 

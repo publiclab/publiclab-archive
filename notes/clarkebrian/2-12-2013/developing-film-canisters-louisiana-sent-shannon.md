@@ -1,12 +1,18 @@
 ---
-nid: 5960
 title: Developing film canisters from Louisiana sent by Shannon
-path: public/static/notes/clarkebrian/2-12-2013/developing-film-canisters-louisiana-sent-shannon.md
+tagnames: boston, northeastern-university
+author: Clarke_Brian
+path: /notes/clarkebrian/2-12-2013/developing-film-canisters-louisiana-sent-shannon.md
+nid: 5960
 uid: 48632
-tagnames: boston,northeastern-university
+
 ---
 
 # Developing film canisters from Louisiana sent by Shannon
+
+by [Clarke_Brian](../profile/Clarke_Brian) February 12, 2013 21:46
+
+February 12, 2013 21:46 | Tags: [boston](../tag/boston), [northeastern-university](../tag/northeastern-university)
 
 The first image shows the canisters as they arrived from Louisiana. To differentiate one set from the other, two dashes were drawn on the canisters ranging from 1= to 6B=.  
 The next series of photos consists of the strips once they had been removed from the canisters and developed. 

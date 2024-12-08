@@ -1,12 +1,18 @@
 ---
-nid: 10050
 title: Mapping a Human Scaled World
-path: public/static/notes/eymund/02-20-2014/mapping-a-human-scaled-world.md
-uid: 1016
 tagnames: 
+author: eymund
+path: /notes/eymund/02-20-2014/mapping-a-human-scaled-world.md
+nid: 10050
+uid: 1016
+
 ---
 
 # Mapping a Human Scaled World
+
+by [eymund](../profile/eymund) February 20, 2014 17:54
+
+February 20, 2014 17:54 | Tags: 
 
 In February 2014,  [Alberto Minujin](http://www.newschool.edu/public-engagement/faculty-list/?id=87826) at the Milano School of International Affairs, Management and Urban Policy (The New School) convened a panel to discuss community, political and technical lessons learned from ongoing cleanup of the Gowanus Canal Superfund Site, and what lessons could be applied to a similar program of cleaning the [Matanza-Riachuelo River](http://www.argentinaindependent.com/socialissues/environment/troubled-waters-the-matanza-riachuelo-river-basin/), a polluted area in Greater Buenos Aires, Argentina.
 

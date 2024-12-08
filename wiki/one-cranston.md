@@ -1,12 +1,18 @@
 ---
-nid: 19000
 title: One Cranston
-path: public/static/wiki/one-cranston.md
+tagnames: place, location:blurred, lat:41.7900, lon:-71.4570, redirect:onecranston
+author: warren
+path: /wiki/one-cranston.md
+nid: 19000
 uid: 1
-tagnames: place,location:blurred,lat:41.7900,lon:-71.4570,redirect:onecranston
+
 ---
 
 # One Cranston
+
+by [warren](../profile/warren)
+
+April 08, 2019 19:33 | Tags: [place](../tag/place), [location:blurred](../tag/location:blurred), [lat:41.7900](../tag/lat:41.7900), [lon:-71.4570](../tag/lon:-71.4570), [redirect:onecranston](../tag/redirect:onecranston)
 
 > OneCranston is an initiative looking to build racial and social equity to help establish social cohesion across the City to gain economic mobility, with the Comprehensive Community Action Program as it’s backbone agency. ([source](https://www.livingcities.org/blog/1303-building-onecranston-through-collective-impact))
 

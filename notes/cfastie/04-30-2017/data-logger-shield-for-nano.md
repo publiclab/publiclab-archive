@@ -1,12 +1,18 @@
 ---
-nid: 14152
 title: Data logger shield for Nano
-path: public/static/notes/cfastie/04-30-2017/data-logger-shield-for-nano.md
+tagnames: arduino, sensors, data-logging, activity:arduino, activity:datalogger, arduino-nano, response:14135, nano-data-logger, bme280, activity:nano-data-logger, bmp280
+author: cfastie
+path: /notes/cfastie/04-30-2017/data-logger-shield-for-nano.md
+nid: 14152
 uid: 554
-tagnames: arduino,sensors,data-logging,activity:arduino,activity:datalogger,arduino-nano,response:14135,nano-data-logger,bme280,activity:nano-data-logger,bmp280
+
 ---
 
 # Data logger shield for Nano
+
+by [cfastie](../profile/cfastie) April 30, 2017 17:07
+
+April 30, 2017 17:07 | Tags: [arduino](../tag/arduino), [sensors](../tag/sensors), [data-logging](../tag/data-logging), [activity:arduino](../tag/activity:arduino), [activity:datalogger](../tag/activity:datalogger), [arduino-nano](../tag/arduino-nano), [response:14135](../tag/response:14135), [nano-data-logger](../tag/nano-data-logger), [bme280](../tag/bme280), [activity:nano-data-logger](../tag/activity:nano-data-logger), [bmp280](../tag/bmp280)
 
 *Above: The data logger shield (left) snaps onto an Arduino Nano (right).*
 

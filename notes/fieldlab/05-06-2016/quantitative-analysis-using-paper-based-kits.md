@@ -1,12 +1,18 @@
 ---
-nid: 13083
 title: Quantitative analysis using paper-based kits
-path: public/static/notes/fieldlab/05-06-2016/quantitative-analysis-using-paper-based-kits.md
+tagnames: nitrate, colorimetry, paper, phosphorus, runoff, new-zealand, nz, question:nitrate, question:agricultre, question:runoff, question:colorimetry, first-time-poster, question:nitrogen
+author: fieldlab
+path: /notes/fieldlab/05-06-2016/quantitative-analysis-using-paper-based-kits.md
+nid: 13083
 uid: 446122
-tagnames: nitrate,colorimetry,paper,phosphorus,runoff,new-zealand,nz,question:nitrate,question:agricultre,question:runoff,question:colorimetry,first-time-poster,question:nitrogen
+
 ---
 
 # Quantitative analysis using paper-based kits
+
+by [fieldlab](../profile/fieldlab) May 06, 2016 07:01
+
+May 06, 2016 07:01 | Tags: [nitrate](../tag/nitrate), [colorimetry](../tag/colorimetry), [paper](../tag/paper), [phosphorus](../tag/phosphorus), [runoff](../tag/runoff), [new-zealand](../tag/new-zealand), [nz](../tag/nz), [question:nitrate](../tag/question:nitrate), [question:agricultre](../tag/question:agricultre), [question:runoff](../tag/question:runoff), [question:colorimetry](../tag/question:colorimetry), [first-time-poster](../tag/first-time-poster), [question:nitrogen](../tag/question:nitrogen)
 
 Can anyone answer some questions for me about quantitative analysis using paper based kits? I'm interested in the idea of using cameras (or a spectrometer) to provide quantitative data by transmitting light though paper rather than solution.
 

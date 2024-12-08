@@ -1,12 +1,18 @@
 ---
-nid: 11298
 title: Mapping the Nature Center
-path: public/static/notes/eustatic/10-24-2014/mapping-the-nature-center.md
+tagnames: gulf-coast, balloon-mapping, mobius, urbanwaters, epaurbanwater
+author: eustatic
+path: /10-24-2014/mapping-the-nature-center.md
+nid: 11298
 uid: 379
-tagnames: gulf-coast,balloon-mapping,mobius,urbanwaters,epaurbanwater
+
 ---
 
 # Mapping the Nature Center
+
+by [eustatic](../profile/eustatic) October 24, 2014 02:01
+
+October 24, 2014 02:01 | Tags: [gulf-coast](../tag/gulf-coast), [balloon-mapping](../tag/balloon-mapping), [mobius](../tag/mobius), [urbanwaters](../tag/urbanwaters), [epaurbanwater](../tag/epaurbanwater)
 
 ###What I want to do
 

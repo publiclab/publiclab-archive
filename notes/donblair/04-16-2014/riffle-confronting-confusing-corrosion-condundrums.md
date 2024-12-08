@@ -1,12 +1,18 @@
 ---
-nid: 10318
 title: RIFFLE: Confronting Confusing Corrosion Condundrums
-path: public/static/notes/donblair/04-16-2014/riffle-confronting-confusing-corrosion-condundrums.md
+tagnames: water-quality, water-monitoring, conductivity, riffle, open-water, coqui, corrosion
+author: donblair
+path: /notes/donblair/04-16-2014/riffle-confronting-confusing-corrosion-condundrums.md
+nid: 10318
 uid: 43651
-tagnames: water-quality,water-monitoring,conductivity,riffle,open-water,coqui,corrosion
+
 ---
 
 # RIFFLE: Confronting Confusing Corrosion Condundrums
+
+by [donblair](../profile/donblair) April 16, 2014 02:09
+
+April 16, 2014 02:09 | Tags: [water-quality](../tag/water-quality), [water-monitoring](../tag/water-monitoring), [conductivity](../tag/conductivity), [riffle](../tag/riffle), [open-water](../tag/open-water), [coqui](../tag/coqui), [corrosion](../tag/corrosion)
 
 ###What I want to do
 

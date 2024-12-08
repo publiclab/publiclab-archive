@@ -1,12 +1,18 @@
 ---
-nid: 12652
 title: SEM stub monitor for particulate matter
-path: public/static/wiki/sem-stub-pm.md
+tagnames: particulate-sensing, dust, particulates, particulate, pm, passive-pm, sem-stub
+author: mathew
+path: /wiki/sem-stub-pm.md
+nid: 12652
 uid: 4
-tagnames: particulate-sensing,dust,particulates,particulate,pm,passive-pm,sem-stub
+
 ---
 
 # SEM stub monitor for particulate matter
+
+by [warren](../profile/warren), [stevie](../profile/stevie), [mathew](../profile/mathew)
+
+February 04, 2016 00:17 | Tags: [particulate-sensing](../tag/particulate-sensing), [dust](../tag/dust), [particulates](../tag/particulates), [particulate](../tag/particulate), [pm](../tag/pm), [passive-pm](../tag/passive-pm), [sem-stub](../tag/sem-stub)
 
 In field testing, these samplers have been demonstrated to vary (CV) only 11.6% from [Federal Reference Methods](https://publiclab.org/wiki/pm-monitoring-regulations#The+Federal+Reference+Methods:), when measuring course particulates (PM10-2.5), making this the most precise published passive particle monitor design [7].  Public Lab is evaluating the deployment of this technology. 
 

@@ -1,12 +1,18 @@
 ---
-nid: 17002
 title: 谷仓聚会 Barnraising Guangzhou, China
-path: public/static/wiki/barnraising-guangzhou-china.md
+tagnames: barnraising, asia, parent:barnraising, guangzhou, china, lang:zh
+author: shanlter
+path: /wiki/barnraising-guangzhou-china.md
+nid: 17002
 uid: 420999
-tagnames: barnraising,asia,parent:barnraising,guangzhou,china,lang:zh
+
 ---
 
 # 谷仓聚会 Barnraising Guangzhou, China
+
+by [stevie](../profile/stevie), [shanlter](../profile/shanlter), [Shannon](../profile/Shannon)
+
+August 28, 2018 06:58 | Tags: [barnraising](../tag/barnraising), [asia](../tag/asia), [parent:barnraising](../tag/parent:barnraising), [guangzhou](../tag/guangzhou), [china](../tag/china), [lang:zh](../tag/lang:zh)
 
 (This is a bilingual event, for English information please visit https://publiclab.org/barnraising)
 

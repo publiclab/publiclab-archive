@@ -1,12 +1,18 @@
 ---
-nid: 4925
 title: Barnraising: Liz Barry talks Gowanus Canal
-path: public/static/notes/mathew/11-15-2012/barnraising-liz-barry-talks-gowanus-canal.md
+tagnames: balloon-mapping, kite-mapping, barnraising, barnraising2012, epa
+author: mathew
+path: /notes/mathew/11-15-2012/barnraising-liz-barry-talks-gowanus-canal.md
+nid: 4925
 uid: 4
-tagnames: balloon-mapping,kite-mapping,barnraising,barnraising2012,epa
+
 ---
 
 # Barnraising: Liz Barry talks Gowanus Canal
+
+by [mathew](../profile/mathew) November 16, 2012 03:19
+
+November 16, 2012 03:19 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [barnraising](../tag/barnraising), [barnraising2012](../tag/barnraising2012), [epa](../tag/epa)
 
 These would ideally go with Liz's slides *hint*
 

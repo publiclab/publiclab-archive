@@ -1,12 +1,18 @@
 ---
-nid: 12554
 title:  GUI code for connecting your computer to your microcontroller.
-path: public/static/notes/JSummers/01-01-2016/gui-code-for-connecting-your-computer-to-your-microcontroller.md
+tagnames: processing, datalogger, interface, microcontroller, graphic, user, graphic-user-interface, response:11822
+author: JSummers
+path: /notes/JSummers/01-01-2016/gui-code-for-connecting-your-computer-to-your-microcontroller.md
+nid: 12554
 uid: 304279
-tagnames: processing,datalogger,interface,microcontroller,graphic,user,graphic-user-interface,response:11822
+
 ---
 
 #  GUI code for connecting your computer to your microcontroller.
+
+by [JSummers](../profile/JSummers) January 01, 2016 20:27
+
+January 01, 2016 20:27 | Tags: [processing](../tag/processing), [datalogger](../tag/datalogger), [interface](../tag/interface), [microcontroller](../tag/microcontroller), [graphic](../tag/graphic), [user](../tag/user), [graphic-user-interface](../tag/graphic-user-interface), [response:11822](../tag/response:11822)
 
 ###What I want to do:
 This research note is one in a series that is intended to help people start writing code for graphic user interfaces (GUIs) to control and communicate with their microcontrollers.  We use the program "Processing" to write our GUIs.  The rest of the series can be accessed from links on this [wiki page](https://publiclab.org/wiki/creating-graphic-user-interfaces-guis). 

@@ -1,12 +1,18 @@
 ---
-nid: 598
 title: Spectral Workbench usage
-path: public/static/wiki/spectral-workbench-usage.md
+tagnames: spectrometer, spectralworkbench, upload, red, parent:spectral-workbench, uvc, manual, save
+author: warren
+path: /wiki/spectral-workbench-usage.md
+nid: 598
 uid: 1
-tagnames: spectrometer,spectralworkbench,upload,red,parent:spectral-workbench,uvc,manual,save
+
 ---
 
 # Spectral Workbench usage
+
+by [joyofsoy](../profile/joyofsoy), [warren](../profile/warren), [jiwon](../profile/jiwon), [MirianCelia](../profile/MirianCelia), [mathew](../profile/mathew), [100ideas](../profile/100ideas)
+
+November 30, 2011 00:06 | Tags: [spectrometer](../tag/spectrometer), [spectralworkbench](../tag/spectralworkbench), [upload](../tag/upload), [red](../tag/red), [parent:spectral-workbench](../tag/parent:spectral-workbench), [uvc](../tag/uvc), [manual](../tag/manual), [save](../tag/save)
 
 ## Basics
 

@@ -1,12 +1,18 @@
 ---
-nid: 11829
 title: Formaldehyde Exposure
-path: public/static/wiki/formaldehyde-exposure.md
+tagnames: formaldehyde, wherewebreathe, literature-review, wwb, indoor-air-quality, parent:indoor-air-quality-monitoring
+author: warren
+path: /wiki/formaldehyde-exposure.md
+nid: 11829
 uid: 1
-tagnames: formaldehyde,wherewebreathe,literature-review,wwb,indoor-air-quality,parent:indoor-air-quality-monitoring
+
 ---
 
 # Formaldehyde Exposure
+
+by [nshapiro](../profile/nshapiro), [liz](../profile/liz), [mathew](../profile/mathew), [novakn](../profile/novakn), [warren](../profile/warren)
+
+May 22, 2015 19:33 | Tags: [formaldehyde](../tag/formaldehyde), [wherewebreathe](../tag/wherewebreathe), [literature-review](../tag/literature-review), [wwb](../tag/wwb), [indoor-air-quality](../tag/indoor-air-quality), [parent:indoor-air-quality-monitoring](../tag/parent:indoor-air-quality-monitoring)
 
 ###What is formaldehyde?
 

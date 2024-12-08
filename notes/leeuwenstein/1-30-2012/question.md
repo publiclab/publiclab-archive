@@ -1,12 +1,18 @@
 ---
-nid: 731
 title: QUESTION?
-path: public/static/notes/leeuwenstein/1-30-2012/question.md
-uid: 480
 tagnames: first-time-poster
+author: leeuwenstein
+path: /notes/leeuwenstein/1-30-2012/question.md
+nid: 731
+uid: 480
+
 ---
 
 # QUESTION?
+
+by [leeuwenstein](../profile/leeuwenstein) January 30, 2012 19:00
+
+January 30, 2012 19:00 | Tags: [first-time-poster](../tag/first-time-poster)
 
 Can some one help me with the spectrophoto meter,I am a dutchman so sorry for the english.
 

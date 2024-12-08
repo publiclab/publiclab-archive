@@ -1,12 +1,18 @@
 ---
-nid: 13107
 title: Public Lab River Rat Pack—St. Louis – Xiaoxin Cao 
-path: public/static/notes/Xiaoxin/05-12-2016/public-lab-river-rat-pack-st-louis-xiaoxin-cao.md
-uid: 473370
 tagnames: publiclabriverratpack
+author: Xiaoxin
+path: /notes/Xiaoxin/05-12-2016/public-lab-river-rat-pack-st-louis-xiaoxin-cao.md
+nid: 13107
+uid: 473370
+
 ---
 
 # Public Lab River Rat Pack—St. Louis – Xiaoxin Cao 
+
+by [Xiaoxin](../profile/Xiaoxin) May 12, 2016 08:11
+
+May 12, 2016 08:11 | Tags: [publiclabriverratpack](../tag/publiclabriverratpack)
 
 When I was in China three years ago, I have heard of John McPhee’s stunning story “ Atchafalaya.” Is about Humans vs. The Mississippi River. http://www.newyorker.com/magazine/1987/02/23/atchafalaya
 It is very interesting to me, so I am not hesitated to take this class. 

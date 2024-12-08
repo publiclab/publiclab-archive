@@ -1,6 +1,6 @@
 # countertop-spectrometer
 
-4 notes and wiki pages
+4 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Prototype CounterTop Spectrometer Built(Works)](/notes/cbreuer/2-2-2013/prototype-countertop-spectrometer-builtworks) by [cbreuer](../profile/cbreuer)
 - [Countertop Spectrometer](/wiki/countertop-spectrometer) (wiki)

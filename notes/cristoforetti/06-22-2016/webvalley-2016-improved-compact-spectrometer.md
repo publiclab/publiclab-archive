@@ -1,12 +1,18 @@
 ---
-nid: 13225
 title: WebValley 2016: improved compact spectrometer
-path: public/static/notes/cristoforetti/06-22-2016/webvalley-2016-improved-compact-spectrometer.md
+tagnames: spectrometer, spectrometry, raspberry-pi, italy, portable, webvalley, raspberry-pi-spectrometer
+author: cristoforetti
+path: /notes/cristoforetti/06-22-2016/webvalley-2016-improved-compact-spectrometer.md
+nid: 13225
 uid: 470966
-tagnames: spectrometer,spectrometry,raspberry-pi,italy,portable,webvalley,raspberry-pi-spectrometer
+
 ---
 
 # WebValley 2016: improved compact spectrometer
+
+by [cristoforetti](../profile/cristoforetti) June 22, 2016 12:38
+
+June 22, 2016 12:38 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [raspberry-pi](../tag/raspberry-pi), [italy](../tag/italy), [portable](../tag/portable), [webvalley](../tag/webvalley), [raspberry-pi-spectrometer](../tag/raspberry-pi-spectrometer)
 
 ###What I want to do
 Second post about the development of a portable spectrometer to be used outdoor on field during the WebValley 2016 Summer School (https://webvalley.fbk.eu).

@@ -1,6 +1,6 @@
 # excites
 
-5 notes and wiki pages
+5 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Mildmay community, London UK](/wiki/mildmay-community-london-uk) (wiki)
 - [Initiative summary](/notes/cindyexcites/8-3-2012/initiative-summary) by [cindy_excites](../profile/cindy_excites)

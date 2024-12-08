@@ -1,12 +1,18 @@
 ---
-nid: 15152
 title: Share Your Barnraising 2017 Photos!
-path: public/static/notes/bronwen/11-05-2017/share-your-barnraising-2017-photos.md
+tagnames: events, louisiana, barnraising, barnraising-2017, barnraising2017
+author: Bronwen
+path: /notes/bronwen/11-05-2017/share-your-barnraising-2017-photos.md
+nid: 15152
 uid: 237313
-tagnames: events,louisiana,barnraising,barnraising-2017,barnraising2017
+
 ---
 
 # Share Your Barnraising 2017 Photos!
+
+by [Bronwen](../profile/Bronwen) November 05, 2017 13:52
+
+November 05, 2017 13:52 | Tags: [events](../tag/events), [louisiana](../tag/louisiana), [barnraising](../tag/barnraising), [barnraising-2017](../tag/barnraising-2017), [barnraising2017](../tag/barnraising2017)
 
 \*\*
 

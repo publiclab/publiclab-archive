@@ -1,6 +1,6 @@
 # organizers
 
-36 notes and wiki pages
+36 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Events](/events) (wiki)
 - [Working Groups](/wiki/working-groups) (wiki)
@@ -14,9 +14,6 @@
 - [How to organize a public lab chapter](/notes/tlevine/1-10-2013/how-organize-public-lab-chapter) by [tlevine](../profile/tlevine)
 - [Start a Chapter](/wiki/start-a-chapter) (wiki)
 - [Values statement](/wiki/values-statement) (wiki)
-- [Machine that I want to call a great c](/notes/chaoxing/12-13-2013/machine-that-i-want-to-call-a-great-c) by [chaoxing](../profile/chaoxing)
-- [electroencephalograph ](/notes/chaoxing/12-13-2013/electroencephalograph) by [chaoxing](../profile/chaoxing)
-- [have first. Decline trend of professional ](/notes/chaoxing/12-13-2013/have-first-decline-trend-of-professional) by [chaoxing](../profile/chaoxing)
 - [Public Lab trading cards](/notes/warren/04-20-2014/public-lab-trading-cards) by [warren](../profile/warren)
 - [organizers-summit](/wiki/organizers-summit) (wiki)
 - [strategic-plan-community-development](/wiki/strategic-plan-community-development) (wiki)
@@ -27,7 +24,6 @@
 - [Organizers Handbook](/wiki/organizers-handbook) (wiki)
 - [New moderation system for first-time posters](/notes/tester/04-23-2016/new-moderation-system-for-first-time-posters) by [tester](../profile/tester)
 - [Barnraising 2016 at LUMCON: Resources for Landfill Researchers](/notes/sarasage/11-11-2016/barnraising-2016-at-lumcon-resources-for-landfill-researchers) by [sarasage](../profile/sarasage)
-- [How to stop opening a mobile website into desktop?](/notes/mayasingh/11-28-2016/how-to-redirect-a-mobile-website-not-to-open-in-desktop) by [mayasingh](../profile/mayasingh)
 - [Diagramming knowledge production on PublicLab.org](/notes/warren/01-27-2017/diagramming-knowledge-production-on-publiclab-org) by [warren](../profile/warren)
 - [What do you think about this new design sketch for a Welcome page?](/notes/warren/02-21-2018/what-do-you-think-about-this-new-design-sketch-for-a-welcome-page) by [warren](../profile/warren)
 - [PLANNING TO HOST AN EVENT?](/notes/stella/04-25-2018/planning-to-host-an-event) by [stella](../profile/stella)
@@ -37,4 +33,3 @@
 - [Seeking Monitoring Methods Fellow for Oil & Gas Water Fellowship Trio](/notes/stevie/08-06-2019/seeking-monitoring-methods-fellow-for-oil-gas-water-fellowship-trio) by [stevie](../profile/stevie)
 - [Seeking Community Fellow for Oil & Gas Water Fellowship Trio](/notes/stevie/08-06-2019/seeking-community-fellow-for-oil-gas-water-fellowship-trio) by [stevie](../profile/stevie)
 - [Seeking input on prioritizing Topic page updates](/notes/bhamster/07-02-2020/seeking-input-on-prioritizing-topic-page-updates) by [bhamster](../profile/bhamster)
-- [Royal Inn Resort – Best Banquet hall in Patna](/notes/royalinnresortseo/05-26-2021/royal-inn-resort-best-banquet-hall-in-patna) by [royalinnresortseo](../profile/royalinnresortseo)

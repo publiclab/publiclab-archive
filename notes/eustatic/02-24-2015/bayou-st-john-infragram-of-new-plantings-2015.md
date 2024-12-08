@@ -1,12 +1,18 @@
 ---
-nid: 11634
 title: Bayou St John Infragram of new plantings 2015
-path: public/static/notes/eustatic/02-24-2015/bayou-st-john-infragram-of-new-plantings-2015.md
+tagnames: near-infrared-camera, kite-mapping, infrared, infragram, bsj, bayou-st-john, urbanwater, urbanwaters
+author: eustatic
+path: /02-24-2015/bayou-st-john-infragram-of-new-plantings-2015.md
+nid: 11634
 uid: 379
-tagnames: near-infrared-camera,kite-mapping,infrared,infragram,bsj,bayou-st-john,urbanwater,urbanwaters
+
 ---
 
 # Bayou St John Infragram of new plantings 2015
+
+by [eustatic](../profile/eustatic) February 24, 2015 18:24
+
+February 24, 2015 18:24 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [infrared](../tag/infrared), [infragram](../tag/infragram), [bsj](../tag/bsj), [bayou-st-john](../tag/bayou-st-john), [urbanwater](../tag/urbanwater), [urbanwaters](../tag/urbanwaters)
 
 ###What I want to do
 

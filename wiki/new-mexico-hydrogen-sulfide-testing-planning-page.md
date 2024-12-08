@@ -1,12 +1,18 @@
 ---
-nid: 2739
 title: New Mexico Hydrogen Sulfide testing planning page
-path: public/static/wiki/new-mexico-hydrogen-sulfide-testing-planning-page.md
+tagnames: hydrogen-sulfide-sensing, new-mexico, colorado, draeger-tubes, hydrogen-sulfide, h2s, parent:hydrogen-sulfide-sensing, mountain-west
+author: sara
+path: /wiki/new-mexico-hydrogen-sulfide-testing-planning-page.md
+nid: 2739
 uid: 8
-tagnames: hydrogen-sulfide-sensing,new-mexico,colorado,draeger-tubes,hydrogen-sulfide,h2s,parent:hydrogen-sulfide-sensing,mountain-west
+
 ---
 
 # New Mexico Hydrogen Sulfide testing planning page
+
+by [Shannon](../profile/Shannon), [megan](../profile/megan), [sara](../profile/sara)
+
+July 09, 2012 17:20 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [new-mexico](../tag/new-mexico), [colorado](../tag/colorado), [draeger-tubes](../tag/draeger-tubes), [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s), [parent:hydrogen-sulfide-sensing](../tag/parent:hydrogen-sulfide-sensing), [mountain-west](../tag/mountain-west)
 
 On call 7/9/12: Josh (Durango- San Juan Citizens Alliance), Shannon and Sara (Public Lab), Megan (RISD)
 

@@ -1,12 +1,18 @@
 ---
-nid: 11702
 title: Mapping Waste When Waste is Invisible
-path: public/static/wiki/mapping-waste-when-waste-is-invisible.md
+tagnames: gps, visualization, grassrootsmappingforum, trash, gmf-6, style:fancy
+author: mollydanielsson
+path: /wiki/mapping-waste-when-waste-is-invisible.md
+nid: 11702
 uid: 1259
-tagnames: gps,visualization,grassrootsmappingforum,trash,gmf-6,style:fancy
+
 ---
 
 # Mapping Waste When Waste is Invisible
+
+by [mollydanielsson](../profile/mollydanielsson)
+
+March 20, 2015 23:39 | Tags: [gps](../tag/gps), [visualization](../tag/visualization), [grassrootsmappingforum](../tag/grassrootsmappingforum), [trash](../tag/trash), [gmf-6](../tag/gmf-6), [style:fancy](../tag/style:fancy)
 
 by [Max Liboiron](http://maxliboiron.com/)
 

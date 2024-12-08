@@ -1,6 +1,6 @@
 # climate
 
-15 notes and wiki pages
+15 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Important Report on Climate Change 2014](/notes/amysoyka/06-23-2014/important-report-on-climate-change-2014) by [amysoyka](../profile/amysoyka)
 - [NYC Climate Justice Youth Summit](/notes/liz/08-04-2015/nyc-climate-justice-youth-summit) by [liz](../profile/liz)
@@ -12,7 +12,6 @@
 - [Topics](/wiki/topics) (wiki)
 - [Analyzing optimum sites for installing solar panels by estimating solar panel size](/notes/silentsairam/08-07-2019/analyzing-optium-sites-for-installing-solar-panels-by-estimating-solar-panel-size) by [silentsairam](../profile/silentsairam)
 - [Tallow Rapid Assessment for Green Infrastructure](/notes/eustatic/09-18-2019/tallow-rapid-assessment-for-green-infrastructure) by [eustatic](../profile/eustatic)
-- [How to write an essay on climate change](/notes/John619/10-17-2019/how-to-write-an-essay-on-climate-change) by [John619](../profile/John619)
 - [Does anyone aware of heat sensors that can record INDOOR heat intensity at 5-10 minutes intervals?](/notes/Filipaul/02-26-2020/does-anyone-aware-of-heat-sensors-that-can-record-indoor-heat-intensity-at-5-10-minutes-intervals) by [Filipaul](../profile/Filipaul)
 - [How severely has climate change and pollution affected Louisiana?](/notes/cummins_leila/03-05-2021/how-severely-has-climate-change-and-pollution-affected-louisiana) by [cummins_leila](../profile/cummins_leila)
 - [hello ! my name is julia masters, and i'm the new organizing and advocacy fellow. ](/notes/julia_e_masters/05-26-2021/hello-my-name-is-julia-masters-and-i-m-the-new-organizing-and-advocacy-fellow) by [julia_e_masters](../profile/julia_e_masters)

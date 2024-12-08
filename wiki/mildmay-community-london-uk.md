@@ -1,12 +1,18 @@
 ---
-nid: 1935
 title: Mildmay community, London UK
-path: public/static/wiki/mildmay-community-london-uk.md
+tagnames: london, uk, excites, chapter, mildmay, lat:51.550578, lon:-0.082033, eu
+author: Shannon
+path: /wiki/mildmay-community-london-uk.md
+nid: 1935
 uid: 9
-tagnames: london,uk,excites,chapter,mildmay,lat:51.550578,lon:-0.082033,eu
+
 ---
 
 # Mildmay community, London UK
+
+by [cindy_excites](../profile/cindy_excites), [Shannon](../profile/Shannon)
+
+May 09, 2012 17:10 | Tags: [london](../tag/london), [uk](../tag/uk), [excites](../tag/excites), [chapter](../tag/chapter), [mildmay](../tag/mildmay), [lat:51.550578](../tag/lat:51.550578), [lon:-0.082033](../tag/lon:-0.082033), [eu](../tag/eu)
 
 **This place has been archived**
 

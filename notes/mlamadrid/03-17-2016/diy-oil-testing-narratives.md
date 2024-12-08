@@ -1,12 +1,18 @@
 ---
-nid: 12850
 title: DIY Oil Testing Narratives
-path: public/static/notes/mlamadrid/03-17-2016/diy-oil-testing-narratives.md
+tagnames: louisiana, blog, oil-testing, oil-testing-kit, fellowship, with:ann
+author: mlamadrid
+path: /notes/mlamadrid/03-17-2016/diy-oil-testing-narratives.md
+nid: 12850
 uid: 45586
-tagnames: louisiana,blog,oil-testing,oil-testing-kit,fellowship,with:ann
+
 ---
 
 # DIY Oil Testing Narratives
+
+by [mlamadrid](../profile/mlamadrid) March 17, 2016 03:49
+
+March 17, 2016 03:49 | Tags: [louisiana](../tag/louisiana), [blog](../tag/blog), [oil-testing](../tag/oil-testing), [oil-testing-kit](../tag/oil-testing-kit), [fellowship](../tag/fellowship), [with:ann](../tag/with:ann)
 
 This is an article by **Ann Chen** for [Community Science Forum Issue #1 on DYI Oil Testing](https://publiclab.org/forum). Buy a copy in the Public Lab Store.
 

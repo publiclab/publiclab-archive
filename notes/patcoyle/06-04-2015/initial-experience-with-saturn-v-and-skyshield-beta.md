@@ -1,12 +1,18 @@
 ---
-nid: 11952
 title: Updated initial experience with Saturn V and SkyShield beta
-path: public/static/notes/patcoyle/06-04-2015/initial-experience-with-saturn-v-and-skyshield-beta.md
+tagnames: chdk, kap, autokap, kap-rigs, kaptery, saturnv, skyshield
+author: patcoyle
+path: /notes/patcoyle/06-04-2015/initial-experience-with-saturn-v-and-skyshield-beta.md
+nid: 11952
 uid: 77
-tagnames: chdk,kap,autokap,kap-rigs,kaptery,saturnv,skyshield
+
 ---
 
 # Updated initial experience with Saturn V and SkyShield beta
+
+by [patcoyle](../profile/patcoyle) June 04, 2015 23:30
+
+June 04, 2015 23:30 | Tags: [chdk](../tag/chdk), [kap](../tag/kap), [autokap](../tag/autokap), [kap-rigs](../tag/kap-rigs), [kaptery](../tag/kaptery), [saturnv](../tag/saturnv), [skyshield](../tag/skyshield)
 
 ###What I want to do
 (Updated 6-5-15 and 6-7-15) 

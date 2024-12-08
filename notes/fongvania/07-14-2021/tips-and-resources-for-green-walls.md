@@ -1,12 +1,18 @@
 ---
-nid: 27083
 title: Tips and Resources for Green Walls
-path: public/static/notes/fongvania/07-14-2021/tips-and-resources-for-green-walls.md
+tagnames: plant, plants, urban-ecology, landscape, general, green-wall, vertical-garden
+author: fongvania
+path: /notes/fongvania/07-14-2021/tips-and-resources-for-green-walls.md
+nid: 27083
 uid: 754846
-tagnames: plant,plants,urban-ecology,landscape,general,green-wall,vertical-garden
+
 ---
 
 # Tips and Resources for Green Walls
+
+by [fongvania](../profile/fongvania) July 14, 2021 05:41
+
+July 14, 2021 05:41 | Tags: [plant](../tag/plant), [plants](../tag/plants), [urban-ecology](../tag/urban-ecology), [landscape](../tag/landscape), [general](../tag/general), [green-wall](../tag/green-wall), [vertical-garden](../tag/vertical-garden)
 
 I found some research that I did with a team on green walls and wanted to share it more broadly. We ultimately did not develop the wall, but we learned a lot about requirements and considerations. Without ado, here goes...
 

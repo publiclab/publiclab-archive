@@ -1,6 +1,6 @@
 # outreachy-summer-2022
 
-36 notes and wiki pages
+36 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Outreachy proposal: Design a new full-screen user interface for Infragram.org](/notes/stefq1111/04-08-2022/outreachy-proposal) by [stefq1111](../profile/stefq1111)
 - [Outreachy proposal: MapKnitter.org Spam Management system](/notes/Akinkunmi02/04-10-2022/outreachy-proposal-mapknitter-org-spam-management-system) by [Akinkunmi02](../profile/Akinkunmi02)

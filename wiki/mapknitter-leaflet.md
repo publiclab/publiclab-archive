@@ -1,12 +1,18 @@
 ---
-nid: 11468
 title: mapknitter-leaflet
-path: public/static/wiki/mapknitter-leaflet.md
+tagnames: mapknitter, mapknitter-development, parent:mapknitter
+author: warren
+path: /wiki/mapknitter-leaflet.md
+nid: 11468
 uid: 1
-tagnames: mapknitter,mapknitter-development,parent:mapknitter
+
 ---
 
 # mapknitter-leaflet
+
+by [warren](../profile/warren)
+
+December 16, 2014 21:54 | Tags: [mapknitter](../tag/mapknitter), [mapknitter-development](../tag/mapknitter-development), [parent:mapknitter](../tag/parent:mapknitter)
 
 [![petcoke.png](https://i.publiclab.org/system/images/photos/000/008/448/large/petcoke.png)](https://i.publiclab.org/system/images/photos/000/008/448/original/petcoke.png)
 

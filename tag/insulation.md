@@ -1,6 +1,6 @@
 # insulation
 
-18 notes and wiki pages
+18 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Env+Tech_neu_2014 - Thermal Flashlight](/notes/hklebs/11-17-2014/env-tech_neu_2014-thermal-flashlight) by [hklebs](../profile/hklebs)
 - [Test of the Thermal Light: Env+Tech_NEU2014](/notes/jens/11-17-2014/test-of-the-thermal-light-env-tech_neu2014) by [jens](../profile/jens)
@@ -19,4 +19,3 @@
 - [Thermal Imaging of Northeastern University buildings](/notes/evanbjacobson/12-03-2014/thermal-imaging-of-northeastern-university-buildings) by [evanbjacobson](../profile/evanbjacobson)
 - [Comparison of Window Insulation in Old vs New buildings](/notes/weertsc/12-03-2014/comparison-of-window-insulation-in-old-vs-new-buildings) by [weertsc](../profile/weertsc)
 - [Investigating Thermal Properties of Rooftops Using Aerial Mapping](/notes/sdepolo/05-30-2017/investigating-thermal-properties-of-rooftops-using-aerial-mapping) by [sdepolo](../profile/sdepolo)
-- [5 Reasons to Select Foam Insulation](/notes/larkbegin/09-05-2022/5-reasons-to-select-foam-insulation) by [larkbegin](../profile/larkbegin)

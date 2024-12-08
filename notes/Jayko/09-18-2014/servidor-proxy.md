@@ -1,12 +1,18 @@
 ---
-nid: 11161
 title: Servidor Proxy
-path: public/static/notes/Jayko/09-18-2014/servidor-proxy.md
-uid: 428655
 tagnames: 
+author: Jayko
+path: /notes/Jayko/09-18-2014/servidor-proxy.md
+nid: 11161
+uid: 428655
+
 ---
 
 # Servidor Proxy
+
+by [Jayko](../profile/Jayko) September 18, 2014 22:52
+
+September 18, 2014 22:52 | Tags: 
 
 Hasta hace muy poco apenas había trabajado en serio con servidores proxies. Los había utilzado en rara ocasión para saltar una restricción de IP, o utilizar programas que requieren de conexiones con múltiples IPs distintas.
 

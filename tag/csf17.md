@@ -1,6 +1,6 @@
 # csf17
 
-5 notes and wiki pages
+5 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Introduction to Cranston Print Works](/notes/joyofsoy/10-04-2019/introduction-to-cranston-print-works) by [joyofsoy](../profile/joyofsoy)
 - [A Wintry Kite Mapping at Cranston Print Works](/notes/joyofsoy/10-04-2019/a-wintry-kite-mapping-at-cranston-print-works) by [joyofsoy](../profile/joyofsoy)

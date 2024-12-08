@@ -1,12 +1,18 @@
 ---
-nid: 17021
 title: Advice for real-time monitoring
-path: public/static/notes/ottinger/08-30-2018/advice-for-real-time-monitoring.md
+tagnames: california, refinery, air-quality, air-monitoring, odor, location:blurred, smell, air-sensors, purpleair, pm2.5, lat:37, chevron, lon:-122, place:richmond-ca, phillips66, rodeo-ca, richmond-ca, awair, oximeter, fitbit, first-time-poster, air-quality-data, data-advocacy
+author: ottinger
+path: /notes/ottinger/08-30-2018/advice-for-real-time-monitoring.md
+nid: 17021
 uid: 503419
-tagnames: california,refinery,air-quality,air-monitoring,odor,location:blurred,smell,air-sensors,purpleair,pm2.5,lat:37,chevron,lon:-122,place:richmond-ca,phillips66,rodeo-ca,richmond-ca,awair,oximeter,fitbit,first-time-poster,air-quality-data,data-advocacy
+
 ---
 
 # Advice for real-time monitoring
+
+by [ottinger](../profile/ottinger) August 30, 2018 02:18
+
+August 30, 2018 02:18 | Tags: [california](../tag/california), [refinery](../tag/refinery), [air-quality](../tag/air-quality), [air-monitoring](../tag/air-monitoring), [odor](../tag/odor), [location:blurred](../tag/location:blurred), [smell](../tag/smell), [air-sensors](../tag/air-sensors), [purpleair](../tag/purpleair), [pm2.5](../tag/pm2.5), [lat:37](../tag/lat:37), [chevron](../tag/chevron), [lon:-122](../tag/lon:-122), [place:richmond-ca](../tag/place:richmond-ca), [phillips66](../tag/phillips66), [rodeo-ca](../tag/rodeo-ca), [richmond-ca](../tag/richmond-ca), [awair](../tag/awair), [oximeter](../tag/oximeter), [fitbit](../tag/fitbit), [first-time-poster](../tag/first-time-poster), [air-quality-data](../tag/air-quality-data), [data-advocacy](../tag/data-advocacy)
 
 In the "Meaning from Monitoring" project, we tried to take real-time measurements of toxic gases (mostly) and PM2.5 from Richmond, California (near the Chevron oil refinery) and Rodeo, California (at the fenceline of the Phillips 66 oil refinery) and make the data more accessible and useful to community members advocating for pollution reductions. 
 

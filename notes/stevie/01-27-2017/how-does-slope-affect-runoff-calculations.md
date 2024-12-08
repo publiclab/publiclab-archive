@@ -1,12 +1,18 @@
 ---
-nid: 13885
 title: How does slope affect runoff calculations? 
-path: public/static/notes/stevie/01-27-2017/how-does-slope-affect-runoff-calculations.md
+tagnames: stormwater, question:stormwater
+author: stevie
+path: /notes/stevie/01-27-2017/how-does-slope-affect-runoff-calculations.md
+nid: 13885
 uid: 422561
-tagnames: stormwater,question:stormwater
+
 ---
 
 # How does slope affect runoff calculations? 
+
+by [stevie](../profile/stevie) January 27, 2017 18:48
+
+January 27, 2017 18:48 | Tags: [stormwater](../tag/stormwater), [question:stormwater](../tag/question:stormwater)
 
 ###What I want to do or know
 Looking at calculations for runoff, where does slope come into play? Is it something I should be accounting for in my runoff equation? 

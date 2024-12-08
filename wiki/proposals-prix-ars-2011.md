@@ -1,12 +1,18 @@
 ---
-nid: 154
 title: Proposals Prix Ars 2011
-path: public/static/wiki/proposals-prix-ars-2011.md
-uid: 1
 tagnames: 
+author: warren
+path: /wiki/proposals-prix-ars-2011.md
+nid: 154
+uid: 1
+
 ---
 
 # Proposals Prix Ars 2011
+
+by [warren](../profile/warren)
+
+April 05, 2011 18:20 | Tags: 
 
 
 

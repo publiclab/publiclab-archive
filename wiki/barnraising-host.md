@@ -1,12 +1,18 @@
 ---
-nid: 15381
 title: Host a Barnraising 举办一个谷仓聚会
-path: public/static/wiki/barnraising-host.md
+tagnames: events, barnraising, parent:barnraising, sidebar:none
+author: stevie
+path: /wiki/barnraising-host.md
+nid: 15381
 uid: 422561
-tagnames: events,barnraising,parent:barnraising,sidebar:none
+
 ---
 
 # Host a Barnraising 举办一个谷仓聚会
+
+by [shanlter](../profile/shanlter), [liz](../profile/liz), [stevie](../profile/stevie), [warren](../profile/warren)
+
+December 15, 2017 20:08 | Tags: [events](../tag/events), [barnraising](../tag/barnraising), [parent:barnraising](../tag/parent:barnraising), [sidebar:none](../tag/sidebar:none)
 
 _Welcome! This page is under construction. Join us in gathering materials to help people host Barnraisings!_
 欢迎！这个页面正在建设中，帮助我们让更多的人举办谷仓聚会！

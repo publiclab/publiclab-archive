@@ -1,12 +1,18 @@
 ---
-nid: 27614
 title: GSoC 2021: Geographic Features Refinement - Final Report 
-path: public/static/notes/barun1024/08-22-2021/gsoc-2021-geographic-features-refinement-final-report.md
+tagnames: leaflet, soc, map, geographic, leaflet-environmental-layers, lat:28.632746, zoom:5, soc-2021, gsoc-2021, soc-2021-final, lon:77.43164
+author: barun1024
+path: /notes/barun1024/08-22-2021/gsoc-2021-geographic-features-refinement-final-report.md
+nid: 27614
 uid: 647185
-tagnames: leaflet,soc,map,geographic,leaflet-environmental-layers,lat:28.632746,zoom:5,soc-2021,gsoc-2021,soc-2021-final,lon:77.43164
+
 ---
 
 # GSoC 2021: Geographic Features Refinement - Final Report 
+
+by [barun1024](../profile/barun1024) August 22, 2021 20:01
+
+August 22, 2021 20:01 | Tags: [leaflet](../tag/leaflet), [soc](../tag/soc), [map](../tag/map), [geographic](../tag/geographic), [leaflet-environmental-layers](../tag/leaflet-environmental-layers), [lat:28.632746](../tag/lat:28.632746), [zoom:5](../tag/zoom:5), [soc-2021](../tag/soc-2021), [gsoc-2021](../tag/gsoc-2021), [soc-2021-final](../tag/soc-2021-final), [lon:77.43164](../tag/lon:77.43164)
 
 Public Lab has a robust geographic metadata system, and the Public Lab community members are 
 increasingly sharing geographic context while sharing on the website. I worked this summer to improve, add, smoothen and expand the geographic features. Here's the link to my [proposal](https://publiclab.org/notes/barun1024/03-24-2021/gsoc-2021-proposal-geographic-features-refinement) for this project. 

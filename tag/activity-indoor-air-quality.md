@@ -1,6 +1,6 @@
 # activity-indoor-air-quality
 
-5 notes and wiki pages
+5 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Snake Plant Air Remediation Build & Partial Teardown](/notes/jfrankamp/10-07-2016/snake-plant-air-remediation-build-partial-teardown) by [jfrankamp](../profile/jfrankamp)
 - [A kit to design your own formaldehyde experiment?](/notes/warren/02-09-2017/a-kit-to-design-your-own-formaldehyde-experiment) by [warren](../profile/warren)

@@ -1,12 +1,18 @@
 ---
-nid: 177
 title: Slider Front Page
-path: public/static/wiki/slider-front-page.md
-uid: 1
 tagnames: 
+author: warren
+path: /wiki/slider-front-page.md
+nid: 177
+uid: 1
+
 ---
 
 # Slider Front Page
+
+by [warren](../profile/warren)
+
+April 18, 2011 14:09 | Tags: 
 
 <div id="slider">
 

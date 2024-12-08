@@ -1,12 +1,18 @@
 ---
-nid: 13291
 title: How To Obtain Transmittance/ Absorbance Spectra
-path: public/static/wiki/how-to-obtain-transmittance-absorbance-spectra.md
-uid: 461120
 tagnames: gam
+author: dhaffnersr
+path: /wiki/how-to-obtain-transmittance-absorbance-spectra.md
+nid: 13291
+uid: 461120
+
 ---
 
 # How To Obtain Transmittance/ Absorbance Spectra
+
+by [dhaffnersr](../profile/dhaffnersr)
+
+July 15, 2016 19:16 | Tags: [gam](../tag/gam)
 
 **1)** Setup: 
   a) a full-spectrum light source (e.g. a white light LED). The light source has to cover    the_ full spectral range_ you want to measure

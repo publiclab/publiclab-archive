@@ -1,12 +1,18 @@
 ---
-nid: 580
 title: $8 webcam for spectrometer is not great
-path: public/static/notes/warren/11-23-2011/8-webcam-spectrometer-not-great.md
-uid: 1
 tagnames: 
+author: warren
+path: /notes/warren/11-23-2011/8-webcam-spectrometer-not-great.md
+nid: 580
+uid: 1
+
 ---
 
 # $8 webcam for spectrometer is not great
+
+by [warren](../profile/warren) November 23, 2011 23:04
+
+November 23, 2011 23:04 | Tags: 
 
 <div class="gmail_quote"><div id=":3r6">OK, i got the little $8 camera working but it is not very good resolution:<div><br></div><div><a href="http://spectrometer.publiclaboratory.org/spectrums/27" target="_blank">http://spectrometer.publiclaboratory.org/spectrums/27</a></div>
 <div>

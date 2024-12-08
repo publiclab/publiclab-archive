@@ -1,12 +1,18 @@
 ---
-nid: 507
 title: Hometesting for Environmental Estrogens Bibliography
-path: public/static/wiki/hometesting-environmental-estrogens.md
-uid: 8
 tagnames: 
+author: sara
+path: /wiki/hometesting-environmental-estrogens.md
+nid: 507
+uid: 8
+
 ---
 
 # Hometesting for Environmental Estrogens Bibliography
+
+by [holstius](../profile/holstius), [warren](../profile/warren), [sara](../profile/sara)
+
+October 13, 2011 18:19 | Tags: 
 
 This is a research project that the Public Lab Toxics and Health working group is kicking off over the next couple of months. We are collaborating with Joan Ruderman from Harvard University and Gary Wessel from Brown University. Research on the project is sited at a lab at Brown. We would love to have any public laboratory people help us out in this research process, email the public lab list if you're interested in joining in!
 

@@ -1,11 +1,17 @@
 ---
-nid: 15481
 title: templates
-path: public/static/wiki/templates.md
-uid: 1
 tagnames: redirect:15049
+author: warren
+path: /wiki/templates.md
+nid: 15481
+uid: 1
+
 ---
 
 # templates
+
+by [warren](../profile/warren)
+
+January 08, 2018 20:45 | Tags: [redirect:15049](../tag/redirect:15049)
 
 Wiki templates make it easier to post your work in a specific format. 

@@ -1,6 +1,6 @@
 # indoor-air
 
-35 notes and wiki pages
+35 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Roomba Indoor Air Quality Monitoring](/wiki/indoor-air-quality-mapping) (wiki)
 - [DIY Indoor Air Remediation Kit](/wiki/diy-indoor-air-quality-remediation-kit) (wiki)

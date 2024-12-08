@@ -1,6 +1,6 @@
 # citizen-science
 
-30 notes and wiki pages
+30 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Amsterdam kite satellite](/notes/keimpe/6-29-2012/amsterdam-kite-satellite) by [keimpe](../profile/keimpe)
 - [Initiative summary](/notes/cindyexcites/8-3-2012/initiative-summary) by [cindy_excites](../profile/cindy_excites)

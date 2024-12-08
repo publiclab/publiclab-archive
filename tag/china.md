@@ -1,6 +1,6 @@
 # china
 
-21 notes and wiki pages
+21 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [taiwan](/wiki/taiwan) (wiki)
 - [PureLab：Experiment and Installing Water Filters Record In Banmentun](/notes/shanlter/12-17-2015/waterfilter-kits-for-rural-chinese) by [shanlter](../profile/shanlter)
@@ -21,5 +21,3 @@
 - [Folding-Beijing: A Board Game based on Beijing eviction action](/notes/shanlter/12-04-2017/folding-beijing-a-board-game-based-on-beijing-eviction-action) by [shanlter](../profile/shanlter)
 - [谷仓聚会 Barnraising Guangzhou, China](/wiki/barnraising-guangzhou-china) (wiki)
 - [Public Lab Code of Conduct－Chinese Version](/notes/EdithCheung/11-27-2018/public-lab-code-of-conduct-chinese-version) by [EdithCheung](../profile/EdithCheung)
-- ["Disaster" started in China](/notes/mtguide/02-11-2020/disaster-started-in-china) by [mtguide](../profile/mtguide)
-- [Covid quarantine is bad for love](/notes/herranzramia/04-01-2020/covid-quarantine-is-bad-for-love) by [herranzramia](../profile/herranzramia)

@@ -1,12 +1,18 @@
 ---
-nid: 30633
 title: sandbox-glossary
-path: public/static/wiki/sandbox-glossary.md
-uid: 664477
 tagnames: 
+author: bhamster
+path: /wiki/sandbox-glossary.md
+nid: 30633
+uid: 664477
+
 ---
 
 # sandbox-glossary
+
+by [bhamster](../profile/bhamster)
+
+April 27, 2022 21:08 | Tags: 
 
 On this page you'll find more information about some of the words and terms seen and used around Public Lab:
 

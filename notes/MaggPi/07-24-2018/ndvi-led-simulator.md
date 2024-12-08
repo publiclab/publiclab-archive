@@ -1,12 +1,18 @@
 ---
-nid: 16777
 title: NDVI LED Simulator
-path: public/static/notes/MaggPi/07-24-2018/ndvi-led-simulator.md
+tagnames: raspberry-pi, colormap, ndvi-calibrate, raspberry-pi-cameras, question:image-sequencer, noir
+author: MaggPi
+path: /notes/MaggPi/07-24-2018/ndvi-led-simulator.md
+nid: 16777
 uid: 501996
-tagnames: raspberry-pi,colormap,ndvi-calibrate,raspberry-pi-cameras,question:image-sequencer,noir
+
 ---
 
 # NDVI LED Simulator
+
+by [MaggPi](../profile/MaggPi) July 24, 2018 05:58
+
+July 24, 2018 05:58 | Tags: [raspberry-pi](../tag/raspberry-pi), [colormap](../tag/colormap), [ndvi-calibrate](../tag/ndvi-calibrate), [raspberry-pi-cameras](../tag/raspberry-pi-cameras), [question:image-sequencer](../tag/question:image-sequencer), [noir](../tag/noir)
 
 This note proposes a Light Emitting Diode (LED) simulator that would assist in the collection and analysis
 of normalized difference vegetation index (NDVI) images. A prototype simulator  and a NIR/red vs NIR/white light NDVI comparison example is described.

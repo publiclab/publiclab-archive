@@ -1,11 +1,17 @@
 ---
-nid: 17381
 title: Classroom lights 
-path: public/static/notes/mmkeeley/10-24-2018/classroom-lights.md
+tagnames: hidden:response, replication:15121, response:17384
+author: mmkeeley
+path: /notes/mmkeeley/10-24-2018/classroom-lights.md
+nid: 17381
 uid: 556288
-tagnames: hidden:response,replication:15121,response:17384
+
 ---
 
 # Classroom lights 
+
+by [mmkeeley](../profile/mmkeeley) October 24, 2018 15:58
+
+October 24, 2018 15:58 | Tags: [hidden:response](../tag/hidden:response), [replication:15121](../tag/replication:15121), [response:17384](../tag/response:17384)
 
 Used front facing camera

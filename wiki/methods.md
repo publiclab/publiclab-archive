@@ -1,12 +1,18 @@
 ---
-nid: 14859
 title: Methods
-path: public/static/wiki/methods.md
+tagnames: methods, organization
+author: warren
+path: /wiki/methods.md
+nid: 14859
 uid: 1
-tagnames: methods,organization
+
 ---
 
 # Methods
+
+by [warren](../profile/warren)
+
+September 08, 2017 15:44 | Tags: [methods](../tag/methods), [organization](../tag/organization)
 
 The word "method" has different meanings in different spheres, at Public Lab we use it to mean any technique, approach, or set of techniques to achieve something. You can see a selection of them at the [Methods page](/methods), or post a new one using the instructions here:
 

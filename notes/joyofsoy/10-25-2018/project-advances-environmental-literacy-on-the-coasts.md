@@ -1,12 +1,18 @@
 ---
-nid: 17391
 title: Project Advances Environmental Literacy on the Coasts
-path: public/static/notes/joyofsoy/10-25-2018/project-advances-environmental-literacy-on-the-coasts.md
+tagnames: gulf-coast, education, youth, blog, nas, national-academies-of-sciences
+author: joyofsoy
+path: /notes/joyofsoy/10-25-2018/project-advances-environmental-literacy-on-the-coasts.md
+nid: 17391
 uid: 540844
-tagnames: gulf-coast,education,youth,blog,nas,national-academies-of-sciences
+
 ---
 
 # Project Advances Environmental Literacy on the Coasts
+
+by [joyofsoy](../profile/joyofsoy) October 25, 2018 14:29
+
+October 25, 2018 14:29 | Tags: [gulf-coast](../tag/gulf-coast), [education](../tag/education), [youth](../tag/youth), [blog](../tag/blog), [nas](../tag/nas), [national-academies-of-sciences](../tag/national-academies-of-sciences)
 
 Public Lab is excited to work with the National Academies of Sciences, Engineering, and Medicine's Gulf Research Program to build the scientific capacity of the next generation. As one of nine projects selected, Public Lab will be working alongside other inspiring organizations to provide a variety of innovative learning opportunities for children and youth in coastal states including Alabama, Georgia, Louisiana, Maine, Mississippi, and Texas on a broad range of topics pertaining to community resilience and environmental health.
 

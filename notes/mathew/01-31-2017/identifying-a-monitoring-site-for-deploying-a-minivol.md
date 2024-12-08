@@ -1,12 +1,18 @@
 ---
-nid: 13891
 title: Identifying a PM monitoring site for deploying a MiniVol
-path: public/static/notes/mathew/01-31-2017/identifying-a-monitoring-site-for-deploying-a-minivol.md
+tagnames: air-quality, dust, silica, pm, particle-sensing, pm-monitoring, minivol, activity:minivol, activity:site-survey
+author: mathew
+path: /notes/mathew/01-31-2017/identifying-a-monitoring-site-for-deploying-a-minivol.md
+nid: 13891
 uid: 4
-tagnames: air-quality,dust,silica,pm,particle-sensing,pm-monitoring,minivol,activity:minivol,activity:site-survey
+
 ---
 
 # Identifying a PM monitoring site for deploying a MiniVol
+
+by [mathew](../profile/mathew) January 31, 2017 18:51
+
+January 31, 2017 18:51 | Tags: [air-quality](../tag/air-quality), [dust](../tag/dust), [silica](../tag/silica), [pm](../tag/pm), [particle-sensing](../tag/particle-sensing), [pm-monitoring](../tag/pm-monitoring), [minivol](../tag/minivol), [activity:minivol](../tag/activity:minivol), [activity:site-survey](../tag/activity:site-survey)
 
 _This activity is for identifying an appropriate site for deploying a [MiniVol][1] sampler for [Particulate Matter monitoring][2]._
 

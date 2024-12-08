@@ -1,6 +1,6 @@
 # publiclab
 
-14 notes and wiki pages
+14 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Media](/media) (wiki)
 - [Chat](/chat) (wiki)

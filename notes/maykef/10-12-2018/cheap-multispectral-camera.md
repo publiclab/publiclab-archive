@@ -1,12 +1,18 @@
 ---
-nid: 17281
 title: Cheap multispectral camera 
-path: public/static/notes/maykef/10-12-2018/cheap-multispectral-camera.md
+tagnames: near-infrared-camera, remote-sensing, ndvi, wetlands, agriculture, software, near-infrared, soil, infragram, tool, 19, question:general, method, agricultural, fertilizer, remote-
+author: maykef
+path: /notes/maykef/10-12-2018/cheap-multispectral-camera.md
+nid: 17281
 uid: 481511
-tagnames: near-infrared-camera,remote-sensing,ndvi,wetlands,agriculture,software,near-infrared,soil,infragram,tool,19,question:general,method,agricultural,fertilizer,remote-
+
 ---
 
 # Cheap multispectral camera 
+
+by [maykef](../profile/maykef) October 12, 2018 09:54
+
+October 12, 2018 09:54 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [remote-sensing](../tag/remote-sensing), [ndvi](../tag/ndvi), [wetlands](../tag/wetlands), [agriculture](../tag/agriculture), [software](../tag/software), [near-infrared](../tag/near-infrared), [soil](../tag/soil), [infragram](../tag/infragram), [tool](../tag/tool), [19](../tag/19), [question:general](../tag/question:general), [method](../tag/method), [agricultural](../tag/agricultural), [fertilizer](../tag/fertilizer), [remote-](../tag/remote-)
 
 Hi, 
 

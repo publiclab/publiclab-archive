@@ -1,12 +1,18 @@
 ---
-nid: 24815
 title: Outreachy proposal: New Dashboard Implementation Project
-path: public/static/notes/ruthnwaiganjo/10-26-2020/outreachy-winter-proposal-new-dashboard-implementation-project.md
+tagnames: software, first-time-poster, outreachy-winter-2020, outreachy-2020-winter-proposals, response:24687
+author: ruthnwaiganjo
+path: /notes/ruthnwaiganjo/10-26-2020/outreachy-winter-proposal-new-dashboard-implementation-project.md
+nid: 24815
 uid: 725565
-tagnames: software,first-time-poster,outreachy-winter-2020,outreachy-2020-winter-proposals,response:24687
+
 ---
 
 # Outreachy proposal: New Dashboard Implementation Project
+
+by [ruthnwaiganjo](../profile/ruthnwaiganjo) October 26, 2020 19:00
+
+October 26, 2020 19:00 | Tags: [software](../tag/software), [first-time-poster](../tag/first-time-poster), [outreachy-winter-2020](../tag/outreachy-winter-2020), [outreachy-2020-winter-proposals](../tag/outreachy-2020-winter-proposals), [response:24687](../tag/response:24687)
 
 ## About Me
 

@@ -1,10 +1,9 @@
 # lon--71
 
-31 notes and wiki pages
+31 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Rhode Island Community Garden Network](/notes/srgonsalves1/12-05-2019/rhode-island-community-garden-network) by [srgonsalves1](../profile/srgonsalves1)
 - [Announcing MapKnitter 3.0](/notes/warren/05-05-2020/announcing-mapknitter-3-0) by [warren](../profile/warren)
-- [Boston's #1 Maid & House Cleaning Service](/notes/CleanzenBoston/05-08-2020/boston-s-1-maid-house-cleaning-service) by [CleanzenBoston](../profile/CleanzenBoston)
 - [test1](/notes/gogogadgethd/05-11-2020/test1) by [gogogadgethd](../profile/gogogadgethd)
 - [Air Sampling with Tedlar Bags](/notes/kgradow1/06-03-2020/grab-sampling-with-tedlar-bags) by [kgradow1](../profile/kgradow1)
 - [How the Bucket Works](/notes/kgradow1/06-09-2020/how-the-bucket-works) by [kgradow1](../profile/kgradow1)
@@ -16,11 +15,8 @@
 - [How to host a community meeting](/notes/kgradow1/09-26-2020/host-a-community-meeting-to-discuss-your-air-sampling-goals) by [kgradow1](../profile/kgradow1)
 - [How to Keep a Pollution Log](/notes/kgradow1/10-21-2020/how-to-keep-a-pollution-log) by [kgradow1](../profile/kgradow1)
 - [Statistics for Action Air Quality Guide](/notes/kgradow1/10-30-2020/statistics-for-action-air-quality-guide) by [kgradow1](../profile/kgradow1)
-- [DRAFT: Chemical Health Impacts](/notes/kgradow1/11-01-2020/draft-chemical-health-impacts) by [kgradow1](../profile/kgradow1)
 - [How to Build a Bucket Air Monitor](/notes/kgradow1/11-08-2020/how-to-build-a-bucket-air-monitor) by [kgradow1](../profile/kgradow1)
-- [How to make sense of the data](/notes/kgradow1/11-08-2020/how-to-make-sense-of-the-data) by [kgradow1](../profile/kgradow1)
 - [A First Look at Technical Documents](/notes/kgradow1/11-09-2020/a-first-look-at-technical-documents) by [kgradow1](../profile/kgradow1)
-- [Comparing Your Air Results to Environmental Standards](/notes/kgradow1/11-28-2020/comparing-your-air-results-to-environmental-standards) by [kgradow1](../profile/kgradow1)
 - [Thoughts on a model for community data enclosure](/notes/warren/12-06-2020/thoughts-on-a-model-for-community-data-enclosure) by [warren](../profile/warren)
 - [How to read an Environmental Impact Statement](/notes/kgradow1/12-16-2020/how-to-read-an-environmental-impact-statement) by [kgradow1](../profile/kgradow1)
 - [How to read a Permit Application](/notes/kgradow1/12-16-2020/how-to-read-a-permit-application) by [kgradow1](../profile/kgradow1)

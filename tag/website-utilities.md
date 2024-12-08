@@ -1,6 +1,6 @@
 # website-utilities
 
-7 notes and wiki pages
+7 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Chat](/chat) (wiki)
 - [Issues](/wiki/issues) (wiki)

@@ -1,6 +1,6 @@
 # community-kits-prep
 
-7 notes and wiki pages
+7 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Coqui conductivity sensor](/wiki/coqui) (wiki)
 - [SERC](/wiki/serc) (wiki)

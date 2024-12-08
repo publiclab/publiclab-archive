@@ -1,6 +1,6 @@
 # project
 
-27 notes and wiki pages
+27 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [EPA and Public Lab Revitalize Urban Waters in New Orleans](/notes/Shannon/07-18-2014/epa-and-public-lab-revitalize-urban-waters-in-new-orleans) by [Shannon](../profile/Shannon)
 - [Urban Waters Mapping, NOLA](/wiki/urban-waters-mapping-nola) (wiki)
@@ -9,18 +9,15 @@
 - [Upgrading Plot to Rails 5](/notes/aayushgupta1/03-21-2017/upgrading-plot-to-rails-5) by [aayushgupta1](../profile/aayushgupta1)
 - [Willow Creek Water Quality Monitoring](/notes/MadTinker/07-31-2017/willow-creek-water-quality-monitoring) by [MadTinker](../profile/MadTinker)
 - [Small Ac generator using a single neodymium sphere ](/notes/sciencetoolbar/08-23-2017/small-ac-generator-using-a-single-neodymium-sphere) by [sciencetoolbar](../profile/sciencetoolbar)
-- [Indexia Finance - Best Loan Provider Company in Mumbai](/notes/IndexiaFinance/08-28-2018/indexia-finance-best-loan-provider-company-in-mumbai) by [IndexiaFinance](../profile/IndexiaFinance)
 - [Public Lab River Rat Pack](/wiki/public-lab-river-rat-pack) (wiki)
 - [The Sand Sentinel Program](/wiki/the-sand-sentinel-program) (wiki)
 - [Urban greening in Nottingham](/wiki/urban-greening-in-nottingham) (wiki)
-- [Build N number of project with Stem:Bit - The programmable blocks kit for micro:bit](/notes/sbcomponentsuk/08-19-2019/build-n-number-of-project-with-stem-bit-the-programmable-blocks-kit-for-micro-bit) by [sbcomponentsuk](../profile/sbcomponentsuk)
 - [Wateristic: an underwater bioluminescence detector](/wiki/wateristic-and-underwater-bioluminescence-detector) (wiki)
 - [OneCranston](/wiki/onecranston) (wiki)
 - [Unearthing Providence](/wiki/unearthing-pvd) (wiki)
 - [Orangetown Aluf](/wiki/orangetown-aluf) (wiki)
 - [Agrotóxicos en Cosquín - Argentina](/wiki/agrotoxicos-en-cosquin-argentina) (wiki)
 - [GSoC 2020 Proposal – Implementation of better printability of posts and wiki pages](/notes/susannadiv/03-10-2020/gsoc-2020-proposal-implementation-of-better-printability-of-posts-and-wiki-pages) by [susannadiv](../profile/susannadiv)
-- [Next Generation SharePoint Migration Tool](/notes/sharepoint_saketa/05-25-2020/next-generation-sharepoint-migration-tool) by [sharepoint_saketa](../profile/sharepoint_saketa)
 - [Automated recording of daily behavioral and vibroacoustic activity in Xylocopa virginica](/wiki/monitoring-bee-behavior-with-a-raspberry-pi) (wiki)
 - [Image + Video Segmentation in Near-Infrared Using HSV Color Spaces with OpenCV in Python](/notes/ektopyrotic/10-03-2020/image-video-segmentation-in-near-infrared-using-hsv-color-spaces-with-opencv-in-python) by [ektopyrotic](../profile/ektopyrotic)
 - [Bucket Monitor ](/wiki/bucket-monitor-project-page) (wiki)

@@ -1,12 +1,18 @@
 ---
-nid: 6235
 title: Green Slice:  shots from kite lesson in Mr Morton's class
-path: public/static/notes/eustatic/3-7-2013/green-slice-shots-kite-lesson-mr-mortons-class-0.md
+tagnames: gulf-coast, kite-mapping, education
+author: eustatic
+path: /3-7-2013/green-slice-shots-kite-lesson-mr-mortons-class-0.md
+nid: 6235
 uid: 379
-tagnames: gulf-coast,kite-mapping,education
+
 ---
 
 # Green Slice:  shots from kite lesson in Mr Morton's class
+
+by [eustatic](../profile/eustatic) March 07, 2013 23:24
+
+March 07, 2013 23:24 | Tags: [gulf-coast](../tag/gulf-coast), [kite-mapping](../tag/kite-mapping), [education](../tag/education)
 
 <img src="https://www.flickr.com/photos/eustatic/8538250102/in/photostream" alt="" />
 

@@ -1,12 +1,18 @@
 ---
-nid: 10246
 title: Balloon mapping at the Department of Development Studies, Olomouc, Czech Republic
-path: public/static/notes/JirkaPanek/04-01-2014/balloon-mapping-at-the-department-of-development-studies-olomouc-czech-republic.md
+tagnames: balloon-mapping, chdk, field-test, failure, first-time-poster
+author: JirkaPanek
+path: /notes/JirkaPanek/04-01-2014/balloon-mapping-at-the-department-of-development-studies-olomouc-czech-republic.md
+nid: 10246
 uid: 179
-tagnames: balloon-mapping,chdk,field-test,failure,first-time-poster
+
 ---
 
 # Balloon mapping at the Department of Development Studies, Olomouc, Czech Republic
+
+by [JirkaPanek](../profile/JirkaPanek) April 01, 2014 11:06
+
+April 01, 2014 11:06 | Tags: [balloon-mapping](../tag/balloon-mapping), [chdk](../tag/chdk), [field-test](../tag/field-test), [failure](../tag/failure), [first-time-poster](../tag/first-time-poster)
 
 ###What I want to do
 As a part of my course Participatory GIS at the [Department of Development Studies, Palacky Univeristy in Olomouc, Czech Republic](http://www.development.upol.cz/english/index/), I wanted to show students low-cost mapping techniques. One of them was balloon mapping. We didnt succeed in our first attempt, but as a scientist I believe also failure is a good lesson, so I decided to share it with you...

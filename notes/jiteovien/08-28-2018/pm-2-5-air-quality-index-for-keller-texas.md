@@ -1,12 +1,18 @@
 ---
-nid: 17012
 title: PM 2.5 Air Quality Index for Keller, Texas
-path: public/static/notes/jiteovien/08-28-2018/pm-2-5-air-quality-index-for-keller-texas.md
+tagnames: analysis, air-quality, maps, dust, pm, texas, air-sensors, purpleair, replication:17007
+author: jiteovien
+path: /notes/jiteovien/08-28-2018/pm-2-5-air-quality-index-for-keller-texas.md
+nid: 17012
 uid: 540008
-tagnames: analysis,air-quality,maps,dust,pm,texas,air-sensors,purpleair,replication:17007
+
 ---
 
 # PM 2.5 Air Quality Index for Keller, Texas
+
+by [jiteovien](../profile/jiteovien) August 28, 2018 21:23
+
+August 28, 2018 21:23 | Tags: [analysis](../tag/analysis), [air-quality](../tag/air-quality), [maps](../tag/maps), [dust](../tag/dust), [pm](../tag/pm), [texas](../tag/texas), [air-sensors](../tag/air-sensors), [purpleair](../tag/purpleair), [replication:17007](../tag/replication:17007)
 
 I downloaded Purple Air data for Keller, Texas, as described in the [Download & Analyze Purple Air Data activity](https://publiclab.org/notes/jiteovien/08-28-2018/download-analyze-your-purple-air-data).
 

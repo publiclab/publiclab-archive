@@ -1,12 +1,18 @@
 ---
-nid: 12839
 title: NDVI to Assess Forage Quality, Question.
-path: public/static/notes/AFairbairn/03-12-2016/ndvi-to-assess-forage-quality-question.md
+tagnames: near-infrared-camera, ndvi, imagej, infrared-conversion
+author: AFairbairn
+path: /notes/AFairbairn/03-12-2016/ndvi-to-assess-forage-quality-question.md
+nid: 12839
 uid: 468688
-tagnames: near-infrared-camera,ndvi,imagej,infrared-conversion
+
 ---
 
 # NDVI to Assess Forage Quality, Question.
+
+by [AFairbairn](../profile/AFairbairn) March 12, 2016 20:57
+
+March 12, 2016 20:57 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [imagej](../tag/imagej), [infrared-conversion](../tag/infrared-conversion)
 
 ##Project:
 Hello everyone, I am posting this because some may find it interesting and I need some assistance. I am working on a project using a modified DJI Phantom 3 Pro to get NDVI images in order to quantify changes in grazing vegetation quality over time and differences between sites. The imaging portion will be backed up with some other methods, including looking at carbon to nitrogen ratios using stable isotope analysis.

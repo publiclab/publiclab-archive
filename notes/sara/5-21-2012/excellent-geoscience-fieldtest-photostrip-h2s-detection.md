@@ -1,12 +1,18 @@
 ---
-nid: 2157
 title: Excellent Geoscience Fieldtest of Photostrip H2S Detection
-path: public/static/notes/sara/5-21-2012/excellent-geoscience-fieldtest-photostrip-h2s-detection.md
+tagnames: hydrogen-sulfide-sensing, draeger-tubes, hydrogen-sulfide, h2s, h2s-photopaper, h2s-draeger-tubes
+author: sara
+path: /notes/sara/5-21-2012/excellent-geoscience-fieldtest-photostrip-h2s-detection.md
+nid: 2157
 uid: 8
-tagnames: hydrogen-sulfide-sensing,draeger-tubes,hydrogen-sulfide,h2s,h2s-photopaper,h2s-draeger-tubes
+
 ---
 
 # Excellent Geoscience Fieldtest of Photostrip H2S Detection
+
+by [sara](../profile/sara) May 21, 2012 22:59
+
+May 21, 2012 22:59 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [draeger-tubes](../tag/draeger-tubes), [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s), [h2s-photopaper](../tag/h2s-photopaper), [h2s-draeger-tubes](../tag/h2s-draeger-tubes)
 
 Research Notes from 5.9.12 conversation with Mathew Gonzales
 Graduate student

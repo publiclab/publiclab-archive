@@ -1,12 +1,18 @@
 ---
-nid: 463
 title: Hydrogen Sulfide Dosimeter
-path: public/static/notes/sara/9-11-2011/hydrogen-sulfide-dosimeter.md
+tagnames: hydrogen-sulfide-sensing, hydrogen-sulfide, h2s, h2s-dosimeter, h2s-badge, h2s-detection-method
+author: sara
+path: /notes/sara/9-11-2011/hydrogen-sulfide-dosimeter.md
+nid: 463
 uid: 8
-tagnames: hydrogen-sulfide-sensing,hydrogen-sulfide,h2s,h2s-dosimeter,h2s-badge,h2s-detection-method
+
 ---
 
 # Hydrogen Sulfide Dosimeter
+
+by [sara](../profile/sara) September 11, 2011 20:54
+
+September 11, 2011 20:54 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s), [h2s-dosimeter](../tag/h2s-dosimeter), [h2s-badge](../tag/h2s-badge), [h2s-detection-method](../tag/h2s-detection-method)
 
 http://chemsee-foods.com/hydrogen-sulfide-monitoring
 

@@ -1,12 +1,18 @@
 ---
-nid: 18170
 title: What happens if I inhale too much formaldehyde?
-path: public/static/notes/liz/01-23-2019/what-happens-if-i-inhale-too-much-formaldehyde.md
+tagnames: answered, indoor-air-quality, question:formaldehyde, question:indoor-air-quality
+author: liz
+path: /notes/liz/01-23-2019/what-happens-if-i-inhale-too-much-formaldehyde.md
+nid: 18170
 uid: 7
-tagnames: answered,indoor-air-quality,question:formaldehyde,question:indoor-air-quality
+
 ---
 
 # What happens if I inhale too much formaldehyde?
+
+by [liz](../profile/liz) January 23, 2019 21:27
+
+January 23, 2019 21:27 | Tags: [answered](../tag/answered), [indoor-air-quality](../tag/indoor-air-quality), [question:formaldehyde](../tag/question:formaldehyde), [question:indoor-air-quality](../tag/question:indoor-air-quality)
 
 _Re-posting for a community member in Pennsylvania:_ 
 

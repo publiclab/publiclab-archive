@@ -1,12 +1,18 @@
 ---
-nid: 11099
 title: DIY aerial photography: Kite-mapping workshop at the ElectroMagnetic Field Festival in Bletchley, UK
-path: public/static/notes/Cindy_ExCites/09-03-2014/diy-aerial-photography-kite-mapping-workshop-at-the-electromagnetic-field-festival-in-bletchley-uk.md
+tagnames: kite-mapping, workshop, ucl, uk, activity:teach-and-learn, activity:workshop, bletchley-park
+author: cindy_excites
+path: /notes/Cindy_ExCites/09-03-2014/diy-aerial-photography-kite-mapping-workshop-at-the-electromagnetic-field-festival-in-bletchley-uk.md
+nid: 11099
 uid: 1083
-tagnames: kite-mapping,workshop,ucl,uk,activity:teach-and-learn,activity:workshop,bletchley-park
+
 ---
 
 # DIY aerial photography: Kite-mapping workshop at the ElectroMagnetic Field Festival in Bletchley, UK
+
+by [cindy_excites](../profile/cindy_excites) September 03, 2014 13:58
+
+September 03, 2014 13:58 | Tags: [kite-mapping](../tag/kite-mapping), [workshop](../tag/workshop), [ucl](../tag/ucl), [uk](../tag/uk), [activity:teach-and-learn](../tag/activity:teach-and-learn), [activity:workshop](../tag/activity:workshop), [bletchley-park](../tag/bletchley-park)
 
 ##**Reflections and insights into a 'family-oriented' kite-mapping workshop**
 

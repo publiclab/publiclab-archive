@@ -1,12 +1,18 @@
 ---
-nid: 16213
 title: Which Public Lab kit is  best  for testing the impact of different camera settings?
-path: public/static/notes/MaggPi/04-26-2018/which-public-lab-kit-is-best-for-testing-the-impact-of-different-camera-settings.md
+tagnames: spectrometry, raspberry-pi, gsoc, question:spectrometry, pi-camera, soc, gsoc-2018, soc-2018
+author: MaggPi
+path: /notes/MaggPi/04-26-2018/which-public-lab-kit-is-best-for-testing-the-impact-of-different-camera-settings.md
+nid: 16213
 uid: 501996
-tagnames: spectrometry,raspberry-pi,gsoc,question:spectrometry,pi-camera,soc,gsoc-2018,soc-2018
+
 ---
 
 # Which Public Lab kit is  best  for testing the impact of different camera settings?
+
+by [MaggPi](../profile/MaggPi) April 26, 2018 05:38
+
+April 26, 2018 05:38 | Tags: [spectrometry](../tag/spectrometry), [raspberry-pi](../tag/raspberry-pi), [gsoc](../tag/gsoc), [question:spectrometry](../tag/question:spectrometry), [pi-camera](../tag/pi-camera), [soc](../tag/soc), [gsoc-2018](../tag/gsoc-2018), [soc-2018](../tag/soc-2018)
 
 
 I am requesting advice on which Public lab kit would be best  for testing the impact of different camera settings.

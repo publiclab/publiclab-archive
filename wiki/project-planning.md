@@ -1,12 +1,18 @@
 ---
-nid: 378
 title: Project Planning
-path: public/static/wiki/project-planning.md
-uid: 1
 tagnames: 
+author: warren
+path: /wiki/project-planning.md
+nid: 378
+uid: 1
+
 ---
 
 # Project Planning
+
+by [Shannon](../profile/Shannon), [warren](../profile/warren)
+
+July 11, 2011 20:08 | Tags: 
 
 ##Aug-Oct Lightning funding:##
 

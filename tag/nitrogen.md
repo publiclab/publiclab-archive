@@ -1,6 +1,6 @@
 # nitrogen
 
-14 notes and wiki pages
+14 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Common Water Contaminants](/wiki/common-water-contaminants) (wiki)
 - [Nitrate detection](/wiki/nitrate-detection) (wiki)

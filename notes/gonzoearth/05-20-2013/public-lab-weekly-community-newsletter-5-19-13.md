@@ -1,12 +1,18 @@
 ---
-nid: 7722
 title: Public Lab Weekly Community Newsletter 5.19.13
-path: public/static/notes/gonzoearth/05-20-2013/public-lab-weekly-community-newsletter-5-19-13.md
+tagnames: newsletter, newsletter-archive
+author: gonzoearth
+path: /notes/gonzoearth/05-20-2013/public-lab-weekly-community-newsletter-5-19-13.md
+nid: 7722
 uid: 12
-tagnames: newsletter,newsletter-archive
+
 ---
 
 # Public Lab Weekly Community Newsletter 5.19.13
+
+by [gonzoearth](../profile/gonzoearth) May 20, 2013 05:08
+
+May 20, 2013 05:08 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
 
 A busy week in the community including a compelling story of grassroots mapping in Uganda and some amazing spectrometry research.
 

@@ -1,12 +1,18 @@
 ---
-nid: 1988
 title: Ein Karem, Jerusalem
-path: public/static/wiki/ein-karem-jerusalem.md
+tagnames: kite-mapping, education, jerusalem
+author: hagitkeysar
+path: /wiki/ein-karem-jerusalem.md
+nid: 1988
 uid: 152
-tagnames: kite-mapping,education,jerusalem
+
 ---
 
 # Ein Karem, Jerusalem
+
+by [hagitkeysar](../profile/hagitkeysar), [warren](../profile/warren), [shaief](../profile/shaief)
+
+May 15, 2012 10:37 | Tags: [kite-mapping](../tag/kite-mapping), [education](../tag/education), [jerusalem](../tag/jerusalem)
 
 This DIY aerial photograph of the Miriam Spring area in Ein Karem was done following a two day kite mapping workshop we conducted, Shai Efrati and myself with Jeffrey Warren of the Public Laboratory, during July 2011, with children from Ein Karem, Jerusalem. 
 

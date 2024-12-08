@@ -1,6 +1,6 @@
 # 3d-printing
 
-33 notes and wiki pages
+33 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Proposal: SLR spectrometer attachment](/notes/warren/07-20-2013/proposal-slr-spectrometer-attachment) by [warren](../profile/warren)
 - [Design for coffee spectrometer](/notes/warren/08-08-2013/design-for-coffee-spectrometer) by [warren](../profile/warren)
@@ -30,7 +30,6 @@
 - [DIY holiday](/notes/cfastie/12-25-2015/diy-holiday) by [cfastie](../profile/cfastie)
 - [Automating valves using a magnetic position sensor.](/notes/JSummers/04-01-2016/automating-valves-using-a-magnetic-position-sensor) by [JSummers](../profile/JSummers)
 - [ Spectrometer design 3d printer box](/notes/sebastian04/05-18-2016/spectrometer-design-3d-printer-box) by [sebastian04](../profile/sebastian04)
-- [What is The best 3D Printer in The market](/notes/smith59/09-05-2017/what-is-the-best-3d-printer-in-the-market) by [smith59](../profile/smith59)
 - [Help the Kits Initiative launch the Basic Microscope Kit by 3d printing lens adaptors!](/notes/bronwen/03-09-2018/help-the-kits-initiative-launch-the-basic-microscope-kit-by-3d-printing-lens-adaptors) by [Bronwen](../profile/Bronwen)
 - [Looking for people to help modify 3d printed pieces for the microscope.](/notes/stevie/04-12-2018/looking-for-people-to-help-modify-3d-printed-pieces-for-the-microscope) by [stevie](../profile/stevie)
 - [Hand-cut or lasercut a simple DIY microscope stage](/notes/warren/04-18-2018/hand-cut-or-lasercut-a-simple-diy-microscope-stage) by [warren](../profile/warren)

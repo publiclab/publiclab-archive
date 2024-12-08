@@ -1,12 +1,18 @@
 ---
-nid: 10201
 title: More kite ability
-path: public/static/notes/RoderickRead/03-19-2014/more-kite-ability.md
+tagnames: kite, kap, design, energy, steering, platform, first-time-poster
+author: RoderickRead
+path: /notes/RoderickRead/03-19-2014/more-kite-ability.md
+nid: 10201
 uid: 421588
-tagnames: kite,kap,design,energy,steering,platform,first-time-poster
+
 ---
 
 # More kite ability
+
+by [RoderickRead](../profile/RoderickRead) March 19, 2014 10:47
+
+March 19, 2014 10:47 | Tags: [kite](../tag/kite), [kap](../tag/kap), [design](../tag/design), [energy](../tag/energy), [steering](../tag/steering), [platform](../tag/platform), [first-time-poster](../tag/first-time-poster)
 
 I'd like to share research in kite functionality. 
 

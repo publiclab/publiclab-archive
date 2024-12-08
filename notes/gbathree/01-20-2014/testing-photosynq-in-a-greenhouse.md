@@ -1,12 +1,18 @@
 ---
-nid: 9960
 title: Testing PhotosynQ in a greenhouse
-path: public/static/notes/gbathree/01-20-2014/testing-photosynq-in-a-greenhouse.md
+tagnames: photosynq, category:measure
+author: gbathree
+path: /notes/gbathree/01-20-2014/testing-photosynq-in-a-greenhouse.md
+nid: 9960
 uid: 53164
-tagnames: photosynq,category:measure
+
 ---
 
 # Testing PhotosynQ in a greenhouse
+
+by [gbathree](../profile/gbathree) January 20, 2014 16:50
+
+January 20, 2014 16:50 | Tags: [photosynq](../tag/photosynq), [category:measure](../tag/category:measure)
 
 Just made a new post with some new data taken from a nearby greenhouse using MultispeQ.  We successfully tested a few different measurements, specifically photosynthetic efficiency (Phi2), SPAD (chlorophyll content), photosystem I activity, light level, CO2 content, temperature, and relative humidity.  The data looks really good!
 

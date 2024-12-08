@@ -1,12 +1,18 @@
 ---
-nid: 21105
 title: OneCranston
-path: public/static/wiki/onecranston.md
+tagnames: place, project, lat:41.7900, lon:-71.4570, unearthing-pvd-projects
+author: warren
+path: /wiki/onecranston.md
+nid: 21105
 uid: 1
-tagnames: place,project,lat:41.7900,lon:-71.4570,unearthing-pvd-projects
+
 ---
 
 # OneCranston
+
+by [warren](../profile/warren)
+
+October 07, 2019 14:14 | Tags: [place](../tag/place), [project](../tag/project), [lat:41.7900](../tag/lat:41.7900), [lon:-71.4570](../tag/lon:-71.4570), [unearthing-pvd-projects](../tag/unearthing-pvd-projects)
 
 > OneCranston is an initiative looking to build racial and social equity to help establish social cohesion across the City to gain economic mobility, with the Comprehensive Community Action Program as it’s backbone agency. ([source](https://www.livingcities.org/blog/1303-building-onecranston-through-collective-impact))
 

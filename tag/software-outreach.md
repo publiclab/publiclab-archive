@@ -1,6 +1,6 @@
 # software-outreach
 
-50 notes and wiki pages
+50 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [SoC ideas](/wiki/gsoc-ideas) (wiki)
 - [Growing the Public Lab Software Development Community](/notes/justinmanley/12-21-2014/growing-the-public-lab-software-development-community) by [justinmanley](../profile/justinmanley)
@@ -39,7 +39,6 @@
 - [SoC MeetUp at DTU](/notes/bansal_sidharth2996/09-12-2018/soc-meetup-at-dtu) by [bansal_sidharth2996](../profile/bansal_sidharth2996)
 - [Call for Outreachy 2018-19 proposals!](/notes/warren/10-23-2018/call-for-outreachy-2018-19-proposals) by [warren](../profile/warren)
 - [Public Lab Code Community Report: Jan 2019](/notes/warren/01-02-2019/public-lab-code-community-report-jan-2019) by [warren](../profile/warren)
-- [Skoda kodiaq ](/notes/skoda_kodiaq/01-02-2019/skoda-kodiaq) by [skoda_kodiaq](../profile/skoda_kodiaq)
 - [Brainstorming for Summer of Code 2019](/notes/warren/01-02-2019/brainstorming-for-summer-of-code-2019) by [warren](../profile/warren)
 - [Congrats to Google Code-In 2018 participants!](/notes/warren/01-07-2019/congrats-to-google-code-in-2018-participants) by [warren](../profile/warren)
 - [Call for Summer of Code 2019 mentors!](/notes/warren/01-09-2019/call-for-summer-of-code-2019-mentors) by [warren](../profile/warren)

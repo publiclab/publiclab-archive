@@ -1,12 +1,18 @@
 ---
-nid: 12975
 title: Light source limits
-path: public/static/notes/viechdokter/04-14-2016/light-source-limits.md
+tagnames: spectrometer, spectral-workbench, light-source, intensity
+author: viechdokter
+path: /notes/viechdokter/04-14-2016/light-source-limits.md
+nid: 12975
 uid: 468990
-tagnames: spectrometer,spectral-workbench,light-source,intensity
+
 ---
 
 # Light source limits
+
+by [viechdokter](../profile/viechdokter) April 14, 2016 10:21
+
+April 14, 2016 10:21 | Tags: [spectrometer](../tag/spectrometer), [spectral-workbench](../tag/spectral-workbench), [light-source](../tag/light-source), [intensity](../tag/intensity)
 
 Today I stumbled about another "problem". 
 

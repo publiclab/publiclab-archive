@@ -1,12 +1,18 @@
 ---
-nid: 12756
 title: tool development community outreach 
-path: public/static/wiki/tool-development-community-outreach.md
+tagnames: tool-focused, tool-development
+author: stevie
+path: /wiki/tool-development-community-outreach.md
+nid: 12756
 uid: 422561
-tagnames: tool-focused,tool-development
+
 ---
 
 # tool development community outreach 
+
+by [danbeavers](../profile/danbeavers), [stevie](../profile/stevie)
+
+February 26, 2016 21:09 | Tags: [tool-focused](../tag/tool-focused), [tool-development](../tag/tool-development)
 
 _***The word “Group” on this page used as an umbrella word for any community group, non-profit or other assembly of people (i.e. classes, clubs, workshops)._
 

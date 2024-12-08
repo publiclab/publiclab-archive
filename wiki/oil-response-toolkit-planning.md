@@ -1,12 +1,18 @@
 ---
-nid: 5448
 title: Oil Response Toolkit Planning
-path: public/static/wiki/oil-response-toolkit-planning.md
+tagnames: oil-spill-toolkit, cocodrie--la, oil-response-toolkit
+author: mathew
+path: /wiki/oil-response-toolkit-planning.md
+nid: 5448
 uid: 4
-tagnames: oil-spill-toolkit,cocodrie--la,oil-response-toolkit
+
 ---
 
 # Oil Response Toolkit Planning
+
+by [mathew](../profile/mathew)
+
+January 08, 2013 01:22 | Tags: [oil-spill-toolkit](../tag/oil-spill-toolkit), [cocodrie--la](../tag/cocodrie--la), [oil-response-toolkit](../tag/oil-response-toolkit)
 
 A substantial Public Lab cohort is [in Cocodrie doing focused work on our Oil Response Toolkit](/wiki/2013-wintercamp-new-orleans-and-cocodrie-la).  We'd previously [brainstormed on this topic at the Barnraising](/notes/mathew/11-15-2012/barnraising-oil-response-toolkit-brainstorm). 
 

@@ -1,6 +1,6 @@
 # lima
 
-21 notes and wiki pages
+21 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Very clear spectrum through pineapple](/notes/warren/12-24-2010/very-clear-spectrum-through-pineapple) by [warren](../profile/warren)
 - [NDVI test in Lima Peru](/notes/warren/12-24-2010/ndvi-test-lima-peru) by [warren](../profile/warren)
@@ -9,7 +9,6 @@
 - [Bifocal infrared/visible filter on a camera](/notes/warren/1-6-2011/bifocal-infraredvisible-filter-camera) by [warren](../profile/warren)
 - [Great shot for NDVI](/notes/warren/1-7-2011/great-shot-ndvi) by [warren](../profile/warren)
 - [Experiments with kites, balloons, and infrared photography at FabLab Lima](/notes/warren/05-01-2018/experiments-with-kites-balloons-and-infrared-photography-at-fablab-lima) by [warren](../profile/warren)
-- [Hyperspectral scan with Morflex](/notes/warren/1-11-2011/hyperspectral-scan-morflex) by [warren](../profile/warren)
 - [DIY Windmill and Solar Light Workshop](/notes/warren/05-01-2018/diy-windmill-and-solar-light-workshop) by [warren](../profile/warren)
 - [Images arriving from loose flight over Lima](/notes/warren/1-24-2011/images-arriving-loose-flight-over-lima) by [warren](../profile/warren)
 - [Focus shift in bifocal filter?](/notes/warren/1-26-2011/focus-shift-bifocal-filter) by [warren](../profile/warren)

@@ -1,12 +1,18 @@
 ---
-nid: 3702
 title: Designing a Spectrometer in the 1nm range for <10$ - PART 1
-path: public/static/notes/tof/9-9-2012/designing-spectrometer-1nm-range-10-part-1.md
+tagnames: spectrometer, digicam, nanometer, slide-mount, first-time-poster
+author: ToF
+path: /notes/tof/9-9-2012/designing-spectrometer-1nm-range-10-part-1.md
+nid: 3702
 uid: 42340
-tagnames: spectrometer,digicam,nanometer,slide-mount,first-time-poster
+
 ---
 
 # Designing a Spectrometer in the 1nm range for <10$ - PART 1
+
+by [ToF](../profile/ToF) September 09, 2012 18:17
+
+September 09, 2012 18:17 | Tags: [spectrometer](../tag/spectrometer), [digicam](../tag/digicam), [nanometer](../tag/nanometer), [slide-mount](../tag/slide-mount), [first-time-poster](../tag/first-time-poster)
 
 <strong><I>Level: Intermediate</I></strong>
 

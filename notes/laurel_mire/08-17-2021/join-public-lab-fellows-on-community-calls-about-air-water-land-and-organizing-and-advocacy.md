@@ -1,12 +1,18 @@
 ---
-nid: 27576
 title: Join Public Lab Fellows on community calls about air, water, land, and organizing and advocacy
-path: public/static/notes/laurel_mire/08-17-2021/join-public-lab-fellows-on-community-calls-about-air-water-land-and-organizing-and-advocacy.md
+tagnames: community, research, fellows, general, research-curation-fellows, with:julia_e_masters, with:alejobonifacio, with:fongvania
+author: laurel_mire
+path: /notes/laurel_mire/08-17-2021/join-public-lab-fellows-on-community-calls-about-air-water-land-and-organizing-and-advocacy.md
+nid: 27576
 uid: 759178
-tagnames: community,research,fellows,general,research-curation-fellows,with:julia_e_masters,with:alejobonifacio,with:fongvania
+
 ---
 
 # Join Public Lab Fellows on community calls about air, water, land, and organizing and advocacy
+
+by [laurel_mire](../profile/laurel_mire) August 17, 2021 22:33
+
+August 17, 2021 22:33 | Tags: [community](../tag/community), [research](../tag/research), [fellows](../tag/fellows), [general](../tag/general), [research-curation-fellows](../tag/research-curation-fellows), [with:julia_e_masters](../tag/with:julia_e_masters), [with:alejobonifacio](../tag/with:alejobonifacio), [with:fongvania](../tag/with:fongvania)
 
 _Announcing community calls hosted by Public Lab Research Curation Fellows_
 

@@ -1,12 +1,18 @@
 ---
-nid: 14554
 title: How do I cheaply do long-term outdoor timelapses?
-path: public/static/notes/warren/06-19-2017/how-do-i-cheaply-do-long-term-outdoor-timelapses.md
+tagnames: photo-monitoring, timelapse, gopro, question:timelapse, question:photo-monitoring
+author: warren
+path: /notes/warren/06-19-2017/how-do-i-cheaply-do-long-term-outdoor-timelapses.md
+nid: 14554
 uid: 1
-tagnames: photo-monitoring,timelapse,gopro,question:timelapse,question:photo-monitoring
+
 ---
 
 # How do I cheaply do long-term outdoor timelapses?
+
+by [warren](../profile/warren) June 19, 2017 16:22
+
+June 19, 2017 16:22 | Tags: [photo-monitoring](../tag/photo-monitoring), [timelapse](../tag/timelapse), [gopro](../tag/gopro), [question:timelapse](../tag/question:timelapse), [question:photo-monitoring](../tag/question:photo-monitoring)
 
 Over at https://publiclab.org/wiki/timelapse and https://publiclab.org/wiki/photo-monitoring, we've been collecting info on trail cameras as a way to monitor polluters. These cost about $100 each.
 

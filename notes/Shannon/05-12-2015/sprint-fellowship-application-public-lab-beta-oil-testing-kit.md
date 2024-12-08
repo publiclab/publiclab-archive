@@ -1,12 +1,18 @@
 ---
-nid: 11806
 title: Sprint Fellowship Application: Public Lab Beta Oil Testing Kit
-path: public/static/notes/Shannon/05-12-2015/sprint-fellowship-application-public-lab-beta-oil-testing-kit.md
+tagnames: oil-testing-kit, fellows
+author: Shannon
+path: /notes/Shannon/05-12-2015/sprint-fellowship-application-public-lab-beta-oil-testing-kit.md
+nid: 11806
 uid: 9
-tagnames: oil-testing-kit,fellows
+
 ---
 
 # Sprint Fellowship Application: Public Lab Beta Oil Testing Kit
+
+by [Shannon](../profile/Shannon) May 12, 2015 12:59
+
+May 12, 2015 12:59 | Tags: [oil-testing-kit](../tag/oil-testing-kit), [fellows](../tag/fellows)
 
 Application due: May 27, 2015</br/>
 Dates of Fellowship: mid-June to mid-September 2015</br/>

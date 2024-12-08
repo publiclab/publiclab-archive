@@ -1,12 +1,18 @@
 ---
-nid: 24746
 title: Translate guides!
-path: public/static/notes/liz/10-13-2020/translate-guides.md
+tagnames: translation, activity:translation
+author: liz
+path: /notes/liz/10-13-2020/translate-guides.md
+nid: 24746
 uid: 7
-tagnames: translation,activity:translation
+
 ---
 
 # Translate guides!
+
+by [liz](../profile/liz) October 13, 2020 15:24
+
+October 13, 2020 15:24 | Tags: [translation](../tag/translation), [activity:translation](../tag/activity:translation)
 
 If you visit https://publiclab.org/wiki/guides#Translations, you will see that the balloon mapping guide has been translated into a dozen languages—Arabic, Castellano/Spanish, Portuguese, Georgian, Hebrew, Korean, Chilean, Ukranian, Russian, Turkish/Türkçe, Dutch/Nederlands, and German. These translation efforts take place in Google Docs Presentations, which exist for each tool listed on http://publiclab.org/guides. Many of these translations were made by people organizing workshops in their areas, and sharing back the resources they created with the community. 
 

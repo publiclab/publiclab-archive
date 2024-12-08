@@ -1,6 +1,6 @@
 # outreachy-2020-proposals
 
-6 notes and wiki pages
+6 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Outreachy Proposal: Optimize Performance and Accessibility of Public Lab Content.](/notes/itm2017004/03-12-2020/outreachy-proposal-optimize-performance-and-accessibility-of-public-lab-content) by [itm2017004](../profile/itm2017004)
 - [Outreachy proposal: Optimize perofrmance and accessibility of Public Lab content](/notes/opetunde_adepoju/03-19-2020/outreachy-proposal) by [opetunde_adepoju](../profile/opetunde_adepoju)

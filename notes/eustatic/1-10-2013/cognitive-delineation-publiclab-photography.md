@@ -1,12 +1,18 @@
 ---
-nid: 5538
 title: Cognitive delineation from PublicLab photography
-path: public/static/notes/eustatic/1-10-2013/cognitive-delineation-publiclab-photography.md
+tagnames: balloon-mapping, near-infrared-camera, kite-mapping, barataria
+author: eustatic
+path: /1-10-2013/cognitive-delineation-publiclab-photography.md
+nid: 5538
 uid: 379
-tagnames: balloon-mapping,near-infrared-camera,kite-mapping,barataria
+
 ---
 
 # Cognitive delineation from PublicLab photography
+
+by [eustatic](../profile/eustatic) January 10, 2013 23:50
+
+January 10, 2013 23:50 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [barataria](../tag/barataria)
 
 Here is a PNG of a delineation I did by hand, of photos taken in 2011.
 

@@ -1,12 +1,18 @@
 ---
-nid: 18523
 title: Create a Visual difference in wikis and notes
-path: public/static/notes/lekhidugtal/03-12-2019/create-a-visual-difference-in-wikis-and-notes.md
+tagnames: design, ui, first-time-poster, ui-designs, notes, wikis
+author: lekhidugtal
+path: /notes/lekhidugtal/03-12-2019/create-a-visual-difference-in-wikis-and-notes.md
+nid: 18523
 uid: 577754
-tagnames: design,ui,first-time-poster,ui-designs,notes,wikis
+
 ---
 
 # Create a Visual difference in wikis and notes
+
+by [lekhidugtal](../profile/lekhidugtal) March 12, 2019 16:52
+
+March 12, 2019 16:52 | Tags: [design](../tag/design), [ui](../tag/ui), [first-time-poster](../tag/first-time-poster), [ui-designs](../tag/ui-designs), [notes](../tag/notes), [wikis](../tag/wikis)
 
 I tried to create a visual difference between the wiki and notes pages using the UI design.  
 As already stated in the issue , the ui for wikis and notes were same and you can't differentiate between them unless you saw the link.  

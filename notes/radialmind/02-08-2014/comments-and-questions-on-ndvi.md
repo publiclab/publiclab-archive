@@ -1,12 +1,18 @@
 ---
-nid: 10021
 title: Comments and questions on NDVI
-path: public/static/notes/radialmind/02-08-2014/comments-and-questions-on-ndvi.md
+tagnames: near-infrared-camera, ndvi, infragram, wratten25a, first-time-poster
+author: radialmind
+path: /notes/radialmind/02-08-2014/comments-and-questions-on-ndvi.md
+nid: 10021
 uid: 170347
-tagnames: near-infrared-camera,ndvi,infragram,wratten25a,first-time-poster
+
 ---
 
 # Comments and questions on NDVI
+
+by [radialmind](../profile/radialmind) February 08, 2014 12:54
+
+February 08, 2014 12:54 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [infragram](../tag/infragram), [wratten25a](../tag/wratten25a), [first-time-poster](../tag/first-time-poster)
 
 ###What I want to do
 I have converted a Canon Powershot ELPH 300 HS to use a wratten25A filter and I'm trying out, taking some photographs from vegetation places here and there. I'm evaluating how well these results fit my expectations and I notice some interesting results.

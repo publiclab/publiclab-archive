@@ -1,12 +1,18 @@
 ---
-nid: 10451
 title: quebec-city
-path: public/static/wiki/quebec-city.md
+tagnames: quebec, canada, lang:fr, parent:northeast
+author: bdebaque
+path: /wiki/quebec-city.md
+nid: 10451
 uid: 57052
-tagnames: quebec,canada,lang:fr,parent:northeast
+
 ---
 
 # quebec-city
+
+by [warren](../profile/warren), [bdebaque](../profile/bdebaque)
+
+May 08, 2014 13:46 | Tags: [quebec](../tag/quebec), [canada](../tag/canada), [lang:fr](../tag/lang:fr), [parent:northeast](../tag/parent:northeast)
 
 We are based in Québec City, starting environmental and public health projects.
 We are deeply involved with the fablab de Québec.

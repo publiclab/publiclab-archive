@@ -1,12 +1,18 @@
 ---
-nid: 6225
 title: Polynomial
-path: public/static/notes/cfastie/3-6-2013/polynomial.md
+tagnames: spectrometer, vermont, calibration, spectralworkbench, cfl, ebert, nonlinear, non-linear, polynomial
+author: cfastie
+path: /notes/cfastie/3-6-2013/polynomial.md
+nid: 6225
 uid: 554
-tagnames: spectrometer,vermont,calibration,spectralworkbench,cfl,ebert,nonlinear,non-linear,polynomial
+
 ---
 
 # Polynomial
+
+by [cfastie](../profile/cfastie) March 07, 2013 04:14
+
+March 07, 2013 04:14 | Tags: [spectrometer](../tag/spectrometer), [vermont](../tag/vermont), [calibration](../tag/calibration), [spectralworkbench](../tag/spectralworkbench), [cfl](../tag/cfl), [ebert](../tag/ebert), [nonlinear](../tag/nonlinear), [non-linear](../tag/non-linear), [polynomial](../tag/polynomial)
 
 <em>Image above: Spectrum of a CFL calibrated by anchoring two well-known peaks at 405 and 650 nm (arrows). Other peaks do not align well with their known wavelengths.</em>
 

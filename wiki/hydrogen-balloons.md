@@ -1,12 +1,18 @@
 ---
-nid: 1732
 title: Hydrogen Balloons
-path: public/static/wiki/hydrogen-balloons.md
+tagnames: balloon-mapping, grassrootsmappingwiki, hydrogen, diy-balloon, nuvu
+author: warren
+path: /wiki/hydrogen-balloons.md
+nid: 1732
 uid: 1
-tagnames: balloon-mapping,grassrootsmappingwiki,hydrogen,diy-balloon,nuvu
+
 ---
 
 # Hydrogen Balloons
+
+by [mathew](../profile/mathew), [oscarbrett](../profile/oscarbrett), [warren](../profile/warren)
+
+April 21, 2012 14:48 | Tags: [balloon-mapping](../tag/balloon-mapping), [grassrootsmappingwiki](../tag/grassrootsmappingwiki), [hydrogen](../tag/hydrogen), [diy-balloon](../tag/diy-balloon), [nuvu](../tag/nuvu)
 
 ##Why Hydrogen?##
 With Helium being expensive and now subject to shortage, many people are looking for more available and inexpensive alternatives.  Hydrogen is the only gas providing lift similar to helium, in fact, it provides [about 7-8% more lift](http://www.chem.hawaii.edu/uham/lift.html).Hydrogen is widely used in atmospheric sounding balloons outside North America.

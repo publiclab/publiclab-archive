@@ -1,12 +1,18 @@
 ---
-nid: 16333
 title: Toys - Creating and Painting
-path: public/static/notes/rafaelsol/05-12-2018/toys-creating-and-painting.md
-uid: 534191
 tagnames: 
+author: rafaelsol
+path: /notes/rafaelsol/05-12-2018/toys-creating-and-painting.md
+nid: 16333
+uid: 534191
+
 ---
 
 # Toys - Creating and Painting
+
+by [rafaelsol](../profile/rafaelsol) May 12, 2018 13:06
+
+May 12, 2018 13:06 | Tags: 
 
 ## What I want to do
 

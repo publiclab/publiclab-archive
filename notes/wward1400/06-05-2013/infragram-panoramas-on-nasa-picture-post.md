@@ -1,12 +1,18 @@
 ---
-nid: 8074
 title: Infragram Panoramas on Picture Post
-path: public/static/notes/wward1400/06-05-2013/infragram-panoramas-on-nasa-picture-post.md
+tagnames: new-york-city, nrg, nir, nasa, community-garden, infragram, new-orleans, picturepost
+author: wward1400
+path: /notes/wward1400/06-05-2013/infragram-panoramas-on-nasa-picture-post.md
+nid: 8074
 uid: 46742
-tagnames: new-york-city,nrg,nir,nasa,community-garden,infragram,new-orleans,picturepost
+
 ---
 
 # Infragram Panoramas on Picture Post
+
+by [wward1400](../profile/wward1400) June 05, 2013 16:08
+
+June 05, 2013 16:08 | Tags: [new-york-city](../tag/new-york-city), [nrg](../tag/nrg), [nir](../tag/nir), [nasa](../tag/nasa), [community-garden](../tag/community-garden), [infragram](../tag/infragram), [new-orleans](../tag/new-orleans), [picturepost](../tag/picturepost)
 
 ##What I want to do
 [Picture Post (map of locations)](http://picturepost.unh.edu/) is a pathway for citizen science where a stable post/platform is installed in an area of interest that allows anyone passing by to place their camera down & take images in nearly the same relatively fixed position in [8 directions](http://lawrencehallofscience.org/gss/dew/mvhtools/build_picturepost.htm) as well as 1 of the sky to capture [change over time](http://lawrencehallofscience.org/gss/dew/mvhtools/using_pictures.htm) from a relatively fixed position (picturepost.smugmug.com is now picturepost.unh.edu)--another approach to [crowdsourced ecology](http://babelniche.wordpress.com/2011/01/24/crowd-sourced-ecology-the-picture-post/) & stems from an idea by former [Polaroid engineer, David Bean](http://www.lawrencehallofscience.org/gss/dew/mvhtools/history_picturepost.htm).

@@ -1,12 +1,18 @@
 ---
-nid: 12718
 title: Mapping Rural Alberta's Wetlands
-path: public/static/notes/Rural/02-22-2016/mapping-rural-alberta-s-wetlands.md
+tagnames: kite-mapping, wetlands, blog, canada, alberta, location:blurred, lat:50, lon:-110, place:alberta-canada
+author: Rural
+path: /notes/Rural/02-22-2016/mapping-rural-alberta-s-wetlands.md
+nid: 12718
 uid: 428405
-tagnames: kite-mapping,wetlands,blog,canada,alberta,location:blurred,lat:50,lon:-110,place:alberta-canada
+
 ---
 
 # Mapping Rural Alberta's Wetlands
+
+by [Rural](../profile/Rural) February 22, 2016 05:17
+
+February 22, 2016 05:17 | Tags: [kite-mapping](../tag/kite-mapping), [wetlands](../tag/wetlands), [blog](../tag/blog), [canada](../tag/canada), [alberta](../tag/alberta), [location:blurred](../tag/location:blurred), [lat:50](../tag/lat:50), [lon:-110](../tag/lon:-110), [place:alberta-canada](../tag/place:alberta-canada)
 
 ###Background
 Alberta, Canada, has a great deal of land area in wetlands and has fairly strong laws in place to protect those wetlands. Despite those protections, wetlands are illegally drained and filled-in each year, mostly for conversion into farmland, but also for development projects of all kinds. Alberta's provincial government has a department in place to handle permitting of wetland modification and to levy fines against unpermitted modification.

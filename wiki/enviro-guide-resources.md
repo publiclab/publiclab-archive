@@ -1,12 +1,18 @@
 ---
-nid: 12621
 title: Enviro Guide Resources
-path: public/static/wiki/enviro-guide-resources.md
+tagnames: guides, reporting, advocacy, civic, parent:guides, studies, parent:advocacy, parent:reporting
+author: gretchengehrke
+path: /wiki/enviro-guide-resources.md
+nid: 12621
 uid: 430549
-tagnames: guides,reporting,advocacy,civic,parent:guides,studies,parent:advocacy,parent:reporting
+
 ---
 
 # Enviro Guide Resources
+
+by [eustatic](../profile/eustatic), [gretchengehrke](../profile/gretchengehrke)
+
+January 26, 2016 19:20 | Tags: [guides](../tag/guides), [reporting](../tag/reporting), [advocacy](../tag/advocacy), [civic](../tag/civic), [parent:guides](../tag/parent:guides), [studies](../tag/studies), [parent:advocacy](../tag/parent:advocacy), [parent:reporting](../tag/parent:reporting)
 
 This wiki is a collection of environmental action and advocacy guides that are publicly available. Many are offered from environmental justice nonprofit organizations.  The resources listed here include procedures for reporting pollution, developing an environmental monitoring or health studies, and advocating for environmental protection. 
 

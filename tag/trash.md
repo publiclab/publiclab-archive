@@ -1,6 +1,6 @@
 # trash
 
-17 notes and wiki pages
+17 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Landfill Incinerator. Saugus, Massachusetts](/map/landfill-incinerator-saugus-massachusetts/2011-10-10) by [gonzoearth](../profile/gonzoearth)
 - [ITP Camp @ Fresh Kills](/notes/nejohnson2/06-17-2013/itp-camp-fresh-kills) by [nicholas](../profile/nicholas)

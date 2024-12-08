@@ -1,12 +1,18 @@
 ---
-nid: 19764
 title: Bridge Trawl
-path: public/static/notes/TestOurWaters/06-20-2019/bridge-trawl.md
+tagnames: water-quality, micro-plastics, microplastics, plastics, trawl, oceans, activity:microplastics
+author: TestOurWaters
+path: /notes/TestOurWaters/06-20-2019/bridge-trawl.md
+nid: 19764
 uid: 597615
-tagnames: water-quality,micro-plastics,microplastics,plastics,trawl,oceans,activity:microplastics
+
 ---
 
 # Bridge Trawl
+
+by [TestOurWaters](../profile/TestOurWaters) June 20, 2019 17:29
+
+June 20, 2019 17:29 | Tags: [water-quality](../tag/water-quality), [micro-plastics](../tag/micro-plastics), [microplastics](../tag/microplastics), [plastics](../tag/plastics), [trawl](../tag/trawl), [oceans](../tag/oceans), [activity:microplastics](../tag/activity:microplastics)
 
 # The Trawl
 

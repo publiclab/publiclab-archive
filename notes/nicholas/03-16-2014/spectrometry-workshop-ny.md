@@ -1,12 +1,18 @@
 ---
-nid: 10190
 title: Spectrometry workshop - NY
-path: public/static/notes/nicholas/03-16-2014/spectrometry-workshop-ny.md
+tagnames: new-york-city, spectrometry, laser
+author: nicholas
+path: /notes/nicholas/03-16-2014/spectrometry-workshop-ny.md
+nid: 10190
 uid: 53894
-tagnames: new-york-city,spectrometry,laser
+
 ---
 
 # Spectrometry workshop - NY
+
+by [nicholas](../profile/nicholas) March 16, 2014 20:37
+
+March 16, 2014 20:37 | Tags: [new-york-city](../tag/new-york-city), [spectrometry](../tag/spectrometry), [laser](../tag/laser)
 
 ###What I want to do
 [![IMG_1599.jpg](https://i.publiclab.org/system/images/photos/000/003/276/medium/IMG_1599.jpg)](https://i.publiclab.org/system/images/photos/000/003/276/original/IMG_1599.jpg)

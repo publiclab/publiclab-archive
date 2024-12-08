@@ -1,12 +1,18 @@
 ---
-nid: 21554
 title: Public Lab Job Posting: Full Stack Developer
-path: public/static/notes/thewrightjess/11-22-2019/public-lab-job-posting-full-stack-developer.md
-uid: 603909
 tagnames: jobs
+author: thewrightjess
+path: /notes/thewrightjess/11-22-2019/public-lab-job-posting-full-stack-developer.md
+nid: 21554
+uid: 603909
+
 ---
 
 # Public Lab Job Posting: Full Stack Developer
+
+by [thewrightjess](../profile/thewrightjess) November 22, 2019 13:20
+
+November 22, 2019 13:20 | Tags: [jobs](../tag/jobs)
 
 #### About Public Lab
 

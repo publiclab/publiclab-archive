@@ -1,12 +1,18 @@
 ---
-nid: 10055
 title: Updated initial NDVI results from A1200 with internal Wratten 25
-path: public/static/notes/patcoyle/02-22-2014/initial-ndvi-results-with-a1200-with-internal-wratten-25.md
+tagnames: ndvi, a1200, infrared-camera, infrablue, wratten25a, a490
+author: patcoyle
+path: /notes/patcoyle/02-22-2014/initial-ndvi-results-with-a1200-with-internal-wratten-25.md
+nid: 10055
 uid: 77
-tagnames: ndvi,a1200,infrared-camera,infrablue,wratten25a,a490
+
 ---
 
 # Updated initial NDVI results from A1200 with internal Wratten 25
+
+by [patcoyle](../profile/patcoyle) February 22, 2014 05:24
+
+February 22, 2014 05:24 | Tags: [ndvi](../tag/ndvi), [a1200](../tag/a1200), [infrared-camera](../tag/infrared-camera), [infrablue](../tag/infrablue), [wratten25a](../tag/wratten25a), [a490](../tag/a490)
 
 ###What I want to do
 Motivated by Chris Fastie and Ned Horning's work, change internal filter on A1200 from exposed color film (for NIR two-camera approach) to Wratten 25. [I already tried the Wratten 25 as an external filter on an A490](http://publiclab.org/notes/patcoyle/01-30-2014/initial-experience-with-wratten-25-filter-on-a490). However, I wanted to mount the gel film  inside to protect it. Try it for NDVI. 

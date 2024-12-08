@@ -1,12 +1,18 @@
 ---
-nid: 24116
 title: Law and Policy
-path: public/static/wiki/law-and-policy.md
+tagnames: evidence, reporting, legal, regulations, advocacy, enforcement, public-comment, permits, federal-regulations, state-regulations, environmental-regulations, parent:advocacy, law-and-policy
+author: bhamster
+path: /wiki/law-and-policy.md
+nid: 24116
 uid: 664477
-tagnames: evidence,reporting,legal,regulations,advocacy,enforcement,public-comment,permits,federal-regulations,state-regulations,environmental-regulations,parent:advocacy,law-and-policy
+
 ---
 
 # Law and Policy
+
+by [bhamster](../profile/bhamster), [liz](../profile/liz)
+
+July 08, 2020 16:05 | Tags: [evidence](../tag/evidence), [reporting](../tag/reporting), [legal](../tag/legal), [regulations](../tag/regulations), [advocacy](../tag/advocacy), [enforcement](../tag/enforcement), [public-comment](../tag/public-comment), [permits](../tag/permits), [federal-regulations](../tag/federal-regulations), [state-regulations](../tag/state-regulations), [environmental-regulations](../tag/environmental-regulations), [parent:advocacy](../tag/parent:advocacy), [law-and-policy](../tag/law-and-policy)
 
 How do laws, regulations, policies, and community science affect each other? Community-collected data has the power to prompt local, state, or federal action by alerting government agencies to an issue. Failures and gaps at the regulatory level are often what leads communities to do their own environmental monitoring and advocacy work. At the same time, laws will affect how community scientists can collect their data for maximum potential impact. 
 

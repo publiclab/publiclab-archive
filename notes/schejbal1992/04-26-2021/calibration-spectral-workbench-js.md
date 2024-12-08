@@ -1,12 +1,18 @@
 ---
-nid: 26345
 title: Calibration  spectral-workbench.js
-path: public/static/notes/schejbal1992/04-26-2021/calibration-spectral-workbench-js.md
+tagnames: calibration, question:general, general, first-time-poster, spectral-workbench.js
+author: schejbal1992
+path: /notes/schejbal1992/04-26-2021/calibration-spectral-workbench-js.md
+nid: 26345
 uid: 677686
-tagnames: calibration,question:general,general,first-time-poster,spectral-workbench.js
+
 ---
 
 # Calibration  spectral-workbench.js
+
+by [schejbal1992](../profile/schejbal1992) April 26, 2021 11:23
+
+April 26, 2021 11:23 | Tags: [calibration](../tag/calibration), [question:general](../tag/question:general), [general](../tag/general), [first-time-poster](../tag/first-time-poster), [spectral-workbench.js](../tag/spectral-workbench.js)
 
 Hello,
 

@@ -1,12 +1,18 @@
 ---
-nid: 13920
 title: Air Quality Monitoring at UWEC
-path: public/static/notes/bkleist/02-10-2017/air-quality-monitoring-at-uwec.md
+tagnames: photo-monitoring, wisconsin, air-quality, timelapse, particulates, pm, dylos, pm-monitoring, trail-camera, uwec, story:timelapse, timelapse-story
+author: bkleist
+path: /notes/bkleist/02-10-2017/air-quality-monitoring-at-uwec.md
+nid: 13920
 uid: 489504
-tagnames: photo-monitoring,wisconsin,air-quality,timelapse,particulates,pm,dylos,pm-monitoring,trail-camera,uwec,story:timelapse,timelapse-story
+
 ---
 
 # Air Quality Monitoring at UWEC
+
+by [bkleist](../profile/bkleist) February 10, 2017 21:54
+
+February 10, 2017 21:54 | Tags: [photo-monitoring](../tag/photo-monitoring), [wisconsin](../tag/wisconsin), [air-quality](../tag/air-quality), [timelapse](../tag/timelapse), [particulates](../tag/particulates), [pm](../tag/pm), [dylos](../tag/dylos), [pm-monitoring](../tag/pm-monitoring), [trail-camera](../tag/trail-camera), [uwec](../tag/uwec), [story:timelapse](../tag/story:timelapse), [timelapse-story](../tag/timelapse-story)
 
 Air quality research is beginning again once again in Eau Claire, this time a bit closer to home. The university is planning a [construction project](http://www.uwec.edu/facprojects/garfield.htm) to remodel Garfield Ave, a street that cuts through the campus. Our research team is moving some of our equipment from Bloomer WI, to the UWEC campus to take measurements during construction. We have also received a new trail camera that Public Lab generously sent us to use, which our research professor has had in his possession. I will be picking up the camera later today and will be familiarizing myself with it this week. I will post another research note once the role of the camera in this research becomes more clear, probably in about a week or so. 
 

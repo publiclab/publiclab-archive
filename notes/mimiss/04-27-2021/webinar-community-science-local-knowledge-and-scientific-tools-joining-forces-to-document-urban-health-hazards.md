@@ -1,12 +1,18 @@
 ---
-nid: 26374
 title: Webinar: Community Science – Local Knowledge and Scientific Tools Joining Forces to Document Urban Health Hazards
-path: public/static/notes/mimiss/04-27-2021/webinar-community-science-local-knowledge-and-scientific-tools-joining-forces-to-document-urban-health-hazards.md
+tagnames: balloon-mapping, education, event, new-orleans
+author: mimiss
+path: /notes/mimiss/04-27-2021/webinar-community-science-local-knowledge-and-scientific-tools-joining-forces-to-document-urban-health-hazards.md
+nid: 26374
 uid: 579821
-tagnames: balloon-mapping,education,event,new-orleans
+
 ---
 
 # Webinar: Community Science – Local Knowledge and Scientific Tools Joining Forces to Document Urban Health Hazards
+
+by [mimiss](../profile/mimiss) April 27, 2021 19:50
+
+April 27, 2021 19:50 | Tags: [balloon-mapping](../tag/balloon-mapping), [education](../tag/education), [event](../tag/event), [new-orleans](../tag/new-orleans)
 
 _This event was shared with Public Lab staff and will feature the work longtime partner, the Claiborne Avenue Alliance._
 

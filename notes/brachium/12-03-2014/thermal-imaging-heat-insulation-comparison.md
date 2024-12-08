@@ -1,12 +1,18 @@
 ---
-nid: 11426
 title: Thermal Imaging: Heat Insulation Comparison 
-path: public/static/notes/brachium/12-03-2014/thermal-imaging-heat-insulation-comparison.md
+tagnames: thermal-photography, thermal-flashlight, thermal-imaging, northeastern, insulation, heat, activity:thermal-flashlight, replication:625
+author: brachium
+path: /notes/brachium/12-03-2014/thermal-imaging-heat-insulation-comparison.md
+nid: 11426
 uid: 432269
-tagnames: thermal-photography,thermal-flashlight,thermal-imaging,northeastern,insulation,heat,activity:thermal-flashlight,replication:625
+
 ---
 
 # Thermal Imaging: Heat Insulation Comparison 
+
+by [brachium](../profile/brachium) December 03, 2014 13:05
+
+December 03, 2014 13:05 | Tags: [thermal-photography](../tag/thermal-photography), [thermal-flashlight](../tag/thermal-flashlight), [thermal-imaging](../tag/thermal-imaging), [northeastern](../tag/northeastern), [insulation](../tag/insulation), [heat](../tag/heat), [activity:thermal-flashlight](../tag/activity:thermal-flashlight), [replication:625](../tag/replication:625)
 
 Project Contributors: Mara Berganovsky, Henry Ca, Emily Polhemus
 ###What we used

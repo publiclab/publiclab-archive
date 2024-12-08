@@ -1,6 +1,6 @@
 # wind-sensor
 
-7 notes and wiki pages
+7 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [How do we measure particulate stuff in the air?](/notes/donblair/05-03-2014/how-do-we-measure-particulate-stuff-in-the-air) by [donblair](../profile/donblair)
 - [Winds aloft](/notes/cfastie/08-03-2017/winds-aloft) by [cfastie](../profile/cfastie)

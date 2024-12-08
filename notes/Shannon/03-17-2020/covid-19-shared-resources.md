@@ -1,12 +1,18 @@
 ---
-nid: 23163
 title: COVID-19: Tips for working remotely
-path: public/static/notes/Shannon/03-17-2020/covid-19-shared-resources.md
+tagnames: blog, with:stevie, with:liz, with:joyofsoy, with:mimiss, morninghello, covid-19
+author: Shannon
+path: /notes/Shannon/03-17-2020/covid-19-shared-resources.md
+nid: 23163
 uid: 9
-tagnames: blog,with:stevie,with:liz,with:joyofsoy,with:mimiss,morninghello,covid-19
+
 ---
 
 # COVID-19: Tips for working remotely
+
+by [Shannon](../profile/Shannon) March 17, 2020 20:25
+
+March 17, 2020 20:25 | Tags: [blog](../tag/blog), [with:stevie](../tag/with:stevie), [with:liz](../tag/with:liz), [with:joyofsoy](../tag/with:joyofsoy), [with:mimiss](../tag/with:mimiss), [morninghello](../tag/morninghello), [covid-19](../tag/covid-19)
 
 For ten years, the Public Lab staff and community have collaborated and worked remotely to support each other in solving environmental questions. There are lots of resources being shared on remote work culture and communication, so we've put together a quick list of articles from colleagues and suggestions from our own team.
 

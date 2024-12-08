@@ -1,12 +1,18 @@
 ---
-nid: 3655
 title: Public Lab Barnraisings
-path: public/static/wiki/barnraising.md
+tagnames: gulf-coast, conferences, events, registration, barnraising, events:gulf-coast, list:plots-barnraising, parent:events, locked, dataforblacklives, pin:barnraising, pin:events, pin:conference
+author: Shannon
+path: /wiki/barnraising.md
+nid: 3655
 uid: 9
-tagnames: gulf-coast,conferences,events,registration,barnraising,events:gulf-coast,list:plots-barnraising,parent:events,locked,dataforblacklives,pin:barnraising,pin:events,pin:conference
+
 ---
 
 # Public Lab Barnraisings
+
+by [jmacha](../profile/jmacha), [michelleiL](../profile/michelleiL), [joyofsoy](../profile/joyofsoy), [stevie](../profile/stevie), [liz](../profile/liz), [warren](../profile/warren), [zengirl2](../profile/zengirl2), [shanlter](../profile/shanlter), [Shannon](../profile/Shannon), [Aisha](../profile/Aisha), [sw285](../profile/sw285), [hyon](../profile/hyon), [Becki](../profile/Becki), [eustatic](../profile/eustatic), [wward1400](../profile/wward1400), [geography76](../profile/geography76), [klie](../profile/klie), [lilahiggins](../profile/lilahiggins), [soleri](../profile/soleri), [lombana](../profile/lombana), [ddileona](../profile/ddileona), [kanarinka](../profile/kanarinka), [ann](../profile/ann), [cindy_excites](../profile/cindy_excites), [vjpixel](../profile/vjpixel), [Bronwen](../profile/Bronwen), [dbild](../profile/dbild), [Damato](../profile/Damato), [bsugar](../profile/bsugar), [geraldmc](../profile/geraldmc), [cfastie](../profile/cfastie), [ygzstc](../profile/ygzstc), [jbreen](../profile/jbreen), [mathew](../profile/mathew), [lilybui](../profile/lilybui), [gracecagle](../profile/gracecagle), [nshapiro](../profile/nshapiro), [kgradow1](../profile/kgradow1), [mollydanielsson](../profile/mollydanielsson), [patcoyle](../profile/patcoyle), [donblair](../profile/donblair), [gonzoearth](../profile/gonzoearth), [danbeavers](../profile/danbeavers), [Livioguerrero](../profile/Livioguerrero), [Hudonnoodles](../profile/Hudonnoodles), [oscarbrett](../profile/oscarbrett), [clauds](../profile/clauds), [hagitkeysar](../profile/hagitkeysar), [sara](../profile/sara)
+
+September 05, 2012 20:57 | Tags: [gulf-coast](../tag/gulf-coast), [conferences](../tag/conferences), [events](../tag/events), [registration](../tag/registration), [barnraising](../tag/barnraising), [events:gulf-coast](../tag/events:gulf-coast), [list:plots-barnraising](../tag/list:plots-barnraising), [parent:events](../tag/parent:events), [locked](../tag/locked), [dataforblacklives](../tag/dataforblacklives), [pin:barnraising](../tag/pin:barnraising), [pin:events](../tag/pin:events), [pin:conference](../tag/pin:conference)
 
 ### What is a Barnraising?
 

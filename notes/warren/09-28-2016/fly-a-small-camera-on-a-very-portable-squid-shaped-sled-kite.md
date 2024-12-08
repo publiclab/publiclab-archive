@@ -1,12 +1,18 @@
 ---
-nid: 13502
 title: Fly a small camera on a very portable (squid-shaped) sled kite
-path: public/static/notes/warren/09-28-2016/fly-a-small-camera-on-a-very-portable-squid-shaped-sled-kite.md
+tagnames: kite-mapping, kap, leaffest, mobius, kap-rigs, diy-mount-kit, mini-kite-kit, portability, activity:aerial-photography, activity:kite-mapping, replication:13163, activity:mini-kite-kit, activity:aerial-mapping
+author: warren
+path: /notes/warren/09-28-2016/fly-a-small-camera-on-a-very-portable-squid-shaped-sled-kite.md
+nid: 13502
 uid: 1
-tagnames: kite-mapping,kap,leaffest,mobius,kap-rigs,diy-mount-kit,mini-kite-kit,portability,activity:aerial-photography,activity:kite-mapping,replication:13163,activity:mini-kite-kit,activity:aerial-mapping
+
 ---
 
 # Fly a small camera on a very portable (squid-shaped) sled kite
+
+by [warren](../profile/warren) September 28, 2016 22:52
+
+September 28, 2016 22:52 | Tags: [kite-mapping](../tag/kite-mapping), [kap](../tag/kap), [leaffest](../tag/leaffest), [mobius](../tag/mobius), [kap-rigs](../tag/kap-rigs), [diy-mount-kit](../tag/diy-mount-kit), [mini-kite-kit](../tag/mini-kite-kit), [portability](../tag/portability), [activity:aerial-photography](../tag/activity:aerial-photography), [activity:kite-mapping](../tag/activity:kite-mapping), [replication:13163](../tag/replication:13163), [activity:mini-kite-kit](../tag/activity:mini-kite-kit), [activity:aerial-mapping](../tag/activity:aerial-mapping)
 
 ### What I want to do
 

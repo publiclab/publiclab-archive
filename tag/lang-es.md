@@ -1,6 +1,6 @@
 # lang-es
 
-75 notes and wiki pages
+75 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [El Laboratorio Publico](/es) (wiki)
 - [Taller de espectrometría "DIY" en Lima, Peru](/notes/warren/05-01-2018/taller-de-espectrometria-diy-en-lima-peru) by [warren](../profile/warren)

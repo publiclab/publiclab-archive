@@ -1,12 +1,18 @@
 ---
-nid: 12514
 title: Materials/ Instructable for Blue Light Sensor
-path: public/static/notes/filimon_k/12-14-2015/materials-instructable-for-blue-light-sensor.md
+tagnames: sensors, light, blue, wearables, photocell
+author: filimon_k
+path: /notes/filimon_k/12-14-2015/materials-instructable-for-blue-light-sensor.md
+nid: 12514
 uid: 460113
-tagnames: sensors,light,blue,wearables,photocell
+
 ---
 
 # Materials/ Instructable for Blue Light Sensor
+
+by [filimon_k](../profile/filimon_k) December 14, 2015 04:17
+
+December 14, 2015 04:17 | Tags: [sensors](../tag/sensors), [light](../tag/light), [blue](../tag/blue), [wearables](../tag/wearables), [photocell](../tag/photocell)
 
 ###What I want to do
 Measure the amount of blue light we encounter on a daily basis

@@ -1,12 +1,18 @@
 ---
-nid: 37962
 title: One Acre at a Time: Impact from rural development in Wittmann, Arizona
-path: public/static/notes/PJDDusschee/12-11-2022/one-acre-at-a-time-impact-from-rural-development-in-wittmann-arizona.md
+tagnames: issue-brief, first-time-poster, lat:33, zoom:8, lon:-112, rural-development, sonoran-desert, wildlife-habitat-destruction
+author: PJDDusschee
+path: /notes/PJDDusschee/12-11-2022/one-acre-at-a-time-impact-from-rural-development-in-wittmann-arizona.md
+nid: 37962
 uid: 824245
-tagnames: issue-brief,first-time-poster,lat:33,zoom:8,lon:-112,rural-development,sonoran-desert,wildlife-habitat-destruction
+
 ---
 
 # One Acre at a Time: Impact from rural development in Wittmann, Arizona
+
+by [PJDDusschee](../profile/PJDDusschee) December 11, 2022 19:24
+
+December 11, 2022 19:24 | Tags: [issue-brief](../tag/issue-brief), [first-time-poster](../tag/first-time-poster), [lat:33](../tag/lat:33), [zoom:8](../tag/zoom:8), [lon:-112](../tag/lon:-112), [rural-development](../tag/rural-development), [sonoran-desert](../tag/sonoran-desert), [wildlife-habitat-destruction](../tag/wildlife-habitat-destruction)
 
 ### Introduction:
 

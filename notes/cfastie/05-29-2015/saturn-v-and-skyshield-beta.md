@@ -1,12 +1,18 @@
 ---
-nid: 11900
 title: Saturn V and SkyShield beta 
-path: public/static/notes/cfastie/05-29-2015/saturn-v-and-skyshield-beta.md
+tagnames: kite-aerial-photography, kap, photo-rig, autokap, with:donblair, kaptery, saturnv, skyshield, response:11830
+author: cfastie
+path: /notes/cfastie/05-29-2015/saturn-v-and-skyshield-beta.md
+nid: 11900
 uid: 554
-tagnames: kite-aerial-photography,kap,photo-rig,autokap,with:donblair,kaptery,saturnv,skyshield,response:11830
+
 ---
 
 # Saturn V and SkyShield beta 
+
+by [cfastie](../profile/cfastie) May 29, 2015 17:58
+
+May 29, 2015 17:58 | Tags: [kite-aerial-photography](../tag/kite-aerial-photography), [kap](../tag/kap), [photo-rig](../tag/photo-rig), [autokap](../tag/autokap), [with:donblair](../tag/with:donblair), [kaptery](../tag/kaptery), [saturnv](../tag/saturnv), [skyshield](../tag/skyshield), [response:11830](../tag/response:11830)
 
 *Image above: The SkyShield on an Arduino Nano.*  
 .  

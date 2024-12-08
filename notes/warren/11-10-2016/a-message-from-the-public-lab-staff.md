@@ -1,12 +1,18 @@
 ---
-nid: 13693
 title: A message from the Public Lab staff
-path: public/static/notes/warren/11-10-2016/a-message-from-the-public-lab-staff.md
-uid: 1
 tagnames: blog
+author: warren
+path: /notes/warren/11-10-2016/a-message-from-the-public-lab-staff.md
+nid: 13693
+uid: 1
+
 ---
 
 # A message from the Public Lab staff
+
+by [warren](../profile/warren) November 10, 2016 18:08
+
+November 10, 2016 18:08 | Tags: [blog](../tag/blog)
 
 Public Lab resists and rejects: racism, sexism, ableism, ageism, homophobia, transphobia, xenophobia, body shaming, religion shaming, education bias, and bullying.
 

@@ -1,6 +1,6 @@
 # invasives
 
-8 notes and wiki pages
+8 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Water chestnut NRG](/notes/cfastie/07-29-2013/waterchestnut-nrg) by [cfastie](../profile/cfastie)
 - [Developing Tools for Mapping Invasive Species in Harpswell Maine](/wiki/developing-tools-for-mapping-invasive-species-in-harpswell-maine) (wiki)

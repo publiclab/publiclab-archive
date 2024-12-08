@@ -1,12 +1,18 @@
 ---
-nid: 13449
 title: First draft of tag graph
-path: public/static/notes/liz/09-15-2016/first-draft-of-tag-graph.md
+tagnames: community-metrics, evaluation, with:bsugar
+author: liz
+path: /notes/liz/09-15-2016/first-draft-of-tag-graph.md
+nid: 13449
 uid: 7
-tagnames: community-metrics,evaluation,with:bsugar
+
 ---
 
 # First draft of tag graph
+
+by [liz](../profile/liz) September 15, 2016 18:23
+
+September 15, 2016 18:23 | Tags: [community-metrics](../tag/community-metrics), [evaluation](../tag/evaluation), [with:bsugar](../tag/with:bsugar)
 
 @bsugar used Gephi to make this tag graph of the top 256 tags used on PublicLab.org.
 

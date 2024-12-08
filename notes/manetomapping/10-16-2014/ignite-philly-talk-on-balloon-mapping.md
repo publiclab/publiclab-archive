@@ -1,12 +1,18 @@
 ---
-nid: 11268
 title: Ignite Philly Talk on Balloon Mapping 
-path: public/static/notes/manetomapping/10-16-2014/ignite-philly-talk-on-balloon-mapping.md
+tagnames: balloon-mapping, philadelphia
+author: manetomapping
+path: /notes/manetomapping/10-16-2014/ignite-philly-talk-on-balloon-mapping.md
+nid: 11268
 uid: 59273
-tagnames: balloon-mapping,philadelphia
+
 ---
 
 # Ignite Philly Talk on Balloon Mapping 
+
+by [manetomapping](../profile/manetomapping) October 16, 2014 14:57
+
+October 16, 2014 14:57 | Tags: [balloon-mapping](../tag/balloon-mapping), [philadelphia](../tag/philadelphia)
 
 ###What I want to do
 [Sean McGinnis](http://publiclab.org/profile/SeanKMcGinnis) and I wanted to share our experiences and enthusiasm for balloon mapping and the Public Lab.

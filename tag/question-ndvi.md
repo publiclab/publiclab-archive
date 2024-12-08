@@ -1,6 +1,6 @@
 # question-ndvi
 
-53 notes and wiki pages
+53 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [NDVI Colour Sensitivity](/notes/bc512/10-09-2013/ndvi-colour-sensitivity) by [bc512](../profile/bc512)
 - [Creating NDVI images?](/notes/rway/05-13-2014/creating-ndvi-images) by [rway](../profile/rway)
@@ -44,14 +44,12 @@
 - [NDVI Image Captures Non-Plant Objects](/notes/velahs/07-08-2020/ndvi-image-captures-non-plant-objects) by [velahs](../profile/velahs)
 - [NDVI with a 2 camera setup](/notes/karunv/10-12-2020/ndvi-with-a-2-camera-setup) by [karunv](../profile/karunv)
 - [How to find the sweet spot for manual white balance settings using Pi NoIR and a blue filter with artificial (full spectrum) lighting](/notes/patalbright/10-20-2020/how-to-find-the-sweet-spot-for-manual-white-balance-settings-using-pi-noir-and-a-blue-filter-with-artificial-full-spectrum-lighting) by [patalbright](../profile/patalbright)
-- [Satin paints give a good mix of moderate](/notes/pallaypk/10-28-2020/satin-paints-give-a-good-mix-of-moderate) by [pallaypk](../profile/pallaypk)
 - [Counter-intuitive NDVI values in drought-stressed plants? (RPi NoIR v.2 with a red filter and artificial lighting)](/notes/tumakin/11-11-2020/counter-intuitive-ndvi-values-in-drought-stressed-plants-rpi-noir-v-2-with-a-red-filter-and-artificial-lighting) by [tumakin](../profile/tumakin)
 - [Why the color of Infragram picture is different from what I take with my Raspberry Pi using Picamera API](/notes/iman/03-30-2021/why-the-color-of-infragram-picture-is-different-from-what-i-take-with-my-raspberry-pi-using-picamera-api) by [iman](../profile/iman)
 - [Is my NDVI image correct?](/notes/Rick88/10-30-2021/is-my-ndvi-image-correct) by [Rick88](../profile/Rick88)
 - [NDVI image issues from GoPro 3+ Silver ](/notes/jeffa_plain/11-22-2021/ndvi-image-issues-from-gopro-3-silver) by [jeffa_plain](../profile/jeffa_plain)
 - [Can NOIR camera distinguise different types of leaf?](/notes/shahdharam7/12-17-2021/can-noir-camera-distinguise-different-types-of-leaf) by [shahdharam7](../profile/shahdharam7)
 - [Why Red filter results are blurry compared to Blue filters?](/notes/shahdharam7/12-17-2021/why-red-filter-results-are-blurry-compared-to-blue-filters) by [shahdharam7](../profile/shahdharam7)
-- [How to find best events Catering Services in Calgary?](/notes/vivek_genuvenue1220/01-03-2022/how-to-find-best-events-catering-services-in-calgary) by [vivek_genuvenue1220](../profile/vivek_genuvenue1220)
 - [Run infragram offiline (whitout online analysis)](/notes/elucasfreitas/06-19-2022/run-infragram-offiline-whitout-online-analysis) by [elucasfreitas](../profile/elucasfreitas)
 - [Question about NDVI white balancing](/notes/Peve/09-10-2022/question-about-ndvi-white-balancing) by [Peve](../profile/Peve)
 - [Infrared camera](/notes/eduardo_gamosa/10-10-2022/infrared-camera) by [eduardo_gamosa](../profile/eduardo_gamosa)

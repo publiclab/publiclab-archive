@@ -1,12 +1,18 @@
 ---
-nid: 11751
 title: Assembling the Oil Testing Kit Cuvette Frame
-path: public/static/notes/mathew/04-07-2015/assembling-the-oil-testing-kit-cuvette-frame.md
+tagnames: spectrometry, laser, fluorescence, desktop-spectrometer, dsk, desktop-spectrometry-kit, oil-testing-kit, parent:oil-testing-kit, 405nm, otk
+author: mathew
+path: /notes/mathew/04-07-2015/assembling-the-oil-testing-kit-cuvette-frame.md
+nid: 11751
 uid: 4
-tagnames: spectrometry,laser,fluorescence,desktop-spectrometer,dsk,desktop-spectrometry-kit,oil-testing-kit,parent:oil-testing-kit,405nm,otk
+
 ---
 
 # Assembling the Oil Testing Kit Cuvette Frame
+
+by [mathew](../profile/mathew) April 07, 2015 23:46
+
+April 07, 2015 23:46 | Tags: [spectrometry](../tag/spectrometry), [laser](../tag/laser), [fluorescence](../tag/fluorescence), [desktop-spectrometer](../tag/desktop-spectrometer), [dsk](../tag/dsk), [desktop-spectrometry-kit](../tag/desktop-spectrometry-kit), [oil-testing-kit](../tag/oil-testing-kit), [parent:oil-testing-kit](../tag/parent:oil-testing-kit), [405nm](../tag/405nm), [otk](../tag/otk)
 
 This cuvette frame's [design notes are here, along with previous versions and other design ideas](http://publiclab.org/notes/mathew/04-07-2015/designing-an-oil-testing-kit-cuvette-frame).  It can be used with [this procedure](/notes/mathew/09-19-2014/grading-oils-with-uv-fluorescence)
 

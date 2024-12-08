@@ -1,12 +1,18 @@
 ---
-nid: 2892
 title: High altitude flight uses radio and open hardware
-path: public/static/notes/gonzoearth/7-19-2012/high-altitude-flight-uses-radio-and-open-hardware.md
+tagnames: balloon-mapping, kite-mapping
+author: gonzoearth
+path: /notes/gonzoearth/7-19-2012/high-altitude-flight-uses-radio-and-open-hardware.md
+nid: 2892
 uid: 12
-tagnames: balloon-mapping,kite-mapping
+
 ---
 
 # High altitude flight uses radio and open hardware
+
+by [gonzoearth](../profile/gonzoearth) July 19, 2012 14:49
+
+July 19, 2012 14:49 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping)
 
 There are lots of people and organizations that have done high altitude untethered balloon flights in the last few years, publicizing them on the web with video and image montages. This flight/stunt/experiment was different in some key areas.
 - It was done by enthusiasts of the Rasberry Pi and completley open hardware. 

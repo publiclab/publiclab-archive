@@ -1,6 +1,6 @@
 # super-red
 
-23 notes and wiki pages
+23 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [White balancing a Canon camera for Infragram photography](/notes/warren/08-15-2013/white-balancing-a-canon-camera-for-infragram-photography) by [warren](../profile/warren)
 - [Red vs. blue filters for NDVI](/notes/nedhorning/10-30-2013/red-vs-blue-filters-for-ndvi) by [nedhorning](../profile/nedhorning)

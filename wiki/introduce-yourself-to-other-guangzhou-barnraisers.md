@@ -1,12 +1,18 @@
 ---
-nid: 17016
 title: 广州谷仓聚会自我介绍 Introduce yourself to other Guangzhou Barnraisers!
-path: public/static/wiki/introduce-yourself-to-other-guangzhou-barnraisers.md
-uid: 420999
 tagnames: 
+author: shanlter
+path: /wiki/introduce-yourself-to-other-guangzhou-barnraisers.md
+nid: 17016
+uid: 420999
+
 ---
 
 # 广州谷仓聚会自我介绍 Introduce yourself to other Guangzhou Barnraisers!
+
+by [shanlter](../profile/shanlter)
+
+August 29, 2018 06:14 | Tags: 
 
 何珊
 简长长

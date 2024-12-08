@@ -1,12 +1,18 @@
 ---
-nid: 10537
 title: Questions about DIY spectrometer and e-liquid ingredients
-path: public/static/notes/nickha/06-07-2014/questions-about-diy-spectrometer-and-e-liquid-ingredients.md
+tagnames: spectrometer, spectral-analysis, question:spectrometer, e-liquid, e-cigarettes
+author: nickha
+path: /notes/nickha/06-07-2014/questions-about-diy-spectrometer-and-e-liquid-ingredients.md
+nid: 10537
 uid: 424405
-tagnames: spectrometer,spectral-analysis,question:spectrometer,e-liquid,e-cigarettes
+
 ---
 
 # Questions about DIY spectrometer and e-liquid ingredients
+
+by [nickha](../profile/nickha) June 07, 2014 18:59
+
+June 07, 2014 18:59 | Tags: [spectrometer](../tag/spectrometer), [spectral-analysis](../tag/spectral-analysis), [question:spectrometer](../tag/question:spectrometer), [e-liquid](../tag/e-liquid), [e-cigarettes](../tag/e-cigarettes)
 
 ###What I want to do
 I would like to know if the DIY spectrometer is capable of giving me an idea of ingredients in a sample of e-liquid (used in e-cigarettes).

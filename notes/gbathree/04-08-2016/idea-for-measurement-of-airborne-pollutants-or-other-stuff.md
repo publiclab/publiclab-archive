@@ -1,12 +1,18 @@
 ---
-nid: 12938
 title: Idea for measurement of airborne pollutants (or other stuff)
-path: public/static/notes/gbathree/04-08-2016/idea-for-measurement-of-airborne-pollutants-or-other-stuff.md
+tagnames: air, pollution, openqcm, quarts, crystal, microbalance
+author: gbathree
+path: /notes/gbathree/04-08-2016/idea-for-measurement-of-airborne-pollutants-or-other-stuff.md
+nid: 12938
 uid: 53164
-tagnames: air,pollution,openqcm,quarts,crystal,microbalance
+
 ---
 
 # Idea for measurement of airborne pollutants (or other stuff)
+
+by [gbathree](../profile/gbathree) April 08, 2016 03:47
+
+April 08, 2016 03:47 | Tags: [air](../tag/air), [pollution](../tag/pollution), [openqcm](../tag/openqcm), [quarts](../tag/quarts), [crystal](../tag/crystal), [microbalance](../tag/microbalance)
 
 This came out of the [GOSH 2016 conference](http://openplant.org/oshwforscience/) after meeting Marco Mauro's [amazing little quartz crystal microbalance](http://openqcm.com/).  Ok, so here it is:
 

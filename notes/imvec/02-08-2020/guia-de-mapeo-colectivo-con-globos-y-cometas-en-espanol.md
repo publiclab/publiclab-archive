@@ -1,12 +1,18 @@
 ---
-nid: 22711
 title: Guia de mapeo colectivo con globos y cometas en español
-path: public/static/notes/imvec/02-08-2020/guia-de-mapeo-colectivo-con-globos-y-cometas-en-espanol.md
+tagnames: kap, guide, tool, lang:es, booklet, pocket-guide, ballon-mapping, agricultural, spanish, cosquin, glifosato, guia
+author: imvec
+path: /notes/imvec/02-08-2020/guia-de-mapeo-colectivo-con-globos-y-cometas-en-espanol.md
+nid: 22711
 uid: 495038
-tagnames: kap,guide,tool,lang:es,booklet,pocket-guide,ballon-mapping,agricultural,spanish,cosquin,glifosato,guia
+
 ---
 
 # Guia de mapeo colectivo con globos y cometas en español
+
+by [imvec](../profile/imvec) February 08, 2020 18:16
+
+February 08, 2020 18:16 | Tags: [kap](../tag/kap), [guide](../tag/guide), [tool](../tag/tool), [lang:es](../tag/lang:es), [booklet](../tag/booklet), [pocket-guide](../tag/pocket-guide), [ballon-mapping](../tag/ballon-mapping), [agricultural](../tag/agricultural), [spanish](../tag/spanish), [cosquin](../tag/cosquin), [glifosato](../tag/glifosato), [guia](../tag/guia)
 
 ### ¿Qué es esto?
 Guía de mapeo colectivo con globos y cometas traducida del original en inglés. 

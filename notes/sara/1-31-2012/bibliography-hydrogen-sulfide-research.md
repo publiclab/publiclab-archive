@@ -1,12 +1,18 @@
 ---
-nid: 734
 title: Bibliography for Hydrogen Sulfide Research
-path: public/static/notes/sara/1-31-2012/bibliography-hydrogen-sulfide-research.md
+tagnames: hydrogen-sulfide-sensing, hydrogen-sulfide, h2s, h2s-photopaper, bibliography
+author: sara
+path: /notes/sara/1-31-2012/bibliography-hydrogen-sulfide-research.md
+nid: 734
 uid: 8
-tagnames: hydrogen-sulfide-sensing,hydrogen-sulfide,h2s,h2s-photopaper,bibliography
+
 ---
 
 # Bibliography for Hydrogen Sulfide Research
+
+by [sara](../profile/sara) January 31, 2012 20:35
+
+January 31, 2012 20:35 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s), [h2s-photopaper](../tag/h2s-photopaper), [bibliography](../tag/bibliography)
 
 Annotated Bibliography for the photographic paper hydrogen sulfide assay (Thanks to Dr. Horwell for consulting on this bibliography):
 

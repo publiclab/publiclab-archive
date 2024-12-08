@@ -1,12 +1,18 @@
 ---
-nid: 18316
 title: Leaflet.DistortableImage full resolution download
-path: public/static/notes/warren/02-15-2019/leaflet-distortableimage-full-resolution-download.md
+tagnames: balloon-mapping, kite-mapping, mapknitter, aerial-photography, blog, leaflet, pole-mapping, code, exporting, leaflet-distortable-image, orthorectification, rubber-sheeting
+author: warren
+path: /notes/warren/02-15-2019/leaflet-distortableimage-full-resolution-download.md
+nid: 18316
 uid: 1
-tagnames: balloon-mapping,kite-mapping,mapknitter,aerial-photography,blog,leaflet,pole-mapping,code,exporting,leaflet-distortable-image,orthorectification,rubber-sheeting
+
 ---
 
 # Leaflet.DistortableImage full resolution download
+
+by [warren](../profile/warren) February 08, 2019 17:19
+
+February 08, 2019 17:19 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [mapknitter](../tag/mapknitter), [aerial-photography](../tag/aerial-photography), [blog](../tag/blog), [leaflet](../tag/leaflet), [pole-mapping](../tag/pole-mapping), [code](../tag/code), [exporting](../tag/exporting), [leaflet-distortable-image](../tag/leaflet-distortable-image), [orthorectification](../tag/orthorectification), [rubber-sheeting](../tag/rubber-sheeting)
 
 Across the Public Lab community, people are making their own maps using aerial photos (by [balloon mapping](/balloon-mapping), [kite mapping](/kite-mapping), and the like) with the [MapKnitter website](https://mapknitter.org) - which helps people "stitch" or "knit" images into a combined map, using an existing satellite map base layer as a reference.
 

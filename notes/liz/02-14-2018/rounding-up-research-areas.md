@@ -1,12 +1,18 @@
 ---
-nid: 15735
 title: "Rounding up" research areas?
-path: public/static/notes/liz/02-14-2018/rounding-up-research-areas.md
+tagnames: community, question:general, question:community
+author: liz
+path: /notes/liz/02-14-2018/rounding-up-research-areas.md
+nid: 15735
 uid: 7
-tagnames: community,question:general,question:community
+
 ---
 
 # "Rounding up" research areas?
+
+by [liz](../profile/liz) February 14, 2018 20:49
+
+February 14, 2018 20:49 | Tags: [community](../tag/community), [question:general](../tag/question:general), [question:community](../tag/question:community)
 
 I often impatiently just want to know, "what's the State of `X` topic?" 
 

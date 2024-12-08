@@ -1,12 +1,18 @@
 ---
-nid: 11700
 title: Exploring Science Beyond Exams in Hong Kong 
-path: public/static/wiki/exploring-science-beyond-exams-in-hong-kong.md
+tagnames: open-source, grassrootsmappingforum, hong-kong, style:fancy, with:liz, gmf-5, guangzhou
+author: mollydanielsson
+path: /wiki/exploring-science-beyond-exams-in-hong-kong.md
+nid: 11700
 uid: 1259
-tagnames: open-source,grassrootsmappingforum,hong-kong,style:fancy,with:liz,gmf-5,guangzhou
+
 ---
 
 # Exploring Science Beyond Exams in Hong Kong 
+
+by [mollydanielsson](../profile/mollydanielsson)
+
+March 20, 2015 23:27 | Tags: [open-source](../tag/open-source), [grassrootsmappingforum](../tag/grassrootsmappingforum), [hong-kong](../tag/hong-kong), [style:fancy](../tag/style:fancy), [with:liz](../tag/with:liz), [gmf-5](../tag/gmf-5), [guangzhou](../tag/guangzhou)
 
 By Fan Lok-yi
 

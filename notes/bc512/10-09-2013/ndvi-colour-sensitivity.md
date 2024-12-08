@@ -1,12 +1,18 @@
 ---
-nid: 9425
 title: NDVI Colour Sensitivity
-path: public/static/notes/bc512/10-09-2013/ndvi-colour-sensitivity.md
+tagnames: near-infrared-camera, ndvi, infragram, question:ndvi, qgis
+author: bc512
+path: /notes/bc512/10-09-2013/ndvi-colour-sensitivity.md
+nid: 9425
 uid: 197512
-tagnames: near-infrared-camera,ndvi,infragram,question:ndvi,qgis
+
 ---
 
 # NDVI Colour Sensitivity
+
+by [bc512](../profile/bc512) October 09, 2013 04:18
+
+October 09, 2013 04:18 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [infragram](../tag/infragram), [question:ndvi](../tag/question:ndvi), [qgis](../tag/qgis)
 
 I am having a bit of trouble getting my end result photo as "colour sensitive" as I would like,
 

@@ -1,6 +1,6 @@
 # plant-air-purifier-prototypes
 
-8 notes and wiki pages
+8 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [DIY Indoor Air Quality Remediation](/notes/nshapiro/10-20-2014/diy-indoor-air-quality-remediation) by [nshapiro](../profile/nshapiro)
 - [Plant Air Remediation Field Test #2 (Georgia)](/notes/nshapiro/08-02-2016/plant-air-remediation-field-test-2-georgia) by [nshapiro](../profile/nshapiro)

@@ -1,12 +1,18 @@
 ---
-nid: 3634
 title: Live from the Pfizer warehouse
-path: public/static/notes/oscar-brett/9-4-2012/live-pfizer-warehouse.md
+tagnames: balloon-mapping, diy-satellite, weird-science, plots, oscar-brett
+author: oscarbrett
+path: /notes/oscar-brett/9-4-2012/live-pfizer-warehouse.md
+nid: 3634
 uid: 409
-tagnames: balloon-mapping,diy-satellite,weird-science,plots,oscar-brett
+
 ---
 
 # Live from the Pfizer warehouse
+
+by [oscarbrett](../profile/oscarbrett) September 04, 2012 16:55
+
+September 04, 2012 16:55 | Tags: [balloon-mapping](../tag/balloon-mapping), [diy-satellite](../tag/diy-satellite), [weird-science](../tag/weird-science), [plots](../tag/plots), [oscar-brett](../tag/oscar-brett)
 
 PLOTS was invited to create an installation for this years "Stranded" rave; the "weird science" party was organized by Brooklyn based party team Winkle + Baltik. It had been described as the "east coast burning man".
 

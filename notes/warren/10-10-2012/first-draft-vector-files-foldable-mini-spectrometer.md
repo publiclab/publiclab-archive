@@ -1,12 +1,18 @@
 ---
-nid: 4302
 title: First draft vector files for foldable mini-spectrometer
-path: public/static/notes/warren/10-10-2012/first-draft-vector-files-foldable-mini-spectrometer.md
-uid: 1
 tagnames: spectrometer
+author: warren
+path: /notes/warren/10-10-2012/first-draft-vector-files-foldable-mini-spectrometer.md
+nid: 4302
+uid: 1
+
 ---
 
 # First draft vector files for foldable mini-spectrometer
+
+by [warren](../profile/warren) October 10, 2012 05:14
+
+October 10, 2012 05:14 | Tags: [spectrometer](../tag/spectrometer)
 
 Here's a first attempt to vectorize the design for the mini foldable spectrometer. I had to expand the postcard size to 5x7" but we'll see if we can shrink it back down. Also I added a "window" to put the diffraction grating over. Still to do:
 

@@ -1,12 +1,18 @@
 ---
-nid: 10165
 title: Mapknitter 2.0
-path: public/static/notes/xvidun/03-12-2014/mapknitter-2-0.md
+tagnames: mapknitter, auto-knitting, upload, interface
+author: xvidun
+path: /notes/xvidun/03-12-2014/mapknitter-2-0.md
+nid: 10165
 uid: 421168
-tagnames: mapknitter,auto-knitting,upload,interface
+
 ---
 
 # Mapknitter 2.0
+
+by [xvidun](../profile/xvidun) March 12, 2014 20:39
+
+March 12, 2014 20:39 | Tags: [mapknitter](../tag/mapknitter), [auto-knitting](../tag/auto-knitting), [upload](../tag/upload), [interface](../tag/interface)
 
 ##Mapkniiter 2.0:
 

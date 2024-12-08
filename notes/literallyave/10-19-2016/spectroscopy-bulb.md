@@ -1,12 +1,18 @@
 ---
-nid: 13587
 title: Spectroscopy Bulb
-path: public/static/notes/literallyave/10-19-2016/spectroscopy-bulb.md
+tagnames: hidden:response, response:13586, first-time-poster
+author: literallyave
+path: /notes/literallyave/10-19-2016/spectroscopy-bulb.md
+nid: 13587
 uid: 494872
-tagnames: hidden:response,response:13586,first-time-poster
+
 ---
 
 # Spectroscopy Bulb
+
+by [literallyave](../profile/literallyave) October 19, 2016 15:04
+
+October 19, 2016 15:04 | Tags: [hidden:response](../tag/hidden:response), [response:13586](../tag/response:13586), [first-time-poster](../tag/first-time-poster)
 
 ###What I want to do
 

@@ -1,6 +1,6 @@
 # ndvi
 
-316 notes and wiki pages
+316 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Normalized Difference Vegetation Index, NRG, and Landsat 7 bands](/notes/warren/12-10-2010/normalized-difference-vegetation-index-nrg-and-landsat-7-bands) by [warren](../profile/warren)
 - [NDVI test in Lima Peru](/notes/warren/12-24-2010/ndvi-test-lima-peru) by [warren](../profile/warren)
@@ -213,7 +213,6 @@
 - [Filters and SJ4000](/notes/thechapu/07-25-2016/filters-and-sj4000) by [thechapu](../profile/thechapu)
 - [Plant Health NDVI -White Balance](/notes/Claytonb/08-13-2016/plant-health-ndvi-white-balance) by [Claytonb](../profile/Claytonb)
 - [vineyard spectral](/notes/elador/09-13-2016/vineyard-spectral-photos) by [elador](../profile/elador)
-- [Question: SAP technology insights](/notes/Nymann/09-27-2016/question-sap-technology-insights) by [Nymann](../profile/Nymann)
 - [NDVI validation](/notes/aldrin/10-10-2016/ndvi-validation) by [aldrin](../profile/aldrin)
 - [what are the requirements of a camera for Filter replacement and NDVI imaging?](/notes/Ajith_Kumar/10-10-2016/what-are-the-requirements-of-a-camera-for-filter-replacement-and-ndvi-imaging) by [Ajith_Kumar](../profile/Ajith_Kumar)
 - [How to process images using a mobius with an IR lens?](/notes/miguel_rosas/10-18-2016/how-to-process-images-using-a-mobiles-with-the-ir-lens) by [miguel_rosas](../profile/miguel_rosas)
@@ -288,7 +287,6 @@
 - [Can I use the infragram.org for my thesis? Thanks!](/notes/tooooopher05/02-22-2020/can-i-use-the-infragram-org-for-my-thesis-thanks) by [tooooopher05](../profile/tooooopher05)
 - [Is there a way to convert an infrared video footage to NDVI?](/notes/sam14/04-30-2020/is-there-a-way-to-convert-an-infrared-video-footage-to-ndvi) by [sam14](../profile/sam14)
 - [Use 3-D glasses to modify a camera for infrared](/notes/umberto_rootman/05-17-2020/cheap-sports-cam-mod) by [umberto_rootman](../profile/umberto_rootman)
-- [Sports cam filter mod](/notes/umberto_rootman/05-17-2020/sports-cam-filter-mod) by [umberto_rootman](../profile/umberto_rootman)
 - [How should I modify Infragram NDVI settings for Raspberry Pi Noir orbital photos?](/notes/brendan_stanford/05-20-2020/how-should-i-modify-infragram-ndvi-settings-for-raspberry-pi-noir-orbital-photos) by [brendan_stanford](../profile/brendan_stanford)
 - [Does anyone know the upper spectrum range of the Pi NoIR Camera V2?](/notes/justin_bauer/06-02-2020/does-anyone-know-the-upper-spectrum-range-of-the-pi-noir-camera-v2) by [justin_bauer](../profile/justin_bauer)
 - [NDVI Drone Mapping Research](/notes/ektopyrotic/06-04-2020/ndvi-drone-mapping-research) by [ektopyrotic](../profile/ektopyrotic)
@@ -301,7 +299,6 @@
 - [Image + Video Segmentation in Near-Infrared Using HSV Color Spaces with OpenCV in Python](/notes/ektopyrotic/10-03-2020/image-video-segmentation-in-near-infrared-using-hsv-color-spaces-with-opencv-in-python) by [ektopyrotic](../profile/ektopyrotic)
 - [NDVI with a 2 camera setup](/notes/karunv/10-12-2020/ndvi-with-a-2-camera-setup) by [karunv](../profile/karunv)
 - [How to find the sweet spot for manual white balance settings using Pi NoIR and a blue filter with artificial (full spectrum) lighting](/notes/patalbright/10-20-2020/how-to-find-the-sweet-spot-for-manual-white-balance-settings-using-pi-noir-and-a-blue-filter-with-artificial-full-spectrum-lighting) by [patalbright](../profile/patalbright)
-- [Satin paints give a good mix of moderate](/notes/pallaypk/10-28-2020/satin-paints-give-a-good-mix-of-moderate) by [pallaypk](../profile/pallaypk)
 - [Counter-intuitive NDVI values in drought-stressed plants? (RPi NoIR v.2 with a red filter and artificial lighting)](/notes/tumakin/11-11-2020/counter-intuitive-ndvi-values-in-drought-stressed-plants-rpi-noir-v-2-with-a-red-filter-and-artificial-lighting) by [tumakin](../profile/tumakin)
 - [Converting a WyzeCam for 2-camera NDVI in 1 camera](/notes/DS501st/01-18-2021/converting-a-wyzecam-for-dual-camera-ndvi) by [DS501st](../profile/DS501st)
 - [Why the color of Infragram picture is different from what I take with my Raspberry Pi using Picamera API](/notes/iman/03-30-2021/why-the-color-of-infragram-picture-is-different-from-what-i-take-with-my-raspberry-pi-using-picamera-api) by [iman](../profile/iman)
@@ -309,7 +306,6 @@
 - [NDVI image issues from GoPro 3+ Silver ](/notes/jeffa_plain/11-22-2021/ndvi-image-issues-from-gopro-3-silver) by [jeffa_plain](../profile/jeffa_plain)
 - [Can NOIR camera distinguise different types of leaf?](/notes/shahdharam7/12-17-2021/can-noir-camera-distinguise-different-types-of-leaf) by [shahdharam7](../profile/shahdharam7)
 - [Why Red filter results are blurry compared to Blue filters?](/notes/shahdharam7/12-17-2021/why-red-filter-results-are-blurry-compared-to-blue-filters) by [shahdharam7](../profile/shahdharam7)
-- [How to find best events Catering Services in Calgary?](/notes/vivek_genuvenue1220/01-03-2022/how-to-find-best-events-catering-services-in-calgary) by [vivek_genuvenue1220](../profile/vivek_genuvenue1220)
 - [Drone Archaeology | Tomb Hunting Using NDVI, NIR Threshold with Bitwise NOT in Python](/notes/ektopyrotic/01-03-2022/drone-archaeology-tomb-hunting-using-ndvi-nir-threshold-with-bitwise-not-in-python) by [ektopyrotic](../profile/ektopyrotic)
 - [colormap](/wiki/colormap) (wiki)
 - [Exploratory Lesson Activity for Image Sequencer](/notes/carmen2x/04-20-2022/exploratory-lesson-activity-for-image-sequencer) by [carmen2x](../profile/carmen2x)

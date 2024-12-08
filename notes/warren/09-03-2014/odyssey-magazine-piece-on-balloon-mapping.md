@@ -1,12 +1,18 @@
 ---
-nid: 11100
 title: Odyssey magazine piece on Balloon Mapping
-path: public/static/notes/warren/09-03-2014/odyssey-magazine-piece-on-balloon-mapping.md
+tagnames: balloon-mapping, media, press, odyssey, magazine
+author: warren
+path: /notes/warren/09-03-2014/odyssey-magazine-piece-on-balloon-mapping.md
+nid: 11100
 uid: 1
-tagnames: balloon-mapping,media,press,odyssey,magazine
+
 ---
 
 # Odyssey magazine piece on Balloon Mapping
+
+by [warren](../profile/warren) September 03, 2014 18:34
+
+September 03, 2014 18:34 | Tags: [balloon-mapping](../tag/balloon-mapping), [media](../tag/media), [press](../tag/press), [odyssey](../tag/odyssey), [magazine](../tag/magazine)
 
 Odyssey Magazine is a kids science magazine, and they ran a whole issue on remote sensing recently which featured a 3-page spread on balloon mapping. It's great -- encourages people to join Public Lab, clearly cites and attributes, and is a fun layout too. Nice!
 

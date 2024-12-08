@@ -1,12 +1,18 @@
 ---
-nid: 12994
 title: Noise by colour
-path: public/static/notes/viechdokter/04-17-2016/noise-by-colour.md
+tagnames: spectrometer, rgb, bayer-filter, color, noise, activity:spectrometry
+author: viechdokter
+path: /notes/viechdokter/04-17-2016/noise-by-colour.md
+nid: 12994
 uid: 468990
-tagnames: spectrometer,rgb,bayer-filter,color,noise,activity:spectrometry
+
 ---
 
 # Noise by colour
+
+by [viechdokter](../profile/viechdokter) April 17, 2016 19:12
+
+April 17, 2016 19:12 | Tags: [spectrometer](../tag/spectrometer), [rgb](../tag/rgb), [bayer-filter](../tag/bayer-filter), [color](../tag/color), [noise](../tag/noise), [activity:spectrometry](../tag/activity:spectrometry)
 
 _**This is a revised note! There was a little error in my primary colour noise curves. The red curve was way too high up. That's because there was an undetected uncalibrated spectrum left when I gathered the CSV files together. I stumbled across the fact that the noise in the red channel was 140 which could not be right. So I went through the data again and found the error. Now the revised red noise curve should be right.**_
 

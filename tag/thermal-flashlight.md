@@ -1,6 +1,6 @@
 # thermal-flashlight
 
-68 notes and wiki pages
+68 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Thermal photography](/wiki/thermal-photography) (wiki)
 - [Pyrex thermal infrared transmissivity](/notes/warren/2-9-2011/pyrex-thermal-infrared-transmissivity) by [warren](../profile/warren)

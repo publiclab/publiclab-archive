@@ -1,12 +1,18 @@
 ---
-nid: 10314
 title: Common Water Contaminants
-path: public/static/wiki/common-water-contaminants.md
+tagnames: temperature, spectroscopy, sewage, water-quality, water, arsenic, bacteria, conductivity, list:plots-waterquality, open-water, lead, prompt:mercury, mercury, chromium, parent:open-water, salt, coqui, ph, nitrates, contaminants, orp, ammonia, parent:water-quality, salinity, nitrogen, fecal-coliform, barium, glyphosate, fecal, nitrite, ammonium, cosquin
+author: donblair
+path: /wiki/common-water-contaminants.md
+nid: 10314
 uid: 43651
-tagnames: temperature,spectroscopy,sewage,water-quality,water,arsenic,bacteria,conductivity,list:plots-waterquality,open-water,lead,prompt:mercury,mercury,chromium,parent:open-water,salt,coqui,ph,nitrates,contaminants,orp,ammonia,parent:water-quality,salinity,nitrogen,fecal-coliform,barium,glyphosate,fecal,nitrite,ammonium,cosquin
+
 ---
 
 # Common Water Contaminants
+
+by [warren](../profile/warren), [lilybui](../profile/lilybui), [bhickman](../profile/bhickman), [WhiteRabbit](../profile/WhiteRabbit), [danbeavers](../profile/danbeavers), [DudeAbides](../profile/DudeAbides), [JSummers](../profile/JSummers), [mathew](../profile/mathew), [eustatic](../profile/eustatic), [silverhammer](../profile/silverhammer), [acjames76](../profile/acjames76), [bgamari](../profile/bgamari), [donblair](../profile/donblair)
+
+April 15, 2014 20:09 | Tags: [temperature](../tag/temperature), [spectroscopy](../tag/spectroscopy), [sewage](../tag/sewage), [water-quality](../tag/water-quality), [water](../tag/water), [arsenic](../tag/arsenic), [bacteria](../tag/bacteria), [conductivity](../tag/conductivity), [list:plots-waterquality](../tag/list:plots-waterquality), [open-water](../tag/open-water), [lead](../tag/lead), [prompt:mercury](../tag/prompt:mercury), [mercury](../tag/mercury), [chromium](../tag/chromium), [parent:open-water](../tag/parent:open-water), [salt](../tag/salt), [coqui](../tag/coqui), [ph](../tag/ph), [nitrates](../tag/nitrates), [contaminants](../tag/contaminants), [orp](../tag/orp), [ammonia](../tag/ammonia), [parent:water-quality](../tag/parent:water-quality), [salinity](../tag/salinity), [nitrogen](../tag/nitrogen), [fecal-coliform](../tag/fecal-coliform), [barium](../tag/barium), [glyphosate](../tag/glyphosate), [fecal](../tag/fecal), [nitrite](../tag/nitrite), [ammonium](../tag/ammonium), [cosquin](../tag/cosquin)
 
 This page is intended to provide short, legible descriptions of common water contaminants, with a no-nonsense rundown on what methods might be used to both **assess** and **address** the presence of these contaminants.  We're aiming to pay special attention to the **relative cost** and **technical expertise** required for each method.  
 

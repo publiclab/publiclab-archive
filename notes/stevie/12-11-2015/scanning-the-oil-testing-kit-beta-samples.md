@@ -1,12 +1,18 @@
 ---
-nid: 12500
 title: Scanning the Oil Testing Kit beta samples
-path: public/static/notes/stevie/12-11-2015/scanning-the-oil-testing-kit-beta-samples.md
+tagnames: spectrometer, oil-testing, oil-testing-kit, otk, oiltestingkit, otkbeta, pipeline-monitoring
+author: stevie
+path: /notes/stevie/12-11-2015/scanning-the-oil-testing-kit-beta-samples.md
+nid: 12500
 uid: 422561
-tagnames: spectrometer,oil-testing,oil-testing-kit,otk,oiltestingkit,otkbeta,pipeline-monitoring
+
 ---
 
 # Scanning the Oil Testing Kit beta samples
+
+by [stevie](../profile/stevie) December 11, 2015 20:46
+
+December 11, 2015 20:46 | Tags: [spectrometer](../tag/spectrometer), [oil-testing](../tag/oil-testing), [oil-testing-kit](../tag/oil-testing-kit), [otk](../tag/otk), [oiltestingkit](../tag/oiltestingkit), [otkbeta](../tag/otkbeta), [pipeline-monitoring](../tag/pipeline-monitoring)
 
 ###What I want to do
 Run through the Oil Testing Kit Beta program so I can better articulate what someone might need to do to run this as a workshop. Did this test with members of the Gulf Coast Chapter! 

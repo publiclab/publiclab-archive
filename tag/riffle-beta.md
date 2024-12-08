@@ -1,6 +1,6 @@
 # riffle-beta
 
-12 notes and wiki pages
+12 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Riffle first experience](/notes/ggallant/05-18-2016/riffle-first-experience) by [ggallant](../profile/ggallant)
 - [Riffle test data](/notes/cfastie/05-18-2016/riffle-test-data) by [cfastie](../profile/cfastie)

@@ -1,12 +1,18 @@
 ---
-nid: 14508
 title: Balloon Kits in the Wild!
-path: public/static/notes/bronwen/06-07-2017/balloon-kits-in-the-wild.md
+tagnames: balloon-mapping, kits, aerial-photography, aerial-photos, kits-initiative
+author: Bronwen
+path: /notes/bronwen/06-07-2017/balloon-kits-in-the-wild.md
+nid: 14508
 uid: 237313
-tagnames: balloon-mapping,kits,aerial-photography,aerial-photos,kits-initiative
+
 ---
 
 # Balloon Kits in the Wild!
+
+by [Bronwen](../profile/Bronwen) June 07, 2017 21:14
+
+June 07, 2017 21:14 | Tags: [balloon-mapping](../tag/balloon-mapping), [kits](../tag/kits), [aerial-photography](../tag/aerial-photography), [aerial-photos](../tag/aerial-photos), [kits-initiative](../tag/kits-initiative)
 
 We're putting out a call for photos, videos, sketches, fax printouts, clay impressions: any kind of images you have of our aerial mapping kit boxes out in the wild! Does your Balloon mapping kit box moonlight as a bento box or the case for a pirate radio station? We would be excited to see that too! Maybe even extra excited.
 

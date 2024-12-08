@@ -1,12 +1,18 @@
 ---
-nid: 2589
 title: Analytics on aerial images -- using filesize
-path: public/static/notes/warren/6-20-2012/analytics-aerial-images-using-filesize.md
+tagnames: balloon-mapping, kite-mapping, analysis, temperature, blurriness, sorting, image-sorting, activity:image-sorting
+author: warren
+path: /notes/warren/6-20-2012/analytics-aerial-images-using-filesize.md
+nid: 2589
 uid: 1
-tagnames: balloon-mapping,kite-mapping,analysis,temperature,blurriness,sorting,image-sorting,activity:image-sorting
+
 ---
 
 # Analytics on aerial images -- using filesize
+
+by [warren](../profile/warren) June 20, 2012 19:50
+
+June 20, 2012 19:50 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [analysis](../tag/analysis), [temperature](../tag/temperature), [blurriness](../tag/blurriness), [sorting](../tag/sorting), [image-sorting](../tag/image-sorting), [activity:image-sorting](../tag/activity:image-sorting)
 
 **Update, June 2014:** This has now been implemented as part of MapKnitter, known as [MapKnitter Sorter](https://mapknitter.org/sorter/). Please give it a try there.
 

@@ -1,12 +1,18 @@
 ---
-nid: 13175
 title: 中国城乡水质问题 - Water Risks in Urban and Rural China
-path: public/static/wiki/water-risks-in-urban-and-rural-china.md
+tagnames: water, china
+author: shanlter
+path: /wiki/water-risks-in-urban-and-rural-china.md
+nid: 13175
 uid: 420999
-tagnames: water,china
+
 ---
 
 # 中国城乡水质问题 - Water Risks in Urban and Rural China
+
+by [shanlter](../profile/shanlter)
+
+June 08, 2016 03:44 | Tags: [water](../tag/water), [china](../tag/china)
 
 出于不同的原因，我们想要了解水质。这个页面介绍了农村、城市饮用水常见问题的主要表征及可能的问题来源，来帮助我们确定检测指标。
 检测往往只能反映一个方面的水质表象，在很多时候，而观测和检查常被视作更为重要的水质分析方法。只有确定了污染源信息及污染路径，才能甄别水源污染的起因及适当的解决办法。

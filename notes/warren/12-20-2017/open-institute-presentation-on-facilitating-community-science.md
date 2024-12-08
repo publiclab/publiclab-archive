@@ -1,12 +1,18 @@
 ---
-nid: 15401
 title: Open Institute presentation on facilitating community science
-path: public/static/notes/warren/12-20-2017/open-institute-presentation-on-facilitating-community-science.md
+tagnames: open-source, community, presentations, talk, eu, facilitation, madeira, slides, portugal, openness
+author: warren
+path: /notes/warren/12-20-2017/open-institute-presentation-on-facilitating-community-science.md
+nid: 15401
 uid: 1
-tagnames: open-source,community,presentations,talk,eu,facilitation,madeira,slides,portugal,openness
+
 ---
 
 # Open Institute presentation on facilitating community science
+
+by [warren](../profile/warren) December 20, 2017 10:05
+
+December 20, 2017 10:05 | Tags: [open-source](../tag/open-source), [community](../tag/community), [presentations](../tag/presentations), [talk](../tag/talk), [eu](../tag/eu), [facilitation](../tag/facilitation), [madeira](../tag/madeira), [slides](../tag/slides), [portugal](../tag/portugal), [openness](../tag/openness)
 
 I gave a talk on Saturday at Open Institute V2 in Madeira, which had the theme of "Open in a Time of Closure" --
 

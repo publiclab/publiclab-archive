@@ -1,12 +1,18 @@
 ---
-nid: 13428
 title: Q&A enables automated FAQ
-path: public/static/notes/liz/09-07-2016/q-a-enables-automated-faq.md
+tagnames: community, blog, with:warren, with:gretchengehrke, research-culture, activity-grids, with:abdul
+author: liz
+path: /notes/liz/09-07-2016/q-a-enables-automated-faq.md
+nid: 13428
 uid: 7
-tagnames: community,blog,with:warren,with:gretchengehrke,research-culture,activity-grids,with:abdul
+
 ---
 
 # Q&A enables automated FAQ
+
+by [liz](../profile/liz) September 07, 2016 18:11
+
+September 07, 2016 18:11 | Tags: [community](../tag/community), [blog](../tag/blog), [with:warren](../tag/with:warren), [with:gretchengehrke](../tag/with:gretchengehrke), [research-culture](../tag/research-culture), [activity-grids](../tag/activity-grids), [with:abdul](../tag/with:abdul)
 
 Asking and answering questions is at the very heart of Public Lab. It's how we get started, it's how we make progress, it's how we get to know each other and our environmental concerns. Dedicated readers will recognize that some "getting started" exchanges have been repeated countless times on the mailing lists. (PS To those of you who are high volume question answerers -- everyone is endlessly grateful for your responses!) While it's critical that that questions from newcomers, however repetitive, will always be welcome, generating a Frequently Asked Questions (FAQ) grid will lower the barrier to exchanging information. 
 

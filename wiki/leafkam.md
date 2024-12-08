@@ -1,12 +1,18 @@
 ---
-nid: 6791
 title: LeafKam
-path: public/static/wiki/leafkam.md
+tagnames: near-infrared-camera, infrared-camera, infragram, development
+author: cfastie
+path: /wiki/leafkam.md
+nid: 6791
 uid: 554
-tagnames: near-infrared-camera,infrared-camera,infragram,development
+
 ---
 
 # LeafKam
+
+by [cfastie](../profile/cfastie)
+
+April 12, 2013 02:54 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [infrared-camera](../tag/infrared-camera), [infragram](../tag/infragram), [development](../tag/development)
 
 <strong>Five alternative models for an infrared plant health camera.</strong>
 

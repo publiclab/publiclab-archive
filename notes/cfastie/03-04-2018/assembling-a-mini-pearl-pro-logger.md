@@ -1,12 +1,18 @@
 ---
-nid: 15857
 title: Assembling a Mini Pearl Pro Logger
-path: public/static/notes/cfastie/03-04-2018/assembling-a-mini-pearl-pro-logger.md
+tagnames: arduino, sensors, datalogger, data-logging, activity:arduino, mini-pearl-logger, activity:mini-pearl-logger
+author: cfastie
+path: /notes/cfastie/03-04-2018/assembling-a-mini-pearl-pro-logger.md
+nid: 15857
 uid: 554
-tagnames: arduino,sensors,datalogger,data-logging,activity:arduino,mini-pearl-logger,activity:mini-pearl-logger
+
 ---
 
 # Assembling a Mini Pearl Pro Logger
+
+by [cfastie](../profile/cfastie) March 04, 2018 03:10
+
+March 04, 2018 03:10 | Tags: [arduino](../tag/arduino), [sensors](../tag/sensors), [datalogger](../tag/datalogger), [data-logging](../tag/data-logging), [activity:arduino](../tag/activity:arduino), [mini-pearl-logger](../tag/mini-pearl-logger), [activity:mini-pearl-logger](../tag/activity:mini-pearl-logger)
 
 A Mini Pearl Pro Logger Kit includes four electronic modules which must be soldered together. Wires and a wiring diagram are included, and this research note is the closest thing to step-by-step assembly instructions. It is not critical to follow the exact sequence below. The important thing is to connect the correct pins (holes) on each of the modules. The goal is to mount the connected modules on a 3D printed plate so the logger becomes a sturdy unit. These instructions mostly apply to both the Mini Pearl Logger and Mini Pearl Pro Logger kits, although the Mini Pearl Logger does not always have a timer.
 

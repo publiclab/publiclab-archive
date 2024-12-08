@@ -1,12 +1,18 @@
 ---
-nid: 42
 title: Experimentos con cometas, globos, y fotografía infraroja en FabLabLima 
-path: public/static/notes/warren/05-01-2018/experimentos-con-cometas-globos-y-fotografia-infraroja-en-fablablima.md
-uid: 1
 tagnames: 
+author: warren
+path: /notes/warren/05-01-2018/experimentos-con-cometas-globos-y-fotografia-infraroja-en-fablablima.md
+nid: 42
+uid: 1
+
 ---
 
 # Experimentos con cometas, globos, y fotografía infraroja en FabLabLima 
+
+by [warren](../profile/warren) January 07, 2011 14:05
+
+January 07, 2011 14:05 | Tags: 
 
 <a href="https://www.flickr.com/photos/jeffreywarren/5331230972/" title="Roxana pilots the prototype balloon-kite by jeferonix, on Flickr"><img src="http://farm6.static.flickr.com/5250/5331230972_aa922d2aa6.jpg" width="500" height="375" alt="Roxana pilots the prototype balloon-kite" /></a>
 

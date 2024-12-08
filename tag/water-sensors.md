@@ -1,6 +1,6 @@
 # water-sensors
 
-27 notes and wiki pages
+27 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Riffle Water Bottle Enclosure: rubber stopper w/hole + silicone sealant: > 8 weeks!](/notes/donblair/10-31-2015/riffle-water-bottle-enclosure-rubber-stopper-w-hole-silicone-sealant-8-weeks) by [donblair](../profile/donblair)
 - [Turbidity sensor prototype](/notes/donblair/11-01-2015/turbidity-sensor-prototype) by [donblair](../profile/donblair)
@@ -25,7 +25,6 @@
 - [DFRobot Turbidity Sensor Troubleshooting](/notes/mimiss/11-20-2019/dfrobot-turbidity-sensor-troubleshooting) by [mimiss](../profile/mimiss)
 - [Any experience with knockoff temperature sensors?](/notes/wln215/11-22-2019/any-experience-with-knockoff-temperature-sensors) by [wln215](../profile/wln215)
 - [How to Connect a pH Sensor to the Simple Water Sensor Platform](/notes/wmacfarl/12-09-2019/building-the-simple-ph-sensor-prototype) by [wmacfarl](../profile/wmacfarl)
-- [Building the Simple ORP Sensor Prototype](/notes/wmacfarl/12-09-2019/building-the-simple-orp-sensor-prototype) by [wmacfarl](../profile/wmacfarl)
 - [Building the Simple Water Sensor Platform](/notes/wmacfarl/01-10-2020/building-the-simple-water-sensor-platform) by [wmacfarl](../profile/wmacfarl)
 - [How to Connect an ORP Sensor to the Simple Water Sensor Platform](/notes/wmacfarl/01-11-2020/how-to-connect-an-orp-sensor-to-the-simple-water-sensor-platform) by [wmacfarl](../profile/wmacfarl)
 - [EnviroDIY Monitoring Station](/notes/StroudCenterScott/01-07-2022/envirodiy-monitoring-station) by [StroudCenterScott](../profile/StroudCenterScott)

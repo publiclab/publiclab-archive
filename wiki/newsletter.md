@@ -1,12 +1,18 @@
 ---
-nid: 4965
 title: Newsletter
-path: public/static/wiki/newsletter.md
+tagnames: community, newsletter, newsletter-archive
+author: warren
+path: /wiki/newsletter.md
+nid: 4965
 uid: 1
-tagnames: community,newsletter,newsletter-archive
+
 ---
 
 # Newsletter
+
+by [liz](../profile/liz), [warren](../profile/warren)
+
+November 20, 2012 22:33 | Tags: [community](../tag/community), [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
 
 The Public Lab community newsletter is a weekly summary of happenings both on and offline. 
 

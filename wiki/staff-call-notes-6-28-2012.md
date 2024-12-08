@@ -1,12 +1,18 @@
 ---
-nid: 2662
 title: Staff call notes 6 28 2012
-path: public/static/wiki/staff-call-notes-6-28-2012.md
-uid: 1
 tagnames: 
+author: warren
+path: /wiki/staff-call-notes-6-28-2012.md
+nid: 2662
+uid: 1
+
 ---
 
 # Staff call notes 6 28 2012
+
+by [warren](../profile/warren)
+
+June 28, 2012 16:32 | Tags: 
 
 ###Sara###
 * RPI

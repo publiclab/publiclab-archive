@@ -1,12 +1,18 @@
 ---
-nid: 7790
 title: infragram-webapp-dev
-path: public/static/wiki/infragram-webapp-dev.md
+tagnames: near-infrared-camera, infragram, app
+author: donblair
+path: /wiki/infragram-webapp-dev.md
+nid: 7790
 uid: 43651
-tagnames: near-infrared-camera,infragram,app
+
 ---
 
 # infragram-webapp-dev
+
+by [NickJemis](../profile/NickJemis), [warren](../profile/warren), [donblair](../profile/donblair), [cversek](../profile/cversek)
+
+May 21, 2013 19:24 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [infragram](../tag/infragram), [app](../tag/app)
 
 ![infrapix.png](https://i.publiclab.org/system/images/photos/000/000/369/medium/infrapix.png)
 

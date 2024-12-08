@@ -1,12 +1,18 @@
 ---
-nid: 13734
 title: How many people to do an activity?
-path: public/static/notes/warren/11-30-2016/how-many-people-to-do-an-activity.md
+tagnames: community, barnraising, organizing, research-culture, activity-grids, activities
+author: warren
+path: /notes/warren/11-30-2016/how-many-people-to-do-an-activity.md
+nid: 13734
 uid: 1
-tagnames: community,barnraising,organizing,research-culture,activity-grids,activities
+
 ---
 
 # How many people to do an activity?
+
+by [warren](../profile/warren) November 30, 2016 21:55
+
+November 30, 2016 21:55 | Tags: [community](../tag/community), [barnraising](../tag/barnraising), [organizing](../tag/organizing), [research-culture](../tag/research-culture), [activity-grids](../tag/activity-grids), [activities](../tag/activities)
 
 Hi, all - in the Activities (#activity-grids) session of the #barnraising, we briefly (among many other great topics) talked about the different kinds of activities people do (and we could/should provide guides to) across PL -- and one really relevant question that stuck out to me was:
 

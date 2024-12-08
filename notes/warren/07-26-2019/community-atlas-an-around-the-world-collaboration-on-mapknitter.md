@@ -1,12 +1,18 @@
 ---
-nid: 20331
 title: Community Atlas: an "around the world collaboration" on MapKnitter
-path: public/static/notes/warren/07-26-2019/community-atlas-an-around-the-world-collaboration-on-mapknitter.md
+tagnames: balloon-mapping, mapknitter, collaboration, software, google, blog, community-atlas
+author: warren
+path: /notes/warren/07-26-2019/community-atlas-an-around-the-world-collaboration-on-mapknitter.md
+nid: 20331
 uid: 1
-tagnames: balloon-mapping,mapknitter,collaboration,software,google,blog,community-atlas
+
 ---
 
 # Community Atlas: an "around the world collaboration" on MapKnitter
+
+by [warren](../profile/warren) July 26, 2019 18:03
+
+July 26, 2019 18:03 | Tags: [balloon-mapping](../tag/balloon-mapping), [mapknitter](../tag/mapknitter), [collaboration](../tag/collaboration), [software](../tag/software), [google](../tag/google), [blog](../tag/blog), [community-atlas](../tag/community-atlas)
 
 Over the past six months, we've overhauled almost every part of the MapKnitter website, and I wanted to share a bit about all the people who made this possible. Between our Google-funded MapKnitter code fellowships and our Google Summer of Code (#GSoC) fellows, we've had contributions from **five continents and more than ten people**, all coming together to build this complex system!
 

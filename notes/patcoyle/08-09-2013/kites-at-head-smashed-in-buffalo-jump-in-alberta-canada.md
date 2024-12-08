@@ -1,12 +1,18 @@
 ---
-nid: 8984
 title: Kites at Head-Smashed-In Buffalo Jump in Alberta, Canada.
-path: public/static/notes/patcoyle/08-09-2013/kites-at-head-smashed-in-buffalo-jump-in-alberta-canada.md
+tagnames: kap, canada, art, alberta, western-canada
+author: patcoyle
+path: /notes/patcoyle/08-09-2013/kites-at-head-smashed-in-buffalo-jump-in-alberta-canada.md
+nid: 8984
 uid: 77
-tagnames: kap,canada,art,alberta,western-canada
+
 ---
 
 # Kites at Head-Smashed-In Buffalo Jump in Alberta, Canada.
+
+by [patcoyle](../profile/patcoyle) August 09, 2013 04:55
+
+August 09, 2013 04:55 | Tags: [kap](../tag/kap), [canada](../tag/canada), [art](../tag/art), [alberta](../tag/alberta), [western-canada](../tag/western-canada)
 
 ![9461635507_6b36244417_b.jpg](/system/images/photos/000/001/085/medium/9461635507_6b36244417_b.jpg)
 

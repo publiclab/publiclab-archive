@@ -1,12 +1,18 @@
 ---
-nid: 12182
 title: galena-park-monitoring-report
-path: public/static/wiki/galena-park-monitoring-report.md
+tagnames: parent:texas, texas
+author: liz
+path: /wiki/galena-park-monitoring-report.md
+nid: 12182
 uid: 7
-tagnames: parent:texas,texas
+
 ---
 
 # galena-park-monitoring-report
+
+by [liz](../profile/liz)
+
+August 28, 2015 20:41 | Tags: [parent:texas](../tag/parent:texas), [texas](../tag/texas)
 
 Excerpted from 
 <a href="https://i.publiclab.org/system/images/photos/000/011/319/original/Galena-Park-Monitoring-Report-FINAL.pdf"><i class="icon icon-file"></i> Galena-Park-Monitoring-Report-FINAL.pdf</a>

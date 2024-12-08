@@ -1,12 +1,18 @@
 ---
-nid: 10158
 title: Workshop: spec-tacular
-path: public/static/notes/liz/03-11-2014/workshop-spec-tacular.md
+tagnames: new-york-city, spectrometer, oil, fluorescence, event, oil-testing-kit
+author: liz
+path: /notes/liz/03-11-2014/workshop-spec-tacular.md
+nid: 10158
 uid: 7
-tagnames: new-york-city,spectrometer,oil,fluorescence,event,oil-testing-kit
+
 ---
 
 # Workshop: spec-tacular
+
+by [liz](../profile/liz) March 11, 2014 14:40
+
+March 11, 2014 14:40 | Tags: [new-york-city](../tag/new-york-city), [spectrometer](../tag/spectrometer), [oil](../tag/oil), [fluorescence](../tag/fluorescence), [event](../tag/event), [oil-testing-kit](../tag/oil-testing-kit)
 
 ###Event details
 

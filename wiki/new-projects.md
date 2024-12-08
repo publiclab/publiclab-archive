@@ -1,12 +1,18 @@
 ---
-nid: 9388
 title: New Projects
-path: public/static/wiki/new-projects.md
+tagnames: community, parent:website
+author: Shannon
+path: /wiki/new-projects.md
+nid: 9388
 uid: 9
-tagnames: community,parent:website
+
 ---
 
 # New Projects
+
+by [stevie](../profile/stevie), [mcosta](../profile/mcosta), [liz](../profile/liz), [Shannon](../profile/Shannon), [warren](../profile/warren)
+
+October 02, 2013 19:12 | Tags: [community](../tag/community), [parent:website](../tag/parent:website)
 
 ###How to start a local environmental monitoring project
 

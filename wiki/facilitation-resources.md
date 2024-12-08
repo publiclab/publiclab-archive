@@ -1,12 +1,18 @@
 ---
-nid: 12217
 title: Facilitation Resources
-path: public/static/wiki/facilitation-resources.md
+tagnames: parent:facilitation, facilitation
+author: Shannon
+path: /wiki/facilitation-resources.md
+nid: 12217
 uid: 9
-tagnames: parent:facilitation,facilitation
+
 ---
 
 # Facilitation Resources
+
+by [tobysinclair86](../profile/tobysinclair86), [Shannon](../profile/Shannon)
+
+September 17, 2015 00:35 | Tags: [parent:facilitation](../tag/parent:facilitation), [facilitation](../tag/facilitation)
 
 The [Environmental Leadership Program](http://elpnet.org/) facilitation working group is using this page to compile facilitation resources, but welcome others to contribute and utilize the listed resources!
 

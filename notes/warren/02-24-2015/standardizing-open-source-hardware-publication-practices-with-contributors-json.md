@@ -1,12 +1,18 @@
 ---
-nid: 11636
 title: Standardizing open source hardware publication practices with contributors.json
-path: public/static/notes/warren/02-24-2015/standardizing-open-source-hardware-publication-practices-with-contributors-json.md
+tagnames: open-hardware, attribution, contributing, oshwa
+author: warren
+path: /notes/warren/02-24-2015/standardizing-open-source-hardware-publication-practices-with-contributors-json.md
+nid: 11636
 uid: 1
-tagnames: open-hardware,attribution,contributing,oshwa
+
 ---
 
 # Standardizing open source hardware publication practices with contributors.json
+
+by [warren](../profile/warren) February 24, 2015 21:49
+
+February 24, 2015 21:49 | Tags: [open-hardware](../tag/open-hardware), [attribution](../tag/attribution), [contributing](../tag/contributing), [oshwa](../tag/oshwa)
 
 [Alicia Gibb](http://www.oshwa.org/about/our-team/) of OSHWA and I (I'm on their board) cooked up the idea, chatting a few months ago, of a "spec" for a file similar to the CONTRIBUTORS or [CREDITS text files](https://github.com/torvalds/linux/blob/master/CREDITS) found in some FOSS projects -- a kind of text file format for describing your project and providing key information. So, a little broader than just listing contributors, but really fulfilling all of the [Open Source Hardware Definition](http://www.oshwa.org/definition/). As it'd be machine readable, it could form the basis for a repository -- the URLs to these files in different peoples' online posted docs could be scraped and indexed. 
 

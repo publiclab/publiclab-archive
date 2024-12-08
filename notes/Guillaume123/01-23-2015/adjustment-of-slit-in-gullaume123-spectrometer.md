@@ -1,12 +1,18 @@
 ---
-nid: 11538
 title: Adjustment of slit in Gullaume123 spectrometer
-path: public/static/notes/Guillaume123/01-23-2015/adjustment-of-slit-in-gullaume123-spectrometer.md
+tagnames: spectrometer, slit, slit-width, slit_adjustment
+author: Guillaume123
+path: /notes/Guillaume123/01-23-2015/adjustment-of-slit-in-gullaume123-spectrometer.md
+nid: 11538
 uid: 284858
-tagnames: spectrometer,slit,slit-width,slit_adjustment
+
 ---
 
 # Adjustment of slit in Gullaume123 spectrometer
+
+by [Guillaume123](../profile/Guillaume123) January 23, 2015 19:15
+
+January 23, 2015 19:15 | Tags: [spectrometer](../tag/spectrometer), [slit](../tag/slit), [slit-width](../tag/slit-width), [slit_adjustment](../tag/slit_adjustment)
 
 As promised, here are the details of the slit adjustment of my spectrometer.
 The clips have notes on them which makes them self explanatory.

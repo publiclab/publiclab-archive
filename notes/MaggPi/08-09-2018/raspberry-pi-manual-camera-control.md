@@ -1,12 +1,18 @@
 ---
-nid: 16887
 title: Raspberry Pi Manual Camera Control
-path: public/static/notes/MaggPi/08-09-2018/raspberry-pi-manual-camera-control.md
+tagnames: near-infrared-camera, raspberry-pi, infrared-camera, barnstar:basic, rasperry, exposure, manual, pi-camera, picamera, control, gsoc-2018, noir, pi-calibration
+author: MaggPi
+path: /notes/MaggPi/08-09-2018/raspberry-pi-manual-camera-control.md
+nid: 16887
 uid: 501996
-tagnames: near-infrared-camera,raspberry-pi,infrared-camera,barnstar:basic,rasperry,exposure,manual,pi-camera,picamera,control,gsoc-2018,noir,pi-calibration
+
 ---
 
 # Raspberry Pi Manual Camera Control
+
+by [MaggPi](../profile/MaggPi) August 09, 2018 02:46
+
+August 09, 2018 02:46 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [raspberry-pi](../tag/raspberry-pi), [infrared-camera](../tag/infrared-camera), [barnstar:basic](../tag/barnstar:basic), [rasperry](../tag/rasperry), [exposure](../tag/exposure), [manual](../tag/manual), [pi-camera](../tag/pi-camera), [picamera](../tag/picamera), [control](../tag/control), [gsoc-2018](../tag/gsoc-2018), [noir](../tag/noir), [pi-calibration](../tag/pi-calibration)
 
 **Summary: ** 
 This note describes software that enables manual control of Raspberry Pi camera settings while displaying video output in near real time.  Project video can be seen at: https://youtu.be/agDl9JWxJt0 

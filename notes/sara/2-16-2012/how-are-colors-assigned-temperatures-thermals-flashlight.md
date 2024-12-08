@@ -1,12 +1,18 @@
 ---
-nid: 794
 title: How are colors assigned to temperatures with the thermal flashlight?O
-path: public/static/notes/sara/2-16-2012/how-are-colors-assigned-temperatures-thermals-flashlight.md
-uid: 8
 tagnames: 
+author: sara
+path: /notes/sara/2-16-2012/how-are-colors-assigned-temperatures-thermals-flashlight.md
+nid: 794
+uid: 8
+
 ---
 
 # How are colors assigned to temperatures with the thermal flashlight?O
+
+by [sara](../profile/sara) February 16, 2012 17:28
+
+February 16, 2012 17:28 | Tags: 
 
 One problem frequently being encountered with the thermal flashlight is understanding how colors of light are assigned to particular temperatures. This is particularly confusing because the process of color mapping depends on weather one is working with a common cathode or common anode three color led. 
 

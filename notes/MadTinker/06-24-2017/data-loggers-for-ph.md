@@ -1,12 +1,18 @@
 ---
-nid: 14575
 title: data loggers for PH ? 
-path: public/static/notes/MadTinker/06-24-2017/data-loggers-for-ph.md
+tagnames: tool, riffle, answered, question:water-quality, data-logging, question:general, nano-data-logger, datalogging, first-time-poster
+author: MadTinker
+path: /notes/MadTinker/06-24-2017/data-loggers-for-ph.md
+nid: 14575
 uid: 461206
-tagnames: tool,riffle,answered,question:water-quality,data-logging,question:general,nano-data-logger,datalogging,first-time-poster
+
 ---
 
 # data loggers for PH ? 
+
+by [MadTinker](../profile/MadTinker) June 24, 2017 04:09
+
+June 24, 2017 04:09 | Tags: [tool](../tag/tool), [riffle](../tag/riffle), [answered](../tag/answered), [question:water-quality](../tag/question:water-quality), [data-logging](../tag/data-logging), [question:general](../tag/question:general), [nano-data-logger](../tag/nano-data-logger), [datalogging](../tag/datalogging), [first-time-poster](../tag/first-time-poster)
 
 I'm looking for data loggers where a PH sensor is an option.  
 

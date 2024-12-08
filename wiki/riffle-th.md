@@ -1,12 +1,18 @@
 ---
-nid: 10647
 title: riffle-th
-path: public/static/wiki/riffle-th.md
+tagnames: water-quality, riffle, open-water, riffle-th, parent:riffle
+author: donblair
+path: /wiki/riffle-th.md
+nid: 10647
 uid: 43651
-tagnames: water-quality,riffle,open-water,riffle-th,parent:riffle
+
 ---
 
 # riffle-th
+
+by [donblair](../profile/donblair)
+
+July 02, 2014 20:02 | Tags: [water-quality](../tag/water-quality), [riffle](../tag/riffle), [open-water](../tag/open-water), [riffle-th](../tag/riffle-th), [parent:riffle](../tag/parent:riffle)
 
 main board:
 

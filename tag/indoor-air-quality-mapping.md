@@ -1,6 +1,6 @@
 # indoor-air-quality-mapping
 
-14 notes and wiki pages
+14 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Roomba Indoor Air Quality Monitoring](/wiki/indoor-air-quality-mapping) (wiki)
 - [The gas leak from an old apartment.](/notes/bha/9-11-2011/gas-leak-old-apartment) by [bha](../profile/bha)

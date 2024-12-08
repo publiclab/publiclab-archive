@@ -1,12 +1,18 @@
 ---
-nid: 12059
 title: Preliminary testing of small pocket sled kite for Mobius camera
-path: public/static/notes/patcoyle/07-14-2015/smal-pocket-sled-kite-for-mobius-camera.md
+tagnames: kap, sled-kite, mobius-actioncam, barnstar:basic
+author: patcoyle
+path: /notes/patcoyle/07-14-2015/smal-pocket-sled-kite-for-mobius-camera.md
+nid: 12059
 uid: 77
-tagnames: kap,sled-kite,mobius-actioncam,barnstar:basic
+
 ---
 
 # Preliminary testing of small pocket sled kite for Mobius camera
+
+by [patcoyle](../profile/patcoyle) July 14, 2015 06:32
+
+July 14, 2015 06:32 | Tags: [kap](../tag/kap), [sled-kite](../tag/sled-kite), [mobius-actioncam](../tag/mobius-actioncam), [barnstar:basic](../tag/barnstar:basic)
 
 ###What I want to do
 Explore smaller kites for use with [Mobius camera](http://publiclab.org/wiki/infragram-point-shoot). At 38 grams for the camera, smaller kites or balloons could be useful. Inspired by [Jeff Warren's smaller balloon discussion](http://publiclab.org/notes/warren/05-21-2015/mobius-cameras-and-smaller-balloons), I picked up a small pocket sled from Into The Wind's store on Pearl Street, in Boulder.

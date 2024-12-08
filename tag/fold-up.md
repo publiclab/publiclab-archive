@@ -1,6 +1,6 @@
 # fold-up
 
-6 notes and wiki pages
+6 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Foldup Spectrometer for iPhone](/notes/cfastie/1-4-2013/foldup-spectrometer-iphone) by [cfastie](../profile/cfastie)
 - [reducing reflections in foldup spec](/notes/liz/04-11-2014/reducing-reflections-in-foldup-spec) by [liz](../profile/liz)

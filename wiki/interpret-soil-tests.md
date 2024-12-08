@@ -1,12 +1,18 @@
 ---
-nid: 25865
 title: Making meaning of soil test results and reports
-path: public/static/wiki/interpret-soil-tests.md
+tagnames: soil, soil-testing, method, lab-testing, soil-contamination, parent:soil, interpret-soil-tests
+author: bhamster
+path: /wiki/interpret-soil-tests.md
+nid: 25865
 uid: 664477
-tagnames: soil,soil-testing,method,lab-testing,soil-contamination,parent:soil,interpret-soil-tests
+
 ---
 
 # Making meaning of soil test results and reports
+
+by [laurel_mire](../profile/laurel_mire), [bhamster](../profile/bhamster)
+
+March 08, 2021 23:11 | Tags: [soil](../tag/soil), [soil-testing](../tag/soil-testing), [method](../tag/method), [lab-testing](../tag/lab-testing), [soil-contamination](../tag/soil-contamination), [parent:soil](../tag/parent:soil), [interpret-soil-tests](../tag/interpret-soil-tests)
 
 If you’ve given soil samples to a lab for contaminant testing and received the results, one of the next steps is to interpret the results and make meaning of them. You might have a short document listing test results from the lab, or a longer report that includes some summarizing and recommended actions.
 

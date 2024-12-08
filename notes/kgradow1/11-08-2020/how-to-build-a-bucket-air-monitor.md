@@ -1,12 +1,18 @@
 ---
-nid: 24950
 title: How to Build a Bucket Air Monitor
-path: public/static/notes/kgradow1/11-08-2020/how-to-build-a-bucket-air-monitor.md
+tagnames: diy, air-quality, bucket-brigade, barnstar:photo-documentation, new, draft, activity:air-quality, air-sampling, activity:new, lon:-71, lat:42, air-quality-monitoring, air-quality-projects, zoom:6, air-sensor, bucket-monitor, activity:bucket-monitor
+author: kgradow1
+path: /notes/kgradow1/11-08-2020/how-to-build-a-bucket-air-monitor.md
+nid: 24950
 uid: 297929
-tagnames: diy,air-quality,bucket-brigade,barnstar:photo-documentation,new,draft,activity:air-quality,air-sampling,activity:new,lon:-71,lat:42,air-quality-monitoring,air-quality-projects,zoom:6,air-sensor,bucket-monitor,activity:bucket-monitor
+
 ---
 
 # How to Build a Bucket Air Monitor
+
+by [kgradow1](../profile/kgradow1) November 08, 2020 00:15
+
+November 08, 2020 00:15 | Tags: [diy](../tag/diy), [air-quality](../tag/air-quality), [bucket-brigade](../tag/bucket-brigade), [barnstar:photo-documentation](../tag/barnstar:photo-documentation), [new](../tag/new), [draft](../tag/draft), [activity:air-quality](../tag/activity:air-quality), [air-sampling](../tag/air-sampling), [activity:new](../tag/activity:new), [lon:-71](../tag/lon:-71), [lat:42](../tag/lat:42), [air-quality-monitoring](../tag/air-quality-monitoring), [air-quality-projects](../tag/air-quality-projects), [zoom:6](../tag/zoom:6), [air-sensor](../tag/air-sensor), [bucket-monitor](../tag/bucket-monitor), [activity:bucket-monitor](../tag/activity:bucket-monitor)
 
 ![Diagram 1](/i/41551.jpg "Diagram_1.jpg")
 

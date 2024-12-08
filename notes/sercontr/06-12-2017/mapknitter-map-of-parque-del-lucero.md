@@ -1,11 +1,17 @@
 ---
-nid: 14519
 title: MapKnitter map of Parque del Lucero
-path: public/static/notes/sercontr/06-12-2017/mapknitter-map-of-parque-del-lucero.md
+tagnames: mapknitter, lat:40.3512129716, lon:-3.8512444496
+author: sercontr
+path: /notes/sercontr/06-12-2017/mapknitter-map-of-parque-del-lucero.md
+nid: 14519
 uid: 508888
-tagnames: mapknitter,lat:40.3512129716,lon:-3.8512444496
+
 ---
 
 # MapKnitter map of Parque del Lucero
+
+by [sercontr](../profile/sercontr) June 12, 2017 08:51
+
+June 12, 2017 08:51 | Tags: [mapknitter](../tag/mapknitter), [lat:40.3512129716](../tag/lat:40.3512129716), [lon:-3.8512444496](../tag/lon:-3.8512444496)
 
 https://mapknitter.org/embed/parque-del-lucero

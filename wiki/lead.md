@@ -1,12 +1,18 @@
 ---
-nid: 16938
 title: Lead (Pb)
-path: public/static/wiki/lead.md
+tagnames: heavy-metals, lead, lead-testing
+author: liz
+path: /wiki/lead.md
+nid: 16938
 uid: 7
-tagnames: heavy-metals,lead,lead-testing
+
 ---
 
 # Lead (Pb)
+
+by [joyofsoy](../profile/joyofsoy), [read_holman](../profile/read_holman), [warren](../profile/warren), [liz](../profile/liz)
+
+August 16, 2018 15:07 | Tags: [heavy-metals](../tag/heavy-metals), [lead](../tag/lead), [lead-testing](../tag/lead-testing)
 
 Lead is a heavy metal that is common in our everyday environment. Historically it has been used in paints, pipes (including connectors/fittings), and gasoline among other places. Today, most industrial uses are limited to lead-acid batteries, a growing market.
 

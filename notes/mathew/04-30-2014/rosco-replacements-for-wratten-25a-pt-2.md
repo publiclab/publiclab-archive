@@ -1,12 +1,18 @@
 ---
-nid: 10380
 title: Rosco replacements for Wratten 25A, pt 2
-path: public/static/notes/mathew/04-30-2014/rosco-replacements-for-wratten-25a-pt-2.md
+tagnames: infrared, infragram, mobius
+author: mathew
+path: /notes/mathew/04-30-2014/rosco-replacements-for-wratten-25a-pt-2.md
+nid: 10380
 uid: 4
-tagnames: infrared,infragram,mobius
+
 ---
 
 # Rosco replacements for Wratten 25A, pt 2
+
+by [mathew](../profile/mathew) April 30, 2014 01:57
+
+April 30, 2014 01:57 | Tags: [infrared](../tag/infrared), [infragram](../tag/infragram), [mobius](../tag/mobius)
 
 ###What I want to do
 test the three Rosco theatrical filters identified during a [search for a replacement for the Red Wratten 25A](/notes/mathew/04-29-2014/a-wratten-25a-replacement-from-rosco), using [Chris fastie's white balance settings ](/notes/cfastie/04-26-2014/mobius-ndvi)

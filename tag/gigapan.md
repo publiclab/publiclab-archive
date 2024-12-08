@@ -1,6 +1,6 @@
 # gigapan
 
-26 notes and wiki pages
+26 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Stitched panoramas from the PLOTS IR camera tool](/notes/cfastie/5-8-2012/stitched-panoramas-plots-ir-camera-tool) by [cfastie](../profile/cfastie)
 - [Kite mapping tundra plots](/notes/cfastie/7-9-2012/kite-mapping-tundra-plots) by [cfastie](../profile/cfastie)

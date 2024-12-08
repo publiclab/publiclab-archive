@@ -1,12 +1,18 @@
 ---
-nid: 2604
 title: Staff call notes 6 21 2012
-path: public/static/wiki/staff-call-notes-6-21-2012.md
-uid: 1
 tagnames: 
+author: warren
+path: /wiki/staff-call-notes-6-21-2012.md
+nid: 2604
+uid: 1
+
 ---
 
 # Staff call notes 6 21 2012
+
+by [warren](../profile/warren)
+
+June 21, 2012 16:57 | Tags: 
 
 ###Mathew###
 Accomplished: GitHub comments for tool redesign, finalized all supplies/design for kite workshop (shipping Tuesday morning), got split bamboo ready, worked on UAS ethics dialogue (cut by 50% nearly ready to publish)

@@ -1,12 +1,18 @@
 ---
-nid: 28122
 title: Looking for original research on OSHA sampling methods that would underestimate silica exposure
-path: public/static/notes/bhamster/11-16-2021/looking-for-original-research-on-osha-sampling-methods-that-would-underestimate-silica-exposure.md
+tagnames: question:general, general, silica-monitoring, question:silica-monitoring
+author: bhamster
+path: /notes/bhamster/11-16-2021/looking-for-original-research-on-osha-sampling-methods-that-would-underestimate-silica-exposure.md
+nid: 28122
 uid: 664477
-tagnames: question:general,general,silica-monitoring,question:silica-monitoring
+
 ---
 
 # Looking for original research on OSHA sampling methods that would underestimate silica exposure
+
+by [bhamster](../profile/bhamster) November 16, 2021 18:58
+
+November 16, 2021 18:58 | Tags: [question:general](../tag/question:general), [general](../tag/general), [silica-monitoring](../tag/silica-monitoring), [question:silica-monitoring](../tag/question:silica-monitoring)
 
 Hi! An inquiry came in about material on the [silica monitoring wiki page](https://publiclab.org/wiki/silica-monitoring#OSHA+sampling), which states:
 

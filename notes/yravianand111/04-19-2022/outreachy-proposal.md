@@ -1,12 +1,18 @@
 ---
-nid: 30485
 title: Outreachy proposal: Infragram.org full-screen UI and video upload 
-path: public/static/notes/yravianand111/04-19-2022/outreachy-proposal.md
+tagnames: software, outreachy, outreachy-2022, outreachy-summer-2022
+author: yravianand111
+path: /notes/yravianand111/04-19-2022/outreachy-proposal.md
+nid: 30485
 uid: 784616
-tagnames: software,outreachy,outreachy-2022,outreachy-summer-2022
+
 ---
 
 # Outreachy proposal: Infragram.org full-screen UI and video upload 
+
+by [yravianand111](../profile/yravianand111) April 19, 2022 13:37
+
+April 19, 2022 13:37 | Tags: [software](../tag/software), [outreachy](../tag/outreachy), [outreachy-2022](../tag/outreachy-2022), [outreachy-summer-2022](../tag/outreachy-summer-2022)
 
 ### About me
 

@@ -1,13 +1,12 @@
 # papercraft
 
-22 notes and wiki pages
+22 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Foldable Spectrometry Starter Kit](/wiki/foldable-spec) (wiki)
 - [Redesign of the Foldable Mini-Spectro to hold a cuvette](/notes/dusjagr/04-29-2013/redesign-of-the-foldable-mini-spectro-to-hold-a-cuvette) by [dusjagr](../profile/dusjagr)
 - [Silhouette Cameo desktop paper cutter for prototyping](/notes/warren/07-30-2015/silhouette-cameo-desktop-paper-cutter-for-prototyping) by [warren](../profile/warren)
 - [Prototyping simple paper connections](/notes/warren/08-15-2015/prototyping-simple-paper-connections) by [warren](../profile/warren)
 - [Prototyping flat-pack version of Desktop Spectrometer ](/notes/tonyc/10-14-2015/prototyping-flat-pack-version-of-desktop-spectrometer) by [tonyc](../profile/tonyc)
-- [do my paper! I say!](/wiki/do-my-paper-i-say) (wiki)
 - [Slit holder for Desktop Spectrometer](/notes/warren/11-13-2015/slit-holder-for-desktop-spectrometer) by [warren](../profile/warren)
 - [proof of concept, stacking cuvette frame design](/notes/tonyc/12-02-2015/proof-of-concept-stacking-cuvette-frame-design) by [tonyc](../profile/tonyc)
 - [Silhouette cut Public Lab Mobile spectrometer v2](/notes/briandegger/12-11-2015/silhouette-cut-public-lab-mobile-spectrometer-v2) by [briandegger](../profile/briandegger)
@@ -23,4 +22,3 @@
 - [Do I need to use a DVD-R?  Will a CD-R work too?](/notes/jordankc/01-21-2018/do-i-need-to-use-a-dvd-r-will-a-cd-r-work-too) by [jordankc](../profile/jordankc)
 - [A Prototype Paper Stage for the Microscope](/notes/mimiss/04-16-2019/a-prototype-paper-stage-for-the-microscope) by [mimiss](../profile/mimiss)
 - [copying calibration issue](/notes/kog62290/01-03-2020/copying-calibration-issue) by [kog62290](../profile/kog62290)
-- [Stanabol 90 Caps. Buy Steroids #9uPm6 ](/notes/madilmadil/06-02-2021/stanabol-90-caps-buy-steroids-9upm6) by [madilmadil](../profile/madilmadil)

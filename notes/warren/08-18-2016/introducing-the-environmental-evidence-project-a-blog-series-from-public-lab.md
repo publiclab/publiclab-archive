@@ -1,12 +1,18 @@
 ---
-nid: 13365
 title: Introducing the Environmental Evidence Project, a blog series from Public Lab
-path: public/static/notes/warren/08-18-2016/introducing-the-environmental-evidence-project-a-blog-series-from-public-lab.md
+tagnames: evidence, blog, legal, with:gretchengehrke, evidence-project, proof, series:evidence-project, law-and-policy
+author: warren
+path: /notes/warren/08-18-2016/introducing-the-environmental-evidence-project-a-blog-series-from-public-lab.md
+nid: 13365
 uid: 1
-tagnames: evidence,blog,legal,with:gretchengehrke,evidence-project,proof,series:evidence-project,law-and-policy
+
 ---
 
 # Introducing the Environmental Evidence Project, a blog series from Public Lab
+
+by [warren](../profile/warren) August 18, 2016 14:57
+
+August 18, 2016 14:57 | Tags: [evidence](../tag/evidence), [blog](../tag/blog), [legal](../tag/legal), [with:gretchengehrke](../tag/with:gretchengehrke), [evidence-project](../tag/evidence-project), [proof](../tag/proof), [series:evidence-project](../tag/series:evidence-project), [law-and-policy](../tag/law-and-policy)
 
 Hello everyone -- Jeff Warren and Gretchen Gehrke here, Public Lab's Research Director and Data Quality and Advocacy Manager, respectively. Over the next few months, we're hoping to share a series of posts covering different aspects of the concept of evidence. What is it evidence, what factors contribute to the importance of evidence, and how does all that relate to environment sensing?
 

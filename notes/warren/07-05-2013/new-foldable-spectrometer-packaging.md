@@ -1,12 +1,18 @@
 ---
-nid: 8696
 title: New foldable spectrometer packaging
-path: public/static/notes/warren/07-05-2013/new-foldable-spectrometer-packaging.md
-uid: 1
 tagnames: spectrometer
+author: warren
+path: /notes/warren/07-05-2013/new-foldable-spectrometer-packaging.md
+nid: 8696
+uid: 1
+
 ---
 
 # New foldable spectrometer packaging
+
+by [warren](../profile/warren) July 05, 2013 15:39
+
+July 05, 2013 15:39 | Tags: [spectrometer](../tag/spectrometer)
 
 We've just redesigned the [foldable spectrometer](http://store.publiclab.org/products/foldable-mini-spectrometer) packaging to tell a clearer story about what the device is, how it's used, and it's development in a collaborative community. The new envelopes look great and we're excited to start shipping them today!
 

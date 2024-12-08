@@ -1,12 +1,18 @@
 ---
-nid: 15338
 title: Basic Microscope Kit
-path: public/static/wiki/basic-microscope.md
+tagnames: microscopes, community-kits, new-community-kits, parent:microscopes, 13503, community-kits-prep
+author: warren
+path: /wiki/basic-microscope.md
+nid: 15338
 uid: 1
-tagnames: microscopes,community-kits,new-community-kits,parent:microscopes,13503,community-kits-prep
+
 ---
 
 # Basic Microscope Kit
+
+by [asnow](../profile/asnow), [stevie](../profile/stevie), [warren](../profile/warren)
+
+December 08, 2017 19:17 | Tags: [microscopes](../tag/microscopes), [community-kits](../tag/community-kits), [new-community-kits](../tag/new-community-kits), [parent:microscopes](../tag/parent:microscopes), [13503](../tag/13503), [community-kits-prep](../tag/community-kits-prep)
 
 The Basic Microscope Kit is an introductory Do-It-Yourself microscope made from affordable and easy to find parts. It's based on [the Hackteria microscope](https://publiclab.org/notes/partsandcrafts/10-26-2017/making-a-hackteria-microscope), the OpenFlexure Microscope, and @maxliboiron's work at http://CivicLaboratory.nl ( #13503 ), among other sources. (above image by @partsandcrafts)
 

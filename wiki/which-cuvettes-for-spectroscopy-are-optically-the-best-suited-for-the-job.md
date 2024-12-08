@@ -1,12 +1,18 @@
 ---
-nid: 13159
 title: Which Cuvettes for Spectroscopy are optically the best suited for the job? 
-path: public/static/wiki/which-cuvettes-for-spectroscopy-are-optically-the-best-suited-for-the-job.md
-uid: 461120
 tagnames: 
+author: dhaffnersr
+path: /wiki/which-cuvettes-for-spectroscopy-are-optically-the-best-suited-for-the-job.md
+nid: 13159
+uid: 461120
+
 ---
 
 # Which Cuvettes for Spectroscopy are optically the best suited for the job? 
+
+by [dhaffnersr](../profile/dhaffnersr)
+
+June 02, 2016 19:18 | Tags: 
 
 **Fused Silica Quartz cuvette or UV Plastic Disposable cuvettes**?
 

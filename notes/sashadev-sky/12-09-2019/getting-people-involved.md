@@ -1,12 +1,18 @@
 ---
-nid: 21699
 title: Getting people involved in OSS
-path: public/static/notes/sashadev-sky/12-09-2019/getting-people-involved.md
+tagnames: foss, software-outreach, welcoming, oss
+author: sashadev-sky
+path: /notes/sashadev-sky/12-09-2019/getting-people-involved.md
+nid: 21699
 uid: 555321
-tagnames: foss,software-outreach,welcoming,oss
+
 ---
 
 # Getting people involved in OSS
+
+by [sashadev-sky](../profile/sashadev-sky) December 09, 2019 05:40
+
+December 09, 2019 05:40 | Tags: [foss](../tag/foss), [software-outreach](../tag/software-outreach), [welcoming](../tag/welcoming), [oss](../tag/oss)
 
 (As demonstrated by Public Lab)
 

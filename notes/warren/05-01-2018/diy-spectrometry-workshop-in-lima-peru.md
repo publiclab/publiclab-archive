@@ -1,12 +1,18 @@
 ---
-nid: 38
 title: DIY Spectrometry Workshop in Lima, Peru 
-path: public/static/notes/warren/05-01-2018/diy-spectrometry-workshop-in-lima-peru.md
+tagnames: lima, spectrometer, peru, workshop, spectrometry, event, escuelab, fablab, center-for-bits-and-atoms, cba
+author: warren
+path: /notes/warren/05-01-2018/diy-spectrometry-workshop-in-lima-peru.md
+nid: 38
 uid: 1
-tagnames: lima,spectrometer,peru,workshop,spectrometry,event,escuelab,fablab,center-for-bits-and-atoms,cba
+
 ---
 
 # DIY Spectrometry Workshop in Lima, Peru 
+
+by [warren](../profile/warren) January 07, 2011 04:29
+
+January 07, 2011 04:29 | Tags: [lima](../tag/lima), [spectrometer](../tag/spectrometer), [peru](../tag/peru), [workshop](../tag/workshop), [spectrometry](../tag/spectrometry), [event](../tag/event), [escuelab](../tag/escuelab), [fablab](../tag/fablab), [center-for-bits-and-atoms](../tag/center-for-bits-and-atoms), [cba](../tag/cba)
 
 <a href="https://www.flickr.com/photos/nadya/5328588362/" title="TL lamps by Nadya Peek, on Flickr"><img src="http://farm6.static.flickr.com/5046/5328588362_5f3a65026e.jpg" width="500" height="274" alt="TL lamps" /></a>
 

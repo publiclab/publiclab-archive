@@ -1,11 +1,10 @@
 # legal
 
-34 notes and wiki pages
+34 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Article: "The Difference Between Scientific Evidence And The Scientific Method"](/notes/warren/5-1-2012/article-difference-between-scientific-evidence-and-scientific-method) by [warren](../profile/warren)
 - [Kite Photo of Ongoing Coal Pollution in Plaquemines Parish, LA](/notes/eustatic/05-28-2013/kite-photos-of-ongoing-coal-pollution-in-plaquemines-parish-la) by [eustatic](../profile/eustatic)
 - [Notes on use of the first amendment in the United States for communicative photography](/notes/eustatic/06-03-2013/notes-on-use-of-the-first-amendment-in-the-united-states-for-communicative-photography) by [eustatic](../profile/eustatic)
-- [When Flipping Mieszkania Warszawa A](/wiki/when-flipping-mieszkania-warszawa-a) (wiki)
 - [Introducing the Environmental Evidence Project, a blog series from Public Lab](/notes/warren/08-18-2016/introducing-the-environmental-evidence-project-a-blog-series-from-public-lab) by [warren](../profile/warren)
 - [The many types of evidence](/notes/warren/09-08-2016/the-many-types-of-evidence) by [warren](../profile/warren)
 - [Enforcing Stormwater Permits with Google Street View along the Mystic River](/notes/mathew/09-30-2016/enforcing-stormwater-permits-with-google-street-view-along-the-mystic-river) by [mathew](../profile/mathew)
@@ -16,7 +15,6 @@
 - [Citizen Science Investigations: aka ‘Common Legal Issues when using Community Sourced Data’](/notes/lenagd/12-20-2016/citizen-science-investigations-aka-common-legal-issues-when-using-community-sourced-data) by [lenagd](../profile/lenagd)
 - [Part 2: ‘Common Legal Issues when using Community Sourced Data’](/notes/lenagd/01-25-2017/part-2-common-legal-issues-when-using-community-sourced-data) by [lenagd](../profile/lenagd)
 - [Where can I find models for community-university data co-ownership?](/notes/nshapiro/09-27-2017/where-can-i-find-models-for-community-university-data-co-ownership) by [nshapiro](../profile/nshapiro)
-- [Attwood & Co Solicitors](/notes/matthewattwood12/10-23-2018/attwood-co-solicitors) by [matthewattwood12](../profile/matthewattwood12)
 - [What constitutes an air quality violation in Wisconsin? ](/notes/stevie/03-14-2019/what-constitutes-an-air-quality-violation-in-wisconsin) by [stevie](../profile/stevie)
 - [What constitutes transit violations in Wisconsin?](/notes/kamau19/03-18-2019/what-constitutes-transit-violations-in-wisconsin) by [kamau19](../profile/kamau19)
 - [Topics](/wiki/topics) (wiki)
@@ -25,7 +23,6 @@
 - [Article comparing the effectiveness of recently passed lead exposure reduction laws](/notes/liz/09-26-2019/article-comparing-the-effectiveness-of-recently-passed-lead-exposure-reduction-laws) by [liz](../profile/liz)
 - [Environmental bounty hunting on idling commercial vehicles](/notes/liz/10-15-2019/environmental-bounty-hunting-on-idling-commercial-vehicles) by [liz](../profile/liz)
 - [Oil & Gas OpenHour Follow Up: Community Environmental Protection and Advocacy](/notes/charlotte_clarke/11-13-2019/oil-gas-openhour-follow-up-community-environmental-protection-and-advocacy) by [charlotte_clarke](../profile/charlotte_clarke)
-- [How to check which company is legal or not?](/notes/Volochainmlm/03-25-2020/how-to-check-which-company-is-legal-or-not) by [Volochainmlm](../profile/Volochainmlm)
 - [What is the Community Right-to-Know Act?](/notes/kgradow1/06-18-2020/what-is-the-community-right-to-know-act) by [kgradow1](../profile/kgradow1)
 - [Law and Policy](/wiki/law-and-policy) (wiki)
 - [The concept of community paralegals](/notes/liz/10-16-2020/the-concept-of-community-paralegals) by [liz](../profile/liz)
@@ -35,4 +32,3 @@
 - [What are statute of limitations? ](/notes/amocorro/05-13-2021/what-are-statute-of-limitations) by [amocorro](../profile/amocorro)
 - [Announcing our newest Fellowship Team project! ](/notes/stevie/08-19-2021/announcing-our-newest-fellowship-team-project) by [stevie](../profile/stevie)
 - [Do you have any examples of community-based lawyering or policy work?](/notes/JuliaGuerrein/06-07-2022/do-you-have-any-examples-of-community-based-lawyering-or-policy-work) by [JuliaGuerrein](../profile/JuliaGuerrein)
-- [Recommended law firm in Kuala Lumpur](/notes/ericteekimyaw/05-03-2024/recommended-law-firm-in-kuala-lumpur) by [ericteekimyaw](../profile/ericteekimyaw)

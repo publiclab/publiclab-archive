@@ -1,12 +1,18 @@
 ---
-nid: 8998
 title: Public Lab community growth, Dec 2010-Aug 2013
-path: public/static/notes/warren/08-13-2013/public-lab-community-growth-dec-2010-aug-2013.md
+tagnames: community, website, statistics, evaluation
+author: warren
+path: /notes/warren/08-13-2013/public-lab-community-growth-dec-2010-aug-2013.md
+nid: 8998
 uid: 1
-tagnames: community,website,statistics,evaluation
+
 ---
 
 # Public Lab community growth, Dec 2010-Aug 2013
+
+by [warren](../profile/warren) August 13, 2013 20:38
+
+August 13, 2013 20:38 | Tags: [community](../tag/community), [website](../tag/website), [statistics](../tag/statistics), [evaluation](../tag/evaluation)
 
 I occasionally go through our traffic tracking graphs on Google Analytics, and though this might be nice to share; we've had **366,744 people** visit the site since it launched in December 2010! The lead image is a graph of that traffic, by month. The larger spikes are in April 2012 [when Google announced they were republishing our balloon maps](http://google-latlong.blogspot.com/2012/04/balloon-and-kite-imagery-in-google.html), and in September 2012 when [our DIY Spectrometry Kickstarter ran](http://www.kickstarter.com/projects/jywarren/public-lab-diy-spectrometry-kit) and was featured on Slashdot.
 

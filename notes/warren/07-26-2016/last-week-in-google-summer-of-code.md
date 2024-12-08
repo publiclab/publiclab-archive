@@ -1,12 +1,18 @@
 ---
-nid: 13311
 title: Last week in Google Summer of Code
-path: public/static/notes/warren/07-26-2016/last-week-in-google-summer-of-code.md
+tagnames: website, software, gsoc, developers, coding, wwg, gsoc-2016, webjack, 618, 600, response:13299
+author: warren
+path: /notes/warren/07-26-2016/last-week-in-google-summer-of-code.md
+nid: 13311
 uid: 1
-tagnames: website,software,gsoc,developers,coding,wwg,gsoc-2016,webjack,618,600,response:13299
+
 ---
 
 # Last week in Google Summer of Code
+
+by [warren](../profile/warren) July 26, 2016 17:30
+
+July 26, 2016 17:30 | Tags: [website](../tag/website), [software](../tag/software), [gsoc](../tag/gsoc), [developers](../tag/developers), [coding](../tag/coding), [wwg](../tag/wwg), [gsoc-2016](../tag/gsoc-2016), [webjack](../tag/webjack), [618](../tag/618), [600](../tag/600), [response:13299](../tag/response:13299)
 
 Hi, all -- a smaller update after [last week's][1] (which included three weeks worth of changes!). Upgrades continue apace, and a major relaunch of our search functionality is on the horizon. 
 

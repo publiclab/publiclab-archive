@@ -1,12 +1,18 @@
 ---
-nid: 10024
 title: NVDI with canon a2500
-path: public/static/notes/gpenzo/02-09-2014/nvdi-with-canon-a2500.md
+tagnames: balloon-mapping, near-infrared-camera, kite-mapping, nrg, ndvi, infrared, infragram, infrablue, first-time-poster
+author: gpenzo
+path: /notes/gpenzo/02-09-2014/nvdi-with-canon-a2500.md
+nid: 10024
 uid: 420719
-tagnames: balloon-mapping,near-infrared-camera,kite-mapping,nrg,ndvi,infrared,infragram,infrablue,first-time-poster
+
 ---
 
 # NVDI with canon a2500
+
+by [gpenzo](../profile/gpenzo) February 09, 2014 21:45
+
+February 09, 2014 21:45 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [nrg](../tag/nrg), [ndvi](../tag/ndvi), [infrared](../tag/infrared), [infragram](../tag/infragram), [infrablue](../tag/infrablue), [first-time-poster](../tag/first-time-poster)
 
 ###What I want to do
 My goal is to make nvdi images of farmland. Hopefully the quality will be good enough to help farmers locate plant stress in the field. I think the best quality NDVI images will be made with two cameras.

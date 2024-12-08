@@ -1,12 +1,18 @@
 ---
-nid: 11242
 title: Thoughts on sensor journalism 
-path: public/static/notes/cjedra/10-06-2014/thoughts-on-sensor-journalism.md
-uid: 428092
 tagnames: sensor-journalism
+author: cjedra
+path: /notes/cjedra/10-06-2014/thoughts-on-sensor-journalism.md
+nid: 11242
+uid: 428092
+
 ---
 
 # Thoughts on sensor journalism 
+
+by [cjedra](../profile/cjedra) October 06, 2014 17:43
+
+October 06, 2014 17:43 | Tags: [sensor-journalism](../tag/sensor-journalism)
 
 During our first week of school, our Data Visualization class collaborated on a [dictionary](http://word.emerson.edu/dataviz/dictionary/) of related terms in an attempt to create a common language to talk about data and journalism. One of those words was “sensor,” defined by students as: “a device that is used to pick up and respond to various physical inputs in the environment, including pressure, moisture, heat, light, etc. Thermometers, motion detectors, smoke detectors and microphones are all examples of sensors. Sensors can be used to gather a wide array of data, and are becoming a more common tool used by journalists, paving the way for Sensor Journalism, a now up and coming form of news reporting.” 
 

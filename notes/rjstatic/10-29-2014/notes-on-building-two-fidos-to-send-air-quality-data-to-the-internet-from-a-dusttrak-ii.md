@@ -1,12 +1,18 @@
 ---
-nid: 11306
 title: Notes on building two Fidos that send air quality data to the Internet from a DustTrak II
-path: public/static/notes/rjstatic/10-29-2014/notes-on-building-two-fidos-to-send-air-quality-data-to-the-internet-from-a-dusttrak-ii.md
+tagnames: raspberry-pi, air-quality, open-ground, fido, open-pipe-kit, sensor-pipe, air-sensors
+author: rjstatic
+path: /10-29-2014/notes-on-building-two-fidos-to-send-air-quality-data-to-the-internet-from-a-dusttrak-ii.md
+nid: 11306
 uid: 174
-tagnames: raspberry-pi,air-quality,open-ground,fido,open-pipe-kit,sensor-pipe,air-sensors
+
 ---
 
 # Notes on building two Fidos that send air quality data to the Internet from a DustTrak II
+
+by [rjstatic](../profile/rjstatic) October 29, 2014 01:09
+
+October 29, 2014 01:09 | Tags: [raspberry-pi](../tag/raspberry-pi), [air-quality](../tag/air-quality), [open-ground](../tag/open-ground), [fido](../tag/fido), [open-pipe-kit](../tag/open-pipe-kit), [sensor-pipe](../tag/sensor-pipe), [air-sensors](../tag/air-sensors)
 
 **Update 2014-11-04: We're calling these prototypes Sensor Pipes because they pipe data from a sensor to a place of your choosing. Read more about the proposed [Open Pipe Kit here](http://publiclab.org/wiki/open-pipe-kit)**
 

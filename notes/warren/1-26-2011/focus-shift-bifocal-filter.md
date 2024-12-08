@@ -1,12 +1,18 @@
 ---
-nid: 61
 title: Focus shift in bifocal filter?
-path: public/static/notes/warren/1-26-2011/focus-shift-bifocal-filter.md
+tagnames: lima, near-infrared-camera, peru
+author: warren
+path: /notes/warren/1-26-2011/focus-shift-bifocal-filter.md
+nid: 61
 uid: 1
-tagnames: lima,near-infrared-camera,peru
+
 ---
 
 # Focus shift in bifocal filter?
+
+by [warren](../profile/warren) January 26, 2011 05:05
+
+January 26, 2011 05:05 | Tags: [lima](../tag/lima), [near-infrared-camera](../tag/near-infrared-camera), [peru](../tag/peru)
 
 Does this image show focus shift? It seems like the infrared is in focus while the visible is not. 
 

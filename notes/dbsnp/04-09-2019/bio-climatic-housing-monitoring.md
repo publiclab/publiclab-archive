@@ -1,12 +1,18 @@
 ---
-nid: 19014
 title: Bio-Climatic Housing Monitoring
-path: public/static/notes/dbsnp/04-09-2019/bio-climatic-housing-monitoring.md
+tagnames: sensors, central-america, housing, heat, community-science, el-salvador, lat:13.69294, lon:-89.218191
+author: dbsnp
+path: /notes/dbsnp/04-09-2019/bio-climatic-housing-monitoring.md
+nid: 19014
 uid: 543056
-tagnames: sensors,central-america,housing,heat,community-science,el-salvador,lat:13.69294,lon:-89.218191
+
 ---
 
 # Bio-Climatic Housing Monitoring
+
+by [dbsnp](../profile/dbsnp) April 09, 2019 23:38
+
+April 09, 2019 23:38 | Tags: [sensors](../tag/sensors), [central-america](../tag/central-america), [housing](../tag/housing), [heat](../tag/heat), [community-science](../tag/community-science), [el-salvador](../tag/el-salvador), [lat:13.69294](../tag/lat:13.69294), [lon:-89.218191](../tag/lon:-89.218191)
 
 ## Description
 An interesting conversation arose during the Texas Barnraising with a few participants, regarding the idea of developing a simple device to measure the quality of housing in El Salvador where I am based. I am currently part of an effort to improve housing design for social interest housing organizations such as [Habitat for Humanity](https://www.habitatelsalvador.org.sv/) and [Techo](https://www.techo.org/elsalvador/) in El Salvador, by using bio-climatic analyses that take into account things such as the home orientation, green roofs and ventilation.

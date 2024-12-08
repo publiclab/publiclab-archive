@@ -1,12 +1,18 @@
 ---
-nid: 12445
 title: Solar Balloon session by Nick Shapiro, at 2015 Public Lab Barnraiser
-path: public/static/notes/patcoyle/11-25-2015/solar-ballon-session-by-nick-shapiro-at-2015-pub-lab-barnraiser.md
+tagnames: solar-balloon, documentation, barnraising
+author: patcoyle
+path: /notes/patcoyle/11-25-2015/solar-ballon-session-by-nick-shapiro-at-2015-pub-lab-barnraiser.md
+nid: 12445
 uid: 77
-tagnames: solar-balloon,documentation,barnraising
+
 ---
 
 # Solar Balloon session by Nick Shapiro, at 2015 Public Lab Barnraiser
+
+by [patcoyle](../profile/patcoyle) November 25, 2015 00:11
+
+November 25, 2015 00:11 | Tags: [solar-balloon](../tag/solar-balloon), [documentation](../tag/documentation), [barnraising](../tag/barnraising)
 
 ###What I want to do
 

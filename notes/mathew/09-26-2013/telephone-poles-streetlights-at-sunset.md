@@ -1,12 +1,18 @@
 ---
-nid: 9377
 title: telephone poles & streetlights at sunset
-path: public/static/notes/mathew/09-26-2013/telephone-poles-streetlights-at-sunset.md
-uid: 4
 tagnames: spectrometer
+author: mathew
+path: /notes/mathew/09-26-2013/telephone-poles-streetlights-at-sunset.md
+nid: 9377
+uid: 4
+
 ---
 
 # telephone poles & streetlights at sunset
+
+by [mathew](../profile/mathew) September 26, 2013 06:42
+
+September 26, 2013 06:42 | Tags: [spectrometer](../tag/spectrometer)
 
 ##What I want to do
 resolve open questions from my [last batch of slit tests.](/notes/mathew/09-25-2013/photo-printed-collimation-slit-for-the-backpack-spectrometer)

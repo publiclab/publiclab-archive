@@ -1,12 +1,18 @@
 ---
-nid: 11184
 title: Balloon mapping of local invasive species and town mapping 
-path: public/static/wiki/balloon-mapping-of-local-invasive-species-and-town-mapping.md
+tagnames: balloon-mapping, kite-mapping, kite-aerial-photography, kite, amherst, mapping, balloon-mapping-kit, massachusetts, umass-amherst, helium, invasives, invasive-species, amherst-media, publiclab-at-amherst-media, makers-and-amherst-media, mtholyoke, amherstcollege, helium-balloon, city-planning, westfield, makers-massachusetts
+author: aferland
+path: /wiki/balloon-mapping-of-local-invasive-species-and-town-mapping.md
+nid: 11184
 uid: 428191
-tagnames: balloon-mapping,kite-mapping,kite-aerial-photography,kite,amherst,mapping,balloon-mapping-kit,massachusetts,umass-amherst,helium,invasives,invasive-species,amherst-media,publiclab-at-amherst-media,makers-and-amherst-media,mtholyoke,amherstcollege,helium-balloon,city-planning,westfield,makers-massachusetts
+
 ---
 
 # Balloon mapping of local invasive species and town mapping 
+
+by [abdul](../profile/abdul), [aferland](../profile/aferland)
+
+September 24, 2014 21:32 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [kite-aerial-photography](../tag/kite-aerial-photography), [kite](../tag/kite), [amherst](../tag/amherst), [mapping](../tag/mapping), [balloon-mapping-kit](../tag/balloon-mapping-kit), [massachusetts](../tag/massachusetts), [umass-amherst](../tag/umass-amherst), [helium](../tag/helium), [invasives](../tag/invasives), [invasive-species](../tag/invasive-species), [amherst-media](../tag/amherst-media), [publiclab-at-amherst-media](../tag/publiclab-at-amherst-media), [makers-and-amherst-media](../tag/makers-and-amherst-media), [mtholyoke](../tag/mtholyoke), [amherstcollege](../tag/amherstcollege), [helium-balloon](../tag/helium-balloon), [city-planning](../tag/city-planning), [westfield](../tag/westfield), [makers-massachusetts](../tag/makers-massachusetts)
 
 ##Objective##
 Use one of the public labs [DIY helium balloons](http://store.publiclab.org/products/chloroprene-mapping-balloon) to do mapping of a local invasive aquatic plant **Water Chestnut **and to help map in downtown Amherst to assist in **city planning**. 

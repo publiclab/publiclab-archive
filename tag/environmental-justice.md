@@ -1,6 +1,6 @@
 # environmental-justice
 
-23 notes and wiki pages
+23 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [EJ in LA](/notes/stevie/09-17-2015/ej-in-la) by [stevie](../profile/stevie)
 - [North Shore Community Resiliency Assessment Memorandum](/notes/liz/11-13-2015/north-shore-community-resiliency-assessment-memorandum) by [liz](../profile/liz)

@@ -1,12 +1,18 @@
 ---
-nid: 15318
 title: Develop Community Kits with Public Lab!
-path: public/static/notes/bronwen/12-06-2017/develop-community-kits-with-public-lab.md
+tagnames: open-hardware, kits, store, kits-initiative, open_source_hardware, open-open-hardware, prototyping-kits
+author: Bronwen
+path: /notes/bronwen/12-06-2017/develop-community-kits-with-public-lab.md
+nid: 15318
 uid: 237313
-tagnames: open-hardware,kits,store,kits-initiative,open_source_hardware,open-open-hardware,prototyping-kits
+
 ---
 
 # Develop Community Kits with Public Lab!
+
+by [Bronwen](../profile/Bronwen) December 06, 2017 15:03
+
+December 06, 2017 15:03 | Tags: [open-hardware](../tag/open-hardware), [kits](../tag/kits), [store](../tag/store), [kits-initiative](../tag/kits-initiative), [open_source_hardware](../tag/open_source_hardware), [open-open-hardware](../tag/open-open-hardware), [prototyping-kits](../tag/prototyping-kits)
 
 **The Kits Initiative is opening our doors to projects from around the world by launching a Community Kits program!**
 

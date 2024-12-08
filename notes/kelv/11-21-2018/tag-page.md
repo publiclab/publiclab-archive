@@ -1,12 +1,18 @@
 ---
-nid: 17724
 title: tag page
-path: public/static/notes/kelv/11-21-2018/tag-page.md
-uid: 553553
 tagnames: first-time-poster
+author: kelv
+path: /notes/kelv/11-21-2018/tag-page.md
+nid: 17724
+uid: 553553
+
 ---
 
 # tag page
+
+by [kelv](../profile/kelv) November 21, 2018 11:39
+
+November 21, 2018 11:39 | Tags: [first-time-poster](../tag/first-time-poster)
 
 ![image description](/i/27775.png "01.png")**  
 ****

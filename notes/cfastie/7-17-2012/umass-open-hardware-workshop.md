@@ -1,12 +1,18 @@
 ---
-nid: 2848
 title: UMass Open Hardware Workshop
-path: public/static/notes/cfastie/7-17-2012/umass-open-hardware-workshop.md
+tagnames: near-infrared-camera, arduino, open-source, open-hardware, conferences, umass-amherst
+author: cfastie
+path: /notes/cfastie/7-17-2012/umass-open-hardware-workshop.md
+nid: 2848
 uid: 554
-tagnames: near-infrared-camera,arduino,open-source,open-hardware,conferences,umass-amherst
+
 ---
 
 # UMass Open Hardware Workshop
+
+by [cfastie](../profile/cfastie) July 18, 2012 01:29
+
+July 18, 2012 01:29 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [arduino](../tag/arduino), [open-source](../tag/open-source), [open-hardware](../tag/open-hardware), [conferences](../tag/conferences), [umass-amherst](../tag/umass-amherst)
 
 I attended a terrific event on Saturday in Amherst, Massachusetts.  The Open Science Hardware Workshop at the University of Massachusetts focused on inexpensive, open source devices for sensing and controlling many types of processes and equipment.  Many participants were interested in applying open source microcontrollers based on the Arduino standard.  Arduinos are complete computers with CPU, memory, and I/O, and vary in size from smaller than- to a bit larger than a smart phone.  They are easily programmable and support multiple output channels for controlling other devices and multiple input channels for feedback and for connecting sensors.  A basic Arduino costs $30-$50.  We were treated to several elaborate demonstrations of:  precise control and reporting of temperature (<a href="https://github.com/cversek">Craig Versek</a>), camera control to capture split-second events (<a href="https://sites.google.com/site/fjs1984/">Jiansheng Feng</a>), wireless control of remote devices (Matthew Brockmann and <a href="http://www.donblair.cc/">Don Blair</a>), 3D printing (<a href="http://bgamari.github.com/">Ben Gamari</a>) and robotic execution of repetitive tasks (<a href="http://www.donblair.cc/">Don Blair</a>).  Each of these demonstrations used microcontroller electronics which cost less than $200.
   

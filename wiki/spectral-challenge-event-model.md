@@ -1,12 +1,18 @@
 ---
-nid: 6933
 title: Spectral Challenge event model
-path: public/static/wiki/spectral-challenge-event-model.md
+tagnames: event, spectralchallenge
+author: liz
+path: /wiki/spectral-challenge-event-model.md
+nid: 6933
 uid: 7
-tagnames: event,spectralchallenge
+
 ---
 
 # Spectral Challenge event model
+
+by [warren](../profile/warren), [liz](../profile/liz)
+
+April 20, 2013 15:35 | Tags: [event](../tag/event), [spectralchallenge](../tag/spectralchallenge)
 
 Not sure how to get started? Browse the ideas below, then pick and choose some steps that will work for you and your community! Believe it or not, you can do spectral analysis without having prior knowledge or training. Simply being observant and trying to figure out what is going on will get you far. Posting your spectral results to <a href="https://spectralworkbench.org">spectralworkbench.org</a> will connect your efforts to a community of researchers who can help. 
 

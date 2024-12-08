@@ -1,12 +1,18 @@
 ---
-nid: 11392
 title: Thermal Imaging: Heat Insulation Comparison
-path: public/static/notes/SCG/11-23-2014/thermal-imaging-heat-insulation-comparison.md
+tagnames: thermal-photography, thermal-flashlight, thermal-camera, tool, insulation, heat, replication:625, first-time-poster
+author: SCG
+path: /notes/SCG/11-23-2014/thermal-imaging-heat-insulation-comparison.md
+nid: 11392
 uid: 431781
-tagnames: thermal-photography,thermal-flashlight,thermal-camera,tool,insulation,heat,replication:625,first-time-poster
+
 ---
 
 # Thermal Imaging: Heat Insulation Comparison
+
+by [SCG](../profile/SCG) November 23, 2014 19:18
+
+November 23, 2014 19:18 | Tags: [thermal-photography](../tag/thermal-photography), [thermal-flashlight](../tag/thermal-flashlight), [thermal-camera](../tag/thermal-camera), [tool](../tag/tool), [insulation](../tag/insulation), [heat](../tag/heat), [replication:625](../tag/replication:625), [first-time-poster](../tag/first-time-poster)
 
 We hope to test the insulation in different apartment buildings among the Northeastern University campus. Our hypothesis is that the newer, renovated buildings will have better heat insulation than the older buildings. 
 

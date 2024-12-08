@@ -1,12 +1,18 @@
 ---
-nid: 9962
 title: Thermal Flashlight Using MLX90614 IR Evaluation Board From Sparkfun 
-path: public/static/notes/code4maine/01-22-2014/thermal-flashlight-using-mlx90614-ir-evaluation-board-from-sparkfun.md
+tagnames: thermal-photography, thermal-flashlight, thermal-camera, tool, response:9922, activity:thermal-flashlight, upgrade:thermal-flashlight
+author: ajawitz
+path: /notes/code4maine/01-22-2014/thermal-flashlight-using-mlx90614-ir-evaluation-board-from-sparkfun.md
+nid: 9962
 uid: 294634
-tagnames: thermal-photography,thermal-flashlight,thermal-camera,tool,response:9922,activity:thermal-flashlight,upgrade:thermal-flashlight
+
 ---
 
 # Thermal Flashlight Using MLX90614 IR Evaluation Board From Sparkfun 
+
+by [ajawitz](../profile/ajawitz) January 22, 2014 19:44
+
+January 22, 2014 19:44 | Tags: [thermal-photography](../tag/thermal-photography), [thermal-flashlight](../tag/thermal-flashlight), [thermal-camera](../tag/thermal-camera), [tool](../tag/tool), [response:9922](../tag/response:9922), [activity:thermal-flashlight](../tag/activity:thermal-flashlight), [upgrade:thermal-flashlight](../tag/upgrade:thermal-flashlight)
 
 ###What I want to do
 I would like to build a Thermal Flashlight that is very similar to the current recommended method on- http://publiclab.org/wiki/thermal-camera only instead of wiring in a standalone IR sensor, I would like to use the [Evaluation Board for MLX90614 IR Thermometer](https://www.sparkfun.com/products/10740) from Sparkfun.  

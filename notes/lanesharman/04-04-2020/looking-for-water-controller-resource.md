@@ -1,12 +1,18 @@
 ---
-nid: 23298
 title: Looking for water controller resource 
-path: public/static/notes/lanesharman/04-04-2020/looking-for-water-controller-resource.md
+tagnames: water-quality, question:water-quality, first-time-poster, controller
+author: lanesharman
+path: /notes/lanesharman/04-04-2020/looking-for-water-controller-resource.md
+nid: 23298
 uid: 680339
-tagnames: water-quality,question:water-quality,first-time-poster,controller
+
 ---
 
 # Looking for water controller resource 
+
+by [lanesharman](../profile/lanesharman) April 04, 2020 15:56
+
+April 04, 2020 15:56 | Tags: [water-quality](../tag/water-quality), [question:water-quality](../tag/question:water-quality), [first-time-poster](../tag/first-time-poster), [controller](../tag/controller)
 
 Am looking for some resources to embed a microcontroller inside an air to water dispenser.
 

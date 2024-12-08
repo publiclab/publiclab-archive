@@ -1,12 +1,18 @@
 ---
-nid: 3031
 title: Staff call notes 7 16 2012
-path: public/static/wiki/staff-call-notes-7-16-2012.md
-uid: 1
 tagnames: 
+author: warren
+path: /wiki/staff-call-notes-7-16-2012.md
+nid: 3031
+uid: 1
+
 ---
 
 # Staff call notes 7 16 2012
+
+by [warren](../profile/warren)
+
+July 30, 2012 16:45 | Tags: 
 
 ###Shannon###
 * Accomplishments: 4S sections, work on LA coal terminal, work w/ SciStarter and things mentioned on Thurs

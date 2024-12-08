@@ -1,12 +1,18 @@
 ---
-nid: 16883
 title: GSoC 2018 Wrap-Up Post
-path: public/static/notes/sagarpreet/08-08-2018/gsoc-2018-wrap-up-post.md
+tagnames: gsoc-2018-final, soc-2018-final, soc-2018-final-report
+author: sagarpreet
+path: /notes/sagarpreet/08-08-2018/gsoc-2018-wrap-up-post.md
+nid: 16883
 uid: 516343
-tagnames: gsoc-2018-final,soc-2018-final,soc-2018-final-report
+
 ---
 
 # GSoC 2018 Wrap-Up Post
+
+by [sagarpreet](../profile/sagarpreet) August 08, 2018 14:39
+
+August 08, 2018 14:39 | Tags: [gsoc-2018-final](../tag/gsoc-2018-final), [soc-2018-final](../tag/soc-2018-final), [soc-2018-final-report](../tag/soc-2018-final-report)
 
 Finally, the GSoC coding period is coming to an end as I finish up my project. In this post I aim to summarize all of the work I have done during the past months.
 

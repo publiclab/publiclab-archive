@@ -1,12 +1,18 @@
 ---
-nid: 25925
 title: Seeking a Water Research Curation Fellow
-path: public/static/notes/bhamster/03-15-2021/seeking-a-water-research-curation-fellow.md
+tagnames: wetlands, water-quality, stormwater, jobs, fellows, fellowship, microplastics, fellow, research-curation-fellows
+author: bhamster
+path: /notes/bhamster/03-15-2021/seeking-a-water-research-curation-fellow.md
+nid: 25925
 uid: 664477
-tagnames: wetlands,water-quality,stormwater,jobs,fellows,fellowship,microplastics,fellow,research-curation-fellows
+
 ---
 
 # Seeking a Water Research Curation Fellow
+
+by [bhamster](../profile/bhamster) March 15, 2021 21:52
+
+March 15, 2021 21:52 | Tags: [wetlands](../tag/wetlands), [water-quality](../tag/water-quality), [stormwater](../tag/stormwater), [jobs](../tag/jobs), [fellows](../tag/fellows), [fellowship](../tag/fellowship), [microplastics](../tag/microplastics), [fellow](../tag/fellow), [research-curation-fellows](../tag/research-curation-fellows)
 
 _**NOTE: The Water Research Curation Fellowship has been filled!** Please check out the [Fellows Program page here](https://publiclab.org/wiki/fellows#About+Research+Curation+Fellowships) to see other open fellowships for Research Curation at Public Lab. Thanks!_
 <hr>

@@ -1,12 +1,18 @@
 ---
-nid: 10027
 title: Underwater Plume Sampling Methods
-path: public/static/notes/maxliboiron/02-11-2014/underwater-plume-sampling-methods.md
+tagnames: plume, water-quality, water-monitoring, sampling, underwater, methodology, thermal-plumes, hydrothermal, method, effluent, first-time-poster, effluent-plume
+author: maxliboiron
+path: /notes/maxliboiron/02-11-2014/underwater-plume-sampling-methods.md
+nid: 10027
 uid: 310707
-tagnames: plume,water-quality,water-monitoring,sampling,underwater,methodology,thermal-plumes,hydrothermal,method,effluent,first-time-poster,effluent-plume
+
 ---
 
 # Underwater Plume Sampling Methods
+
+by [maxliboiron](../profile/maxliboiron) February 11, 2014 19:35
+
+February 11, 2014 19:35 | Tags: [plume](../tag/plume), [water-quality](../tag/water-quality), [water-monitoring](../tag/water-monitoring), [sampling](../tag/sampling), [underwater](../tag/underwater), [methodology](../tag/methodology), [thermal-plumes](../tag/thermal-plumes), [hydrothermal](../tag/hydrothermal), [method](../tag/method), [effluent](../tag/effluent), [first-time-poster](../tag/first-time-poster), [effluent-plume](../tag/effluent-plume)
 
 We are interested in sampling effluent plumes underwater that might be both warm (hydrothermal plumes) and/or have contaminants in them (effluent plumes). I've done some preliminary research on sampling techniques based on towing monitoring devices behind boats. 
 

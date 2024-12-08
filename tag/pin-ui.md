@@ -1,6 +1,6 @@
 # pin-ui
 
-3 notes and wiki pages
+3 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Findings from UI Analysis of PL website](/notes/sylvan/03-04-2019/findings-from-ui-analysis-of-pl-website) by [sylvan](../profile/sylvan)
 - [User interface projects update and DIAL OSC project recap](/notes/warren/04-22-2019/user-interface-projects-update-and-dial-osc-project-recap) by [warren](../profile/warren)

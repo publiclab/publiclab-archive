@@ -1,12 +1,18 @@
 ---
-nid: 12778
 title: M.Sc. student looking for community research to partner with
-path: public/static/notes/patzerrpd/03-07-2016/m-sc-student-looking-for-community-research-to-partner-with.md
+tagnames: community, water, canada, monitoring, environmental, engagement, community-driven
+author: patzerrpd
+path: /notes/patzerrpd/03-07-2016/m-sc-student-looking-for-community-research-to-partner-with.md
+nid: 12778
 uid: 468530
-tagnames: community,water,canada,monitoring,environmental,engagement,community-driven
+
 ---
 
 # M.Sc. student looking for community research to partner with
+
+by [patzerrpd](../profile/patzerrpd) March 07, 2016 03:22
+
+March 07, 2016 03:22 | Tags: [community](../tag/community), [water](../tag/water), [canada](../tag/canada), [monitoring](../tag/monitoring), [environmental](../tag/environmental), [engagement](../tag/engagement), [community-driven](../tag/community-driven)
 
 Hello! 
 

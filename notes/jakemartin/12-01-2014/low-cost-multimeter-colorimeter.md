@@ -1,12 +1,18 @@
 ---
-nid: 11414
 title: Low-cost multimeter colorimeter
-path: public/static/notes/jakemartin/12-01-2014/low-cost-multimeter-colorimeter.md
+tagnames: spectrometer, spectrophotometer, quantitative, parent:spectrometer, colorimetry, multimeter, first-time-poster
+author: jakemartin
+path: /notes/jakemartin/12-01-2014/low-cost-multimeter-colorimeter.md
+nid: 11414
 uid: 422965
-tagnames: spectrometer,spectrophotometer,quantitative,parent:spectrometer,colorimetry,multimeter,first-time-poster
+
 ---
 
 # Low-cost multimeter colorimeter
+
+by [jakemartin](../profile/jakemartin) December 01, 2014 03:18
+
+December 01, 2014 03:18 | Tags: [spectrometer](../tag/spectrometer), [spectrophotometer](../tag/spectrophotometer), [quantitative](../tag/quantitative), [parent:spectrometer](../tag/parent:spectrometer), [colorimetry](../tag/colorimetry), [multimeter](../tag/multimeter), [first-time-poster](../tag/first-time-poster)
 
 ###What I want to do
 Make low cost quantitative measurements of the concentration of chemicals in solution. The big problem with using cell phone or webcam based spectrometers is auto-exposure which makes comparing intensities between different spectra basically impossible. Using a LED and battery, a light dependent resistor, multimeter and some laser cut plastic you can measure absorbance quantitatively.

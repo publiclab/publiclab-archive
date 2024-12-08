@@ -1,12 +1,18 @@
 ---
-nid: 15320
 title: Help document how to connect different sensors to a data logger
-path: public/static/notes/warren/12-06-2017/help-document-how-to-connect-different-sensors-to-a-data-logger.md
+tagnames: arduino, seeks:replications, requests, activity:requests
+author: warren
+path: /notes/warren/12-06-2017/help-document-how-to-connect-different-sensors-to-a-data-logger.md
+nid: 15320
 uid: 1
-tagnames: arduino,seeks:replications,requests,activity:requests
+
 ---
 
 # Help document how to connect different sensors to a data logger
+
+by [warren](../profile/warren) December 06, 2017 16:05
+
+December 06, 2017 16:05 | Tags: [arduino](../tag/arduino), [seeks:replications](../tag/seeks:replications), [requests](../tag/requests), [activity:requests](../tag/activity:requests)
 
 We have a range of [data logger projects](/wiki/data-logging) on the site, most of which are Arduino-based, and therefore pretty compatible! (Thanks, #arduino!) Let's work together to compile information on **different sensors that could be used across these different platforms**. That way, each data logging project doesn't have to develop its own separate documentation for each type of sensor. (above image by @zengirl2 in [this post](https://publiclab.org/notes/Zengirl2/09-01-2017/mini-pearl-logger-replication))
 

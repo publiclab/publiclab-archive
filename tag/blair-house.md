@@ -1,6 +1,6 @@
 # blair-house
 
-2 notes and wiki pages
+2 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [The Blair House Project](/notes/lauradietz/02-23-2014/the-blairhouse-project) by [lauradietz](../profile/lauradietz)
 - [SNOWFEST the Movie](/notes/cfastie/03-02-2014/snowfest-the-movie) by [cfastie](../profile/cfastie)

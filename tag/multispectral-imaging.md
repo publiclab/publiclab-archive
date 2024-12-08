@@ -1,6 +1,6 @@
 # multispectral-imaging
 
-70 notes and wiki pages
+70 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Creating Multispectral Imagery for California Beaches](/notes/micheletobias/5-23-2011/creating-multispectral-imagery-california-beaches) by [MicheleTobias](../profile/MicheleTobias)
 - [NDVI from the PLOTS IR camera kit](/wiki/ndvi-plots-ir-kit) (wiki)
@@ -39,15 +39,12 @@
 - [Use Image Sequencer for NDVI plant analysis with a modified mini sport camera](/notes/warren/08-02-2018/use-image-sequencer-for-ndvi-plant-analysis-with-a-modified-mini-sport-camera) by [warren](../profile/warren)
 - [Infragram Point and shoot photos: white balance not working](/notes/Muneeswaran/12-17-2018/infragram-point-and-shoot-photos-white-balance-not-working) by [Muneeswaran](../profile/Muneeswaran)
 - [How to design a camera for calculating ENDVI.](/notes/nickyshen0306/09-12-2019/how-to-design-a-camera-for-calculating-endvi) by [nickyshen0306](../profile/nickyshen0306)
-- [What kind of thermal cameras would be worth it for you?](/notes/perfectprime/10-17-2019/what-kind-of-thermal-cameras-would-be-worth-it-for-you) by [perfectprime](../profile/perfectprime)
 - [Feasibility-check: NDVI analysis of moss](/notes/zomb23/11-15-2019/feasibility-check-ndvi-analysis-of-moss) by [zomb23](../profile/zomb23)
 - [How can I make IR photos derived from various cutoff useful for creating NDVI (normalized difference vegetation index) images?](/notes/lev29/01-15-2020/can-certain-types-of-ir-photos-i-could-submit-be-useful-or-convertible-to-infrablue-images) by [lev29](../profile/lev29)
-- [Letasoft Sound Booster 1.11 Crack](/notes/Keyactivator/01-25-2020/letasoft-sound-booster-1-11-crack) by [Keyactivator](../profile/Keyactivator)
 - [Can I use the infragram.org for my thesis? Thanks!](/notes/tooooopher05/02-22-2020/can-i-use-the-infragram-org-for-my-thesis-thanks) by [tooooopher05](../profile/tooooopher05)
 - [Is there a way to convert an infrared video footage to NDVI?](/notes/sam14/04-30-2020/is-there-a-way-to-convert-an-infrared-video-footage-to-ndvi) by [sam14](../profile/sam14)
 - [Can I use a clear case with the Infragram pi camera?](/notes/mimiss/05-08-2020/can-i-use-a-clear-case-with-the-infragram-pi-camera) by [mimiss](../profile/mimiss)
 - [Use 3-D glasses to modify a camera for infrared](/notes/umberto_rootman/05-17-2020/cheap-sports-cam-mod) by [umberto_rootman](../profile/umberto_rootman)
-- [Sports cam filter mod](/notes/umberto_rootman/05-17-2020/sports-cam-filter-mod) by [umberto_rootman](../profile/umberto_rootman)
 - [New Developments in Multi-Spectral Drone Imaging in the Ultraviolet Band](/notes/ektopyrotic/09-14-2020/new-developments-in-multi-spectral-drone-imaging-in-the-ultraviolet-band) by [ektopyrotic](../profile/ektopyrotic)
 - [NDVI with a 2 camera setup](/notes/karunv/10-12-2020/ndvi-with-a-2-camera-setup) by [karunv](../profile/karunv)
 - [Why the color of Infragram picture is different from what I take with my Raspberry Pi using Picamera API](/notes/iman/03-30-2021/why-the-color-of-infragram-picture-is-different-from-what-i-take-with-my-raspberry-pi-using-picamera-api) by [iman](../profile/iman)
@@ -57,7 +54,6 @@
 - [NDVI image issues from GoPro 3+ Silver ](/notes/jeffa_plain/11-22-2021/ndvi-image-issues-from-gopro-3-silver) by [jeffa_plain](../profile/jeffa_plain)
 - [Can NOIR camera distinguise different types of leaf?](/notes/shahdharam7/12-17-2021/can-noir-camera-distinguise-different-types-of-leaf) by [shahdharam7](../profile/shahdharam7)
 - [Why Red filter results are blurry compared to Blue filters?](/notes/shahdharam7/12-17-2021/why-red-filter-results-are-blurry-compared-to-blue-filters) by [shahdharam7](../profile/shahdharam7)
-- [How to find best events Catering Services in Calgary?](/notes/vivek_genuvenue1220/01-03-2022/how-to-find-best-events-catering-services-in-calgary) by [vivek_genuvenue1220](../profile/vivek_genuvenue1220)
 - [colormap](/wiki/colormap) (wiki)
 - [Re-design Infragram landing page](/notes/kunlefashmayop/04-18-2022/re-design-infragram-landing-page) by [kunlefashmayop](../profile/kunlefashmayop)
 - [Forest near Lake](/notes/rohaidb/04-20-2022/forest-near-lake) by [rohaidb](../profile/rohaidb)
@@ -66,9 +62,4 @@
 - [Run infragram offiline (whitout online analysis)](/notes/elucasfreitas/06-19-2022/run-infragram-offiline-whitout-online-analysis) by [elucasfreitas](../profile/elucasfreitas)
 - [GSOC Report:  full-screen UI and video upload on Infragram.org](/notes/forcha/08-28-2022/gsoc-report-full-screen-ui-and-video-upload-on-infragram-org) by [forcha](../profile/forcha)
 - [Infrared camera](/notes/eduardo_gamosa/10-10-2022/infrared-camera) by [eduardo_gamosa](../profile/eduardo_gamosa)
-- [hirre](/notes/luckusters980/05-27-2023/hirre) by [luckusters980](../profile/luckusters980)
 - [Food Security Monitoring and Early Warning Systems with NDVI](/notes/forcha/08-24-2023/food-security-monitoring-and-early-warning-systems-with-ndvi) by [forcha](../profile/forcha)
-- [Hello](/notes/ehdgus2848/07-13-2024/hello) by [ehdgus2848](../profile/ehdgus2848)
-- [Hello0](/notes/ehdgus2848/07-13-2024/hello0) by [ehdgus2848](../profile/ehdgus2848)
-- [hello0921](/notes/ehdgus2848/07-13-2024/hello0921) by [ehdgus2848](../profile/ehdgus2848)
-- [Onemore](/notes/ehdgus2848/07-13-2024/onemore) by [ehdgus2848](../profile/ehdgus2848)

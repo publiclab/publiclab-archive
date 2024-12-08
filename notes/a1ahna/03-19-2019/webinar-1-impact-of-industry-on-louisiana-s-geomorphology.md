@@ -1,12 +1,18 @@
 ---
-nid: 18777
 title: Webinar 1: Impact of Industry on Louisiana's Geomorphology 
-path: public/static/notes/a1ahna/03-19-2019/webinar-1-impact-of-industry-on-louisiana-s-geomorphology.md
+tagnames: pipeline, webinar, industry, oil-and-gas, pipeline-monitoring, civilian-monitoring, lat:29.97397, lon:-90.043945, pipeline-monitoring-webinar
+author: a1ahna
+path: /notes/a1ahna/03-19-2019/webinar-1-impact-of-industry-on-louisiana-s-geomorphology.md
+nid: 18777
 uid: 518193
-tagnames: pipeline,webinar,industry,oil-and-gas,pipeline-monitoring,civilian-monitoring,lat:29.97397,lon:-90.043945,pipeline-monitoring-webinar
+
 ---
 
 # Webinar 1: Impact of Industry on Louisiana's Geomorphology 
+
+by [a1ahna](../profile/a1ahna) March 19, 2019 15:32
+
+March 19, 2019 15:32 | Tags: [pipeline](../tag/pipeline), [webinar](../tag/webinar), [industry](../tag/industry), [oil-and-gas](../tag/oil-and-gas), [pipeline-monitoring](../tag/pipeline-monitoring), [civilian-monitoring](../tag/civilian-monitoring), [lat:29.97397](../tag/lat:29.97397), [lon:-90.043945](../tag/lon:-90.043945), [pipeline-monitoring-webinar](../tag/pipeline-monitoring-webinar)
 
 This video is part one in the "Civilian Monitoring of Pipelines in Louisiana" series. These webinars were created and compiled by Alahna Moore as a part of Public Lab's _oil and gas accountability fellowship_. The first two videos are intended to connect the origins of oil and gas development in the Gulf Coast region to the environmental degradation and land loss experienced in the last half of a century. Videos two and three will provide resources for conducting pipeline related research and step - by - step training for civilian monitoring, photographic data collection, and reporting environmental concerns to government regulators.
 

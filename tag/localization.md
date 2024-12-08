@@ -1,6 +1,6 @@
 # localization
 
-12 notes and wiki pages
+12 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Invite someone to translate on Transifex (managers)](/notes/liz/10-26-2016/how-to-invite-someone-to-translate-on-transifex) by [liz](../profile/liz)
 - [Step 2: Translate on Transifex](/notes/liz/10-26-2016/translating-on-transifex) by [liz](../profile/liz)

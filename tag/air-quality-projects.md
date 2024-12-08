@@ -1,6 +1,6 @@
 # air-quality-projects
 
-11 notes and wiki pages
+11 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Roomba indoor air quality mapping](/wiki/roomba-indoor-air-quality-mapping) (wiki)
 - [Air Column Monitor](/wiki/air-column-monitor) (wiki)

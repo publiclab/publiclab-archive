@@ -1,6 +1,6 @@
 # spectrophotometer
 
-5 notes and wiki pages
+5 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Help!! Problems with spectrophotometer spectra trying to build "countertop" set](/notes/dckim/10-04-2013/help-trying-to-get-spectrophotometer-to-work) by [dckim](../profile/dckim)
 - [ottawa/homemade-spectrophotometer](/wiki/ottawa-homemade-spectrophotometer) (wiki)

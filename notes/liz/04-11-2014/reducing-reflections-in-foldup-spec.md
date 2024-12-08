@@ -1,12 +1,18 @@
 ---
-nid: 10297
 title: reducing reflections in foldup spec
-path: public/static/notes/liz/04-11-2014/reducing-reflections-in-foldup-spec.md
+tagnames: spectrometer, fold-up, reflection
+author: liz
+path: /notes/liz/04-11-2014/reducing-reflections-in-foldup-spec.md
+nid: 10297
 uid: 7
-tagnames: spectrometer,fold-up,reflection
+
 ---
 
 # reducing reflections in foldup spec
+
+by [liz](../profile/liz) April 11, 2014 06:28
+
+April 11, 2014 06:28 | Tags: [spectrometer](../tag/spectrometer), [fold-up](../tag/fold-up), [reflection](../tag/reflection)
 
 Originally, it was [stoft](http://publiclab.org/profile/stoft) who pointed out that the shininess of cell phones backs when using the foldup spec can contribute to reflections. This is quite true. After helping 60+ people make foldup specs in the past month, I needed a quick fix. 
 

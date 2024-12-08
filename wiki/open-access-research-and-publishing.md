@@ -1,12 +1,18 @@
 ---
-nid: 11293
 title: Open Access Research and Publishing
-path: public/static/wiki/open-access-research-and-publishing.md
+tagnames: ip, intellectualproperty, openaccess
+author: Bronwen
+path: /wiki/open-access-research-and-publishing.md
+nid: 11293
 uid: 237313
-tagnames: ip,intellectualproperty,openaccess
+
 ---
 
 # Open Access Research and Publishing
+
+by [Bronwen](../profile/Bronwen)
+
+October 22, 2014 21:09 | Tags: [ip](../tag/ip), [intellectualproperty](../tag/intellectualproperty), [openaccess](../tag/openaccess)
 
 Wiki in progress! Please feel free to add notes, content, etc.
 

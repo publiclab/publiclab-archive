@@ -1,12 +1,18 @@
 ---
-nid: 27717
 title: Data Visualization with Sheet Mapper: How to connect a live spreadsheet to a web map
-path: public/static/notes/laurel_mire/09-09-2021/data-visualization-with-sheet-mapper-how-to-connect-a-live-spreadsheet-to-a-web-map.md
+tagnames: mapping, mapbox, web-mapping, data-visualization, research-curation-fellows, presenting-data, activity:presenting-data, air-quality-data, data-visualization-tool, activity:air-quality-data
+author: laurel_mire
+path: /notes/laurel_mire/09-09-2021/data-visualization-with-sheet-mapper-how-to-connect-a-live-spreadsheet-to-a-web-map.md
+nid: 27717
 uid: 759178
-tagnames: mapping,mapbox,web-mapping,data-visualization,research-curation-fellows,presenting-data,activity:presenting-data,air-quality-data,data-visualization-tool,activity:air-quality-data
+
 ---
 
 # Data Visualization with Sheet Mapper: How to connect a live spreadsheet to a web map
+
+by [laurel_mire](../profile/laurel_mire) September 09, 2021 19:27
+
+September 09, 2021 19:27 | Tags: [mapping](../tag/mapping), [mapbox](../tag/mapbox), [web-mapping](../tag/web-mapping), [data-visualization](../tag/data-visualization), [research-curation-fellows](../tag/research-curation-fellows), [presenting-data](../tag/presenting-data), [activity:presenting-data](../tag/activity:presenting-data), [air-quality-data](../tag/air-quality-data), [data-visualization-tool](../tag/data-visualization-tool), [activity:air-quality-data](../tag/activity:air-quality-data)
 
 ## Purpose
 

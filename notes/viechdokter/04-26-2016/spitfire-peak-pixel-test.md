@@ -1,12 +1,18 @@
 ---
-nid: 13033
 title: Spitfire peak pixel test
-path: public/static/notes/viechdokter/04-26-2016/spitfire-peak-pixel-test.md
+tagnames: spectrometer, cfl, desktop-spectrometer, timeseries, spectrum, peak_wavelengths, intensities
+author: viechdokter
+path: /notes/viechdokter/04-26-2016/spitfire-peak-pixel-test.md
+nid: 13033
 uid: 468990
-tagnames: spectrometer,cfl,desktop-spectrometer,timeseries,spectrum,peak_wavelengths,intensities
+
 ---
 
 # Spitfire peak pixel test
+
+by [viechdokter](../profile/viechdokter) April 26, 2016 22:45
+
+April 26, 2016 22:45 | Tags: [spectrometer](../tag/spectrometer), [cfl](../tag/cfl), [desktop-spectrometer](../tag/desktop-spectrometer), [timeseries](../tag/timeseries), [spectrum](../tag/spectrum), [peak_wavelengths](../tag/peak_wavelengths), [intensities](../tag/intensities)
 
 **What I wanted to do** this time is to take a series of spectra of the same CFL lamp in fast succession ("spitfire") at 0.1 seconds intervals over a period of 10 seconds and have a look at the sharpest intensity peaks only. 
 

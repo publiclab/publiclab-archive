@@ -1,6 +1,6 @@
 # activity-facilitation
 
-5 notes and wiki pages
+5 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Set up a schedule grid for an Open Space event](/notes/liz/03-07-2018/set-up-the-schedule-grid) by [liz](../profile/liz)
 - [Make nametags for in-person events like the Barnraising](/notes/liz/03-08-2018/make-nametags-for-each-barnraiser) by [liz](../profile/liz)

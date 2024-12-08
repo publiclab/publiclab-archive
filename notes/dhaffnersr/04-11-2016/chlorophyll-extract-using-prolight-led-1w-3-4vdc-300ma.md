@@ -1,12 +1,18 @@
 ---
-nid: 12957
 title: Chlorophyll extract using prolight LED (1W 3.4vdc 300mA)
-path: public/static/notes/dhaffnersr/04-11-2016/chlorophyll-extract-using-prolight-led-1w-3-4vdc-300ma.md
-uid: 461120
 tagnames: 
+author: dhaffnersr
+path: /notes/dhaffnersr/04-11-2016/chlorophyll-extract-using-prolight-led-1w-3-4vdc-300ma.md
+nid: 12957
+uid: 461120
+
 ---
 
 # Chlorophyll extract using prolight LED (1W 3.4vdc 300mA)
+
+by [dhaffnersr](../profile/dhaffnersr) April 11, 2016 16:52
+
+April 11, 2016 16:52 | Tags: 
 
 I followed this person’s research (Artxy-http://www.art-xy.com/2013/03/isolation-of-chlorophyll-and-beta.html)
  but altered slightly the method of the solvent preparation and ended up dissolving most of the chlorophyll A and B, but retained a large quantity of B-carotene. 

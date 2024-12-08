@@ -1,12 +1,18 @@
 ---
-nid: 10667
 title: The story of a DIY poem
-path: public/static/notes/Cindy_ExCites/07-09-2014/the-story-of-a-diy-poem.md
+tagnames: politics, barnstar:empiricism, poem
+author: cindy_excites
+path: /notes/Cindy_ExCites/07-09-2014/the-story-of-a-diy-poem.md
+nid: 10667
 uid: 1083
-tagnames: politics,barnstar:empiricism,poem
+
 ---
 
 # The story of a DIY poem
+
+by [cindy_excites](../profile/cindy_excites) July 09, 2014 11:14
+
+July 09, 2014 11:14 | Tags: [politics](../tag/politics), [barnstar:empiricism](../tag/barnstar:empiricism), [poem](../tag/poem)
 
 I never got to the deliver this 'poem'/recital because the event at the Design Museum was cancelled but I thought I'd share it with you all:
 - - - - - - - - - - -

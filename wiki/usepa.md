@@ -1,12 +1,18 @@
 ---
-nid: 12259
 title: USEPA
-path: public/static/wiki/usepa.md
+tagnames: united-states, epa, regulations, law-and-policy, parent:law-and-policy
+author: liz
+path: /wiki/usepa.md
+nid: 12259
 uid: 7
-tagnames: united-states,epa,regulations,law-and-policy,parent:law-and-policy
+
 ---
 
 # USEPA
+
+by [liz](../profile/liz), [DavidMack](../profile/DavidMack)
+
+September 30, 2015 20:20 | Tags: [united-states](../tag/united-states), [epa](../tag/epa), [regulations](../tag/regulations), [law-and-policy](../tag/law-and-policy), [parent:law-and-policy](../tag/parent:law-and-policy)
 
 [![underconstruction.gif](https://i.publiclab.org/system/images/photos/000/011/721/medium/underconstruction.gif)](https://i.publiclab.org/system/images/photos/000/011/721/original/underconstruction.gif)
 

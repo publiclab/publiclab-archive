@@ -1,6 +1,6 @@
 # kit
 
-25 notes and wiki pages
+25 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Kite Mapping](/wiki/kite-mapping) (wiki)
 - [Foldable Spectrometry Starter Kit](/wiki/foldable-spec) (wiki)
@@ -21,7 +21,6 @@
 - [Constructing a Desktop Spectrometer with no Wood, and no Velcro](/notes/abdul/08-11-2016/constructing-a-desktop-spectrometer-with-no-wood-and-no-velcro) by [abdul](../profile/abdul)
 - [Desktop Spectrometry Starter Kit 3.0 Assembly Instructions](/notes/abdul/10-13-2016/desktop-spectrometry-starter-kit-3-0-instructions) by [abdul](../profile/abdul)
 - [Assemble a DIY Papercraft Spectrometer](/notes/abdul/10-19-2016/foldable-paper-spectrometer-instructions) by [abdul](../profile/abdul)
-- [Check this inspirational list out! ](/notes/Kaikosog/05-18-2017/check-this-inspirational-list-out) by [Kaikosog](../profile/Kaikosog)
 - [Built the entry level paperkit](/notes/Swede2/01-07-2018/built-the-entry-level-paperkit) by [Swede2](../profile/Swede2)
 - [Photometer Kit idea ](/notes/programmer1200/02-03-2018/photometer-kit-idea) by [programmer1200](../profile/programmer1200)
 - [#Next steps - Indoor Air Remediation Kit—Paris Working progress & Prototypes 18/09/18](/notes/cguerin/10-16-2018/next-steps-indoor-air-remediation-kit-paris-working-progress-prototypes-18-09-18) by [cguerin](../profile/cguerin)

@@ -1,12 +1,18 @@
 ---
-nid: 12400
 title: Building a DustDuino -- My first Arduino project
-path: public/static/notes/MeganKierstead/11-10-2015/building-a-dustduino-my-first-arduino-project.md
+tagnames: arduino, diy, air-quality, sensors, dustduino, shinyei, activity:shinyei, activity:dustduino, activity:pm, activity:particulate-monitoring, activity:arduino, replication:9818, air-sensors
+author: MeganKierstead
+path: /notes/MeganKierstead/11-10-2015/building-a-dustduino-my-first-arduino-project.md
+nid: 12400
 uid: 457273
-tagnames: arduino,diy,air-quality,sensors,dustduino,shinyei,activity:shinyei,activity:dustduino,activity:pm,activity:particulate-monitoring,activity:arduino,replication:9818,air-sensors
+
 ---
 
 # Building a DustDuino -- My first Arduino project
+
+by [MeganKierstead](../profile/MeganKierstead) November 10, 2015 23:37
+
+November 10, 2015 23:37 | Tags: [arduino](../tag/arduino), [diy](../tag/diy), [air-quality](../tag/air-quality), [sensors](../tag/sensors), [dustduino](../tag/dustduino), [shinyei](../tag/shinyei), [activity:shinyei](../tag/activity:shinyei), [activity:dustduino](../tag/activity:dustduino), [activity:pm](../tag/activity:pm), [activity:particulate-monitoring](../tag/activity:particulate-monitoring), [activity:arduino](../tag/activity:arduino), [replication:9818](../tag/replication:9818), [air-sensors](../tag/air-sensors)
 
 ###What I want to do
 I came across the existing [DustDuino](http://publiclab.org/wiki/dustduino) project and thought it would be a great item to build as an introduction to both environmental monitoring and hardware prototyping. I will use this page to document my progress, as someone who is new to the hardware realm. 

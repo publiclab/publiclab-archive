@@ -1,12 +1,18 @@
 ---
-nid: 13042
 title: Updates needed to DustDuino DIY wiki
-path: public/static/notes/apacheguy/04-27-2016/updates-needed-to-dustduino-diy-wiki.md
-uid: 471724
 tagnames: question:dustduino
+author: apacheguy
+path: /notes/apacheguy/04-27-2016/updates-needed-to-dustduino-diy-wiki.md
+nid: 13042
+uid: 471724
+
 ---
 
 # Updates needed to DustDuino DIY wiki
+
+by [apacheguy](../profile/apacheguy) April 27, 2016 18:49
+
+April 27, 2016 18:49 | Tags: [question:dustduino](../tag/question:dustduino)
 
 The wiki references an obsolete Arduino Proto Wireless Shield from Mouser that can no longer be purchased. Please update the wiki to suggest a working alternative solution.
 

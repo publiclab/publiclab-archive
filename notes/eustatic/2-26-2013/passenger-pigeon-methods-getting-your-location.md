@@ -1,12 +1,18 @@
 ---
-nid: 6130
 title: Passenger Pigeon methods:  getting your location, the hacky way
-path: public/static/notes/eustatic/2-26-2013/passenger-pigeon-methods-getting-your-location.md
+tagnames: kite-mapping, passenger-pigeon, united-states, activity:passenger-pigeon
+author: eustatic
+path: /2-26-2013/passenger-pigeon-methods-getting-your-location.md
+nid: 6130
 uid: 379
-tagnames: kite-mapping,passenger-pigeon,united-states,activity:passenger-pigeon
+
 ---
 
 # Passenger Pigeon methods:  getting your location, the hacky way
+
+by [eustatic](../profile/eustatic) February 26, 2013 22:59
+
+February 26, 2013 22:59 | Tags: [kite-mapping](../tag/kite-mapping), [passenger-pigeon](../tag/passenger-pigeon), [united-states](../tag/united-states), [activity:passenger-pigeon](../tag/activity:passenger-pigeon)
 
 handheld GPS and phone GPS often does not work during commercial flights. Here are some ideas of how to get your location at a given time, to assist with Passenger Pigeon mapping.
 

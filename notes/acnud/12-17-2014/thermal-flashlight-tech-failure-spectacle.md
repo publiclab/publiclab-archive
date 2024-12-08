@@ -1,12 +1,18 @@
 ---
-nid: 11479
 title: Thermal Flashlight: Tech Failure Spectacle
-path: public/static/notes/acnud/12-17-2014/thermal-flashlight-tech-failure-spectacle.md
+tagnames: thermal-flashlight, thermal-pollution, thermal-plume, sociology-4107, newfoundland, holyrood, response:11466, replication:625
+author: acnud
+path: /notes/acnud/12-17-2014/thermal-flashlight-tech-failure-spectacle.md
+nid: 11479
 uid: 432851
-tagnames: thermal-flashlight,thermal-pollution,thermal-plume,sociology-4107,newfoundland,holyrood,response:11466,replication:625
+
 ---
 
 # Thermal Flashlight: Tech Failure Spectacle
+
+by [acnud](../profile/acnud) December 17, 2014 23:27
+
+December 17, 2014 23:27 | Tags: [thermal-flashlight](../tag/thermal-flashlight), [thermal-pollution](../tag/thermal-pollution), [thermal-plume](../tag/thermal-plume), [sociology-4107](../tag/sociology-4107), [newfoundland](../tag/newfoundland), [holyrood](../tag/holyrood), [response:11466](../tag/response:11466), [replication:625](../tag/replication:625)
 
 The objective of our research project is to look for the presence of thermal pollution from the Holyrood Thermal Generating Station in Holyrood, Newfoundland. 
 

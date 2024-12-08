@@ -1,12 +1,18 @@
 ---
-nid: 13558
 title: Organizing the Riffle Area
-path: public/static/notes/pdhixenbaugh/10-13-2016/organizing-the-riffle-area.md
+tagnames: website, riffle, riffle-meta
+author: pdhixenbaugh
+path: /notes/pdhixenbaugh/10-13-2016/organizing-the-riffle-area.md
+nid: 13558
 uid: 459085
-tagnames: website,riffle,riffle-meta
+
 ---
 
 # Organizing the Riffle Area
+
+by [pdhixenbaugh](../profile/pdhixenbaugh) October 13, 2016 01:30
+
+October 13, 2016 01:30 | Tags: [website](../tag/website), [riffle](../tag/riffle), [riffle-meta](../tag/riffle-meta)
 
 ###Context
 @lizbarry and @donblair expressed interest in reorganizing the Riffle area. This is one outline for why and how that might be done. The more people that add their thoughts, the better! I'd also like to connect with people working in other areas of Public lab.

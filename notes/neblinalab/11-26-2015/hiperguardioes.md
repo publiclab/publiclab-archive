@@ -1,12 +1,18 @@
 ---
-nid: 12448
 title: Hiperguardiões
-path: public/static/notes/neblinalab/11-26-2015/hiperguardioes.md
+tagnames: diy, brasil, sao-paulo
+author: neblinalab
+path: /notes/neblinalab/11-26-2015/hiperguardioes.md
+nid: 12448
 uid: 459062
-tagnames: diy,brasil,sao-paulo
+
 ---
 
 # Hiperguardiões
+
+by [neblinalab](../profile/neblinalab) November 26, 2015 19:26
+
+November 26, 2015 19:26 | Tags: [diy](../tag/diy), [brasil](../tag/brasil), [sao-paulo](../tag/sao-paulo)
 
 ### O que é:
 

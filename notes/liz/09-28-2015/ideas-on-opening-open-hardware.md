@@ -1,12 +1,18 @@
 ---
-nid: 12250
 title: Ideas on opening "open hardware"
-path: public/static/notes/liz/09-28-2015/ideas-on-opening-open-hardware.md
+tagnames: with:warren, with:donblair
+author: liz
+path: /notes/liz/09-28-2015/ideas-on-opening-open-hardware.md
+nid: 12250
 uid: 7
-tagnames: with:warren,with:donblair
+
 ---
 
 # Ideas on opening "open hardware"
+
+by [liz](../profile/liz) September 28, 2015 23:33
+
+September 28, 2015 23:33 | Tags: [with:warren](../tag/with:warren), [with:donblair](../tag/with:donblair)
 
 Hey folks, this is a line of thought that needs your input! 
 

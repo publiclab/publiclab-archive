@@ -1,12 +1,18 @@
 ---
-nid: 24873
 title:  New Dashboard Implementation Project: Bootstrap 4 and Rails
-path: public/static/notes/thedevkaren/10-30-2020/new-dashboard-implementation-project-bootstrap-4-and-rails.md
+tagnames: outreachy, first-time-poster, outreachy-2019, zoom:6, outreachy2019-proposals, lat:9.081999, lon:8.675277
+author: thedevkaren
+path: /notes/thedevkaren/10-30-2020/new-dashboard-implementation-project-bootstrap-4-and-rails.md
+nid: 24873
 uid: 727770
-tagnames: outreachy,first-time-poster,outreachy-2019,zoom:6,outreachy2019-proposals,lat:9.081999,lon:8.675277
+
 ---
 
 #  New Dashboard Implementation Project: Bootstrap 4 and Rails
+
+by [thedevkaren](../profile/thedevkaren) October 30, 2020 11:22
+
+October 30, 2020 11:22 | Tags: [outreachy](../tag/outreachy), [first-time-poster](../tag/first-time-poster), [outreachy-2019](../tag/outreachy-2019), [zoom:6](../tag/zoom:6), [outreachy2019-proposals](../tag/outreachy2019-proposals), [lat:9.081999](../tag/lat:9.081999), [lon:8.675277](../tag/lon:8.675277)
 
 ## <b>About Me</b>
 

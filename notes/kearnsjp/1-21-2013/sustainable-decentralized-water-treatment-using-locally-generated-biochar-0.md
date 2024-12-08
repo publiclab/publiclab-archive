@@ -1,12 +1,18 @@
 ---
-nid: 5669
 title: Sustainable decentralized water treatment using locally generated biochar adsorbents
-path: public/static/notes/kearnsjp/1-21-2013/sustainable-decentralized-water-treatment-using-locally-generated-biochar-0.md
+tagnames: water-treatment, pesticides, biochar, water
+author: kearnsjp
+path: /notes/kearnsjp/1-21-2013/sustainable-decentralized-water-treatment-using-locally-generated-biochar-0.md
+nid: 5669
 uid: 48560
-tagnames: water-treatment,pesticides,biochar,water
+
 ---
 
 # Sustainable decentralized water treatment using locally generated biochar adsorbents
+
+by [kearnsjp](../profile/kearnsjp) January 22, 2013 02:27
+
+January 22, 2013 02:27 | Tags: [water-treatment](../tag/water-treatment), [pesticides](../tag/pesticides), [biochar](../tag/biochar), [water](../tag/water)
 
 Chemical contamination of drinking water sources is a growing worldwide problem. However, few locally managed, sustainable, and low-cost on-site treatment technologies are available in rural/remote community and emergency/disaster relief/humanitarian crisis situations. Charcoal filtration has been used to treat drinking water for thousands of years and is still widely practiced today. Our research has shown that some charcoals produced by traditional means develop favorable sorption properties for uptake of chemical contaminants. However, the products are not consistent and moreover traditional charcoal production is highly polluting. 
 

@@ -1,12 +1,18 @@
 ---
-nid: 687
 title: spectrum matching
-path: public/static/notes/jeffreyjoy/1-13-2012/spectrum-matching.md
+tagnames: spectrometer, spectrum-matching, matching, spectral-workbench
+author: jeffreyjoy
+path: /notes/jeffreyjoy/1-13-2012/spectrum-matching.md
+nid: 687
 uid: 440
-tagnames: spectrometer,spectrum-matching,matching,spectral-workbench
+
 ---
 
 # spectrum matching
+
+by [jeffreyjoy](../profile/jeffreyjoy) January 13, 2012 23:07
+
+January 13, 2012 23:07 | Tags: [spectrometer](../tag/spectrometer), [spectrum-matching](../tag/spectrum-matching), [matching](../tag/matching), [spectral-workbench](../tag/spectral-workbench)
 
 RE: Spectrometer kit and the using public data to perform identification of images produced.   http://publiclaboratory.org/tool/spectrometer
 

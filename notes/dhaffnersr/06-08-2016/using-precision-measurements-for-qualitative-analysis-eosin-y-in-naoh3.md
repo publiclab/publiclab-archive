@@ -1,12 +1,18 @@
 ---
-nid: 13178
 title: Using Precision Measurements for Qualitative Analysis-Eosin Y in NaOH3
-path: public/static/notes/dhaffnersr/06-08-2016/using-precision-measurements-for-qualitative-analysis-eosin-y-in-naoh3.md
-uid: 461120
 tagnames: 
+author: dhaffnersr
+path: /notes/dhaffnersr/06-08-2016/using-precision-measurements-for-qualitative-analysis-eosin-y-in-naoh3.md
+nid: 13178
+uid: 461120
+
 ---
 
 # Using Precision Measurements for Qualitative Analysis-Eosin Y in NaOH3
+
+by [dhaffnersr](../profile/dhaffnersr) June 08, 2016 11:59
+
+June 08, 2016 11:59 | Tags: 
 
 **Abstract**
 This is a continuation on my series of using precision measurements for qualitative analysis from my previous research note. The picture was representative of Eosin Y at 5 different concentration levels ranging from 0.1 ml to 0.5 ml, using a Serological pipette pump and 1ml Serological pipette to dispense the precise amount of dilute concentration level.

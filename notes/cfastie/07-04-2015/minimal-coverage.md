@@ -1,12 +1,18 @@
 ---
-nid: 12032
 title: Minimal coverage
-path: public/static/notes/cfastie/07-04-2015/minimal-coverage.md
+tagnames: kite-aerial-photography, alaska, kap, autokap, kaptery, saturnv, skyshield, half-spherical, response:11997
+author: cfastie
+path: /notes/cfastie/07-04-2015/minimal-coverage.md
+nid: 12032
 uid: 554
-tagnames: kite-aerial-photography,alaska,kap,autokap,kaptery,saturnv,skyshield,half-spherical,response:11997
+
 ---
 
 # Minimal coverage
+
+by [cfastie](../profile/cfastie) July 04, 2015 16:05
+
+July 04, 2015 16:05 | Tags: [kite-aerial-photography](../tag/kite-aerial-photography), [alaska](../tag/alaska), [kap](../tag/kap), [autokap](../tag/autokap), [kaptery](../tag/kaptery), [saturnv](../tag/saturnv), [skyshield](../tag/skyshield), [half-spherical](../tag/half-spherical), [response:11997](../tag/response:11997)
 
 *Above: Launching the Saturn V Rig on its first flight over tundra.*  
 

@@ -1,6 +1,6 @@
 # gardening-toolkit
 
-11 notes and wiki pages
+11 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [5BF](/wiki/5bf) (wiki)
 - [gardening-toolkit](/wiki/gardening-toolkit) (wiki)

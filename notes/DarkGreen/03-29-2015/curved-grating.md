@@ -1,12 +1,18 @@
 ---
-nid: 11730
 title: curved grating
-path: public/static/notes/DarkGreen/03-29-2015/curved-grating.md
+tagnames: spectrometer, question:spectrometer
+author: DarkGreen
+path: /notes/DarkGreen/03-29-2015/curved-grating.md
+nid: 11730
 uid: 437492
-tagnames: spectrometer,question:spectrometer
+
 ---
 
 # curved grating
+
+by [DarkGreen](../profile/DarkGreen) March 29, 2015 03:33
+
+March 29, 2015 03:33 | Tags: [spectrometer](../tag/spectrometer), [question:spectrometer](../tag/question:spectrometer)
 
 so... I use a blank DVD-R, and ofcause that makes the grating curved.
 

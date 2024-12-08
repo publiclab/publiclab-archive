@@ -1,6 +1,6 @@
 # self-made-kite-mapping
 
-5 notes and wiki pages
+5 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Kite Mapping Workshops in Puno, Peru’s Altiplano – Pt. 1: Alpaca Farmers ](/notes/anita/3-21-2012/kite-mapping-workshops-puno-peru-s-altiplano-pt-1-alpaca-farmers) by [anita](../profile/anita)
 - [Kite Mapping Workshops in Puno, Peru - Pt. 2: Univ. Nacional Altiplano, Jayllihuaha Mapping](/notes/anita/3-21-2012/kite-mapping-workshops-puno-peru-pt-2-univ-nacional-altiplano-jayllihuaha-mapp) by [anita](../profile/anita)

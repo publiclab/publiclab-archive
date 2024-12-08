@@ -1,12 +1,18 @@
 ---
-nid: 10629
 title: Stockton Harbor, Me acid waste site overflight UPDATE
-path: public/static/notes/RonHuber/06-29-2014/stockton-harbor-me-acid-waste-site-got-sensors-july-17th-fly-w-them-over-gac.md
+tagnames: maine, northeast, searsport, acid, gac, sulfuric, phosoh, barnstar:watchdog
+author: ronhuber
+path: /notes/RonHuber/06-29-2014/stockton-harbor-me-acid-waste-site-got-sensors-july-17th-fly-w-them-over-gac.md
+nid: 10629
 uid: 437
-tagnames: maine,northeast,searsport,acid,gac,sulfuric,phosoh,barnstar:watchdog
+
 ---
 
 # Stockton Harbor, Me acid waste site overflight UPDATE
+
+by [ronhuber](../profile/ronhuber) June 29, 2014 01:28
+
+June 29, 2014 01:28 | Tags: [maine](../tag/maine), [northeast](../tag/northeast), [searsport](../tag/searsport), [acid](../tag/acid), [gac](../tag/gac), [sulfuric](../tag/sulfuric), [phosoh](../tag/phosoh), [barnstar:watchdog](../tag/barnstar:watchdog)
 
 ### UPDATE Post-flight review of still and video imagery taken July 17, 2014.
 Our Lighthawk flight on  July 17th (thanks, pilot Jim Knowles!) has supplied us with 100s of photographs and a comparatively small amount of video footage. The overflight like last year, documented both the  the GAC Chemical waste site and its surroundings  and the greater West Penobscot Bay  shore from Fort Point at the mouth of  Penobscot River to Rockland Harbor - and back.  The cooperating groundcrew  on the flats didn't come happen. So it goes.

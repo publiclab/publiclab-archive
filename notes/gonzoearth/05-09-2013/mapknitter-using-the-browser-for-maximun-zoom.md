@@ -1,12 +1,18 @@
 ---
-nid: 7367
 title: MapKnitter: using the browser for maximun zoom 
-path: public/static/notes/gonzoearth/05-09-2013/mapknitter-using-the-browser-for-maximun-zoom.md
+tagnames: balloon-mapping, kite-mapping, mapknitter, maps, tips
+author: gonzoearth
+path: /notes/gonzoearth/05-09-2013/mapknitter-using-the-browser-for-maximun-zoom.md
+nid: 7367
 uid: 12
-tagnames: balloon-mapping,kite-mapping,mapknitter,maps,tips
+
 ---
 
 # MapKnitter: using the browser for maximun zoom 
+
+by [gonzoearth](../profile/gonzoearth) May 09, 2013 23:30
+
+May 09, 2013 23:30 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [mapknitter](../tag/mapknitter), [maps](../tag/maps), [tips](../tag/tips)
 
 MapKnitter has a limit to how far users can zoom in (+) to do stitching. 
 

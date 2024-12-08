@@ -1,12 +1,16 @@
 ---
-nid: 26674
 title: dashboard-topics-footer
-path: public/static/feature/dashboard-topics-footer.md
-uid: 1
 tagnames: 
+author: warren
+path: /feature/dashboard-topics-footer.md
+nid: 26674
+uid: 1
+
 ---
 
 # dashboard-topics-footer
+
+May 22, 2021 02:33 | Tags: 
 
 <br />
   <div class="row">

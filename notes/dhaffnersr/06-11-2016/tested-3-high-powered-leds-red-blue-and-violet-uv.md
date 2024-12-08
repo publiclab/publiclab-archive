@@ -1,12 +1,18 @@
 ---
-nid: 13188
 title: Tested 3 High Powered LEDs Red, Blue and Violet (UV)
-path: public/static/notes/dhaffnersr/06-11-2016/tested-3-high-powered-leds-red-blue-and-violet-uv.md
-uid: 461120
 tagnames: 
+author: dhaffnersr
+path: /notes/dhaffnersr/06-11-2016/tested-3-high-powered-leds-red-blue-and-violet-uv.md
+nid: 13188
+uid: 461120
+
 ---
 
 # Tested 3 High Powered LEDs Red, Blue and Violet (UV)
+
+by [dhaffnersr](../profile/dhaffnersr) June 11, 2016 16:55
+
+June 11, 2016 16:55 | Tags: 
 
 I made a new power supply for my LEDs, and wanted to test it out so here are the results of that test:
 

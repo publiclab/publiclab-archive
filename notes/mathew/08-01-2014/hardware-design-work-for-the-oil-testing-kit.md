@@ -1,12 +1,18 @@
 ---
-nid: 11006
 title: Hardware design work for the Oil Testing Kit
-path: public/static/notes/mathew/08-01-2014/hardware-design-work-for-the-oil-testing-kit.md
+tagnames: spectrometer, kits, fluorescence, desktop-spectrometer, oil-testing-kit, with:warren, with:stevie
+author: mathew
+path: /notes/mathew/08-01-2014/hardware-design-work-for-the-oil-testing-kit.md
+nid: 11006
 uid: 4
-tagnames: spectrometer,kits,fluorescence,desktop-spectrometer,oil-testing-kit,with:warren,with:stevie
+
 ---
 
 # Hardware design work for the Oil Testing Kit
+
+by [mathew](../profile/mathew) August 01, 2014 21:44
+
+August 01, 2014 21:44 | Tags: [spectrometer](../tag/spectrometer), [kits](../tag/kits), [fluorescence](../tag/fluorescence), [desktop-spectrometer](../tag/desktop-spectrometer), [oil-testing-kit](../tag/oil-testing-kit), [with:warren](../tag/with:warren), [with:stevie](../tag/with:stevie)
 
 A hardware sketch of our favorite configuration is above.
 _This is a jointly authored research note.

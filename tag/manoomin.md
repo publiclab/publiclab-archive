@@ -1,6 +1,6 @@
 # manoomin
 
-11 notes and wiki pages
+11 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Minnesota Land and Manoomin Protection Project](/wiki/minnesota-land-and-manoomin-protection-project) (wiki)
 - [What is Manoomin?](/notes/Giiwedin/06-28-2022/what-is-manoomin) by [Giiwedin](../profile/Giiwedin)

@@ -1,6 +1,6 @@
 # hydrogen-sulfide-detection
 
-3 notes and wiki pages
+3 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Prototype H2S sensor](/notes/warren/9-19-2011/prototype-h2s-sensor) by [warren](../profile/warren)
 - [Possible sensor for field calibration of photo test strips](/notes/megan/4-2-2012/possible-sensor-field-calibration-photo-test-strips) by [megan](../profile/megan)

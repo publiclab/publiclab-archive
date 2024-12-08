@@ -1,12 +1,18 @@
 ---
-nid: 8912
 title: Proposal: SLR spectrometer attachment
-path: public/static/notes/warren/07-20-2013/proposal-slr-spectrometer-attachment.md
+tagnames: spectrometer, shapeways, slr, adaptor, 3d-printing, thingiverse
+author: warren
+path: /notes/warren/07-20-2013/proposal-slr-spectrometer-attachment.md
+nid: 8912
 uid: 1
-tagnames: spectrometer,shapeways,slr,adaptor,3d-printing,thingiverse
+
 ---
 
 # Proposal: SLR spectrometer attachment
+
+by [warren](../profile/warren) July 20, 2013 17:10
+
+July 20, 2013 17:10 | Tags: [spectrometer](../tag/spectrometer), [shapeways](../tag/shapeways), [slr](../tag/slr), [adaptor](../tag/adaptor), [3d-printing](../tag/3d-printing), [thingiverse](../tag/thingiverse)
 
 Lots of folks have talked about doing a higher-end spectrometer attachment based on an SLR lens mount. This is a good idea -- we can model it and share the model on Shapeways so people can 3D print it. 
 

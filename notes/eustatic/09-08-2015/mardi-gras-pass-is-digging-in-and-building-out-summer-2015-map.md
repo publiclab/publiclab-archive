@@ -1,12 +1,18 @@
 ---
-nid: 12203
 title: Mardi Gras Pass is digging in and building out: summer 2015 map
-path: public/static/notes/eustatic/09-08-2015/mardi-gras-pass-is-digging-in-and-building-out-summer-2015-map.md
+tagnames: gulf-coast, balloon-mapping, mapknitter, bohemia, mississippi-river, response:12190, mgp
+author: eustatic
+path: /09-08-2015/mardi-gras-pass-is-digging-in-and-building-out-summer-2015-map.md
+nid: 12203
 uid: 379
-tagnames: gulf-coast,balloon-mapping,mapknitter,bohemia,mississippi-river,response:12190,mgp
+
 ---
 
 # Mardi Gras Pass is digging in and building out: summer 2015 map
+
+by [eustatic](../profile/eustatic) September 08, 2015 05:58
+
+September 08, 2015 05:58 | Tags: [gulf-coast](../tag/gulf-coast), [balloon-mapping](../tag/balloon-mapping), [mapknitter](../tag/mapknitter), [bohemia](../tag/bohemia), [mississippi-river](../tag/mississippi-river), [response:12190](../tag/response:12190), [mgp](../tag/mgp)
 
 ###What I want to do
 Since 2012, Public Lab Gulf Coast has been keeping an eye on one of the emerging cut through Bohemia Spillway, which busted through to make Mardi Gras Pass in Feb 2013.

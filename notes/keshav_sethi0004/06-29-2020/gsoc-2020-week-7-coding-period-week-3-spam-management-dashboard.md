@@ -1,12 +1,18 @@
 ---
-nid: 24061
 title: GSOC 2020 Week 7 (coding Period Week-3)@Spam Management Dashboard
-path: public/static/notes/keshav_sethi0004/06-29-2020/gsoc-2020-week-7-coding-period-week-3-spam-management-dashboard.md
+tagnames: gsoc, spam, dashboard, gsoc-2020, keshav, smd, weekly-update
+author: keshav_sethi0004
+path: /notes/keshav_sethi0004/06-29-2020/gsoc-2020-week-7-coding-period-week-3-spam-management-dashboard.md
+nid: 24061
 uid: 653396
-tagnames: gsoc,spam,dashboard,gsoc-2020,keshav,smd,weekly-update
+
 ---
 
 # GSOC 2020 Week 7 (coding Period Week-3)@Spam Management Dashboard
+
+by [keshav_sethi0004](../profile/keshav_sethi0004) June 29, 2020 17:29
+
+June 29, 2020 17:29 | Tags: [gsoc](../tag/gsoc), [spam](../tag/spam), [dashboard](../tag/dashboard), [gsoc-2020](../tag/gsoc-2020), [keshav](../tag/keshav), [smd](../tag/smd), [weekly-update](../tag/weekly-update)
 
 On week-7 (Coding week-3) I worked on some UI improvements as previous UI was creating some issues in stable.publiclab.org and had a lot of CSS and design issues. Here I removed top nav and side nav and updated as shown in the following image.
 

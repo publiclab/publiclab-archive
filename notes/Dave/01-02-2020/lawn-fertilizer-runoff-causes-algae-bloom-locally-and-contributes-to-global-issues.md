@@ -1,12 +1,18 @@
 ---
-nid: 22200
 title: Lawn Fertilizer Runoff Causes Algae Bloom Locally and Contributes to Global Issues
-path: public/static/notes/Dave/01-02-2020/lawn-fertilizer-runoff-causes-algae-bloom-locally-and-contributes-to-global-issues.md
+tagnames: water-quality, water, algae, clay, phosphorus, runoff, fertilizer, issue-brief, nitrogen, first-time-poster, lawns, gulf-of-mexico, homeowners
+author: Dave
+path: /notes/Dave/01-02-2020/lawn-fertilizer-runoff-causes-algae-bloom-locally-and-contributes-to-global-issues.md
+nid: 22200
 uid: 648822
-tagnames: water-quality,water,algae,clay,phosphorus,runoff,fertilizer,issue-brief,nitrogen,first-time-poster,lawns,gulf-of-mexico,homeowners
+
 ---
 
 # Lawn Fertilizer Runoff Causes Algae Bloom Locally and Contributes to Global Issues
+
+by [Dave](../profile/Dave) January 02, 2020 19:24
+
+January 02, 2020 19:24 | Tags: [water-quality](../tag/water-quality), [water](../tag/water), [algae](../tag/algae), [clay](../tag/clay), [phosphorus](../tag/phosphorus), [runoff](../tag/runoff), [fertilizer](../tag/fertilizer), [issue-brief](../tag/issue-brief), [nitrogen](../tag/nitrogen), [first-time-poster](../tag/first-time-poster), [lawns](../tag/lawns), [gulf-of-mexico](../tag/gulf-of-mexico), [homeowners](../tag/homeowners)
 
 ### 
 

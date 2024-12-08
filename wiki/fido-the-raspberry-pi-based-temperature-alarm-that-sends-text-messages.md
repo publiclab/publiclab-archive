@@ -1,12 +1,18 @@
 ---
-nid: 11192
 title: Fido - The Raspberry Pi based Temperature Alarm that sends text messages
-path: public/static/wiki/fido-the-raspberry-pi-based-temperature-alarm-that-sends-text-messages.md
+tagnames: tool, datalogger, fido, data-logging, method, electronic-sensors
+author: rjstatic
+path: /wiki/fido-the-raspberry-pi-based-temperature-alarm-that-sends-text-messages.md
+nid: 11192
 uid: 174
-tagnames: tool,datalogger,fido,data-logging,method,electronic-sensors
+
 ---
 
 # Fido - The Raspberry Pi based Temperature Alarm that sends text messages
+
+by [rjstatic](../profile/rjstatic)
+
+September 26, 2014 20:31 | Tags: [tool](../tag/tool), [datalogger](../tag/datalogger), [fido](../tag/fido), [data-logging](../tag/data-logging), [method](../tag/method), [electronic-sensors](../tag/electronic-sensors)
 
 Is your greenhouse getting frosty? How about too hot today? Is your fridge still on? Fido is a temperature alarm that will send you text messages that you can build for around $100.
 

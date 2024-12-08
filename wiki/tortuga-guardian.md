@@ -1,12 +1,18 @@
 ---
-nid: 20881
 title: Tortuga Guardian
-path: public/static/wiki/tortuga-guardian.md
+tagnames: water-quality, lang:es, microplastics
+author: GSan
+path: /wiki/tortuga-guardian.md
+nid: 20881
 uid: 426547
-tagnames: water-quality,lang:es,microplastics
+
 ---
 
 # Tortuga Guardian
+
+by [GSan](../profile/GSan)
+
+September 16, 2019 11:15 | Tags: [water-quality](../tag/water-quality), [lang:es](../tag/lang:es), [microplastics](../tag/microplastics)
 
 ![image description](/i/36766.jpg "tortuga.jpg")
 

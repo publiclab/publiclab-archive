@@ -1,12 +1,18 @@
 ---
-nid: 4440
 title: Spectral Analysis Techniques
-path: public/static/wiki/spectral-analysis-techniques.md
-uid: 7
 tagnames: spectrometer
+author: liz
+path: /wiki/spectral-analysis-techniques.md
+nid: 4440
+uid: 7
+
 ---
 
 # Spectral Analysis Techniques
+
+by [Markos](../profile/Markos), [warren](../profile/warren), [liz](../profile/liz)
+
+October 16, 2012 19:59 | Tags: [spectrometer](../tag/spectrometer)
 
 ##Types of spectroscopy
 

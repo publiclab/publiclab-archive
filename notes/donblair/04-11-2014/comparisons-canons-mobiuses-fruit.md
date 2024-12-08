@@ -1,12 +1,18 @@
 ---
-nid: 10298
 title: Comparisons: Canons, Mobiuses, 'fruit
-path: public/static/notes/donblair/04-11-2014/comparisons-canons-mobiuses-fruit.md
-uid: 43651
 tagnames: 
+author: donblair
+path: /notes/donblair/04-11-2014/comparisons-canons-mobiuses-fruit.md
+nid: 10298
+uid: 43651
+
 ---
 
 # Comparisons: Canons, Mobiuses, 'fruit
+
+by [donblair](../profile/donblair) April 11, 2014 16:01
+
+April 11, 2014 16:01 | Tags: 
 
 ###What I want to do
 

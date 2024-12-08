@@ -1,12 +1,18 @@
 ---
-nid: 2963
 title: Oil residue preparation for spectroscopy
-path: public/static/notes/warren/7-26-2012/oil-residue-preparation-spectroscopy.md
+tagnames: spectrometer, oil, sample-prep, sampling, jars
+author: warren
+path: /notes/warren/7-26-2012/oil-residue-preparation-spectroscopy.md
+nid: 2963
 uid: 1
-tagnames: spectrometer,oil,sample-prep,sampling,jars
+
 ---
 
 # Oil residue preparation for spectroscopy
+
+by [warren](../profile/warren) July 26, 2012 22:06
+
+July 26, 2012 22:06 | Tags: [spectrometer](../tag/spectrometer), [oil](../tag/oil), [sample-prep](../tag/sample-prep), [sampling](../tag/sampling), [jars](../tag/jars)
 
 <iframe width="480" height="360" src="https://www.youtube.com/embed/zll7-JUUs-c" frameborder="0" allowfullscreen></iframe>
 

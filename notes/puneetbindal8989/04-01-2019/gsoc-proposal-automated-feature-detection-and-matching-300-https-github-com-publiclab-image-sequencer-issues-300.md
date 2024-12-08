@@ -1,12 +1,18 @@
 ---
-nid: 18928
 title: GSoC proposal: Automated feature detection and matching #300 https://github.com/publiclab/image-sequencer/issues/300
-path: public/static/notes/puneetbindal8989/04-01-2019/gsoc-proposal-automated-feature-detection-and-matching-300-https-github-com-publiclab-image-sequencer-issues-300.md
+tagnames: software, gsoc, soc, response:13975, first-time-poster, rgsoc-2019, gsoc-2019, soc-2019, soc-2019-proposals
+author: puneetbindal8989
+path: /notes/puneetbindal8989/04-01-2019/gsoc-proposal-automated-feature-detection-and-matching-300-https-github-com-publiclab-image-sequencer-issues-300.md
+nid: 18928
 uid: 580556
-tagnames: software,gsoc,soc,response:13975,first-time-poster,rgsoc-2019,gsoc-2019,soc-2019,soc-2019-proposals
+
 ---
 
 # GSoC proposal: Automated feature detection and matching #300 https://github.com/publiclab/image-sequencer/issues/300
+
+by [puneetbindal8989](../profile/puneetbindal8989) April 01, 2019 15:11
+
+April 01, 2019 15:11 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [soc](../tag/soc), [response:13975](../tag/response:13975), [first-time-poster](../tag/first-time-poster), [rgsoc-2019](../tag/rgsoc-2019), [gsoc-2019](../tag/gsoc-2019), [soc-2019](../tag/soc-2019), [soc-2019-proposals](../tag/soc-2019-proposals)
 
 (This template is for students applying to summer code programs with Public Lab. Use this link to start writing a post: [https://publiclab.org/post?n=899&tags=soc,soc-2019,soc-2019-proposals](https://publiclab.org/post?n=899&tags=soc,soc-2019,soc-2019-proposals) You can delete this line once you've started filling it out.)
 

@@ -1,12 +1,18 @@
 ---
-nid: 9433
 title: Improvements to SpectralWorkbench.org and PublicLab.org
-path: public/static/notes/warren/10-10-2013/improvements-to-spectralworkbench-org-and-publiclab-org.md
+tagnames: website, spectralworkbench, plots2
+author: warren
+path: /notes/warren/10-10-2013/improvements-to-spectralworkbench-org-and-publiclab-org.md
+nid: 9433
 uid: 1
-tagnames: website,spectralworkbench,plots2
+
 ---
 
 # Improvements to SpectralWorkbench.org and PublicLab.org
+
+by [warren](../profile/warren) October 10, 2013 18:44
+
+October 10, 2013 18:44 | Tags: [website](../tag/website), [spectralworkbench](../tag/spectralworkbench), [plots2](../tag/plots2)
 
 Quick roundup of new features and improvements:
 

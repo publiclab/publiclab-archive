@@ -1,12 +1,18 @@
 ---
-nid: 3463
 title: Sweet new SpectralWorkbench capture interface
-path: public/static/notes/warren/8-25-2012/sweet-new-spectralworkbench-capture-interface.md
-uid: 1
 tagnames: spectrometer
+author: warren
+path: /notes/warren/8-25-2012/sweet-new-spectralworkbench-capture-interface.md
+nid: 3463
+uid: 1
+
 ---
 
 # Sweet new SpectralWorkbench capture interface
+
+by [warren](../profile/warren) August 25, 2012 18:06
+
+August 25, 2012 18:06 | Tags: [spectrometer](../tag/spectrometer)
 
 Two-column, darker to make low light usage easier... lots of improvements. See at <a href="https://spectralworkbench.org/capture?alt=true" rel="nofollow">spectralworkbench.org/capture?alt=true</a>
 

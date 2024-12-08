@@ -1,12 +1,18 @@
 ---
-nid: 14959
 title: Roles
-path: public/static/wiki/roles.md
+tagnames: organizing, moderation, roles
+author: warren
+path: /wiki/roles.md
+nid: 14959
 uid: 1
-tagnames: organizing,moderation,roles
+
 ---
 
 # Roles
+
+by [warren](../profile/warren)
+
+September 26, 2017 22:18 | Tags: [organizing](../tag/organizing), [moderation](../tag/moderation), [roles](../tag/roles)
 
 The Public Lab website (this site!) has a feature known as "roles" for different people -- enabling some to act as [moderators](/wiki/moderation) and some to act as admins.
 

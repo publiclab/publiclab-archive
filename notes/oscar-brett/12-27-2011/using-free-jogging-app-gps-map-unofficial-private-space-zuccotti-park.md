@@ -1,12 +1,18 @@
 ---
-nid: 663
 title: Using a free Jogging app to GPS map unofficial private space in Zuccotti Park 
-path: public/static/notes/oscar-brett/12-27-2011/using-free-jogging-app-gps-map-unofficial-private-space-zuccotti-park.md
-uid: 409
 tagnames: first-time-poster
+author: oscarbrett
+path: /notes/oscar-brett/12-27-2011/using-free-jogging-app-gps-map-unofficial-private-space-zuccotti-park.md
+nid: 663
+uid: 409
+
 ---
 
 # Using a free Jogging app to GPS map unofficial private space in Zuccotti Park 
+
+by [oscarbrett](../profile/oscarbrett) December 27, 2011 22:06
+
+December 27, 2011 22:06 | Tags: [first-time-poster](../tag/first-time-poster)
 
 (Mapping done on Nov 6, 2011)
 (Post done Dec 27, 2011)

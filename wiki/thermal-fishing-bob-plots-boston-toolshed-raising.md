@@ -1,12 +1,18 @@
 ---
-nid: 9820
 title: Thermal Fishing Bob: PLOTS Boston Toolshed Raising
-path: public/static/wiki/thermal-fishing-bob-plots-boston-toolshed-raising.md
+tagnames: thermal-photography, thermal-imaging, thermal-fishing-bob, glowdoodle, northeast
+author: sara
+path: /wiki/thermal-fishing-bob-plots-boston-toolshed-raising.md
+nid: 9820
 uid: 8
-tagnames: thermal-photography,thermal-imaging,thermal-fishing-bob,glowdoodle,northeast
+
 ---
 
 # Thermal Fishing Bob: PLOTS Boston Toolshed Raising
+
+by [sara](../profile/sara)
+
+November 24, 2013 22:32 | Tags: [thermal-photography](../tag/thermal-photography), [thermal-imaging](../tag/thermal-imaging), [thermal-fishing-bob](../tag/thermal-fishing-bob), [glowdoodle](../tag/glowdoodle), [northeast](../tag/northeast)
 
 ## Experimental Aim: To make a light map of temperature in a paddling pool using the Thermal Fishing bob
 

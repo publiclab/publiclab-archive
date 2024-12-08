@@ -1,12 +1,18 @@
 ---
-nid: 8785
 title: A490 Rosco 2007 initial results
-path: public/static/notes/patcoyle/07-09-2013/a490-rosco-2007-initial-results.md
+tagnames: near-infrared-camera, ndvi, infragram, rosco
+author: patcoyle
+path: /notes/patcoyle/07-09-2013/a490-rosco-2007-initial-results.md
+nid: 8785
 uid: 77
-tagnames: near-infrared-camera,ndvi,infragram,rosco
+
 ---
 
 # A490 Rosco 2007 initial results
+
+by [patcoyle](../profile/patcoyle) July 09, 2013 22:57
+
+July 09, 2013 22:57 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [infragram](../tag/infragram), [rosco](../tag/rosco)
 
 Modified A490 that had been previously converted to NIR and used for dual camera NDVI to the single camera Infragram approach. With the Infragram Kickstarter completed, we will soon have increasing numbers of people using this technique. Needed to get on board, get started with this approach.
 

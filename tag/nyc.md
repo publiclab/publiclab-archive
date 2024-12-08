@@ -1,6 +1,6 @@
 # nyc
 
-31 notes and wiki pages
+31 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [New York City](/wiki/new-york-city) (wiki)
 - [The  IMC Lab +Gallery](/notes/imclab/08-09-2013/the-imc-lab-gallery) by [imclab](../profile/imclab)
@@ -16,20 +16,9 @@
 - [Public Lab Workshop at the Sunview Luncheonette](/notes/Matej/02-04-2016/public-lab-workshop-at-the-subview-luncheonette) by [Matej](../profile/Matej)
 - [NYC Data Rescue working group meeting tonight](/notes/liz/02-28-2017/nyc-data-rescue-working-group-meeting-tonight) by [liz](../profile/liz)
 - [Adventures on the Gowanus on a July Evening](/notes/eustatic/07-12-2017/adventures-on-the-gowanus-on-a-july-evening) by [eustatic](../profile/eustatic)
-- [Sports Injury & Pain Management Clinic of New York](/notes/DrMelepura/05-02-2018/sports-injury-pain-management-clinic-of-new-york) by [DrMelepura](../profile/DrMelepura)
-- [Park Avenue Smiles](/notes/DrFarokhzadeh/08-09-2018/park-avenue-smiles) by [DrFarokhzadeh](../profile/DrFarokhzadeh)
-- [Family Cosmetic & Implant Dentistry of Brooklyn](/notes/DrKhabensky/08-09-2018/family-cosmetic-implant-dentistry-of-brooklyn) by [DrKhabensky](../profile/DrKhabensky)
-- [Century Medical & Dental Center](/notes/DrDvorkina/08-09-2018/century-medical-dental-center) by [DrDvorkina](../profile/DrDvorkina)
-- [Manhattan Foot Specialists](/notes/DrSolomon/08-09-2018/manhattan-foot-specialists) by [DrSolomon](../profile/DrSolomon)
 - [NYC Microscope Workshop, 12/15 at Fat Cat Fab Lab](/notes/bronwen/12-04-2018/nyc-microscope-workshop-12-15-at-fat-cat-fab-lab) by [Bronwen](../profile/Bronwen)
-- [EURO Windows and Doors MFG](/notes/BoriaAlex/02-08-2019/euro-windows-and-doors-mfg) by [BoriaAlex](../profile/BoriaAlex)
-- [Dumbo Moving and Storage NYC ](/notes/dumbomovingnyc/08-21-2019/dumbo-moving-and-storage-nyc) by [dumbomovingnyc](../profile/dumbomovingnyc)
 - [NYC Workshop Saturday, 9/28: Simple Air Sensors and More!](/notes/Bronwen/09-26-2019/nyc-workshop-saturday-9-28-simple-air-sensors-and-more) by [Bronwen](../profile/Bronwen)
 - [Simple Air Sensors (and more) with Public Lab and the Queensbridge Tech Lab](/notes/Bronwen/10-29-2019/simple-air-sensors-and-more-with-public-lab-and-the-queensbridge-tech-lab) by [Bronwen](../profile/Bronwen)
 - [Public Lab & Science For The People in NYC on 11/06](/notes/Bronwen/11-05-2019/public-lab-science-for-the-people-in-nyc-on-11-06) by [Bronwen](../profile/Bronwen)
 - [Fall Workshops in NYC- Oil & Gas](/notes/Bronwen/11-18-2019/fall-workshops-in-nyc-oil-gas) by [Bronwen](../profile/Bronwen)
-- [welcome-adopted-dog-shelter](/notes/jijdona/02-18-2020/welcome-adopted-dog-shelter) by [jijdona](../profile/jijdona)
-- [How to Choose a Great Home Cleaning Service and Ensure You Get Top Notch Service](/notes/haroonhassan262/04-28-2020/how-to-choose-a-great-home-cleaning-service-and-ensure-you-get-top-notch-service) by [haroonhassan262](../profile/haroonhassan262)
-- [Window Repair or Window Replacement?](/notes/windowrepairnyc123/05-09-2020/window-repair-or-window-replacement) by [windowrepairnyc123](../profile/windowrepairnyc123)
 - [Soil testing at a massive construction site in the Lower East Side](/notes/bhamster/04-22-2021/soil-testing-at-a-massive-construction-site-in-the-lower-east-side) by [bhamster](../profile/bhamster)
-- [Sell My House New York](/notes/sellmyhousenewyork/04-29-2021/sell-my-house-new-york) by [sellmyhousenewyork](../profile/sellmyhousenewyork)

@@ -1,12 +1,18 @@
 ---
-nid: 11418
 title: Titraumatic: An apparatus for automated pH titration.
-path: public/static/notes/JSummers/12-02-2014/titraumatic-automated-titration-apparatus.md
+tagnames: response:9421, ph, titraumatic, titration
+author: JSummers
+path: /notes/JSummers/12-02-2014/titraumatic-automated-titration-apparatus.md
+nid: 11418
 uid: 304279
-tagnames: response:9421,ph,titraumatic,titration
+
 ---
 
 # Titraumatic: An apparatus for automated pH titration.
+
+by [JSummers](../profile/JSummers) December 02, 2014 01:49
+
+December 02, 2014 01:49 | Tags: [response:9421](../tag/response:9421), [ph](../tag/ph), [titraumatic](../tag/titraumatic), [titration](../tag/titration)
 
 ###What I want to do
 This research note documents our progress to interface a syringe pump with a pH meter.  This instrument should have a number of useful applications, like automating titrations, allowing you to adjust the pH of a buffer, and simplifying the process of monitoring the chemicals in a swimming pool.  I plan to use this as a demo in my freshman chemistry lectures on acid / base equilibria.  The idea being that I can  lecture about how pH of a solution containing a weak acid is affected by addition of base, and simultaneously have the instrument doing exactly what I am talking about and  projecting the experimental results onto a screen in real time. 

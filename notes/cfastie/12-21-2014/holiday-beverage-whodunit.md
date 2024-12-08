@@ -1,12 +1,18 @@
 ---
-nid: 11489
 title: Holiday Beverage Whodunit
-path: public/static/notes/cfastie/12-21-2014/holiday-beverage-whodunit.md
+tagnames: near-infrared-camera, nir, holiday, absorption, infragram, barnstar:basic, happy-holidays, seeks:responses, activity:multispectral-imaging
+author: cfastie
+path: /notes/cfastie/12-21-2014/holiday-beverage-whodunit.md
+nid: 11489
 uid: 554
-tagnames: near-infrared-camera,nir,holiday,absorption,infragram,barnstar:basic,happy-holidays,seeks:responses,activity:multispectral-imaging
+
 ---
 
 # Holiday Beverage Whodunit
+
+by [cfastie](../profile/cfastie) December 21, 2014 03:53
+
+December 21, 2014 03:53 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [nir](../tag/nir), [holiday](../tag/holiday), [absorption](../tag/absorption), [infragram](../tag/infragram), [barnstar:basic](../tag/barnstar:basic), [happy-holidays](../tag/happy-holidays), [seeks:responses](../tag/seeks:responses), [activity:multispectral-imaging](../tag/activity:multispectral-imaging)
 
 **The glasses above each hold one of four liquids which could be found in your kitchen.** 
 

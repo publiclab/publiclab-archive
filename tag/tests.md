@@ -1,6 +1,6 @@
 # tests
 
-5 notes and wiki pages
+5 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Continuing difficulties with infrablue in cheaper CMOS cameras](/notes/warren/06-18-2013/continuing-difficulties-with-infrablue-in-cheaper-cmos-cameras) by [warren](../profile/warren)
 - [Channel swapping](/notes/warren/06-21-2013/channel-swapping) by [warren](../profile/warren)

@@ -1,6 +1,6 @@
 # hydrogen
 
-18 notes and wiki pages
+18 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Hydrogen Balloon Mapping](/wiki/hydrogen-balloon-mapping) (wiki)
 - [Hydrogen Balloons](/wiki/hydrogen-balloons) (wiki)

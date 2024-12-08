@@ -1,12 +1,18 @@
 ---
-nid: 24654
 title: Automated recording of daily behavioral and vibroacoustic activity in Xylocopa virginica
-path: public/static/wiki/monitoring-bee-behavior-with-a-raspberry-pi.md
+tagnames: raspberry-pi, massachusetts, insects, vibrations, northeast, rpi, bees, project
+author: ShawnSmall
+path: /wiki/monitoring-bee-behavior-with-a-raspberry-pi.md
+nid: 24654
 uid: 721831
-tagnames: raspberry-pi,massachusetts,insects,vibrations,northeast,rpi,bees,project
+
 ---
 
 # Automated recording of daily behavioral and vibroacoustic activity in Xylocopa virginica
+
+by [ShawnSmall](../profile/ShawnSmall)
+
+September 26, 2020 03:01 | Tags: [raspberry-pi](../tag/raspberry-pi), [massachusetts](../tag/massachusetts), [insects](../tag/insects), [vibrations](../tag/vibrations), [northeast](../tag/northeast), [rpi](../tag/rpi), [bees](../tag/bees), [project](../tag/project)
 
 __Photo credit: Eastern Carpenter Bee - Xylocopa virginica, Leesylvania State Park, Woodbridge, Virginia by Judy Gallagher is licensed with CC BY 2.0. To view a copy of this license, visit https.creative.commons.org licenses by 2.0__
 

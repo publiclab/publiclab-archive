@@ -1,12 +1,18 @@
 ---
-nid: 10345
 title: NIR and white balance
-path: public/static/notes/cfastie/04-23-2014/nir-and-white-balance.md
+tagnames: near-infrared-camera, ndvi, infrared, white-balance, infragram, histogram, led, mobius-actioncam, frosted-globe, response:10324, mobius
+author: cfastie
+path: /notes/cfastie/04-23-2014/nir-and-white-balance.md
+nid: 10345
 uid: 554
-tagnames: near-infrared-camera,ndvi,infrared,white-balance,infragram,histogram,led,mobius-actioncam,frosted-globe,response:10324,mobius
+
 ---
 
 # NIR and white balance
+
+by [cfastie](../profile/cfastie) April 23, 2014 02:59
+
+April 23, 2014 02:59 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [infrared](../tag/infrared), [white-balance](../tag/white-balance), [infragram](../tag/infragram), [histogram](../tag/histogram), [led](../tag/led), [mobius-actioncam](../tag/mobius-actioncam), [frosted-globe](../tag/frosted-globe), [response:10324](../tag/response:10324), [mobius](../tag/mobius)
 
 *Above: An LED which emits only near infrared light around 850 nm photographed under normal room lighting with a camera with no IR block filter. The purplish color is how the camera records the NIR light.*  
 

@@ -1,12 +1,18 @@
 ---
-nid: 23
 title: Normalized Difference Vegetation Index, NRG, and Landsat 7 bands
-path: public/static/notes/warren/12-10-2010/normalized-difference-vegetation-index-nrg-and-landsat-7-bands.md
+tagnames: near-infrared-camera, ndvi, landsat, satellite-imagery
+author: warren
+path: /notes/warren/12-10-2010/normalized-difference-vegetation-index-nrg-and-landsat-7-bands.md
+nid: 23
 uid: 1
-tagnames: near-infrared-camera,ndvi,landsat,satellite-imagery
+
 ---
 
 # Normalized Difference Vegetation Index, NRG, and Landsat 7 bands
+
+by [warren](../profile/warren) December 11, 2010 01:18
+
+December 11, 2010 01:18 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [landsat](../tag/landsat), [satellite-imagery](../tag/satellite-imagery)
 
 OK, for reference, NDVI is often based on Landsat images. Landsat 7 (the current landsat) has these bands:
 

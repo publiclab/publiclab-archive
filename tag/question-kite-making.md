@@ -1,6 +1,6 @@
 # question-kite-making
 
-3 notes and wiki pages
+3 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [What is the easiest and cheapest way to make a kite big enough to carry a camera?](/notes/warren/10-31-2017/what-is-the-easiest-and-cheapest-way-to-make-a-kite-big-enough-to-carry-a-camera) by [warren](../profile/warren)
 - [What are materials we could include in a Kite Making Materials Pack?](/notes/warren/01-17-2018/what-are-materials-we-could-include-in-a-kite-making-materials-pack) by [warren](../profile/warren)

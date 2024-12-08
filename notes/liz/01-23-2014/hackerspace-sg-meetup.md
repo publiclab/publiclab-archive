@@ -1,12 +1,18 @@
 ---
-nid: 9969
 title: Hackerspace.sg meetup
-path: public/static/notes/liz/01-23-2014/hackerspace-sg-meetup.md
+tagnames: event, asia, singapore, great-photos
+author: liz
+path: /notes/liz/01-23-2014/hackerspace-sg-meetup.md
+nid: 9969
 uid: 7
-tagnames: event,asia,singapore,great-photos
+
 ---
 
 # Hackerspace.sg meetup
+
+by [liz](../profile/liz) January 23, 2014 16:44
+
+January 23, 2014 16:44 | Tags: [event](../tag/event), [asia](../tag/asia), [singapore](../tag/singapore), [great-photos](../tag/great-photos)
 
 ###Event details
 

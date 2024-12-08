@@ -1,12 +1,18 @@
 ---
-nid: 24675
 title: Summary: Public Lab’s microplastics research area review
-path: public/static/notes/bhamster/09-29-2020/summary-public-lab-s-microplastics-research-area-review.md
+tagnames: research, blog, reviews, micro-plastics, microplastics, plastic, research-area-review, plastic-pollution
+author: bhamster
+path: /notes/bhamster/09-29-2020/summary-public-lab-s-microplastics-research-area-review.md
+nid: 24675
 uid: 664477
-tagnames: research,blog,reviews,micro-plastics,microplastics,plastic,research-area-review,plastic-pollution
+
 ---
 
 # Summary: Public Lab’s microplastics research area review
+
+by [bhamster](../profile/bhamster) September 29, 2020 22:16
+
+September 29, 2020 22:16 | Tags: [research](../tag/research), [blog](../tag/blog), [reviews](../tag/reviews), [micro-plastics](../tag/micro-plastics), [microplastics](../tag/microplastics), [plastic](../tag/plastic), [research-area-review](../tag/research-area-review), [plastic-pollution](../tag/plastic-pollution)
 
 _Image: [Microplastics](https://www.flickr.com/photos/33247428@N08/21282786668), by 5Gyres, courtesy of Oregon State University. [CC BY SA](https://creativecommons.org/licenses/by-sa/2.0/)._
 

@@ -1,12 +1,18 @@
 ---
-nid: 9911
 title: Potentiostat Notes 2: Software
-path: public/static/notes/JSummers/12-20-2013/potentiostat-software.md
+tagnames: potentiostat, wheestat
+author: JSummers
+path: /notes/JSummers/12-20-2013/potentiostat-software.md
+nid: 9911
 uid: 304279
-tagnames: potentiostat,wheestat
+
 ---
 
 # Potentiostat Notes 2: Software
+
+by [JSummers](../profile/JSummers) December 20, 2013 20:12
+
+December 20, 2013 20:12 | Tags: [potentiostat](../tag/potentiostat), [wheestat](../tag/wheestat)
 
 ###What I want to do
 We are working to develop laboratory instrumentation for education and environmental monitoring.  This note follows up on an earlier research note found at http://publiclab.org/notes/JSummers/11-02-2013/potentiostat-notes-1-wheestat-history.  In that note, I describe our reasons for transitioning from the Texas Instruments MSP430g2553 LaunchPad microcontroller to the Stellaris microcontroller.  At the time, we did not have the microcontroller software developed and had not begun working on the GUI.  We now have that software written and pushed to our GitHub page.  In this note, we report on some of the characteristics of the software and the Stellaris based system. 

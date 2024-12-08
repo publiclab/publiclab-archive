@@ -1,12 +1,18 @@
 ---
-nid: 30551
 title: Outreachy proposal: Design a new full-screen user interface for Infragram.org
-path: public/static/notes/radz_saini99/04-21-2022/outreachy-proposal-design-a-new-full-screen-user-interface-for-infragram-org.md
+tagnames: software, outreachy, first-time-poster, outreachy-2022, outreachy-summer-2022
+author: radz_saini99
+path: /notes/radz_saini99/04-21-2022/outreachy-proposal-design-a-new-full-screen-user-interface-for-infragram-org.md
+nid: 30551
 uid: 795476
-tagnames: software,outreachy,first-time-poster,outreachy-2022,outreachy-summer-2022
+
 ---
 
 # Outreachy proposal: Design a new full-screen user interface for Infragram.org
+
+by [radz_saini99](../profile/radz_saini99) April 21, 2022 19:18
+
+April 21, 2022 19:18 | Tags: [software](../tag/software), [outreachy](../tag/outreachy), [first-time-poster](../tag/first-time-poster), [outreachy-2022](../tag/outreachy-2022), [outreachy-summer-2022](../tag/outreachy-summer-2022)
 
 (This template is for students applying to summer code programs with Public Lab. Use this link to start writing a post: [https://publiclab.org/post?n=899&tags=soc,soc-2019,soc-2019-proposals](https://publiclab.org/post?n=899&tags=soc,soc-2019,soc-2019-proposals) You can delete this line once you've started filling it out.)
 

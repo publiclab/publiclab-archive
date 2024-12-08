@@ -1,12 +1,18 @@
 ---
-nid: 9359
 title: Public Lab community newsletter 9.21.13
-path: public/static/notes/Shannon/09-22-2013/public-lab-community-newsletter-9-21-13.md
+tagnames: newsletter, newsletter-archive
+author: Shannon
+path: /notes/Shannon/09-22-2013/public-lab-community-newsletter-9-21-13.md
+nid: 9359
 uid: 9
-tagnames: newsletter,newsletter-archive
+
 ---
 
 # Public Lab community newsletter 9.21.13
+
+by [Shannon](../profile/Shannon) September 22, 2013 12:45
+
+September 22, 2013 12:45 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
 
 This week in the Public Lab community newsletter, come visit Public Labbers at Maker Faire NYC (today!), read about a project aerial mapping in Louisiana and find out how you can support the Public Lab nonprofit. Enjoy!
 

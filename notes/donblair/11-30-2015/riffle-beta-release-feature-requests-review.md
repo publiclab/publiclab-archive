@@ -1,12 +1,18 @@
 ---
-nid: 12464
 title: Riffle Beta Release: Feature Requests / Review? 
-path: public/static/notes/donblair/11-30-2015/riffle-beta-release-feature-requests-review.md
+tagnames: air-quality, water-quality, water, datalogger, logging, riffle, logger
+author: donblair
+path: /notes/donblair/11-30-2015/riffle-beta-release-feature-requests-review.md
+nid: 12464
 uid: 43651
-tagnames: air-quality,water-quality,water,datalogger,logging,riffle,logger
+
 ---
 
 # Riffle Beta Release: Feature Requests / Review? 
+
+by [donblair](../profile/donblair) November 30, 2015 23:27
+
+November 30, 2015 23:27 | Tags: [air-quality](../tag/air-quality), [water-quality](../tag/water-quality), [water](../tag/water), [datalogger](../tag/datalogger), [logging](../tag/logging), [riffle](../tag/riffle), [logger](../tag/logger)
 
 Hi All!
 

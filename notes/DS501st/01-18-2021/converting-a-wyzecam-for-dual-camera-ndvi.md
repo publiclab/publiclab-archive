@@ -1,12 +1,18 @@
 ---
-nid: 25491
 title: Converting a WyzeCam for 2-camera NDVI in 1 camera
-path: public/static/notes/DS501st/01-18-2021/converting-a-wyzecam-for-dual-camera-ndvi.md
+tagnames: ndvi, infragram-filters, hydroponics, seeks:replications, activity:infrared-camera-conversion, infrared-camera-conversion, first-time-poster, wyzecam
+author: DS501st
+path: /notes/DS501st/01-18-2021/converting-a-wyzecam-for-dual-camera-ndvi.md
+nid: 25491
 uid: 736201
-tagnames: ndvi,infragram-filters,hydroponics,seeks:replications,activity:infrared-camera-conversion,infrared-camera-conversion,first-time-poster,wyzecam
+
 ---
 
 # Converting a WyzeCam for 2-camera NDVI in 1 camera
+
+by [DS501st](../profile/DS501st) January 18, 2021 03:10
+
+January 18, 2021 03:10 | Tags: [ndvi](../tag/ndvi), [infragram-filters](../tag/infragram-filters), [hydroponics](../tag/hydroponics), [seeks:replications](../tag/seeks:replications), [activity:infrared-camera-conversion](../tag/activity:infrared-camera-conversion), [infrared-camera-conversion](../tag/infrared-camera-conversion), [first-time-poster](../tag/first-time-poster), [wyzecam](../tag/wyzecam)
 
 I recently decided to take a dive into NDVI imagery for use with my home hydroponics system, tracking plant growth over time. That's still a work in progress (I'm a better developer & engineer than a farmer) but I thought I'd share the idea I had to convert a cheap ($20) common camera for dual-camera NDVI. I have some prior experience with NDVI from remote-sensing (at satellite and UAV-scale) applications and though bringing it into my side hydroponics project would be neat.
 

@@ -1,12 +1,18 @@
 ---
-nid: 11616
 title: JR 368 02 Water Conductivity Testing 
-path: public/static/notes/chelsea_tremblay/02-23-2015/jr-368-02-water-conductivity-testing.md
+tagnames: sensor-journalism, first-time-poster
+author: chelsea_tremblay
+path: /notes/chelsea_tremblay/02-23-2015/jr-368-02-water-conductivity-testing.md
+nid: 11616
 uid: 434198
-tagnames: sensor-journalism,first-time-poster
+
 ---
 
 # JR 368 02 Water Conductivity Testing 
+
+by [chelsea_tremblay](../profile/chelsea_tremblay) February 23, 2015 00:50
+
+February 23, 2015 00:50 | Tags: [sensor-journalism](../tag/sensor-journalism), [first-time-poster](../tag/first-time-poster)
 
 ###
 ##Chelsea Tremblay, Amanda Gomez, Terrena Scannell

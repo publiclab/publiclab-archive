@@ -1,6 +1,6 @@
 # nsf
 
-3 notes and wiki pages
+3 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Public Lab awarded NSF funding to help develop low-cost community formaldehyde monitoring technique](/notes/nshapiro/10-17-2016/public-lab-awarded-nsf-funding-to-help-develop-low-cost-community-formaldehyde-monitoring-technique) by [nshapiro](../profile/nshapiro)
 - [Public Lab Community Newsletter: January 2017](/notes/klie/01-27-2017/public-lab-community-newsletter-january-2017) by [klie](../profile/klie)

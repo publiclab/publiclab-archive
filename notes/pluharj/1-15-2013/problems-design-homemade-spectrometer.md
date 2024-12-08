@@ -1,12 +1,18 @@
 ---
-nid: 5597
 title: Problems with Design of Homemade Spectrometer
-path: public/static/notes/pluharj/1-15-2013/problems-design-homemade-spectrometer.md
-uid: 46812
 tagnames: 
+author: pluharj
+path: /notes/pluharj/1-15-2013/problems-design-homemade-spectrometer.md
+nid: 5597
+uid: 46812
+
 ---
 
 # Problems with Design of Homemade Spectrometer
+
+by [pluharj](../profile/pluharj) January 15, 2013 20:36
+
+January 15, 2013 20:36 | Tags: 
 
 Hi everybody, as I wrote in the previous post, my webcam broke after two days of light usage, so I decided to buy a new one, but it was not possible to get the same one because it is not available here (the Czech Republic), so I bought Genius webcam. Because of its size I also had to find different box for the spectrometer, so actually I make all new spectrometer. I share some photos here and also two spectra. The first is a CFL source measured with the tested kickstarter spectrometer and the second is measured with the new one. I also add a photo from the webcam where you can see what the webcam captures when taking the spectra. 
 

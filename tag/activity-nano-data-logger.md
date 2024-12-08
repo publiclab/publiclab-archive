@@ -1,6 +1,6 @@
 # activity-nano-data-logger
 
-10 notes and wiki pages
+10 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Inexpensive data logging](/notes/cfastie/04-25-2017/inexpensive-data-logging) by [cfastie](../profile/cfastie)
 - [Data logger shield for Nano](/notes/cfastie/04-30-2017/data-logger-shield-for-nano) by [cfastie](../profile/cfastie)

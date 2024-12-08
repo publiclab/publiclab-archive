@@ -1,12 +1,18 @@
 ---
-nid: 12160
 title: Long Thermistor Test
-path: public/static/notes/kgrevera/08-22-2015/long-thermistor-test.md
+tagnames: thermal-fishing-bob, multiple-thermistor, long-thermistor
+author: kgrevera
+path: /notes/kgrevera/08-22-2015/long-thermistor-test.md
+nid: 12160
 uid: 432001
-tagnames: thermal-fishing-bob,multiple-thermistor,long-thermistor
+
 ---
 
 # Long Thermistor Test
+
+by [kgrevera](../profile/kgrevera) August 22, 2015 15:02
+
+August 22, 2015 15:02 | Tags: [thermal-fishing-bob](../tag/thermal-fishing-bob), [multiple-thermistor](../tag/multiple-thermistor), [long-thermistor](../tag/long-thermistor)
 
 ##Long Thermistor Test
 

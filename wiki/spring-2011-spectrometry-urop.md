@@ -1,12 +1,18 @@
 ---
-nid: 155
 title: Spring 2011 Spectrometry UROP
-path: public/static/wiki/spring-2011-spectrometry-urop.md
-uid: 1
 tagnames: 
+author: warren
+path: /wiki/spring-2011-spectrometry-urop.md
+nid: 155
+uid: 1
+
 ---
 
 # Spring 2011 Spectrometry UROP
+
+by [Alex-McCarthy](../profile/Alex-McCarthy), [warren](../profile/warren)
+
+April 05, 2011 21:41 | Tags: 
 
 Materials needed:
 

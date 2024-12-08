@@ -1,12 +1,18 @@
 ---
-nid: 14045
 title: Survey your site
-path: public/static/wiki/site-survey.md
+tagnames: research, tool, methods, visual-monitoring, method, site-survey
+author: stevie
+path: /wiki/site-survey.md
+nid: 14045
 uid: 422561
-tagnames: research,tool,methods,visual-monitoring,method,site-survey
+
 ---
 
 # Survey your site
+
+by [liz](../profile/liz), [stevie](../profile/stevie)
+
+March 22, 2017 16:55 | Tags: [research](../tag/research), [tool](../tag/tool), [methods](../tag/methods), [visual-monitoring](../tag/visual-monitoring), [method](../tag/method), [site-survey](../tag/site-survey)
 
 ###About Site Surveys 
 A site survey can be any activity that helps you understand your project area more. In site surveys you can collect information by documenting what you see both in a written form, or by using photographs. You can also document information using other senses such as things you hear, feel or smell at a site. Data you collect on site surveys could include:

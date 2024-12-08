@@ -1,12 +1,18 @@
 ---
-nid: 189
 title: UNICEF Rio Proposal
-path: public/static/wiki/unicef-rio-proposal.md
-uid: 1
 tagnames: rio
+author: warren
+path: /wiki/unicef-rio-proposal.md
+nid: 189
+uid: 1
+
 ---
 
 # UNICEF Rio Proposal
+
+by [liz](../profile/liz), [warren](../profile/warren)
+
+April 21, 2011 14:11 | Tags: [rio](../tag/rio)
 
 ##Summary##
 

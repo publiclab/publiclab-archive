@@ -1,12 +1,18 @@
 ---
-nid: 18806
 title: Outreachy'19 Proposal: Public Lab UI Improvements
-path: public/static/notes/IshaGupta18/03-22-2019/outreachy-19-proposal-public-lab-ui-improvements.md
+tagnames: software, soc, outreachy, response:17359, soc-2019, outreachy-2019, outreachy-2019-proposals
+author: IshaGupta18
+path: /notes/IshaGupta18/03-22-2019/outreachy-19-proposal-public-lab-ui-improvements.md
+nid: 18806
 uid: 568043
-tagnames: software,soc,outreachy,response:17359,soc-2019,outreachy-2019,outreachy-2019-proposals
+
 ---
 
 # Outreachy'19 Proposal: Public Lab UI Improvements
+
+by [IshaGupta18](../profile/IshaGupta18) March 22, 2019 03:53
+
+March 22, 2019 03:53 | Tags: [software](../tag/software), [soc](../tag/soc), [outreachy](../tag/outreachy), [response:17359](../tag/response:17359), [soc-2019](../tag/soc-2019), [outreachy-2019](../tag/outreachy-2019), [outreachy-2019-proposals](../tag/outreachy-2019-proposals)
 
 ## About Me
 

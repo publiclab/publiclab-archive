@@ -1,12 +1,18 @@
 ---
-nid: 12602
 title: Environmental Data Comedy workshop at Middlebury College
-path: public/static/notes/kanarinka/01-22-2016/environmental-data-comedy-workshop-at-middlebury-college.md
+tagnames: water-quality-monitoring, water-quality, riffle, coqui, riffle-examples
+author: kanarinka
+path: /notes/kanarinka/01-22-2016/environmental-data-comedy-workshop-at-middlebury-college.md
+nid: 12602
 uid: 994
-tagnames: water-quality-monitoring,water-quality,riffle,coqui,riffle-examples
+
 ---
 
 # Environmental Data Comedy workshop at Middlebury College
+
+by [kanarinka](../profile/kanarinka) January 22, 2016 19:56
+
+January 22, 2016 19:56 | Tags: [water-quality-monitoring](../tag/water-quality-monitoring), [water-quality](../tag/water-quality), [riffle](../tag/riffle), [coqui](../tag/coqui), [riffle-examples](../tag/riffle-examples)
 
 ###What I want to do
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yP3mvWlxwxE" frameborder="0" allowfullscreen></iframe>

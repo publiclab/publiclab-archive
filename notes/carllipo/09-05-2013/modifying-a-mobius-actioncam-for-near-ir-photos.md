@@ -1,12 +1,18 @@
 ---
-nid: 9293
 title: Modifying a Mobius ActionCam for Near IR Photos
-path: public/static/notes/carllipo/09-05-2013/modifying-a-mobius-actioncam-for-near-ir-photos.md
+tagnames: near-infrared-camera, ndvi, infragram, infragram-conversion, infragram-sandbox, mobius-actioncam, rcgroups
+author: carllipo
+path: /notes/carllipo/09-05-2013/modifying-a-mobius-actioncam-for-near-ir-photos.md
+nid: 9293
 uid: 170171
-tagnames: near-infrared-camera,ndvi,infragram,infragram-conversion,infragram-sandbox,mobius-actioncam,rcgroups
+
 ---
 
 # Modifying a Mobius ActionCam for Near IR Photos
+
+by [carllipo](../profile/carllipo) September 05, 2013 19:35
+
+September 05, 2013 19:35 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [infragram](../tag/infragram), [infragram-conversion](../tag/infragram-conversion), [infragram-sandbox](../tag/infragram-sandbox), [mobius-actioncam](../tag/mobius-actioncam), [rcgroups](../tag/rcgroups)
 
 I have been working on modifying cameras to allow us to be able to take remote photos using our various platforms (quadcopters, fixed wing, etc) in the near-infrared. Doing so gives us an ability to generate NDVI images and study differences in vegetation health (and thus potentially archaeological features ala crop marks, etc.). The criteria we've had is that the cameras have to be (1) light and ideally (2) cheap. We know we can do this for Canon cameras and get good results.  What is required is taking the camera apart and removing the IR filter that is ordinarily placed in front of the CMOS or CCD sensor.  Some cameras are easier than others to modify in this way.  I have done this for a Canon A380 and for a couple of GoPro Hero (Naked and 2). We also sent one of our Ricoh GR III cameras to a commercial service to have this done (this cost a couple of hundred bucks).
 

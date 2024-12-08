@@ -1,12 +1,18 @@
 ---
-nid: 25289
 title: Outreachy Blog 1: Intro & Core Values
-path: public/static/notes/noi5e/12-17-2020/outreachy-blog-1-intro-core-values.md
+tagnames: zoom:6, lat:37.804351, lon:-122.271163
+author: noi5e
+path: /notes/noi5e/12-17-2020/outreachy-blog-1-intro-core-values.md
+nid: 25289
 uid: 726270
-tagnames: zoom:6,lat:37.804351,lon:-122.271163
+
 ---
 
 # Outreachy Blog 1: Intro & Core Values
+
+by [noi5e](../profile/noi5e) December 17, 2020 22:29
+
+December 17, 2020 22:29 | Tags: [zoom:6](../tag/zoom:6), [lat:37.804351](../tag/lat:37.804351), [lon:-122.271163](../tag/lon:-122.271163)
 
 **Hi everyone! My name is Will, and I'm one of two Winter 2020 Outreachy Interns with Public Lab.** I just finished two weeks on the job.
 

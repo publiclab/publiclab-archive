@@ -1,12 +1,18 @@
 ---
-nid: 10584
 title: "Underwater LEDz" -- first test
-path: public/static/notes/donblair/06-18-2014/underwater-ledz-first-test.md
+tagnames: riffle, riffle-examples
+author: donblair
+path: /notes/donblair/06-18-2014/underwater-ledz-first-test.md
+nid: 10584
 uid: 43651
-tagnames: riffle,riffle-examples
+
 ---
 
 # "Underwater LEDz" -- first test
+
+by [donblair](../profile/donblair) June 18, 2014 12:39
+
+June 18, 2014 12:39 | Tags: [riffle](../tag/riffle), [riffle-examples](../tag/riffle-examples)
 
 ###What I want to do
 

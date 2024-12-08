@@ -1,12 +1,18 @@
 ---
-nid: 18317
 title: 'Smartphone App for Residential Testing of Formaldehyde' Paper published (Open Access)
-path: public/static/notes/nshapiro/02-08-2019/smartphone-app-for-residential-testing-of-formaldehyde-paper-published-open-access.md
+tagnames: air-quality, publication, colorimetric, with:gretchengehrke, indoor-air, smart-form, air-sensors, with:haines241
+author: nshapiro
+path: /notes/nshapiro/02-08-2019/smartphone-app-for-residential-testing-of-formaldehyde-paper-published-open-access.md
+nid: 18317
 uid: 380298
-tagnames: air-quality,publication,colorimetric,with:gretchengehrke,indoor-air,smart-form,air-sensors,with:haines241
+
 ---
 
 # 'Smartphone App for Residential Testing of Formaldehyde' Paper published (Open Access)
+
+by [nshapiro](../profile/nshapiro) February 08, 2019 18:51
+
+February 08, 2019 18:51 | Tags: [air-quality](../tag/air-quality), [publication](../tag/publication), [colorimetric](../tag/colorimetric), [with:gretchengehrke](../tag/with:gretchengehrke), [indoor-air](../tag/indoor-air), [smart-form](../tag/smart-form), [air-sensors](../tag/air-sensors), [with:haines241](../tag/with:haines241)
 
 We're excited to announce that the exposure chamber validation and field test of our open-source and low-cost formaldehyde monitoring system has been published in _Building & Environment_. [Here](https://www.sciencedirect.com/science/article/pii/S0360132318307248) is a link to the open access article. With the abstract and highlights below.
 

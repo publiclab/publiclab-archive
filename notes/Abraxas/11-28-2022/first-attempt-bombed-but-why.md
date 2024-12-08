@@ -1,12 +1,18 @@
 ---
-nid: 37872
 title: First Attempt Bombed... But Why ?
-path: public/static/notes/Abraxas/11-28-2022/first-attempt-bombed-but-why.md
+tagnames: spectrometer, spectrometry, first-time-poster
+author: Abraxas
+path: /notes/Abraxas/11-28-2022/first-attempt-bombed-but-why.md
+nid: 37872
 uid: 822105
-tagnames: spectrometer,spectrometry,first-time-poster
+
 ---
 
 # First Attempt Bombed... But Why ?
+
+by [Abraxas](../profile/Abraxas) November 28, 2022 13:25
+
+November 28, 2022 13:25 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [first-time-poster](../tag/first-time-poster)
 
 Well I used my 3D printer, machine shop and tried to make an approximation of the device suggested here and I get absolutely nothing. 
 

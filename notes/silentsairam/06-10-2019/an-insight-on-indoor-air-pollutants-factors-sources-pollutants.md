@@ -1,12 +1,18 @@
 ---
-nid: 19653
 title: An Insight on Indoor Air Pollutants: Factors, Sources & Pollutants.
-path: public/static/notes/silentsairam/06-10-2019/an-insight-on-indoor-air-pollutants-factors-sources-pollutants.md
+tagnames: air-quality, formaldehyde, indoor-air-quality, indoor-air, lat:10.768555, lon:78.815917
+author: silentsairam
+path: /notes/silentsairam/06-10-2019/an-insight-on-indoor-air-pollutants-factors-sources-pollutants.md
+nid: 19653
 uid: 553044
-tagnames: air-quality,formaldehyde,indoor-air-quality,indoor-air,lat:10.768555,lon:78.815917
+
 ---
 
 # An Insight on Indoor Air Pollutants: Factors, Sources & Pollutants.
+
+by [silentsairam](../profile/silentsairam) June 10, 2019 18:27
+
+June 10, 2019 18:27 | Tags: [air-quality](../tag/air-quality), [formaldehyde](../tag/formaldehyde), [indoor-air-quality](../tag/indoor-air-quality), [indoor-air](../tag/indoor-air), [lat:10.768555](../tag/lat:10.768555), [lon:78.815917](../tag/lon:78.815917)
 
 This Research has been carried out with [nshapiro](https://publiclab.org/profile/nshapiro#2/34.0/-118.0/BL1) & Solve Ninjas [Saujanya](https://publiclab.org/profile/Saujanya), [Taanika](https://publiclab.org/profile/Taanika2001) of [ReapBenefit](http://www.reapbenefit.org) , an organization that solves Local Civic & Environmental issues in India with Youngsters as part of Remediation Kit Project for Indoor Air Quality.
 

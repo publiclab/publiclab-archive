@@ -1,12 +1,18 @@
 ---
-nid: 9691
 title: Red vs. blue filters for NDVI
-path: public/static/notes/nedhorning/10-30-2013/red-vs-blue-filters-for-ndvi.md
+tagnames: near-infrared-camera, ndvi, calibration, infrared, infragram, infrablue, wratten25a, super-red, red-vs-blue
+author: nedhorning
+path: /notes/nedhorning/10-30-2013/red-vs-blue-filters-for-ndvi.md
+nid: 9691
 uid: 133
-tagnames: near-infrared-camera,ndvi,calibration,infrared,infragram,infrablue,wratten25a,super-red,red-vs-blue
+
 ---
 
 # Red vs. blue filters for NDVI
+
+by [nedhorning](../profile/nedhorning) October 30, 2013 19:07
+
+October 30, 2013 19:07 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [calibration](../tag/calibration), [infrared](../tag/infrared), [infragram](../tag/infragram), [infrablue](../tag/infrablue), [wratten25a](../tag/wratten25a), [super-red](../tag/super-red), [red-vs-blue](../tag/red-vs-blue)
 
 While working on [calibration techniques](http://publiclab.org/notes/nedhorning/10-21-2013/calibrating-diy-nir-cameras-part-1) to improve the quality of DIY NDVI images I noticed that after calibrating the blue and near-infrared (NIR) bands from InfraBlue photos there was not as much difference between green grass and non-photosynthetic material like leaves, dead grass, wood and cardboard as I would have expected. To understand why this was happening I looked at the reflectance spectra for different materials and noticed that when using blue wavelengths instead of red the contrast in NDVI between photosynthetic and non-photosynthetic material is greatly reduced. In remote sensing contrast is very important to improve photo interpretation and classification. This discovery was a little perplexing since some of the InfraBlue images I had seen in the past year seemed to produce half-decent NDVI images. It also got me thinking that perhaps blue filters were not ideal for making NDVI images. 
 

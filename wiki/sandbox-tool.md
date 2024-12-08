@@ -1,12 +1,18 @@
 ---
-nid: 12958
 title: sandbox-tool
-path: public/static/wiki/sandbox-tool.md
-uid: 7
 tagnames: 
+author: liz
+path: /wiki/sandbox-tool.md
+nid: 12958
+uid: 7
+
 ---
 
 # sandbox-tool
+
+by [liz](../profile/liz)
+
+April 11, 2016 17:00 | Tags: 
 
 OPTION 1  
 

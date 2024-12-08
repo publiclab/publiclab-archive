@@ -1,12 +1,18 @@
 ---
-nid: 9738
 title: Infragram Webcam testing update
-path: public/static/notes/warren/11-06-2013/infragram-webcam-testing-update.md
+tagnames: near-infrared-camera, kickstarter, infragram
+author: warren
+path: /notes/warren/11-06-2013/infragram-webcam-testing-update.md
+nid: 9738
 uid: 1
-tagnames: near-infrared-camera,kickstarter,infragram
+
 ---
 
 # Infragram Webcam testing update
+
+by [warren](../profile/warren) November 06, 2013 17:29
+
+November 06, 2013 17:29 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [kickstarter](../tag/kickstarter), [infragram](../tag/infragram)
 
 This has been taking a while since they are shipping us samples as they attempt the webcam conversions, but we finally confirmed that they can do the conversion and they sent us the above sample photograph (the webcam itself is in the mail). Looking good! 
 

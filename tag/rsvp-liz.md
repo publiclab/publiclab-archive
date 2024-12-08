@@ -1,6 +1,6 @@
 # rsvp-liz
 
-11 notes and wiki pages
+11 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Northshore Staten Island mapstitching event!](/notes/liz/07-23-2014/northshore-staten-island-mapstitching-event) by [liz](../profile/liz)
 - [GLAM Event](/notes/yvv/09-18-2014/glam-event) by [yvv](../profile/yvv)

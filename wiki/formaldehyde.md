@@ -1,12 +1,18 @@
 ---
-nid: 14924
 title: Formaldehyde
-path: public/static/wiki/formaldehyde.md
+tagnames: air-quality, formaldehyde, indoor-air-quality, parent:indoor-air-quality-monitoring
+author: gretchengehrke
+path: /wiki/formaldehyde.md
+nid: 14924
 uid: 430549
-tagnames: air-quality,formaldehyde,indoor-air-quality,parent:indoor-air-quality-monitoring
+
 ---
 
 # Formaldehyde
+
+by [gretchengehrke](../profile/gretchengehrke)
+
+September 20, 2017 21:19 | Tags: [air-quality](../tag/air-quality), [formaldehyde](../tag/formaldehyde), [indoor-air-quality](../tag/indoor-air-quality), [parent:indoor-air-quality-monitoring](../tag/parent:indoor-air-quality-monitoring)
 
 Formaldehyde is a colorless, flammable gas that can be carcinogenic to humans, and is a common additive to building materials and household products. Formaldehyde is also formed in the environment upon oxidation of a variety of hydrocarbons, including natural gas (methane). Symptoms of exposure to low concentrations of formaldehyde may include headache, nausea, throat and skin irritation, and exacerbated chemical sensitivity.  For a quick summary of formaldehyde exposure basics, please see the [ASTDR’s ToxFAQs for Formaldehyde](https://www.atsdr.cdc.gov/toxfaqs/TF.asp?id=219&tid=39). For much more in-depth information, please see the [ASTDR’s Toxicological Profile for Formaldehyde](https://www.atsdr.cdc.gov/toxprofiles/tp.asp?id=220&tid=39). 
 

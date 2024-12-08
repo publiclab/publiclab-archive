@@ -1,12 +1,18 @@
 ---
-nid: 13170
 title: Reflecting on the Depth Sensor Build
-path: public/static/notes/stevie/06-06-2016/reflecting-on-the-depth-sensor-build.md
+tagnames: gulf-coast, water, neworleans, flood, stormwater, gulfcoast, with:mimibell, depth
+author: stevie
+path: /notes/stevie/06-06-2016/reflecting-on-the-depth-sensor-build.md
+nid: 13170
 uid: 422561
-tagnames: gulf-coast,water,neworleans,flood,stormwater,gulfcoast,with:mimibell,depth
+
 ---
 
 # Reflecting on the Depth Sensor Build
+
+by [stevie](../profile/stevie) June 06, 2016 14:31
+
+June 06, 2016 14:31 | Tags: [gulf-coast](../tag/gulf-coast), [water](../tag/water), [neworleans](../tag/neworleans), [flood](../tag/flood), [stormwater](../tag/stormwater), [gulfcoast](../tag/gulfcoast), [with:mimibell](../tag/with:mimibell), [depth](../tag/depth)
 
 May 16-19, 2016, Propeller, Public Lab, IDIYA, and Water Works hosted an event to invite community members to participate in a flood sensor build challenge. The premise was that flood sensing could help the City of New Orleans track where street flooding is occurring throughout the city, which will help public safety, City services, and the community stay safe and make informed decisions during rainstorms. (For background information on this issue see the [Depth/Flood sensing in New Orleans wiki](https://publiclab.org/wiki/depth-flood-sensing-in-new-orleans))
 

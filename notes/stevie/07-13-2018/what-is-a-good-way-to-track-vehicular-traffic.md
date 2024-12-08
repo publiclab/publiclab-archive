@@ -1,12 +1,18 @@
 ---
-nid: 16712
 title: What is a good way to track vehicular traffic?
-path: public/static/notes/stevie/07-13-2018/what-is-a-good-way-to-track-vehicular-traffic.md
+tagnames: transportation, answered, question:pm, question:general, question:permits, question:dust, question:legal, with:ramseysprague, question:gravel, question:asphalt, question:visual-data, question:mobile, question:traffic, question:transportation, law-and-policy, question:law-and-policy
+author: stevie
+path: /notes/stevie/07-13-2018/what-is-a-good-way-to-track-vehicular-traffic.md
+nid: 16712
 uid: 422561
-tagnames: transportation,answered,question:pm,question:general,question:permits,question:dust,question:legal,with:ramseysprague,question:gravel,question:asphalt,question:visual-data,question:mobile,question:traffic,question:transportation,law-and-policy,question:law-and-policy
+
 ---
 
 # What is a good way to track vehicular traffic?
+
+by [stevie](../profile/stevie) July 13, 2018 17:19
+
+July 13, 2018 17:19 | Tags: [transportation](../tag/transportation), [answered](../tag/answered), [question:pm](../tag/question:pm), [question:general](../tag/question:general), [question:permits](../tag/question:permits), [question:dust](../tag/question:dust), [question:legal](../tag/question:legal), [with:ramseysprague](../tag/with:ramseysprague), [question:gravel](../tag/question:gravel), [question:asphalt](../tag/question:asphalt), [question:visual-data](../tag/question:visual-data), [question:mobile](../tag/question:mobile), [question:traffic](../tag/question:traffic), [question:transportation](../tag/question:transportation), [law-and-policy](../tag/law-and-policy), [question:law-and-policy](../tag/question:law-and-policy)
 
 I've been speaking with a community member in Mobile County, Alabama who has been struggling with an adjacent gravel and asphalt processing facilities, and the dust their trucks cause around his home.
 

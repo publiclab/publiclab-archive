@@ -1,12 +1,18 @@
 ---
-nid: 15268
 title: How should i go about converting svgs to jpgs or pngs
-path: public/static/notes/Flameytail/11-30-2017/how-should-i-go-about-converting-svgs-to-jpgs-or-pngs.md
+tagnames: spectrometer, spectralworkbench, spectrometry, software, spectral-workbench, tool, question:spectral-workbench, question:general, method
+author: Flameytail
+path: /notes/Flameytail/11-30-2017/how-should-i-go-about-converting-svgs-to-jpgs-or-pngs.md
+nid: 15268
 uid: 519494
-tagnames: spectrometer,spectralworkbench,spectrometry,software,spectral-workbench,tool,question:spectral-workbench,question:general,method
+
 ---
 
 # How should i go about converting svgs to jpgs or pngs
+
+by [Flameytail](../profile/Flameytail) November 30, 2017 05:27
+
+November 30, 2017 05:27 | Tags: [spectrometer](../tag/spectrometer), [spectralworkbench](../tag/spectralworkbench), [spectrometry](../tag/spectrometry), [software](../tag/software), [spectral-workbench](../tag/spectral-workbench), [tool](../tag/tool), [question:spectral-workbench](../tag/question:spectral-workbench), [question:general](../tag/question:general), [method](../tag/method)
 
 I am using this tool co calibrate fire test colors for our schools science fair. I need to create a science fair board  and i need to print out the readings. i dont need it to be super accurate just to have a definite measure- ability. i am extremely new to this so dont judge
 

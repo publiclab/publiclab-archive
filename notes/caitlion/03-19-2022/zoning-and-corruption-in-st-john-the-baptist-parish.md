@@ -1,12 +1,18 @@
 ---
-nid: 30158
 title: Zoning and Corruption in St. John the Baptist Parish
-path: public/static/notes/caitlion/03-19-2022/zoning-and-corruption-in-st-john-the-baptist-parish.md
+tagnames: gulf-coast, louisiana, land-use, zoning, zoom:6, law-and-policy, st-james, formosaplastics, lat:30.111833, lon:-90.487991
+author: caitlion
+path: /notes/caitlion/03-19-2022/zoning-and-corruption-in-st-john-the-baptist-parish.md
+nid: 30158
 uid: 780686
-tagnames: gulf-coast,louisiana,land-use,zoning,zoom:6,law-and-policy,st-james,formosaplastics,lat:30.111833,lon:-90.487991
+
 ---
 
 # Zoning and Corruption in St. John the Baptist Parish
+
+by [caitlion](../profile/caitlion) March 19, 2022 19:27
+
+March 19, 2022 19:27 | Tags: [gulf-coast](../tag/gulf-coast), [louisiana](../tag/louisiana), [land-use](../tag/land-use), [zoning](../tag/zoning), [zoom:6](../tag/zoom:6), [law-and-policy](../tag/law-and-policy), [st-james](../tag/st-james), [formosaplastics](../tag/formosaplastics), [lat:30.111833](../tag/lat:30.111833), [lon:-90.487991](../tag/lon:-90.487991)
 
 When public officials break our trust, we often see them and their actions in a different light. And when public officials really betray our trust, to the tune of corruption, money laundering, and insider deals, everything they accomplished is now suspect and should be  searched for hidden motives. Lester Millet is one of those types of officials. While serving as Parish President for St. John the Baptist Parish, Millet was finding ways to enrich and involve himself at every turn. One of his crooked decisions from 1990 is still haunting the parish today. 
 

@@ -1,12 +1,18 @@
 ---
-nid: 7915
 title: Silvopasture
-path: public/static/notes/cfastie/5-25-2013/silvopasture.md
+tagnames: near-infrared-camera, kite-mapping, nrg, ndvi, vermont, infrared, new-hampshire, farmhack, imagej, agriculture, event, infragram, ifarm, infrablue, gigapan, ifarm2013
+author: cfastie
+path: /notes/cfastie/5-25-2013/silvopasture.md
+nid: 7915
 uid: 554
-tagnames: near-infrared-camera,kite-mapping,nrg,ndvi,vermont,infrared,new-hampshire,farmhack,imagej,agriculture,event,infragram,ifarm,infrablue,gigapan,ifarm2013
+
 ---
 
 # Silvopasture
+
+by [cfastie](../profile/cfastie) May 25, 2013 18:40
+
+May 25, 2013 18:40 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [nrg](../tag/nrg), [ndvi](../tag/ndvi), [vermont](../tag/vermont), [infrared](../tag/infrared), [new-hampshire](../tag/new-hampshire), [farmhack](../tag/farmhack), [imagej](../tag/imagej), [agriculture](../tag/agriculture), [event](../tag/event), [infragram](../tag/infragram), [ifarm](../tag/ifarm), [infrablue](../tag/infrablue), [gigapan](../tag/gigapan), [ifarm2013](../tag/ifarm2013)
 
 <p><em>Image above: New England cottontail habitat created by clearcutting forest along a stream. Native shrubs will be planted to form a wetland shrub thicket to encourage the rare rabbit.</p></em>
 

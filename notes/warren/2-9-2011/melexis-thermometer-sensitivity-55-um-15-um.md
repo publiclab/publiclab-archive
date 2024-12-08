@@ -1,12 +1,18 @@
 ---
-nid: 80
 title: Melexis thermometer sensitivity is 5.5 um to 15 um
-path: public/static/notes/warren/2-9-2011/melexis-thermometer-sensitivity-55-um-15-um.md
+tagnames: thermal-photography, thermal-camera, pyrex, lenses, melexis
+author: warren
+path: /notes/warren/2-9-2011/melexis-thermometer-sensitivity-55-um-15-um.md
+nid: 80
 uid: 1
-tagnames: thermal-photography,thermal-camera,pyrex,lenses,melexis
+
 ---
 
 # Melexis thermometer sensitivity is 5.5 um to 15 um
+
+by [warren](../profile/warren) February 09, 2011 20:42
+
+February 09, 2011 20:42 | Tags: [thermal-photography](../tag/thermal-photography), [thermal-camera](../tag/thermal-camera), [pyrex](../tag/pyrex), [lenses](../tag/lenses), [melexis](../tag/melexis)
 
 There's a great thread on lenses for IR thermometers here:
 

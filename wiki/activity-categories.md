@@ -1,12 +1,18 @@
 ---
-nid: 13412
 title: Activity Categories 
-path: public/static/wiki/activity-categories.md
+tagnames: with:warren, with:liz, activity-grids, with:abdul, category:observe
+author: gretchengehrke
+path: /wiki/activity-categories.md
+nid: 13412
 uid: 430549
-tagnames: with:warren,with:liz,activity-grids,with:abdul,category:observe
+
 ---
 
 # Activity Categories 
+
+by [gretchengehrke](../profile/gretchengehrke)
+
+September 02, 2016 22:24 | Tags: [with:warren](../tag/with:warren), [with:liz](../tag/with:liz), [activity-grids](../tag/activity-grids), [with:abdul](../tag/with:abdul), [category:observe](../tag/category:observe)
 
 ###Intro to Activity Categories
 In an effort to make our collective work more organized, inviting, and replicable, we're encouraging people to categorize their Public Lab research activities to help flesh out these [activity grids](https://publiclab.org/notes/liz/08-30-2016/check-out-these-activity-grids). Here we've listed seven different kinds of activities and included a description of what sort of work comprises a given category, and what sort of documentation should be included. Feel free to edit this page to expand and improve upon these category descriptions!  

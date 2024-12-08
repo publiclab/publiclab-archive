@@ -1,12 +1,18 @@
 ---
-nid: 14799
 title: Interview: Nayamin Martinez and Gustavo Aguirre Jr.
-path: public/static/notes/stevie/08-30-2017/interview-nayamin-martinez-and-gustavo-aguirre-jr.md
+tagnames: california, interview, blog, ccejn, san_joaquin_valley, val-verde, community-organizing, interview-series, central-valley, ca, regional-barnraising, series:community-interviews
+author: stevie
+path: /notes/stevie/08-30-2017/interview-nayamin-martinez-and-gustavo-aguirre-jr.md
+nid: 14799
 uid: 422561
-tagnames: california,interview,blog,ccejn,san_joaquin_valley,val-verde,community-organizing,interview-series,central-valley,ca,regional-barnraising,series:community-interviews
+
 ---
 
 # Interview: Nayamin Martinez and Gustavo Aguirre Jr.
+
+by [stevie](../profile/stevie) August 30, 2017 15:23
+
+August 30, 2017 15:23 | Tags: [california](../tag/california), [interview](../tag/interview), [blog](../tag/blog), [ccejn](../tag/ccejn), [san_joaquin_valley](../tag/san_joaquin_valley), [val-verde](../tag/val-verde), [community-organizing](../tag/community-organizing), [interview-series](../tag/interview-series), [central-valley](../tag/central-valley), [ca](../tag/ca), [regional-barnraising](../tag/regional-barnraising), [series:community-interviews](../tag/series:community-interviews)
 
 The [Central California Environmental Justice Network (CCEJN)](https://ccejn.wordpress.com/) is  a group with member organizations across the Central Valley whose mission is “to preserve our natural resources now and in the future, by seeking better ways to minimize or eliminate environmental degradation in Central Valley communities.  This is crucial because rural communities in California’s Central Valley suffer a disproportionate amount of negative health, social and financial impacts.” 
 

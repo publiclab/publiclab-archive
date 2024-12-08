@@ -1,12 +1,18 @@
 ---
-nid: 14679
 title: Exporting GoogleGroups
-path: public/static/notes/bsugar/07-25-2017/exporting-googlegroups.md
+tagnames: community-metrics, community-mapping, mailing-lists, evaluation, activity:evaluation
+author: bsugar
+path: /notes/bsugar/07-25-2017/exporting-googlegroups.md
+nid: 14679
 uid: 217812
-tagnames: community-metrics,community-mapping,mailing-lists,evaluation,activity:evaluation
+
 ---
 
 # Exporting GoogleGroups
+
+by [bsugar](../profile/bsugar) July 25, 2017 07:52
+
+July 25, 2017 07:52 | Tags: [community-metrics](../tag/community-metrics), [community-mapping](../tag/community-mapping), [mailing-lists](../tag/mailing-lists), [evaluation](../tag/evaluation), [activity:evaluation](../tag/activity:evaluation)
 
 ---------
 

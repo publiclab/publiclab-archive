@@ -1,12 +1,18 @@
 ---
-nid: 2301
 title: Posting research
-path: public/static/wiki/posting-research.md
+tagnames: help, how-to, needs-revision, posting, parent:authoring-help, location:blurred, lat:22.755, lon:77.723, contribute
+author: warren
+path: /wiki/posting-research.md
+nid: 2301
 uid: 1
-tagnames: help,how-to,needs-revision,posting,parent:authoring-help,location:blurred,lat:22.755,lon:77.723,contribute
+
 ---
 
 # Posting research
+
+by [laurel_mire](../profile/laurel_mire), [liz](../profile/liz), [bsugar](../profile/bsugar), [warren](../profile/warren), [cfastie](../profile/cfastie)
+
+June 01, 2012 19:38 | Tags: [help](../tag/help), [how-to](../tag/how-to), [needs-revision](../tag/needs-revision), [posting](../tag/posting), [parent:authoring-help](../tag/parent:authoring-help), [location:blurred](../tag/location:blurred), [lat:22.755](../tag/lat:22.755), [lon:77.723](../tag/lon:77.723), [contribute](../tag/contribute)
 
 <p class="lead">Why post? Research notes are the crux of Public Lab's collaborative process.</p>
 

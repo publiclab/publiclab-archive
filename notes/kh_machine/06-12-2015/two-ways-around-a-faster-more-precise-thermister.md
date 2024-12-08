@@ -1,12 +1,18 @@
 ---
-nid: 11977
 title: Two Ways Around a Faster, More Precise Thermister
-path: public/static/notes/kh_machine/06-12-2015/two-ways-around-a-faster-more-precise-thermister.md
+tagnames: water-quality, thermal-fishing-bob
+author: kh_machine
+path: /notes/kh_machine/06-12-2015/two-ways-around-a-faster-more-precise-thermister.md
+nid: 11977
 uid: 443618
-tagnames: water-quality,thermal-fishing-bob
+
 ---
 
 # Two Ways Around a Faster, More Precise Thermister
+
+by [kh_machine](../profile/kh_machine) June 12, 2015 21:24
+
+June 12, 2015 21:24 | Tags: [water-quality](../tag/water-quality), [thermal-fishing-bob](../tag/thermal-fishing-bob)
 
 ###Potential Problems
 During the recent Thermal Fishing Bob Workshop (Northeastern U), two potential problems were discussed:

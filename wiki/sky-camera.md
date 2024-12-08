@@ -1,12 +1,18 @@
 ---
-nid: 9322
 title: Sky Camera
-path: public/static/wiki/sky-camera.md
+tagnames: balloon-mapping, kite-mapping, camera-triggering, android, kap, gsoc, gsoc-2013, skycam, gsoc-2014
+author: warren
+path: /wiki/sky-camera.md
+nid: 9322
 uid: 1
-tagnames: balloon-mapping,kite-mapping,camera-triggering,android,kap,gsoc,gsoc-2013,skycam,gsoc-2014
+
 ---
 
 # Sky Camera
+
+by [mercyorangi](../profile/mercyorangi), [warren](../profile/warren), [Mohit](../profile/Mohit)
+
+September 12, 2013 21:38 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [camera-triggering](../tag/camera-triggering), [android](../tag/android), [kap](../tag/kap), [gsoc](../tag/gsoc), [gsoc-2013](../tag/gsoc-2013), [skycam](../tag/skycam), [gsoc-2014](../tag/gsoc-2014)
 
 [![IMG_20130912_190456.jpg](https://i.publiclab.org/system/images/photos/000/001/540/medium/IMG_20130912_190456.jpg)](https://i.publiclab.org/system/images/photos/000/001/540/original/IMG_20130912_190456.jpg) [![sky-cam.png](https://i.publiclab.org/system/images/photos/000/002/316/thumb/sky-cam.png)](https://i.publiclab.org/system/images/photos/000/002/316/original/sky-cam.png)
 

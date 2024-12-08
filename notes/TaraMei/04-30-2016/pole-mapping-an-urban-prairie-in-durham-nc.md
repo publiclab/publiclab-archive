@@ -1,12 +1,18 @@
 ---
-nid: 13054
 title: Pole Mapping an Urban Prairie in Durham, NC
-path: public/static/notes/TaraMei/04-30-2016/pole-mapping-an-urban-prairie-in-durham-nc.md
+tagnames: polemapping, pole-photography, pole-aerial-photography, pole-mapping, southeast
+author: taramei
+path: /notes/TaraMei/04-30-2016/pole-mapping-an-urban-prairie-in-durham-nc.md
+nid: 13054
 uid: 455825
-tagnames: polemapping,pole-photography,pole-aerial-photography,pole-mapping,southeast
+
 ---
 
 # Pole Mapping an Urban Prairie in Durham, NC
+
+by [taramei](../profile/taramei) April 30, 2016 16:20
+
+April 30, 2016 16:20 | Tags: [polemapping](../tag/polemapping), [pole-photography](../tag/pole-photography), [pole-aerial-photography](../tag/pole-aerial-photography), [pole-mapping](../tag/pole-mapping), [southeast](../tag/southeast)
 
 Justin and Tara Mei's first attempt to Pole Map Prairie Island. 
 

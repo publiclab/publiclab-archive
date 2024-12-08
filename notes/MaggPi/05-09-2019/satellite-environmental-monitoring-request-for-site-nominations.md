@@ -1,12 +1,18 @@
 ---
-nid: 19272
 title: Satellite Environmental Monitoring / Request for Site Nominations 
-path: public/static/notes/MaggPi/05-09-2019/satellite-environmental-monitoring-request-for-site-nominations.md
+tagnames: balloon-mapping, kite-mapping, ndvi, mapknitter, infrared, infragram, landsat, aerial-mapping, satellite, gsoc-2019, soc-2019, planet, qgis
+author: MaggPi
+path: /notes/MaggPi/05-09-2019/satellite-environmental-monitoring-request-for-site-nominations.md
+nid: 19272
 uid: 501996
-tagnames: balloon-mapping,kite-mapping,ndvi,mapknitter,infrared,infragram,landsat,aerial-mapping,satellite,gsoc-2019,soc-2019,planet,qgis
+
 ---
 
 # Satellite Environmental Monitoring / Request for Site Nominations 
+
+by [MaggPi](../profile/MaggPi) May 08, 2019 01:13
+
+May 08, 2019 01:13 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [ndvi](../tag/ndvi), [mapknitter](../tag/mapknitter), [infrared](../tag/infrared), [infragram](../tag/infragram), [landsat](../tag/landsat), [aerial-mapping](../tag/aerial-mapping), [satellite](../tag/satellite), [gsoc-2019](../tag/gsoc-2019), [soc-2019](../tag/soc-2019), [planet](../tag/planet), [qgis](../tag/qgis)
 
 **Satellite Environmental Monitoring / Request for Site Nominations**  
 

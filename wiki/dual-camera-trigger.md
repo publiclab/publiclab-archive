@@ -1,12 +1,18 @@
 ---
-nid: 1923
 title: dual camera trigger
-path: public/static/wiki/dual-camera-trigger.md
+tagnames: balloon-mapping, kite-mapping, triggering
+author: mathew
+path: /wiki/dual-camera-trigger.md
+nid: 1923
 uid: 4
-tagnames: balloon-mapping,kite-mapping,triggering
+
 ---
 
 # dual camera trigger
+
+by [mathew](../profile/mathew), [cfastie](../profile/cfastie)
+
+May 07, 2012 23:33 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [triggering](../tag/triggering)
 
 Jeffrey Warren has extensively investigated using 555 circuits to trigger cameras via CHDK.  This appears to be the least expensive option, [his notes are here](/wiki/dual-camera-kit-electronics).  
 

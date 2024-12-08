@@ -1,12 +1,18 @@
 ---
-nid: 226
 title: Map Formats
-path: public/static/wiki/map-formats.md
-uid: 1
 tagnames: 
+author: warren
+path: /wiki/map-formats.md
+nid: 226
+uid: 1
+
 ---
 
 # Map Formats
+
+by [warren](../profile/warren)
+
+May 06, 2011 19:01 | Tags: 
 
 ##What to download##
 

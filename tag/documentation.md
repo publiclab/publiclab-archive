@@ -1,6 +1,6 @@
 # documentation
 
-35 notes and wiki pages
+35 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Spectrometer FAQ](/wiki/spectrometer-faq) (wiki)
 - [Keeping it easy, making it awesome: open source documentation](/notes/warren/6-20-2012/keeping-it-easy-making-it-awesome-open-source-documentation) by [warren](../profile/warren)
@@ -23,7 +23,6 @@
 - [What's happening at the 2017 Barnraising?](/notes/warren/11-03-2017/what-s-happening-at-the-2017-barnraising) by [warren](../profile/warren)
 - [How to best write a debrief of a session at Barnraising?](/notes/pdhixenbaugh/11-04-2017/how-to-best-write-a-debrief-of-a-session-at-barnraising) by [pdhixenbaugh](../profile/pdhixenbaugh)
 - [What are good ways to capture outputs and notes at events? ](/notes/stevie/12-15-2017/what-are-good-ways-to-capture-outputs-and-notes-at-events) by [stevie](../profile/stevie)
-- [Residue on Fruits Veggies Fertility in Women](/notes/finddoctor24/12-23-2017/residue-on-fruits-veggies-fertility-in-women) by [finddoctor24](../profile/finddoctor24)
 - [Collaboratively document an event with a mini newspaper](/notes/warren/03-20-2018/collaboratively-document-an-event-with-a-mini-newspaper) by [warren](../profile/warren)
 - [Integrating User instructions into the Community Microscope build materials](/notes/jiteovien/07-09-2018/integrating-user-instructions-into-the-community-microscope-build-materials) by [jiteovien](../profile/jiteovien)
 - [UNESCO low cost equipment volumes](/notes/imvec/08-01-2018/unesco-low-cost-equipment-volumes) by [imvec](../profile/imvec)

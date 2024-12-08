@@ -1,12 +1,18 @@
 ---
-nid: 15077
 title: Smartphone Spectrometer
-path: public/static/notes/omarormachea/10-20-2017/smartphone-spectrometer.md
+tagnames: spectrometer, spectrometry, smartphone-spectrometer
+author: omarormachea
+path: /notes/omarormachea/10-20-2017/smartphone-spectrometer.md
+nid: 15077
 uid: 426114
-tagnames: spectrometer,spectrometry,smartphone-spectrometer
+
 ---
 
 # Smartphone Spectrometer
+
+by [omarormachea](../profile/omarormachea) October 20, 2017 20:58
+
+October 20, 2017 20:58 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [smartphone-spectrometer](../tag/smartphone-spectrometer)
 
 The aim of the project is to develope a miniaturized low-cost spectrometer that uses the camera of an Android Smatphone and processes the images in our spectrometry software (Android App).
 

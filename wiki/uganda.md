@@ -1,12 +1,18 @@
 ---
-nid: 11155
 title: uganda
-path: public/static/wiki/uganda.md
+tagnames: uganda, africa
+author: liz
+path: /wiki/uganda.md
+nid: 11155
 uid: 7
-tagnames: uganda,africa
+
 ---
 
 # uganda
+
+by [mlamadrid](../profile/mlamadrid), [liz](../profile/liz)
+
+September 18, 2014 13:50 | Tags: [uganda](../tag/uganda), [africa](../tag/africa)
 
 Work by [mlamadrid](https://mapknitter.org/author/mlamadrid)
 

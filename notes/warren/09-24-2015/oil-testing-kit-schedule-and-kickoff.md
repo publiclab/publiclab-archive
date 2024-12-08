@@ -1,12 +1,18 @@
 ---
-nid: 12239
 title: Oil Testing Kit Schedule and Kickoff
-path: public/static/notes/warren/09-24-2015/oil-testing-kit-schedule-and-kickoff.md
+tagnames: spectrometer, oil-testing, oil-testing-kit, homebrew-oil-testing-kit, otk, homebrew, response:12123
+author: warren
+path: /notes/warren/09-24-2015/oil-testing-kit-schedule-and-kickoff.md
+nid: 12239
 uid: 1
-tagnames: spectrometer,oil-testing,oil-testing-kit,homebrew-oil-testing-kit,otk,homebrew,response:12123
+
 ---
 
 # Oil Testing Kit Schedule and Kickoff
+
+by [warren](../profile/warren) September 24, 2015 03:01
+
+September 24, 2015 03:01 | Tags: [spectrometer](../tag/spectrometer), [oil-testing](../tag/oil-testing), [oil-testing-kit](../tag/oil-testing-kit), [homebrew-oil-testing-kit](../tag/homebrew-oil-testing-kit), [otk](../tag/otk), [homebrew](../tag/homebrew), [response:12123](../tag/response:12123)
 
 Hi, all! We're glad to see that folks are receiving the last part of their OTKs, and starting to assemble them! Please be careful with your lasers -- check out this [laser warning notice](/wiki/edit/oil-testing-kit-warning) for more advice on safe usage. (And thanks to @Craig for the lead image of his unboxing!)
 

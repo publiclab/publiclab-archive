@@ -1,12 +1,18 @@
 ---
-nid: 1781
 title: NDVI from the PLOTS IR camera kit
-path: public/static/wiki/ndvi-plots-ir-kit.md
+tagnames: balloon-mapping, near-infrared-camera, kite-mapping, nrg, ndvi, infrared, infragram, infrablue, parent:infragram, multispectral-imaging
+author: cfastie
+path: /wiki/ndvi-plots-ir-kit.md
+nid: 1781
 uid: 554
-tagnames: balloon-mapping,near-infrared-camera,kite-mapping,nrg,ndvi,infrared,infragram,infrablue,parent:infragram,multispectral-imaging
+
 ---
 
 # NDVI from the PLOTS IR camera kit
+
+by [cfastie](../profile/cfastie)
+
+April 25, 2012 17:33 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [nrg](../tag/nrg), [ndvi](../tag/ndvi), [infrared](../tag/infrared), [infragram](../tag/infragram), [infrablue](../tag/infrablue), [parent:infragram](../tag/parent:infragram), [multispectral-imaging](../tag/multispectral-imaging)
 
 *This page introduces the scientific background of NDVI and its application to the original [PLOTS visible/infrared camera tool](/wiki/dual-camera-kit-guide).*
 

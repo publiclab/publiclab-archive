@@ -1,6 +1,6 @@
 # vermont
 
-139 notes and wiki pages
+139 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [NIR proof of concept: Trout Lily](/wiki/nir-proof-concept-trout-lily) (wiki)
 - [Vermont Public Lab Organizing: Toxics Action Center and Public Lab!](/wiki/vermont-public-lab-organizing-toxics-action-center-and-public-lab) (wiki)

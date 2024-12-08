@@ -1,12 +1,18 @@
 ---
-nid: 15311
 title: Silver Linings of Community Science
-path: public/static/notes/mlamadrid/12-05-2017/silver-linings-of-community-science.md
+tagnames: water-quality, environment, landscape, with:gretchengehrke
+author: mlamadrid
+path: /notes/mlamadrid/12-05-2017/silver-linings-of-community-science.md
+nid: 15311
 uid: 45586
-tagnames: water-quality,environment,landscape,with:gretchengehrke
+
 ---
 
 # Silver Linings of Community Science
+
+by [mlamadrid](../profile/mlamadrid) December 05, 2017 23:41
+
+December 05, 2017 23:41 | Tags: [water-quality](../tag/water-quality), [environment](../tag/environment), [landscape](../tag/landscape), [with:gretchengehrke](../tag/with:gretchengehrke)
 
 Article by [Gretchen Gehrke](https://publiclab.org/profile/gretchengehrke), Public Lab for [Community Science Forum: Changing Environmental Governance Landscape](https://publiclab.org/forum)
 

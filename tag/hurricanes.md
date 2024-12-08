@@ -1,6 +1,6 @@
 # hurricanes
 
-10 notes and wiki pages
+10 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Harvey Response](/wiki/harvey) (wiki)
 - [Irma](/wiki/irma) (wiki)

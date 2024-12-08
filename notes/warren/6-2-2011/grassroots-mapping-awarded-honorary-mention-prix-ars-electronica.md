@@ -1,12 +1,18 @@
 ---
-nid: 317
 title: Grassroots Mapping awarded Honorary Mention at Prix Ars Electronica
-path: public/static/notes/warren/6-2-2011/grassroots-mapping-awarded-honorary-mention-prix-ars-electronica.md
+tagnames: media, award
+author: warren
+path: /notes/warren/6-2-2011/grassroots-mapping-awarded-honorary-mention-prix-ars-electronica.md
+nid: 317
 uid: 1
-tagnames: media,award
+
 ---
 
 # Grassroots Mapping awarded Honorary Mention at Prix Ars Electronica
+
+by [warren](../profile/warren) June 03, 2011 00:49
+
+June 03, 2011 00:49 | Tags: [media](../tag/media), [award](../tag/award)
 
 The Grassroots Mapping project was recently awarded an Honorary Mention at the 2011 Prix Ars Electronica:
 

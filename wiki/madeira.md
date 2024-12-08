@@ -1,12 +1,18 @@
 ---
-nid: 15375
 title: Madeira
-path: public/static/wiki/madeira.md
+tagnames: wetlands, event, soil, silica, eu, challenges, agricultural, fertilizer, microplastics, madeira, portugal
+author: warren
+path: /wiki/madeira.md
+nid: 15375
 uid: 1
-tagnames: wetlands,event,soil,silica,eu,challenges,agricultural,fertilizer,microplastics,madeira,portugal
+
 ---
 
 # Madeira
+
+by [warren](../profile/warren)
+
+December 15, 2017 14:05 | Tags: [wetlands](../tag/wetlands), [event](../tag/event), [soil](../tag/soil), [silica](../tag/silica), [eu](../tag/eu), [challenges](../tag/challenges), [agricultural](../tag/agricultural), [fertilizer](../tag/fertilizer), [microplastics](../tag/microplastics), [madeira](../tag/madeira), [portugal](../tag/portugal)
 
 A page to collect project documentation and open questions on a range of topics for a December workshop in Madeira.
 

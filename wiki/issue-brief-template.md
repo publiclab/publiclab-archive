@@ -1,12 +1,18 @@
 ---
-nid: 15139
 title: Issue Brief Template
-path: public/static/wiki/issue-brief-template.md
+tagnames: template, parent:templates
+author: stevie
+path: /wiki/issue-brief-template.md
+nid: 15139
 uid: 422561
-tagnames: template,parent:templates
+
 ---
 
 # Issue Brief Template
+
+by [liz](../profile/liz), [stevie](../profile/stevie), [warren](../profile/warren)
+
+November 01, 2017 18:48 | Tags: [template](../tag/template), [parent:templates](../tag/parent:templates)
 
 ### Introduction: 
 

@@ -1,12 +1,18 @@
 ---
-nid: 27606
 title: How to report pollution entering your local stormwater system in the US
-path: public/static/notes/bhamster/08-20-2021/how-to-report-pollution-entering-your-local-stormwater-system-in-the-us.md
+tagnames: reporting, epa, water-quality, stormwater, wastewater, activity:stormwater, activity:reporting, getting-started-wastewater, activity:wastewater, illicit-discharge, wastewater-advocacy
+author: bhamster
+path: /notes/bhamster/08-20-2021/how-to-report-pollution-entering-your-local-stormwater-system-in-the-us.md
+nid: 27606
 uid: 664477
-tagnames: reporting,epa,water-quality,stormwater,wastewater,activity:stormwater,activity:reporting,getting-started-wastewater,activity:wastewater,illicit-discharge,wastewater-advocacy
+
 ---
 
 # How to report pollution entering your local stormwater system in the US
+
+by [bhamster](../profile/bhamster) August 20, 2021 15:55
+
+August 20, 2021 15:55 | Tags: [reporting](../tag/reporting), [epa](../tag/epa), [water-quality](../tag/water-quality), [stormwater](../tag/stormwater), [wastewater](../tag/wastewater), [activity:stormwater](../tag/activity:stormwater), [activity:reporting](../tag/activity:reporting), [getting-started-wastewater](../tag/getting-started-wastewater), [activity:wastewater](../tag/activity:wastewater), [illicit-discharge](../tag/illicit-discharge), [wastewater-advocacy](../tag/wastewater-advocacy)
 
 _Lead image: [Andrew Wamboldt / KOMU](https://www.flickr.com/photos/12801018@N00/4683128554), [CC BY](https://creativecommons.org/licenses/by/2.0/)_
 

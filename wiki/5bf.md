@@ -1,12 +1,18 @@
 ---
-nid: 9456
 title: 5BF
-path: public/static/wiki/5bf.md
+tagnames: new-york-city, new-jersey, 5bf, community-garden, garden, food, adaptive-co-management, parent:gardening-toolkit, gardening-toolkit, category:weigh-produce, category:weigh, category:measure
+author: liz
+path: /wiki/5bf.md
+nid: 9456
 uid: 7
-tagnames: new-york-city,new-jersey,5bf,community-garden,garden,food,adaptive-co-management,parent:gardening-toolkit,gardening-toolkit,category:weigh-produce,category:weigh,category:measure
+
 ---
 
 # 5BF
+
+by [liz](../profile/liz)
+
+October 14, 2013 17:53 | Tags: [new-york-city](../tag/new-york-city), [new-jersey](../tag/new-jersey), [5bf](../tag/5bf), [community-garden](../tag/community-garden), [garden](../tag/garden), [food](../tag/food), [adaptive-co-management](../tag/adaptive-co-management), [parent:gardening-toolkit](../tag/parent:gardening-toolkit), [gardening-toolkit](../tag/gardening-toolkit), [category:weigh-produce](../tag/category:weigh-produce), [category:weigh](../tag/category:weigh), [category:measure](../tag/category:measure)
 
 _The above map depicts [Feedback Farms](http://www.feedbackfarms.com/) on Bergen Street, Brooklyn, in July 2013._
 

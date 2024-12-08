@@ -1,12 +1,18 @@
 ---
-nid: 17756
 title: Microbrews
-path: public/static/wiki/microbrews.md
+tagnames: providence, workshop, event, microscopes, community-microscope, lat:41.821478, lon:-71.415939
+author: warren
+path: /wiki/microbrews.md
+nid: 17756
 uid: 1
-tagnames: providence,workshop,event,microscopes,community-microscope,lat:41.821478,lon:-71.415939
+
 ---
 
 # Microbrews
+
+by [warren](../profile/warren)
+
+November 26, 2018 17:33 | Tags: [providence](../tag/providence), [workshop](../tag/workshop), [event](../tag/event), [microscopes](../tag/microscopes), [community-microscope](../tag/community-microscope), [lat:41.821478](../tag/lat:41.821478), [lon:-71.415939](../tag/lon:-71.415939)
 
 We are hosting a meet-up at AS220 Bar in Providence, RI, to look at tiny stuff over brews! DIY Microscopes and kits available.  Let's be real. Everything looks cool up close.  Come drop by!
 

@@ -1,12 +1,18 @@
 ---
-nid: 5978
 title: Muffles Junior College, Belize mapping sessions
-path: public/static/notes/patcoyle/2-14-2013/muffles-junior-college-belize-mapping-sessions-2.md
+tagnames: balloon-mapping, kite-mapping, belize, muffles, belizeopensource
+author: patcoyle
+path: /notes/patcoyle/2-14-2013/muffles-junior-college-belize-mapping-sessions-2.md
+nid: 5978
 uid: 77
-tagnames: balloon-mapping,kite-mapping,belize,muffles,belizeopensource
+
 ---
 
 # Muffles Junior College, Belize mapping sessions
+
+by [patcoyle](../profile/patcoyle) February 14, 2013 06:45
+
+February 14, 2013 06:45 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [belize](../tag/belize), [muffles](../tag/muffles), [belizeopensource](../tag/belizeopensource)
 
 I had been in email and phone contact and met Rafael Castillo, the faculty advisor, and the Environmental Club at the Muffles Junior College campus near Orange Walk Town. We had two kite aerial mapping sessions together and demonstrated Mapknitter.
 

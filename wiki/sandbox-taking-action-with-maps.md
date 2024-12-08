@@ -1,12 +1,18 @@
 ---
-nid: 26637
 title: sandbox-taking-action-with-maps
-path: public/static/wiki/sandbox-taking-action-with-maps.md
-uid: 664477
 tagnames: 
+author: bhamster
+path: /wiki/sandbox-taking-action-with-maps.md
+nid: 26637
+uid: 664477
+
 ---
 
 # sandbox-taking-action-with-maps
+
+by [bhamster](../profile/bhamster)
+
+May 18, 2021 18:27 | Tags: 
 
 _Most up-to-date published wiki with this material here: https://publiclab.org/wiki/advocacy-with-maps_
 

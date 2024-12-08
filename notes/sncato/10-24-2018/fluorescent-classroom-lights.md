@@ -1,11 +1,17 @@
 ---
-nid: 17379
 title: Fluorescent classroom lights
-path: public/static/notes/sncato/10-24-2018/fluorescent-classroom-lights.md
-uid: 556270
 tagnames: 
+author: sncato
+path: /notes/sncato/10-24-2018/fluorescent-classroom-lights.md
+nid: 17379
+uid: 556270
+
 ---
 
 # Fluorescent classroom lights
+
+by [sncato](../profile/sncato) October 24, 2018 15:58
+
+October 24, 2018 15:58 | Tags: 
 
 Classroom lights

@@ -1,6 +1,6 @@
 # trail-cam
 
-4 notes and wiki pages
+4 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Photo Monitoring](/wiki/photo-monitoring) (wiki)
 - [State Park Land trail camera?](/notes/DMerwitz/10-17-2016/state-park-land-trail-camera) by [DMerwitz](../profile/DMerwitz)

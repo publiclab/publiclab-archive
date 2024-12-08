@@ -1,12 +1,18 @@
 ---
-nid: 12229
 title: Using ImageJ to process passive particle monitor samples
-path: public/static/notes/mathew/09-19-2015/using-imagej-to-process-passive-particle-monitor-samples.md
+tagnames: image-processing, air-quality, petcoke, particulates, silica, pm, particle-sensing, particle-monitoring, image-analysis, passive-particle-monitors, passive-pm
+author: mathew
+path: /notes/mathew/09-19-2015/using-imagej-to-process-passive-particle-monitor-samples.md
+nid: 12229
 uid: 4
-tagnames: image-processing,air-quality,petcoke,particulates,silica,pm,particle-sensing,particle-monitoring,image-analysis,passive-particle-monitors,passive-pm
+
 ---
 
 # Using ImageJ to process passive particle monitor samples
+
+by [mathew](../profile/mathew) September 19, 2015 01:41
+
+September 19, 2015 01:41 | Tags: [image-processing](../tag/image-processing), [air-quality](../tag/air-quality), [petcoke](../tag/petcoke), [particulates](../tag/particulates), [silica](../tag/silica), [pm](../tag/pm), [particle-sensing](../tag/particle-sensing), [particle-monitoring](../tag/particle-monitoring), [image-analysis](../tag/image-analysis), [passive-particle-monitors](../tag/passive-particle-monitors), [passive-pm](../tag/passive-pm)
 
 ###What I want to do
 I want to document the manual steps of processing the images of passive particle monitors, stepping through the first part of the process outlined in my [previous note on analysis.](/notes/mathew/09-04-2015/analyzing-passive-monitors)  See also: [imaging passive particle monitors](/notes/mathew/09-03-2015/optical-imaging-of-passive-particle-monitors), [replicating passive particle monitors](/notes/mathew/09-02-2015/replicating-a-passive-dust-monitor-method), [research background](/notes/mathew/08-21-2014/low-cost-passive-aerosol-monitors)

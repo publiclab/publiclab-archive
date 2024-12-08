@@ -1,6 +1,6 @@
 # exploring-environmental-issues
 
-5 notes and wiki pages
+5 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [How do communities respond to environmental problems? (Lesson Plan)](/notes/mimiss/05-07-2019/workshop-i-how-do-communities-respond-to-environmental-problems) by [mimiss](../profile/mimiss)
 - [Workshop II: What Factors Influence Our Environmental Problem?](/notes/mimiss/05-07-2019/workshop-ii-what-factors-influence-our-environmental-problem) by [mimiss](../profile/mimiss)

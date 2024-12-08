@@ -1,12 +1,18 @@
 ---
-nid: 76
 title: Spectrometry notes
-path: public/static/wiki/spectrometry-notes.md
-uid: 1
 tagnames: 
+author: warren
+path: /wiki/spectrometry-notes.md
+nid: 76
+uid: 1
+
 ---
 
 # Spectrometry notes
+
+by [warren](../profile/warren)
+
+February 04, 2011 13:46 | Tags: 
 
 ###Additional notes on spectrometry###
 

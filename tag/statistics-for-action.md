@@ -1,6 +1,6 @@
 # statistics-for-action
 
-9 notes and wiki pages
+9 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Statistics for Action Air Quality Guide](/notes/kgradow1/10-30-2020/statistics-for-action-air-quality-guide) by [kgradow1](../profile/kgradow1)
 - [A First Look at Technical Documents](/notes/kgradow1/11-09-2020/a-first-look-at-technical-documents) by [kgradow1](../profile/kgradow1)

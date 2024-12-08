@@ -1,12 +1,18 @@
 ---
-nid: 13436
 title: Particle Electron
-path: public/static/notes/kinasmith/09-09-2016/particle-electron.md
+tagnames: cellular, web, data, datalogger, riffle, logger, sensor, 3g, data-logging, riffle-examples, data-logger, datalogger-option
+author: kinasmith
+path: /notes/kinasmith/09-09-2016/particle-electron.md
+nid: 13436
 uid: 445906
-tagnames: cellular,web,data,datalogger,riffle,logger,sensor,3g,data-logging,riffle-examples,data-logger,datalogger-option
+
 ---
 
 # Particle Electron
+
+by [kinasmith](../profile/kinasmith) September 09, 2016 23:23
+
+September 09, 2016 23:23 | Tags: [cellular](../tag/cellular), [web](../tag/web), [data](../tag/data), [datalogger](../tag/datalogger), [riffle](../tag/riffle), [logger](../tag/logger), [sensor](../tag/sensor), [3g](../tag/3g), [data-logging](../tag/data-logging), [riffle-examples](../tag/riffle-examples), [data-logger](../tag/data-logger), [datalogger-option](../tag/datalogger-option)
 
 ###New Hardware, yay
 I just got my hands on one of the [Particle Electron](https://www.particle.io/) prototyping kits. The Particle Electron is a cellular 3g (yes, actually 3g) prototyping board which speaks the Arduino language and talks to the internet over a cellular data connection. It is however, categorically different from all the other cellular solutions for capable hobbyists. 

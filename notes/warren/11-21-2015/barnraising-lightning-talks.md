@@ -1,12 +1,18 @@
 ---
-nid: 12431
 title: Barnraising Lightning Talks
-path: public/static/notes/warren/11-21-2015/barnraising-lightning-talks.md
+tagnames: presentations, barnraising, presentation, barnraising-2015, lightning-talks
+author: warren
+path: /notes/warren/11-21-2015/barnraising-lightning-talks.md
+nid: 12431
 uid: 1
-tagnames: presentations,barnraising,presentation,barnraising-2015,lightning-talks
+
 ---
 
 # Barnraising Lightning Talks
+
+by [warren](../profile/warren) November 21, 2015 21:53
+
+November 21, 2015 21:53 | Tags: [presentations](../tag/presentations), [barnraising](../tag/barnraising), [presentation](../tag/presentation), [barnraising-2015](../tag/barnraising-2015), [lightning-talks](../tag/lightning-talks)
 
 We heard a bunch of 5-minute presentations after lunch [at the Barnraising today](/barnraising); just summarizing them here. Image above by @patcoyle, thanks!
 

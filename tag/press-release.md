@@ -1,6 +1,6 @@
 # press-release
 
-9 notes and wiki pages
+9 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Press Release: Public Lab Launches a Kickstarter for the Infrared Photography Project](/notes/Shannon/05-22-2013/press-release-public-lab-launches-a-kickstarter-for-the-infrared-photography-project) by [Shannon](../profile/Shannon)
 - [Nota de Prensa: Public Lab lanza una campana para financiar el Infrared Photography Project  ](/notes/shannon/5-23-2013/note-de-prensa-public-lab-lanza-una-campa-para-financiar-el-infrared-photogr) by [Shannon](../profile/Shannon)

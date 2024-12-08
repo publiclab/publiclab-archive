@@ -1,12 +1,18 @@
 ---
-nid: 12084
 title: Does the Open Pipe Kit lower the barrier to sensor data collection? We need your help.
-path: public/static/notes/rjstatic/07-21-2015/does-the-open-pipe-kit-lower-the-barrier-to-sensor-data-collection-we-need-your-help.md
+tagnames: kit, blog, monitoring, environmental, open-pipe-kit, opk, open, pipe
+author: rjstatic
+path: /07-21-2015/does-the-open-pipe-kit-lower-the-barrier-to-sensor-data-collection-we-need-your-help.md
+nid: 12084
 uid: 174
-tagnames: kit,blog,monitoring,environmental,open-pipe-kit,opk,open,pipe
+
 ---
 
 # Does the Open Pipe Kit lower the barrier to sensor data collection? We need your help.
+
+by [rjstatic](../profile/rjstatic) July 21, 2015 06:13
+
+July 21, 2015 06:13 | Tags: [kit](../tag/kit), [blog](../tag/blog), [monitoring](../tag/monitoring), [environmental](../tag/environmental), [open-pipe-kit](../tag/open-pipe-kit), [opk](../tag/opk), [open](../tag/open), [pipe](../tag/pipe)
 
 ### What I want to do
 More and more we're able to capture the data around us and send it to the Internet. But do we have control of our data? What if a corporation hasn't made a widget for what we want to capture? The goal of the [Open Pipe Kit project](http://openpipekit.org) is to democratize the Internet of Things.

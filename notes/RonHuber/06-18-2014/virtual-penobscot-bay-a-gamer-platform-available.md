@@ -1,12 +1,18 @@
 ---
-nid: 10587
 title: Virtual Penobscot Bay - a gamer platform available?
-path: public/static/notes/RonHuber/06-18-2014/virtual-penobscot-bay-a-gamer-platform-available.md
+tagnames: 3d, maine, northeast, bay, penobcot, bathymetry, lobster, dioxin
+author: ronhuber
+path: /notes/RonHuber/06-18-2014/virtual-penobscot-bay-a-gamer-platform-available.md
+nid: 10587
 uid: 437
-tagnames: 3d,maine,northeast,bay,penobcot,bathymetry,lobster,dioxin
+
 ---
 
 # Virtual Penobscot Bay - a gamer platform available?
+
+by [ronhuber](../profile/ronhuber) June 18, 2014 17:46
+
+June 18, 2014 17:46 | Tags: [3d](../tag/3d), [maine](../tag/maine), [northeast](../tag/northeast), [bay](../tag/bay), [penobcot](../tag/penobcot), [bathymetry](../tag/bathymetry), [lobster](../tag/lobster), [dioxin](../tag/dioxin)
 
 ###WHY A VIRTUAL PENOBSCOT BAY?
 

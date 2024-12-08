@@ -1,12 +1,18 @@
 ---
-nid: 11755
 title: April 12 Newtown Creek balloon mapping pics
-path: public/static/notes/liz/04-13-2015/april-12-newtown-creek-balloon-mapping-pics.md
+tagnames: new-york-city, balloon-mapping, newtown-creek, brooklyn, queens
+author: liz
+path: /notes/liz/04-13-2015/april-12-newtown-creek-balloon-mapping-pics.md
+nid: 11755
 uid: 7
-tagnames: new-york-city,balloon-mapping,newtown-creek,brooklyn,queens
+
 ---
 
 # April 12 Newtown Creek balloon mapping pics
+
+by [liz](../profile/liz) April 13, 2015 15:19
+
+April 13, 2015 15:19 | Tags: [new-york-city](../tag/new-york-city), [balloon-mapping](../tag/balloon-mapping), [newtown-creek](../tag/newtown-creek), [brooklyn](../tag/brooklyn), [queens](../tag/queens)
 
 Willis shows the camera rig:
 

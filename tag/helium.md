@@ -1,6 +1,6 @@
 # helium
 
-23 notes and wiki pages
+23 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Helium](/wiki/helium) (wiki)
 - [Balloon Mapping K Week](/notes/jbreen/10-09-2013/balloon-mapping-k-week) by [jbreen](../profile/jbreen)

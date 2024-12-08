@@ -1,12 +1,18 @@
 ---
-nid: 17225
 title: Dissolved Oxygen Testing and Citizen Science
-path: public/static/notes/belkinsa/10-04-2018/dissolved-oxygen-testing-and-citizen-science.md
+tagnames: water-sensing, citizen-science, water-quality-monitoring, water-quality, dissolved-oxygen, question:water-quality, question:water-sensors, water-sensors, water-quality-testing, do, question:dissolved-oxygen
+author: belkinsa
+path: /notes/belkinsa/10-04-2018/dissolved-oxygen-testing-and-citizen-science.md
+nid: 17225
 uid: 504609
-tagnames: water-sensing,citizen-science,water-quality-monitoring,water-quality,dissolved-oxygen,question:water-quality,question:water-sensors,water-sensors,water-quality-testing,do,question:dissolved-oxygen
+
 ---
 
 # Dissolved Oxygen Testing and Citizen Science
+
+by [belkinsa](../profile/belkinsa) October 04, 2018 20:15
+
+October 04, 2018 20:15 | Tags: [water-sensing](../tag/water-sensing), [citizen-science](../tag/citizen-science), [water-quality-monitoring](../tag/water-quality-monitoring), [water-quality](../tag/water-quality), [dissolved-oxygen](../tag/dissolved-oxygen), [question:water-quality](../tag/question:water-quality), [question:water-sensors](../tag/question:water-sensors), [water-sensors](../tag/water-sensors), [water-quality-testing](../tag/water-quality-testing), [do](../tag/do), [question:dissolved-oxygen](../tag/question:dissolved-oxygen)
 
 [![dissolvedoxygen_molecules.jpg](/i/26778)](/i/26778)[CC](https://www.fondriest.com/environmental-measurements/parameters/water-quality/dissolved-oxygen/)
 

@@ -1,12 +1,18 @@
 ---
-nid: 14627
 title: Mapping Requests
-path: public/static/wiki/mapping-requests.md
+tagnames: balloon-mapping, kite-mapping, aerial-photography, ifarm, pole-mapping, request:aerial-photography, parent:requests
+author: warren
+path: /wiki/mapping-requests.md
+nid: 14627
 uid: 1
-tagnames: balloon-mapping,kite-mapping,aerial-photography,ifarm,pole-mapping,request:aerial-photography,parent:requests
+
 ---
 
 # Mapping Requests
+
+by [warren](../profile/warren)
+
+July 06, 2017 22:49 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [aerial-photography](../tag/aerial-photography), [ifarm](../tag/ifarm), [pole-mapping](../tag/pole-mapping), [request:aerial-photography](../tag/request:aerial-photography), [parent:requests](../tag/parent:requests)
 
 Do you need aerial photography, or help taking your own? Over the years, Public Lab's community of mappers has grown -- whether #balloon-mapping, #kite-mapping, #pole-mapping, etc! We often help one another out; this page is a posting board for **requests for assistance with aerial photography**. 
 

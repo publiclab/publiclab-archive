@@ -1,12 +1,18 @@
 ---
-nid: 4286
 title: Spectrometry kit paper insert design sketches
-path: public/static/notes/warren/10-9-2012/spectrometry-kit-paper-insert-design-sketches.md
-uid: 1
 tagnames: spectrometer
+author: warren
+path: /notes/warren/10-9-2012/spectrometry-kit-paper-insert-design-sketches.md
+nid: 4286
+uid: 1
+
 ---
 
 # Spectrometry kit paper insert design sketches
+
+by [warren](../profile/warren) October 09, 2012 16:59
+
+October 09, 2012 16:59 | Tags: [spectrometer](../tag/spectrometer)
 
 Rough sketch (more full design to follow) for a black paper insert for Type-AB conduits boxes. This will reduce reflections inside the box and we can probably make a folding angled support for the webcam to point at the right angle (not a right angle -- say, roughly 30-45°). 
 

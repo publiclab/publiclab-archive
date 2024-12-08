@@ -1,6 +1,6 @@
 # status-draft
 
-8 notes and wiki pages
+8 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Coqui BBv1.0: Testing conductivity of a solution](/notes/donblair/09-30-2014/coqui-bbv1-0-testing-conductivity-of-a-solution) by [donblair](../profile/donblair)
 - [Coqui BBv1.0: Assessing Ambient Light with a Photoresistor](/notes/donblair/09-30-2014/coqui-bbv1-0-assessing-ambient-light-with-a-photoresistor) by [donblair](../profile/donblair)

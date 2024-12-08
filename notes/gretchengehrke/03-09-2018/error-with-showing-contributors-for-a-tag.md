@@ -1,12 +1,18 @@
 ---
-nid: 15906
 title: Error with showing contributors for a tag?
-path: public/static/notes/gretchengehrke/03-09-2018/error-with-showing-contributors-for-a-tag.md
-uid: 430549
 tagnames: question:website
+author: gretchengehrke
+path: /notes/gretchengehrke/03-09-2018/error-with-showing-contributors-for-a-tag.md
+nid: 15906
+uid: 430549
+
 ---
 
 # Error with showing contributors for a tag?
+
+by [gretchengehrke](../profile/gretchengehrke) March 09, 2018 21:03
+
+March 09, 2018 21:03 | Tags: [question:website](../tag/question:website)
 
 ### Please describe the problem (or idea)
 

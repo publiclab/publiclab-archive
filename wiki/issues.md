@@ -1,12 +1,18 @@
 ---
-nid: 2104
 title: Issues
-path: public/static/wiki/issues.md
+tagnames: website, troubleshooting, bugs, issues, parent:website, website-utilities
+author: warren
+path: /wiki/issues.md
+nid: 2104
 uid: 1
-tagnames: website,troubleshooting,bugs,issues,parent:website,website-utilities
+
 ---
 
 # Issues
+
+by [gauravano](../profile/gauravano), [warren](../profile/warren), [liz](../profile/liz)
+
+May 17, 2012 20:20 | Tags: [website](../tag/website), [troubleshooting](../tag/troubleshooting), [bugs](../tag/bugs), [issues](../tag/issues), [parent:website](../tag/parent:website), [website-utilities](../tag/website-utilities)
 
 Thanks for helping to make Public Lab's websites better! Here's how to report problems, bugs, questions, etc. about our various websites:
 

@@ -1,12 +1,18 @@
 ---
-nid: 24071
 title: MeteoMex: online monitoring of climate and volatile organic compounds
-path: public/static/wiki/meteomex.md
+tagnames: soil, vocs, data-logger, volatile-organochlorine-compounds, soil-sampling, meteomex, climate-data, non-commercial, solar-energy, volatile-organic-compounds
+author: liz
+path: /wiki/meteomex.md
+nid: 24071
 uid: 7
-tagnames: soil,vocs,data-logger,volatile-organochlorine-compounds,soil-sampling,meteomex,climate-data,non-commercial,solar-energy,volatile-organic-compounds
+
 ---
 
 # MeteoMex: online monitoring of climate and volatile organic compounds
+
+by [liz](../profile/liz)
+
+June 30, 2020 14:57 | Tags: [soil](../tag/soil), [vocs](../tag/vocs), [data-logger](../tag/data-logger), [volatile-organochlorine-compounds](../tag/volatile-organochlorine-compounds), [soil-sampling](../tag/soil-sampling), [meteomex](../tag/meteomex), [climate-data](../tag/climate-data), [non-commercial](../tag/non-commercial), [solar-energy](../tag/solar-energy), [volatile-organic-compounds](../tag/volatile-organic-compounds)
 
 The online monitoring of air temperature, humidity, atmospheric pressure, and volatile organic compounds (VOCs) gives essential information for agriculture/ gardening, safety, and contamination. 
 The [MeteoMex project](http://www.meteomex.com/) develops open hardware/ software kits that are internet-of-things (IoT) capable, open technology, and of low cost.

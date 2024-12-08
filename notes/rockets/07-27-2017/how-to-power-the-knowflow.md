@@ -1,12 +1,18 @@
 ---
-nid: 14689
 title: How to power the KnowFlow?
-path: public/static/notes/rockets/07-27-2017/how-to-power-the-knowflow.md
+tagnames: power, data-logging, knowflow, question:knowflow, question:data-logging-power
+author: rockets
+path: /notes/rockets/07-27-2017/how-to-power-the-knowflow.md
+nid: 14689
 uid: 492583
-tagnames: power,data-logging,knowflow,question:knowflow,question:data-logging-power
+
 ---
 
 # How to power the KnowFlow?
+
+by [rockets](../profile/rockets) July 27, 2017 03:40
+
+July 27, 2017 03:40 | Tags: [power](../tag/power), [data-logging](../tag/data-logging), [knowflow](../tag/knowflow), [question:knowflow](../tag/question:knowflow), [question:data-logging-power](../tag/question:data-logging-power)
 
 ###What I want to do or know
 Because the KnowFlow is based on arduino system. So you can use 2 way to power KnowFlow. One way is just use a usb cable and power bank within 5v to power it, the other way is just use a 7.4~9v DC power or adapter to power it .

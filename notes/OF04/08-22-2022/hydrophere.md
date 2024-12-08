@@ -1,12 +1,18 @@
 ---
-nid: 34893
 title: Hydrophere
-path: public/static/notes/OF04/08-22-2022/hydrophere.md
+tagnames: mississippi-river, first-time-poster, zoom:6, lat:30.053813, lon:-90.551753
+author: OF04
+path: /notes/OF04/08-22-2022/hydrophere.md
+nid: 34893
 uid: 810245
-tagnames: mississippi-river,first-time-poster,zoom:6,lat:30.053813,lon:-90.551753
+
 ---
 
 # Hydrophere
+
+by [OF04](../profile/OF04) August 22, 2022 13:40
+
+August 22, 2022 13:40 | Tags: [mississippi-river](../tag/mississippi-river), [first-time-poster](../tag/first-time-poster), [zoom:6](../tag/zoom:6), [lat:30.053813](../tag/lat:30.053813), [lon:-90.551753](../tag/lon:-90.551753)
 
 The current world population is 7,969,210,034. There are 779,744,052 people with no access to a safe drinking water source. 
 

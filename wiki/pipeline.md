@@ -1,12 +1,18 @@
 ---
-nid: 21066
 title: Pipeline
-path: public/static/wiki/pipeline.md
+tagnames: pipeline, pipeline-monitoring
+author: stevie
+path: /wiki/pipeline.md
+nid: 21066
 uid: 422561
-tagnames: pipeline,pipeline-monitoring
+
 ---
 
 # Pipeline
+
+by [stevie](../profile/stevie)
+
+October 03, 2019 14:55 | Tags: [pipeline](../tag/pipeline), [pipeline-monitoring](../tag/pipeline-monitoring)
 
 There are approximately 2.4 million miles of **pipelines** within the United States, crossing through every state in the nation [(As illustrated on this map)](https://pipeline101.org/Where-Are-Pipelines-Located).   The majority are concentrated along the Gulf Coast, where an abundance of natural resources, tax incentives, and loose regulation has supported the proliferation of the oil and gas industry within the region over the past 60 + years.  
 

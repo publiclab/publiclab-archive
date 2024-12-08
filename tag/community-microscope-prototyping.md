@@ -1,6 +1,6 @@
 # community-microscope-prototyping
 
-5 notes and wiki pages
+5 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Community Microscope Initial Evaluation](/notes/MaggPi/05-21-2018/community-microscope-resolution-test) by [MaggPi](../profile/MaggPi)
 - [USB Webcam vs Raspberry Pi V2 Field of View (FOV) comparison /  Community microscope initial evaluation #2 ](/notes/MaggPi/06-05-2018/usb-webcam-vs-raspberry-pi-v2-field-of-view-fov-comparison-community-microscope-initial-evaluation-2) by [MaggPi](../profile/MaggPi)

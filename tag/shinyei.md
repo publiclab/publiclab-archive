@@ -1,6 +1,6 @@
 # shinyei
 
-18 notes and wiki pages
+18 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Measure coarse and fine air particulates with a DustDuino](/notes/Schroyer/11-23-2013/measure-coarse-and-fine-air-particulates-with-a-dustduino) by [Schroyer](../profile/Schroyer)
 - [Field Testing the Shenyei PM sensor](/notes/Willie/04-01-2014/field-testing-the-shenyei-pm-sensor) by [willie](../profile/willie)

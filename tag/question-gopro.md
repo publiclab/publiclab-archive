@@ -1,6 +1,6 @@
 # question-gopro
 
-3 notes and wiki pages
+3 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [GoPro Hero HD first version- Making full spectrum( Removing IR filter)](/notes/suman/01-16-2017/gopro-hero-hd-first-version-making-full-spectrum-removing-ir-filter) by [suman](../profile/suman)
 - [How to extend wifi range underwater?](/notes/xose/02-24-2018/how-to-extend-wifi-range-underwater) by [xose](../profile/xose)

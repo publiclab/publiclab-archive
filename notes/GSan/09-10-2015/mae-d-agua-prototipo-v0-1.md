@@ -1,12 +1,18 @@
 ---
-nid: 12208
 title: Mãe d'Água - protótipo v0.1
-path: public/static/notes/GSan/09-10-2015/mae-d-agua-prototipo-v0-1.md
+tagnames: water-quality, brasil, redeinfoamazonia, maedagua, lang:pt
+author: GSan
+path: /notes/GSan/09-10-2015/mae-d-agua-prototipo-v0-1.md
+nid: 12208
 uid: 426547
-tagnames: water-quality,brasil,redeinfoamazonia,maedagua,lang:pt
+
 ---
 
 # Mãe d'Água - protótipo v0.1
+
+by [GSan](../profile/GSan) September 10, 2015 03:08
+
+September 10, 2015 03:08 | Tags: [water-quality](../tag/water-quality), [brasil](../tag/brasil), [redeinfoamazonia](../tag/redeinfoamazonia), [maedagua](../tag/maedagua), [lang:pt](../tag/lang:pt)
 
 ###Related project / Projeto relacionado 
 http://publiclab.org/wiki/mae-d-agua-rede-infoamazonia

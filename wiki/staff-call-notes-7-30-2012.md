@@ -1,12 +1,18 @@
 ---
-nid: 3027
 title: Staff call notes 7 30 2012
-path: public/static/wiki/staff-call-notes-7-30-2012.md
-uid: 1
 tagnames: 
+author: warren
+path: /wiki/staff-call-notes-7-30-2012.md
+nid: 3027
+uid: 1
+
 ---
 
 # Staff call notes 7 30 2012
+
+by [warren](../profile/warren)
+
+July 30, 2012 16:36 | Tags: 
 
 ###Mathew###
 PPSR, GRM, 

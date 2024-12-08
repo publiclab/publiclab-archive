@@ -1,12 +1,18 @@
 ---
-nid: 14043
 title: Upgrading Plot to Rails 5
-path: public/static/notes/aayushgupta1/03-21-2017/upgrading-plot-to-rails-5.md
+tagnames: gsoc, gsoc-2017, soc, soc-2017, rgsoc-2017, response:13975, gsoc-2017-proposals, rails-upgrade, project, first-time-poster
+author: aayushgupta1
+path: /notes/aayushgupta1/03-21-2017/upgrading-plot-to-rails-5.md
+nid: 14043
 uid: 503612
-tagnames: gsoc,gsoc-2017,soc,soc-2017,rgsoc-2017,response:13975,gsoc-2017-proposals,rails-upgrade,project,first-time-poster
+
 ---
 
 # Upgrading Plot to Rails 5
+
+by [aayushgupta1](../profile/aayushgupta1) March 21, 2017 10:18
+
+March 21, 2017 10:18 | Tags: [gsoc](../tag/gsoc), [gsoc-2017](../tag/gsoc-2017), [soc](../tag/soc), [soc-2017](../tag/soc-2017), [rgsoc-2017](../tag/rgsoc-2017), [response:13975](../tag/response:13975), [gsoc-2017-proposals](../tag/gsoc-2017-proposals), [rails-upgrade](../tag/rails-upgrade), [project](../tag/project), [first-time-poster](../tag/first-time-poster)
 
 (This template is for students applying to summer code programs with Public Lab. Use this link to start writing a post: [https://publiclab.org/post?n=899&tags=gsoc,gsoc-2017-proposals](https://publiclab.org/post?n=899&tags=gsoc,gsoc-2017-proposals) You can delete this line once you've started filling it out.)
 

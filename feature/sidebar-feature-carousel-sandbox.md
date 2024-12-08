@@ -1,12 +1,16 @@
 ---
-nid: 12518
 title: sidebar-feature-carousel-sandbox
-path: public/static/feature/sidebar-feature-carousel-sandbox.md
-uid: 1
 tagnames: 
+author: warren
+path: /feature/sidebar-feature-carousel-sandbox.md
+nid: 12518
+uid: 1
+
 ---
 
 # sidebar-feature-carousel-sandbox
+
+December 14, 2015 22:46 | Tags: 
 
     <div id="store-carousel" class="carousel slide span4" data-ride="carousel">
       <div class="carousel-inner">

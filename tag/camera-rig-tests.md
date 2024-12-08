@@ -1,6 +1,6 @@
 # camera-rig-tests
 
-11 notes and wiki pages
+11 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Gowanus Canal Salt Lot Kite Mapping](/notes/eymund-diegel/4-30-2012/gowanus-canal-salt-lot-kite-mapping) by [eymund](../profile/eymund)
 - [Doing it Yourself: Kite-mapping… an activity for the ‘privileged’?](/notes/cindyexcites/4-29-2013/doing-it-yourself-kite-mapping-activity-privileged) by [cindy_excites](../profile/cindy_excites)

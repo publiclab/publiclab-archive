@@ -1,12 +1,18 @@
 ---
-nid: 12174
 title: infoamazonia-network
-path: public/static/wiki/infoamazonia-network.md
+tagnames: brazil, water-quality, brasil, redeinfoamazonia, south-america, project:water-quality
+author: vjpixel
+path: /wiki/infoamazonia-network.md
+nid: 12174
 uid: 420617
-tagnames: brazil,water-quality,brasil,redeinfoamazonia,south-america,project:water-quality
+
 ---
 
 # infoamazonia-network
+
+by [vjpixel](../profile/vjpixel)
+
+August 27, 2015 16:03 | Tags: [brazil](../tag/brazil), [water-quality](../tag/water-quality), [brasil](../tag/brasil), [redeinfoamazonia](../tag/redeinfoamazonia), [south-america](../tag/south-america), [project:water-quality](../tag/project:water-quality)
 
 The project will use environmental sensors connected via mobile networks to generate indicators of water quality in cities in the Brazilian Amazon. Starting in December, 2015, the project will inform people on the quality of water, reducing water contamination by disease and environmental degradation. The goal is to provide real-time data on contamination of water tanks. The data collected by this network of sensors will be distributed to the government, citizens and non-governmental organizations through the alert system for mobile phones (SMS) and web mapping applications.
 

@@ -1,6 +1,6 @@
 # datalogger
 
-45 notes and wiki pages
+45 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [DataLogger](/notes/JSummers/11-16-2013/datalogger) by [JSummers](../profile/JSummers)
 - [Riffle: an Open Source Water Monitoring Approach](/riffle) (wiki)

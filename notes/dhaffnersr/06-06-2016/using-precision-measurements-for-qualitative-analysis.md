@@ -1,12 +1,18 @@
 ---
-nid: 13169
 title: Using Precision Measurements for Qualitative Analysis 
-path: public/static/notes/dhaffnersr/06-06-2016/using-precision-measurements-for-qualitative-analysis.md
-uid: 461120
 tagnames: 
+author: dhaffnersr
+path: /notes/dhaffnersr/06-06-2016/using-precision-measurements-for-qualitative-analysis.md
+nid: 13169
+uid: 461120
+
 ---
 
 # Using Precision Measurements for Qualitative Analysis 
+
+by [dhaffnersr](../profile/dhaffnersr) June 06, 2016 14:05
+
+June 06, 2016 14:05 | Tags: 
 
 I wanted to demonstrate and show how I get such precise measurements when I am preparing dilute samples with exact concentration levels for analysis.
 

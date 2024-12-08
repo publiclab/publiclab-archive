@@ -3,6 +3,8 @@ uid: 693647
 created_at: 2020-05-15 11:24:38 UTC
 ---
 
+# sophied
+
 Hello! I am a designer and researcher. I mostly work with NGOs on open source, data-driven projects. I am a member of the Feminist Open Source Investigations Group and, in collaboration with the geographer Sasha Engelmann aka @sashae, I am one half of #open-weather.
 
 Over the radio waves, my callsign is M6NYX after the Greek goddess of the night.

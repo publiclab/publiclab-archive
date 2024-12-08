@@ -1,12 +1,18 @@
 ---
-nid: 3479
 title: DIY Spectrometer Kickstarter launched!
-path: public/static/notes/warren/8-27-2012/diy-spectrometer-kickstarter-launched.md
-uid: 1
 tagnames: spectrometer
+author: warren
+path: /notes/warren/8-27-2012/diy-spectrometer-kickstarter-launched.md
+nid: 3479
+uid: 1
+
 ---
 
 # DIY Spectrometer Kickstarter launched!
+
+by [warren](../profile/warren) August 27, 2012 04:47
+
+August 27, 2012 04:47 | Tags: [spectrometer](../tag/spectrometer)
 
 <iframe width="480" height="360" src="http://www.kickstarter.com/projects/jywarren/public-lab-diy-spectrometry-kit/widget/video.html" frameborder="0"> </iframe>
 

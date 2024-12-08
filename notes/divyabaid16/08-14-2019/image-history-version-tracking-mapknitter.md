@@ -1,12 +1,18 @@
 ---
-nid: 20530
 title: Image history: Version tracking Mapknitter
-path: public/static/notes/divyabaid16/08-14-2019/image-history-version-tracking-mapknitter.md
+tagnames: mapknitter, gsoc, soc19
+author: divyabaid16
+path: /notes/divyabaid16/08-14-2019/image-history-version-tracking-mapknitter.md
+nid: 20530
 uid: 578652
-tagnames: mapknitter,gsoc,soc19
+
 ---
 
 # Image history: Version tracking Mapknitter
+
+by [divyabaid16](../profile/divyabaid16) August 14, 2019 12:43
+
+August 14, 2019 12:43 | Tags: [mapknitter](../tag/mapknitter), [gsoc](../tag/gsoc), [soc19](../tag/soc19)
 
 I have added this feature as part of my GSoC program. While adding this I had a great learning experience. This post summarizes the steps of how I created this feature.
 

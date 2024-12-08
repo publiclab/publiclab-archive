@@ -1,12 +1,18 @@
 ---
-nid: 15818
 title: Testing and Calibrating Your Microscope
-path: public/static/notes/partsandcrafts/02-26-2018/5-testing-and-calibrating-your-microscope.md
+tagnames: raspberry-pi, with:kgradow1, with:warren, microscope, raspberry-pi-cameras, activity:microscope, with:wmacfarl, with:bmela, activity:basic-microscope, series:basic-microscope, activity:community-microscope-usage, pin:activity:community-microscope-usage
+author: partsandcrafts
+path: /notes/partsandcrafts/02-26-2018/5-testing-and-calibrating-your-microscope.md
+nid: 15818
 uid: 66014
-tagnames: raspberry-pi,with:kgradow1,with:warren,microscope,raspberry-pi-cameras,activity:microscope,with:wmacfarl,with:bmela,activity:basic-microscope,series:basic-microscope,activity:community-microscope-usage,pin:activity:community-microscope-usage
+
 ---
 
 # Testing and Calibrating Your Microscope
+
+by [partsandcrafts](../profile/partsandcrafts) February 26, 2018 17:55
+
+February 26, 2018 17:55 | Tags: [raspberry-pi](../tag/raspberry-pi), [with:kgradow1](../tag/with:kgradow1), [with:warren](../tag/with:warren), [microscope](../tag/microscope), [raspberry-pi-cameras](../tag/raspberry-pi-cameras), [activity:microscope](../tag/activity:microscope), [with:wmacfarl](../tag/with:wmacfarl), [with:bmela](../tag/with:bmela), [activity:basic-microscope](../tag/activity:basic-microscope), [series:basic-microscope](../tag/series:basic-microscope), [activity:community-microscope-usage](../tag/activity:community-microscope-usage), [pin:activity:community-microscope-usage](../tag/pin:activity:community-microscope-usage)
 
 # Why do we need to calibrate our microscope?
 

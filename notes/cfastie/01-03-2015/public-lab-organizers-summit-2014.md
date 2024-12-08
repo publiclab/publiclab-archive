@@ -1,12 +1,18 @@
 ---
-nid: 11507
 title: Public Lab Organizers Summit, 2014
-path: public/static/notes/cfastie/01-03-2015/public-lab-organizers-summit-2014.md
+tagnames: gulf-coast, louisiana, cocodrie, barnraising, lumcon, barnstar:photo-documentation, barnraising2014, response:11506
+author: cfastie
+path: /notes/cfastie/01-03-2015/public-lab-organizers-summit-2014.md
+nid: 11507
 uid: 554
-tagnames: gulf-coast,louisiana,cocodrie,barnraising,lumcon,barnstar:photo-documentation,barnraising2014,response:11506
+
 ---
 
 # Public Lab Organizers Summit, 2014
+
+by [cfastie](../profile/cfastie) January 03, 2015 23:38
+
+January 03, 2015 23:38 | Tags: [gulf-coast](../tag/gulf-coast), [louisiana](../tag/louisiana), [cocodrie](../tag/cocodrie), [barnraising](../tag/barnraising), [lumcon](../tag/lumcon), [barnstar:photo-documentation](../tag/barnstar:photo-documentation), [barnraising2014](../tag/barnraising2014), [response:11506](../tag/response:11506)
 
 Some photos from the Public Lab Organizers Summit on November 13, 2014.  
 .  

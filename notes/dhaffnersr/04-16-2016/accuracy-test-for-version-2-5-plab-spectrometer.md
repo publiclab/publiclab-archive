@@ -1,12 +1,18 @@
 ---
-nid: 12990
 title: accuracy test for version 2.5 Plab spectrometer
-path: public/static/notes/dhaffnersr/04-16-2016/accuracy-test-for-version-2-5-plab-spectrometer.md
-uid: 461120
 tagnames: 
+author: dhaffnersr
+path: /notes/dhaffnersr/04-16-2016/accuracy-test-for-version-2-5-plab-spectrometer.md
+nid: 12990
+uid: 461120
+
 ---
 
 # accuracy test for version 2.5 Plab spectrometer
+
+by [dhaffnersr](../profile/dhaffnersr) April 16, 2016 16:35
+
+April 16, 2016 16:35 | Tags: 
 
 I ran a series of very detailed tests on my spectrometer this week, against already established data (references are provided at the bottom of page.) on fluorescein in a buffer of 0.1M NaHCO3 (sodium bi-carbonate-lab quality.) My goal was to test the data acquisition accuracy of the Plab version 2.5 spectrometer. 
 

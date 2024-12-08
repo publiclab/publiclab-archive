@@ -1,6 +1,6 @@
 # workshop
 
-81 notes and wiki pages
+81 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Very clear spectrum through pineapple](/notes/warren/12-24-2010/very-clear-spectrum-through-pineapple) by [warren](../profile/warren)
 - [DIY Spectrometry Workshop in Lima, Peru ](/notes/warren/05-01-2018/diy-spectrometry-workshop-in-lima-peru) by [warren](../profile/warren)

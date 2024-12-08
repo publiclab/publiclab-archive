@@ -1,12 +1,18 @@
 ---
-nid: 588
 title: Thermal Camera Hacking Notes
-path: public/static/notes/sobers/11-28-2011/thermal-camera-hacking.md
+tagnames: thermal-photography, first-time-poster
+author: sobers
+path: /notes/sobers/11-28-2011/thermal-camera-hacking.md
+nid: 588
 uid: 371
-tagnames: thermal-photography,first-time-poster
+
 ---
 
 # Thermal Camera Hacking Notes
+
+by [sobers](../profile/sobers) November 28, 2011 18:35
+
+November 28, 2011 18:35 | Tags: [thermal-photography](../tag/thermal-photography), [first-time-poster](../tag/first-time-poster)
 
 A thermal camera or thermographer is a camera which creates an image of what temperature things are. It uses a temperature sensor  and sweeps back and forth across a scene to record temperature variation. It represents infrared energy emitted by objects.
 

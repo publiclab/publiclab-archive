@@ -1,12 +1,18 @@
 ---
-nid: 15617
 title:  Canon PowerShot SD750 
-path: public/static/notes/rjun86/01-26-2018/canon-powershot-sd750.md
+tagnames: agriculture, urban-planning, tool, land-use, multispectral-imaging, question:general, land-change
+author: rjun86
+path: /notes/rjun86/01-26-2018/canon-powershot-sd750.md
+nid: 15617
 uid: 523652
-tagnames: agriculture,urban-planning,tool,land-use,multispectral-imaging,question:general,land-change
+
 ---
 
 #  Canon PowerShot SD750 
+
+by [rjun86](../profile/rjun86) January 26, 2018 15:42
+
+January 26, 2018 15:42 | Tags: [agriculture](../tag/agriculture), [urban-planning](../tag/urban-planning), [tool](../tag/tool), [land-use](../tag/land-use), [multispectral-imaging](../tag/multispectral-imaging), [question:general](../tag/question:general), [land-change](../tag/land-change)
 
 hi i am newbie here i have   
 

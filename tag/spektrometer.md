@@ -1,5 +1,5 @@
 # spektrometer
 
-1 notes and wiki pages
+1 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [LED-PLÄTTCHEN - 12  ](/notes/df2nl/1-10-2013/led-pl-ttchen-12) by [df2nl](../profile/df2nl)

@@ -1,12 +1,18 @@
 ---
-nid: 9944
 title: Public Lab Launches New Initiative to Affordably Detect Pollutants with Open Hardware Tools
-path: public/static/notes/Shannon/01-14-2014/public-lab-launches-new-initiative-to-affordably-detect-pollutants-with-open-hardware-tools.md
+tagnames: gulf-coast, spectrometer, press-release
+author: Shannon
+path: /notes/Shannon/01-14-2014/public-lab-launches-new-initiative-to-affordably-detect-pollutants-with-open-hardware-tools.md
+nid: 9944
 uid: 9
-tagnames: gulf-coast,spectrometer,press-release
+
 ---
 
 # Public Lab Launches New Initiative to Affordably Detect Pollutants with Open Hardware Tools
+
+by [Shannon](../profile/Shannon) January 14, 2014 22:36
+
+January 14, 2014 22:36 | Tags: [gulf-coast](../tag/gulf-coast), [spectrometer](../tag/spectrometer), [press-release](../tag/press-release)
 
 **NEWS RELEASE
 FOR IMMEDIATE RELEASE**

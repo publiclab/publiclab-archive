@@ -1,12 +1,18 @@
 ---
-nid: 7286
 title: May 12 BOSSLAB Hackathon + DIY Spectrometry
-path: public/static/notes/warren/05-07-2013/may-12-bosslab-hackathon-diy-spectrometry.md
+tagnames: somerville-massachusetts, boston, event, diybio, bosslab, hackathon
+author: warren
+path: /notes/warren/05-07-2013/may-12-bosslab-hackathon-diy-spectrometry.md
+nid: 7286
 uid: 1
-tagnames: somerville-massachusetts,boston,event,diybio,bosslab,hackathon
+
 ---
 
 # May 12 BOSSLAB Hackathon + DIY Spectrometry
+
+by [warren](../profile/warren) May 07, 2013 12:20
+
+May 07, 2013 12:20 | Tags: [somerville-massachusetts](../tag/somerville-massachusetts), [boston](../tag/boston), [event](../tag/event), [diybio](../tag/diybio), [bosslab](../tag/bosslab), [hackathon](../tag/hackathon)
 
 ##Event details
 

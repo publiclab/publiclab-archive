@@ -1,12 +1,18 @@
 ---
-nid: 10420
 title: LIVE BROADCAST: "Water Quality Primer + Data Visualization Sprint"
-path: public/static/notes/donblair/05-05-2014/monday-5-5-14-at-mit-water-quality-primer-data-visualization-sprint.md
+tagnames: boston, event, water-quality, webcast, data-visualization
+author: donblair
+path: /notes/donblair/05-05-2014/monday-5-5-14-at-mit-water-quality-primer-data-visualization-sprint.md
+nid: 10420
 uid: 43651
-tagnames: boston,event,water-quality,webcast,data-visualization
+
 ---
 
 # LIVE BROADCAST: "Water Quality Primer + Data Visualization Sprint"
+
+by [donblair](../profile/donblair) May 05, 2014 02:58
+
+May 05, 2014 02:58 | Tags: [boston](../tag/boston), [event](../tag/event), [water-quality](../tag/water-quality), [webcast](../tag/webcast), [data-visualization](../tag/data-visualization)
 
 Hey, Y'all -- there's going to be a Public Lab: Open Water meetup on Monday at MIT!  
 

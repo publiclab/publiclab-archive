@@ -1,12 +1,18 @@
 ---
-nid: 34921
 title: Bioblitz Event: MN Land and Manoomin Protection Proyect 
-path: public/static/notes/michelleiL/08-31-2022/bioblitz-event-mn-land-and-manoomin-protection-proyect.md
+tagnames: event, lat:47, zoom:7, fellowship-teams, wild-rice, huber-osb-factory, talon-rio-tinto-mine, mn-land-manoomin-protection, lon:-93, great-lakes-region, manoomin, anishinaabe, ojibwe, treaty-rights
+author: michelleiL
+path: /notes/michelleiL/08-31-2022/bioblitz-event-mn-land-and-manoomin-protection-proyect.md
+nid: 34921
 uid: 799004
-tagnames: event,lat:47,zoom:7,fellowship-teams,wild-rice,huber-osb-factory,talon-rio-tinto-mine,mn-land-manoomin-protection,lon:-93,great-lakes-region,manoomin,anishinaabe,ojibwe,treaty-rights
+
 ---
 
 # Bioblitz Event: MN Land and Manoomin Protection Proyect 
+
+by [michelleiL](../profile/michelleiL) August 31, 2022 00:30
+
+August 31, 2022 00:30 | Tags: [event](../tag/event), [lat:47](../tag/lat:47), [zoom:7](../tag/zoom:7), [fellowship-teams](../tag/fellowship-teams), [wild-rice](../tag/wild-rice), [huber-osb-factory](../tag/huber-osb-factory), [talon-rio-tinto-mine](../tag/talon-rio-tinto-mine), [mn-land-manoomin-protection](../tag/mn-land-manoomin-protection), [lon:-93](../tag/lon:-93), [great-lakes-region](../tag/great-lakes-region), [manoomin](../tag/manoomin), [anishinaabe](../tag/anishinaabe), [ojibwe](../tag/ojibwe), [treaty-rights](../tag/treaty-rights)
 
 *Image Description: A digital flyer with dark green background, bold white letters in the title, images of birds, plants, and a bowl of rice. There's a black and white Public Lab logo at the top right.  Flyer by @noah_ben_furman*
 

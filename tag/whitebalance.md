@@ -1,6 +1,6 @@
 # whitebalance
 
-3 notes and wiki pages
+3 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [How do I set a custum white balance of the NoIR modulo cam?](/notes/LaPa/12-03-2015/how-do-i-set-a-costum-white-balance-of-the-noir-modulo-cam) by [LaPa](../profile/LaPa)
 - [How to process images using a mobius with an IR lens?](/notes/miguel_rosas/10-18-2016/how-to-process-images-using-a-mobiles-with-the-ir-lens) by [miguel_rosas](../profile/miguel_rosas)

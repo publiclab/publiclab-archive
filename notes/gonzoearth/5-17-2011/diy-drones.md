@@ -1,12 +1,18 @@
 ---
-nid: 242
 title: DIY Drones
-path: public/static/notes/gonzoearth/5-17-2011/diy-drones.md
-uid: 12
 tagnames: 
+author: gonzoearth
+path: /notes/gonzoearth/5-17-2011/diy-drones.md
+nid: 242
+uid: 12
+
 ---
 
 # DIY Drones
+
+by [gonzoearth](../profile/gonzoearth) May 17, 2011 19:46
+
+May 17, 2011 19:46 | Tags: 
 
 Story about recent autonomous aerial vehicle challenge in Colorado and the growth of the DIY UAV/UAS community:
 

@@ -1,12 +1,18 @@
 ---
-nid: 100
 title: Balloon Mapping Materials
-path: public/static/wiki/balloon-mapping-materials.md
+tagnames: balloon-mapping, materials, bom, parent:balloon-mapping, tagtest
+author: warren
+path: /wiki/balloon-mapping-materials.md
+nid: 100
 uid: 1
-tagnames: balloon-mapping,materials,bom,parent:balloon-mapping,tagtest
+
 ---
 
 # Balloon Mapping Materials
+
+by [liz](../profile/liz), [abdul](../profile/abdul), [warren](../profile/warren), [adam-griffith](../profile/adam-griffith), [mathew](../profile/mathew)
+
+February 23, 2011 05:24 | Tags: [balloon-mapping](../tag/balloon-mapping), [materials](../tag/materials), [bom](../tag/bom), [parent:balloon-mapping](../tag/parent:balloon-mapping), [tagtest](../tag/tagtest)
 
 <h3 class="span10">Get started quickly by purchasing a kit at the <br /><a href="http://store.publiclab.org/collections/mapping">Public Lab Store &raquo;</a></h3>
 

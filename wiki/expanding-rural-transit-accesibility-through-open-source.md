@@ -1,12 +1,18 @@
 ---
-nid: 10216
 title: Expanding Rural Transit Accesibility through Open Source
-path: public/static/wiki/expanding-rural-transit-accesibility-through-open-source.md
-uid: 294634
 tagnames: transit
+author: ajawitz
+path: /wiki/expanding-rural-transit-accesibility-through-open-source.md
+nid: 10216
+uid: 294634
+
 ---
 
 # Expanding Rural Transit Accesibility through Open Source
+
+by [ajawitz](../profile/ajawitz)
+
+March 21, 2014 22:38 | Tags: [transit](../tag/transit)
 
 ###What I want to do
  I want to model a real-time, vehicle-tracking system that would be accessible for small cities and rural regions through a combination of common, off-the-shelf components and customized open source software.   The project is a collaboration between [Bath CityBus](http://www.cityofbath.com/CityBus/), a municipal transit service in Bath, Maine and [Code for Maine](www.code4maine.org), a local ["Brigade" affiliate of Code for America](www.brigade.codeforamerica.org).  A full project wiki documenting research and planning efforts since 2012 can be found at http://code4maine.org/opentransitprojects/.

@@ -1,12 +1,18 @@
 ---
-nid: 63
 title: Map Stitching
-path: public/static/wiki/map-stitching.md
-uid: 1
 tagnames: 
+author: warren
+path: /wiki/map-stitching.md
+nid: 63
+uid: 1
+
 ---
 
 # Map Stitching
+
+by [warren](../profile/warren)
+
+January 27, 2011 18:04 | Tags: 
 
 <a href="https://www.flickr.com/photos/jeffreywarren/5244471880/" title="Cartagen Knitter for Bayou St. Denis trip by jeferonix, on Flickr"><img src="http://farm6.static.flickr.com/5163/5244471880_5d419689da.jpg" width="500" height="397" alt="Cartagen Knitter for Bayou St. Denis trip" /></a>
 

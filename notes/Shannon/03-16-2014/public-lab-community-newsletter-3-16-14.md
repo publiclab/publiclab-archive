@@ -1,12 +1,18 @@
 ---
-nid: 10191
 title: Public Lab community newsletter 3.16.14
-path: public/static/notes/Shannon/03-16-2014/public-lab-community-newsletter-3-16-14.md
+tagnames: newsletter, newsletter-archive
+author: Shannon
+path: /notes/Shannon/03-16-2014/public-lab-community-newsletter-3-16-14.md
+nid: 10191
 uid: 9
-tagnames: newsletter,newsletter-archive
+
 ---
 
 # Public Lab community newsletter 3.16.14
+
+by [Shannon](../profile/Shannon) March 16, 2014 20:43
+
+March 16, 2014 20:43 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
 
 This week in the Public Lab community newsletter, read an update on petroleum waste mapping and measuring in Chicago, check out the creation of an oil testing station and join Public Lab during Google Summer of Code as a participant or mentor. Enjoy!
 

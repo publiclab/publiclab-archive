@@ -1,12 +1,18 @@
 ---
-nid: 13554
 title: Kanitthong
-path: public/static/notes/Kanitthong/10-12-2016/kanitthong.md
+tagnames: hidden:response, response:13586
+author: Kanitthong
+path: /notes/Kanitthong/10-12-2016/kanitthong.md
+nid: 13554
 uid: 492812
-tagnames: hidden:response,response:13586
+
 ---
 
 # Kanitthong
+
+by [Kanitthong](../profile/Kanitthong) October 12, 2016 04:24
+
+October 12, 2016 04:24 | Tags: [hidden:response](../tag/hidden:response), [response:13586](../tag/response:13586)
 
 ###What I want to do
 Light spectrometer

@@ -1,12 +1,18 @@
 ---
-nid: 27475
 title: Seeking Environmental Policy Fellow for Fellowship Team
-path: public/static/notes/stevie/08-11-2021/seeking-environmental-policy-fellow-for-fellowship-team.md
+tagnames: coal-mining, west-virginia, reporting, mountaintop-removal, jobs, fellowship, permits, oil-and-gas, job, career, permitting, policy, environmental-policy, fellow, fellowship-team, mmmp
+author: stevie
+path: /notes/stevie/08-11-2021/seeking-environmental-policy-fellow-for-fellowship-team.md
+nid: 27475
 uid: 422561
-tagnames: coal-mining,west-virginia,reporting,mountaintop-removal,jobs,fellowship,permits,oil-and-gas,job,career,permitting,policy,environmental-policy,fellow,fellowship-team,mmmp
+
 ---
 
 # Seeking Environmental Policy Fellow for Fellowship Team
+
+by [stevie](../profile/stevie) August 11, 2021 21:12
+
+August 11, 2021 21:12 | Tags: [coal-mining](../tag/coal-mining), [west-virginia](../tag/west-virginia), [reporting](../tag/reporting), [mountaintop-removal](../tag/mountaintop-removal), [jobs](../tag/jobs), [fellowship](../tag/fellowship), [permits](../tag/permits), [oil-and-gas](../tag/oil-and-gas), [job](../tag/job), [career](../tag/career), [permitting](../tag/permitting), [policy](../tag/policy), [environmental-policy](../tag/environmental-policy), [fellow](../tag/fellow), [fellowship-team](../tag/fellowship-team), [mmmp](../tag/mmmp)
 
 ### Public Lab is seeking an Environmental Policy Fellow 
 

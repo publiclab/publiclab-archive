@@ -1,12 +1,18 @@
 ---
-nid: 15855
 title: Mounting and deploying a Mini Pearl Logger
-path: public/static/notes/cfastie/03-03-2018/mounting-and-deploying-a-mini-pearl-logger.md
+tagnames: arduino, sensors, datalogger, enclosure, data-logging, activity:arduino, activity:data-logging, mini-pearl-logger, activity:mini-pearl-logger
+author: cfastie
+path: /notes/cfastie/03-03-2018/mounting-and-deploying-a-mini-pearl-logger.md
+nid: 15855
 uid: 554
-tagnames: arduino,sensors,datalogger,enclosure,data-logging,activity:arduino,activity:data-logging,mini-pearl-logger,activity:mini-pearl-logger
+
 ---
 
 # Mounting and deploying a Mini Pearl Logger
+
+by [cfastie](../profile/cfastie) March 03, 2018 19:59
+
+March 03, 2018 19:59 | Tags: [arduino](../tag/arduino), [sensors](../tag/sensors), [datalogger](../tag/datalogger), [enclosure](../tag/enclosure), [data-logging](../tag/data-logging), [activity:arduino](../tag/activity:arduino), [activity:data-logging](../tag/activity:data-logging), [mini-pearl-logger](../tag/mini-pearl-logger), [activity:mini-pearl-logger](../tag/activity:mini-pearl-logger)
 
 A [Mini Pearl Logger](https://publiclab.org/tag/mini-pearl-logger) is built by combining several off-the-shelf electronic components. Assembling a Mini Pearl Snap Logger Kit involves sliding DuPont wires onto header pins and takes about 15 minutes. Assembling a Mini Pearl or Mini Pearl Pro Logger Kit requires soldering wires between the components. In either case, the result can be sprawling and floppy. 
 

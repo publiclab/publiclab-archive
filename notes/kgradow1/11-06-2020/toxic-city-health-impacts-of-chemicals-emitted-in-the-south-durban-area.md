@@ -1,12 +1,18 @@
 ---
-nid: 24940
 title: Toxic City: Health Impacts of Chemicals Emitted in the South Durban Area
-path: public/static/notes/kgradow1/11-06-2020/toxic-city-health-impacts-of-chemicals-emitted-in-the-south-durban-area.md
+tagnames: air-quality, bucket-brigade, africa, oilandgas, air-sensing, oil-pollution, chemical-pollution, lat:-29.85868, lon:31.02184, zoom:6, bucket-monitor, lat:-29, lon:31, south-africa, south-durban
+author: kgradow1
+path: /notes/kgradow1/11-06-2020/toxic-city-health-impacts-of-chemicals-emitted-in-the-south-durban-area.md
+nid: 24940
 uid: 297929
-tagnames: air-quality,bucket-brigade,africa,oilandgas,air-sensing,oil-pollution,chemical-pollution,lat:-29.85868,lon:31.02184,zoom:6,bucket-monitor,lat:-29,lon:31,south-africa,south-durban
+
 ---
 
 # Toxic City: Health Impacts of Chemicals Emitted in the South Durban Area
+
+by [kgradow1](../profile/kgradow1) November 06, 2020 18:39
+
+November 06, 2020 18:39 | Tags: [air-quality](../tag/air-quality), [bucket-brigade](../tag/bucket-brigade), [africa](../tag/africa), [oilandgas](../tag/oilandgas), [air-sensing](../tag/air-sensing), [oil-pollution](../tag/oil-pollution), [chemical-pollution](../tag/chemical-pollution), [lat:-29.85868](../tag/lat:-29.85868), [lon:31.02184](../tag/lon:31.02184), [zoom:6](../tag/zoom:6), [bucket-monitor](../tag/bucket-monitor), [lat:-29](../tag/lat:-29), [lon:31](../tag/lon:31), [south-africa](../tag/south-africa), [south-durban](../tag/south-durban)
 
 <iframe width="100%" height="300px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/en/map/toxic-cities-site-map_519853?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe><p><a href="//umap.openstreetmap.fr/en/map/toxic-cities-site-map_519853">See full screen</a></p>
 

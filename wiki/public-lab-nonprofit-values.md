@@ -1,12 +1,18 @@
 ---
-nid: 14093
 title: Public Lab nonprofit values
-path: public/static/wiki/public-lab-nonprofit-values.md
+tagnames: nonprofit, values-statement
+author: Shannon
+path: /wiki/public-lab-nonprofit-values.md
+nid: 14093
 uid: 9
-tagnames: nonprofit,values-statement
+
 ---
 
 # Public Lab nonprofit values
+
+by [Shannon](../profile/Shannon)
+
+April 05, 2017 20:32 | Tags: [nonprofit](../tag/nonprofit), [values-statement](../tag/values-statement)
 
 **VALUES**
 

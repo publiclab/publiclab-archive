@@ -1,12 +1,18 @@
 ---
-nid: 12337
 title: Deploying Passive Particle Monitors
-path: public/static/notes/mathew/10-26-2015/deploying-passive-particle-monitors.md
+tagnames: wisconsin, air-quality, petcoke, dust, silica, open-air, particle-sensing, passive-particle-monitors, passive-pm, activity:pm, activity:pm-monitoring
+author: mathew
+path: /notes/mathew/10-26-2015/deploying-passive-particle-monitors.md
+nid: 12337
 uid: 4
-tagnames: wisconsin,air-quality,petcoke,dust,silica,open-air,particle-sensing,passive-particle-monitors,passive-pm,activity:pm,activity:pm-monitoring
+
 ---
 
 # Deploying Passive Particle Monitors
+
+by [mathew](../profile/mathew) October 26, 2015 21:00
+
+October 26, 2015 21:00 | Tags: [wisconsin](../tag/wisconsin), [air-quality](../tag/air-quality), [petcoke](../tag/petcoke), [dust](../tag/dust), [silica](../tag/silica), [open-air](../tag/open-air), [particle-sensing](../tag/particle-sensing), [passive-particle-monitors](../tag/passive-particle-monitors), [passive-pm](../tag/passive-pm), [activity:pm](../tag/activity:pm), [activity:pm-monitoring](../tag/activity:pm-monitoring)
 
 [Passive Particle Monitor](http://publiclab.org/tag/passive-pm) tests are going out in Wisconsin and Chicago.  Here are the first-draft instructions for everyone collecting samples.
 

@@ -1,12 +1,18 @@
 ---
-nid: 3676
 title: Easy ways to make precise maps
-path: public/static/notes/megan/9-6-2012/easy-ways-make-precise-maps.md
+tagnames: hydrogen-sulfide-sensing, hydrogen-sulfide, h2s, activity:mapping
+author: megan
+path: /notes/megan/9-6-2012/easy-ways-make-precise-maps.md
+nid: 3676
 uid: 775
-tagnames: hydrogen-sulfide-sensing,hydrogen-sulfide,h2s,activity:mapping
+
 ---
 
 # Easy ways to make precise maps
+
+by [megan](../profile/megan) September 07, 2012 02:47
+
+September 07, 2012 02:47 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s), [activity:mapping](../tag/activity:mapping)
 
 Here is a crash course on how any one can make simple clear, precise maps with out having fancy software or fancy skills.
 

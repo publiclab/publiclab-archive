@@ -1,12 +1,18 @@
 ---
-nid: 5835
 title: Suction Cup spectrometer attachement
-path: public/static/notes/mathew/1-31-2013/suction-cup-spectrometer-attachement.md
+tagnames: fold-up-mini-spectrometer, suction-cups
+author: mathew
+path: /notes/mathew/1-31-2013/suction-cup-spectrometer-attachement.md
+nid: 5835
 uid: 4
-tagnames: fold-up-mini-spectrometer,suction-cups
+
 ---
 
 # Suction Cup spectrometer attachement
+
+by [mathew](../profile/mathew) February 01, 2013 04:22
+
+February 01, 2013 04:22 | Tags: [fold-up-mini-spectrometer](../tag/fold-up-mini-spectrometer), [suction-cups](../tag/suction-cups)
 
 I've been trying to come up with spectrometer to phone attachment method that can fit anything and not leave a sticky trace.  
 I was inspired by the [Empire Universal Silicone Suction Cup Stand](http://www.empirecase.com/Suction_Phone_Stand.html), shown to me by [Nick Chelyapov](http://nickolaspeter.com/) (pictured in the gallery above). It sticks well to any phone, even when there is a textured back, like on my Samsung Galaxy S II.

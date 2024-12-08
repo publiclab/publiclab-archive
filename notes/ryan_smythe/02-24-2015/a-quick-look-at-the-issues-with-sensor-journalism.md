@@ -1,12 +1,18 @@
 ---
-nid: 11632
 title: A Quick Look At The Issues With Sensor Journalism
-path: public/static/notes/ryan_smythe/02-24-2015/a-quick-look-at-the-issues-with-sensor-journalism.md
-uid: 434200
 tagnames: sensor-journalism
+author: ryan_smythe
+path: /notes/ryan_smythe/02-24-2015/a-quick-look-at-the-issues-with-sensor-journalism.md
+nid: 11632
+uid: 434200
+
 ---
 
 # A Quick Look At The Issues With Sensor Journalism
+
+by [ryan_smythe](../profile/ryan_smythe) February 24, 2015 00:37
+
+February 24, 2015 00:37 | Tags: [sensor-journalism](../tag/sensor-journalism)
 
 Data and sensor journalism is such an incredibly new field that even this small look inside a piece of it with the coquis immediately increased my knowledge what feels like tenfold. Coming into this class, I knew what a sensor was, I knew some things that sensors could record, and I knew that I knew about as much about how they were designed as my grandfather who fought in World War 2. Now that I’ve been able to play around with a sensor, I at least have a vague idea of how this one specific one works. To vaguely quote Thor, magic is just technology that we don’t understand yet.
 

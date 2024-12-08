@@ -1,6 +1,6 @@
 # spectrometry
 
-201 notes and wiki pages
+201 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Spectrometry](/wiki/spectrometry) (wiki)
 - [DIY Spectrometry Workshop in Lima, Peru ](/notes/warren/05-01-2018/diy-spectrometry-workshop-in-lima-peru) by [warren](../profile/warren)
@@ -86,7 +86,6 @@
 - [How do I...](/notes/Mekis/04-12-2017/how-do-i) by [Mekis](../profile/Mekis)
 - [Alternative spectrometry sample cells for Hach DR900](/notes/fieldlab/05-02-2017/alternative-spectrometry-sample-cells-for-hach-dr900) by [fieldlab](../profile/fieldlab)
 - [Suppression of background light](/notes/saeed957/05-02-2017/suppression-of-background-light) by [saeed957](../profile/saeed957)
-- [Check this inspirational list out! ](/notes/Kaikosog/05-18-2017/check-this-inspirational-list-out) by [Kaikosog](../profile/Kaikosog)
 - [Can a Spectrometer be used to detect material type?](/notes/jjoll/06-03-2017/can-a-spectrometer-be-used-to-detect-material-type) by [jjoll](../profile/jjoll)
 - [Pi Camera](/wiki/pi-camera) (wiki)
 - [Desktop Spectrometry Kit to arduino?](/notes/jjoll/06-28-2017/desktop-spectrometry-kit-to-arduino) by [jjoll](../profile/jjoll)
@@ -198,8 +197,6 @@
 - [How to build affordable DIY Near Infra red Spectrometer for analyzing wavelength range 1000nm to 1800nm ?](/notes/apk87/02-21-2022/how-to-build-affordable-diy-near-infra-red-spectrometer-for-analyzing-wavelength-range-1000nm-to-1800nm) by [apk87](../profile/apk87)
 - [Can DIY spectrometers be useful for pH determination and/or dissolved organic carbon of a water solution?](/notes/alejobonifacio/03-02-2022/can-diy-spectrometers-be-useful-for-ph-determination-and-or-dissolved-organic-carbon-of-a-water-solution) by [alejobonifacio](../profile/alejobonifacio)
 - [Can I measure CSF turbidity in real time?](/notes/Cheesealmighty/03-17-2022/can-i-measure-csf-turbidity-in-real-time) by [Cheesealmighty](../profile/Cheesealmighty)
-- [Low Temperature Natural Gas Reforming](/notes/alexiaanderson/03-30-2022/low-temperature-natural-gas-reforming) by [alexiaanderson](../profile/alexiaanderson)
 - [Research Paper: Correlating NDVI with Lichen Responses to Air Pollution](/notes/fongvania/04-25-2022/research-paper-correlating-ndvi-with-lichen-responses-to-air-pollution) by [fongvania](../profile/fongvania)
 - [First Attempt Bombed... But Why ?](/notes/Abraxas/11-28-2022/first-attempt-bombed-but-why) by [Abraxas](../profile/Abraxas)
 - [[![Spec1.jpg](/i/47353)](/i/47353?s=o)](/notes/Abraxas/01-05-2023/spec1-jpg-i-47353-i-47353-s-o) by [Abraxas](../profile/Abraxas)
-- [Why use DVD as transmission gratings instead of reflection gratings in the spectrometer project?](/notes/cash_raistlin/06-01-2024/why-use-dvd-as-transmission-gratings-instead-of-reflection-gratings-in-the-spectrometer-project) by [cash_raistlin](../profile/cash_raistlin)

@@ -1,12 +1,18 @@
 ---
-nid: 24471
 title: GSoC 2020: Mapknitter Export Module and Spectral Workbench upgrades
-path: public/static/notes/alaxallves/08-29-2020/gsoc-2020-report.md
+tagnames: mapknitter, spectral-workbench, gsoc, soc, zoom:16, gsoc2020, exporter-gem, lat:-15.889, lon:-48.015, soc-2020-final
+author: alaxallves
+path: /notes/alaxallves/08-29-2020/gsoc-2020-report.md
+nid: 24471
 uid: 577447
-tagnames: mapknitter,spectral-workbench,gsoc,soc,zoom:16,gsoc2020,exporter-gem,lat:-15.889,lon:-48.015,soc-2020-final
+
 ---
 
 # GSoC 2020: Mapknitter Export Module and Spectral Workbench upgrades
+
+by [alaxallves](../profile/alaxallves) August 29, 2020 02:20
+
+August 29, 2020 02:20 | Tags: [mapknitter](../tag/mapknitter), [spectral-workbench](../tag/spectral-workbench), [gsoc](../tag/gsoc), [soc](../tag/soc), [zoom:16](../tag/zoom:16), [gsoc2020](../tag/gsoc2020), [exporter-gem](../tag/exporter-gem), [lat:-15.889](../tag/lat:-15.889), [lon:-48.015](../tag/lon:-48.015), [soc-2020-final](../tag/soc-2020-final)
 
 # What I did
 

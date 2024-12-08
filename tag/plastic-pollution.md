@@ -1,6 +1,6 @@
 # plastic-pollution
 
-10 notes and wiki pages
+10 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [BabyLegs KS](/wiki/babylegs-ks) (wiki)
 - [Typology for the nurdles of the "Bianca" spill](/notes/eustatic/08-26-2020/typology-for-the-nurdles-of-the-bianca-spill) by [eustatic](../profile/eustatic)

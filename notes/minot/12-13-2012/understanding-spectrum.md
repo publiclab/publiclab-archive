@@ -1,12 +1,18 @@
 ---
-nid: 5191
 title: Understanding the spectrum
-path: public/static/notes/minot/12-13-2012/understanding-spectrum.md
-uid: 46765
 tagnames: 
+author: minot
+path: /notes/minot/12-13-2012/understanding-spectrum.md
+nid: 5191
+uid: 46765
+
 ---
 
 # Understanding the spectrum
+
+by [minot](../profile/minot) December 13, 2012 21:18
+
+December 13, 2012 21:18 | Tags: 
 
 I am a retired Industrial Designer having developed products for the Fortune 200 for 38 years.  I worked for 5 years at Corning and have been interested in effects of sunlight on people and refracted light specifically. I have developed a " Theory of Light, Vision and Color Perception.In graduate school for an MS in Industrial Design my thesis was how and why we see color..biologically and physically. After reading in 1964  Dr. Max Born's attempt to understand refraction and a non continuous spectrum it didn't make sense to me. I experimented.Goethe touched on it  but Goethe  never found an answer.  To those of you in the spectral world and spectral analysis I don't want to raise hackles. I have a friend who is physicist specializing on light for the military..He has no answers for me. It appears from my research over the years that classical light physics does not answer it..
 

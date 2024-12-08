@@ -1,6 +1,6 @@
 # question-waste
 
-4 notes and wiki pages
+4 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [How can I identify bits of plastic from the beach in an image?](/notes/jlev/02-01-2018/how-can-i-identify-bits-of-plastic-from-the-beach-in-an-image) by [jlev](../profile/jlev)
 - [What do you do with charcoal from a water filter?](/notes/permaculturegardener/09-26-2019/what-do-you-do-with-charcoal-from-a-water-filter) by [permaculturegardener](../profile/permaculturegardener)

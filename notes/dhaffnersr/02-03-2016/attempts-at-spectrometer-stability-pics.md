@@ -1,12 +1,18 @@
 ---
-nid: 12646
 title: Attempts at Spectrometer stability pics
-path: public/static/notes/dhaffnersr/02-03-2016/attempts-at-spectrometer-stability-pics.md
-uid: 461120
 tagnames: 
+author: dhaffnersr
+path: /notes/dhaffnersr/02-03-2016/attempts-at-spectrometer-stability-pics.md
+nid: 12646
+uid: 461120
+
 ---
 
 # Attempts at Spectrometer stability pics
+
+by [dhaffnersr](../profile/dhaffnersr) February 03, 2016 21:10
+
+February 03, 2016 21:10 | Tags: 
 
 ****Here are some shots of modifications I have made in the last few days to the spectrometer, thanks in large part to the help of Dave Stoft who has been helping  me with getting my reflection problems worked out and my calibrations more accurate.
 

@@ -1,12 +1,18 @@
 ---
-nid: 12996
 title: Spectrometer Time Filter
-path: public/static/notes/stoft/04-17-2016/spectrometer-time-filter.md
+tagnames: spectrometer, webcam, desktop-spectrometer, noise-reduction, signal-to-noise-ratio, stability, noise
+author: stoft
+path: /notes/stoft/04-17-2016/spectrometer-time-filter.md
+nid: 12996
 uid: 54025
-tagnames: spectrometer,webcam,desktop-spectrometer,noise-reduction,signal-to-noise-ratio,stability,noise
+
 ---
 
 # Spectrometer Time Filter
+
+by [stoft](../profile/stoft) April 17, 2016 20:40
+
+April 17, 2016 20:40 | Tags: [spectrometer](../tag/spectrometer), [webcam](../tag/webcam), [desktop-spectrometer](../tag/desktop-spectrometer), [noise-reduction](../tag/noise-reduction), [signal-to-noise-ratio](../tag/signal-to-noise-ratio), [stability](../tag/stability), [noise](../tag/noise)
 
 **Abstract**
 

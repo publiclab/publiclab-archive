@@ -1,12 +1,18 @@
 ---
-nid: 11168
 title: Replicating the Grading of oils with UV Fluorescence on other cameras pt 1
-path: public/static/notes/mathew/09-22-2014/replicating-the-grading-of-oils-with-uv-fluorescence-on-other-cameras-pt-1.md
+tagnames: spectrometer, fluorescence, oil-testing-kit, 405nm
+author: mathew
+path: /notes/mathew/09-22-2014/replicating-the-grading-of-oils-with-uv-fluorescence-on-other-cameras-pt-1.md
+nid: 11168
 uid: 4
-tagnames: spectrometer,fluorescence,oil-testing-kit,405nm
+
 ---
 
 # Replicating the Grading of oils with UV Fluorescence on other cameras pt 1
+
+by [mathew](../profile/mathew) September 22, 2014 03:20
+
+September 22, 2014 03:20 | Tags: [spectrometer](../tag/spectrometer), [fluorescence](../tag/fluorescence), [oil-testing-kit](../tag/oil-testing-kit), [405nm](../tag/405nm)
 
 ###What I want to do
 replicate the [results of my previous note](/notes/mathew/09-19-2014/grading-oils-with-uv-fluorescence) using different other cameras.  I want to know if the shift in the location of a spectra's peak from blue-green as a measure a series of heavy-to-light oils is reproducible.  I took the spectra in the previous research note with a Syba camera that shipped in our first and second Desktop spectrometry kits, Here I compare to the Sanm camera found in the current Desktop Spectrometer and the infragram Webcam.  

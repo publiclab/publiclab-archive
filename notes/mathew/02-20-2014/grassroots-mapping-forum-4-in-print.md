@@ -1,12 +1,18 @@
 ---
-nid: 10051
 title: Grassroots Mapping Forum #4 in print
-path: public/static/notes/mathew/02-20-2014/grassroots-mapping-forum-4-in-print.md
-uid: 4
 tagnames: gmf
+author: mathew
+path: /notes/mathew/02-20-2014/grassroots-mapping-forum-4-in-print.md
+nid: 10051
+uid: 4
+
 ---
 
 # Grassroots Mapping Forum #4 in print
+
+by [mathew](../profile/mathew) February 20, 2014 23:02
+
+February 20, 2014 23:02 | Tags: [gmf](../tag/gmf)
 
 
 [![GMF4-detail.jpg](https://i.publiclab.org/system/images/photos/000/002/167/medium/GMF4-detail.jpg)](https://i.publiclab.org/system/images/photos/000/002/167/original/GMF4-detail.jpg)

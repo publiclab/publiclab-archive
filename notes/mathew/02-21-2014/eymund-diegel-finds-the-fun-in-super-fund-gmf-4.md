@@ -1,12 +1,18 @@
 ---
-nid: 10052
 title: Eymund Diegel Finds the Fun in Super Fund (GMF #4)
-path: public/static/notes/mathew/02-21-2014/eymund-diegel-finds-the-fun-in-super-fund-gmf-4.md
+tagnames: new-york-city, gmf, gowanus-canal, brooklyn, interview, northeast
+author: mathew
+path: /notes/mathew/02-21-2014/eymund-diegel-finds-the-fun-in-super-fund-gmf-4.md
+nid: 10052
 uid: 4
-tagnames: new-york-city,gmf,gowanus-canal,brooklyn,interview,northeast
+
 ---
 
 # Eymund Diegel Finds the Fun in Super Fund (GMF #4)
+
+by [mathew](../profile/mathew) February 21, 2014 00:20
+
+February 21, 2014 00:20 | Tags: [new-york-city](../tag/new-york-city), [gmf](../tag/gmf), [gowanus-canal](../tag/gowanus-canal), [brooklyn](../tag/brooklyn), [interview](../tag/interview), [northeast](../tag/northeast)
 
 This is an interview by [Shannon Dosemagen](/profile/shannon) of [Eymund Diegel](/profile/eymund-diegel) from [Grassroots Mapping Issue #4.](/notes/mathew/02-20-2014/grassroots-mapping-forum-4-in-print)   buy a copy [here.](http://store.publiclab.org/collections/publications/products/grassroots-mapping-forum-issue-4)
 

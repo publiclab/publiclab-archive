@@ -1,12 +1,18 @@
 ---
-nid: 12158
 title: Formaldehyde Test Kit
-path: public/static/wiki/formaldehyde-test-kit.md
+tagnames: air-quality, tabbed:notes, formaldehyde, open-air, openair, indoor-air-quality, parent:indoor-air-quality-monitoring, activity:formaldehyde
+author: mathew
+path: /wiki/formaldehyde-test-kit.md
+nid: 12158
 uid: 4
-tagnames: air-quality,tabbed:notes,formaldehyde,open-air,openair,indoor-air-quality,parent:indoor-air-quality-monitoring,activity:formaldehyde
+
 ---
 
 # Formaldehyde Test Kit
+
+by [mathew](../profile/mathew), [liz](../profile/liz)
+
+August 20, 2015 00:48 | Tags: [air-quality](../tag/air-quality), [tabbed:notes](../tag/tabbed:notes), [formaldehyde](../tag/formaldehyde), [open-air](../tag/open-air), [openair](../tag/openair), [indoor-air-quality](../tag/indoor-air-quality), [parent:indoor-air-quality-monitoring](../tag/parent:indoor-air-quality-monitoring), [activity:formaldehyde](../tag/activity:formaldehyde)
 
 These formaldehyde testing kits are one part of our multi-pronged [Indoor Air quality monitoring](http://publiclab.org/wiki/indoor-air-quality-monitoring) efforts.
 

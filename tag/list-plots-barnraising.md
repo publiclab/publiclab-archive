@@ -1,6 +1,6 @@
 # list-plots-barnraising
 
-7 notes and wiki pages
+7 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Public Lab Barnraisings](/barnraising) (wiki)
 - [Barnraising Planning](/wiki/barnraising-planning) (wiki)

@@ -1,12 +1,18 @@
 ---
-nid: 10516
 title: GSoC Update: Week 1
-path: public/static/notes/xvidun/05-28-2014/gsoc-update-week-1.md
+tagnames: gsoc, upload, response:10138, gsoc14, jquery-file-upload
+author: xvidun
+path: /notes/xvidun/05-28-2014/gsoc-update-week-1.md
+nid: 10516
 uid: 421168
-tagnames: gsoc,upload,response:10138,gsoc14,jquery-file-upload
+
 ---
 
 # GSoC Update: Week 1
+
+by [xvidun](../profile/xvidun) May 28, 2014 22:47
+
+May 28, 2014 22:47 | Tags: [gsoc](../tag/gsoc), [upload](../tag/upload), [response:10138](../tag/response:10138), [gsoc14](../tag/gsoc14), [jquery-file-upload](../tag/jquery-file-upload)
 
 ##Progress:
 For the past week I've been working on improving the upload interface for Mapknitter image upload. This is the weekly update on work that has been done.

@@ -1,12 +1,18 @@
 ---
-nid: 18527
 title: How can nitrogen/nitrates/ammonia be measured?
-path: public/static/notes/warren/03-12-2019/how-can-nitrogen-nitrates-ammonia-be-measured.md
+tagnames: water-quality, water, nitrate, question:nitrates, nitrogen, question:nitrogen
+author: warren
+path: /notes/warren/03-12-2019/how-can-nitrogen-nitrates-ammonia-be-measured.md
+nid: 18527
 uid: 1
-tagnames: water-quality,water,nitrate,question:nitrates,nitrogen,question:nitrogen
+
 ---
 
 # How can nitrogen/nitrates/ammonia be measured?
+
+by [warren](../profile/warren) March 12, 2019 21:53
+
+March 12, 2019 21:53 | Tags: [water-quality](../tag/water-quality), [water](../tag/water), [nitrate](../tag/nitrate), [question:nitrates](../tag/question:nitrates), [nitrogen](../tag/nitrogen), [question:nitrogen](../tag/question:nitrogen)
 
 I'm copying this information from [the Common Water Contaminants page](/common-water-contaminants), but would love to learn more ways to measure nitrogen as well; please help us compile different techniques!
 

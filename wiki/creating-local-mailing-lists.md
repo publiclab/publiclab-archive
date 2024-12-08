@@ -1,12 +1,18 @@
 ---
-nid: 3095
 title: Instructions for creating local mailing lists
-path: public/static/wiki/creating-local-mailing-lists.md
-uid: 9
 tagnames: mailing-lists
+author: Shannon
+path: /wiki/creating-local-mailing-lists.md
+nid: 3095
+uid: 9
+
 ---
 
 # Instructions for creating local mailing lists
+
+by [Shannon](../profile/Shannon), [warren](../profile/warren)
+
+August 02, 2012 17:01 | Tags: [mailing-lists](../tag/mailing-lists)
 
 **If you would like to start a mailing list for your region or community, follow these easy steps to get the list started:**
 

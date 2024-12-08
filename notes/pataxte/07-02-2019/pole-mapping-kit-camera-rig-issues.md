@@ -1,12 +1,18 @@
 ---
-nid: 19957
 title: pole-mapping kit, camera rig issues...
-path: public/static/notes/pataxte/07-02-2019/pole-mapping-kit-camera-rig-issues.md
+tagnames: question:general, response:11661
+author: pataxte
+path: /notes/pataxte/07-02-2019/pole-mapping-kit-camera-rig-issues.md
+nid: 19957
 uid: 559561
-tagnames: question:general,response:11661
+
 ---
 
 # pole-mapping kit, camera rig issues...
+
+by [pataxte](../profile/pataxte) July 02, 2019 20:38
+
+July 02, 2019 20:38 | Tags: [question:general](../tag/question:general), [response:11661](../tag/response:11661)
 
 For anyone working with the pole mapping kit - This kit was my xmas 
 gift, finally getting to set up and use it. However, the mount is 

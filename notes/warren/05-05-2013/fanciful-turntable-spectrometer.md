@@ -1,12 +1,18 @@
 ---
-nid: 7239
 title: Fanciful "turntable spectrometer"
-path: public/static/notes/warren/05-05-2013/fanciful-turntable-spectrometer.md
+tagnames: spectrometer, parts-and-crafts, turntable
+author: warren
+path: /notes/warren/05-05-2013/fanciful-turntable-spectrometer.md
+nid: 7239
 uid: 1
-tagnames: spectrometer,parts-and-crafts,turntable
+
 ---
 
 # Fanciful "turntable spectrometer"
+
+by [warren](../profile/warren) May 05, 2013 01:34
+
+May 05, 2013 01:34 | Tags: [spectrometer](../tag/spectrometer), [parts-and-crafts](../tag/parts-and-crafts), [turntable](../tag/turntable)
 
 A [Parts & Crafts](http://partsandcrafts.org) over a year ago, we built a spectrometer/turntable which 'played' colors by inverse fast Fourier transforming them into sound... using code which was really not very well implemented. But it was interesting to see, and I think someday we could create "guitar pedals" which distort sound based on the spectral reading of a material. Fanciful indeed, but perhaps another interesting use for spectrometry!  
 

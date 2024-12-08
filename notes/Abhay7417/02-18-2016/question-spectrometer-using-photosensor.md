@@ -1,12 +1,18 @@
 ---
-nid: 12703
 title: Question: Spectrometer  using photosensor
-path: public/static/notes/Abhay7417/02-18-2016/question-spectrometer-using-photosensor.md
-uid: 465695
 tagnames: question:spectral-workbench
+author: Abhay7417
+path: /notes/Abhay7417/02-18-2016/question-spectrometer-using-photosensor.md
+nid: 12703
+uid: 465695
+
 ---
 
 # Question: Spectrometer  using photosensor
+
+by [Abhay7417](../profile/Abhay7417) February 18, 2016 07:03
+
+February 18, 2016 07:03 | Tags: [question:spectral-workbench](../tag/question:spectral-workbench)
 
 ###What I want to do or know
 How can i interface the values from arduino to spectral workbench software, please suggest how to do this? 

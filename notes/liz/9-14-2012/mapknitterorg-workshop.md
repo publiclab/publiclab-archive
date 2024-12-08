@@ -1,12 +1,18 @@
 ---
-nid: 3821
 title: MapKnitter.org workshop
-path: public/static/notes/liz/9-14-2012/mapknitterorg-workshop.md
+tagnames: balloon-mapping, mapknitter, events, oyster-reef, event
+author: liz
+path: /notes/liz/9-14-2012/mapknitterorg-workshop.md
+nid: 3821
 uid: 7
-tagnames: balloon-mapping,mapknitter,events,oyster-reef,event
+
 ---
 
 # MapKnitter.org workshop
+
+by [liz](../profile/liz) September 14, 2012 18:30
+
+September 14, 2012 18:30 | Tags: [balloon-mapping](../tag/balloon-mapping), [mapknitter](../tag/mapknitter), [events](../tag/events), [oyster-reef](../tag/oyster-reef), [event](../tag/event)
 
 The Hudson River Foundation is graciously hosting a map knitting workshop for the local Public Lab community as part of an initiative to map oyster reefs in the Bronx River. This initiative extends to identifying potential locations of future oyster reefs as well as other shoreline investigations. 
 

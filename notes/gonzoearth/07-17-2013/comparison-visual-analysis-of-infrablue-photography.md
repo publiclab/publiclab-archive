@@ -1,12 +1,18 @@
 ---
-nid: 8904
 title: comparison visual analysis of infrablue photography 
-path: public/static/notes/gonzoearth/07-17-2013/comparison-visual-analysis-of-infrablue-photography.md
-uid: 12
 tagnames: 
+author: gonzoearth
+path: /notes/gonzoearth/07-17-2013/comparison-visual-analysis-of-infrablue-photography.md
+nid: 8904
+uid: 12
+
 ---
 
 # comparison visual analysis of infrablue photography 
+
+by [gonzoearth](../profile/gonzoearth) July 17, 2013 19:34
+
+July 17, 2013 19:34 | Tags: 
 
 cfastie posted an [important note about where infra blue photography needs to go](http://publiclab.org/notes/cfastie/07-17-2013/infrablue-minutiae) and it got me thinking about viewing the different multispectral images together; I prefer an overlay environment. The following js slider approach seems to do this well 
  

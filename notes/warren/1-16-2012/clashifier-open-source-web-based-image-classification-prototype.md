@@ -1,12 +1,18 @@
 ---
-nid: 692
 title: Clashifier: open source, web based image classification prototype
-path: public/static/notes/warren/1-16-2012/clashifier-open-source-web-based-image-classification-prototype.md
+tagnames: oil, image-interpretation, classification, clashifier, training, identifying-oil
+author: warren
+path: /notes/warren/1-16-2012/clashifier-open-source-web-based-image-classification-prototype.md
+nid: 692
 uid: 1
-tagnames: oil,image-interpretation,classification,clashifier,training,identifying-oil
+
 ---
 
 # Clashifier: open source, web based image classification prototype
+
+by [warren](../profile/warren) January 16, 2012 20:54
+
+January 16, 2012 20:54 | Tags: [oil](../tag/oil), [image-interpretation](../tag/image-interpretation), [classification](../tag/classification), [clashifier](../tag/clashifier), [training](../tag/training), [identifying-oil](../tag/identifying-oil)
 
 I've been puttering around on this project for a little while (started at WhereCamp Boston last fall) called Clashifier - it's intended to help people "train" a "model" of different land types by drawing on an example image. Then it tries to extrapolate that model to color any image by the same "training"
 

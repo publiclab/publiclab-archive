@@ -1,12 +1,18 @@
 ---
-nid: 26417
 title: Potholes in New Orleans Study Design
-path: public/static/notes/Rgaude/04-30-2021/potholes-in-new-orleans-study-design.md
+tagnames: gulf-coast, balloon-mapping, laplace, louisiana, transportation, new-orleans, potholes, roads, lat:29.951065, lon:-90.071532, zoom:6, asphalt
+author: Rgaude
+path: /notes/Rgaude/04-30-2021/potholes-in-new-orleans-study-design.md
+nid: 26417
 uid: 749812
-tagnames: gulf-coast,balloon-mapping,laplace,louisiana,transportation,new-orleans,potholes,roads,lat:29.951065,lon:-90.071532,zoom:6,asphalt
+
 ---
 
 # Potholes in New Orleans Study Design
+
+by [Rgaude](../profile/Rgaude) April 30, 2021 15:51
+
+April 30, 2021 15:51 | Tags: [gulf-coast](../tag/gulf-coast), [balloon-mapping](../tag/balloon-mapping), [laplace](../tag/laplace), [louisiana](../tag/louisiana), [transportation](../tag/transportation), [new-orleans](../tag/new-orleans), [potholes](../tag/potholes), [roads](../tag/roads), [lat:29.951065](../tag/lat:29.951065), [lon:-90.071532](../tag/lon:-90.071532), [zoom:6](../tag/zoom:6), [asphalt](../tag/asphalt)
 
 We have now developed a plan to actually start conducting field research.  
 

@@ -1,12 +1,18 @@
 ---
-nid: 16283
 title: I am new to the community, where do I start?
-path: public/static/notes/yala/05-02-2018/i-am-new-to-the-community-where-do-i-start.md
+tagnames: mapping, networking, development, mesh, operations, question:general, location:blurred, commons, cartography, critical, collective, infrastructure, place:witzenhausen
+author: yala
+path: /notes/yala/05-02-2018/i-am-new-to-the-community-where-do-i-start.md
+nid: 16283
 uid: 532941
-tagnames: mapping,networking,development,mesh,operations,question:general,location:blurred,commons,cartography,critical,collective,infrastructure,place:witzenhausen
+
 ---
 
 # I am new to the community, where do I start?
+
+by [yala](../profile/yala) May 02, 2018 20:53
+
+May 02, 2018 20:53 | Tags: [mapping](../tag/mapping), [networking](../tag/networking), [development](../tag/development), [mesh](../tag/mesh), [operations](../tag/operations), [question:general](../tag/question:general), [location:blurred](../tag/location:blurred), [commons](../tag/commons), [cartography](../tag/cartography), [critical](../tag/critical), [collective](../tag/collective), [infrastructure](../tag/infrastructure), [place:witzenhausen](../tag/place:witzenhausen)
 
 Best Public Lab community,
 

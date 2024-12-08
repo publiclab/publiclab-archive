@@ -1,12 +1,18 @@
 ---
-nid: 4545
 title: R-Pi-in-Sky @ LEAFFEST
-path: public/static/notes/donblair/10-21-2012/r-pi-sky-leaffest.md
+tagnames: balloon-mapping, kite-mapping, leaffest, leaffest2012, raspberry-pi, camera-rig
+author: donblair
+path: /notes/donblair/10-21-2012/r-pi-sky-leaffest.md
+nid: 4545
 uid: 43651
-tagnames: balloon-mapping,kite-mapping,leaffest,leaffest2012,raspberry-pi,camera-rig
+
 ---
 
 # R-Pi-in-Sky @ LEAFFEST
+
+by [donblair](../profile/donblair) October 21, 2012 19:55
+
+October 21, 2012 19:55 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [leaffest](../tag/leaffest), [leaffest2012](../tag/leaffest2012), [raspberry-pi](../tag/raspberry-pi), [camera-rig](../tag/camera-rig)
 
 Herein, please find a long-overdue update on the maiden flight of the <a href="http://publiclaboratory.org/notes/donblair/9-20-2012/raspberry-pi-sky">Raspberry Pi in the Sky</a> design that Craig Versek put together for <a href="http://publiclaboratory.org/notes/cfastie/9-5-2012/l-e-f-f-e-s-t">LEAFFEST</a> in September.   
  

@@ -1,12 +1,18 @@
 ---
-nid: 12878
 title: Pm 2.5 network in Taiwan
-path: public/static/notes/liz/03-23-2016/pm-2-5-network-in-taiwan.md
+tagnames: asia, taipei, pm, taiwan, g0v
+author: liz
+path: /notes/liz/03-23-2016/pm-2-5-network-in-taiwan.md
+nid: 12878
 uid: 7
-tagnames: asia,taipei,pm,taiwan,g0v
+
 ---
 
 # Pm 2.5 network in Taiwan
+
+by [liz](../profile/liz) March 23, 2016 15:32
+
+March 23, 2016 15:32 | Tags: [asia](../tag/asia), [taipei](../tag/taipei), [pm](../tag/pm), [taiwan](../tag/taiwan), [g0v](../tag/g0v)
 
 Our taiwanese friends g0v.tw wanted to share a new project they are working on -- 300 air quality devices "LASS" by realtek are being installed in Taipei City public schools. This is supported by the Mayor's Office. 
 

@@ -1,6 +1,6 @@
 # micro-sd
 
-5 notes and wiki pages
+5 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Riffle test 1](/notes/cfastie/05-18-2016/riffle-test-1) by [cfastie](../profile/cfastie)
 - [Riffle test data](/notes/cfastie/05-18-2016/riffle-test-data) by [cfastie](../profile/cfastie)

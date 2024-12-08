@@ -1,12 +1,18 @@
 ---
-nid: 16425
 title: Bug? My Spectrum loads then vanishes.
-path: public/static/notes/SarahC/06-03-2018/bug-my-spectrum-loads-then-vanishes.md
+tagnames: question:spectral-workbench, answered
+author: SarahC
+path: /notes/SarahC/06-03-2018/bug-my-spectrum-loads-then-vanishes.md
+nid: 16425
 uid: 448894
-tagnames: question:spectral-workbench,answered
+
 ---
 
 # Bug? My Spectrum loads then vanishes.
+
+by [SarahC](../profile/SarahC) June 03, 2018 05:01
+
+June 03, 2018 05:01 | Tags: [question:spectral-workbench](../tag/question:spectral-workbench), [answered](../tag/answered)
 
 I forked one of my broken spectrums here:
 

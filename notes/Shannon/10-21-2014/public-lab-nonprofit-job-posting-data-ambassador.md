@@ -1,12 +1,18 @@
 ---
-nid: 11289
 title: Public Lab nonprofit job posting: Data Ambassador
-path: public/static/notes/Shannon/10-21-2014/public-lab-nonprofit-job-posting-data-ambassador.md
-uid: 9
 tagnames: nonprofit
+author: Shannon
+path: /notes/Shannon/10-21-2014/public-lab-nonprofit-job-posting-data-ambassador.md
+nid: 11289
+uid: 9
+
 ---
 
 # Public Lab nonprofit job posting: Data Ambassador
+
+by [Shannon](../profile/Shannon) October 21, 2014 18:47
+
+October 21, 2014 18:47 | Tags: [nonprofit](../tag/nonprofit)
 
 **Public Laboratory for Open Technology and Science: Data Ambassador**
 

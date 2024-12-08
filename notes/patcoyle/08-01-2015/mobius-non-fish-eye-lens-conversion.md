@@ -1,12 +1,18 @@
 ---
-nid: 12112
 title: Mobius non-fish-eye lens conversion
-path: public/static/notes/patcoyle/08-01-2015/mobius-non-fish-eye-lens-conversion.md
+tagnames: kap, fisheye, mobius-actioncam, infragram-point-shoot, stowaway-delta, non-fish-eye, activity:multispectral-imaging, activity:infragram, activity:ndvi, lens-distortion, lens-swapping, activity:filter-swapping, activity:lens-swapping
+author: patcoyle
+path: /notes/patcoyle/08-01-2015/mobius-non-fish-eye-lens-conversion.md
+nid: 12112
 uid: 77
-tagnames: kap,fisheye,mobius-actioncam,infragram-point-shoot,stowaway-delta,non-fish-eye,activity:multispectral-imaging,activity:infragram,activity:ndvi,lens-distortion,lens-swapping,activity:filter-swapping,activity:lens-swapping
+
 ---
 
 # Mobius non-fish-eye lens conversion
+
+by [patcoyle](../profile/patcoyle) August 01, 2015 18:32
+
+August 01, 2015 18:32 | Tags: [kap](../tag/kap), [fisheye](../tag/fisheye), [mobius-actioncam](../tag/mobius-actioncam), [infragram-point-shoot](../tag/infragram-point-shoot), [stowaway-delta](../tag/stowaway-delta), [non-fish-eye](../tag/non-fish-eye), [activity:multispectral-imaging](../tag/activity:multispectral-imaging), [activity:infragram](../tag/activity:infragram), [activity:ndvi](../tag/activity:ndvi), [lens-distortion](../tag/lens-distortion), [lens-swapping](../tag/lens-swapping), [activity:filter-swapping](../tag/activity:filter-swapping), [activity:lens-swapping](../tag/activity:lens-swapping)
 
 ###What I want to do
 Explore alternative non-fish-eye lens options for use with Mobius Infragram plant cam or standard visible imagery Mobius. The "flat" images are preferred for mapping in MapKnitter or other auto-stitching programs. This continues a few notes to explore smaller kites for mapping with Mobius Infragram plant cam. See prior [note](http://publiclab.org/notes/patcoyle/07-24-2015/small-kites-for-mobius-stowaway-delta) and  [note](http://publiclab.org/notes/patcoyle/07-20-2015/small-parafoil-kite-for-mobius-camera) and [note](http://publiclab.org/notes/patcoyle/07-17-2015/more-re-small-pocket-sled-kite-for-mobius-camera) and [note](http://publiclab.org/notes/patcoyle/07-14-2015/smal-pocket-sled-kite-for-mobius-camera).

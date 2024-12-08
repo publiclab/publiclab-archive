@@ -1,11 +1,17 @@
 ---
-nid: 5345
 title: Tis the Season
-path: public/static/notes/cfastie/12-25-2012/tis-season.md
+tagnames: spectrometer, holiday, christmas
+author: cfastie
+path: /notes/cfastie/12-25-2012/tis-season.md
+nid: 5345
 uid: 554
-tagnames: spectrometer,holiday,christmas
+
 ---
 
 # Tis the Season
+
+by [cfastie](../profile/cfastie) December 25, 2012 21:56
+
+December 25, 2012 21:56 | Tags: [spectrometer](../tag/spectrometer), [holiday](../tag/holiday), [christmas](../tag/christmas)
 
 ##A Merry Public Lab Christmas to All!##

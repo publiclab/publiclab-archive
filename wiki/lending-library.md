@@ -1,12 +1,18 @@
 ---
-nid: 10953
 title: Public Lab Lending Library
-path: public/static/wiki/lending-library.md
+tagnames: community, lending-library
+author: liz
+path: /wiki/lending-library.md
+nid: 10953
 uid: 7
-tagnames: community,lending-library
+
 ---
 
 # Public Lab Lending Library
+
+by [liz](../profile/liz), [bsugar](../profile/bsugar), [dce-f](../profile/dce-f), [mathew](../profile/mathew), [warren](../profile/warren), [Shannon](../profile/Shannon)
+
+July 23, 2014 16:19 | Tags: [community](../tag/community), [lending-library](../tag/lending-library)
 
 Built off the model we established in the wake of the BP Oil spill which allowed volunteers to map over 100 miles of coastline using only three DIY aerial mapping toolkits, Public Lab is working on launching a comprehensive tool lending program. However, we currently host and partner with other organizations on providing four informal lending locations where you can check out Public Lab tools:
 

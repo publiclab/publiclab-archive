@@ -1,6 +1,6 @@
 # parent-education
 
-8 notes and wiki pages
+8 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Public Lab for Educators](/wiki/public-lab-for-teachers) (wiki)
 - [learning](/wiki/learning) (wiki)

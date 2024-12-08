@@ -1,12 +1,18 @@
 ---
-nid: 2348
 title: Rhus - Open Source Mobile GIS for Community Ecology 
-path: public/static/notes/deepwinter/6-5-2012/rhus-open-source-mobile-gis-community-ecology.md
-uid: 808
 tagnames: first-time-poster
+author: deepwinter
+path: /notes/deepwinter/6-5-2012/rhus-open-source-mobile-gis-community-ecology.md
+nid: 2348
+uid: 808
+
 ---
 
 # Rhus - Open Source Mobile GIS for Community Ecology 
+
+by [deepwinter](../profile/deepwinter) June 05, 2012 07:34
+
+June 05, 2012 07:34 | Tags: [first-time-poster](../tag/first-time-poster)
 
 Several months ago we were inspired to start building an open source mobile GIS platform for community ecology, and want to share the current state of our work.  We knew that there were a lot of applications out there for creating geo-tagged imagery and uploading to social media, but we wanted something that was more geared towards citizen science data collection.  We saw the main goals as being offline usability, geo-spatial queries, open source customization, and visualizing change over time.  For community projects, it's also important to have seamless integration between mobile apps and a community website to facilitate social data collection.
 

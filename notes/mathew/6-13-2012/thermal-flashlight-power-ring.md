@@ -1,12 +1,18 @@
 ---
-nid: 2478
 title: Thermal Flashlight as Power Ring
-path: public/static/notes/mathew/6-13-2012/thermal-flashlight-power-ring.md
+tagnames: thermal-photography, thermal-flashlight
+author: mathew
+path: /notes/mathew/6-13-2012/thermal-flashlight-power-ring.md
+nid: 2478
 uid: 4
-tagnames: thermal-photography,thermal-flashlight
+
 ---
 
 # Thermal Flashlight as Power Ring
+
+by [mathew](../profile/mathew) June 13, 2012 23:29
+
+June 13, 2012 23:29 | Tags: [thermal-photography](../tag/thermal-photography), [thermal-flashlight](../tag/thermal-flashlight)
 
 This is a page out of my sketch book-- introducing the idea for thermal flashlight packaging, as well as an alternate method of setting the temperature range, so no re-programming is needed.  These features could be added to [the surface mount design in progress.](/notes/nadya/6-4-2012/surface-mount-mini-thermal-flashlight)
 

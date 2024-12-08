@@ -1,6 +1,6 @@
 # plots2
 
-40 notes and wiki pages
+40 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [plots2: the Public Lab 2.0 website](/wiki/plots2) (wiki)
 - [plots2 Alpha](/wiki/plots2-alpha) (wiki)

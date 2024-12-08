@@ -1,12 +1,18 @@
 ---
-nid: 11256
 title: Mapping (in)formal and formal recycling sites and flows: Nicaragua to Boston
-path: public/static/notes/MollyDanielsson/10-10-2014/mapping-in-formal-and-formal-recycling-sites-and-flows-nicaragua-to-boston.md
+tagnames: boston, gmf, landfill, central-america, waste, nicaragua, trash, northeast, style:fancy, response:6815, gmf6, el-rama
+author: mollydanielsson
+path: /notes/MollyDanielsson/10-10-2014/mapping-in-formal-and-formal-recycling-sites-and-flows-nicaragua-to-boston.md
+nid: 11256
 uid: 1259
-tagnames: boston,gmf,landfill,central-america,waste,nicaragua,trash,northeast,style:fancy,response:6815,gmf6,el-rama
+
 ---
 
 # Mapping (in)formal and formal recycling sites and flows: Nicaragua to Boston
+
+by [mollydanielsson](../profile/mollydanielsson) October 10, 2014 01:27
+
+October 10, 2014 01:27 | Tags: [boston](../tag/boston), [gmf](../tag/gmf), [landfill](../tag/landfill), [central-america](../tag/central-america), [waste](../tag/waste), [nicaragua](../tag/nicaragua), [trash](../tag/trash), [northeast](../tag/northeast), [style:fancy](../tag/style:fancy), [response:6815](../tag/response:6815), [gmf6](../tag/gmf6), [el-rama](../tag/el-rama)
 
 
 This is an article by **Eliana Blaine** for [Grassroots Mapping Issue #6 on Waste](http://publiclab.org/forum). Buy a copy [here](http://store.publiclab.org/collections/publications/products/grassroots-mapping-forum-issue-4).

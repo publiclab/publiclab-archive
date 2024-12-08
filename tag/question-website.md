@@ -1,6 +1,6 @@
 # question-website
 
-30 notes and wiki pages
+30 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [What goes into choosing a topic name?](/notes/liz/09-27-2016/what-goes-into-choosing-a-topic-name) by [liz](../profile/liz)
 - [Activity Grids formatting - what will be their final form? ](/notes/pdhixenbaugh/10-04-2016/activity-grids-formatting-what-will-be-their-final-form) by [pdhixenbaugh](../profile/pdhixenbaugh)
@@ -16,19 +16,13 @@
 - [Link to notes tagged not working](/notes/asnow/07-11-2018/link-to-notes-tagged-not-working) by [asnow](../profile/asnow)
 - [Uploaded pictures always stays vertical](/notes/aemilius89/12-12-2018/uploaded-pictures-always-stays-vertical) by [aemilius89](../profile/aemilius89)
 - [How do I interpret the relationship between the schema.rb file and the models?](/notes/bsugar/03-02-2019/how-do-i-interpret-the-relationship-between-the-schema-rb-file-and-the-models) by [bsugar](../profile/bsugar)
-- [All profile email addresses and content can be accessed by clicking "Sign up" button](/notes/AcceptPhones/03-18-2019/all-profile-email-addresses-and-content-can-be-accessed-by-clicking-sign-up-button) by [AcceptPhones](../profile/AcceptPhones)
 - [How can I delete a User Account?](/notes/niklasjordan/03-25-2019/how-can-i-delete-a-user-account) by [niklasjordan](../profile/niklasjordan)
 - [How are the Q&A's tied together in the website database?](/notes/bsugar/04-15-2019/how-are-the-q-a-s-tied-together-in-the-website-database) by [bsugar](../profile/bsugar)
 - [How can I create and work on my own issue in Github? ](/notes/bsugar/05-12-2019/how-can-i-create-and-work-on-my-own-issue-in-github) by [bsugar](../profile/bsugar)
-- [How can I Promote My Account?](/notes/ajquotes/05-18-2019/how-can-i-promote-my-account) by [ajquotes](../profile/ajquotes)
 - [Changing my username](/notes/sam_ettenborough/05-20-2020/changing-my-username) by [sam_ettenborough](../profile/sam_ettenborough)
 - [How do you write and post in the public lab community? Asking for our developers!](/notes/emash/06-01-2020/how-do-you-write-and-post-in-the-public-lab-community-asking-for-our-developers) by [emash](../profile/emash)
 - [Is our error reporting adequate?](/notes/icarito/06-23-2020/is-our-error-reporting-adequate) by [icarito](../profile/icarito)
-- [dwikor](/notes/dwkor/10-11-2020/dwikor) by [dwkor](../profile/dwkor)
-- [No B2 in calibration](/notes/hazmanaim123/11-11-2020/no-b2-in-calibration) by [hazmanaim123](../profile/hazmanaim123)
 - [Problem with Photo Monitoring Plugin on Fiji](/notes/SamWolfe/11-30-2020/problem-with-photo-monitoring-plugin-on-fiji) by [SamWolfe](../profile/SamWolfe)
 - [How can the account be deleted?](/notes/tupaschoal/04-17-2021/how-can-the-account-be-deleted) by [tupaschoal](../profile/tupaschoal)
 - [We are having trouble with our map knitting](/notes/jerejack0507/05-04-2021/we-are-having-trouble-with-our-map-knitting) by [jerejack0507](../profile/jerejack0507)
 - [Spectral Workbench: Can't search (502 Bad Gateway)](/notes/dlwilson1a/10-04-2021/spectral-workbench-can-t-search-502-bad-gateway) by [dlwilson1a](../profile/dlwilson1a)
-- [I don't understand why I can't publish my content, please help me](/notes/monzsdgi/06-27-2023/i-don-t-understand-why-i-can-t-publish-my-content-please-help-me) by [monzsdgi](../profile/monzsdgi)
-- [Privacy policy](/notes/maendeleo/09-21-2023/privacy-policy) by [maendeleo](../profile/maendeleo)

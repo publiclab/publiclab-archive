@@ -1,11 +1,17 @@
 ---
-nid: 9048
 title: colab21
-path: public/static/wiki/colab21.md
+tagnames: crowd-sourcing, collaboration, skillshare, wiki, cocreation
+author: bicudo
+path: /wiki/colab21.md
+nid: 9048
 uid: 205443
-tagnames: crowd-sourcing,collaboration,skillshare,wiki,cocreation
+
 ---
 
 # colab21
+
+by [bicudo](../profile/bicudo)
+
+August 22, 2013 14:53 | Tags: [crowd-sourcing](../tag/crowd-sourcing), [collaboration](../tag/collaboration), [skillshare](../tag/skillshare), [wiki](../tag/wiki), [cocreation](../tag/cocreation)
 
 https://www.facebook.com/coLab21

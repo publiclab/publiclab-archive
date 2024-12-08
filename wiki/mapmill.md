@@ -1,12 +1,18 @@
 ---
-nid: 141
 title: MapMill
-path: public/static/wiki/mapmill.md
+tagnames: software, needs-revision, developers, mapmill, photo-sharing
+author: warren
+path: /wiki/mapmill.md
+nid: 141
 uid: 1
-tagnames: software,needs-revision,developers,mapmill,photo-sharing
+
 ---
 
 # MapMill
+
+by [warren](../profile/warren), [liz](../profile/liz), [gonzoearth](../profile/gonzoearth)
+
+March 09, 2011 17:04 | Tags: [software](../tag/software), [needs-revision](../tag/needs-revision), [developers](../tag/developers), [mapmill](../tag/mapmill), [photo-sharing](../tag/photo-sharing)
 
 [MapMill](http://mapmill.org) is the Public Lab tool for sorting imagery produced with [balloon mapping](/wiki/balloon-mapping).
 

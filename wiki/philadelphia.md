@@ -1,12 +1,18 @@
 ---
-nid: 7147
 title: Philadelphia
-path: public/static/wiki/philadelphia.md
+tagnames: philadelphia, urban-design, events:philadelphia, list:plots-philadelphia, chapter, northeast, parent:northeast, location:blurred, lat:39, lon:-75
+author: geography76
+path: /wiki/philadelphia.md
+nid: 7147
 uid: 176
-tagnames: philadelphia,urban-design,events:philadelphia,list:plots-philadelphia,chapter,northeast,parent:northeast,location:blurred,lat:39,lon:-75
+
 ---
 
 # Philadelphia
+
+by [seankmcginnis](../profile/seankmcginnis), [liz](../profile/liz), [geography76](../profile/geography76), [warren](../profile/warren)
+
+May 01, 2013 14:53 | Tags: [philadelphia](../tag/philadelphia), [urban-design](../tag/urban-design), [events:philadelphia](../tag/events:philadelphia), [list:plots-philadelphia](../tag/list:plots-philadelphia), [chapter](../tag/chapter), [northeast](../tag/northeast), [parent:northeast](../tag/parent:northeast), [location:blurred](../tag/location:blurred), [lat:39](../tag/lat:39), [lon:-75](../tag/lon:-75)
 
 Philadelphia is home to a newly active group of Public Labbers. So far, our focus has been on building a Public Lab community in the Philadelphia region (Philadelphia County; the five-county suburban region in PA; southern NJ; and northern DE) and teaching folks how to organize and run their own balloon mapping projects.
 

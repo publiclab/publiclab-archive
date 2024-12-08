@@ -1,12 +1,18 @@
 ---
-nid: 16175
 title: Simple pulse motor generator, powered with solar panels 
-path: public/static/notes/sciencetoolbar/04-19-2018/simple-pulse-motor-generator-powered-with-solar-panels.md
+tagnames: classroom, generator, solar, activity:science-fair, science-fair, activity:solar, activity:classroom, activity:generator, motor-generator, pulse-motor, pulse-motor-generator, pmg
+author: sciencetoolbar
+path: /notes/sciencetoolbar/04-19-2018/simple-pulse-motor-generator-powered-with-solar-panels.md
+nid: 16175
 uid: 513114
-tagnames: classroom,generator,solar,activity:science-fair,science-fair,activity:solar,activity:classroom,activity:generator,motor-generator,pulse-motor,pulse-motor-generator,pmg
+
 ---
 
 # Simple pulse motor generator, powered with solar panels 
+
+by [sciencetoolbar](../profile/sciencetoolbar) April 19, 2018 11:10
+
+April 19, 2018 11:10 | Tags: [classroom](../tag/classroom), [generator](../tag/generator), [solar](../tag/solar), [activity:science-fair](../tag/activity:science-fair), [science-fair](../tag/science-fair), [activity:solar](../tag/activity:solar), [activity:classroom](../tag/activity:classroom), [activity:generator](../tag/activity:generator), [motor-generator](../tag/motor-generator), [pulse-motor](../tag/pulse-motor), [pulse-motor-generator](../tag/pulse-motor-generator), [pmg](../tag/pmg)
 
 Motor generator ( pulse motor generator) powered with solar panels [link text](http://sciencetoolbar.com/motor-generator/)
 

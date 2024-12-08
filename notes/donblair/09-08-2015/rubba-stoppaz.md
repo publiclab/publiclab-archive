@@ -1,12 +1,18 @@
 ---
-nid: 12204
 title: Rubba Stoppaz
-path: public/static/notes/donblair/09-08-2015/rubba-stoppaz.md
+tagnames: water-sensing, water-quality, riffle, open-water, bottle, waterproofing, seals, stoppers, riffle-examples, data-logger-enclosures, sensor-enclosures, activity:sensor-enclosures
+author: donblair
+path: /notes/donblair/09-08-2015/rubba-stoppaz.md
+nid: 12204
 uid: 43651
-tagnames: water-sensing,water-quality,riffle,open-water,bottle,waterproofing,seals,stoppers,riffle-examples,data-logger-enclosures,sensor-enclosures,activity:sensor-enclosures
+
 ---
 
 # Rubba Stoppaz
+
+by [donblair](../profile/donblair) September 08, 2015 13:32
+
+September 08, 2015 13:32 | Tags: [water-sensing](../tag/water-sensing), [water-quality](../tag/water-quality), [riffle](../tag/riffle), [open-water](../tag/open-water), [bottle](../tag/bottle), [waterproofing](../tag/waterproofing), [seals](../tag/seals), [stoppers](../tag/stoppers), [riffle-examples](../tag/riffle-examples), [data-logger-enclosures](../tag/data-logger-enclosures), [sensor-enclosures](../tag/sensor-enclosures), [activity:sensor-enclosures](../tag/activity:sensor-enclosures)
 
 Finally getting around to testing @mathew 's clever ideas around sealing up plastic water bottles as electronics enclosures!
 

@@ -1,6 +1,6 @@
 # survey
 
-11 notes and wiki pages
+11 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Public Lab Map Annotation Survey](/notes/Shannon/04-11-2013/public-lab-map-annotation-survey) by [Shannon](../profile/Shannon)
 - [Survey for newcomers on interface design of new editor](/notes/warren/05-19-2016/survey-for-newcomers-on-interface-design-of-new-editor) by [warren](../profile/warren)

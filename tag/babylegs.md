@@ -1,6 +1,6 @@
 # babylegs
 
-31 notes and wiki pages
+31 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [BabyLegs](/wiki/babylegs) (wiki)
 - [Can plastic trawls be used in rivers?](/notes/warren/07-11-2018/can-plastic-trawls-be-used-in-rivers) by [warren](../profile/warren)

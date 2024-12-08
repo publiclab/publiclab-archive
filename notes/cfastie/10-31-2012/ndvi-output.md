@@ -1,12 +1,18 @@
 ---
-nid: 4720
 title: NDVI output
-path: public/static/notes/cfastie/10-31-2012/ndvi-output.md
+tagnames: balloon-mapping, near-infrared-camera, ndvi, imagej, gigapan
+author: cfastie
+path: /notes/cfastie/10-31-2012/ndvi-output.md
+nid: 4720
 uid: 554
-tagnames: balloon-mapping,near-infrared-camera,ndvi,imagej,gigapan
+
 ---
 
 # NDVI output
+
+by [cfastie](../profile/cfastie) October 31, 2012 16:27
+
+October 31, 2012 16:27 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [imagej](../tag/imagej), [gigapan](../tag/gigapan)
 
 <em>Three new color tables made by Ned Horning to present NDVI values as color images.</em>
 

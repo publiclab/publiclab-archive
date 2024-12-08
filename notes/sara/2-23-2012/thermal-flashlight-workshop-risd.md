@@ -1,12 +1,18 @@
 ---
-nid: 835
 title: Thermal Flashlight Workshop RISD!
-path: public/static/notes/sara/2-23-2012/thermal-flashlight-workshop-risd.md
-uid: 8
 tagnames: 
+author: sara
+path: /notes/sara/2-23-2012/thermal-flashlight-workshop-risd.md
+nid: 835
+uid: 8
+
 ---
 
 # Thermal Flashlight Workshop RISD!
+
+by [sara](../profile/sara) February 23, 2012 22:09
+
+February 23, 2012 22:09 | Tags: 
 
 Here is a great video of the Thermal Flashlight Wand, developed during the RISD research session, in use.  The Thermal Wand designed by Marianna Williams in RISD's photo department extends the reach of the thermal flashlight making it easier to shine the flashlight without getting in the way of the camera. Basically Marianna just taped the components onto a piece of wood. This video was made by RISD photography student Dima Gavrysh. 
 

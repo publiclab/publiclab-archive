@@ -1,12 +1,18 @@
 ---
-nid: 10983
 title: Stockton Harbor wastes overflown,  EPA starts  preliminary Superfund review! Data tips?
-path: public/static/notes/RonHuber/07-27-2014/stockton-harbor-wastes-overflown-epa-starts-preliminary-superfund-review-data-tips.md
+tagnames: maine, northeast, phosphogypsum, bauxite, penobscot, bay, stockton, harbor, kidder, point, superphosphate, gac, chemical
+author: ronhuber
+path: /notes/RonHuber/07-27-2014/stockton-harbor-wastes-overflown-epa-starts-preliminary-superfund-review-data-tips.md
+nid: 10983
 uid: 437
-tagnames: maine,northeast,phosphogypsum,bauxite,penobscot,bay,stockton,harbor,kidder,point,superphosphate,gac,chemical
+
 ---
 
 # Stockton Harbor wastes overflown,  EPA starts  preliminary Superfund review! Data tips?
+
+by [ronhuber](../profile/ronhuber) July 27, 2014 04:26
+
+July 27, 2014 04:26 | Tags: [maine](../tag/maine), [northeast](../tag/northeast), [phosphogypsum](../tag/phosphogypsum), [bauxite](../tag/bauxite), [penobscot](../tag/penobscot), [bay](../tag/bay), [stockton](../tag/stockton), [harbor](../tag/harbor), [kidder](../tag/kidder), [point](../tag/point), [superphosphate](../tag/superphosphate), [gac](../tag/gac), [chemical](../tag/chemical)
 
 ###  Exciting news!
 1. Our overflight of the Kidder Point waste site and tidal flat with [Project Lighthawk](http://www.lighthawk.org/) went without a hitch. 

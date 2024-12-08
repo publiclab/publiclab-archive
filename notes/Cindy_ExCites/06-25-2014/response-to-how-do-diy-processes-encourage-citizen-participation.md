@@ -1,12 +1,18 @@
 ---
-nid: 10616
 title: Response to "How do DIY processes encourage citizen participation?"
-path: public/static/notes/Cindy_ExCites/06-25-2014/response-to-how-do-diy-processes-encourage-citizen-participation.md
+tagnames: kite-mapping, diy, civic-science, crowdsourcing
+author: cindy_excites
+path: /notes/Cindy_ExCites/06-25-2014/response-to-how-do-diy-processes-encourage-citizen-participation.md
+nid: 10616
 uid: 1083
-tagnames: kite-mapping,diy,civic-science,crowdsourcing
+
 ---
 
 # Response to "How do DIY processes encourage citizen participation?"
+
+by [cindy_excites](../profile/cindy_excites) June 25, 2014 19:31
+
+June 25, 2014 19:31 | Tags: [kite-mapping](../tag/kite-mapping), [diy](../tag/diy), [civic-science](../tag/civic-science), [crowdsourcing](../tag/crowdsourcing)
 
 We, as organizers in the Public Lab community, had the opportunity for one week in September 2013 to work with a group of 10-14 year-old students at the Hyperion Lyceum school in Amsterdam, as part of the Eclectis program organized by the Waag Society. With the students,  we explored and prototyped DIY (Do-It-Yourself) environmental monitoring techniques and discussed emerging practices related to "civic science" which situates such monitoring as an important way that the public can participate in producing knowledge about environmental health risks, as well as in the decisionmaking which such knowledge informs. 
 

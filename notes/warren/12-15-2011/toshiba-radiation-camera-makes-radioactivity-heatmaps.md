@@ -1,12 +1,18 @@
 ---
-nid: 641
 title: Toshiba "radiation camera" makes radioactivity heatmaps
-path: public/static/notes/warren/12-15-2011/toshiba-radiation-camera-makes-radioactivity-heatmaps.md
-uid: 1
 tagnames: radiation
+author: warren
+path: /notes/warren/12-15-2011/toshiba-radiation-camera-makes-radioactivity-heatmaps.md
+nid: 641
+uid: 1
+
 ---
 
 # Toshiba "radiation camera" makes radioactivity heatmaps
+
+by [warren](../profile/warren) December 15, 2011 17:03
+
+December 15, 2011 17:03 | Tags: [radiation](../tag/radiation)
 
 http://techon.nikkeibp.co.jp/english/NEWS_EN/20111214/202583/
 

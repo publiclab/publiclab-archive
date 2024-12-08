@@ -1,12 +1,18 @@
 ---
-nid: 17978
 title: New Features in Leaflet-Environmental Layers Library
-path: public/static/notes/sagarpreet/12-20-2018/new-features-in-leaflet-environmental-layers.md
+tagnames: pollution, leaflet, weather, geographic-features, location:blurred, lon:77, lat:23, leaflet-environmental-layers
+author: sagarpreet
+path: /notes/sagarpreet/12-20-2018/new-features-in-leaflet-environmental-layers.md
+nid: 17978
 uid: 516343
-tagnames: pollution,leaflet,weather,geographic-features,location:blurred,lon:77,lat:23,leaflet-environmental-layers
+
 ---
 
 # New Features in Leaflet-Environmental Layers Library
+
+by [sagarpreet](../profile/sagarpreet) December 20, 2018 06:38
+
+December 20, 2018 06:38 | Tags: [pollution](../tag/pollution), [leaflet](../tag/leaflet), [weather](../tag/weather), [geographic-features](../tag/geographic-features), [location:blurred](../tag/location:blurred), [lon:77](../tag/lon:77), [lat:23](../tag/lat:23), [leaflet-environmental-layers](../tag/leaflet-environmental-layers)
 
 There are many new features and layers added to Leaflet-Environmental-Layers library and these new features will be soon LIVE on PublicLab and Mapknitter .
 

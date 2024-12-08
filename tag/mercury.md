@@ -1,6 +1,6 @@
 # mercury
 
-9 notes and wiki pages
+9 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Open-Lux](/notes/donblair/04-07-2014/open-lux) by [donblair](../profile/donblair)
 - [Common Water Contaminants](/wiki/common-water-contaminants) (wiki)

@@ -1,12 +1,18 @@
 ---
-nid: 11752
 title: can a surface sheen be collected for oil testing?
-path: public/static/notes/mathew/04-07-2015/can-a-surface-sheen-be-collected-for-oil-testing.md
+tagnames: spectrometer, oil, oil-testing, oil-testing-kit, sheen, otk, water-sampling
+author: mathew
+path: /notes/mathew/04-07-2015/can-a-surface-sheen-be-collected-for-oil-testing.md
+nid: 11752
 uid: 4
-tagnames: spectrometer,oil,oil-testing,oil-testing-kit,sheen,otk,water-sampling
+
 ---
 
 # can a surface sheen be collected for oil testing?
+
+by [mathew](../profile/mathew) April 07, 2015 23:54
+
+April 07, 2015 23:54 | Tags: [spectrometer](../tag/spectrometer), [oil](../tag/oil), [oil-testing](../tag/oil-testing), [oil-testing-kit](../tag/oil-testing-kit), [sheen](../tag/sheen), [otk](../tag/otk), [water-sampling](../tag/water-sampling)
 
 image by by [Cesar Harada CC-BY-NC-SA](https://www.flickr.com/photos/worldworldworld/4809200807/in/set-72157624236184769)
 

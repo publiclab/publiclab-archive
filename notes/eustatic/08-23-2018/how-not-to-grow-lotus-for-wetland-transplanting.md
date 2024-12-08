@@ -1,12 +1,18 @@
 ---
-nid: 16985
 title: How (not) to grow Lotus for wetland transplanting
-path: public/static/notes/eustatic/08-23-2018/how-not-to-grow-lotus-for-wetland-transplanting.md
+tagnames: bienvenue, plant, neworleans, cultivation, office, lotus, swamp, stbernard
+author: eustatic
+path: /08-23-2018/how-not-to-grow-lotus-for-wetland-transplanting.md
+nid: 16985
 uid: 379
-tagnames: bienvenue,plant,neworleans,cultivation,office,lotus,swamp,stbernard
+
 ---
 
 # How (not) to grow Lotus for wetland transplanting
+
+by [eustatic](../profile/eustatic) August 23, 2018 04:11
+
+August 23, 2018 04:11 | Tags: [bienvenue](../tag/bienvenue), [plant](../tag/plant), [neworleans](../tag/neworleans), [cultivation](../tag/cultivation), [office](../tag/office), [lotus](../tag/lotus), [swamp](../tag/swamp), [stbernard](../tag/stbernard)
 
 The boys at Docville gifted us three lotus seeds to grow (see their greenhouse above).  Initially, we prepared three jars with potting soil, hoping to speed up the process.  this was ill conceived. seeds should be scarred, then put in water first.   
 

@@ -1,12 +1,18 @@
 ---
-nid: 4964
 title: Sulfur, sodium detection in flame spectometer tests
-path: public/static/notes/warren/11-20-2012/sulfur-sodium-detection-flame-spectometer-tests.md
+tagnames: spectrometer, emission-spectroscopy, barnraising, barnraising2012, heavy-metals, flame
+author: warren
+path: /notes/warren/11-20-2012/sulfur-sodium-detection-flame-spectometer-tests.md
+nid: 4964
 uid: 1
-tagnames: spectrometer,emission-spectroscopy,barnraising,barnraising2012,heavy-metals,flame
+
 ---
 
 # Sulfur, sodium detection in flame spectometer tests
+
+by [warren](../profile/warren) November 20, 2012 20:36
+
+November 20, 2012 20:36 | Tags: [spectrometer](../tag/spectrometer), [emission-spectroscopy](../tag/emission-spectroscopy), [barnraising](../tag/barnraising), [barnraising2012](../tag/barnraising2012), [heavy-metals](../tag/heavy-metals), [flame](../tag/flame)
 
 At the [Barnraising in Cocodrie](/wiki/barnraising) a couple weeks ago, we had a hands-on session for spectrometer testing, and I brought some recent prototypes to try out. After the [impressive tests by Stu in Australia last month](/notes/straylight/10-14-2012/classroom-flame-spectroscopy), we were eager to try flame emission spectroscopy of soil samples, and Shannon and Liz brought some samples from New Orleans which would be likely to have some heavy metals in them. We ultimately didn't get to test those... but we did get some pretty good spectra of both sodium (prepared salt water, and marsh mud soaked in both water and vinegar) and sulfur (from matches). Above, Stewart Long and Dan Beavers and I burn things.
 

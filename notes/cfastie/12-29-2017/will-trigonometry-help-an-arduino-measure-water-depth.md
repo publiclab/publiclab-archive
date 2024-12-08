@@ -1,12 +1,18 @@
 ---
-nid: 15445
 title: Will trigonometry help an Arduino measure water depth?
-path: public/static/notes/cfastie/12-29-2017/will-trigonometry-help-an-arduino-measure-water-depth.md
+tagnames: arduino, sensors, datalogger, data-logging, nano-data-logger, activity:nano-data-logger, accelerometer, mma8451, series:springhouse-water-level
+author: cfastie
+path: /notes/cfastie/12-29-2017/will-trigonometry-help-an-arduino-measure-water-depth.md
+nid: 15445
 uid: 554
-tagnames: arduino,sensors,datalogger,data-logging,nano-data-logger,activity:nano-data-logger,accelerometer,mma8451,series:springhouse-water-level
+
 ---
 
 # Will trigonometry help an Arduino measure water depth?
+
+by [cfastie](../profile/cfastie) December 29, 2017 22:16
+
+December 29, 2017 22:16 | Tags: [arduino](../tag/arduino), [sensors](../tag/sensors), [datalogger](../tag/datalogger), [data-logging](../tag/data-logging), [nano-data-logger](../tag/nano-data-logger), [activity:nano-data-logger](../tag/activity:nano-data-logger), [accelerometer](../tag/accelerometer), [mma8451](../tag/mma8451), [series:springhouse-water-level](../tag/series:springhouse-water-level)
 
 A prototype of the [tilting-arm water level measurer](https://publiclab.org/notes/cfastie/12-09-2017/will-an-arduino-measure-water-depth?) was able to measure the height of objects in my office with an error of several millimeters. That system depended on a brute force calibration which involved relating the raw output of an accelerometer to a range of measurements (e.g., heights of the end of the tilting arm above the floor). A more elegant approach is to use trigonometry to derive a dimension of a triangle from the angle measured by the accelerometer. This approach is much easier to transfer to a new location like the spring house where I want to measure water depth.
 

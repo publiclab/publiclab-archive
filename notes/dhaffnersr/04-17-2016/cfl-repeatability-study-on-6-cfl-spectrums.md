@@ -1,12 +1,18 @@
 ---
-nid: 12995
 title: CFL Repeatability Study on 6 CFL spectrums
-path: public/static/notes/dhaffnersr/04-17-2016/cfl-repeatability-study-on-6-cfl-spectrums.md
-uid: 461120
 tagnames: 
+author: dhaffnersr
+path: /notes/dhaffnersr/04-17-2016/cfl-repeatability-study-on-6-cfl-spectrums.md
+nid: 12995
+uid: 461120
+
 ---
 
 # CFL Repeatability Study on 6 CFL spectrums
+
+by [dhaffnersr](../profile/dhaffnersr) April 17, 2016 20:14
+
+April 17, 2016 20:14 | Tags: 
 
 I scanned 6 CFL spectrums for 1 hour at 10 minute time exposures each and here are the results:
 

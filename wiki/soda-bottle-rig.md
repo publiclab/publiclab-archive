@@ -1,12 +1,18 @@
 ---
-nid: 314
 title: Soda Bottle Rig
-path: public/static/wiki/soda-bottle-rig.md
+tagnames: photo-rig, soda-bottle, camera-housing
+author: warren
+path: /wiki/soda-bottle-rig.md
+nid: 314
 uid: 1
-tagnames: photo-rig,soda-bottle,camera-housing
+
 ---
 
 # Soda Bottle Rig
+
+by [warren](../profile/warren), [mathew](../profile/mathew)
+
+June 01, 2011 19:50 | Tags: [photo-rig](../tag/photo-rig), [soda-bottle](../tag/soda-bottle), [camera-housing](../tag/camera-housing)
 
 > This design has been retired in favor of the [PET Bottle and Rubber Band Rig](https://publiclab.org/notes/mathew/02-22-2017/rubber-band-and-pet-bottle-camera-rig)
 

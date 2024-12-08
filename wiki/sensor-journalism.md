@@ -1,11 +1,17 @@
 ---
-nid: 11428
 title: sensor-journalism
-path: public/static/wiki/sensor-journalism.md
-uid: 43651
 tagnames: 
+author: donblair
+path: /wiki/sensor-journalism.md
+nid: 11428
+uid: 43651
+
 ---
 
 # sensor-journalism
+
+by [donblair](../profile/donblair)
+
+December 03, 2014 14:11 | Tags: 
 
 Stub!

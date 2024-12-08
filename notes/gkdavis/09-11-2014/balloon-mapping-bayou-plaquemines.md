@@ -1,12 +1,18 @@
 ---
-nid: 11128
 title: Balloon Mapping Bayou Plaquemines
-path: public/static/notes/gkdavis/09-11-2014/balloon-mapping-bayou-plaquemines.md
+tagnames: gulf-coast, balloon-mapping, washustlouis, washu-stlouis
+author: gkdavis
+path: /notes/gkdavis/09-11-2014/balloon-mapping-bayou-plaquemines.md
+nid: 11128
 uid: 428234
-tagnames: gulf-coast,balloon-mapping,washustlouis,washu-stlouis
+
 ---
 
 # Balloon Mapping Bayou Plaquemines
+
+by [gkdavis](../profile/gkdavis) September 11, 2014 19:08
+
+September 11, 2014 19:08 | Tags: [gulf-coast](../tag/gulf-coast), [balloon-mapping](../tag/balloon-mapping), [washustlouis](../tag/washustlouis), [washu-stlouis](../tag/washu-stlouis)
 
 This is a map from a 3000 ft high balloon sent up mid day on September 10, 2014.  Beautiful weather, sunny, and barely windy.  A crew of 7 people, 6 of them architecture students at Washington University in St. Louis.  The ballon was in the air for about 45 minutes.  
 

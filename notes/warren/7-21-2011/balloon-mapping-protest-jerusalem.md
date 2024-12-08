@@ -1,12 +1,18 @@
 ---
-nid: 403
 title: Balloon-mapping a protest in Jerusalem
-path: public/static/notes/warren/7-21-2011/balloon-mapping-protest-jerusalem.md
+tagnames: balloon-mapping, jerusalem, protest-mapping, protest, march
+author: warren
+path: /notes/warren/7-21-2011/balloon-mapping-protest-jerusalem.md
+nid: 403
 uid: 1
-tagnames: balloon-mapping,jerusalem,protest-mapping,protest,march
+
 ---
 
 # Balloon-mapping a protest in Jerusalem
+
+by [warren](../profile/warren) July 21, 2011 13:53
+
+July 21, 2011 13:53 | Tags: [balloon-mapping](../tag/balloon-mapping), [jerusalem](../tag/jerusalem), [protest-mapping](../tag/protest-mapping), [protest](../tag/protest), [march](../tag/march)
 
 <small>(<a href="https://www.flickr.com/photos/activestills/5940055519/">Above image by ActiveStills</a>)</small>
 

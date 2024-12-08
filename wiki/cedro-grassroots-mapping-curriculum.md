@@ -1,12 +1,18 @@
 ---
-nid: 856
 title: CEDRO Grassroots Mapping Curriculum
-path: public/static/wiki/cedro-grassroots-mapping-curriculum.md
+tagnames: balloon-mapping, education, curriculum, k-12, youth
+author: warren
+path: /wiki/cedro-grassroots-mapping-curriculum.md
+nid: 856
 uid: 1
-tagnames: balloon-mapping,education,curriculum,k-12,youth
+
 ---
 
 # CEDRO Grassroots Mapping Curriculum
+
+by [warren](../profile/warren)
+
+February 27, 2012 15:10 | Tags: [balloon-mapping](../tag/balloon-mapping), [education](../tag/education), [curriculum](../tag/curriculum), [k-12](../tag/k-12), [youth](../tag/youth)
 
 _This page [was imported from the old Grassroots Mapping Wiki](http://wiki.grassrootsmapping.org/show/GrassrootsMappingLimaCurriculum), and dates from 2009-10_
 

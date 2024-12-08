@@ -1,12 +1,18 @@
 ---
-nid: 12469
 title: Barnraising Photos
-path: public/static/notes/TaraMei/12-02-2015/barnraising-photos.md
+tagnames: gulf-coast, lumcon, barnraising-2015, barnrasing, first-time-poster
+author: taramei
+path: /notes/TaraMei/12-02-2015/barnraising-photos.md
+nid: 12469
 uid: 455825
-tagnames: gulf-coast,lumcon,barnraising-2015,barnrasing,first-time-poster
+
 ---
 
 # Barnraising Photos
+
+by [taramei](../profile/taramei) December 02, 2015 03:16
+
+December 02, 2015 03:16 | Tags: [gulf-coast](../tag/gulf-coast), [lumcon](../tag/lumcon), [barnraising-2015](../tag/barnraising-2015), [barnrasing](../tag/barnrasing), [first-time-poster](../tag/first-time-poster)
 
 [![IMG_5352.JPG](//i.publiclab.org/system/images/photos/000/013/124/medium/IMG_5352.JPG)](//i.publiclab.org/system/images/photos/000/013/124/original/IMG_5352.JPG)
 

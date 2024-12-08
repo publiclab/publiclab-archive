@@ -1,6 +1,6 @@
 # nir
 
-49 notes and wiki pages
+49 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Creating Multispectral Imagery for California Beaches](/notes/micheletobias/5-23-2011/creating-multispectral-imagery-california-beaches) by [MicheleTobias](../profile/MicheleTobias)
 - [Stitched panoramas from the PLOTS IR camera tool](/notes/cfastie/5-8-2012/stitched-panoramas-plots-ir-camera-tool) by [cfastie](../profile/cfastie)

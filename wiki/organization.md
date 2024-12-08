@@ -1,12 +1,18 @@
 ---
-nid: 162
 title: Organization
-path: public/static/wiki/organization.md
-uid: 1
 tagnames: 
+author: warren
+path: /wiki/organization.md
+nid: 162
+uid: 1
+
 ---
 
 # Organization
+
+by [liz](../profile/liz), [Shannon](../profile/Shannon), [warren](../profile/warren)
+
+April 07, 2011 22:24 | Tags: 
 
 Here is a list of important pages, in addition to the ones listed as permanent tabs at the top of all pages.
 

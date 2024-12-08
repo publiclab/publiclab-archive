@@ -1,12 +1,18 @@
 ---
-nid: 14022
 title: Host a balloon mapping workshop
-path: public/static/notes/liz/03-15-2017/host-a-balloon-mapping-workshop.md
+tagnames: balloon-mapping, events, aerial-photography, workshop, land-use, activity:aerial-photography, activity:balloon-mapping, activity:host-an-event, activity:teach-and-learn, activity:publiclabriverratpack, activity:bourjalshamali, pin:activity:balloon-mapping, activity:one-cranston, activity:land-use, pin:balloon-mapping, event-how-to
+author: liz
+path: /notes/liz/03-15-2017/host-a-balloon-mapping-workshop.md
+nid: 14022
 uid: 7
-tagnames: balloon-mapping,events,aerial-photography,workshop,land-use,activity:aerial-photography,activity:balloon-mapping,activity:host-an-event,activity:teach-and-learn,activity:publiclabriverratpack,activity:bourjalshamali,pin:activity:balloon-mapping,activity:one-cranston,activity:land-use,pin:balloon-mapping,event-how-to
+
 ---
 
 # Host a balloon mapping workshop
+
+by [liz](../profile/liz) March 15, 2017 14:25
+
+March 15, 2017 14:25 | Tags: [balloon-mapping](../tag/balloon-mapping), [events](../tag/events), [aerial-photography](../tag/aerial-photography), [workshop](../tag/workshop), [land-use](../tag/land-use), [activity:aerial-photography](../tag/activity:aerial-photography), [activity:balloon-mapping](../tag/activity:balloon-mapping), [activity:host-an-event](../tag/activity:host-an-event), [activity:teach-and-learn](../tag/activity:teach-and-learn), [activity:publiclabriverratpack](../tag/activity:publiclabriverratpack), [activity:bourjalshamali](../tag/activity:bourjalshamali), [pin:activity:balloon-mapping](../tag/pin:activity:balloon-mapping), [activity:one-cranston](../tag/activity:one-cranston), [activity:land-use](../tag/activity:land-use), [pin:balloon-mapping](../tag/pin:balloon-mapping), [event-how-to](../tag/event-how-to)
 
 Want to show others how to make balloon or kite maps? Need help mapping a large site or doing long-term mapping? Want to start a local group of balloon mappers? Great! FYI, this activity has been updated from a [previous research note of the same name](/wiki/host-balloon-mapping-workshop).
 

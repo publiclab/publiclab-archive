@@ -1,12 +1,18 @@
 ---
-nid: 918
 title: MapKnitter: Exporting 
-path: public/static/wiki/mapknitter-exporting-your-map.md
+tagnames: mapknitter, help, needs-revision, tutorial, parent:mapknitter, exporting
+author: gonzoearth
+path: /wiki/mapknitter-exporting-your-map.md
+nid: 918
 uid: 12
-tagnames: mapknitter,help,needs-revision,tutorial,parent:mapknitter,exporting
+
 ---
 
 # MapKnitter: Exporting 
+
+by [warren](../profile/warren), [olafur](../profile/olafur), [gonzoearth](../profile/gonzoearth)
+
+March 11, 2012 07:33 | Tags: [mapknitter](../tag/mapknitter), [help](../tag/help), [needs-revision](../tag/needs-revision), [tutorial](../tag/tutorial), [parent:mapknitter](../tag/parent:mapknitter), [exporting](../tag/exporting)
 
 Learn how to export your completed maps in GeoTiff, TMS/OpenLayers, and JPG formats, and how to tune your export resolution to optimize for size. Learn to use advanced options to see the range of possible resolutions, and avoid exporting at excessively high resolutions.
 

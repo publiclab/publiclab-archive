@@ -1,6 +1,6 @@
 # cape-cod
 
-4 notes and wiki pages
+4 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Update on Fishing Bob](/notes/kaya9804/3-27-2013/update-fishing-bob-1) by [Kaya9804](../profile/Kaya9804)
 - [Cartography Primer - Pamet Marsh](/notes/wward1400/11-07-2013/cartography-primer-pamet-marsh) by [wward1400](../profile/wward1400)

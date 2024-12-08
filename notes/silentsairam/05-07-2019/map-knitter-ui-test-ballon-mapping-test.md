@@ -1,12 +1,18 @@
 ---
-nid: 19266
 title: Map Knitter- UI Evaluation 1 , Ballon Mapping Test
-path: public/static/notes/silentsairam/05-07-2019/map-knitter-ui-test-ballon-mapping-test.md
+tagnames: air-quality, india, ballon-mapping, first-time-poster, lat:12.940322, community-atlas, community-mapping-fellows, community-atlas-ui, lon:80.15625
+author: silentsairam
+path: /notes/silentsairam/05-07-2019/map-knitter-ui-test-ballon-mapping-test.md
+nid: 19266
 uid: 553044
-tagnames: air-quality,india,ballon-mapping,first-time-poster,lat:12.940322,community-atlas,community-mapping-fellows,community-atlas-ui,lon:80.15625
+
 ---
 
 # Map Knitter- UI Evaluation 1 , Ballon Mapping Test
+
+by [silentsairam](../profile/silentsairam) May 07, 2019 17:13
+
+May 07, 2019 17:13 | Tags: [air-quality](../tag/air-quality), [india](../tag/india), [ballon-mapping](../tag/ballon-mapping), [first-time-poster](../tag/first-time-poster), [lat:12.940322](../tag/lat:12.940322), [community-atlas](../tag/community-atlas), [community-mapping-fellows](../tag/community-mapping-fellows), [community-atlas-ui](../tag/community-atlas-ui), [lon:80.15625](../tag/lon:80.15625)
 
 ## What I want to do
 

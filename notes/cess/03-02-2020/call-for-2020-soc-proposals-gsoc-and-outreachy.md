@@ -1,12 +1,18 @@
 ---
-nid: 22972
 title: Call for 2020 GSoC proposals
-path: public/static/notes/cess/03-02-2020/call-for-2020-soc-proposals-gsoc-and-outreachy.md
+tagnames: software, gsoc, soc, lat:0, lon:0, outreachy, call-for-proposals, zoom:1
+author: cess
+path: /notes/cess/03-02-2020/call-for-2020-soc-proposals-gsoc-and-outreachy.md
+nid: 22972
 uid: 525958
-tagnames: software,gsoc,soc,lat:0,lon:0,outreachy,call-for-proposals,zoom:1
+
 ---
 
 # Call for 2020 GSoC proposals
+
+by [cess](../profile/cess) March 02, 2020 07:25
+
+March 02, 2020 07:25 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [soc](../tag/soc), [lat:0](../tag/lat:0), [lon:0](../tag/lon:0), [outreachy](../tag/outreachy), [call-for-proposals](../tag/call-for-proposals), [zoom:1](../tag/zoom:1)
 
 ### Google Summer of Code  [](https://publiclab.org/notes/warren/02-28-2019/call-for-summer-of-code-2019-proposals#Outreachy+and+GSoC)
 

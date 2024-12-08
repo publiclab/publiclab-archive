@@ -1,10 +1,16 @@
 ---
-nid: 6661
 title: ready to see the light yet?
-path: public/static/notes/sonofaquark/4-3-2013/ready-see-light-yet.md
-uid: 54330
 tagnames: 
+author: sonofaquark
+path: /notes/sonofaquark/4-3-2013/ready-see-light-yet.md
+nid: 6661
+uid: 54330
+
 ---
 
 # ready to see the light yet?
+
+by [sonofaquark](../profile/sonofaquark) April 03, 2013 10:35
+
+April 03, 2013 10:35 | Tags: 
 

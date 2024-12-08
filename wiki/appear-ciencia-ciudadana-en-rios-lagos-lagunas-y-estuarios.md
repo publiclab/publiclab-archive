@@ -1,12 +1,18 @@
 ---
-nid: 26786
 title: AppEar - Ciencia ciudadana en ríos, lagos, lagunas y estuarios
-path: public/static/wiki/appear-ciencia-ciudadana-en-rios-lagos-lagunas-y-estuarios.md
+tagnames: citizen-science, water-quality, lang:es, research-curation-fellows, parent:water, appear
+author: alejobonifacio
+path: /wiki/appear-ciencia-ciudadana-en-rios-lagos-lagunas-y-estuarios.md
+nid: 26786
 uid: 639376
-tagnames: citizen-science,water-quality,lang:es,research-curation-fellows,parent:water,appear
+
 ---
 
 # AppEar - Ciencia ciudadana en ríos, lagos, lagunas y estuarios
+
+by [alejobonifacio](../profile/alejobonifacio)
+
+June 07, 2021 22:28 | Tags: [citizen-science](../tag/citizen-science), [water-quality](../tag/water-quality), [lang:es](../tag/lang:es), [research-curation-fellows](../tag/research-curation-fellows), [parent:water](../tag/parent:water), [appear](../tag/appear)
 
 <hr>
 

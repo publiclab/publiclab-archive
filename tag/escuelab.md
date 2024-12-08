@@ -1,6 +1,6 @@
 # escuelab
 
-5 notes and wiki pages
+5 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Very clear spectrum through pineapple](/notes/warren/12-24-2010/very-clear-spectrum-through-pineapple) by [warren](../profile/warren)
 - [NDVI test in Lima Peru](/notes/warren/12-24-2010/ndvi-test-lima-peru) by [warren](../profile/warren)

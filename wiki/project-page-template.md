@@ -1,12 +1,18 @@
 ---
-nid: 15164
 title: Project page template
-path: public/static/wiki/project-page-template.md
+tagnames: locked, parent:templates
+author: warren
+path: /wiki/project-page-template.md
+nid: 15164
 uid: 1
-tagnames: locked,parent:templates
+
 ---
 
 # Project page template
+
+by [liz](../profile/liz), [robert_winkler](../profile/robert_winkler), [warren](../profile/warren)
+
+November 08, 2017 23:54 | Tags: [locked](../tag/locked), [parent:templates](../tag/parent:templates)
 
 This is a template. This is a good place to give a little background on the project. Keep it simple. Mention your goals and any outcomes you're hoping for from this project. 
 

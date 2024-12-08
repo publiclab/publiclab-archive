@@ -1,12 +1,18 @@
 ---
-nid: 12292
 title: Mounting rig for the Riffle
-path: public/static/notes/tonyc/10-12-2015/mounting-rig-for-the-riffle.md
+tagnames: riffle, parent:riffle, riffle-examples
+author: tonyc
+path: /notes/tonyc/10-12-2015/mounting-rig-for-the-riffle.md
+nid: 12292
 uid: 447491
-tagnames: riffle,parent:riffle,riffle-examples
+
 ---
 
 # Mounting rig for the Riffle
+
+by [tonyc](../profile/tonyc) October 12, 2015 23:01
+
+October 12, 2015 23:01 | Tags: [riffle](../tag/riffle), [parent:riffle](../tag/parent:riffle), [riffle-examples](../tag/riffle-examples)
 
 ###create a method for deploying Riffle data logger inside of a soda bottle, using cheap materials and protecting against damage
 

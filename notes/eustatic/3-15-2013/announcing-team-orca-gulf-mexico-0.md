@@ -1,12 +1,18 @@
 ---
-nid: 6365
 title: Announcing Team Orca, Gulf of Mexico
-path: public/static/notes/eustatic/3-15-2013/announcing-team-orca-gulf-mexico-0.md
+tagnames: spectrometer, spectralchallenge, gulf-coast
+author: eustatic
+path: /3-15-2013/announcing-team-orca-gulf-mexico-0.md
+nid: 6365
 uid: 379
-tagnames: spectrometer,spectralchallenge,gulf-coast
+
 ---
 
 # Announcing Team Orca, Gulf of Mexico
+
+by [eustatic](../profile/eustatic) March 15, 2013 23:12
+
+March 15, 2013 23:12 | Tags: [spectrometer](../tag/spectrometer), [spectralchallenge](../tag/spectralchallenge), [gulf-coast](../tag/gulf-coast)
 
 Spectral Challenge! 
 

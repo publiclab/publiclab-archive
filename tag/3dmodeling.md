@@ -1,6 +1,6 @@
 # 3dmodeling
 
-5 notes and wiki pages
+5 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Spectrometer](/wiki/spectrometer) (wiki)
 - [initial observations (revised): free SFM tools for scaled measurements and volume calculations](/notes/patcoyle/03-16-2014/initial-observations-free-sfm-tools-for-scaled-measurements-and-volume-calculations) by [patcoyle](../profile/patcoyle)

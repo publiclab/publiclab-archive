@@ -1,12 +1,18 @@
 ---
-nid: 9918
 title: Potentiostat Notes-3; WheeStat 5.1 Fabrication
-path: public/static/notes/JSummers/12-30-2013/potentiostat-notes-3-wheestat-5-1-fabrication.md
+tagnames: potentiostat, wheestat
+author: JSummers
+path: /notes/JSummers/12-30-2013/potentiostat-notes-3-wheestat-5-1-fabrication.md
+nid: 9918
 uid: 304279
-tagnames: potentiostat,wheestat
+
 ---
 
 # Potentiostat Notes-3; WheeStat 5.1 Fabrication
+
+by [JSummers](../profile/JSummers) December 30, 2013 22:50
+
+December 30, 2013 22:50 | Tags: [potentiostat](../tag/potentiostat), [wheestat](../tag/wheestat)
 
 ###What I want to do
 This research note follows up on two earlier notes and describes how we make the 3.3 volt version of our potentiostat, the WheeStat 5.1. Notes on the history of the project and on the software are at http://publiclab.org/notes/JSummers/11-02-2013/potentiostat-notes-1-wheestat-history and http://publiclab.org/notes/JSummers/12-20-2013/potentiostat-software, respectively.    As documented in our first note, we had problems accessing the full dynamic range in our earlier 3.3 volt potentiostat.  The design described in this note performs well over the dynamic range of interest.  Barring unforeseen events, I expect we will use the 3.3 volt design described in this note for some time with only minor modifications.  Note that the design is slightly different than the 5 volt design described in the first research note.  A schematic for the 3.3 volt design can be found at our GitHub site in the same folder with the pdf files used to develop and assemble the board.

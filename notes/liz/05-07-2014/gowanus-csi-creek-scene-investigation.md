@@ -1,12 +1,18 @@
 ---
-nid: 10436
 title: Gowanus CSI: Creek Scene Investigation
-path: public/static/notes/liz/05-07-2014/gowanus-csi-creek-scene-investigation.md
+tagnames: new-york-city, gowanus, prospect-park, spring, gowanus-csi, with:eymund
+author: liz
+path: /notes/liz/05-07-2014/gowanus-csi-creek-scene-investigation.md
+nid: 10436
 uid: 7
-tagnames: new-york-city,gowanus,prospect-park,spring,gowanus-csi,with:eymund
+
 ---
 
 # Gowanus CSI: Creek Scene Investigation
+
+by [liz](../profile/liz) May 07, 2014 13:49
+
+May 07, 2014 13:49 | Tags: [new-york-city](../tag/new-york-city), [gowanus](../tag/gowanus), [prospect-park](../tag/prospect-park), [spring](../tag/spring), [gowanus-csi](../tag/gowanus-csi), [with:eymund](../tag/with:eymund)
 
 **This note is posted on behalf of [Eymund](profile/eymund):**
 

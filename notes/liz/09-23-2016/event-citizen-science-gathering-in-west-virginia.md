@@ -1,12 +1,18 @@
 ---
-nid: 13472
 title: Event: Citizen Science Gathering in West Virginia
-path: public/static/notes/liz/09-23-2016/event-citizen-science-gathering-in-west-virginia.md
+tagnames: conferences, west-virginia, event, southeast, event:rsvp, wv, date:09-24-2016
+author: liz
+path: /notes/liz/09-23-2016/event-citizen-science-gathering-in-west-virginia.md
+nid: 13472
 uid: 7
-tagnames: conferences,west-virginia,event,southeast,event:rsvp,wv,date:09-24-2016
+
 ---
 
 # Event: Citizen Science Gathering in West Virginia
+
+by [liz](../profile/liz) September 23, 2016 15:39
+
+September 23, 2016 15:39 | Tags: [conferences](../tag/conferences), [west-virginia](../tag/west-virginia), [event](../tag/event), [southeast](../tag/southeast), [event:rsvp](../tag/event:rsvp), [wv](../tag/wv), [date:09-24-2016](../tag/date:09-24-2016)
 
 [![unnamed.jpg](//i.publiclab.org/system/images/photos/000/018/134/large/unnamed.jpg)](//i.publiclab.org/system/images/photos/000/018/134/original/unnamed.jpg)
 

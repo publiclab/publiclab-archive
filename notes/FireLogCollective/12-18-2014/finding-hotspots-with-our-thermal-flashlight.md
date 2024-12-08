@@ -1,12 +1,18 @@
 ---
-nid: 11482
 title: Finding Hotspots With Our Thermal Flashlight
-path: public/static/notes/FireLogCollective/12-18-2014/finding-hotspots-with-our-thermal-flashlight.md
+tagnames: arduino, thermal-flashlight, diy, replication:625
+author: FireLogCollective
+path: /notes/FireLogCollective/12-18-2014/finding-hotspots-with-our-thermal-flashlight.md
+nid: 11482
 uid: 432903
-tagnames: arduino,thermal-flashlight,diy,replication:625
+
 ---
 
 # Finding Hotspots With Our Thermal Flashlight
+
+by [FireLogCollective](../profile/FireLogCollective) December 18, 2014 12:46
+
+December 18, 2014 12:46 | Tags: [arduino](../tag/arduino), [thermal-flashlight](../tag/thermal-flashlight), [diy](../tag/diy), [replication:625](../tag/replication:625)
 
 We wanted to use our thermal flashlight to locate outdoor spaces which offered a significant increase in temperature. That is, we would be using it to measure changes in temperature, rather than just measure a constant. As such, we intended to calibrate our thermal flashlight depending on the current ambient temperature and measure significant temperatures increases above that. However, we recognized that depending on the current temperature, outdoor spaces, such as heat vents or shelters, might not offer a constant increase in temperature—i.e. the same heat vent would be unlikely to increase the temperature by 10 C in both 0 C and -10 C weather. We therefore had to anticipate what possible increase in temperature could be offered by a hot spot that would also be a significant increase in temperature. We developed a function to operationalize this idea.
 

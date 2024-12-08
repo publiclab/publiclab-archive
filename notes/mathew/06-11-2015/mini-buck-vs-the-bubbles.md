@@ -1,12 +1,18 @@
 ---
-nid: 11969
 title: Mini-Buck vs. the Bubbles
-path: public/static/notes/mathew/06-11-2015/mini-buck-vs-the-bubbles.md
+tagnames: air-quality, measurement, silica, barnstar:empiricism, formaldehyde, open-air, particle-sensing, openair, indoor-air-quality, bubbles, air-monitoring, mini-buck, response:11949
+author: mathew
+path: /notes/mathew/06-11-2015/mini-buck-vs-the-bubbles.md
+nid: 11969
 uid: 4
-tagnames: air-quality,measurement,silica,barnstar:empiricism,formaldehyde,open-air,particle-sensing,openair,indoor-air-quality,bubbles,air-monitoring,mini-buck,response:11949
+
 ---
 
 # Mini-Buck vs. the Bubbles
+
+by [mathew](../profile/mathew) June 11, 2015 00:14
+
+June 11, 2015 00:14 | Tags: [air-quality](../tag/air-quality), [measurement](../tag/measurement), [silica](../tag/silica), [barnstar:empiricism](../tag/barnstar:empiricism), [formaldehyde](../tag/formaldehyde), [open-air](../tag/open-air), [particle-sensing](../tag/particle-sensing), [openair](../tag/openair), [indoor-air-quality](../tag/indoor-air-quality), [bubbles](../tag/bubbles), [air-monitoring](../tag/air-monitoring), [mini-buck](../tag/mini-buck), [response:11949](../tag/response:11949)
 
 ###What I want to do
 Compare the $10 [stopwatch & bubbles](/notes/mathew/06-04-2015/using-soap-bubbles-for-pump-calibration) airflow monitoring technique @davidmack suggested to a $970 [NIST-traceable](http://www.nist.gov/traceability/nist_traceability_policy_external.cfm) pump calibrator called the mini-buck recommended to @NickShapiro.

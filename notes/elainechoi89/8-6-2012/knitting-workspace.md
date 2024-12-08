@@ -1,12 +1,18 @@
 ---
-nid: 3152
 title: Knitting a Workspace
-path: public/static/notes/elainechoi89/8-6-2012/knitting-workspace.md
+tagnames: kite, spaces
+author: elainechoi89
+path: /notes/elainechoi89/8-6-2012/knitting-workspace.md
+nid: 3152
 uid: 6102
-tagnames: kite,spaces
+
 ---
 
 # Knitting a Workspace
+
+by [elainechoi89](../profile/elainechoi89) August 06, 2012 20:56
+
+August 06, 2012 20:56 | Tags: [kite](../tag/kite), [spaces](../tag/spaces)
 
 Facilitating a workshop. 
 Initially, all of us came to a an empty expansive outdated research facility loading dock, with a corner full of <em>stuff</em>. 

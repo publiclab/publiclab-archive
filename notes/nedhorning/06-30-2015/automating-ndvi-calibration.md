@@ -1,12 +1,18 @@
 ---
-nid: 12021
 title: Automating NDVI calibration
-path: public/static/notes/nedhorning/06-30-2015/automating-ndvi-calibration.md
+tagnames: ndvi, calibration, infrared, infragram, response:10389, response:10607, ndvi-calibrate, midopt
+author: nedhorning
+path: /notes/nedhorning/06-30-2015/automating-ndvi-calibration.md
+nid: 12021
 uid: 133
-tagnames: ndvi,calibration,infrared,infragram,response:10389,response:10607,ndvi-calibrate,midopt
+
 ---
 
 # Automating NDVI calibration
+
+by [nedhorning](../profile/nedhorning) June 30, 2015 12:57
+
+June 30, 2015 12:57 | Tags: [ndvi](../tag/ndvi), [calibration](../tag/calibration), [infrared](../tag/infrared), [infragram](../tag/infragram), [response:10389](../tag/response:10389), [response:10607](../tag/response:10607), [ndvi-calibrate](../tag/ndvi-calibrate), [midopt](../tag/midopt)
 
 ##Introduction
 This note provides an update on my effort to simplify NDVI calibration. The images for this set of tests were acquired during iFARM 2015: http://publiclab.org/notes/cfastie/05-21-2015/ifarm-2015-report. For this test I used images acquired using a new MidOpt DB660/850 red / NIR-pass narrow band filter: http://midopt.com/filters/db660850. The specifications for this filter are likely the best I've seen for making NDVI images using point and shoot cameras with the hot-mirror removed - at least for my work. The bands it passes are quite similar to the red and NIR bands used in satellite-based sensors and they are relatively narrow. I've written a couple other notes about my general preference for red filters over blue (http://publiclab.org/notes/nedhorning/10-30-2013/red-vs-blue-filters-for-ndvi , http://publiclab.org/notes/nedhorning/11-01-2013/why-a-red-filter-should-work-well-for-ndvi). The one advantage of blue filters over very broad band red filters is that the red detectors in the camera sensor are much more sensitive to the shorter NIR wavelengths but this DB660/850 filter gets around that by centering the NIR band at 850nm where the sensitivity of the red detectors is roughly the same as the blue detectors (see figure 1). As will be illustrated below I use that feature to subtract out the NIR “noise” that is recorded by the red detectors. 

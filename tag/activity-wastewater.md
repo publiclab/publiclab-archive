@@ -1,6 +1,6 @@
 # activity-wastewater
 
-6 notes and wiki pages
+6 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [¿Cómo detectar abrillantadores ópticos (aguas residuales) yendo a un río? / How to detect optical brighteners (wastewater) going to a river?](/notes/alejobonifacio/08-04-2021/como-detectar-abrillantadores-opticos-aguas-residuales-yendo-a-un-rio-how-to-detect-optical-brighteners-wastewater-going-to-a-river) by [alejobonifacio](../profile/alejobonifacio)
 - [How to find out if waterbodies near you in the US are healthy or impaired](/notes/bhamster/08-12-2021/how-to-find-out-if-waterbodies-near-you-in-the-us-are-healthy-or-impaired) by [bhamster](../profile/bhamster)

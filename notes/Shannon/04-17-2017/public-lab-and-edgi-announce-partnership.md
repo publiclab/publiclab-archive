@@ -1,12 +1,18 @@
 ---
-nid: 14119
 title: Public Lab and EDGI announce partnership
-path: public/static/notes/Shannon/04-17-2017/public-lab-and-edgi-announce-partnership.md
+tagnames: nonprofit, edgi
+author: Shannon
+path: /notes/Shannon/04-17-2017/public-lab-and-edgi-announce-partnership.md
+nid: 14119
 uid: 9
-tagnames: nonprofit,edgi
+
 ---
 
 # Public Lab and EDGI announce partnership
+
+by [Shannon](../profile/Shannon) April 17, 2017 12:38
+
+April 17, 2017 12:38 | Tags: [nonprofit](../tag/nonprofit), [edgi](../tag/edgi)
 
 **Public Lab and Environmental Governance and Data Initiative partner under a fiscal sponsorship and commitment to open environmental data**
 

@@ -1,12 +1,18 @@
 ---
-nid: 11277
 title: Public Lab community newsletter 10.17.2014
-path: public/static/notes/Shannon/10-18-2014/public-lab-community-newsletter-10-17-2014.md
+tagnames: newsletter, newsletter-archive
+author: Shannon
+path: /notes/Shannon/10-18-2014/public-lab-community-newsletter-10-17-2014.md
+nid: 11277
 uid: 9
-tagnames: newsletter,newsletter-archive
+
 ---
 
 # Public Lab community newsletter 10.17.2014
+
+by [Shannon](../profile/Shannon) October 18, 2014 02:01
+
+October 18, 2014 02:01 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
 
 This week in the Public Lab community newsletter, check out  upcoming events in Philadelphia, NYC, New Orleans, Menomonie (Wisconsin) and read about work Organizers are doing around the Alberta tar sands and on the Coqui water monitoring tool. Enjoy!
 

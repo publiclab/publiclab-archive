@@ -1,6 +1,6 @@
 # raspberry-pi-spectrometer
 
-18 notes and wiki pages
+18 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Getting the spectrometer to work with a Raspberry Pi?](/notes/anjohn12/04-14-2016/question-getting-the-spectrometer-to-work-with-a-raspberry-pi) by [anjohn12](../profile/anjohn12)
 - [A more compact spectrometer](/notes/cristoforetti/05-13-2016/a-more-compact-spectrometer) by [cristoforetti](../profile/cristoforetti)

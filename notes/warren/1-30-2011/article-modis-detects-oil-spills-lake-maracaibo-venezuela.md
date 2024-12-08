@@ -1,12 +1,18 @@
 ---
-nid: 67
 title: Article: MODIS Detects Oil Spills in Lake Maracaibo, Venezuela
-path: public/static/notes/warren/1-30-2011/article-modis-detects-oil-spills-lake-maracaibo-venezuela.md
+tagnames: remote-sensing, oil-spill, nasa, modis, south-america, satellite, venezuela
+author: warren
+path: /notes/warren/1-30-2011/article-modis-detects-oil-spills-lake-maracaibo-venezuela.md
+nid: 67
 uid: 1
-tagnames: remote-sensing,oil-spill,nasa,modis,south-america,satellite,venezuela
+
 ---
 
 # Article: MODIS Detects Oil Spills in Lake Maracaibo, Venezuela
+
+by [warren](../profile/warren) January 30, 2011 20:43
+
+January 30, 2011 20:43 | Tags: [remote-sensing](../tag/remote-sensing), [oil-spill](../tag/oil-spill), [nasa](../tag/nasa), [modis](../tag/modis), [south-america](../tag/south-america), [satellite](../tag/satellite), [venezuela](../tag/venezuela)
 
 Abstract:
 

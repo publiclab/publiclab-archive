@@ -1,12 +1,18 @@
 ---
-nid: 9412
 title: Public Lab Writing Group (PLWG)
-path: public/static/wiki/public-lab-writing-group-plwg.md
+tagnames: writing, writing-group, working-groups, literature, list:public-lab-writing-group, collaborative-writing
+author: jbreen
+path: /wiki/public-lab-writing-group-plwg.md
+nid: 9412
 uid: 326
-tagnames: writing,writing-group,working-groups,literature,list:public-lab-writing-group,collaborative-writing
+
 ---
 
 # Public Lab Writing Group (PLWG)
+
+by [liz](../profile/liz), [donblair](../profile/donblair), [jbreen](../profile/jbreen), [warren](../profile/warren), [eustatic](../profile/eustatic), [Shannon](../profile/Shannon)
+
+October 06, 2013 20:28 | Tags: [writing](../tag/writing), [writing-group](../tag/writing-group), [working-groups](../tag/working-groups), [literature](../tag/literature), [list:public-lab-writing-group](../tag/list:public-lab-writing-group), [collaborative-writing](../tag/collaborative-writing)
 
 ###History
 The Public Lab Writing Group (PLWG) was formed at the [2013 Barnraising](http://publiclab.org/wiki/barnraising-2013) as a means of systematically furthering the mission of Public Lab through publication, both internal and external.  

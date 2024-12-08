@@ -1,12 +1,18 @@
 ---
-nid: 11603
 title: Haze over chilly Manhattan
-path: public/static/notes/liz/02-18-2015/haze-over-chilly-manhattan.md
+tagnames: new-york-city, air-column-monitor, air-quality, haze, smog
+author: liz
+path: /notes/liz/02-18-2015/haze-over-chilly-manhattan.md
+nid: 11603
 uid: 7
-tagnames: new-york-city,air-column-monitor,air-quality,haze,smog
+
 ---
 
 # Haze over chilly Manhattan
+
+by [liz](../profile/liz) February 18, 2015 21:01
+
+February 18, 2015 21:01 | Tags: [new-york-city](../tag/new-york-city), [air-column-monitor](../tag/air-column-monitor), [air-quality](../tag/air-quality), [haze](../tag/haze), [smog](../tag/smog)
 
 Is this haze from heavy oils being burned, like the infamous Heating Oil #6? 
 

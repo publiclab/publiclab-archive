@@ -1,12 +1,18 @@
 ---
-nid: 470
 title: Prototype H2S sensor
-path: public/static/notes/warren/9-19-2011/prototype-h2s-sensor.md
+tagnames: hydrogen-sulfide, h2s, hydrogen-sulfide-detection, hydrogen-sulfide-sensor
+author: warren
+path: /notes/warren/9-19-2011/prototype-h2s-sensor.md
+nid: 470
 uid: 1
-tagnames: hydrogen-sulfide,h2s,hydrogen-sulfide-detection,hydrogen-sulfide-sensor
+
 ---
 
 # Prototype H2S sensor
+
+by [warren](../profile/warren) September 19, 2011 16:30
+
+September 19, 2011 16:30 | Tags: [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s), [hydrogen-sulfide-detection](../tag/hydrogen-sulfide-detection), [hydrogen-sulfide-sensor](../tag/hydrogen-sulfide-sensor)
 
 *VERY* basic code here: https://github.com/jywarren/plots-sensorkit
 

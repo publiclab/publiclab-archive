@@ -1,12 +1,18 @@
 ---
-nid: 11845
 title: What is the correct interpretation for the NDVI infragram color scale?
-path: public/static/notes/DuvTorres/05-27-2015/what-is-the-correct-interpretation-for-the-ndvi-infragram-color-scale.md
-uid: 442564
 tagnames: question:infragram
+author: DuvTorres
+path: /notes/DuvTorres/05-27-2015/what-is-the-correct-interpretation-for-the-ndvi-infragram-color-scale.md
+nid: 11845
+uid: 442564
+
 ---
 
 # What is the correct interpretation for the NDVI infragram color scale?
+
+by [DuvTorres](../profile/DuvTorres) May 27, 2015 17:01
+
+May 27, 2015 17:01 | Tags: [question:infragram](../tag/question:infragram)
 
 Hi, 
 Now I’m working in some tests with aerial crop images for NDVI calculating, however I have had some problems for interpretation of infragram results. 

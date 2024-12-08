@@ -1,6 +1,6 @@
 # seeks-responses
 
-16 notes and wiki pages
+16 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Holiday Beverage Whodunit](/notes/cfastie/12-21-2014/holiday-beverage-whodunit) by [cfastie](../profile/cfastie)
 - [Assignment: reflections on sensor journalism](/notes/kanarinka/02-24-2016/assignment-reflections-on-sensor-journalism) by [kanarinka](../profile/kanarinka)

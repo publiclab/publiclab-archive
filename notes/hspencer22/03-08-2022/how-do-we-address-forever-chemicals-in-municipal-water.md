@@ -1,12 +1,18 @@
 ---
-nid: 30106
 title: How do we address forever chemicals in municipal water?
-path: public/static/notes/hspencer22/03-08-2022/how-do-we-address-forever-chemicals-in-municipal-water.md
+tagnames: west-virginia, epa, water-quality, southeast, issue-brief, first-time-poster, zoom:6, lat:39.602853, lon:-80.93677, tetrachloroethylene
+author: hspencer22
+path: /notes/hspencer22/03-08-2022/how-do-we-address-forever-chemicals-in-municipal-water.md
+nid: 30106
 uid: 791068
-tagnames: west-virginia,epa,water-quality,southeast,issue-brief,first-time-poster,zoom:6,lat:39.602853,lon:-80.93677,tetrachloroethylene
+
 ---
 
 # How do we address forever chemicals in municipal water?
+
+by [hspencer22](../profile/hspencer22) March 08, 2022 18:34
+
+March 08, 2022 18:34 | Tags: [west-virginia](../tag/west-virginia), [epa](../tag/epa), [water-quality](../tag/water-quality), [southeast](../tag/southeast), [issue-brief](../tag/issue-brief), [first-time-poster](../tag/first-time-poster), [zoom:6](../tag/zoom:6), [lat:39.602853](../tag/lat:39.602853), [lon:-80.93677](../tag/lon:-80.93677), [tetrachloroethylene](../tag/tetrachloroethylene)
 
 ### Introduction:
 

@@ -1,12 +1,18 @@
 ---
-nid: 634
 title: Home Testing for Endocrine Disruptors
-path: public/static/wiki/environmental-estrogen-testing.md
+tagnames: environmental-estrogen-testing, water-quality, tool, endocrine-disruptors, list:plots-waterquality, industry, method, chemicals, lat:1.323155, lon:103.944815
+author: sara
+path: /wiki/environmental-estrogen-testing.md
+nid: 634
 uid: 8
-tagnames: environmental-estrogen-testing,water-quality,tool,endocrine-disruptors,list:plots-waterquality,industry,method,chemicals,lat:1.323155,lon:103.944815
+
 ---
 
 # Home Testing for Endocrine Disruptors
+
+by [xavcc](../profile/xavcc), [fongvania](../profile/fongvania), [liz](../profile/liz), [Shannon](../profile/Shannon), [holstius](../profile/holstius), [sara](../profile/sara), [warren](../profile/warren), [mara](../profile/mara)
+
+December 13, 2011 22:24 | Tags: [environmental-estrogen-testing](../tag/environmental-estrogen-testing), [water-quality](../tag/water-quality), [tool](../tag/tool), [endocrine-disruptors](../tag/endocrine-disruptors), [list:plots-waterquality](../tag/list:plots-waterquality), [industry](../tag/industry), [method](../tag/method), [chemicals](../tag/chemicals), [lat:1.323155](../tag/lat:1.323155), [lon:103.944815](../tag/lon:103.944815)
 
 ## Purpose
 

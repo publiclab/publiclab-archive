@@ -1,12 +1,18 @@
 ---
-nid: 11496
 title: Potent Potable Puzzle
-path: public/static/notes/cfastie/12-24-2014/potent-potable-puzzle.md
+tagnames: near-infrared-camera, nir, holiday, absorption, infragram, happy-holidays, response:11489
+author: cfastie
+path: /notes/cfastie/12-24-2014/potent-potable-puzzle.md
+nid: 11496
 uid: 554
-tagnames: near-infrared-camera,nir,holiday,absorption,infragram,happy-holidays,response:11489
+
 ---
 
 # Potent Potable Puzzle
+
+by [cfastie](../profile/cfastie) December 24, 2014 18:42
+
+December 24, 2014 18:42 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [nir](../tag/nir), [holiday](../tag/holiday), [absorption](../tag/absorption), [infragram](../tag/infragram), [happy-holidays](../tag/happy-holidays), [response:11489](../tag/response:11489)
 
 Unfortunately, there were no correct answers submitted to the [Holiday Whodunit](http://publiclab.org/notes/cfastie/12-21-2014/holiday-beverage-whodunit), so nobody won the new car.  
 .  

@@ -1,12 +1,18 @@
 ---
-nid: 14173
 title: Have You Used LMC660
-path: public/static/notes/lingma/05-10-2017/have-you-used-lmc660.md
-uid: 506929
 tagnames: question:question
+author: lingma
+path: /notes/lingma/05-10-2017/have-you-used-lmc660.md
+nid: 14173
+uid: 506929
+
 ---
 
 # Have You Used LMC660
+
+by [lingma](../profile/lingma) May 10, 2017 04:01
+
+May 10, 2017 04:01 | Tags: [question:question](../tag/question:question)
 
 Hello~all. Thanks for taking time to read my post.  
 Questions:

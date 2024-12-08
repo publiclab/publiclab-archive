@@ -1,12 +1,18 @@
 ---
-nid: 2168
 title: Sample Images from Fieldtest of Photostrip H2S Dection Method
-path: public/static/notes/msgonzales/5-22-2012/sample-images-fieldtest-photostrip-h2s-dection-method.md
+tagnames: hydrogen-sulfide-sensing, hydrogen-sulfide, h2s, h2s-photopaper
+author: MSGonzales
+path: /notes/msgonzales/5-22-2012/sample-images-fieldtest-photostrip-h2s-dection-method.md
+nid: 2168
 uid: 1169
-tagnames: hydrogen-sulfide-sensing,hydrogen-sulfide,h2s,h2s-photopaper
+
 ---
 
 # Sample Images from Fieldtest of Photostrip H2S Dection Method
+
+by [MSGonzales](../profile/MSGonzales) May 22, 2012 18:17
+
+May 22, 2012 18:17 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s), [h2s-photopaper](../tag/h2s-photopaper)
 
 This is a sampling of prepared photopaper strips that were placed in various positions above a series of vents within the sulfidic portions of the Frasassi Caves in Italy. These vents led to an underground stream releasing H2S which was about 8 meters below. At the lip of the vents H2S concentrations were approximately 4-8 ppm and this quickly dropped into sub ppm levels within several meters. Despite low levels, the odor of H2S was very strong.
 

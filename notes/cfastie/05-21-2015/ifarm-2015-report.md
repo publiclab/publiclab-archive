@@ -1,12 +1,18 @@
 ---
-nid: 11825
 title: iFARM 2015 report
-path: public/static/notes/cfastie/05-21-2015/ifarm-2015-report.md
+tagnames: new-hampshire, uav, farm, kap, event, ifarm, 2015, hack, rov, nh, response:11790
+author: cfastie
+path: /notes/cfastie/05-21-2015/ifarm-2015-report.md
+nid: 11825
 uid: 554
-tagnames: new-hampshire,uav,farm,kap,event,ifarm,2015,hack,rov,nh,response:11790
+
 ---
 
 # iFARM 2015 report
+
+by [cfastie](../profile/cfastie) May 21, 2015 02:19
+
+May 21, 2015 02:19 | Tags: [new-hampshire](../tag/new-hampshire), [uav](../tag/uav), [farm](../tag/farm), [kap](../tag/kap), [event](../tag/event), [ifarm](../tag/ifarm), [2015](../tag/2015), [hack](../tag/hack), [rov](../tag/rov), [nh](../tag/nh), [response:11790](../tag/response:11790)
 
 IFarm 2015 was this past weekend in Lee, New Hampshire. This was the fourth annual meet-up to share progress and ideas about providing richer information to farmers. There are a few photos below, but [many more in a Google story](https://plus.google.com/u/0/116103622078305917397/posts/FuMVjSTrGck). This is the first time I have tried this, and it has potential. There is no option to embed the media, so you have to follow the link above to see the whole story.  
 .  

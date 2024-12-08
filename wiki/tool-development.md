@@ -1,12 +1,18 @@
 ---
-nid: 11344
 title: Tool Development
-path: public/static/wiki/tool-development.md
-uid: 1
 tagnames: development
+author: warren
+path: /wiki/tool-development.md
+nid: 11344
+uid: 1
+
 ---
 
 # Tool Development
+
+by [liz](../profile/liz), [btbonval](../profile/btbonval), [warren](../profile/warren), [mathew](../profile/mathew)
+
+November 14, 2014 17:44 | Tags: [development](../tag/development)
 
 This conversation is also happening in a github issue, see: https://github.com/publiclab/plots2/issues/260
 ****

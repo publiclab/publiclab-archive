@@ -1,6 +1,6 @@
 # polarizer
 
-4 notes and wiki pages
+4 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Frac Sand mining- polar light microscopy?](/notes/mathew/04-22-2014/frac-sand-mining) by [mathew](../profile/mathew)
 - [Viewing mica through a polarizer](/notes/warren/05-19-2014/viewing-mica-through-a-polarizer) by [warren](../profile/warren)

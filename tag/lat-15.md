@@ -1,6 +1,5 @@
 # lat-15
 
-2 notes and wiki pages
+2 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Conduct](/conduct) (wiki)
-- [Digital Marketing Services in Kurnool](/notes/tharanginigtw/08-05-2021/digital-marketing-services-in-kurnool) by [tharanginigtw](../profile/tharanginigtw)

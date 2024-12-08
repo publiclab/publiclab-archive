@@ -1,12 +1,18 @@
 ---
-nid: 10985
 title: GSoC Update- New class additions in ImageDistortion (L.DistortableImage and L.ImageMarker)
-path: public/static/notes/anishshah101/07-28-2014/gsoc-update-new-class-additions-in-imagedistortion-l-distortableimage-and-l-imagemarker.md
+tagnames: mapknitter, gsoc, developers, gsoc-2014
+author: anishshah101
+path: /notes/anishshah101/07-28-2014/gsoc-update-new-class-additions-in-imagedistortion-l-distortableimage-and-l-imagemarker.md
+nid: 10985
 uid: 421046
-tagnames: mapknitter,gsoc,developers,gsoc-2014
+
 ---
 
 # GSoC Update- New class additions in ImageDistortion (L.DistortableImage and L.ImageMarker)
+
+by [anishshah101](../profile/anishshah101) July 28, 2014 07:36
+
+July 28, 2014 07:36 | Tags: [mapknitter](../tag/mapknitter), [gsoc](../tag/gsoc), [developers](../tag/developers), [gsoc-2014](../tag/gsoc-2014)
 
 The working demo of the latest version of ImageDistortion can be viewed here: http://128.199.208.55/
 

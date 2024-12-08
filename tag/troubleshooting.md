@@ -1,6 +1,6 @@
 # troubleshooting
 
-23 notes and wiki pages
+23 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Video spectrometer troubleshooting](/wiki/video-spectrometer-troubleshooting) (wiki)
 - [No output signal on IR kit timer](/notes/cfastie/5-2-2012/no-output-signal-ir-kit-timer) by [cfastie](../profile/cfastie)

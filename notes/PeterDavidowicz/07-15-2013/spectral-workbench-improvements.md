@@ -1,12 +1,18 @@
 ---
-nid: 8886
 title: Spectral Workbench Improvements
-path: public/static/notes/PeterDavidowicz/07-15-2013/spectral-workbench-improvements.md
+tagnames: spectrometer, spectral-workbench
+author: PeterDavidowicz
+path: /notes/PeterDavidowicz/07-15-2013/spectral-workbench-improvements.md
+nid: 8886
 uid: 169614
-tagnames: spectrometer,spectral-workbench
+
 ---
 
 # Spectral Workbench Improvements
+
+by [PeterDavidowicz](../profile/PeterDavidowicz) July 15, 2013 06:01
+
+July 15, 2013 06:01 | Tags: [spectrometer](../tag/spectrometer), [spectral-workbench](../tag/spectral-workbench)
 
 Suggestions to improve the spectral workbench software
 

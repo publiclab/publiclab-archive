@@ -1,6 +1,6 @@
 # question-education
 
-8 notes and wiki pages
+8 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [What is the easiest and cheapest way to make a kite big enough to carry a camera?](/notes/warren/10-31-2017/what-is-the-easiest-and-cheapest-way-to-make-a-kite-big-enough-to-carry-a-camera) by [warren](../profile/warren)
 - [What are good resources for teaching middle school age children about water quality parameters? ](/notes/stevie/03-21-2018/what-are-good-resources-for-teaching-middle-school-age-children-about-water-quality-parameters) by [stevie](../profile/stevie)
@@ -9,4 +9,3 @@
 - [Have you tried any good DIY microscope dyes or stains?](/notes/mimiss/04-01-2019/have-you-tried-any-good-diy-microscope-dyes-or-stains) by [mimiss](../profile/mimiss)
 - [What are some of the challenges of implementing a problem-based learning curriculum in your classroom?](/notes/mimiss/05-07-2019/what-are-some-of-the-challenges-of-implementing-a-problem-based-learning-curriculum-in-your-classroom) by [mimiss](../profile/mimiss)
 - [How could we design a group activity around siting air sensors?](/notes/warren/06-24-2019/how-could-we-design-a-group-activity-around-siting-air-sensors) by [warren](../profile/warren)
-- [Physical – Cardio, strength training ](/notes/fatnfixcom/10-08-2023/physical-cardio-strength-training) by [fatnfixcom](../profile/fatnfixcom)

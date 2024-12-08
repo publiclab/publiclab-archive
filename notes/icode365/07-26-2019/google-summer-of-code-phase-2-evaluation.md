@@ -1,12 +1,18 @@
 ---
-nid: 20321
 title: Google Summer of Code: Phase 2 Evaluation
-path: public/static/notes/icode365/07-26-2019/google-summer-of-code-phase-2-evaluation.md
+tagnames: gsoc, community-toolbox, gsoc-2019, soc-2019, soc-2019-eval
+author: icode365
+path: /notes/icode365/07-26-2019/google-summer-of-code-phase-2-evaluation.md
+nid: 20321
 uid: 553778
-tagnames: gsoc,community-toolbox,gsoc-2019,soc-2019,soc-2019-eval
+
 ---
 
 # Google Summer of Code: Phase 2 Evaluation
+
+by [icode365](../profile/icode365) July 26, 2019 00:46
+
+July 26, 2019 00:46 | Tags: [gsoc](../tag/gsoc), [community-toolbox](../tag/community-toolbox), [gsoc-2019](../tag/gsoc-2019), [soc-2019](../tag/soc-2019), [soc-2019-eval](../tag/soc-2019-eval)
 
 It's been a great learning experience working on community-toolbox so far. Some features really ask you a lot of questions like how good is the compatibility, are structural changes breaking the desired code maintainability or do we really have to adopt a different way to achieve things for the sake of efficient performance. I really love that. User's convenience and easy to read code must go hand in hand.
 

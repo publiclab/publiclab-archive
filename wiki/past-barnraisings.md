@@ -1,12 +1,18 @@
 ---
-nid: 396
 title: Past Public Lab Barnraisings
-path: public/static/wiki/past-barnraisings.md
-uid: 1
 tagnames: barnraising
+author: warren
+path: /wiki/past-barnraisings.md
+nid: 396
+uid: 1
+
 ---
 
 # Past Public Lab Barnraisings
+
+by [Bronwen](../profile/Bronwen), [warren](../profile/warren), [Shannon](../profile/Shannon), [diane](../profile/diane), [battuta](../profile/battuta), [adam-griffith](../profile/adam-griffith), [sara](../profile/sara), [liz](../profile/liz)
+
+July 20, 2011 20:18 | Tags: [barnraising](../tag/barnraising)
 
 <meta http-equiv="refresh" content="0; URL='https://publiclab.org/barnraising#Past+Barnraisings:'" />
 

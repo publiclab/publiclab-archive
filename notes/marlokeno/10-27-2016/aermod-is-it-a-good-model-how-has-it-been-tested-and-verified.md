@@ -1,12 +1,18 @@
 ---
-nid: 13659
 title: AERMOD: Is it a good model? How has it been tested and verified?
-path: public/static/notes/marlokeno/10-27-2016/aermod-is-it-a-good-model-how-has-it-been-tested-and-verified.md
+tagnames: question:air-quality, aermod
+author: marlokeno
+path: /notes/marlokeno/10-27-2016/aermod-is-it-a-good-model-how-has-it-been-tested-and-verified.md
+nid: 13659
 uid: 420760
-tagnames: question:air-quality,aermod
+
 ---
 
 # AERMOD: Is it a good model? How has it been tested and verified?
+
+by [marlokeno](../profile/marlokeno) October 27, 2016 19:19
+
+October 27, 2016 19:19 | Tags: [question:air-quality](../tag/question:air-quality), [aermod](../tag/aermod)
 
 
 I first posted about this yesterday in another thread, and feel that it fits better here.

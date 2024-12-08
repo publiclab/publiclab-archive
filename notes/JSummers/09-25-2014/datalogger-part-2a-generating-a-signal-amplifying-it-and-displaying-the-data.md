@@ -1,12 +1,18 @@
 ---
-nid: 11190
 title: Datalogger part 2a; Generating a signal, amplifying it, and displaying the data.
-path: public/static/notes/JSummers/09-25-2014/datalogger-part-2a-generating-a-signal-amplifying-it-and-displaying-the-data.md
+tagnames: datalogger, response:10288, activity:data-logging
+author: JSummers
+path: /notes/JSummers/09-25-2014/datalogger-part-2a-generating-a-signal-amplifying-it-and-displaying-the-data.md
+nid: 11190
 uid: 304279
-tagnames: datalogger,response:10288,activity:data-logging
+
 ---
 
 # Datalogger part 2a; Generating a signal, amplifying it, and displaying the data.
+
+by [JSummers](../profile/JSummers) September 25, 2014 21:20
+
+September 25, 2014 21:20 | Tags: [datalogger](../tag/datalogger), [response:10288](../tag/response:10288), [activity:data-logging](../tag/activity:data-logging)
 
 ###What I want to do
 I just finished writing a research note (found [here](http://publiclab.org/notes/JSummers/09-23-2014/datalogger-part-2b-simpler-hardware-some-observations-about-ion-selective-electrodes-and-ram)) bashing an earlier research note on an amplifying data logger (found [here](http://publiclab.org/notes/JSummers/04-09-2014/datalogger-part-2-hardware-design)) and it occurred to me  that I had never written up the results on the early logger, and that some rather nice (and perhaps useful) things had come out of the work.  This note is intended to put those results forward for people's consideration.

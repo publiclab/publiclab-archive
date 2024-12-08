@@ -1,6 +1,6 @@
 # outreachy-proposals-2021
 
-3 notes and wiki pages
+3 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [GSoC!proposal: Filter out spam from comment. ](/notes/lukoyedith/04-20-2021/gsoc-proposal-filter-out-spam-from-comment) by [lukoyedith](../profile/lukoyedith)
 - [Outreachy proposal: Improve education-related usability and functionality on PublicLab.org](/notes/lukoyedith/04-27-2021/sample-draft) by [lukoyedith](../profile/lukoyedith)

@@ -1,12 +1,18 @@
 ---
-nid: 13487
 title: Document your hardware upgrades at Parts & Crafts Documentation Days - Oct 12 & 19
-path: public/static/notes/warren/09-27-2016/document-your-hardware-upgrades-at-parts-crafts-documentation-days-oct-12-19.md
+tagnames: open-hardware, documentation, partsandcrafts, event, somerville, desktop-spectrometer, desktop-spectrometer-assembly, desktop-spectrometry-kit, event:rsvp, upgrades, oshwa, replication, documenation-days, date:09-12-2016
+author: warren
+path: /notes/warren/09-27-2016/document-your-hardware-upgrades-at-parts-crafts-documentation-days-oct-12-19.md
+nid: 13487
 uid: 1
-tagnames: open-hardware,documentation,partsandcrafts,event,somerville,desktop-spectrometer,desktop-spectrometer-assembly,desktop-spectrometry-kit,event:rsvp,upgrades,oshwa,replication,documenation-days,date:09-12-2016
+
 ---
 
 # Document your hardware upgrades at Parts & Crafts Documentation Days - Oct 12 & 19
+
+by [warren](../profile/warren) September 27, 2016 15:36
+
+September 27, 2016 15:36 | Tags: [open-hardware](../tag/open-hardware), [documentation](../tag/documentation), [partsandcrafts](../tag/partsandcrafts), [event](../tag/event), [somerville](../tag/somerville), [desktop-spectrometer](../tag/desktop-spectrometer), [desktop-spectrometer-assembly](../tag/desktop-spectrometer-assembly), [desktop-spectrometry-kit](../tag/desktop-spectrometry-kit), [event:rsvp](../tag/event:rsvp), [upgrades](../tag/upgrades), [oshwa](../tag/oshwa), [replication](../tag/replication), [documenation-days](../tag/documenation-days), [date:09-12-2016](../tag/date:09-12-2016)
 
 With all the great progress on our new [Activities system](/tag/activity-grids), folks are [starting to upgrade their starter kits](https://publiclab.org/tag/upgrade:*), especially the [Desktop Spectrometry Starter Kit](https://publiclab.org/wiki/desktop-spectrometry-kit-3-0) (see [below](#Upgrades) for a list of posted upgrades!)
 

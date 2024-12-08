@@ -1,12 +1,18 @@
 ---
-nid: 10030
 title: CP RR oil tanker leak from Red wing to Winona MN, beside Mississippi River
-path: public/static/notes/marlokeno/02-12-2014/cp-rr-oil-tanker-leak-from-red-wing-to-winona-mn-beside-mississippi-river.md
+tagnames: spectrometer, oil, spill, minnesota, bakken, train, mississippi-river, oil-testing, rail, first-time-poster
+author: marlokeno
+path: /notes/marlokeno/02-12-2014/cp-rr-oil-tanker-leak-from-red-wing-to-winona-mn-beside-mississippi-river.md
+nid: 10030
 uid: 420760
-tagnames: spectrometer,oil,spill,minnesota,bakken,train,mississippi-river,oil-testing,rail,first-time-poster
+
 ---
 
 # CP RR oil tanker leak from Red wing to Winona MN, beside Mississippi River
+
+by [marlokeno](../profile/marlokeno) February 12, 2014 03:58
+
+February 12, 2014 03:58 | Tags: [spectrometer](../tag/spectrometer), [oil](../tag/oil), [spill](../tag/spill), [minnesota](../tag/minnesota), [bakken](../tag/bakken), [train](../tag/train), [mississippi-river](../tag/mississippi-river), [oil-testing](../tag/oil-testing), [rail](../tag/rail), [first-time-poster](../tag/first-time-poster)
 
 ###I want to know how much oil spilled, what type of oil it is-reportedly, Bakken oil, and whether this will go into the Mississippi River.
 

@@ -1,12 +1,18 @@
 ---
-nid: 9717
 title: Why a red filter should work well for NDVI
-path: public/static/notes/nedhorning/11-01-2013/why-a-red-filter-should-work-well-for-ndvi.md
+tagnames: ndvi, calibration, infrared, infragram, wratten25a, super-red, red-vs-blue
+author: nedhorning
+path: /notes/nedhorning/11-01-2013/why-a-red-filter-should-work-well-for-ndvi.md
+nid: 9717
 uid: 133
-tagnames: ndvi,calibration,infrared,infragram,wratten25a,super-red,red-vs-blue
+
 ---
 
 # Why a red filter should work well for NDVI
+
+by [nedhorning](../profile/nedhorning) November 01, 2013 21:22
+
+November 01, 2013 21:22 | Tags: [ndvi](../tag/ndvi), [calibration](../tag/calibration), [infrared](../tag/infrared), [infragram](../tag/infragram), [wratten25a](../tag/wratten25a), [super-red](../tag/super-red), [red-vs-blue](../tag/red-vs-blue)
 
 In my recent research note comparing NDVI images created using blue and red filters (http://publiclab.org/notes/nedhorning/10-30-2013/red-vs-blue-filters-for-ndvi) I noted that reflected red wavelengths of light likely have more useful information for detecting differences in plant vigor or health when compared with blue light. In addition to the images in that research note I wanted to explain the logic behind the improved NDVI performance when a red filter is used in place of a blue filter. In this note I'll use spectral reflectance curves to illustrate why there is greater contrast in NDVI when using a red filter. 
 

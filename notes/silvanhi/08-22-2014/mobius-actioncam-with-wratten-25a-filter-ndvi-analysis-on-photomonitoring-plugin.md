@@ -1,12 +1,18 @@
 ---
-nid: 11072
 title: Mobius Actioncam with WRATTEN 25a filter NDVI analysis on PhotoMonitoring Plugin
-path: public/static/notes/silvanhi/08-22-2014/mobius-actioncam-with-wratten-25a-filter-ndvi-analysis-on-photomonitoring-plugin.md
+tagnames: ndvi, infrared-photography, aerial-mapping, fiji, mobius-actioncam, wratten25a, photomonitoring, hsv, first-time-poster
+author: silvanhi
+path: /notes/silvanhi/08-22-2014/mobius-actioncam-with-wratten-25a-filter-ndvi-analysis-on-photomonitoring-plugin.md
+nid: 11072
 uid: 427351
-tagnames: ndvi,infrared-photography,aerial-mapping,fiji,mobius-actioncam,wratten25a,photomonitoring,hsv,first-time-poster
+
 ---
 
 # Mobius Actioncam with WRATTEN 25a filter NDVI analysis on PhotoMonitoring Plugin
+
+by [silvanhi](../profile/silvanhi) August 22, 2014 12:07
+
+August 22, 2014 12:07 | Tags: [ndvi](../tag/ndvi), [infrared-photography](../tag/infrared-photography), [aerial-mapping](../tag/aerial-mapping), [fiji](../tag/fiji), [mobius-actioncam](../tag/mobius-actioncam), [wratten25a](../tag/wratten25a), [photomonitoring](../tag/photomonitoring), [hsv](../tag/hsv), [first-time-poster](../tag/first-time-poster)
 
 Hello everybody. I really appreciate this useful and open-minded communtiy. I spent the last couple weeks reading many articles on NDVI photography and made some great progress with all the information provided on this site. Now I'm at a point at which I need some specific help from experts. 
 

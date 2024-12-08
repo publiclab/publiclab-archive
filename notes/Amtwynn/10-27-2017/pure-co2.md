@@ -1,11 +1,17 @@
 ---
-nid: 15109
 title: Pure CO2 
-path: public/static/notes/Amtwynn/10-27-2017/pure-co2.md
+tagnames: spectrometer, spectrometry, co2, hidden:response, foldable-spec, replication:15121
+author: Amtwynn
+path: /notes/Amtwynn/10-27-2017/pure-co2.md
+nid: 15109
 uid: 517043
-tagnames: spectrometer,spectrometry,co2,hidden:response,foldable-spec,replication:15121
+
 ---
 
 # Pure CO2 
+
+by [Amtwynn](../profile/Amtwynn) October 27, 2017 14:06
+
+October 27, 2017 14:06 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [co2](../tag/co2), [hidden:response](../tag/hidden:response), [foldable-spec](../tag/foldable-spec), [replication:15121](../tag/replication:15121)
 
 Picture through a spectrometer

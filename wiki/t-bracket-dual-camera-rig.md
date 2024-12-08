@@ -1,12 +1,18 @@
 ---
-nid: 832
 title: T-bracket Dual Camera Rig
-path: public/static/wiki/t-bracket-dual-camera-rig.md
+tagnames: balloon-mapping, near-infrared-camera, kite-mapping, photo-rig
+author: warren
+path: /wiki/t-bracket-dual-camera-rig.md
+nid: 832
 uid: 1
-tagnames: balloon-mapping,near-infrared-camera,kite-mapping,photo-rig
+
 ---
 
 # T-bracket Dual Camera Rig
+
+by [mathew](../profile/mathew), [warren](../profile/warren)
+
+February 22, 2012 22:30 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [photo-rig](../tag/photo-rig)
 
 ##Step-by-step guide##
 

@@ -1,6 +1,6 @@
 # upgrade-spectrometry
 
-23 notes and wiki pages
+23 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Ebert](/notes/cfastie/2-19-2013/ebert) by [cfastie](../profile/cfastie)
 - [PLab 3 Spectrometer Upgrade Prototype](/notes/stoft/03-02-2015/plab-3-spectrometer-upgrade-prototype) by [stoft](../profile/stoft)

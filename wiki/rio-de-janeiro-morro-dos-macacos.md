@@ -1,12 +1,18 @@
 ---
-nid: 652
 title: Rio de Janeiro - Morro dos Macacos
-path: public/static/wiki/rio-de-janeiro-morro-dos-macacos.md
+tagnames: kite-mapping, rio
+author: ives
+path: /wiki/rio-de-janeiro-morro-dos-macacos.md
+nid: 652
 uid: 403
-tagnames: kite-mapping,rio
+
 ---
 
 # Rio de Janeiro - Morro dos Macacos
+
+by [liz](../profile/liz), [ives](../profile/ives)
+
+December 20, 2011 03:26 | Tags: [kite-mapping](../tag/kite-mapping), [rio](../tag/rio)
 
 O<strong> Morro dos Macacos</strong> é uma das comunidades que sofreram bastante prejuízos durante as chuvas de abril de 2010. Cinco pessoas morreram e cerca de 200 ficaram desabrigadas na tragédia. Para evitar e prevenir uma nova tragédia, o Morro dos Macacos foi uma das comunidades escolhidas para receber o Mapeamento de Riscos Socioambientais Guiado pela Juventude. 
 

@@ -1,12 +1,18 @@
 ---
-nid: 14953
 title: Assess Turbidity in Water
-path: public/static/wiki/turbidity.md
+tagnames: agriculture, mining, water-quality, turbidity, method, parent:water-quality
+author: warren
+path: /wiki/turbidity.md
+nid: 14953
 uid: 1
-tagnames: agriculture,mining,water-quality,turbidity,method,parent:water-quality
+
 ---
 
 # Assess Turbidity in Water
+
+by [liz](../profile/liz), [warren](../profile/warren)
+
+September 25, 2017 19:46 | Tags: [agriculture](../tag/agriculture), [mining](../tag/mining), [water-quality](../tag/water-quality), [turbidity](../tag/turbidity), [method](../tag/method), [parent:water-quality](../tag/parent:water-quality)
 
 As explained [in @donblair's primer](/notes/donblair/08-25-2015/turbidity-001), measuring turbidity means "measuring the amount of suspended solids in water -- solids that haven't fully dissolved". That is, "turbidity, an optical technique for assessing suspended solids in liquid -- is an important water quality parameter. Typically, light is shone into a liquid sample, and the amount of light scattered back out of the sample (off of particles suspended in it) is measured; the intensity of this scattered light is considered to be related to the amount of suspended solids in the sample." ([reference](/wiki/turbidity_sensing))
 

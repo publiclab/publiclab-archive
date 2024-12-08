@@ -1,12 +1,18 @@
 ---
-nid: 14560
 title: Public Lab Launches Balloon Mapping Kit Campaign with Kickstarter Gold
-path: public/static/wiki/public-lab-launches-balloon-mapping-kit-campaign-with-kickstarter-gold.md
+tagnames: balloon-mapping, kite-mapping, kite-aerial-photography, aerial-photography, aerial-mapping
+author: Bronwen
+path: /wiki/public-lab-launches-balloon-mapping-kit-campaign-with-kickstarter-gold.md
+nid: 14560
 uid: 237313
-tagnames: balloon-mapping,kite-mapping,kite-aerial-photography,aerial-photography,aerial-mapping
+
 ---
 
 # Public Lab Launches Balloon Mapping Kit Campaign with Kickstarter Gold
+
+by [Bronwen](../profile/Bronwen)
+
+June 20, 2017 15:11 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [kite-aerial-photography](../tag/kite-aerial-photography), [aerial-photography](../tag/aerial-photography), [aerial-mapping](../tag/aerial-mapping)
 
 NEWS RELEASE
 FOR IMMEDIATE RELEASE

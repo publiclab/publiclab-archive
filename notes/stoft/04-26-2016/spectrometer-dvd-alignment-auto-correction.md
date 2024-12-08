@@ -1,12 +1,18 @@
 ---
-nid: 13031
 title: Spectrometer DVD-Alignment Auto-Correction
-path: public/static/notes/stoft/04-26-2016/spectrometer-dvd-alignment-auto-correction.md
+tagnames: spectrometer, desktop-spectrometer, noise-reduction, dvd-grating, dvd-alignment
+author: stoft
+path: /notes/stoft/04-26-2016/spectrometer-dvd-alignment-auto-correction.md
+nid: 13031
 uid: 54025
-tagnames: spectrometer,desktop-spectrometer,noise-reduction,dvd-grating,dvd-alignment
+
 ---
 
 # Spectrometer DVD-Alignment Auto-Correction
+
+by [stoft](../profile/stoft) April 26, 2016 08:42
+
+April 26, 2016 08:42 | Tags: [spectrometer](../tag/spectrometer), [desktop-spectrometer](../tag/desktop-spectrometer), [noise-reduction](../tag/noise-reduction), [dvd-grating](../tag/dvd-grating), [dvd-alignment](../tag/dvd-alignment)
 
 **Abstract**
 

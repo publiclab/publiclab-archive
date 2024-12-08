@@ -1,12 +1,18 @@
 ---
-nid: 13633
 title: (SPOILERS): Blink a LED
-path: public/static/notes/pdhixenbaugh/10-20-2016/replication-blink-a-led.md
-uid: 459085
 tagnames: replication:13632
+author: pdhixenbaugh
+path: /notes/pdhixenbaugh/10-20-2016/replication-blink-a-led.md
+nid: 13633
+uid: 459085
+
 ---
 
 # (SPOILERS): Blink a LED
+
+by [pdhixenbaugh](../profile/pdhixenbaugh) October 20, 2016 21:22
+
+October 20, 2016 21:22 | Tags: [replication:13632](../tag/replication:13632)
 
 SPOILERS! You shouldn't read this if you want to figure out the activity on your own FIRST!
 

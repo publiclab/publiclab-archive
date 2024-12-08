@@ -1,12 +1,18 @@
 ---
-nid: 12953
 title: Analysis of 2 stroke motor oil and 87 Octane gasoline using Prolight 1W UV LED
-path: public/static/notes/dhaffnersr/04-09-2016/analysis-of-2-stroke-motor-oil-and-87-octane-gasoline-using-prolight-1w-uv-led.md
+tagnames: spectrometer, oil-testing-kit, gasoline, ethanol
+author: dhaffnersr
+path: /notes/dhaffnersr/04-09-2016/analysis-of-2-stroke-motor-oil-and-87-octane-gasoline-using-prolight-1w-uv-led.md
+nid: 12953
 uid: 461120
-tagnames: spectrometer,oil-testing-kit,gasoline,ethanol
+
 ---
 
 # Analysis of 2 stroke motor oil and 87 Octane gasoline using Prolight 1W UV LED
+
+by [dhaffnersr](../profile/dhaffnersr) April 09, 2016 23:29
+
+April 09, 2016 23:29 | Tags: [spectrometer](../tag/spectrometer), [oil-testing-kit](../tag/oil-testing-kit), [gasoline](../tag/gasoline), [ethanol](../tag/ethanol)
 
 Two samples tested today, both prepared with a standard regent recipe of 0.1M NaOH and a 20 percent solution of ethanol (200 proof) 
 

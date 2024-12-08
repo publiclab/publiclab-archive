@@ -1,12 +1,18 @@
 ---
-nid: 15364
 title: Introducing a Lego Spectrometer
-path: public/static/notes/warren/12-13-2017/introducing-a-lego-spectrometer.md
+tagnames: spectrometer, kits, spectrometry, blog, lego, lego-spectrometer, lego-quickstart
+author: warren
+path: /notes/warren/12-13-2017/introducing-a-lego-spectrometer.md
+nid: 15364
 uid: 1
-tagnames: spectrometer,kits,spectrometry,blog,lego,lego-spectrometer,lego-quickstart
+
 ---
 
 # Introducing a Lego Spectrometer
+
+by [warren](../profile/warren) December 13, 2017 17:34
+
+December 13, 2017 17:34 | Tags: [spectrometer](../tag/spectrometer), [kits](../tag/kits), [spectrometry](../tag/spectrometry), [blog](../tag/blog), [lego](../tag/lego), [lego-spectrometer](../tag/lego-spectrometer), [lego-quickstart](../tag/lego-quickstart)
 
 We've been making and distributing [Do-It-Yourself spectrometers](http://store.publiclab.org/collections/spectrometry) since 2011, and have been through [4 major kit versions](/w/spectrometry) and hundreds of different community contributed modifications, new versions, changes, and more. As a community we've gotten really good at helping people **build a spectrometer**, but we need to do a huge amount more to support more advanced work, more rigorous and consistent experiments, and more consistent and better data collection.
 

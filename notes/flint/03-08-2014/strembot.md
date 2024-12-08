@@ -1,12 +1,18 @@
 ---
-nid: 10144
 title: Strembot
-path: public/static/notes/flint/03-08-2014/strembot.md
+tagnames: pvos, water-quality, water-monitoring, water-quality-sensor, tool, riffle
+author: flint
+path: /notes/flint/03-08-2014/strembot.md
+nid: 10144
 uid: 421273
-tagnames: pvos,water-quality,water-monitoring,water-quality-sensor,tool,riffle
+
 ---
 
 # Strembot
+
+by [flint](../profile/flint) March 08, 2014 18:18
+
+March 08, 2014 18:18 | Tags: [pvos](../tag/pvos), [water-quality](../tag/water-quality), [water-monitoring](../tag/water-monitoring), [water-quality-sensor](../tag/water-quality-sensor), [tool](../tag/tool), [riffle](../tag/riffle)
 
 ###What I have done
 Arduino based low cost remote stream gauge

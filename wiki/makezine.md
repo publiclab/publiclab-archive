@@ -1,12 +1,18 @@
 ---
-nid: 10556
 title: Makezine
-path: public/static/wiki/makezine.md
-uid: 1
 tagnames: 
+author: warren
+path: /wiki/makezine.md
+nid: 10556
+uid: 1
+
 ---
 
 # Makezine
+
+by [donblair](../profile/donblair), [warren](../profile/warren)
+
+June 12, 2014 18:59 | Tags: 
 
 Draft article for Make Magazine by Don Blair & Jeff Warren
 

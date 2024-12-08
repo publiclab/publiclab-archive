@@ -1,12 +1,18 @@
 ---
-nid: 18271
 title: Emery Board Terrain Survey 
-path: public/static/wiki/emery-board.md
+tagnames: pipeline, erosion, coastalmonitoring, survey, shoreline, land-use, method, land-change, oil-and-gas, sedimentation, activity:site-survey, beach-mapping, terrain, emery-board, landloss
+author: liz
+path: /wiki/emery-board.md
+nid: 18271
 uid: 7
-tagnames: pipeline,erosion,coastalmonitoring,survey,shoreline,land-use,method,land-change,oil-and-gas,sedimentation,activity:site-survey,beach-mapping,terrain,emery-board,landloss
+
 ---
 
 # Emery Board Terrain Survey 
+
+by [warren](../profile/warren), [a1ahna](../profile/a1ahna), [liz](../profile/liz)
+
+February 06, 2019 19:55 | Tags: [pipeline](../tag/pipeline), [erosion](../tag/erosion), [coastalmonitoring](../tag/coastalmonitoring), [survey](../tag/survey), [shoreline](../tag/shoreline), [land-use](../tag/land-use), [method](../tag/method), [land-change](../tag/land-change), [oil-and-gas](../tag/oil-and-gas), [sedimentation](../tag/sedimentation), [activity:site-survey](../tag/activity:site-survey), [beach-mapping](../tag/beach-mapping), [terrain](../tag/terrain), [emery-board](../tag/emery-board), [landloss](../tag/landloss)
 
 The "Emery Board" terrain survey technique is named after Kenneth O. Emery, a world renowned coastal scientist and geologist.  The original Emery Board method was designed for monitoring changes in shoreline topography and could be performed with just two meter sticks and visible horizon; **This adaptation allows you to perform the Emery Board technique in any landscape with elevation change!  **
 

@@ -1,12 +1,18 @@
 ---
-nid: 9312
 title: Spectra of Sparkfun Multicolor LED kit
-path: public/static/notes/warren/09-10-2013/spectra-of-sparkfun-multicolor-led-kit.md
+tagnames: spectrometer, leaffest, smartphone-spectrometer, leaffest2013, sparkfun, leds
+author: warren
+path: /notes/warren/09-10-2013/spectra-of-sparkfun-multicolor-led-kit.md
+nid: 9312
 uid: 1
-tagnames: spectrometer,leaffest,smartphone-spectrometer,leaffest2013,sparkfun,leds
+
 ---
 
 # Spectra of Sparkfun Multicolor LED kit
+
+by [warren](../profile/warren) September 10, 2013 03:41
+
+September 10, 2013 03:41 | Tags: [spectrometer](../tag/spectrometer), [leaffest](../tag/leaffest), [smartphone-spectrometer](../tag/smartphone-spectrometer), [leaffest2013](../tag/leaffest2013), [sparkfun](../tag/sparkfun), [leds](../tag/leds)
 
 <iframe width='100%' height='200px' border='0' src='https://spectralworkbench.org/sets/embed/566'></iframe>
 

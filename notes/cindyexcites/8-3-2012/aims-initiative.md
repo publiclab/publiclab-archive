@@ -1,12 +1,18 @@
 ---
-nid: 3120
 title: Aims of initiative
-path: public/static/notes/cindyexcites/8-3-2012/aims-initiative.md
+tagnames: diy, community-driven
+author: cindy_excites
+path: /notes/cindyexcites/8-3-2012/aims-initiative.md
+nid: 3120
 uid: 1083
-tagnames: diy,community-driven
+
 ---
 
 # Aims of initiative
+
+by [cindy_excites](../profile/cindy_excites) August 03, 2012 21:56
+
+August 03, 2012 21:56 | Tags: [diy](../tag/diy), [community-driven](../tag/community-driven)
 
 Science has no Borders take a hands-on, community-lead and capacity building approach to research and science. Its aim is to start a civic science project with communities in London, specifically in areas identified as deprived, as defined by the Index of Multiple Deprivation (londonprofiler.org). Specifically,
 

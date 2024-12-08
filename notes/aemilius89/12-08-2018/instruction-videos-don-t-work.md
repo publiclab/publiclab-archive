@@ -1,12 +1,18 @@
 ---
-nid: 17838
 title: Instruction videos don't work!
-path: public/static/notes/aemilius89/12-08-2018/instruction-videos-don-t-work.md
+tagnames: spectral-workbench, question:spectral-workbench, first-time-poster
+author: aemilius89
+path: /notes/aemilius89/12-08-2018/instruction-videos-don-t-work.md
+nid: 17838
 uid: 561190
-tagnames: spectral-workbench,question:spectral-workbench,first-time-poster
+
 ---
 
 # Instruction videos don't work!
+
+by [aemilius89](../profile/aemilius89) December 08, 2018 19:22
+
+December 08, 2018 19:22 | Tags: [spectral-workbench](../tag/spectral-workbench), [question:spectral-workbench](../tag/question:spectral-workbench), [first-time-poster](../tag/first-time-poster)
 
 Hi,
 

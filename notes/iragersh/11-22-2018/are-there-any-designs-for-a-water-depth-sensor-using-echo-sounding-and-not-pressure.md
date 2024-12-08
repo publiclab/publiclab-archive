@@ -1,12 +1,18 @@
 ---
-nid: 17729
 title: Are there any designs for a water depth sensor using echo sounding and not pressure?
-path: public/static/notes/iragersh/11-22-2018/are-there-any-designs-for-a-water-depth-sensor-using-echo-sounding-and-not-pressure.md
+tagnames: water, oyster, depth, question:general, reefballs, sonar, transducer, spat
+author: iragersh
+path: /notes/iragersh/11-22-2018/are-there-any-designs-for-a-water-depth-sensor-using-echo-sounding-and-not-pressure.md
+nid: 17729
 uid: 557258
-tagnames: water,oyster,depth,question:general,reefballs,sonar,transducer,spat
+
 ---
 
 # Are there any designs for a water depth sensor using echo sounding and not pressure?
+
+by [iragersh](../profile/iragersh) November 22, 2018 01:20
+
+November 22, 2018 01:20 | Tags: [water](../tag/water), [oyster](../tag/oyster), [depth](../tag/depth), [question:general](../tag/question:general), [reefballs](../tag/reefballs), [sonar](../tag/sonar), [transducer](../tag/transducer), [spat](../tag/spat)
 
 There are 50 reef balls in the water off West Harlem Piers and they've been there since 2006\. On October 26, 2018 I found some tires near there on the rip rap by the Williams / Transco gas facility that were covered with oysters ![image description](https://drive.google.com/file/d/1P4mY-ZnZJranjuWtTwXwb5QyEdid6atY/view?usp=sharing%20%22oysters%20on%20tire). The presence of the oysters on the tires (and they were young oysters) tells me that there was a lot of spat in the water. This makes me posit that the nearby reef balls are the source of that spat. I would like to photograph them. I know approximately where they are but not exactly. The tops of the reef balls are supposed to have at least 9 feet of water above them. I have a gopro camera. I have underwater lighting. I'd like to get within 2 feet of a reef ball. It would greatly help to know where they are. I feel that a water depth sensor would tell me this.
 

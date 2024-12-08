@@ -1,12 +1,18 @@
 ---
-nid: 10522
 title: Public Lab community newsletter 5.31.14
-path: public/static/notes/Shannon/05-31-2014/public-lab-community-newsletter-5-31-14.md
+tagnames: newsletter, newsletter-archive
+author: Shannon
+path: /notes/Shannon/05-31-2014/public-lab-community-newsletter-5-31-14.md
+nid: 10522
 uid: 9
-tagnames: newsletter,newsletter-archive
+
 ---
 
 # Public Lab community newsletter 5.31.14
+
+by [Shannon](../profile/Shannon) May 31, 2014 18:04
+
+May 31, 2014 18:04 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
 
 This week in the Public Lab community newsletter, join us today, tomorrow and Monday for events in NYC and New Orleans, grab your camping gear and participate in the Spring Barnraising next week in Plymouth, MA and check out updates from Google Summer of Code participants. Enjoy!
 

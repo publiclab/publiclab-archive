@@ -1,12 +1,18 @@
 ---
-nid: 653
 title: Contributor emails
-path: public/static/wiki/contributor-emails.md
-uid: 1
 tagnames: 
+author: warren
+path: /wiki/contributor-emails.md
+nid: 653
+uid: 1
+
 ---
 
 # Contributor emails
+
+by [Shannon](../profile/Shannon), [warren](../profile/warren)
+
+December 20, 2011 20:27 | Tags: 
 
 A readable-by-staff-only list of contributors who we don't think are registered on the mailing list, so we can poll (for now, about using the CERN Open Hardware License):
 

@@ -1,6 +1,6 @@
 # civiclab
 
-5 notes and wiki pages
+5 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Public Lab Chicago and Chicago Ideas Week](/wiki/public-lab-chicago-and-chicago-ideas-week) (wiki)
 - [Youth Balloon Mapping Workshop](/notes/mjain26/06-24-2014/youth-balloon-mapping-workshop) by [mjain26](../profile/mjain26)

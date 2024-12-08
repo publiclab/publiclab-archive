@@ -1,12 +1,18 @@
 ---
-nid: 5220
 title: Mapping Sewage Flows in the Gowanus Canal after Sandy flood damages
-path: public/static/notes/eymund-diegel/12-16-2012/mapping-sewage-flows-gowanus-canal-after-sandy-flood-damages.md
+tagnames: new-york-city, balloon-mapping, gowanus, brooklyn, new-york, sandy-flood-damage, water-quality-monitoring, sustainable-design-of-sewer-systems, sewage, sandy, water-quality, hurricane, wastewater
+author: eymund
+path: /notes/eymund-diegel/12-16-2012/mapping-sewage-flows-gowanus-canal-after-sandy-flood-damages.md
+nid: 5220
 uid: 1016
-tagnames: new-york-city,balloon-mapping,gowanus,brooklyn,new-york,sandy-flood-damage,water-quality-monitoring,sustainable-design-of-sewer-systems,sewage,sandy,water-quality,hurricane,wastewater
+
 ---
 
 # Mapping Sewage Flows in the Gowanus Canal after Sandy flood damages
+
+by [eymund](../profile/eymund) December 16, 2012 18:49
+
+December 16, 2012 18:49 | Tags: [new-york-city](../tag/new-york-city), [balloon-mapping](../tag/balloon-mapping), [gowanus](../tag/gowanus), [brooklyn](../tag/brooklyn), [new-york](../tag/new-york), [sandy-flood-damage](../tag/sandy-flood-damage), [water-quality-monitoring](../tag/water-quality-monitoring), [sustainable-design-of-sewer-systems](../tag/sustainable-design-of-sewer-systems), [sewage](../tag/sewage), [sandy](../tag/sandy), [water-quality](../tag/water-quality), [hurricane](../tag/hurricane), [wastewater](../tag/wastewater)
 
 On December 5th representatives of New York State's Department of Environmental Conservation mentioned at a Water Quality public information meeting that New York City had notified them of a major sewage spill in the Gowanus Canal. This was a a result of storm damage from the Sandy floods, where salt flood waters flooded generators controlling sewer pump stations at Butler Street at the head of the Canal.
 

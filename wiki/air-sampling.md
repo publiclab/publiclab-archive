@@ -1,12 +1,18 @@
 ---
-nid: 15025
 title: Air Sampling
-path: public/static/wiki/air-sampling.md
+tagnames: air-quality, air, benzene, open-air, bucket-brigade, method, parent:sampling, bucket, air-sampling, summa-canisters, grab-samples, dichloromethane, perchloroethylene, toluene
+author: stevie
+path: /wiki/air-sampling.md
+nid: 15025
 uid: 422561
-tagnames: air-quality,air,benzene,open-air,bucket-brigade,method,parent:sampling,bucket,air-sampling,summa-canisters,grab-samples,dichloromethane,perchloroethylene,toluene
+
 ---
 
 # Air Sampling
+
+by [liz](../profile/liz), [bhamster](../profile/bhamster), [kgradow1](../profile/kgradow1), [warren](../profile/warren), [stevie](../profile/stevie)
+
+October 11, 2017 16:34 | Tags: [air-quality](../tag/air-quality), [air](../tag/air), [benzene](../tag/benzene), [open-air](../tag/open-air), [bucket-brigade](../tag/bucket-brigade), [method](../tag/method), [parent:sampling](../tag/parent:sampling), [bucket](../tag/bucket), [air-sampling](../tag/air-sampling), [summa-canisters](../tag/summa-canisters), [grab-samples](../tag/grab-samples), [dichloromethane](../tag/dichloromethane), [perchloroethylene](../tag/perchloroethylene), [toluene](../tag/toluene)
 
 _This page collects resources, questions, and requests related to air sampling. Please edit the page to add information or resources._ 
 

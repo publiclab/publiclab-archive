@@ -1,12 +1,18 @@
 ---
-nid: 6315
 title: IR filter switchers
-path: public/static/notes/mathew/3-12-2013/ir-filter-switchers.md
+tagnames: near-infrared-camera, infrared, ircam, infrared-camera, filter-switcher
+author: mathew
+path: /notes/mathew/3-12-2013/ir-filter-switchers.md
+nid: 6315
 uid: 4
-tagnames: near-infrared-camera,infrared,ircam,infrared-camera,filter-switcher
+
 ---
 
 # IR filter switchers
+
+by [mathew](../profile/mathew) March 13, 2013 03:11
+
+March 13, 2013 03:11 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [infrared](../tag/infrared), [ircam](../tag/ircam), [infrared-camera](../tag/infrared-camera), [filter-switcher](../tag/filter-switcher)
 
 following up on my [IR/Visible light camera dreams](/notes/mathew/3-11-2013/irvisible-light-camera-dreams-parts), I've been tracking down a component from the inside of security cameras: a solenoid-driven filter switcher (IR-CUT or IRC filter)! this a device that can quickly slide one filter in place of another, allowing a near-infrared night vision mode. IF it switched fast enough, a hyperspectral photo could be compiled from multiple images taken with a single camera.  I'm seeing times for filter switching ranging from 40-200ms.  40ms might be fast enough to take two rapid succession photos without too much blur.
 

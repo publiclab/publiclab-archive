@@ -1,12 +1,18 @@
 ---
-nid: 13308
 title: Absorption and Emission of Safranin O using a 532nm green laser July 24, 2016
-path: public/static/notes/dhaffnersr/07-25-2016/absorption-and-emission-of-safranin-o-using-a-532nm-green-laser-july-24-2016.md
-uid: 461120
 tagnames: 
+author: dhaffnersr
+path: /notes/dhaffnersr/07-25-2016/absorption-and-emission-of-safranin-o-using-a-532nm-green-laser-july-24-2016.md
+nid: 13308
+uid: 461120
+
 ---
 
 # Absorption and Emission of Safranin O using a 532nm green laser July 24, 2016
+
+by [dhaffnersr](../profile/dhaffnersr) July 25, 2016 19:52
+
+July 25, 2016 19:52 | Tags: 
 
 ##**A question I had asked myself was, “can I get an absorption and emission spectrum together at the same time by using a laser?”**
 

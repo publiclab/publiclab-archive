@@ -1,12 +1,18 @@
 ---
-nid: 13980
 title: Choose a camera for aerial photography
-path: public/static/notes/liz/03-01-2017/choose-a-camera-for-aerial-photography.md
+tagnames: with:cfastie, activity:balloon-mapping, activity:cameras, activity:bourjalshamali
+author: liz
+path: /notes/liz/03-01-2017/choose-a-camera-for-aerial-photography.md
+nid: 13980
 uid: 7
-tagnames: with:cfastie,activity:balloon-mapping,activity:cameras,activity:bourjalshamali
+
 ---
 
 # Choose a camera for aerial photography
+
+by [liz](../profile/liz) March 01, 2017 21:44
+
+March 01, 2017 21:44 | Tags: [with:cfastie](../tag/with:cfastie), [activity:balloon-mapping](../tag/activity:balloon-mapping), [activity:cameras](../tag/activity:cameras), [activity:bourjalshamali](../tag/activity:bourjalshamali)
 
 _Image from [Ebay seller Goodwill Maine](http://www.ebay.com/usr/goodwill-maine?_trksid=p2047675.l2559)_
 

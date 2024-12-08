@@ -1,12 +1,16 @@
 ---
-nid: 17457
 title: methods-header
-path: public/static/feature/methods-header.md
-uid: 1
 tagnames: 
+author: warren
+path: /feature/methods-header.md
+nid: 17457
+uid: 1
+
 ---
 
 # methods-header
+
+November 01, 2018 20:26 | Tags: 
 
 
   <div style="text-align:center;">

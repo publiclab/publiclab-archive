@@ -1,12 +1,18 @@
 ---
-nid: 13197
 title: In the heat of the pile
-path: public/static/notes/cfastie/06-15-2016/in-the-heat-of-the-pile.md
+tagnames: arduino, vermont, temperature, sensors, water-quality, riffle, humidity, compost, response:13182, category:observe, data-logging, activity:riffle, riffle-examples, activity:data-logging
+author: cfastie
+path: /notes/cfastie/06-15-2016/in-the-heat-of-the-pile.md
+nid: 13197
 uid: 554
-tagnames: arduino,vermont,temperature,sensors,water-quality,riffle,humidity,compost,response:13182,category:observe,data-logging,activity:riffle,riffle-examples,activity:data-logging
+
 ---
 
 # In the heat of the pile
+
+by [cfastie](../profile/cfastie) June 15, 2016 03:19
+
+June 15, 2016 03:19 | Tags: [arduino](../tag/arduino), [vermont](../tag/vermont), [temperature](../tag/temperature), [sensors](../tag/sensors), [water-quality](../tag/water-quality), [riffle](../tag/riffle), [humidity](../tag/humidity), [compost](../tag/compost), [response:13182](../tag/response:13182), [category:observe](../tag/category:observe), [data-logging](../tag/data-logging), [activity:riffle](../tag/activity:riffle), [riffle-examples](../tag/riffle-examples), [activity:data-logging](../tag/activity:data-logging)
 
 *Above: The height of the compost pile dropped about a foot in a week of cooking. The temperature probes dropped less so they extend farther above the pile. This changed the relationship between the sensors and the center of the pile.*
 

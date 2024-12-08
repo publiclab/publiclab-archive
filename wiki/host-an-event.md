@@ -1,12 +1,18 @@
 ---
-nid: 13993
 title: Host an event
-path: public/static/wiki/host-an-event.md
+tagnames: events, leaffest, organizing, ifarm, tool, method, community-organizing, activities:host-an-event, event-how-to
+author: warren
+path: /wiki/host-an-event.md
+nid: 13993
 uid: 1
-tagnames: events,leaffest,organizing,ifarm,tool,method,community-organizing,activities:host-an-event,event-how-to
+
 ---
 
 # Host an event
+
+by [warren](../profile/warren), [stevie](../profile/stevie)
+
+March 08, 2017 23:35 | Tags: [events](../tag/events), [leaffest](../tag/leaffest), [organizing](../tag/organizing), [ifarm](../tag/ifarm), [tool](../tag/tool), [method](../tag/method), [community-organizing](../tag/community-organizing), [activities:host-an-event](../tag/activities:host-an-event), [event-how-to](../tag/event-how-to)
 
 # Why host an event?
 

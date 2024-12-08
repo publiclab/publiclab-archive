@@ -1,12 +1,18 @@
 ---
-nid: 9649
 title: 2013 Barnraising evaluation summary
-path: public/static/notes/Shannon/10-27-2013/2013-barnraising-evaluation-summary.md
+tagnames: community, barnraising, evaluation
+author: Shannon
+path: /notes/Shannon/10-27-2013/2013-barnraising-evaluation-summary.md
+nid: 9649
 uid: 9
-tagnames: community,barnraising,evaluation
+
 ---
 
 # 2013 Barnraising evaluation summary
+
+by [Shannon](../profile/Shannon) October 27, 2013 17:42
+
+October 27, 2013 17:42 | Tags: [community](../tag/community), [barnraising](../tag/barnraising), [evaluation](../tag/evaluation)
 
 Becki and I spent Friday afternoon coding and summarizing the responses to the barnraising evaluation that was completed both on-site and post-event. We've put together a narrative summary of the responses that includes both quantitative and qualitative responses received. All numerical responses were out of 5. 
 

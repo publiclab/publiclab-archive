@@ -1,6 +1,6 @@
 # ecohack
 
-6 notes and wiki pages
+6 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Prototype 'pufferfish' balloon from EcoHack](/notes/shannon/4-21-2012/prototype-pufferfish-balloon-ecohack) by [Shannon](../profile/Shannon)
 - [EcoHack is back, and this time it’s global! May 9th & 10th](/notes/liz/03-19-2014/ecohack-is-back-and-this-time-it-s-global-may-9th-10th) by [liz](../profile/liz)

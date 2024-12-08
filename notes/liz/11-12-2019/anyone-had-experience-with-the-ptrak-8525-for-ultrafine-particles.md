@@ -1,12 +1,18 @@
 ---
-nid: 21464
 title: Anyone had experience with the PTrak 8525 for ultrafine particles? 
-path: public/static/notes/liz/11-12-2019/anyone-had-experience-with-the-ptrak-8525-for-ultrafine-particles.md
+tagnames: indoor-air, question:general, general, question:indoor-air
+author: liz
+path: /notes/liz/11-12-2019/anyone-had-experience-with-the-ptrak-8525-for-ultrafine-particles.md
+nid: 21464
 uid: 7
-tagnames: indoor-air,question:general,general,question:indoor-air
+
 ---
 
 # Anyone had experience with the PTrak 8525 for ultrafine particles? 
+
+by [liz](../profile/liz) November 12, 2019 14:44
+
+November 12, 2019 14:44 | Tags: [indoor-air](../tag/indoor-air), [question:general](../tag/question:general), [general](../tag/general), [question:indoor-air](../tag/question:indoor-air)
 
 Has anyone has experience using the PTrak 8525 to measure ultrafine particles in indoor air?   
 We have a community member using this piece of equipment for that purpose: https://www.tsi.com/p-trak-ultrafine-particle-counter-8525/  

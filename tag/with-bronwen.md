@@ -1,6 +1,6 @@
 # with-bronwen
 
-8 notes and wiki pages
+8 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Northshore Staten Island mapstitching event!](/notes/liz/07-23-2014/northshore-staten-island-mapstitching-event) by [liz](../profile/liz)
 - [Barnraising 2015 Storify](/notes/liz/12-04-2015/barnraising-2015-storify) by [liz](../profile/liz)

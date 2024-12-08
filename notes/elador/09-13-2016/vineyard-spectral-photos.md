@@ -1,12 +1,18 @@
 ---
-nid: 13445
 title: vineyard spectral
-path: public/static/notes/elador/09-13-2016/vineyard-spectral-photos.md
+tagnames: ndvi, farming, agriculture, raspberry-pi, infragram, camera, machine, data, spectral, robot, solar, learning, pi-camera, raspi, big, multispectral-imaging, raspberry-pi-cameras, vineyards
+author: elador
+path: /notes/elador/09-13-2016/vineyard-spectral-photos.md
+nid: 13445
 uid: 444013
-tagnames: ndvi,farming,agriculture,raspberry-pi,infragram,camera,machine,data,spectral,robot,solar,learning,pi-camera,raspi,big,multispectral-imaging,raspberry-pi-cameras,vineyards
+
 ---
 
 # vineyard spectral
+
+by [elador](../profile/elador) September 13, 2016 10:48
+
+September 13, 2016 10:48 | Tags: [ndvi](../tag/ndvi), [farming](../tag/farming), [agriculture](../tag/agriculture), [raspberry-pi](../tag/raspberry-pi), [infragram](../tag/infragram), [camera](../tag/camera), [machine](../tag/machine), [data](../tag/data), [spectral](../tag/spectral), [robot](../tag/robot), [solar](../tag/solar), [learning](../tag/learning), [pi-camera](../tag/pi-camera), [raspi](../tag/raspi), [big](../tag/big), [multispectral-imaging](../tag/multispectral-imaging), [raspberry-pi-cameras](../tag/raspberry-pi-cameras), [vineyards](../tag/vineyards)
 
 [![IMG_0971.JPG](//i.publiclab.org/system/images/photos/000/018/033/large/IMG_0971.JPG)](//i.publiclab.org/system/images/photos/000/018/033/original/IMG_0971.JPG)
 

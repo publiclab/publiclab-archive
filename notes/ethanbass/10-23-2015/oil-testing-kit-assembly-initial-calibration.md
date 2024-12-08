@@ -1,12 +1,18 @@
 ---
-nid: 12331
 title: Oil testing kit: Assembly + Initial Calibration
-path: public/static/notes/ethanbass/10-23-2015/oil-testing-kit-assembly-initial-calibration.md
+tagnames: spectrometer, fluorescence, oil-testing-kit, oil-testing-kit-alpha, first-time-poster
+author: ethanbass
+path: /notes/ethanbass/10-23-2015/oil-testing-kit-assembly-initial-calibration.md
+nid: 12331
 uid: 46902
-tagnames: spectrometer,fluorescence,oil-testing-kit,oil-testing-kit-alpha,first-time-poster
+
 ---
 
 # Oil testing kit: Assembly + Initial Calibration
+
+by [ethanbass](../profile/ethanbass) October 23, 2015 21:34
+
+October 23, 2015 21:34 | Tags: [spectrometer](../tag/spectrometer), [fluorescence](../tag/fluorescence), [oil-testing-kit](../tag/oil-testing-kit), [oil-testing-kit-alpha](../tag/oil-testing-kit-alpha), [first-time-poster](../tag/first-time-poster)
 
 Hi, I'm Ethan, a member of the Oil Testing Kit beta program, located in Chicago. Here I've collected some notes and pictures from the assembly and calibration of my oil testing kit.
 

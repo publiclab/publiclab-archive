@@ -1,6 +1,6 @@
 # data-logger
 
-4 notes and wiki pages
+4 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Particle Electron](/notes/kinasmith/09-09-2016/particle-electron) by [kinasmith](../profile/kinasmith)
 - [What would be a good basic activity to test out a data logging device in water? ](/notes/stevie/06-16-2017/what-would-be-a-good-basic-activity-to-test-out-a-data-logging-device-in-water) by [stevie](../profile/stevie)

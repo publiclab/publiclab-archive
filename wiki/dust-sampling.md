@@ -1,12 +1,18 @@
 ---
-nid: 15247
 title: Dust Sampling
-path: public/static/wiki/dust-sampling.md
+tagnames: particulate-sensing, dust, parent:air-quality
+author: warren
+path: /wiki/dust-sampling.md
+nid: 15247
 uid: 1
-tagnames: particulate-sensing,dust,parent:air-quality
+
 ---
 
 # Dust Sampling
+
+by [warren](../profile/warren)
+
+November 28, 2017 17:19 | Tags: [particulate-sensing](../tag/particulate-sensing), [dust](../tag/dust), [parent:air-quality](../tag/parent:air-quality)
 
 Dust sampling can be done with a filter, a sticky pad, or other techniques, and can help in assessing particulate air pollution (#pm or #dust) -- see https://publiclab.org/wiki/pm for more.
 

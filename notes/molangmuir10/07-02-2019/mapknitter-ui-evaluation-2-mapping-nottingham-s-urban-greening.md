@@ -1,12 +1,18 @@
 ---
-nid: 19955
 title: MapKnitter UI evaluation 2: Mapping Nottingham's Urban Greening
-path: public/static/notes/molangmuir10/07-02-2019/mapknitter-ui-evaluation-2-mapping-nottingham-s-urban-greening.md
+tagnames: balloon-mapping, mapknitter, community, mapping, blog, barnstar:basic, fellowship, ui, community-atlas, lat:52.948637, lon:-1.16455, lat:52.9547832, lon:-1.1581086, community-atlas-ui
+author: molangmuir10
+path: /notes/molangmuir10/07-02-2019/mapknitter-ui-evaluation-2-mapping-nottingham-s-urban-greening.md
+nid: 19955
 uid: 589023
-tagnames: balloon-mapping,mapknitter,community,mapping,blog,barnstar:basic,fellowship,ui,community-atlas,lat:52.948637,lon:-1.16455,lat:52.9547832,lon:-1.1581086,community-atlas-ui
+
 ---
 
 # MapKnitter UI evaluation 2: Mapping Nottingham's Urban Greening
+
+by [molangmuir10](../profile/molangmuir10) July 02, 2019 19:58
+
+July 02, 2019 19:58 | Tags: [balloon-mapping](../tag/balloon-mapping), [mapknitter](../tag/mapknitter), [community](../tag/community), [mapping](../tag/mapping), [blog](../tag/blog), [barnstar:basic](../tag/barnstar:basic), [fellowship](../tag/fellowship), [ui](../tag/ui), [community-atlas](../tag/community-atlas), [lat:52.948637](../tag/lat:52.948637), [lon:-1.16455](../tag/lon:-1.16455), [lat:52.9547832](../tag/lat:52.9547832), [lon:-1.1581086](../tag/lon:-1.1581086), [community-atlas-ui](../tag/community-atlas-ui)
 
 <iframe src="https://mapknitter.org/embed/mapping-nottingham-s-urban-greening--3" style="border:none" width="100%" height="400px"></iframe>
 

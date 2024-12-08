@@ -1,12 +1,18 @@
 ---
-nid: 11132
 title: Fluorescence spectroscopy with the foldup + gelcap
-path: public/static/notes/mathew/09-12-2014/fluorescence-spectroscopy-with-the-foldup-gelcap.md
+tagnames: spectrometer, uv, fluorescence, fold-up, foldable
+author: mathew
+path: /notes/mathew/09-12-2014/fluorescence-spectroscopy-with-the-foldup-gelcap.md
+nid: 11132
 uid: 4
-tagnames: spectrometer,uv,fluorescence,fold-up,foldable
+
 ---
 
 # Fluorescence spectroscopy with the foldup + gelcap
+
+by [mathew](../profile/mathew) September 12, 2014 04:17
+
+September 12, 2014 04:17 | Tags: [spectrometer](../tag/spectrometer), [uv](../tag/uv), [fluorescence](../tag/fluorescence), [fold-up](../tag/fold-up), [foldable](../tag/foldable)
 
 ###What I want to do
 See bright fluorescence spectra with a fold up.

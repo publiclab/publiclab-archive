@@ -1,11 +1,17 @@
 ---
-nid: 17283
 title: airquality
-path: public/static/wiki/airquality.md
-uid: 1
 tagnames: redirect:air-quality
+author: warren
+path: /wiki/airquality.md
+nid: 17283
+uid: 1
+
 ---
 
 # airquality
+
+by [warren](../profile/warren)
+
+October 13, 2018 02:58 | Tags: [redirect:air-quality](../tag/redirect:air-quality)
 
 Redirect

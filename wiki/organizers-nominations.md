@@ -1,12 +1,18 @@
 ---
-nid: 2299
 title: Organizers nominations
-path: public/static/wiki/organizers-nominations.md
+tagnames: community, organizers, parent:organizers
+author: warren
+path: /wiki/organizers-nominations.md
+nid: 2299
 uid: 1
-tagnames: community,organizers,parent:organizers
+
 ---
 
 # Organizers nominations
+
+by [stevie](../profile/stevie), [liz](../profile/liz), [eustatic](../profile/eustatic), [warren](../profile/warren), [Shannon](../profile/Shannon)
+
+June 01, 2012 17:13 | Tags: [community](../tag/community), [organizers](../tag/organizers), [parent:organizers](../tag/parent:organizers)
 
 Old nominations for the [plots-organizers list](/wiki/organizers):
 

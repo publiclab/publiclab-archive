@@ -1,12 +1,18 @@
 ---
-nid: 13471
 title: All Paper-n-Tape Mock-Up Upgrade of PLab 3 Spectrometer
-path: public/static/notes/stoft/09-22-2016/all-paper-n-tape-mock-up-of-plab-3-spectrometer.md
+tagnames: upgrade:spectrometry, seeks:builds, category:build
+author: stoft
+path: /notes/stoft/09-22-2016/all-paper-n-tape-mock-up-of-plab-3-spectrometer.md
+nid: 13471
 uid: 54025
-tagnames: upgrade:spectrometry,seeks:builds,category:build
+
 ---
 
 # All Paper-n-Tape Mock-Up Upgrade of PLab 3 Spectrometer
+
+by [stoft](../profile/stoft) September 22, 2016 20:41
+
+September 22, 2016 20:41 | Tags: [upgrade:spectrometry](../tag/upgrade:spectrometry), [seeks:builds](../tag/seeks:builds), [category:build](../tag/category:build)
 
 **Abstract**
 

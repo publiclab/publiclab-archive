@@ -1,12 +1,18 @@
 ---
-nid: 575
 title: Controlled Testing with B&W Film Hydrogen Sulfide Detectors
-path: public/static/notes/jschaffr/11-21-2011/controlled-testing-bw-film-hydrogen-sulfide-detectors.md
+tagnames: hydrogen-sulfide-sensing, hydrogen-sulfide, h2s, h2s-photopaper
+author: jschaffr
+path: /notes/jschaffr/11-21-2011/controlled-testing-bw-film-hydrogen-sulfide-detectors.md
+nid: 575
 uid: 315
-tagnames: hydrogen-sulfide-sensing,hydrogen-sulfide,h2s,h2s-photopaper
+
 ---
 
 # Controlled Testing with B&W Film Hydrogen Sulfide Detectors
+
+by [jschaffr](../profile/jschaffr) November 21, 2011 19:45
+
+November 21, 2011 19:45 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s), [h2s-photopaper](../tag/h2s-photopaper)
 
 Above infographic describes procedure for controlled testing of Hydrogen Sulfide Detectors created using <a href="http://publiclaboratory.org/notes/jschaffr/10-18-2011/hydrogen-sulfide-testing-black-and-white-film">this method</a>
 

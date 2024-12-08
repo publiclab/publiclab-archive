@@ -1,11 +1,17 @@
 ---
-nid: 22392
 title: 85 lux
-path: public/static/notes/biozanco/01-24-2020/85-lux.md
+tagnames: infragram, first-time-poster, infragram-upload
+author: biozanco
+path: /notes/biozanco/01-24-2020/85-lux.md
+nid: 22392
 uid: 533335
-tagnames: infragram,first-time-poster,infragram-upload
+
 ---
 
 # 85 lux
+
+by [biozanco](../profile/biozanco) January 24, 2020 12:29
+
+January 24, 2020 12:29 | Tags: [infragram](../tag/infragram), [first-time-poster](../tag/first-time-poster), [infragram-upload](../tag/infragram-upload)
 
 85 lux

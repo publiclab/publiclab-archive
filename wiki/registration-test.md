@@ -1,12 +1,18 @@
 ---
-nid: 9930
 title: Registration Test
-path: public/static/wiki/registration-test.md
-uid: 1
 tagnames: spam
+author: warren
+path: /wiki/registration-test.md
+nid: 9930
+uid: 1
+
 ---
 
 # Registration Test
+
+by [warren](../profile/warren), [btbonval](../profile/btbonval)
+
+January 08, 2014 20:12 | Tags: [spam](../tag/spam)
 
 ###Having trouble registering?
 

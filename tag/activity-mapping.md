@@ -1,6 +1,6 @@
 # activity-mapping
 
-7 notes and wiki pages
+7 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Easy ways to make precise maps](/notes/megan/9-6-2012/easy-ways-make-precise-maps) by [megan](../profile/megan)
 - [How to Map](/wiki/how-to-map) (wiki)

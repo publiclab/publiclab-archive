@@ -1,12 +1,18 @@
 ---
-nid: 13218
 title: Airborne Silica and Regulations
-path: public/static/notes/mlamadrid/06-21-2016/airborne-silica-and-regulations.md
+tagnames: silica, frac-sand, with:gretchengehrke, sand-frac, communityscienceforum
+author: mlamadrid
+path: /notes/mlamadrid/06-21-2016/airborne-silica-and-regulations.md
+nid: 13218
 uid: 45586
-tagnames: silica,frac-sand,with:gretchengehrke,sand-frac,communityscienceforum
+
 ---
 
 # Airborne Silica and Regulations
+
+by [mlamadrid](../profile/mlamadrid) June 21, 2016 20:32
+
+June 21, 2016 20:32 | Tags: [silica](../tag/silica), [frac-sand](../tag/frac-sand), [with:gretchengehrke](../tag/with:gretchengehrke), [sand-frac](../tag/sand-frac), [communityscienceforum](../tag/communityscienceforum)
 
 Article by [Gretchen Gehrke](https://publiclab.org/profile/gretchengehrke) for [Community Science Forum: Sand-Frac Issue](https://publiclab.org/forum).
 

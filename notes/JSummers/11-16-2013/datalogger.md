@@ -1,12 +1,18 @@
 ---
-nid: 9790
 title: DataLogger
-path: public/static/notes/JSummers/11-16-2013/datalogger.md
+tagnames: arduino, potentiostat, datalogger, logging, launchpad, data-logging
+author: JSummers
+path: /notes/JSummers/11-16-2013/datalogger.md
+nid: 9790
 uid: 304279
-tagnames: arduino,potentiostat,datalogger,logging,launchpad,data-logging
+
 ---
 
 # DataLogger
+
+by [JSummers](../profile/JSummers) November 16, 2013 19:05
+
+November 16, 2013 19:05 | Tags: [arduino](../tag/arduino), [potentiostat](../tag/potentiostat), [datalogger](../tag/datalogger), [logging](../tag/logging), [launchpad](../tag/launchpad), [data-logging](../tag/data-logging)
 
 ###What I want to do
 I want a simple graphic user interface (GUI) to log data with Arduino / LaunchPad type microcontroller boards.  

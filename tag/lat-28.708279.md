@@ -1,5 +1,5 @@
 # lat-28.708279
 
-1 notes and wiki pages
+1 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [GSoC 2021 Proposal: Translation System Refinements ](/notes/govindgoel/03-25-2021/gsoc-proposal) by [govindgoel](../profile/govindgoel)

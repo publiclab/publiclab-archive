@@ -1,6 +1,6 @@
 # riffle-examples
 
-32 notes and wiki pages
+32 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [The Blair House Project](/notes/lauradietz/02-23-2014/the-blairhouse-project) by [lauradietz](../profile/lauradietz)
 - ["Underwater LEDz" -- first test](/notes/donblair/06-18-2014/underwater-ledz-first-test) by [donblair](../profile/donblair)

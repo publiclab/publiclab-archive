@@ -1,6 +1,6 @@
 # question-riffle
 
-10 notes and wiki pages
+10 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Question: purchase sensor](/notes/frabisog/03-22-2015/question-purchase-sensor) by [frabisog](../profile/frabisog)
 - [How to use Alkaline Batteries with the Riffle?](/notes/pdhixenbaugh/03-09-2017/how-to-use-alkaline-batteries-with-the-riffle) by [pdhixenbaugh](../profile/pdhixenbaugh)

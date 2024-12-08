@@ -1,12 +1,18 @@
 ---
-nid: 429
 title: Grassroots Mapping Video Tutorials Plan
-path: public/static/wiki/grassroots-mapping-video-tutorials-plan.md
-uid: 4
 tagnames: 
+author: mathew
+path: /wiki/grassroots-mapping-video-tutorials-plan.md
+nid: 429
+uid: 4
+
 ---
 
 # Grassroots Mapping Video Tutorials Plan
+
+by [mathew](../profile/mathew), [gonzoearth](../profile/gonzoearth)
+
+August 05, 2011 18:05 | Tags: 
 
 We're preparing to make a series of tutorial videos for kite and balloon mapping, and want to know what you'd like to see, what resources are already out there, and what you'd like to help with.  The goal is that each video will be short, from 15 seconds to just over a minute, and narrowly focused on one specific task.
 

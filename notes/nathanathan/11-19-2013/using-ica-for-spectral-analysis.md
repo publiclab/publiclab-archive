@@ -1,12 +1,18 @@
 ---
-nid: 9809
 title: Using ICA for spectral analysis
-path: public/static/notes/nathanathan/11-19-2013/using-ica-for-spectral-analysis.md
+tagnames: spectrography, first-time-poster
+author: nathanathan
+path: /notes/nathanathan/11-19-2013/using-ica-for-spectral-analysis.md
+nid: 9809
 uid: 365600
-tagnames: spectrography,first-time-poster
+
 ---
 
 # Using ICA for spectral analysis
+
+by [nathanathan](../profile/nathanathan) November 19, 2013 10:03
+
+November 19, 2013 10:03 | Tags: [spectrography](../tag/spectrography), [first-time-poster](../tag/first-time-poster)
 
 I've read a bit about some statistical analysis tools (in particular [ICA](https://en.wikipedia.org/wiki/Independent_component_analysis) and PCA) that seem like they could be applied to spectral analysis. The goal would be to devise an algorithm that returns the the relative emission/absorption of every known element and chemical compound in a spectrum.
 

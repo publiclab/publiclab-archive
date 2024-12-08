@@ -1,12 +1,18 @@
 ---
-nid: 12989
 title: Automatic Gain Control vs. Inverse square law
-path: public/static/notes/viechdokter/04-16-2016/automatic-gain-control-vs-inverse-square-law.md
+tagnames: spectrometer, intensity-calibration, intensity, distance, agc, gain-control
+author: viechdokter
+path: /notes/viechdokter/04-16-2016/automatic-gain-control-vs-inverse-square-law.md
+nid: 12989
 uid: 468990
-tagnames: spectrometer,intensity-calibration,intensity,distance,agc,gain-control
+
 ---
 
 # Automatic Gain Control vs. Inverse square law
+
+by [viechdokter](../profile/viechdokter) April 16, 2016 16:07
+
+April 16, 2016 16:07 | Tags: [spectrometer](../tag/spectrometer), [intensity-calibration](../tag/intensity-calibration), [intensity](../tag/intensity), [distance](../tag/distance), [agc](../tag/agc), [gain-control](../tag/gain-control)
 
 After my first trials with my torch light and the problems with the "light rings" it was emitting I tried again, this time focussing it better and keeping the light path straight. I took spectra of that LED torch light at a lot of different distances. 
 

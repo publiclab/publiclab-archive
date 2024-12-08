@@ -1,12 +1,18 @@
 ---
-nid: 8090
 title: GoPro Cameras
-path: public/static/wiki/gopro-cameras.md
+tagnames: near-infrared-camera, ndvi, conversion, infragram, gopro
+author: gonzoearth
+path: /wiki/gopro-cameras.md
+nid: 8090
 uid: 12
-tagnames: near-infrared-camera,ndvi,conversion,infragram,gopro
+
 ---
 
 # GoPro Cameras
+
+by [gonzoearth](../profile/gonzoearth)
+
+June 07, 2013 00:22 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [conversion](../tag/conversion), [infragram](../tag/infragram), [gopro](../tag/gopro)
 
 **Hero3 NIR Conversion**
 _***In Progress !!!***_  

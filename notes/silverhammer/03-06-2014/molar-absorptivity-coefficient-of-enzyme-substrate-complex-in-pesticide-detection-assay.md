@@ -1,12 +1,18 @@
 ---
-nid: 10120
 title: Molar Absorptivity Coefficient of Enzyme-Substrate Complex in Pesticide Detection Assay
-path: public/static/notes/silverhammer/03-06-2014/molar-absorptivity-coefficient-of-enzyme-substrate-complex-in-pesticide-detection-assay.md
+tagnames: spectrometer, pesticides, raspberries
+author: silverhammer
+path: /notes/silverhammer/03-06-2014/molar-absorptivity-coefficient-of-enzyme-substrate-complex-in-pesticide-detection-assay.md
+nid: 10120
 uid: 420530
-tagnames: spectrometer,pesticides,raspberries
+
 ---
 
 # Molar Absorptivity Coefficient of Enzyme-Substrate Complex in Pesticide Detection Assay
+
+by [silverhammer](../profile/silverhammer) March 06, 2014 16:13
+
+March 06, 2014 16:13 | Tags: [spectrometer](../tag/spectrometer), [pesticides](../tag/pesticides), [raspberries](../tag/raspberries)
 
 ##**Purpose:**
 Estimate the Molar Absorptivity Coefficient (e) of the enzyme-substrate (E-S) complex of the pesticide detection (cholinesterase inhibition) assay used for testing organic and conventional raspberries (1).  This is an important metric for baselining the method.  For a given absorbance measurement, this coefficient can be used to estimate the amount of active (bound) enzyme in the assay.  This is directly proportional to the amount of inhibited enzyme.

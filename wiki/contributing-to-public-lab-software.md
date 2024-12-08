@@ -1,12 +1,18 @@
 ---
-nid: 11487
 title: Contributing to Public Lab Software
-path: public/static/wiki/contributing-to-public-lab-software.md
+tagnames: software, guidelines, github, plots-dev, contributing, getting-started, parent:developers, response:11490, 44
+author: justinmanley
+path: /wiki/contributing-to-public-lab-software.md
+nid: 11487
 uid: 421556
-tagnames: software,guidelines,github,plots-dev,contributing,getting-started,parent:developers,response:11490,44
+
 ---
 
 # Contributing to Public Lab Software
+
+by [warren](../profile/warren), [justinmanley](../profile/justinmanley)
+
+December 19, 2014 22:45 | Tags: [software](../tag/software), [guidelines](../tag/guidelines), [github](../tag/github), [plots-dev](../tag/plots-dev), [contributing](../tag/contributing), [getting-started](../tag/getting-started), [parent:developers](../tag/parent:developers), [response:11490](../tag/response:11490), [44](../tag/44)
 
 ### Public Lab welcomes and encourages community contributions to our open source software!
 

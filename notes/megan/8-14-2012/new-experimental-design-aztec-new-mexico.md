@@ -1,12 +1,18 @@
 ---
-nid: 3285
 title: New Experimental Design, Aztec, New Mexico
-path: public/static/notes/megan/8-14-2012/new-experimental-design-aztec-new-mexico.md
+tagnames: hydrogen-sulfide-sensing, study-design, h2s-study-design
+author: megan
+path: /notes/megan/8-14-2012/new-experimental-design-aztec-new-mexico.md
+nid: 3285
 uid: 775
-tagnames: hydrogen-sulfide-sensing,study-design,h2s-study-design
+
 ---
 
 # New Experimental Design, Aztec, New Mexico
+
+by [megan](../profile/megan) August 14, 2012 13:24
+
+August 14, 2012 13:24 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [study-design](../tag/study-design), [h2s-study-design](../tag/h2s-study-design)
 
 After talking with Sara about next steps, we decided four things are important, we decided we should run the same experiment as before, and change a few things.
 

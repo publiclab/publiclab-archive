@@ -1,12 +1,18 @@
 ---
-nid: 18936
 title: Can we log data on an Arduino without an SD card?
-path: public/static/notes/warren/04-02-2019/can-we-log-data-on-an-arduino-without-an-sd-card.md
+tagnames: arduino, webjack, data-logging, question:data-logging, plantower, p5js, question:simple-air-sensor, simple-air-sensor
+author: warren
+path: /notes/warren/04-02-2019/can-we-log-data-on-an-arduino-without-an-sd-card.md
+nid: 18936
 uid: 1
-tagnames: arduino,webjack,data-logging,question:data-logging,plantower,p5js,question:simple-air-sensor,simple-air-sensor
+
 ---
 
 # Can we log data on an Arduino without an SD card?
+
+by [warren](../profile/warren) April 02, 2019 15:06
+
+April 02, 2019 15:06 | Tags: [arduino](../tag/arduino), [webjack](../tag/webjack), [data-logging](../tag/data-logging), [question:data-logging](../tag/question:data-logging), [plantower](../tag/plantower), [p5js](../tag/p5js), [question:simple-air-sensor](../tag/question:simple-air-sensor), [simple-air-sensor](../tag/simple-air-sensor)
 
 I've been thinking about the #simple-air-sensor and how we could extend it to log without increasing the cost much -- I do think we could make a Raspberry Pi variant that'd have some advantages, but I also remembered that there is some very small amount of EEPROM memory on the Arduino -- I looked it up and it has 1024 bytes of memory. 
 

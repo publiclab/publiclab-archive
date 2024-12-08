@@ -1,12 +1,18 @@
 ---
-nid: 6441
 title: air quality class 7
-path: public/static/wiki/air-quality-class-7.md
+tagnames: chaq, air-quality
+author: liz
+path: /wiki/air-quality-class-7.md
+nid: 6441
 uid: 7
-tagnames: chaq,air-quality
+
 ---
 
 # air quality class 7
+
+by [liz](../profile/liz), [jmsaavedra](../profile/jmsaavedra)
+
+March 19, 2013 23:44 | Tags: [chaq](../tag/chaq), [air-quality](../tag/air-quality)
 
 <h4><a href="/wiki/air-quality-class">Class Home</a></h4>
 

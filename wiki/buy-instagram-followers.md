@@ -1,12 +1,18 @@
 ---
-nid: 12054
 title: Buy Instagram Followers
-path: public/static/wiki/buy-instagram-followers.md
-uid: 445401
 tagnames: 
+author: ShaneWeaver
+path: /wiki/buy-instagram-followers.md
+nid: 12054
+uid: 445401
+
 ---
 
 # Buy Instagram Followers
+
+by [ShaneWeaver](../profile/ShaneWeaver)
+
+July 13, 2015 07:00 | Tags: 
 
 What is Instagram and Why Is It So Popular?
 

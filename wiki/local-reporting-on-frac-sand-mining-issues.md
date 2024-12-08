@@ -1,12 +1,18 @@
 ---
-nid: 19662
 title: Local reporting on frac sand mining issues
-path: public/static/wiki/local-reporting-on-frac-sand-mining-issues.md
+tagnames: reporting, frac-sand, pm, mid-west, parent:frac-sand, frac-sand-reporting, sentinel, local-reporting, parent:the-sand-sentinel-program
+author: stevie
+path: /wiki/local-reporting-on-frac-sand-mining-issues.md
+nid: 19662
 uid: 422561
-tagnames: reporting,frac-sand,pm,mid-west,parent:frac-sand,frac-sand-reporting,sentinel,local-reporting,parent:the-sand-sentinel-program
+
 ---
 
 # Local reporting on frac sand mining issues
+
+by [stevie](../profile/stevie)
+
+June 11, 2019 18:32 | Tags: [reporting](../tag/reporting), [frac-sand](../tag/frac-sand), [pm](../tag/pm), [mid-west](../tag/mid-west), [parent:frac-sand](../tag/parent:frac-sand), [frac-sand-reporting](../tag/frac-sand-reporting), [sentinel](../tag/sentinel), [local-reporting](../tag/local-reporting), [parent:the-sand-sentinel-program](../tag/parent:the-sand-sentinel-program)
 
 
 This page is intended to help you think about what can be explored for local reporting on frac sand mining concerns in your area. Towns, villages, cities, and counties can have specific rules around frac sand mining that can be reported. 

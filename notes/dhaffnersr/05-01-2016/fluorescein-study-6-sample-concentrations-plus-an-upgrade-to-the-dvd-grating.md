@@ -1,12 +1,18 @@
 ---
-nid: 13057
 title: Fluorescein study 6 sample concentrations plus an upgrade to the DVD grating
-path: public/static/notes/dhaffnersr/05-01-2016/fluorescein-study-6-sample-concentrations-plus-an-upgrade-to-the-dvd-grating.md
-uid: 461120
 tagnames: 
+author: dhaffnersr
+path: /notes/dhaffnersr/05-01-2016/fluorescein-study-6-sample-concentrations-plus-an-upgrade-to-the-dvd-grating.md
+nid: 13057
+uid: 461120
+
 ---
 
 # Fluorescein study 6 sample concentrations plus an upgrade to the DVD grating
+
+by [dhaffnersr](../profile/dhaffnersr) May 01, 2016 08:53
+
+May 01, 2016 08:53 | Tags: 
 
 First, I had to make an upgrade to the DVD piece in my spectrometer this weekend, the way it was, it would get mis-aligned from time to time so I had to stabilize it in a more permanent fashion.
 

@@ -1,12 +1,18 @@
 ---
-nid: 10523
 title: Super Redstone
-path: public/static/notes/cfastie/06-01-2014/super-redstone.md
+tagnames: balloon-mapping, near-infrared-camera, kite-mapping, ndvi, vermont, infrared, kap, infragram, 3d-printing, super-red, logging, gigapan, makerbot, response:10230, northeast, redstone
+author: cfastie
+path: /notes/cfastie/06-01-2014/super-redstone.md
+nid: 10523
 uid: 554
-tagnames: balloon-mapping,near-infrared-camera,kite-mapping,ndvi,vermont,infrared,kap,infragram,3d-printing,super-red,logging,gigapan,makerbot,response:10230,northeast,redstone
+
 ---
 
 # Super Redstone
+
+by [cfastie](../profile/cfastie) June 01, 2014 21:57
+
+June 01, 2014 21:57 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [ndvi](../tag/ndvi), [vermont](../tag/vermont), [infrared](../tag/infrared), [kap](../tag/kap), [infragram](../tag/infragram), [3d-printing](../tag/3d-printing), [super-red](../tag/super-red), [logging](../tag/logging), [gigapan](../tag/gigapan), [makerbot](../tag/makerbot), [response:10230](../tag/response:10230), [northeast](../tag/northeast), [redstone](../tag/redstone)
 
 I took a new super-red Infragram camera for a test flight yesterday over a field that was scarred by logging activity last fall. ATV trails (four-wheelers) have been persistent in the field for years, but some of the new skidder trails are heavily disturbed and more prone to erosion. The landowner has planted conservation mix (grass and clover) on some of the new and old trails, so maybe we can watch the scars heal.  
 .  

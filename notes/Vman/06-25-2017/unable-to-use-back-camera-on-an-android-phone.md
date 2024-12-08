@@ -1,12 +1,18 @@
 ---
-nid: 14582
 title: Unable to use back camera on an android phone
-path: public/static/notes/Vman/06-25-2017/unable-to-use-back-camera-on-an-android-phone.md
+tagnames: spectrometer, spectralworkbench, export, graph, question:general
+author: Vman
+path: /notes/Vman/06-25-2017/unable-to-use-back-camera-on-an-android-phone.md
+nid: 14582
 uid: 497579
-tagnames: spectrometer,spectralworkbench,export,graph,question:general
+
 ---
 
 # Unable to use back camera on an android phone
+
+by [Vman](../profile/Vman) June 25, 2017 17:19
+
+June 25, 2017 17:19 | Tags: [spectrometer](../tag/spectrometer), [spectralworkbench](../tag/spectralworkbench), [export](../tag/export), [graph](../tag/graph), [question:general](../tag/question:general)
 
 ###What I want to do or know
 I am building a spectrometer using my android phone but I am unable to use the back camera when using the chrome browser. 

@@ -1,12 +1,18 @@
 ---
-nid: 149
 title: RISD March 29 meeting
-path: public/static/wiki/risd-march-29-meeting.md
-uid: 1
 tagnames: providence
+author: warren
+path: /wiki/risd-march-29-meeting.md
+nid: 149
+uid: 1
+
 ---
 
 # RISD March 29 meeting
+
+by [warren](../profile/warren)
+
+March 29, 2011 16:59 | Tags: [providence](../tag/providence)
 
 ##Open Meeting##
 

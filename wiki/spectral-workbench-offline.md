@@ -1,12 +1,18 @@
 ---
-nid: 4212
 title: Spectral Workbench offline
-path: public/static/wiki/spectral-workbench-offline.md
+tagnames: spectrometer, spectralworkbench
+author: warren
+path: /wiki/spectral-workbench-offline.md
+nid: 4212
 uid: 1
-tagnames: spectrometer,spectralworkbench
+
 ---
 
 # Spectral Workbench offline
+
+by [warren](../profile/warren)
+
+October 05, 2012 20:07 | Tags: [spectrometer](../tag/spectrometer), [spectralworkbench](../tag/spectralworkbench)
 
 [Spectral Workbench](https://spectralworkbench.org) may be used offline once it is loaded in your browser. To do so, visit:
 

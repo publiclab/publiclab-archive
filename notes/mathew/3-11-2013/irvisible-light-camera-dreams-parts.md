@@ -1,12 +1,18 @@
 ---
-nid: 6294
 title: IR/Visible light camera dreams & parts
-path: public/static/notes/mathew/3-11-2013/irvisible-light-camera-dreams-parts.md
+tagnames: near-infrared-camera, ircam, near-ir
+author: mathew
+path: /notes/mathew/3-11-2013/irvisible-light-camera-dreams-parts.md
+nid: 6294
 uid: 4
-tagnames: near-infrared-camera,ircam,near-ir
+
 ---
 
 # IR/Visible light camera dreams & parts
+
+by [mathew](../profile/mathew) March 12, 2013 02:31
+
+March 12, 2013 02:31 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ircam](../tag/ircam), [near-ir](../tag/near-ir)
 
 I've been trying to envision what an Visible Light/IR camera would look like as a product.  the sketch above is of a weatherproof tupperware-like case with a battery holder and a means of wiring external sensors.
 

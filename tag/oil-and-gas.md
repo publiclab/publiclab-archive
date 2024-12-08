@@ -1,6 +1,6 @@
 # oil-and-gas
 
-106 notes and wiki pages
+106 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Spectrometry](/wiki/spectrometry) (wiki)
 - [Balloon & Kite Mapping](/wiki/balloon-mapping) (wiki)
@@ -96,7 +96,6 @@
 - [Community Science and Monitoring Networks in Central California](/notes/amocorro/03-11-2021/community-science-and-monitoring-networks-in-central-california) by [amocorro](../profile/amocorro)
 - [How to test sea water for gas? ](/notes/liz/04-10-2021/how-to-test-sea-water-for-gas) by [liz](../profile/liz)
 - [[Talk Recording] Mobilizing People to Act on Air Pollution with the Bucket Air Monitor - a Community Science Tool](/notes/amocorro/05-12-2021/talk-recording-mobilizing-people-to-act-on-air-pollution-with-the-bucket-air-monitor-a-community-science-tool) by [amocorro](../profile/amocorro)
-- [Simple tips for using OIL CLEANSER.](/notes/confidentbeaute31/05-20-2021/simple-tips-for-using-oil-cleanser) by [confidentbeaute31](../profile/confidentbeaute31)
 - [Seeking Documentation Fellow for Fellowship Team](/notes/stevie/08-11-2021/seeking-documentation-fellow-for-fellowship-team) by [stevie](../profile/stevie)
 - [Seeking Environmental Policy Fellow for Fellowship Team](/notes/stevie/08-11-2021/seeking-environmental-policy-fellow-for-fellowship-team) by [stevie](../profile/stevie)
 - [Announcing our newest Fellowship Team project! ](/notes/stevie/08-19-2021/announcing-our-newest-fellowship-team-project) by [stevie](../profile/stevie)
@@ -107,4 +106,3 @@
 - [Is there a federal program in the US for reclaiming abandoned oil wells?](/notes/bhamster/03-31-2022/is-there-a-federal-program-in-the-us-for-reclaiming-abandoned-oil-wells) by [bhamster](../profile/bhamster)
 - [Event: A conversation with Yutsi, creator of NORCO the game](/notes/a1ahna/05-26-2022/event-a-conversation-with-yutsi-creator-of-norco-the-game) by [a1ahna](../profile/a1ahna)
 - [Looking for recommendations of how to obtain air quality samples around a fracked gas compressor station](/notes/SBucic/07-11-2022/looking-for-recommendations-of-how-to-obtain-air-quality-samples-around-a-fracked-gas-compressor-station) by [SBucic](../profile/SBucic)
-- [Link Resmi Slot Togel 4D Terpercaya 2023 Diskon Toto 2D-3D-4D Terbesar Online 24Jam](/notes/redoxon/02-13-2023/link-resmi-slot-togel-4d-terpercaya-2023-diskon-toto-2d-3d-4d-terbesar-online-24jam) by [redoxon](../profile/redoxon)

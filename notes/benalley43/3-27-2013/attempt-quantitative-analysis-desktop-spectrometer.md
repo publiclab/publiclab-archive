@@ -1,12 +1,18 @@
 ---
-nid: 6566
 title: Attempt at Quantitative Analysis for Desktop Spectrometer 
-path: public/static/notes/benalley43/3-27-2013/attempt-quantitative-analysis-desktop-spectrometer.md
+tagnames: spectrometer, analysis, spectralworkbench, centre_college, beers-law, quantitative, activity:spectrometry, activity:dsk
+author: ben.alley43
+path: /notes/benalley43/3-27-2013/attempt-quantitative-analysis-desktop-spectrometer.md
+nid: 6566
 uid: 50894
-tagnames: spectrometer,analysis,spectralworkbench,centre_college,beers-law,quantitative,activity:spectrometry,activity:dsk
+
 ---
 
 # Attempt at Quantitative Analysis for Desktop Spectrometer 
+
+by [ben.alley43](../profile/ben.alley43) March 28, 2013 00:46
+
+March 28, 2013 00:46 | Tags: [spectrometer](../tag/spectrometer), [analysis](../tag/analysis), [spectralworkbench](../tag/spectralworkbench), [centre_college](../tag/centre_college), [beers-law](../tag/beers-law), [quantitative](../tag/quantitative), [activity:spectrometry](../tag/activity:spectrometry), [activity:dsk](../tag/activity:dsk)
 
 <strong>Motivation</strong>
 Quantitative analysis is a major application of UV-Visible spectroscopy. Specifically, one can determine the concentration of dilute colored compounds in solution by measuring the amount of light a solution absorbs. The correlation between concentration and absorbance is known as Beer's law and follows the equation

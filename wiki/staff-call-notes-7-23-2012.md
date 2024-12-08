@@ -1,12 +1,18 @@
 ---
-nid: 3029
 title: Staff call notes 7 23 2012
-path: public/static/wiki/staff-call-notes-7-23-2012.md
-uid: 1
 tagnames: 
+author: warren
+path: /wiki/staff-call-notes-7-23-2012.md
+nid: 3029
+uid: 1
+
 ---
 
 # Staff call notes 7 23 2012
+
+by [warren](../profile/warren)
+
+July 30, 2012 16:40 | Tags: 
 
 ###Adam###
 * Goals: reimbursements, follow up on workshop in Shenandoah, time sheets, case study on grant with Denizen Media

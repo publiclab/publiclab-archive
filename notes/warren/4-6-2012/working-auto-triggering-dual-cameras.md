@@ -1,12 +1,18 @@
 ---
-nid: 1629
 title: Working auto-triggering for dual cameras
-path: public/static/notes/warren/4-6-2012/working-auto-triggering-dual-cameras.md
-uid: 1
 tagnames: near-infrared-camera
+author: warren
+path: /notes/warren/4-6-2012/working-auto-triggering-dual-cameras.md
+nid: 1629
+uid: 1
+
 ---
 
 # Working auto-triggering for dual cameras
+
+by [warren](../profile/warren) April 06, 2012 21:41
+
+April 06, 2012 21:41 | Tags: [near-infrared-camera](../tag/near-infrared-camera)
 
 <iframe width="480" height="360" src="https://www.youtube.com/embed/QoB4O0GOxps" frameborder="0" allowfullscreen></iframe>
 

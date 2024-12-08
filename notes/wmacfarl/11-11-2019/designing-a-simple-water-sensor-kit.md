@@ -1,12 +1,18 @@
 ---
-nid: 21439
 title: Designing a Simple Water Sensor Kit
-path: public/static/notes/wmacfarl/11-11-2019/designing-a-simple-water-sensor-kit.md
+tagnames: arduino, sensors, water-quality, oil-and-gas-water-trio, simple-water-sensor-platform
+author: wmacfarl
+path: /notes/wmacfarl/11-11-2019/designing-a-simple-water-sensor-kit.md
+nid: 21439
 uid: 424597
-tagnames: arduino,sensors,water-quality,oil-and-gas-water-trio,simple-water-sensor-platform
+
 ---
 
 # Designing a Simple Water Sensor Kit
+
+by [wmacfarl](../profile/wmacfarl) November 10, 2019 23:12
+
+November 10, 2019 23:12 | Tags: [arduino](../tag/arduino), [sensors](../tag/sensors), [water-quality](../tag/water-quality), [oil-and-gas-water-trio](../tag/oil-and-gas-water-trio), [simple-water-sensor-platform](../tag/simple-water-sensor-platform)
 
 This is a research note describing some of the thinking involved in designing a prototype "Simple Water Sensor" kit along similar lines as the [Simple Air Sensor](https://publiclab.org/wiki/simple-air-sensor).
 

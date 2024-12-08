@@ -1,12 +1,18 @@
 ---
-nid: 12658
 title: CFL Selection
-path: public/static/notes/stoft/02-05-2016/cfl-selection.md
+tagnames: spectrometer, cfl, spectrometer-calibration, response:12656
+author: stoft
+path: /notes/stoft/02-05-2016/cfl-selection.md
+nid: 12658
 uid: 54025
-tagnames: spectrometer,cfl,spectrometer-calibration,response:12656
+
 ---
 
 # CFL Selection
+
+by [stoft](../profile/stoft) February 05, 2016 07:54
+
+February 05, 2016 07:54 | Tags: [spectrometer](../tag/spectrometer), [cfl](../tag/cfl), [spectrometer-calibration](../tag/spectrometer-calibration), [response:12656](../tag/response:12656)
 
 **Introduction**
 

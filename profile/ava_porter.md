@@ -3,6 +3,8 @@ uid: 545546
 created_at: 2018-08-07 11:11:34 UTC
 ---
 
+# ava_porter
+
 Ideas for promotion A Kid's iPhone/iPad App
 A common error made by those who create mobile apps specifically for children is to assume that their marketing strategy has to be massively different than if they had developed an app for business. Although you would be better served setting up a LinkedIn account (for the business app) which would give you access to professionals and businesses interested in your app, there is no fundamental difference between marketing a child’s app and any other form of app. If anything, you need to remember that the most successful apps are supposed to be fun. And besides, it will be the child’s parents who are most likely to purchase the app.
 
@@ -27,4 +29,4 @@ Hopefully, you now understand that kids’ apps should be marketed in almost the
 
 ----
 
-[Can somebody advice me...](/notes/ava_porter/08-07-2018/can-somebody-advice-me)
+- [Can somebody advice me...](/notes/ava_porter/08-07-2018/can-somebody-advice-me)

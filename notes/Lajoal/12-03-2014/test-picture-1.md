@@ -1,12 +1,18 @@
 ---
-nid: 11427
 title: test picture 1 
-path: public/static/notes/Lajoal/12-03-2014/test-picture-1.md
-uid: 432272
 tagnames: 
+author: Lajoal
+path: /notes/Lajoal/12-03-2014/test-picture-1.md
+nid: 11427
+uid: 432272
+
 ---
 
 # test picture 1 
+
+by [Lajoal](../profile/Lajoal) December 03, 2014 13:28
+
+December 03, 2014 13:28 | Tags: 
 
 ###What I want to do
 

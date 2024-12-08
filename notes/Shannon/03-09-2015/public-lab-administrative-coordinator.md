@@ -1,12 +1,18 @@
 ---
-nid: 11666
 title: Public Lab: Administrative Coordinator
-path: public/static/notes/Shannon/03-09-2015/public-lab-administrative-coordinator.md
+tagnames: nonprofit, jobs
+author: Shannon
+path: /notes/Shannon/03-09-2015/public-lab-administrative-coordinator.md
+nid: 11666
 uid: 9
-tagnames: nonprofit,jobs
+
 ---
 
 # Public Lab: Administrative Coordinator
+
+by [Shannon](../profile/Shannon) March 09, 2015 16:52
+
+March 09, 2015 16:52 | Tags: [nonprofit](../tag/nonprofit), [jobs](../tag/jobs)
 
 **Start Date:** Mid-April 2015 </br>
 **Location:** New Orleans, LA </br>

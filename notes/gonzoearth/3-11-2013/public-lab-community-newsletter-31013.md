@@ -1,12 +1,18 @@
 ---
-nid: 6289
 title: Public Lab Community Newsletter 3.10.13
-path: public/static/notes/gonzoearth/3-11-2013/public-lab-community-newsletter-31013.md
+tagnames: newsletter, newsletter-archive
+author: gonzoearth
+path: /notes/gonzoearth/3-11-2013/public-lab-community-newsletter-31013.md
+nid: 6289
 uid: 12
-tagnames: newsletter,newsletter-archive
+
 ---
 
 # Public Lab Community Newsletter 3.10.13
+
+by [gonzoearth](../profile/gonzoearth) March 11, 2013 06:34
+
+March 11, 2013 06:34 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
 
 Spring ahead with this summary of Public Lab community news!
 

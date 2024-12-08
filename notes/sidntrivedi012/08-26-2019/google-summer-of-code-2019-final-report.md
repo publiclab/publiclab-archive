@@ -1,12 +1,18 @@
 ---
-nid: 20681
 title: Google Summer of Code 2019 Final Report
-path: public/static/notes/sidntrivedi012/08-26-2019/google-summer-of-code-2019-final-report.md
+tagnames: open-source, soc, gsoc-2019, gsoc-2019-final-report
+author: sidntrivedi012
+path: /notes/sidntrivedi012/08-26-2019/google-summer-of-code-2019-final-report.md
+nid: 20681
 uid: 572743
-tagnames: open-source,soc,gsoc-2019,gsoc-2019-final-report
+
 ---
 
 # Google Summer of Code 2019 Final Report
+
+by [sidntrivedi012](../profile/sidntrivedi012) August 26, 2019 14:34
+
+August 26, 2019 14:34 | Tags: [open-source](../tag/open-source), [soc](../tag/soc), [gsoc-2019](../tag/gsoc-2019), [gsoc-2019-final-report](../tag/gsoc-2019-final-report)
 
 ## Introduction
 

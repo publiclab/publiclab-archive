@@ -1,6 +1,6 @@
 # pole
 
-16 notes and wiki pages
+16 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Pole photography](/notes/mathew/05-17-2013/pole-photography) by [mathew](../profile/mathew)
 - [Infragrams over NYC: Davidson Garden, Bronx](/notes/liz/07-02-2013/infragrams-over-nyc-davidson-garden-bronx) by [liz](../profile/liz)

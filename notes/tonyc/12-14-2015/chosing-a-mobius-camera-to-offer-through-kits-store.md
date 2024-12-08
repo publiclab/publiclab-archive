@@ -1,12 +1,18 @@
 ---
-nid: 12517
 title: chosing a mobius camera to offer through kits store
-path: public/static/notes/tonyc/12-14-2015/chosing-a-mobius-camera-to-offer-through-kits-store.md
+tagnames: mapping, aerial, mobius, nonfisheye
+author: tonyc
+path: /notes/tonyc/12-14-2015/chosing-a-mobius-camera-to-offer-through-kits-store.md
+nid: 12517
 uid: 447491
-tagnames: mapping,aerial,mobius,nonfisheye
+
 ---
 
 # chosing a mobius camera to offer through kits store
+
+by [tonyc](../profile/tonyc) December 14, 2015 19:06
+
+December 14, 2015 19:06 | Tags: [mapping](../tag/mapping), [aerial](../tag/aerial), [mobius](../tag/mobius), [nonfisheye](../tag/nonfisheye)
 
 ###What I want to do
 I want to offer the right camera/lens combination through the kits store to support small form-factor aerial photography.

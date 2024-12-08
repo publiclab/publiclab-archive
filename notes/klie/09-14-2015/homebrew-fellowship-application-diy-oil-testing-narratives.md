@@ -1,12 +1,18 @@
 ---
-nid: 12213
 title: Homebrew Fellowship Application:  DIY Oil Testing Narratives
-path: public/static/notes/klie/09-14-2015/homebrew-fellowship-application-diy-oil-testing-narratives.md
+tagnames: kit, oil-testing, fellows, advocacy
+author: klie
+path: /notes/klie/09-14-2015/homebrew-fellowship-application-diy-oil-testing-narratives.md
+nid: 12213
 uid: 441262
-tagnames: kit,oil-testing,fellows,advocacy
+
 ---
 
 # Homebrew Fellowship Application:  DIY Oil Testing Narratives
+
+by [klie](../profile/klie) September 14, 2015 16:41
+
+September 14, 2015 16:41 | Tags: [kit](../tag/kit), [oil-testing](../tag/oil-testing), [fellows](../tag/fellows), [advocacy](../tag/advocacy)
 
 #####**Application due:** September 25, 2015
 #####**Dates of Fellowship:** mid-October 2015 to mid-January 2016

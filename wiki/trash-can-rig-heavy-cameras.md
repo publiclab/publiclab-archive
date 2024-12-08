@@ -1,12 +1,18 @@
 ---
-nid: 818
 title: Trash Can Rig for Heavy Cameras
-path: public/static/wiki/trash-can-rig-heavy-cameras.md
+tagnames: balloon-mapping, photo-rig
+author: MicheleTobias
+path: /wiki/trash-can-rig-heavy-cameras.md
+nid: 818
 uid: 149
-tagnames: balloon-mapping,photo-rig
+
 ---
 
 # Trash Can Rig for Heavy Cameras
+
+by [mathew](../profile/mathew), [MicheleTobias](../profile/MicheleTobias)
+
+February 20, 2012 23:57 | Tags: [balloon-mapping](../tag/balloon-mapping), [photo-rig](../tag/photo-rig)
 
 If you need to fly a camera that's heavier than a point-and-shoot, like an SLR, you may need a camera rig that's a little larger than the <a href="http://publiclaboratory.org/wiki/pet-bottle-rubber-band-rig">PET Bottle Rig</a>.  Here's a sturdy design developed for kite aerial photography that makes use of a small plastic waste bin and some aluminum bars, which are available at most hardware stores.  It includes a <a href="http://publiclaboratory.org/notes/mathew/2-5-2012/picavet-pet-rig">picavet</a>, which can help keep the camera from swinging.
 

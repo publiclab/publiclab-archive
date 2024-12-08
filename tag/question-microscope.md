@@ -1,9 +1,8 @@
 # question-microscope
 
-17 notes and wiki pages
+17 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Have you had any experience utilizing low cost portable microscopes?  ](/notes/gilbert/07-18-2017/have-you-had-any-experience-utilizing-low-cost-portable-microscopes) by [gilbert](../profile/gilbert)
-- [Etes vous pour ou contre la chirurgie esthétique en Tunisie](/notes/chirurgie/07-26-2017/etes-vous-pour-ou-contre-la-chirurgie-esthetique-en-tunisie) by [chirurgie](../profile/chirurgie)
 - [Can we take photos with the Raspberry Pi Zero W and Raspberry Pi camera?](/notes/wmacfarl/09-30-2017/can-we-take-photos-with-the-raspberry-pi-zero-w-and-raspberry-pi-camera) by [wmacfarl](../profile/wmacfarl)
 - [What is the best way to take a sample of snow to look for particulates? ](/notes/stevie/12-19-2017/what-s-the-best-way-to-take-a-sample-of-snow-to-look-for-particulates) by [stevie](../profile/stevie)
 - [How could the new basic microscope project be used in building towards advocacy outcomes?](/notes/stevie/01-10-2018/how-could-the-new-basic-microscope-project-be-used-in-building-towards-advocacy-outcomes) by [stevie](../profile/stevie)

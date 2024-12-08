@@ -1,12 +1,16 @@
 ---
-nid: 19793
 title: testing
-path: public/static/feature/testing.md
-uid: 1
 tagnames: 
+author: warren
+path: /feature/testing.md
+nid: 19793
+uid: 1
+
 ---
 
 # testing
+
+June 21, 2019 21:46 | Tags: 
 
 <link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/froala-design-blocks/2.0.1/css/froala_blocks.min.css">
 <link rel="stylesheet" media="all" href="/assets/application-08768cdbfbde532afe88f0b458bc1767de7799ff598f2d54f6b0229e2f76e703.css" />

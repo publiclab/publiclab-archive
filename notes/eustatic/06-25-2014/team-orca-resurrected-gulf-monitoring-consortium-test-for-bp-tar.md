@@ -1,12 +1,18 @@
 ---
-nid: 10617
 title: Team Orca resurrected --Gulf Monitoring Consortium test for BP tar
-path: public/static/notes/eustatic/06-25-2014/team-orca-resurrected-gulf-monitoring-consortium-test-for-bp-tar.md
+tagnames: gulf-coast, spectrometer, oil-spill, oil, fluorescence, bp, tarball, orca, oil-testing-kit, coal-dust, tar
+author: eustatic
+path: /06-25-2014/team-orca-resurrected-gulf-monitoring-consortium-test-for-bp-tar.md
+nid: 10617
 uid: 379
-tagnames: gulf-coast,spectrometer,oil-spill,oil,fluorescence,bp,tarball,orca,oil-testing-kit,coal-dust,tar
+
 ---
 
 # Team Orca resurrected --Gulf Monitoring Consortium test for BP tar
+
+by [eustatic](../profile/eustatic) June 25, 2014 19:52
+
+June 25, 2014 19:52 | Tags: [gulf-coast](../tag/gulf-coast), [spectrometer](../tag/spectrometer), [oil-spill](../tag/oil-spill), [oil](../tag/oil), [fluorescence](../tag/fluorescence), [bp](../tag/bp), [tarball](../tag/tarball), [orca](../tag/orca), [oil-testing-kit](../tag/oil-testing-kit), [coal-dust](../tag/coal-dust), [tar](../tag/tar)
 
 #Draft
 ##Reflections on the Alpha Oil Testing Kit

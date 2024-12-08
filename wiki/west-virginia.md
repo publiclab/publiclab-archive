@@ -1,12 +1,18 @@
 ---
-nid: 11174
 title: west-virginia
-path: public/static/wiki/west-virginia.md
-uid: 7
 tagnames: parent:southeast
+author: liz
+path: /wiki/west-virginia.md
+nid: 11174
+uid: 7
+
 ---
 
 # west-virginia
+
+by [liz](../profile/liz), [LauraChipley](../profile/LauraChipley)
+
+September 23, 2014 15:42 | Tags: [parent:southeast](../tag/parent:southeast)
 
 ##**Appalachian Mountaintop Patrol (AMP) Project**
 

@@ -1,12 +1,18 @@
 ---
-nid: 26198
 title: GSOC Proposal
-path: public/static/notes/priyaraj_17/04-11-2021/gsoc-proposal.md
+tagnames: first-time-poster, gsoc-2021-proposals
+author: priyaraj_17
+path: /notes/priyaraj_17/04-11-2021/gsoc-proposal.md
+nid: 26198
 uid: 751447
-tagnames: first-time-poster,gsoc-2021-proposals
+
 ---
 
 # GSOC Proposal
+
+by [priyaraj_17](../profile/priyaraj_17) April 11, 2021 17:08
+
+April 11, 2021 17:08 | Tags: [first-time-poster](../tag/first-time-poster), [gsoc-2021-proposals](../tag/gsoc-2021-proposals)
 
 # GSOC 2021 PROPOSAL: Education-related usability upgrades
 

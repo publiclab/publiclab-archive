@@ -1,12 +1,18 @@
 ---
-nid: 1953
 title: Grassroots Mapping Forum: Notes on process and automation  pt.1
-path: public/static/notes/mathew/5-10-2012/grassroots-mapping-forum-notes-process-and-automation-pt1.md
-uid: 4
 tagnames: 
+author: mathew
+path: /notes/mathew/5-10-2012/grassroots-mapping-forum-notes-process-and-automation-pt1.md
+nid: 1953
+uid: 4
+
 ---
 
 # Grassroots Mapping Forum: Notes on process and automation  pt.1
+
+by [mathew](../profile/mathew) May 10, 2012 23:05
+
+May 10, 2012 23:05 | Tags: 
 
 As we prepare for regular releases of Grassroots Mapping Forum, myself and [Jeff](/people/warren) have been looking at ways to simplify the process.  This note is background on our choices and their difficulties.  Part 2 gets to the functional issues of how to actually use our template system.
 

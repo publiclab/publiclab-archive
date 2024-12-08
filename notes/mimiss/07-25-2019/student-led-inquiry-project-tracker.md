@@ -1,12 +1,18 @@
 ---
-nid: 20311
 title: Student-Led Inquiry Project Tracker
-path: public/static/notes/mimiss/07-25-2019/student-led-inquiry-project-tracker.md
+tagnames: education, with:stevie, with:liz, study-design, with:joyofsoy, series:student-community-science, project-tracking
+author: mimiss
+path: /notes/mimiss/07-25-2019/student-led-inquiry-project-tracker.md
+nid: 20311
 uid: 579821
-tagnames: education,with:stevie,with:liz,study-design,with:joyofsoy,series:student-community-science,project-tracking
+
 ---
 
 # Student-Led Inquiry Project Tracker
+
+by [mimiss](../profile/mimiss) July 25, 2019 17:50
+
+July 25, 2019 17:50 | Tags: [education](../tag/education), [with:stevie](../tag/with:stevie), [with:liz](../tag/with:liz), [study-design](../tag/study-design), [with:joyofsoy](../tag/with:joyofsoy), [series:student-community-science](../tag/series:student-community-science), [project-tracking](../tag/project-tracking)
 
 This chart is designed to help students, educators, or community scientists track their progress through an environmental monitoring study. This checklist will help you stay organized as you complete your project
 

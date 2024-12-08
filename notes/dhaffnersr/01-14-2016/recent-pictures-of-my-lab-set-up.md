@@ -1,12 +1,18 @@
 ---
-nid: 12585
 title: Recent Pictures of my lab set up.
-path: public/static/notes/dhaffnersr/01-14-2016/recent-pictures-of-my-lab-set-up.md
-uid: 461120
 tagnames: 
+author: dhaffnersr
+path: /notes/dhaffnersr/01-14-2016/recent-pictures-of-my-lab-set-up.md
+nid: 12585
+uid: 461120
+
 ---
 
 # Recent Pictures of my lab set up.
+
+by [dhaffnersr](../profile/dhaffnersr) January 14, 2016 21:44
+
+January 14, 2016 21:44 | Tags: 
 
 [![20160114_112611.jpg](//i.publiclab.org/system/images/photos/000/013/629/medium/20160114_112611.jpg)](//i.publiclab.org/system/images/photos/000/013/629/original/20160114_112611.jpg)
 

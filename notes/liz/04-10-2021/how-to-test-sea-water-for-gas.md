@@ -1,12 +1,18 @@
 ---
-nid: 26183
 title: How to test sea water for gas? 
-path: public/static/notes/liz/04-10-2021/how-to-test-sea-water-for-gas.md
+tagnames: rd, caribbean, question:general, oil-and-gas, dr, location:blurred, lat:10, lon:106, oil-and-gas-water-quality, zoom:6, dominican-republic, place:vietnam
+author: liz
+path: /notes/liz/04-10-2021/how-to-test-sea-water-for-gas.md
+nid: 26183
 uid: 7
-tagnames: rd,caribbean,question:general,oil-and-gas,dr,location:blurred,lat:10,lon:106,oil-and-gas-water-quality,zoom:6,dominican-republic,place:vietnam
+
 ---
 
 # How to test sea water for gas? 
+
+by [liz](../profile/liz) April 10, 2021 16:21
+
+April 10, 2021 16:21 | Tags: [rd](../tag/rd), [caribbean](../tag/caribbean), [question:general](../tag/question:general), [oil-and-gas](../tag/oil-and-gas), [dr](../tag/dr), [location:blurred](../tag/location:blurred), [lat:10](../tag/lat:10), [lon:106](../tag/lon:106), [oil-and-gas-water-quality](../tag/oil-and-gas-water-quality), [zoom:6](../tag/zoom:6), [dominican-republic](../tag/dominican-republic), [place:vietnam](../tag/place:vietnam)
 
 There's a known discharge point from an gasoline refinery on the coast of the Dominican Republic, in the Haina industrial area, discharging into the Caribbean Ocean. My colleague is curious what's in it. The youth, who have to cross the discharge canal in order to reach their swimming spot, say in regard to the discharge canal, "Don't step in that water, do you smell it? The gas? Don't touch it!" 
 

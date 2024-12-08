@@ -1,12 +1,18 @@
 ---
-nid: 14244
 title: Aerial Mapping Project: Biodiversity Mapping of the Diamond Hitch Vicinity 
-path: public/static/notes/alcmarfiller51/05-30-2017/aerial-mapping-project-biodiversity-mapping-of-the-diamond-hitch-vicinity.md
+tagnames: event, habitat, biodiversity, hidden:response, response:14179
+author: alcmarfiller51
+path: /notes/alcmarfiller51/05-30-2017/aerial-mapping-project-biodiversity-mapping-of-the-diamond-hitch-vicinity.md
+nid: 14244
 uid: 508248
-tagnames: event,habitat,biodiversity,hidden:response,response:14179
+
 ---
 
 # Aerial Mapping Project: Biodiversity Mapping of the Diamond Hitch Vicinity 
+
+by [alcmarfiller51](../profile/alcmarfiller51) May 30, 2017 16:21
+
+May 30, 2017 16:21 | Tags: [event](../tag/event), [habitat](../tag/habitat), [biodiversity](../tag/biodiversity), [hidden:response](../tag/hidden:response), [response:14179](../tag/response:14179)
 
 Aerial Mapping Project: Biodiversity Mapping of the Diamond Hitch Vicinity
 

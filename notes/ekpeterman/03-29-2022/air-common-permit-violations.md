@@ -1,12 +1,18 @@
 ---
-nid: 30208
 title: Air: Common Permit Violations
-path: public/static/notes/ekpeterman/03-29-2022/air-common-permit-violations.md
+tagnames: coal-mining, air-quality, mining, advocacy, permit-violation, with:junior_walk1337, mmmp
+author: ekpeterman
+path: /notes/ekpeterman/03-29-2022/air-common-permit-violations.md
+nid: 30208
 uid: 641166
-tagnames: coal-mining,air-quality,mining,advocacy,permit-violation,with:junior_walk1337,mmmp
+
 ---
 
 # Air: Common Permit Violations
+
+by [ekpeterman](../profile/ekpeterman) March 29, 2022 16:58
+
+March 29, 2022 16:58 | Tags: [coal-mining](../tag/coal-mining), [air-quality](../tag/air-quality), [mining](../tag/mining), [advocacy](../tag/advocacy), [permit-violation](../tag/permit-violation), [with:junior_walk1337](../tag/with:junior_walk1337), [mmmp](../tag/mmmp)
 
 *This is the third in a series exploring common permit violations at mountaintop removal mining operations. See also posts on [ground][1] and [water][2] related violations. This one considers all things air related - from particulate pollution to blasting violations.* 
 

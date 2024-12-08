@@ -1,6 +1,6 @@
 # insects
 
-4 notes and wiki pages
+4 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Aspen Leaf Miner](/notes/cfastie/07-10-2013/aspen-leaf-miner) by [cfastie](../profile/cfastie)
 - [HORNWORMS](/notes/cfastie/08-18-2013/hornworms) by [cfastie](../profile/cfastie)

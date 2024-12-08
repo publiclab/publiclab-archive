@@ -1,12 +1,18 @@
 ---
-nid: 11096
 title: MapKnitter Annotations: First Live Release
-path: public/static/notes/justinmanley/09-02-2014/mapknitter-annotations-first-live-release.md
+tagnames: mapknitter, gsoc, gsoc-2014, annotations
+author: justinmanley
+path: /notes/justinmanley/09-02-2014/mapknitter-annotations-first-live-release.md
+nid: 11096
 uid: 421556
-tagnames: mapknitter,gsoc,gsoc-2014,annotations
+
 ---
 
 # MapKnitter Annotations: First Live Release
+
+by [justinmanley](../profile/justinmanley) September 02, 2014 03:22
+
+September 02, 2014 03:22 | Tags: [mapknitter](../tag/mapknitter), [gsoc](../tag/gsoc), [gsoc-2014](../tag/gsoc-2014), [annotations](../tag/annotations)
 
 ### First Live Release! ###
 

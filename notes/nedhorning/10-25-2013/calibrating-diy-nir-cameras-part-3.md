@@ -1,12 +1,18 @@
 ---
-nid: 9550
 title: Calibrating DIY NIR cameras - part 3
-path: public/static/notes/nedhorning/10-25-2013/calibrating-diy-nir-cameras-part-3.md
+tagnames: near-infrared-camera, ndvi, calibration, infrared, infrablue, calibrate-ndvi, ndvi-calibrate, multispectral-imaging
+author: nedhorning
+path: /notes/nedhorning/10-25-2013/calibrating-diy-nir-cameras-part-3.md
+nid: 9550
 uid: 133
-tagnames: near-infrared-camera,ndvi,calibration,infrared,infrablue,calibrate-ndvi,ndvi-calibrate,multispectral-imaging
+
 ---
 
 # Calibrating DIY NIR cameras - part 3
+
+by [nedhorning](../profile/nedhorning) October 25, 2013 20:41
+
+October 25, 2013 20:41 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [calibration](../tag/calibration), [infrared](../tag/infrared), [infrablue](../tag/infrablue), [calibrate-ndvi](../tag/calibrate-ndvi), [ndvi-calibrate](../tag/ndvi-calibrate), [multispectral-imaging](../tag/multispectral-imaging)
 
 This is the third and final note of a series on DIY NIR camera calibration. The first part is at: http://publiclab.org/notes/nedhorning/10-21-2013/calibrating-diy-nir-cameras-part-1 and the second part is at: http://publiclab.org/notes/nedhorning/10-23-2013/calibrating-diy-nir-cameras-part-2
 

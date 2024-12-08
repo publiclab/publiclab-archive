@@ -1,12 +1,18 @@
 ---
-nid: 2471
 title: Conference Update: Heralds of Crisis: Ecological Risk and the Role of Sentinels
-path: public/static/notes/sara/6-13-2012/conference-update-heralds-crisis-ecological-risk-and-role-sentinels.md
-uid: 8
 tagnames: conferences
+author: sara
+path: /notes/sara/6-13-2012/conference-update-heralds-crisis-ecological-risk-and-role-sentinels.md
+nid: 2471
+uid: 8
+
 ---
 
 # Conference Update: Heralds of Crisis: Ecological Risk and the Role of Sentinels
+
+by [sara](../profile/sara) June 13, 2012 13:58
+
+June 13, 2012 13:58 | Tags: [conferences](../tag/conferences)
 
 This week I attended an exciting conference between US and French scholars on how attention is drawn to ecological issues in across a range of fields including: endocrine disruption, pandemic diseases, climate change and biodiversity.  The conference brought together a small group of sociologists and anthropologists working in the field of Science and Technology Studies. The goal of the conference was to analyze how alerts to hazards are made in each of these fields in order to understand different process of drawing academic, scientific, media and public attention to these issues.  We focused on the figure of the "sentinel", explored by <a href="http://dornsife.usc.edu/cf/faculty-and-staff/faculty.cfm?pid=1027259">Andrew Lackoff</a>, one of the conference organizers.  Lakoff developed the concept of sentinels in his study of the World Health Organization's network for recognizing, alerting and responding to impending pandemic viruses. 
 

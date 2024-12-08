@@ -1,12 +1,18 @@
 ---
-nid: 25034
 title: sandbox-air-lab-testing
-path: public/static/wiki/sandbox-air-lab-testing.md
-uid: 664477
 tagnames: 
+author: bhamster
+path: /wiki/sandbox-air-lab-testing.md
+nid: 25034
+uid: 664477
+
 ---
 
 # sandbox-air-lab-testing
+
+by [bhamster](../profile/bhamster)
+
+November 10, 2020 23:15 | Tags: 
 
 If you’ve collected an air sample and want to know what chemicals are present, the next step is **sending the sample to a lab for analysis**. 
 

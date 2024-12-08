@@ -1,12 +1,18 @@
 ---
-nid: 830
 title: iLAND Symposium 2012
-path: public/static/wiki/iland-symposium-2012.md
-uid: 7
 tagnames: ilab
+author: liz
+path: /wiki/iland-symposium-2012.md
+nid: 830
+uid: 7
+
 ---
 
 # iLAND Symposium 2012
+
+by [liz](../profile/liz), [oscarbrett](../profile/oscarbrett)
+
+February 21, 2012 21:32 | Tags: [ilab](../tag/ilab)
 
 <a href="https://www.flickr.com/photos/recordandremember/sets/72157629295267674/">Photos from the event</a>
 

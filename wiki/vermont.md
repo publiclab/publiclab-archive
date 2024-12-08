@@ -1,12 +1,18 @@
 ---
-nid: 3686
 title: Vermont
-path: public/static/wiki/vermont.md
+tagnames: vermont, events:vermont, place, chapter, lon:-73.1085, lat:43.97391, tabbed:notes, tabbed:wikis, parent:northeast, notes:vermont
+author: Shannon
+path: /wiki/vermont.md
+nid: 3686
 uid: 9
-tagnames: vermont,events:vermont,place,chapter,lon:-73.1085,lat:43.97391,tabbed:notes,tabbed:wikis,parent:northeast,notes:vermont
+
 ---
 
 # Vermont
+
+by [cfastie](../profile/cfastie), [liz](../profile/liz), [Shannon](../profile/Shannon)
+
+September 07, 2012 17:11 | Tags: [vermont](../tag/vermont), [events:vermont](../tag/events:vermont), [place](../tag/place), [chapter](../tag/chapter), [lon:-73.1085](../tag/lon:-73.1085), [lat:43.97391](../tag/lat:43.97391), [tabbed:notes](../tag/tabbed:notes), [tabbed:wikis](../tag/tabbed:wikis), [parent:northeast](../tag/parent:northeast), [notes:vermont](../tag/notes:vermont)
 
 *Lead photo: Early experiments in Vermont with the Public Lab's infrared camera tool.*
 

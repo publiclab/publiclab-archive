@@ -1,12 +1,18 @@
 ---
-nid: 21114
 title: Testing of DF Robot Turbidity Sensor
-path: public/static/notes/wmacfarl/10-12-2019/testing-of-df-robot-turbidity-sensor.md
+tagnames: arduino, sensors, water-quality, turbidity, oil-and-gas-water-trio, activity:oil-and-gas-water-trio
+author: wmacfarl
+path: /notes/wmacfarl/10-12-2019/testing-of-df-robot-turbidity-sensor.md
+nid: 21114
 uid: 424597
-tagnames: arduino,sensors,water-quality,turbidity,oil-and-gas-water-trio,activity:oil-and-gas-water-trio
+
 ---
 
 # Testing of DF Robot Turbidity Sensor
+
+by [wmacfarl](../profile/wmacfarl) October 08, 2019 15:48
+
+October 08, 2019 15:48 | Tags: [arduino](../tag/arduino), [sensors](../tag/sensors), [water-quality](../tag/water-quality), [turbidity](../tag/turbidity), [oil-and-gas-water-trio](../tag/oil-and-gas-water-trio), [activity:oil-and-gas-water-trio](../tag/activity:oil-and-gas-water-trio)
 
 ## Purpose
 This note is part of a series on setting up, testing, and calibrating the DF Robot analog liquid sensors.

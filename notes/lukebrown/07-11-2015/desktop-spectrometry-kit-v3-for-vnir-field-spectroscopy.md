@@ -1,12 +1,18 @@
 ---
-nid: 12047
 title: Desktop Spectrometry Kit (V3) for VNIR Field Spectroscopy
-path: public/static/notes/lukebrown/07-11-2015/desktop-spectrometry-kit-v3-for-vnir-field-spectroscopy.md
+tagnames: spectrometer, bamboo, radiometric-calibration, spectroscopy, desktop-spectrometry-kit, vegetation, barnstar:basic, enclosure
+author: lukebrown
+path: /notes/lukebrown/07-11-2015/desktop-spectrometry-kit-v3-for-vnir-field-spectroscopy.md
+nid: 12047
 uid: 444973
-tagnames: spectrometer,bamboo,radiometric-calibration,spectroscopy,desktop-spectrometry-kit,vegetation,barnstar:basic,enclosure
+
 ---
 
 # Desktop Spectrometry Kit (V3) for VNIR Field Spectroscopy
+
+by [lukebrown](../profile/lukebrown) July 11, 2015 11:29
+
+July 11, 2015 11:29 | Tags: [spectrometer](../tag/spectrometer), [bamboo](../tag/bamboo), [radiometric-calibration](../tag/radiometric-calibration), [spectroscopy](../tag/spectroscopy), [desktop-spectrometry-kit](../tag/desktop-spectrometry-kit), [vegetation](../tag/vegetation), [barnstar:basic](../tag/barnstar:basic), [enclosure](../tag/enclosure)
 
 ###Introduction
 

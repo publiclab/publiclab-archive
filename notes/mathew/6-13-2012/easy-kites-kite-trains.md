@@ -1,12 +1,18 @@
 ---
-nid: 2477
 title: Easy Kites for Kite Trains
-path: public/static/notes/mathew/6-13-2012/easy-kites-kite-trains.md
+tagnames: kite-mapping, air-column-monitor, diy-kite, diy-kites, difficulty:easy, category:build, activity:aerial-photography, activity:kite-mapping, kite-making, activity:kite-making
+author: mathew
+path: /notes/mathew/6-13-2012/easy-kites-kite-trains.md
+nid: 2477
 uid: 4
-tagnames: kite-mapping,air-column-monitor,diy-kite,diy-kites,difficulty:easy,category:build,activity:aerial-photography,activity:kite-mapping,kite-making,activity:kite-making
+
 ---
 
 # Easy Kites for Kite Trains
+
+by [mathew](../profile/mathew) June 13, 2012 22:53
+
+June 13, 2012 22:53 | Tags: [kite-mapping](../tag/kite-mapping), [air-column-monitor](../tag/air-column-monitor), [diy-kite](../tag/diy-kite), [diy-kites](../tag/diy-kites), [difficulty:easy](../tag/difficulty:easy), [category:build](../tag/category:build), [activity:aerial-photography](../tag/activity:aerial-photography), [activity:kite-mapping](../tag/activity:kite-mapping), [kite-making](../tag/kite-making), [activity:kite-making](../tag/activity:kite-making)
 
 I've been digging through my kite books to find some good kite train kites.  Trains are multiple kites on the same line.  
 

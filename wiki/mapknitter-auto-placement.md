@@ -1,12 +1,18 @@
 ---
-nid: 10596
 title: MapKnitter Auto-placement
-path: public/static/wiki/mapknitter-auto-placement.md
+tagnames: mapknitter, gsoc, gsoc-2014, auto-knitting, auto-placement
+author: warren
+path: /wiki/mapknitter-auto-placement.md
+nid: 10596
 uid: 1
-tagnames: mapknitter,gsoc,gsoc-2014,auto-knitting,auto-placement
+
 ---
 
 # MapKnitter Auto-placement
+
+by [warren](../profile/warren)
+
+June 20, 2014 17:11 | Tags: [mapknitter](../tag/mapknitter), [gsoc](../tag/gsoc), [gsoc-2014](../tag/gsoc-2014), [auto-knitting](../tag/auto-knitting), [auto-placement](../tag/auto-placement)
 
 Collecting sample images which [Vidun](/profile/xvidun) can use to test his auto-placement code for photos with GPS metadata: http://publiclab.org/notes/xvidun/06-20-2014/gsoc-upadate-autoknitting
 

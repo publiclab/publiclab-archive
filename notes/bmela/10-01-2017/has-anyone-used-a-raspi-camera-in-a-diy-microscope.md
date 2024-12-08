@@ -1,12 +1,18 @@
 ---
-nid: 14989
 title: Has anyone used a RasPi camera in a DIY microscope?
-path: public/static/notes/bmela/10-01-2017/has-anyone-used-a-raspi-camera-in-a-diy-microscope.md
+tagnames: raspberry-pi, answered, question:raspberry-pi, microscopes, question:microscopes
+author: bmela
+path: /notes/bmela/10-01-2017/has-anyone-used-a-raspi-camera-in-a-diy-microscope.md
+nid: 14989
 uid: 515525
-tagnames: raspberry-pi,answered,question:raspberry-pi,microscopes,question:microscopes
+
 ---
 
 # Has anyone used a RasPi camera in a DIY microscope?
+
+by [bmela](../profile/bmela) October 01, 2017 21:57
+
+October 01, 2017 21:57 | Tags: [raspberry-pi](../tag/raspberry-pi), [answered](../tag/answered), [question:raspberry-pi](../tag/question:raspberry-pi), [microscopes](../tag/microscopes), [question:microscopes](../tag/question:microscopes)
 
 I'm new to DIY scopes and  just started experimenting with one, so I'm wondering if the community had any tips? I'm also 
 

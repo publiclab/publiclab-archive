@@ -1,12 +1,18 @@
 ---
-nid: 5229
 title: Portable Energy Scavenging Kit 0.1a
-path: public/static/notes/donblair/12-17-2012/portable-energy-scavenging-kit-01a.md
+tagnames: pvos, portable-energy-scavenging-kit
+author: donblair
+path: /notes/donblair/12-17-2012/portable-energy-scavenging-kit-01a.md
+nid: 5229
 uid: 43651
-tagnames: pvos,portable-energy-scavenging-kit
+
 ---
 
 # Portable Energy Scavenging Kit 0.1a
+
+by [donblair](../profile/donblair) December 17, 2012 23:57
+
+December 17, 2012 23:57 | Tags: [pvos](../tag/pvos), [portable-energy-scavenging-kit](../tag/portable-energy-scavenging-kit)
 
 Quick update on an early prototype of the "Portable Energy Scavenging Kit", after a intense hackathon this weekend with Ben Garmari:
 

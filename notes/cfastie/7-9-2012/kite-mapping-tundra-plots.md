@@ -1,12 +1,18 @@
 ---
-nid: 2740
 title: Kite mapping tundra plots
-path: public/static/notes/cfastie/7-9-2012/kite-mapping-tundra-plots.md
+tagnames: kite-mapping, image-stitching, annotated-maps, alaska, tundra, photoshop, akrange, gigapan
+author: cfastie
+path: /notes/cfastie/7-9-2012/kite-mapping-tundra-plots.md
+nid: 2740
 uid: 554
-tagnames: kite-mapping,image-stitching,annotated-maps,alaska,tundra,photoshop,akrange,gigapan
+
 ---
 
 # Kite mapping tundra plots
+
+by [cfastie](../profile/cfastie) July 09, 2012 20:23
+
+July 09, 2012 20:23 | Tags: [kite-mapping](../tag/kite-mapping), [image-stitching](../tag/image-stitching), [annotated-maps](../tag/annotated-maps), [alaska](../tag/alaska), [tundra](../tag/tundra), [photoshop](../tag/photoshop), [akrange](../tag/akrange), [gigapan](../tag/gigapan)
 
 Click to enlarge the photos above.  
 

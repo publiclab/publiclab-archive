@@ -1,12 +1,18 @@
 ---
-nid: 14687
 title: Appalachia Barnraising 2017
-path: public/static/wiki/appalachia-barnraising-2017.md
+tagnames: barnraising, appalachia-barnraising
+author: stevie
+path: /wiki/appalachia-barnraising-2017.md
+nid: 14687
 uid: 422561
-tagnames: barnraising,appalachia-barnraising
+
 ---
 
 # Appalachia Barnraising 2017
+
+by [stevie](../profile/stevie)
+
+July 26, 2017 20:45 | Tags: [barnraising](../tag/barnraising), [appalachia-barnraising](../tag/appalachia-barnraising)
 
 ##Appalachia Barnraising
 The Appalachia Barnraising was hosted June 24th and 25th, in Morgantown, West Virginia. The event was hosted at [West Virginia University Reed College of Media, at the Media Innovation Center](http://mediainnovation.wvu.edu/space). 

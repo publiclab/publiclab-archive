@@ -1,12 +1,18 @@
 ---
-nid: 13475
 title: PET Bottle & Rubber Band Rig
-path: public/static/notes/mathew/09-23-2016/pet-bottle-rubber-band-rig-wiki-page-as-research-note.md
+tagnames: 1, difficulty:easy, time:3h, category:build, activity:aerial-photography, activity:camera-rigs, activity:balloon-mapping
+author: mathew
+path: /notes/mathew/09-23-2016/pet-bottle-rubber-band-rig-wiki-page-as-research-note.md
+nid: 13475
 uid: 4
-tagnames: 1,difficulty:easy,time:3h,category:build,activity:aerial-photography,activity:camera-rigs,activity:balloon-mapping
+
 ---
 
 # PET Bottle & Rubber Band Rig
+
+by [mathew](../profile/mathew) September 23, 2016 20:16
+
+September 23, 2016 20:16 | Tags: [1](../tag/1), [difficulty:easy](../tag/difficulty:easy), [time:3h](../tag/time:3h), [category:build](../tag/category:build), [activity:aerial-photography](../tag/activity:aerial-photography), [activity:camera-rigs](../tag/activity:camera-rigs), [activity:balloon-mapping](../tag/activity:balloon-mapping)
 
 This research note is a copy of the [PET Bottle Rig Wiki page](/wiki/pet-bottle-rubber-band-rig).
 

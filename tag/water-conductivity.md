@@ -1,6 +1,6 @@
 # water-conductivity
 
-6 notes and wiki pages
+6 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Coqui wave audio recording](/notes/imvec/06-09-2018/coqui-wave-audio-recording) by [imvec](../profile/imvec)
 - [Analizing the signal of the Coqui using Audacity](/notes/imvec/06-11-2018/analizing-the-signal-of-the-coqui-using-audacity) by [imvec](../profile/imvec)

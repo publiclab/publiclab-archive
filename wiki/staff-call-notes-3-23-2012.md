@@ -1,12 +1,18 @@
 ---
-nid: 1532
 title: Staff call notes 3 23 2012
-path: public/static/wiki/staff-call-notes-3-23-2012.md
-uid: 1
 tagnames: 
+author: warren
+path: /wiki/staff-call-notes-3-23-2012.md
+nid: 1532
+uid: 1
+
 ---
 
 # Staff call notes 3 23 2012
+
+by [warren](../profile/warren)
+
+March 23, 2012 16:27 | Tags: 
 
 Friday March 23, 2012
 

@@ -1,12 +1,18 @@
 ---
-nid: 10012
 title: Fat percent in milk
-path: public/static/notes/wagnerc4/02-05-2014/fat-percent-in-milk.md
+tagnames: spectrometer, milk, milk-fat, activity:spectrometry
+author: wagnerc4
+path: /notes/wagnerc4/02-05-2014/fat-percent-in-milk.md
+nid: 10012
 uid: 420634
-tagnames: spectrometer,milk,milk-fat,activity:spectrometry
+
 ---
 
 # Fat percent in milk
+
+by [wagnerc4](../profile/wagnerc4) February 05, 2014 19:37
+
+February 05, 2014 19:37 | Tags: [spectrometer](../tag/spectrometer), [milk](../tag/milk), [milk-fat](../tag/milk-fat), [activity:spectrometry](../tag/activity:spectrometry)
 
 I work in a litter industry that process milk cow, here the fat percent is measured with: Gerber method.
 Some industries have a instrument that measures some parameters of the milk, but is too expensive...  I think this instrument is some kind of spectrometer.

@@ -3,6 +3,8 @@ uid: 562839
 created_at: 2018-12-05 17:08:15 UTC
 ---
 
+# SadiePrego
+
 My name is Sadie and I am one of the Digital Literacy Instructors at a branch of Queens Library called the Queensbridge Tech Lab. We are located in LIC within Queensbridge Housing. We focus on creating a accessible and resourceful space for the local community within the umbrella of creative expression, digital & media literacy, education on privacy & civic rights, urban environmentalism, and job pathways. Our programming is quite robust as we try to be a fluid space that flows in the direction of the communities interests and needs. Some example classes are, Sewing with LEDS, Building Microscopes, Photoshop, How to use a smartphone, Synthesizers, Intro to the Internet, 3D printing Jewelry, Digital Photography. 
 
 I am the Project Lead for our Community Science: Learning about Queensbridge Air, Water, Soil/ Plants Project that will be happening Summer 2019! 
@@ -13,7 +15,7 @@ I am also an sculpture / technology artist: sadieprego.com
 
 ----
 
-[AIR-QUALITY & BALLOON LAUNCH: SUMMER 2019 QUEENSBRIDGE TECH LAB COMMUNITY SCIENCE PROJECT](/notes/SadiePrego/12-05-2018/summer-2019-queensbridge-tech-lab-community-science-project-air-water-soil)
-[WATER-QUALITY: SUMMER 2019 QUEENSBRIDGE TECH LAB COMMUNITY SCIENCE PROJECT](/notes/SadiePrego/12-05-2018/water-summer-2019-queensbridge-tech-lab-community-science-project)
-[SOIL TESTING & DATA VIZ: SUMMER 2019 QUEENSBRIDGE TECH LAB COMMUNITY SCIENCE PROJECT](/notes/SadiePrego/12-05-2018/soil-testing-data-viz-summer-2019-queensbridge-tech-lab-community-science-project)
-[What resources / methodologies does the Public Lab team use when designing Community led conferences / Barnraisings? ](/notes/SadiePrego/03-12-2019/what-resources-methodologies-does-the-public-lab-team-use-when-designing-these-community-led-conferences-or-barnraisings)
+- [AIR-QUALITY & BALLOON LAUNCH: SUMMER 2019 QUEENSBRIDGE TECH LAB COMMUNITY SCIENCE PROJECT](/notes/SadiePrego/12-05-2018/summer-2019-queensbridge-tech-lab-community-science-project-air-water-soil)
+- [WATER-QUALITY: SUMMER 2019 QUEENSBRIDGE TECH LAB COMMUNITY SCIENCE PROJECT](/notes/SadiePrego/12-05-2018/water-summer-2019-queensbridge-tech-lab-community-science-project)
+- [SOIL TESTING & DATA VIZ: SUMMER 2019 QUEENSBRIDGE TECH LAB COMMUNITY SCIENCE PROJECT](/notes/SadiePrego/12-05-2018/soil-testing-data-viz-summer-2019-queensbridge-tech-lab-community-science-project)
+- [What resources / methodologies does the Public Lab team use when designing Community led conferences / Barnraisings? ](/notes/SadiePrego/03-12-2019/what-resources-methodologies-does-the-public-lab-team-use-when-designing-these-community-led-conferences-or-barnraisings)

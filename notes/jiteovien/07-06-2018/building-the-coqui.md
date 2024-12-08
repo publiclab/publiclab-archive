@@ -1,12 +1,18 @@
 ---
-nid: 16652
 title: Building the coqui
-path: public/static/notes/jiteovien/07-06-2018/building-the-coqui.md
+tagnames: water-quality, coqui, replication:11209, replication:13459, first-time-poster
+author: jiteovien
+path: /notes/jiteovien/07-06-2018/building-the-coqui.md
+nid: 16652
 uid: 540008
-tagnames: water-quality,coqui,replication:11209,replication:13459,first-time-poster
+
 ---
 
 # Building the coqui
+
+by [jiteovien](../profile/jiteovien) July 06, 2018 17:47
+
+July 06, 2018 17:47 | Tags: [water-quality](../tag/water-quality), [coqui](../tag/coqui), [replication:11209](../tag/replication:11209), [replication:13459](../tag/replication:13459), [first-time-poster](../tag/first-time-poster)
 
 I built the coqui a few days ago - cool project! In the past, I've done a lot of STEM outreach work and think it would be a great project for a workshop for middle or high school students.
 

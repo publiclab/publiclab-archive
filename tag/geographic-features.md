@@ -1,6 +1,6 @@
 # geographic-features
 
-3 notes and wiki pages
+3 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Locations](/locations) (wiki)
 - [Demo for leaflet-blurred-location](/notes/mridulnagpal/08-02-2017/demo-for-leaflet-blurred-location) by [mridulnagpal](../profile/mridulnagpal)

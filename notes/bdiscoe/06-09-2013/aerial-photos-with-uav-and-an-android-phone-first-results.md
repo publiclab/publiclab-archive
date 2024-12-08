@@ -1,12 +1,18 @@
 ---
-nid: 8126
 title: Aerial photos with UAV and an Android phone: first results
-path: public/static/notes/bdiscoe/06-09-2013/aerial-photos-with-uav-and-an-android-phone-first-results.md
+tagnames: hawaii, uav-mapping, aerial-photos, drone
+author: bdiscoe
+path: /notes/bdiscoe/06-09-2013/aerial-photos-with-uav-and-an-android-phone-first-results.md
+nid: 8126
 uid: 46950
-tagnames: hawaii,uav-mapping,aerial-photos,drone
+
 ---
 
 # Aerial photos with UAV and an Android phone: first results
+
+by [bdiscoe](../profile/bdiscoe) June 09, 2013 05:08
+
+June 09, 2013 05:08 | Tags: [hawaii](../tag/hawaii), [uav-mapping](../tag/uav-mapping), [aerial-photos](../tag/aerial-photos), [drone](../tag/drone)
 
 ##What I want to do
 Trying to find an affordable, reliable way for people to gather high-quality aerials with a UAV.

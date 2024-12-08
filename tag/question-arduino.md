@@ -1,6 +1,6 @@
 # question-arduino
 
-11 notes and wiki pages
+11 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Progress? Options...](/notes/bbran/10-21-2016/progress-options) by [bbran](../profile/bbran)
 - [Desktop Spectrometry Kit to arduino?](/notes/jjoll/06-28-2017/desktop-spectrometry-kit-to-arduino) by [jjoll](../profile/jjoll)

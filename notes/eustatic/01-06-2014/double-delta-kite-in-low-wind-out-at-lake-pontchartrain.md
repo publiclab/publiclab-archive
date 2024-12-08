@@ -1,12 +1,18 @@
 ---
-nid: 9926
 title: Double Delta kite in low wind out at Lake Pontchartrain
-path: public/static/notes/eustatic/01-06-2014/double-delta-kite-in-low-wind-out-at-lake-pontchartrain.md
-uid: 379
 tagnames: kite-mapping
+author: eustatic
+path: /01-06-2014/double-delta-kite-in-low-wind-out-at-lake-pontchartrain.md
+nid: 9926
+uid: 379
+
 ---
 
 # Double Delta kite in low wind out at Lake Pontchartrain
+
+by [eustatic](../profile/eustatic) January 06, 2014 02:06
+
+January 06, 2014 02:06 | Tags: [kite-mapping](../tag/kite-mapping)
 
 ###What I want to do
 

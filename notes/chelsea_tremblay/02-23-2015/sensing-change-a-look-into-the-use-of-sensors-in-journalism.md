@@ -1,12 +1,18 @@
 ---
-nid: 11629
 title: Sensing Change: A Look into the use of Sensors in Journalism
-path: public/static/notes/chelsea_tremblay/02-23-2015/sensing-change-a-look-into-the-use-of-sensors-in-journalism.md
-uid: 434198
 tagnames: sensor-journalism
+author: chelsea_tremblay
+path: /notes/chelsea_tremblay/02-23-2015/sensing-change-a-look-into-the-use-of-sensors-in-journalism.md
+nid: 11629
+uid: 434198
+
 ---
 
 # Sensing Change: A Look into the use of Sensors in Journalism
+
+by [chelsea_tremblay](../profile/chelsea_tremblay) February 23, 2015 18:27
+
+February 23, 2015 18:27 | Tags: [sensor-journalism](../tag/sensor-journalism)
 
 In today’s technology driven society, sensor journalism seems like a logical, plausible future; however, what sounds good in writing isn’t always so easily attainable in practice. Although sensor journalism has many perks to offer, there are just as many kinks that need to be worked out before it can become a common and reliable tool for reporting.
 

@@ -1,12 +1,18 @@
 ---
-nid: 11448
 title: Accessible Vegetation Indices.
-path: public/static/notes/gpenzo/12-11-2014/accessible-vegetation-indices.md
+tagnames: ndvi, nir, cameras, bone, two, beagle
+author: gpenzo
+path: /notes/gpenzo/12-11-2014/accessible-vegetation-indices.md
+nid: 11448
 uid: 420719
-tagnames: ndvi,nir,cameras,bone,two,beagle
+
 ---
 
 # Accessible Vegetation Indices.
+
+by [gpenzo](../profile/gpenzo) December 11, 2014 12:45
+
+December 11, 2014 12:45 | Tags: [ndvi](../tag/ndvi), [nir](../tag/nir), [cameras](../tag/cameras), [bone](../tag/bone), [two](../tag/two), [beagle](../tag/beagle)
 
 ###What I want to do
 I want to get Vegetation Indices, like NDVI, WDVI, NDRE ,EVI

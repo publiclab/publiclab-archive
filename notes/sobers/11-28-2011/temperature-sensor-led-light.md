@@ -1,12 +1,18 @@
 ---
-nid: 594
 title: Temperature Sensor / LED light
-path: public/static/notes/sobers/11-28-2011/temperature-sensor-led-light.md
-uid: 371
 tagnames: thermal-fishing-bob
+author: sobers
+path: /notes/sobers/11-28-2011/temperature-sensor-led-light.md
+nid: 594
+uid: 371
+
 ---
 
 # Temperature Sensor / LED light
+
+by [sobers](../profile/sobers) November 28, 2011 23:36
+
+November 28, 2011 23:36 | Tags: [thermal-fishing-bob](../tag/thermal-fishing-bob)
 
 Materials:
 1. Cheap Digital Thermometer

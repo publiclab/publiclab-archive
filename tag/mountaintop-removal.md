@@ -1,6 +1,6 @@
 # mountaintop-removal
 
-12 notes and wiki pages
+12 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Black Mountain, Virginia ](/map/black-mountain-virginia/2010-05-30) by [gonzoearth](../profile/gonzoearth)
 - [Hacking trail cameras to document blasts on Mountaintop Removal sites](/notes/LauraChipley/09-18-2015/hacking-trail-cameras-to-document-blasts-on-mountaintop-removal-sites) by [LauraChipley](../profile/LauraChipley)

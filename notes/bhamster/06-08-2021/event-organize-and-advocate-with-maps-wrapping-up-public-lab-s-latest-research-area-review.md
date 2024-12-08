@@ -1,12 +1,18 @@
 ---
-nid: 26790
 title: Event: Organize and advocate with maps! Wrapping up Public Lab’s latest research area review
-path: public/static/notes/bhamster/06-08-2021/event-organize-and-advocate-with-maps-wrapping-up-public-lab-s-latest-research-area-review.md
+tagnames: mapping, event, organizing, research, event:rsvp, advocacy, reviews, community-organizing, research-area-review, with:julia_e_masters, rsvp:rosal
+author: bhamster
+path: /notes/bhamster/06-08-2021/event-organize-and-advocate-with-maps-wrapping-up-public-lab-s-latest-research-area-review.md
+nid: 26790
 uid: 664477
-tagnames: mapping,event,organizing,research,event:rsvp,advocacy,reviews,community-organizing,research-area-review,with:julia_e_masters,rsvp:rosal
+
 ---
 
 # Event: Organize and advocate with maps! Wrapping up Public Lab’s latest research area review
+
+by [bhamster](../profile/bhamster) June 08, 2021 18:15
+
+June 08, 2021 18:15 | Tags: [mapping](../tag/mapping), [event](../tag/event), [organizing](../tag/organizing), [research](../tag/research), [event:rsvp](../tag/event:rsvp), [advocacy](../tag/advocacy), [reviews](../tag/reviews), [community-organizing](../tag/community-organizing), [research-area-review](../tag/research-area-review), [with:julia_e_masters](../tag/with:julia_e_masters), [rsvp:rosal](../tag/rsvp:rosal)
 
 _Lead image: from [this post on hosting a collaborative map drawing workshop](https://publiclab.org/notes/liz/04-05-2017/host-an-event-to-draw-a-picture-of-your-place-as-a-group)_
 

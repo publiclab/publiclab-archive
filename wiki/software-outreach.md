@@ -1,12 +1,18 @@
 ---
-nid: 15062
 title: Software Outreach
-path: public/static/wiki/software-outreach.md
+tagnames: software, outreach, gsoc, web, wwg, first-timers-only, software-outreach, soc
+author: warren
+path: /wiki/software-outreach.md
+nid: 15062
 uid: 1
-tagnames: software,outreach,gsoc,web,wwg,first-timers-only,software-outreach,soc
+
 ---
 
 # Software Outreach
+
+by [warren](../profile/warren)
+
+October 17, 2017 14:50 | Tags: [software](../tag/software), [outreach](../tag/outreach), [gsoc](../tag/gsoc), [web](../tag/web), [wwg](../tag/wwg), [first-timers-only](../tag/first-timers-only), [software-outreach](../tag/software-outreach), [soc](../tag/soc)
 
 Since early 2016, Public Lab has worked to make our open source software projects more welcoming and inclusive & to grow our software contributor community in diversity and size. This page collects some of those strategies and initiatives. 
 

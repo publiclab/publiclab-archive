@@ -1,12 +1,18 @@
 ---
-nid: 27776
 title: Wastewater
-path: public/static/wiki/wastewater.md
+tagnames: sewage, water-quality, stormwater, wastewater, parent:water-quality
+author: bhamster
+path: /wiki/wastewater.md
+nid: 27776
 uid: 664477
-tagnames: sewage,water-quality,stormwater,wastewater,parent:water-quality
+
 ---
 
 # Wastewater
+
+by [bhamster](../profile/bhamster)
+
+September 22, 2021 17:45 | Tags: [sewage](../tag/sewage), [water-quality](../tag/water-quality), [stormwater](../tag/stormwater), [wastewater](../tag/wastewater), [parent:water-quality](../tag/parent:water-quality)
 
 Where does water go once it flows down the sink drain? What about the water trickling down the street into storm drains? Or water discarded from industrial activities?
 

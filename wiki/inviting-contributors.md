@@ -1,12 +1,18 @@
 ---
-nid: 759
 title: Inviting contributors
-path: public/static/wiki/inviting-contributors.md
-uid: 1
 tagnames: 
+author: warren
+path: /wiki/inviting-contributors.md
+nid: 759
+uid: 1
+
 ---
 
 # Inviting contributors
+
+by [warren](../profile/warren)
+
+February 06, 2012 21:53 | Tags: 
 
 Attributing research is important, which is why we have a "Contributors" section on all tool and place pages. But you're only added to the list of contributors if you publish a research note tagged with that tool or place! This is to get people not only to *do* civic science, but to share it with others.
 

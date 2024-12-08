@@ -1,12 +1,18 @@
 ---
-nid: 13093
 title: Public Lab River Rat Pack -- St. Louis -- Exhibition
-path: public/static/notes/derekhoeferlin/05-09-2016/public-lab-river-rat-pack-st-louis-exhibition.md
+tagnames: balloon-mapping, blog, mississippi-river, barnstar:basic, barnstar:photo-documentation, mid-west, exhibition, missouri, publiclabriverratpack, antidrone, stlouis, fresh-water, public-access
+author: derekhoeferlin
+path: /notes/derekhoeferlin/05-09-2016/public-lab-river-rat-pack-st-louis-exhibition.md
+nid: 13093
 uid: 461337
-tagnames: balloon-mapping,blog,mississippi-river,barnstar:basic,barnstar:photo-documentation,mid-west,exhibition,missouri,publiclabriverratpack,antidrone,stlouis,fresh-water,public-access
+
 ---
 
 # Public Lab River Rat Pack -- St. Louis -- Exhibition
+
+by [derekhoeferlin](../profile/derekhoeferlin) May 09, 2016 15:10
+
+May 09, 2016 15:10 | Tags: [balloon-mapping](../tag/balloon-mapping), [blog](../tag/blog), [mississippi-river](../tag/mississippi-river), [barnstar:basic](../tag/barnstar:basic), [barnstar:photo-documentation](../tag/barnstar:photo-documentation), [mid-west](../tag/mid-west), [exhibition](../tag/exhibition), [missouri](../tag/missouri), [publiclabriverratpack](../tag/publiclabriverratpack), [antidrone](../tag/antidrone), [stlouis](../tag/stlouis), [fresh-water](../tag/fresh-water), [public-access](../tag/public-access)
 
 Since January, 2016 the Public Lab River Rat Pack (led by Architect and Assistant Professor Derek Hoeferlin) has documented multiple river edge conditions in the St. Louis, Missouri region, near the confluence of the Mississippi and Missouri Rivers. Some map the difference between high and low river stages; others map the intensity of industrial uses along the rivers; others map more ecological areas; and, all question the profound lack of access by the public to the rivers. Hoeferlin led a seminar at Washington University in St. Louis that included undergraduate and graduate architecture, landscape architecture, urban design, construction management and earth and planetary studies students. The work is ongoing, and we are looking forward to collaborate with others in St. Louis, and beyond. The exhibition of the work will be on display in Givens Hall at Washington University though mid-May. More posts are forthcoming from the students including more in depth explanations of findings from each site and the process of collaboration with the community. Thanks to Public lab, Washington University, the US Army Corps of Engineers, Audubon Institute at Riverlands, and others, for the time and support! 
 

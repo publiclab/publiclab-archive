@@ -1,12 +1,18 @@
 ---
-nid: 9336
 title: KAP with simple dual juice-bottle rig: Infragram and visible mapping around Mocho Park, Livermore CA
-path: public/static/notes/patcoyle/09-17-2013/kap-with-simple-dual-juice-bottle-rig-infragram-and-visible-mapping-around-mocho-park-livermore-ca.md
+tagnames: ndvi, mapknitter, livermore, norcal, california
+author: patcoyle
+path: /notes/patcoyle/09-17-2013/kap-with-simple-dual-juice-bottle-rig-infragram-and-visible-mapping-around-mocho-park-livermore-ca.md
+nid: 9336
 uid: 77
-tagnames: ndvi,mapknitter,livermore,norcal,california
+
 ---
 
 # KAP with simple dual juice-bottle rig: Infragram and visible mapping around Mocho Park, Livermore CA
+
+by [patcoyle](../profile/patcoyle) September 17, 2013 03:17
+
+September 17, 2013 03:17 | Tags: [ndvi](../tag/ndvi), [mapknitter](../tag/mapknitter), [livermore](../tag/livermore), [norcal](../tag/norcal), [california](../tag/california)
 
 Exercise an Infragram converted camera along with a visible camera in dual camera rig, without need to synch them. Opens up opportunity to use simpler crash-resistant housing without need to accomodate USB remote shutter triggering circuitry.
 

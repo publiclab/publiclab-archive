@@ -1,6 +1,6 @@
 # question-industry
 
-10 notes and wiki pages
+10 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Are there any exemptions under the NPDES? ](/notes/stevie/02-09-2017/are-there-any-exemptions-under-the-npdes) by [stevie](../profile/stevie)
 - [How do I know which key points to push when making a public comment against an industry? ](/notes/stevie/02-22-2017/how-do-i-know-which-key-points-to-push-when-making-a-public-comment-against-an-industry) by [stevie](../profile/stevie)

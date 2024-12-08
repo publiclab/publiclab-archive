@@ -1,6 +1,6 @@
 # coal
 
-30 notes and wiki pages
+30 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Kite Photo of Ongoing Coal Pollution in Plaquemines Parish, LA](/notes/eustatic/05-28-2013/kite-photos-of-ongoing-coal-pollution-in-plaquemines-parish-la) by [eustatic](../profile/eustatic)
 - [Nungesser test: collection of Coal or Petroleum coke for further testing](/notes/eustatic/09-09-2013/nungesser-test-detection-of-coal-or-petroleum-coke-for-flame-spectrometry) by [eustatic](../profile/eustatic)

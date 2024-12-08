@@ -1,12 +1,18 @@
 ---
-nid: 8073
 title: Bee Movie II
-path: public/static/notes/cfastie/06-05-2013/bee-movie-ii.md
+tagnames: near-infrared-camera, nrg, ndvi, vermont, infrared, imagej, infragram, nbg, infrablue
+author: cfastie
+path: /notes/cfastie/06-05-2013/bee-movie-ii.md
+nid: 8073
 uid: 554
-tagnames: near-infrared-camera,nrg,ndvi,vermont,infrared,imagej,infragram,nbg,infrablue
+
 ---
 
 # Bee Movie II
+
+by [cfastie](../profile/cfastie) June 05, 2013 13:08
+
+June 05, 2013 13:08 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [nrg](../tag/nrg), [ndvi](../tag/ndvi), [vermont](../tag/vermont), [infrared](../tag/infrared), [imagej](../tag/imagej), [infragram](../tag/infragram), [nbg](../tag/nbg), [infrablue](../tag/infrablue)
 
 <em>Image above: A bumble bee on a chive flower in a frame from an infrablue video. The flowers are actually blue, but the bee's colors are true to life.</em>
 

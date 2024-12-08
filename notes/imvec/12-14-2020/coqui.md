@@ -1,12 +1,18 @@
 ---
-nid: 25251
 title: Coqui 文件
-path: public/static/notes/imvec/12-14-2020/coqui.md
+tagnames: workshop, water-quality, conductivity, barnstar:basic, coqui, chinese, activity:coqui, sound, lang:zh, pin:activity:coqui, zoom:16, lang:chinese, wateria, lat:25.040486, lon:121.53805, conductivity-sensor
+author: imvec
+path: /notes/imvec/12-14-2020/coqui.md
+nid: 25251
 uid: 495038
-tagnames: workshop,water-quality,conductivity,barnstar:basic,coqui,chinese,activity:coqui,sound,lang:zh,pin:activity:coqui,zoom:16,lang:chinese,wateria,lat:25.040486,lon:121.53805,conductivity-sensor
+
 ---
 
 # Coqui 文件
+
+by [imvec](../profile/imvec) December 14, 2020 15:14
+
+December 14, 2020 15:14 | Tags: [workshop](../tag/workshop), [water-quality](../tag/water-quality), [conductivity](../tag/conductivity), [barnstar:basic](../tag/barnstar:basic), [coqui](../tag/coqui), [chinese](../tag/chinese), [activity:coqui](../tag/activity:coqui), [sound](../tag/sound), [lang:zh](../tag/lang:zh), [pin:activity:coqui](../tag/pin:activity:coqui), [zoom:16](../tag/zoom:16), [lang:chinese](../tag/lang:chinese), [wateria](../tag/wateria), [lat:25.040486](../tag/lat:25.040486), [lon:121.53805](../tag/lon:121.53805), [conductivity-sensor](../tag/conductivity-sensor)
 
 #《WATERIA自助飲水站》Coqui 工作坊
 

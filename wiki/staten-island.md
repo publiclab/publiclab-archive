@@ -1,12 +1,18 @@
 ---
-nid: 10355
 title: Staten Island
-path: public/static/wiki/staten-island.md
+tagnames: new-york-city, northeast, staten-island
+author: liz
+path: /wiki/staten-island.md
+nid: 10355
 uid: 7
-tagnames: new-york-city,northeast,staten-island
+
 ---
 
 # Staten Island
+
+by [troy](../profile/troy), [liz](../profile/liz), [eymund](../profile/eymund)
+
+April 24, 2014 14:29 | Tags: [new-york-city](../tag/new-york-city), [northeast](../tag/northeast), [staten-island](../tag/staten-island)
 
 **Staten Island's north shore is part of [New York City](/wiki/new-york-city) and the [Northeast region](http://publiclab.org/wiki/northeast).**
 

@@ -1,12 +1,18 @@
 ---
-nid: 13954
 title: Are there affordable EPA-approved methods for monitoring ozone? 
-path: public/static/notes/mathew/02-23-2017/are-there-affordable-epa-approved-methods-for-monitoring-ozone.md
+tagnames: air-quality, answered, ozone, question:question
+author: mathew
+path: /notes/mathew/02-23-2017/are-there-affordable-epa-approved-methods-for-monitoring-ozone.md
+nid: 13954
 uid: 4
-tagnames: air-quality,answered,ozone,question:question
+
 ---
 
 # Are there affordable EPA-approved methods for monitoring ozone? 
+
+by [mathew](../profile/mathew) February 23, 2017 01:12
+
+February 23, 2017 01:12 | Tags: [air-quality](../tag/air-quality), [answered](../tag/answered), [ozone](../tag/ozone), [question:question](../tag/question:question)
 
 I got an e-mail asking if I knew any EPA-approved low-cost methods for monitoring ozone. I don't, but I figured it wouldn't be too hard to find the list of Federal Equivalent Methods (FEM) and Federal Reference Methods (FRM).  I was wrong. 
 

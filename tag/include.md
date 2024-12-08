@@ -1,6 +1,6 @@
 # include
 
-10 notes and wiki pages
+10 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [WebJack: Testers needed!](/notes/rmeister/07-18-2016/webjack-testers-needed) by [rmeister](../profile/rmeister)
 - [Live Dissolved Oxygen and Redox Potential Sensor](/notes/jesseslone/04-10-2017/live-dissolved-oxygen-and-redox-potential-sensor) by [jesseslone](../profile/jesseslone)
@@ -10,5 +10,3 @@
 - [combining code for PMS7003 into Aircasting code](/notes/vinushi1995/08-11-2019/combining-code-for-pms7003-into-aircasting-code) by [vinushi1995](../profile/vinushi1995)
 - [Building the Simple Turbidity Sensor Prototype](/notes/wmacfarl/11-11-2019/building-the-simple-turbidity-sensor-prototype) by [wmacfarl](../profile/wmacfarl)
 - [How to Connect a pH Sensor to the Simple Water Sensor Platform](/notes/wmacfarl/12-09-2019/building-the-simple-ph-sensor-prototype) by [wmacfarl](../profile/wmacfarl)
-- [Building the Simple ORP Sensor Prototype](/notes/wmacfarl/12-09-2019/building-the-simple-orp-sensor-prototype) by [wmacfarl](../profile/wmacfarl)
-- [Online Courses For Free](/notes/scarletjohnson/08-20-2021/online-courses-for-free) by [scarletjohnson](../profile/scarletjohnson)

@@ -1,12 +1,18 @@
 ---
-nid: 12201
 title: Mobius non-fish eye and small lifter wrapup
-path: public/static/notes/patcoyle/09-07-2015/mobius-non-fish-eye-and-small-lifter-wrapup.md
+tagnames: balloon-mapping, mylar, photo-rig, mobius-actioncam, infragram-point-shoot, non-fish-eye, ardrone, mylar-balloons, balloons, mini-kite-kit, mini-balloon-kit, activity:infragram, lens-distortion, activity:mobius, activity:filter-swapping
+author: patcoyle
+path: /notes/patcoyle/09-07-2015/mobius-non-fish-eye-and-small-lifter-wrapup.md
+nid: 12201
 uid: 77
-tagnames: balloon-mapping,mylar,photo-rig,mobius-actioncam,infragram-point-shoot,non-fish-eye,ardrone,mylar-balloons,balloons,mini-kite-kit,mini-balloon-kit,activity:infragram,lens-distortion,activity:mobius,activity:filter-swapping
+
 ---
 
 # Mobius non-fish eye and small lifter wrapup
+
+by [patcoyle](../profile/patcoyle) September 07, 2015 00:21
+
+September 07, 2015 00:21 | Tags: [balloon-mapping](../tag/balloon-mapping), [mylar](../tag/mylar), [photo-rig](../tag/photo-rig), [mobius-actioncam](../tag/mobius-actioncam), [infragram-point-shoot](../tag/infragram-point-shoot), [non-fish-eye](../tag/non-fish-eye), [ardrone](../tag/ardrone), [mylar-balloons](../tag/mylar-balloons), [balloons](../tag/balloons), [mini-kite-kit](../tag/mini-kite-kit), [mini-balloon-kit](../tag/mini-balloon-kit), [activity:infragram](../tag/activity:infragram), [lens-distortion](../tag/lens-distortion), [activity:mobius](../tag/activity:mobius), [activity:filter-swapping](../tag/activity:filter-swapping)
 
 ###What I want to do
 

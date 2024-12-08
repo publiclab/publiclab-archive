@@ -1,12 +1,18 @@
 ---
-nid: 11790
 title:  iFARM 2015  “Experiencing the Sensed Landscape”
-path: public/static/notes/dorncox/05-06-2015/ifarm-2015-experiencing-the-sensed-landscape.md
+tagnames: uav, farm, event, ifarm, event:rsvp, 2015, new, hack, rov, hampshire, nh, date:05-12-2015
+author: dorncox
+path: /notes/dorncox/05-06-2015/ifarm-2015-experiencing-the-sensed-landscape.md
+nid: 11790
 uid: 1205
-tagnames: uav,farm,event,ifarm,event:rsvp,2015,new,hack,rov,hampshire,nh,date:05-12-2015
+
 ---
 
 #  iFARM 2015  “Experiencing the Sensed Landscape”
+
+by [dorncox](../profile/dorncox) May 06, 2015 14:17
+
+May 06, 2015 14:17 | Tags: [uav](../tag/uav), [farm](../tag/farm), [event](../tag/event), [ifarm](../tag/ifarm), [event:rsvp](../tag/event:rsvp), [2015](../tag/2015), [new](../tag/new), [hack](../tag/hack), [rov](../tag/rov), [hampshire](../tag/hampshire), [nh](../tag/nh), [date:05-12-2015](../tag/date:05-12-2015)
 
 
 **Description**

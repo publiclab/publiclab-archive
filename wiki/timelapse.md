@@ -1,12 +1,18 @@
 ---
-nid: 504
 title: Timelapse Kit
-path: public/static/wiki/timelapse.md
+tagnames: timelapse, tool, method, parent:photo-monitoring
+author: warren
+path: /wiki/timelapse.md
+nid: 504
 uid: 1
-tagnames: timelapse,tool,method,parent:photo-monitoring
+
 ---
 
 # Timelapse Kit
+
+by [warren](../profile/warren)
+
+October 11, 2011 17:03 | Tags: [timelapse](../tag/timelapse), [tool](../tag/tool), [method](../tag/method), [parent:photo-monitoring](../tag/parent:photo-monitoring)
 
 The **Public Lab Timelapse Kit**: fight polluters by catching them on film!
 

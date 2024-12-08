@@ -1,12 +1,18 @@
 ---
-nid: 11553
 title: Hydrocarbon standard samples for kits
-path: public/static/notes/gretchengehrke/02-04-2015/hydrocarbon-standard-samples-for-kits.md
+tagnames: spectrometer, oil, oil-testing-kit, samples, first-time-poster
+author: gretchengehrke
+path: /notes/gretchengehrke/02-04-2015/hydrocarbon-standard-samples-for-kits.md
+nid: 11553
 uid: 430549
-tagnames: spectrometer,oil,oil-testing-kit,samples,first-time-poster
+
 ---
 
 # Hydrocarbon standard samples for kits
+
+by [gretchengehrke](../profile/gretchengehrke) February 04, 2015 22:15
+
+February 04, 2015 22:15 | Tags: [spectrometer](../tag/spectrometer), [oil](../tag/oil), [oil-testing-kit](../tag/oil-testing-kit), [samples](../tag/samples), [first-time-poster](../tag/first-time-poster)
 
 Hi All, 
 

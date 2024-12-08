@@ -1,6 +1,6 @@
 # expertise
 
-4 notes and wiki pages
+4 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Harry Collins and his Sociologist Stones](/notes/cfastie/11-17-2015/harry-collins-and-his-sociologist-stones) by [cfastie](../profile/cfastie)
 - [Renegotiating Expertise: a talk at ClimateX MIT](/notes/warren/01-18-2017/renegotiating-expertise-a-talk-at-climatex-mit) by [warren](../profile/warren)

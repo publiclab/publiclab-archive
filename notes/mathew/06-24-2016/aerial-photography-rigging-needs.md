@@ -1,12 +1,18 @@
 ---
-nid: 13243
 title: Aerial Photography Rigging Needs
-path: public/static/notes/mathew/06-24-2016/aerial-photography-rigging-needs.md
+tagnames: balloon-mapping, kite-mapping, kite, photo-rig, balloon, feedback, reconfigurable-rig
+author: mathew
+path: /notes/mathew/06-24-2016/aerial-photography-rigging-needs.md
+nid: 13243
 uid: 4
-tagnames: balloon-mapping,kite-mapping,kite,photo-rig,balloon,feedback,reconfigurable-rig
+
 ---
 
 # Aerial Photography Rigging Needs
+
+by [mathew](../profile/mathew) June 24, 2016 23:33
+
+June 24, 2016 23:33 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [kite](../tag/kite), [photo-rig](../tag/photo-rig), [balloon](../tag/balloon), [feedback](../tag/feedback), [reconfigurable-rig](../tag/reconfigurable-rig)
 
 I want to assess our community's aerial photography rig needs for kite, balloon, and pole mapping. To that end, I sent out the survey below. Its not too late to fill it out!
 

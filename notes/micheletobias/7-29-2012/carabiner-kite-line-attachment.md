@@ -1,12 +1,18 @@
 ---
-nid: 3014
 title: Carabiner Kite Line Attachment
-path: public/static/notes/micheletobias/7-29-2012/carabiner-kite-line-attachment.md
+tagnames: balloon-mapping, kite-aerial-photography, photo-rig, flying
+author: MicheleTobias
+path: /notes/micheletobias/7-29-2012/carabiner-kite-line-attachment.md
+nid: 3014
 uid: 149
-tagnames: balloon-mapping,kite-aerial-photography,photo-rig,flying
+
 ---
 
 # Carabiner Kite Line Attachment
+
+by [MicheleTobias](../profile/MicheleTobias) July 29, 2012 22:06
+
+July 29, 2012 22:06 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-aerial-photography](../tag/kite-aerial-photography), [photo-rig](../tag/photo-rig), [flying](../tag/flying)
 
 <a href="https://www.flickr.com/photos/51797249@N05/7671985972/" title="IMG_4834 by ClammyStewart, on Flickr"><img src="https://farm9.staticflickr.com/8163/7671985972_9ba212549f.jpg" width="500" height="375" alt="IMG_4834"></a>
 

@@ -1,12 +1,18 @@
 ---
-nid: 548
 title: Map printing
-path: public/static/wiki/map-printing.md
-uid: 1
 tagnames: 
+author: warren
+path: /wiki/map-printing.md
+nid: 548
+uid: 1
+
 ---
 
 # Map printing
+
+by [warren](../profile/warren)
+
+November 07, 2011 16:26 | Tags: 
 
 Options for printing maps:
 

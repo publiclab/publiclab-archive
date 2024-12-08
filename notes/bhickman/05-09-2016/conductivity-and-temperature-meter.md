@@ -1,12 +1,18 @@
 ---
-nid: 13091
 title: Conductivity and Temperature Meter
-path: public/static/notes/bhickman/05-09-2016/conductivity-and-temperature-meter.md
+tagnames: water-quality, conductivity, barnstar:basic, waterquality, activity:conductivity, activity:temperature
+author: bhickman
+path: /notes/bhickman/05-09-2016/conductivity-and-temperature-meter.md
+nid: 13091
 uid: 201929
-tagnames: water-quality,conductivity,barnstar:basic,waterquality,activity:conductivity,activity:temperature
+
 ---
 
 # Conductivity and Temperature Meter
+
+by [bhickman](../profile/bhickman) May 09, 2016 05:21
+
+May 09, 2016 05:21 | Tags: [water-quality](../tag/water-quality), [conductivity](../tag/conductivity), [barnstar:basic](../tag/barnstar:basic), [waterquality](../tag/waterquality), [activity:conductivity](../tag/activity:conductivity), [activity:temperature](../tag/activity:temperature)
 
 ##Overview
 The goal of this project was to make a conductivity and temperature (CT) sensor that gives accurate and repeatable measurements while still being affordable. In the quest for that goal, a simple circuit board and probe were designed. The design applies an AC square wave across a voltage divider, where one of the resistors is a know value and the second is determined by the resistance of the solution being measured. 

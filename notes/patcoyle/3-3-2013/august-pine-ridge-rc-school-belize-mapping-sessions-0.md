@@ -1,12 +1,18 @@
 ---
-nid: 6175
 title: August Pine Ridge RC school, Belize mapping session
-path: public/static/notes/patcoyle/3-3-2013/august-pine-ridge-rc-school-belize-mapping-sessions-0.md
+tagnames: balloon-mapping, kite-mapping, belize, belizeopensource
+author: patcoyle
+path: /notes/patcoyle/3-3-2013/august-pine-ridge-rc-school-belize-mapping-sessions-0.md
+nid: 6175
 uid: 77
-tagnames: balloon-mapping,kite-mapping,belize,belizeopensource
+
 ---
 
 # August Pine Ridge RC school, Belize mapping session
+
+by [patcoyle](../profile/patcoyle) March 03, 2013 23:24
+
+March 03, 2013 23:24 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [belize](../tag/belize), [belizeopensource](../tag/belizeopensource)
 
 I met Blanca Torres, the principal, other school staff and the fifth-grade class at the August Pine Ridge RC school. We flew a kite aerial mapping session together and demonstrated Mapknitter.
 

@@ -1,12 +1,18 @@
 ---
-nid: 398
 title: Mapping Curriculum: Research Applications
-path: public/static/wiki/mapping-curriculum-research-applications.md
-uid: 12
 tagnames: 
+author: gonzoearth
+path: /wiki/mapping-curriculum-research-applications.md
+nid: 398
+uid: 12
+
 ---
 
 # Mapping Curriculum: Research Applications
+
+by [gonzoearth](../profile/gonzoearth)
+
+July 21, 2011 05:52 | Tags: 
 
 *As part of the [Grassroots Mapping Curriculum](/wiki/mapping-curriculum) series.*
 

@@ -1,12 +1,18 @@
 ---
-nid: 16427
 title: Updating the WheeTrometer: Code for running the CCD.
-path: public/static/notes/JSummers/06-03-2018/updating-the-wheetrometer-code-for-running-the-ccd.md
+tagnames: spectrometer, spectroscopy, wheetrometer
+author: JSummers
+path: /notes/JSummers/06-03-2018/updating-the-wheetrometer-code-for-running-the-ccd.md
+nid: 16427
 uid: 304279
-tagnames: spectrometer,spectroscopy,wheetrometer
+
 ---
 
 # Updating the WheeTrometer: Code for running the CCD.
+
+by [JSummers](../profile/JSummers) June 03, 2018 18:15
+
+June 03, 2018 18:15 | Tags: [spectrometer](../tag/spectrometer), [spectroscopy](../tag/spectroscopy), [wheetrometer](../tag/wheetrometer)
 
 [](/tag/GOAL)
 

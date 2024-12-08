@@ -1,12 +1,18 @@
 ---
-nid: 15713
 title: Aerial Photogrammetry Test at Amboy Crater, CA
-path: public/static/notes/DevanHarlan/02-11-2018/photogrammetry-test-at-amboy-crater-ca.md
+tagnames: balloon-mapping, aerial-photography, photogrammetry, california, photo-rig, aerial-mapping, barnstar:basic, amboy, crater, place:amboy-crater-trail-california-united-states, lat:34.556335, lon:-115.78165
+author: DevanHarlan
+path: /notes/DevanHarlan/02-11-2018/photogrammetry-test-at-amboy-crater-ca.md
+nid: 15713
 uid: 524871
-tagnames: balloon-mapping,aerial-photography,photogrammetry,california,photo-rig,aerial-mapping,barnstar:basic,amboy,crater,place:amboy-crater-trail-california-united-states,lat:34.556335,lon:-115.78165
+
 ---
 
 # Aerial Photogrammetry Test at Amboy Crater, CA
+
+by [DevanHarlan](../profile/DevanHarlan) February 11, 2018 01:52
+
+February 11, 2018 01:52 | Tags: [balloon-mapping](../tag/balloon-mapping), [aerial-photography](../tag/aerial-photography), [photogrammetry](../tag/photogrammetry), [california](../tag/california), [photo-rig](../tag/photo-rig), [aerial-mapping](../tag/aerial-mapping), [barnstar:basic](../tag/barnstar:basic), [amboy](../tag/amboy), [crater](../tag/crater), [place:amboy-crater-trail-california-united-states](../tag/place:amboy-crater-trail-california-united-states), [lat:34.556335](../tag/lat:34.556335), [lon:-115.78165](../tag/lon:-115.78165)
 
 **Description:**
 

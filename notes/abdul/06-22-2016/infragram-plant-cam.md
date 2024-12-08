@@ -1,12 +1,18 @@
 ---
-nid: 13232
 title: Infragram Plant Cam
-path: public/static/notes/abdul/06-22-2016/infragram-plant-cam.md
+tagnames: infragram, infragram-point-shoot, infragram-plant-cam, first-time-poster
+author: abdul
+path: /notes/abdul/06-22-2016/infragram-plant-cam.md
+nid: 13232
 uid: 479194
-tagnames: infragram,infragram-point-shoot,infragram-plant-cam,first-time-poster
+
 ---
 
 # Infragram Plant Cam
+
+by [abdul](../profile/abdul) June 22, 2016 22:19
+
+June 22, 2016 22:19 | Tags: [infragram](../tag/infragram), [infragram-point-shoot](../tag/infragram-point-shoot), [infragram-plant-cam](../tag/infragram-plant-cam), [first-time-poster](../tag/first-time-poster)
 
 The **Infragram Plant Cam **is a handheld, battery powered mini camera (a modified Mobius Action Cam) for doing plant analysis. It ships from the factory with a standard infrared-blocking filter and we ship an additional a red filter that, when installed on the camera, effectively exchanges its blue light channel for infrared light. This is based on a great deal of [research by Public Lab contributors](http://publiclab.org/tag/infragram) and was initially pioneered in our community by @nedhorning and @cfastie. See especially [these](http://publiclab.org/notes/cfastie/04-22-2014/mobius-ir-conversion) [two](http://publiclab.org/notes/cfastie/04-18-2014/mobius-filter-o-matic) research notes.  
 

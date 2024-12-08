@@ -1,12 +1,18 @@
 ---
-nid: 11078
 title: New NDVI colormap
-path: public/static/notes/cfastie/08-26-2014/new-ndvi-colormap.md
+tagnames: balloon-mapping, near-infrared-camera, kite-mapping, ndvi, imagej, super-red, response:4720
+author: cfastie
+path: /notes/cfastie/08-26-2014/new-ndvi-colormap.md
+nid: 11078
 uid: 554
-tagnames: balloon-mapping,near-infrared-camera,kite-mapping,ndvi,imagej,super-red,response:4720
+
 ---
 
 # New NDVI colormap
+
+by [cfastie](../profile/cfastie) August 26, 2014 16:23
+
+August 26, 2014 16:23 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [ndvi](../tag/ndvi), [imagej](../tag/imagej), [super-red](../tag/super-red), [response:4720](../tag/response:4720)
 
 NDVI is an index (a unit-free number) related to how much photosynthetic activity is occurring. A single NDVI value can be determined for an individual leaf or a 200 acre corn field. Or an NDVI value can be determined for every pixel in a photograph of a leaf or of a corn field. If you have a value for every pixel, you can assign different colors to different ranges of NDVI values and make a false color map of how NDVI varies spatially. You can use any color scheme you want, and I have been using one that turns images into "heat maps" of photosynthetic activity by painting high NDVI values with hotter colors. A long time ago, someone suggested that this type of color map was not helpful to people with red/green color blindness like protanopia.
 .  

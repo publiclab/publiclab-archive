@@ -1,12 +1,18 @@
 ---
-nid: 13416
 title: Build Instructions For The DH 4.0 v4 Spectrometer
-path: public/static/notes/dhaffnersr/09-04-2016/build-instructions-for-the-dh-4-0-v4-spectrometer.md
-uid: 461120
 tagnames: 
+author: dhaffnersr
+path: /notes/dhaffnersr/09-04-2016/build-instructions-for-the-dh-4-0-v4-spectrometer.md
+nid: 13416
+uid: 461120
+
 ---
 
 # Build Instructions For The DH 4.0 v4 Spectrometer
+
+by [dhaffnersr](../profile/dhaffnersr) September 04, 2016 21:17
+
+September 04, 2016 21:17 | Tags: 
 
 ##**Here are the step by step instructions for building the spectrometer that I am using at this moment**
 

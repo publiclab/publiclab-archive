@@ -1,12 +1,18 @@
 ---
-nid: 15476
 title: Inactive Lists 
-path: public/static/wiki/inactive-lists.md
+tagnames: community, forum, chat, forums, lists, discussion, locked
+author: stevie
+path: /wiki/inactive-lists.md
+nid: 15476
 uid: 422561
-tagnames: community,forum,chat,forums,lists,discussion,locked
+
 ---
 
 # Inactive Lists 
+
+by [stevie](../profile/stevie)
+
+January 08, 2018 16:34 | Tags: [community](../tag/community), [forum](../tag/forum), [chat](../tag/chat), [forums](../tag/forums), [lists](../tag/lists), [discussion](../tag/discussion), [locked](../tag/locked)
 
 Below are lists that have been active on Public Lab in the past, but are currently inactive. (**Inactive in this case means that no one has posted to it in at least 18 months). There are still participants in each group. Any group can be joined and posted to moving it back to active status. 
 

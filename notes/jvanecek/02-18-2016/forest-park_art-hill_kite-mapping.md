@@ -1,12 +1,18 @@
 ---
-nid: 12709
 title: Forest Park_Art Hill_Kite Mapping
-path: public/static/notes/jvanecek/02-18-2016/forest-park_art-hill_kite-mapping.md
+tagnames: mapknitter, lat:38.6407743214, lon:-90.2935302258, publiclabriverratpack, first-time-poster
+author: jvanecek
+path: /notes/jvanecek/02-18-2016/forest-park_art-hill_kite-mapping.md
+nid: 12709
 uid: 465990
-tagnames: mapknitter,lat:38.6407743214,lon:-90.2935302258,publiclabriverratpack,first-time-poster
+
 ---
 
 # Forest Park_Art Hill_Kite Mapping
+
+by [jvanecek](../profile/jvanecek) February 18, 2016 20:01
+
+February 18, 2016 20:01 | Tags: [mapknitter](../tag/mapknitter), [lat:38.6407743214](../tag/lat:38.6407743214), [lon:-90.2935302258](../tag/lon:-90.2935302258), [publiclabriverratpack](../tag/publiclabriverratpack), [first-time-poster](../tag/first-time-poster)
 
 **Location:** Art Hill; Forest Park; St. Louis, MO
 

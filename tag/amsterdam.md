@@ -1,6 +1,6 @@
 # amsterdam
 
-9 notes and wiki pages
+9 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Waag Society: Citizen Science presentation](/notes/warren/6-27-2012/waag-society-citizen-science-presentation) by [warren](../profile/warren)
 - [Amsterdam kite satellite](/notes/keimpe/6-29-2012/amsterdam-kite-satellite) by [keimpe](../profile/keimpe)
@@ -10,4 +10,3 @@
 - [Amsterdam](/wiki/amsterdam) (wiki)
 - [Eclectis](/wiki/eclectis) (wiki)
 - [Eclectis: a week of civic science in Amsterdam North](/notes/warren/09-25-2013/eclectis-a-week-of-civic-science-in-amsterdam-north) by [warren](../profile/warren)
-- [Serviced Apartments in Singapore, London, New York, Amsterdam](/notes/mediaDx/04-22-2020/serviced-apartments-in-singapore-london-new-york-amsterdam) by [mediaDx](../profile/mediaDx)

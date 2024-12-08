@@ -1,12 +1,18 @@
 ---
-nid: 5531
 title: How to organize a public lab chapter
-path: public/static/notes/tlevine/1-10-2013/how-organize-public-lab-chapter.md
+tagnames: community, organizers, organizing, participation
+author: tlevine
+path: /notes/tlevine/1-10-2013/how-organize-public-lab-chapter.md
+nid: 5531
 uid: 40459
-tagnames: community,organizers,organizing,participation
+
 ---
 
 # How to organize a public lab chapter
+
+by [tlevine](../profile/tlevine) January 10, 2013 18:28
+
+January 10, 2013 18:28 | Tags: [community](../tag/community), [organizers](../tag/organizers), [organizing](../tag/organizing), [participation](../tag/participation)
 
 This is based on discussion at WinterCamp.
 

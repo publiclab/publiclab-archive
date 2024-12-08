@@ -3,6 +3,8 @@ uid: 457288
 created_at: 2015-11-11 02:52:29 UTC
 ---
 
+# DavidCary
+
 David Cary enjoys making the invisible visible -- ultrasonic, infrared, etc.
 
 David Cary does printed circuit board layout, embedded system programming, and remote data collection.

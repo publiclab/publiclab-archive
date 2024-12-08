@@ -1,12 +1,18 @@
 ---
-nid: 10599
 title: Public Lab community newsletter 6.20.14
-path: public/static/notes/Shannon/06-20-2014/public-lab-community-newsletter-6-20-14.md
+tagnames: newsletter, newsletter-archive
+author: Shannon
+path: /notes/Shannon/06-20-2014/public-lab-community-newsletter-6-20-14.md
+nid: 10599
 uid: 9
-tagnames: newsletter,newsletter-archive
+
 ---
 
 # Public Lab community newsletter 6.20.14
+
+by [Shannon](../profile/Shannon) June 20, 2014 23:50
+
+June 20, 2014 23:50 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
 
 This week in the Public Lab community newsletter get ready for OpenHour beginning June 30th, check out several upcoming water/shoreline monitoring and mapping projects in the Northeast and read an update on Hydrogen Sulfide sensing in the Wyoming gas patch. Enjoy!
 

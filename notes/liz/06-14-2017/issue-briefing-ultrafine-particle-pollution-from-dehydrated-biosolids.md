@@ -1,12 +1,18 @@
 ---
-nid: 14541
 title: Issue briefing: ultrafine particle pollution from dehydrated biosolids
-path: public/static/notes/liz/06-14-2017/issue-briefing-ultrafine-particle-pollution-from-dehydrated-biosolids.md
+tagnames: agriculture, new-york, air-quality, pm, particles, ultrafine, biosolids, slaughterhouse, pennsylvania, with:zengirl2, brief, issue-brief
+author: liz
+path: /notes/liz/06-14-2017/issue-briefing-ultrafine-particle-pollution-from-dehydrated-biosolids.md
+nid: 14541
 uid: 7
-tagnames: agriculture,new-york,air-quality,pm,particles,ultrafine,biosolids,slaughterhouse,pennsylvania,with:zengirl2,brief,issue-brief
+
 ---
 
 # Issue briefing: ultrafine particle pollution from dehydrated biosolids
+
+by [liz](../profile/liz) June 14, 2017 15:14
+
+June 14, 2017 15:14 | Tags: [agriculture](../tag/agriculture), [new-york](../tag/new-york), [air-quality](../tag/air-quality), [pm](../tag/pm), [particles](../tag/particles), [ultrafine](../tag/ultrafine), [biosolids](../tag/biosolids), [slaughterhouse](../tag/slaughterhouse), [pennsylvania](../tag/pennsylvania), [with:zengirl2](../tag/with:zengirl2), [brief](../tag/brief), [issue-brief](../tag/issue-brief)
 
 _lead image: co-product being dumped onto agricultural fields_
 

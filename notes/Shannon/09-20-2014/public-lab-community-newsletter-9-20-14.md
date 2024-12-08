@@ -1,12 +1,18 @@
 ---
-nid: 11166
 title: Public Lab community newsletter 9.20.14
-path: public/static/notes/Shannon/09-20-2014/public-lab-community-newsletter-9-20-14.md
+tagnames: newsletter, newsletter-archive
+author: Shannon
+path: /notes/Shannon/09-20-2014/public-lab-community-newsletter-9-20-14.md
+nid: 11166
 uid: 9
-tagnames: newsletter,newsletter-archive
+
 ---
 
 # Public Lab community newsletter 9.20.14
+
+by [Shannon](../profile/Shannon) September 20, 2014 14:18
+
+September 20, 2014 14:18 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
 
 This week in the Public Lab community newsletter, join the upcoming OpenHour, take advantage of the last week of back to school sales on kits and join events in NYC, Philadelphia and New Orleans over the next couple of weeks. Enjoy!
 

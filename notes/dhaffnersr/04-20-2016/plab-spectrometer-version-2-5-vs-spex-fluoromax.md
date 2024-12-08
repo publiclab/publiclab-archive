@@ -1,12 +1,18 @@
 ---
-nid: 13006
 title: Plab spectrometer version 2.5 vs Spex FluoroMax
-path: public/static/notes/dhaffnersr/04-20-2016/plab-spectrometer-version-2-5-vs-spex-fluoromax.md
-uid: 461120
 tagnames: 
+author: dhaffnersr
+path: /notes/dhaffnersr/04-20-2016/plab-spectrometer-version-2-5-vs-spex-fluoromax.md
+nid: 13006
+uid: 461120
+
 ---
 
 # Plab spectrometer version 2.5 vs Spex FluoroMax
+
+by [dhaffnersr](../profile/dhaffnersr) April 20, 2016 10:58
+
+April 20, 2016 10:58 | Tags: 
 
 Sample preparation:
 3 cuvettes used, 2 for sample dilutions and 1 for the blank (solvent.) I then filled cuvette # 1 with 1 drop of eosin y and the second cuvette with 2 drops of eosin y. I then filled each cuvette with 2/3 ethanol and mixed (put the cap on and hold it tight and shake a few times)

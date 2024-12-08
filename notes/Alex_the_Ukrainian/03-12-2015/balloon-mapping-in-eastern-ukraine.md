@@ -1,12 +1,18 @@
 ---
-nid: 11673
 title: Balloon mapping in Eastern Ukraine
-path: public/static/notes/Alex_the_Ukrainian/03-12-2015/balloon-mapping-in-eastern-ukraine.md
+tagnames: balloon-mapping, ukraine, first-time-poster
+author: Alex_the_Ukrainian
+path: /notes/Alex_the_Ukrainian/03-12-2015/balloon-mapping-in-eastern-ukraine.md
+nid: 11673
 uid: 436428
-tagnames: balloon-mapping,ukraine,first-time-poster
+
 ---
 
 # Balloon mapping in Eastern Ukraine
+
+by [Alex_the_Ukrainian](../profile/Alex_the_Ukrainian) March 12, 2015 21:07
+
+March 12, 2015 21:07 | Tags: [balloon-mapping](../tag/balloon-mapping), [ukraine](../tag/ukraine), [first-time-poster](../tag/first-time-poster)
 
 ###Experiments on eco-mapping using DIY balloons 
 

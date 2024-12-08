@@ -1,12 +1,18 @@
 ---
-nid: 11506
 title: Public Lab Barnraising 2014, day 1
-path: public/static/notes/cfastie/01-03-2015/public-lab-barnraising-2014-day-1.md
+tagnames: gulf-coast, louisiana, cocodrie, barnraising, lumcon, barnraising2014, response:11505
+author: cfastie
+path: /notes/cfastie/01-03-2015/public-lab-barnraising-2014-day-1.md
+nid: 11506
 uid: 554
-tagnames: gulf-coast,louisiana,cocodrie,barnraising,lumcon,barnraising2014,response:11505
+
 ---
 
 # Public Lab Barnraising 2014, day 1
+
+by [cfastie](../profile/cfastie) January 03, 2015 23:37
+
+January 03, 2015 23:37 | Tags: [gulf-coast](../tag/gulf-coast), [louisiana](../tag/louisiana), [cocodrie](../tag/cocodrie), [barnraising](../tag/barnraising), [lumcon](../tag/lumcon), [barnraising2014](../tag/barnraising2014), [response:11505](../tag/response:11505)
 
 Some photos from the first day of the Public Lab Barnraising on Friday, November 14, 2014.  
 .    

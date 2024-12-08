@@ -1,12 +1,18 @@
 ---
-nid: 7711
 title: ifarm-2013
-path: public/static/wiki/ifarm-2013.md
+tagnames: near-infrared-camera, ndvi, boston, lee, new-hampshire, infragram, ifarm
+author: warren
+path: /wiki/ifarm-2013.md
+nid: 7711
 uid: 1
-tagnames: near-infrared-camera,ndvi,boston,lee,new-hampshire,infragram,ifarm
+
 ---
 
 # ifarm-2013
+
+by [cfastie](../profile/cfastie), [warren](../profile/warren), [cversek](../profile/cversek), [donblair](../profile/donblair), [wward1400](../profile/wward1400)
+
+May 20, 2013 00:34 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [boston](../tag/boston), [lee](../tag/lee), [new-hampshire](../tag/new-hampshire), [infragram](../tag/infragram), [ifarm](../tag/ifarm)
 
 iFarm is a (hopefully annual!) meetup in Lee, New Hampshire, drawing the Public Lab, Green Start, and Farm Hack communities. It stands for: **Imaging For Agricultural Research and Management** and is hosted by Dorn Cox of Green Start and Farm Hack.
 

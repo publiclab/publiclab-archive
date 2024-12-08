@@ -1,12 +1,18 @@
 ---
-nid: 13121
 title: Supply Chain Project Images
-path: public/static/wiki/supply-chain-project-images.md
-uid: 1
 tagnames: 
+author: warren
+path: /wiki/supply-chain-project-images.md
+nid: 13121
+uid: 1
+
 ---
 
 # Supply Chain Project Images
+
+by [warren](../profile/warren)
+
+May 17, 2016 20:41 | Tags: 
 
 Collecting a set of images for the [BFAMFAPHD](http://bfamfaphd.com/) project's Supply Chain project. 
 

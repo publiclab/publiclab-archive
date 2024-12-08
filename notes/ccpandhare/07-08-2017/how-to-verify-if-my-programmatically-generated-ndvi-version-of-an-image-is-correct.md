@@ -1,12 +1,18 @@
 ---
-nid: 14634
 title: How to verify generated NDVI Images?
-path: public/static/notes/ccpandhare/07-08-2017/how-to-verify-if-my-programmatically-generated-ndvi-version-of-an-image-is-correct.md
-uid: 503543
 tagnames: question:ndvi
+author: ccpandhare
+path: /notes/ccpandhare/07-08-2017/how-to-verify-if-my-programmatically-generated-ndvi-version-of-an-image-is-correct.md
+nid: 14634
+uid: 503543
+
 ---
 
 # How to verify generated NDVI Images?
+
+by [ccpandhare](../profile/ccpandhare) July 08, 2017 12:50
+
+July 08, 2017 12:50 | Tags: [question:ndvi](../tag/question:ndvi)
 
 I am a Google Summer of Code Student working with Public Lab. I am working on the [Image Sequencer Project](https://github.com/publiclab/image-sequencer).
 

@@ -1,12 +1,18 @@
 ---
-nid: 13414
 title: Spectral Irradiance Study Section ll using The DH4.0v4 Spectrometer
-path: public/static/notes/dhaffnersr/09-03-2016/spectral-irradiance-study-section-ll-using-the-dh4-0v4-spectrometer.md
-uid: 461120
 tagnames: 
+author: dhaffnersr
+path: /notes/dhaffnersr/09-03-2016/spectral-irradiance-study-section-ll-using-the-dh4-0v4-spectrometer.md
+nid: 13414
+uid: 461120
+
 ---
 
 # Spectral Irradiance Study Section ll using The DH4.0v4 Spectrometer
+
+by [dhaffnersr](../profile/dhaffnersr) September 03, 2016 11:52
+
+September 03, 2016 11:52 | Tags: 
 
 ##**10 Scans using a 54W 1050 lumens Halogen bulb and 8 Scans using a 10W LED 2850K bright stik**
 

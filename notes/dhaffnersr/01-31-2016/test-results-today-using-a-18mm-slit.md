@@ -1,12 +1,18 @@
 ---
-nid: 12637
 title: Test results today using a .18mm slit
-path: public/static/notes/dhaffnersr/01-31-2016/test-results-today-using-a-18mm-slit.md
-uid: 461120
 tagnames: 
+author: dhaffnersr
+path: /notes/dhaffnersr/01-31-2016/test-results-today-using-a-18mm-slit.md
+nid: 12637
+uid: 461120
+
 ---
 
 # Test results today using a .18mm slit
+
+by [dhaffnersr](../profile/dhaffnersr) January 31, 2016 01:20
+
+January 31, 2016 01:20 | Tags: 
 
 Below are some of my test results for today, I replaced the slit that comes with the spectrometer kit and replaced it with an .18mm slit (I bought a set of different sizes at the publiclab store) I am very happy with results so far, I am getting a lot cleaner image and data from the re-sizing.
 

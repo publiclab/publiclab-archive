@@ -1,12 +1,18 @@
 ---
-nid: 16140
 title: Literature Review: Copper Rod Analysis
-path: public/static/notes/ErikHanley11/04-12-2018/literature-review-copper-rod-analysis.md
+tagnames: analysis, copper, corrosion, epoxies, sem, eds
+author: ErikHanley11
+path: /notes/ErikHanley11/04-12-2018/literature-review-copper-rod-analysis.md
+nid: 16140
 uid: 444638
-tagnames: analysis,copper,corrosion,epoxies,sem,eds
+
 ---
 
 # Literature Review: Copper Rod Analysis
+
+by [ErikHanley11](../profile/ErikHanley11) April 12, 2018 02:45
+
+April 12, 2018 02:45 | Tags: [analysis](../tag/analysis), [copper](../tag/copper), [corrosion](../tag/corrosion), [epoxies](../tag/epoxies), [sem](../tag/sem), [eds](../tag/eds)
 
 Researchers used a variety of tools to characterize copper corrosion on their copper samples. Typical tools included the scanning electron microscope (SEM) \[1,2,3\] and focused ion beam (FIB), \[1\] but they also used energy analysis dispersive X-ray spectroscopy (EDS), \[1,3\] X-ray diffraction (XRD), \[1\] secondary ion mass spectroscopy (SIMS), \[1\] X-ray photoelectron spectroscopy (XPS), \[2,3\] cathodic reduction, \[3\] and coulometric reduction. \[2\] Tools like the SEM and FIB were used to image the corrosion surfaces, not characterize corrosion compounds. XRD, cathodic reduction, and coulometric reduction were used to actually characterize the corrosion compounds. XRD analysis seemed to be the most effective in this analysis as cathodic reduction was reported to damage corrosion surfaces. \[3\]
 

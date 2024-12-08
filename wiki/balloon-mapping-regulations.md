@@ -1,12 +1,18 @@
 ---
-nid: 223
 title: Balloon Mapping Regulations
-path: public/static/wiki/balloon-mapping-regulations.md
+tagnames: balloon-mapping, regulations, parent:balloon-mapping
+author: warren
+path: /wiki/balloon-mapping-regulations.md
+nid: 223
 uid: 1
-tagnames: balloon-mapping,regulations,parent:balloon-mapping
+
 ---
 
 # Balloon Mapping Regulations
+
+by [mathew](../profile/mathew), [ann](../profile/ann), [MelissaN](../profile/MelissaN), [cfastie](../profile/cfastie), [liz](../profile/liz), [adam-griffith](../profile/adam-griffith), [warren](../profile/warren)
+
+May 06, 2011 17:19 | Tags: [balloon-mapping](../tag/balloon-mapping), [regulations](../tag/regulations), [parent:balloon-mapping](../tag/parent:balloon-mapping)
 
 ##United States##
 

@@ -1,11 +1,17 @@
 ---
-nid: 10122
 title: water-quality-colombia
-path: public/static/wiki/water-quality-colombia.md
-uid: 43651
 tagnames: 
+author: donblair
+path: /wiki/water-quality-colombia.md
+nid: 10122
+uid: 43651
+
 ---
 
 # water-quality-colombia
+
+by [donblair](../profile/donblair)
+
+March 06, 2014 17:05 | Tags: 
 
 # Advisors

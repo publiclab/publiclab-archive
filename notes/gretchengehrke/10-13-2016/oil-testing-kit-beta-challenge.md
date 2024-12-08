@@ -1,12 +1,18 @@
 ---
-nid: 13561
 title: Oil Testing Kit Beta Challenge
-path: public/static/notes/gretchengehrke/10-13-2016/oil-testing-kit-beta-challenge.md
+tagnames: spectrometry, oil-testing-kit, activity:experiment
+author: gretchengehrke
+path: /notes/gretchengehrke/10-13-2016/oil-testing-kit-beta-challenge.md
+nid: 13561
 uid: 430549
-tagnames: spectrometry,oil-testing-kit,activity:experiment
+
 ---
 
 # Oil Testing Kit Beta Challenge
+
+by [gretchengehrke](../profile/gretchengehrke) October 13, 2016 23:42
+
+October 13, 2016 23:42 | Tags: [spectrometry](../tag/spectrometry), [oil-testing-kit](../tag/oil-testing-kit), [activity:experiment](../tag/activity:experiment)
 
 _Image courtesy of _ 
 

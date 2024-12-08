@@ -1,12 +1,18 @@
 ---
-nid: 13395
 title: Reconfigurable Rig
-path: public/static/wiki/reconfigurable-rig.md
+tagnames: balloon-mapping, kite-mapping, photography, kap, photo-rig, kites, bap, pap, pole-mapping, diy-kites, kaptery, autodesk, reconfigurable-rig, activities:aerial-photography, camera-housing
+author: mathew
+path: /wiki/reconfigurable-rig.md
+nid: 13395
 uid: 4
-tagnames: balloon-mapping,kite-mapping,photography,kap,photo-rig,kites,bap,pap,pole-mapping,diy-kites,kaptery,autodesk,reconfigurable-rig,activities:aerial-photography,camera-housing
+
 ---
 
 # Reconfigurable Rig
+
+by [mathew](../profile/mathew)
+
+August 25, 2016 18:15 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [photography](../tag/photography), [kap](../tag/kap), [photo-rig](../tag/photo-rig), [kites](../tag/kites), [bap](../tag/bap), [pap](../tag/pap), [pole-mapping](../tag/pole-mapping), [diy-kites](../tag/diy-kites), [kaptery](../tag/kaptery), [autodesk](../tag/autodesk), [reconfigurable-rig](../tag/reconfigurable-rig), [activities:aerial-photography](../tag/activities:aerial-photography), [camera-housing](../tag/camera-housing)
 
 # Reconfigurable Rig
 

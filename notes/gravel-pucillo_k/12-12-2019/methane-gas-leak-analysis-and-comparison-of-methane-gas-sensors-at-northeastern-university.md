@@ -1,12 +1,18 @@
 ---
-nid: 21734
 title: Methane Gas Leak Analysis and Comparison of Methane Gas Sensors at Northeastern University
-path: public/static/notes/gravel-pucillo_k/12-12-2019/methane-gas-leak-analysis-and-comparison-of-methane-gas-sensors-at-northeastern-university.md
+tagnames: gas-leaks, first-time-poster, methane-sensors, lat:42.338842, lon:-71.090234
+author: gravel-pucillo_k
+path: /notes/gravel-pucillo_k/12-12-2019/methane-gas-leak-analysis-and-comparison-of-methane-gas-sensors-at-northeastern-university.md
+nid: 21734
 uid: 640329
-tagnames: gas-leaks,first-time-poster,methane-sensors,lat:42.338842,lon:-71.090234
+
 ---
 
 # Methane Gas Leak Analysis and Comparison of Methane Gas Sensors at Northeastern University
+
+by [gravel-pucillo_k](../profile/gravel-pucillo_k) December 12, 2019 04:56
+
+December 12, 2019 04:56 | Tags: [gas-leaks](../tag/gas-leaks), [first-time-poster](../tag/first-time-poster), [methane-sensors](../tag/methane-sensors), [lat:42.338842](../tag/lat:42.338842), [lon:-71.090234](../tag/lon:-71.090234)
 
 \*\*
 

@@ -1,12 +1,18 @@
 ---
-nid: 12881
 title: Sync-mod for ambient background removal -- first tests
-path: public/static/notes/donblair/03-23-2016/sync-mod-for-ambient-background-removal-first-tests.md
-uid: 43651
 tagnames: 
+author: donblair
+path: /notes/donblair/03-23-2016/sync-mod-for-ambient-background-removal-first-tests.md
+nid: 12881
+uid: 43651
+
 ---
 
 # Sync-mod for ambient background removal -- first tests
+
+by [donblair](../profile/donblair) March 23, 2016 18:01
+
+March 23, 2016 18:01 | Tags: 
 
 This is a quick follow-up to the idea posted [here](https://publiclab.org/notes/donblair/03-08-2016/removing-ambient-background-light-from-turbidity-measurements-through-signal-modulation).
 

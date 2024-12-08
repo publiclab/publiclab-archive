@@ -1,12 +1,18 @@
 ---
-nid: 5806
 title: Light socket tests for countertop spectrometer, 3d prints of mobile spectrometer
-path: public/static/notes/warren/1-30-2013/light-socket-tests-countertop-spectrometer-3d-prints-mobile-spectrometer.md
+tagnames: spectrometer, kickstarter
+author: warren
+path: /notes/warren/1-30-2013/light-socket-tests-countertop-spectrometer-3d-prints-mobile-spectrometer.md
+nid: 5806
 uid: 1
-tagnames: spectrometer,kickstarter
+
 ---
 
 # Light socket tests for countertop spectrometer, 3d prints of mobile spectrometer
+
+by [warren](../profile/warren) January 30, 2013 21:35
+
+January 30, 2013 21:35 | Tags: [spectrometer](../tag/spectrometer), [kickstarter](../tag/kickstarter)
 
 I've been working with Cort on final parts lists and a final design for the [countertop spec](/wiki/spectrometer-materials), and found some nice light sockets and base box combos today. Just wanted to post a quick update; that's it!
 

@@ -1,12 +1,18 @@
 ---
-nid: 12973
 title: Spectrometer Stability
-path: public/static/notes/stoft/04-14-2016/spectrometer-stability.md
+tagnames: spectrometer, intensity-calibration, intensity, stability, response:12962
+author: stoft
+path: /notes/stoft/04-14-2016/spectrometer-stability.md
+nid: 12973
 uid: 54025
-tagnames: spectrometer,intensity-calibration,intensity,stability,response:12962
+
 ---
 
 # Spectrometer Stability
+
+by [stoft](../profile/stoft) April 14, 2016 07:28
+
+April 14, 2016 07:28 | Tags: [spectrometer](../tag/spectrometer), [intensity-calibration](../tag/intensity-calibration), [intensity](../tag/intensity), [stability](../tag/stability), [response:12962](../tag/response:12962)
 
 **Abstract**
 

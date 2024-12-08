@@ -1,6 +1,6 @@
 # new-york
 
-20 notes and wiki pages
+20 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [New York City](/wiki/new-york-city) (wiki)
 - [Raising the Dead: Grassroots Mappers Help Look For America’s First Veterans Cemetery.](/notes/eymund-diegel/11-9-2012/raising-dead-grassroots-mapping-helps-look-america-s-first-veteran-s-c) by [eymund](../profile/eymund)
@@ -17,7 +17,6 @@
 - [Airhugger.org in Tonawonda](/notes/liz/09-18-2015/airhugger-org-in-tonawonda) by [liz](../profile/liz)
 - [Issue briefing: ultrafine particle pollution from dehydrated biosolids](/notes/liz/06-14-2017/issue-briefing-ultrafine-particle-pollution-from-dehydrated-biosolids) by [liz](../profile/liz)
 - [Adventures on the Gowanus on a July Evening](/notes/eustatic/07-12-2017/adventures-on-the-gowanus-on-a-july-evening) by [eustatic](../profile/eustatic)
-- [The Supreme Way to Reach to Newark Airport from Manhattan](/notes/UgoShuttle/05-25-2018/the-supreme-way-to-reach-to-newark-airport-from-manhattan) by [UgoShuttle](../profile/UgoShuttle)
 - [Hacking the Hudson River](/notes/iragersh/10-31-2018/hacking-the-hudson-river) by [iragersh](../profile/iragersh)
 - [Kelp](/notes/iragersh/10-31-2018/kelp) by [iragersh](../profile/iragersh)
 - [Building a case against Aluf Plastics -- polluting my town & I need help](/notes/michaelwma/12-14-2018/building-a-case-against-aluf-plastics-polluting-my-town-i-need-help) by [michaelwma](../profile/michaelwma)

@@ -1,12 +1,18 @@
 ---
-nid: 19969
 title: MapKnitter: Multiple image export
-path: public/static/notes/divyabaid16/07-03-2019/mapknitter-multiple-image-export.md
+tagnames: mapknitter, gsoc, export, soc, gsoc-2019, soc-2019, image
+author: divyabaid16
+path: /notes/divyabaid16/07-03-2019/mapknitter-multiple-image-export.md
+nid: 19969
 uid: 578652
-tagnames: mapknitter,gsoc,export,soc,gsoc-2019,soc-2019,image
+
 ---
 
 # MapKnitter: Multiple image export
+
+by [divyabaid16](../profile/divyabaid16) July 03, 2019 12:35
+
+July 03, 2019 12:35 | Tags: [mapknitter](../tag/mapknitter), [gsoc](../tag/gsoc), [export](../tag/export), [soc](../tag/soc), [gsoc-2019](../tag/gsoc-2019), [soc-2019](../tag/soc-2019), [image](../tag/image)
 
 MapKnitter
 is a map making open source tool. It is a unique tool which helps to

@@ -1,12 +1,18 @@
 ---
-nid: 6439
 title: 5th annual iLAND symposium
-path: public/static/notes/liz/3-19-2013/5th-annual-iland-symposium.md
+tagnames: new-york-city, ilab
+author: liz
+path: /notes/liz/3-19-2013/5th-annual-iland-symposium.md
+nid: 6439
 uid: 7
-tagnames: new-york-city,ilab
+
 ---
 
 # 5th annual iLAND symposium
+
+by [liz](../profile/liz) March 19, 2013 21:11
+
+March 19, 2013 21:11 | Tags: [new-york-city](../tag/new-york-city), [ilab](../tag/ilab)
 
 <a href="http://www.ilandart.org/iland-symposium/2013-iland-symposium">2013 iLAND symposium</a>
 

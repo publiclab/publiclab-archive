@@ -1,12 +1,18 @@
 ---
-nid: 11443
 title: Vehicular emission sense and control using sensors and actuators
-path: public/static/notes/manomac/12-08-2014/vehicular-emission-sense-and-control-using-sensors-and-actuators.md
-uid: 432444
 tagnames: 
+author: manomac
+path: /notes/manomac/12-08-2014/vehicular-emission-sense-and-control-using-sensors-and-actuators.md
+nid: 11443
+uid: 432444
+
 ---
 
 # Vehicular emission sense and control using sensors and actuators
+
+by [manomac](../profile/manomac) December 08, 2014 07:19
+
+December 08, 2014 07:19 | Tags: 
 
 ###What I want to do: sense and capture harmful gas at source: Vehiclular tail pipe. 
 

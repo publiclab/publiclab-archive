@@ -1,6 +1,6 @@
 # newcomers
 
-13 notes and wiki pages
+13 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Welcome to Public Lab](/wiki/welcome) (wiki)
 - [New Comer Landing Page](/wiki/new-comer-landing-page) (wiki)

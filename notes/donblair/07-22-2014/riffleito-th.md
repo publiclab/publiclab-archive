@@ -1,12 +1,18 @@
 ---
-nid: 10944
 title: Riffleito-TH
-path: public/static/notes/donblair/07-22-2014/riffleito-th.md
-uid: 43651
 tagnames: riffle
+author: donblair
+path: /notes/donblair/07-22-2014/riffleito-th.md
+nid: 10944
+uid: 43651
+
 ---
 
 # Riffleito-TH
+
+by [donblair](../profile/donblair) July 22, 2014 15:40
+
+July 22, 2014 15:40 | Tags: [riffle](../tag/riffle)
 
 (Pronounced like you'd pronounce plural of "Riffleito", if your mouth were full of crackers.)
 

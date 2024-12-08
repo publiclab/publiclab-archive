@@ -1,12 +1,18 @@
 ---
-nid: 11425
 title: Thermal imaging of Refrigerators and Milk 
-path: public/static/notes/williammanning/12-03-2014/thermal-imaging-of-refrigerators-and-milk.md
+tagnames: thermal-photography, thermal-flashlight, thermal-imaging, northeastern, milk, insulation, refrigerators, heat, upgrade:thermal-flashlight, replication:625
+author: williammanning
+path: /notes/williammanning/12-03-2014/thermal-imaging-of-refrigerators-and-milk.md
+nid: 11425
 uid: 432240
-tagnames: thermal-photography,thermal-flashlight,thermal-imaging,northeastern,milk,insulation,refrigerators,heat,upgrade:thermal-flashlight,replication:625
+
 ---
 
 # Thermal imaging of Refrigerators and Milk 
+
+by [williammanning](../profile/williammanning) December 03, 2014 05:00
+
+December 03, 2014 05:00 | Tags: [thermal-photography](../tag/thermal-photography), [thermal-flashlight](../tag/thermal-flashlight), [thermal-imaging](../tag/thermal-imaging), [northeastern](../tag/northeastern), [milk](../tag/milk), [insulation](../tag/insulation), [refrigerators](../tag/refrigerators), [heat](../tag/heat), [upgrade:thermal-flashlight](../tag/upgrade:thermal-flashlight), [replication:625](../tag/replication:625)
 
 ## Thermal Flashlight Design
 Originally the Arduino and breadboard were placed inside a thin DayQuil box for housing. The battery was attached to the backside of the box externally and holes were created in the box for both the sensor and the LED. We took this device to a local convenience store to test the thermal flashlight and we ran into some trouble. The sensor was set back in the box and this led to confounding light from the LED. Even inside a store refrigerator, the LED was only fluctuating between a light green and a yellow color, which indicated that the walk in fridge was around 55 degrees due to our Arduino programmed settings. Thus, we took the thermal flashlight back to reassemble the housing for better overall results. 

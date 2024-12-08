@@ -1,12 +1,18 @@
 ---
-nid: 907
 title: Picavet Rigging
-path: public/static/wiki/picavet-rigging.md
+tagnames: balloon-mapping, kite-mapping, photo-rig
+author: mathew
+path: /wiki/picavet-rigging.md
+nid: 907
 uid: 4
-tagnames: balloon-mapping,kite-mapping,photo-rig
+
 ---
 
 # Picavet Rigging
+
+by [cfastie](../profile/cfastie), [Juan](../profile/Juan), [cindy_excites](../profile/cindy_excites), [mathew](../profile/mathew)
+
+March 08, 2012 21:21 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [photo-rig](../tag/photo-rig)
 
 <a href="https://publiclab.org/sites/default/files/DSCN1670_0.jpg" title="Jessi Breen's Picavet"><img src="https://publiclab.org/sites/default/files/DSCN1670_0.jpg" width="500" height="375" alt="Jessi Breen's Picavet" /></a>
 

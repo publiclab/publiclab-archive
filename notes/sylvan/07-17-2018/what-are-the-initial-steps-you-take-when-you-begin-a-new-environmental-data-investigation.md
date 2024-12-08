@@ -1,12 +1,18 @@
 ---
-nid: 16734
 title: What are the initial steps you take when you begin a new environmental data investigation?
-path: public/static/notes/sylvan/07-17-2018/what-are-the-initial-steps-you-take-when-you-begin-a-new-environmental-data-investigation.md
+tagnames: community, website, education, kits, help, web, tool, question:general, method, study-design, citizenscience, question:study-design, first-time-poster
+author: sylvan
+path: /notes/sylvan/07-17-2018/what-are-the-initial-steps-you-take-when-you-begin-a-new-environmental-data-investigation.md
+nid: 16734
 uid: 540012
-tagnames: community,website,education,kits,help,web,tool,question:general,method,study-design,citizenscience,question:study-design,first-time-poster
+
 ---
 
 # What are the initial steps you take when you begin a new environmental data investigation?
+
+by [sylvan](../profile/sylvan) July 17, 2018 20:57
+
+July 17, 2018 20:57 | Tags: [community](../tag/community), [website](../tag/website), [education](../tag/education), [kits](../tag/kits), [help](../tag/help), [web](../tag/web), [tool](../tag/tool), [question:general](../tag/question:general), [method](../tag/method), [study-design](../tag/study-design), [citizenscience](../tag/citizenscience), [question:study-design](../tag/question:study-design), [first-time-poster](../tag/first-time-poster)
 
 I am developing tools that help people to interpret data about local environmental issues and make scientifically valid arguments about what they learn. The tools will provide an easy-to-use user interface for exploring aggregated, curated data and will allow users to produce reports written in easy to understand language with charts. Users will be able to select the datasets they want to use all within one system that scaffolds data investigations without requiring statistical knowledge. People who use these tools do not need to understand research protocols or statistics in order to create scientifically-valid arguments.
 

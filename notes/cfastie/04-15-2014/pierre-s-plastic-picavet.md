@@ -1,12 +1,18 @@
 ---
-nid: 10311
 title: Pierre's plastic Picavet
-path: public/static/notes/cfastie/04-15-2014/pierre-s-plastic-picavet.md
+tagnames: balloon-mapping, kite-mapping, vermont, picavet, kap, 3d-printing, makerbot, response:10230, titan, redstone
+author: cfastie
+path: /notes/cfastie/04-15-2014/pierre-s-plastic-picavet.md
+nid: 10311
 uid: 554
-tagnames: balloon-mapping,kite-mapping,vermont,picavet,kap,3d-printing,makerbot,response:10230,titan,redstone
+
 ---
 
 # Pierre's plastic Picavet
+
+by [cfastie](../profile/cfastie) April 15, 2014 16:19
+
+April 15, 2014 16:19 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [vermont](../tag/vermont), [picavet](../tag/picavet), [kap](../tag/kap), [3d-printing](../tag/3d-printing), [makerbot](../tag/makerbot), [response:10230](../tag/response:10230), [titan](../tag/titan), [redstone](../tag/redstone)
 
 I have been positioning the [Redstone Rig]( http://publiclab.org/notes/cfastie/03-27-2014/the-redstone-rig-is-ready) as an upgrade to the soda bottle rig for holding cameras for aerial photography. By itself, the Redstone Rig allows easier mounting of the camera, more reliable aiming of the camera, better access to the camera controls and LCD, and modular attachment to different suspension systems. 
 

@@ -1,12 +1,18 @@
 ---
-nid: 9677
 title: Spectral Workbench Offline
-path: public/static/notes/warren/10-28-2013/spectral-workbench-offline.md
+tagnames: spectrometer, spectralworkbench, offline
+author: warren
+path: /notes/warren/10-28-2013/spectral-workbench-offline.md
+nid: 9677
 uid: 1
-tagnames: spectrometer,spectralworkbench,offline
+
 ---
 
 # Spectral Workbench Offline
+
+by [warren](../profile/warren) October 28, 2013 23:31
+
+October 28, 2013 23:31 | Tags: [spectrometer](../tag/spectrometer), [spectralworkbench](../tag/spectralworkbench), [offline](../tag/offline)
 
 I spoke with some Firefox OS folks at Mozfest this weekend about the "offline manifest" system in modern browsers, and was able to put together a basic offline mode for Spectral Workbench. 
 

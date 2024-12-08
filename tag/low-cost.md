@@ -1,6 +1,6 @@
 # low-cost
 
-7 notes and wiki pages
+7 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Make a $25 minimal-helium balloon mapping rig](/notes/natevw/07-03-2014/25-minimal-helium-balloon-mapping-rig) by [natevw](../profile/natevw)
 - [DIY Formaldehyde Test Kit](/notes/nshapiro/11-03-2014/diy-formaldehyde-test-kit) by [nshapiro](../profile/nshapiro)

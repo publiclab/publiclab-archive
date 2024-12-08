@@ -1,12 +1,18 @@
 ---
-nid: 12659
 title: Baseline noise removal test in Spectral Workbench 2
-path: public/static/notes/warren/02-05-2016/noise-removal-test-in-spectral-workbench-2.md
+tagnames: spectrometry, spectral-workbench, operations, noise-reduction, spectral-workbench-2
+author: warren
+path: /notes/warren/02-05-2016/noise-removal-test-in-spectral-workbench-2.md
+nid: 12659
 uid: 1
-tagnames: spectrometry,spectral-workbench,operations,noise-reduction,spectral-workbench-2
+
 ---
 
 # Baseline noise removal test in Spectral Workbench 2
+
+by [warren](../profile/warren) February 05, 2016 16:20
+
+February 05, 2016 16:20 | Tags: [spectrometry](../tag/spectrometry), [spectral-workbench](../tag/spectral-workbench), [operations](../tag/operations), [noise-reduction](../tag/noise-reduction), [spectral-workbench-2](../tag/spectral-workbench-2)
 
 ###What I want to do
 

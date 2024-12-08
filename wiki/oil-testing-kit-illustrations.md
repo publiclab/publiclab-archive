@@ -1,12 +1,18 @@
 ---
-nid: 10950
 title: Oil Testing Kit Illustrations
-path: public/static/wiki/oil-testing-kit-illustrations.md
+tagnames: spectrometer, guides, fluorescence, oil-testing-kit, parent:oil-testing-kit, illustrations
+author: warren
+path: /wiki/oil-testing-kit-illustrations.md
+nid: 10950
 uid: 1
-tagnames: spectrometer,guides,fluorescence,oil-testing-kit,parent:oil-testing-kit,illustrations
+
 ---
 
 # Oil Testing Kit Illustrations
+
+by [warren](../profile/warren)
+
+July 23, 2014 00:18 | Tags: [spectrometer](../tag/spectrometer), [guides](../tag/guides), [fluorescence](../tag/fluorescence), [oil-testing-kit](../tag/oil-testing-kit), [parent:oil-testing-kit](../tag/parent:oil-testing-kit), [illustrations](../tag/illustrations)
 
 ##Illustrations
 

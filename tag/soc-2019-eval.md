@@ -1,6 +1,6 @@
 # soc-2019-eval
 
-12 notes and wiki pages
+12 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [SOC 2019:  A small proposal for global environmental monitoring ](/notes/MaggPi/03-30-2019/soc-2019-a-small-proposal-for-global-environmental-monitoring) by [MaggPi](../profile/MaggPi)
 - [Google Summer of Code: Second Evaluations](/notes/rexagod/07-21-2019/google-summer-of-code-second-evaluations) by [rexagod](../profile/rexagod)

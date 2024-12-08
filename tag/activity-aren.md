@@ -1,6 +1,6 @@
 # activity-aren
 
-6 notes and wiki pages
+6 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Winds aloft: sensor overload](/notes/cfastie/10-17-2017/winds-aloft-sensor-overload) by [cfastie](../profile/cfastie)
 - [Winds aloft: and a camera too](/notes/cfastie/10-28-2017/winds-aloft-and-a-camera-too) by [cfastie](../profile/cfastie)

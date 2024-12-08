@@ -1,12 +1,18 @@
 ---
-nid: 8759
 title: A Spectrometric Tool for Hydrocarbon Spill Response
-path: public/static/notes/id022012/07-08-2013/a-spectrometric-tool-for-hydrocarbon-spill-response.md
+tagnames: spectrometer, uv, oil, laser, fluorescence, spill, quebec, canada, municipal, led, aqueous, hydrocarbon, optic, fiber, petroleum, first-time-poster
+author: id022012
+path: /notes/id022012/07-08-2013/a-spectrometric-tool-for-hydrocarbon-spill-response.md
+nid: 8759
 uid: 60504
-tagnames: spectrometer,uv,oil,laser,fluorescence,spill,quebec,canada,municipal,led,aqueous,hydrocarbon,optic,fiber,petroleum,first-time-poster
+
 ---
 
 # A Spectrometric Tool for Hydrocarbon Spill Response
+
+by [id022012](../profile/id022012) July 08, 2013 23:33
+
+July 08, 2013 23:33 | Tags: [spectrometer](../tag/spectrometer), [uv](../tag/uv), [oil](../tag/oil), [laser](../tag/laser), [fluorescence](../tag/fluorescence), [spill](../tag/spill), [quebec](../tag/quebec), [canada](../tag/canada), [municipal](../tag/municipal), [led](../tag/led), [aqueous](../tag/aqueous), [hydrocarbon](../tag/hydrocarbon), [optic](../tag/optic), [fiber](../tag/fiber), [petroleum](../tag/petroleum), [first-time-poster](../tag/first-time-poster)
 
 **Feasibility study for rapid, low cost, in situ visible light spectrum measurement and analysis of artificially induced fluorescence in aqueous samples as a mean to detect, identify and quantify light to medium fuels and oils.**
 

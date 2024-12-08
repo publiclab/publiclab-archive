@@ -1,6 +1,6 @@
 # barnstar-basic
 
-185 notes and wiki pages
+185 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Broadening](/notes/cfastie/2-26-2013/broadening) by [cfastie](../profile/cfastie)
 - [Superblue](/notes/cfastie/04-20-2013/superblue) by [cfastie](../profile/cfastie)
@@ -174,7 +174,6 @@
 - [Outreachy Final Blog : An awesome Journey](/notes/lekhidugtal/08-31-2019/outreachy-final-blog) by [lekhidugtal](../profile/lekhidugtal)
 - [Building Snake Plant Air Remediation kit in Bangalore, India](/notes/deeptalaxmibharadwaj/09-02-2019/building-snake-plant-air-remediation-kit-in-bangalore-india) by [deeptalaxmibharadwaj](../profile/deeptalaxmibharadwaj)
 - [Open source spectrometer for detecting laser harmonics. ](/notes/wln215/12-09-2019/open-source-spectrometer-for-detecting-laser-harmonics) by [wln215](../profile/wln215)
-- [Chennai escorts services](/notes/piyasidayanmain/12-15-2019/chennai-escorts-services) by [piyasidayanmain](../profile/piyasidayanmain)
 - [Learning for Justice in a Climate Changing World ](/notes/amocorro/06-23-2020/learning-for-justice-in-a-climate-changing-world) by [amocorro](../profile/amocorro)
 - [DIY Satellite Ground Station](/notes/sashae/06-26-2020/diy-satellite-ground-station) by [sashae](../profile/sashae)
 - [PiCamera filter mounting system.](/notes/wln215/08-25-2020/picamera-filter-mounting-system) by [wln215](../profile/wln215)

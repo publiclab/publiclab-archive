@@ -1,12 +1,18 @@
 ---
-nid: 11049
 title: 2011 Barataria Bay mapping fieldnotes, maps, mapping tracks, images
-path: public/static/notes/Shannon/08-14-2014/2011-barataria-bay-mapping-fieldnotes-maps-mapping-tracks-images.md
+tagnames: gulf-coast, barataria-bay, wetlands, oil-spill, barataria, with:warren, with:gonzoearth, with:adam-griffith
+author: Shannon
+path: /notes/Shannon/08-14-2014/2011-barataria-bay-mapping-fieldnotes-maps-mapping-tracks-images.md
+nid: 11049
 uid: 9
-tagnames: gulf-coast,barataria-bay,wetlands,oil-spill,barataria,with:warren,with:gonzoearth,with:adam-griffith
+
 ---
 
 # 2011 Barataria Bay mapping fieldnotes, maps, mapping tracks, images
+
+by [Shannon](../profile/Shannon) August 14, 2014 18:15
+
+August 14, 2014 18:15 | Tags: [gulf-coast](../tag/gulf-coast), [barataria-bay](../tag/barataria-bay), [wetlands](../tag/wetlands), [oil-spill](../tag/oil-spill), [barataria](../tag/barataria), [with:warren](../tag/with:warren), [with:gonzoearth](../tag/with:gonzoearth), [with:adam-griffith](../tag/with:adam-griffith)
 
 When writing an intro to the upcoming Barataria mapping publication, I came across a Google Doc last edited in December 2011, with @Adam-Griffith, @gonzoearth and @warren as shared collaborators. I'm posting the contents in this research note so it's available to the current 2014 Barataria mapping team including @Stevie, @eustatic @astoicof @danbeavers and @Matt_P.
 

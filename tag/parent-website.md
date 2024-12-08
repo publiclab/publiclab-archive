@@ -1,6 +1,6 @@
 # parent-website
 
-14 notes and wiki pages
+14 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Sitemap](/wiki/sitemap) (wiki)
 - [Issues](/wiki/issues) (wiki)

@@ -1,12 +1,18 @@
 ---
-nid: 22995
 title: Inline maps examples
-path: public/static/wiki/inline-maps-examples.md
+tagnames: parent:inline-maps, inline-maps
+author: warren
+path: /wiki/inline-maps-examples.md
+nid: 22995
 uid: 1
-tagnames: parent:inline-maps,inline-maps
+
 ---
 
 # Inline maps examples
+
+by [warren](../profile/warren)
+
+March 03, 2020 18:00 | Tags: [parent:inline-maps](../tag/parent:inline-maps), [inline-maps](../tag/inline-maps)
 
 This page demonstrates how to use an embedded iframe to do more customized interactive maps, if the [inline maps](/inline-maps) system does not provide enough customizability. 
 

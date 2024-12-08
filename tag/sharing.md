@@ -1,6 +1,6 @@
 # sharing
 
-3 notes and wiki pages
+3 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Sharing Images](/wiki/sharing-images) (wiki)
 - [Sharing](/wiki/sharing) (wiki)

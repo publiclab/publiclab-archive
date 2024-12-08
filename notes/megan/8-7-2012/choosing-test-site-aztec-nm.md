@@ -1,12 +1,18 @@
 ---
-nid: 3181
 title: Choosing Test Sites in Aztec, NM
-path: public/static/notes/megan/8-7-2012/choosing-test-site-aztec-nm.md
+tagnames: hydrogen-sulfide-sensing, hydrogen-sulfide, h2s, study-design, h2s-photopaper, test-sites
+author: megan
+path: /notes/megan/8-7-2012/choosing-test-site-aztec-nm.md
+nid: 3181
 uid: 775
-tagnames: hydrogen-sulfide-sensing,hydrogen-sulfide,h2s,study-design,h2s-photopaper,test-sites
+
 ---
 
 # Choosing Test Sites in Aztec, NM
+
+by [megan](../profile/megan) August 07, 2012 23:10
+
+August 07, 2012 23:10 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s), [study-design](../tag/study-design), [h2s-photopaper](../tag/h2s-photopaper), [test-sites](../tag/test-sites)
 
 Choosing Test Sites in Aztec, New Mexico.
 Photopaper, Hydrogen Sulfide Sensing 

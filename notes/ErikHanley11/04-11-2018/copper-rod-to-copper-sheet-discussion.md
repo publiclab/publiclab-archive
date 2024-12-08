@@ -1,12 +1,18 @@
 ---
-nid: 16134
 title: Copper Rod to Copper Sheet Discussion
-path: public/static/notes/ErikHanley11/04-11-2018/copper-rod-to-copper-sheet-discussion.md
+tagnames: hydrogen-sulfide-sensing, hydrogen-sulfide, air-quality, h2s, h2s-copper-pipe, h2s-copper-pipe-background, copper-sheet, copper-rod
+author: ErikHanley11
+path: /notes/ErikHanley11/04-11-2018/copper-rod-to-copper-sheet-discussion.md
+nid: 16134
 uid: 444638
-tagnames: hydrogen-sulfide-sensing,hydrogen-sulfide,air-quality,h2s,h2s-copper-pipe,h2s-copper-pipe-background,copper-sheet,copper-rod
+
 ---
 
 # Copper Rod to Copper Sheet Discussion
+
+by [ErikHanley11](../profile/ErikHanley11) April 11, 2018 23:47
+
+April 11, 2018 23:47 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](../tag/hydrogen-sulfide), [air-quality](../tag/air-quality), [h2s](../tag/h2s), [h2s-copper-pipe](../tag/h2s-copper-pipe), [h2s-copper-pipe-background](../tag/h2s-copper-pipe-background), [copper-sheet](../tag/copper-sheet), [copper-rod](../tag/copper-rod)
 
 This research note discusses the advantages of using copper sheets instead of copper rods as the testing method for hydrogen sulfide (H2S) and other corrosive gas presence. Copper rods have been used by many community members in their own environmental testing on Public Lab. The original method for creating these tests can be found [here](https://publiclab.org/notes/sharon-wilson/3-21-2012/copper-rod-test-h2s). However, copper sheets corrode just the same as copper rods, but they are easier to visually analyze and assess their chemical composition. Copper rods cylindrical form makes it difficult to take complete 360˚ pictures of them, as well as use analytical tools to characterize their chemical composition.
 

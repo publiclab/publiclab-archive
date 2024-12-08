@@ -1,12 +1,18 @@
 ---
-nid: 14491
 title: moshaver iso
-path: public/static/wiki/moshaver-iso.md
-uid: 508276
 tagnames: first-time-poster
+author: aryan
+path: /wiki/moshaver-iso.md
+nid: 14491
+uid: 508276
+
 ---
 
 # moshaver iso
+
+by [aryan](../profile/aryan)
+
+May 31, 2017 06:13 | Tags: [first-time-poster](../tag/first-time-poster)
 
 [مشاور ایزو](http://agiso.ir/)
 شرکت آریان گستر ارائه خدمات [مشاوره ایزو](http://agiso.ir/) و

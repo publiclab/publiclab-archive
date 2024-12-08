@@ -1,12 +1,18 @@
 ---
-nid: 4406
 title: Classroom Flame Spectroscopy
-path: public/static/notes/straylight/10-14-2012/classroom-flame-spectroscopy.md
+tagnames: spectrometer, education, flame-spectroscopy, flame, spectroscope, science, metal, bunsen, activity:spectrometry, activity:science-fair, activity:classroom, first-time-poster
+author: straylight
+path: /notes/straylight/10-14-2012/classroom-flame-spectroscopy.md
+nid: 4406
 uid: 43047
-tagnames: spectrometer,education,flame-spectroscopy,flame,spectroscope,science,metal,bunsen,activity:spectrometry,activity:science-fair,activity:classroom,first-time-poster
+
 ---
 
 # Classroom Flame Spectroscopy
+
+by [straylight](../profile/straylight) October 14, 2012 09:23
+
+October 14, 2012 09:23 | Tags: [spectrometer](../tag/spectrometer), [education](../tag/education), [flame-spectroscopy](../tag/flame-spectroscopy), [flame](../tag/flame), [spectroscope](../tag/spectroscope), [science](../tag/science), [metal](../tag/metal), [bunsen](../tag/bunsen), [activity:spectrometry](../tag/activity:spectrometry), [activity:science-fair](../tag/activity:science-fair), [activity:classroom](../tag/activity:classroom), [first-time-poster](../tag/first-time-poster)
 
 A group of students and I put the PLOTS spectroscope to use observing the spectra from solutions of common metal salts that were excited in the flame of a bunsen burner. We calibrated the spectroscope using a flouro in the classroom and identified lines in the spectra of Fe (III), Ca(II), Na(I), Cu(II) and Ba(II).
 <img src="https://publiclab.org/sites/default/files/imagefield_thumbs/sDSCN3933.jpg?1350206850"/>

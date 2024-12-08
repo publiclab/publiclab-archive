@@ -1,12 +1,18 @@
 ---
-nid: 13788
 title: Free Phototrap in Ateneo Atlántico de Prototipado and more
-path: public/static/notes/geeksha/12-15-2016/free-phototrap-in-ateneo-atlantico-de-prototipado-and-more.md
+tagnames: spain, eu, prototyping-lab, cultural-mediation, diy-citizen-science-community, galicia
+author: geeksha
+path: /notes/geeksha/12-15-2016/free-phototrap-in-ateneo-atlantico-de-prototipado-and-more.md
+nid: 13788
 uid: 500063
-tagnames: spain,eu,prototyping-lab,cultural-mediation,diy-citizen-science-community,galicia
+
 ---
 
 # Free Phototrap in Ateneo Atlántico de Prototipado and more
+
+by [geeksha](../profile/geeksha) December 15, 2016 15:09
+
+December 15, 2016 15:09 | Tags: [spain](../tag/spain), [eu](../tag/eu), [prototyping-lab](../tag/prototyping-lab), [cultural-mediation](../tag/cultural-mediation), [diy-citizen-science-community](../tag/diy-citizen-science-community), [galicia](../tag/galicia)
 
 ###DIY/DIWO Free Citizen Science Community: the project was started with habitat association and Ateneo Atlántico de Prototipado  (a lab which I was coordinating) science, society and technology laboratory.
 

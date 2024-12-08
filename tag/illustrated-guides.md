@@ -1,6 +1,6 @@
 # illustrated-guides
 
-6 notes and wiki pages
+6 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [T-shirt Guide](/wiki/t-shirt-guide) (wiki)
 - [Guides](/wiki/guides) (wiki)

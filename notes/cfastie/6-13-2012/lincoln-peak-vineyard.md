@@ -1,12 +1,18 @@
 ---
-nid: 2472
 title: Lincoln Peak Vineyard
-path: public/static/notes/cfastie/6-13-2012/lincoln-peak-vineyard.md
+tagnames: near-infrared-camera, kite-mapping, ndvi, nir, vineyard
+author: cfastie
+path: /notes/cfastie/6-13-2012/lincoln-peak-vineyard.md
+nid: 2472
 uid: 554
-tagnames: near-infrared-camera,kite-mapping,ndvi,nir,vineyard
+
 ---
 
 # Lincoln Peak Vineyard
+
+by [cfastie](../profile/cfastie) June 13, 2012 18:45
+
+June 13, 2012 18:45 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [ndvi](../tag/ndvi), [nir](../tag/nir), [vineyard](../tag/vineyard)
 
 A 10 to 15 mph south wind over the [Lincoln Peak Vineyard](http://www.lincolnpeakvineyard.com/) in New Haven, Vermont made it easy for the Levitation Delta kite to loft the PLOTS NIR/VIS camera pair on Monday.  The MK111 timer was signaling to shoot every 16 seconds and the A495 cameras captured more than 300 synchronous jpeg pairs.  When I pulled it down after two hours to see if everything was still working, the timer battery was dead (sad), but it had stopped just 4 minutes earlier (happy), so both the endurance testing and the mapping flight were successful (whew). The batteries running the MK111 timer (2x 4LR44 6v) had previously taken more than 100 photos, so they triggered the cameras about 450 times before dying. UPDATE: Subsequent use of this type of battery provided [far worse results](http://publiclaboratory.org/notes/cfastie/7-3-2012/timer-battery-disappoints) so I [modified the timer to use less power](http://publiclaboratory.org/notes/cfastie/7-12-2012/shutter-timer-upgrade).
 

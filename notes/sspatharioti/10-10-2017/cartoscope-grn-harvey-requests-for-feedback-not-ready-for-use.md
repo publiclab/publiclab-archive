@@ -1,12 +1,18 @@
 ---
-nid: 15017
 title: Cartoscope GRN Harvey: Requests for feedback -- not ready for use
-path: public/static/notes/sspatharioti/10-10-2017/cartoscope-grn-harvey-requests-for-feedback-not-ready-for-use.md
+tagnames: image-sorting, sheen, oil-sheen, cartoscope, harvey, first-time-poster
+author: sspatharioti
+path: /notes/sspatharioti/10-10-2017/cartoscope-grn-harvey-requests-for-feedback-not-ready-for-use.md
+nid: 15017
 uid: 462488
-tagnames: image-sorting,sheen,oil-sheen,cartoscope,harvey,first-time-poster
+
 ---
 
 # Cartoscope GRN Harvey: Requests for feedback -- not ready for use
+
+by [sspatharioti](../profile/sspatharioti) October 10, 2017 16:50
+
+October 10, 2017 16:50 | Tags: [image-sorting](../tag/image-sorting), [sheen](../tag/sheen), [oil-sheen](../tag/oil-sheen), [cartoscope](../tag/cartoscope), [harvey](../tag/harvey), [first-time-poster](../tag/first-time-poster)
 
 # Harvey Response: Oil Sheen Identification using Cartoscope
 

@@ -1,12 +1,18 @@
 ---
-nid: 10666
 title: Infragram kite mapping at Fab10 Barcelona
-path: public/static/notes/warren/07-09-2014/infragram-kite-mapping-at-fab10-barcelona.md
+tagnames: near-infrared-camera, kite-mapping, barcelona, spain, infragram, mobius, fab10, infragram-point-shoot, mini-kite-kit
+author: warren
+path: /notes/warren/07-09-2014/infragram-kite-mapping-at-fab10-barcelona.md
+nid: 10666
 uid: 1
-tagnames: near-infrared-camera,kite-mapping,barcelona,spain,infragram,mobius,fab10,infragram-point-shoot,mini-kite-kit
+
 ---
 
 # Infragram kite mapping at Fab10 Barcelona
+
+by [warren](../profile/warren) July 09, 2014 08:42
+
+July 09, 2014 08:42 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [barcelona](../tag/barcelona), [spain](../tag/spain), [infragram](../tag/infragram), [mobius](../tag/mobius), [fab10](../tag/fab10), [infragram-point-shoot](../tag/infragram-point-shoot), [mini-kite-kit](../tag/mini-kite-kit)
 
 I held two workshops at Fab 10 (http://fab10.org) where we launched an [Infragram](/wiki/infragram) Point & Shoot (a modified Mobius Action Cam) above the D-Hub and next to the Torre Agbar, which was pretty photogenic. 
 

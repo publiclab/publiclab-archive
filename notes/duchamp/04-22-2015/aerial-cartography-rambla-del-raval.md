@@ -1,12 +1,18 @@
 ---
-nid: 11762
 title: Aerial Cartography. Rambla del Raval
-path: public/static/notes/duchamp/04-22-2015/aerial-cartography-rambla-del-raval.md
+tagnames: rambla, del, raval
+author: duchamp
+path: /notes/duchamp/04-22-2015/aerial-cartography-rambla-del-raval.md
+nid: 11762
 uid: 439194
-tagnames: rambla,del,raval
+
 ---
 
 # Aerial Cartography. Rambla del Raval
+
+by [duchamp](../profile/duchamp) April 22, 2015 15:37
+
+April 22, 2015 15:37 | Tags: [rambla](../tag/rambla), [del](../tag/del), [raval](../tag/raval)
 
 In this ninth edition of the NOVUM Festival, researchers, scientists, artists, creators, students and entrepreneurs will take innovative science and technology out into the streets. Barcelona will become a huge citizen laboratory in which to experiment, build, learn, and enjoy a programme of actions and activities for all ages.
 

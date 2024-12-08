@@ -1,12 +1,18 @@
 ---
-nid: 11137
 title: Washington University visits the Gulf Coast and Maps! 
-path: public/static/notes/stevie/09-12-2014/washington-university-visits-the-gulf-coast-and-maps.md
+tagnames: gulf-coast, balloon-mapping, great-photos, barnstar:photo-documentation, washustlouis, washu-stlouis, urbanwaters
+author: stevie
+path: /notes/stevie/09-12-2014/washington-university-visits-the-gulf-coast-and-maps.md
+nid: 11137
 uid: 422561
-tagnames: gulf-coast,balloon-mapping,great-photos,barnstar:photo-documentation,washustlouis,washu-stlouis,urbanwaters
+
 ---
 
 # Washington University visits the Gulf Coast and Maps! 
+
+by [stevie](../profile/stevie) September 12, 2014 19:02
+
+September 12, 2014 19:02 | Tags: [gulf-coast](../tag/gulf-coast), [balloon-mapping](../tag/balloon-mapping), [great-photos](../tag/great-photos), [barnstar:photo-documentation](../tag/barnstar:photo-documentation), [washustlouis](../tag/washustlouis), [washu-stlouis](../tag/washu-stlouis), [urbanwaters](../tag/urbanwaters)
 
 This week, 11 senior architecture students and their professor from Washington University in St. Louis visited the Gulf Coast. We had a busy week planned and on Tuesday we met to take it on! <br>
 [![20140909_101426.jpg](https://i.publiclab.org/system/images/photos/000/006/795/medium/20140909_101426.jpg)](https://i.publiclab.org/system/images/photos/000/006/795/original/20140909_101426.jpg)

@@ -1,5 +1,5 @@
 # lon--90.32
 
-1 notes and wiki pages
+1 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [IMTT explosions:  Need for Purple Air in St Rose](/notes/eustatic/06-16-2022/imtt-explosions-need-for-purple-air-in-st-rose) by [eustatic](../profile/eustatic)

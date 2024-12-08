@@ -1,12 +1,18 @@
 ---
-nid: 13222
 title: Using Photographs in Fighting Mining Companies
-path: public/static/notes/mlamadrid/06-22-2016/using-photographs-in-fighting-mining-companies.md
+tagnames: wisconsin, blog, frac-sand, stories, parent:frac-sand, communityscienceforum
+author: mlamadrid
+path: /notes/mlamadrid/06-22-2016/using-photographs-in-fighting-mining-companies.md
+nid: 13222
 uid: 45586
-tagnames: wisconsin,blog,frac-sand,stories,parent:frac-sand,communityscienceforum
+
 ---
 
 # Using Photographs in Fighting Mining Companies
+
+by [mlamadrid](../profile/mlamadrid) June 22, 2016 00:47
+
+June 22, 2016 00:47 | Tags: [wisconsin](../tag/wisconsin), [blog](../tag/blog), [frac-sand](../tag/frac-sand), [stories](../tag/stories), [parent:frac-sand](../tag/parent:frac-sand), [communityscienceforum](../tag/communityscienceforum)
 
 Article by Forest Jahnke, from [Crawford Stewardship Project](http://www.crawfordstewardshipproject.org/) for [Community Science Forum: Sand-Frac Issue](https://publiclab.org/forum)
 

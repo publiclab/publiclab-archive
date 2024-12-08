@@ -1,12 +1,18 @@
 ---
-nid: 10341
 title: Frac Sand mining- polar light microscopy?
-path: public/static/notes/mathew/04-22-2014/frac-sand-mining.md
+tagnames: particulate-sensing, air-quality, dust, silica, particulate, frac-sand, pm, midwest, polarizer, polarized-light, polarized-light-microscopy, particle-monitoring, parent:frac-sand, polarizing-filter
+author: mathew
+path: /notes/mathew/04-22-2014/frac-sand-mining.md
+nid: 10341
 uid: 4
-tagnames: particulate-sensing,air-quality,dust,silica,particulate,frac-sand,pm,midwest,polarizer,polarized-light,polarized-light-microscopy,particle-monitoring,parent:frac-sand,polarizing-filter
+
 ---
 
 # Frac Sand mining- polar light microscopy?
+
+by [mathew](../profile/mathew) April 22, 2014 01:02
+
+April 22, 2014 01:02 | Tags: [particulate-sensing](../tag/particulate-sensing), [air-quality](../tag/air-quality), [dust](../tag/dust), [silica](../tag/silica), [particulate](../tag/particulate), [frac-sand](../tag/frac-sand), [pm](../tag/pm), [midwest](../tag/midwest), [polarizer](../tag/polarizer), [polarized-light](../tag/polarized-light), [polarized-light-microscopy](../tag/polarized-light-microscopy), [particle-monitoring](../tag/particle-monitoring), [parent:frac-sand](../tag/parent:frac-sand), [polarizing-filter](../tag/polarizing-filter)
 
 This image is from [Wisconsin Watch](http://www.wisconsinwatch.org/viz/fracmap/)
 

@@ -1,12 +1,18 @@
 ---
-nid: 13300
 title: $1 Aerial Rig
-path: public/static/notes/tonyc/07-19-2016/1-aerial-rig.md
+tagnames: photography, kite-aerial-photography, kite, mapping, balloon, aerial, pendulum-rig, chopsticks
+author: tonyc
+path: /notes/tonyc/07-19-2016/1-aerial-rig.md
+nid: 13300
 uid: 447491
-tagnames: photography,kite-aerial-photography,kite,mapping,balloon,aerial,pendulum-rig,chopsticks
+
 ---
 
 # $1 Aerial Rig
+
+by [tonyc](../profile/tonyc) July 19, 2016 19:25
+
+July 19, 2016 19:25 | Tags: [photography](../tag/photography), [kite-aerial-photography](../tag/kite-aerial-photography), [kite](../tag/kite), [mapping](../tag/mapping), [balloon](../tag/balloon), [aerial](../tag/aerial), [pendulum-rig](../tag/pendulum-rig), [chopsticks](../tag/chopsticks)
 
 ###What I want to do
 Design a rig using readily available materials that can 

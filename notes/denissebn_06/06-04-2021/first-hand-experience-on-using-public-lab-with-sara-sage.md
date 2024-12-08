@@ -1,12 +1,18 @@
 ---
-nid: 26780
 title: First hand experience on using Public Lab with Sara Sage
-path: public/static/notes/denissebn_06/06-04-2021/first-hand-experience-on-using-public-lab-with-sara-sage.md
+tagnames: landfill, air-quality, non-profit, lang:es, land-use, air-monitoring, community-organizing, with:sarasage, zoom:16, VVAMP, aire, monitoreo-aire, calidad-aire, lat:13.721, lon:-89.221
+author: denissebn_06
+path: /notes/denissebn_06/06-04-2021/first-hand-experience-on-using-public-lab-with-sara-sage.md
+nid: 26780
 uid: 749988
-tagnames: landfill,air-quality,non-profit,lang:es,land-use,air-monitoring,community-organizing,with:sarasage,zoom:16,VVAMP,aire,monitoreo-aire,calidad-aire,lat:13.721,lon:-89.221
+
 ---
 
 # First hand experience on using Public Lab with Sara Sage
+
+by [denissebn_06](../profile/denissebn_06) June 04, 2021 15:26
+
+June 04, 2021 15:26 | Tags: [landfill](../tag/landfill), [air-quality](../tag/air-quality), [non-profit](../tag/non-profit), [lang:es](../tag/lang:es), [land-use](../tag/land-use), [air-monitoring](../tag/air-monitoring), [community-organizing](../tag/community-organizing), [with:sarasage](../tag/with:sarasage), [zoom:16](../tag/zoom:16), [VVAMP](../tag/VVAMP), [aire](../tag/aire), [monitoreo-aire](../tag/monitoreo-aire), [calidad-aire](../tag/calidad-aire), [lat:13.721](../tag/lat:13.721), [lon:-89.221](../tag/lon:-89.221)
 
 [Haz click aqui para leer el contenido de esta página en español](https://publiclab.org/notes/denissebn_06/06-04-2021/first-hand-experience-on-using-public-lab-with-sara-sage?_=1622821809#%3Cstrong%3EExperiencia+de+primera+mano+usando+Public+Lab+con+Sara+Sage%3C/strong%3E).
 

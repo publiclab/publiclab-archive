@@ -1,12 +1,18 @@
 ---
-nid: 13407
 title: Check out these Activity Grids
-path: public/static/notes/liz/08-30-2016/check-out-these-activity-grids.md
+tagnames: collaboration, blog, with:warren, with:gretchengehrke, research-culture, activity-grids, replication, with:abdul
+author: liz
+path: /notes/liz/08-30-2016/check-out-these-activity-grids.md
+nid: 13407
 uid: 7
-tagnames: collaboration,blog,with:warren,with:gretchengehrke,research-culture,activity-grids,replication,with:abdul
+
 ---
 
 # Check out these Activity Grids
+
+by [liz](../profile/liz) August 30, 2016 18:59
+
+August 30, 2016 18:59 | Tags: [collaboration](../tag/collaboration), [blog](../tag/blog), [with:warren](../tag/with:warren), [with:gretchengehrke](../tag/with:gretchengehrke), [research-culture](../tag/research-culture), [activity-grids](../tag/activity-grids), [replication](../tag/replication), [with:abdul](../tag/with:abdul)
 
 The sheer number of posts on publiclab.org by contributors from all over the world about **1)** how to build tools better, and **2)** how to use them for making environmental observations is breathtaking, and at times, boggling. As Public Lab has grown, so much content has been generated that it has become unnecessarily difficult to know what the "latest and greatest" version is, what the next development challenges are, or simply where newcomers should begin. 
 

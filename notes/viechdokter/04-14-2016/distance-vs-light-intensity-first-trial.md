@@ -1,12 +1,18 @@
 ---
-nid: 12976
 title: Distance vs light intensity                first trial
-path: public/static/notes/viechdokter/04-14-2016/distance-vs-light-intensity-first-trial.md
-uid: 468990
 tagnames: 
+author: viechdokter
+path: /notes/viechdokter/04-14-2016/distance-vs-light-intensity-first-trial.md
+nid: 12976
+uid: 468990
+
 ---
 
 # Distance vs light intensity                first trial
+
+by [viechdokter](../profile/viechdokter) April 14, 2016 10:49
+
+April 14, 2016 10:49 | Tags: 
 
 I tried to do an experiment where I changed the distance of the light source from the spectrometer slit to see  
 

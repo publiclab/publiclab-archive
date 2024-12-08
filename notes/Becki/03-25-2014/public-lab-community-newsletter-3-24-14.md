@@ -1,12 +1,18 @@
 ---
-nid: 10220
 title: Public Lab Community Newsletter 3.24.14
-path: public/static/notes/Becki/03-25-2014/public-lab-community-newsletter-3-24-14.md
+tagnames: newsletter, newsletter-archive
+author: Becki
+path: /notes/Becki/03-25-2014/public-lab-community-newsletter-3-24-14.md
+nid: 10220
 uid: 46673
-tagnames: newsletter,newsletter-archive
+
 ---
 
 # Public Lab Community Newsletter 3.24.14
+
+by [Becki](../profile/Becki) March 25, 2014 01:00
+
+March 25, 2014 01:00 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
 
 
 Happy Monday, everyone! Read on for coverage on open data and citizen science by two Public Lab co-founders, as well as other updates from the community.

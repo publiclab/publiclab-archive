@@ -1,12 +1,18 @@
 ---
-nid: 16571
 title: Africatown Connections Blueway Celebration
-path: public/static/notes/Delaney/06-25-2018/africatown-connections-blueway-celebration.md
+tagnames: balloon-mapping, mobile, water-quality, mejac, africatown, blueway, chickasaw-creek, national-park-service, map-knitting, c.h.e.s.s., hogbayou, africatown_connections
+author: Delaney
+path: /notes/Delaney/06-25-2018/africatown-connections-blueway-celebration.md
+nid: 16571
 uid: 517173
-tagnames: balloon-mapping,mobile,water-quality,mejac,africatown,blueway,chickasaw-creek,national-park-service,map-knitting,c.h.e.s.s.,hogbayou,africatown_connections
+
 ---
 
 # Africatown Connections Blueway Celebration
+
+by [Delaney](../profile/Delaney) June 25, 2018 20:19
+
+June 25, 2018 20:19 | Tags: [balloon-mapping](../tag/balloon-mapping), [mobile](../tag/mobile), [water-quality](../tag/water-quality), [mejac](../tag/mejac), [africatown](../tag/africatown), [blueway](../tag/blueway), [chickasaw-creek](../tag/chickasaw-creek), [national-park-service](../tag/national-park-service), [map-knitting](../tag/map-knitting), [c.h.e.s.s.](../tag/c.h.e.s.s.), [hogbayou](../tag/hogbayou), [africatown_connections](../tag/africatown_connections)
 
 On June 16th, we attended a celebration honoring the completion of the Africatown Connections Blueway planning phase in Mobile, Alabama... We joined the Africatown-C.H.E.S.S. Community Organization, the Mobile Environmental Justice Action Coalition, and the National Park Service and friends for an afternoon of story-telling, blessings from the community elders, dance, song, food and appreciation. After the opening ceremony and blessings, the community heard from Liz Smith of the National Park Service and watched as volunteers released the ceremonial wreath into the waterway from their kayaks.  The celebration continued with song, dance, food and finally a second line to finish the day.   
 

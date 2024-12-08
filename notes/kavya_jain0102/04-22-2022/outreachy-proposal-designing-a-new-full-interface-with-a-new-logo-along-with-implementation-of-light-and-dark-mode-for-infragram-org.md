@@ -1,12 +1,18 @@
 ---
-nid: 30579
 title: Outreachy Proposal : Designing a New Full Interface with a New Logo along with Implementation of Light and Dark Mode for Infragram.org
-path: public/static/notes/kavya_jain0102/04-22-2022/outreachy-proposal-designing-a-new-full-interface-with-a-new-logo-along-with-implementation-of-light-and-dark-mode-for-infragram-org.md
+tagnames: open-source, infragram, publiclab, github, proposal, multispectral-imaging, git, outreachy, first-time-poster, zoom:6, outreachy-summer-2022, fto, lat:28.65203, lon:77.288818
+author: kavya_jain0102
+path: /notes/kavya_jain0102/04-22-2022/outreachy-proposal-designing-a-new-full-interface-with-a-new-logo-along-with-implementation-of-light-and-dark-mode-for-infragram-org.md
+nid: 30579
 uid: 796079
-tagnames: open-source,infragram,publiclab,github,proposal,multispectral-imaging,git,outreachy,first-time-poster,zoom:6,outreachy-summer-2022,fto,lat:28.65203,lon:77.288818
+
 ---
 
 # Outreachy Proposal : Designing a New Full Interface with a New Logo along with Implementation of Light and Dark Mode for Infragram.org
+
+by [kavya_jain0102](../profile/kavya_jain0102) April 22, 2022 15:07
+
+April 22, 2022 15:07 | Tags: [open-source](../tag/open-source), [infragram](../tag/infragram), [publiclab](../tag/publiclab), [github](../tag/github), [proposal](../tag/proposal), [multispectral-imaging](../tag/multispectral-imaging), [git](../tag/git), [outreachy](../tag/outreachy), [first-time-poster](../tag/first-time-poster), [zoom:6](../tag/zoom:6), [outreachy-summer-2022](../tag/outreachy-summer-2022), [fto](../tag/fto), [lat:28.65203](../tag/lat:28.65203), [lon:77.288818](../tag/lon:77.288818)
 
 About me
 

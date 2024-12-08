@@ -1,12 +1,18 @@
 ---
-nid: 9889
 title: Public Lab Community Newsletter 12.16.13
-path: public/static/notes/Becki/12-16-2013/public-lab-community-newsletter-12-16-13.md
+tagnames: newsletter, newsletter-archive
+author: Becki
+path: /notes/Becki/12-16-2013/public-lab-community-newsletter-12-16-13.md
+nid: 9889
 uid: 46673
-tagnames: newsletter,newsletter-archive
+
 ---
 
 # Public Lab Community Newsletter 12.16.13
+
+by [Becki](../profile/Becki) December 16, 2013 21:34
+
+December 16, 2013 21:34 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
 
 This will be the last official newsletter of 2013, but keep the research notes coming and connect with us on [Facebook](https://www.facebook.com/PublicLab) and Twitter (@publiclab) for periodic updates over the next couple weeks. See you in 2014!
 

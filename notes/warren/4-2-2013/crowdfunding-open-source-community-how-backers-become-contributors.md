@@ -1,12 +1,18 @@
 ---
-nid: 6649
 title: Crowdfunding an open source community: how backers become contributors
-path: public/static/notes/warren/4-2-2013/crowdfunding-open-source-community-how-backers-become-contributors.md
-uid: 1
 tagnames: idealab
+author: warren
+path: /notes/warren/4-2-2013/crowdfunding-open-source-community-how-backers-become-contributors.md
+nid: 6649
+uid: 1
+
 ---
 
 # Crowdfunding an open source community: how backers become contributors
+
+by [warren](../profile/warren) April 02, 2013 12:35
+
+April 02, 2013 12:35 | Tags: [idealab](../tag/idealab)
 
 <em>This post is [cross-listed at the PBS IdeaLab blog](http://www.pbs.org/idealab/2013/04/how-public-lab-turned-kickstarter-crowdfunders-into-a-community089.html), and was co-authored with [Becki Chall](/people/becki)</em>
 

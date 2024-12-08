@@ -1,12 +1,18 @@
 ---
-nid: 13941
 title: What seeds sprout fastest?
-path: public/static/notes/warren/02-18-2017/what-seeds-sprout-fastest.md
+tagnames: testing, timelapse, answered, chia-seeds, seeds, sprouts, trial-run, question:trial-run
+author: warren
+path: /notes/warren/02-18-2017/what-seeds-sprout-fastest.md
+nid: 13941
 uid: 1
-tagnames: testing,timelapse,answered,chia-seeds,seeds,sprouts,trial-run,question:trial-run
+
 ---
 
 # What seeds sprout fastest?
+
+by [warren](../profile/warren) February 18, 2017 22:48
+
+February 18, 2017 22:48 | Tags: [testing](../tag/testing), [timelapse](../tag/timelapse), [answered](../tag/answered), [chia-seeds](../tag/chia-seeds), [seeds](../tag/seeds), [sprouts](../tag/sprouts), [trial-run](../tag/trial-run), [question:trial-run](../tag/question:trial-run)
 
 I'm working on the [Timelapse Kit](/wiki/timelapse), and want to create an activity to "test run" a camera indoors over a shorter span of time before doing in the field monitoring (see #timelapse for some folks doing this).
 

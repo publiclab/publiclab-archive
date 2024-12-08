@@ -1,12 +1,18 @@
 ---
-nid: 649
 title: Gardening
-path: public/static/wiki/gardening.md
-uid: 1
 tagnames: 
+author: warren
+path: /wiki/gardening.md
+nid: 649
+uid: 1
+
 ---
 
 # Gardening
+
+by [liz](../profile/liz), [gonzoearth](../profile/gonzoearth), [sara](../profile/sara), [Shannon](../profile/Shannon), [warren](../profile/warren)
+
+December 19, 2011 19:50 | Tags: 
 
 If you're interested in our ongoing effort to provide good documentation on our collaborative works, we'll be doing a website 'gardening' session on **Thursday December 22**, and coordinating in real-time in this public chatroom:
 

@@ -1,12 +1,18 @@
 ---
-nid: 4638
 title: Tidmarsh Farms meetup
-path: public/static/wiki/tidmarsh-farms-meetup.md
+tagnames: balloon-mapping, boston, meetup, event, somerville, massachusetts, tidmarsh
+author: warren
+path: /wiki/tidmarsh-farms-meetup.md
+nid: 4638
 uid: 1
-tagnames: balloon-mapping,boston,meetup,event,somerville,massachusetts,tidmarsh
+
 ---
 
 # Tidmarsh Farms meetup
+
+by [pablo](../profile/pablo), [kanarinka](../profile/kanarinka), [warren](../profile/warren), [donblair](../profile/donblair), [Hudonnoodles](../profile/Hudonnoodles)
+
+October 25, 2012 14:38 | Tags: [balloon-mapping](../tag/balloon-mapping), [boston](../tag/boston), [meetup](../tag/meetup), [event](../tag/event), [somerville](../tag/somerville), [massachusetts](../tag/massachusetts), [tidmarsh](../tag/tidmarsh)
 
 This is the Event Page for Boston's PLOTS Tidmarsh Meet Up
 

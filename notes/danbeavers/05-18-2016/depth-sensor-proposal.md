@@ -1,12 +1,18 @@
 ---
-nid: 13126
 title: Depth Sensor Proposal
-path: public/static/notes/danbeavers/05-18-2016/depth-sensor-proposal.md
+tagnames: water-quality, stormwater, depth, water-depth, activity:stormwater, activity:water-depth
+author: danbeavers
+path: /notes/danbeavers/05-18-2016/depth-sensor-proposal.md
+nid: 13126
 uid: 51
-tagnames: water-quality,stormwater,depth,water-depth,activity:stormwater,activity:water-depth
+
 ---
 
 # Depth Sensor Proposal
+
+by [danbeavers](../profile/danbeavers) May 18, 2016 18:20
+
+May 18, 2016 18:20 | Tags: [water-quality](../tag/water-quality), [stormwater](../tag/stormwater), [depth](../tag/depth), [water-depth](../tag/water-depth), [activity:stormwater](../tag/activity:stormwater), [activity:water-depth](../tag/activity:water-depth)
 
 ###What I want to do
 

@@ -1,6 +1,6 @@
 # outreachy-2018
 
-16 notes and wiki pages
+16 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Summer of Code programs](/wiki/gsoc) (wiki)
 - [Call for Outreachy 2018-19 proposals!](/notes/warren/10-23-2018/call-for-outreachy-2018-19-proposals) by [warren](../profile/warren)
@@ -16,5 +16,4 @@
 - [[Outreachy Proposal] Expanding Community Stats System](/notes/chauhan_shubhangi96/11-06-2018/outreachy-proposal-expanded-community-stats-system) by [chauhan_shubhangi96](../profile/chauhan_shubhangi96)
 - [Outreachy 2018 Week 2 and 3](/notes/cess/12-30-2018/outreachy-2018-week-2-and-3) by [cess](../profile/cess)
 - [Public Lab Code Community Report: Jan 2019](/notes/warren/01-02-2019/public-lab-code-community-report-jan-2019) by [warren](../profile/warren)
-- [Skoda kodiaq ](/notes/skoda_kodiaq/01-02-2019/skoda-kodiaq) by [skoda_kodiaq](../profile/skoda_kodiaq)
 - [Public Lab Code Community Report: April 2019](/notes/warren/04-19-2019/public-lab-code-community-report-april-2019) by [warren](../profile/warren)

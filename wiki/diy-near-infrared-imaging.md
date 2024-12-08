@@ -1,12 +1,18 @@
 ---
-nid: 11688
 title: DIY Near-Infrared Imaging
-path: public/static/wiki/diy-near-infrared-imaging.md
+tagnames: grassrootsmappingforum, infragram-conversion, with:warren, style:fancy, gmf-2, with:cfastie
+author: mollydanielsson
+path: /wiki/diy-near-infrared-imaging.md
+nid: 11688
 uid: 1259
-tagnames: grassrootsmappingforum,infragram-conversion,with:warren,style:fancy,gmf-2,with:cfastie
+
 ---
 
 # DIY Near-Infrared Imaging
+
+by [mollydanielsson](../profile/mollydanielsson)
+
+March 19, 2015 00:40 | Tags: [grassrootsmappingforum](../tag/grassrootsmappingforum), [infragram-conversion](../tag/infragram-conversion), [with:warren](../tag/with:warren), [style:fancy](../tag/style:fancy), [gmf-2](../tag/gmf-2), [with:cfastie](../tag/with:cfastie)
 
 Published **July 2012** in the [Grassroots Mapping Forum #2.](http://publiclab.org/forum)
 [Order online.](http://store.publiclab.org/products/grassroots-mapping-forum-issue-2)

@@ -1,12 +1,18 @@
 ---
-nid: 2135
 title: Making a balloon-making jig
-path: public/static/notes/mathew/5-18-2012/making-balloon-making-jig.md
+tagnames: balloon-mapping, kite-balloon-hybrid, diy-balloon
+author: mathew
+path: /notes/mathew/5-18-2012/making-balloon-making-jig.md
+nid: 2135
 uid: 4
-tagnames: balloon-mapping,kite-balloon-hybrid,diy-balloon
+
 ---
 
 # Making a balloon-making jig
+
+by [mathew](../profile/mathew) May 18, 2012 19:33
+
+May 18, 2012 19:33 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-balloon-hybrid](../tag/kite-balloon-hybrid), [diy-balloon](../tag/diy-balloon)
 
 We haven't had much luck finding someone willing to manufacture mylar balloons bigger than 1 meter (3 feet).  Which got me thinking about how to manufacture balloons myself.  
 

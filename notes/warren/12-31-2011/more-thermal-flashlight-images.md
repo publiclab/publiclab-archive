@@ -1,12 +1,18 @@
 ---
-nid: 672
 title: More thermal flashlight images
-path: public/static/notes/warren/12-31-2011/more-thermal-flashlight-images.md
-uid: 1
 tagnames: 
+author: warren
+path: /notes/warren/12-31-2011/more-thermal-flashlight-images.md
+nid: 672
+uid: 1
+
 ---
 
 # More thermal flashlight images
+
+by [warren](../profile/warren) December 31, 2011 18:28
+
+December 31, 2011 18:28 | Tags: 
 
 A few more [thermal flashlight](/tool/thermal-photography) photos. The above shows a hot and a cold drink on my mom's kitchen table. Below, the heat left by a halogen lamp on the wall. At bottom, a laptop at the pirateship.
 

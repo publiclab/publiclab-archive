@@ -1,12 +1,18 @@
 ---
-nid: 5733
 title: IRCam
-path: public/static/wiki/ircam.md
+tagnames: near-infrared-camera, ircam, infragram
+author: warren
+path: /wiki/ircam.md
+nid: 5733
 uid: 1
-tagnames: near-infrared-camera,ircam,infragram
+
 ---
 
 # IRCam
+
+by [warren](../profile/warren), [danbeavers](../profile/danbeavers)
+
+January 26, 2013 17:48 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ircam](../tag/ircam), [infragram](../tag/infragram)
 
 Planning page for the IRCam project, for a hackable, dual-webcam, Raspberry Pi-based point-and-shoot camera.
 

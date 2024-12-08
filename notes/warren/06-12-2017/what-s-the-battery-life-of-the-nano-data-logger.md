@@ -1,12 +1,18 @@
 ---
-nid: 14525
 title: What's the battery life of the Nano Data Logger?
-path: public/static/notes/warren/06-12-2017/what-s-the-battery-life-of-the-nano-data-logger.md
+tagnames: answered, data-logging, nano-data-logger, question:nano-data-logger
+author: warren
+path: /notes/warren/06-12-2017/what-s-the-battery-life-of-the-nano-data-logger.md
+nid: 14525
 uid: 1
-tagnames: answered,data-logging,nano-data-logger,question:nano-data-logger
+
 ---
 
 # What's the battery life of the Nano Data Logger?
+
+by [warren](../profile/warren) June 12, 2017 21:35
+
+June 12, 2017 21:35 | Tags: [answered](../tag/answered), [data-logging](../tag/data-logging), [nano-data-logger](../tag/nano-data-logger), [question:nano-data-logger](../tag/question:nano-data-logger)
 
 Hi, I know @cfastie has [posted](https://publiclab.org/questions/warren/06-12-2017/what-are-the-differences-between-the-nano-data-logger-and-the-riffle#a253) that it's not a long battery life due to USB, the lack of alarms on the real-time clock, and other things, but how long is it? 
 

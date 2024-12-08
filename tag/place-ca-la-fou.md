@@ -1,6 +1,6 @@
 # place-ca-la-fou
 
-3 notes and wiki pages
+3 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Hack The Earth 5th edition](/notes/imvec/04-19-2017/hack-the-earth-5th-edition) by [imvec](../profile/imvec)
 - [Hack The Earth: 6th edition open call](/notes/imvec/02-04-2018/hack-the-earth-6th-edition-open-call) by [imvec](../profile/imvec)

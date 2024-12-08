@@ -1,12 +1,18 @@
 ---
-nid: 27968
 title: Outreachy proposal: Rebuilding Spectral Workbench capture and analysis interface
-path: public/static/notes/wajeehamushtaq1/10-27-2021/outreachy-proposal-rebuilding-spectral-workbench-capture-and-analysis-interface.md
+tagnames: first-time-poster, lat:31.520369, lon:74.358747, zoom:6, outreachy-winter-2021
+author: wajeehamushtaq1
+path: /notes/wajeehamushtaq1/10-27-2021/outreachy-proposal-rebuilding-spectral-workbench-capture-and-analysis-interface.md
+nid: 27968
 uid: 775423
-tagnames: first-time-poster,lat:31.520369,lon:74.358747,zoom:6,outreachy-winter-2021
+
 ---
 
 # Outreachy proposal: Rebuilding Spectral Workbench capture and analysis interface
+
+by [wajeehamushtaq1](../profile/wajeehamushtaq1) October 27, 2021 11:33
+
+October 27, 2021 11:33 | Tags: [first-time-poster](../tag/first-time-poster), [lat:31.520369](../tag/lat:31.520369), [lon:74.358747](../tag/lon:74.358747), [zoom:6](../tag/zoom:6), [outreachy-winter-2021](../tag/outreachy-winter-2021)
 
 # 
 

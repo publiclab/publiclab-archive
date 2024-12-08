@@ -1,12 +1,18 @@
 ---
-nid: 27925
 title: Call for Proposals: Outreachy Winter 2021
-path: public/static/notes/mathildaudufo/10-18-2021/call-for-proposals-outreachy-winter-2021.md
+tagnames: with:warren, with:liz, soc, lat:0, lon:10, outreachy, call-for-proposals, zoom:4, with:itm2017004
+author: mathildaudufo
+path: /notes/mathildaudufo/10-18-2021/call-for-proposals-outreachy-winter-2021.md
+nid: 27925
 uid: 751138
-tagnames: with:warren,with:liz,soc,lat:0,lon:10,outreachy,call-for-proposals,zoom:4,with:itm2017004
+
 ---
 
 # Call for Proposals: Outreachy Winter 2021
+
+by [mathildaudufo](../profile/mathildaudufo) October 18, 2021 06:45
+
+October 18, 2021 06:45 | Tags: [with:warren](../tag/with:warren), [with:liz](../tag/with:liz), [soc](../tag/soc), [lat:0](../tag/lat:0), [lon:10](../tag/lon:10), [outreachy](../tag/outreachy), [call-for-proposals](../tag/call-for-proposals), [zoom:4](../tag/zoom:4), [with:itm2017004](../tag/with:itm2017004)
 
 # Outreachy Winter 2021
 

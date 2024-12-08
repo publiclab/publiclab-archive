@@ -1,12 +1,18 @@
 ---
-nid: 534
 title: Spectral Workbench
-path: public/static/wiki/spectral-workbench.md
+tagnames: spectrometer, spectralworkbench, spectrometry, software, spectral-workbench, led, tool, growth, method, prompt:spectral-workbench, problems, grow
+author: warren
+path: /wiki/spectral-workbench.md
+nid: 534
 uid: 1
-tagnames: spectrometer,spectralworkbench,spectrometry,software,spectral-workbench,led,tool,growth,method,prompt:spectral-workbench,problems,grow
+
 ---
 
 # Spectral Workbench
+
+by [jmacha](../profile/jmacha), [liz](../profile/liz), [warren](../profile/warren), [joyofsoy](../profile/joyofsoy), [Jaume](../profile/Jaume), [Aleksandra](../profile/Aleksandra)
+
+November 01, 2011 16:16 | Tags: [spectrometer](../tag/spectrometer), [spectralworkbench](../tag/spectralworkbench), [spectrometry](../tag/spectrometry), [software](../tag/software), [spectral-workbench](../tag/spectral-workbench), [led](../tag/led), [tool](../tag/tool), [growth](../tag/growth), [method](../tag/method), [prompt:spectral-workbench](../tag/prompt:spectral-workbench), [problems](../tag/problems), [grow](../tag/grow)
 
 <div class="alert alert-danger">
 <center><a href="https://secure.lglforms.com/form_engine/s/zIbQWRjJiBYCVwCN6tXIHw">Support Public Lab Today!</a></center>

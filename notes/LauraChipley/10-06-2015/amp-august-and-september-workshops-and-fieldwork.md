@@ -1,12 +1,18 @@
 ---
-nid: 12272
 title: AMP August and September workshops and fieldwork
-path: public/static/notes/LauraChipley/10-06-2015/amp-august-and-september-workshops-and-fieldwork.md
+tagnames: west-virginia, mountaintop-removal, southeast, amp, mtr, appalachia
+author: LauraChipley
+path: /notes/LauraChipley/10-06-2015/amp-august-and-september-workshops-and-fieldwork.md
+nid: 12272
 uid: 428957
-tagnames: west-virginia,mountaintop-removal,southeast,amp,mtr,appalachia
+
 ---
 
 # AMP August and September workshops and fieldwork
+
+by [LauraChipley](../profile/LauraChipley) October 06, 2015 17:06
+
+October 06, 2015 17:06 | Tags: [west-virginia](../tag/west-virginia), [mountaintop-removal](../tag/mountaintop-removal), [southeast](../tag/southeast), [amp](../tag/amp), [mtr](../tag/mtr), [appalachia](../tag/appalachia)
 
 
 [![00010.MTS.00_00_07_06.Still001.jpg](https://i.publiclab.org/system/images/photos/000/011/772/medium/00010.MTS.00_00_07_06.Still001.jpg)](https://i.publiclab.org/system/images/photos/000/011/772/original/00010.MTS.00_00_07_06.Still001.jpg)

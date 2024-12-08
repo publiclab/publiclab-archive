@@ -1,12 +1,18 @@
 ---
-nid: 24349
 title: Spam Management Dashboard (Documentation)
-path: public/static/notes/keshav_sethi0004/08-18-2020/spam-management-dashboard-documentation.md
+tagnames: software, gsoc, spam, publiclab, management, dashboard, soc, summer-of-code, jeff, soc-2020, keshav, smd, gsoc2020, moderator, ebary, dashbaord, soc-2020-final
+author: keshav_sethi0004
+path: /notes/keshav_sethi0004/08-18-2020/spam-management-dashboard-documentation.md
+nid: 24349
 uid: 653396
-tagnames: software,gsoc,spam,publiclab,management,dashboard,soc,summer-of-code,jeff,soc-2020,keshav,smd,gsoc2020,moderator,ebary,dashbaord,soc-2020-final
+
 ---
 
 # Spam Management Dashboard (Documentation)
+
+by [keshav_sethi0004](../profile/keshav_sethi0004) August 18, 2020 20:17
+
+August 18, 2020 20:17 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [spam](../tag/spam), [publiclab](../tag/publiclab), [management](../tag/management), [dashboard](../tag/dashboard), [soc](../tag/soc), [summer-of-code](../tag/summer-of-code), [jeff](../tag/jeff), [soc-2020](../tag/soc-2020), [keshav](../tag/keshav), [smd](../tag/smd), [gsoc2020](../tag/gsoc2020), [moderator](../tag/moderator), [ebary](../tag/ebary), [dashbaord](../tag/dashbaord), [soc-2020-final](../tag/soc-2020-final)
 
 # **Spam Management Dashboard**
 

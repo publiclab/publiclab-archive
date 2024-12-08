@@ -1,12 +1,18 @@
 ---
-nid: 10613
 title: MapKnitter Annotations Update: L.Illustrate.Textbox
-path: public/static/notes/justinmanley/06-25-2014/mapknitter-annotations-update-l-illustrate-textbox.md
+tagnames: mapknitter, gsoc, developers, gsoc-2014, barnstar:basic
+author: justinmanley
+path: /notes/justinmanley/06-25-2014/mapknitter-annotations-update-l-illustrate-textbox.md
+nid: 10613
 uid: 421556
-tagnames: mapknitter,gsoc,developers,gsoc-2014,barnstar:basic
+
 ---
 
 # MapKnitter Annotations Update: L.Illustrate.Textbox
+
+by [justinmanley](../profile/justinmanley) June 25, 2014 05:49
+
+June 25, 2014 05:49 | Tags: [mapknitter](../tag/mapknitter), [gsoc](../tag/gsoc), [developers](../tag/developers), [gsoc-2014](../tag/gsoc-2014), [barnstar:basic](../tag/barnstar:basic)
 
 ### Background ###
 

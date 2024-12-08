@@ -1,12 +1,18 @@
 ---
-nid: 13935
 title: event-template
-path: public/static/wiki/event-template.md
-uid: 1
 tagnames: 
+author: warren
+path: /wiki/event-template.md
+nid: 13935
+uid: 1
+
 ---
 
 # event-template
+
+by [warren](../profile/warren)
+
+February 16, 2017 16:49 | Tags: 
 
 ### About the event 
 

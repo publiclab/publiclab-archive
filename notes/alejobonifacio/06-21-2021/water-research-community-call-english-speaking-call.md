@@ -1,12 +1,18 @@
 ---
-nid: 26869
 title: Water Research community Call (English-speaking call)
-path: public/static/notes/alejobonifacio/06-21-2021/water-research-community-call-english-speaking-call.md
+tagnames: event, research, water-quality, water, event:rsvp, research-curation-fellows, water-research, date:06-25-2021, rsvp:bhamster, research-curation-fellows-event
+author: alejobonifacio
+path: /notes/alejobonifacio/06-21-2021/water-research-community-call-english-speaking-call.md
+nid: 26869
 uid: 639376
-tagnames: event,research,water-quality,water,event:rsvp,research-curation-fellows,water-research,date:06-25-2021,rsvp:bhamster,research-curation-fellows-event
+
 ---
 
 # Water Research community Call (English-speaking call)
+
+by [alejobonifacio](../profile/alejobonifacio) June 21, 2021 14:58
+
+June 21, 2021 14:58 | Tags: [event](../tag/event), [research](../tag/research), [water-quality](../tag/water-quality), [water](../tag/water), [event:rsvp](../tag/event:rsvp), [research-curation-fellows](../tag/research-curation-fellows), [water-research](../tag/water-research), [date:06-25-2021](../tag/date:06-25-2021), [rsvp:bhamster](../tag/rsvp:bhamster), [research-curation-fellows-event](../tag/research-curation-fellows-event)
 
 [![Community_call_improved.jpg.png](/i/44218)](/i/44218?s=o)
 

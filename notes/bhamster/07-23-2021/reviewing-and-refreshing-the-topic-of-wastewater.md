@@ -1,12 +1,18 @@
 ---
-nid: 27265
 title: Reviewing and refreshing the topic of wastewater
-path: public/static/notes/bhamster/07-23-2021/reviewing-and-refreshing-the-topic-of-wastewater.md
+tagnames: sewage, research, water-quality, stormwater, wastewater, reviews, research-area-review, with:alejobonifacio
+author: bhamster
+path: /notes/bhamster/07-23-2021/reviewing-and-refreshing-the-topic-of-wastewater.md
+nid: 27265
 uid: 664477
-tagnames: sewage,research,water-quality,stormwater,wastewater,reviews,research-area-review,with:alejobonifacio
+
 ---
 
 # Reviewing and refreshing the topic of wastewater
+
+by [bhamster](../profile/bhamster) July 23, 2021 17:14
+
+July 23, 2021 17:14 | Tags: [sewage](../tag/sewage), [research](../tag/research), [water-quality](../tag/water-quality), [stormwater](../tag/stormwater), [wastewater](../tag/wastewater), [reviews](../tag/reviews), [research-area-review](../tag/research-area-review), [with:alejobonifacio](../tag/with:alejobonifacio)
 
 _Lead image: [D. Milledge](https://www.flickr.com/photos/lockthegatealliance/14211694706/in/photostream/), [CC BY](https://creativecommons.org/licenses/by/2.0/)_
 

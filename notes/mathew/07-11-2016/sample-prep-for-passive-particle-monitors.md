@@ -1,12 +1,18 @@
 ---
-nid: 13280
 title: Sample prep for Passive Particle Monitors
-path: public/static/notes/mathew/07-11-2016/sample-prep-for-passive-particle-monitors.md
+tagnames: air-quality, sample-containers, sample-prep, silica, frac-sand, particle-monitoring, passive-particle-monitors, passive-pm, with:amberwise, parent:frac-sand, time:30m, difficulty:easy, seeks:replications, category:build, sample-collection, dust-sampling, activity:dust-collection
+author: mathew
+path: /notes/mathew/07-11-2016/sample-prep-for-passive-particle-monitors.md
+nid: 13280
 uid: 4
-tagnames: air-quality,sample-containers,sample-prep,silica,frac-sand,particle-monitoring,passive-particle-monitors,passive-pm,with:amberwise,parent:frac-sand,time:30m,difficulty:easy,seeks:replications,category:build,sample-collection,dust-sampling,activity:dust-collection
+
 ---
 
 # Sample prep for Passive Particle Monitors
+
+by [mathew](../profile/mathew) July 11, 2016 21:04
+
+July 11, 2016 21:04 | Tags: [air-quality](../tag/air-quality), [sample-containers](../tag/sample-containers), [sample-prep](../tag/sample-prep), [silica](../tag/silica), [frac-sand](../tag/frac-sand), [particle-monitoring](../tag/particle-monitoring), [passive-particle-monitors](../tag/passive-particle-monitors), [passive-pm](../tag/passive-pm), [with:amberwise](../tag/with:amberwise), [parent:frac-sand](../tag/parent:frac-sand), [time:30m](../tag/time:30m), [difficulty:easy](../tag/difficulty:easy), [seeks:replications](../tag/seeks:replications), [category:build](../tag/category:build), [sample-collection](../tag/sample-collection), [dust-sampling](../tag/dust-sampling), [activity:dust-collection](../tag/activity:dust-collection)
 
 Left to Right: [Cap with Mesh, Aluminum SEM stub to hold sample, 0-80 x 1/4" screws, glass coverslip.](https://publiclab.org/notes/mathew/09-02-2015/replicating-a-passive-dust-monitor-method#SEM+Passive+Monitor+Parts+List:) Photo: @AmberWise
 

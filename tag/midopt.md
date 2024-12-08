@@ -1,6 +1,6 @@
 # midopt
 
-11 notes and wiki pages
+11 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Automating NDVI calibration](/notes/nedhorning/06-30-2015/automating-ndvi-calibration) by [nedhorning](../profile/nedhorning)
 - [Introducing the calibration plugin for ImageJ/Fiji](/notes/nedhorning/07-22-2015/introducing-the-calibration-plugin-for-imagej-fiji) by [nedhorning](../profile/nedhorning)

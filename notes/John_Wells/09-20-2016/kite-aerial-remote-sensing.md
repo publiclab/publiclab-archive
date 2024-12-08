@@ -1,12 +1,18 @@
 ---
-nid: 13464
 title: Kite Aerial Remote Sensing (KARS) - Thermal Infra-Red.
-path: public/static/notes/John_Wells/09-20-2016/kite-aerial-remote-sensing.md
+tagnames: thermal-photography, kite-mapping, aerial-photography, archaeology, flir, thermography, kite-aerial-thermography, activity:thermal-photography
+author: John_Wells
+path: /notes/John_Wells/09-20-2016/kite-aerial-remote-sensing.md
+nid: 13464
 uid: 372
-tagnames: thermal-photography,kite-mapping,aerial-photography,archaeology,flir,thermography,kite-aerial-thermography,activity:thermal-photography
+
 ---
 
 # Kite Aerial Remote Sensing (KARS) - Thermal Infra-Red.
+
+by [John_Wells](../profile/John_Wells) September 20, 2016 02:18
+
+September 20, 2016 02:18 | Tags: [thermal-photography](../tag/thermal-photography), [kite-mapping](../tag/kite-mapping), [aerial-photography](../tag/aerial-photography), [archaeology](../tag/archaeology), [flir](../tag/flir), [thermography](../tag/thermography), [kite-aerial-thermography](../tag/kite-aerial-thermography), [activity:thermal-photography](../tag/activity:thermal-photography)
 
 In 2013 [we](http://westlothianarchaeology.org.uk/) formalised our donations of aerial photography equipment by setting up the [Scottish National Aerial Photography Scheme](http://armadale.org.uk/snaps.htm). Our initial donations, starting in 2009, consisted mainly of [cameras with poles](http://www.armadale.org.uk/pole.htm).
 Our aim has been to introduce students of all ages, primary school to PhD, and local archaeology and other groups, to aerial photography. We have donated well over 200 KAP kits.

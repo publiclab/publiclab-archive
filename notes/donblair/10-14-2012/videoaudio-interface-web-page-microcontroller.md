@@ -1,12 +1,18 @@
 ---
-nid: 4407
 title: Video/Audio interface, Web page & Microcontroller
-path: public/static/notes/donblair/10-14-2012/videoaudio-interface-web-page-microcontroller.md
+tagnames: arduino, sensing
+author: donblair
+path: /notes/donblair/10-14-2012/videoaudio-interface-web-page-microcontroller.md
+nid: 4407
 uid: 43651
-tagnames: arduino,sensing
+
 ---
 
 # Video/Audio interface, Web page & Microcontroller
+
+by [donblair](../profile/donblair) October 14, 2012 21:27
+
+October 14, 2012 21:27 | Tags: [arduino](../tag/arduino), [sensing](../tag/sensing)
 
 <strong>The dream:</strong> every smart phone, laptop, or desktop can analyze data from an external, microcontroller (Arduino)-based temperature, pressure, etc sensor -- inexpensive, powerful, ubiquitous scientific instruments!  <strong>The Problem:</strong> transmitting data between an external sensor (e.g., an Arduino + temperature sensor) and a computer or smart phone usually requires installing special software on the computer / smartphone that can communicate with the sensor, e.g. via a USB cable.  This is often inconvenient (various versions of the software are required, depending on the operating system, etc); and, in many important cases, impossible (many high school computing facilities do not allow software to be installed without permission). <strong> The Solution: </strong> -- audio and video!
 

@@ -1,12 +1,18 @@
 ---
-nid: 7341
 title: Invisible Rays
-path: public/static/notes/cfastie/05-09-2013/invisible-light.md
+tagnames: near-infrared-camera, ndvi, nir, vermont, infrared, infragram, plant-health, history, wratten87, infrablue
+author: cfastie
+path: /notes/cfastie/05-09-2013/invisible-light.md
+nid: 7341
 uid: 554
-tagnames: near-infrared-camera,ndvi,nir,vermont,infrared,infragram,plant-health,history,wratten87,infrablue
+
 ---
 
 # Invisible Rays
+
+by [cfastie](../profile/cfastie) May 09, 2013 05:41
+
+May 09, 2013 05:41 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [nir](../tag/nir), [vermont](../tag/vermont), [infrared](../tag/infrared), [infragram](../tag/infragram), [plant-health](../tag/plant-health), [history](../tag/history), [wratten87](../tag/wratten87), [infrablue](../tag/infrablue)
 
 <em>Image above: My backyard in pure infrared light. A Wratten 87 filter allows only wavelengths longer than 730 nm to reach the sensor of the Canon A495. May 8, 2013</em>
 

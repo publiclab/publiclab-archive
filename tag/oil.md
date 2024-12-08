@@ -1,6 +1,6 @@
 # oil
 
-101 notes and wiki pages
+101 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Attempted infrared imaging of motor oil in salt water](/notes/warren/12-7-2010/attempted-infrared-imaging-motor-oil-salt-water) by [warren](../profile/warren)
 - [Spectrometry UROP 4/23/11 update](/notes/alex-mccarthy/4-23-2011/spectrometry-urop-42311-update) by [Alex-McCarthy](../profile/Alex-McCarthy)
@@ -30,7 +30,6 @@
 - [Food grade oil samples](/notes/liz/03-13-2014/food-grade-oil-samples) by [liz](../profile/liz)
 - [mapping offshore rigs near Rio, especially in the Campos basin](/notes/marlokeno/03-21-2014/mapping-offshore-rigs-near-rio-especially-in-the-campos-basin) by [marlokeno](../profile/marlokeno)
 - [An attempt to test olive oil substance with spectrometer. ](/notes/muyueh/04-11-2014/an-attempt-to-test-olive-oil-substance-with-spectrometer) by [muyueh](../profile/muyueh)
-- [oil sampling meetup](/notes/liz/06-07-2014/oil-sampling-meetup) by [liz](../profile/liz)
 - [Team Orca resurrected --Gulf Monitoring Consortium test for BP tar](/notes/eustatic/06-25-2014/team-orca-resurrected-gulf-monitoring-consortium-test-for-bp-tar) by [eustatic](../profile/eustatic)
 - [Visible-range fluorescence fingerprinting of heating and motor oil ](/notes/warren/08-11-2014/visible-range-fluorescence-fingerprinting-of-heating-and-motor-oil) by [warren](../profile/warren)
 - [Ultra micro cuvette tests, UV LED and low-temperature fluorescence](/notes/warren/08-19-2014/ultra-micro-cuvette-tests-uv-led-and-low-temperature-fluorescence) by [warren](../profile/warren)
@@ -88,18 +87,9 @@
 - [Auto-annotate iOS photos with GPS co'ords?](/notes/a1ahna/10-29-2018/auto-annotate-ios-photos-with-gps-co-ords) by [a1ahna](../profile/a1ahna)
 - [How to build Emery Board Survey Tools ](/notes/a1ahna/12-03-2018/how-to-build-emery-board-survey-tools) by [a1ahna](../profile/a1ahna)
 - [Terrain Surveying with Emery Boards](/notes/a1ahna/12-12-2018/terrain-surveying-with-emery-boards) by [a1ahna](../profile/a1ahna)
-- [Vitiligo Natural Organics,Natural Oil For Vitiligo Spots,Herbal Organics Products For Vitiligo](/notes/cureherbals/01-04-2019/vitiligo-natural-organics-natural-oil-for-vitiligo-spots-herbal-organics-products-for-vitiligo) by [cureherbals](../profile/cureherbals)
 - [How do you test for oil and gas-related contaminants in soils? ](/notes/DanielleS/01-22-2019/how-do-you-test-for-oil-and-gas-related-contaminants-in-soils) by [DanielleS](../profile/DanielleS)
 - [Anyone have experience with diy soil testing methods for contaminants- Colorimetry, spectometry, reagents, etc?](/notes/DanielleS/02-11-2019/anyone-have-experience-with-diy-soil-testing-methods-for-contaminants-colorimetry-spectometry-reagents-etc) by [DanielleS](../profile/DanielleS)
-- [The Use of Self Priming Pumps Offers an Array of Benefits](/notes/unnatipumpscss/06-24-2019/the-use-of-self-priming-pumps-offers-an-array-of-benefits) by [unnatipumpscss](../profile/unnatipumpscss)
 - [Oil Pollution in Audubon Park Lagoon](/notes/icyhg03/09-19-2019/oil-pollution-in-audubon-park-lagoon) by [icyhg03](../profile/icyhg03)
 - [How can we relate water quality sensor measurements to oil/gas pollution?](/notes/wmacfarl/09-25-2019/how-can-we-relate-water-quality-sensor-measurements-to-oil-gas-pollution) by [wmacfarl](../profile/wmacfarl)
 - [Emery Board as Bathymeter: ETP vs Beau Bayou](/notes/eustatic/01-11-2020/emery-board-as-bathymeter-etp-vs-beau-bayou) by [eustatic](../profile/eustatic)
-- [Vainglory](/notes/summitoxygen/04-15-2020/vainglory) by [summitoxygen](../profile/summitoxygen)
-- [Torque Limiting Oil Filter Socket Wrench Manufacturer - Klick Wrench ](/notes/Klickwrench/07-09-2020/torque-limiting-oil-filter-socket-wrench-manufacturer-klick-wrench) by [Klickwrench](../profile/Klickwrench)
-- [Best CBD Creams 2020](/notes/vancrideout/08-19-2020/best-cbd-creams-2020) by [vancrideout](../profile/vancrideout)
-- [Oil Tank Replacements Ltd ](/notes/oiltankreplace/10-29-2020/oil-tank-replacements-ltd) by [oiltankreplace](../profile/oiltankreplace)
-- [Organic Line CBD Oil France Explained ](/notes/michaelhillard001/01-27-2021/organic-line-cbd-oil-france-explained) by [michaelhillard001](../profile/michaelhillard001)
-- [Electric essential oil diffuser](/notes/matthew21paul/04-14-2021/electric-essential-oil-diffuser) by [matthew21paul](../profile/matthew21paul)
-- [Simple tips for using OIL CLEANSER.](/notes/confidentbeaute31/05-20-2021/simple-tips-for-using-oil-cleanser) by [confidentbeaute31](../profile/confidentbeaute31)
 - [What can you do about oil in your ditch following a natural disaster when traditional resources/normal pathways are not available?](/notes/laurel_mire/09-20-2021/what-can-you-do-about-oil-in-your-ditch-following-a-natural-disaster-when-traditional-resources-normal-pathways-are-not-available) by [laurel_mire](../profile/laurel_mire)

@@ -1,12 +1,18 @@
 ---
-nid: 11602
 title: Citizen Science Investigations on the Waterfront
-path: public/static/notes/liz/02-18-2015/citizen-science-investigations-on-the-waterfront.md
+tagnames: new-york-city, event, event:rsvp, date:02-18-2015
+author: liz
+path: /notes/liz/02-18-2015/citizen-science-investigations-on-the-waterfront.md
+nid: 11602
 uid: 7
-tagnames: new-york-city,event,event:rsvp,date:02-18-2015
+
 ---
 
 # Citizen Science Investigations on the Waterfront
+
+by [liz](../profile/liz) February 18, 2015 19:44
+
+February 18, 2015 19:44 | Tags: [new-york-city](../tag/new-york-city), [event](../tag/event), [event:rsvp](../tag/event:rsvp), [date:02-18-2015](../tag/date:02-18-2015)
 
 ###Event details
 

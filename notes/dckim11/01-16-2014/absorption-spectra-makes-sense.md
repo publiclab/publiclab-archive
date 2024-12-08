@@ -1,12 +1,18 @@
 ---
-nid: 9950
 title: Absorption spectra makes sense?
-path: public/static/notes/dckim11/01-16-2014/absorption-spectra-makes-sense.md
-uid: 300699
 tagnames: 
+author: dckim11
+path: /notes/dckim11/01-16-2014/absorption-spectra-makes-sense.md
+nid: 9950
+uid: 300699
+
 ---
 
 # Absorption spectra makes sense?
+
+by [dckim11](../profile/dckim11) January 16, 2014 04:49
+
+January 16, 2014 04:49 | Tags: 
 
 I am trying to look at the growth of algae in a petri dish placed between a light source and the spectrophotometer.
 [![photo.JPG](https://i.publiclab.org/system/images/photos/000/002/565/medium/photo.JPG)](https://i.publiclab.org/system/images/photos/000/002/565/original/photo.JPG)

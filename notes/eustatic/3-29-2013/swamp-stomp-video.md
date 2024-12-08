@@ -1,12 +1,18 @@
 ---
-nid: 6608
 title: Swamp Stomp Video
-path: public/static/notes/eustatic/3-29-2013/swamp-stomp-video.md
+tagnames: balloon-mapping, kite-mapping
+author: eustatic
+path: /3-29-2013/swamp-stomp-video.md
+nid: 6608
 uid: 379
-tagnames: balloon-mapping,kite-mapping
+
 ---
 
 # Swamp Stomp Video
+
+by [eustatic](../profile/eustatic) March 29, 2013 22:06
+
+March 29, 2013 22:06 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping)
 
 Becki and Scott subject themselves to a ravenously cute mob of grade- and high schoolers, who all get to hold a balloon or kite for a second, and chase the camera around.
 

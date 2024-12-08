@@ -29,19 +29,30 @@ Node.where(nid: nids).each do |node|
       file.write(node.type.split('redirect|').last)
     else
       text = "---\n"\
-        "nid: #{node.nid}\n"\
         "title: #{node.title}\n"\
-        "path: #{path}\n"\
-        "uid: #{node.uid}\n"\
-        "tagnames: #{node.tagnames.join(',')}\n"\
+        "tagnames: #{node.tagnames.join(', ')}\n"\
+	"author: #{node.author.username}\n"\
+	"path: #{path.split("static").last}\n"\
+        "nid: #{node.nid}\n"\
+        "uid: #{node.uid}\n\n"\
         "---\n\n"\
-        "# " + node.title + "\n\n"\
-        "by [#{node.author.username}](../profile/#{node.author.username}) #{node.created_at.to_s(:long)}\n\n"
+        "# " + node.title + "\n\n"
+
+      text += "by [#{node.author.username}](../profile/#{node.author.username}) #{node.created_at.to_s(:long)}\n\n" if node.type == "note"
+      if node.type == "page" 
+	text += "by "
+        authors = []
+	node.authors.compact.collect(&:username).each do |username|
+          authors << "[#{username}](../profile/#{username})"
+	end
+        text += authors.join(', ') + "\n\n"
+      end
       tags = []
       node.tags.each do |tag|
-        tags << "[#{tag.tagname}](../tag/#{tag.tagname})"
+        tags << "[#{tag.name}](../tag/#{tag.name})"
       end
-      text += "Tags: #{tags.join(',')}\n\n"
+      text += "#{node.created_at.to_s(:long)} | Tags: #{tags.join(', ')}\n\n"
+      text += "----\n\n"
       text += node.body
       file.write(text)
     end

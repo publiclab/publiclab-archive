@@ -1,12 +1,18 @@
 ---
-nid: 17425
 title: Help us refine the search interface at PublicLab.org/search
-path: public/static/notes/warren/10-29-2018/help-us-refine-the-search-interface-at-publiclab-org.md
+tagnames: question, search, rgsoc, ui, question:ui, comment-template:ui-feedback-template
+author: warren
+path: /notes/warren/10-29-2018/help-us-refine-the-search-interface-at-publiclab-org.md
+nid: 17425
 uid: 1
-tagnames: question,search,rgsoc,ui,question:ui,comment-template:ui-feedback-template
+
 ---
 
 # Help us refine the search interface at PublicLab.org/search
+
+by [warren](../profile/warren) October 29, 2018 22:21
+
+October 29, 2018 22:21 | Tags: [question](../tag/question), [search](../tag/search), [rgsoc](../tag/rgsoc), [ui](../tag/ui), [question:ui](../tag/question:ui), [comment-template:ui-feedback-template](../tag/comment-template:ui-feedback-template)
 
 Hi, we're starting a series of user interface design projects (on [this page](https://publiclab.org/ui), check them out!), and one of them that's upcoming is for our "advanced search" pages. A LOT of work during the past summer's Rails Girls Summer of Code (#rgsoc) went into overhauling our search code, and we are in a great position to now begin working on lots of detailed refinements on top of that foundation.
 

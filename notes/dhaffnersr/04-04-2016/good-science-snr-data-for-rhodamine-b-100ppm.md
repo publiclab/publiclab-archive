@@ -1,12 +1,18 @@
 ---
-nid: 12916
 title: Good Science SNR data for Rhodamine B 100ppm
-path: public/static/notes/dhaffnersr/04-04-2016/good-science-snr-data-for-rhodamine-b-100ppm.md
-uid: 461120
 tagnames: 
+author: dhaffnersr
+path: /notes/dhaffnersr/04-04-2016/good-science-snr-data-for-rhodamine-b-100ppm.md
+nid: 12916
+uid: 461120
+
 ---
 
 # Good Science SNR data for Rhodamine B 100ppm
+
+by [dhaffnersr](../profile/dhaffnersr) April 04, 2016 13:06
+
+April 04, 2016 13:06 | Tags: 
 
 This research note is directly related to my previous one on the effects of slit width on SNR.
 

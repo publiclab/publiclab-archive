@@ -1,12 +1,18 @@
 ---
-nid: 16434
 title: Bug : Impossible to calibrate this mercury vapour spectrum
-path: public/static/notes/SarahC/06-06-2018/bug-impossible-to-calibrate-this-mercury-vapour-spectrum.md
+tagnames: question:spectral-workbench, answered
+author: SarahC
+path: /notes/SarahC/06-06-2018/bug-impossible-to-calibrate-this-mercury-vapour-spectrum.md
+nid: 16434
 uid: 448894
-tagnames: question:spectral-workbench,answered
+
 ---
 
 # Bug : Impossible to calibrate this mercury vapour spectrum
+
+by [SarahC](../profile/SarahC) June 06, 2018 04:11
+
+June 06, 2018 04:11 | Tags: [question:spectral-workbench](../tag/question:spectral-workbench), [answered](../tag/answered)
 
 Where can I report this?
 

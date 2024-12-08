@@ -1,12 +1,18 @@
 ---
-nid: 13721
 title: Query about Infragram DIY Filter Pack ( blue & red filter)
-path: public/static/notes/suman/11-22-2016/query-about-infragram-diy-filter-pack-blue-red-filter.md
+tagnames: question:infragram, question:question, first-time-poster
+author: suman
+path: /notes/suman/11-22-2016/query-about-infragram-diy-filter-pack-blue-red-filter.md
+nid: 13721
 uid: 497769
-tagnames: question:infragram,question:question,first-time-poster
+
 ---
 
 # Query about Infragram DIY Filter Pack ( blue & red filter)
+
+by [suman](../profile/suman) November 22, 2016 20:54
+
+November 22, 2016 20:54 | Tags: [question:infragram](../tag/question:infragram), [question:question](../tag/question:question), [first-time-poster](../tag/first-time-poster)
 
 Greetings from Nepal,
 

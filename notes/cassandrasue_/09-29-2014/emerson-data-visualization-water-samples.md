@@ -1,12 +1,18 @@
 ---
-nid: 11198
 title: Emerson Data Visualization Water Samples 
-path: public/static/notes/cassandrasue_/09-29-2014/emerson-data-visualization-water-samples.md
+tagnames: water-quality, first-time-poster
+author: cassandrasue_
+path: /notes/cassandrasue_/09-29-2014/emerson-data-visualization-water-samples.md
+nid: 11198
 uid: 427890
-tagnames: water-quality,first-time-poster
+
 ---
 
 # Emerson Data Visualization Water Samples 
+
+by [cassandrasue_](../profile/cassandrasue_) September 29, 2014 04:27
+
+September 29, 2014 04:27 | Tags: [water-quality](../tag/water-quality), [first-time-poster](../tag/first-time-poster)
 
 Sample 1
 

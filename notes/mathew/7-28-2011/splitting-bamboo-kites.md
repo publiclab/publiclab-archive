@@ -1,12 +1,18 @@
 ---
-nid: 416
 title: splitting bamboo for kites
-path: public/static/notes/mathew/7-28-2011/splitting-bamboo-kites.md
+tagnames: kite-mapping, diy-kite, bamboo, diy-kites, difficulty:easy, category:build, time:1h, kite-making, activity:kite-making, activity:bamboo
+author: mathew
+path: /notes/mathew/7-28-2011/splitting-bamboo-kites.md
+nid: 416
 uid: 4
-tagnames: kite-mapping,diy-kite,bamboo,diy-kites,difficulty:easy,category:build,time:1h,kite-making,activity:kite-making,activity:bamboo
+
 ---
 
 # splitting bamboo for kites
+
+by [mathew](../profile/mathew) July 28, 2011 04:17
+
+July 28, 2011 04:17 | Tags: [kite-mapping](../tag/kite-mapping), [diy-kite](../tag/diy-kite), [bamboo](../tag/bamboo), [diy-kites](../tag/diy-kites), [difficulty:easy](../tag/difficulty:easy), [category:build](../tag/category:build), [time:1h](../tag/time:1h), [kite-making](../tag/kite-making), [activity:kite-making](../tag/activity:kite-making), [activity:bamboo](../tag/activity:bamboo)
 
 Bamboo is a great kite making material.  It grows in poor soils and is competitive with Fiberglass for strength. There are two different types of culms (poles) you can use- whole culms, or split culms.  
 

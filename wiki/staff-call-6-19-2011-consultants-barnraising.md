@@ -1,12 +1,18 @@
 ---
-nid: 394
 title: Staff Call 6 19 2011: Consultants, Barnraising
-path: public/static/wiki/staff-call-6-19-2011-consultants-barnraising.md
-uid: 1
 tagnames: 
+author: warren
+path: /wiki/staff-call-6-19-2011-consultants-barnraising.md
+nid: 394
+uid: 1
+
 ---
 
 # Staff Call 6 19 2011: Consultants, Barnraising
+
+by [warren](../profile/warren)
+
+July 19, 2011 22:05 | Tags: 
 
 ##Barn Raising!!!##
 

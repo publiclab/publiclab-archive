@@ -1,12 +1,18 @@
 ---
-nid: 11750
 title: Designing an Oil Testing Kit Cuvette Frame
-path: public/static/notes/mathew/04-07-2015/designing-an-oil-testing-kit-cuvette-frame.md
+tagnames: laser, fluorescence, desktop-spectrometer, oil-testing-kit, 405nm, otk
+author: mathew
+path: /notes/mathew/04-07-2015/designing-an-oil-testing-kit-cuvette-frame.md
+nid: 11750
 uid: 4
-tagnames: laser,fluorescence,desktop-spectrometer,oil-testing-kit,405nm,otk
+
 ---
 
 # Designing an Oil Testing Kit Cuvette Frame
+
+by [mathew](../profile/mathew) April 07, 2015 22:53
+
+April 07, 2015 22:53 | Tags: [laser](../tag/laser), [fluorescence](../tag/fluorescence), [desktop-spectrometer](../tag/desktop-spectrometer), [oil-testing-kit](../tag/oil-testing-kit), [405nm](../tag/405nm), [otk](../tag/otk)
 
 I’ve been working to design an [oil testing](/wiki/oil-testing-kit) add-on the the [spectrometer 3.0](/wiki/desktop-spectrometry-kit-3-0) incorporating the feedback from @stevie, @warren, @stoft, and others regarding the current oil testing kit and spectrometer.
 

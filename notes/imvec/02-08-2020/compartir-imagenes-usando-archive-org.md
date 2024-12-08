@@ -1,12 +1,18 @@
 ---
-nid: 22712
 title: Compartir imágenes usando Archive.org
-path: public/static/notes/imvec/02-08-2020/compartir-imagenes-usando-archive-org.md
+tagnames: lang:es, activity:photo-sharing, photo-sharing, ballon-mapping, spanish, cosquin
+author: imvec
+path: /notes/imvec/02-08-2020/compartir-imagenes-usando-archive-org.md
+nid: 22712
 uid: 495038
-tagnames: lang:es,activity:photo-sharing,photo-sharing,ballon-mapping,spanish,cosquin
+
 ---
 
 # Compartir imágenes usando Archive.org
+
+by [imvec](../profile/imvec) February 08, 2020 22:25
+
+February 08, 2020 22:25 | Tags: [lang:es](../tag/lang:es), [activity:photo-sharing](../tag/activity:photo-sharing), [photo-sharing](../tag/photo-sharing), [ballon-mapping](../tag/ballon-mapping), [spanish](../tag/spanish), [cosquin](../tag/cosquin)
 
 En [#balloon-mapping](https://publiclab.org/tag/balloon-mapping), [#timelapse](https://publiclab.org/tag/timelapse), #[photo-monitoring](https://publiclab.org/tag/photo-monitoring) y otros métodos documentados en esta web acabamos con cantidades muy grandes de fotografías -- esta actividad muestra cómo compartirlas utilizando [Archive.org](https://archive.org).
 

@@ -3,6 +3,8 @@ uid: 420044
 created_at: 2013-12-23 17:05:56 UTC
 ---
 
+# 31gane
+
 I was an Engineer and Researcher, tinkering with Electromagnetic Waves (theory and practical) and quantum physics at some closed down non disclosure lab at CSIR India, and helped in constructing Spectroscopy instruments (Tunable Near-InfraRed NIR).
 
 Friend of ILUGC, FSFTN, FSMK, SIARS, HillHacks, OSM Mapping communities in India. 
@@ -34,5 +36,5 @@ Hates Centralization, Hierarchical, Subjugative structures..... :rage:
 
 ----
 
-[Spectroscopy & My Life So Far](/notes/31gane/12-28-2017/spectroscopy-my-life-so-far)
-[Systems Integration - Spectrometry](/notes/31gane/01-02-2018/integration)
+- [Spectroscopy & My Life So Far](/notes/31gane/12-28-2017/spectroscopy-my-life-so-far)
+- [Systems Integration - Spectrometry](/notes/31gane/01-02-2018/integration)

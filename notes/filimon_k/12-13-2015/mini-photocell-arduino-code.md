@@ -1,12 +1,18 @@
 ---
-nid: 12509
 title: Mini Photocell arduino code
-path: public/static/notes/filimon_k/12-13-2015/mini-photocell-arduino-code.md
-uid: 460113
 tagnames: response:12507
+author: filimon_k
+path: /notes/filimon_k/12-13-2015/mini-photocell-arduino-code.md
+nid: 12509
+uid: 460113
+
 ---
 
 # Mini Photocell arduino code
+
+by [filimon_k](../profile/filimon_k) December 13, 2015 19:38
+
+December 13, 2015 19:38 | Tags: [response:12507](../tag/response:12507)
 
 int LDR = 0;     //analog pin to which LDR is connected, here we set it to 0 so it means A0
 int LDRValue = 0;      //that’s a variable to store LDR values

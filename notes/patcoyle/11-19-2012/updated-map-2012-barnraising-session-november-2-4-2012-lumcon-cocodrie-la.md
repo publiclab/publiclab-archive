@@ -1,12 +1,18 @@
 ---
-nid: 4955
 title: updated map from 2012 Barnraising session November 2-4, 2012 at LUMCON, Cocodrie, LA
-path: public/static/notes/patcoyle/11-19-2012/updated-map-2012-barnraising-session-november-2-4-2012-lumcon-cocodrie-la.md
+tagnames: plots, barnraising2012, lumcon, publiclaboratory, cocodrie-la
+author: patcoyle
+path: /notes/patcoyle/11-19-2012/updated-map-2012-barnraising-session-november-2-4-2012-lumcon-cocodrie-la.md
+nid: 4955
 uid: 77
-tagnames: plots,barnraising2012,lumcon,publiclaboratory,cocodrie-la
+
 ---
 
 # updated map from 2012 Barnraising session November 2-4, 2012 at LUMCON, Cocodrie, LA
+
+by [patcoyle](../profile/patcoyle) November 20, 2012 00:04
+
+November 20, 2012 00:04 | Tags: [plots](../tag/plots), [barnraising2012](../tag/barnraising2012), [lumcon](../tag/lumcon), [publiclaboratory](../tag/publiclaboratory), [cocodrie-la](../tag/cocodrie-la)
 
 This updated map is a follow up from our 2012 Barnraising session November 2-4, 2012 at LUMCON, Cocodrie, LA. 
 

@@ -1,12 +1,18 @@
 ---
-nid: 5103
 title: 2013 WinterCamp: New Orleans and Cocodrie, LA
-path: public/static/wiki/2013-wintercamp-new-orleans-and-cocodrie-la.md
+tagnames: gulf-coast, events, oil-spill-toolkit, balloon-mapping-kit, cocodrie--la, oil-response-toolkit, wintercamp
+author: Shannon
+path: /wiki/2013-wintercamp-new-orleans-and-cocodrie-la.md
+nid: 5103
 uid: 9
-tagnames: gulf-coast,events,oil-spill-toolkit,balloon-mapping-kit,cocodrie--la,oil-response-toolkit,wintercamp
+
 ---
 
 # 2013 WinterCamp: New Orleans and Cocodrie, LA
+
+by [mathew](../profile/mathew), [Shannon](../profile/Shannon)
+
+December 04, 2012 16:34 | Tags: [gulf-coast](../tag/gulf-coast), [events](../tag/events), [oil-spill-toolkit](../tag/oil-spill-toolkit), [balloon-mapping-kit](../tag/balloon-mapping-kit), [cocodrie--la](../tag/cocodrie--la), [oil-response-toolkit](../tag/oil-response-toolkit), [wintercamp](../tag/wintercamp)
 
 Join others from Public Lab during a small gathering we're aptly calling WinterCamp 2013 as we work on completing and refining the oil spill toolkit. More details to come, but information on the schedule below. Email shannon@publiclaboratory.org for more details on logistics.
 

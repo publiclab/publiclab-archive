@@ -1,5 +1,5 @@
 # lat-40.909
 
-1 notes and wiki pages
+1 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Air Marugán Airfield. Segovia, Spain.](/map/air-marugan-segovia-spain/04-05-2014) by [gonzoearth](../profile/gonzoearth)

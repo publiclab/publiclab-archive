@@ -1,6 +1,6 @@
 # sx260hs
 
-4 notes and wiki pages
+4 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Initial experience: SX260HS with gps](/notes/patcoyle/2-21-2013/initial-experiences-sx260hs-gps) by [patcoyle](../profile/patcoyle)
 - [Updated maps - construction site activities near Mocho Park](/notes/patcoyle/01-17-2014/updated-maps-construction-site-activities-near-mocho-park) by [patcoyle](../profile/patcoyle)

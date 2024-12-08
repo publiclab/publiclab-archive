@@ -1,12 +1,18 @@
 ---
-nid: 11366
 title: core microbolometer
-path: public/static/notes/therman/11-18-2014/core-microbolometer.md
-uid: 431635
 tagnames: 
+author: therman
+path: /notes/therman/11-18-2014/core-microbolometer.md
+nid: 11366
+uid: 431635
+
 ---
 
 # core microbolometer
+
+by [therman](../profile/therman) November 18, 2014 00:23
+
+November 18, 2014 00:23 | Tags: 
 
 I am in need of a thermal camera that isnt $$$$  and can be mounted on a UAV and have video (NTSC) output for FPV flying  . I have only found 2 that are close to my price range. If anyone has an opinion or knows where else I can look please let me know. Thanks so much! These are the ones so far.
 

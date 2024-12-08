@@ -1,12 +1,18 @@
 ---
-nid: 4923
 title: Barnraising: Oil Response Toolkit Brainstorm
-path: public/static/notes/mathew/11-15-2012/barnraising-oil-response-toolkit-brainstorm.md
+tagnames: balloon-mapping, spectrometer, kite-mapping, oil-spill, oil-spill-toolkit, oil-response-toolkit
+author: mathew
+path: /notes/mathew/11-15-2012/barnraising-oil-response-toolkit-brainstorm.md
+nid: 4923
 uid: 4
-tagnames: balloon-mapping,spectrometer,kite-mapping,oil-spill,oil-spill-toolkit,oil-response-toolkit
+
 ---
 
 # Barnraising: Oil Response Toolkit Brainstorm
+
+by [mathew](../profile/mathew) November 16, 2012 01:38
+
+November 16, 2012 01:38 | Tags: [balloon-mapping](../tag/balloon-mapping), [spectrometer](../tag/spectrometer), [kite-mapping](../tag/kite-mapping), [oil-spill](../tag/oil-spill), [oil-spill-toolkit](../tag/oil-spill-toolkit), [oil-response-toolkit](../tag/oil-response-toolkit)
 
 
 ###Oil Response Toolkit Brainstorming###

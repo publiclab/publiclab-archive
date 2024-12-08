@@ -1,12 +1,18 @@
 ---
-nid: 13640
 title: 3D visualizations from aerial photos of a landfill (video)
-path: public/static/notes/cfastie/10-23-2016/3d-visualizations-from-aerial-photos-of-a-landfill-video.md
+tagnames: vermont, kite-aerial-photography, landfill, kap, sfm, structure-from-motion, saturnv, skyshield, recap-360, autodesk, bristol-vt
+author: cfastie
+path: /notes/cfastie/10-23-2016/3d-visualizations-from-aerial-photos-of-a-landfill-video.md
+nid: 13640
 uid: 554
-tagnames: vermont,kite-aerial-photography,landfill,kap,sfm,structure-from-motion,saturnv,skyshield,recap-360,autodesk,bristol-vt
+
 ---
 
 # 3D visualizations from aerial photos of a landfill (video)
+
+by [cfastie](../profile/cfastie) October 23, 2016 00:36
+
+October 23, 2016 00:36 | Tags: [vermont](../tag/vermont), [kite-aerial-photography](../tag/kite-aerial-photography), [landfill](../tag/landfill), [kap](../tag/kap), [sfm](../tag/sfm), [structure-from-motion](../tag/structure-from-motion), [saturnv](../tag/saturnv), [skyshield](../tag/skyshield), [recap-360](../tag/recap-360), [autodesk](../tag/autodesk), [bristol-vt](../tag/bristol-vt)
 
 *Above: A 3D model of the landfill at Bristol, Vermont created from aerial photos in ReCap 360, an online structure-from-motion service. The gravel quarry in front of and to the left of the landfill has been excavated to a level which appears to be beneath the level of the garbage in the landfill.*
 

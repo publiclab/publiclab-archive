@@ -1,12 +1,18 @@
 ---
-nid: 12098
 title: Small kites for Mobius: Stowaway Delta 
-path: public/static/notes/patcoyle/07-24-2015/small-kites-for-mobius-stowaway-delta.md
+tagnames: kap, infragram, gimp, infragram-point-shoot, mobius-action-cam, stowaway-delta
+author: patcoyle
+path: /notes/patcoyle/07-24-2015/small-kites-for-mobius-stowaway-delta.md
+nid: 12098
 uid: 77
-tagnames: kap,infragram,gimp,infragram-point-shoot,mobius-action-cam,stowaway-delta
+
 ---
 
 # Small kites for Mobius: Stowaway Delta 
+
+by [patcoyle](../profile/patcoyle) July 24, 2015 06:11
+
+July 24, 2015 06:11 | Tags: [kap](../tag/kap), [infragram](../tag/infragram), [gimp](../tag/gimp), [infragram-point-shoot](../tag/infragram-point-shoot), [mobius-action-cam](../tag/mobius-action-cam), [stowaway-delta](../tag/stowaway-delta)
 
 ###What I want to do
 Continue to explore smaller kites for use with Mobius Infragram plant cam. See prior [note](http://publiclab.org/notes/patcoyle/07-20-2015/small-parafoil-kite-for-mobius-camera) and [note](http://publiclab.org/notes/patcoyle/07-17-2015/more-re-small-pocket-sled-kite-for-mobius-camera) and [note](http://publiclab.org/notes/patcoyle/07-14-2015/smal-pocket-sled-kite-for-mobius-camera).

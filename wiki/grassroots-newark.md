@@ -1,12 +1,18 @@
 ---
-nid: 142
 title: Grassroots Newark
-path: public/static/wiki/grassroots-newark.md
+tagnames: newark, new-jersey, northeast
+author: warren
+path: /wiki/grassroots-newark.md
+nid: 142
 uid: 1
-tagnames: newark,new-jersey,northeast
+
 ---
 
 # Grassroots Newark
+
+by [warren](../profile/warren)
+
+March 09, 2011 23:13 | Tags: [newark](../tag/newark), [new-jersey](../tag/new-jersey), [northeast](../tag/northeast)
 
 <a href="https://www.flickr.com/photos/lizbarry/5175879966/" title="AM - ready set go by lizbarry, on Flickr"><img src="http://farm5.static.flickr.com/4124/5175879966_4228095851.jpg" width="500" height="333" alt="AM - ready set go" /></a>
 

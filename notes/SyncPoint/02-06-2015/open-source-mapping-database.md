@@ -1,12 +1,18 @@
 ---
-nid: 11558
 title: Open source mapping database
-path: public/static/notes/SyncPoint/02-06-2015/open-source-mapping-database.md
-uid: 434942
 tagnames: 
+author: SyncPoint
+path: /notes/SyncPoint/02-06-2015/open-source-mapping-database.md
+nid: 11558
+uid: 434942
+
 ---
 
 # Open source mapping database
+
+by [SyncPoint](../profile/SyncPoint) February 06, 2015 19:45
+
+February 06, 2015 19:45 | Tags: 
 
 ###What I want to do:
  share my created mapping database for feedback, analyses and education

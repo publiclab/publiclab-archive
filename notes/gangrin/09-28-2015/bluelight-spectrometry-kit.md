@@ -1,12 +1,18 @@
 ---
-nid: 12248
 title: Bluelight Spectrometry Kit 
-path: public/static/notes/gangrin/09-28-2015/bluelight-spectrometry-kit.md
+tagnames: spectrometry, korea
+author: gangrin
+path: /notes/gangrin/09-28-2015/bluelight-spectrometry-kit.md
+nid: 12248
 uid: 452627
-tagnames: spectrometry,korea
+
 ---
 
 # Bluelight Spectrometry Kit 
+
+by [gangrin](../profile/gangrin) September 28, 2015 07:24
+
+September 28, 2015 07:24 | Tags: [spectrometry](../tag/spectrometry), [korea](../tag/korea)
 
 [![bluelight.jpg](https://i.publiclab.org/system/images/photos/000/011/692/medium/bluelight.jpg)](https://i.publiclab.org/system/images/photos/000/011/692/original/bluelight.jpg)
 

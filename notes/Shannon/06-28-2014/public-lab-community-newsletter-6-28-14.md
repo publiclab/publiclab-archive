@@ -1,12 +1,18 @@
 ---
-nid: 10626
 title: Public Lab community newsletter 6.28.14
-path: public/static/notes/Shannon/06-28-2014/public-lab-community-newsletter-6-28-14.md
+tagnames: newsletter, newsletter-archive
+author: Shannon
+path: /notes/Shannon/06-28-2014/public-lab-community-newsletter-6-28-14.md
+nid: 10626
 uid: 9
-tagnames: newsletter,newsletter-archive
+
 ---
 
 # Public Lab community newsletter 6.28.14
+
+by [Shannon](../profile/Shannon) June 28, 2014 16:33
+
+June 28, 2014 16:33 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
 
 This week in the Public Lab community newsletter, grab your copy of the “international” Grassroots Mapping Forum (GMF), contribute your thoughts on trash in the next edition of the GMF, check out project updates from coastal Maine to the Czech Republic and get ready for the first OpenHour, focused on aerial mapping. Enjoy!
 

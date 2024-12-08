@@ -1,12 +1,18 @@
 ---
-nid: 5915
 title: Invitation to Gardeners and Farmers
-path: public/static/notes/liz/2-7-2013/invitation-gardeners-and-farmers.md
+tagnames: 5bf, five-borough-farm, urban-ag, community-garden, food
+author: liz
+path: /notes/liz/2-7-2013/invitation-gardeners-and-farmers.md
+nid: 5915
 uid: 7
-tagnames: 5bf,five-borough-farm,urban-ag,community-garden,food
+
 ---
 
 # Invitation to Gardeners and Farmers
+
+by [liz](../profile/liz) February 07, 2013 21:32
+
+February 07, 2013 21:32 | Tags: [5bf](../tag/5bf), [five-borough-farm](../tag/five-borough-farm), [urban-ag](../tag/urban-ag), [community-garden](../tag/community-garden), [food](../tag/food)
 
 January 2013
 

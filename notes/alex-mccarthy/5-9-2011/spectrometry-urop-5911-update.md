@@ -1,12 +1,18 @@
 ---
-nid: 232
 title: Spectrometry UROP 5/9/11 update
-path: public/static/notes/alex-mccarthy/5-9-2011/spectrometry-urop-5911-update.md
+tagnames: spectrometer, uv, ultraviolet
+author: Alex-McCarthy
+path: /notes/alex-mccarthy/5-9-2011/spectrometry-urop-5911-update.md
+nid: 232
 uid: 125
-tagnames: spectrometer,uv,ultraviolet
+
 ---
 
 # Spectrometry UROP 5/9/11 update
+
+by [Alex-McCarthy](../profile/Alex-McCarthy) May 09, 2011 18:59
+
+May 09, 2011 18:59 | Tags: [spectrometer](../tag/spectrometer), [uv](../tag/uv), [ultraviolet](../tag/ultraviolet)
 
 This is my last week doing research on the PLOTS spectrometer project, however another student will be picking up the project over the summer. This week I am without the UV modified camera, so I decided to work on designing a building a spectrometer with a reflective diffraction grating, instead of the transmission diffraction gratings I have been using so far. This would have the advantage of diffraction light without it first having to pass through the polycarbonate CD diffraction grating, which filters out the UV spectrum. While last week I was able to photograph a UV spectrum, it was with the use of specially purchased diffraction grating- it would be better to use a more common item. I went back to exploring the use of a DVD. I turns out that a DVD is actauly two layers of plastic, with the foil sandwiched in the middle. By cutting a notch in the DVD with a pair of scissors, it exposed the layers of plastic, and with a sharp edge, these can easily be pried apart. The result is that the reflective face of the foil layer is exposed, unlike on a CD, where the reflective face of the foil is adhered to the plastic. This means that with the dissected CD you have a diffraction grating where the light reflects directly off the foil, without first traversing a plastic layer. 
 <img src="https://lh5.googleusercontent.com/_fnwaq7QvPD0/TcgzoYzfV4I/AAAAAAAAASc/4lxKdZPJnlo/s640/100_0395.JPG" alt="DVD dissected" />

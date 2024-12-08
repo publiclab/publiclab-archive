@@ -1,12 +1,18 @@
 ---
-nid: 869
 title: Host a balloon mapping workshop
-path: public/static/wiki/host-a-balloon-mapping-workshop.md
+tagnames: education, workshop, organizers
+author: warren
+path: /wiki/host-a-balloon-mapping-workshop.md
+nid: 869
 uid: 1
-tagnames: education,workshop,organizers
+
 ---
 
 # Host a balloon mapping workshop
+
+by [liz](../profile/liz), [mathew](../profile/mathew), [warren](../profile/warren)
+
+February 29, 2012 13:06 | Tags: [education](../tag/education), [workshop](../tag/workshop), [organizers](../tag/organizers)
 
 **Reposted as an activity here: https://publiclab.org/notes/liz/03-15-2017/host-a-balloon-mapping-workshop; content below is from April 2013:**
 

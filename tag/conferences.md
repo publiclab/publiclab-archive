@@ -1,6 +1,6 @@
 # conferences
 
-12 notes and wiki pages
+12 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Conferences](/wiki/conferences) (wiki)
 - [Geologists take over Vienna](/notes/adam-griffith/5-3-2012/geologists-take-over-vienna) by [adam-griffith](../profile/adam-griffith)
@@ -13,4 +13,3 @@
 - [Science for the People](/notes/donblair/06-13-2014/science-for-the-people) by [donblair](../profile/donblair)
 - [Public Lab at Science for Action ](/notes/cfastie/01-03-2015/public-lab-at-science-for-action) by [cfastie](../profile/cfastie)
 - [Event: Citizen Science Gathering in West Virginia](/notes/liz/09-23-2016/event-citizen-science-gathering-in-west-virginia) by [liz](../profile/liz)
-- [10  popular Conference in Las Vegas in 2024](/notes/allconferencealert58/03-13-2024/10-popular-conference-in-las-vegas-in-2024) by [allconferencealert58](../profile/allconferencealert58)

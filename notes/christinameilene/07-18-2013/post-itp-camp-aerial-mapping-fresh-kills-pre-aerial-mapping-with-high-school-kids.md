@@ -1,12 +1,18 @@
 ---
-nid: 8907
 title: Post-ITP Camp Aerial Mapping @ Fresh Kills, Pre-Aerial Mapping with High School Kids!
-path: public/static/notes/christinameilene/07-18-2013/post-itp-camp-aerial-mapping-fresh-kills-pre-aerial-mapping-with-high-school-kids.md
+tagnames: new-york-city, balloon-mapping, landfill, waste, trash, fresh-kills, itp, high-school
+author: christinameilene
+path: /notes/christinameilene/07-18-2013/post-itp-camp-aerial-mapping-fresh-kills-pre-aerial-mapping-with-high-school-kids.md
+nid: 8907
 uid: 170195
-tagnames: new-york-city,balloon-mapping,landfill,waste,trash,fresh-kills,itp,high-school
+
 ---
 
 # Post-ITP Camp Aerial Mapping @ Fresh Kills, Pre-Aerial Mapping with High School Kids!
+
+by [christinameilene](../profile/christinameilene) July 18, 2013 22:22
+
+July 18, 2013 22:22 | Tags: [new-york-city](../tag/new-york-city), [balloon-mapping](../tag/balloon-mapping), [landfill](../tag/landfill), [waste](../tag/waste), [trash](../tag/trash), [fresh-kills](../tag/fresh-kills), [itp](../tag/itp), [high-school](../tag/high-school)
 
 ##What happened
 [As Nick wrote earlier](http://publiclab.org/notes/nejohnson2/06-17-2013/itp-camp-fresh-kills), a group of folks from ITP Camp at NYU took a trip down to Fresh Kills (the former landfill turned park) on Staten Island in June to get started with some aerial mapping. I was lucky to be a part of this group, and the whole experience was truly a highlight of ITP Camp for me. I spend most of my time teaching (and thinking about teaching) design, cartography and other things at the NYC iSchool, a public high school downtown, and I was especially interested in thinking about how to bring aerial mapping back to my classroom.

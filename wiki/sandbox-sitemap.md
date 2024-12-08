@@ -1,12 +1,18 @@
 ---
-nid: 17204
 title: sandbox-sitemap
-path: public/static/wiki/sandbox-sitemap.md
+tagnames: community, sitemap
+author: liz
+path: /wiki/sandbox-sitemap.md
+nid: 17204
 uid: 7
-tagnames: community,sitemap
+
 ---
 
 # sandbox-sitemap
+
+by [liz](../profile/liz), [stevie](../profile/stevie), [joyofsoy](../profile/joyofsoy)
+
+October 01, 2018 21:45 | Tags: [community](../tag/community), [sitemap](../tag/sitemap)
 
 DRAFT UPDATE TO https://publiclab.org/sitemap  
 

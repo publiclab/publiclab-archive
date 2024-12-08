@@ -1,12 +1,18 @@
 ---
-nid: 12246
 title:  Research for finding effective ways to block bluelight
-path: public/static/notes/gangrin/09-28-2015/research-for-finding-effective-ways-to-block-bluelight.md
+tagnames: bluelight, korea
+author: gangrin
+path: /notes/gangrin/09-28-2015/research-for-finding-effective-ways-to-block-bluelight.md
+nid: 12246
 uid: 452627
-tagnames: bluelight,korea
+
 ---
 
 #  Research for finding effective ways to block bluelight
+
+by [gangrin](../profile/gangrin) September 28, 2015 06:58
+
+September 28, 2015 06:58 | Tags: [bluelight](../tag/bluelight), [korea](../tag/korea)
 
  I'm a high school first grade student in South korea. Nice to meet you!^^
 Our school is prestige school. We decided to participate a dissertation contest, which is the biggest event among all another contests! Proffesors from university were jury judge and we won third prize!

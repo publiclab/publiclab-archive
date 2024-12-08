@@ -1,6 +1,6 @@
 # microscope
 
-89 notes and wiki pages
+89 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Optical Imaging of Passive Particle Monitors](/notes/mathew/09-03-2015/optical-imaging-of-passive-particle-monitors) by [mathew](../profile/mathew)
 - [Raspberry Pi based microscope](/notes/Holger/11-06-2015/raspberry-pi-based-microscope) by [Holger](../profile/Holger)
@@ -14,7 +14,6 @@
 - [Sizing particles in microscope images at Portland Science Hackday](/notes/mathew/10-07-2016/sizing-images-at-portland-science-hackday) by [mathew](../profile/mathew)
 - [Microscope from Tablet Computer](/notes/MicroscopesAreCool/12-05-2016/microscope-from-tablet-computer) by [MicroscopesAreCool](../profile/MicroscopesAreCool)
 - [Have you had any experience utilizing low cost portable microscopes?  ](/notes/gilbert/07-18-2017/have-you-had-any-experience-utilizing-low-cost-portable-microscopes) by [gilbert](../profile/gilbert)
-- [Etes vous pour ou contre la chirurgie esthétique en Tunisie](/notes/chirurgie/07-26-2017/etes-vous-pour-ou-contre-la-chirurgie-esthetique-en-tunisie) by [chirurgie](../profile/chirurgie)
 - [Microscopes](/wiki/microscopes) (wiki)
 - [Can we take photos with the Raspberry Pi Zero W and Raspberry Pi camera?](/notes/wmacfarl/09-30-2017/can-we-take-photos-with-the-raspberry-pi-zero-w-and-raspberry-pi-camera) by [wmacfarl](../profile/wmacfarl)
 - [How long does it take to build the hackteria microscope?   (is it easy?) ](/notes/kgradow1/09-30-2017/how-long-does-it-take-to-build-the-hackteria-microscope-is-it-easy) by [kgradow1](../profile/kgradow1)

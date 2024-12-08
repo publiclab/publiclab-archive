@@ -1,6 +1,6 @@
 # outreach
 
-30 notes and wiki pages
+30 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Citizen Science on Google+](/notes/cfastie/12-10-2012/citizen-science-google) by [cfastie](../profile/cfastie)
 - [Create a welcoming "first-timers-only" issue to invite new software contributors](/notes/warren/10-31-2016/create-a-welcoming-first-timers-only-issue-to-invite-new-software-contributors) by [warren](../profile/warren)
@@ -18,14 +18,12 @@
 - [Software outreach: Codes of conduct and friendliness](/notes/warren/12-12-2017/software-outreach-codes-of-conduct-and-friendliness) by [warren](../profile/warren)
 - [CivilServant Community Research Summit, community, society and moderation systems](/notes/warren/01-27-2018/civilservant-community-research-summit-community-society-and-moderation-systems) by [warren](../profile/warren)
 - [Building miniature kites at a family science night](/notes/SuziT9/03-08-2018/building-miniature-kites-at-a-family-science-night) by [SuziT9](../profile/SuziT9)
-- [Have done this before](/notes/SeoServicesSydney/03-23-2018/have-done-this-before) by [SeoServicesSydney](../profile/SeoServicesSydney)
 - [Is it possible to have a digital copy of the step-by-step instructions?](/notes/SuziT9/04-15-2018/fantastic-suzit9-profile-suzit9-is-it-possible-to-have-a-digital-copy-of-the-step-by-step-instructions-looking-forward-to-try-these-minikites) by [SuziT9](../profile/SuziT9)
 - [Reverse Engineering (a hands-on STEM activity)](/notes/SuziT9/04-16-2018/reverse-engineering-a-hands-on-stem-activity) by [SuziT9](../profile/SuziT9)
 - [PLANNING TO HOST AN EVENT?](/notes/stella/04-25-2018/planning-to-host-an-event) by [stella](../profile/stella)
 - [Publiclab Mastodon bot](/notes/imvec/09-05-2018/publiclab-mastodon-bot) by [imvec](../profile/imvec)
 - [SoC MeetUp at DTU](/notes/bansal_sidharth2996/09-12-2018/soc-meetup-at-dtu) by [bansal_sidharth2996](../profile/bansal_sidharth2996)
 - [Public Lab Code Community Report: Jan 2019](/notes/warren/01-02-2019/public-lab-code-community-report-jan-2019) by [warren](../profile/warren)
-- [Skoda kodiaq ](/notes/skoda_kodiaq/01-02-2019/skoda-kodiaq) by [skoda_kodiaq](../profile/skoda_kodiaq)
 - [Brainstorming for Summer of Code 2019](/notes/warren/01-02-2019/brainstorming-for-summer-of-code-2019) by [warren](../profile/warren)
 - [Call for Summer of Code 2019 mentors!](/notes/warren/01-09-2019/call-for-summer-of-code-2019-mentors) by [warren](../profile/warren)
 - [[withdrawn] GSoC Proposal: Mapknitter Overhaul ](/notes/gauravano/04-07-2019/gsoc-proposal-mapknitter-overhaul) by [gauravano](../profile/gauravano)

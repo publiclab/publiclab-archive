@@ -1,12 +1,18 @@
 ---
-nid: 21077
 title: Recipes for Dyes: Chemicals, Metals, and Acids at Cranston Print Works
-path: public/static/notes/joyofsoy/10-04-2019/recipes-for-dyes-chemicals-metals-and-acids-at-cranston-print-works.md
-uid: 540844
 tagnames: redirect:21673
+author: joyofsoy
+path: /notes/joyofsoy/10-04-2019/recipes-for-dyes-chemicals-metals-and-acids-at-cranston-print-works.md
+nid: 21077
+uid: 540844
+
 ---
 
 # Recipes for Dyes: Chemicals, Metals, and Acids at Cranston Print Works
+
+by [joyofsoy](../profile/joyofsoy) October 04, 2019 17:46
+
+October 04, 2019 17:46 | Tags: [redirect:21673](../tag/redirect:21673)
 
 **A version of this story by Summer Gonsalves is published in Public Lab's *Community Science Forum*, Issue 17. Read more from this issue [here][1].** 
 

@@ -1,12 +1,18 @@
 ---
-nid: 14904
 title: What should we do at LEAFFEST?
-path: public/static/notes/cfastie/09-18-2017/what-should-we-do-at-leaffest.md
+tagnames: vermont, leaffest, question:general, leaffest2017, question:leaffest, question:leaffest2017
+author: cfastie
+path: /notes/cfastie/09-18-2017/what-should-we-do-at-leaffest.md
+nid: 14904
 uid: 554
-tagnames: vermont,leaffest,question:general,leaffest2017,question:leaffest,question:leaffest2017
+
 ---
 
 # What should we do at LEAFFEST?
+
+by [cfastie](../profile/cfastie) September 18, 2017 16:50
+
+September 18, 2017 16:50 | Tags: [vermont](../tag/vermont), [leaffest](../tag/leaffest), [question:general](../tag/question:general), [leaffest2017](../tag/leaffest2017), [question:leaffest](../tag/question:leaffest), [question:leaffest2017](../tag/question:leaffest2017)
 
 LEAFFEST is less than two weeks away! (Friday to Sunday: September 30 to October 1)
 

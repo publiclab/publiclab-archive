@@ -1,12 +1,18 @@
 ---
-nid: 25605
 title: What are other ways to assess soil contamination, besides directly measuring contaminant concentrations?
-path: public/static/notes/bhamster/02-05-2021/what-are-other-ways-to-assess-soil-contamination-besides-directly-measuring-contaminant-concentrations.md
+tagnames: soil, bioassay, question:soil, soil-contamination, question:bioassay
+author: bhamster
+path: /notes/bhamster/02-05-2021/what-are-other-ways-to-assess-soil-contamination-besides-directly-measuring-contaminant-concentrations.md
+nid: 25605
 uid: 664477
-tagnames: soil,bioassay,question:soil,soil-contamination,question:bioassay
+
 ---
 
 # What are other ways to assess soil contamination, besides directly measuring contaminant concentrations?
+
+by [bhamster](../profile/bhamster) February 05, 2021 19:05
+
+February 05, 2021 19:05 | Tags: [soil](../tag/soil), [bioassay](../tag/bioassay), [question:soil](../tag/question:soil), [soil-contamination](../tag/soil-contamination), [question:bioassay](../tag/question:bioassay)
 
 This builds off a question that[@abbykinchy](https://publiclab.org/profile/abbykinchy) asked during the [soil research area review kick-off call ](https://publiclab.org/notes/bhamster/01-25-2021/event-welcome-to-the-soil-research-area-review)and one of the [current challenges](https://publiclab.org/wiki/soil#Current+Challenges:) identified on the soil contamination wiki.
 

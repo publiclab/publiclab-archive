@@ -1,12 +1,18 @@
 ---
-nid: 3030
 title: Staff call notes 7 19 2012
-path: public/static/wiki/staff-call-notes-7-19-2012.md
-uid: 1
 tagnames: 
+author: warren
+path: /wiki/staff-call-notes-7-19-2012.md
+nid: 3030
+uid: 1
+
 ---
 
 # Staff call notes 7 19 2012
+
+by [warren](../profile/warren)
+
+July 30, 2012 16:42 | Tags: 
 
 ###Mathew###
 Accomplishments: GMF subscribers list, GMF details work, print prep, easy-cut delta plans need text, got some parts for doing calibration interface for thermal flashlight, parts for picavet kit development. but all illustrations in:

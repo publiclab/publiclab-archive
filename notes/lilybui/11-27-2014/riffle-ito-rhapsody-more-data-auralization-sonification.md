@@ -1,12 +1,18 @@
 ---
-nid: 11412
 title: Riffle-ito Rhapsody: More Data Auralization/Sonification
-path: public/static/notes/lilybui/11-27-2014/riffle-ito-rhapsody-more-data-auralization-sonification.md
+tagnames: water, data, riffle, quality, openwater, coqui, riffle-examples, sound
+author: lilybui
+path: /notes/lilybui/11-27-2014/riffle-ito-rhapsody-more-data-auralization-sonification.md
+nid: 11412
 uid: 420662
-tagnames: water,data,riffle,quality,openwater,coqui,riffle-examples,sound
+
 ---
 
 # Riffle-ito Rhapsody: More Data Auralization/Sonification
+
+by [lilybui](../profile/lilybui) November 27, 2014 17:38
+
+November 27, 2014 17:38 | Tags: [water](../tag/water), [data](../tag/data), [riffle](../tag/riffle), [quality](../tag/quality), [openwater](../tag/openwater), [coqui](../tag/coqui), [riffle-examples](../tag/riffle-examples), [sound](../tag/sound)
 
 This one is just for fun -- extending some more data auralization/sonification work from my original [Visualizing Riffle-ito Data](http://publiclab.org/notes/lilybui/10-16-2014/visualizing-riffle-ito-data) post.
 

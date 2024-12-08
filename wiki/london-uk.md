@@ -1,12 +1,18 @@
 ---
-nid: 512
 title: London UK
-path: public/static/wiki/london-uk.md
+tagnames: london, uk, chapter, eu, place:london
+author: cesarharada
+path: /wiki/london-uk.md
+nid: 512
 uid: 50
-tagnames: london,uk,chapter,eu,place:london
+
 ---
 
 # London UK
+
+by [cindy_excites](../profile/cindy_excites)
+
+October 20, 2011 01:09 | Tags: [london](../tag/london), [uk](../tag/uk), [chapter](../tag/chapter), [eu](../tag/eu), [place:london](../tag/place:london)
 
 ##London - community in the making 
 

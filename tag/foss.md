@@ -1,6 +1,6 @@
 # foss
 
-3 notes and wiki pages
+3 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [FOSS4Geo for Educators](/wiki/foss4geo-for-educators) (wiki)
 - [Software Freedom Day in NIT Hamirpur](/notes/souravirus/09-26-2018/software-freedom-day-in-nit-hamirpur) by [souravirus](../profile/souravirus)

@@ -1,12 +1,18 @@
 ---
-nid: 11090
 title: Soap Bubble Mapping in Prospect Park
-path: public/static/notes/eymund/08-30-2014/soap-bubble-mapping-in-prospect-park.md
-uid: 1016
 tagnames: 
+author: eymund
+path: /notes/eymund/08-30-2014/soap-bubble-mapping-in-prospect-park.md
+nid: 11090
+uid: 1016
+
 ---
 
 # Soap Bubble Mapping in Prospect Park
+
+by [eymund](../profile/eymund) August 30, 2014 14:24
+
+August 30, 2014 14:24 | Tags: 
 
 Keith Williams, New York Times reporter and expert soap bubble photographer wrote a feature on Gowanus CSI (Creek Scene Investigation) capturing fleeting moments of joy.
 

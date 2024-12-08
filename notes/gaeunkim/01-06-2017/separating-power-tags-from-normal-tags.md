@@ -1,12 +1,18 @@
 ---
-nid: 13842
 title: Separating power tags from normal tags
-path: public/static/notes/gaeunkim/01-06-2017/separating-power-tags-from-normal-tags.md
+tagnames: code, powertags
+author: gaeunkim
+path: /notes/gaeunkim/01-06-2017/separating-power-tags-from-normal-tags.md
+nid: 13842
 uid: 501359
-tagnames: code,powertags
+
 ---
 
 # Separating power tags from normal tags
+
+by [gaeunkim](../profile/gaeunkim) January 06, 2017 16:51
+
+January 06, 2017 16:51 | Tags: [code](../tag/code), [powertags](../tag/powertags)
 
 I worked on solving an issue for Publiclab by separating the appearance of power tags from normal tags. A detailed explanation of what power tags are can be found [here][1].   
 

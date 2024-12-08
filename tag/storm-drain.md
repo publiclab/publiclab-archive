@@ -1,6 +1,6 @@
 # storm-drain
 
-4 notes and wiki pages
+4 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [People Vs. Storm Drains](/notes/lukecollins/09-19-2019/people-vs-storm-drains) by [lukecollins](../profile/lukecollins)
 - [New Orleans Clogged Storm Drains](/notes/wisegrey/09-19-2019/new-orleans-lusher-charter-clogged-storm-drains) by [wisegrey](../profile/wisegrey)

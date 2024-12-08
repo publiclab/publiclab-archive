@@ -1,12 +1,18 @@
 ---
-nid: 11714
 title: Using the Mapknitter 2 image placement using geotagged images
-path: public/static/notes/patcoyle/03-23-2015/using-the-mapknitter-2-image-placement-using-geotagged-images.md
+tagnames: mapknitter, delta, kap, gps, sfm, software, structure-from-motion, sx260hs, gsoc, juice-bottle-rig, gsoc-2014, exif, auto-placement, mapknitter2
+author: patcoyle
+path: /notes/patcoyle/03-23-2015/using-the-mapknitter-2-image-placement-using-geotagged-images.md
+nid: 11714
 uid: 77
-tagnames: mapknitter,delta,kap,gps,sfm,software,structure-from-motion,sx260hs,gsoc,juice-bottle-rig,gsoc-2014,exif,auto-placement,mapknitter2
+
 ---
 
 # Using the Mapknitter 2 image placement using geotagged images
+
+by [patcoyle](../profile/patcoyle) March 23, 2015 05:03
+
+March 23, 2015 05:03 | Tags: [mapknitter](../tag/mapknitter), [delta](../tag/delta), [kap](../tag/kap), [gps](../tag/gps), [sfm](../tag/sfm), [software](../tag/software), [structure-from-motion](../tag/structure-from-motion), [sx260hs](../tag/sx260hs), [gsoc](../tag/gsoc), [juice-bottle-rig](../tag/juice-bottle-rig), [gsoc-2014](../tag/gsoc-2014), [exif](../tag/exif), [auto-placement](../tag/auto-placement), [mapknitter2](../tag/mapknitter2)
 
 ###What I want to do
 

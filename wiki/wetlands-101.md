@@ -1,12 +1,18 @@
 ---
-nid: 11794
 title: Wetlands 101
-path: public/static/wiki/wetlands-101.md
+tagnames: wetlands, polemapping, pole-mapping, parent:wetlands-toolkit, site-survey, activity:site-survey, activity:wetlands
+author: stevie
+path: /wiki/wetlands-101.md
+nid: 11794
 uid: 422561
-tagnames: wetlands,polemapping,pole-mapping,parent:wetlands-toolkit,site-survey,activity:site-survey,activity:wetlands
+
 ---
 
 # Wetlands 101
+
+by [liz](../profile/liz), [stevie](../profile/stevie), [Shannon](../profile/Shannon)
+
+May 08, 2015 15:34 | Tags: [wetlands](../tag/wetlands), [polemapping](../tag/polemapping), [pole-mapping](../tag/pole-mapping), [parent:wetlands-toolkit](../tag/parent:wetlands-toolkit), [site-survey](../tag/site-survey), [activity:site-survey](../tag/activity:site-survey), [activity:wetlands](../tag/activity:wetlands)
 
 ##Workshop 2: Understanding your wetlands site
 _Identify and learn about your wetland_

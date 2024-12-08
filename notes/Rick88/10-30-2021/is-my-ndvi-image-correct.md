@@ -1,12 +1,18 @@
 ---
-nid: 28014
 title: Is my NDVI image correct?
-path: public/static/notes/Rick88/10-30-2021/is-my-ndvi-image-correct.md
+tagnames: ndvi, question:ndvi, first-time-poster
+author: Rick88
+path: /notes/Rick88/10-30-2021/is-my-ndvi-image-correct.md
+nid: 28014
 uid: 777298
-tagnames: ndvi,question:ndvi,first-time-poster
+
 ---
 
 # Is my NDVI image correct?
+
+by [Rick88](../profile/Rick88) October 30, 2021 12:09
+
+October 30, 2021 12:09 | Tags: [ndvi](../tag/ndvi), [question:ndvi](../tag/question:ndvi), [first-time-poster](../tag/first-time-poster)
 
 Hi,
 

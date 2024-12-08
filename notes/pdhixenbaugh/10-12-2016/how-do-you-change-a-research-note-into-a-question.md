@@ -1,12 +1,18 @@
 ---
-nid: 13552
 title: How do you change a research note into a question?
-path: public/static/notes/pdhixenbaugh/10-12-2016/how-do-you-change-a-research-note-into-a-question.md
+tagnames: website, question, answered, meta-tag, question:question
+author: pdhixenbaugh
+path: /notes/pdhixenbaugh/10-12-2016/how-do-you-change-a-research-note-into-a-question.md
+nid: 13552
 uid: 459085
-tagnames: website,question,answered,meta-tag,question:question
+
 ---
 
 # How do you change a research note into a question?
+
+by [pdhixenbaugh](../profile/pdhixenbaugh) October 12, 2016 01:57
+
+October 12, 2016 01:57 | Tags: [website](../tag/website), [question](../tag/question), [answered](../tag/answered), [meta-tag](../tag/meta-tag), [question:question](../tag/question:question)
 
 ###What I want to do or know
 * General: Can published research notes be converted to questions?

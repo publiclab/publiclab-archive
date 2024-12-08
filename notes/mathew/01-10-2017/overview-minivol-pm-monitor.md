@@ -1,12 +1,18 @@
 ---
-nid: 13848
 title: Overview: MiniVol PM monitor
-path: public/static/notes/mathew/01-10-2017/overview-minivol-pm-monitor.md
+tagnames: air-quality, dust, silica, pm, library, filter-pm, minivol
+author: mathew
+path: /notes/mathew/01-10-2017/overview-minivol-pm-monitor.md
+nid: 13848
 uid: 4
-tagnames: air-quality,dust,silica,pm,library,filter-pm,minivol
+
 ---
 
 # Overview: MiniVol PM monitor
+
+by [mathew](../profile/mathew) January 10, 2017 00:41
+
+January 10, 2017 00:41 | Tags: [air-quality](../tag/air-quality), [dust](../tag/dust), [silica](../tag/silica), [pm](../tag/pm), [library](../tag/library), [filter-pm](../tag/filter-pm), [minivol](../tag/minivol)
 
 We recently received two used [Airmetrics MiniVol PM][1] samplers from [Global Community Monitor][2]. The MiniVol is a low-volume, battery powered, [filter-based sampler][3]. In filter-based samplers, size-sorted particles are captured on a filter that is then weighed ('gravimetric analysis') to determine the concentration of particulate matter in the air pumped through the monitor ([see more in the wiki][3]).  The MiniVol is designed for 24-hour samples that correspond with [Federal Reference Method (FRM) monitors][4], but due to their lower air volume are not considered FRM-grade.  
 

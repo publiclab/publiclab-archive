@@ -1,12 +1,18 @@
 ---
-nid: 5831
 title: Dart balloon 1967
-path: public/static/notes/liz/1-31-2013/dart-balloon-1967.md
-uid: 7
 tagnames: kite-balloon-hybrid
+author: liz
+path: /notes/liz/1-31-2013/dart-balloon-1967.md
+nid: 5831
+uid: 7
+
 ---
 
 # Dart balloon 1967
+
+by [liz](../profile/liz) January 31, 2013 23:02
+
+January 31, 2013 23:02 | Tags: [kite-balloon-hybrid](../tag/kite-balloon-hybrid)
 
 <a href="http://www.photolib.noaa.gov/700s/theb2769.jpg"</a>
 

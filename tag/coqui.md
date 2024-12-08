@@ -1,6 +1,6 @@
 # coqui
 
-81 notes and wiki pages
+81 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Common Water Contaminants](/wiki/common-water-contaminants) (wiki)
 - [RIFFLE: Confronting Confusing Corrosion Condundrums](/notes/donblair/04-16-2014/riffle-confronting-confusing-corrosion-condundrums) by [donblair](../profile/donblair)
@@ -67,10 +67,6 @@
 - [Tip: traveling with a demo coqui](/notes/stevie/09-26-2019/tip-traveling-with-a-demo-coqui) by [stevie](../profile/stevie)
 - [Building the new Coqui](/notes/natevw/10-09-2019/building-the-new-coqui) by [natevw](../profile/natevw)
 - [Why does my coqui not change frequency in salt water anymore? ](/notes/stevie/06-10-2020/why-does-my-coqui-not-change-frequency-in-salt-water-anymore) by [stevie](../profile/stevie)
-- [Tough to opt to dispute a Cash App payment due to trouble in icon? Call help team.](/notes/marcjames797/06-11-2020/tough-to-opt-to-dispute-a-cash-app-payment-due-to-trouble-in-icon-call-help-team) by [marcjames797](../profile/marcjames797)
-- [Unable to send money from Paypal to Cash App via bank? Get help from support.](/notes/marcjames797/06-11-2020/unable-to-send-money-from-paypal-to-cash-app-via-bank-get-help-from-support) by [marcjames797](../profile/marcjames797)
-- [How long we wait to get my money back from Cash app?](/notes/marcjames797/06-12-2020/how-long-we-wait-to-get-my-money-back-from-cash-app) by [marcjames797](../profile/marcjames797)
-- [Can you talk to a representative to send money from PayPal to Cash app?](/notes/marcjames797/06-12-2020/can-you-talk-to-a-representative-to-send-money-from-paypal-to-cash-app) by [marcjames797](../profile/marcjames797)
 - [HAAM#3: Sensor de conductividad Coqui ](/notes/imvec/09-22-2020/haam-3-sensor-de-conductividad-coqui) by [imvec](../profile/imvec)
 - [Coqui 文件](/notes/imvec/12-14-2020/coqui) by [imvec](../profile/imvec)
 - [Building a Coqui water conductivity sensor and analyzing its sound](/notes/bhamster/08-06-2021/building-a-coqui-water-conductivity-sensor-and-analyzing-its-sound) by [bhamster](../profile/bhamster)

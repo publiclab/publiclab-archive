@@ -1,12 +1,18 @@
 ---
-nid: 489
 title: Forum planning
-path: public/static/wiki/forum-planning.md
+tagnames: community, gmf, grassroots-mapping, grassrootsmappingforum
+author: warren
+path: /wiki/forum-planning.md
+nid: 489
 uid: 1
-tagnames: community,gmf,grassroots-mapping,grassrootsmappingforum
+
 ---
 
 # Forum planning
+
+by [mollydanielsson](../profile/mollydanielsson), [liz](../profile/liz), [warren](../profile/warren), [Shannon](../profile/Shannon), [mathew](../profile/mathew)
+
+September 30, 2011 21:59 | Tags: [community](../tag/community), [gmf](../tag/gmf), [grassroots-mapping](../tag/grassroots-mapping), [grassrootsmappingforum](../tag/grassrootsmappingforum)
 
 Preparation for upcoming issues of the [Grassroots Mapping Forum](/forum)
 

@@ -1,6 +1,6 @@
 # air-quality-monitoring
 
-15 notes and wiki pages
+15 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Extra Super Volatile](/notes/cfastie/12-10-2018/extra-super-volatile) by [cfastie](../profile/cfastie)
 - [How to start air monitoring project?](/notes/shannonkmcalpine/02-01-2019/how-to-start-air-monitoring-project) by [shannonkmcalpine](../profile/shannonkmcalpine)
@@ -16,4 +16,3 @@
 - [Does keeping a bucket sample cold extend the time you have to get it to a lab for testing? ](/notes/stevie/02-09-2022/does-keeping-a-bucket-sample-cold-extend-the-time-you-have-to-get-it-to-a-lab-for-testing) by [stevie](../profile/stevie)
 - [Lichen for Air Quality Biomonitoring](/wiki/lichen-for-air-quality-biomonitoring) (wiki)
 - [What is an ideal distance for Purple Air monitors? ](/notes/michelleiL/08-08-2022/what-is-an-ideal-distance-for-purple-air-monitors) by [michelleiL](../profile/michelleiL)
-- [Fixing Curtain Rods to Plasterboard](/notes/hmsd786/09-02-2022/fixing-curtain-rods-to-plasterboard) by [hmsd786](../profile/hmsd786)

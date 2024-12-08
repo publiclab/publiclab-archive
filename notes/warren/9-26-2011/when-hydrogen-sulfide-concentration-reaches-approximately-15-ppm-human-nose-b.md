@@ -1,12 +1,18 @@
 ---
-nid: 478
 title: "...when the hydrogen sulfide concentration reaches approximately 15 ppm, the human nose becomes desensitized"
-path: public/static/notes/warren/9-26-2011/when-hydrogen-sulfide-concentration-reaches-approximately-15-ppm-human-nose-b.md
+tagnames: hydrogen-sulfide, h2s, exposure, odor, desensitized, smell
+author: warren
+path: /notes/warren/9-26-2011/when-hydrogen-sulfide-concentration-reaches-approximately-15-ppm-human-nose-b.md
+nid: 478
 uid: 1
-tagnames: hydrogen-sulfide,h2s,exposure,odor,desensitized,smell
+
 ---
 
 # "...when the hydrogen sulfide concentration reaches approximately 15 ppm, the human nose becomes desensitized"
+
+by [warren](../profile/warren) September 26, 2011 14:44
+
+September 26, 2011 14:44 | Tags: [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s), [exposure](../tag/exposure), [odor](../tag/odor), [desensitized](../tag/desensitized), [smell](../tag/smell)
 
 http://chemsee-foods.com/hydrogen-sulfide-monitoring/H2S-KT1
 

@@ -1,12 +1,18 @@
 ---
-nid: 18106
 title: What causes spectrum distortion?
-path: public/static/notes/nathanathan/01-12-2019/what-causes-spectrum-distortion.md
+tagnames: spectrometer, distortion, hyperspectral, question:spectrometry
+author: nathanathan
+path: /notes/nathanathan/01-12-2019/what-causes-spectrum-distortion.md
+nid: 18106
 uid: 365600
-tagnames: spectrometer,distortion,hyperspectral,question:spectrometry
+
 ---
 
 # What causes spectrum distortion?
+
+by [nathanathan](../profile/nathanathan) January 12, 2019 22:00
+
+January 12, 2019 22:00 | Tags: [spectrometer](../tag/spectrometer), [distortion](../tag/distortion), [hyperspectral](../tag/hyperspectral), [question:spectrometry](../tag/question:spectrometry)
 
 The spectrums I am able to produce with the public lab smart phone spectrometer have an arc to them that causes problems when doing hyperspectral imaging. I am trying to figure out the optics that cause the arc in order to correct for it. Here is an example:
 

@@ -1,12 +1,18 @@
 ---
-nid: 12074
 title: Musings: Spectrometer Stability
-path: public/static/notes/stoft/07-17-2015/musings-spectrometer-stability.md
+tagnames: spectrometer, oil, kit, test, response:11649
+author: stoft
+path: /notes/stoft/07-17-2015/musings-spectrometer-stability.md
+nid: 12074
 uid: 54025
-tagnames: spectrometer,oil,kit,test,response:11649
+
 ---
 
 # Musings: Spectrometer Stability
+
+by [stoft](../profile/stoft) July 17, 2015 05:46
+
+July 17, 2015 05:46 | Tags: [spectrometer](../tag/spectrometer), [oil](../tag/oil), [kit](../tag/kit), [test](../tag/test), [response:11649](../tag/response:11649)
 
 My experiments with the PLab 3.0 spectrometer and PLab oil-test kit prototypes demonstrated the requirement to build mechanically stable devices. While it can be educational to observe a working webcam+DVD spectrometer and recover colorful plots, performing real measurements requires repeatability which means stability.
 

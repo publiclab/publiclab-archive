@@ -1,12 +1,18 @@
 ---
-nid: 18931
 title: SoC proposal: Image-Sequencer v3: Boosting the performance and adding demonstration based on colorimetry
-path: public/static/notes/lit2017001/04-01-2019/soc-proposal-image-sequencer-v3-boosting-the-performance.md
+tagnames: software, gsoc, first-time-poster, gsoc-2019, soc-2019, soc-2019-proposals, lat:25.435801, lon:81.846311, soc-2019-projects
+author: lit2017001
+path: /notes/lit2017001/04-01-2019/soc-proposal-image-sequencer-v3-boosting-the-performance.md
+nid: 18931
 uid: 577890
-tagnames: software,gsoc,first-time-poster,gsoc-2019,soc-2019,soc-2019-proposals,lat:25.435801,lon:81.846311,soc-2019-projects
+
 ---
 
 # SoC proposal: Image-Sequencer v3: Boosting the performance and adding demonstration based on colorimetry
+
+by [lit2017001](../profile/lit2017001) April 01, 2019 17:56
+
+April 01, 2019 17:56 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [first-time-poster](../tag/first-time-poster), [gsoc-2019](../tag/gsoc-2019), [soc-2019](../tag/soc-2019), [soc-2019-proposals](../tag/soc-2019-proposals), [lat:25.435801](../tag/lat:25.435801), [lon:81.846311](../tag/lon:81.846311), [soc-2019-projects](../tag/soc-2019-projects)
 
 ## About me
 

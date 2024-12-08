@@ -1,12 +1,18 @@
 ---
-nid: 14076
 title: OmniAuth and Wiki Discussion 
-path: public/static/notes/vaibhavgeek/04-01-2017/omniauth-and-wiki-discussion.md
+tagnames: software, gsoc, gsoc-2017, soc, soc-2017, rgsoc-2017, soc-2017-proposals
+author: vaibhavgeek
+path: /notes/vaibhavgeek/04-01-2017/omniauth-and-wiki-discussion.md
+nid: 14076
 uid: 504058
-tagnames: software,gsoc,gsoc-2017,soc,soc-2017,rgsoc-2017,soc-2017-proposals
+
 ---
 
 # OmniAuth and Wiki Discussion 
+
+by [vaibhavgeek](../profile/vaibhavgeek) April 01, 2017 14:52
+
+April 01, 2017 14:52 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [gsoc-2017](../tag/gsoc-2017), [soc](../tag/soc), [soc-2017](../tag/soc-2017), [rgsoc-2017](../tag/rgsoc-2017), [soc-2017-proposals](../tag/soc-2017-proposals)
 
 Proposal for Google Summer of Code 2017
 

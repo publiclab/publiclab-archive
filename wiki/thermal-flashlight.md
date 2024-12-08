@@ -1,12 +1,18 @@
 ---
-nid: 10098
 title: Thermal Flashlight
-path: public/static/wiki/thermal-flashlight.md
+tagnames: thermal-photography, arduino, thermal-flashlight, thermal, heat, method, parent:thermal-photography
+author: warren
+path: /wiki/thermal-flashlight.md
+nid: 10098
 uid: 1
-tagnames: thermal-photography,arduino,thermal-flashlight,thermal,heat,method,parent:thermal-photography
+
 ---
 
 # Thermal Flashlight
+
+by [warren](../profile/warren)
+
+March 02, 2014 17:02 | Tags: [thermal-photography](../tag/thermal-photography), [arduino](../tag/arduino), [thermal-flashlight](../tag/thermal-flashlight), [thermal](../tag/thermal), [heat](../tag/heat), [method](../tag/method), [parent:thermal-photography](../tag/parent:thermal-photography)
 
 A "Thermal Flashlight" is a DIY device which lets you do a kind of "light painting" -- [thermal photography](/wiki/thermal-photography). It produces a colored "heat map" overlaid directly onto a photo of a room. This is the simplest, cheapest, and to date, most effective way we have developed of measuring heat leaks or cool leaks indoors and outdoors. Simply put, the "flashlight" puts out redder light if it's pointed at something hot (default 75 deg F or more) and bluer light if it's pointed at something cold *(default 60 deg F or less).
 

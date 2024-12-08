@@ -1,12 +1,18 @@
 ---
-nid: 109
 title: Research Assistants
-path: public/static/wiki/research-assistants.md
-uid: 1
 tagnames: 
+author: warren
+path: /wiki/research-assistants.md
+nid: 109
+uid: 1
+
 ---
 
 # Research Assistants
+
+by [warren](../profile/warren), [mariakatosvich](../profile/mariakatosvich)
+
+March 02, 2011 20:29 | Tags: 
 
 Here are some descriptions for research assistants we've put out -- although we may still be looking for people to work on these projects, this is mainly a place to archive them for later reuse/repurposing.
 

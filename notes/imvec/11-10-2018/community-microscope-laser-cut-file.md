@@ -1,12 +1,18 @@
 ---
-nid: 17503
 title: Make stages for the Community Microscope Kit
-path: public/static/notes/imvec/11-10-2018/community-microscope-laser-cut-file.md
+tagnames: spain, microscope, activity:microscope, community-microscope, activity:community-microscope-assembly, assembly:community-microscope, lasercut
+author: imvec
+path: /notes/imvec/11-10-2018/community-microscope-laser-cut-file.md
+nid: 17503
 uid: 495038
-tagnames: spain,microscope,activity:microscope,community-microscope,activity:community-microscope-assembly,assembly:community-microscope,lasercut
+
 ---
 
 # Make stages for the Community Microscope Kit
+
+by [imvec](../profile/imvec) November 10, 2018 12:08
+
+November 10, 2018 12:08 | Tags: [spain](../tag/spain), [microscope](../tag/microscope), [activity:microscope](../tag/activity:microscope), [community-microscope](../tag/community-microscope), [activity:community-microscope-assembly](../tag/activity:community-microscope-assembly), [assembly:community-microscope](../tag/assembly:community-microscope), [lasercut](../tag/lasercut)
 
 ### WHAT
 Community microscope file, ready to be cut with a laser cut machine or by hand. 

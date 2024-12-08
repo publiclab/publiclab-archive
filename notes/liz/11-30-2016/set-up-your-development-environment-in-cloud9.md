@@ -1,12 +1,18 @@
 ---
-nid: 13733
 title: Set up your development environment in Cloud9
-path: public/static/notes/liz/11-30-2016/set-up-your-development-environment-in-cloud9.md
+tagnames: software, web, developers, wwg, activity:software
+author: liz
+path: /notes/liz/11-30-2016/set-up-your-development-environment-in-cloud9.md
+nid: 13733
 uid: 7
-tagnames: software,web,developers,wwg,activity:software
+
 ---
 
 # Set up your development environment in Cloud9
+
+by [liz](../profile/liz) November 30, 2016 16:50
+
+November 30, 2016 16:50 | Tags: [software](../tag/software), [web](../tag/web), [developers](../tag/developers), [wwg](../tag/wwg), [activity:software](../tag/activity:software)
 
 **This activity is for people looking for a simple way to get started with the code that runs this website, publiclab.org.**
 

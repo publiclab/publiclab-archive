@@ -1,12 +1,18 @@
 ---
-nid: 27210
 title: Aug 4, 2021 Seminar Series: Transdisciplinary Research to Address Mercury Pollution from Artisanal Gold Mining | Engineering For Change
-path: public/static/notes/fongvania/07-21-2021/aug-4-2021-seminar-series-transdisciplinary-research-to-address-mercury-pollution-from-artisanal-gold-mining-engineering-for-change.md
+tagnames: event, research, pollution, mercury, event:rsvp, place:colombia, date:08-04-2021, engineering4change
+author: fongvania
+path: /notes/fongvania/07-21-2021/aug-4-2021-seminar-series-transdisciplinary-research-to-address-mercury-pollution-from-artisanal-gold-mining-engineering-for-change.md
+nid: 27210
 uid: 754846
-tagnames: event,research,pollution,mercury,event:rsvp,place:colombia,date:08-04-2021,engineering4change
+
 ---
 
 # Aug 4, 2021 Seminar Series: Transdisciplinary Research to Address Mercury Pollution from Artisanal Gold Mining | Engineering For Change
+
+by [fongvania](../profile/fongvania) July 21, 2021 02:48
+
+July 21, 2021 02:48 | Tags: [event](../tag/event), [research](../tag/research), [pollution](../tag/pollution), [mercury](../tag/mercury), [event:rsvp](../tag/event:rsvp), [place:colombia](../tag/place:colombia), [date:08-04-2021](../tag/date:08-04-2021), [engineering4change](../tag/engineering4change)
 
 Hi! I wanted to share an event hosted by Engineering for Change that folks may be interested in ~
 

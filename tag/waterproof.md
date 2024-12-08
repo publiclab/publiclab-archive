@@ -1,6 +1,6 @@
 # waterproof
 
-3 notes and wiki pages
+3 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Waterproofing the Riffle](/notes/pdhixenbaugh/07-09-2018/waterproofing-the-riffle) by [pdhixenbaugh](../profile/pdhixenbaugh)
 - [Looking for recommendations for underwater video stream to surface](/notes/iragersh/11-23-2018/looking-for-recommendations-for-underwater-video-stream-to-surface) by [iragersh](../profile/iragersh)

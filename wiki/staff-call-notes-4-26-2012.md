@@ -1,12 +1,18 @@
 ---
-nid: 1802
 title: Staff call notes 4 26 2012
-path: public/static/wiki/staff-call-notes-4-26-2012.md
-uid: 1
 tagnames: 
+author: warren
+path: /wiki/staff-call-notes-4-26-2012.md
+nid: 1802
+uid: 1
+
 ---
 
 # Staff call notes 4 26 2012
+
+by [warren](../profile/warren)
+
+April 26, 2012 17:32 | Tags: 
 
 ###Shannon###
 * Organizers list

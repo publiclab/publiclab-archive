@@ -1,12 +1,18 @@
 ---
-nid: 15594
 title: How to interpret the results?
-path: public/static/notes/amir129/01-23-2018/how-to-interpret-the-results.md
+tagnames: spectrometry, question:spectrometry, answered
+author: amir129
+path: /notes/amir129/01-23-2018/how-to-interpret-the-results.md
+nid: 15594
 uid: 523425
-tagnames: spectrometry,question:spectrometry,answered
+
 ---
 
 # How to interpret the results?
+
+by [amir129](../profile/amir129) January 23, 2018 19:48
+
+January 23, 2018 19:48 | Tags: [spectrometry](../tag/spectrometry), [question:spectrometry](../tag/question:spectrometry), [answered](../tag/answered)
 
 Hi,
 

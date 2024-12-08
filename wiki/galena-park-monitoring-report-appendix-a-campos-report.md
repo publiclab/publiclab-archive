@@ -1,12 +1,18 @@
 ---
-nid: 12185
 title: galena-park-monitoring-report-appendix-a-campos-report
-path: public/static/wiki/galena-park-monitoring-report-appendix-a-campos-report.md
+tagnames: parent:texas, texas
+author: liz
+path: /wiki/galena-park-monitoring-report-appendix-a-campos-report.md
+nid: 12185
 uid: 7
-tagnames: parent:texas,texas
+
 ---
 
 # galena-park-monitoring-report-appendix-a-campos-report
+
+by [liz](../profile/liz)
+
+August 28, 2015 21:29 | Tags: [parent:texas](../tag/parent:texas), [texas](../tag/texas)
 
 Excerpted from 
 <a href="https://i.publiclab.org/system/images/photos/000/011/319/original/Galena-Park-Monitoring-Report-FINAL.pdf"><i class="icon icon-file"></i> Galena-Park-Monitoring-Report-FINAL.pdf</a>

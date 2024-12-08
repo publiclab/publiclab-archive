@@ -1,6 +1,6 @@
 # parent-spectrometer
 
-5 notes and wiki pages
+5 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [Spectrometer construction](/wiki/spectrometer-construction) (wiki)
 - [Desktop Spectrometry Kit](/wiki/dsk) (wiki)

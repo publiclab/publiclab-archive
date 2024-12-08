@@ -1,12 +1,18 @@
 ---
-nid: 20816
 title: Reviews
-path: public/static/wiki/reviews.md
+tagnames: reviews, research-area-review
+author: warren
+path: /wiki/reviews.md
+nid: 20816
 uid: 1
-tagnames: reviews,research-area-review
+
 ---
 
 # Reviews
+
+by [bhamster](../profile/bhamster), [liz](../profile/liz), [warren](../profile/warren)
+
+September 10, 2019 19:45 | Tags: [reviews](../tag/reviews), [research-area-review](../tag/research-area-review)
 
 **Hello and welcome!** 👋🏻 🎉 Thanks for visiting and learning more about Public Lab’s organized research activities.
 

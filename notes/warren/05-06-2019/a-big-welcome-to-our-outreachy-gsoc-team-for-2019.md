@@ -1,12 +1,18 @@
 ---
-nid: 19259
 title: A big WELCOME to our Outreachy/GSoC team for 2019!
-path: public/static/notes/warren/05-06-2019/a-big-welcome-to-our-outreachy-gsoc-team-for-2019.md
+tagnames: gsoc, blog, code, soc, outreachy, gsoc-2019, soc-2019
+author: warren
+path: /notes/warren/05-06-2019/a-big-welcome-to-our-outreachy-gsoc-team-for-2019.md
+nid: 19259
 uid: 1
-tagnames: gsoc,blog,code,soc,outreachy,gsoc-2019,soc-2019
+
 ---
 
 # A big WELCOME to our Outreachy/GSoC team for 2019!
+
+by [warren](../profile/warren) May 06, 2019 18:33
+
+May 06, 2019 18:33 | Tags: [gsoc](../tag/gsoc), [blog](../tag/blog), [code](../tag/code), [soc](../tag/soc), [outreachy](../tag/outreachy), [gsoc-2019](../tag/gsoc-2019), [soc-2019](../tag/soc-2019)
 
 Hi, all! I wanted to reach out because we will have a record-size team this summer, between 2 Outreachy and 13 GSoC fellows --- we've never had a group this big! We also have a bigger mentor group, but we will certainly need students to help one another. I wanted to reach out and welcome everyone, but also set the tone for the kind of mutual support we will need to succeed together.
 

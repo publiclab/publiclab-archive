@@ -1,12 +1,18 @@
 ---
-nid: 21079
 title: Memories with Molly
-path: public/static/notes/joyofsoy/10-04-2019/memories-with-molly.md
+tagnames: csf, one-cranston, csf17
+author: joyofsoy
+path: /notes/joyofsoy/10-04-2019/memories-with-molly.md
+nid: 21079
 uid: 540844
-tagnames: csf,one-cranston,csf17
+
 ---
 
 # Memories with Molly
+
+by [joyofsoy](../profile/joyofsoy) October 04, 2019 18:46
+
+October 04, 2019 18:46 | Tags: [csf](../tag/csf), [one-cranston](../tag/one-cranston), [csf17](../tag/csf17)
 
 **A version of this story by Ayana Crichton is published in Public Lab's *Community Science Forum*, Issue 17. Read more from this issue [here][1].**
 

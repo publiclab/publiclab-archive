@@ -1,12 +1,18 @@
 ---
-nid: 21065
 title: Job posting: Public Lab Development Associate
-path: public/static/notes/Shannon/10-03-2019/job-posting-public-lab-development-associate.md
-uid: 9
 tagnames: jobs
+author: Shannon
+path: /notes/Shannon/10-03-2019/job-posting-public-lab-development-associate.md
+nid: 21065
+uid: 9
+
 ---
 
 # Job posting: Public Lab Development Associate
+
+by [Shannon](../profile/Shannon) October 03, 2019 14:32
+
+October 03, 2019 14:32 | Tags: [jobs](../tag/jobs)
 
 **Start Date:** December 2019-January 2020
 

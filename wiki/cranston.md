@@ -1,12 +1,18 @@
 ---
-nid: 17754
 title: Cranston
-path: public/static/wiki/cranston.md
-uid: 1
 tagnames: 
+author: warren
+path: /wiki/cranston.md
+nid: 17754
+uid: 1
+
 ---
 
 # Cranston
+
+by [warren](../profile/warren)
+
+November 26, 2018 16:19 | Tags: 
 
 
 ## Tuner app

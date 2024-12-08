@@ -1,12 +1,18 @@
 ---
-nid: 16554
 title: Hey, let's make some markdown style checkboxes!
-path: public/static/notes/cheneyshreve/06-22-2018/hey-let-s-make-some-markdown-style-checkboxes.md
-uid: 537364
 tagnames: 
+author: cheneyshreve
+path: /notes/cheneyshreve/06-22-2018/hey-let-s-make-some-markdown-style-checkboxes.md
+nid: 16554
+uid: 537364
+
 ---
 
 # Hey, let's make some markdown style checkboxes!
+
+by [cheneyshreve](../profile/cheneyshreve) June 22, 2018 23:32
+
+June 22, 2018 23:32 | Tags: 
 
 \* \[ \] an unchecked thing..
 

@@ -1,12 +1,18 @@
 ---
-nid: 30511
 title: Outreachy proposal: Design a new full-screen UI for Infragram.org
-path: public/static/notes/kanaujiashefali/04-19-2022/outreachy-proposal-design-a-new-full-screen-ui-for-infrgram-project.md
+tagnames: software, outreachy, first-time-poster, outreachy-2022, outreachy-summer-2022
+author: kanaujiashefali
+path: /notes/kanaujiashefali/04-19-2022/outreachy-proposal-design-a-new-full-screen-ui-for-infrgram-project.md
+nid: 30511
 uid: 793637
-tagnames: software,outreachy,first-time-poster,outreachy-2022,outreachy-summer-2022
+
 ---
 
 # Outreachy proposal: Design a new full-screen UI for Infragram.org
+
+by [kanaujiashefali](../profile/kanaujiashefali) April 19, 2022 20:20
+
+April 19, 2022 20:20 | Tags: [software](../tag/software), [outreachy](../tag/outreachy), [first-time-poster](../tag/first-time-poster), [outreachy-2022](../tag/outreachy-2022), [outreachy-summer-2022](../tag/outreachy-summer-2022)
 
 ---------
 

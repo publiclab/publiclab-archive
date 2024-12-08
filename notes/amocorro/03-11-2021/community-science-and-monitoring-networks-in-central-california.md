@@ -1,12 +1,18 @@
 ---
-nid: 25901
 title: Community Science and Monitoring Networks in Central California
-path: public/static/notes/amocorro/03-11-2021/community-science-and-monitoring-networks-in-central-california.md
+tagnames: california, interview, reporting, air-quality, blog, global-community-monitor, ccejn, san_joaquin_valley, advocacy, environmental-justice, blog-submission, oil-and-gas, community-organizing, zoom:6, covid-19, bucket-monitor, youth-organizing, lat:35.493727, lon:-118.85968, monitoring-network, community-health
+author: amocorro
+path: /notes/amocorro/03-11-2021/community-science-and-monitoring-networks-in-central-california.md
+nid: 25901
 uid: 700923
-tagnames: california,interview,reporting,air-quality,blog,global-community-monitor,ccejn,san_joaquin_valley,advocacy,environmental-justice,blog-submission,oil-and-gas,community-organizing,zoom:6,covid-19,bucket-monitor,youth-organizing,lat:35.493727,lon:-118.85968,monitoring-network,community-health
+
 ---
 
 # Community Science and Monitoring Networks in Central California
+
+by [amocorro](../profile/amocorro) March 11, 2021 22:57
+
+March 11, 2021 22:57 | Tags: [california](../tag/california), [interview](../tag/interview), [reporting](../tag/reporting), [air-quality](../tag/air-quality), [blog](../tag/blog), [global-community-monitor](../tag/global-community-monitor), [ccejn](../tag/ccejn), [san_joaquin_valley](../tag/san_joaquin_valley), [advocacy](../tag/advocacy), [environmental-justice](../tag/environmental-justice), [blog-submission](../tag/blog-submission), [oil-and-gas](../tag/oil-and-gas), [community-organizing](../tag/community-organizing), [zoom:6](../tag/zoom:6), [covid-19](../tag/covid-19), [bucket-monitor](../tag/bucket-monitor), [youth-organizing](../tag/youth-organizing), [lat:35.493727](../tag/lat:35.493727), [lon:-118.85968](../tag/lon:-118.85968), [monitoring-network](../tag/monitoring-network), [community-health](../tag/community-health)
 
 In an interview on January 26, 2021 for Public Lab, Gustavo Aguirre Jr. shared his experience taking action against the major industries situated within California’s Kern, Tulare, and Kings Counties. Gustavo is the Kern County Director of [Central California Environmental Justice Network (CCEJN)][1]. In 2001, CCEJN founders recognized that their target communities were located throughout the San Joaquin Valley, and so the network expanded to work in partnership with groups from across the region.  CCEJN was established in 1999 and is an environmental justice non-profit organization whose “*mission is to empower our communities and secure our children’s future by eliminating negative environmental impacts in low income and communities of color in the Central Valley.*” Since their beginning, CCEJN has fostered strong working relationships with grassroots groups, regulatory agencies, and academic institutions.
 

@@ -1,12 +1,18 @@
 ---
-nid: 30476
 title: Re-design Infragram landing page
-path: public/static/notes/kunlefashmayop/04-18-2022/re-design-infragram-landing-page.md
+tagnames: infragram, multispectral-imaging, ui, frontend, first-time-poster, zoom:6, lat:6.533645, landingpage, lon:3.361816
+author: kunlefashmayop
+path: /notes/kunlefashmayop/04-18-2022/re-design-infragram-landing-page.md
+nid: 30476
 uid: 794018
-tagnames: infragram,multispectral-imaging,ui,frontend,first-time-poster,zoom:6,lat:6.533645,landingpage,lon:3.361816
+
 ---
 
 # Re-design Infragram landing page
+
+by [kunlefashmayop](../profile/kunlefashmayop) April 18, 2022 15:35
+
+April 18, 2022 15:35 | Tags: [infragram](../tag/infragram), [multispectral-imaging](../tag/multispectral-imaging), [ui](../tag/ui), [frontend](../tag/frontend), [first-time-poster](../tag/first-time-poster), [zoom:6](../tag/zoom:6), [lat:6.533645](../tag/lat:6.533645), [landingpage](../tag/landingpage), [lon:3.361816](../tag/lon:3.361816)
 
 ## I am Fasakin Adekunle, a frontend developer
 

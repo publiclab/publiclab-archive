@@ -1,12 +1,18 @@
 ---
-nid: 699
 title: thermal photography review
-path: public/static/wiki/thermal-photography-review.md
-uid: 12
 tagnames: 
+author: gonzoearth
+path: /wiki/thermal-photography-review.md
+nid: 699
+uid: 12
+
 ---
 
 # thermal photography review
+
+by [gonzoearth](../profile/gonzoearth)
+
+January 19, 2012 00:41 | Tags: 
 
 Questions for Thermal Imaging
 staff notes:

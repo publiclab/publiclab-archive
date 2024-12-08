@@ -1,12 +1,18 @@
 ---
-nid: 13756
 title: Post a new method to publiclab.org
-path: public/static/notes/liz/12-07-2016/post-a-new-method-to-publiclab-org.md
+tagnames: activity, research-culture, activity:methods
+author: liz
+path: /notes/liz/12-07-2016/post-a-new-method-to-publiclab-org.md
+nid: 13756
 uid: 7
-tagnames: activity,research-culture,activity:methods
+
 ---
 
 # Post a new method to publiclab.org
+
+by [liz](../profile/liz) December 07, 2016 15:31
+
+December 07, 2016 15:31 | Tags: [activity](../tag/activity), [research-culture](../tag/research-culture), [activity:methods](../tag/activity:methods)
 
 **Public Lab is about sharing how to do things with other people.**
 

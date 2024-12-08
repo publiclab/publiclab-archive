@@ -1,12 +1,18 @@
 ---
-nid: 12151
 title: Saturn V KAP rig
-path: public/static/notes/Juanjo/08-17-2015/saturn-v-kap-rig.md
+tagnames: kite-mapping, london, rig, uk, eu, saturnv, skyshield, saturn, v, first-time-poster
+author: Juanjo
+path: /notes/Juanjo/08-17-2015/saturn-v-kap-rig.md
+nid: 12151
 uid: 447129
-tagnames: kite-mapping,london,rig,uk,eu,saturnv,skyshield,saturn,v,first-time-poster
+
 ---
 
 # Saturn V KAP rig
+
+by [Juanjo](../profile/Juanjo) August 17, 2015 21:54
+
+August 17, 2015 21:54 | Tags: [kite-mapping](../tag/kite-mapping), [london](../tag/london), [rig](../tag/rig), [uk](../tag/uk), [eu](../tag/eu), [saturnv](../tag/saturnv), [skyshield](../tag/skyshield), [saturn](../tag/saturn), [v](../tag/v), [first-time-poster](../tag/first-time-poster)
 
 Build a Saturn V rig for KAP
 

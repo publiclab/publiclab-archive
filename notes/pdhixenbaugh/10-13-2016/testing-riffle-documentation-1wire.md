@@ -1,12 +1,18 @@
 ---
-nid: 13559
 title: Testing Riffle Documentation - 1wire
-path: public/static/notes/pdhixenbaugh/10-13-2016/testing-riffle-documentation-1wire.md
+tagnames: riffle, riffle-beta, activities:riffle
+author: pdhixenbaugh
+path: /notes/pdhixenbaugh/10-13-2016/testing-riffle-documentation-1wire.md
+nid: 13559
 uid: 459085
-tagnames: riffle,riffle-beta,activities:riffle
+
 ---
 
 # Testing Riffle Documentation - 1wire
+
+by [pdhixenbaugh](../profile/pdhixenbaugh) October 13, 2016 18:39
+
+October 13, 2016 18:39 | Tags: [riffle](../tag/riffle), [riffle-beta](../tag/riffle-beta), [activities:riffle](../tag/activities:riffle)
 
 **Status: Code working, incorrect temperatures.** Need to resolve this. Does documentation need a troubleshooting section? See comments for latest.
 

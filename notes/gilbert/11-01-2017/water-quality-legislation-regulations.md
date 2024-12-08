@@ -1,12 +1,18 @@
 ---
-nid: 15137
 title: Water Quality Legislation, Regulations & Availability
-path: public/static/notes/gilbert/11-01-2017/water-quality-legislation-regulations.md
+tagnames: water-quality, water-regulation, clean-water-act, global-water-availability
+author: gilbert
+path: /notes/gilbert/11-01-2017/water-quality-legislation-regulations.md
+nid: 15137
 uid: 508551
-tagnames: water-quality,water-regulation,clean-water-act,global-water-availability
+
 ---
 
 # Water Quality Legislation, Regulations & Availability
+
+by [gilbert](../profile/gilbert) November 01, 2017 18:26
+
+November 01, 2017 18:26 | Tags: [water-quality](../tag/water-quality), [water-regulation](../tag/water-regulation), [clean-water-act](../tag/clean-water-act), [global-water-availability](../tag/global-water-availability)
 
 **WATER QUALITY LEGISLATION, REGULATIONS & AVAILABILITY:**
 

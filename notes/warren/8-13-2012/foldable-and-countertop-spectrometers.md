@@ -1,12 +1,18 @@
 ---
-nid: 3266
 title: Foldable and "countertop" spectrometers
-path: public/static/notes/warren/8-13-2012/foldable-and-countertop-spectrometers.md
-uid: 1
 tagnames: spectrometer
+author: warren
+path: /notes/warren/8-13-2012/foldable-and-countertop-spectrometers.md
+nid: 3266
+uid: 1
+
 ---
 
 # Foldable and "countertop" spectrometers
+
+by [warren](../profile/warren) August 13, 2012 19:07
+
+August 13, 2012 19:07 | Tags: [spectrometer](../tag/spectrometer)
 
 In preparing for a Kickstarter campaign, I'm putting in a bit of work on two alternatives to the "desktop" spectrometer [we've been working on](/tool/spectrometer). The first is a mini spectrometer attachment for an Android phone, but not the rigid one which we're [trying to 3d print](http://publiclaboratory.org/notes/warren/7-17-2012/failed-3d-print-mobile-spectrometer-attachment). Rather, this is a cheaper, simpler fold-up one made from paper or black styrene plastic. I'm trying to get it small enough to print and ship as a postcard, which we could get out the door to Kickstarter backers almost immediately. The above is the second draft of this design. (design files coming soon, i haven't drawn them up yet)
 

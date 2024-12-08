@@ -1,12 +1,18 @@
 ---
-nid: 10638
 title: Youth Balloon Mapping Workshop (second draft)
-path: public/static/notes/mjain26/07-01-2014/youth-balloon-mapping-workshop-second-draft.md
+tagnames: balloon-mapping, education, curriculum, youth, chicago
+author: mjain26
+path: /notes/mjain26/07-01-2014/youth-balloon-mapping-workshop-second-draft.md
+nid: 10638
 uid: 424870
-tagnames: balloon-mapping,education,curriculum,youth,chicago
+
 ---
 
 # Youth Balloon Mapping Workshop (second draft)
+
+by [mjain26](../profile/mjain26) July 01, 2014 19:10
+
+July 01, 2014 19:10 | Tags: [balloon-mapping](../tag/balloon-mapping), [education](../tag/education), [curriculum](../tag/curriculum), [youth](../tag/youth), [chicago](../tag/chicago)
 
 ###My first draft
 Here is the [link](http://publiclab.org/notes/mjain26/06-24-2014/youth-balloon-mapping-workshop) to my first draft of the curriculum and materials. 

@@ -1,12 +1,18 @@
 ---
-nid: 20250
 title: GSoC Phase ll evaluation
-path: public/static/notes/gautami_gg/07-23-2019/gsoc-phase-ll-evaluation.md
+tagnames: gsoc, soc, gsoc-2019, soc-2019, soc-2019-eval
+author: gautami_gg
+path: /notes/gautami_gg/07-23-2019/gsoc-phase-ll-evaluation.md
+nid: 20250
 uid: 579624
-tagnames: gsoc,soc,gsoc-2019,soc-2019,soc-2019-eval
+
 ---
 
 # GSoC Phase ll evaluation
+
+by [gautami_gg](../profile/gautami_gg) July 23, 2019 15:07
+
+July 23, 2019 15:07 | Tags: [gsoc](../tag/gsoc), [soc](../tag/soc), [gsoc-2019](../tag/gsoc-2019), [soc-2019](../tag/soc-2019), [soc-2019-eval](../tag/soc-2019-eval)
 
 It's strange how time goes by so fast. It seems like only yesterday I was writing my proposal and here I am writing a blog for my second evaluation. I feel so lucky to have been selected as a GSoC participant in PublicLab and be a part of this amazing organisation. Every member here can say the same. From my first day of contribution till date, everyone has been so warm and welcoming. 
 

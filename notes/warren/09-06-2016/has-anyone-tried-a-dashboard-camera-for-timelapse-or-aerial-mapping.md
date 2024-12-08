@@ -1,12 +1,18 @@
 ---
-nid: 13424
 title: Has anyone tried a dashboard camera for timelapse or aerial mapping?
-path: public/static/notes/warren/09-06-2016/has-anyone-tried-a-dashboard-camera-for-timelapse-or-aerial-mapping.md
+tagnames: balloon-mapping, gps, photo-monitoring, timelapse, aerial-mapping, mobius, barnstar:basic, question:balloon-mapping, trapcam, trap-cam, question:aerial-mapping, question:timelapse, question:trap-cam, dashboard-camera, question:photo-monitoring
+author: warren
+path: /notes/warren/09-06-2016/has-anyone-tried-a-dashboard-camera-for-timelapse-or-aerial-mapping.md
+nid: 13424
 uid: 1
-tagnames: balloon-mapping,gps,photo-monitoring,timelapse,aerial-mapping,mobius,barnstar:basic,question:balloon-mapping,trapcam,trap-cam,question:aerial-mapping,question:timelapse,question:trap-cam,dashboard-camera,question:photo-monitoring
+
 ---
 
 # Has anyone tried a dashboard camera for timelapse or aerial mapping?
+
+by [warren](../profile/warren) September 06, 2016 15:13
+
+September 06, 2016 15:13 | Tags: [balloon-mapping](../tag/balloon-mapping), [gps](../tag/gps), [photo-monitoring](../tag/photo-monitoring), [timelapse](../tag/timelapse), [aerial-mapping](../tag/aerial-mapping), [mobius](../tag/mobius), [barnstar:basic](../tag/barnstar:basic), [question:balloon-mapping](../tag/question:balloon-mapping), [trapcam](../tag/trapcam), [trap-cam](../tag/trap-cam), [question:aerial-mapping](../tag/question:aerial-mapping), [question:timelapse](../tag/question:timelapse), [question:trap-cam](../tag/question:trap-cam), [dashboard-camera](../tag/dashboard-camera), [question:photo-monitoring](../tag/question:photo-monitoring)
 
 Hi, all -- I recently read a review of dashboard cameras, and they're really emerging as a mainstream product category in the US. These are the cameras which automatically start running on your dashboard whenever you start up your car, and are designed to be compact, reliable, and extremely high-capacity. 
 

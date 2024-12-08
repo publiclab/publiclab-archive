@@ -1,6 +1,6 @@
 # tutorial
 
-15 notes and wiki pages
+15 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [MapKnitter: Exporting ](/wiki/mapknitter-exporting-your-map) (wiki)
 - [How to install CHDK](/notes/cfastie/5-14-2012/how-install-chdk) by [cfastie](../profile/cfastie)
@@ -15,5 +15,3 @@
 - [How to choose the order of pictures when exporting](/notes/adyr_construction/01-08-2018/how-to-choose-the-order-of-pictures-when-exporting) by [adyr_construction](../profile/adyr_construction)
 - [Adding a jack to the Coqui](/notes/imvec/06-08-2018/adding-a-jack-to-the-coqui) by [imvec](../profile/imvec)
 - [DIY Science Lesson with the Coqui](/notes/pdhixenbaugh/08-22-2018/diy-science-lesson-with-the-coqui) by [pdhixenbaugh](../profile/pdhixenbaugh)
-- [Online C programming language](/notes/Edutainer/06-27-2019/online-c-programming-language) by [Edutainer](../profile/Edutainer)
-- [Oxygen Pro Reaper - M-Audio Oxygen Pro Mini review | MusicRadar (Discount Code: haklWMWd)](/notes/bandonspropper1979/03-03-2024/oxygen-pro-reaper-m-audio-oxygen-pro-mini-review-musicradar-discount-code-haklwmwd) by [bandonspropper1979](../profile/bandonspropper1979)

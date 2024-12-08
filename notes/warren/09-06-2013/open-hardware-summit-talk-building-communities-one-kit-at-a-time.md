@@ -1,12 +1,18 @@
 ---
-nid: 9300
 title: Open Hardware Summit talk: Building communities one kit at a time
-path: public/static/notes/warren/09-06-2013/open-hardware-summit-talk-building-communities-one-kit-at-a-time.md
+tagnames: open-hardware, retail, kits, openhardware, presentation, ohs, open-hardware-summit
+author: warren
+path: /notes/warren/09-06-2013/open-hardware-summit-talk-building-communities-one-kit-at-a-time.md
+nid: 9300
 uid: 1
-tagnames: open-hardware,retail,kits,openhardware,presentation,ohs,open-hardware-summit
+
 ---
 
 # Open Hardware Summit talk: Building communities one kit at a time
+
+by [warren](../profile/warren) September 06, 2013 18:16
+
+September 06, 2013 18:16 | Tags: [open-hardware](../tag/open-hardware), [retail](../tag/retail), [kits](../tag/kits), [openhardware](../tag/openhardware), [presentation](../tag/presentation), [ohs](../tag/ohs), [open-hardware-summit](../tag/open-hardware-summit)
 
 I gave a talk today at the [Open Hardware Summit](http://2013.oshwa.org) about how to strengthen and grow an open source community (like Public Lab) by distributing "starter kiCats" -- and how to embed open and collaborative principles in to objects which we send to people by mail. 
 

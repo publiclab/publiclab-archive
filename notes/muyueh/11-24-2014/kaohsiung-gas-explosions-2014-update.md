@@ -1,12 +1,18 @@
 ---
-nid: 11396
 title: Kaohsiung Gas Explosions 2014 (update)
-path: public/static/notes/muyueh/11-24-2014/kaohsiung-gas-explosions-2014-update.md
+tagnames: mapknitter, uav, aerial-photography, watchdog, quadcopter, asia, barnstar:watchdog, gas, explosion, kaohsiung, taiwan, industry, oil-and-gas
+author: muyueh
+path: /notes/muyueh/11-24-2014/kaohsiung-gas-explosions-2014-update.md
+nid: 11396
 uid: 422365
-tagnames: mapknitter,uav,aerial-photography,watchdog,quadcopter,asia,barnstar:watchdog,gas,explosion,kaohsiung,taiwan,industry,oil-and-gas
+
 ---
 
 # Kaohsiung Gas Explosions 2014 (update)
+
+by [muyueh](../profile/muyueh) November 24, 2014 03:09
+
+November 24, 2014 03:09 | Tags: [mapknitter](../tag/mapknitter), [uav](../tag/uav), [aerial-photography](../tag/aerial-photography), [watchdog](../tag/watchdog), [quadcopter](../tag/quadcopter), [asia](../tag/asia), [barnstar:watchdog](../tag/barnstar:watchdog), [gas](../tag/gas), [explosion](../tag/explosion), [kaohsiung](../tag/kaohsiung), [taiwan](../tag/taiwan), [industry](../tag/industry), [oil-and-gas](../tag/oil-and-gas)
 
 ###What I want to do
 

@@ -1,12 +1,18 @@
 ---
-nid: 13886
 title: Diagramming knowledge production on PublicLab.org
-path: public/static/notes/warren/01-27-2017/diagramming-knowledge-production-on-publiclab-org.md
+tagnames: organizers, organizing, newcomers, research-culture, site, diagramming, mental-model, knowledge-production, knowledge, flow-chart, ui, diagram, diagrams, contribute, research-questions
+author: warren
+path: /notes/warren/01-27-2017/diagramming-knowledge-production-on-publiclab-org.md
+nid: 13886
 uid: 1
-tagnames: organizers,organizing,newcomers,research-culture,site,diagramming,mental-model,knowledge-production,knowledge,flow-chart,ui,diagram,diagrams,contribute,research-questions
+
 ---
 
 # Diagramming knowledge production on PublicLab.org
+
+by [warren](../profile/warren) January 27, 2017 22:03
+
+January 27, 2017 22:03 | Tags: [organizers](../tag/organizers), [organizing](../tag/organizing), [newcomers](../tag/newcomers), [research-culture](../tag/research-culture), [site](../tag/site), [diagramming](../tag/diagramming), [mental-model](../tag/mental-model), [knowledge-production](../tag/knowledge-production), [knowledge](../tag/knowledge), [flow-chart](../tag/flow-chart), [ui](../tag/ui), [diagram](../tag/diagram), [diagrams](../tag/diagrams), [contribute](../tag/contribute), [research-questions](../tag/research-questions)
 
 On a recent (weekly) open research call, @liz and I wanted to work through some mental models of how knowledge is produced on Public Lab -- especially with our new #research-culture initiative. We're trying to make things clear and inviting, but we know there are lots of questions -- so we gave it a shot. @gretchengehrke and @stevie chipped in too!
 

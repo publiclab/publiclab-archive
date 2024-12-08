@@ -1,12 +1,18 @@
 ---
-nid: 1676
 title: Good shutter synchronization
-path: public/static/notes/cfastie/4-14-2012/good-shutter-synchronization.md
+tagnames: balloon-mapping, near-infrared-camera, kite-mapping, triggering, chdk, synchrony
+author: cfastie
+path: /notes/cfastie/4-14-2012/good-shutter-synchronization.md
+nid: 1676
 uid: 554
-tagnames: balloon-mapping,near-infrared-camera,kite-mapping,triggering,chdk,synchrony
+
 ---
 
 # Good shutter synchronization
+
+by [cfastie](../profile/cfastie) April 14, 2012 15:16
+
+April 14, 2012 15:16 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [triggering](../tag/triggering), [chdk](../tag/chdk), [synchrony](../tag/synchrony)
 
 I found a <a href="http://download.cnet.com/XNote-Timer/3000-2350_4-10912167.html?tag=mncol;2">stopwatch program with two decimal places</a> and tried the fancy synchronizing functions in CHDK.  These functions worked great and allowed the shutter releases of the two cameras to be synchronized within about 1/100 of a second.  For making paired visible/IR air photos, this should be good enough!
 

@@ -1,12 +1,18 @@
 ---
-nid: 13761
 title: OpenHour Archive 
-path: public/static/wiki/openhour-archive.md
+tagnames: events, archive, event, openhour, seminar, parent:openhour, 2-
+author: stevie
+path: /wiki/openhour-archive.md
+nid: 13761
 uid: 422561
-tagnames: events,archive,event,openhour,seminar,parent:openhour,2-
+
 ---
 
 # OpenHour Archive 
+
+by [amocorro](../profile/amocorro), [liz](../profile/liz), [stevie](../profile/stevie), [imvec](../profile/imvec), [joyofsoy](../profile/joyofsoy), [warren](../profile/warren), [LaboratorioSombrero](../profile/LaboratorioSombrero), [kanarinka](../profile/kanarinka), [Becki](../profile/Becki), [pdhixenbaugh](../profile/pdhixenbaugh)
+
+December 07, 2016 20:08 | Tags: [events](../tag/events), [archive](../tag/archive), [event](../tag/event), [openhour](../tag/openhour), [seminar](../tag/seminar), [parent:openhour](../tag/parent:openhour), [2-](../tag/2-)
 
 ## 2021 OpenHours ##
 

@@ -1,6 +1,6 @@
 # diy-mount-kit
 
-10 notes and wiki pages
+10 notes and wiki pages | [see all topics](/wiki/topics)
 
 - [String and paperclip method for attaching Mobius camera to dowel pendulum rig](/notes/tonyc/11-30-2015/string-and-paperclip-method-for-attaching-mobius-camera-to-dowel-pendulum-rig) by [tonyc](../profile/tonyc)
 - [soda bottle rig for pendulum suspension](/notes/tonyc/12-12-2015/soda-bottle-rig-for-pendulum-suspension) by [tonyc](../profile/tonyc)

@@ -1,12 +1,18 @@
 ---
-nid: 23379
 title: A note on my departure
-path: public/static/notes/Shannon/04-14-2020/a-note-on-my-departure.md
-uid: 9
 tagnames: blog
+author: Shannon
+path: /notes/Shannon/04-14-2020/a-note-on-my-departure.md
+nid: 23379
+uid: 9
+
 ---
 
 # A note on my departure
+
+by [Shannon](../profile/Shannon) April 14, 2020 15:55
+
+April 14, 2020 15:55 | Tags: [blog](../tag/blog)
 
 Dear friends,
 

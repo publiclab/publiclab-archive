@@ -1,12 +1,18 @@
 ---
-nid: 6936
 title: Spectral Challenge ideas
-path: public/static/wiki/spectral-challenge-ideas.md
+tagnames: spectrometer, spectralchallenge
+author: liz
+path: /wiki/spectral-challenge-ideas.md
+nid: 6936
 uid: 7
-tagnames: spectrometer,spectralchallenge
+
 ---
 
 # Spectral Challenge ideas
+
+by [philippg](../profile/philippg), [Jessica_Helm](../profile/Jessica_Helm), [warren](../profile/warren), [liz](../profile/liz)
+
+April 20, 2013 18:44 | Tags: [spectrometer](../tag/spectrometer), [spectralchallenge](../tag/spectralchallenge)
 
 This wiki page is collecting questions and statements of interest that have been expressed on the mailing lists or in person at barnraisings. Each of these could inspire a Spectral Challenge entry, so click "edit" to add yours below!
 

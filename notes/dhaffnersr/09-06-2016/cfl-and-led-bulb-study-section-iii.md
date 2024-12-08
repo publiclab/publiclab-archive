@@ -1,12 +1,18 @@
 ---
-nid: 13423
 title: CFL and LED Bulb Study Section III
-path: public/static/notes/dhaffnersr/09-06-2016/cfl-and-led-bulb-study-section-iii.md
-uid: 461120
 tagnames: 
+author: dhaffnersr
+path: /notes/dhaffnersr/09-06-2016/cfl-and-led-bulb-study-section-iii.md
+nid: 13423
+uid: 461120
+
 ---
 
 # CFL and LED Bulb Study Section III
+
+by [dhaffnersr](../profile/dhaffnersr) September 06, 2016 12:21
+
+September 06, 2016 12:21 | Tags: 
 
 ##Author, David H. Haffner Sr.
 September, 5 2016

@@ -1,12 +1,18 @@
 ---
-nid: 10287
 title: NASA Space Apps Challenge: Cool It!
-path: public/static/wiki/nasa-space-apps-challenge-cool-it.md
+tagnames: nasa, epa, space-apps-challenge
+author: jmsaavedra
+path: /wiki/nasa-space-apps-challenge-cool-it.md
+nid: 10287
 uid: 46929
-tagnames: nasa,epa,space-apps-challenge
+
 ---
 
 # NASA Space Apps Challenge: Cool It!
+
+by [dippind](../profile/dippind), [jmsaavedra](../profile/jmsaavedra)
+
+April 09, 2014 14:46 | Tags: [nasa](../tag/nasa), [epa](../tag/epa), [space-apps-challenge](../tag/space-apps-challenge)
 
 **NASA Space Apps Challenge**
 

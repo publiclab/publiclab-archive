@@ -1,12 +1,18 @@
 ---
-nid: 15585
 title: Building a Basic Microscope Stage
-path: public/static/notes/partsandcrafts/01-22-2018/building-the-microscope-stage.md
+tagnames: raspberry-pi, with:kgradow1, with:warren, microscope, pi-camera, microscopes, activity:microscopes, with:wmacfarl, activity:pi-camera, with:bmela, activity:basic-microscope, basic-microscope, series:basic-microscope
+author: partsandcrafts
+path: /notes/partsandcrafts/01-22-2018/building-the-microscope-stage.md
+nid: 15585
 uid: 66014
-tagnames: raspberry-pi,with:kgradow1,with:warren,microscope,pi-camera,microscopes,activity:microscopes,with:wmacfarl,activity:pi-camera,with:bmela,activity:basic-microscope,basic-microscope,series:basic-microscope
+
 ---
 
 # Building a Basic Microscope Stage
+
+by [partsandcrafts](../profile/partsandcrafts) January 22, 2018 19:26
+
+January 22, 2018 19:26 | Tags: [raspberry-pi](../tag/raspberry-pi), [with:kgradow1](../tag/with:kgradow1), [with:warren](../tag/with:warren), [microscope](../tag/microscope), [pi-camera](../tag/pi-camera), [microscopes](../tag/microscopes), [activity:microscopes](../tag/activity:microscopes), [with:wmacfarl](../tag/with:wmacfarl), [activity:pi-camera](../tag/activity:pi-camera), [with:bmela](../tag/with:bmela), [activity:basic-microscope](../tag/activity:basic-microscope), [basic-microscope](../tag/basic-microscope), [series:basic-microscope](../tag/series:basic-microscope)
 
 # Why use the Hackteria stage?
 

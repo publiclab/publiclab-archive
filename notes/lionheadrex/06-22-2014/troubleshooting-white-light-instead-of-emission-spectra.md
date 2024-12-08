@@ -1,12 +1,18 @@
 ---
-nid: 10603
 title: Troubleshooting: White light instead of emission spectra
-path: public/static/notes/lionheadrex/06-22-2014/troubleshooting-white-light-instead-of-emission-spectra.md
+tagnames: spectrometer, troubleshooting, grating, solved, dvd
+author: lionheadrex
+path: /notes/lionheadrex/06-22-2014/troubleshooting-white-light-instead-of-emission-spectra.md
+nid: 10603
 uid: 424825
-tagnames: spectrometer,troubleshooting,grating,solved,dvd
+
 ---
 
 # Troubleshooting: White light instead of emission spectra
+
+by [lionheadrex](../profile/lionheadrex) June 22, 2014 21:32
+
+June 22, 2014 21:32 | Tags: [spectrometer](../tag/spectrometer), [troubleshooting](../tag/troubleshooting), [grating](../tag/grating), [solved](../tag/solved), [dvd](../tag/dvd)
 
 ###What I want to do
 Fix my spectrometer (I only see a white light instead of an emission spectra)

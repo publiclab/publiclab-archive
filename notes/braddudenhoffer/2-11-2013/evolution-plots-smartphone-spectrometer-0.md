@@ -1,12 +1,18 @@
 ---
-nid: 5949
 title: The Evolution of the PLOTS Smartphone Spectrometer
-path: public/static/notes/braddudenhoffer/2-11-2013/evolution-plots-smartphone-spectrometer-0.md
+tagnames: spectrometer, mobile-spectrometer, backpack, first-time-poster
+author: BradDudenhoffer
+path: /notes/braddudenhoffer/2-11-2013/evolution-plots-smartphone-spectrometer-0.md
+nid: 5949
 uid: 571
-tagnames: spectrometer,mobile-spectrometer,backpack,first-time-poster
+
 ---
 
 # The Evolution of the PLOTS Smartphone Spectrometer
+
+by [BradDudenhoffer](../profile/BradDudenhoffer) February 12, 2013 01:10
+
+February 12, 2013 01:10 | Tags: [spectrometer](../tag/spectrometer), [mobile-spectrometer](../tag/mobile-spectrometer), [backpack](../tag/backpack), [first-time-poster](../tag/first-time-poster)
 
 <p>Back in August 2012 Jeffrey designed a version of the smartphone spectrometer which he had 3D printed, but unfortunately the results were <a href="http://publiclaboratory.org/notes/warren/7-17-2012/failed-3d-print-mobile-spectrometer-attachment" target="_blank">less than ideal</a>. He made a <a href="http://www.thingiverse.com/thing:28083" target="_blank">post on Thingiverse</a> looking for some help with the design.</p>
 

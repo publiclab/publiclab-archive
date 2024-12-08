@@ -1,12 +1,18 @@
 ---
-nid: 15290
 title: Risks to public comment
-path: public/static/notes/liz/12-03-2017/risks-to-public-comment.md
+tagnames: advocacy, public-comment, bots
+author: liz
+path: /notes/liz/12-03-2017/risks-to-public-comment.md
+nid: 15290
 uid: 7
-tagnames: advocacy,public-comment,bots
+
 ---
 
 # Risks to public comment
+
+by [liz](../profile/liz) December 03, 2017 18:52
+
+December 03, 2017 18:52 | Tags: [advocacy](../tag/advocacy), [public-comment](../tag/public-comment), [bots](../tag/bots)
 
 _Lead image by FRANK AUGUGLIARO for Wired, article linked below_
 

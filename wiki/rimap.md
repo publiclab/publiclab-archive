@@ -1,12 +1,18 @@
 ---
-nid: 21104
 title: Geo Storytelling
-path: public/static/wiki/rimap.md
+tagnames: onecranston, geo-storytelling
+author: warren
+path: /wiki/rimap.md
+nid: 21104
 uid: 1
-tagnames: onecranston,geo-storytelling
+
 ---
 
 # Geo Storytelling
+
+by [warren](../profile/warren)
+
+October 07, 2019 14:13 | Tags: [onecranston](../tag/onecranston), [geo-storytelling](../tag/geo-storytelling)
 
 Welcome! Public Lab is developing a number of community mapping projects, and we would love your input. 
 
