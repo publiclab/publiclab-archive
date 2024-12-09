@@ -14,6 +14,8 @@ by [denissebn_06](../profile/denissebn_06) June 18, 2021 19:30
 
 June 18, 2021 19:30 | Tags: [air-quality](../tag/air-quality), [air](../tag/air), [pm](../tag/pm), [air-monitoring](../tag/air-monitoring), [question:general](../tag/question:general), [general](../tag/general), [particulate-matter](../tag/particulate-matter), [purpleair](../tag/purpleair), [purple-air](../tag/purple-air), [question:vvamp](../tag/question:vvamp), [kriging](../tag/kriging), [gausse-regression](../tag/gausse-regression)
 
+----
+
 What is kriging? How it works and how can we use it when measuring purple air?   
 
 Kriging is a new term related to mapping statistics also known as Gausse Regression. I would like to learn more about it, understand It, and it relation to purple air. 

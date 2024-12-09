@@ -3,6 +3,8 @@ uid: 460486
 created_at: 2015-12-20 11:41:26 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/460486/medium/dp1.jpg)
+
 # shubham
 
 I love to find solutions to real life problems of the people no one cares about. 

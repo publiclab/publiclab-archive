@@ -8,11 +8,15 @@ uid: 379
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/008/419/original/a_IMG_0857.JPG)
+
 # Wetland Watchers map note, 12 dec 2014
 
 by [eustatic](../profile/eustatic) December 16, 2014 01:05
 
 December 16, 2014 01:05 | Tags: [laplace](../tag/laplace), [wetlands](../tag/wetlands), [conservation](../tag/conservation), [park](../tag/park), [ecologically-sensitive-site](../tag/ecologically-sensitive-site), [remediation](../tag/remediation), [urbanwater](../tag/urbanwater), [urbanwaters](../tag/urbanwaters), [lat:30.057208](../tag/lat:30.057208), [lon:-90.370788](../tag/lon:-90.370788), [place:wetland-watchers-park](../tag/place:wetland-watchers-park)
+
+----
 
 ###What I want to do
 

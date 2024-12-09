@@ -14,4 +14,6 @@ by [VIETCHI](../profile/VIETCHI) January 14, 2023 12:19
 
 January 14, 2023 12:19 | Tags: [question:general](../tag/question:general), [general](../tag/general), [first-time-poster](../tag/first-time-poster)
 
+----
+
 I'm trying to create a map of Nigeria showing the different vegetation zones where different varieties of forage can be grown.

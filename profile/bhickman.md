@@ -3,6 +3,8 @@ uid: 201929
 created_at: 2013-08-20 22:27:48 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/218110d69b66eb925a1b62160ae76636)
+
 # bhickman
 
 

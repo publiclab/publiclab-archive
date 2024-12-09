@@ -3,6 +3,8 @@ uid: 643525
 created_at: 2019-12-07 11:23:08 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/4294d8353baca0df34b2fca41f9ec4bf)
+
 # BostonFern
 
 I'm interested in measuring indoor formaldehyde and VOC level because I think my home may have problems. 

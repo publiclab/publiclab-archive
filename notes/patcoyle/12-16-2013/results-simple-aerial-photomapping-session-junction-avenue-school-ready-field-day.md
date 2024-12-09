@@ -8,11 +8,15 @@ uid: 77
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/002/413/original/121413_0021.jpg)
+
 # Results: Simple Aerial Photomapping session, Junction Avenue School READY field day
 
 by [patcoyle](../profile/patcoyle) December 16, 2013 04:21
 
 December 16, 2013 04:21 | Tags: [balloon-mapping](../tag/balloon-mapping), [education](../tag/education), [workshop](../tag/workshop), [norcal](../tag/norcal), [california](../tag/california), [students](../tag/students), [rotary](../tag/rotary)
+
+----
 
 [![IMG_8935_rotated.jpg](https://i.publiclab.org/system/images/photos/000/002/415/medium/IMG_8935_rotated.jpg)](https://i.publiclab.org/system/images/photos/000/002/415/original/IMG_8935_rotated.jpg)
 

@@ -14,6 +14,8 @@ by [erdenetsogt_s](../profile/erdenetsogt_s) October 04, 2019 02:26
 
 October 04, 2019 02:26 | Tags: [question:general](../tag/question:general), [first-time-poster](../tag/first-time-poster)
 
+----
+
 My name's Erdenetsogt, I'm the executive director of Public Lab Mongolia. The initial idea is to look at the same photo from the same location and view angle on a daily basis and it will be shown to the public how bad or good is the Air quality condition at this time or back in two days and so on. And people can understand visually how it's look like if AQ isn't good rather then reading traditional monitoring station scientific record/numbers.
 
 We'll ask the crowd to become volunteers on taking the photo on a daily basis from the same location and view angle.

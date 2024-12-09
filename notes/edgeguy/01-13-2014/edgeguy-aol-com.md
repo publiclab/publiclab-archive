@@ -14,6 +14,8 @@ by [edgeguy](../profile/edgeguy) January 13, 2014 06:09
 
 January 13, 2014 06:09 | Tags: [troubleshooting](../tag/troubleshooting)
 
+----
+
 Anyone to please help?  
 
 I just got the desktop Spectrometry and the camera is a small longish circuit board not at all like the little camera box that the web site indicates.  Please explain or provide other directions or even  the little box camera.  thank you

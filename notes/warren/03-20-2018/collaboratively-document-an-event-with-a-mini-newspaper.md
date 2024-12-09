@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/024/111/original/IMG_20170624_150422_187_%281%29.jpg)
+
 # Collaboratively document an event with a mini newspaper
 
 by [warren](../profile/warren) March 20, 2018 22:59
 
 March 20, 2018 22:59 | Tags: [documentation](../tag/documentation), [barnraising](../tag/barnraising), [facilitation](../tag/facilitation), [doccom](../tag/doccom), [barnraiser](../tag/barnraiser), [the-barnraiser](../tag/the-barnraiser), [activity:barnraiser](../tag/activity:barnraiser), [activity:documentation](../tag/activity:documentation), [activity:barnraising](../tag/activity:barnraising), [activity:doccom](../tag/activity:doccom), [activity:during-barnraising](../tag/activity:during-barnraising), [15124](../tag/15124), [activity:facilitation](../tag/activity:facilitation), [activities:during-barnraising](../tag/activities:during-barnraising)
+
+----
 
 Documentation can be tough at a big, busy event like our Barnraising! We see this activity as a lighthearted (but hard-hitting journalistic) way to summarize and share in a succinct, low-burden, but regular way, what's going on each day. These mini newspapers were inspired by ones made by Lucia Jazayeri, who does Creative Direction at [Clover Food Lab](http://cloverfoodlab.com).
 

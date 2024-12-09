@@ -14,6 +14,8 @@ by [liz](../profile/liz), [mollydanielsson](../profile/mollydanielsson)
 
 January 16, 2013 19:52 | Tags: [website](../tag/website), [plots2](../tag/plots2), [wintercamp](../tag/wintercamp), [newcomers](../tag/newcomers), [onboarding](../tag/onboarding), [out-of-date](../tag/out-of-date)
 
+----
+
 (This is a preview of the dashboard for non members)--please add links
 <a href="https://www.flickr.com/photos/recordandremember/8371505867/" title="IMG_3971 by Shannon Dosemagen, on Flickr"><img src="https://farm9.staticflickr.com/8503/8371505867_dd9bdda49f.jpg" width="375" height="500" alt="IMG_3971"></a>
 

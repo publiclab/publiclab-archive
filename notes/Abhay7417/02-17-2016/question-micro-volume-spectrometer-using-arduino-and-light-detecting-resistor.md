@@ -14,5 +14,7 @@ by [Abhay7417](../profile/Abhay7417) February 17, 2016 09:40
 
 February 17, 2016 09:40 | Tags: [question:spectral-workbench](../tag/question:spectral-workbench), [answered](../tag/answered), [first-time-poster](../tag/first-time-poster)
 
+----
+
 ###What I want to do or know
 Question: I am feeding analog values of light detecting resistor to spectral-workbench software, but it is not accessing, can anyone help me please?

@@ -8,11 +8,15 @@ uid: 427890
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/007/269/original/Byuy9qHIEAAJ_Kx.jpg)
+
 # Water Samples Group 7 
 
 by [cassandrasue_](../profile/cassandrasue_) October 01, 2014 19:03
 
 October 01, 2014 19:03 | Tags: 
+
+----
 
 See a [video](https://www.youtube.com/watch?v=X8v23EBZoS8&feature=youtu.be) of the conductivity of our samples! 
 

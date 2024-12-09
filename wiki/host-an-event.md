@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/019/755/original/Screenshot_2016-10-19_at_11.33.16_AM.png)
+
 # Host an event
 
 by [warren](../profile/warren), [stevie](../profile/stevie)
 
 March 08, 2017 23:35 | Tags: [events](../tag/events), [leaffest](../tag/leaffest), [organizing](../tag/organizing), [ifarm](../tag/ifarm), [tool](../tag/tool), [method](../tag/method), [community-organizing](../tag/community-organizing), [activities:host-an-event](../tag/activities:host-an-event), [event-how-to](../tag/event-how-to)
+
+----
 
 # Why host an event?
 
@@ -39,7 +43,7 @@ Organizing style events are done to help you and your group push forward on a ca
 
 
 ### Examples
-[activities:community-organizing]
+[community-organizing](../../tag/activity:community-organizing)
 
 ****
 
@@ -51,7 +55,7 @@ Some events of this type seek to "train the trainers" and enable participants to
 
 ### Examples
 
-[activities:teach-and-learn]
+[teach-and-learn](../../tag/activity:teach-and-learn)
 
 Also see events you can host in a series such as:
 - [The Wetlands Series](https://publiclab.org/wiki/wetlands-toolkit)

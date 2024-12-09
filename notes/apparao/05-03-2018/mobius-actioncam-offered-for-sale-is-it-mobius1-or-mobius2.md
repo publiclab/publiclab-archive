@@ -14,4 +14,6 @@ by [apparao](../profile/apparao) May 03, 2018 13:21
 
 May 03, 2018 13:21 | Tags: [question:general](../tag/question:general), [first-time-poster](../tag/first-time-poster)
 
+----
+
 My interest is in NDVI computation. I wish to be aware of the model I would be purchasing?

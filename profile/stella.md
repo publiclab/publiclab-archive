@@ -3,6 +3,8 @@ uid: 504749
 created_at: 2017-03-29 09:00:03 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/504749/medium/me.jpg)
+
 # stella
 
 I am a ruby on rails enthusiast. Proud woman in Tech

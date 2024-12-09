@@ -8,11 +8,15 @@ uid: 420719
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/008/334/original/Test1.JPG)
+
 # Accessible Vegetation Indices.
 
 by [gpenzo](../profile/gpenzo) December 11, 2014 12:45
 
 December 11, 2014 12:45 | Tags: [ndvi](../tag/ndvi), [nir](../tag/nir), [cameras](../tag/cameras), [bone](../tag/bone), [two](../tag/two), [beagle](../tag/beagle)
+
+----
 
 ###What I want to do
 I want to get Vegetation Indices, like NDVI, WDVI, NDRE ,EVI

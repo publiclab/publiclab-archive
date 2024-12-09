@@ -14,10 +14,12 @@ by [warren](../profile/warren), [ShintoSunrise](../profile/ShintoSunrise), [cfas
 
 May 23, 2013 16:03 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [faq](../tag/faq), [infragram](../tag/infragram), [parent:infragram](../tag/parent:infragram)
 
+----
+
 _Long form, community generated answers to frequently asked questions about the [Infragram](/wiki/infragram) project [on Kickstarter]()_
 
 
-[questions:infragram]
+[infragram](../../tag/question:infragram)
 
 
 

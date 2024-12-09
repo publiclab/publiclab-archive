@@ -14,6 +14,8 @@ by [warren](../profile/warren), [mathew](../profile/mathew)
 
 February 12, 2015 03:49 | Tags: [spectrometer](../tag/spectrometer), [kits](../tag/kits), [kit-parts](../tag/kit-parts), [parts](../tag/parts), [spectrometer3](../tag/spectrometer3), [parent:desktop-spectrometry-kit-3-0](../tag/parent:desktop-spectrometry-kit-3-0), [lego-spectrometer](../tag/lego-spectrometer)
 
+----
+
  
 
 * two-piece box printed on [Neenah Sundance Eclipse Black Smooth 100 # paper](http://www.neenahpaper.com/FinePaper/ROYALSUNDANCEPapers).

@@ -8,11 +8,15 @@ uid: 422561
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/019/519/original/20160709_143453.jpg)
+
 # Evaluation: Listen4Good round one results
 
 by [stevie](../profile/stevie) February 09, 2017 18:48
 
 February 09, 2017 18:48 | Tags: [events](../tag/events), [evaluation](../tag/evaluation), [listen4good](../tag/listen4good)
+
+----
 
 ###Background:
 In 2015 we began creating an evaluation framework for understanding more about Public Lab's constituency and how we, as a non-profit, can better serve them. (See: [https://publiclab.org/notes/Shannon/03-01-2016/creating-an-evaluation-framework-for-public-lab](https://publiclab.org/notes/Shannon/03-01-2016/creating-an-evaluation-framework-for-public-lab))

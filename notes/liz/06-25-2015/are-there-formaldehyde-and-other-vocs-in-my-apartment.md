@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/010/440/original/IMG_5743.JPG)
+
 # are there formaldehyde and other VOCs in my apartment
 
 by [liz](../profile/liz) June 25, 2015 21:28
 
 June 25, 2015 21:28 | Tags: [formaldehyde](../tag/formaldehyde), [indoor-air-quality](../tag/indoor-air-quality), [voc](../tag/voc)
+
+----
 
 ###What I want to do
 

@@ -8,11 +8,15 @@ uid: 9
 
 ---
 
+![](https://publiclab.org/sites/default/files/New_1.jpg)
+
 # Shenandoah Valley
 
 by [liz](../profile/liz), [adam-griffith](../profile/adam-griffith), [gonzoearth](../profile/gonzoearth), [Shannon](../profile/Shannon)
 
 July 20, 2012 16:34 | Tags: [chapter](../tag/chapter), [list:plots-southeast](../tag/list:plots-southeast), [southeast](../tag/southeast), [parent:southeast](../tag/parent:southeast)
+
+----
 
 * Hosted by Andy Guest State Park over the weekend of 21-22 JUL 2012
 * Coordinated by Denizen Media and the Public Laboratory

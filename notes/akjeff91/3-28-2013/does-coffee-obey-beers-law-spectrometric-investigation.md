@@ -14,6 +14,8 @@ by [akjeff91](../profile/akjeff91) March 28, 2013 20:17
 
 March 28, 2013 20:17 | Tags: [spectrometer](../tag/spectrometer), [spectralworkbench](../tag/spectralworkbench), [centre_college](../tag/centre_college), [beers-law](../tag/beers-law), [coffee](../tag/coffee), [quantitative](../tag/quantitative)
 
+----
+
 Our group constructed the desktop version of the SpectralWorkbench spectrometer: http://publiclaboratory.org/wiki/spectrometer-construction
 
 Our goal was to spectroscopically determine how the transmittance of coffee at a particular wavelength related to its concentration. Through this investigation, we also hoped to determine whether the make-your-own spectrometer can be used effectively for quantitative measurements - meaning that it can accurately determine concentration of the analyte. 

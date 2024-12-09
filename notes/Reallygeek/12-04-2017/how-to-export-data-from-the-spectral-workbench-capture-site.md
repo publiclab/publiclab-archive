@@ -14,6 +14,8 @@ by [Reallygeek](../profile/Reallygeek) December 04, 2017 00:11
 
 December 04, 2017 00:11 | Tags: [arduino](../tag/arduino), [spectralworkbench](../tag/spectralworkbench), [data](../tag/data), [exporting](../tag/exporting), [question:general](../tag/question:general), [cvs](../tag/cvs)
 
+----
+
 I'm try to get real time data of \[wavelength, intensity\] from the "https://spectralworkbench.org/capture" page. I want to export that data and import it to an arduino script for a robotics project. 
 
   

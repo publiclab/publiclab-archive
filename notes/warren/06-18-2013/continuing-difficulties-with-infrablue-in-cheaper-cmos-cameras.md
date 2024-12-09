@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/000/530/original/Screen_Shot_2013-06-18_at_11.17.51_AM.png)
+
 # Continuing difficulties with infrablue in cheaper CMOS cameras
 
 by [warren](../profile/warren) June 18, 2013 15:35
 
 June 18, 2013 15:35 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [infrared](../tag/infrared), [infragram](../tag/infragram), [infrablue](../tag/infrablue), [tests](../tag/tests), [infragram-conversion](../tag/infragram-conversion)
+
+----
 
 I'm in charge of sourcing more compact and cheaper cameras for the Infragram Point & Shoot, and have been experiencing trouble with the images I'm able to take with modified cheaper cameras. It seems like the blue channel is leaking infrared -- something we haven't seen in the Canon cameras we've been converting. I think we'll figure out a way around this but wanted to share my results so far.
 

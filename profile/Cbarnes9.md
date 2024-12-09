@@ -3,6 +3,8 @@ uid: 558529
 created_at: 2018-11-09 00:11:20 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/b13b6ff642a02425039a6775469075cc)
+
 # Cbarnes9
 
 I am a student at the University of Wisconsin Eau Claire. I belong to a frac site research team that does air quality testing in the Chippewa Valley area. Our aim at the University is to obtain data on silica particulates in the air, especially those of PM2.5. 

@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/040/889/original/93239244-82ac5d80-f750-11ea-9317-55745d1dea24.png)
+
 # Summer of Code programs
 
 by [warren](../profile/warren), [ruthnwaiganjo](../profile/ruthnwaiganjo), [stevie](../profile/stevie), [liz](../profile/liz)
 
 May 29, 2013 18:19 | Tags: [gsoc](../tag/gsoc), [list:plots-gsoc](../tag/list:plots-gsoc), [developers](../tag/developers), [parent:developers](../tag/parent:developers), [soc-2017](../tag/soc-2017), [questions](../tag/questions), [soc-2018](../tag/soc-2018), [outreachy-2018](../tag/outreachy-2018), [soc-2019](../tag/soc-2019), [outreachy-2019](../tag/outreachy-2019), [pin:gsoc](../tag/pin:gsoc), [pin:soc](../tag/pin:soc), [pin:outreachy](../tag/pin:outreachy)
+
+----
 
 Public Lab has received support for fellows to work on Public Lab software projects via several "Summer of Code" style programs including [Google's Summer of Code program](https://summerofcode.withgoogle.com) -- 2021 is our eighth great year of open-source coding with GSoC! In 2017 and 2018 we also joined the [Rails Girls Summer of Code](https://railsgirlssummerofcode.org/) program, and in 2018 we participated in [Outreachy](https://outreachy.org).
 
@@ -121,11 +125,11 @@ You are always welcome to reach out and ask any questions
 
 # Questions
 
-[questions:soc]
+[soc](../../tag/question:soc)
 
 ## Activities
 
-[activities:soc]
+[soc](../../tag/activity:soc)
 
 ****
 
@@ -181,4 +185,4 @@ But we also seek to change coding culture by recognizing how important communica
 
 ### Updates
 
-[notes:soc]
+[soc](../../tag/soc)

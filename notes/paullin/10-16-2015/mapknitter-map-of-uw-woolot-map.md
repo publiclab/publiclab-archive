@@ -14,4 +14,6 @@ by [paullin](../profile/paullin) October 16, 2015 00:44
 
 October 16, 2015 00:44 | Tags: [mapknitter](../tag/mapknitter), [lat:43.4642578](../tag/lat:43.4642578), [lon:-80.5204096](../tag/lon:-80.5204096)
 
+----
+
 <iframe src="https://mapknitter.org/embed/uw-map--2" style="border:none" width="100%" height="400px"></iframe><br /><br />these images were acquired on Sep 31., 2015, the weather is sunny, Doctor Johnson acquired the data by balloon. <br />https://mapknitter.org/embed/uw-map--2

@@ -8,11 +8,15 @@ uid: 785824
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/045/355/original/CAESlogo.jpg)
+
 # Introducing the Center for Applied Environmental Science (CAES)
 
 by [Fleer](../profile/Fleer) January 27, 2022 18:51
 
 January 27, 2022 18:51 | Tags: [air-quality](../tag/air-quality), [climate-change](../tag/climate-change), [oil-and-gas](../tag/oil-and-gas), [lat:0](../tag/lat:0), [lon:0](../tag/lon:0), [first-time-poster](../tag/first-time-poster), [zoom:1](../tag/zoom:1), [law-and-policy](../tag/law-and-policy)
+
+----
 
 In September 2020 the [Environmental Integrity Project](https://environmentalintegrity.org/ "https://environmentalintegrity.org/") launched a new initiative -- the [Center for Applied Environmental Science (CAES)](https://caes.info/ "https://caes.info/") -- whose mission is to help communities and environmental advocates obtain expert assistance in their efforts to hold polluters accountable.
 

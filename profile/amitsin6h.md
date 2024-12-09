@@ -3,6 +3,8 @@ uid: 515111
 created_at: 2017-09-26 06:34:21 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/515111/medium/amitsin6h.jpg)
+
 # amitsin6h
 
 Open Source Enthusiast | Software Developer | Researcher

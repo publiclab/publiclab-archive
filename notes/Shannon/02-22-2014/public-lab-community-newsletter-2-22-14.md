@@ -8,11 +8,15 @@ uid: 9
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/002/986/original/plots-logo-transparent.jpg)
+
 # Public Lab community newsletter 2.22.14
 
 by [Shannon](../profile/Shannon) February 22, 2014 16:39
 
 February 22, 2014 16:39 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
+
+----
 
 In the Public Lab community newsletter this week, grab your issue of the Grassroots Mapping Forum focused on the New York Public Lab chapter, join other Public Labbers in Austin and New Orleans for meet-ups in March and get in on pre-testing oil sampling kits. Enjoy!
 

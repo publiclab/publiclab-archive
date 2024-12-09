@@ -8,11 +8,15 @@ uid: 43651
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/003/703/original/open-lux-revf-front.png)
+
 # Open-Lux REV-F: "NeoPixel" Fiesta!
 
 by [donblair](../profile/donblair) April 17, 2014 21:17
 
 April 17, 2014 21:17 | Tags: [thermal-photography](../tag/thermal-photography), [open-hardware](../tag/open-hardware), [calibration](../tag/calibration), [thermal-flashlight](../tag/thermal-flashlight), [spectrometer-calibration](../tag/spectrometer-calibration), [intensity-calibration](../tag/intensity-calibration), [thermal-imaging](../tag/thermal-imaging), [thermal-fishing](../tag/thermal-fishing), [open-lux](../tag/open-lux)
+
+----
 
 ### Previously ....
 

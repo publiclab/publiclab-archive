@@ -14,6 +14,8 @@ by [stevie](../profile/stevie) August 28, 2015 19:18
 
 August 28, 2015 19:18 | Tags: [gulf-coast](../tag/gulf-coast), [blog](../tag/blog), [gulfcoast](../tag/gulfcoast)
 
+----
+
 Check out [this post](http://www.sierraclub.org/sierra/2015-4-july-august/green-life/5-post-katrina-innovations-new-orleans-can-brag-about) from CATHERINE SCHUKNECHT in the Sierra Club Green Life Blog:: 
 
 It’s been 10 years since Hurricane Katrina made landfall, taking the lives of 1,500 people and destroying countless homes, churches, businesses, and schools. The people of New Orleans have spent a decade rebuilding their city, but not everyone has felt the full impact of the recovery effort. A recent survey revealed a stark racial divide in how residents perceive improvements to infrastructure and their standard of living. But don’t be too discouraged: We found five green innovations that have taken root since the storm and are improving the lives of citizens across the board.

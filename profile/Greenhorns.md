@@ -3,6 +3,8 @@ uid: 756206
 created_at: 2021-05-12 13:31:27 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/756206/medium/Blacksmiths_Banner_1600x.jpg)
+
 # Greenhorns
 
 Greenhorns works to promote, recruit and support the next generation of farmers through grassroots media production. Our role is to explore the context in which new farmers face the world, through publications, films, media, and events - and by promoting the important work being done by so many organizations, alliances, trusts and individuals regionally and around the world.

@@ -8,11 +8,15 @@ uid: 9
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/031/777/original/IMG_20190424_135638_094.jpg)
+
 # Public Lab job posting: Business and Operations Manager
 
 by [Shannon](../profile/Shannon) April 25, 2019 16:22
 
 April 25, 2019 16:22 | Tags: [nonprofit](../tag/nonprofit), [blog](../tag/blog), [jobs](../tag/jobs)
+
+----
 
 **Start Date:** Mid June 2019
 

@@ -8,11 +8,15 @@ uid: 749812
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/043/160/original/Science_Pothole_1.jpg)
+
 # Potholes in New Orleans
 
 by [Rgaude](../profile/Rgaude) April 07, 2021 15:11
 
 April 07, 2021 15:11 | Tags: [gulf-coast](../tag/gulf-coast), [laplace](../tag/laplace), [louisiana](../tag/louisiana), [new-orleans](../tag/new-orleans), [potholes](../tag/potholes), [soil-quality](../tag/soil-quality), [lon:0](../tag/lon:0), [zoom:1](../tag/zoom:1), [lat:30.145127](../tag/lat:30.145127)
+
+----
 
 ### Introduction:
 

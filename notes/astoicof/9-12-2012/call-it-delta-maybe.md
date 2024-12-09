@@ -8,11 +8,15 @@ uid: 256
 
 ---
 
+![](https://publiclab.org/sites/default/files/photo 3.JPG)
+
 # call it Delta, maybe
 
 by [astoicof](../profile/astoicof) September 12, 2012 19:22
 
 September 12, 2012 19:22 | Tags: [kite-mapping](../tag/kite-mapping), [kite](../tag/kite), [diy-kite](../tag/diy-kite), [delta](../tag/delta), [california](../tag/california), [notam](../tag/notam), [bamboo](../tag/bamboo), [diy-kites](../tag/diy-kites), [difficulty:easy](../tag/difficulty:easy), [category:build](../tag/category:build), [time:1h](../tag/time:1h), [kite-making](../tag/kite-making), [activity:kite-making](../tag/activity:kite-making)
+
+----
 
 This is a research note and attached PDF for a kite design.  This is the first time I’ve ever built a kite, so the design is as amateur as a prototype can get and has lots of room for improvement.  For the design, I used a combination of the other kite research notes posted on PL (as of 7/23/2012), two books from the children’s section of the library, “Fun with Kites” (Dyson, J. a. (1976). Fun with Kites. UK: Angus & Robertson Ltd.) and “25 Kites that Fly” (Hunt, L. L. (1964). 25 Kites that Fly. Milwaukee, WI: The Bruce Publishing Company), specifically using instructions for a kite entitled “Star Streaker”, and the dimensions of the ITW Levitation Delta. Since it’s a hybrid of ideas/designs, I’ve entitled my instructions “call it Delta, maybe.”
 

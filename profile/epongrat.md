@@ -3,6 +3,8 @@ uid: 428825
 created_at: 2014-09-22 17:09:32 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/d6945030dce151020c55501082c0b6e4)
+
 # epongrat
 
 I am conducting a research project at UMass Amherst, looking at asthma related pollution in Springfield, then finding areas with potential for clean energy development. 

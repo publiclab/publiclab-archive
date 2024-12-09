@@ -14,6 +14,8 @@ by [moparmusclecars](../profile/moparmusclecars), [Shannon](../profile/Shannon)
 
 December 22, 2011 18:36 | Tags: 
 
+----
+
 ##A Short History of the Centerville Neighborhood##
 
 Centerville began in 1877 as a mining camp just North of Butte city limits. As the Anaconda Copper Mining Company grew to control all nearby mining sites--including the now mile-deep Mountain Consolidated Mine--small plots of land were leased to miners to live in within walking distance to the mine sites that would employ them. These early residents understood that Centerville's residential plots of land were temporary as the company would undoubtedly expand mineral extraction across the hill, demolishing all company-owned homes in the process. Due to the understanding that mineral exploitation was priority and that the company homes were temporary, many early Centerville residents neglected much needed repairs on homes and substandard living conditions were widely accepted. 

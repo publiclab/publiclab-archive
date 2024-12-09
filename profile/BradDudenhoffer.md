@@ -3,6 +3,8 @@ uid: 571
 created_at: 2016-09-09 14:17:27 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/23af5135d7a7a1cbbcc9d2a6bca2e2ac)
+
 # BradDudenhoffer
 
 

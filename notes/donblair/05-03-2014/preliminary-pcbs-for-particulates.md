@@ -8,11 +8,15 @@ uid: 43651
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/004/013/original/prelimPM)
+
 # Preliminary PCBs for Particulates
 
 by [donblair](../profile/donblair) May 03, 2014 11:37
 
 May 03, 2014 11:37 | Tags: [arduino](../tag/arduino), [air-quality](../tag/air-quality), [dustduino](../tag/dustduino), [dust](../tag/dust), [particulate](../tag/particulate), [pm](../tag/pm), [digispark](../tag/digispark), [shenyei](../tag/shenyei), [shinyei](../tag/shinyei), [activity:circuit-design](../tag/activity:circuit-design), [circuit-design](../tag/circuit-design)
+
+----
 
 [Note -- a follow-up discussion around this technology actually works -- with some great commentary from the Public Lab community on ways of perhaps improving upon it -- is [here](http://publiclab.org/notes/donblair/05-03-2014/how-do-we-measure-particulate-stuff-in-the-air)]
 

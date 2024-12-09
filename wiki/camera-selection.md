@@ -14,6 +14,8 @@ by [warren](../profile/warren), [hagitkeysar](../profile/hagitkeysar), [Arnaud](
 
 February 17, 2012 23:42 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [parent:balloon-mapping](../tag/parent:balloon-mapping)
 
+----
+
 ##What kind of camera works best for balloon/kite mapping?##
 
 Technically, any camera will work for [balloon and kite mapping](/tool/balloon-mapping), but compact cameras in the "point-and-shoot" class are the right size & weight for balloons and kites, and are cheap. You can check if your camera is listed (or add it) in our <a href="https://docs.google.com/spreadsheet/ccc?key=0AmNi5XjPZeNgdEY5dGFoaENCWGd4TTZvRGZXbzhVSmc&usp=sharing">camera review</a>. Phones with good cameras can also work, although in turbulent conditions there may be some motion blur problems.  
@@ -42,4 +44,4 @@ For timelapse apps on smartphones, see [Timelapse Apps](/timelapse-apps).
 
 ## Questions
 
-[questions:camera-selection]
+[camera-selection](../../tag/question:camera-selection)

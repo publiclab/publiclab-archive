@@ -8,11 +8,15 @@ uid: 752875
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/043/302/original/Denka.jpg)
+
 # Plant Pollution
 
 by [jerejack0507](../profile/jerejack0507) April 14, 2021 14:33
 
 April 14, 2021 14:33 | Tags: [gulf-coast](../tag/gulf-coast), [cancer](../tag/cancer), [lousiana](../tag/lousiana), [issue-brief](../tag/issue-brief), [chloroprene](../tag/chloroprene), [first-time-poster](../tag/first-time-poster), [zoom:6](../tag/zoom:6), [lat:30.053813](../tag/lat:30.053813), [lon:-90.551753](../tag/lon:-90.551753), [denka](../tag/denka), [dupont](../tag/dupont), [st-john-parish](../tag/st-john-parish)
+
+----
 
 ### Introduction:
 

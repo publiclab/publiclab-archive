@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/043/662/original/Community_balloon_mapping_workshop_to_investigate_Houston's_White_Oak_Bayou_CC-BY-SA_2019_Public_Lab_contributor__a1ahna.jpg)
+
 # Education
 
 by [jmacha](../profile/jmacha), [mimiss](../profile/mimiss), [dragonwood0](../profile/dragonwood0), [stevie](../profile/stevie), [liz](../profile/liz), [warren](../profile/warren), [JSummers](../profile/JSummers)
 
 February 12, 2013 17:21 | Tags: [community](../tag/community), [education](../tag/education), [classroom](../tag/classroom), [teachers](../tag/teachers)
+
+----
 
 #Welcome
 
@@ -63,13 +67,13 @@ ________________
 
 Here are some different activities particularly suited for use in the classroom:
 
-[activities:education]
+[education](../../tag/activity:education)
 
 ****
 
 ## Questions
 
-[questions:education]
+[education](../../tag/question:education)
 
 ****
 

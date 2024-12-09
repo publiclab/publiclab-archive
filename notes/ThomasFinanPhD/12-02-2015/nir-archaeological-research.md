@@ -8,11 +8,15 @@ uid: 459445
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/013/121/original/Frame-24-07-2015-06-11-04.tiff)
+
 # NIR Archaeological Research 
 
 by [ThomasFinanPhD](../profile/ThomasFinanPhD) December 02, 2015 00:55
 
 December 02, 2015 00:55 | Tags: [infrared](../tag/infrared), [raspberry-pi](../tag/raspberry-pi), [infrared-camera](../tag/infrared-camera), [infragram](../tag/infragram)
+
+----
 
 ###What I want to do
 

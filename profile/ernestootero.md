@@ -3,6 +3,8 @@ uid: 447002
 created_at: 2015-08-09 17:00:59 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/a9d65658bbcf86a5b7902ae56d142fce)
+
 # ernestootero
 
 Researcher, marine science, UPRM

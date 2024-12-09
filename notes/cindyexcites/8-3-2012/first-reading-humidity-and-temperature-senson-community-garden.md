@@ -14,6 +14,8 @@ by [cindy_excites](../profile/cindy_excites) August 03, 2012 22:11
 
 August 03, 2012 22:11 | Tags: [arduino](../tag/arduino), [diy](../tag/diy), [humidity-and-temperature-sensor](../tag/humidity-and-temperature-sensor)
 
+----
+
 On the 1st of August we prototyped and installed a humidity and temperature sensor at the Mildmay Community Centre (MCC) garden. The <a href="http://www.tigoe.com/pcomp/code/arduinowiring/1043/">Arduino-based sensor uses a DHT11 humidity and temperature sensor</a> and records to a micro SD card.
 
 In this first attempt we placed the device in a plastic container with six large holes drilled from underneath. The container was hung with hemp rope from a pyramidal bamboo structure, which was secured  to the ground. We placed a thermometer and humidity reader next to the sensor to compare the readings. 

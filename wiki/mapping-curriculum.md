@@ -14,6 +14,8 @@ by [gonzoearth](../profile/gonzoearth), [pablo](../profile/pablo), [warren](../p
 
 February 01, 2011 20:13 | Tags: [balloon-mapping](../tag/balloon-mapping), [education](../tag/education), [curriculum](../tag/curriculum), [location:blurred](../tag/location:blurred), [place:united-states](../tag/place:united-states), [lat:30](../tag/lat:30), [lon:-90](../tag/lon:-90), [zoom:6](../tag/zoom:6)
 
+----
+
 ##Grassroots Mapping Curriculum (BETA)##
 
 2011, Public Laboratory for Open Technology and Science. 

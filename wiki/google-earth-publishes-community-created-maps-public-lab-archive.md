@@ -14,6 +14,8 @@ by [Shannon](../profile/Shannon)
 
 April 18, 2012 14:03 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping)
 
+----
+
 NEWS RELEASE
 FOR IMMEDIATE RELEASE
 April 18, 2012

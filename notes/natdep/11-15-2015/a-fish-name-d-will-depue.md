@@ -14,4 +14,6 @@ by [natdep](../profile/natdep) November 15, 2015 04:13
 
 November 15, 2015 04:13 | Tags: [mapknitter](../tag/mapknitter), [lat:34.0539038849](../tag/lat:34.0539038849), [lon:-118.5403883457](../tag/lon:-118.5403883457)
 
+----
+
 <iframe src="https://mapknitter.org/embed/sattelite-imagery" style="border:none" width="100%" height="400px"></iframe><br /><br /><br />https://mapknitter.org/embed/sattelite-imagery

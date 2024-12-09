@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/003/584/original/Screen_Shot_2014-04-10_at_4.56.38_AM.png)
+
 # norcal
 
 by [MicheleTobias](../profile/MicheleTobias), [liz](../profile/liz), [warren](../profile/warren)
 
 April 14, 2013 05:01 | Tags: [norcal](../tag/norcal), [list:plots-norcal](../tag/list:plots-norcal), [events:norcal](../tag/events:norcal), [chapter](../tag/chapter), [lat:37.80](../tag/lat:37.80), [lon:-122.26](../tag/lon:-122.26), [regional](../tag/regional), [region](../tag/region)
+
+----
 
 The Northern California region has held a number of balloon mapping and other Public Lab events, and has an active mailing list where members organize and announce events.
 

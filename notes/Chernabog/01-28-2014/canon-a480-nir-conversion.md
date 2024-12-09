@@ -8,11 +8,15 @@ uid: 319651
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/002/678/original/A480_NIR_Conversion.JPG)
+
 # Canon A480 NIR Conversion
 
 by [Chernabog](../profile/Chernabog) January 28, 2014 00:33
 
 January 28, 2014 00:33 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [conversion](../tag/conversion), [filter](../tag/filter), [infragram](../tag/infragram), [a480](../tag/a480), [activity:infrared-camera-conversion](../tag/activity:infrared-camera-conversion)
+
+----
 
 I have converted a Canon A480 with the Rosco #2007 filter so that I can (hopefully) do some comparisons with it compared to a Tetracam ADC Micro.  I also have a Canon A2200 that I intend to modify with a Wratten 25a filter, although I am struggling to find a filter for it at the moment (anyone have any spare?).
 

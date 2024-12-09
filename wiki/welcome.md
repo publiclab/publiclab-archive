@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/039/702/original/BarnraisingToolTable_copy.jpg)
+
 # Welcome to Public Lab
 
 by [bhamster](../profile/bhamster), [laurel_mire](../profile/laurel_mire), [xose](../profile/xose), [liz](../profile/liz), [joyofsoy](../profile/joyofsoy), [stevie](../profile/stevie), [warren](../profile/warren)
 
 April 06, 2012 16:10 | Tags: [community](../tag/community), [website](../tag/website), [welcome](../tag/welcome), [getting-started](../tag/getting-started), [newcomers](../tag/newcomers), [onboarding](../tag/onboarding), [style:minimal](../tag/style:minimal), [content](../tag/content)
+
+----
 
 We're so happy to meet you! 👋🎉🎈 This page is to help newcomers get started with the Public Lab community.
 

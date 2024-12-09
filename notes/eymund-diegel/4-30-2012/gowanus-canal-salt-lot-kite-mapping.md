@@ -8,11 +8,15 @@ uid: 1016
 
 ---
 
+![](https://publiclab.org/sites/default/files/Hello Kitty says use protection when flying.jpg)
+
 # Gowanus Canal Salt Lot Kite Mapping
 
 by [eymund](../profile/eymund) April 30, 2012 14:50
 
 April 30, 2012 14:50 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [camera-rig-tests](../tag/camera-rig-tests), [photo-rig](../tag/photo-rig), [activity:photo-rig](../tag/activity:photo-rig), [first-time-poster](../tag/first-time-poster)
+
+----
 
 I posted some selected pics from Saturday's Salt Lot kite photography exercises. We got a couple of good shots of the new Composting Gowanus site improvements:
 

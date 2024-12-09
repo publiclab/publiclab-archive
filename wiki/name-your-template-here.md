@@ -14,6 +14,8 @@ by [asoamarachi](../profile/asoamarachi)
 
 June 15, 2020 11:23 | Tags: 
 
+----
+
 ## Help us document this bug.
 
 ### Title:
@@ -44,4 +46,4 @@ or use https://ezgif.com/video-to-gif to convert an already made video to GIF.
 
 ##### Tag:
 
-[questions:editor-bug]
+[editor-bug](../../tag/question:editor-bug)

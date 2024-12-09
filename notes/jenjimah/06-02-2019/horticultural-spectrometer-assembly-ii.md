@@ -8,11 +8,15 @@ uid: 505738
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/032/672/original/20190530_173730.jpg)
+
 # Horticultural Spectrometer - Assembly II
 
 by [jenjimah](../profile/jenjimah) June 02, 2019 18:37
 
 June 02, 2019 18:37 | Tags: [spectrometer](../tag/spectrometer), [slit](../tag/slit), [blade](../tag/blade), [razor](../tag/razor)
+
+----
 
 This is an update to the main project [Horticultural Spectrometer Upgrade - Planning  
 ](https://publiclab.org/notes/jenjimah/04-07-2019/horticultural-spectroscope-upgrade-planning)

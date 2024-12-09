@@ -3,6 +3,8 @@ uid: 455825
 created_at: 2015-10-28 02:42:55 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/af871a7edaaa0c02fdde911c8a474dcb)
+
 # taramei
 
 Extra Terrestrial Projects connects city-dwellers with environmental stewardship and wildlands through music, art, food, and design.

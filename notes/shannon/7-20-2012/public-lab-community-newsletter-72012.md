@@ -14,6 +14,8 @@ by [Shannon](../profile/Shannon) July 20, 2012 19:42
 
 July 20, 2012 19:42 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
 
+----
+
 A mapping trip to Bayou Bienvenue in New Orleans, articles in the NYTimes and Americas Quarterly, a new Public Lab workspace in NYC, and a number of exciting research notes on hydrogen sulfide sensing, spectrometry and thermal imaging, all highlighted in the Public Lab community newsletter this week. Enjoy!
 
 1. Mapping Bayou Bienvenue in New Orleans. If you're in the Orleans/St. Bernard area, people are getting together around 8am on Tuesday morning (7/24) at the Martin Luther King, Jr. School in the Lower 9th Ward. They're going to be mapping restoration in Bayou Bienvenue and need a couple of folks to take up paddles, steer the canoes and launch balloons. Email eustatic@gmail.com if you're interested in joining.

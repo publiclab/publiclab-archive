@@ -3,6 +3,8 @@ uid: 315
 created_at: 2016-09-09 14:17:26 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/94f6d80a3cddea116ba9ddbd4dd00d1a)
+
 # jschaffr
 
 

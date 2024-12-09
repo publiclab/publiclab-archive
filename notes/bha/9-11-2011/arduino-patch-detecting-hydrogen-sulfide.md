@@ -14,6 +14,8 @@ by [bha](../profile/bha) September 12, 2011 03:52
 
 September 12, 2011 03:52 | Tags: [arduino](../tag/arduino), [h2s](../tag/h2s), [hydrogen-sulfide-sensor](../tag/hydrogen-sulfide-sensor)
 
+----
+
 I programmed an arduino patch for detecting Hydrogen Sulfide.
 
 But I didn't get the Figaro TGS825 sensor, I took a test by using the VOC sensor and Potentiometer. 

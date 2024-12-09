@@ -8,11 +8,15 @@ uid: 468506
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/016/254/original/question_index_page.jpg)
+
 # Design Ideas for Expanded Q & A Project
 
 by [ananyo2012](../profile/ananyo2012) May 11, 2016 01:55
 
 May 11, 2016 01:55 | Tags: [software](../tag/software), [design](../tag/design), [gsoc](../tag/gsoc), [web](../tag/web), [developers](../tag/developers), [gsoc-2016](../tag/gsoc-2016), [q-and-a](../tag/q-and-a), [ui](../tag/ui)
+
+----
 
 Hello everyone. Here are the very early designs of the Expanded Q & A project for Publiclab.org. 
 

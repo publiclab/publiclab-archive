@@ -3,6 +3,8 @@ uid: 420530
 created_at: 2014-01-30 16:21:19 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/95acda1f39f67bd9bed1621d2d2d39f4)
+
 # silverhammer
 
 Guerilla biochemist.  Builder of open-source hardware (visions of automated scientific instruments running on Android).  

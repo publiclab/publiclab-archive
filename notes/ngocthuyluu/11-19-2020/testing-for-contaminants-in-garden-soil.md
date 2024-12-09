@@ -14,6 +14,8 @@ by [ngocthuyluu](../profile/ngocthuyluu) November 19, 2020 01:35
 
 November 19, 2020 01:35 | Tags: [soil](../tag/soil), [waste-management](../tag/waste-management), [trash](../tag/trash), [public-health](../tag/public-health), [advocacy](../tag/advocacy), [soil-sampling](../tag/soil-sampling), [question:soil-sampling](../tag/question:soil-sampling), [issue-brief](../tag/issue-brief), [seattle](../tag/seattle), [first-time-poster](../tag/first-time-poster), [soil-contamination](../tag/soil-contamination), [litter](../tag/litter), [dumping](../tag/dumping), [washington](../tag/washington), [pacific-northwest](../tag/pacific-northwest)
 
+----
+
 ### Introduction:
 
 Hi! I am a resident of a low-income neighborhood in Seattle. Due to Covid-19, our trash and recycle pick-up routes have changed over the past few months and we've experienced more delays.  
@@ -35,4 +37,4 @@ Littering and furniture dumping is common to see in my neighborhood, but with pi
 - Are there ways to test for contaminants in the fruits and veggies we grow if not the soil? 
 
   
-[questions:seattle-garden-soil]
+[seattle-garden-soil](../../tag/question:seattle-garden-soil)

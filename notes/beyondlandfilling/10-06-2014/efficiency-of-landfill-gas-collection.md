@@ -14,6 +14,8 @@ by [beyondlandfilling](../profile/beyondlandfilling) October 06, 2014 16:04
 
 October 06, 2014 16:04 | Tags: 
 
+----
+
 Your methane mapping of landfill ideas are excellent, especially because the industry and EPA's waste office, which is dominated by the large waste companies, claim without any factual basis very high capture rates for the gas collection systems used in landfills in the range of 78% to 95%.
 
 To the opposite effect, the IPCC, like many NGOs, has found that actual lifetime efficiencies "are as low as 20%." 

@@ -14,6 +14,8 @@ by [aashnaaashna](../profile/aashnaaashna) July 25, 2019 18:45
 
 July 25, 2019 18:45 | Tags: [soc-2019-eval](../tag/soc-2019-eval)
 
+----
+
 I am working for Image Sequencer and for reference you can have a look at my proposal [here][1]. This post is intends to provide a summary of my progress in the GSoc journey.
 
 # PHASE 1

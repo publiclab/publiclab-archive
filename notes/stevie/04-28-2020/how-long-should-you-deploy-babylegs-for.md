@@ -14,6 +14,8 @@ by [stevie](../profile/stevie) April 28, 2020 17:03
 
 April 28, 2020 17:03 | Tags: [micro-plastics](../tag/micro-plastics), [question:general](../tag/question:general), [general](../tag/general), [question:micro-plastics](../tag/question:micro-plastics), [question:babylegs](../tag/question:babylegs), [babylegs](../tag/babylegs), [trawl](../tag/trawl), [question:trawl](../tag/question:trawl)
 
+----
+
 Hi! I'm in touch with a group thinking about deploying [Babylegs][1] in a stream from a bridge or a tree. How long should it be out there collecting a sample? What are factors we should consider in deciding this length of time? 
 
 thank you! 

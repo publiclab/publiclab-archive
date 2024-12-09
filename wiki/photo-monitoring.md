@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/018/073/original/Screenshot_2016-09-19_at_2.32.15_PM.png)
+
 # Photo Monitoring
 
 by [stevie](../profile/stevie), [warren](../profile/warren), [mathew](../profile/mathew)
 
 September 15, 2016 18:43 | Tags: [agriculture](../tag/agriculture), [photo-monitoring](../tag/photo-monitoring), [timelapse](../tag/timelapse), [mining](../tag/mining), [urban-planning](../tag/urban-planning), [fracking](../tag/fracking), [tool](../tag/tool), [question:spectrometer](../tag/question:spectrometer), [industry](../tag/industry), [trapcam](../tag/trapcam), [trap-cam](../tag/trap-cam), [trail-cam](../tag/trail-cam), [activities:timelapse](../tag/activities:timelapse), [upgrades:timelapse](../tag/upgrades:timelapse), [method](../tag/method), [land-change](../tag/land-change), [oil-and-gas](../tag/oil-and-gas)
+
+----
 
 Photography is a powerful and affordable way to document all kinds of environmental issues. We'll be collecting different techniques and tips here -- stay tuned and pitch in where you can! We'll be starting with a focus on #timelapse photography:
 
@@ -65,7 +69,7 @@ See the [Timelapse Kit page](/wiki/timelapse) for more, and to borrow one (if av
 
 ### Case studies
 
-[notes:timelapse:story]
+[timelapse:story](../../tag/timelapse:story)
 
 [map:tag:timelapse-story:44:-91]
 
@@ -90,7 +94,7 @@ There are also possibilities with cell-network-enabled trail cameras, though the
 
 ### Updates
 
-[notes:photo-monitoring]
+[photo-monitoring](../../tag/photo-monitoring)
 
 
 ### Timelapse Activities 
@@ -99,13 +103,13 @@ Timelapse photography is a way to automatically trigger a camera on an interval 
 
 Here are some posted activities related to timelapse; we're still seeking a clear guide to setting up and using a #trail-cam to do timelapses, so **please reach out if you're able to help document this**!
 
-[activities:timelapse]
+[timelapse](../../tag/activity:timelapse)
 
 ### Frequently Asked Questions
 
 We're collecting and working our way through a wide array of questions about timelapse photography -- if you can contribute your own questions, or answer others', please do!
 
-[questions:timelapse]
+[timelapse](../../tag/question:timelapse)
 
 
 ****

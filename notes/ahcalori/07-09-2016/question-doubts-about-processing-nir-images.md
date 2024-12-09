@@ -8,11 +8,15 @@ uid: 476358
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/016/923/original/NDVI_image.jpg)
+
 # Question: doubts about processing NIR images.
 
 by [ahcalori](../profile/ahcalori) July 09, 2016 16:43
 
 July 09, 2016 16:43 | Tags: [ndvi](../tag/ndvi), [nir](../tag/nir), [image-processing](../tag/image-processing)
+
+----
 
 Hi, 
 

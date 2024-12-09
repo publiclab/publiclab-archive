@@ -14,6 +14,8 @@ by [eightballocto](../profile/eightballocto) April 22, 2021 00:13
 
 April 22, 2021 00:13 | Tags: [environment](../tag/environment), [birds](../tag/birds), [blog-submission](../tag/blog-submission), [zoom:10](../tag/zoom:10), [personal-story](../tag/personal-story), [lat:44.370986](../tag/lat:44.370986), [lon:-100.327148](../tag/lon:-100.327148), [south-dakota](../tag/south-dakota)
 
+----
+
 This is a little more personal than other posts, but I wanted to share my history in regards to why I'm part of the environmental movement, and also a little background on who I am. This is by no means my full story, but it is what I believe the highlights of someone who comes from a lesser-known state in the US.
 
 # My Story

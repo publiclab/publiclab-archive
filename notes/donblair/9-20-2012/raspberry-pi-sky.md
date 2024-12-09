@@ -8,11 +8,15 @@ uid: 43651
 
 ---
 
+![](https://publiclab.org/sites/default/files/raspberryPIinthesky2_0.png)
+
 # Raspberry Pi-in-the-sky
 
 by [donblair](../profile/donblair) September 20, 2012 13:54
 
 September 20, 2012 13:54 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [photo-rig](../tag/photo-rig), [wireless](../tag/wireless), [remote](../tag/remote), [raspberry-pi](../tag/raspberry-pi), [rpi](../tag/rpi), [pi-camera](../tag/pi-camera), [raspberry-pi-cameras](../tag/raspberry-pi-cameras), [activity:pi-camera](../tag/activity:pi-camera), [first-time-poster](../tag/first-time-poster)
+
+----
 
 In preparing for the PLOTS <a href="http://publiclaboratory.org/notes/cfastie/9-5-2012/l-e-f-f-e-s-t">LEAFFEST</a> this weekend, Craig Versek of <a href="http://www.pvos.org">PVOS</a> has just achieved something pretty cool -- a live WiFi webcam feed from a battery-powered <a href="http://www.raspberrypi.org/faqs">Raspberry Pi</a>!  As long as this little baby is within range of a WiFi signal, any web-enabled device (laptop, smart phone) will be able to navigate to a web page and see what the on-board camera is seeing.  Here's a little schematic of how the device is connected up:
 

@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/003/157/original/photo.JPG)
+
 # Hudson Riverkeeper teaches how to report Gowanus pollution
 
 by [liz](../profile/liz) March 06, 2014 15:58
 
 March 06, 2014 15:58 | Tags: [new-york-city](../tag/new-york-city), [gowanus-canal](../tag/gowanus-canal), [watchdog](../tag/watchdog)
+
+----
 
 _folks: this note starts off bland but contains **essential** information about the regulatory and enforcement landscape of our beloved Gowanus Canal as well as tips for environmental "bounty hunters" who want $$$!_ 
 

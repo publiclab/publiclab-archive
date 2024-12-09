@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/023/782/original/miniPearl_20180225-2670-2ps.jpg)
+
 # Log-a-Long Timer
 
 by [cfastie](../profile/cfastie)
 
 March 01, 2018 16:56 | Tags: [arduino](../tag/arduino), [datalogger](../tag/datalogger), [kaptery](../tag/kaptery), [data-logging](../tag/data-logging), [parent:data-logging](../tag/parent:data-logging), [mini-pearl-logger](../tag/mini-pearl-logger), [low-power-logging](../tag/low-power-logging), [log-a-long-timer](../tag/log-a-long-timer)
+
+----
 
 This very simple timer circuit can allow data loggers (and other devices) to operate for many months on small batteries. The timer supplies power to the device only at the desired interval, so between data logging events only the timer uses power. The timer itself consumes very little power (30µA), so batteries last a long time. Assembling the timer involves soldering three components to a little printed circuit board (PCB). The data logging interval can be set between 5 and 110 minutes.
 
@@ -53,10 +57,10 @@ Header pins are not needed if the five wires to the battery and data logger are 
 
 ### Activities
 
-[activities:log-a-long-timer]
+[log-a-long-timer](../../tag/activity:log-a-long-timer)
 
 ### Questions
 
-[questions:log-a-long-timer]
+[log-a-long-timer](../../tag/question:log-a-long-timer)
 
 

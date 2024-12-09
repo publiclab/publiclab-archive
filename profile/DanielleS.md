@@ -3,6 +3,8 @@ uid: 569208
 created_at: 2019-01-11 17:21:54 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/c98c8e7fabf06d7e590d01c5f34427b8)
+
 # DanielleS
 
 I'm so excited to be the Community Science Soil Testing Fellow this winter! I'm currently in my first year of a PhD program in Environmental Toxicology at University of California, Riverside. I also run D.I.Y. Fungi, to share skills about growing mushrooms for food, medicine and earth renewal, and do applied research about bioremediation. I am passionate about community organizing, education and action around food systems, pollution, and waste issues; and am part of several groups working on these: CoRenewal, Mycoremediation Division (of Mushroom Mountain) and Healing City Soils. 

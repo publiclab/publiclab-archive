@@ -8,10 +8,14 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/sites/default/files/3 - weather wheel crop.jpg)
+
 # 8th grade air quality mapping 1
 
 by [liz](../profile/liz) March 19, 2013 17:08
 
 March 19, 2013 17:08 | Tags: [new-york-city](../tag/new-york-city), [chaq](../tag/chaq), [air-quality](../tag/air-quality), [air-quality-egg](../tag/air-quality-egg)
+
+----
 
 A conceptual drawing exercise for making compelling visualizations of air quality and weather -- beyond line graphs. Real data was not used in this exercise.

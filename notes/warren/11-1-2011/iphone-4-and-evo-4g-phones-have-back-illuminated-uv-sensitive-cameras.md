@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/Sony_Back_Lit_CMOS_Sensor.jpg)
+
 # iPhone 4 and Evo 4G phones have back-illuminated UV-sensitive cameras
 
 by [warren](../profile/warren) November 01, 2011 13:45
 
 November 01, 2011 13:45 | Tags: 
+
+----
 
 These back-illuminated CMOS sensors would be great for UV-visible spectroscopy... just a note for future work.
 

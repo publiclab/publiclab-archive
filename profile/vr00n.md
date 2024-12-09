@@ -3,6 +3,8 @@ uid: 508616
 created_at: 2017-06-07 23:30:33 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/cbff45c3fef0138cd67bbb0a2866e11b)
+
 # vr00n
 
 Co-founder at www.argolabs.org. We build data infrastructures to help deliver public services at scale.

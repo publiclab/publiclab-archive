@@ -8,11 +8,15 @@ uid: 178517
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/022/167/original/P1004612-HDR.jpg)
+
 # DIY Spectrometer at Women in Photonics Week
 
 by [isabellagonzalez](../profile/isabellagonzalez) November 01, 2017 00:48
 
 November 01, 2017 00:48 | Tags: [spectrometer](../tag/spectrometer), [education](../tag/education), [outreach](../tag/outreach), [barnstar:excessive-enthusiasm](../tag/barnstar:excessive-enthusiasm), [photonics](../tag/photonics)
+
+----
 
 ### Women in Photonics Week
 

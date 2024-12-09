@@ -8,11 +8,15 @@ uid: 237313
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/024/962/original/final.png)
+
 # Kickstarting the Community Microscope Kit!
 
 by [Bronwen](../profile/Bronwen) May 16, 2018 12:13
 
 May 16, 2018 12:13 | Tags: [kickstarter](../tag/kickstarter), [microscope](../tag/microscope), [microscopes](../tag/microscopes), [community-kits](../tag/community-kits)
+
+----
 
 <iframe src="https://www.kickstarter.com/projects/publiclab/the-community-microscope-kit/widget/video.html" scrolling="no" height="450" frameborder="0" width="800"> </iframe>  
   

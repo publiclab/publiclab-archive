@@ -14,6 +14,8 @@ by [vidit](../profile/vidit) August 26, 2019 12:07
 
 August 26, 2019 12:07 | Tags: [google-summer-of-code](../tag/google-summer-of-code), [summer-of-code](../tag/summer-of-code), [gsoc-19](../tag/gsoc-19), [gsoc-final-eval](../tag/gsoc-final-eval), [gsoc-2019-final-report](../tag/gsoc-2019-final-report)
 
+----
+
 ## GSoC 2019 (Synchronous Image Placement)
 
 [![](https://user-images.githubusercontent.com/22616017/44048533-39d0a55e-9f4f-11e8-8c50-ccec1ab0f4e4.jpeg)](https://user-images.githubusercontent.com/22616017/44048533-39d0a55e-9f4f-11e8-8c50-ccec1ab0f4e4.jpeg) [![](https://user-images.githubusercontent.com/22616017/44048712-cf4d2468-9f4f-11e8-9cb9-66b5e88463a8.png)](https://user-images.githubusercontent.com/22616017/44048712-cf4d2468-9f4f-11e8-9cb9-66b5e88463a8.png)

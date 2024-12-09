@@ -8,11 +8,15 @@ uid: 508551
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/022/372/original/images.jpg)
+
 # How Wisconsin's Dept. of Natural Resources (DNR) Wants to Receive Environmental Violation Data
 
 by [gilbert](../profile/gilbert)
 
 November 13, 2017 20:04 | Tags: [oil-spill](../tag/oil-spill), [reporting](../tag/reporting), [wisconsin](../tag/wisconsin), [frac-sand](../tag/frac-sand), [pm](../tag/pm), [hazardous-materials](../tag/hazardous-materials), [environment-monitoring](../tag/environment-monitoring), [silica-monitoring](../tag/silica-monitoring), [violation-reporting](../tag/violation-reporting), [spills](../tag/spills), [dnr](../tag/dnr), [reporting-forms](../tag/reporting-forms), [violations](../tag/violations), [spill-reporting](../tag/spill-reporting)
+
+----
 
 Residents of Wisconsin seeking to file incident reports or complaints relating to environmental violations are directed to an array of options within the Wisconsin Dept. of Natural Resources (DNR) website (http://dnr.wi.gov/). If a spill or violation requires immediate assistance, "the Emergency hotline number to call is:   1-800-943-0003."
 "The DNR's Violation Hotline provides Wisconsin citizens with the opportunity to confidentially report non-emergency suspected wildlife, recreational and environmental violations using a toll free number:  Call or text 1-800-847-9367. 

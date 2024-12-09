@@ -8,11 +8,15 @@ uid: 759178
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/045/084/original/GISDayImage.PNG)
+
 # GIS Day 2021 - November 17th!
 
 by [laurel_mire](../profile/laurel_mire) November 16, 2021 23:03
 
 November 16, 2021 23:03 | Tags: [education](../tag/education), [gis](../tag/gis), [data-visualization](../tag/data-visualization), [research-curation-fellows](../tag/research-curation-fellows)
+
+----
 
 *Lead image courtesy of [https://www.gisday.com/en-us/overview][1].*
 

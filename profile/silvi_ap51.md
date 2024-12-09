@@ -3,6 +3,8 @@ uid: 523982
 created_at: 2018-01-31 07:16:59 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/3e168eb0b2935e3f69d075fedf2b08f6)
+
 # silvi_ap51
 
 a college student in Bogor Agricultural University

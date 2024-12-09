@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/000/546/original/timtstb-20120410-119-48.jpg)
+
 # Good shutter synchronization
 
 by [cfastie](../profile/cfastie) April 14, 2012 15:16
 
 April 14, 2012 15:16 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [triggering](../tag/triggering), [chdk](../tag/chdk), [synchrony](../tag/synchrony)
+
+----
 
 I found a <a href="http://download.cnet.com/XNote-Timer/3000-2350_4-10912167.html?tag=mncol;2">stopwatch program with two decimal places</a> and tried the fancy synchronizing functions in CHDK.  These functions worked great and allowed the shutter releases of the two cameras to be synchronized within about 1/100 of a second.  For making paired visible/IR air photos, this should be good enough!
 

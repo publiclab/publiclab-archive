@@ -14,6 +14,8 @@ by [stevie](../profile/stevie), [warren](../profile/warren), [hagitkeysar](../pr
 
 May 10, 2013 13:39 | Tags: [community](../tag/community), [organizers](../tag/organizers), [chapters](../tag/chapters), [workshops](../tag/workshops)
 
+----
+
 Interested in organizing locally? Here are a few things you can do:
 
 * Join [Open Call](www.publiclab.org/open-call): if you're interested in talking to others and brainstorming how to start a project or where to plug in on something ongoing, this is a great place to start. Open Call is 7pm GMT every Tuesday.
@@ -61,7 +63,7 @@ Here are some overall best practices that have been compiled from chapters:
 
 ## Questions
 
-[questions:chapters]
+[chapters](../../tag/question:chapters)
 
 ****
 

@@ -3,6 +3,8 @@ uid: 495038
 created_at: 2016-10-20 12:31:29 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/495038/medium/logonegroCOLORES.png)
+
 # imvec
 
 Instituto para la Monitorización Vecinal de Espacios Contaminados (IMVEC).</br>

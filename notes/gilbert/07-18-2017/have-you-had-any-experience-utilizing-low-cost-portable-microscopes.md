@@ -14,6 +14,8 @@ by [gilbert](../profile/gilbert) July 18, 2017 19:25
 
 July 18, 2017 19:25 | Tags: [microscope](../tag/microscope), [method](../tag/method), [microscopes](../tag/microscopes), [question:microscope](../tag/question:microscope), [question:microscopes](../tag/question:microscopes), [first-time-poster](../tag/first-time-poster)
 
+----
+
               
  
 There is an increasing need for communities impacted by environmental degradation to have access to affordable microscopy, in order to identify sources of contamination. Sharing your experience, insights, recommendations, successes and or problems encountered would greatly benefit such communities. 

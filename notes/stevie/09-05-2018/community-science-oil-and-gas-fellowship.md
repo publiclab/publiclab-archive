@@ -8,11 +8,15 @@ uid: 422561
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/026/447/original/pl-narrow.png)
+
 # Community Science Oil and Gas Fellowship
 
 by [stevie](../profile/stevie) September 05, 2018 14:41
 
 September 05, 2018 14:41 | Tags: [gulf-coast](../tag/gulf-coast), [new-orleans](../tag/new-orleans), [monitoring](../tag/monitoring), [jobs](../tag/jobs), [with:eustatic](../tag/with:eustatic), [fellowship](../tag/fellowship), [oil-and-gas](../tag/oil-and-gas)
+
+----
 
 Public Lab and Gulf Restoration Network (GRN) are offering a joint fellowship opportunity for an individual to work on community science projects related to oil and gas monitoring and reporting.
 

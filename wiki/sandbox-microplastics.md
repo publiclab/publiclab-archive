@@ -14,6 +14,8 @@ by [bhamster](../profile/bhamster)
 
 September 15, 2020 21:49 | Tags: 
 
+----
+
 **What are microplastics?**
 
 Microplastics are small pieces of plastic less than 5 millimeters long. Some microplastics start out small, like industrial plastic pellets used to make plastic products, or microbeads added to exfoliating personal care products like cleansers and toothpaste [1]. Other microplastics result from large pieces of plastic breaking down. Tumbling around in water or on land, exposure to sunlight, and interactions with living things can break down plastic materials into smaller microplastics [2]. Small fragments of plastic water bottles, fibers from fleece clothing, frayed pieces of nylon rope—these can all be microplastics. They never go away, they just get smaller and smaller.
@@ -138,7 +140,7 @@ Image: [@mollydanielsson](https://publiclab.org/profile/mollydanielsson)
 + Ask a question so other community members can offer support
 + Sign up below to be notified when someone asks a microplastics question
 
-[questions:microplastics]
+[microplastics](../../tag/question:microplastics)
 
 <br>
 
@@ -162,7 +164,7 @@ Further below, you’ll find more information on how you can get started in micr
 Posts written by Public Lab community members and tagged with `microplastics` will appear here. [Write a note about your own research or story here!](/post?tags=microplastics)
 
 
-[notes:microplastics]
+[microplastics](../../tag/microplastics)
 
 <br>
 
@@ -170,7 +172,7 @@ Posts written by Public Lab community members and tagged with `microplastics` wi
 
 Activities on Public Lab that have been tagged with `microplastics` will appear here
 
-[activities:microplastics]
+[microplastics](../../tag/activity:microplastics)
 
 <br>
 <hr>

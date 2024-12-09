@@ -14,6 +14,8 @@ by [jeffa_plain](../profile/jeffa_plain) November 22, 2021 19:19
 
 November 22, 2021 19:19 | Tags: [ndvi](../tag/ndvi), [nir](../tag/nir), [filter](../tag/filter), [infragram](../tag/infragram), [plant](../tag/plant), [question:ndvi](../tag/question:ndvi), [question:infragram](../tag/question:infragram), [photomonitoring](../tag/photomonitoring), [multispectral-imaging](../tag/multispectral-imaging), [first-time-poster](../tag/first-time-poster)
 
+----
+
 NDVI with Blue Filter  
 ![image description](/i/45100.png "NDVIBlueFilter.png")  
 ![image description](/i/45102.png "NDVIRedFilter.png")  

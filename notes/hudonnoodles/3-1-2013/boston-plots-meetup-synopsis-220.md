@@ -8,11 +8,15 @@ uid: 102
 
 ---
 
+![](https://publiclab.org/sites/default/files/IMG_0131-IMG_0133b.jpg)
+
 # Boston PLOTS -- Meetup Synopsis for 2/20
 
 by [Hudonnoodles](../profile/Hudonnoodles) March 01, 2013 14:21
 
 March 01, 2013 14:21 | Tags: [boston](../tag/boston), [event](../tag/event), [desktop-spectrometer](../tag/desktop-spectrometer)
+
+----
 
 Thank you to all who were able to come out to Somerville on Wednesday night to make a successful meetup, and an additional thanks goes to Tidmarsh Farm for funding the pizza! 
 

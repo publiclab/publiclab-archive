@@ -14,6 +14,8 @@ by [ottinger](../profile/ottinger), [stevie](../profile/stevie), [mimiss](../pro
 
 July 09, 2019 21:40 | Tags: [education](../tag/education), [data](../tag/data), [existing-data](../tag/existing-data), [datasource](../tag/datasource), [public-data](../tag/public-data)
 
+----
+
 This page contains links to datasources that are relevant for environmental investigations. Some of these datasets are already viewable on the maps on this site; visit https://publiclab.org/people where you can view and turn on layers by using the layer panel in the upper righthand corner: 
 
 [![leaflet-Env-Layers.gif](/i/33575)](/i/33575?s=o)
@@ -101,4 +103,4 @@ US County-level Data|County-by county information on prisons, energy, etc|https:
 ## Questions
 To view other people's questions about datasources, scroll through the table below. To ask whether anyone knows of the availability of a particular type of datasource, click the button and type in your own question:
 
-[questions:datasource]
+[datasource](../../tag/question:datasource)

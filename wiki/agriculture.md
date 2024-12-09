@@ -8,11 +8,15 @@ uid: 422561
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/035/754/original/Fastie_2013.png)
+
 # Agriculture
 
 by [bhamster](../profile/bhamster), [stevie](../profile/stevie), [liz](../profile/liz)
 
 October 03, 2019 15:22 | Tags: [cafo](../tag/cafo)
+
+----
 
 Agriculture involves cultivating plants and raising domesticated animals for harvest. Crops can serve as food for people, feed for livestock, and raw materials for clothing and other textiles. Agricultural processes on all scales may be monitored for how they affect our landscapes, water, and soil.
 
@@ -25,7 +29,7 @@ _Lead image from @cfastie's [work](/notes/cfastie/04-26-2013/middlebury-meetup)_
 
 ###Recent questions
 
-[questions:agriculture]
+[agriculture](../../tag/question:agriculture)
 
 ###Monitoring methods and related wiki pages:
 
@@ -33,4 +37,4 @@ _Lead image from @cfastie's [work](/notes/cfastie/04-26-2013/middlebury-meetup)_
 
 ###Recent research and activities: 
 
-[notes:agriculture]
+[agriculture](../../tag/agriculture)

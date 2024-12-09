@@ -14,4 +14,6 @@ by [warren](../profile/warren) March 04, 2011 17:50
 
 March 04, 2011 17:50 | Tags: [video](../tag/video), [ndvi](../tag/ndvi), [infrared](../tag/infrared), [infragram](../tag/infragram)
 
+----
+
 <iframe title="YouTube video player" width="480" height="390" src="https://www.youtube.com/embed/Z2QA9Q7NdEo" frameborder="0" allowfullscreen></iframe>

@@ -8,11 +8,15 @@ uid: 9
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/039/390/original/Bucket_image.png)
+
 # The Bucket: Updating and open-sourcing a community air monitoring tool
 
 by [Shannon](../profile/Shannon) May 14, 2020 16:40
 
 May 14, 2020 16:40 | Tags: [air-quality](../tag/air-quality), [blog](../tag/blog), [bucket-brigade](../tag/bucket-brigade), [oil-and-gas](../tag/oil-and-gas), [toxics](../tag/toxics), [bucket-monitor](../tag/bucket-monitor), [fair-tech-collective](../tag/fair-tech-collective)
+
+----
 
 _By: Dr. Gwen Ottinger ([Fair Tech Collective](https://www.fairtechcollective.org/)) and [Shannon Dosemagen](https://publiclab.org/profile/Shannon)_[](https://publiclab.org/profile/Shannon)
 

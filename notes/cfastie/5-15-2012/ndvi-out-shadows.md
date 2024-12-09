@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/sites/default/files/SwampVIS-414-IR-412.jpg)
+
 # NDVI out of the shadows
 
 by [cfastie](../profile/cfastie) May 15, 2012 13:51
 
 May 15, 2012 13:51 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [grassrootsmapping](../tag/grassrootsmapping), [nrg](../tag/nrg), [ndvi](../tag/ndvi), [vegetation-mapping](../tag/vegetation-mapping)
+
+----
 
 On May 5 my Public Laboratory infrared camera made its first photographic flight. The shutters of two Powershot A495 cameras, one modified to record only near-infrared (NIR) light, were triggered every 10 seconds by an AuRiCo KAP controller. The Levitation delta kite hoisted the rig over the northern edge of the Salisbury Swamp, VT. In about 1.5 hours, 420 synchronous pairs of normal and NIR photos were captured. It has taken a while to process just a fraction of these images, but the results are promising. There is more <a href="http://fastie.net/?p=1511">media from this flight here</a>  including a Photosynth aerial panorama and also some kite por_n.
 

@@ -8,11 +8,15 @@ uid: 422561
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/010/746/original/dustduino_proto_2_desk.jpg)
+
 # "Dust in the Wind: How Data Visualization Can Help the Environment" 
 
 by [stevie](../profile/stevie) July 21, 2015 14:36
 
 July 21, 2015 14:36 | Tags: [air-quality](../tag/air-quality), [blog](../tag/blog), [dustduino](../tag/dustduino), [dust](../tag/dust), [open-air](../tag/open-air), [data-visualization](../tag/data-visualization)
+
+----
 
 _Image above: [DustDuino](http://publiclab.org/wiki/dustduino) can help individuals with limited resources monitor PM10 and PM2.5 concentrations, indoors or outdoors._
 

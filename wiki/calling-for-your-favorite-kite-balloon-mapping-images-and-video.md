@@ -8,11 +8,15 @@ uid: 237313
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/020/639/original/IMG_20170528_114504_190.jpg)
+
 # Calling for your favorite Kite/Balloon Mapping images and video!
 
 by [xose](../profile/xose), [Bronwen](../profile/Bronwen)
 
 June 05, 2017 15:37 | Tags: [balloon-mapping](../tag/balloon-mapping), [aerial-photography](../tag/aerial-photography), [kickstarter](../tag/kickstarter), [aerial-photos](../tag/aerial-photos), [redirect:14501](../tag/redirect:14501)
+
+----
 
 Public Lab is working on a campaign to relaunch our Balloon Mapping Kit, and to that end we're hoping to round up images and/or video showcasing your kite and balloon photography over the years! 
 

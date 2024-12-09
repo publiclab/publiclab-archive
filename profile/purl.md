@@ -3,6 +3,8 @@ uid: 736598
 created_at: 2021-01-20 21:41:12 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/7404ff43f85a549bfd3c3e7615a7c793)
+
 # purl
 
 Education Associate at Public Lab. Passionate about environmental justice and the solutions found in the details and among community.

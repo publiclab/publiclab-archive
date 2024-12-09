@@ -8,11 +8,15 @@ uid: 775
 
 ---
 
+![](https://publiclab.org/sites/default/files/SR1.jpg)
+
 # Collection and Processing of Aztec Test Strips
 
 by [megan](../profile/megan) August 08, 2012 05:42
 
 August 08, 2012 05:42 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing)
+
+----
 
 On 8/1 we went back out to the well sites in Aztec to collect the strips, and we found all but two!
 

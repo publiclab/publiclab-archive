@@ -8,11 +8,15 @@ uid: 525032
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/023/790/original/screenshot_cropped.png)
+
 # GSoC Proposal: v2 API development and third party app integrations
 
 by [sukhbir](../profile/sukhbir) March 02, 2018 01:42
 
 March 02, 2018 01:42 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [soc](../tag/soc), [response:13975](../tag/response:13975), [gsoc-2018](../tag/gsoc-2018), [soc-2018](../tag/soc-2018), [soc-2018-proposals](../tag/soc-2018-proposals), [soc-2018-api](../tag/soc-2018-api), [first-time-poster](../tag/first-time-poster)
+
+----
 
 ## About me
 

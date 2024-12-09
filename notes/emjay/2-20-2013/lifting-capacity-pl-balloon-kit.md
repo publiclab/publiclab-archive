@@ -8,11 +8,15 @@ uid: 51038
 
 ---
 
+![](https://publiclab.org/sites/default/files/IMG_0215.JPG)
+
 # Lifting capacity of PL balloon kit?
 
 by [emjay](../profile/emjay) February 21, 2013 01:07
 
 February 21, 2013 01:07 | Tags: [balloon-mapping](../tag/balloon-mapping)
+
+----
 
 Hi Folks,
 

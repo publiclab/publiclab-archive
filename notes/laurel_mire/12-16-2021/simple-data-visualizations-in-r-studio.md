@@ -14,6 +14,8 @@ by [laurel_mire](../profile/laurel_mire) December 16, 2021 16:34
 
 December 16, 2021 16:34 | Tags: [data](../tag/data), [environmental-data](../tag/environmental-data), [data-visualization](../tag/data-visualization), [research-curation-fellows](../tag/research-curation-fellows), [presenting-data](../tag/presenting-data), [air-quality-data](../tag/air-quality-data), [data-visualization-tool](../tag/data-visualization-tool), [data-viz](../tag/data-viz), [rstudio](../tag/rstudio)
 
+----
+
 Do you have clean data, but you’re not sure where to start with data visualization? Are you curious about your data’s distribution? Want to learn about the open-source **statistical programming language R**? Using the **ggplot2** data visualization package in R, learn how to make basic plots to explore your data and powerfully communicate data-driven findings. RStudio Desktop is free and can be downloaded [here][1].
 
 Why visualize data?

@@ -14,6 +14,8 @@ by [warren](../profile/warren) September 08, 2017 15:55
 
 September 08, 2017 15:55 | Tags: [photography](../tag/photography), [evidence](../tag/evidence), [aerial-photography](../tag/aerial-photography), [gps](../tag/gps), [metadata](../tag/metadata), [answered](../tag/answered), [question:evidence](../tag/question:evidence), [question:aerial-photography](../tag/question:aerial-photography), [question:gps](../tag/question:gps), [geotagging](../tag/geotagging)
 
+----
+
 If you take a LOT of photos over a few hours, and are running a GPS logger (see #gps) on your phone or just a stand-alone GPS, how do you copy the GPS data into your photos based on timestamp? So that the photos are geotagged?
 
 I'm almost sure I've seen this documented on PublicLab.org... just can't find it!

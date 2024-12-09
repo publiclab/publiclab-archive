@@ -8,11 +8,15 @@ uid: 379
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/037/609/original/IMG_0124_orphan_well_destroyed_30_acres_now_healing.JPG)
+
 # River Restoration map of Orphan Well 131544 in Bayou John
 
 by [eustatic](../profile/eustatic) January 11, 2020 22:54
 
 January 11, 2020 22:54 | Tags: [mapknitter](../tag/mapknitter), [passenger-pigeon](../tag/passenger-pigeon), [oil-and-gas](../tag/oil-and-gas), [lat:29.5251205](../tag/lat:29.5251205), [lon:-89.7020368](../tag/lon:-89.7020368), [lat:29.52512](../tag/lat:29.52512), [lon:-89.702036](../tag/lon:-89.702036), [southwings](../tag/southwings), [healthygulf](../tag/healthygulf), [lat:-0.439448](../tag/lat:-0.439448), [lon:3.317871](../tag/lon:3.317871)
+
+----
 
 <iframe src="https://mapknitter.org/embed/orphan-well-131544-in-bayou-john" width="100%" height="400px" style="font-size: 1rem; border-width: initial; border-style: none;"></iframe>
 

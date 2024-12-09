@@ -8,11 +8,15 @@ uid: 430549
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/011/596/original/HPIM8466-R-_Wyatt_Run_mud_INTO_Fishing_crk.JPG)
+
 # Photo Documentation of Turbid Waters for Advocacy
 
 by [gretchengehrke](../profile/gretchengehrke) September 18, 2015 03:05
 
 September 18, 2015 03:05 | Tags: [wisconsin](../tag/wisconsin), [water-quality](../tag/water-quality), [water](../tag/water), [turbidity](../tag/turbidity), [stormwater](../tag/stormwater), [frac-sand](../tag/frac-sand), [openwater](../tag/openwater), [fracsand](../tag/fracsand), [parent:frac-sand](../tag/parent:frac-sand), [activity:stormwater](../tag/activity:stormwater), [activity:site-survey](../tag/activity:site-survey), [activity:turbidity](../tag/activity:turbidity), [getting-started-wastewater](../tag/getting-started-wastewater), [detecting-wastewater](../tag/detecting-wastewater), [wastewater-color](../tag/wastewater-color), [activity:detecting-wastewater](../tag/activity:detecting-wastewater)
+
+----
 
 __Photo credit: Bill Hughes__
 

@@ -8,11 +8,15 @@ uid: 420999
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/018/114/original/2016-09-10_10.53.51.jpg)
+
 # Pearl River Monitoring in Guangzhou
 
 by [shanlter](../profile/shanlter) September 21, 2016 10:26
 
 September 21, 2016 10:26 | Tags: [open-water](../tag/open-water), [barnstar:basic](../tag/barnstar:basic), [guangzhou](../tag/guangzhou), [china](../tag/china), [greenovation-hub](../tag/greenovation-hub)
+
+----
 
 ###What I want to do
 I paddle every week with Guangzhou International Dragon Boat Club in Pearl River. The water quality is very bad, and is classified as "-V" according to Chinese Surface Water Standard, which means it does not have any function other then shipping.

@@ -14,6 +14,8 @@ by [liz](../profile/liz) February 14, 2018 20:49
 
 February 14, 2018 20:49 | Tags: [community](../tag/community), [question:general](../tag/question:general), [question:community](../tag/question:community)
 
+----
+
 I often impatiently just want to know, "what's the State of `X` topic?" 
 
 On publiclab.org, it's easy to find what the _latest_ research is, but not straightforward to gain a comprehensive understanding of, for instance, particulate matter (`pm`), in terms of how many different method development & organizing/advocacy projects are going on, what their level of development is, and what the next challenges are. 

@@ -14,6 +14,8 @@ by [Droopas](../profile/Droopas) December 22, 2017 09:55
 
 December 22, 2017 09:55 | Tags: [ph](../tag/ph), [question:general](../tag/question:general), [response:11418](../tag/response:11418), [titration](../tag/titration)
 
+----
+
 Hi I'd like to recreate your titraumatic system. 
 
 The idea does seem interesting, and I was thinking of doing something with an arduino and a peristatic pump. But your idea seems very refined, since I would have start from screatch. But I would like to know which hardware you use to connect your pH probe to PC?

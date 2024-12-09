@@ -14,6 +14,8 @@ by [MarkE](../profile/MarkE) October 26, 2018 19:37
 
 October 26, 2018 19:37 | Tags: [question:general](../tag/question:general), [first-time-poster](../tag/first-time-poster), [question:cannabis](../tag/question:cannabis)
 
+----
+
 I am investigating the possibility of using the spectrometer to measure THC and CBD content in cannabis.  The idea is to use a dye like Fast Blue BB to couple to the THC and CBD.  They produce slightly different colors so I am hoping to at least get a measure of the THC:CBD ratio.  The colors are in the deep red spectrum, plus there may be  some absorption lines in the NIR (unknown at this point).  Hence my question regarding the webcam that is currently part of the spectrometer kit.
 
   

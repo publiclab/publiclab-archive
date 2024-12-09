@@ -8,11 +8,15 @@ uid: 304279
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/002/487/original/80uASV.png)
+
 # Potentiostat Notes 3a;  Timing de-bugged
 
 by [JSummers](../profile/JSummers) January 04, 2014 20:47
 
 January 04, 2014 20:47 | Tags: [potentiostat](../tag/potentiostat), [wheestat](../tag/wheestat)
+
+----
 
 ###What I want to do
 In Potentiostat Note 3, we described a bug in the timing of the WheeStat 5.1 software that introduced systematic noise into the current dimension (y-axis) of the voltammagrams.  In this note I report that we have substantially mitigated this problem.

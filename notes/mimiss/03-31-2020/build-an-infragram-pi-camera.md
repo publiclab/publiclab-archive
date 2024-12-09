@@ -8,11 +8,15 @@ uid: 579821
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/038/841/original/IMG_2008.jpeg)
+
 # Build an Infragram Pi Camera
 
 by [mimiss](../profile/mimiss) March 31, 2020 19:14
 
 March 31, 2020 19:14 | Tags: [multispectral](../tag/multispectral), [raspberry-pi](../tag/raspberry-pi), [infragram](../tag/infragram), [infragram-pi](../tag/infragram-pi), [activity:pi-camera-setup](../tag/activity:pi-camera-setup), [pin:activity:infragram-pi](../tag/pin:activity:infragram-pi), [pi-camera-setup](../tag/pi-camera-setup)
+
+----
 
 ## Materials
 ![Materials for the Raspberry Pi Infragram Camera][1]

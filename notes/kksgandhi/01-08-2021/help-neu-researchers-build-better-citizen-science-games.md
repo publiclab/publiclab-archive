@@ -14,6 +14,8 @@ by [kksgandhi](../profile/kksgandhi) January 08, 2021 23:01
 
 January 08, 2021 23:01 | Tags: [citizen-science](../tag/citizen-science), [event](../tag/event), [northeastern-university](../tag/northeastern-university), [app](../tag/app), [games](../tag/games), [research-study](../tag/research-study), [cartoscope](../tag/cartoscope), [first-time-poster](../tag/first-time-poster)
 
+----
+
 Hi! I'm a games researcher at Northeastern University, and my lab is studying a citizen science game that we've developed.
 
 We're looking for participants for our user study, and if you have an hour, we'd love to have you! (You'll also receive $15 for your time).

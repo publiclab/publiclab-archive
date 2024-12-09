@@ -14,6 +14,8 @@ by [warren](../profile/warren)
 
 December 18, 2011 20:25 | Tags: 
 
+----
+
 Around the PLOTS website, you'll see small graphs that look like this:
 
 <img src="https://publiclab.org/sites/default/files/github-graph-example.png" />

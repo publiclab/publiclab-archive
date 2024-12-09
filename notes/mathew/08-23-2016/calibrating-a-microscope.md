@@ -8,11 +8,15 @@ uid: 4
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/017/745/original/Asakura-Oosawa_Model__Two_Plates_in_a_solution_of_Macromolecules.png)
+
 # Calibrating a Microscope
 
 by [mathew](../profile/mathew) August 23, 2016 17:19
 
 August 23, 2016 17:19 | Tags: [silica](../tag/silica), [frac-sand](../tag/frac-sand), [pm](../tag/pm), [particle-monitoring](../tag/particle-monitoring), [microscope](../tag/microscope), [passive-particle-monitors](../tag/passive-particle-monitors), [passive-pm](../tag/passive-pm), [parent:frac-sand](../tag/parent:frac-sand), [microscopy](../tag/microscopy), [openflexure](../tag/openflexure), [dust-sensing](../tag/dust-sensing), [pm-sensing](../tag/pm-sensing), [particulatematter](../tag/particulatematter), [activity:microscope](../tag/activity:microscope), [microscopes](../tag/microscopes), [activity:microscopes](../tag/activity:microscopes), [activity:community-microscope](../tag/activity:community-microscope)
+
+----
 
 [image credit wikimedia](https://commons.wikimedia.org/wiki/File:Asakura-Oosawa_Model,_Two_Plates_in_a_solution_of_Macromolecules.png)
 

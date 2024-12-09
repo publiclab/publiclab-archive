@@ -14,6 +14,8 @@ by [sonofaquark](../profile/sonofaquark) March 28, 2013 17:56
 
 March 28, 2013 17:56 | Tags: [spectrometer](../tag/spectrometer)
 
+----
+
 I have seen this interferometer effect before between the array cover glass and the array. It is demonstrated quite clearly in this spectrum.https://spectralworkbench.org/analyze/spectrum/5479
 
 We tried AR coated cover glass with little improvement. The effect was virtually eliminated with a simple correction.

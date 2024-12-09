@@ -14,6 +14,8 @@ by [Hudonnoodles](../profile/Hudonnoodles), [Shannon](../profile/Shannon), [kgra
 
 May 12, 2014 22:14 | Tags: [barnraising](../tag/barnraising), [event](../tag/event), [massachusetts](../tag/massachusetts), [plymouth](../tag/plymouth), [tidmarsh](../tag/tidmarsh), [list:plots-barnraising](../tag/list:plots-barnraising), [northeast](../tag/northeast), [jones-river](../tag/jones-river), [parent:barnraising](../tag/parent:barnraising)
 
+----
+
 [![coverimage-banner-01.png](https://i.publiclab.org/system/images/photos/000/004/258/medium/coverimage-banner-01.png)](https://i.publiclab.org/system/images/photos/000/004/258/original/coverimage-banner-01.png)
 
 ###What is a Public Lab Barnraising?

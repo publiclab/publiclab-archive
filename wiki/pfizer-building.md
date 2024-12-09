@@ -14,6 +14,8 @@ by [sara](../profile/sara), [liz](../profile/liz)
 
 April 04, 2012 19:45 | Tags: [new-york-city](../tag/new-york-city), [brooklyn](../tag/brooklyn), [pfizer](../tag/pfizer), [workspace](../tag/workspace)
 
+----
+
 <img src="http://www.acumenny.com/homepageimages/pfizer-3.jpg" alt="" />
 More images and discussion on <a href="http://www.scoutingny.com/?p=4058">ScoutingNY</a>
 Owned by <a href="http://www.acumenny.com/">Acumen Capital Partners</a>

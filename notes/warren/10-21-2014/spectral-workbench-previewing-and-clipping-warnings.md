@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/007/562/original/clipping.png)
+
 # Spectral Workbench previewing and clipping warnings
 
 by [warren](../profile/warren) October 21, 2014 00:08
 
 October 21, 2014 00:08 | Tags: [spectrometer](../tag/spectrometer), [fluorescence](../tag/fluorescence), [spectral-workbench](../tag/spectral-workbench), [oil-testing-kit](../tag/oil-testing-kit), [response:11173](../tag/response:11173)
+
+----
 
 Just a quick update here - I added a webcam preview to the capture interface (see above) as well as a combined RGB graph so you can see clipping more easily. It also marks clipping (overexposure) in yellow to warn you. 
 

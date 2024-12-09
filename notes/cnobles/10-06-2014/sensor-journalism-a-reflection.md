@@ -14,6 +14,8 @@ by [cnobles](../profile/cnobles) October 06, 2014 04:24
 
 October 06, 2014 04:24 | Tags: [sensor-journalism](../tag/sensor-journalism)
 
+----
+
 Throughout my first month in my data visualization class at Emerson, there are a few concepts I’ve found particularly salient in our readings, lectures, and hands-on experience with building a water sensor. Data journalism has many aspects I’ve noticed so far — the intent behind collecting it; as a type of journalism, there are inevitably ethical issues; and the practical application of sensors and the data. I’ll apply both my learned knowledge as well as my practical knowledge from building a Coqui sensor to each of these issues. 
 
 In the Tow Report on Sensor Journalism, a few different theories behind why sensor journalism is relevant are explained. The first is fairly obvious: many data journalists “[feel] there was a defect in the data being provided by official sources” (p. 20). This relates to many discussions we have had in class. For instance, during the Beijing Olympics, journalists brought sensors to test if the Chinese government had gone through on their promise to clean up air quality, because the government wouldn’t provide them with this information. Additionally, through collecting data yourself, your data set is as large as you want it to be, and you have immediate access to it. You can also be more confident in the way your data was collected. 

@@ -8,11 +8,15 @@ uid: 294634
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/005/534/original/vlcsnap-2014-07-24-21h30m06s29.png)
+
 # Grassroots Underwater Photography?!!
 
 by [ajawitz](../profile/ajawitz) July 25, 2014 16:47
 
 July 25, 2014 16:47 | Tags: [grassrootsmapping](../tag/grassrootsmapping), [citizen-science](../tag/citizen-science), [maine](../tag/maine), [underwater](../tag/underwater), [invasives](../tag/invasives), [mobius-action-cam](../tag/mobius-action-cam), [response:10670](../tag/response:10670)
+
+----
 
 ###What I want to do
 I want to examine potential low-cost, underwater imaging techniques by adapting approaches originally developed for aerial mapping.  Especially regarding new possibilities opened up by the Mobius Actioncam, 

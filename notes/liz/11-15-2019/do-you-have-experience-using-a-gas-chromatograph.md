@@ -14,6 +14,8 @@ by [liz](../profile/liz) November 15, 2019 15:54
 
 November 15, 2019 15:54 | Tags: [question:general](../tag/question:general), [general](../tag/general), [gas-chromatograph](../tag/gas-chromatograph), [question:gas-chromatograph](../tag/question:gas-chromatograph), [creosote](../tag/creosote), [question:creosote](../tag/question:creosote)
 
+----
+
 Has anyone has experience with using a gas chromatograph? If so, we'd love to hear about it! 
 
 Gas chromatographs came up during this month's OpenHour (November 2019).  Chris Nidel (also a guest on [June 2016 OpenHour "Concepts of Proof"][1]) shared the following story about his experience as an environmental lawyer investigating side-by-side with a community affected by a creosote plant (the notes below are my transcript of his verbal presentation with some paraphrasing): 

@@ -14,4 +14,6 @@ by [edilberto](../profile/edilberto) March 24, 2015 01:52
 
 March 24, 2015 01:52 | Tags: [question:spectral-workbench](../tag/question:spectral-workbench), [answered](../tag/answered)
 
+----
+
 How I can eliminate a spectrum that I sent?

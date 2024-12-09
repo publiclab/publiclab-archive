@@ -8,11 +8,15 @@ uid: 777566
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/046/546/original/Vacherie_April_6th.png)
+
 # One Month of PM 2.5 Data around St James
 
 by [tylerknight](../profile/tylerknight) April 28, 2022 18:57
 
 April 28, 2022 18:57 | Tags: [gulf-coast](../tag/gulf-coast), [air-quality](../tag/air-quality), [pm](../tag/pm), [particulate-matter](../tag/particulate-matter), [purpleair](../tag/purpleair), [st-james](../tag/st-james), [formosaplastics](../tag/formosaplastics)
+
+----
 
 Particulate Matter (PM) is a primary contributor to air pollution, and a major component of the Air Quality Index. Of the different sizes of PM, PM 2.5 (particles 2.5 microns or smaller) is the most harmful to human health. According to the EPA: "Exposure to fine particle pollution can cause premature death and harmful cardiovascular effects such as heart attacks and strokes, and is linked to a variety of other significant health problems. Particle pollution also harms public welfare, including causing haze in cities..." ([EPA 2012](https://www.epa.gov/sites/default/files/2016-04/documents/2012_aqi_factsheet.pdf "https://www.epa.gov/sites/default/files/2016-04/documents/2012_aqi_factsheet.pdf")). PM 2.5 is primarily produced through combustion, but can also form in chemical reactions in the atmosphere via industrial emissions, or indoors through the burning of candles, cooking, or smoking. See Public Lab's [wiki on PM](https://publiclab.org/wiki/pm "https://publiclab.org/wiki/pm") for more info.
 

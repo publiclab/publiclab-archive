@@ -14,6 +14,8 @@ by [sara](../profile/sara)
 
 September 02, 2011 18:48 | Tags: 
 
+----
+
 <strong>First Annual Public Laboratory Barn Raising*!</strong>
 
 From <em>October 21st to 23rd</em> Public Laboratory Staff, members and local and technical specialists will be gathering in Asheville, North Carolina to have some fun while developing and testing a DIY, <a href="http://publiclaboratory.org/tool/near-infrared-camera">low cost infrared camera</a>. 

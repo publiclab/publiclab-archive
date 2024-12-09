@@ -14,6 +14,8 @@ by [ccpandhare](../profile/ccpandhare) July 08, 2017 12:50
 
 July 08, 2017 12:50 | Tags: [question:ndvi](../tag/question:ndvi)
 
+----
+
 I am a Google Summer of Code Student working with Public Lab. I am working on the [Image Sequencer Project](https://github.com/publiclab/image-sequencer).
 
 In one JavaScript Module, I was required to generate the NDVI version of a given image. How do I know if the generated image is correct? I am surprised because my result varies from what I get on [Infragram](https://infragram.org).

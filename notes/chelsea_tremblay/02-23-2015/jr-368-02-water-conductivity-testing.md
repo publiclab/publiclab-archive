@@ -8,11 +8,15 @@ uid: 434198
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/009/054/original/testing_testing.JPG)
+
 # JR 368 02 Water Conductivity Testing 
 
 by [chelsea_tremblay](../profile/chelsea_tremblay) February 23, 2015 00:50
 
 February 23, 2015 00:50 | Tags: [sensor-journalism](../tag/sensor-journalism), [first-time-poster](../tag/first-time-poster)
+
+----
 
 ###
 ##Chelsea Tremblay, Amanda Gomez, Terrena Scannell

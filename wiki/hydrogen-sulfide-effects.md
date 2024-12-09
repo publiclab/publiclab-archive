@@ -14,6 +14,8 @@ by [warren](../profile/warren), [gretchengehrke](../profile/gretchengehrke)
 
 September 25, 2017 19:40 | Tags: [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s), [parent:hydrogen-sulfide](../tag/parent:hydrogen-sulfide), [h2s-overview](../tag/h2s-overview)
 
+----
+
 This page summarizes the health effects of hydrogen sulfide.
 
 ### Hydrogen sulfide exposure effects
@@ -70,7 +72,7 @@ Information about hydrogen sulfide toxicity can be found here: http://www.tandfo
 
 Post and answer questions about the health effects of hydrogen sulfide here:
 
-[questions:hydrogen-sulfide-effects,hydrogen-sulfide,h2s]
+[hydrogen-sulfide-effects,hydrogen-sulfide,h2s](../../tag/question:hydrogen-sulfide-effects,hydrogen-sulfide,h2s)
 
 ****
 

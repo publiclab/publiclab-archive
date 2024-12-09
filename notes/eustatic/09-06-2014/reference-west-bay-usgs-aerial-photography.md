@@ -8,11 +8,15 @@ uid: 379
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/006/625/original/west_bay_NAIP_2013.png)
+
 # [Reference] west bay USGS aerial photography for land change analysis
 
 by [eustatic](../profile/eustatic) September 06, 2014 03:12
 
 September 06, 2014 03:12 | Tags: [gulf-coast](../tag/gulf-coast), [balloon-mapping](../tag/balloon-mapping), [nrg](../tag/nrg), [multispectral](../tag/multispectral), [mapknitter](../tag/mapknitter), [wetlands](../tag/wetlands), [infrared](../tag/infrared), [louisiana](../tag/louisiana), [coastal](../tag/coastal), [response:10243](../tag/response:10243), [response:10381](../tag/response:10381), [propublica](../tag/propublica), [west-bay](../tag/west-bay), [place:west-bay-mississippi-river-delta](../tag/place:west-bay-mississippi-river-delta)
+
+----
 
 ###What I want to do
 

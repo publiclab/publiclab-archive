@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/000/999/original/WarnerLkVis7136Trapa2500A.jpg)
+
 # Trapa detection
 
 by [cfastie](../profile/cfastie) August 02, 2013 15:56
 
 August 02, 2013 15:56 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [vermont](../tag/vermont), [lake](../tag/lake), [gps](../tag/gps), [pvos](../tag/pvos), [event](../tag/event), [massachusetts](../tag/massachusetts), [invasive](../tag/invasive), [umass-amherst](../tag/umass-amherst), [aquatic](../tag/aquatic), [usfws](../tag/usfws), [classification](../tag/classification), [georeferencing](../tag/georeferencing), [h2onutz](../tag/h2onutz), [response:8928](../tag/response:8928), [response:8937](../tag/response:8937), [invasive-species](../tag/invasive-species)
+
+----
 
 <em>Image above: Balloon aerial photo of aquatic plants on Lake Warner with patches of water chestnut circled. Click image to enlarge.</em>
 

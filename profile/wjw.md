@@ -3,6 +3,8 @@ uid: 462290
 created_at: 2016-01-25 00:05:28 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/462290/medium/Entropy.jpeg)
+
 # wjw
 
 Retired automation engineer, currently managing the small family farm in SW Wisconsin.  Interested in soil maintenance, organic food production, small scale energy production, embedded systems for continuous monitoring of air and soil conditions.

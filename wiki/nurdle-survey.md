@@ -8,11 +8,15 @@ uid: 664477
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/041/343/original/Nurdles_leadimage.jpg)
+
 # Nurdle survey
 
 by [bhamster](../profile/bhamster)
 
 October 28, 2020 21:20 | Tags: [method](../tag/method), [beach](../tag/beach), [microplastics](../tag/microplastics), [marine-debris](../tag/marine-debris), [nurdles](../tag/nurdles), [nurdle-patrol](../tag/nurdle-patrol), [nurdle-survey](../tag/nurdle-survey), [plastic-pellets](../tag/plastic-pellets), [method:microplastics](../tag/method:microplastics)
+
+----
 
 A survey for nurdles (industrial plastic pellets) on a beach or shoreline is a relatively easy and inexpensive way to monitor microplastics pollution. 
 
@@ -39,6 +43,6 @@ _If you know of other groups organizing nurdle surveys, please [add them to the 
 
 Posts written by Public Lab community members and tagged with `activity:nurdle-survey` will appear here. [Write a note about your own research or story here](https://publiclab.org/post?tags=activity:nurdle-survey,microplastics)!
 
-[activities:nurdle-survey]
+[nurdle-survey](../../tag/activity:nurdle-survey)
 
 

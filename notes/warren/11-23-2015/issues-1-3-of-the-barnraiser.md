@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/013/008/original/barnraiser.jpg)
+
 # Issues 1-3 of The Barnraiser
 
 by [warren](../profile/warren) November 23, 2015 22:59
 
 November 23, 2015 22:59 | Tags: [community](../tag/community), [louisiana](../tag/louisiana), [documentation](../tag/documentation), [cocodrie](../tag/cocodrie), [barnraising](../tag/barnraising), [blog](../tag/blog), [barnstar:photo-documentation](../tag/barnstar:photo-documentation), [doccom](../tag/doccom), [the-barnraiser](../tag/the-barnraiser)
+
+----
 
 At [this year's Barnraising](/barnraising), @patcoyle, @marlokeno, @lombana and I published a daily, one-page newspaper covering each day's events. For our work, and particularly for the final issue (which I was basically not involved in!), we were awarded a "Pullet-zer Prize" by @tonyc (anyone have a picture of this?).
 

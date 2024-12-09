@@ -8,11 +8,15 @@ uid: 751138
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/044/925/original/download.png)
+
 # Call for Proposals: Outreachy Winter 2021
 
 by [mathildaudufo](../profile/mathildaudufo) October 18, 2021 06:45
 
 October 18, 2021 06:45 | Tags: [with:warren](../tag/with:warren), [with:liz](../tag/with:liz), [soc](../tag/soc), [lat:0](../tag/lat:0), [lon:10](../tag/lon:10), [outreachy](../tag/outreachy), [call-for-proposals](../tag/call-for-proposals), [zoom:4](../tag/zoom:4), [with:itm2017004](../tag/with:itm2017004)
+
+----
 
 # Outreachy Winter 2021
 
@@ -63,11 +67,11 @@ Also see [summer proposals here](https://publiclab.org/notes/cess/04-04-2021/cal
 
 ## Proposals
 
-[notes:outreachy-winter-2021]
+[outreachy-winter-2021](../../tag/outreachy-winter-2021)
 
 ## Questions
 
-[questions:soc-winter-2021]
+[soc-winter-2021](../../tag/question:soc-winter-2021)
 Please ask questions! We're very friendly and we love welcoming new people into our community.
 
 ---------

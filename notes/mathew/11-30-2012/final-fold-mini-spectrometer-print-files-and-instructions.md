@@ -8,11 +8,15 @@ uid: 4
 
 ---
 
+![](https://publiclab.org/sites/default/files/Screen shot 2012-11-30 at 2.04.45 PM.png)
+
 # Final fold-up mini-spectrometer print files and instructions
 
 by [mathew](../profile/mathew) November 30, 2012 22:19
 
 November 30, 2012 22:19 | Tags: [spectrometer](../tag/spectrometer), [guides](../tag/guides), [fold-up-mini-spectrometer](../tag/fold-up-mini-spectrometer)
+
+----
 
 Attached below are the final print and cut files, and  pictures of the big stacks of spectrometers that arrived on my porch.  With these files, you too can make 2000 spectrometers.  For those who just want one, see the 1-page directions, now with a second page with laser-cutting vectors.
 

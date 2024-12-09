@@ -8,11 +8,15 @@ uid: 736598
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/042/823/original/EPA_flow_chart.png)
+
 # Messages from the Mississippi Lesson 6: Building a Campaign
 
 by [purl](../profile/purl) February 26, 2021 21:11
 
 February 26, 2021 21:11 | Tags: [microplastics](../tag/microplastics), [messagesfromthemississippi](../tag/messagesfromthemississippi)
+
+----
 
 ## Overview [](https://publiclab.org/notes/purl/01-27-2021/messages-from-the-mississippi-lesson-2-a-river-of-plastic#Overview)
 

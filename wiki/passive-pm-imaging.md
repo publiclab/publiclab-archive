@@ -14,6 +14,8 @@ by [stevie](../profile/stevie), [mathew](../profile/mathew)
 
 February 03, 2016 23:22 | Tags: [parent:passive-pm](../tag/parent:passive-pm)
 
+----
+
 This is an attempt to document the steps in a method of imaging for the passive monitor [you can make with instructions here](/notes/mathew/09-02-2015/replicating-a-passive-dust-monitor-method), as written in:  
 
 Darrin K. Ott, William Cyrs, Thomas M. Peters. Passive measurement of coarse particulate matter, PM10-2.5. Aerosol Science 39 156 – 167 (2008)

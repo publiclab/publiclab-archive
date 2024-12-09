@@ -8,11 +8,15 @@ uid: 60662
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/015/755/original/Screenshot_2016-04-23_at_4.17.24_PM.png)
+
 # New moderation system for first-time posters
 
 by [tester](../profile/tester) April 23, 2016 20:25
 
 April 23, 2016 20:25 | Tags: [community](../tag/community), [website](../tag/website), [organizers](../tag/organizers), [spam](../tag/spam), [barnstar:basic](../tag/barnstar:basic), [with:warren](../tag/with:warren), [moderation](../tag/moderation), [newcomers](../tag/newcomers), [location:blurred](../tag/location:blurred), [lat:-80](../tag/lat:-80), [lon:630](../tag/lon:630), [first-contribution](../tag/first-contribution)
+
+----
 
 We've just launched a new moderation system, so that **each first-time posters' initial research note is now held for moderation** by [our new community moderators group](/wiki/moderators). This very post (actually written by @warren) will have to pass through the new system in order to be shown [on the dashboard](/dashboard) or [the main research note feed](/research). 
 

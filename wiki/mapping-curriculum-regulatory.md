@@ -14,6 +14,8 @@ by [mathew](../profile/mathew), [gonzoearth](../profile/gonzoearth), [warren](..
 
 February 08, 2011 18:43 | Tags: [balloon-mapping](../tag/balloon-mapping), [curriculum](../tag/curriculum), [regulations](../tag/regulations), [parent:balloon-mapping](../tag/parent:balloon-mapping)
 
+----
+
 *As part of the [Grassroots Mapping Curriculum](/wiki/mapping-curriculum) series.*
 
 ##United States. Size: Unregulated Balloons##

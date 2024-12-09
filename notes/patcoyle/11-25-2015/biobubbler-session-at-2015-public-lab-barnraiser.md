@@ -8,11 +8,15 @@ uid: 77
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/013/044/original/formaldehyde_bubbler.jpg)
+
 # Biobubbler session at 2015 Public Lab Barnraiser
 
 by [patcoyle](../profile/patcoyle) November 25, 2015 01:48
 
 November 25, 2015 01:48 | Tags: [documentation](../tag/documentation), [barnraising](../tag/barnraising), [bioremediation](../tag/bioremediation), [formaldehyde](../tag/formaldehyde), [indoor-air-quality](../tag/indoor-air-quality), [barnraising-2015](../tag/barnraising-2015), [biobubbler](../tag/biobubbler)
+
+----
 
 ###What I want to do
 

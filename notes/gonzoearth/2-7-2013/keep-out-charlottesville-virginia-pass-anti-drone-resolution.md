@@ -14,4 +14,6 @@ by [gonzoearth](../profile/gonzoearth) February 07, 2013 21:36
 
 February 07, 2013 21:36 | Tags: 
 
+----
+
 <span style="font-family:Helvetica;white-space:nowrap"><a href="http://slashgeo.org/2013/02/07/First-City-US-Pass-Anti-Drone-Resolution">http://slashgeo.org/2013/02/07/First-City-US-Pass-Anti-Drone-Resolution</a></span>

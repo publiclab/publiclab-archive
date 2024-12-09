@@ -14,6 +14,8 @@ by [Shannon](../profile/Shannon)
 
 October 08, 2012 18:38 | Tags: 
 
+----
+
 **DEVELOPMENT MANAGER**
  
 This position will play an important role in the growing Public Laboratory for Open Technology and Science community.  The ideal candidate will work as part of the nonprofit team to secure and grow existing development support, to identify new funding opportunities and to set a strategic course for organizational growth and excellence into the future.

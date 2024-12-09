@@ -14,6 +14,8 @@ by [liz](../profile/liz), [donblair](../profile/donblair), [jbreen](../profile/j
 
 October 06, 2013 20:28 | Tags: [writing](../tag/writing), [writing-group](../tag/writing-group), [working-groups](../tag/working-groups), [literature](../tag/literature), [list:public-lab-writing-group](../tag/list:public-lab-writing-group), [collaborative-writing](../tag/collaborative-writing)
 
+----
+
 ###History
 The Public Lab Writing Group (PLWG) was formed at the [2013 Barnraising](http://publiclab.org/wiki/barnraising-2013) as a means of systematically furthering the mission of Public Lab through publication, both internal and external.  
 

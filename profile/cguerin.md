@@ -3,6 +3,8 @@ uid: 507616
 created_at: 2017-05-19 08:51:48 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/f66bb374eb2228d2ec907c8b3efd5fd6)
+
 # cguerin
 
 

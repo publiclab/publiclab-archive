@@ -8,11 +8,15 @@ uid: 503599
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/024/996/original/gsoc.png)
+
 # GOOGLE SUMMER OF CODE & PUBLIC LABS
 
 by [bansal_sidharth2996](../profile/bansal_sidharth2996) May 19, 2018 16:07
 
 May 19, 2018 16:07 | Tags: 
+
+----
 
 When I heard I got selected in GSOC 18 with Public Labs I was jumping and dancing. That day was one of the happiest moments of my life. 
 This post is how I get selected in GSOC with Public Labs.

@@ -8,11 +8,15 @@ uid: 725565
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/042/159/original/Screenshot_2020-12-28_at_18.08.03.png)
+
 # I, Too, Struggle
 
 by [ruthnwaiganjo](../profile/ruthnwaiganjo) December 28, 2020 17:03
 
 December 28, 2020 17:03 | Tags: [coding](../tag/coding), [happy-holidays](../tag/happy-holidays), [blog-submission](../tag/blog-submission), [outreachy](../tag/outreachy), [programming](../tag/programming), [codebase](../tag/codebase)
+
+----
 
 When I started learning about programming, I knew someone good at it. Effortlessly solving any programming challenges they faced. Several people acknowledged them as one of the best programmers they knew. I always noticed that this person never once reached out for help in any programming related problems. It made me think that becoming a proficient programmer meant that you were self-sufficient in addition to rarely facing any challenges.
 

@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/036/948/original/IMG_20191203_133516.jpg)
+
 # My upcoming transition
 
 by [warren](../profile/warren) December 09, 2019 18:56
 
 December 09, 2019 18:56 | Tags: [news](../tag/news), [staff](../tag/staff)
+
+----
 
 Hello everyone!
 

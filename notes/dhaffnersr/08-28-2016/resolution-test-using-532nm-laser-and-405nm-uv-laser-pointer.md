@@ -8,11 +8,15 @@ uid: 461120
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/017/805/original/JDEPC-ov05_sheet_3.png)
+
 # Resolution Test Using 532nm Laser and 405nm UV Laser Pointer
 
 by [dhaffnersr](../profile/dhaffnersr) August 28, 2016 15:15
 
 August 28, 2016 15:15 | Tags: 
+
+----
 
 ##**Resolution Test for The DH 4.0 v4 Spectrometer (Replaced Slit with new 0.09mm Gillette metal razor blade open-air design.)**
 

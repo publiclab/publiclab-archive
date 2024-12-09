@@ -8,11 +8,15 @@ uid: 561828
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/028/425/original/FTIR.png)
+
 # Hydro-powered DIY FTIR Spectrometer
 
 by [bryanchua](../profile/bryanchua) December 18, 2018 18:44
 
 December 18, 2018 18:44 | Tags: [spectroscopy](../tag/spectroscopy), [water-quality](../tag/water-quality), [hardware](../tag/hardware), [ftir](../tag/ftir), [renewable-energy](../tag/renewable-energy)
+
+----
 
 Hi,
 

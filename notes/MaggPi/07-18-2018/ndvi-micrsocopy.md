@@ -8,11 +8,15 @@ uid: 501996
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/025/742/original/ndvi.png)
+
 # NDVI microscopy
 
 by [MaggPi](../profile/MaggPi) July 18, 2018 09:20
 
 July 18, 2018 09:20 | Tags: [ndvi](../tag/ndvi), [raspberry-pi](../tag/raspberry-pi), [barnstar:basic](../tag/barnstar:basic), [microscopy](../tag/microscopy), [gsoc-2018](../tag/gsoc-2018), [image-sequencer](../tag/image-sequencer)
+
+----
 
 My first use of  image-sequencer  https://publiclab.github.io/image-sequencer/examples/#steps=    so I am not sure what to expect..
    

@@ -8,11 +8,15 @@ uid: 46536
 
 ---
 
+![](https://publiclab.org/sites/default/files/image_6.jpg)
+
 # Help requested with mapknitter- Balloon mapping of Metal processing plant in Providence, RI
 
 by [Lynnrw](../profile/Lynnrw) May 13, 2013 16:00
 
 May 13, 2013 16:00 | Tags: [providence](../tag/providence), [balloon-mapping](../tag/balloon-mapping), [air-quality](../tag/air-quality), [waste](../tag/waste), [water-quality](../tag/water-quality), [toxic-waste](../tag/toxic-waste), [first-time-poster](../tag/first-time-poster)
+
+----
 
 We're a neighborhood group in East Providence, RI with houses adjacent  to a large construction waste grinding business. Toxic dust was filtering into our homes and yards  from the plant.   Many in the neighborhood suffer from respiratory and other health problems  thought to be associated with the dust.
 

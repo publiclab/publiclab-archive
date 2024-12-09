@@ -14,6 +14,8 @@ by [stoft](../profile/stoft), [mathew](../profile/mathew), [gretchengehrke](../p
 
 April 07, 2016 20:21 | Tags: 
 
+----
+
 **Abstract**
 
 This wiki page [a work in progress] describes best practices for documenting research with the goal of enabling others to understand that work and to reproduce experiments / results, and assess the data resulting from that research. The contents have, by design, been structured and written based on those same standards so that hopefully the reader will have an implicit understanding of the concepts.

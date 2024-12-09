@@ -8,11 +8,15 @@ uid: 516343
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/023/576/original/Screen_Shot_2018-02-05_at_3.30.12_PM.png)
+
 # Location privacy
 
 by [warren](../profile/warren), [sagarpreet](../profile/sagarpreet)
 
 February 05, 2018 12:25 | Tags: [website](../tag/website), [leaflet](../tag/leaflet), [lat:38](../tag/lat:38), [privacy](../tag/privacy), [location:blurred](../tag/location:blurred), [lon:-77](../tag/lon:-77), [lat:30](../tag/lat:30), [location-privacy](../tag/location-privacy), [blurred:true](../tag/blurred:true), [website-utilities](../tag/website-utilities), [lon:-70](../tag/lon:-70), [place:sell-your-house-in-7-days](../tag/place:sell-your-house-in-7-days), [place:washington-dc](../tag/place:washington-dc), [place:mobile-notary-dc](../tag/place:mobile-notary-dc)
+
+----
 
 With the new **Share your Location** feature on your [profile page](/profile) come important questions about how much you should share about where you are. This page discusses this sensitive topic and offers tips.
 
@@ -103,7 +107,7 @@ What this means is that if you blur your location even a little, people won't be
 
 ## Questions
 
-[questions:location-privacy]
+[location-privacy](../../tag/question:location-privacy)
 
 ****
 

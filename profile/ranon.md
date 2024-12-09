@@ -3,6 +3,8 @@ uid: 477060
 created_at: 2016-06-03 18:20:08 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/1e8a2d1d1bd94b2fd61147b6da9b57bd)
+
 # ranon
 
 Hi!

@@ -14,6 +14,8 @@ by [Markos](../profile/Markos), [warren](../profile/warren), [liz](../profile/li
 
 October 16, 2012 19:59 | Tags: [spectrometer](../tag/spectrometer)
 
+----
+
 ##Types of spectroscopy
 
 There are many ways to use a spectrometer to analyze materials, and each uses different light sources, sample preparation, and procedures. We're trying to summarize each briefly for those who are just getting started; please help to refine and improve the summaries below (and add case studies from [relevant research notes](/notes/spectrometer)). Also see our listing of [different use cases for spectrometry](/wiki/spectral-analysis).

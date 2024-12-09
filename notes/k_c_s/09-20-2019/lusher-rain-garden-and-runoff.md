@@ -8,11 +8,15 @@ uid: 619909
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/035/363/original/rain-garden-3.jpg)
+
 # Rain Garden and Runoff
 
 by [k_c_s](../profile/k_c_s) September 20, 2019 19:29
 
 September 20, 2019 19:29 | Tags: [new-orleans](../tag/new-orleans), [stormwater](../tag/stormwater), [issue-brief](../tag/issue-brief), [first-time-poster](../tag/first-time-poster), [with:jeanell873](../tag/with:jeanell873), [lat:29.935597](../tag/lat:29.935597), [lon:-90.114068](../tag/lon:-90.114068), [rain-garden](../tag/rain-garden), [lusher-rain-garden](../tag/lusher-rain-garden)
+
+----
 
 ### Introduction:
 

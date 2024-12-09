@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/011/029/original/Melon-646-56-SS2k.jpg)
+
 # Aerial Photo Rig Bargains
 
 by [cfastie](../profile/cfastie) August 04, 2015 15:43
 
 August 04, 2015 15:43 | Tags: [kite-aerial-photography](../tag/kite-aerial-photography), [kap](../tag/kap), [autokap](../tag/autokap), [redstone](../tag/redstone), [kaptery](../tag/kaptery), [saturnv](../tag/saturnv), [response:12058](../tag/response:12058)
+
+----
 
 If you're thinking of moving up from that soda bottle rig, this could be your week. This week only, a [Redstone Rig Kit](http://kaptery.com/product/redstone-rig-kit) from the KAPtery is on sale for $40.00 (US shipping included).  
 .  

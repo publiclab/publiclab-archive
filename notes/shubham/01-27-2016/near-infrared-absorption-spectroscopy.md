@@ -8,11 +8,15 @@ uid: 460486
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/013/891/original/IMG_20160127_172904078.jpg)
+
 # Near-infrared absorption spectroscopy
 
 by [shubham](../profile/shubham) January 27, 2016 13:06
 
 January 27, 2016 13:06 | Tags: [spectrometer](../tag/spectrometer), [nir](../tag/nir), [near-infrared](../tag/near-infrared), [absorption](../tag/absorption), [cuvette](../tag/cuvette), [ccd](../tag/ccd), [linearccd](../tag/linearccd), [barnstar:basic](../tag/barnstar:basic), [first-time-poster](../tag/first-time-poster)
+
+----
 
 ##What I want to do
 

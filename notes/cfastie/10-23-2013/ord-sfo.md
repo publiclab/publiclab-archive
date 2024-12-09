@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/002/024/original/ORD_SFO_NBG.jpg)
+
 # ORD - SFO
 
 by [cfastie](../profile/cfastie) October 23, 2013 23:25
 
 October 23, 2013 23:25 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [passenger-pigeon](../tag/passenger-pigeon), [infragram](../tag/infragram), [photosynthesis](../tag/photosynthesis), [gsoc](../tag/gsoc), [google](../tag/google), [google-summer-of-code](../tag/google-summer-of-code), [gsoc2013](../tag/gsoc2013), [infrablue](../tag/infrablue), [mentorsummit](../tag/mentorsummit), [mentorsummit13](../tag/mentorsummit13)
+
+----
 
 Last Friday, three of us flew from New England to San Francisco for the Mentor Summit of the [Google Summer of Code](http://publiclab.org/wiki/gsoc). Public Lab mentored three students to develop code for three projects, and the three mentors, Jeff Warren, Don Blair, and I attended the two-day summit at the GooglePlex in Mountain View.  For some unknown reason, only one of us took an Infragram camera, and I also happened to have window seats all the way there. (I was asked by the mother of a three year old to trade seats so she could sit next to her daughter on the four hour flight from Chicago, but her other seat was over a wing, so I refused. I was roundly scorned by everyone in economy seating, but my responsibility to Public Lab tool testing must always come first.)  
 

@@ -8,11 +8,15 @@ uid: 580774
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/031/825/original/HUSH-CITY_icon_%28c%29_Antonella_Radicchi_2017_%281%29_kleiner.jpg)
+
 # Map the quiet places near you using Hush City platform
 
 by [Hush_City_Mobile_Lab](../profile/Hush_City_Mobile_Lab) May 06, 2019 11:13
 
 May 06, 2019 11:13 | Tags: [urban](../tag/urban), [citizen-science](../tag/citizen-science), [mapping](../tag/mapping), [health](../tag/health), [transportation](../tag/transportation), [environment](../tag/environment), [apps](../tag/apps), [land-use](../tag/land-use), [noise](../tag/noise), [method](../tag/method), [sound](../tag/sound), [planning](../tag/planning), [mobile-apps](../tag/mobile-apps), [first-time-poster](../tag/first-time-poster), [soundscape](../tag/soundscape), [cities](../tag/cities), [quiet](../tag/quiet), [activity:noise](../tag/activity:noise), [activity:transportation](../tag/activity:transportation)
+
+----
 
 With Hush City
 app, you are an active part of a soundscape and citizen science research

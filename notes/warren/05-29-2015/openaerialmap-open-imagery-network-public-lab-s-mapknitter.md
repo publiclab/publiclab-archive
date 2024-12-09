@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/010/089/original/Screen_Shot_2015-05-29_at_10.42.24_AM.png)
+
 # OpenAerialMap, Open Imagery Network & Public Lab's MapKnitter
 
 by [warren](../profile/warren) May 29, 2015 15:26
 
 May 29, 2015 15:26 | Tags: [3d](../tag/3d), [mapknitter](../tag/mapknitter), [bundleadjustment](../tag/bundleadjustment), [gps](../tag/gps), [software](../tag/software), [gsoc](../tag/gsoc), [leaflet](../tag/leaflet), [metadata](../tag/metadata), [autostitch](../tag/autostitch), [auto-placement](../tag/auto-placement), [opendronemap](../tag/opendronemap), [openaerialmap](../tag/openaerialmap), [leaflet.distortableimage](../tag/leaflet.distortableimage)
+
+----
 
 The [OpenAerialMap Beta](http://beta.openaerialmap.org/) was just [launched yesterday](https://developmentseed.org/blog/2015/05/27/introducing-openaerialmap/) by DevelopmentSeed - a reboot of the old OAM from ~2008 (if I recall?). It's a global index of aerial imagery, depending on a simple standard for metadata which we now plan to support in Public Lab's MapKnitter:
 

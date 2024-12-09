@@ -14,6 +14,8 @@ by [cindy_excites](../profile/cindy_excites) August 03, 2012 22:02
 
 August 03, 2012 22:02 | Tags: 
 
+----
+
 Although the Mildmay Community Centre are the main drivers in this initiative, our initial point of contact with members of the community was through the membership of Citizens without Borders, a community-based organisation with over 200 active members in London whose aim is to engage in civic action using different approaches to explore the surrounding environment and to expand publicly owned social and environmental knowledge. Their contribution in identifying community needs for web-based learning and sharing of findings as well as the identification of the pro and cons, benefits and threats of using grassroots science was an invaluable starting point that confirmed the importance of the Science has no Borders initiative.
 
 At the MCC we have engaged with community leaders both through meeting with them in person at several of their events and in particular through their community garden project, which aims at eventually providing fruits and vegetables for the local area. Community leader, Jenny Littlewood, who runs the garden initiative, has been very keen to start mini DIY environmental monitoring projects for their garden such as measuring humidity and temperature changes, water quality testing, gas sensing to measure CO2 exchange, and infra-red photography to monitor plant health.

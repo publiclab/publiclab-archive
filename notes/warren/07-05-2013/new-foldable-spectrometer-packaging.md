@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/000/642/original/IMG_0077_copy.JPG)
+
 # New foldable spectrometer packaging
 
 by [warren](../profile/warren) July 05, 2013 15:39
 
 July 05, 2013 15:39 | Tags: [spectrometer](../tag/spectrometer)
+
+----
 
 We've just redesigned the [foldable spectrometer](http://store.publiclab.org/products/foldable-mini-spectrometer) packaging to tell a clearer story about what the device is, how it's used, and it's development in a collaborative community. The new envelopes look great and we're excited to start shipping them today!
 

@@ -8,11 +8,15 @@ uid: 484876
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/017/376/original/1624676511.jpg)
+
 # 到中国的东江源头村使用Balloon Mapping Kit
 
 by [karypun](../profile/karypun) August 05, 2016 10:45
 
 August 05, 2016 10:45 | Tags: [blog](../tag/blog), [barnstar:basic](../tag/barnstar:basic)
+
+----
 
 Hello,我想和大家分享我在中国江西使用Balloon Mapping Kit的经历。首先呢，这里是中国江西省的东南部，寻乌县三标乡的东江源村。东江源村位于东江的源头，而东江则是珠三角东岸众多城市的水源地，如广州、深圳、香港。就是说，我家的自来水很有可能就是从这一路流到我家的水龙头呢。
 

@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/003/114/original/IMG_9337b.jpg)
+
 # SNOWFEST the Movie
 
 by [cfastie](../profile/cfastie) March 02, 2014 17:02
 
 March 02, 2014 17:02 | Tags: [video](../tag/video), [vermont](../tag/vermont), [events:vermont](../tag/events:vermont), [riffle](../tag/riffle), [snowfest](../tag/snowfest), [blair-house](../tag/blair-house), [quinzee](../tag/quinzee), [response:10058](../tag/response:10058), [northeast](../tag/northeast), [barnstar:video-documentation](../tag/barnstar:video-documentation), [snowfest2014](../tag/snowfest2014)
+
+----
 
 There was some discussion of Blair House on Public Lab regional forums before SNOWFEST, and [Laura posted the definitive results of the overnight deployment of RIFFLE prototypes](http://publiclab.org/notes/lauradietz/02-23-2014/the-blairhouse-project) in Blair House. So we have very good evidence that Blair House strongly moderates temperature, at least when a namesake body is involved. More importantly, the RIFFLE hardware got another field test and performed well. But there is substantial confusion about what Blair House is, and what it has to do with Public Lab. 
 

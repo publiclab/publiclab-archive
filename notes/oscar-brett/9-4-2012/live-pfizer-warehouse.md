@@ -8,11 +8,15 @@ uid: 409
 
 ---
 
+![](https://publiclab.org/sites/default/files/P9010355.JPG)
+
 # Live from the Pfizer warehouse
 
 by [oscarbrett](../profile/oscarbrett) September 04, 2012 16:55
 
 September 04, 2012 16:55 | Tags: [balloon-mapping](../tag/balloon-mapping), [diy-satellite](../tag/diy-satellite), [weird-science](../tag/weird-science), [plots](../tag/plots), [oscar-brett](../tag/oscar-brett)
+
+----
 
 PLOTS was invited to create an installation for this years "Stranded" rave; the "weird science" party was organized by Brooklyn based party team Winkle + Baltik. It had been described as the "east coast burning man".
 

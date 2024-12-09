@@ -12,6 +12,8 @@ uid: 1
 
 November 01, 2018 20:26 | Tags: 
 
+----
+
 
   <div style="text-align:center;">
     <h1 style="font-size:3.4em;margin-top:40px;">Methods</h1>

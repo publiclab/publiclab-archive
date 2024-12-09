@@ -3,6 +3,8 @@ uid: 505468
 created_at: 2017-04-10 02:06:07 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/01c90b671142bfe45d538070e501244e)
+
 # rudolf455
 
 

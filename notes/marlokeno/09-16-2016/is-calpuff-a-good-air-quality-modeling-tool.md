@@ -14,6 +14,8 @@ by [marlokeno](../profile/marlokeno) September 16, 2016 18:10
 
 September 16, 2016 18:10 | Tags: [epa](../tag/epa), [air-quality](../tag/air-quality), [frac-sand](../tag/frac-sand), [pm](../tag/pm), [particulate-monitoring](../tag/particulate-monitoring), [question:air-quality](../tag/question:air-quality), [outdoor-air](../tag/outdoor-air), [calpuff](../tag/calpuff), [aeromod](../tag/aeromod), [air-quality-modeling](../tag/air-quality-modeling), [particulate-dispersion](../tag/particulate-dispersion), [question:oil-and-gas](../tag/question:oil-and-gas), [question:frac-sand](../tag/question:frac-sand)
 
+----
+
 Anybody knowledgeable or experienced in using CALPUFF for particulate monitoring, or other air quality issues?
 Second, will the EPA accept CALPUFF models of particulate dispersion?
 

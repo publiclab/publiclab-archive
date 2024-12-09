@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/000/037/original/presentation.png)
+
 # Presentation to AAA, Nov 16, 2011
 
 by [warren](../profile/warren) April 11, 2013 17:50
 
 April 11, 2013 17:50 | Tags: 
+
+----
 
 Archiving a presentation [Shannon Dosemagen](/people/shannon) and I gave at the Association of American Anthropologists' annual conference, which in 2011 was held in Montreal:
 

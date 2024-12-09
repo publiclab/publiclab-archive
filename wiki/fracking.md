@@ -14,6 +14,8 @@ by [laurel_mire](../profile/laurel_mire)
 
 November 17, 2021 23:35 | Tags: [fracking](../tag/fracking), [environmental](../tag/environmental), [hydrofracking](../tag/hydrofracking), [oil-and-gas](../tag/oil-and-gas)
 
+----
+
 _**Hydraulic fracturing (aka fracking or hydrofracking) makes up a growing portion of the energy sector, and the environmental concerns associated with this process are shared among concerned citizens across the world. There are dozens of subtopics associated with the fracking industry, and this wiki is a work in progress. Please contribute to the resources and discussion by [editing this wiki page](https://publiclab.org/wiki/edit/fracking) or [adding and answering questions](https://publiclab.org/wiki/fracking#Questions) below!**_
 
 <br>
@@ -25,14 +27,14 @@ _**Hydraulic fracturing (aka fracking or hydrofracking) makes up a growing porti
 ##Questions
 Questions from the Public Lab community tagged with 'fracking' will appear here
 
-[questions:fracking]
+[fracking](../../tag/question:fracking)
 
 <br>
 
 ##Activities
 Activities on Public Lab tagged with 'fracking' will appear here
 
-[activities:fracking]
+[fracking](../../tag/activity:fracking)
 
 <br>
 

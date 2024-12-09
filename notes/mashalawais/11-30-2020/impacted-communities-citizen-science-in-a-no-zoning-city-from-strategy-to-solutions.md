@@ -14,6 +14,8 @@ by [mashalawais](../profile/mashalawais) November 30, 2020 21:25
 
 November 30, 2020 21:25 | Tags: [industrial-monitoring](../tag/industrial-monitoring), [mapping](../tag/mapping), [reporting](../tag/reporting), [epa](../tag/epa), [contamination](../tag/contamination), [air-quality](../tag/air-quality), [public-health](../tag/public-health), [airquality](../tag/airquality), [exposure](../tag/exposure), [waterquality](../tag/waterquality), [texas](../tag/texas), [oil-and-gas](../tag/oil-and-gas), [houston](../tag/houston), [issue-brief](../tag/issue-brief), [fenceline](../tag/fenceline), [first-time-poster](../tag/first-time-poster), [zoom:6](../tag/zoom:6), [resourceguide](../tag/resourceguide), [environmentalracism](../tag/environmentalracism), [environmentalcontamination](../tag/environmentalcontamination), [nozoning](../tag/nozoning), [lat:29.764377](../tag/lat:29.764377), [lon:-95.361328](../tag/lon:-95.361328), [envirofacts](../tag/envirofacts)
 
+----
+
 ### Introduction:
 
 Creating a resource document that will help communities identify and solve localized environmental contamination issues and increase awareness around health risk from identifying exposure risk to connecting community to solutions.
@@ -42,4 +44,4 @@ How do you draw connections from environmental contamination to human health?
 
 What are the industries nearby that are polluting our region?
 
-[questions:tagname]
+[tagname](../../tag/question:tagname)

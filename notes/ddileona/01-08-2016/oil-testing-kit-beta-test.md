@@ -8,11 +8,15 @@ uid: 436738
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/013/559/original/undefined)
+
 # Oil Testing Kit Beta Test
 
 by [ddileona](../profile/ddileona) January 08, 2016 03:56
 
 January 08, 2016 03:56 | Tags: [oil-testing-kit](../tag/oil-testing-kit), [oil-testing-kit-beta](../tag/oil-testing-kit-beta)
+
+----
 
 I took these spectra for the Oil Testing Kit Beta Program at the end of last year with Stevie (@stevie) and Scott (@eustatic).
 

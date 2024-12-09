@@ -14,6 +14,8 @@ by [warren](../profile/warren), [mathew](../profile/mathew), [Misterdeman](../pr
 
 October 28, 2011 18:13 | Tags: [spectrometer](../tag/spectrometer)
 
+----
+
 This page documents the construction of the [video spectrometer](/wiki/video-spectrometer), which **is no longer actively supported**. Please see one of the following newer designs:
 
 * **[Foldable Mini-spectrometer](/wiki/foldable-spec)** - small paper model which attaches to a smartphone

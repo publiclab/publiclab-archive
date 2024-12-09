@@ -8,11 +8,15 @@ uid: 58232
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/013/265/original/F8XFIT3IC6IFMT8.LARGE.jpg)
+
 # Silhouette cut Public Lab Mobile spectrometer v2
 
 by [briandegger](../profile/briandegger) December 11, 2015 15:59
 
 December 11, 2015 15:59 | Tags: [spectrometer](../tag/spectrometer), [instructables](../tag/instructables), [foldable](../tag/foldable), [papercraft](../tag/papercraft), [silhouette-cameo](../tag/silhouette-cameo), [foldable-spectrometer](../tag/foldable-spectrometer), [silhouette](../tag/silhouette), [cameo](../tag/cameo), [upgrade:foldable-spec](../tag/upgrade:foldable-spec)
+
+----
 
 [http://www.instructables.com/id/Silhouette-cut-Public-Lab-Mobile-spectrometer/](http://www.instructables.com/id/Silhouette-cut-Public-Lab-Mobile-spectrometer/)
 ###What I wanted to do

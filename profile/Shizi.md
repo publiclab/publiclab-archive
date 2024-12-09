@@ -3,6 +3,8 @@ uid: 475993
 created_at: 2016-05-27 12:20:08 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/d9cafda7e75607c372908094bee3c9ff)
+
 # Shizi
 
 

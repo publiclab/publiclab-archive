@@ -14,6 +14,8 @@ by [warren](../profile/warren), [bdebaque](../profile/bdebaque)
 
 May 08, 2014 13:46 | Tags: [quebec](../tag/quebec), [canada](../tag/canada), [lang:fr](../tag/lang:fr), [parent:northeast](../tag/parent:northeast)
 
+----
+
 We are based in Québec City, starting environmental and public health projects.
 We are deeply involved with the fablab de Québec.
 

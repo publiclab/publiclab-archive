@@ -8,11 +8,15 @@ uid: 461120
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/016/715/original/close_up_view_of_cmos.png)
+
 # Plab v2.5 (upgrade 2) Comparison Spectra to SpexFluoroMax Spectrometer
 
 by [dhaffnersr](../profile/dhaffnersr) June 22, 2016 14:12
 
 June 22, 2016 14:12 | Tags: 
+
+----
 
 **Abstract**
 

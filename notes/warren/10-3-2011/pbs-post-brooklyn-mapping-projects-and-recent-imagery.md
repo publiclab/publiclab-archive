@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/maspeth-new-town-creek-plume.jpeg)
+
 # PBS post on Brooklyn mapping projects and recent imagery
 
 by [warren](../profile/warren) October 03, 2011 16:13
 
 October 03, 2011 16:13 | Tags: [idealab](../tag/idealab)
+
+----
 
 Liz Barry just posted this great overview of recent Brooklyn maps on the PBS Mediashift IdeaLab blog:
 

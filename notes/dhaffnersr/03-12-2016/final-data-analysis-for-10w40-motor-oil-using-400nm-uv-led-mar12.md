@@ -8,11 +8,15 @@ uid: 461120
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/014/794/original/dual_beam_mar11.png)
+
 # Final data analysis for 10w40 motor oil using 400nm UV LED mar12
 
 by [dhaffnersr](../profile/dhaffnersr) March 12, 2016 18:56
 
 March 12, 2016 18:56 | Tags: 
+
+----
 
 Below is my final data analysis for the 10w40 sample I have been working on, I have been working hard on perfecting my sample preparation techniques and data analysis using spekwin32, So I really DO NOT mind a very critical analysis of my data and sample processing technique, its the only way I'm going to learn and know if I am progressing or what I need to do in order to do better quality work.
 

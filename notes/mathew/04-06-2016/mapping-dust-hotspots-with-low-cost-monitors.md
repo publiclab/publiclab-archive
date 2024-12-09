@@ -8,11 +8,15 @@ uid: 4
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/015/384/original/Screen_Shot_2016-04-06_at_10.18.00_AM.png)
+
 # Mapping dust hotspots with low-cost monitors
 
 by [mathew](../profile/mathew) April 06, 2016 17:36
 
 April 06, 2016 17:36 | Tags: [air-quality](../tag/air-quality), [frac-sand](../tag/frac-sand), [pm](../tag/pm), [particles](../tag/particles), [particle-sensing](../tag/particle-sensing), [particle-monitoring](../tag/particle-monitoring), [passive-particle-monitors](../tag/passive-particle-monitors), [passive-pm](../tag/passive-pm), [parent:frac-sand](../tag/parent:frac-sand), [pm-monitoring](../tag/pm-monitoring), [seeks:replications](../tag/seeks:replications), [activity:pm](../tag/activity:pm), [hotspot-monitoring](../tag/hotspot-monitoring), [activity:site-survey](../tag/activity:site-survey), [hot-spots](../tag/hot-spots)
+
+----
 
 ###What I want to do
 Discuss a method for mapping the variability of airborne dust across the landscape.  I'm going to summarize the use of [passive PM monitors](/wiki/sem-stub-pm) and [optical PM monitors](/wiki/optical-pm) outlined in:

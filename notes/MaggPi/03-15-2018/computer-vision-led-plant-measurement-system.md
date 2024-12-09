@@ -8,11 +8,15 @@ uid: 501996
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/024/059/original/Multi_led_exposure.png.jpg)
+
 # Computer Vision/LED Plant Measurement System
 
 by [MaggPi](../profile/MaggPi) March 15, 2018 06:57
 
 March 15, 2018 06:57 | Tags: [multispectral](../tag/multispectral), [raspberry-pi](../tag/raspberry-pi), [plant-health](../tag/plant-health), [gardening](../tag/gardening), [python](../tag/python), [activity:multispectral-imaging](../tag/activity:multispectral-imaging), [computer-vision](../tag/computer-vision), [first-time-poster](../tag/first-time-poster)
+
+----
 
 The project incorporates a digital camera, light emitting diodes (LEDs), and software image analysis tools to conduct non-contact plant growth analysis. The system measures growth parameters such as leaf size and leaf reflectance. Plant growth characteristics can then be used to regulate the spectral and temporal output of the LED grow lights. The goal of the system is
 to provide real time feedback to optimize plant development with minimum

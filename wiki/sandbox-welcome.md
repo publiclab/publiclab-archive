@@ -14,6 +14,8 @@ by [bhamster](../profile/bhamster), [alejobonifacio](../profile/alejobonifacio),
 
 September 17, 2019 16:57 | Tags: 
 
+----
+
 We're so happy to meet you! 👋🎉🎈 This page is to help newcomers get started with the Public Lab community.
 
 <div class="alert alert-info" role="alert"> <a href="https://publiclab.org/wiki/sandbox-welcome#Bienvenida+a+Public+Lab">Haz click aqui para leer el contenido de esta página en español</a>.</div>

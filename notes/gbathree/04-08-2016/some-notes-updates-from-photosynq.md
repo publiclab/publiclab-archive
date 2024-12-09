@@ -8,11 +8,15 @@ uid: 53164
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/015/410/original/IMG_20160318_161317.jpg)
+
 # Some notes + updates from PhotosynQ
 
 by [gbathree](../profile/gbathree) April 08, 2016 03:34
 
 April 08, 2016 03:34 | Tags: [event](../tag/event), [soil](../tag/soil), [photosynq](../tag/photosynq), [soilcarbon](../tag/soilcarbon), [event:rsvp](../tag/event:rsvp), [multispeq](../tag/multispeq), [soil-testing](../tag/soil-testing), [date:04-22-2016](../tag/date:04-22-2016)
+
+----
 
 I haven't posted in a while, but wanted to let folks know a few interesting things:
 

@@ -3,6 +3,8 @@ uid: 552923
 created_at: 2018-09-29 07:25:13 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/552923/medium/2018-10-24-5228.jpg)
+
 # emad
 
 emad hamid from sudan electricity engneeer and searcher

@@ -8,11 +8,15 @@ uid: 51
 
 ---
 
+![](https://publiclab.org/sites/default/files/IMG_0272.JPG)
+
 # Kite Flying Tree
 
 by [danbeavers](../profile/danbeavers) February 17, 2013 00:02
 
 February 17, 2013 00:02 | Tags: [kite-mapping](../tag/kite-mapping), [kite](../tag/kite), [diy-kite](../tag/diy-kite), [homemade-kites](../tag/homemade-kites), [easy-cut-delta](../tag/easy-cut-delta)
+
+----
 
 https://publiclab.org/sites/default/files/imagefield_thumbs/IMG_0271.JPG?1361058416
 

@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/UMBC_Knoll_2012_10_24_oblique.png)
+
 # Ecosynth: upcoming open source 3d mapping for forests
 
 by [warren](../profile/warren) June 14, 2012 17:08
 
 June 14, 2012 17:08 | Tags: [3d](../tag/3d), [uav](../tag/uav), [forest](../tag/forest), [pointcloud](../tag/pointcloud), [bundleadjustment](../tag/bundleadjustment), [sfm](../tag/sfm), [structure-from-motion](../tag/structure-from-motion)
+
+----
 
 [Ecosynth](http://ecotope.org/ecosynth/blog/page/About-Ecosynth.aspx) is a recently NSF-funded project to create an open source toolchain for collecting aerial photos of forests with a small automated hexa-copter, and generating point clouds and 3d models for forestry and ecosystem analysis. I had the opportunity to visit the project for the first annual Ecosynth Workshop to see their system in action and brainstorm next steps.
 

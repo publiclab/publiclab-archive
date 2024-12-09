@@ -14,6 +14,8 @@ by [warren](../profile/warren) March 15, 2012 03:07
 
 March 15, 2012 03:07 | Tags: [collaboration](../tag/collaboration), [process](../tag/process), [open-source](../tag/open-source)
 
+----
+
 This article by Andy Lester has some key thoughts for those trying to get involved in open source collaboration but aren't sure about what they have to offer. The biggest thing I take away from it is that actually implementing hardware or software is only a small part of open source development - and is arguably far less important than investigating and thoroughly characterizing problems with a technology. These might be things the open source project is trying to solve, or bugs with its approach to solving the problem. 
 
 http://www.softwarequalityconnection.com/2012/03/14-ways-to-contribute-to-open-source-without-being-a-programming-genius-or-a-rock-star/

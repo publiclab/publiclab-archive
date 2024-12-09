@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/IMG_2016.JPG)
+
 # Posted photos from Parts & Crafts infrared workshop
 
 by [warren](../profile/warren) April 20, 2011 12:55
 
 April 20, 2011 12:55 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [somerville-massachusetts](../tag/somerville-massachusetts), [boston](../tag/boston), [partsandcrafts](../tag/partsandcrafts), [parts-and-crafts](../tag/parts-and-crafts), [keychain-cameras](../tag/keychain-cameras), [pole-photography](../tag/pole-photography)
+
+----
 
 https://www.flickr.com/photos/publiclaboratory/tags/partsandcrafts
 

@@ -8,11 +8,15 @@ uid: 1083
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/011/868/original/IMG_4037.JPG)
+
 # Oil testing kit Beta programme - Assembly: cuvette frame
 
 by [cindy_excites](../profile/cindy_excites) October 07, 2015 17:15
 
 October 07, 2015 17:15 | Tags: [spectrometer](../tag/spectrometer), [fluorescence](../tag/fluorescence), [oil-testing-kit](../tag/oil-testing-kit), [oil-testing-kit-beta](../tag/oil-testing-kit-beta)
+
+----
 
 ##[Oil testing kit Beta programme](http://publiclab.org/notes/ygzstc/07-14-2015/oil-testing-kit-beta-program) - Assembly notes Part 2: cuvette frame##
 

@@ -14,6 +14,8 @@ by [Ankur_Bodhe](../profile/Ankur_Bodhe) July 11, 2015 12:56
 
 July 11, 2015 12:56 | Tags: [spectrometer](../tag/spectrometer), [carbon](../tag/carbon), [spectrum](../tag/spectrum), [nanotubes](../tag/nanotubes), [sharpness](../tag/sharpness)
 
+----
+
 Hey Guys,
 So I wanted to use the spectrometer to Characterize Carbon Nanotubes.
 I used a 50 W halogen lamp and follwed the procedure as given in the manual of the DIY spectrometer by Public Labs.

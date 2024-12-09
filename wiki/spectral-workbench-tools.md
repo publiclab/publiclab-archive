@@ -14,6 +14,8 @@ by [warren](../profile/warren)
 
 October 09, 2015 20:22 | Tags: [fluorescence](../tag/fluorescence), [spectral-workbench](../tag/spectral-workbench), [transmittance](../tag/transmittance), [parent:spectral-workbench](../tag/parent:spectral-workbench), [wishlist](../tag/wishlist)
 
+----
+
 This is list of the tools available in Spectral Workbench 2. Most of these generate an Operation, and have a corresponding entry in [the Spectral Workbench Operations page](/wiki/spectral-workbench-operations).
 
 Watch this video about using various tool panes:

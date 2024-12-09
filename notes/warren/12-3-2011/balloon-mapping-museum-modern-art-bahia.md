@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/bahia.jpg)
+
 # Balloon mapping at Museum of Modern Art of Bahia
 
 by [warren](../profile/warren) December 03, 2011 23:05
 
 December 03, 2011 23:05 | Tags: 
+
+----
 
 I came across this yesterday, pretty cool!
 

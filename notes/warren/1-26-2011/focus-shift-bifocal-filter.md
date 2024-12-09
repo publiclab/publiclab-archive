@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/GEDC4109.JPG)
+
 # Focus shift in bifocal filter?
 
 by [warren](../profile/warren) January 26, 2011 05:05
 
 January 26, 2011 05:05 | Tags: [lima](../tag/lima), [near-infrared-camera](../tag/near-infrared-camera), [peru](../tag/peru)
+
+----
 
 Does this image show focus shift? It seems like the infrared is in focus while the visible is not. 
 

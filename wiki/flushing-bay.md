@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/007/274/original/flushingmarinacleanup_all_2014_05_16_q1_santucci_sl.jpg)
+
 # flushing-bay
 
 by [liz](../profile/liz)
 
 May 07, 2014 19:36 | Tags: [new-york-city](../tag/new-york-city), [flushing-bay](../tag/flushing-bay), [northeast](../tag/northeast), [dragon-boat](../tag/dragon-boat)
+
+----
 
 _Lead image of the May 18, 2014 Flushing Bay annual cleanup is by Christina Santucci and copyright [Times Ledger](http://www.timesledger.com/stories/2014/20/flushingmarinacleanup_all_2014_05_16_q.html)_
 

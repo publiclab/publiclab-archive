@@ -14,6 +14,8 @@ by [nutandbolt](../profile/nutandbolt) January 29, 2013 17:12
 
 January 29, 2013 17:12 | Tags: [spectrometer](../tag/spectrometer), [desktop-spectrometer-assembly](../tag/desktop-spectrometer-assembly)
 
+----
+
 I have been trying to assemble the desktop spectrometer kit and had a few questions. I started off well , focusing the camera at a distance of 9" as shown in the figure below
 <img src="https://publiclab.org/sites/default/files/imagefield_thumbs/picture001_0.jpg?1359478465" alt="Camera focusing done" />
 I assembled the kit as per instructions and then to test the setup used a torch to shine light into the spectrometer I  had to shine the torch at various angles to get what is shown below

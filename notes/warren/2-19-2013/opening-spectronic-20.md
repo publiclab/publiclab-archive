@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/IMG_0382.JPG)
+
 # Opening up a Spectronic 20
 
 by [warren](../profile/warren) February 20, 2013 00:27
 
 February 20, 2013 00:27 | Tags: [spectrometer](../tag/spectrometer), [spectronic20](../tag/spectronic20), [teardown](../tag/teardown)
+
+----
 
 I finally opened the Spectronic 20 underside and here's what it looks like! Great to see they just use an incandescent bulb.
 

@@ -8,11 +8,15 @@ uid: 9
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/002/675/original/plots-logo-transparent.jpg)
+
 # Public Lab community newsletter 1.26.14
 
 by [Shannon](../profile/Shannon) January 26, 2014 21:36
 
 January 26, 2014 21:36 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
+
+----
 
 In the Public Lab community newsletter this week, check out all the exciting upcoming events happening in Castellón (Spain), Boston, New Orleans, London and Chicago. These in-person meet-ups are a great way to connect with other Public Lab folks in your area, so if you’re around, please consider attending. Enjoy!
 

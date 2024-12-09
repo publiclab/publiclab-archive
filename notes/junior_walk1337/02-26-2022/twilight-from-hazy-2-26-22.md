@@ -8,11 +8,15 @@ uid: 756318
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/045/441/original/Twilight_from_Hazy_2-26-22.00_04_07_13.Still001.jpg)
+
 # Twilight from Hazy 2/26/22
 
 by [junior_walk1337](../profile/junior_walk1337) February 26, 2022 23:31
 
 February 26, 2022 23:31 | Tags: [drones](../tag/drones), [coal-mining](../tag/coal-mining), [coal](../tag/coal), [mmmp](../tag/mmmp)
+
+----
 
 <iframe width="1280" height="676" src="https://www.youtube.com/embed/8vCWE3iO3_g" frameborder="0" allowfullscreen=""></iframe>  
   

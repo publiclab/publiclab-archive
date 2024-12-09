@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/009/029/original/mapknitter-install.png)
+
 # Tutorial video: Installing MapKnitter 2
 
 by [warren](../profile/warren) February 19, 2015 23:05
 
 February 19, 2015 23:05 | Tags: [video](../tag/video), [mapknitter](../tag/mapknitter), [software](../tag/software), [developers](../tag/developers), [code](../tag/code), [tutorial](../tag/tutorial), [mapknitter2](../tag/mapknitter2), [installation](../tag/installation)
+
+----
 
 To learn to install MapKnitter yourself, [check out this video I just made](http://youtu.be/iGYGpS8rZMY):
 

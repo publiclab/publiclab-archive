@@ -14,6 +14,8 @@ by [profpearce](../profile/profpearce) May 30, 2019 04:47
 
 May 30, 2019 04:47 | Tags: [spectrometry](../tag/spectrometry), [question:spectrometry](../tag/question:spectrometry), [polymer](../tag/polymer), [plastic](../tag/plastic), [first-time-poster](../tag/first-time-poster), [ftir](../tag/ftir)
 
+----
+
 Has public labs spectrometry work ever been used to identify the base 
 polymers in an unknown plastic for recycling? Anything like an OS FTIR 
 in the right range ready for show time? Thank you for your help - [Joshua Pearce](https://www.appropedia.org/User:J.M.Pearce)

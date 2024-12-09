@@ -8,11 +8,15 @@ uid: 380298
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/023/169/original/Smartform.jpg)
+
 # Formaldehyde Monitoring Open Call on Tuesday, January 16th at 3:00 pm ET
 
 by [nshapiro](../profile/nshapiro) January 11, 2018 21:54
 
 January 11, 2018 21:54 | Tags: [event](../tag/event), [air-quality](../tag/air-quality), [formaldehyde](../tag/formaldehyde), [event:rsvp](../tag/event:rsvp), [rsvp:liz](../tag/rsvp:liz), [indoor-air-quality](../tag/indoor-air-quality), [with:gretchengehrke](../tag/with:gretchengehrke), [indoor-air](../tag/indoor-air), [smart-form](../tag/smart-form), [date:01-16-2018](../tag/date:01-16-2018)
+
+----
 
 Hi Everyone,
 

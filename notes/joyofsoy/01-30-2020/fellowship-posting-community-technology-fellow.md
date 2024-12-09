@@ -8,11 +8,15 @@ uid: 540844
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/037/840/original/Screen_Shot_2020-01-30_at_8.54.41_PM.png)
+
 # Fellowship Posting: Community Technology Fellow
 
 by [joyofsoy](../profile/joyofsoy) January 30, 2020 23:12
 
 January 30, 2020 23:12 | Tags: [air-quality](../tag/air-quality), [fellows](../tag/fellows), [fellowship](../tag/fellowship), [air-sensors](../tag/air-sensors), [fellowships](../tag/fellowships)
+
+----
 
 Starting: Late March
 

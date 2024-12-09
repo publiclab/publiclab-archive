@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/012/673/original/jumping.jpg)
+
 # llactalab
 
 by [liz](../profile/liz)
 
 November 10, 2015 22:12 | Tags: [ecuador](../tag/ecuador), [llactalab](../tag/llactalab), [cuenca](../tag/cuenca), [south-america](../tag/south-america)
+
+----
 
 Based in the University of Cuenca, Ecuador. 
 

@@ -8,11 +8,15 @@ uid: 9
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/001/998/original/plots-logo-transparent.jpg)
+
 # The Environmental Leadership Program Supports Public Lab Partnership with Innovation Grant
 
 by [Shannon](../profile/Shannon) October 23, 2013 15:31
 
 October 23, 2013 15:31 | Tags: [newark](../tag/newark), [new-jersey](../tag/new-jersey), [blog](../tag/blog)
+
+----
 
 Thanks to the generosity of the [Geraldine R. Dodge Foundation](http://www.grdodge.org/about-us/), the [Environmental Leadership Program](http://elpnet.org/what-we-do) (ELP) has awarded an Innovation Grant to Public Lab, [Ironbound Community Corporation](http://ironboundcc.org/) and Phil Silva of [Cornell Civic Ecology Lab](http://civicecology.org/) for a project called _Building a model for community garden management through innovative action, monitoring and evaluation._
 

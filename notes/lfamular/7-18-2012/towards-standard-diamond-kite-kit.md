@@ -14,6 +14,8 @@ by [lfamular](../profile/lfamular) July 18, 2012 17:35
 
 July 18, 2012 17:35 | Tags: [kite-mapping](../tag/kite-mapping), [diy-kite](../tag/diy-kite), [tyvek](../tag/tyvek), [diy-kites](../tag/diy-kites), [kite-making](../tag/kite-making), [activity:tyvek](../tag/activity:tyvek), [first-time-poster](../tag/first-time-poster)
 
+----
+
 Here are some ideas for making a standard diamond kite kit. The goal is a kite that beginners can build and fly without much frustration.
 
 <h1>Integrating the dihedral angle into the sail</h1>

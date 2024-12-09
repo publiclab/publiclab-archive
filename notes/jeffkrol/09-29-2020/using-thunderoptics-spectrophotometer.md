@@ -14,6 +14,8 @@ by [jeffkrol](../profile/jeffkrol) September 29, 2020 23:24
 
 September 29, 2020 23:24 | Tags: [spectral-workbench](../tag/spectral-workbench), [camera](../tag/camera), [question:spectral-workbench](../tag/question:spectral-workbench), [first-time-poster](../tag/first-time-poster), [thunderoptics](../tag/thunderoptics)
 
+----
+
 Hi I was wondering if anyone used Thunderoptics "camera" to capture a spectrum?
 
 Windows 10 sees it properly and can work with it just fine.

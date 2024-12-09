@@ -3,6 +3,8 @@ uid: 539086
 created_at: 2018-06-25 16:19:40 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/b76b60e0004ecad6c7bbbd5b79682b19)
+
 # macapola
 
  Industrial designer. Ive dedicated my professional life to consultancy in technological product development and design of collaborative and creative working spaces.

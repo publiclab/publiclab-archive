@@ -8,11 +8,15 @@ uid: 468400
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/017/725/original/i18n.jpg)
+
 # GSOC 2016 Outcome : Internationalization of Publiclab.org
 
 by [jiteshxyz](../profile/jiteshxyz) August 22, 2016 17:48
 
 August 22, 2016 17:48 | Tags: [gsoc](../tag/gsoc), [gsoc-2016](../tag/gsoc-2016), [internationalization](../tag/internationalization), [i18n](../tag/i18n), [response:13397](../tag/response:13397), [translation](../tag/translation)
+
+----
 
 # Internationalization of Publiclab.org
 

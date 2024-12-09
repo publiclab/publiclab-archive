@@ -8,11 +8,15 @@ uid: 379
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/001/444/original/9683150316_dc926982d2_k.jpg)
+
 # Nungesser test: collection of Coal or Petroleum coke for further testing
 
 by [eustatic](../profile/eustatic) September 09, 2013 02:00
 
 September 09, 2013 02:00 | Tags: [gulf-coast](../tag/gulf-coast), [spectrometer](../tag/spectrometer), [coal](../tag/coal), [petcoke](../tag/petcoke), [unitedbulk](../tag/unitedbulk)
+
+----
 
 ##What and Why<br>
 

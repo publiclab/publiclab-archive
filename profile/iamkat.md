@@ -3,6 +3,8 @@ uid: 492745
 created_at: 2016-09-23 15:00:17 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/6788056dcbc2caaf6340707b5de4e271)
+
 # iamkat
 
 Artist | DIY chemistry | Knowledge and Authority research | Multiple knowledges

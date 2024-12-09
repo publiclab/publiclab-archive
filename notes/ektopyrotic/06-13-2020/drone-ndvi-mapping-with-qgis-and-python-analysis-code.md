@@ -8,11 +8,15 @@ uid: 699450
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/039/774/original/imageedit_36_3422185227.png)
+
 # Drone NDVI Mapping with QGIS and Python Analysis Code
 
 by [ektopyrotic](../profile/ektopyrotic) June 13, 2020 16:07
 
 June 13, 2020 16:07 | Tags: [3d](../tag/3d), [ndvi](../tag/ndvi), [photography](../tag/photography), [infrared](../tag/infrared), [photogrammetry](../tag/photogrammetry), [remote](../tag/remote), [software](../tag/software), [near-infrared](../tag/near-infrared), [sensing](../tag/sensing), [science](../tag/science), [plants](../tag/plants), [camera](../tag/camera), [vegetation](../tag/vegetation), [environment](../tag/environment), [gis](../tag/gis), [coding](../tag/coding), [python](../tag/python), [physics](../tag/physics), [imaging](../tag/imaging), [model](../tag/model), [engineering](../tag/engineering), [zoom:2](../tag/zoom:2), [modelling](../tag/modelling), [visualsfm](../tag/visualsfm), [cacti](../tag/cacti), [succulents](../tag/succulents), [qgis](../tag/qgis), [quantum](../tag/quantum), [lat:53.330872](../tag/lat:53.330872), [lon:-6.328125](../tag/lon:-6.328125)
+
+----
 
 Video Link:[https://www.youtube.com/watch?v=b7xnBecL\_DQ&feature=youtu.be](https://www.youtube.com/watch?v=b7xnBecL_DQ&feature=youtu.be)Code Link: [https://github.com/MuonRay/QGISPython/blob/master/NDVIQGISWithMapLegend.py](https://github.com/MuonRay/QGISPython/blob/master/NDVIQGISWithMapLegend.py "https://github.com/MuonRay/QGISPython/blob/master/NDVIQGISWithMapLegend.py")  
   

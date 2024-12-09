@@ -14,6 +14,8 @@ by [warren](../profile/warren)
 
 July 30, 2012 16:42 | Tags: 
 
+----
+
 ###Mathew###
 Accomplishments: GMF subscribers list, GMF details work, print prep, easy-cut delta plans need text, got some parts for doing calibration interface for thermal flashlight, parts for picavet kit development. but all illustrations in:
 http://publiclaboratory.org/notes/mathew/7-19-2012/easy-cut-delta-kite-plans

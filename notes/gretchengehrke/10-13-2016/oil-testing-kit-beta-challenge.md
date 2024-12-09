@@ -8,11 +8,15 @@ uid: 430549
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/018/402/original/OTK_image.jpg)
+
 # Oil Testing Kit Beta Challenge
 
 by [gretchengehrke](../profile/gretchengehrke) October 13, 2016 23:42
 
 October 13, 2016 23:42 | Tags: [spectrometry](../tag/spectrometry), [oil-testing-kit](../tag/oil-testing-kit), [activity:experiment](../tag/activity:experiment)
+
+----
 
 _Image courtesy of _ 
 

@@ -14,6 +14,8 @@ by [namangupta](../profile/namangupta) June 25, 2019 19:14
 
 June 25, 2019 19:14 | Tags: [gsoc](../tag/gsoc), [soc](../tag/soc), [gsoc-2019](../tag/gsoc-2019), [soc-2019](../tag/soc-2019), [gsoc-19](../tag/gsoc-19)
 
+----
+
 In GSoC 2019, I am working on two projects one is Simple Data Grapher and another is Implementation of WebSocket in PublicLab. In simple data grapher which is a new library that we are building for making Graphs using CSV data, there was a lot to learn and implement. From implementing the standard structure of the scalable javascript application to making the code moduar using OOPs concept in Javascript using es6 to setting testing suite there was lot to learn and do.
 
 So in https://github.com/publiclab/simple-data-grapher/pull/5 I did javascript project setup using npm with src/ directory for code, dist/ for compiled code and used dependency architecture structure which containes all the dependency of the project.

@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/002/628/original/IMG_1805.JPG)
+
 # Hackerspace.sg meetup
 
 by [liz](../profile/liz) January 23, 2014 16:44
 
 January 23, 2014 16:44 | Tags: [event](../tag/event), [asia](../tag/asia), [singapore](../tag/singapore), [great-photos](../tag/great-photos)
+
+----
 
 ###Event details
 

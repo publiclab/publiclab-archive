@@ -8,11 +8,15 @@ uid: 432766
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/008/582/original/DVDFragmentDiffraction.png)
+
 # Preparing a DVD-R to act as a diffraction grating
 
 by [MrBumper](../profile/MrBumper) January 11, 2015 20:22
 
 January 11, 2015 20:22 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [barnstar:basic](../tag/barnstar:basic), [activity:spectrometry](../tag/activity:spectrometry), [activity:papercraft-spec](../tag/activity:papercraft-spec), [activity:lego-spectrometer](../tag/activity:lego-spectrometer)
+
+----
 
 _Main image - A segment of a DVD-R bottom layer with the photo-reactive dye removed_
 

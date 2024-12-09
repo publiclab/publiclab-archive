@@ -8,11 +8,15 @@ uid: 553778
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/038/832/original/banner.png)
+
 # SoC proposal: Time slider UI for LEL
 
 by [icode365](../profile/icode365) March 31, 2020 11:10
 
 March 31, 2020 11:10 | Tags: [gsoc](../tag/gsoc), [soc-2020](../tag/soc-2020), [soc-2020-proposals](../tag/soc-2020-proposals), [gsoc-2020](../tag/gsoc-2020)
+
+----
 
 ## About Me
 

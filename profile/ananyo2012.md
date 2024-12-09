@@ -3,6 +3,8 @@ uid: 468506
 created_at: 2016-03-05 05:48:30 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/468506/medium/me.jpg)
+
 # ananyo2012
 
 Intersested to contribute to publiclab

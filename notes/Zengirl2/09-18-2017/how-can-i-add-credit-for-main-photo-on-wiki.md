@@ -14,4 +14,6 @@ by [zengirl2](../profile/zengirl2) September 18, 2017 01:49
 
 September 18, 2017 01:49 | Tags: [photo](../tag/photo), [attribution](../tag/attribution), [wiki](../tag/wiki), [research-notes](../tag/research-notes), [answered](../tag/answered), [question:question](../tag/question:question), [license](../tag/license), [method](../tag/method), [question:license](../tag/question:license), [question:attribution](../tag/question:attribution)
 
+----
+
 My photo is public domain but I would still like to credit the photographer.

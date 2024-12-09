@@ -14,6 +14,8 @@ by [warren](../profile/warren)
 
 February 16, 2011 12:45 | Tags: 
 
+----
+
 ###Open Source Hardware (OSHW) Statement of Principles and Definition v1.0###
 
 http://freedomdefined.org/OSHW

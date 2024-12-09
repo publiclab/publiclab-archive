@@ -14,4 +14,6 @@ by [warren](../profile/warren) February 16, 2018 15:25
 
 February 16, 2018 15:25 | Tags: [oil](../tag/oil), [lenses](../tag/lenses), [answered](../tag/answered), [microscopes](../tag/microscopes), [question:microscopes](../tag/question:microscopes), [question:kits](../tag/question:kits), [objectives](../tag/objectives), [immersion-oil](../tag/immersion-oil), [microscope-lenses](../tag/microscope-lenses)
 
+----
+
 I've seen some microscopes use "immersion oil" -- like, an oil between the lens and the slide. What's this for and where can I find it? Do all microscopes need it? Can non-oil microscopes use oil or vice versa?

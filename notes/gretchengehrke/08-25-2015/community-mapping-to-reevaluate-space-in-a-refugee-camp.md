@@ -8,11 +8,15 @@ uid: 430549
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/011/272/original/L1200326_small.JPG)
+
 # Community Mapping to Reevaluate Space in a Refugee Camp
 
 by [gretchengehrke](../profile/gretchengehrke) August 25, 2015 14:33
 
 August 25, 2015 14:33 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [data-advocacy-case-studies](../tag/data-advocacy-case-studies), [lebanon](../tag/lebanon), [middle-east](../tag/middle-east), [bourjalshamali](../tag/bourjalshamali)
+
+----
 
 _image by Claudia Martinez Mansell_ 
 

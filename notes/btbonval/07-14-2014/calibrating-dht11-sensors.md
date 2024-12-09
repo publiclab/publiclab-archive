@@ -8,11 +8,15 @@ uid: 43229
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/005/270/original/IMG_20140714_115010.jpg)
+
 # Calibrating DHT11 sensors
 
 by [btbonval](../profile/btbonval) July 14, 2014 16:30
 
 July 14, 2014 16:30 | Tags: [arduino](../tag/arduino), [calibration](../tag/calibration), [temperature](../tag/temperature), [sensors](../tag/sensors), [data-collection](../tag/data-collection), [data](../tag/data), [collection](../tag/collection), [humidity](../tag/humidity), [dht11](../tag/dht11), [dht22](../tag/dht22), [dht12](../tag/dht12), [dhtxx](../tag/dhtxx), [rh](../tag/rh), [relative-humidity](../tag/relative-humidity)
+
+----
 
 ###What I want to do
 I bought a handful of DHT11 sensors. Before putting them in different locations to measure statistically significant differences between the locations, it is important to ensure the sensors have comparable performance.

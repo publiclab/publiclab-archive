@@ -8,11 +8,15 @@ uid: 445906
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/016/611/original/IMG_20160611_122918.jpg)
+
 # *FIXED* Riffle SD card Power Consumption
 
 by [kinasmith](../profile/kinasmith) June 14, 2016 00:17
 
 June 14, 2016 00:17 | Tags: [riffle](../tag/riffle)
+
+----
 
 After some sleuthing, I figured out the culprit for why the Riffle was consuming so much power, as detailed [in this Research Note](https://publiclab.org/notes/kinasmith/06-09-2016/riffle-power-consumption). 
 

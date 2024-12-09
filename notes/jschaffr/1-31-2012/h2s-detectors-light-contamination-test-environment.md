@@ -14,6 +14,8 @@ by [jschaffr](../profile/jschaffr) February 01, 2012 00:27
 
 February 01, 2012 00:27 | Tags: 
 
+----
+
 (Horwell 2005) reports that light contamination of the hydrogen sulfide test strips (using black and white photographic film) will not alter the results of the test.
 
 "Hardiness of the teststrips: they can be washed with cold water and exposed to light without loss of fidelity:

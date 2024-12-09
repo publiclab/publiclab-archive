@@ -14,6 +14,8 @@ by [TedF](../profile/TedF)
 
 October 06, 2013 21:43 | Tags: [environmental-estrogen-testing](../tag/environmental-estrogen-testing), [diybio](../tag/diybio), [biohacking](../tag/biohacking), [bioassay](../tag/bioassay), [bioremediation](../tag/bioremediation)
 
+----
+
 **Biohacking or DIY Bio**
 
 These are notes from the Public Lab Barnraising in New Orleans (4-6 Oct 2013). A group of Public Lab members discussed the following:

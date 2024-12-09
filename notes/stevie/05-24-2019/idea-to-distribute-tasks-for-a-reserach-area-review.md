@@ -8,11 +8,15 @@ uid: 422561
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/032/453/original/2015-barnraising-chicago-barnraising.jpg)
+
 # Idea for Research Area Reviews
 
 by [stevie](../profile/stevie) May 24, 2019 20:21
 
 May 24, 2019 20:21 | Tags: [organizers](../tag/organizers), [organizing](../tag/organizing), [organizer](../tag/organizer), [community-development](../tag/community-development), [research-area-review](../tag/research-area-review)
+
+----
 
 Based on my last post ([found here][1]) asking for ideas on how to run Research Area Reviews, I'd like to share two different model ideas, one in which the Review is done by someone who spearheads the project and work, and another where the tasks are broken down and can be done by anyone. 
 

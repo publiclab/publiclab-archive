@@ -8,11 +8,15 @@ uid: 438931
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/009/740/original/Screen_Shot_2015-04-23_at_21.03.23.png)
+
 # PhenoPi: beta software installer release
 
 by [khufkens](../profile/khufkens) May 03, 2015 03:28
 
 May 03, 2015 03:28 | Tags: [webcam](../tag/webcam), [pi](../tag/pi), [phenopi](../tag/phenopi), [phenology](../tag/phenology), [imaging](../tag/imaging), [raspberry](../tag/raspberry)
+
+----
 
 Hi everyone, I'm releasing a first version of my PhenoPi software installation package onto the world.
 

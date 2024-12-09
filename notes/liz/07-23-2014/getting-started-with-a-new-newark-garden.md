@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/005/475/original/Screen_Shot_2014-07-23_at_2.21.19_PM.png)
+
 # Getting started with a new Newark garden
 
 by [liz](../profile/liz) July 23, 2014 18:22
 
 July 23, 2014 18:22 | Tags: [newark](../tag/newark), [new-jersey](../tag/new-jersey), [5bf](../tag/5bf), [community-garden](../tag/community-garden), [food](../tag/food), [elp](../tag/elp), [northeast](../tag/northeast), [with:thegreencommunitygarden](../tag/with:thegreencommunitygarden)
+
+----
 
 ###Event details: 
 10am Sunday July 27th <br>

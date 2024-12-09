@@ -14,6 +14,8 @@ by [wmacfarl](../profile/wmacfarl)
 
 January 21, 2020 17:36 | Tags: [arduino](../tag/arduino), [water-sensing](../tag/water-sensing), [water-quality-mapping](../tag/water-quality-mapping), [water-quality-monitoring](../tag/water-quality-monitoring), [sensors](../tag/sensors), [water-quality](../tag/water-quality), [method](../tag/method), [oil-and-gas-water-trio](../tag/oil-and-gas-water-trio), [simple-water-sensor-platform](../tag/simple-water-sensor-platform)
 
+----
+
 The simple water sensor platform is a simple, accessible tool for using a variety of water quality parameter sensors to collect and log data about water samples.
 
 ## Design
@@ -135,7 +137,7 @@ We also want to research and document procedures to help people collect data in 
 - Are any of the sensors a good candidate for long-term, continuous use?  If so, should we create another hardware+software+enclosure design for long-term data-logging?
 
 ### Other Methods/Activities
-[activities:simple-water-sensor-platform]
+[simple-water-sensor-platform](../../tag/activity:simple-water-sensor-platform)
 
 ### Other Questions
-[questions:simple-water-sensor-platform]
+[simple-water-sensor-platform](../../tag/question:simple-water-sensor-platform)

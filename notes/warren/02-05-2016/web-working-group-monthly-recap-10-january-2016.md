@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/014/100/original/Screenshot_2016-01-21_at_9.12.26_AM.png)
+
 # Web Working Group Monthly Recap 10: January 2016
 
 by [warren](../profile/warren) February 05, 2016 18:26
 
 February 05, 2016 18:26 | Tags: [mapknitter](../tag/mapknitter), [web-development](../tag/web-development), [software](../tag/software), [plots2](../tag/plots2), [spectral-workbench](../tag/spectral-workbench), [wwg](../tag/wwg), [webwg](../tag/webwg), [response:12557](../tag/response:12557)
+
+----
 
 Hi, all - this month's Web Working Group recap is very exciting, as we've launched Spectral Workbench 2 -- the bulk of the work from so many past months' reports. 
 

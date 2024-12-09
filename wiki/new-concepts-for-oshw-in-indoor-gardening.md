@@ -14,6 +14,8 @@ by [Aigi666](../profile/Aigi666), [Hanter7](../profile/Hanter7), [cbilgic](../pr
 
 February 07, 2014 22:20 | Tags: [sensors](../tag/sensors), [garden](../tag/garden), [datalogger](../tag/datalogger), [hydroponics](../tag/hydroponics), [gardening](../tag/gardening), [data-logging](../tag/data-logging), [cannabis](../tag/cannabis)
 
+----
+
 ##The Open Source Hydroponic Garden v.2014
 _**NEW! Check out the project repo on Github- https://github.com/Cribstone/OpenHydro**_
 ###Background

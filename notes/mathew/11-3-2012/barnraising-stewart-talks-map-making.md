@@ -14,6 +14,8 @@ by [mathew](../profile/mathew) November 03, 2012 15:30
 
 November 03, 2012 15:30 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [mapknitter](../tag/mapknitter), [photoshop](../tag/photoshop), [balloon-mapping-kit](../tag/balloon-mapping-kit), [barnraising2012](../tag/barnraising2012)
 
+----
+
 Stewart: Mapmaking tips
 ##What a Flight looks like##
 <a href="https://www.flickr.com/photos/gonzoearth/4897001954/" title="Ft. Morgan tracks in Google Earth by GonzoEarth, on Flickr"><img src="https://farm5.staticflickr.com/4077/4897001954_729db173b2_b.jpg" width="512" height="320" alt="Ft. Morgan tracks in Google Earth"></a>

@@ -14,6 +14,8 @@ by [rexagod](../profile/rexagod) July 21, 2019 18:23
 
 July 21, 2019 18:23 | Tags: [gsoc](../tag/gsoc), [soc](../tag/soc), [gsoc-2019](../tag/gsoc-2019), [soc-2019](../tag/soc-2019), [soc-2019-eval](../tag/soc-2019-eval)
 
+----
+
 # Public Lab: Second Evaluations
 
 > Programs must be written for people to read, and only incidentally for machines to execute.

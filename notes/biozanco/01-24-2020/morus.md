@@ -8,10 +8,14 @@ uid: 533335
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/037/747/original/blob)
+
 # morus 
 
 by [biozanco](../profile/biozanco) January 24, 2020 11:47
 
 January 24, 2020 11:47 | Tags: [infragram](../tag/infragram), [first-time-poster](../tag/first-time-poster), [infragram-upload](../tag/infragram-upload)
+
+----
 
 intensidade luminosa = 4740 lux

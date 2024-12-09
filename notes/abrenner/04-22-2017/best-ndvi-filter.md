@@ -14,4 +14,6 @@ by [abrenner](../profile/abrenner) April 22, 2017 19:11
 
 April 22, 2017 19:11 | Tags: [question:general](../tag/question:general)
 
+----
+
 Hello, I am new to NDVI but am trying to figure out what the difference is between an NGB and NRG filter. Which may be the better option, and why? 

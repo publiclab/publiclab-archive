@@ -14,6 +14,8 @@ by [donblair](../profile/donblair)
 
 July 21, 2014 21:34 | Tags: 
 
+----
+
 - [Mary Martin](http://www.eos.unh.edu/Faculty/mem) - Research Assistant Professor at the Institute for the Study of Earth, Oceans, Space, University of New Hampshire
 - [Mark Green](https://www.plymouth.edu/center-for-the-environment/people/faculty-staff/mark-green/) - Assistant Professor of Hydrology, Center for the Environment, Plymouth State University
 - [Patrick Herron](http://www.linkedin.com/pub/patrick-herron/12/82b/bb1) - Water Quality Monitoring Director of the Mystic River Watershed Association

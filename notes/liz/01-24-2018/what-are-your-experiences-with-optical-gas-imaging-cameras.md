@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/023/325/original/unnamed.jpg)
+
 # What are your experiences with optical gas imaging cameras?
 
 by [liz](../profile/liz) January 24, 2018 20:44
 
 January 24, 2018 20:44 | Tags: [infrared-camera](../tag/infrared-camera), [air-quality](../tag/air-quality), [flir](../tag/flir), [gas](../tag/gas), [question:oil-and-gas](../tag/question:oil-and-gas), [question:flir](../tag/question:flir), [question:gas-finder](../tag/question:gas-finder), [gas-finder](../tag/gas-finder)
+
+----
 
 The caption on the lead image reads:
 

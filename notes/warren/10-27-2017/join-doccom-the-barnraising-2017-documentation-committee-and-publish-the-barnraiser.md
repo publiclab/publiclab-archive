@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/022/126/original/IMG_20170624_150422_187.jpg)
+
 # Join DocCom -- the Barnraising 2017 documentation committee, and publish the Barnraiser!
 
 by [warren](../profile/warren) October 27, 2017 21:51
 
 October 27, 2017 21:51 | Tags: [photography](../tag/photography), [documentation](../tag/documentation), [barnraising](../tag/barnraising), [doccom](../tag/doccom), [barnraiser](../tag/barnraiser), [barnraising-2017](../tag/barnraising-2017), [response:13675](../tag/response:13675), [replication:15986](../tag/replication:15986)
+
+----
 
 Greetings, DocCom members, and other [Barnraising](/barnraising) attendees!
 

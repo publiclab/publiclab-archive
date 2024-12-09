@@ -8,11 +8,15 @@ uid: 125
 
 ---
 
+![](https://publiclab.org/sites/default/files/PD vs PL.png)
+
 # Spectrometry UROP 4/16/11 update
 
 by [Alex-McCarthy](../profile/Alex-McCarthy) April 16, 2011 04:59
 
 April 16, 2011 04:59 | Tags: [spectrometer](../tag/spectrometer), [uv](../tag/uv), [fluorescence](../tag/fluorescence), [pah](../tag/pah), [detergent](../tag/detergent), [fluorometer](../tag/fluorometer)
+
+----
 
 At the beginning of the week I put my <a href="https://picasaweb.google.com/104647791428259934971/SpectrometryUROP#5593370706669813266">spectrometer 2.0</a> to the test of detecting a compound dissolved in water. I choose detergent, because it forms a transparent solution with water, yet fluoresces in the blue/purple wavelengths when exposed to UV light, due to the "brightening agents" added to detergent to make clothes seem brighter in day light (UV). My first approach at this was not very successful, for several reasons. The light source I used was a halogen lamp, which does generate UV light, and even has a UV filter built into it. I lined the sample up in front of my spectrometer 2.0, and aimed the halogen lamp at the sample. I took dozens of photos, of different concentrations of detergent, with and without the UV filter, and compared the <a href="https://picasaweb.google.com/104647791428259934971/SpectrometryUROP#5596040872541345634">spectra</a>- these can be seen at spectrometer.publiclaboratory.org, labeled as "Tap Hal+Filt Det1/2 (1)" (Tap water (~40 ml), with 1/2 teaspoon detergent, under halogen lamp, withe filter removed) and so forth. After analyzing these spectrum it was obvious that there was still way to much variability in the spectrum I was taking- just shifting the camera a couple degrees changed spectra intensities visibly. There was no significance between spectra with or without the UV filter in place. 
 

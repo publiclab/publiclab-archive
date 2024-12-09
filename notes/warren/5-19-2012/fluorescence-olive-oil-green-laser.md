@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/IMG_1416.JPG)
+
 # Fluorescence in olive oil with green laser
 
 by [warren](../profile/warren) May 19, 2012 14:35
 
 May 19, 2012 14:35 | Tags: [spectrometer](../tag/spectrometer), [olive-oil](../tag/olive-oil)
+
+----
 
 For spectrometry of oil, I'm starting to think about using a laser, which has a very narrow and specific color, to get samples to fluoresce. Then, using a [spectrometer](/tool/spectrometer), we could measure the color of the fluorescing light, without interference from the source light.
 

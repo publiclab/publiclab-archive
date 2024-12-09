@@ -8,11 +8,15 @@ uid: 235174
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/035/756/original/eustis_2013.png)
+
 # Air Quality
 
 by [bhamster](../profile/bhamster), [liz](../profile/liz), [warren](../profile/warren), [stevie](../profile/stevie), [kamau19](../profile/kamau19), [DavidMack](../profile/DavidMack), [mathew](../profile/mathew), [willie](../profile/willie)
 
 April 01, 2014 15:48 | Tags: [indoor-air-quality-mapping](../tag/indoor-air-quality-mapping), [air-quality](../tag/air-quality), [air-quality-egg](../tag/air-quality-egg), [dustduino](../tag/dustduino), [list:plots-airquality](../tag/list:plots-airquality)
+
+----
 
 Outdoor air pollution, in the most extreme cases, can be immediately identified even without any special training. It casts a haze over cities, collects on streets and buildings, and provides dramatic fodder for the news. But while high drama is often a prerequisite for news about air quality to be reported, the real story is the health impacts that occur even when the air isn't thick enough to see. 
 
@@ -122,7 +126,7 @@ Image: [@mollydanielsson](https://publiclab.org/profile/mollydanielsson)
 + Ask a question so other community members can offer support
 + Sign up below to be notified when someone asks an air quality question
 
-[questions:air-quality]
+[air-quality](../../tag/question:air-quality)
 
 <br>
 
@@ -275,7 +279,7 @@ Considering common sources of air pollutants can help you determine which pollut
 
 **_Sources near you_**: the activities listed below can help you learn about searching public databases to find out what industries and emissions sources are near you.
 
-[notes:grid:activity:air-database]
+[grid:activity:air-database](../../tag/grid:activity:air-database)
 
 <br>
 
@@ -448,7 +452,7 @@ A collection of wiki pages on monitoring methods and approaches covering particu
 
 Activities on Public Lab that have been tagged with `air-quality` will appear here
 
-[activities:air-quality]
+[air-quality](../../tag/activity:air-quality)
 
 <br>
 <hr style="height:5px;border-width:0;color:gray;background-color:gray">

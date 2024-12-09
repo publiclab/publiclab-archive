@@ -14,6 +14,8 @@ by [cfastie](../profile/cfastie), [sara](../profile/sara)
 
 August 24, 2012 15:00 | Tags: [balloon-mapping](../tag/balloon-mapping), [vermont](../tag/vermont), [northeast](../tag/northeast), [traffic](../tag/traffic)
 
+----
+
 [![SalVil900.jpg](https://publiclab.org/system/images/photos/000/023/446/medium/SalVil900.jpg)](https://publiclab.org/system/images/photos/000/023/446/original/SalVil900.jpg)
 
 

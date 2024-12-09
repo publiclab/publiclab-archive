@@ -8,11 +8,15 @@ uid: 615276
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/041/220/original/title.png)
+
 # Creating a Biodegradable water resistant paper
 
 by [deeptalaxmibharadwaj](../profile/deeptalaxmibharadwaj) October 25, 2020 18:21
 
 October 25, 2020 18:21 | Tags: [waste-management](../tag/waste-management), [waste](../tag/waste), [paper](../tag/paper), [plastics](../tag/plastics), [lat:12.971598](../tag/lat:12.971598), [lon:77.594562](../tag/lon:77.594562), [zoom:4](../tag/zoom:4), [biodegradable](../tag/biodegradable), [water-repellent](../tag/water-repellent)
+
+----
 
 I chose to solve the problem of waste management but by approaching from the beginning. Plastic forms a major part of waste today and it causes difficulty during usage, waste management and disposal. This is my problem statement, "Over-use of plastics in today's world is causing damage to the environment and its inhabitants. 
 

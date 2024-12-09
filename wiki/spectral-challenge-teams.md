@@ -14,6 +14,8 @@ by [warren](../profile/warren)
 
 March 18, 2013 16:57 | Tags: [spectrometer](../tag/spectrometer), [spectralchallenge](../tag/spectralchallenge)
 
+----
+
 To win the Spectral Challenge, your best bet is to form a strong team. This will speak to your collaborative ethos and help you be more ambitious in your entry!
 
 List your team name here; please post if you are looking for more teammates and include a link to your profile and/or your email address:

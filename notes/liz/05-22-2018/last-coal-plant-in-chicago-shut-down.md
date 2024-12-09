@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/025/009/original/Screen_Shot_2018-05-22_at_8.32.37_AM.png)
+
 # Last coal plant in Chicago shut down 
 
 by [liz](../profile/liz) May 22, 2018 13:37
 
 May 22, 2018 13:37 | Tags: [coal](../tag/coal), [chicago](../tag/chicago)
+
+----
 
 _lead image from http://lvejo.org/_
 

@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/016/445/original/BreadFail_20160531-5836.jpg)
+
 # Soaring Riffle
 
 by [cfastie](../profile/cfastie) June 02, 2016 15:14
 
 June 02, 2016 15:14 | Tags: [arduino](../tag/arduino), [vermont](../tag/vermont), [temperature](../tag/temperature), [kap](../tag/kap), [photo-rig](../tag/photo-rig), [gps](../tag/gps), [sensors](../tag/sensors), [water-quality](../tag/water-quality), [riffle](../tag/riffle), [pressure](../tag/pressure), [barnstar:photo-documentation](../tag/barnstar:photo-documentation), [humidity](../tag/humidity), [saturnv](../tag/saturnv), [skyshield](../tag/skyshield), [half-spherical](../tag/half-spherical), [noise](../tag/noise), [response:13149](../tag/response:13149), [barometric](../tag/barometric), [category:field-test](../tag/category:field-test), [activity:riffle](../tag/activity:riffle), [riffle-examples](../tag/riffle-examples), [s100-gps](../tag/s100-gps)
+
+----
 
 *Above: Is a flying Riffle a Fliffle?*
 

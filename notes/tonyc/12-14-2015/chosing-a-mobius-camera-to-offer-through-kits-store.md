@@ -14,6 +14,8 @@ by [tonyc](../profile/tonyc) December 14, 2015 19:06
 
 December 14, 2015 19:06 | Tags: [mapping](../tag/mapping), [aerial](../tag/aerial), [mobius](../tag/mobius), [nonfisheye](../tag/nonfisheye)
 
+----
+
 ###What I want to do
 I want to offer the right camera/lens combination through the kits store to support small form-factor aerial photography.
 

@@ -14,6 +14,8 @@ by [cfastie](../profile/cfastie), [balrog](../profile/balrog), [liz](../profile/
 
 November 07, 2013 18:59 | Tags: [community](../tag/community)
 
+----
+
 ##Post your festive photos here!
 
 From [Kalyn Rosenburg](/profile/KalynRosenberg)

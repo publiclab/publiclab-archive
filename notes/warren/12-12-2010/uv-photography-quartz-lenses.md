@@ -8,10 +8,14 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/DSCN_0886.jpg)
+
 # UV photography & quartz lenses
 
 by [warren](../profile/warren) December 13, 2010 00:45
 
 December 13, 2010 00:45 | Tags: 
+
+----
 
 http://www.naturfotograf.com/UV_IR_rev07.html0

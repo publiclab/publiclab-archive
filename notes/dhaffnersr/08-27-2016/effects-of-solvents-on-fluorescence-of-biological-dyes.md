@@ -8,11 +8,15 @@ uid: 461120
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/017/788/original/ALL_5_samples_in_cuvettes_title_pic.png)
+
 # Effects of Solvents on Fluorescence of Biological Dyes
 
 by [dhaffnersr](../profile/dhaffnersr) August 27, 2016 06:57
 
 August 27, 2016 06:57 | Tags: 
+
+----
 
 ##_5 Biological Dyes in Water and Isopropyl Alcohol
 Author David H Haffner Sr.

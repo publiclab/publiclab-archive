@@ -14,6 +14,8 @@ by [gonzoearth](../profile/gonzoearth)
 
 July 21, 2011 05:53 | Tags: [curriculum](../tag/curriculum), [literature-review](../tag/literature-review), [parent:mapping-curriculum](../tag/parent:mapping-curriculum), [mapping-curriculum](../tag/mapping-curriculum), [citations](../tag/citations), [works-cited](../tag/works-cited), [resources](../tag/resources), [references](../tag/references)
 
+----
+
 *As part of the [Grassroots Mapping Curriculum](/wiki/mapping-curriculum) series.*
 
 Benton, Chris. Notes on Kite Aerial photography. http://arch.ced.berkeley.edu/kap/kaptoc.html 

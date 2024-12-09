@@ -14,6 +14,8 @@ by [EllaHolmes](../profile/EllaHolmes), [romeo22e](../profile/romeo22e)
 
 October 06, 2014 00:25 | Tags: [diy](../tag/diy), [amherst-media](../tag/amherst-media), [5-college](../tag/5-college), [publiclab-at-amherst-media](../tag/publiclab-at-amherst-media), [publiclab-at-umass](../tag/publiclab-at-umass), [mountholyoke](../tag/mountholyoke), [generator](../tag/generator), [hydroelectric](../tag/hydroelectric)
 
+----
+
 ##Our Process:
 
 Our prototype will be this specific hydroelectric generator: [(http://www.re-energy.ca/docs/hydroelectric-generator-cp.pdf )](null). The missing link to the template is here: [(http://www.re-energy.ca/docs/hydroelectric-t.pdf)]

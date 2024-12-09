@@ -14,6 +14,8 @@ by [gretchengehrke](../profile/gretchengehrke) September 08, 2017 19:34
 
 September 08, 2017 19:34 | Tags: [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s), [silver](../tag/silver), [copper](../tag/copper), [h2s-photopaper](../tag/h2s-photopaper), [h2s-copper-pipe](../tag/h2s-copper-pipe), [question:h2s-copper-pipe](../tag/question:h2s-copper-pipe), [question:h2s-photopaper](../tag/question:h2s-photopaper)
 
+----
+
 We're planning experiments to compare various DIY methods for monitoring airborne hydrogen sulfide, including at least the silver photo paper method (described here: https://publiclab.org/wiki/hydrogen-sulfide-sensor) and the copper rod method (described here: https://publiclab.org/notes/sharon-wilson/3-21-2012/copper-rod-test-h2s). I've been searching online, but am not having much luck finding information about the rates or mechanisms of the reactions of interest. Does anyone know of informational resources to find: 
 
   

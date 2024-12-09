@@ -14,6 +14,8 @@ by [gretchengehrke](../profile/gretchengehrke) March 09, 2018 21:03
 
 March 09, 2018 21:03 | Tags: [question:website](../tag/question:website)
 
+----
+
 ### Please describe the problem (or idea)
 
 I went to the page /wiki/microscope, and clicked on "contributors for this topic." The next page (of which I took a screenshot, but I don't know how to insert that into a question) says there are 25 contributors for the topic, but doesn't list them, and then further down the page also says there are no contributors for the topic. 

@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/020/932/original/OI000076.jpg)
+
 # Squid Week at Public Lab!
 
 by [warren](../profile/warren) June 28, 2017 20:50
 
 June 28, 2017 20:50 | Tags: [kite-mapping](../tag/kite-mapping), [kickstarter](../tag/kickstarter), [kites](../tag/kites), [mini-kite-kit](../tag/mini-kite-kit), [squidweek](../tag/squidweek), [squid](../tag/squid), [cephalopods](../tag/cephalopods), [octopus](../tag/octopus)
+
+----
 
 Since we declared this week Kite Week on Twitter ([https://twitter.com/PublicLab/status/879687098844008448](https://twitter.com/PublicLab/status/879687098844008448)) I wanted to share a few pictures of the new kites that will be part of the [Mini Kite Kits](/wiki/mini-kite-kit) on our new Kickstarter campaign:
 

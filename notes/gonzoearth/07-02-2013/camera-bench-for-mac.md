@@ -8,11 +8,15 @@ uid: 12
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/000/634/original/Screen_Shot_2013-06-27_at_3.05.31_PM.png)
+
 # Camera Bench for Mac
 
 by [gonzoearth](../profile/gonzoearth) July 02, 2013 22:27
 
 July 02, 2013 22:27 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [conversion](../tag/conversion), [infragram](../tag/infragram), [response:8285](../tag/response:8285)
+
+----
 
 Mathew Lippincott put together this nice standalone [image capture program for Mac](https://dl.dropboxusercontent.com/u/31205904/camera%20bench.app.zip) and I tried it out last week with a modified infrablue webcam. 
 

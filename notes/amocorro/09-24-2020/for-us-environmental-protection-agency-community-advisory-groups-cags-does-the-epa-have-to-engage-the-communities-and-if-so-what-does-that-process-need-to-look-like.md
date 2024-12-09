@@ -14,4 +14,6 @@ by [amocorro](../profile/amocorro) September 24, 2020 20:00
 
 September 24, 2020 20:00 | Tags: [epa](../tag/epa), [organizing](../tag/organizing), [question:general](../tag/question:general), [general](../tag/general), [location:blurred](../tag/location:blurred), [place:united-states](../tag/place:united-states), [question:epa](../tag/question:epa), [lat:30](../tag/lat:30), [lon:-88](../tag/lon:-88), [zoom:6](../tag/zoom:6), [question:organizing](../tag/question:organizing), [with:cherokeeconcernedcitizens](../tag/with:cherokeeconcernedcitizens)
 
+----
+
 This question was raised by @CherokeeConcernedCitizens, learn more about their ongoing [work in Pascagoula, Mississippi, USA here](https://publiclab.org/questions/CherokeeConcernedCitizens/06-13-2020/what-do-i-need-to-know-before-collecting-soil-for-the-hanby-soil-testing-kit "https://publiclab.org/questions/CherokeeConcernedCitizens/06-13-2020/what-do-i-need-to-know-before-collecting-soil-for-the-hanby-soil-testing-kit")!

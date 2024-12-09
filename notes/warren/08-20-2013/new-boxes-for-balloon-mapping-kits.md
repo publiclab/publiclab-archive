@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/001/254/original/IMG_0198.JPG)
+
 # New boxes for balloon mapping kits
 
 by [warren](../profile/warren) August 20, 2013 19:32
 
 August 20, 2013 19:32 | Tags: [balloon-mapping](../tag/balloon-mapping), [kits](../tag/kits), [balloon-mapping-kit](../tag/balloon-mapping-kit), [packaging](../tag/packaging), [box](../tag/box)
+
+----
 
 After an extended design process and a very long time actually getting these produced, we finally have a new balloon mapping kit box -- one which uses every available surface to try to get people to think about our Public Lab-y values of collaboration, lay expertise, DIY ethos, etc etc. while still looking nice and being useful. We worked with [Nickolas Peter Chelyapov](http://nickolaspeter.com/) and the results are fantastic. I just want to walk around with it all day!
 

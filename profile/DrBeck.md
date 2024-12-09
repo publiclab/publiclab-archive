@@ -3,6 +3,8 @@ uid: 754147
 created_at: 2021-04-25 22:56:28 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/754147/medium/image_6487327.JPG)
+
 # DrBeck
 
 I really appreciate science. I built a Public Lab Spectrometer with a piece of an old CD.  Now, I have a 1" transmission optic ruled with 200 lines/mm, for stellar work.

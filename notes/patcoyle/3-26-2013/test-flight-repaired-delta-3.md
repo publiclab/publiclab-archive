@@ -14,6 +14,8 @@ by [patcoyle](../profile/patcoyle) March 26, 2013 21:01
 
 March 26, 2013 21:01 | Tags: 
 
+----
+
 Flew a short test flight in Livermore CA with repaired Delta spar pocket, dual A1200s in bottle-bottom rig, Digispark triggered CHDK. 
 
 <a href="http://publiclaboratory.org/notes/patcoyle/2-21-2013/initial-experience-sx260hs-gps">I first reported on this spar pocket QC issue in update to note on initial experience with SX260HS.</a>

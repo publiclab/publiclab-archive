@@ -8,11 +8,15 @@ uid: 160
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/018/836/original/spectrometer2.0-webcam.jpeg)
+
 # Is the webcam from spectrometer v2.0 suitable for the upgrade to 3.0?
 
 by [pablo](../profile/pablo) November 14, 2016 14:35
 
 November 14, 2016 14:35 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [question:spectrometry](../tag/question:spectrometry), [question:dssk](../tag/question:dssk), [dssk](../tag/dssk)
+
+----
 
 ###What I want to do or know
 I want to know if the webcam from v2.0 is suitable for spectrometer 3.0.

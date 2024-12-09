@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/8451770972_657cce8fda.jpg)
+
 # Countertop and Mobile Spectrometers and iOS progress
 
 by [warren](../profile/warren) February 12, 2013 22:45
 
 February 12, 2013 22:45 | Tags: [spectrometer](../tag/spectrometer), [kickstarter](../tag/kickstarter), [dsk](../tag/dsk), [ios](../tag/ios), [mobile](../tag/mobile), [mobile-spectrometer](../tag/mobile-spectrometer), [backpack](../tag/backpack)
+
+----
 
 [Reposted from Kickstarter](http://www.kickstarter.com/projects/jywarren/public-lab-diy-spectrometry-kit/posts/404240)
 

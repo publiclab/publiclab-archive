@@ -14,6 +14,8 @@ by [warren](../profile/warren)
 
 October 23, 2017 20:58 | Tags: [gopro](../tag/gopro), [mobius-action-cam](../tag/mobius-action-cam), [fisheyegl](../tag/fisheyegl), [parent:mini-camera](../tag/parent:mini-camera)
 
+----
+
 Lens distortion removal can help "flatten" images with a "fisheye" or barrel distortion, and make it easier for them to be used in creating maps. 
 
 This is especially helpful when using photos from smaller cameras like the #mobius-action-cam and most #gopro cameras. Nathan Craig says: 
@@ -25,7 +27,7 @@ This is especially helpful when using photos from smaller cameras like the #mobi
 
 ## Questions
 
-[questions:lens-distortion]
+[lens-distortion](../../tag/question:lens-distortion)
 
 ****
 
@@ -33,7 +35,7 @@ This is especially helpful when using photos from smaller cameras like the #mobi
 
 There are a number of ways to remove lens distortion, including #fisheyegl, [**LensFun**](http://lensfun.sourceforge.net/), and **Agisoft Lens**. We're collecting guides on using these here; please add one if you can!
 
-[activities:lens-distortion]
+[lens-distortion](../../tag/activity:lens-distortion)
 
 ****
 

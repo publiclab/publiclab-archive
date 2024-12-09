@@ -8,11 +8,15 @@ uid: 435583
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/009/033/original/5249766381_3cb6d0e2bb_o.jpg)
+
 # A Critical Look At Sensor Journalism: Could it Change the Landscape of Reporting?
 
 by [mehaky](../profile/mehaky) February 22, 2015 00:44
 
 February 22, 2015 00:44 | Tags: [sensor-journalism](../tag/sensor-journalism), [first-time-poster](../tag/first-time-poster)
+
+----
 
 When we talk about the transformations happening within the field of journalism, the discussion is often focused on the [new mediums through which news is found](http://abcnews.go.com/Technology/story?id=7979891), consolidated, spread, and consumed; for example, print stories are becoming digitized onto websites, websites are becoming optimized and turned into apps for mobile devices and tablets, and people are finding and sharing more and more news on social media websites like Facebook and Twitter. Though the changes in how and where we consume media are salient and worthy of discussion, few people seem to be talking about the the changes happening with the storytelling techniques themselves. Enter [sensor journalism](http://word.emerson.edu/dataviz/dictionary/), one of the newest members of the journalism scene that allows reporters to turn numbers into stories and help make sense of information otherwise inaccessible to the general public.
 

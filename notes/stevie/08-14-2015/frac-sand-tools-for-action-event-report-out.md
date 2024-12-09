@@ -8,11 +8,15 @@ uid: 422561
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/011/115/original/Untitled_Panorama1.jpg)
+
 # Frac Sand Tools for Action: Event report out
 
 by [stevie](../profile/stevie) August 14, 2015 18:05
 
 August 14, 2015 18:05 | Tags: [wisconsin](../tag/wisconsin), [water-quality](../tag/water-quality), [dust](../tag/dust), [frac-sand](../tag/frac-sand), [waterquality](../tag/waterquality), [indoor-air-quality-monitoring](../tag/indoor-air-quality-monitoring), [with:gretchengehrke](../tag/with:gretchengehrke), [fracsand](../tag/fracsand), [parent:frac-sand](../tag/parent:frac-sand), [parent:frac-sand-advocacy-leverage-points](../tag/parent:frac-sand-advocacy-leverage-points)
+
+----
 
 
 

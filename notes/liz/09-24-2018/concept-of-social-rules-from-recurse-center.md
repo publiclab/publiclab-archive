@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/026/656/original/public_social_rules_2x-c8e6cdf02583cbedfb263a2bf6743463dc829e9f91d17a6e766193ad592f7024.jpg)
+
 # Concept of social rules from Recurse Center
 
 by [liz](../profile/liz) September 24, 2018 14:59
 
 September 24, 2018 14:59 | Tags: [conduct](../tag/conduct), [moderation](../tag/moderation)
+
+----
 
 Sharing this excerpt from the Recurse Center in NYC https://www.recurse.com/manual because i think they have captured a lot in four very short and sweet "social rules": 
 

@@ -3,6 +3,8 @@ uid: 785700
 created_at: 2022-01-16 21:03:11 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/014f25206bc9525225e389d0d7557eb3)
+
 # michelleroos
 
 Michelle Roos has served as the Executive Director of EPN since July 2018 and served as EPN’s Deputy Director for 7 months prior to this appointment. She has over 25 years of experience in project management and environmental protection. She has directed high-level projects, organized conferences and work groups, and spearheaded major environmental initiatives.

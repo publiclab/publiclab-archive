@@ -8,11 +8,15 @@ uid: 705531
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/041/095/original/IMG_20200819_134838734_HDR.jpg)
+
 # (Towards) AI-Assisted Water Testing
 
 by [jrmc502](../profile/jrmc502) October 07, 2020 19:15
 
 October 07, 2020 19:15 | Tags: [water-quality](../tag/water-quality), [wheestat](../tag/wheestat), [first-time-poster](../tag/first-time-poster), [zoom:4](../tag/zoom:4), [ai](../tag/ai), [lat:38.833881](../tag/lat:38.833881), [lon:-104.821363](../tag/lon:-104.821363), [machine-learning](../tag/machine-learning)
+
+----
 
 ---------
 

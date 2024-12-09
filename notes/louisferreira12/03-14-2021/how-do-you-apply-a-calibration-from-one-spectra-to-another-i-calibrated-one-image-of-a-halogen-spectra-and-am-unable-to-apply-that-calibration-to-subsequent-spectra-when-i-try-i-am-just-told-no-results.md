@@ -14,4 +14,6 @@ by [louisferreira12](../profile/louisferreira12) March 14, 2021 11:27
 
 March 14, 2021 11:27 | Tags: [calibration](../tag/calibration), [halogen-lamp](../tag/halogen-lamp), [spectral-workbench](../tag/spectral-workbench), [question:general](../tag/question:general), [general](../tag/general), [first-time-poster](../tag/first-time-poster)
 
+----
+
 I have calibrated one image of a spectrum from a halogen lamp, but when i attempt to apply this calibration to another upload, no option appears for me to apply that calibration to this new picture. When i click "copy calibration" i am told there are "no results"

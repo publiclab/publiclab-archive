@@ -8,11 +8,15 @@ uid: 237313
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/027/940/original/IMG_20181127_191333.jpg)
+
 # Assembling the Raspberry Pi Microscope
 
 by [Bronwen](../profile/Bronwen) November 29, 2018 15:15
 
 November 29, 2018 15:15 | Tags: [kits](../tag/kits), [with:warren](../tag/with:warren), [microscope](../tag/microscope), [hardware](../tag/hardware), [activity:raspberry-pi](../tag/activity:raspberry-pi), [activity:microscope](../tag/activity:microscope), [community-kits](../tag/community-kits), [community-microscope](../tag/community-microscope), [activity:community-microscope-assembly](../tag/activity:community-microscope-assembly), [raspberry-pi-microscope](../tag/raspberry-pi-microscope), [raspberrypi-microscope](../tag/raspberrypi-microscope)
+
+----
 
 These are instructions for assembling the Raspberry Pi version of the microscope. These are posting with images from the kit which is available in our online store as/of winter 2018/2019\. Since users are constantly modifying and improving on designs and techniques, we also suggest taking a look at the [Community Microscope Wiki](https://publiclab.org/wiki/micro), where you can browse related work by other collaborators on this project.
 

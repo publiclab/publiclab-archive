@@ -14,6 +14,8 @@ by [liz](../profile/liz)
 
 November 01, 2015 18:17 | Tags: [community](../tag/community), [education](../tag/education), [list:plots-education](../tag/list:plots-education), [parent:education](../tag/parent:education)
 
+----
+
 From Etienne Wegner, in _Communities of Practice: Learning, Meaning, and Identity_, p7
 
 >Placing the focus on participation has broad implications for what it takes to understand and support learning.

@@ -14,6 +14,8 @@ by [bhamster](../profile/bhamster)
 
 December 10, 2020 23:31 | Tags: 
 
+----
+
 ## Choosing Sensors 
 
 Often the first step is to look for a sensor for what you're hoping to measure. In the community posts below, we're collecting info on different kinds of air quality sensors, and their:
@@ -28,7 +30,7 @@ Can you afford a sensor? Can it detect what you're looking for? Where can you le
 
 ### Posts about choosing and evaluating an air sensor
 
-[notes:grid:air-sensor-eval]
+[grid:air-sensor-eval](../../tag/grid:air-sensor-eval)
 
 <br>
 
@@ -56,7 +58,7 @@ Public Lab pages and posts tagged `air-sensor-projects` will appear here
 
 ## Questions
 
-[questions:air-sensors]
+[air-sensors](../../tag/question:air-sensors)
 
 <br>
 <hr>

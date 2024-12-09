@@ -8,11 +8,15 @@ uid: 4
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/016/902/original/IMG_7701.JPG)
+
 # Outlining needed kite tutorials
 
 by [mathew](../profile/mathew) July 07, 2016 22:26
 
 July 07, 2016 22:26 | Tags: [kite-mapping](../tag/kite-mapping), [kite-aerial-photography](../tag/kite-aerial-photography), [kite](../tag/kite), [photo-rig](../tag/photo-rig), [kite-fishing](../tag/kite-fishing), [kite-anemometer](../tag/kite-anemometer)
+
+----
 
 photo: @stevie
 

@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/022/929/original/PC051869.JPG)
+
 # Lego Spectrometer
 
 by [stevie](../profile/stevie), [mimiss](../profile/mimiss), [warren](../profile/warren), [vidit](../profile/vidit)
 
 December 11, 2017 21:21 | Tags: [spectrometry](../tag/spectrometry), [lego](../tag/lego), [parent:spectrometry](../tag/parent:spectrometry), [method](../tag/method), [lego-spectrometer](../tag/lego-spectrometer), [activities:lego-spectrometer](../tag/activities:lego-spectrometer)
+
+----
 
 This is the latest version of Public Lab's DIY Desktop Spectrometry Kit -- the Lego Spectrometer. It addresses issues of rigidity, sourcing, modularity, and image quality over previous versions.
 
@@ -132,25 +136,25 @@ Our mission is to make it **easier, cheaper, and more accessible to do environme
 
 ## Quick start
 
-[notes:grid:lego-quickstart]
+[grid:lego-quickstart](../../tag/grid:lego-quickstart)
 
 ## Questions
 
-[questions:lego-spectrometer]
+[lego-spectrometer](../../tag/question:lego-spectrometer)
 
 ## Building your Lego Spectrometer
 
-[activities:lego-spectrometer]
+[lego-spectrometer](../../tag/activity:lego-spectrometer)
 
 ## Spectrometry activities
 
-[activities:spectrometry-sampling]
+[spectrometry-sampling](../../tag/activity:spectrometry-sampling)
 
 ****
 
 ## Spectrometer calibration
 
-[activities:spectrometry-calibration]
+[spectrometry-calibration](../../tag/activity:spectrometry-calibration)
 
 ****
 

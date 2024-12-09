@@ -14,6 +14,8 @@ by [lingma](../profile/lingma) May 10, 2017 04:01
 
 May 10, 2017 04:01 | Tags: [question:question](../tag/question:question)
 
+----
+
 Hello~all. Thanks for taking time to read my post.  
 Questions:
 I want to make a voltage follower by using LMC660. I have never use this kind. Could you give me some advice?

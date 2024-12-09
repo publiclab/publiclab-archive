@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/balloon.jpg)
+
 # Why Collaborative Development Works in a Proprietary World
 
 by [warren](../profile/warren) February 15, 2012 20:08
 
 February 15, 2012 20:08 | Tags: [collaboration](../tag/collaboration), [licensing](../tag/licensing), [idealab](../tag/idealab), [blog](../tag/blog), [attribution](../tag/attribution)
+
+----
 
 <em>This was re-posted from PBS's <a href="http://www.pbs.org/idealab/2012/02/why-collaborative-development-works-in-a-proprietary-world038.html">IdeaLab blog</a></em>
 

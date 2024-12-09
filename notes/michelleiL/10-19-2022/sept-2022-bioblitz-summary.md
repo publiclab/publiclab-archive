@@ -8,11 +8,15 @@ uid: 799004
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/047/238/original/yt.PNG)
+
 # Sept 2022 Bioblitz Summary 
 
 by [michelleiL](../profile/michelleiL) October 19, 2022 18:23
 
 October 19, 2022 18:23 | Tags: [mining](../tag/mining), [water-quality](../tag/water-quality), [minnesota](../tag/minnesota), [midwest](../tag/midwest), [land-use](../tag/land-use), [place:united-states](../tag/place:united-states), [projects](../tag/projects), [zoom:6](../tag/zoom:6), [fellowship-team](../tag/fellowship-team), [fellowship-teams](../tag/fellowship-teams), [wild-rice](../tag/wild-rice), [huber-osb-factory](../tag/huber-osb-factory), [talon-rio-tinto-mine](../tag/talon-rio-tinto-mine), [land-rights](../tag/land-rights), [mn-land-manoomin-protection](../tag/mn-land-manoomin-protection), [great-lakes-region](../tag/great-lakes-region), [wild-rice-district](../tag/wild-rice-district), [manoomin](../tag/manoomin), [anishinaabe](../tag/anishinaabe), [ojibwe](../tag/ojibwe), [treaty-rights](../tag/treaty-rights), [activity:mn-land-manoomin-protection](../tag/activity:mn-land-manoomin-protection)
+
+----
 
 Filmed by River Akemann and 
 Edited by @Bee Kakac 

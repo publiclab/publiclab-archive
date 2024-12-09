@@ -14,6 +14,8 @@ by [stevie](../profile/stevie), [liz](../profile/liz), [gretchengehrke](../profi
 
 January 12, 2016 21:44 | Tags: [dust](../tag/dust), [particulates](../tag/particulates), [pm](../tag/pm), [air-sensing](../tag/air-sensing), [particulate-matter](../tag/particulate-matter), [parent:air-quality](../tag/parent:air-quality)
 
+----
+
 Particulate matter (PM) is airborne particles and droplets, that can be inhaled. Some PM is formed through physical motion, like pulverized dust getting wind swept, and other PM is formed through gaseous chemical reactions in the atmosphere. Particulate matter is [regulated](/wiki/pm-monitoring-regulations) because it has negative health consequences, especially when it is small enough to travel deep into the lungs, and be [respired.](https://publiclab.org/wiki/pm#Respirable+Particles)
 
 ####Pages in this research area:
@@ -38,10 +40,10 @@ In depth:
  _________________________________
 
 ###Questions
-[questions:pm]
+[pm](../../tag/question:pm)
 
 ###Notes
-[notes:pm]
+[pm](../../tag/pm)
 
 ###Background Information
 Particulate Matter (PM) is airborne dust and particle pollution that settles onto surfaces and into lungs. As a [regulated pollutant PM](/wiki/pm-monitoring-regulations) is shorthand for inhalable and respirable particulate matter, or [particulate matter that can stick in the lungs.](https://publiclab.org/wiki/pm#Respirable+Particles)

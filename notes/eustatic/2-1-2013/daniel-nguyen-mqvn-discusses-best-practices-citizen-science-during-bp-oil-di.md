@@ -8,11 +8,15 @@ uid: 379
 
 ---
 
+![](https://publiclab.org/sites/default/files/cmty meeting.png)
+
 # Daniel Nguyen of MQVN discusses best practices for citizen science during the BP oil disaster
 
 by [eustatic](../profile/eustatic) February 01, 2013 15:59
 
 February 01, 2013 15:59 | Tags: [citizen-science](../tag/citizen-science), [oil-disaster](../tag/oil-disaster)
+
+----
 
 Daniel Nquyen <a href="http://www.MQVNcdc.org">MQVN</a>
 

@@ -14,6 +14,8 @@ by [PeterDH](../profile/PeterDH) May 13, 2016 22:00
 
 May 13, 2016 22:00 | Tags: [question:spectrometry](../tag/question:spectrometry), [question:spectral-workbench](../tag/question:spectral-workbench), [answered](../tag/answered)
 
+----
+
 Hi folks -
 
 The spectrometer works great and I can capture spectra using the spectral workbench software at:

@@ -8,11 +8,15 @@ uid: 133
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/013/623/original/Fiji-icon.png)
+
 # Packaged photo monitoring plugins available on the GitHub repositoy
 
 by [nedhorning](../profile/nedhorning) January 13, 2016 17:51
 
 January 13, 2016 17:51 | Tags: [remote-sensing](../tag/remote-sensing), [imagej](../tag/imagej), [fiji](../tag/fiji), [barnstar:basic](../tag/barnstar:basic)
+
+----
 
 Today I added packaged Fiji/ImageJ/photo monitoring plugin software to the plugin's GitHub repository. This was done in response to a problem that prevents the photo monitoring plugin from working with the latest version of Fiji. The packaged software includes the “Fiji Life-Line version, 2014 November 25” version of Fiji (available from Fiji website: http://fiji.sc/Downloads), the photo monitoring plugin and all of the required files to run it. 
 

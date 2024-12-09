@@ -8,11 +8,15 @@ uid: 420719
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/005/257/original/split1.jpg)
+
 # NDVI exposure setting
 
 by [gpenzo](../profile/gpenzo) July 13, 2014 21:04
 
 July 13, 2014 21:04 | Tags: [ndvi](../tag/ndvi), [calibration](../tag/calibration), [infragram](../tag/infragram), [exposure](../tag/exposure), [time](../tag/time)
+
+----
 
 ###What I want to do
 I want to understand how others which do NDVI with one or two cameras decide which exposure time to use.

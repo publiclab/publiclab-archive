@@ -14,6 +14,8 @@ by [ronhuber](../profile/ronhuber) February 12, 2012 23:55
 
 February 12, 2012 23:55 | Tags: [first-time-poster](../tag/first-time-poster)
 
+----
+
 I'm seeking tips on searching satellite imagery for thermally- or productivity detectable upwellings generated in waters within the energy "footprint" of existing ocean windfarms.
 
 Already I've gotten some great Public Laboratory advice and suggestions on the data that may be available and who can provide it. Thank you! 

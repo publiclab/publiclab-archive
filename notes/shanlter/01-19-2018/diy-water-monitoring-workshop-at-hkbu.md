@@ -14,6 +14,8 @@ by [shanlter](../profile/shanlter) January 19, 2018 04:08
 
 January 19, 2018 04:08 | Tags: [workshop](../tag/workshop), [water-quality](../tag/water-quality), [knowflow](../tag/knowflow), [activity:knowflow](../tag/activity:knowflow)
 
+----
+
 I gave a 3 hour workshop on [DIY water monitoring at HKBU yesterday](https://dnnsociety.org/2018/01/05/workshop-harvest-water-quality-data-for-environmental-investigation-diy-monitor-with-arduino/). and want to share my schedule and slides here.
 
 Ideally it should be **2 X 3hour workshop**, or **2 X 3hour indoor workshop plus half day fieldwork**. I just don't have more time yesterday...

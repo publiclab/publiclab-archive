@@ -14,6 +14,8 @@ by [dbehr](../profile/dbehr) December 19, 2016 11:35
 
 December 19, 2016 11:35 | Tags: [question:infragram](../tag/question:infragram)
 
+----
+
 
 Hi, I have the enclosed image taken with the Mobius Publiclab Camera. I would like to know how to calibrate it for NDVI ?
 ( It is from a Drone over grove).

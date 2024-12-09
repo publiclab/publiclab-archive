@@ -14,6 +14,8 @@ by [wward1400](../profile/wward1400) July 14, 2018 19:48
 
 July 14, 2018 19:48 | Tags: [barnraising](../tag/barnraising), [food](../tag/food), [request:activity](../tag/request:activity), [question:food](../tag/question:food), [crisis-convening](../tag/crisis-convening), [question:food-desert](../tag/question:food-desert), [question:food-deserts](../tag/question:food-deserts)
 
+----
+
 Neighbors in communities may face physical limits to traveling to a grocery store or community garden.
 
 - Could mobile farmer's markets or community farm shares arrange for deliveries rather than opening up stationary shops?

@@ -14,6 +14,8 @@ by [Nelari](../profile/Nelari) May 25, 2019 10:04
 
 May 25, 2019 10:04 | Tags: [spectrometer](../tag/spectrometer), [diffraction-grating](../tag/diffraction-grating), [question:spectrometry](../tag/question:spectrometry), [dvd](../tag/dvd), [question:foldable-mini-spectrometer](../tag/question:foldable-mini-spectrometer), [question:foldable-spec](../tag/question:foldable-spec), [first-time-poster](../tag/first-time-poster), [faq-lego-spec](../tag/faq-lego-spec)
 
+----
+
 I split the DVD that came with the spectrometer kit. There are now four parts:
 
   

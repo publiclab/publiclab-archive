@@ -8,11 +8,15 @@ uid: 495038
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/024/340/original/Screenshot_from_2018-04-06_12-48-56.png)
+
 # Online Odor Log v1.0
 
 by [imvec](../profile/imvec) April 06, 2018 10:56
 
 April 06, 2018 10:56 | Tags: [evidence](../tag/evidence), [landfill](../tag/landfill), [air-quality](../tag/air-quality), [air](../tag/air), [waste](../tag/waste), [landfills](../tag/landfills), [odor](../tag/odor), [odor-log](../tag/odor-log), [oil-and-gas](../tag/oil-and-gas), [smell](../tag/smell), [gaimec](../tag/gaimec), [activity:odor](../tag/activity:odor), [odor-logging](../tag/odor-logging), [activity:odor-logging](../tag/activity:odor-logging), [smells](../tag/smells), [ushahidi](../tag/ushahidi), [diary](../tag/diary)
+
+----
 
 ### What we want to do
 To set a worldwide Online Odor Log using the [Odor Log 1.0](https://publiclab.org/notes/imvec/02-18-2018/odor-log-1-0) collected data.

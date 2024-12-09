@@ -14,6 +14,8 @@ by [kgradow1](../profile/kgradow1) April 02, 2020 21:34
 
 April 02, 2020 21:34 | Tags: [interviews](../tag/interviews), [housing](../tag/housing), [quantitative](../tag/quantitative), [question:general](../tag/question:general), [general](../tag/general), [affordable-housing](../tag/affordable-housing), [community-voice](../tag/community-voice)
 
+----
+
 I came across this paper recently and am looking for quantitative research that uses survey data to target and better specify and target stated community needs.  I'm specifically interested in affordable housing, childcare, and elder care.
 
   

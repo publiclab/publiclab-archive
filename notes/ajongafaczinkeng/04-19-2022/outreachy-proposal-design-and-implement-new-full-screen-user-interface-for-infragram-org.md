@@ -8,11 +8,15 @@ uid: 795065
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/046/129/original/SharedScreenshot.jpg)
+
 # Outreachy proposal: Design and implement new full-screen user interface for Infragram.org
 
 by [ajongafaczinkeng](../profile/ajongafaczinkeng) April 19, 2022 14:10
 
 April 19, 2022 14:10 | Tags: [first-time-poster](../tag/first-time-poster), [zoom:6](../tag/zoom:6), [outreachy-2022](../tag/outreachy-2022), [lat:4.1492](../tag/lat:4.1492), [outreachy-summer-2022](../tag/outreachy-summer-2022), [lon:9.27246](../tag/lon:9.27246)
+
+----
 
 (This template is for students applying to summer code programs with Public Lab. Use this link to start writing a post: [https://publiclab.org/post?n=899&tags=soc,soc-2019,soc-2019-proposals](https://publiclab.org/post?n=899&tags=soc,soc-2019,soc-2019-proposals) You can delete this line once you've started filling it out.)
 

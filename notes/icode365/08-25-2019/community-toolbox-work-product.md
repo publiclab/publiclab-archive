@@ -8,11 +8,15 @@ uid: 553778
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/034/871/original/fto-wp.png)
+
 # Introducing Community Toolbox 2.0
 
 by [icode365](../profile/icode365) August 25, 2019 11:52
 
 August 25, 2019 11:52 | Tags: [social-media](../tag/social-media), [gsoc](../tag/gsoc), [code](../tag/code), [barnstar:basic](../tag/barnstar:basic), [newcomers](../tag/newcomers), [blog-submission](../tag/blog-submission), [summer-of-code](../tag/summer-of-code), [welcoming](../tag/welcoming), [community-toolbox](../tag/community-toolbox), [gsoc-19](../tag/gsoc-19), [soc-19](../tag/soc-19), [gsoc-2019-final-report](../tag/gsoc-2019-final-report), [pin:community-toolbox](../tag/pin:community-toolbox)
+
+----
 
 Community Toolbox is a platform dedicated to community growth and getting insights on organization-wide activities.
 

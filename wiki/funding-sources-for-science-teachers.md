@@ -14,6 +14,8 @@ by [jmacha](../profile/jmacha), [JSummers](../profile/JSummers)
 
 February 11, 2015 20:00 | Tags: [fundraising](../tag/fundraising), [parent:fundraising](../tag/parent:fundraising)
 
+----
+
 ##What I am trying to do
 This is a place where science teachers can find resources and advice when looking for money to fund stuff like new instruments, probeware, balloon mapping essentials, soft-serve ice cream machines and other scientific essentials.  I had hoped that I would somehow get my act together and organize some of the stuff here before putting it online, but that is clearly never coming to pass.  Instead, I am now going to put what I have online and anyone interested can get in and help clean it up, add some organization, delete things that are out of date (I understand that the Enron Foundation is no longer accepting applications) and add relevant information.
 ##Advice for writing grant proposals:

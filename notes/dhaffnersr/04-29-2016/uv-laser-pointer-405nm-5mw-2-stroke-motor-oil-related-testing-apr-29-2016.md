@@ -8,11 +8,15 @@ uid: 461120
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/015/855/original/UV_laser_pointer_apr29.JPG)
+
 # Uv laser pointer (405nm <5mW) 2 stroke motor oil related testing Apr/29/2016
 
 by [dhaffnersr](../profile/dhaffnersr) April 29, 2016 18:08
 
 April 29, 2016 18:08 | Tags: 
+
+----
 
 This research is in direct relation to my previous testing of 2 stroke motor oil. I have also included 4 oil samples, each dissolved in a different solvent for comparison purposes and understanding the difference between polar and non-polar solvents and compounds. 
 

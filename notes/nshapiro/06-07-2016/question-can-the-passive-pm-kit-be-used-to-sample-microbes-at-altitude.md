@@ -8,11 +8,15 @@ uid: 380298
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/016/518/original/hqdefault.jpg)
+
 # Question: Can the passive PM kit be used to sample microbes at altitude? 
 
 by [nshapiro](../profile/nshapiro) June 07, 2016 17:17
 
 June 07, 2016 17:17 | Tags: [microbes](../tag/microbes), [balloon](../tag/balloon), [bacteria](../tag/bacteria), [solar](../tag/solar), [wwb](../tag/wwb), [question:passive-pm](../tag/question:passive-pm)
+
+----
 
 ###What I want to do or know
 I'm wondering can the passive PM kit could be adapted to sample not just dust but also microbes? could ImageJ see bacteria? 

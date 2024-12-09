@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/MockupforSubscriptionWidget.png)
+
 # Website improvements status update
 
 by [warren](../profile/warren) June 07, 2012 19:16
 
 June 07, 2012 19:16 | Tags: [website](../tag/website)
+
+----
 
 As announced last week, a range of projects to improve and expand the PublicLaboratory.org are in the planning stages. Some are making good progress and may be testing some ideas in the next few weeks. Here's a recap:
 

@@ -14,6 +14,8 @@ by [joyofsoy](../profile/joyofsoy), [stevie](../profile/stevie)
 
 June 11, 2019 17:18 | Tags: [reporting](../tag/reporting), [wisconsin](../tag/wisconsin), [frac-sand](../tag/frac-sand), [midwest](../tag/midwest), [frac-sand-reporting](../tag/frac-sand-reporting), [sentinel](../tag/sentinel), [local-reporting](../tag/local-reporting), [parent:the-sand-sentinel-program](../tag/parent:the-sand-sentinel-program)
 
+----
+
 This page hosts printable material from the Sand Sentinel, materials that can be used to help report suspected violations around the frac sand mining industry. 
 
 ##Permit Violation Reporting Form: 

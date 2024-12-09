@@ -14,6 +14,8 @@ by [Shannon](../profile/Shannon) April 01, 2013 03:03
 
 April 01, 2013 03:03 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
 
+----
+
 Hope that everyone had a great finish to March and is looking forward to April! In the Public Lab community newsletter this week, check out the new Grassroots Mapping Forum, hear updates on tools in development and new spectrometer projects and learn about events in your area. Enjoy!
 
 Hot off the Press. Public Lab just launched the third regular subscription issue of the Grassroots Mapping Forum, our community research journal/archive/zine/map, where we share ideas, techniques and stories from the community. This issue focuses on community organizing and includes pieces from individuals who spend a great deal of time thinking about how to get people active in science. Please help support Public Lab by [purchasing a subscription](http://store.publiclaboratory.org/products/grassroots-mapping-forum-subscription) to the forum or buying individual issues. 

@@ -8,11 +8,15 @@ uid: 508551
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/021/934/original/1012172009b.jpg)
+
 # Hurricane Harvey Industrial Impact Image Sorting
 
 by [gilbert](../profile/gilbert) October 13, 2017 15:15
 
 October 13, 2017 15:15 | Tags: [gulf-coast](../tag/gulf-coast), [image-sorting](../tag/image-sorting), [hurricane](../tag/hurricane), [nas](../tag/nas), [disaster-response](../tag/disaster-response), [harvey](../tag/harvey), [hurricanes](../tag/hurricanes), [replication:14916](../tag/replication:14916)
+
+----
 
 ![image description](https://publiclab.org/system/images/photos/000/021/935/large/unnamed.jpg "unnamed.jpg")
 

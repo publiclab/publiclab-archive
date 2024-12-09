@@ -8,11 +8,15 @@ uid: 468990
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/015/462/original/targeting.jpg)
+
 # Reflected sunlight and a spectrometer improving proposal
 
 by [viechdokter](../profile/viechdokter) April 10, 2016 13:15
 
 April 10, 2016 13:15 | Tags: 
+
+----
 
 I went into the garden today and - believe it or not - the sun was shining. Again. So instead of photographing ants or chasing the dog around the garden I took my spectrometer out and photographed _plants and spectra_. Here is the first:
 

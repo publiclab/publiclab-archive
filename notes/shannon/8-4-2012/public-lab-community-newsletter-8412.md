@@ -14,6 +14,8 @@ by [Shannon](../profile/Shannon) August 04, 2012 19:02
 
 August 04, 2012 19:02 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
 
+----
+
 I'd like to start by wishing everyone a nice Saturday, but also apologizing for the Public Lab community newsletter being a day late and a bit longer than usual, its been a busy week! Check out new maps, get updates on projects in London, New Orleans and NYC and read research notes ranging from H2S sensing to solar balloon heat seaming. Enjoy!
 
 1. Public Lab staff changes. Congratulations are in order for Sara Wylie, one of Public Lab's co-founders and the Director of Toxics and Health Research. She is moving to a position at Northeastern University where she will be helping to start a new program between Health Sciences and Sociology in Environmental Health. This exciting new program will continue to work closely with Public Lab and our partners in the Northeast to build transformative tools and methods for community based environmental health research. Sara will continue working with Public Lab as a contractor and will retain her current PLOTS email address.

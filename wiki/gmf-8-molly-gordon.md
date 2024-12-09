@@ -14,6 +14,8 @@ by [liz](../profile/liz)
 
 August 17, 2015 16:08 | Tags: [grassrootsmappingforum](../tag/grassrootsmappingforum), [blog](../tag/blog), [style:fancy](../tag/style:fancy), [gmf-8](../tag/gmf-8)
 
+----
+
 By [Molly Gordon](/profile/mjg2171)
 
 Published May 2015 [Grassroots Mapping Forum #7.](http://publiclab.org/forum)

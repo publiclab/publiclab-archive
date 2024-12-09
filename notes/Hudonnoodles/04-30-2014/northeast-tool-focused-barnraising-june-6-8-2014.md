@@ -8,11 +8,15 @@ uid: 102
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/003/941/original/IMG_3410.JPG)
+
 # Northeast Tool-focused Barnraising: June 6-8, 2014
 
 by [Hudonnoodles](../profile/Hudonnoodles) April 30, 2014 15:27
 
 April 30, 2014 15:27 | Tags: [new-york-city](../tag/new-york-city), [providence](../tag/providence), [somerville-massachusetts](../tag/somerville-massachusetts), [vermont](../tag/vermont), [boston](../tag/boston), [philadelphia](../tag/philadelphia), [barnraising](../tag/barnraising), [event](../tag/event), [plymouth](../tag/plymouth), [tidmarsh](../tag/tidmarsh), [dc-baltimore](../tag/dc-baltimore), [northeast](../tag/northeast), [tool-focused](../tag/tool-focused), [jones-river](../tag/jones-river), [regional](../tag/regional)
+
+----
 
 ##What is a Public Lab Barnraising?
 This is the closest thing we have to a Public Lab conference -- but with an emphasis on "doing stuff together" rather than just presenting/talking. In the spirit of bringing a community together to collectively raise a structure such as a barn, Public Lab comes together to develop tools, toolkits, supporting materials such as guides and tutorials, test the tools and develop new research directions and projects. Participants represent a wide range of interests from technologists and designers to social ""scientists"" and community organizers. The annual Fall Barnraising is held in Louisiana each year. In 2014, we’ve introducing a second Spring Barnraising into our event schedule. The Spring Barnraisings will be in different locations each year and focus on specific environmental issues or tool development projects.

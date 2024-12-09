@@ -14,6 +14,8 @@ by [Shannon](../profile/Shannon) June 23, 2012 03:04
 
 June 23, 2012 03:04 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
 
+----
+
 Exciting news this week in the Public Lab community as more aerial mapping items become available for sale, workshops on building kites and solar balloons occur and the first Public Lab version of a test for hydrogen sulfide is completed! Half the U.S. is in an unusual heatwave and many of you will be getting this late Friday evening, so I thought that for this weeks updates we'd keep news as short, sweet and chill as possible:
 
 1. Extra balloons, reels, and t-shirts available in the PLOTS store. You now have the option to purchase either a kit or [individual pieces of the kit as well as cool blue ballooning t-shirts](http://publiclaboratory.org/notes/warren/6-22-2012/extra-reels-and-balloons-now-sale-plus-t-shirts)! 

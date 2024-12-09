@@ -8,11 +8,15 @@ uid: 421152
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/004/765/original/undefined)
+
 # Hydrogen Sulfide Photopaper Sensing Tool - Development Notes
 
 by [ewilder](../profile/ewilder) June 16, 2014 20:20
 
 June 16, 2014 20:20 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [hydrogen](../tag/hydrogen), [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s), [wyoming](../tag/wyoming), [sulfide](../tag/sulfide), [h2s-photopaper](../tag/h2s-photopaper), [replication:509](../tag/replication:509), [first-time-poster](../tag/first-time-poster)
+
+----
 
 The purpose of this research was to test whether the photopaper sensing tool can be used to map hydrogen sulfide (H2S) emissions around sites of oil and gas extraction.
 

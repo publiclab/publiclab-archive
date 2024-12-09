@@ -14,6 +14,8 @@ by [LummiGIS](../profile/LummiGIS) July 31, 2014 22:34
 
 July 31, 2014 22:34 | Tags: [balloon-mapping](../tag/balloon-mapping)
 
+----
+
 We used an old Android smartphone, the Scripting Language for Android (SL4A), and Python to auto trigger the phones camera while suspended from a balloon.  This was a nice alternative to purchasing a camera since I had the old phone sitting around and no rubber banding the camera button was needed.  While there was an app available from the Google Play store to auto capture images, the app only captured low resolution images with a max 10 second delay.  
 
 The phone needs to have SL4A installed (http://code.google.com/p/android-scripting/downloads/detail?name=sl4a_r6.apk&can=2&q=) and Python (http://code.google.com/p/android-scripting/downloads/detail?name=PythonForAndroid_r4.apk).  The installation instructions are available from the download sites.

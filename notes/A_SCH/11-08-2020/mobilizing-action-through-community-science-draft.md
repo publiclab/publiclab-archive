@@ -8,11 +8,15 @@ uid: 704145
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/041/838/original/Screen_Shot_2020-11-28_at_3.24.26_PM.png)
+
 # Bucket Successes 
 
 by [A_SCH](../profile/A_SCH) November 08, 2020 23:24
 
 November 08, 2020 23:24 | Tags: [air-quality](../tag/air-quality), [bucket-brigade](../tag/bucket-brigade), [barnstar:watchdog](../tag/barnstar:watchdog), [with:kgradow1](../tag/with:kgradow1), [advocacy](../tag/advocacy), [community-organizing](../tag/community-organizing), [advocacy-pathways](../tag/advocacy-pathways), [bucket-monitor](../tag/bucket-monitor)
+
+----
 
 ### 
 

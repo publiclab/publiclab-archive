@@ -14,6 +14,8 @@ by [sauvzi13397](../profile/sauvzi13397) April 03, 2019 21:01
 
 April 03, 2019 21:01 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [first-time-poster](../tag/first-time-poster), [gsoc-2019](../tag/gsoc-2019), [soc-2019](../tag/soc-2019), [soc-2019-proposals](../tag/soc-2019-proposals)
 
+----
+
 ## 
 
 # MapKnitter Aerial Image labelling to detect Environmental issues using machine vision.

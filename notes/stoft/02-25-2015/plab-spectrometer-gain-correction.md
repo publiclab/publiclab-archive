@@ -8,11 +8,15 @@ uid: 54025
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/009/085/original/GainCal-2.gif)
+
 # PLab Spectrometer Gain-Correction
 
 by [stoft](../profile/stoft) February 25, 2015 10:13
 
 February 25, 2015 10:13 | Tags: [spectrometer](../tag/spectrometer), [intensity-calibration](../tag/intensity-calibration), [barnstar:basic](../tag/barnstar:basic), [intensity](../tag/intensity), [amplitude](../tag/amplitude), [gain](../tag/gain), [gain-correction](../tag/gain-correction)
+
+----
 
 Calibrating the PLab spectrometer for absolute intensity will likely remain a difficult and expensive concept. However, I'd like to propose a simpler method of at least improving the relative accuracy of the spectra users can display.
 

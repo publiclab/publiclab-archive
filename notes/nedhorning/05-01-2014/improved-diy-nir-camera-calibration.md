@@ -8,11 +8,15 @@ uid: 133
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/003/960/original/IMG_0002.JPG)
+
 # Improved DIY NIR camera calibration
 
 by [nedhorning](../profile/nedhorning) May 01, 2014 18:50
 
 May 01, 2014 18:50 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [nir](../tag/nir), [calibration](../tag/calibration), [infragram](../tag/infragram), [response:9509](../tag/response:9509), [ndvi-calibrate](../tag/ndvi-calibrate), [multispectral-imaging](../tag/multispectral-imaging)
+
+----
 
 Last fall I started to look into methods to [calibrate near-infrared cameras to measure reflectance](http://publiclab.org/notes/nedhorning/10-21-2013/calibrating-diy-nir-cameras-part-1). The intent of this work is to develop a simple and objective calibration work flow to facilitate the production of accurate NDVI images. The initial tests were conducted using materials I had laying around the house (e.g., pine boards, pink fiberglass, tar paper) and I used spectral reflectance curves from online spectral libraries to characterize the reflectance properties of those materials. The results were promising so I am picking up where I left off. 
 

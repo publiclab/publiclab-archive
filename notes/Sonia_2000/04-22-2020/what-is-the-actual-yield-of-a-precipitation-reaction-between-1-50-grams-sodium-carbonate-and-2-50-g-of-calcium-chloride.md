@@ -14,6 +14,8 @@ by [Sonia_2000](../profile/Sonia_2000) April 22, 2020 15:56
 
 April 22, 2020 15:56 | Tags: [question:general](../tag/question:general), [general](../tag/general), [first-time-poster](../tag/first-time-poster)
 
+----
+
 Mass of filter
 paper is 0.50g
 

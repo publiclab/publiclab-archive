@@ -8,11 +8,15 @@ uid: 562839
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/028/135/original/queensbridgegogoelmaps.jpg)
+
 # SOIL TESTING & DATA VIZ: SUMMER 2019 QUEENSBRIDGE TECH LAB COMMUNITY SCIENCE PROJECT
 
 by [SadiePrego](../profile/SadiePrego) December 05, 2018 21:20
 
 December 05, 2018 21:20 | Tags: [education](../tag/education), [citizen-science](../tag/citizen-science), [soil](../tag/soil), [organizing](../tag/organizing), [medicine](../tag/medicine), [garden](../tag/garden), [plant-health](../tag/plant-health), [plants](../tag/plants), [urban-ecology](../tag/urban-ecology), [data](../tag/data), [grass](../tag/grass), [food-desert](../tag/food-desert), [ecology](../tag/ecology), [soil-testing](../tag/soil-testing), [advocacy](../tag/advocacy), [samples](../tag/samples), [compost](../tag/compost), [soil-quality](../tag/soil-quality), [activism](../tag/activism), [community-science](../tag/community-science), [data-visualization](../tag/data-visualization), [community-microscope](../tag/community-microscope), [biobus](../tag/biobus), [queensbridge](../tag/queensbridge), [nycha](../tag/nycha), [foldscope](../tag/foldscope), [hands-on](../tag/hands-on), [soil-health](../tag/soil-health), [data-vizualization](../tag/data-vizualization), [land-survey](../tag/land-survey), [nature-walk](../tag/nature-walk), [diy-microscope](../tag/diy-microscope), [aerial-images](../tag/aerial-images), [urban-environmentalism](../tag/urban-environmentalism), [soil-samples](../tag/soil-samples), [plant-samples](../tag/plant-samples), [edible](../tag/edible), [healing](../tag/healing), [soil-degradation](../tag/soil-degradation)
+
+----
 
 **Who/Where?**
 

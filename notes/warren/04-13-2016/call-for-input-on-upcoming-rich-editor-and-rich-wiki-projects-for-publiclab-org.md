@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/015/522/original/IMG_20160413_163125-2.jpg)
+
 # Call for input on upcoming Rich Editor and Rich Wiki projects for PublicLab.org
 
 by [warren](../profile/warren) April 13, 2016 20:58
 
 April 13, 2016 20:58 | Tags: [software](../tag/software), [web](../tag/web), [blog](../tag/blog), [developers](../tag/developers), [wwg](../tag/wwg), [rich-editor](../tag/rich-editor), [rich-wiki](../tag/rich-wiki), [ui](../tag/ui), [question:ui](../tag/question:ui)
+
+----
 
 Hi, all - we're launching a new project for the PublicLab.org website to completely revise the research note posting form based on input from various folks. This summer, we'll launch a similar effort to redesign our wiki pages. 
 

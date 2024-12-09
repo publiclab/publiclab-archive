@@ -14,6 +14,8 @@ by [Roolark](../profile/Roolark) January 01, 2014 02:01
 
 January 01, 2014 02:01 | Tags: [ndvi](../tag/ndvi), [qgis](../tag/qgis)
 
+----
+
 ###What I want to do
 Traditional remote sensing of vegetation and snow, using Landsat and MODIS imagery, is useful for small scale, regional areas. Higher resolution satellite imagery from Spot / GeoEye is expensive, and the temporal resolution is limited to (mostly) set schedules.
 

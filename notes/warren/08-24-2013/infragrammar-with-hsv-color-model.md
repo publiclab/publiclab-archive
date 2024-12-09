@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/001/298/original/Screen_Shot_2013-08-24_at_12.03.56_PM.png)
+
 # Infragrammar with HSV color model
 
 by [warren](../profile/warren) August 24, 2013 16:12
 
 August 24, 2013 16:12 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [infragram](../tag/infragram), [processing](../tag/processing), [compositing](../tag/compositing), [infragram-sandbox](../tag/infragram-sandbox), [infragrammar](../tag/infragrammar), [colormap](../tag/colormap)
+
+----
 
 A new idea that evolved [in this thread](https://github.com/Pioneer-Valley-Open-Science/infragram-js/issues/14) -- use the **hue, saturation, value** color model to generate colormaps directly with Infragrammar. While this idea is not fully developed and has had some good criticisms from Ben, I thought this proof of concept was interesting enough to continue exploring. 
 

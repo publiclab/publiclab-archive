@@ -8,11 +8,15 @@ uid: 704145
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/041/839/original/Screen_Shot_2020-11-28_at_3.24.26_PM.png)
+
 # How to Use Your Bucket Data
 
 by [A_SCH](../profile/A_SCH) November 09, 2020 07:19
 
 November 09, 2020 07:19 | Tags: [air-quality](../tag/air-quality), [bucket-brigade](../tag/bucket-brigade), [with:kgradow1](../tag/with:kgradow1), [advocacy](../tag/advocacy), [community-organizing](../tag/community-organizing), [activity:community-organizing](../tag/activity:community-organizing), [bucket-monitor](../tag/bucket-monitor), [activity:bucket-monitor](../tag/activity:bucket-monitor), [activity:advocacy](../tag/activity:advocacy)
+
+----
 
 Co-authored by: Bongani Mthembu and Desmond D'Sa, [South Durban Community Environmental Alliance](https://sdcea.co.za/ "https://sdcea.co.za/"), Rico Euripidou, Avena Jacklin, and Bobby Peek, [groundWork, Friends of the Earth South Africa](https://www.groundwork.org.za/ "https://www.groundwork.org.za/")
 

@@ -8,11 +8,15 @@ uid: 429279
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/010/877/original/Glow_Tampon.JPG)
+
 # Tampon Testing for Wastewater
 
 by [mcairns](../profile/mcairns) July 23, 2015 15:24
 
 July 23, 2015 15:24 | Tags: [testing](../tag/testing), [northeastern](../tag/northeastern), [pollution](../tag/pollution), [tampon](../tag/tampon), [wastewater](../tag/wastewater), [university](../tag/university), [wastewater-optical-brighteners](../tag/wastewater-optical-brighteners)
+
+----
 
 As part of the [Thermal Fishing Bob Workshop](http://www.publiclab.org/notes/kgrevera/05-26-2015/thermal-fishing-bob-development-workshop-on-northeastern-s-campus) on Northeastern's campus, we worked to test the utility of tampons in detecting wastewater pollution. We had a bunch of awesome people collaborate on this!
 

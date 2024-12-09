@@ -8,11 +8,15 @@ uid: 237313
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/007/564/original/locks.jpg)
+
 # Intellectual Property Primer (work in progress)
 
 by [Bronwen](../profile/Bronwen) October 21, 2014 00:22
 
 October 21, 2014 00:22 | Tags: 
+
+----
 
 This is a bit of a work in progress, but I wanted to start a page to set out some of the things that are worth knowing about how different kinds of intellectual property might come into play with some of our work. 
 

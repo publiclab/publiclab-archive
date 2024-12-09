@@ -14,6 +14,8 @@ by [jessica_colarossi](../profile/jessica_colarossi) February 23, 2015 21:43
 
 February 23, 2015 21:43 | Tags: [sensor-journalism](../tag/sensor-journalism)
 
+----
+
 By, Jessica Colarossi
 Data Visualization Class, Professor Catherine D’Ignazio 
 2/22/15

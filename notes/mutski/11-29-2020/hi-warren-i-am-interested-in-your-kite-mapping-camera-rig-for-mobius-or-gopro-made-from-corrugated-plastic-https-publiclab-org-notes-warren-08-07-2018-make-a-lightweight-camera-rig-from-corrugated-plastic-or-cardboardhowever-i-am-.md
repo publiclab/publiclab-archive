@@ -14,4 +14,6 @@ by [mutski](../profile/mutski) November 29, 2020 19:37
 
 November 29, 2020 19:37 | Tags: [kite-mapping](../tag/kite-mapping), [drones](../tag/drones), [gopro](../tag/gopro), [mobius](../tag/mobius), [kite-photography](../tag/kite-photography), [first-time-poster](../tag/first-time-poster)
 
+----
+
 Drone pilot  pondering kite photography

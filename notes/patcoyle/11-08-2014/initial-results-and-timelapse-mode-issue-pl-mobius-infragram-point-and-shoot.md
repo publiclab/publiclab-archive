@@ -8,11 +8,15 @@ uid: 77
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/007/782/original/IMAG0001_NDVI_Color.jpg)
+
 # Initial results and resolution of timelapse mode issue: PL Mobius Infragram Point and Shoot
 
 by [patcoyle](../profile/patcoyle) November 08, 2014 23:18
 
 November 08, 2014 23:18 | Tags: [infragram](../tag/infragram), [timelapse](../tag/timelapse), [fiji](../tag/fiji), [mobius](../tag/mobius), [question:timelapse](../tag/question:timelapse), [question:infragram-point-shoot](../tag/question:infragram-point-shoot)
+
+----
 
 ###What I want to do
 

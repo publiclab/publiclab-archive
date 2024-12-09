@@ -14,4 +14,6 @@ by [Aleksi12358](../profile/Aleksi12358) July 09, 2018 20:24
 
 July 09, 2018 20:24 | Tags: [raspbian](../tag/raspbian), [answered](../tag/answered), [question:lego-spectrometer](../tag/question:lego-spectrometer), [lego-spectrometer](../tag/lego-spectrometer), [operating](../tag/operating), [system](../tag/system), [kodi](../tag/kodi)
 
+----
+
 I am going to order raspberry pi zero w, camera and memory card with operating system installed. Which operating system I should choose Raspbian or Kodi? If it does not matter I will choose Raspbian.

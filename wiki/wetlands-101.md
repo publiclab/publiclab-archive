@@ -8,11 +8,15 @@ uid: 422561
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/009/839/original/20150418_125825.jpg)
+
 # Wetlands 101
 
 by [liz](../profile/liz), [stevie](../profile/stevie), [Shannon](../profile/Shannon)
 
 May 08, 2015 15:34 | Tags: [wetlands](../tag/wetlands), [polemapping](../tag/polemapping), [pole-mapping](../tag/pole-mapping), [parent:wetlands-toolkit](../tag/parent:wetlands-toolkit), [site-survey](../tag/site-survey), [activity:site-survey](../tag/activity:site-survey), [activity:wetlands](../tag/activity:wetlands)
+
+----
 
 ##Workshop 2: Understanding your wetlands site
 _Identify and learn about your wetland_

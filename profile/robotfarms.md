@@ -3,6 +3,8 @@ uid: 516361
 created_at: 2017-10-15 02:24:34 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/2c4c5df5f0243346ce1335bb4dc4a00e)
+
 # robotfarms
 
 

@@ -8,11 +8,15 @@ uid: 436738
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/009/327/original/Adding_Salt.jpg)
+
 # Spring Fling: Calibrating the Coqui
 
 by [ddileona](../profile/ddileona) March 20, 2015 03:10
 
 March 20, 2015 03:10 | Tags: [gulf-coast](../tag/gulf-coast), [list:plots-waterquality](../tag/list:plots-waterquality), [coqui](../tag/coqui)
+
+----
 
 Hello again!  I have more fun from the Spring Fling for you.
 

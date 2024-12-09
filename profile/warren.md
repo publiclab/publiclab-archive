@@ -3,6 +3,8 @@ uid: 1
 created_at: 2013-03-14 16:16:26 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/1/medium/PXL_20210821_221439899.jpg)
+
 # warren
 
 The creator of [GrassrootsMapping.org](http://grassrootsmapping.org) and one of seven co-founders of Public Lab, Jeffrey Warren designs mapping and community science tools and professionally flies balloons and kites. He leads the coding community at Public Lab, and has developed [the vector-mapping framework Cartagen](http://cartagen.org) and [grassroots mapping tool MapKnitter](http://mapknitter.org), as well as open spectral database and toolkit [Spectral Workbench](http://spectralworkbench.org). 

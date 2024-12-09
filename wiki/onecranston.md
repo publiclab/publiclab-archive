@@ -14,6 +14,8 @@ by [warren](../profile/warren)
 
 October 07, 2019 14:14 | Tags: [place](../tag/place), [project](../tag/project), [lat:41.7900](../tag/lat:41.7900), [lon:-71.4570](../tag/lon:-71.4570), [unearthing-pvd-projects](../tag/unearthing-pvd-projects)
 
+----
+
 > OneCranston is an initiative looking to build racial and social equity to help establish social cohesion across the City to gain economic mobility, with the Comprehensive Community Action Program as it’s backbone agency. ([source](https://www.livingcities.org/blog/1303-building-onecranston-through-collective-impact))
 
 
@@ -52,19 +54,19 @@ Interested in following along in the project? Subscribe to the tag below to get 
 
 <a class="btn btn-large btn-primary" href="https://publiclab.org/subscribe/tag/one-cranston">Subscribe to updates on this project </a>
 
-[notes:grid:one-cranston]
+[grid:one-cranston](../../tag/grid:one-cranston)
 
 ### Questions
 
 Here's a place to list things you have questions about, or issues or **challenges you’re hoping to solve in this project**. What questions helped guide the work? Let's build out a Frequently Asked Questions area:
 
-[questions:one-cranston]
+[one-cranston](../../tag/question:one-cranston)
 
 ****
 
 ### Activities we’ve done in our project
 
-[activities:one-cranston]
+[one-cranston](../../tag/activity:one-cranston)
 
 ### Data
 

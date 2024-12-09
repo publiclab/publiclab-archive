@@ -8,11 +8,15 @@ uid: 4
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/019/422/original/homeminivol2.jpg)
+
 # Minivol PM monitoring deployment
 
 by [mathew](../profile/mathew) February 02, 2017 21:07
 
 February 02, 2017 21:07 | Tags: [air-quality](../tag/air-quality), [dust](../tag/dust), [silica](../tag/silica), [pm](../tag/pm), [particle-sensing](../tag/particle-sensing), [pm-monitoring](../tag/pm-monitoring), [minivol](../tag/minivol), [activity:minivol](../tag/activity:minivol)
+
+----
 
 MiniVol PM sampling deployment procedure
 

@@ -8,11 +8,15 @@ uid: 569208
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/029/990/original/hanby_ezr.gif)
+
 # How to Use a Hanby Kit to Test for Soil Petroleum Hydrocarbons 
 
 by [DanielleS](../profile/DanielleS) March 11, 2019 01:46
 
 March 11, 2019 01:46 | Tags: [soil-testing](../tag/soil-testing), [draft](../tag/draft), [oil-and-gas](../tag/oil-and-gas), [activity:soil-sampling](../tag/activity:soil-sampling), [soil-analysis](../tag/soil-analysis), [activity:new](../tag/activity:new), [activity:soil](../tag/activity:soil), [txbarnraising](../tag/txbarnraising), [soil-contamination](../tag/soil-contamination), [hanby-soil-kit](../tag/hanby-soil-kit), [activity:hanby-soil-kit](../tag/activity:hanby-soil-kit), [screen-soil-contamination](../tag/screen-soil-contamination), [activity:screen-soil-contamination](../tag/activity:screen-soil-contamination)
+
+----
 
 At the Texas Barnraising
 this year, we gathered around soil contamination and testing options. In one of

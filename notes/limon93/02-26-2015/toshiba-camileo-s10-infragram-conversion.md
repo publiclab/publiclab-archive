@@ -8,11 +8,15 @@ uid: 435788
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/009/103/original/44460.jpg)
+
 # Toshiba Camileo S10 Infragram conversion.
 
 by [limon93](../profile/limon93) February 26, 2015 15:01
 
 February 26, 2015 15:01 | Tags: [ir](../tag/ir), [conversion](../tag/conversion), [filter](../tag/filter), [infragram](../tag/infragram), [toshiba](../tag/toshiba), [camileo](../tag/camileo), [s10](../tag/s10), [activity:infrared-camera-conversion](../tag/activity:infrared-camera-conversion)
+
+----
 
 ###Disassembling
 Apply force using plectrum:

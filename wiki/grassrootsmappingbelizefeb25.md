@@ -14,6 +14,8 @@ by [warren](../profile/warren)
 
 April 21, 2012 14:54 | Tags: [balloon-mapping](../tag/balloon-mapping), [grassrootsmappingwiki](../tag/grassrootsmappingwiki)
 
+----
+
 (copied from Pat Coyle's entries in the Grassroots Mapping Wiki)
 
 The last couple of days, I picked up cotton string, fishing line clips, and some thin light-weight bungee cords.

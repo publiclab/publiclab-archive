@@ -8,11 +8,15 @@ uid: 379
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/040/699/original/IMG_007.JPG)
+
 # Typology for the nurdles of the "Bianca" spill
 
 by [eustatic](../profile/eustatic) August 26, 2020 21:12
 
 August 26, 2020 21:12 | Tags: [gulf-coast](../tag/gulf-coast), [industrial-monitoring](../tag/industrial-monitoring), [water-quality](../tag/water-quality), [mississippi-river](../tag/mississippi-river), [microscope](../tag/microscope), [advocacy](../tag/advocacy), [clean-water-act](../tag/clean-water-act), [microplastics](../tag/microplastics), [plastics](../tag/plastics), [place:chalmette-la](../tag/place:chalmette-la), [healthygulf](../tag/healthygulf), [zoom:15](../tag/zoom:15), [plastic-pollution](../tag/plastic-pollution), [lat:29.939576](../tag/lat:29.939576), [lon:-89.993932](../tag/lon:-89.993932), [oil-industry](../tag/oil-industry), [nurdles](../tag/nurdles)
+
+----
 
 On 2nd August, 2020, CMA CGM Group vessel Bianca released multiple boxes of cargo into the Mississippi River, including nurdle cargo. 
 

@@ -14,6 +14,8 @@ by [ananyo2012](../profile/ananyo2012) July 02, 2016 09:29
 
 July 02, 2016 09:29 | Tags: [web](../tag/web), [activity](../tag/activity), [seeks:responses](../tag/seeks:responses), [feature](../tag/feature)
 
+----
+
 ## What is to be implemented
 Show User Streaks in Publiclab User Profile Page. For this we need the proper definition of User **Streaks** that will show the User streaks on profile page.
 

@@ -14,4 +14,6 @@ by [MadTinker](../profile/MadTinker) December 26, 2020 23:51
 
 December 26, 2020 23:51 | Tags: [question:general](../tag/question:general), [general](../tag/general)
 
+----
+
 There is a nice article in Sky at Night Magazine regarding a Rasperry Pi meteor detector. The article outlines the construction, data collection, and data sharing of information.  **[Set up a Raspberry Pi meteor detector](https://www.skyatnightmagazine.com/advice/diy/raspberry-pi-meteor-detector/) **

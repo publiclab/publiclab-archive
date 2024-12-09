@@ -14,6 +14,8 @@ by [ekpeterman](../profile/ekpeterman) March 29, 2022 16:58
 
 March 29, 2022 16:58 | Tags: [coal-mining](../tag/coal-mining), [air-quality](../tag/air-quality), [mining](../tag/mining), [advocacy](../tag/advocacy), [permit-violation](../tag/permit-violation), [with:junior_walk1337](../tag/with:junior_walk1337), [mmmp](../tag/mmmp)
 
+----
+
 *This is the third in a series exploring common permit violations at mountaintop removal mining operations. See also posts on [ground][1] and [water][2] related violations. This one considers all things air related - from particulate pollution to blasting violations.* 
 
 Air related violations tend to be difficult to enforce from a community advocacy perspective. Like water related violations, airborne contamination is prone to dissipating and drifting away, and illegal blasts are fleeting events. Air related violations generally fall into one of a few categories: peak particle velocity, air blast, or administrative infractions. DEP officials don’t consider photo or video documentation as evidence in the case of illegal blasting. Rather, when a blasting complaint is made, the DEP relies on company blasting logs and area seismographs to establish if a violation has occurred. 

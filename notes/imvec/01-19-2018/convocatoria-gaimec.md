@@ -8,11 +8,15 @@ uid: 495038
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/023/257/original/convocatoria_GAIMeC_DEF.jpg)
+
 # Convocatoria GAIMeC
 
 by [imvec](../profile/imvec) January 19, 2018 15:37
 
 January 19, 2018 15:37 | Tags: [barcelona](../tag/barcelona), [spain](../tag/spain), [event](../tag/event), [lang:es](../tag/lang:es), [event:rsvp](../tag/event:rsvp), [learning](../tag/learning), [opencall](../tag/opencall), [gaimec](../tag/gaimec), [donosti](../tag/donosti), [spanish](../tag/spanish), [date:01-31-2018](../tag/date:01-31-2018)
+
+----
 
 ###Detalles del evento.
 **Convocatoria para la creación de dos Grupos Abiertos de Investigación Medioambiental Ciudadana **

@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/012/540/original/Free651LP100u2k.jpg)
+
 # Converging on an 1886 viewpoint
 
 by [cfastie](../profile/cfastie) November 08, 2015 19:39
 
 November 08, 2015 19:39 | Tags: [kite-mapping](../tag/kite-mapping), [middlebury](../tag/middlebury), [vermont](../tag/vermont), [kite](../tag/kite), [middlebury-college](../tag/middlebury-college), [kaptery](../tag/kaptery), [saturnv](../tag/saturnv), [skyshield](../tag/skyshield), [half-spherical](../tag/half-spherical), [littleplanet](../tag/littleplanet), [birdseye](../tag/birdseye), [response:12370](../tag/response:12370), [s100-gps](../tag/s100-gps)
+
+----
 
 *Above: Little planet projection of an aerial panorama stitched from 25 photos taken by a Canon S100 on a Saturn V Rig lofted by a Fled kite from the Middlebury College campus on November 5, 2015.*
 

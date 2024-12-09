@@ -14,6 +14,8 @@ by [stevie](../profile/stevie), [kamau19](../profile/kamau19)
 
 April 02, 2019 19:23 | Tags: [reporting](../tag/reporting), [wisconsin](../tag/wisconsin), [water-quality](../tag/water-quality), [frac-sand](../tag/frac-sand), [midwest](../tag/midwest), [frac-sand-reporting](../tag/frac-sand-reporting), [sentinel](../tag/sentinel), [local-reporting](../tag/local-reporting), [parent:the-sand-sentinel-program](../tag/parent:the-sand-sentinel-program), [reclamation](../tag/reclamation)
 
+----
+
 This page includes information about observable permit violations of the frac [sand mining industry](https://publiclab.org/wiki/nonmetallicmining#Industrial+Sand+Mining) related to water quality violations. 
 
 ###About Water Quality and Frac Sand Mining   

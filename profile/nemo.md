@@ -3,6 +3,8 @@ uid: 39668
 created_at: 2013-05-23 06:11:31 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/392451f952d3b892376a37464b38078c)
+
 # nemo
 
 Stefan Unterhauser is a gardener of servers, and has cultivated Public Lab's web services as if they were his own precious garden for several years. He is a ninja guerilla sysadmin who, if he were a real gardener, would break into corporate lobbies in the dead of night to water and fertilize their potted plants, as well as plant a few of his own delicious tomato plants without anyone noticing. 

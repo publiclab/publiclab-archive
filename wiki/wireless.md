@@ -14,6 +14,8 @@ by [willie](../profile/willie), [danbeavers](../profile/danbeavers), [mathew](..
 
 September 11, 2014 17:20 | Tags: [wireless](../tag/wireless), [mobile](../tag/mobile), [sensors](../tag/sensors), [wi-fi](../tag/wi-fi), [bluetooth](../tag/bluetooth)
 
+----
+
 #Satellite
 
 ##Iridium satellite

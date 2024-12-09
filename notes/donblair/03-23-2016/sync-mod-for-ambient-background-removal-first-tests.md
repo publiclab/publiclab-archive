@@ -8,11 +8,15 @@ uid: 43651
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/015/201/original/IMG_20160321_202615863.jpg)
+
 # Sync-mod for ambient background removal -- first tests
 
 by [donblair](../profile/donblair) March 23, 2016 18:01
 
 March 23, 2016 18:01 | Tags: 
+
+----
 
 This is a quick follow-up to the idea posted [here](https://publiclab.org/notes/donblair/03-08-2016/removing-ambient-background-light-from-turbidity-measurements-through-signal-modulation).
 

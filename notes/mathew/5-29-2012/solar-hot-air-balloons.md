@@ -8,11 +8,15 @@ uid: 4
 
 ---
 
+![](https://publiclab.org/sites/default/files/2012-01-08-09-55-36.jpg)
+
 # Solar Hot Air Balloons
 
 by [mathew](../profile/mathew) May 30, 2012 02:57
 
 May 30, 2012 02:57 | Tags: [balloon-mapping](../tag/balloon-mapping), [solar-balloon](../tag/solar-balloon), [hot-air-balloon](../tag/hot-air-balloon), [diy-balloon](../tag/diy-balloon)
+
+----
 
 Photo Credit: Matthew Coolidge
 

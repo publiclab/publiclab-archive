@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/019/575/original/PublicLab.png)
+
 # Media
 
 by [joyofsoy](../profile/joyofsoy), [liz](../profile/liz), [Shannon](../profile/Shannon), [warren](../profile/warren), [stevie](../profile/stevie), [klie](../profile/klie), [caroltahon](../profile/caroltahon), [Becki](../profile/Becki), [adam-griffith](../profile/adam-griffith), [gonzoearth](../profile/gonzoearth), [mathew](../profile/mathew), [cfastie](../profile/cfastie), [sara](../profile/sara)
 
 February 15, 2011 15:34 | Tags: [media](../tag/media), [publiclab](../tag/publiclab), [sxswi](../tag/sxswi)
+
+----
 
 ##Press##
 

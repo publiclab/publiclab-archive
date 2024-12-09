@@ -3,6 +3,8 @@ uid: 444468
 created_at: 2015-06-26 17:29:16 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/dcf2cf0796b8296c187624882a7f5438)
+
 # dbenjamin
 
 Cleveland Metroparks GIS

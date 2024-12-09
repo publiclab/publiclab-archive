@@ -14,6 +14,8 @@ by [tonyc](../profile/tonyc)
 
 January 07, 2016 01:18 | Tags: 
 
+----
+
 The Kits Team is preparing to offer Mobius ActionCams through the store.
 
 This page will become the documentation and will show how to operate the camera, including summary of how they ship, how to modify the syscfg.txt file to change camera settings, how to modify and mount the camera. 

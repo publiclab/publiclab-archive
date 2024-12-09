@@ -8,11 +8,15 @@ uid: 379
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/013/420/original/23521261750_3234da2081_z.jpg)
+
 # Air Plant Bio Bubbler
 
 by [eustatic](../profile/eustatic) December 21, 2015 06:59
 
 December 21, 2015 06:59 | Tags: [gulf-coast](../tag/gulf-coast), [remediation](../tag/remediation), [air-quality](../tag/air-quality), [tool](../tag/tool), [wherewebreathe](../tag/wherewebreathe)
+
+----
 
 ###What I want to do
 

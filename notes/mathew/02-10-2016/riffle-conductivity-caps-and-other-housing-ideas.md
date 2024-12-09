@@ -8,11 +8,15 @@ uid: 4
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/014/191/original/P_20160209_143505.jpg)
+
 # Riffle conductivity caps and other housing ideas
 
 by [mathew](../profile/mathew) February 10, 2016 01:54
 
 February 10, 2016 01:54 | Tags: [arduino](../tag/arduino), [water-quality](../tag/water-quality), [riffle](../tag/riffle), [bottle](../tag/bottle), [pet-bottle](../tag/pet-bottle), [data-logger-enclosures](../tag/data-logger-enclosures), [sensor-enclosures](../tag/sensor-enclosures), [activity:sensor-enclosures](../tag/activity:sensor-enclosures), [activity:conductivity](../tag/activity:conductivity)
+
+----
 
 ###What I want to do
 Follow up on @Donblair's [Riffle housing specification](/notes/donblair/12-13-2015/riffle-ct-conductivity-temp-beta-design-enclosure-probes-data-collection) with some tested parts. 

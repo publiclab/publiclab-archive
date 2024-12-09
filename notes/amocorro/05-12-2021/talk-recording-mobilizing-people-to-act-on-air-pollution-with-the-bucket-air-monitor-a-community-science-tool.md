@@ -8,11 +8,15 @@ uid: 700923
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/043/769/original/de-bucketizing_the_org_chart1.jpg)
+
 # [Talk Recording] Mobilizing People to Act on Air Pollution with the Bucket Air Monitor - a Community Science Tool
 
 by [amocorro](../profile/amocorro) May 12, 2021 20:15
 
 May 12, 2021 20:15 | Tags: [open-hardware](../tag/open-hardware), [diy](../tag/diy), [organizing](../tag/organizing), [hydrogen-sulfide](../tag/hydrogen-sulfide), [air-quality](../tag/air-quality), [benzene](../tag/benzene), [bucket-brigade](../tag/bucket-brigade), [oshwa](../tag/oshwa), [fellows](../tag/fellows), [advocacy](../tag/advocacy), [oil-and-gas](../tag/oil-and-gas), [tech](../tag/tech), [bucket](../tag/bucket), [air-pollution](../tag/air-pollution), [bucket-monitor](../tag/bucket-monitor), [south-africa](../tag/south-africa), [durban](../tag/durban), [petrochemical-plants](../tag/petrochemical-plants), [groundwork](../tag/groundwork)
+
+----
 
 The Open Source Hardware Association - 2021 Virtual Open Hardware Summit
 

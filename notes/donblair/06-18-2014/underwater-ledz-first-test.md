@@ -8,11 +8,15 @@ uid: 43651
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/004/832/original/front.png)
+
 # "Underwater LEDz" -- first test
 
 by [donblair](../profile/donblair) June 18, 2014 12:39
 
 June 18, 2014 12:39 | Tags: [riffle](../tag/riffle), [riffle-examples](../tag/riffle-examples)
+
+----
 
 ###What I want to do
 

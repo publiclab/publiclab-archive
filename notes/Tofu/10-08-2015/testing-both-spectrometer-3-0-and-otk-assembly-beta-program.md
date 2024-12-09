@@ -8,11 +8,15 @@ uid: 445547
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/011/878/original/IMG_2708.JPG)
+
 # Testing both spectrometer 3.0 and OTK - assembly Beta program
 
 by [Tofu](../profile/Tofu) October 08, 2015 01:49
 
 October 08, 2015 01:49 | Tags: [spectrometer](../tag/spectrometer), [oil](../tag/oil), [oil-testing-kit](../tag/oil-testing-kit), [barnstar:basic](../tag/barnstar:basic), [otk](../tag/otk)
+
+----
 
 Hi!
 

@@ -8,11 +8,15 @@ uid: 422561
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/025/110/original/Sand.jpg)
+
 # New documentary: Promise in the Sand
 
 by [stevie](../profile/stevie) June 05, 2018 21:22
 
 June 05, 2018 21:22 | Tags: [wisconsin](../tag/wisconsin), [air-quality](../tag/air-quality), [blog](../tag/blog), [fracking](../tag/fracking), [frac-sand](../tag/frac-sand), [midwest](../tag/midwest), [parent:frac-sand](../tag/parent:frac-sand), [location:blurred](../tag/location:blurred), [lat:43](../tag/lat:43), [place:united-states](../tag/place:united-states), [lon:-90](../tag/lon:-90), [fracksand](../tag/fracksand)
+
+----
 
 _Lead photo from [Promise in the Sand Facebook page][1]_
 

@@ -8,11 +8,15 @@ uid: 447732
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/011/121/original/Screen_Shot_2015-08-14_at_6.14.29_PM.jpg)
+
 # Mapping Biodiversity Hotspots - Shannon Entropy Applied to Pixel Space (Case Study: Cape Cod, MA)
 
 by [podolsky](../profile/podolsky) August 14, 2015 22:41
 
 August 14, 2015 22:41 | Tags: [mapping](../tag/mapping), [ecology](../tag/ecology), [biodiversity](../tag/biodiversity), [diversidad](../tag/diversidad)
+
+----
 
 I developed Diversidad Software to quickly scan earth imagery (from planes, satellites, drones etc.) and find the areas of the image that have the highest spectral diversity. To find areas of maximum spectral heterogeneity, I use the same Shannon "diversity index" that ecologists use on species assemblages. But in my case I treat the pixels as species.
 

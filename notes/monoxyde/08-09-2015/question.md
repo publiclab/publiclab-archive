@@ -8,11 +8,15 @@ uid: 432132
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/011/071/original/IMAG0001.JPG)
+
 # Question: 
 
 by [Monoxyde](../profile/Monoxyde) August 09, 2015 08:20
 
 August 09, 2015 08:20 | Tags: [question:near-infrared-camera](../tag/question:near-infrared-camera)
+
+----
 
 **Goodmorning everyone.
 **

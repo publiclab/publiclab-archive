@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/009/954/original/iFarm2015-621-134.jpg)
+
 # MultispeQ at iFARM
 
 by [cfastie](../profile/cfastie) May 22, 2015 03:33
 
 May 22, 2015 03:33 | Tags: [new-hampshire](../tag/new-hampshire), [agriculture](../tag/agriculture), [farm](../tag/farm), [photosynthesis](../tag/photosynthesis), [photosynq](../tag/photosynq), [plant-health](../tag/plant-health), [ifarm](../tag/ifarm), [nh](../tag/nh), [ifarm2015](../tag/ifarm2015), [response:11825](../tag/response:11825)
+
+----
 
 An important potential use of the new [PhotosynQ MultispeQ](http://www.photosynq.org/) is for farmers to measure photosynthesis on crop plants and base management decisions on the results. We did a couple of mini studies at [iFARM](http://publiclab.org/notes/cfastie/05-21-2015/ifarm-2015-report) to demonstrate this potential. Dorn planted a new cover crop mix last fall with winter rye and Austrian winter pea. We measured some aspects of photosynthesis on individual Austrian winter pea leaves in three different fields with different densities of rye and pea.  
 .  

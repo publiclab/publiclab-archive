@@ -8,11 +8,15 @@ uid: 45586
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/013/243/original/NDVIplotsN1k.jpg)
+
 # Photo Monitoring Plugin For NDVI using ImageJ
 
 by [mlamadrid](../profile/mlamadrid) December 08, 2015 21:10
 
 December 08, 2015 21:10 | Tags: [ndvi](../tag/ndvi), [imagej](../tag/imagej), [grassrootsmappingforum](../tag/grassrootsmappingforum), [with:nedhorning](../tag/with:nedhorning), [style:fancy](../tag/style:fancy), [gmf-9](../tag/gmf-9)
+
+----
 
 New calibration capabilities have been added to the ImageJ/FIJI photo monitoring plugin suite hosted on GitHub: [https://github.com/nedhorning/PhotoMonitoringPlugin (https://github.com/nedhorning/PhotoMonitoringPlugin). The calibration plugins can be used to improve the process of creating NDVI images from photographs acquired using single or dual-camera setups by converting image pixel values to reflectance values before calculating NDVI. This provides a more objective approach to calculating NDVI than adjusting parameters based on a visual assessment of the NDVI image and can result in more robust comparisons of NDVI over time. The plugin works best with RAW format images although there is a feature enabling processing of JPEG format images as well. 
 

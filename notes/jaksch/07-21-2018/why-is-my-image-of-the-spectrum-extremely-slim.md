@@ -14,6 +14,8 @@ by [jaksch](../profile/jaksch) July 21, 2018 10:27
 
 July 21, 2018 10:27 | Tags: [spectrometry](../tag/spectrometry), [diffraction-grating](../tag/diffraction-grating), [question:spectrometry](../tag/question:spectrometry), [dvd](../tag/dvd), [dvd-grating](../tag/dvd-grating), [question:diffraction-grating](../tag/question:diffraction-grating), [question:dvd](../tag/question:dvd), [first-time-poster](../tag/first-time-poster)
 
+----
+
 A friend gave my a spectrometer kit (of unknown origin) and I'm trying to get it to work. I use DVD-RW grating at 65° (lines horizontally), camera at 45° and a distance to the slit of 200mm. I adjusted the distance camera <--\> grating, so that the spectrum is in the middle of the captured image.
 
 I'm getting a very narrow image as you can see below. I can get it even more narrow when I adjust the focus really carefully and adapt the exposure. This makes it hard to choose a good cross section. Light source here is a phone LED.

@@ -8,11 +8,15 @@ uid: 468998
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/015/209/original/localization.jpg)
+
 # Internationalize Public Lab : GSoC 2016
 
 by [sudheesh001](../profile/sudheesh001) March 25, 2016 06:34
 
 March 25, 2016 06:34 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [coding](../tag/coding), [hidden:response](../tag/hidden:response), [gsoc-2016](../tag/gsoc-2016), [gsoc-2016-proposals](../tag/gsoc-2016-proposals), [response:12827](../tag/response:12827)
+
+----
 
 **Name**: Sudheesh Singanamalla
 

@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/022/677/original/IMG_20171130_140926.jpg)
+
 # Papercraft Spectrometer Intro Kit
 
 by [joyofsoy](../profile/joyofsoy), [warren](../profile/warren)
 
 November 30, 2017 19:38 | Tags: [spectrometry](../tag/spectrometry), [foldable](../tag/foldable), [papercraft](../tag/papercraft), [parent:spectrometry](../tag/parent:spectrometry), [papercraft-spec](../tag/papercraft-spec), [papercraft-spectrometer](../tag/papercraft-spectrometer)
+
+----
 
 After a few years, we're returning to one of our oldest kits to update and improve it, building on lots of community-contributed ideas, improvements, and refinements. This page collects resources, questions and activities related to the design. 
 
@@ -149,7 +153,7 @@ We haven't gotten all the way there on every goal -- we'd hoped to [make a versi
 
 ## Activities
 
-[activities:papercraft-spec]
+[papercraft-spec](../../tag/activity:papercraft-spec)
 
 ## Questions
 
@@ -157,7 +161,7 @@ This section is for questions about the **Papercraft and Foldable Spectrometry K
 
 For questions about spectrometry in general, [see this FAQ](/wiki/spectrometry#Frequently+Asked+Questions). 
 
-[questions:foldable-spec]
+[foldable-spec](../../tag/question:foldable-spec)
 
 ****
 
@@ -171,7 +175,7 @@ Have you made improvements to the kit? Share them as [an upgrade](#Upgrades) and
 
 Once you've gotten a solid footing with some of the above activities, try tackling one of these unsolved challenges to advance our collaborative work:
 
-[questions:spectrometry-challenge]
+[spectrometry-challenge](../../tag/question:spectrometry-challenge)
 
 ### Upgrades
 

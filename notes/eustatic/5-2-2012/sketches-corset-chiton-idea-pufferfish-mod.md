@@ -8,11 +8,15 @@ uid: 379
 
 ---
 
+![](https://publiclab.org/sites/default/files/double chiton corset.jpg)
+
 # Sketches for "Corset-Chiton" idea for Pufferfish mod
 
 by [eustatic](../profile/eustatic) May 02, 2012 15:34
 
 May 02, 2012 15:34 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-balloon-hybrid](../tag/kite-balloon-hybrid), [diy-balloon](../tag/diy-balloon)
+
+----
 
 After reading the <a href="http://publiclaboratory.org/tool/kite-balloon-hybrid">Kite Balloon</a> note and the "<a href="http://publiclaboratory.org/notes/shannon/4-21-2012/prototype-pufferfish-balloon-ecohack">Pufferfish</a>" note, and hearing Shannon's request to learn how to knit nets,  I came upon replacement nets at the fishing store.
 

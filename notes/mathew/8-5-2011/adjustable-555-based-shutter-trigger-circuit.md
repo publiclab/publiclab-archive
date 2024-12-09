@@ -14,6 +14,8 @@ by [mathew](../profile/mathew) August 05, 2011 18:19
 
 August 05, 2011 18:19 | Tags: [camera-triggering](../tag/camera-triggering), [timelapse](../tag/timelapse), [intervalometer](../tag/intervalometer), [555](../tag/555), [activity:camera-triggering](../tag/activity:camera-triggering)
 
+----
+
 <a class="banner" href="https://www.flickr.com/photos/14397636@N07/5477715939/" title="555_timer_breadboard_diagram by mathew.lippincott, on Flickr"><img src="http://farm6.static.flickr.com/5215/5477715939_507453b7ef.jpg" width="500" height="471" alt="555_timer_breadboard_diagram" /></a>
 
 <!-- hide banner image except in list view -->

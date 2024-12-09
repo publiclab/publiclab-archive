@@ -14,6 +14,8 @@ by [Shannon](../profile/Shannon) February 17, 2013 23:50
 
 February 17, 2013 23:50 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
 
+----
+
 This week in the Public Lab community newsletter, take a look at the new mobile spectrometer design, join in on a thermal fishing bob project and stop by the Public Lab NYC 2013 kickoff. Enjoy!
 
 1. NYC 2013 kickoff meeting. The Annual kickoff meeting for Public Lab NYC will take place tomorrow evening (2/18) beginning at 6est. For more information, email liz@publiclaboratory.org.

@@ -14,6 +14,8 @@ by [mimiss](../profile/mimiss), [warren](../profile/warren)
 
 May 23, 2019 18:43 | Tags: 
 
+----
+
 The Coqui: a simple device to read a sensor via an audible tone. We're exploring using audio frequencies to convey sensor readings -- like a modem, but even simpler -- in order to make sensor readings more accessible for people (or to enable data transmission over ubiquitous audio jacks on PCs and smartphones)
 
 For example, a Coqui can be built to measure:
@@ -151,7 +153,7 @@ For step-by-step assembly instructions,[ click here.](https://publiclab.org/note
 
 Here are some lessons, materials, and workshops shared by Public Lab contributors. Try them out or design and share your own.
 
-[activities:edu-coqui]
+[edu-coqui](../../tag/activity:edu-coqui)
 
 ## Get Help
 

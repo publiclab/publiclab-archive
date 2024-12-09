@@ -8,11 +8,15 @@ uid: 447491
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/011/221/original/800px-BNSF_eastbound_oil_train_in_Bad_Rock_Canyon.jpg)
+
 # Tracking Oil Trains Using RFIDs
 
 by [tonyc](../profile/tonyc) August 20, 2015 23:16
 
 August 20, 2015 23:16 | Tags: [oil](../tag/oil), [transportation](../tag/transportation), [crude](../tag/crude), [traffic](../tag/traffic), [ail](../tag/ail), [rfid](../tag/rfid), [oil-train](../tag/oil-train), [rail](../tag/rail), [traffic-analysis](../tag/traffic-analysis), [first-time-poster](../tag/first-time-poster)
+
+----
 
 ###I want to start a conversation about how an open hardware/software project could help track the movements of oil trains through communities. Currently this information is closely guarded, but directly impacts the physical safety and environmental health of communities all over the country.
 

@@ -8,11 +8,15 @@ uid: 477060
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/016/903/original/Silly_Putty_Pan_Mechanism.jpg)
+
 # Electronics-Free Automated Pan Mechanisms
 
 by [ranon](../profile/ranon) July 07, 2016 21:52
 
 July 07, 2016 21:52 | Tags: [kite-aerial-photography](../tag/kite-aerial-photography), [kite](../tag/kite), [kap](../tag/kap), [photo-rig](../tag/photo-rig), [panorama](../tag/panorama), [autokap](../tag/autokap), [kap-rigs](../tag/kap-rigs), [jerkpan](../tag/jerkpan), [reconfigurable-rig](../tag/reconfigurable-rig)
+
+----
 
 ### Silly Putty Pan Mechanism
 

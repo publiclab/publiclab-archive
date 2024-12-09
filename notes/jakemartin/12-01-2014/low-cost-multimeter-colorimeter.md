@@ -8,11 +8,15 @@ uid: 422965
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/008/152/original/IMG_0358.jpg)
+
 # Low-cost multimeter colorimeter
 
 by [jakemartin](../profile/jakemartin) December 01, 2014 03:18
 
 December 01, 2014 03:18 | Tags: [spectrometer](../tag/spectrometer), [spectrophotometer](../tag/spectrophotometer), [quantitative](../tag/quantitative), [parent:spectrometer](../tag/parent:spectrometer), [colorimetry](../tag/colorimetry), [multimeter](../tag/multimeter), [first-time-poster](../tag/first-time-poster)
+
+----
 
 ###What I want to do
 Make low cost quantitative measurements of the concentration of chemicals in solution. The big problem with using cell phone or webcam based spectrometers is auto-exposure which makes comparing intensities between different spectra basically impossible. Using a LED and battery, a light dependent resistor, multimeter and some laser cut plastic you can measure absorbance quantitatively.

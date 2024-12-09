@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/000/072/original/1366222607453.jpg)
+
 # Final Countertop Spectrometer Design
 
 by [warren](../profile/warren) April 17, 2013 18:29
 
 April 17, 2013 18:29 | Tags: [spectrometer](../tag/spectrometer), [countertop-spectrometer](../tag/countertop-spectrometer)
+
+----
 
 Just wanted to upload build photos of the final built-up countertop design , with the built in light, dimmer, and stage. Its all made of off the shelf parts and can be hand assembled, with the only laser cut part being the acrylic stage (besides what already comes in the Desktop Spectrometry Kit.
 

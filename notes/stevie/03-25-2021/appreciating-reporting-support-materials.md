@@ -8,11 +8,15 @@ uid: 422561
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/043/052/original/Screen_Shot_2021-03-25_at_12.43.00_PM.png)
+
 # Appreciating Reporting Support Materials
 
 by [stevie](../profile/stevie) March 25, 2021 17:29
 
 March 25, 2021 17:29 | Tags: [farming](../tag/farming), [reporting](../tag/reporting), [cafo](../tag/cafo), [frac-sand](../tag/frac-sand), [parent:frac-sand](../tag/parent:frac-sand), [permits](../tag/permits), [farm-animals](../tag/farm-animals), [reporting-forms](../tag/reporting-forms), [frac-sand-reporting](../tag/frac-sand-reporting), [sentinel](../tag/sentinel), [parent:the-sand-sentinel-program](../tag/parent:the-sand-sentinel-program), [permit-violation](../tag/permit-violation), [sand-sentinel](../tag/sand-sentinel), [sentinel-program](../tag/sentinel-program), [brown-water](../tag/brown-water)
+
+----
 
 Since working on [The Sand Sentinel Program][1] with Project Outreach and friends, I've been interested in how reporting suspected permit violations can be supported - made easier and more transparent. The Sand Sentinel Program has the aim of "creating an easier way for people to collect and file reports on suspected permit violations by frac sand mining companies." These materials were built collaboratively by local friends, organizations, and even international contacts who all shared their limited time and resources to bring this project to fruition. While it still has room to grow, especially in the area of surfacing what has been done with these violations once reported, it has helped create a dialogue and resources around community watchdogging that is so important. These are especially important since agencies who are in charge of managing permit violations can't be everywhere (think rural areas!) and are often underfunded. Let's not forget as well, that here in the US, we rely on industry self reporting spills and toxic releases which is a little hard to fathom as a robust system, considering spills and releases beyond permits bear cost to the violating industry. 
 

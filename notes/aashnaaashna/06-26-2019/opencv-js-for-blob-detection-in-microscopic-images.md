@@ -8,11 +8,15 @@ uid: 553271
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/033/263/original/collage%281%29.jpg)
+
 # Opencv.js for blob detection in microscopic images
 
 by [aashnaaashna](../profile/aashnaaashna) June 26, 2019 21:39
 
 June 26, 2019 21:39 | Tags: [dust](../tag/dust), [pm](../tag/pm), [particle](../tag/particle), [javascript](../tag/javascript), [opencv](../tag/opencv), [image-sequencer](../tag/image-sequencer), [particle-imaging](../tag/particle-imaging), [particle-analysis](../tag/particle-analysis), [blob-detection](../tag/blob-detection), [opencv.js](../tag/opencv.js), [object-marking](../tag/object-marking), [particle-detection](../tag/particle-detection)
+
+----
 
 This is a procedural guide for using Opencv.js for blob detection in microscopic images. Opencv.js provides javascript bindings for opencv, bringing the powerful image processing operations to javascripts. It can be embedded using a script tag and it is ready for use!![image description](/i/33257.png "scriopt.png")
 

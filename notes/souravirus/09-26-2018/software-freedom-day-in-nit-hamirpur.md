@@ -14,6 +14,8 @@ by [souravirus](../profile/souravirus) September 26, 2018 13:43
 
 September 26, 2018 13:43 | Tags: [event](../tag/event), [foss](../tag/foss), [india](../tag/india), [barnstar:excessive-enthusiasm](../tag/barnstar:excessive-enthusiasm), [soc](../tag/soc), [location:blurred](../tag/location:blurred), [hamirpur](../tag/hamirpur), [lat:31.7](../tag/lat:31.7), [lon:76.52](../tag/lon:76.52), [place:nit-hamirpur](../tag/place:nit-hamirpur)
 
+----
+
 # Software freedom day
 
 ### What is this day?

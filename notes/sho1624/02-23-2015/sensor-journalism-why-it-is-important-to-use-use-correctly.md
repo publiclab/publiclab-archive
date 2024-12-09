@@ -14,6 +14,8 @@ by [sho1624](../profile/sho1624) February 23, 2015 08:51
 
 February 23, 2015 08:51 | Tags: [testing](../tag/testing), [water](../tag/water), [sensor-journalism](../tag/sensor-journalism)
 
+----
+
 Sensor journalism is an absolutely essential and pertinent niche of journalism that is on the rise. I did not have a ton of experience in the field of sensor journalism before working on project for class, however I found the work not only extremely challenging but also extremely rewarding. After reading the [Tow Report](http://towcenter.org/wp-content/uploads/2014/05/Tow-Center-Sensors-and-Journalism.pdf), listening to Lily Bui's presentation and working on a sensor journalism project myself I think that sensor journalism is an effective tool of gathering and interpreting data, however I think that it is a tool that needs to be used correctly and intelligently. 
 
 During Lily Bui’s presentation I found all the things that sensor journalism could do fascinating. I mean reporters during the Beijing Olympics used sensors to record the actual air quality in a given place on a given day to not only inform the public about safety of the athletes competing but also exposing the government of not releasing factual air quality data. I also loved the use of sensor journalism as a way to bring the community together to investigate a common issue, such as what WNYC did with the Cicada trackers. Their readers used the tools the radio station offered them such as how to assemble homemade temperature readers and provided the station the temperature of several locations in order to track the movement of cicadas and when they would emerge in the city. 

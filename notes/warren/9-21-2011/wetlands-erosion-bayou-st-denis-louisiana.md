@@ -8,10 +8,14 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/Screen shot 2011-09-21 at 1.29.04 PM.png)
+
 # Wetlands erosion in Bayou St Denis, Louisiana
 
 by [warren](../profile/warren) September 21, 2011 17:30
 
 September 21, 2011 17:30 | Tags: [gulf-coast](../tag/gulf-coast), [wetlands](../tag/wetlands), [erosion](../tag/erosion), [lousiana](../tag/lousiana), [place:bayou-st-denis](../tag/place:bayou-st-denis)
+
+----
 
 Grassroots Mapping imagery overlaid on Bing aerial imagery from unknown year.

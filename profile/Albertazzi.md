@@ -3,6 +3,8 @@ uid: 421089
 created_at: 2014-02-26 19:52:55 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/818d804dd6d923ad44062913bef4ec33)
+
 # Albertazzi
 
 

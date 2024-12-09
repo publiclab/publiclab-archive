@@ -8,11 +8,15 @@ uid: 444516
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/011/712/original/250px-Olympic_Park__London__16_April_2012.jpg)
+
 # Olympic Legacy
 
 by [mesc](../profile/mesc) September 29, 2015 19:47
 
 September 29, 2015 19:47 | Tags: 
+
+----
 
 Map the bio health of the Olympic Park.
 

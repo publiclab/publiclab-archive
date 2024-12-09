@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/018/794/original/IMG_6916.JPG)
+
 # tms-filter utility mirrored at publiclaboratory.org
 
 by [warren](../profile/warren) April 17, 2011 19:14
 
 April 17, 2011 19:14 | Tags: 
+
+----
 
 I put up a new mirror of the TMS-filter utility I created with folks at JumpStart/OpenMapsCaucasus:
 

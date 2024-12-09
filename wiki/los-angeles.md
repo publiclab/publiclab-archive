@@ -14,6 +14,8 @@ by [liz](../profile/liz), [stevie](../profile/stevie), [levisimons](../profile/l
 
 May 20, 2013 20:05 | Tags: [california](../tag/california), [tabbed:notes](../tag/tabbed:notes), [tabbed:wikis](../tag/tabbed:wikis), [lat:34.0600471](../tag/lat:34.0600471), [lon:-118.3072052](../tag/lon:-118.3072052), [list:publiclab-la](../tag/list:publiclab-la), [los-angeles](../tag/los-angeles), [la](../tag/la)
 
+----
+
 Welcome to the main page for Public Laboratory for Los Angeles.
 
 ###Public Lab Organizers in the Los Angeles area

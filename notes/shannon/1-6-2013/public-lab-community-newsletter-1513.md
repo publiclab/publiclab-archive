@@ -14,6 +14,8 @@ by [Shannon](../profile/Shannon) January 07, 2013 01:13
 
 January 07, 2013 01:13 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
 
+----
+
 Happy 2013 everyone! We're excited for what this next year holds... look forward to a NYC kickoff coming next month, watch a detailed tutorial on putting together the mini-foldable spectrometer and come visit us at the brand new New Orleans office. Enjoy!
 
 1. Getting started with the mobile spectrometer. Public Lab organizer, Chris Fastie, posted a richly detailed [note and video tutorial](http://publiclaboratory.org/notes/cfastie/1-4-2013/foldup-spectrometer-iphone) about his first experience assembling the mobile spectrometer. If you have the mobile version, or even if not, its well worth a view.

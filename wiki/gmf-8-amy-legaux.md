@@ -14,6 +14,8 @@ by [liz](../profile/liz)
 
 August 17, 2015 16:21 | Tags: [style:fancy](../tag/style:fancy)
 
+----
+
 By Amy LeGaux
 
 Published July 2015 [Grassroots Mapping Forum #8.](http://publiclab.org/forum)

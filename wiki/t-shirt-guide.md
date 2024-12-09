@@ -14,6 +14,8 @@ by [warren](../profile/warren)
 
 February 19, 2011 17:54 | Tags: [guides](../tag/guides), [illustrated-guides](../tag/illustrated-guides)
 
+----
+
 We've been talking about using a t-shirt as a means to disseminate instructional diagrams of DIY citizen science tools related to our new initiative PublicLaboratory.org. 
 
 Imagine a t-shirt which lists all the materials you need to fly a balloon mapping rig, like in the illustrated guide: http://grassrootsmapping.org/guide/

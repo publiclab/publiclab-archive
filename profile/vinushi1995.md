@@ -3,6 +3,8 @@ uid: 605818
 created_at: 2019-07-21 04:02:23 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/7cb681c9e7a041d807da42bfcc74c13f)
+
 # vinushi1995
 
 

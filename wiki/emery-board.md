@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/029/212/original/emeryboard_headerimg.png)
+
 # Emery Board Terrain Survey 
 
 by [warren](../profile/warren), [a1ahna](../profile/a1ahna), [liz](../profile/liz)
 
 February 06, 2019 19:55 | Tags: [pipeline](../tag/pipeline), [erosion](../tag/erosion), [coastalmonitoring](../tag/coastalmonitoring), [survey](../tag/survey), [shoreline](../tag/shoreline), [land-use](../tag/land-use), [method](../tag/method), [land-change](../tag/land-change), [oil-and-gas](../tag/oil-and-gas), [sedimentation](../tag/sedimentation), [activity:site-survey](../tag/activity:site-survey), [beach-mapping](../tag/beach-mapping), [terrain](../tag/terrain), [emery-board](../tag/emery-board), [landloss](../tag/landloss)
+
+----
 
 The "Emery Board" terrain survey technique is named after Kenneth O. Emery, a world renowned coastal scientist and geologist.  The original Emery Board method was designed for monitoring changes in shoreline topography and could be performed with just two meter sticks and visible horizon; **This adaptation allows you to perform the Emery Board technique in any landscape with elevation change!  **
 
@@ -22,7 +26,7 @@ This technique makes it easy to model when, where, and how much terrain changes 
 
 ## Activities
 
-[notes:grid:emery-board]
+[grid:emery-board](../../tag/grid:emery-board)
 
 
 

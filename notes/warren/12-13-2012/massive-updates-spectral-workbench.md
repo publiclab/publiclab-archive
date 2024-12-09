@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/front-page.png)
+
 # Massive updates to Spectral Workbench
 
 by [warren](../profile/warren) December 13, 2012 20:48
 
 December 13, 2012 20:48 | Tags: [spectrometer](../tag/spectrometer), [spectralworkbench](../tag/spectralworkbench), [kickstarter](../tag/kickstarter)
+
+----
 
 If you've used [Spectral Workbench](https://spectralworkbench.org) recently, you may have noticed the frenetic pace of changes over the past week. Wholly revised interfaces such as the above front-page screenshot, as well as a vastly improved (but still in-progress) mobile interface for the site (largely using Bootstrap) have accompanied bugfixes and other revisions.
 

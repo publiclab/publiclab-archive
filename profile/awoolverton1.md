@@ -3,6 +3,8 @@ uid: 778039
 created_at: 2021-11-09 05:24:45 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/778039/medium/Profile.jpg)
+
 # awoolverton1
 
 I'm currently pursuing a Masters in Environmental Policy from George Washington University and I aim to find community-based solutions towards a greener future for south Louisiana.

@@ -8,11 +8,15 @@ uid: 461120
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/016/570/original/bmp_upload_pic2.bmp)
+
 # Using Precision Measurements for Qualitative Analysis-Fluorescein in Ethanol
 
 by [dhaffnersr](../profile/dhaffnersr) June 10, 2016 08:44
 
 June 10, 2016 08:44 | Tags: 
+
+----
 
 **Abstract**
 

@@ -14,6 +14,8 @@ by [warren](../profile/warren) December 05, 2011 14:44
 
 December 05, 2011 14:44 | Tags: 
 
+----
+
 <p><b>Social Impact through Satellite Remote Sensing – Visualizing Acute and Chronic Crises beyond the Visible Spectrum</b></p>
 
 <i>by Global Pulse, <a href="http://un-spider.org">un-spider.org</a></i>

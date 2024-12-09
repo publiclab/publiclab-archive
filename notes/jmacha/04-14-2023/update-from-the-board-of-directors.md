@@ -14,6 +14,8 @@ by [jmacha](../profile/jmacha) April 14, 2023 20:25
 
 April 14, 2023 20:25 | Tags: [education](../tag/education), [barnraising](../tag/barnraising), [organizing](../tag/organizing), [air](../tag/air), [blog](../tag/blog), [water](../tag/water), [land](../tag/land)
 
+----
+
 Dear Public Lab Community,
 
 It is with a heavy heart that the Board of Directors announces Public Lab will cease formal operations at the end of April 2023. With a challenging economy and the impacts of the ongoing pandemic, we have made the difficult but necessary decision to end staff-supported programming and take most services offline. We’re grateful for your support and engagement with the Public Lab community.

@@ -8,11 +8,15 @@ uid: 422561
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/036/853/original/Aluf.jpg)
+
 # Orangetown Aluf
 
 by [stevie](../profile/stevie)
 
 December 04, 2019 14:51 | Tags: [air-quality](../tag/air-quality), [odor](../tag/odor), [project](../tag/project), [plastics](../tag/plastics), [air-quality-projects](../tag/air-quality-projects), [platstic](../tag/platstic)
+
+----
 
 ###On this page:
 
@@ -43,13 +47,13 @@ Aluf Plastics processes plastic materials (low and high density polyethylene) in
 
 ##Questions
  
-[questions:Orangetown-Aluf]
+[Orangetown-Aluf](../../tag/question:Orangetown-Aluf)
 ## Updates
 Interested in following along and supporting this issue? Subscribe to the tag below to get updates when we post new material. 
 
 <a class="btn btn-large btn-primary" href="https://publiclab.org/subscribe/tag/Orangetown-Aluf">Subscribe to updates on this project </a>
 
-[notes:Orangetown-Aluf!question:Orangetown-Aluf] 
+[Orangetown-Aluf!question:Orangetown-Aluf](../../tag/Orangetown-Aluf!question:Orangetown-Aluf) 
 <a href="/post?tags=orangetown-aluf">Add a post</a>
  
  

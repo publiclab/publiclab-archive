@@ -8,11 +8,15 @@ uid: 441262
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/021/366/original/plots-logo-transparent.jpg)
+
 # Public Lab nonprofit job posting: Kit Fulfillment Coordinator
 
 by [klie](../profile/klie) August 18, 2017 15:00
 
 August 18, 2017 15:00 | Tags: [nonprofit](../tag/nonprofit), [jobs](../tag/jobs)
+
+----
 
 **Kit Fulfillment Coordinator**
 

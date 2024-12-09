@@ -14,6 +14,8 @@ by [rjstatic-authenticated](../profile/rjstatic-authenticated), [warren](../prof
 
 December 14, 2011 19:10 | Tags: 
 
+----
+
 <a href="https://www.flickr.com/photos/jeffreywarren/6502706171/" title=" kitchen windowsill by jeferonix, on Flickr"><img src="https://farm8.staticflickr.com/7007/6502706171_d909b51495.jpg" width="500" height="375" alt=" kitchen windowsill" /></a>
 
 ##Plan:#

@@ -14,6 +14,8 @@ by [sarasage](../profile/sarasage) October 21, 2016 16:35
 
 October 21, 2016 16:35 | Tags: [waste-management](../tag/waste-management), [waste](../tag/waste), [open-water](../tag/open-water), [groundwater](../tag/groundwater), [openwater](../tag/openwater), [question:socalwastestream](../tag/question:socalwastestream)
 
+----
+
 ###How can we track the movement of biological waste in regions, such as sewage, and medical waste? 
 
 Besides CalEPA's TRI Reporting system, are there other databases that this category of waste? 

@@ -8,11 +8,15 @@ uid: 477060
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/016/727/original/Chopper_Rig.jpg)
+
 # Ball Joint KAP Rigs
 
 by [ranon](../profile/ranon) June 22, 2016 19:58
 
 June 22, 2016 19:58 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-aerial-photography](../tag/kite-aerial-photography), [aerial-photography](../tag/aerial-photography), [diy-kite](../tag/diy-kite), [kap](../tag/kap), [photo-rig](../tag/photo-rig), [aerial-mapping](../tag/aerial-mapping), [aerial-photos](../tag/aerial-photos), [kap-rigs](../tag/kap-rigs), [activity:photo-rig](../tag/activity:photo-rig)
+
+----
 
 ###Ball Joint Rigs
 

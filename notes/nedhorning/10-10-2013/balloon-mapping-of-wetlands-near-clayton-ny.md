@@ -8,11 +8,15 @@ uid: 133
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/001/874/original/BevinsCaprentersDeferno.jpg)
+
 # Balloon mapping of wetlands near Clayton, NY
 
 by [nedhorning](../profile/nedhorning) October 10, 2013 23:39
 
 October 10, 2013 23:39 | Tags: [balloon-mapping](../tag/balloon-mapping), [wetlands](../tag/wetlands), [new-york](../tag/new-york), [clayton](../tag/clayton), [lat:44.222444](../tag/lat:44.222444), [lon:-76.100406](../tag/lon:-76.100406), [place:clayton-ny](../tag/place:clayton-ny)
+
+----
 
 At the end of September I had the pleasure of working with some folks from the Thousand Islands Biological Station (TIBS - http://www.esf.edu/tibs/) which is run by the State University of New York's College of Environmental Science and Forestry. The mission was to do some balloon mapping of wetlands that they are monitoring in and around Clayton, New York. The study site is being monitored to better understand the effects of wetland restoration and enhancement techniques, including channel excavations and water level control structures.
 

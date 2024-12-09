@@ -8,11 +8,15 @@ uid: 788868
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/045/577/original/microplastics.jpg)
+
 # WAVe -Microplastic Pollution in the Mississippi River Research
 
 by [TheChessGym](../profile/TheChessGym) March 28, 2022 15:16
 
 March 28, 2022 15:16 | Tags: [microplastics](../tag/microplastics), [zoom:6](../tag/zoom:6), [lat:22.004174](../tag/lat:22.004174), [lon:76.003417](../tag/lon:76.003417)
+
+----
 
 Research into Microplastic Pollution in the Mississippi River
 

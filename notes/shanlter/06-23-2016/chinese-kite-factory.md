@@ -8,11 +8,15 @@ uid: 420999
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/016/764/original/2016-06-23_11.54.23.jpg)
+
 # Chinese kite factory 
 
 by [shanlter](../profile/shanlter) June 23, 2016 14:32
 
 June 23, 2016 14:32 | Tags: [kite](../tag/kite), [history](../tag/history), [china](../tag/china), [chinese](../tag/chinese), [factory](../tag/factory)
+
+----
 
 I happened to pass Weifang, which is one of Chinese Kite's birthplace. The old Weifang kite factory is located in a very large and well designed garden, I spent one day to explore :)
 

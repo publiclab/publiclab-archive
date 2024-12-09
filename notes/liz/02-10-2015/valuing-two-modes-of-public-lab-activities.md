@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/008/882/original/tumblr_m51woeJu3w1qzt4vjo1_r4_500.gif)
+
 # Valuing two modes of Public Lab activities
 
 by [liz](../profile/liz) February 10, 2015 21:04
 
 February 10, 2015 21:04 | Tags: [community](../tag/community), [with:warren](../tag/with:warren)
+
+----
 
 _Lead image by [DVDP](http://dvdp.tumblr.com/post/24339504298/120603)_
 

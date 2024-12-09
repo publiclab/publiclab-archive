@@ -3,6 +3,8 @@ uid: 792901
 created_at: 2022-03-27 19:35:38 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/792901/medium/557247.jpg)
+
 # Thekachi
 
 Hi, 👋 I'm a Frontend Developer. 

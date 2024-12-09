@@ -8,11 +8,15 @@ uid: 12
 
 ---
 
+![](https://publiclab.org/sites/default/files/2011-2-25-louisiana-barataria-bay-jimmy-east-oblique_0.jpg)
+
 # Oblique aerial of Bay Jimmy - Wilkinson Bayou
 
 by [gonzoearth](../profile/gonzoearth) December 30, 2011 00:14
 
 December 30, 2011 00:14 | Tags: [oblique](../tag/oblique), [airplane](../tag/airplane), [bayjimmy](../tag/bayjimmy)
+
+----
 
 Looking at the East side of Bay Jimmy, with Wilkinson Bayou in the background
 

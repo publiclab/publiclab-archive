@@ -14,6 +14,8 @@ by [warren](../profile/warren)
 
 December 04, 2018 17:30 | Tags: [security](../tag/security), [locked](../tag/locked), [privacy](../tag/privacy), [risk](../tag/risk), [parent:privacy](../tag/parent:privacy)
 
+----
+
 ### Public Lab privacy and security guidelines
 
 This document contains policies and recommendations followed by Public Lab staff for keeping digital data, devices, and private or sensitive data secure. 
@@ -47,4 +49,4 @@ Get the full document here:
 
 ## Questions
 
-[questions:security]
+[security](../../tag/question:security)

@@ -14,6 +14,8 @@ by [Shannon](../profile/Shannon), [liz](../profile/liz), [adam-griffith](../prof
 
 September 26, 2011 15:34 | Tags: 
 
+----
+
 ##Options##
 
 * Plane - nearby airports - Charlotte, NC (2 hrs) and Greenville-Spartanburg, SC (1.2 hrs)

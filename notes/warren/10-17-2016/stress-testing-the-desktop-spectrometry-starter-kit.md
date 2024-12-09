@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/018/419/original/IMG_20161014_202841-2.jpg)
+
 # Stress-testing the Desktop Spectrometry Starter Kit
 
 by [warren](../profile/warren) October 17, 2016 17:00
 
 October 17, 2016 17:00 | Tags: [spectrometer](../tag/spectrometer), [kits](../tag/kits), [leaffest](../tag/leaffest), [spectrometry](../tag/spectrometry), [testing](../tag/testing), [parts-and-crafts](../tag/parts-and-crafts), [activity:spectrometry](../tag/activity:spectrometry), [difficulty:medium](../tag/difficulty:medium), [activity:dssk](../tag/activity:dssk), [category:test-limits](../tag/category:test-limits), [status:in-progress](../tag/status:in-progress), [time:1h](../tag/time:1h), [stress-testing](../tag/stress-testing), [rigidity](../tag/rigidity)
+
+----
 
 At Wednesday's [Open Hardware Documentation Night][1], hosted by Parts & Crafts, @wmacfarl and I used the time to run and document some tests on the rigidity and robustness of the [Desktop Spectrometry Starter Kit][2].
 

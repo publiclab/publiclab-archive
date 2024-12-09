@@ -8,11 +8,15 @@ uid: 12
 
 ---
 
+![](https://publiclab.org/sites/default/files/2013-01-17-louisiana-bayou-bienvenue-oblique-main-outfall-canal-field-crew.png)
+
 # Bayou Bienvenue Kite Mappers
 
 by [gonzoearth](../profile/gonzoearth) February 15, 2013 18:32
 
 February 15, 2013 18:32 | Tags: [gulf-coast](../tag/gulf-coast), [kite-mapping](../tag/kite-mapping), [bienvenue](../tag/bienvenue)
+
+----
 
 Part of the team in action kite mapping Bayou Bienvenue
 

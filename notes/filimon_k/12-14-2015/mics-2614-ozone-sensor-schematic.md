@@ -8,11 +8,15 @@ uid: 460113
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/013/301/original/mics_schem.png)
+
 # MiCS-2614 Ozone sensor schematic
 
 by [filimon_k](../profile/filimon_k) December 14, 2015 03:20
 
 December 14, 2015 03:20 | Tags: [sensing](../tag/sensing), [ozone](../tag/ozone)
+
+----
 
 This is the current circuit we are using for our MiCS-2614 Ozone sensors. 
 

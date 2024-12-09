@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/031/832/original/IMG_20190118_205609_421_copy.jpg)
+
 # A big WELCOME to our Outreachy/GSoC team for 2019!
 
 by [warren](../profile/warren) May 06, 2019 18:33
 
 May 06, 2019 18:33 | Tags: [gsoc](../tag/gsoc), [blog](../tag/blog), [code](../tag/code), [soc](../tag/soc), [outreachy](../tag/outreachy), [gsoc-2019](../tag/gsoc-2019), [soc-2019](../tag/soc-2019)
+
+----
 
 Hi, all! I wanted to reach out because we will have a record-size team this summer, between 2 Outreachy and 13 GSoC fellows --- we've never had a group this big! We also have a bigger mentor group, but we will certainly need students to help one another. I wanted to reach out and welcome everyone, but also set the tone for the kind of mutual support we will need to succeed together.
 
@@ -28,4 +32,4 @@ A note to those who we weren't able to accept in this year's program: we had ove
 
 ## Projects
 
-[notes:soc-2019-projects]
+[soc-2019-projects](../../tag/soc-2019-projects)

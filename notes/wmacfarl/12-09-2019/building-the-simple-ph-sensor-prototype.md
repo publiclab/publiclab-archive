@@ -8,11 +8,15 @@ uid: 424597
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/036/925/original/ph_sensor_build.jpg)
+
 # How to Connect a pH Sensor to the Simple Water Sensor Platform
 
 by [wmacfarl](../profile/wmacfarl) December 09, 2019 02:37
 
 December 09, 2019 02:37 | Tags: [arduino](../tag/arduino), [sensors](../tag/sensors), [water-quality](../tag/water-quality), [turbidity](../tag/turbidity), [new](../tag/new), [ph](../tag/ph), [draft](../tag/draft), [time:3h](../tag/time:3h), [include](../tag/include), [activity:arduino](../tag/activity:arduino), [water-sensors](../tag/water-sensors), [activity:water-sensors](../tag/activity:water-sensors), [status:request](../tag/status:request), [oil-and-gas-water-trio](../tag/oil-and-gas-water-trio), [oil-and-gas-water-quality](../tag/oil-and-gas-water-quality), [activity:oil-and-gas-water-quality](../tag/activity:oil-and-gas-water-quality), [simple-water-sensor-platform](../tag/simple-water-sensor-platform), [activity:simple-water-sensor-platform](../tag/activity:simple-water-sensor-platform)
+
+----
 
 # Purpose
 

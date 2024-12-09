@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/002/405/original/Screen_Shot_2013-12-12_at_11.00.16_AM.png)
+
 # New beta capture interface for Spectral Workbench
 
 by [warren](../profile/warren) December 12, 2013 16:07
 
 December 12, 2013 16:07 | Tags: [spectrometer](../tag/spectrometer), [spectralworkbench](../tag/spectralworkbench)
+
+----
 
 I've been working in my spare time on a new interface for capturing spectra, pictured above, which is available at:
 

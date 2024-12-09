@@ -8,11 +8,15 @@ uid: 4
 
 ---
 
+![](https://publiclab.org/sites/default/files/IMG_5168_crop.jpg)
+
 # printable scale targets for cataloging camera & phone dimensions
 
 by [mathew](../profile/mathew) July 12, 2012 19:56
 
 July 12, 2012 19:56 | Tags: [balloon-mapping](../tag/balloon-mapping), [spectrometer](../tag/spectrometer), [kite-mapping](../tag/kite-mapping)
+
+----
 
 In this photo I used the scale linked below and traced my camera's vertical profile onto the page, then photographed everything in the bathroom mirror to get the exact dimensions of my canon S90.
 

@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/010/998/original/IMG_5744.JPG)
+
 # Hunter's Point South
 
 by [liz](../profile/liz) August 02, 2015 16:57
 
 August 02, 2015 16:57 | Tags: [new-york-city](../tag/new-york-city), [kite-mapping](../tag/kite-mapping), [queens](../tag/queens), [northeast](../tag/northeast), [hunters-point-south](../tag/hunters-point-south)
+
+----
 
 ###What's going on
 

@@ -8,11 +8,15 @@ uid: 462290
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/013/799/original/2015_hhllc_araial.png)
+
 # Gather and analyze long term solar and wind data for my locale
 
 by [wjw](../profile/wjw) January 25, 2016 01:09
 
 January 25, 2016 01:09 | Tags: [arduino](../tag/arduino), [wisconsin](../tag/wisconsin), [wind](../tag/wind), [monitoring](../tag/monitoring), [weather](../tag/weather), [solar](../tag/solar), [activity:arduino](../tag/activity:arduino), [activity:weather](../tag/activity:weather), [activity:wind](../tag/activity:wind), [activity:solar](../tag/activity:solar)
+
+----
 
 ###What I want to do
 There is some good data regarding wind and solar provided by various organizations via the web.  However, getting data for an area that is really local is not so simple.  When the topography is like that of the South Western Driftless area in WI, (Grant County) making a decision about whether and how much solar and wind might be worth installing on a given site boils down to measuring at that site.  Hills and valleys and the way they are arranged can have an impact on determining what is, or is not feasible to invest in.

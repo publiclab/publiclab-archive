@@ -8,11 +8,15 @@ uid: 664477
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/040/123/original/No_planet_B_sign.jpg)
+
 # Law and Policy
 
 by [bhamster](../profile/bhamster), [liz](../profile/liz)
 
 July 08, 2020 16:05 | Tags: [evidence](../tag/evidence), [reporting](../tag/reporting), [legal](../tag/legal), [regulations](../tag/regulations), [advocacy](../tag/advocacy), [enforcement](../tag/enforcement), [public-comment](../tag/public-comment), [permits](../tag/permits), [federal-regulations](../tag/federal-regulations), [state-regulations](../tag/state-regulations), [environmental-regulations](../tag/environmental-regulations), [parent:advocacy](../tag/parent:advocacy), [law-and-policy](../tag/law-and-policy)
+
+----
 
 How do laws, regulations, policies, and community science affect each other? Community-collected data has the power to prompt local, state, or federal action by alerting government agencies to an issue. Failures and gaps at the regulatory level are often what leads communities to do their own environmental monitoring and advocacy work. At the same time, laws will affect how community scientists can collect their data for maximum potential impact. 
 
@@ -50,7 +54,7 @@ _**What other resources related to law and policy would be helpful to collect he
 
 Questions tagged with `question:law-and-policy` will appear here
 
-[questions:law-and-policy]
+[law-and-policy](../../tag/question:law-and-policy)
 
 <br>
 
@@ -58,7 +62,7 @@ Questions tagged with `question:law-and-policy` will appear here
 
 Activities on Public Lab that have been tagged with `law-and-policy` will appear here
 
-[activities:law-and-policy]
+[law-and-policy](../../tag/activity:law-and-policy)
 
 <hr>
 
@@ -85,7 +89,7 @@ You can find the full posts on “Citizen Science Investigations: aka 'Common Le
 
 The posts below include discussions and information on how community-collected data can become evidence in a legal case.
 
-[notes:grid:series:evidence-project]
+[grid:series:evidence-project](../../tag/grid:series:evidence-project)
 
 
 <hr>

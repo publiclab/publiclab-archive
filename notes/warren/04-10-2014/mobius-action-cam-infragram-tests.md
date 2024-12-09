@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/003/602/original/Screen_Shot_2014-04-10_at_11.45.44_AM.png)
+
 # Mobius Action Cam Infragram tests
 
 by [warren](../profile/warren) April 10, 2014 15:46
 
 April 10, 2014 15:46 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [infragram](../tag/infragram), [infragram-sandbox](../tag/infragram-sandbox), [mobius-actioncam](../tag/mobius-actioncam), [response:9293](../tag/response:9293), [response:9302](../tag/response:9302), [response:9325](../tag/response:9325), [response:9296](../tag/response:9296)
+
+----
 
 ###What I want to do
 

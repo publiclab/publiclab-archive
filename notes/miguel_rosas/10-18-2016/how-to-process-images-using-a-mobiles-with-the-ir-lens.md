@@ -14,6 +14,8 @@ by [miguel_rosas](../profile/miguel_rosas) October 18, 2016 16:43
 
 October 18, 2016 16:43 | Tags: [ndvi](../tag/ndvi), [ir](../tag/ir), [lens](../tag/lens), [mobius](../tag/mobius), [question:infragram](../tag/question:infragram), [answered](../tag/answered), [question:infrared](../tag/question:infrared), [question:multispectral-imaging](../tag/question:multispectral-imaging), [whitebalance](../tag/whitebalance), [question:mobius](../tag/question:mobius), [question:infragram-point-shoot](../tag/question:infragram-point-shoot)
 
+----
+
 ###What I want to do or know
  Using a mobius camera with the IR Lens form public lab can I calculate NDVI operating the red and near infrared band as its formula suggests (since the modified lend substitutes blue with near infrared) ?? do I still need the white balance???
 

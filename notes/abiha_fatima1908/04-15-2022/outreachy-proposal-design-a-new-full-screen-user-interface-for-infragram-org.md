@@ -8,11 +8,15 @@ uid: 793042
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/045/781/original/outreachy-logo.png)
+
 # Outreachy proposal: Design a new full-screen user interface for Infragram.org
 
 by [abiha_fatima1908](../profile/abiha_fatima1908) April 15, 2022 12:38
 
 April 15, 2022 12:38 | Tags: [software](../tag/software), [outreachy](../tag/outreachy), [first-time-poster](../tag/first-time-poster), [outreachy-2022](../tag/outreachy-2022), [outreachy-summer-2022](../tag/outreachy-summer-2022)
+
+----
 
 ---------
 

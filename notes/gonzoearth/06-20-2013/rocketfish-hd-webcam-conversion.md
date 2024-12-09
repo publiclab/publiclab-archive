@@ -8,11 +8,15 @@ uid: 12
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/000/549/original/IMG_0022.JPG)
+
 # Rocketfish hd webcam conversion 
 
 by [gonzoearth](../profile/gonzoearth) June 20, 2013 22:39
 
 June 20, 2013 22:39 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [conversion](../tag/conversion), [infragram](../tag/infragram), [response:8285](../tag/response:8285), [infragram-conversion](../tag/infragram-conversion), [armroyjem](../tag/armroyjem)
+
+----
 
 I converted a Rocketfish HD webcam (model RF-HDWEB10) for infrablue by removing the IR filter and adding a piece of Rosco 2007. 
 

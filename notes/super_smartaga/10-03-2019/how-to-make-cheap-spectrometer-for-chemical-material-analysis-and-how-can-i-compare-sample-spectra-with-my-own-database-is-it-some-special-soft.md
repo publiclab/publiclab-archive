@@ -14,6 +14,8 @@ by [super_smartaga](../profile/super_smartaga) October 03, 2019 04:58
 
 October 03, 2019 04:58 | Tags: [spectra](../tag/spectra), [cheap](../tag/cheap), [chemical](../tag/chemical), [question:general](../tag/question:general), [affordable](../tag/affordable), [first-time-poster](../tag/first-time-poster), [material](../tag/material)
 
+----
+
 I think it's possible,but I can't understand,how to make this from affordable matireals..
 
 And about soft.

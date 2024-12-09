@@ -14,6 +14,8 @@ by [vvincent](../profile/vvincent) February 23, 2015 19:07
 
 February 23, 2015 19:07 | Tags: [conductivity](../tag/conductivity), [northeast](../tag/northeast), [salt](../tag/salt), [sensor-journalism](../tag/sensor-journalism), [first-time-poster](../tag/first-time-poster)
 
+----
+
 Virginia Vincent
 
 The idea of sensor journalism was initially a waste of time to me. I didn’t understand why journalists would take public health and safety into their own hands. I assumed that only scientists or local public health officers would make it a priority to annually check our water systems and journalist would just report their findings. When the assignment to test the salinity in our water systems was given, my thoughts initially began to change. 

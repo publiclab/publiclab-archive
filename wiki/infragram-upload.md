@@ -14,6 +14,8 @@ by [warren](../profile/warren)
 
 September 11, 2020 18:36 | Tags: [parent:infragram](../tag/parent:infragram)
 
+----
+
 These are images uploaded from https://infragram.org, a site for analyzing plant health with near-infrared imagery. Learn more at https://publiclab.org/infragram.
 
-[notes:grid:infragram-upload]
+[grid:infragram-upload](../../tag/grid:infragram-upload)

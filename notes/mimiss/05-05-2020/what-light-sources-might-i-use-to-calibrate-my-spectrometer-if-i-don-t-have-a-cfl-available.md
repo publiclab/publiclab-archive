@@ -14,6 +14,8 @@ by [mimiss](../profile/mimiss) May 05, 2020 13:14
 
 May 05, 2020 13:14 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [spectrometer-calibration](../tag/spectrometer-calibration), [spectral-workbench](../tag/spectral-workbench), [question:spectrometer](../tag/question:spectrometer), [question:spectrometry](../tag/question:spectrometry), [question:spectral-workbench](../tag/question:spectral-workbench), [question:general](../tag/question:general), [general](../tag/general), [location:blurred](../tag/location:blurred), [lon:10](../tag/lon:10), [question:spectrometer-calibration](../tag/question:spectrometer-calibration), [zoom:6](../tag/zoom:6), [lego-spec](../tag/lego-spec), [question:lego-spec](../tag/question:lego-spec), [lat:63](../tag/lat:63), [place:norway](../tag/place:norway)
 
+----
+
 I'm interested in working with the LEGO spectrometer but I don't have a CFL at this time. Short of ordering one, what are some other ways that I could get started?
 
 This figure from an unrelated paper has some details on the emission spectra of different light sources: https://www.researchgate.net/figure/Emission-spectra-of-different-light-sources-a-incandescent-tungsten-light-bulb-b_fig1_312320039

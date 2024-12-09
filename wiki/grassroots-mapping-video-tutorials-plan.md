@@ -14,6 +14,8 @@ by [mathew](../profile/mathew), [gonzoearth](../profile/gonzoearth)
 
 August 05, 2011 18:05 | Tags: 
 
+----
+
 We're preparing to make a series of tutorial videos for kite and balloon mapping, and want to know what you'd like to see, what resources are already out there, and what you'd like to help with.  The goal is that each video will be short, from 15 seconds to just over a minute, and narrowly focused on one specific task.
 
 Here are the videos we were thinking of doing. Feel free to add to the list, or add a tutorial or video that you like that already covers the topic:

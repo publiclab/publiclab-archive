@@ -8,11 +8,15 @@ uid: 577881
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/030/906/original/thumnail.jpeg)
+
 # SOC proposal: Extend Leaflet Environmental Layers with new layer menu and layer addition workflow
 
 by [anan12](../profile/anan12) April 01, 2019 14:48
 
 April 01, 2019 14:48 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [soc](../tag/soc), [outreachy](../tag/outreachy), [response:17359](../tag/response:17359), [gsoc-2019](../tag/gsoc-2019), [soc-2019](../tag/soc-2019), [outreachy-2019](../tag/outreachy-2019), [soc-2019-proposals](../tag/soc-2019-proposals), [outreachy-2019-proposals](../tag/outreachy-2019-proposals), [soc-2019-projects](../tag/soc-2019-projects)
+
+----
 
 ---------
 

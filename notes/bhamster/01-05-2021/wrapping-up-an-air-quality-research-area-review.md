@@ -8,11 +8,15 @@ uid: 664477
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/042/301/original/Taiwan_latest_thumbnail.gif)
+
 # Wrapping up an air quality research area review
 
 by [bhamster](../profile/bhamster) January 05, 2021 23:44
 
 January 05, 2021 23:44 | Tags: [research](../tag/research), [air-quality](../tag/air-quality), [taiwan](../tag/taiwan), [reviews](../tag/reviews), [research-area-review](../tag/research-area-review)
+
+----
 
 _Image: Visualization of PM2.5 levels over 24 hours in Taiwan, from the [LASS PM2.5 Open Data Portal](https://pm25.lass-net.org/). [CC BY NC SA](http://creativecommons.org/licenses/by-nc-sa/4.0/)._
 

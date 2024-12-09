@@ -8,11 +8,15 @@ uid: 46673
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/008/528/original/Barnraising_Group_Shot_Fall_2014.jpg)
+
 # Join Public Lab in building healthier communities in 2015
 
 by [Becki](../profile/Becki) December 23, 2014 18:09
 
 December 23, 2014 18:09 | Tags: 
+
+----
 
 Show your support for polluter accountability and healthy communities in 2015 by making a tax deductible donation to Public Lab. **Over the holiday season, our goal is to raise $5,000 in individual donations.** Thanks to your generosity on #GivingTuesday, we’re 20% of the way there - help us reach our goal by December 31st!
 

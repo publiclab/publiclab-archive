@@ -14,6 +14,8 @@ by [Bronwen](../profile/Bronwen), [warren](../profile/warren), [Shannon](../prof
 
 July 20, 2011 20:18 | Tags: [barnraising](../tag/barnraising)
 
+----
+
 <meta http-equiv="refresh" content="0; URL='https://publiclab.org/barnraising#Past+Barnraisings:'" />
 
 <img width="500px" src="https://publiclab.org/sites/default/files/barn-raising.jpeg" />

@@ -8,11 +8,15 @@ uid: 540844
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/037/791/original/3M_N95_Particulate_Respirator.jpeg)
+
 # Can people make their own masks to protect from coronavirus?
 
 by [joyofsoy](../profile/joyofsoy) January 27, 2020 20:09
 
 January 27, 2020 20:09 | Tags: [air-quality](../tag/air-quality), [indoor-air-quality](../tag/indoor-air-quality), [question:general](../tag/question:general), [general](../tag/general), [zoom:6](../tag/zoom:6), [lat:22.319303](../tag/lat:22.319303), [lon:114.169361](../tag/lon:114.169361)
+
+----
 
 This question was submitted via email by a community partner:
 

@@ -14,6 +14,8 @@ by [warren](../profile/warren)
 
 September 08, 2017 15:44 | Tags: [methods](../tag/methods), [organization](../tag/organization)
 
+----
+
 The word "method" has different meanings in different spheres, at Public Lab we use it to mean any technique, approach, or set of techniques to achieve something. You can see a selection of them at the [Methods page](/methods), or post a new one using the instructions here:
 
 <a class="btn btn-primary" href="/wiki/new?n=14552&title=Your method name here">Post a new method here</a>
@@ -33,11 +35,11 @@ A **much** more complete description of methods [can be found here](https://publ
 
 ## Questions
 
-[questions:methods]
+[methods](../../tag/question:methods)
 
 ## Activities
 
-[activities:methods]
+[methods](../../tag/activity:methods)
 
 ****
 

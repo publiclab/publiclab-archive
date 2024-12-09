@@ -14,6 +14,8 @@ by [gonzoearth](../profile/gonzoearth) July 23, 2012 18:58
 
 July 23, 2012 18:58 | Tags: 
 
+----
+
 
                 <div>
                     DigitalGlobe and GeoEye are now together known as DigitalGlobe

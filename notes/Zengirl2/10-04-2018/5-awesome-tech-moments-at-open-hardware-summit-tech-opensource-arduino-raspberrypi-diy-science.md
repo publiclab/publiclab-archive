@@ -8,11 +8,15 @@ uid: 423961
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/026/766/original/Badge.jpg)
+
 # 5 Awesome Tech Moments at Open Hardware Summit #tech #opensource #Arduino #raspberrypi #diy #science
 
 by [zengirl2](../profile/zengirl2) October 04, 2018 20:09
 
 October 04, 2018 20:09 | Tags: [arduino](../tag/arduino), [boston](../tag/boston), [open-source](../tag/open-source), [open-hardware](../tag/open-hardware), [event](../tag/event), [massachusetts](../tag/massachusetts), [northeast](../tag/northeast), [oshwa](../tag/oshwa)
+
+----
 
 Open Source Hardware Association (OSHWA) recently held its Open Hardware Summit in Boston. For me this is one of the few times during the year that I get to hear about open source hardware projects directly from creators and users. It's also a fine time to play with some tech on location and network with people that have the DIY bug. Public Lab was in the mix with Jeff Warren talking up his reverse engineered toaster design for [OSHWA's new certification process](https://certification.oshwa.org/) and Bronwen Densmore wielding the new [community microscope kit](https://store.publiclab.org/collections/education/products/microscope?variant=8179759612011). Here's some of my fave moments at the summit:
 

@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/023/677/original/Screen_Shot_2018-02-21_at_3.57.46_PM.png)
+
 # What do you think about this new design sketch for a Welcome page?
 
 by [warren](../profile/warren) February 21, 2018 22:32
 
 February 21, 2018 22:32 | Tags: [website](../tag/website), [organizers](../tag/organizers), [design](../tag/design), [answered](../tag/answered), [newcomers](../tag/newcomers), [onboarding](../tag/onboarding), [ui](../tag/ui), [question:ui](../tag/question:ui), [question:design](../tag/question:design), [welcoming](../tag/welcoming), [comment-template:ui-feedback-template](../tag/comment-template:ui-feedback-template)
+
+----
 
 Hi, all - i'm taking a crack at a new visual organization of a Welcoming Page, starting with the existing content but then starting to think about content a bit after the basic visual organization of the page works.
 

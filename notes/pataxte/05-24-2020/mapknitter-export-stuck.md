@@ -14,6 +14,8 @@ by [pataxte](../profile/pataxte) May 24, 2020 17:01
 
 May 24, 2020 17:01 | Tags: [mapknitter](../tag/mapknitter), [question:general](../tag/question:general), [general](../tag/general)
 
+----
+
 Trying to export a couple of maps on mapknitter but they have gotten stuck in the compositing stage. They are high res (@warren helped me with this a couple of weeks ago). Export seemed to be working fine, and then stuck over the last couple of days. Map is "2020\_bean\_bed"
 
 thx

@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/022/196/original/OI000055.jpg)
+
 # What's happening at the 2017 Barnraising?
 
 by [warren](../profile/warren) November 03, 2017 17:45
 
 November 03, 2017 17:45 | Tags: [gulf-coast](../tag/gulf-coast), [louisiana](../tag/louisiana), [documentation](../tag/documentation), [cocodrie](../tag/cocodrie), [barnraising](../tag/barnraising), [great-photos](../tag/great-photos), [doccom](../tag/doccom), [barnraiser](../tag/barnraiser), [question:barnraising](../tag/question:barnraising), [barnraising-2017](../tag/barnraising-2017), [question:barnraiser](../tag/question:barnraiser)
+
+----
 
 This is a page for folks to post notes, pictures, etc to as the Barnraising unfolds. We'll also be posting to:
 

@@ -8,11 +8,15 @@ uid: 461120
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/016/062/original/smaller_camera_pic3.png)
+
 # New upgrade today for my spectrometer/New CCD camera module
 
 by [dhaffnersr](../profile/dhaffnersr) May 09, 2016 19:22
 
 May 09, 2016 19:22 | Tags: 
+
+----
 
 I replaced the old webcam that came with the plab spectrometer kit today with a newer and far superior ccd camera module and ran a series of testing and she is working great!!
 

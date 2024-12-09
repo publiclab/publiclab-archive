@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/001/834/original/Screen_Shot_2013-10-09_at_1.57.17_PM.png)
+
 # Trying to detect emission lines in flare spectra from Chalmette
 
 by [warren](../profile/warren) October 09, 2013 18:15
 
 October 09, 2013 18:15 | Tags: [gulf-coast](../tag/gulf-coast), [spectrometer](../tag/spectrometer), [louisiana](../tag/louisiana), [analysis](../tag/analysis), [emission-spectroscopy](../tag/emission-spectroscopy), [spectral-analysis](../tag/spectral-analysis), [spectral-workbench](../tag/spectral-workbench), [flare](../tag/flare), [smoothing](../tag/smoothing), [chalmette](../tag/chalmette), [response:8946](../tag/response:8946), [response:8944](../tag/response:8944), [location:blurred](../tag/location:blurred), [lat:29](../tag/lat:29), [lon:-89](../tag/lon:-89), [place:chalmette-la](../tag/place:chalmette-la)
+
+----
 
 [![Screen_Shot_2013-10-09_at_1.57.17_PM.png](https://i.publiclab.org/system/images/photos/000/001/840/original/Screen_Shot_2013-10-09_at_1.57.17_PM.png)](https://i.publiclab.org/system/images/photos/000/001/840/original/Screen_Shot_2013-10-09_at_1.57.17_PM.png)
 

@@ -14,6 +14,8 @@ by [jmsaavedra](../profile/jmsaavedra), [liz](../profile/liz)
 
 February 11, 2013 22:01 | Tags: [epa](../tag/epa), [cypress-hills](../tag/cypress-hills), [chaq](../tag/chaq)
 
+----
+
 <h3><a href="/wiki/air-quality-class">Class Home</a></h3>
 
 <h3>Getting Started</h3>

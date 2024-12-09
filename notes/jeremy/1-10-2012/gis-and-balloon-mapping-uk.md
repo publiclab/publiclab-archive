@@ -8,11 +8,15 @@ uid: 323
 
 ---
 
+![](https://publiclab.org/sites/default/files/393444_10100724417722978_10713121_59788487_343083522_n.jpg)
+
 # GIS and balloon mapping at UK
 
 by [jeremy](../profile/jeremy) January 10, 2012 17:57
 
 January 10, 2012 17:57 | Tags: 
+
+----
 
 Spring semester is just about to begin and here at the University of Kentucky we'll be doing much more balloon and kite mapping to follow up from our initial forays last fall.
 

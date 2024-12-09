@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/019/590/original/IMG_20170216_185258.jpg)
+
 # What seeds sprout fastest?
 
 by [warren](../profile/warren) February 18, 2017 22:48
 
 February 18, 2017 22:48 | Tags: [testing](../tag/testing), [timelapse](../tag/timelapse), [answered](../tag/answered), [chia-seeds](../tag/chia-seeds), [seeds](../tag/seeds), [sprouts](../tag/sprouts), [trial-run](../tag/trial-run), [question:trial-run](../tag/question:trial-run)
+
+----
 
 I'm working on the [Timelapse Kit](/wiki/timelapse), and want to create an activity to "test run" a camera indoors over a shorter span of time before doing in the field monitoring (see #timelapse for some folks doing this).
 

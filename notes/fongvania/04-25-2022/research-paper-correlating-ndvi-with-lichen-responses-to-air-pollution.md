@@ -8,11 +8,15 @@ uid: 754846
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/046/514/original/8418527367_20acb1828c_b.jpg)
+
 # Research Paper: Correlating NDVI with Lichen Responses to Air Pollution
 
 by [fongvania](../profile/fongvania) April 25, 2022 06:50
 
 April 25, 2022 06:50 | Tags: [ndvi](../tag/ndvi), [nir](../tag/nir), [spectrometry](../tag/spectrometry), [air-quality](../tag/air-quality), [photosynthesis](../tag/photosynthesis), [academic-journal](../tag/academic-journal), [lichen](../tag/lichen), [research-curation-fellows](../tag/research-curation-fellows), [bioindicators](../tag/bioindicators)
+
+----
 
 *Cover Image: Photo by Ken-ichi Ueda,  [Flickr][1], [CC BY-NC 2.0][2]*
 

@@ -8,11 +8,15 @@ uid: 759178
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/044/787/original/SheetMappercover.PNG)
+
 # Data Visualization with Sheet Mapper: How to connect a live spreadsheet to a web map
 
 by [laurel_mire](../profile/laurel_mire) September 09, 2021 19:27
 
 September 09, 2021 19:27 | Tags: [mapping](../tag/mapping), [mapbox](../tag/mapbox), [web-mapping](../tag/web-mapping), [data-visualization](../tag/data-visualization), [research-curation-fellows](../tag/research-curation-fellows), [presenting-data](../tag/presenting-data), [activity:presenting-data](../tag/activity:presenting-data), [air-quality-data](../tag/air-quality-data), [data-visualization-tool](../tag/data-visualization-tool), [activity:air-quality-data](../tag/activity:air-quality-data)
+
+----
 
 ## Purpose
 

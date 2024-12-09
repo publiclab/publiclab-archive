@@ -8,11 +8,15 @@ uid: 525958
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/038/394/original/gsoc.png)
+
 # Call for 2020 GSoC proposals
 
 by [cess](../profile/cess) March 02, 2020 07:25
 
 March 02, 2020 07:25 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [soc](../tag/soc), [lat:0](../tag/lat:0), [lon:0](../tag/lon:0), [outreachy](../tag/outreachy), [call-for-proposals](../tag/call-for-proposals), [zoom:1](../tag/zoom:1)
+
+----
 
 ### Google Summer of Code  [](https://publiclab.org/notes/warren/02-28-2019/call-for-summer-of-code-2019-proposals#Outreachy+and+GSoC)
 
@@ -60,13 +64,13 @@ Also see [2019's proposals here](https://publiclab.org/notes/warren/02-28-2019/c
 
 ## Proposals 
 
-[notes:soc-2020-proposals]
+[soc-2020-proposals](../../tag/soc-2020-proposals)
 
 ---------
 
 ## Questions 
 
-[questions:soc-2020-proposals]
+[soc-2020-proposals](../../tag/question:soc-2020-proposals)
 
 ---------
 

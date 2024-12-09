@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/Building_thermal_imaging.jpg)
+
 # Expensive and over-engineered heat mapping is inaccessible and illegible to homeowners
 
 by [warren](../profile/warren) January 20, 2012 23:10
 
 January 20, 2012 23:10 | Tags: 
+
+----
 
 The title of this post is what I would've entitled this article about a centralized and scientist-serving heat leak detection program at MIT. But I'm sure they mean well... and the title of the blog is of course "Government technologies": http://www.govtech.com/technology/Drive-By-Thermal-Imaging-Quantifies-Energy-Loss.html
 

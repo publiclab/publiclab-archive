@@ -14,6 +14,8 @@ by [chross](../profile/chross) June 26, 2019 09:01
 
 June 26, 2019 09:01 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [light](../tag/light), [first-time-poster](../tag/first-time-poster), [diffraction](../tag/diffraction)
 
+----
+
 I'm currently building my first spectrometer and have some questions to the more advanced builders out there:
 
 1) I want to use a collimator lens to make the light beams entering the diffraction grating parallel. Do you have any experience with using a collimator? What kind would you use?

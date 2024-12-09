@@ -3,6 +3,8 @@ uid: 498910
 created_at: 2016-12-04 00:04:21 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/7bc436696c6f6230d6a31015ff3b9c2d)
+
 # glennwalquist
 
 I am a small animal Veterinarian processing in Ludington, MI.

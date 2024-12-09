@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/021/069/original/2016_0210_102917_227.JPG)
+
 # Photos from a kite mapping party in Somerville
 
 by [warren](../profile/warren) July 07, 2017 19:30
 
 July 07, 2017 19:30 | Tags: [somerville-massachusetts](../tag/somerville-massachusetts), [kite-mapping](../tag/kite-mapping), [boston](../tag/boston), [aerial-photography](../tag/aerial-photography), [event](../tag/event), [somerville](../tag/somerville), [massachusetts](../tag/massachusetts), [northeast](../tag/northeast), [mini-kite-kit](../tag/mini-kite-kit), [kite-mapping-party](../tag/kite-mapping-party), [mapping-party](../tag/mapping-party), [prospect-hill](../tag/prospect-hill), [squid-kite](../tag/squid-kite)
+
+----
 
 Hi, all - we had a great #kite-mapping-party on Monday evening, over a dozen people came out to map, and we flew all kinds of kites -- squid shaped, frog shaped, and the classic [9-foot delta ](https://publiclab.myshopify.com/collections/mapping-kits)[kites](https://publiclab.myshopify.com/collections/mapping-kits) as the wind died down. 
 

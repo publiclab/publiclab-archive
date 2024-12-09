@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/001/267/original/mozfest.png)
+
 # Public Lab sessions @ Mozfest, Oct 25-7 2013
 
 by [warren](../profile/warren) August 21, 2013 17:54
 
 August 21, 2013 17:54 | Tags: [london](../tag/london), [citizen-science](../tag/citizen-science), [workshop](../tag/workshop), [uk](../tag/uk), [event](../tag/event), [mozfest](../tag/mozfest), [mozilla](../tag/mozilla)
+
+----
 
 [Mozfest](mozillafestival.org), or the Mozilla Festival, is an annual "future of the web" festival, which this year will be on October 25 – 27 in London. I went last year and this year Public Lab will be taking a more active role, hopefully running at least a session and possibly having a booth in the Science and the Web area. Anyhow, I proposed 2 sessions, so check them out, and (if you can?) vote for them! 
 

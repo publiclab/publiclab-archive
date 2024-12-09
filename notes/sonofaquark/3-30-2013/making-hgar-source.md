@@ -8,11 +8,15 @@ uid: 54330
 
 ---
 
+![](https://publiclab.org/sites/default/files/argon.JPG)
+
 # making a HgAr source
 
 by [sonofaquark](../profile/sonofaquark) March 30, 2013 17:20
 
 March 30, 2013 17:20 | Tags: [spectrometer](../tag/spectrometer)
+
+----
 
 High purity Argon has previously been difficult to obtain in small quantities and required expensive tanks. Mercury is everywhere.
 

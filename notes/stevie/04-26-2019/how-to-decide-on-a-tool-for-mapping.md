@@ -8,11 +8,15 @@ uid: 422561
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/031/710/original/20141011_082035.jpg)
+
 # How to decide on a tool for mapping
 
 by [stevie](../profile/stevie) April 26, 2019 13:05
 
 April 26, 2019 13:05 | Tags: [land-use](../tag/land-use), [activity:aerial-photography](../tag/activity:aerial-photography), [activity:kite-mapping](../tag/activity:kite-mapping), [activity:pole-mapping](../tag/activity:pole-mapping), [activity:balloon-mapping](../tag/activity:balloon-mapping), [activity:aerial-mapping](../tag/activity:aerial-mapping), [activity:getting-started](../tag/activity:getting-started), [activity:mapping](../tag/activity:mapping), [activity:balloon](../tag/activity:balloon), [activity:publiclabriverratpack](../tag/activity:publiclabriverratpack), [activity:bourjalshamali](../tag/activity:bourjalshamali), [pin:activity:balloon-mapping](../tag/pin:activity:balloon-mapping), [activity:land-use](../tag/activity:land-use)
+
+----
 
 The purpose of this write up is to help people navigate what type of mapping tools might work best for you and your site. This note includes information on Balloon, Kite, and Pole mapping. It currently does not host information on when you might choose to map with other technologies such as a drone, but rather focuses on open DIY methods for mapping.
 

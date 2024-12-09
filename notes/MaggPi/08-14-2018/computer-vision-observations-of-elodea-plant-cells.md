@@ -8,11 +8,15 @@ uid: 501996
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/026/191/original/elodea_post_shot.JPG)
+
 # Computer vision  microscope observations of Elodea plant cells
 
 by [MaggPi](../profile/MaggPi) August 14, 2018 03:02
 
 August 14, 2018 03:02 | Tags: [raspberry-pi](../tag/raspberry-pi), [barnstar:basic](../tag/barnstar:basic), [microscope](../tag/microscope), [computer-vision](../tag/computer-vision), [gsoc-2018](../tag/gsoc-2018), [color-filter](../tag/color-filter)
+
+----
 
    	
 **Introduction: **

@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/019/232/original/GPS_20170107-7463.JPG)
+
 # Adding GPS logging to a kite or balloon aerial photography rig
 
 by [cfastie](../profile/cfastie) January 08, 2017 04:46
 
 January 08, 2017 04:46 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [arduino](../tag/arduino), [kap](../tag/kap), [gps](../tag/gps), [kite-photography](../tag/kite-photography), [skyshield](../tag/skyshield), [difficulty:medium](../tag/difficulty:medium), [category:verify](../tag/category:verify), [activity:aerial-photography](../tag/activity:aerial-photography), [skypod](../tag/skypod)
+
+----
 
 _Above: A GPS board mounted on a Saturn V Rig. The module is powered by the existing battery on the rig and adds only 10 grams. It logs GPS data every 15 seconds._
 

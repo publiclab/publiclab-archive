@@ -8,11 +8,15 @@ uid: 495038
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/027/436/original/besos.png)
+
 # MapKnitter map of Besos beach, Barcelona
 
 by [imvec](../profile/imvec) November 01, 2018 16:19
 
 November 01, 2018 16:19 | Tags: [kite-mapping](../tag/kite-mapping), [mapknitter](../tag/mapknitter), [barcelona](../tag/barcelona), [spain](../tag/spain), [aerial-mapping](../tag/aerial-mapping), [eu](../tag/eu), [with:xose](../tag/with:xose), [lat:41.419060954](../tag/lat:41.419060954), [lon:2.2326171398](../tag/lon:2.2326171398)
+
+----
 
 <iframe src="https://mapknitter.org/embed/besos-beach-barcelona" style="border:none" width="100%" height="400px"></iframe>  
   

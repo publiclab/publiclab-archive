@@ -14,6 +14,8 @@ by [kgradow1](../profile/kgradow1) December 31, 2020 17:23
 
 December 31, 2020 17:23 | Tags: [education](../tag/education), [air-quality](../tag/air-quality), [water-quality](../tag/water-quality), [groundwater](../tag/groundwater), [bucket-brigade](../tag/bucket-brigade), [soil-testing](../tag/soil-testing), [parent:education](../tag/parent:education), [soil-quality](../tag/soil-quality), [parent:water-quality](../tag/parent:water-quality), [detection-limit](../tag/detection-limit), [parent:air-quality](../tag/parent:air-quality), [lon:-71](../tag/lon:-71), [lat:42](../tag/lat:42), [soil-contamination](../tag/soil-contamination), [parent:soil](../tag/parent:soil), [zoom:6](../tag/zoom:6), [bucket-monitor](../tag/bucket-monitor), [statistics-for-action](../tag/statistics-for-action), [cancer-slope](../tag/cancer-slope), [interpret-results-intro](../tag/interpret-results-intro), [data-advocacy](../tag/data-advocacy)
 
+----
+
 Adapted from the [Statistics for Action Air Quality Unit "Limits and Levels"][1] and generously shared with permission. You can access a printable version of this guide at [sfa.terc.edu][2]
 
 ---------

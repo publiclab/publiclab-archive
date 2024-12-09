@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/001/122/original/Screen_Shot_2013-08-13_at_12.25.58_PM.png)
+
 # Comparative and qualitative flame spectroscopy
 
 by [warren](../profile/warren) August 13, 2013 16:28
 
 August 13, 2013 16:28 | Tags: [spectrometer](../tag/spectrometer), [flame](../tag/flame), [spectral-analysis](../tag/spectral-analysis), [flare](../tag/flare), [emission](../tag/emission), [emissions](../tag/emissions), [nist](../tag/nist), [spectral-databases](../tag/spectral-databases), [response:8995](../tag/response:8995)
+
+----
 
 The lead image is from three photos on [Wikipedia's article on flame testing](https://en.wikipedia.org/wiki/Flame_test), which lists a variety of flames with helpful photos to match flame color to their probable contents. The flames above are, left to right, lead, arsenic, and copper.
 

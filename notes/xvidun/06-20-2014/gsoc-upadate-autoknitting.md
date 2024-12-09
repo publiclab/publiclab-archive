@@ -8,11 +8,15 @@ uid: 421168
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/004/900/original/Map-cuas-marked.png)
+
 # GSoC Update - AutoKnitting
 
 by [xvidun](../profile/xvidun) June 20, 2014 10:59
 
 June 20, 2014 10:59 | Tags: [mapknitter](../tag/mapknitter), [gsoc](../tag/gsoc), [gsoc-2014](../tag/gsoc-2014), [exif](../tag/exif), [response:10138](../tag/response:10138)
+
+----
 
 ###Recent work:
 

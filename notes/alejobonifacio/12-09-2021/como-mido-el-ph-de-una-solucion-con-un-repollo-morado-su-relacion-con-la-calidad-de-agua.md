@@ -8,11 +8,15 @@ uid: 639376
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/045/196/original/Actividad_repollo.png)
+
 # ¿Cómo mido el pH de una solución con un repollo morado? Su relación con la calidad de agua
 
 by [alejobonifacio](../profile/alejobonifacio) December 09, 2021 20:33
 
 December 09, 2021 20:33 | Tags: [water-quality](../tag/water-quality), [lang:es](../tag/lang:es), [ph](../tag/ph), [activity:water-quality](../tag/activity:water-quality), [activity:ph](../tag/activity:ph), [zoom:6](../tag/zoom:6), [lon:-64](../tag/lon:-64), [lat:-31](../tag/lat:-31), [research-curation-fellows](../tag/research-curation-fellows)
+
+----
 
 El pH o potencial de hidrógeno de una solución, es una variable relevante a la hora de determinar la calidad del agua, ya sea de bebida como de un ambiente acuático. Existen varias herramientas comerciales privativas de diferente complejidad y precisión para medir este parámetro. Sin embargo, para esta actividad nos proponemos utilizar pigmentos naturales que sean sensibles a este parámetro y así poder medir pH con elementos que están al alcance de cualquiera. 
 

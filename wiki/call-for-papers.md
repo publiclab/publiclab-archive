@@ -8,11 +8,15 @@ uid: 525300
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/024/165/original/roman-mager-59976-unsplash.jpg)
+
 # Call for Papers
 
 by [Bronwen](../profile/Bronwen), [stefannibrasil](../profile/stefannibrasil), [Ag8n](../profile/Ag8n)
 
 March 23, 2018 22:14 | Tags: [events](../tag/events), [call-for-papers](../tag/call-for-papers), [papers](../tag/papers)
+
+----
 
 ## How does it work
 

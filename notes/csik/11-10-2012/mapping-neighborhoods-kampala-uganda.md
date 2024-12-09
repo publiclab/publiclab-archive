@@ -14,6 +14,8 @@ by [csik](../profile/csik) November 10, 2012 16:12
 
 November 10, 2012 16:12 | Tags: [uganda](../tag/uganda), [kampala](../tag/kampala), [art-center](../tag/art-center), [unicef](../tag/unicef), [youth](../tag/youth), [africa](../tag/africa), [land-use](../tag/land-use)
 
+----
+
 Maria del Carmen Lamadrid, Heather Grates, and Chris Csikszentmihalyi mapped the 
 •Women's Craft Market in Nsambya, Kampala, Central Region, Uganda, which is slated to be cleared for development
 •TLC Youth Center in Kamwokya, Kawempe, Kampala, Central Region, Uganda.  https://mapknitter.org/maps/tlc-youth-center

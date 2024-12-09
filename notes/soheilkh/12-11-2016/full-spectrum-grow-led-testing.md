@@ -8,11 +8,15 @@ uid: 499133
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/019/002/original/led.png)
+
 # "Full Spectrum" grow LED Testing 
 
 by [soheilkh](../profile/soheilkh) December 11, 2016 01:12
 
 December 11, 2016 01:12 | Tags: [spectrometer](../tag/spectrometer), [spectralworkbench](../tag/spectralworkbench), [export](../tag/export), [answered](../tag/answered), [graph](../tag/graph), [question:general](../tag/question:general), [first-time-poster](../tag/first-time-poster)
+
+----
 
 ###What I want to do or know
 I'm testing a "Full Spectrum" grow LED with way more red LEDs than blue but I get a very strong blue which is stronger than red. I'm trying to find out why am I having this problem. 

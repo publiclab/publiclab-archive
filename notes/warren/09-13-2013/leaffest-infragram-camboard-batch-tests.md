@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/001/543/original/leaffest-tests.jpg)
+
 # LEAFFEST Infragram camboard batch tests
 
 by [warren](../profile/warren) September 13, 2013 15:52
 
 September 13, 2013 15:52 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [leaffest](../tag/leaffest), [infragram](../tag/infragram), [cameras](../tag/cameras), [photo-monitoring-plugin](../tag/photo-monitoring-plugin), [infragram-conversion](../tag/infragram-conversion), [leaffest2013](../tag/leaffest2013)
+
+----
 
 Above is a compilation of all [the camera board tests](/notes/warren/09-08-2013/infragram-webcam-test-raw-images) we did at [LEAFFEST 2013](/wiki/leaffest) last weekend; I combined them into a single image to batch process with the [Photo Monitoring Plugin](/wiki/photo-monitoring-plugin) for Fiji. Here are the results, with a well-organized PSD file at the end. The lead image is the "raw" version -- i.e. just what we got from the cameras.
 

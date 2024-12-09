@@ -8,11 +8,15 @@ uid: 555321
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/034/472/original/aaaaaa.jpg)
+
 # A Day in the Life of LDI
 
 by [sashadev-sky](../profile/sashadev-sky) August 11, 2019 01:17
 
 August 11, 2019 01:17 | Tags: [mapknitter](../tag/mapknitter), [software](../tag/software), [development](../tag/development), [leaflet](../tag/leaflet)
+
+----
 
 During the development process, we add a lot of gifs on our PRs to better document the changes we implement. I figured rather than writing about developments in LDI, I can use the gifs to show them.
 

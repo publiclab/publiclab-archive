@@ -8,11 +8,15 @@ uid: 461120
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/013/642/original/oct14.jpg)
+
 # Recent Pictures of my lab set up.
 
 by [dhaffnersr](../profile/dhaffnersr) January 14, 2016 21:44
 
 January 14, 2016 21:44 | Tags: 
+
+----
 
 [![20160114_112611.jpg](//i.publiclab.org/system/images/photos/000/013/629/medium/20160114_112611.jpg)](//i.publiclab.org/system/images/photos/000/013/629/original/20160114_112611.jpg)
 

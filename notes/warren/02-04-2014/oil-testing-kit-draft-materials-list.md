@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/002/771/original/IMG_0385.JPG)
+
 # Oil Testing Kit: draft materials list
 
 by [warren](../profile/warren) February 04, 2014 21:11
 
 February 04, 2014 21:11 | Tags: [oil-spill](../tag/oil-spill), [oil](../tag/oil), [oil-spill-toolkit](../tag/oil-spill-toolkit), [fluorescence](../tag/fluorescence), [kit](../tag/kit), [motor-oil](../tag/motor-oil), [sampling](../tag/sampling), [response:8955](../tag/response:8955), [response:9306](../tag/response:9306), [response:7551](../tag/response:7551), [extraction](../tag/extraction), [response:9750](../tag/response:9750), [response:8759](../tag/response:8759), [response:9864](../tag/response:9864), [crude-oil](../tag/crude-oil), [heating-oil](../tag/heating-oil), [methodology](../tag/methodology), [oil-testing-kit](../tag/oil-testing-kit)
+
+----
 
 **Update:** Alpha kits are now available: http://store.publiclab.org/products/spectrometry-sampling-kit
 

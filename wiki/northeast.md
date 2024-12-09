@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/004/161/original/Screen_Shot_2014-05-07_at_2.33.43_PM.png)
+
 # Northeast US and Eastern Canada
 
 by [liz](../profile/liz), [wward1400](../profile/wward1400), [Hudonnoodles](../profile/Hudonnoodles), [warren](../profile/warren)
 
 May 02, 2014 16:07 | Tags: [list:publiclab-northeast](../tag/list:publiclab-northeast), [events:northeast](../tag/events:northeast), [regional](../tag/regional), [region](../tag/region)
+
+----
 
 This is a regional page for the Public Lab community in the northeastern United States and eastern Canada, reaching from Washington DC to the Maritime Provinces. Join the mailing list--[publiclab-northeast](https://groups.google.com/forum/#!forum/publiclab-northeast)--in the left sidebar. Also, look through the places listed below and see if your locality is already organizing locally. If so, join its local mailing list and subscribe to relevant tags on the website. 
 

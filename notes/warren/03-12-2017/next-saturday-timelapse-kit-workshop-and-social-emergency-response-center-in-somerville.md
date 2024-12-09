@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/019/770/original/tmp_15415-IMG_20170214_121228_354-1789056372.jpg)
+
 # Next Saturday: Timelapse Kit workshop and Social Emergency Response Center in Somerville
 
 by [warren](../profile/warren) March 12, 2017 06:01
 
 March 12, 2017 06:01 | Tags: [somerville-massachusetts](../tag/somerville-massachusetts), [boston](../tag/boston), [partsandcrafts](../tag/partsandcrafts), [workshop](../tag/workshop), [photo-monitoring](../tag/photo-monitoring), [event](../tag/event), [somerville](../tag/somerville), [timelapse](../tag/timelapse), [northeast](../tag/northeast), [event:rsvp](../tag/event:rsvp), [2](../tag/2), [1](../tag/1), [serc](../tag/serc), [ds4si](../tag/ds4si), [date:03-18-2017](../tag/date:03-18-2017), [rsvp:xose](../tag/rsvp:xose)
+
+----
 
 Hi, all -- on **March 18th, next Saturday**, a couple things are happening _you may want to join in on_:
 

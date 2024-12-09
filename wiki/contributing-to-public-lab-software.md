@@ -14,6 +14,8 @@ by [warren](../profile/warren), [justinmanley](../profile/justinmanley)
 
 December 19, 2014 22:45 | Tags: [software](../tag/software), [guidelines](../tag/guidelines), [github](../tag/github), [plots-dev](../tag/plots-dev), [contributing](../tag/contributing), [getting-started](../tag/getting-started), [parent:developers](../tag/parent:developers), [response:11490](../tag/response:11490), [44](../tag/44)
 
+----
+
 ### Public Lab welcomes and encourages community contributions to our open source software!
 
 This page is intended to:
@@ -52,11 +54,11 @@ Also check out this article on [GitHub flow](https://guides.github.com/introduct
 
 ## Questions
 
-[questions:software]
+[software](../../tag/question:software)
 
 ## Activities
 
-[activities:software]
+[software](../../tag/activity:software)
 
 ****
 

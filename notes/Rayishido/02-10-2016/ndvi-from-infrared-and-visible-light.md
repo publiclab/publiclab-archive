@@ -8,11 +8,15 @@ uid: 464454
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/014/211/original/NDVI.jpg)
+
 # NDVI from infrared and visible-light
 
 by [Rayishido](../profile/Rayishido) February 10, 2016 11:42
 
 February 10, 2016 11:42 | Tags: [nrg](../tag/nrg), [ndvi](../tag/ndvi), [infrared](../tag/infrared), [photoshop](../tag/photoshop), [aerial-photography](../tag/aerial-photography), [raspberry-pi](../tag/raspberry-pi), [infrared-photography](../tag/infrared-photography), [fiji](../tag/fiji), [gimp](../tag/gimp), [rasperry](../tag/rasperry)
+
+----
 
 Hi!
 

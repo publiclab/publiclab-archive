@@ -14,6 +14,8 @@ by [Alex-McCarthy](../profile/Alex-McCarthy) April 20, 2011 15:26
 
 April 20, 2011 15:26 | Tags: [spectrometer](../tag/spectrometer), [uv](../tag/uv), [fluorescence](../tag/fluorescence), [flame](../tag/flame), [pah](../tag/pah), [detergent](../tag/detergent), [salt](../tag/salt)
 
+----
+
 This <a href="http://www.springerlink.com/content/n7204821364h3684/fulltext.pdf">paper</a> turned out to be a gold mine of information on fluorescent spectrometry of crude oils. Some of the points that stood out to me were:
 -visible excitation (>450 nm) is generally not suitable for crude oil excitation
 -complexity of crude oil results in broad spectrum of adsorption and excitation, meaning identification of specific compounds is not feasible

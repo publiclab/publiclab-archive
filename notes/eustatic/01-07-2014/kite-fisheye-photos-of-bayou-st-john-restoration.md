@@ -8,11 +8,15 @@ uid: 379
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/002/492/original/11764793925_d6688c4fba_c_1_.jpg)
+
 # Kite Fisheye Photos of Bayou St John restoration
 
 by [eustatic](../profile/eustatic) January 07, 2014 03:24
 
 January 07, 2014 03:24 | Tags: [gulf-coast](../tag/gulf-coast), [kite-mapping](../tag/kite-mapping), [wetlands](../tag/wetlands), [wetland](../tag/wetland), [dredge-reuse](../tag/dredge-reuse), [fisheye](../tag/fisheye), [gopro](../tag/gopro), [dredgefestla](../tag/dredgefestla), [bsj](../tag/bsj), [wide-angle](../tag/wide-angle), [wifi-camera](../tag/wifi-camera), [mini-camera](../tag/mini-camera), [activity:mini-camera](../tag/activity:mini-camera)
+
+----
 
 ###What I want to do
 

@@ -14,6 +14,8 @@ by [warren](../profile/warren) September 29, 2016 21:19
 
 September 29, 2016 21:19 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [sample-containers](../tag/sample-containers), [sample-prep](../tag/sample-prep), [sampling](../tag/sampling), [question:spectrometry](../tag/question:spectrometry), [answered](../tag/answered), [spectrometry-sampling](../tag/spectrometry-sampling), [question:spectrometry-sampling](../tag/question:spectrometry-sampling), [question:water-sampling](../tag/question:water-sampling), [question:spectrometry-challenge](../tag/question:spectrometry-challenge), [question:spectrometry-turbidity](../tag/question:spectrometry-turbidity)
 
+----
+
 Sourcing [from this page](/wiki/spectrometry-sampling), I'm interested in how to choose the best containers for samples while scanning. 
 
 I've heard @eustatic distinguish between long-term storage, which could be in a cool, dark place, in glass, for most substances -- and short-term containers, which must:

@@ -14,6 +14,8 @@ by [sashadev-sky](../profile/sashadev-sky), [warren](../profile/warren)
 
 April 10, 2014 16:47 | Tags: [locked](../tag/locked), [privacy](../tag/privacy), [location:blurred](../tag/location:blurred), [place:united-states](../tag/place:united-states), [lat:22](../tag/lat:22), [lon:76](../tag/lon:76), [zoom:6](../tag/zoom:6)
 
+----
+
 For tools to maintain your own privacy while using electronic devices, see [Privacy Tools](/privacy-tools)
 
 _Updated September 2018_ | <a href="/i/26542"><i class="fa fa-file"></i> public-lab-privacy-policy-sept-2018.pdf</a>

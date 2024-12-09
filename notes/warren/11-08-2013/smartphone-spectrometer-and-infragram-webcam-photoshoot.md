@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/002/184/original/IMG_0350.JPG)
+
 # Smartphone Spectrometer and Infragram Webcam photoshoot
 
 by [warren](../profile/warren) November 08, 2013 22:07
 
 November 08, 2013 22:07 | Tags: [infragram](../tag/infragram), [smartphone-spectrometer](../tag/smartphone-spectrometer), [spectro](../tag/spectro)
+
+----
 
 I just got the final Infragram Webcam prototype from the factory, and wanted to share some nice photos I just took of them:
 

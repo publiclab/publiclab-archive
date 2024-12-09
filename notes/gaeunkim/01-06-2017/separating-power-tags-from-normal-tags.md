@@ -8,11 +8,15 @@ uid: 501359
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/019/223/original/Screen_Shot_2017-01-06_at_8.50.00_PM.png)
+
 # Separating power tags from normal tags
 
 by [gaeunkim](../profile/gaeunkim) January 06, 2017 16:51
 
 January 06, 2017 16:51 | Tags: [code](../tag/code), [powertags](../tag/powertags)
+
+----
 
 I worked on solving an issue for Publiclab by separating the appearance of power tags from normal tags. A detailed explanation of what power tags are can be found [here][1].   
 

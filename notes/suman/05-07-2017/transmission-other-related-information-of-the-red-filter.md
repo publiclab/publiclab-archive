@@ -14,6 +14,8 @@ by [suman](../profile/suman) May 07, 2017 17:46
 
 May 07, 2017 17:46 | Tags: [infragram-filters](../tag/infragram-filters), [mobius](../tag/mobius), [question:infragram](../tag/question:infragram), [actioncam](../tag/actioncam)
 
+----
+
 I waned to know the spectral and other information of the red filter and blue filter that i bought from the Public Labs. 
 If anyone has information regarding the spectral sensitivity range of the mobius action camera , please share.
 

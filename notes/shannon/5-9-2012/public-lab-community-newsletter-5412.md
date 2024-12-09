@@ -14,6 +14,8 @@ by [Shannon](../profile/Shannon) May 09, 2012 21:41
 
 May 09, 2012 21:41 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
 
+----
+
 Upcoming mappings, project updates and a wide range of research notes-- from using a balloon string winder with a cordless drill to building a "corset-chiton" for the balloon used in the air column monitor-- here's the weekly updates from the Public Lab community!
 
 1. On Monday, May 7th, there will be mapping at Saugus Landfill (Boston-area), as a follow-up to a mapping trip in [October 2011](https://mapknitter.org/map/view/saugus-incinerator-landfill). For more information about the mapping, read on here. 

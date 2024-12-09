@@ -8,11 +8,15 @@ uid: 421556
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/005/260/original/chicagooooo.png)
+
 # MapKnitter Annotations: Leaflet.Illustrate.EditHandle and Leaflet.Illustrate.Pointer
 
 by [justinmanley](../profile/justinmanley) July 14, 2014 07:23
 
 July 14, 2014 07:23 | Tags: [mapknitter](../tag/mapknitter), [gsoc](../tag/gsoc), [gsoc-2014](../tag/gsoc-2014), [annotations](../tag/annotations)
+
+----
 
 ### Background ###
 

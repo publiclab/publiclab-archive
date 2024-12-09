@@ -8,11 +8,15 @@ uid: 430549
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/011/895/original/DanRiverCoalAsh_creditLivingOnEarth.jpg)
+
 # Coal Ash and Citizen Monitoring
 
 by [gretchengehrke](../profile/gretchengehrke) October 09, 2015 21:48
 
 October 09, 2015 21:48 | Tags: [north-carolina](../tag/north-carolina), [coal](../tag/coal), [particles](../tag/particles), [particle-sensing](../tag/particle-sensing), [particle-monitoring](../tag/particle-monitoring), [coal-ash](../tag/coal-ash), [passive-pm](../tag/passive-pm)
+
+----
 
 _Photo credit: Living on Earth, http://loe.org/content/2014-02-14/1-dan-river.jpg_
 

@@ -8,11 +8,15 @@ uid: 304279
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/006/121/original/WheeStatKit.jpg)
+
 # WheeStat kit assembly
 
 by [JSummers](../profile/JSummers) August 07, 2014 20:38
 
 August 07, 2014 20:38 | Tags: [water-quality](../tag/water-quality), [potentiostat](../tag/potentiostat), [wheestat](../tag/wheestat), [response:10658](../tag/response:10658), [response:10627](../tag/response:10627)
+
+----
 
 ###What I want to do
 This note describes the WheeStat kit and how to put it together.  More information on the WheeStat is available on the User's Manual wiki page, found [here](http://publiclab.org/wiki/wheestat-user-s-manual). 

@@ -8,11 +8,15 @@ uid: 693684
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/042/616/original/DSC00603.jpg)
+
 # DIY Satellite Ground Station Workshop 
 
 by [sashae](../profile/sashae) June 21, 2021 14:24
 
 June 21, 2021 14:24 | Tags: [diy-satellite](../tag/diy-satellite), [eu](../tag/eu), [denmark](../tag/denmark), [open-weather](../tag/open-weather), [with:sophied](../tag/with:sophied)
+
+----
 
 On 18th September 2020, [Open-weather](https://open-weather.community/) (@sophied and @sashae) hosted a DIY Satellite Ground Station workshop at the Wagenhallen Community Centre in Stuttgart, DE. Nine participants spent one day thinking about community weather sensing, climate justice, using DIY amateur radio technology for environmental monitoring practices and how feminist thinking might alter gendered notions of technology and science. At the end of the workshop day, each participant had assembled, tested and successfully employed their own DIY Satellite Ground Station to capture and decode a live transmission from a National Oceanic and Atmospheric Administration (NOAA) satellite. The architecture of the workshop drew from the [DIY Satellite Ground Station Guide](https://publiclab.org/notes/sashae/06-26-2020/diy-satellite-ground-station) published by @sophied and @sashae on Public Lab in June 2020\.   
 

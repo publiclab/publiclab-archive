@@ -8,11 +8,15 @@ uid: 531062
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/026/694/original/Aeolus_separation.jpg)
+
 # An overview of the ESA missions and their data (Earth observation)
 
 by [niklasjordan](../profile/niklasjordan) September 27, 2018 19:48
 
 September 27, 2018 19:48 | Tags: [imagery](../tag/imagery), [satellite-imagery](../tag/satellite-imagery), [esa](../tag/esa), [satelite](../tag/satelite), [earth](../tag/earth), [observation](../tag/observation), [european-space-agency](../tag/european-space-agency)
+
+----
 
 Image: [Copyright ESA][4]
 

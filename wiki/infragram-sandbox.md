@@ -14,6 +14,8 @@ by [liz](../profile/liz), [mathew](../profile/mathew), [warren](../profile/warre
 
 August 17, 2013 18:56 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [infrared](../tag/infrared), [infragram](../tag/infragram), [infragram-sandbox](../tag/infragram-sandbox), [parent:infragram](../tag/parent:infragram)
 
+----
+
 The [Infragram Sandbox](http://infragram.org/sandbox) is a browser based tool for experimenting with image compositing, intended for use with Public Lab [Infragram cameras](/wiki/infragram). 
 
 Read [this research note](/notes/warren/08-17-2013/infragrammar-compositing-infrared-images-with-simple-mathematic-expressions#c6664) and watch this short video to get a quick idea of how to use it:

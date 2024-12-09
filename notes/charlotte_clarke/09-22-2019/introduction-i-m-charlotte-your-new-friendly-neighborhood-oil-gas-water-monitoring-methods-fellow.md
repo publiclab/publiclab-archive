@@ -14,6 +14,8 @@ by [charlotte_clarke](../profile/charlotte_clarke) September 22, 2019 19:39
 
 September 22, 2019 19:39 | Tags: [water-quality](../tag/water-quality), [fellowship](../tag/fellowship), [oil-and-gas](../tag/oil-and-gas), [first-time-poster](../tag/first-time-poster), [oil-and-gas-water-trio](../tag/oil-and-gas-water-trio)
 
+----
+
 ## About Me
 
 Hi, I'm Charlotte Clarke, your new friendly neighborhood [Water Monitoring Methods Fellow](https://publiclab.org/notes/stevie/08-06-2019/seeking-monitoring-methods-fellow-for-oil-gas-water-fellowship-trio)! I live in New Orleans and am excited to join the Public Lab team through December 2019\. I also serve as the Deputy Director of [lowernine.org](http://lowernine.org), a residential construction nonprofit that uses volunteer labor to rebuild and repair houses for pre-Katrina residents of the Lower Ninth Ward. I am originally from Massachusetts, and graduated with a degree in environmental engineering. I'm intrigued by the intersection of environmental justice issues and technical/scientific/pragmatic solutions. I can be reached through this website or at charlotte@lowernine.org

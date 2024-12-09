@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/010/684/original/IMG_20150713_171909_%281%29.jpg)
+
 # Testing the Oil Testing Kit: identifying a "somewhat unknown" sample
 
 by [warren](../profile/warren) July 14, 2015 19:37
 
 July 14, 2015 19:37 | Tags: [spectrometer](../tag/spectrometer), [laser](../tag/laser), [fluorescence](../tag/fluorescence), [crude](../tag/crude), [oil-testing-kit](../tag/oil-testing-kit), [405nm](../tag/405nm), [response:11173](../tag/response:11173), [response:11163](../tag/response:11163), [response:12046](../tag/response:12046), [activity:spectrometry](../tag/activity:spectrometry), [activity:spectrometry-sampling](../tag/activity:spectrometry-sampling)
+
+----
 
 I finally made time to test @mathew's [prototype Oil Testing Kit attachment](/notes/mathew/04-07-2015/designing-an-oil-testing-kit-cuvette-frame) for the [Public Lab Spectrometer v3.0](https://store.publiclab.org/products/desktop-spectrometry-kit-3-0), and here are my results. 
 

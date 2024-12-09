@@ -14,6 +14,8 @@ by [warren](../profile/warren) December 08, 2017 15:12
 
 December 08, 2017 15:12 | Tags: [kits](../tag/kits), [answered](../tag/answered), [question:community-kits](../tag/question:community-kits), [community-kits](../tag/community-kits)
 
+----
+
 Of course anyone can post their work on the website, but what are the starting requirements to join the [Community Kits program][1]?
 
   [1]: /wiki/kits

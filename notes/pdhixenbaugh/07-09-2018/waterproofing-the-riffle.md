@@ -8,11 +8,15 @@ uid: 459085
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/025/553/original/FreshPaint-8-2018.07.09-05.05.23.png)
+
 # Waterproofing the Riffle
 
 by [pdhixenbaugh](../profile/pdhixenbaugh) July 09, 2018 21:10
 
 July 09, 2018 21:10 | Tags: [water-quality-monitoring](../tag/water-quality-monitoring), [water-quality](../tag/water-quality), [riffle](../tag/riffle), [waterquality](../tag/waterquality), [waterproofing](../tag/waterproofing), [waterproof](../tag/waterproof)
+
+----
 
 ## What I want to do
 Hi Y'all

@@ -14,6 +14,8 @@ by [amocorro](../profile/amocorro)
 
 June 09, 2021 19:02 | Tags: [polycyclic-aromatic-hydrocarbons](../tag/polycyclic-aromatic-hydrocarbons), [pahs](../tag/pahs)
 
+----
+
 Polycylic Aromatic Hydrocarbons (PAHs)
 
 Polycyclic aromatic hydrocarbons (PAHs) are a class of chemicals that are formed in the incomplete burning of coal, oil, gas, or other organic matter. They can enter the air, water and adhere to particles in the soil. People are most likely to be exposed to PAHs by inhaling contaminated air. Workers at facilities that produce tar, asphalt, or incinerate trash are at the most risk; community exposure from vehicle exhaust, wood smoke, asphalt paving, or agricultural burning also occurs. Although less common, people can also be exposed by coming in contact with water contaminated with PAHs from discharges at wastewater treatment plants. The US Department of Health and Human Services classifies PAHs as “reasonably expected” to cause cancer. In animal studies, PAHs cause cancer, reproductive dysfunction, and birth defects.

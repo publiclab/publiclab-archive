@@ -14,6 +14,8 @@ by [lit2017001](../profile/lit2017001) July 24, 2019 22:26
 
 July 24, 2019 22:26 | Tags: [gsoc](../tag/gsoc), [soc](../tag/soc), [gsoc-2019](../tag/gsoc-2019), [soc-2019](../tag/soc-2019), [soc-2019-eval](../tag/soc-2019-eval)
 
+----
+
 It has been a very splendid time till date working on Image Sequencer and I learnt a lot of things. Here I will summarize, some core points of my work from the very first day of the coding period:
 
 ## Phase I

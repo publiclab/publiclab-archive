@@ -8,11 +8,15 @@ uid: 379
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/021/099/original/July_1_2017_post_cindy_annotated_kite_picture.png)
+
 # Quick Kite Survey of Bayou St John Wetland, post-Cindy, July 1st 2017
 
 by [eustatic](../profile/eustatic) July 10, 2017 21:38
 
 July 10, 2017 21:38 | Tags: [gulf-coast](../tag/gulf-coast), [kite-mapping](../tag/kite-mapping), [bsj](../tag/bsj)
+
+----
 
 Miriam and I wanted to see how quickly we could survey the [Bayou St John wetland.](https://publiclab.org/tag/bsj)
 

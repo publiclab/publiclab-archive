@@ -8,11 +8,15 @@ uid: 43867
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/011/307/original/IMG_4277_small.jpg)
+
 # Bourj Al Shamali Refugee Camp
 
 by [liz](../profile/liz), [stevie](../profile/stevie), [clauds](../profile/clauds)
 
 August 27, 2015 23:23 | Tags: [aerial-photography](../tag/aerial-photography), [chapter](../tag/chapter), [lebanon](../tag/lebanon), [refugees](../tag/refugees), [refugeecamps](../tag/refugeecamps), [lat:33.267941](../tag/lat:33.267941), [lon:35.236883](../tag/lon:35.236883), [bourjalshamali](../tag/bourjalshamali), [project](../tag/project), [place:bourj-al-shamali](../tag/place:bourj-al-shamali)
+
+----
 
 Bourj Al Shamali refugee camp in south Lebanon was opened in 1948 as a temporary shelter for Palestinian refugees coming from north Palestine, now Israel. Sixty years later, it has taken on the air of an overcrowded, unplanned, permanent city, with five times the original inhabitants occupying the original site, under the jurisdiction of the UN. 
 
@@ -37,11 +41,11 @@ ONGOING: With the local committee and Al Houla Association, we are currently wor
 
 ##Research Notes:
 
-[notes:bourjalshamali]
+[bourjalshamali](../../tag/bourjalshamali)
 
 ##Activities we've done:
 
-[activities:bourjalshamali]
+[bourjalshamali](../../tag/activity:bourjalshamali)
 
 
 ##For more information:

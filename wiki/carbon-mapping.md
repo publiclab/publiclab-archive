@@ -14,6 +14,8 @@ by [warren](../profile/warren)
 
 June 27, 2011 16:11 | Tags: 
 
+----
+
 ###Notes on the potential for quantifying carbon sequestration with balloon mapping or other tools###
 
 The idea here is to try to quantify carbon sequestered by farming practices, using aerial imagery to do it at large scales. This has been the subject of some [discussions on the PLOTS mailing list](https://groups.google.com/forum/#!topic/publiclaboratory/2scuRFAWU2s); the hardest part seems to be developing good measurements of carbon in ground observations on sample sites, and correlating them with remote sensing data. Then the balloon images can be used to generalize and calculate carbon for much larger areas.

@@ -14,6 +14,8 @@ by [mathew](../profile/mathew), [warren](../profile/warren)
 
 April 26, 2012 13:38 | Tags: [near-infrared-camera](../tag/near-infrared-camera)
 
+----
+
 ##Introduction##
 
 To get the cameras to trigger simultaneously, we chose to trigger them via USB using a feature of the CHDK.

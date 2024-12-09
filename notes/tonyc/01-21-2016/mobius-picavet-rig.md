@@ -8,11 +8,15 @@ uid: 447491
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/013/744/original/picavet.JPG)
+
 # Mobius Picavet Rig
 
 by [tonyc](../profile/tonyc) January 21, 2016 19:36
 
 January 21, 2016 19:36 | Tags: [picavet](../tag/picavet), [diy-mount-kit](../tag/diy-mount-kit)
+
+----
 
 ###What I want to do
 Create a picavet configuration for the mobius actioncam, using readily available materials

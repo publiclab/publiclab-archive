@@ -14,6 +14,8 @@ by [warren](../profile/warren)
 
 October 12, 2018 06:40 | Tags: 
 
+----
+
 This is a page showing how to make Gifs of what's on your computer screen -- to help document software issues in [Public Lab software projects](https://code.publiclab.org).
 
 (Sourcing from https://github.com/publiclab/plots2/issues/3513)
@@ -31,5 +33,5 @@ You can use these programs to make the Gif:
 
 ## Questions
 
-[questions:gifs]
+[gifs](../../tag/question:gifs)
 

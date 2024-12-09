@@ -14,4 +14,6 @@ by [LUVAndLIVHealthyAlliance](../profile/LUVAndLIVHealthyAlliance) February 14, 
 
 February 14, 2020 17:04 | Tags: [agriculture](../tag/agriculture), [food](../tag/food), [carbon](../tag/carbon), [question:general](../tag/question:general), [general](../tag/general), [first-time-poster](../tag/first-time-poster), [with:amallozzi](../tag/with:amallozzi), [environmental-impact](../tag/environmental-impact), [luvandlivhealthy](../tag/luvandlivhealthy)
 
+----
+
 We are interested in studying the environmental impact of the food being served at our school for breakfast .We will be calculating the ecological footprint of various food being served to us.We want to know by us eating these food how is it affecting the environment?

@@ -8,11 +8,15 @@ uid: 434166
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/009/059/original/sensors.jpg)
+
 # Sensors: A Powerful Asset to Journalism
 
 by [philiptang42](../profile/philiptang42) February 23, 2015 06:35
 
 February 23, 2015 06:35 | Tags: [sensor-journalism](../tag/sensor-journalism)
+
+----
 
 While still a relatively new and emergent field, sensor journalism shows promise; potential toward becoming an important arsenal in the journalistic weapon load out, a specialized tool to bring out for situations requiring analysis that borders on scientific.
 

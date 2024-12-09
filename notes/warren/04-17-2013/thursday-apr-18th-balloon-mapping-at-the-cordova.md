@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/000/068/original/decordova.png)
+
 # Thursday Apr. 18th balloon mapping at the Cordova 
 
 by [warren](../profile/warren) April 17, 2013 18:09
 
 April 17, 2013 18:09 | Tags: [boston](../tag/boston), [event](../tag/event)
+
+----
 
 ##Event details
 

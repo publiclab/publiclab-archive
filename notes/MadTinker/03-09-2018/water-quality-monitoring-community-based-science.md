@@ -8,11 +8,15 @@ uid: 461206
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/023/932/original/IMG_8373.jpg)
+
 # Water Quality Monitoring: Community-based Science
 
 by [MadTinker](../profile/MadTinker) March 09, 2018 19:30
 
 March 09, 2018 19:30 | Tags: [education](../tag/education), [presentations](../tag/presentations), [water-quality-monitoring](../tag/water-quality-monitoring), [sensors](../tag/sensors), [water-quality](../tag/water-quality), [water-sensors](../tag/water-sensors), [stem](../tag/stem)
+
+----
 
 I've been asked to give a presentation on my water quality work (philosophy, sensor development, STEM education, etc) at a small, local mining conference (San Juan Mining and Reclamation Conference, [http://www.mountainstudies.org/sjmrc/](http://www.mountainstudies.org/sjmrc/) ). They've been warned that all of the work is still in the development stage. Most of the topics and a majority of the hardware will be recognizable by Public Lab folks. The abstract is below and the presentation will be available on YouTube later this year.
 

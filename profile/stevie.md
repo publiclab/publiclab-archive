@@ -3,6 +3,8 @@ uid: 422561
 created_at: 2014-04-18 23:32:44 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/422561/medium/aerie.png)
+
 # stevie
 
 Public Lab Senior Program Director. I work to connect the dots people and resources on Public Lab. 

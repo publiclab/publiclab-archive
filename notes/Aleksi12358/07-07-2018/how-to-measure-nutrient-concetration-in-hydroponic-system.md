@@ -14,6 +14,8 @@ by [Aleksi12358](../profile/Aleksi12358) July 07, 2018 21:45
 
 July 07, 2018 21:45 | Tags: [hydroponics](../tag/hydroponics), [question:spectrometry](../tag/question:spectrometry), [question:water-quality](../tag/question:water-quality), [question:hydroponics](../tag/question:hydroponics), [fertilizer](../tag/fertilizer), [question:runoff](../tag/question:runoff), [nutrients](../tag/nutrients), [nutrient](../tag/nutrient), [uptake](../tag/uptake), [question:fertilizer](../tag/question:fertilizer), [first-time-poster](../tag/first-time-poster), [question:nitrogen](../tag/question:nitrogen)
 
+----
+
 Reason I want to do this is so that I can measure plants uptake of 
 different nutrients and add right nutrients to reservoir with automated 
 nutrient dispenser. Plants I want to study are salad, tomato, chili 

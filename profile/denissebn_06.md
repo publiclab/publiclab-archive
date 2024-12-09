@@ -3,6 +3,8 @@ uid: 749988
 created_at: 2021-03-25 02:42:48 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/749988/medium/Tree.jpg)
+
 # denissebn_06
 
 Hi! I am Denisse Benítez, I am is the Documentation Fellow for Valverde Air Monitoring Program (VVAMP). I am an environmental specialist from El Salvador. I am interested in water quality, biodiversity preservation, and environmental justice. In my free time, you can find me watching some new documentary, geek show, or reading. 

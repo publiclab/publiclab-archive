@@ -14,6 +14,8 @@ by [amocorro](../profile/amocorro) March 29, 2021 20:21
 
 March 29, 2021 20:21 | Tags: [brazil](../tag/brazil), [icc](../tag/icc), [climate-change](../tag/climate-change), [amazon](../tag/amazon), [amazonia](../tag/amazonia), [lang:pt](../tag/lang:pt), [translation](../tag/translation), [question:general](../tag/question:general), [general](../tag/general), [environmental-journalism](../tag/environmental-journalism), [environmental-regulations](../tag/environmental-regulations), [lang:en](../tag/lang:en), [activity:translation](../tag/activity:translation), [covid-19](../tag/covid-19), [obsclima](../tag/obsclima), [bolsonaro-administration](../tag/bolsonaro-administration)
 
+----
+
 Report by Climate Observatory (Observatório do Clima) in São Paulo, State of São Paulo, Brazil. Twitter: @obsclima. Network of Brazilian NGOs working on climate change issues.
 
 **NOTE: This question was updated 5/5/21 and RESOLVED**

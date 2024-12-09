@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/014/283/original/TraySupp2pan.jpg)
+
 # Rig refinement
 
 by [cfastie](../profile/cfastie) February 14, 2016 16:18
 
 February 14, 2016 16:18 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [kite-aerial-photography](../tag/kite-aerial-photography), [3dprinting](../tag/3dprinting), [kaptery](../tag/kaptery), [response:11726](../tag/response:11726)
+
+----
 
 *Above: Detail of the base of a camera tray displayed in the slicing program Simplify3D. I placed tiny support structures (darker orange) under the curved base to keep the strands from drooping where the angle was lowest (left panel). On the right is a display of the individual beads of plastic to be printed, including those in the support structures. Color represents the printing speed (blue is slower).*
 

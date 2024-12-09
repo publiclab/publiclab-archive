@@ -8,11 +8,15 @@ uid: 9
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/010/870/original/barnraising-handraising.JPG)
+
 # stories
 
 by [warren](../profile/warren), [klydefrog](../profile/klydefrog), [gretchengehrke](../profile/gretchengehrke), [Shannon](../profile/Shannon)
 
 July 16, 2014 14:57 | Tags: [sidebar:featured](../tag/sidebar:featured), [style:wide](../tag/style:wide), [style:presentation](../tag/style:presentation), [style:nobanner](../tag/style:nobanner), [case-studies](../tag/case-studies), [stories](../tag/stories), [outcomes](../tag/outcomes), [style:fancy](../tag/style:fancy), [sidebar:none](../tag/sidebar:none)
+
+----
 
 <div class="col2">
 <p>Public Lab was inspired by the information blackout surrounding the 2010 BP Oil Disaster in the Gulf of Mexico. Despite having a massive impact on residents and the environment, local communities received sparse, incomplete data that contradicted what they could see unfolding in front of them. As news of the spill’s severity spread and outrage about limited access to information simmered locally, three of Public Lab’s would-be co-founders, Shannon Dosemagen, Jeff Warren and Stewart Long, convened in the Gulf Coast with a plan to use helium balloons, kites and inexpensive digital cameras to loft their own "community satellites" over the spill.</p>

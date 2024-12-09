@@ -3,6 +3,8 @@ uid: 502448
 created_at: 2017-01-30 11:32:17 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/abbad0a0655ba94d81cad01304f9039b)
+
 # J_tanna
 
 

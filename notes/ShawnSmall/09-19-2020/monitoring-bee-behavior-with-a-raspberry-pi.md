@@ -14,6 +14,8 @@ by [ShawnSmall](../profile/ShawnSmall) September 19, 2020 04:02
 
 September 19, 2020 04:02 | Tags: [raspberrypi](../tag/raspberrypi), [first-time-poster](../tag/first-time-poster), [computervision](../tag/computervision)
 
+----
+
 I am a new Public Lab user and I am here to share my newest research 
 endeavor: studying bees with a raspberry pi. I am conducting thesis 
 research for my undergraduate studies, and like some of my peers, I want

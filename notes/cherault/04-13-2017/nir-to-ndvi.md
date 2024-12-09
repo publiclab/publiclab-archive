@@ -14,6 +14,8 @@ by [cherault](../profile/cherault) April 13, 2017 13:17
 
 April 13, 2017 13:17 | Tags: [event](../tag/event), [event:rsvp](../tag/event:rsvp), [question:forum](../tag/question:forum), [date:04-13-2017](../tag/date:04-13-2017)
 
+----
+
 Dear all,
 
 I acquired a DIY Infragram camera today.

@@ -14,6 +14,8 @@ by [liz](../profile/liz), [nshapiro](../profile/nshapiro), [warren](../profile/w
 
 February 23, 2015 17:52 | Tags: [air-quality](../tag/air-quality), [air](../tag/air), [list:plots-airquality](../tag/list:plots-airquality), [activities:open-air](../tag/activities:open-air), [upgrades:open-air](../tag/upgrades:open-air)
 
+----
+
 This is an open source community effort to develop a range of low-cost air quality monitoring and remediation tools. Welcome!
 
 **Join in by:**
@@ -34,13 +36,13 @@ This is an open source community effort to develop a range of low-cost air quali
 
 ##Activities
 
-[activities:open-air]
+[open-air](../../tag/activity:open-air)
 
 ****
 
 ##Frequently Asked Questions about air quality
 
-[questions:air-quality]
+[air-quality](../../tag/question:air-quality)
 
 
 ****

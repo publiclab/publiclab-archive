@@ -3,6 +3,8 @@ uid: 513355
 created_at: 2017-08-28 05:38:24 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/e5a87137b0345a6cb223ff1dd512b069)
+
 # Dr_Z
 
 I will add to this a bit later.  

@@ -14,6 +14,8 @@ by [jaksch](../profile/jaksch) July 23, 2018 15:04
 
 July 23, 2018 15:04 | Tags: [spectrometry](../tag/spectrometry), [activity:spectrometry](../tag/activity:spectrometry)
 
+----
+
 This is a rough idea for a project I'll be working on during a hacker camp in two weeks. I want to share my ideas already now, so I can get your input early on and still have time to order parts if needed. Please note that this is a project mainly for fun and not scientific accuracy, so sorry if it might seem a bit messy ;)
 
 The result should be one single device, at the core of which will be a lego spectrometer (RPI camera) controlled by a Raspberry Pi. It should work like this:

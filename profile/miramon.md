@@ -3,6 +3,8 @@ uid: 523723
 created_at: 2018-01-27 21:44:19 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/45f6f66fd270bba9d4d8941c0b947192)
+
 # miramon
 
 short bio

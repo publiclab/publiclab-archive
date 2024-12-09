@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/GEDC3984.JPG)
+
 # Images arriving from loose flight over Lima
 
 by [warren](../profile/warren) January 24, 2011 05:02
 
 January 24, 2011 05:02 | Tags: [lima](../tag/lima), [near-infrared-camera](../tag/near-infrared-camera), [peru](../tag/peru), [morflex](../tag/morflex)
+
+----
 
 https://www.flickr.com/photos/jeffreywarren/5383641520/
 

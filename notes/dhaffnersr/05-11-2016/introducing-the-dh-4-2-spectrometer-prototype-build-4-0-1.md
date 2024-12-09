@@ -8,11 +8,15 @@ uid: 461120
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/016/103/original/top_view.png)
+
 # Introducing the DH 4.2 Spectrometer (prototype build 4.0.1)
 
 by [dhaffnersr](../profile/dhaffnersr) May 11, 2016 18:08
 
 May 11, 2016 18:08 | Tags: 
+
+----
 
 ###What I want to do
  

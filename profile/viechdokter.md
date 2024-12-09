@@ -3,6 +3,8 @@ uid: 468990
 created_at: 2016-03-24 15:17:53 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/468990/medium/me_and_a_galaxy.jpg)
+
 # viechdokter
 
 I always loved physics. But because I found something even cooler for a profession I just stayed an amateur physicist. Gravity, waves, particles, strings and relativity make my eyes shine and sometimes my head spin. 

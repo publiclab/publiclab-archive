@@ -3,6 +3,8 @@ uid: 194322
 created_at: 2013-08-16 21:19:15 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/4799f92b8d3a19c905c193997032b8a3)
+
 # jbest
 
 Director of Biodiversity Informatics at the Botanical Research Institute of Texas - brit.org.

@@ -14,6 +14,8 @@ by [hagitkeysar](../profile/hagitkeysar), [warren](../profile/warren), [shaief](
 
 May 15, 2012 10:37 | Tags: [kite-mapping](../tag/kite-mapping), [education](../tag/education), [jerusalem](../tag/jerusalem)
 
+----
+
 This DIY aerial photograph of the Miriam Spring area in Ein Karem was done following a two day kite mapping workshop we conducted, Shai Efrati and myself with Jeffrey Warren of the Public Laboratory, during July 2011, with children from Ein Karem, Jerusalem. 
 
 <a href="https://www.flickr.com/photos/fiestin/7202251188/" title="2sides-EinKarem_A3_Page_1 by fiestinx, on Flickr"><img src="https://farm8.staticflickr.com/7227/7202251188_23a87e8c97.jpg" width="500" height="358" alt="2sides-EinKarem_A3_Page_1"></a>

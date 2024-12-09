@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/013/514/original/IMG_20160105_090916.jpg)
+
 # Testing high-brightness 405nm LEDs in fluorescence spectroscopy of oils
 
 by [warren](../profile/warren) January 05, 2016 16:20
 
 January 05, 2016 16:20 | Tags: [spectrometer](../tag/spectrometer), [fluorescence](../tag/fluorescence), [cuvette](../tag/cuvette), [oil-testing-kit](../tag/oil-testing-kit), [response:12462](../tag/response:12462), [response:11063](../tag/response:11063), [response:12472](../tag/response:12472), [cuvette-frame](../tag/cuvette-frame), [activity:spectrometry-sampling](../tag/activity:spectrometry-sampling)
+
+----
 
 ###What I want to do
 

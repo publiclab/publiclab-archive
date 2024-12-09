@@ -8,11 +8,15 @@ uid: 45586
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/023/421/original/timelapse2-02.png)
+
 # Considerations when using timelapse to monitor blasting at mine sites?
 
 by [mlamadrid](../profile/mlamadrid) January 18, 2017 04:22
 
 January 18, 2017 04:22 | Tags: [time-lapse](../tag/time-lapse), [photo-monitoring](../tag/photo-monitoring), [water-quality-monitoring](../tag/water-quality-monitoring), [water-quality](../tag/water-quality), [question:timelapse](../tag/question:timelapse)
+
+----
 
 Cross-posted from the print edition of the [Community Science Forum: Water](https://publiclab.org/forum)
 

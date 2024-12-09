@@ -8,11 +8,15 @@ uid: 670493
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/038/400/original/GSoC_-_Vertical_Narrow_-_Gray_Text_-_White_BG.png)
+
 # GSoC 2020 Proposal – Implementation of better printability of posts and wiki pages
 
 by [susannadiv](../profile/susannadiv) March 10, 2020 17:11
 
 March 10, 2020 17:11 | Tags: [content](../tag/content), [soc](../tag/soc), [project](../tag/project), [location:blurred](../tag/location:blurred), [lat:44](../tag/lat:44), [first-time-poster](../tag/first-time-poster), [soc-2020-proposals](../tag/soc-2020-proposals), [soc-2020-proposal](../tag/soc-2020-proposal), [abstract](../tag/abstract), [lon:8](../tag/lon:8), [place:italy](../tag/place:italy)
+
+----
 
 About me
 

@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/014/238/original/oil-samples.jpg)
+
 # DIY Oil Testing
 
 by [warren](../profile/warren)
 
 January 28, 2016 16:16 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [oil-testing-kit](../tag/oil-testing-kit), [draft](../tag/draft), [pipeline-monitoring](../tag/pipeline-monitoring), [parent:pipeline](../tag/parent:pipeline)
+
+----
 
 #Progress toward community oil pollution analysis
 

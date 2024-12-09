@@ -14,6 +14,8 @@ by [stevie](../profile/stevie)
 
 June 26, 2015 17:43 | Tags: 
 
+----
+
 Contributors to this wiki include: Jay McIlwain, Amy LeGaux and Stevie Lewis
 
 There are many types of wetlands here in the Gulf Coast. In many places, wetlands are the closest ecosystem to the water’s edge, and can even be found within the boundaries of our  urban communities. 

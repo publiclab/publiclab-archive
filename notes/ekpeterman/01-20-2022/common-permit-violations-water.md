@@ -8,11 +8,15 @@ uid: 641166
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/045/314/original/middleridge2016.00_11_06_10.Still005.jpg)
+
 # Water: Common Permit Violations
 
 by [ekpeterman](../profile/ekpeterman) January 20, 2022 14:35
 
 January 20, 2022 14:35 | Tags: [coal-mining](../tag/coal-mining), [mountaintop-removal](../tag/mountaintop-removal), [water-quality](../tag/water-quality), [advocacy](../tag/advocacy), [permit-violation](../tag/permit-violation), [with:junior_walk1337](../tag/with:junior_walk1337), [mmmp](../tag/mmmp), [with:jfreemanfilm](../tag/with:jfreemanfilm), [reclamation](../tag/reclamation)
+
+----
 
 *This is another installment in a series on common permit violations that are enforceable by citizen monitors. See also [this post][1] on ground related violations.*
 

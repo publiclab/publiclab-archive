@@ -14,6 +14,8 @@ by [rexagod](../profile/rexagod) June 22, 2019 21:06
 
 June 22, 2019 21:06 | Tags: [gsoc](../tag/gsoc), [progress](../tag/progress), [soc](../tag/soc), [gsoc-2019](../tag/gsoc-2019), [soc-2019](../tag/soc-2019)
 
+----
+
 # Public Lab: 3rd & 4th Week
 
 > Having a robust initial codebase is all that matters. Integration will be frictionless, and you can be sure of a much more stable environment, right from the beginning.

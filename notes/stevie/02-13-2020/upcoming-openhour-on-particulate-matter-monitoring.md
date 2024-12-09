@@ -8,11 +8,15 @@ uid: 422561
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/038/143/original/SmokeSchool-crop.jpg)
+
 # Upcoming OpenHour on Particulate Matter Monitoring 
 
 by [stevie](../profile/stevie) February 13, 2020 20:11
 
 February 13, 2020 20:11 | Tags: [event](../tag/event), [air-quality](../tag/air-quality), [pm](../tag/pm), [openhour](../tag/openhour), [oil-and-gas](../tag/oil-and-gas), [particulate-matter](../tag/particulate-matter), [lat:29](../tag/lat:29), [lon:-90](../tag/lon:-90), [zoom:6](../tag/zoom:6), [date:03-02-2020](../tag/date:03-02-2020)
+
+----
 
 Hello!
 

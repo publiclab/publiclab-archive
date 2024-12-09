@@ -8,11 +8,15 @@ uid: 422561
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/009/846/original/20140910_115150.jpg)
+
 # How to Map
 
 by [stevie](../profile/stevie), [Shannon](../profile/Shannon)
 
 May 08, 2015 18:30 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [kite](../tag/kite), [polemapping](../tag/polemapping), [mapping](../tag/mapping), [balloon](../tag/balloon), [pole](../tag/pole), [pole-mapping](../tag/pole-mapping), [parent:wetlands-toolkit](../tag/parent:wetlands-toolkit), [activity:mapping](../tag/activity:mapping)
+
+----
 
 ##Workshop 3: How to Map
 

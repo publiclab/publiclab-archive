@@ -8,11 +8,15 @@ uid: 422561
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/021/214/original/Screen_Shot_2017-05-05_at_9.16.00_AM.png)
+
 # Appalachia Barnraising 2017
 
 by [stevie](../profile/stevie)
 
 July 26, 2017 20:45 | Tags: [barnraising](../tag/barnraising), [appalachia-barnraising](../tag/appalachia-barnraising)
+
+----
 
 ##Appalachia Barnraising
 The Appalachia Barnraising was hosted June 24th and 25th, in Morgantown, West Virginia. The event was hosted at [West Virginia University Reed College of Media, at the Media Innovation Center](http://mediainnovation.wvu.edu/space). 

@@ -14,6 +14,8 @@ by [SarahC](../profile/SarahC) June 06, 2018 04:11
 
 June 06, 2018 04:11 | Tags: [question:spectral-workbench](../tag/question:spectral-workbench), [answered](../tag/answered)
 
+----
+
 Where can I report this?
 
 The blue bar appears to need to be negative, and the calibration is therefore not stored.[https://spectralworkbench.org/spectrums/136374](https://spectralworkbench.org/spectrums/136374)

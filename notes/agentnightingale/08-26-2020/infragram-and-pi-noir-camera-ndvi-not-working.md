@@ -14,6 +14,8 @@ by [agentnightingale](../profile/agentnightingale) August 26, 2020 20:33
 
 August 26, 2020 20:33 | Tags: [ndvi](../tag/ndvi), [infragram](../tag/infragram), [pi](../tag/pi), [question:general](../tag/question:general), [general](../tag/general), [noir](../tag/noir), [first-time-poster](../tag/first-time-poster)
 
+----
+
 Hi there
 
 I am very new to all this and needs some help to figure out what I am doing wrong. 

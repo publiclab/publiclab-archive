@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/006/222/original/elfrida.png)
+
 # Survey of different kinds of fluorescence spectrometry, optimizing intensity
 
 by [warren](../profile/warren) August 12, 2014 13:58
 
 August 12, 2014 13:58 | Tags: [spectrometer](../tag/spectrometer), [fluorescence](../tag/fluorescence), [pesticides](../tag/pesticides), [literature](../tag/literature), [response:8955](../tag/response:8955), [oil-testing-kit](../tag/oil-testing-kit), [intensity](../tag/intensity), [lifs](../tag/lifs), [sfs](../tag/sfs), [response:10997](../tag/response:10997)
+
+----
 
 ###Jargon
 

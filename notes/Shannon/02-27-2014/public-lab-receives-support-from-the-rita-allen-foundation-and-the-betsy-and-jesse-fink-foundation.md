@@ -8,11 +8,15 @@ uid: 9
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/003/064/original/plots-logo-transparent.jpg)
+
 # Public Lab receives support from  the Rita Allen Foundation and the Betsy and Jesse Fink Foundation
 
 by [Shannon](../profile/Shannon) February 27, 2014 12:45
 
 February 27, 2014 12:45 | Tags: [nonprofit](../tag/nonprofit)
+
+----
 
 The Public Lab nonprofit is happy to announce that it has received support from the Rita Allen Foundation and the Betsy and Jesse Fink Foundation to advance work in the Northeast region of the United States.
 

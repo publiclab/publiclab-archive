@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/021/699/original/LEAF2016_20160918-6881.JPG)
+
 # What should we do at LEAFFEST?
 
 by [cfastie](../profile/cfastie) September 18, 2017 16:50
 
 September 18, 2017 16:50 | Tags: [vermont](../tag/vermont), [leaffest](../tag/leaffest), [question:general](../tag/question:general), [leaffest2017](../tag/leaffest2017), [question:leaffest](../tag/question:leaffest), [question:leaffest2017](../tag/question:leaffest2017)
+
+----
 
 LEAFFEST is less than two weeks away! (Friday to Sunday: September 30 to October 1)
 

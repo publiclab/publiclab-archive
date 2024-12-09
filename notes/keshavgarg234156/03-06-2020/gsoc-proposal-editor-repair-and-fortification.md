@@ -14,6 +14,8 @@ by [keshavgarg234156](../profile/keshavgarg234156) March 06, 2020 13:41
 
 March 06, 2020 13:41 | Tags: [markdown](../tag/markdown), [first-time-poster](../tag/first-time-poster), [soc-2020](../tag/soc-2020), [soc-2020-proposals](../tag/soc-2020-proposals)
 
+----
+
 # About me:
 
 ---------
@@ -59,7 +61,7 @@ This should be changed to
 
 ### Part 2: Interface and General Improvements
 1. **Adding new Custom Insert Modules.**
- Inline Power tags are used to insert a list of notes for a given tag eg. [notes:<tagname>]. But it’s difficult for a non-programmer to know the syntax for inserting it in Markdown. So we can start with making separate modules for this, which will insert the required syntax in Markdown.
+ Inline Power tags are used to insert a list of notes for a given tag eg. [<tagname>](../../tag/<tagname>). But it’s difficult for a non-programmer to know the syntax for inserting it in Markdown. So we can start with making separate modules for this, which will insert the required syntax in Markdown.
 <br>
 **Wikis, Notes, Nodes, Activity, Question** :
 

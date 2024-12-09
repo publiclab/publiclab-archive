@@ -8,11 +8,15 @@ uid: 54526
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/006/606/original/robot_in_canal.jpg)
+
 # Water quality testing with a robot in the Gowanus Canal
 
 by [jeff](../profile/jeff) September 05, 2014 02:04
 
 September 05, 2014 02:04 | Tags: [new-york-city](../tag/new-york-city), [gowanus](../tag/gowanus), [gowanus-canal](../tag/gowanus-canal), [water-quality](../tag/water-quality), [northeast](../tag/northeast), [robot](../tag/robot)
+
+----
 
 This is one of the robots used in the [Brooklyn Atlantis](http://www.brooklynatlantis.org) project.  We've recently fit it with YSI 600r water quality sonde, which gives us a few measures of water quality, such as pH, dissolved oxygen, conductivity, etc.  Both the water quality data and the GPS are logged as the robot moves throughout the canal.  We've also put a DSLR camera with an automated pan-tilt mechanism on top to get some interesting photos.
 

@@ -8,11 +8,15 @@ uid: 121462
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/000/839/original/averaging.png)
+
 # Enhancing Sensitivity of DIY Spectrometers
 
 by [philippg](../profile/philippg) July 18, 2013 20:41
 
 July 18, 2013 20:41 | Tags: [spectrometer](../tag/spectrometer), [water-quality](../tag/water-quality), [sensitivity](../tag/sensitivity), [smoothing](../tag/smoothing)
+
+----
 
 ##What I want to do
 In a [previous post](http://publiclab.org/notes/philippg/07-10-2013/water-quality-measurements-with-optical-spectroscopy) about water quality measurements with DIY spectrometers, I stated that sensor sensitivity will be one of the challenges to face. The spectral workbench software, as realized at the moment, uses a single row of the webcam video stream to create spectra. I proposed two things:

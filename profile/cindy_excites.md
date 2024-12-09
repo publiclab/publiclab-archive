@@ -3,6 +3,8 @@ uid: 1083
 created_at: 2013-04-29 16:14:22 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/1083/medium/photo_3_%282%29_-_Copy.JPG)
+
 # cindy_excites
 
 A DIYer who believes that people are not passive victims at the mercy of socio-economic and environmental forces around them; people are indeed social agents capable of affecting change. Much of my work as an academic at University College London in the UK and my work with Citizens without Borders is based on this conception. I develop DIY approaches to incite trust in our abilities to question, to do, and that what we do actually matters.

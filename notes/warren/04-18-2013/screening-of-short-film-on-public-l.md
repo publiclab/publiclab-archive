@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/000/081/original/logo_blue.gif)
+
 # Screening of short film on Public Lab on April 19
 
 by [warren](../profile/warren) April 18, 2013 15:03
 
 April 18, 2013 15:03 | Tags: [somerville-massachusetts](../tag/somerville-massachusetts), [kite-mapping](../tag/kite-mapping), [boston](../tag/boston), [barnraising](../tag/barnraising), [event](../tag/event)
+
+----
 
 (via [Caterina Scaramelli](http://web.mit.edu/hasts/graduate/scaramelli.html)) 
 

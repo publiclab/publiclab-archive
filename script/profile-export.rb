@@ -13,6 +13,7 @@ users.uniq.each do |user|
       "uid: #{user.id}\n"\
       "created_at: #{user.created_at}\n"\
       "---\n\n"\
+      "![](https://publiclab.org#{user.profile_image(:medium)})\n\n"\
       "# #{user.username}\n\n"\
       "#{user.bio}\n\n"\
       "----\n\n"

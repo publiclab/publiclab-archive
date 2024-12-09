@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/014/581/original/EOSevol.jpg)
+
 # KAPvolution
 
 by [cfastie](../profile/cfastie) February 25, 2016 00:43
 
 February 25, 2016 00:43 | Tags: [balloon-mapping](../tag/balloon-mapping), [vermont](../tag/vermont), [kite-aerial-photography](../tag/kite-aerial-photography), [kite](../tag/kite), [kap](../tag/kap), [camera](../tag/camera), [focus](../tag/focus), [aerial-mapping](../tag/aerial-mapping), [canon](../tag/canon), [response:11531](../tag/response:11531), [eos_m](../tag/eos_m), [mirrorless](../tag/mirrorless), [image-quality](../tag/image-quality)
+
+----
 
 *Above: The ascent of KAP cameras.*
 

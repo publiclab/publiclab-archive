@@ -8,11 +8,15 @@ uid: 422561
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/010/735/original/Frac_Sand_Evenv.jpg)
+
 # Frac Sand Tools for Action Event! 
 
 by [stevie](../profile/stevie) July 20, 2015 21:06
 
 July 20, 2015 21:06 | Tags: [event](../tag/event), [wisconsin](../tag/wisconsin), [air-quality](../tag/air-quality), [dust](../tag/dust), [riffle](../tag/riffle), [silica](../tag/silica), [midwest](../tag/midwest), [event:rsvp](../tag/event:rsvp), [mid-west](../tag/mid-west), [rsvp:marlokeno](../tag/rsvp:marlokeno), [date:08-04-2015](../tag/date:08-04-2015), [rsvp:abiya](../tag/rsvp:abiya)
+
+----
 
 Join Public Lab for a Frac Sand Tools for Action event, Tuesday August 4th from 6-8 at [the Raw Deal](http://www.rawdeal-wi.com/) in Menomonie, WI. </br>
 

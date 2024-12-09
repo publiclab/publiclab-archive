@@ -8,11 +8,15 @@ uid: 43651
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/003/572/original/skycranefromabove.jpeg)
+
 # AMS Science Club: Toxics Skycrane + Projected Impacts
 
 by [donblair](../profile/donblair) April 08, 2014 21:48
 
 April 08, 2014 21:48 | Tags: [balloon-mapping](../tag/balloon-mapping)
+
+----
 
 ###What I want to do
 

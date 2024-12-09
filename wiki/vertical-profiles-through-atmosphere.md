@@ -14,6 +14,8 @@ by [liz](../profile/liz)
 
 April 05, 2012 19:35 | Tags: [air-column-monitor](../tag/air-column-monitor), [air-quality](../tag/air-quality)
 
+----
+
 Our interest is in sampling air quality in vertical columns from ground level to 1000' up. We are going to take advantage of our aerial mapping platform to lift sensors high above our cities and landscapes. 
 
 This project builds upon the open source "Air Quality Egg" project by the Internet of Things community. 

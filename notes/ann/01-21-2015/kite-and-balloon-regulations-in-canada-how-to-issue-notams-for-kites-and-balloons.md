@@ -8,11 +8,15 @@ uid: 421543
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/008/723/original/Radio_Kite-seaplane-tests-USNavalAirStn-AnacostiaDC.jpg)
+
 # Air Space Regulations in Canada: How to issue NOTAMs for Kites and Balloons
 
 by [ann](../profile/ann) January 21, 2015 20:07
 
 January 21, 2015 20:07 | Tags: [kite-mapping](../tag/kite-mapping), [canada](../tag/canada), [northwest](../tag/northwest), [bc](../tag/bc), [response:11534](../tag/response:11534)
+
+----
 
 [Note in progress]
 

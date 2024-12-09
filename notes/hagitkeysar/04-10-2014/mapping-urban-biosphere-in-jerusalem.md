@@ -8,11 +8,15 @@ uid: 152
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/003/585/original/20131201_114211.jpg)
+
 # mapping urban biosphere in Jerusalem
 
 by [hagitkeysar](../profile/hagitkeysar) April 10, 2014 10:12
 
 April 10, 2014 10:12 | Tags: [balloon-mapping](../tag/balloon-mapping), [photography](../tag/photography), [jerusalem](../tag/jerusalem), [kite](../tag/kite), [rhus](../tag/rhus), [israel](../tag/israel), [palestine](../tag/palestine), [blog](../tag/blog), [aerial](../tag/aerial), [urban-biosphere](../tag/urban-biosphere), [geo-tagged-photography](../tag/geo-tagged-photography)
+
+----
 
 As part of a joint project named "Maree-Makom" (Hebrew for Reference, literal translation is See Place) I am working together with the architecture department in Bazalel, art and design academy in Jerusalem, and community centre "Yuvalim" which administrates a few neighborhoods in south west Jerusalem. The project combines design studio and research seminars, trying to develop tools for urban renewal in poor neighborhoods that would allow us to think and do beyond the neo-liberal paradigm of "urban growth". We are a small group of 4 students (from the departments of architecture and visual communication), two architects from Bezalel (lecturers), an urban planner and community social worker who both work full time in the community centre, focusing on the issues and problems raised by the massive urban renewal plans in the area. I am contributing from my experience with mapping techniques and engaging residents using civic science practices.  
 

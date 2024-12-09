@@ -8,11 +8,15 @@ uid: 436738
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/009/283/original/photo-ing.jpg)
+
 # Spring Fling: Building a Better Pole for Mapping
 
 by [ddileona](../profile/ddileona) March 17, 2015 02:57
 
 March 17, 2015 02:57 | Tags: [polemapping](../tag/polemapping), [pole-mapping](../tag/pole-mapping), [gulfcoast](../tag/gulfcoast), [barnstar:basic](../tag/barnstar:basic), [urbanwaters](../tag/urbanwaters), [springfling](../tag/springfling), [first-time-poster](../tag/first-time-poster)
+
+----
 
 Hello! Today I'm going to walk you through the construction of a new pole for pole mapping. 
 

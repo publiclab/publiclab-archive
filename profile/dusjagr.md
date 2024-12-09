@@ -3,6 +3,8 @@ uid: 46795
 created_at: 2013-04-21 17:03:13 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/46795/medium/dusjagr_coconut.jpg)
+
 # dusjagr
 
 dusjagr aka Dr. Marc Dusseiller (CH) is a transdisciplinary scholar, lecturer for micro- and nanotechnology, cultural facilitator and artist. He works in an integral way to combine science, art and education. He is Co-Founder of SGMK (ZÃ¼rich) and Hackteria | Open Source Biological Art, a global community bridging bioart, DIYbio, hackerspaces and science.

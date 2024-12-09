@@ -8,11 +8,15 @@ uid: 422561
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/025/246/original/20180611_114142.jpg)
+
 # Pensacola Stormwater Project 
 
 by [stevie](../profile/stevie)
 
 June 19, 2018 19:12 | Tags: [stormwater](../tag/stormwater), [location:blurred](../tag/location:blurred), [pensacola-stormwater](../tag/pensacola-stormwater), [lat:30.4](../tag/lat:30.4), [lon:-87.2](../tag/lon:-87.2), [place:fl-32502-united-states](../tag/place:fl-32502-united-states)
+
+----
 
 ###About this project: 
 In June 2018, we started scoping a project on stormwater issues in Pensacola. We started by outlining the stormwater problem in Pensacola as we see, and understand it. You can read more about it on our [issue brief here](https://publiclab.org/notes/stevie/06-19-2018/pensacola-stormwater). 
@@ -42,9 +46,9 @@ Interested in following along in the project? Subscribe to the tag below to get 
 
 <a class="btn btn-large btn-primary" href="https://publiclab.org/subscribe/tag/pensacola-stormwater">Subscribe to updates on this project </a>
 
-[notes:pensacola-stormwater] 
+[pensacola-stormwater](../../tag/pensacola-stormwater) 
 
 ### Questions
 
-[questions:pensacola-stormwater]
+[pensacola-stormwater](../../tag/question:pensacola-stormwater)
 

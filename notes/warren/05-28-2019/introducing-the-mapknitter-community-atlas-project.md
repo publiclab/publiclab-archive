@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/032/506/original/Screen_Shot_2019-05-02_at_12.06.19_PM.png)
+
 # Introducing the MapKnitter: Community Atlas project
 
 by [warren](../profile/warren) May 28, 2019 16:17
 
 May 28, 2019 16:17 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [grassrootsmapping](../tag/grassrootsmapping), [mapknitter](../tag/mapknitter), [aerial-photography](../tag/aerial-photography), [software](../tag/software), [gsoc](../tag/gsoc), [blog](../tag/blog), [aerial-mapping](../tag/aerial-mapping), [leaflet](../tag/leaflet), [code](../tag/code), [fellows](../tag/fellows), [soc](../tag/soc), [lon:-71.426406](../tag/lon:-71.426406), [gsoc-2019](../tag/gsoc-2019), [soc-2019](../tag/soc-2019), [community-atlas](../tag/community-atlas), [lat:41.809084](../tag/lat:41.809084)
+
+----
 
 Some of you (especially in our coding community) have noticed the major increase in work on our [MapKnitter](https://mapknitter.org/) map-making website over the past few months, and we wanted to take the opportunity today to announce that, with support from Google, we have launched a new pilot project to make it easier than ever for communities to build their own "community atlas." Using MapKnitter and the [PublicLab.org](http://PublicLab.org) platform, we'll be helping a new generation of community mappers to use kites and balloons to create their own "Community Atlases" with our open source tools, and to tell stories about local issues from environmental problems to community projects.
 

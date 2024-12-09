@@ -8,11 +8,15 @@ uid: 237313
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/026/446/original/IMG_20180828_142438_764.jpg)
+
 # Kits Initiative: August Report
 
 by [Bronwen](../profile/Bronwen) September 04, 2018 19:03
 
 September 04, 2018 19:03 | Tags: [newsletter](../tag/newsletter), [kits](../tag/kits), [kits-initiative](../tag/kits-initiative)
+
+----
 
 **Updates**
 

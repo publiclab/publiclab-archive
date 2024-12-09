@@ -8,11 +8,15 @@ uid: 379
 
 ---
 
+![](https://publiclab.org/sites/default/files/H2S retrieval.jpg)
+
 # H2S retrieval from Bayou Sauvage
 
 by [eustatic](../profile/eustatic) June 28, 2012 17:38
 
 June 28, 2012 17:38 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [field-test](../tag/field-test)
+
+----
 
 Previously:
 <a href="http://publiclaboratory.org/notes/shannon/6-22-2012/h2s-test-experimental-protocol-bayou-savage-la">H2S test experimental protocol: Bayou Savage, LA</a>

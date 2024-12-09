@@ -8,11 +8,15 @@ uid: 304279
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/002/282/original/ConductivityA.JPG)
+
 # Conductivity meter
 
 by [JSummers](../profile/JSummers) November 21, 2013 22:28
 
 November 21, 2013 22:28 | Tags: [wcu](../tag/wcu), [launchpad](../tag/launchpad), [conductivity](../tag/conductivity), [activity:conductivity](../tag/activity:conductivity)
+
+----
 
 ###What I want to do
 The plan here was to come up with something that would log water levels as the storm surge from a hurricane passes over a barrier island.  The project was begun as a collaboration with the center for the study of developed shorelines here at WCU.   

@@ -14,6 +14,8 @@ by [bhamster](../profile/bhamster) February 05, 2021 19:05
 
 February 05, 2021 19:05 | Tags: [soil](../tag/soil), [bioassay](../tag/bioassay), [question:soil](../tag/question:soil), [soil-contamination](../tag/soil-contamination), [question:bioassay](../tag/question:bioassay)
 
+----
+
 This builds off a question that[@abbykinchy](https://publiclab.org/profile/abbykinchy) asked during the [soil research area review kick-off call ](https://publiclab.org/notes/bhamster/01-25-2021/event-welcome-to-the-soil-research-area-review)and one of the [current challenges](https://publiclab.org/wiki/soil#Current+Challenges:) identified on the soil contamination wiki.
 
   

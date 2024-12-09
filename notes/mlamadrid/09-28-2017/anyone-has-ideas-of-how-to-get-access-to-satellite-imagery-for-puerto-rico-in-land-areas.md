@@ -14,6 +14,8 @@ by [mlamadrid](../profile/mlamadrid) September 28, 2017 19:29
 
 September 28, 2017 19:29 | Tags: [question:general](../tag/question:general)
 
+----
+
 Some answers have been posted on the public lab google group. Since NOAA has posted their Maria Response map.
 
 ----Original message from Sept 23: I am reaching out to see if anyone has ideas of how to get access to satellite imagery for Puerto Rico. I know imagery is not as readily available as it tends to be in the U.S., and it tends to be lower resolution.  

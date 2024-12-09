@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/023/349/original/TPL_20180124-2578.JPG)
+
 # How to make a low power timer
 
 by [cfastie](../profile/cfastie) January 26, 2018 03:51
 
 January 26, 2018 03:51 | Tags: [data-logging](../tag/data-logging), [activity:datalogger](../tag/activity:datalogger), [datalogging](../tag/datalogging), [mini-pearl-logger](../tag/mini-pearl-logger), [activity:mini-pearl-logger](../tag/activity:mini-pearl-logger), [tpl5110](../tag/tpl5110), [low-power-logging](../tag/low-power-logging), [log-a-long-timer](../tag/log-a-long-timer), [activity:log-a-long-timer](../tag/activity:log-a-long-timer)
+
+----
 
 [UPDATE (III/1/18):  I found an easier way to build this timer. see: https://publiclab.org/notes/cfastie/03-01-2018/low-power-timer-upgrade]
 

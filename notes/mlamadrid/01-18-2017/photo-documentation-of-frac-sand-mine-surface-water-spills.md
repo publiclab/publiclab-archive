@@ -8,11 +8,15 @@ uid: 45586
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/019/302/original/LB1.png)
+
 # Photo Documentation of Frac Sand Mine Surface Water Spills
 
 by [mlamadrid](../profile/mlamadrid) January 18, 2017 03:50
 
 January 18, 2017 03:50 | Tags: [time-lapse](../tag/time-lapse), [photo-monitoring](../tag/photo-monitoring), [timelapse](../tag/timelapse), [water-quality](../tag/water-quality), [blog](../tag/blog), [frac-sand](../tag/frac-sand), [fracsand](../tag/fracsand), [parent:frac-sand](../tag/parent:frac-sand), [communityscienceforum](../tag/communityscienceforum), [community-science-forum](../tag/community-science-forum), [reclamation](../tag/reclamation)
+
+----
 
 By Lee Boland for [Community Science Forum: Water](https://publiclab.org/forum)
 Photo: North and East Branches of Running Valley Stream, demonstrating turbid water from a sand mine stormwater breach along the North Branch.

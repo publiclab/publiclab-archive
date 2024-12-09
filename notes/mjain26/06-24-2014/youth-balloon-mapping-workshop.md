@@ -14,6 +14,8 @@ by [mjain26](../profile/mjain26) June 24, 2014 21:39
 
 June 24, 2014 21:39 | Tags: [balloon-mapping](../tag/balloon-mapping), [education](../tag/education), [curriculum](../tag/curriculum), [chicago](../tag/chicago), [midwest](../tag/midwest), [civiclab](../tag/civiclab), [civic-lab](../tag/civic-lab), [first-time-poster](../tag/first-time-poster)
 
+----
+
 ###What I want to do
 My name is Meghan Jain. I am working with the Civic Lab in Chicago. I want to create a workshop for youth in Chicago on Balloon Mapping. 
 

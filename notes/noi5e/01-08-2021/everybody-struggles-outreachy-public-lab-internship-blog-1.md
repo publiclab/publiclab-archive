@@ -8,11 +8,15 @@ uid: 726270
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/042/352/original/passedout.jpg)
+
 # Everybody Struggles! - [Outreachy & Public Lab Internship] Blog #2
 
 by [noi5e](../profile/noi5e) January 08, 2021 08:49
 
 January 08, 2021 08:49 | Tags: [outreachy](../tag/outreachy), [outreachy-2020](../tag/outreachy-2020)
+
+----
 
 Happy 2021! It's time for another blog as one of the [Outreachy](https://www.outreachy.org) interns here at [Public Lab](https://www.publiclab.org). Every two weeks, the Outreachy organizers suggest a new topic for our blogposts. The theme of this post is: ***GETTING STUCK***. 
 

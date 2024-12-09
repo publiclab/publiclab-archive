@@ -8,11 +8,15 @@ uid: 3
 
 ---
 
+![](https://publiclab.org/sites/default/files/ICE.JPG)
+
 # Microsoft Research Image Composite Editor
 
 by [adam-griffith](../profile/adam-griffith) April 26, 2012 11:21
 
 April 26, 2012 11:21 | Tags: [balloon-mapping](../tag/balloon-mapping), [image-compositing](../tag/image-compositing), [image-stitching](../tag/image-stitching), [stitch](../tag/stitch), [mosaicking](../tag/mosaicking)
+
+----
 
 This free utility that runs on 32 and 64 bit machines has no size limits for image compositing.  Although the site says that multiple point perspectives are not currently supported, a geographer from the French equivalent of the USGS says that he has used it to do a multiple view mosaic.  The code is NOT opensource, but this could save time IF a community decides that they need the data quickly.
 

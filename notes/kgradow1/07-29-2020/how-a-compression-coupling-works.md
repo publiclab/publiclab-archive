@@ -8,11 +8,15 @@ uid: 297929
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/040/311/original/Screen_Shot_2020-07-29_at_9.22.57_AM.png)
+
 # How a Compression Coupling Works
 
 by [kgradow1](../profile/kgradow1) July 29, 2020 17:01
 
 July 29, 2020 17:01 | Tags: [air-quality](../tag/air-quality), [tools](../tag/tools), [bucket-brigade](../tag/bucket-brigade), [lat:42](../tag/lat:42), [lon:-70](../tag/lon:-70), [zoom:6](../tag/zoom:6), [bucket-monitor](../tag/bucket-monitor), [tedlar-bag](../tag/tedlar-bag)
+
+----
 
 ##Purpose
 The bucket monitor uses a **compression coupling** to attach the Tedlar bag and the vacuum hose.  Compression couplings are often used in plumbing fixtures to get a watertight seal.  We're going to look at the stainless steel intake port, which is a [3/16" stainless steel bulkhead][1].

@@ -3,6 +3,8 @@ uid: 691280
 created_at: 2020-05-06 19:33:28 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/0f48ddabbf0c2de088a3236ed1403822)
+
 # codificadesignstudio
 
 Codifica Design Studio is a full-service marketing and development agency. We turn ideas into machines and think out of the box.

@@ -14,6 +14,8 @@ by [mathew](../profile/mathew), [ann](../profile/ann), [MelissaN](../profile/Mel
 
 May 06, 2011 17:19 | Tags: [balloon-mapping](../tag/balloon-mapping), [regulations](../tag/regulations), [parent:balloon-mapping](../tag/parent:balloon-mapping)
 
+----
+
 ##United States##
 
 _Currently, this page describes the regulatory situation in the United States. If you have information on other legal systems, please post them below!_

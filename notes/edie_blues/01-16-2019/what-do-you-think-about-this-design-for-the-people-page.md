@@ -8,11 +8,15 @@ uid: 552521
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/028/892/original/New_Mockup_3.png)
+
 # What do you think about this design for the /people page?
 
 by [edie_blues](../profile/edie_blues) January 16, 2019 21:00
 
 January 16, 2019 21:00 | Tags: [design](../tag/design), [ui](../tag/ui), [ui-designs](../tag/ui-designs)
+
+----
 
 ******
 

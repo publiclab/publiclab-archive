@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/IMG_20130227_153552.jpg)
+
 # Telemark skin glue for re-stickable spectrometer attachment
 
 by [warren](../profile/warren) February 27, 2013 21:41
 
 February 27, 2013 21:41 | Tags: [spectrometer](../tag/spectrometer)
+
+----
 
 I'm trying to use the re-usable glue which is used to stick telemark skins (for climbing uphill in snow) to telemark skins. It's a very tenacious glue which can work when wet, and covered in pine needles and dirt. The idea is to make a spectrometer attachment which can be stuck and unstuck easily. We could even use a piece of the skin glue protection sheet which comes with skins:
 

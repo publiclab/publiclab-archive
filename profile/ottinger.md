@@ -3,6 +3,8 @@ uid: 503419
 created_at: 2017-02-27 15:45:04 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/f75d49cf5bc3cc0246672f5e588b3edb)
+
 # ottinger
 
 B.S. engineer, Ph.D. social scientist, now associate prof at Drexel University, where I run the Fair Tech Collective (fairtechcollective.org).  We're working to see what kinds of technologies can best help communities near oil refineries advocate for change.

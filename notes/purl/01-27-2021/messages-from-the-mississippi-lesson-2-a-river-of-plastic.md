@@ -8,11 +8,15 @@ uid: 736598
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/042/824/original/EPA_flow_chart.png)
+
 # Messages From the Mississippi Lesson 2: A River of Plastic
 
 by [purl](../profile/purl) January 27, 2021 22:16
 
 January 27, 2021 22:16 | Tags: [microplastics](../tag/microplastics), [messagesfromthemississippi](../tag/messagesfromthemississippi)
+
+----
 
 ## Overview
 

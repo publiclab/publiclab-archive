@@ -8,11 +8,15 @@ uid: 51
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/001/541/original/mono5.jpg)
+
 # De-Bayer research
 
 by [danbeavers](../profile/danbeavers) September 13, 2013 03:34
 
 September 13, 2013 03:34 | Tags: [bayer-filter](../tag/bayer-filter), [camera](../tag/camera), [camera-modification](../tag/camera-modification), [debayering](../tag/debayering)
+
+----
 
 ##What I want to do
 I got interested in how to remove the Bayer layer on image sensors.  Or how to convert a color camera into a monochrome camera by debayering it.

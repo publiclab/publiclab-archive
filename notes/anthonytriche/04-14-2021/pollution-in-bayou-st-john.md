@@ -14,6 +14,8 @@ by [anthonytriche](../profile/anthonytriche) April 14, 2021 16:30
 
 April 14, 2021 16:30 | Tags: [location:blurred](../tag/location:blurred), [place:united-states](../tag/place:united-states), [issue-brief](../tag/issue-brief), [lat:29](../tag/lat:29), [lon:-90](../tag/lon:-90), [first-time-poster](../tag/first-time-poster), [zoom:6](../tag/zoom:6)
 
+----
+
 ### Introduction: 
 
 Students from Brother Martin High School have noticed an ongoing problem in Bayou St. John. The Bayou is used as an area where people enjoy kayaking, paddle boarding, etc. Unfortunately, the Bayou has accumulated an overwhelming amount of trash over the years and is in need of restoration.

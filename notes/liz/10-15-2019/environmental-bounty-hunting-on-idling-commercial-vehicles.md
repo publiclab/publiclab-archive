@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/035/752/original/Screen_Shot_2019-10-15_at_9.51.03_AM.png)
+
 # Environmental bounty hunting on idling commercial vehicles
 
 by [liz](../profile/liz) October 15, 2019 14:00
 
 October 15, 2019 14:00 | Tags: [new-york-city](../tag/new-york-city), [air-quality](../tag/air-quality), [legal](../tag/legal), [law-and-policy](../tag/law-and-policy)
+
+----
 
 "Thanks to a new law, any New Yorker with a cell phone and some time to kill can report on idling commercial vehicles, and earn thousands of dollars doing it."
 

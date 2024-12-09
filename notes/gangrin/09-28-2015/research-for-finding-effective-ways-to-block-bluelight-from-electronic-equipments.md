@@ -8,11 +8,15 @@ uid: 452627
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/011/687/original/%3F%3F%3F.jpg)
+
 # Research for finding effective ways to block bluelight from electronic equipments
 
 by [gangrin](../profile/gangrin) September 28, 2015 06:53
 
 September 28, 2015 06:53 | Tags: [bluelight](../tag/bluelight), [korea](../tag/korea), [first-time-poster](../tag/first-time-poster)
+
+----
 
  I'm a high school student in South korea. Nice to meet you!^^
 Our school is prestige school. We decided to participate a dissertation contest, which is the biggest event among all another contests! Proffesors from university were jury judge and we won third prize!

@@ -14,6 +14,8 @@ by [programmer1200](../profile/programmer1200) November 25, 2017 18:31
 
 November 25, 2017 18:31 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [cuvette](../tag/cuvette), [thingiverse](../tag/thingiverse), [activity:spectrometry](../tag/activity:spectrometry), [upgrade:dssk](../tag/upgrade:dssk), [add-on](../tag/add-on), [upgrade](../tag/upgrade), [activity:3d-printing](../tag/activity:3d-printing)
 
+----
+
 **NOTICE : I'm not great at writing** 
 
 I have taken the time to design a cuvette holder for the spectrometer 3.0\. I am attempting to make sure the add-on is easy to build and removable for convenience.The cuvette holder its self is 3d printed out of PLA and can easily be printed on most commercial 3d printers.In total the cuvette holder has 3 individual pieces that need to be printed they are: Main Cuvette holder, Magnet holder and light module mount. In this build you will also need 4 3mmx9.5mm earth magnets , 2 pieces of thin steel at 50mm length and 10 mm width and a light source which I will go into detail about further in the writing.**

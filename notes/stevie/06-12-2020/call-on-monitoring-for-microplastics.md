@@ -8,11 +8,15 @@ uid: 422561
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/039/767/original/BabyLegs-meopar_shot-SM.jpg)
+
 # Call on Monitoring for Microplastics
 
 by [stevie](../profile/stevie) June 12, 2020 20:07
 
 June 12, 2020 20:07 | Tags: [water-quality](../tag/water-quality), [microplastics](../tag/microplastics), [babylegs](../tag/babylegs), [lon:-80](../tag/lon:-80), [lat:20](../tag/lat:20), [zoom:5](../tag/zoom:5)
+
+----
 
 ## Interested in microplastics? We're looking for you! 
 

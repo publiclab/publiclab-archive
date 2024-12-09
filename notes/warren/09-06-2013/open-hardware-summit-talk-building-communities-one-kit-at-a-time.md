@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/001/417/original/jeffrey-warren-ohs-2013-backup.png)
+
 # Open Hardware Summit talk: Building communities one kit at a time
 
 by [warren](../profile/warren) September 06, 2013 18:16
 
 September 06, 2013 18:16 | Tags: [open-hardware](../tag/open-hardware), [retail](../tag/retail), [kits](../tag/kits), [openhardware](../tag/openhardware), [presentation](../tag/presentation), [ohs](../tag/ohs), [open-hardware-summit](../tag/open-hardware-summit)
+
+----
 
 I gave a talk today at the [Open Hardware Summit](http://2013.oshwa.org) about how to strengthen and grow an open source community (like Public Lab) by distributing "starter kiCats" -- and how to embed open and collaborative principles in to objects which we send to people by mail. 
 

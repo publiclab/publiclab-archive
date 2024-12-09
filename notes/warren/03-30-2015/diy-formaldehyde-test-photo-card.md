@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/009/506/original/DSC_0260.JPG)
+
 # DIY Formaldehyde Test Photo Card
 
 by [warren](../profile/warren) March 30, 2015 19:03
 
 March 30, 2015 19:03 | Tags: [air-quality](../tag/air-quality), [formaldehyde](../tag/formaldehyde), [wherewebreathe](../tag/wherewebreathe), [photo-card](../tag/photo-card), [indoor-air-quality-monitoring](../tag/indoor-air-quality-monitoring), [colorimetric](../tag/colorimetric), [colorimetric-tubes](../tag/colorimetric-tubes), [with:nshapiro](../tag/with:nshapiro), [indoor-air-quality](../tag/indoor-air-quality)
+
+----
 
 @nshapiro and I are working on a card upon which you can place a colorimetric tube for detecting formaldehyde, and take a photo of it to record data. Nick sent me the above sketch, and I doodled a design idea below. I figured we could prototype this idea out and further develop it in this research note.
 

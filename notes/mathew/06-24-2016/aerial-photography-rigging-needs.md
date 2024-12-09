@@ -8,11 +8,15 @@ uid: 4
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/016/791/original/P1090338.JPG)
+
 # Aerial Photography Rigging Needs
 
 by [mathew](../profile/mathew) June 24, 2016 23:33
 
 June 24, 2016 23:33 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [kite](../tag/kite), [photo-rig](../tag/photo-rig), [balloon](../tag/balloon), [feedback](../tag/feedback), [reconfigurable-rig](../tag/reconfigurable-rig)
+
+----
 
 I want to assess our community's aerial photography rig needs for kite, balloon, and pole mapping. To that end, I sent out the survey below. Its not too late to fill it out!
 

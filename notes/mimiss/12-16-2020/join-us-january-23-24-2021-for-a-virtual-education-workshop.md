@@ -8,11 +8,15 @@ uid: 579821
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/042/042/original/20180501_162220.jpg)
+
 # Join us January 23-24, 2021 for a virtual education workshop!
 
 by [mimiss](../profile/mimiss) December 16, 2020 16:31
 
 December 16, 2020 16:31 | Tags: [gulf-coast](../tag/gulf-coast), [education](../tag/education), [louisiana](../tag/louisiana), [mississippi](../tag/mississippi), [workshop](../tag/workshop), [florida](../tag/florida), [texas](../tag/texas), [alabama](../tag/alabama), [classroom-community-science](../tag/classroom-community-science), [lesson-plan](../tag/lesson-plan)
+
+----
 
 ##This workshop has been postponed until late spring 2021. Stay tuned for updates! 
 

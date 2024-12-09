@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/017/982/original/DSC09006.JPG)
+
 # The many types of evidence
 
 by [warren](../profile/warren) September 08, 2016 18:06
 
 September 08, 2016 18:06 | Tags: [evidence](../tag/evidence), [timelapse](../tag/timelapse), [legal](../tag/legal), [with:gretchengehrke](../tag/with:gretchengehrke), [evidence-project](../tag/evidence-project), [proof](../tag/proof), [response:13365](../tag/response:13365), [spreadsheets](../tag/spreadsheets), [series:evidence-project](../tag/series:evidence-project), [law-and-policy](../tag/law-and-policy)
+
+----
 
 As a followup to our [introductory post](https://publiclab.org/notes/warren/08-18-2016/introducing-the-environmental-evidence-project-a-blog-series-from-public-lab), Gretchen and I wanted to explore the many different types of evidence, and talk about their differences, even before getting into the legal definitions and ramifications. Whether you're taking a photo, reading data from a sensor, or cataloging health symptoms, we'd also like to ask what types of information you're interested in using as evidence, and we'll do our best to follow up on each type over the course of the series.
 

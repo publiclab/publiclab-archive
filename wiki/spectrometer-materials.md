@@ -14,6 +14,8 @@ by [warren](../profile/warren), [gonzoearth](../profile/gonzoearth)
 
 August 29, 2012 19:35 | Tags: [spectrometer](../tag/spectrometer), [kickstarter](../tag/kickstarter), [materials](../tag/materials)
 
+----
+
 Page for organizing parts lists and instructions for the "countertop spectrometer" on Kickstarter
 
 ##Countertop spec

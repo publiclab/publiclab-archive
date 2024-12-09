@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/sites/default/files/Boots-ground-02.png)
+
 # NYC 2013 kickoff meeting
 
 by [liz](../profile/liz) February 21, 2013 16:24
 
 February 21, 2013 16:24 | Tags: [new-york-city](../tag/new-york-city), [event](../tag/event)
+
+----
 
 Monday evening February 18 was the kickoff meeting for the NYC Public Lab community. 
 

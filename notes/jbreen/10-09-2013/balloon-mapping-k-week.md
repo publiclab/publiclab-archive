@@ -8,11 +8,15 @@ uid: 326
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/001/802/original/T0Q-C-lrtojpphwLB4UhYwLhdJZtXjrxqoyQcee5Hm8.jpg)
+
 # Balloon Mapping K Week
 
 by [jbreen](../profile/jbreen) October 09, 2013 01:29
 
 October 09, 2013 01:29 | Tags: [troubleshooting](../tag/troubleshooting), [balloon-mapping-kit](../tag/balloon-mapping-kit), [helium](../tag/helium)
+
+----
 
 [![NRr8uz1WgzyhkgMgK_6Y2D8o72jtatwID1SeUbjYUW8.jpg](https://i.publiclab.org/system/images/photos/000/001/804/medium/NRr8uz1WgzyhkgMgK_6Y2D8o72jtatwID1SeUbjYUW8.jpg)](https://i.publiclab.org/system/images/photos/000/001/804/original/NRr8uz1WgzyhkgMgK_6Y2D8o72jtatwID1SeUbjYUW8.jpg)  
   

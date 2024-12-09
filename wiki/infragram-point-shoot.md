@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/022/005/original/Screenshot_2017-10-23_at_2.07.04_PM.png)
+
 # Infragram Point & Shoot
 
 by [warren](../profile/warren), [abdul](../profile/abdul), [mathew](../profile/mathew), [natalie](../profile/natalie)
 
 June 30, 2014 16:12 | Tags: [infragram](../tag/infragram), [parent:infragram](../tag/parent:infragram)
+
+----
 
 The Infragram Point & Shoot is a handheld, battery powered mini camera (a modified Mobius Action Cam) for doing plant analysis. We [modify these](https://publiclab.org/notes/warren/10-19-2017/install-a-filter-or-change-the-lens-in-a-mobius-action-cam) to replace the infrared-blocking filter with a red filter, effectively exchanging its blue light channel for infrared light. 
 
@@ -42,7 +46,7 @@ Some cameras may require a firmware upgrade to v1.20. If you've gotten your Infr
 
 ## Activities
 
-[activities:infragram-point-shoot]
+[infragram-point-shoot](../../tag/activity:infragram-point-shoot)
 
 ****
 
@@ -50,7 +54,7 @@ Some cameras may require a firmware upgrade to v1.20. If you've gotten your Infr
 
 These are questions just for the Infragram Point & Shoot, also known as the Mobius Action Cam. For questions about infrared imaging or the Infragram project more broadly, see [the Infragram page](/wiki/infragram#Questions).
 
-[questions:infragram-point-shoot]
+[infragram-point-shoot](../../tag/question:infragram-point-shoot)
 
 For any information, support, or troubleshooting not covered here, please look to [this epic thread about the Mobius Action Cam at RCGroups.com](http://www.rcgroups.com/forums/showthread.php?t=1904559) which contains a great deal of information about using and modifying the camera. 
 

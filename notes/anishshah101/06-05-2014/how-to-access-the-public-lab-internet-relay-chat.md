@@ -8,11 +8,15 @@ uid: 421046
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/004/530/original/3.png)
+
 # How to access the Public Lab Internet Relay Chat (IRC)?
 
 by [anishshah101](../profile/anishshah101) June 05, 2014 06:02
 
 June 05, 2014 06:02 | Tags: [chat](../tag/chat), [developers](../tag/developers), [irc](../tag/irc)
+
+----
 
 To join the IRC through a desktop client, you can follow the following example:
 I have used [XChat](http://xchat.org/) for Ubuntu in this example but the process should be similar for other clients too.

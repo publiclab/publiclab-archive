@@ -14,6 +14,8 @@ by [warren](../profile/warren), [danbeavers](../profile/danbeavers)
 
 January 26, 2013 17:48 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ircam](../tag/ircam), [infragram](../tag/infragram)
 
+----
+
 Planning page for the IRCam project, for a hackable, dual-webcam, Raspberry Pi-based point-and-shoot camera.
 
 Framing: ?garden cam?, educational, on-the-ground point-and-shoot

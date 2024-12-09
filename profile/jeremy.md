@@ -3,6 +3,8 @@ uid: 323
 created_at: 2013-11-12 00:13:41 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/2c0ed9ca757f73fcf41b171556c74d42)
+
 # jeremy
 
 Newcastle professor

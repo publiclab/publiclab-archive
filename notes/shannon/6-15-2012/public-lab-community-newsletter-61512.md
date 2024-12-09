@@ -14,6 +14,8 @@ by [Shannon](../profile/Shannon) June 15, 2012 20:31
 
 June 15, 2012 20:31 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
 
+----
+
 There is so much going on in the Public Lab community this week that I'm having trouble keeping up! In the next week, catch mappings and workshops in the Bay area, New York and New Jersey, get excited for a kite building workshop in early July as well as for the upcoming issue of the Grassroots Mapping Forum featuring a map of the [Chandeleur Islands](http://publiclaboratory.org/map/chandeleur-islands-louisiana/2010-05-09) from the early days of the BP oil spill. New in notes this week, there is an intriguing line-up that includes sketches for a thermal flashlight power ring, a mobile version of the spectral workbench, comparison notes from aerial and ground mapping as well as 3D imaging from Louisiana's Big Branch NWR, and updated notes for the in-development air column monitor. Enjoy!
 
 1. **Mapping in the Bay area (Cali) tomorrow**. Bobby Sudekum sent a message out this past week about heading to Alta Plaza Park tomorrow (6/16) at 1pm to do an aerial mapping. Everyone is welcome to join, he'll be bringing the equipment, but bring a camera if you have one. If you need to get ahold of him beforehand, email rsudekum@gmail.com.

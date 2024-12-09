@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/016/642/original/Compost_B3_After.jpg)
+
 # In the heat of the pile
 
 by [cfastie](../profile/cfastie) June 15, 2016 03:19
 
 June 15, 2016 03:19 | Tags: [arduino](../tag/arduino), [vermont](../tag/vermont), [temperature](../tag/temperature), [sensors](../tag/sensors), [water-quality](../tag/water-quality), [riffle](../tag/riffle), [humidity](../tag/humidity), [compost](../tag/compost), [response:13182](../tag/response:13182), [category:observe](../tag/category:observe), [data-logging](../tag/data-logging), [activity:riffle](../tag/activity:riffle), [riffle-examples](../tag/riffle-examples), [activity:data-logging](../tag/activity:data-logging)
+
+----
 
 *Above: The height of the compost pile dropped about a foot in a week of cooking. The temperature probes dropped less so they extend farther above the pile. This changed the relationship between the sensors and the center of the pile.*
 

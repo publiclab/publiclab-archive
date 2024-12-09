@@ -8,11 +8,15 @@ uid: 4
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/012/380/original/IMG_3498.JPG)
+
 # Aquarium Pump modifications for Durability & Flexibility
 
 by [mathew](../profile/mathew) November 04, 2015 00:18
 
 November 04, 2015 00:18 | Tags: [air-quality](../tag/air-quality), [air](../tag/air), [pm](../tag/pm), [formaldehyde](../tag/formaldehyde), [open-air](../tag/open-air), [particle-monitoring](../tag/particle-monitoring), [indoor-air-quality](../tag/indoor-air-quality), [replication:11317](../tag/replication:11317)
+
+----
 
 ###What I want to do
 Create a version of the modified aquarium pump in the [formaldehyde test kit](/wiki/formaldehyde-test-kit#DIY+kit) that is flexible and can be adjusted across a widest flow range, and also protected from damage by particulates getting into the pump.

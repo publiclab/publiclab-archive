@@ -8,11 +8,15 @@ uid: 133
 
 ---
 
+![](https://publiclab.org/sites/default/files/TreesVIS_NRG.jpg)
+
 # Registering and processing photos acquired from two cameras
 
 by [nedhorning](../profile/nedhorning) May 31, 2012 18:16
 
 May 31, 2012 18:16 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [image-processing](../tag/image-processing), [imagej](../tag/imagej), [great-photos](../tag/great-photos), [image-registration](../tag/image-registration), [first-time-poster](../tag/first-time-poster)
+
+----
 
 As people begin mounting near-infrared cameras with visible cameras it will be helpful to automate the processing and registration of the resulting imagery. The open source image processing package Fiji, a distribution of ImageJ, is an excellent tool for doing this. 
 

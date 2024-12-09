@@ -14,6 +14,8 @@ by [suman](../profile/suman) March 26, 2017 12:15
 
 March 26, 2017 12:15 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [imagej](../tag/imagej), [infragram](../tag/infragram), [infrablue](../tag/infrablue), [fiji](../tag/fiji), [photo-monitoring-plugin](../tag/photo-monitoring-plugin), [answered](../tag/answered), [question:general](../tag/question:general)
 
+----
+
 Dear All,
              Has anyone created a macro.txt file for batching the process of creating NDVI using Fiji/ImageJ. I have a macro file from Frank Aldious for batching the process but it is targetted for InfraBlue images, but i have Red Filter so this would not work for my case.
 

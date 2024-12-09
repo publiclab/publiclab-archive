@@ -8,11 +8,15 @@ uid: 379
 
 ---
 
+![](https://publiclab.org/sites/default/files/8538250418_4610da0417_o.jpg)
+
 # Green Slice:  shots from kite lesson in Mr Morton's class
 
 by [eustatic](../profile/eustatic) March 07, 2013 23:24
 
 March 07, 2013 23:24 | Tags: [gulf-coast](../tag/gulf-coast), [kite-mapping](../tag/kite-mapping), [education](../tag/education)
+
+----
 
 <img src="https://www.flickr.com/photos/eustatic/8538250102/in/photostream" alt="" />
 

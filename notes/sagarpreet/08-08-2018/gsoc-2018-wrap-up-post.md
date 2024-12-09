@@ -8,11 +8,15 @@ uid: 516343
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/026/104/original/Screen_Shot_2018-08-08_at_8.08.33_PM.png)
+
 # GSoC 2018 Wrap-Up Post
 
 by [sagarpreet](../profile/sagarpreet) August 08, 2018 14:39
 
 August 08, 2018 14:39 | Tags: [gsoc-2018-final](../tag/gsoc-2018-final), [soc-2018-final](../tag/soc-2018-final), [soc-2018-final-report](../tag/soc-2018-final-report)
+
+----
 
 Finally, the GSoC coding period is coming to an end as I finish up my project. In this post I aim to summarize all of the work I have done during the past months.
 

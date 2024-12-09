@@ -14,6 +14,8 @@ by [charlotte_clarke](../profile/charlotte_clarke) October 23, 2019 13:36
 
 October 23, 2019 13:36 | Tags: [gulf-coast](../tag/gulf-coast), [water-quality](../tag/water-quality), [oil-and-gas](../tag/oil-and-gas), [oil-and-gas-water-trio](../tag/oil-and-gas-water-trio)
 
+----
+
 It is week 5, and our work to review and advance information about oil and gas water monitoring is well under way. Here are a few projects that are currently in the works:
 
 - [OpenHour](https://publiclab.org/openhour): We're looking forward to hosting November's OpenHour, which will focus on [our research area](https://publiclab.org/wiki/oil-and-gas-water-fellowship-trio). The call will happen on Tuesday, Nov 12 at 8pm EST. More info and a meeting link will be available soon.

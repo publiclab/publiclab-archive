@@ -8,11 +8,15 @@ uid: 562839
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/028/134/original/queensbridgegogoelmaps.jpg)
+
 # WATER-QUALITY: SUMMER 2019 QUEENSBRIDGE TECH LAB COMMUNITY SCIENCE PROJECT
 
 by [SadiePrego](../profile/SadiePrego) December 05, 2018 21:11
 
 December 05, 2018 21:11 | Tags: [new-york-city](../tag/new-york-city), [education](../tag/education), [curriculum](../tag/curriculum), [sewage](../tag/sewage), [public-health](../tag/public-health), [conductivity](../tag/conductivity), [pcb](../tag/pcb), [northeast](../tag/northeast), [coqui](../tag/coqui), [rivers](../tag/rivers), [equipment](../tag/equipment), [ph](../tag/ph), [drains](../tag/drains), [water-filters](../tag/water-filters), [community-science](../tag/community-science), [water-quality-testing](../tag/water-quality-testing), [community-microscope](../tag/community-microscope), [first-time-poster](../tag/first-time-poster), [water-kits](../tag/water-kits), [lead-kits](../tag/lead-kits), [contaminantes](../tag/contaminantes), [leaf-chromatography](../tag/leaf-chromatography), [biobus](../tag/biobus), [community-microscopes](../tag/community-microscopes), [queensbridge](../tag/queensbridge), [nycha](../tag/nycha), [water-pollution](../tag/water-pollution), [diy-microscopes](../tag/diy-microscopes), [foldscope](../tag/foldscope), [tap-waters](../tag/tap-waters), [run-off](../tag/run-off), [water-systems](../tag/water-systems), [instruments](../tag/instruments), [water-samples](../tag/water-samples), [urban-environmentalism](../tag/urban-environmentalism), [response:17817](../tag/response:17817)
+
+----
 
 **Who/where?**
 

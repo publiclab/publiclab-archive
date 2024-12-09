@@ -8,11 +8,15 @@ uid: 664477
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/041/179/original/industrial_pollution1.jpg)
+
 # Research area review on air quality
 
 by [bhamster](../profile/bhamster) October 20, 2020 16:37
 
 October 20, 2020 16:37 | Tags: [research](../tag/research), [air-quality](../tag/air-quality), [bucket-brigade](../tag/bucket-brigade), [reviews](../tag/reviews), [simple-air-sensor](../tag/simple-air-sensor), [research-area-review](../tag/research-area-review), [bucket-monitor](../tag/bucket-monitor)
+
+----
 
 _Image: [Foto-Rabe](https://pixabay.com/users/foto-rabe-715168/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=611668), [CC0](https://creativecommons.org/share-your-work/public-domain/cc0/)._
 

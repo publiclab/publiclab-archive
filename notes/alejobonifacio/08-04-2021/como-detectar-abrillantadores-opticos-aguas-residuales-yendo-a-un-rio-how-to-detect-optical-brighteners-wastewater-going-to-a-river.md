@@ -8,11 +8,15 @@ uid: 639376
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/044/521/original/Foto_Step_by_step.jpeg)
+
 # ¿Cómo detectar abrillantadores ópticos (aguas residuales) yendo a un río? / How to detect optical brighteners (wastewater) going to a river?
 
 by [alejobonifacio](../profile/alejobonifacio) August 04, 2021 17:54
 
 August 04, 2021 17:54 | Tags: [water-quality](../tag/water-quality), [stormwater](../tag/stormwater), [lang:es](../tag/lang:es), [barnstar:basic](../tag/barnstar:basic), [new](../tag/new), [wastewater](../tag/wastewater), [activity:stormwater](../tag/activity:stormwater), [activity:water-quality](../tag/activity:water-quality), [activity:new](../tag/activity:new), [lat:-30](../tag/lat:-30), [english](../tag/english), [zoom:4](../tag/zoom:4), [zoom:16](../tag/zoom:16), [research-curation-fellows](../tag/research-curation-fellows), [lon:-60](../tag/lon:-60), [activity:wastewater](../tag/activity:wastewater), [detecting-wastewater](../tag/detecting-wastewater), [wastewater-optical-brighteners](../tag/wastewater-optical-brighteners), [activity:detecting-wastewater](../tag/activity:detecting-wastewater), [lat:-31.403142](../tag/lat:-31.403142), [lon:-64.204251](../tag/lon:-64.204251)
+
+----
 
 ## Propósito
 

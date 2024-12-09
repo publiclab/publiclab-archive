@@ -8,11 +8,15 @@ uid: 577447
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/034/830/original/rails-6.0.0.beta.png)
+
 # Google Summer of Code 2019 Report
 
 by [alaxallves](../profile/alaxallves) August 24, 2019 19:18
 
 August 24, 2019 19:18 | Tags: [mapknitter](../tag/mapknitter), [gsoc](../tag/gsoc), [google](../tag/google), [barnstar:excessive-enthusiasm](../tag/barnstar:excessive-enthusiasm), [report](../tag/report), [2019](../tag/2019), [rails-6](../tag/rails-6), [gsoc2019](../tag/gsoc2019), [googlesummerofcode](../tag/googlesummerofcode), [gsoc-2019-final-report](../tag/gsoc-2019-final-report)
+
+----
 
 # What is a MapKnitter
 

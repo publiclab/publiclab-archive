@@ -14,6 +14,8 @@ by [paulokemperfilho](../profile/paulokemperfilho)
 
 August 11, 2014 04:35 | Tags: [software](../tag/software), [infragram](../tag/infragram), [python](../tag/python), [parent:multispectral-imaging](../tag/parent:multispectral-imaging)
 
+----
+
 ###This page is a draft to host some simple codes in order to speed up coding development in Python for the Infragram Webcam.
 
 The codes presented here are are based on OpenCV 2 library for video processing and Numpy for array math (Numpy arrays are supported by OpenCV 2).

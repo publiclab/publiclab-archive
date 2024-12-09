@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/020/469/original/DSC_0721_crop.jpg)
+
 # Early (2014) plant filter prototype
 
 by [liz](../profile/liz) May 16, 2017 17:30
 
 May 16, 2017 17:30 | Tags: [remediation](../tag/remediation), [open-air](../tag/open-air), [with:nshapiro](../tag/with:nshapiro), [parent:diy-indoor-air-quality-remediation-kit](../tag/parent:diy-indoor-air-quality-remediation-kit)
+
+----
 
 #First prototype 
 

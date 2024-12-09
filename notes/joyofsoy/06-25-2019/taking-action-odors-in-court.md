@@ -8,11 +8,15 @@ uid: 540844
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/033/190/original/Cover_image_backup_option.jpg)
+
 # Taking Action: Odors in Court
 
 by [joyofsoy](../profile/joyofsoy) June 25, 2019 16:23
 
 June 25, 2019 16:23 | Tags: [with:bronwen](../tag/with:bronwen), [odor](../tag/odor), [odor-logging](../tag/odor-logging), [csf](../tag/csf), [csf16](../tag/csf16)
+
+----
 
 **A version of this story is published in Public Lab's *Community Science Forum*, Issue 16.** 
 

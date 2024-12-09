@@ -8,10 +8,14 @@ uid: 502441
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/019/392/original/054100001.jpg)
+
 # Raspberry Pi NoIR with red filters work
 
 by [julianbolanos](../profile/julianbolanos) January 30, 2017 05:07
 
 January 30, 2017 05:07 | Tags: [pi](../tag/pi), [raspberry](../tag/raspberry), [raspberry-pi-infragram](../tag/raspberry-pi-infragram)
+
+----
 
 I am working with Raspberry Pi NoIR and a red filter, This is my result.

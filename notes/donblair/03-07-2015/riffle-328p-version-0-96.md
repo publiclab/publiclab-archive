@@ -8,11 +8,15 @@ uid: 43651
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/009/215/original/riffle-0.96-top.png)
+
 # Riffle-328p version 0.96 :)
 
 by [donblair](../profile/donblair) March 07, 2015 19:17
 
 March 07, 2015 19:17 | Tags: [water-quality](../tag/water-quality), [riffle](../tag/riffle), [open-water](../tag/open-water)
+
+----
 
 Quick update on the latest design for the Riffle ...
 

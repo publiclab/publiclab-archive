@@ -8,11 +8,15 @@ uid: 637801
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/036/534/original/PeelPlate2.jpg)
+
 # Community Science: Drinking Water Quality
 
 by [enviromicro](../profile/enviromicro) November 15, 2019 19:05
 
 November 15, 2019 19:05 | Tags: [education](../tag/education), [water-quality](../tag/water-quality), [drinking-water](../tag/drinking-water), [first-time-poster](../tag/first-time-poster)
+
+----
 
 -><strong>A community science water quality educational session that took place in conjunction with the YLI program at the Desert Mirage high school on 11.05/19 in Mecca, CA. All methods were participatory and data was available to students immediately.</strong><-
 

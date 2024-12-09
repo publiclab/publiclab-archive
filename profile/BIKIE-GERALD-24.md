@@ -3,6 +3,8 @@ uid: 799821
 created_at: 2022-05-18 16:17:07 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/220de80dd6ed3f150be2b66ae441a44f)
+
 # BIKIE-GERALD-24
 
 Bikie is a geospatial data scientist specialised in Spaceborne Oceanography,holder of a double masters degree in Space science and technology option:GIS and Remote Sensing,and a B.Sc in Mining geology

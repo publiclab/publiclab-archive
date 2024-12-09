@@ -8,11 +8,15 @@ uid: 4
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/007/766/original/IMG_20141106_161031.jpg)
+
 # a paper spectrometer design
 
 by [mathew](../profile/mathew) November 07, 2014 21:27
 
 November 07, 2014 21:27 | Tags: [spectrometer](../tag/spectrometer), [desktop-spectrometer](../tag/desktop-spectrometer), [fold-up](../tag/fold-up), [dsk](../tag/dsk), [oil-testing-kit](../tag/oil-testing-kit), [barnstar:photo-documentation](../tag/barnstar:photo-documentation), [paper](../tag/paper)
+
+----
 
 ###What I want to do
 build a spectrometer that doesn't use a conduit box, out of mostly paper and cardboard. I want it to be easy to open and close, and ideally all the pieces could be printed on 8.5' x 11" paper

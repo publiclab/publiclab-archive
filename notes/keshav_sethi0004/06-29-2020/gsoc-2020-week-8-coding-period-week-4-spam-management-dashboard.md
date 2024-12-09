@@ -8,11 +8,15 @@ uid: 653396
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/040/002/original/Screenshot_from_2020-06-29_22-47-52.png)
+
 # GSOC 2020 Week 8 (coding Period Week-4)@Spam Management Dashboard
 
 by [keshav_sethi0004](../profile/keshav_sethi0004) June 29, 2020 17:58
 
 June 29, 2020 17:58 | Tags: [gsoc](../tag/gsoc), [spam](../tag/spam), [gsoc-2020](../tag/gsoc-2020), [keshav](../tag/keshav), [smd](../tag/smd), [weekly-update](../tag/weekly-update)
+
+----
 
 This week(coding period week 4) I worked on a few filters on the Spam management dashboard and improved UI as well.
 

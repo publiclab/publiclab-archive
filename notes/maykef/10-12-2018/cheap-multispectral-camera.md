@@ -14,6 +14,8 @@ by [maykef](../profile/maykef) October 12, 2018 09:54
 
 October 12, 2018 09:54 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [remote-sensing](../tag/remote-sensing), [ndvi](../tag/ndvi), [wetlands](../tag/wetlands), [agriculture](../tag/agriculture), [software](../tag/software), [near-infrared](../tag/near-infrared), [soil](../tag/soil), [infragram](../tag/infragram), [tool](../tag/tool), [19](../tag/19), [question:general](../tag/question:general), [method](../tag/method), [agricultural](../tag/agricultural), [fertilizer](../tag/fertilizer), [remote-](../tag/remote-)
 
+----
+
 Hi, 
 
 A couple of years ago I developed a multispectral camera based on the compute module of the Raspberry Pi. Hardware wise, the camera is pretty much done, and I'm planning to launch a campaign in Kickstarter to produce the final product. 

@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/001/100/original/ACFair-SwingsC.jpg)
+
 # Infairgrams
 
 by [cfastie](../profile/cfastie) August 11, 2013 15:21
 
 August 11, 2013 15:21 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [vermont](../tag/vermont), [infrared](../tag/infrared), [photoshop](../tag/photoshop), [infragram](../tag/infragram)
+
+----
 
 Replacing red light with near infrared light makes some fun photographic effects possible. That replacement is how [Infragram cameras](http://publiclab.org/wiki/near-infrared-camera) work, and is the key to revealing plant health. But by tweaking how the infrared light is displayed, it is possible to make some dramatic images. Here are a few Infragram photos from the Addison County Fair and Field Days, the biggest agricultural fair in Vermont. These Infragram photos were taken with a Canon A810 with Rosco #74 filter, and all were tweaked in Photoshop. 
 <p>.</p>

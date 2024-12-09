@@ -8,11 +8,15 @@ uid: 516343
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/025/270/original/Screen_Shot_2018-06-22_at_5.40.41_PM.png)
+
 # What is the correct AQI measure ?
 
 by [sagarpreet](../profile/sagarpreet) June 22, 2018 12:44
 
 June 22, 2018 12:44 | Tags: [mapping-meet-up](../tag/mapping-meet-up), [air-quality](../tag/air-quality), [leaflet](../tag/leaflet), [dust](../tag/dust), [pm](../tag/pm), [question:air-quality](../tag/question:air-quality), [question:pm](../tag/question:pm), [general](../tag/general), [purpleair](../tag/purpleair), [soc-2018](../tag/soc-2018), [question:purpleair](../tag/question:purpleair), [aqi](../tag/aqi)
+
+----
 
 I have been working on showing data from PurpleAir Layer onto a map in the form of a HeatMap .
 

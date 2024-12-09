@@ -8,11 +8,15 @@ uid: 725565
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/041/265/original/Screenshot_2020-10-26_at_10.51.33.png)
+
 # Outreachy proposal: New Dashboard Implementation Project
 
 by [ruthnwaiganjo](../profile/ruthnwaiganjo) October 26, 2020 19:00
 
 October 26, 2020 19:00 | Tags: [software](../tag/software), [first-time-poster](../tag/first-time-poster), [outreachy-winter-2020](../tag/outreachy-winter-2020), [outreachy-2020-winter-proposals](../tag/outreachy-2020-winter-proposals), [response:24687](../tag/response:24687)
+
+----
 
 ## About Me
 

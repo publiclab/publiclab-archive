@@ -8,11 +8,15 @@ uid: 756318
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/045/339/original/HC.jpg)
+
 # Horse Creek 1/27/22
 
 by [junior_walk1337](../profile/junior_walk1337) January 27, 2022 19:52
 
 January 27, 2022 19:52 | Tags: [drones](../tag/drones), [west-virginia](../tag/west-virginia), [water-quality](../tag/water-quality), [coal](../tag/coal), [mmmp](../tag/mmmp)
+
+----
 
 <iframe width="1280" height="676" src="https://www.youtube.com/embed/PQHiVQSfqJs" frameborder="0" allowfullscreen=""></iframe>
 

@@ -8,11 +8,15 @@ uid: 1259
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/006/705/original/Jordan_barataria_balloon_179.jpg)
+
 # How Grassroots Mapping Got Started: An Intro to Barataria Bay
 
 by [warren](../profile/warren), [mollydanielsson](../profile/mollydanielsson)
 
 September 10, 2014 18:05 | Tags: [barataria-bay](../tag/barataria-bay), [grassrootsmapping](../tag/grassrootsmapping), [barataria](../tag/barataria), [about](../tag/about), [style:fancy](../tag/style:fancy), [location:blurred](../tag/location:blurred), [lat:29](../tag/lat:29), [lon:-89](../tag/lon:-89)
+
+----
 
   **An introduction to the[ Barataria Bay Project.](http://publiclab.org/wiki/barataria-bay-mapping-project)** This is an excerpt from our forthcoming publication 'DIY Aerial Photography of Barataria Bay: A Community Atlas'.  
 

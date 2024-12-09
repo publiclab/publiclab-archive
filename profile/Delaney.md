@@ -3,6 +3,8 @@ uid: 517173
 created_at: 2017-10-27 17:11:31 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/8df8a72c562cc3946726984ef6e0f8ce)
+
 # Delaney
 
 

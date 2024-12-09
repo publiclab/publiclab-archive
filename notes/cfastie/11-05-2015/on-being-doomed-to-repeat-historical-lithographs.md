@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/012/485/original/Mary351_LP100ps2k.jpg)
+
 # On being doomed to repeat historical lithographs
 
 by [cfastie](../profile/cfastie) November 05, 2015 03:28
 
 November 05, 2015 03:28 | Tags: [kite-mapping](../tag/kite-mapping), [middlebury](../tag/middlebury), [vermont](../tag/vermont), [kite](../tag/kite), [saturnv](../tag/saturnv), [skyshield](../tag/skyshield), [half-spherical](../tag/half-spherical), [littleplanet](../tag/littleplanet), [response:12355](../tag/response:12355), [birdseye](../tag/birdseye), [s100-gps](../tag/s100-gps)
+
+----
 
 *Above: Little planet projection of a panorama stitched from 22 photos taken from the wrong place at the wrong time in Middlebury, VT. Town on the left, gown on the right. November 3, 2015.*
 

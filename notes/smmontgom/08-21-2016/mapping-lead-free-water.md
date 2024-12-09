@@ -8,11 +8,15 @@ uid: 488474
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/017/717/original/KidPhoto2_2.2_crop_500x362.png)
+
 # Mapping Lead-Free Water
 
 by [smmontgom](../profile/smmontgom) August 21, 2016 16:53
 
 August 21, 2016 16:53 | Tags: [water-sensing](../tag/water-sensing), [water-quality](../tag/water-quality), [conductivity](../tag/conductivity), [ioby](../tag/ioby), [mystic-river](../tag/mystic-river), [open-water](../tag/open-water), [lead](../tag/lead), [initiative-area](../tag/initiative-area), [first-time-poster](../tag/first-time-poster)
+
+----
 
 As I'm sure folks on this forum are aware, [lead is toxic](http://www.huffingtonpost.com/dr-mark-hyman/lead-poisoning-why-lead-p_b_609383.html), particularly in children where it can cause permanent brain damage leading to reduced IQ, ADHD, symptoms of autism, and memory disruption, among many other problems. Recently lead has been [showing up in our drinking water](http://www.usatoday.com/story/news/2016/03/11/nearly-2000-water-systems-fail-lead-tests/81220466/) all across the country, and officials have been found systematically delaying and even [falsifying public testing records](http://gothamist.com/2016/06/25/city_found_to_have_falsified_water.php).
 

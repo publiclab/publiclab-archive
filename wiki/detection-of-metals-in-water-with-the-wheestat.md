@@ -8,11 +8,15 @@ uid: 201929
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/006/219/original/ASVanalysis1.png)
+
 # Detection of Metals in Water with the WheeStat
 
 by [bhickman](../profile/bhickman), [JSummers](../profile/JSummers), [Bfoster](../profile/Bfoster)
 
 August 11, 2014 03:57 | Tags: [heavy-metals](../tag/heavy-metals), [water-quality](../tag/water-quality), [potentiostat](../tag/potentiostat), [arsenic](../tag/arsenic), [lead](../tag/lead), [metals](../tag/metals), [copper](../tag/copper), [wheestat](../tag/wheestat), [parent:wheestat-user-s-manual](../tag/parent:wheestat-user-s-manual)
+
+----
 
 ##Purpose:
 The purpose of this wiki is to describe a good, general method for determining the concentration of metal ions (copper, lead, arsenic, etc ) in water that is amenable to use by the DIY / environmental activist community.  Electrochemistry has a long history of use for this type of application and the WheeStat and other low cost potentiostats have been developed that can be built or bought for reasonable amounts of money.  

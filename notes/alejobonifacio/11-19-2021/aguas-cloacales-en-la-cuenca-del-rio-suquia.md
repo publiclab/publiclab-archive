@@ -8,11 +8,15 @@ uid: 639376
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/045/096/original/WhatsApp_Image_2021-09-22_at_10.59.25.jpeg)
+
 # ¿Aguas cloacales en la cuenca del río Suquía? 
 
 by [alejobonifacio](../profile/alejobonifacio) November 19, 2021 18:18
 
 November 19, 2021 18:18 | Tags: [sewage](../tag/sewage), [water-quality](../tag/water-quality), [water](../tag/water), [lang:es](../tag/lang:es), [wastewater](../tag/wastewater), [south-america](../tag/south-america), [lat:0](../tag/lat:0), [lon:0](../tag/lon:0), [issue-brief](../tag/issue-brief), [zoom:0](../tag/zoom:0), [agua](../tag/agua), [research-curation-fellows](../tag/research-curation-fellows), [vigilantes-del-agua](../tag/vigilantes-del-agua), [response:27765](../tag/response:27765), [aguas-cloacales](../tag/aguas-cloacales)
+
+----
 
 ### Introducción:
 
@@ -36,6 +40,6 @@ Todo ciudadano, municipio, ong que le interese saber más de esta problemática 
 - ¿Cómo determino si un desagüe al río es de aguas cloacales?
 - ¿Cómo registramos la presencia de desagües sospechosos?
    
-[questions:aguas-cloacales]
-[notes:aguas-cloacales]
-[notes:activity:aguas-cloacales]
+[aguas-cloacales](../../tag/question:aguas-cloacales)
+[aguas-cloacales](../../tag/aguas-cloacales)
+[activity:aguas-cloacales](../../tag/activity:aguas-cloacales)

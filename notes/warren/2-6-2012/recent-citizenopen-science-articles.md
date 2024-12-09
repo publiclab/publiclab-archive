@@ -14,6 +14,8 @@ by [warren](../profile/warren) February 06, 2012 21:28
 
 February 06, 2012 21:28 | Tags: [readings](../tag/readings)
 
+----
+
 Hello all -- here&#39;s a few good articles on open/citizen science I wanted to share (along with what made me excited or glum about them):<br><br><i>Forbes, &quot;Now Every Company Is A Software Company&quot; (<a href="http://www.forbes.com/sites/techonomy/2011/11/30/now-every-company-is-a-software-company/" target="_blank">http://www.forbes.com/sites/techonomy/2011/11/30/now-every-company-is-a-software-company/</a>)</i><br style="margin:0pt 0pt 0pt 0.8ex;border-left:1px solid rgb(204,204,204);padding-left:1ex" class="gmail_quote">
 
 

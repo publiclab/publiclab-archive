@@ -8,11 +8,15 @@ uid: 468990
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/015/677/original/Polfilter_turn.jpg)
+
 # Effects of the turning angle of a polarizing filter onto spectra
 
 by [viechdokter](../profile/viechdokter) April 20, 2016 09:40
 
 April 20, 2016 09:40 | Tags: [spectrometer](../tag/spectrometer), [spectroscopy](../tag/spectroscopy), [spectrum](../tag/spectrum), [polarizing_filter](../tag/polarizing_filter), [polarisation_angle](../tag/polarisation_angle)
+
+----
 
 Yesterday I found out that a polfilter can change the redness or blueness of a spectrum. @stoft said it could be an effect of the glass of the filter. Today I want to check if the turning angle of the filter has any influence on the spectra. 
 

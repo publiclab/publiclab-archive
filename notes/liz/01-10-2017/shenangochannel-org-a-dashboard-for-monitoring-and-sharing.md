@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/019/254/original/Screen_Shot_2017-01-10_at_11.27.27_AM.png)
+
 # ShenangoChannel.org - a dashboard for monitoring and sharing
 
 by [liz](../profile/liz) January 10, 2017 16:31
 
 January 10, 2017 16:31 | Tags: [photo-monitoring](../tag/photo-monitoring), [cmu](../tag/cmu), [timelapse](../tag/timelapse), [data](../tag/data), [pm](../tag/pm), [particulate-monitoring](../tag/particulate-monitoring), [data-management](../tag/data-management), [dashboard](../tag/dashboard), [drexel](../tag/drexel), [smokestacks](../tag/smokestacks), [smoke](../tag/smoke), [story:timelapse](../tag/story:timelapse), [data-logging-visualization](../tag/data-logging-visualization), [data-visualization](../tag/data-visualization)
+
+----
 
 Just saw a great presentation yesterday at EPA's Region 2 Citizen Science Forum by Amy Gottsegen of Drexel University (Gwen Ottinger's student) on **http://shenangochannel.org/**. CMU's CREATE Lab is also involved but i'm not sure how the project is structured. 
 

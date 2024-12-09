@@ -8,11 +8,15 @@ uid: 584138
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/031/501/original/forest-conservation.png)
+
 # Forest Conservation Through Local Wisdom
 
 by [Dasta](../profile/Dasta) April 14, 2019 10:27
 
 April 14, 2019 10:27 | Tags: [forest](../tag/forest), [conservation](../tag/conservation), [asia](../tag/asia), [indonesia](../tag/indonesia), [ecosystem](../tag/ecosystem), [first-time-poster](../tag/first-time-poster), [indigenous](../tag/indigenous), [forest-conservation](../tag/forest-conservation), [indigenous-people](../tag/indigenous-people), [local-wisdom](../tag/local-wisdom), [local-knowledge](../tag/local-knowledge), [forest-management](../tag/forest-management), [lat:-2.262595](../tag/lat:-2.262595), [lon:102.700195](../tag/lon:102.700195)
+
+----
 
 Actually, forest conservation efforts have been made by indigenous peoples from generation to generation with local wisdom.
 

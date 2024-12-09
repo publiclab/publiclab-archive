@@ -3,6 +3,8 @@ uid: 799642
 created_at: 2022-05-17 17:01:01 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/799642/medium/251C3EE2-19E1-4C60-979E-8D1585F1288A.jpeg)
+
 # Giiwedin
 
 Giiwedin (he/him) is an Ojibwe water protector from the Leech Lake nation in northern Minnesota. Giiwedin is the Community Engagement Fellow for the Minnesota Land and Wild Rice Protection Project. He is currently located in Minnesota where he is earning his undergraduate in Biology at the University of Minnesota Morris. He grew up in Ball Club, Minnesota and was involved with the opposition to the Line 3 tar sands pipeline. Giiwedin’s hobbies include filming TikToks, being in nature, running, and cooking.

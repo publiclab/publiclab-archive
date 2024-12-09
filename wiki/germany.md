@@ -14,6 +14,8 @@ by [niklasjordan](../profile/niklasjordan), [stevie](../profile/stevie)
 
 April 27, 2018 15:02 | Tags: 
 
+----
+
 On this page the German Public Lab Enthusiasts organize themselves. 
 
 Here you can find like-minded people and suggest ideas for joint projects, events, etc. 
@@ -42,12 +44,12 @@ You have ideas for joint projects? Then write something here.
 ## Log of German Public Lab community
 
 #### Notes
-[notes:germany] 
+[germany](../../tag/germany) 
 
 ****
 #### Questions
-[questions:germany]
+[germany](../../tag/question:germany)
 
 ****
 #### Activities
-[activities:germany]
+[germany](../../tag/activity:germany)

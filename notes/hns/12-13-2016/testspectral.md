@@ -8,11 +8,15 @@ uid: 499393
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/019/032/original/IMG_Spectral.jpg)
+
 # testspectral
 
 by [hns](../profile/hns) December 13, 2016 10:18
 
 December 13, 2016 10:18 | Tags: [spectrometer](../tag/spectrometer), [guide](../tag/guide), [cross-section](../tag/cross-section), [replication:13410](../tag/replication:13410), [first-time-poster](../tag/first-time-poster)
+
+----
 
 ###Calibrate
 

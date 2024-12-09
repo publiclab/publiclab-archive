@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/015/724/original/tmp_12449-IMG_20160421_154045-1649115331.jpg)
+
 # Prototype of easy-to-build rigid spectrometer housing
 
 by [warren](../profile/warren) April 21, 2016 20:05
 
 April 21, 2016 20:05 | Tags: [spectrometer](../tag/spectrometer), [laser-cut](../tag/laser-cut), [design](../tag/design), [housing](../tag/housing), [response:11649](../tag/response:11649), [stability](../tag/stability), [setup](../tag/setup), [rigidness](../tag/rigidness), [response:12986](../tag/response:12986), [response:12157](../tag/response:12157), [cardboard](../tag/cardboard), [difficulty:easy](../tag/difficulty:easy), [upgrade:spectrometry](../tag/upgrade:spectrometry), [upgrade:dssk](../tag/upgrade:dssk), [status:under-development](../tag/status:under-development), [seeks:builds](../tag/seeks:builds), [time:3h](../tag/time:3h)
+
+----
 
 ###What I want to do
 

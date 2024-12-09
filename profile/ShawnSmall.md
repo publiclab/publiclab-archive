@@ -3,6 +3,8 @@ uid: 721831
 created_at: 2020-09-19 03:40:57 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/869c4452e19bc2828339996e1df1eee6)
+
 # ShawnSmall
 
 Hello everyone,

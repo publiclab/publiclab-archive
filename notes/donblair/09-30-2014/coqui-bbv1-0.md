@@ -8,11 +8,15 @@ uid: 43651
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/007/213/original/IMG_0734.JPG)
+
 # Build a Coqui BBv1.0
 
 by [donblair](../profile/donblair) September 30, 2014 19:43
 
 September 30, 2014 19:43 | Tags: [water-sensing](../tag/water-sensing), [water-quality](../tag/water-quality), [upverter](../tag/upverter), [riffle](../tag/riffle), [barnstar:photo-documentation](../tag/barnstar:photo-documentation), [coqui](../tag/coqui), [activity:coqui-version](../tag/activity:coqui-version)
+
+----
 
 A Coqui is a device that generates an audible output frequency that is a function of any resistance-based measurement. For example, a Coqui can measure:
 

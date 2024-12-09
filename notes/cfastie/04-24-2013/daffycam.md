@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/000/111/original/daffodil-201336168.jpg)
+
 # DaffyCam
 
 by [cfastie](../profile/cfastie) April 24, 2013 16:45
 
 April 24, 2013 16:45 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [vermont](../tag/vermont), [infrared](../tag/infrared), [imagej](../tag/imagej), [infragram](../tag/infragram), [plant-health](../tag/plant-health), [timelapse](../tag/timelapse), [superblue](../tag/superblue), [vegetation](../tag/vegetation), [infrablue](../tag/infrablue), [activity:timelapse](../tag/activity:timelapse)
+
+----
 
 <em>Image above: Some of my favorite things are best done on windy days, but timelapse photography is not one of them. To eliminate the shadows of tree branches, I shaded the daffodil with reemay (spunbond polyester fabric) which fortunately responded like a flag instead of a sail.</em>
 

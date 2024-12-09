@@ -14,6 +14,8 @@ by [mathew](../profile/mathew)
 
 January 20, 2015 02:39 | Tags: [prompt:spectrometry](../tag/prompt:spectrometry)
 
+----
+
 _This page is an archive of the old Desktop Spectrometry Kit page for versions 2 and 2.5:_
 
 **Welcome!** This page includes full instructions to assembling the [Public Lab Desktop Spectrometry Kit](http://store.publiclab.org/products/desktop-spectrometry-kit).

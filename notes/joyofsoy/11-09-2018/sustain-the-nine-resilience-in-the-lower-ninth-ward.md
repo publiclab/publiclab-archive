@@ -8,11 +8,15 @@ uid: 540844
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/027/560/original/%282%29_Decades_of_wetlands_destruction_have_transformed_this_once-thriving_cypress_swamp_%281%29.jpg)
+
 # Sustain the Nine: Resilience in the Lower Ninth Ward
 
 by [joyofsoy](../profile/joyofsoy) November 09, 2018 18:35
 
 November 09, 2018 18:35 | Tags: [gulf-coast](../tag/gulf-coast), [balloon-mapping](../tag/balloon-mapping), [wetlands](../tag/wetlands), [louisiana](../tag/louisiana), [wetland](../tag/wetland), [bayou-bienvenue](../tag/bayou-bienvenue), [bienvenue](../tag/bienvenue), [new-orleans](../tag/new-orleans), [water-quality](../tag/water-quality), [erosion](../tag/erosion), [blog](../tag/blog), [csf15](../tag/csf15), [response:16984](../tag/response:16984)
+
+----
 
 _**A version of this story is published in Public Lab's Community Science Forum, Issue 15\.**_
 

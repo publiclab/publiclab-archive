@@ -14,6 +14,8 @@ by [gccummings25](../profile/gccummings25) October 13, 2019 17:01
 
 October 13, 2019 17:01 | Tags: [air-quality](../tag/air-quality), [question:general](../tag/question:general), [general](../tag/general), [study-design](../tag/study-design), [air-sensors](../tag/air-sensors), [first-time-poster](../tag/first-time-poster)
 
+----
+
 Some background to the research I'm trying to do: https://publiclab.org/notes/gccummings25/10-12-2019/ethylene-oxide-testing-covington-and-smyrna-ga
 
   

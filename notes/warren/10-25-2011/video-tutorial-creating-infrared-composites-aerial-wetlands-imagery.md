@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/barataria-nrg.jpg)
+
 # Video tutorial: Creating infrared composites of aerial wetlands imagery
 
 by [warren](../profile/warren) October 25, 2011 18:07
 
 October 25, 2011 18:07 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [video](../tag/video), [nrg](../tag/nrg), [activity:multispectral-imaging](../tag/activity:multispectral-imaging), [activity:infragram](../tag/activity:infragram), [activity:ndvi](../tag/activity:ndvi), [activity:nrg](../tag/activity:nrg)
+
+----
 
 I've been doing video tutorials on different techniques for infrared analysis. Here's the latest:
 

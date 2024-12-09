@@ -8,11 +8,15 @@ uid: 420530
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/003/646/original/Screen_Shot_2014-02-05_at_9.25.06_PM.png)
+
 # Pesticide Monitoring Data Website
 
 by [silverhammer](../profile/silverhammer) April 14, 2014 16:09
 
 April 14, 2014 16:09 | Tags: [pesticides](../tag/pesticides), [visualization](../tag/visualization)
+
+----
 
 ###What I want to do
 

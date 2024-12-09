@@ -8,11 +8,15 @@ uid: 552
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/008/992/original/ptw.png)
+
 # GeoPhilly Balloon Mapping Workshop - April 22nd, 2015
 
 by [seankmcginnis](../profile/seankmcginnis) February 15, 2015 20:15
 
 February 15, 2015 20:15 | Tags: [balloon-mapping](../tag/balloon-mapping), [philadelphia](../tag/philadelphia), [event](../tag/event), [new-jersey](../tag/new-jersey)
+
+----
 
 The [Philadelphia Chapter](http://publiclab.org/wiki/philadelphia) will be co-hosting our second Balloon Mapping Workshop on April 22nd, 2015 as part of [Philly Tech Week](http://2015.phillytechweek.com/). The event is co-sponsored by [Azavea](http://www.azavea.com) and the [GeoPhilly](http://www.meetup.com/GeoPhilly/) meetup community. Event information can be found [here](http://2015.phillytechweek.com/events/geophilly_balloon_mapping_launch).
 

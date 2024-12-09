@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/011/914/original/PetriPFK-670-5.jpg)
+
 # PFK Nighthawk debut at LEAFFEST
 
 by [cfastie](../profile/cfastie) October 12, 2015 02:29
 
 October 12, 2015 02:29 | Tags: [kite-mapping](../tag/kite-mapping), [vermont](../tag/vermont), [kite](../tag/kite), [leaffest](../tag/leaffest), [saturnv](../tag/saturnv), [skyshield](../tag/skyshield), [leaffest2015](../tag/leaffest2015), [response:12289](../tag/response:12289), [pfk](../tag/pfk), [category:field-test](../tag/category:field-test)
+
+----
 
 *Above: A Nighthawk Delta from Paul's Fishing Kites flying in Vermont today.*  
 

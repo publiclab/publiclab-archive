@@ -8,11 +8,15 @@ uid: 420662
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/007/657/original/Screen_Shot_2014-10-28_at_12.27.49_PM.png)
+
 # Certification of Open Sensors?
 
 by [lilybui](../profile/lilybui) October 28, 2014 16:42
 
 October 28, 2014 16:42 | Tags: [licensing](../tag/licensing), [open-hardware](../tag/open-hardware), [sensors](../tag/sensors), [licenses](../tag/licenses), [creativecommons](../tag/creativecommons), [sensor-networks](../tag/sensor-networks), [sensor-journalism](../tag/sensor-journalism)
+
+----
 
 On October 20, 2014, Creative Commons Science convened a workshop involving open hardware/software developers, lawyers, funders, researchers, entrepreneurs, and grassroots science activists around a discussion about the certification of open sensors.
 

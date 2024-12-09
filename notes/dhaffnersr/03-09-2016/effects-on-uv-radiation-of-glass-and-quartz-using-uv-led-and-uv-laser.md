@@ -8,11 +8,15 @@ uid: 461120
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/014/693/original/photodiodecircuit2_bb.png)
+
 # effects on UV radiation of Glass and Quartz using UV LED and UV laser
 
 by [dhaffnersr](../profile/dhaffnersr) March 09, 2016 21:27
 
 March 09, 2016 21:27 | Tags: 
+
+----
 
 The reason I ran this series of experiments was to test the attenuation effects that glass and even quartz can have on captured data and if that effect has any real impact on final quality data analysis, here are the results below.
 

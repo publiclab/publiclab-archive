@@ -8,11 +8,15 @@ uid: 496388
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/018/699/original/IMG_2955.JPG)
+
 # MapKnitter map of Bayou Sav
 
 by [RVDave](../profile/RVDave) November 04, 2016 21:04
 
 November 04, 2016 21:04 | Tags: [mapknitter](../tag/mapknitter), [lat:30.0330059998](../tag/lat:30.0330059998), [lon:-89.8617482185](../tag/lon:-89.8617482185)
+
+----
 
 first post - 18 Sep
 

@@ -14,6 +14,8 @@ by [warren](../profile/warren) January 07, 2011 13:26
 
 January 07, 2011 13:26 | Tags: [peru](../tag/peru), [escuelab](../tag/escuelab), [lang:es](../tag/lang:es), [south-america](../tag/south-america)
 
+----
+
 <a href="https://www.flickr.com/photos/nadya/5328588362/" title="TL lamps by Nadya Peek, on Flickr"><img src="http://farm6.static.flickr.com/5046/5328588362_5f3a65026e.jpg" width="500" height="274" alt="TL lamps" /></a>
 
 El 17 de diciembre, Nadya Peek (del [Centro de Bits y Átomos](http://cba.mit.edu)) y yo dirigimos un taller de dos días en Escuelab en Lima. Organizado por Escuelab([.org](http://escuelab.org)) y FabLabLima([.org](http://fablablima.org)), el taller trató espectrometría básica de luz visible e infrarrojo.Los participantes construyeron sus propios espectrómetros con tubos de PVC, cámaras digitales y partes de discos compactos.

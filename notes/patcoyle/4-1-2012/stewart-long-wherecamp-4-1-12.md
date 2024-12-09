@@ -14,6 +14,8 @@ by [patcoyle](../profile/patcoyle) April 02, 2012 00:40
 
 April 02, 2012 00:40 | Tags: 
 
+----
+
 Video of Stewart Long at WhereCamp is at: 
 http://youtu.be/uahwQu7BEWA
 

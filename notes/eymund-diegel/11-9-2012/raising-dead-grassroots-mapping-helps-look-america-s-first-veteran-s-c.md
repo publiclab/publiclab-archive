@@ -8,11 +8,15 @@ uid: 1016
 
 ---
 
+![](https://publiclab.org/sites/default/files/1_2012 7 July cracked concrete aerial and David Tennant with hamlet skull.jpg)
+
 # Raising the Dead: Grassroots Mappers Help Look For America’s First Veterans Cemetery.
 
 by [eymund](../profile/eymund) November 09, 2012 05:42
 
 November 09, 2012 05:42 | Tags: [gowanus](../tag/gowanus), [new-york](../tag/new-york), [gowanus-canal-conservancy](../tag/gowanus-canal-conservancy), [veterans-day](../tag/veterans-day), [battle-of-brooklyn](../tag/battle-of-brooklyn), [marylander-burial-ground](../tag/marylander-burial-ground), [red-balloons](../tag/red-balloons), [american-pie](../tag/american-pie), [27-august-1776](../tag/27-august-1776)
+
+----
 
 <strong>An ordinary looking concrete slab in Brooklyn - what story does it really tell ?</strong>
 

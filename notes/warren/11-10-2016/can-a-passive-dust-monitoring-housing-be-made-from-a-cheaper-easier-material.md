@@ -14,6 +14,8 @@ by [warren](../profile/warren) November 10, 2016 17:21
 
 November 10, 2016 17:21 | Tags: [diy](../tag/diy), [dust](../tag/dust), [frac-sand](../tag/frac-sand), [pm](../tag/pm), [particle-monitoring](../tag/particle-monitoring), [passive-pm](../tag/passive-pm), [question:passive-pm](../tag/question:passive-pm), [question:pm](../tag/question:pm), [question:particulates](../tag/question:particulates), [fabrication](../tag/fabrication), [question:frac-sand](../tag/question:frac-sand), [question:dust](../tag/question:dust), [question:dust-sampling](../tag/question:dust-sampling)
 
+----
+
 The DIY [passive particle monitor][1] housing (for collecting air pollution particles to count with a microscope) is supposed to be made of stainless steel, and the test versions @mathew and others have made are aluminum. But to make it easier and cheaper to build one, could they be made of acrylic or polycarbonate? (copying in this question from [this page][2], via @mathew)
 
 ![image description][3]

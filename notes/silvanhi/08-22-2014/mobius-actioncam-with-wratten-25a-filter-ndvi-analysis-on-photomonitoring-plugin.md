@@ -8,11 +8,15 @@ uid: 427351
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/006/380/original/42.jpeg)
+
 # Mobius Actioncam with WRATTEN 25a filter NDVI analysis on PhotoMonitoring Plugin
 
 by [silvanhi](../profile/silvanhi) August 22, 2014 12:07
 
 August 22, 2014 12:07 | Tags: [ndvi](../tag/ndvi), [infrared-photography](../tag/infrared-photography), [aerial-mapping](../tag/aerial-mapping), [fiji](../tag/fiji), [mobius-actioncam](../tag/mobius-actioncam), [wratten25a](../tag/wratten25a), [photomonitoring](../tag/photomonitoring), [hsv](../tag/hsv), [first-time-poster](../tag/first-time-poster)
+
+----
 
 Hello everybody. I really appreciate this useful and open-minded communtiy. I spent the last couple weeks reading many articles on NDVI photography and made some great progress with all the information provided on this site. Now I'm at a point at which I need some specific help from experts. 
 

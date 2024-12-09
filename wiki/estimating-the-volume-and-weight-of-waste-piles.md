@@ -8,11 +8,15 @@ uid: 1259
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/009/372/original/Pile_Height_measurements.jpg)
+
 # Estimating the Volume and Weight of Waste Piles
 
 by [mollydanielsson](../profile/mollydanielsson)
 
 March 21, 2015 00:12 | Tags: [grassrootsmappingforum](../tag/grassrootsmappingforum), [waste](../tag/waste), [trash](../tag/trash), [petcoke](../tag/petcoke), [chicago](../tag/chicago), [midwest](../tag/midwest), [gmf-6](../tag/gmf-6), [style:fancy](../tag/style:fancy), [with:holden](../tag/with:holden), [method](../tag/method)
+
+----
 
 by Holden Sparacino
 

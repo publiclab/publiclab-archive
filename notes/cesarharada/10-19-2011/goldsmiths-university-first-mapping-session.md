@@ -14,6 +14,8 @@ by [cesarharada](../profile/cesarharada) October 20, 2011 01:03
 
 October 20, 2011 01:03 | Tags: [balloon-mapping](../tag/balloon-mapping), [london](../tag/london), [uk](../tag/uk), [goldsmiths](../tag/goldsmiths), [eu](../tag/eu)
 
+----
+
 20:15, 2011 10 11 London, UK.
 <br>
 Today, we went out mapping, or more precisely doing <a href="http://en.wikipedia.org/wiki/Aerial_photography" target="_blank">aerial photography</a>, flying a digital camera under a nice big green balloon from the green of Goldsmiths University  London. The MA is Design at Goldsmiths has an option called <a href="http://www.gold.ac.uk/pg/ma-design-environment/" target="_blank">“Design &amp; Environment”</a> supervised by <a href="http://www.gold.ac.uk/design/staff/gabrys/" target="_blank">Prof Jennifer Gabrys</a>. It is a course that initiates students to alternatives design and environmental methods and pratices. This hands-on experiment was lead by <a href="http://cesarharada.com" target="_blank">Cesar Harada</a> acting both as Goldsmiths tutor and <a href="http://publiclaboratory.org/home" target="_blank">Public Laboratory instructor</a>. The mappers -who are also the authors of this post- were Anuja Uttamrao Borker, Inessa Demidova, Shan-Yu Hsu, Dk Hajah Hazwani Pg Dato Haji Jaberudin, Federica Sterpos, Chian-Yun Yang, Yifan Zhang, Elvira Grob (<a href="https://www.flickr.com/photos/worldworldworld/6237912892/sizes/l/in/photostream/">group picture</a>).

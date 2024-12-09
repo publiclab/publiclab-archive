@@ -14,6 +14,8 @@ by [molangmuir10](../profile/molangmuir10) May 30, 2019 12:18
 
 May 30, 2019 12:18 | Tags: [pi-builder](../tag/pi-builder), [question:pi-builder](../tag/question:pi-builder)
 
+----
+
 ***UPDATE!! This worked it just took a very long time for the wifi to connect! (About 25mins)***
 
 

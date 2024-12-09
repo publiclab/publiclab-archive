@@ -8,11 +8,15 @@ uid: 77
 
 ---
 
+![](https://publiclab.org/sites/default/files/IMG_3432.JPG)
+
 # Prototype juice bottle rig on R-10 UAir quad
 
 by [patcoyle](../profile/patcoyle) June 04, 2013 20:21
 
 June 04, 2013 20:21 | Tags: [drones](../tag/drones), [uav](../tag/uav), [bottle-rig](../tag/bottle-rig)
+
+----
 
 I pledged for the <a href="http://site.uair.co/">R-10 UAir quad</a> on <a href="http://www.kickstarter.com/projects/1101297082/r10-quadrotor-powerful-inexpensive-and-customizabl">Kickstarter</a> some time ago. Finally got it assembled, but have only flown it about 20 seconds. I also got the extra camera mount option, but have not yet attached it.
 

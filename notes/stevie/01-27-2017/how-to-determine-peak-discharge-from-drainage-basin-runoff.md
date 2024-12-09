@@ -8,11 +8,15 @@ uid: 422561
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/019/387/original/2255129_02a73e59.jpg)
+
 # How to determine peak discharge from drainage basin runoff
 
 by [stevie](../profile/stevie) January 27, 2017 18:43
 
 January 27, 2017 18:43 | Tags: [stormwater](../tag/stormwater), [seeks:replications](../tag/seeks:replications), [activity:stormwater](../tag/activity:stormwater)
+
+----
 
 _Source of lead image: http://www.geograph.org.uk/photo/2255129_
 

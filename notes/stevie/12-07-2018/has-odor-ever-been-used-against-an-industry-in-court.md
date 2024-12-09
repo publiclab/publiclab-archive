@@ -14,5 +14,7 @@ by [stevie](../profile/stevie) December 07, 2018 20:07
 
 December 07, 2018 20:07 | Tags: [evidence](../tag/evidence), [advocacy](../tag/advocacy), [odor](../tag/odor), [question:general](../tag/question:general), [odor-log](../tag/odor-log), [question:advocacy](../tag/question:advocacy), [law-and-policy](../tag/law-and-policy), [question:law-and-policy](../tag/question:law-and-policy)
 
+----
+
 I'm interested to hear if odor has ever been used against an industry in court. If so, how, and what evidence was collected for it? 
 

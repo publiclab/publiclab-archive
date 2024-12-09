@@ -8,11 +8,15 @@ uid: 379
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/046/725/original/mesh_bags.jpg)
+
 # Operation Pollution Sucks:  ~$100 nurdle sucker upper from commercial sources
 
 by [eustatic](../profile/eustatic) June 04, 2022 19:45
 
 June 04, 2022 19:45 | Tags: [kits](../tag/kits), [water-quality](../tag/water-quality), [microplastics](../tag/microplastics), [zoom:18](../tag/zoom:18), [nurdles](../tag/nurdles), [nurdlepatrol](../tag/nurdlepatrol), [lat:40.037875](../tag/lat:40.037875), [lon:-76.305514](../tag/lon:-76.305514)
+
+----
 
 On the [Nurdle Patrol facebook group](https://www.facebook.com/groups/352470642178839/), user [Nick Castillo](https://www.facebook.com/groups/352470642178839/user/100078774291290) posted his use of a home garden clippings vacuum to vacuum nurdles from a rail ballast yard. Nick credits Galveston Bay Foundation's Nurdle 101 class for the motivation.
 

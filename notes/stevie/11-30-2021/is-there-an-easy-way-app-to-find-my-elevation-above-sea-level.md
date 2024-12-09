@@ -14,6 +14,8 @@ by [stevie](../profile/stevie) November 30, 2021 20:29
 
 November 30, 2021 20:29 | Tags: [mapping](../tag/mapping), [air-quality](../tag/air-quality), [question:air-quality](../tag/question:air-quality), [question:general](../tag/question:general), [general](../tag/general), [purpleair](../tag/purpleair), [question:mapping](../tag/question:mapping), [question:purpleair](../tag/question:purpleair), [purple-air](../tag/purple-air), [elevation](../tag/elevation), [question:purple-air](../tag/question:purple-air), [with:lesbreathe](../tag/with:lesbreathe), [question:elevation](../tag/question:elevation), [lesbreathe](../tag/lesbreathe), [question:lesbreathe](../tag/question:lesbreathe), [erpa](../tag/erpa), [question:erpa](../tag/question:erpa)
 
+----
+
 *Posting on behalf of LESBreathe*
 
 Our project came into being because of the potential destruction of the East River Park by NYC. We were concerned about the current air quality, as well as the air quality when the park is destroyed and construction begins. This proposed plan is supposed to turn the park into flood protection for the Lower East Side. There is a group fighting this design and one of the issues raised was whether or not one of the developments across the East River in Brooklyn are at the same elevation and were allowed to be constructed. 

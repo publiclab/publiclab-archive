@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/019/693/original/IMAG0263_%281%29.jpg)
+
 # Calculating volume from ground level photos?
 
 by [warren](../profile/warren) February 28, 2017 22:00
 
 February 28, 2017 22:00 | Tags: [sfm](../tag/sfm), [timelapse](../tag/timelapse), [volume](../tag/volume), [answered](../tag/answered), [sand-mining](../tag/sand-mining), [question:sfm](../tag/question:sfm)
+
+----
 
 @glennwalquist (who shared the above picture) has been [monitoring a sand mine site using a timelapse camera](https://publiclab.org/notes/glennwalquist/12-04-2016/monitoring-sargent-sand-mining-operation-in-ludington-michigan#comments), but says:
 

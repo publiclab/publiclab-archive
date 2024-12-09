@@ -3,6 +3,8 @@ uid: 424605
 created_at: 2014-06-08 01:57:39 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/9d6dbb45e7a54b5a0356eb736ddf6431)
+
 # chelseak
 
 water & nitrogen!

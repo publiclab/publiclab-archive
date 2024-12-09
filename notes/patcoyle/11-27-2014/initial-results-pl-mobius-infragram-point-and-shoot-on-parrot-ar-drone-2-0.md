@@ -8,11 +8,15 @@ uid: 77
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/008/144/original/ARParrot_w_Mobius_wo_image_crpd.jpg)
+
 # Initial results: PL Mobius Infragram Point and Shoot on Parrot AR.Drone 2.0 
 
 by [patcoyle](../profile/patcoyle) November 27, 2014 23:59
 
 November 27, 2014 23:59 | Tags: [ndvi](../tag/ndvi), [infragram](../tag/infragram), [fiji](../tag/fiji), [uav-mapping](../tag/uav-mapping), [gimp](../tag/gimp), [super-red](../tag/super-red), [photomonitoring](../tag/photomonitoring)
+
+----
 
 ###What I want to do
 Explore mapping with lightweight PL Mobius Infragram and low-lift, low altitude UAVs (like Parrot AR.Drone 2.0).

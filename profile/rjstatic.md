@@ -3,6 +3,8 @@ uid: 174
 created_at: 2013-07-14 02:45:42 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/d5a2288816e8e91408a73610d65ab855)
+
 # rjstatic
 
 

@@ -14,6 +14,8 @@ by [awhgarland](../profile/awhgarland) May 24, 2013 12:28
 
 May 24, 2013 12:28 | Tags: 
 
+----
+
 Hello,
 
 I attempted to back you with two separate pledges for two separate rewards. Our non profit wants to use the products for several community outreach projects for this coming summer in July, North Slope, AK., and August, Albemarle Region NC. They are youth projects.

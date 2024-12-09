@@ -14,6 +14,8 @@ by [marlokeno](../profile/marlokeno) December 30, 2015 05:06
 
 December 30, 2015 05:06 | Tags: [question:infrared](../tag/question:infrared)
 
+----
+
 ###I'm wondering if smaller natural gas leaks, or hydrocarbons are visible with diy infrared techniques.
 a new natural gas pipeline is planned a couple miles from where we live.
 

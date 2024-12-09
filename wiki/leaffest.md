@@ -14,6 +14,8 @@ by [warren](../profile/warren), [cfastie](../profile/cfastie)
 
 August 28, 2013 15:20 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [vermont](../tag/vermont), [leaffest](../tag/leaffest), [leaffest2012](../tag/leaffest2012), [event](../tag/event), [infragram](../tag/infragram), [events:vermont](../tag/events:vermont), [tabbed:notes](../tag/tabbed:notes), [tabbed:wikis](../tag/tabbed:wikis)
 
+----
+
 An organizing page for LEAFFEST!
 
 
@@ -21,7 +23,7 @@ An organizing page for LEAFFEST!
 
 We tried proposing sessions in the form of questions this year, Jeopardy-style!
 
-[questions:leaffest]
+[leaffest](../../tag/question:leaffest)
 
 
 

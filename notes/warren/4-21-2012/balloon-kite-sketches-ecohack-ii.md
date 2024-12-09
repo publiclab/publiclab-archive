@@ -8,10 +8,14 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/IMG_20120421_141030.jpg)
+
 # Balloon-kite sketches at EcoHack II
 
 by [warren](../profile/warren) April 21, 2012 18:13
 
 April 21, 2012 18:13 | Tags: [balloon-mapping](../tag/balloon-mapping)
+
+----
 
 

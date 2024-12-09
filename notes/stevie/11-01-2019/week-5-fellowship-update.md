@@ -8,11 +8,15 @@ uid: 422561
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/036/136/original/UV-florescence.JPG)
+
 # Week 5 Fellowship Update 
 
 by [stevie](../profile/stevie) November 01, 2019 18:54
 
 November 01, 2019 18:54 | Tags: [fellowship](../tag/fellowship), [oil-and-gas](../tag/oil-and-gas), [oil-and-gas-water-trio](../tag/oil-and-gas-water-trio), [with:rollinrenola](../tag/with:rollinrenola)
+
+----
 
 \_Posting the Week 5 Fellowship update on behalf of Rollin Black:\_
 

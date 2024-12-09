@@ -8,11 +8,15 @@ uid: 597615
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/033/056/original/download.png)
+
 # Testing Our Waters
 
 by [TestOurWaters](../profile/TestOurWaters)
 
 June 20, 2019 16:14 | Tags: [ocean](../tag/ocean), [micro-plastics](../tag/micro-plastics), [method](../tag/method), [plastics](../tag/plastics), [trawls](../tag/trawls), [trawling](../tag/trawling)
+
+----
 
 ## Summary
 TestingOurWaters.net is a citizen science project designed to get people to engage in ocean cleanup and to help gather data about how much plastic is currently in our waters. Our goal is to make plastic analysis accessible so our trawls can be assembled at home cheaply (starting at around $15) and are easy to use, making participation in this important problem simple. 

@@ -8,11 +8,15 @@ uid: 77
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/008/124/original/Color_Index.jpg)
+
 # Initial results: Using PTLens to correct fisheye effect in PL Mobius Infragram Point and Shoot
 
 by [patcoyle](../profile/patcoyle) November 27, 2014 02:04
 
 November 27, 2014 02:04 | Tags: [ndvi](../tag/ndvi), [infragram](../tag/infragram), [fisheye](../tag/fisheye), [fiji](../tag/fiji), [photomonitoring](../tag/photomonitoring), [lens-distortion](../tag/lens-distortion)
+
+----
 
 ###What I want to do
 Correct fisheye effect in images from PL Mobius Infragram Point and Shoot. One tool is [PTLens ($25)](http://epaperpress.com/ptlens/purchase.html). 

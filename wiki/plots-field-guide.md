@@ -14,6 +14,8 @@ by [donblair](../profile/donblair)
 
 October 10, 2012 22:14 | Tags: 
 
+----
+
 This page was created to collect notes and ideas around the development of a concise guide and overview of useful methods and approaches used in grassroots science.
 
 ###Format###

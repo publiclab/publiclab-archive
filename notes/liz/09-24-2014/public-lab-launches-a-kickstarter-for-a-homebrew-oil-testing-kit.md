@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/007/007/original/Screen_Shot_2014-09-24_at_10.10.47_AM.png)
+
 # Public Lab Launches a Kickstarter for a Homebrew Oil Testing Kit
 
 by [liz](../profile/liz) September 24, 2014 14:12
 
 September 24, 2014 14:12 | Tags: [spectrometer](../tag/spectrometer), [kickstarter](../tag/kickstarter), [press-release](../tag/press-release), [oil-testing-kit](../tag/oil-testing-kit), [homebrew-oil-testing-kit](../tag/homebrew-oil-testing-kit)
+
+----
 
 **NEWS RELEASE**<br>
 FOR IMMEDIATE RELEASE<br>

@@ -8,11 +8,15 @@ uid: 799004
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/047/105/original/IMG_1951.JPG)
+
 # Open Call: "Game Over Formosa Plastics" Community Report Back Video 
 
 by [michelleiL](../profile/michelleiL) September 01, 2022 18:28
 
 September 01, 2022 18:28 | Tags: [video](../tag/video), [air-quality](../tag/air-quality), [environmental-justice](../tag/environmental-justice), [fellowship](../tag/fellowship), [particulate-matter](../tag/particulate-matter), [open-call](../tag/open-call), [st-james](../tag/st-james), [fellowship-teams](../tag/fellowship-teams), [formosaplastics](../tag/formosaplastics)
+
+----
 
 After 9 months of collecting air monitoring data and supporting the advocacy efforts of the St. James Parish community against the proposed Formosa Plastics plant, the "[Game Over Formosa Plastics][1]" team got to share their reflections, lessons learned, and findings.
 

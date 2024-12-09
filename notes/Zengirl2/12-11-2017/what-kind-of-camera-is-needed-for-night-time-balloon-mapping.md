@@ -14,4 +14,6 @@ by [zengirl2](../profile/zengirl2) December 11, 2017 20:07
 
 December 11, 2017 20:07 | Tags: [balloon-mapping](../tag/balloon-mapping), [waterway](../tag/waterway), [aerial-photography](../tag/aerial-photography), [watchdog](../tag/watchdog), [air-quality](../tag/air-quality), [answered](../tag/answered), [environmental-justice](../tag/environmental-justice), [question:question](../tag/question:question)
 
+----
+
 There is a need to capture night-time activities of factory farming and other industries to check for violations.

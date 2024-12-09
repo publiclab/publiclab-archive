@@ -14,6 +14,8 @@ by [sara](../profile/sara) December 13, 2011 23:25
 
 December 13, 2011 23:25 | Tags: [air-quality](../tag/air-quality), [formaldehyde](../tag/formaldehyde), [roomba](../tag/roomba), [indoor-air-quality](../tag/indoor-air-quality), [air-sensors](../tag/air-sensors)
 
+----
+
 Research Questions:
 1. Are their digital sensors we could attached to roomba that would be able to detect indoor formaldehyde pollution?
 2. Are their known methods to remediate indoor formaldehyde?

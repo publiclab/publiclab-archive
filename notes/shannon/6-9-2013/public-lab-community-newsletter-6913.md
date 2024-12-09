@@ -8,11 +8,15 @@ uid: 9
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/000/497/original/plots-logo-transparent.jpg)
+
 # Public Lab community newsletter 6.9.13
 
 by [Shannon](../profile/Shannon) June 10, 2013 02:05
 
 June 10, 2013 02:05 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
+
+----
 
 This week in the Public Lab community newsletter, check out the visually beautiful work being done on low cost infrared imaging, find out about the upcoming Google Summer of Code projects and view new maps in the archive. Enjoy!
 

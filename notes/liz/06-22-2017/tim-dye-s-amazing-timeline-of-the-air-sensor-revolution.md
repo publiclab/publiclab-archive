@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/020/850/original/canary-coal-mine-main-648x325.jpg)
+
 # Tim Dye's amazing timeline of the air sensor revolution
 
 by [liz](../profile/liz) June 22, 2017 14:14
 
 June 22, 2017 14:14 | Tags: [air-quality](../tag/air-quality)
+
+----
 
 _above: a canary and a coal miner_
 

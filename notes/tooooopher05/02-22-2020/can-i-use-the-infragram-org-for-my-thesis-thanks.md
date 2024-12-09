@@ -14,4 +14,6 @@ by [tooooopher05](../profile/tooooopher05) February 22, 2020 04:44
 
 February 22, 2020 04:44 | Tags: [ndvi](../tag/ndvi), [infrared](../tag/infrared), [infragram](../tag/infragram), [question:ndvi](../tag/question:ndvi), [question:infragram](../tag/question:infragram), [question:infrared](../tag/question:infrared), [question:multispectral-imaging](../tag/question:multispectral-imaging), [multispectral-imaging](../tag/multispectral-imaging), [first-time-poster](../tag/first-time-poster)
 
+----
+
 I'm conducting thesis right now

@@ -14,6 +14,8 @@ by [rjstatic](../profile/rjstatic), [cfastie](../profile/cfastie), [sara](../pro
 
 March 06, 2012 01:27 | Tags: 
 
+----
+
 Planning Page for Vermont/Northern New England Meet up!
 
 Vermont/Northern New England organizers: <a href="http://fastie.net/">Chris Fastie</a> (contact link at bottom of that page) There are about six of us within 75 miles of Middlebury, VT, just the right number for a good mapping session. I have kites, cameras, rigs, etc., and soon a new balloon kit. Let's figure this out together.

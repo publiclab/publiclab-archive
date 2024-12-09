@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/sites/default/files/BalloonOverPrazeres_0.jpg)
+
 # Rio de Janeiro
 
 by [faraujo](../profile/faraujo), [liz](../profile/liz), [gonzoearth](../profile/gonzoearth)
 
 October 03, 2011 21:48 | Tags: [rio](../tag/rio), [brazil](../tag/brazil), [events:rio-de-janeiro](../tag/events:rio-de-janeiro), [chapter](../tag/chapter), [lat:-22.9083](../tag/lat:-22.9083), [lon:-43.1964](../tag/lon:-43.1964)
+
+----
 
 ![6082768397_0f43af8470_o.jpg](https://i.publiclab.org/system/images/photos/000/000/128/medium/6082768397_0f43af8470_o.jpg)
 

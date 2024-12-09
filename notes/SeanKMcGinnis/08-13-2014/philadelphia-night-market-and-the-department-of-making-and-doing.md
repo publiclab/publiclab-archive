@@ -8,11 +8,15 @@ uid: 552
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/006/235/original/dmd.jpg)
+
 # Philadelphia Night Market and the Department of Making and Doing
 
 by [seankmcginnis](../profile/seankmcginnis) August 13, 2014 17:08
 
 August 13, 2014 17:08 | Tags: [philadelphia](../tag/philadelphia), [event](../tag/event), [northeast](../tag/northeast), [event:rsvp](../tag/event:rsvp), [date:08-14-2014](../tag/date:08-14-2014)
+
+----
 
 ###Philadelphia Night Market
 

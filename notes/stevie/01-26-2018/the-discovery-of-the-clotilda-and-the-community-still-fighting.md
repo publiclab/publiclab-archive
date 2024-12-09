@@ -8,11 +8,15 @@ uid: 422561
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/023/351/original/Clotilda.jpg)
+
 # The discovery of the Clotilda and the community 'still fighting' 
 
 by [stevie](../profile/stevie) January 26, 2018 17:25
 
 January 26, 2018 17:25 | Tags: [gulf-coast](../tag/gulf-coast), [mobile](../tag/mobile), [blog](../tag/blog), [environmental-justice](../tag/environmental-justice), [ej](../tag/ej), [nas](../tag/nas), [mejac](../tag/mejac), [africatown](../tag/africatown), [alabama](../tag/alabama), [chess](../tag/chess), [clotilda](../tag/clotilda), [ship](../tag/ship), [dioxin](../tag/dioxin)
+
+----
 
 _Lead photo by Ben Raines | braines@al.com. More photos can be [found here][1]._
 

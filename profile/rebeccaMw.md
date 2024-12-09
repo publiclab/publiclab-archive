@@ -3,6 +3,8 @@ uid: 779054
 created_at: 2021-11-18 16:56:55 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/779054/medium/nit.png)
+
 # rebeccaMw
 
 Public Lab Education Manager

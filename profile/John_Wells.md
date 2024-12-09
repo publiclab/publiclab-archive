@@ -3,6 +3,8 @@ uid: 372
 created_at: 2016-09-09 14:17:26 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/372/medium/John_Wells.jpg)
+
 # John_Wells
 
 Kite aerial photographer with, and co-founder of, Gloucestershire and West Lothian Aerial Archaeology:

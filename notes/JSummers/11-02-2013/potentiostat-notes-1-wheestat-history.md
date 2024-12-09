@@ -8,11 +8,15 @@ uid: 304279
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/002/090/original/WheeStat5_2-fig1.bmp)
+
 # Potentiostat Notes-1, WheeStat history
 
 by [JSummers](../profile/JSummers) November 02, 2013 22:06
 
 November 02, 2013 22:06 | Tags: [water-sensing](../tag/water-sensing), [water-quality](../tag/water-quality), [potentiostat](../tag/potentiostat)
+
+----
 
 ###What I want to do
 This note describes some recent development work on potentiostat, an instrument that measures current / voltage curves for electrode processes.  I have been told that I should worry less about having something fully developed and put more of our results online. In response, this is my attempt to be more transparent about the process.   This note just covers development history.  In the near future, I hope to write one that describes how to build one of these (it will probably be as boring as this one, but it will have more pictures).  In the not-as-near future, I will put actual code on my GitHub site (https://github.com/WheeSci).  If you are interested in design files or code and don't find what you need at the GitHub site, let me know and I will send you what I can.

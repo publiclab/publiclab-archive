@@ -8,11 +8,15 @@ uid: 420189
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/011/549/original/bucketfront.jpg)
+
 # buoy for water sensor
 
 by [DavidMack](../profile/DavidMack) September 11, 2015 20:44
 
 September 11, 2015 20:44 | Tags: [water-sensing](../tag/water-sensing), [water-quality](../tag/water-quality), [riffle](../tag/riffle), [open-water](../tag/open-water), [bottle](../tag/bottle), [waterproofing](../tag/waterproofing), [buoy](../tag/buoy), [riffle-examples](../tag/riffle-examples), [data-logger-enclosures](../tag/data-logger-enclosures), [sensor-enclosures](../tag/sensor-enclosures), [activity:sensor-enclosures](../tag/activity:sensor-enclosures), [first-time-poster](../tag/first-time-poster)
+
+----
 
 ###What I want to do
 

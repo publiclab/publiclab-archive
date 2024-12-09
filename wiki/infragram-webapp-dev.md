@@ -14,6 +14,8 @@ by [NickJemis](../profile/NickJemis), [warren](../profile/warren), [donblair](..
 
 May 21, 2013 19:24 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [infragram](../tag/infragram), [app](../tag/app)
 
+----
+
 ![infrapix.png](https://i.publiclab.org/system/images/photos/000/000/369/medium/infrapix.png)
 
 ### Using Flask, Twitter Bootstrap, and Heroku

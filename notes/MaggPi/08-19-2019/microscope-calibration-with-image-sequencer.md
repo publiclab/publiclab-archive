@@ -8,11 +8,15 @@ uid: 501996
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/034/662/original/Slide11.PNG)
+
 # MICROSCOPE CALIBRATION WITH IMAGE SEQUENCER
 
 by [MaggPi](../profile/MaggPi) August 19, 2019 00:59
 
 August 19, 2019 00:59 | Tags: [calibration](../tag/calibration), [image-processing](../tag/image-processing), [microscope](../tag/microscope), [pi-camera](../tag/pi-camera), [microscopy](../tag/microscopy), [raspberry-pi-cameras](../tag/raspberry-pi-cameras), [microns](../tag/microns), [image-sequencer](../tag/image-sequencer), [gsoc-2019](../tag/gsoc-2019), [overlay](../tag/overlay)
+
+----
 
 ## ABSTRACT:
 

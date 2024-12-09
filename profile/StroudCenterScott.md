@@ -3,6 +3,8 @@ uid: 765031
 created_at: 2021-07-13 17:24:58 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/a44a2ef9d88037b2269916ed556781fe)
+
 # StroudCenterScott
 
 Researcher at Stroud Water Research Center

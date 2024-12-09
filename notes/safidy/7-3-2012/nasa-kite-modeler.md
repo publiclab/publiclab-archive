@@ -8,11 +8,15 @@ uid: 898
 
 ---
 
+![](https://publiclab.org/sites/default/files/nasa-logo.jpg)
+
 # Nasa Kite modeler
 
 by [Safidy](../profile/Safidy) July 04, 2012 01:08
 
 July 04, 2012 01:08 | Tags: [kite-mapping](../tag/kite-mapping), [safidy-andrianantenaina](../tag/safidy-andrianantenaina), [nasa](../tag/nasa), [kite-modeler](../tag/kite-modeler), [diy-kite](../tag/diy-kite), [software](../tag/software)
+
+----
 
 Kite modeler is a open software from NASA which allow you to understand the physics and math behind the flight of a kite and you can use it to design your own kite.
 

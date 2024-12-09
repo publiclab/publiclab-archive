@@ -8,11 +8,15 @@ uid: 421046
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/004/503/original/draw-01.png)
+
 # GSoC Update- Leaflet.draw and Non affine transformations
 
 by [anishshah101](../profile/anishshah101) June 02, 2014 22:21
 
 June 02, 2014 22:21 | Tags: [mapknitter](../tag/mapknitter), [gsoc](../tag/gsoc), [leaflet](../tag/leaflet), [developers](../tag/developers), [gsoc-2014](../tag/gsoc-2014)
+
+----
 
 Work done till now:
 

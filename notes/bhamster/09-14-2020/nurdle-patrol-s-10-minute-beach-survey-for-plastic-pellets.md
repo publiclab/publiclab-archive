@@ -8,11 +8,15 @@ uid: 664477
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/040/881/original/Tunnell_et_al_2020_graph_abstract.jpg)
+
 # Nurdle Patrol’s 10-minute beach survey for plastic pellets
 
 by [bhamster](../profile/bhamster) September 14, 2020 16:48
 
 September 14, 2020 16:48 | Tags: [gulf-coast](../tag/gulf-coast), [protocol](../tag/protocol), [texas](../tag/texas), [micro-plastics](../tag/micro-plastics), [beach](../tag/beach), [microplastics](../tag/microplastics), [activity:microplastics](../tag/activity:microplastics), [gulf-of-mexico](../tag/gulf-of-mexico), [marine-debris](../tag/marine-debris), [nurdles](../tag/nurdles), [beach-cleanup](../tag/beach-cleanup), [nurdle-patrol](../tag/nurdle-patrol), [beach-survey](../tag/beach-survey), [nurdle-survey](../tag/nurdle-survey), [plastic-pellets](../tag/plastic-pellets), [activity:nurdle-survey](../tag/activity:nurdle-survey)
+
+----
 
 _Image: Volunteers collecting plastic pellets on a beach in the Gulf of Mexico. [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/ "http://creativecommons.org/licenses/by/4.0/"). Tunnell et al. 2020\. [https://doi.org/10.1016/j.marpolbul.2019.110794](https://doi.org/10.1016/j.marpolbul.2019.110794 "https://doi.org/10.1016/j.marpolbul.2019.110794")._
 

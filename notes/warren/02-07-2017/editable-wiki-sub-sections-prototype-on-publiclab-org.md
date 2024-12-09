@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/019/458/original/IMG_20170207_140919_109.jpg)
+
 # Editable wiki sub-sections prototype on PublicLab.org
 
 by [warren](../profile/warren) February 07, 2017 19:15
 
 February 07, 2017 19:15 | Tags: [documentation](../tag/documentation), [software](../tag/software), [developers](../tag/developers), [coding](../tag/coding), [wwg](../tag/wwg), [rich-wikis](../tag/rich-wikis)
+
+----
 
 I've been working on this part of the [Rich Wikis project][1] to make [PublicLab.org][2]'s wikis more interactive -- to encourage people to author more -- and one part of that has been the ["Editable sub-sections" feature][3].
 

@@ -3,6 +3,8 @@ uid: 589024
 created_at: 2019-05-07 14:13:28 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/589024/medium/WP_20160319_13_49_24_Pro.jpg)
+
 # joquendo
 
 I am the Quality Control Manger at a brewery in New Orleans, and I am always looking for affordable ways to further our knowledge of beer through science.

@@ -8,11 +8,15 @@ uid: 77
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/007/977/original/P1130103.JPG)
+
 # Results: Simple Aerial Photomapping session, EWB Symposium Without Borders, Davis,  CA, 2014
 
 by [patcoyle](../profile/patcoyle) November 17, 2014 23:55
 
 November 17, 2014 23:55 | Tags: [ndvi](../tag/ndvi), [dual-camera](../tag/dual-camera), [kap](../tag/kap), [infrablue](../tag/infrablue)
+
+----
 
 ###What I want to do
 Continue to make potential users like Engineers Without Borders teams aware of the Public Lab DIY mapping tools.

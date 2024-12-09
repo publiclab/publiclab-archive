@@ -14,6 +14,8 @@ by [liz](../profile/liz), [mimiss](../profile/mimiss), [JSummers](../profile/JSu
 
 December 17, 2013 15:51 | Tags: [education](../tag/education), [teaching](../tag/teaching), [classroom](../tag/classroom), [teachers](../tag/teachers), [parent:education](../tag/parent:education)
 
+----
+
 The Public Lab site is a social research sharing website for non-professional and professional scientists alike. 
 
 It's like an online lab notebook where students can:
@@ -72,7 +74,7 @@ There are a series of well documented physical science lessons published on this
 ### Activities
 Here are some additional activities particularly suited for use in the classroom:
 
-[activities:education]
+[education](../../tag/activity:education)
 
 ****
 
@@ -84,11 +86,11 @@ https://publiclab.org/requesting-responses
 
 Here are some examples:
 
-[notes:seeks:responses]
+[seeks:responses](../../tag/seeks:responses)
 
 ****
 
 ### Looking for more information?
 Check out the questions and answers below. If you don't see what you're looking for, ask a question of your own so our community can lend a hand.
 
-[questions:education]
+[education](../../tag/question:education)

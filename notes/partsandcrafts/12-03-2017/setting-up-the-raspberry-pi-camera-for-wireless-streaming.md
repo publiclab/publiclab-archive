@@ -8,11 +8,15 @@ uid: 66014
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/022/756/original/seeing_stuff.jpg)
+
 # Setting up the Raspberry Pi Camera for Wireless Streaming
 
 by [partsandcrafts](../profile/partsandcrafts) December 03, 2017 02:55
 
 December 03, 2017 02:55 | Tags: [raspberry-pi](../tag/raspberry-pi), [barnstar:basic](../tag/barnstar:basic), [with:kgradow1](../tag/with:kgradow1), [with:warren](../tag/with:warren), [microscope](../tag/microscope), [pi-camera](../tag/pi-camera), [microscopes](../tag/microscopes), [activity:microscopes](../tag/activity:microscopes), [raspberry-pi-infragram](../tag/raspberry-pi-infragram), [activity:raspberry-pi-infragram](../tag/activity:raspberry-pi-infragram), [with:wmacfarl](../tag/with:wmacfarl), [raspberry-pi-spectrometer](../tag/raspberry-pi-spectrometer), [activity:raspberry-pi-spectrometer](../tag/activity:raspberry-pi-spectrometer), [activity:pi-camera](../tag/activity:pi-camera), [with:bmela](../tag/with:bmela), [activity:basic-microscope](../tag/activity:basic-microscope), [activity:lego-spectrometer](../tag/activity:lego-spectrometer), [series:basic-microscope](../tag/series:basic-microscope)
+
+----
 
 The [Raspberry Pi Zero](https://www.amazon.com/s/?ie=UTF8&keywords=raspberry-pi%20zero) is an amazingly powerful and cheap device, and since it behaves more or less like the kinds of desktop computers most people are familiar with it is, in a lot of ways, relatively user-friendly. Here we'll show you how to set it up with the Raspberry Pi Camera module (v1 or v2) and connect to it to take photographs from your laptop.
 

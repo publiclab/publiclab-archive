@@ -8,10 +8,14 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/spectro-paul-garfield.jpg)
+
 # Plume spectrometry test in Garfield County
 
 by [warren](../profile/warren) September 19, 2011 17:47
 
 September 19, 2011 17:47 | Tags: 
+
+----
 
 Paul and I see if we can detect anything coming out of a chimney at a gas extraction site.

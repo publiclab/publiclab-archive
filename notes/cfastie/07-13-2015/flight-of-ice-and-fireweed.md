@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/010/660/original/AK_1815_2k.jpg)
+
 # A Flight of Ice and Fireweed
 
 by [cfastie](../profile/cfastie) July 13, 2015 22:57
 
 July 13, 2015 22:57 | Tags: [kite-aerial-photography](../tag/kite-aerial-photography), [alaska](../tag/alaska), [kap](../tag/kap), [autokap](../tag/autokap), [kaptery](../tag/kaptery), [saturnv](../tag/saturnv), [skyshield](../tag/skyshield), [half-spherical](../tag/half-spherical), [response:12052](../tag/response:12052)
+
+----
 
 *Above: Fireweed (Epilobium angustifolium) near Glacier Gap Lake in the Amphitheater Mountains in central Alaska.*   
 .  

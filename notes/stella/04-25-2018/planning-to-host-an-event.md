@@ -8,11 +8,15 @@ uid: 504749
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/024/724/original/event_lists2.jpg)
+
 # PLANNING TO HOST AN EVENT?
 
 by [stella](../profile/stella) April 25, 2018 15:28
 
 April 25, 2018 15:28 | Tags: [open-source](../tag/open-source), [community](../tag/community), [events](../tag/events), [software](../tag/software), [event](../tag/event), [organizers](../tag/organizers), [outreach](../tag/outreach), [organizing](../tag/organizing), [developers](../tag/developers), [code](../tag/code), [barnstar:basic](../tag/barnstar:basic), [facilitation](../tag/facilitation), [rgsoc](../tag/rgsoc), [activity:host-an-event](../tag/activity:host-an-event), [women](../tag/women), [activity:facilitation](../tag/activity:facilitation), [activity:events](../tag/activity:events), [rails-girls](../tag/rails-girls), [event-how-to](../tag/event-how-to)
+
+----
 
 ## INTRODUCTION
 Event planning can turn even the most capable person into a ball of nerves. After a couple sleepless nights and countless emails requesting for funds, we finally managed to pull through in Organizing Rails Girls Nairobi Event.

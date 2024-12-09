@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/spectral-workbench-login.png)
+
 # Spectral Workbench user login system
 
 by [warren](../profile/warren) May 30, 2012 20:08
 
 May 30, 2012 20:08 | Tags: [spectrometer](../tag/spectrometer), [spectral-workbench](../tag/spectral-workbench)
+
+----
 
 Users of [Spectral Workbench](https://spectralworkbench.org) may have noticed some minor hiccups this morning as new features were added. Most importantly, you can now log into the site using your PublicLaboratory.org username. This unified login system will also soon be rolled out on [MapKnitter.org](https://mapknitter.org). 
 

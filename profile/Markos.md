@@ -3,6 +3,8 @@ uid: 46525
 created_at: 2013-09-28 20:57:09 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/026956e10d0573a805d3a1cc5819d807)
+
 # Markos
 
 I am Chemist and have worked with the "Water" in the last 10 years.

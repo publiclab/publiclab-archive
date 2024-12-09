@@ -8,11 +8,15 @@ uid: 9
 
 ---
 
+![](https://publiclab.org/sites/default/files/IMG_1155.JPG)
+
 # PLOTS and LUMCON Collaboration
 
 by [Shannon](../profile/Shannon) June 06, 2011 04:00
 
 June 06, 2011 04:00 | Tags: [gulf-coast](../tag/gulf-coast), [near-infrared-camera](../tag/near-infrared-camera), [lumcon](../tag/lumcon)
+
+----
 
 In late February, Adam Griffith and I were fortunate to participate in an overflight of the Barataria region on a flight donated by LightHawk. Other flight participants included Dr. Alex Kolker and Alex Ameen of the Louisiana Universities Marine Consortium. We were interested in similar sites as Alex and Alex from LUMCON, including Bay Jimmy and Isle Grand Terre which Grassroots Mappers had mapped during the previous summer (2010). Public Laboratory community member, Cesar Harada, had also worked with Adam just a week earlier to begin figuring out a process for quantifying wetlands and thus with these tie-ins, we decided to keep in touch with Alex and Alex and see what kind of cross-over we might have in future work.
 

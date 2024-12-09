@@ -8,11 +8,15 @@ uid: 379
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/006/267/original/a_IMG_8304_goldfish_trash.JPG)
+
 # Trash of Bayou St John 
 
 by [eustatic](../profile/eustatic) August 14, 2014 18:40
 
 August 14, 2014 18:40 | Tags: [kite-mapping](../tag/kite-mapping), [restoration](../tag/restoration), [trash](../tag/trash), [bsj](../tag/bsj), [dredgefest](../tag/dredgefest)
+
+----
 
 ###A Space for Everything, but not Everything has a Place
 

@@ -8,11 +8,15 @@ uid: 9
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/004/492/original/plots-logo-transparent.jpg)
+
 # Public Lab community newsletter 5.31.14
 
 by [Shannon](../profile/Shannon) May 31, 2014 18:04
 
 May 31, 2014 18:04 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
+
+----
 
 This week in the Public Lab community newsletter, join us today, tomorrow and Monday for events in NYC and New Orleans, grab your camping gear and participate in the Spring Barnraising next week in Plymouth, MA and check out updates from Google Summer of Code participants. Enjoy!
 

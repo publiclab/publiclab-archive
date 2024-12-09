@@ -3,6 +3,8 @@ uid: 380298
 created_at: 2013-11-22 21:07:14 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/380298/medium/running.jpg)
+
 # nshapiro
 
 I am an incoming assistant professor of biology and society at UCLA and a fellow at the Technoscience Research Unit at the University of Toronto. 

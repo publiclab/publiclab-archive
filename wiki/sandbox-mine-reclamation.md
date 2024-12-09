@@ -14,6 +14,8 @@ by [bhamster](../profile/bhamster), [laurel_mire](../profile/laurel_mire)
 
 February 23, 2022 23:12 | Tags: 
 
+----
+
 Visit the working wiki on this topic here:
 https://publiclab.org/wiki/mine-reclamation
 

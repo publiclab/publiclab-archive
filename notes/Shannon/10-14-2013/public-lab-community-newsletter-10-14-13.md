@@ -8,11 +8,15 @@ uid: 9
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/001/940/original/plots-logo-transparent.jpg)
+
 # Public Lab community newsletter 10.14.13
 
 by [Shannon](../profile/Shannon) October 14, 2013 23:12
 
 October 14, 2013 23:12 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
+
+----
 
 This week in the Public Lab community newsletter, join others interested in water quality monitoring, check out how archival map stitching is being used in Maine and catch up on work that happened with gas flare spectrometry during the barnraising. Enjoy!
 

@@ -14,6 +14,8 @@ by [eustatic](../profile/eustatic) July 11, 2012 22:30
 
 July 11, 2012 22:30 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing)
 
+----
+
 Shannon explains what we're doing, while in Bayou Sauvage.
 
 <iframe src="http://player.vimeo.com/video/44587971" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> <p><a href="http://vimeo.com/44587971">Shannon explains the H2S test strips</a> from <a href="http://vimeo.com/user12258806">scott eustis</a> on <a href="http://vimeo.com">Vimeo</a>.</p>

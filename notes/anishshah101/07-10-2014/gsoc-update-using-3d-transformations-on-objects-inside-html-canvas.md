@@ -14,6 +14,8 @@ by [anishshah101](../profile/anishshah101) July 10, 2014 19:34
 
 July 10, 2014 19:34 | Tags: [mapknitter](../tag/mapknitter), [gsoc](../tag/gsoc), [developers](../tag/developers), [gsoc-2014](../tag/gsoc-2014)
 
+----
+
 In my previous update I had suggested 2 possibilities of incorporating 3d transformations on objects inside canvas in a manner similar to the one applied on divs.
 
 1) By creating DOM elements on a canvas (Refer here) and then transforming them.

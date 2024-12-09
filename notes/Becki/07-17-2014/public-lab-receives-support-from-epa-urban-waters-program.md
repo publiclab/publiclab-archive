@@ -8,11 +8,15 @@ uid: 46673
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/005/370/original/airboat_kite_Barataria.jpg)
+
 # Public Lab receives support from EPA Urban Waters Program
 
 by [Becki](../profile/Becki) July 17, 2014 16:55
 
 July 17, 2014 16:55 | Tags: [nonprofit](../tag/nonprofit)
+
+----
 
 Public Lab is excited to announce our new partnership with the EPA Urban Waters Program and Region 6 to monitor eight wetland restoration sites around New Orleans.
 

@@ -3,6 +3,8 @@ uid: 497953
 created_at: 2016-11-24 04:52:17 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/497953/medium/mridul.jpg)
+
 # mridulnagpal
 
 I am a student currently studying in IIIT H 

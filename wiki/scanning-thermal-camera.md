@@ -14,6 +14,8 @@ by [warren](../profile/warren)
 
 December 13, 2011 16:20 | Tags: [thermal-photography](../tag/thermal-photography), [flir](../tag/flir), [thermal-camera](../tag/thermal-camera), [scanning](../tag/scanning)
 
+----
+
 <img src="https://publiclab.org/sites/default/files/thermal-camera_0.png" width="500px" />
 
 The DIY thermographer is a camera which creates an image of what temperature things are -- a 'heat' camera. 

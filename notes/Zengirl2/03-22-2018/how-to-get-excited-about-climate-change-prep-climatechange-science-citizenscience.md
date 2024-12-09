@@ -8,11 +8,15 @@ uid: 423961
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/024/156/original/GameofFloods.JPG)
+
 # How to Get Excited About Climate Change Prep #climatechange #science #citizenscience
 
 by [zengirl2](../profile/zengirl2) March 22, 2018 23:25
 
 March 22, 2018 23:25 | Tags: [disaster-preparedness](../tag/disaster-preparedness), [temperature](../tag/temperature), [games](../tag/games), [tool](../tag/tool), [tools](../tag/tools), [flood](../tag/flood), [stormwater](../tag/stormwater), [climate-change](../tag/climate-change), [climate](../tag/climate), [flooding](../tag/flooding), [hurricane-preparedness](../tag/hurricane-preparedness), [funcom](../tag/funcom), [activity:funcom](../tag/activity:funcom), [activity:session-ideas](../tag/activity:session-ideas)
+
+----
 
 People have a hard time wrapping their heads around climate change, but luckily there is a new open-source game by the Urban Sustainability Directors Network that helps to show the issues and decisions to be faced. Whether a community is looking at flooding or extreme temperatures, this role play game helps to show what preparation or remediation is needed. It's like a city planning tool only fun, and you can [download it here--just scroll down for the Climate Training Tool Kit](https://www.usdn.org/public/page/18/Climate-Change-Preparedness#ClimateTraining)!
 

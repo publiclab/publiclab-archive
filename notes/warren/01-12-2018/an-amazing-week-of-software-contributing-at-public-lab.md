@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/023/176/original/Screen_Shot_2018-01-12_at_5.09.14_PM.png)
+
 # An amazing week of software contributing at Public Lab
 
 by [warren](../profile/warren) January 12, 2018 22:20
 
 January 12, 2018 22:20 | Tags: [software](../tag/software), [developers](../tag/developers), [code](../tag/code), [first-timers-only](../tag/first-timers-only), [contributors](../tag/contributors), [software-outreach](../tag/software-outreach)
+
+----
 
 Hi, everybody - i'm just opening an issue to say THANK YOU to everyone who's been coding here recently. ([cross-post from GitHub](https://github.com/publiclab/plots2/issues/1981))
 

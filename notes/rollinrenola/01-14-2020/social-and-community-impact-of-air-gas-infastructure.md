@@ -14,6 +14,8 @@ by [rollinrenola](../profile/rollinrenola) January 14, 2020 09:10
 
 January 14, 2020 09:10 | Tags: [blog-submission](../tag/blog-submission), [oil-and-gas](../tag/oil-and-gas), [location:blurred](../tag/location:blurred), [lat:29](../tag/lat:29), [lon:-89](../tag/lon:-89), [oil-and-gas-water-trio](../tag/oil-and-gas-water-trio), [zoom:6](../tag/zoom:6)
 
+----
+
 Social and Community Impact of Oil & Gas Infrastructure Survey
 
 Chalmette Refining was built in 1915 it is one of a few refineries built just upstream from New Orleans lower 9th ward.  PBF Energy which is based in New Jersey currently owns the 189,000 barrel day facility, which also houses pipelines and other assets on that site.  Over the years the company has committed to continued safety and environmentally responsible operations but some residence within only a few miles of the site have been feeling that standards of state and local governments can not be trusted.  

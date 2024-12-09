@@ -8,11 +8,15 @@ uid: 603909
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/037/835/original/Community_Organizer.jpg)
+
 # Job Posting: Community Organizer 
 
 by [thewrightjess](../profile/thewrightjess) January 30, 2020 18:53
 
 January 30, 2020 18:53 | Tags: [community](../tag/community), [development](../tag/development), [jobs](../tag/jobs), [lat:29.951065](../tag/lat:29.951065), [lon:-90.071532](../tag/lon:-90.071532), [zoom:6](../tag/zoom:6)
+
+----
 
 Start Date: Late March 2020
 

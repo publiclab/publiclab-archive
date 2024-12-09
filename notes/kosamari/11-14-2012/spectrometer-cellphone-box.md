@@ -8,11 +8,15 @@ uid: 44255
 
 ---
 
+![](https://publiclab.org/sites/default/files/DSC_0311.JPG)
+
 # Spectrometer in cellphone box
 
 by [kosamari](../profile/kosamari) November 14, 2012 17:22
 
 November 14, 2012 17:22 | Tags: [spectrometer](../tag/spectrometer)
+
+----
 
 I wanted to make Spectrometer myself and realized I do not have video tape box... so its housed in the box my cell phone came with.
 

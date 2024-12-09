@@ -14,6 +14,8 @@ by [stoft](../profile/stoft) September 15, 2016 19:58
 
 September 15, 2016 19:58 | Tags: [spectrometry](../tag/spectrometry), [question:spectrometry](../tag/question:spectrometry), [1](../tag/1), [question:dssk](../tag/question:dssk)
 
+----
+
 **Abstract**
 
 Mechanical design directly affects stability and, in the case of a spectrometer, stability is mandatory because the fundamental measurements are based on optics and the dimensions related to the wavelength of light.

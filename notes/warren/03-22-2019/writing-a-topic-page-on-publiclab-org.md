@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/030/526/original/Screen_Shot_2019-03-22_at_12.38.22_PM.png)
+
 # Writing a topic page on PublicLab.org
 
 by [warren](../profile/warren) March 19, 2019 18:10
 
 March 19, 2019 18:10 | Tags: [website](../tag/website), [guides](../tag/guides), [how-to](../tag/how-to), [activities](../tag/activities), [authoring-help](../tag/authoring-help), [topics](../tag/topics), [with:a1ahna](../tag/with:a1ahna), [topic-pages](../tag/topic-pages), [activity:website](../tag/activity:website), [with:bhamster](../tag/with:bhamster)
+
+----
 
 Creating a topic page is a strategy for organizing community knowledge on the Public Lab website; by grouping peoples' work under common themes, we make it easier to browse and engage with.
 

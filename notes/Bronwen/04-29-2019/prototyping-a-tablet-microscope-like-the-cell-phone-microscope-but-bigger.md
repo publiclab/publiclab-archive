@@ -8,11 +8,15 @@ uid: 237313
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/031/745/original/tablettopview.jpg)
+
 # Prototyping a Tablet Microscope-- Like the Cell Phone Microscope, But Bigger
 
 by [Bronwen](../profile/Bronwen) April 29, 2019 15:36
 
 April 29, 2019 15:36 | Tags: [education](../tag/education), [kits](../tag/kits), [water-quality](../tag/water-quality), [prototyping](../tag/prototyping), [microscope](../tag/microscope), [tablet](../tag/tablet), [community-microscope](../tag/community-microscope), [lat:40.680638](../tag/lat:40.680638), [lon:-73.937988](../tag/lon:-73.937988), [seaweed](../tag/seaweed), [marine-life](../tag/marine-life), [replication:13743](../tag/replication:13743)
+
+----
 
 I was talking to @mimiss, our Education Manager and she mentioned that a lot of students and teachers use tablets in their classrooms, so I figured I would see what it might look like to make the [Cell Phone Microscope][1] big enough to accommodate at tablet-- I can definitely see how this would be useful in situations where you might want to have several people working around a slide at the same time. 
 

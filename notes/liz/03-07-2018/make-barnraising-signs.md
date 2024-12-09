@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/023/865/original/IMG_1941.jpg)
+
 # Make Open Space signs for an event like the Barnraising
 
 by [liz](../profile/liz) March 07, 2018 20:28
 
 March 07, 2018 20:28 | Tags: [barnraising](../tag/barnraising), [activity:barnraising](../tag/activity:barnraising), [activity:night-before-barnraising](../tag/activity:night-before-barnraising)
+
+----
 
 _lead image from the 2015 Barnraising of the Open Space Technology signs that the group wrote in a variety of languages including Spanish, Chinese, Turkish, Korean, and English_
 

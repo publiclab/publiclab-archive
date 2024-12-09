@@ -8,11 +8,15 @@ uid: 431134
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/020/678/original/DSC_0246.JPG)
+
 # DIY Indoor Air Remediation Kit
 
 by [liz](../profile/liz), [nshapiro](../profile/nshapiro), [warren](../profile/warren), [mathew](../profile/mathew), [scoops](../profile/scoops)
 
 November 07, 2014 21:01 | Tags: [remediation](../tag/remediation), [air-quality](../tag/air-quality), [tool](../tag/tool), [formaldehyde](../tag/formaldehyde), [wherewebreathe](../tag/wherewebreathe), [filters](../tag/filters), [first](../tag/first), [parent:indoor-air-quality-monitoring](../tag/parent:indoor-air-quality-monitoring), [indoor-air](../tag/indoor-air), [pick](../tag/pick), [current](../tag/current), [method](../tag/method), [chemicals](../tag/chemicals), [air-filters](../tag/air-filters), [questions:indoor-air-remediation](../tag/questions:indoor-air-remediation), [activities:indoor-air-remediation](../tag/activities:indoor-air-remediation)
+
+----
 
 The **rhyzo-remediatior**, bubbles air through plant roots growing in water and rocks, to try to improve indoor air quality. It's an evolving Do-It-Yourself design using commonly available plants and an aquarium pump.
 
@@ -32,15 +36,15 @@ In the first field test of our remediation tool we found a [40% reduction](http:
 
 ## Activities
 
-[activities:indoor-air-remediation]
+[indoor-air-remediation](../../tag/activity:indoor-air-remediation)
 
 ## Prototypes
 
-[notes:plant-air-purifier-prototypes]
+[plant-air-purifier-prototypes](../../tag/plant-air-purifier-prototypes)
 
 ## Questions
 
-[questions:indoor-air-remediation]
+[indoor-air-remediation](../../tag/question:indoor-air-remediation)
 
 
 *****

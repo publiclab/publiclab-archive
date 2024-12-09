@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/008/557/original/S4A_42.jpg)
+
 # Public Lab at Science for Action 
 
 by [cfastie](../profile/cfastie) January 03, 2015 23:36
 
 January 03, 2015 23:36 | Tags: [gulf-coast](../tag/gulf-coast), [kite-mapping](../tag/kite-mapping), [conferences](../tag/conferences), [louisiana](../tag/louisiana), [barnraising](../tag/barnraising), [barnraising2014](../tag/barnraising2014), [response:11376](../tag/response:11376)
+
+----
 
 *Above: What is Mathew holding? ([answer](http://www.kaptery.com/products/?f=category&id=23))*  
 .  

@@ -8,10 +8,14 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/san-martin-visible-infrared-ndvi.jpg)
+
 # NDVI test in Lima Peru
 
 by [warren](../profile/warren) December 24, 2010 14:39
 
 December 24, 2010 14:39 | Tags: [lima](../tag/lima), [near-infrared-camera](../tag/near-infrared-camera), [peru](../tag/peru), [ndvi](../tag/ndvi), [escuelab](../tag/escuelab)
+
+----
 
 We've been talking about NDVI imaging and i finally gave it a try, using Photoshop.

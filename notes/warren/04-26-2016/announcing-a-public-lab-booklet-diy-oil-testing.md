@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/015/787/original/IMG_20160420_111959-2.jpg)
+
 # Announcing a Public Lab booklet: DIY Oil Testing
 
 by [warren](../profile/warren) April 26, 2016 15:09
 
 April 26, 2016 15:09 | Tags: [spectrometer](../tag/spectrometer), [publication](../tag/publication), [oil-testing-kit](../tag/oil-testing-kit), [barnstar:basic](../tag/barnstar:basic), [homebrew-oil-testing-kit](../tag/homebrew-oil-testing-kit), [booklet](../tag/booklet)
+
+----
 
 Hello all -- today we’re announcing a booklet @gretchen, @stevie, @liz and I put together in December and January on the state of the [Oil Testing Kit](/wiki/oil-testing-kit) program, and more broadly on developing open collaborative projects. It has lots of details on oil testing in particular, but also covers topics like working with communities, cultivating online collaboration on hardware, and environmental regulatory issues. It’s full title is **DIY Oil Testing: Progress toward community oil pollution analysis**
 

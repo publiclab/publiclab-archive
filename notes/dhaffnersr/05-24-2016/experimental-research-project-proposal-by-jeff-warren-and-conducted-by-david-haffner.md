@@ -8,11 +8,15 @@ uid: 461120
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/016/277/original/PIC_0313.JPG)
+
 # Experimental research project proposal by Jeff Warren and conducted by David Haffner 
 
 by [dhaffnersr](../profile/dhaffnersr) May 24, 2016 08:43
 
 May 24, 2016 08:43 | Tags: 
+
+----
 
 This is a collaborative research proposal introduced by Jeff Warren, asking me if I would help in conducting some testing of various light sources on different sample media.
 

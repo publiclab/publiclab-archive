@@ -8,11 +8,15 @@ uid: 693684
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/039/929/original/NOAA_18_S_72_W_2020-06-05_11-10_BST_contrast.png)
+
 # What does a raw NOAA image look like?
 
 by [sashae](../profile/sashae) June 25, 2020 13:32
 
 June 25, 2020 13:32 | Tags: [satellite-imagery](../tag/satellite-imagery), [noaa](../tag/noaa), [lat:51.50735](../tag/lat:51.50735), [lon:-0.127758](../tag/lon:-0.127758), [zoom:6](../tag/zoom:6), [open-weather](../tag/open-weather)
+
+----
 
 As they orbit around the planet, NOAA satellites continuously transmit images of Earth's surface. They transmit in two modes: APT (Automatic Picture Transmission) and HRPT (High Resolution Picture Transmission). The APT or 'direct readout service' of the NOAA satellites is the most easily and widely received. 
 

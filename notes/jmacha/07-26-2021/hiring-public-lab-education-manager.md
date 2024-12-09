@@ -8,11 +8,15 @@ uid: 423019
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/044/496/original/public_lab_header.png)
+
 # Hiring: Public Lab Education Manager
 
 by [jmacha](../profile/jmacha) July 26, 2021 20:02
 
 July 26, 2021 20:02 | Tags: [education](../tag/education), [jobs](../tag/jobs), [locked](../tag/locked), [careers](../tag/careers)
+
+----
 
 ## Education Manager
 

@@ -8,11 +8,15 @@ uid: 1083
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/006/569/original/EMF_0003_%28768x1024%29.jpg)
+
 # DIY aerial photography: Kite-mapping workshop at the ElectroMagnetic Field Festival in Bletchley, UK
 
 by [cindy_excites](../profile/cindy_excites) September 03, 2014 13:58
 
 September 03, 2014 13:58 | Tags: [kite-mapping](../tag/kite-mapping), [workshop](../tag/workshop), [ucl](../tag/ucl), [uk](../tag/uk), [activity:teach-and-learn](../tag/activity:teach-and-learn), [activity:workshop](../tag/activity:workshop), [bletchley-park](../tag/bletchley-park)
+
+----
 
 ##**Reflections and insights into a 'family-oriented' kite-mapping workshop**
 

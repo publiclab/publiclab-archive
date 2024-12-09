@@ -8,11 +8,15 @@ uid: 639376
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/043/915/original/IMG_20210516_111908.jpg)
+
 # Mi post de presentación! / My presentation post
 
 by [alejobonifacio](../profile/alejobonifacio) May 24, 2021 19:50
 
 May 24, 2021 19:50 | Tags: [waterway](../tag/waterway), [water-quality](../tag/water-quality), [water](../tag/water), [lang:es](../tag/lang:es), [fellows](../tag/fellows), [freshwater](../tag/freshwater), [lagos](../tag/lagos), [zoom:12](../tag/zoom:12), [research-curation-fellows](../tag/research-curation-fellows), [lat:-31.4](../tag/lat:-31.4), [lon:-64.1](../tag/lon:-64.1), [los-ambientes-acuaticos](../tag/los-ambientes-acuaticos), [calidad-de-agua](../tag/calidad-de-agua)
+
+----
 
 Hola Mundo! (English below)
 

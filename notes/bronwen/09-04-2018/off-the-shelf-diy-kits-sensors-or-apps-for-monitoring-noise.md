@@ -14,6 +14,8 @@ by [Bronwen](../profile/Bronwen) September 04, 2018 15:56
 
 September 04, 2018 15:56 | Tags: [kits](../tag/kits), [noise](../tag/noise), [question:noise](../tag/question:noise), [noise-monitoring](../tag/noise-monitoring), [question:noise-monitoring](../tag/question:noise-monitoring)
 
+----
+
 We've been doing a little dive into tools that are available for monitoring noise, and am curious if anyone who has worked on noise-monitoring projects has experience, advice or recommendations? There seem to be a lot of tools designed for musicians, as well as some apps developed to monitor noise pollution, but would be interested to know if folks have used (or are aware of) noise monitoring tools in connection with other kinds of environmental data collection (such as monitoring industrial activity, etc). 
 
 A few intriguing arduino-compatible options include the [Gravity sensor from DFRobot] (https://www.dfrobot.com/product-83.html) and a sound detector available through [Sparkfun](https://www.sparkfun.com/products/12642), which I imagine could be grouped with other sensors and dataloggers.

@@ -8,11 +8,15 @@ uid: 481
 
 ---
 
+![](https://publiclab.org/sites/default/files/VMT_2.jpg)
+
 # Artisanal Kite Mapping: Villa Maria, Lima, Peru
 
 by [anita](../profile/anita) February 14, 2012 01:19
 
 February 14, 2012 01:19 | Tags: [lima](../tag/lima), [kite-mapping](../tag/kite-mapping), [peru](../tag/peru), [tenure-mapping](../tag/tenure-mapping)
+
+----
 
    ** traducion al espanol abajo
 

@@ -8,11 +8,15 @@ uid: 1016
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/004/584/original/0_2014_6_7_Public_Lab_Barnraising_Tidmarsh_Farm_axIMG_2943_cropped_c.jpg)
+
 # Exploring The Space Unseen: Historic Resources For Guiding Future Story Telling
 
 by [eymund](../profile/eymund) June 10, 2014 17:10
 
 June 10, 2014 17:10 | Tags: [farm](../tag/farm), [plume](../tag/plume), [mapping](../tag/mapping), [barnraising](../tag/barnraising), [massachusetts](../tag/massachusetts), [plymouth](../tag/plymouth), [tidmarsh](../tag/tidmarsh), [plant](../tag/plant), [maps](../tag/maps), [nuclear](../tag/nuclear), [thermal-fishing-bob](../tag/thermal-fishing-bob), [thermal](../tag/thermal), [northeast](../tag/northeast), [stream](../tag/stream), [ma](../tag/ma), [2014](../tag/2014), [pilgrim](../tag/pilgrim), [old](../tag/old), [storytelling](../tag/storytelling)
+
+----
 
 [![1_2014_6_7_Public_Lab_Barnraising_Tidmarsh_Farm_axIMG_2943.JPG](https://i.publiclab.org/system/images/photos/000/004/586/medium/1_2014_6_7_Public_Lab_Barnraising_Tidmarsh_Farm_axIMG_2943.JPG)](https://i.publiclab.org/system/images/photos/000/004/586/original/1_2014_6_7_Public_Lab_Barnraising_Tidmarsh_Farm_axIMG_2943.JPG)
 

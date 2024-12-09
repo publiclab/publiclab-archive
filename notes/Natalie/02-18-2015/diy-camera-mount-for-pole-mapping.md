@@ -8,11 +8,15 @@ uid: 424454
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/009/002/original/IMG_1127.JPG)
+
 # DIY Camera Mount for Pole Mapping
 
 by [natalie](../profile/natalie) February 18, 2015 02:37
 
 February 18, 2015 02:37 | Tags: [camera-rig-tests](../tag/camera-rig-tests), [polemapping](../tag/polemapping), [mapping](../tag/mapping), [pole-photography](../tag/pole-photography), [pole](../tag/pole), [pole-aerial-photography](../tag/pole-aerial-photography), [pole-mapping](../tag/pole-mapping), [low-aerial](../tag/low-aerial), [poles](../tag/poles)
+
+----
 
 ###Mount a camera on a pole
 So, we just got in our new low aerial mapping poles, which will shortly be "kittified." The idea is that these are relatively cheap alternative to drones and kites. Where you may bump up against regulations with flying objects (even toys), nothing can touch a super long pole with a camera on top! (They are also great for swatting pesky drones.) The poles we have in stock now are the Ron Thompson Gangster Carp Pole. 

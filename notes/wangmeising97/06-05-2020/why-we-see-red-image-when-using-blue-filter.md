@@ -14,6 +14,8 @@ by [wangmeising97](../profile/wangmeising97) June 05, 2020 09:05
 
 June 05, 2020 09:05 | Tags: [infragram](../tag/infragram), [question:infragram](../tag/question:infragram), [first-time-poster](../tag/first-time-poster)
 
+----
+
 I am using Pi NoIR camera with blue filter for my final year project on NDVI image analysis.
 
   

@@ -8,11 +8,15 @@ uid: 12
 
 ---
 
+![](https://publiclab.org/sites/default/files/Screen Shot 2012-10-19 at 11.49.11 PM.png)
+
 # Public Lab Community Newsletter 10.19.12
 
 by [gonzoearth](../profile/gonzoearth) October 20, 2012 06:49
 
 October 20, 2012 06:49 | Tags: 
+
+----
 
 **This Week in Public Laboratory** 
 Plenty of action this week including a new balloon kit, flame spectroscopy, a prototype rasberry-pi based dual camera, and a community feedback survey. 

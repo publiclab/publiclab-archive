@@ -3,6 +3,8 @@ uid: 3
 created_at: 2013-04-11 15:26:44 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/3/medium/File_000.jpeg)
+
 # adam-griffith
 
 I like maps.  I like plants.

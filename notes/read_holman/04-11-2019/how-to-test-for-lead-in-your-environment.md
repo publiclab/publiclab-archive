@@ -14,6 +14,8 @@ by [read_holman](../profile/read_holman) April 06, 2019 18:09
 
 April 06, 2019 18:09 | Tags: [heavy-metals](../tag/heavy-metals), [soil](../tag/soil), [testing](../tag/testing), [lead](../tag/lead), [colorimetry](../tag/colorimetry), [lead-testing](../tag/lead-testing), [mine-soil-health](../tag/mine-soil-health)
 
+----
+
 Lead is a toxic metal that is common in our lived environment, particularly in paint and soil (which can convert to dust) in older neighborhoods. The presence of lead in water is a growing concern among many people. Lead may also exists in many household items such as dishware, toys, spices, and cosmetics.
 
 This page is written for people looking to test for the presence of lead around them. For information on the chemical and analytical methodologies (aka: the science) behind these testing options, see this page: [Methods for detecting lead][1]

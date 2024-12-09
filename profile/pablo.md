@@ -3,6 +3,8 @@ uid: 160
 created_at: 2013-07-16 11:19:16 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/99a4743797a769c90ff7d79eb4c8e0a2)
+
 # pablo
 
 Mapping the landscape in Spain after the real estate bubble. Developer at http://montera34.com, mapping with http://meipi.org, mapper at http://6000km.org, waste researcher at http://basurama.org

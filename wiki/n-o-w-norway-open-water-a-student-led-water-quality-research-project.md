@@ -8,11 +8,15 @@ uid: 431841
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/008/066/original/DSC_0042.jpg)
+
 # N.O.W. Norway Open Water -A Student Led Water Quality Research Project  
 
 by [NewtonGjengen](../profile/NewtonGjengen)
 
 November 22, 2014 08:38 | Tags: [water-sensing](../tag/water-sensing), [water-quality-monitoring](../tag/water-quality-monitoring), [finland](../tag/finland), [europe](../tag/europe)
+
+----
 
 ##N.O.W.
 

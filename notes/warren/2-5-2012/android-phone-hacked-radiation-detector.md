@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/geiger.gif)
+
 # Android phone hacked as radiation detector
 
 by [warren](../profile/warren) February 05, 2012 17:31
 
 February 05, 2012 17:31 | Tags: [android](../tag/android), [radiation](../tag/radiation)
+
+----
 
 [Hackaday wrote about](http://hackaday.com/2012/01/15/turn-your-camera-phone-into-a-geiger-counter/) an Android app by Rolf-Dieter Klein of the Helmholtz Research Center in Munich (as far as I'm able to tell):
 

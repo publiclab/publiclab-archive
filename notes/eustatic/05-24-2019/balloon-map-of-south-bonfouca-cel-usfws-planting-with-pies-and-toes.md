@@ -8,11 +8,15 @@ uid: 379
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/032/447/original/a_IMG_2816.JPG)
+
 # Balloon map of south Bonfouca cel USFWS planting with PIES and TOES
 
 by [eustatic](../profile/eustatic) May 24, 2019 19:15
 
 May 24, 2019 19:15 | Tags: [gulf-coast](../tag/gulf-coast), [balloon-mapping](../tag/balloon-mapping), [wetlands](../tag/wetlands), [louisiana](../tag/louisiana), [spartina](../tag/spartina), [marsh](../tag/marsh), [intermediate](../tag/intermediate), [pontchartrain](../tag/pontchartrain), [freshwater](../tag/freshwater), [migration](../tag/migration), [sealevelrise](../tag/sealevelrise), [adaptation](../tag/adaptation), [lat:30.244729](../tag/lat:30.244729), [lon:-89.861443](../tag/lon:-89.861443)
+
+----
 
 Louisiana Master Naturalists, Teen Outdoor Education and Service ([TOES](https://www.facebook.com/groups/1891893434416422/)), and Pontchartrain Institute for Environmental Science were invted by USFWS to plant the southern cel of the [PO-104 Bayou Bonfouca](https://www.lacoast.gov/reports/gpfs/PO-104.pdf "https://www.lacoast.gov/reports/gpfs/PO-104.pdf") Marsh creation, and to document the vegetation that has volunteered at the site since Spring 2018\.
 

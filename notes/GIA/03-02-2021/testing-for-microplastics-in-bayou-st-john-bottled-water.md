@@ -8,11 +8,15 @@ uid: 739158
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/042/840/original/E5B9D5A7-E995-4205-8001-532C28A40304.jpeg)
+
 # Testing for Microplastics in Bayou St. John
 
 by [GIA](../profile/GIA) March 02, 2021 17:24
 
 March 02, 2021 17:24 | Tags: [water-monitoring](../tag/water-monitoring), [bayou-st-john](../tag/bayou-st-john), [bottles](../tag/bottles), [activity:water-monitoring](../tag/activity:water-monitoring), [lat:29](../tag/lat:29), [lon:-90](../tag/lon:-90), [microplastics](../tag/microplastics), [first-time-poster](../tag/first-time-poster), [ftir](../tag/ftir), [zoom:6](../tag/zoom:6)
+
+----
 
 Steps:
 

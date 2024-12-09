@@ -3,6 +3,8 @@ uid: 46348
 created_at: 2013-11-01 04:20:49 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/a2ca21a3d67425e32c9dbeafc6449310)
+
 # DJUltis
 
 I am an open-hardware developer located in Boise, ID.  My day job is running the Reuseum,a local maker's mecca of cool industrial surplus, and facilitating our non-profit educational workshops and programming. I also develop my own projects as Citizen Scientific Workshop, LLC. 

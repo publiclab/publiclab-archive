@@ -8,11 +8,15 @@ uid: 4
 
 ---
 
+![](https://publiclab.org/sites/default/files/Screen shot 2012-04-12 at 9.34.43 PM.png)
+
 # Kite Balloon of R.H. Upson
 
 by [mathew](../profile/mathew) April 13, 2012 04:14
 
 April 13, 2012 04:14 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [kite-balloon-hybrid](../tag/kite-balloon-hybrid)
+
+----
 
 For reasons of pedigree I'm optimistic about the functionality of this design and want to try building a scaled down replica out of mylar sleeping bags.  The crucial features that I want to integrate are 1) the use (I think) of a [Picavet style rigging](http://publiclaboratory.org/wiki/picavet-rigging) to hang the payload, and 2) the use of two side-by-side envelopes.
 <a href="http://www.google.com/patents?id=PhQ_AAAAEBAJ&zoom=4&rview=1&pg=PA3&ci=81%2C563%2C368%2C146&source=bookclip"><img src="http://www.google.com/patents?id=PhQ_AAAAEBAJ&rview=1&pg=PA3&img=1&zoom=4&hl=en&sig=ACfU3U3u-DoC1UAjx8UgfjbezTTyXqdkEg&ci=81%2C563%2C368%2C146&edge=0"/></a>

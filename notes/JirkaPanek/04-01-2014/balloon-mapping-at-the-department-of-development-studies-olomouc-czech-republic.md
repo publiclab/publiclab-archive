@@ -8,11 +8,15 @@ uid: 179
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/003/459/original/009.JPG)
+
 # Balloon mapping at the Department of Development Studies, Olomouc, Czech Republic
 
 by [JirkaPanek](../profile/JirkaPanek) April 01, 2014 11:06
 
 April 01, 2014 11:06 | Tags: [balloon-mapping](../tag/balloon-mapping), [chdk](../tag/chdk), [field-test](../tag/field-test), [failure](../tag/failure), [first-time-poster](../tag/first-time-poster)
+
+----
 
 ###What I want to do
 As a part of my course Participatory GIS at the [Department of Development Studies, Palacky Univeristy in Olomouc, Czech Republic](http://www.development.upol.cz/english/index/), I wanted to show students low-cost mapping techniques. One of them was balloon mapping. We didnt succeed in our first attempt, but as a scientist I believe also failure is a good lesson, so I decided to share it with you...

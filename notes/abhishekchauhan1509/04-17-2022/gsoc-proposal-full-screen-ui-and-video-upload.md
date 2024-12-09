@@ -8,11 +8,15 @@ uid: 794981
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/045/909/original/4621650.png)
+
 # GSoC"proposal: Full-screen UI and video upload 
 
 by [abhishekchauhan1509](../profile/abhishekchauhan1509) April 17, 2022 01:09
 
 April 17, 2022 01:09 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [soc](../tag/soc), [first-time-poster](../tag/first-time-poster), [gsoc-2022](../tag/gsoc-2022), [gsoc-2022-proposals](../tag/gsoc-2022-proposals)
+
+----
 
 ## 
 

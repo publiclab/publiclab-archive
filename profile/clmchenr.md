@@ -3,6 +3,8 @@ uid: 448606
 created_at: 2015-08-19 14:15:35 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/777054a12523e22bcda8f1cc2c94b0d2)
+
 # clmchenr
 
 Engineer looking for a tool to quantify wavelength of visible light.

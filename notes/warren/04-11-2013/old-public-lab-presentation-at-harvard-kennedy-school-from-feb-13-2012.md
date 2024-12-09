@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/000/036/original/presentation.png)
+
 # (Old) Public Lab presentation at Harvard Kennedy School from Feb 13 2012
 
 by [warren](../profile/warren) April 11, 2013 16:56
 
 April 11, 2013 16:56 | Tags: [presentation](../tag/presentation)
+
+----
 
 I gave a presentation at Harvard Kennedy School last year; just archiving this for future use!
 

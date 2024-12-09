@@ -8,11 +8,15 @@ uid: 664477
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/043/026/original/testing_at_park.jpg)
+
 # Screening for soil contamination
 
 by [bhamster](../profile/bhamster)
 
 March 23, 2021 17:12 | Tags: [heavy-metals](../tag/heavy-metals), [soil](../tag/soil), [soil-testing](../tag/soil-testing), [method](../tag/method), [soil-contamination](../tag/soil-contamination), [screen-soil-contamination](../tag/screen-soil-contamination)
+
+----
 
 _Lead image: Gathered around the Hanby Field Kit for detecting petroleum hydrocarbons._
 
@@ -25,7 +29,7 @@ _Lead image: Gathered around the Hanby Field Kit for detecting petroleum hydroca
 
 #### Overviews on Public Lab
 
-[notes:grid:screen-soil]
+[grid:screen-soil](../../tag/grid:screen-soil)
 
 <br>
 
@@ -103,7 +107,7 @@ Methods related to `effect-based-test` will appear here
 
 Questions tagged with `question:screen-soil-contamination` will appear here
 
-[questions:screen-soil-contamination]
+[screen-soil-contamination](../../tag/question:screen-soil-contamination)
 
 <br>
 
@@ -111,5 +115,5 @@ Questions tagged with `question:screen-soil-contamination` will appear here
 
 Activities tagged with `activity:screen-soil-contamination` will appear here
 
-[activities:screen-soil-contamination]
+[screen-soil-contamination](../../tag/activity:screen-soil-contamination)
 

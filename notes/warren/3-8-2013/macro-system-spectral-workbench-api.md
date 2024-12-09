@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/macros.png)
+
 # Macro system for Spectral Workbench API
 
 by [warren](../profile/warren) March 08, 2013 21:28
 
 March 08, 2013 21:28 | Tags: [spectrometer](../tag/spectrometer), [spectralworkbench](../tag/spectralworkbench), [api](../tag/api)
+
+----
 
 The [Spectral Workbench API](/wiki/spectral-workbench-api) is getting a boost with a new system for sharing macros, released late this week. Since it's an early-stage release, there are few links to it on the [SpectralWorkbench.org website](https://spectralworkbench.org), but you can published macros and share your own it by [visiting this page](https://spectralworkbench.org/macros/). 
 

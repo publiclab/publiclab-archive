@@ -8,11 +8,15 @@ uid: 9
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/003/190/original/plots-logo-transparent.jpg)
+
 # Public Lab Community Newsletter 3.9.14
 
 by [Shannon](../profile/Shannon) March 09, 2014 21:17
 
 March 09, 2014 21:17 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
+
+----
 
 This week in the Public Lab community newsletter, turn your applications in to join the Public Lab nonprofit team as Outreach Manager, attend one of the gatherings in Austin or New Orleans and get updates on testing for pesticide, the Thermal Flashlight and tips for reporting pollution at the Gowanus Canal. Enjoy!
 

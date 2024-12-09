@@ -8,11 +8,15 @@ uid: 4
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/017/172/original/P_20160711_151836.jpg)
+
 # OpenFlexure Microscope: high-resolution assembly
 
 by [mathew](../profile/mathew) July 21, 2016 19:17
 
 July 21, 2016 19:17 | Tags: [raspberry-pi](../tag/raspberry-pi), [dust](../tag/dust), [frac-sand](../tag/frac-sand), [pm](../tag/pm), [particle-monitoring](../tag/particle-monitoring), [microscope](../tag/microscope), [passive-particle-monitors](../tag/passive-particle-monitors), [passive-pm](../tag/passive-pm), [parent:frac-sand](../tag/parent:frac-sand), [microscopy](../tag/microscopy), [openflexure](../tag/openflexure), [activity:microscope](../tag/activity:microscope), [microscopes](../tag/microscopes), [activity:microscopes](../tag/activity:microscopes)
+
+----
 
 [previously](/notes/mathew/04-17-2016/making-an-openflexure-microscope) I assembled an [OpenFlexure microscope](http://docubricks.com/projects/openflexure-microscope) using the standard optics, achieving a low resolution, approximately 10x zoom microscope.  I plan to use it to assess [Passive particle monitor](/tag/passive-pm) samples.
 

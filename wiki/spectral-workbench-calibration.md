@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/013/897/original/Screenshot_2016-01-27_at_10.51.50_AM.png)
+
 # Spectral Workbench calibration
 
 by [joyofsoy](../profile/joyofsoy), [Elizabeth](../profile/Elizabeth), [intanmhrna](../profile/intanmhrna), [warren](../profile/warren), [emanuelly](../profile/emanuelly), [cfastie](../profile/cfastie)
 
 February 04, 2012 18:30 | Tags: [spectrometer](../tag/spectrometer), [spectralworkbench](../tag/spectralworkbench), [cd](../tag/cd), [parent:spectral-workbench](../tag/parent:spectral-workbench), [location:blurred](../tag/location:blurred), [lat:20](../tag/lat:20), [spectral-workbench-calibration](../tag/spectral-workbench-calibration), [zoom:6](../tag/zoom:6), [lon:-103](../tag/lon:-103), [place:mexico](../tag/place:mexico)
+
+----
 
 [![IMG_2473.JPG](https://publiclab.org/system/images/photos/000/019/047/large/IMG_2473.JPG)](https://publiclab.org/system/images/photos/000/019/047/original/IMG_2473.JPG)
 

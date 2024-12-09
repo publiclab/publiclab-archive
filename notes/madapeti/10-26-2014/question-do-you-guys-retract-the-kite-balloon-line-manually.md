@@ -14,6 +14,8 @@ by [madapeti](../profile/madapeti) October 26, 2014 10:38
 
 October 26, 2014 10:38 | Tags: [question:balloon-mapping](../tag/question:balloon-mapping)
 
+----
+
 ###What I want to do or know
 I was wondering if the line of the mapping balloons / kites is operated manually (hand spooling) most of the time. Using a special spool with a cordless drill / driver with a direction toggle could make the process much less tiring and faster while avoiding rope burns. 
 

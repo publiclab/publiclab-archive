@@ -3,6 +3,8 @@ uid: 561190
 created_at: 2018-11-25 13:32:45 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/01c3335d977198aee7b23ddc80bc7473)
+
 # aemilius89
 
 I am a biomedical technician working in a flow cytometry immunology lab in an academic hospital. I am an enthusiast about evolutionary biology and I have a professional microscope at home and have a large set of slides to look at.

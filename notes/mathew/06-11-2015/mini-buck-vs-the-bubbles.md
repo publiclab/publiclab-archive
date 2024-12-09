@@ -8,11 +8,15 @@ uid: 4
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/010/302/original/Screen_Shot_2015-06-10_at_3_28_07_PM.png)
+
 # Mini-Buck vs. the Bubbles
 
 by [mathew](../profile/mathew) June 11, 2015 00:14
 
 June 11, 2015 00:14 | Tags: [air-quality](../tag/air-quality), [measurement](../tag/measurement), [silica](../tag/silica), [barnstar:empiricism](../tag/barnstar:empiricism), [formaldehyde](../tag/formaldehyde), [open-air](../tag/open-air), [particle-sensing](../tag/particle-sensing), [openair](../tag/openair), [indoor-air-quality](../tag/indoor-air-quality), [bubbles](../tag/bubbles), [air-monitoring](../tag/air-monitoring), [mini-buck](../tag/mini-buck), [response:11949](../tag/response:11949)
+
+----
 
 ###What I want to do
 Compare the $10 [stopwatch & bubbles](/notes/mathew/06-04-2015/using-soap-bubbles-for-pump-calibration) airflow monitoring technique @davidmack suggested to a $970 [NIST-traceable](http://www.nist.gov/traceability/nist_traceability_policy_external.cfm) pump calibrator called the mini-buck recommended to @NickShapiro.

@@ -14,6 +14,8 @@ by [liz](../profile/liz)
 
 February 27, 2012 17:42 | Tags: [new-york-city](../tag/new-york-city), [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [events:new-york-city](../tag/events:new-york-city)
 
+----
+
 <a href="https://www.flickr.com/photos/jeffreywarren/6939415409/" title="PLOTS March Mapping Madness poster by jeferonix, on Flickr"><img src="https://farm8.staticflickr.com/7069/6939415409_f5ec501e63.jpg" width="500" height="293" alt="PLOTS March Mapping Madness poster"></a>
 
 This is the regional page for NY-NJ-CT events of <a href="http://publiclaboratory.org/wiki/march-mapping-madness">March Mapping Madness</a>

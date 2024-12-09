@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/tm_blinkm_maxm_small.jpeg)
+
 # RGB color from a knob -- small steps towards thermal flashlight
 
 by [warren](../profile/warren) December 08, 2011 17:15
 
 December 08, 2011 17:15 | Tags: [arduino](../tag/arduino), [thermal-flashlight](../tag/thermal-flashlight), [rgb](../tag/rgb), [led](../tag/led)
+
+----
 
 Modified to go from Blue to Red, for use in heatmap "light-painting". More soon.
 

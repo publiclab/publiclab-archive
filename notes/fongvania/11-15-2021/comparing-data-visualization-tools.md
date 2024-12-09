@@ -14,6 +14,8 @@ by [fongvania](../profile/fongvania) November 15, 2021 18:36
 
 November 15, 2021 18:36 | Tags: [data](../tag/data), [free-software](../tag/free-software), [data-visualization](../tag/data-visualization), [research-area-review](../tag/research-area-review), [research-curation-fellows](../tag/research-curation-fellows), [presenting-data](../tag/presenting-data), [air-quality-data](../tag/air-quality-data), [data-visualization-tool](../tag/data-visualization-tool)
 
+----
+
 Once you have collected and cleaned data and want to  explore trends, identify data quality issues, and communicate findings, it's often a good idea to generate graphs to visualize the data. The table linked below has a list of free online and desktop tools that require no coding to convert text or spreadsheets to graphs!
 
 [Data Viz Tool Comparison][1]

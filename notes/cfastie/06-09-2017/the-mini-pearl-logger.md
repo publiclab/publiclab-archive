@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/021/448/original/MiniPearl400.jpg)
+
 # The Mini Pearl Logger
 
 by [cfastie](../profile/cfastie) June 09, 2017 23:28
 
 June 09, 2017 23:28 | Tags: [arduino](../tag/arduino), [sensors](../tag/sensors), [data-logging](../tag/data-logging), [response:14152](../tag/response:14152), [bme280](../tag/bme280), [arduino-pro-mini](../tag/arduino-pro-mini), [mcp9808](../tag/mcp9808), [mini-pearl-logger](../tag/mini-pearl-logger), [activity:mini-pearl-logger](../tag/activity:mini-pearl-logger)
+
+----
 
 This spring I did some tests with a [data logger based on an Arduino Nano](https://publiclab.org/tag/nano-data-logger) microcontroller. The Nano Logger is very convenient because it requires little or no soldering and can be easily reconfigured, but it is not ideal for unattended long-term field deployment because it does not use battery power efficiently.
 

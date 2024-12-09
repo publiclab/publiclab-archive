@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/021/769/original/5415783801_3c5e6bde95_o.png)
+
 # NDVI and NRG
 
 by [warren](../profile/warren), [bhamster](../profile/bhamster), [stevie](../profile/stevie), [cfastie](../profile/cfastie), [mariakatosvich](../profile/mariakatosvich), [liz](../profile/liz), [gonzoearth](../profile/gonzoearth)
 
 January 28, 2011 17:06 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [agriculture](../tag/agriculture)
+
+----
 
 NDVI stands for "Normalized Difference Vegetation Index". NRG stands for "Near-infrared / Red / Green". NDVI and NRG are both ways to visualize the amounts of infrared and other wavelengths of light reflected from vegetation. Because both these methods compare ratios of blue and red light absorbed versus green and IR light reflected, they can be used to evaluate the health of vegetation. It's a snapshot of how much photosynthesis is happening. This is helpful in assessing vegetative health or stress. (Read more here: https://www.agronomy.org/publications/jeq/articles/36/3/832) 
 
@@ -48,7 +52,7 @@ _Figure above: Normal color photo (right) and normalized difference vegetation i
 
 Here are a range of activities you can do to produce and interpret your own NDVI imagery, whether downloaded from a satellite imagery provider or [collected yourself using a DIY technique](/wiki/multispectral-imaging)
 
-[activities:ndvi]
+[ndvi](../../tag/activity:ndvi)
 
 ****
 
@@ -82,7 +86,7 @@ This diagram explains the swapping, which allows us to 'see' infrared as if it w
 
 ### Questions
 
-[questions:ndvi]
+[ndvi](../../tag/question:ndvi)
 
 ### Other examples of DIY NDVI imaging
 

@@ -14,6 +14,8 @@ by [jeffreyjoy](../profile/jeffreyjoy) January 13, 2012 23:07
 
 January 13, 2012 23:07 | Tags: [spectrometer](../tag/spectrometer), [spectrum-matching](../tag/spectrum-matching), [matching](../tag/matching), [spectral-workbench](../tag/spectral-workbench)
 
+----
+
 RE: Spectrometer kit and the using public data to perform identification of images produced.   http://publiclaboratory.org/tool/spectrometer
 
 As a general observation, it seems to me that assembling a spectrum library and matching should be similar to the way Soundhound can ID audio clips by distinctive peak matching.   

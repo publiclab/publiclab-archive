@@ -8,11 +8,15 @@ uid: 1259
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/009/360/original/Screen_Shot_2014-07-25_at_13.12.00.png)
+
 # Connecting with our Landfills by Nicholas Johnson
 
 by [mollydanielsson](../profile/mollydanielsson)
 
 March 20, 2015 23:50 | Tags: [landfill](../tag/landfill), [grassrootsmappingforum](../tag/grassrootsmappingforum), [trash](../tag/trash), [fresh-kills](../tag/fresh-kills), [gmf-6](../tag/gmf-6), [style:fancy](../tag/style:fancy)
+
+----
 
 by Nicholas Johnson
 

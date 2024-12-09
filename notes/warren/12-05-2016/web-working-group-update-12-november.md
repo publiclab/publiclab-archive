@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/018/975/original/Screenshot_2016-12-02_at_9.04.41_PM.png)
+
 # Web Working Group Update 12: November
 
 by [warren](../profile/warren) December 05, 2016 15:19
 
 December 05, 2016 15:19 | Tags: [community](../tag/community), [web-development](../tag/web-development), [software](../tag/software), [plots2](../tag/plots2), [outreach](../tag/outreach), [developers](../tag/developers), [wwg](../tag/wwg), [webwg](../tag/webwg), [internationalization](../tag/internationalization), [software-outreach](../tag/software-outreach), [firsttimersonly](../tag/firsttimersonly), [response:12781](../tag/response:12781)
+
+----
 
 I'm starting up the Web Working Group's monthly reports again, and, 6 months later, the kind of updates I've got have really changed!
 

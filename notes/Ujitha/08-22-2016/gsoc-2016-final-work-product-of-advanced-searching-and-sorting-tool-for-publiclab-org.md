@@ -8,11 +8,15 @@ uid: 467748
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/017/723/original/Screen_Shot_2016-08-22_at_9.41.48_PM.png)
+
 # GSoC 2016: Final Work Product of Advanced Searching and Sorting Tool for publiclab.org
 
 by [Ujitha](../profile/Ujitha) August 22, 2016 18:51
 
 August 22, 2016 18:51 | Tags: [gsoc](../tag/gsoc), [gsoc-2016](../tag/gsoc-2016), [advancedsearch](../tag/advancedsearch), [solr](../tag/solr), [sunspot](../tag/sunspot), [search-api](../tag/search-api), [response:13397](../tag/response:13397)
+
+----
 
 ###Project Details 
 Project Title: Advanced Searching and Sorting Tool for publiclab.org

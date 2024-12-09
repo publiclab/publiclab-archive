@@ -8,11 +8,15 @@ uid: 795167
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/045/734/original/PublicLab_logo.png)
+
 # GSoC"proposal: Infragram.org full-screen UI and video upload
 
 by [bhavyatewari_13_5](../profile/bhavyatewari_13_5) April 13, 2022 19:11
 
 April 13, 2022 19:11 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [soc](../tag/soc), [first-time-poster](../tag/first-time-poster), [lat:28.704059](../tag/lat:28.704059), [lon:77.10249](../tag/lon:77.10249), [zoom:6](../tag/zoom:6), [gsoc-2022](../tag/gsoc-2022), [gsoc-2022-proposals](../tag/gsoc-2022-proposals)
+
+----
 
 ## About me
 

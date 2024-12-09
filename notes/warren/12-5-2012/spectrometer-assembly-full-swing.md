@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/IMG_0147.JPG)
+
 # Spectrometer assembly in full swing
 
 by [warren](../profile/warren) December 05, 2012 22:46
 
 December 05, 2012 22:46 | Tags: [spectrometer](../tag/spectrometer), [kickstarter](../tag/kickstarter), [assembly](../tag/assembly)
+
+----
 
 The [DIY Spectrometry Kickstarter project](kickstarter.com/projects/jywarren/public-lab-diy-spectrometry-kit) is humming along as Mathew Lippincott is [up to his elbows in foldable paper spectrometers]() out in Portland, and here in Somerville, we are preparing for our own big assembly of desktop spectrometry kits. I know all you KS backers are eager to see our progress, so here are some photos and other updates! Apologies for slow responses to your messages and comments; please bear with us as we get these rewards out the door.
 

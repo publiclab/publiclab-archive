@@ -8,11 +8,15 @@ uid: 421556
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/006/541/original/mapknitter-3.png)
+
 # MapKnitter Annotations: First Live Release
 
 by [justinmanley](../profile/justinmanley) September 02, 2014 03:22
 
 September 02, 2014 03:22 | Tags: [mapknitter](../tag/mapknitter), [gsoc](../tag/gsoc), [gsoc-2014](../tag/gsoc-2014), [annotations](../tag/annotations)
+
+----
 
 ### First Live Release! ###
 

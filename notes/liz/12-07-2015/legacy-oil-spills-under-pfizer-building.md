@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/013/236/original/IMG_20151207_143037915_HDR.jpg)
+
 # Legacy oil spills under Pfizer building
 
 by [liz](../profile/liz) December 07, 2015 19:44
 
 December 07, 2015 19:44 | Tags: [new-york-city](../tag/new-york-city)
+
+----
 
 Here are three diagrams brought by Randy Austin of NYS DEC from their internal review and tracking process of the oil spills under the Pfizer building (where the NYC Public Lab space is). they went after BP who owns the gas station across the street and so far BP Amoco has cleaned up about 6' of the 7' deep oil spill under our building. 
 

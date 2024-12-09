@@ -8,11 +8,15 @@ uid: 556121
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/027/670/original/water_quality.jpg)
+
 # Inexpensive conductivity probe Step 2 - Sensor Driver #1 - an alternative to a 555 timer
 
 by [roberts_ecofarm](../profile/roberts_ecofarm) November 15, 2018 04:01
 
 November 15, 2018 04:01 | Tags: [response:10318](../tag/response:10318), [response:11159](../tag/response:11159)
+
+----
 
 Driving conductivity sensors seems to be where things get challenging. Straight DC current applied over time causes polarization of the solution you are trying to measure, and causes deposits to build up the posts. Both of these things causes the readings from the sensor to vary and the sensors to fail, sometimes very quickly. There are some good posts about these problems already here on Public Lab that I will try to collect and link. The solution to these problems seems to be to drive the sensor with AC rather than DC. The problem with that comes when you want to make a small, battery powered device that sends data to a DC powered data logger. The electronics to convert DC to AC to drive the probe, and then convert it back to DC to feed input to the data logger are somewhat complex for a novice electronics person like my self.
 

@@ -8,11 +8,15 @@ uid: 461120
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/016/226/original/981px-Benzo-a-pyrene.svg.png)
+
 # Chemical Analysis [Polycyclic aromatic hydrocarbons] in Crude oil
 
 by [dhaffnersr](../profile/dhaffnersr) May 19, 2016 21:44
 
 May 19, 2016 21:44 | Tags: 
+
+----
 
 **Abstract**
 This is a continuation from my previous research on 05/18/2016. 

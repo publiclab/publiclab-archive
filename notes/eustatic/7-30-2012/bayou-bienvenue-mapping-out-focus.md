@@ -8,11 +8,15 @@ uid: 379
 
 ---
 
+![](https://publiclab.org/sites/default/files/IMG_4468.JPG)
+
 # Bayou Bienvenue mapping:  out of focus
 
 by [eustatic](../profile/eustatic) July 30, 2012 13:45
 
 July 30, 2012 13:45 | Tags: [balloon-mapping](../tag/balloon-mapping), [bayou-bienvenue](../tag/bayou-bienvenue), [green-slice](../tag/green-slice), [bienvenue](../tag/bienvenue), [urbanwater](../tag/urbanwater)
+
+----
 
 last week, Scott Eustis, Scott Anderson, India Bush, Raynesha Jordan, and Aaliyah Marrero, in coordination with Eric Kugler of Common Ground relief, got in the canoe and paddled the ghost forest of the Bienvenue triangle.  This was part of an instructional mapping exercise.
 

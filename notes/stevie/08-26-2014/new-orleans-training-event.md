@@ -8,11 +8,15 @@ uid: 422561
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/006/433/original/flyer-indoor.png)
+
 # New Orleans Training Event! 
 
 by [stevie](../profile/stevie) August 26, 2014 16:14
 
 August 26, 2014 16:14 | Tags: [gulf-coast](../tag/gulf-coast), [balloon-mapping](../tag/balloon-mapping), [events](../tag/events), [mapping](../tag/mapping), [event](../tag/event), [event:rsvp](../tag/event:rsvp), [date:09-18-2014](../tag/date:09-18-2014), [rsvp:geraldmc](../tag/rsvp:geraldmc), [rsvp:danbeavers](../tag/rsvp:danbeavers), [rsvp:hschackai](../tag/rsvp:hschackai), [urbanwaters](../tag/urbanwaters), [replication:14022](../tag/replication:14022)
+
+----
 
 ###Event details
 At this event, we will learn about Public Lab aerial mapping. We will go over how aerial mapping works including the tools we use, technologies that help us build maps and best practices to make your project successful. We will also spend time building our own rigs for the local mapping events to follow! 

@@ -14,6 +14,8 @@ by [mathew](../profile/mathew) November 02, 2012 21:45
 
 November 02, 2012 21:45 | Tags: [balloon-mapping](../tag/balloon-mapping), [education](../tag/education), [curriculum](../tag/curriculum), [k-12](../tag/k-12)
 
+----
+
 ##Where are we?##
 ####Adam#### 
 have [mapping curriculum](/wiki/grassroots-mapping-curriculum) and [spectrometry curriculum](/wiki/spectrometry-activities) but highly technical and not easily integrated into k-12 education, not easy activities to work with.

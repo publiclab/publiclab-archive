@@ -3,6 +3,8 @@ uid: 788868
 created_at: 2022-02-16 15:06:15 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/788868/medium/images%2835%29)
+
 # TheChessGym
 
 I am Mr. Rene' Warren Phillips of the St. John the Baptist Parish School District STEM PROGRAM. I have a Masters Degree in Education, an undergraduate Degree in Christian Education, and presently pursuing a Doctorate in Theological Studies at Dallas Theological Seminary. I teach subjects ranging from Fine Arts Survey to ACT Prep 1 & 2. I am interested in and committed to learning and preserving a healthy environment in our world. Environmental Science is not just a subject of interest to me, it is also a personal responsibility to which I hold in high regard. 

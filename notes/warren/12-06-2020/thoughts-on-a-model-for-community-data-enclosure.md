@@ -14,6 +14,8 @@ by [warren](../profile/warren) December 06, 2020 19:09
 
 December 06, 2020 19:09 | Tags: [community](../tag/community), [ethics](../tag/ethics), [data](../tag/data), [lat:41](../tag/lat:41), [blog-submission](../tag/blog-submission), [study-design](../tag/study-design), [lon:-71](../tag/lon:-71), [zoom:6](../tag/zoom:6), [citscichat](../tag/citscichat)
 
+----
+
 I wrote a long-winded reply to @liz's nice tweet positing an RFP process that communities could run to solicit and evaluate potential helpers or harmers.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">A2 Issue a clear RFP to those who would help, so that problem holders may evaluate benefits &amp; harms of potential partnerships <a href="https://twitter.com/hashtag/CitSciChat?src=hash&amp;ref_src=twsrc%5Etfw">#CitSciChat</a> <a href="https://t.co/NupTCfj8fH">https://t.co/NupTCfj8fH</a></p>&mdash; jawnscapes &amp; jawnscaping (@lizbarry) <a href="https://twitter.com/lizbarry/status/1327353280960327680?ref_src=twsrc%5Etfw">November 13, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

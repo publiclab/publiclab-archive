@@ -14,6 +14,8 @@ by [liz](../profile/liz), [natalie](../profile/natalie), [warren](../profile/war
 
 June 10, 2014 18:20 | Tags: [sharing](../tag/sharing)
 
+----
+
 Want to share images easily? Take a look at our [guide to sharing images](/wiki/sharing-images) to exchange large #s of files with free tools. 
 
 Also on Instagram

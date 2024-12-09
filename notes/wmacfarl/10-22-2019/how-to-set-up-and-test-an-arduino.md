@@ -8,11 +8,15 @@ uid: 424597
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/035/903/original/arduino_testing.jpg)
+
 # How to Set up and Test An Arduino
 
 by [wmacfarl](../profile/wmacfarl) October 22, 2019 00:14
 
 October 22, 2019 00:14 | Tags: [arduino](../tag/arduino), [new](../tag/new), [draft](../tag/draft), [activity:new](../tag/activity:new), [oil-and-gas-water-trio](../tag/oil-and-gas-water-trio)
+
+----
 
 ## Purpose
 

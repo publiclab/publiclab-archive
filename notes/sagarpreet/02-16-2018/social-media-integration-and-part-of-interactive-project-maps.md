@@ -8,11 +8,15 @@ uid: 516343
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/024/007/original/header_gif.gif)
+
 # GSoC proposal: Social Media Integration and Leaflet-Layers Library .
 
 by [sagarpreet](../profile/sagarpreet) February 16, 2018 05:09
 
 February 16, 2018 05:09 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [soc](../tag/soc), [response:13975](../tag/response:13975), [gsoc-2018](../tag/gsoc-2018), [soc-2018](../tag/soc-2018), [soc-2018-proposals](../tag/soc-2018-proposals), [gsoc-2018-final](../tag/gsoc-2018-final), [first-time-poster](../tag/first-time-poster)
+
+----
 
 ## About me
 

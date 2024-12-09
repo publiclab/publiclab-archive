@@ -3,6 +3,8 @@ uid: 694138
 created_at: 2020-05-17 06:15:09 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/8a635a22554500880b782244dab8b864)
+
 # umberto_rootman
 
 

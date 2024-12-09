@@ -14,6 +14,8 @@ by [mimiss](../profile/mimiss)
 
 May 23, 2019 15:10 | Tags: 
 
+----
+
 With the Public Lab Community Microscope, your students can explore the invisible microscopic world around them using a microscope they've built themselves! This microscope is the result of many teams' work coming together. You can learn more about the journey on our [Kickstarter](https://www.kickstarter.com/projects/publiclab/the-community-microscope-kit)
 
 On this page, you can:
@@ -56,7 +58,7 @@ For step-by-step instructions on how to convert your webcam, [click here](https:
 
 Here we would curate a list of lessons for the microscope. Pin the Hello World Activity (would it be an interesting video?) Use a tag like 'edu-microscope-lesson' to get things to show up here. 
 
-[notes:grid:activity:edu-microscope-lesson]
+[grid:activity:edu-microscope-lesson](../../tag/grid:activity:edu-microscope-lesson)
 
 ## Get Help
 

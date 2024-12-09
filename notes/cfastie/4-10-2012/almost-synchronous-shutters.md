@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/sites/default/files/timtstv-20120410-120-11.jpg)
+
 # Almost synchronous shutters
 
 by [cfastie](../profile/cfastie) April 10, 2012 21:06
 
 April 10, 2012 21:06 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [triggering](../tag/triggering), [chdk](../tag/chdk), [synchrony](../tag/synchrony)
+
+----
 
 I finally got two cameras to shoot simultaneously.  Shooting pairs of visible and near IR photos can exploit simultaneous shooting to get the same scene in each photo even though the cameras rig is swaying in the wind.  It was harder than I thought to synchronize the cameras because several camera settings must be identical.  I used two Canon Powershot SD1100 cameras (identical except for firmware version) running CHDK.  The timer was an AuRiCo controller designed to point a KAP rig as well as trigger the shutter.  It was set for an interval of 10 seconds.  It is not designed to trigger two cameras, so I made a Y cable to split its output signal to the USB ports on two cameras. The timer device shipping with the KickStarter visible/IR cameras will probably operate in a similar manner.  I did not use the capabilities of CHDK which are designed to precisely synchronize the shutter release of multiple cameras.  That may be an upcoming project, especially if someone can give me some hints about how it's supposed to work. 
 

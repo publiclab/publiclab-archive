@@ -8,11 +8,15 @@ uid: 179952
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/001/086/original/90fa1238ff674bd6314af5112fd02ba4.jpg)
+
 # The  IMC Lab +Gallery
 
 by [imclab](../profile/imclab) August 09, 2013 13:49
 
 August 09, 2013 13:49 | Tags: [new-york-city](../tag/new-york-city), [imc](../tag/imc), [nyc](../tag/nyc)
+
+----
 
 The IMC Lab + Gallery
 http://TheIMClab.com

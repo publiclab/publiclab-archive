@@ -14,6 +14,8 @@ by [cherylh](../profile/cherylh) May 15, 2017 05:30
 
 May 15, 2017 05:30 | Tags: [timelapse](../tag/timelapse), [answered](../tag/answered), [question:timelapse](../tag/question:timelapse), [first-time-poster](../tag/first-time-poster)
 
+----
+
 ###What I want to do or know
 [Fair Tech Collective](https://www.fairtechcollective.org/) folks are investigating options for configuring cameras to monitor oil refineries. 
 

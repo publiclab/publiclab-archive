@@ -8,11 +8,15 @@ uid: 1083
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/010/427/original/Kite_mapping.jpeg)
+
 # DIY aerial photography: Kite-mapping workshop in London, UK
 
 by [cindy_excites](../profile/cindy_excites) June 24, 2015 14:45
 
 June 24, 2015 14:45 | Tags: [kite-mapping](../tag/kite-mapping), [london](../tag/london), [workshop](../tag/workshop), [event](../tag/event), [kitemapping](../tag/kitemapping), [event:rsvp](../tag/event:rsvp), [eu](../tag/eu), [date:06-24-2015](../tag/date:06-24-2015), [rsvp:edibleurban](../tag/rsvp:edibleurban), [replication:14022](../tag/replication:14022)
+
+----
 
 [Ted](http://publiclaboratory.org/profile/TedF) and myself, Cindy will be hosting a two-part workshop on kite-mapping and map-making in London. Briefly, Part 1 is using kites to gather aerial imagery; Part 2 is making maps from the images collected using mapknitter.org. Join us!
  

@@ -14,6 +14,8 @@ by [mrodriguezorejuela](../profile/mrodriguezorejuela) September 11, 2018 13:03
 
 September 11, 2018 13:03 | Tags: [question:general](../tag/question:general), [first-time-poster](../tag/first-time-poster)
 
+----
+
 I am trying to reproduce in Python the processing capabilities of the legacy (webGl) version of the sandbox, as they give the desired output. The processing pipeline is composed of a red channel normalisation (R/G) + NDVI preset (in color mode).
 
 ![image description](/i/26498.png "Screen_Shot_2018-09-11_at_14.56.16.png")

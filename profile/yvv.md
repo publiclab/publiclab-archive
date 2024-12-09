@@ -3,6 +3,8 @@ uid: 427257
 created_at: 2014-08-19 17:54:15 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/441037b3fc952a0f2d93b5b7fcffcadd)
+
 # yvv
 
 Yesmín: Urban Planning master's candidate at Columbia University & Intern with the Gowanus Canal Conservancy

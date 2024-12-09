@@ -14,6 +14,8 @@ by [liz](../profile/liz), [Shannon](../profile/Shannon), [warren](../profile/war
 
 July 16, 2011 13:11 | Tags: [community](../tag/community), [conferences](../tag/conferences), [organizers](../tag/organizers)
 
+----
+
 ##Citizen CyberScience##
 * Sara, Shannon
 * thermal flashlight workshop

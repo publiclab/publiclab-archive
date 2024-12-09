@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/002/211/original/IMG_0620_editcropcredit-01.png)
+
 # Hack your holidays with Public Lab!
 
 by [liz](../profile/liz) November 14, 2013 22:15
 
 November 14, 2013 22:15 | Tags: [kits](../tag/kits), [store](../tag/store), [holidays](../tag/holidays), [great-photos](../tag/great-photos), [kits-initiative](../tag/kits-initiative)
+
+----
 
 **This winter, choose gifts that delight your loved ones AND help support your favorite non-profit organization, Public Lab.** 
 

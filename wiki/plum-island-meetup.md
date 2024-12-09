@@ -14,6 +14,8 @@ by [wward1400](../profile/wward1400), [Hudonnoodles](../profile/Hudonnoodles)
 
 February 01, 2013 12:45 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [boston](../tag/boston), [event](../tag/event)
 
+----
+
 Let's have a Boston PLOTS meet up on **Saturday, April 6, 2012** at Great Neck Park and Pavilion Beach in Ipswich, MA. We'll have more logistical information soon, but let us know if you're available on April 6 to meet up at Great Neck Park for a skill share/mapping session and potential potluck. Feel free to invite your friends -- all skill levels welcome.
 
 To note: Pavilion Beach and Great Neck Park will provide a sample site for the North Shore area with a sandy shoreline, municipal/state/federal regulated land, private land, marine habitat, wetlands, and tidal flats in close proximity.  We want to bring local residents from the surrounding areas to a central location and expand on community maps around <a href="https://mapknitter.org/map/view/plum-island-map-3-13-13">Plum Island Sound</a>.

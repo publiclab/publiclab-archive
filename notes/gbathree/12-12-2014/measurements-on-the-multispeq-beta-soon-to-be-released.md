@@ -8,11 +8,15 @@ uid: 53164
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/008/344/original/production_line.png)
+
 # Measurements on the MultispeQ beta, soon to be released
 
 by [gbathree](../profile/gbathree) December 12, 2014 02:51
 
 December 12, 2014 02:51 | Tags: [fluorescence](../tag/fluorescence), [soil](../tag/soil), [health](../tag/health), [photosynthesis](../tag/photosynthesis), [photosynq](../tag/photosynq), [plant](../tag/plant), [multispeq](../tag/multispeq)
+
+----
 
 Hey guys, I've been posted every couple weeks about progress on PhotosynQ, the platform for anyone to create, share, and analyze plant health information, and wanted to give another update.  This one details the measurements which will be included in the MultispeQ when we ship it (which should be soon), and has a quick update on our production run and how it's going.
 [

@@ -3,6 +3,8 @@ uid: 452260
 created_at: 2015-09-22 11:28:32 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/c47143266e946d19521a543a79e65b7a)
+
 # suget305
 
 We are doing this as a project for my global collaboration class. Specifically we are focusing on how information flows using citizen scientists. Also I am an environmentalist, so I figured it would be cool to start our own project

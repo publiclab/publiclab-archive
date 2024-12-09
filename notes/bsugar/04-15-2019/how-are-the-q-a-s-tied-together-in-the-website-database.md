@@ -14,6 +14,8 @@ by [bsugar](../profile/bsugar) April 15, 2019 06:06
 
 April 15, 2019 06:06 | Tags: [database](../tag/database), [data](../tag/data), [code](../tag/code), [question:website](../tag/question:website), [programming](../tag/programming)
 
+----
+
 **ANSWER BELOW IN COMMENTS!**
 
 I've been working with some of the data from the website (in beta) and have noticed something peculiar for which I cannot find any pattern to explain. The short story is that given the fact that all answers can also be found as a comment (let's call them "anscoms" for now), there are _36 anscoms unattached to any question (25 questions are missing) and 173 unique ids from 502 anscoms that are not also found in the answers._

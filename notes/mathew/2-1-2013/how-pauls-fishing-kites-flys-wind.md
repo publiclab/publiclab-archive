@@ -8,11 +8,15 @@ uid: 4
 
 ---
 
+![](https://publiclab.org/sites/default/files/Screen shot 2013-01-31 at 10.20.18 PM.png)
+
 # How Pauls Fishing Kites Flys off-wind
 
 by [mathew](../profile/mathew) February 01, 2013 06:18
 
 February 01, 2013 06:18 | Tags: [kite-mapping](../tag/kite-mapping), [kite-fishing](../tag/kite-fishing), [kite-techniques](../tag/kite-techniques), [off-wind-flying](../tag/off-wind-flying)
+
+----
 
 Watch [Paul's](http://www.fishingkites.co.nz/kites-kite-designs/kites_designs.html) awesome home video series, "Kite Fishing Encyclopedia."  Skip to 4:50 for the off-angle flying.
 

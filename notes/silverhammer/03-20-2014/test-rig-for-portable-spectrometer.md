@@ -8,11 +8,15 @@ uid: 420530
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/003/350/original/2014-03-19_23.18.03.jpg)
+
 # Test Rig for Portable Spectrometer
 
 by [silverhammer](../profile/silverhammer) March 20, 2014 07:43
 
 March 20, 2014 07:43 | Tags: [spectrometer](../tag/spectrometer), [light-source](../tag/light-source), [portable](../tag/portable)
+
+----
 
 ###What I want to do
 

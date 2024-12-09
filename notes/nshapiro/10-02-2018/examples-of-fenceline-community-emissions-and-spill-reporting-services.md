@@ -14,6 +14,8 @@ by [nshapiro](../profile/nshapiro) October 02, 2018 13:17
 
 October 02, 2018 13:17 | Tags: [air-quality](../tag/air-quality), [water-quality](../tag/water-quality), [answered](../tag/answered), [question:general](../tag/question:general)
 
+----
+
 I'm looking for examples of websites, hotlines, or text-message platforms that enable fenceline communities to report fugitive emissions or spills. I'm also interested in the ways that the services do and don't work and ideas about how they can be improved upon if they are open source.   
 
   

@@ -3,6 +3,8 @@ uid: 1016
 created_at: 2014-02-14 20:06:24 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/1016/medium/1966_Eymund_avec_ane.jpg)
+
 # eymund
 
 I like helping kids trace out in chalk the old streams that used to run through their playgrounds. Public Lab provides fun tools for making the historic invisibles come to the surface again, where a pattern of puddles on the basket ball court hints at where the fish once were, the tarmac sinking on the softer riverbed soils.

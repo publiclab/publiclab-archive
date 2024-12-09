@@ -8,11 +8,15 @@ uid: 664477
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/042/968/original/Soil_remediation_Cleveland.jpg)
+
 # Soil remediation
 
 by [laurel_mire](../profile/laurel_mire), [fongvania](../profile/fongvania), [alejobonifacio](../profile/alejobonifacio), [bhamster](../profile/bhamster)
 
 March 16, 2021 23:00 | Tags: [remediation](../tag/remediation), [soil](../tag/soil), [plants](../tag/plants), [bioassay](../tag/bioassay), [bioremediation](../tag/bioremediation), [method](../tag/method), [phytoremediation](../tag/phytoremediation), [soil-contamination](../tag/soil-contamination), [mycoremediation](../tag/mycoremediation), [parent:soil](../tag/parent:soil), [soil-remediation](../tag/soil-remediation)
+
+----
 
 _Lead image: The New Hope Soil Remediation Project in Cleveland, OH. [ReImagining Cleveland - Image Archive](https://www.flickr.com/photos/124615603@N07/13986778647), [CC BY NC ND](https://creativecommons.org/licenses/by-nc-nd/2.0/)_
 
@@ -47,7 +51,7 @@ _Please contribute to the resources and discussion by [editing this wiki page](h
 
 Questions from the Public Lab community tagged with `soil-remediation` will appear here
 
-[questions:soil-remediation]
+[soil-remediation](../../tag/question:soil-remediation)
 
 <br>
 
@@ -55,7 +59,7 @@ Questions from the Public Lab community tagged with `soil-remediation` will appe
 
 Activities on Public Lab tagged with `soil-remediation` will appear here
 
-[activities:soil-remediation]
+[soil-remediation](../../tag/activity:soil-remediation)
 
 <br>
 

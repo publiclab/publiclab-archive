@@ -8,11 +8,15 @@ uid: 237313
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/022/216/original/BarnraisingGroupSm.jpg)
+
 # Share Your Barnraising 2017 Photos!
 
 by [Bronwen](../profile/Bronwen) November 05, 2017 13:52
 
 November 05, 2017 13:52 | Tags: [events](../tag/events), [louisiana](../tag/louisiana), [barnraising](../tag/barnraising), [barnraising-2017](../tag/barnraising-2017), [barnraising2017](../tag/barnraising2017)
+
+----
 
 \*\*
 

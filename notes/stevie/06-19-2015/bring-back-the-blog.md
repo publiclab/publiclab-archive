@@ -8,11 +8,15 @@ uid: 422561
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/010/394/original/Come_Map!.JPG)
+
 # Bring Back the Blog!
 
 by [stevie](../profile/stevie) June 19, 2015 20:21
 
 June 19, 2015 20:21 | Tags: [community](../tag/community), [blog](../tag/blog)
+
+----
 
 *“Your words create the world around you.”* _Milton Bluehouse, Jr. @RiverRally 2015_
 

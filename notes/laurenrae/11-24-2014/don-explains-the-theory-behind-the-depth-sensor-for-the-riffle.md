@@ -8,11 +8,15 @@ uid: 431676
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/008/101/original/IMG_4051.JPG)
+
 # Don explains the theory behind the depth sensor for the Riffle
 
 by [laurenrae](../profile/laurenrae) November 24, 2014 15:24
 
 November 24, 2014 15:24 | Tags: [gulf-coast](../tag/gulf-coast), [water-sensing](../tag/water-sensing), [water-quality-monitoring](../tag/water-quality-monitoring), [sensors](../tag/sensors), [riffle](../tag/riffle), [coqui](../tag/coqui), [depth](../tag/depth), [water-depth](../tag/water-depth)
+
+----
 
 ###What I want to do
 

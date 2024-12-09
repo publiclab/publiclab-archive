@@ -3,6 +3,8 @@ uid: 61830
 created_at: 2013-05-20 17:24:32 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/c5e3bf0382ebcfd96ac24f7b2775f79d)
+
 # funkycbj
 
 I'm interested in PL because it facilitates development of low-cost alternatives for applied research. I am conducting agricultural research for assessing crop nutrient status and light-use efficiency.

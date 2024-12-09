@@ -8,11 +8,15 @@ uid: 9
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/000/379/original/plots-logo-transparent.jpg)
+
 # Press Release: Public Lab Launches a Kickstarter for the Infrared Photography Project
 
 by [Shannon](../profile/Shannon) May 22, 2013 12:02
 
 May 22, 2013 12:02 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [infrared](../tag/infrared), [kickstarter](../tag/kickstarter), [infragram](../tag/infragram), [press-release](../tag/press-release)
+
+----
 
 **NEWS RELEASE**
 FOR IMMEDIATE RELEASE

@@ -8,11 +8,15 @@ uid: 426547
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/011/523/original/IMG_4589.JPG)
+
 # Mãe d'água - Índice de qualidade / Water Mother - Quality index
 
 by [GSan](../profile/GSan) August 26, 2015 21:49
 
 August 26, 2015 21:49 | Tags: [water-quality](../tag/water-quality), [brasil](../tag/brasil), [redeinfoamazonia](../tag/redeinfoamazonia), [maedagua](../tag/maedagua), [lang:pt](../tag/lang:pt), [first-time-poster](../tag/first-time-poster)
+
+----
 
 ###Correlação de medidas de pH, ORP, EC, temperatura e pressão barométrica para criar um índice de qualidade d'água
 ###Correlation measures pH, ORP, EC, temperature and barometric pressure to create a water quality index

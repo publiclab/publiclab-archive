@@ -14,6 +14,8 @@ by [Shannon](../profile/Shannon) April 15, 2013 17:34
 
 April 15, 2013 17:34 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
 
+----
+
 After wrapping up another great week, we're excited to hear from people about future needs for map annotating, view the entries coming in for Spectral Challenge and read about mapping projects in Brazil, Nicaragua and Panama. Enjoy!
 
 Map annotation survey. Public Lab has been building the ability to annotate maps into [MapKnitter.org](https://mapknitter.org/). Currently, you are able to embed a photo or video, add points and create closed and colored shapes. As we further develop the functionality, we'd appreciate your feedback on ways that you would use annotations in your work. You can fill out the seven question survey by visiting the [Public Lab website](http://publiclaboratory.org/notes/Shannon/04-11-2013/public-lab-map-annotation-survey). 

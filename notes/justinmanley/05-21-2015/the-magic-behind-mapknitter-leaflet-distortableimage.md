@@ -8,11 +8,15 @@ uid: 421556
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/009/940/original/Leaflet.DistortableImage.png)
+
 # The Magic Behind MapKnitter: Leaflet.DistortableImage
 
 by [justinmanley](../profile/justinmanley) May 21, 2015 03:24
 
 May 21, 2015 03:24 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [mapknitter](../tag/mapknitter), [software](../tag/software), [tools](../tag/tools), [barnstar:basic](../tag/barnstar:basic)
+
+----
 
 [Leaflet.DistortableImage](https://github.com/publiclab/Leaflet.DistortableImage) is a new plugin for the JavaScript mapping library  [Leaflet](http://leafletjs.com/), written by Public Lab contributors to make [MapKnitter](mapknitter.org) better. Here's why we wrote Leaflet.DistortableImage, the challenges we faced, and how you can participate in developing Public Lab's open-source software tools for environmental research.
 

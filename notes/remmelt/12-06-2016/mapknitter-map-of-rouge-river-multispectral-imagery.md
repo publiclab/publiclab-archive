@@ -14,4 +14,6 @@ by [remmelt](../profile/remmelt) December 06, 2016 17:56
 
 December 06, 2016 17:56 | Tags: [mapknitter](../tag/mapknitter), [infrared](../tag/infrared), [drone](../tag/drone), [multispectral-imaging](../tag/multispectral-imaging), [lat:43.653226](../tag/lat:43.653226), [lon:-79.3831843](../tag/lon:-79.3831843)
 
+----
+
 <iframe src="https://mapknitter.org/embed/test1--13" style="border:none" width="100%" height="400px"></iframe><br /><br />UAV-platform imagery: DJI Phantom 2 with Tetracam ADC Snap multispectral camera.<br />https://mapknitter.org/embed/test1--13

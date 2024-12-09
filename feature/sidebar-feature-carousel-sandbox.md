@@ -12,6 +12,8 @@ uid: 1
 
 December 14, 2015 22:46 | Tags: 
 
+----
+
     <div id="store-carousel" class="carousel slide span4" data-ride="carousel">
       <div class="carousel-inner">
 

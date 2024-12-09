@@ -14,6 +14,8 @@ by [testtube](../profile/testtube) January 23, 2017 03:06
 
 January 23, 2017 03:06 | Tags: [question:spectral-workbench](../tag/question:spectral-workbench)
 
+----
+
 ###What I want to do or know
 I am new to this site... and have a few questions... 
 1.) on the "Capture" screen where there are buttons for "Save" and for "download".

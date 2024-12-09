@@ -8,11 +8,15 @@ uid: 744181
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/043/024/original/web.me_.jpg)
+
 # Microplastics in Lake Pontchartrain 
 
 by [cummins_leila](../profile/cummins_leila) March 23, 2021 15:20
 
 March 23, 2021 15:20 | Tags: [louisiana](../tag/louisiana), [lake](../tag/lake), [lake-pontchartrain](../tag/lake-pontchartrain), [issue-brief](../tag/issue-brief), [microplastics](../tag/microplastics), [pontchartrain](../tag/pontchartrain), [freshwater](../tag/freshwater), [zoom:8](../tag/zoom:8), [lat:29.984092](../tag/lat:29.984092), [lon:-90.152851](../tag/lon:-90.152851)
+
+----
 
 ### Introduction: 
 

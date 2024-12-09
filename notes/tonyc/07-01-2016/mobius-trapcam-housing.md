@@ -8,11 +8,15 @@ uid: 447491
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/016/842/original/IMG_4026.JPG)
+
 # Mobius TrapCam Housing
 
 by [tonyc](../profile/tonyc) July 01, 2016 23:22
 
 July 01, 2016 23:22 | Tags: [timelapse](../tag/timelapse), [housing](../tag/housing), [mobius](../tag/mobius), [trapcam](../tag/trapcam)
+
+----
 
 ###Make a low-cost housing for Mobius camera for outdoor deployments.
 

@@ -14,6 +14,8 @@ by [liz](../profile/liz) November 12, 2019 14:44
 
 November 12, 2019 14:44 | Tags: [indoor-air](../tag/indoor-air), [question:general](../tag/question:general), [general](../tag/general), [question:indoor-air](../tag/question:indoor-air)
 
+----
+
 Has anyone has experience using the PTrak 8525 to measure ultrafine particles in indoor air?   
 We have a community member using this piece of equipment for that purpose: https://www.tsi.com/p-trak-ultrafine-particle-counter-8525/  
 

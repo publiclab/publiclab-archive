@@ -8,11 +8,15 @@ uid: 422561
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/026/093/original/Screen_Shot_2018-08-03_at_1.55.32_PM.png)
+
 # The fight to get out of Pascagoula
 
 by [stevie](../profile/stevie) August 06, 2018 19:16
 
 August 06, 2018 19:16 | Tags: [gulf-coast](../tag/gulf-coast), [mississippi](../tag/mississippi), [blog](../tag/blog), [pollution](../tag/pollution), [pm](../tag/pm), [industry](../tag/industry), [odor](../tag/odor), [odor-log](../tag/odor-log), [chemicals](../tag/chemicals), [pascagoula](../tag/pascagoula), [tri](../tag/tri), [toxics-release-inventory](../tag/toxics-release-inventory), [odor-logging](../tag/odor-logging), [chevron](../tag/chevron), [mdeq](../tag/mdeq), [phosphates](../tag/phosphates)
+
+----
 
 Pascagoula, Mississippi hosts 12 facilities that report to the federal Toxics Release Inventory, six of which are within a mile-and-a-half radius of the Cherokee Forest Community ([2016 Reported toxic release data here](https://iaspub.epa.gov/triexplorer/release_fac?p_view=COFA&trilib=TRIQ1&sort=_VIEW_&sort_fmt=1&state=28&county=28059&chemical=All+chemicals&industry=ALL&year=2016&tab_rpt=1&fld=RELLBY&fld=TSFDSP)). Below is the story of Barbara Weckesser, and her struggle to get out.
 

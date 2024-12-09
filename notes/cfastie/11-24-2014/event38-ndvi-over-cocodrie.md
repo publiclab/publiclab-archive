@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/008/098/original/KnitterNDVI.JPG)
+
 # Event38 NDVI over Cocodrie
 
 by [cfastie](../profile/cfastie) November 24, 2014 03:01
 
 November 24, 2014 03:01 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [image-stitching](../tag/image-stitching), [louisiana](../tag/louisiana), [barnraising](../tag/barnraising), [lumcon](../tag/lumcon), [infragram](../tag/infragram), [barnraising2014](../tag/barnraising2014)
+
+----
 
 The camera [flown by Charles Malveaux during the Barnrainsing](http://publiclab.org/notes/cfastie/11-21-2014/fixed-wing-over-cocodrie) had been converted to near infrared by Event38 with one of [their new NGB filters](http://droneyard.com/2014/08/19/latest-vegetation-stress-filters-now-available/). This blue filter is similar to a Schott BG3 or one of the Rosco blue filters, but with some intriguing improvements. I have not used this camera and I make some assumptions below based on the 12 photos taken during the flight of Charles' model Piper Cub.   
 .   

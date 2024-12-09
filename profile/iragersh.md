@@ -3,6 +3,8 @@ uid: 557258
 created_at: 2018-10-31 01:27:50 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/756620e3682870203d801026eadd95c9)
+
 # iragersh
 
 Oyster, plant and swim nerd.  Also loving inaturalist (irag).

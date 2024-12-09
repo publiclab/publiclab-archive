@@ -14,6 +14,8 @@ by [warren](../profile/warren)
 
 February 02, 2011 23:15 | Tags: [redirect:3](../tag/redirect:3)
 
+----
+
 ##Proposed Boston Neighborhood Thermal Camera Project##
 
 Public Laboratory and Sprout (Jeff Warren and Michael Nagle) are interested in working with other energy-efficiency-concerned residents in the Boston area to design and build a few thermal cameras. These could be used to 'photograph' where heat leaks out of homes, local businesses, schools, etc. like in this image (not from our camera):

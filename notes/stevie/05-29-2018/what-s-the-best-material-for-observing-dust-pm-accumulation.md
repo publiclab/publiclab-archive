@@ -14,5 +14,7 @@ by [stevie](../profile/stevie) May 29, 2018 16:47
 
 May 29, 2018 16:47 | Tags: [pm](../tag/pm), [question:passive-pm](../tag/question:passive-pm), [question:pm](../tag/question:pm), [question:particulate-matter](../tag/question:particulate-matter), [question:sticky-pads](../tag/question:sticky-pads), [with:ramseysprague](../tag/with:ramseysprague)
 
+----
+
 Hi all! 
 I've had a question recently from a friend in Mobile, AL who is working with someone experiencing an increase in exposure to dust from a nearby roadway. They are interested in collecting some visual data around accumulation of dust. I know a few people on here have explored sticky pads, observed accumulation of dust on glass and other materials. Is there anything specific you would recommend they use to observe this?

@@ -8,11 +8,15 @@ uid: 432001
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/011/143/original/Screen_Shot_2015-08-17_at_10.31.35_AM.png)
+
 # Thermistor Test in Water of Different Temperatures
 
 by [kgrevera](../profile/kgrevera) August 17, 2015 14:45
 
 August 17, 2015 14:45 | Tags: [water-quality](../tag/water-quality), [thermal-fishing-bob](../tag/thermal-fishing-bob), [thermal](../tag/thermal), [thermal-pollution](../tag/thermal-pollution), [heat](../tag/heat), [multiple-input-thermal-fishing-bob](../tag/multiple-input-thermal-fishing-bob), [mare-liberum](../tag/mare-liberum), [replication:689](../tag/replication:689)
+
+----
 
 ##Thermistor Test in Water of Different Temperatures
 

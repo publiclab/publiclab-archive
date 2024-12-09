@@ -8,11 +8,15 @@ uid: 469053
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/028/444/original/IMG_0647.png)
+
 # Particulate sensor using a STBM271
 
 by [david_uwi](../profile/david_uwi) December 19, 2018 18:20
 
 December 19, 2018 18:20 | Tags: [arduino](../tag/arduino), [particulate-sensing](../tag/particulate-sensing), [air-quality](../tag/air-quality), [particulates](../tag/particulates), [pm](../tag/pm), [caribbean](../tag/caribbean), [hardware](../tag/hardware), [air-sensors](../tag/air-sensors), [stbm271](../tag/stbm271), [trinidad-and-tobago](../tag/trinidad-and-tobago)
+
+----
 
 ![image description](/i/28453.png "particlenovdec(large).png")![image description](/i/28452.png "particle_sch.png")
 

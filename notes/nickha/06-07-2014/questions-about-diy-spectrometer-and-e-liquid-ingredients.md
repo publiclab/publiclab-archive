@@ -14,6 +14,8 @@ by [nickha](../profile/nickha) June 07, 2014 18:59
 
 June 07, 2014 18:59 | Tags: [spectrometer](../tag/spectrometer), [spectral-analysis](../tag/spectral-analysis), [question:spectrometer](../tag/question:spectrometer), [e-liquid](../tag/e-liquid), [e-cigarettes](../tag/e-cigarettes)
 
+----
+
 ###What I want to do
 I would like to know if the DIY spectrometer is capable of giving me an idea of ingredients in a sample of e-liquid (used in e-cigarettes).
 

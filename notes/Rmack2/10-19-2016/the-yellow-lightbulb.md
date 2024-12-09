@@ -8,11 +8,15 @@ uid: 494932
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/018/480/original/image.jpeg)
+
 # The Yellow Lightbulb
 
 by [Rmack2](../profile/Rmack2) October 19, 2016 17:28
 
 October 19, 2016 17:28 | Tags: [hidden:response](../tag/hidden:response), [response:13586](../tag/response:13586), [first-time-poster](../tag/first-time-poster)
+
+----
 
 ###What I want to do
 

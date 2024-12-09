@@ -14,6 +14,8 @@ by [warren](../profile/warren)
 
 April 30, 2013 22:15 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [media](../tag/media)
 
+----
+
 _Media on Grassroots Mapping, including pictures of folks balloon and kite mapping_
 
 This content is [Creative Commons licensed](/licenses) and you are free to use it according to those terms.

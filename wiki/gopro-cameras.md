@@ -14,6 +14,8 @@ by [gonzoearth](../profile/gonzoearth)
 
 June 07, 2013 00:22 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [conversion](../tag/conversion), [infragram](../tag/infragram), [gopro](../tag/gopro)
 
+----
+
 **Hero3 NIR Conversion**
 _***In Progress !!!***_  
 

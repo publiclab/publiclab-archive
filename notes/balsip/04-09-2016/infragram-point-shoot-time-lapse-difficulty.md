@@ -8,11 +8,15 @@ uid: 422670
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/015/432/original/IMG_5069.jpg)
+
 # Infragram Point & Shoot; Time-lapse Difficulty
 
 by [balsip](../profile/balsip) April 09, 2016 04:47
 
 April 09, 2016 04:47 | Tags: [ndvi](../tag/ndvi), [time-lapse](../tag/time-lapse), [infragram](../tag/infragram), [timelapse](../tag/timelapse), [code](../tag/code), [mobius](../tag/mobius), [infragram-point-shoot](../tag/infragram-point-shoot), [script](../tag/script), [error](../tag/error)
+
+----
 
 I would like to set up the code on the camera to shoot on a time-lapse interval (120 seconds).
 

@@ -14,6 +14,8 @@ by [LaPa](../profile/LaPa) December 03, 2015 21:53
 
 December 03, 2015 21:53 | Tags: [raspberry-pi](../tag/raspberry-pi), [white-balance](../tag/white-balance), [pi-camera](../tag/pi-camera), [pinoir](../tag/pinoir), [whitebalance](../tag/whitebalance), [question:pi-camera](../tag/question:pi-camera), [raspberry-pi-infragram](../tag/raspberry-pi-infragram), [activity:raspberry-pi-infragram](../tag/activity:raspberry-pi-infragram), [question:raspberry-pi-infragram](../tag/question:raspberry-pi-infragram), [question:infragram-filters](../tag/question:infragram-filters), [question:infrared-camera-conversion](../tag/question:infrared-camera-conversion), [first-time-poster](../tag/first-time-poster)
 
+----
+
 ###What I want to do
 I'm an agronomist, I'm going to make a IR RaspiCam to do an  IR Timelapse in greenhouse. I want add same sensors (temperature, moisture, soil moisture) at the IR Raspicam in order to link environmental condition to Health of the plant.
 

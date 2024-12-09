@@ -3,6 +3,8 @@ uid: 602821
 created_at: 2019-07-06 12:19:47 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/24194d30fbdb4ac6faec289a79cc422a)
+
 # willieong
 
 

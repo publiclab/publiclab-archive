@@ -3,6 +3,8 @@ uid: 420044
 created_at: 2013-12-23 17:05:56 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/420044/medium/Cosmobird-large.png)
+
 # 31gane
 
 I was an Engineer and Researcher, tinkering with Electromagnetic Waves (theory and practical) and quantum physics at some closed down non disclosure lab at CSIR India, and helped in constructing Spectroscopy instruments (Tunable Near-InfraRed NIR).

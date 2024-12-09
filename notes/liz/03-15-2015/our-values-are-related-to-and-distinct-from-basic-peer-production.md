@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/009/263/original/ValuesStatement-Phil_Cindy_barnraising_2014.png)
+
 # our values are related to and distinct from basic peer production
 
 by [liz](../profile/liz) March 15, 2015 14:34
 
 March 15, 2015 14:34 | Tags: [community](../tag/community), [values-statement](../tag/values-statement), [peer-production](../tag/peer-production)
+
+----
 
 Back in the fall, Public Lab organizers worked on a [values statement](http://publiclab.org/wiki/values-statement) for Public Lab. 
 

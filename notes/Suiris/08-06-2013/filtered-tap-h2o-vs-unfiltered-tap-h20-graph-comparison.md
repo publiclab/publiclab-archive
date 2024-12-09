@@ -8,11 +8,15 @@ uid: 170375
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/001/036/original/comparison.png)
+
 # Filtered tap H2O vs unfiltered tap H2O spectral graph comparison
 
 by [Suiris](../profile/Suiris) August 06, 2013 01:33
 
 August 06, 2013 01:33 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [spectroscopy](../tag/spectroscopy), [water-quality](../tag/water-quality), [water-monitoring](../tag/water-monitoring), [sweden](../tag/sweden), [transmittance](../tag/transmittance), [tapwater](../tag/tapwater), [drinking-water](../tag/drinking-water), [activity:spectrometry](../tag/activity:spectrometry), [activity:tapwater](../tag/activity:tapwater)
+
+----
 
 I wanted to put my water filter up to a test. Two identical transparent bottles were filled with tap water, one bottle with filtered tap H2O and the other unfiltered tap H2O. Two tests were taken to make sure the results were conclusive and in both tests all parameters were exactly the same except for camera shutter speed.
 

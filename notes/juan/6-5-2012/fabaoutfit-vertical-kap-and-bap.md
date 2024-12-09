@@ -8,11 +8,15 @@ uid: 1310
 
 ---
 
+![](https://publiclab.org/sites/default/files/FABArig-elements.png)
+
 # FABAoutfit for vertical  KAP and BAP
 
 by [Juan](../profile/Juan) June 05, 2012 20:23
 
 June 05, 2012 20:23 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [picavet](../tag/picavet), [chdk](../tag/chdk), [rig](../tag/rig), [hangup](../tag/hangup), [photo-rig](../tag/photo-rig), [activity:photo-rig](../tag/activity:photo-rig), [first-time-poster](../tag/first-time-poster)
+
+----
 
 <strong>This work is released under the Creative Commons/CERN Open Hardware License.</strong>
 

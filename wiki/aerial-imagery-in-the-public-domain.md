@@ -8,11 +8,15 @@ uid: 422561
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/011/354/original/mapviewr.png)
+
 # Aerial Imagery in the Public Domain 
 
 by [stevie](../profile/stevie), [warren](../profile/warren), [gilbert](../profile/gilbert), [eustatic](../profile/eustatic)
 
 August 31, 2015 20:27 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [remote-sensing](../tag/remote-sensing), [mapping](../tag/mapping), [pole-photography](../tag/pole-photography), [landsat](../tag/landsat)
+
+----
 
 _Above image from the National Map Viewer_
 

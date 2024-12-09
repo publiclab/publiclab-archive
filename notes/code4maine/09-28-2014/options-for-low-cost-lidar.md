@@ -8,11 +8,15 @@ uid: 294634
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/007/049/original/lidar11.png)
+
 # Options for Low-Cost LIDAR 
 
 by [ajawitz](../profile/ajawitz) September 28, 2014 15:58
 
 September 28, 2014 15:58 | Tags: [sensors](../tag/sensors), [lidar](../tag/lidar), [opendronemap](../tag/opendronemap)
+
+----
 
 ###What I want to do
  I want to research the current availability of low-cost [LIDAR](http://en.wikipedia.org/wiki/Lidar) sensors and their potential integration into existing citizen science/grassroots mapping efforts.

@@ -8,11 +8,15 @@ uid: 422561
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/010/806/original/20141020_111334.jpg)
+
 # "Ecohackers: These kids track pollution with balloons and kites"
 
 by [stevie](../profile/stevie) July 22, 2015 14:41
 
 July 22, 2015 14:41 | Tags: [blog](../tag/blog)
+
+----
 
 **Check out this column by Chris Berdik in [The Hechinger Report](http://hechingerreport.org/ecohackers-these-kids-track-pollution-with-balloons-and-kites/)**
 

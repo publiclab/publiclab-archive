@@ -14,6 +14,8 @@ by [awoolverton1](../profile/awoolverton1) July 07, 2022 22:39
 
 July 07, 2022 22:39 | Tags: [heavy-metals](../tag/heavy-metals), [air-quality](../tag/air-quality), [pm](../tag/pm), [vocs](../tag/vocs), [particulate-matter](../tag/particulate-matter), [zoom:6](../tag/zoom:6), [formosaplastics](../tag/formosaplastics), [volatile-organic-compounds](../tag/volatile-organic-compounds), [lat:30.017929](../tag/lat:30.017929), [lon:-90.791322](../tag/lon:-90.791322), [gameoverformosateam](../tag/gameoverformosateam), [health-effects](../tag/health-effects)
 
+----
+
 The communities of St. James Parish, like those in neighboring parishes throughout Southeast Louisiana's "Cancer Alley," face extremely high levels of pollutants, emitted from the region's 150 industrial plants. These majority Black and historically underrepresented communities bear the brunt of toxins emitted in the production of petrochemical shipped all across the nation.
 
 The EPA captures information on toxic emissions through the [](https://www.epa.gov/toxics-release-inventory-tri-program/what-toxics-release-inventory)[Toxic Release Inventory](https://www.epa.gov/toxics-release-inventory-tri-program/what-toxics-release-inventory) (TRI), and requires all industrial facilities to report quantities of chemical emissions into the air, water, or land disposals. The TRI program records annual information for 770 different chemicals that cause both acute and long-term human health effects, such as cancer, as well as those that cause adverse environmental effects. For St. James Parish, the information within the database demonstrates significant health and environmental consequences.

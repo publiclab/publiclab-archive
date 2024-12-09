@@ -3,6 +3,8 @@ uid: 54025
 created_at: 2013-04-19 00:23:34 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/e43559ffb5ec6e3c4fa5650b2fbff814)
+
 # stoft
 
 

@@ -8,11 +8,15 @@ uid: 437
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/004/772/original/gacshore_050612_swflat_debris.jpg)
+
 # Testing a Penobscot Bay, Maine beach and clamflat for heavy metals & other contaminants
 
 by [ronhuber](../profile/ronhuber) June 17, 2014 01:41
 
 June 17, 2014 01:41 | Tags: [heavy-metals](../tag/heavy-metals), [superfund](../tag/superfund), [maine](../tag/maine), [northeast](../tag/northeast), [lead](../tag/lead), [red](../tag/red), [phosphogypsum](../tag/phosphogypsum), [bauxite](../tag/bauxite), [alum](../tag/alum), [penobscot](../tag/penobscot), [mercury](../tag/mercury), [bay](../tag/bay), [stockton](../tag/stockton), [harbor](../tag/harbor), [kidder](../tag/kidder), [point](../tag/point), [superphosphate](../tag/superphosphate), [mud](../tag/mud), [cercla](../tag/cercla), [cadmium](../tag/cadmium), [pcbs](../tag/pcbs), [friends-of-penobscot-bay](../tag/friends-of-penobscot-bay), [lead-testing](../tag/lead-testing)
+
+----
 
 This is my first research note ever, so please excuse the roughness.
 The Friends of Penobscot Bay are seeking to have a contaminated cove in Penobscot Bay added to the Superfund National  Priorities List, so that monies for remediation would be forthcoming. But to get getting the federal and state agencies necessarily involved in this review to look at all the concerns we've raised, we need to  at least qualitatively test the tainted beach and flats ourselves for an array of metals, petrochemicals and acids in the wastes dumped into wooden shoreline containment cells in the 1940s, 50s and 60s by  manufacturers of sulfuric acid, superphosphate fertilizer and alum.

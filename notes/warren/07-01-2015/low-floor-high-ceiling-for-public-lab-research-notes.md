@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/010/498/original/research-writers.png)
+
 # Low floor, high ceiling for Public Lab research notes
 
 by [warren](../profile/warren) July 01, 2015 15:41
 
 July 01, 2015 15:41 | Tags: [collaboration](../tag/collaboration), [community](../tag/community), [website](../tag/website), [research](../tag/research), [blog](../tag/blog), [authoring](../tag/authoring), [research-notes](../tag/research-notes), [growth](../tag/growth), [ui](../tag/ui)
+
+----
 
 Since the very beginning of Public Lab, we've been aware that we're experimenting with new modes of production, and that the means of publication and communication we employ are keys to success. We started with a range of different "types" of content on [the first Public Lab site](https://github.com/publiclab/plots), including:
 

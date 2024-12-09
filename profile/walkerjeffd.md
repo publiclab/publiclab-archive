@@ -3,6 +3,8 @@ uid: 422528
 created_at: 2014-04-17 11:58:41 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/bbcd01fb03f71b353edf7530afbe0e7c)
+
 # walkerjeffd
 
 Environmental and Water Resources Engineer. Interested in DIY and open-source approaches to hydrology and water quality monitoring.

@@ -8,11 +8,15 @@ uid: 564358
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/030/001/original/untitled_%281%29.jpg)
+
 # GSoC proposal: Mapknitter ORB Descriptor (w/ auto-stitching, pattern training, and live video support) and LDI revamp (major UI enhancements)
 
 by [rexagod](../profile/rexagod) March 11, 2019 15:08
 
 March 11, 2019 15:08 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [soc](../tag/soc), [response:13975](../tag/response:13975), [first-time-poster](../tag/first-time-poster), [rgsoc-2019](../tag/rgsoc-2019), [gsoc-2019](../tag/gsoc-2019), [soc-2019](../tag/soc-2019), [soc-2019-proposals](../tag/soc-2019-proposals), [soc-2019-projects](../tag/soc-2019-projects)
+
+----
 
 ## About me
 

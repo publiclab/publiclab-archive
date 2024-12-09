@@ -35,8 +35,15 @@ Node.where(nid: nids).each do |node|
 	"path: #{path.split("static").last}\n"\
         "nid: #{node.nid}\n"\
         "uid: #{node.uid}\n\n"\
-        "---\n\n"\
-        "# " + node.title + "\n\n"
+        "---\n\n"
+
+      if node.main_image
+        # img_path = @node.main_image.path(@node.main_image.photo_file_name == "blob" ? :original : :large) 
+        # special case for "blob" images, see https://github.com/publiclab/plots2/issues/10210
+	      text += "![](https://publiclab.org#{node.main_image.path(:original)})\n\n"
+      end
+
+      text +=  "# " + node.title + "\n\n"
 
       text += "by [#{node.author.username}](../profile/#{node.author.username}) #{node.created_at.to_s(:long)}\n\n" if node.type == "note"
       if node.type == "page" 
@@ -53,7 +60,10 @@ Node.where(nid: nids).each do |node|
       end
       text += "#{node.created_at.to_s(:long)} | Tags: #{tags.join(', ')}\n\n"
       text += "----\n\n"
-      text += node.body
+      body = node.body.gsub(/(?<![\>`])(\<p\>)?\[activities\:(\S+)\]/, '[\2](../../tag/activity:\2)')
+      body = body.gsub(/(?<![\>`])(\<p\>)?\[questions\:(\S+)\]/, '[\2](../../tag/question:\2)')
+      body = body.gsub(/(?<![\>`])(\<p\>)?\[notes\:(\S+)\]/, '[\2](../../tag/\2)')
+      text += body
       file.write(text)
     end
   end

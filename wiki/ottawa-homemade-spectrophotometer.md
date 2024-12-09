@@ -14,6 +14,8 @@ by [Haripriya](../profile/Haripriya)
 
 June 19, 2014 14:34 | Tags: [spectrometer](../tag/spectrometer), [spectrophotometer](../tag/spectrophotometer), [guide](../tag/guide), [parent:spectrometer](../tag/parent:spectrometer), [first-time-poster](../tag/first-time-poster)
 
+----
+
 ##Materials:
 
 * 2 pieces of Thin Cardboard (9.5cm x 14.5cm and 6cm x 20 cm)

@@ -8,11 +8,15 @@ uid: 12
 
 ---
 
+![](https://publiclab.org/sites/default/files/fairyland.JPG)
+
 # Balloon Mapping From the Ground Up: Public Lab's Field Techniques
 
 by [gonzoearth](../profile/gonzoearth) January 02, 2013 22:40
 
 January 02, 2013 22:40 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [protest-mapping](../tag/protest-mapping), [idealab](../tag/idealab), [activities:aerial-photography](../tag/activities:aerial-photography)
+
+----
 
 > cross-posted from [PBS's IdeaLab](http://www.pbs.org/idealab/2013/01/balloon-mapping-from-the-ground-up-public-labs-field-techniques355.html)
 

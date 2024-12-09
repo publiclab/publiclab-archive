@@ -8,11 +8,15 @@ uid: 461120
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/016/986/original/rhod_b_100ppmMAIN_PIC.png)
+
 # Quantum Yield of Rhodamine B in Ethanol (Gain Corrected Spectra)
 
 by [dhaffnersr](../profile/dhaffnersr) July 12, 2016 15:46
 
 July 12, 2016 15:46 | Tags: 
+
+----
 
 ##Rhodamine B is a chemical compound and a dye
 

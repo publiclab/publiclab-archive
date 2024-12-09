@@ -14,6 +14,8 @@ by [mathew](../profile/mathew)
 
 April 07, 2016 21:31 | Tags: [method](../tag/method)
 
+----
+
 Collecting data useful for advocacy around your environmental concern may be an involved and often long-term process. When undertaking data collection, its important to review the action points in awareness raising and regulatory and political processes.  These action points may change as technologies are identified, but understanding the landscape of action points is crucial to identifying the type of data needed and the best ways to collect it.   Often a data on a specific environmental concern may be harder to collect or less actionable in regulations than data on a  related issue.  For instance, monitoring groundwater requires extensive well digging and can be cost-prohibitive, while surface runoff can be easily cataloged with photographs.
  
 [[See: identifying advocacy pathways, reviewing regulatory pathways, tiers of use.]] LINK

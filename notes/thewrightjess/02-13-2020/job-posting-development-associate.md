@@ -8,11 +8,15 @@ uid: 603909
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/038/144/original/dev_role_post.jpg)
+
 # Job Posting: Development Associate
 
 by [thewrightjess](../profile/thewrightjess) February 13, 2020 23:56
 
 February 13, 2020 23:56 | Tags: [fundraising](../tag/fundraising), [development](../tag/development), [jobs](../tag/jobs)
+
+----
 
 **Start Date**: Early April 2020
 

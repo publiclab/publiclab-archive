@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/001/672/original/IMG_0110.JPG)
+
 # Eclectis: a week of civic science in Amsterdam North
 
 by [warren](../profile/warren) September 25, 2013 12:56
 
 September 25, 2013 12:56 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [education](../tag/education), [waagsociety](../tag/waagsociety), [amsterdam](../tag/amsterdam), [workshop](../tag/workshop), [infragram](../tag/infragram), [waag](../tag/waag), [eclectis](../tag/eclectis), [activity:infragram](../tag/activity:infragram), [infragram-helmet](../tag/infragram-helmet), [helmet](../tag/helmet)
+
+----
 
 Last week I was invited along with [Cindy Regalado](/profile/cindy_excites) by the [Waag Society](http://waag.nl) in North Amsterdam, to work with a group of 18 youngsters from the Hyperion Lyceum, a 3-year-old school on the former Shell property near the water. We did an awful lot in 5 days, and I wanted to share some of the work we did during [the "Eclectis" project](http://waag.org/en/project/eclectis). 
 

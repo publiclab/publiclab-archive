@@ -14,6 +14,8 @@ by [bhamster](../profile/bhamster) June 02, 2021 20:47
 
 June 02, 2021 20:47 | Tags: [organizing](../tag/organizing), [advocacy](../tag/advocacy), [question:general](../tag/question:general), [general](../tag/general), [community-organizing](../tag/community-organizing), [question:advocacy](../tag/question:advocacy), [public-awareness](../tag/public-awareness), [question:organizing](../tag/question:organizing), [question:community-organizing](../tag/question:community-organizing), [presenting-data](../tag/presenting-data), [question:presenting-data](../tag/question:presenting-data), [air-quality-data](../tag/air-quality-data), [question:air-quality-data](../tag/question:air-quality-data), [data-advocacy](../tag/data-advocacy)
 
+----
+
 This question has come up a couple times during our recent Open Calls ([notes here](http://pad.publiclab.org/p/opencall)) on organizing and advocacy.
 
 The folx at @LESBreathe, for example, are starting a community-led air quality monitoring project that will generate data on particulate matter in the Lower East Side of Manhattan. At first, they will collect baseline data on air quality before a major construction project begins.

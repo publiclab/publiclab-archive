@@ -8,11 +8,15 @@ uid: 421543
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/008/133/original/Photo_Nov_22__3_27_25_PM.jpg)
+
 # Edmonton
 
 by [ann](../profile/ann)
 
 November 27, 2014 03:20 | Tags: [edmonton](../tag/edmonton), [canada](../tag/canada)
+
+----
 
 **
 Edmonton is part of the [Western Canada](http://publiclab.org/wiki/western-canada) region.**

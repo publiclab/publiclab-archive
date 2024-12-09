@@ -8,11 +8,15 @@ uid: 294634
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/010/234/original/Pottsorama.png)
+
 # 2015 KAP Mapping Season in Midcoast Maine!
 
 by [ajawitz](../profile/ajawitz) June 07, 2015 22:13
 
 June 07, 2015 22:13 | Tags: [kite-mapping](../tag/kite-mapping), [grassrootsmapping](../tag/grassrootsmapping), [mapknitter](../tag/mapknitter), [citizen-science](../tag/citizen-science), [kap](../tag/kap), [maine](../tag/maine), [invasives](../tag/invasives), [invasive-species](../tag/invasive-species), [civic-hacking](../tag/civic-hacking), [response:10615](../tag/response:10615)
+
+----
 
 ##Picking up where we left off...
 

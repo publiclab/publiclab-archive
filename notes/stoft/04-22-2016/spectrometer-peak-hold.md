@@ -8,11 +8,15 @@ uid: 54025
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/015/752/original/STest_CFL-15ptTimeAvgPeakHold320-380nm.gif)
+
 # Spectrometer Peak-Hold
 
 by [stoft](../profile/stoft) April 22, 2016 21:10
 
 April 22, 2016 21:10 | Tags: [spectrometer](../tag/spectrometer), [desktop-spectrometer](../tag/desktop-spectrometer), [noise-reduction](../tag/noise-reduction), [signal-to-noise-ratio](../tag/signal-to-noise-ratio), [noise](../tag/noise)
+
+----
 
 **Abstract**
 

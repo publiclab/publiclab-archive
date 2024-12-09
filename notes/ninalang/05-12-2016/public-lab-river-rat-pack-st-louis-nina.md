@@ -8,11 +8,15 @@ uid: 465986
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/016/134/original/20160220_114512.jpg)
+
 # Public Lab River Rat Pack-St. Louis-Nina
 
 by [ninalang](../profile/ninalang) May 12, 2016 17:41
 
 May 12, 2016 17:41 | Tags: [mid-west](../tag/mid-west), [publiclabriverratpack](../tag/publiclabriverratpack), [stlouis](../tag/stlouis)
+
+----
 
 I am an undergraduate student studying architecture, and this past semester I was a part of the Public Lab: River Rat Pack class with Derek Hoeferlin. Along with participating in both weekend and class-time balloon flights, I was responsible for producing sections across each site displayed in our exhibition. These sections are meant to show the different overall context of each flight site, something which may not be readily evident from our aerial panorama shots. 
 

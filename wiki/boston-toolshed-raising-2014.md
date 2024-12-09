@@ -14,6 +14,8 @@ by [sara](../profile/sara), [btbonval](../profile/btbonval)
 
 October 27, 2013 18:07 | Tags: [somerville-massachusetts](../tag/somerville-massachusetts), [boston](../tag/boston), [meetup](../tag/meetup), [workshop](../tag/workshop), [event](../tag/event), [somerville](../tag/somerville)
 
+----
+
 # Introduction
 
 Hello greater Boston and parts of New England,

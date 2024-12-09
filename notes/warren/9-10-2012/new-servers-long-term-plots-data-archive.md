@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/IMG_0627.JPG)
+
 # New servers for a long-term PLOTS data archive
 
 by [warren](../profile/warren) September 11, 2012 02:10
 
 September 11, 2012 02:10 | Tags: [website](../tag/website), [archive](../tag/archive), [webworkinggroup](../tag/webworkinggroup)
+
+----
 
 Stefan "Dogi" Unterhauser and I have been scrounging parts for a redundant and off-site RAID archive -- a giant collection of hard disks (up to 42 altogether) to store the growing PLOTS map and data archive. We're already starting to max out the built-in disks on the main PLOTS server, and storage on Amazon S3 is getting quite expensive -- $155 per month was our most recent bill.
 

@@ -8,11 +8,15 @@ uid: 540844
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/037/008/original/OI000012_copy.jpg)
+
 # Spread the word this holiday season
 
 by [joyofsoy](../profile/joyofsoy) December 11, 2019 16:45
 
 December 11, 2019 16:45 | Tags: [blog](../tag/blog), [location:blurred](../tag/location:blurred), [place:united-states](../tag/place:united-states), [lat:37](../tag/lat:37), [lon:-95](../tag/lon:-95), [zoom:6](../tag/zoom:6)
+
+----
 
 As 2019 draws to a close and Public Lab looks ahead to celebrating our tenth anniversary in 2020, please consider making a donation that will help sustain the Public Lab nonprofit through the coming year. Here’s a few ways to show your support:
 

@@ -14,6 +14,8 @@ by [gauravano](../profile/gauravano), [warren](../profile/warren)
 
 October 23, 2018 17:06 | Tags: [outreachy](../tag/outreachy), [proposal-template](../tag/proposal-template)
 
+----
+
 (This template is for students applying to code outreach programs with Public Lab. Use this link to start writing a post: https://publiclab.org/post?n=17360&tags=soc,outreachy,outreachy-2019,outreachy-2019-proposals You can delete this line once you've started filling it out.)
 
 ****

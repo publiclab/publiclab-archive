@@ -8,11 +8,15 @@ uid: 444013
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/018/035/original/IMG_0964.JPG)
+
 # vineyard spectral
 
 by [elador](../profile/elador) September 13, 2016 10:48
 
 September 13, 2016 10:48 | Tags: [ndvi](../tag/ndvi), [farming](../tag/farming), [agriculture](../tag/agriculture), [raspberry-pi](../tag/raspberry-pi), [infragram](../tag/infragram), [camera](../tag/camera), [machine](../tag/machine), [data](../tag/data), [spectral](../tag/spectral), [robot](../tag/robot), [solar](../tag/solar), [learning](../tag/learning), [pi-camera](../tag/pi-camera), [raspi](../tag/raspi), [big](../tag/big), [multispectral-imaging](../tag/multispectral-imaging), [raspberry-pi-cameras](../tag/raspberry-pi-cameras), [vineyards](../tag/vineyards)
+
+----
 
 [![IMG_0971.JPG](//i.publiclab.org/system/images/photos/000/018/033/large/IMG_0971.JPG)](//i.publiclab.org/system/images/photos/000/018/033/original/IMG_0971.JPG)
 

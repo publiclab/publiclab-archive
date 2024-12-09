@@ -8,11 +8,15 @@ uid: 104
 
 ---
 
+![](https://publiclab.org/sites/default/files/workshop flyer[6].jpg)
+
 # Actual Air – Sensing Bicycle Project in Somerville, MA
 
 by [mike styczynski](../profile/mike styczynski) May 02, 2011 04:00
 
 May 02, 2011 04:00 | Tags: [somerville-massachusetts](../tag/somerville-massachusetts), [sensing](../tag/sensing), [bicycle](../tag/bicycle), [air-sensors](../tag/air-sensors)
+
+----
 
 ##Design + Air Quality Sensing + Bicycles##
 

@@ -3,6 +3,8 @@ uid: 504063
 created_at: 2017-03-14 12:32:29 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/d385af7e182e3a2f6e2fe11296b7ca00)
+
 # Jtaw
 
 Instructor, University of San Carlos. 

@@ -14,6 +14,8 @@ by [liz](../profile/liz)
 
 January 05, 2015 16:55 | Tags: [workshop](../tag/workshop), [gardening-toolkit](../tag/gardening-toolkit), [parent:gardening:toolkit](../tag/parent:gardening:toolkit)
 
+----
+
 This is one of a series of guides for collaborative environmental research and advocacy projects. This guide explains when it would be useful to set up an Infrared Garden Experiment, and how you would do it. An infrared photograph of the same type of plants growing side by side can reveal unseen differences in plant health. Possible causes vary widely, but could include differences in cultivation methods, drainage patterns, soil chemicals, among others.  
 
 ****

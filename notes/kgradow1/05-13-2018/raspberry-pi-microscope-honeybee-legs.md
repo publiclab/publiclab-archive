@@ -8,11 +8,15 @@ uid: 297929
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/024/918/original/im_0022_20180325_235126.jpg)
+
 # Raspberry Pi Microscope:  Honeybee Legs
 
 by [kgradow1](../profile/kgradow1) May 13, 2018 04:03
 
 May 13, 2018 04:03 | Tags: 
+
+----
 
 Photos taken with the [Hackteria Microscope](https://publiclab.org/tag/microscope) of a honeybee legs with a 40x objective.
 

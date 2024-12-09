@@ -8,11 +8,15 @@ uid: 43651
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/007/702/original/researchNotes.png)
+
 # Research Note Workflows
 
 by [donblair](../profile/donblair) August 11, 2014 19:34
 
 August 11, 2014 19:34 | Tags: [research](../tag/research)
+
+----
 
 ###What I want to do
 

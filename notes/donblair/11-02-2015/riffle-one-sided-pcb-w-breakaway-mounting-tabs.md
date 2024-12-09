@@ -8,11 +8,15 @@ uid: 43651
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/012/335/original/riffle-sidetab-mockup.png)
+
 # Riffle: one-sided pcb w/ breakaway mounting tabs
 
 by [donblair](../profile/donblair) November 02, 2015 19:20
 
 November 02, 2015 19:20 | Tags: [riffle](../tag/riffle)
+
+----
 
 - all surface mount components are on one side
 - length of riffle board is now 100 mm (3.94 inches)

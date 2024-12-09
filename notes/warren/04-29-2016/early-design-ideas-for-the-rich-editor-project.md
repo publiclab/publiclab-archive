@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/015/864/original/Screenshot_2016-04-29_at_2.36.28_PM.png)
+
 # Early design ideas for the Rich Editor project
 
 by [warren](../profile/warren) April 29, 2016 18:43
 
 April 29, 2016 18:43 | Tags: [software](../tag/software), [design](../tag/design), [web](../tag/web), [developers](../tag/developers), [wwg](../tag/wwg), [editor](../tag/editor), [rich-editor](../tag/rich-editor)
+
+----
 
 There've been LOTS of great ideas posted, both in response to my recent [ask for input on the new Rich Editor project](/notes/warren/04-13-2016/call-for-input-on-upcoming-rich-editor-and-rich-wiki-projects-for-publiclab-org), and in response to @liz's [post on peer review](/notes/liz/04-21-2016/comment-piece-in-nature-about-peer-review) -- that have relevance to the ongoing design of the new Rich Editor. 
 

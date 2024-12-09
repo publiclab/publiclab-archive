@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/001/681/original/Screen_Shot_2013-09-25_at_9.10.33_AM.png)
+
 # Stepped slit tests
 
 by [warren](../profile/warren) September 25, 2013 13:42
 
 September 25, 2013 13:42 | Tags: [spectrometer](../tag/spectrometer), [slit](../tag/slit), [clipping](../tag/clipping), [response:9366](../tag/response:9366), [stepped-slit](../tag/stepped-slit), [slit-width](../tag/slit-width)
+
+----
 
 ##What I want to do
 

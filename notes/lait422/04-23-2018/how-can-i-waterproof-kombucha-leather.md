@@ -14,6 +14,8 @@ by [lait422](../profile/lait422) April 23, 2018 21:27
 
 April 23, 2018 21:27 | Tags: [kombucha-leather](../tag/kombucha-leather), [question:kombucha-leather](../tag/question:kombucha-leather)
 
+----
+
 ![image description](https://publiclab.org/system/images/photos/000/024/703/large/IMG_0962.JPG "IMG_0962.JPG")![image description](https://publiclab.org/system/images/photos/000/024/704/large/IMG_0963.JPG "IMG_0963.JPG")
 
 ![image description](https://publiclab.org/system/images/photos/000/024/702/large/IMG_0964.JPG "IMG_0964.JPG")  

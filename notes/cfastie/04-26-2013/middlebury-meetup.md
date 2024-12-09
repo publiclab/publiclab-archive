@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/000/126/original/MiddGard-52_54stitch-3.jpg)
+
 # Middlebury Meetup April 30
 
 by [cfastie](../profile/cfastie) April 26, 2013 19:04
 
 April 26, 2013 19:04 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [vermont](../tag/vermont), [farmhack](../tag/farmhack), [agriculture](../tag/agriculture), [event](../tag/event)
+
+----
 
 <em>Image above: The Middlebury College Organic Farm on July 19, 2011. It won't look anything like this on April 30, but we might get some aerial images anyway. Photo: two stitched photos from a Canon S95 lofted by 9' delta kite.</em>
 <p></p>

@@ -14,4 +14,6 @@ by [mimiss](../profile/mimiss) May 07, 2019 18:26
 
 May 07, 2019 18:26 | Tags: [question:general](../tag/question:general), [question:education](../tag/question:education), [problem-based-learning](../tag/problem-based-learning)
 
+----
+
 What were some of the barriers you camp up against in your first round of problem-based learning lessons? What attitude shifts are necessary in both students and teachers to flip the classroom? What are some of the lessons you've learned and tips for others moving forward?

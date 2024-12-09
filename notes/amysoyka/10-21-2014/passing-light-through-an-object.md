@@ -8,11 +8,15 @@ uid: 422627
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/007/566/original/IMG_20141019_235745.jpg)
+
 # Passing Light Through an Object.
 
 by [amysoyka](../profile/amysoyka) October 21, 2014 10:47
 
 October 21, 2014 10:47 | Tags: [spectrometer](../tag/spectrometer), [laser](../tag/laser), [container](../tag/container), [oil-testing-kit](../tag/oil-testing-kit), [light-source](../tag/light-source)
+
+----
 
 ###What I wanted to do
 

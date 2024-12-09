@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/002/761/original/IMG_1850.JPG)
+
 # Some moments from the Toolshed Raising
 
 by [liz](../profile/liz) February 03, 2014 13:32
 
 February 03, 2014 13:32 | Tags: [boston](../tag/boston), [toolshed-raising](../tag/toolshed-raising), [great-photos](../tag/great-photos)
+
+----
 
 #Intros!
 

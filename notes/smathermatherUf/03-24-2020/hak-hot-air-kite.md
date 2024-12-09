@@ -8,11 +8,15 @@ uid: 596011
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/038/710/original/hak1.jpg)
+
 # HAK: Hot Air Kite
 
 by [smathermatherUf](../profile/smathermatherUf) March 24, 2020 19:48
 
 March 24, 2020 19:48 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-balloon-hybrid](../tag/kite-balloon-hybrid), [first-time-poster](../tag/first-time-poster)
+
+----
 
 Hi All,
 

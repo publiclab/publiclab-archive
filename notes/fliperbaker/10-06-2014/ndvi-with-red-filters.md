@@ -8,11 +8,15 @@ uid: 421358
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/007/322/original/IMG_1885.JPG)
+
 # NDVI with red filters
 
 by [fliperbaker](../profile/fliperbaker) October 06, 2014 16:24
 
 October 06, 2014 16:24 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [super-red](../tag/super-red), [barnstar:empiricism](../tag/barnstar:empiricism)
+
+----
 
 ###What I want to do
 Test the results on NDVI photos using red filters

@@ -8,11 +8,15 @@ uid: 422225
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/003/680/original/speck.jpg)
+
 # Speck particle monitor
 
 by [chrisbartley](../profile/chrisbartley) April 15, 2014 21:23
 
 April 15, 2014 21:23 | Tags: [indoor-air-quality-mapping](../tag/indoor-air-quality-mapping), [particulate-sensing](../tag/particulate-sensing), [pittsburgh](../tag/pittsburgh), [cmu](../tag/cmu), [air-quality](../tag/air-quality), [visualization](../tag/visualization), [dust](../tag/dust), [optical-sensor](../tag/optical-sensor), [particulate](../tag/particulate), [speck](../tag/speck), [pennsylvania](../tag/pennsylvania), [air-sensors](../tag/air-sensors)
+
+----
 
 ##About 
 

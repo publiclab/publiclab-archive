@@ -8,11 +8,15 @@ uid: 727770
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/041/392/original/dashboard.jpg)
+
 #  New Dashboard Implementation Project: Bootstrap 4 and Rails
 
 by [thedevkaren](../profile/thedevkaren) October 30, 2020 11:22
 
 October 30, 2020 11:22 | Tags: [outreachy](../tag/outreachy), [first-time-poster](../tag/first-time-poster), [outreachy-2019](../tag/outreachy-2019), [zoom:6](../tag/zoom:6), [outreachy2019-proposals](../tag/outreachy2019-proposals), [lat:9.081999](../tag/lat:9.081999), [lon:8.675277](../tag/lon:8.675277)
+
+----
 
 ## <b>About Me</b>
 

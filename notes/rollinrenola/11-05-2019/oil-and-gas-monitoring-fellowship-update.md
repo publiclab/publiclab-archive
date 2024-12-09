@@ -14,6 +14,8 @@ by [rollinrenola](../profile/rollinrenola) November 05, 2019 16:55
 
 November 05, 2019 16:55 | Tags: [oil-and-gas-water-trio](../tag/oil-and-gas-water-trio)
 
+----
+
 Week 7 Oil and Gas Monitoring Update
 
 Fellowship planning updates ( November 4th - November 12th )

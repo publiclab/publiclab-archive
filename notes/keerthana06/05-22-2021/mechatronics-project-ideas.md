@@ -8,11 +8,15 @@ uid: 754722
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/043/901/original/MECHATRONICS1.jpg)
+
 # mechatronics project ideas
 
 by [keerthana06](../profile/keerthana06) May 22, 2021 10:39
 
 May 22, 2021 10:39 | Tags: [issue-brief](../tag/issue-brief)
+
+----
 
 ### Introduction:
 

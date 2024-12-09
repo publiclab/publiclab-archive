@@ -14,4 +14,6 @@ by [ExtinctAnimals](../profile/ExtinctAnimals) February 14, 2020 15:14
 
 February 14, 2020 15:14 | Tags: [plant-health](../tag/plant-health), [invasive](../tag/invasive), [invasive-species](../tag/invasive-species), [plant-matter](../tag/plant-matter), [question:general](../tag/question:general), [general](../tag/general), [first-time-poster](../tag/first-time-poster), [with:amallozzi](../tag/with:amallozzi), [plant-mapping](../tag/plant-mapping), [cats-claw-vine](../tag/cats-claw-vine), [question:cats-claw-vine](../tag/question:cats-claw-vine)
 
+----
+
 We're studying invasive cats claw, and we wanted to know if you may have them in your yard. Also, is invasive cats claw a problem in your area or city.

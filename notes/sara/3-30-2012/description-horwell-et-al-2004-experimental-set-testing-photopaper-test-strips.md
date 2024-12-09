@@ -8,11 +8,15 @@ uid: 8
 
 ---
 
+![](https://publiclab.org/sites/default/files/Diagram1HorwellExpSetUp.jpg)
+
 # Description: Horwell et. al. 2004 Experimental Set for Testing Photopaper test strips
 
 by [sara](../profile/sara) March 30, 2012 21:33
 
 March 30, 2012 21:33 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [h2s](../tag/h2s), [photo-paper](../tag/photo-paper), [h2s-photopaper](../tag/h2s-photopaper)
+
+----
 
 Yesterday (3.29.12) Megan and I met with Roy Heaton in Rhode Island’s Department of Health’s Air Quality devision to discuss development of low cost tests for hydrogen sulfide. 
 

@@ -14,6 +14,8 @@ by [liz](../profile/liz) July 20, 2012 18:41
 
 July 20, 2012 18:41 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [ilab](../tag/ilab)
 
+----
+
 Written by Lizzie Ingraham, republished from <a href="http://ilandsymposium.wordpress.com/2012/06/26/kite-and-solar-balloon-workshop-with-higher-e-d/">ilandsymposium.wordpress.com</a>:
 
 Like many recent college graduates, I made my entrance into the real world in a whirl of opportunity and uncertainty. As if graduating weren’t overwhelming enough, I decided to move to New York City to try to find my calling and to pursue my passions. Here I found iLAND, whose expanded acronym says it all: the Interdisciplinary Laboratory for Art Nature and Dance. Though I’ve never considered myself a scientist, the weekend I spent with one of the organization’s residencies, collaborators Liz, Jessica, and Lailye, along with “kite masters” Matt and Leo made me realize that I’ve been experimenting in an interdisciplinary fashion all my life. The very first introductions on the first day, when interested parties from all walks of life (dancers, environmentalists, community organizers, artists, landscape architects, to name a few) explained their relationship to the workshop leaders and to kite flying exemplified the scope of intellectual and creative minds that iLAND hopes to reach as well as the universal appeal of the beauty of flight.

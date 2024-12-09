@@ -8,11 +8,15 @@ uid: 237313
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/026/555/original/soilkit.jpg)
+
 # Soil Sampling Toolkit
 
 by [Bronwen](../profile/Bronwen), [xose](../profile/xose), [jjcreedon](../profile/jjcreedon)
 
 September 14, 2018 19:38 | Tags: [soil](../tag/soil), [soil-testing](../tag/soil-testing), [tonawanda](../tag/tonawanda), [method](../tag/method), [soil-sampling](../tag/soil-sampling), [with:jjcreedon](../tag/with:jjcreedon), [parent:soil](../tag/parent:soil), [parent:soil-sampling](../tag/parent:soil-sampling), [soil-sampling-main](../tag/soil-sampling-main)
+
+----
 
 See also: [Soil Sampling Wiki](https://publiclab.org/wiki/soil-sampling)
 
@@ -36,12 +40,12 @@ This kit is designed to be used to prepare samples for lab testing. Arranging fo
 
 ## Activities
 
-[activities:soil-testing-toolkit]
+[soil-testing-toolkit](../../tag/activity:soil-testing-toolkit)
 
 ****
 
 ## Questions
 
-[questions:soil-testing-toolkit]
+[soil-testing-toolkit](../../tag/question:soil-testing-toolkit)
 
 ****

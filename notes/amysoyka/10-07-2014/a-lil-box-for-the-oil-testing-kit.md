@@ -8,11 +8,15 @@ uid: 422627
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/007/336/original/a4oiltestkitbox1.png)
+
 # A Lil' Box for the Oil Testing Kit. (Incomplete)
 
 by [amysoyka](../profile/amysoyka) October 07, 2014 05:39
 
 October 07, 2014 05:39 | Tags: [spectrometer](../tag/spectrometer), [box](../tag/box), [oil-testing-kit](../tag/oil-testing-kit)
+
+----
 
 ###Oil Testing Kit from a sheet of A4 Paper? (kind of...)
 

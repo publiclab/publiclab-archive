@@ -8,11 +8,15 @@ uid: 294634
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/003/381/original/MaineSailor.png)
+
 # Mesh Networks for Rural Transit
 
 by [ajawitz](../profile/ajawitz) March 24, 2014 22:00
 
 March 24, 2014 22:00 | Tags: [gps](../tag/gps), [transit](../tag/transit), [openwrt](../tag/openwrt), [mesh](../tag/mesh)
+
+----
 
 ###What I want to do
    I want to utilize open source wifi/mesh networking protocols to provide small towns and rural regions with an affordable means of tracking public sector vehicle fleets, with specific attention to improving public transit accessibility. 

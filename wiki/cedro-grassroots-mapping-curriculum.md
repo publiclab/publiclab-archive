@@ -14,6 +14,8 @@ by [warren](../profile/warren)
 
 February 27, 2012 15:10 | Tags: [balloon-mapping](../tag/balloon-mapping), [education](../tag/education), [curriculum](../tag/curriculum), [k-12](../tag/k-12), [youth](../tag/youth)
 
+----
+
 _This page [was imported from the old Grassroots Mapping Wiki](http://wiki.grassrootsmapping.org/show/GrassrootsMappingLimaCurriculum), and dates from 2009-10_
 
 _Para la version en castellano, haga clic en:_ http://publiclaboratory.org/node/857

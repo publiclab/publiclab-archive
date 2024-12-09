@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/014/526/original/IMG_20160123_125902_500_%281%29.jpg)
+
 # Join Public Lab
 
 by [cfastie](../profile/cfastie), [smith655](../profile/smith655), [shravaniReddy](../profile/shravaniReddy), [sihigarg](../profile/sihigarg), [pdhixenbaugh](../profile/pdhixenbaugh), [firstmountzionbc](../profile/firstmountzionbc), [deivasuratescorts](../profile/deivasuratescorts), [mathew](../profile/mathew), [warren](../profile/warren), [liz](../profile/liz), [gargoyle_169](../profile/gargoyle_169), [suzeejain](../profile/suzeejain), [Shannon](../profile/Shannon), [gonzoearth](../profile/gonzoearth)
 
 January 31, 2011 05:02 | Tags: [community](../tag/community), [welcome](../tag/welcome), [out-of-date](../tag/out-of-date), [redirect:1624](../tag/redirect:1624), [redirect:welcome](../tag/redirect:welcome)
+
+----
 
 The Public Laboratory for Open Technology and Science (Public Lab) is open for anyone to join and will always be free.
 

@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/031/651/original/IMG_20190419_103107.jpg)
+
 # Build a simple Thermal Flashlight
 
 by [warren](../profile/warren) December 12, 2011 05:40
 
 December 12, 2011 05:40 | Tags: [thermal-photography](../tag/thermal-photography), [arduino](../tag/arduino), [thermal-flashlight](../tag/thermal-flashlight), [fritzing](../tag/fritzing), [activity:thermal-flashlight](../tag/activity:thermal-flashlight), [activity:thermal-flashlight-assembly](../tag/activity:thermal-flashlight-assembly)
+
+----
 
 ### Assemble the Thermal Flashlight
 

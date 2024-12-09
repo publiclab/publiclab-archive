@@ -14,6 +14,8 @@ by [warren](../profile/warren) December 06, 2017 21:56
 
 December 06, 2017 21:56 | Tags: [question](../tag/question), [activities](../tag/activities), [activity:activities](../tag/activity:activities), [activity:questions](../tag/activity:questions)
 
+----
+
 Our Q&A system is based at [https://publiclab.org/questions](https://publiclab.org/questions) -- but most of our questions are actually sorted by topic, on pages like:  
 
 - [https://publiclab.org/wiki/infragram#Questions](https://publiclab.org/wiki/infragram#Questions)
@@ -22,7 +24,7 @@ Our Q&A system is based at [https://publiclab.org/questions](https://publiclab.o
 
 These each have a prompt to ask questions about this topic, like this:
 
-\[questions:wind\]
+\[wind\](../../tag/question:wind\)
 
 These can also be **embedded on other websites** off of [PublicLab.org](http://PublicLab.org), as in this example:
 

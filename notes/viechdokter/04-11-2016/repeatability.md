@@ -8,11 +8,15 @@ uid: 468990
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/015/496/original/Repeatability_-_header.jpg)
+
 # Repeatability
 
 by [viechdokter](../profile/viechdokter) April 11, 2016 22:26
 
 April 11, 2016 22:26 | Tags: [spectrometer](../tag/spectrometer), [oil-testing-kit](../tag/oil-testing-kit), [barnstar:empiricism](../tag/barnstar:empiricism), [repeatability](../tag/repeatability), [empiricism](../tag/empiricism)
+
+----
 
 I am not sure if this word even exists in the English language but well... I browsed this forum and found some notes by "stoft" about rigidness of the PLab spectrometer and proposals how to make the setup more stable. Because I had some stability problems, too, when I put together my PLab Spec. 3.0 I found the proposals and the comments very interesting. One point in this discussion was that results should be repeatable (even for different users with different spectrometers) so that for instance an oil pollution spectra database could make any sense at all.
 

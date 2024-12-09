@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/005/722/original/IMG_2048.JPG)
+
 # Annotating the North Shore
 
 by [liz](../profile/liz) August 01, 2014 20:01
 
 August 01, 2014 20:01 | Tags: [staten-island](../tag/staten-island)
+
+----
 
 ###What I want to do
 

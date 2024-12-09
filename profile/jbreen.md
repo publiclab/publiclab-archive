@@ -3,6 +3,8 @@ uid: 326
 created_at: 2013-05-23 18:01:20 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/326/medium/breen_headshot.jpg)
+
 # jbreen
 
 <p><a rel="tooltip" title="This barnstar honors those who use GitHub to file issues, comment on issues, or contribute code." href="http://i.publiclab.org/system/images/photos/000/001/816/original/octocatstar.png"> <img src="http://i.publiclab.org/system/images/photos/000/001/816/original/octocatstar.png" width="80" /></a> <a rel="tooltip" title="The Barnstar was awarded to Jessi Breen in 2013 for rocking the Barnraising. This also retroactively applies to rocking the 2012 and 2011 Barnraisings!!!" href="http://publiclaboratory.org/sites/default/files/TheBarnstar.png"><img src="http://publiclaboratory.org/sites/default/files/TheBarnstar.png" width="80" /></a></p>

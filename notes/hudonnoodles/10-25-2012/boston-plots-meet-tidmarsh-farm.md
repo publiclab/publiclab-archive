@@ -14,6 +14,8 @@ by [Hudonnoodles](../profile/Hudonnoodles) October 25, 2012 10:36
 
 October 25, 2012 10:36 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [events](../tag/events), [pre-flight-planning](../tag/pre-flight-planning), [skillshare](../tag/skillshare), [tidmarsh](../tag/tidmarsh)
 
+----
+
 Event Information Here: http://publiclaboratory.org/wiki/tidmarsh-farms-meetup
 RSVP on Eventbrite: http://bostonplotsfall2012.eventbrite.com
 

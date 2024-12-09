@@ -8,11 +8,15 @@ uid: 421649
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/004/489/original/gsoc1.jpg)
+
 # Update 1 on Sky Cam Enhancement - GSoC 2014
 
 by [mercyorangi](../profile/mercyorangi) May 30, 2014 20:35
 
 May 30, 2014 20:35 | Tags: [plots](../tag/plots), [gsoc](../tag/gsoc), [skycam](../tag/skycam), [gsoc-2014](../tag/gsoc-2014)
+
+----
 
 ###My attempt and results
 This is my week one update. Been a good start and I am appreciating the learning curve already.

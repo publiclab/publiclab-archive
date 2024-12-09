@@ -8,11 +8,15 @@ uid: 46673
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/002/107/original/challenge_status_HonorableMention-01.png)
+
 # Public Lab Named Honorable Mention in 2013 Buckminster Fuller Challenge
 
 by [Becki](../profile/Becki) November 03, 2013 15:20
 
 November 03, 2013 15:20 | Tags: [buckminster-fuller-challenge](../tag/buckminster-fuller-challenge)
+
+----
 
 Public Lab is proud to be selected as an [Honorable Mention](http://challenge.bfi.org/2013Finalist_PublicLab) amongst a great group of Finalists for the Buckminster Fuller Challenge! We received some great compliments from review team--thanks everyone for your hardwork and dedication!
 

@@ -14,6 +14,8 @@ by [cure828282](../profile/cure828282) September 30, 2021 09:07
 
 September 30, 2021 09:07 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [grating](../tag/grating), [question:spectrometer](../tag/question:spectrometer), [question:grating](../tag/question:grating), [first-time-poster](../tag/first-time-poster)
 
+----
+
 Hi. 
 
 I have ocean optics HR4000 with 370~470nm range. 

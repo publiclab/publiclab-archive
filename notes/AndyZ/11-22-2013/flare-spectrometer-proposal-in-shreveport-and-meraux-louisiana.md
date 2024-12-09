@@ -8,11 +8,15 @@ uid: 301914
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/002/295/original/Shreveport_flare_08.12.11_video_2.jpg)
+
 # Flare Spectrometer proposal in Shreveport and Meraux Louisiana
 
 by [AndyZ](../profile/AndyZ) November 22, 2013 18:06
 
 November 22, 2013 18:06 | Tags: [gulf-coast](../tag/gulf-coast), [spectrometer](../tag/spectrometer), [spectrum-matching](../tag/spectrum-matching), [spectralworkbench](../tag/spectralworkbench), [flame-spectroscopy](../tag/flame-spectroscopy), [watchdog](../tag/watchdog), [flare](../tag/flare), [shreveport](../tag/shreveport), [meraux](../tag/meraux), [ioby](../tag/ioby)
+
+----
 
 [![Shell_Norco_flare.jpg](https://i.publiclab.org/system/images/photos/000/002/293/medium/Shell_Norco_flare.jpg)](https://i.publiclab.org/system/images/photos/000/002/293/original/Shell_Norco_flare.jpg)
 

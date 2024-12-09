@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/040/962/original/Screen_Shot_2019-05-22_at_5.37.11_PM.png)
+
 # Developers
 
 by [ruthnwaiganjo](../profile/ruthnwaiganjo), [warren](../profile/warren), [gauravano](../profile/gauravano), [liz](../profile/liz), [Gaurav](../profile/Gaurav)
 
 October 15, 2013 21:58 | Tags: [community](../tag/community), [software](../tag/software), [programmers](../tag/programmers), [developers](../tag/developers), [code](../tag/code), [mapknitter2](../tag/mapknitter2), [soc](../tag/soc)
+
+----
 
 [Public Lab software](#Projects), including this website, is written collaboratively by a community of contributors. _Above: a diagram of the various [Public Lab software projects](https://publiclab.org/notes/warren/05-22-2019/draft-of-a-public-lab-software-roadmap-comments-welcome)_
 
@@ -44,13 +48,13 @@ Read more about our [software outreach work here](/software-outreach)!
 
 ## Activities
 
-[activities:software]
+[software](../../tag/activity:software)
 
 ****
 
 ## Questions
 
-[questions:software]
+[software](../../tag/question:software)
 
 ****
 
@@ -198,7 +202,7 @@ Here are some guides to different ways to help others contribute:
 
 ## Summer of Code Activities
 
-[activities:soc]
+[soc](../../tag/activity:soc)
 
 
 ****

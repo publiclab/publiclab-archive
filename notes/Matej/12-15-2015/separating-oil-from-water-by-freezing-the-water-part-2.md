@@ -8,11 +8,15 @@ uid: 451808
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/013/345/original/23010637653_f57645f913_o_%281%29.jpg)
+
 # Separating Oil from Water by Freezing the Water Part 2
 
 by [Matej](../profile/Matej) December 15, 2015 18:34
 
 December 15, 2015 18:34 | Tags: [oil](../tag/oil), [fluorescence](../tag/fluorescence), [crude](../tag/crude), [sampling](../tag/sampling), [oil-testing-kit](../tag/oil-testing-kit), [sheen](../tag/sheen), [otk](../tag/otk), [os](../tag/os), [response:12405](../tag/response:12405), [freezing](../tag/freezing)
+
+----
 
 This note is an extension of my previous note "Separating Oil from Water by Freezing the Water" that could be found [here](https://publiclab.org/notes/Matej/11-13-2015/separating-oil-from-water-by-freezing-the-water).
 

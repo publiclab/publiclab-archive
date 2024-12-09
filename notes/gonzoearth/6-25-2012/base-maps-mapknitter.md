@@ -8,11 +8,15 @@ uid: 12
 
 ---
 
+![](https://publiclab.org/sites/default/files/Screen Shot 2012-06-25 at 3.20.11 PM.png)
+
 # Base maps in MapKnitter
 
 by [gonzoearth](../profile/gonzoearth) June 25, 2012 22:29
 
 June 25, 2012 22:29 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [mapknitter](../tag/mapknitter)
+
+----
 
 Microsoft (Bing) put out a press release today announcing that they have more than doubled their existing aerial imagery library.
 It's a great time to remind users that MapKnitter has more than just the default base map layer for stitching imagery. The "choose background layer" button button on the toolbar brings up a map layers menu.

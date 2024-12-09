@@ -14,6 +14,8 @@ by [Adreenah](../profile/Adreenah) November 23, 2020 20:41
 
 November 23, 2020 20:41 | Tags: [gulf-coast](../tag/gulf-coast), [organizing](../tag/organizing), [florida](../tag/florida), [issue-brief](../tag/issue-brief), [first-time-poster](../tag/first-time-poster), [zoom:3](../tag/zoom:3), [covid-19](../tag/covid-19), [lat:29.726222](../tag/lat:29.726222), [lon:-84.990234](../tag/lon:-84.990234), [mutual-aid](../tag/mutual-aid), [apalachicola](../tag/apalachicola), [resource-guides](../tag/resource-guides)
 
+----
+
 ### Introduction:
 
 Residents of Apalachicola have been struggling prior to the pandemic from hurricanes, the oil spill, Georgia/Florida water wars, and over harvesting of the Apalachicola oysters. Without having time to recover from a single issue, the residents endure hardship after hardship. Now with the pandemic to tackle, residents must find a new normal. With the unfortunate tasks of finding basic necessities like affordable housing, safe reliable jobs, child care, and food---mutual aid and having access to resources has been one of the keys to keeping people afloat.
@@ -58,4 +60,4 @@ What community groups need to be a part of this effort?
 
 How can mutual aid and funding from the government/public assistance go hand in hand?
 
-[questions:mutual-aid]
+[mutual-aid](../../tag/question:mutual-aid)

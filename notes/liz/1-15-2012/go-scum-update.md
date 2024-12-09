@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/sites/default/files/0_Bottle BOAT will need to be IN FRONT of canoe for Best Filming.JPG)
+
 # GO SCUM update
 
 by [liz](../profile/liz) January 16, 2012 00:44
 
 January 16, 2012 00:44 | Tags: [new-york-city](../tag/new-york-city), [gowanus](../tag/gowanus), [gowanus-canal](../tag/gowanus-canal), [thermal-flashlight](../tag/thermal-flashlight), [brooklyn](../tag/brooklyn), [thermal-fishing-bob](../tag/thermal-fishing-bob), [glowdoodle](../tag/glowdoodle), [underwater](../tag/underwater), [northeast](../tag/northeast), [with:eymund](../tag/with:eymund), [activity:thermal-fishing-bob](../tag/activity:thermal-fishing-bob)
+
+----
 
 GO SCUM (Gowanus Superfund Contaminated Underwater Mapping) update:
 

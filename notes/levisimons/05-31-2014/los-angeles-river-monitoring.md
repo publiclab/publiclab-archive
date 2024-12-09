@@ -8,11 +8,15 @@ uid: 1087
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/004/491/original/Los_Angeles_River_Glendale.jpg)
+
 # Los Angeles river monitoring
 
 by [levisimons](../profile/levisimons) May 31, 2014 01:41
 
 May 31, 2014 01:41 | Tags: [california](../tag/california), [river](../tag/river), [los-angeles](../tag/los-angeles), [la](../tag/la)
+
+----
 
 Project name: [Ecology and the Chemistry of the Los Angeles Watershed](http://scienceland.wikispaces.com/LARiver)
 

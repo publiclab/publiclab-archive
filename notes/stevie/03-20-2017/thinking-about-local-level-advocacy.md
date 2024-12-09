@@ -8,11 +8,15 @@ uid: 422561
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/019/892/original/Cropped_2.jpg)
+
 # Thinking about local level advocacy
 
 by [stevie](../profile/stevie) March 20, 2017 21:49
 
 March 20, 2017 21:49 | Tags: [community](../tag/community), [organizing](../tag/organizing), [blog](../tag/blog), [advocacy](../tag/advocacy), [community-organizing](../tag/community-organizing), [local](../tag/local), [ordinances](../tag/ordinances), [pin:activity:advocacy](../tag/pin:activity:advocacy)
+
+----
 
 _Image credit: Carolyn Buell, New Durham, NH. Planning board meeting on proposed quarry with local opposition._ 
 

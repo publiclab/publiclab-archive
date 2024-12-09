@@ -14,6 +14,8 @@ by [warren](../profile/warren)
 
 October 23, 2017 19:04 | Tags: 
 
+----
+
 There are lots of ways to process infrared imagery to analyze plant health. Here are a few:
 
 ## Infragram.org

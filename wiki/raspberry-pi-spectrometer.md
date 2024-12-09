@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/030/795/original/PC051869.jpg)
+
 # Raspberry Pi Spectrometer
 
 by [warren](../profile/warren)
 
 November 27, 2017 14:38 | Tags: [spectrometer](../tag/spectrometer), [parent:spectrometry](../tag/parent:spectrometry), [raspberry-pi-spectrometer](../tag/raspberry-pi-spectrometer), [qtesting](../tag/qtesting)
+
+----
 
 This page collects efforts to develop a Raspberry Pi (#raspberry-pi) based spectrometer, building on Public Lab (and others') open source [DIY spectrometer designs](/wiki/spectrometry).
 
@@ -29,11 +33,11 @@ You can now [download ready-to-use camera software on our Pi Builder page](/pi-b
 
 Questions can be either frequently asked questions, or "next step" challenges we're looking to solve.
 
-[questions:raspberry-pi-spectrometer]
+[raspberry-pi-spectrometer](../../tag/question:raspberry-pi-spectrometer)
 
 ## Activities
 
 Activities show how to use this project, step by step.
 
-[activities:raspberry-pi-spectrometer]
+[raspberry-pi-spectrometer](../../tag/activity:raspberry-pi-spectrometer)
 

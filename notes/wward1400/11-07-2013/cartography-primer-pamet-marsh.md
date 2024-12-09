@@ -8,11 +8,15 @@ uid: 46742
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/002/140/original/IMG_3839.JPG)
+
 # Cartography Primer - Pamet Marsh
 
 by [wward1400](../profile/wward1400) November 07, 2013 03:05
 
 November 07, 2013 03:05 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [boston](../tag/boston), [wetlands](../tag/wetlands), [oyster-reef](../tag/oyster-reef), [infragram](../tag/infragram), [cape-cod](../tag/cape-cod), [marsh](../tag/marsh), [pamet](../tag/pamet), [oyster](../tag/oyster), [infrabluephoto](../tag/infrabluephoto), [lat:41.997066](../tag/lat:41.997066), [lon:-70.038032](../tag/lon:-70.038032), [place:pamet-marsh-ma](../tag/place:pamet-marsh-ma)
+
+----
 
 Mapping the <a href="https://ssl.panoramio.com/photo/22423708"> Dauphinee House</a>
 

@@ -14,6 +14,8 @@ by [warren](../profile/warren)
 
 January 07, 2012 15:34 | Tags: 
 
+----
+
 <a href="https://www.flickr.com/photos/jeffreywarren/6653177539/" title="NRG infrared export in MapKnitter by jeferonix, on Flickr"><img src="https://farm8.staticflickr.com/7003/6653177539_74fba8a976.jpg" width="500" height="371" alt="NRG infrared export in MapKnitter"></a>
 
 Learn [more about near-infrared photography and compositing here](http://publiclaboratory.org/tool/near-infrared-camera).

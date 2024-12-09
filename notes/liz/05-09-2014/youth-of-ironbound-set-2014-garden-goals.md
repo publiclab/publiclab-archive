@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/004/208/original/IMG_2048.JPG)
+
 # Youth of Ironbound set 2014 garden goals
 
 by [liz](../profile/liz) May 09, 2014 20:17
 
 May 09, 2014 20:17 | Tags: [newark](../tag/newark), [new-jersey](../tag/new-jersey), [community-garden](../tag/community-garden), [garden](../tag/garden), [food](../tag/food), [ironbound](../tag/ironbound), [elp](../tag/elp), [northeast](../tag/northeast), [activity:food](../tag/activity:food), [category:weigh-produce](../tag/category:weigh-produce), [category:weigh](../tag/category:weigh), [category:measure](../tag/category:measure)
+
+----
 
 **This note is posted on behalf of Emily Turonis, garden manager at Ironbound Community Corporation.** 
 

@@ -14,4 +14,6 @@ by [amallozzi](../profile/amallozzi) February 24, 2020 17:02
 
 February 24, 2020 17:02 | Tags: [question:general](../tag/question:general), [general](../tag/general), [first-time-poster](../tag/first-time-poster), [savetheocean](../tag/savetheocean), [question:savetheocean](../tag/question:savetheocean)
 
+----
+
 Our group would like to measure the amount of sunscreen, and potentially other hygiene products, in water. I know the Lego Spectrometer has been used for oil, but does anyone have experience using it for substances like sunscreen? If so, please send us some tips!

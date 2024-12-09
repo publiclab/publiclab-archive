@@ -14,6 +14,8 @@ by [liz](../profile/liz)
 
 September 15, 2015 12:53 | Tags: [new-york-city](../tag/new-york-city), [bronx](../tag/bronx), [parent:new-york-city](../tag/parent:new-york-city)
 
+----
+
 To date, site research in the Bronx has focused on Soundview Park
 
 Aerial image sequence 1924 - 2006 by @eymund :

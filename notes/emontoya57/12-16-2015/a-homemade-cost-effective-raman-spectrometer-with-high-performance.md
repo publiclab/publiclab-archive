@@ -8,11 +8,15 @@ uid: 422031
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/013/351/original/main_picture.jpg)
+
 # A Homemade Cost Effective Raman Spectrometer with High Performance
 
 by [emontoya57](../profile/emontoya57) December 16, 2015 00:53
 
 December 16, 2015 00:53 | Tags: [spectrometer](../tag/spectrometer), [raman](../tag/raman), [barnstar:basic](../tag/barnstar:basic), [diy-spectrometer](../tag/diy-spectrometer), [raman-spectrometer](../tag/raman-spectrometer)
+
+----
 
 ###What I want to do
 

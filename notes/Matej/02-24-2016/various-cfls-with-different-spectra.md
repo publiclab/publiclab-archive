@@ -8,11 +8,15 @@ uid: 451808
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/014/545/original/IMG_7173.jpg)
+
 # Various CFLs with Different Spectra
 
 by [Matej](../profile/Matej) February 24, 2016 01:42
 
 February 24, 2016 01:42 | Tags: [spectrometer](../tag/spectrometer), [spectrum-matching](../tag/spectrum-matching), [multispectral](../tag/multispectral), [uv](../tag/uv), [telemetry](../tag/telemetry), [spectralworkbench](../tag/spectralworkbench), [emission-spectroscopy](../tag/emission-spectroscopy), [cfl](../tag/cfl), [spectral-analysis](../tag/spectral-analysis), [spectral-workbench](../tag/spectral-workbench), [response:12658](../tag/response:12658), [response:12656](../tag/response:12656)
+
+----
 
 ###What I want to do
 I was testing two different CFLs looking for differences in their spectra. Since I found that there are different CFLs, some closer to daylight than others.

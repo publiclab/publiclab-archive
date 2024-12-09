@@ -8,11 +8,15 @@ uid: 12
 
 ---
 
+![](https://publiclab.org/sites/default/files/1.JPG)
+
 # Help learning to use MapKnitter
 
 by [gonzoearth](../profile/gonzoearth) June 29, 2012 15:32
 
 June 29, 2012 15:32 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping)
+
+----
 
 Get help learning how to use Mapknitter. the MapKnitter guide is found here http://publiclaboratory.org/wiki/mapknitter
 

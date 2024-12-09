@@ -8,11 +8,15 @@ uid: 739155
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/042/751/original/1B0E0A06-BA04-4AA7-972D-D57DB3E7299C.jpeg)
+
 # Comparing the water In Bayou St. John and the Mississippi River
 
 by [pawpatrol](../profile/pawpatrol) February 19, 2021 17:21
 
 February 19, 2021 17:21 | Tags: [rivers](../tag/rivers), [microplastics](../tag/microplastics), [bayou](../tag/bayou), [lat:29.954934](../tag/lat:29.954934), [lon:-90.065917](../tag/lon:-90.065917), [zoom:6](../tag/zoom:6)
+
+----
 
 _This is a minimal template for new activities! If you're drafting a new activity ([http://publiclab.org/wiki/activities](http://publiclab.org/wiki/activities)), remove this line._
 

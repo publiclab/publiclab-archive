@@ -8,11 +8,15 @@ uid: 9
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/019/036/original/Screen_Shot_2016-12-13_at_3.09.41_PM.png)
+
 # Environmental Protection Belongs to the Public: A report for EPA on the role of citizen science
 
 by [Shannon](../profile/Shannon) December 13, 2016 21:12
 
 December 13, 2016 21:12 | Tags: [blog](../tag/blog), [report](../tag/report)
+
+----
 
 _Cross-posted from the Citizen Science Association blog co-written by Shannon Dosemagen (Public Lab) and Alison Parker (ORISE Fellow hosted by EPA)._
 

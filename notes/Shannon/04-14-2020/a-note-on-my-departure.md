@@ -8,11 +8,15 @@ uid: 9
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/039/047/original/IMG_0211.JPG)
+
 # A note on my departure
 
 by [Shannon](../profile/Shannon) April 14, 2020 15:55
 
 April 14, 2020 15:55 | Tags: [blog](../tag/blog)
+
+----
 
 Dear friends,
 

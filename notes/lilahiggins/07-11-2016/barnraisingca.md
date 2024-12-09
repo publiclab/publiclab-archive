@@ -8,11 +8,15 @@ uid: 482809
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/016/974/original/XRUL2654.jpg)
+
 # #BarnraisingCA
 
 by [lilahiggins](../profile/lilahiggins) July 11, 2016 19:26
 
 July 11, 2016 19:26 | Tags: [landfill](../tag/landfill), [mapping](../tag/mapping), [balloon](../tag/balloon), [barnraisingca](../tag/barnraisingca), [chiquita](../tag/chiquita), [canyon](../tag/canyon)
+
+----
 
 Over the weekend I attended the regional #barnraisingCA in Val Verde, California. Here are my notes from the weekend. 
 

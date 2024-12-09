@@ -14,6 +14,8 @@ by [Shannon](../profile/Shannon), [warren](../profile/warren), [sara](../profile
 
 July 19, 2011 22:14 | Tags: [community](../tag/community), [ethics](../tag/ethics), [politics](../tag/politics), [consent](../tag/consent)
 
+----
+
 Gathering and sharing knowledge always creates ethical and political questions. Active discussion of ethical approaches to and questions about our research and technology development process and data sharing practices work is particularly important to public lab as we attempt to address community environmental health issues. 
 
 This page is a place to collect up, pose and discuss ethical questions raised by public laboratory work. While we don't think these questions can ever simply be answered, we aim to continually be developing, refining and adapting shared guidelines for public laboratory work in the aim of cultivating "civic science". 

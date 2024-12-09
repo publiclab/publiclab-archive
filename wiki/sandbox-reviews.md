@@ -14,6 +14,8 @@ by [bhamster](../profile/bhamster)
 
 February 09, 2022 21:59 | Tags: 
 
+----
+
 **Another approach to research area reviews:**
 
 The review process outlined above built upon previous thinking on research area reviews ([here](https://publiclab.org/notes/stevie/05-23-2019/thinking-through-research-area-reviews) and [here](https://publiclab.org/notes/stevie/05-24-2019/idea-to-distribute-tasks-for-a-reserach-area-review?)), which can also be broken down into more distinct phases and distributed tasks in the following way:

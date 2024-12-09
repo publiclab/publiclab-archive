@@ -8,11 +8,15 @@ uid: 706
 
 ---
 
+![](https://publiclab.org/sites/default/files/Circuit_Breadboard.jpg)
+
 # Thermal Torch with Adjustable Temperature Scale
 
 by [dr_dbw](../profile/dr_dbw) March 29, 2012 00:22
 
 March 29, 2012 00:22 | Tags: [thermal-photography](../tag/thermal-photography)
+
+----
 
 This is an extension I have developed of the basic thermal torch / thermal photography project - http://publiclaboratory.org/tool/thermal-photography
 

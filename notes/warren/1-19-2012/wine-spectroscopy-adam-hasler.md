@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/wine.jpg)
+
 # Wine spectroscopy with Adam Hasler
 
 by [warren](../profile/warren) January 19, 2012 15:47
 
 January 19, 2012 15:47 | Tags: [spectrometer](../tag/spectrometer), [wine](../tag/wine), [absorption-spectrometry](../tag/absorption-spectrometry)
+
+----
 
 Adam brought a number of wines which we measured in one of our [DIY spectrometers](/tool/spectrometer), and tasted, too. He described the background of each wine and its place of origin, and we spent some time discussing how to improve readings and sample prep for this early stage prototype instrument.
 

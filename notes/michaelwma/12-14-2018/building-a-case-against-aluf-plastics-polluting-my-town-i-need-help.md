@@ -14,6 +14,8 @@ by [michaelwma](../profile/michaelwma) December 14, 2018 02:46
 
 December 14, 2018 02:46 | Tags: [new-york](../tag/new-york), [pvc](../tag/pvc), [air-quality](../tag/air-quality), [northeast](../tag/northeast), [question:air-quality](../tag/question:air-quality), [odor](../tag/odor), [featured-request](../tag/featured-request), [issue-brief](../tag/issue-brief), [plastics](../tag/plastics), [odor-logging](../tag/odor-logging), [first-time-poster](../tag/first-time-poster), [lat:41.054659](../tag/lat:41.054659), [lon:-73.950084](../tag/lon:-73.950084), [orangetown](../tag/orangetown), [clean-air-for-orangetown](../tag/clean-air-for-orangetown), [orangetown-aluf](../tag/orangetown-aluf), [question:orangetown-aluf](../tag/question:orangetown-aluf)
 
+----
+
 I live in a town next to a business called Aluf Plastics. They manufacture industrial liners and other plastic products in its 500,000-square-foot factory, which runs six days a week, 24 hours a day.
 
   

@@ -14,6 +14,8 @@ by [warren](../profile/warren) January 24, 2011 00:56
 
 January 24, 2011 00:56 | Tags: [lima](../tag/lima), [peru](../tag/peru), [workshop](../tag/workshop), [wind](../tag/wind), [solar](../tag/solar), [activity:classroom](../tag/activity:classroom), [windmill](../tag/windmill)
 
+----
+
 <a href="https://www.flickr.com/photos/jeffreywarren/5382318743/" title="soldering with Morflex by jeferonix, on Flickr"><img src="http://farm6.static.flickr.com/5083/5382318743_1c89929421.jpg" width="500" height="375" alt="soldering with Morflex" /></a>
 
 On Monday Jan 10th, I worked with a group called Morflex, which is associated with [FabLabLima](http://fablablima.org) but comprised of mostly architects, and run by the architects Roxana Garrido and Jesús Peña. As they've been working on some renewable energy designs, we took the opportunity to experiment a bit with wind-powered lights. I also had the pleasure of inviting Andrea Sreshta of the [Solar Light Pillow Project](http://thesolarlightpillow.org/) to lead a workshop with me on the following Thursday.

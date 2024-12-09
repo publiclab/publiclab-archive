@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/011/716/original/otk-m.jpg)
+
 # Week 1: Recap from Oil Testing Kit Beta Program kickoff chat
 
 by [warren](../profile/warren) September 30, 2015 18:38
 
 September 30, 2015 18:38 | Tags: [spectrometer](../tag/spectrometer), [fluorescence](../tag/fluorescence), [oil-testing-kit](../tag/oil-testing-kit), [oil-testing-kit-beta](../tag/oil-testing-kit-beta)
+
+----
 
 Hi, all - thanks to those who attended the kickoff chat. We'll be meeting in the same place, same time next week ([see the schedule here](/wiki/oil-testing-kit-beta#Schedule)).
 

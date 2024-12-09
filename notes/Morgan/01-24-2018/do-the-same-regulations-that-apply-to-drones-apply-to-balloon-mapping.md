@@ -14,4 +14,6 @@ by [Morgan](../profile/Morgan) January 24, 2018 21:50
 
 January 24, 2018 21:50 | Tags: [balloon-mapping](../tag/balloon-mapping), [faa](../tag/faa), [regulations](../tag/regulations), [drone](../tag/drone), [answered](../tag/answered), [question:general](../tag/question:general), [question:legal](../tag/question:legal), [airport](../tag/airport), [law-and-policy](../tag/law-and-policy), [question:law-and-policy](../tag/question:law-and-policy)
 
+----
+
 Just wondering if I want to get aerial photography within 5 miles of an airport if there are height restrictions or things like that for balloon mapping - or if the no fly zones for drones within 5 miles of an airport apply to balloon mapping as well.

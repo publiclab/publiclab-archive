@@ -3,6 +3,8 @@ uid: 546871
 created_at: 2018-08-16 19:36:07 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/546871/medium/Steven_D._Brewer_MEDIUM.jpg)
+
 # limako
 
 Science Educator, Life Scientist, Free Software Advocate, Technology Guru, Award-winning Author of Esperanto-language Haiku, Haibun, and Prose. Senior Lecturer II and Director Biology Computer Resource Center at UMass Amherst.

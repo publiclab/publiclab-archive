@@ -14,6 +14,8 @@ by [warren](../profile/warren) August 29, 2017 20:10
 
 August 29, 2017 20:10 | Tags: [gulf-restoration-network](../tag/gulf-restoration-network), [skytruth](../tag/skytruth), [hurricane](../tag/hurricane), [stormwater](../tag/stormwater), [mapmill](../tag/mapmill), [storm](../tag/storm), [opencall](../tag/opencall), [coordinating](../tag/coordinating), [disaster-response](../tag/disaster-response), [cartoscope](../tag/cartoscope), [harvey](../tag/harvey), [harvey-calls](../tag/harvey-calls)
 
+----
+
 We had an [Open Call](/wiki/open-call) today on the topic of Harvey response and 12+ people attended, with:
 
 - questions
@@ -191,4 +193,4 @@ Jeff make SkyTruth/GRN email intro with Willow
 
 ## Questions
 
-[questions:harvey]
+[harvey](../../tag/question:harvey)

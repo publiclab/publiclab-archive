@@ -3,6 +3,8 @@ uid: 426100
 created_at: 2014-07-29 00:58:19 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/f5fae9d650c306508f2e832a46b5f218)
+
 # crispinpierce
 
 Professor of Environmental Public Health at University of Wisconsin-Eau Claire.

@@ -8,11 +8,15 @@ uid: 380298
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/009/842/original/FullSizeRender.jpg)
+
 # Community formaldehyde monitoring at natural gas compressor stations, protocol and data sheet 
 
 by [nshapiro](../profile/nshapiro) May 08, 2015 19:21
 
 May 08, 2015 19:21 | Tags: [natural-gas](../tag/natural-gas), [formaldehyde](../tag/formaldehyde), [protocol](../tag/protocol), [outdoor-air](../tag/outdoor-air), [indoor-air-quality](../tag/indoor-air-quality), [with:gretchengehrke](../tag/with:gretchengehrke)
+
+----
 
 A group of residents in rural Pennsylvania is developing a community formaldehyde monitoring project near natural gas compressor stations. Last fall a [peer-review paper](http://www.ehjournal.net/content/13/1/82/abstract) found elevated formaldehyde levels in the outdoor air near several compressor stations in multiple states in the US. 
 

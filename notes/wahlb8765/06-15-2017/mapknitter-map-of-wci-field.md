@@ -14,4 +14,6 @@ by [wahlb8765](../profile/wahlb8765) June 15, 2017 18:25
 
 June 15, 2017 18:25 | Tags: [mapknitter](../tag/mapknitter), [lat:43.4795087872](../tag/lat:43.4795087872), [lon:-80.528524518](../tag/lon:-80.528524518)
 
+----
+
 https://mapknitter.org/embed/wci-field

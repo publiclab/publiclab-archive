@@ -8,11 +8,15 @@ uid: 294634
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/005/192/original/Mobius_Foam.png)
+
 # KAP Rig for Mobius Action Cam
 
 by [ajawitz](../profile/ajawitz) July 09, 2014 23:53
 
 July 09, 2014 23:53 | Tags: [kite-mapping](../tag/kite-mapping), [grassrootsmapping](../tag/grassrootsmapping), [citizen-science](../tag/citizen-science), [mobius](../tag/mobius), [mobius-action-cam](../tag/mobius-action-cam), [kap-rigs](../tag/kap-rigs), [response:10162](../tag/response:10162), [mini-kite-kit](../tag/mini-kite-kit), [mini-balloon-kit](../tag/mini-balloon-kit), [activity:photo-rig](../tag/activity:photo-rig), [activity:mobius](../tag/activity:mobius), [activity:mini-balloon-kit](../tag/activity:mini-balloon-kit), [activity:mini-kite-kit](../tag/activity:mini-kite-kit), [activity:lightweight-photo-rig](../tag/activity:lightweight-photo-rig)
+
+----
 
 ###What I want to do
   I want to design an aerial photography rig specifically for the [Mobius Action Cam](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&ved=0CGkQFjAC&url=http%3A%2F%2Fwww.rcgroups.com%2Fforums%2Fshowthread.php%3Ft%3D1904559&ei=r9S9U_iyI8fZoATZuoDoCQ&usg=AFQjCNG7nwSfKrqRVqneySdKrsj338-8yg&sig2=6k91YVmioNckV9CcKAkMeg&bvm=bv.70138588,d.cGU) .  The camera's slim design requires a vertical mounting position while most KAP rigs appear to be designed for horizontal mounted cameras like Powershots.  I would like to examine popular grassroots mapping techniques such as the [PET Bottle Rig](http://publiclab.org/wiki/pet-bottle-rubber-band-rig), [Floating Camera Rig](http://publiclab.org/notes/eustatic/03-12-2014/floating-camera-rig) and [Picavet suspension](http://www.arch.ced.berkeley.edu/kap/equip/picavet.html) in order to adapt to the Mobius Cam's unique capabilities.

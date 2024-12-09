@@ -14,6 +14,8 @@ by [JHYeh](../profile/JHYeh) January 02, 2019 11:33
 
 January 02, 2019 11:33 | Tags: [question:spectral-workbench](../tag/question:spectral-workbench), [first-time-poster](../tag/first-time-poster)
 
+----
+
 ---------
 
 ![image description](/i/28586.png "33.png")

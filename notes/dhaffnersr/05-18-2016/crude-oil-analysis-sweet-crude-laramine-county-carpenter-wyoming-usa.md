@@ -8,11 +8,15 @@ uid: 461120
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/016/206/original/sweet_crude_from_Wyoming_may16.png)
+
 # Crude oil analysis (sweet crude) Laramine county carpenter Wyoming USA 
 
 by [dhaffnersr](../profile/dhaffnersr) May 18, 2016 15:00
 
 May 18, 2016 15:00 | Tags: 
+
+----
 
 ****ABSTRACT
 Crude oil analysis (sweet crude) Laramine county carpenter Wyoming USA 

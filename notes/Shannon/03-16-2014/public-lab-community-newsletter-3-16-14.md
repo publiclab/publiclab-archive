@@ -8,11 +8,15 @@ uid: 9
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/003/284/original/boots-publiclab.jpg)
+
 # Public Lab community newsletter 3.16.14
 
 by [Shannon](../profile/Shannon) March 16, 2014 20:43
 
 March 16, 2014 20:43 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
+
+----
 
 This week in the Public Lab community newsletter, read an update on petroleum waste mapping and measuring in Chicago, check out the creation of an oil testing station and join Public Lab during Google Summer of Code as a participant or mentor. Enjoy!
 

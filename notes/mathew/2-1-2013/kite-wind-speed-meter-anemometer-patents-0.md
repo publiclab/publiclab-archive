@@ -8,11 +8,15 @@ uid: 4
 
 ---
 
+![](https://publiclab.org/sites/default/files/Screen shot 2013-01-31 at 9.08.22 PM.png)
+
 # Kite Wind Speed Meter (Anemometer) Patents
 
 by [mathew](../profile/mathew) February 01, 2013 05:10
 
 February 01, 2013 05:10 | Tags: [kite](../tag/kite), [diy-kite](../tag/diy-kite), [anemometer](../tag/anemometer), [wind-speed-meter](../tag/wind-speed-meter), [kite-anemometer](../tag/kite-anemometer)
+
+----
 
 [1](http://www.google.com/patents?id=INYuAAAAEBAJ), [2](http://www.google.com/patents?id=g7syAAAAEBAJ) Two expired patents for using the tension and angle of a kite to compute wind speed, sheer, and turbulence. I've covered the background [math and research before.](http://publiclaboratory.org/notes/mathew/5-11-2012/using-kites-atmospheric-wind-speed-meters).  from that note: [Stephen E. Hobbs published calibration information for a series of kites in his excellent PhD thesis.](https://dspace.lib.cranfield.ac.uk/bitstream/1826/918/2/sehphd2a.pdf)
 

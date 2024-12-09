@@ -8,11 +8,15 @@ uid: 77
 
 ---
 
+![](https://publiclab.org/sites/default/files/P1070320_kids thumbs up_0.JPG)
+
 # August Pine Ridge RC school, Belize mapping session
 
 by [patcoyle](../profile/patcoyle) March 03, 2013 23:24
 
 March 03, 2013 23:24 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [belize](../tag/belize), [belizeopensource](../tag/belizeopensource)
+
+----
 
 I met Blanca Torres, the principal, other school staff and the fifth-grade class at the August Pine Ridge RC school. We flew a kite aerial mapping session together and demonstrated Mapknitter.
 

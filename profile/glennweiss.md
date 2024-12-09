@@ -3,6 +3,8 @@ uid: 462163
 created_at: 2016-01-23 14:36:30 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/74d5c3ed7336c34aeacdfaf013fffa4d)
+
 # glennweiss
 
 Glenn Weiss is an artist and activist based in south Florida.  Weiss responds to particular place with interjections designed to critique standard human observations and habits regarding that place.  Photographically, he records multiple occurrences of the same process acting in the same place at the same time.  Much of his work engages horizontal land surfaces. 

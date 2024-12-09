@@ -8,11 +8,15 @@ uid: 46673
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/002/192/original/Boots-in-circle-with-hatch-large.jpg)
+
 # Public Lab Community Newsletter 11.10.2013
 
 by [Becki](../profile/Becki) November 11, 2013 02:02
 
 November 11, 2013 02:02 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
+
+----
 
 Public Lab Community Newsletter 11.10.2013
 

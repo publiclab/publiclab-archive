@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/024/945/original/IMG_20171025_092338277.jpg)
+
 # MACA
 
 by [nanocastro](../profile/nanocastro), [warren](../profile/warren)
 
 March 28, 2018 22:17 | Tags: [air-quality](../tag/air-quality), [sensors](../tag/sensors), [datalogger](../tag/datalogger), [location:blurred](../tag/location:blurred), [air-sensors](../tag/air-sensors), [dustuino](../tag/dustuino), [lat:-32](../tag/lat:-32), [lon:-68](../tag/lon:-68), [place:mendoza-argentina](../tag/place:mendoza-argentina), [particle-sensor](../tag/particle-sensor)
+
+----
 
 The MACA Open Air Quality Monitor project (Monitor Abierto de Calidad del Aire in spanish) started a few years ago in Mendoza, Argentina to tackle some problems related to local air pollution monitoring (no public data, high costs of reference instruments, etc, etc) by developing an open, small and low cost air quality monitoring station.You can find more info in spanish about the MACA project in our [wiki](http://www.monitorabierto.wikidot.com/).
 
@@ -27,16 +31,16 @@ You can check the details of the prototype and the calibration data on: https://
 
 Read more:
 
-[notes:maca]
+[maca](../../tag/maca)
 
 ****
 
 ## Questions
 
-[questions:maca]
+[maca](../../tag/question:maca)
 
 ## Activities
 
-[activities:maca]
+[maca](../../tag/activity:maca)
 
 

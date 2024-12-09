@@ -8,11 +8,15 @@ uid: 4
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/011/446/original/20xfrac_snd17-contrast.jpg)
+
 # Optical Imaging of Passive Particle Monitors
 
 by [mathew](../profile/mathew) September 03, 2015 03:08
 
 September 03, 2015 03:08 | Tags: [air-quality](../tag/air-quality), [dust](../tag/dust), [particulates](../tag/particulates), [silica](../tag/silica), [frac-sand](../tag/frac-sand), [pm](../tag/pm), [particle-sensing](../tag/particle-sensing), [particle-monitoring](../tag/particle-monitoring), [fracsand](../tag/fracsand), [microscope](../tag/microscope), [passive-particle-monitors](../tag/passive-particle-monitors), [passive-pm](../tag/passive-pm), [parent:frac-sand](../tag/parent:frac-sand), [activity:microscope](../tag/activity:microscope), [microscopes](../tag/microscopes), [activity:microscopes](../tag/activity:microscopes), [particle-imaging](../tag/particle-imaging)
+
+----
 
 This is an attempt to document the steps in a method of imaging for the passive monitor [you can make with instructions here](/notes/mathew/09-02-2015/replicating-a-passive-dust-monitor-method), as written in:  
 

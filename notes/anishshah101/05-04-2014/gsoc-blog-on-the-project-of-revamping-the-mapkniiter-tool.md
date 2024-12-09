@@ -14,6 +14,8 @@ by [anishshah101](../profile/anishshah101) May 04, 2014 06:26
 
 May 04, 2014 06:26 | Tags: [mapknitter](../tag/mapknitter), [gsoc](../tag/gsoc), [leaflet](../tag/leaflet), [developers](../tag/developers), [code](../tag/code), [gsoc-2014](../tag/gsoc-2014)
 
+----
+
 Hi!
 
 I am Anish Shah, a 3rd year, Engineering student at BITS Pilani, India. I love to spend time on digital designing, web programming, discussions on start-ups and that pretty much sums up what I do besides my academics. I recently got selected in Google Summer of Code 2014 (GSoC) at The Public Laboratory. This post and the series of posts coming up will be about my SoC experience and the progress on my project.

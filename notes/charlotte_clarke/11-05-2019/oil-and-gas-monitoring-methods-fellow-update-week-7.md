@@ -14,6 +14,8 @@ by [charlotte_clarke](../profile/charlotte_clarke) November 05, 2019 16:03
 
 November 05, 2019 16:03 | Tags: [oil-and-gas](../tag/oil-and-gas), [oil-and-gas-water-trio](../tag/oil-and-gas-water-trio)
 
+----
+
 It is week 7, and our work to review and advance information about oil and gas water monitoring is well under way. Here are a few projects that are currently in the works:
 
 - [OpenHour](https://publiclab.org/openhour): November's OpenHour, on Tuesday, Nov 12 at 8pm EST, will focus on [our research area](https://publiclab.org/wiki/oil-and-gas-water-fellowship-trio). We're emailing out invitations to some leaders in the oil and gas water field, and would love for anyone from the Public Lab community to join, too.

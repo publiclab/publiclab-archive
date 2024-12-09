@@ -8,11 +8,15 @@ uid: 12
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/003/447/original/Screen_Shot_2014-03-28_at_3.05.31_PM.png)
+
 # Mapping 10km2 
 
 by [gonzoearth](../profile/gonzoearth) March 29, 2014 01:32
 
 March 29, 2014 01:32 | Tags: [balloon-mapping](../tag/balloon-mapping), [guides](../tag/guides), [activity:balloon-mapping](../tag/activity:balloon-mapping)
+
+----
 
 I updated the Mapping Curriculum with a [note about larger extent mapping](http://publiclab.org/wiki/mapping-curriculum-high-altitude-mapping) and tried to compile a list of applications for making the tradeoff to fly higher.
 

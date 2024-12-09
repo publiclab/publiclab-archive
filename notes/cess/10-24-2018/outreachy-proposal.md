@@ -8,11 +8,15 @@ uid: 525958
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/027/130/original/stat.jpg)
+
 # Outreachy proposal:  Extend community collaboration statistics and visualization system
 
 by [cess](../profile/cess) October 24, 2018 09:15
 
 October 24, 2018 09:15 | Tags: [software](../tag/software), [soc](../tag/soc), [soc-2018](../tag/soc-2018), [rgsoc-2018](../tag/rgsoc-2018), [outreachy](../tag/outreachy), [outreachy-2018](../tag/outreachy-2018), [outreachy-2018-proposals](../tag/outreachy-2018-proposals), [response:17359](../tag/response:17359)
+
+----
 
 ---------
 

@@ -3,6 +3,8 @@ uid: 589023
 created_at: 2019-05-07 14:11:34 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/589023/medium/fullsizeoutput_825.jpeg)
+
 # molangmuir10
 
 I'm a multi-disciplinary environmental biologist based in Nottingham.  I'm passionate about ecological research with social impact and the future of cities. I want to engage all parts of the city's community with the natural world using creative citizen science!

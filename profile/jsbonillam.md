@@ -3,6 +3,8 @@ uid: 521899
 created_at: 2018-01-05 19:24:35 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/bf54ccba5c80f827c399ecbe47526701)
+
 # jsbonillam
 
 14 year old student from Spain studying pollution in Madrid through spectrophotometry.

@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/016/272/original/IMG_20160523_111116-2.jpg)
+
 # Survey for newcomers on interface design of new editor
 
 by [warren](../profile/warren) May 19, 2016 17:00
 
 May 19, 2016 17:00 | Tags: [software](../tag/software), [developers](../tag/developers), [code](../tag/code), [survey](../tag/survey), [editor](../tag/editor), [rich-editor](../tag/rich-editor), [newcomers](../tag/newcomers)
+
+----
 
 One thing we're working on for the new #rich-editor design process is seeking input and feedback from people who aren't (yet, at least) familiar with PublicLab.org, or at least who haven't posted content. 
 

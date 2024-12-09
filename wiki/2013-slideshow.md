@@ -14,6 +14,8 @@ by [warren](../profile/warren)
 
 December 17, 2013 20:43 | Tags: [sidebar:featured](../tag/sidebar:featured), [style:wide](../tag/style:wide), [style:presentation](../tag/style:presentation)
 
+----
+
 <!-- http://getbootstrap.com/javascript/#carousel -->
 
 <div id="carousel" class="carousel slide" data-ride="carousel">

@@ -12,4 +12,6 @@ uid: 1
 
 October 09, 2019 21:37 | Tags: 
 
+----
+
 <div class="alert alert-success">Please add a photo to your post.</div>

@@ -8,11 +8,15 @@ uid: 77
 
 ---
 
+![](https://publiclab.org/sites/default/files/P1070408.JPG)
+
 # prototype juice bottle bottom dual camera rig
 
 by [patcoyle](../profile/patcoyle) February 24, 2013 03:05
 
 February 24, 2013 03:05 | Tags: 
+
+----
 
 Updated with images and video of A1200s being triggered with Digispark CHDK.
 

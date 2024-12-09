@@ -14,6 +14,8 @@ by [denissebn_06](../profile/denissebn_06) April 01, 2021 18:37
 
 April 01, 2021 18:37 | Tags: [question:general](../tag/question:general), [general](../tag/general), [ballon-mapping](../tag/ballon-mapping), [first-time-poster](../tag/first-time-poster)
 
+----
+
 I saw the Red Hat documentary https://www.youtube.com/watch?v=t1JW3HcU9bo
 
 I know that for flying a drone you need a license and can only fly it in permitted areas. 

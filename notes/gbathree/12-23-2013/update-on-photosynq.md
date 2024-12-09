@@ -8,11 +8,15 @@ uid: 53164
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/002/446/original/IMG_2821.JPG)
+
 # Update on Photosynq
 
 by [gbathree](../profile/gbathree) December 23, 2013 19:32
 
 December 23, 2013 19:32 | Tags: [photosynq](../tag/photosynq)
+
+----
 
 This is reposted from http://photosynq.org/countdown-beta-test/ if you want to see more pictures go there -
 

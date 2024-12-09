@@ -8,11 +8,15 @@ uid: 427535
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/006/451/original/infragram.blend.png)
+
 # Analyzing NDVI Imagery Using Blender
 
 by [unsignedint](../profile/unsignedint) August 27, 2014 11:33
 
 August 27, 2014 11:33 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [image-processing](../tag/image-processing), [software](../tag/software), [blender](../tag/blender)
+
+----
 
 ##Blender
 [Blender](http://www.blender.org/) is a Free Software for 3D modeling and rendering. The software also contains an extensive suite of image adjustments and composition.

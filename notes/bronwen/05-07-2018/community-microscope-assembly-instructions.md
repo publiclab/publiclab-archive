@@ -8,11 +8,15 @@ uid: 237313
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/024/837/original/Screen_Shot_2018-05-07_at_5.10.36_PM.png)
+
 # Community Microscope Assembly Instructions
 
 by [Bronwen](../profile/Bronwen) May 07, 2018 21:32
 
 May 07, 2018 21:32 | Tags: [webcam](../tag/webcam), [with:warren](../tag/with:warren), [microscope](../tag/microscope), [activity:microscope](../tag/activity:microscope), [community-kits](../tag/community-kits), [activity:basic-microscope](../tag/activity:basic-microscope), [optics](../tag/optics), [activity:community-microscope](../tag/activity:community-microscope), [community-microscope](../tag/community-microscope), [activity:community-microscope-assembly](../tag/activity:community-microscope-assembly), [pin:activity:community-microscope-assembly](../tag/pin:activity:community-microscope-assembly)
+
+----
 
 <iframe src="https://www.youtube.com/embed/wfsryik3gx0" allowfullscreen="" width="560" height="315" frameborder="0"></iframe>
 

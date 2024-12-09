@@ -14,6 +14,8 @@ by [Shannon](../profile/Shannon) November 06, 2011 01:48
 
 November 06, 2011 01:48 | Tags: 
 
+----
+
 For anyone who might be interested, the Houma Courier (Louisiana) put out their &quot;Oil and Industry&quot; section last week: <a href="http://www.houmatoday.com/industry" target="_blank">http://www.houmatoday.com/industry</a><br>
 <div class="gmail_quote">
 <br>

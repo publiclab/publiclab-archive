@@ -3,6 +3,8 @@ uid: 6102
 created_at: 2016-09-09 14:17:28 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/6a5995e8e39ab1b580a033f7926023cf)
+
 # elainechoi89
 
 

@@ -8,11 +8,15 @@ uid: 43651
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/002/509/original/oblique.jpg)
+
 # Mystic River
 
 by [donblair](../profile/donblair), [warren](../profile/warren)
 
 January 09, 2014 21:59 | Tags: [somerville-massachusetts](../tag/somerville-massachusetts), [boston](../tag/boston), [pvos](../tag/pvos), [conductivity](../tag/conductivity), [ioby](../tag/ioby), [mystic-river](../tag/mystic-river), [style:nobanner](../tag/style:nobanner)
+
+----
 
 _Main image above is by Suzanne McDaniel, and was taken at Island End River in Chelsea, MA, part of the Mystic River watershed.  Suzanne's photo was one of the winners of the [MyRWA photo contest](http://mysticriver.org/photo-contest/)._
 

@@ -14,6 +14,8 @@ by [thechapu](../profile/thechapu) July 25, 2016 01:45
 
 July 25, 2016 01:45 | Tags: [ndvi](../tag/ndvi), [filter](../tag/filter), [sj4000](../tag/sj4000)
 
+----
+
 Hello, my name is Cristofer writing from Chile.
 I'm interested in learning more about stress in plants.
 

@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/025/888/original/kite.png)
+
 # Kite Mapping
 
 by [tahnok](../profile/tahnok), [warren](../profile/warren), [mathew](../profile/mathew), [liz](../profile/liz), [ncraig](../profile/ncraig)
 
 July 05, 2011 14:53 | Tags: [kite-mapping](../tag/kite-mapping), [diy-kite](../tag/diy-kite), [kit](../tag/kit), [parent:balloon-mapping](../tag/parent:balloon-mapping), [kite-kit](../tag/kite-kit)
+
+----
 
 Kite mapping is similar to [balloon mapping](/wiki/balloon-mapping), but uses kites to lift cameras to take aerial photographs. With kites and a 5-20 mph wind, many of the objectives of balloon mapping are possible without helium or balloons. If you want to map a site with consistent winds, you may be in luck!
 
@@ -26,13 +30,13 @@ Kites can also be used in large flat areas with no power lines or trees, such as
 
 ## Activities
 
-[activities:kite-mapping]
+[kite-mapping](../../tag/activity:kite-mapping)
 
 ****
 
 ## Questions
 
-[questions:kite-mapping]
+[kite-mapping](../../tag/question:kite-mapping)
 
 ****
 

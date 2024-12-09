@@ -8,11 +8,15 @@ uid: 459085
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/018/490/original/riffle___thermsistor.png)
+
 # Riffle and Thermsistor
 
 by [pdhixenbaugh](../profile/pdhixenbaugh) October 20, 2016 00:03
 
 October 20, 2016 00:03 | Tags: [riffle](../tag/riffle), [riffle-beta](../tag/riffle-beta), [activity:riffle](../tag/activity:riffle), [thermsistor](../tag/thermsistor)
+
+----
 
 ###What I want to do
 Trial and Documentation Test for using a thermsistor with the Riffle. The documentation I am following is here: https://github.com/OpenWaterProject/riffle_328-thermistor.

@@ -14,6 +14,8 @@ by [joywager](../profile/joywager) April 02, 2012 07:59
 
 April 02, 2012 07:59 | Tags: [e-coli](../tag/e-coli), [e-coli-detector](../tag/e-coli-detector), [mobile-phone-camera](../tag/mobile-phone-camera), [ucla](../tag/ucla)
 
+----
+
 Food borne sickness is seriously unpleasant, though it isn't always fatal. However, experts from UCLA have a solution, which uses a mobile phone to help catch the bugs. The machine, which attaches to the back of a phone, can identify E. coli bacteria from samples. Article resource: <a href="http://www.appisaurus.com/3268-e-coli-detector-attachment/">UCLA scientists create E coli detector attachment for cell phones</a>
 
 

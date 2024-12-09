@@ -8,11 +8,15 @@ uid: 45586
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/016/697/original/Screen_Shot_2016-06-21_at_1.26.19_PM.png)
+
 # Airborne Silica and Regulations
 
 by [mlamadrid](../profile/mlamadrid) June 21, 2016 20:32
 
 June 21, 2016 20:32 | Tags: [silica](../tag/silica), [frac-sand](../tag/frac-sand), [with:gretchengehrke](../tag/with:gretchengehrke), [sand-frac](../tag/sand-frac), [communityscienceforum](../tag/communityscienceforum)
+
+----
 
 Article by [Gretchen Gehrke](https://publiclab.org/profile/gretchengehrke) for [Community Science Forum: Sand-Frac Issue](https://publiclab.org/forum).
 

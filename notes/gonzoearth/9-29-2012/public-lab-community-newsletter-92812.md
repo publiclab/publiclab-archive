@@ -14,6 +14,8 @@ by [gonzoearth](../profile/gonzoearth) September 29, 2012 05:14
 
 September 29, 2012 05:14 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
 
+----
+
 **Zoom!** Another busy week around Public Lab. Here is a roundup of some of the things going on in our community.
 
 **Super video demo of thermal infrared spectroscopy** 

@@ -3,6 +3,8 @@ uid: 462488
 created_at: 2016-01-27 01:00:02 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/bcde02a6ef6b79a7368575dce265441e)
+
 # sspatharioti
 
 Graduate Student at Northeastern University, at the College of Computer and Information Science. Working on Cartoscope, a crowdsourcing platform that can be used for setting up projects based on analyzing aerial images.

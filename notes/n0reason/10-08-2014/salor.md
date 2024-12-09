@@ -8,11 +8,15 @@ uid: 429569
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/008/018/original/openrov-going-deep.jpg)
+
 # S.A.L.O.R. (Submersible Autonomous Liquid Oxygen Reporter)
 
 by [n0reason](../profile/n0reason) October 08, 2014 17:23
 
 October 08, 2014 17:23 | Tags: [gps](../tag/gps), [umass-amherst](../tag/umass-amherst), [oxygen](../tag/oxygen), [amherst-media](../tag/amherst-media), [5-college](../tag/5-college), [publiclab-at-amherst-media](../tag/publiclab-at-amherst-media), [publiclab-at-umass](../tag/publiclab-at-umass), [makers-and-amherst-media](../tag/makers-and-amherst-media), [rov](../tag/rov), [location:blurred](../tag/location:blurred), [nitrogen](../tag/nitrogen), [lat:42.3](../tag/lat:42.3), [submersible](../tag/submersible), [lon:-72.5](../tag/lon:-72.5), [project:water-quality](../tag/project:water-quality), [openrov](../tag/openrov)
+
+----
 
 Thais C. - Daniel S. - Leif D.
 

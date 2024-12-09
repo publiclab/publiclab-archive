@@ -8,11 +8,15 @@ uid: 12
 
 ---
 
+![](https://publiclab.org/sites/default/files/Capture.JPG)
+
 # NASA’s Terra satellite false-color image of the Morganza Floodway
 
 by [gonzoearth](../profile/gonzoearth) May 20, 2011 18:59
 
 May 20, 2011 18:59 | Tags: 
+
+----
 
 Advanced Spaceborne Thermal Emission and Reflection Radiometer (ASTER) on NASA’s Terra satellite captured this false-color image of the Morganza Floodway on May 18, 2011
 <br>

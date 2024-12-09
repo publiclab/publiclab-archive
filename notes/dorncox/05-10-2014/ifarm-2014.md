@@ -8,11 +8,15 @@ uid: 1205
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/004/214/original/photo_2.JPG)
+
 # iFARM 2014
 
 by [dorncox](../profile/dorncox) May 10, 2014 04:30
 
 May 10, 2014 04:30 | Tags: [boston](../tag/boston), [new-hampshire](../tag/new-hampshire), [farmhack](../tag/farmhack), [uav](../tag/uav), [agriculture](../tag/agriculture), [event](../tag/event), [garden](../tag/garden), [ifarm](../tag/ifarm), [crops](../tag/crops), [northeast](../tag/northeast), [uas](../tag/uas), [ifarm2014](../tag/ifarm2014), [aerial-imaging](../tag/aerial-imaging), [internet-of-things](../tag/internet-of-things)
+
+----
 
 ###What I want to do
 

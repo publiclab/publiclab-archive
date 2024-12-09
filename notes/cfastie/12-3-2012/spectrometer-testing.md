@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/sites/default/files/spectrometer-20121203-2041ps.jpg)
+
 # Spectrometer testing
 
 by [cfastie](../profile/cfastie) December 04, 2012 04:41
 
 December 04, 2012 04:41 | Tags: [spectrometer](../tag/spectrometer), [grating](../tag/grating), [diffraction-grating](../tag/diffraction-grating), [cfl](../tag/cfl), [compact-fluorescent](../tag/compact-fluorescent), [entrance-slit](../tag/entrance-slit)
+
+----
 
 <em>Image above: Taking good photos of the spectra produced by the Public Laboratory fold-up paper spectrometer.</em>
 

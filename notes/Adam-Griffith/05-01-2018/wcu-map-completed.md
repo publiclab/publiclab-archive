@@ -8,11 +8,15 @@ uid: 3
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/037/406/original/WCU_Phipps_PL.jpg)
+
 # WCU map completed
 
 by [adam-griffith](../profile/adam-griffith) May 30, 2011 18:09
 
 May 30, 2011 18:09 | Tags: [western-carolina-university](../tag/western-carolina-university)
+
+----
 
 In the fall of 2010, I asked for volunteers in my biology 140 class at Western Carolina University to help with a campus mapping project using cameras suspended from a balloon. I was very clear on the terms: the students were volunteering, could not be paid, and could not receive any academic credit for their efforts. I had no budget for the project, but was able to purchase materials thanks to the Program for the Study of Developed Shoreline, where I work. I was excited to find 8 very interested and motivated students who each devoted at least 6 hours to the project -- their names are below.
 

@@ -8,11 +8,15 @@ uid: 9
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/020/156/original/plots-logo-transparent.jpg)
+
 # Public Lab nonprofit job posting: Director of Development
 
 by [Shannon](../profile/Shannon) April 07, 2017 12:53
 
 April 07, 2017 12:53 | Tags: [nonprofit](../tag/nonprofit), [jobs](../tag/jobs)
+
+----
 
 **Director of Development**
 

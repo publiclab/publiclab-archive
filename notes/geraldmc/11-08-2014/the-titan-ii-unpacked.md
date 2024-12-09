@@ -8,11 +8,15 @@ uid: 421225
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/007/780/original/T2RIG-1.jpg)
+
 # The Titan II, Unpacked 
 
 by [geraldmc](../profile/geraldmc) November 08, 2014 20:08
 
 November 08, 2014 20:08 | Tags: [gulf-coast](../tag/gulf-coast), [ndvi](../tag/ndvi), [kite-aerial-photography](../tag/kite-aerial-photography), [aerial-photography](../tag/aerial-photography), [kites](../tag/kites), [titan](../tag/titan), [sugarcane](../tag/sugarcane), [kaptery](../tag/kaptery)
+
+----
 
 ### Preliminaries
 

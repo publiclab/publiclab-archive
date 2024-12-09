@@ -3,6 +3,8 @@ uid: 641166
 created_at: 2019-11-26 19:38:51 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/641166/medium/mB_tU9d8QXeh3IZe_pU9DA_thumb_2f8c.jpg)
+
 # ekpeterman
 
 Elena Peterman is a researcher, writer, and organizer based in Durham, NC. She's the Mountains and Mines Monitoring Project (MMMP) environmental policy fellow. 

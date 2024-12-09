@@ -14,6 +14,8 @@ by [Shannon](../profile/Shannon)
 
 July 20, 2015 17:47 | Tags: [education](../tag/education), [wetlands](../tag/wetlands), [new-orleans](../tag/new-orleans), [urbanwater](../tag/urbanwater), [urbanwaters](../tag/urbanwaters), [parent:wetlands-toolkit](../tag/parent:wetlands-toolkit), [lesson](../tag/lesson)
 
+----
+
 ###Lesson One
 
 [Public Lab Lesson 1: Wetlands, Water, & Oil](http://publiclab.org/wiki/lesson-1-wetlands-water-oil)

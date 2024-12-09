@@ -8,11 +8,15 @@ uid: 1205
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/000/115/original/Launching_the_rig.jpg)
+
 #  iFarm (Imaging For Agricultural Research and Management) field day
 
 by [dorncox](../profile/dorncox) April 24, 2013 02:04
 
 April 24, 2013 02:04 | Tags: [vermont](../tag/vermont), [boston](../tag/boston), [new-hampshire](../tag/new-hampshire), [farmhack](../tag/farmhack), [event](../tag/event), [greenstart](../tag/greenstart), [ifarm](../tag/ifarm), [northeast](../tag/northeast), [first-time-poster](../tag/first-time-poster)
+
+----
 
 Help and learn about documenting regenerative agricultural systems using open source tools in collaboration with Farmhack.net and GreenStartnh.org.  
 

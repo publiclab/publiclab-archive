@@ -14,6 +14,8 @@ by [sarasage](../profile/sarasage) September 07, 2017 21:53
 
 September 07, 2017 21:53 | Tags: [water-quality-monitoring](../tag/water-quality-monitoring), [air-quality](../tag/air-quality), [harvey](../tag/harvey), [question:harvey](../tag/question:harvey)
 
+----
+
 Besides the initial damage from the hurricane and the flooding, there are concerning reports regarding releases from chemical plants and refineries that were damaged during Harvey in the Houston area. Is there a need for monitoring resources and is there a team in place to help with sampling?
 
   

@@ -14,6 +14,8 @@ by [kgradow1](../profile/kgradow1) June 25, 2020 14:39
 
 June 25, 2020 14:39 | Tags: [air-quality](../tag/air-quality), [flare](../tag/flare), [fire](../tag/fire), [haze](../tag/haze), [question:air-quality](../tag/question:air-quality), [emission-spectra](../tag/emission-spectra), [question:general](../tag/question:general), [general](../tag/general)
 
+----
+
 I was looking through photos from Fractracker and had some questions!
 
   

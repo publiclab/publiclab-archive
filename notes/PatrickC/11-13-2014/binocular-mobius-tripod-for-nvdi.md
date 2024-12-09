@@ -8,11 +8,15 @@ uid: 431386
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/007/834/original/nvdi_IR_blue_crop.png)
+
 # Binocular Mobius Tripod for NVDI.
 
 by [PatrickC](../profile/PatrickC) November 13, 2014 23:19
 
 November 13, 2014 23:19 | Tags: [nvdi](../tag/nvdi), [gradient](../tag/gradient), [first-time-poster](../tag/first-time-poster)
+
+----
 
 ###What I want to do
 turn an infrablue and RGB into a false color composite image as seen in Cfastie's page.

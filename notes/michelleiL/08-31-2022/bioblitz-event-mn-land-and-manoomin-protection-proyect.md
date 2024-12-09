@@ -8,11 +8,15 @@ uid: 799004
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/047/095/original/300646763_3213798962223528_3242440747236780938_n.jpg)
+
 # Bioblitz Event: MN Land and Manoomin Protection Proyect 
 
 by [michelleiL](../profile/michelleiL) August 31, 2022 00:30
 
 August 31, 2022 00:30 | Tags: [event](../tag/event), [lat:47](../tag/lat:47), [zoom:7](../tag/zoom:7), [fellowship-teams](../tag/fellowship-teams), [wild-rice](../tag/wild-rice), [huber-osb-factory](../tag/huber-osb-factory), [talon-rio-tinto-mine](../tag/talon-rio-tinto-mine), [mn-land-manoomin-protection](../tag/mn-land-manoomin-protection), [lon:-93](../tag/lon:-93), [great-lakes-region](../tag/great-lakes-region), [manoomin](../tag/manoomin), [anishinaabe](../tag/anishinaabe), [ojibwe](../tag/ojibwe), [treaty-rights](../tag/treaty-rights)
+
+----
 
 *Image Description: A digital flyer with dark green background, bold white letters in the title, images of birds, plants, and a bowl of rice. There's a black and white Public Lab logo at the top right.  Flyer by @noah_ben_furman*
 

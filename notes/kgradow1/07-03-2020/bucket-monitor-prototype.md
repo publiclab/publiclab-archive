@@ -14,6 +14,8 @@ by [kgradow1](../profile/kgradow1) July 03, 2020 20:21
 
 July 03, 2020 20:21 | Tags: [air-quality](../tag/air-quality), [bucket-brigade](../tag/bucket-brigade), [global-community-monitor](../tag/global-community-monitor), [air-sampling](../tag/air-sampling), [lat:42](../tag/lat:42), [lon:-70](../tag/lon:-70), [zoom:6](../tag/zoom:6), [bucket-monitor](../tag/bucket-monitor), [parent:bucket-monitor](../tag/parent:bucket-monitor)
 
+----
+
 \##Purpose
 
 We finished the first pass bucket build this week! This build is definitely a work in progress, and I'm still waiting for some parts to come in. My goal for this week is to see if I can build a simple version of the bucket that will hold a vacuum and get familiar with how it comes together to help inform any updates or substitutions we may need to make going forward. This is not a full assembly walkthrough -- that will come later!

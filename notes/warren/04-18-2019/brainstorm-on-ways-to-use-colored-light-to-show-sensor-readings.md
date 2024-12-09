@@ -14,6 +14,8 @@ by [warren](../profile/warren) April 18, 2019 17:52
 
 April 18, 2019 17:52 | Tags: [arduino](../tag/arduino), [sensors](../tag/sensors), [visualization](../tag/visualization), [leds](../tag/leds), [question:sensors](../tag/question:sensors), [plantower](../tag/plantower), [purple-air](../tag/purple-air), [question:simple-air-sensor](../tag/question:simple-air-sensor), [simple-air-sensor](../tag/simple-air-sensor), [question:data-display](../tag/question:data-display), [data-display](../tag/data-display)
 
+----
+
 In the #simple-air-sensor's default settings, we chose to show a rough sense (think qualitative, for comparison) of the PM2.5 dust sensor readings as a colored light, in part because without calibration or accounting for humidity/temperature, it's hard to know exactly how accurate the readings are. (the Simple Air Sensor includes a single #Plantower PM sensor, while two come in each #purple-air device)
 
 ![image description](/i/31647.jpg?s=m "IMG_20190418_135549_439.jpg")

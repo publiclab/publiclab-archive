@@ -8,11 +8,15 @@ uid: 43651
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/006/275/original/epatechdemoday.png)
+
 # EPA's Advanced Monitoring Tech Demo Day
 
 by [donblair](../profile/donblair) August 14, 2014 23:38
 
 August 14, 2014 23:38 | Tags: [epa](../tag/epa), [water](../tag/water), [riffle](../tag/riffle), [demo](../tag/demo), [barnstar:basic](../tag/barnstar:basic), [openwater](../tag/openwater)
+
+----
 
 @mathew and I had a great trip EPA's Advanced Monitoring Tech Demo Day on August 5th at the EPA's headquarters in DC.  Catherine Tunis and others at the EPA organized a wonderful event -- we met a ton of folks who were really interested in Public Lab's approach to environmental monitoring, and it has led to lots of great conversations!
 

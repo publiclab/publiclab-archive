@@ -8,11 +8,15 @@ uid: 518193
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/043/088/original/IMG_0302.JPG)
+
 # First Time Build: The Bucket Air Quality Monitor
 
 by [a1ahna](../profile/a1ahna) March 29, 2021 18:01
 
 March 29, 2021 18:01 | Tags: [diy](../tag/diy), [how-to](../tag/how-to), [air-quality](../tag/air-quality), [bucket-brigade](../tag/bucket-brigade), [new](../tag/new), [draft](../tag/draft), [air-sampling](../tag/air-sampling), [air-quality-monitoring](../tag/air-quality-monitoring), [air-quality-projects](../tag/air-quality-projects), [zoom:16](../tag/zoom:16), [air-sensor](../tag/air-sensor), [bucket-monitor](../tag/bucket-monitor), [tedlar-bag](../tag/tedlar-bag), [replication:24950](../tag/replication:24950), [lat:29.970884](../tag/lat:29.970884), [lon:-90.066733](../tag/lon:-90.066733)
+
+----
 
 This research note contains my personal experience building [The Bucket Air Quality Monitoring kit](https://store.publiclab.org/collections/the-bucket-air-quality-monitoring-system/products/the-bucket-air-quality-monitor-bucket-only?variant=37683507986612). I built the variant from the store that includes the clear bucket and pump. This is documentation of my personal experience, so to be clear - I didn't follow the steps exactly in order of the manual, and I only took photographs of the more confusing steps.
 

@@ -14,6 +14,8 @@ by [jakeschievink](../profile/jakeschievink)
 
 February 09, 2014 17:40 | Tags: [yeast](../tag/yeast), [kombucha](../tag/kombucha), [bacteria](../tag/bacteria), [scoby](../tag/scoby), [fermentation](../tag/fermentation)
 
+----
+
 This is the main page for any research and experiments done with dried Kombucha SCOBY.
 
 ##About 

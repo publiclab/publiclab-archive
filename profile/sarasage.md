@@ -3,6 +3,8 @@ uid: 451398
 created_at: 2015-09-15 01:46:04 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/451398/medium/PL_Profile_Pic.jpg)
+
 # sarasage
 
 I am the Program Director for a small nonprofit,  Val Verde Air Monitoring Program. I am currently working as a Public Lab Fellow. I live in the small, semi-rural town of Val Verde, California, in LA County. I got started with environmental justice advocacy and waste issues after a nearby landfill began the scoping process for an expansion, rather than close the facility as promised. 

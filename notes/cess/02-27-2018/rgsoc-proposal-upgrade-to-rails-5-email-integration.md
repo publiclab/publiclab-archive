@@ -8,11 +8,15 @@ uid: 525958
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/023/730/original/upgrade.jpg)
+
 # RGSoC proposal: Upgrade to Rails 5 
 
 by [cess](../profile/cess) February 27, 2018 07:22
 
 February 27, 2018 07:22 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [soc](../tag/soc), [response:13975](../tag/response:13975), [gsoc-2018](../tag/gsoc-2018), [soc-2018](../tag/soc-2018), [rgsoc-2018](../tag/rgsoc-2018), [soc-2018-proposals](../tag/soc-2018-proposals), [first-time-poster](../tag/first-time-poster)
+
+----
 
 ---------
 

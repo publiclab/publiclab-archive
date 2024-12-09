@@ -8,11 +8,15 @@ uid: 102
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/007/829/original/holiday_party!.jpg)
+
 # Public Lab Holiday Party on Saturday, December 6
 
 by [Hudonnoodles](../profile/Hudonnoodles) October 10, 2014 11:53
 
 October 10, 2014 11:53 | Tags: [somerville-massachusetts](../tag/somerville-massachusetts), [boston](../tag/boston), [event](../tag/event), [toolshed-raising](../tag/toolshed-raising), [toolshed](../tag/toolshed), [northeast](../tag/northeast), [event:rsvp](../tag/event:rsvp), [rsvp:warren](../tag/rsvp:warren), [rsvp:liz](../tag/rsvp:liz), [date:12-06-2014](../tag/date:12-06-2014), [rsvp:hudonnoodles](../tag/rsvp:hudonnoodles), [rsvp:shannon](../tag/rsvp:shannon), [rsvp:rjstatic](../tag/rsvp:rjstatic), [rsvp:ygzstc](../tag/rsvp:ygzstc), [rsvp:georesource](../tag/rsvp:georesource)
+
+----
 
 [![holiday_party!.jpg](https://i.publiclab.org/system/images/photos/000/007/831/medium/holiday_party!.jpg)](https://i.publiclab.org/system/images/photos/000/007/831/original/holiday_party!.jpg)
 

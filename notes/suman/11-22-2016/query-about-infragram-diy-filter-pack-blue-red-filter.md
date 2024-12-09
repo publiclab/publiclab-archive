@@ -14,6 +14,8 @@ by [suman](../profile/suman) November 22, 2016 20:54
 
 November 22, 2016 20:54 | Tags: [question:infragram](../tag/question:infragram), [question:question](../tag/question:question), [first-time-poster](../tag/first-time-poster)
 
+----
+
 Greetings from Nepal,
 
 I am a masters student and researcher at Thammasat University, Thailand. I am planning to do a research on "**Monitoring Water Stress in banana plantation at Pathumthani province, Thailand using thermal remote sensing attached to an unmanned aerial system**."

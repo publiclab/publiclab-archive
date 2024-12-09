@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/008/600/original/DesignStrategies4Engagement.jpg)
+
 # DIY Kit Design Strategies for participation
 
 by [liz](../profile/liz) January 13, 2015 22:57
 
 January 13, 2015 22:57 | Tags: [collaboration](../tag/collaboration), [kits](../tag/kits), [participation](../tag/participation), [materials](../tag/materials), [design](../tag/design), [with:mathew](../tag/with:mathew), [prototyping](../tag/prototyping), [prototyping-kits](../tag/prototyping-kits), [sourcing](../tag/sourcing)
+
+----
 
 While working with @mathew on cutting out some new spectrometer prototypes, an interesting question came up:
 

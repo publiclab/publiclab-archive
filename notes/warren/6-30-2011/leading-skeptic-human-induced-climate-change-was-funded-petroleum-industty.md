@@ -14,5 +14,7 @@ by [warren](../profile/warren) June 30, 2011 21:31
 
 June 30, 2011 21:31 | Tags: 
 
+----
+
 <p><a href="http://m.guardian.co.uk/environment/2011/jun/28/climate-change-sceptic-willie-soon?cat=environment&amp;type=article">http://m.guardian.co.uk/environment/2011/jun/28/climate-change-sceptic-willie-soon?cat=environment&amp;type=article</a></p>
 

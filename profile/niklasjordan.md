@@ -3,6 +3,8 @@ uid: 531062
 created_at: 2018-04-16 12:31:40 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/531062/medium/niklas-jordan2.jpeg)
+
 # niklasjordan
 
 At the day I am a User Experience Architect for organizations that do good. But at night I am an technologist with focus on environmental issues and science nerd. I also give many talks at conferences on user experience, sustainable technologies and the planet friendly web.

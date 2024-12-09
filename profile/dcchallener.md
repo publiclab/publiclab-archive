@@ -3,6 +3,8 @@ uid: 420056
 created_at: 2013-12-25 00:33:04 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/979b9f4c0b5b9dbd6e12125d949efb7d)
+
 # dcchallener
 
 

@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/000/039/original/presentation-wilkinson.png)
+
 # Presentation to FOSS4G Denver, 2011
 
 by [warren](../profile/warren) April 11, 2013 18:43
 
 April 11, 2013 18:43 | Tags: [presentation](../tag/presentation), [foss4g](../tag/foss4g)
+
+----
 
 Archiving my presentation to FOSS4G 2011: Crowdsourcing Aerial Image Mapping with MapMill.org and MapKnitter.org
 

@@ -8,11 +8,15 @@ uid: 9
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/008/274/original/plots-logo-transparent.jpg)
+
 # Public Lab Community Newsletter 12.5.14
 
 by [Shannon](../profile/Shannon) December 05, 2014 22:10
 
 December 05, 2014 22:10 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
+
+----
 
 It’s been awhile since we last wrote, but only because it’s been an exciting and packed month in the Public Lab community! Project updates abound, reflections on the 2014 Barnraising have been cast and we’re rolling into end of the year celebrations. Enjoy!
 

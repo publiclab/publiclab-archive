@@ -14,6 +14,8 @@ by [gonzoearth](../profile/gonzoearth), [warren](../profile/warren)
 
 March 09, 2011 00:13 | Tags: 
 
+----
+
 On our main map archive, our thought was to have a few directory levels, so URLs work out to:
 
 http://drndl.grassrootsmapping.org/&lt;location&gt;/&lt;year-month-day-sitename&gt;/&lt;format&gt;/&lt;file&gt;.&lt;extension&gt;

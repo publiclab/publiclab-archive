@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/032/349/original/Search-mockup.png)
+
 # Search in 2019
 
 by [liz](../profile/liz) May 20, 2019 18:38
 
 May 20, 2019 18:38 | Tags: [website](../tag/website), [search](../tag/search), [code](../tag/code), [wwg](../tag/wwg), [ui](../tag/ui)
+
+----
 
 *above: mockup of a new Search interface*
 

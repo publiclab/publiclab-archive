@@ -14,6 +14,8 @@ by [Shannon](../profile/Shannon) September 13, 2012 20:23
 
 September 13, 2012 20:23 | Tags: [oil-spill-toolkit](../tag/oil-spill-toolkit)
 
+----
+
 We've settled on dates and a location for the [2012 Public Lab barn raising](http://publiclaboratory.org/wiki/2012-barnraising-cocodrie-la) which we're all really excited about! This year's barn raising will be in Cocodrie, Louisiana from November 2-4, 2012 at the Louisiana Universities Marine Consortium facility and you all are invited! 
 
 You may be thinking, "what does raising a barn have to do with Public Lab?" The barn raising is the closest thing that we currently have to a Public Lab conference-- but with an emphasis on "doing stuff together" rather than just presenting/talking. In the spirit of bringing a community together to collectively raise a structure such as a barn, Public Lab is borrowing this term and coming together to develop tools, toolkits, supporting materials (such as guides and tutorials), test the tools and develop new research directions and projects. Participants represent a wide range of interests from social scientists and community organizers to technologists and designers. This is a great chance to meet others, share ideas and get involved in organizing the Public Lab community!

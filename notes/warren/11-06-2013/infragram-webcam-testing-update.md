@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/002/117/original/with_74_filter.JPG)
+
 # Infragram Webcam testing update
 
 by [warren](../profile/warren) November 06, 2013 17:29
 
 November 06, 2013 17:29 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [kickstarter](../tag/kickstarter), [infragram](../tag/infragram)
+
+----
 
 This has been taking a while since they are shipping us samples as they attempt the webcam conversions, but we finally confirmed that they can do the conversion and they sent us the above sample photograph (the webcam itself is in the mail). Looking good! 
 

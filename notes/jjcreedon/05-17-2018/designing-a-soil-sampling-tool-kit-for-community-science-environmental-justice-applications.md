@@ -8,11 +8,15 @@ uid: 515357
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/024/985/original/IMG_2596.JPG)
+
 # Designing a soil sampling tool kit for community science /environmental justice applications
 
 by [jjcreedon](../profile/jjcreedon) May 17, 2018 00:28
 
 May 17, 2018 00:28 | Tags: [industrial-monitoring](../tag/industrial-monitoring), [lead](../tag/lead), [advocacy](../tag/advocacy), [soil-sampling](../tag/soil-sampling), [activity:soil-sampling-toolkit](../tag/activity:soil-sampling-toolkit)
+
+----
 
 ## What I want to do
 Put together an open source, inexpensive and easily replicable soil sampling tool kit. 

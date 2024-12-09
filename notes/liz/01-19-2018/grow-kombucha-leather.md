@@ -14,6 +14,8 @@ by [liz](../profile/liz) January 19, 2018 19:24
 
 January 19, 2018 19:24 | Tags: [seeks:replications](../tag/seeks:replications), [kombucha-leather](../tag/kombucha-leather), [activity:kombucha-leather](../tag/activity:kombucha-leather)
 
+----
+
 By [Oliver Kellhammer](http://www.oliverk.org/) and [Parsons Sustainable Systems](https://courses.newschool.edu/courses/PUFY1100)
 
 ### Overview

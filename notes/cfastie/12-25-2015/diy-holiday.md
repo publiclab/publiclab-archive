@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/013/469/original/XmasPLA-713-75.jpg)
+
 # DIY holiday
 
 by [cfastie](../profile/cfastie) December 25, 2015 13:16
 
 December 25, 2015 13:16 | Tags: [holiday](../tag/holiday), [3d-printing](../tag/3d-printing), [christmas](../tag/christmas), [response:11497](../tag/response:11497)
+
+----
 
 The MakerBot elf has been busy and may have inadvertently made the most bizarre creche ever.
 

@@ -14,6 +14,8 @@ by [warren](../profile/warren)
 
 April 12, 2011 19:16 | Tags: 
 
+----
+
 _This page is a draft_
 
 Many people ask what the main results or outcomes of Grassroots Mapping and other Public Laboratory projects are. 

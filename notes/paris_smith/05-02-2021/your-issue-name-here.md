@@ -14,6 +14,8 @@ by [paris_smith](../profile/paris_smith) May 02, 2021 10:01
 
 May 02, 2021 10:01 | Tags: [issue-brief](../tag/issue-brief)
 
+----
+
 ### Introduction:
 
 Replace this text with some context for what you are sharing. For example, you can provide a brief introduction to your community, and give some context for the issue you're posting about.
@@ -35,4 +37,4 @@ Are there people you know of who are currently working on this? Delete this text
 Delete this text and replace "tagname" below with the unique project tag you'd like to use to follow your issue.
 \_Note: the tag is how the material posted after you share this post will be organized. Tags need to be one word, or a couple words separated by a hyphen for example "dredge" or "lake-dredge". Any questions with that tag will populate this grid. If you want to keep out broad questions related to the topic, choose a tag that could be unique to your issue for example: "Madison-Lake-Dredge"
 
-[questions:tagname]
+[tagname](../../tag/question:tagname)

@@ -8,11 +8,15 @@ uid: 422561
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/009/867/original/IDIYA_Mapping.jpg)
+
 # New Orleans City Park Mapping
 
 by [stevie](../profile/stevie) May 13, 2015 20:47
 
 May 13, 2015 20:47 | Tags: [gulf-coast](../tag/gulf-coast), [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [event](../tag/event), [pole-mapping](../tag/pole-mapping), [event:rsvp](../tag/event:rsvp), [date:05-30-2015](../tag/date:05-30-2015), [rsvp:emilya](../tag/rsvp:emilya), [rsvp:dflores6073](../tag/rsvp:dflores6073), [replication:14022](../tag/replication:14022)
+
+----
 
 Public Lab will be hosting a DIY aerial mapping field trip and workshop **Saturday May 30th from 10:30-4 at IDIYA.**
 

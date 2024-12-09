@@ -14,4 +14,6 @@ by [bhamster](../profile/bhamster) March 31, 2022 18:38
 
 March 31, 2022 18:38 | Tags: [oil-and-gas](../tag/oil-and-gas), [question:oil-and-gas](../tag/question:oil-and-gas), [reclamation](../tag/reclamation), [question:reclamation](../tag/question:reclamation)
 
+----
+
 @a1ahna asked this question on a call about mine reclamation, which has some federal oversight and funding for abandoned mines. Is there something similar for reclaiming abandoned oil wells? Thanks!

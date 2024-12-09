@@ -8,11 +8,15 @@ uid: 510781
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/035/588/original/deepwater-horizon-oil-spill-cycling-of-carbon.jpg)
+
 # Oil & Gas Water Monitoring Research Area Review: Interview/Survey Questions
 
 by [charlotte_clarke](../profile/charlotte_clarke) October 06, 2019 16:16
 
 October 06, 2019 16:16 | Tags: [water-quality](../tag/water-quality), [oil-and-gas](../tag/oil-and-gas), [oil-and-gas-water-trio](../tag/oil-and-gas-water-trio)
+
+----
 
 [Context for this post.](https://publiclab.org/notes/charlotte_clarke/09-22-2019/introduction-i-m-charlotte-your-new-friendly-neighborhood-oil-gas-water-monitoring-methods-fellow "https://publiclab.org/notes/charlotte_clarke/09-22-2019/introduction-i-m-charlotte-your-new-friendly-neighborhood-oil-gas-water-monitoring-methods-fellow")
 

@@ -8,11 +8,15 @@ uid: 4
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/010/202/original/IMG_20150603_145507.jpg)
+
 # using soap bubbles for pump calibration
 
 by [mathew](../profile/mathew) June 04, 2015 01:32
 
 June 04, 2015 01:32 | Tags: [calibration](../tag/calibration), [air-quality](../tag/air-quality), [h2s](../tag/h2s), [formaldehyde](../tag/formaldehyde), [open-air](../tag/open-air), [openair](../tag/openair), [pump](../tag/pump), [indoor-air-quality](../tag/indoor-air-quality), [vacuum](../tag/vacuum)
+
+----
 
 ###What I want to do
 I want to see if @davidmack's [suggestion](/notes/nshapiro/11-03-2014/diy-formaldehyde-test-kit#c10686) that a graduated cylinder with a soap bubble traveling along it can be used to calibrate the flow rate of a pump.

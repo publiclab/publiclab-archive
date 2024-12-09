@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/015/985/original/IMG_0007.JPG)
+
 # oblique rig for gopro
 
 by [liz](../profile/liz) May 06, 2016 22:33
 
 May 06, 2016 22:33 | Tags: [aerial-photography](../tag/aerial-photography), [photo-rig](../tag/photo-rig), [oblique](../tag/oblique), [gopro](../tag/gopro), [camera-rig](../tag/camera-rig)
+
+----
 
 I'm sharing one of Eymund's oblique rigs, this one takes advantage of the unique shape of a 52 fl oz. "Bolthouse Farms bottle" to snugly grip a GoPro. It was made some years ago so the bottles might be different now. 
 

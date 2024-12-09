@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/023/399/original/MiniPearl_20170606-9521-3.JPG)
+
 # Real time and temperature
 
 by [cfastie](../profile/cfastie) January 30, 2018 04:03
 
 January 30, 2018 04:03 | Tags: [arduino](../tag/arduino), [barnstar:empiricism](../tag/barnstar:empiricism), [data-logging](../tag/data-logging), [mini-pearl-logger](../tag/mini-pearl-logger), [real-time-clock](../tag/real-time-clock), [ds3231](../tag/ds3231), [pro-mini](../tag/pro-mini)
+
+----
 
 I had some [Mini Pearl Loggers][1] outside this month and encountered three potential problems related to very cold temperatures. The real-time clock (RTC) modules were responsible for these issues.
 

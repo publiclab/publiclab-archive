@@ -8,11 +8,15 @@ uid: 231045
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/001/389/original/fukuoaka.jpg)
+
 # Fukuoka's One Straw Revolution
 
 by [GreenYouth](../profile/GreenYouth) September 04, 2013 03:54
 
 September 04, 2013 03:54 | Tags: [farming](../tag/farming), [agriculture](../tag/agriculture), [urban-ag](../tag/urban-ag), [naturalfarming](../tag/naturalfarming), [onestrawrevolution](../tag/onestrawrevolution), [vietnam](../tag/vietnam), [green-youth-collective](../tag/green-youth-collective), [asia](../tag/asia)
+
+----
 
 Hi guys,
 

@@ -8,11 +8,15 @@ uid: 461120
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/014/765/original/380nm_mar11.png)
+
 # Tested 10 380nm UV LEDs with 10w40mtr oil thru quartz cuvette
 
 by [dhaffnersr](../profile/dhaffnersr) March 11, 2016 16:08
 
 March 11, 2016 16:08 | Tags: 
+
+----
 
 I tested 10 380nm LEDs today using the 10w40 sample I already had prepared from the other previous tests and these are the results, also I put these in a set.
 

@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/sites/default/files/PAR-201334430.jpg)
+
 # PAR
 
 by [cfastie](../profile/cfastie) March 17, 2013 03:23
 
 March 17, 2013 03:23 | Tags: [spectrometer](../tag/spectrometer), [vermont](../tag/vermont), [ebert](../tag/ebert), [absorption](../tag/absorption), [par](../tag/par), [photosynthesis](../tag/photosynthesis), [chlorophyll](../tag/chlorophyll), [pigments](../tag/pigments)
+
+----
 
 Chlorophyll and other pigments in green plants absorb blue and red light to power photosynthesis, and reflect away green light.  The combination of colors used by plants is referred to as photosynthetically active radiation (PAR). We don't really know why the only pigments plants have don't use much green light, but it might be related to the presence in Earth's early oceans of microbes that used green light as an energy source and had it monopolized.  The earliest green plants might have been [better able to compete with ancient purple Archaea](http://www.livescience.com/1398-early-earth-purple-study-suggests.html) by exploiting the unused blue and red wavelengths.  Some surviving Archaea still use green light today, but the photosynthetic pathways supported by the pigments in green plants are much more efficient.
 

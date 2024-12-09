@@ -3,6 +3,8 @@ uid: 505441
 created_at: 2017-04-08 17:03:59 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/3dc845fc56bd8b7c8c99f06d4dab7619)
+
 # Zajtam
 
 !

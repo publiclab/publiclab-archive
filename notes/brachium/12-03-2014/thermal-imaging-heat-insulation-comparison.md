@@ -8,11 +8,15 @@ uid: 432269
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/008/227/original/aac.png)
+
 # Thermal Imaging: Heat Insulation Comparison 
 
 by [brachium](../profile/brachium) December 03, 2014 13:05
 
 December 03, 2014 13:05 | Tags: [thermal-photography](../tag/thermal-photography), [thermal-flashlight](../tag/thermal-flashlight), [thermal-imaging](../tag/thermal-imaging), [northeastern](../tag/northeastern), [insulation](../tag/insulation), [heat](../tag/heat), [activity:thermal-flashlight](../tag/activity:thermal-flashlight), [replication:625](../tag/replication:625)
+
+----
 
 Project Contributors: Mara Berganovsky, Henry Ca, Emily Polhemus
 ###What we used

@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/027/219/original/IMG_20181024_134228.jpg)
+
 # Add a high-quality webcam to your Community Microscope kit using LEGO
 
 by [warren](../profile/warren) October 24, 2018 18:25
 
 October 24, 2018 18:25 | Tags: [kickstarter](../tag/kickstarter), [webcam](../tag/webcam), [lego](../tag/lego), [pi](../tag/pi), [seeks:replications](../tag/seeks:replications), [activity:microscope](../tag/activity:microscope), [microscopes](../tag/microscopes), [activity:microscopes](../tag/activity:microscopes), [activity:basic-microscope](../tag/activity:basic-microscope), [pi-](../tag/pi-), [community-microscope](../tag/community-microscope), [activity:lego](../tag/activity:lego), [activity:community-microscope-assembly](../tag/activity:community-microscope-assembly), [community-microscope-assembly](../tag/community-microscope-assembly), [build:lego](../tag/build:lego)
+
+----
 
 (or to another microscope, of course!)
 

@@ -8,11 +8,15 @@ uid: 1310
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/004/050/original/FABApole_publiclab.png)
+
 # Equipo barato para PAP (FABApole)
 
 by [Juan](../profile/Juan) May 05, 2014 20:22
 
 May 05, 2014 20:22 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [spain](../tag/spain), [rig](../tag/rig), [polemapping](../tag/polemapping), [pap](../tag/pap), [pole-mapping](../tag/pole-mapping), [lang:es](../tag/lang:es), [mobius](../tag/mobius), [outfit](../tag/outfit), [eu](../tag/eu)
+
+----
 
 ###Objetivo
 

@@ -8,11 +8,15 @@ uid: 9
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/035/637/original/shannon_dosemagen_img_7304_edited-1.jpg)
+
 # Job posting: Public Lab Development Associate
 
 by [Shannon](../profile/Shannon) October 03, 2019 14:32
 
 October 03, 2019 14:32 | Tags: [jobs](../tag/jobs)
+
+----
 
 **Start Date:** December 2019-January 2020
 

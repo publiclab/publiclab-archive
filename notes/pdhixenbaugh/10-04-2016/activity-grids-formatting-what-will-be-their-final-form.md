@@ -14,6 +14,8 @@ by [pdhixenbaugh](../profile/pdhixenbaugh) October 04, 2016 01:40
 
 October 04, 2016 01:40 | Tags: [activity-grids](../tag/activity-grids), [question:website](../tag/question:website), [question:website-structure](../tag/question:website-structure)
 
+----
+
 Hi all,
 
 I've got a few open questions about the new activity grid system.

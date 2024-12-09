@@ -14,6 +14,8 @@ by [warren](../profile/warren)
 
 December 07, 2010 07:07 | Tags: [lang:es](../tag/lang:es)
 
+----
+
 <style>h1 {display:none;}</style>
 <img src="https://publiclab.org/sites/default/files/plots-header.png" />
 

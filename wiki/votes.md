@@ -14,6 +14,8 @@ by [warren](../profile/warren)
 
 October 14, 2011 16:37 | Tags: 
 
+----
+
 This page lists decisions which PLOTS staff have voted on. Currently any major decision requires 70% (currently 5/6) agreement and any staff member can call for a vote. We use anonymous approval voting, which is de-anonymized after the vote is complete. Staff hiring decisions require 100% agreement (see below, April 12, 2012).
 
 ###Gulf Monitoring Consortium invitation

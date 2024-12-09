@@ -14,6 +14,8 @@ by [warren](../profile/warren), [liz](../profile/liz)
 
 March 01, 2012 17:12 | Tags: 
 
+----
+
   <div id="share">
 	<a name="fb_share" type="button_count" href="http://www.facebook.com/sharer.php">Share</a><script src="http://static.ak.fbcdn.net/connect.php/js/FB.Share" type="text/javascript"></script>  
 	<a href="http://twitter.com/share?text=Public Laboratory: Open Hardware Licensing"><img src="/img/twitter.png" /></a>

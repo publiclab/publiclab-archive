@@ -14,4 +14,6 @@ by [crispinpierce](../profile/crispinpierce) August 10, 2021 19:08
 
 August 10, 2021 19:08 | Tags: [air-quality](../tag/air-quality), [airborne](../tag/airborne), [relative-humidity](../tag/relative-humidity), [question:general](../tag/question:general), [general](../tag/general), [transmission](../tag/transmission), [covid](../tag/covid), [aerosol](../tag/aerosol)
 
+----
+
 We're interested in measuring classroom ventilation to control COVID transmission risk. While this virus (like other respiratory viruses) appears to be less viable in more humid atmospheres, these conditions are also caused by breath exhalation (gym windows and mirrors fogging up). Could measurement of increases in relative humidity indoors reflect inadequate ventilation?

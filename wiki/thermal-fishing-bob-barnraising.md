@@ -8,11 +8,15 @@ uid: 8
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/001/796/original/IMAG2366.jpg)
+
 # Thermal Fishing Bob Barnraising!!
 
 by [sara](../profile/sara), [kanarinka](../profile/kanarinka), [nicholas](../profile/nicholas)
 
 October 06, 2013 00:22 | Tags: [thermal-fishing-bob](../tag/thermal-fishing-bob)
+
+----
 
 We worked on a version of thermal fishing bob described here:
 

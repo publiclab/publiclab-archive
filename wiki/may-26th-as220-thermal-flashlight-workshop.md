@@ -14,6 +14,8 @@ by [sara](../profile/sara)
 
 May 29, 2012 20:11 | Tags: [providence](../tag/providence), [thermal-photography](../tag/thermal-photography), [as220](../tag/as220), [event](../tag/event), [parent:as220](../tag/parent:as220)
 
+----
+
 This weekend Public Lab had its first Public event in Providence Rhode Island, hosted by [[http://labs.as220.org/|AS220 Labs]].  It was a big success with each participant making their own Thermal Flashlight from scratch. A huge thanks is deserved to those who helped others trouble shoot this process particularly Byeongwon, Megan and Matt!
 
 This page is for those involved in the workshop to add photos, thoughts and reflections on the workshop.

@@ -8,11 +8,15 @@ uid: 508247
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/020/776/original/IMG_5611.JPG)
+
 # Kite Aerial Mapping for Golden Trout Camp: Exploring Techniques for Mapping in Remote Locations
 
 by [lydia123](../profile/lydia123) May 30, 2017 16:50
 
 May 30, 2017 16:50 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [kite](../tag/kite), [remote](../tag/remote), [blog](../tag/blog), [wind](../tag/wind), [ecosystem](../tag/ecosystem), [location](../tag/location)
+
+----
 
 Authors: Lydia, Conor, Jane
 Link that helped us with our project: http://kap.ced.berkeley.edu/kaptoc.html 

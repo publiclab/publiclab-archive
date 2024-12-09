@@ -3,6 +3,8 @@ uid: 8
 created_at: 2013-04-18 23:34:40 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/6a304edddfb09b8d43c6009478a37cf0)
+
 # sara
 
 Hello, I'm a cofounder of Public Lab and former Director of Toxics and Health Research. In 2012 I left Public Lab's Staff to become an Assistant Professor of Health Sciences and Sociology/Anthropology at Northeastern University. At Northeastern I'm part of developing an interdisciplinary Social Science Environmental Health Research Institute (SSEHRI). I continue to be involved in Public Lab as a researcher and organizer. 

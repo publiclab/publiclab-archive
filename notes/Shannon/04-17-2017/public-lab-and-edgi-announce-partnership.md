@@ -8,11 +8,15 @@ uid: 9
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/020/160/original/plots-logo-transparent.jpg)
+
 # Public Lab and EDGI announce partnership
 
 by [Shannon](../profile/Shannon) April 17, 2017 12:38
 
 April 17, 2017 12:38 | Tags: [nonprofit](../tag/nonprofit), [edgi](../tag/edgi)
+
+----
 
 **Public Lab and Environmental Governance and Data Initiative partner under a fiscal sponsorship and commitment to open environmental data**
 

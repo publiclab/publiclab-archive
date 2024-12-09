@@ -14,6 +14,8 @@ by [Monoxyde](../profile/Monoxyde) March 18, 2015 19:31
 
 March 18, 2015 19:31 | Tags: [question:imagej](../tag/question:imagej), [first-time-poster](../tag/first-time-poster)
 
+----
+
 Hello everyone, I bought at publiclab , a Mobius with red filter Rosco # 19 and custom White balance , to have aerial photographs NDVI .
 
 I did download of Fiji and added monitor plugin . I did some testing but I do not understand whether right or not .

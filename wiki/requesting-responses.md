@@ -14,6 +14,8 @@ by [warren](../profile/warren)
 
 February 24, 2016 20:16 | Tags: [website](../tag/website), [education](../tag/education), [list:plots-education](../tag/list:plots-education), [parent:education](../tag/parent:education)
 
+----
+
 The Responses feature of PublicLab.org now has a means to post a note requesting responses, which will only be shown on that page, instead of on the main user dashboard. 
 
 This is helpful in cases where an entire class might make postings on a specific topic, all at once -- it collects the responses in one place and sets up a button for students to click to file their assignments. 
@@ -32,5 +34,5 @@ To post a note that requests responses, click the following button. The "Post a 
 
 See examples of this here:
 
-[notes:seeks:responses]
+[seeks:responses](../../tag/seeks:responses)
 

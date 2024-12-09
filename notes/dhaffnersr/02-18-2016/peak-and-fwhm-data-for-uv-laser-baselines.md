@@ -8,11 +8,15 @@ uid: 461120
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/014/368/original/UV_405nm_peak_data_baseline_comparisons_feb17.png)
+
 # Peak and FWHM data for UV laser baselines
 
 by [dhaffnersr](../profile/dhaffnersr) February 18, 2016 13:06
 
 February 18, 2016 13:06 | Tags: 
+
+----
 
 UV (405nm) – peaks and FWHM data:
 Distilled water - BLK 

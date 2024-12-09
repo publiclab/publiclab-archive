@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/sw-copyright.png)
+
 # Open source licensing of our spectral data
 
 by [warren](../profile/warren) August 14, 2012 20:59
 
 August 14, 2012 20:59 | Tags: [spectrometer](../tag/spectrometer), [licensing](../tag/licensing)
+
+----
 
 About a year ago when we started the SpectralWorkbench.org website, this seemed like an academic question, but as our database of shared spectral data grows, I think it's time to ask what people think about how we license that data.
 

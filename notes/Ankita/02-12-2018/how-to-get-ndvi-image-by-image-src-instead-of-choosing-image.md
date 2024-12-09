@@ -14,4 +14,6 @@ by [Ankita](../profile/Ankita) February 12, 2018 08:43
 
 February 12, 2018 08:43 | Tags: [question:ndvi](../tag/question:ndvi), [question:infragram](../tag/question:infragram)
 
+----
+
 I want to convert row image to ndvi image using click on image and without using choose file

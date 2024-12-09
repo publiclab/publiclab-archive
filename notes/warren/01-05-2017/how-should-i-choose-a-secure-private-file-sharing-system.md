@@ -14,6 +14,8 @@ by [warren](../profile/warren) January 05, 2017 19:21
 
 January 05, 2017 19:21 | Tags: [security](../tag/security), [file-sharing](../tag/file-sharing), [privacy](../tag/privacy), [collaborative-tools](../tag/collaborative-tools), [question:security](../tag/question:security), [question:privacy](../tag/question:privacy), [question:file-sharing](../tag/question:file-sharing)
 
+----
+
 ### What I want to do
 
 I'd like to share files securely and privately with collaborators in certain scenarios, but it's hard to know what programs or tools are best for this. And it changes as: 

@@ -14,6 +14,8 @@ by [fongvania](../profile/fongvania), [alejobonifacio](../profile/alejobonifacio
 
 August 11, 2021 23:20 | Tags: [bioassay](../tag/bioassay), [method](../tag/method), [bioindicators](../tag/bioindicators)
 
+----
+
 <hr>
 
 ## What’s a bioindicator?
@@ -58,13 +60,13 @@ For study of soil quality, one important group used is the plants. Between the m
 
 ## Questions
 
-[questions:bioindicators]
+[bioindicators](../../tag/question:bioindicators)
 
 <br>
 
 ## Research notes
 
-[notes:bioindicators]
+[bioindicators](../../tag/bioindicators)
 
 <br>
 
@@ -76,7 +78,7 @@ For study of soil quality, one important group used is the plants. Between the m
 
 ## Activities
 
-[activities:bioindicators]
+[bioindicators](../../tag/activity:bioindicators)
 
 <br>
 <br>

@@ -14,4 +14,6 @@ by [giuliooooo](../profile/giuliooooo) January 09, 2018 11:06
 
 January 09, 2018 11:06 | Tags: [ndvi](../tag/ndvi), [ir](../tag/ir), [infragram](../tag/infragram), [question:ndvi](../tag/question:ndvi), [question:infragram](../tag/question:infragram), [question:infrared](../tag/question:infrared)
 
+----
+
 How can I have a value of NDVI starting from an IR picture? I want to find a numeric value of NDVI in pictures taken with a normal camera without IR filter. is it possible?

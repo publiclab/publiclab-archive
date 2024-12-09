@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/001/857/original/Lycopene-249-18.jpg)
+
 # Lycopene
 
 by [cfastie](../profile/cfastie) October 10, 2013 16:08
 
 October 10, 2013 16:08 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [spectrometer](../tag/spectrometer), [ndvi](../tag/ndvi), [vermont](../tag/vermont), [ebert](../tag/ebert), [absorption](../tag/absorption), [infragram](../tag/infragram), [par](../tag/par), [photosynthesis](../tag/photosynthesis), [garden](../tag/garden), [infrablue](../tag/infrablue), [leaffest2013](../tag/leaffest2013), [response:9088](../tag/response:9088), [pigments](../tag/pigments), [tomatoes](../tag/tomatoes), [red-filter](../tag/red-filter), [ndvi-ag](../tag/ndvi-ag), [activity:spectrometry](../tag/activity:spectrometry), [seeks:replications](../tag/seeks:replications), [activity:multispectral-imaging](../tag/activity:multispectral-imaging), [activity:education](../tag/activity:education), [activity:science-fair](../tag/activity:science-fair), [activity:classroom](../tag/activity:classroom), [activity:field-studies](../tag/activity:field-studies)
+
+----
 
 *Image above: Shaken and stirred, these extracts of ripe and green tomatoes get most of their color from the suspension of tiny plant bits, even after filtering through paper towels. But they served their purpose.*  
 

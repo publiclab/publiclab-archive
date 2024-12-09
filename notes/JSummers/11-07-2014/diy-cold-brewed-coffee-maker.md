@@ -8,11 +8,15 @@ uid: 304279
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/007/759/original/Picture_37.jpg)
+
 # DIY cold brewed coffee maker
 
 by [JSummers](../profile/JSummers) November 07, 2014 21:41
 
 November 07, 2014 21:41 | Tags: [coffee](../tag/coffee), [coldbrew](../tag/coldbrew)
+
+----
 
 ###What I want to do
 I want to roll out of bed and have a cup of good coffee, and I mean now, dammit! 

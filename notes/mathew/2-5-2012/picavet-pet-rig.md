@@ -8,11 +8,15 @@ uid: 4
 
 ---
 
+![](https://publiclab.org/sites/default/files/IMG_1256.JPG)
+
 # Picavet PET rig
 
 by [mathew](../profile/mathew) February 06, 2012 02:58
 
 February 06, 2012 02:58 | Tags: [activity:photo-rig](../tag/activity:photo-rig)
+
+----
 
 [A Picavet rig](http://www.kaper.us/basics/BASICS_picavet.html) is a very common type of KAP/BAP rig, I've added it to the juice bottle in a fairly simple way, using 1/2" key rings.
 

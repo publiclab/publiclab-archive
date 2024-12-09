@@ -8,11 +8,15 @@ uid: 8
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/001/900/original/Screen_Shot_2013-10-11_at_5.16.49_PM.png)
+
 # Experiments Monitoring the Everyday: Society for Social Studies of Science Workshop San Diego
 
 by [maxliboiron](../profile/maxliboiron), [holstius](../profile/holstius), [sara](../profile/sara)
 
 October 11, 2013 21:19 | Tags: [san-diego](../tag/san-diego), [workshops](../tag/workshops), [4s](../tag/4s)
+
+----
 
 [![DSC05598.JPG](https://i.publiclab.org/system/images/photos/000/001/958/medium/DSC05598.JPG)](https://i.publiclab.org/system/images/photos/000/001/958/original/DSC05598.JPG)
 

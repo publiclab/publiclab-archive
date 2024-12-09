@@ -3,6 +3,8 @@ uid: 426768
 created_at: 2014-08-12 19:01:02 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/426768/medium/100_2305.JPG)
+
 # masolaric
 
 Geologist and Earth Sciece PhD

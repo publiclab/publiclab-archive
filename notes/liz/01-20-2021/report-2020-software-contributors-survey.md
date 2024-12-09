@@ -14,6 +14,8 @@ by [liz](../profile/liz) January 20, 2021 16:10
 
 January 20, 2021 16:10 | Tags: [community](../tag/community), [developers](../tag/developers), [code](../tag/code), [evaluation](../tag/evaluation), [diversity](../tag/diversity)
 
+----
+
 NOTE: This report is truncated as compared to other annual Software Contributors Surveys due to reductions in capacity from COVID19. 
 
 Public Lab received support  from the [United Nations Foundation DIAL Open Source Center ](https://osc.dial.community) for 5 students to work on Public Lab software projects via [Google's Summer of Code program](https://summerofcode.withgoogle.com/) -- 2020 is our seventh great year of open source coding with GSoC. Also thanks to DIAL, we're again part of [Outreachy](http://outreachy.org) -- which recruits and pays software contributors to work on open source projects. These programs are a key way that we are able to develop our collaborative platform at [PublicLab.org](http://PublicLab.org), as well as other Public Lab coding projects such as MapKnitter and Image Sequencer.

@@ -8,11 +8,15 @@ uid: 431608
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/007/964/original/IMG_4356.JPG)
+
 # thermal flashlight env+tech_neu_2014
 
 by [iferrerb](../profile/iferrerb) November 17, 2014 16:09
 
 November 17, 2014 16:09 | Tags: [thermal-photography](../tag/thermal-photography), [thermal-flashlight](../tag/thermal-flashlight), [thermal-imaging](../tag/thermal-imaging), [northeastern](../tag/northeastern), [insulation](../tag/insulation), [heat](../tag/heat), [replication:625](../tag/replication:625)
+
+----
 
 Jordi Ariel Lotito, Isabella Ferrer, Emily Krebs
 [![IMG_4355.JPG](https://i.publiclab.org/system/images/photos/000/007/958/medium/IMG_4355.JPG)](https://i.publiclab.org/system/images/photos/000/007/958/original/IMG_4355.JPG)

@@ -3,6 +3,8 @@ uid: 47284
 created_at: 2013-09-09 16:14:00 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/47284/medium/Cspectrumsm.jpg)
+
 # ephemeralwaves
 
 My name is Giselle and I'm based in Pittsburgh.  My interests include public science and data collecting with free and open source tools.  I've contributed to the thermal photography project on github and have promoted Public Lab projects at Assemble PGH and Copyleft Gallery. 

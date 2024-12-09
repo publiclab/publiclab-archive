@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/011/562/original/LEAF2014_210.jpg)
+
 # LEAFFEST 2015
 
 by [cfastie](../profile/cfastie) September 13, 2015 03:48
 
 September 13, 2015 03:48 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [spectrometer](../tag/spectrometer), [vermont](../tag/vermont), [oil-spill-toolkit](../tag/oil-spill-toolkit), [leaffest](../tag/leaffest), [event](../tag/event), [infragram](../tag/infragram), [northeast](../tag/northeast), [response:11076](../tag/response:11076), [leaffest2015](../tag/leaffest2015)
+
+----
 
 *Above: The third annual LEAFFEST (2014)*  
 

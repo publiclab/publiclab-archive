@@ -8,11 +8,15 @@ uid: 422561
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/022/414/original/20170304_132424.jpg)
+
 # Host a Goal Setting Workshop 
 
 by [stevie](../profile/stevie) November 14, 2017 21:32
 
 November 14, 2017 21:32 | Tags: [workshop](../tag/workshop), [event](../tag/event), [organizing](../tag/organizing), [goal-setting](../tag/goal-setting), [getting-started](../tag/getting-started), [advocacy](../tag/advocacy), [collaborative-tools](../tag/collaborative-tools), [community-organizing](../tag/community-organizing), [goal](../tag/goal), [activity:community-organizing](../tag/activity:community-organizing), [activity:getting-started](../tag/activity:getting-started), [community-meeting](../tag/community-meeting), [activity:organizing](../tag/activity:organizing), [activity:advocacy](../tag/activity:advocacy), [start-advocacy](../tag/start-advocacy)
+
+----
 
 ## About this workshop: 
 

@@ -8,11 +8,15 @@ uid: 133222
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/000/569/original/Picnic_House_Prospect_Park.jpg)
+
 # First YouthCaN Trial Kite Mapping
 
 by [jholmes5](../profile/jholmes5) June 23, 2013 13:22
 
 June 23, 2013 13:22 | Tags: [new-york-city](../tag/new-york-city), [kite-mapping](../tag/kite-mapping), [first-time-poster](../tag/first-time-poster)
+
+----
 
 June 22, 2013
 Prospect Park, Long Meadow, Brooklyn, NY

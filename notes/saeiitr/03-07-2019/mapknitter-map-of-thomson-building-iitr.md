@@ -14,6 +14,8 @@ by [saeiitr](../profile/saeiitr) March 07, 2019 21:27
 
 March 07, 2019 21:27 | Tags: [mapknitter](../tag/mapknitter), [lat:29.8542626](../tag/lat:29.8542626), [lon:77.8880002](../tag/lon:77.8880002)
 
+----
+
 <iframe src="https://mapknitter.org/embed/thomson-building-iitr" style="border:none" width="100%" height="400px"></iframe>  
   
   

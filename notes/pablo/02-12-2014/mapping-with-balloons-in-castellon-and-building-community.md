@@ -8,11 +8,15 @@ uid: 160
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/002/895/original/IMG_1303.jpg)
+
 # Mapping with balloons in Castellón and building community (results)
 
 by [pablo](../profile/pablo) February 12, 2014 22:30
 
 February 12, 2014 22:30 | Tags: [balloon-mapping](../tag/balloon-mapping), [wetlands](../tag/wetlands), [spain](../tag/spain), [events:spain](../tag/events:spain), [replication:14022](../tag/replication:14022)
+
+----
 
 ###What we want to do
 At [Basurama](http://basurama.org) we were invited to participate in an art exhibition in the EACC (Castellón), and [we develop a project to fit the exhibition and our purposes](http://publiclab.org/notes/pablo/01-10-2014/balloon-mapping-workshop-in-castellon-spain-opening-a-local-chapter): we wanted to start a local chapter of balloon&kite mappers in Spain and awake the inactive [email list in Spanish](https://groups.google.com/forum/#!forum/laboratoriopublico). To fulfill our goals we organized a 3 day workshop with local groups to produce 3 local maps (January 31st - february 2nd). 

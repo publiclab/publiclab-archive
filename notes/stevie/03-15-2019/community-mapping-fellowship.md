@@ -8,11 +8,15 @@ uid: 422561
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/030/090/original/20141213_125947.jpg)
+
 # Community Mapping Fellowship
 
 by [stevie](../profile/stevie) March 15, 2019 16:18
 
 March 15, 2019 16:18 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [mapping](../tag/mapping), [fellows](../tag/fellows), [fellowship](../tag/fellowship), [job](../tag/job), [map](../tag/map)
+
+----
 
 **When:** April 5th - June 30th </br>
 **Where:** This fellowship is not geographically restricted (_*note on the time commitment below_),  </br>

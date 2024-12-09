@@ -14,6 +14,8 @@ by [patcoyle](../profile/patcoyle) April 01, 2012 03:27
 
 April 01, 2012 03:27 | Tags: [balloon-telemetry-kit](../tag/balloon-telemetry-kit), [telemetry](../tag/telemetry), [camera-triggering](../tag/camera-triggering), [iphone-intervalometer](../tag/iphone-intervalometer), [photo-rig](../tag/photo-rig)
 
+----
+
 I've wanted to try to fly a smart phone with gps and other sensor data acquisition capability along with a visible and IR camera to be able to post-process the gps and other sensor data to  match it to the images taken with the other cameras by time-stamp. 
 
 <img src="https://www.flickr.com/photos/coylepdc/6887621342/" alt="3-camera housing" />

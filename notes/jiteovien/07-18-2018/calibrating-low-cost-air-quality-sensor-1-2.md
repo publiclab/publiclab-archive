@@ -8,11 +8,15 @@ uid: 540008
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/025/744/original/aq.jpg)
+
 # Calibrating low cost air quality sensor (1/2)
 
 by [jiteovien](../profile/jiteovien) July 18, 2018 18:57
 
 July 18, 2018 18:57 | Tags: [arduino](../tag/arduino), [calibration](../tag/calibration), [air-quality](../tag/air-quality), [pollution](../tag/pollution), [dustduino](../tag/dustduino), [dust](../tag/dust), [autodesk](../tag/autodesk), [location:blurred](../tag/location:blurred), [air-sensors](../tag/air-sensors), [purpleair](../tag/purpleair), [lat:-32](../tag/lat:-32), [lon:-68](../tag/lon:-68), [purple-air](../tag/purple-air), [zoom:6](../tag/zoom:6), [place:argentina](../tag/place:argentina)
+
+----
 
 Hello, my name is Ufuoma and I am interning with Public Lab this summer from the Providence office. I wanted to share my summer project on air quality with the hope of getting feedback and/or collaborators and also to learn about related work!
 

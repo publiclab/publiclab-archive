@@ -8,11 +8,15 @@ uid: 495038
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/038/020/original/1.jpg)
+
 # Guia de mapeo colectivo con globos y cometas en español
 
 by [imvec](../profile/imvec) February 08, 2020 18:16
 
 February 08, 2020 18:16 | Tags: [kap](../tag/kap), [guide](../tag/guide), [tool](../tag/tool), [lang:es](../tag/lang:es), [booklet](../tag/booklet), [pocket-guide](../tag/pocket-guide), [ballon-mapping](../tag/ballon-mapping), [agricultural](../tag/agricultural), [spanish](../tag/spanish), [cosquin](../tag/cosquin), [glifosato](../tag/glifosato), [guia](../tag/guia)
+
+----
 
 ### ¿Qué es esto?
 Guía de mapeo colectivo con globos y cometas traducida del original en inglés. 

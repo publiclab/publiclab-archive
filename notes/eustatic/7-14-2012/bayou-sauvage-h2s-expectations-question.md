@@ -8,11 +8,15 @@ uid: 379
 
 ---
 
+![](https://publiclab.org/sites/default/files/h2s hypothesis hole.JPG)
+
 # Bayou Sauvage H2S expectations, question 
 
 by [eustatic](../profile/eustatic) July 14, 2012 20:33
 
 July 14, 2012 20:33 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing)
+
+----
 
 See:
 http://publiclaboratory.org/notes/sara/7-13-2012/bayou-sauvage-results-2-reflections-fixing-process

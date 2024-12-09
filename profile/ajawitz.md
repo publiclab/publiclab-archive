@@ -3,6 +3,8 @@ uid: 294634
 created_at: 2013-10-03 16:43:17 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/294634/medium/AndrewKite.jpg)
+
 # ajawitz
 
  Founder of Code for Maine and a Captain in the Code for America Brigade program since 2012.  

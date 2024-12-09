@@ -8,11 +8,15 @@ uid: 664477
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/045/341/original/Kentucky_mine_runoff.jpg)
+
 # Launching a research area review on mine reclamation
 
 by [bhamster](../profile/bhamster) January 31, 2022 16:17
 
 January 31, 2022 16:17 | Tags: [mining](../tag/mining), [land-use](../tag/land-use), [reviews](../tag/reviews), [research-area-review](../tag/research-area-review), [reclamation](../tag/reclamation), [with:laurel_mire](../tag/with:laurel_mire), [mine-reclamation](../tag/mine-reclamation), [land-rehabilitation](../tag/land-rehabilitation)
+
+----
 
 _Image: Reclaimed mining land in Kentucky. From [iLoveMountains.org](https://www.flickr.com/photos/nationalmemorialforthemountains/4534742719), [CC BY](https://creativecommons.org/licenses/by/2.0/)_
 

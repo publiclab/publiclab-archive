@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/035/453/original/Screen_Shot_2019-09-26_at_12.59.01_PM.png)
+
 # Article comparing the effectiveness of recently passed lead exposure reduction laws
 
 by [liz](../profile/liz) September 26, 2019 17:34
 
 September 26, 2019 17:34 | Tags: [housing](../tag/housing), [legal](../tag/legal), [lead](../tag/lead), [law-and-policy](../tag/law-and-policy)
+
+----
 
 Very good article that compares, contrasts, and analyzes the effectiveness of housing-based primary prevention policies—laws that aim to identify and fix lead hazards before children become poisoned—including a look at the context surrounding their implementation: 
 

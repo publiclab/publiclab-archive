@@ -3,6 +3,8 @@ uid: 524965
 created_at: 2018-02-12 19:46:30 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/11e94b950ba63c3d13d5e584ae92fed0)
+
 # SBucic
 
 

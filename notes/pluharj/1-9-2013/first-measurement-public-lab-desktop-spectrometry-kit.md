@@ -8,11 +8,15 @@ uid: 46812
 
 ---
 
+![](https://publiclab.org/sites/default/files/_IGP4545.jpg)
+
 # First Measurement with Public Lab Desktop Spectrometry Kit
 
 by [pluharj](../profile/pluharj) January 09, 2013 18:16
 
 January 09, 2013 18:16 | Tags: [spectrometer](../tag/spectrometer), [dsk](../tag/dsk), [unboxing](../tag/unboxing)
+
+----
 
 I have decided to upload and share some of my first spectra taken within the first day of using the Kickstarter kit.
 

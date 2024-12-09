@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/014/078/original/IMG_20160204_124718.jpg)
+
 # Tube fluorescent lamps for spectrometer calibration
 
 by [warren](../profile/warren) February 04, 2016 18:12
 
 February 04, 2016 18:12 | Tags: [spectrometer](../tag/spectrometer), [calibration](../tag/calibration), [spectral-workbench](../tag/spectral-workbench), [response:12258](../tag/response:12258), [response:12270](../tag/response:12270)
+
+----
 
 ###What I want to do
 

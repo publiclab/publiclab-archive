@@ -8,11 +8,15 @@ uid: 648822
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/037/396/original/green-algae-background_%281%29.jpg)
+
 # Lawn Fertilizer Runoff Causes Algae Bloom Locally and Contributes to Global Issues
 
 by [Dave](../profile/Dave) January 02, 2020 19:24
 
 January 02, 2020 19:24 | Tags: [water-quality](../tag/water-quality), [water](../tag/water), [algae](../tag/algae), [clay](../tag/clay), [phosphorus](../tag/phosphorus), [runoff](../tag/runoff), [fertilizer](../tag/fertilizer), [issue-brief](../tag/issue-brief), [nitrogen](../tag/nitrogen), [first-time-poster](../tag/first-time-poster), [lawns](../tag/lawns), [gulf-of-mexico](../tag/gulf-of-mexico), [homeowners](../tag/homeowners)
+
+----
 
 ### 
 
@@ -83,4 +87,4 @@ sensors available to help measure and quantify the issue? If not, does
 anyone have ideas on how to develop a low cost sensor to measure phosphorus
 and/or nitrogen?
 
-[questions:algae]
+[algae](../../tag/question:algae)

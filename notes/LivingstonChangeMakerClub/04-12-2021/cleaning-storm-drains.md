@@ -14,6 +14,8 @@ by [LivingstonChangeMakerClub](../profile/LivingstonChangeMakerClub) April 12, 2
 
 April 12, 2021 17:02 | Tags: [gulf-coast](../tag/gulf-coast), [new-orleans](../tag/new-orleans), [stormwater](../tag/stormwater), [lousiana](../tag/lousiana), [drains](../tag/drains), [issue-brief](../tag/issue-brief), [infrastructure](../tag/infrastructure), [first-time-poster](../tag/first-time-poster), [catch-basin](../tag/catch-basin), [lat:29.951065](../tag/lat:29.951065), [lon:-90.071532](../tag/lon:-90.071532), [zoom:5](../tag/zoom:5)
 
+----
+
 ### Introduction:
 
 In New Orleans we have floods, one of the biggest concerns about floods can be littering, why? Well, because it literally causes stock up drains which gives water no place to go. Another cause of drain stocked up because of leaves and trash. This can be a problem because this can damage houses, cars, it can carry things from place to place so the biggest picture is, how can this be fixed.

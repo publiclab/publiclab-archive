@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/004/092/original/IMG_2379.JPG)
+
 # Prospect Park spring mapping project
 
 by [liz](../profile/liz) May 06, 2014 21:25
 
 May 06, 2014 21:25 | Tags: [new-york-city](../tag/new-york-city), [gowanus](../tag/gowanus), [event](../tag/event), [prospect-park](../tag/prospect-park), [glam](../tag/glam), [groundwater](../tag/groundwater), [spring](../tag/spring)
+
+----
 
 **This note is posted on behalf of [Eymund](/profile/eymund).**
 

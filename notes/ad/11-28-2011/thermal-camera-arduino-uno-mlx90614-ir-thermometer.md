@@ -8,11 +8,15 @@ uid: 373
 
 ---
 
+![](https://publiclab.org/sites/default/files/ThermCam pic.jpg)
+
 # Thermal Camera: Arduino UNO + MLX90614 IR Thermometer
 
 by [ad](../profile/ad) November 28, 2011 22:19
 
 November 28, 2011 22:19 | Tags: [thermal-photography](../tag/thermal-photography), [arduino](../tag/arduino), [thermal-flashlight](../tag/thermal-flashlight)
+
+----
 
 I did the following steps: 
 

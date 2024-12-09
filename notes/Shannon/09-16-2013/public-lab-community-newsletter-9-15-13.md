@@ -8,11 +8,15 @@ uid: 9
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/001/571/original/plots-logo-transparent.jpg)
+
 # Public Lab community newsletter 9.15.13
 
 by [Shannon](../profile/Shannon) September 16, 2013 02:30
 
 September 16, 2013 02:30 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
+
+----
 
 In the newsletter this week, check out updates from Google Summer of Code projects, browse the work done on near-infrared imaging at LEAFFEST and get ready for the 2013 Public Lab Barnraising. Enjoy!
 

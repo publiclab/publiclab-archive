@@ -14,5 +14,7 @@ by [shinnen](../profile/shinnen) December 12, 2018 18:32
 
 December 12, 2018 18:32 | Tags: [hardware](../tag/hardware), [sd100](../tag/sd100)
 
+----
+
 Has anyone had any experience converting the SD1000 to infra-red?  
 .... john

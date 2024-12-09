@@ -8,11 +8,15 @@ uid: 422561
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/013/741/original/IMG_7729.JPG)
+
 # Frac Sand Mining: The community fight 
 
 by [stevie](../profile/stevie) January 21, 2016 17:52
 
 January 21, 2016 17:52 | Tags: [wisconsin](../tag/wisconsin), [air-quality](../tag/air-quality), [blog](../tag/blog), [frac-sand](../tag/frac-sand), [barnstar:basic](../tag/barnstar:basic), [stories](../tag/stories), [fracsand](../tag/fracsand), [parent:frac-sand](../tag/parent:frac-sand), [story](../tag/story), [with:pat](../tag/with:pat), [parent:the-sand-sentinel-program](../tag/parent:the-sand-sentinel-program), [reclamation](../tag/reclamation)
+
+----
 
 This morning @Pat Popple, Public Lab Organizer from Chippewa County WI, posted a presentation in her online publication the [Frac Sand Sentinel](https://wisair.wordpress.com/frac-sand-sentinel/).  The presentation was given by community member and landowner, Johnne Smalley, at the Chippewa County’s Land Conservation and Forestry Department’s monthly meeting. 
 

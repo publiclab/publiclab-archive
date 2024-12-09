@@ -8,9 +8,13 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/infrared-mod.jpg)
+
 # Infrared photography sketches
 
 by [warren](../profile/warren) February 06, 2012 22:55
 
 February 06, 2012 22:55 | Tags: 
+
+----
 

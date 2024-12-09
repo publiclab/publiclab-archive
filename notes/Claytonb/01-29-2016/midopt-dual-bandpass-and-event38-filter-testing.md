@@ -8,11 +8,15 @@ uid: 460246
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/014/002/original/Nice_Calibrated_Image.jpg)
+
 # MidOpt Dual Bandpass and Event38 filter testing
 
 by [Claytonb](../profile/Claytonb) January 29, 2016 17:34
 
 January 29, 2016 17:34 | Tags: [ndvi](../tag/ndvi), [infrared](../tag/infrared), [filter](../tag/filter), [infragram](../tag/infragram), [plant-health](../tag/plant-health), [dualband](../tag/dualband), [midopt](../tag/midopt), [response:12442](../tag/response:12442), [first-time-poster](../tag/first-time-poster)
+
+----
 
  I recently had Jason Dougherty with Midwest Optical Systems ([MidOpt](http://midopt.com/filters/dual-bandpass/)) send me some of their new Dual Bandpass filters and wanted to share some of the results and get any input. My application is in crop imaging and NDVI processing. I have been using the Event38 NGB filter ([Event38](https://event38.com/product/custom-ngb-filter-glass-for-diy-camera-conversion/)) which is a cutoff filter that filters out the red light and passes near infrared instead. The blue and green channels collect their light respectively along with NIR. It has a very wide color band. The Dual Bandpass filters have a much narrower bands and are centered at specified wavelengths with the visible channel collecting NIR as well. These are two different types of filters but I thought I would compare them with each other. The MidOpt DB 475/850 more closely matches the Event38 filter in terms of band usage.
 The filters are mounted internally in Canon S100’s in place of the original IR filter. The Event38 filter size is 8.9X7.9X0.5 mm and the MidOpt filters are 8.9X7.9X1 mm. Both filters are thicker than the factory IR filter. The sensor screws are backed out approximately ¾ turn each from the factory position after replacing the factory IR filter and then fine adjusted in order to correct focus.

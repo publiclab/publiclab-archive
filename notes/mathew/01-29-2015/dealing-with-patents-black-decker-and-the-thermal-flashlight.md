@@ -8,11 +8,15 @@ uid: 4
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/008/764/original/Screen_Shot_2015-01-29_at_10.53.48_AM.png)
+
 # dealing with patents: Black & Decker and the Thermal Flashlight
 
 by [mathew](../profile/mathew) January 29, 2015 18:56
 
 January 29, 2015 18:56 | Tags: [thermal-photography](../tag/thermal-photography), [thermal-flashlight](../tag/thermal-flashlight), [thermal-camera](../tag/thermal-camera), [question:patent](../tag/question:patent), [question:thermal-flashlight](../tag/question:thermal-flashlight)
+
+----
 
 **Update:** actually, [Black & Decker came up with this idea first](http://www.geek.com/gadgets/thermal-leak-detector-finds-those-cold-spots-in-your-house-this-winter-638812/) and we just hadn't seen the thing :-(
 

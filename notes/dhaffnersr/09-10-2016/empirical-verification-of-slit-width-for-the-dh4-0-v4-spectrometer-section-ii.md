@@ -8,11 +8,15 @@ uid: 461120
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/018/000/original/horizontal_view_sept_9.png)
+
 # Empirical Verification Of Slit Width For The DH4.0 v4 Spectrometer Section II
 
 by [dhaffnersr](../profile/dhaffnersr) September 10, 2016 06:51
 
 September 10, 2016 06:51 | Tags: 
+
+----
 
 ##**Verification through quality control check procedures**
 

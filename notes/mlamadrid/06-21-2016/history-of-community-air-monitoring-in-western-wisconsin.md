@@ -8,11 +8,15 @@ uid: 45586
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/016/694/original/P_20160520_153314_HDR_copy.jpg)
+
 # History of Community Air Monitoring in Western Wisconsin
 
 by [mlamadrid](../profile/mlamadrid) June 21, 2016 20:23
 
 June 21, 2016 20:23 | Tags: [wisconsin](../tag/wisconsin), [air-quality](../tag/air-quality), [frac-sand](../tag/frac-sand), [with:mathew](../tag/with:mathew), [parent:frac-sand](../tag/parent:frac-sand), [communityscienceforum](../tag/communityscienceforum), [air-sensors](../tag/air-sensors)
+
+----
 
 Article by [Mathew Lippincott](https://publiclab.org/profile/mathew) for [Community Science Forum: Sand-Frac Issue](https://publiclab.org/forum).
 

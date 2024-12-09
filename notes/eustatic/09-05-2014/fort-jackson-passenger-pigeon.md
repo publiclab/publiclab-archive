@@ -8,11 +8,15 @@ uid: 379
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/006/622/original/richie_blink_fort_jackson_2014.png)
+
 # Fort Jackson Passenger Pigeon
 
 by [eustatic](../profile/eustatic) September 05, 2014 19:06
 
 September 05, 2014 19:06 | Tags: [gulf-coast](../tag/gulf-coast), [mapknitter](../tag/mapknitter), [passenger-pigeon](../tag/passenger-pigeon)
+
+----
 
 ###What I want to do
 

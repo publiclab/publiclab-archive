@@ -8,11 +8,15 @@ uid: 501996
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/024/355/original/raspberry_pi_microscope_lens.jpg)
+
 # Raspberry Pi Microscope/close up lens system
 
 by [MaggPi](../profile/MaggPi) April 08, 2018 07:09
 
 April 08, 2018 07:09 | Tags: [webcam](../tag/webcam), [raspberry-pi](../tag/raspberry-pi), [gsoc](../tag/gsoc), [barnstar:basic](../tag/barnstar:basic), [python](../tag/python), [microscope](../tag/microscope), [pi-camera](../tag/pi-camera), [soc](../tag/soc), [gsoc-2018](../tag/gsoc-2018), [soc-2018](../tag/soc-2018), [pi-microscope](../tag/pi-microscope), [camera-comparison](../tag/camera-comparison), [series:community-microscope-tests](../tag/series:community-microscope-tests)
+
+----
 
 **![Raspberry Pi Microscope/close up lens system][1]** 
 

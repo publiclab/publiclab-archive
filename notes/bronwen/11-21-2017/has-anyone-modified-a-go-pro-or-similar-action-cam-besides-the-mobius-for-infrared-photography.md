@@ -14,4 +14,6 @@ by [Bronwen](../profile/Bronwen) November 21, 2017 19:17
 
 November 21, 2017 19:17 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [infrared](../tag/infrared), [answered](../tag/answered), [question:general](../tag/question:general)
 
+----
+
 With the greater availability (and lower cost) of the action cams on the market, I'm wondering if there is anyone who has taken one apart to modify for IR photos.

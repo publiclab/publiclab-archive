@@ -8,11 +8,15 @@ uid: 451390
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/015/557/original/IMG_1807.JPG)
+
 # Centerville, the town at the crest of the Richest Hill on Earth
 
 by [Paddy](../profile/Paddy) April 15, 2016 14:55
 
 April 15, 2016 14:55 | Tags: [first-time-poster](../tag/first-time-poster)
+
+----
 
 ###What I want to do: Record the history from 1866 when the first people were recorded in Centerville through the present.
 

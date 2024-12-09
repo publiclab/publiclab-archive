@@ -8,11 +8,15 @@ uid: 422561
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/015/825/original/Screen_Shot_2016-04-27_at_12.34.51_PM.png)
+
 # Depth Sensor Build!
 
 by [stevie](../profile/stevie) May 04, 2016 16:41
 
 May 04, 2016 16:41 | Tags: [gulf-coast](../tag/gulf-coast), [event](../tag/event), [neworleans](../tag/neworleans), [depth](../tag/depth), [event:gulf-coast](../tag/event:gulf-coast)
+
+----
 
 _Background image above credit to the New Orleans Advocate, John McCusker_
 

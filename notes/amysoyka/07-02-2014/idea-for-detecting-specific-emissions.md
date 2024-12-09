@@ -8,11 +8,15 @@ uid: 422627
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/005/080/original/absorbption.png)
+
 # Idea For Detecting Specific Emissions.
 
 by [amysoyka](../profile/amysoyka) July 02, 2014 12:34
 
 July 02, 2014 12:34 | Tags: [spectrometry](../tag/spectrometry), [emission-spectroscopy](../tag/emission-spectroscopy), [list:plots-spectrometry](../tag/list:plots-spectrometry), [emissions](../tag/emissions), [gas](../tag/gas)
+
+----
 
 ###What I want to do
 

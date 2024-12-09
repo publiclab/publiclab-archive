@@ -14,6 +14,8 @@ by [Shannon](../profile/Shannon) April 26, 2012 21:56
 
 April 26, 2012 21:56 | Tags: [community](../tag/community)
 
+----
+
 Initially sent to the "PLOTS-team" email list...
 
 At the staff meeting in Oakland two weeks ago, we discussed expanding and formalizing the Public Lab "team" email list to include a wider range of people that are both key organizers in their communities and key contributors to the Public Lab community through work on things such as the website and communications. We’re interested in figuring out the best way to go about re-launching the “team” list as an “organizers” list (at the email address “plots-organizers@googlegroups.com”), but would like to ensure that the list will continue to include people who are actively involved in the Public Lab community, either online or offline in their own communities.

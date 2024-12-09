@@ -8,11 +8,15 @@ uid: 516343
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/024/913/original/Screen_Shot_2018-05-12_at_2.02.16_PM.png)
+
 # Summer of code with Public Lab
 
 by [sagarpreet](../profile/sagarpreet) May 12, 2018 09:24
 
 May 12, 2018 09:24 | Tags: 
+
+----
 
 Hi all :)
 

@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/006/895/original/IMG_1883.jpg)
+
 # LEAFFEST aerials
 
 by [cfastie](../profile/cfastie) September 19, 2014 02:58
 
 September 19, 2014 02:58 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [vermont](../tag/vermont), [infrared](../tag/infrared), [uav](../tag/uav), [leaffest](../tag/leaffest), [event](../tag/event), [infragram](../tag/infragram), [uav-mapping](../tag/uav-mapping), [super-red](../tag/super-red), [gigapan](../tag/gigapan), [northeast](../tag/northeast), [leaffest2014](../tag/leaffest2014), [response:11152](../tag/response:11152)
+
+----
 
 *Image above: Teddy and the Iris with the radio remote transmitter (bottom center), and his laptop which received data from the Iris during the flight. Photo from the S100 Infragram.*  
 .  

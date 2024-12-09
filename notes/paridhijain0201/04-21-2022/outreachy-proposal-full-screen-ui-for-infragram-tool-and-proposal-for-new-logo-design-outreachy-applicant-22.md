@@ -8,11 +8,15 @@ uid: 795873
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/046/321/original/thumbnail.png)
+
 # Outreachy proposal: Full Screen UI for Infragram Tool and proposal for new logo design [ Outreachy Applicant'22 ]
 
 by [paridhijain0201](../profile/paridhijain0201) April 21, 2022 15:57
 
 April 21, 2022 15:57 | Tags: [software](../tag/software), [outreachy](../tag/outreachy), [first-time-poster](../tag/first-time-poster), [outreachy-2022](../tag/outreachy-2022), [outreachy-summer-2022](../tag/outreachy-summer-2022)
+
+----
 
 ## About me
 

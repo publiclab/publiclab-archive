@@ -3,6 +3,8 @@ uid: 496384
 created_at: 2016-11-04 20:15:34 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/f81a5e9366904b70b4c0088656773846)
+
 # DavidStought3
 
 I am here to learn

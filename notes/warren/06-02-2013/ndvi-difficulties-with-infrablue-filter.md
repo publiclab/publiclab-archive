@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/000/463/original/IMG_1222.JPG)
+
 # NDVI difficulties with infrablue filter
 
 by [warren](../profile/warren) June 02, 2013 14:55
 
 June 02, 2013 14:55 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [somerville-massachusetts](../tag/somerville-massachusetts), [kite-mapping](../tag/kite-mapping), [ndvi](../tag/ndvi), [boston](../tag/boston), [infragram](../tag/infragram), [infragram-filters](../tag/infragram-filters)
+
+----
 
 Some folks at [the pirateship](http://p.irateship.com) and I used a Roscoe 2008 filter which had not been very well white balanced to take some aerial photos of our building and neighborhood, but I found that the resulting NDVI images (made with Ned Horning's [Photo Monitoring plugin](/wiki/photo-monitoring-plugin)) didn't work very well -- the trees and lawn did not display with high NDVI values. What's the problem? Can I do a better post-white-balancing to recover useful data? 
 

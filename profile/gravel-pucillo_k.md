@@ -3,6 +3,8 @@ uid: 640329
 created_at: 2019-11-22 19:13:36 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/83a3d967a6a32e42aac7c05e082d923d)
+
 # gravel-pucillo_k
 
 

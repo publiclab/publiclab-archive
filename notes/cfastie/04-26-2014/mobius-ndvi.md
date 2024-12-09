@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/003/868/original/Setup-15anno.jpg)
+
 # Mobius NDVI
 
 by [cfastie](../profile/cfastie) April 26, 2014 14:33
 
 April 26, 2014 14:33 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [vermont](../tag/vermont), [infrared](../tag/infrared), [white-balance](../tag/white-balance), [infragram](../tag/infragram), [mobius-actioncam](../tag/mobius-actioncam), [wratten25a](../tag/wratten25a), [super-red](../tag/super-red), [mobius](../tag/mobius), [msetup](../tag/msetup), [response:10353](../tag/response:10353), [activity:multispectral-imaging](../tag/activity:multispectral-imaging), [activity:infragram](../tag/activity:infragram)
+
+----
 
 *Above: It should be pretty easy for a DIY NDVI image to differentiate between things in this scene that are green plants and things that are not.*
 

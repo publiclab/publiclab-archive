@@ -8,11 +8,15 @@ uid: 4
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/004/051/original/IMAG1291.JPG)
+
 # Infragrams from a Quadcopter
 
 by [mathew](../profile/mathew) May 05, 2014 20:04
 
 May 05, 2014 20:04 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [infrared](../tag/infrared), [infragram](../tag/infragram), [quadcopter](../tag/quadcopter), [drone](../tag/drone), [hooperfly](../tag/hooperfly)
+
+----
 
 ###What I want to do
 go flying on a friday morning.  Not enough wind for a kite today.  We did try putting a Redstone Rig up on a [hooperfly quadcopter](http://hooperfly.com).

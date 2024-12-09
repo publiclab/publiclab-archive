@@ -8,11 +8,15 @@ uid: 237313
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/031/002/original/IMG_5076.JPG)
+
 # Environmental Emergency Response Toolkit
 
 by [Bronwen](../profile/Bronwen)
 
 April 04, 2019 12:29 | Tags: [parent:barnraising-texas-2019](../tag/parent:barnraising-texas-2019)
+
+----
 
 #### This wiki page is being developed! Please help us build it by contributing here, asking questions, or posting notes/activities on this topic. 
 
@@ -46,18 +50,18 @@ We're working with the Public Lab community to develop a set of tools that can h
 
 #### Activities
 
-[activities:emergency-response]
-[activities:emergency-response-kit]
-[activities:environmental-emergency-response-kit]
+[emergency-response](../../tag/activity:emergency-response)
+[emergency-response-kit](../../tag/activity:emergency-response-kit)
+[environmental-emergency-response-kit](../../tag/activity:environmental-emergency-response-kit)
 
 
 ****
 
 #### Questions
 
-[questions:emergency-response]
-[questions:emergency-response-kit]
-[questions:environmental-emergency-response-kit]
+[emergency-response](../../tag/question:emergency-response)
+[emergency-response-kit](../../tag/question:emergency-response-kit)
+[environmental-emergency-response-kit](../../tag/question:environmental-emergency-response-kit)
 
 
 ****

@@ -14,6 +14,8 @@ by [liz](../profile/liz)
 
 May 15, 2019 19:20 | Tags: 
 
+----
+
 Ahead of the Barnraising, attention was focused on pre/post sampling kits to collect environmental evidence of damage. At the Barnraising, people focused on communications hardware, social organizing methods like “set up a phone tree”, “choose your evacuation center”, as well as food access and health protection. See:  https://publiclab.org/notes/Bronwen/04-04-2019/texas-barnraising-brainstorming-the-emergency-response-toolkit
 
 * Let's make a proposal about what will go "in the box" (not a physical box, apparently)

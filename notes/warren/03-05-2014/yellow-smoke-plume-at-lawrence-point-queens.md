@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/003/138/original/IMG_0807_copy.JPG)
+
 # Yellow smoke plume at Lawrence Point, Queens
 
 by [warren](../profile/warren) March 05, 2014 16:22
 
 March 05, 2014 16:22 | Tags: [new-york-city](../tag/new-york-city), [queens](../tag/queens), [plume](../tag/plume), [watchdog](../tag/watchdog), [smokestack](../tag/smokestack)
+
+----
 
 Yesterday, I was riding the Amtrak train past Lawrence Point in Queens, NY, and saw twin smokestacks emitting clouds. But one of them had a distinctly yellow color. What's up with that? I wonder if we could measure an absorption line [with our spectrometers](/wiki/refinery-watching) in the sunlight going through that plume. 
 

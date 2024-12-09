@@ -14,6 +14,8 @@ by [warren](../profile/warren)
 
 February 27, 2012 15:16 | Tags: [lima](../tag/lima), [balloon-mapping](../tag/balloon-mapping), [peru](../tag/peru), [curriculum](../tag/curriculum), [classroom](../tag/classroom), [lang:es](../tag/lang:es), [cedro](../tag/cedro)
 
+----
+
 _Version en castellano; para la version ingles, mira [CEDRO Grassroots Mapping Curriculum](/wiki/cedro-grassroots-mapping-curriculum)_
 
 Después de trabajar como voluntario o asistente con los estudiantes por unos pocos dias para encontrarnos con ellos y conocerlos mejor, trabajaremos con ellos en dibujar una primera mapa del pueblo. Primero, los estudiantes pueden dibujar con lapices mapas individuales de su area de la comunidad. Despues podemos medir distancias y areas con una tela marcado en metros. Esto presenta una oportunidad de usar algo de geometria para ninos mas jovenes. 

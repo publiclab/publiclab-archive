@@ -8,11 +8,15 @@ uid: 148271
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/003/210/original/exposures.jpg)
+
 # GSoC Proposal SpectralWorkbench
 
 by [PascalW](../profile/PascalW) March 11, 2014 19:50
 
 March 11, 2014 19:50 | Tags: [spectrometer](../tag/spectrometer), [calibration](../tag/calibration), [image-processing](../tag/image-processing), [spectralworkbench](../tag/spectralworkbench), [neon](../tag/neon), [gsoc](../tag/gsoc), [hdr](../tag/hdr), [gsoc-2014](../tag/gsoc-2014), [germany](../tag/germany), [first-time-poster](../tag/first-time-poster)
+
+----
 
 ###GsoC Proposal
 

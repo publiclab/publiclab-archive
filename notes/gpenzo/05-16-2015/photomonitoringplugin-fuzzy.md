@@ -8,11 +8,15 @@ uid: 420719
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/009/911/original/vis_36_NDVI_Float.bmp)
+
 # PhotoMonitoringPlugin fuzzy
 
 by [gpenzo](../profile/gpenzo) May 16, 2015 08:39
 
 May 16, 2015 08:39 | Tags: [ndvi](../tag/ndvi), [qgis](../tag/qgis)
+
+----
 
 ###What I want to do
 For my [NDVI cap](http://publiclab.org/notes/gpenzo/03-25-2015/ndvi-cape-for-the-beagle-bone) project

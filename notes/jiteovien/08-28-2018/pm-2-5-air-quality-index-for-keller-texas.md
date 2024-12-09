@@ -14,6 +14,8 @@ by [jiteovien](../profile/jiteovien) August 28, 2018 21:23
 
 August 28, 2018 21:23 | Tags: [analysis](../tag/analysis), [air-quality](../tag/air-quality), [maps](../tag/maps), [dust](../tag/dust), [pm](../tag/pm), [texas](../tag/texas), [air-sensors](../tag/air-sensors), [purpleair](../tag/purpleair), [replication:17007](../tag/replication:17007)
 
+----
+
 I downloaded Purple Air data for Keller, Texas, as described in the [Download & Analyze Purple Air Data activity](https://publiclab.org/notes/jiteovien/08-28-2018/download-analyze-your-purple-air-data).
 
 I was curious over the course of 1 week, what percentage of the time are people that live in Keller, Texas. being exposed to "Good", "Moderate", "Unhealthy for sensitive groups" or "Unhealthy" categories on the AQI index. This seemed especially relevant as I've learned about how the EPA federally regulates particulate matter from conversations with the Rhode Island Department of Environmental Management. They essentially look for short term spikes when the air is questionable. If it is below the EPA limit, then the state is compliant with federal standards. However, what the states aren't really held accountable for in their air quality monitoring is if certain parts of the state are living with more prolonged exposure to mediocre air while other parts of the state have pristine air - and whether or not to do anything to more evenly distribute the environmental burden.

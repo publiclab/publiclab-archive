@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/019/554/original/IMG_20170202_132917_566.jpg)
+
 # Timelapse Kit
 
 by [warren](../profile/warren)
 
 October 11, 2011 17:03 | Tags: [timelapse](../tag/timelapse), [tool](../tag/tool), [method](../tag/method), [parent:photo-monitoring](../tag/parent:photo-monitoring)
+
+----
 
 The **Public Lab Timelapse Kit**: fight polluters by catching them on film!
 
@@ -48,7 +52,7 @@ We're collecting well-documented examples of this technique in action, and we ne
 
 ## Questions
 
-[questions:timelapse]
+[timelapse](../../tag/question:timelapse)
 
 ****
 
@@ -68,7 +72,7 @@ Get in touch (jeff@publiclab.org) to organize a local group to assemble, documen
 
 ## Activities
 
-[activities:timelapse]
+[timelapse](../../tag/activity:timelapse)
 
 ****
 

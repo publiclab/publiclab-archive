@@ -14,4 +14,6 @@ by [Kennicka_HaganKarr](../profile/Kennicka_HaganKarr) May 05, 2021 02:15
 
 May 05, 2021 02:15 | Tags: [air-quality](../tag/air-quality), [cancer](../tag/cancer), [pollution](../tag/pollution), [asthma](../tag/asthma), [question:general](../tag/question:general), [general](../tag/general), [question:pollution](../tag/question:pollution), [first-time-poster](../tag/first-time-poster)
 
+----
+
 It's important because it can pollute the lungs of people, animals, etc., which can be carried into the brain. Bad air quality results in asthma, diseases, and possibly cancer. The best way to improve air quality is to reduce pollution.

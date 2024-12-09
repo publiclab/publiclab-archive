@@ -14,6 +14,8 @@ by [pdhixenbaugh](../profile/pdhixenbaugh) March 09, 2017 18:47
 
 March 09, 2017 18:47 | Tags: [riffle](../tag/riffle), [question:riffle](../tag/question:riffle), [answered](../tag/answered)
 
+----
+
 # The question in general
 
 How do you use readily available batteries with the Riffle?

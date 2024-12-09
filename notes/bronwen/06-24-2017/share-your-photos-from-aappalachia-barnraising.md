@@ -8,11 +8,15 @@ uid: 237313
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/020/875/original/IMG_20170624_100123_583.jpg)
+
 # Share your photos from Aappalachia Barnraising
 
 by [Bronwen](../profile/Bronwen) June 24, 2017 18:01
 
 June 24, 2017 18:01 | Tags: [barnraising](../tag/barnraising), [barnraisingwv2017thanks](../tag/barnraisingwv2017thanks)
+
+----
 
 Barnraisers! We would love to see your photos from this weekend's Barnraising in West Virgina. Images from your sessions, notes you've taken, pictures or charts you drew, tools you tinkered with, balloons you flew, or anything else: add them to this post by dropping them into the comments below.
 

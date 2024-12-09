@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/014/607/original/EOSIR-731-8.jpg)
+
 # Auto EOS M
 
 by [cfastie](../profile/cfastie) February 28, 2016 05:08
 
 February 28, 2016 05:08 | Tags: [balloon-mapping](../tag/balloon-mapping), [arduino](../tag/arduino), [vermont](../tag/vermont), [kite-aerial-photography](../tag/kite-aerial-photography), [camera-triggering](../tag/camera-triggering), [kite](../tag/kite), [kap](../tag/kap), [camera](../tag/camera), [aerial-mapping](../tag/aerial-mapping), [canon](../tag/canon), [skyshield](../tag/skyshield), [eos_m](../tag/eos_m), [mirrorless](../tag/mirrorless), [response:12752](../tag/response:12752), [difficulty:hard](../tag/difficulty:hard), [activity:camera-triggering](../tag/activity:camera-triggering)
+
+----
 
 If I am going to use a Canon EOS M for kite aerial photography, I have to figure out how to trigger the shutter remotely. The EOS M is not a PowerShot, so CHDK is not an option. The EOS M does not have a port for a remote shutter cable, and there is no system for sending shutter commands through the USB port. The EOS M does not have an intervalometer feature to take photos at regular intervals.
 

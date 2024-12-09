@@ -3,6 +3,8 @@ uid: 133
 created_at: 2013-05-23 16:09:30 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/22f00fbaee5e62c97c5e27eb6a93bccd)
+
 # nedhorning
 
 I live and work from a home office in central Vermont but I work for the American Museum of Natural History's Center for Biodiversity and Conservation in New York City. I've been working with remote sensing and GIS for over 25 years and have an interest in photo-monitoring and am a strong proponent of open source software and the citizen science approach to collecting data. 

@@ -14,6 +14,8 @@ by [warren](../profile/warren), [liz](../profile/liz), [jmsaavedra](../profile/j
 
 February 02, 2013 20:31 | Tags: [education](../tag/education), [curriculum](../tag/curriculum), [cypress-hills](../tag/cypress-hills), [air-quality](../tag/air-quality), [airquality](../tag/airquality), [indoor-air-quality](../tag/indoor-air-quality), [eee](../tag/eee), [air-quality-projects](../tag/air-quality-projects), [cccccc](../tag/cccccc)
 
+----
+
 <style type="text/css">
 .btn {
   background-image: -moz-linear-gradient(top, #EEE 0%, #CCCCCC 100%);

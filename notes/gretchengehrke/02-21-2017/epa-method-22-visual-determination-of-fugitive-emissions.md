@@ -8,11 +8,15 @@ uid: 430549
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/019/602/original/SmokeFlare_donnan_dot_com.jpeg)
+
 # EPA Method 22: Visual Determination of Fugitive Emissions
 
 by [gretchengehrke](../profile/gretchengehrke) February 21, 2017 22:44
 
 February 21, 2017 22:44 | Tags: [frac-sand](../tag/frac-sand), [pm](../tag/pm), [parent:frac-sand](../tag/parent:frac-sand), [visual-monitoring](../tag/visual-monitoring), [activity:observation](../tag/activity:observation), [activity:monitor](../tag/activity:monitor), [opacity](../tag/opacity), [activity:site-survey](../tag/activity:site-survey), [activity:visual-monitoring](../tag/activity:visual-monitoring)
+
+----
 
 **EPA Method 22: Visual Determination of Fugitive Emissions from Material Sources and Smoke Emissions from Flares**
 

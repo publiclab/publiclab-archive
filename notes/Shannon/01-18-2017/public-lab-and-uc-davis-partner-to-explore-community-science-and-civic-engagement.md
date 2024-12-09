@@ -8,11 +8,15 @@ uid: 9
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/019/306/original/barnraising-handraising_copy.JPG)
+
 # Public Lab and UC-Davis partner to explore community science and civic engagement
 
 by [Shannon](../profile/Shannon) January 18, 2017 19:18
 
 January 18, 2017 19:18 | Tags: [non-profit](../tag/non-profit), [grants](../tag/grants), [moore-foundation](../tag/moore-foundation), [moore](../tag/moore)
+
+----
 
 Public Lab and the
 UC Davis Center for Community and Citizen Science are happy to announce a

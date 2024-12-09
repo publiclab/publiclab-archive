@@ -8,11 +8,15 @@ uid: 4
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/004/338/original/Screen_Shot_2014-05-20_at_4.17.52_PM.png)
+
 # Imagining & testing Polarized Light Microscopy for Silica dust speciation
 
 by [mathew](../profile/mathew) May 21, 2014 01:04
 
 May 21, 2014 01:04 | Tags: [particulate-sensing](../tag/particulate-sensing), [air-quality](../tag/air-quality), [dust](../tag/dust), [particulates](../tag/particulates), [silica](../tag/silica), [polarized-light](../tag/polarized-light), [polarized-light-microscopy](../tag/polarized-light-microscopy), [open-air](../tag/open-air), [particles](../tag/particles), [particle-sensing](../tag/particle-sensing), [passive-pm](../tag/passive-pm), [activity:microscope](../tag/activity:microscope), [activity:microscopes](../tag/activity:microscopes), [activity:community-microscope-usage](../tag/activity:community-microscope-usage), [polarizing-filter](../tag/polarizing-filter)
+
+----
 
 ###What I want to do
 Sample and identify [silica](/wiki/silica) [dust particles](/wiki/particle-sensing) preferably at PM2.5 (2.5 μM, [roughly](/wiki/particle-sensing#Particle+Size)).  Polarized light is used in the analysis of a group of crystals that includes silica.  This [explanation from Nikon](http://www.microscopyu.com/articles/polarized/polarizedintro.html) is pretty comprehensive.

@@ -8,11 +8,15 @@ uid: 422561
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/006/779/original/Public_Lab_event_flyer_stevie.jpg)
+
 # New Orleans: Urban Restoration Mapping BLITZ!
 
 by [stevie](../profile/stevie) September 11, 2014 22:21
 
 September 11, 2014 22:21 | Tags: [gulf-coast](../tag/gulf-coast), [balloon-mapping](../tag/balloon-mapping), [events](../tag/events), [event](../tag/event), [event:rsvp](../tag/event:rsvp), [rsvp:danbeavers](../tag/rsvp:danbeavers), [date:10-11-2014](../tag/date:10-11-2014), [rsvp:brody](../tag/rsvp:brody), [rsvp:williammost](../tag/rsvp:williammost), [rsvp:mjg2171](../tag/rsvp:mjg2171), [rsvp:jessicavarin](../tag/rsvp:jessicavarin), [rsvp:tmclean](../tag/rsvp:tmclean), [rsvp:williams](../tag/rsvp:williams), [rsvp:bandi13](../tag/rsvp:bandi13), [urbanwaters](../tag/urbanwaters)
+
+----
 
 ####Get Ready...
 

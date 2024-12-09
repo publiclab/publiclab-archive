@@ -8,11 +8,15 @@ uid: 444638
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/010/469/original/IMG_3676.JPG)
+
 # Preparation for Pilot H2S Testing
 
 by [ErikHanley11](../profile/ErikHanley11) June 30, 2015 00:50
 
 June 30, 2015 00:50 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s), [hydrogen-sulfide-testing](../tag/hydrogen-sulfide-testing), [photo-paper](../tag/photo-paper), [h2s-photopaper](../tag/h2s-photopaper), [replication:509](../tag/replication:509), [first-time-poster](../tag/first-time-poster)
+
+----
 
 This is a research note for a project surrounding the development of a low cost tool for detection of hydrogen sulfide (H2S). The tool uses [Ilford B&W Multigrade photo paper](http://www.amazon.com/Ilford-Paper-8X10-Multigrade-Pearl/dp/B00009V3C4) inside of a black film canister. Once exposed to H2S, the paper turns to a shade of brown depending on concentration. We are preparing for pilot testing of this tool in Texas. This pilot will focus on two different batches of photo paper, one that is new and the other that is older. We are looking to see if there is any difference in results with different packages of photo paper. This will allow us to better understand whether this test has good replicability for future tests with different packages.
 

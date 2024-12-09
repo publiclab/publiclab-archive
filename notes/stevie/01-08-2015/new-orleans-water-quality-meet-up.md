@@ -8,11 +8,15 @@ uid: 422561
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/008/577/original/Water_Quality_Meetup.jpg)
+
 # New Orleans Water Quality Meet-up
 
 by [stevie](../profile/stevie) January 08, 2015 22:57
 
 January 08, 2015 22:57 | Tags: [gulf-coast](../tag/gulf-coast), [event](../tag/event), [water-quality](../tag/water-quality), [water](../tag/water), [event:rsvp](../tag/event:rsvp), [rsvp:stevie](../tag/rsvp:stevie), [rsvp:geraldmc](../tag/rsvp:geraldmc), [coqui](../tag/coqui), [urbanwaters](../tag/urbanwaters), [waterquality](../tag/waterquality), [date:01-24-2015](../tag/date:01-24-2015), [rsvp:gracecagle](../tag/rsvp:gracecagle), [rsvp:eustatic](../tag/rsvp:eustatic)
+
+----
 
 See the report on this[ meetup here!](http://publiclab.org/notes/stevie/01-27-2015/january-water-quality-meet-up-report)
 

@@ -8,11 +8,15 @@ uid: 425714
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/006/083/original/thumb.jpg)
+
 # Overexposure using YUV format and manual exposure settings with Infragram webcam
 
 by [jarrarte](../profile/jarrarte) August 06, 2014 14:35
 
 August 06, 2014 14:35 | Tags: [webcam](../tag/webcam), [infragram](../tag/infragram), [overexposure](../tag/overexposure), [barnstar:empiricism](../tag/barnstar:empiricism), [exposure](../tag/exposure), [yuv](../tag/yuv), [manual](../tag/manual)
+
+----
 
 ###What I want to do
 I want to use the Infragram webcam ([link](http://store.publiclab.org/products/infragram-webcam)) in bright sunny environments, so I need to effectively control exposure. 

@@ -3,6 +3,8 @@ uid: 527094
 created_at: 2018-03-08 20:13:47 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/2caca3ec6fb10466bed981052487b082)
+
 # shippee3
 
 Just getting an intro

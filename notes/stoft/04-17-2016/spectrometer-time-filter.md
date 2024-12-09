@@ -8,11 +8,15 @@ uid: 54025
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/015/639/original/STest_61SampleSpecDistribMaxima.gif)
+
 # Spectrometer Time Filter
 
 by [stoft](../profile/stoft) April 17, 2016 20:40
 
 April 17, 2016 20:40 | Tags: [spectrometer](../tag/spectrometer), [webcam](../tag/webcam), [desktop-spectrometer](../tag/desktop-spectrometer), [noise-reduction](../tag/noise-reduction), [signal-to-noise-ratio](../tag/signal-to-noise-ratio), [stability](../tag/stability), [noise](../tag/noise)
+
+----
 
 **Abstract**
 

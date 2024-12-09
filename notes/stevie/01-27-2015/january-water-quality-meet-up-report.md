@@ -8,11 +8,15 @@ uid: 422561
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/008/741/original/20150124_145807.jpg)
+
 # January Water Quality Meet-Up Report
 
 by [stevie](../profile/stevie) January 27, 2015 22:24
 
 January 27, 2015 22:24 | Tags: [gulf-coast](../tag/gulf-coast), [polemapping](../tag/polemapping), [event](../tag/event), [bsj](../tag/bsj), [gulfcoast](../tag/gulfcoast), [urbanwater](../tag/urbanwater), [urbanwaters](../tag/urbanwaters)
+
+----
 
 This past weekend the Public Lab Gulf Coast Chapter hosted a Water Quality Meet-Up. During this event we took a field trip out to Bayou St. John to collected some water samples, worked with the coqui and did some pole mapping.
 

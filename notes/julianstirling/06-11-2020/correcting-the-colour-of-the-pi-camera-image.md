@@ -8,11 +8,15 @@ uid: 701272
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/039/729/original/ColourCorrection.png)
+
 # Correcting the colour of the Pi Camera image
 
 by [julianstirling](../profile/julianstirling) June 11, 2020 09:29
 
 June 11, 2020 09:29 | Tags: [microscope](../tag/microscope), [microscopy](../tag/microscopy), [activity:open-flexure-microscope](../tag/activity:open-flexure-microscope), [activity:community-microscope](../tag/activity:community-microscope), [community-microscope](../tag/community-microscope), [open-flexure-microscope](../tag/open-flexure-microscope)
+
+----
 
 If you have built a microscope using a Raspberry Pi Camera you may have noticed that the images look somewhat like this:  
 ![A non-corrected image](/i/39731.jpeg "squamous_3_flat_lst.jpeg")

@@ -8,11 +8,15 @@ uid: 664477
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/044/678/original/Outfall_for_the_Hattiesburg_South_Sewage_Lagoon_copy.jpg)
+
 # Post your photos of possible wastewater pollution! / ¡Postea tus fotos de aguas posiblemente residuales! 📷
 
 by [bhamster](../profile/bhamster) August 18, 2021 16:35
 
 August 18, 2021 16:35 | Tags: [sewage](../tag/sewage), [water-quality](../tag/water-quality), [turbidity](../tag/turbidity), [stormwater](../tag/stormwater), [lang:es](../tag/lang:es), [wastewater](../tag/wastewater), [with:alejobonifacio](../tag/with:alejobonifacio), [getting-started-wastewater](../tag/getting-started-wastewater), [wastewater-color](../tag/wastewater-color), [wastewater-advocacy](../tag/wastewater-advocacy)
+
+----
 
 _Lead image: Outfall into Hattiesburg South Sewage Lagoon, [Healthy Gulf](https://www.flickr.com/photos/healthygulf/5836417808/in/photostream/), [CC BY NC](https://creativecommons.org/licenses/by-nc/2.0/)_
 

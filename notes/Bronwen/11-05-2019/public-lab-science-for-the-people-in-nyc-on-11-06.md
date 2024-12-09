@@ -8,11 +8,15 @@ uid: 237313
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/036/256/original/sftpp.jpg)
+
 # Public Lab & Science For The People in NYC on 11/06
 
 by [Bronwen](../profile/Bronwen) November 05, 2019 16:17
 
 November 05, 2019 16:17 | Tags: [new-york-city](../tag/new-york-city), [events](../tag/events), [workshops](../tag/workshops), [nyc](../tag/nyc), [northeast](../tag/northeast), [oil-and-gas](../tag/oil-and-gas), [science-for-the-people](../tag/science-for-the-people)
+
+----
 
 Join Public Lab and [Science For The People][1] at [the People's Forum][2] in NYC this Thursday, where Bronwen Densmore, Public Lab's Open Hardware Community Manager will lead a discussion about some of the ways that communities have used low cost, DIY and open source hardware in environmental monitoring, particularly in response to oil & gas issues.
 

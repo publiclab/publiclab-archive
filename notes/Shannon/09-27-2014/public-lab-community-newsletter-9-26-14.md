@@ -8,11 +8,15 @@ uid: 9
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/007/045/original/plots-logo-transparent.jpg)
+
 # Public Lab Community Newsletter 9.26.14
 
 by [Shannon](../profile/Shannon) September 27, 2014 01:50
 
 September 27, 2014 01:50 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
+
+----
 
 In the Public Lab community newsletter this week, check out the Oil Testing Kit launch, join Public Lab Organizers at the Open Hardware Summit in Rome and read about ongoing work on hydrogen sulfide sensing and the FIDO temperature alarm. Enjoy!
 

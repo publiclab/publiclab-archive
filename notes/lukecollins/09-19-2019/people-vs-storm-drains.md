@@ -14,6 +14,8 @@ by [lukecollins](../profile/lukecollins) September 19, 2019 14:43
 
 September 19, 2019 14:43 | Tags: [stormwater](../tag/stormwater), [storm](../tag/storm), [issue-brief](../tag/issue-brief), [storm-drain](../tag/storm-drain), [first-time-poster](../tag/first-time-poster), [lat:29.935867](../tag/lat:29.935867), [lon:-90.114476](../tag/lon:-90.114476), [catch-basin](../tag/catch-basin), [with:jeanell873](../tag/with:jeanell873)
 
+----
+
 ### Introduction:
 
 We have 14 storm drains within our two blocks, surrounding Lusher and Sci High. Most of these drains haven't been properly cleaned since 2017\. Flooding, being so common in New Orleans, pushes plastic and other debris into the storm, causing them to clog up. The clogging makes the flooding worse, creating a circle. 
@@ -41,4 +43,4 @@ Lusher Charter School and Math and Science are involved because they are in the 
 - What kind of plastic is being thrown onto the ground?
 
   
-[questions:tagname]
+[tagname](../../tag/question:tagname)

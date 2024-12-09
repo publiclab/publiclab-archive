@@ -8,11 +8,15 @@ uid: 9
 
 ---
 
+![](https://publiclab.org/sites/default/files/spectral-challenge.png)
+
 # New Contest Seeks DIY Scientists Addressing Pollution with Open Source Devices
 
 by [Shannon](../profile/Shannon) March 07, 2013 15:24
 
 March 07, 2013 15:24 | Tags: [spectrometer](../tag/spectrometer), [spectralchallenge](../tag/spectralchallenge)
+
+----
 
 NEWS RELEASE
 FOR IMMEDIATE RELEASE

@@ -8,11 +8,15 @@ uid: 420557
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/004/471/original/screen.JPG)
+
 # NDVI Quick Analysis Application
 
 by [daniedb68](../profile/daniedb68) May 28, 2014 16:00
 
 May 28, 2014 16:00 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [analysis](../tag/analysis), [software](../tag/software), [infragram](../tag/infragram)
+
+----
 
 FirstOff, I hope I'm allowed to post this here. First time, and new to everything :-(
 

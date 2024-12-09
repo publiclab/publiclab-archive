@@ -8,11 +8,15 @@ uid: 46950
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/000/496/original/tt_img_00048.jpg)
+
 # Aerial photos with UAV and an Android phone: first results
 
 by [bdiscoe](../profile/bdiscoe) June 09, 2013 05:08
 
 June 09, 2013 05:08 | Tags: [hawaii](../tag/hawaii), [uav-mapping](../tag/uav-mapping), [aerial-photos](../tag/aerial-photos), [drone](../tag/drone)
+
+----
 
 ##What I want to do
 Trying to find an affordable, reliable way for people to gather high-quality aerials with a UAV.

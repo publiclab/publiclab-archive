@@ -14,6 +14,8 @@ by [mollydanielsson](../profile/mollydanielsson)
 
 February 08, 2015 01:26 | Tags: [style:fancy](../tag/style:fancy), [with:hagitkeysar](../tag/with:hagitkeysar)
 
+----
+
  by [Hagit Keysar](http://publiclab.org/profile/hagitkeysar)
 
 Published in Winter 2012/2013 [Grassroots Mapping Forum#3.](http://publiclab.org/forum)

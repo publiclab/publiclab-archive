@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/001/476/original/NIRLED-226-29CU2.jpg)
+
 # Infrared behavior of A810
 
 by [cfastie](../profile/cfastie) September 11, 2013 14:10
 
 September 11, 2013 14:10 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [spectrometer](../tag/spectrometer), [vermont](../tag/vermont), [infrared](../tag/infrared), [leaffest](../tag/leaffest), [white-balance](../tag/white-balance), [infragram](../tag/infragram), [histogram](../tag/histogram), [led](../tag/led), [leaffest2013](../tag/leaffest2013), [leds](../tag/leds), [a810](../tag/a810), [frosted-globe](../tag/frosted-globe)
+
+----
 
 *Image above: NIR selfie. The NIR LED (foreground) is the only source of light. Taken with a modified Canon Powershot A495 with Wratten 87 filter. (ISO 400, 1.0 second at f/3.0)*
 

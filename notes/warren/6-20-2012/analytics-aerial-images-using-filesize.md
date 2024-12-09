@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/Picture 4_2.png)
+
 # Analytics on aerial images -- using filesize
 
 by [warren](../profile/warren) June 20, 2012 19:50
 
 June 20, 2012 19:50 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [analysis](../tag/analysis), [temperature](../tag/temperature), [blurriness](../tag/blurriness), [sorting](../tag/sorting), [image-sorting](../tag/image-sorting), [activity:image-sorting](../tag/activity:image-sorting)
+
+----
 
 **Update, June 2014:** This has now been implemented as part of MapKnitter, known as [MapKnitter Sorter](https://mapknitter.org/sorter/). Please give it a try there.
 

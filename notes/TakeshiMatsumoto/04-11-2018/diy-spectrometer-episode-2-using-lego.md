@@ -8,11 +8,15 @@ uid: 528173
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/024/521/original/experimental_0.jpg)
+
 # DIY-spectrometer episode 2 (using LEGO)
 
 by [TakeshiMatsumoto](../profile/TakeshiMatsumoto) April 11, 2018 08:58
 
 April 11, 2018 08:58 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [lego](../tag/lego), [activity:spectrometry](../tag/activity:spectrometry), [activity:lego-spectrometer](../tag/activity:lego-spectrometer), [activity:lego](../tag/activity:lego)
+
+----
 
 **_Background;_**
 

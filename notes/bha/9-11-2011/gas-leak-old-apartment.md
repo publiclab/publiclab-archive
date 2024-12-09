@@ -14,6 +14,8 @@ by [bha](../profile/bha) September 12, 2011 03:26
 
 September 12, 2011 03:26 | Tags: [indoor-air-quality-mapping](../tag/indoor-air-quality-mapping), [first-time-poster](../tag/first-time-poster)
 
+----
+
 About a month ago, I moved into an apartment, where was built around 90 years ago.
 
 The kitchen was renovated, so I can manage to cook and bake dishes.

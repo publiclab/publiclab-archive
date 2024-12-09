@@ -14,6 +14,8 @@ by [warren](../profile/warren), [liz](../profile/liz)
 
 November 29, 2016 21:47 | Tags: [methodologies](../tag/methodologies), [tags](../tag/tags), [template](../tag/template), [methods-template](../tag/methods-template)
 
+----
+
 This first line of a page will appear as the "summary" of your method here and elsewhere around publiclab.org -- edit this sentence into a one-line summary of your method!
 
 ****
@@ -65,12 +67,12 @@ This first line of a page will appear as the "summary" of your method here and e
 
 ## Activities
 
-[activities:METHODNAME]
+[METHODNAME](../../tag/activity:METHODNAME)
 
 ****
 
 ## Questions
 
-[questions:METHODNAME]
+[METHODNAME](../../tag/question:METHODNAME)
 
 ****

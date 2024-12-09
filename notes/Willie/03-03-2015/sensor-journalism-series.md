@@ -8,11 +8,15 @@ uid: 235174
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/009/146/original/Sensor_J_Series.png)
+
 # A month-long series of webinars about sensor journalism
 
 by [willie](../profile/willie) March 03, 2015 19:17
 
 March 03, 2015 19:17 | Tags: [event](../tag/event), [dustduino](../tag/dustduino), [event:rsvp](../tag/event:rsvp), [sensor-journalism](../tag/sensor-journalism), [date:03-08-2015](../tag/date:03-08-2015), [webinar](../tag/webinar), [rsvp:alex_the_ukrainian](../tag/rsvp:alex_the_ukrainian)
+
+----
 
 ###Event details
 This is an ongoing series of webinars focused on the use of sensing technologies in jouranlism and media. This series is being organized by OKCast and the MIT Sensor Journalism Lab

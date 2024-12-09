@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/009/645/original/IMG_4880.JPG)
+
 # April 12 Newtown Creek balloon mapping pics
 
 by [liz](../profile/liz) April 13, 2015 15:19
 
 April 13, 2015 15:19 | Tags: [new-york-city](../tag/new-york-city), [balloon-mapping](../tag/balloon-mapping), [newtown-creek](../tag/newtown-creek), [brooklyn](../tag/brooklyn), [queens](../tag/queens)
+
+----
 
 Willis shows the camera rig:
 

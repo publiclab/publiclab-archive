@@ -3,6 +3,8 @@ uid: 507395
 created_at: 2017-05-16 07:32:27 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/4865c343f4fe0b5842620e119787bdd0)
+
 # ksomis
 
 

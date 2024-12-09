@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/020/175/original/NanoLog_20170422-8066.JPG)
+
 # Inexpensive data logging
 
 by [cfastie](../profile/cfastie) April 25, 2017 03:20
 
 April 25, 2017 03:20 | Tags: [arduino](../tag/arduino), [sensors](../tag/sensors), [datalogger](../tag/datalogger), [data-logging](../tag/data-logging), [nano](../tag/nano), [nano-data-logger](../tag/nano-data-logger), [activity:nano-data-logger](../tag/activity:nano-data-logger), [bmp280](../tag/bmp280)
+
+----
 
 *Above: These two little breakout boards are the key to using an Arduino to log data. A microSD card board (right) allows the data to be saved. A real time clock (left) keeps track of time (basic Arduinos don't remember what time it is when you turn them off).*
 

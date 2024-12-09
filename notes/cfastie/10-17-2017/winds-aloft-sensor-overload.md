@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/021/955/original/BreadKest_20171013-1397.JPG)
+
 # Winds aloft: sensor overload
 
 by [cfastie](../profile/cfastie) October 17, 2017 03:01
 
 October 17, 2017 03:01 | Tags: [arduino](../tag/arduino), [nasa](../tag/nasa), [kite](../tag/kite), [gps](../tag/gps), [anemometer](../tag/anemometer), [wind-speed-meter](../tag/wind-speed-meter), [atmosphere](../tag/atmosphere), [saturnv](../tag/saturnv), [skyshield](../tag/skyshield), [data-logging](../tag/data-logging), [skypod](../tag/skypod), [ublox](../tag/ublox), [wind-sensor](../tag/wind-sensor), [rokkaku](../tag/rokkaku), [series:diy-wind-sensors](../tag/series:diy-wind-sensors), [skypod-gps-logger](../tag/skypod-gps-logger), [wind-speed](../tag/wind-speed), [aeropod](../tag/aeropod), [activity:as220-wind-sensors](../tag/activity:as220-wind-sensors), [activity:aren](../tag/activity:aren)
+
+----
 
 I have been including anemometers in the payload of kite flights for a few months ([series of research notes here](https://publiclab.org/tag/series:diy-wind-sensors)), and a goal has been to include two anemometers to compare their results. The [Modern Device Wind Sensor Rev P](https://moderndevice.com/product/wind-sensor-rev-p/) has returned promising results, but the only way to know if the results are accurate is to include a sensor with a known track record on the same flight. Last week my seven foot Rokkaku was able to lift a [NASA Aeropod Air Column Profiler](https://technology.nasa.gov/patent/GSC-TOPS-10) and two [KAPtery SkyPods](http://kaptery.com/product/skypod-kit).
 

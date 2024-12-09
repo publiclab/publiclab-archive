@@ -8,11 +8,15 @@ uid: 160
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/007/561/original/documenta-desde-el-aire.jpg)
+
 # Taller de fotos con globo en Barcelona
 
 by [pablo](../profile/pablo) October 20, 2014 23:46
 
 October 20, 2014 23:46 | Tags: [balloon-mapping](../tag/balloon-mapping), [spain](../tag/spain), [workshop](../tag/workshop), [event](../tag/event), [lang:es](../tag/lang:es), [event:rsvp](../tag/event:rsvp), [date:10-25-2014](../tag/date:10-25-2014), [rsvp:pablo](../tag/rsvp:pablo), [replication:14022](../tag/replication:14022)
+
+----
 
 ###Detalles del evento
 

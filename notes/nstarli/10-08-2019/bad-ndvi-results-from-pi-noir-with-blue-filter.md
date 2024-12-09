@@ -14,6 +14,8 @@ by [nstarli](../profile/nstarli) October 08, 2019 20:49
 
 October 08, 2019 20:49 | Tags: [ndvi](../tag/ndvi), [raspberry-pi](../tag/raspberry-pi), [infragram](../tag/infragram), [infrablue](../tag/infrablue), [pi](../tag/pi), [question:infragram](../tag/question:infragram), [rpi](../tag/rpi), [raspberry](../tag/raspberry), [white](../tag/white), [balance](../tag/balance), [noir](../tag/noir), [first-time-poster](../tag/first-time-poster), [ndvi-white-balance](../tag/ndvi-white-balance), [infrapi](../tag/infrapi)
 
+----
+
 ![image description](/i/35631.jpg "image03.jpg")
 
 NGB Photo acquired after white balance procedure

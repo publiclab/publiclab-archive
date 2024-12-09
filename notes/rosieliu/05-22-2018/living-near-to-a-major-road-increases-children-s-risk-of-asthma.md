@@ -8,11 +8,15 @@ uid: 535191
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/025/004/original/children's_risk_of_asthma.png)
+
 # Living near to a major road increases children's risk of asthma
 
 by [rosieliu](../profile/rosieliu) May 22, 2018 02:53
 
 May 22, 2018 02:53 | Tags: [health](../tag/health), [children](../tag/children), [asthma](../tag/asthma), [first-time-poster](../tag/first-time-poster)
+
+----
 
 A growing number of people in some developed countries including the USA develop a long-term illness called asthma, which predominantly affects the airways of the lungs and triggers difficulty breathing.
 

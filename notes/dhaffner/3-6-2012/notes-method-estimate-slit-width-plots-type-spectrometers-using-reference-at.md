@@ -8,11 +8,15 @@ uid: 100
 
 ---
 
+![](https://publiclab.org/sites/default/files/convolution02.gif)
+
 # Notes on a method to estimate the slit width of PLOTS-type spectrometers using a reference atmospheric spectrum
 
 by [dhaffner](../profile/dhaffner) March 06, 2012 20:23
 
 March 06, 2012 20:23 | Tags: [spectrometer](../tag/spectrometer), [calibration](../tag/calibration)
+
+----
 
 I made a few notes on an idea I had to estimate the slit width of PLOTS-type spectrometers using a reference atmospheric irradiance spectrum. Slides on the idea are posted in the image gallery included with this post.     
 

@@ -8,11 +8,15 @@ uid: 443410
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/010/270/original/multiInputThermalFishing_bb.jpg)
+
 # Thermal Fishing Bob: multiple inputs/outputs 
 
 by [lperovich](../profile/lperovich) June 10, 2015 15:28
 
 June 10, 2015 15:28 | Tags: [thermal-fishing-bob](../tag/thermal-fishing-bob), [activity:thermal-fishing-bob](../tag/activity:thermal-fishing-bob), [first-time-poster](../tag/first-time-poster)
+
+----
 
 I made another iteration of the thermal fishing bob code and electronics.  This builds from the original version found here: [http://publiclab.org/wiki/thermal-fishing-bob-barnraising](http://publiclab.org/wiki/thermal-fishing-bob-barnraising)
 

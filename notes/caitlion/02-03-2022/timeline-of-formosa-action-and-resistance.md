@@ -14,6 +14,8 @@ by [caitlion](../profile/caitlion) February 03, 2022 22:01
 
 February 03, 2022 22:01 | Tags: [first-time-poster](../tag/first-time-poster), [formosaplastics](../tag/formosaplastics)
 
+----
+
 This timeline is a work in progress.
 
 ```

@@ -8,11 +8,15 @@ uid: 4
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/016/492/original/P_20160513_202145_HDR.jpg)
+
 # Kite Construction: How bad can it get? 
 
 by [mathew](../profile/mathew) June 04, 2016 00:29
 
 June 04, 2016 00:29 | Tags: [kite-mapping](../tag/kite-mapping), [diy-kite](../tag/diy-kite), [wind-speed-meter](../tag/wind-speed-meter), [tyvek](../tag/tyvek), [diy-kites](../tag/diy-kites), [kite-anemometer](../tag/kite-anemometer), [horned-allison](../tag/horned-allison), [kite-making](../tag/kite-making), [activity:kite-making](../tag/activity:kite-making), [activity:tyvek](../tag/activity:tyvek)
+
+----
 
 ###What I want to do
 I'm interested in workshopping [Stormy Weathers' Horned Allison Sled Kite.](/tag/horned-allison) ([plans pdf](http://www.drachen.org/sites/default/files/pdf/Weather%20Book%207-11-11.pdf)), and I wanted to see how poor the construction could be and still have a flying kite. 

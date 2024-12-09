@@ -14,6 +14,8 @@ by [liz](../profile/liz), [warren](../profile/warren)
 
 March 09, 2012 14:52 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping)
 
+----
+
 It's easy to add your [MapKnitter](https://mapknitter.org) exported map as a background layer when editing OpenStreetMap. This wiki page explains how to connect to Potlatch 2 and iD editor. This slide show from State of the Map US 2013 may help illustrates these workflows: http://www.slideshare.net/LizBarry/2013-0609-sotmussf
 There is also a case study of an earlier method at the bottom of this wiki page. 
 

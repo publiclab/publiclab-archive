@@ -8,10 +8,14 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/sites/default/files/Xmas-SWc1500.jpg)
+
 # Tis the Season
 
 by [cfastie](../profile/cfastie) December 25, 2012 21:56
 
 December 25, 2012 21:56 | Tags: [spectrometer](../tag/spectrometer), [holiday](../tag/holiday), [christmas](../tag/christmas)
+
+----
 
 ##A Merry Public Lab Christmas to All!##

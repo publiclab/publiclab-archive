@@ -14,6 +14,8 @@ by [anthony_mastracci](../profile/anthony_mastracci) February 23, 2015 17:48
 
 February 23, 2015 17:48 | Tags: [sensor-journalism](../tag/sensor-journalism)
 
+----
+
 	The concept of sensor journalism offers revolutionary insights to fact finding and story telling. It's amazing that something like an elementary level science experiment and can produce usable data for professional writing and information consumption. 
 	For example, the simple bread board circuit that we got to build in class I'm fairly certain I had learned how to build in fifth grade. It was nothing more than than a technical game of battleship, placing small chips, wires, capacitors, buzzers, a battery, and a few other things into alignment to produce a tool that could measure conductivity in water. 
 	Sure, building and getting the thing to work was challenging, but that's science. Once it did work, we had a way to go out in to the world and collect data first hand that we otherwise would not have the easiest access to. Measuring the sound waves from the buzzer gave us not only a primary source of information to use when story telling, but a way to monitor local government and play watchdog, which is also our responsibility. If we were to find a sample of water with conductivity off the charts, that's a giant red flag and should be investigated further.

@@ -8,11 +8,15 @@ uid: 9
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/006/585/original/Screen_Shot_2014-09-04_at_2.28.22_PM.png)
+
 # 2013 Public Lab Annual Report
 
 by [Shannon](../profile/Shannon) August 19, 2014 19:24
 
 August 19, 2014 19:24 | Tags: [nonprofit](../tag/nonprofit), [annual-report](../tag/annual-report)
+
+----
 
 Attached is the 2013 Public Lab Annual Report, designed by Molly Danielsson and written by Public Lab staff and organizers.
 

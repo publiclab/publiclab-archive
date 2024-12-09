@@ -8,11 +8,15 @@ uid: 704145
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/041/840/original/Screen_Shot_2020-11-28_at_3.28.48_PM.png)
+
 # Empowering People to Act on Air Pollution
 
 by [A_SCH](../profile/A_SCH) November 08, 2020 22:35
 
 November 08, 2020 22:35 | Tags: [organizing](../tag/organizing), [bucket-brigade](../tag/bucket-brigade), [with:kgradow1](../tag/with:kgradow1), [advocacy](../tag/advocacy), [community-organizing](../tag/community-organizing), [advocacy-pathways](../tag/advocacy-pathways), [bucket-monitor](../tag/bucket-monitor)
+
+----
 
 Co-authored by: Bongani Mthembu and Desmond D'Sa, [South Durban Community Environmental Alliance](https://sdcea.co.za/), Rico Euripidou, [groundWork, Friends of the Earth South Africa](https://www.groundwork.org.za/)
 

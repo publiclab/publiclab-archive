@@ -8,11 +8,15 @@ uid: 422561
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/007/548/original/IMG_1154.JPG)
+
 # The Blitz Report! 
 
 by [stevie](../profile/stevie) October 20, 2014 19:00
 
 October 20, 2014 19:00 | Tags: [balloon-mapping](../tag/balloon-mapping), [infragram](../tag/infragram), [gulfcoast](../tag/gulfcoast), [urbanwater](../tag/urbanwater), [urbanwaters](../tag/urbanwaters), [parent:urban-waters-mapping-nola](../tag/parent:urban-waters-mapping-nola)
+
+----
 
 **Posting about the [Mapping Blitz ](http://publiclab.org/notes/stevie/09-11-2014/new-orleans-urban-restoration-mapping-blitz) event we ran here in New Orleans on October 11th. **
 

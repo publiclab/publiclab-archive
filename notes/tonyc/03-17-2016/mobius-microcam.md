@@ -8,11 +8,15 @@ uid: 447491
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/015/129/original/IMG_0008.JPG)
+
 # Mobius MicroCam
 
 by [tonyc](../profile/tonyc) March 17, 2016 19:55
 
 March 17, 2016 19:55 | Tags: [mobius](../tag/mobius), [microscope](../tag/microscope), [microscopes](../tag/microscopes)
+
+----
 
 ###What I want to do
 turn my mobius actioncam into a microscope

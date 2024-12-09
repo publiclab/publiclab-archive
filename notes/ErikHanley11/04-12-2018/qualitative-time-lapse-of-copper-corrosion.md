@@ -8,11 +8,15 @@ uid: 444638
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/024/563/original/Screen_Shot_2018-04-11_at_9.54.09_PM.png)
+
 # Qualitative Time Lapse of Copper Corrosion
 
 by [ErikHanley11](../profile/ErikHanley11) April 12, 2018 01:58
 
 April 12, 2018 01:58 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s), [barnstar:basic](../tag/barnstar:basic), [barnstar:empiricism](../tag/barnstar:empiricism), [h2s-copper-pipe](../tag/h2s-copper-pipe), [activity:h2s](../tag/activity:h2s), [activity:hydrogen-sulfide](../tag/activity:hydrogen-sulfide), [activity:h2s-copper-pipe](../tag/activity:h2s-copper-pipe), [copper-rods](../tag/copper-rods), [qualitative](../tag/qualitative), [replication:15142](../tag/replication:15142)
+
+----
 
 On February 9th, 2018, the copper rods from the Deer Island Round D testing were visually analyzed. Pictures of each side of the copper rod and relevant unique corrosion features were taken. The colors of corrosion, degree of corrosion, and specific characteristics were recorded in notes below. The corrosion classification was not done by any standardized method.
 

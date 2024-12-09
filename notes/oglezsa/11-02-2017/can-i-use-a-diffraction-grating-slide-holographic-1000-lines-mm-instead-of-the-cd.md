@@ -8,11 +8,15 @@ uid: 517558
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/022/175/original/Grating.jpg)
+
 # Can I use a Diffraction Grating Slide Holographic 1000 lines/mm instead of the CD?
 
 by [oglezsa](../profile/oglezsa) November 02, 2017 21:27
 
 November 02, 2017 21:27 | Tags: [question](../tag/question), [question:spectrometry](../tag/question:spectrometry), [question:desktop-spectrometry-kit](../tag/question:desktop-spectrometry-kit), [question:foldable-spec](../tag/question:foldable-spec), [request:upgrade](../tag/request:upgrade), [page:spectrometry](../tag/page:spectrometry)
+
+----
 
 What I want to do or know...
 I bought the Desktop Spectrometer version and I have problems splitting the CD. Can I use a Diffraction Grating Slide Holographic 1000 lines/mm instead of the CD?

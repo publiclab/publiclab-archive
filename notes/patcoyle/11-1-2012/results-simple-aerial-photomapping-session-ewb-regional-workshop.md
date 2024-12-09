@@ -8,11 +8,15 @@ uid: 77
 
 ---
 
+![](https://publiclab.org/sites/default/files/grab of NDVI copy.jpg)
+
 # Results: Simple Aerial Photomapping session, EWB Regional Workshop
 
 by [patcoyle](../profile/patcoyle) November 01, 2012 05:24
 
 November 01, 2012 05:24 | Tags: [ndvi](../tag/ndvi), [bap](../tag/bap), [ewb](../tag/ewb)
+
+----
 
 I did a workshop at Engineers Without Borders Regional Conference at Cal Poly on 10/20/12. I've done this last three years, on the Peninsula, at YouTube's HQ, in Portland, and now at Cal Poly. I also presented a poster at EWB-USA International Conference.
 

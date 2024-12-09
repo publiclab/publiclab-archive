@@ -14,6 +14,8 @@ by [liz](../profile/liz), [warren](../profile/warren)
 
 July 08, 2019 16:37 | Tags: [parent:website](../tag/parent:website)
 
+----
+
 Topic pages are used to organize communities and shared resources around specific topics, such as those listed on the Topics index, at https://publiclab.org/tags.
 
 [![Screen_Shot_2019-07-08_at_12.31.50_PM.png](/i/33554)](/i/33554?s=o)
@@ -42,4 +44,4 @@ For example, if you're on the topic page for `algal-blooms` but want the text an
 
 ### Questions
 
-[questions:topic-pages]
+[topic-pages](../../tag/question:topic-pages)

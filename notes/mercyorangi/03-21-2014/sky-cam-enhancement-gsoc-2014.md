@@ -8,11 +8,15 @@ uid: 421649
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/003/362/original/sky_cam.jpg)
+
 # Sky Cam Enhancement - GSoC 2014
 
 by [mercyorangi](../profile/mercyorangi) March 21, 2014 17:05
 
 March 21, 2014 17:05 | Tags: [gsoc](../tag/gsoc), [skycam](../tag/skycam), [first-time-poster](../tag/first-time-poster)
+
+----
 
 **Name:** Mercy Kemunto Orangi
 

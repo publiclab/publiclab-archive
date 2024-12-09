@@ -8,11 +8,15 @@ uid: 43651
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/013/749/original/IMG_20160121_165717798.jpg)
+
 # Riffle 0.1.1 Debugging
 
 by [donblair](../profile/donblair) January 21, 2016 23:32
 
 January 21, 2016 23:32 | Tags: [riffle](../tag/riffle), [data-logging](../tag/data-logging)
+
+----
 
 Hi All,
 

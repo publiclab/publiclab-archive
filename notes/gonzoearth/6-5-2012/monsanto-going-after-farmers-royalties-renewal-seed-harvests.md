@@ -14,4 +14,6 @@ by [gonzoearth](../profile/gonzoearth) June 05, 2012 16:17
 
 June 05, 2012 16:17 | Tags: 
 
+----
+
 <a href="https://rt.com/news/monsanto-brazil-seed-soy-908/">https://rt.com/news/monsanto-brazil-seed-soy-908/</a>

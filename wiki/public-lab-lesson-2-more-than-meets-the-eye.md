@@ -8,11 +8,15 @@ uid: 1259
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/008/852/original/image08.png)
+
 # Public Lab Lesson 2: More Than Meets the Eye
 
 by [gretchengehrke](../profile/gretchengehrke), [mathew](../profile/mathew), [mollydanielsson](../profile/mollydanielsson)
 
 February 06, 2015 03:07 | Tags: [education](../tag/education), [wetlands](../tag/wetlands), [curriculum](../tag/curriculum), [classroom](../tag/classroom), [lesson_plan](../tag/lesson_plan), [biology](../tag/biology), [electromagnetic_spectrum](../tag/electromagnetic_spectrum), [physics](../tag/physics), [parent:wetlands-lesson-plans](../tag/parent:wetlands-lesson-plans), [activity:wetlands](../tag/activity:wetlands)
+
+----
 
 Infrared Curriculum Lessons [1](/wiki/lesson-1-wetlands-water-oil), [2](/wiki/public-lab-lesson-2-more-than-meets-the-eye), [3](/wiki/public-lab-lesson-3-photography-in-a-new-light), [4](/wiki/public-lab-lesson-4-environmental-monitoring)
 

@@ -8,11 +8,15 @@ uid: 460486
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/015/345/original/Electricity_board_prototype.jpg)
+
 # All about cheap Reflection Diffraction Gratings-Self manufacturing!
 
 by [shubham](../profile/shubham) April 04, 2016 16:13
 
 April 04, 2016 16:13 | Tags: [diffraction-grating](../tag/diffraction-grating)
+
+----
 
 ##About Image
 I am working towards the prototype of a spectrometer with a light source to work in a range of 400-1100nm.

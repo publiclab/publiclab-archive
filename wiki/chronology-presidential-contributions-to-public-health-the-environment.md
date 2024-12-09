@@ -8,11 +8,15 @@ uid: 508551
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/022/655/original/download.jpg)
+
 # Chronology: Presidential Contributions to  Public Health & the Environment
 
 by [gilbert](../profile/gilbert)
 
 November 29, 2017 19:15 | Tags: [environmental-regulations](../tag/environmental-regulations), [executive-orders](../tag/executive-orders), [deregulation](../tag/deregulation), [presidents-usa](../tag/presidents-usa), [public-health-legislation](../tag/public-health-legislation)
+
+----
 
 ************During the term of the first president of the United States, **George Washington (None; Federalist, 1889-1997)**, the first ten amendments to the Constitution were ratified by the States on Dec. 15, 1791 and have become enshrined as the “Bill of Rights.” Subsequently, there has been a steady progression of laws enacted, executive orders signed and court rulings issued, designed to protect the health of human and animal populations and the ecosystems upon which they depend for survival, beginning with the term of office of America’s second president, John Adams (1797-1801).
 

@@ -14,6 +14,8 @@ by [gretchengehrke](../profile/gretchengehrke) September 20, 2016 20:21
 
 September 20, 2016 20:21 | Tags: [photo-monitoring](../tag/photo-monitoring), [timelapse](../tag/timelapse), [with:warren](../tag/with:warren), [question:timelapse](../tag/question:timelapse), [smoke-school](../tag/smoke-school), [q](../tag/q), [question:photo-monitoring](../tag/question:photo-monitoring)
 
+----
+
 
 We've been reading about [ASTM D7520](http://www.astm.org/Standards/D7520.htm), or the **Standard Test Method for Determining the Opacity of a Plume in the Outdoor Ambient Atmosphere**, which is also known as EPA's alternative Method 82. Method 82 is an alternative to [Method 9](https://publiclab.org/wiki/visual-pm#Smoke+School+Certification), which is where people can get certified at "Smoke School" ( #smoke-school ) to use their own eyes in a carefully designed methodology to observe and report plumes.
 

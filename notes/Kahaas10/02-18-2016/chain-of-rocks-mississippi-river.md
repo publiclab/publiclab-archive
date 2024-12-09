@@ -8,11 +8,15 @@ uid: 465989
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/014/380/original/photomerge_2.png)
+
 # Chain of Rocks, Mississippi River
 
 by [Kahaas10](../profile/Kahaas10) February 18, 2016 19:51
 
 February 18, 2016 19:51 | Tags: [balloon-mapping](../tag/balloon-mapping), [mapknitter](../tag/mapknitter), [mississippi-river](../tag/mississippi-river), [first-time-poster](../tag/first-time-poster)
+
+----
 
 
 [![photomerge_2.png](//i.publiclab.org/system/images/photos/000/014/379/medium/photomerge_2.png)](//i.publiclab.org/system/images/photos/000/014/379/original/photomerge_2.png)

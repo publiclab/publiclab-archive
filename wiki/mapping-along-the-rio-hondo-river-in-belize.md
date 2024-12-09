@@ -14,6 +14,8 @@ by [mollydanielsson](../profile/mollydanielsson)
 
 March 20, 2015 23:30 | Tags: [belize](../tag/belize), [belizeopensource](../tag/belizeopensource), [grassrootsmappingforum](../tag/grassrootsmappingforum), [style:fancy](../tag/style:fancy), [with:patcoyle](../tag/with:patcoyle), [gmf-5](../tag/gmf-5), [geomatic](../tag/geomatic)
 
+----
+
 by Pat Coyle
 
 Published **Q2 2014** in the [Grassroots Mapping Forum #5](http://publiclab.org/forum)

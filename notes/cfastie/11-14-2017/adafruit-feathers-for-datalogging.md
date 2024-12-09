@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/022/382/original/Feather_20171112-1556-2.JPG)
+
 # Adafruit Feathers for datalogging
 
 by [cfastie](../profile/cfastie) November 14, 2017 02:22
 
 November 14, 2017 02:22 | Tags: [sensors](../tag/sensors), [datalogger](../tag/datalogger), [riffle](../tag/riffle), [data-logging](../tag/data-logging), [mini-pearl-logger](../tag/mini-pearl-logger), [location:blurred](../tag/location:blurred), [adafruit](../tag/adafruit), [feather](../tag/feather), [mayfly](../tag/mayfly), [place:india](../tag/place:india), [lat:22](../tag/lat:22), [datalogger-option](../tag/datalogger-option), [lon:76](../tag/lon:76), [zoom:6](../tag/zoom:6)
+
+----
 
 ###The Feather ecosystem  
 

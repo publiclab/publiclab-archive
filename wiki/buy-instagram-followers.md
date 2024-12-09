@@ -14,6 +14,8 @@ by [ShaneWeaver](../profile/ShaneWeaver)
 
 July 13, 2015 07:00 | Tags: 
 
+----
+
 What is Instagram and Why Is It So Popular?
 
 Instagram is one of the best hits for photo-sharing applications. You can see how this photo-sharing platform just keeps growing, now it almost 90 million users. There are many huge and popular brands on Instagram, but this is the popular app for interactions [Buy Instagram Followers](http://likesfollowerscheap.com/buy-1000-instagram-likes/

@@ -8,11 +8,15 @@ uid: 9
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/002/068/original/plots-logo-transparent.jpg)
+
 # 2013 Barnraising evaluation summary
 
 by [Shannon](../profile/Shannon) October 27, 2013 17:42
 
 October 27, 2013 17:42 | Tags: [community](../tag/community), [barnraising](../tag/barnraising), [evaluation](../tag/evaluation)
+
+----
 
 Becki and I spent Friday afternoon coding and summarizing the responses to the barnraising evaluation that was completed both on-site and post-event. We've put together a narrative summary of the responses that includes both quantitative and qualitative responses received. All numerical responses were out of 5. 
 

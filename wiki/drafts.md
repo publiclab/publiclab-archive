@@ -14,6 +14,8 @@ by [donblair](../profile/donblair)
 
 December 29, 2012 14:31 | Tags: 
 
+----
+
 ### Background
 This is an index to various online working documents and drafts that people in the PLOTS community are collaborating on.  The idea is to develop a semi-central index for docs -- especially, e.g., Google Docs -- so that links to these docs don't as easily get lost in email or discussion threads.
 

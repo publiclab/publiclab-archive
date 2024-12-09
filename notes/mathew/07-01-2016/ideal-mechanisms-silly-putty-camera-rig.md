@@ -8,11 +8,15 @@ uid: 4
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/016/831/original/C01-01.gif)
+
 # ideal mechanisms & silly putty camera rig
 
 by [mathew](../profile/mathew) July 01, 2016 23:25
 
 July 01, 2016 23:25 | Tags: [kite-mapping](../tag/kite-mapping), [kap](../tag/kap), [photo-rig](../tag/photo-rig), [autokap](../tag/autokap), [kap-rigs](../tag/kap-rigs), [silly-putty](../tag/silly-putty), [reconfigurable-rig](../tag/reconfigurable-rig)
+
+----
 
 ###Goals
 @Ranon is working on a [silly putty and rubber band powered automatic pan and tilt rigging for cameras](/notes/ranon/06-13-2016/silly-putty-kap-rig). The pan functionality was easy, but the tilt has been hard to implement.  I wanted to look at some ideal mechanisms and see what guidance I could find on improving/designing a better tilt system.

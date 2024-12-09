@@ -14,6 +14,8 @@ by [Shannon](../profile/Shannon), [warren](../profile/warren)
 
 December 20, 2011 20:27 | Tags: 
 
+----
+
 A readable-by-staff-only list of contributors who we don't think are registered on the mailing list, so we can poll (for now, about using the CERN Open Hardware License):
 
 ##List##

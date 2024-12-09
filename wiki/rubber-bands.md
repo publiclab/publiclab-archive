@@ -14,6 +14,8 @@ by [mathew](../profile/mathew)
 
 January 19, 2012 04:08 | Tags: 
 
+----
+
 ##Size Numbers##
 Rubber bands come in a variety of sizes.  A comprehensive chart is [here](http://bigwigbands.com/page/rubber-band-size-color-chart/).
 

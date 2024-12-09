@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/022/147/original/Screenshot_2017-10-28_at_9.41.24_AM.png)
+
 # Software outreach: a blog series
 
 by [warren](../profile/warren) October 28, 2017 13:48
 
 October 28, 2017 13:48 | Tags: [web-development](../tag/web-development), [software](../tag/software), [outreach](../tag/outreach), [development](../tag/development), [gsoc](../tag/gsoc), [blog](../tag/blog), [code](../tag/code), [wwg](../tag/wwg), [software-outreach](../tag/software-outreach), [gsoc-2017](../tag/gsoc-2017), [soc](../tag/soc), [response:15093](../tag/response:15093), [response:13687](../tag/response:13687), [series:software-outreach](../tag/series:software-outreach)
+
+----
 
 > Since early 2016, Public Lab has worked to [make our open source software projects more welcoming and inclusive](/wiki/software-outreach); to grow our software contributor community in diversity and size. This series collects some of those strategies and initiatives.
 

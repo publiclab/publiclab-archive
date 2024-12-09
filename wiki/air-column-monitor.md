@@ -8,11 +8,15 @@ uid: 9
 
 ---
 
+![](https://publiclab.org/sites/default/files/IMG_4739.JPG)
+
 # Air Column Monitor
 
 by [liz](../profile/liz), [mathew](../profile/mathew), [Shannon](../profile/Shannon), [edborden](../profile/edborden)
 
 April 13, 2012 17:22 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [kite-balloon-hybrid](../tag/kite-balloon-hybrid), [air-column-monitor](../tag/air-column-monitor), [agriculture](../tag/agriculture), [diy-balloon](../tag/diy-balloon), [air-quality](../tag/air-quality), [mining](../tag/mining), [tool](../tag/tool), [industry](../tag/industry), [method](../tag/method), [oil-and-gas](../tag/oil-and-gas), [air-quality-projects](../tag/air-quality-projects)
+
+----
 
 Notes and pages related to this tool can be found by searching "<a href="http://publiclaboratory.org/search/node/air-column-monitor">http://publiclaboratory.org/search/node/air-column-monitor</a>"
 

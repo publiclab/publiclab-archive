@@ -14,6 +14,8 @@ by [liz](../profile/liz), [warren](../profile/warren)
 
 July 10, 2013 12:16 | Tags: [gulf-coast](../tag/gulf-coast), [louisiana](../tag/louisiana), [barnraising](../tag/barnraising), [lumcon](../tag/lumcon), [list:plots-barnraising](../tag/list:plots-barnraising)
 
+----
+
 The 2012 Public Lab [Barnraising](/wiki/barnraising) was in Cocodrie, Louisiana, at the LUMCON campus. 
 
 <a href="https://www.flickr.com/photos/recordandremember/8162917530/" title="IMG_3042 by Shannon Dosemagen, on Flickr"><img src="https://farm9.staticflickr.com/8206/8162917530_9d27a6641e.jpg" width="375" height="500" alt="IMG_3042"></a>

@@ -14,6 +14,8 @@ by [bhamster](../profile/bhamster)
 
 November 10, 2020 23:15 | Tags: 
 
+----
+
 If you’ve collected an air sample and want to know what chemicals are present, the next step is **sending the sample to a lab for analysis**. 
 
 Your grab sample might be contained in a [Tedlar bag](/notes/kgradow1/06-03-2020/grab-sampling-with-tedlar-bags) (using a [bucket monitor](/notes/Shannon/05-14-2020/the-bucket-updating-and-open-sourcing-a-community-air-monitoring-tool)) or in a canister, for example. You can learn more about grab samples on this [air sampling page](/wiki/air-sampling) and in this section on “[Types of samples](/wiki/start-enviro-monitor-study#Types+of+Samples).”
@@ -162,7 +164,7 @@ The lab will send you a report stating the name and amount of chemicals found in
 
 Have others in the Public Lab community asked a question similar to yours? Do you have a question to ask or answer to offer? Check out and post questions below.
 
-[questions:air-lab-testing]
+[air-lab-testing](../../tag/question:air-lab-testing)
 
 <br>
 

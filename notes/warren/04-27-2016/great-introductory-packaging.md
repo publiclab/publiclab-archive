@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/015/810/original/tmp_9111-IMG_20160414_1138582083143760.jpg)
+
 # Great introductory packaging
 
 by [warren](../profile/warren) April 27, 2016 00:56
 
 April 27, 2016 00:56 | Tags: [community](../tag/community), [open-hardware](../tag/open-hardware), [kits](../tag/kits), [unboxing](../tag/unboxing), [packaging](../tag/packaging), [first-timers](../tag/first-timers)
+
+----
 
 I recently saw a [Photon Particle](https://www.particle.io/), a kind of WiFi enabled Arduino that you can program from the web in JavaScript, unboxed, and I was really impressed at the way the packaging not only welcomed the person opening it, but also provided nice initial activities and ideas for them. It was a really nice unboxing, and a reminder to me of how important that moment can be for first-timers.
 

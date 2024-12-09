@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/015/401/original/Screenshot_2016-04-07_at_12.05.45_PM.png)
+
 # spectral-workbench released for Node.js
 
 by [warren](../profile/warren) April 07, 2016 16:19
 
 April 07, 2016 16:19 | Tags: [web-development](../tag/web-development), [spectral-workbench](../tag/spectral-workbench), [code](../tag/code), [javascript](../tag/javascript), [nodejs](../tag/nodejs)
+
+----
 
 I spent a little time over the past few days to do a test, and was able to get the JavaScript portions of [Spectral Workbench 2](https://github.com/publiclab/spectral-workbench) to run independently from the parent Rails application, and was able to get it running as a pure JavaScript library, and release it as an NPM module: https://github.com/publiclab/spectral-workbench.js
 

@@ -14,5 +14,7 @@ by [stevie](../profile/stevie) May 07, 2019 19:47
 
 May 07, 2019 19:47 | Tags: [balloon-mapping](../tag/balloon-mapping), [helium](../tag/helium), [question:balloon-mapping](../tag/question:balloon-mapping), [question:general](../tag/question:general), [question:helium](../tag/question:helium), [question:mapping](../tag/question:mapping), [pin:question:balloon-mapping](../tag/pin:question:balloon-mapping), [faq-balloon-mapping](../tag/faq-balloon-mapping)
 
+----
+
 Counting for the weight of the balloon, the reel, and a regular point and shoot canon camera, how much helium should I use to fill my balloon? 
 

@@ -8,11 +8,15 @@ uid: 421543
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/007/299/original/DSCF8177.JPG)
+
 # Mapping the Tar Sands Healing Walk
 
 by [ann](../profile/ann) October 04, 2014 01:51
 
 October 04, 2014 01:51 | Tags: [kite-mapping](../tag/kite-mapping), [protest-mapping](../tag/protest-mapping), [oil](../tag/oil), [pipeline](../tag/pipeline), [canada](../tag/canada), [alberta](../tag/alberta), [oil-sands](../tag/oil-sands), [fort-mcmurray](../tag/fort-mcmurray), [oil-and-gas](../tag/oil-and-gas), [first-time-poster](../tag/first-time-poster)
+
+----
 
 ###What I want to do
 

@@ -14,6 +14,8 @@ by [caitlion](../profile/caitlion) March 19, 2022 19:27
 
 March 19, 2022 19:27 | Tags: [gulf-coast](../tag/gulf-coast), [louisiana](../tag/louisiana), [land-use](../tag/land-use), [zoning](../tag/zoning), [zoom:6](../tag/zoom:6), [law-and-policy](../tag/law-and-policy), [st-james](../tag/st-james), [formosaplastics](../tag/formosaplastics), [lat:30.111833](../tag/lat:30.111833), [lon:-90.487991](../tag/lon:-90.487991)
 
+----
+
 When public officials break our trust, we often see them and their actions in a different light. And when public officials really betray our trust, to the tune of corruption, money laundering, and insider deals, everything they accomplished is now suspect and should be  searched for hidden motives. Lester Millet is one of those types of officials. While serving as Parish President for St. John the Baptist Parish, Millet was finding ways to enrich and involve himself at every turn. One of his crooked decisions from 1990 is still haunting the parish today. 
 
 While the fight against the Sunshine Project, the massive industrial complex in the 5th District of St. James Parish is currently waging, Formosa has eyed the River Parishes for some time. In the late 1980s, they sought to open a rayon pulp factory in the area. (This factory would have discharged something like 43 million gallons of wastewater and shredded through 8,000 tons of wood per day.) There was a large tract of available land, zoned industrial, that was owned by Shell, but the price was higher than Formosa was willing to pay. Lester Millet wanted Formosa to come to the River Parishes, and he began setting in place everything he could to clear their way. 

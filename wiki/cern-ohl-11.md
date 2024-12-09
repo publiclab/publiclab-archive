@@ -14,6 +14,8 @@ by [warren](../profile/warren)
 
 November 13, 2011 17:00 | Tags: [licensing](../tag/licensing), [ohl](../tag/ohl), [open-hardware](../tag/open-hardware), [licenses](../tag/licenses), [cernohl](../tag/cernohl), [parent:licenses](../tag/parent:licenses)
 
+----
+
 > The original text can be found here: http://www.ohwr.org/attachments/735/CERNOHLv1_1.txt
 
 For the 1.2 version, [see this page](/wiki/ohl)

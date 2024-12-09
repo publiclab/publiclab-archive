@@ -8,11 +8,15 @@ uid: 501144
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/019/180/original/transifex.png)
+
 # Using Transifex's Translating Platform
 
 by [gegeneo](../profile/gegeneo) January 02, 2017 20:49
 
 January 02, 2017 20:49 | Tags: [internationalization](../tag/internationalization), [translation](../tag/translation), [transifex](../tag/transifex), [first-time-poster](../tag/first-time-poster)
+
+----
 
 <div class="alert alert-info">This post is outdated and has been <a href="/wiki/translation">updated here</a>.</div>
 

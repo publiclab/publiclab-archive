@@ -8,11 +8,15 @@ uid: 4
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/015/904/original/IMG_20160430_133721.jpg)
+
 # Stormy O. Weathers' Horned Allison- towards a kite wind speed meter
 
 by [mathew](../profile/mathew) May 02, 2016 22:05
 
 May 02, 2016 22:05 | Tags: [kite-mapping](../tag/kite-mapping), [kite](../tag/kite), [diy-kite](../tag/diy-kite), [wind-speed-meter](../tag/wind-speed-meter), [tyvek](../tag/tyvek), [diy-kites](../tag/diy-kites), [open-air](../tag/open-air), [air-monitoring](../tag/air-monitoring), [kite-anemometer](../tag/kite-anemometer), [horned-allison](../tag/horned-allison), [kite-making](../tag/kite-making), [activity:kite-making](../tag/activity:kite-making), [activity:tyvek](../tag/activity:tyvek)
+
+----
 
 Over the past three years me and @Ecta64 have posted a few notes investigating [using a kite itself as a wind speed meter.](/tag/wind-speed-meter).  Recently @Ecta64 has collected a series of parts that replicate the functionality of a commercial wind prospecting device from the '80's, [the Approach Fish TALA](/notes/Ecta64/07-19-2015/unboxing-the-tala-kite-anemometer), or Tethered Aerodynamic Lifting Anemometer (i.e. a kite wind speed meter).  You can see @Ecta64's [overview on his Youtube channel](https://www.youtube.com/watch?v=kLks9dUnrcA).
 

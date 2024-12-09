@@ -8,10 +8,14 @@ uid: 425426
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/005/125/original/IMG_2614.JPG)
+
 # Vienna Infragram
 
 by [GreenLeaves](../profile/GreenLeaves) July 04, 2014 10:54
 
 July 04, 2014 10:54 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [infragram](../tag/infragram), [response:10655](../tag/response:10655)
+
+----
 
 Epic Picture... 

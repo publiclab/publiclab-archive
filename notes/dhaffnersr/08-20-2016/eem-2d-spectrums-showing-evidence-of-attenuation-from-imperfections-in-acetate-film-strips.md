@@ -8,11 +8,15 @@ uid: 461120
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/017/699/original/EEM_graph_09mm_slit_solux_4700k.png)
+
 # EEM 2D Spectrums Showing Evidence of Attenuation from Imperfections in Acetate Film Strips 
 
 by [dhaffnersr](../profile/dhaffnersr) August 20, 2016 17:29
 
 August 20, 2016 17:29 | Tags: 
+
+----
 
 This is part 2 from my previous research post on **Microscopic View of Public Lab's Acetate film slits**
 

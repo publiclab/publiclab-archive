@@ -8,11 +8,15 @@ uid: 424454
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/006/522/original/B2S.png)
+
 # Back to School Sale happening now through September 30th!
 
 by [natalie](../profile/natalie) August 29, 2014 21:59
 
 August 29, 2014 21:59 | Tags: [sales](../tag/sales), [special](../tag/special), [sale](../tag/sale), [backtoschool](../tag/backtoschool), [deal](../tag/deal)
+
+----
 
 ###Get ready to head back to school with Public Lab kits
 Now through September 30th, all kits can be purchased for 20% off. Enter discount code ###BACK2SCHOOL 

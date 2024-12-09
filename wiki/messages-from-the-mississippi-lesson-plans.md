@@ -8,11 +8,15 @@ uid: 579821
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/042/394/original/Screen_Shot_2020-08-06_at_8.17.01_AM.png)
+
 # Messages from the Mississippi: Lesson Plans
 
 by [purl](../profile/purl), [stevie](../profile/stevie), [mimiss](../profile/mimiss)
 
 January 14, 2021 02:13 | Tags: [education](../tag/education), [mississippi-river](../tag/mississippi-river), [parent:education](../tag/parent:education), [microplastics](../tag/microplastics), [babylegs](../tag/babylegs), [environmental-education](../tag/environmental-education), [lesson](../tag/lesson), [hands-on](../tag/hands-on), [baby-legs](../tag/baby-legs), [plastic-pollution](../tag/plastic-pollution), [lesson-plans](../tag/lesson-plans)
+
+----
 
 ## Understanding Plastic Pollution Through Hands-On Environmental Education
 

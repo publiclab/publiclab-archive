@@ -14,6 +14,8 @@ by [warren](../profile/warren) March 02, 2022 23:00
 
 March 02, 2022 23:00 | Tags: [uv](../tag/uv), [ultraviolet](../tag/ultraviolet), [fluorescence](../tag/fluorescence), [water-quality](../tag/water-quality), [lead](../tag/lead), [copper](../tag/copper), [lat:41](../tag/lat:41), [question:water-quality](../tag/question:water-quality), [minerals](../tag/minerals), [question:fluorescence](../tag/question:fluorescence), [question:lead](../tag/question:lead), [lon:-71](../tag/lon:-71), [zoom:6](../tag/zoom:6), [question:uv](../tag/question:uv)
 
+----
+
 I'm very curious about lead detection with deep UV - basically using UV in the 200-300nm range to make lead visibly glow in the visible range.
 
 I don't see the technique listed [on this page](https://publiclab.org/notes/read_holman/12-12-2018/list-of-methods-for-lead-detection-monitoring). But doing some deeper research...

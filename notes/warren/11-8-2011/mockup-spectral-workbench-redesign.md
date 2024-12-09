@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/SpectralWorkbenchmockups.png)
+
 # Mockup for Spectral Workbench redesign
 
 by [warren](../profile/warren) November 09, 2011 03:31
 
 November 09, 2011 03:31 | Tags: 
+
+----
 
 Spectral Workbench development continues:
 

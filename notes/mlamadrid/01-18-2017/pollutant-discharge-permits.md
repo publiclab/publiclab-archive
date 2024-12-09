@@ -8,11 +8,15 @@ uid: 45586
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/019/294/original/city-of-durham-stormwater-services-sta-member-in-a-drainage-ditch.JPG)
+
 # Pollutant  Discharge Permits
 
 by [mlamadrid](../profile/mlamadrid) January 18, 2017 00:02
 
 January 18, 2017 00:02 | Tags: [water-quality](../tag/water-quality), [water](../tag/water), [stormwater](../tag/stormwater), [with:gretchengehrke](../tag/with:gretchengehrke), [npdes](../tag/npdes), [permits](../tag/permits), [communityscienceforum](../tag/communityscienceforum)
+
+----
 
 Article by [Gretchen Gehrke](https://publiclab.org/profile/gretchengehrke) for [Community Science Forum: Water](https://publiclab.org/forum)
 

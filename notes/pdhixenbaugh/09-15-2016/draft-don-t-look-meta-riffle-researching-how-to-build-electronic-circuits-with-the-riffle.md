@@ -8,11 +8,15 @@ uid: 459085
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/018/049/original/breadboardpins.png)
+
 # (Draft, don't look) Meta-Riffle: Researching how to build Electronic Circuits with the Riffle
 
 by [pdhixenbaugh](../profile/pdhixenbaugh) September 15, 2016 04:32
 
 September 15, 2016 04:32 | Tags: [draft](../tag/draft)
+
+----
 
 Draft -- may contain stream of consciousness -- not ready for primetime, but feel free to look at the work in progress.
 

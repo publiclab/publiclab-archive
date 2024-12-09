@@ -3,6 +3,8 @@ uid: 488685
 created_at: 2016-08-23 01:47:58 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/505a990822a036da6df5e1d314455e6c)
+
 # Cogreg
 
 I am semi- sort-of retired. I am interested in learning low-level aerial photography and mapping. Maybe I'll pick up photogrammetry too!

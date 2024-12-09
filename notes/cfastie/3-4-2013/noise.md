@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/sites/default/files/Noise.PNG)
+
 # Noise
 
 by [cfastie](../profile/cfastie) March 05, 2013 04:32
 
 March 05, 2013 04:32 | Tags: [spectrometer](../tag/spectrometer), [vermont](../tag/vermont), [analysis](../tag/analysis), [ebert](../tag/ebert), [absorption](../tag/absorption), [sky](../tag/sky), [fraunhofer](../tag/fraunhofer)
+
+----
 
 <em>Image above: (Top) Detail of a spectrogram of the sky and a vertically blurred version of it. (Bottom) Intensity curves for the blue and green channels of the original (colored) and blurred (black) images. Vertical dashed lines identify Fraunhofer absorption lines.</em>
 

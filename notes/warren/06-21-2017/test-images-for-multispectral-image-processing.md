@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/020/841/original/calibration.jpg)
+
 # "Test images" for multispectral image processing
 
 by [warren](../profile/warren) June 21, 2017 20:48
 
 June 21, 2017 20:48 | Tags: [ndvi](../tag/ndvi), [infragram](../tag/infragram), [question:near-infrared-camera](../tag/question:near-infrared-camera), [question:ndvi](../tag/question:ndvi), [question:infragram](../tag/question:infragram), [question:infrared](../tag/question:infrared), [question:multispectral-imaging](../tag/question:multispectral-imaging), [multispectral-imaging](../tag/multispectral-imaging), [question:photo-monitoring-plugin](../tag/question:photo-monitoring-plugin)
+
+----
 
 Hi, all - talking with some collaborators, I'm interested in collecting a set of test images to validate different software for infrared/visible analysis, such as with the #infragram project, the [Photo Monitoring Plugin](/wiki/photo-monitoring-plugin), and various other approaches, like Photoshop or Gimp-based methods:
 

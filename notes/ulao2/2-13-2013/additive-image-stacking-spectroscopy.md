@@ -14,6 +14,8 @@ by [Ulao2](../profile/Ulao2) February 14, 2013 04:18
 
 February 14, 2013 04:18 | Tags: 
 
+----
+
 Additive Image Stacking In Spectroscopy
 
 When doing spectroscopy we are usually concerned with identifying radiation at particular wavelengths.  Whether in astronomy where we may be concerned with doppler shifts, broadening of lines or adsorption by gasses or in chemistry where we might be interested in emission or adsorption by particular elements or even isotopes what is often most important is the ability to measure the wavelength precisely.  All spectroscopists are forced to deal with the limitations of their instruments.  No material known to man is for example equally transparent nor linearly refractive across the entire useable electromagnetic spectrum.  Similarly no known sensor has a perfectly flat response curve across that same spectrum.  Thus any equipment used to produce spectrograms must be both radiometrically and geometrically calibrated.  In order to do this it is helpful to have as sharply defined lines as possible. 

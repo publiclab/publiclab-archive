@@ -8,11 +8,15 @@ uid: 700923
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/043/717/original/Public_Lab_Letterhead_blank.png)
+
 # Seeking Frontline Community Organizers to lead Public Lab’s Fellowship Teams
 
 by [amocorro](../profile/amocorro) April 23, 2021 21:33
 
 April 23, 2021 21:33 | Tags: [jobs](../tag/jobs), [with:stevie](../tag/with:stevie), [fellows](../tag/fellows), [fellowship](../tag/fellowship), [community-organizing](../tag/community-organizing)
+
+----
 
 ## Important update to Fellowship Teams Program
 

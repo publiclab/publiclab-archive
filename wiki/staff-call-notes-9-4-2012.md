@@ -14,6 +14,8 @@ by [warren](../profile/warren)
 
 September 10, 2012 17:36 | Tags: 
 
+----
+
 ###Liz###
 * Goals - further outreach for spectrometer campaign, event organizing (as usual)
 * Accomp - big party at pfizer, set up Pratt workshop for October 25-26

@@ -8,11 +8,15 @@ uid: 501996
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/025/254/original/Slide4.JPG)
+
 # Infrared Insect Microscopy
 
 by [MaggPi](../profile/MaggPi) June 21, 2018 05:11
 
 June 21, 2018 05:11 | Tags: [pi](../tag/pi), [raspberry](../tag/raspberry), [microscope](../tag/microscope), [multispectral-imaging](../tag/multispectral-imaging), [activity:microscope](../tag/activity:microscope), [gsoc-2018](../tag/gsoc-2018), [activity:community-microscope](../tag/activity:community-microscope), [community-microscope](../tag/community-microscope), [noir](../tag/noir), [activity:community-microscope-usage](../tag/activity:community-microscope-usage), [pin:activity:community-microscope-usage](../tag/pin:activity:community-microscope-usage)
+
+----
 
 Summary:This research note shows microscopic images/ videos of three insects observed with white and IR (850nm/940nm) LED light.   The images show that viewing insect internal features is possible. 
 

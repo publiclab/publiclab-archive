@@ -8,11 +8,15 @@ uid: 751723
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/043/572/original/EzZsyJ2XEAArq1k.png)
+
 # Outreachy proposal: Improve education-related usability and functionality on PublicLab.org
 
 by [lukoyedith](../profile/lukoyedith) April 27, 2021 17:13
 
 April 27, 2021 17:13 | Tags: [zoom:6](../tag/zoom:6), [outreachy-summer-2021](../tag/outreachy-summer-2021), [outreachy-2021](../tag/outreachy-2021), [outreachy-proposals-2021](../tag/outreachy-proposals-2021), [lat:-1.292065](../tag/lat:-1.292065), [lon:36.821946](../tag/lon:36.821946)
+
+----
 
 ![image description](/i/43573.png "Screenshot_(56).png")
 

@@ -8,11 +8,15 @@ uid: 422092
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/003/481/original/tmp_20140403_164011_HDR-769398645.jpg)
+
 # West village 
 
 by [FrankVriale](../profile/FrankVriale) April 03, 2014 21:01
 
 April 03, 2014 21:01 | Tags: 
+
+----
 
 ###What I want to do
 

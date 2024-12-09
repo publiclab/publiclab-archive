@@ -8,11 +8,15 @@ uid: 197186
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/001/200/original/photo_%282%29.JPG)
+
 # Constructing a <£2, 90g wooden/metal picavet
 
 by [TedF](../profile/TedF) August 18, 2013 19:07
 
 August 18, 2013 19:07 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [picavet](../tag/picavet), [photo-rig](../tag/photo-rig), [camera-rig](../tag/camera-rig), [activity:kite-mapping](../tag/activity:kite-mapping), [activity:photo-rig](../tag/activity:photo-rig), [first-time-poster](../tag/first-time-poster)
+
+----
 
 ##What I want to do
 Build a cheap picavet to stabilise the camera for kite mapping (or balloon mapping).

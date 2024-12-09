@@ -8,11 +8,15 @@ uid: 495038
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/037/992/original/cosquin5.jpg)
+
 # Agrotóxicos en Cosquín - Argentina
 
 by [imvec](../profile/imvec), [xose](../profile/xose)
 
 February 06, 2020 18:40 | Tags: [lang:es](../tag/lang:es), [project](../tag/project), [argentina](../tag/argentina), [soil-sampling](../tag/soil-sampling), [ballon-mapping](../tag/ballon-mapping), [spanish](../tag/spanish), [zoom:8](../tag/zoom:8), [cosquin](../tag/cosquin), [place:cordoba-argentina](../tag/place:cordoba-argentina), [monsanto](../tag/monsanto), [lat:-31.245681](../tag/lat:-31.245681), [lon:-64.467773](../tag/lon:-64.467773), [place:argentina](../tag/place:argentina), [autodefensa-vecinal](../tag/autodefensa-vecinal)
+
+----
 
 La población de la ciudad de Cosquín en la provincia Argentina de Córdoba vive afectada desde hace años por la fumigación continuada con agrotóxicos en cultivos experimentales con transgénicos.
 
@@ -56,4 +60,4 @@ El 31 de Marzo comienza el segundo juicio a las fumigaciones en el Barrio de Itu
 
 Si publicas alguna nota relacionada no olvides usar el tag **cosquin** para que la nota aparezca automáticamente en esta parrilla.
 
-[notes:cosquin]
+[cosquin](../../tag/cosquin)

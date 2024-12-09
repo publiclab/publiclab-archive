@@ -14,6 +14,8 @@ by [warren](../profile/warren)
 
 April 06, 2011 15:47 | Tags: [hydrogen](../tag/hydrogen), [coffee-box](../tag/coffee-box), [dunkin-donuts](../tag/dunkin-donuts), [lye](../tag/lye), [aluminum](../tag/aluminum)
 
+----
+
 ##Warning: this is purely experimental, can be dangerous, and we do not recommend you try it##
 
 _The notes here are to document our own research in generating hydrogen for use in [balloon mapping](/tool/balloon-mapping)_

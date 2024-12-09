@@ -8,11 +8,15 @@ uid: 380298
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/023/299/original/Smart-Forms_wireframes-cropped-page-001.jpg)
+
 # Refining the user interface of a community science app
 
 by [nshapiro](../profile/nshapiro) January 23, 2018 02:27
 
 January 23, 2018 02:27 | Tags: [formaldehyde](../tag/formaldehyde), [indoor-air-quality](../tag/indoor-air-quality), [with:gretchengehrke](../tag/with:gretchengehrke), [indoor-air](../tag/indoor-air), [ui](../tag/ui), [smart-form](../tag/smart-form), [with:lightandluck](../tag/with:lightandluck)
+
+----
 
 **Smartphone App for Residential Testing of Formaldehyde (SmART-Form)**
 

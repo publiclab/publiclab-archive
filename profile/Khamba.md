@@ -3,6 +3,8 @@ uid: 503974
 created_at: 2017-03-11 07:03:10 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/65bc1b77e56d66c91f1b6f19aca569ff)
+
 # Khamba
 
 Hi,

@@ -8,11 +8,15 @@ uid: 422181
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/003/519/original/pedro2_jaxo.png)
+
 # Revamping infragram.js to to the job on the client side
 
 by [ghk](../profile/ghk) April 05, 2014 12:33
 
 April 05, 2014 12:33 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [near-infrared](../tag/near-infrared), [infragram](../tag/infragram), [camera](../tag/camera), [first-time-poster](../tag/first-time-poster)
+
+----
 
 ###What I want to do
 Run infrablue transform on the client (aka Javascript) so that I dont overload the infragram site.

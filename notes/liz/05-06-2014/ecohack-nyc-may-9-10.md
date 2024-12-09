@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/004/075/original/Screen_Shot_2014-05-06_at_3.09.39_PM.png)
+
 # EcoHack NYC May 9-10
 
 by [liz](../profile/liz) May 06, 2014 19:17
 
 May 06, 2014 19:17 | Tags: [new-york-city](../tag/new-york-city), [ecohack](../tag/ecohack), [event](../tag/event)
+
+----
 
 ###Location
 

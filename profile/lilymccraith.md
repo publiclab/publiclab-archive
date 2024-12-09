@@ -3,6 +3,8 @@ uid: 747805
 created_at: 2021-03-15 17:57:07 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/747805/medium/kitesite.jpg)
+
 # lilymccraith
 
 I am a designer, researcher and creative technologist working across technologies and disciplines. My work investigates systems, infrastructures and ecologies via active methods of research, enquiry and collaboration. 

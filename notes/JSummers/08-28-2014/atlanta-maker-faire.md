@@ -8,11 +8,15 @@ uid: 304279
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/006/488/original/MakerLogo.png)
+
 # Atlanta Maker Faire
 
 by [JSummers](../profile/JSummers) August 28, 2014 17:24
 
 August 28, 2014 17:24 | Tags: [event](../tag/event), [event:rsvp](../tag/event:rsvp), [date:08-28-2014](../tag/date:08-28-2014)
+
+----
 
 ###What I want to do:
 I will be presenting material published on the Public Lab site to the good people of Atlanta.  

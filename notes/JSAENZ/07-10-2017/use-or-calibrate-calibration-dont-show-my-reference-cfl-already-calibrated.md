@@ -14,6 +14,8 @@ by [JSAENZ](../profile/JSAENZ) July 10, 2017 19:18
 
 July 10, 2017 19:18 | Tags: [question:spectral-workbench](../tag/question:spectral-workbench)
 
+----
+
 Hello, i'm a newbie from Spain ( Seville ).
 
 I've uploaded an image of a light bulb CFL and I've calibrated it fine.

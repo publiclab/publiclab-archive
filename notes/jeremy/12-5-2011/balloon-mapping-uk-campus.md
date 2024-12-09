@@ -8,11 +8,15 @@ uid: 323
 
 ---
 
+![](https://publiclab.org/sites/default/files/img_4293.jpg)
+
 # Balloon Mapping the UK Campus
 
 by [jeremy](../profile/jeremy) December 05, 2011 15:34
 
 December 05, 2011 15:34 | Tags: [first-time-poster](../tag/first-time-poster)
+
+----
 
 The UK campus is getting mapped--with helium-filled balloons!
 

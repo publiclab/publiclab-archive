@@ -8,11 +8,15 @@ uid: 553044
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/031/882/original/2019-05-11_23_47_45-MapKnitter__Garbage_Hot_spots.png)
+
 # How to delete the images which I do not want to place in the map?
 
 by [silentsairam](../profile/silentsairam) May 11, 2019 18:34
 
 May 11, 2019 18:34 | Tags: [ndvi](../tag/ndvi), [mapknitter](../tag/mapknitter), [ballon-mapping](../tag/ballon-mapping), [community-atlas](../tag/community-atlas), [map-knitter](../tag/map-knitter), [lat:12.919907](../tag/lat:12.919907), [lon:77.59671](../tag/lon:77.59671)
+
+----
 
 Started using features of Annotate and trying to add One color Markers in all Locations so far I mapped.
 

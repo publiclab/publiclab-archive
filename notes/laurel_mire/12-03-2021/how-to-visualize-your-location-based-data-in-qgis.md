@@ -8,11 +8,15 @@ uid: 759178
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/045/140/original/8715654343_71f64d4d75_b.jpg)
+
 # How to visualize your location-based data in QGIS
 
 by [laurel_mire](../profile/laurel_mire) December 03, 2021 22:43
 
 December 03, 2021 22:43 | Tags: [mapping](../tag/mapping), [air-quality](../tag/air-quality), [gis](../tag/gis), [barnstar:basic](../tag/barnstar:basic), [data-visualization](../tag/data-visualization), [activity:new](../tag/activity:new), [activity:gis](../tag/activity:gis), [activity:mapping](../tag/activity:mapping), [research-curation-fellows](../tag/research-curation-fellows), [presenting-data](../tag/presenting-data), [activity:presenting-data](../tag/activity:presenting-data), [air-quality-data](../tag/air-quality-data), [data-visualization-tool](../tag/data-visualization-tool), [activity:air-quality-data](../tag/activity:air-quality-data), [data-viz](../tag/data-viz)
+
+----
 
 *Lead image courtesy of [Nathan Woodrow][1] [CC BY 2.0][2]*
 

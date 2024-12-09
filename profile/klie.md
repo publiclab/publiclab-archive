@@ -3,6 +3,8 @@ uid: 441262
 created_at: 2015-05-08 15:45:43 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/441262/medium/525969_2852324606508_1308407748_n.jpg)
+
 # klie
 
 Interested in water, climate change, displacement, building equitable movements, and social/environmental justice. Communications Director at Transilient. Communications Specialist at Water Works. From/based in New Orleans.

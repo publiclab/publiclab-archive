@@ -8,11 +8,15 @@ uid: 59273
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/007/449/original/ignite.PNG)
+
 # Ignite Philly Talk on Balloon Mapping 
 
 by [manetomapping](../profile/manetomapping) October 16, 2014 14:57
 
 October 16, 2014 14:57 | Tags: [balloon-mapping](../tag/balloon-mapping), [philadelphia](../tag/philadelphia)
+
+----
 
 ###What I want to do
 [Sean McGinnis](http://publiclab.org/profile/SeanKMcGinnis) and I wanted to share our experiences and enthusiasm for balloon mapping and the Public Lab.

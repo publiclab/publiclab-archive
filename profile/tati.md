@@ -3,6 +3,8 @@ uid: 428062
 created_at: 2014-09-08 03:55:31 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/eec959c6c8471761738263ca6f2ec8c7)
+
 # tati
 
 

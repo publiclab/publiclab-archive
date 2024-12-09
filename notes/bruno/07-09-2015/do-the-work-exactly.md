@@ -8,11 +8,15 @@ uid: 445183
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/010/589/original/2015-07-09T13_19_39.948Z.jpg)
+
 # do the work exactly
 
 by [bruno](../profile/bruno) July 09, 2015 15:56
 
 July 09, 2015 15:56 | Tags: [ndvi](../tag/ndvi), [white-balance](../tag/white-balance), [question:ndvi](../tag/question:ndvi)
+
+----
 
 good morning public lab and co workers. 
 this is my first post and would be graceful, so many thanks for your efforts.

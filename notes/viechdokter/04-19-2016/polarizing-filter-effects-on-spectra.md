@@ -8,11 +8,15 @@ uid: 468990
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/015/670/original/Polfilter_header.jpg)
+
 # Polarizing filter effects on spectra
 
 by [viechdokter](../profile/viechdokter) April 19, 2016 16:52
 
 April 19, 2016 16:52 | Tags: [spectrometer](../tag/spectrometer), [spectroscopy](../tag/spectroscopy), [overexposure](../tag/overexposure), [spectrum](../tag/spectrum), [polarizing_filter](../tag/polarizing_filter), [dimmer](../tag/dimmer)
+
+----
 
 **The problem:  Overexposure. ** 
 

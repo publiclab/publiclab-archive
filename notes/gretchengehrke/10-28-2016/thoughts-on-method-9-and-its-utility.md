@@ -8,11 +8,15 @@ uid: 430549
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/018/665/original/SmokeSchool-crop.jpg)
+
 # Thoughts on Method 9 and its utility 
 
 by [gretchengehrke](../profile/gretchengehrke) October 28, 2016 18:15
 
 October 28, 2016 18:15 | Tags: [plume](../tag/plume), [epa](../tag/epa), [air-quality](../tag/air-quality), [blog](../tag/blog), [pm](../tag/pm), [open-air](../tag/open-air), [certification](../tag/certification), [smoke-school](../tag/smoke-school), [method-9](../tag/method-9), [fugitive-emissions](../tag/fugitive-emissions), [visible-emissions](../tag/visible-emissions), [alternative-method-82](../tag/alternative-method-82), [method-22](../tag/method-22), [visual-monitoring](../tag/visual-monitoring), [opacity](../tag/opacity)
+
+----
 
 Several people in our Public Lab community are concerned about various kinds of airborne emissions, and what we as the public can do about them. One of the most accessible methods for assessing emissions is to estimate the opacity of emissions (I’ll explain a bit about this below) using EPA’s Method 9. Some community members have gone through Method 9 training and have found it very useful; others have found that it hasn’t been useful for their situations. I recently went through the training and became certified for Method 9, and I want to share some of the things I learned in that process, and my thoughts about the potential utility of Method 9 for various situations and concerns. Please comment and share your thoughts too! 
 

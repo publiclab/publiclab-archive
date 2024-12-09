@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/000/152/original/2013-04-30_09.52.08ca.jpg)
+
 # Middlebury Meetup
 
 by [cfastie](../profile/cfastie) May 02, 2013 00:58
 
 May 02, 2013 00:58 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [nrg](../tag/nrg), [ndvi](../tag/ndvi), [vermont](../tag/vermont), [kite-aerial-photography](../tag/kite-aerial-photography), [infrared](../tag/infrared), [farmhack](../tag/farmhack), [uav](../tag/uav), [agriculture](../tag/agriculture), [event](../tag/event), [infragram](../tag/infragram), [superblue](../tag/superblue), [rosco](../tag/rosco), [infrablue](../tag/infrablue), [gigapan](../tag/gigapan)
+
+----
 
 <em>Image above: I made Bill lie on the ground to take this photo of the dual camera infrared rig, the Fled which was lifting it, and Ned's new homemade Rokkaku (which made me very envious).</em>
 

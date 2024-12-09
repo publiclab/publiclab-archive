@@ -8,11 +8,15 @@ uid: 461120
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/017/932/original/TITLE_PIC.png)
+
 # CFL and LED Bulb Study Section III
 
 by [dhaffnersr](../profile/dhaffnersr) September 06, 2016 12:21
 
 September 06, 2016 12:21 | Tags: 
+
+----
 
 ##Author, David H. Haffner Sr.
 September, 5 2016

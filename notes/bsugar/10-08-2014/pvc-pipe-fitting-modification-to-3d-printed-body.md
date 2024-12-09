@@ -8,11 +8,15 @@ uid: 217812
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/007/374/original/IMG_2744.JPG)
+
 # PVC Pipe Fitting Modification to 3D Printed Body
 
 by [bsugar](../profile/bsugar) October 08, 2014 01:50
 
 October 08, 2014 01:50 | Tags: [spectrometer](../tag/spectrometer), [countertop-spectrometer](../tag/countertop-spectrometer), [3d-printing](../tag/3d-printing), [midwest](../tag/midwest), [barnstar:excessive-enthusiasm](../tag/barnstar:excessive-enthusiasm), [mid-west](../tag/mid-west), [response:10066](../tag/response:10066)
+
+----
 
 *Special thanks to a friend at my local hometown library for her help in making this possible, and for sending me the many animated gifs enclosed in this note.  Aside from keeping my spirits up, they are as much a part of this research as the product itself.*
 

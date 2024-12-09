@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/034/916/original/Screen_Shot_2019-08-27_at_9.34.10_AM.png)
+
 # Moderation
 
 by [bsugar](../profile/bsugar), [liz](../profile/liz), [koplak79](../profile/koplak79), [cfastie](../profile/cfastie), [engineeredgreenhouses12](../profile/engineeredgreenhouses12), [xose](../profile/xose), [engineeredgreenhouses1](../profile/engineeredgreenhouses1), [growextrememax](../profile/growextrememax), [warren](../profile/warren), [tester](../profile/tester), [ddileona](../profile/ddileona)
 
 March 18, 2016 14:51 | Tags: [community](../tag/community), [spam](../tag/spam), [moderation](../tag/moderation), [lat:25](../tag/lat:25), [first-contribution](../tag/first-contribution), [contribute](../tag/contribute)
+
+----
 
 ## Why moderate?
 

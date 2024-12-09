@@ -8,11 +8,15 @@ uid: 664477
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/044/738/original/River_Alejo_copy.jpeg)
+
 # Detecting wastewater pollution
 
 by [bhamster](../profile/bhamster)
 
 August 27, 2021 16:25 | Tags: [sewage](../tag/sewage), [water-quality](../tag/water-quality), [stormwater](../tag/stormwater), [wastewater](../tag/wastewater), [method](../tag/method), [detecting-wastewater](../tag/detecting-wastewater), [detecting-wastewater-method](../tag/detecting-wastewater-method), [parent:wastewater](../tag/parent:wastewater)
+
+----
 
 _Lead image: Along the Suquía River in Córdoba, Argentina. From [this comment](https://publiclab.org/notes/bhamster/08-18-2021/post-your-photos-of-possible-wastewater-pollution-postea-tus-fotos-de-aguas-posiblemente-residuales#c29184) by @alejobonifacio, CC BY SA_
 
@@ -70,7 +74,7 @@ _**METHODS:**_
 
 #### **Documenting visual changes in water color or clarity**
 
-[notes:grid:wastewater-color]
+[grid:wastewater-color](../../tag/grid:wastewater-color)
 
 
 + [Aerial photography](https://publiclab.org/wiki/aerial-photography) and satellite imagery
@@ -107,7 +111,7 @@ _<small>Left: Secchi disk for measuring turbidity, from [this note](https://publ
 
 Activities on `turbidity`
 
-[activities:turbidity]
+[turbidity](../../tag/activity:turbidity)
 
 <br>
 
@@ -127,7 +131,7 @@ Methods and activities related to odor logging can be found here: [https://publi
 
 Activities on `odor`
 
-[activities:odor]
+[odor](../../tag/activity:odor)
 
 <br>
 
@@ -157,7 +161,7 @@ _<small>A long-exposure photograph of colored lights on a thermal fishing bob to
 
 Activities on `thermal-fishing-bob`
 
-[activities:thermal-fishing-bob]
+[thermal-fishing-bob](../../tag/activity:thermal-fishing-bob)
 
 <br>
 
@@ -168,7 +172,7 @@ Activities on `thermal-fishing-bob`
 
 Activities on `thermal-photography`
 
-[activities:thermal-photography]
+[thermal-photography](../../tag/activity:thermal-photography)
 
 <br>
 
@@ -210,7 +214,7 @@ _**METHODS**_
 
 #### **Detecting optical brighteners**
 
-[notes:wastewater-optical-brighteners]
+[wastewater-optical-brighteners](../../tag/wastewater-optical-brighteners)
 
 
 <img style="width: 40%; height: 40%" src="https://publiclab.org/i/44567.jpeg" alt="optical brighteners">
@@ -223,7 +227,7 @@ _<small>UV light makes a tampon exposed to optical brighteners glow brightly. In
 
 Certain bacteria help to clean water by breaking down organic wastes, and they use oxygen in the process. Measuring the amount of oxygen in water and how readily it might be used can help create a picture of how much organic waste is present and how well it’s breaking down.  
 
-[notes:wastewater-organic-matter]
+[wastewater-organic-matter](../../tag/wastewater-organic-matter)
 
 <br>
 
@@ -247,7 +251,7 @@ _image to come here!_
 
 Activities on `bioindicators`
 
-[activities:bioindicators]
+[bioindicators](../../tag/activity:bioindicators)
 
 <br>
 
@@ -285,7 +289,7 @@ The Public Lab [Oil Testing Kit](https://publiclab.org/wiki/oil-testing-kit) use
 
 Questions tagged with `question:detecting-wastewater` will appear here
 
-[questions:detecting-wastewater]
+[detecting-wastewater](../../tag/question:detecting-wastewater)
 
 <br>
 
@@ -293,7 +297,7 @@ Questions tagged with `question:detecting-wastewater` will appear here
 
 Activities tagged with `activity:detecting-wastewater` will appear here
 
-[notes:activity:detecting-wastewater]
+[activity:detecting-wastewater](../../tag/activity:detecting-wastewater)
 
 <br>
 

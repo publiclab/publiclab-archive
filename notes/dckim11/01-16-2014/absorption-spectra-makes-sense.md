@@ -8,11 +8,15 @@ uid: 300699
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/002/566/original/photo.JPG)
+
 # Absorption spectra makes sense?
 
 by [dckim11](../profile/dckim11) January 16, 2014 04:49
 
 January 16, 2014 04:49 | Tags: 
+
+----
 
 I am trying to look at the growth of algae in a petri dish placed between a light source and the spectrophotometer.
 [![photo.JPG](https://i.publiclab.org/system/images/photos/000/002/565/medium/photo.JPG)](https://i.publiclab.org/system/images/photos/000/002/565/original/photo.JPG)

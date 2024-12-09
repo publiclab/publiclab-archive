@@ -8,11 +8,15 @@ uid: 304279
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/028/563/original/Injector4_25.jpg)
+
 # DIY injection device for chemical reaction kinetics.
 
 by [JSummers](../profile/JSummers) December 31, 2018 21:28
 
 December 31, 2018 21:28 | Tags: [hardware](../tag/hardware), [enzyme-kinetics](../tag/enzyme-kinetics), [chemical-kinetics](../tag/chemical-kinetics), [reaction-mechanisms](../tag/reaction-mechanisms), [lab-instruments](../tag/lab-instruments)
+
+----
 
 _\*\*\*\*work by Jack S. Summers, Taylor Stack,
 Hailey Medder, Kristen Eggles._

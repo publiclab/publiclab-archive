@@ -14,6 +14,8 @@ by [mathew](../profile/mathew), [warren](../profile/warren)
 
 June 01, 2011 02:41 | Tags: 
 
+----
+
 [Google Doc](https://docs.google.com/document/d/15zkK1Fe1mBCsrL_cms3ofDoQDQ-wZ8eEWzbiJTTa8Rs/edit?pli=1&hl=en#)
 
 _Liz, Stewart, Shannon, Sara, Adam, Jeff. Mathew was unable to make it but left notes, included at bottom._

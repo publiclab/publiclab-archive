@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/011/706/original/Screen_Shot_2015-09-28_at_6.56.05_PM.png)
+
 # Ideas on opening "open hardware"
 
 by [liz](../profile/liz) September 28, 2015 23:33
 
 September 28, 2015 23:33 | Tags: [with:warren](../tag/with:warren), [with:donblair](../tag/with:donblair)
+
+----
 
 Hey folks, this is a line of thought that needs your input! 
 

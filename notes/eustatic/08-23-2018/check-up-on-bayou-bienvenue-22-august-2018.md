@@ -8,11 +8,15 @@ uid: 379
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/026/306/original/a_IMG_3974.JPG)
+
 # Check up on Bayou Bienvenue 22 August 2018
 
 by [eustatic](../profile/eustatic) August 23, 2018 03:27
 
 August 23, 2018 03:27 | Tags: [gulf-coast](../tag/gulf-coast), [balloon-mapping](../tag/balloon-mapping), [wetlands](../tag/wetlands), [louisiana](../tag/louisiana), [wetland](../tag/wetland), [bienvenue](../tag/bienvenue), [water-quality](../tag/water-quality), [invasive](../tag/invasive), [neworleans](../tag/neworleans), [willow](../tag/willow), [urbanwater](../tag/urbanwater), [hyacinth](../tag/hyacinth), [duckweed](../tag/duckweed), [mullet](../tag/mullet), [osprey](../tag/osprey), [egret](../tag/egret), [louisianaheron](../tag/louisianaheron), [blueheron](../tag/blueheron), [milfoil](../tag/milfoil)
+
+----
 
 We flew an old school Canon and balloon rig, like in the glory days of 2010, in the still heat of Bayou Bienvenue. except we also flew a Canmore locator to get lat long data. It was hot. I got stung by wasps. no limbs were lost to the mama gator on the far side. Hundreds of mullet were jumping in the six inch to two foot water depth. Liz had never seen a fish jump, which blew my mind. Happy, Roland, Joe, Stevie, Scott, Liz.
 

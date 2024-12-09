@@ -14,6 +14,8 @@ by [liz](../profile/liz), [warren](../profile/warren), [sara](../profile/sara)
 
 January 20, 2012 19:07 | Tags: [idealab](../tag/idealab)
 
+----
+
 PBS published a blog about our Thermal Flashlight Development this week. Check it out:
 
 <a href="http://www.pbs.org/idealab/2012/01/how-public-labs-thermal-flashlight-could-improve-home-insulation013.html">http://www.pbs.org/idealab/2012/01/how-public-labs-thermal-flashlight-could-improve-home-insulation013.html</a>

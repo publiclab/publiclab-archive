@@ -14,6 +14,8 @@ by [fongvania](../profile/fongvania) August 19, 2021 05:58
 
 August 19, 2021 05:58 | Tags: [air-quality](../tag/air-quality), [community-engagement](../tag/community-engagement), [notes](../tag/notes), [air-quality-projects](../tag/air-quality-projects), [research-curation-fellows](../tag/research-curation-fellows), [community-calls](../tag/community-calls)
 
+----
+
 Thank you to everyone who could make it to the call! This research note summarizes the highlights, and you can access the full notes [HERE](https://pad.publiclab.org/p/air-quality-community-call).
 
 ## Attendees

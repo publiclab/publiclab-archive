@@ -8,11 +8,15 @@ uid: 8
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/004/707/original/H2SMaker_Fair_PosterFinal.pdf)
+
 # Wyoming Hydrogen Sulfide Testing 2013-2014
 
 by [ewilder](../profile/ewilder), [sara](../profile/sara)
 
 June 13, 2014 15:23 | Tags: [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s), [natural-gas](../tag/natural-gas), [wyoming](../tag/wyoming)
+
+----
 
 ##Purpose of this research
 

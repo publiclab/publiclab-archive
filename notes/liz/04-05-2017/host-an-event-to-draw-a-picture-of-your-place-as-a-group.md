@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/020/086/original/IMG_2031.JPG)
+
 # Host a collaborative map drawing workshop
 
 by [liz](../profile/liz) April 05, 2017 16:22
 
 April 05, 2017 16:22 | Tags: [elp](../tag/elp), [mental-mapping](../tag/mental-mapping), [getting-started](../tag/getting-started), [parent:gardening-toolkit](../tag/parent:gardening-toolkit), [gardening-toolkit](../tag/gardening-toolkit), [land-use](../tag/land-use), [time:3h](../tag/time:3h), [activity:teach-and-learn](../tag/activity:teach-and-learn), [activity:site-survey](../tag/activity:site-survey), [activity:gardening](../tag/activity:gardening), [activity:getting-started](../tag/activity:getting-started), [activity:land-use](../tag/activity:land-use), [getting-started-soil](../tag/getting-started-soil), [activity:getting-started-soil](../tag/activity:getting-started-soil)
+
+----
 
 This is one of a series of guides for collaborative environmental research and advocacy projects. "Start Here" is about creating a picture of our place together. This guide covers how to do this with a group using paper and markers. For a followup activity, check out the next guide to putting this info online using [mapknitter](https://mapknitter.org).
 

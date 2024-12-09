@@ -14,6 +14,8 @@ by [leeuwenstein](../profile/leeuwenstein) July 16, 2012 10:58
 
 July 16, 2012 10:58 | Tags: [spectrometer](../tag/spectrometer), [question:spectrometer](../tag/question:spectrometer)
 
+----
+
 I ' AM INTERSTING IN SPECTRA'S OF GEMSTONES 
 I'am a gemmologist.
 How can I upload my picture ?

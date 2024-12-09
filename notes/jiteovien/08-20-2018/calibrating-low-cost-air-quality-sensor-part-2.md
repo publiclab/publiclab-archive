@@ -14,6 +14,8 @@ by [jiteovien](../profile/jiteovien) August 20, 2018 16:08
 
 August 20, 2018 16:08 | Tags: [calibration](../tag/calibration), [air-quality](../tag/air-quality), [dustduino](../tag/dustduino), [pm](../tag/pm), [particulate-matter](../tag/particulate-matter), [air-sensors](../tag/air-sensors), [activity:calibration](../tag/activity:calibration)
 
+----
+
 This is a follow up post to \[Calibrating low cost air quality sensor\]([https://publiclab.org/notes/jiteovien/07-18-2018/calibrating-low-cost-air-quality-sensor-1-2](https://publiclab.org/notes/jiteovien/07-18-2018/calibrating-low-cost-air-quality-sensor-1-2)).
 
 I built 3 sensors around the Shinyei that log data on an SD card. I also 3D printed some enclosures. A picture of a finished box (lid not shown) is below. I tested the sensors pretty extensively indoors to ensure that the program and electronics were running well. I did not find any issues.

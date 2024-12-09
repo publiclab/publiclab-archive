@@ -8,11 +8,15 @@ uid: 438931
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/009/737/original/spectrum.jpg)
+
 # The accidental raspberry pi spectrometer: first light
 
 by [khufkens](../profile/khufkens) April 29, 2015 02:28
 
 April 29, 2015 02:28 | Tags: [spectrometer](../tag/spectrometer), [diy](../tag/diy), [light](../tag/light), [first](../tag/first)
+
+----
 
 I put my design together today. The design used is shown below, but has some issues still. General layout: slit on the left, baffle and grating  / sensor array on the right.
 

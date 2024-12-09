@@ -14,6 +14,8 @@ by [Shannon](../profile/Shannon) July 28, 2012 03:16
 
 July 28, 2012 03:16 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
 
+----
+
 Hope that everyone is having a great Friday evening (or in some places Saturday morning, Friday afternoon...)! This week in the Public Lab community newsletter, check out the DIY glove box that students at Parts & Crafts in Somerville, MA created, get together with some of your fellow Public Lab friends in Berkeley, CA for the kite festival this weekend and get involved with testing photostrips that sense for Hydrogen Sulfide. Enjoy! 
 
 1. Bay area kite festival Public Lab gathering. Over the last week, a bunch of people in the Bay area have been emailing about getting together at the [Berkeley Kite Fest](http://www.highlinekites.com/pages.php?pageid=21) over July 28-29. From the most recent email it sounds like people are [planning on meeting tomorrow](https://groups.google.com/forum/#!topic/publiclaboratory/jkiQpDd085A) (Saturday) morning. Should be a great chance to test fly kite designs and meet others in the community! 

@@ -14,6 +14,8 @@ by [denissebn_06](../profile/denissebn_06) July 12, 2021 21:02
 
 July 12, 2021 21:02 | Tags: [landfill](../tag/landfill), [air](../tag/air), [air-monitoring](../tag/air-monitoring), [question:general](../tag/question:general), [general](../tag/general), [with:sarasage](../tag/with:sarasage), [question:vvamp](../tag/question:vvamp), [landuse](../tag/landuse)
 
+----
+
 These are all gasses we are monitoring, we want to know more about their density and were in the air to monitor them? Need this info to calibrate the equipment and make sure to do the monitoring correctly.  We want to know more about the characteristics of these gases, are they odorless, densities?   
 
 - CH4 methane

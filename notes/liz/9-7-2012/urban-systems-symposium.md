@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/sites/default/files/berkeley.jpg)
+
 # Urban Systems Symposium
 
 by [liz](../profile/liz) September 07, 2012 18:29
 
 September 07, 2012 18:29 | Tags: [events](../tag/events)
+
+----
 
 <em>caption: UCBerkeley's campus, site of this year's Urban Systems Symposium. </em>
 Link to event page: <a href="http://urbansystemscollaborative.org/usc-fall-2012-meet-university-of-california-berkeley/">http://urbansystemscollaborative.org/usc-fall-2012-meet-university-of-california-berkeley/</a>

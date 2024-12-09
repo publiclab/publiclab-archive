@@ -8,11 +8,15 @@ uid: 4
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/008/629/original/IMG_20150114_130503.jpg)
+
 # sketching a waterproof pop bottle sensor system
 
 by [mathew](../profile/mathew) January 16, 2015 23:16
 
 January 16, 2015 23:16 | Tags: [housing](../tag/housing), [water-quality](../tag/water-quality), [riffle](../tag/riffle), [open-water](../tag/open-water), [openwater](../tag/openwater), [bottle](../tag/bottle), [weatherproofing](../tag/weatherproofing), [riffle-examples](../tag/riffle-examples), [data-logger-enclosures](../tag/data-logger-enclosures), [sensor-enclosures](../tag/sensor-enclosures), [activity:sensor-enclosures](../tag/activity:sensor-enclosures)
+
+----
 
 ###What I want to do
 I want to make a way to reliably put sensors through the cap of a PET bottle. the [Open Water Project](http://publiclab.org/wiki/the-open-water-project-faq) is using bottles for waterproofing, which I really like, and punches sensors through the lid.

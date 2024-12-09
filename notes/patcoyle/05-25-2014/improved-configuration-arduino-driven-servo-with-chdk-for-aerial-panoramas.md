@@ -8,11 +8,15 @@ uid: 77
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/004/460/original/IMG_4545.JPG)
+
 # Improved configuration: Arduino driven servo with CHDK for aerial panoramas
 
 by [patcoyle](../profile/patcoyle) May 25, 2014 07:10
 
 May 25, 2014 07:10 | Tags: [arduino](../tag/arduino), [aerial-photography](../tag/aerial-photography), [panorama](../tag/panorama), [autokap](../tag/autokap)
+
+----
 
 ###What I want to do
 Incorporate suggestions on [initial results](http://publiclab.org/notes/patcoyle/05-22-2014/initial-results-kap-with-arduino-driven-servo-with-chdk-for-panoramas) for Arduino control of Parallax servo with CHDK for aerial panoramas. [Also the new commets on this note.]

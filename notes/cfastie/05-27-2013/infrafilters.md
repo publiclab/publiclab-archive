@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/000/416/original/WheatNBG.jpg)
+
 # Infrafilters
 
 by [cfastie](../profile/cfastie) May 27, 2013 20:03
 
 May 27, 2013 20:03 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [nir](../tag/nir), [vermont](../tag/vermont), [photoshop](../tag/photoshop), [infragram](../tag/infragram), [rosco](../tag/rosco), [infrablue](../tag/infrablue), [infragram-filters](../tag/infragram-filters)
+
+----
 
 <em>Image above: An infrablue photo (Infragram prototype) and a false color infrared look-alike image made from it. Instead of NRG (near-infrared, red, green) this images displays NBG (near-infrared, blue, green).</em>
 

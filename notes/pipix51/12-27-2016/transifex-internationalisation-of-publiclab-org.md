@@ -8,11 +8,15 @@ uid: 500694
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/019/143/original/Screenshot_%2837%29.png)
+
 # Transifex Internationalisation of Publiclab.org
 
 by [pipix51](../profile/pipix51) December 27, 2016 14:38
 
 December 27, 2016 14:38 | Tags: [website](../tag/website), [activity](../tag/activity), [localization](../tag/localization), [translation](../tag/translation), [language](../tag/language), [gcin](../tag/gcin), [gcin-2016](../tag/gcin-2016), [replication:13651](../tag/replication:13651), [transifex](../tag/transifex)
+
+----
 
 ## Introduction
 I translated some strings on Transifex for Public Lab as part of the Publiclab.org internationalisation project and as a task for Google Code In 2016. As I have a basic understanding of Chinese, I translated the words on the webpage into Chinese. Overall the interface provided by Transifex is easy to use and at first glance, I could undertand what I had to do to translate the strings given.

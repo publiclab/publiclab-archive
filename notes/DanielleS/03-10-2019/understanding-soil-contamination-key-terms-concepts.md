@@ -14,6 +14,8 @@ by [DanielleS](../profile/DanielleS) March 10, 2019 08:18
 
 March 10, 2019 08:18 | Tags: [soil](../tag/soil), [soil-testing](../tag/soil-testing), [ph](../tag/ph), [soil-analysis](../tag/soil-analysis), [activity:soil](../tag/activity:soil), [soil-contamination](../tag/soil-contamination), [soil-contamination-testing](../tag/soil-contamination-testing), [bioavailability](../tag/bioavailability), [soil-chemistry](../tag/soil-chemistry)
 
+----
+
 Soil Chemistry Terminology and Key Concepts: \*\*
 
 \*\***Lets break down some soil chemistry terms... this stuff comes in handy when trying to understand what's going on with contaminants in your soils, how likely they are to move around and cause harm, and what to do about them!** \*\* You can learn way more about each of these concepts through activities and expanded info on this great website through the US Dept. of Agriculture: [Soil health assessment.](https://www.nrcs.usda.gov/wps/portal/nrcs/detail/soils/health/assessment/?cid=stelprdb1237387 "https://www.nrcs.usda.gov/wps/portal/nrcs/detail/soils/health/assessment/?cid=stelprdb1237387")

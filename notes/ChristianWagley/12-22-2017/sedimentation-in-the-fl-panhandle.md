@@ -8,11 +8,15 @@ uid: 521037
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/023/018/original/Indian_Bayou_sediment_pollution.jpg)
+
 # Sedimentation in the FL panhandle
 
 by [ChristianWagley](../profile/ChristianWagley) December 22, 2017 14:43
 
 December 22, 2017 14:43 | Tags: [balloon-mapping](../tag/balloon-mapping), [water-quality](../tag/water-quality), [erosion](../tag/erosion), [florida](../tag/florida), [sedimentation](../tag/sedimentation), [nas](../tag/nas), [issue-brief](../tag/issue-brief), [sediment-pollution](../tag/sediment-pollution), [panhandle](../tag/panhandle), [first-time-poster](../tag/first-time-poster)
+
+----
 
 ### Our main concern: As NW Florida grows with many miles of new roads, road projects are sending huge amounts of sediment into adjacent waterways during construction.
 
@@ -28,6 +32,6 @@ The Bream Fishermen Association, Florida's oldest citizen water quality monitori
 
 How can we help local citizens and groups document the ongoing pollution of Indian Bayou and use it to effect change in DOT road projects?
 
-[questions:sedimentation]
+[sedimentation](../../tag/question:sedimentation)
 
-[notes:panhandle-sedimentation]
+[panhandle-sedimentation](../../tag/panhandle-sedimentation)

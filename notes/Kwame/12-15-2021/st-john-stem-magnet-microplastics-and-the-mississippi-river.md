@@ -8,11 +8,15 @@ uid: 748228
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/045/238/original/st-gabriel-aerials_1023._1920x1127-39fd8a2ca5.jpg)
+
 # St. John STEM MAGNET - Microplastics and the Mississippi River
 
 by [Kwame](../profile/Kwame) December 15, 2021 18:19
 
 December 15, 2021 18:19 | Tags: [gulf-coast](../tag/gulf-coast), [education](../tag/education), [lat:30](../tag/lat:30), [microplastics](../tag/microplastics), [first-time-poster](../tag/first-time-poster), [zoom:10](../tag/zoom:10), [lon:-90.4](../tag/lon:-90.4)
+
+----
 
 ### Introduction:
 

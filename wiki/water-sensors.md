@@ -8,11 +8,15 @@ uid: 430549
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/020/999/original/IMG_20170703_105839_020_2.jpg)
+
 # Water Sensors
 
 by [Nova](../profile/Nova), [warren](../profile/warren), [gilbert](../profile/gilbert), [stevie](../profile/stevie), [gretchengehrke](../profile/gretchengehrke), [liz](../profile/liz), [shanlter](../profile/shanlter)
 
 June 30, 2017 21:34 | Tags: [water-quality-monitoring](../tag/water-quality-monitoring), [hydrogen-sulfide](../tag/hydrogen-sulfide), [sensors](../tag/sensors), [water-quality](../tag/water-quality), [water](../tag/water), [water-quality-sensor](../tag/water-quality-sensor), [method](../tag/method), [water-sensors](../tag/water-sensors), [sidebar:none](../tag/sidebar:none), [parent:water-quality](../tag/parent:water-quality), [parent:sensors](../tag/parent:sensors)
+
+----
 
 Many people interested in measuring various **water quality parameters** that are relevant to environmental health in low-cost and accessible ways. Many have been working on low-cost, open-source sensors for water chemistry and physical properties, and there are also several commercially available water sensors and analog tools that can measure relevant water quality parameters.
 
@@ -95,7 +99,7 @@ heavy metal
 
 ## Questions
 
-[questions:water-sensors]
+[water-sensors](../../tag/question:water-sensors)
 
 
 ****
@@ -110,7 +114,7 @@ As we build out resources for connecting different sensors or different types of
 
 Help add activities below for connecting specific sensors to [different data loggers](/wiki/data-logging), and pitch in on [researching how these connect here](/notes/warren/12-06-2017/help-document-how-to-connect-different-sensors-to-a-data-logger).
 
-[activities:connecting-sensors]
+[connecting-sensors](../../tag/activity:connecting-sensors)
 
 ****
 

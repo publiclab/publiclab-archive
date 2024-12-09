@@ -8,11 +8,15 @@ uid: 445603
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/012/570/original/undefined)
+
 # Oil Testing Kit -- Assembly & Calibration! 
 
 by [_mahsa_](../profile/_mahsa_) November 09, 2015 00:54
 
 November 09, 2015 00:54 | Tags: [spectrometer](../tag/spectrometer), [sampling](../tag/sampling), [oil-testing-kit](../tag/oil-testing-kit)
+
+----
 
 Hi, I'm Mahsa a member of the Oil Testing Kit beta program and below you'll find my experience assembling the oil testing kit. 
     

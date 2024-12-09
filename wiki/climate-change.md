@@ -8,11 +8,15 @@ uid: 540844
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/038/878/original/OI000012.jpg)
+
 # Climate change
 
 by [bhamster](../profile/bhamster), [joyofsoy](../profile/joyofsoy)
 
 December 16, 2019 23:27 | Tags: [climate-change](../tag/climate-change)
+
+----
 
 Through more extreme weather events, rising sea levels, and rising global temperatures, climate change impacts the health of our communities in many ways [1]. Throughout Public Lab you’ll find tools and resources to research and monitor the effects of climate change on your local environment. From water quality to air quality to disaster response, many of the environmental issues addressed on Public Lab connect back to climate change and its impacts. 
 
@@ -60,7 +64,7 @@ Learn about <a href="/wiki/sandbox-climate-change#Next+step+challenges">next ste
 + Ask a question so other community members can offer support
 + Sign up below to be notified when someone asks a climate change question.
 
-[questions:climate-change]
+[climate-change](../../tag/question:climate-change)
 <br>
 
 ### Post an Issue Brief
@@ -150,7 +154,7 @@ _Please contribute your ideas here!_
 
 Posts written by Public Lab community members and tagged with `climate-change` will appear here
 
-[notes:climate-change!question:climate-change]
+[climate-change!question:climate-change](../../tag/climate-change!question:climate-change)
 
 <br>
 
@@ -158,7 +162,7 @@ Posts written by Public Lab community members and tagged with `climate-change` w
 
 Activities on Public Lab that have been tagged with `climate-change` will appear here
 
-[activities:climate-change]
+[climate-change](../../tag/activity:climate-change)
 
 <br>
 <hr>

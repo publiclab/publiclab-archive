@@ -8,11 +8,15 @@ uid: 664477
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/045/131/original/Ways_to_Track_Air_Quality-3_copy.png)
+
 # Event: Dec. 13-17 is Air Quality Data Week at Public Lab!
 
 by [bhamster](../profile/bhamster) December 01, 2021 22:24
 
 December 01, 2021 22:24 | Tags: [event](../tag/event), [air-quality](../tag/air-quality), [event:rsvp](../tag/event:rsvp), [reviews](../tag/reviews), [data-visualization](../tag/data-visualization), [research-area-review](../tag/research-area-review), [research-curation-fellows-event](../tag/research-curation-fellows-event), [presenting-data](../tag/presenting-data), [with:fongvania](../tag/with:fongvania), [air-quality-data](../tag/air-quality-data), [rsvp:angappan367](../tag/rsvp:angappan367), [date:12-16-2021](../tag/date:12-16-2021), [rsvp:cboggs18](../tag/rsvp:cboggs18)
+
+----
 
 _Lead image: by @renee, see the full image with more kinds of data on the [air quality data wiki](https://publiclab.org/wiki/air-quality-data)._
 

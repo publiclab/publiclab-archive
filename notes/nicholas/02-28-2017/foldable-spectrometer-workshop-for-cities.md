@@ -8,11 +8,15 @@ uid: 53894
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/019/677/original/Screen_Shot_2017-02-28_at_10.44.29_AM.png)
+
 # Foldable Spectrometer Workshop for Cities
 
 by [nicholas](../profile/nicholas) February 28, 2017 15:51
 
 February 28, 2017 15:51 | Tags: [spectrometry](../tag/spectrometry), [replication:13410](../tag/replication:13410), [replication:13577](../tag/replication:13577), [foldable-spec](../tag/foldable-spec)
+
+----
 
 The foldable spectrometer workshop was held with ten students as a part of the Remote Sensing Class at NYU's Center for Urban Science and Progress.  An initial overview of spectrometry was provided describing the fundamentals of using a diffraction gradient to split light into its component spectra.  
   

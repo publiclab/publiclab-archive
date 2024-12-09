@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/037/766/original/jewelry_district-loop.gif)
+
 # Unearthing Providence
 
 by [warren](../profile/warren), [sfrickel](../profile/sfrickel), [tmarlow](../profile/tmarlow), [srgonsalves1](../profile/srgonsalves1)
 
 November 06, 2019 15:06 | Tags: [providence](../tag/providence), [rhode-island](../tag/rhode-island), [style:presentation](../tag/style:presentation), [northeast](../tag/northeast), [seeks:responses](../tag/seeks:responses), [content](../tag/content), [project](../tag/project), [location:blurred](../tag/location:blurred), [geo-storytelling](../tag/geo-storytelling), [unearthing-pvd](../tag/unearthing-pvd), [zoom:9](../tag/zoom:9), [ri](../tag/ri)
+
+----
 
 **A platform for historical data-driven analyses of industrial land use, story-mapping, and community organizing.**
 
@@ -60,7 +64,7 @@ window[Object.keys(window).find(key => key.substr(0,3) === "map")]
 
 The industrial sites cataloged include both currently operating and long-closed factories, jewelry manufacturers, gas stations, laundromats, and many other land uses, which may have a lasting impact on the land.
 
-[notes:grid:unearthing-pvd-sites]
+[grid:unearthing-pvd-sites](../../tag/grid:unearthing-pvd-sites)
 
 <a class="btn btn-primary" href="/post?tags=lat:41.0,lon:-71.0,unearthing-pvd,unearthing-pvd-sites&n=21350 ">Add your story</a>
 
@@ -72,7 +76,7 @@ The industrial sites cataloged include both currently operating and long-closed 
 
 A collection of in-depth research and analyses of the database are presented here, providing examples of the kinds of work the dataset makes possible. 
 
-[notes:grid:unearthing-pvd-analyses]
+[grid:unearthing-pvd-analyses](../../tag/grid:unearthing-pvd-analyses)
 
 <a class="btn btn-primary" href="/post?tags=lat:41.0,lon:-71.0,unearthing-pvd,unearthing-pvd-analyses&n=21350 ">Add an analysis</a>
 

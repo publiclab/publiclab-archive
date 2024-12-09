@@ -14,6 +14,8 @@ by [fongvania](../profile/fongvania)
 
 June 03, 2022 06:07 | Tags: [lichen](../tag/lichen), [resources](../tag/resources), [air-quality-monitoring](../tag/air-quality-monitoring), [bioindicators](../tag/bioindicators), [parent:bioindicators](../tag/parent:bioindicators)
 
+----
+
 __
 # Background
 Lichen are not plants, but rather a symbiotic relationship between fungi and algae and/or cyanobacteria. Macrolichen (leafy or bushy lichen) that grow on trees obtain all their nutrients from the surrounding air, moisture, and rain, which means that they also absorb many of the chemicals and pollutants present in the air and can serve as mini living air quality monitors, or [bioindicators](https://publiclab.org/wiki/bioindicators). You can learn more about lichen and their main functional groups in this [research note](https://publiclab.org/notes/fongvania/07-21-2021/learning-to-spot-lichens-and-mosses)
@@ -98,13 +100,13 @@ After determining your sampling method, you will want to collect a "pilot" sampl
 
 ## Questions
 
-[questions:lichen]
+[lichen](../../tag/question:lichen)
 
 <br>
 
 ## Research notes
 
-[notes:lichen]
+[lichen](../../tag/lichen)
 
 <br>
 
@@ -116,7 +118,7 @@ After determining your sampling method, you will want to collect a "pilot" sampl
 
 ## Activities
 
-[activities:lichen]
+[lichen](../../tag/activity:lichen)
 
 <br>
 <br>

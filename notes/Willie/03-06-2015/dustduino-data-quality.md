@@ -8,11 +8,15 @@ uid: 235174
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/009/194/original/DustDuino_Logo.jpg)
+
 # DustDuino Data Quality
 
 by [willie](../profile/willie) March 06, 2015 20:01
 
 March 06, 2015 20:01 | Tags: [indoor-air-quality-mapping](../tag/indoor-air-quality-mapping), [particulate-sensing](../tag/particulate-sensing), [air-quality](../tag/air-quality), [internet](../tag/internet), [tool](../tag/tool), [dustduino](../tag/dustduino), [open-air](../tag/open-air)
+
+----
 
 ###What level of accuracy can the DustDuino provide?
 

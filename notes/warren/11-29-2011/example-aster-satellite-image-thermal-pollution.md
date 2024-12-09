@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/thermal-pollution.jpg)
+
 # Example ASTER Satellite image of thermal pollution
 
 by [warren](../profile/warren) November 29, 2011 14:23
 
 November 29, 2011 14:23 | Tags: 
+
+----
 
 This site looks pretty sketchy, but they link (and clearly reference) a NASA image from the ASTER satellite's thermal camera, of the "Joliet 29" coal power plant in Illinois.
 

@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/Screen shot 2011-06-01 at 10.36.23 PM.png)
+
 # Comparison of 4 versions of imagery, moire effects and resampling
 
 by [warren](../profile/warren) June 02, 2011 02:43
 
 June 02, 2011 02:43 | Tags: 
+
+----
 
 Check out this image of Wilkinson Bay, Louisiana, by the USGS. Clockwise from top left:
 

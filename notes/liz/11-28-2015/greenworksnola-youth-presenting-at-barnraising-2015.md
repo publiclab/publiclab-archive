@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/013/086/original/Screen_Shot_2015-11-28_at_2.33.37_PM.png)
+
 # GroundWorksNOLA youth presenting at Barnraising 2015
 
 by [liz](../profile/liz) November 28, 2015 19:37
 
 November 28, 2015 19:37 | Tags: [barnraising-2015](../tag/barnraising-2015)
+
+----
 
 [![Screen_Shot_2015-11-28_at_2.30.41_PM.png](//i.publiclab.org/system/images/photos/000/013/078/medium/Screen_Shot_2015-11-28_at_2.30.41_PM.png)](//i.publiclab.org/system/images/photos/000/013/078/original/Screen_Shot_2015-11-28_at_2.30.41_PM.png)
 

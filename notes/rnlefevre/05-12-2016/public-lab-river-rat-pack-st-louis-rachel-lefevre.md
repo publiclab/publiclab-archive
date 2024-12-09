@@ -8,11 +8,15 @@ uid: 465996
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/016/153/original/public_lab_website_submission_header_2.jpg)
+
 # Public Lab River Rat Pack -- St. Louis -- Rachel Lefevre
 
 by [rnlefevre](../profile/rnlefevre) May 12, 2016 23:56
 
 May 12, 2016 23:56 | Tags: [mid-west](../tag/mid-west), [missouri](../tag/missouri), [publiclabriverratpack](../tag/publiclabriverratpack), [stlouis](../tag/stlouis)
+
+----
 
 I am currently and undergraduate studying architecture at Washington University in St. Louis, and this semester I participated in the Public Lab River Rat Pack seminar class with Derek Hoeferlin. In addition to taking part in all the balloon flights this semester, I was tasked with curating the photographs to be used for the analytical diagramming of each site that we visited. Halftone versions of the selected photographs are linked to this research note. 
 

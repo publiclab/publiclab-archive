@@ -8,11 +8,15 @@ uid: 45586
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/022/805/original/ShanHe_2017-08-19_150714.jpeg)
+
 # Silver Linings of Community Science
 
 by [mlamadrid](../profile/mlamadrid) December 05, 2017 23:41
 
 December 05, 2017 23:41 | Tags: [water-quality](../tag/water-quality), [environment](../tag/environment), [landscape](../tag/landscape), [with:gretchengehrke](../tag/with:gretchengehrke)
+
+----
 
 Article by [Gretchen Gehrke](https://publiclab.org/profile/gretchengehrke), Public Lab for [Community Science Forum: Changing Environmental Governance Landscape](https://publiclab.org/forum)
 

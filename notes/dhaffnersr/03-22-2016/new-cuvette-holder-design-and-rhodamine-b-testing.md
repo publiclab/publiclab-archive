@@ -8,11 +8,15 @@ uid: 461120
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/015/166/original/PIC_0110.JPG)
+
 # New cuvette holder design and Rhodamine B testing
 
 by [dhaffnersr](../profile/dhaffnersr) March 22, 2016 15:38
 
 March 22, 2016 15:38 | Tags: 
+
+----
 
 I am getting a much better handle on processing spectral data on my software, so I decided to completely redesign my cuvette holder(it is 90 percent inclosed within the holder,) so I could contain as much reflected fluorescent light back into the cuvette, and direct it twoards the slit with more efficiency.
 

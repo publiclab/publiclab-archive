@@ -14,6 +14,8 @@ by [timsan](../profile/timsan) January 13, 2016 14:11
 
 January 13, 2016 14:11 | Tags: [organizing](../tag/organizing), [communityengagement](../tag/communityengagement), [local-projects](../tag/local-projects), [community-building](../tag/community-building)
 
+----
+
 ### Taking our community to the next level
 
 ### I live in a community that is getting mature and ready to start planning for bigger projects - an ecovillage and a more sustainable work organisation

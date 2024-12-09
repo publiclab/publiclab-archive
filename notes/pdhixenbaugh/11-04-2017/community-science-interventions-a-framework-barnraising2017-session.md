@@ -14,6 +14,8 @@ by [pdhixenbaugh](../profile/pdhixenbaugh) November 04, 2017 15:35
 
 November 04, 2017 15:35 | Tags: [community](../tag/community), [gardening](../tag/gardening), [barnraising-2017](../tag/barnraising-2017), [barnraising2017](../tag/barnraising2017), [response:15142](../tag/response:15142), [response:14762](../tag/response:14762), [response:13862](../tag/response:13862)
 
+----
+
 (Draft) These were our take-aways we wanted to share from the session:
 (Photo of whiteboard upcoming)
 

@@ -8,11 +8,15 @@ uid: 424597
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/036/699/original/mess.jpg)
+
 # Oil and Gas Hardware Fellow Status Update: Week 9!
 
 by [wmacfarl](../profile/wmacfarl) November 25, 2019 22:30
 
 November 25, 2019 22:30 | Tags: [water-quality](../tag/water-quality), [oil-and-gas](../tag/oil-and-gas), [oil-and-gas-water-trio](../tag/oil-and-gas-water-trio)
+
+----
 
 I was doing some travelling and got sick and had some other personal issues come up over the last week and a half so this update is pretty minor.  I'm home and healthy and looking forward to digging deeper into sensor troubleshooting and calibration this coming week!
 

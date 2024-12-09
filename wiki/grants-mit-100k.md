@@ -14,6 +14,8 @@ by [warren](../profile/warren)
 
 March 02, 2011 21:57 | Tags: [education](../tag/education), [kits](../tag/kits), [curriculum](../tag/curriculum), [baloon-mapping](../tag/baloon-mapping), [grants](../tag/grants), [proposal](../tag/proposal), [do_your_own_baloon_mapping](../tag/do_your_own_baloon_mapping)
 
+----
+
 * http://www.mit100k.org/contests/business-plan-contest/
 * Google Doc: https://docs.google.com/document/d/1W9Gfi5-_Y0vtCfxkA-2xv-ZxA9MYNM0KgM2Uug3yEkA/edit?hl=en#
 

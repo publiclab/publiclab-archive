@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/Screenshot.png)
+
 # Hydrogen sulfide detection for fart detector
 
 by [warren](../profile/warren) September 06, 2011 19:24
 
 September 06, 2011 19:24 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [h2s](../tag/h2s), [farts](../tag/farts), [hydrogen-sulfide-sensor](../tag/hydrogen-sulfide-sensor)
+
+----
 
 This amazing documentation of a fart detector uses a hydrogen sulfide sensor similar to what we're attempting to use in (natural) gas patch communities to detect harmful air contamination:
 

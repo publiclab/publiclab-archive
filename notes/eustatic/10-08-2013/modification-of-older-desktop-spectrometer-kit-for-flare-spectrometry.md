@@ -8,11 +8,15 @@ uid: 379
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/001/806/original/10148178135_c63ceb413f_m_spectorm.jpg)
+
 # Modification of camera position on older desktop spectrometer kit for flare spectrometry
 
 by [eustatic](../profile/eustatic) October 08, 2013 16:32
 
 October 08, 2013 16:32 | Tags: [gulf-coast](../tag/gulf-coast), [spectrometer](../tag/spectrometer), [kits](../tag/kits), [desktop-spectrometer-assembly](../tag/desktop-spectrometer-assembly), [desktop-spectrometry-kit](../tag/desktop-spectrometry-kit), [chapter](../tag/chapter), [flare](../tag/flare), [modifications](../tag/modifications), [barnraising-2013](../tag/barnraising-2013)
+
+----
 
 ###Look at this picture instead of the diagram for step 6:
 <img src="https://farm8.staticflickr.com/7445/10148178135_c63ceb413f_z.jpg">

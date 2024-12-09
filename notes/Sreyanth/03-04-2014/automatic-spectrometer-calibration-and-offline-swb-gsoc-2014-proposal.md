@@ -8,11 +8,15 @@ uid: 96713
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/003/125/original/SWB_LOGO.png)
+
 # Automatic Spectrometer Calibration and Offline SWB - GSoC 2014 Proposal
 
 by [Sreyanth](../profile/Sreyanth) March 04, 2014 18:29
 
 March 04, 2014 18:29 | Tags: [spectrometer](../tag/spectrometer), [spectralworkbench](../tag/spectralworkbench), [matching](../tag/matching), [gsoc](../tag/gsoc), [gsoc-2014](../tag/gsoc-2014), [gsoc-proposal](../tag/gsoc-proposal)
+
+----
 
 **Name:** Mora Sreyantha Chary, (fondly called as _Sreyanth_)
 

@@ -8,11 +8,15 @@ uid: 422561
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/033/640/original/20190224_110643.jpg)
+
 # Choosing an Environmental Monitoring Method
 
 by [stevie](../profile/stevie) July 11, 2019 19:29
 
 July 11, 2019 19:29 | Tags: [activity:education](../tag/activity:education), [study-design](../tag/study-design), [with:mimiss](../tag/with:mimiss), [series:student-community-science](../tag/series:student-community-science), [activity:student-community-science](../tag/activity:student-community-science), [pin:study-design](../tag/pin:study-design)
+
+----
 
 There are three main parameters that are helpful to consider in choosing an environmental monitoring method. The methods you choose should produce meaningful data, fit within your budget, and help you answer your question efficiently (for other information on study design [see this page](https://publiclab.org/wiki/start-enviro-monitor-study "https://publiclab.org/wiki/start-enviro-monitor-study")).
 

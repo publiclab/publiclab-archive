@@ -8,11 +8,15 @@ uid: 788868
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/047/093/original/pollution.jpg)
+
 # EPA Charts and Classifies Environmental Quality By Geographic Location
 
 by [TheChessGym](../profile/TheChessGym) August 30, 2022 13:29
 
 August 30, 2022 13:29 | Tags: [first-time-poster](../tag/first-time-poster), [lat:20](../tag/lat:20), [lon:70](../tag/lon:70), [zoom:5](../tag/zoom:5)
+
+----
 
 The lesson today required the students to look at the Environmental Protection Agency's graphs regarding the environment in which they live. The exercise also prompted the students to view this data across the following spheres (atmosphere, hydrosphere, geosphere, and biosphere) and the designation of the quality in those respective areas. The assignment directed the participants to classify each sphere as "healthy", "moderate", or "dangerous" as specified by the EPA. Considering that the domain in which these students reside has been termed as "Cancer Alley", the charts can provide some very impactful information. One student recognized that some of the information regarding Louisiana was outdated. This prompted the group to cross-reference this dated information with more recent findings provided by Public Lab!
 

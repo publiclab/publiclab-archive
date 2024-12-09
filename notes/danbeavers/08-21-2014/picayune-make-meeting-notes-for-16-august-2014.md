@@ -8,11 +8,15 @@ uid: 51
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/006/360/original/20140816_164550.jpg)
+
 # Picayune Make Meeting Notes for 16 August 2014
 
 by [danbeavers](../profile/danbeavers) August 21, 2014 18:53
 
 August 21, 2014 18:53 | Tags: [surface-mount](../tag/surface-mount), [mississippi](../tag/mississippi), [event](../tag/event), [makerfaire](../tag/makerfaire), [circuit](../tag/circuit), [maker](../tag/maker), [event:rsvp](../tag/event:rsvp), [date:08-16-2014](../tag/date:08-16-2014), [circuit-board](../tag/circuit-board), [rackspace](../tag/rackspace), [etch](../tag/etch), [make](../tag/make)
+
+----
 
 ###Event details
 [![20140816_170731.jpg](https://i.publiclab.org/system/images/photos/000/006/361/medium/20140816_170731.jpg)](https://i.publiclab.org/system/images/photos/000/006/361/original/20140816_170731.jpg)

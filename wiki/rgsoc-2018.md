@@ -8,11 +8,15 @@ uid: 504749
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/023/734/original/IMG_20180224_193208_3.jpg)
+
 # rgsoc-2018
 
 by [stella](../profile/stella)
 
 February 27, 2018 14:51 | Tags: [rgsoc](../tag/rgsoc), [rgsoc-2018](../tag/rgsoc-2018), [to_json](../tag/to_json)
+
+----
 
 ##**RGSOC PROPOSAL: Upgrade to Rails 5.1.5**
 [![log.png](https://publiclab.org/system/images/photos/000/023/735/large/log.png)](https://publiclab.org/system/images/photos/000/023/735/original/log.png)

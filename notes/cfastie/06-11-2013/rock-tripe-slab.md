@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/000/498/original/Tripe4panel1800.jpg)
+
 # Rock Tripe Slab
 
 by [cfastie](../profile/cfastie) June 11, 2013 00:48
 
 June 11, 2013 00:48 | Tags: [ndvi](../tag/ndvi), [infragram](../tag/infragram), [gigapan](../tag/gigapan), [rock-tripe](../tag/rock-tripe), [lichen](../tag/lichen)
+
+----
 
 <em>Image above: Rock tripe (Umbilicaria sp.) and other foliose and crustose lichens cover a tenth of a hectare of the steep face of Rock Tripe Slab (previously known as "That big ledge up there").  Three cameras contributed to these images. Two cameras were required for both images along the dextral diagonal, one camera each for the images on the sinistral diagonal.</em> 
 

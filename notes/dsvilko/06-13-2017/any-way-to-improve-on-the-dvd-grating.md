@@ -8,11 +8,15 @@ uid: 257524
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/020/774/original/IMG_1170.JPG)
+
 # Any way to improve on the DVD grating?
 
 by [dsvilko](../profile/dsvilko) June 13, 2017 15:08
 
 June 13, 2017 15:08 | Tags: [question:spectrometry](../tag/question:spectrometry), [question:general](../tag/question:general), [question:grating](../tag/question:grating)
+
+----
 
 ###What I want to do or know
 How are you dealing with the slit geometry and the curvature of the DVD grating?

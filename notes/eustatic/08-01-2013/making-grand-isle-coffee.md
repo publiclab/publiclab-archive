@@ -8,11 +8,15 @@ uid: 379
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/000/984/original/9262759096_99ea947ba7.jpg)
+
 # Making Grand Isle Coffee: Team Orca 
 
 by [eustatic](../profile/eustatic) August 01, 2013 01:24
 
 August 01, 2013 01:24 | Tags: [gulf-coast](../tag/gulf-coast), [spectrometer](../tag/spectrometer), [oil](../tag/oil), [spectrometry](../tag/spectrometry), [sample-prep](../tag/sample-prep), [bp](../tag/bp), [tarball](../tag/tarball), [orca](../tag/orca)
+
+----
 
 ##What I want to do
 

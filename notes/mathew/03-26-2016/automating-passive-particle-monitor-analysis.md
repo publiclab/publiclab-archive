@@ -8,11 +8,15 @@ uid: 4
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/015/228/original/Montage.jpg)
+
 # Automating Passive Particle Monitor Analysis
 
 by [mathew](../profile/mathew) March 26, 2016 04:34
 
 March 26, 2016 04:34 | Tags: [frac-sand](../tag/frac-sand), [pm](../tag/pm), [polarized-light-microscopy](../tag/polarized-light-microscopy), [particle-monitoring](../tag/particle-monitoring), [particle](../tag/particle), [microscope](../tag/microscope), [passive-particle-monitors](../tag/passive-particle-monitors), [passive-pm](../tag/passive-pm), [parent:frac-sand](../tag/parent:frac-sand), [microscopy](../tag/microscopy), [pm-monitoring](../tag/pm-monitoring), [with:simonpyle](../tag/with:simonpyle), [microscopes](../tag/microscopes), [activity:microscopes](../tag/activity:microscopes), [particle-imaging](../tag/particle-imaging)
+
+----
 
 Along with @AmberWise, @Damarquis, @Pagyebo, I've been working to make and document a method of analyzing [SEM stub passive particle monitors](/wiki/passive-pm) with visible light microscopy in order to determine [PM2.5-10 pollution](/wiki/pm#Regulation).
 

@@ -8,11 +8,15 @@ uid: 9
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/000/130/original/plots-logo-transparent.jpg)
+
 # Public Lab community newsletter 4.27.13
 
 by [Shannon](../profile/Shannon) April 28, 2013 15:30
 
 April 28, 2013 15:30 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
+
+----
 
 In the Public Lab community newsletter this week, get involved in a number of events happening in the Northeast U.S., organize a Spectral Challenge meet-up in your neighborhood and check out the new maps from the Public Lab archive appearing in Google Earth and Maps. 
 

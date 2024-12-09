@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/003/675/original/IMG_20140415_155127.jpg)
+
 # Infragram featured in April's issue of Wired
 
 by [warren](../profile/warren) April 15, 2014 20:26
 
 April 15, 2014 20:26 | Tags: [media](../tag/media), [infragram](../tag/infragram), [wired](../tag/wired)
+
+----
 
 Just got this at the newsstand -- pretty neat, if brief! Woohoo!
 

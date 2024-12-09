@@ -8,11 +8,15 @@ uid: 447491
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/011/954/original/IMG_3480.JPG)
+
 # Prototyping flat-pack version of Desktop Spectrometer 
 
 by [tonyc](../profile/tonyc) October 14, 2015 19:11
 
 October 14, 2015 19:11 | Tags: [spectrometer](../tag/spectrometer), [dsk](../tag/dsk), [desktop-spectrometry-kit](../tag/desktop-spectrometry-kit), [papercraft](../tag/papercraft), [kits-initiative](../tag/kits-initiative), [dsk3](../tag/dsk3)
+
+----
 
 ###What I want to do
 Right now the DSK version 3.0 requires a box, which means it has to go through customs and requires more expensive shipping options. The only parts that are not flat enough to ship in an envelope is the wooden block. My goal is to make  workable model using only paper and that packs down flat enough to fit into the USPS regulation envelope (11-1/2"x6-1/8"x1/4")

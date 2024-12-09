@@ -14,6 +14,8 @@ by [mimiss](../profile/mimiss) May 09, 2019 16:54
 
 May 09, 2019 16:54 | Tags: [balloon-mapping](../tag/balloon-mapping), [mapping](../tag/mapping), [aerial-mapping](../tag/aerial-mapping), [question:balloon-mapping](../tag/question:balloon-mapping), [question:general](../tag/question:general), [question:sensor](../tag/question:sensor), [terrain-mapping](../tag/terrain-mapping)
 
+----
+
 I came across this cool project from the Arduino project hub for building a ground proximity sensor. (https://create.arduino.cc/projecthub/aerogeeks/ground-proximity-sensing-with-ultrasonic-sensor-1987f1?ref=platform&ref\_id=424\_trending\_\_beginner\_&offset=4)
 
   

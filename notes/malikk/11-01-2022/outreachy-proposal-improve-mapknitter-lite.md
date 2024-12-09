@@ -8,11 +8,15 @@ uid: 817695
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/047/262/original/Mapknitter_Lite.png)
+
 # Outreachy proposal: Improve MapKnitter Lite.
 
 by [malikk](../profile/malikk) November 01, 2022 16:29
 
 November 01, 2022 16:29 | Tags: [software](../tag/software), [lat:0](../tag/lat:0), [lon:0](../tag/lon:0), [outreachy](../tag/outreachy), [first-time-poster](../tag/first-time-poster), [zoom:5](../tag/zoom:5), [outreachy-2022](../tag/outreachy-2022), [outreachy-winter-2022](../tag/outreachy-winter-2022), [response:35976](../tag/response:35976)
+
+----
 
 ## About me
 

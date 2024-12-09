@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/005/104/original/Screenshot_2014-07-03-10-24-44_2.jpg)
+
 # Presentation at FAB10 in Barcelona
 
 by [warren](../profile/warren) July 03, 2014 08:35
 
 July 03, 2014 08:35 | Tags: [barcelona](../tag/barcelona), [spain](../tag/spain), [presentations](../tag/presentations), [presentation](../tag/presentation), [fab10](../tag/fab10)
+
+----
 
 I'm presenting today at FAB10 (http://fab10.org) and wanted to share my presentation!
 

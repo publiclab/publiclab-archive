@@ -14,6 +14,8 @@ by [Parth](../profile/Parth) January 05, 2016 13:14
 
 January 05, 2016 13:14 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [infragram](../tag/infragram), [infragram-point-shoot](../tag/infragram-point-shoot), [mobius-action-cam](../tag/mobius-action-cam), [p](../tag/p), [first-time-poster](../tag/first-time-poster)
 
+----
+
 Hello, 
 
 I want to make infragram camera using i-ball web cam to measure NDVI INDEX.So,I had purchase 20-Mega pixel i-ball usb web camera.To replicate infragram camera,i had replace the IR filter with rosco #19 fire filter(Red) as per suggestion of public-lab 's below link

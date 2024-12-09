@@ -8,11 +8,15 @@ uid: 540844
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/039/115/original/publiclab_mapping_1200x430.png)
+
 # Celebrating our tenth anniversary
 
 by [joyofsoy](../profile/joyofsoy) April 20, 2020 07:14
 
 April 20, 2020 07:14 | Tags: [blog](../tag/blog), [anniversary](../tag/anniversary), [pl10](../tag/pl10)
+
+----
 
 [Learn more about the joint statement from Gulf South and national organizations about the tenth anniversary of the BP oil disaster.](https://www.bp10yearslater.com/)
 

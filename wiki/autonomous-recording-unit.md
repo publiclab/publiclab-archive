@@ -8,11 +8,15 @@ uid: 428915
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/009/679/original/ARU.jpg)
+
 # Autonomous Recording Unit
 
 by [warren](../profile/warren), [babailey](../profile/babailey)
 
 September 24, 2014 15:28 | Tags: [arduino](../tag/arduino), [research](../tag/research), [environment](../tag/environment), [audio](../tag/audio), [data-logging](../tag/data-logging), [parent:data-logging](../tag/parent:data-logging)
+
+----
 
 **Current Project Phase: Prototyping & Design Improvement**
 
@@ -37,7 +41,7 @@ Suggestions for battery powered Arduino projects; can Arduino run in a low power
 
 ## Questions
 
-[questions:autonomous-recording-unit]
+[autonomous-recording-unit](../../tag/question:autonomous-recording-unit)
 
 ****
 

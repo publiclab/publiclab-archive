@@ -14,4 +14,6 @@ by [clmchenr](../profile/clmchenr) August 19, 2015 14:23
 
 August 19, 2015 14:23 | Tags: [software](../tag/software), [spectral-workbench](../tag/spectral-workbench), [question:spectrometry](../tag/question:spectrometry), [answered](../tag/answered), [first-time-poster](../tag/first-time-poster)
 
+----
+
 I want to know if the signal can be exported from spectral workbench. This could be as simple as a .txt or ASCII file. I would like the option of further post-processing.

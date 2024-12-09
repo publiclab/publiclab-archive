@@ -8,11 +8,15 @@ uid: 459085
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/018/518/original/IMG_20161020_162018.jpg)
+
 # Blink a LED - Write a 'Sketch' and build a breadboard circuit for the Riffle
 
 by [pdhixenbaugh](../profile/pdhixenbaugh) October 20, 2016 20:27
 
 October 20, 2016 20:27 | Tags: [riffle](../tag/riffle), [riffle-beta](../tag/riffle-beta), [difficulty:medium](../tag/difficulty:medium), [status:review-me](../tag/status:review-me), [category:build](../tag/category:build), [time:1h](../tag/time:1h), [activity:riffle](../tag/activity:riffle), [activity:datalogger](../tag/activity:datalogger), [activity:data-logging](../tag/activity:data-logging)
+
+----
 
 ###Goals 
 The goal of this activity is to get familiar with writing code and designing circuits for the Riffle Datalogger by 

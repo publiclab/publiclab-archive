@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/039/372/original/OI000153_copy1_copy.jpg)
+
 # First-time posters
 
 by [fongvania](../profile/fongvania), [bhamster](../profile/bhamster), [joyofsoy](../profile/joyofsoy), [warren](../profile/warren)
 
 October 31, 2018 13:49 | Tags: [community](../tag/community), [parent:welcome](../tag/parent:welcome), [first-time-poster](../tag/first-time-poster)
+
+----
 
 Posts tagged with #first-time-poster are the very first post by someone on PublicLab.org -- please help to welcome newcomers find their way around the community and the website! You can also [subscribe to get email alerts](/subscribe/tag/first-time-poster) when first-timers post. 
 

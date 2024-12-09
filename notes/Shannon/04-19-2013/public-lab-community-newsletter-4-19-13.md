@@ -8,11 +8,15 @@ uid: 9
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/000/086/original/plots-logo-transparent.jpg)
+
 # Public Lab community newsletter 4.19.13
 
 by [Shannon](../profile/Shannon) April 19, 2013 15:34
 
 April 19, 2013 15:34 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
+
+----
 
 This week in the Public Lab community newsletter... between trying out the new PublicLab.org website, pitching in to help find great mentors and students for Google Summer of Code and completing a map annotation survey, we may not be leaving you time for much else during your weekend! 
 

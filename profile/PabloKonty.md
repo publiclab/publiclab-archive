@@ -3,6 +3,8 @@ uid: 688449
 created_at: 2020-04-28 13:14:15 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/688449/medium/logo.png)
+
 # PabloKonty
 
 What to do if we have a damaged computer?

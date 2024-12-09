@@ -8,11 +8,15 @@ uid: 4
 
 ---
 
+![](https://publiclab.org/sites/default/files/IMG_5171.JPG)
+
 # Thermal Flashlight Calibration Nomogram
 
 by [mathew](../profile/mathew) July 13, 2012 20:22
 
 July 13, 2012 20:22 | Tags: [thermal-photography](../tag/thermal-photography), [thermal-flashlight](../tag/thermal-flashlight), [nomogram](../tag/nomogram), [chart](../tag/chart)
+
+----
 
 ####In this Photo####
 In the photo above the temperature range is set to 0-30 degrees C, and the color divisions within the range are readable.

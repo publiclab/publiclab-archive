@@ -8,11 +8,15 @@ uid: 788868
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/047/153/original/sorting-trays4-768x576.jpg)
+
 # Coastal Marsh Restoration Causes Environmental Succession (Allogenic) In Louisiana Wetlands
 
 by [TheChessGym](../profile/TheChessGym) September 15, 2022 13:20
 
 September 15, 2022 13:20 | Tags: [lat:22](../tag/lat:22), [first-time-poster](../tag/first-time-poster), [lon:76](../tag/lon:76), [zoom:6](../tag/zoom:6)
+
+----
 
 Coastal Marsh Restoration Causes Environmental Succession (Allogenic) In Louisiana Wetlands
 

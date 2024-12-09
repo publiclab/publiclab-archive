@@ -8,11 +8,15 @@ uid: 898
 
 ---
 
+![](https://publiclab.org/sites/default/files/Delta Kite voilure.jpg)
+
 # DIY Light Delta kite (Rogallo wing)
 
 by [Safidy](../profile/Safidy) July 26, 2012 21:29
 
 July 26, 2012 21:29 | Tags: [kite-mapping](../tag/kite-mapping), [nasa](../tag/nasa), [kite-modeler](../tag/kite-modeler), [diy-kite](../tag/diy-kite), [delta](../tag/delta), [rogallo](../tag/rogallo), [diy-kites](../tag/diy-kites), [kite-making](../tag/kite-making)
+
+----
 
 I used Kitemodeler for designing this kite and here are some dimensions.
 

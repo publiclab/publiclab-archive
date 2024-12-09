@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/009/973/original/201-208_214_9o9.jpg)
+
 # iFARM aerial panoramas
 
 by [cfastie](../profile/cfastie) May 22, 2015 21:46
 
 May 22, 2015 21:46 | Tags: [kite-aerial-photography](../tag/kite-aerial-photography), [new-hampshire](../tag/new-hampshire), [uav](../tag/uav), [farm](../tag/farm), [kap](../tag/kap), [autokap](../tag/autokap), [ifarm](../tag/ifarm), [2015](../tag/2015), [hack](../tag/hack), [nh](../tag/nh), [ifarm2015](../tag/ifarm2015), [response:11825](../tag/response:11825), [saturnv](../tag/saturnv), [skyshield](../tag/skyshield)
+
+----
 
 *Image above: Newly created habitat for the New England cottontail. Forest along a stream was removed in 2014 and thousands of native shrubs were planted this spring. Stitched from 11 mostly oblique photos (so this is more of a bowl than a map).*  
 .  

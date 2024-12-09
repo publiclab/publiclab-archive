@@ -14,6 +14,8 @@ by [warren](../profile/warren)
 
 April 29, 2014 17:11 | Tags: [water-quality](../tag/water-quality), [nitrate](../tag/nitrate), [nitrogen](../tag/nitrogen), [parent:nitrogen](../tag/parent:nitrogen)
 
+----
+
 ##Exploratory pilot project for low-cost nitrate measurement
 
 _Assessing DIY spectrometry and open collaborative models for nitrate detection for field and in-home assays_

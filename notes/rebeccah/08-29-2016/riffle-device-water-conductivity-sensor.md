@@ -8,11 +8,15 @@ uid: 489342
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/017/823/original/Coqui_Schematic_schem.pdf)
+
 # Riffle Device: Water Conductivity Sensor
 
 by [rebeccah](../profile/rebeccah) August 29, 2016 15:07
 
 August 29, 2016 15:07 | Tags: [water](../tag/water), [data](../tag/data), [probe](../tag/probe), [conductivity](../tag/conductivity), [riffle](../tag/riffle), [logger](../tag/logger), [quality](../tag/quality), [coqui](../tag/coqui), [open](../tag/open), [rtc](../tag/rtc), [drinking](../tag/drinking), [surface](../tag/surface), [activity:riffle](../tag/activity:riffle), [riffle-examples](../tag/riffle-examples), [activity:conductivity](../tag/activity:conductivity), [activity:coqui-version](../tag/activity:coqui-version)
+
+----
 
 ###What I Want To Do
 The ultimate goal is to design an inexpensive device that can be placed in streams across Western Pennsylvania. Accomplishing the goal will give data on surface water as a bigger picture, and also to raise awareness of water contamination issues. To do so, the Riffle+Coquí device, incorporating a specially designed probe and waterproof housing, will be utilized to measure the conductivity of water.

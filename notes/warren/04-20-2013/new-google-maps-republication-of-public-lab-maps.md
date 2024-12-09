@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/000/098/original/lee-nh-google-maps-larger.png)
+
 # New Google Maps republication of Public Lab maps
 
 by [warren](../profile/warren) April 20, 2013 17:12
 
 April 20, 2013 17:12 | Tags: [balloon-mapping](../tag/balloon-mapping), [new-hampshire](../tag/new-hampshire), [farmhack](../tag/farmhack), [archive](../tag/archive), [lee-nh](../tag/lee-nh), [google-maps](../tag/google-maps)
+
+----
 
 Chris Fastie mentioned on the Organizers call yesterday that he saw new maps of ours in Google Maps, and indeed I see one in the base layer at Dorn Cox's farm:
 

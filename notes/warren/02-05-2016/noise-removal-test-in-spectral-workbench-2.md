@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/014/090/original/Screenshot_2016-02-05_at_11.04.15_AM.png)
+
 # Baseline noise removal test in Spectral Workbench 2
 
 by [warren](../profile/warren) February 05, 2016 16:20
 
 February 05, 2016 16:20 | Tags: [spectrometry](../tag/spectrometry), [spectral-workbench](../tag/spectral-workbench), [operations](../tag/operations), [noise-reduction](../tag/noise-reduction), [spectral-workbench-2](../tag/spectral-workbench-2)
+
+----
 
 ###What I want to do
 

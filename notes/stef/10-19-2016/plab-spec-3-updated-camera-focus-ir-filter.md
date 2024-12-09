@@ -8,11 +8,15 @@ uid: 482758
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/018/444/original/IMGP1572.JPG)
+
 # Camera Focus IR Filter Removal
 
 by [stef](../profile/stef) October 19, 2016 15:39
 
 October 19, 2016 15:39 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [desktop-spectrometer](../tag/desktop-spectrometer), [upgrade:spectrometry](../tag/upgrade:spectrometry), [upgrade:dssk](../tag/upgrade:dssk)
+
+----
 
 ###****Caveat****
 This modification is specific to the camera shipped with the PLAB  3 Spectrometer model JDEPC-0V05. Other cameras may have a different IR filter configuration.

@@ -14,6 +14,8 @@ by [Jimzamjimmyy](../profile/Jimzamjimmyy) June 12, 2018 16:55
 
 June 12, 2018 16:55 | Tags: [mapknitter](../tag/mapknitter), [lat:61.003577936](../tag/lat:61.003577936), [lon:-334.5754909515](../tag/lon:-334.5754909515), [first-time-poster](../tag/first-time-poster)
 
+----
+
 <iframe src="https://mapknitter.org/embed/testing--6" style="border:none" width="100%" height="400px"></iframe>  
   
   

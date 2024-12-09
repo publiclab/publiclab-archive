@@ -14,6 +14,8 @@ by [jbest](../profile/jbest) November 06, 2013 18:15
 
 November 06, 2013 18:15 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [conversion](../tag/conversion), [filter](../tag/filter), [infragram](../tag/infragram), [activity:infrared-camera-conversion](../tag/activity:infrared-camera-conversion), [first-time-poster](../tag/first-time-poster)
 
+----
+
 ### Canon A2400 IR conversion
 
 The excellent tutorials for the various Canon PowerShot conversions inspired me to attempt a conversion of a Canon A2400. I chose this camera thinking that it would not be that much different than the others and because it is small and light and affordable at $80. Because I thought it wouldn't be much different, I wasn't as prepared to document the process but I quickly found out that it was in fact quite different than what I've seen and read about before. I was able to successfully complete the conversion with a functional camera, but I'll warn everyone up front: this might not be an ideal option until we can develop more community input on the best way to disassemble and reassemble it. The primary problem was that the lens and CCD assembly had to be removed and the ribbon cables detached. Hopefully the following notes and photos will help others improve on the process.

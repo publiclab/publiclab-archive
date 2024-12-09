@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/023/869/original/IMG_20161110_201129423_HDR_crop.jpg)
+
 # Set up a schedule grid for an Open Space event
 
 by [liz](../profile/liz) March 07, 2018 22:01
 
 March 07, 2018 22:01 | Tags: [events](../tag/events), [barnraising](../tag/barnraising), [open-space-technology](../tag/open-space-technology), [facilitation](../tag/facilitation), [open-space](../tag/open-space), [activity:barnraising](../tag/activity:barnraising), [activity:night-before-barnraising](../tag/activity:night-before-barnraising), [activity:facilitation](../tag/activity:facilitation)
+
+----
 
 _lead image from the 2016 Annual Barnraising at LUMCON, Cocodrie, Louisiana with @klie, @gretchengehrke, and mystery person_
 

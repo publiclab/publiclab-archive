@@ -8,11 +8,15 @@ uid: 54025
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/000/166/original/ProtoBench.jpg)
+
 # Spectrometer focus
 
 by [stoft](../profile/stoft) May 03, 2013 20:02
 
 May 03, 2013 20:02 | Tags: [spectrometer](../tag/spectrometer), [desktop-spectrometry-kit](../tag/desktop-spectrometry-kit), [slit](../tag/slit), [improvements](../tag/improvements), [focus](../tag/focus), [first-time-poster](../tag/first-time-poster)
+
+----
 
 An area of concern for me in rebuilding my spectrometer has been the camera focus. The spectrometer's slit provides pseudo-collimated light so the camera lens should be focused on the slit for best resolution. This is more difficult than it might appear. So, I'm posting two sets of observations:
 

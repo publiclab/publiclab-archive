@@ -8,11 +8,15 @@ uid: 787988
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/045/597/original/IMG_D6A8C0A6E1DC-1.jpeg)
+
 # Unboxing Lesson with Middle School - Infragram Pi Kit
 
 by [carmen2x](../profile/carmen2x) April 01, 2022 16:48
 
 April 01, 2022 16:48 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [education](../tag/education), [kits](../tag/kits), [nasa](../tag/nasa), [aerial-imaging](../tag/aerial-imaging), [aren](../tag/aren), [globe](../tag/globe), [infragram-pi](../tag/infragram-pi)
+
+----
 
 **Introduction**
 

@@ -14,6 +14,8 @@ by [warren](../profile/warren)
 
 November 20, 2015 15:34 | Tags: [barnraising](../tag/barnraising), [parent:barnraising](../tag/parent:barnraising), [doccom](../tag/doccom), [barnraising-2015](../tag/barnraising-2015)
 
+----
+
 The DOCumentation COMmitte helps to record and share the thoughts, ideas, and insights of the Barnraising with one another, rest of the the Public Lab community, and the rest of the world. 
 
 To do this, we encourage one person at each session to take notes. If you're **taking notes at the Barnraising**, please drop them (or just take them directly) into one of these notes docs: 
@@ -54,7 +56,7 @@ We're seeking submissions (session report backs, deep dives, lightning talk summ
 
 ### Submissions
 
-[notes:txbr-zine]
+[txbr-zine](../../tag/txbr-zine)
 
 
 
@@ -77,7 +79,7 @@ The Barnraiser is a 1-page daily "mini newspaper" we publish during the #Barnrai
 
 ## Questions
 
-[questions:doccom]
+[doccom](../../tag/question:doccom)
 
 ****
 

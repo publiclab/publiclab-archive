@@ -8,11 +8,15 @@ uid: 795837
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/046/136/original/Biodoumoye_Meindinyo.png)
+
 # Outreachy proposal: Design a new full-screen user interface for Infragram.org
 
 by [biomeind15](../profile/biomeind15) April 19, 2022 17:34
 
 April 19, 2022 17:34 | Tags: [software](../tag/software), [outreachy](../tag/outreachy), [first-time-poster](../tag/first-time-poster), [zoom:6](../tag/zoom:6), [outreachy-2022](../tag/outreachy-2022), [outreachy-summer-2022](../tag/outreachy-summer-2022), [lat:9.0804](../tag/lat:9.0804), [lon:8.679199](../tag/lon:8.679199)
+
+----
 
 strong text**strong text**
 

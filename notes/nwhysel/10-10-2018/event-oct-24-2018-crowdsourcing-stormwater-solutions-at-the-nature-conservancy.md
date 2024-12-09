@@ -8,11 +8,15 @@ uid: 434096
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/026/894/original/highres_474970365.jpeg)
+
 # Event: Oct 24, 2018 Crowdsourcing Stormwater Solutions at The Nature Conservancy
 
 by [nwhysel](../profile/nwhysel) October 10, 2018 14:26
 
 October 10, 2018 14:26 | Tags: [new-york-city](../tag/new-york-city), [event](../tag/event), [stormwater](../tag/stormwater), [green-infrastructure](../tag/green-infrastructure), [mitigation](../tag/mitigation)
+
+----
 
 Take on the NYC Stormwater Design Challenge!
 

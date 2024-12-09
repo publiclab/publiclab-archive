@@ -14,6 +14,8 @@ by [ruya](../profile/ruya) December 14, 2017 19:11
 
 December 14, 2017 19:11 | Tags: [question:infragram](../tag/question:infragram), [question:kits](../tag/question:kits), [question:filter-pack](../tag/question:filter-pack), [question:shipping](../tag/question:shipping)
 
+----
+
 hello! I am from uk... i want to buy 
 
 # Infragram DIY Filter Pack and it's in dollars, can i buy even if I am from uk?

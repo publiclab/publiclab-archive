@@ -14,6 +14,8 @@ by [mathew](../profile/mathew), [warren](../profile/warren)
 
 February 22, 2012 22:30 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [photo-rig](../tag/photo-rig)
 
+----
+
 ##Step-by-step guide##
 
 This design for a dual camera rig (see [Dual Camera Rig](/wiki/dual-camera-rig) for why you'd want to do this) is based on a T-shaped or L-shaped bracket, washers, and two bolts which fit into the camera mounting holes on most cameras.

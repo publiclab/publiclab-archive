@@ -14,6 +14,8 @@ by [bhamster](../profile/bhamster)
 
 November 30, 2021 23:19 | Tags: [status:under-development](../tag/status:under-development), [method](../tag/method), [environmental-data](../tag/environmental-data), [presenting-data](../tag/presenting-data), [air-quality-data](../tag/air-quality-data), [data-cleaning](../tag/data-cleaning)
 
+----
+
 _Lead image: Clean Data by Gene Stroman from the [Noun Project](https://thenounproject.com), CC BY_
 
 <hr>
@@ -63,7 +65,7 @@ _More to come here!_
 
 Questions tagged with `question:data-cleaning` will appear here
 
-[questions:data-cleaning]
+[data-cleaning](../../tag/question:data-cleaning)
 
 <br>
 
@@ -71,7 +73,7 @@ Questions tagged with `question:data-cleaning` will appear here
 
 Activity posts tagged with `activity:data-cleaning` will appear here
 
-[activities:data-cleaning]
+[data-cleaning](../../tag/activity:data-cleaning)
 
 <br>
 

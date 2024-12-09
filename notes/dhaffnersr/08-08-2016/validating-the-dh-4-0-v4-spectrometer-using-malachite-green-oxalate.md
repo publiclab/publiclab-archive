@@ -8,11 +8,15 @@ uid: 461120
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/017/426/original/malachite_green.png)
+
 # Validating The DH 4.0 v4 Spectrometer using - MALACHITE GREEN (Oxalate)
 
 by [dhaffnersr](../profile/dhaffnersr) August 08, 2016 19:09
 
 August 08, 2016 19:09 | Tags: 
+
+----
 
 ##**Environmental Impact of Malachite Green**
 

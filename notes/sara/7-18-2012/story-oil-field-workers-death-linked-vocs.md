@@ -14,6 +14,8 @@ by [sara](../profile/sara) July 18, 2012 15:39
 
 July 18, 2012 15:39 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing)
 
+----
+
 Lacey Bergsing left this story as comment to <a href="http://www.texassharon.com/2012/07/06/deadly-flowback-vapors-killed-21-year-old-montana-man/">TXSharon's Blog</a> about the death of her fiancee <a href="http://bismarcktribune.com/bakken/hydrocarbon-poisoning-blamed-for-n-d-oil-worker-death/article_71b31cc6-c716-11e1-88e1-001a4bcf887a.html">due to exposure to hydrocarbon fumes</a>. Dustin Bergsing was a Marathon employee working in flowback operations. He was working 24 hour shifts alone when he died:
 
 I, Lacey Bergsing, am the Fiancee and mother of Dustin's Bergsing's

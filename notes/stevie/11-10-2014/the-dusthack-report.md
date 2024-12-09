@@ -8,11 +8,15 @@ uid: 422561
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/007/794/original/DustHack.png)
+
 # The DustHack Report
 
 by [stevie](../profile/stevie) November 10, 2014 23:32
 
 November 10, 2014 23:32 | Tags: [event](../tag/event), [wisconsin](../tag/wisconsin), [air-quality](../tag/air-quality), [dustduino](../tag/dustduino), [dust](../tag/dust), [silica](../tag/silica), [frac-sand](../tag/frac-sand), [midwest](../tag/midwest), [particle-monitoring](../tag/particle-monitoring), [dylos](../tag/dylos), [mid-west](../tag/mid-west), [parent:frac-sand](../tag/parent:frac-sand)
+
+----
 
 ##_Lets Hack this Attack!_
 

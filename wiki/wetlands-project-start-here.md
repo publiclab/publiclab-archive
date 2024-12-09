@@ -14,6 +14,8 @@ by [liz](../profile/liz)
 
 August 10, 2015 15:46 | Tags: [wetlands](../tag/wetlands), [parent:wetlands-toolkit](../tag/parent:wetlands-toolkit)
 
+----
+
 >This is an all-day event divided into four learning tasks -- two before lunch, two after lunch.
 >
 > **Materials to have on hand:**

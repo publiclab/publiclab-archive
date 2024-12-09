@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/021/599/original/LEAFFEST2017a.jpg)
+
 # Join us at LEAFFEST 2017
 
 by [cfastie](../profile/cfastie) September 10, 2017 02:49
 
 September 10, 2017 02:49 | Tags: [vermont](../tag/vermont), [leaffest](../tag/leaffest), [event](../tag/event), [northeast](../tag/northeast), [leaffest2017](../tag/leaffest2017), [location:blurred](../tag/location:blurred), [lat:44](../tag/lat:44), [lon:-73](../tag/lon:-73), [place:vermont](../tag/place:vermont)
+
+----
 
 *Above: A precocious sugar maple on September 8 at LEAFFEST HQ.*
 

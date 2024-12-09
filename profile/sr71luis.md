@@ -3,6 +3,8 @@ uid: 774888
 created_at: 2021-10-07 22:59:38 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/d87522497ab610dff47b2087fc335ea7)
+
 # sr71luis
 
 

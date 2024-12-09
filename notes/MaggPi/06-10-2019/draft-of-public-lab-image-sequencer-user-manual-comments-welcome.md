@@ -8,11 +8,15 @@ uid: 501996
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/032/752/original/image_sequencer_example.JPG)
+
 # Draft of Public Lab Image Sequencer User Manual – Comments Welcome!
 
 by [MaggPi](../profile/MaggPi) June 10, 2019 04:29
 
 June 10, 2019 04:29 | Tags: [documentation](../tag/documentation), [soc](../tag/soc), [activity:documentation](../tag/activity:documentation), [image-sequencer](../tag/image-sequencer), [activity:image-sequencer](../tag/activity:image-sequencer), [gsoc-2019](../tag/gsoc-2019), [soc-2019](../tag/soc-2019), [status:request](../tag/status:request)
+
+----
 
 **Draft of Public Lab Image Sequencer User Manual – Comments Welcome!**
 

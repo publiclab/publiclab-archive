@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/011/051/original/Screenshot_2015-08-06_at_3.24.39_PM.png)
+
 # Wavelength range limiting in Spectral Workbench
 
 by [warren](../profile/warren) August 06, 2015 19:39
 
 August 06, 2015 19:39 | Tags: [spectrometer](../tag/spectrometer), [web-development](../tag/web-development), [software](../tag/software), [spectral-workbench](../tag/spectral-workbench), [oil-testing-kit](../tag/oil-testing-kit), [response:12108](../tag/response:12108)
+
+----
 
 Just a quick announce -- after [the big revision of Spectral Workbench went live](/notes/warren/07-31-2015/sneak-preview-of-new-spectral-workbench-sets-display) last week, I also posted a few new features, including one we'd [discussed on the mailing list](https://groups.google.com/forum/#!topic/plots-spectrometry/n_OIBNKmvFY) -- range limiting. 
 

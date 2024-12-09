@@ -8,11 +8,15 @@ uid: 45586
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/016/709/original/HPIM8466-R-_Wyatt_Run_mud_INTO_Fishing_crk.JPG)
+
 # Documenting Runoff with Photography
 
 by [mlamadrid](../profile/mlamadrid) June 22, 2016 01:00
 
 June 22, 2016 01:00 | Tags: [wisconsin](../tag/wisconsin), [blog](../tag/blog), [frac-sand](../tag/frac-sand), [with:gretchengehrke](../tag/with:gretchengehrke), [parent:frac-sand](../tag/parent:frac-sand), [communityscienceforum](../tag/communityscienceforum)
+
+----
 
 Article by [Gretchen Gehrke](https://publiclab.org/profile/gretchengehrke) for [Community Science Forum: Sand-Frac Issue](https://publiclab.org/forum).
 

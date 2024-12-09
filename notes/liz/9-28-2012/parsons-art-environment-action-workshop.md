@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/sites/default/files/IMG_20120928_175737_0.jpg)
+
 # Parsons Art Environment Action! workshop
 
 by [liz](../profile/liz) September 28, 2012 20:30
 
 September 28, 2012 20:30 | Tags: [new-york-city](../tag/new-york-city), [balloon-mapping](../tag/balloon-mapping), [washington-square-park](../tag/washington-square-park)
+
+----
 
 September 28, 2012
 Washington Square Park 

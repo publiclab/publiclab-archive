@@ -8,11 +8,15 @@ uid: 461502
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/014/549/original/undefined)
+
 # Slowing Sensor Journalism
 
 by [michalnon](../profile/michalnon) February 24, 2016 03:30
 
 February 24, 2016 03:30 | Tags: [sensor-journalism](../tag/sensor-journalism), [response:12748](../tag/response:12748), [hidden:response](../tag/hidden:response)
+
+----
 
 The front pages of the world’s major publications are increasingly filled with data visualizations. Graphs, charts, and maps with eye-catching displays and pleasing colors are popping up beside in-depth reports on education, medicine, and natural resources. In fact, groups like the New York Times and the Washington Post are even hiring their own team of data specialists, assigned only with creating these additions. While some of these visualizations rely on data provided from an external source, more and more journalists are collecting the information themselves. This is the emerging field of sensor journalism. Defined by scholar Lily Bui as the practice of collecting data from sensors, and then using those sensors to tell a story, the new trend puts the tools, not just the pen, in the hands of journalists.
 

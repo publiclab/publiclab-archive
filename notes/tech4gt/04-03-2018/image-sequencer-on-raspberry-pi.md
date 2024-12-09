@@ -8,11 +8,15 @@ uid: 523178
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/024/307/original/seq.png)
+
 # Image Sequencer on Raspberry PI
 
 by [tech4gt](../profile/tech4gt) April 03, 2018 11:43
 
 April 03, 2018 11:43 | Tags: [raspberry-pi](../tag/raspberry-pi), [pi-camera](../tag/pi-camera), [raspberry-pi-infragram](../tag/raspberry-pi-infragram), [activity:raspberry-pi-infragram](../tag/activity:raspberry-pi-infragram), [activity:raspberry-pi-spectrometer](../tag/activity:raspberry-pi-spectrometer), [activity:pi-camera](../tag/activity:pi-camera), [image-sequencer](../tag/image-sequencer)
+
+----
 
 [Image Sequencer](https://github.com/publiclab/image-sequencer) is an image processing library for node.js and the browser written in javascript. Pictures clicked on raspberry pi can be processed with image sequencer through a series of processing modules called steps.
 

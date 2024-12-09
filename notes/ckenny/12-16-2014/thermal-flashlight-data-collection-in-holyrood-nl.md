@@ -8,11 +8,15 @@ uid: 431154
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/008/436/original/Screen_Shot_2014-12-16_at_1.18.40_PM.png)
+
 # Thermal flashlight: data collection in Holyrood, NL
 
 by [ckenny](../profile/ckenny) December 16, 2014 17:02
 
 December 16, 2014 17:02 | Tags: [thermal-photography](../tag/thermal-photography), [thermal-flashlight](../tag/thermal-flashlight), [thermal-pollution](../tag/thermal-pollution), [thermal-plume](../tag/thermal-plume), [sociology-4107](../tag/sociology-4107), [newfoundland](../tag/newfoundland), [holyrood](../tag/holyrood), [heat](../tag/heat), [activity:thermal-flashlight](../tag/activity:thermal-flashlight), [story:thermal-flashlight](../tag/story:thermal-flashlight), [replication:625](../tag/replication:625)
+
+----
 
 The aim of our research project is to examine thermal pollution at the Holyrood Thermal Generating Station in Holyrood, Newfoundland. Our specific site was the Cooling Water Outfall, which discharges directly into Conception Bay. We gained access to a thermal fishing bob, but could not get it working through troubleshooting. Instead, we decided to modify the thermal flashlight to see if we could test surface water temperature. We attempted to waterproof the casing, but will post a video later to show the difficulties associated with using this technology around water, especially in the Newfoundland climate.
 

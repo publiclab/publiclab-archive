@@ -14,6 +14,8 @@ by [mathew](../profile/mathew), [warren](../profile/warren)
 
 April 16, 2014 20:14 | Tags: [kite-mapping](../tag/kite-mapping), [guide](../tag/guide), [quick-start](../tag/quick-start), [parent:kite-mapping](../tag/parent:kite-mapping)
 
+----
+
 ##tips for trouble-free kite mapping
 
 **Note:** _This is **NOT** a guide for "expert" kite flyers. It's intended to be a QUICK START guide for people who've never kite mapped before, with as few problems and things to worry about as possible._

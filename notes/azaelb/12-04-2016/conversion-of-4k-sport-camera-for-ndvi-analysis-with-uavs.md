@@ -8,11 +8,15 @@ uid: 319070
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/018/967/original/sj8000converted.jpg)
+
 # Conversion of 4k sport camera for NDVI analysis with UAVs
 
 by [azaelb](../profile/azaelb) December 04, 2016 15:19
 
 December 04, 2016 15:19 | Tags: [ndvi](../tag/ndvi), [multispectral](../tag/multispectral), [drones](../tag/drones), [infrared](../tag/infrared), [infragram](../tag/infragram), [with](../tag/with), [activity:multispectral-imaging](../tag/activity:multispectral-imaging), [activity:infragram](../tag/activity:infragram), [multispectral-imaging](../tag/multispectral-imaging), [activity:infrared](../tag/activity:infrared), [uavs](../tag/uavs), [activity:cameras](../tag/activity:cameras), [activity:ndvi](../tag/activity:ndvi), [activity:infrared-camera-conversion](../tag/activity:infrared-camera-conversion), [sport-camera](../tag/sport-camera), [activity:mini-camera](../tag/activity:mini-camera)
+
+----
 
 ###4k NDVI on the budget##
 

@@ -3,6 +3,8 @@ uid: 522032
 created_at: 2018-01-08 10:30:34 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/c0e174939cb06ded09484970d9b8e00c)
+
 # adyr_construction
 
 

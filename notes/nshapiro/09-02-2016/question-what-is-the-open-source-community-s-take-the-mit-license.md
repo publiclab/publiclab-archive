@@ -14,6 +14,8 @@ by [nshapiro](../profile/nshapiro) September 02, 2016 11:15
 
 September 02, 2016 11:15 | Tags: [open-source](../tag/open-source), [answered](../tag/answered), [license](../tag/license), [question:legal](../tag/question:legal), [question:license](../tag/question:license), [question:copyright](../tag/question:copyright), [law-and-policy](../tag/law-and-policy), [question:law-and-policy](../tag/question:law-and-policy)
 
+----
+
 ###What I want to do or know
 
 Is the [MIT Open License](https://opensource.org/licenses/MIT) fundamentally different than CC licences that do not claim to be copyrights? Is it essentially the same as Creative Commons Attribution-ShareAlike 3.0 Unported License?

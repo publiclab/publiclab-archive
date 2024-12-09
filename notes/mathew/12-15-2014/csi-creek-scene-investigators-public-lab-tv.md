@@ -8,11 +8,15 @@ uid: 4
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/008/409/original/2014_Gowanus_CSI_Unit_Cold_Cases_The_Creek_Scene_Investigation_Clue_Kit.jpg)
+
 # CSI: Creek Scene Investigators -public lab tv-
 
 by [mathew](../profile/mathew) December 15, 2014 18:22
 
 December 15, 2014 18:22 | Tags: [video](../tag/video), [water-quality](../tag/water-quality), [water](../tag/water), [creek](../tag/creek), [tv](../tag/tv), [openwater](../tag/openwater), [barnstar:video-documentation](../tag/barnstar:video-documentation), [waterquality](../tag/waterquality), [publiclabtv](../tag/publiclabtv), [csi](../tag/csi)
+
+----
 
 Public Lab TV starring @Eymund of the Gowanus Conservancy. Eymund explains how to find the chalk outline of a ghost stream's corpse so he [can solve the murder of Freddy the Fish.
 ](/notes/liz/05-07-2014/gowanus-csi-creek-scene-investigation)

@@ -8,11 +8,15 @@ uid: 12
 
 ---
 
+![](https://publiclab.org/sites/default/files/bottle.png)
+
 # 100 Maps
 
 by [gonzoearth](../profile/gonzoearth) April 25, 2012 18:56
 
 April 25, 2012 18:56 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping)
+
+----
 
 There are now 100 published maps in the Public Laboratory Archive!
 

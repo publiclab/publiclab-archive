@@ -14,6 +14,8 @@ by [sara](../profile/sara) September 11, 2011 17:37
 
 September 11, 2011 17:37 | Tags: [colorado](../tag/colorado), [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s), [natural-gas](../tag/natural-gas), [h2s-sites](../tag/h2s-sites), [mountain-west](../tag/mountain-west)
 
+----
+
 Bucket brigade report on hydrogen sulfide in the gas patch:
 
 http://gcmonitor.org/article.php?id=1339

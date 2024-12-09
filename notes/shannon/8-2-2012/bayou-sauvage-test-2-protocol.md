@@ -8,11 +8,15 @@ uid: 9
 
 ---
 
+![](https://publiclab.org/sites/default/files/7631653960_bbc9ac8973.jpg)
+
 # Bayou Sauvage test #2 protocol
 
 by [Shannon](../profile/Shannon) August 02, 2012 04:32
 
 August 02, 2012 04:32 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing)
+
+----
 
 We did the first test in June and semi-followed this protocol: http://publiclaboratory.org/notes/shannon/6-22-2012/h2s-test-experimental-protocol-bayou-savage-la. 
 

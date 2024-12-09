@@ -8,11 +8,15 @@ uid: 53894
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/046/522/original/Garbage_barge.jpeg)
+
 # Waste
 
 by [bhamster](../profile/bhamster), [joyofsoy](../profile/joyofsoy), [stevie](../profile/stevie), [wward1400](../profile/wward1400), [nicholas](../profile/nicholas), [lilybui](../profile/lilybui)
 
 October 06, 2013 19:11 | Tags: [landfill](../tag/landfill), [waste](../tag/waste), [needs-revision](../tag/needs-revision), [trash](../tag/trash), [basura](../tag/basura)
+
+----
 
 Trash, litter, rubbish. Disposing of materials we no longer want or can no longer use generates waste. Common kinds of waste include municipal solid waste, wastewater, and hazardous waste.
 
@@ -24,19 +28,19 @@ _Lead image: @a1ahna, CC BY SA_
 
 ### Questions
 
-[questions:waste]
+[waste](../../tag/question:waste)
 
 <br>
 
 ### Activities
 
-[activities:waste]
+[waste](../../tag/activity:waste)
 
 <br>
 
 ### Research notes
 
-[notes:waste]
+[waste](../../tag/waste)
 
 <br>
 

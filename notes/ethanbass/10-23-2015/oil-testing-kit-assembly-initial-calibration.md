@@ -8,11 +8,15 @@ uid: 46902
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/012/121/original/spec3.jpg)
+
 # Oil testing kit: Assembly + Initial Calibration
 
 by [ethanbass](../profile/ethanbass) October 23, 2015 21:34
 
 October 23, 2015 21:34 | Tags: [spectrometer](../tag/spectrometer), [fluorescence](../tag/fluorescence), [oil-testing-kit](../tag/oil-testing-kit), [oil-testing-kit-alpha](../tag/oil-testing-kit-alpha), [first-time-poster](../tag/first-time-poster)
+
+----
 
 Hi, I'm Ethan, a member of the Oil Testing Kit beta program, located in Chicago. Here I've collected some notes and pictures from the assembly and calibration of my oil testing kit.
 

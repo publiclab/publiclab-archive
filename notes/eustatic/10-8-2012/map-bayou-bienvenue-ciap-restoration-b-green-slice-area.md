@@ -8,11 +8,15 @@ uid: 379
 
 ---
 
+![](https://publiclab.org/sites/default/files/8065245440_7cdf1fb6e8_0.jpg)
+
 # map of Bayou Bienvenue CIAP restoration ("B" of Green Slice area)
 
 by [eustatic](../profile/eustatic) October 08, 2012 05:52
 
 October 08, 2012 05:52 | Tags: [gulf-coast](../tag/gulf-coast), [balloon-mapping](../tag/balloon-mapping), [bayou-bienvenue](../tag/bayou-bienvenue), [green-slice](../tag/green-slice), [bienvenue](../tag/bienvenue), [urbanwater](../tag/urbanwater), [biosolids](../tag/biosolids)
+
+----
 
 TECHNICAL NOTE AND QUESTION
 

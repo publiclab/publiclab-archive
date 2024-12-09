@@ -8,11 +8,15 @@ uid: 479194
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/018/405/original/dssk-3.0.jpg)
+
 # Desktop Spectrometry Starter Kit 3.0 Assembly Instructions
 
 by [abdul](../profile/abdul) October 13, 2016 22:56
 
 October 13, 2016 22:56 | Tags: [spectrometer](../tag/spectrometer), [store](../tag/store), [help](../tag/help), [spectrometry](../tag/spectrometry), [assembly](../tag/assembly), [kit](../tag/kit), [desktop-spectrometry-kit](../tag/desktop-spectrometry-kit), [activity](../tag/activity), [instructions](../tag/instructions), [barnstar:basic](../tag/barnstar:basic), [with:warren](../tag/with:warren), [with:mathew](../tag/with:mathew), [desktop](../tag/desktop), [activity:spectrometry](../tag/activity:spectrometry), [activity:dssk](../tag/activity:dssk), [category:build](../tag/category:build), [status:complete](../tag/status:complete), [3.0](../tag/3.0), [v3](../tag/v3), [spectrometer-instructions](../tag/spectrometer-instructions), [time:45min](../tag/time:45min), [difficulty:introductory](../tag/difficulty:introductory)
+
+----
 
 ##Introduction
 

@@ -14,6 +14,8 @@ by [charlotte_clarke](../profile/charlotte_clarke) November 19, 2019 16:14
 
 November 19, 2019 16:14 | Tags: [oil-and-gas-water-trio](../tag/oil-and-gas-water-trio)
 
+----
+
 Here's the week 9 update on monitoring methods for oil and gas water impacts:
 
 - [OpenHour](https://publiclab.org/openhour): November's OpenHour, on Tuesday, Nov 12 at 8pm EST, focused on [our research area](https://publiclab.org/wiki/oil-and-gas-water-fellowship-trio). You can find the recording in the [OpenHour archive](https://publiclab.org/wiki/openhour-archive).

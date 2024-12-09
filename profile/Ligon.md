@@ -3,6 +3,8 @@ uid: 327822
 created_at: 2013-10-22 17:46:14 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/4224b54ebe7d2e035b3675664ec5160a)
+
 # Ligon
 
 

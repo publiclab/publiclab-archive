@@ -3,6 +3,8 @@ uid: 488457
 created_at: 2016-08-21 11:30:46 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/7f0a25dd99013d7a52b90981d714ee3b)
+
 # Winter
 
 

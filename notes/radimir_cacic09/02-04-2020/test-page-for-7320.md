@@ -14,6 +14,8 @@ by [radimir_cacic09](../profile/radimir_cacic09) February 04, 2020 18:38
 
 February 04, 2020 18:38 | Tags: [new](../tag/new), [draft](../tag/draft), [activity:new](../tag/activity:new)
 
+----
+
 _This is a minimal template for new activities! If you're drafting a new activity ([http://publiclab.org/wiki/activities](http://publiclab.org/wiki/activities)), remove this line._
 
 \_  

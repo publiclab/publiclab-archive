@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/018/877/original/Screenshot_2016-11-22_at_11.28.29_AM.png)
+
 # Interview: Chris Nidel on environmental evidence in court
 
 by [warren](../profile/warren) November 22, 2016 16:31
 
 November 22, 2016 16:31 | Tags: [evidence](../tag/evidence), [blog](../tag/blog), [legal](../tag/legal), [openhour](../tag/openhour), [with:gretchengehrke](../tag/with:gretchengehrke), [evidence-project](../tag/evidence-project), [chris-nidel](../tag/chris-nidel), [photographic-evidence](../tag/photographic-evidence), [photographic-monitoring](../tag/photographic-monitoring), [court](../tag/court), [jury](../tag/jury), [series:evidence-project](../tag/series:evidence-project), [law-and-policy](../tag/law-and-policy)
+
+----
 
 A few months ago, as our first interview for the Environmental Evidence Project blog series (#evidence-project), we caught up with Chris Nidel, an attorney with [Nidel Law, PLLC][1], based in the DC area. _Lead image: satellite images of waste at a Maryland Perdue chicken farm from a case Chris fought in 2012\._
 
@@ -113,7 +117,7 @@ We're moving these questions into the new [Questions system](/questions) -- so f
 
 <a class="btn btn-primary" href="/post?tags=evidence,question:evidence&template=question">Ask a question about evidence</a>
   
-[notes:question:evidence]
+[question:evidence](../../tag/question:evidence)
 
 [1]: http://www.nidellaw.com/
 [2]: https://chrisnidel.wordpress.com/about/

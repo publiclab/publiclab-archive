@@ -14,6 +14,8 @@ by [gonzoearth](../profile/gonzoearth) July 19, 2012 14:49
 
 July 19, 2012 14:49 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping)
 
+----
+
 There are lots of people and organizations that have done high altitude untethered balloon flights in the last few years, publicizing them on the web with video and image montages. This flight/stunt/experiment was different in some key areas.
 - It was done by enthusiasts of the Rasberry Pi and completley open hardware. 
 - The flight included radio telemetry communication with multiple ground stations, enabling the flyers to track the fight in real time.

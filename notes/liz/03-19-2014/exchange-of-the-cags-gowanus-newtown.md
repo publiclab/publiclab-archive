@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/003/319/original/1-IMG_20140226_193546139.jpg)
+
 # Exchange of the CAGs: Gowanus <--> Newtown
 
 by [liz](../profile/liz) March 19, 2014 13:47
 
 March 19, 2014 13:47 | Tags: [new-york-city](../tag/new-york-city), [epa](../tag/epa), [events:new-york-city](../tag/events:new-york-city), [glam](../tag/glam), [cag](../tag/cag)
+
+----
 
 **Report back from Wednesday evening February 26th, 6:30-8:30pm:**
 

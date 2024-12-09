@@ -14,6 +14,8 @@ by [bigmit37](../profile/bigmit37) August 18, 2018 18:48
 
 August 18, 2018 18:48 | Tags: [transportation](../tag/transportation), [question:air-quality](../tag/question:air-quality), [question:pm](../tag/question:pm), [question:general](../tag/question:general), [purpleair](../tag/purpleair), [question:purpleair](../tag/question:purpleair), [question:traffic](../tag/question:traffic), [question:transportation](../tag/question:transportation)
 
+----
+
 I currently live near a busy intersection and I wanted to some for of measurement of PM2.5, PM10 as from what I've read, car pollution are the main culprits of these particles. I then wanted to try to reduce then via air purifiers and see if it makes a difference.   
 
   

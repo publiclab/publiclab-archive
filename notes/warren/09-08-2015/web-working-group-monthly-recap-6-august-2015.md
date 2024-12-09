@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/011/519/original/Screenshot_2015-09-08_at_3.27.15_PM.png)
+
 # Web Working Group Monthly Recap 6: August 2015
 
 by [warren](../profile/warren) September 08, 2015 19:45
 
 September 08, 2015 19:45 | Tags: [mapknitter](../tag/mapknitter), [web-development](../tag/web-development), [software](../tag/software), [plots2](../tag/plots2), [spectral-workbench](../tag/spectral-workbench), [wwg](../tag/wwg), [webwg](../tag/webwg), [response:12117](../tag/response:12117)
+
+----
 
 A big month, but almost entirely for Spectral Workbench -- skip to the bottom to see those changes! And we're a few days late on this update, so apologies!
 

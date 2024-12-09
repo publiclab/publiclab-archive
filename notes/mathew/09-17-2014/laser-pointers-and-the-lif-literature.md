@@ -8,11 +8,15 @@ uid: 4
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/006/850/original/Screen_Shot_2014-09-17_at_1.04.55_PM.png)
+
 # Laser Pointers and the LIF Literature
 
 by [mathew](../profile/mathew) September 17, 2014 23:40
 
 September 17, 2014 23:40 | Tags: [spectrometer](../tag/spectrometer), [uv](../tag/uv), [laser](../tag/laser), [fluorescence](../tag/fluorescence), [oil-testing-kit](../tag/oil-testing-kit), [literature-review](../tag/literature-review)
+
+----
 
 *LIF stands for Laser Induced Fluorescence.
 

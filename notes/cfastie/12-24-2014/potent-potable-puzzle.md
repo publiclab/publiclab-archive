@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/008/533/original/4IRbevWrat87_Named.jpg)
+
 # Potent Potable Puzzle
 
 by [cfastie](../profile/cfastie) December 24, 2014 18:42
 
 December 24, 2014 18:42 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [nir](../tag/nir), [holiday](../tag/holiday), [absorption](../tag/absorption), [infragram](../tag/infragram), [happy-holidays](../tag/happy-holidays), [response:11489](../tag/response:11489)
+
+----
 
 Unfortunately, there were no correct answers submitted to the [Holiday Whodunit](http://publiclab.org/notes/cfastie/12-21-2014/holiday-beverage-whodunit), so nobody won the new car.  
 .  

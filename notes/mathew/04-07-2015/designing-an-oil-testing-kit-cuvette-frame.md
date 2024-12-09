@@ -8,11 +8,15 @@ uid: 4
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/009/566/original/IMG_20150407_150745.jpg)
+
 # Designing an Oil Testing Kit Cuvette Frame
 
 by [mathew](../profile/mathew) April 07, 2015 22:53
 
 April 07, 2015 22:53 | Tags: [laser](../tag/laser), [fluorescence](../tag/fluorescence), [desktop-spectrometer](../tag/desktop-spectrometer), [oil-testing-kit](../tag/oil-testing-kit), [405nm](../tag/405nm), [otk](../tag/otk)
+
+----
 
 I’ve been working to design an [oil testing](/wiki/oil-testing-kit) add-on the the [spectrometer 3.0](/wiki/desktop-spectrometry-kit-3-0) incorporating the feedback from @stevie, @warren, @stoft, and others regarding the current oil testing kit and spectrometer.
 

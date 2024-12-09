@@ -8,11 +8,15 @@ uid: 890
 
 ---
 
+![](https://publiclab.org/sites/default/files/photo3.JPG)
+
 # Balloon Kite design and prototype
 
 by [valerie](../profile/valerie) April 21, 2012 22:39
 
 April 21, 2012 22:39 | Tags: [balloon-mapping](../tag/balloon-mapping), [diy-balloon](../tag/diy-balloon), [first-time-poster](../tag/first-time-poster)
+
+----
 
 My first EcoHack today and what fun!  Armed with my old-school architectural design skills, I scavenged some materials for two different prototypes and got to work.  
 

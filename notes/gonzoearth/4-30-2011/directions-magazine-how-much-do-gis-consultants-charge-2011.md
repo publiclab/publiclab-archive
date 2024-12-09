@@ -14,6 +14,8 @@ by [gonzoearth](../profile/gonzoearth) April 30, 2011 19:18
 
 April 30, 2011 19:18 | Tags: 
 
+----
+
 <div><span class="Apple-style-span" style="font-family: &#39;Helvetica Neue&#39;, Arial, Helvetica, sans-serif; font-size: 12px; color: rgb(34, 34, 34); line-height: 18px; "><h1 class="title" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0.5em; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; font-weight: normal; font-style: inherit; font-size: 1.8em; font-family: inherit; vertical-align: baseline; color: rgb(17, 17, 17); line-height: 1; ">
 How Much Do GIS Consultants Charge in 2011?</h1><div class="date" style="margin-top: -1em; margin-right: 0px; margin-bottom: 1em; margin-left: 0px; padding-top: 5px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; font-weight: inherit; font-style: inherit; font-size: 1.1em; font-family: inherit; vertical-align: baseline; color: rgb(102, 102, 102); ">
 Thursday, April 28th 2011</div></span></div><div><a href="http://www.directionsmag.com/articles/how-much-do-gis-consultants-charge-in-2011/176035">http://www.directionsmag.com/articles/how-much-do-gis-consultants-charge-in-2011/176035</a></div>

@@ -8,11 +8,15 @@ uid: 796025
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/047/109/original/eagles.jpg)
+
 # Huber seeks permits to remove bald eagle nests
 
 by [JuliaGuerrein](../profile/JuliaGuerrein) September 02, 2022 19:17
 
 September 02, 2022 19:17 | Tags: [minnesota](../tag/minnesota), [zoom:6](../tag/zoom:6), [law-and-policy](../tag/law-and-policy), [mn-land-manoomin-protection](../tag/mn-land-manoomin-protection), [eagle](../tag/eagle), [lat:46.729553](../tag/lat:46.729553), [lon:-94.685899](../tag/lon:-94.685899)
+
+----
 
 As part of the process to start building the "Frontier Project," Huber Engineered Woods LLC applied for both a Non-Game Wildlife Program Special Permit -- Eagle Nest with the State of Minnesota and an Eagle Nest Take Permit with U.S. Fish and Wildlife Service (USFWS). Under the federal U.S. Endangered Species Act (ESA), a ["take"](https://www.fisheries.noaa.gov/node/8051#:~:text=and%20Citizen%20Science-,What%20does%20take%20mean%20under%20the%20Endangered%20Species%20Act%20and,,%20but%20not%20unexpected,%20taking.) means to "harass, harm, pursue, hunt, wound, kill, trap, capture, or collect, or to attempt to engage in any such conduct." If issued permits, Huber would be allowed to "take" the eagle nests located within the project site.
 

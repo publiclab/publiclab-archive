@@ -8,11 +8,15 @@ uid: 532502
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/024/813/original/Screenshot_2018-05-02_at_10.22.14_AM.png)
+
 # MapKnitter map of Begraafplaats
 
 by [Jostev](../profile/Jostev) April 28, 2018 15:28
 
 April 28, 2018 15:28 | Tags: [mapknitter](../tag/mapknitter), [lat:50.90616791](../tag/lat:50.90616791), [lon:5.4267767072](../tag/lon:5.4267767072)
+
+----
 
 ---------
 

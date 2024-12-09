@@ -8,11 +8,15 @@ uid: 160
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/011/413/original/PublicLabFlyer_Spanish.jpg)
+
 # Spain
 
 by [xose](../profile/xose), [warren](../profile/warren), [pablo](../profile/pablo), [lot](../profile/lot), [liz](../profile/liz)
 
 March 17, 2014 09:16 | Tags: [spain](../tag/spain), [chapter](../tag/chapter), [list:laboratoriopublico](../tag/list:laboratoriopublico), [events:spain](../tag/events:spain), [lat:39.895](../tag/lat:39.895), [lon:-4.024](../tag/lon:-4.024), [lang:es](../tag/lang:es), [eu](../tag/eu), [europe](../tag/europe)
+
+----
 
 ###Qué es Public Lab
 Public Lab es una comunidad y una organización sin ánimo de lucro dedicada a la democratización de la ciencia y a abordar problemas medioambientales que afectan a las personas.
@@ -68,4 +72,4 @@ Entrevista con Jeff Warren en Español: http://www.euskadinnova.net/es/innovacio
 
 <a class="btn btn-primary" href="/post?tags=spain,espana&template=question">Comparte algo</a>
 
-[notes:spain]
+[spain](../../tag/spain)

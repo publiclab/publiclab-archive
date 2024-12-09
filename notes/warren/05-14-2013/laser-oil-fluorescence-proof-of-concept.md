@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/000/271/original/IMG_20130514_142239.jpg)
+
 # Laser oil fluorescence proof of concept
 
 by [warren](../profile/warren) May 14, 2013 20:03
 
 May 14, 2013 20:03 | Tags: [spectrometer](../tag/spectrometer), [partsandcrafts](../tag/partsandcrafts), [oil](../tag/oil), [laser](../tag/laser), [fluorescence](../tag/fluorescence), [parts-and-crafts](../tag/parts-and-crafts)
+
+----
 
 I just worked with some smart and excitable kids from [Parts & Crafts](http://partsandcrafts.org) and we managed to get a sample of suspected motor oil residue from a nearby street drain to fluoresce strongly enough to be detected (faintly) by a [desktop spectrometry kit](/wiki/dsk):
 

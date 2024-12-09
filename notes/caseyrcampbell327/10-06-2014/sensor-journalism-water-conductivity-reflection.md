@@ -14,6 +14,8 @@ by [caseyrcampbell327](../profile/caseyrcampbell327) October 06, 2014 14:34
 
 October 06, 2014 14:34 | Tags: [sensor-journalism](../tag/sensor-journalism)
 
+----
+
 Casey Campbell
 
 As the field of journalism moves further into the 21st century, the adaptability of producers, reporters, and editors must increase. We live in a world where everything is “Breaking News” and being paid depends on if your station is consistently “first”. With all the competition that exists, it is hard to distinguish a newsroom, never mind an individual reporter. 

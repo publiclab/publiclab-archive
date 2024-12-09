@@ -8,11 +8,15 @@ uid: 9
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/007/594/original/plots-logo-transparent.jpg)
+
 # Public Lab nonprofit job posting: Administrative Coordinator
 
 by [Shannon](../profile/Shannon) October 21, 2014 18:41
 
 October 21, 2014 18:41 | Tags: [nonprofit](../tag/nonprofit)
+
+----
 
 **Public Laboratory for Open Technology and Science: Administrative Coordinator**
 

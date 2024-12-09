@@ -8,11 +8,15 @@ uid: 422561
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/014/290/original/20141025_143049.jpg)
+
 # Action-Oriented Resources
 
 by [stevie](../profile/stevie), [gretchengehrke](../profile/gretchengehrke)
 
 January 07, 2016 19:58 | Tags: [frac-sand](../tag/frac-sand), [advocacy](../tag/advocacy), [parent:frac-sand](../tag/parent:frac-sand), [advocacy-pathways](../tag/advocacy-pathways)
+
+----
 
 There are many ways that people can collect data, report and strategize around the frac sand issue. This page will outline some options currently available. 
 

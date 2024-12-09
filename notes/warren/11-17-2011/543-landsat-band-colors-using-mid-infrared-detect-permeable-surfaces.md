@@ -8,10 +8,14 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/543-pink-is-impervious-surface.png)
+
 # "543" Landsat band colors - using mid-infrared to detect "permeable" surfaces
 
 by [warren](../profile/warren) November 17, 2011 18:58
 
 November 17, 2011 18:58 | Tags: 
+
+----
 
 Thanks to [Diane Styers](/people/diane) for this note. The 5, 4, and 3 bands of the Landsat satellite are a common combination for assessing the permeability of surfaces, for example in a city. This can help assess drainage, heat-island, and agricultural issues.

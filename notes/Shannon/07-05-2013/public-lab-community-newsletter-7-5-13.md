@@ -8,11 +8,15 @@ uid: 9
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/000/670/original/plots-logo-transparent.jpg)
+
 # Public Lab community newsletter 7.5.13
 
 by [Shannon](../profile/Shannon) July 05, 2013 23:24
 
 July 05, 2013 23:24 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
+
+----
 
 This week in the Public Lab community newsletter, meet our new board member, take a second to support the Kickstarter, get ready for a barn raising in the wetlands of Louisiana and read about infrared imaging work being done at urban gardens, farms and landfills. Enjoy!
 

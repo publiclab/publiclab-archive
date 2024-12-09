@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/035/840/original/2013.fic.2421-2.PG_2.jpg)
+
 # Geo Storytelling
 
 by [warren](../profile/warren)
 
 October 07, 2019 14:13 | Tags: [onecranston](../tag/onecranston), [geo-storytelling](../tag/geo-storytelling)
+
+----
 
 Welcome! Public Lab is developing a number of community mapping projects, and we would love your input. 
 
@@ -36,6 +40,6 @@ Read more about the project at [Unearthing Providence](/unearthing-pvd)
 
 This work comes out of an ongoing collaboration and has engaged the [OneCranston](/onecranton) project as a partner.
 
-[notes:grid:one-cranston]
+[grid:one-cranston](../../tag/grid:one-cranston)
 
 <center><a href="/tag/one-cranston">More updates</a></center>

@@ -14,6 +14,8 @@ by [Becki](../profile/Becki), [Shannon](../profile/Shannon)
 
 December 17, 2012 04:39 | Tags: [spectrometer](../tag/spectrometer), [fold-up-mini-spectrometer](../tag/fold-up-mini-spectrometer)
 
+----
+
 We asked our Kickstarter backers what they planned to do with their spectrometer and here are the ideas that we're given. 
 
 If you want to see specifically what backers at the same level as you are thinking about doing, you can check out the individual lists:

@@ -3,6 +3,8 @@ uid: 704145
 created_at: 2020-06-23 18:12:41 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/abad8e26b61fc9d6e28c0ec543566291)
+
 # A_SCH
 
 

@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/002/197/original/General_Award_Invite.jpg)
+
 # Invite: Buckminster Fuller Challenge Award Ceremony
 
 by [liz](../profile/liz) November 11, 2013 18:29
 
 November 11, 2013 18:29 | Tags: [new-york-city](../tag/new-york-city), [events](../tag/events), [events:new-york-city](../tag/events:new-york-city)
+
+----
 
 **Inviting everyone to join us for a festive evening in New York City at the Buckminster Fuller Challenge Awards Ceremony.** Several Public Lab folks will be there, and we'd love to see you!
 

@@ -14,6 +14,8 @@ by [nshapiro](../profile/nshapiro) November 22, 2017 19:00
 
 November 22, 2017 19:00 | Tags: [air-quality](../tag/air-quality), [app](../tag/app), [resource](../tag/resource), [question:general](../tag/question:general), [ui](../tag/ui), [question:ui](../tag/question:ui)
 
+----
+
 Collaborators and I have been working on an app that can be used to read inexpensive badges to understand chemical levels in your air. The team has been working hard on creating a robust algorithm that works in many lighting conditions and with many types of phones. Here is the code for both the android and ISO https://github.com/publiclab/SmART-Form/
 
   

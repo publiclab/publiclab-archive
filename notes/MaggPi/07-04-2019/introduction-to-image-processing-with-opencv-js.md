@@ -8,11 +8,15 @@ uid: 501996
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/033/508/original/opencv_ex.PNG)
+
 # Introduction to Image Processing with OpenCV.js
 
 by [MaggPi](../profile/MaggPi) July 04, 2019 09:04
 
 July 04, 2019 09:04 | Tags: [opencv](../tag/opencv), [gsoc-2019](../tag/gsoc-2019), [opencv.js](../tag/opencv.js), [visual-studio-code](../tag/visual-studio-code)
+
+----
 
 Abstract: The note provides a tutorial for the javascript (js) version of  openCV.js  image processing  software.   The tutorial is designed for beginner programmers and provides an [introduction to software design techniques](https://youtu.be/4nryLZMCKgo)  as well as how to establish an  openCV.js operating environment.      
 

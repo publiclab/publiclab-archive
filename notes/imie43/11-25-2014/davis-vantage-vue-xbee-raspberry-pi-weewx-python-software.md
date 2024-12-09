@@ -14,6 +14,8 @@ by [imie43](../profile/imie43) November 25, 2014 11:26
 
 November 25, 2014 11:26 | Tags: 
 
+----
+
 My environment:
 
 * Davis Vantage Vue weather station with Xbee series 1 serial wireless connection (Point to Point).      (see blog Brad Boegler) I used his board design.

@@ -8,11 +8,15 @@ uid: 420776
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/024/781/original/output25.bmp)
+
 # Lensless holograpic microscope
 
 by [amirberAgain](../profile/amirberAgain) April 30, 2018 07:25
 
 April 30, 2018 07:25 | Tags: [holographic](../tag/holographic), [microscope](../tag/microscope), [microscopy](../tag/microscopy), [microscopes](../tag/microscopes), [lensless](../tag/lensless), [geekcon](../tag/geekcon)
+
+----
 
 I will post a more detailed description here over the coming days.
 

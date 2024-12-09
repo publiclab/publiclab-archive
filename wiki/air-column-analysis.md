@@ -14,6 +14,8 @@ by [liz](../profile/liz), [warren](../profile/warren)
 
 February 03, 2012 16:31 | Tags: [air-column-monitor](../tag/air-column-monitor), [air-column](../tag/air-column), [vibrations](../tag/vibrations), [string](../tag/string), [windspeed](../tag/windspeed)
 
+----
+
 ###Hardware###
 
 * Acoustic pickup for reading string vibration via audio input: https://www.google.com/search?aq=f&ix=iea&sourceid=chrome&ie=UTF-8&q=acoustic+pickup

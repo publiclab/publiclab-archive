@@ -8,11 +8,15 @@ uid: 4
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/004/678/original/Screen_Shot_2014-06-11_at_7.13.27_PM.png)
+
 # DIY dust monitoring: Dylos in Wisconsin 
 
 by [mathew](../profile/mathew) June 12, 2014 02:13
 
 June 12, 2014 02:13 | Tags: [wisconsin](../tag/wisconsin), [air-quality](../tag/air-quality), [dust](../tag/dust), [silica](../tag/silica), [midwest](../tag/midwest), [particle-sensing](../tag/particle-sensing), [particulate-monitoring](../tag/particulate-monitoring), [openair](../tag/openair), [air-sensors](../tag/air-sensors)
+
+----
 
 Hank Boschen and [Concerned Chippewa Citizen](http://wisair.wordpress.com/) have been deploying  ~$200 [Dylos 1100](http://www.dylosproducts.com/ornodcairqum.html) laser particulate monitors [around NW Wisconsin.](http://wisair.wordpress.com/web-ready-monitor/)
 

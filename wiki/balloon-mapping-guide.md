@@ -14,6 +14,8 @@ by [abdul](../profile/abdul), [warren](../profile/warren)
 
 June 06, 2014 20:41 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [guides](../tag/guides), [balloon-mapping-kit](../tag/balloon-mapping-kit), [guide](../tag/guide)
 
+----
+
 ###An Illustrated Guide to Grassroots Mapping with Balloons and Kites
 
 _Do you want to make maps? Do you need satellite images but can't afford them? Do you want to see your home from above? Follow these instructions and you can, for as little as $100!_

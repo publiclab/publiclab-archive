@@ -8,11 +8,15 @@ uid: 43651
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/011/314/original/daughter-dip-front.png)
+
 # Riffle: sensor board approach
 
 by [donblair](../profile/donblair) August 28, 2015 15:08
 
 August 28, 2015 15:08 | Tags: [riffle](../tag/riffle), [open-water](../tag/open-water)
+
+----
 
 One idea that came up in Colombia (and, really, in various forms earlier, at LEAFFEST and elsewhere -- gosh, it's so hard to credit all of the folks who've contributed all of these cool ideas! Need to make a looooong list ASAP) was that of making through-hole versions of the conductivity + temperature 'daughter boards' we're hoping to use with the Riffle datalogger. 
 

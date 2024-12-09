@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/000/451/original/logo.jpg)
+
 # June 1 Sensor Journalism Conference at Columbia University
 
 by [liz](../profile/liz) June 01, 2013 14:02
 
 June 01, 2013 14:02 | Tags: [new-york-city](../tag/new-york-city), [event](../tag/event)
+
+----
 
 ##Event details
 

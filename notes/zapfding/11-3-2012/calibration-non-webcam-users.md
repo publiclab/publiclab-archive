@@ -14,4 +14,6 @@ by [zapfding](../profile/zapfding) November 04, 2012 03:02
 
 November 04, 2012 03:02 | Tags: [troubleshooting](../tag/troubleshooting), [spectralworkbench](../tag/spectralworkbench), [help](../tag/help)
 
+----
+
 I am working with a handheld diffraction grating spetroscope attached to a digital camera. Unfortunately Spectral Workbench seems to support only webcam based calibration at this time? Could you add an option to work also with non-video cameras based on uploaded still images, especially for calibration? 

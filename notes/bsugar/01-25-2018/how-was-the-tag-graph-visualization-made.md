@@ -14,6 +14,8 @@ by [bsugar](../profile/bsugar) January 25, 2018 19:49
 
 January 25, 2018 19:49 | Tags: [community-metrics](../tag/community-metrics), [visualization](../tag/visualization), [evaluation](../tag/evaluation), [tags](../tag/tags), [networks](../tag/networks), [ui](../tag/ui), [question:ui](../tag/question:ui), [question:evaluation](../tag/question:evaluation), [graphing](../tag/graphing), [question:visualization](../tag/question:visualization)
 
+----
+
 Recently I have been asked a few questions about how the [tag graph](https://publiclab.org/notes/liz/09-15-2016/first-draft-of-tag-graph) was implemented. So I figured it might be good to have a public space to answer them!
 
 Some preliminary questions:

@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/017/304/original/Screenshot_2016-08-02_at_11.25.39_AM.png)
+
 # Last week in Google Summer of Code
 
 by [warren](../profile/warren) August 02, 2016 15:26
 
 August 02, 2016 15:26 | Tags: [website](../tag/website), [software](../tag/software), [gsoc](../tag/gsoc), [developers](../tag/developers), [coding](../tag/coding), [wwg](../tag/wwg), [gsoc-2016](../tag/gsoc-2016), [webjack](../tag/webjack), [618](../tag/618), [600](../tag/600), [628](../tag/628), [response:13311](../tag/response:13311)
+
+----
 
 Getting into the final stretch of Google Summer of Code (#gsoc) -- less than a month remains for students to finish up their projects. We had a great Google Hangouts meetup last week and it was a pleasure to meet people and talk a bit!
 

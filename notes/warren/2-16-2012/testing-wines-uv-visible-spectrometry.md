@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/Picture 7.png)
+
 # Testing wines with UV-visible spectrometry
 
 by [warren](../profile/warren) February 16, 2012 17:54
 
 February 16, 2012 17:54 | Tags: 
+
+----
 
 A couple of good papers on this are attached.
 

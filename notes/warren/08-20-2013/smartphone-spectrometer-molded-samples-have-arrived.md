@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/001/228/original/IMG_0239.JPG)
+
 # Smartphone spectrometer molded samples have arrived!
 
 by [warren](../profile/warren) August 20, 2013 17:03
 
 August 20, 2013 17:03 | Tags: [spectrometer](../tag/spectrometer), [iphone](../tag/iphone), [kickstarter](../tag/kickstarter), [molding](../tag/molding), [smartphone-spectrometer](../tag/smartphone-spectrometer), [prototype](../tag/prototype)
+
+----
 
 We are now making final plastics decisions and setting up the final run of 1000! Just wanted to share these images as the samples arrived moments ago and they look great.
 

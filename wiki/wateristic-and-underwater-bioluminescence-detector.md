@@ -8,11 +8,15 @@ uid: 622967
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/035/451/original/bioluniescence.jpg)
+
 # Wateristic: an underwater bioluminescence detector
 
 by [stevie](../profile/stevie), [omarion](../profile/omarion)
 
 September 26, 2019 17:10 | Tags: [arduino](../tag/arduino), [water](../tag/water), [underwater](../tag/underwater), [project](../tag/project), [underwater-image](../tag/underwater-image), [water-sensor](../tag/water-sensor), [wateristic](../tag/wateristic)
+
+----
 
 Lead image "La Jolla and the Blue Waves" by [Kevin Baird](https://www.flickr.com/photos/35928519@N00) is licensed under CC BY-NC-ND 2.0 
 
@@ -46,17 +50,17 @@ Interested in following along in the project? Subscribe to the tag below to get 
  
 <a class="btn btn-large btn-primary" href="https://publiclab.org/subscribe/tag/wateristic">Subscribe to updates on this project </a>
 
-[notes:wateristic!question:wateristic] 
+[wateristic!question:wateristic](../../tag/wateristic!question:wateristic) 
 
 ### Questions
 
-[questions:wateristic]
+[wateristic](../../tag/question:wateristic)
 
 ****
 
 ### Activities we’ve done in our project
 
-[activities:wateristic]
+[wateristic](../../tag/activity:wateristic)
 
 ### Data
 

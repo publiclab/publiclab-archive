@@ -8,11 +8,15 @@ uid: 461120
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/015/822/original/pic1.png)
+
 # Converting CSV files on Windows 7 on up with commas instead of decimals
 
 by [dhaffnersr](../profile/dhaffnersr) April 27, 2016 15:35
 
 April 27, 2016 15:35 | Tags: 
+
+----
 
 upon trying to use the new csv (beta) version here at Plab, I couldn't figure out why I couldn't get my csv files to upload...well, it was because they were in decimal format!
 

@@ -8,11 +8,15 @@ uid: 603909
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/039/311/original/boots_big.png)
+
 # Job Posting: Executive Director, Public Lab
 
 by [thewrightjess](../profile/thewrightjess) May 07, 2020 15:46
 
 May 07, 2020 15:46 | Tags: [nonprofit](../tag/nonprofit), [jobs](../tag/jobs), [director](../tag/director), [executive](../tag/executive)
+
+----
 
 #### Executive Director, Public Lab
 Public Lab is seeking a team leader with top emotional intelligence, fundraising and communication skills, with a history of managing team operations and financial budgeting. Public Lab’s new Executive Director must be committed to environmental justice and equity, and have experience leading grassroots organizations. 

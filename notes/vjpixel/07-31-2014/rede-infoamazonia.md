@@ -8,11 +8,15 @@ uid: 420617
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/011/219/original/Prototipo_foto_Miguel_Peixe.jpg)
+
 # Rede InfoAmazonia
 
 by [vjpixel](../profile/vjpixel) July 31, 2014 18:02
 
 July 31, 2014 18:02 | Tags: [water-quality-monitoring](../tag/water-quality-monitoring), [water-quality](../tag/water-quality), [brasil](../tag/brasil), [water-qualit-sensor](../tag/water-qualit-sensor), [amazon](../tag/amazon), [amazonia](../tag/amazonia), [redeinfoamazonia](../tag/redeinfoamazonia), [first-time-poster](../tag/first-time-poster)
+
+----
 
 ###About
 

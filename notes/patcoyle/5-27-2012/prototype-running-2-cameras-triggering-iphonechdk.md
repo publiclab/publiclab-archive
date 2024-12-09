@@ -8,11 +8,15 @@ uid: 77
 
 ---
 
+![](https://publiclab.org/sites/default/files/7271146692_c58354c49e_c.jpg)
+
 # Flew iPhone/CHDK robust prototype, 2 cameras triggering
 
 by [patcoyle](../profile/patcoyle) May 27, 2012 04:44
 
 May 27, 2012 04:44 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [triggering](../tag/triggering), [chdk](../tag/chdk), [balloon-telemetry-kit](../tag/balloon-telemetry-kit)
+
+----
 
 <strong>Update:</strong> 
 Flew iPhone CDHK remote trigger robust prototype with Delta Leviathan and a Canon A490 (IR), A495 and iPhone 4s in the <a href="http://publiclaboratory.org/notes/patcoyle/3-31-2012/3-camera-housing-photos-and-test-kap-session">3-camera rig</a>. 

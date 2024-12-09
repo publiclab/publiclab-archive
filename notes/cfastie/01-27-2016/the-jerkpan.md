@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/013/889/original/JP_LS_41o41_2kHorz.jpg)
+
 # The JerkPan
 
 by [cfastie](../profile/cfastie) January 27, 2016 05:23
 
 January 27, 2016 05:23 | Tags: [kite-aerial-photography](../tag/kite-aerial-photography), [camera-rig-tests](../tag/camera-rig-tests), [aerial-photography](../tag/aerial-photography), [photo-rig](../tag/photo-rig), [kaptery](../tag/kaptery), [response:12601](../tag/response:12601), [aerobee](../tag/aerobee), [jerkpan](../tag/jerkpan), [activity:photo-rig](../tag/activity:photo-rig), [category:design](../tag/category:design)
+
+----
 
 *Above: A 360° panorama stitched from 40 photos taken by a KAP rig with no motors or electronics.*
 

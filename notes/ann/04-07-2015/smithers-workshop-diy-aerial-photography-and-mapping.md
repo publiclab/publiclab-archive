@@ -8,11 +8,15 @@ uid: 421543
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/009/558/original/Workshop_Flyer.png)
+
 # Smithers Workshop: DIY Aerial Photography and Mapping
 
 by [ann](../profile/ann) April 07, 2015 01:52
 
 April 07, 2015 01:52 | Tags: [event](../tag/event), [event:rsvp](../tag/event:rsvp), [events:northwest](../tag/events:northwest), [date:04-19-2015](../tag/date:04-19-2015), [replication:14022](../tag/replication:14022)
+
+----
 
 Aerial images, taken where you need them, when you need them, are powerful tools! Imagine being able to gather your own aerial images and build your own maps. With Public Lab's DIY aerial mapping tools you can! 
 

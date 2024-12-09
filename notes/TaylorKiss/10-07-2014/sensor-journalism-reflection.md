@@ -14,6 +14,8 @@ by [TaylorKiss](../profile/TaylorKiss) October 07, 2014 17:10
 
 October 07, 2014 17:10 | Tags: [sensor-journalism](../tag/sensor-journalism)
 
+----
+
 
 	In the ever changing world of journalism, trends come and go. As journalists, we are seeing an increasing trend of moving away from the more antiquated journalism methods, in conjunction with a huge push away from print and toward more multi-media, and computer based methods. This is also a time where we see the addition of new and exciting methods of journalism that have never been seen before, and at the forefront is Sensor Journalism, which allows a story to be told through data.
 	Sensor journalism has come onto the scene with the hopes of linking journalism to an almost infinite amount of data from the real world. From measuring air quality, to traffic speed, to the salinity of water,  sensor journalism will allow journalists access to massive amounts of data and information that wasn't previously incorporated or even attainable by those in the industry. Sensor journalism also aims to add a level of credibility and transparency to many news stories by offering a much deeper level of near concrete facts and information than ever previously possible.  

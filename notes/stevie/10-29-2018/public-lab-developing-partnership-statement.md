@@ -8,11 +8,15 @@ uid: 422561
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/027/360/original/startup-594090_960_720.jpg)
+
 # Public Lab Developing Partnership Statement
 
 by [stevie](../profile/stevie) October 29, 2018 20:49
 
 October 29, 2018 20:49 | Tags: [community](../tag/community), [nonprofit](../tag/nonprofit), [partnerships](../tag/partnerships), [blog](../tag/blog)
+
+----
 
 ##How this came about
 

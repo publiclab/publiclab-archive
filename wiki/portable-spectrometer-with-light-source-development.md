@@ -14,6 +14,8 @@ by [silverhammer](../profile/silverhammer)
 
 April 07, 2014 16:00 | Tags: 
 
+----
+
 Page used to track and document work on portable spectrometer with light source development.  Reference research note        http://publiclab.org/notes/silverhammer/03-20-2014/test-rig-for-portable-spectrometer 
 as the starting point for this work.
 

@@ -14,6 +14,8 @@ by [warren](../profile/warren)
 
 July 19, 2011 21:54 | Tags: [partnerships](../tag/partnerships)
 
+----
+
 ###Collaborations###
 
 Rio - Liz can go, Kate Balug is from Harvard design school she has mapped in Rio before and has local connections. (323) 839-5353. 

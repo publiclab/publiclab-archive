@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/013/608/original/OTK_Diesel_Round2.png)
+
 # Oil Test Kit Round 2
 
 by [liz](../profile/liz) January 11, 2016 01:28
 
 January 11, 2016 01:28 | Tags: [oil-testing-kit](../tag/oil-testing-kit)
+
+----
 
 I wanted to run through the Oil Test Kit again and see if i could improve my results. So, I started from scratch built a new cuvette holder (this one included the light-blocking flap, cool!) and a new spectrometer.
 

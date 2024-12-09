@@ -8,11 +8,15 @@ uid: 4
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/009/417/original/20140909_110952.jpg)
+
 # a history of crediting contributions
 
 by [mathew](../profile/mathew) March 26, 2015 00:04
 
 March 26, 2015 00:04 | Tags: [balloon-mapping](../tag/balloon-mapping), [spectrometer](../tag/spectrometer), [community](../tag/community), [gmf](../tag/gmf), [mapping](../tag/mapping), [design](../tag/design), [forum](../tag/forum), [history](../tag/history), [attribution](../tag/attribution), [barnstar:basic](../tag/barnstar:basic), [grassroots](../tag/grassroots), [contributing](../tag/contributing), [theory](../tag/theory), [contributions](../tag/contributions)
+
+----
 
 photo credit @Stevie, [Washington University students build camera rigs.](/notes/stevie/09-12-2014/washington-university-visits-the-gulf-coast-and-maps)
 

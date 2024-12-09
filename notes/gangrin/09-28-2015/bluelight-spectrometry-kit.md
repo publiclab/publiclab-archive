@@ -8,11 +8,15 @@ uid: 452627
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/011/690/original/bluelight.jpg)
+
 # Bluelight Spectrometry Kit 
 
 by [gangrin](../profile/gangrin) September 28, 2015 07:24
 
 September 28, 2015 07:24 | Tags: [spectrometry](../tag/spectrometry), [korea](../tag/korea)
+
+----
 
 [![bluelight.jpg](https://i.publiclab.org/system/images/photos/000/011/692/medium/bluelight.jpg)](https://i.publiclab.org/system/images/photos/000/011/692/original/bluelight.jpg)
 

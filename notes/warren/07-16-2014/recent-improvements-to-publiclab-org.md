@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/005/359/original/Screen_Shot_2014-07-16_at_10.57.28_AM.png)
+
 # Recent improvements to PublicLab.org
 
 by [warren](../profile/warren) July 16, 2014 15:03
 
 July 16, 2014 15:03 | Tags: [website](../tag/website), [plots2](../tag/plots2), [developers](../tag/developers), [code](../tag/code), [upgrades](../tag/upgrades), [features](../tag/features)
+
+----
 
 ###Overview
 

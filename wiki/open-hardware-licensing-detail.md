@@ -14,6 +14,8 @@ by [warren](../profile/warren)
 
 March 14, 2012 02:05 | Tags: [licensing](../tag/licensing), [open-hardware](../tag/open-hardware), [open-source-communities](../tag/open-source-communities)
 
+----
+
 This page goes into even more nitty-gritty detail about open source hardware.
 
 ###"Non-commercial" and "Open source"###

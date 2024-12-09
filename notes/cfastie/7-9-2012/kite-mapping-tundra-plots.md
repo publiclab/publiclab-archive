@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/sites/default/files/Monabov_120627_1527.jpg)
+
 # Kite mapping tundra plots
 
 by [cfastie](../profile/cfastie) July 09, 2012 20:23
 
 July 09, 2012 20:23 | Tags: [kite-mapping](../tag/kite-mapping), [image-stitching](../tag/image-stitching), [annotated-maps](../tag/annotated-maps), [alaska](../tag/alaska), [tundra](../tag/tundra), [photoshop](../tag/photoshop), [akrange](../tag/akrange), [gigapan](../tag/gigapan)
+
+----
 
 Click to enlarge the photos above.  
 

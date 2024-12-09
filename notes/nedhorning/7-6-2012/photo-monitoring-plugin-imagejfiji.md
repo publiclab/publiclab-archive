@@ -8,11 +8,15 @@ uid: 133
 
 ---
 
+![](https://publiclab.org/sites/default/files/firstScreen.png)
+
 # Photo monitoring plugin for ImageJ/Fiji
 
 by [nedhorning](../profile/nedhorning) July 06, 2012 21:31
 
 July 06, 2012 21:31 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [plugin](../tag/plugin), [photo-monitoring](../tag/photo-monitoring), [infragram](../tag/infragram), [timelapse](../tag/timelapse)
+
+----
 
 This is an update on the photo monitoring software I've been working on. A few weeks ago I wrote a Fiji [1] macro that can be used to register a visible and near infrared image that were acquired at roughly the same time. That macro lives on GitHub [2] and comes with a guide on how to use it.
 

@@ -8,11 +8,15 @@ uid: 8
 
 ---
 
+![](https://publiclab.org/sites/default/files/1471-2180-4-25-2-l.jpeg)
+
 # Expression of Violacein in Yeast?
 
 by [sara](../profile/sara) March 15, 2012 19:17
 
 March 15, 2012 19:17 | Tags: [environmental-estrogen-testing](../tag/environmental-estrogen-testing), [yeast](../tag/yeast), [biohacking](../tag/biohacking), [violacein](../tag/violacein), [igem](../tag/igem)
+
+----
 
 Image from figure 2 of Martinelli et al. BMC Microbiology 2004 4:25   doi:10.1186/1471-2180-4-25
 

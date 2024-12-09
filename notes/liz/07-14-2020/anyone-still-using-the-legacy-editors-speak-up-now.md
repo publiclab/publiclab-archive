@@ -14,6 +14,8 @@ by [liz](../profile/liz) July 14, 2020 20:30
 
 July 14, 2020 20:30 | Tags: [website](../tag/website)
 
+----
+
 Hi everyone, 
 
 With all the great attention going into the Editor project on PublicLab.org, we are anticipating that we may be able to turn off links to our "legacy editors" by the end of the summer --- but first we wanted to check in to see if anyone on here was still using them. Here's how to check...the links to "legacy editors" appear in two places: 

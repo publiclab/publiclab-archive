@@ -8,11 +8,15 @@ uid: 304279
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/009/920/original/chartsFiles1-1.png)
+
 # Datalogging, Part 3: GUI software for handling files
 
 by [JSummers](../profile/JSummers) May 19, 2015 18:40
 
 May 19, 2015 18:40 | Tags: [datalogger](../tag/datalogger), [interface](../tag/interface), [graphic](../tag/graphic), [user](../tag/user), [graphic-user-interface](../tag/graphic-user-interface), [data-logging](../tag/data-logging)
+
+----
 
 ##What I want to do:
 This note documents some code that I wrote to improve the feel of working with the graphic user interfaces (GUIs) written for our instruments.  In our earlier GUIs, we have had the option of overlaying data on the charts, but unless each data set was individually saved, the files could not be accessed after the fact.  Further, all the data were represented in the same color and it was not possible to tell which data set went with which experiment.

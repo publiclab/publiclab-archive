@@ -8,11 +8,15 @@ uid: 429458
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/019/089/original/evidence.jpg)
+
 # Citizen Science Investigations: aka ‘Common Legal Issues when using Community Sourced Data’
 
 by [lenagd](../profile/lenagd) December 20, 2016 17:10
 
 December 20, 2016 17:10 | Tags: [evidence](../tag/evidence), [blog](../tag/blog), [legal](../tag/legal), [evidence-project](../tag/evidence-project), [series:evidence-project](../tag/series:evidence-project), [first-time-poster](../tag/first-time-poster), [law-and-policy](../tag/law-and-policy)
+
+----
 
 _Image obtained at: [http://www.thebluediamondgallery.com/wooden-tile/images/evidence.jpg][1]_
 

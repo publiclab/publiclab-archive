@@ -14,6 +14,8 @@ by [jsbonillam](../profile/jsbonillam) April 23, 2018 19:07
 
 April 23, 2018 19:07 | Tags: [spectralworkbench](../tag/spectralworkbench), [spectral-analysis](../tag/spectral-analysis), [question:general](../tag/question:general)
 
+----
+
 _Edit: I solved it. Sorry for any inconveniences._
 
 I would like to learn how Spectral Workbench measures light intensity for each wavelength.

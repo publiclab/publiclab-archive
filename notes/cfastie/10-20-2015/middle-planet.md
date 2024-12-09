@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/012/059/original/LP814b2k.jpg)
+
 # Middle Planet
 
 by [cfastie](../profile/cfastie) October 20, 2015 22:13
 
 October 20, 2015 22:13 | Tags: [kite-mapping](../tag/kite-mapping), [middlebury](../tag/middlebury), [vermont](../tag/vermont), [kite](../tag/kite), [middlebury-college](../tag/middlebury-college), [saturnv](../tag/saturnv), [skyshield](../tag/skyshield), [half-spherical](../tag/half-spherical), [littleplanet](../tag/littleplanet), [response:12315](../tag/response:12315)
+
+----
 
 *Above: Stereographic projection of a spherical KAP panorama from a few hundred feet above the center of the Middlebury College campus. Stitched from 24 photos.*
 

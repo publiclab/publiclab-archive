@@ -8,11 +8,15 @@ uid: 197186
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/007/511/original/IMG_1354.JPG)
+
 # Attaching a camera to a wooden picavet using elastics looped onto nails
 
 by [TedF](../profile/TedF) October 20, 2014 11:26
 
 October 20, 2014 11:26 | Tags: [kite-mapping](../tag/kite-mapping), [picavet](../tag/picavet), [camera-rig](../tag/camera-rig), [kitemapping](../tag/kitemapping)
+
+----
 
 ### Create a robust holding structure for a camera/picavet
 

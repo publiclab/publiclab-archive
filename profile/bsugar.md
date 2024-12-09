@@ -3,6 +3,8 @@ uid: 217812
 created_at: 2013-08-28 17:42:58 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/82e4b023cfdc210582066ad5b508c427)
+
 # bsugar
 
 Bio forthcoming.  Short story.  I exist.  Things have occurred during my existence.

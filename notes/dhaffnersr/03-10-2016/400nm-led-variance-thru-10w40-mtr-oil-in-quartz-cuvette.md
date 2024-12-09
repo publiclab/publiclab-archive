@@ -8,11 +8,15 @@ uid: 461120
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/014/738/original/led_variance_test_mar10.png)
+
 # 400nm LED variance thru 10w40 mtr oil in Quartz cuvette
 
 by [dhaffnersr](../profile/dhaffnersr) March 10, 2016 17:38
 
 March 10, 2016 17:38 | Tags: [response:12818](../tag/response:12818)
+
+----
 
 Here are the results of my testing today at the request of Jeff, I took the same LEDs that I tested on March 8th and ran the same procedure but this time with a sample (10w40 motor oil, only because I don't have any access to crude) thru a Quartz cuvette.
 

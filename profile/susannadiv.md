@@ -3,6 +3,8 @@ uid: 670493
 created_at: 2020-03-02 13:03:15 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/39d03641f781282b4643741a9adddac5)
+
 # susannadiv
 
 GSoC aspirant, Bsc Computer Science student from Italy with a 4.0 GPA and a goal: apply knowledge gained both from coursework and personal projects to help build open-source tools for exploration!

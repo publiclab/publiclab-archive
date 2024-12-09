@@ -14,6 +14,8 @@ by [donblair](../profile/donblair), [kanarinka](../profile/kanarinka)
 
 April 16, 2014 10:14 | Tags: [water-quality](../tag/water-quality), [riffle](../tag/riffle), [parent:water-quality](../tag/parent:water-quality)
 
+----
+
 Water quality is a pressing, global issue that is implicated in nearly every human system on our planet. The Open Water project aims to develop and curate a set of low-cost, open source tools that will enable communities everywhere to collect, interpret, and share their water quality data. This is a FAQ about Public Lab's Open Water Project.
 
 ###How can I get involved?

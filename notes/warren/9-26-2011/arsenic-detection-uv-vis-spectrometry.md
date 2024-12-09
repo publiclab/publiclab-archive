@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/malachite-green-arsenic-spectra.png)
+
 # Arsenic detection with UV-Vis spectrometry
 
 by [warren](../profile/warren) September 26, 2011 19:26
 
 September 26, 2011 19:26 | Tags: [spectrometer](../tag/spectrometer), [soil](../tag/soil), [arsenic](../tag/arsenic), [umass-amherst](../tag/umass-amherst), [soil-testing](../tag/soil-testing), [soil-contamination](../tag/soil-contamination), [soil-contamination-testing](../tag/soil-contamination-testing)
+
+----
 
 I was reading up on how to detect arsenic in soil, since the UMASS soil tests offered at such great low cost don't cover arsenic, yet that's one of the contaminants of concern here in Somerville, Massachusetts. I found this great thesis on using UV-Vis spectrometry (the kind we're trying to develop at PLOTS) with a kind of arsenic-binding dye (if I'm reading this right). Pretty dense, but offers some good leads for eventual lower-cost testing. Also a good quote here:
 

@@ -8,11 +8,15 @@ uid: 294634
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/011/009/original/BallGlider.jpg)
+
 # Buoyancy-Driven Underwater Glider
 
 by [ajawitz](../profile/ajawitz) July 11, 2015 17:51
 
 July 11, 2015 17:51 | Tags: [open-water](../tag/open-water), [robotics](../tag/robotics), [oceanography](../tag/oceanography)
+
+----
 
 ###What I want to do
   I want to develop an underwater autonomous vehicle based on a design the US Navy developed for a school program called the "Seaglide". 

@@ -14,6 +14,8 @@ by [liz](../profile/liz), [bsugar](../profile/bsugar), [eustatic](../profile/eus
 
 October 29, 2012 19:24 | Tags: [community](../tag/community), [barnraising](../tag/barnraising), [barnstars](../tag/barnstars), [ceiling-lights](../tag/ceiling-lights)
 
+----
+
 Barnstars were introduced to express appreciation for the many unique contributions made by individuals throughout the Public Laboratory community. They are a kind of "warm fuzzy" and can be used to convey sentiments ranging from profound respect to humor. **Any existing barnstars -- or new ones that you customize -- can be spontaneously awarded to anyone by anyone.** You award a barnstar by listing their name on this page next to the appropriate barnstar, the date you awarded it, and adding +1 to the tally. Some barnstars can now be awarded to individuals on research notes--look for the drop down triangle next to the star button. Notice of new barnstars will be publicized weekly in the newsletter. 
 
 Sections in this wiki page: 

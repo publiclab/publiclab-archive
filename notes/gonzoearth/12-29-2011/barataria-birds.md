@@ -8,11 +8,15 @@ uid: 12
 
 ---
 
+![](https://publiclab.org/sites/default/files/2011-2-25-louisiana-barataria-bay-wilkinson-bay-birds-oblique.jpg)
+
 # Barataria Birds
 
 by [gonzoearth](../profile/gonzoearth) December 30, 2011 00:21
 
 December 30, 2011 00:21 | Tags: [barataria](../tag/barataria), [birds](../tag/birds), [aerialwildlife](../tag/aerialwildlife), [wildlife](../tag/wildlife)
+
+----
 
 lat: 29.447981° long: -89.943661°
 date: 2011-2-25

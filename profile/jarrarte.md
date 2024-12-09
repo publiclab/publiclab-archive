@@ -3,6 +3,8 @@ uid: 425714
 created_at: 2014-07-14 20:54:03 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/8a271adecbdbe7c8cebdad024070d9d1)
+
 # jarrarte
 
 José from Uruguay

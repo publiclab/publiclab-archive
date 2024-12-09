@@ -3,6 +3,8 @@ uid: 790533
 created_at: 2022-03-03 17:24:00 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/649da1406450f537017be5acdd41144f)
+
 # okellomanpeter
 
 A well-motivated Christian young person with over 6 years working experience in community, environmental health and  in humanitarian field. I completed bachelor degree in economics, post graduate diploma in project planning and management, currently finalizing my master degree in Business Administration.

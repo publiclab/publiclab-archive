@@ -8,11 +8,15 @@ uid: 513114
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/027/591/original/Sphere_motor_-_low_input_power.jpg)
+
 # Low consumption motor & DC generator.
 
 by [sciencetoolbar](../profile/sciencetoolbar) November 10, 2018 18:02
 
 November 10, 2018 18:02 | Tags: [electric-generator](../tag/electric-generator), [motor-generator](../tag/motor-generator), [electric-motor](../tag/electric-motor), [sphere-motor](../tag/sphere-motor), [sphere-electric-motor](../tag/sphere-electric-motor), [simple-electric-motor](../tag/simple-electric-motor), [simple-motor](../tag/simple-motor), [dc-motor](../tag/dc-motor), [dc-generator](../tag/dc-generator), [dc-electric-generator](../tag/dc-electric-generator), [low-power-input-motor](../tag/low-power-input-motor), [low-voltage-motor](../tag/low-voltage-motor), [low-voltage-electric-motor](../tag/low-voltage-electric-motor), [solar-motor](../tag/solar-motor), [low-power-consumption-motor](../tag/low-power-consumption-motor), [low-power-consumption-electric-motor](../tag/low-power-consumption-electric-motor), [low-consumption-motor](../tag/low-consumption-motor), [low-consumption-electric-motor](../tag/low-consumption-electric-motor)
+
+----
 
 **_Low consumption motor_**
 

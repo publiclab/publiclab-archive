@@ -8,11 +8,15 @@ uid: 664477
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/044/688/original/stormdrain_copy.jpg)
+
 # How to report pollution entering your local stormwater system in the US
 
 by [bhamster](../profile/bhamster) August 20, 2021 15:55
 
 August 20, 2021 15:55 | Tags: [reporting](../tag/reporting), [epa](../tag/epa), [water-quality](../tag/water-quality), [stormwater](../tag/stormwater), [wastewater](../tag/wastewater), [activity:stormwater](../tag/activity:stormwater), [activity:reporting](../tag/activity:reporting), [getting-started-wastewater](../tag/getting-started-wastewater), [activity:wastewater](../tag/activity:wastewater), [illicit-discharge](../tag/illicit-discharge), [wastewater-advocacy](../tag/wastewater-advocacy)
+
+----
 
 _Lead image: [Andrew Wamboldt / KOMU](https://www.flickr.com/photos/12801018@N00/4683128554), [CC BY](https://creativecommons.org/licenses/by/2.0/)_
 

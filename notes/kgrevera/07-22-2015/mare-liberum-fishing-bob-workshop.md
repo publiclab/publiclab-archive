@@ -8,11 +8,15 @@ uid: 432001
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/010/803/original/Screen_Shot_2015-07-06_at_11.46.56_AM.png)
+
 # Mare Liberum Fishing Bob Workshop
 
 by [kgrevera](../profile/kgrevera) July 22, 2015 00:44
 
 July 22, 2015 00:44 | Tags: [thermal-photography](../tag/thermal-photography), [workshop](../tag/workshop), [water-quality](../tag/water-quality), [thermal-fishing-bob](../tag/thermal-fishing-bob), [thermal](../tag/thermal), [thermal-pollution](../tag/thermal-pollution), [heat](../tag/heat), [mare-liberum](../tag/mare-liberum), [replication:689](../tag/replication:689)
+
+----
 
 ##Mare Liberum Fishing Bob Workshop
 

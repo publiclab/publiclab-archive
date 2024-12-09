@@ -14,6 +14,8 @@ by [wu_ming2](../profile/wu_ming2) February 02, 2019 03:27
 
 February 02, 2019 03:27 | Tags: [purpleair](../tag/purpleair), [question:purpleair](../tag/question:purpleair), [first-time-poster](../tag/first-time-poster)
 
+----
+
 I just installed the device indoor to check PM2.5 air quality in our flat and how the new air purifier works.  After a while I am planning to move it outdoor.  
 
   

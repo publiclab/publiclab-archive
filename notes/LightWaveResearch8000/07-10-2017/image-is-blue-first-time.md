@@ -14,6 +14,8 @@ by [LightWaveResearch8000](../profile/LightWaveResearch8000) July 10, 2017 16:00
 
 July 10, 2017 16:00 | Tags: [question:spectral-workbench](../tag/question:spectral-workbench), [answered](../tag/answered), [first-time-poster](../tag/first-time-poster)
 
+----
+
 ###What I want to do or know
 Why is the camera seeing blue?
 [![838am10july2017.png](https://publiclab.org/system/images/photos/000/021/090/large/838am10july2017.png)](https://publiclab.org/system/images/photos/000/021/090/original/838am10july2017.png)

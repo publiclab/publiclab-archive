@@ -8,11 +8,15 @@ uid: 57645
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/003/510/original/DSC_0224-XL.jpg)
+
 # Mapping the NVCC campus using a flower pot as a camera rig
 
 by [gustrow](../profile/gustrow) April 05, 2014 00:34
 
 April 05, 2014 00:34 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [triggering](../tag/triggering), [chdk](../tag/chdk), [field-test](../tag/field-test), [photo-rig](../tag/photo-rig), [southeast](../tag/southeast), [virginia](../tag/virginia)
+
+----
 
 ###What I want to do
 This was part of my internship project at the Northern Virginia Community College (NVCC), where I did my certification in GIS.

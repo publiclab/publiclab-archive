@@ -8,11 +8,15 @@ uid: 8
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/003/354/original/Screen_Shot_2014-03-20_at_8.19.05_PM.png)
+
 # NIEHS podcast about Citizen Science
 
 by [sara](../profile/sara) March 21, 2014 00:38
 
 March 21, 2014 00:38 | Tags: [niehs](../tag/niehs), [publiclab](../tag/publiclab)
+
+----
 
 ###NIEHS podcast about Citizen Science
 

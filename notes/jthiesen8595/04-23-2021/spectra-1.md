@@ -8,10 +8,14 @@ uid: 753957
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/043/454/original/20210423_123045.jpg)
+
 # Spectra 1
 
 by [jthiesen8595](../profile/jthiesen8595) April 23, 2021 19:43
 
 April 23, 2021 19:43 | Tags: [lat:30](../tag/lat:30), [first-time-poster](../tag/first-time-poster), [zoom:5](../tag/zoom:5), [lon:-100](../tag/lon:-100)
+
+----
 
 Pointed spectrometer at lightbulb

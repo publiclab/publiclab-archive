@@ -8,11 +8,15 @@ uid: 46673
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/008/462/original/Barnraising_Group_Shot_Fall_2014.jpg)
+
 # Please consider Public Lab in your end of year giving!
 
 by [Becki](../profile/Becki) December 17, 2014 17:43
 
 December 17, 2014 17:43 | Tags: 
+
+----
 
 **Public Lab is more than a collection of innovative tools for monitoring your environment.**
 

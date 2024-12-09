@@ -8,11 +8,15 @@ uid: 46812
 
 ---
 
+![](https://publiclab.org/sites/default/files/genius-facecam-1320-webcam.jpg)
+
 # DIY Desktop Spectrometer - camera quit working after two days of usage
 
 by [pluharj](../profile/pluharj) January 13, 2013 15:12
 
 January 13, 2013 15:12 | Tags: [spectrometer](../tag/spectrometer), [troubleshooting](../tag/troubleshooting), [desktop-spectrometer](../tag/desktop-spectrometer)
+
+----
 
 After two days of using the Desktop Spectrometer received because backing the Kickstarter project the camera quit working. The LED diode works, it is recognized with the software but shows nothing. After couple of hours of trying to make it work again I have decided to buy a new camera. I have chosen Genius FaceCam 1320 as it seemed to be compact, easy to open and remove the IR filter, high resolution and manual focus.
 

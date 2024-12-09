@@ -8,11 +8,15 @@ uid: 1083
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/010/117/original/Daisy_effect_2.gif)
+
 # The myterious case of the British Daisy - Fastie colormap in Infragram.org
 
 by [cindy_excites](../profile/cindy_excites) May 31, 2015 20:04
 
 May 31, 2015 20:04 | Tags: [nir](../tag/nir), [london](../tag/london), [uk](../tag/uk), [infragram](../tag/infragram), [colormap](../tag/colormap), [infrabluephoto](../tag/infrabluephoto), [eu](../tag/eu), [fastiecolormap](../tag/fastiecolormap)
+
+----
 
 I would like so help in figuring out this Infragram.org mystery... here are the exact steps I took:
 

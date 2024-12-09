@@ -14,6 +14,8 @@ by [bhamster](../profile/bhamster), [fongvania](../profile/fongvania)
 
 November 01, 2021 18:38 | Tags: 
 
+----
+
 What can you do with air quality data once you have it? Whether you’ve collected the data yourself through community air monitoring or obtained it from an open database, there are many ways to communicate the data and make it meaningful. 
 
 On this wiki page, we’re collecting resources on understanding and communicating air quality data. Please add to these resources and help to improve the page by editing this wiki!
@@ -60,7 +62,7 @@ Visit the [air-quality-data tag page](https://publiclab.org/tag/air-quality-data
 
 Questions tagged with `question:air-quality-data` will appear here
 
-[questions:air-quality-data]
+[air-quality-data](../../tag/question:air-quality-data)
 
 <br>
 
@@ -70,7 +72,7 @@ Questions tagged with `question:air-quality-data` will appear here
 
 Activity posts tagged with `activity:air-quality-data` will appear here
 
-[notes:activity:air-quality-data]
+[activity:air-quality-data](../../tag/activity:air-quality-data)
 
 <br>
 
@@ -81,7 +83,7 @@ Activity posts tagged with `activity:air-quality-data` will appear here
 
 Research notes tagged with `getting-started-air-quality-data` will appear here
 
-[notes:getting-started-air-quality-data]
+[getting-started-air-quality-data](../../tag/getting-started-air-quality-data)
 
 <br>
 
@@ -193,7 +195,7 @@ _Image: Illustrations from the [Openscapes](https://www.openscapes.org/) blog �
 
 Research notes with the tag `data-storytelling` will appear here
 
-[notes:grid:data-storytelling]
+[grid:data-storytelling](../../tag/grid:data-storytelling)
 
 <br>
 
@@ -241,7 +243,7 @@ Graphing tools built right into spreadsheet programs (like Google Sheets, Excel,
 
 ### Tools for making visualizations and other media
 
-[notes:grid:data-visualization-tool]
+[grid:data-visualization-tool](../../tag/grid:data-visualization-tool)
 
 <br>
 

@@ -8,11 +8,15 @@ uid: 379
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/002/066/original/1379455_10102647600050120_988661020_n_annotated.jpg)
+
 # Balloon Mapping of Bienvenue Wetland Triangle Bulrush Planting
 
 by [eustatic](../profile/eustatic) October 27, 2013 16:39
 
 October 27, 2013 16:39 | Tags: [balloon-mapping](../tag/balloon-mapping), [annotated-maps](../tag/annotated-maps), [bayou-bienvenue](../tag/bayou-bienvenue), [bienvenue](../tag/bienvenue), [blog](../tag/blog)
+
+----
 
 ###What
 

@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/007/414/original/Screen_Shot_2014-10-12_at_11.48.56_AM.png)
+
 # Decolonized Skies at Apexart
 
 by [liz](../profile/liz) October 12, 2014 18:49
 
 October 12, 2014 18:49 | Tags: [new-york-city](../tag/new-york-city), [balloon-mapping](../tag/balloon-mapping), [event](../tag/event), [northeast](../tag/northeast), [event:rsvp](../tag/event:rsvp), [date:10-18-2014](../tag/date:10-18-2014)
+
+----
 
 ###Event details
 

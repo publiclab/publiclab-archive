@@ -3,6 +3,8 @@ uid: 1205
 created_at: 2013-04-23 01:12:21 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/137a50f77cca125036c323fe3bda91ea)
+
 # dorncox
 
 I am from Lee NH, a farmer, PhD student in natural resources and earth systems science and the director of a NH based non-profit called GreenStart which was created to share technology for healthy soil, food and energy. (www.greenstartnh.org)

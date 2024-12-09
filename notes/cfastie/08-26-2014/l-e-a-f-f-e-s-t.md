@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/006/407/original/LEAFBread-group1200s.jpg)
+
 # L E A F F E S T
 
 by [cfastie](../profile/cfastie) August 26, 2014 02:45
 
 August 26, 2014 02:45 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [spectrometer](../tag/spectrometer), [vermont](../tag/vermont), [oil-spill-toolkit](../tag/oil-spill-toolkit), [leaffest](../tag/leaffest), [event](../tag/event), [infragram](../tag/infragram), [northeast](../tag/northeast), [leaffest2014](../tag/leaffest2014)
+
+----
 
 *Above: Group aerie at LEAFFEST 2012.*  
 

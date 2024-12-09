@@ -8,11 +8,15 @@ uid: 527923
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/031/627/original/SpecII.JPG)
+
 # Introducing a new spectrometer design - "The Spectrotube"
 
 by [El_Mar](../profile/El_Mar) April 18, 2019 09:04
 
 April 18, 2019 09:04 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [camera](../tag/camera), [upgrade:spectrometry](../tag/upgrade:spectrometry), [noir](../tag/noir), [first-time-poster](../tag/first-time-poster), [spectrotube](../tag/spectrotube)
+
+----
 
 **Features**
 

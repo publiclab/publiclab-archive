@@ -8,11 +8,15 @@ uid: 653396
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/038/498/original/download.jpeg)
+
 # GSoC 2020 proposal: Spam Management Dashboard
 
 by [keshav_sethi0004](../profile/keshav_sethi0004) March 12, 2020 17:12
 
 March 12, 2020 17:12 | Tags: [software](../tag/software), [plots2](../tag/plots2), [gsoc](../tag/gsoc), [google](../tag/google), [spam](../tag/spam), [dashboard](../tag/dashboard), [first-time-poster](../tag/first-time-poster), [dial](../tag/dial), [zoom:6](../tag/zoom:6), [soc-2020](../tag/soc-2020), [soc-2020-proposals](../tag/soc-2020-proposals), [soc2020](../tag/soc2020), [lat:28.362672](../tag/lat:28.362672), [lon:75.586146](../tag/lon:75.586146), [keshav](../tag/keshav), [smd](../tag/smd)
+
+----
 
 Name: Keshav Sethi
 

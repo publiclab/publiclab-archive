@@ -8,11 +8,15 @@ uid: 508551
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/022/652/original/download.jpg)
+
 # Chronology: Presidential Contributions to  Public Health & the Environment
 
 by [gilbert](../profile/gilbert) November 29, 2017 19:01
 
 November 29, 2017 19:01 | Tags: [public-health](../tag/public-health), [environment](../tag/environment), [us-presidents](../tag/us-presidents), [environmental-legislation](../tag/environmental-legislation), [public-health-laws](../tag/public-health-laws), [executive-orders](../tag/executive-orders), [deregulation](../tag/deregulation)
+
+----
 
 During the term of the first president of the United States,
 **George Washington (None; Federalist, 1789-1797)**,

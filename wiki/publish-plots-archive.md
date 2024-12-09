@@ -14,6 +14,8 @@ by [warren](../profile/warren), [gonzoearth](../profile/gonzoearth), [medikid](.
 
 February 29, 2012 15:34 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping)
 
+----
+
 We're looking for maps to publish in the open data [PLOTS Archive](/archive). To get your data published, please follow the instructions below. (This page generally replaces [the previous version](/wiki/open-sourcing-mapknitter-data))
 
 ###Why: About the Public Lab Archive 

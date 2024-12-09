@@ -3,6 +3,8 @@ uid: 501996
 created_at: 2017-01-19 12:14:22 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/501996/medium/DE3760F1-C607-4358-9319-5C2BE9F7E2B6.JPG)
+
 # MaggPi
 
 working on a GSOC project with Raspberry PI camera

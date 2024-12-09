@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/003/321/original/6316165230_35a9b949f3_b.jpg)
+
 # EcoHack is back, and this time it’s global! May 9th & 10th
 
 by [liz](../profile/liz) March 19, 2014 13:56
 
 March 19, 2014 13:56 | Tags: [new-york-city](../tag/new-york-city), [ecohack](../tag/ecohack), [norcal](../tag/norcal), [event](../tag/event), [brasil](../tag/brasil)
+
+----
 
 _Lead image by [jatorre on flickr](https://www.flickr.com/photos/jatorre/6316165230/sizes/l/in/set-72157628061720092/)_
 

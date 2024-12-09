@@ -8,11 +8,15 @@ uid: 45586
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/016/693/original/Hoffman_Hills__Cheryl_Miller_copy.jpg)
+
 # What happens when the mining stops? Focus on Reclamation
 
 by [mlamadrid](../profile/mlamadrid) June 21, 2016 20:10
 
 June 21, 2016 20:10 | Tags: [wisconsin](../tag/wisconsin), [mining](../tag/mining), [blog](../tag/blog), [frac-sand](../tag/frac-sand), [midwest](../tag/midwest), [with:mathew](../tag/with:mathew), [with:gretchengehrke](../tag/with:gretchengehrke), [parent:frac-sand](../tag/parent:frac-sand), [communityscienceforum](../tag/communityscienceforum), [community-science-forum](../tag/community-science-forum), [reclamation](../tag/reclamation), [mine-reclamation](../tag/mine-reclamation), [evaluating-reclamation](../tag/evaluating-reclamation)
+
+----
 
 Article by [Gretchen Gehrke](https://publiclab.org/profile/gretchengehrke), [Mathew Lippincott](https://publiclab.org/profile/mathew) and Cheryl Miller for [Community Science Forum: Sand-Frac Issue](https://publiclab.org/forum).
 

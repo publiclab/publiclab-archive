@@ -14,6 +14,8 @@ by [GroundworkNola](../profile/GroundworkNola) September 13, 2012 20:45
 
 September 13, 2012 20:45 | Tags: [balloon-mapping](../tag/balloon-mapping), [green-slice](../tag/green-slice), [groundwork-nola](../tag/groundwork-nola), [first-time-poster](../tag/first-time-poster)
 
+----
+
 ##[Groundwork](http://www.groundworknola.org/)##
 
 Groundwork: New Orleans with the EPA and local partners are looking to create an annotated mapping project for our Green Slice initiative.  The idea is to create awareness and access in the lower 9th ward to the importance of Bayou Bienvenue and other Urban Waterways to our way of life here in South East Louisiana.  

@@ -14,6 +14,8 @@ by [Shannon](../profile/Shannon), [warren](../profile/warren)
 
 July 11, 2011 20:08 | Tags: 
 
+----
+
 ##Aug-Oct Lightning funding:##
 
 21 days of proposals and discussion starting on XXX.

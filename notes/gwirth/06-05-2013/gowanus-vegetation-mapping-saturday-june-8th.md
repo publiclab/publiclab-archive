@@ -8,11 +8,15 @@ uid: 30539
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/000/475/original/GC_cleangreen_thumb.jpg)
+
 # Gowanus Vegetation Mapping - Saturday June 8th
 
 by [gwirth](../profile/gwirth) June 05, 2013 03:05
 
 June 05, 2013 03:05 | Tags: [new-york-city](../tag/new-york-city), [gowanus](../tag/gowanus), [events:new-york-city](../tag/events:new-york-city)
+
+----
 
 ##Join us for tree mapping and identification via balloon and kite at the Gowanus Canal on Saturday June 8th.
 Pending weather. 

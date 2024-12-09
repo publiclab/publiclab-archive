@@ -14,6 +14,8 @@ by [liz](../profile/liz)
 
 December 18, 2014 17:05 | Tags: [parent:gardening-toolkit](../tag/parent:gardening-toolkit), [gardening-toolkit](../tag/gardening-toolkit)
 
+----
+
 This is one of a series of guides for collaborative environmental research and advocacy projects. Setting Goals starts with listening to individual interests and priorities and builds toward establishing a shared, group agenda. This guide covers a sequence of asking individuals to write down their goals, then looking for similar goals, voting for important goals via dot, and finally choosing which are most important to measure progress towards. </ br>
 _NB: this activity could be generalized to include interests in other types of environmental investigation such as documentation, management, monitoring, etc._
 

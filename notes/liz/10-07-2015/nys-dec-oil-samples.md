@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/011/843/original/NY-DEC-oil-samples.jpg)
+
 # NYS DEC Oil Samples
 
 by [liz](../profile/liz) October 07, 2015 16:45
 
 October 07, 2015 16:45 | Tags: [new-york-city](../tag/new-york-city), [oil](../tag/oil), [oil-testing-kit](../tag/oil-testing-kit), [northeast](../tag/northeast), [ny](../tag/ny), [newtown-creek-alliance](../tag/newtown-creek-alliance), [enforcement](../tag/enforcement), [oil-and-gas](../tag/oil-and-gas), [nysdec](../tag/nysdec)
+
+----
 
 **New York State Department of Conservation oil samples, from left:** 
 

@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/003/728/original/tmp_IMG_20140419_214207156309759.jpg)
+
 # Public Lab trading cards
 
 by [warren](../profile/warren) April 20, 2014 03:26
 
 April 20, 2014 03:26 | Tags: [organizers](../tag/organizers), [case-studies](../tag/case-studies), [trading-cards](../tag/trading-cards), [illustrations](../tag/illustrations), [graphic](../tag/graphic)
+
+----
 
 For highlighting awesome enviro monitoring and other stories. Collect them all!
 

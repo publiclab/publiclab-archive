@@ -8,11 +8,15 @@ uid: 12
 
 ---
 
+![](https://publiclab.org/sites/default/files/photo-2_0.jpg)
+
 # Davis
 
 by [MicheleTobias](../profile/MicheleTobias), [gonzoearth](../profile/gonzoearth)
 
 February 11, 2012 00:22 | Tags: [chapter](../tag/chapter)
+
+----
 
 Public Laboratory working with interested members of the STS community around UCD in Davis, California. We are trying to reach out to interested folks and find some local issues to focus on.
 http://keckcaves.org/

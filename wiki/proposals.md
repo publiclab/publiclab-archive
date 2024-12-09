@@ -14,6 +14,8 @@ by [warren](../profile/warren)
 
 March 02, 2011 21:47 | Tags: 
 
+----
+
 Here are the texts of some of the grant applications and other proposals we've submitted. 
 
 * [Ars Electronica Prix Ars 2011 for Digital Communities](/wiki/proposals-prix-ars-2011), March 30, 2011

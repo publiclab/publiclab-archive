@@ -3,6 +3,8 @@ uid: 594130
 created_at: 2019-05-29 09:56:36 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/fc08a81393963021dbf9f9633d614e94)
+
 # shilpapatil12
 
 I am a Software Engineer by profession & blogger by passion. 

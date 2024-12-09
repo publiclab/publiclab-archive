@@ -14,6 +14,8 @@ by [warren](../profile/warren), [kits](../profile/kits)
 
 September 21, 2017 20:51 | Tags: [providence](../tag/providence), [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [open-source](../tag/open-source), [community](../tag/community), [kits](../tag/kits), [kite](../tag/kite), [aerial-photography](../tag/aerial-photography), [diy](../tag/diy), [mapping](../tag/mapping), [science](../tag/science), [design](../tag/design), [balloon](../tag/balloon), [opensource](../tag/opensource), [pollution](../tag/pollution), [environment](../tag/environment), [maker](../tag/maker), [kitemapping](../tag/kitemapping), [parent:kits](../tag/parent:kits), [citizenscience](../tag/citizenscience), [communityscience](../tag/communityscience), [exploration](../tag/exploration), [activism](../tag/activism)
 
+----
+
 Various documentation and instructions for the Kits initiative.
 
 Also see [Kits Artwork](/wiki/kits-artwork) for design files and such!
@@ -56,5 +58,5 @@ Notes on shipping procedures: https://docs.google.com/document/d/19QCghkl9E38w7D
 
 ### Questions
 
-[questions:kits]
+[kits](../../tag/question:kits)
 

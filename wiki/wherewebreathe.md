@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/004/280/original/Screen_Shot_2014-05-07_at_1.42.47_PM.png)
+
 # wherewebreathe
 
 by [liz](../profile/liz), [mathew](../profile/mathew), [gretchengehrke](../profile/gretchengehrke), [nshapiro](../profile/nshapiro), [novakn](../profile/novakn), [Shannon](../profile/Shannon), [warren](../profile/warren)
 
 May 15, 2014 20:53 | Tags: [wherewebreathe](../tag/wherewebreathe), [iaq](../tag/iaq), [indoor-air-quality](../tag/indoor-air-quality), [parent:indoor-air-quality-monitoring](../tag/parent:indoor-air-quality-monitoring)
+
+----
 
 WhereWeBreathe.org is one part of our multi-pronged [Indoor Air quality monitoring](http://publiclab.org/wiki/indoor-air-quality-monitoring) efforts.
 

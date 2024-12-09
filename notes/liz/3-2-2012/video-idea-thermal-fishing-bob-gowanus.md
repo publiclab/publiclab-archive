@@ -14,6 +14,8 @@ by [liz](../profile/liz) March 02, 2012 16:43
 
 March 02, 2012 16:43 | Tags: [new-york-city](../tag/new-york-city), [gowanus-canal](../tag/gowanus-canal), [thermal-fishing-bob](../tag/thermal-fishing-bob), [thermal](../tag/thermal), [thermal-pollution](../tag/thermal-pollution), [northeast](../tag/northeast), [heat](../tag/heat), [response:689](../tag/response:689)
 
+----
+
 From Eymund: 
 I'm going to be doing a canoe test run of our new thermal mapping device either Saturday or Sunday evening. (March 3/4 2012)
 

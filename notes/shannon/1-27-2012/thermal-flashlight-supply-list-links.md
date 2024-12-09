@@ -14,6 +14,8 @@ by [Shannon](../profile/Shannon) January 27, 2012 16:14
 
 January 27, 2012 16:14 | Tags: 
 
+----
+
 <strong>Consumable Parts</strong>
 
 * http://www.sparkfun.com/products/10818 - this includes 25 LEDs

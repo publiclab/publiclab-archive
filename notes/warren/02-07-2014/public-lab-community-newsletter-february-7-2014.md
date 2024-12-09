@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/002/822/original/Screen_Shot_2014-02-07_at_5.41.17_PM.png)
+
 # Public Lab Community Newsletter February 7, 2014
 
 by [warren](../profile/warren) February 07, 2014 22:48
 
 February 07, 2014 22:48 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
+
+----
 
 Hello everyone -- your weekly dose of Public Labbery is here, with a full agenda for the next few weeks of PL-related events. Also -- a variey of spectroscopy-related posts to keep you busy as you huddle inside for warmth... well, if you're anywhere near where I live, that is. 
 

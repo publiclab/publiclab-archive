@@ -14,6 +14,8 @@ by [idev247](../profile/idev247) December 06, 2016 18:09
 
 December 06, 2016 18:09 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [question:spectrometry](../tag/question:spectrometry), [exposure-calibration](../tag/exposure-calibration)
 
+----
+
 ###Situation
 I’m looking to compare different types of light bulbs for brightness, and color range. An example light bulb would be the [Phiips Hue](http://www2.meethue.com/en-ca/productdetail/philips-hue-white-and-color-ambiance-starter-kit-a19)
 

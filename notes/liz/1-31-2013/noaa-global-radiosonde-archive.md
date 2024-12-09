@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/sites/default/files/wea01118.jpg)
+
 # NOAA Global Radiosonde Archive
 
 by [liz](../profile/liz) January 31, 2013 22:37
 
 January 31, 2013 22:37 | Tags: [air-column-monitor](../tag/air-column-monitor)
+
+----
 
 Photo courtesy of National Weather Service
 

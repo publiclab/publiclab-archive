@@ -8,11 +8,15 @@ uid: 495835
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/019/324/original/Spectrometer_Image.png)
+
 #  3D printed mini spectrometer
 
 by [rthalman](../profile/rthalman) January 19, 2017 17:04
 
 January 19, 2017 17:04 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [intensity-calibration](../tag/intensity-calibration), [absorption](../tag/absorption), [absorption-spectrometry](../tag/absorption-spectrometry), [upgrade:spectrometry](../tag/upgrade:spectrometry), [upgrade:foldable-spec](../tag/upgrade:foldable-spec), [vis-spectroscopy](../tag/vis-spectroscopy), [3d-print](../tag/3d-print)
+
+----
 
 ###3D printed mini spectrometer and absorption cell holder with LED.
 I took the basic design of the simple paper spectrometer and created a 3D printable version. 

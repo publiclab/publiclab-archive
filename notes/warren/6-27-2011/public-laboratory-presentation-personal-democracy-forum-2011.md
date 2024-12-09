@@ -8,10 +8,14 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/pdf.png)
+
 # Public Laboratory presentation at Personal Democracy Forum 2011
 
 by [warren](../profile/warren) June 27, 2011 17:21
 
 June 27, 2011 17:21 | Tags: 
+
+----
 
 <iframe width="499" height="284" src="https://www.youtube.com/embed/wI6NuRnBxa0" frameborder="0" allowfullscreen></iframe>

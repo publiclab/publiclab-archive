@@ -8,11 +8,15 @@ uid: 379
 
 ---
 
+![](https://publiclab.org/sites/default/files/IMG_1571 oblique nola.JPG)
+
 # Kite Map of the mouth of Bayou St John
 
 by [eustatic](../profile/eustatic) April 03, 2013 13:54
 
 April 03, 2013 13:54 | Tags: [gulf-coast](../tag/gulf-coast), [kite-mapping](../tag/kite-mapping), [eustatic](../tag/eustatic), [dredgefestla](../tag/dredgefestla), [bsj](../tag/bsj)
+
+----
 
 https://mapknitter.org/maps/mouth-of-bayou-st-john-from-lake-terrace
 

@@ -8,10 +8,14 @@ uid: 553633
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/026/814/original/DJI_0070.JPG)
+
 # Cashapamba, Valle de los chillos, Ecuador
 
 by [galapagos](../profile/galapagos) October 05, 2018 05:20
 
 October 05, 2018 05:20 | Tags: [ecuador](../tag/ecuador), [south-america](../tag/south-america)
+
+----
 
 Aerial view fro Cashapamba

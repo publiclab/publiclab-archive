@@ -14,4 +14,6 @@ by [arlisjohnson](../profile/arlisjohnson)
 
 April 24, 2012 18:50 | Tags: [sinkhole](../tag/sinkhole), [karst](../tag/karst)
 
+----
+
 This page will show sinkhole(s) around the William T Young Library in Lexington, KY.

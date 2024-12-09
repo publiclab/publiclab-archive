@@ -14,6 +14,8 @@ by [Shannon](../profile/Shannon) October 05, 2012 16:53
 
 October 05, 2012 16:53 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
 
+----
+
 Even though we're currently eleven hours from the [DIY spectrometer Kickstarter](http://www.kickstarter.com/projects/jywarren/public-lab-diy-spectrometry-kit) ending, a huge thanks to everyone who helped push the campaign to 1,500+ backers and past the amounts needed to make both an iOS app and an API allowing people to develop their own spectral "apps". Although its almost time to start looking forward to all the spectral goodness to come, we still have eleven hours left, so please take a minute to send a Tweet, post to Facebook or throw in your $10... maybe we can hit an even $110k by the end of the day!
 
 In other Public Lab news...

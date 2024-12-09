@@ -8,11 +8,15 @@ uid: 447491
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/016/829/original/HPIM8466-R-_Wyatt_Run_mud_INTO_Fishing_crk.JPG)
+
 # Capturing location information with trap cam
 
 by [tonyc](../profile/tonyc) July 01, 2016 19:20
 
 July 01, 2016 19:20 | Tags: [timelapse](../tag/timelapse), [metadata](../tag/metadata), [geo-tagging](../tag/geo-tagging), [trapcam](../tag/trapcam), [geolocation](../tag/geolocation), [chain-of-custody](../tag/chain-of-custody)
+
+----
 
 ###What I want to do
 Capture location information in a defensible way, using basic mobius camera configuration.

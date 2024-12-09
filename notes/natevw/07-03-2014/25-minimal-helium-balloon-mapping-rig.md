@@ -8,11 +8,15 @@ uid: 804
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/005/116/original/__1.JPG)
+
 # Make a $25 minimal-helium balloon mapping rig
 
 by [natevw](../profile/natevw) July 03, 2014 23:03
 
 July 03, 2014 23:03 | Tags: [balloon-mapping](../tag/balloon-mapping), [photo-rig](../tag/photo-rig), [cheap](../tag/cheap), [mobius](../tag/mobius), [barnstar:basic](../tag/barnstar:basic), [keychain-camera](../tag/keychain-camera), [low-cost](../tag/low-cost), [mini-balloon-kit](../tag/mini-balloon-kit), [activity:balloon-mapping](../tag/activity:balloon-mapping), [activity:photo-rig](../tag/activity:photo-rig), [affordable](../tag/affordable), [activity:mini-balloon-kit](../tag/activity:mini-balloon-kit)
+
+----
 
 ###What I want to do
 

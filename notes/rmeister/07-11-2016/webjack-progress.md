@@ -8,11 +8,15 @@ uid: 468994
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/016/940/original/webjack_arduino_temp_sensor.png)
+
 # WebJack progress
 
 by [rmeister](../profile/rmeister) July 11, 2016 15:04
 
 July 11, 2016 15:04 | Tags: [arduino](../tag/arduino), [arduino-uno](../tag/arduino-uno), [sensor-readout](../tag/sensor-readout), [sensor-nodes](../tag/sensor-nodes), [serial-link](../tag/serial-link), [webjack](../tag/webjack), [activity:webjack](../tag/activity:webjack), [category:dev](../tag/category:dev)
+
+----
 
 It's time for an update about WebJack. As you see from the picture above the decoder is in a functional state. It is not merged into the main repository yet, but is available here: [https://rmeister.github.io/webjack/examples/](https://rmeister.github.io/webjack/examples/). 
 There were two major design decisions on the way to get it working, that I'll explain here.

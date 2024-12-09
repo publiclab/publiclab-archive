@@ -3,6 +3,8 @@ uid: 493078
 created_at: 2016-09-27 19:48:12 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/493078/medium/IMG_7161.JPG)
+
 # Mustapha
 
 Hi, my name is Mustapha Dakhloul and I live in Bourj Al Shamali refugee camp in south Lebanon . I was part of the team who did the balloon mapping in the camp - and it was a lot of fun. With Claudia, I presented the work in Berlin, Germany, and it was lovely to see the positive feedback from people.

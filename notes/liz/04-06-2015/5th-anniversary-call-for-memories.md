@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/009/552/original/2011-05-10-Adam.jpg)
+
 # 5th Anniversary call for memories!
 
 by [liz](../profile/liz) April 06, 2015 13:01
 
 April 06, 2015 13:01 | Tags: [community](../tag/community), [events](../tag/events), [event](../tag/event)
+
+----
 
 Hi, all! Jeff and I spent a little time remembering some of our favorite moments from over the past 5 years. 
 

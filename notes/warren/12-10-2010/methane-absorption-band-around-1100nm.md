@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/directoutput.png)
+
 # Methane absorption band at around 1100nm
 
 by [warren](../profile/warren) December 11, 2010 03:24
 
 December 11, 2010 03:24 | Tags: [spectrometer](../tag/spectrometer), [absorption](../tag/absorption), [spectral-matching](../tag/spectral-matching), [methane](../tag/methane), [hitran](../tag/hitran)
+
+----
 
 Playing with the HITRAN online database:
 

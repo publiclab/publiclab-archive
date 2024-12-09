@@ -8,11 +8,15 @@ uid: 513114
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/024/663/original/Pulse_motor_generator.jpg)
+
 # Simple pulse motor generator, powered with solar panels 
 
 by [sciencetoolbar](../profile/sciencetoolbar) April 19, 2018 11:10
 
 April 19, 2018 11:10 | Tags: [classroom](../tag/classroom), [generator](../tag/generator), [solar](../tag/solar), [activity:science-fair](../tag/activity:science-fair), [science-fair](../tag/science-fair), [activity:solar](../tag/activity:solar), [activity:classroom](../tag/activity:classroom), [activity:generator](../tag/activity:generator), [motor-generator](../tag/motor-generator), [pulse-motor](../tag/pulse-motor), [pulse-motor-generator](../tag/pulse-motor-generator), [pmg](../tag/pmg)
+
+----
 
 Motor generator ( pulse motor generator) powered with solar panels [link text](http://sciencetoolbar.com/motor-generator/)
 

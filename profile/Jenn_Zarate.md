@@ -3,6 +3,8 @@ uid: 429632
 created_at: 2014-10-09 15:02:48 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/47221b9f56d0f343178ee11a8c9c0372)
+
 # Jenn_Zarate
 
 Senior Journalism Major

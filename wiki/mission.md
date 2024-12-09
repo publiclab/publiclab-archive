@@ -14,6 +14,8 @@ by [joyofsoy](../profile/joyofsoy), [warren](../profile/warren)
 
 May 25, 2011 18:41 | Tags: [mission](../tag/mission)
 
+----
+
 **Mission**
 Pursuing environmental justice through community science and open technology
 

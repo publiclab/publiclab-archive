@@ -8,11 +8,15 @@ uid: 237313
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/036/895/original/UNADJUSTEDNONRAW_thumb_19a3.jpg)
+
 # Workshops
 
 by [Bronwen](../profile/Bronwen)
 
 December 06, 2019 14:17 | Tags: 
+
+----
 
 Public Lab is occasionally able to offer in-person workshops to interested people, groups or organizations. Information about workshops fees, scheduling and regional availability will be coming soon. 
 
@@ -47,13 +51,13 @@ Example: Participants start with a tool they have already used successfully (to 
 
 Are you interested in leading a workshop, or what to know how other people are offering advice about ways to incorporate Public Lab tools or methods into outreach or educational spaces? [You can post questions to the community here. ](https://publiclab.org/questions) To help others see your post, we suggest using the tags "questions:workshops" or "questions:education".
 
-[questions:workshops]
+[workshops](../../tag/question:workshops)
 
 ## Activities
 
 Take a look at some of the workshops that members of the Public Lab community are planning, or have offered in the past. 
 
-[activities:workshops]
+[workshops](../../tag/activity:workshops)
 
 
 If you are reaching out on behalf of a community who is interested in working with the community at large, or partnering with Public Lab on a bigger project, you can still use the linked form above, or [share a post about your work. ](https://publiclab.org/post)

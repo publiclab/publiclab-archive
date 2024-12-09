@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/018/612/original/Screen_Shot_2016-10-26_at_11.53.24_AM_copy.png)
+
 # Step 2: Translate on Transifex
 
 by [liz](../profile/liz) October 26, 2016 18:34
 
 October 26, 2016 18:34 | Tags: [website](../tag/website), [activity](../tag/activity), [localization](../tag/localization), [translation](../tag/translation), [language](../tag/language), [comunity](../tag/comunity), [activity:localization](../tag/activity:localization)
+
+----
 
 This activity is written for someone who has already logged into Transifex and joined / accepted to the publiclab.org project (see [this activity](https://publiclab.org/notes/liz/10-26-2016/how-to-join-public-lab-s-transifex-project)).
 

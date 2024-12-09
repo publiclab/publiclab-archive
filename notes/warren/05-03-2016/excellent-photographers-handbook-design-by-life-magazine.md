@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/015/908/original/tmp_8630-IMG_20160503_1356191787192055.jpg)
+
 # Excellent photographers handbook design by LIFE magazine
 
 by [warren](../profile/warren) May 03, 2016 19:08
 
 May 03, 2016 19:08 | Tags: [guides](../tag/guides), [design](../tag/design), [instructions](../tag/instructions), [steps](../tag/steps), [onboarding](../tag/onboarding), [accessibility](../tag/accessibility), [booklets](../tag/booklets)
+
+----
 
 I came across this excellent, pocket-size handbook from 1970 on photography, with nice black and white stepwise illustrative photos of things like making enlargements, and how to store a temporary darkroom. Great pointers for us as we develop easy to follow stepwise instructions and think about [printing booklets](https://publiclab.org/notes/warren/04-26-2016/announcing-a-public-lab-booklet-diy-oil-testing). 
 

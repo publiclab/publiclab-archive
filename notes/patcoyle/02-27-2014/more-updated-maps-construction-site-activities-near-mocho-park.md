@@ -8,11 +8,15 @@ uid: 77
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/003/073/original/2-27-14_PS_Panorama1.jpg)
+
 # More updated maps - construction site activities near Mocho Park
 
 by [patcoyle](../profile/patcoyle) February 27, 2014 23:41
 
 February 27, 2014 23:41 | Tags: [time-lapse](../tag/time-lapse), [kap](../tag/kap), [sx260hs](../tag/sx260hs), [construction](../tag/construction), [juice-bottle-riig](../tag/juice-bottle-riig), [location:blurred](../tag/location:blurred), [zoom:17](../tag/zoom:17), [lat:37.67](../tag/lat:37.67), [lon:-121.78](../tag/lon:-121.78), [place:watsonville-ca-95076-united-states](../tag/place:watsonville-ca-95076-united-states)
+
+----
 
 ###What I want to do
 Continue to update maps with construction site activities across the street from Mocho Park, Livermore CA. As previously noted, recording construction or other activities over time is one use of these tools. Initial mapping of this site was conducted in September 2013 and described in [note ](http://publiclab.org/notes/patcoyle/01-17-2014/updated-maps-construction-site-activities-near-mocho-park) and [note](http://publiclab.org/notes/patcoyle/09-17-2013/kap-with-simple-dual-juice-bottle-rig-infragram-and-visible-mapping-around-mocho-park-livermore-ca).

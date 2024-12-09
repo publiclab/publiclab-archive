@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/000/125/original/Speechbuster.jpg)
+
 # May 4 IdeasCity Speechbusters "Earth Observation Systems" with Nina Ilieva
 
 by [liz](../profile/liz) April 26, 2013 18:15
 
 April 26, 2013 18:15 | Tags: [new-york-city](../tag/new-york-city), [event](../tag/event)
+
+----
 
 ##Event Details
 

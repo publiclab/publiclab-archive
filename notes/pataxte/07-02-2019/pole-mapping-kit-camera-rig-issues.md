@@ -14,6 +14,8 @@ by [pataxte](../profile/pataxte) July 02, 2019 20:38
 
 July 02, 2019 20:38 | Tags: [question:general](../tag/question:general), [response:11661](../tag/response:11661)
 
+----
+
 For anyone working with the pole mapping kit - This kit was my xmas 
 gift, finally getting to set up and use it. However, the mount is 
 confusing. In the package it has a diagram of the mount, and says to see

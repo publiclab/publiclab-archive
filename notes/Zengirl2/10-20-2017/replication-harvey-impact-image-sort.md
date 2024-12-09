@@ -8,11 +8,15 @@ uid: 423961
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/021/988/original/HarveyLes.jpg)
+
 # Hurricane Harvey Impact Image Sort 
 
 by [zengirl2](../profile/zengirl2) October 20, 2017 03:59
 
 October 20, 2017 03:59 | Tags: [oil](../tag/oil), [water-quality](../tag/water-quality), [pollution](../tag/pollution), [image-sorting](../tag/image-sorting), [hurricane](../tag/hurricane), [disaster-response](../tag/disaster-response), [harvey](../tag/harvey), [hurricanes](../tag/hurricanes), [replication:14916](../tag/replication:14916)
+
+----
 
 I wanted to duplicate the Harvey Image Sorting that was done at the New Orleans event. Here was my process:
 

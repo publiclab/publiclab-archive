@@ -3,6 +3,8 @@ uid: 489504
 created_at: 2016-08-30 16:30:54 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/489504/medium/10294489_10156660884215580_1047643267193221455_n.jpg)
+
 # bkleist
 
 Environmental Geography graduate from the University of Wisconsin Eau Claire, currently conducting environmental public health research. My reserch team focuses on measuring PM10 and PM2.5 concentrations near silica sand mines in small Wisconsin towns to ensure a high standard of public health. 

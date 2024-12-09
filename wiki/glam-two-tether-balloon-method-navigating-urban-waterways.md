@@ -8,11 +8,15 @@ uid: 1259
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/008/983/original/8996487159_a3fe09ebab_o.jpg)
+
 # GLAM Two-Tether Balloon Method: navigating urban waterways 
 
 by [mollydanielsson](../profile/mollydanielsson)
 
 February 14, 2015 01:33 | Tags: [balloon-mapping](../tag/balloon-mapping), [gowanus](../tag/gowanus), [gowanus-canal-superfund-site](../tag/gowanus-canal-superfund-site), [glam](../tag/glam), [style:fancy](../tag/style:fancy), [with:natasia](../tag/with:natasia), [with:liz](../tag/with:liz), [two-tether](../tag/two-tether)
+
+----
 
 **Published in 2013** [Grassroots Mapping Forum#4.](http://publiclab.org/forum)
 

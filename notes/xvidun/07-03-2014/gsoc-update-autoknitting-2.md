@@ -8,11 +8,15 @@ uid: 421168
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/005/102/original/Update_2-1.png)
+
 # GSoC Update - AutoKnitting 2
 
 by [xvidun](../profile/xvidun) July 03, 2014 05:47
 
 July 03, 2014 05:47 | Tags: [mapknitter](../tag/mapknitter), [gsoc](../tag/gsoc), [gsoc-2014](../tag/gsoc-2014), [exif](../tag/exif), [response:10594](../tag/response:10594)
+
+----
 
 ###My attempt and results
 Continuing from my previous auto-knitting update, I have gone further successfully able to correct image based on rotation and scale. 

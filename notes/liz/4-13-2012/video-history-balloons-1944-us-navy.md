@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/sites/default/files/ballooning-in-the-1.jpg)
+
 # Video History of Balloons: 1944 US Navy
 
 by [liz](../profile/liz) April 13, 2012 16:42
 
 April 13, 2012 16:42 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping)
+
+----
 
 <em>Main image from <a href="http://www.wrl.org/events/centuries-art-your-library-5">civil war re-enacters recreating T.S.C. Lowe's aerial reconnaissance ballons</a>. </em>
 

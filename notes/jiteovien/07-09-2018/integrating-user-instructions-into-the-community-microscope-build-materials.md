@@ -8,11 +8,15 @@ uid: 540008
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/026/824/original/25552.png)
+
 # Integrating User instructions into the Community Microscope build materials
 
 by [jiteovien](../profile/jiteovien) July 09, 2018 19:57
 
 July 09, 2018 19:57 | Tags: [documentation](../tag/documentation), [air-quality](../tag/air-quality), [water-quality](../tag/water-quality), [illustrations](../tag/illustrations), [microscope](../tag/microscope), [community-microscope](../tag/community-microscope), [community-microscope-prototyping](../tag/community-microscope-prototyping)
+
+----
 
 Hello, I'm Ufuoma! Interning with Public Lab this summer!
 

@@ -8,11 +8,15 @@ uid: 504901
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/019/973/original/Comparison.jpg)
+
 # Infragrammer WebGL HSV vs Standard equations
 
 by [plam](../profile/plam) March 31, 2017 02:32
 
 March 31, 2017 02:32 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [infrared](../tag/infrared), [infragram](../tag/infragram), [infragram-sandbox](../tag/infragram-sandbox), [question:general](../tag/question:general)
+
+----
 
 What are the algorithm differences in the NDVI HSV image analysis between Standard and WebGL?
 

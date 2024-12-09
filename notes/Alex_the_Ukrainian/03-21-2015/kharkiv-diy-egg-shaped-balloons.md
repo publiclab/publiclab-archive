@@ -8,11 +8,15 @@ uid: 436428
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/009/373/original/6_aloft_with_cloud.jpg)
+
 # Kharkiv' DIY egg-shaped balloons
 
 by [Alex_the_Ukrainian](../profile/Alex_the_Ukrainian) March 21, 2015 17:53
 
 March 21, 2015 17:53 | Tags: [balloon-mapping](../tag/balloon-mapping), [heat-seaming](../tag/heat-seaming), [diy-balloon](../tag/diy-balloon), [design](../tag/design), [nature](../tag/nature), [balloon](../tag/balloon), [ukraine](../tag/ukraine), [technique](../tag/technique), [seam](../tag/seam), [semirigid](../tag/semirigid), [catenaria](../tag/catenaria), [tandem](../tag/tandem), [egg-shaped](../tag/egg-shaped), [wild](../tag/wild), [preservation](../tag/preservation), [activity:balloon-making](../tag/activity:balloon-making), [balloon-making](../tag/balloon-making)
+
+----
 
 Today I upload some more detailed photos of the DIY egg-shaped balloon. The first test sample was designed as 70% of the intended size. This "baby" balloon is of volume of 11 cub.feet. Its seam was more rough, since I was experimenting and not certain "how to".
 

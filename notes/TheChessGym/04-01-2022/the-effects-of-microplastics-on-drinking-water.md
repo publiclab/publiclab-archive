@@ -8,11 +8,15 @@ uid: 788868
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/045/596/original/0214b72b-e8f5-4e29-8831-941ac8941e0e.jpg)
+
 # The Effects Of Microplastics On Drinking Water 
 
 by [TheChessGym](../profile/TheChessGym) April 01, 2022 15:06
 
 April 01, 2022 15:06 | Tags: [microplastics](../tag/microplastics), [lat:22](../tag/lat:22), [lon:76](../tag/lon:76), [zoom:5](../tag/zoom:5)
+
+----
 
 The Environmental Protection Agency /EPA has a very interesting web site for learning about the water quality of specific communities. The site is replete with all of the information one would expect to have concerning the locating, retrieving, filtering, treating, conserving, and preserving of a community's fresh water resource. The site allows a viewer to access data on the water resource of their particular community. The viewer within a few clicks of the mouse can view data required, submitted, reviewed, and tested by the Federal Government regarding parameters and laws governing the water resources provided to communities. 
 

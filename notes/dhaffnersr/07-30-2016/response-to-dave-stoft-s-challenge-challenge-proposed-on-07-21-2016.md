@@ -8,11 +8,15 @@ uid: 461120
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/017/261/original/17mg_crude_oil_july28.png)
+
 # Response to: Dave stoft's challenge (challenge proposed on 07/21/2016)
 
 by [dhaffnersr](../profile/dhaffnersr) July 30, 2016 15:20
 
 July 30, 2016 15:20 | Tags: 
+
+----
 
 ##**To qualify (for this challenge) the application concept needs 1) some detail about the degree of oil detection (it must be better than detecting oil at a level far below that which I can already detect it by sight and smell) and 2) details showing the measurement concept has a viable technique of acquiring reproducible data..**
 

@@ -8,11 +8,15 @@ uid: 428015
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/007/112/original/Gillis-4.jpg)
+
 # Group 1 Emerson College Data Visualization Class: Conductivity Sensor
 
 by [amandagomez93](../profile/amandagomez93) September 29, 2014 21:30
 
 September 29, 2014 21:30 | Tags: [first-time-poster](../tag/first-time-poster)
+
+----
 
 by Amanda Gomez & Elizabeth Gillis 
 

@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/006/813/original/2014-09-13_16.34.18.jpg)
+
 # How much are Coqui measurements affected by hot/cold water?
 
 by [warren](../profile/warren) September 13, 2014 20:40
 
 September 13, 2014 20:40 | Tags: [vermont](../tag/vermont), [leaffest](../tag/leaffest), [water-quality](../tag/water-quality), [conductivity](../tag/conductivity), [riffle](../tag/riffle), [northeast](../tag/northeast), [555](../tag/555), [openwater](../tag/openwater), [with:kgradow1](../tag/with:kgradow1), [leaffest2014](../tag/leaffest2014), [coqui](../tag/coqui), [tapwater](../tag/tapwater), [question:coqui](../tag/question:coqui), [activity:coqui-usage](../tag/activity:coqui-usage)
+
+----
 
 ###What I want to do
 

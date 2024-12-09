@@ -14,6 +14,8 @@ by [bhamster](../profile/bhamster)
 
 December 09, 2020 00:07 | Tags: 
 
+----
+
 Outdoor air pollution, in the most extreme cases, can be immediately identified even without any special training. It casts a haze over cities, collects on streets and buildings, and provides dramatic fodder for the news. But while high drama is often a prerequisite for news about air quality to be reported, the real story is the health impacts that occur even when the air isn't thick enough to see. 
 
 **What is air pollution and who’s affected by it?**
@@ -122,7 +124,7 @@ Image: [@mollydanielsson](https://publiclab.org/profile/mollydanielsson)
 + Ask a question so other community members can offer support
 + Sign up below to be notified when someone asks an air quality question
 
-[questions:air-quality]
+[air-quality](../../tag/question:air-quality)
 
 <br>
 
@@ -275,7 +277,7 @@ Considering common sources of air pollutants can help you determine which pollut
 
 **_Sources near you_**: the activities listed below can help you learn about searching public databases to find out what industries and emissions sources are near you.
 
-[notes:grid:activity:air-database]
+[grid:activity:air-database](../../tag/grid:activity:air-database)
 
 <br>
 
@@ -448,7 +450,7 @@ A collection of wiki pages on monitoring methods and approaches covering particu
 
 Activities on Public Lab that have been tagged with `air-quality` will appear here
 
-[activities:air-quality]
+[air-quality](../../tag/activity:air-quality)
 
 <br>
 <hr style="height:5px;border-width:0;color:gray;background-color:gray">

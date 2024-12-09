@@ -14,6 +14,8 @@ by [Larzag](../profile/Larzag) August 02, 2012 17:23
 
 August 02, 2012 17:23 | Tags: [balloon-mapping](../tag/balloon-mapping)
 
+----
+
 does it make sense to borrow some ideas from the folks that make these "air swimmers"?
 
 Example: The AirSwimmer's body is made from a high-quality, durable nylon material that will stay inflated for weeks and can be refilled over and over again. 

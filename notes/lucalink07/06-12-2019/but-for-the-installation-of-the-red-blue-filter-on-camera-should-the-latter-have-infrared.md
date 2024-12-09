@@ -14,4 +14,6 @@ by [lucalink07](../profile/lucalink07) June 12, 2019 19:47
 
 June 12, 2019 19:47 | Tags: [infrared-camera-conversion](../tag/infrared-camera-conversion), [question:infrared-camera-conversion](../tag/question:infrared-camera-conversion), [first-time-poster](../tag/first-time-poster)
 
+----
+
 but for the installation of the red / blue filter on camera, should the latter have infrared?

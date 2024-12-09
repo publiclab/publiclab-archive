@@ -8,11 +8,15 @@ uid: 461120
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/017/068/original/ALL_3_together_july_14_last_pic.png)
+
 # How To Obtain Transmittance/ Absorbance Spectra
 
 by [dhaffnersr](../profile/dhaffnersr)
 
 July 15, 2016 19:16 | Tags: [gam](../tag/gam)
+
+----
 
 **1)** Setup: 
   a) a full-spectrum light source (e.g. a white light LED). The light source has to cover    the_ full spectral range_ you want to measure

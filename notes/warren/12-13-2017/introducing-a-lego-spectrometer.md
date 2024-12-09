@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/022/930/original/PC051869.JPG)
+
 # Introducing a Lego Spectrometer
 
 by [warren](../profile/warren) December 13, 2017 17:34
 
 December 13, 2017 17:34 | Tags: [spectrometer](../tag/spectrometer), [kits](../tag/kits), [spectrometry](../tag/spectrometry), [blog](../tag/blog), [lego](../tag/lego), [lego-spectrometer](../tag/lego-spectrometer), [lego-quickstart](../tag/lego-quickstart)
+
+----
 
 We've been making and distributing [Do-It-Yourself spectrometers](http://store.publiclab.org/collections/spectrometry) since 2011, and have been through [4 major kit versions](/w/spectrometry) and hundreds of different community contributed modifications, new versions, changes, and more. As a community we've gotten really good at helping people **build a spectrometer**, but we need to do a huge amount more to support more advanced work, more rigorous and consistent experiments, and more consistent and better data collection.
 
@@ -90,4 +94,4 @@ But most of all, we're looking for well-documented guides on how to do different
 
 Try solving some of these challenges, or add your own!
 
-[questions:spectrometry-challenge]
+[spectrometry-challenge](../../tag/question:spectrometry-challenge)

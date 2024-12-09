@@ -8,11 +8,15 @@ uid: 9
 
 ---
 
+![](https://publiclab.org/sites/default/files/DualtestPondnoGS_0.jpg)
+
 # Vermont
 
 by [cfastie](../profile/cfastie), [liz](../profile/liz), [Shannon](../profile/Shannon)
 
 September 07, 2012 17:11 | Tags: [vermont](../tag/vermont), [events:vermont](../tag/events:vermont), [place](../tag/place), [chapter](../tag/chapter), [lon:-73.1085](../tag/lon:-73.1085), [lat:43.97391](../tag/lat:43.97391), [tabbed:notes](../tag/tabbed:notes), [tabbed:wikis](../tag/tabbed:wikis), [parent:northeast](../tag/parent:northeast), [notes:vermont](../tag/notes:vermont)
+
+----
 
 *Lead photo: Early experiments in Vermont with the Public Lab's infrared camera tool.*
 

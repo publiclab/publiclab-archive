@@ -8,11 +8,15 @@ uid: 4
 
 ---
 
+![](https://publiclab.org/sites/default/files/sun4 2.jpg)
+
 # Capturing full resolution webcam video on a mac
 
 by [mathew](../profile/mathew) March 21, 2013 22:07
 
 March 21, 2013 22:07 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [desktop-spectrometer](../tag/desktop-spectrometer)
+
+----
 
 [Quicky](http://b-l-a-c-k-o-p.com/Quicky.html) is a wonderful app that unleashes the Quicktime framework to do full-quality video recording out of a webcam at whatever the webcam's max resolution is.  I am so happy this exists, saving me the time of making my own crappy quartz composer app. 
 

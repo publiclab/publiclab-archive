@@ -14,6 +14,8 @@ by [justinmanley](../profile/justinmanley)
 
 September 19, 2014 19:31 | Tags: [mapknitter](../tag/mapknitter), [developers](../tag/developers), [coding](../tag/coding), [mapknitter-development](../tag/mapknitter-development), [parent:mapknitter](../tag/parent:mapknitter)
 
+----
+
 ## Goals ###
 
 ### Make MapKnitter more accessible to new users

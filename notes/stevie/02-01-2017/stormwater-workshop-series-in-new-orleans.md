@@ -8,11 +8,15 @@ uid: 422561
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/019/409/original/Screen_Shot_2017-02-01_at_11.29.49_AM.png)
+
 # Stormwater Workshop Series in New Orleans! 
 
 by [stevie](../profile/stevie) February 01, 2017 21:29
 
 February 01, 2017 21:29 | Tags: [gulf-coast](../tag/gulf-coast), [workshop](../tag/workshop), [new-orleans](../tag/new-orleans), [stormwater](../tag/stormwater), [flooding](../tag/flooding)
+
+----
 
 **Public Lab will be starting a new workshop series in New Orleans focusing on Stormwater and Flooding**! 
 

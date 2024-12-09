@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/011/169/original/Screenshot_2015-08-18_at_2.09.18_PM.png)
+
 # Preview of new Spectrums and Sets pages on Spectral Workbench
 
 by [warren](../profile/warren) August 18, 2015 18:37
 
 August 18, 2015 18:37 | Tags: [web-development](../tag/web-development), [software](../tag/software), [spectral-workbench](../tag/spectral-workbench), [development](../tag/development), [spectral-workbench-api](../tag/spectral-workbench-api)
+
+----
 
 Hi, all - I just deployed preview versions of the new Spectral Workbench 2.0 Sets and Spectrums pages, which are now linked to from the existing Sets and Spectrums pages with a button like this:
 

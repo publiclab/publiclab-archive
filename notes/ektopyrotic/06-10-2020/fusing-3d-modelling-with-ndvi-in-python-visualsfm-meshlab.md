@@ -8,11 +8,15 @@ uid: 699450
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/039/722/original/NDVIandNIR3DModelVideoTitleYoutube.png)
+
 # Fusing 3D Modelling with NDVI in Python + VisualSFM + Meshlab
 
 by [ektopyrotic](../profile/ektopyrotic) June 10, 2020 00:21
 
 June 10, 2020 00:21 | Tags: [3d](../tag/3d), [ndvi](../tag/ndvi), [photography](../tag/photography), [infrared](../tag/infrared), [photogrammetry](../tag/photogrammetry), [software](../tag/software), [near-infrared](../tag/near-infrared), [science](../tag/science), [garden](../tag/garden), [plants](../tag/plants), [camera](../tag/camera), [vegetation](../tag/vegetation), [environment](../tag/environment), [coding](../tag/coding), [eu](../tag/eu), [python](../tag/python), [physics](../tag/physics), [imaging](../tag/imaging), [model](../tag/model), [engineering](../tag/engineering), [virtual](../tag/virtual), [first-time-poster](../tag/first-time-poster), [zoom:4](../tag/zoom:4), [lat:53.349805](../tag/lat:53.349805), [lon:-6.260309](../tag/lon:-6.260309), [modelling](../tag/modelling), [visualsfm](../tag/visualsfm), [meshlab](../tag/meshlab), [augmented](../tag/augmented), [reality](../tag/reality), [cacti](../tag/cacti), [succulents](../tag/succulents)
+
+----
 
 Video Showcasing Use: [https://www.youtube.com/watch?v=GauAYvcdVPw](https://www.youtube.com/watch?v=GauAYvcdVPw)
 

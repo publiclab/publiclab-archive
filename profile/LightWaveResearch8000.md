@@ -3,6 +3,8 @@ uid: 510698
 created_at: 2017-07-10 15:33:49 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/510698/medium/Dyson_Swarm_-_2.png)
+
 # LightWaveResearch8000
 
 Paranormal research of time-slips and magnetic waves.  Interests in astrophotography.

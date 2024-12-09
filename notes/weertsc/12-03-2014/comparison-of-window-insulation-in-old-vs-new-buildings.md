@@ -8,11 +8,15 @@ uid: 432302
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/008/261/original/image10.jpeg)
+
 # Comparison of Window Insulation in Old vs New buildings
 
 by [weertsc](../profile/weertsc) December 03, 2014 19:05
 
 December 03, 2014 19:05 | Tags: [thermal-photography](../tag/thermal-photography), [thermal-flashlight](../tag/thermal-flashlight), [insulation](../tag/insulation), [windows](../tag/windows), [heat](../tag/heat), [replication:625](../tag/replication:625)
+
+----
 
 ###What I want to do
 

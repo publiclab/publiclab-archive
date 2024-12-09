@@ -3,6 +3,8 @@ uid: 431141
 created_at: 2014-11-07 23:18:08 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/431141/medium/uav-cop-draft1-57.jpg)
+
 # Mohamed
 
 I’m Mohamed AL Khatim Ahmed Aal . Computer & Information Engineer, having an experience over 13 years in Computer systems infrastructure /interactive media Productions & UAV Autonomous Aviation 

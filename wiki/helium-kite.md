@@ -14,6 +14,8 @@ by [mathew](../profile/mathew), [warren](../profile/warren)
 
 April 21, 2012 14:36 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [grassrootsmappingwiki](../tag/grassrootsmappingwiki), [diy-balloon](../tag/diy-balloon)
 
+----
+
 (copied from GrassrootsMapping Wiki)
 
 Prototype a helium-filled kite that flies in low wind but does not drop due to wind:

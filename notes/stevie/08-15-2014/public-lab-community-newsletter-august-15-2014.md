@@ -8,11 +8,15 @@ uid: 422561
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/006/311/original/plots-logo-text.gif)
+
 # Public Lab Community Newsletter August 15, 2014
 
 by [stevie](../profile/stevie) August 15, 2014 22:50
 
 August 15, 2014 22:50 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
+
+----
 
 Exciting news this week as Public Lab was selected as a Social Venture Network 2014 Innovation Award winner! The website was a flurry of updates with new projects and publications. Check out posts on the deployment of the Riffle, fluorescence fingerprinting and new features to mapknitter.org. All below!
  

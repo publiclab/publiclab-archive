@@ -8,11 +8,15 @@ uid: 751144
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/043/123/original/GSoC-icon-192.png)
+
 # GSoC 2021 Proposal - Education-related Usability Upgrades
 
 by [anirudhprabhakaran3](../profile/anirudhprabhakaran3) April 03, 2021 16:59
 
 April 03, 2021 16:59 | Tags: [gsoc](../tag/gsoc), [blog-submission](../tag/blog-submission), [soc](../tag/soc), [application](../tag/application), [first-time-poster](../tag/first-time-poster), [gsoc-2021-proposals](../tag/gsoc-2021-proposals)
+
+----
 
 #### GSoC 2021
 

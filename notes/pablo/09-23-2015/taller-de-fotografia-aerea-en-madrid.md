@@ -8,11 +8,15 @@ uid: 160
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/011/672/original/01_IMAG0291.jpg)
+
 # Taller de fotografía aérea en Madrid
 
 by [pablo](../profile/pablo) September 23, 2015 18:02
 
 September 23, 2015 18:02 | Tags: [balloon-mapping](../tag/balloon-mapping), [spain](../tag/spain), [workshop](../tag/workshop), [madrid](../tag/madrid), [event](../tag/event), [lang:es](../tag/lang:es), [eu](../tag/eu), [replication:14022](../tag/replication:14022)
+
+----
 
 Este fin de semana estaremos desde [Basurama](http://basurama.org/) haciendo un taller de acercamiento a la fotografía aérea con globos y cometas en Madrid. El [taller intensivo tendrá lugar en La Casa Encendida](http://www.lacasaencendida.es/es/cursos/fotografia-bajo-coste-desde-el-aire-4747) los dáis 26 y 27 de septiembre de 2015. Saldremos a fotografiar alguna plaza o parque cercano y compartiremos los resultados por aquí.
 

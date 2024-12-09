@@ -8,11 +8,15 @@ uid: 460113
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/013/294/original/ch5320.jpg)
+
 # Ozone sensor (MiCS-2614) and Blue light sensor (mini photocell)
 
 by [filimon_k](../profile/filimon_k) December 13, 2015 19:15
 
 December 13, 2015 19:15 | Tags: [arduino](../tag/arduino), [ozone](../tag/ozone), [first-time-poster](../tag/first-time-poster)
+
+----
 
 ###What I want to do
 

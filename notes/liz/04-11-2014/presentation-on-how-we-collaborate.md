@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/003/615/original/Screen_Shot_2014-04-10_at_11.47.06_PM.png)
+
 # Presentation on how we collaborate
 
 by [liz](../profile/liz) April 11, 2014 03:56
 
 April 11, 2014 03:56 | Tags: [collaboration](../tag/collaboration), [presentations](../tag/presentations), [presentation](../tag/presentation), [asia](../tag/asia), [taipei](../tag/taipei)
+
+----
 
 Joined the [OSDC.tw](http://osdc.tw/) community for their 2014 conference--such wonderful people here! Follow the twitter feed #osdctw
 

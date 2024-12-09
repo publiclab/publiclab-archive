@@ -14,4 +14,6 @@ by [gonzoearth](../profile/gonzoearth) December 12, 2012 01:34
 
 December 12, 2012 01:34 | Tags: 
 
+----
+
 <a href="http://mapbox.com/blog/open-aerial/">http://mapbox.com/blog/open-aerial/</a><br>

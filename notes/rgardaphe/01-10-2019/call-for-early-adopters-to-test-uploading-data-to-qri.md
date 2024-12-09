@@ -8,11 +8,15 @@ uid: 530432
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/028/696/original/Screen_Shot_2019-01-10_at_11.03.47_AM.png)
+
 # Call for early adopters to test uploading data to Qri
 
 by [rgardaphe](../profile/rgardaphe) January 10, 2019 16:21
 
 January 10, 2019 16:21 | Tags: [software](../tag/software), [opensource](../tag/opensource), [data](../tag/data), [open-data](../tag/open-data), [opendata](../tag/opendata), [first-time-poster](../tag/first-time-poster), [qri](../tag/qri)
+
+----
 
 Hi all! 
 

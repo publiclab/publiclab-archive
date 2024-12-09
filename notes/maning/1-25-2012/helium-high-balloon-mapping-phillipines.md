@@ -8,11 +8,15 @@ uid: 468
 
 ---
 
+![](https://publiclab.org/sites/default/files/picture-3.png)
+
 # Helium high: balloon mapping in the Philippines
 
 by [maning](../profile/maning) January 25, 2012 20:00
 
 January 25, 2012 20:00 | Tags: 
+
+----
 
 <em>This post has been syndicated from <a href="http://epsg4253.wordpress.com/2012/01/21/helium-high/">EPSG4253.wordpress.com</a>
 

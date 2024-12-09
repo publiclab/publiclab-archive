@@ -14,6 +14,8 @@ by [MarthaV](../profile/MarthaV) January 01, 2013 22:05
 
 January 01, 2013 22:05 | Tags: [troubleshooting](../tag/troubleshooting), [spectralworkbench](../tag/spectralworkbench)
 
+----
+
 being used by the Spectrometer software and not spectrometer webcam.  How do I fix this?
 
 Martha

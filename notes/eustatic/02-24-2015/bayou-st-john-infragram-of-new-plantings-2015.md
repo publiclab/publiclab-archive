@@ -8,11 +8,15 @@ uid: 379
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/009/074/original/a_IMAG0880_bsj_34.jpg)
+
 # Bayou St John Infragram of new plantings 2015
 
 by [eustatic](../profile/eustatic) February 24, 2015 18:24
 
 February 24, 2015 18:24 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [infrared](../tag/infrared), [infragram](../tag/infragram), [bsj](../tag/bsj), [bayou-st-john](../tag/bayou-st-john), [urbanwater](../tag/urbanwater), [urbanwaters](../tag/urbanwaters)
+
+----
 
 ###What I want to do
 

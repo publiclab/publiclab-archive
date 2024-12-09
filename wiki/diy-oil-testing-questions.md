@@ -14,6 +14,8 @@ by [warren](../profile/warren), [gretchengehrke](../profile/gretchengehrke)
 
 January 28, 2016 22:16 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [oil-testing-kit](../tag/oil-testing-kit), [draft](../tag/draft)
 
+----
+
 <div class="alert alert-info">This is Part I of <a href="/wiki/diy-oil-testing">DIY Oil Testing: Progress toward community oil pollution analysis</a></div>
 
 # I. Questions, Motivations, & Best Practices
@@ -28,7 +30,7 @@ There are many different questions which such a kit might attempt to answer, and
 
 These questions are being moved into the [Public Lab Q&A system](/questions) -- help out by copying the entire text of a question using the button below the following list:
 
-[questions:diy-oil-testing]
+[diy-oil-testing](../../tag/question:diy-oil-testing)
 
 ****
 

@@ -8,11 +8,15 @@ uid: 43651
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/018/488/original/riffle_20160517-5550-2.jpg)
+
 # Riffle: an Open Source Water Monitoring Approach
 
 by [warren](../profile/warren), [stevie](../profile/stevie), [pdhixenbaugh](../profile/pdhixenbaugh), [liz](../profile/liz), [donblair](../profile/donblair), [mathew](../profile/mathew), [bgamari](../profile/bgamari)
 
 January 31, 2014 23:37 | Tags: [agriculture](../tag/agriculture), [pvos](../tag/pvos), [mining](../tag/mining), [water-quality](../tag/water-quality), [water](../tag/water), [water-monitoring](../tag/water-monitoring), [water-quality-sensor](../tag/water-quality-sensor), [fracking](../tag/fracking), [tool](../tag/tool), [datalogger](../tag/datalogger), [riffle](../tag/riffle), [list:plots-waterquality](../tag/list:plots-waterquality), [open-water](../tag/open-water), [data-logging](../tag/data-logging), [activities:riffle](../tag/activities:riffle), [upgrades:riffle](../tag/upgrades:riffle), [method](../tag/method), [chemicals](../tag/chemicals), [oil-and-gas](../tag/oil-and-gas), [electronic-sensors](../tag/electronic-sensors), [parent:data-logging](../tag/parent:data-logging), [project:water-quality](../tag/project:water-quality)
+
+----
 
 The **Riffle** is a collection of designs that take an open source approach to water monitoring, with the intent of making gathering water information easier and more accessible. It is part of Public Lab's [Open Water Project](https://publiclab.org/wiki/open-water). (Lead image by @cfastie)
 
@@ -46,7 +50,7 @@ We've started to summarize some of the approaches to sensing water parameters li
 
 Here are some activities the Public Lab community has conducted using the Riffle
 
-[activities:riffle]
+[riffle](../../tag/activity:riffle)
 
 
 # Project Status
@@ -78,13 +82,13 @@ The following dataloggers also have a real time clock and log to a micro SD card
 
 ## Questions
 
-[questions:riffle]
+[riffle](../../tag/question:riffle)
 
 ****
 
 ###All updates related to the Riffle
 
-[notes:riffle]
+[riffle](../../tag/riffle)
 
 ****
 
@@ -92,10 +96,10 @@ The following dataloggers also have a real time clock and log to a micro SD card
 
 Since the Riffle is Arduino-compatible, here are also some Q&A for Arduinos in general:
 
-[questions:arduino]
+[arduino](../../tag/question:arduino)
 
 The Riffle is also a part of a larger area on data logging. Here are some Q&A asked more generally:
 
-[questions:data_logging]
+[data_logging](../../tag/question:data_logging)
 
-[questions:nano-data-logger]
+[nano-data-logger](../../tag/question:nano-data-logger)

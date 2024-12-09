@@ -14,6 +14,8 @@ by [cfastie](../profile/cfastie), [Juan](../profile/Juan), [cindy_excites](../pr
 
 March 08, 2012 21:21 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [photo-rig](../tag/photo-rig)
 
+----
+
 <a href="https://publiclab.org/sites/default/files/DSCN1670_0.jpg" title="Jessi Breen's Picavet"><img src="https://publiclab.org/sites/default/files/DSCN1670_0.jpg" width="500" height="375" alt="Jessi Breen's Picavet" /></a>
 
 The Picavet rig has a long history-- developed in the 19th century for kite aerial photography and rediscovered in the 1980's.  It uses a continuous loop of string through four points on a platform and 2 or 4 points above to automatically level a platform. 

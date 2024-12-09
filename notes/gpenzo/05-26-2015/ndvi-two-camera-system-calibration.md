@@ -8,11 +8,15 @@ uid: 420719
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/010/013/original/pic)
+
 # NDVI two camera system calibration
 
 by [gpenzo](../profile/gpenzo) May 26, 2015 21:25
 
 May 26, 2015 21:25 | Tags: 
+
+----
 
 ###What I want to do
 I have a [two camera](http://publiclab.org/notes/gpenzo/03-25-2015/ndvi-cape-for-the-beagle-bone) setup to capture NDVI images. Camera works fine.

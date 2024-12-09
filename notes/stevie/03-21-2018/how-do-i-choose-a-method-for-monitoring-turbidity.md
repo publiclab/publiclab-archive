@@ -14,6 +14,8 @@ by [stevie](../profile/stevie) March 21, 2018 14:32
 
 March 21, 2018 14:32 | Tags: [water-quality](../tag/water-quality), [turbidity](../tag/turbidity), [question:water-quality](../tag/question:water-quality), [question:water-sampling](../tag/question:water-sampling), [question:sample-collection](../tag/question:sample-collection), [question:turbidity](../tag/question:turbidity)
 
+----
+
 I've noticed there are a couple different methods for monitoring turbidity:
 
 - Secchi disks: where users putting a disk into a body of water and measuring the distance in the water until the disk is no longer visible. 

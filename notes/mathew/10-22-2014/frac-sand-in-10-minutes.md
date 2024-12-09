@@ -8,11 +8,15 @@ uid: 4
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/007/597/original/Screen_Shot_2014-10-21_at_1.21.15_PM.png)
+
 # Frac Sand in 10 minutes
 
 by [mathew](../profile/mathew) October 22, 2014 00:33
 
 October 22, 2014 00:33 | Tags: [air-quality](../tag/air-quality), [air](../tag/air), [monitoring](../tag/monitoring), [dust](../tag/dust), [silica](../tag/silica), [quality](../tag/quality), [frac-sand](../tag/frac-sand), [particle-monitoring](../tag/particle-monitoring), [barnstar:watchdog](../tag/barnstar:watchdog), [mid-west](../tag/mid-west), [particle](../tag/particle), [fracsand](../tag/fracsand), [parent:frac-sand](../tag/parent:frac-sand)
+
+----
 
 photo credit: Crispin Pierce PhD
 

@@ -8,11 +8,15 @@ uid: 443410
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/010/560/original/IMAG3048.jpg)
+
 # Thermal Fishing Bob: faster waterproofed temperature sensors
 
 by [lperovich](../profile/lperovich) July 07, 2015 22:20
 
 July 07, 2015 22:20 | Tags: [water-quality](../tag/water-quality), [thermal-fishing-bob](../tag/thermal-fishing-bob), [thermal](../tag/thermal), [thermal-pollution](../tag/thermal-pollution), [heat](../tag/heat), [replication:689](../tag/replication:689)
+
+----
 
 **Goal:** 
 Test alternative (smaller!) temperature sensors for the thermal fishing bob to achieve faster temperature measurements.

@@ -8,11 +8,15 @@ uid: 379
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/007/617/original/nature-center-infrag_old.jpg)
+
 # Mapping the Nature Center
 
 by [eustatic](../profile/eustatic) October 24, 2014 02:01
 
 October 24, 2014 02:01 | Tags: [gulf-coast](../tag/gulf-coast), [balloon-mapping](../tag/balloon-mapping), [mobius](../tag/mobius), [urbanwaters](../tag/urbanwaters), [epaurbanwater](../tag/epaurbanwater)
+
+----
 
 ###What I want to do
 

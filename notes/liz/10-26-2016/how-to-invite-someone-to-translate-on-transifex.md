@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/018/592/original/Screen_Shot_2016-10-26_at_10.00.56_AM.png)
+
 # Invite someone to translate on Transifex (managers)
 
 by [liz](../profile/liz) October 26, 2016 14:52
 
 October 26, 2016 14:52 | Tags: [community](../tag/community), [website](../tag/website), [activity](../tag/activity), [localization](../tag/localization), [translation](../tag/translation), [language](../tag/language), [activity:localization-managers](../tag/activity:localization-managers)
+
+----
 
 This activity is for managers of Public Lab's Transifex project. Please leave a comment if you would like to help manage this project. When you have completed this activity, you will know how to invite a new person into Transifex, and you will know what that person will be emailed from the Transifex platform. 
 

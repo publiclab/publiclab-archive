@@ -3,6 +3,8 @@ uid: 494213
 created_at: 2016-10-12 03:33:10 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/da566f0ba7693fe0d2a203d8fc803265)
+
 # ashwinvasudevan
 
 

@@ -14,6 +14,8 @@ by [Shannon](../profile/Shannon) January 14, 2013 16:26
 
 January 14, 2013 16:26 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
 
+----
+
 Lots of updates in the Public Lab community newsletter this week... WinterCamp is moving along at a rapid pace with great projects in the works, media mentions include a Kickstarter "best of", and the 200th public domain map was just posted (it was also the highest resolution map to date!).
 
 1. WinterCamp next week. [WinterCamp](http://publiclaboratory.org/wiki/2013-wintercamp-new-orleans-and-cocodrie-la) has been flying by, but there's still one week left to go. This past week we worked on kite building, filmed footage for tutorials on flying kites from small boats (don't worry, there will be a bloopers reel), map annotation, developing a landing page for new users on the website and building out workbooks on organizing around use of a Public Lab tool. This upcoming week, these ideas will be further developed and we'll be holding additional sessions on co-teaching models, advocacy and education. 

@@ -14,6 +14,8 @@ by [mathew](../profile/mathew) February 23, 2017 01:12
 
 February 23, 2017 01:12 | Tags: [air-quality](../tag/air-quality), [answered](../tag/answered), [ozone](../tag/ozone), [question:question](../tag/question:question)
 
+----
+
 I got an e-mail asking if I knew any EPA-approved low-cost methods for monitoring ozone. I don't, but I figured it wouldn't be too hard to find the list of Federal Equivalent Methods (FEM) and Federal Reference Methods (FRM).  I was wrong. 
 
 I found a place where the EPA says they should have a [list of FEMs and FRMs](https://www3.epa.gov/ttnamti1/files/ambient/criteria/reference-equivalent-methods-list.pdf), but the file is missing.  I filed an error report.

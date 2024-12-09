@@ -14,6 +14,8 @@ by [icode365](../profile/icode365) July 26, 2019 00:46
 
 July 26, 2019 00:46 | Tags: [gsoc](../tag/gsoc), [community-toolbox](../tag/community-toolbox), [gsoc-2019](../tag/gsoc-2019), [soc-2019](../tag/soc-2019), [soc-2019-eval](../tag/soc-2019-eval)
 
+----
+
 It's been a great learning experience working on community-toolbox so far. Some features really ask you a lot of questions like how good is the compatibility, are structural changes breaking the desired code maintainability or do we really have to adopt a different way to achieve things for the sake of efficient performance. I really love that. User's convenience and easy to read code must go hand in hand.
 
 Okay, so all of my work is listed below for quick reference.

@@ -8,11 +8,15 @@ uid: 672574
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/038/647/original/outi.png)
+
 # Outreachy proposal: Optimize perofrmance and accessibility of Public Lab content
 
 by [opetunde_adepoju](../profile/opetunde_adepoju) March 19, 2020 11:40
 
 March 19, 2020 11:40 | Tags: [software](../tag/software), [soc](../tag/soc), [outreachy](../tag/outreachy), [first-time-poster](../tag/first-time-poster), [soc-2020](../tag/soc-2020), [outreachy-2020](../tag/outreachy-2020), [outreachy-2020-proposals](../tag/outreachy-2020-proposals), [response:23084](../tag/response:23084)
+
+----
 
 # About Me
 

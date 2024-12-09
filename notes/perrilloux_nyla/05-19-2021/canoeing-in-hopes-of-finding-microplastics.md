@@ -8,10 +8,14 @@ uid: 745903
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/043/848/original/image0_%282%29.jpeg)
+
 # Canoeing in hopes of finding microplastics!
 
 by [perrilloux_nyla](../profile/perrilloux_nyla) May 19, 2021 16:12
 
 May 19, 2021 16:12 | Tags: [first-time-poster](../tag/first-time-poster), [zoom:4](../tag/zoom:4), [chipmunkscityparkproject](../tag/chipmunkscityparkproject), [lat:30.003838](../tag/lat:30.003838), [lon:-90.097193](../tag/lon:-90.097193)
+
+----
 
 My canoe partner and I were rowing for a really long time, and we were the last ones of the group to come back on land. However, while we were out on the water, we saw multiple water bottles, cardboard boxes, and small (and big) pieces of paper.

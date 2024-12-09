@@ -8,11 +8,15 @@ uid: 499882
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/019/049/original/mercator-ae2-cropped.jpg)
+
 # RocketPi - a Raspberry Pi based Video Flight Recorder and Live Video Telemetry Transmitter
 
 by [jfd](../profile/jfd) December 14, 2016 08:42
 
 December 14, 2016 08:42 | Tags: [raspberry-pi](../tag/raspberry-pi), [infragram](../tag/infragram), [infragram-conversion](../tag/infragram-conversion), [infragram-filters](../tag/infragram-filters), [infragram-camera-testing](../tag/infragram-camera-testing), [pi-camera](../tag/pi-camera), [raspberry-pi-infragram](../tag/raspberry-pi-infragram)
+
+----
 
 ###What I want to do
 Realtime Infragram

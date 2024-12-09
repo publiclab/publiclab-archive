@@ -8,11 +8,15 @@ uid: 428234
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/006/740/original/bayou-plaquemines.jpg)
+
 # Balloon Mapping Bayou Plaquemines
 
 by [gkdavis](../profile/gkdavis) September 11, 2014 19:08
 
 September 11, 2014 19:08 | Tags: [gulf-coast](../tag/gulf-coast), [balloon-mapping](../tag/balloon-mapping), [washustlouis](../tag/washustlouis), [washu-stlouis](../tag/washu-stlouis)
+
+----
 
 This is a map from a 3000 ft high balloon sent up mid day on September 10, 2014.  Beautiful weather, sunny, and barely windy.  A crew of 7 people, 6 of them architecture students at Washington University in St. Louis.  The ballon was in the air for about 45 minutes.  
 

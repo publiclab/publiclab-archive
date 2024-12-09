@@ -8,11 +8,15 @@ uid: 435583
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/009/086/original/salty.PNG)
+
 # Mehak, Virginia, & Tori  Conductivity Research Summary
 
 by [mehaky](../profile/mehaky) February 25, 2015 16:32
 
 February 25, 2015 16:32 | Tags: [video](../tag/video), [conductivity](../tag/conductivity), [salt](../tag/salt), [coqui](../tag/coqui), [mission-hill](../tag/mission-hill), [replication:11213](../tag/replication:11213)
+
+----
 
 ### [Class Wiki](http://publiclab.org/wiki/research-into-chloride-in-boston-with-journalism-class)
 

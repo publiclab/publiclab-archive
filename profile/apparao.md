@@ -3,6 +3,8 @@ uid: 533038
 created_at: 2018-05-03 13:11:28 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/c04d6d8cd22f0132caf874304a4fb2e6)
+
 # apparao
 
 I am a farmer living in South India practicing precision farming techniques. I grow citrus, banana and mango. I am an engineer by education.

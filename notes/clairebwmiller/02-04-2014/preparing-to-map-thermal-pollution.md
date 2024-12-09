@@ -8,11 +8,15 @@ uid: 420611
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/002/766/original/IMG_20140203_203151.jpg)
+
 # Preparing to map thermal pollution
 
 by [clairebwmiller](../profile/clairebwmiller) February 04, 2014 16:59
 
 February 04, 2014 16:59 | Tags: [thermal-photography](../tag/thermal-photography), [tac](../tag/tac), [thermal-imaging](../tag/thermal-imaging), [flir](../tag/flir), [thermal-pollution](../tag/thermal-pollution)
+
+----
 
 The goal of this project is to have an image of thermal water pollution.
 Yesterday, myself and Jeff hooked up a laptop to a thermal camera- connected them both to my car's cigarette lighter- and went for a drive.

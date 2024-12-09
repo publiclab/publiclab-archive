@@ -8,11 +8,15 @@ uid: 447491
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/013/364/original/IMG_3571.JPG)
+
 # "Judo Rig" for aerial photography
 
 by [tonyc](../profile/tonyc) December 17, 2015 00:15
 
 December 17, 2015 00:15 | Tags: [kite-aerial-photography](../tag/kite-aerial-photography), [camera-rig-tests](../tag/camera-rig-tests), [aerial-photography](../tag/aerial-photography), [photo-rig](../tag/photo-rig), [diy-mount-kit](../tag/diy-mount-kit), [activity:photo-rig](../tag/activity:photo-rig)
+
+----
 
 ###What I want to do
 Not break my camera when it crashes to earth, especially on a rough landing from a kite mission.

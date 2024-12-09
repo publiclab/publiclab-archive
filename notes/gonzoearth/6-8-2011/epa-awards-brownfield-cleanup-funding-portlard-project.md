@@ -14,4 +14,6 @@ by [gonzoearth](../profile/gonzoearth) June 08, 2011 18:05
 
 June 08, 2011 18:05 | Tags: [portland](../tag/portland), [epa](../tag/epa)
 
+----
+
 <a href="http://www.neighborhoodnotes.com/news/2011/06/portland_gets_brownfield_cleanup_help/">http://www.neighborhoodnotes.com/news/2011/06/portland_gets_brownfield_cleanup_help/</a>

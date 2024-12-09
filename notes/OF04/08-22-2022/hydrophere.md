@@ -8,11 +8,15 @@ uid: 810245
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/047/050/original/1200px-Big_Spring_Missouri_1-02Aug08.jpg)
+
 # Hydrophere
 
 by [OF04](../profile/OF04) August 22, 2022 13:40
 
 August 22, 2022 13:40 | Tags: [mississippi-river](../tag/mississippi-river), [first-time-poster](../tag/first-time-poster), [zoom:6](../tag/zoom:6), [lat:30.053813](../tag/lat:30.053813), [lon:-90.551753](../tag/lon:-90.551753)
+
+----
 
 The current world population is 7,969,210,034. There are 779,744,052 people with no access to a safe drinking water source. 
 

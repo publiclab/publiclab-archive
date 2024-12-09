@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/011/950/original/Screenshot_2015-10-14_at_2.24.32_PM.png)
+
 # Week 3: Recap from Oil Testing Kit Beta Program weekly chat
 
 by [warren](../profile/warren) October 14, 2015 18:27
 
 October 14, 2015 18:27 | Tags: [spectrometer](../tag/spectrometer), [calibration](../tag/calibration), [oil](../tag/oil), [fluorescence](../tag/fluorescence), [list:plots-spectrometry](../tag/list:plots-spectrometry), [oil-testing-kit](../tag/oil-testing-kit), [oil-testing-kit-beta](../tag/oil-testing-kit-beta), [response:12280](../tag/response:12280)
+
+----
 
 Hi, all -- we had a quick chat today and folks are preparing samples and troubleshooting the scanning process. Please post your data as you go, and/or ask for help on the spectrometry list (see in sidebar to left)!
 

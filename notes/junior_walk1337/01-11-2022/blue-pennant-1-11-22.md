@@ -14,6 +14,8 @@ by [junior_walk1337](../profile/junior_walk1337) January 11, 2022 20:21
 
 January 11, 2022 20:21 | Tags: [drones](../tag/drones), [west-virginia](../tag/west-virginia), [coal](../tag/coal), [land-use](../tag/land-use), [wv](../tag/wv), [mmmp](../tag/mmmp)
 
+----
+
 <iframe width="1280" height="675" src="https://www.youtube.com/embed/LZZfRp1zdqU" frameborder="0" allowfullscreen=""></iframe>
 
   

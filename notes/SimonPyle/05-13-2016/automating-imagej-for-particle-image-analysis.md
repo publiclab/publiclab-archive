@@ -8,11 +8,15 @@ uid: 468943
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/016/180/original/MacroProcess.gif)
+
 # Automating ImageJ for particle image analysis
 
 by [SimonPyle](../profile/SimonPyle) May 13, 2016 23:33
 
 May 13, 2016 23:33 | Tags: [image-processing](../tag/image-processing), [dust](../tag/dust), [silica](../tag/silica), [pm](../tag/pm), [particle-sensing](../tag/particle-sensing), [image-analysis](../tag/image-analysis), [microscope](../tag/microscope), [passive-particle-monitors](../tag/passive-particle-monitors), [passive-pm](../tag/passive-pm), [activity:microscope](../tag/activity:microscope), [microscopes](../tag/microscopes), [activity:microscopes](../tag/activity:microscopes), [particle-imaging](../tag/particle-imaging), [particle-analysis](../tag/particle-analysis)
+
+----
 
 ###What I want to do
 Measuring air quality with passive particle collectors requires an accurate count of the size and number of particles collected. [ImageJ](https://imagej.nih.gov/ij/) (or [Fiji](http://fiji.sc/)) has tools that speed up this analysis, but a series of steps must be applied to each image for analysis. A single slide can result in dozens of photographs to cover the entire sample area, so we want to automate this process as much as possible.

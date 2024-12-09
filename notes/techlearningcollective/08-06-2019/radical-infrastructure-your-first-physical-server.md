@@ -8,11 +8,15 @@ uid: 608717
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/034/383/original/workshop.radical-infrastructures.your-first-physical-server.rectangle.png)
+
 # Radical Infrastructure: Your First Physical Server
 
 by [techlearningcollective](../profile/techlearningcollective) August 06, 2019 19:01
 
 August 06, 2019 19:01 | Tags: [education](../tag/education), [pedagogy](../tag/pedagogy), [event](../tag/event), [workshops](../tag/workshops), [infrastructure](../tag/infrastructure), [techlearningcollective](../tag/techlearningcollective), [autonomy](../tag/autonomy), [intensives](../tag/intensives), [lat:40.704224](../tag/lat:40.704224), [lon:-73.986675](../tag/lon:-73.986675)
+
+----
 
 # Radical Infrastructures: Your First Physical Server
 

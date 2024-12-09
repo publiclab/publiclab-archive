@@ -8,11 +8,15 @@ uid: 521037
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/024/132/original/IMG-8306.JPG)
+
 # Recent Community science workshop in FL
 
 by [ChristianWagley](../profile/ChristianWagley) March 22, 2018 15:47
 
 March 22, 2018 15:47 | Tags: [response:15641](../tag/response:15641)
+
+----
 
 The Public Lab workshop on aerial mapping held on Indian Bayou in FL was a great success! Stevie of Public Lab did a great job leading us onsite and in the classroom. We used Indian Bayou--a water body facing sedimentation issues from nearby road construction--as our focus. And we only had one kite go down, but all was recovered :-). We had folks from two local universities and several nonprofits in attendance, and a variety of research needs were discussed that will be able to utilize these methods. 
 

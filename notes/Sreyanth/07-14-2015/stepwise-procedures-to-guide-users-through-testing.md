@@ -8,11 +8,15 @@ uid: 96713
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/010/681/original/MainImage.png)
+
 # Stepwise procedures to guide users through testing
 
 by [Sreyanth](../profile/Sreyanth) July 14, 2015 18:06
 
 July 14, 2015 18:06 | Tags: [spectral-workbench](../tag/spectral-workbench), [barnstar:basic](../tag/barnstar:basic)
+
+----
 
 ###What I want to do
 I wanted to create a new module for SpectralWorkbench, to guide the users through testing, and also help them document their work in a well-mannered fashion. This also attempts to reduce manual intervention as much as possible, by automating several steps.

@@ -8,11 +8,15 @@ uid: 578478
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/040/689/original/OpticCube4.3.svg)
+
 # PiCamera filter mounting system.
 
 by [wln215](../profile/wln215) August 25, 2020 23:22
 
 August 25, 2020 23:22 | Tags: [raspberry-pi](../tag/raspberry-pi), [barnstar:basic](../tag/barnstar:basic), [pi-camera](../tag/pi-camera), [raspberry-pi-infragram](../tag/raspberry-pi-infragram), [activity:raspberry-pi-infragram](../tag/activity:raspberry-pi-infragram)
+
+----
 
 I made a laser cut mounting system for the RaspberryPi Zero and Camera with quick swap filters.
 https://github.com/wln215/opticcube/blob/master/svg/OpticCube4.3.svg

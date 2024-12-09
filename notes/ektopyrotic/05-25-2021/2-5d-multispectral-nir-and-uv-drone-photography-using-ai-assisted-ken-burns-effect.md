@@ -14,6 +14,8 @@ by [ektopyrotic](../profile/ektopyrotic) May 25, 2021 17:44
 
 May 25, 2021 17:44 | Tags: [3d](../tag/3d), [nir](../tag/nir), [photography](../tag/photography), [uv](../tag/uv), [processing](../tag/processing), [drone](../tag/drone), [lat:28](../tag/lat:28), [image](../tag/image), [visual](../tag/visual), [inspection](../tag/inspection), [zoom:6](../tag/zoom:6), [lon:-15](../tag/lon:-15)
 
+----
+
 [https://www.youtube.com/watch?v=ZKsbBRVgciU](https://www.youtube.com/watch?v=ZKsbBRVgciU)  
 In this video I showcase an interesting image processing technology where one can create AI-assisted computer generated 2.5D animations using single high definition images taken using a modified drone with multispectral imaging capability (in Visible, Near-Infrared and Near-Ultravioltet). The result is a immersive 3D zoom and scan experience.
 The so-called "Ken Burns" effect allows animating still images with a virtual camera scan and zoom. Adding parallax, which results in the 3D Ken Burns effect, enables one to simulate depth in certain regions of the image where there is a clear distinction between objects in the foreground and background. Creating such effects manually is time-consuming and demands sophisticated editing skills.

@@ -8,11 +8,15 @@ uid: 488474
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/026/495/original/KidPhoto2_2.5_tight-crop_400x267.png)
+
 # Crowdsourcing lead testing in NYC parks and playgrounds
 
 by [smmontgom](../profile/smmontgom) September 08, 2018 12:57
 
 September 08, 2018 12:57 | Tags: [new-york-city](../tag/new-york-city), [water-sensing](../tag/water-sensing), [heavy-metals](../tag/heavy-metals), [water-quality](../tag/water-quality), [open-water](../tag/open-water), [northeast](../tag/northeast), [lead](../tag/lead), [lead-testing](../tag/lead-testing), [lat:40.712775](../tag/lat:40.712775), [lon:-74.005972](../tag/lon:-74.005972), [place:new-york-ny-usa](../tag/place:new-york-ny-usa)
+
+----
 
 I've been working with a small group of volunteers on a project to test NYC public drinking fountains for lead and I'm happy to announce that our website is live and tracking lead test results as they come in! [https://www.citizenspring.org/](https://www.citizenspring.org/)
 

@@ -8,11 +8,15 @@ uid: 439055
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/023/424/original/plastic.jpg)
+
 # How can I identify bits of plastic from the beach in an image?
 
 by [jlev](../profile/jlev) February 01, 2018 00:52
 
 February 01, 2018 00:52 | Tags: [image-processing](../tag/image-processing), [waste](../tag/waste), [micro-plastics](../tag/micro-plastics), [question:general](../tag/question:general), [question:microscope](../tag/question:microscope), [beach](../tag/beach), [question:microplastics](../tag/question:microplastics), [microplastics](../tag/microplastics), [plastics](../tag/plastics), [particle-imaging](../tag/particle-imaging), [polymers](../tag/polymers), [question:image-sequencer](../tag/question:image-sequencer), [question:waste](../tag/question:waste), [question:plastics](../tag/question:plastics)
+
+----
 
 A friend at Greenpeace asked me if there's a way to automate counting micro-plastic particles from beach surveys.
 

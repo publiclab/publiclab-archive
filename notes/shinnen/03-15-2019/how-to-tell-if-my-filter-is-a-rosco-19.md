@@ -14,6 +14,8 @@ by [shinnen](../profile/shinnen) March 15, 2019 23:38
 
 March 15, 2019 23:38 | Tags: [infragram](../tag/infragram), [seeks:replications](../tag/seeks:replications), [activity:infragram](../tag/activity:infragram)
 
+----
+
 Hi,  
 I have a filter that 'appears' to be the same colour as the Rosco 19 filter, on the Rosco website. How can I tell if it is the same colour?  
 Thanks,  

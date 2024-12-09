@@ -8,11 +8,15 @@ uid: 481
 
 ---
 
+![](https://publiclab.org/sites/default/files/CIMG2082.jpg)
+
 # Kite Mapping Workshops in Puno, Peru - Pt. 2: Univ. Nacional Altiplano, Jayllihuaha Mapping
 
 by [anita](../profile/anita) March 21, 2012 17:54
 
 March 21, 2012 17:54 | Tags: [self-made-kite-mapping](../tag/self-made-kite-mapping), [rural-mapping](../tag/rural-mapping), [rural-government-collaboration](../tag/rural-government-collaboration)
+
+----
 
 (traducion al espanol abajo)
 

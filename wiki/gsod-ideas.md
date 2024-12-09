@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/039/224/original/gsod.png)
+
 # GSoD Ideas
 
 by [bansal_sidharth2996](../profile/bansal_sidharth2996), [geekychaser](../profile/geekychaser), [rexagod](../profile/rexagod), [gauravano](../profile/gauravano), [warren](../profile/warren)
 
 April 22, 2019 15:24 | Tags: [documentation](../tag/documentation), [gsoc](../tag/gsoc), [google](../tag/google), [parent:gsoc](../tag/parent:gsoc), [wwg](../tag/wwg), [gsod](../tag/gsod)
+
+----
 
 This is the ideas page for Public Lab's [Google Season of Doc program](/gsod), programs for technical writer fellows to work on free and open source projects. 
 

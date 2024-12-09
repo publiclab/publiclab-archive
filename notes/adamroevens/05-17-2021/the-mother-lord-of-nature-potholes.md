@@ -14,6 +14,8 @@ by [adamroevens](../profile/adamroevens) May 17, 2021 16:34
 
 May 17, 2021 16:34 | Tags: [issue-brief](../tag/issue-brief), [zoom:6](../tag/zoom:6), [with:kevinmarinello](../tag/with:kevinmarinello), [with:rayfieldlotten](../tag/with:rayfieldlotten), [lat:30.003812](../tag/lat:30.003812), [lon:-90.059059](../tag/lon:-90.059059)
 
+----
+
 ### Introduction:
 
 ### \*\*

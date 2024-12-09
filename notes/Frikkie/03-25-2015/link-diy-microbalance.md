@@ -8,11 +8,15 @@ uid: 435693
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/009/405/original/images.jpg)
+
 # Link: DIY Microbalance
 
 by [Frikkie](../profile/Frikkie) March 25, 2015 10:34
 
 March 25, 2015 10:34 | Tags: [analytical_balance](../tag/analytical_balance), [weighing](../tag/weighing)
+
+----
 
 I found this on YOUTUBE and think it is worth sharing.  
 https://www.youtube.com/watch?v=ta7nlkI5K5g  

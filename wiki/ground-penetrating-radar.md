@@ -14,6 +14,8 @@ by [marlokeno](../profile/marlokeno), [KPed](../profile/KPed), [bodacea](../prof
 
 November 20, 2013 22:45 | Tags: [radar](../tag/radar), [ground-penetrating-radar](../tag/ground-penetrating-radar)
 
+----
+
 Write up of notes from summer 2013 about locating unmarked graves with ground-penetrating radar.  There might be some other uses for this, including amateur archaeology. 
 
 ##Why is this interesting?

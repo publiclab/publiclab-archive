@@ -8,11 +8,15 @@ uid: 54025
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/015/689/original/STest_CFL-15ptTimeAvgSNR.gif)
+
 # Spectrometer Noise Solution?
 
 by [stoft](../profile/stoft) April 20, 2016 23:47
 
 April 20, 2016 23:47 | Tags: [spectrometer](../tag/spectrometer), [webcam](../tag/webcam), [desktop-spectrometer](../tag/desktop-spectrometer), [noise-reduction](../tag/noise-reduction), [signal-to-noise-ratio](../tag/signal-to-noise-ratio), [noise](../tag/noise)
+
+----
 
 **Abstract**
 

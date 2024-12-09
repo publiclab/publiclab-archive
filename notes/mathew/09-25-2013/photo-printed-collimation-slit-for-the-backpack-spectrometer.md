@@ -8,11 +8,15 @@ uid: 4
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/001/671/original/9925545636_602ee6e16d_z.jpg)
+
 # Photo-printed collimation slit for the Backpack Spectrometer 
 
 by [mathew](../profile/mathew) September 25, 2013 02:02
 
 September 25, 2013 02:02 | Tags: [spectrometer](../tag/spectrometer), [slit](../tag/slit), [stepped-slit](../tag/stepped-slit), [slit-width](../tag/slit-width)
+
+----
 
 ##What I want to do
 Photo emulsion print a more accurate collimation slit based on ideas from [Jeff](/profile/warren) and [Dave Stoft](/profile/stoft).  Photoprinting was done by Camera Graphics in Portland, depositing silver halides on an acetate sheet.  since the deposition layer is extremely thin, it would constitute a superior slit to a cut material.  By being slightly reflective, acetate will also help minimize chromatic aberations and internal reflections.

@@ -8,11 +8,15 @@ uid: 422561
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/029/562/original/D0Hs-A2WoAAcRvH.jpg)
+
 # Barnraising Texas 2019
 
 by [liz](../profile/liz), [Shannon](../profile/Shannon), [joyofsoy](../profile/joyofsoy), [stevie](../profile/stevie), [warren](../profile/warren)
 
 October 02, 2018 20:59 | Tags: [gulf-coast](../tag/gulf-coast), [barnraising](../tag/barnraising), [parent:barnraising](../tag/parent:barnraising), [texas](../tag/texas), [houston](../tag/houston), [tejas](../tag/tejas), [barnraising-texas-2019](../tag/barnraising-texas-2019), [galveston](../tag/galveston), [dataforblacklives](../tag/dataforblacklives), [txbarnraising](../tag/txbarnraising), [txbr](../tag/txbr)
+
+----
 
 This event occurred February 22-24, 2019 in Galveston and Houston, Texas, USA.  
 Organizing partners include Bryan Parras, Reverend James Caldwell, and Eduardo Luna Lopez. 
@@ -175,7 +179,7 @@ At the event, barnraising participants can expect to: improve social ties throug
 
 We’ll arrange our schedule of activities based on the topics and questions people bring to the event. Share your questions early to start collaborating with others below!
 
-[questions:texas-barnraising] 
+[texas-barnraising](../../tag/question:texas-barnraising) 
 
 ###Event Committees
 This event relies on its participants to help make it happen. Sign up for a committee in your registration to help support the event!

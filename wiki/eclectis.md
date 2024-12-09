@@ -14,6 +14,8 @@ by [warren](../profile/warren)
 
 September 19, 2013 11:49 | Tags: [waagsociety](../tag/waagsociety), [amsterdam](../tag/amsterdam), [event](../tag/event), [infragram](../tag/infragram), [waag](../tag/waag)
 
+----
+
 ###Workshop images
 
 [![IMG_1734.JPG](https://i.publiclab.org/system/images/photos/000/001/624/medium/IMG_1734.JPG)](https://i.publiclab.org/system/images/photos/000/001/624/original/IMG_1734.JPG)

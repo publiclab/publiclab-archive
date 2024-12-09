@@ -3,6 +3,8 @@ uid: 515357
 created_at: 2017-09-28 15:40:58 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/515357/medium/JJCinFrontofTCC.png)
+
 # jjcreedon
 
 Im a mom, a scientist and and environmental activist. In 2005, my neighbors and I used "the bucket" to test our air... we used the data we collected and worked with our local officials to harness a huge reduction in air pollution in our community (benzene reduced by 92%). Today, Im director at a non for profit in WNY called Citizen Science Community Resources, Inc. Using our success and the knowledge we learned, we help others that face similar environmental threats in their community. Check out our story and our soil sampling test kit: csresources.org

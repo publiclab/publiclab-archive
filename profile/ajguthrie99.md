@@ -3,6 +3,8 @@ uid: 716372
 created_at: 2020-08-25 18:01:23 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/69ae79a7b7198d9865276cd3cdcbed15)
+
 # ajguthrie99
 
 I am a senior Biochemistry and Psychology double major at UMass Amherst, and since I am entering my last year at UMass I am going to be completing a thesis creating a product to observe or obtain scientific data. 

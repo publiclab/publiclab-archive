@@ -14,6 +14,8 @@ by [kaustubh_nair](../profile/kaustubh_nair) July 21, 2019 18:32
 
 July 21, 2019 18:32 | Tags: [gsoc](../tag/gsoc), [soc](../tag/soc), [gsoc-2019](../tag/gsoc-2019), [soc-2019](../tag/soc-2019), [gsoc-19](../tag/gsoc-19), [soc-2019-eval](../tag/soc-2019-eval)
 
+----
+
 For GSoC 19, here's my update for Phase 2 of the project Mapknitter Rails upgrade. The work as been going amazing and we are quite ahead of schedule!
 
 # Rails 5

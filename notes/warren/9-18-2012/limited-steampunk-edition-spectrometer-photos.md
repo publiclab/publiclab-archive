@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/00.JPG)
+
 # Limited "Steampunk edition" spectrometer - photos
 
 by [warren](../profile/warren) September 18, 2012 13:17
 
 September 18, 2012 13:17 | Tags: [spectrometer](../tag/spectrometer)
+
+----
 
 <em>Read the [original update on Kickstarter]()</em> 
 

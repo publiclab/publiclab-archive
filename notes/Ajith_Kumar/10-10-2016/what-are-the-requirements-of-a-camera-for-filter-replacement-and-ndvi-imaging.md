@@ -14,6 +14,8 @@ by [Ajith_Kumar](../profile/Ajith_Kumar) October 10, 2016 10:29
 
 October 10, 2016 10:29 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [filter](../tag/filter), [infragram](../tag/infragram), [cameras](../tag/cameras), [question:infragram](../tag/question:infragram), [answered](../tag/answered), [question:infrared](../tag/question:infrared)
 
+----
+
 ###What I want to do or know
 I came across a lot of cameras for which are suitable to be converted into NDVI camera. But, technically i couldn't find any notes stating the requirements of camera suitable for filter replacement. So, Please suggest the list of features which a camera should incorporate for Filter replacement and NDVI imaging.
 ###Background story

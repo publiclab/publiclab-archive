@@ -14,6 +14,8 @@ by [Shannon](../profile/Shannon) November 19, 2012 16:58
 
 November 19, 2012 16:58 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
 
+----
+
 Hope that everyone is having a great start to their weekend! This week in the Public Lab community newsletter, we have enough exciting updates to keep you away from that late Saturday afternoon nap... an environmental summit in Vermont, using aerial images to dispute development of a mass grave site, grant money for all those great ideas you have floating around in your head and lots of interesting research notes (including DIY cotton candy making). Enjoy!
 
 1. Wrap-up of the barn raising. Cindy Regalado, from University College London, ExCiteS [wrote a great wrap-up])http://uclexcites.wordpress.com/2012/11/10/strengthening-community-plots-barn-raising-2012/) of the weekend that she spent in Cocodrie with thirty other Public Lab community members. Notes have also just been posted from other sessions: [oil response toolkit brainstorm](http://www.publiclaboratory.org/notes/mathew/11-15-2012/barnraising-oil-response-toolkit-brainstorm), [ethics of practice](http://www.publiclaboratory.org/notes/mathew/11-15-2012/barnraising-ethics-practice) and [talking Gowanus Canal](http://www.publiclaboratory.org/notes/mathew/11-15-2012/barnraising-liz-barry-talks-gowanus-canal). 

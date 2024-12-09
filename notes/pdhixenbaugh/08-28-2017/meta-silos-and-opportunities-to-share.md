@@ -8,11 +8,15 @@ uid: 459085
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/021/455/original/oil-silo-home-conversion.jpg)
+
 # [Meta] Silos and opportunities to Share
 
 by [pdhixenbaugh](../profile/pdhixenbaugh) August 28, 2017 00:20
 
 August 28, 2017 00:20 | Tags: [community](../tag/community), [publiclab](../tag/publiclab), [meta](../tag/meta), [organization](../tag/organization)
+
+----
 
 > "I didn't know you were working on that!"
 

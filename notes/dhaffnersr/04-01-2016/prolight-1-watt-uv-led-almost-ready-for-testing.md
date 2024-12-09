@@ -8,11 +8,15 @@ uid: 461120
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/015/272/original/circuit_in_operation.JPG)
+
 # Prolight 1 Watt UV LED almost ready for testing...
 
 by [dhaffnersr](../profile/dhaffnersr) April 01, 2016 15:40
 
 April 01, 2016 15:40 | Tags: 
+
+----
 
 I finally got the high brightness 1W UV LED and soldered the leads and got it set for testing next week, I just wanted to post some pics of my design and set up with the circuit I designed for it also with the LED driver.
 

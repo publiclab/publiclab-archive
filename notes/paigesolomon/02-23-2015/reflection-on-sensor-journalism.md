@@ -14,6 +14,8 @@ by [paigesolomon](../profile/paigesolomon) February 23, 2015 07:25
 
 February 23, 2015 07:25 | Tags: [water](../tag/water), [data](../tag/data), [journalism](../tag/journalism), [sensor](../tag/sensor), [sensor-journalism](../tag/sensor-journalism)
 
+----
+
 Sensor journalism is the act of using a sensor to collect data, which can then be organized and used to create a story. It is a unique approach to collecting data and using that information to tell a story. While sensor journalism can be full of advantages that change the way journalists receive and share data, there are some holes in sensor journalism that can detract from the effectiveness of it altogether. Below are some pros and cons of sensor journalism.
 
 ##Pros

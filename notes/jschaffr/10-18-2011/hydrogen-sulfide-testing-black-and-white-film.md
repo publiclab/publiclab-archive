@@ -8,11 +8,15 @@ uid: 315
 
 ---
 
+![](https://publiclab.org/sites/default/files/slvrware-tarnish-280x300.jpg)
+
 # Hydrogen Sulfide Testing With Black and White Film
 
 by [jschaffr](../profile/jschaffr) October 18, 2011 23:01
 
 October 18, 2011 23:01 | Tags: [hydrogen-sulfide](../tag/hydrogen-sulfide), [activity:h2s-photopaper](../tag/activity:h2s-photopaper), [activity:hydrogen-sulfide](../tag/activity:hydrogen-sulfide), [activity:hydrogen-sulfide-photopaper](../tag/activity:hydrogen-sulfide-photopaper), [first-time-poster](../tag/first-time-poster)
+
+----
 
 Following is a procedure for Hydrogen Sulfide testing using <strong>Ilford Multigrade IV RC Deluxe MGD.1M B&W Paper</strong> which has been borrowed from the procedure published in Evaluation of a <strong>Novel Passive sampling Technique for Monitoring Volcanic Hydrogen Sulfide</strong> by Horwell, Allen, Tamsin and Patterson. 
 

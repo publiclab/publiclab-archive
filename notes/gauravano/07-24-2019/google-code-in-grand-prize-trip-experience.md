@@ -8,11 +8,15 @@ uid: 515081
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/034/086/original/Group_Pic_Yacht_Students_and_Mentors_%281%29.JPG)
+
 # Google Code-In Grand Prize Trip Experience
 
 by [gauravano](../profile/gauravano) July 24, 2019 22:33
 
 July 24, 2019 22:33 | Tags: [open-source](../tag/open-source), [barnstar:basic](../tag/barnstar:basic), [software-outreach](../tag/software-outreach), [google-code-in](../tag/google-code-in), [gci-2018](../tag/gci-2018)
+
+----
 
 Hello!
 

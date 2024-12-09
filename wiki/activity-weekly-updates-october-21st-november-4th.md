@@ -14,6 +14,8 @@ by [rollinrenola](../profile/rollinrenola)
 
 October 29, 2019 02:07 | Tags: [publiclaboratory](../tag/publiclaboratory), [fellowship](../tag/fellowship), [updates](../tag/updates)
 
+----
+
 next two weeks ( October 21st- November 4th)
 1. Collect water and soil samples from parts of St Bernard and Orleans Parish 
 2. Stop by public lab office for tabling handouts  

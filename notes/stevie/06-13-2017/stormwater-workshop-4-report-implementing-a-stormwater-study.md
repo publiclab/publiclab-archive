@@ -8,11 +8,15 @@ uid: 422561
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/020/779/original/20170603_155739_%282%29.jpg)
+
 # Stormwater Workshop 4 Report: Implementing a Stormwater Study
 
 by [stevie](../profile/stevie) June 13, 2017 21:46
 
 June 13, 2017 21:46 | Tags: [gulf-coast](../tag/gulf-coast), [new-orleans](../tag/new-orleans), [neworleans](../tag/neworleans), [stormwater](../tag/stormwater), [study-design](../tag/study-design), [raingauge](../tag/raingauge), [weatherunderground](../tag/weatherunderground), [research-study](../tag/research-study), [gaugeboard](../tag/gaugeboard)
+
+----
 
 On June 3rd a group met in New Orleans for the fourth workshop in the Stormwater Series. In this workshop we went over the data we are hoping to collect in next month and set up the monitoring project. 
 

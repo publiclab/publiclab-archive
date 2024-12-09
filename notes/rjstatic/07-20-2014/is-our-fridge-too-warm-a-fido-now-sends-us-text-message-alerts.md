@@ -8,11 +8,15 @@ uid: 174
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/005/401/original/negative-temperatures-on-fido.png)
+
 # Is our fridge too warm? A Fido now sends us text message alerts.
 
 by [rjstatic](../profile/rjstatic) July 20, 2014 02:58
 
 July 20, 2014 02:58 | Tags: [raspberry-pi](../tag/raspberry-pi), [open-ground](../tag/open-ground), [fido](../tag/fido), [termperature](../tag/termperature), [alerts](../tag/alerts), [open-pipe-kit](../tag/open-pipe-kit)
+
+----
 
 Can I use Fido as an alarm when my fridge is too warm? It's a question Dogi and I have heard many times from people who run bio labs, restaurants, and here at the Pirateship hackerspace which has a particularly pesky fridge that tends to open itself sometimes. We decided to see if Fido is a good fit.  
 

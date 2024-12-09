@@ -8,11 +8,15 @@ uid: 428096
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/007/320/original/Gillis-5.jpg)
+
 # A not-entirely-negative reflection on sensor journalism (Emerson Data Viz) 
 
 by [ElizabethGillis](../profile/ElizabethGillis) October 06, 2014 16:06
 
 October 06, 2014 16:06 | Tags: [sensor-journalism](../tag/sensor-journalism)
+
+----
 
  by Elizabeth Gillis (Emerson Data Visualization Group 1)  
 

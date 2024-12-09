@@ -8,11 +8,15 @@ uid: 77
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/013/033/original/pano_IMG_7541.JPG)
+
 # Solar Balloon session by Nick Shapiro, at 2015 Public Lab Barnraiser
 
 by [patcoyle](../profile/patcoyle) November 25, 2015 00:11
 
 November 25, 2015 00:11 | Tags: [solar-balloon](../tag/solar-balloon), [documentation](../tag/documentation), [barnraising](../tag/barnraising)
+
+----
 
 ###What I want to do
 

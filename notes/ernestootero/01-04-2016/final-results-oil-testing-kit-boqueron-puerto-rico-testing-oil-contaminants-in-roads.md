@@ -8,11 +8,15 @@ uid: 447002
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/013/503/original/Final_Report.jpg)
+
 # Final results Oil Testing Kit, Boquerón Puerto Rico. Testing Oil Contaminants in Roads.
 
 by [ernestootero](../profile/ernestootero) January 04, 2016 22:25
 
 January 04, 2016 22:25 | Tags: [laser](../tag/laser), [oil-testing-kit](../tag/oil-testing-kit), [otk](../tag/otk), [puerto-rico](../tag/puerto-rico), [boqueron](../tag/boqueron), [oil-detection](../tag/oil-detection)
+
+----
 
 [![Final_Report.jpg](//i.publiclab.org/system/images/photos/000/013/504/medium/Final_Report.jpg)](//i.publiclab.org/system/images/photos/000/013/504/original/Final_Report.jpg)
 

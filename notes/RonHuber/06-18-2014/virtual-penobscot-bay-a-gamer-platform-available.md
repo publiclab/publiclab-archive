@@ -8,11 +8,15 @@ uid: 437
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/004/843/original/pb_bathymetry_captioned1.jpg)
+
 # Virtual Penobscot Bay - a gamer platform available?
 
 by [ronhuber](../profile/ronhuber) June 18, 2014 17:46
 
 June 18, 2014 17:46 | Tags: [3d](../tag/3d), [maine](../tag/maine), [northeast](../tag/northeast), [bay](../tag/bay), [penobcot](../tag/penobcot), [bathymetry](../tag/bathymetry), [lobster](../tag/lobster), [dioxin](../tag/dioxin)
+
+----
 
 ###WHY A VIRTUAL PENOBSCOT BAY?
 

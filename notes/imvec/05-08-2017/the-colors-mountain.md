@@ -8,11 +8,15 @@ uid: 495038
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/020/395/original/tcm.jpg)
+
 # The Colors Mountain
 
 by [imvec](../profile/imvec) May 08, 2017 11:13
 
 May 08, 2017 11:13 | Tags: [balloon-mapping](../tag/balloon-mapping), [spain](../tag/spain), [lat:39.895](../tag/lat:39.895), [lon:-4.024](../tag/lon:-4.024), [grassroots](../tag/grassroots), [documentary](../tag/documentary)
+
+----
 
 ###What Is The Colors Mountain
 The Colors Mountain is a collective artistic intervention project developed during 6 years that uses a virtual space dedicated to the observation and investigation of alleged ecological crimes, with the goal of using the concept of "reasonable doubt", not only for possible court acquittal but also cause a formal investigation that could lead to a court complaint.

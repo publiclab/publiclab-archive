@@ -14,4 +14,6 @@ by [kellyraymond](../profile/kellyraymond) February 19, 2020 17:13
 
 February 19, 2020 17:13 | Tags: [hidden:response](../tag/hidden:response), [unearthing-pvd-stories](../tag/unearthing-pvd-stories), [lat:41.83578654](../tag/lat:41.83578654), [lon:-71.41008317](../tag/lon:-71.41008317), [lat:41.835786](../tag/lat:41.835786), [lon:-71.410083](../tag/lon:-71.410083), [zoom:15](../tag/zoom:15), [response:23080](../tag/response:23080)
 
+----
+
 Art in Ruins curated stories, photos, and historical information about this site. Check it out at: [https://www.artinruins.com/arch/?id=historical&pr=americanscrew](https://www.artinruins.com/arch/?id=historical&pr=americanscrew).

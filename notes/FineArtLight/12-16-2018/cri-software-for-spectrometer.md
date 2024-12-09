@@ -14,4 +14,6 @@ by [FineArtLight](../profile/FineArtLight) December 16, 2018 21:45
 
 December 16, 2018 21:45 | Tags: [question:general](../tag/question:general), [response:10238](../tag/response:10238)
 
+----
+
 Is there any software that I can buy that will use the spectrometer data to calculate CRI?

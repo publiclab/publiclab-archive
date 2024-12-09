@@ -8,11 +8,15 @@ uid: 422561
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/036/858/original/image.jpg)
+
 # How do we keep the pressure and momentum high after a recent court ruling win?
 
 by [stevie](../profile/stevie) December 04, 2019 15:27
 
 December 04, 2019 15:27 | Tags: [air-quality](../tag/air-quality), [question:air-quality](../tag/question:air-quality), [lat:41](../tag/lat:41), [odor](../tag/odor), [question:plastic](../tag/question:plastic), [question:odor](../tag/question:odor), [location:blurred](../tag/location:blurred), [lon:-73](../tag/lon:-73), [plastics](../tag/plastics), [question:plastics](../tag/question:plastics), [plastic](../tag/plastic), [orangetown-aluf](../tag/orangetown-aluf), [question:orangetown-aluf](../tag/question:orangetown-aluf)
+
+----
 
 In November, 2019 the Orangetown Justice Court found API Industries, Inc. (Aluf Plastics) guilty of violating Orangetown Town Code with respect to odor emissions on five separate occasions in November and December 2018, yet in the days immediately following this conviction, the odors have intensified. The recognition of five odor occasions is a drop in the bucket. Since 2016, CA4O estimates that there have been over 1400 odor complaints from members of the community.
 

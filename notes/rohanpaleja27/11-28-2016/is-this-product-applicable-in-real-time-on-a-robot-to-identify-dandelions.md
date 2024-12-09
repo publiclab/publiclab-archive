@@ -14,6 +14,8 @@ by [rohanpaleja27](../profile/rohanpaleja27) November 28, 2016 19:47
 
 November 28, 2016 19:47 | Tags: [spectrometry](../tag/spectrometry), [tool](../tag/tool), [answered](../tag/answered), [question:general](../tag/question:general)
 
+----
+
 ###What I want to do or know
 I would like this spectrometer to be on a ground vehicle to identify dandelions. I was wondering if this will be applicable outside, say in a backyard?  It would need the capability to identify a dandelion vs. a leaf and then a specified task would be performed. Please let me know if you require any extra information. I am currently a senior at Rutgers University.
 ###Background story

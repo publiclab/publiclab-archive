@@ -8,11 +8,15 @@ uid: 495038
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/039/324/original/docfoto.jpeg)
+
 # JAM#6: Documentación Fotográfica
 
 by [imvec](../profile/imvec) May 09, 2020 23:32
 
 May 09, 2020 23:32 | Tags: [photo-monitoring](../tag/photo-monitoring), [lang:es](../tag/lang:es), [zoom:16](../tag/zoom:16), [cosquin](../tag/cosquin), [lat:41.408488](../tag/lat:41.408488), [lon:2.199325](../tag/lon:2.199325), [jam](../tag/jam), [autodefensa](../tag/autodefensa), [documentacion](../tag/documentacion), [fotografia](../tag/fotografia)
+
+----
 
 <iframe width="800" height="462" src="https://www.youtube.com/embed/kCFpl0kOu0k" frameborder="0" allowfullscreen=""></iframe>
 

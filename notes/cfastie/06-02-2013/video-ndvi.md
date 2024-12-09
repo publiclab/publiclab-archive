@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/000/453/original/3infframes.jpg)
+
 # Video NDVI 
 
 by [cfastie](../profile/cfastie) June 02, 2013 14:01
 
 June 02, 2013 14:01 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [infragram](../tag/infragram), [infrablue](../tag/infrablue), [ffmpeg](../tag/ffmpeg)
+
+----
 
 <em>Image above: Three frames from an infrablue video we are trying to convert to NDVI</em>
 

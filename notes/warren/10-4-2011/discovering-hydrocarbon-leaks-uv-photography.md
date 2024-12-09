@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/figure10.jpg)
+
 # Discovering hydrocarbon leaks with UV photography?
 
 by [warren](../profile/warren) October 04, 2011 19:15
 
 October 04, 2011 19:15 | Tags: [uv](../tag/uv), [ultraviolet](../tag/ultraviolet), [fluorescence](../tag/fluorescence), [hydrocarbon](../tag/hydrocarbon)
+
+----
 
 Wow, great insider info on identifying hydrocarbon leaks from ultraviolet photography... thanks NASA and the Society of Exploration Geophysicists!
 

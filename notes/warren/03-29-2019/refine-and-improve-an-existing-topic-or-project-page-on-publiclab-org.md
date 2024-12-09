@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/030/880/original/Screen_Shot_2019-03-29_at_4.13.49_PM.png)
+
 # Refine and improve an existing topic or project page on PublicLab.org
 
 by [warren](../profile/warren) March 29, 2019 20:14
 
 March 29, 2019 20:14 | Tags: [website](../tag/website), [power-tags](../tag/power-tags), [wiki-gardening](../tag/wiki-gardening), [seeks:replications](../tag/seeks:replications), [activity:website](../tag/activity:website), [inline-power-tags](../tag/inline-power-tags), [knowledge-base](../tag/knowledge-base)
+
+----
 
 Lots of pages on [PublicLab.org](http://PublicLab.org) need some work, or are starting to get overgrown -- either because they need updating with more recent posts and community work, or sometimes because there has been too much added to the page, and it's hard to read. 
 

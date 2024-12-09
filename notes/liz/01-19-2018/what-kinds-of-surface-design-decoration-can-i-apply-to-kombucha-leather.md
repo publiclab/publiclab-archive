@@ -14,4 +14,6 @@ by [liz](../profile/liz) January 19, 2018 20:41
 
 January 19, 2018 20:41 | Tags: [kombucha](../tag/kombucha), [kombucha-leather](../tag/kombucha-leather), [question:kombucha-leather](../tag/question:kombucha-leather)
 
+----
+
 Can i paint kombucha leather? What kinds of ink or pigment stick?

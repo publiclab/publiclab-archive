@@ -8,11 +8,15 @@ uid: 421556
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/006/101/original/note1.png)
+
 # MapKnitter Annotations: Interface Refactoring
 
 by [justinmanley](../profile/justinmanley) August 06, 2014 20:03
 
 August 06, 2014 20:03 | Tags: [balloon-mapping](../tag/balloon-mapping), [mapknitter](../tag/mapknitter), [software](../tag/software), [gsoc](../tag/gsoc), [gsoc-2014](../tag/gsoc-2014)
+
+----
 
 ### Background ###
 

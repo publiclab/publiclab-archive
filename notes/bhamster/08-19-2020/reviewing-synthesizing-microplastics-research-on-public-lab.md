@@ -8,11 +8,15 @@ uid: 664477
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/040/567/original/Microplastics_in_sediments.jpg)
+
 # Reviewing & synthesizing microplastics research on Public Lab
 
 by [bhamster](../profile/bhamster) August 19, 2020 21:42
 
 August 19, 2020 21:42 | Tags: [research](../tag/research), [micro-plastics](../tag/micro-plastics), [microplastics](../tag/microplastics), [plastic](../tag/plastic), [research-area-review](../tag/research-area-review)
+
+----
 
 _Image: microplastics and other debris from several rivers. [CC BY 4.0](https://creativecommons.org/licenses/by/4.0 "https://creativecommons.org/licenses/by/4.0"), Wagner et al. Microplastics in freshwater ecosystems: what we know and what we need to know. Environ Sci Eur 26, 12 (2014). [https://doi.org/10.1186/s12302-014-0012-7](https://doi.org/10.1186/s12302-014-0012-7)_
 

@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/spec-vid.png)
+
 # Oil residue preparation for spectroscopy
 
 by [warren](../profile/warren) July 26, 2012 22:06
 
 July 26, 2012 22:06 | Tags: [spectrometer](../tag/spectrometer), [oil](../tag/oil), [sample-prep](../tag/sample-prep), [sampling](../tag/sampling), [jars](../tag/jars)
+
+----
 
 <iframe width="480" height="360" src="https://www.youtube.com/embed/zll7-JUUs-c" frameborder="0" allowfullscreen></iframe>
 

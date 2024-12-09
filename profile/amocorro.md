@@ -3,6 +3,8 @@ uid: 700923
 created_at: 2020-06-09 15:12:42 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/700923/medium/FilipinxPalaka2.jpg)
+
 # amocorro
 
 Environmental Justice advocate. Infinitely curious. First gen scientist from a long line of innovators and place-based organizers. Passion for marine justice, TEK, socio-ecological systems, and pollinators. 

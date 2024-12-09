@@ -8,11 +8,15 @@ uid: 4
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/010/164/original/Screen_Shot_2015-05-19_at_3.51.13_PM.png)
+
 # Plan for recording Shinyei optical sensors using Open Pipe Kit
 
 by [mathew](../profile/mathew) June 01, 2015 23:47
 
 June 01, 2015 23:47 | Tags: [air-quality](../tag/air-quality), [dustduino](../tag/dustduino), [silica](../tag/silica), [frac-sand](../tag/frac-sand), [pm](../tag/pm), [open-air](../tag/open-air), [particle-sensing](../tag/particle-sensing), [dust-monitoring](../tag/dust-monitoring), [openair](../tag/openair), [with:warren](../tag/with:warren), [open-pipe-kit](../tag/open-pipe-kit), [opk](../tag/opk), [shinyei](../tag/shinyei), [fracsand](../tag/fracsand), [parent:frac-sand](../tag/parent:frac-sand), [air-sensors](../tag/air-sensors)
+
+----
 
 ###Goal:
 the goal is to read and save the raw output of a [Shinyei PPD42](/notes/Willie/04-01-2014/field-testing-the-shenyei-pm-sensor) [particle sensor](/wiki/particle-sensing) to a local storage on a Raspberry Pi and out to the internet through the [Open Pipe Kit](/wiki/open-pipe-kit). Later on, we'll be trying to translate the raw sensor data to standard presentation formats in um/m3. We want to make that conversion as transparent as possible so that calibrations or modifications to the raw count can be applied retroactively.

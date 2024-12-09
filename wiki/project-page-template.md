@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/040/020/original/small-logo.png)
+
 # Project page template
 
 by [liz](../profile/liz), [robert_winkler](../profile/robert_winkler), [warren](../profile/warren)
 
 November 08, 2017 23:54 | Tags: [locked](../tag/locked), [parent:templates](../tag/parent:templates)
+
+----
 
 This is a template. This is a good place to give a little background on the project. Keep it simple. Mention your goals and any outcomes you're hoping for from this project. 
 
@@ -40,7 +44,7 @@ Delete this text and Replace “TAGNAME” in the url with the tag for your proj
 <a class="btn btn-large btn-primary" href="https://publiclab.org/subscribe/tag/TAGNAME">Subscribe to updates on this project </a>
 
 Delete this text and replace “tagname” below with the tag for your project 
-[notes:tagname] 
+[tagname](../../tag/tagname) 
 
 ### Questions
 
@@ -48,7 +52,7 @@ Delete this text and replace “tagname” below with the tag for your project
 
 Here's a place to list things you have questions about, or issues or **challenges you’re hoping to solve in this project**. What questions helped guide the work? Let's build out a Frequently Asked Questions area:
 
-[questions:tagname]
+[tagname](../../tag/question:tagname)
 
 ****
 
@@ -56,7 +60,7 @@ Here's a place to list things you have questions about, or issues or **challenge
 
 This section will capture any activities you've done with your group with your project tag. This will help others follow along with what you've already done. Delete this text and replace “tagname” below with the tag for your project. Be sure to tag any activities you've done with your project tag. 
 
-[activities:tagname]
+[tagname](../../tag/activity:tagname)
 
 ### Data
 

@@ -14,6 +14,8 @@ by [warren](../profile/warren)
 
 October 05, 2012 20:07 | Tags: [spectrometer](../tag/spectrometer), [spectralworkbench](../tag/spectralworkbench)
 
+----
+
 [Spectral Workbench](https://spectralworkbench.org) may be used offline once it is loaded in your browser. To do so, visit:
 
 https://spectralworkbench.org/capture/offline

@@ -8,11 +8,15 @@ uid: 8
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/002/650/original/DSC01156.jpg)
+
 # Methods of Estimating the Volume and Weight of Waste Piles through Balloon Mapping
 
 by [sara](../profile/sara) January 24, 2014 18:33
 
 January 24, 2014 18:33 | Tags: [balloon-mapping](../tag/balloon-mapping), [landfill](../tag/landfill), [waste](../tag/waste), [volume](../tag/volume)
+
+----
 
 ###Developing Methods of Estimating the Volume and Weight of Waste Piles through Balloon Mapping
 

@@ -8,11 +8,15 @@ uid: 540844
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/035/569/original/20190618_094529.jpg)
+
 # Memories with Molly
 
 by [joyofsoy](../profile/joyofsoy) October 04, 2019 18:46
 
 October 04, 2019 18:46 | Tags: [csf](../tag/csf), [one-cranston](../tag/one-cranston), [csf17](../tag/csf17)
+
+----
 
 **A version of this story by Ayana Crichton is published in Public Lab's *Community Science Forum*, Issue 17. Read more from this issue [here][1].**
 

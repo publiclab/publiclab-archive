@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/000/435/original/LizBklnINF.jpg)
+
 # IR TreeKIT
 
 by [cfastie](../profile/cfastie) May 31, 2013 15:19
 
 May 31, 2013 15:19 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [nrg](../tag/nrg), [infrared](../tag/infrared), [new-york](../tag/new-york), [infragram](../tag/infragram), [infrablue](../tag/infrablue)
+
+----
 
 Liz tweeted a rad Infragram of Brooklyn (above) that deserved some post processing. So here are some fun versions. Should there be a gallery for such images? There is an official Infragram-media wiki, but maybe there should be a less official place to share Infragrams.
 

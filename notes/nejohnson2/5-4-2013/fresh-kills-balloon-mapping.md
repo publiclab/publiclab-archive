@@ -8,11 +8,15 @@ uid: 53894
 
 ---
 
+![](https://publiclab.org/sites/default/files/IMG_1463_0.jpg)
+
 # Fresh Kills Balloon Mapping
 
 by [nicholas](../profile/nicholas) May 04, 2013 14:51
 
 May 04, 2013 14:51 | Tags: [balloon-mapping](../tag/balloon-mapping), [landfill](../tag/landfill), [waste](../tag/waste), [wasteland](../tag/wasteland), [fresh-kills](../tag/fresh-kills), [first-time-poster](../tag/first-time-poster)
+
+----
 
 After months of reading about one of the most infamous landfills in the country, the time finally came to experience this urban wasteland up close and in person.  The objective of the expedition was to use experimental balloon photography and document from above what few people have ever seen.  This task proved to be both a challenge and a learning experience as any visit to Fresh Kills Landfill in Staten Island is bound to be.
 

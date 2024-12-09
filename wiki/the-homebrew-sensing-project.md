@@ -14,6 +14,8 @@ by [Becki](../profile/Becki), [warren](../profile/warren)
 
 February 26, 2014 16:39 | Tags: [spectrometer](../tag/spectrometer), [tabbed:notes](../tag/tabbed:notes)
 
+----
+
 <iframe width="640" height="360" src="//www.youtube.com/embed/TIwvv_EXgmY?rel=0" frameborder="0" allowfullscreen></iframe>
 
 The Homebrew Sensing Project is working to develop a set of low-cost hardware and free software tools community members can use to measure local health data, such as air and water quality.

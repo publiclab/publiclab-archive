@@ -8,11 +8,15 @@ uid: 432244
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/008/200/original/Picture1.png)
+
 # Thermal Imaging: A Comparison of Heat Insulation
 
 by [fkamara](../profile/fkamara) December 03, 2014 03:24
 
 December 03, 2014 03:24 | Tags: [thermal-photography](../tag/thermal-photography), [thermal-flashlight](../tag/thermal-flashlight), [thermal-imaging](../tag/thermal-imaging), [northeastern](../tag/northeastern), [insulation](../tag/insulation), [heat](../tag/heat), [replication:625](../tag/replication:625)
+
+----
 
 ####****What we did****
 

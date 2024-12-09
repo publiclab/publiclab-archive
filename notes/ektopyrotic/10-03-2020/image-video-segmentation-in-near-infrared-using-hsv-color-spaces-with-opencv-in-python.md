@@ -8,11 +8,15 @@ uid: 699450
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/041/046/original/SegmentedInfraBlueNDVI.jpg)
+
 # Image + Video Segmentation in Near-Infrared Using HSV Color Spaces with OpenCV in Python
 
 by [ektopyrotic](../profile/ektopyrotic) October 03, 2020 19:08
 
 October 03, 2020 19:08 | Tags: [ndvi](../tag/ndvi), [infrared](../tag/infrared), [uav](../tag/uav), [mapping](../tag/mapping), [plants](../tag/plants), [camera](../tag/camera), [vegetation](../tag/vegetation), [environment](../tag/environment), [drone](../tag/drone), [monitoring](../tag/monitoring), [coding](../tag/coding), [detection](../tag/detection), [python](../tag/python), [project](../tag/project), [lat:28](../tag/lat:28), [image](../tag/image), [zoom:6](../tag/zoom:6), [lon:-15](../tag/lon:-15)
+
+----
 
 Demo Video Here:https://www.youtube.com/watch?v=LR37KuKt5nQ&feature=emb\_title
 

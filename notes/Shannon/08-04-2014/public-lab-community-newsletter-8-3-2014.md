@@ -8,11 +8,15 @@ uid: 9
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/005/825/original/plots-logo-transparent.jpg)
+
 # Public Lab community newsletter 8.3.2014
 
 by [Shannon](../profile/Shannon) August 04, 2014 03:45
 
 August 04, 2014 03:45 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
+
+----
 
 This week in the Public Lab community newsletter, check out the first “State of the Science” video, join Open Hour Monday evening for a session on thermal imaging and catch up on all the great work being done from balloon mapping workshops in Chicago to ongoing development of tools for water monitoring and oil testing. Enjoy!
 

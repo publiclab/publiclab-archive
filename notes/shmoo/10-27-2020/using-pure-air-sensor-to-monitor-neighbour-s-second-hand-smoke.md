@@ -14,6 +14,8 @@ by [shmoo](../profile/shmoo) October 27, 2020 12:28
 
 October 27, 2020 12:28 | Tags: [air-quality](../tag/air-quality), [purpleair](../tag/purpleair), [question:purpleair](../tag/question:purpleair), [first-time-poster](../tag/first-time-poster)
 
+----
+
 My two adult neighbours smoke outside their property daily (on and off between 5am - 9pm) and within 3 to 6 metres (10 to 20 feet) of my balcony door/windows.
 
 I've asked them politely to smoke at the front of their property but they refuse.

@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/034/920/original/Screen_Shot_2019-08-27_at_3.53.48_PM.png)
+
 # Bringing Public Lab’s multispectral image processing to Leaflet maps
 
 by [warren](../profile/warren) August 27, 2019 19:58
 
 August 27, 2019 19:58 | Tags: [ndvi](../tag/ndvi), [multispectral](../tag/multispectral), [nasa](../tag/nasa), [infragram](../tag/infragram), [blog](../tag/blog), [leaflet](../tag/leaflet), [aren](../tag/aren)
+
+----
 
 For a few years now, Public Lab's open hardware community has been developing not only DIY tools for taking multispectral photos, but also software tools to process and analyze these photos---the Infragram project, and more recently the Image Sequencer project. These have enabled many people to take multispectral (near infrared/visible) imagery and do NDVI plant health analysis at home, on a shoestring budget.![image description](/i/34921.png "pasted_image_0.png")
 

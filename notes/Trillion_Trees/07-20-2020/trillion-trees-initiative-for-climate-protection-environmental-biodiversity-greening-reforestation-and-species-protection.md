@@ -8,11 +8,15 @@ uid: 709175
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/040/222/original/TrillionTreesInitiative_org.jpg)
+
 # Trillion Trees Initiative for climate protection, environmental biodiversity, greening, reforestation and species protection
 
 by [Trillion_Trees](../profile/Trillion_Trees) July 20, 2020 14:19
 
 July 20, 2020 14:19 | Tags: [conservation](../tag/conservation), [tree](../tag/tree), [environmental](../tag/environmental), [wildlife](../tag/wildlife), [biodiversity](../tag/biodiversity), [blog-submission](../tag/blog-submission), [lat:50](../tag/lat:50), [lon:10](../tag/lon:10), [first-time-poster](../tag/first-time-poster), [environmentalism](../tag/environmentalism), [reforestation](../tag/reforestation), [zoom:3](../tag/zoom:3), [climate-crisis](../tag/climate-crisis), [climate-protection](../tag/climate-protection), [greening](../tag/greening), [trillion-trees](../tag/trillion-trees), [species-protection](../tag/species-protection), [climate-adaption](../tag/climate-adaption)
+
+----
 
 This is a general overview and summary of Greening Deserts economical, educational, cultural, social, scientific and sustainable projects. You can use the details and experiences.  
 

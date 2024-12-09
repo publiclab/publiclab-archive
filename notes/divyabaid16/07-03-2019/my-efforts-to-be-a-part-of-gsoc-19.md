@@ -14,6 +14,8 @@ by [divyabaid16](../profile/divyabaid16) July 03, 2019 12:42
 
 July 03, 2019 12:42 | Tags: [gsoc](../tag/gsoc), [soc](../tag/soc), [gsoc-2019](../tag/gsoc-2019), [soc-2019](../tag/soc-2019)
 
+----
+
 I started with my first open source contribution when I was in the second year of my undergraduate engineering degree. At that time, I was more involved in academics and had very little practical experience as a developer. Earlier, I had experimented with few technologies before I went for web development. I worked on android development in my first year and also learned python programming during that time. It was during the summer of my second year that I started with Web development and began to study HTML, CSS, Javascript moving to more complicated libraries and frameworks like jQuery and ReactJS. I really loved building everything. When I code, I forget about everything else and become completely engaged in it. I genuinely relish doing it.
 
 During this time, I didn't realize when my holidays had ended and my 5th semester commenced. I had gained a lot of confidence and felt good that I had utilized my summers. I believe that these semester breaks are the best time to learn paramount topics and increment the skills. With the ongoing semester, I delved further into developing my skills along with the academic curriculum. It was not an easy task as managing both things were a little difficult. I was eagerly waiting for the semester to culminate so that I could focus entirely on developing and mastering my skills.

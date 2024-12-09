@@ -8,11 +8,15 @@ uid: 43867
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/011/254/original/IMG_0700_small.JPG)
+
 # Lessons from mapping Bourj Al Shamali refugee camp in Lebanon
 
 by [clauds](../profile/clauds) August 23, 2015 00:05
 
 August 23, 2015 00:05 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [blog](../tag/blog), [barnstar:basic](../tag/barnstar:basic), [with:firas](../tag/with:firas), [with:mustafa10](../tag/with:mustafa10), [lebanon](../tag/lebanon), [middle-east](../tag/middle-east), [bourjalshamali](../tag/bourjalshamali), [with:mustapha](../tag/with:mustapha), [with:amal](../tag/with:amal), [first-time-poster](../tag/first-time-poster)
+
+----
 
 \##_**Background on the project**_
 

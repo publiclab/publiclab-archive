@@ -8,11 +8,15 @@ uid: 9
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/008/516/original/plots-logo-transparent.jpg)
+
 # Public Lab community newsletter 12.21.14
 
 by [Shannon](../profile/Shannon) December 21, 2014 21:52
 
 December 21, 2014 21:52 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
+
+----
 
 This week in the Public Lab community newsletter, submit your answer to the holiday whodunit, mark your calendar for the first OpenHour of 2015 and check out an episode of Creek Scene Investigators. Enjoy!
 

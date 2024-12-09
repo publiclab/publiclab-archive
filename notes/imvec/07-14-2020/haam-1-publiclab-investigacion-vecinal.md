@@ -8,11 +8,15 @@ uid: 495038
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/040/183/original/haam1.jpg)
+
 # HAAM#1: Publiclab, investigacion vecinal
 
 by [imvec](../profile/imvec) July 14, 2020 20:28
 
 July 14, 2020 20:28 | Tags: [lang:es](../tag/lang:es), [basura](../tag/basura), [spanish](../tag/spanish), [zoom:16](../tag/zoom:16), [lat:41.408488](../tag/lat:41.408488), [lon:2.199325](../tag/lon:2.199325), [epidemiologia](../tag/epidemiologia), [haam](../tag/haam)
+
+----
 
 <iframe width="800" height="405" src="https://www.youtube.com/embed/73rlfFVK81w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen\></iframe\>  
 

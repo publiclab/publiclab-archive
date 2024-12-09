@@ -14,4 +14,6 @@ by [gonzoearth](../profile/gonzoearth) May 10, 2012 20:41
 
 May 10, 2012 20:41 | Tags: 
 
+----
+
 <a href="http://apb.directionsmag.com/entry/invasive-species-mapping-and-other-crowdsourcing-gis-news/251103">http://apb.directionsmag.com/entry/invasive-species-mapping-and-other-crowdsourcing-gis-news/251103</a>

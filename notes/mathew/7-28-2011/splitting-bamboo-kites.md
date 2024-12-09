@@ -14,6 +14,8 @@ by [mathew](../profile/mathew) July 28, 2011 04:17
 
 July 28, 2011 04:17 | Tags: [kite-mapping](../tag/kite-mapping), [diy-kite](../tag/diy-kite), [bamboo](../tag/bamboo), [diy-kites](../tag/diy-kites), [difficulty:easy](../tag/difficulty:easy), [category:build](../tag/category:build), [time:1h](../tag/time:1h), [kite-making](../tag/kite-making), [activity:kite-making](../tag/activity:kite-making), [activity:bamboo](../tag/activity:bamboo)
 
+----
+
 Bamboo is a great kite making material.  It grows in poor soils and is competitive with Fiberglass for strength. There are two different types of culms (poles) you can use- whole culms, or split culms.  
 
 Whole culms are of limited use for two reasons- generally the ones wider than 1cm are too big for kites, and the ones that are 1cm taper significantly along their length, meaning that they have to be placed only where an asymmetrical spar will work.  Generally this means vertically but not horizontally.  Whole culms are the strongest for their weight, and some designs like deltas lend themselves to using whole culms.  A good source of whole culms is the native North American Bamboo Rivercane, native to the Mississippi river valley.

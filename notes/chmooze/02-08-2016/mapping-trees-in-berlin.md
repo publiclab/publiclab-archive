@@ -8,11 +8,15 @@ uid: 461520
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/014/132/original/DSC01310.jpg)
+
 # Mapping Trees In Berlin
 
 by [chmooze](../profile/chmooze) February 08, 2016 14:54
 
 February 08, 2016 14:54 | Tags: [urban](../tag/urban), [tree](../tag/tree), [urban-ecology](../tag/urban-ecology), [trees](../tag/trees), [eu](../tag/eu), [ecology](../tag/ecology), [berlin](../tag/berlin), [germany](../tag/germany), [urban-forest](../tag/urban-forest), [plant-identification](../tag/plant-identification), [identifcation](../tag/identifcation), [plant-id](../tag/plant-id)
+
+----
 
 ###What I want to do
 I'm playing with available resources for residents to identify, document, monitor and even manage the urban canopy. Cash strapped cities are increasingly relying on residents to help and I want to see what it takes for the average resident, who doesn't have any kind of arboreal background, to be helpful. Fortunately I'm the perfect test subject as I know virtually nothing.

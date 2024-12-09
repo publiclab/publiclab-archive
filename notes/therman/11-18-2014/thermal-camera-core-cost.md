@@ -14,6 +14,8 @@ by [therman](../profile/therman) November 18, 2014 00:21
 
 November 18, 2014 00:21 | Tags: [first-time-poster](../tag/first-time-poster)
 
+----
+
 I am in need of a thermal camera that isnt $$$$  and can be mounted on a UAV and have video (NTSC) output for FPV flying  . I have only found 2 that are close to my price range. If anyone has an opinion or knows where else I can look please let me know. Thanks so much! These are the ones so far.
 
 https://groupgets.com/campaigns/36-320-x-240-res-thermal-camera-with-video-output-and-digital

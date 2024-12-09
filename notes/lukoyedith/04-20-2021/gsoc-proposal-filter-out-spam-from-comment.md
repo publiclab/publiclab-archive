@@ -8,11 +8,15 @@ uid: 751723
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/043/338/original/Boots-ground-02.png)
+
 # GSoC!proposal: Filter out spam from comment. 
 
 by [lukoyedith](../profile/lukoyedith) April 20, 2021 15:14
 
 April 20, 2021 15:14 | Tags: [software](../tag/software), [soc](../tag/soc), [lat:-1.406108](../tag/lat:-1.406108), [zoom:4](../tag/zoom:4), [gsoc-2021](../tag/gsoc-2021), [gsoc-2021-proposals](../tag/gsoc-2021-proposals), [outreachy-summer-2021](../tag/outreachy-summer-2021), [lon:37.440122](../tag/lon:37.440122), [outreachy-proposals-2021](../tag/outreachy-proposals-2021)
+
+----
 
 (This template is for students applying to summer code programs with Public Lab. Use this link to start writing a post: [https://publiclab.org/post?n=899&tags=soc,soc-2019,soc-2019-proposals](https://publiclab.org/post?n=899&tags=soc,soc-2019,soc-2019-proposals "https://publiclab.org/post?n=899&tags=soc,soc-2019,soc-2019-proposals") You can delete this line once you've started filling it out.)
 

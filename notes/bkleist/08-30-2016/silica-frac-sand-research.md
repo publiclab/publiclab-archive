@@ -8,11 +8,15 @@ uid: 489504
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/017/861/original/IMAG1814.JPG)
+
 # Silica (frac) Sand Research
 
 by [bkleist](../profile/bkleist) August 30, 2016 17:20
 
 August 30, 2016 17:20 | Tags: [wisconsin](../tag/wisconsin), [air-quality](../tag/air-quality), [timelapse](../tag/timelapse), [transportation](../tag/transportation), [fracking](../tag/fracking), [silica](../tag/silica), [frac-sand](../tag/frac-sand), [particle-monitoring](../tag/particle-monitoring), [traffic](../tag/traffic), [fracsand](../tag/fracsand), [parent:frac-sand](../tag/parent:frac-sand), [trapcam](../tag/trapcam), [first-time-poster](../tag/first-time-poster)
+
+----
 
 My team and I have been measuring concentrations of PM10 and PM2.5 particulates near frac sand mines in small Wisconsin towns. We are using multiple pieces of equipment to conduct this research, including the Mobius ActionCam from Public Lab.  
 

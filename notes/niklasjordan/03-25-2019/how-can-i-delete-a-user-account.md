@@ -14,4 +14,6 @@ by [niklasjordan](../profile/niklasjordan) March 25, 2019 08:42
 
 March 25, 2019 08:42 | Tags: [question:website](../tag/question:website), [question:website-structure](../tag/question:website-structure)
 
+----
+
 I accidentally created a second user account by registering via Twitter. How can I delete an account?

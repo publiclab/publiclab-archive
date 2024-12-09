@@ -8,11 +8,15 @@ uid: 212574
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/001/342/original/test.jpg)
+
 # HOMEMADE SPECTROMETER FOR SAMPLE ABSORPTION ANALYSIS AND A TYPE OF RAMMAN SPECTROSCOPY
 
 by [homechemist](../profile/homechemist) August 30, 2013 10:09
 
 August 30, 2013 10:09 | Tags: [spectrometer](../tag/spectrometer), [spain](../tag/spain), [raman](../tag/raman), [soil](../tag/soil), [chlorophyll](../tag/chlorophyll), [first-time-poster](../tag/first-time-poster)
+
+----
 
 Inspired by the Public Lab great ideas and by one of  the techniques that my chemistry teacher used to use for lights and color experiments, I have developed a new spectrometer design that in my opinion offers much more stability and high quality and reliable results.
 

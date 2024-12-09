@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/023/668/original/20180216_092012.jpg)
+
 # Community Science Forum
 
 by [jmacha](../profile/jmacha), [bhamster](../profile/bhamster), [joyofsoy](../profile/joyofsoy), [liz](../profile/liz), [gretchengehrke](../profile/gretchengehrke), [mlamadrid](../profile/mlamadrid), [klie](../profile/klie), [tonyc](../profile/tonyc), [mollydanielsson](../profile/mollydanielsson), [Shannon](../profile/Shannon), [pablo](../profile/pablo), [mathew](../profile/mathew), [natalie](../profile/natalie), [warren](../profile/warren), [adam-griffith](../profile/adam-griffith), [gonzoearth](../profile/gonzoearth)
 
 June 03, 2011 22:50 | Tags: [grassrootsmapping](../tag/grassrootsmapping), [gmf](../tag/gmf), [grassrootsmappingforum](../tag/grassrootsmappingforum), [forum](../tag/forum), [10](../tag/10), [2](../tag/2), [7](../tag/7), [4](../tag/4), [8](../tag/8), [6](../tag/6), [3](../tag/3), [1](../tag/1), [5](../tag/5), [9](../tag/9), [communityscienceforum](../tag/communityscienceforum), [12](../tag/12), [11](../tag/11), [csf](../tag/csf), [community-science-forum](../tag/community-science-forum), [csf16](../tag/csf16)
+
+----
 
 Read about cutting edge techniques in hacking environmental science in our **_Community Science Forum_,** our research journal/archive/zine/map where we share ideas, techniques, and stories.
 

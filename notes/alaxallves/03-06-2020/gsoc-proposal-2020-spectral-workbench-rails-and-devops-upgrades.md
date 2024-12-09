@@ -8,11 +8,15 @@ uid: 577447
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/038/365/original/upgrade-2.jpg)
+
 # GSoC Proposal 2020: Mapknitter Image Export and Spectral Workbench upgrade
 
 by [alaxallves](../profile/alaxallves) March 06, 2020 14:07
 
 March 06, 2020 14:07 | Tags: [soc-2020-proposals](../tag/soc-2020-proposals), [zoom:18](../tag/zoom:18), [lat:-15.890474](../tag/lat:-15.890474), [lon:-48.014493](../tag/lon:-48.014493)
+
+----
 
 # About me
 

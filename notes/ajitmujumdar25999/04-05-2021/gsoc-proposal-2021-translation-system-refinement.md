@@ -8,11 +8,15 @@ uid: 654056
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/043/210/original/gsoc.jpeg)
+
 # GSoC proposal 2021 : Translation System Refinement 
 
 by [ajitmujumdar25999](../profile/ajitmujumdar25999) April 05, 2021 21:17
 
 April 05, 2021 21:17 | Tags: [soc](../tag/soc), [first-time-poster](../tag/first-time-poster), [gsoc-2021](../tag/gsoc-2021), [gsoc-2021-proposals](../tag/gsoc-2021-proposals)
+
+----
 
 -><-
 

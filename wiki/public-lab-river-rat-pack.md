@@ -14,6 +14,8 @@ by [stevie](../profile/stevie)
 
 May 16, 2019 18:08 | Tags: [flood](../tag/flood), [mississippi-river](../tag/mississippi-river), [urbanwaters](../tag/urbanwaters), [lat:38](../tag/lat:38), [publiclabriverratpack](../tag/publiclabriverratpack), [project](../tag/project), [location:blurred](../tag/location:blurred), [lon:-90](../tag/lon:-90), [map-knitter](../tag/map-knitter), [fresh-water](../tag/fresh-water), [public-access](../tag/public-access)
 
+----
+
 
 
 "Undergraduate and graduate students in the spring 2016 seminar Public Lab River Rat Pack joined assistant professor Derek Hoeferlin on a series of anti-drone expeditions along the Mississippi River, conducting radical fieldwork that exposed the complicated relationship of the St. Louis region to the river. Braving the fickle St. Louis spring weather, students took multiple trips into the field to document the conditions of the river, from flood stage at the start of the semester through the transitions that occurred over the course of the next three months." (Article found [here at wustl.edu](https://www.samfoxschool.wustl.edu/node/11440)) 
@@ -39,18 +41,18 @@ This project is wrapped up now! But you can read about how the group took the fi
 
 <a class="btn btn-large btn-primary" href="https://publiclab.org/subscribe/tag/publiclabriverratpack">Subscribe to updates on this project </a>
 
-[notes:PublicLabRiverRatPack] 
+[PublicLabRiverRatPack](../../tag/PublicLabRiverRatPack) 
 
 ### Questions
 
-[questions:PublicLabRiverRatPack]
+[PublicLabRiverRatPack](../../tag/question:PublicLabRiverRatPack)
 
 ****
 
 ### Activities we’ve done in our project
 The team mapped and took over 28,000 photographs of nine sites for this project.
 
-[activities:PublicLabRiverRatPack]
+[PublicLabRiverRatPack](../../tag/activity:PublicLabRiverRatPack)
 
 ### Data
 

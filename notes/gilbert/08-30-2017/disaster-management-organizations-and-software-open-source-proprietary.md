@@ -8,11 +8,15 @@ uid: 508551
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/021/473/original/Hurricane_Harvey_node_full_image_2.jpg)
+
 # DISASTER MANAGEMENT ORGANIZATIONS AND SOFTWARE - OPEN SOURCE & PROPRIETARY
 
 by [gilbert](../profile/gilbert) August 30, 2017 19:01
 
 August 30, 2017 19:01 | Tags: [disaster-preparedness](../tag/disaster-preparedness), [disaster-response](../tag/disaster-response), [disaster-resilience](../tag/disaster-resilience), [disaster-recovery](../tag/disaster-recovery), [disaster-early-warning](../tag/disaster-early-warning)
+
+----
 
 DISASTER MANAGEMENT ORGANIZATIONS AND SOFTWARE - OPEN SOURCE & PROPRIETARY:
 

@@ -8,11 +8,15 @@ uid: 42340
 
 ---
 
+![](https://publiclab.org/sites/default/files/Handdrawing.jpg)
+
 # Designing a Spectrometer in the 1nm range for <10$ - PART 1
 
 by [ToF](../profile/ToF) September 09, 2012 18:17
 
 September 09, 2012 18:17 | Tags: [spectrometer](../tag/spectrometer), [digicam](../tag/digicam), [nanometer](../tag/nanometer), [slide-mount](../tag/slide-mount), [first-time-poster](../tag/first-time-poster)
+
+----
 
 <strong><I>Level: Intermediate</I></strong>
 

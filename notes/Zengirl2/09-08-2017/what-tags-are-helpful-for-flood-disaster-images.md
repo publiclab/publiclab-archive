@@ -14,4 +14,6 @@ by [zengirl2](../profile/zengirl2) September 08, 2017 06:06
 
 September 08, 2017 06:06 | Tags: [balloon-mapping](../tag/balloon-mapping), [aerial-photography](../tag/aerial-photography), [photo-monitoring](../tag/photo-monitoring), [image-sorting](../tag/image-sorting), [stormwater](../tag/stormwater), [question:stormwater](../tag/question:stormwater), [question:image-sorting](../tag/question:image-sorting)
 
+----
+
 When naming the photo file what information is helpful for flood damage, hazardous sites, disasters etc.? Is there a system already in place similar to the way there are different categories of storms? With climate change there will be even more disaster situations where common tags would be helpful.

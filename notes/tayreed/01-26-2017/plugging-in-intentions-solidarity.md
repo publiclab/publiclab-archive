@@ -8,11 +8,15 @@ uid: 502372
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/019/380/original/wp_20151011_19_11_32_pro.jpg)
+
 # Plugging In! (Intentions & Solidarity)
 
 by [tayreed](../profile/tayreed) January 26, 2017 20:01
 
 January 26, 2017 20:01 | Tags: [statistics](../tag/statistics), [spatial](../tag/spatial)
+
+----
 
 Hey friends,
 

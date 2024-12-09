@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/000/375/original/IMG_3387.JPG)
+
 # Lots of sample Infragram images for testing
 
 by [warren](../profile/warren) May 21, 2013 23:41
 
 May 21, 2013 23:41 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [boston](../tag/boston), [infragram](../tag/infragram), [infrabluephoto](../tag/infrabluephoto)
+
+----
 
 I went to Fresh Pond near Boston on a rainy day and took **LOTS** of [Infragram pictures](/wiki/infragram) photos which I hope will be a good sample set to work from in [developing NDVI generating software](/wiki/infragram-webapp-dev). I'm attaching some of them here, but also for a limited time [sharing a bunch using BitTorrent](/wiki/sharing-images):
 

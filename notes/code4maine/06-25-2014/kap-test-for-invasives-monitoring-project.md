@@ -8,11 +8,15 @@ uid: 294634
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/004/977/original/vlcsnap-2014-06-20-15h26m17s124.png)
+
 # KAP Test for Invasives Monitoring Project
 
 by [ajawitz](../profile/ajawitz) June 25, 2014 18:43
 
 June 25, 2014 18:43 | Tags: [kite-mapping](../tag/kite-mapping), [grassrootsmapping](../tag/grassrootsmapping), [mapknitter](../tag/mapknitter), [citizen-science](../tag/citizen-science), [kap](../tag/kap), [maine](../tag/maine), [invasives](../tag/invasives), [invasive-species](../tag/invasive-species), [civic-hacking](../tag/civic-hacking), [response:10452](../tag/response:10452)
+
+----
 
 ###What I want to do
   I want to successfully complete all steps of a grassroots mapping workflow in order to put together a demonstration for prospective partners in a project that monitors impacts of Invasive Green Crabs in Coastal Maine.  (see http://publiclab.org/notes/code4maine/05-08-2014/mobilizing-data-to-combat-the-evil-green-crab)

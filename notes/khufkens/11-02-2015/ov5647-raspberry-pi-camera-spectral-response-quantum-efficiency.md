@@ -8,11 +8,15 @@ uid: 438931
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/012/322/original/OV5647_QE.png)
+
 # OV5647 (raspberry pi camera) spectral response / quantum efficiency
 
 by [khufkens](../profile/khufkens) November 02, 2015 14:05
 
 November 02, 2015 14:05 | Tags: [calibration](../tag/calibration), [raspberry-pi](../tag/raspberry-pi), [ov5647](../tag/ov5647), [spectral-response](../tag/spectral-response), [pi-camera](../tag/pi-camera), [quantum-efficiency](../tag/quantum-efficiency)
+
+----
 
 In order to use the raspberry pi cameras within a more rigorous framework I needed the full spectral response of the chipset used in these cameras, the OV5647 by OmniVision. I set out to do acquire the response curves using a <a href="http://www.khufkens.com/2015/04/19/raspberry-pi-camera-spectral-response-curve-intro/">DIY diffraction grating approach</a>, as described in previous blog posts and notes.
 

@@ -14,6 +14,8 @@ by [melissajurist](../profile/melissajurist) October 15, 2018 15:18
 
 October 15, 2018 15:18 | Tags: [microscope](../tag/microscope), [question:general](../tag/question:general), [question:microscope](../tag/question:microscope), [microscope-stage](../tag/microscope-stage)
 
+----
+
 I have a laser cutter and would like to make this easier to use for  group of 30\.
 
   

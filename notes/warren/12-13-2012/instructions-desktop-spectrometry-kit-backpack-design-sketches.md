@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/desktop-kit-instructions-0.4.png)
+
 # Instructions for Desktop Spectrometry Kit & 'backpack' design sketches
 
 by [warren](../profile/warren) December 13, 2012 21:01
 
 December 13, 2012 21:01 | Tags: [spectrometer](../tag/spectrometer), [guides](../tag/guides), [kickstarter](../tag/kickstarter)
+
+----
 
 Quick update; we've completely revised the assembly instructions for the [Desktop Spectrometry Kit](http://shop.breadpig.com/products/desktop-spectrometry-kit) as a folded 1 page brochure-style printout (still letter-sized & monochrome!) with great new line art and 6 simple steps. It includes the CERN Open Hardware License and a list of contributors on the back, and uses the 1" conduit body from the latest design. Download it here:
 

@@ -8,11 +8,15 @@ uid: 294634
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/012/760/original/Assembled_Google_Cardboard_VR_mount.jpg)
+
 # Relevance of Virtual  Reality to the World of Grassroots Mapping and Citizen Science?
 
 by [ajawitz](../profile/ajawitz) November 16, 2015 17:59
 
 November 16, 2015 17:59 | Tags: [mapping](../tag/mapping), [blog](../tag/blog), [grassroots](../tag/grassroots), [opendronemap](../tag/opendronemap), [virtual_reality](../tag/virtual_reality), [cardboard_vr](../tag/cardboard_vr), [stereoscopy](../tag/stereoscopy), [location:blurred](../tag/location:blurred), [place:india](../tag/place:india), [lat:22](../tag/lat:22), [lon:76](../tag/lon:76), [zoom:6](../tag/zoom:6)
+
+----
 
 ###Why I'm interested
   I've been hearing about Virtual Reality since the "Lawnmower Man" days of the 1990s, and up until about a week ago my view of it as an expensive toy for rich people remained consistent.  Then I belatedly discovered something introduced over a year ago by Google that, if I didnt know better, I could've easily been convinced came straight out of the PublicLab Store!  [Google Cardboard](https://www.google.com/get/cardboard/) is such a simple approach to high-end technology that I actually thought it was an April Fools joke when first introduced (I.e Google Cardboard as competitor to Amazon Cardboard piling up in the recycling bin...).  Cardboard VR was initially a simple stereoscope through which 3D imagery was produced by a smartphone. By making VR videos, games and map content  available as smartphone apps however, the "Cardboard View" is being promoted as common as viewing a window in full screen.

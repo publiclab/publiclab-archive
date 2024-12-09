@@ -14,6 +14,8 @@ by [Pera](../profile/Pera) April 10, 2014 15:01
 
 April 10, 2014 15:01 | Tags: [dc-baltimore](../tag/dc-baltimore), [first-time-poster](../tag/first-time-poster)
 
+----
+
 Aerial mapping and imagery workshop for State of the Map Sprint Day  
 Monday, April 14 9am - 4pm in Washington, DC
 

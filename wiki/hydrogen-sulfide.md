@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/035/206/original/Info_correlated_in_gradient_0.jpg)
+
 # Hydrogen Sulfide
 
 by [warren](../profile/warren), [Gaurav](../profile/Gaurav), [gretchengehrke](../profile/gretchengehrke), [stevie](../profile/stevie), [liz](../profile/liz)
 
 September 21, 2011 21:24 | Tags: [arduino](../tag/arduino), [hydrogen-sulfide](../tag/hydrogen-sulfide), [air-quality](../tag/air-quality), [h2s](../tag/h2s), [odors](../tag/odors), [h2s-sites:](../tag/h2s-sites:), [h2s-sites](../tag/h2s-sites), [parent:air-quality](../tag/parent:air-quality), [h2s-overview](../tag/h2s-overview), [neurotoxin](../tag/neurotoxin), [odorless](../tag/odorless)
+
+----
 
 _This is the organizing page for research related to hydrogen sulfide in Public Lab._
 
@@ -56,7 +60,7 @@ There are three prototype, low-cost hydrogen sulfide detection methods currently
 
 We can't make progress on these techniques and resources without addressing our unknowns. Please ask questions to help shape the direction of our work!
 
-[questions:hydrogen-sulfide] 
+[hydrogen-sulfide](../../tag/question:hydrogen-sulfide) 
 
 ****
 
@@ -70,7 +74,7 @@ See [other related wiki pages here](https://publiclab.org/wiki/tag/hydrogen-sulf
 
 These activities are to guide you to test out hydrogen sulfide detection methods or use these tools in the field:
 
-[activities:hydrogen-sulfide]
+[hydrogen-sulfide](../../tag/activity:hydrogen-sulfide)
 
 ****
 

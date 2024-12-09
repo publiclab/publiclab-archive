@@ -14,4 +14,6 @@ by [Builder6274](../profile/Builder6274) September 03, 2018 13:12
 
 September 03, 2018 13:12 | Tags: [question:lego-spectrometer](../tag/question:lego-spectrometer)
 
+----
+
 Like the title, I'd like to know which one had the higher image quality. If they're equal then I'll buy the webcam version.

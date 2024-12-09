@@ -8,11 +8,15 @@ uid: 459085
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/016/939/original/IMG_20160625_161315987_1_.jpg)
+
 # "Cool" Riffle Data - with holes!
 
 by [pdhixenbaugh](../profile/pdhixenbaugh) July 09, 2016 23:14
 
 July 09, 2016 23:14 | Tags: [riffle-beta](../tag/riffle-beta)
+
+----
 
 ###Setting the scene:
 

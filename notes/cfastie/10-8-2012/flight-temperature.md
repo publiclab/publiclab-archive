@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/sites/default/files/LEAFBadel-20120922-9192.jpg)
+
 # Flight Temperature
 
 by [cfastie](../profile/cfastie) October 08, 2012 23:26
 
 October 08, 2012 23:26 | Tags: [kite-mapping](../tag/kite-mapping), [arduino](../tag/arduino), [mapknitter](../tag/mapknitter), [leaffest](../tag/leaffest), [leaffest2012](../tag/leaffest2012), [gps](../tag/gps), [jeenode](../tag/jeenode), [qgis](../tag/qgis)
+
+----
 
 A Jeenode is a tiny programmable computer with the same type of processor (8-bit Atmel RISC microprocessor) as an Arduino, and connectors for four sensors.  During a [40 minute kite flight at LEAFFEST](http://publiclaboratory.org/notes/cfastie/10-6-2012/sky-tracks) a Jeenode was recording temperature and barometric pressure about once per second and also recording x, y, and z data from an accelerometer. You can sort of see the Jeenode under the red tape in the above photo of the rig we flew that day.  
 

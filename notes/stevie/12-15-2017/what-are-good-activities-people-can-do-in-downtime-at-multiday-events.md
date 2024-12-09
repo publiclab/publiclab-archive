@@ -14,6 +14,8 @@ by [stevie](../profile/stevie) December 15, 2017 20:32
 
 December 15, 2017 20:32 | Tags: [events](../tag/events), [barnraising](../tag/barnraising), [question:general](../tag/question:general), [barnraising-host](../tag/barnraising-host), [question:hosting-materials](../tag/question:hosting-materials), [funcom](../tag/funcom)
 
+----
+
 _We’re compiling resources to help people host Barnraisings!_ 
 
 Do you know of Resources on what people can do during downtime at Barnraisings? Good games? Or other activities? 

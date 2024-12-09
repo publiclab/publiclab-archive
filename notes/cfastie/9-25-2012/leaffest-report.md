@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/sites/default/files/LEAFBread-group1200.jpg)
+
 # LEAFFEST Report
 
 by [cfastie](../profile/cfastie) September 25, 2012 17:06
 
 September 25, 2012 17:06 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [spectrometer](../tag/spectrometer), [kite-mapping](../tag/kite-mapping), [events](../tag/events), [leaffest](../tag/leaffest), [leaffest2012](../tag/leaffest2012)
+
+----
 
 Thank you LEAFFESTERS!  We had the perfect crowd and good weather for LEAFFEST this past weekend. We were able to fly kites on both Saturday and Sunday (eight kites total, I think), although the only payload that flew on Sunday was a GPS watch.  We flew three payloads on Saturday including some original contraptions designed by Craig Versek and Don Blair. 
 

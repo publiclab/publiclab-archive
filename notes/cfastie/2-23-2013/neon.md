@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/sites/default/files/Shin-2.jpg)
+
 # Neon
 
 by [cfastie](../profile/cfastie) February 23, 2013 20:04
 
 February 23, 2013 20:04 | Tags: [spectrometer](../tag/spectrometer), [vermont](../tag/vermont), [ebert](../tag/ebert), [neon-sign](../tag/neon-sign), [neon](../tag/neon)
+
+----
 
 <em>Image above: Detail of a neon sign of a Shindaiwa Power Broom.</em>
 

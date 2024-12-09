@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/018/221/original/Screen_Shot_2014-07-24_at_1.40.58_PM.png)
+
 # Spectrometry
 
 by [warren](../profile/warren), [Csollar](../profile/Csollar), [dulce](../profile/dulce), [cpdavngr](../profile/cpdavngr), [liz](../profile/liz), [gretchengehrke](../profile/gretchengehrke), [abdul](../profile/abdul)
 
 December 09, 2010 21:26 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [list:plots-spectrometry](../tag/list:plots-spectrometry), [tool](../tag/tool), [activities:spectrometry](../tag/activities:spectrometry), [upgrades:spectrometry](../tag/upgrades:spectrometry), [method](../tag/method), [chemicals](../tag/chemicals), [oil-and-gas](../tag/oil-and-gas), [solid](../tag/solid), [zoom:6](../tag/zoom:6), [lat:40.346845](../tag/lat:40.346845), [lon:-3.827844](../tag/lon:-3.827844), [place:spain](../tag/place:spain)
+
+----
 
 The Public Lab spectrometry project is an open source community effort to develop low-cost spectrometers for a range of purposes. All open spectrometry hardware and software efforts are welcome here! 
 
@@ -62,7 +66,7 @@ This is a list of community-generated guides for specific applications using you
 
 ### Activity grid
 
-[activities:spectrometry]
+[spectrometry](../../tag/activity:spectrometry)
 
 ****
 
@@ -87,7 +91,7 @@ Be sure to add:
 * constraints: expense, complexity
 * goals: performance, use cases
 
-[questions:spectrometry-challenge]
+[spectrometry-challenge](../../tag/question:spectrometry-challenge)
 
 ****
 
@@ -134,6 +138,6 @@ The range of Public Lab spectrometers depends on the range of the commercially a
 
 ## Frequently Asked Questions
 
-[questions:spectrometry]
+[spectrometry](../../tag/question:spectrometry)
 
 Note our previous Frequently Asked Questions page, which [can be found here &raquo;](/wiki/spectrometer-faq) -- please help port these into the new system, here!

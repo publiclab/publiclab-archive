@@ -8,11 +8,15 @@ uid: 540844
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/035/473/original/IMG_20190813_160436.jpg)
+
 # Reporting frac sand mine violations in Wisconsin
 
 by [joyofsoy](../profile/joyofsoy) September 26, 2019 18:51
 
 September 26, 2019 18:51 | Tags: [wisconsin](../tag/wisconsin), [air-quality](../tag/air-quality), [blog](../tag/blog), [fracking](../tag/fracking), [frac-sand](../tag/frac-sand), [parent:frac-sand](../tag/parent:frac-sand), [oil-and-gas](../tag/oil-and-gas), [purpleair](../tag/purpleair), [frac-sand-reporting](../tag/frac-sand-reporting), [lat:44.292401](../tag/lat:44.292401), [lon:-90.856933](../tag/lon:-90.856933)
+
+----
 
 Last month, I joined Public Lab’s Director of Community Development, Stevie Lewis (@stevie), for a pair of workshops in southeast Wisconsin for people impacted by the frac sand mining industry. Along with local environmental activists Pat Popple (@pat) and Sheila Danielson, we walked community members through the process of reporting violations by the frac sand industry. These materials are collected [here][1] for the public.
  

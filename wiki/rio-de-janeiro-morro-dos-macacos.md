@@ -14,6 +14,8 @@ by [liz](../profile/liz), [ives](../profile/ives)
 
 December 20, 2011 03:26 | Tags: [kite-mapping](../tag/kite-mapping), [rio](../tag/rio)
 
+----
+
 O<strong> Morro dos Macacos</strong> é uma das comunidades que sofreram bastante prejuízos durante as chuvas de abril de 2010. Cinco pessoas morreram e cerca de 200 ficaram desabrigadas na tragédia. Para evitar e prevenir uma nova tragédia, o Morro dos Macacos foi uma das comunidades escolhidas para receber o Mapeamento de Riscos Socioambientais Guiado pela Juventude. 
 
 Vinte e quatro meninos e meninas, com idades entre 13 e 22 anos, participaram da iniciativa capitaneada pelo UNICEF, nos dias 18, 20 e 22 de outubro. O primeiro dia de oficina serviu para que os jovens fizessem uma reflexão mais aprofundada sobre os problemas existentes na comunidade. Para isto, eles aprenderam o que são riscos socioambientais, os conceitos de susceptibilidade e vulnerabilidade, o que fazer em caso de desastres e quais os órgãos competentes de cada área, como a Defesa Civil, por exemplo. Também foi discutido o contexto onde moram e quais são os riscos socioambientais aos quais eles estão submetidos. 

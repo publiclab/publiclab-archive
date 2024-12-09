@@ -14,4 +14,6 @@ by [MoparWade](../profile/MoparWade) March 24, 2018 05:39
 
 March 24, 2018 05:39 | Tags: [raspberry-pi](../tag/raspberry-pi), [raspberry-pi-cameras](../tag/raspberry-pi-cameras), [lego-spectrometer](../tag/lego-spectrometer)
 
+----
+
 For the LEGO spectrometer kit is there an adapter needed to connect the camera to the Raspberry Pi? The ribbon coming from the camera is too wide to fit in R-Pi and the cable that comes with the R-Pi which seems like it would do the job is 40mm so no way it's going to work.

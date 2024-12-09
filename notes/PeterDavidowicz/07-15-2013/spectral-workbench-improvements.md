@@ -8,11 +8,15 @@ uid: 169614
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/000/803/original/1x1.gif)
+
 # Spectral Workbench Improvements
 
 by [PeterDavidowicz](../profile/PeterDavidowicz) July 15, 2013 06:01
 
 July 15, 2013 06:01 | Tags: [spectrometer](../tag/spectrometer), [spectral-workbench](../tag/spectral-workbench)
+
+----
 
 Suggestions to improve the spectral workbench software
 

@@ -14,6 +14,8 @@ by [liz](../profile/liz), [abdul](../profile/abdul), [warren](../profile/warren)
 
 February 23, 2011 05:24 | Tags: [balloon-mapping](../tag/balloon-mapping), [materials](../tag/materials), [bom](../tag/bom), [parent:balloon-mapping](../tag/parent:balloon-mapping), [tagtest](../tag/tagtest)
 
+----
+
 <h3 class="span10">Get started quickly by purchasing a kit at the <br /><a href="http://store.publiclab.org/collections/mapping">Public Lab Store &raquo;</a></h3>
 
 Check out this [balloon mapping guide](https://publiclab.org/wiki/balloon-mapping-guide) to see the sources of all the materials we use in our balloon mapping kit that is available on the store.

@@ -8,11 +8,15 @@ uid: 46673
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/005/395/original/logo.png)
+
 # Public Lab Community Newsletter 7.18.2014
 
 by [Becki](../profile/Becki) July 19, 2014 00:29
 
 July 19, 2014 00:29 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
+
+----
 
 Public Lab Community Newsletter July 18
 

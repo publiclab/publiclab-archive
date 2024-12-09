@@ -8,11 +8,15 @@ uid: 664477
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/044/184/original/2021Fellows_intro_photos.jpg)
+
 # Meet Public Lab’s new Research Curation Fellows!
 
 by [bhamster](../profile/bhamster) June 15, 2021 22:19
 
 June 15, 2021 22:19 | Tags: [research](../tag/research), [fellows](../tag/fellows), [research-curation-fellows](../tag/research-curation-fellows)
+
+----
 
 **We are thrilled to welcome four new Research Curation Fellows to Public Lab this spring!** 🎉🎈🔬 Meet the brilliant people who will be growing community science resources on the environmental health topics of water, land, air, and organizing and advocacy over the next twelve months.
 

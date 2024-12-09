@@ -8,11 +8,15 @@ uid: 653396
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/039/535/original/Week3.png)
+
 # Spam management Dashboard @ GSoC week-3
 
 by [keshav_sethi0004](../profile/keshav_sethi0004) May 24, 2020 19:38
 
 May 24, 2020 19:38 | Tags: [gsoc](../tag/gsoc), [spam](../tag/spam), [soc](../tag/soc), [gsoc-2020](../tag/gsoc-2020), [keshav](../tag/keshav), [smd](../tag/smd), [week3](../tag/week3)
+
+----
 
 #### Community Bonding -\> Week 3 Spam management Dashboard
 

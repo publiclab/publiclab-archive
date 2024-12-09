@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/000/489/original/WillsTwo.jpg)
+
 # Infradark
 
 by [cfastie](../profile/cfastie) June 06, 2013 23:02
 
 June 06, 2013 23:02 | Tags: [ndvi](../tag/ndvi), [infragram](../tag/infragram), [night](../tag/night)
+
+----
 
 <em>Image above: Will Ward's nighttime infrablue and normal photos.</em>
 

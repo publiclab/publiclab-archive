@@ -3,6 +3,8 @@ uid: 513718
 created_at: 2017-09-04 06:53:38 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/513718/medium/Keith.bmp)
+
 # Megoptera
 
 Far to extensive to post but . . .

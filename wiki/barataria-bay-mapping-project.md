@@ -8,11 +8,15 @@ uid: 9
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/003/866/original/IMG_0845.JPG)
+
 # Barataria Bay Mapping Project 
 
 by [warren](../profile/warren), [eustatic](../profile/eustatic), [mathew](../profile/mathew), [stevie](../profile/stevie), [Matt_P](../profile/Matt_P), [Shannon](../profile/Shannon)
 
 September 20, 2013 01:37 | Tags: [gulf-coast](../tag/gulf-coast), [barataria-bay](../tag/barataria-bay), [wetlands](../tag/wetlands), [oil-spill](../tag/oil-spill), [wetland](../tag/wetland), [barataria](../tag/barataria), [bp](../tag/bp), [crude-oil](../tag/crude-oil), [lousiana](../tag/lousiana), [first](../tag/first), [location:blurred](../tag/location:blurred), [place:barataria-bay](../tag/place:barataria-bay), [lat:29.4](../tag/lat:29.4), [lon:-89.8](../tag/lon:-89.8), [project:wetlands](../tag/project:wetlands), [second](../tag/second), [third](../tag/third), [fourthtrip:](../tag/fourthtrip:), [flight:](../tag/flight:), [fifthtrip:](../tag/fifthtrip:), [sixth](../tag/sixth)
+
+----
 
 ##Publication on the Barataria Project: 
 

@@ -3,6 +3,8 @@ uid: 428933
 created_at: 2014-09-25 00:01:55 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/5a0612fd5e68982627804c3aa348904f)
+
 # upson
 
 Gaining without contributing is stealing.

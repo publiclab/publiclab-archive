@@ -8,11 +8,15 @@ uid: 428266
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/007/042/original/photo-171-e1411635820919.jpg)
+
 # Can we develop microUSB interfacing for Public Lab cameras?
 
 by [netham](../profile/netham) September 26, 2014 05:21
 
 September 26, 2014 05:21 | Tags: 
+
+----
 
 Seek Thermal launches its thermal camera for smartphones. It's priced at 199$.
 

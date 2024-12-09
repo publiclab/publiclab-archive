@@ -8,11 +8,15 @@ uid: 726546
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/041/749/original/climate-change-is-not-a-white-thing-featured-web-810x422.jpg)
+
 # Climate Change and Environmental Justice:  How it impacts and continues to prove to be a disadvantage to the low income and minority population.
 
 by [MyrnaRomo](../profile/MyrnaRomo) November 14, 2020 00:19
 
 November 14, 2020 00:19 | Tags: [pollution](../tag/pollution), [climate-change](../tag/climate-change), [environmental-justice](../tag/environmental-justice), [lat:41](../tag/lat:41), [issue-brief](../tag/issue-brief), [environmental-advocacy](../tag/environmental-advocacy), [first-time-poster](../tag/first-time-poster), [zoom:7](../tag/zoom:7), [climate-crisis](../tag/climate-crisis), [lon:-87](../tag/lon:-87)
+
+----
 
 ### Introduction:
 

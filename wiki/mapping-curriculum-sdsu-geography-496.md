@@ -14,6 +14,8 @@ by [warren](../profile/warren), [mariakat](../profile/mariakat)
 
 February 01, 2011 20:14 | Tags: [curriculum](../tag/curriculum), [parent:mapping-curriculum](../tag/parent:mapping-curriculum)
 
+----
+
 Written by Stewart Long for the San Diego State University Geography Department in anticipation of use Fall 2011 for Geography 496: Selected Studies in Geography. This course will be conducted over four to five, three hour class sessions and integrates field sessions with the critical analysis of the Grassroots Mapping process.
 
 This curriculum draft outlines materials, activities and technical documentation in support of DIY cartographic curricula. It is intended as a framework for reuse at a variety of institutions including the University of South Alabama, Parsons and Rhode Island School of Design. Portions of this curriculum will also serve as background information for designing community workshops.

@@ -14,4 +14,6 @@ by [gretchengehrke](../profile/gretchengehrke) March 21, 2018 18:18
 
 March 21, 2018 18:18 | Tags: [ingredients](../tag/ingredients), [question:resources](../tag/question:resources), [question:toxicology](../tag/question:toxicology), [question:chemistry](../tag/question:chemistry)
 
+----
+
 Is there a publicly available resource that has easily searchable chemical and toxicological information about toxic substances? It would be great to be able to learn about how specific chemicals behave in the environment and how they may affect human and ecological health. 

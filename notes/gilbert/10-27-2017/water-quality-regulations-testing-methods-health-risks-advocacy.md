@@ -8,11 +8,15 @@ uid: 508551
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/022/120/original/images.jpg)
+
 # Water Quality Regulations, Testing Methods, Health Risks & Advocacy
 
 by [gilbert](../profile/gilbert) October 27, 2017 18:36
 
 October 27, 2017 18:36 | Tags: [public-health](../tag/public-health), [water-quality](../tag/water-quality), [regulations](../tag/regulations), [with:warren](../tag/with:warren), [advocacy](../tag/advocacy), [water-testing](../tag/water-testing), [water-borne-diseases](../tag/water-borne-diseases), [enviornmental-regulation](../tag/enviornmental-regulation)
+
+----
 
 ![](https://lh6.googleusercontent.com/HfUlIUzOTPmJWnFZkKyj6sNxwBPjdNSzigqlre700SYxvKo3BLAoQ83BdBixKClgTcqbIpxCqIyNYW7xHYEo_1XKym00FJTl0nRwPFEiI0VDCPeZswF-Mnl35j4v3f5NmAMPljgm)
 

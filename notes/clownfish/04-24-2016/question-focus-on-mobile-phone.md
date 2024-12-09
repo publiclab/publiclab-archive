@@ -14,6 +14,8 @@ by [clownfish](../profile/clownfish) April 24, 2016 21:51
 
 April 24, 2016 21:51 | Tags: [question:spectrometry](../tag/question:spectrometry), [question:spectral-workbench](../tag/question:spectral-workbench)
 
+----
+
 Hi,
 I am using this on my Sasmsung S5 phone and I find out my camera don't make good focus on photo so then picture of cpectrum is blur and not sharp so then I can't get good photo.
 For example:

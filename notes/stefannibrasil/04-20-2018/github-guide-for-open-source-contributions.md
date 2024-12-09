@@ -14,6 +14,8 @@ by [stefannibrasil](../profile/stefannibrasil) April 20, 2018 04:15
 
 April 20, 2018 04:15 | Tags: [open-source](../tag/open-source), [software](../tag/software), [developers](../tag/developers), [code](../tag/code), [coding](../tag/coding), [barnstar:basic](../tag/barnstar:basic), [github](../tag/github), [activity:software](../tag/activity:software), [git](../tag/git), [activity:developers](../tag/activity:developers), [activity:coding](../tag/activity:coding)
 
+----
+
 I've always wanted to contribute to Open Source projects and I am proud to say that recently I achieved that by doing my first code contributions to some cool projects! There are lots of resources online about contributing to Open Source Projects, especially from [Github][1], but it doesn't hurt writing another one, right? And writing this Guide will help me because now I don't have to search the commands every time :)
 
 For me, the hardest part was finding a project where I felt welcomed as a beginner and comfortable with the technology used. I was looking at the [Rails Girls Summer of Code][2] projects and after some days, I started doing contributions to Public Lab and [If me][3] organizations.

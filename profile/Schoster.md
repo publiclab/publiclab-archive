@@ -3,6 +3,8 @@ uid: 468914
 created_at: 2016-03-21 15:30:45 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/ce253f7d686928f80a236d2800aeeacf)
+
 # Schoster
 
 Veterinary Ophthalmologist

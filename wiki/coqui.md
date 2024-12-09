@@ -8,11 +8,15 @@ uid: 43651
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/009/503/original/IMG_20141118_202304.jpg)
+
 # Coqui conductivity sensor
 
 by [warren](../profile/warren), [zengirl2](../profile/zengirl2), [liz](../profile/liz), [stevie](../profile/stevie), [kgradow1](../profile/kgradow1), [donblair](../profile/donblair)
 
 September 13, 2014 19:14 | Tags: [water-quality-monitoring](../tag/water-quality-monitoring), [mining](../tag/mining), [water-quality](../tag/water-quality), [water](../tag/water), [tool](../tag/tool), [conductivity](../tag/conductivity), [list:plots-waterquality](../tag/list:plots-waterquality), [open-water](../tag/open-water), [coqui](../tag/coqui), [activities:coqui](../tag/activities:coqui), [upgrades:coqui](../tag/upgrades:coqui), [method](../tag/method), [electronic-sensors](../tag/electronic-sensors), [sound](../tag/sound), [parent:water-sensors](../tag/parent:water-sensors), [community-kits-prep](../tag/community-kits-prep), [project:water-quality](../tag/project:water-quality)
+
+----
 
 ## What Does It Do?
 
@@ -39,25 +43,25 @@ However, the circuit is fundamentally the same! Click these images to enlarge:
 
 Here are a few guides to building different versions of the Coqui:
 
-[notes:grid:activity:coqui]
+[grid:activity:coqui](../../tag/grid:activity:coqui)
 
 ## Coqui versions
 
 The Coqui has been refined, remixed, and modified plenty over the years.
 
-[activities:coqui-version]
+[coqui-version](../../tag/activity:coqui-version)
 
 
 ## Modify the Coqui
 
-[activities:coqui-mods]
+[coqui-mods](../../tag/activity:coqui-mods)
 
 
 ## Do something with the Coqui
 
 Once you've built a Coqui, here are a few things you can do with it:
 
-[notes:grid:activity:coqui-usage]
+[grid:activity:coqui-usage](../../tag/grid:activity:coqui-usage)
 
 <a class="btn btn-primary" href="/post?tags=activity:coqui-usage,coqui,water-quality,seeks:replications&title=How%20to%20do%20X">Add an activity</a>  or request an activity guide you don't see listed
 
@@ -67,7 +71,7 @@ Once you've built a Coqui, here are a few things you can do with it:
 
 ## Frequently Asked Questions
 
-[questions:coqui]
+[coqui](../../tag/question:coqui)
 
 ****
 

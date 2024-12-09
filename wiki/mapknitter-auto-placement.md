@@ -14,6 +14,8 @@ by [warren](../profile/warren)
 
 June 20, 2014 17:11 | Tags: [mapknitter](../tag/mapknitter), [gsoc](../tag/gsoc), [gsoc-2014](../tag/gsoc-2014), [auto-knitting](../tag/auto-knitting), [auto-placement](../tag/auto-placement)
 
+----
+
 Collecting sample images which [Vidun](/profile/xvidun) can use to test his auto-placement code for photos with GPS metadata: http://publiclab.org/notes/xvidun/06-20-2014/gsoc-upadate-autoknitting
 
 Please click EDIT and drag your photos into the text area to share them. Please leave a short note about where they're from etc -- thanks!

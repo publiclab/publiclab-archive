@@ -14,6 +14,8 @@ by [gretchengehrke](../profile/gretchengehrke) February 04, 2015 22:15
 
 February 04, 2015 22:15 | Tags: [spectrometer](../tag/spectrometer), [oil](../tag/oil), [oil-testing-kit](../tag/oil-testing-kit), [samples](../tag/samples), [first-time-poster](../tag/first-time-poster)
 
+----
+
 Hi All, 
 
 We have some questions for prepping the [Oil Testing Kits](http://publiclab.org/wiki/oil-testing-kit) and testing [spectrometers](http://publiclab.org/wiki/spectrometer).

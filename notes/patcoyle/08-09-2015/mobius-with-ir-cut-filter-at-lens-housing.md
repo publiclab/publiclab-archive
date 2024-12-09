@@ -8,11 +8,15 @@ uid: 77
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/011/063/original/IMG_6316.JPG)
+
 # Mobius with IR cut filter at lens housing 
 
 by [patcoyle](../profile/patcoyle) August 09, 2015 01:32
 
 August 09, 2015 01:32 | Tags: [mobius-actioncam](../tag/mobius-actioncam), [infragram-point-shoot](../tag/infragram-point-shoot), [non-fish-eye](../tag/non-fish-eye)
+
+----
 
 ###What I want to do
 

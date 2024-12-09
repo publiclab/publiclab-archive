@@ -8,11 +8,15 @@ uid: 511878
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/021/245/original/IMG_1333_%281%29.jpg)
+
 # Mapping rugged coastal environments with a Raspberry Pi and a balloon?
 
 by [samwf](../profile/samwf) August 01, 2017 12:08
 
 August 01, 2017 12:08 | Tags: [balloon-mapping](../tag/balloon-mapping), [photogrammetry](../tag/photogrammetry), [raspberry-pi](../tag/raspberry-pi), [photo-monitoring](../tag/photo-monitoring), [timelapse](../tag/timelapse), [coast](../tag/coast), [germany](../tag/germany), [topography](../tag/topography), [high-resolution](../tag/high-resolution)
+
+----
 
 **The short**:
 

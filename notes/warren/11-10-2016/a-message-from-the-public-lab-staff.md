@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/018/738/original/PublicLab_-_Maker_Summit.png)
+
 # A message from the Public Lab staff
 
 by [warren](../profile/warren) November 10, 2016 18:08
 
 November 10, 2016 18:08 | Tags: [blog](../tag/blog)
+
+----
 
 Public Lab resists and rejects: racism, sexism, ableism, ageism, homophobia, transphobia, xenophobia, body shaming, religion shaming, education bias, and bullying.
 

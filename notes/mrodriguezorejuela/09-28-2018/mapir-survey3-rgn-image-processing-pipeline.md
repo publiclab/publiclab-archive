@@ -14,6 +14,8 @@ by [mrodriguezorejuela](../profile/mrodriguezorejuela) September 28, 2018 13:45
 
 September 28, 2018 13:45 | Tags: [ndvi](../tag/ndvi), [question:question](../tag/question:question), [rgn](../tag/rgn), [mapir](../tag/mapir)
 
+----
+
 Hi there. I need some input regarding how to process some images from our Mapir Survey3 camera in some very specific conditions. 
 
   

@@ -8,11 +8,15 @@ uid: 43651
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/003/652/original/riffle-conductivity.png)
+
 # RIFFLE: Conductivity + Adhesive updates
 
 by [donblair](../profile/donblair) April 14, 2014 17:52
 
 April 14, 2014 17:52 | Tags: [water](../tag/water), [quality](../tag/quality)
+
+----
 
 Some quick updates on some [RIFFLE](http://openwaterproject.io) prototyping we've been doing ...
 

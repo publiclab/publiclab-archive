@@ -14,6 +14,8 @@ by [warren](../profile/warren)
 
 February 17, 2020 22:50 | Tags: 
 
+----
+
 @warren taking notes here on techniques for DIY solar cells. Some are more toxic than others. 
 
 ## Titanium and berry based

@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/002/194/original/2200W25A-272-25NNR.jpg)
+
 # Red Filter Rising
 
 by [cfastie](../profile/cfastie) November 12, 2013 02:00
 
 November 12, 2013 02:00 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [nrg](../tag/nrg), [vermont](../tag/vermont), [infrared](../tag/infrared), [conversion](../tag/conversion), [filter](../tag/filter), [infragram](../tag/infragram), [list:plots-infrared](../tag/list:plots-infrared), [infrablue](../tag/infrablue), [bg3](../tag/bg3), [wratten25a](../tag/wratten25a), [response:9744](../tag/response:9744), [scattering](../tag/scattering), [nbn](../tag/nbn), [nnr](../tag/nnr), [super-red](../tag/super-red)
+
+----
 
 *Image above: False color infrared version of a landscape scene taken with a modified Canon A2200 with a Wratten 25A filter. The red and blue channels have been swapped, so instead of displaying RGB in the R, G, and B channels, this image displays NNR in the R, G, and B channels.*  
 .

@@ -8,11 +8,15 @@ uid: 473370
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/016/126/original/blob)
+
 # Public Lab River Rat Pack—St. Louis – Xiaoxin Cao 
 
 by [Xiaoxin](../profile/Xiaoxin) May 12, 2016 08:11
 
 May 12, 2016 08:11 | Tags: [publiclabriverratpack](../tag/publiclabriverratpack)
+
+----
 
 When I was in China three years ago, I have heard of John McPhee’s stunning story “ Atchafalaya.” Is about Humans vs. The Mississippi River. http://www.newyorker.com/magazine/1987/02/23/atchafalaya
 It is very interesting to me, so I am not hesitated to take this class. 

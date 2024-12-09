@@ -8,11 +8,15 @@ uid: 430549
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/023/658/original/IMG_20171104_155302.jpg)
+
 # Particle Visualization Event in Hixton, WI
 
 by [gretchengehrke](../profile/gretchengehrke) February 20, 2018 23:04
 
 February 20, 2018 23:04 | Tags: [event](../tag/event), [wisconsin](../tag/wisconsin), [air-quality](../tag/air-quality), [dust](../tag/dust), [particulates](../tag/particulates), [frac-sand](../tag/frac-sand), [pm](../tag/pm), [particle-monitoring](../tag/particle-monitoring), [event:rsvp](../tag/event:rsvp), [parent:frac-sand](../tag/parent:frac-sand), [particulate-matter](../tag/particulate-matter), [microscopes](../tag/microscopes), [location:blurred](../tag/location:blurred), [date:03-04-2018](../tag/date:03-04-2018), [lat:44.38](../tag/lat:44.38), [lon:-91.01](../tag/lon:-91.01), [place:hixton-wi](../tag/place:hixton-wi)
+
+----
 
 ## Event details
 

@@ -14,6 +14,8 @@ by [warren](../profile/warren) September 25, 2017 18:10
 
 September 25, 2017 18:10 | Tags: [thermal-photography](../tag/thermal-photography), [flir](../tag/flir), [methane](../tag/methane), [benzene](../tag/benzene), [gas](../tag/gas), [gas-sensor](../tag/gas-sensor), [question:thermal-photography](../tag/question:thermal-photography), [carbon-dioxide](../tag/carbon-dioxide), [question:oil-and-gas](../tag/question:oil-and-gas), [carbon-monoxide](../tag/carbon-monoxide), [question:flir](../tag/question:flir), [gas-leak](../tag/gas-leak), [gas-imaging](../tag/gas-imaging), [optical-gas-imaging](../tag/optical-gas-imaging), [ogi](../tag/ogi), [ethyl-alcohol](../tag/ethyl-alcohol), [hydrocarbons](../tag/hydrocarbons), [propane](../tag/propane), [butane](../tag/butane), [propylene](../tag/propylene), [refrigerants](../tag/refrigerants), [sulfur-hexafluoride](../tag/sulfur-hexafluoride), [trichloroethylene](../tag/trichloroethylene), [vinyl-chloride-monomer](../tag/vinyl-chloride-monomer), [question:methane](../tag/question:methane)
 
+----
+
 According to http://www.flir.com/ogi/,  
 
 > FLIR received third-party validation of the FLIR GFx320, GF320, GF300, and G300a cameras' compliance with the following sensitivity standard laid out by the EPA in the NSPS OOOOa methane rule:

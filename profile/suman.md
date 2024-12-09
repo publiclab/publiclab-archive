@@ -3,6 +3,8 @@ uid: 497769
 created_at: 2016-11-22 20:33:14 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/de5fab74d2227d656dcbebeafe35b0b0)
+
 # suman
 
 Environment & Geoinformatics Enthusiast working in Precision Agriculture

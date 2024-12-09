@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/021/196/original/Screenshot_2017-07-23_at_11.53.44_AM.png)
+
 # Rough prototype of video analysis tool for monitoring a pixel's brightness/color over time
 
 by [warren](../profile/warren) July 23, 2017 10:17
 
 July 23, 2017 10:17 | Tags: [video](../tag/video), [photo-monitoring](../tag/photo-monitoring), [timelapse](../tag/timelapse), [water-quality](../tag/water-quality), [turbidity](../tag/turbidity), [prototype](../tag/prototype), [image-analysis](../tag/image-analysis), [video-analysis](../tag/video-analysis)
+
+----
 
 I've spoken with a few people over the past months about figuring out a way to monitor the color of a patch of water or air in a timelapse video -- to see if it changes on a cyclic basis, and if you can detect things like turbidity changes, emissions, and that sort of thing by looking at a graph of color change over a long period of time.
 

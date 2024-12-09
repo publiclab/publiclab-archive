@@ -14,6 +14,8 @@ by [warren](../profile/warren) April 18, 2019 17:11
 
 April 18, 2019 17:11 | Tags: [calibration](../tag/calibration), [air-quality](../tag/air-quality), [air](../tag/air), [dust](../tag/dust), [pm](../tag/pm), [particulate-matter](../tag/particulate-matter), [purpleair](../tag/purpleair), [plantower](../tag/plantower), [question:purpleair](../tag/question:purpleair), [question:simple-air-sensor](../tag/question:simple-air-sensor), [simple-air-sensor](../tag/simple-air-sensor), [question:plantower](../tag/question:plantower), [validity](../tag/validity)
 
+----
+
 Hi all, it makes sense that you get extra credibility/validity if you have 2 sensors (like the #plantower) and they agree (basically for any sensor!). But I wanted to try to break this down with as little jargon as possible -- are there other advantages? Does the Purple Air average the two, or how does it use the two data streams?
 
   

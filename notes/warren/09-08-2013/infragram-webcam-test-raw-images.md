@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/001/424/original/IMG_0251.JPG)
+
 # Infragram webcam test raw images
 
 by [warren](../profile/warren) September 08, 2013 03:44
 
 September 08, 2013 03:44 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [vermont](../tag/vermont), [leaffest](../tag/leaffest), [infragram](../tag/infragram), [infragram-conversion](../tag/infragram-conversion), [leaffest2013](../tag/leaffest2013), [lat:44.02](../tag/lat:44.02), [lon:-73.09](../tag/lon:-73.09)
+
+----
 
 At [LEAFFEST](/wiki/leaffest) 2013, we wanted to do a rigorous test of all the [webcams we've been testing as Infragram Webcam candidates](/tag/infragram-conversion), so we taped them all to a board and set them up to photograph the same scene in succession, along with photos on some of the Canon Infragram converted cameras we're more confident in. Here are all the raw photos; filenames reflect the camera model code and the two different filters we tested them with; the Rosco 2007 and the 74:
 

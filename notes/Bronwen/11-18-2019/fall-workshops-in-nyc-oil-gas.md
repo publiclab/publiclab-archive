@@ -8,11 +8,15 @@ uid: 237313
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/036/597/original/IMG_20190928_140715.jpg)
+
 # Fall Workshops in NYC- Oil & Gas
 
 by [Bronwen](../profile/Bronwen) November 18, 2019 15:28
 
 November 18, 2019 15:28 | Tags: [workshops](../tag/workshops), [nyc](../tag/nyc), [oil-and-gas](../tag/oil-and-gas), [simple-air-sensor](../tag/simple-air-sensor)
+
+----
 
 **September 28 1-5pm - Wepa Festival Table**
 

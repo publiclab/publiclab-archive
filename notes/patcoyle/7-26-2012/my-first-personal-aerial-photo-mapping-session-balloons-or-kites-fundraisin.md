@@ -14,6 +14,8 @@ by [patcoyle](../profile/patcoyle) July 26, 2012 16:35
 
 July 26, 2012 16:35 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping)
 
+----
+
 My first “Personal aerial photo-mapping session with balloons or kites,” a fundraising auction item, was successful. On Sunday, 7/22/12, Nile Runge, who had successfully bid on the item at a Livermore Rotary Club fundraiser, and I flew two mylar sleeping bag balloons with a Canon A1200, shooting in continuous mode in a juice -bottle rig. We flew at Shadow Cliffs Regional Recreation Area, off Stanley Boulevard, Pleasanton, CA, a part of the East Bay Regional Park District.
 
 Donating such sessions to benefit auctions may be of interest to others as a way to educate and share the aerial photo-mapping techniques with others by donating a few hours of their time and inexpensive gear like a couple mylar sleeping bag balloons, a homemade kite and a juice or soda bottle rig, and the resulting photos and map to get others started.

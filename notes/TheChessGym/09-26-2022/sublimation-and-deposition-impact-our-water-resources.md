@@ -8,11 +8,15 @@ uid: 788868
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/047/193/original/conversion-sublimation-carbon-dioxide-gas.webp)
+
 # Sublimation and Deposition Impact Our Water Resources 
 
 by [TheChessGym](../profile/TheChessGym) September 26, 2022 13:38
 
 September 26, 2022 13:38 | Tags: [first-time-poster](../tag/first-time-poster), [lat:20](../tag/lat:20), [lon:70](../tag/lon:70), [zoom:4](../tag/zoom:4)
+
+----
 
 Sublimation and Deposition Impact Our Water Resources
 

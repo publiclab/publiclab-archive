@@ -14,6 +14,8 @@ by [amocorro](../profile/amocorro) November 18, 2020 20:31
 
 November 18, 2020 20:31 | Tags: [oil-spill](../tag/oil-spill), [visualization](../tag/visualization), [maps](../tag/maps), [question:general](../tag/question:general), [general](../tag/general), [environmental-sensitivity-index](../tag/environmental-sensitivity-index), [erma](../tag/erma), [environmental-responders](../tag/environmental-responders)
 
+----
+
 I'd love to hear how this database supported your community needs or fell short. Plus any best "how to use" tips you may have to share. I recently learned that NOAA adds Oil Spill data to this database for the Pacific Northwest Region, which is what sparked my curiosity.
 
 About: [The Environmental Response Management Application (ERMA)](https://response.restoration.noaa.gov/resources/maps-and-spatial-data/environmental-response-management-application-erma) is an online mapping tool that integrates both static and real-time data, such as Environmental Sensitivity Index (ESI) maps, ship locations, weather, and ocean currents, in a centralized, easy-to-use format for environmental responders and decision makers.

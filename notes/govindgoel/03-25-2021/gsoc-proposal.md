@@ -8,11 +8,15 @@ uid: 641919
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/043/092/original/gsoc_image.jpeg)
+
 # GSoC 2021 Proposal: Translation System Refinements 
 
 by [govindgoel](../profile/govindgoel) March 25, 2021 19:45
 
 March 25, 2021 19:45 | Tags: [software](../tag/software), [soc](../tag/soc), [first-time-poster](../tag/first-time-poster), [zoom:6](../tag/zoom:6), [gsoc-2021](../tag/gsoc-2021), [gsoc-2021-proposals](../tag/gsoc-2021-proposals), [lat:28.708279](../tag/lat:28.708279), [lon:77.656542](../tag/lon:77.656542)
+
+----
 
 ## About me
 

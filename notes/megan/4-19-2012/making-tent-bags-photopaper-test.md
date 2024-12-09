@@ -14,6 +14,8 @@ by [megan](../profile/megan) April 20, 2012 00:25
 
 April 20, 2012 00:25 | Tags: 
 
+----
+
 The advantage of using the tent container is that it can be flat packed and shipped in an envelope and then sealed up at the end of the test and shipped back rather in expensively.
 
 It is important to use heavy duty plastic in order to prevent light contamination, 2mil or great should be good. Here is a website to order the bags, only bad thing is you have to order a carton. 

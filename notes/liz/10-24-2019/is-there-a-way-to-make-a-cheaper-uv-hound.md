@@ -14,6 +14,8 @@ by [liz](../profile/liz) October 24, 2019 19:03
 
 October 24, 2019 19:03 | Tags: [uv](../tag/uv), [spectrometry](../tag/spectrometry), [air-quality](../tag/air-quality), [question:air-quality](../tag/question:air-quality), [mass-spectrometry](../tag/mass-spectrometry)
 
+----
+
 I'm posting on behalf of the amazing Houston organizer Bryan Parras, who shared some insights with me on the phone the other day. 
 
 In a settlement from a lawsuit against local industry, decorated Port Arthur environmental activist Hilton Kelly (a [Goldman award winner][1]) received 2 UV mass spectrometers, known as "UV Hound": https://envcoglobal.com/catalog/air/gas-monitors/ambient-monitors/uv-hound-series . They each cost between 20K and 30K, and each can monitor abt 200'-500' of airspace.

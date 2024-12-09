@@ -8,11 +8,15 @@ uid: 237313
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/002/110/original/IMG_0590.JPG)
+
 # (Attempted) Kite Mapping at Dead Horse Bay
 
 by [Bronwen](../profile/Bronwen) November 03, 2013 18:02
 
 November 03, 2013 18:02 | Tags: [new-york-city](../tag/new-york-city), [kite-mapping](../tag/kite-mapping), [brooklyn](../tag/brooklyn), [waste](../tag/waste), [trash](../tag/trash), [dead-horse-bay](../tag/dead-horse-bay)
+
+----
 
 ###What I want to do
 

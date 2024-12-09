@@ -8,11 +8,15 @@ uid: 461120
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/015/585/original/fluorescein.JPG)
+
 # accuracy test for version 2.5 Plab spectrometer
 
 by [dhaffnersr](../profile/dhaffnersr) April 16, 2016 16:35
 
 April 16, 2016 16:35 | Tags: 
+
+----
 
 I ran a series of very detailed tests on my spectrometer this week, against already established data (references are provided at the bottom of page.) on fluorescein in a buffer of 0.1M NaHCO3 (sodium bi-carbonate-lab quality.) My goal was to test the data acquisition accuracy of the Plab version 2.5 spectrometer. 
 

@@ -8,10 +8,14 @@ uid: 452486
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/011/682/original/20150924_114536.jpg)
+
 # FYS_NMPRPK_Flourescentbulb
 
 by [nmorroni](../profile/nmorroni) September 24, 2015 16:01
 
 September 24, 2015 16:01 | Tags: 
+
+----
 
 Ramapo FYS class spectrometer project.

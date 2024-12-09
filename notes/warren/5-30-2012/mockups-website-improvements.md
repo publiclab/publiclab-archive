@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/Picture 5.png)
+
 # Mockups for website improvements
 
 by [warren](../profile/warren) May 30, 2012 22:14
 
 May 30, 2012 22:14 | Tags: [website](../tag/website)
+
+----
 
 For those interested or already involved in one of the ongoing projects to improve the Public Lab website:
 

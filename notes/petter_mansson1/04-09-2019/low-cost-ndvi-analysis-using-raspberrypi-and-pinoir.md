@@ -8,11 +8,15 @@ uid: 573015
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/031/764/original/ndvi_2019-4-20-16-0-5.png)
+
 # Low cost NDVI analysis using RaspberryPi and PiNoIR
 
 by [petter_mansson1](../profile/petter_mansson1) April 09, 2019 11:34
 
 April 09, 2019 11:34 | Tags: [ndvi](../tag/ndvi), [raspberry-pi](../tag/raspberry-pi), [infragram](../tag/infragram), [colormap](../tag/colormap), [ndvi-calibrate](../tag/ndvi-calibrate), [pi-camera](../tag/pi-camera), [pinoir](../tag/pinoir), [activity:infragram](../tag/activity:infragram), [activity:ndvi](../tag/activity:ndvi), [replication:15075](../tag/replication:15075), [first-time-poster](../tag/first-time-poster), [infragram-pi](../tag/infragram-pi), [lat:55.604981](../tag/lat:55.604981), [lon:13.003822](../tag/lon:13.003822), [activity:infragram-pi](../tag/activity:infragram-pi), [pin:activity:ndvi](../tag/pin:activity:ndvi), [pin:activity:infragram](../tag/pin:activity:infragram), [pin:activity:infragram-pi](../tag/pin:activity:infragram-pi)
+
+----
 
 This project is about conducting an Experiment to see if a PI NoIR camera is able to perform NDVI calculations.
 

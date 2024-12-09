@@ -14,6 +14,8 @@ by [warren](../profile/warren)
 
 September 20, 2017 15:16 | Tags: [stormwater](../tag/stormwater), [parent:new-orleans-stormwater-project-data](../tag/parent:new-orleans-stormwater-project-data)
 
+----
+
 This is a mini-guide to uploading photos for the [New Orleans Stormwater Project](/wiki/stormwater).
 
 You can now upload directly to the shared folder without logging in under a new account -- any Google/Gmail account will work:

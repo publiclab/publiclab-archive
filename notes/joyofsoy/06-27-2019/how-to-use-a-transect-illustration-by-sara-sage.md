@@ -14,6 +14,8 @@ by [joyofsoy](../profile/joyofsoy) June 27, 2019 22:00
 
 June 27, 2019 22:00 | Tags: [blog](../tag/blog), [transect](../tag/transect), [graphic](../tag/graphic), [odor](../tag/odor), [odor-logging](../tag/odor-logging), [csf](../tag/csf), [csf16](../tag/csf16), [with:sarasage](../tag/with:sarasage)
 
+----
+
 This illustration by [Sara Sage](https://publiclab.org/profile/sarasage) was featured in the centerfold in Public Lab's _Community Science Forum_, Issue 16\.
 
 ![image description](/i/33302.jpg "ODOR_LOGGING_02001.jpg")

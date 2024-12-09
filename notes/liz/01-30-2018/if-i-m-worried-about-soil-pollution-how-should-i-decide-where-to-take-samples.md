@@ -14,5 +14,7 @@ by [liz](../profile/liz) January 30, 2018 22:53
 
 January 30, 2018 22:53 | Tags: [soil-sampling](../tag/soil-sampling), [question:soil-sampling](../tag/question:soil-sampling), [question-soil](../tag/question-soil)
 
+----
+
 
 The area i'm concerned about has a lot of possible locations where i could collect a soil sample from -- how do i make a plan?

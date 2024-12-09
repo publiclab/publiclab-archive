@@ -8,11 +8,15 @@ uid: 664477
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/045/132/original/infographic_sketch_cropped.jpeg)
+
 # Create a “data story” to communicate environmental data
 
 by [bhamster](../profile/bhamster) December 02, 2021 19:12
 
 December 02, 2021 19:12 | Tags: [storytelling](../tag/storytelling), [environmental-data](../tag/environmental-data), [presenting-data](../tag/presenting-data), [air-quality-data](../tag/air-quality-data), [data-storytelling](../tag/data-storytelling), [with:renee](../tag/with:renee), [data-story](../tag/data-story), [activity:environmental-data](../tag/activity:environmental-data), [activity:storytelling](../tag/activity:storytelling), [activity:air-quality-data](../tag/activity:air-quality-data)
+
+----
 
 _Lead image: by [Lauren Manning](https://www.flickr.com/photos/laurenmanning/8048984203/in/photostream/), [CC BY](https://creativecommons.org/licenses/by/2.0/)_
 

@@ -8,11 +8,15 @@ uid: 459085
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/017/705/original/images.jpg)
+
 # Planning for a new Riffle conductivity circuit
 
 by [pdhixenbaugh](../profile/pdhixenbaugh) August 20, 2016 21:32
 
 August 20, 2016 21:32 | Tags: [conductivity](../tag/conductivity), [riffle](../tag/riffle)
+
+----
 
 ###What I want to do
 I want to build a conductivity sensor that can attach to the riffle inside of a water bottle, for use measuring conductivity changes from road salts during the winter season. The coqui is a good starting point, however there are two questions I have:

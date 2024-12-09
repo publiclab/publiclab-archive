@@ -14,6 +14,8 @@ by [partsandcrafts](../profile/partsandcrafts) February 26, 2018 18:13
 
 February 26, 2018 18:13 | Tags: [raspberry-pi](../tag/raspberry-pi), [with:kgradow1](../tag/with:kgradow1), [with:warren](../tag/with:warren), [microscope](../tag/microscope), [with:wmacfarl](../tag/with:wmacfarl), [with:bmela](../tag/with:bmela), [activity:basic-microscope](../tag/activity:basic-microscope), [series:basic-microscope](../tag/series:basic-microscope), [raspberry-pi-camera](../tag/raspberry-pi-camera)
 
+----
+
 # NOTE
 
 This is the least-well-developed part of the process and is a complicated enough project that it deserves its own series of activities and write-ups.    

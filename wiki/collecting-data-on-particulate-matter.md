@@ -14,6 +14,8 @@ by [bhamster](../profile/bhamster), [gretchengehrke](../profile/gretchengehrke),
 
 February 15, 2016 09:59 | Tags: [parent:pm](../tag/parent:pm)
 
+----
+
 Before undertaking air monitoring for Particulate Matter (PM) [identify the end goals of monitoring for your community](https://publiclab.org/wiki/frac-sand-action-oriented-resources#Strategizing). Monitoring [airborne particles](/wiki/pm) can be prohibitively expensive and data that is actionable for regulators can take years to collect. To be efficient, the accuracy and precision of collected data should be appropriate for its end use -- not all data needs to be of regulatory quality in order to be useful. For example, a community may want to collect data to:
 
 - highlight a problem for the purposes of [community mobilization](/wiki/frac-sand-action-oriented-resources)

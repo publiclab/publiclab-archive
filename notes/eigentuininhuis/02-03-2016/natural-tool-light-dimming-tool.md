@@ -8,11 +8,15 @@ uid: 460522
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/014/061/original/image.jpeg)
+
 # Natural tool light dimming tool
 
 by [eigentuininhuis](../profile/eigentuininhuis) February 03, 2016 23:48
 
 February 03, 2016 23:48 | Tags: [spectrometer](../tag/spectrometer), [mango](../tag/mango)
+
+----
 
 ###What I want to do
 I wanted to calibrate nicely but i got over exposure

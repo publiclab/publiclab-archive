@@ -8,11 +8,15 @@ uid: 504749
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/021/410/original/sampleEmail.png)
+
 # GSOC 2017 FINAL REPORT;  EMAIL NOTIFICATIONS OVERHAUL
 
 by [stella](../profile/stella) August 24, 2017 18:53
 
 August 24, 2017 18:53 | Tags: [gsoc](../tag/gsoc), [google-summer-of-code](../tag/google-summer-of-code), [gsoc-2017](../tag/gsoc-2017), [soc](../tag/soc), [soc-2017](../tag/soc-2017), [response:14788](../tag/response:14788)
+
+----
 
 ##EMAIL NOTIFICATIONS
 The main aim of the project was to manage too many notifications for subsequent edits and new taggings on nodes. [This](https://publiclab.org/notes/stella/04-03-2017/email-notification-overhaul) is the original proposal to the project

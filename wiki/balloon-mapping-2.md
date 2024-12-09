@@ -14,6 +14,8 @@ by [warren](../profile/warren)
 
 February 23, 2011 05:31 | Tags: 
 
+----
+
 <img src='http://farm3.static.flickr.com/2629/4098484223_0f3a511098.jpg' />
 
 Satellite images can be a great place to start when making a map. But Google’s images are often several years old, and may not be high resolution enough. And isn’t it creepy that they’re taking pictures of you?

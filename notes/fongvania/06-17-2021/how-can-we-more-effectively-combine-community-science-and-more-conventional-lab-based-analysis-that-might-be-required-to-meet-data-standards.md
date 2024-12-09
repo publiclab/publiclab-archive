@@ -14,6 +14,8 @@ by [fongvania](../profile/fongvania) June 17, 2021 05:46
 
 June 17, 2021 05:46 | Tags: [standards](../tag/standards), [data](../tag/data), [measurement](../tag/measurement), [question:general](../tag/question:general), [general](../tag/general), [study-design](../tag/study-design), [data-quality](../tag/data-quality)
 
+----
+
 Some challenges/considerations that come to mind:
 
 - Repeatability of measurements in environments that you don't have full control over

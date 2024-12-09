@@ -8,11 +8,15 @@ uid: 152
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/013/867/original/DSCN5900.JPG)
+
 # Decolonized Skies
 
 by [hagitkeysar](../profile/hagitkeysar) January 26, 2016 19:46
 
 January 26, 2016 19:46 | Tags: [balloon-mapping](../tag/balloon-mapping), [jerusalem](../tag/jerusalem), [israel](../tag/israel), [palestine](../tag/palestine), [exhibition](../tag/exhibition)
+
+----
 
 [![DSCN5895.JPG](//i.publiclab.org/system/images/photos/000/013/868/large/DSCN5895.JPG)](//i.publiclab.org/system/images/photos/000/013/868/original/DSCN5895.JPG)
 

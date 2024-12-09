@@ -8,11 +8,15 @@ uid: 461120
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/017/215/original/beer_lambert_law_1.png)
+
 # Absorption and Emission of Safranin O using a 532nm green laser July 24, 2016
 
 by [dhaffnersr](../profile/dhaffnersr) July 25, 2016 19:52
 
 July 25, 2016 19:52 | Tags: 
+
+----
 
 ##**A question I had asked myself was, “can I get an absorption and emission spectrum together at the same time by using a laser?”**
 

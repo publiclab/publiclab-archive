@@ -8,11 +8,15 @@ uid: 297929
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/005/457/original/20140721_134622.jpg)
+
 # Brainstorm a Family Hackerspace!
 
 by [kgradow1](../profile/kgradow1) July 23, 2014 15:14
 
 July 23, 2014 15:14 | Tags: [somerville-massachusetts](../tag/somerville-massachusetts), [boston](../tag/boston), [partsandcrafts](../tag/partsandcrafts), [event](../tag/event), [somerville](../tag/somerville), [events:boston](../tag/events:boston), [event:rsvp](../tag/event:rsvp), [date:07-24-2014](../tag/date:07-24-2014)
+
+----
 
 ###A Family Hackerspace at Parts and Crafts!?
 

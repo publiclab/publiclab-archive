@@ -14,6 +14,8 @@ by [Mushroomman](../profile/Mushroomman) December 05, 2016 05:58
 
 December 05, 2016 05:58 | Tags: [remediation](../tag/remediation), [fungus](../tag/fungus), [question:bioremediation](../tag/question:bioremediation), [mushroom](../tag/mushroom), [soil-remediation](../tag/soil-remediation), [question:soil-remediation](../tag/question:soil-remediation)
 
+----
+
 ###What I want to do or know
 
  mycoremediation (using fungi to remediate anthropogenic toxins from our soils and waterways.) 

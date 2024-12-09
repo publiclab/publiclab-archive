@@ -8,11 +8,15 @@ uid: 45586
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/016/705/original/Clayton_blast_8-21-2013.jpg)
+
 # Using Photographs in Fighting Mining Companies
 
 by [mlamadrid](../profile/mlamadrid) June 22, 2016 00:47
 
 June 22, 2016 00:47 | Tags: [wisconsin](../tag/wisconsin), [blog](../tag/blog), [frac-sand](../tag/frac-sand), [stories](../tag/stories), [parent:frac-sand](../tag/parent:frac-sand), [communityscienceforum](../tag/communityscienceforum)
+
+----
 
 Article by Forest Jahnke, from [Crawford Stewardship Project](http://www.crawfordstewardshipproject.org/) for [Community Science Forum: Sand-Frac Issue](https://publiclab.org/forum)
 

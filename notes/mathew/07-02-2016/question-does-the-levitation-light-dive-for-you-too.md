@@ -8,11 +8,15 @@ uid: 4
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/016/845/original/diving.png)
+
 # Question: Does the Levitation Light dive for you too?
 
 by [mathew](../profile/mathew) July 02, 2016 00:10
 
 July 02, 2016 00:10 | Tags: [kite-mapping](../tag/kite-mapping), [kap](../tag/kap), [kites](../tag/kites), [levitation-delta](../tag/levitation-delta), [question:kites](../tag/question:kites)
+
+----
 
 ###What I want to do or know
 Has anyone else flown a [9' Levitation Light by Into the Wind](http://intothewind.com/Item--i-3610)? Have you seen it dive in turbulent winds? Any suggestions to stop that behavior?

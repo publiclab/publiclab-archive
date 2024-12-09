@@ -14,6 +14,8 @@ by [kh_machine](../profile/kh_machine) June 12, 2015 21:24
 
 June 12, 2015 21:24 | Tags: [water-quality](../tag/water-quality), [thermal-fishing-bob](../tag/thermal-fishing-bob)
 
+----
+
 ###Potential Problems
 During the recent Thermal Fishing Bob Workshop (Northeastern U), two potential problems were discussed:
 * The thermister is slow to update.

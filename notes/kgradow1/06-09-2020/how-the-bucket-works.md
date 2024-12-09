@@ -8,11 +8,15 @@ uid: 297929
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/039/701/original/Screen_Shot_2020-06-09_at_11.49.35_AM.png)
+
 # How the Bucket Works
 
 by [kgradow1](../profile/kgradow1) June 09, 2020 15:34
 
 June 09, 2020 15:34 | Tags: [air-quality](../tag/air-quality), [methods](../tag/methods), [bucket-brigade](../tag/bucket-brigade), [lon:-71](../tag/lon:-71), [lat:42](../tag/lat:42), [zoom:6](../tag/zoom:6), [air-sensor](../tag/air-sensor), [bucket-monitor](../tag/bucket-monitor)
+
+----
 
 Adapted the [Bucket Brigade Manual: Take Back Your Air!](https://publiclab.org/i/39437)
 

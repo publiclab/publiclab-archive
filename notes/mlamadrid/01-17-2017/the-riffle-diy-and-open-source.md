@@ -8,11 +8,15 @@ uid: 45586
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/019/289/original/Riffle_20160527-5700.jpg)
+
 # The Riffle: DIY and Open Source
 
 by [mlamadrid](../profile/mlamadrid) January 17, 2017 22:24
 
 January 17, 2017 22:24 | Tags: [water-quality](../tag/water-quality), [riffle](../tag/riffle), [with:mathew](../tag/with:mathew), [with:donblair](../tag/with:donblair), [communityscienceforum](../tag/communityscienceforum), [riffle-examples](../tag/riffle-examples)
+
+----
 
 Article by [Mathew Lippincott][1] and [Don Blair][2] for [Community Science Forum: Water][3]
 

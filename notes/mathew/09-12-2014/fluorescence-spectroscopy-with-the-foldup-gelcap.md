@@ -8,11 +8,15 @@ uid: 4
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/006/780/original/IMG_20140911_201544.jpg)
+
 # Fluorescence spectroscopy with the foldup + gelcap
 
 by [mathew](../profile/mathew) September 12, 2014 04:17
 
 September 12, 2014 04:17 | Tags: [spectrometer](../tag/spectrometer), [uv](../tag/uv), [fluorescence](../tag/fluorescence), [fold-up](../tag/fold-up), [foldable](../tag/foldable)
+
+----
 
 ###What I want to do
 See bright fluorescence spectra with a fold up.

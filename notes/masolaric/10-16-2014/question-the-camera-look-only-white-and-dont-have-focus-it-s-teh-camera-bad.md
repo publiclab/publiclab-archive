@@ -14,6 +14,8 @@ by [masolaric](../profile/masolaric) October 16, 2014 20:31
 
 October 16, 2014 20:31 | Tags: [question:spectrometry](../tag/question:spectrometry)
 
+----
+
 ###I I dont know why dont work the camera? and why I dont can see the spectrum of the light?
 
 ###

@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/019/697/original/balloonmappingkit.jpg)
+
 # Make or buy a balloon mapping kit
 
 by [liz](../profile/liz) March 01, 2017 19:31
 
 March 01, 2017 19:31 | Tags: [category:build](../tag/category:build), [status:complete](../tag/status:complete), [activity:balloon-mapping](../tag/activity:balloon-mapping), [activity:bourjalshamali](../tag/activity:bourjalshamali), [pin:activity:balloon-mapping](../tag/pin:activity:balloon-mapping), [pin:balloon-mapping](../tag/pin:balloon-mapping)
+
+----
 
 _Activity based on [https://publiclab.org/wiki/balloon-mapping-guide](https://publiclab.org/wiki/balloon-mapping-guide), and it covers the entire balloon kit **except** for the camera._
 

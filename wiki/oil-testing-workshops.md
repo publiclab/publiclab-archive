@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/014/351/original/IMG_20160123_125902_500_%281%29.jpg)
+
 # Oil Testing Workshops
 
 by [warren](../profile/warren), [stevie](../profile/stevie), [liz](../profile/liz)
 
 February 04, 2016 19:32 | Tags: [workshop](../tag/workshop), [workshops](../tag/workshops), [oil-testing-kit](../tag/oil-testing-kit), [parent:diy-oil-testing](../tag/parent:diy-oil-testing)
+
+----
 
 _Above photo by Scott Eustis (@eustatic), Oil testing workshop at St. Tammany parish, Louisiana_
 

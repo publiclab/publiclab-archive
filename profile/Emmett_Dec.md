@@ -3,6 +3,8 @@ uid: 716411
 created_at: 2020-08-25 23:33:00 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/50bd9c1d7cf8c3a01b238a1f7f68ef41)
+
 # Emmett_Dec
 
 

@@ -8,11 +8,15 @@ uid: 643226
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/039/208/original/Participator_iRrigation.jpg)
+
 # Participatory Irrigation development and Production: with reference to Indonesia condition
 
 by [Engineerjaykumar](../profile/Engineerjaykumar) April 28, 2020 12:03
 
 April 28, 2020 12:03 | Tags: [agriculture](../tag/agriculture), [asia](../tag/asia), [indonesia](../tag/indonesia), [irrigation](../tag/irrigation), [lat:-0.789275](../tag/lat:-0.789275), [lon:113.921327](../tag/lon:113.921327), [zoom:6](../tag/zoom:6)
+
+----
 
 Within the last few decades,
 Indonesia had achieved remarkable progress in water resources development until

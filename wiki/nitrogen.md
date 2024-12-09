@@ -14,6 +14,8 @@ by [warren](../profile/warren)
 
 March 12, 2019 19:40 | Tags: [water-quality](../tag/water-quality), [nitrate](../tag/nitrate), [nitrates](../tag/nitrates), [no2](../tag/no2), [phosphate](../tag/phosphate), [parent:water-quality](../tag/parent:water-quality), [nitrogen](../tag/nitrogen)
 
+----
+
 Nitrogen or #nitrate contamination of drinking and surface water poses serious health risks, and can result from agricultural runoff in rivers. It is often associated with algal blooms as well. Also see the topic #phosphate.
 
 ## Nitrogen: Nitrates, Nitrite, Ammonia, & Ammonium
@@ -36,9 +38,9 @@ The equilibrium between ammonia and ammonium is pH dependent, with the two speci
 
 Questions can be either frequently asked questions, or "next step" challenges we're looking to solve.
 
-[questions:nitrogen]
+[nitrogen](../../tag/question:nitrogen)
 
 ## Activities
 
-[activities:nitrogen]
+[nitrogen](../../tag/activity:nitrogen)
 

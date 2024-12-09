@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/000/040/original/presentation-wilkinson.png)
+
 # Public Lab presentation at CU Mapping Democratization Conference, 2011
 
 by [warren](../profile/warren) April 11, 2013 18:46
 
 April 11, 2013 18:46 | Tags: [presentation](../tag/presentation)
+
+----
 
 Archiving CU Boulder, Sept 2011 presentation entitled "Situating activist mapping technology" (44 slides, 20 minutes)
 

@@ -8,11 +8,15 @@ uid: 477060
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/016/609/original/IMG_1069.jpg)
+
 # Silly Putty KAP Rig
 
 by [ranon](../profile/ranon) June 13, 2016 19:33
 
 June 13, 2016 19:33 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-aerial-photography](../tag/kite-aerial-photography), [camera-rig-tests](../tag/camera-rig-tests), [kite](../tag/kite), [polemapping](../tag/polemapping), [photo-rig](../tag/photo-rig), [panorama](../tag/panorama), [camera-rig](../tag/camera-rig), [jerkpan](../tag/jerkpan), [reconfigurable-rig](../tag/reconfigurable-rig), [activity:photo-rig](../tag/activity:photo-rig)
+
+----
 
 ###Original Rig Design
 

@@ -14,6 +14,8 @@ by [Tomas0413](../profile/Tomas0413) June 16, 2018 12:06
 
 June 16, 2018 12:06 | Tags: [spectrometry](../tag/spectrometry), [cfl](../tag/cfl), [desktop-spectrometry-kit](../tag/desktop-spectrometry-kit), [failure](../tag/failure), [question:spectrometer](../tag/question:spectrometer), [question:spectrometry](../tag/question:spectrometry), [answered](../tag/answered), [dark](../tag/dark), [first-time-poster](../tag/first-time-poster)
 
+----
+
 Hi, I get very dark images while using the spectrometer, so it seems not functioning correctly.
 
   

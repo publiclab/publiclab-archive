@@ -14,16 +14,18 @@ by [warren](../profile/warren), [liz](../profile/liz), [icarito](../profile/icar
 
 October 11, 2017 19:47 | Tags: [demo](../tag/demo), [14625](../tag/14625)
 
+----
+
 
 
 Connect with Public Lab projects around the world! 
 
 ## South America
-[notes:south-america]
+[south-america](../../tag/south-america)
 [wikis:south-america]
 ****
 ## Asia
-[notes:asia]
+[asia](../../tag/asia)
 [wikis:asia]
 ****
 ## Africa
@@ -43,7 +45,7 @@ Test:
 
 ## Grid of notes
 
-[notes:grid:peru]
+[grid:peru](../../tag/grid:peru)
 
 
 

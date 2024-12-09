@@ -14,13 +14,15 @@ by [ryzokuken](../profile/ryzokuken) February 28, 2017 19:19
 
 February 28, 2017 19:19 | Tags: [gsoc](../tag/gsoc), [publiclab](../tag/publiclab), [irc](../tag/irc), [node](../tag/node), [bot](../tag/bot), [gitter](../tag/gitter), [soc-2017-proposals](../tag/soc-2017-proposals), [response:13975](../tag/response:13975), [123](../tag/123), [gsoc-2017-accepted](../tag/gsoc-2017-accepted), [first-time-poster](../tag/first-time-poster)
 
+----
+
 # Bot for Publiclab
 ---------
 
 
 ### Community Questionnaire
 
-[questions:bot-project]
+[bot-project](../../tag/question:bot-project)
 
 
 **Affiliation** Jaypee Institute of Information Technology

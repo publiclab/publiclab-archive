@@ -14,6 +14,8 @@ by [FortunaWolf](../profile/FortunaWolf) April 18, 2016 15:49
 
 April 18, 2016 15:49 | Tags: [spectrometer](../tag/spectrometer), [question:spectrometry](../tag/question:spectrometry), [bees](../tag/bees), [pollen](../tag/pollen), [resolution](../tag/resolution)
 
+----
+
 ###What I want to do or know
 Hello human colleagues, 
 The technical details are that I'd like to collect spectroscopic data on pollen pellets that honey bees bring back to the lab for the purpose of doing species identification in the field. We want beekeepers and citizen scientists to be able to collect pollen from their hives around the world and through the year, take spectrographic data, and mail their pollen to us. Eventually we'll build a database on pollen species and spectrographic fingerprints so that when they go out next year and query the pollen they'll get an instant answer to what species of pollen their bees are working. 

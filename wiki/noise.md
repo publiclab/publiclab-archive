@@ -8,11 +8,15 @@ uid: 422561
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/039/460/original/Screen_Shot_2020-05-20_at_9.37.52_AM.png)
+
 # Noise
 
 by [joyofsoy](../profile/joyofsoy), [warren](../profile/warren), [stevie](../profile/stevie)
 
 May 09, 2018 16:52 | Tags: [audio](../tag/audio), [noise](../tag/noise), [method](../tag/method), [nuisance](../tag/nuisance)
+
+----
 
 Noise pollution can have a harmful impact on both wildlife and human health. There are several notable community science projects that have focused on noise monitoring, some that use phone applications and others that use noise meters. 
 
@@ -39,12 +43,12 @@ _Note from Muki Haklay: There are issues with the calibration of phones with app
 
 ## Questions
 
-[questions:noise]
+[noise](../../tag/question:noise)
 
 ## Notes
 
-[notes:noise!question:noise]
+[noise!question:noise](../../tag/noise!question:noise)
 
 ## Activities
 
-[activities:noise]
+[noise](../../tag/activity:noise)

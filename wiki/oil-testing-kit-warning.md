@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/010/913/original/Screenshot_2015-07-29_at_9.52.58_AM.png)
+
 # Oil Testing Kit Warning
 
 by [warren](../profile/warren), [danbeavers](../profile/danbeavers), [gretchengehrke](../profile/gretchengehrke)
 
 July 29, 2015 13:51 | Tags: [safety](../tag/safety), [laser](../tag/laser), [instructions](../tag/instructions), [realgenius](../tag/realgenius), [usefull](../tag/usefull)
+
+----
 
 The Oil Testing Kit comes with a 405 (+-10) nanometer blue laser which some refer to as an ultraviolet or UV laser. This laser is powerful (<5mw) and can cause eye damage more easily than many other consumer lasers.
 

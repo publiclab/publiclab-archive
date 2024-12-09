@@ -14,6 +14,8 @@ by [liz](../profile/liz)
 
 April 29, 2020 14:21 | Tags: [community](../tag/community), [parent:website](../tag/parent:website), [contribute](../tag/contribute)
 
+----
+
 Contributors are people who have asked questions, answered questions, posted notes, created or edited wiki pages, or commented on others' contributions on this [website](/website-basics)
 
 The count of Contributors shown on each [Topic Page](https://publiclab.org/wiki/website-basics#Topic+pages) is a count of how many people have contributed online to that topic. 

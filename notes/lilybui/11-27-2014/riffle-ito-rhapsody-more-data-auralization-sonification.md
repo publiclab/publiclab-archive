@@ -8,11 +8,15 @@ uid: 420662
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/008/138/original/20141126_213113.jpg)
+
 # Riffle-ito Rhapsody: More Data Auralization/Sonification
 
 by [lilybui](../profile/lilybui) November 27, 2014 17:38
 
 November 27, 2014 17:38 | Tags: [water](../tag/water), [data](../tag/data), [riffle](../tag/riffle), [quality](../tag/quality), [openwater](../tag/openwater), [coqui](../tag/coqui), [riffle-examples](../tag/riffle-examples), [sound](../tag/sound)
+
+----
 
 This one is just for fun -- extending some more data auralization/sonification work from my original [Visualizing Riffle-ito Data](http://publiclab.org/notes/lilybui/10-16-2014/visualizing-riffle-ito-data) post.
 

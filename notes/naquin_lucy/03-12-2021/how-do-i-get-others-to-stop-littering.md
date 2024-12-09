@@ -14,4 +14,6 @@ by [naquin_lucy](../profile/naquin_lucy) March 12, 2021 20:46
 
 March 12, 2021 20:46 | Tags: [community](../tag/community), [pollution](../tag/pollution), [question:general](../tag/question:general), [general](../tag/general), [first-time-poster](../tag/first-time-poster), [littering](../tag/littering)
 
+----
+
 ![Hogs: Litter Rate by Quarter and Year, US](https://www.nass.usda.gov/Charts_and_Maps/graphics/litter_e.png)

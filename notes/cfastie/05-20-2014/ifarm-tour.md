@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/004/314/original/iFarmSat2757.jpg)
+
 # iFarm tour
 
 by [cfastie](../profile/cfastie) May 20, 2014 14:51
 
 May 20, 2014 14:51 | Tags: [boston](../tag/boston), [new-hampshire](../tag/new-hampshire), [farmhack](../tag/farmhack), [agriculture](../tag/agriculture), [farm](../tag/farm), [event](../tag/event), [garden](../tag/garden), [ifarm](../tag/ifarm), [crops](../tag/crops), [northeast](../tag/northeast), [ifarm2014](../tag/ifarm2014), [response:10485](../tag/response:10485)
+
+----
 
 After lunch on Saturday, some of us took a 30 minute tour of Tuckaway Farm in a hay wagon. Our wagoner Chuck Cox is a horseman from way back, but has been using draft horses for farm power mostly in the last five years. Queen and (Dorn, what's the other one's name?) looked like they were working hard at times, but Chuck said they pull the wagon with 80 bails of hay on it, which weighs a lot more than we did. There is a great collection of old and newly designed harrows, cultivators, and rakes on the farm for pulling behind draft animals.  
 .  

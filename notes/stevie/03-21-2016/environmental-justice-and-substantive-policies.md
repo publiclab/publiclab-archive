@@ -8,11 +8,15 @@ uid: 422561
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/015/159/original/NEJAC.jpg)
+
 # Environmental Justice and Substantive Policies
 
 by [stevie](../profile/stevie) March 21, 2016 21:46
 
 March 21, 2016 21:46 | Tags: [blog](../tag/blog), [environmentaljustice](../tag/environmentaljustice), [ej](../tag/ej), [law-and-policy](../tag/law-and-policy)
+
+----
 
 _The image above is from President Clinton's signing of "Executive Order 12898, an historic directive to federal agencies to address disproportionately high and adverse human health and environmental effects on communities of color and low-income populations." Photo from [earthjustice.org](http://earthjustice.org/blog/2014-february/honoring-a-milestone-the-birth-of-environmental-justice),  who cite the image to [Dr. Robert Bullard](http://drrobertbullard.com/)._
 

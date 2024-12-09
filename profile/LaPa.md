@@ -3,6 +3,8 @@ uid: 457187
 created_at: 2015-11-09 22:34:03 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/aad4ea29f2e360eea8c5cab6de788059)
+
 # LaPa
 
 agronomist in Italy. I'm working to save irrigation water 

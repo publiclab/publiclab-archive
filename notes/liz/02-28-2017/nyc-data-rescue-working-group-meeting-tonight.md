@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/019/679/original/data_rescue_nyc.jpg)
+
 # NYC Data Rescue working group meeting tonight
 
 by [liz](../profile/liz) February 28, 2017 17:14
 
 February 28, 2017 17:14 | Tags: [new-york-city](../tag/new-york-city), [event](../tag/event), [nyc](../tag/nyc)
+
+----
 
 Environmental data -- accessing it, generating it, using it for advocacy -- is at the heart of our work. Join the recent upwelling of people interested in environmental data under the current Adminstration for a local working group meeting tonight at Mozilla Science: 
 

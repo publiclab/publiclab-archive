@@ -8,11 +8,15 @@ uid: 304279
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/007/033/original/DataLog1.png)
+
 # Datalogger part 2a; Generating a signal, amplifying it, and displaying the data.
 
 by [JSummers](../profile/JSummers) September 25, 2014 21:20
 
 September 25, 2014 21:20 | Tags: [datalogger](../tag/datalogger), [response:10288](../tag/response:10288), [activity:data-logging](../tag/activity:data-logging)
+
+----
 
 ###What I want to do
 I just finished writing a research note (found [here](http://publiclab.org/notes/JSummers/09-23-2014/datalogger-part-2b-simpler-hardware-some-observations-about-ion-selective-electrodes-and-ram)) bashing an earlier research note on an amplifying data logger (found [here](http://publiclab.org/notes/JSummers/04-09-2014/datalogger-part-2-hardware-design)) and it occurred to me  that I had never written up the results on the early logger, and that some rather nice (and perhaps useful) things had come out of the work.  This note is intended to put those results forward for people's consideration.

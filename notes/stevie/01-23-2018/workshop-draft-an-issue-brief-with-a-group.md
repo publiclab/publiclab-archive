@@ -8,11 +8,15 @@ uid: 422561
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/023/298/original/IMG_20170624_135224484.jpg)
+
 # Workshop: Draft an Issue Brief with a group
 
 by [stevie](../profile/stevie) January 23, 2018 16:48
 
 January 23, 2018 16:48 | Tags: [community](../tag/community), [organizing](../tag/organizing), [getting-started](../tag/getting-started), [draft](../tag/draft), [community-organizing](../tag/community-organizing), [issue-brief](../tag/issue-brief), [activity:community-organizing](../tag/activity:community-organizing), [activity:issue-brief](../tag/activity:issue-brief), [activity:getting-started](../tag/activity:getting-started), [activity:new](../tag/activity:new), [activity:organizing](../tag/activity:organizing)
+
+----
 
 ###About this workshop:
 

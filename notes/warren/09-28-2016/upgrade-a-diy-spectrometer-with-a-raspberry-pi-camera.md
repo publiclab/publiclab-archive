@@ -14,6 +14,8 @@ by [warren](../profile/warren) September 28, 2016 19:13
 
 September 28, 2016 19:13 | Tags: [spectrometer](../tag/spectrometer), [calibration](../tag/calibration), [spectrometry](../tag/spectrometry), [webcam](../tag/webcam), [raspberry-pi](../tag/raspberry-pi), [question:spectrometry](../tag/question:spectrometry), [exposure](../tag/exposure), [rpi](../tag/rpi), [pi-camera](../tag/pi-camera), [gain-correction](../tag/gain-correction), [gain-control](../tag/gain-control), [webvalley](../tag/webvalley), [exposure-calibration](../tag/exposure-calibration), [question:pi-camera](../tag/question:pi-camera), [question:spectrometry-challenge](../tag/question:spectrometry-challenge), [question:spectrometry-turbidity](../tag/question:spectrometry-turbidity), [raspberry-pi-spectrometer](../tag/raspberry-pi-spectrometer), [question:raspberry-pi-spectrometer](../tag/question:raspberry-pi-spectrometer), [question:lego-spectrometer](../tag/question:lego-spectrometer)
 
+----
+
 ### What I want to do or know
 
 I've seen some of the really great work by @cristoforetti and the #webvalley group -- which I was lucky enough to help a bit on -- to build a version of our spectrometry kits around the camera from a Raspberry Pi mini computer board.

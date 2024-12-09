@@ -8,11 +8,15 @@ uid: 422561
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/024/942/original/MF.png)
+
 # Bay Area Maker Faire! 
 
 by [stevie](../profile/stevie) May 14, 2018 18:06
 
 May 14, 2018 18:06 | Tags: [balloon-mapping](../tag/balloon-mapping), [spectrometer](../tag/spectrometer), [san-francisco](../tag/san-francisco), [california](../tag/california), [mapping](../tag/mapping), [event](../tag/event), [with:warren](../tag/with:warren), [coqui](../tag/coqui), [microscope](../tag/microscope), [make](../tag/make), [maker-faire](../tag/maker-faire)
+
+----
 
 Public Lab will be hosting a community science space at the San Francisco Maker Faire this coming weekend!
 

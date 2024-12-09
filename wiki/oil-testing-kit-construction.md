@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/010/459/original/IMG_20150521_143730_3_%28copy%29.jpg)
+
 # Oil Testing Kit Construction
 
 by [warren](../profile/warren)
 
 June 26, 2015 18:39 | Tags: [spectrometer](../tag/spectrometer), [oil-testing-kit](../tag/oil-testing-kit), [parent:oil-testing-kit](../tag/parent:oil-testing-kit), [beta](../tag/beta)
+
+----
 
 The Public Lab Oil Testing Kit is an attachment to Public Lab's v3.0 Desktop Spectrometer which holds a sample container and a laser. 
 

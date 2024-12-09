@@ -14,6 +14,8 @@ by [sagarpreet](../profile/sagarpreet) July 01, 2018 17:38
 
 July 01, 2018 17:38 | Tags: [leaflet](../tag/leaflet), [question:general](../tag/question:general), [layers](../tag/layers), [leaflet-environmental-layers](../tag/leaflet-environmental-layers), [question:leaflet](../tag/question:leaflet), [question:leaflet-environmental-layers](../tag/question:leaflet-environmental-layers)
 
+----
+
 I have been working on creating data-layers and to show them on map .   
 
 What more useful information can we show ?

@@ -8,11 +8,15 @@ uid: 420189
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/020/612/original/Environmental_Protection_Agency_logo.svg.png)
+
 # U.S. EPA Community Webinar on Citizen Science Air Monitoring: Jun 7, 2017
 
 by [DavidMack](../profile/DavidMack) May 31, 2017 21:44
 
 May 31, 2017 21:44 | Tags: [event](../tag/event)
+
+----
 
 June 7, 2017 @ 1:00 - 2:30 pm EST  
 

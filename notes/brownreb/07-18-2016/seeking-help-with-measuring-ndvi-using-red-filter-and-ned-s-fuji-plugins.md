@@ -8,11 +8,15 @@ uid: 484208
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/017/122/original/IMG_0001.JPG)
+
 # Seeking help with measuring NDVI using red filter and Ned's Fuji plugins
 
 by [brownreb](../profile/brownreb) July 18, 2016 16:23
 
 July 18, 2016 16:23 | Tags: 
+
+----
 
 Hi Folks,
 I modified a Canon Powershot SD850IS using the red filter from the Public Lab kit. I am using the camera to take pictures of melon plants, with the goal of measuring relative NDVI between plants. All images are taken at essentially the same time (within a 1-hour timespan) and all plants are in the same field.

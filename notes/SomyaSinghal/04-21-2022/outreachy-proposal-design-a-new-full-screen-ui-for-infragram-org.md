@@ -8,11 +8,15 @@ uid: 792904
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/046/304/original/out-1.png)
+
 # Outreachy proposal:Design a new full-screen UI for Infragram.org
 
 by [SomyaSinghal](../profile/SomyaSinghal) April 21, 2022 11:11
 
 April 21, 2022 11:11 | Tags: [software](../tag/software), [outreachy](../tag/outreachy), [first-time-poster](../tag/first-time-poster), [zoom:11](../tag/zoom:11), [outreachy-2022](../tag/outreachy-2022), [outreachy-summer-2022](../tag/outreachy-summer-2022), [lat:23.830576](../tag/lat:23.830576), [lon:91.288146](../tag/lon:91.288146)
+
+----
 
 ## About me:
 

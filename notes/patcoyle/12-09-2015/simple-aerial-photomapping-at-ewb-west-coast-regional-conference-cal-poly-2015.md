@@ -8,11 +8,15 @@ uid: 77
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/013/246/original/22676199848_e0a277ddf2_k.jpg)
+
 # Simple Aerial Photomapping at EWB West Coast Regional Conference, Cal Poly, 2015
 
 by [patcoyle](../profile/patcoyle) December 09, 2015 00:21
 
 December 09, 2015 00:21 | Tags: [balloon-mapping](../tag/balloon-mapping), [mylar](../tag/mylar), [bap](../tag/bap), [blog](../tag/blog), [mobius-actioncam](../tag/mobius-actioncam), [ewb](../tag/ewb), [barnstar:basic](../tag/barnstar:basic), [mini-balloon-mapping](../tag/mini-balloon-mapping)
+
+----
 
 ###What I want to do
 

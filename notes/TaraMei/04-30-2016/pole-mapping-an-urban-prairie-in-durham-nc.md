@@ -8,11 +8,15 @@ uid: 455825
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/015/881/original/IMG_8914.jpg)
+
 # Pole Mapping an Urban Prairie in Durham, NC
 
 by [taramei](../profile/taramei) April 30, 2016 16:20
 
 April 30, 2016 16:20 | Tags: [polemapping](../tag/polemapping), [pole-photography](../tag/pole-photography), [pole-aerial-photography](../tag/pole-aerial-photography), [pole-mapping](../tag/pole-mapping), [southeast](../tag/southeast)
+
+----
 
 Justin and Tara Mei's first attempt to Pole Map Prairie Island. 
 

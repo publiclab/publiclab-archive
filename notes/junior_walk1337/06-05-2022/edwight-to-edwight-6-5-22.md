@@ -8,11 +8,15 @@ uid: 756318
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/046/730/original/birchtonSunny.00_02_18_19.Still003.jpg)
+
 # Edwight to Edwight 6/5/22
 
 by [junior_walk1337](../profile/junior_walk1337) June 05, 2022 21:08
 
 June 05, 2022 21:08 | Tags: [drones](../tag/drones), [coal-mining](../tag/coal-mining), [mmmp](../tag/mmmp)
+
+----
 
 <iframe width="1280" height="676" src="https://www.youtube.com/embed/5pi-gj7BW3s" frameborder="0" allowfullscreen=""></iframe>
 

@@ -8,11 +8,15 @@ uid: 43651
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/008/190/original/screenshot.png)
+
 # "Less is more: The Role of Small Data in 21st Century Governance."
 
 by [donblair](../profile/donblair) December 02, 2014 22:12
 
 December 02, 2014 22:12 | Tags: [small-data](../tag/small-data), [with:warren](../tag/with:warren), [with:kanarinka](../tag/with:kanarinka), [philosophy](../tag/philosophy)
+
+----
 
 A few months back, Diego Rafael Canabarro had graciously invited Catherine D'Ignazio, Jeff Warren and me to contribute a chapter to ['GOVERNANÇA
 DIGITAL'](http://www.ufrgs.br/cegov/files/livros/gtdigital.pdf) -- a new text out of [UFGRS](http://www.ufrgs.br/english/home) edited by Diego and by Marcelo Soares Pimenta. 

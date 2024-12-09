@@ -14,6 +14,8 @@ by [gretchengehrke](../profile/gretchengehrke)
 
 August 26, 2016 20:31 | Tags: [research](../tag/research), [tool](../tag/tool), [literature-review](../tag/literature-review), [method](../tag/method)
 
+----
+
 ##Conducting a Literature Review
 
 Table of Contents 

@@ -8,11 +8,15 @@ uid: 461120
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/015/341/original/rhod_b_mar30.png)
+
 # Good Science SNR data for Rhodamine B 100ppm
 
 by [dhaffnersr](../profile/dhaffnersr) April 04, 2016 13:06
 
 April 04, 2016 13:06 | Tags: 
+
+----
 
 This research note is directly related to my previous one on the effects of slit width on SNR.
 

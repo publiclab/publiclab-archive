@@ -14,6 +14,8 @@ by [SarahC](../profile/SarahC) June 03, 2018 05:01
 
 June 03, 2018 05:01 | Tags: [question:spectral-workbench](../tag/question:spectral-workbench), [answered](../tag/answered)
 
+----
+
 I forked one of my broken spectrums here:
 
 https://spectralworkbench.org/spectrums/136078  

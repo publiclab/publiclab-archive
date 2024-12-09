@@ -14,6 +14,8 @@ by [warren](../profile/warren) April 06, 2011 00:50
 
 April 06, 2011 00:50 | Tags: 
 
+----
+
 Stewart Long, Shannon Dosemagen and I caught up given that we're all working on PLOTS full time now; we're going to have bi-weekly meetings. 
 
 We discussed various topics, but I mentioned that my goals this week include:

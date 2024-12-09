@@ -3,6 +3,8 @@ uid: 424597
 created_at: 2014-06-07 18:15:40 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/52f14577fe04df332e52cc9144dce9d3)
+
 # wmacfarl
 
 

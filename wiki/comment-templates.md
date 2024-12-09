@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/027/556/original/image.png)
+
 # Comment templates
 
 by [warren](../profile/warren)
 
 November 08, 2018 22:11 | Tags: [location:blurred](../tag/location:blurred), [templates](../tag/templates), [lat:28](../tag/lat:28), [lon:77](../tag/lon:77), [place:india](../tag/place:india), [parent:templates](../tag/parent:templates), [zoom:6](../tag/zoom:6)
+
+----
 
 Authors on PublicLab.org can add a tag to pages to insert a text template into the commenting text input box. This can be useful when soliciting input on an idea, such as in [a call for feedback](/questions/warren/02-21-2018/what-do-you-think-about-this-new-design-sketch-for-a-welcome-page), or a survey. 
 
@@ -52,5 +56,5 @@ Here are some examples of templates for various purposes (some for pages, not co
 
 ## Questions
 
-[questions:comment-templates]
+[comment-templates](../../tag/question:comment-templates)
 

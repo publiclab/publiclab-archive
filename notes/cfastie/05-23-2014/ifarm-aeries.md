@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/004/363/original/iFarmSat2866.jpg)
+
 # iFarm aeries
 
 by [cfastie](../profile/cfastie) May 23, 2014 01:35
 
 May 23, 2014 01:35 | Tags: [kite-mapping](../tag/kite-mapping), [boston](../tag/boston), [new-hampshire](../tag/new-hampshire), [farmhack](../tag/farmhack), [farm](../tag/farm), [kap](../tag/kap), [event](../tag/event), [ifarm](../tag/ifarm), [3d-printing](../tag/3d-printing), [northeast](../tag/northeast), [ifarm2014](../tag/ifarm2014), [aeries](../tag/aeries), [response:10486](../tag/response:10486), [redstone](../tag/redstone)
+
+----
 
 *Above: Severine flying the Redstone Rig.*  
 .  

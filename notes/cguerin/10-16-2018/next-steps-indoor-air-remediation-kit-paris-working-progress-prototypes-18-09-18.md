@@ -8,11 +8,15 @@ uid: 507616
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/026/911/original/christophe_guerin_-_03.jpg)
+
 # #Next steps - Indoor Air Remediation Kit—Paris Working progress & Prototypes 18/09/18
 
 by [cguerin](../profile/cguerin) October 12, 2018 17:16
 
 October 12, 2018 17:16 | Tags: [remediation](../tag/remediation), [kit](../tag/kit), [air](../tag/air), [design](../tag/design), [indoor](../tag/indoor), [with:nshapiro](../tag/with:nshapiro), [indoor-air-quality](../tag/indoor-air-quality), [indoor-air](../tag/indoor-air), [plant-air-purifier-prototypes](../tag/plant-air-purifier-prototypes)
+
+----
 
 **Next steps after Paris workshop in February 2018 :**
 

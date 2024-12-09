@@ -8,11 +8,15 @@ uid: 421358
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/006/648/original/filter_comp_2.PNG)
+
 # Comparing #2007 vs #74
 
 by [fliperbaker](../profile/fliperbaker) September 06, 2014 23:36
 
 September 06, 2014 23:36 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [filter](../tag/filter), [infragram](../tag/infragram), [2007](../tag/2007), [74](../tag/74), [filter_compare](../tag/filter_compare), [first-time-poster](../tag/first-time-poster)
+
+----
 
 ###What I want to do
 I want to know which filter performs better to get NDVI images with a Canon A490 (ccd)

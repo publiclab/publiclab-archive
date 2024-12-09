@@ -14,6 +14,8 @@ by [ceberndsen](../profile/ceberndsen) August 23, 2018 16:49
 
 August 23, 2018 16:49 | Tags: [calibration](../tag/calibration), [question:spectral-workbench](../tag/question:spectral-workbench)
 
+----
+
 I have a calibration data set that works fine but I cannot copy this calibration to a second set of data to calibrate it. In both cases I uploaded the photo as the live-imaging does not work for me either. I am using an iPhone with the paper spectrophotometer to capture the images  and then I am uploading via a desktop computer. 
 
   

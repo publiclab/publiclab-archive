@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/001/347/original/img_1990_r_20.jpg)
+
 # Public Lab Community Newsletter - August 30, 2013
 
 by [warren](../profile/warren) August 30, 2013 16:31
 
 August 30, 2013 16:31 | Tags: [newsletter](../tag/newsletter), [blog](../tag/blog), [newsletter-archive](../tag/newsletter-archive)
+
+----
 
 (_Above, an aerial image taken at last year's [Extreme Citizen Science balloon mapping](http://uclexcites.wordpress.com/2012/02/14/balloon-mapping-with-the-publiclab-at-ucl/) at University College London_)
 

@@ -3,6 +3,8 @@ uid: 424454
 created_at: 2014-06-02 17:30:47 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/424454/medium/Natalieprof.jpg)
+
 # natalie
 
 Civic Kits Manager

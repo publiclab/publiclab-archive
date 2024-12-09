@@ -3,6 +3,8 @@ uid: 522848
 created_at: 2018-01-16 13:08:33 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/ad4e0f0586b899c36bff4b1554751a5f)
+
 # namangupta
 
 

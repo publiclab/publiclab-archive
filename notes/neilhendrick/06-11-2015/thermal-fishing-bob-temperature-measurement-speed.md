@@ -14,6 +14,8 @@ by [neilhendrick](../profile/neilhendrick) June 11, 2015 22:20
 
 June 11, 2015 22:20 | Tags: [thermal-imaging](../tag/thermal-imaging), [thermal-fishing-bob](../tag/thermal-fishing-bob)
 
+----
+
 ### A test to see how quickly the Thermister used in the Thermal Fishing Bob can measure changes in temperature###
 Conducted at the [Themal Fishing Bob Barnraising](http://www.publiclab.org/wiki/thermal-fishing-bob-barnraising)
 Followed setup instructions for [Thermal Fishing Bob](http://publiclab.org/wiki/thermal-fishing-bob)

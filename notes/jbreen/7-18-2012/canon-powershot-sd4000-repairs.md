@@ -8,11 +8,15 @@ uid: 326
 
 ---
 
+![](https://publiclab.org/sites/default/files/IMG_0461.JPG)
+
 # Canon Powershot SD4000 repairs
 
 by [jbreen](../profile/jbreen) July 18, 2012 12:40
 
 July 18, 2012 12:40 | Tags: [repairs](../tag/repairs), [cameras](../tag/cameras), [canon](../tag/canon)
+
+----
 
 There were a few mishaps in the lab this past week and we had a couple of "things falling from the sky" incidents that resulted in collateral damage to two of our cameras. This unholy carnage of camera bits is the result of my attempt to take apart one of the destroyed Canon Powershot SD4000s and see if we could replace the lens and LCD screen.  I've had good luck in the past with being able to make these repairs to my Nikon Coolpix and Cannon A495, so I thought it would be worth a try.
 

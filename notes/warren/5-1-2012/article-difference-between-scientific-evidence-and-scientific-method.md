@@ -14,6 +14,8 @@ by [warren](../profile/warren) May 01, 2012 18:18
 
 May 01, 2012 18:18 | Tags: [evidence](../tag/evidence), [legal](../tag/legal), [law-and-policy](../tag/law-and-policy)
 
+----
+
 I came across this fascinating review about the latest edition of a text used by many lawyers and judges -- the "Reference Manual on Scientific Evidence" -- which lays out recommendations on how to make use of scientific evidence in the courtroom.
 
 > "The Difference Between Scientific Evidence And The Scientific Method

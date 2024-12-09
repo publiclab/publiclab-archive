@@ -8,11 +8,15 @@ uid: 304279
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/028/541/original/robot3a_25.jpg)
+
 # A DIY pipetting robot for biochemistry applications, Part 1: Hardware.
 
 by [JSummers](../profile/JSummers) December 29, 2018 21:04
 
 December 29, 2018 21:04 | Tags: [diy-bio](../tag/diy-bio), [processing](../tag/processing), [biohacking](../tag/biohacking), [hardware](../tag/hardware), [laboratoryautomation](../tag/laboratoryautomation), [pipetting_robot](../tag/pipetting_robot)
+
+----
 
 _by Brittany L. Boggs and Jack
 S. Summers_

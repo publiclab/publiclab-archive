@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/001/488/original/fadecard-231-11a.jpg)
+
 # Fade out
 
 by [cfastie](../profile/cfastie) September 11, 2013 20:57
 
 September 11, 2013 20:57 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [vermont](../tag/vermont), [leaffest](../tag/leaffest), [infragram](../tag/infragram), [infrablue](../tag/infrablue), [leaffest2013](../tag/leaffest2013), [response:9305](../tag/response:9305)
+
+----
 
 *Image above: The blue white-balance paper included in the Infragram filter kit after exposure to sunlight. The "shadow" of the little clip is the only area without much fading. That much fading happened in two to three hours.*  
 

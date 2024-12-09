@@ -8,11 +8,15 @@ uid: 424870
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/005/620/original/IMG_3773.JPG)
+
 # Youth Balloon Mapping Workshop Complete!
 
 by [mjain26](../profile/mjain26) July 28, 2014 17:00
 
 July 28, 2014 17:00 | Tags: [balloon-mapping](../tag/balloon-mapping), [education](../tag/education), [curriculum](../tag/curriculum), [youth](../tag/youth), [chicago](../tag/chicago), [midwest](../tag/midwest), [civiclab](../tag/civiclab), [civic-lab](../tag/civic-lab), [activity:aerial-photography](../tag/activity:aerial-photography), [activity:balloon-mapping](../tag/activity:balloon-mapping), [replication:14022](../tag/replication:14022), [activity:classroom](../tag/activity:classroom), [activity:curriculum](../tag/activity:curriculum)
+
+----
 
 ###What I want to do
 I created a balloon mapping workshop for youth. 

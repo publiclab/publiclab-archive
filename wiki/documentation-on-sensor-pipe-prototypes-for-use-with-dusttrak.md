@@ -14,6 +14,8 @@ by [rjstatic](../profile/rjstatic)
 
 November 11, 2014 01:52 | Tags: [open-pipe-kit](../tag/open-pipe-kit), [sensor-pipe](../tag/sensor-pipe)
 
+----
+
 For the first few prototypes of using Sensor Pipe for DustTrak, the following directions apply.
 
 ## Set up the Dust Track 

@@ -8,11 +8,15 @@ uid: 635245
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/036/883/original/image_%282%29.png)
+
 # Rhode Island Community Garden Network
 
 by [srgonsalves1](../profile/srgonsalves1) December 05, 2019 15:00
 
 December 05, 2019 15:00 | Tags: [lat:41](../tag/lat:41), [lon:-71](../tag/lon:-71), [unearthing-pvd](../tag/unearthing-pvd), [unearthing-pvd-projects](../tag/unearthing-pvd-projects), [lat:41.0](../tag/lat:41.0), [lon:-71.0](../tag/lon:-71.0), [lat:41.827017](../tag/lat:41.827017), [lon:-71.401918](../tag/lon:-71.401918)
+
+----
 
 To enhance community engagement, the Community Garden Network is a comprehensive list of community farms and gardens located throughout Rhode Island. This project aims to connect people with food resources around Rhode Island.
 

@@ -14,11 +14,13 @@ by [gretchengehrke](../profile/gretchengehrke), [warren](../profile/warren)
 
 October 16, 2017 16:14 | Tags: [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s), [parent:hydrogen-sulfide](../tag/parent:hydrogen-sulfide), [h2s-overview](../tag/h2s-overview)
 
+----
+
 Hydrogen sulfide can be measured a variety of methods due to sulfur’s versatile chemistry. Sulfur has five oxidation states (-2, 0, +2, +4, +6) and readily forms gaseous, aqueous, and solid compounds at room temperature and pressure, which can be effectively manipulated in laboratory settings. Regulatory agencies use multi-phase laboratory-based methods for high sensitivity and selectivity for hydrogen sulfide, but routine workplace monitoring mostly use near-real-time sensors that operate on the basis of a single sulfur reaction. This wiki is an organizing page to list and compare various methods for detecting and measuring hydrogen sulfide, including regulatory, workplace monitoring, and DIY methods. 
 
 ## Questions
 
-[questions:hydrogen-sulfide-detection]
+[hydrogen-sulfide-detection](../../tag/question:hydrogen-sulfide-detection)
 ****
 
 ##Regulatory Methods for Measuring Hydrogen Sulfide

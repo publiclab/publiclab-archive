@@ -8,11 +8,15 @@ uid: 434699
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/009/147/original/DJI00116.JPG)
+
 # DJI Phantom- Testing Camera and Mapknitter
 
 by [pswigert](../profile/pswigert) March 03, 2015 21:59
 
 March 03, 2015 21:59 | Tags: [uav-mapping](../tag/uav-mapping)
+
+----
 
 As part of a research project I'm working on at UC Berkeley I'm exploring opportunities for sharing and collaborating on aerial imagery, obviously something Public Lab has lots of experience with.
 

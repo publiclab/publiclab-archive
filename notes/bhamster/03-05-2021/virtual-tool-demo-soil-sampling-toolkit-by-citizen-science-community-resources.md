@@ -8,11 +8,15 @@ uid: 664477
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/042/868/original/CSCR_soil_test.jpeg)
+
 # Virtual tool demo: Soil Sampling Toolkit by Citizen Science Community Resources
 
 by [bhamster](../profile/bhamster) March 05, 2021 22:12
 
 March 05, 2021 22:12 | Tags: [event](../tag/event), [soil](../tag/soil), [event:rsvp](../tag/event:rsvp), [rsvp:bronwen](../tag/rsvp:bronwen), [soil-testing](../tag/soil-testing), [soil-sampling](../tag/soil-sampling), [soil-testing-toolkit](../tag/soil-testing-toolkit), [with:jjcreedon](../tag/with:jjcreedon), [soil-contamination](../tag/soil-contamination), [rsvp:jjcreedon](../tag/rsvp:jjcreedon), [rsvp:dianner](../tag/rsvp:dianner), [rsvp:bernard](../tag/rsvp:bernard), [rsvp:blessedshrub](../tag/rsvp:blessedshrub), [rsvp:alejobonifacio](../tag/rsvp:alejobonifacio)
+
+----
 
 _Lead image: courtesy of Citizen Science Community Resources, all rights reserved._
 

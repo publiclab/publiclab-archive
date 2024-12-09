@@ -8,11 +8,15 @@ uid: 237313
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/027/070/original/Screen_Shot_2018-10-19_at_12.45.03_PM.png)
+
 # Using the Soil Sampling Toolkit
 
 by [Bronwen](../profile/Bronwen) October 19, 2018 16:51
 
 October 19, 2018 16:51 | Tags: [heavy-metals](../tag/heavy-metals), [soil](../tag/soil), [pesticides](../tag/pesticides), [pah](../tag/pah), [pcb](../tag/pcb), [metals](../tag/metals), [soil-testing](../tag/soil-testing), [activity:soil-sampling](../tag/activity:soil-sampling), [community-kits](../tag/community-kits), [activity:soil-testing-toolkit](../tag/activity:soil-testing-toolkit), [soil-testing-toolkit](../tag/soil-testing-toolkit), [with:jjcreedon](../tag/with:jjcreedon), [activity:soil-testing](../tag/activity:soil-testing), [activity:soil](../tag/activity:soil), [dioxin](../tag/dioxin)
+
+----
 
 ---------
 

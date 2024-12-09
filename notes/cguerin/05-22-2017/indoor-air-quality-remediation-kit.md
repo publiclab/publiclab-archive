@@ -8,11 +8,15 @@ uid: 507616
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/020/525/original/pot_02_web_02.jpg)
+
 # INDOOR AIR QUALITY REMEDIATION KIT
 
 by [cguerin](../profile/cguerin) May 22, 2017 17:54
 
 May 22, 2017 17:54 | Tags: [remediation](../tag/remediation), [air-quality](../tag/air-quality), [formaldehyde](../tag/formaldehyde), [indoor-air-quality-monitoring](../tag/indoor-air-quality-monitoring), [indoor-air-quality](../tag/indoor-air-quality), [phytoremediation](../tag/phytoremediation), [first-time-poster](../tag/first-time-poster), [plant-air-purifier-prototypes](../tag/plant-air-purifier-prototypes)
+
+----
 
 ---------
 

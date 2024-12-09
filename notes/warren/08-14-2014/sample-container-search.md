@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/006/270/original/IMG_20140814_172536.jpg)
+
 # Sample container search
 
 by [warren](../profile/warren) August 14, 2014 21:38
 
 August 14, 2014 21:38 | Tags: [spectrometer](../tag/spectrometer), [fluorescence](../tag/fluorescence), [cuvettes](../tag/cuvettes), [sample-containers](../tag/sample-containers), [sample-prep](../tag/sample-prep), [oil-testing-kit](../tag/oil-testing-kit), [nano-drop](../tag/nano-drop), [question:spectrometry](../tag/question:spectrometry), [question:spectrometry-sampling](../tag/question:spectrometry-sampling), [question:spectrometry-turbidity](../tag/question:spectrometry-turbidity)
+
+----
 
 Note: Lots on sample containers is now collected on this page: https://publiclab.org/wiki/spectrometry-sampling
 

@@ -8,11 +8,15 @@ uid: 57402
 
 ---
 
+![](https://publiclab.org/sites/default/files/Picture 5_0.png)
+
 # Kite Mapping in Central America - Waste and Recycling
 
 by [eblaine](../profile/eblaine) April 14, 2013 02:30
 
 April 14, 2013 02:30 | Tags: [mapping](../tag/mapping), [development](../tag/development), [waste-management](../tag/waste-management), [central-america](../tag/central-america), [kite-mapping](../tag/kite-mapping), [waste](../tag/waste), [panama](../tag/panama), [nicaragua](../tag/nicaragua), [management](../tag/management), [recycling](../tag/recycling), [lat:12.163238](../tag/lat:12.163238), [lon:-84.222339](../tag/lon:-84.222339), [place:el-rama-nicaragua](../tag/place:el-rama-nicaragua)
+
+----
 
 <strong>El Rama, Nicaragua</strong>
 

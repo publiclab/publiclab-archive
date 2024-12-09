@@ -8,11 +8,15 @@ uid: 77
 
 ---
 
+![](https://publiclab.org/sites/default/files/OrthoN-DroneMapper_test1.jpg)
+
 # dronemapper.com cloudbased aerial photo processing service 
 
 by [patcoyle](../profile/patcoyle) September 05, 2012 03:59
 
 September 05, 2012 03:59 | Tags: 
+
+----
 
 I learned of another cloudbased aerial photo processing service  http://dronemapper.com/
 

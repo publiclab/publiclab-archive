@@ -14,4 +14,6 @@ by [Alu017](../profile/Alu017) September 04, 2019 12:52
 
 September 04, 2019 12:52 | Tags: [question:general](../tag/question:general), [first-time-poster](../tag/first-time-poster)
 
+----
+
 Hi everyone! I just joined this community and am exploring project ideas for my senior project. An environmental issue I'm interested in is the loss of biodiversity, and I'm curious as to how we can track or mitigate this loss through IoT-enabled devices or other forms of technology.

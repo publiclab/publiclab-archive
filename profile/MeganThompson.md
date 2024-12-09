@@ -3,6 +3,8 @@ uid: 773887
 created_at: 2021-09-28 07:26:46 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/773887/medium/New_Megan_Thompson.jpg)
+
 # MeganThompson
 
 Megan J. Thompson, Legal Writer at Lawrina.com

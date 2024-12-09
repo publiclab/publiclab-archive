@@ -8,11 +8,15 @@ uid: 468990
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/015/715/original/flip_over_header.jpg)
+
 # And if I flip it over? Effects of a reversed polfilter on spectra.
 
 by [viechdokter](../profile/viechdokter) April 21, 2016 17:11
 
 April 21, 2016 17:11 | Tags: [spectrometer](../tag/spectrometer), [spectrum](../tag/spectrum), [polarizing_filter](../tag/polarizing_filter), [polfilter](../tag/polfilter), [polarisation](../tag/polarisation), [angle](../tag/angle)
+
+----
 
 So, now for something interesting... I repeated the polfilter turning angle test - but this time with the polarizing filter flipped over. The first experiments I did with the polarizing filter put on top of the spectrometer the way you would screw it onto a camera. Now I put it on "backward" - with some interesting results!
 

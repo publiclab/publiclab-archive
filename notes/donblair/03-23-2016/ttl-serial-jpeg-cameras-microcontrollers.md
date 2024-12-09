@@ -8,11 +8,15 @@ uid: 43651
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/015/197/original/IMG_20160323_103253944.jpg)
+
 # TTL Serial JPEG Cameras + microcontrollers
 
 by [donblair](../profile/donblair) March 23, 2016 17:50
 
 March 23, 2016 17:50 | Tags: [riffle](../tag/riffle), [riffle-examples](../tag/riffle-examples)
+
+----
 
 Just seeing @tonyc 's recent note on [using a Mobius camera for field time lapse](https://publiclab.org/notes/tonyc/03-22-2016/using-mobius-camera-as-a-trap-cam-in-field-deployments) -- great stuff!
 

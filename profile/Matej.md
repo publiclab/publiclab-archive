@@ -3,6 +3,8 @@ uid: 451808
 created_at: 2015-09-18 15:02:14 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/6ce795cddeaec7aa6b4a34f471992714)
+
 # Matej
 
 Matej Vakula, is multi media artist, educator, curator, theorist, programmer, and DIY enthusiast with speciality in data visualization, and urban issues. His work explores impact of culture, technology, location and politics on personal experience and social interrelationships. 

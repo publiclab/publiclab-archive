@@ -8,11 +8,15 @@ uid: 1016
 
 ---
 
+![](https://publiclab.org/sites/default/files/2012 December 15_balloon photography_sand mappers in Red Hook_IMG_4842_cropped.jpg)
+
 # Mapping Sewage Flows in the Gowanus Canal after Sandy flood damages
 
 by [eymund](../profile/eymund) December 16, 2012 18:49
 
 December 16, 2012 18:49 | Tags: [new-york-city](../tag/new-york-city), [balloon-mapping](../tag/balloon-mapping), [gowanus](../tag/gowanus), [brooklyn](../tag/brooklyn), [new-york](../tag/new-york), [sandy-flood-damage](../tag/sandy-flood-damage), [water-quality-monitoring](../tag/water-quality-monitoring), [sustainable-design-of-sewer-systems](../tag/sustainable-design-of-sewer-systems), [sewage](../tag/sewage), [sandy](../tag/sandy), [water-quality](../tag/water-quality), [hurricane](../tag/hurricane), [wastewater](../tag/wastewater)
+
+----
 
 On December 5th representatives of New York State's Department of Environmental Conservation mentioned at a Water Quality public information meeting that New York City had notified them of a major sewage spill in the Gowanus Canal. This was a a result of storm damage from the Sandy floods, where salt flood waters flooded generators controlling sewer pump stations at Butler Street at the head of the Canal.
 

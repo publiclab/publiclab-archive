@@ -3,6 +3,8 @@ uid: 465986
 created_at: 2016-02-18 17:59:16 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/1542624aeb246f6fafbe78504a4e4fd7)
+
 # ninalang
 
 

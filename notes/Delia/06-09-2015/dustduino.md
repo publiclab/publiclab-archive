@@ -14,6 +14,8 @@ by [Delia](../profile/Delia) June 09, 2015 17:36
 
 June 09, 2015 17:36 | Tags: [air-quality](../tag/air-quality), [dustduino](../tag/dustduino), [dust](../tag/dust), [particulates](../tag/particulates), [question:dustduino](../tag/question:dustduino)
 
+----
+
 Hi everyone, I've got a few questions about the dustduino.  
 
 Does the dustduino only show 'how much' particulate matter there is in the air?  Or does it also show what makes up the particulate matter?  Will, for example, dead skin show up in the sensor, as 'particulate matter'?  

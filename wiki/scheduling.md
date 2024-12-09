@@ -14,6 +14,8 @@ by [liz](../profile/liz)
 
 January 12, 2015 18:03 | Tags: [parent:gardening-toolkit](../tag/parent:gardening-toolkit), [gardening-toolkit](../tag/gardening-toolkit)
 
+----
+
 This is one of a series of guides for collaborative environmental research and advocacy projects. _Scheduling_ is either the briefest guide of the entire [Gardening Toolkit](/wiki/gardening-toolkit) or perhaps not really a guide at all. We're including it, however, it is superimportant to look ahead and set dates aside for some of the larger activities that require multiple people. 
 
 ****

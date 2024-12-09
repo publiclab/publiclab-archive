@@ -8,11 +8,15 @@ uid: 237313
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/018/222/original/IMG_20160924_135456-2.jpg)
+
 # Aerial Photography
 
 by [liz](../profile/liz), [warren](../profile/warren), [Bronwen](../profile/Bronwen)
 
 September 23, 2016 19:24 | Tags: [agriculture](../tag/agriculture), [mining](../tag/mining), [urban-planning](../tag/urban-planning), [fracking](../tag/fracking), [tool](../tag/tool), [land-use](../tag/land-use), [industry](../tag/industry), [activities:aerial-photography](../tag/activities:aerial-photography), [upgrades:aerial-photography](../tag/upgrades:aerial-photography), [method](../tag/method), [land-change](../tag/land-change), [oil-and-gas](../tag/oil-and-gas)
+
+----
 
 This is an open source community effort to develop **simple, low-cost aerial photography** methods for a range of conditions. All accessible hardware and software efforts are welcome here! 
 
@@ -44,7 +48,7 @@ Also:
 
 ## Activities
 
-[activities:aerial-photography]
+[aerial-photography](../../tag/activity:aerial-photography)
 
 ****
 
@@ -61,7 +65,7 @@ Public Lab’s Kits initiative offers starter kits for kite and balloon photogra
 
 <a class="btn btn-primary" href="/post?tags=question:aerial-photography,aerial-photography&template=question">Ask a question about aerial photography</a>
 
-[notes:question:aerial-photography]
+[question:aerial-photography](../../tag/question:aerial-photography)
 
 ****
 

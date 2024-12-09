@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/IMG_8052.JPG)
+
 # Tidmarsh Farms mapping meetup: success!
 
 by [warren](../profile/warren) November 19, 2012 02:49
 
 November 19, 2012 02:49 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [infrared](../tag/infrared), [meetup](../tag/meetup), [tidmarsh](../tag/tidmarsh)
+
+----
 
 25-30 people showed up in Manomet Massachusetts this weekend and we had a great time kite mapping the [Tidmarsh Farms](/wiki/tidmarsh-farms-meetup) property together despite the cold weather. Here are a few photos and links:
 

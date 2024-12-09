@@ -3,6 +3,8 @@ uid: 654422
 created_at: 2020-01-15 18:55:43 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/e6b062a0b6bbac764d7c7430cfeb7a4e)
+
 # lev29
 
 Retired Diagnostic Radiologist living in Boston, MA, USA. Education background includes Biochemistry & Physics. 

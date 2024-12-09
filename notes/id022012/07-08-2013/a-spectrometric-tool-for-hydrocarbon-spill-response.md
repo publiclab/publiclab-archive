@@ -8,11 +8,15 @@ uid: 60504
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/000/679/original/MOD3_-_20130702_200254.jpg)
+
 # A Spectrometric Tool for Hydrocarbon Spill Response
 
 by [id022012](../profile/id022012) July 08, 2013 23:33
 
 July 08, 2013 23:33 | Tags: [spectrometer](../tag/spectrometer), [uv](../tag/uv), [oil](../tag/oil), [laser](../tag/laser), [fluorescence](../tag/fluorescence), [spill](../tag/spill), [quebec](../tag/quebec), [canada](../tag/canada), [municipal](../tag/municipal), [led](../tag/led), [aqueous](../tag/aqueous), [hydrocarbon](../tag/hydrocarbon), [optic](../tag/optic), [fiber](../tag/fiber), [petroleum](../tag/petroleum), [first-time-poster](../tag/first-time-poster)
+
+----
 
 **Feasibility study for rapid, low cost, in situ visible light spectrum measurement and analysis of artificially induced fluorescence in aqueous samples as a mean to detect, identify and quantify light to medium fuels and oils.**
 

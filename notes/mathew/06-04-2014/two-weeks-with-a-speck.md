@@ -8,11 +8,15 @@ uid: 4
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/004/517/original/14155445079_6657caf3aa_b.jpg)
+
 # Two weeks with a Speck
 
 by [mathew](../profile/mathew) June 04, 2014 03:51
 
 June 04, 2014 03:51 | Tags: [air](../tag/air), [dust](../tag/dust), [open-air](../tag/open-air), [particle-sensing](../tag/particle-sensing), [particle-monitoring](../tag/particle-monitoring), [particulate-monitoring](../tag/particulate-monitoring), [dust-monitoring](../tag/dust-monitoring), [openair](../tag/openair)
+
+----
 
 _Carpentry. 80 times worse than rush hour._
 

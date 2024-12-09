@@ -8,11 +8,15 @@ uid: 427857
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/007/077/original/IMG_6515.JPG)
+
 # Brendan & Claire's Water Samples -- Emerson Data Viz  
 
 by [cnobles](../profile/cnobles) September 29, 2014 17:05
 
 September 29, 2014 17:05 | Tags: [boston](../tag/boston), [water-quality](../tag/water-quality), [northeast](../tag/northeast), [first-time-poster](../tag/first-time-poster)
+
+----
 
 [![IMG_6515.JPG](https://i.publiclab.org/system/images/photos/000/007/074/medium/IMG_6515.JPG)](https://i.publiclab.org/system/images/photos/000/007/074/original/IMG_6515.JPG)
 

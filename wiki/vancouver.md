@@ -14,6 +14,8 @@ by [MelissaN](../profile/MelissaN), [ann](../profile/ann)
 
 November 27, 2014 03:27 | Tags: [canada](../tag/canada)
 
+----
+
 **Vancouver includes the greater Vancouver area and is a part of the [Western Canada](http://publiclab.org/wiki/western-canada) region.**
 
 ###Projects

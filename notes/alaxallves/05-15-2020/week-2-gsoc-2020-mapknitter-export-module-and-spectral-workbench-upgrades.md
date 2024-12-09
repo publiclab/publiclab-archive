@@ -8,11 +8,15 @@ uid: 577447
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/039/400/original/sprint-planning-meeting-como-fazer-e-conseguir-o-melhor-do-seu-projeto.jpeg)
+
 # Week 2 @ GSOC 2020: Mapknitter Export Module and Spectral Workbench upgrades
 
 by [alaxallves](../profile/alaxallves) May 15, 2020 21:18
 
 May 15, 2020 21:18 | Tags: [zoom:18](../tag/zoom:18), [lat:-15.890176](../tag/lat:-15.890176), [lon:-48.014778](../tag/lon:-48.014778)
+
+----
 
 This week I got to do some planning and also chatting with the folks at PublicLab. I have talked to Ruturaj Mohite and we have succesfully included the SimpleCov test coverage tool in the Rails upgrade at the Spectral Workbench repository:
 

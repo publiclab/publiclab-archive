@@ -14,6 +14,8 @@ by [bhamster](../profile/bhamster)
 
 March 05, 2021 19:50 | Tags: 
 
+----
+
 If you’ve given soil samples to a lab for contaminant testing and received the results, one of the next steps is to interpret the results and make meaning of them. You might have a short document listing test results from the lab, or a longer report that includes some summarizing and recommended actions.
 
 <div class="alert alert-success" role="alert">
@@ -30,7 +32,7 @@ Here are some resources and activities that can help you understand the kinds of
 
 ### Activities
 
-[notes:grid:activity:interpret-soil-tests]
+[grid:activity:interpret-soil-tests](../../tag/grid:activity:interpret-soil-tests)
 
 <br>
 
@@ -74,7 +76,7 @@ Your soil test results or report might already list local standard or screening 
 
 #### More background on technical documents and standard levels
 
-[notes:grid:interpret-results-intro]
+[grid:interpret-results-intro](../../tag/grid:interpret-results-intro)
 
 <br>
 
@@ -82,7 +84,7 @@ Your soil test results or report might already list local standard or screening 
 
 Questions from the Public Lab community tagged with `interpret-soil-tests` will appear here
 
-[questions:interpret-soil-tests]
+[interpret-soil-tests](../../tag/question:interpret-soil-tests)
 
 <br>
 

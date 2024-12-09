@@ -8,11 +8,15 @@ uid: 1310
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/004/292/original/fabapole_ruinagijon_pap_web.jpg)
+
 # Acción PAP de urgencia (Gijón, Spain)
 
 by [Juan](../profile/Juan) May 19, 2014 10:52
 
 May 19, 2014 10:52 | Tags: [photography](../tag/photography), [spain](../tag/spain), [polemapping](../tag/polemapping), [pole-photography](../tag/pole-photography), [pap](../tag/pap), [pole-mapping](../tag/pole-mapping), [lang:es](../tag/lang:es), [aerial](../tag/aerial), [fabapole](../tag/fabapole)
+
+----
 
 ###Objetivo
 Los temporales recientes y reincidentes que han afectado a la costa asturiana (España) han dejado al descubierto una curiosa ruina circular en la playa de San Lorenzo (Gijón, España) que he querido documentar mediante foto vertical a baja altura desde palo ([PAP](http://publiclab.org/tag/PAP))

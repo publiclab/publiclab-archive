@@ -8,11 +8,15 @@ uid: 45586
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/016/698/original/Wisconsin_watch_10_26_15_PG1_9_20x_copy.jpg)
+
 # Interview with Pat Popple
 
 by [mlamadrid](../profile/mlamadrid) June 21, 2016 20:39
 
 June 21, 2016 20:39 | Tags: [wisconsin](../tag/wisconsin), [blog](../tag/blog), [frac-sand](../tag/frac-sand), [with:stevie](../tag/with:stevie), [parent:frac-sand](../tag/parent:frac-sand), [communityscienceforum](../tag/communityscienceforum), [with:pat](../tag/with:pat)
+
+----
 
 Interview by [Stevie Lewis](https://publiclab.org/profile/stevie) for [Community Science Forum: Sand-Frac Issue](https://publiclab.org/forum).
 

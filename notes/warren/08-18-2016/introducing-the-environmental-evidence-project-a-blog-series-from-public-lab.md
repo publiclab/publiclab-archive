@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/017/658/original/8516111863_38ff97e56e_b.jpg)
+
 # Introducing the Environmental Evidence Project, a blog series from Public Lab
 
 by [warren](../profile/warren) August 18, 2016 14:57
 
 August 18, 2016 14:57 | Tags: [evidence](../tag/evidence), [blog](../tag/blog), [legal](../tag/legal), [with:gretchengehrke](../tag/with:gretchengehrke), [evidence-project](../tag/evidence-project), [proof](../tag/proof), [series:evidence-project](../tag/series:evidence-project), [law-and-policy](../tag/law-and-policy)
+
+----
 
 Hello everyone -- Jeff Warren and Gretchen Gehrke here, Public Lab's Research Director and Data Quality and Advocacy Manager, respectively. Over the next few months, we're hoping to share a series of posts covering different aspects of the concept of evidence. What is it evidence, what factors contribute to the importance of evidence, and how does all that relate to environment sensing?
 
@@ -58,7 +62,7 @@ Thanks!
 
 We'll also be adding some of our questions into the new [Q&A system](/questions) which was recently added to this site. As people add questions on the topic of `evidence`, they'll appear here:
 
-[notes:question:evidence]
+[question:evidence](../../tag/question:evidence)
 
 <a class="btn btn-primary" href="/post?tags=evidence,question:evidence&template=question">Ask a question about evidence</a>
 

@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/023/197/original/Screenshot_20180117-193940.png)
+
 # Software outreach: Modularity is great for collaboration
 
 by [warren](../profile/warren) January 18, 2018 00:42
 
 January 18, 2018 00:42 | Tags: [website](../tag/website), [software](../tag/software), [gsoc](../tag/gsoc), [web](../tag/web), [developers](../tag/developers), [wwg](../tag/wwg), [software-outreach](../tag/software-outreach), [soc](../tag/soc), [response:15093](../tag/response:15093), [response:13687](../tag/response:13687), [series:software-outreach](../tag/series:software-outreach), [gsoc-2018](../tag/gsoc-2018), [soc-2018](../tag/soc-2018), [modularity](../tag/modularity)
+
+----
 
 Just as [Summer of Code](/n/7963) deadlines are looming, I wanted to write a bit about modularity, as I think it'll be useful for our mentors and students this coming SoC season.
 

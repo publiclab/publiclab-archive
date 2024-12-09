@@ -14,6 +14,8 @@ by [warren](../profile/warren)
 
 December 22, 2011 18:24 | Tags: 
 
+----
+
 _This lays out a draft template for what [Tool pages](/tools) should look like_
 
 ##Purpose##

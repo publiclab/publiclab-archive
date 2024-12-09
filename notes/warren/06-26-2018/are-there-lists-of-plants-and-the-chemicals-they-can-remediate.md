@@ -14,4 +14,6 @@ by [warren](../profile/warren) June 26, 2018 21:04
 
 June 26, 2018 21:04 | Tags: [remediation](../tag/remediation), [plants](../tag/plants), [toxins](../tag/toxins), [phytoremediation](../tag/phytoremediation), [question:remediation](../tag/question:remediation), [question:plants](../tag/question:plants), [toxics](../tag/toxics), [question:phytoremediation](../tag/question:phytoremediation), [soil-remediation](../tag/soil-remediation), [question:soil-remediation](../tag/question:soil-remediation)
 
+----
+
 I've heard of compiled lists of plant species and the different things they can absorb from the air or soil or water. Does anyone know of such a list?

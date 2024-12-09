@@ -14,6 +14,8 @@ by [bhamster](../profile/bhamster) November 08, 2021 19:18
 
 November 08, 2021 19:18 | Tags: [question:general](../tag/question:general), [general](../tag/general), [storytelling](../tag/storytelling), [presenting-data](../tag/presenting-data), [question:presenting-data](../tag/question:presenting-data), [air-quality-data](../tag/air-quality-data), [question:air-quality-data](../tag/question:air-quality-data), [question:storytelling](../tag/question:storytelling), [data-storytelling](../tag/data-storytelling), [data-story](../tag/data-story)
 
+----
+
 I recently heard about data stories from @renee, as a way to create a narrative story around a set of data and make it meaningful.   
 
 Does anyone have experience crafting a data story for their environmental data?   

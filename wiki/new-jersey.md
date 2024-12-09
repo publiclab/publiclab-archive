@@ -14,6 +14,8 @@ by [seankmcginnis](../profile/seankmcginnis), [liz](../profile/liz)
 
 May 07, 2014 16:37 | Tags: [new-jersey](../tag/new-jersey), [events:new-jersey](../tag/events:new-jersey), [northeast](../tag/northeast), [parent:northeast](../tag/parent:northeast)
 
+----
+
 [Sean McGinnis](/profile/SeanKMcGinnis) is New Jersey's main Public Lab organizer. 
 
 Current projects include infrared imaging with the Green Community Garden, part of the Adopt-A-Lot program of the City of Newark's Office of Sustainability. Read more on the [Newark page](http://publiclab.org/wiki/newark).

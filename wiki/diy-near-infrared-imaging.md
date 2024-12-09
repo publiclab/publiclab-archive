@@ -8,11 +8,15 @@ uid: 1259
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/009/307/original/timer_visible_light_camera_gmf_2.jpg)
+
 # DIY Near-Infrared Imaging
 
 by [mollydanielsson](../profile/mollydanielsson)
 
 March 19, 2015 00:40 | Tags: [grassrootsmappingforum](../tag/grassrootsmappingforum), [infragram-conversion](../tag/infragram-conversion), [with:warren](../tag/with:warren), [style:fancy](../tag/style:fancy), [gmf-2](../tag/gmf-2), [with:cfastie](../tag/with:cfastie)
+
+----
 
 Published **July 2012** in the [Grassroots Mapping Forum #2.](http://publiclab.org/forum)
 [Order online.](http://store.publiclab.org/products/grassroots-mapping-forum-issue-2)

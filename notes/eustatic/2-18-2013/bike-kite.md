@@ -8,11 +8,15 @@ uid: 379
 
 ---
 
+![](https://publiclab.org/sites/default/files/8458972207_37ab609e64_c.jpg)
+
 # bike kite
 
 by [eustatic](../profile/eustatic) February 18, 2013 07:29
 
 February 18, 2013 07:29 | Tags: [gulf-coast](../tag/gulf-coast), [kite-mapping](../tag/kite-mapping)
+
+----
 
 how to bike your kite.  
 

@@ -8,11 +8,15 @@ uid: 461120
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/017/746/original/ALL_5_SAMPLES_raw_data__eosin_y_aug_22_title_pic.png)
+
 # Final Data Analysis for My New 0.11mm Entrance Slit Design
 
 by [dhaffnersr](../profile/dhaffnersr) August 23, 2016 18:27
 
 August 23, 2016 18:27 | Tags: 
+
+----
 
 **Abstract**
 

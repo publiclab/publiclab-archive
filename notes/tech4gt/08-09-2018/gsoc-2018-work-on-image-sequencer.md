@@ -14,6 +14,8 @@ by [tech4gt](../profile/tech4gt) August 09, 2018 11:17
 
 August 09, 2018 11:17 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [code](../tag/code), [soc](../tag/soc), [gsoc-2018](../tag/gsoc-2018), [soc-2018](../tag/soc-2018), [image-sequencer](../tag/image-sequencer), [soc-2018-final](../tag/soc-2018-final), [soc-2018-final-report](../tag/soc-2018-final-report)
 
+----
+
 ## Project Info
 
 _[Project Repository](https://github.com/publiclab/image-sequencer)_

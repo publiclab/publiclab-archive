@@ -3,6 +3,8 @@ uid: 709175
 created_at: 2020-07-20 14:00:46 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/709175/medium/Trillion_Trees_Initiative_Founder.jpg)
+
 # Trillion_Trees
 
 I’m artist, environmentalist, organiser, project developer and publisher from Leipzig in Germany.

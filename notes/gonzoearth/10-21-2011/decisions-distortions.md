@@ -8,11 +8,15 @@ uid: 12
 
 ---
 
+![](https://publiclab.org/sites/default/files/Screen Shot 2011-10-20 at 10.25.59 PM.png)
+
 # Video tutorial: Decisions With Distortions
 
 by [gonzoearth](../profile/gonzoearth) October 21, 2011 05:26
 
 October 21, 2011 05:26 | Tags: 
+
+----
 
 A look inside the process of using distorted aerial data in map production (9 min) 
 

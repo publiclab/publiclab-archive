@@ -3,6 +3,8 @@ uid: 443410
 created_at: 2015-06-09 18:41:09 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/f1a9071fb1536514924d9ee0b035bea4)
+
 # lperovich
 
 

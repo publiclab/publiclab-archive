@@ -8,11 +8,15 @@ uid: 371
 
 ---
 
+![](https://publiclab.org/sites/default/files/DSC05653crop.jpg)
+
 # Temperature Sensor / LED light
 
 by [sobers](../profile/sobers) November 28, 2011 23:36
 
 November 28, 2011 23:36 | Tags: [thermal-fishing-bob](../tag/thermal-fishing-bob)
+
+----
 
 Materials:
 1. Cheap Digital Thermometer

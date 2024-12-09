@@ -14,6 +14,8 @@ by [mathew](../profile/mathew)
 
 July 15, 2015 02:23 | Tags: [parent:wetlands-lesson-plans](../tag/parent:wetlands-lesson-plans)
 
+----
+
 [Link to Lesson 2](http://publiclab.org/wiki/public-lab-lesson-2-more-than-meets-the-eye)
 
 ###National Common Core Standards: Grade 8 specific (as well as general category 6-8 Middle School Standards)

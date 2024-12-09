@@ -8,11 +8,15 @@ uid: 426547
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/018/526/original/noisedagua.jpg)
+
 # Water Sensor with NE555 - EC - Electrical Conductivity 
 
 by [GSan](../profile/GSan) October 21, 2016 15:26
 
 October 21, 2016 15:26 | Tags: [watersensor](../tag/watersensor), [ec](../tag/ec), [arttech](../tag/arttech), [br_sp](../tag/br_sp)
+
+----
 
 ###What I want to do
 NE555 Circuit Water Sensor Workshop

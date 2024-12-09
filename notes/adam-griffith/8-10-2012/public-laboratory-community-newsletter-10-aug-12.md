@@ -14,6 +14,8 @@ by [adam-griffith](../profile/adam-griffith) August 10, 2012 18:23
 
 August 10, 2012 18:23 | Tags: 
 
+----
+
 Hello Public Laboratory Community:
 
 1)	Google will be scanning maps created by our community to possibly be imported into GoogleEarth/Maps.  Be sure to export maps and click public domain license.

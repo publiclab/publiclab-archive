@@ -8,11 +8,15 @@ uid: 898
 
 ---
 
+![](https://publiclab.org/sites/default/files/Before After High-Pass filter_1.jpg)
+
 # Improve the Sharpness and Details of Your Photos
 
 by [Safidy](../profile/Safidy) May 30, 2012 16:35
 
 May 30, 2012 16:35 | Tags: [kite-mapping](../tag/kite-mapping), [safidy-andrianantenaina](../tag/safidy-andrianantenaina), [image-processing](../tag/image-processing)
+
+----
 
 Use a High Pass Filter to Improve the Detail in Your Photos.
 

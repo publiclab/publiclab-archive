@@ -8,11 +8,15 @@ uid: 664477
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/045/537/original/Tyrone_Mine_copy.jpg)
+
 # Event Mar. 31: Wrapping up a topic review on mine reclamation 
 
 by [bhamster](../profile/bhamster) March 18, 2022 15:32
 
 March 18, 2022 15:32 | Tags: [event](../tag/event), [mining](../tag/mining), [event:rsvp](../tag/event:rsvp), [reviews](../tag/reviews), [research-area-review](../tag/research-area-review), [research-curation-fellows-event](../tag/research-curation-fellows-event), [reclamation](../tag/reclamation), [with:laurel_mire](../tag/with:laurel_mire), [mine-reclamation](../tag/mine-reclamation), [land-rehabilitation](../tag/land-rehabilitation)
+
+----
 
 _Lead image: the reclamation of Tyrone Mine. [Alan Levine](https://www.flickr.com/photos/cogdog/14902857869/in/photostream/), [CC BY](https://creativecommons.org/licenses/by/2.0/)._
 

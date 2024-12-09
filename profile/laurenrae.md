@@ -3,6 +3,8 @@ uid: 431676
 created_at: 2014-11-18 16:48:22 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/431676/medium/lauren_on_boat.jpg)
+
 # laurenrae
 
  I'm a Public Lab organizer in New Orleans and  a recent graduate of the Louisiana State University School of Renewable Natural Resources.  My major is watershed science with a minor in wetland ecology and restoration.

@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/screen-shot-2011-01-22-at-10-24-19-pm.png)
+
 # Kinect for 3d mapping from a car
 
 by [warren](../profile/warren) January 24, 2011 21:16
 
 January 24, 2011 21:16 | Tags: [3d](../tag/3d), [kinect](../tag/kinect)
+
+----
 
 http://blog.decoratorpattern.com/2011/01/23/real-world-mapping-with-the-kinect/
 

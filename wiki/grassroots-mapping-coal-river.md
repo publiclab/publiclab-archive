@@ -14,6 +14,8 @@ by [mariakatosvich](../profile/mariakatosvich), [warren](../profile/warren)
 
 April 21, 2012 14:47 | Tags: [balloon-mapping](../tag/balloon-mapping), [grassrootsmappingwiki](../tag/grassrootsmappingwiki), [mapping](../tag/mapping), [mining](../tag/mining), [mine-reclamation-photography](../tag/mine-reclamation-photography)
 
+----
+
 Cherry Pond Mountain, West Virginia:
 
 <a href="http://tinyurl.com/y8rvkzk"><img src="http://farm5.static.flickr.com/4060/4401832050_6a8dcb7092.jpg" /></a>

@@ -8,11 +8,15 @@ uid: 425404
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/006/663/original/logo150pxwithtext.png)
+
 # Oil Terminal Monitoring - Newburgh (NY)
 
 by [joshuaflux](../profile/joshuaflux) September 08, 2014 16:43
 
 September 08, 2014 16:43 | Tags: [new-york](../tag/new-york), [oil](../tag/oil), [tar-sands](../tag/tar-sands), [bakken](../tag/bakken), [oil-testing-kit](../tag/oil-testing-kit), [tar](../tag/tar), [valley](../tag/valley), [hudson](../tag/hudson), [newburgh](../tag/newburgh), [sands](../tag/sands), [hudson-valley](../tag/hudson-valley), [first-time-poster](../tag/first-time-poster)
+
+----
 
 [![Oil-soaked-wetlands-Aliceville-Ala-11-2013-spill-Bakken-crude-oil-train-derailment-Photo-JohnWathen-HurricaneCreekkeeper.jpg](https://i.publiclab.org/system/images/photos/000/006/662/medium/Oil-soaked-wetlands-Aliceville-Ala-11-2013-spill-Bakken-crude-oil-train-derailment-Photo-JohnWathen-HurricaneCreekkeeper.jpg)](https://i.publiclab.org/system/images/photos/000/006/662/original/Oil-soaked-wetlands-Aliceville-Ala-11-2013-spill-Bakken-crude-oil-train-derailment-Photo-JohnWathen-HurricaneCreekkeeper.jpg)
 

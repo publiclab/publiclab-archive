@@ -8,11 +8,15 @@ uid: 421556
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/004/823/original/Barataria_12_june_trip_VI.png)
+
 # MapKnitter Annotations Plugin: Preliminary Specification
 
 by [justinmanley](../profile/justinmanley) June 17, 2014 05:12
 
 June 17, 2014 05:12 | Tags: [mapknitter](../tag/mapknitter), [gsoc](../tag/gsoc), [gsoc-2014](../tag/gsoc-2014)
+
+----
 
 ### Background ###
 

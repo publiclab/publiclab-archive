@@ -8,11 +8,15 @@ uid: 422561
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/044/937/original/formosa_policy.jpg)
+
 # Seeking an Environmental Policy Fellow 
 
 by [stevie](../profile/stevie) October 19, 2021 17:55
 
 October 19, 2021 17:55 | Tags: [air-quality](../tag/air-quality), [jobs](../tag/jobs), [pm](../tag/pm), [fellows](../tag/fellows), [particulate-matter](../tag/particulate-matter), [job](../tag/job), [policy](../tag/policy), [fellow](../tag/fellow), [fellowship-team](../tag/fellowship-team), [careers](../tag/careers), [st-james](../tag/st-james), [fellowship-teams](../tag/fellowship-teams), [eis](../tag/eis), [with:travislondon](../tag/with:travislondon), [formosaplastics](../tag/formosaplastics)
+
+----
 
 _Lead image from [Victoria Advocate][1] where Ronnie Hamrick, a member of the San Antonio Bay Estuarine Waterkeeper, holds some plastic pellets he found along the shorelines of Lavaca Bay and Cox Creek the week of Feb. 11, 2019._
 

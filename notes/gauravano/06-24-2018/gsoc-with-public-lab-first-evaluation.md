@@ -8,11 +8,15 @@ uid: 515081
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/025/285/original/draft_view.png)
+
 # GSoC with Public Lab: First Evaluation 
 
 by [gauravano](../profile/gauravano) June 23, 2018 09:38
 
 June 23, 2018 09:38 | Tags: [gsoc](../tag/gsoc), [soc](../tag/soc), [gsoc-2018](../tag/gsoc-2018), [draft-feature](../tag/draft-feature)
+
+----
 
 **Hello!** 
 

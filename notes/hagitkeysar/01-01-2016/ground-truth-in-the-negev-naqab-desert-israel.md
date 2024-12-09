@@ -8,11 +8,15 @@ uid: 152
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/013/490/original/IMG_8287.JPG)
+
 # Ground Truth in the Negev-Naqab Desert, Israel
 
 by [hagitkeysar](../profile/hagitkeysar) January 01, 2016 22:40
 
 January 01, 2016 22:40 | Tags: [mapknitter](../tag/mapknitter), [israel](../tag/israel), [blog](../tag/blog), [barnstar:photo-documentation](../tag/barnstar:photo-documentation), [middle-east](../tag/middle-east), [lat:31.372335](../tag/lat:31.372335), [lon:34.793877](../tag/lon:34.793877)
+
+----
 
 <iframe src="https://mapknitter.org/embed/el-naqab" style="border:none" width="85%" height="400px"></iframe><br /><br /><br />https://mapknitter.org/embed/el-naqab
 

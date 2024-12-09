@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/022/007/original/red-filter.jpg)
+
 # Infragram Filters
 
 by [warren](../profile/warren)
 
 October 23, 2017 22:17 | Tags: [infragram-filters](../tag/infragram-filters), [parent:infragram](../tag/parent:infragram)
+
+----
 
 The Infragram project has used a variety of filters to make Do-It-Yourself infrared cameras, as well as infrared-visible multispectral cameras. This page is about choosing filters for different purposes.
 
@@ -32,7 +36,7 @@ _Left: pale blue from a RED filter; Right: pale yellow from a BLUE filter. Image
 
 There's a lot of research about this choice here:
 
-[notes:red-vs-blue]
+[red-vs-blue](../../tag/red-vs-blue)
 
 ****
 
@@ -52,7 +56,7 @@ Blue filters include:
 
 Also see this research on various Rosco filters:
 
-[notes:rosco]
+[rosco](../../tag/rosco)
 
 And the Rosco website: http://us.rosco.com/en
 

@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/007/231/original/IMG_3800.JPG)
+
 # The garden mapping goes on despite cracking carbon fiber
 
 by [liz](../profile/liz) October 01, 2014 15:12
 
 October 01, 2014 15:12 | Tags: [polemapping](../tag/polemapping), [newark](../tag/newark), [new-jersey](../tag/new-jersey), [urban-ag](../tag/urban-ag), [garden](../tag/garden), [pole](../tag/pole), [pole-mapping](../tag/pole-mapping), [elp](../tag/elp), [northeast](../tag/northeast), [with:thegreencommunitygarden](../tag/with:thegreencommunitygarden)
+
+----
 
 September 30, 2014 Green Garden Community Garden mapping in Newark, NJ. Depicted above, Frank and the experimental bed of collards (half mulched, half unmulched). 
 

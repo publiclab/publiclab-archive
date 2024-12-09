@@ -8,11 +8,15 @@ uid: 511090
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/021/144/original/blob)
+
 # Spectrometry: degrees  between gratings or camera and baseline 
 
 by [obisidian](../profile/obisidian) July 17, 2017 13:45
 
 July 17, 2017 13:45 | Tags: [question:spectrometry](../tag/question:spectrometry)
+
+----
 
 why the diffraction grating should be placed at 65° and the camera should be placed at 45°? What is the advantage of this placement? 
 

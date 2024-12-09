@@ -8,11 +8,15 @@ uid: 53164
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/001/125/original/IMG_20130813_144209.jpg)
+
 # Photosynq - Preparing for the Open Hardware Summit
 
 by [gbathree](../profile/gbathree) August 13, 2013 19:18
 
 August 13, 2013 19:18 | Tags: [open-hardware](../tag/open-hardware), [photosynthesis](../tag/photosynthesis), [photosynq](../tag/photosynq), [ohs](../tag/ohs), [open-hardware-summit](../tag/open-hardware-summit)
+
+----
 
 The Open Hardware Summit is coming up on September 6th at MIT, and we will be presenting our first working beta unit...
 

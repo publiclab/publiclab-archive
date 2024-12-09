@@ -8,10 +8,14 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/5709445998_613ef060f6_b.jpg)
+
 # Infrared visible dual camera mapping rig by Cesar Harada
 
 by [warren](../profile/warren) May 14, 2011 15:47
 
 May 14, 2011 15:47 | Tags: 
+
+----
 
 <p>It worked really well!</p>

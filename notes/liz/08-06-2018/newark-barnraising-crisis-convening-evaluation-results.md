@@ -14,6 +14,8 @@ by [liz](../profile/liz) August 02, 2018 14:39
 
 August 02, 2018 14:39 | Tags: [barnraising](../tag/barnraising), [evaluation](../tag/evaluation), [barnraising-newark-2018](../tag/barnraising-newark-2018)
 
+----
+
 ### Core question results
 
 * **Total number of respondents: 38** (7 on paper Friday PM, 18 on paper Sunday AM, 13 within two weeks after the event via GoogleForm). _This is 63% of the 60 unique individuals recorded by staff as having actually attended at least part of the event._

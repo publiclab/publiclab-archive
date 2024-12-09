@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/018/948/original/henj.png)
+
 # How many people to do an activity?
 
 by [warren](../profile/warren) November 30, 2016 21:55
 
 November 30, 2016 21:55 | Tags: [community](../tag/community), [barnraising](../tag/barnraising), [organizing](../tag/organizing), [research-culture](../tag/research-culture), [activity-grids](../tag/activity-grids), [activities](../tag/activities)
+
+----
 
 Hi, all - in the Activities (#activity-grids) session of the #barnraising, we briefly (among many other great topics) talked about the different kinds of activities people do (and we could/should provide guides to) across PL -- and one really relevant question that stuck out to me was:
 

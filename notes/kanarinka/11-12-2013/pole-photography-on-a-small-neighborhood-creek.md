@@ -8,11 +8,15 @@ uid: 994
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/002/205/original/creek_deep_zoom_thumb.jpg)
+
 # Pole photography on a small neighborhood creek
 
 by [kanarinka](../profile/kanarinka) November 12, 2013 12:09
 
 November 12, 2013 12:09 | Tags: [boston](../tag/boston), [polemapping](../tag/polemapping), [massachusetts](../tag/massachusetts), [pole-photography](../tag/pole-photography), [pole-mapping](../tag/pole-mapping), [creek](../tag/creek), [northeast](../tag/northeast), [first-time-poster](../tag/first-time-poster), [qgis](../tag/qgis)
+
+----
 
 [![IMG_5617.jpg](https://i.publiclab.org/system/images/photos/000/002/207/medium/IMG_5617.jpg)](https://i.publiclab.org/system/images/photos/000/002/207/original/IMG_5617.jpg)
 

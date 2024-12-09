@@ -14,6 +14,8 @@ by [Pat](../profile/Pat) May 30, 2018 06:02
 
 May 30, 2018 06:02 | Tags: [answered](../tag/answered), [question:question](../tag/question:question), [question:radiation](../tag/question:radiation), [question:radium](../tag/question:radium)
 
+----
+
 Repeatedly there are concerns about the brine being used on roads to reduce the use of "salt".
 
 New solutions are being introduced where beet juice and various 

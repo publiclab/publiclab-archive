@@ -3,6 +3,8 @@ uid: 525966
 created_at: 2018-02-23 17:39:46 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/3373ef92ed1319270cf4b5edfcd05ec7)
+
 # RoRo
 
 

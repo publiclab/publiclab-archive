@@ -8,11 +8,15 @@ uid: 1083
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/018/834/original/016_-_Copy_%28800x387%29.jpg)
+
 # Hack a camera to make you own DIY Near Infrared device
 
 by [cindy_excites](../profile/cindy_excites) November 13, 2016 21:40
 
 November 13, 2016 21:40 | Tags: [nir](../tag/nir), [london](../tag/london), [workshop](../tag/workshop), [event](../tag/event), [event:rsvp](../tag/event:rsvp), [date:11-14-2016](../tag/date:11-14-2016), [rsvp:davidmbatuegwu](../tag/rsvp:davidmbatuegwu)
+
+----
 
 This is a workshop to introduce the Public Lab community to members of Citizens without Borders and Science has no Borders meetup groups. It the first in a series of activities on environmental monitoring. We will introduce near infrared sensing and the PL approach, including the development of tools and application.
 

@@ -14,6 +14,8 @@ by [sagarpreet](../profile/sagarpreet) June 06, 2018 11:23
 
 June 06, 2018 11:23 | Tags: [question:general](../tag/question:general), [general](../tag/general)
 
+----
+
 As part of Google Summer of Code program , i have been working on Leaflet Environmental Layers Library . 
 
 I have written this note explaining each layer here : https://publiclab.org/notes/sagarpreet/06-06-2018/leaflet-environmental-layer-library?_=1528283515 

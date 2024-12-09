@@ -14,6 +14,8 @@ by [liz](../profile/liz) October 04, 2018 20:54
 
 October 04, 2018 20:54 | Tags: [evaluation](../tag/evaluation), [replication:17235](../tag/replication:17235)
 
+----
+
 The University of California Davis Center for Citizen and Community Science worked with the staff of Public Lab to create a Logic Model that we could use in evaluating our impact. Here it is, both the [direct link][1], and as an image: 
 
 ![image description][2]

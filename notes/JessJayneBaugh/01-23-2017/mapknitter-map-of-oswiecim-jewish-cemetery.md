@@ -14,4 +14,6 @@ by [JessJayneBaugh](../profile/JessJayneBaugh) January 23, 2017 10:43
 
 January 23, 2017 10:43 | Tags: [mapknitter](../tag/mapknitter), [lat:50.0343982](../tag/lat:50.0343982), [lon:19.2097782](../tag/lon:19.2097782), [first-time-poster](../tag/first-time-poster)
 
+----
+
 https://mapknitter.org/embed/oswiecim-jewish-cemetery--2

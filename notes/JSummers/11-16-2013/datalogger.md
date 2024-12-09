@@ -8,11 +8,15 @@ uid: 304279
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/002/246/original/datalog3.jpg)
+
 # DataLogger
 
 by [JSummers](../profile/JSummers) November 16, 2013 19:05
 
 November 16, 2013 19:05 | Tags: [arduino](../tag/arduino), [potentiostat](../tag/potentiostat), [datalogger](../tag/datalogger), [logging](../tag/logging), [launchpad](../tag/launchpad), [data-logging](../tag/data-logging)
+
+----
 
 ###What I want to do
 I want a simple graphic user interface (GUI) to log data with Arduino / LaunchPad type microcontroller boards.  

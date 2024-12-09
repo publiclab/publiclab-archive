@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/019/276/original/GPS_20170113-7506.JPG)
+
 # Add GPS logging to a Saturn V Rig
 
 by [cfastie](../profile/cfastie) January 14, 2017 05:45
 
 January 14, 2017 05:45 | Tags: [kite-mapping](../tag/kite-mapping), [arduino](../tag/arduino), [kite-aerial-photography](../tag/kite-aerial-photography), [kap](../tag/kap), [photo-rig](../tag/photo-rig), [gps](../tag/gps), [saturnv](../tag/saturnv), [skyshield](../tag/skyshield), [difficulty:medium](../tag/difficulty:medium), [category:build](../tag/category:build), [activity:kite-mapping](../tag/activity:kite-mapping), [activity:balloon-mapping](../tag/activity:balloon-mapping), [activity:photo-rig](../tag/activity:photo-rig), [activity:camera-triggering](../tag/activity:camera-triggering), [response:13845](../tag/response:13845), [skypod](../tag/skypod)
+
+----
 
 The Adafruit Ultimate GPS breakout board was [reasonably easy to get working][1] in no small part due to the online resources at Adafruit. When I could not figure out how to save GPS data to a US$1.00 eBay microSD board ([now just $0.50 apiece][2]), I ordered one from Adafruit and got that one working. At first I had the same problems with the Adafruit board, but persevered until I figured it out. It might be that the $0.50 eBay board will work fine if you know what you are doing.
 

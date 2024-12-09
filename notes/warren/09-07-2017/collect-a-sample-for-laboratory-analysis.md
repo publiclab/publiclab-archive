@@ -14,6 +14,8 @@ by [warren](../profile/warren) September 07, 2017 20:16
 
 September 07, 2017 20:16 | Tags: [oil](../tag/oil), [sample-containers](../tag/sample-containers), [water-quality](../tag/water-quality), [sampling](../tag/sampling), [with:eustatic](../tag/with:eustatic), [with:gretchengehrke](../tag/with:gretchengehrke), [oil-pollution](../tag/oil-pollution), [activity:spectrometry](../tag/activity:spectrometry), [harvey](../tag/harvey), [harvey-response](../tag/harvey-response), [sample-collection](../tag/sample-collection), [soil-sampling](../tag/soil-sampling), [water-sampling](../tag/water-sampling), [oil-sampling](../tag/oil-sampling), [activity:sampling](../tag/activity:sampling), [activity:water-sampling](../tag/activity:water-sampling), [activity:soil-sampling](../tag/activity:soil-sampling), [activity:water-quality](../tag/activity:water-quality), [activity:sample-collection](../tag/activity:sample-collection), [soil-quality](../tag/soil-quality), [activity:soil](../tag/activity:soil), [soil-sampling-main](../tag/soil-sampling-main)
 
+----
+
 **This is a draft**, adapted from the [DIY Oil Testing guide](/wiki/diy-oil-testing), authored with @gretchengehrke and @eustatic and supported by the Knight Foundation. Please leave feedback and corrections or questions below.
 
 In addition to calling and reporting the oil you pollutant to a local or national agency, if it is possible to do so safely, you could collect a sample of the pollutant. 
@@ -78,6 +80,6 @@ When collecting a sample for third-party laboratory analysis, to submit to a loc
 
 (Jeff) I have a lot of questions about this, so I'm adding a Questions section here:
 
-[notes:question:sampling]
+[question:sampling](../../tag/question:sampling)
 
 <a class="btn btn-primary" href="/post?tags=oil,sample-containers,water-quality,question:sampling,oil-pollution,question:sample-collection,question:soil-sampling,question:water-sampling,question:oil-sampling,soil-quality">Ask a question</a>

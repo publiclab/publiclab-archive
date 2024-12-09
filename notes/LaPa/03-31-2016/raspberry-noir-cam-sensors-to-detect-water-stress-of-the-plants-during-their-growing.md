@@ -8,11 +8,15 @@ uid: 457187
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/015/266/original/IRRPICam.JPG)
+
 # Raspberry + NoIR cam + Sensors to detect water stress of the plants during their growing
 
 by [LaPa](../profile/LaPa) March 31, 2016 13:36
 
 March 31, 2016 13:36 | Tags: [farming](../tag/farming), [ir](../tag/ir), [raspberry-pi](../tag/raspberry-pi), [plants](../tag/plants), [italy](../tag/italy), [water](../tag/water), [rpi](../tag/rpi), [stress](../tag/stress), [eu](../tag/eu), [raspberry](../tag/raspberry), [images](../tag/images), [growing](../tag/growing), [condition](../tag/condition), [cultivated](../tag/cultivated), [activity:timelapse](../tag/activity:timelapse), [activity:infragram](../tag/activity:infragram), [raspberry-pi-infragram](../tag/raspberry-pi-infragram), [activity:raspberry-pi-infragram](../tag/activity:raspberry-pi-infragram), [replication:15075](../tag/replication:15075)
+
+----
 
 ###What I want to do
  I'm an agronomist, I'm going to make a IR RaspiCam to do an IR Timelapse in greenhouse. I want add same sensors (temperature, moisture, soil moisture) at the IR Raspicam in order to link environmental condition to Health of the plant.

@@ -3,6 +3,8 @@ uid: 503960
 created_at: 2017-03-11 01:33:25 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/9edfc3f0a7ecd7f25a22c5fa8f7c6d26)
+
 # mollydb
 
 I play bassoon in an indie-pop band. It's one of the most interesting things about me.

@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/sites/default/files/BreadLoaf-20121005-1631-2.jpg)
+
 # Sky Tracks
 
 by [cfastie](../profile/cfastie) October 06, 2012 20:39
 
 October 06, 2012 20:39 | Tags: [kite-mapping](../tag/kite-mapping), [vermont](../tag/vermont), [mapknitter](../tag/mapknitter), [leaffest](../tag/leaffest), [gps](../tag/gps)
+
+----
 
 <em>A kite photo from yesterday at the site of the LEAFFEST flight featured below.  The colors were at their peak.</em>
 

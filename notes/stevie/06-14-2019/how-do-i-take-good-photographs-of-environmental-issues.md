@@ -14,4 +14,6 @@ by [stevie](../profile/stevie) June 14, 2019 18:47
 
 June 14, 2019 18:47 | Tags: [question:permit](../tag/question:permit), [sentinel](../tag/sentinel), [question:sentinel](../tag/question:sentinel), [question:reporting](../tag/question:reporting), [faq-balloon-mapping](../tag/faq-balloon-mapping)
 
+----
+
 I'm looking to compile a list of do's and don'ts for photo documenting environmental issues. I'm specifically looking to capture photos that will be useful in documenting permit violations. What are things I should keep in mind?

@@ -3,6 +3,8 @@ uid: 47245
 created_at: 2013-06-15 19:16:56 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/3d0f39130caac5387f2a64d6ef5bb2aa)
+
 # MarthaV
 
 I would like to create some simple experiments for 9 and 10 year olds to use with the spectrometers.  I bought the classroom kit and have put together two of the spectrometers.  I have tons to learn!

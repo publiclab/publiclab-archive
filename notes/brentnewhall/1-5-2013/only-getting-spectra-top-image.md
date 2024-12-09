@@ -8,11 +8,15 @@ uid: 45471
 
 ---
 
+![](https://publiclab.org/sites/default/files/Photo on 1-5-13 at 9.31 AM.jpg)
+
 # Only getting color at top of image
 
 by [BrentNewhall](../profile/BrentNewhall) January 05, 2013 14:55
 
 January 05, 2013 14:55 | Tags: [calibration](../tag/calibration), [troubleshooting](../tag/troubleshooting)
+
+----
 
 Thanks to everyone for their suggestions on my "black image only" spectrometer! Turns out the DVD-R piece I received was damaged.
 

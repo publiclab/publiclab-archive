@@ -8,11 +8,15 @@ uid: 461120
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/017/983/original/EEM_532nm_laser_log_view_contures.png)
+
 # 0.05mm Slit Gillette Utility Knife Razor Blade design 100X Magnification
 
 by [dhaffnersr](../profile/dhaffnersr) September 08, 2016 19:01
 
 September 08, 2016 19:01 | Tags: 
+
+----
 
 This is actually a follow up on my previous post on the two laser scans using the new 0.05mm slit width. I wanted to verify the width using my microscope, since the image capture program, AMScope has a pretty awesome measurement feature, also this is the first time I have used it with the measurement feature layered on the image itself, and didn't realize I could export it to Excel.
 

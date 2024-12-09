@@ -8,10 +8,14 @@ uid: 43651
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/007/219/original/coquiAmbient.png)
+
 # Coqui BBv1.0: Assessing Ambient Light with a Photoresistor
 
 by [donblair](../profile/donblair) September 30, 2014 23:07
 
 September 30, 2014 23:07 | Tags: [water-quality](../tag/water-quality), [difficulty:easy](../tag/difficulty:easy), [category:observe](../tag/category:observe), [time:1h](../tag/time:1h), [status:draft](../tag/status:draft), [activity:coqui-usage](../tag/activity:coqui-usage)
+
+----
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/S1GoPiRVTD0?list=UUmmEmOGni0fzzDsXiZEVWNw" frameborder="0" allowfullscreen></iframe>

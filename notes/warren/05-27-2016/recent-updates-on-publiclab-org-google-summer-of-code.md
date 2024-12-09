@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/016/380/original/Screenshot_2016-05-27_at_1.56.15_PM.png)
+
 # Recent updates on PublicLab.org, Google Summer of Code
 
 by [warren](../profile/warren) May 27, 2016 18:04
 
 May 27, 2016 18:04 | Tags: [website](../tag/website), [software](../tag/software), [gsoc](../tag/gsoc), [developers](../tag/developers), [coding](../tag/coding), [wwg](../tag/wwg), [gsoc-2016](../tag/gsoc-2016)
+
+----
 
 Hi, all - I wanted to summarize some of the recent activity by PublicLab.org code contributors, which you may notice around the site, and also recap some of what this summer's Google Summer of Code students have tackled so far in their first week.
 

@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/IMG_0033.JPG)
+
 # Powering a synchronized USB trigger for dual camera rigs
 
 by [warren](../profile/warren) March 16, 2012 17:22
 
 March 16, 2012 17:22 | Tags: [near-infrared-camera](../tag/near-infrared-camera)
+
+----
 
 Just a quick update on the progress of the dual-camera IR/VIS system for [balloon-mapping kit Kickstarter rewards](http://www.kickstarter.com/projects/1775485688/balloon-mapping-kits?ref=card) -- I figured out how to fit some coin cell batteries into the N-type battery holder, which is the same type as the other 12v battery we're using. I used a steel screw to make the battery holder smaller, and it's quite stable.
 

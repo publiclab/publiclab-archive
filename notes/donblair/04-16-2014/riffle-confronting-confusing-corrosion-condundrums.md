@@ -8,11 +8,15 @@ uid: 43651
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/003/689/original/IMG_20140415_193425_%281%29.jpg)
+
 # RIFFLE: Confronting Confusing Corrosion Condundrums
 
 by [donblair](../profile/donblair) April 16, 2014 02:09
 
 April 16, 2014 02:09 | Tags: [water-quality](../tag/water-quality), [water-monitoring](../tag/water-monitoring), [conductivity](../tag/conductivity), [riffle](../tag/riffle), [open-water](../tag/open-water), [coqui](../tag/coqui), [corrosion](../tag/corrosion)
+
+----
 
 ###What I want to do
 

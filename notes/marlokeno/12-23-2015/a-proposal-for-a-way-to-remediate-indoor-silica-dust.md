@@ -8,11 +8,15 @@ uid: 420760
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/013/451/original/OSHA_silica_poster.jpg)
+
 # A proposal for a way to remediate indoor silica dust
 
 by [marlokeno](../profile/marlokeno) December 23, 2015 02:49
 
 December 23, 2015 02:49 | Tags: [remediation](../tag/remediation), [wisconsin](../tag/wisconsin), [air-quality](../tag/air-quality), [air](../tag/air), [silica](../tag/silica), [quality](../tag/quality), [frac-sand](../tag/frac-sand), [midwest](../tag/midwest), [wherewebreathe](../tag/wherewebreathe), [indoor-air-quality](../tag/indoor-air-quality), [air-monitoring](../tag/air-monitoring), [parent:frac-sand](../tag/parent:frac-sand)
+
+----
 
 ### I want to see if diatoms and a bio-bubbler can help reduce indoor silica dust.
 

@@ -14,6 +14,8 @@ by [vinushi1995](../profile/vinushi1995) August 11, 2019 07:50
 
 August 11, 2019 07:50 | Tags: [code](../tag/code), [airquality](../tag/airquality), [barnstar:basic](../tag/barnstar:basic), [arduino-uno](../tag/arduino-uno), [question:air-quality](../tag/question:air-quality), [define](../tag/define), [include](../tag/include), [pm2.5](../tag/pm2.5), [pms7003](../tag/pms7003), [aircasting](../tag/aircasting), [combiningcodes](../tag/combiningcodes)
 
+----
+
 hello,
 
 I am making an air quality sensor using the aircasting app. according to the instructions given at [http://habitatmap.org/habitatmap\_docs/HowToBuildAnAirCastingAirMonitor.pdf](http://habitatmap.org/habitatmap_docs/HowToBuildAnAirCastingAirMonitor.pdf "http://habitatmap.org/habitatmap_docs/HowToBuildAnAirCastingAirMonitor.pdf") . howver i'm adding the pms7003 sensor as an extra. 

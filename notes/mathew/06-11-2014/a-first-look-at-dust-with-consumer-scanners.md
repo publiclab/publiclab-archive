@@ -8,11 +8,15 @@ uid: 4
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/004/667/original/Screen_Shot_2014-06-10_at_6.18.38_PM.png)
+
 # a first look at dust with consumer scanners 
 
 by [mathew](../profile/mathew) June 11, 2014 02:58
 
 June 11, 2014 02:58 | Tags: [silica](../tag/silica), [pm](../tag/pm), [midwest](../tag/midwest), [particle-sensing](../tag/particle-sensing), [particulate-monitoring](../tag/particulate-monitoring), [openair](../tag/openair), [stickypad](../tag/stickypad), [passive-pm](../tag/passive-pm)
+
+----
 
 ###What I want to do
 See if I can't see [PM10 or even PM2.5](/wiki/particle-sensing) particles on a consumer scanner.  I purchased a Canon canoscan 9000F MK II, which allegedly does 9600dpi, or interpolated 192000 dpi.  

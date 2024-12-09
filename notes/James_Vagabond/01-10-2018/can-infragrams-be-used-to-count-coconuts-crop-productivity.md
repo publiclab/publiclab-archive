@@ -14,4 +14,6 @@ by [James_Vagabond](../profile/James_Vagabond) January 10, 2018 19:05
 
 January 10, 2018 19:05 | Tags: [agriculture](../tag/agriculture), [infragram](../tag/infragram), [classification](../tag/classification), [crops](../tag/crops), [question:infragram](../tag/question:infragram), [question:agriculture](../tag/question:agriculture), [coconut](../tag/coconut), [question:classification](../tag/question:classification)
 
+----
+
 I am interested in using drone mapping of coconut palm forests to assess the health and productivity of the palms.  I imagine that the ripe coconuts will have a unique IR signature and am interested in developing a software that can quantify the coconuts through compiled images.

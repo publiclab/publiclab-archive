@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/021/283/original/BreadWind_20170730-0322.JPG)
+
 # Winds aloft
 
 by [cfastie](../profile/cfastie) August 03, 2017 01:45
 
 August 03, 2017 01:45 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [arduino](../tag/arduino), [kite-aerial-photography](../tag/kite-aerial-photography), [kite](../tag/kite), [sensors](../tag/sensors), [wind](../tag/wind), [saturnv](../tag/saturnv), [skyshield](../tag/skyshield), [half-spherical](../tag/half-spherical), [skypod](../tag/skypod), [nano-data-logger](../tag/nano-data-logger), [bme280](../tag/bme280), [ublox](../tag/ublox), [response:14551](../tag/response:14551), [wind-sensor](../tag/wind-sensor), [rokkaku](../tag/rokkaku), [series:diy-wind-sensors](../tag/series:diy-wind-sensors), [skypod-gps-logger](../tag/skypod-gps-logger), [activity:skypod-gps-logger](../tag/activity:skypod-gps-logger), [activity:as220-wind-sensors](../tag/activity:as220-wind-sensors)
+
+----
 
 _Above: This seven foot Rokkaku kite lifted a two pound camera rig with EOS M and SkyPod data logger._
 

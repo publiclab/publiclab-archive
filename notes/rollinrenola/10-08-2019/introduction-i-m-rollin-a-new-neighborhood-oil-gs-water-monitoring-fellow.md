@@ -14,6 +14,8 @@ by [rollinrenola](../profile/rollinrenola) October 08, 2019 14:54
 
 October 08, 2019 14:54 | Tags: [blog-submission](../tag/blog-submission), [first-time-poster](../tag/first-time-poster), [oil-and-gas-water-trio](../tag/oil-and-gas-water-trio)
 
+----
+
 _emphasized text_
 
 HI, I'm Rollin Black, I'm working as a neighborhood Water monitoring Methods Fellow. I live in New Orleans La and I'm excited to work with my Public Lab team. I am also the Director of Habit restoration

@@ -3,6 +3,8 @@ uid: 432001
 created_at: 2014-11-25 23:49:34 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/49c67e260525b535f27480d97903db7e)
+
 # kgrevera
 
 

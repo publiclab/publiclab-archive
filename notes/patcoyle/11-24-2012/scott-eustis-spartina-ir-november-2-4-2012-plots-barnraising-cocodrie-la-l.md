@@ -8,11 +8,15 @@ uid: 77
 
 ---
 
+![](https://publiclab.org/sites/default/files/IMG_4744_NDVI_Color.jpg)
+
 # Scott Eustis on Spartina IR  - November 2-4, 2012, PLOTS Barnraising, Cocodrie, LA at LUMCON
 
 by [patcoyle](../profile/patcoyle) November 24, 2012 19:08
 
 November 24, 2012 19:08 | Tags: [plots](../tag/plots), [barnraising2012](../tag/barnraising2012), [lumcon](../tag/lumcon), [publiclaboratory](../tag/publiclaboratory), [cocodrie-la](../tag/cocodrie-la)
+
+----
 
 Scott Eustis discussed Spartina and use of infrared and multispectral imaging in evaluating it.
 

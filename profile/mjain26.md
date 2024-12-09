@@ -3,6 +3,8 @@ uid: 424870
 created_at: 2014-06-16 16:00:56 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/e95dc1cd1379ed0c46d6796049056f12)
+
 # mjain26
 
 My name is Meghan Jain. I am an intern at the Civic Lab in Chicago. I am working to develop a workshop for Middle and Elementary School students to teach them how to use Public Lab's Balloon Mapping Software. 

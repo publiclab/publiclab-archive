@@ -8,11 +8,15 @@ uid: 754846
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/044/445/original/IMG_1509.jpg)
+
 # Activity: Learning to Spot Lichens and Mosses
 
 by [fongvania](../profile/fongvania) July 21, 2021 06:09
 
 July 21, 2021 06:09 | Tags: [air-quality](../tag/air-quality), [moss](../tag/moss), [new](../tag/new), [lichen](../tag/lichen), [difficulty:easy](../tag/difficulty:easy), [category:observe](../tag/category:observe), [time:1h](../tag/time:1h), [activity:air-quality](../tag/activity:air-quality), [activity:new](../tag/activity:new), [nature-walk](../tag/nature-walk), [research-curation-fellows](../tag/research-curation-fellows), [bioindicators](../tag/bioindicators), [activity:bioindicators](../tag/activity:bioindicators), [activity:lichen](../tag/activity:lichen)
+
+----
 
 ## Motivation
 Lichens and mosses have been used as bioindicators for environmental pollution because many species, especially those that live on trees (aka epiphytic , from epi- "upon" + -phyte "plant), obtain all their nutrients from the surrounding air, moisture, and rain. This means that they also absorb many of the chemicals and pollutants present in the air and serve as mini living air quality monitors. How cool is that?

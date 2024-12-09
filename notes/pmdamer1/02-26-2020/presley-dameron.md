@@ -8,10 +8,14 @@ uid: 668661
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/038/248/original/thumbnail_IMG_3557.jpg)
+
 # Presley Dameron
 
 by [pmdamer1](../profile/pmdamer1) February 26, 2020 04:59
 
 February 26, 2020 04:59 | Tags: [first-time-poster](../tag/first-time-poster)
+
+----
 
 My spectral

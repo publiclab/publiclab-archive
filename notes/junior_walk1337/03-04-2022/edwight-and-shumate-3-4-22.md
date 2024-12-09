@@ -8,11 +8,15 @@ uid: 756318
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/045/463/original/birchtonSunny.00_03_47_03.Still001.jpg)
+
 # Edwight and Shumate 3/4/22
 
 by [junior_walk1337](../profile/junior_walk1337) March 04, 2022 20:45
 
 March 04, 2022 20:45 | Tags: [drones](../tag/drones), [coal-mining](../tag/coal-mining), [coal](../tag/coal), [mmmp](../tag/mmmp)
+
+----
 
 <iframe width="1280" height="676" src="https://www.youtube.com/embed/zlvRKl7p__c" frameborder="0" allowfullscreen=""></iframe>
 

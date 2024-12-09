@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/019/564/original/tmp_6326-IMG_20170215_152044_365-505216256.jpg)
+
 # Laser-cut the Desktop Spectrometry Kit v3 box
 
 by [warren](../profile/warren) February 15, 2017 20:43
 
 February 15, 2017 20:43 | Tags: [spectrometer](../tag/spectrometer), [kits](../tag/kits), [laser-cut](../tag/laser-cut), [spectrometry](../tag/spectrometry), [dsk](../tag/dsk), [desktop-spectrometry-kit](../tag/desktop-spectrometry-kit), [upgrade:spectrometry](../tag/upgrade:spectrometry), [seeks:builds](../tag/seeks:builds), [laser-cutting](../tag/laser-cutting), [ponoko](../tag/ponoko), [replication:13560](../tag/replication:13560)
+
+----
 
 In doing some tests with the [Desktop Spectrometry Kit 3.0](https://publiclab.org/wiki/desktop-spectrometry-kit-3-0), I sent a test print to [Ponoko.com](http://Ponoko.com) -- a site that does mail-order laser cutting. I adjusted the design files to the colors they use to indicate cuts versus score lines (cuts that don't go all the way through, and act as creases to fold on).
 

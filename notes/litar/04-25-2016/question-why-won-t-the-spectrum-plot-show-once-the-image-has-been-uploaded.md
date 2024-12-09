@@ -14,6 +14,8 @@ by [litar](../profile/litar) April 25, 2016 12:00
 
 April 25, 2016 12:00 | Tags: [question:spectral-workbench](../tag/question:spectral-workbench)
 
+----
+
 I took a spectrum with a spectrometer attached to my phone. I then uploaded it (successfully) onto the site yet the graph and calibration interface didn't turn up. The only possible issue I can think of is that the spectral lines are slightly tilted.
 
 Why doesn't the plot show, and does anyone know a way to fix it?

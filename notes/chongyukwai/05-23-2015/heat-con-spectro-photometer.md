@@ -8,11 +8,15 @@ uid: 442298
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/009/986/original/20150523_175843.jpg)
+
 # thermal colorimetic spectro photometer
 
 by [chongyukwai](../profile/chongyukwai) May 23, 2015 10:50
 
 May 23, 2015 10:50 | Tags: [spectro](../tag/spectro), [spectrum](../tag/spectrum), [first-time-poster](../tag/first-time-poster)
+
+----
 
 Instruction of the design
 [![Tool_(1).png](https://i.publiclab.org/system/images/photos/000/009/987/medium/Tool_%281%29.png)](https://i.publiclab.org/system/images/photos/000/009/987/original/Tool_%281%29.png)

@@ -8,11 +8,15 @@ uid: 569208
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/029/291/original/AgHortSoilTesting.png)
+
 # Soil Contaminant Testing 
 
 by [DanielleS](../profile/DanielleS) February 11, 2019 19:30
 
 February 11, 2019 19:30 | Tags: [barnraising](../tag/barnraising), [heavy-metals](../tag/heavy-metals), [soil](../tag/soil), [pah](../tag/pah), [lead](../tag/lead), [soil-testing](../tag/soil-testing), [colorimeter](../tag/colorimeter), [oil-and-gas](../tag/oil-and-gas), [soil-quality](../tag/soil-quality), [spectometry](../tag/spectometry)
+
+----
 
 I'm looking into options for soil testing that are more accessible 
 but also reliable, and am curious about what folks out there have been 

@@ -8,11 +8,15 @@ uid: 43651
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/008/604/original/depthSteps.png)
+
 # Shallow note on depth
 
 by [donblair](../profile/donblair) January 14, 2015 17:52
 
 January 14, 2015 17:52 | Tags: [water-quality](../tag/water-quality), [coqui](../tag/coqui), [depth](../tag/depth), [depth-sensor](../tag/depth-sensor)
+
+----
 
 This is just to hold some pics for now ... more deets later!
 

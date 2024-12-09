@@ -8,11 +8,15 @@ uid: 432001
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/009/758/original/IMG_5757.pdf)
+
 # First prototype of kayak towable thermal fishing bob rig
 
 by [kgrevera](../profile/kgrevera) May 04, 2015 20:39
 
 May 04, 2015 20:39 | Tags: [thermal-photography](../tag/thermal-photography), [northeastern-university](../tag/northeastern-university), [water-quality](../tag/water-quality), [thermal-fishing-bob](../tag/thermal-fishing-bob), [thermal](../tag/thermal), [thermal-pollution](../tag/thermal-pollution), [fishing](../tag/fishing), [heat](../tag/heat), [replication:689](../tag/replication:689), [first-time-poster](../tag/first-time-poster)
+
+----
 
 ##First prototype of kayak towable thermal fishing bob rig
 

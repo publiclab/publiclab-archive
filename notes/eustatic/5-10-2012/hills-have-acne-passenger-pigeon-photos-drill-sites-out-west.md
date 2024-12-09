@@ -8,11 +8,15 @@ uid: 379
 
 ---
 
+![](https://publiclab.org/sites/default/files/7165625584_c7de45de7f_o.jpg)
+
 # the Hills have Acne: passenger pigeon photos of drill sites out West
 
 by [eustatic](../profile/eustatic) May 10, 2012 22:08
 
 May 10, 2012 22:08 | Tags: [passenger-pigeon](../tag/passenger-pigeon)
+
+----
 
 https://www.flickr.com/photos/eustatic/7165625584/in/set-72157629653527524/ 
 

@@ -14,6 +14,8 @@ by [eustatic](../profile/eustatic), [mathew](../profile/mathew)
 
 February 10, 2017 19:14 | Tags: [6028](../tag/6028)
 
+----
+
 This page is for Public Lab's [MiniVol](/wiki/minivol) Serial #6028, and notes specific to it. 
 
 The calibration spreadsheet for the MiniVol is below:

@@ -8,11 +8,15 @@ uid: 379
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/006/731/original/screenshot_map_wash_U_stlouis_trip.png)
+
 # Tracks from the WashUstLouis trip to Bayou Plaquemines
 
 by [eustatic](../profile/eustatic) September 11, 2014 18:45
 
 September 11, 2014 18:45 | Tags: [gulf-coast](../tag/gulf-coast), [balloon-mapping](../tag/balloon-mapping), [washustlouis](../tag/washustlouis), [washu-stlouis](../tag/washu-stlouis)
+
+----
 
 ###What I want to do
 

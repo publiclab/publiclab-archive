@@ -8,11 +8,15 @@ uid: 490194
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/017/928/original/IMAG0099.JPG)
+
 # Infragram Point and Shoot Plant Cam
 
 by [alexrfholland](../profile/alexrfholland) September 06, 2016 03:53
 
 September 06, 2016 03:53 | Tags: [infragram](../tag/infragram), [question:infragram](../tag/question:infragram), [question:infragram-point-shoot](../tag/question:infragram-point-shoot)
+
+----
 
 ###What I want to do
 Hi all,

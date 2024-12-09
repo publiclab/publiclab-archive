@@ -8,11 +8,15 @@ uid: 577754
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/030/036/original/Untitled_%283%29.png)
+
 # Create a Visual difference in wikis and notes
 
 by [lekhidugtal](../profile/lekhidugtal) March 12, 2019 16:52
 
 March 12, 2019 16:52 | Tags: [design](../tag/design), [ui](../tag/ui), [first-time-poster](../tag/first-time-poster), [ui-designs](../tag/ui-designs), [notes](../tag/notes), [wikis](../tag/wikis)
+
+----
 
 I tried to create a visual difference between the wiki and notes pages using the UI design.  
 As already stated in the issue , the ui for wikis and notes were same and you can't differentiate between them unless you saw the link.  

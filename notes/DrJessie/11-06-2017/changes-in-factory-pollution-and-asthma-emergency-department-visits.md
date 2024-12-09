@@ -14,6 +14,8 @@ by [DrJessie](../profile/DrJessie) November 06, 2017 13:38
 
 November 06, 2017 13:38 | Tags: [air-quality](../tag/air-quality), [dust](../tag/dust), [pm](../tag/pm)
 
+----
+
 I'm thrilled to share a publication [link](http://rdcu.be/wO7i) on ambient air pollution and asthma emergency department visits with you, that grew from  a partnership with several community-based individuals and organizations like Public Lab. I've also cut and paste the link below.
 
   

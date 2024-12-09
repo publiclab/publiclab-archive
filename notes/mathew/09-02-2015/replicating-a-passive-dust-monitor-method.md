@@ -8,11 +8,15 @@ uid: 4
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/011/387/original/IMG_20150901_210206-edit.jpg)
+
 # Replicating a Passive Dust Monitor & Method
 
 by [mathew](../profile/mathew) September 02, 2015 06:15
 
 September 02, 2015 06:15 | Tags: [sensing](../tag/sensing), [wisconsin](../tag/wisconsin), [air-quality](../tag/air-quality), [silica](../tag/silica), [frac-sand](../tag/frac-sand), [pm](../tag/pm), [particle-sensing](../tag/particle-sensing), [particle-monitoring](../tag/particle-monitoring), [particle](../tag/particle), [fracsand](../tag/fracsand), [passive-particle-monitors](../tag/passive-particle-monitors), [passive-pm](../tag/passive-pm), [parent:frac-sand](../tag/parent:frac-sand), [seeks:replications](../tag/seeks:replications), [category:build](../tag/category:build), [difficulty:hard](../tag/difficulty:hard)
+
+----
 
 Passive dust monitors, where dust lands on a pad or in a container without any pumps, fans, electronics or moving parts, are very attractive option for [particle sensing](/wiki/particle-sensing) because they are inexpensive and can be put anywhere.  Here I'll document my efforts to replicate a published methodology that may produce data equivalent to a [Federal Reference Method](http://publiclab.org/wiki/particle-sensing#EPA+Test+Methods), and relies on fairly low cost equipment. 
 

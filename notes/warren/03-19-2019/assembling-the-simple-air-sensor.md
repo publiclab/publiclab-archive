@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/030/324/original/IMG_20190320_162254_076.jpg)
+
 # Assembling the Simple Air Sensor
 
 by [warren](../profile/warren) March 15, 2019 22:04
 
 March 15, 2019 22:04 | Tags: [arduino](../tag/arduino), [air-quality](../tag/air-quality), [dust](../tag/dust), [pm](../tag/pm), [air-sensing](../tag/air-sensing), [seeks:replications](../tag/seeks:replications), [activity:arduino](../tag/activity:arduino), [air-sensors](../tag/air-sensors), [purpleair](../tag/purpleair), [plantower](../tag/plantower), [purple-air](../tag/purple-air), [simple-air-sensor](../tag/simple-air-sensor), [activity:simple-air-sensor](../tag/activity:simple-air-sensor), [activity:air-sensing](../tag/activity:air-sensing), [lat:41.809115](../tag/lat:41.809115), [lon:-71.426615](../tag/lon:-71.426615), [pin:simple-air-sensor](../tag/pin:simple-air-sensor), [pin:activity:simple-air-sensor](../tag/pin:activity:simple-air-sensor), [sas-build](../tag/sas-build)
+
+----
 
 The [Simple Air Sensor](/simple-air-sensor) is built using the same [Plantower](/tag/plantower) [particulate sensor](/tag/air-sensors) used in the [Purple Air](/purpleair), but only one as compared to #PurpleAir's two; does not have a BME280 temperature, humidity and pressure sensor as the #PurpleAir does; and does not [log](/data-logging) or upload data, but it shows the reading from its PM2.5 sensor as a colored light, where warmer colors indicate higher readings NOT an Air Quality Index (AQI). It's not intended for data collection, but to help you get a better understanding of how sensors work, and for use alongside fancier sensors. You can [buy one in the Public Lab store](https://store.publiclab.org/products/simple-air-sensor "https://store.publiclab.org/products/simple-air-sensor"), or find the parts (listed below) yourself.
 

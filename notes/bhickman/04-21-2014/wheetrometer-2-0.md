@@ -8,11 +8,15 @@ uid: 201929
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/003/763/original/feb92014_flourescencespec2.png)
+
 # WheeTrometer 2.0
 
 by [bhickman](../profile/bhickman) April 21, 2014 04:11
 
 April 21, 2014 04:11 | Tags: [spectrometer](../tag/spectrometer)
+
+----
 
 WheeTrometer 2.0
 

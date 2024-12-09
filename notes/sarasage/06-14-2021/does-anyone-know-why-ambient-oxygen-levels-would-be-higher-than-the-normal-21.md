@@ -14,4 +14,6 @@ by [sarasage](../profile/sarasage) June 14, 2021 19:11
 
 June 14, 2021 19:11 | Tags: [air-monitoring](../tag/air-monitoring), [question:general](../tag/question:general), [general](../tag/general), [VVAMP](../tag/VVAMP), [question:vvamp](../tag/question:vvamp)
 
+----
+
 I got 23% O2 readings today (two different monitors) and want to know if this is considered within the normal range? There was also elevated NH3 today.  Also, does temperature affect O2 concentrations? Genuinely curious.

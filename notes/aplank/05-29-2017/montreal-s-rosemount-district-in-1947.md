@@ -8,11 +8,15 @@ uid: 507757
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/020/569/original/P13-40_-_Parc_Beaubien_to_St_Brendans_-_VM97-3_7P13-40.jpg)
+
 # Montreal's Rosemount district in 1947
 
 by [aplank](../profile/aplank) May 29, 2017 17:43
 
 May 29, 2017 17:43 | Tags: [mapknitter](../tag/mapknitter), [aerial](../tag/aerial), [lat:45.5543621308](../tag/lat:45.5543621308), [lon:-73.594493866](../tag/lon:-73.594493866), [montreal](../tag/montreal), [rosemount](../tag/rosemount), [rosemont](../tag/rosemont), [1947](../tag/1947)
+
+----
 
 An assembly of 20 Montreal aerial photos from 1947 provide a snapshot of the city's Rosemount district at that time. The area was on the verge of a massive residential building boom that swept over farmland and restored quarried areas.
 

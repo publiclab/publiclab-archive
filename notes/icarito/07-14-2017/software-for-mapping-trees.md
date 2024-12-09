@@ -8,11 +8,15 @@ uid: 448589
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/021/123/original/mariana_arbol.jpg)
+
 # Software for mapping trees?
 
 by [icarito](../profile/icarito) July 14, 2017 02:55
 
 July 14, 2017 02:55 | Tags: [question:general](../tag/question:general), [first-time-poster](../tag/first-time-poster)
+
+----
 
 ###What I want to do or know
 

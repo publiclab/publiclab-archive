@@ -14,6 +14,8 @@ by [Jordansalcido](../profile/Jordansalcido) March 22, 2022 06:27
 
 March 22, 2022 06:27 | Tags: [urban-heat-island](../tag/urban-heat-island), [issue-brief](../tag/issue-brief), [lat:34](../tag/lat:34), [first-time-poster](../tag/first-time-poster), [lon:-118](../tag/lon:-118), [zoom:6](../tag/zoom:6), [urbanheat](../tag/urbanheat), [heatisland](../tag/heatisland), [treecanopy](../tag/treecanopy)
 
+----
+
 ### Introduction:
 
 Hello, here is more information on the project idea and issues we would like to address in our community. Positioned between a web of freeways, a "concrete jungle" and also a city known as "The City of Trees", we would like to focus on urban heat island effect, and gather data on heat, within a city where trees exist and also where they don't exist or are sparse.  

@@ -8,11 +8,15 @@ uid: 308648
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/001/925/original/foto_1.JPG)
+
 # Cheap Thermal Imaging Sensor
 
 by [davidbanks](../profile/davidbanks) October 13, 2013 00:18
 
 October 13, 2013 00:18 | Tags: [thermal-flashlight](../tag/thermal-flashlight), [thermal-imaging](../tag/thermal-imaging), [replication:625](../tag/replication:625)
+
+----
 
 [![foto_2.JPG](https://i.publiclab.org/system/images/photos/000/001/927/medium/foto_2.JPG)](https://i.publiclab.org/system/images/photos/000/001/927/original/foto_2.JPG)
 

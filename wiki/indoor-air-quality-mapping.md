@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/004/064/original/roomba-room.jpg)
+
 # Roomba Indoor Air Quality Monitoring
 
 by [warren](../profile/warren), [Shannon](../profile/Shannon), [nshapiro](../profile/nshapiro), [btbonval](../profile/btbonval), [bha](../profile/bha), [sara](../profile/sara), [holstius](../profile/holstius)
 
 January 31, 2011 21:13 | Tags: [indoor-air-quality-mapping](../tag/indoor-air-quality-mapping), [air-quality](../tag/air-quality), [tool](../tag/tool), [formaldehyde](../tag/formaldehyde), [indoor-air](../tag/indoor-air), [method](../tag/method)
+
+----
 
 <span class="alert alert-notice">The current work on indoor air sensing through the Where We Breathe project is located at <a href="http://publiclab.org/wiki/indoor-air-quality-monitoring">Indoor Air Quality Monitoring</a></span>
 

@@ -14,6 +14,8 @@ by [liz](../profile/liz), [warren](../profile/warren)
 
 November 20, 2012 22:33 | Tags: [community](../tag/community), [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
 
+----
+
 The Public Lab community newsletter is a weekly summary of happenings both on and offline. 
 
 ###Two ways to receive the newsletter as an email: 

@@ -8,11 +8,15 @@ uid: 647185
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/043/037/original/Geographic_features_refinement.png)
+
 # GSoC 2021 Proposal: Geographic Features Refinement
 
 by [barun1024](../profile/barun1024) March 24, 2021 22:28
 
 March 24, 2021 22:28 | Tags: [software](../tag/software), [soc](../tag/soc), [first-time-poster](../tag/first-time-poster), [gsoc-2021](../tag/gsoc-2021), [gsoc-2021-proposals](../tag/gsoc-2021-proposals)
+
+----
 
 ## About Me
 

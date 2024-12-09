@@ -8,11 +8,15 @@ uid: 451398
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/017/834/original/OdorComplaintSite.JPG)
+
 # Community-level Odor Mapping Site
 
 by [sarasage](../profile/sarasage) August 29, 2016 19:57
 
 August 29, 2016 19:57 | Tags: [landfill](../tag/landfill), [california](../tag/california), [barnstar:basic](../tag/barnstar:basic), [los-angeles](../tag/los-angeles), [regionalbarnraising](../tag/regionalbarnraising), [landfills](../tag/landfills), [val-verde](../tag/val-verde), [odors](../tag/odors), [odor](../tag/odor), [activity:socalwastestream](../tag/activity:socalwastestream), [activity:waste](../tag/activity:waste), [odor-log](../tag/odor-log), [activity:odor](../tag/activity:odor), [odor-logging](../tag/odor-logging), [activity:odor-logging](../tag/activity:odor-logging), [odor-mapping](../tag/odor-mapping)
+
+----
 
 ### Tracking odors in our local environment
 

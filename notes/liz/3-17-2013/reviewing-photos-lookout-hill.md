@@ -8,10 +8,14 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/sites/default/files/IMG_20130317_123611.jpg)
+
 # Reviewing photos from Lookout Hill
 
 by [liz](../profile/liz) March 17, 2013 16:42
 
 March 17, 2013 16:42 | Tags: [new-york-city](../tag/new-york-city), [lookout-hill](../tag/lookout-hill), [prospect-park](../tag/prospect-park)
+
+----
 
 <p dir="ltr">Post mapping photo review over hot chocolate...</p>

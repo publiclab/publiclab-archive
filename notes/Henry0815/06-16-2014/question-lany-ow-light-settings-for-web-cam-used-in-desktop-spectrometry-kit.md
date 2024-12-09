@@ -8,11 +8,15 @@ uid: 424770
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/005/019/original/IMG_0601.JPG)
+
 # Question: any low light settings for web cam used in desktop spectrometry kit?
 
 by [Henry0815](../profile/Henry0815) June 16, 2014 09:56
 
 June 16, 2014 09:56 | Tags: [spectrometer](../tag/spectrometer), [uv](../tag/uv), [laser](../tag/laser), [fluorescence](../tag/fluorescence), [filter](../tag/filter), [oil-testing-kit](../tag/oil-testing-kit), [question:spectrometry](../tag/question:spectrometry), [fluorophore](../tag/fluorophore), [diode](../tag/diode), [uranium](../tag/uranium)
+
+----
 
 ### I wanted to measure fluophore response to excitation with the supplied laser diode pen. The fluophore is disolved at an uknown concentration in destilled water and has optimum excitation with green light and responds also quite well with blue light. Fluorescence is orange/red and easily visible with the naked eye as well defined orange beam traversing the liquid. However due to the low light emission it is not picked up by the spectrometer. Possibly due to alignment problems with the slit of the spectrometer entrance. What diffuse light source could be suggested within the blue/green range to excite the fluophore and how to better the sensitivity of the web cam?
 

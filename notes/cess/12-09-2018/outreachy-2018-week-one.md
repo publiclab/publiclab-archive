@@ -8,11 +8,15 @@ uid: 525958
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/028/257/original/CTD10112018213019.jpg)
+
 # Outreachy 2018: Week One
 
 by [cess](../profile/cess) December 08, 2018 22:52
 
 December 08, 2018 22:52 | Tags: [blog](../tag/blog), [outreachy](../tag/outreachy)
+
+----
 
 ### Update
 

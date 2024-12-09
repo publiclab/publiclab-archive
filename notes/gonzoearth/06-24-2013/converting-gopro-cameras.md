@@ -8,11 +8,15 @@ uid: 12
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/000/574/original/IMG_0029.jpg)
+
 # Converting GoPro cameras
 
 by [gonzoearth](../profile/gonzoearth) June 24, 2013 19:51
 
 June 24, 2013 19:51 | Tags: [infragram](../tag/infragram), [gopro](../tag/gopro), [infrared-conversion](../tag/infrared-conversion), [gopro-ag](../tag/gopro-ag), [activity:infrared-camera-conversion](../tag/activity:infrared-camera-conversion), [mini-camera](../tag/mini-camera), [activity:mini-camera](../tag/activity:mini-camera), [activity:gopro](../tag/activity:gopro), [camera-conversion](../tag/camera-conversion)
+
+----
 
 I started collecting notes on modifying gopro cameras [here on this wiki page](http://publiclab.org/wiki/gopro-cameras). 
 The platform seems very promising and appears to be quite easy to disassemble, however there is not very much documentation on the OEM multi-element lens. 

@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/Customized_WIFI_advertising_Balloons.jpg)
+
 # Leads on mass produced giant mylar balloons
 
 by [warren](../profile/warren) May 14, 2012 21:00
 
 May 14, 2012 21:00 | Tags: [balloon-mapping](../tag/balloon-mapping), [mylar](../tag/mylar), [diy-balloon](../tag/diy-balloon), [balloon](../tag/balloon), [supply-chain](../tag/supply-chain)
+
+----
 
 Looking for a place to try to get 1.8 meter mylar balloons made, maybe eventually for inclusion in the [balloon mapping kit](/wiki/balloon-mapping-kit-retail).
 

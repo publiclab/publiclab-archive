@@ -8,11 +8,15 @@ uid: 4
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/009/625/original/slick.png)
+
 # can a surface sheen be collected for oil testing?
 
 by [mathew](../profile/mathew) April 07, 2015 23:54
 
 April 07, 2015 23:54 | Tags: [spectrometer](../tag/spectrometer), [oil](../tag/oil), [oil-testing](../tag/oil-testing), [oil-testing-kit](../tag/oil-testing-kit), [sheen](../tag/sheen), [otk](../tag/otk), [water-sampling](../tag/water-sampling)
+
+----
 
 image by by [Cesar Harada CC-BY-NC-SA](https://www.flickr.com/photos/worldworldworld/4809200807/in/set-72157624236184769)
 

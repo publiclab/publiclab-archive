@@ -8,11 +8,15 @@ uid: 540844
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/033/194/original/Article_4_-_Capturing_measurements_of_volatile_organic_compounds_in_North_Denver.jpg)
+
 # Novel Methods for Assessing Industrial Odors
 
 by [joyofsoy](../profile/joyofsoy) June 25, 2019 16:36
 
 June 25, 2019 16:36 | Tags: [odor](../tag/odor), [oil-and-gas](../tag/oil-and-gas), [location:blurred](../tag/location:blurred), [odor-logging](../tag/odor-logging), [lat:39](../tag/lat:39), [csf](../tag/csf), [csf16](../tag/csf16), [lon:-104](../tag/lon:-104), [place:denver-co](../tag/place:denver-co)
+
+----
 
 **A version of this story by Dr. Shelly Miller is published in Public Lab's *Community Science Forum*, Issue 15. Photo courtesy of Dr. Shelly Miller.** 
 

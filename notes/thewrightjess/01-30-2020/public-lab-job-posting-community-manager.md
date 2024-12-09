@@ -8,11 +8,15 @@ uid: 603909
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/037/833/original/Community_Manager.jpg)
+
 # Job Posting: Community Manager
 
 by [thewrightjess](../profile/thewrightjess) January 30, 2020 18:53
 
 January 30, 2020 18:53 | Tags: [community](../tag/community), [development](../tag/development), [jobs](../tag/jobs)
+
+----
 
 **Start Date**: Late March 2020
 

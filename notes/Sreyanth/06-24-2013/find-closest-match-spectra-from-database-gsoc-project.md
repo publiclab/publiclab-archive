@@ -8,11 +8,15 @@ uid: 96713
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/000/573/original/logo_%283%29.png)
+
 # Find closest match spectra from database - GSoC project
 
 by [Sreyanth](../profile/Sreyanth) June 24, 2013 07:46
 
 June 24, 2013 07:46 | Tags: [spectrometer](../tag/spectrometer), [spectral-workbench](../tag/spectral-workbench), [gsoc](../tag/gsoc), [spectral-matching](../tag/spectral-matching), [first-time-poster](../tag/first-time-poster)
+
+----
 
 ##Who I am
 Hi everyone. I am Sreyantha Chary Mora (preferred: _Sreyanth_), a senior undergrad majoring in Computer Engineering at the National Institute of Technology Karnataka, Surathkal. This summer, I am working for the Public Lab as a GSoC student.

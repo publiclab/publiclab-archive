@@ -8,11 +8,15 @@ uid: 461120
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/015/630/original/slit_width_comparisons_mar3.png)
+
 # CFL Repeatability Study on 6 CFL spectrums
 
 by [dhaffnersr](../profile/dhaffnersr) April 17, 2016 20:14
 
 April 17, 2016 20:14 | Tags: 
+
+----
 
 I scanned 6 CFL spectrums for 1 hour at 10 minute time exposures each and here are the results:
 

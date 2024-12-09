@@ -8,11 +8,15 @@ uid: 436428
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/009/510/original/hello_from_kharkiv.jpg)
+
 # Balloon mapping in Eastern Ukraine
 
 by [Alex_the_Ukrainian](../profile/Alex_the_Ukrainian) March 12, 2015 21:07
 
 March 12, 2015 21:07 | Tags: [balloon-mapping](../tag/balloon-mapping), [ukraine](../tag/ukraine), [first-time-poster](../tag/first-time-poster)
+
+----
 
 ###Experiments on eco-mapping using DIY balloons 
 

@@ -8,11 +8,15 @@ uid: 630823
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/047/161/original/rennes-flaque-1.jpg)
+
 # Louzaouiñ Seeds Of Contend
 
 by [xavcc](../profile/xavcc) September 16, 2022 17:21
 
 September 16, 2022 17:21 | Tags: [event](../tag/event), [soil](../tag/soil), [water-quality](../tag/water-quality), [bioassay](../tag/bioassay), [seeds](../tag/seeds), [zoom:6](../tag/zoom:6), [lat:48.117266](../tag/lat:48.117266), [lon:-1.677792](../tag/lon:-1.677792), [date:10-24-2022](../tag/date:10-24-2022)
+
+----
 
  Come and collect seeds in a corner of Rennes, Brittany, France.
 

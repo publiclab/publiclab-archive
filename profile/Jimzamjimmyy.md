@@ -3,6 +3,8 @@ uid: 537970
 created_at: 2018-06-12 16:43:21 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/82ec3a07e45800edee9915f0659e7921)
+
 # Jimzamjimmyy
 
 nothing to say

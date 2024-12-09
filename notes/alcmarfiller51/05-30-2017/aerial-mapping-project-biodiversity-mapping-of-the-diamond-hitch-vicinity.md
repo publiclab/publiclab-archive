@@ -8,11 +8,15 @@ uid: 508248
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/020/589/original/Screen_Shot_2017-05-30_at_9.15.27_AM.png)
+
 # Aerial Mapping Project: Biodiversity Mapping of the Diamond Hitch Vicinity 
 
 by [alcmarfiller51](../profile/alcmarfiller51) May 30, 2017 16:21
 
 May 30, 2017 16:21 | Tags: [event](../tag/event), [habitat](../tag/habitat), [biodiversity](../tag/biodiversity), [hidden:response](../tag/hidden:response), [response:14179](../tag/response:14179)
+
+----
 
 Aerial Mapping Project: Biodiversity Mapping of the Diamond Hitch Vicinity
 

@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/024/876/original/Screen_Shot_2018-05-04_at_1.17.09_PM.png)
+
 # Prototype: filter map tiles in real-time in a browser with ImageSequencer (NDVI Landsat)
 
 by [warren](../profile/warren) May 10, 2018 16:25
 
 May 10, 2018 16:25 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [remote-sensing](../tag/remote-sensing), [ndvi](../tag/ndvi), [multispectral](../tag/multispectral), [mapknitter](../tag/mapknitter), [infrared](../tag/infrared), [image-processing](../tag/image-processing), [agriculture](../tag/agriculture), [nasa](../tag/nasa), [mapping](../tag/mapping), [infragram](../tag/infragram), [gsoc](../tag/gsoc), [vegetation](../tag/vegetation), [landsat](../tag/landsat), [gis](../tag/gis), [satellite-imagery](../tag/satellite-imagery), [mapbox](../tag/mapbox), [javascript](../tag/javascript), [activity:multispectral-imaging](../tag/activity:multispectral-imaging), [activity:infragram](../tag/activity:infragram), [multispectral-imaging](../tag/multispectral-imaging), [activity:ndvi](../tag/activity:ndvi), [soc](../tag/soc), [aren](../tag/aren), [gsoc-2018](../tag/gsoc-2018), [soc-2018](../tag/soc-2018), [image-sequencer](../tag/image-sequencer), [activity:image-sequencer](../tag/activity:image-sequencer), [activity:gis](../tag/activity:gis), [activity:aren](../tag/activity:aren)
+
+----
 
 I've been working with the new [Image Sequencer](/image-sequencer), a Public Lab project, to try see how it works as a "filter" for map tiles on another site. Working with Mapbox's [Landsat Live](https://www.mapbox.com/bites/00145/) site, which shows the most recent Landsat satellite images for anywhere on the earth, I created a [browser bookmarklet](/imagesequencerbookmarklet) which accepts an Image Sequencer "command string" and runs it on all the tiles currently shown.
 

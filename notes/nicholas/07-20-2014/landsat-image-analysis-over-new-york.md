@@ -8,11 +8,15 @@ uid: 53894
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/005/403/original/Screen_Shot_2014-07-15_at_11.33.56.png)
+
 # Landsat Image Analysis Over New York
 
 by [nicholas](../profile/nicholas) July 20, 2014 15:25
 
 July 20, 2014 15:25 | Tags: [new-york-city](../tag/new-york-city), [remote-sensing](../tag/remote-sensing), [thermal-imaging](../tag/thermal-imaging), [landsat](../tag/landsat), [thermal](../tag/thermal), [satellite-imagery](../tag/satellite-imagery), [image-analysis](../tag/image-analysis), [activity:thermal-imaging](../tag/activity:thermal-imaging), [activity:remote-sensing](../tag/activity:remote-sensing), [replication:10690](../tag/replication:10690)
+
+----
 
 Following [this amazing tutorial](http://publiclab.org/notes/donblair/07-14-2014/how-to-download-and-use-landsat-images), I dove in and started looking at satellite imagery over New York City.  Using the techniques discussed in the tutorial, I began processing the image with QGIS and created the above image.  The image provides a very interesting view of the New York bay and one can visually see color differences in the water(which I'm assuming are temperature differences - I really have very little understanding of satellite imagery processing!).  
 

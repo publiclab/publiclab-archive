@@ -8,11 +8,15 @@ uid: 379
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/004/714/original/Barataria_12_june_trip_VI.png)
+
 # Barataria 2014:  VI June 12th
 
 by [eustatic](../profile/eustatic) June 13, 2014 18:38
 
 June 13, 2014 18:38 | Tags: [gulf-coast](../tag/gulf-coast), [balloon-mapping](../tag/balloon-mapping), [barataria-bay](../tag/barataria-bay), [wetlands](../tag/wetlands), [louisiana](../tag/louisiana), [wetland](../tag/wetland), [barataria](../tag/barataria), [bp](../tag/bp), [patagonia](../tag/patagonia), [response:10336](../tag/response:10336), [place:barataria-bay](../tag/place:barataria-bay), [lat:29.45604](../tag/lat:29.45604), [lon:-89.845504](../tag/lon:-89.845504)
+
+----
 
 #####tide and weather info
 

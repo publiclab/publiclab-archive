@@ -14,6 +14,8 @@ by [Shannon](../profile/Shannon) January 29, 2013 17:20
 
 January 29, 2013 17:20 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
 
+----
+
 Lots of new events to announce, research notes to flaunt and ideas to circulate in the Public Lab community newsletter. First though, we wanted to mention that today, cities across the United States are hosting [OpenStreetMap #editathon](http://www.openstreetmap.us/2013/01/522/) events. Even if you aren't located in one of the listed cities, you can virtually participate, so jump in and help improve the US map! Now on to Public Lab news...
 
 1. Netexplo 2013. The Public Lab DIY spectrometer was selected as one of [100 outstanding innovations](http://en.www.netexplo.org/palmares/2013/top100) in the Netexplo 2013 competition.

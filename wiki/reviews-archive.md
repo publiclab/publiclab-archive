@@ -14,6 +14,8 @@ by [bhamster](../profile/bhamster)
 
 December 17, 2020 22:52 | Tags: [archive](../tag/archive), [reviews](../tag/reviews), [research-area-review](../tag/research-area-review), [parent:reviews](../tag/parent:reviews)
 
+----
+
 **Watch recordings and see shared resources from Public Lab’s past research area review events here**
 
 <hr style="height:3px;border-width:0;color:gray;background-color:gray">

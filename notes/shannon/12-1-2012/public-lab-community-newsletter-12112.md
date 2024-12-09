@@ -14,6 +14,8 @@ by [Shannon](../profile/Shannon) December 01, 2012 15:41
 
 December 01, 2012 15:41 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
 
+----
+
 This week in the Public Lab community newsletter, get in the spirit of December with a Public Lab New York winter party, check out an article on Public Lab in Chemical and Engineering news and get updates on the progress of the 1500 desktop spectrometers waiting to be assembled. Enjoy!
 
 1. 2000 mini-fold up spectrometers. Prints and parts for 2000 mini-fold up spectrometers are ready for assembly early next week in Portland.  If you can't wait, [download and make your own](http://publiclaboratory.org/notes/mathew/11-30-2012/final-fold-mini-spectrometer-print-files-and-instructions). 

@@ -8,10 +8,14 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/IMG_20111214_114529-1.jpg)
+
 # Thermal crop mapping on a bicycle?
 
 by [warren](../profile/warren) December 14, 2011 16:48
 
 December 14, 2011 16:48 | Tags: 
+
+----
 
 

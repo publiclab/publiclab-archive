@@ -14,6 +14,8 @@ by [Markos](../profile/Markos) August 24, 2015 15:26
 
 August 24, 2015 15:26 | Tags: [potentiostat](../tag/potentiostat), [water](../tag/water), [chlorine](../tag/chlorine)
 
+----
+
 ###What I want to do
 I'm not an expert in chlorination, but I am just sharing some information from my survey. Trying to show how to use Free Software and Open Hardware (Arduino) to improve the use of chlorination in a more appropriate and controlled manner.
 

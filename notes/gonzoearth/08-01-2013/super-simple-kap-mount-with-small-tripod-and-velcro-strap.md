@@ -8,11 +8,15 @@ uid: 12
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/000/995/original/IMG_0186.jpg)
+
 # super simple KAP mount with small tripod and velcro strap
 
 by [gonzoearth](../profile/gonzoearth) August 01, 2013 16:45
 
 August 01, 2013 16:45 | Tags: [kite-mapping](../tag/kite-mapping), [activity:kite-mapping](../tag/activity:kite-mapping), [activity:balloon-mapping](../tag/activity:balloon-mapping), [activity:photo-rig](../tag/activity:photo-rig)
+
+----
 
 Using this small tripod I had a very easy time pointing my camera in a consistent direction. 
 

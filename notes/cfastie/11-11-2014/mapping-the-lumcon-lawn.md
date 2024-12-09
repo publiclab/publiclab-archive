@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/007/798/original/CocoVIS-volley2k.jpg)
+
 # Mapping the LUMCON lawn
 
 by [cfastie](../profile/cfastie) November 11, 2014 01:05
 
 November 11, 2014 01:05 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [image-stitching](../tag/image-stitching), [louisiana](../tag/louisiana), [photoshop](../tag/photoshop), [cocodrie](../tag/cocodrie), [barnraising](../tag/barnraising), [lumcon](../tag/lumcon), [aligning](../tag/aligning), [gigapan](../tag/gigapan), [barnraising2014](../tag/barnraising2014), [response:4906](../tag/response:4906)
+
+----
 
 *Image above: The LUMCON volleyball court in Cocodrie complete with dessication cracks in the cryptogamic black crust. Stitched from six KAP photos.*  
 

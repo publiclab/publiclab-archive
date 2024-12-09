@@ -8,11 +8,15 @@ uid: 12
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/000/073/original/GSoC_2013_logo.jpg)
+
 # Google Summer of Code 2013 & Public Lab
 
 by [gonzoearth](../profile/gonzoearth) April 17, 2013 18:22
 
 April 17, 2013 18:22 | Tags: [mapknitter](../tag/mapknitter), [spectralworkbench](../tag/spectralworkbench), [gsoc](../tag/gsoc), [gsoc-2013](../tag/gsoc-2013), [google](../tag/google), [google-summer-of-code](../tag/google-summer-of-code)
+
+----
 
 Public Lab is happy to announce that we are part of the Google Summer of Code (GSOC) 2013 program!
 

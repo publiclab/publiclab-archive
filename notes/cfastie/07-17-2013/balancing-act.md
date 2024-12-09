@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/000/821/original/BlueOrig.jpg)
+
 # Balancing act
 
 by [cfastie](../profile/cfastie) July 17, 2013 01:15
 
 July 17, 2013 01:15 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [vermont](../tag/vermont), [white-balance](../tag/white-balance), [infragram](../tag/infragram), [infrablue](../tag/infrablue), [cmos](../tag/cmos), [response:8869](../tag/response:8869), [ccd](../tag/ccd), [a810](../tag/a810), [potato](../tag/potato)
+
+----
 
 <em>Image above: The famous blue origami paper I have been using to custom white balance my infrablue camera. All the photos of paper below are this piece of paper.</em>
 

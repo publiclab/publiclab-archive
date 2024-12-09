@@ -8,11 +8,15 @@ uid: 422561
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/008/521/original/Public_Lab_event_flyer_-_jan_7.jpg)
+
 # Gulf Coast 2015 Kickoff Party!
 
 by [stevie](../profile/stevie) December 22, 2014 18:49
 
 December 22, 2014 18:49 | Tags: [gulf-coast](../tag/gulf-coast), [event](../tag/event), [neworleans](../tag/neworleans), [event:rsvp](../tag/event:rsvp), [rsvp:danbeavers](../tag/rsvp:danbeavers), [urbanwaters](../tag/urbanwaters), [date:01-07-2015](../tag/date:01-07-2015), [rsvp:micheal](../tag/rsvp:micheal)
+
+----
 
 [Check out the project ideas that came from this event!](http://publiclab.org/wiki/gulf-coast-2015-project-ideas)
 

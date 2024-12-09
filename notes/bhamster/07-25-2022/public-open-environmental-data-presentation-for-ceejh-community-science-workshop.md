@@ -8,11 +8,15 @@ uid: 664477
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/046/920/original/CEEJH_pres_image_1.png)
+
 # Public & Open Environmental Data: presentation for CEEJH Community Science Workshop
 
 by [bhamster](../profile/bhamster) July 25, 2022 18:55
 
 July 25, 2022 18:55 | Tags: [environmental-data](../tag/environmental-data), [existing-data](../tag/existing-data), [datasource](../tag/datasource), [public-data](../tag/public-data)
+
+----
 
 _<small>Images: (clockwise) jwvein, public domain; NOAA, public domain, Healthy Gulf, CC BY NC; Maryland EJScreen Mapper, fair use; NOAA, CC BY; Manitoba Historical Maps, CC BY</small>_
 

@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/012/633/original/Screenshot_2015-10-22_at_6.48.48_PM.png)
+
 # Web Working Group Monthly Recap 8: Ocobter 2015
 
 by [warren](../profile/warren) November 09, 2015 21:57
 
 November 09, 2015 21:57 | Tags: [mapknitter](../tag/mapknitter), [web-development](../tag/web-development), [software](../tag/software), [plots2](../tag/plots2), [spectral-workbench](../tag/spectral-workbench), [wwg](../tag/wwg), [webwg](../tag/webwg), [response:12284](../tag/response:12284)
+
+----
 
 Late again this month; apologies! Busy time of year. Let's jump right into it:
 

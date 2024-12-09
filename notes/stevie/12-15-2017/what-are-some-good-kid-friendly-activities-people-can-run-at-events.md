@@ -14,6 +14,8 @@ by [stevie](../profile/stevie) December 15, 2017 20:35
 
 December 15, 2017 20:35 | Tags: [events](../tag/events), [barnraising](../tag/barnraising), [answered](../tag/answered), [question:general](../tag/question:general), [barnraising-host](../tag/barnraising-host), [question:hosting-materials](../tag/question:hosting-materials), [family-friendly](../tag/family-friendly), [kidcom](../tag/kidcom), [question:facilitation](../tag/question:facilitation)
 
+----
+
 _We’re compiling resources to help people host Barnraisings!_ 
 
 Do you have an activity that would be good for children to do at Barnraising events? Great! We’re compiling them on the new Host a Barnraising wiki

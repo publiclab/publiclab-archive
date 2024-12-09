@@ -8,11 +8,15 @@ uid: 12
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/000/205/original/Screen_Shot_2013-05-09_at_4.13.45_PM.png)
+
 # MapKnitter: using the browser for maximun zoom 
 
 by [gonzoearth](../profile/gonzoearth) May 09, 2013 23:30
 
 May 09, 2013 23:30 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [mapknitter](../tag/mapknitter), [maps](../tag/maps), [tips](../tag/tips)
+
+----
 
 MapKnitter has a limit to how far users can zoom in (+) to do stitching. 
 

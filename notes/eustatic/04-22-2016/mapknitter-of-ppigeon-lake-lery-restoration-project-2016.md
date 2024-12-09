@@ -8,11 +8,15 @@ uid: 379
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/015/733/original/image.png)
+
 # MapKnitter of PPigeon Lake Lery Restoration Project 2016
 
 by [eustatic](../profile/eustatic) April 22, 2016 01:06
 
 April 22, 2016 01:06 | Tags: [gulf-coast](../tag/gulf-coast), [mapknitter](../tag/mapknitter), [louisiana](../tag/louisiana), [restoration](../tag/restoration), [marsh](../tag/marsh), [barnstar:basic](../tag/barnstar:basic), [lat:29.7946132](../tag/lat:29.7946132), [lon:-89.8364558](../tag/lon:-89.8364558), [ppigeon](../tag/ppigeon), [lakelery](../tag/lakelery), [plaquemines](../tag/plaquemines), [estuary](../tag/estuary)
+
+----
 
 Southwest Flight 2264 7am TPA to 7:40a MSY
 Nikon DSLR d3200

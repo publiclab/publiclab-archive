@@ -14,6 +14,8 @@ by [ErikHanley11](../profile/ErikHanley11) April 12, 2018 02:43
 
 April 12, 2018 02:43 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s), [h2s-copper-pipe](../tag/h2s-copper-pipe), [copper-pipe](../tag/copper-pipe), [copper-sheet](../tag/copper-sheet)
 
+----
+
 I am writing this note as a response to the [copper sheet method](https://publiclab.org/notes/gretchengehrke/11-02-2017/copper-sheet-hydrogen-sulfide-detection-activity) published by @gretchengehrke. I have also [created copper strips](https://publiclab.org/notes/ErikHanley11/04-12-2018/copper-strip-test-preparation-using-solvents) for the similar purpose of environmental air quality testing, namely hydrogen sulfide (H­2S). Our methods seem to diverge, so I wanted to compare and contrast.
 
 First, I would like to highlight the advantages of the @gretchengehrke's method. The use of metal cutting scissors when making their copper strips certainly seems to be the superior method. The utility knife I used turned out to be a very arduous process that often warped the copper sheets. The use of metal cutting scissors seemed far easier and resulted in a cleaner cut.

@@ -8,11 +8,15 @@ uid: 552
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/006/883/original/DSC02113.JPG)
+
 # Balloon Mapping & Raspberry Pi Workshop @ The Hacktory
 
 by [seankmcginnis](../profile/seankmcginnis) September 18, 2014 10:25
 
 September 18, 2014 10:25 | Tags: [event](../tag/event), [event:rsvp](../tag/event:rsvp), [date:10-18-2014](../tag/date:10-18-2014), [rsvp:kimberlyhaas](../tag/rsvp:kimberlyhaas)
+
+----
 
 #### Workshop Details
 This workshop will be held as part of [The Hactory's](http://www.thehacktory.org) fall workshop series on October 18th from 1p to 4p. We will be discussing basic balloon/kite and pole mapping as well as more detailed conversations about using a Raspberry Pi as a sensor base to capture more information during your session.

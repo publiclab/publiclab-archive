@@ -8,11 +8,15 @@ uid: 495038
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/037/999/original/glifosato2.jpg)
+
 # Agrotóxicos - Lista de publicaciones académicas
 
 by [imvec](../profile/imvec) February 06, 2020 21:29
 
 February 06, 2020 21:29 | Tags: [lang:es](../tag/lang:es), [spanish](../tag/spanish), [cosquin](../tag/cosquin), [glifosato](../tag/glifosato), [agrotoxicos](../tag/agrotoxicos)
+
+----
 
 ## ¿Qué es esto?
 

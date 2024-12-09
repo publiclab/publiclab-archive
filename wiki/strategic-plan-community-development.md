@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/004/298/original/scaling-engagement.jpg)
+
 # strategic-plan-community-development
 
 by [warren](../profile/warren), [liz](../profile/liz)
 
 May 19, 2014 17:51 | Tags: [community](../tag/community), [organizers](../tag/organizers), [community-development](../tag/community-development)
+
+----
 
 **Table of Contents:** <br />
 [October 2014 update](http://publiclab.org/wiki/strategic-plan-community-development#October+2014)<br />

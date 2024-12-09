@@ -8,11 +8,15 @@ uid: 518193
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/046/700/original/publiclab_mapping_1200x430.png)
+
 # Event: A conversation with Yutsi, creator of NORCO the game
 
 by [a1ahna](../profile/a1ahna) May 26, 2022 21:40
 
 May 26, 2022 21:40 | Tags: [gulf-coast](../tag/gulf-coast), [louisiana](../tag/louisiana), [mapping](../tag/mapping), [event](../tag/event), [oil-and-gas](../tag/oil-and-gas), [game](../tag/game), [geography](../tag/geography), [robots](../tag/robots), [zoom:6](../tag/zoom:6), [zoom:16](../tag/zoom:16), [videogame](../tag/videogame), [norco](../tag/norco), [videogames](../tag/videogames), [video-game](../tag/video-game), [lat:29.999092](../tag/lat:29.999092), [lon:-90.412304](../tag/lon:-90.412304), [date:05-31-2022](../tag/date:05-31-2022), [geography-of-robots](../tag/geography-of-robots)
+
+----
 
 *Lead Image by Yutsi, commemorating Public Lab's 10th anniversary. Check out more on their [Twitter](https://twitter.com/roboticgeo?lang=en) and [Instagram](http://instagram.com/geographyofrobots).*
 

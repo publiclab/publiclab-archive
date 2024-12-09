@@ -14,6 +14,8 @@ by [gdotoli](../profile/gdotoli)
 
 October 13, 2013 00:32 | Tags: [balloon-mapping](../tag/balloon-mapping), [new-jersey](../tag/new-jersey), [nutley_nj](../tag/nutley_nj), [kingsland-park](../tag/kingsland-park)
 
+----
+
 This is the beginning of a map of Kingsland Park in Nutley, NJ.
 We are beginning the first phase of the aerial photography process. This morning we 
 setup the balloon and camera. The wind was over 20 miles an hour so we ended up with video of our Panasonic Lumix , the output looked similar to a free falling skydiver in trouble. 

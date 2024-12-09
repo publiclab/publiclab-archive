@@ -3,6 +3,8 @@ uid: 60509
 created_at: 2013-04-29 17:21:40 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/f4f51d8d5b58ca38d39216f9e71b17ec)
+
 # geobduffy
 
 ###Barnstars

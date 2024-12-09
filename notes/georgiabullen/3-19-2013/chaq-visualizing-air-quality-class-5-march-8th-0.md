@@ -14,6 +14,8 @@ by [georgiabullen](../profile/georgiabullen) March 20, 2013 03:37
 
 March 20, 2013 03:37 | Tags: [new-york-city](../tag/new-york-city), [cypress-hills](../tag/cypress-hills), [chaq](../tag/chaq), [air-quality](../tag/air-quality), [air-quality-egg](../tag/air-quality-egg), [visualization](../tag/visualization), [data-visualization](../tag/data-visualization)
 
+----
+
 In class on March 8th, the MIT team worked with the Cypress Hills 7th & 8th graders to try to develop ways to communicate Air Quality data visually. The students had two data sets to work with: a small amount of air quality egg data (2 weeks, 5 eggs, measuring Temperature, Humidity, and VOCs) and the results of surveys they conducted. The students had gone through the process of creating a survey about certain Air Quality triggers and measures as well as how their community shares information. As part of their homework during the previous two weeks, the students had administered the survey to their friends and family. The raw measurement data and the culled survey data created a sense of context for the science, as the students really tried to think about how they could communicate these abstract measurements to their community.
 
 After a quick overview of how visualization works [include link to presentation] and how we can work use different data attributes visually, we broke into groups to brainstorm ways of visualizing the different data sets either alone or together. Each student group worked with one of the MIT or Public Laboratory team, to analyze the data of their choice and then think about ways to convey that to others. 

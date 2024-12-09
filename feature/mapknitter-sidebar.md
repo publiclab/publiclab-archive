@@ -12,6 +12,8 @@ uid: 1
 
 October 21, 2015 16:45 | Tags: 
 
+----
+
   <a style="height:80px;background-image:url('/i/24998?size=medium');" class="feature img inverted" href="https://store.publiclab.org/products/microscope"></a>
   <a href="https://store.publiclab.org/products/microscope">
     <h3 style="text-align:left;color:#444;">Community Microscope Kits</h3>

@@ -8,11 +8,15 @@ uid: 160
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/012/509/original/IMG_8187-1024x768.jpg)
+
 # The Tools of Open Science, express hands-on workshop in FSCONS 2015
 
 by [pablo](../profile/pablo) November 06, 2015 02:20
 
 November 06, 2015 02:20 | Tags: [workshop](../tag/workshop), [mapping](../tag/mapping), [balloon](../tag/balloon), [sweden](../tag/sweden), [fscons](../tag/fscons)
+
+----
 
 I am talking this Saturday November 7th about Public Lab and doing a short hands-on training to build a camera rig out of a plastic bottle at the Free Society Conference and Nordic Summit [FSCONS 2015](https://fscons.org/2015/) in Göteborg, Sweden. I'll be happy to talk about the different projects that are going on in Public Lab.
 

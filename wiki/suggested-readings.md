@@ -14,6 +14,8 @@ by [liz](../profile/liz), [sara](../profile/sara), [donblair](../profile/donblai
 
 July 21, 2011 16:01 | Tags: [readings](../tag/readings), [literature-review](../tag/literature-review), [works-cited](../tag/works-cited), [bibliography](../tag/bibliography)
 
+----
+
 ## Dissertations by Public Lab community members 
 
 * Cindy Regalado's dissertation

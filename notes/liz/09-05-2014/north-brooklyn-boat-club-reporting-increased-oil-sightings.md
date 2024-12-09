@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/006/613/original/Screen_Shot_2014-09-05_at_11.17.44_AM.png)
+
 # North Brooklyn Boat Club reporting increased oil sightings 
 
 by [liz](../profile/liz) September 05, 2014 15:32
 
 September 05, 2014 15:32 | Tags: [new-york-city](../tag/new-york-city), [newtown-creek](../tag/newtown-creek), [oil-spill](../tag/oil-spill), [oil](../tag/oil), [sample-prep](../tag/sample-prep), [sampling](../tag/sampling), [oil-sampling-kit](../tag/oil-sampling-kit), [oil-testing-kit](../tag/oil-testing-kit), [northeast](../tag/northeast), [gas](../tag/gas), [sheen](../tag/sheen), [nbbc](../tag/nbbc)
+
+----
 
 ###What I want to do
 

@@ -8,11 +8,15 @@ uid: 468990
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/015/515/original/CFL_reproducibility_animation.gif)
+
 # Reproducibility test using a CFL lamp
 
 by [viechdokter](../profile/viechdokter) April 13, 2016 14:26
 
 April 13, 2016 14:26 | Tags: [spectrometer](../tag/spectrometer), [cfl](../tag/cfl), [lamp](../tag/lamp), [spectrum](../tag/spectrum), [reproducibility](../tag/reproducibility)
+
+----
 
 Another test whether the PLab spectrometer 3.0 can achieve reproducible data curves.
 

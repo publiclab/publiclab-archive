@@ -8,11 +8,15 @@ uid: 1259
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/007/398/original/IMG_9179_%281%29.JPG)
+
 # Mapping (in)formal and formal recycling sites and flows: Nicaragua to Boston
 
 by [mollydanielsson](../profile/mollydanielsson) October 10, 2014 01:27
 
 October 10, 2014 01:27 | Tags: [boston](../tag/boston), [gmf](../tag/gmf), [landfill](../tag/landfill), [central-america](../tag/central-america), [waste](../tag/waste), [nicaragua](../tag/nicaragua), [trash](../tag/trash), [northeast](../tag/northeast), [style:fancy](../tag/style:fancy), [response:6815](../tag/response:6815), [gmf6](../tag/gmf6), [el-rama](../tag/el-rama)
+
+----
 
 
 This is an article by **Eliana Blaine** for [Grassroots Mapping Issue #6 on Waste](http://publiclab.org/forum). Buy a copy [here](http://store.publiclab.org/collections/publications/products/grassroots-mapping-forum-issue-4).

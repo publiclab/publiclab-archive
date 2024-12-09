@@ -3,6 +3,8 @@ uid: 284858
 created_at: 2013-09-29 08:18:28 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/878600b3cf6c1f1fada61502c5cd13e6)
+
 # Guillaume123
 
 

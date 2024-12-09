@@ -8,11 +8,15 @@ uid: 217812
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/029/664/original/mysql_er_diagram.png)
+
 # How do I interpret the relationship between the schema.rb file and the models?
 
 by [bsugar](../profile/bsugar) March 02, 2019 03:52
 
 March 02, 2019 03:52 | Tags: [visualization](../tag/visualization), [code](../tag/code), [answered](../tag/answered), [question:website](../tag/question:website), [programming](../tag/programming)
+
+----
 
 I'm trying to create a database schema diagram (a.k.a entity relationship diagram) of the PLOTS database using the [data model](https://github.com/publiclab/plots2#data-model) in conjunction with the [schema.rb](https://github.com/publiclab/plots2/blob/master/db/schema.rb.example) file. I found a program online called [dbdiagram.io](https://dbdiagram.io) program which allows you to upload schema.rb files to create these diagrams, and also export them as .sql files (which is nice if you'd prefer to use [MySQL Workbench](https://dev.mysql.com/downloads/workbench/)).
 

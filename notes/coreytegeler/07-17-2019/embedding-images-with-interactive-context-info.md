@@ -8,11 +8,15 @@ uid: 523769
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/033/829/original/authorship.png)
+
 # Embedding images with interactive context info
 
 by [coreytegeler](../profile/coreytegeler) July 17, 2019 13:53
 
 July 17, 2019 13:53 | Tags: [photography](../tag/photography), [software](../tag/software), [ui](../tag/ui), [first-time-poster](../tag/first-time-poster)
+
+----
 
 I'm working with some people from the International Center of Photography developing a tool aimed to increase authorship, trust, and accountability of photographers and journalistic sources publishing photographs. The project is called Four Corners, referencing the four corners of an image, as we are using each to attach a set of contextual information to be embedded with the image.
 

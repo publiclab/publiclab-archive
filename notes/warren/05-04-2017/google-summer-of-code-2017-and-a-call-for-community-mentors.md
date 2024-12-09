@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/020/368/original/gsoc.jpg)
+
 # Google Summer of Code 2017 - and a call for community mentors
 
 by [warren](../profile/warren) May 04, 2017 16:19
 
 May 04, 2017 16:19 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [wwg](../tag/wwg), [webjack](../tag/webjack), [mentoring](../tag/mentoring), [gsoc-2017](../tag/gsoc-2017), [soc](../tag/soc), [soc-2017](../tag/soc-2017), [response:13975](../tag/response:13975)
+
+----
 
 Hi, everyone --
 

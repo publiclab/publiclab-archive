@@ -3,6 +3,8 @@ uid: 409
 created_at: 2013-04-20 18:41:22 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/6849ba6f0dba6dd16f90821368f1b928)
+
 # oscarbrett
 
 Urban Studies graduate from the New School. 

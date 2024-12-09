@@ -8,11 +8,15 @@ uid: 540844
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/027/571/original/20170613_100248_%281%29.jpg)
+
 # Fighting the Flood: Community Activism and Education in Pensacola
 
 by [joyofsoy](../profile/joyofsoy) November 09, 2018 18:51
 
 November 09, 2018 18:51 | Tags: [gulf-coast](../tag/gulf-coast), [blog](../tag/blog), [stormwater](../tag/stormwater), [with:stevie](../tag/with:stevie), [florida](../tag/florida), [flooding](../tag/flooding), [activism](../tag/activism), [pensacola-stormwater](../tag/pensacola-stormwater), [pensacola](../tag/pensacola), [naacp](../tag/naacp), [csf15](../tag/csf15)
+
+----
 
 **_A version of this story by @stevie is published in Public Lab's Community Science Forum, Issue 15\. Photos courtesy of Dr. Gloria Horning._**
 

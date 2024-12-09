@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/Screen shot 2011-12-12 at 4.57.29 PM.png)
+
 # Thermal flashlight tests at the p.irateship
 
 by [warren](../profile/warren) December 12, 2011 22:29
 
 December 12, 2011 22:29 | Tags: [thermal-photography](../tag/thermal-photography), [arduino](../tag/arduino), [thermal-flashlight](../tag/thermal-flashlight), [temperature](../tag/temperature), [thermal](../tag/thermal), [melexis](../tag/melexis), [replication:625](../tag/replication:625), [pirateship](../tag/pirateship)
+
+----
 
 Built a thermal flashlight at the pirateship today. We need a way to set the base temperature and expected range of temperatures. (see updated code at https://publiclab.org/n/625)
 

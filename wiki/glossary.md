@@ -14,6 +14,8 @@ by [bhamster](../profile/bhamster), [liz](../profile/liz), [stevie](../profile/s
 
 May 09, 2014 15:00 | Tags: [community](../tag/community), [citizen-science](../tag/citizen-science), [evaluation](../tag/evaluation), [glossary](../tag/glossary), [definitions](../tag/definitions), [civic-science](../tag/civic-science), [parent:about](../tag/parent:about), [about](../tag/about)
 
+----
+
 On this page you'll find more information about some of the words and terms seen and used around Public Lab:
 
 - [Structure](#Structure)

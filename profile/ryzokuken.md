@@ -3,6 +3,8 @@ uid: 493113
 created_at: 2016-09-28 05:06:56 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/ff6d2dc13543ce21f0d1832c4a1b5d17)
+
 # ryzokuken
 
 

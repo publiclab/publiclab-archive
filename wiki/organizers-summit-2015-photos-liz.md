@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/012/811/original/VJ-smile.gif)
+
 # organizers-summit-2015-photos-liz
 
 by [liz](../profile/liz)
 
 November 20, 2015 13:42 | Tags: [barnraising](../tag/barnraising), [barnraising-2015](../tag/barnraising-2015)
+
+----
 
 [![IMG_20151119_091234161_HDR.jpg](//i.publiclab.org/system/images/photos/000/012/788/medium/IMG_20151119_091234161_HDR.jpg)](//i.publiclab.org/system/images/photos/000/012/788/original/IMG_20151119_091234161_HDR.jpg)
 

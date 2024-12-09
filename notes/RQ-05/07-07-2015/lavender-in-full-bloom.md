@@ -8,11 +8,15 @@ uid: 440673
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/010/562/original/2015-07-07T00_27_35.362Z.jpg)
+
 # Lavender in full bloom
 
 by [RQ-05](../profile/RQ-05) July 07, 2015 23:16
 
 July 07, 2015 23:16 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [infragram](../tag/infragram), [processing](../tag/processing), [compositing](../tag/compositing), [infragram-sandbox](../tag/infragram-sandbox), [infragrammar](../tag/infragrammar), [colormap](../tag/colormap), [response:9054](../tag/response:9054)
+
+----
 
 I am attempting to use the HSV color wheel for actual NDVI.
 

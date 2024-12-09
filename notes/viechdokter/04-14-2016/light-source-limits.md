@@ -8,11 +8,15 @@ uid: 468990
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/015/538/original/light_source_limits.jpg)
+
 # Light source limits
 
 by [viechdokter](../profile/viechdokter) April 14, 2016 10:21
 
 April 14, 2016 10:21 | Tags: [spectrometer](../tag/spectrometer), [spectral-workbench](../tag/spectral-workbench), [light-source](../tag/light-source), [intensity](../tag/intensity)
+
+----
 
 Today I stumbled about another "problem". 
 

@@ -3,6 +3,8 @@ uid: 77
 created_at: 2013-04-14 17:08:51 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/455c1576f6bc479dfba44a9d42bb0ce6)
+
 # patcoyle
 
 

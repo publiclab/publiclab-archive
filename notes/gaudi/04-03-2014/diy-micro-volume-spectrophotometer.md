@@ -8,11 +8,15 @@ uid: 421141
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/003/479/original/MicroVolumeSpectrometer.jpg)
+
 # DIY Micro Volume Spectrophotometer
 
 by [gaudi](../profile/gaudi) April 03, 2014 12:52
 
 April 03, 2014 12:52 | Tags: [spectrometer](../tag/spectrometer), [nanometer](../tag/nanometer), [sampling](../tag/sampling), [nano-drop](../tag/nano-drop), [location:blurred](../tag/location:blurred), [place:united-states](../tag/place:united-states), [lat:35](../tag/lat:35), [lon:-78](../tag/lon:-78), [zoom:6](../tag/zoom:6)
+
+----
 
 Attempt to build DIY Microvolume Spectrophotometers or Fluorospectrometers to quantitate micro-volumes of sample. Commercial Products like the NanoDrop™ are very popular in scientific labs. The measurement principle of holding a drop between two points - the light source and the sensor - allows to measure samples as small as 0.5µL up to 2µL micro volume without a cuvette. The simple basic principle should be perfect for DIY lab equipment and goes perfectly well with the PublicLab spectrometer concept and SpectraWorkbench software.
 

@@ -8,11 +8,15 @@ uid: 505738
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/033/205/original/20190624_183533.jpg)
+
 # Horticultural Spectrometer - Assembly III
 
 by [jenjimah](../profile/jenjimah) June 25, 2019 23:40
 
 June 25, 2019 23:40 | Tags: [spectrometer](../tag/spectrometer), [raspberry-pi](../tag/raspberry-pi), [barnstar:basic](../tag/barnstar:basic), [lego-spectrometer](../tag/lego-spectrometer)
+
+----
 
 This is the final assembly post based on the [Horticultural Spectrometer Upgrade - Planning](https://publiclab.org/notes/jenjimah/04-07-2019/horticultural-spectroscope-upgrade-planning) project.
 

@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/020/815/original/SalCmSch_20170611-9585.JPG)
+
 # First flight of the SkyPod
 
 by [cfastie](../profile/cfastie) June 18, 2017 22:56
 
 June 18, 2017 22:56 | Tags: [kite-mapping](../tag/kite-mapping), [arduino](../tag/arduino), [kite-aerial-photography](../tag/kite-aerial-photography), [kap](../tag/kap), [gps](../tag/gps), [saturnv](../tag/saturnv), [skyshield](../tag/skyshield), [half-spherical](../tag/half-spherical), [eos_m](../tag/eos_m), [autodesk](../tag/autodesk), [skypod](../tag/skypod), [bme280](../tag/bme280), [ublox](../tag/ublox), [skypod-gps-logger](../tag/skypod-gps-logger), [activity:skypod-gps-logger](../tag/activity:skypod-gps-logger)
+
+----
 
 _Above: The SkyPod mounted on a Saturn V Rig. The SkyPod includes a GPS module and antenna, Arduino Nano, microSD card, and a sensor to read barometric pressure and temperature. The 3D printed pod was designed in Autodesk Fusion 360. The blue PCB is part of the SkyShield which operates the pan/tilt/shoot Saturn V Rig._
 

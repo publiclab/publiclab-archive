@@ -8,11 +8,15 @@ uid: 592122
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/032/418/original/3.jpg)
+
 # The Separation Essence Of Different Chromatography
 
 by [c329163204](../profile/c329163204) May 23, 2019 03:49
 
 May 23, 2019 03:49 | Tags: [lat:34.341574](../tag/lat:34.341574), [lon:108.93977](../tag/lon:108.93977)
+
+----
 
 According to the separation mechanism of substances, Chromatography can be divided into adsorption chromatography, distribution chromatography, ion exchange chromatography and the like.
 

@@ -14,6 +14,8 @@ by [bhamster](../profile/bhamster) March 02, 2023 22:06
 
 March 02, 2023 22:06 | Tags: [csf](../tag/csf), [community-science-forum](../tag/community-science-forum), [student-community-science](../tag/student-community-science), [classroom-community-science](../tag/classroom-community-science), [csf18](../tag/csf18)
 
+----
+
 **A version of this story by high school student Laila is published in Public Lab's _Community Science Forum_, Issue 18. Read more from this issue <a href="https://publiclab.org/forum#Issue+18+Student-Led+Community+Science+Projects+(Summer+2021)">here</a>.**
 
 Our soil is contaminated with mercury! Mercury contamination in soil, water, and air has been linked to human and ecosystem toxicity. Mercury pollution in various environmental media has risen as a result of industrial activity such as coal burning. This contamination is putting lives in danger. For example, my school recently started a garden of flowers, trees, fruits, and vegetables. And whatever is in the soil we are using will end up in the garden, and when we consume these fruits and vegetables, we are consuming mercury, which has the chance of us getting extremely sick and even dying. So, as you can see, this is a serious problem and we have decided to take tests and observations on our campus.

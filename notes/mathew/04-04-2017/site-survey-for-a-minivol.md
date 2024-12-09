@@ -8,11 +8,15 @@ uid: 4
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/020/074/original/20170326_131640.jpg)
+
 # Site Survey for a Minivol
 
 by [mathew](../profile/mathew) April 04, 2017 18:57
 
 April 04, 2017 18:57 | Tags: [air-quality](../tag/air-quality), [dust](../tag/dust), [silica](../tag/silica), [frac-sand](../tag/frac-sand), [pm](../tag/pm), [particle-sensing](../tag/particle-sensing), [particle-monitoring](../tag/particle-monitoring), [with:stevie](../tag/with:stevie), [with:gretchengehrke](../tag/with:gretchengehrke), [parent:frac-sand](../tag/parent:frac-sand), [pm-monitoring](../tag/pm-monitoring), [minivol](../tag/minivol), [replication:13891](../tag/replication:13891)
+
+----
 
 Heather and Bruce Andersen live in Bloomer, Wisconsin, and want to setup a [MiniVol to identify dust](https://publiclab.org/wiki/minivol#Available+types+of+analysis+for+MiniVol+filters) from nearby mines. @gretchengehrke, @stevie, and I set out to do a [site survey](/wiki/site-survey), following the activity, [Identifying a PM monitoring site for deploying a MiniVol.](/notes/mathew/01-31-2017/identifying-a-monitoring-site-for-deploying-a-minivol)
 

@@ -8,11 +8,15 @@ uid: 478126
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/016/574/original/fiji_ndvi.jpg)
+
 # liz@publiclab
 
 by [danielrobinson](../profile/danielrobinson)
 
 June 10, 2016 11:27 | Tags: [liz](../tag/liz)
+
+----
 
 The bittorrent sync link on https://publiclab.org/wiki/sharing-images does not work?
 

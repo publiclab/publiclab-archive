@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/020/676/original/biobroth.png)
+
 # BioBroth Bubbler
 
 by [warren](../profile/warren)
 
 June 06, 2017 17:55 | Tags: [remediation](../tag/remediation), [air-quality](../tag/air-quality), [bacteria](../tag/bacteria), [tool](../tag/tool), [open-air](../tag/open-air), [indoor-air-quality](../tag/indoor-air-quality), [indoor-air](../tag/indoor-air), [method](../tag/method), [chemicals](../tag/chemicals), [parent:diy-indoor-air-quality-remediation-kit](../tag/parent:diy-indoor-air-quality-remediation-kit), [biobroth-bubbler](../tag/biobroth-bubbler)
+
+----
 
 The biobroth bubbler is still in its experimental stage and we are looking into the potential harms of introducing these bacteria colonies in the home before posting further documentation. 
 
@@ -25,4 +29,4 @@ For a related project that's further along, please see [the Indoor Air Quality R
 
 ## Questions
 
-[questions:biobroth-bubbler]
+[biobroth-bubbler](../../tag/question:biobroth-bubbler)

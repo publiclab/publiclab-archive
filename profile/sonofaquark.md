@@ -3,6 +3,8 @@ uid: 54330
 created_at: 2018-12-06 23:38:05 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/56fe496155bee9568a91121ce41903bd)
+
 # sonofaquark
 
 

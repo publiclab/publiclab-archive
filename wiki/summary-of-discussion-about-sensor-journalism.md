@@ -14,6 +14,8 @@ by [natalie](../profile/natalie), [bodacea](../profile/bodacea)
 
 January 29, 2014 20:16 | Tags: [journalism](../tag/journalism), [sensor-journalism](../tag/sensor-journalism), [parent:journalism](../tag/parent:journalism)
 
+----
+
 Discussion in the newsgroup about journalists using sensors. 
 
 Suggestions: 

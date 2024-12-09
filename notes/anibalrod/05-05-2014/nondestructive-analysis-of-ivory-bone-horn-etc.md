@@ -14,6 +14,8 @@ by [anibalrod](../profile/anibalrod) May 05, 2014 12:25
 
 May 05, 2014 12:25 | Tags: [ivory](../tag/ivory), [bone](../tag/bone), [horn](../tag/horn)
 
+----
+
 ###What I want to do
 
 Analyze non-distructively ivory, bone, horn and related materials using  spectrometric techniques 

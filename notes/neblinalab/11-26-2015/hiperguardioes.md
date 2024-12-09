@@ -8,11 +8,15 @@ uid: 459062
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/013/076/original/HG-Web-Neblina-2015.jpg)
+
 # Hiperguardiões
 
 by [neblinalab](../profile/neblinalab) November 26, 2015 19:26
 
 November 26, 2015 19:26 | Tags: [diy](../tag/diy), [brasil](../tag/brasil), [sao-paulo](../tag/sao-paulo)
+
+----
 
 ### O que é:
 

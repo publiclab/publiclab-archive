@@ -8,11 +8,15 @@ uid: 43651
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/013/255/original/riffleCloseup.png)
+
 # Riffle Beta Release: Feature Freeze this Friday! (12/11)
 
 by [donblair](../profile/donblair) December 09, 2015 18:47
 
 December 09, 2015 18:47 | Tags: [riffle](../tag/riffle)
+
+----
 
 ### Thank you for the feedback!
 

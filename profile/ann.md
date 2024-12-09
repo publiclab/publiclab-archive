@@ -3,6 +3,8 @@ uid: 421543
 created_at: 2014-03-17 18:34:03 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/421543/medium/258327_10151151773213236_2007780340_o.jpg)
+
 # ann
 
 Ann is an artist, designer and researcher currently on a Fulbright Fellowship in Canada. She is collectively mapping the Enbridge Northern Gateway Pipeline. 

@@ -8,11 +8,15 @@ uid: 53164
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/000/759/original/photosynqePBR.jpg)
+
 # Measuring algal photosynthetic activity with Photosynq
 
 by [gbathree](../profile/gbathree) July 11, 2013 13:00
 
 July 11, 2013 13:00 | Tags: [photosynthesis](../tag/photosynthesis), [photosynq](../tag/photosynq), [algae](../tag/algae)
+
+----
 
 So we've been makinng good progress on Photosynq, our little handheld photosynthesis measurement device, and for the last 2 weeks we've been taking it out for a spin - with algae!
 

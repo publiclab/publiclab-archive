@@ -3,6 +3,8 @@ uid: 170164
 created_at: 2013-07-17 13:32:28 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/e2fc23b1b504665fc554a1f4527792fb)
+
 # holden
 
 A recent Northeastern grad interested in Environmental Justice work

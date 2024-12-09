@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/sites/default/files/Oyster spat at Soundview 8_21_12. 3.jpg)
+
 # Bronx River Soundview Park Oyster Reef Mapping
 
 by [liz](../profile/liz) August 21, 2012 21:50
 
 August 21, 2012 21:50 | Tags: [new-york-city](../tag/new-york-city), [balloon-mapping](../tag/balloon-mapping), [oyster-reef](../tag/oyster-reef), [bronx](../tag/bronx), [oysters](../tag/oysters), [soundview-park](../tag/soundview-park), [river](../tag/river)
+
+----
 
 Main image: oyster spat growing on edge of Bronx River. Courtesy of NY/NJ Baykeeper by Kerstin Kalchmayr.
 

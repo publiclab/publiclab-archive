@@ -8,11 +8,15 @@ uid: 461120
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/018/018/original/CFL_calibration_title_pic_sept_12.png)
+
 # Laser Calibration (532nm) of New DVD Diffration Grating 4.7 GB
 
 by [dhaffnersr](../profile/dhaffnersr) September 12, 2016 16:47
 
 September 12, 2016 16:47 | Tags: 
+
+----
 
 ##**Resolution and Calibration for the DH 4 v4a Spectrometer**
 

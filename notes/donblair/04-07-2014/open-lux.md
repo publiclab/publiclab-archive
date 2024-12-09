@@ -8,11 +8,15 @@ uid: 43651
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/003/535/original/open-lux-design.png)
+
 # Open-Lux
 
 by [donblair](../profile/donblair) April 07, 2014 17:53
 
 April 07, 2014 17:53 | Tags: [thermal-photography](../tag/thermal-photography), [ndvi](../tag/ndvi), [infrared](../tag/infrared), [thermal-flashlight](../tag/thermal-flashlight), [thermal-imaging](../tag/thermal-imaging), [thermal-technology](../tag/thermal-technology), [infragram](../tag/infragram), [mercury](../tag/mercury), [test-strips](../tag/test-strips)
+
+----
 
 Revision of a Thermal Flashlight prototype, with added RGB+NIR sensors.
 

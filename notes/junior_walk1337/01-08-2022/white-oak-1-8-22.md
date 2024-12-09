@@ -14,6 +14,8 @@ by [junior_walk1337](../profile/junior_walk1337) January 08, 2022 20:28
 
 January 08, 2022 20:28 | Tags: [drones](../tag/drones), [water-quality](../tag/water-quality), [coal](../tag/coal), [extraction](../tag/extraction), [land-use](../tag/land-use), [mmmp](../tag/mmmp)
 
+----
+
 <iframe width="1280" height="675" src="https://www.youtube.com/embed/rjvr2cSzlXM" frameborder="0" allowfullscreen=""></iframe>
 
   

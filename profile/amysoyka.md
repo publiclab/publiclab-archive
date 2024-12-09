@@ -3,6 +3,8 @@ uid: 422627
 created_at: 2014-04-22 10:41:05 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/a8bd1a6fa465411df3f6ec28f9851e92)
+
 # amysoyka
 
 

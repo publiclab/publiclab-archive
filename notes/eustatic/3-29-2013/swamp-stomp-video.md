@@ -8,11 +8,15 @@ uid: 379
 
 ---
 
+![](https://publiclab.org/sites/default/files/IMG_0114.JPG)
+
 # Swamp Stomp Video
 
 by [eustatic](../profile/eustatic) March 29, 2013 22:06
 
 March 29, 2013 22:06 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping)
+
+----
 
 Becki and Scott subject themselves to a ravenously cute mob of grade- and high schoolers, who all get to hold a balloon or kite for a second, and chase the camera around.
 

@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/001/555/original/Taylor-neonCc.jpg)
+
 # Finding Neon
 
 by [cfastie](../profile/cfastie) September 14, 2013 00:38
 
 September 14, 2013 00:38 | Tags: [spectrometer](../tag/spectrometer), [spectralworkbench](../tag/spectralworkbench), [ebert](../tag/ebert), [gsoc](../tag/gsoc), [gsoc-2013](../tag/gsoc-2013)
+
+----
 
 *Image above: The spectra of the red tubes in these six neon signs are at SpectralWorkbench. You can now search for similar spectra, so these make a good test.*  
 

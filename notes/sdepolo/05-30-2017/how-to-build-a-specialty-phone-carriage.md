@@ -8,11 +8,15 @@ uid: 508246
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/020/599/original/IMG_0104.JPG)
+
 # How to Build a Specialty Phone Carriage
 
 by [sdepolo](../profile/sdepolo) May 30, 2017 17:31
 
 May 30, 2017 17:31 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [mobile-phone-camera](../tag/mobile-phone-camera), [rig](../tag/rig), [event](../tag/event), [bottle-rig](../tag/bottle-rig), [camera-rig](../tag/camera-rig), [juice-bottle-rig](../tag/juice-bottle-rig), [smartphone](../tag/smartphone), [hidden:response](../tag/hidden:response), [activity:camera-rigs](../tag/activity:camera-rigs), [juice-bottle](../tag/juice-bottle), [response:14179](../tag/response:14179)
+
+----
 
 Smartphone Specialty Carriage
 

@@ -14,4 +14,6 @@ by [calmstrong](../profile/calmstrong) January 25, 2022 19:36
 
 January 25, 2022 19:36 | Tags: [mapknitter](../tag/mapknitter), [question:mapknitter](../tag/question:mapknitter), [first-time-poster](../tag/first-time-poster)
 
+----
+
 My image is \>1GB and it says unknown error when I tried to upload

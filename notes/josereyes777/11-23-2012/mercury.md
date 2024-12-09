@@ -8,9 +8,13 @@ uid: 46143
 
 ---
 
+![](https://publiclab.org/sites/default/files/hgspect.jpg)
+
 # Mercury
 
 by [josereyes777](../profile/josereyes777) November 23, 2012 08:27
 
 November 23, 2012 08:27 | Tags: 
+
+----
 

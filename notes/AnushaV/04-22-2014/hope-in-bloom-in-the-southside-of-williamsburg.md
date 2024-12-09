@@ -8,11 +8,15 @@ uid: 422636
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/003/798/original/EarthDay_flyer_4.15.14-sm_%281%29_Page_1.jpg)
+
 # Hope in Bloom in the Southside of Williamsburg!
 
 by [AnushaV](../profile/AnushaV) April 22, 2014 19:31
 
 April 22, 2014 19:31 | Tags: [new-york-city](../tag/new-york-city), [balloon-mapping](../tag/balloon-mapping), [event](../tag/event), [garden](../tag/garden), [southside](../tag/southside), [williamsburg](../tag/williamsburg)
+
+----
 
 On Tuesday, April 29th, [El Puente](http://elpuente.us/)'s [Green Light District](http://elpuente.us/content/green-light-district-overview), local high school students, community residents and Public Laboratory will be mapping the Southside's community gardens! Come join us at HOPE IN BLOOM / CRECIENTE ESPERANZA - and pitch in to get our neighborhood's gardens ready for the growing season, or help map our community's growing green spaces. The event will be held in multiple locations from 1 to 3:30pm.
 

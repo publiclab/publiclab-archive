@@ -8,11 +8,15 @@ uid: 445906
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/017/008/original/IMG_20160709_184753.jpg)
+
 # Capacitive Discharge Welder
 
 by [kinasmith](../profile/kinasmith) July 12, 2016 20:50
 
 July 12, 2016 20:50 | Tags: [spectrometer](../tag/spectrometer), [sensor](../tag/sensor), [thermocouple](../tag/thermocouple), [welder](../tag/welder)
+
+----
 
 I've been working on this
 

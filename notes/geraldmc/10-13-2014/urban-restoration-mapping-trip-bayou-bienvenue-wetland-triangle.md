@@ -8,11 +8,15 @@ uid: 421225
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/007/430/original/BIENVENUE_STICHED.png)
+
 # Urban Restoration Mapping Trip - Bayou Bienvenue Wetland Triangle
 
 by [geraldmc](../profile/geraldmc) October 13, 2014 00:04
 
 October 13, 2014 00:04 | Tags: [gulf-coast](../tag/gulf-coast), [balloon-mapping](../tag/balloon-mapping), [louisiana](../tag/louisiana), [bayou-bienvenue](../tag/bayou-bienvenue), [bienvenue](../tag/bienvenue), [urban-ecology](../tag/urban-ecology), [barnstar:basic](../tag/barnstar:basic), [urbanwaters](../tag/urbanwaters), [epaurbanwater](../tag/epaurbanwater), [first-time-poster](../tag/first-time-poster)
+
+----
 
 ###What I want to do
 

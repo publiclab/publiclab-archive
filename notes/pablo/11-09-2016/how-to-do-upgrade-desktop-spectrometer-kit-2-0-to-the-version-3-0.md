@@ -8,11 +8,15 @@ uid: 160
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/018/735/original/Cw0j9cVXEAAfVWV.jpg)
+
 # How to do upgrade Desktop Spectrometer Kit 2.0 to the version 3.0 
 
 by [pablo](../profile/pablo) November 09, 2016 23:46
 
 November 09, 2016 23:46 | Tags: [spectrometer](../tag/spectrometer), [upgrade:spectrometry](../tag/upgrade:spectrometry), [seeks:builds](../tag/seeks:builds), [status:in-progress](../tag/status:in-progress)
+
+----
 
 This research note is in progress, I'll update keep updating it.
 

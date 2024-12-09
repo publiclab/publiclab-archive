@@ -14,6 +14,8 @@ by [geeksha](../profile/geeksha) December 15, 2016 15:09
 
 December 15, 2016 15:09 | Tags: [spain](../tag/spain), [eu](../tag/eu), [prototyping-lab](../tag/prototyping-lab), [cultural-mediation](../tag/cultural-mediation), [diy-citizen-science-community](../tag/diy-citizen-science-community), [galicia](../tag/galicia)
 
+----
+
 ###DIY/DIWO Free Citizen Science Community: the project was started with habitat association and Ateneo Atlántico de Prototipado  (a lab which I was coordinating) science, society and technology laboratory.
 
 ### Phototrap camera prototype with rapsberry pi. webview and semantic search of the videos in django/python3. efkin,Habitat, Quiroga and geeksha participation.

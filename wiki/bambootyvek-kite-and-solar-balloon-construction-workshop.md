@@ -14,6 +14,8 @@ by [liz](../profile/liz), [mathew](../profile/mathew), [rjstatic](../profile/rjs
 
 June 18, 2012 17:11 | Tags: [new-york-city](../tag/new-york-city), [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [ilab](../tag/ilab), [solar-balloon](../tag/solar-balloon), [event](../tag/event)
 
+----
+
 ###<strong>Workshop and flights, Sunday July 1, 2012, 11am-5pm</strong>###
 
 #####<strong> Build leader training, Saturday, June 30 1pm-5pm </strong>#####

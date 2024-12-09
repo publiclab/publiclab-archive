@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/032/413/original/Screen_Shot_2019-05-22_at_5.37.11_PM.png)
+
 # Draft of a Public Lab Software Roadmap: Comments welcome!
 
 by [warren](../profile/warren) May 22, 2019 19:46
 
 May 22, 2019 19:46 | Tags: [software](../tag/software), [code](../tag/code), [wwg](../tag/wwg), [software-outreach](../tag/software-outreach), [soc](../tag/soc), [diagram](../tag/diagram), [roadmap](../tag/roadmap)
+
+----
 
 Hi, all - we've been working on this idea for a "Roadmap for Public Lab code projects", as part of our goal to improve transparency, discussion, and the sharing of decision-making in the Public Lab code community. We on the Public Lab staff, and people who've been very involved in PL, use a few different venues to discuss/plan/chart our work, including:
 

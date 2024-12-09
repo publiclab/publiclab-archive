@@ -8,11 +8,15 @@ uid: 822105
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/047/351/original/Spec3.jpg)
+
 # First Attempt Bombed... But Why ?
 
 by [Abraxas](../profile/Abraxas) November 28, 2022 13:25
 
 November 28, 2022 13:25 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [first-time-poster](../tag/first-time-poster)
+
+----
 
 Well I used my 3D printer, machine shop and tried to make an approximation of the device suggested here and I get absolutely nothing. 
 

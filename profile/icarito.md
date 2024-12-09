@@ -3,6 +3,8 @@ uid: 448589
 created_at: 2015-08-19 12:40:30 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/448589/medium/%28JPEG_Imagen__800%C2%A0%C3%97%C2%A0496_pixeles%29.jpg)
+
 # icarito
 
 Sebastian first heard about Public Lab in 2010 when they helped a group of indigenous people from the Shippibo tribe to map their settlement in downtown Lima city. Impressed at the time, he was himself leading volunteering efforts around improving free educational software on OLPC laptops in rural Peru. He is the founder of the SomosAzucar R&D team, whose mission is to bring libre technology to public classrooms in Latin America. 

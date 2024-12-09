@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/033/170/original/IMG_20190624_185952_336.jpg)
+
 # How could we design a group activity around siting air sensors?
 
 by [warren](../profile/warren) June 24, 2019 22:37
 
 June 24, 2019 22:37 | Tags: [education](../tag/education), [curriculum](../tag/curriculum), [air-quality](../tag/air-quality), [classroom](../tag/classroom), [question:dustduino](../tag/question:dustduino), [humidity](../tag/humidity), [study-design](../tag/study-design), [question:education](../tag/question:education), [question:classroom](../tag/question:classroom), [plantower](../tag/plantower), [purple-air](../tag/purple-air), [question:simple-air-sensor](../tag/question:simple-air-sensor), [simple-air-sensor](../tag/simple-air-sensor), [simple-air-sensors](../tag/simple-air-sensors)
+
+----
 
 I've been noticing how Simple Air Sensors ( #simple-air-sensor) will pick up fog from a humidifier, and have had a lot of success working with both adults and kids at events using a humidifier with these sensors. Because the #plantower sensor in the Simple Air Sensor (same as in the #purple-air) is triggered by fog, and because fog dissipates so quickly (and is safe to breathe), it's a really effective demonstration of the sensors reacting to the presence of a source of air "pollution" -- even though it's not really pollution.
 

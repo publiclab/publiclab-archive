@@ -8,11 +8,15 @@ uid: 379
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/000/829/original/20_april_city_park_little_bear.png)
+
 # Kite Video test:  City Park
 
 by [eustatic](../profile/eustatic) July 17, 2013 15:32
 
 July 17, 2013 15:32 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [annagrigorjem](../tag/annagrigorjem)
+
+----
 
 ##What I want to do
 

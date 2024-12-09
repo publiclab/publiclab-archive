@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/022/185/original/5569549722_b0bf198e91_o.jpg)
+
 # Aerial photos with Passenger Pigeon
 
 by [pablo](../profile/pablo), [warren](../profile/warren)
 
 May 21, 2012 17:28 | Tags: [aerial-photos](../tag/aerial-photos), [passenger-pigeon](../tag/passenger-pigeon), [airplane](../tag/airplane), [method](../tag/method), [oil-and-gas](../tag/oil-and-gas)
+
+----
 
 Passenger Pigeon is a project/concept for collecting aerial imagery from passenger plane windows with handheld digital cameras. To make a map, just take photos out the window of your commercial flight. Then use the free and open source [MapKnitter.org](https://mapknitter.org) to align the images with a map as soon as you land.
 
@@ -35,11 +39,11 @@ Above, NRG composite from out the window of airplane over Amsterdam, by @warren_
 
 ## Questions
 
-[questions:passenger-pigeon]
+[passenger-pigeon](../../tag/question:passenger-pigeon)
 
 ## Activities
 
-[activities:passenger-pigeon]
+[passenger-pigeon](../../tag/activity:passenger-pigeon)
 
 ### Maps
 
@@ -57,4 +61,4 @@ Some Public Lab folks have done multispectral imaging from a plane window -- see
 
 ## Updates
 
-[notes:passenger-pigeon]
+[passenger-pigeon](../../tag/passenger-pigeon)

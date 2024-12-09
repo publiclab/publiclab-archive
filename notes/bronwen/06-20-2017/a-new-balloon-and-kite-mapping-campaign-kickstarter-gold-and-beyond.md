@@ -8,11 +8,15 @@ uid: 237313
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/020/836/original/16x9-boat.jpg)
+
 # A New Balloon and Kite Mapping campaign: Kickstarter Gold and Beyond!
 
 by [Bronwen](../profile/Bronwen) June 20, 2017 22:40
 
 June 20, 2017 22:40 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [kickstarter](../tag/kickstarter), [blog](../tag/blog), [mini-kite-kit](../tag/mini-kite-kit), [mini-balloon-kit](../tag/mini-balloon-kit)
+
+----
 
 **We'v**e **just launched a new kite and balloon mapping project** as a part of _Kickstarter Gold_, a new initiative designed to help highlight the evolution of initiatives that have received funding in the past.
 

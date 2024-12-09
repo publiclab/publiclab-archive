@@ -8,11 +8,15 @@ uid: 304279
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/008/590/original/valve1.jpg)
+
 # Valve automation for laboratory liquid handeling
 
 by [JSummers](../profile/JSummers) January 12, 2015 22:52
 
 January 12, 2015 22:52 | Tags: [3d-printing](../tag/3d-printing), [syringe](../tag/syringe), [pump](../tag/pump), [response:11500](../tag/response:11500)
+
+----
 
 ###What I want to do
 Eventually, I want to automate all kinds of lab processes.  To do that you not only have to be able to pump liquids from point A  to point B, you also need to be able to specify  what path you want the liquid to take.  The specific use for this little valve is to allow the syringe pump described earlier to withdraw from one tube, then inject into another. That way you can move a lot more sample than your syringe pump can handle in one injection.  I also want to control the valve using the same electronics and software as the syringe pump.  This will be useful for things like making buffers.  You know what a pain in the ass that is.  You add a little base and the pH goes shooting up but then slowly comes back down and you have to add more and the pH goes up again and slowly comes down ... Why spend an afternoon screwing around with your buffer when you can automate the process?  And you don't want to walk away from it and come back later to find that the syringe is empty and the buffer is still not at the required pH.  

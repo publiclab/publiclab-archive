@@ -8,11 +8,15 @@ uid: 423961
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/026/341/original/NEWEmilio.jpg)
+
 # Northeast Barnraising 2018: How to Make Disasters Less Disastrous #Barnraising #crisisconvening 
 
 by [zengirl2](../profile/zengirl2) August 24, 2018 20:38
 
 August 24, 2018 20:38 | Tags: [barnraising](../tag/barnraising), [newark](../tag/newark), [blog](../tag/blog), [northeast](../tag/northeast), [disaster](../tag/disaster), [2018](../tag/2018), [crisis-convening](../tag/crisis-convening), [barnraising-newark-2018](../tag/barnraising-newark-2018), [floods](../tag/floods)
+
+----
 
 This Northeast regional Barnraising was like no other because it started with people exchanging stories
 of disaster. It was an appropriate ice breaker since the first day was dedicated

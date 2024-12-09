@@ -14,6 +14,8 @@ by [mercyorangi](../profile/mercyorangi), [warren](../profile/warren), [Mohit](.
 
 September 12, 2013 21:38 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [camera-triggering](../tag/camera-triggering), [android](../tag/android), [kap](../tag/kap), [gsoc](../tag/gsoc), [gsoc-2013](../tag/gsoc-2013), [skycam](../tag/skycam), [gsoc-2014](../tag/gsoc-2014)
 
+----
+
 [![IMG_20130912_190456.jpg](https://i.publiclab.org/system/images/photos/000/001/540/medium/IMG_20130912_190456.jpg)](https://i.publiclab.org/system/images/photos/000/001/540/original/IMG_20130912_190456.jpg) [![sky-cam.png](https://i.publiclab.org/system/images/photos/000/002/316/thumb/sky-cam.png)](https://i.publiclab.org/system/images/photos/000/002/316/original/sky-cam.png)
 
 Sky Camera is a prototype Android app (updated now) for attaching to a balloon or kite for taking pictures at a set interval. It was developed by [Mohit Meena](/profile/mohit) as part of the [2013 Google Summer of Code program with Public Lab](/wiki/gsoc-2013). 

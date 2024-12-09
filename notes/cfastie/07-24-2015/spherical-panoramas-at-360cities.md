@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/010/888/original/AK_0274_2L.jpg)
+
 # Kite panoramas at 360Cities
 
 by [cfastie](../profile/cfastie) July 24, 2015 03:00
 
 July 24, 2015 03:00 | Tags: [kite-aerial-photography](../tag/kite-aerial-photography), [alaska](../tag/alaska), [kap](../tag/kap), [autokap](../tag/autokap), [kaptery](../tag/kaptery), [saturnv](../tag/saturnv), [skyshield](../tag/skyshield), [half-spherical](../tag/half-spherical), [response:12058](../tag/response:12058)
+
+----
 
 *Above: The Saturn V Rig with strands of spider silk caught on the kite line. Spiders disperse by climbing to a high point and producing a silk thread which lifts them on the wind. This is called ballooning or less frequently, kiting. There must have been thousands of ballooning spiders in the air over that field when the panorama below was captured.*  
 .  

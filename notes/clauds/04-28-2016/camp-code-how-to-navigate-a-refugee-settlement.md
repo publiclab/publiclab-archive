@@ -8,11 +8,15 @@ uid: 43867
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/015/831/original/mansell-camp-code-18-1020x1020.jpg)
+
 # Camp Code: How to navigate a refugee settlement
 
 by [clauds](../profile/clauds) April 28, 2016 14:46
 
 April 28, 2016 14:46 | Tags: [blog](../tag/blog), [bourjalshamali](../tag/bourjalshamali)
+
+----
 
 This blog post is the beginning of an [article ](https://placesjournal.org/article/camp-code/) published at [Places Journal](https://placesjournal.org/) on 5 April 2016\. It is about Bourj Al Shamali refugee camp and provides background understanding of the situation in the camp where recently a [Public Lab Chapter](https://publiclab.org/notes/clauds/09-03-2015/a-public-lab-chapter-in-bourj-al-shamali) was set up. For the full version of the article (with all the foot notes, photos and links), please refer to original [article](https://placesjournal.org/article/camp-code/) in Places Journal.
 

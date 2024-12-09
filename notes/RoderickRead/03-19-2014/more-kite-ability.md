@@ -8,11 +8,15 @@ uid: 421588
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/003/317/original/kite_control_frame_grab.jpg)
+
 # More kite ability
 
 by [RoderickRead](../profile/RoderickRead) March 19, 2014 10:47
 
 March 19, 2014 10:47 | Tags: [kite](../tag/kite), [kap](../tag/kap), [design](../tag/design), [energy](../tag/energy), [steering](../tag/steering), [platform](../tag/platform), [first-time-poster](../tag/first-time-poster)
+
+----
 
 I'd like to share research in kite functionality. 
 

@@ -8,11 +8,15 @@ uid: 50508
 
 ---
 
+![](https://publiclab.org/sites/default/files/fluorescentDVD.png)
+
 # The comparison of DVD and CD using halogen, incandescent, and fluorescent lamps 
 
 by [chem350vsap](../profile/chem350vsap) March 28, 2013 16:19
 
 March 28, 2013 16:19 | Tags: [spectrometer](../tag/spectrometer), [spectralworkbench](../tag/spectralworkbench), [plots](../tag/plots), [cd](../tag/cd), [centre_college](../tag/centre_college), [fluorescent-lamp](../tag/fluorescent-lamp), [incandescent-lamp](../tag/incandescent-lamp), [halogen-lamp](../tag/halogen-lamp)
+
+----
 
 We were interested in determining what effect changing certain aspects of the spectrometer kit would have on the quality of our spectra and if other options were viable.  We compared different diffraction gratings (CD versus DVD) as well as light sources (incandescent, halogen and fluorescent).  We found that the prescribed combination of DVD grating with fluorescent light source did provide the best spectra, but that the CD/fluorescent combination also provided adequate results.
 The materials we tested included a red tinted blank CD, a blank DVD, a halogen lamp, an incandescent lamp and a compact fluorescent lamp.  The instructions provided on the publiclaboratory website were followed for setup of the spectrometer and preparation of the DVD.  Preparation of the CD involved removing the top red (in our case) reflective layer which the labels are imprinted.  To accomplish this, a combination of removal by tape and scraping was used, and the touching of the disk was avoided to eliminate fingerprint interference.  Areas that were scraped were not selected for the 1 inch square required for the spectrometer grating.  The clearest area of the CD remaining was chosen to avoid interference issues.  No special setup was required for the different light sources, although some adjustments were made for the varying intensities.  The distance between the slit and source was adjusted for each lamp until the intensity was at an appropriate level and as equal as possible to each other.

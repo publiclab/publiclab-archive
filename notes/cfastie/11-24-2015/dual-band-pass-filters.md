@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/013/016/original/interferencefiltersfigure8.jpg)
+
 # Dual bandpass filters
 
 by [cfastie](../profile/cfastie) November 24, 2015 04:01
 
 November 24, 2015 04:01 | Tags: [ndvi](../tag/ndvi), [infrared](../tag/infrared), [filter](../tag/filter), [infragram](../tag/infragram), [plant-health](../tag/plant-health), [response:12134](../tag/response:12134), [dualband](../tag/dualband), [midopt](../tag/midopt)
+
+----
 
 *Above: I don't really understand how interference filters work, and I'm pretty sure the person who drew this diagram didn't either. [source](http://www.olympusmicro.com/primer/techniques/fluorescence/interferencefilterintro.html)*
 

@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/007/382/original/KAPtober-538-26.jpg)
+
 # The KAPtober Collection
 
 by [cfastie](../profile/cfastie) October 08, 2014 23:08
 
 October 08, 2014 23:08 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [ndvi](../tag/ndvi), [vermont](../tag/vermont), [infragram](../tag/infragram), [gigapan](../tag/gigapan), [titan](../tag/titan), [redstone](../tag/redstone), [response:11103](../tag/response:11103)
+
+----
 
 This weekend I hosted some family in Vermont and we combined leaf peeping with kite photography. We flew all five rigs in the KAPtober Collection which has just been posted at the [KAPtery](http://kaptery.com/). The KAPtober Collection includes three dual-camera infrared rigs and two single camera rigs, and we captured oblique aerial photos and some vertical mapping photos. The KAPtober Collection incorporates higher quality cameras than I usually use, including the Canon PowerShot S100. The S100 seems to be the ideal camera for kite and balloon photography.  
 .  

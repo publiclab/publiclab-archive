@@ -8,11 +8,15 @@ uid: 53164
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/001/398/original/IMG_20130826_090525.jpg)
+
 # Killing plants for fun and science
 
 by [gbathree](../profile/gbathree) September 05, 2013 12:49
 
 September 05, 2013 12:49 | Tags: [fluorescence](../tag/fluorescence), [photosynthesis](../tag/photosynthesis), [photosynq](../tag/photosynq)
+
+----
 
 In getting ready for our trip to the Open Hardware Summit, we wanted to create some short wizbang experiments to show what Photosynq can do.  These experiments are focused around measuring pulse modulated fluorescence (find more about it on our ‘how it works‘ page, or this more in depth but accessible summary), which can distinguish between stuff that’s has active photosynthesis (like plants and things that are alive) from stuff that just fluoresces (like white paper and laundry detergents).   We also want to create more experiments to show off the CO2 sensor and other stuff, but this is what we’ve got so far.
 

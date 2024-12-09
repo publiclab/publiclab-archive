@@ -14,6 +14,8 @@ by [marlokeno](../profile/marlokeno) September 02, 2017 18:45
 
 September 02, 2017 18:45 | Tags: [neighborhood](../tag/neighborhood), [mapping](../tag/mapping), [database](../tag/database), [air-quality](../tag/air-quality), [water-quality](../tag/water-quality), [toxic-waste](../tag/toxic-waste), [pollution](../tag/pollution), [data-collection](../tag/data-collection), [emissions](../tag/emissions), [answered](../tag/answered), [airpollution](../tag/airpollution), [oil-pollution](../tag/oil-pollution), [harvey](../tag/harvey), [question:harvey](../tag/question:harvey), [question:emissions](../tag/question:emissions)
 
+----
+
 What's a chemical plant neighbor to do?   
 
 How can I make or find maps of pollution from public data for hurricanes, disasters, or neighborhood knowledge?  

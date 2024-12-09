@@ -14,4 +14,6 @@ by [gonzoearth](../profile/gonzoearth) December 30, 2011 15:48
 
 December 30, 2011 15:48 | Tags: 
 
+----
+
 <a href="http://apb.directionsmag.com/entry/congress-noaa-should-explore-charging-for-its-satellite-data/223227">http://apb.directionsmag.com/entry/congress-noaa-should-explore-charging-for-its-satellite-data/223227</a>

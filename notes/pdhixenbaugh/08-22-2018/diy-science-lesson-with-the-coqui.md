@@ -8,11 +8,15 @@ uid: 459085
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/026/290/original/IMG_20180807_103523250.jpg)
+
 # DIY Science Lesson with the Coqui
 
 by [pdhixenbaugh](../profile/pdhixenbaugh) August 22, 2018 21:53
 
 August 22, 2018 21:53 | Tags: [education](../tag/education), [curriculum](../tag/curriculum), [classroom](../tag/classroom), [water-quality](../tag/water-quality), [water](../tag/water), [tutorial](../tag/tutorial), [conductivity](../tag/conductivity), [open-water](../tag/open-water), [barnstar:excessive-enthusiasm](../tag/barnstar:excessive-enthusiasm), [coqui](../tag/coqui), [tutorials](../tag/tutorials), [activity:education](../tag/activity:education), [activity:classroom](../tag/activity:classroom), [replication:13459](../tag/replication:13459), [environmental-education](../tag/environmental-education), [teens](../tag/teens), [lesson](../tag/lesson), [activity:coqui-usage](../tag/activity:coqui-usage), [activity:edu-coqui](../tag/activity:edu-coqui)
+
+----
 
 ## What I want to do
 

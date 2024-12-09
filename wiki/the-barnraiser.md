@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/012/830/original/tmp_14213-IMG_20151120_092643_2-1798270724.jpg)
+
 # The Barnraiser
 
 by [warren](../profile/warren), [liz](../profile/liz), [stevie](../profile/stevie), [lombana](../profile/lombana), [patcoyle](../profile/patcoyle)
 
 November 05, 2015 17:27 | Tags: [barnraising](../tag/barnraising), [doccom](../tag/doccom), [barnraiser](../tag/barnraiser), [barnraising-2015](../tag/barnraising-2015), [parent:doccom](../tag/parent:doccom)
+
+----
 
 The Barnraiser is a 1-page daily "newspaper" we're publishing during the [PL Barnraising](/barnraising) as part of the Documentation Committee (DocCom). 
 
@@ -25,7 +29,7 @@ We see it as a lighthearted (but hard-hitting journalistic) way to summarize and
 
 ## Questions
 
-[questions:barnraiser]
+[barnraiser](../../tag/question:barnraiser)
 
 ****
 
@@ -35,7 +39,7 @@ Download the Reporter's Worksheet here: <a href="/i/29583"><i class="fa fa-file"
 
 
 
-[activities:barnraiser]
+[barnraiser](../../tag/activity:barnraiser)
 
 ****
 

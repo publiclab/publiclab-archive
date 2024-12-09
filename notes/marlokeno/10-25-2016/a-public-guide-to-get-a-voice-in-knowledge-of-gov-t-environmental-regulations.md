@@ -8,11 +8,15 @@ uid: 420760
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/018/565/original/getting-public-info.jpg)
+
 # a public guide to get a voice in & knowledge of  gov't environmental  regulations
 
 by [marlokeno](../profile/marlokeno) October 25, 2016 16:06
 
 October 25, 2016 16:06 | Tags: 
+
+----
 
 ###Make a guide for public input options on local environment:
 from the public for the public.

@@ -8,11 +8,15 @@ uid: 441262
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/020/265/original/PUBLIC_LAB_NEWS%282%29.png)
+
 # Public Lab Community Newsletter: April 2017
 
 by [klie](../profile/klie) April 28, 2017 22:40
 
 April 28, 2017 22:40 | Tags: [newsletter](../tag/newsletter), [events](../tag/events), [frac-sand](../tag/frac-sand), [edgi](../tag/edgi)
+
+----
 
 ####**Are you subscribed?**
 We send this out monthly to your inboxes in addition to sharing it on [publiclab.org](http://publiclab.org)! 

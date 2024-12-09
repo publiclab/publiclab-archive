@@ -14,4 +14,6 @@ by [gonzoearth](../profile/gonzoearth) June 21, 2012 18:40
 
 June 21, 2012 18:40 | Tags: 
 
+----
+
 <a href="http://apb.directionsmag.com/entry/nsf-changes-how-geography-and-spatial-sciences-grants-are-handled/261128">http://apb.directionsmag.com/entry/nsf-changes-how-geography-and-spatial-sciences-grants-are-handled/261128</a>

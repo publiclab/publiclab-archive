@@ -8,11 +8,15 @@ uid: 580179
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/030/759/original/code.jpg)
+
 # Outreachy proposal: PublicLab.org UI Improvements
 
 by [Getty](../profile/Getty) March 26, 2019 12:28
 
 March 26, 2019 12:28 | Tags: [ui](../tag/ui), [outreachy](../tag/outreachy), [first-time-poster](../tag/first-time-poster), [outreachy-2019](../tag/outreachy-2019), [outreachy-2019-proposals](../tag/outreachy-2019-proposals), [lat:-1.406108](../tag/lat:-1.406108), [lon:36.914062](../tag/lon:36.914062)
+
+----
 
 About me  
 

@@ -8,11 +8,15 @@ uid: 304279
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/025/083/original/CCD1.jpg)
+
 # Updating the WheeTrometer: Code for running the CCD.
 
 by [JSummers](../profile/JSummers) June 03, 2018 18:15
 
 June 03, 2018 18:15 | Tags: [spectrometer](../tag/spectrometer), [spectroscopy](../tag/spectroscopy), [wheetrometer](../tag/wheetrometer)
+
+----
 
 [](/tag/GOAL)
 

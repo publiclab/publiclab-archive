@@ -8,11 +8,15 @@ uid: 4
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/002/972/original/SaltLot.jpg)
+
 # Eymund Diegel Finds the Fun in Super Fund (GMF #4)
 
 by [mathew](../profile/mathew) February 21, 2014 00:20
 
 February 21, 2014 00:20 | Tags: [new-york-city](../tag/new-york-city), [gmf](../tag/gmf), [gowanus-canal](../tag/gowanus-canal), [brooklyn](../tag/brooklyn), [interview](../tag/interview), [northeast](../tag/northeast)
+
+----
 
 This is an interview by [Shannon Dosemagen](/profile/shannon) of [Eymund Diegel](/profile/eymund-diegel) from [Grassroots Mapping Issue #4.](/notes/mathew/02-20-2014/grassroots-mapping-forum-4-in-print)   buy a copy [here.](http://store.publiclab.org/collections/publications/products/grassroots-mapping-forum-issue-4)
 

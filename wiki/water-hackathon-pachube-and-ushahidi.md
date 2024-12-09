@@ -14,6 +14,8 @@ by [liz](../profile/liz), [lpercifield](../profile/lpercifield)
 
 February 21, 2012 21:14 | Tags: [new-york-city](../tag/new-york-city), [water-quality](../tag/water-quality), [water](../tag/water), [thermal-fishing-bob](../tag/thermal-fishing-bob), [water-quality-sensor](../tag/water-quality-sensor)
 
+----
+
 <img src="https://farm7.staticflickr.com/6223/6998423199_4258ef0ce9.jpg" alt="" />
 <a href="https://www.flickr.com/photos/recordandremember/sets/72157629295267674/">Photos from the event</a>
 

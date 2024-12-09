@@ -3,6 +3,8 @@ uid: 678362
 created_at: 2020-03-29 02:11:05 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/411f00a88fffa4d595bd0446212f1d5a)
+
 # 2globalvillage
 
 

@@ -3,6 +3,8 @@ uid: 668997
 created_at: 2020-02-27 04:27:40 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/1df9fe92ab23cad73b0893b92a1d05b4)
+
 # porteric
 
 

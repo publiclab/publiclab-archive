@@ -8,11 +8,15 @@ uid: 9
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/008/729/original/plots-logo-transparent.jpg)
+
 # Public Lab community newsletter 1.23.15
 
 by [Shannon](../profile/Shannon) January 23, 2015 21:37
 
 January 23, 2015 21:37 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
+
+----
 
 This week in the Public Lab community newsletter, get ready for a packed month ahead with several events happening from Vancouver to New Orleans. As a reminder, the [February Open Hour](http://www.publiclab.org/wiki/openhour) will feature the topic of lending libraries, creating a centralized location for equipment to be borrowed and shared. Please join on February 2nd at 1pm est. Enjoy!
 

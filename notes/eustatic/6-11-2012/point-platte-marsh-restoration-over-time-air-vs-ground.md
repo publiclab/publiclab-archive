@@ -8,11 +8,15 @@ uid: 379
 
 ---
 
+![](https://publiclab.org/sites/default/files/IMG_0653.JPG)
+
 # Point Platte marsh restoration over time; air vs ground
 
 by [eustatic](../profile/eustatic) June 12, 2012 03:54
 
 June 12, 2012 03:54 | Tags: [balloon-mapping](../tag/balloon-mapping)
+
+----
 
 Marsh restoration over time, by land, sea, and air
 

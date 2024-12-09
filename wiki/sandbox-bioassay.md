@@ -14,6 +14,8 @@ by [bhamster](../profile/bhamster)
 
 February 12, 2021 19:31 | Tags: 
 
+----
+
 ## What’s a bioassay and how does it work?
 
 **A bioassay is a method that uses plants, animals, or other living things to measure the harmful effects of environmental pollution.**
@@ -132,19 +134,19 @@ BUT! <b>Is it possible to break this method down into separate components and ma
 
 ## Questions
 
-[questions:bioassay]
+[bioassay](../../tag/question:bioassay)
 
 <br>
 
 ## Research notes
 
-[notes:bioassay]
+[bioassay](../../tag/bioassay)
 
 <br>
 
 ## Activities
 
-[activities:bioassay]
+[bioassay](../../tag/activity:bioassay)
 
 <br>
 <br>

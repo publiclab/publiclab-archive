@@ -8,11 +8,15 @@ uid: 425591
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/005/360/original/DSCN0554.JPG)
+
 #  Sensing Hydrogen Sulfide from CAFO Emissions in Poweshiek County, Iowa
 
 by [sophie](../profile/sophie) July 16, 2014 15:54
 
 July 16, 2014 15:54 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](../tag/hydrogen-sulfide), [air-quality](../tag/air-quality), [h2s](../tag/h2s), [hydrogen-sulfide-testing](../tag/hydrogen-sulfide-testing), [cafo](../tag/cafo), [barnstar:empiricism](../tag/barnstar:empiricism), [midwest](../tag/midwest), [h2s-photopaper](../tag/h2s-photopaper), [activity:h2s](../tag/activity:h2s), [activity:h2s-photopaper](../tag/activity:h2s-photopaper), [livestock](../tag/livestock), [iowa](../tag/iowa), [first-time-poster](../tag/first-time-poster)
+
+----
 
 ##Background
 In Poweshiek County, Iowa, there are over 45 confined animal feeding operations, and due to their waste management strategies emissions from the manure, including hydrogen sulfide, often become airborne and reach people living in adjacent communities. The legal limit of hydrogen sulfide in Poweshiek County is 30 ppb for one hour up to seven times per year, and this summer a research group from the University of Iowa is monitoring H2S levels at nearby homes to determine whether levels are in fact within those permitted by the law. As a part of my contribution to this project, I am evaluating whether the DIY photographic paper method of H2S sampling originally designed by Claire Horwell et al. can be applied to CAFO emissions, specifically at levels at or below 30 ppb. I will deploy my samplers side-by-side with the conventional passive samplers in order to calibrate them. It is my hope that, if this method is successful, people living near CAFOs will be able to easily collect reliable data to find out whether they are at any risk from H2S exposure.

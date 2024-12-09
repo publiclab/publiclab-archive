@@ -8,11 +8,15 @@ uid: 420999
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/020/977/original/CIMG1264.JPG)
+
 # Monitor transparency, dissolved oxygen, ORP, and ammonia from a river
 
 by [shanlter](../profile/shanlter) July 03, 2017 02:14
 
 July 03, 2017 02:14 | Tags: [water-quality](../tag/water-quality), [water-monitoring](../tag/water-monitoring), [turbidity](../tag/turbidity), [dissolved-oxygen](../tag/dissolved-oxygen), [river](../tag/river), [transparency](../tag/transparency), [orp](../tag/orp), [ammonia](../tag/ammonia), [water-sensors](../tag/water-sensors), [location:blurred](../tag/location:blurred), [secchi-disk](../tag/secchi-disk), [lat:23](../tag/lat:23), [lon:113](../tag/lon:113), [place:china](../tag/place:china), [wastewater-organic-matter](../tag/wastewater-organic-matter)
+
+----
 
 In 2015, Chinese government launched an ambitious regulation "Action Plan for Water Pollution Prevention and Control". In which, according to the central government, the **"black and smelly river"** in provincial cities will be eliminated by the end of 2017, will be controlled within 10% in prefecture-level cities by the end of 2020, and will be cleaned up in all cities by the end of 2030\.
 This is a pretty big thing, we heard governmental actions often, and do notice the government have put a lot of effort on it.  

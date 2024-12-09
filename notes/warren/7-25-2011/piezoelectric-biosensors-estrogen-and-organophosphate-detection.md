@@ -14,6 +14,8 @@ by [warren](../profile/warren) July 25, 2011 17:35
 
 July 25, 2011 17:35 | Tags: [estrogen](../tag/estrogen), [organophosphates](../tag/organophosphates), [biosensors](../tag/biosensors), [piezoelectric](../tag/piezoelectric)
 
+----
+
 > There are several commercial piezoelectric biosensors available from companies such as Elchema (Potsdam, NY) and Maxtek (Torrance, CA) which have been used to test for substances like estrogen and organophosphates (29, 102)
 
 Source: http://scholarcommons.usf.edu/etd/889/

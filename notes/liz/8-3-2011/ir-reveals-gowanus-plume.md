@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/sites/default/files/6006190104_c024a5c028_b.jpg)
+
 # Infrared balloon image reveals Gowanus plume
 
 by [liz](../profile/liz) August 03, 2011 18:32
 
 August 03, 2011 18:32 | Tags: [gowanus](../tag/gowanus), [nrg](../tag/nrg), [infrared](../tag/infrared), [plume](../tag/plume), [watchdog](../tag/watchdog), [great-photos](../tag/great-photos)
+
+----
 
 Two photos (one visible, one near-infrared) taken by balloon aerial rig on Sunday July 31 were composited to reveal this plume.
 

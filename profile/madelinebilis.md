@@ -3,6 +3,8 @@ uid: 428057
 created_at: 2014-09-08 00:50:38 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/a98610c678b3cfc7f43feaeaa53492a5)
+
 # madelinebilis
 
 I'm an aspiring tech reporter and I love to learn.

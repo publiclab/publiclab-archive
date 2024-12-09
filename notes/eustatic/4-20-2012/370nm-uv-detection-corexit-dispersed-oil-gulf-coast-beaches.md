@@ -8,11 +8,15 @@ uid: 379
 
 ---
 
+![](https://publiclab.org/sites/default/files/surfrider_fdt_uv_pah_contamination.jpg)
+
 # 370nm UV detection of Corexit-dispersed oil on Gulf Coast Beaches
 
 by [eustatic](../profile/eustatic) April 20, 2012 23:51
 
 April 20, 2012 23:51 | Tags: [gulf-coast](../tag/gulf-coast), [spectrometer](../tag/spectrometer), [uv](../tag/uv), [oil](../tag/oil), [ultraviolet](../tag/ultraviolet), [fluorescence](../tag/fluorescence), [surfrider](../tag/surfrider), [corexit](../tag/corexit)
+
+----
 
 James "Rip" Kirby, USF, of The Emerald Coast Chapter of Surfrider, a beach advocacy organization, has published a report wherein UV light was used to screen for BP oil, which was largely dispersed with Corexit 9500A/9527.  
 

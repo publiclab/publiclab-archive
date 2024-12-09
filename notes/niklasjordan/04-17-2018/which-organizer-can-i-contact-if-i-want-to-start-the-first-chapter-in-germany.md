@@ -14,6 +14,8 @@ by [niklasjordan](../profile/niklasjordan) April 17, 2018 07:22
 
 April 17, 2018 07:22 | Tags: [chapters](../tag/chapters), [eu](../tag/eu), [getting-started](../tag/getting-started), [answered](../tag/answered), [germany](../tag/germany), [question:chapters](../tag/question:chapters), [first-time-poster](../tag/first-time-poster)
 
+----
+
 On the wiki page for "Start a chapter" it says that I should contact an organizer near me:  
   
 

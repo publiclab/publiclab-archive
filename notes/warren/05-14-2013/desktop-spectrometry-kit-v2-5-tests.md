@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/000/273/original/IMG_0518.JPG)
+
 # Desktop Spectrometry Kit v2.5 tests
 
 by [warren](../profile/warren) May 14, 2013 21:19
 
 May 14, 2013 21:19 | Tags: [spectrometer](../tag/spectrometer), [kit](../tag/kit), [dsk](../tag/dsk), [sanm](../tag/sanm)
+
+----
 
 We're upgrading the kits in a few weeks, and I just put one of our new Sanm webcams in a box at the right angle, and am testing it all out. Just wanted to share some photos -- more details coming soon!
 

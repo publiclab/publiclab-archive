@@ -14,6 +14,8 @@ by [bhamster](../profile/bhamster)
 
 March 19, 2021 18:23 | Tags: 
 
+----
+
 A soil contaminant is an element (also known as ‘heavy metals’ or inorganic contaminants, e.g. lead) or a chemical (also known as ‘organics’, e.g. diesel oil) present in the soil at a level that poses health risks to plant, animal or human health. Common soil contaminants include heavy metals, pesticides, polychlorinated biphenyls (PCBs), polycyclic aromatic hydrocarbons (PAHs), and petroleum products.
 
 This page is a place to collect and organize resources on investigating soil pollution. Visit the [soil tag page](https://publiclab.org/tag/soil) to see the latest community posts about soil on Public Lab, and get updates on this topic by subscribing:
@@ -82,7 +84,7 @@ Public Lab community projects tagged with `soil-projects` will appear here
 
 Questions tagged with `question:soil` will appear here
 
-[questions:soil]
+[soil](../../tag/question:soil)
 
 <br>
 
@@ -100,7 +102,7 @@ The Public Lab community is here to support people as they plan and carry out in
 
 Here are some activities for getting started with examining your soil. They involve gathering information that can help you make decisions about what to do next. 
 
-[notes:grid:activity:getting-started-soil]
+[grid:activity:getting-started-soil](../../tag/grid:activity:getting-started-soil)
 
 <br>
 
@@ -263,7 +265,7 @@ Wiki pages tagged with `interpret-soil-tests` will appear here
 
 Activities on Public Lab that have been tagged with `activity:soil` will appear here
 
-[activities:soil]
+[soil](../../tag/activity:soil)
 
 
 <hr style="height:5px;border-width:0;color:gray;background-color:gray">

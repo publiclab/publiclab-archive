@@ -8,11 +8,15 @@ uid: 427257
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/007/063/original/IMG_5190.JPG)
+
 # GLAM Event 9/27/14
 
 by [yvv](../profile/yvv) September 29, 2014 04:44
 
 September 29, 2014 04:44 | Tags: [new-york-city](../tag/new-york-city), [balloon-mapping](../tag/balloon-mapping), [gowanus](../tag/gowanus), [brooklyn](../tag/brooklyn), [mapping](../tag/mapping), [glam](../tag/glam), [superfund](../tag/superfund), [northeast](../tag/northeast), [canal](../tag/canal), [altitude](../tag/altitude), [conservancy](../tag/conservancy), [low](../tag/low)
+
+----
 
 Thank you to everyone who participated in Saturday's GLAM Event, it was a great success!
 

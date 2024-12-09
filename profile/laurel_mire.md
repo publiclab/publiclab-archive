@@ -3,6 +3,8 @@ uid: 759178
 created_at: 2021-06-07 19:51:14 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/8368344c0d91bf6a35e42bcbe1e39d8f)
+
 # laurel_mire
 
 Hi! My name is Laurel Mire, and I'm an aspiring environmental scientist and a Public Lab land research curation fellow. Let's chat!

@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/021/755/original/thermal-flashlight.gif)
+
 # Thermal Flashlight
 
 by [warren](../profile/warren)
 
 March 02, 2014 17:02 | Tags: [thermal-photography](../tag/thermal-photography), [arduino](../tag/arduino), [thermal-flashlight](../tag/thermal-flashlight), [thermal](../tag/thermal), [heat](../tag/heat), [method](../tag/method), [parent:thermal-photography](../tag/parent:thermal-photography)
+
+----
 
 A "Thermal Flashlight" is a DIY device which lets you do a kind of "light painting" -- [thermal photography](/wiki/thermal-photography). It produces a colored "heat map" overlaid directly onto a photo of a room. This is the simplest, cheapest, and to date, most effective way we have developed of measuring heat leaks or cool leaks indoors and outdoors. Simply put, the "flashlight" puts out redder light if it's pointed at something hot (default 75 deg F or more) and bluer light if it's pointed at something cold *(default 60 deg F or less).
 
@@ -27,18 +31,18 @@ The Melexis MLX90614 digital thermometer used in this kit can be found in a few 
 
 There are a few versions of the thermal flashlight:
 
-[notes:grid:activity:thermal-flashlight-assembly]
+[grid:activity:thermal-flashlight-assembly](../../tag/grid:activity:thermal-flashlight-assembly)
 
 
 ### Questions
 
-[questions:thermal-flashlight]
+[thermal-flashlight](../../tag/question:thermal-flashlight)
 
 ****
 
 ### Activities
 
-[activities:thermal-flashlight]
+[thermal-flashlight](../../tag/activity:thermal-flashlight)
 
 
 ****
@@ -113,7 +117,7 @@ If you are starting an electronics kit from scratch:
 
 All research on PublicLab.org about the thermal flashlight project:
 
-[notes:thermal-flashlight]
+[thermal-flashlight](../../tag/thermal-flashlight)
 
 ****
 

@@ -3,6 +3,8 @@ uid: 746385
 created_at: 2021-03-12 15:23:45 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/8fe3e94ebdf772d55da71a5e6a2928fa)
+
 # louisferreira12
 
 

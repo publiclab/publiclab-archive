@@ -14,6 +14,8 @@ by [Kalarav](../profile/Kalarav) August 19, 2017 07:14
 
 August 19, 2017 07:14 | Tags: [ndvi](../tag/ndvi), [nera-infrared](../tag/nera-infrared)
 
+----
+
 Hello to all, 
 I am An Embedded enthusiast  right now I’m working on to find NDVI images and it's index.
 I have already purchased Infagram plant camera and lens to explore it.

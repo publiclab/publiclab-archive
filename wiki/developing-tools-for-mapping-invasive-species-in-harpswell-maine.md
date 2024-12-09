@@ -14,6 +14,8 @@ by [ajawitz](../profile/ajawitz)
 
 February 03, 2014 21:11 | Tags: [grassrootsmapping](../tag/grassrootsmapping), [citizen-science](../tag/citizen-science), [invasives](../tag/invasives), [invasive-species](../tag/invasive-species), [civic-hacking](../tag/civic-hacking)
 
+----
+
 #Invasive Species Mapping in Maine
 
 ##Location=Casco Bay/Portland

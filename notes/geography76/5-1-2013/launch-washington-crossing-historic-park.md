@@ -8,11 +8,15 @@ uid: 176
 
 ---
 
+![](https://publiclab.org/sites/default/files/mia_sean.jpg)
+
 # Launch at Washington Crossing Historic Park
 
 by [geography76](../profile/geography76) May 01, 2013 14:18
 
 May 01, 2013 14:18 | Tags: [philadelphia](../tag/philadelphia), [events:philadelphia](../tag/events:philadelphia)
+
+----
 
 This was a "train-the-trainer" practice launch 10 days before our <a href="http://publiclab.org/notes/geography76/5-1-2013/balloon-mapping-workshop-during-philly-tech-week-0">Philly Tech Week Balloon Mapping Workshop</a>. Sean McGinnis and I invited four other workshop facilitators -- Sarah Cordivano, Erika Owens, Daniel Bergey, and Dave Walk -- to Washington Crossing Historic Park for an early morning balloon flight. My five-year-old daughter joined us.
 

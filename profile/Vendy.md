@@ -3,6 +3,8 @@ uid: 524682
 created_at: 2018-02-08 11:22:52 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/54c3b299903d13653299907da94c20fc)
+
 # Vendy
 
 AN Alternatives Finder At <a href="https://alternativesfind.com">AlternativeFind</a>

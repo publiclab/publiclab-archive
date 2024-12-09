@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/037/727/original/pl-narrow.png)
+
 # Anonymity
 
 by [warren](../profile/warren), [liz](../profile/liz), [xose](../profile/xose)
 
 June 02, 2017 18:21 | Tags: [community](../tag/community), [security](../tag/security), [metadata](../tag/metadata), [privacy](../tag/privacy), [method](../tag/method), [anonymity](../tag/anonymity), [personal-information](../tag/personal-information), [anonymizing](../tag/anonymizing), [risk](../tag/risk), [threat-model](../tag/threat-model), [risk-assessment](../tag/risk-assessment), [parent:security](../tag/parent:security)
+
+----
 
 Anonymity and privacy on the web are a complex set of issues, and while many people use their true identities on the internet, others may have good reasons to remain anonymous, or simply choose to remain so. 
 
@@ -106,7 +110,7 @@ Of course, it's your choice to share personal or identifying information if you 
 
 If you have questions, you can post them here (being sure not to share private information as you do!) or email **staff@publiclab.org** for more information.
 
-[questions:anonymity]
+[anonymity](../../tag/question:anonymity)
 
 ****
 

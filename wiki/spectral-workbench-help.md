@@ -14,6 +14,8 @@ by [warren](../profile/warren), [ScottC](../profile/ScottC)
 
 March 05, 2012 18:25 | Tags: [spectrometer](../tag/spectrometer), [spectralworkbench](../tag/spectralworkbench), [export](../tag/export), [parent:spectral-workbench](../tag/parent:spectral-workbench), [graph](../tag/graph)
 
+----
+
 ##Quick Links
 
 * [Construction](/wiki/spectrometer-construction)

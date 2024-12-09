@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/024/832/original/satellite.svg)
+
 # All Summer of Code convening Live Call
 
 by [liz](../profile/liz) May 07, 2018 16:21
 
 May 07, 2018 16:21 | Tags: [event](../tag/event), [gsoc](../tag/gsoc), [software-outreach](../tag/software-outreach), [soc](../tag/soc), [soc-18](../tag/soc-18), [gsoc-18](../tag/gsoc-18)
+
+----
 
 _Lead image from https://summerofcode.withgoogle.com/_
 

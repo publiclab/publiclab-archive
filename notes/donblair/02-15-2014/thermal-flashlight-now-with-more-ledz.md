@@ -8,11 +8,15 @@ uid: 43651
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/002/923/original/large_i.png)
+
 # Thermal flashlight -- now with more LEDz!
 
 by [donblair](../profile/donblair) February 15, 2014 17:55
 
 February 15, 2014 17:55 | Tags: [thermal-photography](../tag/thermal-photography), [thermal-flashlight](../tag/thermal-flashlight), [led](../tag/led), [igloo](../tag/igloo), [snowfest](../tag/snowfest), [snowfest2014](../tag/snowfest2014)
+
+----
 
 ###What I want to do
 

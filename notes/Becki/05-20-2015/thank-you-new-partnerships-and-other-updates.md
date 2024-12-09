@@ -8,11 +8,15 @@ uid: 46673
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/009/922/original/All_Logos_May_2015_Announcement.png)
+
 # THANK YOU, new partnerships, and other updates
 
 by [Becki](../profile/Becki) May 20, 2015 21:28
 
 May 20, 2015 21:28 | Tags: 
+
+----
 
 Hello Public Lab community!
 

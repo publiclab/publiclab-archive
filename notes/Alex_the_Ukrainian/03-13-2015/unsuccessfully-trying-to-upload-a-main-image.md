@@ -14,6 +14,8 @@ by [Alex_the_Ukrainian](../profile/Alex_the_Ukrainian) March 13, 2015 21:20
 
 March 13, 2015 21:20 | Tags: [troubleshooting](../tag/troubleshooting), [request](../tag/request), [vista](../tag/vista), [ie8](../tag/ie8)
 
+----
+
 I’m new to the PublicLab website.
 My first post was made yesterday – with somewhat 50% success. The text appeared on the website almost immediately, several attempts to upload an image were unsuccessful.
 

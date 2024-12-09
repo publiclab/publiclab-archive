@@ -8,11 +8,15 @@ uid: 481
 
 ---
 
+![](https://publiclab.org/sites/default/files/Alpaqueros_Jayllihauha.jpg)
+
 # Kite Mapping Workshops in Puno, Peru’s Altiplano – Pt. 1: Alpaca Farmers 
 
 by [anita](../profile/anita) March 21, 2012 17:12
 
 March 21, 2012 17:12 | Tags: [peru](../tag/peru), [self-made-kite-mapping](../tag/self-made-kite-mapping), [diy-kite](../tag/diy-kite), [south-america](../tag/south-america)
+
+----
 
 (traducion al espanol abajo)
 

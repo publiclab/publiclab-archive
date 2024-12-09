@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/004/074/original/Screen_Shot_2014-05-06_at_3.01.42_PM.png)
+
 # EcoHack in four global locations
 
 by [liz](../profile/liz) May 06, 2014 19:06
 
 May 06, 2014 19:06 | Tags: [new-york-city](../tag/new-york-city), [ecohack](../tag/ecohack), [san-francisco](../tag/san-francisco), [spain](../tag/spain), [norcal](../tag/norcal), [madrid](../tag/madrid), [event](../tag/event), [brasil](../tag/brasil), [sao-paulo](../tag/sao-paulo)
+
+----
 
 **May 9-10, 2014**
 

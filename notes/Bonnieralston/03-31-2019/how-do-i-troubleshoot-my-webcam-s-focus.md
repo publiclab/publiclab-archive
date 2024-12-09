@@ -14,4 +14,6 @@ by [Bonnieralston](../profile/Bonnieralston) March 31, 2019 23:11
 
 March 31, 2019 23:11 | Tags: [community-microscope](../tag/community-microscope), [question:community-microscope](../tag/question:community-microscope), [first-time-poster](../tag/first-time-poster), [faq-community-microscope](../tag/faq-community-microscope)
 
+----
+
 Not sure exactly what happened, but the webcam no longer provides a clear image. Regardless of how I adjust the stage to bring the slide into focus, the image is blurry.

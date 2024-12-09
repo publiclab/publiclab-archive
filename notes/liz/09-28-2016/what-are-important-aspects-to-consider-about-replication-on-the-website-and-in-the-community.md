@@ -14,6 +14,8 @@ by [liz](../profile/liz) September 28, 2016 20:50
 
 September 28, 2016 20:50 | Tags: [question:activity](../tag/question:activity)
 
+----
+
 Hi folks!
 i'm posting this as a question because in conversation over the past week, many people have already contributed many perspectives on this topic, ranging from the scientific validity side, to the education and onboarding experience, the design of the web interface, and more. Please add your perspective as an "answer"! Thank you. 
 

@@ -14,6 +14,8 @@ by [jjoll](../profile/jjoll) June 28, 2017 13:23
 
 June 28, 2017 13:23 | Tags: [arduino](../tag/arduino), [spectrometry](../tag/spectrometry), [ccd](../tag/ccd), [question:spectrometry](../tag/question:spectrometry), [question:dssk](../tag/question:dssk), [question:arduino](../tag/question:arduino), [question:spectrometry-challenge](../tag/question:spectrometry-challenge)
 
+----
+
 ###What I want to do or know
 hi, 
 has anyone tried to connect Desktop Spectrometer to arduino? is there any online documentation on how to do that? and how to feed data to the arduino for further data processing and analyzing? 

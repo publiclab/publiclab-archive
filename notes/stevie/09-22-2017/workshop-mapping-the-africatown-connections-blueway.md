@@ -8,11 +8,15 @@ uid: 422561
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/021/748/original/balloon_and_rig_close_up.png)
+
 # Workshop: Mapping the Africatown Connections Blueway
 
 by [stevie](../profile/stevie) September 22, 2017 20:56
 
 September 22, 2017 20:56 | Tags: [gulf-coast](../tag/gulf-coast), [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [kite](../tag/kite), [mapping](../tag/mapping), [balloon](../tag/balloon), [event:rsvp](../tag/event:rsvp), [nas](../tag/nas), [mejac](../tag/mejac), [africatown](../tag/africatown), [alabama](../tag/alabama), [blueway](../tag/blueway), [africa-town](../tag/africa-town), [pritchard](../tag/pritchard)
+
+----
 
 _Lead image thanks to THE CROWD & THE CLOUD, CrowdAndCloud.org, supported by NSF, the National Science Foundation_
 

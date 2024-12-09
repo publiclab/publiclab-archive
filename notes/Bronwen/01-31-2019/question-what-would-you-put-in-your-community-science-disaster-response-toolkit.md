@@ -8,11 +8,15 @@ uid: 237313
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/029/133/original/Untitled_5.jpg)
+
 # Question: What would you put in your Community Science Disaster Response Toolkit?
 
 by [Bronwen](../profile/Bronwen) January 31, 2019 21:58
 
 January 31, 2019 21:58 | Tags: [emergency](../tag/emergency), [question:emergency-response](../tag/question:emergency-response), [question:question:toolkit](../tag/question:question:toolkit), [question:crisis-response](../tag/question:crisis-response), [question:rmediation](../tag/question:rmediation), [txbarnraising](../tag/txbarnraising)
+
+----
 
 This coming Monday we'll be having an [Open Hour][1] call to talk about what we'd want to include in a Community Science Disaster Response Toolkit, and then in February we'll be [gathering in Galveston, TX in February][2] to continue exploring ways to identify tools and methods that can be used to gather data about environmental impact before and after an environmental emergency, especially ones related to storms and floods. 
 

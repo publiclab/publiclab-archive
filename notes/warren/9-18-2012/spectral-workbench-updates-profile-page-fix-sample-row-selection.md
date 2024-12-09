@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/Screen shot 2012-09-18 at 8.38.14 AM.png)
+
 # Spectral Workbench updates: profile page fix & sample row selection
 
 by [warren](../profile/warren) September 18, 2012 12:40
 
 September 18, 2012 12:40 | Tags: [spectrometer](../tag/spectrometer), [spectralworkbench](../tag/spectralworkbench)
+
+----
 
 Many folks have been uploading images of spectra but the website was not specific about where it was going to take a slice to graph. Now there's a note [on the upload page](https://spectralworkbench.org/spectrums/new). This will be helpful for spectra like:
 

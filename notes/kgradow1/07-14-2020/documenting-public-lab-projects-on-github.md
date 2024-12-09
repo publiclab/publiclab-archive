@@ -8,11 +8,15 @@ uid: 297929
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/040/182/original/Screen_Shot_2020-07-14_at_2.20.22_PM.png)
+
 # Documenting Public Lab projects on Github
 
 by [kgradow1](../profile/kgradow1) July 14, 2020 18:17
 
 July 14, 2020 18:17 | Tags: [question:general](../tag/question:general), [general](../tag/general)
+
+----
 
 Hi all, my name is Katie.  I'm the Community Tech Fellow working on the bucket monitor project for Public Lab.  I'm circling back with some procedural questions on open hardware documentation!
 

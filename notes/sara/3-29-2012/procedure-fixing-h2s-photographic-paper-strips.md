@@ -8,11 +8,15 @@ uid: 8
 
 ---
 
+![](https://publiclab.org/sites/default/files/27603.jpeg)
+
 # Procedure for Fixing H2S photographic paper strips
 
 by [sara](../profile/sara) March 29, 2012 17:31
 
 March 29, 2012 17:31 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s), [h2s-photopaper](../tag/h2s-photopaper), [activity:h2s-photopaper](../tag/activity:h2s-photopaper)
+
+----
 
 Once test strips have been exposed to H2S laden air, the canisters containing the strips should be resealed so they can be fixed in a dark room.
 

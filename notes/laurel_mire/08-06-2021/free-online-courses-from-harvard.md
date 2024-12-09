@@ -14,6 +14,8 @@ by [laurel_mire](../profile/laurel_mire) August 06, 2021 21:17
 
 August 06, 2021 21:17 | Tags: [learning](../tag/learning), [fellows](../tag/fellows), [research-curation-fellows](../tag/research-curation-fellows)
 
+----
+
 I wanted to share a cool, free resource I came across the other day---online courses from Harvard University open to all!   
 
 Classes cover subject areas from data science and programming to art & design. They span from 15 minute webinars to 16 week long courses and are available at introductory up to advanced levels. Many are available now or open in the next month or two. Some courses also have an option to add a "Verified Certificate" for a fee, if you're interested.  

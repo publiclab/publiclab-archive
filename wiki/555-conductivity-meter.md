@@ -8,11 +8,15 @@ uid: 297929
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/005/248/original/20140712_143049.jpg)
+
 # 555-conductivity-meter
 
 by [warren](../profile/warren), [kgradow1](../profile/kgradow1)
 
 July 12, 2014 21:10 | Tags: [water-quality-monitoring](../tag/water-quality-monitoring), [water-quality](../tag/water-quality), [conductivity](../tag/conductivity), [riffle](../tag/riffle), [open-water](../tag/open-water), [555](../tag/555), [response:10538](../tag/response:10538), [response:10675](../tag/response:10675), [parent:open-water](../tag/parent:open-water), [coqui](../tag/coqui)
+
+----
 
 
 ###Project

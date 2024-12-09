@@ -8,11 +8,15 @@ uid: 422627
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/007/616/original/Scan_20141024.png)
+
 # Scanning Sticky Tape
 
 by [amysoyka](../profile/amysoyka) October 24, 2014 02:00
 
 October 24, 2014 02:00 | Tags: [air-quality](../tag/air-quality), [dust](../tag/dust), [particle-monitoring](../tag/particle-monitoring), [asbestos](../tag/asbestos)
+
+----
 
 ###What I want to do
 

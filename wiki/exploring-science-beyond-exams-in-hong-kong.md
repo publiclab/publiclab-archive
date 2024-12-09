@@ -14,6 +14,8 @@ by [mollydanielsson](../profile/mollydanielsson)
 
 March 20, 2015 23:27 | Tags: [open-source](../tag/open-source), [grassrootsmappingforum](../tag/grassrootsmappingforum), [hong-kong](../tag/hong-kong), [style:fancy](../tag/style:fancy), [with:liz](../tag/with:liz), [gmf-5](../tag/gmf-5), [guangzhou](../tag/guangzhou)
 
+----
+
 By Fan Lok-yi
 
 Published **Q2 2014** in the [Grassroots Mapping Forum #5](http://publiclab.org/forum)

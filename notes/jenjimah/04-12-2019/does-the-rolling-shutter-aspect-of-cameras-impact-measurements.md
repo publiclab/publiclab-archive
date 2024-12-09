@@ -8,11 +8,15 @@ uid: 505738
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/031/434/original/lm7HG.jpg)
+
 # Does the "rolling shutter" aspect of cameras impact measurements?
 
 by [jenjimah](../profile/jenjimah) April 12, 2019 18:53
 
 April 12, 2019 18:53 | Tags: [question:general](../tag/question:general), [response:18991](../tag/response:18991), [flicker](../tag/flicker), [banding](../tag/banding), [rolling](../tag/rolling), [shutter](../tag/shutter)
+
+----
 
 According to [Pi documentation][1], a rolling shutter means that the camera reads the sensor one line at a time. This is a quality of most, if not all, cameras without a physical shutter.
 

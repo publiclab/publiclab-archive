@@ -8,11 +8,15 @@ uid: 3
 
 ---
 
+![](https://publiclab.org/sites/default/files/USCB_SouthMerged.jpg)
+
 # Students map campus of University of South Carolina - Beaufort - South
 
 by [adam-griffith](../profile/adam-griffith) September 10, 2011 17:06
 
 September 10, 2011 17:06 | Tags: [southeast](../tag/southeast)
+
+----
 
 <strong>Overview</strong>
 

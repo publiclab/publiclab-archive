@@ -8,11 +8,15 @@ uid: 441262
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/010/651/original/sheen-testing.png)
+
 # Sprint Fellowship Application: Public Lab Oil Sheen Testing
 
 by [klie](../profile/klie) July 13, 2015 19:52
 
 July 13, 2015 19:52 | Tags: [oil-testing-kit](../tag/oil-testing-kit), [fellows](../tag/fellows), [response:11752](../tag/response:11752), [first-time-poster](../tag/first-time-poster)
+
+----
 
 #####Application due: September 25, 2015
 #####Dates of Fellowship: mid-October 2015 to mid-January 2016

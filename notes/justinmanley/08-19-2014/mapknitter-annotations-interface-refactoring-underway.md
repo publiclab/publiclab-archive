@@ -8,11 +8,15 @@ uid: 421556
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/006/328/original/Screenshot_from_2014-08-18_18_53_28.png)
+
 # MapKnitter Annotations: Interface Refactoring Underway
 
 by [justinmanley](../profile/justinmanley) August 19, 2014 00:03
 
 August 19, 2014 00:03 | Tags: [mapknitter](../tag/mapknitter), [map-annotations](../tag/map-annotations), [annotations](../tag/annotations)
+
+----
 
 ### Background ###
 

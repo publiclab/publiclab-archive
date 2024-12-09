@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/018/723/original/Screenshot_2016-11-05_at_8.12.04_PM.png)
+
 # Bridges between our community and our software contributors
 
 by [warren](../profile/warren) November 06, 2016 00:24
 
 November 06, 2016 00:24 | Tags: [community](../tag/community), [software](../tag/software), [outreach](../tag/outreach), [gsoc](../tag/gsoc), [web](../tag/web), [coding](../tag/coding), [wwg](../tag/wwg), [software-outreach](../tag/software-outreach)
+
+----
 
 First some background: over the past six months, we've seen a dramatic shift in how code is produced at Public Lab. We've received new contributions to [the PublicLab.org code repository][1] from 57 new contributors since August 1, (counting both issue creators and coders) -- a much higher rate than previously: compare to the total of 147 contributors for the lifetime of this software project, which goes back four years. You can see some of this activity on [GitHub Pulse][2].   
 

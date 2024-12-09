@@ -3,6 +3,8 @@ uid: 45471
 created_at: 2016-09-09 14:17:29 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/6588c82bd645c78b2a952c2950cc0a20)
+
 # BrentNewhall
 
 

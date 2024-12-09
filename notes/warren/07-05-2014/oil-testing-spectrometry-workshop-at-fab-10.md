@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/005/141/original/IMG_20140704_175642.jpg)
+
 # Oil testing spectrometry workshop at Fab 10
 
 by [warren](../profile/warren) July 05, 2014 09:42
 
 July 05, 2014 09:42 | Tags: [spectrometer](../tag/spectrometer), [workshop](../tag/workshop), [fluorescence](../tag/fluorescence), [response:8973](../tag/response:8973), [oil-testing-kit](../tag/oil-testing-kit), [fab10](../tag/fab10), [response:7117](../tag/response:7117), [response:10170](../tag/response:10170), [location:blurred](../tag/location:blurred), [lat:41.402](../tag/lat:41.402), [lon:2.187](../tag/lon:2.187), [zoom:16](../tag/zoom:16), [place:gl-ries-08018-barcelona-spain](../tag/place:gl-ries-08018-barcelona-spain)
+
+----
 
 I ran a small session on developing the oil test kit spectrometer yesterday in Barcelona (http://fab10.org). Basically, we've been trying to design a sample chamber so people can do quick and standardized fluorescence scans of different samples in small bottles. This seems like a good opportunity to revisit the design of our spectrometers in general and maybe even come up with a cheap foldable version of the whole thing. [Mathew Lippincott](/profile/mathew) and I have been working on this a bit (see links at upper left) and this workshop seemed to be a good opportunity to keep experimenting. 
 

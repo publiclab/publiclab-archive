@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/012/060/original/Screen_Shot_2015-10-20_at_3.48.20_PM.png)
+
 # guide to identifying commonly spilled hazardous materials
 
 by [liz](../profile/liz) October 20, 2015 19:57
 
 October 20, 2015 19:57 | Tags: [material-identification](../tag/material-identification), [hazardous-materials](../tag/hazardous-materials)
+
+----
 
 **"The HAZCAT Report: a system of field identifications and classifications of commonly spilled materials"**
 

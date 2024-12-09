@@ -3,6 +3,8 @@ uid: 619909
 created_at: 2019-09-16 20:23:07 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/df77b8b40df5b1ecac5ab732e4a32b01)
+
 # k_c_s
 
 

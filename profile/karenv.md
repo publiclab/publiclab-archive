@@ -3,6 +3,8 @@ uid: 60501
 created_at: 2013-05-03 20:20:15 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/eeec4fd90deb56adf324a1de0b236036)
+
 # karenv
 
 ###Barnstars

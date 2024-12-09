@@ -8,11 +8,15 @@ uid: 422561
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/025/273/original/20180616_111917.jpg)
+
 # Rain Barrel and Rain Gauge Build with 7th Ward Residents 
 
 by [stevie](../profile/stevie) June 22, 2018 14:29
 
 June 22, 2018 14:29 | Tags: [gulf-coast](../tag/gulf-coast), [event](../tag/event), [new-orleans](../tag/new-orleans), [blog](../tag/blog), [stormwater](../tag/stormwater), [flooding](../tag/flooding), [nas](../tag/nas), [nola](../tag/nola), [location:blurred](../tag/location:blurred), [lon:-90](../tag/lon:-90), [rain-barrel](../tag/rain-barrel), [rain-gauge](../tag/rain-gauge), [lat:29.9](../tag/lat:29.9), [place:la-70131-united-states](../tag/place:la-70131-united-states)
+
+----
 
 This past weekend, Public Lab and Recharge NOLA, with Water Wise 7th Ward, led a joint workshop to build rain gauges and rain barrels with New Orleans 7th Ward residents at Dillard Community Resource Center. Over the course of the event, 20 participants worked to build 11 rain gauges and 11 rain barrels.
 

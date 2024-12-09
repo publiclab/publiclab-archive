@@ -8,11 +8,15 @@ uid: 746843
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/043/150/original/Gsoc.png)
+
 # GSoC 2021 Proposal: Legacy Code Deprecation
 
 by [gauravsingh2699](../profile/gauravsingh2699) April 05, 2021 08:10
 
 April 05, 2021 08:10 | Tags: [software](../tag/software), [soc](../tag/soc), [lat:20](../tag/lat:20), [lon:70](../tag/lon:70), [zoom:4](../tag/zoom:4), [gsoc-2021](../tag/gsoc-2021), [gsoc-2021-proposals](../tag/gsoc-2021-proposals)
+
+----
 
 ## GSoC 2021: Legacy code deprecation
 

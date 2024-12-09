@@ -8,11 +8,15 @@ uid: 515081
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/024/821/original/gsoc.png)
+
 # GSoC with Public Lab: Selection
 
 by [gauravano](../profile/gauravano) May 03, 2018 22:57
 
 May 03, 2018 22:57 | Tags: [gsoc](../tag/gsoc), [barnstar:basic](../tag/barnstar:basic), [soc](../tag/soc), [gsoc-2018](../tag/gsoc-2018), [soc-2018](../tag/soc-2018)
+
+----
 
 Hello,
 

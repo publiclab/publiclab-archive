@@ -14,6 +14,8 @@ by [Shannon](../profile/Shannon) April 13, 2011 23:34
 
 April 13, 2011 23:34 | Tags: [new-york-city](../tag/new-york-city)
 
+----
+
 <a title="DSC_0188 by publiclaboratory, on Flickr" href="https://www.flickr.com/photos/publiclaboratory/5596571809/"><img src="http://farm6.static.flickr.com/5109/5596571809_58e870fe73.jpg" alt="DSC_0188" width="500" height="332" /></a>
 
 (<em>This was cross-posted at the [Grassroots Mapping community blog](http://grassrootsmapping.org/2011/04/plots-new-york-summit/))

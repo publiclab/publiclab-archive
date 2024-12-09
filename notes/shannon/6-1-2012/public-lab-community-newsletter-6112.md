@@ -14,6 +14,8 @@ by [Shannon](../profile/Shannon) June 01, 2012 17:16
 
 June 01, 2012 17:16 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
 
+----
+
 The Public Lab community has had a great week of web advances! We're excited to announce some new online initiatives such as annotated mapping, updates to several of the web platforms and a broad selection of website related projects that you can get involved in. Plus, have you seen the research notes from this week? There are some really incredible ones on solar hot air balloons, a prototype that is now running for triggering two cameras with iPhone/CHDK and a new map of Webster Fish Weir in North Carolina.
 
 1) Updates to Spectral Workbench. There is now a Spectral Workbench/PublicLaboratory.org [unified login system](http://publiclaboratory.org/notes/warren/5-30-2012/spectral-workbench-user-login-system) so that you can simply login to the Workbench using your Public Lab username and password. If you need a quick catch-up on what people have been up to with the spectrometer, check out the [spectrometry tool page](http://publiclaboratory.org/tool/spectrometer). 

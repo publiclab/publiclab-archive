@@ -8,11 +8,15 @@ uid: 4
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/002/968/original/GMFWebgfc.jpg)
+
 # Grassroots Mapping Forum #4 in print
 
 by [mathew](../profile/mathew) February 20, 2014 23:02
 
 February 20, 2014 23:02 | Tags: [gmf](../tag/gmf)
+
+----
 
 
 [![GMF4-detail.jpg](https://i.publiclab.org/system/images/photos/000/002/167/medium/GMF4-detail.jpg)](https://i.publiclab.org/system/images/photos/000/002/167/original/GMF4-detail.jpg)

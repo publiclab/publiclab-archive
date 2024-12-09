@@ -8,11 +8,15 @@ uid: 576429
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/035/703/original/irrigation.jpg)
+
 # Irrigation Engineering
 
 by [er_jkshah](../profile/er_jkshah)
 
 October 13, 2019 09:29 | Tags: 
+
+----
 
 ##Irrigation system
 [](null)[](https://cementconcrete.org/water-resources/diversion-head-works-in-irrigation-layout-and-functions-of-component/1778/)This is all about Irrigation system development, Headworks design, water management in irrigation, dispute resolution in irrigation. followings are features of this:

@@ -8,11 +8,15 @@ uid: 422561
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/042/288/original/IMG_1966001.jpg)
+
 # Soil Testing and ATSDR in Pascagoula, MS
 
 by [stevie](../profile/stevie) January 04, 2021 21:16
 
 January 04, 2021 21:16 | Tags: [mississippi](../tag/mississippi), [epa](../tag/epa), [blog](../tag/blog), [legal](../tag/legal), [soil-testing](../tag/soil-testing), [location:blurred](../tag/location:blurred), [lat:30](../tag/lat:30), [lon:-88](../tag/lon:-88), [issue-brief](../tag/issue-brief), [pascagoula](../tag/pascagoula), [zoom:6](../tag/zoom:6), [hanby-soil-kit](../tag/hanby-soil-kit), [with:cherokeeconcernedcitizens](../tag/with:cherokeeconcernedcitizens), [map-drawing](../tag/map-drawing), [mapping-soil-data](../tag/mapping-soil-data)
+
+----
 
 ##Some background:
 

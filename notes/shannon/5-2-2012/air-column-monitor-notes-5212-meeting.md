@@ -14,6 +14,8 @@ by [Shannon](../profile/Shannon) May 02, 2012 16:42
 
 May 02, 2012 16:42 | Tags: 
 
+----
+
 There was a successful balloon launch on Wednesday- launched sensor unit- was great had to run at 5v- want to run it at 1.8v (sourcing sensors at this)- for resolution (for ADC). Using 2560- part of problem? Breaking into small group to discuss further.
 
 Group of data visualizers- Vizzuality- would like to start coordinating with them- what can they make the feeds of data look like. Public Lab side- sensor info (even though it starts as CSVs of #s). Interested in starting more communication with them about what a geographic communication could look like- related to air column monitor?

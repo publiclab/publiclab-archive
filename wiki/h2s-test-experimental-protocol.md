@@ -14,6 +14,8 @@ by [Shannon](../profile/Shannon), [sara](../profile/sara)
 
 June 21, 2012 00:30 | Tags: 
 
+----
+
 1. Locate a good point source
 
 2. place canisters close to, a medium distance and far away from that source, in a ring around the source.

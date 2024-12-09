@@ -8,11 +8,15 @@ uid: 653396
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/039/681/original/smd.png)
+
 # GSOC 2020 Week 5 (coding Period Week-1)@Spam Management Dashboard 
 
 by [keshav_sethi0004](../profile/keshav_sethi0004) June 07, 2020 20:52
 
 June 07, 2020 20:52 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [spam](../tag/spam), [general](../tag/general), [lat:29.058775](../tag/lat:29.058775), [lon:76.085601](../tag/lon:76.085601), [zoom:5](../tag/zoom:5), [keshav](../tag/keshav), [smd](../tag/smd), [weekly-update](../tag/weekly-update)
+
+----
 
 #### Spam Management Dashboard Week-5(Coding Period Week-1)
 

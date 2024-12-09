@@ -14,6 +14,8 @@ by [Tomas0413](../profile/Tomas0413) June 16, 2018 11:51
 
 June 16, 2018 11:51 | Tags: [question:general](../tag/question:general)
 
+----
+
 Hi, I assembled the spectrometer, but the images a way to dark and not much could be seen.
 
   

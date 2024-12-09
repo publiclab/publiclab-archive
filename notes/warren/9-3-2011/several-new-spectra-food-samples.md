@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/2011-8-31-149-blue-dye.png)
+
 # Several new spectra from food samples
 
 by [warren](../profile/warren) September 03, 2011 14:29
 
 September 03, 2011 14:29 | Tags: [spectrometer](../tag/spectrometer), [partsandcrafts](../tag/partsandcrafts), [parts-and-crafts](../tag/parts-and-crafts), [food](../tag/food)
+
+----
 
 Above: blue marker dye
 

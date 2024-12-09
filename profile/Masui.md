@@ -3,6 +3,8 @@ uid: 485717
 created_at: 2016-08-01 08:27:21 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/2b1f313c3c70be02f04efdbf01400c11)
+
 # Masui
 
 The product is produced by Michito Hamada and Keigo Asano. 

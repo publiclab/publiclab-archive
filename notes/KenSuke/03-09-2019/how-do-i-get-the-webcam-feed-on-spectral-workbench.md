@@ -14,6 +14,8 @@ by [KenSuke](../profile/KenSuke) March 09, 2019 18:17
 
 March 09, 2019 18:17 | Tags: [spectral-workbench](../tag/spectral-workbench), [question:spectral-workbench](../tag/question:spectral-workbench), [first-time-poster](../tag/first-time-poster)
 
+----
+
 Hi there,  
   
 I'm trying to calibrate my desktop Spectrometer. I have constructed it properly, and have used Open Broadcasting software (OBS) to make sure the webcam and dvd fragment are aligned properly. I'm able to see the spectrum with this , so I know that the webcam works and is aligned properly.  

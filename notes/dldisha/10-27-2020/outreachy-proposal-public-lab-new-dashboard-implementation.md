@@ -8,11 +8,15 @@ uid: 568154
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/041/312/original/cover.jpg)
+
 # Outreachy proposal: Public Lab New Dashboard Implementation
 
 by [dldisha](../profile/dldisha) October 27, 2020 22:57
 
 October 27, 2020 22:57 | Tags: [software](../tag/software), [first-time-poster](../tag/first-time-poster), [outreachy-winter-2020](../tag/outreachy-winter-2020), [outreachy-2020-winter-proposals](../tag/outreachy-2020-winter-proposals), [response:24687](../tag/response:24687)
+
+----
 
 ### About Me:
 

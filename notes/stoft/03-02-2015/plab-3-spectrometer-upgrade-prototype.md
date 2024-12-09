@@ -8,11 +8,15 @@ uid: 54025
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/009/106/original/P3U-2.jpg)
+
 # PLab 3 Spectrometer Upgrade Prototype
 
 by [stoft](../profile/stoft) March 02, 2015 09:23
 
 March 02, 2015 09:23 | Tags: [spectrometer](../tag/spectrometer), [barnstar:basic](../tag/barnstar:basic), [spec-3](../tag/spec-3), [upgrade:spectrometry](../tag/upgrade:spectrometry), [upgrade:dssk](../tag/upgrade:dssk), [www.runsupplies.com](../tag/www.runsupplies.com), [www.bitsnano.com](../tag/www.bitsnano.com)
+
+----
 
 **Abstract**
 

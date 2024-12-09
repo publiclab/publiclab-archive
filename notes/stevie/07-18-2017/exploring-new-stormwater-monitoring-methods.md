@@ -8,11 +8,15 @@ uid: 422561
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/021/177/original/20170603_155739_%283%29.jpg)
+
 # Exploring New Stormwater Monitoring Methods
 
 by [stevie](../profile/stevie) July 18, 2017 20:41
 
 July 18, 2017 20:41 | Tags: [gulf-coast](../tag/gulf-coast), [new-orleans](../tag/new-orleans), [blog](../tag/blog), [stormwater](../tag/stormwater), [workshop-series](../tag/workshop-series)
+
+----
 
 Here in New Orleans, we've been involved in the larger conversation with the Public Lab community about water quality monitoring. Over the past few years we've hosted builds, and discussions, we've explored water monitoring methods, and worked out in the field. One thing we started to notice was that the tools and monitoring methods themselves were in the driver's seat on a lot of these activities. We wanted to flip our attention, and refocus on the local issue to driving our exploration. So in March, we along with I See Change, Grounwork New Orleans and Water Works started a new workshop series and looked explicitly to our backyard, and to our own unique questions, to drive our exploration forward. We also want to thank New Orleans Sewerage and Water Board, Ripple Effect, and Emerging Philanthropists of New Orleans for their support of the workshop series.
 

@@ -8,11 +8,15 @@ uid: 140
 
 ---
 
+![](https://publiclab.org/sites/default/files/3D model of projectors and tripod_0.png)
+
 # DIY Touchtable with Wii Remote
 
 by [PlaceMatters](../profile/PlaceMatters) May 05, 2011 09:22
 
 May 05, 2011 09:22 | Tags: [urban-planning](../tag/urban-planning), [touchtable](../tag/touchtable)
+
+----
 
 PlaceMatters has built and tested a variety of interactive touch screens and touchtables using Wii remotes and LCD projectors so participants can interact directly with maps, images, and brainstorming applications.  Here is a <a href="http://vimeo.com/17826205">video</a> where we integrated the use of the touchtables with GIS and scenario planning tools as part of a pilot project on Cape Cod looking at the linkages between land use, transportation, and climate change.  
 

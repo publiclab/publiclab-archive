@@ -8,11 +8,15 @@ uid: 461120
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/014/305/original/after14.jpg)
+
 # Laser Eye Safety!
 
 by [dhaffnersr](../profile/dhaffnersr) February 15, 2016 13:56
 
 February 15, 2016 13:56 | Tags: 
+
+----
 
 I just wanted to post up a quick note about the importance of using appropriete eye wear when using ANY kind of laser within close proximity of you or anyone else, the reason is simple...you only have one pair of eyeballs, try and keep them for as long as possible!
 

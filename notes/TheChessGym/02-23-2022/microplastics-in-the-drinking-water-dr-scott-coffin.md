@@ -8,11 +8,15 @@ uid: 788868
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/045/423/original/bodyplas.jpg)
+
 # Microplastics In The Drinking Water---Dr. Scott Coffin 
 
 by [TheChessGym](../profile/TheChessGym) February 23, 2022 16:11
 
 February 23, 2022 16:11 | Tags: [microplastics](../tag/microplastics), [lat:22](../tag/lat:22), [lon:76](../tag/lon:76), [zoom:6](../tag/zoom:6)
+
+----
 
 "Microplastics In The Drinking Water" by Dr. Scott Coffin --https://www.youtube.com/watch?v=7ZcaplhvQoQ
 

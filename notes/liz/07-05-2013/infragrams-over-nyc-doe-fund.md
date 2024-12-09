@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/000/647/original/IMG_20130628_182047.jpg)
+
 # Infragrams over NYC: DOE Fund
 
 by [liz](../profile/liz) July 05, 2013 18:55
 
 July 05, 2013 18:55 | Tags: [new-york-city](../tag/new-york-city), [polemapping](../tag/polemapping), [5bf](../tag/5bf), [five-borough-farm](../tag/five-borough-farm), [pole-photography](../tag/pole-photography), [pole](../tag/pole), [pole-mapping](../tag/pole-mapping)
+
+----
 
 ![IMG_20130628_182047.jpg](https://i.publiclab.org/system/images/photos/000/000/651/medium/IMG_20130628_182047.jpg)
 

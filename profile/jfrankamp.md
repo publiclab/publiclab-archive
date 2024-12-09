@@ -3,6 +3,8 @@ uid: 493826
 created_at: 2016-10-07 07:30:11 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/f8208c41e7f115fa6503838ca9fe8c86)
+
 # jfrankamp
 
 I'm a software developer, with a binge learning habit.

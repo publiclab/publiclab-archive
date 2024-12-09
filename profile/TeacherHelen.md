@@ -3,6 +3,8 @@ uid: 528351
 created_at: 2018-03-22 15:39:30 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/4b705d06413286fe8d6b90c31844bdda)
+
 # TeacherHelen
 
 Art Teacher into Citizen Science

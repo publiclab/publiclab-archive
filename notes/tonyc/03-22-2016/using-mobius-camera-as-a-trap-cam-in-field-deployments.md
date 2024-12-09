@@ -8,11 +8,15 @@ uid: 447491
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/015/184/original/IMG_1137.JPG)
+
 # Using Mobius camera as a "trap cam" in field deployments
 
 by [tonyc](../profile/tonyc) March 22, 2016 18:36
 
 March 22, 2016 18:36 | Tags: [mobius](../tag/mobius), [barnstar:basic](../tag/barnstar:basic), [activity:timelapse](../tag/activity:timelapse), [activity:photo-monitoring](../tag/activity:photo-monitoring)
+
+----
 
 ###What I want to do
 Get extended field use from a mobius camera, in intervelometer mode.

@@ -8,11 +8,15 @@ uid: 778039
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/046/568/original/LDEQ.JPG)
+
 # What Does It Take to Get a Response? 
 
 by [awoolverton1](../profile/awoolverton1) April 29, 2022 19:11
 
 April 29, 2022 19:11 | Tags: [gulf-coast](../tag/gulf-coast), [reporting](../tag/reporting), [air-quality](../tag/air-quality), [formosaplastics](../tag/formosaplastics), [ldeq](../tag/ldeq)
+
+----
 
 In
 Louisiana, the burden of regulating our air and water quality repeatedly falls

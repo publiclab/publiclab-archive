@@ -14,6 +14,8 @@ by [liz](../profile/liz) July 24, 2014 17:00
 
 July 24, 2014 17:00 | Tags: [collaboration](../tag/collaboration), [community](../tag/community), [documentation](../tag/documentation), [wiki](../tag/wiki), [wiki-gardening](../tag/wiki-gardening)
 
+----
+
 **My question is "can wiki gardening be social or fun in any way?"**
 
 ###background

@@ -8,10 +8,14 @@ uid: 425426
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/005/123/original/wei%C3%9F_p2.JPG)
+
 # Images with our new selfbuilt camera
 
 by [GreenLeaves](../profile/GreenLeaves) July 04, 2014 10:50
 
 July 04, 2014 10:50 | Tags: [infragram](../tag/infragram), [infragram-camera-testing](../tag/infragram-camera-testing)
+
+----
 
 a field infront of our company...

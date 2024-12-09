@@ -8,11 +8,15 @@ uid: 310707
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/032/950/original/22815200_10155854722358166_5337679495054471240_n_copy.jpg)
+
 # BabyLegs in the classroom
 
 by [maxliboiron](../profile/maxliboiron) June 15, 2019 13:02
 
 June 15, 2019 13:02 | Tags: [education](../tag/education), [teaching](../tag/teaching), [k-12](../tag/k-12), [children](../tag/children), [teachers](../tag/teachers), [cirriculum](../tag/cirriculum), [activity:education](../tag/activity:education), [schools](../tag/schools), [activity:classroom](../tag/activity:classroom), [microplastics](../tag/microplastics), [lat:40](../tag/lat:40), [babylegs](../tag/babylegs), [activity:babylegs](../tag/activity:babylegs), [lon:-50](../tag/lon:-50), [activity:microplastics](../tag/activity:microplastics)
+
+----
 
 BabyLegs is a DIY instrument for investigating plastics in waterways. We're partnered with [Let's Talk Science](http://explorecuriocity.org/Explore/ArticleId/5934/monitoring-marine-plastics.aspx "http://explorecuriocity.org/Explore/ArticleId/5934/monitoring-marine-plastics.aspx") to outline how different aspects of building, using, and analyzing results with BabyLegs can be used to fulfill curriculum goals in the K-12 system, with an emphasis of grade 7-12\. This curriculum guide is based on the system in Newfoundland and Labrador, Canada, but it can be adapted for other locations. 
 

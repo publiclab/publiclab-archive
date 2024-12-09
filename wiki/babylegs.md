@@ -8,11 +8,15 @@ uid: 310707
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/025/547/original/BabyLegs-meopar_shot-SM.jpg)
+
 # BabyLegs
 
 by [a1ahna](../profile/a1ahna), [mimiss](../profile/mimiss), [warren](../profile/warren), [maxliboiron](../profile/maxliboiron), [cfastie](../profile/cfastie)
 
 July 09, 2018 18:44 | Tags: [kits](../tag/kits), [water-quality](../tag/water-quality), [water](../tag/water), [micro-plastics](../tag/micro-plastics), [method](../tag/method), [community-kits](../tag/community-kits), [microplastics](../tag/microplastics), [plastics](../tag/plastics), [babylegs](../tag/babylegs), [trawl](../tag/trawl), [surface-water](../tag/surface-water), [project:water-quality](../tag/project:water-quality)
+
+----
 
 **BabyLegs is an aquatic trawl (net system) for monitoring microplastic pollution and biological composition of surface water. ** This tool is comprised of a floatation device attached to a set of childrens tights - hence the name BabyLegs.  To collect a sample, first you dip your BabyLegs into a waterway, then drag the device along the water’s surface.  The fine-knit mesh of the tights traps microscopic bits of biological materials as well as nurdles and other plastics found within the water.  These samples can be processed, identified, counted, and analyzed in order to examine what’s in your waterway. 
 
@@ -128,7 +132,7 @@ The image above shows some of the microplastics BabyLegs captured in the Hudson 
 
 ## Activities
 
-[notes:grid:activity:babylegs]
+[grid:activity:babylegs](../../tag/grid:activity:babylegs)
 
 
 

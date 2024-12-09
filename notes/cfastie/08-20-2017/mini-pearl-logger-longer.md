@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/021/373/original/sensors_20170723-0179.JPG)
+
 # Mini Pearl Logger longer
 
 by [cfastie](../profile/cfastie) August 20, 2017 03:17
 
 August 20, 2017 03:17 | Tags: [arduino](../tag/arduino), [sensors](../tag/sensors), [data-logging](../tag/data-logging), [bme280](../tag/bme280), [arduino-pro-mini](../tag/arduino-pro-mini), [mcp9808](../tag/mcp9808), [activity:data-logging](../tag/activity:data-logging), [mini-pearl-logger](../tag/mini-pearl-logger), [response:14598](../tag/response:14598), [mini-pearl](../tag/mini-pearl), [activity:mini-pearl-logger](../tag/activity:mini-pearl-logger)
+
+----
 
 I made some incremental progress getting the Mini Pearl Logger to log data for more than two weeks on a set of batteries. But the longevity increased only to three weeks, so there is lots more work to do.
 

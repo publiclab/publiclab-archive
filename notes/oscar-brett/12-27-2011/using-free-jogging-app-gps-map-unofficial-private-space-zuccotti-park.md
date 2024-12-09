@@ -8,11 +8,15 @@ uid: 409
 
 ---
 
+![](https://publiclab.org/sites/default/files/*5_0.png)
+
 # Using a free Jogging app to GPS map unofficial private space in Zuccotti Park 
 
 by [oscarbrett](../profile/oscarbrett) December 27, 2011 22:06
 
 December 27, 2011 22:06 | Tags: [first-time-poster](../tag/first-time-poster)
+
+----
 
 (Mapping done on Nov 6, 2011)
 (Post done Dec 27, 2011)

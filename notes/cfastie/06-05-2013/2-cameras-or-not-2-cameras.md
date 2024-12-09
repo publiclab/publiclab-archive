@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/000/478/original/wheatInf_RGB2k.jpg)
+
 # 2 cameras or not 2 cameras
 
 by [cfastie](../profile/cfastie) June 05, 2013 12:13
 
 June 05, 2013 12:13 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [nrg](../tag/nrg), [ndvi](../tag/ndvi), [vermont](../tag/vermont), [infrared](../tag/infrared), [new-hampshire](../tag/new-hampshire), [farmhack](../tag/farmhack), [imagej](../tag/imagej), [event](../tag/event), [infragram](../tag/infragram), [ifarm](../tag/ifarm), [gigapan](../tag/gigapan), [ifarm2013](../tag/ifarm2013), [2007](../tag/2007), [ndvi-ag](../tag/ndvi-ag), [lat:43.12](../tag/lat:43.12), [lon:-71.01](../tag/lon:-71.01)
+
+----
 
 <em>Image above:  Aerial photos from two kite flights over a young wheat field. Background image is the raw photo from an Infragram prototype. Inset is several photos from a lower elevation flight with a dual camera visible/infrared rig. The higher resolution inset photos are from the unmodified camera of the pair.</em>
 

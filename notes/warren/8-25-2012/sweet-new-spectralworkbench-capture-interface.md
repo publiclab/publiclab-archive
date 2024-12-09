@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/new-interface.png)
+
 # Sweet new SpectralWorkbench capture interface
 
 by [warren](../profile/warren) August 25, 2012 18:06
 
 August 25, 2012 18:06 | Tags: [spectrometer](../tag/spectrometer)
+
+----
 
 Two-column, darker to make low light usage easier... lots of improvements. See at <a href="https://spectralworkbench.org/capture?alt=true" rel="nofollow">spectralworkbench.org/capture?alt=true</a>
 

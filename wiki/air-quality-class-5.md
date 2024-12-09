@@ -14,6 +14,8 @@ by [philipsilva](../profile/philipsilva), [MrDan13](../profile/MrDan13), [georgi
 
 February 22, 2013 17:06 | Tags: 
 
+----
+
 <h3><a href="/wiki/air-quality-class">Class Home</a></h3>
 
 1) (3-5 minutes) HOOK.  Grab the students' attention with exciting visualizations.  Presentation showing a data visualization 

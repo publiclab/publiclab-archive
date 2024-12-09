@@ -8,11 +8,15 @@ uid: 201929
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/001/912/original/103_3314.JPG)
+
 # CCD Photodiode Array Spectrometer
 
 by [bhickman](../profile/bhickman) October 12, 2013 00:23
 
 October 12, 2013 00:23 | Tags: [spectrometer](../tag/spectrometer), [cuvette](../tag/cuvette), [beers-law](../tag/beers-law), [first-time-poster](../tag/first-time-poster)
+
+----
 
 ##Overview
 The goal was to make an affordable spectrometer with a resolution that is comparable to some lower end commercially available spectrometers. The current design give approximately 0.6 nm wavelength resolution and around 12 bit intensity resolution.

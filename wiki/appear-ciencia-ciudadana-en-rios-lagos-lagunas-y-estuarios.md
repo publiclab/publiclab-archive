@@ -14,6 +14,8 @@ by [alejobonifacio](../profile/alejobonifacio)
 
 June 07, 2021 22:28 | Tags: [citizen-science](../tag/citizen-science), [water-quality](../tag/water-quality), [lang:es](../tag/lang:es), [research-curation-fellows](../tag/research-curation-fellows), [parent:water](../tag/parent:water), [appear](../tag/appear)
 
+----
+
 <hr>
 
 ## ¿Qué es AppEar?
@@ -57,19 +59,19 @@ A través de su sencillo sistema de juego, los usuarios de AppEAR ganarán punto
 
 ## Preguntas
 
-[questions:appear]
+[appear](../../tag/question:appear)
 
 <br>
 
 ## Notas de investigación
 
-[notes:appear]
+[appear](../../tag/appear)
 
 <br>
 
 ## Actividades
 
-[activities:appear]
+[appear](../../tag/activity:appear)
 
 <br>
 <br>

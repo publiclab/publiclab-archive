@@ -14,6 +14,8 @@ by [read_holman](../profile/read_holman) April 16, 2019 16:32
 
 April 16, 2019 16:32 | Tags: [lead](../tag/lead), [colorimetry](../tag/colorimetry), [colorimetric](../tag/colorimetric), [water-testing](../tag/water-testing), [lead-testing](../tag/lead-testing), [lead-kits](../tag/lead-kits), [paint](../tag/paint)
 
+----
+
 **Background**
 
 A number of products are commercially available that allow for the low-cost screening for the presence of lead. 

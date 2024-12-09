@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/003/665/original/3Dstore-363-73.jpg)
+
 # Pierre's plastic Picavet
 
 by [cfastie](../profile/cfastie) April 15, 2014 16:19
 
 April 15, 2014 16:19 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [vermont](../tag/vermont), [picavet](../tag/picavet), [kap](../tag/kap), [3d-printing](../tag/3d-printing), [makerbot](../tag/makerbot), [response:10230](../tag/response:10230), [titan](../tag/titan), [redstone](../tag/redstone)
+
+----
 
 I have been positioning the [Redstone Rig]( http://publiclab.org/notes/cfastie/03-27-2014/the-redstone-rig-is-ready) as an upgrade to the soda bottle rig for holding cameras for aerial photography. By itself, the Redstone Rig allows easier mounting of the camera, more reliable aiming of the camera, better access to the camera controls and LCD, and modular attachment to different suspension systems. 
 

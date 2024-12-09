@@ -8,11 +8,15 @@ uid: 504397
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/020/013/original/Drawing1.jpg)
+
 # Re-construction for ImageSequencer
 
 by [yachao](../profile/yachao) March 24, 2017 01:24
 
 March 24, 2017 01:24 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [gsoc-2017](../tag/gsoc-2017), [soc](../tag/soc), [soc-2017](../tag/soc-2017), [rgsoc-2017](../tag/rgsoc-2017), [soc-2017-proposals](../tag/soc-2017-proposals), [response:13975](../tag/response:13975)
+
+----
 
 ## About me
 

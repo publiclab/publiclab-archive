@@ -14,6 +14,8 @@ by [seko](../profile/seko) June 23, 2016 07:08
 
 June 23, 2016 07:08 | Tags: [question:spectrometry](../tag/question:spectrometry), [question:spectral-workbench](../tag/question:spectral-workbench)
 
+----
+
 Dear all,
 
 I'm using the MS LifeCam Studio with a resolution of 1920x1020 pixels for my spectrometer but I did not use a diy-kit from spectral. When I connenct the webcam with the button "Capture Spectra" to Spectral, the program shows just 639 Pixels at the x-axis. Does somebody know if it's possible to get a higher resolution connecting directly the webcam to Spectral??

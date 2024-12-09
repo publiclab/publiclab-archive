@@ -14,6 +14,8 @@ by [mathew](../profile/mathew) May 31, 2012 16:40
 
 May 31, 2012 16:40 | Tags: [balloon-mapping](../tag/balloon-mapping), [thermal-photography](../tag/thermal-photography), [kite-mapping](../tag/kite-mapping), [3d](../tag/3d), [thermal-flashlight](../tag/thermal-flashlight)
 
+----
+
 The [RGB +D](http://rgbd.tumblr.com/) (red, green, blue, depth) project is an open source toolkit for meshing info from a kinect and a video camera into color point cloud-- 
 <iframe src="http://player.vimeo.com/video/41242013" width="400" height="300" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 

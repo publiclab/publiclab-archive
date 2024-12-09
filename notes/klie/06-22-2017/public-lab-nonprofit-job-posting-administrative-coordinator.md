@@ -8,11 +8,15 @@ uid: 441262
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/020/855/original/plots-logo-transparent.jpg)
+
 # Public Lab nonprofit job posting: Administrative Coordinator
 
 by [klie](../profile/klie) June 22, 2017 20:46
 
 June 22, 2017 20:46 | Tags: [nonprofit](../tag/nonprofit), [jobs](../tag/jobs)
+
+----
 
 **Administrative Coordinator**
 

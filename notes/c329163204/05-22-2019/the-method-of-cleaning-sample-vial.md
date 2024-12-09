@@ -8,11 +8,15 @@ uid: 592122
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/032/403/original/7.jpg)
+
 # The Method Of Cleaning Sample Vial
 
 by [c329163204](../profile/c329163204) May 22, 2019 11:03
 
 May 22, 2019 11:03 | Tags: [sample](../tag/sample), [first-time-poster](../tag/first-time-poster), [lat:34.341574](../tag/lat:34.341574), [lon:108.93977](../tag/lon:108.93977), [vial](../tag/vial)
+
+----
 
 The cleaning of [sample vial](https://www.hawachsamplevial.com/product/snap-top-sample-vials/) is very important. Usually, according to the principle of glass instrument washing and the degree of pollution to choose cleaning methods, there is no fixed mode. The specific methods are as follows:
 

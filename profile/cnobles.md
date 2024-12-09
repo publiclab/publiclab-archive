@@ -3,6 +3,8 @@ uid: 427857
 created_at: 2014-09-03 23:20:12 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/078983128fd9036d7cf549924a41ebbe)
+
 # cnobles
 
 Journalism student at Emerson College

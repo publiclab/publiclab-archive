@@ -14,6 +14,8 @@ by [eustatic](../profile/eustatic), [gretchengehrke](../profile/gretchengehrke)
 
 January 26, 2016 19:20 | Tags: [guides](../tag/guides), [reporting](../tag/reporting), [advocacy](../tag/advocacy), [civic](../tag/civic), [parent:guides](../tag/parent:guides), [studies](../tag/studies), [parent:advocacy](../tag/parent:advocacy), [parent:reporting](../tag/parent:reporting)
 
+----
+
 This wiki is a collection of environmental action and advocacy guides that are publicly available. Many are offered from environmental justice nonprofit organizations.  The resources listed here include procedures for reporting pollution, developing an environmental monitoring or health studies, and advocating for environmental protection. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-6Qhr8eRZE0?list=UU79AElX82ipzhpSGije8Q7Q" frameborder="0" allowfullscreen></iframe>

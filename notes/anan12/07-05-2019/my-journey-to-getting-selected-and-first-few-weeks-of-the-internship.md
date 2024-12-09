@@ -8,11 +8,15 @@ uid: 577881
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/033/526/original/image.jpeg)
+
 # My journey to getting selected and first few weeks of the internship
 
 by [anan12](../profile/anan12) July 05, 2019 19:50
 
 July 05, 2019 19:50 | Tags: [soc](../tag/soc), [outreachy](../tag/outreachy), [soc-2019](../tag/soc-2019), [outreachy-2019](../tag/outreachy-2019)
+
+----
 
 I am an open source enthusiast and have been contributing to open source for the past
 few years.

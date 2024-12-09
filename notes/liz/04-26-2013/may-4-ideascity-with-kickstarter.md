@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/000/124/original/balloon-logo.jpg)
+
 # May 4 IdeasCity with Kickstarter!
 
 by [liz](../profile/liz) April 26, 2013 17:50
 
 April 26, 2013 17:50 | Tags: [new-york-city](../tag/new-york-city), [event](../tag/event)
+
+----
 
 ##Event details
 

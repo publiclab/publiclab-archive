@@ -8,11 +8,15 @@ uid: 237313
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/023/430/original/kitsbanner2.jpg)
+
 # Community Kits Prerequisites Checklist
 
 by [Bronwen](../profile/Bronwen) February 02, 2018 14:57
 
 February 02, 2018 14:57 | Tags: [open-source](../tag/open-source), [open-hardware](../tag/open-hardware), [kits](../tag/kits), [hardware](../tag/hardware), [community-kits](../tag/community-kits), [public-lab-store](../tag/public-lab-store)
+
+----
 
 Are you thinking about developing kits with Public Lab through our Community Kits initiative? This is a short overview of the steps that contributors and potential partners will go through in order to begin developing kits for sale through the store. This is a new initiative, so this list may be fine-tuned as we evolve (and it's likely that some items on this list may not weigh equally for every kind of kit, project or publication). A more comprehensive overview of these items can [be seen here](https://docs.google.com/document/d/1sWIeI0CYY79FmxKzmLP8d6zZPOCvEeyE4Dce1-hN7oc/edit). Please post your questions, suggestions, thoughts below!
 

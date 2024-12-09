@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/020/988/original/Squid_20170702-9878c.jpg)
+
 # The Squid and the Rok
 
 by [cfastie](../profile/cfastie) July 03, 2017 17:08
 
 July 03, 2017 17:08 | Tags: [kite-mapping](../tag/kite-mapping), [vermont](../tag/vermont), [kite-aerial-photography](../tag/kite-aerial-photography), [kickstarter](../tag/kickstarter), [kap](../tag/kap), [mini-kite-kit](../tag/mini-kite-kit), [squidweek](../tag/squidweek), [squid](../tag/squid), [aerobee-rig](../tag/aerobee-rig), [rokkaku](../tag/rokkaku)
+
+----
 
 I might have missed Squid Week, but I had to wait for the rain to stop. The squid kite is part of [Public Lab's current Kickstarter](https://www.kickstarter.com/projects/publiclab/kickstarter-gold-balloon-mapping-kits?ref=project_link) and some people have been trying it out this week for kite aerial photography (KAP). I was gifted a squid kite at the last LEAFFEST and tried it out in October, but it was too windy that day to fly a camera with any of my kites so I have been looking forward to trying Squidward again. 
 

@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/1.png)
+
 # More thermal photography at Parts & Crafts
 
 by [warren](../profile/warren) February 23, 2012 23:43
 
 February 23, 2012 23:43 | Tags: [thermal-photography](../tag/thermal-photography), [thermal-flashlight](../tag/thermal-flashlight), [parts-and-crafts](../tag/parts-and-crafts), [replication:625](../tag/replication:625)
+
+----
 
 Having made several thermal flashlights last week, we had a chance today at [Parts & Crafts](http://partsandcrafts.org) to do some thermal imaging. See the results above, as well as some during-construction shots of Julian's flashlight below:
 

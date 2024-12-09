@@ -8,11 +8,15 @@ uid: 517173
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/022/995/original/Header-2.png)
+
 # Public Lab Community Newsletter: December 2017
 
 by [Delaney](../profile/Delaney) December 12, 2017 19:58
 
 December 12, 2017 19:58 | Tags: [gulf-coast](../tag/gulf-coast), [newsletter](../tag/newsletter), [kits](../tag/kits), [barnraising](../tag/barnraising), [lumcon](../tag/lumcon), [news](../tag/news), [staff](../tag/staff), [microscope](../tag/microscope), [open-call](../tag/open-call), [community-kits](../tag/community-kits)
+
+----
 
 ### Are you subscribed?
 

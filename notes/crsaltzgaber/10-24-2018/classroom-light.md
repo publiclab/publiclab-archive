@@ -8,10 +8,14 @@ uid: 556243
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/027/150/original/image.jpg)
+
 # Classroom light
 
 by [crsaltzgaber](../profile/crsaltzgaber) October 24, 2018 14:07
 
 October 24, 2018 14:07 | Tags: [hidden:response](../tag/hidden:response), [replication:15121](../tag/replication:15121), [response:17384](../tag/response:17384)
+
+----
 
 Use spectroscope to view light.

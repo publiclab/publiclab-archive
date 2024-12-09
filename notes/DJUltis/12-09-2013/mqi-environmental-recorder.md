@@ -8,11 +8,15 @@ uid: 46348
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/002/367/original/2013-08-06_22.38.49.jpg)
+
 # MQI Environmental Recorder
 
 by [DJUltis](../profile/DJUltis) December 09, 2013 06:02
 
 December 09, 2013 06:02 | Tags: [indoor-air-quality-mapping](../tag/indoor-air-quality-mapping), [thermal-flashlight](../tag/thermal-flashlight), [methane](../tag/methane), [natural-gas](../tag/natural-gas), [co](../tag/co), [lpg](../tag/lpg)
+
+----
 
 [![IMG_20140113_231137.jpg](https://i.publiclab.org/system/images/photos/000/002/548/medium/IMG_20140113_231137.jpg)](https://i.publiclab.org/system/images/photos/000/002/548/original/IMG_20140113_231137.jpg)
 

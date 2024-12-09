@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/011/942/original/brushyfork.00_00_35_10.Still001.jpg)
+
 # amp
 
 by [liz](../profile/liz), [LauraChipley](../profile/LauraChipley)
 
 October 06, 2015 17:39 | Tags: [coal-mining](../tag/coal-mining), [west-virginia](../tag/west-virginia), [mountaintop-removal](../tag/mountaintop-removal), [extraction](../tag/extraction), [southeast](../tag/southeast), [amp](../tag/amp), [mtr](../tag/mtr), [appalachia](../tag/appalachia)
+
+----
 
 ###Organization/Organizer: 
 

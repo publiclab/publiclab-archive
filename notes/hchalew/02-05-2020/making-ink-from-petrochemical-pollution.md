@@ -14,6 +14,8 @@ by [hchalew](../profile/hchalew) February 05, 2020 21:20
 
 February 05, 2020 21:20 | Tags: [air-quality](../tag/air-quality), [waste](../tag/waste), [pollution](../tag/pollution), [art](../tag/art), [climate-change](../tag/climate-change), [question:general](../tag/question:general), [general](../tag/general), [oil-and-gas](../tag/oil-and-gas), [first-time-poster](../tag/first-time-poster), [petrochemical-pollution](../tag/petrochemical-pollution), [question:climate-change](../tag/question:climate-change)
 
+----
+
 I'm artist living in New Orleans, and my [artwork](http://www.hannahchalew.com/) explores climate change, the fossil fuel
 industry and the future of the Louisiana landscape.
 

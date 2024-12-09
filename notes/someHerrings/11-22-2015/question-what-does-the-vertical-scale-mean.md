@@ -14,6 +14,8 @@ by [someHerrings](../profile/someHerrings) November 22, 2015 00:03
 
 November 22, 2015 00:03 | Tags: [question:spectral-workbench](../tag/question:spectral-workbench)
 
+----
+
 ###What I want to do or know
 
 What does the vertical scale actually represent?  It seems to be based on the sum of the RGB values.   This means that the only way the plot exceeds ~33% is when two adjacent channels have values of 255 which means the source data is too bright.

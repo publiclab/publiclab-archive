@@ -14,6 +14,8 @@ by [shaief](../profile/shaief) August 24, 2012 16:39
 
 August 24, 2012 16:39 | Tags: [kite-mapping](../tag/kite-mapping), [grassrootsmapping](../tag/grassrootsmapping), [syndicated](../tag/syndicated), [qgis](../tag/qgis)
 
+----
+
 Published originally on <a href="http://shaief.com">my website</a>
 
 About two months ago, on June 12th, we woke up to the sounds of heavy machinery. Through the window we saw a bulldozer and a crane uprooting olive trees from the area behind our house. We went outside and stood in front of the bulldozer and caused its operator to stop working. The crane continued to work, so we jumped on a tree. By doing so we prevented the work for about a month and saved 1 out of 4 trees that were uprooted at that day.

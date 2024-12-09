@@ -14,6 +14,8 @@ by [warren](../profile/warren)
 
 June 21, 2012 16:57 | Tags: 
 
+----
+
 ###Mathew###
 Accomplished: GitHub comments for tool redesign, finalized all supplies/design for kite workshop (shipping Tuesday morning), got split bamboo ready, worked on UAS ethics dialogue (cut by 50% nearly ready to publish)
 Goals: RPI presentation (facts and slides straight, summarizing notes), spending time on reimbursements, ground truthing of clear cuts at EarthFirst (workshop on using kites in the field)

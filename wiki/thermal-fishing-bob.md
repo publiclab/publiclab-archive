@@ -14,16 +14,18 @@ by [warren](../profile/warren), [donblair](../profile/donblair), [liz](../profil
 
 December 13, 2011 17:23 | Tags: [thermal-fishing-bob](../tag/thermal-fishing-bob), [parent:thermal-photography](../tag/parent:thermal-photography)
 
+----
+
 This variation on the [thermal flashlight](/tool/thermal-camera) uses a cheaper **thermistor** instead of a non-contact IR thermometer ($20), but can only detect the temperature of things the sensor is literally **touching**.
 
 ## Questions
 
-[questions:thermal-fishing-bob]
+[thermal-fishing-bob](../../tag/question:thermal-fishing-bob)
 
 
 ## Activities
 
-[activities:thermal-fishing-bob]
+[thermal-fishing-bob](../../tag/activity:thermal-fishing-bob)
 
 ****
 

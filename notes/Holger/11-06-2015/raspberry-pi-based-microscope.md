@@ -8,11 +8,15 @@ uid: 456773
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/012/510/original/DSC_0461.JPG)
+
 # Raspberry Pi based microscope
 
 by [Holger](../profile/Holger) November 06, 2015 11:49
 
 November 06, 2015 11:49 | Tags: [raspberry-pi](../tag/raspberry-pi), [dust](../tag/dust), [pm](../tag/pm), [microscope](../tag/microscope), [pi-camera](../tag/pi-camera), [microscopy](../tag/microscopy), [microscopes](../tag/microscopes)
+
+----
 
 Hey there,
 

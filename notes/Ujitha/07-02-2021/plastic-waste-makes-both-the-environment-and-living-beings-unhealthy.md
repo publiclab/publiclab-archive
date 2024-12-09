@@ -8,11 +8,15 @@ uid: 467748
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/044/316/original/Screen_Shot_2021-07-03_at_1.54.47_AM.png)
+
 # Plastic Waste Makes both the Environment and Living beings Unhealthy 
 
 by [Ujitha](../profile/Ujitha) July 02, 2021 21:16
 
 July 02, 2021 21:16 | Tags: [waste](../tag/waste), [pollution](../tag/pollution), [environment](../tag/environment), [issue-brief](../tag/issue-brief), [plastic](../tag/plastic), [zoom:12](../tag/zoom:12), [colombo](../tag/colombo), [sri-lanka](../tag/sri-lanka), [lat:6.927078](../tag/lat:6.927078), [lon:79.861243](../tag/lon:79.861243)
+
+----
 
 ### Introduction:
 
@@ -39,4 +43,4 @@ There are couple of volunteering groups who are doing campaigns time to time to 
 ### What are the initial questions?
 
   
-[questions:plastic-waste-colombo-SL]
+[plastic-waste-colombo-SL](../../tag/question:plastic-waste-colombo-SL)

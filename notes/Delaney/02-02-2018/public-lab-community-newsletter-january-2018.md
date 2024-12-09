@@ -8,11 +8,15 @@ uid: 517173
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/023/433/original/Header-2_preview.png)
+
 # Public Lab Community Newsletter: January 2018
 
 by [Delaney](../profile/Delaney) February 02, 2018 17:37
 
 February 02, 2018 17:37 | Tags: [kite-mapping](../tag/kite-mapping), [water-quality](../tag/water-quality), [community-kits](../tag/community-kits), [open-hour](../tag/open-hour), [community-toolbox](../tag/community-toolbox), [diy-science](../tag/diy-science), [the-economist](../tag/the-economist), [indian-bayou](../tag/indian-bayou)
+
+----
 
 ### Are you subscribed?
 

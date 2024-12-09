@@ -3,6 +3,8 @@ uid: 380595
 created_at: 2013-11-23 01:47:58 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/e0352dda597fc9d8e88420350cef37c6)
+
 # lawraymond3
 
 

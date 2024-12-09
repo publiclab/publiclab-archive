@@ -8,11 +8,15 @@ uid: 456585
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/012/476/original/IMG_5981.JPG)
+
 # Mapping Experiment Llactalab Cuenca Ecuador day 1
 
 by [sebasvanegasb](../profile/sebasvanegasb) November 04, 2015 22:40
 
 November 04, 2015 22:40 | Tags: [kite-mapping](../tag/kite-mapping), [lang:es](../tag/lang:es), [ecuador](../tag/ecuador), [llactalab](../tag/llactalab)
+
+----
 
 El sistema es bueno pero sobre todo para fuera de las ciudades, donde haya suficiente espacio para volar de manera segura. Se proponen otros espacios urbanos donde poder volar, pero teniendo en cuenta las limitaciones de cada entorno (calles, terrazas, plazas, parques).
 

@@ -8,11 +8,15 @@ uid: 4
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/000/159/original/cds.jpg)
+
 # 'Detritivore' Design: How to Use Trash to Create Scalable Tech Solutions
 
 by [mathew](../profile/mathew) May 02, 2013 16:43
 
 May 02, 2013 16:43 | Tags: [spectrometer](../tag/spectrometer), [reuse](../tag/reuse), [idealab](../tag/idealab), [waste](../tag/waste)
+
+----
 
 [Original article on IdeaLab](http://www.pbs.org/idealab/2013/04/detritivore-design-how-to-use-trash-to-create-scalable-tech-solutions109.html)
 

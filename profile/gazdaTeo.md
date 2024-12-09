@@ -3,6 +3,8 @@ uid: 442742
 created_at: 2015-05-29 11:40:59 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/d283fffe766f25d4b8a9f6e645898307)
+
 # gazdaTeo
 
 

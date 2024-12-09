@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/041/867/original/Screen_Shot_2020-01-03_at_12.45.10_PM.png)
+
 # Software overview
 
 by [warren](../profile/warren)
 
 November 24, 2020 20:41 | Tags: [mapknitter](../tag/mapknitter), [documentation](../tag/documentation), [software](../tag/software), [infragram](../tag/infragram), [web](../tag/web), [leaflet](../tag/leaflet), [code](../tag/code), [parent:developers](../tag/parent:developers), [wwg](../tag/wwg), [cloud](../tag/cloud), [soc](../tag/soc), [image-sequencer](../tag/image-sequencer), [code-ecosystem](../tag/code-ecosystem), [content-management](../tag/content-management), [technology-design](../tag/technology-design)
+
+----
 
 Public Lab's software systems include several complete web applications ([PublicLab.org](http://PublicLab.org), [SpectralWorkbench.org](http://SpectralWorkbench.org), and [MapKnitter.org](http://MapKnitter.org)), as well as smaller stand-alone services ([Infragram.org](http://Infragram.org), [sequencer.publiclab.org](http://sequencer.publiclab.org)) and a variety of small libraries, utilities, and demos (Leaflet.DistortableImage, PublicLab.Editor, and many more).
 
@@ -258,4 +262,4 @@ The core library for analyzing and manipulating spectral data has been spun out 
 
 ## Questions
 
-[questions:software-overview]
+[software-overview](../../tag/question:software-overview)

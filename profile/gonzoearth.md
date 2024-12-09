@@ -3,6 +3,8 @@ uid: 12
 created_at: 2013-04-08 02:10:49 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/12/medium/IMG_0204.JPG)
+
 # gonzoearth
 
 

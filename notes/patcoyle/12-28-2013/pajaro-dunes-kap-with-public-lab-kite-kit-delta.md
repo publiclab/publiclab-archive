@@ -8,11 +8,15 @@ uid: 77
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/002/457/original/P1090338.JPG)
+
 # Pajaro Dunes KAP with Public Lab Kite kit Delta
 
 by [patcoyle](../profile/patcoyle) December 28, 2013 19:51
 
 December 28, 2013 19:51 | Tags: [kite-mapping](../tag/kite-mapping)
+
+----
 
 ###What I want to do
 

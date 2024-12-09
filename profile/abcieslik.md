@@ -3,6 +3,8 @@ uid: 428083
 created_at: 2014-09-08 13:54:43 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/4c5d9cace79fb9d46a8bf155edf478e6)
+
 # abcieslik
 
 Emerson College journalism student // Junior // Born and raised in Chicago, currently living in Boston

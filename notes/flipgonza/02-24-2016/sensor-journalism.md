@@ -14,6 +14,8 @@ by [flipgonza](../profile/flipgonza) February 24, 2016 18:59
 
 February 24, 2016 18:59 | Tags: [sensor-journalism](../tag/sensor-journalism), [response:12748](../tag/response:12748), [hidden:response](../tag/hidden:response)
 
+----
+
 Sensor Journalism 
 
 The times I am interested in something are few and far between, but sensor journalism intrigued me.  My Data Visualization class has three speakers come and talk about sensor journalism and gave us concrete examples of stories that used sensor journalism to collect data. So what is sensor journalism? Lily Bui’s presentation defined sensor journalism as  “generating or collecting data from sensors, then using that data to tell a story.” Sensors can be more than electronic sensors that give you numeric values, you can use your own senses to act as sensors like if you feel something hot or cold--that is data. 

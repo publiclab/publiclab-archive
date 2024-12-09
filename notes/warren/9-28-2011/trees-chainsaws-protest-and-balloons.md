@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/sumava-layer.jpeg)
+
 # Trees, Chainsaws, Protest and Balloons
 
 by [warren](../profile/warren) September 29, 2011 03:11
 
 September 29, 2011 03:11 | Tags: [protest-mapping](../tag/protest-mapping), [forest](../tag/forest), [czech-republic](../tag/czech-republic), [logging](../tag/logging), [eu](../tag/eu)
+
+----
 
 <em>Blog post <a href="http://grassrootsmapping.org/2011/09/trees-chainsaws-protest-and-balloons/">cross-posted on Grassroots Mapping Blog</a></em>
 

@@ -8,11 +8,15 @@ uid: 540844
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/035/565/original/20190618_094207.jpg)
+
 # Recipes for Dyes: Chemicals, Metals, and Acids at Cranston Print Works
 
 by [joyofsoy](../profile/joyofsoy) October 04, 2019 17:46
 
 October 04, 2019 17:46 | Tags: [redirect:21673](../tag/redirect:21673)
+
+----
 
 **A version of this story by Summer Gonsalves is published in Public Lab's *Community Science Forum*, Issue 17. Read more from this issue [here][1].** 
 

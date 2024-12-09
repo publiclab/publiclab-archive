@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/018/065/original/legos.jpg)
+
 # What makes a good activity?
 
 by [warren](../profile/warren) September 17, 2016 20:18
 
 September 17, 2016 20:18 | Tags: [collaboration](../tag/collaboration), [community](../tag/community), [leaffest](../tag/leaffest), [blog](../tag/blog), [mobius](../tag/mobius), [with:gretchengehrke](../tag/with:gretchengehrke), [leaffest2016](../tag/leaffest2016), [research-culture](../tag/research-culture), [activity-grids](../tag/activity-grids), [activities](../tag/activities), [leaffest-2016](../tag/leaffest-2016), [question:activities](../tag/question:activities)
+
+----
 
 In our continuing shift towards using the new Q&A feature and the new Activity grids as a framework for collaboration on [PublicLab.org][1], we're encouraging people to post their work more in the spirit of [Instructables.com][2] -- "showing each other how to do something" rather than just telling people about something you've done. This shifts the emphasis from solely documenting what you've done, to helping others do it too. (_image above from a Lego Technics kit_)
 

@@ -14,6 +14,8 @@ by [ggallant](../profile/ggallant) May 18, 2016 12:22
 
 May 18, 2016 12:22 | Tags: [riffle](../tag/riffle), [riffle-beta](../tag/riffle-beta)
 
+----
+
 ###What I want to do
 
 Yesterday (5/17/2016) I received a Riffle beta board in the mail. Nicely packaged with all the expected components. My goal is to evaluate the Riffle as a data logging tool.

@@ -14,6 +14,8 @@ by [Maranatha](../profile/Maranatha) December 16, 2019 05:41
 
 December 16, 2019 05:41 | Tags: [question:general](../tag/question:general), [general](../tag/general), [first-time-poster](../tag/first-time-poster)
 
+----
+
 In the part of my neighbourhood where I am currently studying (124507 Housing Board, Sector 3A Sarai Aurangabad, Bahadurgarh, Haryana India), investigations indicate there is a gradual vegetation loss due to infrastructural projects. There has been an adverse  consequence on the health and climate of the area.
 
   

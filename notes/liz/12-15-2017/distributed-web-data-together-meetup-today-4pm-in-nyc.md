@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/022/939/original/Screen_Shot_2017-12-15_at_12.05.34_PM.png)
+
 # Distributed web + Data Together meetup today 4pm in NYC
 
 by [liz](../profile/liz) December 15, 2017 17:06
 
 December 15, 2017 17:06 | Tags: [events:new-york-city](../tag/events:new-york-city), [data-together](../tag/data-together)
+
+----
 
 Here's a just-in-time invite for anyone to stop by the New Lab at 4pm today and hang out with folks from the **Data Together** group that grew out of the "rescue climate data" work from earlier this year. 
 

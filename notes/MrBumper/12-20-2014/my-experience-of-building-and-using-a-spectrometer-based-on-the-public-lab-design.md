@@ -14,6 +14,8 @@ by [MrBumper](../profile/MrBumper) December 20, 2014 17:37
 
 December 20, 2014 17:37 | Tags: [desktop-spectrometry-kit](../tag/desktop-spectrometry-kit), [first-time-poster](../tag/first-time-poster)
 
+----
+
 I originally posted the following to the Sepctrometry thread, which prompted a number of useful comments. Liz Barry, director of community development at PL, asked me to copy post here. Based on the comments I received I have added the odd note, so what was quite a long post .... is now even longer!
 ____________________
  

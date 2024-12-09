@@ -14,6 +14,8 @@ by [Bronwen](../profile/Bronwen) February 06, 2019 16:20
 
 February 06, 2019 16:20 | Tags: [diy](../tag/diy), [barnraising](../tag/barnraising), [tools](../tag/tools), [hardware](../tag/hardware), [question:general](../tag/question:general), [question:barnraising](../tag/question:barnraising)
 
+----
+
 ![image description](/i/29208.png "Screen_Shot_2019-02-06_at_11.18.44_AM.png")
 
 When we meet in Galveston. we'll be setting aside time and space for a dive / exploration into environmental monitoring tools and practices: both as activities AND as an opportunity to brainstorm about the kinds of things we'd like to see available in our communities. This is for everyone: you don't have to bring any particular skill set to participate, just an interest and willingness to jump into the process with your own questions and ideas.

@@ -8,11 +8,15 @@ uid: 603909
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/037/174/original/ProvidenceFest_OI000014_copy.jpg)
+
 # Public Lab Job Posting: Kits Fulfillment Coordinator
 
 by [thewrightjess](../profile/thewrightjess) December 18, 2019 15:31
 
 December 18, 2019 15:31 | Tags: [kits](../tag/kits), [nonprofit](../tag/nonprofit), [jobs](../tag/jobs), [fulfillment](../tag/fulfillment), [kitsinitiative](../tag/kitsinitiative), [lat:29.964621](../tag/lat:29.964621), [lon:-90.046398](../tag/lon:-90.046398)
+
+----
 
 ## About Public Lab
 

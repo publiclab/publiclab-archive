@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/001/423/original/story2-oil-seeps-from-pipe.png)
+
 # City Of Water Day oil spotting
 
 by [liz](../profile/liz) September 07, 2013 22:20
 
 September 07, 2013 22:20 | Tags: [new-york-city](../tag/new-york-city), [balloon-mapping](../tag/balloon-mapping), [gowanus](../tag/gowanus), [oil-spill](../tag/oil-spill), [oil](../tag/oil), [plume](../tag/plume), [canoe](../tag/canoe), [glam](../tag/glam), [water-quality](../tag/water-quality), [nyc](../tag/nyc)
+
+----
 
 **Posting on behalf of Eymund Diegel: **
 

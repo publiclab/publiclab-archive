@@ -8,11 +8,15 @@ uid: 639376
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/046/645/original/portada.jpg)
+
 # Construya un sensor de conductividad Coqui generador de sonido
 
 by [alejobonifacio](../profile/alejobonifacio) May 10, 2022 19:47
 
 May 10, 2022 19:47 | Tags: [water-quality-sensor](../tag/water-quality-sensor), [lang:es](../tag/lang:es), [coqui](../tag/coqui), [activity:coqui](../tag/activity:coqui), [water-conductivity](../tag/water-conductivity), [zoom:7](../tag/zoom:7), [lon:-64](../tag/lon:-64), [lat:-31](../tag/lat:-31), [agua](../tag/agua), [research-curation-fellows](../tag/research-curation-fellows), [calidad-de-agua](../tag/calidad-de-agua)
+
+----
 
 _Esta es una traducción de la_ [<em>nota</em>]
 _([https://publiclab.org/notes/warren/03-01-2019/build-a-sound-generating-coqui-conductivity-sensor](https://publiclab.org/notes/warren/03-01-2019/build-a-sound-generating-coqui-conductivity-sensor)) escrita por @warren, @asnow y @zengirl2_

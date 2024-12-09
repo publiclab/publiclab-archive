@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/001/308/original/IMG_0209.JPG)
+
 # Results from Aug 25, 2013 Tidmarsh Farms mapping
 
 by [warren](../profile/warren) August 26, 2013 18:52
 
 August 26, 2013 18:52 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [boston](../tag/boston), [wetlands](../tag/wetlands), [restoration](../tag/restoration), [massachusetts](../tag/massachusetts), [manomet](../tag/manomet), [tidmarsh](../tag/tidmarsh), [infragram](../tag/infragram), [northeast](../tag/northeast), [lat:41.918373](../tag/lat:41.918373), [lon:-70.573318](../tag/lon:-70.573318), [place:tidmarsh-farm-plymouth-ma](../tag/place:tidmarsh-farm-plymouth-ma)
+
+----
 
 Glorianna Davenport and Gershon Dublon [hosted a mapping meetup](https://www.eventbrite.com/event/7883512799) at [Tidmarsh Farms](http://tidmarshfarms.com/), as part of an [ongoing of the area](/tag/tidmarsh) this past Saturday. We did a huge amount of balloon mapping and I wanted to share the results. There are thousands of images, 12GB worth, so I'm going to [use the guidelines here](/wiki/sharing-images) to share them via BitTorrent. Here is the link:
 

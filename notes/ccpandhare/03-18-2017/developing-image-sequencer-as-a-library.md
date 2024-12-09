@@ -14,6 +14,8 @@ by [ccpandhare](../profile/ccpandhare) March 18, 2017 21:20
 
 March 18, 2017 21:20 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [gsoc-2017](../tag/gsoc-2017), [soc](../tag/soc), [soc-2017](../tag/soc-2017), [rgsoc-2017](../tag/rgsoc-2017), [soc-2017-proposals](../tag/soc-2017-proposals), [response:13975](../tag/response:13975), [gsoc-2017-accepted](../tag/gsoc-2017-accepted), [image-sequencer](../tag/image-sequencer), [first-time-poster](../tag/first-time-poster)
 
+----
+
 ## 
 
 Note: This is a draft and some sections are under development

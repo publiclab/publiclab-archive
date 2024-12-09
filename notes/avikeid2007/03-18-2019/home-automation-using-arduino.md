@@ -8,11 +8,15 @@ uid: 579541
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/030/254/original/IMG_3857.JPG)
+
 # Home Automation Using Arduino
 
 by [avikeid2007](../profile/avikeid2007) March 18, 2019 11:10
 
 March 18, 2019 11:10 | Tags: [arduino](../tag/arduino), [first-time-poster](../tag/first-time-poster), [home-automation](../tag/home-automation), [lat:28.535516](../tag/lat:28.535516), [lon:77.391026](../tag/lon:77.391026)
+
+----
 
 ![image description](/i/30252.jpg "IMG_3855.JPG")
 

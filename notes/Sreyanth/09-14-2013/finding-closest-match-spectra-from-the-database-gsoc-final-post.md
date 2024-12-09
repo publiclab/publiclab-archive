@@ -8,11 +8,15 @@ uid: 96713
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/001/560/original/Title_pic.png)
+
 # Finding closest match spectra from the database (GSoC) - Final Post!
 
 by [Sreyanth](../profile/Sreyanth) September 14, 2013 21:03
 
 September 14, 2013 21:03 | Tags: [spectrometer](../tag/spectrometer), [spectralworkbench](../tag/spectralworkbench), [spectrometry](../tag/spectrometry), [gsoc-2013](../tag/gsoc-2013), [spectral-matching](../tag/spectral-matching), [closest-match](../tag/closest-match)
+
+----
 
 Continuing with my previous research notes [1, 2], which discuss about the whereabouts of my project, this note describes the project implementation highlighting the various features that are provided:
 

@@ -8,11 +8,15 @@ uid: 448589
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/027/085/original/Screenshot_2018-10-04_at_4.52.43_PM.png)
+
 # Introducing Pi Builder
 
 by [icarito](../profile/icarito) October 10, 2018 03:13
 
 October 10, 2018 03:13 | Tags: [raspberry-pi](../tag/raspberry-pi), [blog](../tag/blog), [raspbian](../tag/raspbian), [with:warren](../tag/with:warren), [pi-camera](../tag/pi-camera), [raspberry-pi-cameras](../tag/raspberry-pi-cameras), [activity:raspberry-pi](../tag/activity:raspberry-pi), [activity:pi-camera](../tag/activity:pi-camera), [response:15289](../tag/response:15289), [response:9719](../tag/response:9719), [response:16180](../tag/response:16180), [pi-builder](../tag/pi-builder)
+
+----
 
 The Public Lab [Kits Initiative](/kits) uses [Raspberry Pi cameras](/pi-camera) more and more, and was in need of a workflow to generate customized operating system images for specific needs such as the [Microscope](/micro) and [Lego Spectrometer Kits](/lego).
 

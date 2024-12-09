@@ -8,11 +8,15 @@ uid: 4
 
 ---
 
+![](https://publiclab.org/sites/default/files/Screen shot 2012-05-10 at 2.45.38 PM.png)
+
 # Grassroots Mapping Forum: Notes on process and automation  pt.1
 
 by [mathew](../profile/mathew) May 10, 2012 23:05
 
 May 10, 2012 23:05 | Tags: 
+
+----
 
 As we prepare for regular releases of Grassroots Mapping Forum, myself and [Jeff](/people/warren) have been looking at ways to simplify the process.  This note is background on our choices and their difficulties.  Part 2 gets to the functional issues of how to actually use our template system.
 

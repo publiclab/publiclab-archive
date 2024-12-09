@@ -8,11 +8,15 @@ uid: 428825
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/008/397/original/Screen_Shot_2014-12-05_at_2.09.39_PM.png)
+
 # Pollution to Solution: Calibrating Ozone Sensor.
 
 by [epongrat](../profile/epongrat) December 15, 2014 03:42
 
 December 15, 2014 03:42 | Tags: [arduino](../tag/arduino), [air-quality](../tag/air-quality), [sensors](../tag/sensors), [umass-amherst](../tag/umass-amherst), [makerspaces](../tag/makerspaces), [amherst-media](../tag/amherst-media), [5-college](../tag/5-college), [air-sensors](../tag/air-sensors)
+
+----
 
 ###What I want to do
 

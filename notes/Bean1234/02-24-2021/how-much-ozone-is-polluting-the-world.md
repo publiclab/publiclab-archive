@@ -14,4 +14,6 @@ by [Bean1234](../profile/Bean1234) February 24, 2021 20:14
 
 February 24, 2021 20:14 | Tags: [atmosphere](../tag/atmosphere), [ozone](../tag/ozone), [question:general](../tag/question:general), [general](../tag/general), [location:blurred](../tag/location:blurred), [place:united-states](../tag/place:united-states), [lat:30](../tag/lat:30), [lon:-91](../tag/lon:-91), [first-time-poster](../tag/first-time-poster), [zoom:6](../tag/zoom:6)
 
+----
+
 Ozone pollution is polluting the world and harming the environment

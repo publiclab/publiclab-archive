@@ -8,11 +8,15 @@ uid: 149
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/000/443/original/KAPSite.PNG)
+
 # Public Lab NorCal Meet Up - Cloverleaf Farmstand, Davis, CA
 
 by [MicheleTobias](../profile/MicheleTobias) May 31, 2013 18:11
 
 May 31, 2013 18:11 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [norcal](../tag/norcal), [event](../tag/event), [replication:14022](../tag/replication:14022)
+
+----
 
 Come join us for a morning of agricultural aerial mapping. Several community members from http://publiclaboratory.org are getting together this Saturday to do some Kite/Balloon mapping at local small farm.
 

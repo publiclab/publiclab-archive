@@ -8,11 +8,15 @@ uid: 310707
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/025/805/original/Screen_Shot_2018-07-19_at_3.33.54_PM_copy.png)
+
 # How to process microplastic samples from a trawl
 
 by [maxliboiron](../profile/maxliboiron) July 19, 2018 11:38
 
 July 19, 2018 11:38 | Tags: [water-quality](../tag/water-quality), [seeks:replications](../tag/seeks:replications), [ocean](../tag/ocean), [micro-plastics](../tag/micro-plastics), [question:microplastics](../tag/question:microplastics), [microplastics](../tag/microplastics), [plastics](../tag/plastics), [babylegs](../tag/babylegs), [activity:babylegs](../tag/activity:babylegs), [activity:microplastics](../tag/activity:microplastics)
+
+----
 
 Congratulations! You've [created](https://publiclab.org/notes/maxliboiron/07-17-2018/building-babylegs-surface-water-trawl) and [used](https://publiclab.org/notes/maxliboiron/07-17-2018/how-to-use-babylegs) a [do-it-yourself trawl like BabyLegs](https://publiclab.org/wiki/babylegs) to monitor microplastics! Now, you have to see if you've caught any plastics. This guide will walk you through how to take the plastics out of your trawl in a kitchen, classroom, or laboratory.
 

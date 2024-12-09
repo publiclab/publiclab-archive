@@ -8,11 +8,15 @@ uid: 4
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/010/599/original/IMG_0477.JPG)
+
 # My DIY Formaldehyde test kit
 
 by [mathew](../profile/mathew) July 10, 2015 00:58
 
 July 10, 2015 00:58 | Tags: [calibration](../tag/calibration), [air-quality](../tag/air-quality), [air](../tag/air), [h2s](../tag/h2s), [barnstar:basic](../tag/barnstar:basic), [formaldehyde](../tag/formaldehyde), [open-air](../tag/open-air), [openair](../tag/openair), [wwb](../tag/wwb), [indoor-air-quality](../tag/indoor-air-quality), [where-we-breathe](../tag/where-we-breathe), [airpump](../tag/airpump), [replication:11317](../tag/replication:11317)
+
+----
 
 ###What I want to do
 Compile under one note the parts, assembly, and calibration of my DIY formaldehyde test kit following @nshapiro's [research on formaldehyde testing](/notes/nshapiro/11-03-2014/diy-formaldehyde-test-kit), my [investigation of airflow](/notes/mathew/06-04-2015/using-soap-bubbles-for-pump-calibration) [(part 2)](/notes/mathew/06-11-2015/mini-buck-vs-the-bubbles) following ideas from from @davidmack, @gretchengehrke, @danbeavers, @nshapiro, and @warren and @nshapiro's [work on photo cards](/notes/warren/03-30-2015/diy-formaldehyde-test-photo-card), as well as some of [my ideas on usability](/notes/mathew/06-25-2015/borrowing-a-formaldehyde-kit-take-1) coming out of work on [Lending Library Kits](/notes/mathew/05-28-2015/formaldehyde-testing-kit-for-lending). 

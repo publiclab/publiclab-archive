@@ -14,6 +14,8 @@ by [gonzoearth](../profile/gonzoearth) March 11, 2013 06:34
 
 March 11, 2013 06:34 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
 
+----
+
 Spring ahead with this summary of Public Lab community news!
 
 The <a href="http://spectralchallenge.org">Spectral Challenge</a> launched. It is an exciting opportunity to either enter as a participant or support the event through a donation to the prize pool. 

@@ -8,11 +8,15 @@ uid: 9
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/010/903/original/plots-logo-transparent.jpg)
+
 # Public Lab job posting: Inventory and Shipping Coordinator
 
 by [Shannon](../profile/Shannon) July 27, 2015 12:22
 
 July 27, 2015 12:22 | Tags: [nonprofit](../tag/nonprofit)
+
+----
 
 ###Inventory and Shipping Coordinator
 

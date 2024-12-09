@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/knitter.png)
+
 # Video tutorial: Intro to MapKnitter.org
 
 by [warren](../profile/warren) September 30, 2011 19:16
 
 September 30, 2011 19:16 | Tags: [mapknitter](../tag/mapknitter)
+
+----
 
 <iframe width="480" height="360" src="https://www.youtube.com/embed/NOikqxIIFBc" frameborder="0" allowfullscreen></iframe>
 

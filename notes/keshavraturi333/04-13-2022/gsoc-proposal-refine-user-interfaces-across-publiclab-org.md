@@ -8,11 +8,15 @@ uid: 794628
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/045/720/original/gsoc.png)
+
 # GSoC"22 Proposal: Refine User Interfaces across PublicLab.org 
 
 by [keshavraturi333](../profile/keshavraturi333) April 13, 2022 16:30
 
 April 13, 2022 16:30 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [soc](../tag/soc), [first-time-poster](../tag/first-time-poster), [lon:76](../tag/lon:76), [lat:28.704059](../tag/lat:28.704059), [lon:77.10249](../tag/lon:77.10249), [zoom:6](../tag/zoom:6), [lat:27](../tag/lat:27), [gsoc-2022](../tag/gsoc-2022), [gsoc-2022-proposals](../tag/gsoc-2022-proposals)
+
+----
 
 ## About me
 

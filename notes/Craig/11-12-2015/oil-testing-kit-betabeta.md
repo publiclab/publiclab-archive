@@ -8,11 +8,15 @@ uid: 443143
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/012/733/original/IMG_0836.JPG)
+
 # Oil Testing Kit BetaBeta 
 
 by [Craig](../profile/Craig) November 12, 2015 10:12
 
 November 12, 2015 10:12 | Tags: [spectrometer](../tag/spectrometer), [oil](../tag/oil), [oil-testing-kit](../tag/oil-testing-kit), [for](../tag/for), [oil-testing-kit-beta](../tag/oil-testing-kit-beta)
+
+----
 
 **Better Late than Never**
 So first off i apologise for not publishing anything earlier (i thought i had but it seems it never got uploaded) 

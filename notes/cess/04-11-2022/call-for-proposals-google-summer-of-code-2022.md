@@ -8,11 +8,15 @@ uid: 525958
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/045/679/original/Screenshot_from_2022-04-11_19-50-54.png)
+
 # Call for proposals:  Google Summer of Code 2022 
 
 by [cess](../profile/cess) April 11, 2022 17:09
 
 April 11, 2022 17:09 | Tags: [gsoc](../tag/gsoc), [with:warren](../tag/with:warren), [with:liz](../tag/with:liz), [call-for-proposals](../tag/call-for-proposals), [zoom:6](../tag/zoom:6), [with:mathildaudufo](../tag/with:mathildaudufo), [gsoc-2022](../tag/gsoc-2022), [soc-2022](../tag/soc-2022)
+
+----
 
 ### Google Summer of Code(GSoC) 2022
 
@@ -65,13 +69,13 @@ Also see [2021's proposals here](https://publiclab.org/notes/cess/03-24-2021/cal
 
 ## Proposals
 
-[notes:gsoc-2022-proposals]
+[gsoc-2022-proposals](../../tag/gsoc-2022-proposals)
 
 ---------
 
 ## Questions
 
-[questions:gsoc-2022-proposals]
+[gsoc-2022-proposals](../../tag/question:gsoc-2022-proposals)
 
 ---------
 

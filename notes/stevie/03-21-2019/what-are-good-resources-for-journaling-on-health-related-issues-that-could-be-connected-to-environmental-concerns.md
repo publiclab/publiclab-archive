@@ -14,6 +14,8 @@ by [stevie](../profile/stevie) March 21, 2019 14:51
 
 March 21, 2019 14:51 | Tags: [ethics](../tag/ethics), [health](../tag/health), [question:general](../tag/question:general), [environmental-health](../tag/environmental-health), [journal](../tag/journal)
 
+----
+
 I'm interested in learning more about compiling journal type material around personal environmental health concerns. Are there any good resources for this? 
 
 I'm also interested in learning more about the ethical issues surrounding this question.

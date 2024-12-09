@@ -8,11 +8,15 @@ uid: 379
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/002/940/original/1926272_10102999443343340_645541198_o_1_.jpg)
+
 # Coulee Baker:  documenting a DIY bayou in the Bayou St John "delta"
 
 by [eustatic](../profile/eustatic) February 18, 2014 03:20
 
 February 18, 2014 03:20 | Tags: [gulf-coast](../tag/gulf-coast), [kite-mapping](../tag/kite-mapping), [wetlands](../tag/wetlands), [wetland](../tag/wetland), [dredge-reuse](../tag/dredge-reuse), [gopro](../tag/gopro), [dredgefestla](../tag/dredgefestla), [bsj](../tag/bsj), [response:9928](../tag/response:9928)
+
+----
 
 #DRAFT
 ###What I want to do

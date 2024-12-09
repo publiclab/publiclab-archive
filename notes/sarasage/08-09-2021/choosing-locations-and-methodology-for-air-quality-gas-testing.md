@@ -8,11 +8,15 @@ uid: 451398
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/044/591/original/Testing_Site_Selection.JPG)
+
 # Choosing Locations and Methodology for Air-Quality Gas Testing
 
 by [sarasage](../profile/sarasage) August 09, 2021 20:18
 
 August 09, 2021 20:18 | Tags: [landfill](../tag/landfill), [air-quality](../tag/air-quality), [waste](../tag/waste), [losangeles](../tag/losangeles), [landfills](../tag/landfills), [gas-monitoring](../tag/gas-monitoring), [lat:34](../tag/lat:34), [air-quality-monitoring](../tag/air-quality-monitoring), [lon:-118](../tag/lon:-118), [zoom:8](../tag/zoom:8), [bucket-monitor](../tag/bucket-monitor), [VVAMP](../tag/VVAMP), [prompt:vvamp](../tag/prompt:vvamp), [with:denissebn_06](../tag/with:denissebn_06), [kriging](../tag/kriging), [transects](../tag/transects)
+
+----
 
 <div class="alert alert-info" role="alert"> <a href=" https://publiclab.org/notes/sarasage/08-09-2021/choosing-locations-and-methodology-for-air-quality-gas-testing?_=1628900468#Seleccionando+Ubicaciones+y+Metodolog%C3%ADa+para+prueba+de+gas+de+calidad+de+aire.">Haz click aqui para leer el contenido de esta página en español</a>.</div>
 

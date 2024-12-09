@@ -14,6 +14,8 @@ by [liz](../profile/liz), [sashadev-sky](../profile/sashadev-sky), [ananyo2012](
 
 October 22, 2014 20:03 | Tags: [community](../tag/community), [website](../tag/website), [wintercamp](../tag/wintercamp), [history](../tag/history), [irc](../tag/irc)
 
+----
+
 ### Timeline
 
 Here's a brief history of community infrastructure (online & off), and some notable milestones. <br />

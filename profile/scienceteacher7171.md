@@ -3,6 +3,8 @@ uid: 739693
 created_at: 2021-02-15 15:10:16 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/b3a7a76aa7a8640dc18e50c246cb8496)
+
 # scienceteacher7171
 
 

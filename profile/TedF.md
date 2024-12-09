@@ -3,6 +3,8 @@ uid: 197186
 created_at: 2013-08-18 18:38:10 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/cebb09ace1b988cb1bcedfefa0e0d3ce)
+
 # TedF
 
 

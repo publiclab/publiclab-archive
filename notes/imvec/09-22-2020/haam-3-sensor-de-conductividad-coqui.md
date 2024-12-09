@@ -8,11 +8,15 @@ uid: 495038
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/040/960/original/haam3.jpg)
+
 # HAAM#3: Sensor de conductividad Coqui 
 
 by [imvec](../profile/imvec) September 22, 2020 13:56
 
 September 22, 2020 13:56 | Tags: [workshop](../tag/workshop), [coqui](../tag/coqui), [spanish](../tag/spanish), [taller](../tag/taller), [haam](../tag/haam)
+
+----
 
 <iframe src="https://www.youtube.com/embed/5_9IcsJFLFo" allowfullscreen="" width="700" height="393" frameborder="0"></iframe>
 

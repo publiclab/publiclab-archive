@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/020/736/original/tmp_27876-OI000109-429306308.jpg)
+
 # How much can one 36" balloon lift?
 
 by [warren](../profile/warren) June 09, 2017 19:05
 
 June 09, 2017 19:05 | Tags: [balloon-mapping](../tag/balloon-mapping), [mini-balloon-kit](../tag/mini-balloon-kit), [question:mini-balloon-kit](../tag/question:mini-balloon-kit)
+
+----
 
 I've just attached a **60 gram camera** (one of these [GoPro alternatives](https://publiclab.org/notes/warren/05-20-2017/cheap-lightweight-gopro-alternatives-for-aerial-mapping)) to a single 36" mylar balloon, and it lifted -- not strongly, so it wouldn't hold up in much wind, but not bad either for a calm day.
 

@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/026/798/original/satsworbits.PNG)
+
 # Fun with u-blox
 
 by [cfastie](../profile/cfastie) October 05, 2018 03:23
 
 October 05, 2018 03:23 | Tags: [arduino](../tag/arduino), [kite-aerial-photography](../tag/kite-aerial-photography), [gps](../tag/gps), [ublox](../tag/ublox), [skypod-gps-logger](../tag/skypod-gps-logger), [activity:skypod-gps-logger](../tag/activity:skypod-gps-logger)
+
+----
 
 The [SkyPod GPS Logger](https://publiclab.org/tag/skypod-gps-logger) is designed to attach to a kite or balloon photography rig and log the GPS coordinates (longitude, latitude, altitude) every few seconds. These data can be graphed along with sensor data collected during the flight. For example, air temperature, humidity, barometric pressure, and wind speed data can be collected and related to location or time. [Here are some examples](https://publiclab.org/tag/skypod/author/cfastie).
 

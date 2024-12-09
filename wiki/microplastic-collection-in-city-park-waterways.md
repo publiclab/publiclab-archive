@@ -8,11 +8,15 @@ uid: 742582
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/043/818/original/IMG-8474.jpg)
+
 # Microplastic Collection in City Park waterways
 
 by [jmerrill](../profile/jmerrill)
 
 May 05, 2021 19:40 | Tags: [gulf-coast](../tag/gulf-coast), [new-orleans](../tag/new-orleans), [nola](../tag/nola), [location:blurred](../tag/location:blurred), [place:united-states](../tag/place:united-states), [lat:30](../tag/lat:30), [lon:-90](../tag/lon:-90), [microplastics](../tag/microplastics), [zoom:6](../tag/zoom:6), [citypark](../tag/citypark), [loopnola](../tag/loopnola), [achschipmunks](../tag/achschipmunks), [reduceplasticconsumption](../tag/reduceplasticconsumption), [reducemicroplastics](../tag/reducemicroplastics), [nolitter](../tag/nolitter), [cleanupthebayou](../tag/cleanupthebayou), [archbishopchapelle](../tag/archbishopchapelle), [excelatchapelle](../tag/excelatchapelle), [chipmunkcityparkproject](../tag/chipmunkcityparkproject), [chipmunks](../tag/chipmunks)
+
+----
 
 [![IMG-8473.jpg](/i/43819)](/i/43819?s=o)
 ****
@@ -43,7 +47,7 @@ Interested in following along in the project? Subscribe to the tag below to get 
 <a class="btn btn-large btn-primary" href="https://publiclab.org/subscribe/tag/ChipmunkCityParkProject">Subscribe to updates on this project </a>
 
 
-[notes:ChipmunksCityParkProject] 
+[ChipmunksCityParkProject](../../tag/ChipmunksCityParkProject) 
 
 #chipmunks #excelatchapelle #microplastics
 
@@ -51,7 +55,7 @@ Interested in following along in the project? Subscribe to the tag below to get 
 
 Here's a place to list things you have questions about, or issues or **challenges you’re hoping to solve in this project**. What questions helped guide the work? Let's build out a Frequently Asked Questions area:
 
-[questions:ChipmunksCityParkProject]
+[ChipmunksCityParkProject](../../tag/question:ChipmunksCityParkProject)
 
 ****
 

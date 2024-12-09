@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/006/023/original/MapMill_Sandy_Front_Page.jpg)
+
 # MapMill 2.0
 
 by [jcarrera](../profile/jcarrera), [sara](../profile/sara), [faboolous](../profile/faboolous), [warren](../profile/warren)
 
 June 27, 2014 14:01 | Tags: [software](../tag/software), [mapmill](../tag/mapmill), [mockups](../tag/mockups), [wireframes](../tag/wireframes)
+
+----
 
 ##NWF Grant Application for MapMill Redevelopment:
 

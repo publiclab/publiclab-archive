@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/vitebsk.png)
+
 # New features: center on image, password protection in Knitter
 
 by [warren](../profile/warren) July 01, 2011 11:50
 
 July 01, 2011 11:50 | Tags: 
+
+----
 
 A few new features in Knitter -- 
 

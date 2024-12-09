@@ -8,11 +8,15 @@ uid: 43651
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/011/510/original/all_enclosures.jpg)
+
 # Rubba Stoppaz
 
 by [donblair](../profile/donblair) September 08, 2015 13:32
 
 September 08, 2015 13:32 | Tags: [water-sensing](../tag/water-sensing), [water-quality](../tag/water-quality), [riffle](../tag/riffle), [open-water](../tag/open-water), [bottle](../tag/bottle), [waterproofing](../tag/waterproofing), [seals](../tag/seals), [stoppers](../tag/stoppers), [riffle-examples](../tag/riffle-examples), [data-logger-enclosures](../tag/data-logger-enclosures), [sensor-enclosures](../tag/sensor-enclosures), [activity:sensor-enclosures](../tag/activity:sensor-enclosures)
+
+----
 
 Finally getting around to testing @mathew 's clever ideas around sealing up plastic water bottles as electronics enclosures!
 

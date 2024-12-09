@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/ColorTouch_0.jpeg)
+
 # Spectrometer alignment ideas
 
 by [warren](../profile/warren) May 01, 2012 14:50
 
 May 01, 2012 14:50 | Tags: [spectrometer](../tag/spectrometer), [calibration](../tag/calibration)
+
+----
 
 <a href="https://www.flickr.com/photos/jeffreywarren/7136489341/" title="Spectrometer stand by jeferonix, on Flickr"><img src="https://farm8.staticflickr.com/7057/7136489341_b56708f0ee_m.jpg" width="221" height="240" alt="Spectrometer stand"></a>
 

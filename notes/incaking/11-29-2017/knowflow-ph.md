@@ -8,11 +8,15 @@ uid: 519451
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/022/641/original/143711uknjj7yljjyz4n7o.jpg)
+
 # Knowflow组装（一）——pH和温度监测
 
 by [incaking](../profile/incaking) November 29, 2017 04:09
 
 November 29, 2017 04:09 | Tags: [arduino](../tag/arduino), [water-sensing](../tag/water-sensing), [temperature](../tag/temperature), [water-quality](../tag/water-quality), [thermal-pollution](../tag/thermal-pollution), [barnstar:photo-documentation](../tag/barnstar:photo-documentation), [arduino-uno](../tag/arduino-uno), [ph](../tag/ph), [include](../tag/include), [data-logging](../tag/data-logging), [activity:arduino](../tag/activity:arduino), [knowflow](../tag/knowflow), [activity:data-logging](../tag/activity:data-logging), [lang:zh](../tag/lang:zh), [activity:ph](../tag/activity:ph), [first-time-poster](../tag/first-time-poster)
+
+----
 
 ![](http://mc.dfrobot.com.cn/data/attachment/forum/201711/28/143711uknjj7yljjyz4n7o.jpg)  
 I am a high school teacher from Zhejiang Province, China. This semester I have a class to help my student to build a water monitoring system. I happen to know Knowflow and join its online course. This documentation is my homework as well as my making process.  

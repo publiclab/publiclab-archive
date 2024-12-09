@@ -8,11 +8,15 @@ uid: 461120
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/017/276/original/all_4_samples.png)
+
 # supplementation Data for Dave Stoft Challenge Part II
 
 by [dhaffnersr](../profile/dhaffnersr) July 31, 2016 12:52
 
 July 31, 2016 12:52 | Tags: 
+
+----
 
 ##**SP07 – C04 Comparison Absorption Study - 4 samples (evoo) Olive oil, Crude oil, Motor oil (2 stroke) Blue Mouth Wash and Dish Detergent...**
 

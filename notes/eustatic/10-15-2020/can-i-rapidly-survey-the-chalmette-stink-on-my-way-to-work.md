@@ -14,6 +14,8 @@ by [eustatic](../profile/eustatic) October 15, 2020 19:51
 
 October 15, 2020 19:51 | Tags: [gulf-coast](../tag/gulf-coast), [louisiana](../tag/louisiana), [gps](../tag/gps), [air-quality](../tag/air-quality), [chalmette](../tag/chalmette), [question:general](../tag/question:general), [general](../tag/general), [odor-logging](../tag/odor-logging), [question:odor-logging](../tag/question:odor-logging)
 
+----
+
 Chalmette smells.  It's frustrating.  
 
   

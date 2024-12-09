@@ -14,6 +14,8 @@ by [Mekis](../profile/Mekis) April 12, 2017 18:45
 
 April 12, 2017 18:45 | Tags: [spectrometry](../tag/spectrometry), [question:spectrometry](../tag/question:spectrometry), [first-time-poster](../tag/first-time-poster)
 
+----
+
 ###What I want to do or know
 
 Does the spectrophotometer softwear sold by public lab work with Mac computersp? The Desktop Spectrometry Kit 3.0 is sold out, when will it be possible to buy one? 

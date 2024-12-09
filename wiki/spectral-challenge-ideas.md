@@ -14,6 +14,8 @@ by [philippg](../profile/philippg), [Jessica_Helm](../profile/Jessica_Helm), [wa
 
 April 20, 2013 18:44 | Tags: [spectrometer](../tag/spectrometer), [spectralchallenge](../tag/spectralchallenge)
 
+----
+
 This wiki page is collecting questions and statements of interest that have been expressed on the mailing lists or in person at barnraisings. Each of these could inspire a Spectral Challenge entry, so click "edit" to add yours below!
 
 * **I'm a gardener.** Can i do my own soil testing? Usually i send away to a lab for a mineral profile, and to make sure there's nothing harmful in my soil before i plant food crops in it. 

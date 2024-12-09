@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/classification.png)
+
 # Clashifier: open source, web based image classification prototype
 
 by [warren](../profile/warren) January 16, 2012 20:54
 
 January 16, 2012 20:54 | Tags: [oil](../tag/oil), [image-interpretation](../tag/image-interpretation), [classification](../tag/classification), [clashifier](../tag/clashifier), [training](../tag/training), [identifying-oil](../tag/identifying-oil)
+
+----
 
 I've been puttering around on this project for a little while (started at WhereCamp Boston last fall) called Clashifier - it's intended to help people "train" a "model" of different land types by drawing on an example image. Then it tries to extrapolate that model to color any image by the same "training"
 

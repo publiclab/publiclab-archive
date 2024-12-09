@@ -14,6 +14,8 @@ by [drabanus](../profile/drabanus) June 04, 2013 17:02
 
 June 04, 2013 17:02 | Tags: [spectrometer](../tag/spectrometer), [spectralworkbench](../tag/spectralworkbench), [software-deployment](../tag/software-deployment), [offline](../tag/offline)
 
+----
+
 Dear spectral workbench developers,
 
 could you give me an advise on which sw package to download for using spectral workbench offline? For our field deployments in the Chilean desert we *require* an application the does not require an internet connection.

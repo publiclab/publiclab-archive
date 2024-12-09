@@ -8,11 +8,15 @@ uid: 12
 
 ---
 
+![](https://publiclab.org/sites/default/files/WilkinsonEastScale.jpg)
+
 # Calculating Pixel Resolution
 
 by [gonzoearth](../profile/gonzoearth) May 25, 2011 19:18
 
 May 25, 2011 19:18 | Tags: 
+
+----
 
 Just a brief note here about determining the pixel resolution for a PLOTS map in the Wilkinson Bay, Louisiana area. 
 

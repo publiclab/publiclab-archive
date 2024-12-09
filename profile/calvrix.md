@@ -3,6 +3,8 @@ uid: 503867
 created_at: 2017-03-10 07:25:43 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/cacc1abbc84a1aa292fac76343982f37)
+
 # calvrix
 
 Web developer since I don't remember when. Delving into the open source world now.

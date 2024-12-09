@@ -14,6 +14,8 @@ by [tumakin](../profile/tumakin) November 11, 2020 14:38
 
 November 11, 2020 14:38 | Tags: [ndvi](../tag/ndvi), [question:ndvi](../tag/question:ndvi), [first-time-poster](../tag/first-time-poster)
 
+----
+
 Hello PublicLab community!
 
 I'm currently working on a relatively large dataset which I recently produced for my master's thesis, and I'm having some issues with processing the data and interpreting the results. The experiment was conducted using a self-made, rudimentary growth chamber-setup built around a Raspberry Pi model 4 and Node-Red (Fig. 1). The system involved sensors and actuators for environmental humidity & temperature control, artificial LED-lighting with three controllable wavelengths (blue, red, NIR) and a RPi NoIR v2\. camera system with a red filter. The aim of this project was to

@@ -8,11 +8,15 @@ uid: 422207
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/003/631/original/rockaway_photo.jpg)
+
 # Kite mapping in Far Rockaway, Queens
 
 by [jenmansta](../profile/jenmansta) April 11, 2014 18:54
 
 April 11, 2014 18:54 | Tags: [new-york-city](../tag/new-york-city), [kite-mapping](../tag/kite-mapping), [queens](../tag/queens), [event](../tag/event), [rockaways](../tag/rockaways), [arverne](../tag/arverne), [northeast](../tag/northeast), [replication:14022](../tag/replication:14022), [replication:13475](../tag/replication:13475)
+
+----
 
 **Objective** <BR> Document the current conditions of Arverne East in Far Rockaway, Queens, a site currently undeveloped but possibly undergoing change in the coming years. 
  

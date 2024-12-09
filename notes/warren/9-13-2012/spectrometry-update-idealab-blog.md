@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/spec.jpg)
+
 # Spectrometry update on IdeaLab blog
 
 by [warren](../profile/warren) September 13, 2012 14:06
 
 September 13, 2012 14:06 | Tags: [spectrometer](../tag/spectrometer), [idealab](../tag/idealab)
+
+----
 
 <em>This post was originally featured on the PBS MediaShift IdeaLab blog as "[DIY spectrometer project seeks affordable contaminant analysis](http://www.pbs.org/idealab/2012/09/public-lab-uses-kickstarter-to-bring-diy-spectrometry-to-the-masses254.html)"</em>
 

@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/032/344/original/Screen_Shot_2019-05-17_at_5.20.32_PM.png)
+
 # Set up a Raspberry Pi Camera with Pi Builder
 
 by [warren](../profile/warren) May 20, 2019 15:11
 
 May 20, 2019 15:11 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [nasa](../tag/nasa), [raspberry-pi](../tag/raspberry-pi), [infragram](../tag/infragram), [timelapse](../tag/timelapse), [pi-camera](../tag/pi-camera), [activity:timelapse](../tag/activity:timelapse), [activity:infragram](../tag/activity:infragram), [aren](../tag/aren), [location:blurred](../tag/location:blurred), [activity:pi-camera](../tag/activity:pi-camera), [kite-](../tag/kite-), [balloon-](../tag/balloon-), [infragram-pi](../tag/infragram-pi), [activity:infragram-pi](../tag/activity:infragram-pi), [activity:pi-camera-setup](../tag/activity:pi-camera-setup), [pin:activity:pi-camera-setup](../tag/pin:activity:pi-camera-setup), [zoom:6](../tag/zoom:6), [lat:46](../tag/lat:46), [lon:48](../tag/lon:48), [place:russia](../tag/place:russia)
+
+----
 
 Our [Pi Camera](https://store.publiclab.org/collections/diy-infrared-photography/products/infragram-pi-camera) and [Infragram Pi](https://store.publiclab.org/collections/diy-infrared-photography/products/infragram-pi-camera) kits are simple-to-use cameras designed for #timelapse, #balloon-mapping, or #kite-mapping. They're built using the **Raspberry Pi** educational mini-computer, but whereas usually you have to program and configure these, we've used **Pi Builder** (#pi-builder) to make this as simple and plug-and-play as possible. Here, we'll show how to start using one of these cameras, whether you got one pre-assembled or not.
 

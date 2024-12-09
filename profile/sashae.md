@@ -3,6 +3,8 @@ uid: 693684
 created_at: 2020-05-15 14:59:20 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/693684/medium/BalconySatellitePass.jpg)
+
 # sashae
 
 I am a London based geographer and creative practitioner exploring interdisciplinary, feminist and critical-creative approaches to environmental sensing. I collaborate with artists and activists to investigate different ways of tracing, monitoring and engaging with our environments that reach beyond models of capture and enumeration. I am an active member of the international Aerocene community, and a co-founder (with Sophie Dyer) of the feminist weather sensing project Open Weather. 

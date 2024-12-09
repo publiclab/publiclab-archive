@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/001/216/original/Lettuce_Infrared.jpg)
+
 # Recover your balance
 
 by [cfastie](../profile/cfastie) August 20, 2013 05:28
 
 August 20, 2013 05:28 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [vermont](../tag/vermont), [infrared](../tag/infrared), [infragram](../tag/infragram), [infragram-sandbox](../tag/infragram-sandbox)
+
+----
 
 Greg asked about getting useful information from photos taken with an Infragram camera that had not been [custom white balanced](http://publiclab.org/wiki/infrablue-white-balance). If photos are taken with such a camera, plants and most other things appear purplish. The red and blue histograms of these photos are mostly overlapping, so computing NDVI, which highlights the difference between the red and blue channels, often produces unhelpful results. However the red channel still records mostly near infrared light, which by itself has very useful information about plant health. Healthy foliage appears bright in images of the isolated red channel of these photos. To highlight this information, you can colorize the NIR image by applying a color table like the ones we have been using to colorize NDVI images. This makes a "heat map" with more intense colors where there is more near infrared light being reflected.
 

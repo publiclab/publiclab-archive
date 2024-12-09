@@ -8,11 +8,15 @@ uid: 9
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/024/227/original/pl-narrow.png)
+
 # Public Lab nonprofit job posting: Development and Communications Manager
 
 by [Shannon](../profile/Shannon) March 27, 2018 19:13
 
 March 27, 2018 19:13 | Tags: [nonprofit](../tag/nonprofit), [jobs](../tag/jobs), [job](../tag/job)
+
+----
 
 **Start Date:** Early May 2018
 

@@ -3,6 +3,8 @@ uid: 18394
 created_at: 2013-09-10 07:59:55 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/820479e395992f4a6c6019b0d6b7c414)
+
 # keimpe
 
 Keimpe de Heer is director of Waag Societyâ€™s Creative Learning Lab. In this role Keimpe is responsible for program development and the strategic and organizational outline of activities in the Creative Learning Lab, the educational department of Waag Society.

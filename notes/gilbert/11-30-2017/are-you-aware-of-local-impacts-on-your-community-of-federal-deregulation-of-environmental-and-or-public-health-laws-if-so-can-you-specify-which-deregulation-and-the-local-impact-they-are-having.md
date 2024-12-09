@@ -14,6 +14,8 @@ by [gilbert](../profile/gilbert) November 30, 2017 21:03
 
 November 30, 2017 21:03 | Tags: [environmental-regulations](../tag/environmental-regulations), [public-health-laws](../tag/public-health-laws), [presidential-executive-orders](../tag/presidential-executive-orders)
 
+----
+
 For more detail, in order to to put this question into context, please see https://publiclab.org/notes/gilbert/11-29-2017/chronology-presidential-contributions-to-public-health-the-environment
 
 "Chronology of Presidential Contributions to Public Health & the Environment"

@@ -8,11 +8,15 @@ uid: 461120
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/015/921/original/blue_LEDclose_up__475nm_highpower_1000mA_may3.png)
+
 # Some tools of the trade and a new Cree highpower Blue LED that I put together
 
 by [dhaffnersr](../profile/dhaffnersr) May 04, 2016 09:31
 
 May 04, 2016 09:31 | Tags: 
+
+----
 
 I received yesterday my Cree high powered 470nm blue LED, and so I put it together and tested it out.
 

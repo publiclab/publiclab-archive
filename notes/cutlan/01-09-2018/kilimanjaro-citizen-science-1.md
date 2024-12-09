@@ -8,11 +8,15 @@ uid: 522144
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/023/136/original/MLIMA.jpg)
+
 # Kilimanjaro Citizen Science - KCS-1
 
 by [cutlan](../profile/cutlan) January 09, 2018 17:28
 
 January 09, 2018 17:28 | Tags: [modis](../tag/modis), [africa](../tag/africa), [kilimanjaro](../tag/kilimanjaro), [tanzania](../tag/tanzania)
+
+----
 
 The main aim of phase one is to use time series data as acquired by MODIS Sensors in order to plan better for tree planting activities while looking on high temperature belt which according to Local Communities(Citizens Science) is the source of reducing Ice/Snow on the Mount Kilimanjaro.
 

@@ -8,11 +8,15 @@ uid: 563397
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/030/513/original/camera_spectrometer.jpg)
+
 # Revised 3D printable mini spectrometer
 
 by [B-winters](../profile/B-winters) December 14, 2018 00:00
 
 December 14, 2018 00:00 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [intensity-calibration](../tag/intensity-calibration), [absorption](../tag/absorption), [absorption-spectrometry](../tag/absorption-spectrometry), [hardware](../tag/hardware), [activity:spectrometry](../tag/activity:spectrometry), [vis-spectroscopy](../tag/vis-spectroscopy), [3d-print](../tag/3d-print), [build:13865](../tag/build:13865), [lat:1.655043](../tag/lat:1.655043), [lon:3.863525](../tag/lon:3.863525)
+
+----
 
 I used the [3D printed mini spectrometer](https://publiclab.org/notes/rthalman/01-19-2017/3d-printed-mini-spectrometer) from @rthalman and made some changes to improve performance and ensure it would serve my purposes well. The parts simply need to be printed on a consumer-grade 3D printer and cleaned as is typical for each specific printer model. I used methylene chloride to solvent weld the phone case to the grating holder, but this is not strictly necessary as there is a peg and hole combo that holds it all together reasonably well. In the exploded view of the pieces below, you can see how each piece fits together. Otherwise, the parts simply slide together as shown.
 

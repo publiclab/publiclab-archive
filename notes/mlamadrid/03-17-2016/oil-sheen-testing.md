@@ -14,6 +14,8 @@ by [mlamadrid](../profile/mlamadrid) March 17, 2016 03:56
 
 March 17, 2016 03:56 | Tags: [spectrometer](../tag/spectrometer), [oil-testing](../tag/oil-testing), [pig-oil](../tag/pig-oil), [with:matej](../tag/with:matej)
 
+----
+
 This is an article by **Matej Vakula** for [Community Science Forum Issue #1 on DYI Oil Testing](https://publiclab.org/forum). Buy a copy in the Public Lab Store.
 
 As an Oil Sheen Testing fellow I am looking for the most effective, safe and DIY approachable ways to collect oil sheens and possibly separate oil from water. My fellowship started in October and right now it is about to end. I developed and tested three collection methods. Besides that in mid February I organized a successful sheen collection and oil testing workshop at Newtown Creek in Greenpoint, Brooklyn. During this workshop we discovered a large oil spill in the Dutch Kills area of the Creek.

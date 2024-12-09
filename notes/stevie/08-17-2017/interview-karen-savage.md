@@ -8,11 +8,15 @@ uid: 422561
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/021/363/original/karensavage_02.JPG)
+
 # Interview: Karen Savage 
 
 by [stevie](../profile/stevie) August 17, 2017 15:05
 
 August 17, 2017 15:05 | Tags: [gulf-coast](../tag/gulf-coast), [blog](../tag/blog), [journalism](../tag/journalism), [environmental-justice](../tag/environmental-justice), [community-organizing](../tag/community-organizing), [interview-series](../tag/interview-series), [environmental-journalism](../tag/environmental-journalism), [series:community-interviews](../tag/series:community-interviews)
+
+----
 
 _Photo by [Kayana Szymczak][1]_
 

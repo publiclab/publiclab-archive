@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/sites/default/files/Canon_40D_Response_CurveB.jpg)
+
 # Visible/IR mapping camera process 
 
 by [cfastie](../profile/cfastie) April 15, 2012 13:10
 
 April 15, 2012 13:10 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping)
+
+----
 
 Image: Spectral response of each color channel (R,G,B) of a Canon 40D with the IR block filter removed. If you then block most visible light (<700 nm) what do you get?
 

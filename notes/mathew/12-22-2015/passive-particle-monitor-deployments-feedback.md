@@ -8,11 +8,15 @@ uid: 4
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/013/446/original/IMG_20151020_175427_%282%29.jpg)
+
 # Passive Particle Monitor Deployments: feedback
 
 by [mathew](../profile/mathew) December 22, 2015 00:29
 
 December 22, 2015 00:29 | Tags: [wisconsin](../tag/wisconsin), [air-quality](../tag/air-quality), [dust](../tag/dust), [silica](../tag/silica), [frac-sand](../tag/frac-sand), [particle-monitoring](../tag/particle-monitoring), [passive-particle-monitors](../tag/passive-particle-monitors), [passive-pm](../tag/passive-pm), [parent:frac-sand](../tag/parent:frac-sand)
+
+----
 
 ###What I want to do
 In October and early November, some first draft prototypes of [passive PM monitors](/tag/passive-pm) were [deployed in central Wisconsin and Chicago](/notes/mathew/10-26-2015/deploying-passive-particle-monitors).  

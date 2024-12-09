@@ -14,6 +14,8 @@ by [gretchengehrke](../profile/gretchengehrke)
 
 April 21, 2017 19:12 | Tags: [air-quality](../tag/air-quality), [monitoring](../tag/monitoring), [study-design](../tag/study-design)
 
+----
+
 Most environmental monitoring studies center around two key questions: what are the pollutant concentrations in the area of interest, and from where did the pollution come? 
 
 To assess the pollutant concentrations in the area of interest, it is necessary to collect samples under a variety of conditions, and depending on the size of the area of interest, possibly in multiple locations within that area. Variables could include time of day, day of the week, season, wind speed, wind direction, humidity, precipitation, temperature, nearby landscape features, etc. 

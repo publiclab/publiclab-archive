@@ -8,11 +8,15 @@ uid: 422561
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/021/127/original/20170708_173545_720-1.jpg)
+
 # Stormwater Workshop 6: Monitoring and Lessons Learned
 
 by [stevie](../profile/stevie) July 14, 2017 20:41
 
 July 14, 2017 20:41 | Tags: [gulf-coast](../tag/gulf-coast), [louisiana](../tag/louisiana), [time-lapse](../tag/time-lapse), [photo-monitoring](../tag/photo-monitoring), [timelapse](../tag/timelapse), [new-orleans](../tag/new-orleans), [stormwater](../tag/stormwater), [story:timelapse](../tag/story:timelapse), [story:stormwater](../tag/story:stormwater)
+
+----
 
 After a month of stormwater monitoring and collecting data, we got together for one more workshop to talk about the monitoring that we have done and the lessons we all had learned. (Read more about the Stormwater Workshop series [here](https://publiclab.org/notes/stevie/02-01-2017/stormwater-workshop-series-in-new-orleans) with posts from all the other events).
 

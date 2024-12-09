@@ -3,6 +3,8 @@ uid: 562839
 created_at: 2018-12-05 17:08:15 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/34a0faee8363a4762cf13bba6cb2e083)
+
 # SadiePrego
 
 My name is Sadie and I am one of the Digital Literacy Instructors at a branch of Queens Library called the Queensbridge Tech Lab. We are located in LIC within Queensbridge Housing. We focus on creating a accessible and resourceful space for the local community within the umbrella of creative expression, digital & media literacy, education on privacy & civic rights, urban environmentalism, and job pathways. Our programming is quite robust as we try to be a fluid space that flows in the direction of the communities interests and needs. Some example classes are, Sewing with LEDS, Building Microscopes, Photoshop, How to use a smartphone, Synthesizers, Intro to the Internet, 3D printing Jewelry, Digital Photography. 

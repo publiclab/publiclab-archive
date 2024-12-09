@@ -8,11 +8,15 @@ uid: 461120
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/015/346/original/2_stroke_mtr_oil_apr4.png)
+
 # Prolight 1W 400-410nm UV LED (high brightness-350mA) Tested today
 
 by [dhaffnersr](../profile/dhaffnersr) April 04, 2016 18:43
 
 April 04, 2016 18:43 | Tags: 
+
+----
 
 I tested my Prolight LED on 3 samples:
 

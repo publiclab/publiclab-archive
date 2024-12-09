@@ -3,6 +3,8 @@ uid: 622299
 created_at: 2019-09-23 07:08:28 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/0d445f0a802d8262a8efb2a7d8d76d89)
+
 # subir
 
 I am a prototype developer for small clients (NGOs, middle class enthusiasts, start-ups) requiring mechanical prototypes with automation or sensing.

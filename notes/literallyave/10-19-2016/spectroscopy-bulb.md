@@ -8,11 +8,15 @@ uid: 494872
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/018/448/original/IMG_0645.JPG)
+
 # Spectroscopy Bulb
 
 by [literallyave](../profile/literallyave) October 19, 2016 15:04
 
 October 19, 2016 15:04 | Tags: [hidden:response](../tag/hidden:response), [response:13586](../tag/response:13586), [first-time-poster](../tag/first-time-poster)
+
+----
 
 ###What I want to do
 

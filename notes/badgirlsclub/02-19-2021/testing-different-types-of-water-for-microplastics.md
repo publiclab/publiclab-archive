@@ -8,11 +8,15 @@ uid: 739157
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/042/747/original/download.jpg)
+
 # Testing Different Types of Water for Microplastics
 
 by [badgirlsclub](../profile/badgirlsclub) February 19, 2021 17:09
 
 February 19, 2021 17:09 | Tags: [education](../tag/education), [activity:education](../tag/activity:education), [microplastics](../tag/microplastics), [first-time-poster](../tag/first-time-poster), [activity:microplastics](../tag/activity:microplastics), [zoom:2](../tag/zoom:2), [lat:29.981601](../tag/lat:29.981601), [lon:-90.088062](../tag/lon:-90.088062)
+
+----
 
 1\. Grab all water you will be testing with.
 

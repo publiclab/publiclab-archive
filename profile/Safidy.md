@@ -3,6 +3,8 @@ uid: 898
 created_at: 2016-09-09 14:17:27 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/c1219933a9bf3fd29a0ae4b06abb8212)
+
 # Safidy
 
 

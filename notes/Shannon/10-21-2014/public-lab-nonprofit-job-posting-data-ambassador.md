@@ -8,11 +8,15 @@ uid: 9
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/007/595/original/plots-logo-transparent.jpg)
+
 # Public Lab nonprofit job posting: Data Ambassador
 
 by [Shannon](../profile/Shannon) October 21, 2014 18:47
 
 October 21, 2014 18:47 | Tags: [nonprofit](../tag/nonprofit)
+
+----
 
 **Public Laboratory for Open Technology and Science: Data Ambassador**
 

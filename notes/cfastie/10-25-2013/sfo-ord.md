@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/002/046/original/SFO-ORD.jpg)
+
 # SFO-ORD
 
 by [cfastie](../profile/cfastie) October 25, 2013 16:43
 
 October 25, 2013 16:43 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [passenger-pigeon](../tag/passenger-pigeon), [infragram](../tag/infragram), [photosynthesis](../tag/photosynthesis), [gsoc](../tag/gsoc), [google](../tag/google), [google-summer-of-code](../tag/google-summer-of-code), [gsoc2013](../tag/gsoc2013), [infrablue](../tag/infrablue), [response:9540](../tag/response:9540), [mentorsummit](../tag/mentorsummit), [mentorsummit13](../tag/mentorsummit13), [a810](../tag/a810)
+
+----
 
 *Image above: Taking off from San Francisco and landing in Chicago on Monday. I think I was very lucky to get good views of both cities on one flight.*  
 

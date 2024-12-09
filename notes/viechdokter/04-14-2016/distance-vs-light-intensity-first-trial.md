@@ -8,11 +8,15 @@ uid: 468990
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/015/539/original/light_source_distance.jpg)
+
 # Distance vs light intensity                first trial
 
 by [viechdokter](../profile/viechdokter) April 14, 2016 10:49
 
 April 14, 2016 10:49 | Tags: 
+
+----
 
 I tried to do an experiment where I changed the distance of the light source from the spectrometer slit to see  
 

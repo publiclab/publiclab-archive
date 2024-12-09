@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/parts-and-crafts-nrg.jpg)
+
 # Final day of infrared photography at Parts & Crafts
 
 by [warren](../profile/warren) April 20, 2011 21:52
 
 April 20, 2011 21:52 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [nrg](../tag/nrg), [ndvi](../tag/ndvi), [partsandcrafts](../tag/partsandcrafts), [parts-and-crafts](../tag/parts-and-crafts), [keychain-cameras](../tag/keychain-cameras), [pole-photography](../tag/pole-photography)
+
+----
 
 Today was the last of our 3 days doing "pole aerial photography" (coined by Nathan Craig?) with [near-infrared cameras](/tool/near-infrared-camera) at [Parts and Crafts](http://partsandcrafts.org) in Somerville, MA. (I posted about this [on Monday too](/notes/warren/4-18-2011/infrared-camera-hacking-parts-and-crafts)) We spent yesterday testing PVC tube "towers" and building mechanisms to trigger the cameras at the top of the towers using string and popsicle sticks, as you can see in this picture:
 

@@ -8,11 +8,15 @@ uid: 424597
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/035/600/original/IMG_20191007_120645.jpg)
+
 # Oil and Gas Hardware Fellow Status Update: Week 3!
 
 by [wmacfarl](../profile/wmacfarl) October 07, 2019 16:51
 
 October 07, 2019 16:51 | Tags: [water-quality](../tag/water-quality), [lat:41.834189](../tag/lat:41.834189), [lon:-71.441798](../tag/lon:-71.441798), [oil-and-gas-water-trio](../tag/oil-and-gas-water-trio)
+
+----
 
 It's the beginning of the third week of the Public Lab Oil and Gas water monitoring fellowship trio and we've all been busy starting to weave together the threads of the three different fellowships and research areas.
 

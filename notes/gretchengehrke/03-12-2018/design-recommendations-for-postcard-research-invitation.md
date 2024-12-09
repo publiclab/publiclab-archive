@@ -8,11 +8,15 @@ uid: 430549
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/024/022/original/Screen_Shot_2018-03-08_at_10.23.30_AM.png)
+
 # Design recommendations for postcard research invitation?
 
 by [gretchengehrke](../profile/gretchengehrke) March 12, 2018 16:26
 
 March 12, 2018 16:26 | Tags: [design](../tag/design), [formaldehyde](../tag/formaldehyde), [indoor-air-quality-monitoring](../tag/indoor-air-quality-monitoring), [smart-form](../tag/smart-form), [question:design](../tag/question:design), [question:outreach](../tag/question:outreach)
+
+----
 
 For the [SmART-Form project](/wiki/smart-form), we are going to do launch the new formaldehyde detection system as a community case study in southern Georgia. We'll be going door-to-door to invite people to participate in the study. About two weeks before we arrive, we will be mailing postcards to residents in the area, letting them know about the study and that we'll be knocking on their door soon. 
 

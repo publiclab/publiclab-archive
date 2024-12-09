@@ -8,11 +8,15 @@ uid: 579821
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/043/838/original/5951788839_97d9633a3b_b.jpg)
+
 # Join us for Public Lab 101!
 
 by [mimiss](../profile/mimiss) May 17, 2021 21:39
 
 May 17, 2021 21:39 | Tags: [website](../tag/website), [education](../tag/education), [event](../tag/event), [classroom](../tag/classroom), [classroom-community-science](../tag/classroom-community-science), [event:education](../tag/event:education)
+
+----
 
 -><a href="https://forms.gle/mPuGAnhoP9RtxXG97" title="">Register</a><br><-
 

@@ -8,11 +8,15 @@ uid: 365600
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/027/321/original/tempsnip.png)
+
 # Scanning Full Spectrum Images via Smart Phone Spectrometer
 
 by [nathanathan](../profile/nathanathan) October 27, 2018 18:50
 
 October 27, 2018 18:50 | Tags: [spectrometer](../tag/spectrometer)
+
+----
 
 #### Objective
 

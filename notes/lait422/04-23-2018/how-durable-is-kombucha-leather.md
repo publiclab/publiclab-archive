@@ -14,6 +14,8 @@ by [lait422](../profile/lait422) April 23, 2018 21:32
 
 April 23, 2018 21:32 | Tags: [kombucha-leather](../tag/kombucha-leather), [question:kombucha-leather](../tag/question:kombucha-leather)
 
+----
+
 I conducted a stretch test and a crumple test on a piece of kombucha leather before and after it was coated with the beeswax and coconut oil mixture.   
 
 ![image description](https://publiclab.org/system/images/photos/000/024/705/large/IMG_0961.JPG "IMG_0961.JPG") Stretch Test

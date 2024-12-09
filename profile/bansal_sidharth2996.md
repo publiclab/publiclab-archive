@@ -3,6 +3,8 @@ uid: 503599
 created_at: 2017-03-04 20:13:33 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/3872f56f633add8218239512282f835a)
+
 # bansal_sidharth2996
 
 I am a Software Engineering Student at Delhi Technological University. I am a full stack Ruby on Rails developer. I love to do competitive coding and machine learning in my free time too. I am a former GSoC'18 student and GCI'18 Org Admin & Mentor. I am currently mentoring Outreachy and Google Summer of Code. 

@@ -14,6 +14,8 @@ by [Hudonnoodles](../profile/Hudonnoodles) April 07, 2011 23:41
 
 April 07, 2011 23:41 | Tags: [balloon-mapping](../tag/balloon-mapping), [newark](../tag/newark), [new-jersey](../tag/new-jersey), [northeast](../tag/northeast), [first-time-poster](../tag/first-time-poster)
 
+----
+
 <iframe src="http://player.vimeo.com/video/21265848" width="500" height="281" frameborder="0"></iframe><p><a href="http://vimeo.com/21265848">Grassroots Newark: Phil Silva wrangling the balloon</a> from <a href="http://vimeo.com/user2342021">Jennifer Hudon</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
 
 As follow up to a November 2010 camera launch, a group of  11 students, professors and community members gathered on Saturday, March 5th for the second installment of Grassroots Newark. The dual purpose of the project is to (1) document the progress of the development of the <a href="http://newarksriver.wordpress.com/">riverfront park</a> being built along Raymond Boulevard in Newark, NJ and (2) use the site space to teach people about grassroots mapping while testing new processes by innovating balloon, kite and camera designs.

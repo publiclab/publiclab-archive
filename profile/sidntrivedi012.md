@@ -3,6 +3,8 @@ uid: 572743
 created_at: 2019-02-01 21:12:11 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/88a9d870a74c41d1361b70f8cb95729a)
+
 # sidntrivedi012
 
 F/OSS Enthusiast | Linux freak | Trying to solve the problems one commit at a time.

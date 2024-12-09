@@ -8,11 +8,15 @@ uid: 568043
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/033/169/original/1_g5RBYeGe0VLB6t_ZsvO_wQ.png)
+
 # <code> Into GSoC’19 with Public Lab </code>
 
 by [IshaGupta18](../profile/IshaGupta18) June 24, 2019 17:07
 
 June 24, 2019 17:07 | Tags: [open-source](../tag/open-source), [gsoc](../tag/gsoc), [soc](../tag/soc), [soc-2019](../tag/soc-2019)
+
+----
 
 It's been about 1.5 months since the GSoC result was declared, and it's been a marvelous journey till now, as it will be till the end.
 

@@ -14,6 +14,8 @@ by [warren](../profile/warren) September 16, 2016 18:48
 
 September 16, 2016 18:48 | Tags: [photo-monitoring](../tag/photo-monitoring), [timelapse](../tag/timelapse), [question:timelapse](../tag/question:timelapse), [method82](../tag/method82), [smoke-school](../tag/smoke-school), [question:evidence](../tag/question:evidence), [question:legal](../tag/question:legal), [law-and-policy](../tag/law-and-policy), [question:law-and-policy](../tag/question:law-and-policy)
 
+----
+
 As folks are looking at #timelapse photography as a means to document environmental problems like water contamination, I've heard people ask what's the best way to store these images (or often videos) 
 
 We'll be testing a hunting camera [at LEAFFEST 2016](https://publiclab.org/notes/cfastie/08-12-2016/leaffest-2016) and will post our video to YouTube for starters. But are there chain of custody steps we should take? 

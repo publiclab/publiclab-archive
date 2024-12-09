@@ -8,11 +8,15 @@ uid: 43651
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/000/114/original/overlord.png)
+
 # I For One Welcome Our New IRCAM Overlords
 
 by [donblair](../profile/donblair) April 25, 2013 00:34
 
 April 25, 2013 00:34 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [raspberry-pi](../tag/raspberry-pi), [infrared-camera](../tag/infrared-camera), [nvdi](../tag/nvdi)
+
+----
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/cglic_UuFP4" frameborder="0" allowfullscreen></iframe>
 

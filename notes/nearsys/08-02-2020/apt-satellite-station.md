@@ -14,6 +14,8 @@ by [nearsys](../profile/nearsys) August 02, 2020 17:13
 
 August 02, 2020 17:13 | Tags: [satellite-imagery](../tag/satellite-imagery), [antenna](../tag/antenna), [open-weather](../tag/open-weather), [amplifier](../tag/amplifier)
 
+----
+
 Great article in receiving APT images. I was able to set up a station and start collecting images. 
 
 As you can see, I have pretty good images and plan to keep collecting them.

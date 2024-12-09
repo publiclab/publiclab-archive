@@ -14,6 +14,8 @@ by [Shannon](../profile/Shannon) April 27, 2012 19:36
 
 April 27, 2012 19:36 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
 
+----
+
 It's been a busy week, a wide range of new research notes have gone up, the air column monitoring project was launched and there are a number of new additions to the website! Below are a couple of highlights from Public Lab for this week:
 
 1. NYC - EcoHack on Earth Day Weekend was a smashing, stormy success at Parsons the New School for Design. Collaborating with the Sensemake.rs community (creators of Air Quality Egg) resulted in a sensor pack wirelessly transmitting 6 variables from balloon to ground. Check out the research notes. Next steps will be to coordinate with data visualizers and test the lenticular balloon case + “tail fin” combo.

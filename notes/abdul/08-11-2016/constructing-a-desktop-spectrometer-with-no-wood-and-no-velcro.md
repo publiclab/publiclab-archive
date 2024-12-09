@@ -8,11 +8,15 @@ uid: 479194
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/017/546/original/FullDSK.jpg)
+
 # Constructing a Desktop Spectrometer with no Wood, and no Velcro
 
 by [abdul](../profile/abdul) August 11, 2016 00:18
 
 August 11, 2016 00:18 | Tags: [kits](../tag/kits), [spectrometry](../tag/spectrometry), [kit](../tag/kit), [dsk](../tag/dsk), [builds](../tag/builds), [desktop](../tag/desktop), [modification](../tag/modification), [difficulty:easy](../tag/difficulty:easy), [upgrade:spectrometry](../tag/upgrade:spectrometry), [upgrade:dssk](../tag/upgrade:dssk), [seeks:builds](../tag/seeks:builds), [category:build](../tag/category:build), [status:in-progress](../tag/status:in-progress), [time:1h](../tag/time:1h)
+
+----
 
 ###This project proves the construction, without testing of spectra, that a desktop spectrometer can be built with no wooden block and with no velcro. 
 

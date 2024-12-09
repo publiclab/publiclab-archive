@@ -8,11 +8,15 @@ uid: 4
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/006/376/original/Screen_Shot_2014-08-21_at_12.10.22_PM.png)
+
 # Low-cost passive aerosol monitors
 
 by [mathew](../profile/mathew) August 21, 2014 23:33
 
 August 21, 2014 23:33 | Tags: [air-quality](../tag/air-quality), [dust](../tag/dust), [particulates](../tag/particulates), [silica](../tag/silica), [frac-sand](../tag/frac-sand), [pm](../tag/pm), [particle-sensing](../tag/particle-sensing), [particle-monitoring](../tag/particle-monitoring), [fracsand](../tag/fracsand), [passive-particle-monitors](../tag/passive-particle-monitors), [passive-pm](../tag/passive-pm), [parent:frac-sand](../tag/parent:frac-sand)
+
+----
 
 ###What I want to do
 Summarize the literature on low-cost passive particle monitors tha can produce data expressible as concentrations by air volume, the kind of [data required to take action by the EPA](/wiki/particle-sensing).

@@ -14,6 +14,8 @@ by [justin_bauer](../profile/justin_bauer) June 02, 2020 22:34
 
 June 02, 2020 22:34 | Tags: [ndvi](../tag/ndvi), [nir](../tag/nir), [infrared](../tag/infrared), [agriculture](../tag/agriculture), [water](../tag/water), [canada](../tag/canada), [question:ndvi](../tag/question:ndvi), [question:infrared](../tag/question:infrared), [question:general](../tag/question:general), [general](../tag/general), [noir](../tag/noir), [first-time-poster](../tag/first-time-poster), [caj](../tag/caj), [pwi](../tag/pwi), [dwsi](../tag/dwsi)
 
+----
+
 I am looking into different cameras or sensors that i can use to measure the following ranges that are useful to agriculture:
 
   

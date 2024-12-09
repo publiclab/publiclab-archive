@@ -8,11 +8,15 @@ uid: 693684
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/039/985/original/Screenshot_2020-06-10_09.15.39.png)
+
 # How to Compile NOAA APT 1.2.0 and 1.3.0 on Mac
 
 by [sashae](../profile/sashae) July 02, 2020 07:50
 
 July 02, 2020 07:50 | Tags: [seeks:replications](../tag/seeks:replications), [lat:51.50735](../tag/lat:51.50735), [lon:-0.127758](../tag/lon:-0.127758), [zoom:6](../tag/zoom:6), [open-weather](../tag/open-weather), [activity:open-weather](../tag/activity:open-weather), [response:24043](../tag/response:24043)
+
+----
 
 ### Guide for installing the open source satellite image decoding software NOAA APT 1.2.0 and NOAA APT 1.3.0 on Mac OS 10.15
 

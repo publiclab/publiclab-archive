@@ -8,11 +8,15 @@ uid: 664477
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/044/224/original/Gowanus_infrared.jpg)
+
 # Advocacy with Maps
 
 by [bhamster](../profile/bhamster)
 
 June 21, 2021 21:24 | Tags: [annotated-maps](../tag/annotated-maps), [aerial-photography](../tag/aerial-photography), [mapping](../tag/mapping), [organizing](../tag/organizing), [aerial-mapping](../tag/aerial-mapping), [advocacy](../tag/advocacy), [method](../tag/method), [community-organizing](../tag/community-organizing), [advocacy-with-maps](../tag/advocacy-with-maps)
+
+----
 
 Mapping offers a way to share and create knowledge about a place. Making a map to document and describe a local issue is often a helpful first step in community science because it can be done collaboratively, represent all kinds of information—from environmental pollution to cultural resources—and show what people close to the issue already know.  
 
@@ -57,7 +61,7 @@ For any community science project, it helps to start with determining your goals
 
 Posts tagged with `start-advocacy` will appear here
 
-[notes:grid:start-advocacy]
+[grid:start-advocacy](../../tag/grid:start-advocacy)
 
 Below in the section called “[Using your maps and aerial images](https://publiclab.org/wiki/advocacy-with-maps#Using+your+maps+and+aerial+images),” you’ll find more information on using maps for specific purposes or audiences.
 
@@ -69,7 +73,7 @@ If you can, visit the site or talk to people who live there. If you plan to do b
 
 Posts tagged with `where-to-map` will appear here
 
-[notes:grid:where-to-map]
+[grid:where-to-map](../../tag/grid:where-to-map)
 
 <br>
 
@@ -263,7 +267,7 @@ Wiki pages tagged with `project:advocacy-with-maps` will appear here
 
 Activities on Public Lab tagged with `activity:advocacy-with-maps` will appear here
 
-[activities:advocacy-with-maps]
+[advocacy-with-maps](../../tag/activity:advocacy-with-maps)
 
 <hr>
 
@@ -271,7 +275,7 @@ Activities on Public Lab tagged with `activity:advocacy-with-maps` will appear h
 
 Questions tagged with `question:advocacy-with-maps` will appear here
 
-[questions:advocacy-with-maps]
+[advocacy-with-maps](../../tag/question:advocacy-with-maps)
 
 
 <hr style="height:3px;border-width:0;color:gray;background-color:gray">

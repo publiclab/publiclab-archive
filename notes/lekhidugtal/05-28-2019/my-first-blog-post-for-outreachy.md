@@ -8,11 +8,15 @@ uid: 577754
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/032/503/original/Untitled.png)
+
 # My first blog post for outreachy
 
 by [lekhidugtal](../profile/lekhidugtal) May 28, 2019 16:06
 
 May 28, 2019 16:06 | Tags: [blog](../tag/blog), [soc](../tag/soc), [summer-of-code](../tag/summer-of-code), [outreachy](../tag/outreachy)
+
+----
 
 #### Who am I ?
 

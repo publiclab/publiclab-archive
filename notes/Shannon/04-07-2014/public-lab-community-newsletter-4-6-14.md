@@ -8,11 +8,15 @@ uid: 9
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/003/521/original/logo.png)
+
 # Public Lab community newsletter 4.6.14
 
 by [Shannon](../profile/Shannon) April 07, 2014 01:52
 
 April 07, 2014 01:52 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
+
+----
 
 This week in the Public Lab community newsletter, read about mapping in the Czech Republic and Spain, catch a 3D printing class in New Orleans or join an ongoing discussion of particulate air pollution monitoring. Enjoy!
 

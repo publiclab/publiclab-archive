@@ -8,11 +8,15 @@ uid: 439554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/009/726/original/Internal_Spectrometer.jpg)
+
 # Internal Image of Desktop Spectrometer with "Gum Stick" Camera
 
 by [kbollhorst](../profile/kbollhorst) April 30, 2015 11:57
 
 April 30, 2015 11:57 | Tags: [spectrometer](../tag/spectrometer), [diy](../tag/diy)
+
+----
 
 I have posted an image of the "gum stick" camera version of the desktop spectrometer. I wish to add 2 additional notes regarding assembly of the camera.
 

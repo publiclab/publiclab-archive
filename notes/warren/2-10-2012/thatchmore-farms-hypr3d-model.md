@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/Picture 1.png)
+
 # Thatchmore farms hypr3d model
 
 by [warren](../profile/warren) February 10, 2012 17:22
 
 February 10, 2012 17:22 | Tags: 
+
+----
 
 <iframe width="500" height="500" src="http://www.hypr3d.com/models/4f3526e2276cd700010000a3/embedded_viewer"></iframe>
 

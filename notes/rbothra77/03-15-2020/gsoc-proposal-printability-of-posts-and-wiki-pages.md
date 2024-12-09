@@ -8,11 +8,15 @@ uid: 568534
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/038/527/original/gsoc.png)
+
 # GSOC Proposal : Printability of posts and wiki pages
 
 by [rbothra77](../profile/rbothra77) March 15, 2020 08:42
 
 March 15, 2020 08:42 | Tags: [gsoc](../tag/gsoc), [printability](../tag/printability), [first-time-poster](../tag/first-time-poster), [gsoc-2020](../tag/gsoc-2020)
+
+----
 
 Name : Rishabh Kumar Bothra
 

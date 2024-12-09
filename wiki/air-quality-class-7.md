@@ -14,6 +14,8 @@ by [liz](../profile/liz), [jmsaavedra](../profile/jmsaavedra)
 
 March 19, 2013 23:44 | Tags: [chaq](../tag/chaq), [air-quality](../tag/air-quality)
 
+----
+
 <h4><a href="/wiki/air-quality-class">Class Home</a></h4>
 
 This week we're focusing on data analysis using math concepts you guys are already familiar with. Last week we focused on just 1 day of data, this week we'll identify patterns over one full week of values.

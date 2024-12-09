@@ -8,11 +8,15 @@ uid: 4
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/004/989/original/IMG_7701.JPG)
+
 # Off-wind kite flying & Redstone Rigging in Augusta, WI
 
 by [mathew](../profile/mathew) June 25, 2014 22:09
 
 June 25, 2014 22:09 | Tags: [kite-mapping](../tag/kite-mapping), [mapping](../tag/mapping), [wisconsin](../tag/wisconsin), [silica](../tag/silica), [frac-sand](../tag/frac-sand), [parent:frac-sand](../tag/parent:frac-sand), [off-wind-flying](../tag/off-wind-flying)
+
+----
 
 Dogs are totally pro-kite.  Stephanie, Tom, myself, and our entranced canine audience.  All ground photos courtesy of [Stevie](/profile/stevie)
 

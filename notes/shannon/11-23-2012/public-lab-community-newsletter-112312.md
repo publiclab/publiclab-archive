@@ -14,6 +14,8 @@ by [Shannon](../profile/Shannon) November 23, 2012 17:28
 
 November 23, 2012 17:28 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
 
+----
+
 We hope that everyone who took time out of their week to eat a turkey/turducken/tofurkey had a relaxing day off. Since the Public Lab staff is currently on a mini break, this newsletter will be short and sweet. Enjoy!
 
 Looking for a present for the DIY enthusiast in your life? A reminder that you can go to the [aerial mapping tool page](http://publiclaboratory.org/tool/balloon-mapping) and create your own gift ready kit, but you can also [order a kit with all necessary pieces](http://shop.breadpig.com/collections/publiclaboratory/products/balloon-mapping-kit) from Public Lab!

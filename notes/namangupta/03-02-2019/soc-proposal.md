@@ -14,6 +14,8 @@ by [namangupta](../profile/namangupta) March 02, 2019 14:24
 
 March 02, 2019 14:24 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [soc](../tag/soc), [response:13975](../tag/response:13975), [rgsoc-2019](../tag/rgsoc-2019), [gsoc-2019](../tag/gsoc-2019), [soc-2019](../tag/soc-2019), [soc-2019-proposals](../tag/soc-2019-proposals), [soc-2019-projects](../tag/soc-2019-projects)
 
+----
+
 ## Google Summer of Code - 2019 
 
 **Websocket Interaction for Real-time Interaction and Sensor data and Display Library**

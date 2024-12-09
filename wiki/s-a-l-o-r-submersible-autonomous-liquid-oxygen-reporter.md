@@ -14,6 +14,8 @@ by [dsmoliga](../profile/dsmoliga)
 
 November 20, 2014 17:46 | Tags: [open-source](../tag/open-source), [open-hardware](../tag/open-hardware), [conservation](../tag/conservation), [openhardware](../tag/openhardware), [opensource](../tag/opensource), [umass](../tag/umass), [umass-amherst](../tag/umass-amherst), [dissolved-oxygen](../tag/dissolved-oxygen), [amherst-media](../tag/amherst-media), [publiclab-at-amherst-media](../tag/publiclab-at-amherst-media), [publiclab-at-umass](../tag/publiclab-at-umass), [makers-and-amherst-media](../tag/makers-and-amherst-media), [amherstcollege](../tag/amherstcollege)
 
+----
+
 Thais C. - Daniel S. - Leif D.
 
 As part of the Umass Amherst makers class we are attempting to take the OpenROV underwater robot ( www.openrov.com ) and make it an autonomous underwater craft that will collect data on bodies of water related to agal bloom.

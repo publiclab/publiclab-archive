@@ -8,11 +8,15 @@ uid: 237313
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/025/357/original/IMG_3817.JPG)
+
 # Community Microscope-- THANK YOU
 
 by [Bronwen](../profile/Bronwen) June 29, 2018 16:50
 
 June 29, 2018 16:50 | Tags: [kits](../tag/kits), [kickstarter](../tag/kickstarter), [blog](../tag/blog), [with:warren](../tag/with:warren), [microscope](../tag/microscope), [community-kits](../tag/community-kits), [remixthemicroscope](../tag/remixthemicroscope)
+
+----
 
 Thanks to the 357 supporters of our recent Kickstarter campaign, the Community Microscope will soon be shipping to community scientists, environmental investigators and advocates, teachers and learners, artists, makers, and lots of other folks who got involved with making this project happen.
 

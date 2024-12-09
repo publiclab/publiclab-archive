@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/000/042/original/presentation-wilkinson.png)
+
 # Public Lab Presentation at Personal Democracy Forum 2011
 
 by [warren](../profile/warren) April 11, 2013 18:48
 
 April 11, 2013 18:48 | Tags: [presentation](../tag/presentation)
+
+----
 
 Archiving the presentation I gave at Personal Democracy Forum 2011:
 

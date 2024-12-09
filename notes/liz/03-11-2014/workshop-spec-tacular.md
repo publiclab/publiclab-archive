@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/003/208/original/276726_200x130.png)
+
 # Workshop: spec-tacular
 
 by [liz](../profile/liz) March 11, 2014 14:40
 
 March 11, 2014 14:40 | Tags: [new-york-city](../tag/new-york-city), [spectrometer](../tag/spectrometer), [oil](../tag/oil), [fluorescence](../tag/fluorescence), [event](../tag/event), [oil-testing-kit](../tag/oil-testing-kit)
+
+----
 
 ###Event details
 

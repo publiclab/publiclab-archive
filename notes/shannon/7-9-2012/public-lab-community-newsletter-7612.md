@@ -14,6 +14,8 @@ by [Shannon](../profile/Shannon) July 09, 2012 16:19
 
 July 09, 2012 16:19 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
 
+----
+
 A couple nice opportunities await you in this weeks Public Lab community newsletter-- be one of the first subscribers to the Grassroots Mapping Forum, check out the UMass open hardware workshop next week or think about submitting an article proposal to Citizen Science Quarterly:
 
 1. Get your subscription to the Grassroots Mapping Forum! We're beginning a subscription drive for the Grassroots Mapping Forum, to ship at the end of the month.  It can now be purchased in the [Breadpig Store](http://breadpig.com/products/grassroots-mapping-forum-subscription-1).  All Kickstarter balloon kit level backers (and above) will receive the first issue for free. 

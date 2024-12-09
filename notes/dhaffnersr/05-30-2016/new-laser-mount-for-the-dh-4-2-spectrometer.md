@@ -8,11 +8,15 @@ uid: 461120
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/016/397/original/laser_mounted_view_1.png)
+
 # New Laser mount for the DH 4.2 Spectrometer
 
 by [dhaffnersr](../profile/dhaffnersr) May 30, 2016 13:59
 
 May 30, 2016 13:59 | Tags: 
+
+----
 
 **I had to build a far more stable apparatus for holding my laser when illuminating the samples in the cuvette holder in the spectrometer, so keeping my goals in mind, ( low cost but with high precision and quality,) I used my lab stand as a base foundation, since it is made out of metal and has sufficient weight.
 

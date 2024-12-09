@@ -8,11 +8,15 @@ uid: 77
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/003/269/original/image_from_123D_model_on_site.jpg)
+
 # initial observations (revised): free SFM tools for scaled measurements and volume calculations
 
 by [patcoyle](../profile/patcoyle) March 16, 2014 00:04
 
 March 16, 2014 00:04 | Tags: [sfm](../tag/sfm), [structure-from-motion](../tag/structure-from-motion), [measurement](../tag/measurement), [autostitch](../tag/autostitch), [3dmodeling](../tag/3dmodeling)
+
+----
 
 ###What I want to do
 

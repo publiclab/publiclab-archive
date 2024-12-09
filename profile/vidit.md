@@ -3,6 +3,8 @@ uid: 517093
 created_at: 2017-10-26 16:17:25 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/39b8da550bf1eaa1d7d55a65d2e04c5c)
+
 # vidit
 
 Vidit

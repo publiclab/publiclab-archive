@@ -14,6 +14,8 @@ by [amocorro](../profile/amocorro) May 26, 2021 17:21
 
 May 26, 2021 17:21 | Tags: [kits](../tag/kits), [software](../tag/software), [infragram](../tag/infragram), [austria](../tag/austria), [climate-change](../tag/climate-change), [exhibition](../tag/exhibition), [micro-sd](../tag/micro-sd), [multispectral-imaging](../tag/multispectral-imaging), [question:general](../tag/question:general), [general](../tag/general), [tablet](../tag/tablet), [wifi](../tag/wifi), [infragram-pi](../tag/infragram-pi), [artivism](../tag/artivism), [installations](../tag/installations)
 
+----
+
 This question was raised to Public Lab's Kits Coordinator @a1ahna. We are sharing it here for the greater Public Lab community to benefit from as well! 
 
 **Original question**:  *We are putting together an exhibition focusing on the relation of technology and climate change right now and one of the participating artists plans to use the Infragram Pi Camera for their installation. For the setup we need to know, if the camera can be connected to other devices like a tablet, to instantly view photos on a screen?* - Michael S. (Austria)

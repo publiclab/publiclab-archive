@@ -3,6 +3,8 @@ uid: 577587
 created_at: 2019-03-06 14:42:30 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/577587/medium/ramakrishna.jpg)
+
 # rkpattnaik780
 
 

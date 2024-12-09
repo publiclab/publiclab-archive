@@ -8,11 +8,15 @@ uid: 577447
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/039/319/original/brasil.png)
+
 # Week 1 @ GSOC 2020: Mapknitter Export Module and Spectral Workbench upgrades
 
 by [alaxallves](../profile/alaxallves) May 08, 2020 20:24
 
 May 08, 2020 20:24 | Tags: [mapknitter](../tag/mapknitter), [spectral-workbench](../tag/spectral-workbench), [gsoc](../tag/gsoc), [report](../tag/report), [zoom:18](../tag/zoom:18), [soc2020](../tag/soc2020), [gsoc2020](../tag/gsoc2020), [week1](../tag/week1), [mk](../tag/mk), [sw](../tag/sw), [lat:-15.890499](../tag/lat:-15.890499), [lon:-48.014483](../tag/lon:-48.014483)
+
+----
 
 Hi guys, It's Álax from Brazil. 
 

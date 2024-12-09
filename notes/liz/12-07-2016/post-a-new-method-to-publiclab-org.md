@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/019/553/original/tmp_15415-IMG_20170214_153703_5341659245659.jpg)
+
 # Post a new method to publiclab.org
 
 by [liz](../profile/liz) December 07, 2016 15:31
 
 December 07, 2016 15:31 | Tags: [activity](../tag/activity), [research-culture](../tag/research-culture), [activity:methods](../tag/activity:methods)
+
+----
 
 **Public Lab is about sharing how to do things with other people.**
 

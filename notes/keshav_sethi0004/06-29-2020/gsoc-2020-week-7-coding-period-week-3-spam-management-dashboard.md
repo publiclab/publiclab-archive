@@ -8,11 +8,15 @@ uid: 653396
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/040/001/original/Screenshot_from_2020-06-29_22-47-52.png)
+
 # GSOC 2020 Week 7 (coding Period Week-3)@Spam Management Dashboard
 
 by [keshav_sethi0004](../profile/keshav_sethi0004) June 29, 2020 17:29
 
 June 29, 2020 17:29 | Tags: [gsoc](../tag/gsoc), [spam](../tag/spam), [dashboard](../tag/dashboard), [gsoc-2020](../tag/gsoc-2020), [keshav](../tag/keshav), [smd](../tag/smd), [weekly-update](../tag/weekly-update)
+
+----
 
 On week-7 (Coding week-3) I worked on some UI improvements as previous UI was creating some issues in stable.publiclab.org and had a lot of CSS and design issues. Here I removed top nav and side nav and updated as shown in the following image.
 

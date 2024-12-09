@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/Screen shot 2013-04-02 at 8.34.40 AM.png)
+
 # Crowdfunding an open source community: how backers become contributors
 
 by [warren](../profile/warren) April 02, 2013 12:35
 
 April 02, 2013 12:35 | Tags: [idealab](../tag/idealab)
+
+----
 
 <em>This post is [cross-listed at the PBS IdeaLab blog](http://www.pbs.org/idealab/2013/04/how-public-lab-turned-kickstarter-crowdfunders-into-a-community089.html), and was co-authored with [Becki Chall](/people/becki)</em>
 

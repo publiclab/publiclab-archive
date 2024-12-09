@@ -8,11 +8,15 @@ uid: 420999
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/022/767/original/2017-11-27_15.41.03-1.jpg)
+
 # Folding-Beijing: A Board Game based on Beijing eviction action
 
 by [shanlter](../profile/shanlter) December 04, 2017 11:26
 
 December 04, 2017 11:26 | Tags: [games](../tag/games), [asia](../tag/asia), [china](../tag/china), [barnraising-2017](../tag/barnraising-2017), [board-games](../tag/board-games), [beijing](../tag/beijing)
+
+----
 
 In this year's Barnraising, @Matej, @kgradow1, Tony and I were making a board game about residents/developer conflict. We didn't finish it but I really like the idea.
 

@@ -8,11 +8,15 @@ uid: 461120
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/014/339/original/UV_scan_eosin_in_wtr_feb16_stable_calibration_of_405nm.bmp)
+
 # Calibration of a single point reference
 
 by [dhaffnersr](../profile/dhaffnersr) February 16, 2016 18:12
 
 February 16, 2016 18:12 | Tags: 
+
+----
 
 Well, what I wanted to do was figure out a way I could take spectral shots of my samples using at least for now, a UV laser pointer and export usable data. I also wanted to find a way to calibrate the very laser pointer I am I using and I "think" I found that way, so below is my research on it and my data, any and ALL help is always appreciated, I have to tell you that I am learning a lot about this field of study and I am finding it very exciting (I'm kinda nerdy like that.)
 

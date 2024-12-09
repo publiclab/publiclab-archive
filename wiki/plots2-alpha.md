@@ -14,6 +14,8 @@ by [warren](../profile/warren), [liz](../profile/liz)
 
 November 09, 2012 10:10 | Tags: [website](../tag/website), [plots2](../tag/plots2), [alphatest](../tag/alphatest)
 
+----
+
 The plots-alpha mailing list is for a group of volunteers to be involved in designing, testing and providing feedback on the [new Public Lab 2.0 website](/wiki/plots2). 
 
 Most of this page has been retired in favor of the more up-to-date [plots2 page](/wiki/plots2). 

@@ -3,6 +3,8 @@ uid: 436428
 created_at: 2015-03-09 17:40:24 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/ec941639e6e60e8132a505a13341a5ec)
+
 # Alex_the_Ukrainian
 
 

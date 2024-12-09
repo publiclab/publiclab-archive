@@ -8,10 +8,14 @@ uid: 4
 
 ---
 
+![](https://publiclab.org/sites/default/files/Screen shot 2012-11-19 at 12.20.49 PM.png)
+
 # Takes on the fold-up mini-spectrometer
 
 by [mathew](../profile/mathew) November 19, 2012 20:23
 
 November 19, 2012 20:23 | Tags: [spectrometer](../tag/spectrometer), [fold-up-mini-spectrometer](../tag/fold-up-mini-spectrometer)
+
+----
 
 here are two new takes on the fold-up mini spectrometer, a version of the postcard with updated instructions (more illustrations) and a 12x18 version for mass production.  The 12x18 file will cut 8 spectrometers per page.  The layer of red lines are for laser cutting, the black lines for printing.

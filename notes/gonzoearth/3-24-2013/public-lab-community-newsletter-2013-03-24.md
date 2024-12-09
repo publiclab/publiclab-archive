@@ -14,6 +14,8 @@ by [gonzoearth](../profile/gonzoearth) March 25, 2013 00:57
 
 March 25, 2013 00:57 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
 
+----
+
 **Public Lab Weekly Newsletter**
  Plenty of action in the Public Lab Community right now including....
 

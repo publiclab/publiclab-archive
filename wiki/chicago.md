@@ -8,11 +8,15 @@ uid: 420773
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/004/747/original/chicago-petcoke-630.jpg)
+
 # Chicago
 
 by [liz](../profile/liz), [Pretzelcoatlus](../profile/Pretzelcoatlus), [dbild](../profile/dbild), [stevie](../profile/stevie), [bsugar](../profile/bsugar), [holden](../profile/holden), [OLGA](../profile/OLGA)
 
 February 12, 2014 19:05 | Tags: [chapter](../tag/chapter), [petcoke](../tag/petcoke), [chicago](../tag/chicago), [list:public-lab-chicago](../tag/list:public-lab-chicago), [lat:41.8804024](../tag/lat:41.8804024), [lon:-87.6322914](../tag/lon:-87.6322914), [events:chicago](../tag/events:chicago), [midwest](../tag/midwest), [blight](../tag/blight)
+
+----
 
 Welcome to The Public Lab Chicago Page!   
   

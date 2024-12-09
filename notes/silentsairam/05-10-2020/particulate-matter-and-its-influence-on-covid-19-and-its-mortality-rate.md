@@ -8,11 +8,15 @@ uid: 553044
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/039/334/original/effects.jpg)
+
 # Particulate Matter and its influence on CoVID-19 and its mortality rate
 
 by [silentsairam](../profile/silentsairam) May 10, 2020 17:57
 
 May 10, 2020 17:57 | Tags: [air-quality](../tag/air-quality), [sensors](../tag/sensors), [lat:12.940322](../tag/lat:12.940322), [lon:80.15625](../tag/lon:80.15625), [zoom:6](../tag/zoom:6), [covidimpact](../tag/covidimpact)
+
+----
 
 > What is common among the China, USA, Spain, Itlay, UK, Brazil, Russia, France, India?
 

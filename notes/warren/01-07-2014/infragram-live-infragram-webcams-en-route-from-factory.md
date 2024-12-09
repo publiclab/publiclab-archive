@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/002/495/original/Screen_Shot_2014-01-07_at_12.43.22_PM.png)
+
 # Infragram Live & Infragram webcams en route from factory
 
 by [warren](../profile/warren) January 07, 2014 17:47
 
 January 07, 2014 17:47 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [kickstarter](../tag/kickstarter), [infragram](../tag/infragram), [response:9917](../tag/response:9917)
+
+----
 
 ###Infragram Live
 

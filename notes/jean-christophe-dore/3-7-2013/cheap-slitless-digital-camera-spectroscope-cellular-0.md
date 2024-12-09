@@ -8,11 +8,15 @@ uid: 44865
 
 ---
 
+![](https://publiclab.org/sites/default/files/1_0.jpg)
+
 # cheap slitless digital camera spectroscope with cellular
 
 by [Jean-Christophe-DORE](../profile/Jean-Christophe-DORE) March 07, 2013 14:46
 
 March 07, 2013 14:46 | Tags: 
+
+----
 
 This simple mod allows the slide to be mounted to most cell phones, turning them into digital spectrometers.
 

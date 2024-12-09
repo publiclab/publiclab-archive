@@ -14,6 +14,8 @@ by [warren](../profile/warren), [sagarpreet](../profile/sagarpreet)
 
 May 09, 2017 22:25 | Tags: [power-tags](../tag/power-tags), [parent:power-tags](../tag/parent:power-tags)
 
+----
+
 A brief guide to embedding maps on PublicLab.org pages. 
 
 > Note: these work normally when in a post, or when there is only one per page. We are [debugging](https://github.com/publiclab/plots2/issues/5678) the issues on this page where we have many maps at once. Thanks!

@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/002/218/original/firefox.png)
+
 # Firefox/Firefox-Android support for Spectral Workbench!
 
 by [warren](../profile/warren) November 14, 2013 22:35
 
 November 14, 2013 22:35 | Tags: [android](../tag/android), [spectralworkbench](../tag/spectralworkbench), [firefox](../tag/firefox)
+
+----
 
 As seen in the above screenshot, Spectral Workbench (finally) also works on Firefox and Firefox for Android. 
 

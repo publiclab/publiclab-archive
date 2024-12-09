@@ -14,6 +14,8 @@ by [Shannon](../profile/Shannon) February 01, 2012 02:58
 
 February 01, 2012 02:58 | Tags: 
 
+----
+
 Working at RISD D&M tonight, we've been coming up with potential design ideas for how to best create a bag that we can ship film strips in, won't let much light in, won't heat up too much when left outside and will let airflow access the film strip. 
 
 We're using basic black trash bags (as we found out today that we don't need to be too concerned with light exposure to the film strips). The first rendition is 27 inches in length, folded over three times, duct taped and the layer that is double sided has slits at different intervals to let air in, but not light. 

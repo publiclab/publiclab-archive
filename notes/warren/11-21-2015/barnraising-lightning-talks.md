@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/012/904/original/cart_for_public_space_interventions_IMG_7554.JPG)
+
 # Barnraising Lightning Talks
 
 by [warren](../profile/warren) November 21, 2015 21:53
 
 November 21, 2015 21:53 | Tags: [presentations](../tag/presentations), [barnraising](../tag/barnraising), [presentation](../tag/presentation), [barnraising-2015](../tag/barnraising-2015), [lightning-talks](../tag/lightning-talks)
+
+----
 
 We heard a bunch of 5-minute presentations after lunch [at the Barnraising today](/barnraising); just summarizing them here. Image above by @patcoyle, thanks!
 

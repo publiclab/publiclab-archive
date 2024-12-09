@@ -14,6 +14,8 @@ by [Shannon](../profile/Shannon), [warren](../profile/warren)
 
 June 12, 2013 14:00 | Tags: 
 
+----
+
 We've announced three special "sponsorship" reward levels to the [Infragram Kickstarter campaign](http://kickstarter.com/projects/publiclab/infragram-the-infrared-photography-project). Read more about these rewards here:
 
 ###$350 Infragram Sponsorship with 1 invitation to a “special fundraising event"

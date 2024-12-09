@@ -8,11 +8,15 @@ uid: 54025
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/009/137/original/CFL-DispursionCal.gif)
+
 # CFL Cal Error Explained
 
 by [stoft](../profile/stoft) March 02, 2015 00:18
 
 March 02, 2015 00:18 | Tags: [spectrometer](../tag/spectrometer), [cfl](../tag/cfl)
+
+----
 
 The PLab spectrometer can be, and should be, calibrated for wavelength. Presently this can be accomplished using SWB and a CFL light source. Two Hg (mercury) atomic spectral lines (435.833nm and 546.074nm) have precise wavelengths so make for an easy reference source. However some have observed errors in the apparent location of other peaks in that spectrum which has triggered suggestions of complex curve-fit solutions. However, most of these errors can be explained by one of two factors but correction is only possible for the second.
 

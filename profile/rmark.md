@@ -3,6 +3,8 @@ uid: 942
 created_at: 2013-08-30 23:54:54 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/ce2c59981470d46d7c18d87f5b8f8690)
+
 # rmark
 
 MS Physics, Ph.D. Geology, retired from US Geological Survey.

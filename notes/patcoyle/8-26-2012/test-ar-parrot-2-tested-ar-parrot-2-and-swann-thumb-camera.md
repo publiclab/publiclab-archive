@@ -8,11 +8,15 @@ uid: 77
 
 ---
 
+![](https://publiclab.org/sites/default/files/7861443028_d6e03eed7e_b.jpg)
+
 # Low altitude test of the AR Parrot 2 and Swann "thumb" camera
 
 by [patcoyle](../profile/patcoyle) August 26, 2012 05:59
 
 August 26, 2012 05:59 | Tags: [parrot](../tag/parrot)
+
+----
 
 Posted to the lists on first test flight of just the AR. Then on this: Tested the Swann "thumb" camera strapped under the AR Parrot 2. "Training wheel" settings are still on, so altitude is low, maybe 15-20 feet.
 

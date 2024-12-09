@@ -14,4 +14,6 @@ by [adam-griffith](../profile/adam-griffith) August 27, 2019 17:09
 
 August 27, 2019 17:09 | Tags: [kite](../tag/kite), [kap](../tag/kap), [mapping](../tag/mapping), [bap](../tag/bap), [balloon](../tag/balloon), [question:balloon-mapping](../tag/question:balloon-mapping), [question:kite-mapping](../tag/question:kite-mapping)
 
+----
+
 What are folks' favorite still cameras for balloon/kite mapping?

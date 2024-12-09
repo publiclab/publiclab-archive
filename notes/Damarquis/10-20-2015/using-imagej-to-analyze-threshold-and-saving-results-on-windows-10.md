@@ -8,11 +8,15 @@ uid: 450903
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/012/067/original/Thesholding.PNG)
+
 # Using imageJ to adjust threshold using mode Entropy 
 
 by [damarquis](../profile/damarquis) October 20, 2015 21:26
 
 October 20, 2015 21:26 | Tags: [passive-pm](../tag/passive-pm)
+
+----
 
 What I want to do document the manual steps to properly adjust the threshold option, the goal is take a full-color microscope image when converting to a high-contrast black and white image through "thresholding". [See this note](http://publiclab.org/notes/mathew/09-19-2015/using-imagej-to-process-passive-particle-monitor-samples#Thresholding+the+image)
 

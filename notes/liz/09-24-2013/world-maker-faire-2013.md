@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/001/667/original/MakerDon2013.jpg)
+
 # World Maker Faire 2013
 
 by [liz](../profile/liz) September 24, 2013 23:01
 
 September 24, 2013 23:01 | Tags: [new-york-city](../tag/new-york-city), [events](../tag/events), [makerfaire](../tag/makerfaire), [panel](../tag/panel), [with:donblair](../tag/with:donblair), [make](../tag/make)
+
+----
 
 We had a great time at World Maker Faire!
 

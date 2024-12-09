@@ -14,6 +14,8 @@ by [liz](../profile/liz), [stevie](../profile/stevie), [eustatic](../profile/eus
 
 September 23, 2013 20:02 | Tags: [mapknitter](../tag/mapknitter), [cartography-collective](../tag/cartography-collective)
 
+----
+
 [![IMG_1447.JPG](https://i.publiclab.org/system/images/photos/000/001/660/medium/IMG_1447.JPG)](https://i.publiclab.org/system/images/photos/000/001/660/original/IMG_1447.JPG)
 
 > **The Public Lab Cartography Collective** is a volunteer team which helps community members create maps from their aerial photos. To join the collective or request help, read on!

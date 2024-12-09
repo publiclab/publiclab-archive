@@ -14,4 +14,6 @@ by [1987123](../profile/1987123) July 03, 2017 15:59
 
 July 03, 2017 15:59 | Tags: [question:spectrometry](../tag/question:spectrometry), [answered](../tag/answered), [question:dssk](../tag/question:dssk), [question:kits](../tag/question:kits)
 
+----
+
   I put together the kit but the webcam does not work. The computer does not even acknowledge the webcam when it is plugged into the USB port.

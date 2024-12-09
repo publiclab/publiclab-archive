@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/000/631/original/IMG_3652.JPG)
+
 # Infragrams over NYC: Chenchita's Garden
 
 by [liz](../profile/liz) July 02, 2013 21:09
 
 July 02, 2013 21:09 | Tags: [new-york-city](../tag/new-york-city), [polemapping](../tag/polemapping), [5bf](../tag/5bf), [five-borough-farm](../tag/five-borough-farm), [infragram](../tag/infragram), [pole-photography](../tag/pole-photography), [pole](../tag/pole), [infrablue](../tag/infrablue), [pole-mapping](../tag/pole-mapping)
+
+----
 
 ##Pole aerial mapping in Chenchita's Garden, 1691-93 Madison Avenue, Manhattan
 

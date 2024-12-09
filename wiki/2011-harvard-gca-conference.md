@@ -14,6 +14,8 @@ by [warren](../profile/warren)
 
 March 11, 2011 22:03 | Tags: [presentations](../tag/presentations), [talks](../tag/talks), [harvard](../tag/harvard)
 
+----
+
 ##Community-based approaches to high-resolution multispectral imaging with balloons##
 
 **Friday May 6th, 9:40-10am - [Jeff Warren](/people/warren)**

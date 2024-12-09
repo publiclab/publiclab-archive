@@ -8,11 +8,15 @@ uid: 468990
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/015/591/original/Inverse_square_law.svg)
+
 # Automatic Gain Control vs. Inverse square law
 
 by [viechdokter](../profile/viechdokter) April 16, 2016 16:07
 
 April 16, 2016 16:07 | Tags: [spectrometer](../tag/spectrometer), [intensity-calibration](../tag/intensity-calibration), [intensity](../tag/intensity), [distance](../tag/distance), [agc](../tag/agc), [gain-control](../tag/gain-control)
+
+----
 
 After my first trials with my torch light and the problems with the "light rings" it was emitting I tried again, this time focussing it better and keeping the light path straight. I took spectra of that LED torch light at a lot of different distances. 
 

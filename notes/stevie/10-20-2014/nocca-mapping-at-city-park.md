@@ -8,11 +8,15 @@ uid: 422561
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/007/551/original/20141020_111334.jpg)
+
 # NOCCA Mapping at City Park
 
 by [stevie](../profile/stevie) October 20, 2014 19:26
 
 October 20, 2014 19:26 | Tags: [balloon-mapping](../tag/balloon-mapping), [gulfcoast](../tag/gulfcoast), [urbanwaters](../tag/urbanwaters)
+
+----
 
 Today thirty students from the NOCCA school in New Orleans came out to map the Stormwater Wetlands in City Park. It was a hot day and we only had an hour, but everyone did a great job and we got some amazing images! All went well until the last moment when we were deflating the balloon and it popped! Oh well, at least this happened after we mapped. (I will be monitoring youtube for the video of the balloon popping, because one of the students decided to film the deflating)  
 

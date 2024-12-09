@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/sites/default/files/Syrup-201334107-2.jpg)
+
 # Light Amber
 
 by [cfastie](../profile/cfastie) March 13, 2013 19:39
 
 March 13, 2013 19:39 | Tags: [spectrometer](../tag/spectrometer), [vermont](../tag/vermont), [spectralworkbench](../tag/spectralworkbench), [ebert](../tag/ebert), [absorption](../tag/absorption), [syrup](../tag/syrup), [activity:spectrometry](../tag/activity:spectrometry), [activity:science-fair](../tag/activity:science-fair)
+
+----
 
 Maple syrup grades are determined by the color of the syrup. The lightest colors are less common because they generally require sap from the beginning of the sugaring season which often has a higher sugar content.  The color is caused by heat, especially during the later stages of evaporation when sugars are concentrated and the boiling point of the syrup approaches 220° F.  Sap with a higher sugar content can be made into syrup with less heating, and therefore can produce lighter syrup. Efficient processing can also reduce heating time and produce lighter syrup.
 

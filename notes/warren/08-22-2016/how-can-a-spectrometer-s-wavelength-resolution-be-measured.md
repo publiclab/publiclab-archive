@@ -14,6 +14,8 @@ by [warren](../profile/warren) August 22, 2016 21:11
 
 August 22, 2016 21:11 | Tags: [question:spectrometer](../tag/question:spectrometer), [question:spectrometry](../tag/question:spectrometry), [question:dssk](../tag/question:dssk)
 
+----
+
 ### What I want to do or know
 
 We're looking to post specs (har har) for the [Desktop Spectrometry Starter Kit](/wiki/desktop-spectrometry-kit-3-0), and I want to post that (to my best estimate), that if well constructed, the DSSK alone can get approximately 2 nanometer resolution -- meaning that you can distinguish two peaks which are 2 nanometers apart. 

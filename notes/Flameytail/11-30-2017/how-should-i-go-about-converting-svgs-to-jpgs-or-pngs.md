@@ -14,6 +14,8 @@ by [Flameytail](../profile/Flameytail) November 30, 2017 05:27
 
 November 30, 2017 05:27 | Tags: [spectrometer](../tag/spectrometer), [spectralworkbench](../tag/spectralworkbench), [spectrometry](../tag/spectrometry), [software](../tag/software), [spectral-workbench](../tag/spectral-workbench), [tool](../tag/tool), [question:spectral-workbench](../tag/question:spectral-workbench), [question:general](../tag/question:general), [method](../tag/method)
 
+----
+
 I am using this tool co calibrate fire test colors for our schools science fair. I need to create a science fair board  and i need to print out the readings. i dont need it to be super accurate just to have a definite measure- ability. i am extremely new to this so dont judge
 
 that is the lab procedure that i have created

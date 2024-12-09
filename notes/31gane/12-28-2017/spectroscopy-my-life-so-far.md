@@ -8,11 +8,15 @@ uid: 420044
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/023/045/original/Screenshot_from_2017-12-29_13-15-42.png)
+
 # Spectroscopy & My Life So Far
 
 by [31gane](../profile/31gane) December 28, 2017 11:12
 
 December 28, 2017 11:12 | Tags: [spectrometer](../tag/spectrometer), [spectral-analysis](../tag/spectral-analysis), [openaccess](../tag/openaccess), [opendata](../tag/opendata), [openinstrument](../tag/openinstrument), [opentools](../tag/opentools), [opendesign](../tag/opendesign), [commons-based-peer-production](../tag/commons-based-peer-production), [systems-integration](../tag/systems-integration), [openresearch](../tag/openresearch), [openscience](../tag/openscience), [first-time-poster](../tag/first-time-poster)
+
+----
 
 # Let me Introduce:
 

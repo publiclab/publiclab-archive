@@ -14,6 +14,8 @@ by [yamadanao614](../profile/yamadanao614) July 24, 2017 09:00
 
 July 24, 2017 09:00 | Tags: [question:general](../tag/question:general)
 
+----
+
 What is the normal connector that people put at the end of a long cable with a MAX31820 / DS18B20 (link deleted by admin) temperature sensor at the other end? What is the normal connector that people solder to the PCB when they intend such a cable to be plugged into that PCB?
 
 I'm making a PCB that will go inside a small refrigerated box that (among other things) measures the temperature at various "interesting" locations inside that box and the ambient temperature outside the box, and drives a Peltier thermoelectric cooler (TEC) to keep that box at the desired setpoint temperature.

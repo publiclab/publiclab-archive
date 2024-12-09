@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/004/445/original/IMG_20140518_103104.jpg)
+
 # Public Lab community newsletter 5.23.14
 
 by [warren](../profile/warren) May 23, 2014 21:48
 
 May 23, 2014 21:48 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
+
+----
 
 Hello folks - the Northeast Barnraising is quickly approaching, and research discussions on our mailing lists have been **exploding** this past week -- check it all out, below:
 

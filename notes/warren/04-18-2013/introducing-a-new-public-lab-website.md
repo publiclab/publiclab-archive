@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/000/085/original/front.png)
+
 # Introducing a new Public Lab website
 
 by [warren](../profile/warren) April 18, 2013 23:18
 
 April 18, 2013 23:18 | Tags: [website](../tag/website), [plots2](../tag/plots2), [beta-site](../tag/beta-site)
+
+----
 
 Many of you know that we've been hard at work on a new website for Public Lab, and today I want to announce that we're ready to launch an open beta of the new site. Thanks to Enrique Piraces, who donated the domain name, the new site is available at the much-shorter **[PublicLab.org](http://publiclab.org)**
 

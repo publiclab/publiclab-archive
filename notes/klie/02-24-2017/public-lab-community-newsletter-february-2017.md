@@ -8,11 +8,15 @@ uid: 441262
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/019/633/original/PUBLIC_LAB_NEWS_%281%29.png)
+
 # Public Lab Community Newsletter: February 2017
 
 by [klie](../profile/klie) February 24, 2017 17:33
 
 February 24, 2017 17:33 | Tags: [newsletter](../tag/newsletter), [gsoc](../tag/gsoc), [stormwater](../tag/stormwater), [gsoc2017](../tag/gsoc2017)
+
+----
 
 ####**Are you subscribed?**
 We send this out monthly to your inboxes in addition to sharing it on [publiclab.org](http://publiclab.org)! **[SUBSCRIBE HERE if you want to get the newsletter via email and don't already](https://confirmsubscription.com/h/d/280EC1B40351B40B)**.

@@ -14,6 +14,8 @@ by [warren](../profile/warren) January 22, 2018 23:46
 
 January 22, 2018 23:46 | Tags: [design](../tag/design), [evaluation](../tag/evaluation), [answered](../tag/answered), [autodesk](../tag/autodesk), [ux](../tag/ux), [ui](../tag/ui), [user-interface](../tag/user-interface), [question:ui](../tag/question:ui), [question:design](../tag/question:design), [pro-bono](../tag/pro-bono), [autodesk-pro-bono](../tag/autodesk-pro-bono), [user-experience](../tag/user-experience), [with:caufenkamp](../tag/with:caufenkamp), [with:tommystyles](../tag/with:tommystyles), [with:julvie](../tag/with:julvie)
 
+----
+
 With generous support from Autodesk, @caufenkamp, @tommystyles, @julvie and I have been meeting for a few months, digging into tough questions about user interface design on PublicLab.org -- see this post, for some of the topics we got into: https://publiclab.org/questions/tommystyles/10-20-2017/need-your-feedback-on-tag-pages#a725
 
 We have a lot to work from here, and you'll see a number of changes to our site leading out of this work and @siyuan's work [in this post](https://publiclab.org/notes/siyuan/06-12-2017/a-questions-page-to-encourage-discussions-through-better-ux)

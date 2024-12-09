@@ -3,6 +3,8 @@ uid: 304279
 created_at: 2013-10-08 17:04:28 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/5adbc2c77b94cb81a24e56a4c0df288c)
+
 # JSummers
 
 I am an associate professor of chemistry at Western Carolina University.  I am interested in developing open source hardware and software for environmental monitoring and science education.  

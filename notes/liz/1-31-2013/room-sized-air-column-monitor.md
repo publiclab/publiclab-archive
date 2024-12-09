@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/sites/default/files/wea01433.jpg)
+
 # Room-sized "air column monitor"
 
 by [liz](../profile/liz) January 31, 2013 23:23
 
 January 31, 2013 23:23 | Tags: [air-column-monitor](../tag/air-column-monitor)
+
+----
 
 <a href="http://www.photolib.noaa.gov/htmls/wea01433.htm"</a>
 

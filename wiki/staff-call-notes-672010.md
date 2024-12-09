@@ -14,6 +14,8 @@ by [warren](../profile/warren), [gonzoearth](../profile/gonzoearth)
 
 June 07, 2011 02:01 | Tags: 
 
+----
+
 ([Google Doc link](https://docs.google.com/document/d/15zkK1Fe1mBCsrL_cms3ofDoQDQ-wZ8eEWzbiJTTa8Rs/edit?pli=1&hl=en#))
 
 Stewart/Shannon/Adam

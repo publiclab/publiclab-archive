@@ -3,6 +3,8 @@ uid: 42631
 created_at: 2016-09-09 14:17:28 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/e9292df12bda7cdc548dbbadb5e3f464)
+
 # B.Williams
 
 

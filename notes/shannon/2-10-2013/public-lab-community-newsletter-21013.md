@@ -14,6 +14,8 @@ by [Shannon](../profile/Shannon) February 10, 2013 16:41
 
 February 10, 2013 16:41 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
 
+----
+
 This week in the Public Lab community newsletter, follow along with air quality monitoring classes in Brooklyn, plan for a Boston meet-up, check out new maps and as you read through, see a few snippets of version 2.0 of the Public Lab website (coming soon). Enjoy!
 
 Air Quality Class in Brooklyn. The first air quality monitoring class at Cypress Hills in Brooklyn, NY was held on Friday. Follow along with the class each week as [class plans and assignments](http://publiclaboratory.org/wiki/air-quality-class) are posted on the Public Lab website. 

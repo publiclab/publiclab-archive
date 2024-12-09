@@ -14,6 +14,8 @@ by [warren](../profile/warren), [mathew](../profile/mathew), [stevie](../profile
 
 February 15, 2016 06:28 | Tags: [parent:pm](../tag/parent:pm)
 
+----
+
 We have two different technologies in development: alert systems built around [optical PM monitors](/wiki/optical-pm) with [Open Pipe Kit](http://openpipekit.github.io/), and [passive PM monitors](/wiki/passive-pm) to meet EPA’s proposed [supplementary monitoring](https://publiclab.org/wiki/pm-monitoring#Proposed+EPA+precision+categories+for+citizen+monitoring) goals for citizen science. 
 
 ## Verifying Passive PM monitors
@@ -40,7 +42,7 @@ Towards that end, we're formulating a series of questions using the new Q&A syst
 
 <a class="btn btn-primary" href="/post?tags=pm,passive-pm,question:pm,question:passive-pm,dust,particle-monitoring">Ask a question about passive-pm</a>
 
-[notes:question:passive-pm]
+[question:passive-pm](../../tag/question:passive-pm)
 
 ****
 

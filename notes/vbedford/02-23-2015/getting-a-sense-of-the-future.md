@@ -8,11 +8,15 @@ uid: 434423
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/009/060/original/Screen-Shot-2013-04-16-at-6.04.16-PM.png)
+
 # Getting a Sense of the Future 
 
 by [vbedford](../profile/vbedford) February 23, 2015 17:50
 
 February 23, 2015 17:50 | Tags: [sensors](../tag/sensors), [data](../tag/data), [journalism](../tag/journalism), [sensor](../tag/sensor), [sensor-journalism](../tag/sensor-journalism)
+
+----
 
 All past and present journalists know that the media landscape is constantly evolving. With each development comes new opportunity, raising the same question: what does this mean for the future of journalism? 
 

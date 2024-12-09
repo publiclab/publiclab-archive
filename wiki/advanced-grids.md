@@ -14,11 +14,13 @@ by [warren](../profile/warren)
 
 January 22, 2018 17:29 | Tags: [parent:power-tags](../tag/parent:power-tags), [basic-microscope:](../tag/basic-microscope:), [basic-](../tag/basic-)
 
+----
+
 ## Thumbnail grids
 
 `[notes:grid:coqui]` will collect notes tagged with `coqui` in a grid of thumbnails:
 
-[notes:grid:coqui]
+[grid:coqui](../../tag/grid:coqui)
 
 
 ## Wiki grids
@@ -49,4 +51,4 @@ So to exclude #basic-microscope:
 
 `[questions:microscopes!basic-microscope]`
 
-[questions:microscopes!basic-microscope]
+[microscopes!basic-microscope](../../tag/question:microscopes!basic-microscope)

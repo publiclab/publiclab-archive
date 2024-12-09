@@ -8,11 +8,15 @@ uid: 43651
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/000/448/original/NDVI.png)
+
 # NDVI Bee Movie
 
 by [donblair](../profile/donblair) June 01, 2013 04:59
 
 June 01, 2013 04:59 | Tags: 
+
+----
 
 Not quite ready for primetime, but here's an attempted [NDVI conversion](https://www.youtube.com/watch?v=VrrfE6A4jLE) of Chris Fastie's Bee Movie.
 

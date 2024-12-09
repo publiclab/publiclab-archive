@@ -8,11 +8,15 @@ uid: 519113
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/022/543/original/FB_IMG_1511426888944.jpg)
+
 # Oil Chemistry of Keystone Leak
 
 by [kayaerbil](../profile/kayaerbil) November 23, 2017 13:09
 
 November 23, 2017 13:09 | Tags: [oil-spill](../tag/oil-spill), [oil](../tag/oil), [question:oil-and-gas](../tag/question:oil-and-gas), [question:sampling](../tag/question:sampling), [question:oil-sampling](../tag/question:oil-sampling), [oil-samples](../tag/oil-samples), [oil-leak](../tag/oil-leak), [keystone](../tag/keystone), [question:industry](../tag/question:industry)
+
+----
 
 I'm looking to get water protectors involved in using the potentiostat and spectrometer to make a map of the Keystone leak by posting data to Twitter, flooding Trump's account, and mapping it. 
 

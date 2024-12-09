@@ -8,11 +8,15 @@ uid: 756206
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/043/785/original/Screen_Shot_2021-05-13_at_5.10.38_PM.png)
+
 # Proposed Wolfden Mine at Pickett Mountain
 
 by [Greenhorns](../profile/Greenhorns) May 13, 2021 21:44
 
 May 13, 2021 21:44 | Tags: [mining](../tag/mining), [water-quality](../tag/water-quality), [maine](../tag/maine), [mine](../tag/mine), [northeast](../tag/northeast), [lead](../tag/lead), [zinc](../tag/zinc), [first-time-poster](../tag/first-time-poster), [zoom:6](../tag/zoom:6), [mines](../tag/mines), [lat:46.125882](../tag/lat:46.125882), [lon:-68.439756](../tag/lon:-68.439756), [questions:water-quality](../tag/questions:water-quality)
+
+----
 
 ### A Canadian mining company, Wolfden Resources Corporation, has proposed a polymetallic mining operation on 6800 acres near Pickett Mountain. They claim that they will safely mine the area for Zinc, Lead, Copper, Silver and Gold. The state has yet to grant Wolfden's rezoning request, but local opposition is already building around fears of groundwater contamination.   
 

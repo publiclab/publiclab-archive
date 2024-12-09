@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/013/392/original/Screenshot_2015-12-17_at_10.43.53_AM.png)
+
 # A year of Rackspace
 
 by [warren](../profile/warren) December 17, 2015 16:16
 
 December 17, 2015 16:16 | Tags: [server](../tag/server), [rackspace](../tag/rackspace), [wwg](../tag/wwg), [hosting](../tag/hosting)
+
+----
 
 Some of you may have noticed that at the foot of many Public Lab web pages, we mention [Rackspace's](https://rackspace.com) support. Since Public Lab runs (for free) several different websites and services, it's important to know how much help their donation of server space is; currently, all Public Lab web systems run -- for free -- on Rackspace's cloud. 
 

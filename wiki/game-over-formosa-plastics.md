@@ -8,11 +8,15 @@ uid: 778039
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/045/349/original/Project_Page.PNG)
+
 # Game Over Formosa Plastics
 
 by [michelleiL](../profile/michelleiL), [stevie](../profile/stevie), [awoolverton1](../profile/awoolverton1)
 
 January 31, 2022 16:39 | Tags: [project](../tag/project), [location:blurred](../tag/location:blurred), [place:united-states](../tag/place:united-states), [lat:30](../tag/lat:30), [lon:-90](../tag/lon:-90), [projects](../tag/projects), [zoom:6](../tag/zoom:6), [formosaplastics](../tag/formosaplastics)
+
+----
 
 St. James Parish, in South Louisiana, is a historically black and now elderly community. Many of the residents trace their lineage back to enslaved families who worked the plantations along the banks of the Mississippi River. Today, 15.6% of residents live below the poverty line. 
 
@@ -47,9 +51,9 @@ Interested in following along in the project? Subscribe to the tag below to get 
 
 <a class="btn btn-large btn-primary" href="https://publiclab.org/subscribe/tag/FormosaPlastics">Subscribe to updates on this project </a>
 
-[notes:FormosaPlastics]
+[FormosaPlastics](../../tag/FormosaPlastics)
 
-[questions:FormosaPlastics]
+[FormosaPlastics](../../tag/question:FormosaPlastics)
 
 People Involved: 
 @TravisLondon @tylerknight @caitlion @awoolverton1

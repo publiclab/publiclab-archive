@@ -8,11 +8,15 @@ uid: 46673
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/001/689/original/Boots-in-circle-with-hatch-large.jpg)
+
 # Public Lab Community Newsletter 9.29.2013
 
 by [Becki](../profile/Becki) September 29, 2013 17:25
 
 September 29, 2013 17:25 | Tags: 
+
+----
 
 I hope everyone is having a great weekend! Things are in full swing for Public Lab in New Orleans at the moment as staff arrive in preparation for next weekend’s Barnraising. We’re all looking forward to a busy, productive event! Read on for more information on Barnraising and to see what else has been happening in the community.
 

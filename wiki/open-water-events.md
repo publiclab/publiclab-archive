@@ -14,6 +14,8 @@ by [donblair](../profile/donblair), [warren](../profile/warren)
 
 July 04, 2014 19:10 | Tags: [boston](../tag/boston), [water-sensing](../tag/water-sensing), [events:boston](../tag/events:boston), [water-quality](../tag/water-quality), [parent:open-water](../tag/parent:open-water)
 
+----
+
 ## Water Quality Workshop!
 
 [![giphy.gif](https://i.publiclab.org/system/images/photos/000/005/139/medium/giphy.gif)](https://i.publiclab.org/system/images/photos/000/005/139/original/giphy.gif)

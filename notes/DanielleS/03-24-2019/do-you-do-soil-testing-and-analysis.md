@@ -14,6 +14,8 @@ by [DanielleS](../profile/DanielleS) March 24, 2019 19:23
 
 March 24, 2019 19:23 | Tags: [event](../tag/event), [soil](../tag/soil), [methods](../tag/methods), [openhour](../tag/openhour), [soil-testing](../tag/soil-testing), [soil-analysis](../tag/soil-analysis), [question:soil](../tag/question:soil), [soil-contamination](../tag/soil-contamination), [response:18344](../tag/response:18344)
 
+----
+
 Please join us for a conversation about methods for soil testing at the upcoming OpenHour on April 1st at 10am PST/ 12 noon CT/ 1PM EST. You can access the call via the link here: [https://publiclab.org/openhour](https://publiclab.org/openhour)
 
   

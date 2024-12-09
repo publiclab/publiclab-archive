@@ -14,6 +14,8 @@ by [mathew](../profile/mathew), [gretchengehrke](../profile/gretchengehrke), [st
 
 January 12, 2016 21:43 | Tags: [epa](../tag/epa), [regulations](../tag/regulations), [particulates](../tag/particulates), [pm](../tag/pm), [parent:pm](../tag/parent:pm), [air-quality-regulations](../tag/air-quality-regulations)
 
+----
+
 Small [airborne particles](/wiki/pm) can become lodged in the lungs and cause a variety of respiratory and cardiac health impacts, so air quality regulations are concerned with respirable particulate matter, abbreviated as PM. Common regulatory categories of PM are PM10 and PM2.5, which are particles of less than 10 microns (millionths of a meter) and particles less than 2.5 microns in diameter, respectively. PM is one of six ‘criteria pollutants’ defining [National Ambient Air Quality Standards](https://publiclab.org/wiki/frac-sand-legislation#National+Ambient+Air+Quality+Standards).
 
 U.S. federal EPA [PM regulations](https://publiclab.org/wiki/frac-sand-legislation#Particulate+Matter) are _technology-based regulations_.  Categories of particle pollution are defined by the type of particles captured in specific machines operated according to official protocols, known as Federal Reference Methods (FRMs). All other measurements are judged in correspondence to FRMs, and those deemed similar enough to FRMs are classified as Federal Equivalent Methods (FEMs). A list of FRMs and FEMs is available [here](http://www3.epa.gov/ttnamti1/files/ambient/criteria/reference-equivalent-methods-list.pdf). 

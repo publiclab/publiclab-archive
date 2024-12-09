@@ -8,11 +8,15 @@ uid: 508551
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/021/487/original/image.png)
+
 # AFRICATOWN BLUEWAY -PUBLIC LAB NAS WORKSHOP-PRICHARD, AL
 
 by [gilbert](../profile/gilbert) August 31, 2017 16:47
 
 August 31, 2017 16:47 | Tags: [gulf-coast](../tag/gulf-coast), [with:stevie](../tag/with:stevie), [nas](../tag/nas), [mejac](../tag/mejac), [africatown](../tag/africatown), [alabama](../tag/alabama), [blueway](../tag/blueway), [prichard](../tag/prichard)
+
+----
 
 The [Mobile Environmental Justice Action Coalition](https://www.facebook.com/mejacoalition/) is a partner of Public Lab on the NAS project, and in conversations leading up to this first workshop in the Mobile area under the NAS grant, it was decided that the initial work with Public Lab in the area should focus on promoting the Blueway that's designed to go through the Africatown community into Prichard, AL.
 

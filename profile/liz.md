@@ -3,6 +3,8 @@ uid: 7
 created_at: 2013-04-11 15:26:02 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/7/medium/384404446-square.png)
+
 # liz
 
 <a href="http://publiclab.org/organizers">Organizer</a>, director of <a href="http://publiclab.org/wiki/community-development">community development</a>, and co-founder. My role bridges place-based community organizing and internet-mediated peer production. Check out the highlights of our <a href="https://publiclab.org/wiki/community-development">community's development</a> and ongoing <a href="https://publiclab.org/evaluation">evaluation</a>. For my emphasis on culture instead of rules, <a href="http://publiclab.org/profile/wward1400">Will Ward</a> has called me The Enforcer of Norms. Because the acronym for "have you considered sharing back?" (HYCSB) is not so catchy, other members of Public Lab have created <a href="https://www.dropbox.com/sh/5u2lhrfdw0daemh/AAC5v1ekZGWiWgDL6z50zWnKa?dl=0">these graphics</a> to save me from repeating myself. Fair enough. Feel free to edit my impromptu <a href="https://publiclab.org/wiki/liz-publiclab">Talk page</a>, find me on twitter <a href="http://twitter.com/lizbarry">@lizbarry</a>, check out my <a href="http://lizbarry.net">web 1.0 homepage</a>, or go ahead and <a href=mailto:liz@publiclab.org><img src="http://www.cameronsworld.net/img/content/7/26.gif" width="40"</a>.

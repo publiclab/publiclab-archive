@@ -14,4 +14,6 @@ by [mactac11](../profile/mactac11) March 02, 2020 22:22
 
 March 02, 2020 22:22 | Tags: [foldable-spec](../tag/foldable-spec), [question:foldable-spec](../tag/question:foldable-spec), [first-time-poster](../tag/first-time-poster)
 
+----
+
 The dashboard asks me to plug it in.  How do I do that with my phone?   Do I run an app?  There is a major gap in the instructions between building it, and actually using it.   How do I use it?

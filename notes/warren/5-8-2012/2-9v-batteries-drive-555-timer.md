@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/2012-05-08 19.35.13.jpg)
+
 # 2 9v batteries to drive 555 timer
 
 by [warren](../profile/warren) May 08, 2012 23:37
 
 May 08, 2012 23:37 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [555-timer](../tag/555-timer)
+
+----
 
 I managed to endurance-test using 2 9v batteries to drive a [555 timer](/wiki/dual-camera-kit-guide) for 55 minutes.
 

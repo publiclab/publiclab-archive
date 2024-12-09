@@ -8,11 +8,15 @@ uid: 422561
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/034/813/original/gallery_xlarge.jpg)
+
 # Deer Park, TX Chemical Storage Tank Fire 
 
 by [stevie](../profile/stevie) August 23, 2019 17:04
 
 August 23, 2019 17:04 | Tags: [industrial-monitoring](../tag/industrial-monitoring), [air-quality](../tag/air-quality), [water](../tag/water), [air-monitoring](../tag/air-monitoring), [texas](../tag/texas), [smoke](../tag/smoke), [oil-and-gas](../tag/oil-and-gas), [location:blurred](../tag/location:blurred), [place:united-states](../tag/place:united-states), [issue-brief](../tag/issue-brief), [lat:29](../tag/lat:29), [lon:-95](../tag/lon:-95), [cellphone-monitoring](../tag/cellphone-monitoring), [petrochemical-pollution](../tag/petrochemical-pollution), [toxic-chemicals](../tag/toxic-chemicals), [industrial-fire](../tag/industrial-fire)
+
+----
 
 @Stevie is posting on behalf of Jana, a Deer Park, TX resident
 
@@ -39,4 +43,4 @@ I learned from the organization Sunrise Movement about Public Lab.
 
 My call is to ask about the possibility of citizens in risky areas acquiring phone apps or other inexpensive devices to warn of air borne toxins.
 
-[questions:deer-park-tank-fire]
+[deer-park-tank-fire](../../tag/question:deer-park-tank-fire)

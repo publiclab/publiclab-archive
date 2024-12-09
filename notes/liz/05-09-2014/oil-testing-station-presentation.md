@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/004/210/original/IMG_2342.JPG)
+
 # oil testing station presentation
 
 by [liz](../profile/liz) May 09, 2014 21:24
 
 May 09, 2014 21:24 | Tags: [presentations](../tag/presentations), [presentation](../tag/presentation), [oil-testing](../tag/oil-testing)
+
+----
 
 Illustration by Jeff Warren
 

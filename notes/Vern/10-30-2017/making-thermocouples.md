@@ -14,6 +14,8 @@ by [Vern](../profile/Vern) October 30, 2017 09:10
 
 October 30, 2017 09:10 | Tags: [thermocouple](../tag/thermocouple)
 
+----
+
 I was amused by the notion of creating a complicated DIY capacitive-discharge welder just to make thermocouples. 
 
   

@@ -8,11 +8,15 @@ uid: 727417
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/041/356/original/pexels-designecologist-1779487.jpg)
+
 # Outreachy proposal:  Comment Editor Overhaul
 
 by [preciousakams](../profile/preciousakams) October 29, 2020 10:12
 
 October 29, 2020 10:12 | Tags: [first-time-poster](../tag/first-time-poster)
+
+----
 
 ## About me
 

@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/025/748/original/plant.png)
+
 # Public Lab partnership with NASA AREN project brings new easy-to-use tools for classroom use
 
 by [warren](../profile/warren) July 18, 2018 21:43
 
 July 18, 2018 21:43 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [education](../tag/education), [nasa](../tag/nasa), [infragram](../tag/infragram), [classroom](../tag/classroom), [blog](../tag/blog), [blog-submission](../tag/blog-submission), [multispectral-imaging](../tag/multispectral-imaging), [aren](../tag/aren), [image-sequencer](../tag/image-sequencer), [stem](../tag/stem), [globe](../tag/globe)
+
+----
 
 Since 2011, Public Lab community [members around the world](/tag/infragram) have been building and using modified consumer cameras to take multispectral photographs, enabling thousands of people around the world to explore the world around them using vegetation analysis tools such as #NDVI. As illustrated above, comparing infrared and visible light can offer clues to plant health, and DIY cameras like Public Lab's can make this kind of analysis possible on a very small budget.
 

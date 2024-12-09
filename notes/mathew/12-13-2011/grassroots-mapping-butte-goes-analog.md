@@ -8,11 +8,15 @@ uid: 4
 
 ---
 
+![](https://publiclab.org/sites/default/files/6084854686_c840afc536_b.jpeg)
+
 # Grassroots Mapping in Butte Goes Analog
 
 by [mathew](../profile/mathew) December 13, 2011 05:00
 
 December 13, 2011 05:00 | Tags: [annotated-maps](../tag/annotated-maps), [idealab](../tag/idealab), [land-use](../tag/land-use), [zoning](../tag/zoning), [centerville](../tag/centerville), [mountain-west](../tag/mountain-west), [montana](../tag/montana), [reclamation](../tag/reclamation)
+
+----
 
 > This article was co-written by Olivia Everett, Butte site coordinator for Public Laboratory. It was re-posted from the original at [PBS's IdeaLab blog](http://www.pbs.org/idealab/2011/12/grassroots-mapping-in-butte-goes-analog336.html).
 

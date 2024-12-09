@@ -8,11 +8,15 @@ uid: 212574
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/021/361/original/ramanmini2.jpg)
+
 # Homemade Raman spectrometer
 
 by [homechemist](../profile/homechemist) August 16, 2017 20:32
 
 August 16, 2017 20:32 | Tags: [spectrometer](../tag/spectrometer), [raman](../tag/raman), [spectroscopy](../tag/spectroscopy), [homemade](../tag/homemade)
+
+----
 
 Raman spectroscopy is a very powerful analytical technique that can be used for the **identification of almost any sample** .Unfortunately , commercial raman spectrometers are quite expensive so i have decided to make a "**cheap**" and **fully functional** **raman spectrometer**
 

@@ -8,11 +8,15 @@ uid: 646232
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/037/514/original/Captura_de_pantalla_2020-01-08_a_la%28s%29_23.02.03.png)
+
 # Nuestros Suelos: a low-cost toolkit for the participative assessment of soil degradation
 
 by [sureta](../profile/sureta) January 09, 2020 02:02
 
 January 09, 2020 02:02 | Tags: [agriculture](../tag/agriculture), [heavy-metals](../tag/heavy-metals), [soil](../tag/soil), [chile](../tag/chile), [pollution](../tag/pollution), [low-cost](../tag/low-cost), [south-america](../tag/south-america), [board-games](../tag/board-games), [first-time-poster](../tag/first-time-poster), [soil-degradation](../tag/soil-degradation), [lat:-33.454359](../tag/lat:-33.454359), [lon:-70.620117](../tag/lon:-70.620117), [cosquin](../tag/cosquin), [soil-toolkit](../tag/soil-toolkit), [nuestros-suelos](../tag/nuestros-suelos), [mine-soil-health](../tag/mine-soil-health)
+
+----
 
 Nuestros Suelos (Our Soils) is a Chilean research initiative aiming at _designing, testing and disseminating a
 toolkit for participative soil degradation assessment based on a citizen

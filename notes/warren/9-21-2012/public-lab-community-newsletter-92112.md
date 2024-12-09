@@ -14,6 +14,8 @@ by [warren](../profile/warren) September 21, 2012 19:29
 
 September 21, 2012 19:29 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
 
+----
+
 We've had a **very** busy week with lots of new folks on the list -- over 200 new members since the beginning of the month. Here's a roundup of what's been going on:
 
 * **LEAFFEST** - this weekend is a Vermont event organized by Chris Fastie - events will include electronic sensor hacking, leaf pile temperature monitoring, infrared camera modification and getting hands-on with spectrometers. If the weather holds we'll be doing some flights as well: http://publiclaboratory.org/notes/cfastie/9-5-2012/l-e-f-f-e-s-t

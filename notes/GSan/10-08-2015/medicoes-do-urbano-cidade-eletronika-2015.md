@@ -8,11 +8,15 @@ uid: 426547
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/011/879/original/2982098316_29a02a9b5f_z.jpg)
+
 # Medições do Urbano - Cidade Eletronika 2015
 
 by [GSan](../profile/GSan) October 08, 2015 15:06
 
 October 08, 2015 15:06 | Tags: [air](../tag/air), [dustduino](../tag/dustduino), [dust](../tag/dust), [brasil](../tag/brasil), [hackear](../tag/hackear), [response:12177](../tag/response:12177)
+
+----
 
 ##Workshop realizado no Festival Cidade Eletronika - Belo Horizonte - MG
 

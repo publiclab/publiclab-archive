@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/006/971/original/ocean-optics.jpg)
+
 # Oil fluorescence scanning on an Ocean Optics spectrometer
 
 by [warren](../profile/warren) September 23, 2014 17:42
 
 September 23, 2014 17:42 | Tags: [spectrometer](../tag/spectrometer), [vermont](../tag/vermont), [calibration](../tag/calibration), [leaffest](../tag/leaffest), [ultraviolet](../tag/ultraviolet), [fluorescence](../tag/fluorescence), [crude](../tag/crude), [oil-testing-kit](../tag/oil-testing-kit), [leaffest2014](../tag/leaffest2014), [ocean-optics](../tag/ocean-optics)
+
+----
 
 ###What I want to do
 

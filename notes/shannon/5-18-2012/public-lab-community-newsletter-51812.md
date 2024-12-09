@@ -14,6 +14,8 @@ by [Shannon](../profile/Shannon) May 19, 2012 00:08
 
 May 19, 2012 00:08 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
 
+----
+
 This week, the Public Lab community newsletter is being compiled from Houston where its nice and hot, so I want to make sure to drop the coolest Public Lab news on you (I know, bad humor)! Its been another great week with lots of mappings, people testing out and writing about their balloon mapping kits and the promise of a great upcoming workshop on thermal imaging:
 
 1) The next issue of the Grassroots Mapping Forum is in full swing, if you're interested in getting involved, check out this [call for contributors](http://publiclaboratory.org/wiki/forum-planning). 

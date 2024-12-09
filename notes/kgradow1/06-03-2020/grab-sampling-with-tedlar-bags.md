@@ -8,11 +8,15 @@ uid: 297929
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/039/616/original/Tedlar_bag_ubc.jpg)
+
 # Air Sampling with Tedlar Bags
 
 by [kgradow1](../profile/kgradow1) June 03, 2020 18:28
 
 June 03, 2020 18:28 | Tags: [air-quality](../tag/air-quality), [methods](../tag/methods), [bucket-brigade](../tag/bucket-brigade), [lat:41](../tag/lat:41), [lon:-71](../tag/lon:-71), [zoom:6](../tag/zoom:6), [air-sensor](../tag/air-sensor), [bucket-monitor](../tag/bucket-monitor)
+
+----
 
 Tedlar bags can be an affordable alternative to Summa canisters. They are used for grab sampling (a form of whole air sampling) to take a "snapshot" of an air sample at a specific point in time; they can also be attached to a pump system to take a weighted sample over time. Tedlar bags are used in the following ways:
 

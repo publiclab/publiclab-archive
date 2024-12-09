@@ -8,11 +8,15 @@ uid: 4
 
 ---
 
+![](https://publiclab.org/sites/default/files/IMG_8345.JPG)
+
 # a cheap picavet for any shooting angle
 
 by [mathew](../profile/mathew) September 05, 2012 00:26
 
 September 05, 2012 00:26 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [picavet](../tag/picavet), [photo-rig](../tag/photo-rig), [activity:photo-rig](../tag/activity:photo-rig)
+
+----
 
 Inspired by Jesse Breen's picavets [1](/notes/jbreen/3-6-2012/evolution-picavet), [2](/notes/jbreen/6-23-2012/fabaoutfit-derivative-kap-rig), and the [FABA collective's](/notes/juan/6-5-2012/fabaoutfit-vertical-kap-and-bap) picavets, I made a picavet rigging out of six [mini carabiners](http://www.windycitynovelties.com/6234p/carabineer-keychains.html), six #64 rubberbands, and [a sterilite mini crate.](http://www.amazon.com/Sterilite-16958612-Small-Storage-Crate/dp/B002BL4HTQ).  Total cost of materials is about 5 bucks, except that I had to buy 12 crates (contact me if you want one).  The rig weighs 216 grams without a camera-- making it more than twice the 60-100g weight of a [PET bottle rig](/wiki/pet-bottle-rubber-band-rig).
 

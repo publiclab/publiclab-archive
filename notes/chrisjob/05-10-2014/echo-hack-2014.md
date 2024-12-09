@@ -8,11 +8,15 @@ uid: 423389
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/004/216/original/windowView.png)
+
 # Echo Hack 2014 
 
 by [chrisjob](../profile/chrisjob) May 10, 2014 19:03
 
 May 10, 2014 19:03 | Tags: [spectrometer](../tag/spectrometer), [sky](../tag/sky), [replication:6168](../tag/replication:6168)
+
+----
 
 I calibrated and tested a DIY made spectrometer
 

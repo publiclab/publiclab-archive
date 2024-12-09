@@ -14,6 +14,8 @@ by [stevie](../profile/stevie), [mcosta](../profile/mcosta), [liz](../profile/li
 
 October 02, 2013 19:12 | Tags: [community](../tag/community), [parent:website](../tag/parent:website)
 
+----
+
 ###How to start a local environmental monitoring project
 
 If you are facing an environmental health concern and want to undertake a research project that will address it, please read this page on designing an appropriate research project: https://publiclab.org/wiki/start-enviro-monitor-study

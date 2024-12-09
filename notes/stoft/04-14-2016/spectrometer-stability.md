@@ -8,11 +8,15 @@ uid: 54025
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/015/534/original/STest_0-60Waterfall.gif)
+
 # Spectrometer Stability
 
 by [stoft](../profile/stoft) April 14, 2016 07:28
 
 April 14, 2016 07:28 | Tags: [spectrometer](../tag/spectrometer), [intensity-calibration](../tag/intensity-calibration), [intensity](../tag/intensity), [stability](../tag/stability), [response:12962](../tag/response:12962)
+
+----
 
 **Abstract**
 

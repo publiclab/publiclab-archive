@@ -8,11 +8,15 @@ uid: 454906
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/012/037/original/Return-of-chapel-header.jpg)
+
 # Comprehensive Wearable Air Quality Sensor
 
 by [blazan](../profile/blazan) October 19, 2015 20:19
 
 October 19, 2015 20:19 | Tags: 
+
+----
 
 ###What I want to do
 

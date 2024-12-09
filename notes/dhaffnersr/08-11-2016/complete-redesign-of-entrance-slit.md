@@ -8,11 +8,15 @@ uid: 461120
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/017/559/original/slit_design_pic_6.png)
+
 # Complete Redesign of Entrance Slit
 
 by [dhaffnersr](../profile/dhaffnersr) August 11, 2016 11:17
 
 August 11, 2016 11:17 | Tags: 
+
+----
 
 I have been also working on a far more stable entrance slit design and decided to include it with the build instructions. I have tested it several times and will post my results, I made one for my 0.12mm slit and my 0.09mm slit.
 

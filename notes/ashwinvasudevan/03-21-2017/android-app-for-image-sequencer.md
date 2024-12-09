@@ -14,6 +14,8 @@ by [ashwinvasudevan](../profile/ashwinvasudevan) March 21, 2017 02:49
 
 March 21, 2017 02:49 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [gsoc-2017](../tag/gsoc-2017), [soc](../tag/soc), [soc-2017](../tag/soc-2017), [rgsoc-2017](../tag/rgsoc-2017), [soc-2017-proposals](../tag/soc-2017-proposals), [response:13975](../tag/response:13975)
 
+----
+
 About me  
 
 Hello, I am Ashwin Vasudevan, currently pursuing B.E in Electronics and Instrumentation engineering at Easwari Engineering College, Chennai. I have a variety of skills from app development to UI/UX to ROS and embedded. Last year, I obtained a 100,000 grant from Analog Devices India as a part of an IOT fellowship named "Anveshan". In this fellowship, I was working on an IOT platform which collects and analyzes data to improve agriculture intelligence. The platform interfaced with public lab's cameras(Mobius Action cam) and thus obtained false NIR images.

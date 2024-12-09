@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/035/755/original/Warren_2019.png)
+
 # Sampling
 
 by [liz](../profile/liz), [warren](../profile/warren)
 
 September 07, 2017 19:16 | Tags: [sampling](../tag/sampling), [samples](../tag/samples), [method](../tag/method), [sample-collection](../tag/sample-collection), [soil-sampling](../tag/soil-sampling), [water-sampling](../tag/water-sampling), [air-sampling](../tag/air-sampling)
+
+----
 
 Taking samples is a key technique in environmental monitoring. Sample collection, when done well, can be cheap, numerous samples can be taken, and many people can participate in sample collection. 
 
@@ -35,5 +39,5 @@ Please add other types of sampling here as well.
 
 Ask and answer general questions about sampling:
 
-[questions:sampling]
+[sampling](../../tag/question:sampling)
 

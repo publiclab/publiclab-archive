@@ -8,11 +8,15 @@ uid: 4
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/027/030/original/P2400006_1.jpg)
+
 # Airpup: designing a kite balloon
 
 by [mathew](../profile/mathew) October 18, 2018 05:42
 
 October 18, 2018 05:42 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [kite-balloon-hybrid](../tag/kite-balloon-hybrid), [photo-rig](../tag/photo-rig)
+
+----
 
 ## Overview
 

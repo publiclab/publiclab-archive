@@ -14,4 +14,6 @@ by [stevie](../profile/stevie) March 21, 2018 19:43
 
 March 21, 2018 19:43 | Tags: [answered](../tag/answered), [question:question](../tag/question:question), [question:water-quality](../tag/question:water-quality), [question:water-sampling](../tag/question:water-sampling), [question:education](../tag/question:education), [question:water-sensing](../tag/question:water-sensing), [question:water-monitoring](../tag/question:water-monitoring)
 
+----
+
 I'm working with a group of students who are interested in learning about water quality and the health of their local water way. They've done some visual surveys and balloon mapping of the area, and are now interested in exploring water quality. What are good resources for them in this exploration? 

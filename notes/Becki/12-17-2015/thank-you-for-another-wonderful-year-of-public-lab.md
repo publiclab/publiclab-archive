@@ -8,11 +8,15 @@ uid: 46673
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/013/397/original/Barnraising_Nametags_-_Fall_2015.png)
+
 # Thank you for another wonderful year of Public Lab!
 
 by [Becki](../profile/Becki) December 17, 2015 19:11
 
 December 17, 2015 19:11 | Tags: [blog](../tag/blog)
+
+----
 
 Last week marked my three year anniversary as Public Lab staff, though I’ve been working with Public Lab since the mapping of the BP disaster. It’s amazing to think how far we’ve come as a community and an organization since our scrappy band of aerial mappers spread across the Gulf Coast in the wake of the oil spill, mapping hundreds of miles of spill with just a few shared kite and balloon kits.
 

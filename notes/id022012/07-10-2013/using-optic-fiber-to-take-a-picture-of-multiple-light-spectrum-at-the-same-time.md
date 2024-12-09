@@ -8,11 +8,15 @@ uid: 60504
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/000/727/original/TST_-_Spectro__Sch%C3%A8ma_130702GP.jpg)
+
 # Using optic fiber to take a picture of multiple light spectrum at the same time
 
 by [id022012](../profile/id022012) July 10, 2013 12:01
 
 July 10, 2013 12:01 | Tags: [spectrometer](../tag/spectrometer), [fiber](../tag/fiber), [optic_fiber](../tag/optic_fiber)
+
+----
 
 ##Proof of concept: using optic fiber to take a picture of multiple light spectrum at the same time
 

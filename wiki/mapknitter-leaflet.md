@@ -14,6 +14,8 @@ by [warren](../profile/warren)
 
 December 16, 2014 21:54 | Tags: [mapknitter](../tag/mapknitter), [mapknitter-development](../tag/mapknitter-development), [parent:mapknitter](../tag/parent:mapknitter)
 
+----
+
 [![petcoke.png](https://i.publiclab.org/system/images/photos/000/008/448/large/petcoke.png)](https://i.publiclab.org/system/images/photos/000/008/448/original/petcoke.png)
 
 [![petcoke-leaflet.png](https://i.publiclab.org/system/images/photos/000/008/449/large/petcoke-leaflet.png)](https://i.publiclab.org/system/images/photos/000/008/449/original/petcoke-leaflet.png)

@@ -14,6 +14,8 @@ by [tuomas_j_mattila](../profile/tuomas_j_mattila) July 01, 2018 18:35
 
 July 01, 2018 18:35 | Tags: [question:general](../tag/question:general)
 
+----
+
 I got the new NDVI modified lens, but cannot get it into focus. If I 
 screw it tight against the body of the camera, it's still too long. If I
 open the camera body and place the lens inside the body, it is too 

@@ -14,6 +14,8 @@ by [jessicac](../profile/jessicac) December 06, 2019 21:56
 
 December 06, 2019 21:56 | Tags: [community](../tag/community), [science](../tag/science), [data](../tag/data), [stormwater](../tag/stormwater), [citizen](../tag/citizen), [advocacy](../tag/advocacy), [question:general](../tag/question:general), [general](../tag/general), [question:advocacy](../tag/question:advocacy), [government](../tag/government), [policy](../tag/policy), [first-time-poster](../tag/first-time-poster), [action](../tag/action), [volunteers](../tag/volunteers)
 
+----
+
 I'm working with a local NGO and some volunteers to collect environmental data on stormwater management in green infrastructure in their area. I'm hoping to gain some insight into what communities typically do with environmental data once it is collected and what steps residents can take to use that data for improving their neighborhood. 
 
   

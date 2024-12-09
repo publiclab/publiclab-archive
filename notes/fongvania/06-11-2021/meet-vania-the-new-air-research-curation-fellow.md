@@ -8,11 +8,15 @@ uid: 754846
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/044/167/original/Screenshot_2021-06-10_230639.png)
+
 # Meet Vania, the new Air Research Curation Fellow!
 
 by [fongvania](../profile/fongvania) June 11, 2021 06:41
 
 June 11, 2021 06:41 | Tags: [air-quality](../tag/air-quality), [fellows](../tag/fellows), [first-time-poster](../tag/first-time-poster), [research-curation-fellows](../tag/research-curation-fellows)
+
+----
 
 Hello Public Lab world! I'm Vania Fong and I'm this year's Air Research Curation Fellow, and I'm based in San Francisco, California.
 

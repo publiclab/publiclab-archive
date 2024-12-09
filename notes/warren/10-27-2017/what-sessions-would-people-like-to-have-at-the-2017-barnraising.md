@@ -14,6 +14,8 @@ by [warren](../profile/warren) October 27, 2017 02:37
 
 October 27, 2017 02:37 | Tags: [barnraising](../tag/barnraising), [question:barnraising](../tag/question:barnraising), [planning](../tag/planning), [marketplace](../tag/marketplace), [open-space](../tag/open-space), [sessions](../tag/sessions)
 
+----
+
 Inspired by @cfastie's session-organizing [post for LEAFFEST](https://publiclab.org/questions/cfastie/09-18-2017/what-should-we-do-at-leaffest), which worked pretty well, I'd like to know what session ideas people have for the [Barnraising on Nov 3-5](/barnraising). I've seen a couple on the wiki already (but I don't know who posted them):
 
 I have a few ideas as well, and will post below. Chris's format asked that folks:

@@ -14,6 +14,8 @@ by [warren](../profile/warren) September 26, 2011 14:44
 
 September 26, 2011 14:44 | Tags: [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s), [exposure](../tag/exposure), [odor](../tag/odor), [desensitized](../tag/desensitized), [smell](../tag/smell)
 
+----
+
 http://chemsee-foods.com/hydrogen-sulfide-monitoring/H2S-KT1
 
 > Hydrogen sulfide is a flammable, poisonous gas with a characteristic odor of "rotten eggs." H2S can be found in natural gas, petroleum deposits and hot springs, as well as naturally in the breakdown of organic matter by specific bacteria. Often elevated levels of H2S are found near areas with high quantities of animal waste, such as farms. Many industrial facilities produce hydrogen sulfide including paper mills, food processing plants and petroleum refineries.

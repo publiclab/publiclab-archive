@@ -8,11 +8,15 @@ uid: 461120
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/016/185/original/LOG_view_rhod_b_sample_2_2drps_100ppm_may14.png)
+
 # DH 4.2 (build 4.0.1) spectrometer vs SpexFluoroMax spectrometer
 
 by [dhaffnersr](../profile/dhaffnersr) May 14, 2016 21:15
 
 May 14, 2016 21:15 | Tags: 
+
+----
 
 ****ABSTRACT
 Accuracy and calibration testing for the DH 4.2 (build 4.0.1) homemade spectrometer and comparison against the SpexFluoroMax Fluorimeter

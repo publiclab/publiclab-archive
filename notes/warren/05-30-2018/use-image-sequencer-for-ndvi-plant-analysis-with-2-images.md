@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/025/061/original/Screen_Shot_2018-05-30_at_5.59.00_PM.png)
+
 # Use Image Sequencer for NDVI plant analysis with 2 images
 
 by [warren](../profile/warren) May 30, 2018 22:09
 
 May 30, 2018 22:09 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [video](../tag/video), [remote-sensing](../tag/remote-sensing), [ndvi](../tag/ndvi), [infrared](../tag/infrared), [nasa](../tag/nasa), [infragram](../tag/infragram), [photosynthesis](../tag/photosynthesis), [infrared-photography](../tag/infrared-photography), [activity:multispectral-imaging](../tag/activity:multispectral-imaging), [activity:infragram](../tag/activity:infragram), [multispectral-imaging](../tag/multispectral-imaging), [activity:image-analysis](../tag/activity:image-analysis), [aren](../tag/aren), [image-sequencer](../tag/image-sequencer), [activity:image-sequencer](../tag/activity:image-sequencer), [activity:aren](../tag/activity:aren), [activity:nasa](../tag/activity:nasa)
+
+----
 
 This tutorial shows how to use [Image Sequencer](/image-sequencer) to take two DIY multispectral images (one infrared, one visible light) and composite them [into an NDVI image](/ndvi).
 

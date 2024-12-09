@@ -3,6 +3,8 @@ uid: 435693
 created_at: 2015-02-24 09:54:14 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/85f1e477b906f6bb3cb9de6e6e68473f)
+
 # Frikkie
 
 

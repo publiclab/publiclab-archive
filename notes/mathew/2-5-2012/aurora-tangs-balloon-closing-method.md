@@ -8,11 +8,15 @@ uid: 4
 
 ---
 
+![](https://publiclab.org/sites/default/files/IMG_0511.JPG)
+
 # Aurora Tang's Balloon Closing Method
 
 by [mathew](../profile/mathew) February 06, 2012 02:13
 
 February 06, 2012 02:13 | Tags: 
+
+----
 
 This is Aurora Tang's method of sealing up her balloons.  I think its the best I've seen.  It was developed during [a project to document Robert Smithson's Spiral Jetty with the Getty Institute.](http://www.getty.edu/conservation/publications_resources/videos/focus/spiral_jetty.html)  [She has used it extensively for landscape photography](http://www.highdeserttestsites.com/solo-projects).
 

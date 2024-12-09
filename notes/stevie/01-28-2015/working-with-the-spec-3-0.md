@@ -8,11 +8,15 @@ uid: 422561
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/008/755/original/20150127_132536.jpg)
+
 # Working with the Spec. 3.0!
 
 by [stevie](../profile/stevie) January 28, 2015 18:13
 
 January 28, 2015 18:13 | Tags: [spectrometer](../tag/spectrometer), [kits](../tag/kits), [spectrometry](../tag/spectrometry), [oil-testing-kit](../tag/oil-testing-kit), [with:micheal](../tag/with:micheal), [spec-3](../tag/spec-3)
+
+----
 
 I was interested in testing out the new Public Lab Desktop Spectrometry Kit 3.0 and was excited to compare my experience working with it next to the 2.0. I've been excited about this new kit for a while, mostly because I've heard that the angles are adjusted to make capturing spectra easier, an the camera should capture brighter images. Plus it's made almost entirely out of paper which is awesome. 
 

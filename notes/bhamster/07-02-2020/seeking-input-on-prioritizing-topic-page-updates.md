@@ -8,11 +8,15 @@ uid: 664477
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/040/050/original/Screen_Shot_2020-07-01_at_10.45.43_AM.png)
+
 # Seeking input on prioritizing Topic page updates
 
 by [bhamster](../profile/bhamster) July 02, 2020 15:07
 
 July 02, 2020 15:07 | Tags: [organizers](../tag/organizers), [research](../tag/research), [community-development](../tag/community-development), [topics](../tag/topics), [research-area-review](../tag/research-area-review)
+
+----
 
 Hello community members!
 

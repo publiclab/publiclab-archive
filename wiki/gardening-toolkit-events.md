@@ -14,6 +14,8 @@ by [liz](../profile/liz)
 
 March 27, 2014 00:11 | Tags: [garden](../tag/garden), [elp](../tag/elp), [garden-toolkit](../tag/garden-toolkit)
 
+----
+
 ###draw our neighborhood
 
 Draw mental maps of the neighborhood as we know it. Our homes, landmarks (parks, businesses, etc), major roads, as well as sites where we are working to improve the environment (gardens, tree beds, etc) and sites where we have environmental concerns (brownfields, active industry and infrastructure). Sometimes this exercise is part of community asset mapping. 

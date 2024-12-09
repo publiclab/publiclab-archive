@@ -14,6 +14,8 @@ by [cfastie](../profile/cfastie)
 
 April 12, 2013 02:54 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [infrared-camera](../tag/infrared-camera), [infragram](../tag/infragram), [development](../tag/development)
 
+----
+
 <strong>Five alternative models for an infrared plant health camera.</strong>
 
 1. 1) One camera with a filter switcher which switches between IR block and IR pass filters

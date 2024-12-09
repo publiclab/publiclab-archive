@@ -3,6 +3,8 @@ uid: 528162
 created_at: 2018-03-20 20:04:19 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/528162/medium/GP03KDQ_press.jpg)
+
 # mir
 
 Radio operator on Greenpeace ships, plus an editor and cartographer for a small org in Panama, Almanaque Azul.   Can code to feed myself sometimes, culturally attached to hammocks as working spaces and enjoy rice and beans any day

@@ -14,6 +14,8 @@ by [Bronwen](../profile/Bronwen)
 
 October 22, 2014 21:09 | Tags: [ip](../tag/ip), [intellectualproperty](../tag/intellectualproperty), [openaccess](../tag/openaccess)
 
+----
+
 Wiki in progress! Please feel free to add notes, content, etc.
 
 ###Scholarly Communications and Open Access

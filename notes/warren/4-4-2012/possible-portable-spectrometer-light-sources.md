@@ -8,10 +8,14 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/IMG_20120404_183945.jpg)
+
 # Possible portable spectrometer light sources
 
 by [warren](../profile/warren) April 04, 2012 22:41
 
 April 04, 2012 22:41 | Tags: 
+
+----
 
 <p>From old Petzl headlamps.</p>

@@ -14,6 +14,8 @@ by [sonofaquark](../profile/sonofaquark) March 26, 2013 03:13
 
 March 26, 2013 03:13 | Tags: [spectrometer](../tag/spectrometer), [unboxing](../tag/unboxing)
 
+----
+
 I just finished assembling my desktop unit and posting my first spectra, and couldn't really find the right place for a collection of suggestions from users to share their assembly experience and suggest possible improvements within the current design parameters. If I missed it I would have no problem with transferring this note there.
 
 I will start with my experience and suggestions, and invite others to comment and share theirs.

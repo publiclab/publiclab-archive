@@ -8,11 +8,15 @@ uid: 664477
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/044/241/original/climate_demonstration.jpg)
+
 # Advocacy
 
 by [bhamster](../profile/bhamster)
 
 June 23, 2021 17:35 | Tags: [organizing](../tag/organizing), [advocacy](../tag/advocacy), [method](../tag/method)
+
+----
 
 **Advocacy means taking action to effect change in an issue that personally matters to you**. Advocacy makes up a large portion of activity undertaken in community science [projects](/projects). These projects often produce much-needed data about an environmental issue, and that data needs someone to speak for it [1] to different audiences: 
 
@@ -114,7 +118,7 @@ _<small>Image: from [this post](https://publiclab.org/notes/a1ahna/11-13-2017/lo
 
 Activities on Public Lab that have been tagged with `activity:advocacy` will appear here
 
-[notes:grid:activity:advocacy]
+[grid:activity:advocacy](../../tag/grid:activity:advocacy)
 
 <br>
 
@@ -134,7 +138,7 @@ You can find all research notes on Public Lab that have been tagged with `advoca
 
 Questions tagged with `question:advocacy` will appear here
 
-[questions:advocacy]
+[advocacy](../../tag/question:advocacy)
 
 <hr>
 

@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/021/062/original/Launching_the_rig-1_ifarm.jpg)
+
 # Mapping Requests
 
 by [warren](../profile/warren)
 
 July 06, 2017 22:49 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [aerial-photography](../tag/aerial-photography), [ifarm](../tag/ifarm), [pole-mapping](../tag/pole-mapping), [request:aerial-photography](../tag/request:aerial-photography), [parent:requests](../tag/parent:requests)
+
+----
 
 Do you need aerial photography, or help taking your own? Over the years, Public Lab's community of mappers has grown -- whether #balloon-mapping, #kite-mapping, #pole-mapping, etc! We often help one another out; this page is a posting board for **requests for assistance with aerial photography**. 
 
@@ -22,7 +26,7 @@ Do you need aerial photography, or help taking your own? Over the years, Public 
 
 ## Requests
 
-[notes:request:aerial-photography]
+[request:aerial-photography](../../tag/request:aerial-photography)
 
 <a class="btn btn-primary" href="/post?n=14626&tags=question:aerial-photography,activity:requests,requests,request:aerial-photography,aerial-photography,request,request:general">Post a request for mapping help</a> - _or sign up to [be notified when others post a request](https://publiclab.org/subscribe/tag/request:aerial-photography)_
 

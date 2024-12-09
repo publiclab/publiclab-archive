@@ -8,11 +8,15 @@ uid: 237313
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/036/643/original/IMG_20191120_112245.jpg)
+
 # Home-Made Disaster Kit: Plan Ahead With This Game!
 
 by [Bronwen](../profile/Bronwen) November 20, 2019 14:57
 
 November 20, 2019 14:57 | Tags: [barnraising](../tag/barnraising), [blog](../tag/blog), [disaster-response](../tag/disaster-response), [activity:disaster-response](../tag/activity:disaster-response), [disaster-response-kit](../tag/disaster-response-kit), [txbarnraising](../tag/txbarnraising), [texas-barnraising](../tag/texas-barnraising), [with:dbsnp](../tag/with:dbsnp), [emergency-response-kit](../tag/emergency-response-kit), [reaccion](../tag/reaccion), [txbr2019](../tag/txbr2019)
+
+----
 
 Welcome to the **Home-Made Disaster Kit**. This kit is a card game designed to help people have conversations about their concerns, anticipated needs, and best use of available resources in planning for environmental disasters. 
 

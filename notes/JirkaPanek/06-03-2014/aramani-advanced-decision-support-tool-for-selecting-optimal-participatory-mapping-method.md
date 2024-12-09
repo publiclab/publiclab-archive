@@ -8,11 +8,15 @@ uid: 179
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/004/515/original/fig_3.JPG)
+
 # ARAMANI – Advanced decision-support tool for selecting optimal participatory mapping method
 
 by [JirkaPanek](../profile/JirkaPanek) June 03, 2014 08:12
 
 June 03, 2014 08:12 | Tags: [methodologies](../tag/methodologies), [decision-support](../tag/decision-support)
+
+----
 
 Dear fellow researchers, scientists, friends.
 

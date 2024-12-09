@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/pirateship-front.jpg)
+
 # Feb 20th Public Lab meetup in Somerville MA
 
 by [warren](../profile/warren) February 07, 2013 14:09
 
 February 07, 2013 14:09 | Tags: [meetup](../tag/meetup), [event](../tag/event)
+
+----
 
 We're hoping to have a chance for Public Lab folks to meet, discuss their projects, and possibly plan upcoming Public Lab events. The meetup will be on the evening of **Wednesday, Feb 20**:
 

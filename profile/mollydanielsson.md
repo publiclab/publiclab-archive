@@ -3,6 +3,8 @@ uid: 1259
 created_at: 2014-04-24 17:36:01 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/1259/medium/exploding_molly_robby.jpg)
+
 # mollydanielsson
 
 Molly Danielsson is a professional designer, researcher, and illustrator seeking to help others understand the science of the world around them in order to make better decisions.   Molly is Layout Editor for the Public Laboratory for Open Technology and Science's quarterly Grassroots Mapping Forum and special publications.  Molly creates visual explanations, packaging design, portraits, and anything else involving text and research for companies ranging from People's Food Coop to Medical Reserve Corps to USA Today.

@@ -8,11 +8,15 @@ uid: 9
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/020/418/original/PublicLab.png)
+
 # Public Lab receives Gulf Coast support from the National Academies
 
 by [Shannon](../profile/Shannon) May 11, 2017 17:46
 
 May 11, 2017 17:46 | Tags: [gulf-coast](../tag/gulf-coast)
+
+----
 
 _This press release is cross-posted from the [National Academies' Gulf Research Program](http://www.nationalacademies.org/gulf/index.html) website._
 

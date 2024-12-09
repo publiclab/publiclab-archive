@@ -14,6 +14,8 @@ by [warren](../profile/warren), [Shannon](../profile/Shannon), [liz](../profile/
 
 January 24, 2013 18:57 | Tags: [spectrometer](../tag/spectrometer), [spectralchallenge](../tag/spectralchallenge)
 
+----
+
 Spectral Challenge is a call to makers, hackers, and Do-It-Yourselfers worldwide to tackle real-world environmental problems with low-cost, open source spectrometry.
 
 What if there were an affordable device you could build yourself, take into your neighborhood and use to test for heavy metals, oil contamination, or other toxics, without needing to have a PhD or access to a lab?

@@ -8,11 +8,15 @@ uid: 235174
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/003/471/original/ShinyeiPPD42NS_Insides_Labeled_600.jpg)
+
 # Field Testing the Shenyei PM sensor
 
 by [willie](../profile/willie) April 01, 2014 15:38
 
 April 01, 2014 15:38 | Tags: [particulate-sensing](../tag/particulate-sensing), [air-quality](../tag/air-quality), [dustduino](../tag/dustduino), [dust](../tag/dust), [optical-sensor](../tag/optical-sensor), [academic-journal](../tag/academic-journal), [response:9818](../tag/response:9818), [particulate](../tag/particulate), [pm](../tag/pm), [shinyei](../tag/shinyei), [air-sensors](../tag/air-sensors)
+
+----
 
 ###Shenyei PPD42NS Gets an Accuracy Test
 

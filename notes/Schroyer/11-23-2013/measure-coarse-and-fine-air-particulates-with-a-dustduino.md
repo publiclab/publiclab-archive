@@ -8,11 +8,15 @@ uid: 381809
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/002/305/original/dustduino_proto_2_desk.jpg)
+
 # Measure coarse and fine air particulates with a DustDuino
 
 by [Schroyer](../profile/Schroyer) November 23, 2013 18:39
 
 November 23, 2013 18:39 | Tags: [arduino](../tag/arduino), [particulate-sensing](../tag/particulate-sensing), [air-quality](../tag/air-quality), [dustduino](../tag/dustduino), [dust](../tag/dust), [particulates](../tag/particulates), [particulate](../tag/particulate), [pm](../tag/pm), [fablab](../tag/fablab), [shinyei](../tag/shinyei), [activity:dustduino](../tag/activity:dustduino), [activity:pm](../tag/activity:pm), [activity:data-logging](../tag/activity:data-logging), [activity:dust](../tag/activity:dust), [air-sensors](../tag/air-sensors), [first-time-poster](../tag/first-time-poster)
+
+----
 
 <div class="separator" style="clear: both; text-align: center;">
 <a href="http://1.bp.blogspot.com/-HTdN5Qg4Mf8/UmCl7W1rgSI/AAAAAAAABys/VgxbdptOeTw/s1600/dustduino+proto+2+desk.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="358" src="http://1.bp.blogspot.com/-HTdN5Qg4Mf8/UmCl7W1rgSI/AAAAAAAABys/VgxbdptOeTw/s640/dustduino+proto+2+desk.jpg" width="640" /></a></div>

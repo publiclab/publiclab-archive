@@ -14,6 +14,8 @@ by [stevie](../profile/stevie)
 
 June 11, 2019 17:04 | Tags: [reporting](../tag/reporting), [wisconsin](../tag/wisconsin), [air-quality](../tag/air-quality), [frac-sand](../tag/frac-sand), [midwest](../tag/midwest), [sentinel](../tag/sentinel), [local-reporting](../tag/local-reporting), [parent:the-sand-sentinel-program](../tag/parent:the-sand-sentinel-program)
 
+----
+
 This page includes information about observable permit violations of the frac [sand mining industry](https://publiclab.org/wiki/nonmetallicmining#Industrial+Sand+Mining) related to air quality violations. 
 
 ###About Air Quality and Frac Sand Mining: 

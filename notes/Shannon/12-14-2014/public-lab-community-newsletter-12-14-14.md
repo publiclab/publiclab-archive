@@ -8,11 +8,15 @@ uid: 9
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/008/382/original/plots-logo-transparent.jpg)
+
 # Public Lab community newsletter 12.14.14
 
 by [Shannon](../profile/Shannon) December 14, 2014 13:33
 
 December 14, 2014 13:33 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
+
+----
 
 This week in the Public Lab community newsletter, read an article from ProPublica on mapping land loss in Louisiana, take a look at the new foldable spectrometer design and check out the MultispeQ beta, coming soon. Enjoy!
 

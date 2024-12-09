@@ -14,6 +14,8 @@ by [warren](../profile/warren) March 12, 2019 21:53
 
 March 12, 2019 21:53 | Tags: [water-quality](../tag/water-quality), [water](../tag/water), [nitrate](../tag/nitrate), [question:nitrates](../tag/question:nitrates), [nitrogen](../tag/nitrogen), [question:nitrogen](../tag/question:nitrogen)
 
+----
+
 I'm copying this information from [the Common Water Contaminants page](/common-water-contaminants), but would love to learn more ways to measure nitrogen as well; please help us compile different techniques!
 
 ## Assaying Nitrogen

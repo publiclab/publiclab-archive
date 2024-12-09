@@ -3,6 +3,8 @@ uid: 635245
 created_at: 2019-11-06 14:15:08 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/35520f12a4d62e9bafc198276f599c3e)
+
 # srgonsalves1
 
 

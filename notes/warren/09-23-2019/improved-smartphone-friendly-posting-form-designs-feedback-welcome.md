@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/035/407/original/Screen_Shot_2019-09-23_at_11.32.04_AM.png)
+
 # Improved smartphone-friendly posting form designs: feedback welcome!
 
 by [warren](../profile/warren) September 23, 2019 17:02
 
 September 23, 2019 17:02 | Tags: [design](../tag/design), [style-guide](../tag/style-guide), [ui](../tag/ui), [one-cranston](../tag/one-cranston), [onecranston](../tag/onecranston), [digital-impact](../tag/digital-impact), [brown](../tag/brown)
+
+----
 
 In preparation to support groups like #onecranston and our collaborators at Brown University's Superfund Research Group, we are working to improve how our site works on mobile devices like smartphones and tablets. Right now, the "posting form" is pretty rough on a small screen. So we're starting with just the basics of getting an easy-to-view, easy-to-use posting interface. 
 

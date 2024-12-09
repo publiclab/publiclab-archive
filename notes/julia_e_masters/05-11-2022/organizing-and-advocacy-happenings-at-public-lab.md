@@ -14,6 +14,8 @@ by [julia_e_masters](../profile/julia_e_masters) May 11, 2022 23:43
 
 May 11, 2022 23:43 | Tags: [organizing](../tag/organizing), [advocacy](../tag/advocacy), [formosaplastics](../tag/formosaplastics)
 
+----
+
 Over the last few months, we've had some great events and work highlighting advocacy and organizing efforts among our community. Check them out here!
 
 We hosted a virtual event on **Environmental Storytelling - Stories from the Field on April 14, 2022** (see [notes here](https://pad.publiclab.org/p/envirostorytelling)), facilitated by @fongvania, the Air Quality Research Curation Fellow. This event introduced the role of storytelling in community science and environmental advocacy, and three guest speakers presented examples of projects that integrate the power of narrative and with community environmental science. Topics explored in this event included storytelling's relationship with quantitative data, storytelling as a form of data, narrative as a means for sensemaking, and the social nature of research and data collection. See the recording [here](https://youtu.be/WAQZovBQTxE).

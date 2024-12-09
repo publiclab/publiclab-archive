@@ -8,11 +8,15 @@ uid: 431141
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/013/475/original/ASC-Robot-Y.mp4_snapshot_02.09__2015.10.29_02.13.00_.jpg)
+
 # ASC- Airborne Smart Cultivator R&D project( Robot+Payload)
 
 by [Mohamed](../profile/Mohamed) December 26, 2015 18:41
 
 December 26, 2015 18:41 | Tags: [ndvi](../tag/ndvi), [drones](../tag/drones), [agriculture](../tag/agriculture), [uav-mapping](../tag/uav-mapping), [unmanned](../tag/unmanned), [asc](../tag/asc), [sudan](../tag/sudan), [mohamed](../tag/mohamed), [aal](../tag/aal), [sap.](../tag/sap.)
+
+----
 
 [![ASC-Robot-Y.mp4_snapshot_03.09__2015.10.29_02.13.45_.jpg](//i.publiclab.org/system/images/photos/000/013/472/medium/ASC-Robot-Y.mp4_snapshot_03.09__2015.10.29_02.13.45_.jpg)](//i.publiclab.org/system/images/photos/000/013/472/original/ASC-Robot-Y.mp4_snapshot_03.09__2015.10.29_02.13.45_.jpg)
 

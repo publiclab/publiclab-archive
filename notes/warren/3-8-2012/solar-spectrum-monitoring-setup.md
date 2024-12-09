@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/spectrometer-solar.jpg)
+
 # Solar spectrum monitoring setup
 
 by [warren](../profile/warren) March 08, 2012 18:29
 
 March 08, 2012 18:29 | Tags: [spectrometer](../tag/spectrometer), [solar](../tag/solar)
+
+----
 
 Dave Haffner's been [asking for a solar spectrum](/notes/dhaffner/3-6-2012/notes-method-estimate-slit-width-plots-type-spectrometers-using-reference-at) to try to calculate the resolution of the [PLOTS spectrometer](/tool/spectrometer), and I finally got around to setting mine up pointing out the window:
 

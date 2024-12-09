@@ -3,6 +3,8 @@ uid: 506331
 created_at: 2017-04-27 13:33:43 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/a3a1119bf5492180ebe8db65fe2efee8)
+
 # nearsys
 
 A science and engineering teacher

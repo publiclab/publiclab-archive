@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/2013-03-06-155128.jpg)
+
 # Plastics options for spectrometers
 
 by [warren](../profile/warren) March 06, 2013 21:34
 
 March 06, 2013 21:34 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [spectrometer](../tag/spectrometer), [materials](../tag/materials)
+
+----
 
 After issues with the high reflectivity of some black paper stock in the near-infrared range, I wanted to double-check that the plastic we'll be using for our spectrometers is truly dark in the near-infrared range. 
 

@@ -14,6 +14,8 @@ by [mathew](../profile/mathew) November 16, 2012 04:23
 
 November 16, 2012 04:23 | Tags: [barnraising](../tag/barnraising), [barnraising2012](../tag/barnraising2012), [ethics](../tag/ethics), [excites](../tag/excites)
 
+----
+
 These are fairly sporadic notes, I apologize.
 
 ###Ethics of Practice###

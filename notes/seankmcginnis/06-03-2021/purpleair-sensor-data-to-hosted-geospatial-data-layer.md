@@ -14,6 +14,8 @@ by [seankmcginnis](../profile/seankmcginnis) June 03, 2021 14:26
 
 June 03, 2021 14:26 | Tags: [mapping](../tag/mapping), [air-quality](../tag/air-quality), [geospatial](../tag/geospatial), [barnstar:basic](../tag/barnstar:basic), [purpleair](../tag/purpleair), [air-quality-monitoring](../tag/air-quality-monitoring), [presenting-data](../tag/presenting-data), [air-quality-data](../tag/air-quality-data)
 
+----
+
 A topic of conversation in the [Organizing and Maps](https://publiclab.org/wiki/open-call) phone calls has been how to utilize data being collected by [PurpleAir Real-time Air Quality Monitoring](https://www2.purpleair.com/) sensors as groups are starting to deploy them as part of their initiatives.
 
 <iframe width="800" height="600" frameborder="0" src="//seankmcg.maps.arcgis.com/apps/Embed/index.html?webmap=a191a9b8c4c2437685cb6aff19fdbcad&amp;extent=-128.9154,-58.7226,130.7136,62.0215&amp;zoom=true&amp;previewImage=false&amp;scale=true&amp;disable_scroll=true&amp;theme=light"></iframe>

@@ -14,6 +14,8 @@ by [neilh20](../profile/neilh20) July 22, 2014 19:11
 
 July 22, 2014 19:11 | Tags: [standards](../tag/standards), [openhardware](../tag/openhardware), [water-quality](../tag/water-quality), [measurement](../tag/measurement), [riffle](../tag/riffle), [validation](../tag/validation), [specification](../tag/specification), [traceability](../tag/traceability), [quality-matrix](../tag/quality-matrix), [first-time-poster](../tag/first-time-poster)
 
+----
+
 A research note:  
 For quality digital data to be produced by an instrument, it needs to be stability tested - that is it needs to be running in a stable test environment for some months measuring a defined standard. 
 This is standard practice for any device that has embedded software.

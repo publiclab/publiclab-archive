@@ -14,6 +14,8 @@ by [warren](../profile/warren) November 14, 2017 21:39
 
 November 14, 2017 21:39 | Tags: [website](../tag/website), [design](../tag/design), [test](../tag/test), [answered](../tag/answered), [wwg](../tag/wwg), [ui](../tag/ui), [question:ui](../tag/question:ui)
 
+----
+
 I often hear from people about something they wish were better on PublicLab.org, and we love hearing about both ideas for better design choices and even about problems folks have had -- it's the first step in solving these problems and making progress on them. 
 
 Especially if you're a newcomer to Public Lab, **tell us one specific thing you'd like to see improved on the site**, whether it's a cleaner design on a page, a new way to organize the dashboard, or anything else. 

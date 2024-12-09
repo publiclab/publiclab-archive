@@ -14,6 +14,8 @@ by [warren](../profile/warren)
 
 February 27, 2012 15:19 | Tags: [balloon-mapping](../tag/balloon-mapping), [education](../tag/education), [curriculum](../tag/curriculum), [k-12](../tag/k-12), [classroom](../tag/classroom)
 
+----
+
 This page was [imported from the old Grassroots Mapping Wiki](http://wiki.grassrootsmapping.org/show/CurriculumDevelopment), and dates from 2009-10
 
 <div style="float:right; width:280px;padding:14px;"><img src='http://farm5.static.flickr.com/4061/4308569182_25e2207222_m.jpg' /></div>

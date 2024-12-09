@@ -8,11 +8,15 @@ uid: 8
 
 ---
 
+![](https://publiclab.org/sites/default/files/BayouSavageSamples6-8_abcd_fixed_dried_7_13_12.jpeg)
+
 # Bayou Sauvage Results 2: reflections on fixing process
 
 by [sara](../profile/sara) July 13, 2012 22:53
 
 July 13, 2012 22:53 | Tags: [providence](../tag/providence), [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [as220](../tag/as220), [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s), [h2s-photopaper](../tag/h2s-photopaper)
+
+----
 
 On Thursday 12th I fixed the first set of test Hydrogen Sulfide photographic paper strips from Bayou Savage. Fixing the strips presented some problems:
 

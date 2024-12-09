@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/diablo.png)
+
 # Using an el Camino to reel in a giant kite
 
 by [warren](../profile/warren) August 03, 2011 15:36
 
 August 03, 2011 15:36 | Tags: [kite-mapping](../tag/kite-mapping), [cires](../tag/cires)
+
+----
 
 Citation (via Mathew Lippincott):
 

@@ -8,11 +8,15 @@ uid: 237313
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/011/516/original/Pizza_theorem_example.jpg)
+
 # Open Hour Viewing (and pizza!)
 
 by [Bronwen](../profile/Bronwen) September 08, 2015 16:32
 
 September 08, 2015 16:32 | Tags: [new-york-city](../tag/new-york-city), [events](../tag/events), [openhour](../tag/openhour)
+
+----
 
 Join us at the Pfizer space this Wednesday, Sept 9th for an Open Hour viewing, with pizza generously provided by Public Lab! Open Hour begins at 8, but arrive earlier if you want to hang out, snack and admire the view. BYOB
 

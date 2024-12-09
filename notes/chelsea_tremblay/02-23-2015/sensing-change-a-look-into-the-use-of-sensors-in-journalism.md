@@ -8,11 +8,15 @@ uid: 434198
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/009/063/original/Screen_Shot_2015-02-23_at_1.23.55_PM.png)
+
 # Sensing Change: A Look into the use of Sensors in Journalism
 
 by [chelsea_tremblay](../profile/chelsea_tremblay) February 23, 2015 18:27
 
 February 23, 2015 18:27 | Tags: [sensor-journalism](../tag/sensor-journalism)
+
+----
 
 In today’s technology driven society, sensor journalism seems like a logical, plausible future; however, what sounds good in writing isn’t always so easily attainable in practice. Although sensor journalism has many perks to offer, there are just as many kinks that need to be worked out before it can become a common and reliable tool for reporting.
 

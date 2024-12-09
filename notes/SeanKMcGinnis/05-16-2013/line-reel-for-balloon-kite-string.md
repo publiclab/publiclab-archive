@@ -8,11 +8,15 @@ uid: 552
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/000/334/original/IMG_2368.JPG)
+
 # Line Reel for Balloon/Kite String
 
 by [seankmcginnis](../profile/seankmcginnis) May 16, 2013 12:33
 
 May 16, 2013 12:33 | Tags: [balloon-mapping](../tag/balloon-mapping), [line-reel](../tag/line-reel), [cord-winder](../tag/cord-winder), [mods](../tag/mods), [first-time-poster](../tag/first-time-poster)
+
+----
 
 I wanted to find  an easier way to feed out and wind up the string during balloon flights. I wandered around the hardware store for awhile and came across a reel to store extension cords (_relatively inexpensive at $10-12_). All of the other pieces in the construction I had in my workshop or were part of my balloon mapping kit.
 

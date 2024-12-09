@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/sites/default/files/FledIRshots-20120503-153-34.jpg)
+
 # Stitched panoramas from the PLOTS IR camera tool
 
 by [cfastie](../profile/cfastie) May 08, 2012 18:13
 
 May 08, 2012 18:13 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [nrg](../tag/nrg), [ndvi](../tag/ndvi), [nir](../tag/nir), [gigapan](../tag/gigapan)
+
+----
 
 There was not enough wind for a kite to lift my <a href="http://publiclaboratory.org/wiki/dual-camera-kit-guide">PLOTS IR cameras </a>last week, so I walked around with the dual camera KAP rig and took synchronous pairs of normal and NIR photos. This allowed me to check the alignment of the cameras, see how focus and exposure operated, and try stitching NDVI images into panoramas.
 

@@ -8,11 +8,15 @@ uid: 304279
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/005/030/original/WheeStat-VoltammetryPhoto.jpg)
+
 # WheeStat User's Manual
 
 by [warren](../profile/warren), [JSummers](../profile/JSummers)
 
 June 28, 2014 19:56 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [heavy-metals](../tag/heavy-metals), [water-quality](../tag/water-quality), [potentiostat](../tag/potentiostat), [lead](../tag/lead), [wheestat](../tag/wheestat)
+
+----
 
 ##What this page is about:
 The WheeStat is a potentiostat, which is an instrument used to study electron transfer reactions between species in solution and electrodes.  This instrument can be used to teach electrochemistry or to quantify the concentration of some analyte (such as a metal ion) in water.  There is a PublicLab wiki page that discusses potentiostats [here](http://publiclab.org/wiki/potentiostat).  The US National Science Foundation supports a digital resource for analysis (the Analytical Science Digital Library, ASDL) which can be found [here](http://collection.asdlib.org/). The ASDL contains a good collection of electrochemistry resources [here](http://collection.asdlib.org/?cat=229).  You can purchase a WheeStat from the Public Lab store, [here](http://store.publiclab.org/collections/new-kits/products/wheestat-potentiostat).
@@ -22,11 +26,11 @@ The WheeStat is a potentiostat, which is an instrument used to study electron tr
 
 ## Questions
 
-[questions:wheestat]
+[wheestat](../../tag/question:wheestat)
 
 ## Activities
 
-[activities:wheestat]
+[wheestat](../../tag/activity:wheestat)
 
 ****
 

@@ -3,6 +3,8 @@ uid: 149
 created_at: 2013-05-31 16:51:20 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/01fa1e3740971606c00c2a3ddc44bd2a)
+
 # MicheleTobias
 
 I am a geospatial scientist scientist at the Information Center for the Environment at the University of California, Davis in northern California.  My research focuses on the plants that live on the beaches of California.  One of the methods I use involves using kites to take low-altitude photos of the plants.  I have experience with a wide range of software, including open source options like Quantum GIS and R.

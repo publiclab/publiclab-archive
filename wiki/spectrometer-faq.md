@@ -14,6 +14,8 @@ by [Tark](../profile/Tark), [rdwill](../profile/rdwill), [BrentNewhall](../profi
 
 May 17, 2011 23:19 | Tags: [spectrometer](../tag/spectrometer), [documentation](../tag/documentation), [help](../tag/help), [faq](../tag/faq), [absorption-spectrometry](../tag/absorption-spectrometry)
 
+----
+
 #FAQ#
 
 Answers to some common questions about building, designing, & using a spectrometer. Also see:

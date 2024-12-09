@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/010/296/original/southshore-set-3.jpg)
+
 # Experiments with compositing pole aerial photos of wetlands
 
 by [liz](../profile/liz) June 10, 2015 20:54
 
 June 10, 2015 20:54 | Tags: [gulf-coast](../tag/gulf-coast), [pole-mapping](../tag/pole-mapping)
+
+----
 
 ###What I want to do
 

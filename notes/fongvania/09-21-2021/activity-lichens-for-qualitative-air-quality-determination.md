@@ -14,6 +14,8 @@ by [fongvania](../profile/fongvania) September 21, 2021 05:40
 
 September 21, 2021 05:40 | Tags: [air-quality](../tag/air-quality), [lichen](../tag/lichen), [no2](../tag/no2), [difficulty:easy](../tag/difficulty:easy), [category:observe](../tag/category:observe), [air-pollution](../tag/air-pollution), [research-curation-fellows](../tag/research-curation-fellows), [bioindicators](../tag/bioindicators), [activity:bioindicators](../tag/activity:bioindicators), [nh3](../tag/nh3), [activity:lichen](../tag/activity:lichen)
 
+----
+
 ## Motivation
 Once you start learning to identify lichen in your environment (see this [activity][1]), the next step is to use the species that you're seeing to draw some conclusions about the air quality in your area. 
 

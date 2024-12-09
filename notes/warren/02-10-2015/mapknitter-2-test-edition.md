@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/008/884/original/mk2.png)
+
 # MapKnitter 2: Test Edition
 
 by [warren](../profile/warren) February 10, 2015 21:46
 
 February 10, 2015 21:46 | Tags: [balloon-mapping](../tag/balloon-mapping), [mapknitter](../tag/mapknitter), [web-development](../tag/web-development), [webworkinggroup](../tag/webworkinggroup), [software](../tag/software), [developers](../tag/developers), [mapknitter2](../tag/mapknitter2)
+
+----
 
 Hello, mapmakers!
 

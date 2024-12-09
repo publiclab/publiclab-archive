@@ -8,11 +8,15 @@ uid: 664477
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/042/954/original/Public_Lab_Letterhead_blank.png)
+
 # Seeking a Land Research Curation Fellow
 
 by [bhamster](../profile/bhamster) March 15, 2021 21:48
 
 March 15, 2021 21:48 | Tags: [agriculture](../tag/agriculture), [soil](../tag/soil), [waste](../tag/waste), [jobs](../tag/jobs), [land-use](../tag/land-use), [fellows](../tag/fellows), [fellowship](../tag/fellowship), [fellow](../tag/fellow), [soil-contamination](../tag/soil-contamination), [research-curation-fellows](../tag/research-curation-fellows)
+
+----
 
 _**NOTE: The Land Research Curation Fellowship has been filled!** Please check out the [Fellows Program page here](https://publiclab.org/wiki/fellows#About+Research+Curation+Fellowships) to see other open fellowships for Research Curation at Public Lab. Thanks!_
 <hr>

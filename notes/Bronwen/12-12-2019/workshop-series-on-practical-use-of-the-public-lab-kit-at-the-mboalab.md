@@ -8,11 +8,15 @@ uid: 237313
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/037/041/original/IMG_0555.JPG)
+
 # Workshop Series on Practical use of the Public Lab kit at the MboaLab
 
 by [Bronwen](../profile/Bronwen) December 12, 2019 15:46
 
 December 12, 2019 15:46 | Tags: [spectrometer](../tag/spectrometer), [education](../tag/education), [kits](../tag/kits), [workshops](../tag/workshops), [water-quality](../tag/water-quality), [kenya](../tag/kenya), [africa](../tag/africa), [hardware](../tag/hardware), [community-microscope](../tag/community-microscope), [make](../tag/make), [cameroon](../tag/cameroon), [with:thomasmboa](../tag/with:thomasmboa), [mboalab](../tag/mboalab)
+
+----
 
 This post was submitted by @thomasmboa, with attribution to the workshop instructors, Nadine and Stéphane.
 

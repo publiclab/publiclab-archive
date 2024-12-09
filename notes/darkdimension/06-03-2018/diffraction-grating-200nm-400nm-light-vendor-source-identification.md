@@ -14,6 +14,8 @@ by [darkdimension](../profile/darkdimension) June 03, 2018 02:15
 
 June 03, 2018 02:15 | Tags: [spectrometer](../tag/spectrometer), [spectralworkbench](../tag/spectralworkbench), [uvc](../tag/uvc), [question:general](../tag/question:general)
 
+----
+
 Piecing together a DIY spectrometer and sourcing: diffraction grating (200nm - 400nm) and the appropriate light source. The target wavelengths are roughly: 220nm, 230nm, 250nm, 270nm and 280nm  
 
   

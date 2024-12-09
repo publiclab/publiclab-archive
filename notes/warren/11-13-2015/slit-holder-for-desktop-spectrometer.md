@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/012/747/original/IMG_20151113_111644_2.jpg)
+
 # Slit holder for Desktop Spectrometer
 
 by [warren](../profile/warren) November 13, 2015 20:14
 
 November 13, 2015 20:14 | Tags: [spectrometer](../tag/spectrometer), [kits](../tag/kits), [dsk](../tag/dsk), [slit](../tag/slit), [papercraft](../tag/papercraft), [slit-width](../tag/slit-width), [response:11649](../tag/response:11649), [response:12074](../tag/response:12074), [upgrade:spec](../tag/upgrade:spec)
+
+----
 
 ###What I want to do
 

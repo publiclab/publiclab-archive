@@ -8,11 +8,15 @@ uid: 4
 
 ---
 
+![](https://publiclab.org/sites/default/files/osgeolive_menu.png)
+
 # OS Geo Live Boot DVD/Thumb Drive
 
 by [mathew](../profile/mathew) October 19, 2012 00:13
 
 October 19, 2012 00:13 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [mapknitter](../tag/mapknitter), [spectralworkbench](../tag/spectralworkbench), [software](../tag/software), [live-cd](../tag/live-cd)
+
+----
 
 I believe several applications on here are server apps running on localhost.  Its potentially a framework for us to create a local, bootable system for running our web tools.  Found it via visiting [PDX Open Geo](http://wiki.osgeo.org/wiki/PDX-OSGEO).
 

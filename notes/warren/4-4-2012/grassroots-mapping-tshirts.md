@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/IMG_3422.JPG)
+
 # Grassroots Mapping Tshirts
 
 by [warren](../profile/warren) April 05, 2012 03:01
 
 April 05, 2012 03:01 | Tags: [balloon-mapping](../tag/balloon-mapping)
+
+----
 
 We're about to put them up for sale in the store...
 

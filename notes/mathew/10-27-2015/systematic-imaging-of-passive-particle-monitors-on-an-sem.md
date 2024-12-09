@@ -8,11 +8,15 @@ uid: 4
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/012/179/original/SND_on_carbon3.jpg)
+
 # Systematic Imaging of Passive particle monitors on an SEM
 
 by [mathew](../profile/mathew) October 27, 2015 20:39
 
 October 27, 2015 20:39 | Tags: [image-processing](../tag/image-processing), [air-quality](../tag/air-quality), [dust](../tag/dust), [silica](../tag/silica), [particle-sensing](../tag/particle-sensing), [image-analysis](../tag/image-analysis), [passive-particle-monitors](../tag/passive-particle-monitors), [passive-pm](../tag/passive-pm), [with:damarquis](../tag/with:damarquis), [with:amberwise](../tag/with:amberwise), [particle-imaging](../tag/particle-imaging)
+
+----
 
 I did this work with Paul, @Damarquis, Dr. @AmberWise and Dr. Andrew Marselli on the SEM
 

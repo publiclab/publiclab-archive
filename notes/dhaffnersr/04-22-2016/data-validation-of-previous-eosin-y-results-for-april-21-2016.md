@@ -8,11 +8,15 @@ uid: 461120
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/015/743/original/532nm_green_laser_apr22.png)
+
 # Data Validation of previous Eosin Y results for April/21/2016
 
 by [dhaffnersr](../profile/dhaffnersr) April 22, 2016 18:54
 
 April 22, 2016 18:54 | Tags: 
+
+----
 
 Using my Aries series green laser, I wanted to validate the Eosin Y study I did the other day with the Prolight Uv LED (410nm). I'm presenting this study as a final result for this series of tests using my plab v2.5 spectrometer (build 3.0)
 

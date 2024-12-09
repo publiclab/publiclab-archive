@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/020/381/original/white.jpg)
+
 # Open Source Licenses
 
 by [cfastie](../profile/cfastie), [xose](../profile/xose), [getvrly](../profile/getvrly), [warren](../profile/warren), [Kayabajajdelhi](../profile/Kayabajajdelhi), [justtech](../profile/justtech), [carsuper66](../profile/carsuper66), [honglonga100](../profile/honglonga100)
 
 May 06, 2011 18:07 | Tags: [open-hardware](../tag/open-hardware), [licenses](../tag/licenses), [openhardware](../tag/openhardware), [cernohl](../tag/cernohl), [creativecommons](../tag/creativecommons), [cc-by-sa](../tag/cc-by-sa), [contributing](../tag/contributing), [sidebar:none](../tag/sidebar:none)
+
+----
 
 ## Why Open Source?
 

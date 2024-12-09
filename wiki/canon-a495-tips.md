@@ -14,6 +14,8 @@ by [cfastie](../profile/cfastie), [warren](../profile/warren)
 
 April 25, 2012 15:03 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping)
 
+----
+
 ###Some configuration ideas for using the A495 for aerial photos###
 
 **The Canon Powershot A495 is the camera model of the** [PLOTS visible/IR camera tool](/wiki/dual-camera-kit-guide)

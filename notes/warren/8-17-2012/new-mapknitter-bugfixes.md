@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/Screen shot 2012-08-17 at 8.35.38 AM.png)
+
 # New MapKnitter bugfixes
 
 by [warren](../profile/warren) August 17, 2012 12:36
 
 August 17, 2012 12:36 | Tags: [balloon-mapping](../tag/balloon-mapping), [mapknitter](../tag/mapknitter)
+
+----
 
 Just a couple new fixes to MapKnitter which may be worth a re-export if you have a large map. I finally got around to fixing the bug some folks have seen where exported maps are sorted differently, meaning that some images float to the top only on export, even if you saw them sorted differently while editing them. This is now resolved:
 

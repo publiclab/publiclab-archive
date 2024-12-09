@@ -8,11 +8,15 @@ uid: 8
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/004/158/original/Screen_Shot_2014-05-07_at_1.51.47_PM.png)
+
 # Providence
 
 by [warren](../profile/warren), [liz](../profile/liz), [sara](../profile/sara)
 
 January 27, 2011 22:03 | Tags: [providence](../tag/providence), [rhode-island](../tag/rhode-island), [northeast](../tag/northeast), [parent:northeast](../tag/parent:northeast), [location:blurred](../tag/location:blurred), [lat:41.8](../tag/lat:41.8), [lon:-71.4](../tag/lon:-71.4), [list:providence](../tag/list:providence)
+
+----
 
 Our work in the Providence office focuses on local events and activities with the [One Cranston](/one-cranston) project, as well as [AS220](/as220) and others. 
 
@@ -27,7 +31,7 @@ Sign up for updates by joining the Providence mailing list!
 
 Recent and upcoming updates from the Providence area:
 
-[notes:grid:providence]
+[grid:providence](../../tag/grid:providence)
 
 ****
 

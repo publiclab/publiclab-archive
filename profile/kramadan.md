@@ -3,6 +3,8 @@ uid: 558057
 created_at: 2018-11-05 09:02:22 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/5129fa660a3f4da959bb035d3748663a)
+
 # kramadan
 
 

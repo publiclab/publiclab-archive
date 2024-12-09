@@ -8,11 +8,15 @@ uid: 422680
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/003/864/original/Friends_and_family_day_FLYER_%28revised%292014.pdf)
+
 # Invitation to Friends and Family Day-Flushing Bay-May 10
 
 by [carmelfromson](../profile/carmelfromson) April 25, 2014 01:55
 
 April 25, 2014 01:55 | Tags: [new-york-city](../tag/new-york-city), [queens](../tag/queens), [event](../tag/event), [sewage](../tag/sewage), [bacteria](../tag/bacteria), [flushing-bay](../tag/flushing-bay), [cso](../tag/cso), [empire-dragon-boat](../tag/empire-dragon-boat), [northeast](../tag/northeast), [flushing](../tag/flushing), [response:10206](../tag/response:10206), [dragon-boat](../tag/dragon-boat)
+
+----
 
 <a href="https://i.publiclab.org/system/images/photos/000/003/863/original/Friends_and_family_day_FLYER_(revised)2014.pdf"><i class="icon icon-file"></i> Friends_and_family_day_FLYER_(revised)2014.pdf</a>
 

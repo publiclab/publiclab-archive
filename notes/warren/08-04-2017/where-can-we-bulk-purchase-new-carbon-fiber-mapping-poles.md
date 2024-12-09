@@ -14,6 +14,8 @@ by [warren](../profile/warren) August 04, 2017 17:51
 
 August 04, 2017 17:51 | Tags: [kits](../tag/kits), [pole-mapping](../tag/pole-mapping), [question:kits](../tag/question:kits), [question:sourcing](../tag/question:sourcing), [sourcing](../tag/sourcing), [pole-mapping-kit](../tag/pole-mapping-kit)
 
+----
+
 Hi, all - we've had some trouble getting a bulk order together for the Pole Mapping kit we've carried in the Public Lab Store, and have taken that product down. We know some people love this kit; now we'd like to ask if anyone can help us source them or anything like them. We sold them for $115 each.
 
   

@@ -8,11 +8,15 @@ uid: 4
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/002/106/original/10635780826_b21940d831_o.jpg)
+
 # Scripting Raspberry Pi to boot and shoot timelapse photos 
 
 by [mathew](../profile/mathew) November 03, 2013 02:06
 
 November 03, 2013 02:06 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [raspberry-pi](../tag/raspberry-pi), [infragram](../tag/infragram), [barnstar:basic](../tag/barnstar:basic), [status:review-me](../tag/status:review-me), [category:build](../tag/category:build), [activity:timelapse](../tag/activity:timelapse), [difficulty:hard](../tag/difficulty:hard)
+
+----
 
 ###What I want to do
 I wanted to setup my Raspberry Pi to automatically boot and start shooting photos, so I could use it for aerial photography. I'd previously modded a pi camera to pull out the infrared filter, but the Raspberry Pi foundation had [sent me a pre-production model of the NoIR Pi cam](http://www.raspberrypi.org/archives/tag/pi-noir).  I took photos with the #74 filter and it worked great.

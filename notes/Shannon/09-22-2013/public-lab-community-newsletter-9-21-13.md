@@ -8,11 +8,15 @@ uid: 9
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/001/612/original/plots-logo-transparent.jpg)
+
 # Public Lab community newsletter 9.21.13
 
 by [Shannon](../profile/Shannon) September 22, 2013 12:45
 
 September 22, 2013 12:45 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
+
+----
 
 This week in the Public Lab community newsletter, come visit Public Labbers at Maker Faire NYC (today!), read about a project aerial mapping in Louisiana and find out how you can support the Public Lab nonprofit. Enjoy!
 

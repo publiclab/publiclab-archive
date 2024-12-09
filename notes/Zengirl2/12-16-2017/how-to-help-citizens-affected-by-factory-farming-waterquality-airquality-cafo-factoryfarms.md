@@ -8,11 +8,15 @@ uid: 423961
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/022/952/original/FarmSick.jpg)
+
 # How to Help Citizens Affected by Factory Farming? #waterquality #airquality #CAFO #factoryfarms
 
 by [zengirl2](../profile/zengirl2) December 16, 2017 23:14
 
 December 16, 2017 23:14 | Tags: [balloon-mapping](../tag/balloon-mapping), [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](../tag/hydrogen-sulfide), [air-quality](../tag/air-quality), [water-quality](../tag/water-quality), [cafo](../tag/cafo), [ammonia](../tag/ammonia), [factory-farms](../tag/factory-farms), [srap](../tag/srap)
+
+----
 
 The [Socially Responsible Agricultural Project](http://www.sraproject.org/) (SRAP) recently held their Factory Farm Summit in Maryland, a hotspot for factory farm activity in the Delmarva area. The goal of the summit was to bring together experts on factory farm issues with those people that have been affected. As you may imagine, over a hundred people showed up on any given day, including representation from MI, IA, OH, NY, NC, MD, DE, OR, CA , WI and PA. I was there on behalf of Public Lab for a panel discussion concerning _Tools for Watchdogging_ and shared information on some of our kits including kite/balloon photography, Riffle and Hydrogen Sulfide detection. Although I was only there for two days, I wanted to share some takeaways from the testimonies I heard:
 

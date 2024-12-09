@@ -3,6 +3,8 @@ uid: 477814
 created_at: 2016-06-08 14:52:42 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/477814/medium/SuziProfile.jpg)
+
 # SuziT9
 
 I am a communications and outreach specialist at Montana State University, where I am involved in projects supported by NASA, the National Science Foundation, the Department of Energy and other agencies. I have helped develop outreach strategies and products for topics like astrobiology, nanotechnology and climate change. I am also the co-leader of the Montana Girls STEM Collaborative, a statewide network dedicated to inspiring and encouraging girls to consider careers in STEM.

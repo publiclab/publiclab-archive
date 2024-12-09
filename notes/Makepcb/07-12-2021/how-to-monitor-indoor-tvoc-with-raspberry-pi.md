@@ -8,11 +8,15 @@ uid: 764776
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/044/374/original/TVOC-Remider-With-Raspberry-Pi.jpg)
+
 # How to Monitor Indoor TVOC with Raspberry PI
 
 by [Makepcb](../profile/Makepcb) July 12, 2021 02:17
 
 July 12, 2021 02:17 | Tags: [indoor-air-quality](../tag/indoor-air-quality), [vocs](../tag/vocs), [raspberrypi](../tag/raspberrypi), [first-time-poster](../tag/first-time-poster), [iot](../tag/iot), [lat:22.543096](../tag/lat:22.543096), [activity:indoor-air-quality](../tag/activity:indoor-air-quality), [zoom:2](../tag/zoom:2), [tvoc](../tag/tvoc), [lon:110.893802](../tag/lon:110.893802)
+
+----
 
 Do you spend about 70 percent of your daily life indoor like me?
 

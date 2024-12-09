@@ -3,6 +3,8 @@ uid: 420719
 created_at: 2014-02-09 17:27:50 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/a34c4b0070535eceb771f8bbe4375530)
+
 # gpenzo
 
 Interested in drone mapping, ndvi, 3D reconstruction.

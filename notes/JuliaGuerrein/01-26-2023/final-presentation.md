@@ -8,11 +8,15 @@ uid: 796025
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/047/420/original/signal-2023-01-18-11-45-45-418.png)
+
 # Final Presentation
 
 by [JuliaGuerrein](../profile/JuliaGuerrein) January 26, 2023 02:14
 
 January 26, 2023 02:14 | Tags: [seeks:replications](../tag/seeks:replications), [mn-land-manoomin-protection](../tag/mn-land-manoomin-protection), [activity:mn-land-manoomin-protection](../tag/activity:mn-land-manoomin-protection)
+
+----
 
 Join us Thursday, January 26, at 7 pm EST, 6 pm CST for our final presentation!
 

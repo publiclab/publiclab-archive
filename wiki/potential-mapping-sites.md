@@ -14,6 +14,8 @@ by [warren](../profile/warren), [danbeavers](../profile/danbeavers)
 
 November 27, 2012 22:45 | Tags: [kite-aerial-photography](../tag/kite-aerial-photography), [mapping](../tag/mapping)
 
+----
+
 The following is a list of potentially interesting mapping sites.  Please add to the list as you come up with ideas.  In order to keep some order please sort the location alphabetically by state, county/parish, and town as appropriate.  
 
 # Lousiana #

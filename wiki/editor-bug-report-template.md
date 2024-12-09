@@ -14,6 +14,8 @@ by [asoamarachi](../profile/asoamarachi)
 
 June 15, 2020 11:31 | Tags: [template](../tag/template)
 
+----
+
 ## Help us document this bug.
 
 
@@ -41,4 +43,4 @@ Many bugs are related to these -- please help us track it down and reproduce wha
 
 ##### Tag:
 
-[questions:editor-bug]
+[editor-bug](../../tag/question:editor-bug)

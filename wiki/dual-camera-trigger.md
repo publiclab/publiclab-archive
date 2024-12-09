@@ -14,6 +14,8 @@ by [mathew](../profile/mathew), [cfastie](../profile/cfastie)
 
 May 07, 2012 23:33 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [triggering](../tag/triggering)
 
+----
+
 Jeffrey Warren has extensively investigated using 555 circuits to trigger cameras via CHDK.  This appears to be the least expensive option, [his notes are here](/wiki/dual-camera-kit-electronics).  
 
 Chris Fastie has explored Jeff's 555 setup and refined it into a beautifully constructed timer setup that costs less than $20:

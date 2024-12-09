@@ -8,11 +8,15 @@ uid: 751138
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/043/482/original/outreachy-logo.png)
+
 # Outreachy proposal: Education-related usability upgrades
 
 by [mathildaudufo](../profile/mathildaudufo) April 26, 2021 12:09
 
 April 26, 2021 12:09 | Tags: [software](../tag/software), [outreachy](../tag/outreachy), [first-time-poster](../tag/first-time-poster), [outreachy-proposals](../tag/outreachy-proposals), [outreachy-summer-2021](../tag/outreachy-summer-2021), [outreachy-2021](../tag/outreachy-2021), [outreachy-proposals-2021](../tag/outreachy-proposals-2021)
+
+----
 
 ## About me
 

@@ -8,11 +8,15 @@ uid: 775423
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/044/956/original/IMG_20201208_122730.jpg)
+
 # Outreachy proposal: Rebuilding Spectral Workbench capture and analysis interface
 
 by [wajeehamushtaq1](../profile/wajeehamushtaq1) October 27, 2021 11:33
 
 October 27, 2021 11:33 | Tags: [first-time-poster](../tag/first-time-poster), [lat:31.520369](../tag/lat:31.520369), [lon:74.358747](../tag/lon:74.358747), [zoom:6](../tag/zoom:6), [outreachy-winter-2021](../tag/outreachy-winter-2021)
+
+----
 
 # 
 

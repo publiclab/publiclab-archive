@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/018/631/original/Screen_Shot_2016-10-26_at_4.31.52_PM.png)
+
 # Step 1: Join Public Lab's Transifex project
 
 by [liz](../profile/liz) October 26, 2016 19:24
 
 October 26, 2016 19:24 | Tags: [community](../tag/community), [website](../tag/website), [activity](../tag/activity), [difficulty:easy](../tag/difficulty:easy), [status:complete](../tag/status:complete), [localization](../tag/localization), [translation](../tag/translation), [language](../tag/language), [activity:localization](../tag/activity:localization), [with:gauravano](../tag/with:gauravano)
+
+----
 
 This is the very first activity for translating the publiclab.org website into different languages using Transifex. After completing this activity, you will know how to find PublicLab.org's project on Transifex, and join to translate into an existing language or request to start a new language translation project.
 

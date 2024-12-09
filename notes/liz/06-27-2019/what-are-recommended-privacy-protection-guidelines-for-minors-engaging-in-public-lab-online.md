@@ -14,6 +14,8 @@ by [liz](../profile/liz) June 27, 2019 14:27
 
 June 27, 2019 14:27 | Tags: [question:privacy](../tag/question:privacy), [question:conduct](../tag/question:conduct)
 
+----
+
 **What are recommended privacy protection guidelines for minors engaging in Public Lab online?**
 
 As we prepare to welcome more youth into the Public Lab online community, we are reviewing what we have in the Code of Conduct regarding minors such as the [Media policy][1] that states "Never post the names of minors in conjunction with their photo." 

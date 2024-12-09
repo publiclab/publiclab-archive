@@ -14,6 +14,8 @@ by [warren](../profile/warren) April 20, 2011 16:08
 
 April 20, 2011 16:08 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [keychain-cameras](../tag/keychain-cameras), [vivitar](../tag/vivitar)
 
+----
+
 from:http://www.camerahacker.com/Forums/DisplayComments.php?file=Digital%20Camera/Vivitar/Anyone_seen_the__Vivitar_Mini_Digital_Camera.
 
 <blockquote>

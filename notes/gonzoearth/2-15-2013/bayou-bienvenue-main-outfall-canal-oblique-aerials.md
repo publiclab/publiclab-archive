@@ -8,11 +8,15 @@ uid: 12
 
 ---
 
+![](https://publiclab.org/sites/default/files/2013-01-17-louisiana-bayou-bienvenue-oblique-main-outfall-canal-east.jpg)
+
 # Bayou Bienvenue Main Outfall Canal Oblique Aerials
 
 by [gonzoearth](../profile/gonzoearth) February 15, 2013 18:29
 
 February 15, 2013 18:29 | Tags: [gulf-coast](../tag/gulf-coast), [kite-mapping](../tag/kite-mapping), [bienvenue](../tag/bienvenue)
+
+----
 
 <img width="500" src="http://archive.publiclaboratory.org/gulf-coast/2013-01-17-louisiana-bayou-bienvenue/oblique/2013-01-17-louisiana-bayou-bienvenue-oblique-main-outfall-canal-north.jpg" />
 

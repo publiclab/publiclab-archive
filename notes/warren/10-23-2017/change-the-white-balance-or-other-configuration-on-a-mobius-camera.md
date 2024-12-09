@@ -14,6 +14,8 @@ by [warren](../profile/warren) October 23, 2017 18:03
 
 October 23, 2017 18:03 | Tags: [ndvi](../tag/ndvi), [infrared](../tag/infrared), [white-balance](../tag/white-balance), [infragram](../tag/infragram), [mobius-actioncam](../tag/mobius-actioncam), [mobius](../tag/mobius), [infragram-point-shoot](../tag/infragram-point-shoot), [mobius-action-cam](../tag/mobius-action-cam), [multispectral-imaging](../tag/multispectral-imaging), [activity:mobius](../tag/activity:mobius), [activity:mobius-action-cam](../tag/activity:mobius-action-cam), [activity:infragram-point-shoot](../tag/activity:infragram-point-shoot), [near-infrared-photography](../tag/near-infrared-photography), [infragram-white-balance](../tag/infragram-white-balance), [activity:white-balance](../tag/activity:white-balance)
 
+----
+
 This is part of the documentation of the [Infragram Point & Shoot](/wiki/infragram-point-shoot) but also applies to any Mobius Action Cam settings you want to change.
 
 ### White balance

@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/006/218/original/comparison.png)
+
 # Visible-range fluorescence fingerprinting of heating and motor oil 
 
 by [warren](../profile/warren) August 11, 2014 19:45
 
 August 11, 2014 19:45 | Tags: [spectrometer](../tag/spectrometer), [oil](../tag/oil), [fluorescence](../tag/fluorescence), [matching](../tag/matching), [motor-oil](../tag/motor-oil), [crude](../tag/crude), [literature](../tag/literature), [oil-testing-kit](../tag/oil-testing-kit), [aging](../tag/aging), [synchronous-scanning](../tag/synchronous-scanning), [fuel](../tag/fuel), [fingerprinting](../tag/fingerprinting), [sfs](../tag/sfs)
+
+----
 
 I forwarded this 1992 article, "Fingerprinting petroleum contamination using synchronous scanning fluorescence spectroscopy," around a while ago (and posted on the wiki) but it's open access and there's a particular section that's really great and related to our [Oil Testing Kit](/wiki/oil-testing-kit). 
 

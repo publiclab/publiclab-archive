@@ -8,11 +8,15 @@ uid: 479194
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/018/533/original/Rosco_26_filtered.JPG)
+
 # Getting started with the Infragram Point and Shoot
 
 by [abdul](../profile/abdul) October 21, 2016 19:40
 
 October 21, 2016 19:40 | Tags: [ndvi](../tag/ndvi), [infrared](../tag/infrared), [filter](../tag/filter), [assembly](../tag/assembly), [infragram](../tag/infragram), [camera](../tag/camera), [instructions](../tag/instructions), [lens](../tag/lens), [barnstar:basic](../tag/barnstar:basic), [with:warren](../tag/with:warren), [difficulty:medium](../tag/difficulty:medium), [activity:multispectral-imaging](../tag/activity:multispectral-imaging), [activity:infragram](../tag/activity:infragram), [time:1hr](../tag/time:1hr), [pointshoot](../tag/pointshoot), [point-shoot](../tag/point-shoot), [activity:infragram-point-shoot](../tag/activity:infragram-point-shoot)
+
+----
 
 ### Introduction
 
@@ -81,6 +85,6 @@ Once you've changed the lens, you may need to refocus the camera. Follow this ac
 
 ### Questions
 
-[questions:infragram-point-shoot]
+[infragram-point-shoot](../../tag/question:infragram-point-shoot)
 
 If you have specific sales, customer service, partnership, or shipping related questions please send an E-mail to [kits@publiclab.org](mailto:kits@publiclab.org)

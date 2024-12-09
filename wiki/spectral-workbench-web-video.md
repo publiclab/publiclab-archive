@@ -14,6 +14,8 @@ by [warren](../profile/warren)
 
 June 11, 2012 13:02 | Tags: [spectralworkbench](../tag/spectralworkbench)
 
+----
+
 ###Desktop browsers
 
 Most modern desktop browsers have the ability to connect directly to hardware webcams, making it unnecessary to run a desktop program to operate [your spectrometer](/wiki/spectrometer). 

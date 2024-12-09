@@ -8,11 +8,15 @@ uid: 461120
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/013/628/original/oct14.jpg)
+
 # STILL WRKNG ON THE RAMAN SETUP, BUT OTHER PICS OF MY LAB SETUP
 
 by [dhaffnersr](../profile/dhaffnersr) January 14, 2016 21:21
 
 January 14, 2016 21:21 | Tags: 
+
+----
 
 This is related to my previous post. 
 

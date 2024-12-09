@@ -8,11 +8,15 @@ uid: 77
 
 ---
 
+![](https://publiclab.org/sites/default/files/Untitled 1.jpg)
+
 # CHDK usb remote shutter Digispark sketch
 
 by [patcoyle](../profile/patcoyle) January 31, 2013 04:36
 
 January 31, 2013 04:36 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [triggering](../tag/triggering), [chdk](../tag/chdk), [camera-triggering](../tag/camera-triggering)
+
+----
 
 So here is the 10 sec interval Sketch, I also have two of the DigiSparks loaded with the 5 sec interval one (just change the last command from delay(10000) to delay(5000)). I wire twisted up a set of USB cables and 9v battery for power and verified it triggered the Canon’s. 
 ***Updated: I went ahead and soldered up the configuration and got it ready to fly. See <a href="http://publiclaboratory.org/notes/patcoyle/2-23-2013/prototype-juice-bottle-bottom-dual-camera-rig">note</a> with it in dual bottle bottom prototype rig.

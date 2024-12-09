@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/040/882/original/Screen_Shot_2020-09-14_at_10.52.44_AM.png)
+
 # Congratulations to our Outreachy and GSoC 2020 fellows 👏👏👏
 
 by [warren](../profile/warren) September 14, 2020 14:55
 
 September 14, 2020 14:55 | Tags: [gsoc](../tag/gsoc), [blog](../tag/blog), [code](../tag/code), [soc](../tag/soc), [outreachy](../tag/outreachy), [with:sagarpreet](../tag/with:sagarpreet), [soc-2020](../tag/soc-2020), [soc-2020-final](../tag/soc-2020-final)
+
+----
 
 Last week, we wrapped up our 2020 Outreachy and Google Summer of Code programs, involving a team of super cool fellows -- 7, with 3 joining via #Outreachy and 4 via #GSoC.
 
@@ -32,4 +36,4 @@ We would love to have you all connected with us even after this summer, and wish
 
 (if yours does't appear, please add the `soc-2020-final` tag, or add a link in the comments, thanks!)
 
-[notes:soc-2020-final]
+[soc-2020-final](../../tag/soc-2020-final)

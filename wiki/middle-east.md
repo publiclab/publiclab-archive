@@ -14,6 +14,8 @@ by [hagitkeysar](../profile/hagitkeysar), [clauds](../profile/clauds), [liz](../
 
 November 01, 2015 20:10 | Tags: [region](../tag/region), [middle-east](../tag/middle-east)
 
+----
+
 In a region where the control and definition of territory is the seed of many conflicts, this Public Lab region seeks to create thought provoking activities that question assumed understandings of how we see and intervene in spatial territorial and land issues - with the hope that these provocations on place and space help us project new imaginations and future solutions.
 
 ##Organizers in the Middle East Region

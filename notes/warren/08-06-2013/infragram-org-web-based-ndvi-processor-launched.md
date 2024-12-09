@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/001/039/original/Screen_Shot_2013-08-06_at_5.40.11_PM.png)
+
 # Infragram.org web-based NDVI processor launched
 
 by [warren](../profile/warren) August 06, 2013 21:48
 
 August 06, 2013 21:48 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [infragram](../tag/infragram)
+
+----
 
 Although many folks are using [Ned Horning](/profile/nedhorning)'s [Photo Monitoring Plugin](/wiki/photo-monitoring-plugin) to post-process their photos, we have also just launched (through lots of hard work by [Don Blair](/profile/donblair) and [Craig Versek](/profile/cversek) of [Pioneer Valley Open Science](http://pvos.org)) an easy-to-use website for processing your Infragram photos. 
 

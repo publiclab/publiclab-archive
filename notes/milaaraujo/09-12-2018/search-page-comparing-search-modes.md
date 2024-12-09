@@ -14,6 +14,8 @@ by [milaaraujo](../profile/milaaraujo) September 12, 2018 02:40
 
 September 12, 2018 02:40 | Tags: [search](../tag/search), [answered](../tag/answered), [question:general](../tag/question:general), [lat:1.010689](../tag/lat:1.010689), [lon:9.997558](../tag/lon:9.997558)
 
+----
+
 Hey everybody! After working on the API, Stéfanni and I are now trying to improve the Search page (results and design). Recently I opened a [PR](https://github.com/publiclab/plots2/pull/3309) to add the boolean mode option to the search view. Now I need your help to compare the different search options in the page (https://publiclab.org/search):
 
 ![image description](/i/26525.png "Desenho_sem_título_(3).png")

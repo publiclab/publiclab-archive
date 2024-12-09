@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/012/137/original/PetriTub176aLP2k.jpg)
+
 # Uncontrolled reentry
 
 by [cfastie](../profile/cfastie) October 25, 2015 05:16
 
 October 25, 2015 05:16 | Tags: [kite-mapping](../tag/kite-mapping), [vermont](../tag/vermont), [kite](../tag/kite), [saturnv](../tag/saturnv), [skyshield](../tag/skyshield), [half-spherical](../tag/half-spherical), [littleplanet](../tag/littleplanet), [response:12330](../tag/response:12330), [s100-gps](../tag/s100-gps)
+
+----
 
 *Above: Stereographic projection of a panorama stitched from 22 photos taken by a Canon S100 on a [Saturn V autoKAP rig](http://kaptery.com/product/saturn-v-rig) lofted by a Fled kite on October 23, 2015.*
 

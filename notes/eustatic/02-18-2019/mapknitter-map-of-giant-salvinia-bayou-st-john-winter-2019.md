@@ -8,11 +8,15 @@ uid: 379
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/029/433/original/MZHMOBO7PZFKLK7SFX53DRBPNU.JPG)
+
 # MapKnitter map of Giant Salvinia Bayou st John Winter 2019
 
 by [eustatic](../profile/eustatic) February 18, 2019 19:54
 
 February 18, 2019 19:54 | Tags: [mapknitter](../tag/mapknitter), [bsj](../tag/bsj), [lat:30.011218](../tag/lat:30.011218), [lon:-90.085776](../tag/lon:-90.085776), [lat:29.999422](../tag/lat:29.999422), [lon:-90.085401](../tag/lon:-90.085401), [salinitycontrol](../tag/salinitycontrol)
+
+----
 
 <iframe src="https://mapknitter.org/embed/giant-salvinia-bayou-st-john-winter-2019" style="border:none" width="100%" height="400px"></iframe>  
   

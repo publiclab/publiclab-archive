@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/028/589/original/Screen_Shot_2019-01-02_at_2.03.20_PM.png)
+
 # Brainstorming for Summer of Code 2019
 
 by [warren](../profile/warren) January 02, 2019 19:04
 
 January 02, 2019 19:04 | Tags: [outreach](../tag/outreach), [gsoc](../tag/gsoc), [code](../tag/code), [wwg](../tag/wwg), [software-outreach](../tag/software-outreach), [rgsoc](../tag/rgsoc), [soc](../tag/soc), [ideas](../tag/ideas), [rgsoc-2019](../tag/rgsoc-2019), [gsoc-2019](../tag/gsoc-2019), [soc-2019](../tag/soc-2019), [soc-ideas](../tag/soc-ideas), [brainstorm](../tag/brainstorm), [response:15477](../tag/response:15477)
+
+----
 
 Amazingly, Summer of Code 2019 is approaching, or at least our Ideas list is starting to be needed to plan it out properly. Let's kick off some discussion of projects so that we coordinate the long-term plan for our community's code!
 

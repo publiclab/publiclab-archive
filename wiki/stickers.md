@@ -14,6 +14,8 @@ by [warren](../profile/warren)
 
 June 13, 2014 19:44 | Tags: [stickers](../tag/stickers), [drawings](../tag/drawings), [parent:kits-artwork](../tag/parent:kits-artwork)
 
+----
+
 Also see https://publiclab.org/wiki/kits-artwork
 
 [![rounded-noborder.jpg](https://i.publiclab.org/system/images/photos/000/005/009/medium/rounded-noborder.jpg)](https://i.publiclab.org/system/images/photos/000/005/009/original/rounded-noborder.jpg)

@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/044/192/original/Screen_Shot_2021-06-16_at_2.51.22_PM.png)
+
 # investigation concepts from journalists
 
 by [liz](../profile/liz) June 16, 2021 18:51
 
 June 16, 2021 18:51 | Tags: [evidence](../tag/evidence), [journalism](../tag/journalism), [lat:35](../tag/lat:35), [zoom:13](../tag/zoom:13), [lon:-78.99](../tag/lon:-78.99), [investigation](../tag/investigation), [osint](../tag/osint)
+
+----
 
 Community science might sometimes be described as "collaborative investigations for accountability" — a [phrase also used by journalists][1]. Into this space of overlap comes this great guide to #OSINT or open source investigations: **[Exposing the Invisible - The Kit][2]**. The [Table of Contents][3] is nice, too. A project by long term comrades, https://tacticaltech.org/!
 

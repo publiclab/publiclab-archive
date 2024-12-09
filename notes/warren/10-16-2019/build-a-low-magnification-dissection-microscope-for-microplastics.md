@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/035/790/original/IMG_20191016_100004.jpg)
+
 # Build a low-magnification "dissection microscope" for microplastics
 
 by [warren](../profile/warren) October 16, 2019 14:39
 
 October 16, 2019 14:39 | Tags: [webcam](../tag/webcam), [microscope](../tag/microscope), [microscopes](../tag/microscopes), [microplastics](../tag/microplastics), [activity:community-microscope](../tag/activity:community-microscope), [community-microscope](../tag/community-microscope), [babylegs](../tag/babylegs), [activity:babylegs](../tag/activity:babylegs), [assembly:community-microscope](../tag/assembly:community-microscope), [activity:microplastics](../tag/activity:microplastics), [dissecting-microscope](../tag/dissecting-microscope)
+
+----
 
 The basic Community Microscope is great for looking at really tiny things - like, 10-100 microns in size. But #microplastics such as collected with a trawl like #babylegs are a bit bigger -- between a grain of sand and a grain of rice. 
 

@@ -14,6 +14,8 @@ by [warren](../profile/warren), [mathew](../profile/mathew)
 
 February 19, 2012 03:01 | Tags: [balloon-mapping](../tag/balloon-mapping), [kits](../tag/kits), [parent:balloon-mapping](../tag/parent:balloon-mapping)
 
+----
+
 <a href="https://www.flickr.com/photos/14397636@N07/7199086896/" title="balloonkitsquareIMG_4913 by mathew.lippincott, on Flickr"><img src="https://farm6.staticflickr.com/5192/7199086896_660a6a0119.jpg" width="500" height="500" alt="balloonkitsquareIMG_4913"></a>
 
 This kit, offered for sale by Public Laboratory's nonprofit arm, is the result of experiments in DIY [balloon mapping](http://publiclaboratory.org/tool/balloon-mapping). They were available through the [Balloon Mapping Kits Kickstarter](http://www.kickstarter.com/projects/1775485688/balloon-mapping-kits) and now online through Breadpig.

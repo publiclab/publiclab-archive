@@ -14,6 +14,8 @@ by [warren](../profile/warren) January 07, 2011 04:29
 
 January 07, 2011 04:29 | Tags: [lima](../tag/lima), [spectrometer](../tag/spectrometer), [peru](../tag/peru), [workshop](../tag/workshop), [spectrometry](../tag/spectrometry), [event](../tag/event), [escuelab](../tag/escuelab), [fablab](../tag/fablab), [center-for-bits-and-atoms](../tag/center-for-bits-and-atoms), [cba](../tag/cba)
 
+----
+
 <a href="https://www.flickr.com/photos/nadya/5328588362/" title="TL lamps by Nadya Peek, on Flickr"><img src="http://farm6.static.flickr.com/5046/5328588362_5f3a65026e.jpg" width="500" height="274" alt="TL lamps" /></a>
 
 A couple weeks ago, Nadya Peek (of the [Center for Bits and Atoms](http://cba.mit.edu)) and I led a two-day workshop at Escuelab, in Lima, Peru. Organized by Escuelab([.org](http://escuelab.org)) and FabLabLima([.org](http://fablablima.org)), the workshop introduced basic visible and infrared spectrometry and participants built their own spectrometers from PVC tubes, digital cameras, and discs cut from blank CD-ROMs.

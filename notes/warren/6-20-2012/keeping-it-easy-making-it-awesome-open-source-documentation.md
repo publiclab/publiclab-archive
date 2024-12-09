@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/IMG_0130.JPG)
+
 # Keeping it easy, making it awesome: open source documentation
 
 by [warren](../profile/warren) June 20, 2012 19:34
 
 June 20, 2012 19:34 | Tags: [open-source](../tag/open-source), [documentation](../tag/documentation), [guides](../tag/guides)
+
+----
 
 Thinking a lot about how to make documentation that helps the first-time user (can you do this in < 5 minutes with only what you have in your office/kitchen/garage?) and supporting the amazing advanced work so many people are doing in PLOTS. 
 

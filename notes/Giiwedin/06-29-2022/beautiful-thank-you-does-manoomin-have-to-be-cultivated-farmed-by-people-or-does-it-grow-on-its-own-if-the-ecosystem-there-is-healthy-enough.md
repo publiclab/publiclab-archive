@@ -14,4 +14,6 @@ by [Giiwedin](../profile/Giiwedin) June 29, 2022 19:05
 
 June 29, 2022 19:05 | Tags: [wild-rice](../tag/wild-rice), [manoomin](../tag/manoomin)
 
+----
+
 Boozhoo Liz, miigwech for the question! Manoomin grows naturally in the lakes, rivers, and wetlands. Although, when it is cultivated, the wild rice is much different than what grows naturally. The cultivated Manoomin is uniformly black and has a lower nutrient concentration whereas the Manoomin that grows naturally has variation in color and a higher nutrient concentration because of the biodiversity that comes with growing in the wild.

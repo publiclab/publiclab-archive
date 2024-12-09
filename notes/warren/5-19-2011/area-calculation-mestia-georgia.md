@@ -8,10 +8,14 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/mestia.png)
+
 # Area calculation of Mestia, Georgia
 
 by [warren](../profile/warren) May 19, 2011 19:17
 
 May 19, 2011 19:17 | Tags: [balloon-mapping](../tag/balloon-mapping), [georgia](../tag/georgia), [middle-east](../tag/middle-east)
+
+----
 
 Wow, this 2-day flight resulted in over 1700 acres of of coverage at an average resolution of 21.9 cm/px.

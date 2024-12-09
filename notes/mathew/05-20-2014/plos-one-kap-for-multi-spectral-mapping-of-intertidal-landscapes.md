@@ -8,11 +8,15 @@ uid: 4
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/004/329/original/Screen_Shot_2014-05-20_at_9.23.57_AM.png)
+
 # PLOS One: KAP for... Multi-Spectral Mapping of Intertidal Landscapes 
 
 by [mathew](../profile/mathew) May 20, 2014 16:25
 
 May 20, 2014 16:25 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [ndvi](../tag/ndvi), [infrared](../tag/infrared), [kite](../tag/kite), [photo-rig](../tag/photo-rig), [kites](../tag/kites), [infragram](../tag/infragram)
+
+----
 
 An article on [two-camera NDVI in intertidal mapping from PLOS One](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0073550), using kites, [via the KAP forums](http://arch.ced.berkeley.edu/kap/discuss/index.php?p=/discussion/5035/kap-for-intertidal-landscape-mapping).
 

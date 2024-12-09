@@ -14,6 +14,8 @@ by [bhamster](../profile/bhamster)
 
 December 04, 2020 22:19 | Tags: 
 
+----
+
 ## Types of monitoring equipment
 
 Most monitors give a mass-based particle concentration for all particles in a [size category](/wiki/pm-monitoring-regulations), meaning they do not differentiate between the relative mass contribution of different sizes of particles within that category. Only systems that capture and save particulate matter can identify, or ‘speciate’ particles by size or elemental composition. 

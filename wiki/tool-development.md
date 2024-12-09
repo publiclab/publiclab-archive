@@ -14,6 +14,8 @@ by [liz](../profile/liz), [btbonval](../profile/btbonval), [warren](../profile/w
 
 November 14, 2014 17:44 | Tags: [development](../tag/development)
 
+----
+
 This conversation is also happening in a github issue, see: https://github.com/publiclab/plots2/issues/260
 ****
 This wiki page offers an overview of the development timeline for many Public Lab tools and techniques. Not all Public Lab tools follow this exact sequence, but this reflects some common steps in the development of a new environmental monitoring technique. 

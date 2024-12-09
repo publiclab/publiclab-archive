@@ -14,6 +14,8 @@ by [stevie](../profile/stevie) April 07, 2019 13:32
 
 April 07, 2019 13:32 | Tags: [question:water-quality](../tag/question:water-quality), [question:coqui](../tag/question:coqui), [question:kits](../tag/question:kits), [question:make](../tag/question:make)
 
+----
+
 Hi! 
 I tried building a coqui last night, but can't seem to get it working. I'm getting some scratching noises out of it, but it's not making the chirp I was expecting. Here are a couple photos of the setup: 
 

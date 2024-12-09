@@ -8,11 +8,15 @@ uid: 237313
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/006/291/original/IMG_2120.JPG)
+
 # GLAM and Gowanus Canal Conservancy Goal Setting Meeting
 
 by [Bronwen](../profile/Bronwen) August 15, 2014 16:40
 
 August 15, 2014 16:40 | Tags: [new-york-city](../tag/new-york-city), [gowanus-canal](../tag/gowanus-canal), [brooklyn](../tag/brooklyn), [gowanus-canal-conservancy](../tag/gowanus-canal-conservancy), [event](../tag/event), [glam](../tag/glam), [northeast](../tag/northeast)
+
+----
 
 On Wednesday, 8/13, members of GLAM, the Gowanus Canal Conservancy, and Public Lab met to discuss goal setting for the near future. Thus far, mapping efforts have focused on the following: 
 

@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/000/406/original/IMG_0019_copy.JPG)
+
 # Infragram test photos from a plane window
 
 by [warren](../profile/warren) May 27, 2013 18:32
 
 May 27, 2013 18:32 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [passenger-pigeon](../tag/passenger-pigeon), [philadelphia](../tag/philadelphia), [infragram](../tag/infragram), [colormap](../tag/colormap), [plane](../tag/plane), [infrabluephoto](../tag/infrabluephoto), [activity:passenger-pigeon](../tag/activity:passenger-pigeon)
+
+----
 
 I flew back from Colorado via Philly and took lots of [Infragram](http://kck.st/11XOglZ) photos the whole way. Here are some of the best... they look amazing! Some worked better than others; the golf course didn't work well at all. Also - i'm not sure if the gradient in the first and third ones is due to overall brightness or perhaps due to scattering in the blue channel from air moisture...
 

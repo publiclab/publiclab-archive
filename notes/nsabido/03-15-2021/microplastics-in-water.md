@@ -8,11 +8,15 @@ uid: 745916
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/042/950/original/375_250-joseph_cotruvo_lg.jpg)
+
 # Microplastics in water
 
 by [nsabido](../profile/nsabido) March 15, 2021 15:53
 
 March 15, 2021 15:53 | Tags: [issue-brief](../tag/issue-brief), [microplastics](../tag/microplastics), [zoom:6](../tag/zoom:6), [lat:30.984297](../tag/lat:30.984297), [lon:-91.962332](../tag/lon:-91.962332)
+
+----
 
 ### Introduction:
 
@@ -38,4 +42,4 @@ Public Lab
 2. What is the largest source of microplastic pollution?
 3. Are there bills that prohibit certain types of activities that we can help promote?
 
-[questions:tagname]
+[tagname](../../tag/question:tagname)

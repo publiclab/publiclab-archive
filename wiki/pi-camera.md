@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/026/785/original/Screenshot_2018-10-04_at_4.52.43_PM.png)
+
 # Pi Camera
 
 by [warren](../profile/warren), [hill58081495](../profile/hill58081495), [nataliatorres](../profile/nataliatorres)
 
 June 22, 2017 18:12 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [spectrometry](../tag/spectrometry), [raspberry-pi](../tag/raspberry-pi), [timelapse](../tag/timelapse), [aerial-mapping](../tag/aerial-mapping), [rpi](../tag/rpi), [pi-camera](../tag/pi-camera), [datasheet](../tag/datasheet)
+
+----
 
 This page collects different ways to use Raspberry Pi computer boards (and related boards) to make small, cheap, lightweight cameras for different purposes, including #aerial-mapping, #balloon-mapping, #kite-mapping, #timelapse and #spectrometry.
 
@@ -31,7 +35,7 @@ We've managed to get a **plug and play** version running! Just plug it in using 
 
 For more on the open source Pi Builder software that made this possible, [see this blog post](/notes/icarito/10-21-2018/introducing-pi-builder) and [troubleshoot on this wiki page](/pi-builder)
 
-[notes:grid:activity:pi-camera-setup]
+[grid:activity:pi-camera-setup](../../tag/grid:activity:pi-camera-setup)
 
 ****
 
@@ -39,13 +43,13 @@ For more on the open source Pi Builder software that made this possible, [see th
 
 Questions can be either frequently asked questions, or "next step" challenges we're looking to solve.
 
-[questions:pi-camera]
+[pi-camera](../../tag/question:pi-camera)
 
 ## Activities
 
 Activities show how to use this project, step by step.
 
-[activities:pi-camera]
+[pi-camera](../../tag/activity:pi-camera)
 
 ****
 

@@ -8,11 +8,15 @@ uid: 451808
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/012/368/original/IMG_6429.JPG)
+
 # OTK Unboxing
 
 by [Matej](../profile/Matej) November 03, 2015 17:58
 
 November 03, 2015 17:58 | Tags: [spectrometry](../tag/spectrometry), [unboxing](../tag/unboxing), [otk](../tag/otk)
+
+----
 
 [![IMG_6426.JPG](https://i.publiclab.org/system/images/photos/000/012/363/medium/IMG_6426.JPG)](https://i.publiclab.org/system/images/photos/000/012/363/original/IMG_6426.JPG)
 

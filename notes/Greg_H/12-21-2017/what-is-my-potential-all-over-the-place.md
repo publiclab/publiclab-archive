@@ -14,6 +14,8 @@ by [Greg_H](../profile/Greg_H) December 21, 2017 09:05
 
 December 21, 2017 09:05 | Tags: [wheestat](../tag/wheestat), [question:question](../tag/question:question), [question:wheestat](../tag/question:wheestat)
 
+----
+
 I have a problem with the WheeStat that I bought. The potential that is 
 read by the software is very different from the one that I apply. Do you have an idea of what I am doing wrong?  
 Does it have to do with which power source is being selected? Debug or 

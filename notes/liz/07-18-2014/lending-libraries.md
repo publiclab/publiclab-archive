@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/005/382/original/IMG_0784.JPG)
+
 # Lending Libraries
 
 by [liz](../profile/liz) July 18, 2014 16:23
 
 July 18, 2014 16:23 | Tags: [community](../tag/community), [lending-library](../tag/lending-library), [response:10953](../tag/response:10953)
+
+----
 
 Many of us have a tote bag, box, shelf, or even a bookcase full of gear. Many of us loan out this gear to a folks we know personally. Some organizers maintain a centralized storage place for their chapter where anyone can check out equipment. This cycle of storing and loaning could be described as a **Lending Library**, a concept that's never been formalized within Public Lab but nonetheless is emerging as a strong part of chapter culture.
 

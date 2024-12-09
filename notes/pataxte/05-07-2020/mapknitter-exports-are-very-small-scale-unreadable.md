@@ -14,6 +14,8 @@ by [pataxte](../profile/pataxte) May 07, 2020 17:01
 
 May 07, 2020 17:01 | Tags: [mapknitter](../tag/mapknitter)
 
+----
+
 Re #mapknitter , when
 I try the new cloud export function i get a teeny tiny unreadable image
 in both tif and jpg formats, and this is true no matter what resolution

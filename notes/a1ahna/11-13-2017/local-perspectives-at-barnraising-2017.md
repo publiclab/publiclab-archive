@@ -8,11 +8,15 @@ uid: 518193
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/022/411/original/20171103_091249.jpg)
+
 # Local Perspectives at Barnraising 2017
 
 by [a1ahna](../profile/a1ahna) November 13, 2017 18:11
 
 November 13, 2017 18:11 | Tags: [balloon-mapping](../tag/balloon-mapping), [community](../tag/community), [louisiana](../tag/louisiana), [conservation](../tag/conservation), [cocodrie](../tag/cocodrie), [mapping](../tag/mapping), [barnraising](../tag/barnraising), [event](../tag/event), [blog](../tag/blog), [drone](../tag/drone), [barnstar:basic](../tag/barnstar:basic), [kayak](../tag/kayak), [preservation](../tag/preservation), [barnraising-2017](../tag/barnraising-2017), [barnraising2017](../tag/barnraising2017), [landsapes](../tag/landsapes), [map](../tag/map), [first-time-poster](../tag/first-time-poster)
+
+----
 
 ![image description](https://publiclab.org/system/images/photos/000/022/373/large/IMG_0937.JPG "IMG_0937.JPG")  
 _View of the marsh in the morning, as seen from my dormitory window. An egret basks in the sunlight._

@@ -14,6 +14,8 @@ by [eustatic](../profile/eustatic) January 20, 2021 03:24
 
 January 20, 2021 03:24 | Tags: [air-quality](../tag/air-quality), [pm](../tag/pm), [particulate-monitoring](../tag/particulate-monitoring), [weather-station](../tag/weather-station), [particulate-matter](../tag/particulate-matter), [activity:air-quality](../tag/activity:air-quality), [purpleair](../tag/purpleair), [sms](../tag/sms), [question:purpleair](../tag/question:purpleair), [healthygulf](../tag/healthygulf), [airwyn](../tag/airwyn), [iseechange](../tag/iseechange)
 
+----
+
 Purple Air has great data that makes a big mess.  Healthy Gulf is spending all of our time maintaining units and working with legal professionals, and doesn't have the labor power to constantly watch, interpret, prompt residents, and attend to units.  We are seeking to recruit volunteers to watch a sensor on the purple air map every four days. This is kind of silly, to be honest, but that is what has been effective so far. 
 
   

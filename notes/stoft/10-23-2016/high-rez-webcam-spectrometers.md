@@ -8,11 +8,15 @@ uid: 54025
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/018/549/original/Spectrometers.jpg)
+
 # High-Rez WebCam Spectrometers
 
 by [stoft](../profile/stoft) October 23, 2016 07:16
 
 October 23, 2016 07:16 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [desktop-spectrometer](../tag/desktop-spectrometer), [diy-spectrometer](../tag/diy-spectrometer), [resolution](../tag/resolution)
+
+----
 
 **Abstract**
 

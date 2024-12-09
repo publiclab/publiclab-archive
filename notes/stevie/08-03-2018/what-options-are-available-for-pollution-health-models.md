@@ -14,6 +14,8 @@ by [stevie](../profile/stevie) August 03, 2018 14:02
 
 August 03, 2018 14:02 | Tags: [answered](../tag/answered), [question:general](../tag/question:general), [question:health](../tag/question:health), [question:pollution](../tag/question:pollution), [question:models](../tag/question:models), [question:model](../tag/question:model), [question:pollution-model](../tag/question:pollution-model)
 
+----
+
 Question shared by Mike Ewall of [Energy Justice Network][1] 
 
 "Have any of you used pollution/health models where you can plug in the emissions data from a facility -- and probably local population info -- and come out with projections on how many people will die prematurely, suffer from additional asthma attacks, heart attacks/strokes, or other health outcomes? If there's something like that I can use, which isn't more complicated than I can handle, that would be super useful in some of my work right now."

@@ -8,11 +8,15 @@ uid: 447491
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/013/577/original/IMG_3583.JPG)
+
 # Another low-fi pendulum rig
 
 by [tonyc](../profile/tonyc) January 09, 2016 01:22
 
 January 09, 2016 01:22 | Tags: [diy-mount-kit](../tag/diy-mount-kit)
+
+----
 
 ###What I want to do
 fly a point and shoot safely, on a $1 budget.

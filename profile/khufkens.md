@@ -3,6 +3,8 @@ uid: 438931
 created_at: 2015-04-20 00:23:26 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/438931/medium/542273_10151172226032700_2139427358_n.jpg)
+
 # khufkens
 
 I’m a research associate at Harvard University where my time is divided between modelling plant phenology across various biomes in response to climate change, being the lab geek and intrepid open source hardware and software developer.

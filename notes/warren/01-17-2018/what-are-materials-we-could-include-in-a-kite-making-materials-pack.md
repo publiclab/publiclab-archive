@@ -14,6 +14,8 @@ by [warren](../profile/warren) January 17, 2018 20:57
 
 January 17, 2018 20:57 | Tags: [kite-mapping](../tag/kite-mapping), [nasa](../tag/nasa), [materials](../tag/materials), [prototype](../tag/prototype), [answered](../tag/answered), [prototyping](../tag/prototyping), [kite-making](../tag/kite-making), [question:kite-mapping](../tag/question:kite-mapping), [question:kits](../tag/question:kits), [question:sourcing](../tag/question:sourcing), [sourcing](../tag/sourcing), [aren](../tag/aren), [question:kite-making](../tag/question:kite-making), [question:nasa](../tag/question:nasa)
 
+----
+
 The Public Lab Kits initiative is considering different materials packs to help people prototype and make kites and aerial photography rigs -- like in relation to:
 
 - [Kite making](https://publiclab.org/kite-making)

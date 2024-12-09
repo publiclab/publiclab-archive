@@ -14,6 +14,8 @@ by [mimiss](../profile/mimiss) April 01, 2019 17:49
 
 April 01, 2019 17:49 | Tags: [dye](../tag/dye), [microscopy](../tag/microscopy), [question:general](../tag/question:general), [question:microscope](../tag/question:microscope), [question:education](../tag/question:education), [stain](../tag/stain)
 
+----
+
 I'm looking for affordable ways to stain microscope samples to increase visibility. What are good alternatives to more expensive and harder to source dyes, like hematoxylin, eosin, carmine, methylene blue, methyl green, and the like?
 
   

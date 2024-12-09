@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/006/576/original/IMG_20140903_120308.jpg)
+
 # Odyssey magazine piece on Balloon Mapping
 
 by [warren](../profile/warren) September 03, 2014 18:34
 
 September 03, 2014 18:34 | Tags: [balloon-mapping](../tag/balloon-mapping), [media](../tag/media), [press](../tag/press), [odyssey](../tag/odyssey), [magazine](../tag/magazine)
+
+----
 
 Odyssey Magazine is a kids science magazine, and they ran a whole issue on remote sensing recently which featured a 3-page spread on balloon mapping. It's great -- encourages people to join Public Lab, clearly cites and attributes, and is a fun layout too. Nice!
 

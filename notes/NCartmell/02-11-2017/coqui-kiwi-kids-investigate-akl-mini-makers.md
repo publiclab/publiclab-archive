@@ -8,11 +8,15 @@ uid: 502789
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/019/532/original/nutrient-pathoways.png)
+
 # Coqui - Kiwi kids investigate ("AKL Mini-Makers")
 
 by [NCartmell](../profile/NCartmell) February 11, 2017 10:09
 
 February 11, 2017 10:09 | Tags: [water-quality](../tag/water-quality), [akl_mini-makers](../tag/akl_mini-makers), [kiwi](../tag/kiwi)
+
+----
 
 AKL Mini-Maker workshops Terms 1 & 2:
 

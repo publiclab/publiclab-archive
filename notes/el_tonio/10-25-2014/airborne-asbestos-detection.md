@@ -8,11 +8,15 @@ uid: 429873
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/007/628/original/WIN_20141025_150907.JPG)
+
 # Airborne Asbestos Detection
 
 by [el_tonio](../profile/el_tonio) October 25, 2014 14:16
 
 October 25, 2014 14:16 | Tags: [laser](../tag/laser), [air-quality](../tag/air-quality), [asbestos](../tag/asbestos), [magnetic](../tag/magnetic), [paramagnetic](../tag/paramagnetic)
+
+----
 
 ###What I want to do
 * To detect airborne asbestos

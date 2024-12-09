@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/022/675/original/OI000109.jpg)
+
 # Build a papercraft spectrometer for your phone -- version 2.0
 
 by [warren](../profile/warren) November 30, 2017 19:25
 
 November 30, 2017 19:25 | Tags: [kits](../tag/kits), [spectrometry](../tag/spectrometry), [assembly](../tag/assembly), [foldable](../tag/foldable), [papercraft](../tag/papercraft), [onboarding](../tag/onboarding), [activity:spectrometry](../tag/activity:spectrometry), [activity:foldable-spec](../tag/activity:foldable-spec), [foldable-spec](../tag/foldable-spec), [response:13076](../tag/response:13076), [response:14625](../tag/response:14625), [improves-on:14625](../tag/improves-on:14625), [improves-on:13076](../tag/improves-on:13076), [introductory](../tag/introductory), [activity:papercraft-spec](../tag/activity:papercraft-spec), [activity:newcomers](../tag/activity:newcomers), [pin:activity:papercraft-spec](../tag/pin:activity:papercraft-spec)
+
+----
 
 After a few years, we're returning to one of our oldest kits to update and improve it, building on lots of community-contributed ideas, improvements, and refinements. This page guides you through assembling this new design; also check out [this page for related resources and activities](/paper-spec).
 

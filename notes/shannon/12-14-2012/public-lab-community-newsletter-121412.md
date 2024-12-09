@@ -14,6 +14,8 @@ by [Shannon](../profile/Shannon) December 15, 2012 01:40
 
 December 15, 2012 01:40 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
 
+----
+
 This week in the Public Lab community newsletter, check out the new Public Lab store, welcome a new staff member and get ready for a holiday celebration in New York City. 
 
 1. Public Lab store has launched. A few hours ago, the [Public Lab store](http://store.publiclaboratory.org/), where you can purchase balloon kits, mini-foldable and desktop spectrometers, as well as an assortment of other equipment, launched!

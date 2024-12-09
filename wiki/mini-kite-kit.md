@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/020/734/original/tmp_27876-IMG_20170609_145820_354_21702353203.jpg)
+
 # Mini Kite Kit
 
 by [warren](../profile/warren)
 
 June 09, 2017 18:45 | Tags: [prototypingkit](../tag/prototypingkit), [prototyping-kit](../tag/prototyping-kit), [prototyping-](../tag/prototyping-)
+
+----
 
 The mini kite kit is an effort to curate a cheap, easy, and very portable kit for kite photography for under $50. 
 
@@ -41,10 +45,10 @@ But there are remaining questions and refinements to make on this kit -- that’
 
 ## Questions
 
-[questions:mini-kite-kit]
+[mini-kite-kit](../../tag/question:mini-kite-kit)
 
 ****
 
 ## Activities
 
-[activities:mini-kite-kit]
+[mini-kite-kit](../../tag/activity:mini-kite-kit)

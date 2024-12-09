@@ -8,11 +8,15 @@ uid: 379
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/022/408/original/casotte.jpg)
+
 # MapKnitter map of Bayou Casotte on a calm, sunny day
 
 by [eustatic](../profile/eustatic) November 14, 2017 07:25
 
 November 14, 2017 07:25 | Tags: [gulf-coast](../tag/gulf-coast), [mapknitter](../tag/mapknitter), [mississippi](../tag/mississippi), [gulf-restoration-network](../tag/gulf-restoration-network), [water](../tag/water), [lat:30.3548447](../tag/lat:30.3548447), [lon:-88.5125205](../tag/lon:-88.5125205), [pascagoula](../tag/pascagoula)
+
+----
 
 [link text](https://www.flickr.com/photos/healthygulf/37736175302/in/album-72157689552248836/)
 <iframe src="https://mapknitter.org/embed/bayou-casotte-calm-sunny-day" style="border:none" width="100%" height="400px"></iframe>

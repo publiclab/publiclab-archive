@@ -8,11 +8,15 @@ uid: 422561
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/021/213/original/20170624_145555.jpg)
+
 # Appalachia Barnraising 2017 Tweets 
 
 by [stevie](../profile/stevie) July 26, 2017 20:40
 
 July 26, 2017 20:40 | Tags: [barnraising](../tag/barnraising), [photos](../tag/photos), [appalachia-barnraising](../tag/appalachia-barnraising)
+
+----
 
 
 

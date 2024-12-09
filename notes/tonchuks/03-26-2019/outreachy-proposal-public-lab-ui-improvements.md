@@ -8,11 +8,15 @@ uid: 577536
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/030/726/original/Outreachy_Image_bg.png)
+
 # Outreachy proposal: Public Lab UI Improvements
 
 by [tonchuks](../profile/tonchuks) March 26, 2019 03:45
 
 March 26, 2019 03:45 | Tags: [software](../tag/software), [soc](../tag/soc), [outreachy](../tag/outreachy), [response:17359](../tag/response:17359), [first-time-poster](../tag/first-time-poster), [soc-2019](../tag/soc-2019), [outreachy-2019](../tag/outreachy-2019), [outreachy-2019-proposals](../tag/outreachy-2019-proposals)
+
+----
 
 ## About me
 

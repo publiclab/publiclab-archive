@@ -8,11 +8,15 @@ uid: 749988
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/044/060/original/Sara_Sage_Headshot.jpg)
+
 # First hand experience on using Public Lab with Sara Sage
 
 by [denissebn_06](../profile/denissebn_06) June 04, 2021 15:26
 
 June 04, 2021 15:26 | Tags: [landfill](../tag/landfill), [air-quality](../tag/air-quality), [non-profit](../tag/non-profit), [lang:es](../tag/lang:es), [land-use](../tag/land-use), [air-monitoring](../tag/air-monitoring), [community-organizing](../tag/community-organizing), [with:sarasage](../tag/with:sarasage), [zoom:16](../tag/zoom:16), [VVAMP](../tag/VVAMP), [aire](../tag/aire), [monitoreo-aire](../tag/monitoreo-aire), [calidad-aire](../tag/calidad-aire), [lat:13.721](../tag/lat:13.721), [lon:-89.221](../tag/lon:-89.221)
+
+----
 
 [Haz click aqui para leer el contenido de esta página en español](https://publiclab.org/notes/denissebn_06/06-04-2021/first-hand-experience-on-using-public-lab-with-sara-sage?_=1622821809#%3Cstrong%3EExperiencia+de+primera+mano+usando+Public+Lab+con+Sara+Sage%3C/strong%3E).
 

@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/020/851/original/stormwater.jpg)
+
 # Balloon and Kite Mapping Stories, Part 1
 
 by [warren](../profile/warren) June 22, 2017 20:25
 
 June 22, 2017 20:25 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [kickstarter](../tag/kickstarter), [blog](../tag/blog), [aerial-mapping](../tag/aerial-mapping), [stories](../tag/stories), [mini-kite-kit](../tag/mini-kite-kit), [mini-balloon-kit](../tag/mini-balloon-kit)
+
+----
 
 > This is a series on #balloon-mapping, as part of our month-long Kickstarter campaign to launch Mini Balloon and Kite Kits: [http://publiclab.org/ks](http://publiclab.org/ks)
 

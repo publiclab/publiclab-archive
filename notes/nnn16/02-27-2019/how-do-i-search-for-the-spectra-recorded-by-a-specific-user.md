@@ -14,4 +14,6 @@ by [nnn16](../profile/nnn16) February 27, 2019 05:38
 
 February 27, 2019 05:38 | Tags: [search](../tag/search), [question:spectral-workbench](../tag/question:spectral-workbench), [user](../tag/user), [first-time-poster](../tag/first-time-poster), [profile](../tag/profile)
 
+----
+
 My lab instructor uploaded some spectral images that I would like to be able to access. I tried typing his username into the search bar to no avail. How do I find his profile? Thanks!

@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/045/369/original/Browse.png)
+
 # Reviews
 
 by [bhamster](../profile/bhamster), [liz](../profile/liz), [warren](../profile/warren)
 
 September 10, 2019 19:45 | Tags: [reviews](../tag/reviews), [research-area-review](../tag/research-area-review)
+
+----
 
 **Hello and welcome!** 👋🏻 🎉 Thanks for visiting and learning more about Public Lab’s organized research activities.
 

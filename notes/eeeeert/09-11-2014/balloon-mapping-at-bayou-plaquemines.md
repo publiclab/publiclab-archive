@@ -8,11 +8,15 @@ uid: 428231
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/006/737/original/411-wetland.jpg)
+
 # Balloon Mapping at Bayou Plaquemines
 
 by [eeeeert](../profile/eeeeert) September 11, 2014 18:54
 
 September 11, 2014 18:54 | Tags: [gulf-coast](../tag/gulf-coast), [mapping](../tag/mapping), [balloon](../tag/balloon), [washustlouis](../tag/washustlouis), [washu-stlouis](../tag/washu-stlouis)
+
+----
 
 https://mapknitter.org/maps/411-wetland
 

@@ -8,11 +8,15 @@ uid: 379
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/003/928/original/IMG_1095.JPG)
+
 # West Bay River Restoration: Diversion strategy in action
 
 by [eustatic](../profile/eustatic) April 30, 2014 02:17
 
 April 30, 2014 02:17 | Tags: [gulf-coast](../tag/gulf-coast), [mississippi](../tag/mississippi), [river](../tag/river), [sediment](../tag/sediment), [passenger](../tag/passenger), [pigeon](../tag/pigeon), [passengerpigeon](../tag/passengerpigeon)
+
+----
 
 ###What I want to do
 

@@ -8,11 +8,15 @@ uid: 444468
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/011/627/original/IMG_2870.JPG)
+
 # IR Photo Reconstruction at Acacia Reservation
 
 by [dbenjamin](../profile/dbenjamin) September 18, 2015 15:30
 
 September 18, 2015 15:30 | Tags: [balloon-mapping](../tag/balloon-mapping), [kap](../tag/kap), [opendronemap](../tag/opendronemap), [saturnv](../tag/saturnv), [skyshield](../tag/skyshield)
+
+----
 
 Last week the whole office spent some time flying the helikite at Acacia. We totaled 4 flights and about 20 usable sequences. This time we took some IR photos to get an assessment of the vegetation. The weather was very good for helikite flying: low cloud cover and low wind. Here are some photosynths from a few of the flights: 
 

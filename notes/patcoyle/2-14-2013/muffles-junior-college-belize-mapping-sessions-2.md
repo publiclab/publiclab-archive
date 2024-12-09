@@ -8,11 +8,15 @@ uid: 77
 
 ---
 
+![](https://publiclab.org/sites/default/files/IMG_2416_ac_brt_0.jpg)
+
 # Muffles Junior College, Belize mapping sessions
 
 by [patcoyle](../profile/patcoyle) February 14, 2013 06:45
 
 February 14, 2013 06:45 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [belize](../tag/belize), [muffles](../tag/muffles), [belizeopensource](../tag/belizeopensource)
+
+----
 
 I had been in email and phone contact and met Rafael Castillo, the faculty advisor, and the Environmental Club at the Muffles Junior College campus near Orange Walk Town. We had two kite aerial mapping sessions together and demonstrated Mapknitter.
 

@@ -14,4 +14,6 @@ by [miramon](../profile/miramon) February 12, 2018 10:05
 
 February 12, 2018 10:05 | Tags: [question:spectral-workbench](../tag/question:spectral-workbench)
 
+----
+
 Can anyone show a comparison betweeen manufacturers spectra and one made in Spectralab with DIY spectrometer? I don´t find any LED spectrum here that seems to be right on SpectralBench!

@@ -14,6 +14,8 @@ by [bhamster](../profile/bhamster), [laurel_mire](../profile/laurel_mire)
 
 August 16, 2021 20:37 | Tags: [method](../tag/method), [environmental-data](../tag/environmental-data), [data-visualization](../tag/data-visualization), [presenting-data](../tag/presenting-data), [air-quality-data](../tag/air-quality-data)
 
+----
+
 What can we do with environmental data to understand it and communicate with it? 
 
 There are some first things we can do with data to get an idea of what’s happening, like plotting a sensor measurement against time. Then there are ways we can ultimately present environmental data so that it communicates something meaningful, spurs advocacy, and [avoids reducing real environmental harms to a data point](https://publiclab.org/notes/warren/07-01-2014/reimagining-the-data-lifecycle).  
@@ -29,7 +31,7 @@ We’re collecting resources below on kinds of environmental data and ways to pr
 
 Questions tagged with `question:presenting-data` will appear here
 
-[questions:presenting-data]
+[presenting-data](../../tag/question:presenting-data)
 
 <br>
 
@@ -37,7 +39,7 @@ Questions tagged with `question:presenting-data` will appear here
 
 Activity posts tagged with `activity:presenting-data` will appear here
 
-[notes:activity:presenting-data]
+[activity:presenting-data](../../tag/activity:presenting-data)
 
 <hr>
 
@@ -214,7 +216,7 @@ _<small>Image: Infographic about complex odors, from [this post ](https://public
 
 ## Tools for data visualization and presentation
 
-[notes:grid:data-visualization-tool]
+[grid:data-visualization-tool](../../tag/grid:data-visualization-tool)
 
 <br>
 

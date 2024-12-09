@@ -3,6 +3,8 @@ uid: 437
 created_at: 2014-05-27 18:06:12 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/4531a2f20f7b106533d18b9d2f79406d)
+
 # ronhuber
 
 Hi! My name is Ron Huber. I am  executive director of Friends of Penobscot Bay. This is the bay that separates "Downeast Maine" from "Midcoast Maine" & "Southern Maine". It is the center of Maine's lobster industry and, thanks to the removal of two dams, its Penobscot River and upper bay are regaining the runs of sturgeon, river herring, salmon and their prey and predators..  

@@ -8,11 +8,15 @@ uid: 461120
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/016/503/original/eosiny_PNG_with_serological_pump_and_tip_upload_presentation_june_6PNG.png)
+
 # Using Precision Measurements for Qualitative Analysis 
 
 by [dhaffnersr](../profile/dhaffnersr) June 06, 2016 14:05
 
 June 06, 2016 14:05 | Tags: 
+
+----
 
 I wanted to demonstrate and show how I get such precise measurements when I am preparing dilute samples with exact concentration levels for analysis.
 

@@ -14,6 +14,8 @@ by [eustatic](../profile/eustatic)
 
 October 31, 2013 23:08 | Tags: [gulf-coast](../tag/gulf-coast), [kite-mapping](../tag/kite-mapping)
 
+----
+
 This list is an outcome of our [first Mapknitters meeting ](https://docs.google.com/a/healthygulf.org/document/d/1wZlRp1VLu7FKmCHNfCfhav0tRUD3Vs_L6TfRjzfm5MY/edit)in New Orleans, for Public Lab Gulf Coast
 . 
 

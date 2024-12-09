@@ -14,6 +14,8 @@ by [cfastie](../profile/cfastie), [nedhorning](../profile/nedhorning), [warren](
 
 June 02, 2013 14:40 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [imagej](../tag/imagej), [infragram](../tag/infragram), [infrablue](../tag/infrablue), [fiji](../tag/fiji), [photo-monitoring-plugin](../tag/photo-monitoring-plugin), [parent:multispectral-imaging](../tag/parent:multispectral-imaging)
 
+----
+
 ![Screen_Shot_2013-06-02_at_10.38.41_AM.png](https://i.publiclab.org/system/images/photos/000/000/460/medium/Screen_Shot_2013-06-02_at_10.38.41_AM.png)
 
 [Ned Horning](http://publiclab.org/profile/nedhorning) (read [original announcement here](http://publiclab.org/notes/nedhorning/5-31-2012/registering-and-processing-photos-acquired-two-cameras)) has released an open source plugin for the cross-platform [ImageJ](http://rsb.info.nih.gov/ij/). It can produce [NDVI composites](/wiki/ndvi) from infrared and visible image pairs as well as single camera infrared filtered images. 

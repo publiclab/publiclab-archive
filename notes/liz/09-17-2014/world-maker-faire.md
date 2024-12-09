@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/006/844/original/Screen_Shot_2014-09-17_at_4.01.48_PM.png)
+
 # World Maker Faire 2014
 
 by [liz](../profile/liz) September 17, 2014 20:11
 
 September 17, 2014 20:11 | Tags: [new-york-city](../tag/new-york-city), [event](../tag/event), [makerfaire](../tag/makerfaire), [northeast](../tag/northeast), [event:rsvp](../tag/event:rsvp), [date:09-17-2014](../tag/date:09-17-2014), [date:09-20-2014](../tag/date:09-20-2014), [make](../tag/make)
+
+----
 
 ###Event details
 Public Lab will be exhibiting for our fourth year at World Maker Faire this weekend! New York Hall of Science--find us in Zone 5, under a tent, more details will be known by this Friday.

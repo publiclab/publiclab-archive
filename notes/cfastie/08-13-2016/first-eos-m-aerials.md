@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/017/606/original/399-434_36o44SGpsFlatCrp.jpg)
+
 # First EOS M aerials
 
 by [cfastie](../profile/cfastie) August 13, 2016 17:44
 
 August 13, 2016 17:44 | Tags: [kite-aerial-photography](../tag/kite-aerial-photography), [new-hampshire](../tag/new-hampshire), [farm](../tag/farm), [kap](../tag/kap), [autokap](../tag/autokap), [ifarm](../tag/ifarm), [kaptery](../tag/kaptery), [nh](../tag/nh), [saturnv](../tag/saturnv), [skyshield](../tag/skyshield), [response:11830](../tag/response:11830), [half-spherical](../tag/half-spherical), [littleplanet](../tag/littleplanet), [eos_m](../tag/eos_m), [2016](../tag/2016), [ifarm2016](../tag/ifarm2016), [category:verify](../tag/category:verify)
+
+----
 
 *Above: Stereographic projection of a half-spherical panorama stitched from 33 photos taken over Tuckaway Farm in New Hampshire. June 12, 2016.*
 

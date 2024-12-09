@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/023/126/original/Screen_Shot_2018-01-08_at_3.11.42_PM.png)
+
 # Hydrogen Sulfide Photopaper
 
 by [gretchengehrke](../profile/gretchengehrke), [warren](../profile/warren)
 
 January 08, 2018 20:05 | Tags: [method](../tag/method), [h2s-photopaper](../tag/h2s-photopaper), [parent:hydrogen-sulfide](../tag/parent:hydrogen-sulfide)
+
+----
 
 Silver halide photo paper tarnishes in the presence of hydrogen sulfide, creating silver sulfide. In this method, we expose photo paper to air and assess the relative amount of airborne hydrogen sulfide present. We hope to make this a quantitative method soon. 
 
@@ -48,7 +52,7 @@ This method has been developed in order to produce a hydrogen sulfide detection 
 
 ## Questions
 
-[questions:h2s-photo-paper]
+[h2s-photo-paper](../../tag/question:h2s-photo-paper)
 
 ****
 
@@ -64,7 +68,7 @@ The photopaper sensing tool is being developed to detect hydrogen sulfide in an 
 
 Designing a field-based environmental study that uses this method would follow the general principles described in: [https://publiclab.org/wiki/general-environmental-monitoring-study-strategies](https://publiclab.org/wiki/general-environmental-monitoring-study-strategies). However, since the canisters with photo paper will be exposed for one or more weeks in the field, the temporal resolution would, of course, only be on the scale of weeks, during which industrial activities and environmental conditions could change. The general principles still do apply.
 
-[activities:h2s-photo-paper]
+[h2s-photo-paper](../../tag/activity:h2s-photo-paper)
 
 ****
 

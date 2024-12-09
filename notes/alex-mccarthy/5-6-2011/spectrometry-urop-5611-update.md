@@ -8,11 +8,15 @@ uid: 125
 
 ---
 
+![](https://publiclab.org/sites/default/files/IMG_0330.JPG)
+
 # Spectrometry UROP 5/6/11 update
 
 by [Alex-McCarthy](../profile/Alex-McCarthy) May 06, 2011 21:48
 
 May 06, 2011 21:48 | Tags: [spectrometer](../tag/spectrometer), [uv](../tag/uv), [pah](../tag/pah)
+
+----
 
 Since the last time I posted, I've been trying to work out how to photograph UV spectrum, which is difficult because relative to visible light spectrum they are to faint- at least this was my theory. I literally just thought to check the transmittance spectrum of polycarbonate, which is what the CD diffraction grating is made of, and it turns out the it blocks UV light to a high degree. So that explains why my spectra never showed any significant intensity below 400 nm. Well, never the less I was able to finally photograph a UV spectrum, seen above. I guess I just got lucky- my original thought process was that using a larger slit will increase the brightness of the spectrum, making it easier to photograph. But by increasing the slit size, the spectrum spreads out, so you need a larger diffraction grating. I've had a couple sheet, about the size of notebook paper of linear diffraction grating that I never had need for before, because I wanted to try to do everything with low tech items. In any case, I built this new spectrometer:
 <img src="https://lh6.googleusercontent.com/_fnwaq7QvPD0/TcRoRBThi1I/AAAAAAAAAQ8/YQc4Eznkdwg/s640/IMG_0336.JPG" alt="spectrometer" />

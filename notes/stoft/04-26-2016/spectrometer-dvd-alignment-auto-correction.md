@@ -8,11 +8,15 @@ uid: 54025
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/015/782/original/STest_CFL-V1Proto3DSpectraY270-310.gif)
+
 # Spectrometer DVD-Alignment Auto-Correction
 
 by [stoft](../profile/stoft) April 26, 2016 08:42
 
 April 26, 2016 08:42 | Tags: [spectrometer](../tag/spectrometer), [desktop-spectrometer](../tag/desktop-spectrometer), [noise-reduction](../tag/noise-reduction), [dvd-grating](../tag/dvd-grating), [dvd-alignment](../tag/dvd-alignment)
+
+----
 
 **Abstract**
 

@@ -3,6 +3,8 @@ uid: 422489
 created_at: 2014-04-16 01:28:26 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/422489/medium/DSC04329.JPG)
+
 # ygzstc
 
 Yagiz was born in Izmir, Turkey, many many years back and received his PhD degree in electrical & computer engineering from NYU Polytechnic School of Engineering in June 2009. He founded InfoScope, a small high-tech research company in Boston in 2013 and  currently working with several private and government agencies on many topics. He is also adjunct professor at NYU Polytechnic School of Engineering.

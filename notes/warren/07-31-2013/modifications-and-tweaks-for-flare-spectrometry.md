@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/000/970/original/IMG_20130731_162948.jpg)
+
 # Modifications and tweaks for flare spectrometry
 
 by [warren](../profile/warren) July 31, 2013 13:07
 
 July 31, 2013 13:07 | Tags: [spectrometer](../tag/spectrometer), [kits](../tag/kits), [flare](../tag/flare), [distance-spectrometry](../tag/distance-spectrometry), [modifications](../tag/modifications)
+
+----
 
 Down in Chalmette, Louisiana, [folks have been using DIY spectrometers to try to detect light from refinery flares](/notes/eustatic/07-31-2013/can-we-kick-it-yes-we-can-flickering-flare-signal), and wanted to help refine the setup used to detect spectra of far-away sources like the flare they're looking at. Both Scott Eustis from [Gulf Restoration Network](http://healthygulf.org) and folks from [NASA's DEVELOP program](http://develop.larc.nasa.gov/) are involved. You can read some more about the recent work done on this technique by [looking for notes tagged "flare"](/tag/flare).
 

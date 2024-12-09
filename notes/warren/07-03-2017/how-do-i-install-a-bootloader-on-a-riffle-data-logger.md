@@ -14,6 +14,8 @@ by [warren](../profile/warren) July 03, 2017 18:11
 
 July 03, 2017 18:11 | Tags: [arduino](../tag/arduino), [riffle](../tag/riffle), [question:riffle](../tag/question:riffle), [answered](../tag/answered), [data-logging](../tag/data-logging), [question:arduino](../tag/question:arduino), [question:bootloader](../tag/question:bootloader), [bootloader](../tag/bootloader)
 
+----
+
 A freshly made [Riffle](/wiki/riffle) needs to have a bootloader installed like any Arduino-compatible microcontroller. Is burning a bootloader the [same as on a classic Arduino Uno](https://www.arduino.cc/en/Hacking/Bootloader?from=Main.Bootloader)? Or an [Arduino Nano clone](http://www.instructables.com/id/How-To-Burn-a-Bootloader-to-Clone-Arduino-Nano-30/)?
 
 I know the Riffle uses one of those cheaper CH\_\_\_ USB chips. Just wondering if that changes anything.

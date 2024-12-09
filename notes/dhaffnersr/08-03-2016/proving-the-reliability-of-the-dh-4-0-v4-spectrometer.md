@@ -8,11 +8,15 @@ uid: 461120
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/017/338/original/fluorescein.png)
+
 # Proving The Reliability Of The DH 4.0 v4 Spectrometer
 
 by [dhaffnersr](../profile/dhaffnersr) August 03, 2016 15:49
 
 August 03, 2016 15:49 | Tags: 
+
+----
 
 ##**A short tutorial on Fluorescein and is Place in the Visible Spectrum**
 

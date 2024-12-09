@@ -8,11 +8,15 @@ uid: 444638
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/016/862/original/blob)
+
 # Mystic Generator Station Thermal Fishing Bob Event with Mare Liberum
 
 by [ErikHanley11](../profile/ErikHanley11)
 
 June 11, 2016 21:13 | Tags: 
+
+----
 
 ##Please note that this research note is a work in progress with a group of contributors. Expect more content very soon.
 

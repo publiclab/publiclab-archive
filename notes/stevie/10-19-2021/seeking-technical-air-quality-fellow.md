@@ -8,11 +8,15 @@ uid: 422561
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/044/938/original/IMG_2503.JPG)
+
 # Seeking Technical Air Quality Fellow
 
 by [stevie](../profile/stevie) October 19, 2021 18:17
 
 October 19, 2021 18:17 | Tags: [air-quality](../tag/air-quality), [monitoring](../tag/monitoring), [jobs](../tag/jobs), [pm](../tag/pm), [fellows](../tag/fellows), [technical](../tag/technical), [fellowship](../tag/fellowship), [particulate-matter](../tag/particulate-matter), [purpleair](../tag/purpleair), [purple-air](../tag/purple-air), [fellowship-team](../tag/fellowship-team), [st-james](../tag/st-james), [fellowship-teams](../tag/fellowship-teams), [with:travislondon](../tag/with:travislondon), [formosaplastics](../tag/formosaplastics)
+
+----
 
 **Opening** November, ASAP
 

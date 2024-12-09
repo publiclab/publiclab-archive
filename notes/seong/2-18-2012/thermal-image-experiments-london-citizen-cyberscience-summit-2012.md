@@ -14,6 +14,8 @@ by [seong](../profile/seong) February 18, 2012 16:04
 
 February 18, 2012 16:04 | Tags: [arduino](../tag/arduino), [london](../tag/london), [thermal-flashlight](../tag/thermal-flashlight), [ucl](../tag/ucl), [uk](../tag/uk), [eu](../tag/eu)
 
+----
+
 During the London citizen cyberscience summit, there was a workshop about thermal flashlight by Shannon and Sara. 
 
 We made a great thermal sensor using an Arduido kit, a circuit board, a thermometer, a RDB LED, resistors, a capacitor, a battery, and lots of wires. I'm not good at electronics, but it just worked. 

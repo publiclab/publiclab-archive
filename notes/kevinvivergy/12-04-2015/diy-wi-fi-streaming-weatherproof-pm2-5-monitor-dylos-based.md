@@ -8,11 +8,15 @@ uid: 456612
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/013/192/original/20151204_112527.jpg)
+
 # DIY: Wi-Fi Streaming Weatherproof PM2.5 Monitor (Dylos-based)
 
 by [kevinvivergy](../profile/kevinvivergy) December 04, 2015 23:10
 
 December 04, 2015 23:10 | Tags: [particulate-sensing](../tag/particulate-sensing), [raspberry-pi](../tag/raspberry-pi), [air-quality](../tag/air-quality), [dust](../tag/dust), [particulates](../tag/particulates), [pm](../tag/pm), [particulate-monitoring](../tag/particulate-monitoring), [pm-sensing](../tag/pm-sensing), [time:5h](../tag/time:5h), [difficulty:medium](../tag/difficulty:medium), [activity:open-air](../tag/activity:open-air), [category:monitor](../tag/category:monitor), [status:complete](../tag/status:complete)
+
+----
 
 Air pollution, specifically particulate matter 2.5, can vary significantly over space and time. Although the EPA's [AirNow](https://docs.airnowapi.org/) system is good in the sense that it has highly accurate monitors and releases the data hourly to the public, I was dissatisfied with its coverage in my area, the greater Boston area. There are 5 monitors that provide data to 4.7 million people... not very granular! Furthermore, this data is pretty impersonal- these monitors are not located in publicly visible places, and simply reporting an air quality value for a massive area is not going to make it feel very real to people after considering that air pollution is not in a high enough concentration to be visible here 95% of days.
 

@@ -8,11 +8,15 @@ uid: 9
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/002/546/original/chalmette.jpg)
+
 # Public Lab Launches New Initiative to Affordably Detect Pollutants with Open Hardware Tools
 
 by [Shannon](../profile/Shannon) January 14, 2014 22:36
 
 January 14, 2014 22:36 | Tags: [gulf-coast](../tag/gulf-coast), [spectrometer](../tag/spectrometer), [press-release](../tag/press-release)
+
+----
 
 **NEWS RELEASE
 FOR IMMEDIATE RELEASE**

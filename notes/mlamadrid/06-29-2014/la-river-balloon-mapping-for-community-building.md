@@ -8,11 +8,15 @@ uid: 45586
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/005/025/original/MVI_0124_07512.jpg)
+
 # LA River: balloon mapping for community building
 
 by [mlamadrid](../profile/mlamadrid) June 29, 2014 20:30
 
 June 29, 2014 20:30 | Tags: [balloon-mapping](../tag/balloon-mapping), [los-angeles](../tag/los-angeles), [la](../tag/la), [nela](../tag/nela), [elysian-valley](../tag/elysian-valley), [community-building](../tag/community-building)
+
+----
 
 On May 24 2014, Lila Higgins, Kat Superfisky, Ken Grinde and I (Maria Lamadrid) flew a helium balloon over the Los Angeles River around the area known as Elysian Valley. This was our first attempt to motivate people and construct a high resolution map of the 51 miles of the LA River. 
 

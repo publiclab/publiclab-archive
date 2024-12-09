@@ -8,11 +8,15 @@ uid: 53164
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/006/230/original/Selection_039.png)
+
 # PhotosynQ midsummer update
 
 by [gbathree](../profile/gbathree) August 13, 2014 01:12
 
 August 13, 2014 01:12 | Tags: [science](../tag/science), [photosynthesis](../tag/photosynthesis), [photosynq](../tag/photosynq), [plant](../tag/plant), [multispeq](../tag/multispeq)
+
+----
 
 Hey Public Labbers, we've been making a lot of progress on the handheld plant health measurement tool called MultispeQ, and the overall platform for sharing, viewing, and anaylyzing the resulting data called PhotosynQ.  I just wrote a long update on how we're doing, with some details about the tools we're using and some early results.  It's too long to post here, so here's the link:
 

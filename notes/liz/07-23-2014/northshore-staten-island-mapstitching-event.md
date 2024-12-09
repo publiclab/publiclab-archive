@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/005/459/original/002.JPG)
+
 # Northshore Staten Island mapstitching event!
 
 by [liz](../profile/liz) July 23, 2014 16:03
 
 July 23, 2014 16:03 | Tags: [new-york-city](../tag/new-york-city), [event](../tag/event), [staten-island](../tag/staten-island), [event:rsvp](../tag/event:rsvp), [date:08-01-2014](../tag/date:08-01-2014), [rsvp:bronwen](../tag/rsvp:bronwen), [rsvp:liz](../tag/rsvp:liz), [rsvp:carlosst](../tag/rsvp:carlosst), [with:bronwen](../tag/with:bronwen)
+
+----
 
 _photo credit: Karen Alexander-Taylor_
 

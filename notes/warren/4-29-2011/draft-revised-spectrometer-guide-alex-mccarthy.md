@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/001/554/original/Screen_Shot_2013-09-13_at_4.54.54_PM.png)
+
 # Draft revised spectrometer guide by Alex McCarthy
 
 by [warren](../profile/warren) April 29, 2011 04:13
 
 April 29, 2011 04:13 | Tags: [spectrometer](../tag/spectrometer), [guides](../tag/guides), [guide](../tag/guide)
+
+----
 
 Alex has been working on a new guide, specifically for fluorescence spectroscopy of water samples. Check it out!
 

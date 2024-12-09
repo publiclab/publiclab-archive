@@ -3,6 +3,8 @@ uid: 96713
 created_at: 2013-05-31 16:40:28 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/96713/medium/MSGadu_Delhi.jpg)
+
 # Sreyanth
 
 <a rel="tooltip" title="Sreyanth was awarded the Basic Barnstar by liz for their work published in Stepwise procedures to guide users through testing." href="/sites/default/files/TheBarnstar.png"> <img src="/sites/default/files/TheBarnstar.png" width="80" /></a>

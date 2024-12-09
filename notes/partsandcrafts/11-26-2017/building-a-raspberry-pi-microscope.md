@@ -8,11 +8,15 @@ uid: 66014
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/022/576/original/IMG_20171125_221612.jpg)
+
 # Overview: Hackteria Remix: Building a Basic Microscope with Raspberry Pi
 
 by [partsandcrafts](../profile/partsandcrafts) November 26, 2017 22:16
 
 November 26, 2017 22:16 | Tags: [raspberry-pi](../tag/raspberry-pi), [dust](../tag/dust), [pm](../tag/pm), [barnstar:basic](../tag/barnstar:basic), [hackteria](../tag/hackteria), [with:kgradow1](../tag/with:kgradow1), [with:warren](../tag/with:warren), [microscope](../tag/microscope), [passive-particle-monitors](../tag/passive-particle-monitors), [microscopes](../tag/microscopes), [activity:microscopes](../tag/activity:microscopes), [with:wmacfarl](../tag/with:wmacfarl), [with:bmela](../tag/with:bmela), [activity:basic-microscope](../tag/activity:basic-microscope), [series:basic-microscope](../tag/series:basic-microscope)
+
+----
 
 # What is a Microscope?
 

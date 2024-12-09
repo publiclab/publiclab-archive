@@ -8,11 +8,15 @@ uid: 468990
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/015/439/original/sunlight_12_curve_only.jpg)
+
 # Camera sensor issues
 
 by [viechdokter](../profile/viechdokter) April 09, 2016 13:24
 
 April 09, 2016 13:24 | Tags: [spectrometer](../tag/spectrometer), [overexposure](../tag/overexposure), [sunlight](../tag/sunlight), [camera_sensor](../tag/camera_sensor), [channel_intensity](../tag/channel_intensity)
+
+----
 
 Yeah, I know! Many guys here do REAL scientific work, whereas I just toy around with my new spectrograph. But well...
 

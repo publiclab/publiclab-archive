@@ -8,11 +8,15 @@ uid: 379
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/007/822/original/BSJ_open_one_hour_nov_2014_LSU_sea_Grant_helicopter_video_41_5.png)
+
 # SeaGrant Helicopter photo of Urban waterway restoration in Mapknitter through GIMP
 
 by [eustatic](../profile/eustatic) November 12, 2014 20:07
 
 November 12, 2014 20:07 | Tags: [gulf-coast](../tag/gulf-coast), [new-orleans](../tag/new-orleans), [neworleans](../tag/neworleans), [bsj](../tag/bsj), [urbanwater](../tag/urbanwater), [urbanwaters](../tag/urbanwaters), [response:11336](../tag/response:11336), [helicopter](../tag/helicopter), [lpbf](../tag/lpbf)
+
+----
 
 ###What I want to do
 

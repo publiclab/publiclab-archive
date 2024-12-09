@@ -14,6 +14,8 @@ by [warren](../profile/warren) January 08, 2011 04:02
 
 January 08, 2011 04:02 | Tags: [lima](../tag/lima), [peru](../tag/peru), [kite-balloon-hybrid](../tag/kite-balloon-hybrid), [infrared](../tag/infrared), [diy-balloon](../tag/diy-balloon), [south-america](../tag/south-america)
 
+----
+
 <a href="https://www.flickr.com/photos/jeffreywarren/5331230972/" title="Roxana pilots the prototype balloon-kite by jeferonix, on Flickr"><img src="http://farm6.static.flickr.com/5250/5331230972_aa922d2aa6.jpg" width="500" height="375" alt="Roxana pilots the prototype balloon-kite" /></a>
 
 This past Wednesday, a group from the National University of Engineering and University of Ricardo Palma in Lima, Peru performed a series of experiments, testing a new aerial infrared/visible light photography system and prototyping a hybrid kite/balloon design for aerial photography.

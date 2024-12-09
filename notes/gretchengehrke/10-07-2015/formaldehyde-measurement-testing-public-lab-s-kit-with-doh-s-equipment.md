@@ -8,11 +8,15 @@ uid: 430549
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/011/850/original/Formaldehyde_Kit_Sept2015.jpeg)
+
 # Formaldehyde Measurement: testing Public Lab's kit with DOH's equipment
 
 by [gretchengehrke](../profile/gretchengehrke) October 07, 2015 16:54
 
 October 07, 2015 16:54 | Tags: [air-quality](../tag/air-quality), [blog](../tag/blog), [formaldehyde](../tag/formaldehyde), [wherewebreathe](../tag/wherewebreathe), [open-air](../tag/open-air), [with:nshapiro](../tag/with:nshapiro), [indoor-air-quality](../tag/indoor-air-quality), [colocation](../tag/colocation), [category:test-limits](../tag/category:test-limits)
+
+----
 
 ##Motivation and Background 
 

@@ -8,11 +8,15 @@ uid: 133
 
 ---
 
+![](https://publiclab.org/sites/default/files/RegPhotoFirstScreen.png)
+
 # Update on the photo monitoring plugin for ImageJ/Fiji
 
 by [nedhorning](../profile/nedhorning) November 01, 2012 16:45
 
 November 01, 2012 16:45 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [plugin](../tag/plugin), [photo-monitoring](../tag/photo-monitoring)
+
+----
 
 I recently updated the photo monitoring plugin that can be used to create NDVI and false color infrared images using a dual-camera setup that pairs a visible light camera with a near infrared (NIR) camera. This setup is being used by a number of folks in the PLOTS community. Some recent results from the plugin have been posted by PLOTS members [<a href="http://publiclaboratory.org/notes/cfastie/10-29-2012/agricultural-mapping">1</a>,<a href="http://publiclaboratory.org/notes/cfastie/10-31-2012/ndvi-output">2</a>,<a href="http://publiclaboratory.org/notes/patcoyle/11-1-2012/results-simple-aerial-photomapping-session-ewb-regional-workshop">3</a>]
 

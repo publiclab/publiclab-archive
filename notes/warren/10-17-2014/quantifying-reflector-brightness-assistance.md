@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/007/461/original/reflector.png)
+
 # Quantifying reflector brightness assistance
 
 by [warren](../profile/warren) October 17, 2014 18:03
 
 October 17, 2014 18:03 | Tags: [spectrometer](../tag/spectrometer), [reflective](../tag/reflective), [cuvette](../tag/cuvette), [clipping](../tag/clipping), [oil-testing-kit](../tag/oil-testing-kit), [exposure](../tag/exposure), [brightness](../tag/brightness), [reflector](../tag/reflector)
+
+----
 
 ###What I want to do
 

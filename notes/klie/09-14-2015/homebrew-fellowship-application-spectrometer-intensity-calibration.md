@@ -8,11 +8,15 @@ uid: 441262
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/011/566/original/Spectrometer_Intensity_Callibration.png)
+
 # Homebrew Fellowship Application:  Spectrometer Intensity Calibration 
 
 by [klie](../profile/klie) September 14, 2015 19:56
 
 September 14, 2015 19:56 | Tags: [spectrometer](../tag/spectrometer), [spectralworkbench](../tag/spectralworkbench), [fellows](../tag/fellows)
+
+----
 
 #####**Application due:** September 25, 2015
 #####**Dates of Fellowship:** mid-October 2015 to mid-January 2016

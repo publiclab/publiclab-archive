@@ -8,11 +8,15 @@ uid: 422561
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/008/173/original/20141120_202750.jpg)
+
 # The Water Hackathon Report
 
 by [stevie](../profile/stevie) December 01, 2014 23:09
 
 December 01, 2014 23:09 | Tags: [water-quality](../tag/water-quality), [water](../tag/water), [neworleans](../tag/neworleans), [riffle](../tag/riffle), [stormwater](../tag/stormwater), [gulfcoast](../tag/gulfcoast), [with:warren](../tag/with:warren), [coqui](../tag/coqui), [waterquality](../tag/waterquality), [with:donblair](../tag/with:donblair), [with:danbeavers](../tag/with:danbeavers), [with:eustatic](../tag/with:eustatic), [with:mimibell](../tag/with:mimibell), [riffle-examples](../tag/riffle-examples)
+
+----
 
 ##Reflections on the New Orleans Water Events 
 

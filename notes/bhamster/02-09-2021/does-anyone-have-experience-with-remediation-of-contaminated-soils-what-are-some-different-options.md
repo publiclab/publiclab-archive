@@ -14,6 +14,8 @@ by [bhamster](../profile/bhamster) February 09, 2021 18:27
 
 February 09, 2021 18:27 | Tags: [remediation](../tag/remediation), [heavy-metals](../tag/heavy-metals), [soil](../tag/soil), [bioremediation](../tag/bioremediation), [phytoremediation](../tag/phytoremediation), [question:soil](../tag/question:soil), [soil-contamination](../tag/soil-contamination), [mycoremediation](../tag/mycoremediation), [organic-compounds](../tag/organic-compounds), [soil-remediation](../tag/soil-remediation), [question:soil-remediation](../tag/question:soil-remediation)
 
+----
+
 I'm interested in what options there are for remediation after someone confirms that their soil is contaminated with heavy metals, hazardous organic compounds, or other pollutants.   
 
 Phytoremediation, bioremediation with microbes? Building upon this question: [Are there lists of plants and the chemicals they can remediate?](https://publiclab.org/questions/warren/06-26-2018/are-there-lists-of-plants-and-the-chemicals-they-can-remediate)

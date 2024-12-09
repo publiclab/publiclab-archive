@@ -8,11 +8,15 @@ uid: 197512
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/001/333/original/12334534.JPG)
+
 # Extremely Precise mapping
 
 by [bc512](../profile/bc512) August 30, 2013 03:01
 
 August 30, 2013 03:01 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [infrared](../tag/infrared), [vineyard](../tag/vineyard), [uav](../tag/uav), [mapping](../tag/mapping), [infrared-camera](../tag/infrared-camera), [plant-health](../tag/plant-health), [infrared-photography](../tag/infrared-photography), [quadcopter](../tag/quadcopter), [drone](../tag/drone)
+
+----
 
 hello everyone, 
 I am a viticultural Agronomist from the McLaren Vale wine region in South Australia

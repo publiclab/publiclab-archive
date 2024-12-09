@@ -8,11 +8,15 @@ uid: 504749
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/020/019/original/me.jpg)
+
 # Email Notification Overhaul
 
 by [stella](../profile/stella) April 03, 2017 06:26
 
 April 03, 2017 06:26 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [gsoc-2017](../tag/gsoc-2017), [soc](../tag/soc), [soc-2017](../tag/soc-2017), [rgsoc-2017](../tag/rgsoc-2017), [soc-2017-proposals](../tag/soc-2017-proposals), [response:13975](../tag/response:13975), [gsoc-2017-accepted](../tag/gsoc-2017-accepted), [first-time-poster](../tag/first-time-poster)
+
+----
 
 ##Personal Information
 **Name:** StellaMaris Njage

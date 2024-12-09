@@ -8,10 +8,14 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/042/416/original/IMG_20210115_100917.jpg)
+
 # Microplastics sampling in Haw River, NC
 
 by [liz](../profile/liz) January 15, 2021 15:18
 
 January 15, 2021 15:18 | Tags: [north-carolina](../tag/north-carolina), [environmental-justice](../tag/environmental-justice), [watershed](../tag/watershed), [soil-sampling](../tag/soil-sampling), [water-sampling](../tag/water-sampling), [microplastics](../tag/microplastics), [zoom:10](../tag/zoom:10), [lat:35.7](../tag/lat:35.7), [lon:-79.1](../tag/lon:-79.1), [waterkeepers](../tag/waterkeepers), [jordan-lake](../tag/jordan-lake), [waterkeepers-carolina](../tag/waterkeepers-carolina), [haw-river](../tag/haw-river)
+
+----
 
 Read more on www.HawRiver.org

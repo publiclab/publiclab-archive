@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/Screen shot 2012-05-15 at 6.08.07 PM.png)
+
 # Opening up PLOTS: thoughts on community growth and accessibility
 
 by [warren](../profile/warren) May 15, 2012 22:10
 
 May 15, 2012 22:10 | Tags: [community](../tag/community)
+
+----
 
 *I've been working on these thoughts for a while and although I haven't gotten very far with them, I thought I'd just put this out there and perhaps kick off some discussion or ideas.*
 

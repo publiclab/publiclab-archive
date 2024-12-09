@@ -8,11 +8,15 @@ uid: 589023
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/034/520/original/G0102433.jpeg)
+
 # Urban greening in Nottingham
 
 by [molangmuir10](../profile/molangmuir10)
 
 August 13, 2019 09:04 | Tags: [mapping](../tag/mapping), [uk](../tag/uk), [urban-ag](../tag/urban-ag), [eu](../tag/eu), [project](../tag/project), [nottingham](../tag/nottingham), [project:advocacy-with-maps](../tag/project:advocacy-with-maps)
+
+----
 
 The aim of this project is to develop a mapped plan for urban greening and growing in Nottingham with children and young people from the community. The work is ongoing.
 
@@ -50,20 +54,20 @@ Interested in following along in the project? Subscribe to the tag below to get 
  
 <a class="btn btn-large btn-primary" href="https://publiclab.org/subscribe/tag/urbangreeninginnottingham">Subscribe to updates on this project </a>
  
-[notes:urbangreeninginnottingham] 
+[urbangreeninginnottingham](../../tag/urbangreeninginnottingham) 
 
 ### Questions 
 
 Here's a place to list things you have questions about, or issues or **challenges you’re hoping to solve in this project**. What questions helped guide the work? Let's build out a Frequently Asked Questions area:
 
-[questions:urbangreeningnottingham]
+[urbangreeningnottingham](../../tag/question:urbangreeningnottingham)
 
 ****
 
 ### Activities we’ve done in our project
  
 
-[activities:urbangreeninginnottingham]
+[urbangreeninginnottingham](../../tag/activity:urbangreeninginnottingham)
 
 ### Data
 

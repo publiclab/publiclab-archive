@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/Picture 2_0.png)
+
 # Introduction to Spectral Workbench
 
 by [warren](../profile/warren) February 03, 2012 01:02
 
 February 03, 2012 01:02 | Tags: 
+
+----
 
 <iframe width="500" height="333" src="https://www.youtube.com/embed/_yqRZLxcecs" frameborder="0" allowfullscreen></iframe>
 

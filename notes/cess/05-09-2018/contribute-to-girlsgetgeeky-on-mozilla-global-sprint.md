@@ -8,11 +8,15 @@ uid: 525958
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/024/849/original/sprint.jpg)
+
 # Contribute to GirlsGetGeeky on Mozilla Global Sprint
 
 by [cess](../profile/cess) May 09, 2018 10:56
 
 May 09, 2018 10:56 | Tags: [open-source](../tag/open-source), [software](../tag/software), [mozilla](../tag/mozilla), [developers](../tag/developers), [code](../tag/code), [barnstar:basic](../tag/barnstar:basic), [software-outreach](../tag/software-outreach), [girls-get-geeky](../tag/girls-get-geeky)
+
+----
 
 Girls Get Geeky project will be participating on Mozilla Global sprint this year which will be held on 10th- 11th May 2018 world-wide. We are inviting contributors to our project.
 

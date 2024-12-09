@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/uv-ir-oil.png)
+
 # Excerpts on using UV and IR for oil slick identification
 
 by [warren](../profile/warren) May 25, 2011 17:01
 
 May 25, 2011 17:01 | Tags: [uv](../tag/uv), [oil](../tag/oil), [ultraviolet](../tag/ultraviolet), [water-quality](../tag/water-quality), [slick](../tag/slick)
+
+----
 
 Here's a great excerpt from "Remote Sensing: Principles and Interpretation" by Floyd Sabins -- an amazing textbook (written by a Chevron remote sensing expert, interestingly) which has informed a lot of the research I've been doing in multispectral sensing. Check out the book here: 
 

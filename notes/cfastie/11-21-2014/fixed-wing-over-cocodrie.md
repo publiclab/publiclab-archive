@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/008/053/original/Barn2014_1612.jpg)
+
 # Fixed wing over Cocodrie
 
 by [cfastie](../profile/cfastie) November 21, 2014 23:10
 
 November 21, 2014 23:10 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [image-stitching](../tag/image-stitching), [louisiana](../tag/louisiana), [barnraising](../tag/barnraising), [lumcon](../tag/lumcon), [barnraising2014](../tag/barnraising2014)
+
+----
 
 Charles Malveaux brought a very big model airplane to the Public Lab Barnraising last week, and programmed it to fly around and take infrared photos. Charles is a research engineer and graduate student at Louisiana State University studying the use of UAVs to monitor sugar cane and other crops. The UAV Charles flew was a model Piper Cub with a wingspan of about five feet. 
 .  

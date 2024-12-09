@@ -8,11 +8,15 @@ uid: 379
 
 ---
 
+![](https://publiclab.org/sites/default/files/PLOTS delineation barataria.png)
+
 # Cognitive delineation from PublicLab photography
 
 by [eustatic](../profile/eustatic) January 10, 2013 23:50
 
 January 10, 2013 23:50 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [barataria](../tag/barataria)
+
+----
 
 Here is a PNG of a delineation I did by hand, of photos taken in 2011.
 

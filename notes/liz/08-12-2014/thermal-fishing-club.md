@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/006/690/original/Gowanus-thermal-fishing-club.png)
+
 # Thermal Fishing Club
 
 by [liz](../profile/liz) August 12, 2014 16:32
 
 August 12, 2014 16:32 | Tags: [thermal-fishing](../tag/thermal-fishing), [with:warren](../tag/with:warren)
+
+----
 
 ###What I want to do
 

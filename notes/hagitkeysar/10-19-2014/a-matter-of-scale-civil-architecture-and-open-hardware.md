@@ -8,11 +8,15 @@ uid: 152
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/007/500/original/Civil_Architecture_and_OH_presentation_new_27.09_Page_01.jpg)
+
 # A Matter of Scale - Civil Architecture and Open Hardware
 
 by [hagitkeysar](../profile/hagitkeysar) October 19, 2014 09:50
 
 October 19, 2014 09:50 | Tags: [balloon-mapping](../tag/balloon-mapping), [jerusalem](../tag/jerusalem), [annotated-maps](../tag/annotated-maps), [presentations](../tag/presentations), [israel](../tag/israel), [palestine](../tag/palestine), [design](../tag/design), [presentation](../tag/presentation), [urban-design](../tag/urban-design), [urban-planning](../tag/urban-planning), [blog](../tag/blog), [annotation](../tag/annotation), [architecture](../tag/architecture), [urban-biosphere](../tag/urban-biosphere), [barnstar:photo-documentation](../tag/barnstar:photo-documentation), [civil-architecture](../tag/civil-architecture)
+
+----
 
 I am sharing here the talk + slides that [Liat Brix-Etgar](http://innovationweek.makerfairerome.eu/en/liat-brix-etgar-2/) and myself, [Hagit Keysar](http://innovationweek.makerfairerome.eu/en/hagit-keysar-2/), delivered at the Open Hardware Summit that took place in Rome, Italy, September 30 - October 1 2014.
 You can find a video documentation of the talk [here](http://vimeo.com/album/3114662/video/110336585).

@@ -8,11 +8,15 @@ uid: 431062
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/008/526/original/langley_screen.jpg)
+
 # OpenDroneMap: Open Source Toolkit for processing Civilian Drone Imagery gets orthophotos
 
 by [smathermather](../profile/smathermather) December 23, 2014 03:04
 
 December 23, 2014 03:04 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-aerial-photography](../tag/kite-aerial-photography), [drones](../tag/drones), [aerial-photography](../tag/aerial-photography), [aerial-mapping](../tag/aerial-mapping), [aerial-photos](../tag/aerial-photos), [code](../tag/code), [northeast](../tag/northeast), [uas](../tag/uas), [opendronemap](../tag/opendronemap), [suas](../tag/suas)
+
+----
 
 ##What I want to do
 

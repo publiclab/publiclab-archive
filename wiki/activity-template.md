@@ -14,6 +14,8 @@ by [warren](../profile/warren)
 
 December 06, 2017 19:31 | Tags: [template](../tag/template), [parent:templates](../tag/parent:templates)
 
+----
+
 _This is a minimal template for new activities! If you're drafting a new activity (http://publiclab.org/wiki/activities), remove this line._
 
 

@@ -3,6 +3,8 @@ uid: 53164
 created_at: 2013-06-06 02:01:21 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/c55aa625e931817457e2fdf18d22661a)
+
 # gbathree
 
 Researcher working on an open photosynthesis measurement device with large scale online collaboration and analysis.

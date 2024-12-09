@@ -8,11 +8,15 @@ uid: 60689
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/000/817/original/image.jpg)
+
 # Jeff demos salt spectra
 
 by [100ideas](../profile/100ideas) July 16, 2013 18:01
 
 July 16, 2013 18:01 | Tags: 
+
+----
 
 ##What I want to do
 

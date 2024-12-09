@@ -8,11 +8,15 @@ uid: 420719
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/009/414/original/ndvi_cap_v1_crop.jpg)
+
 # NDVI cape for the beagle bone.
 
 by [gpenzo](../profile/gpenzo) March 25, 2015 23:01
 
 March 25, 2015 23:01 | Tags: [ndvi](../tag/ndvi), [camera](../tag/camera), [barnstar:basic](../tag/barnstar:basic), [barnstar:excessive-enthusiasm](../tag/barnstar:excessive-enthusiasm), [two](../tag/two), [beaglebone](../tag/beaglebone), [black](../tag/black), [response:4471](../tag/response:4471), [response:11448](../tag/response:11448)
+
+----
 
 ###What I want to do
 This is a follow up of [Accessible Vegetation Indices](http://publiclab.org/notes/gpenzo/12-11-2014/accessible-vegetation-indices)

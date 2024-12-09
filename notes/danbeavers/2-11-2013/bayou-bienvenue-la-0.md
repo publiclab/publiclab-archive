@@ -8,11 +8,15 @@ uid: 51
 
 ---
 
+![](https://publiclab.org/sites/default/files/BB.jpg)
+
 # Bayou Bienvenue LA
 
 by [danbeavers](../profile/danbeavers) February 11, 2013 18:34
 
 February 11, 2013 18:34 | Tags: [gulf-coast](../tag/gulf-coast), [panorama](../tag/panorama), [photo](../tag/photo), [bienvenue](../tag/bienvenue)
+
+----
 
 http://gigapan.com/gigapans/123310 Panorama of Bayou Bienvenue LA that was taken during Winter Camp.  
 

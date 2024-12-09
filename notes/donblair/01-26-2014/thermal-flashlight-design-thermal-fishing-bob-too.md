@@ -8,11 +8,15 @@ uid: 43651
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/002/666/original/thermalFlashMain.png)
+
 # Thermal flashlight design (+ thermal fishing bob, too?)
 
 by [donblair](../profile/donblair) January 26, 2014 18:44
 
 January 26, 2014 18:44 | Tags: [thermal-photography](../tag/thermal-photography), [thermal-flashlight](../tag/thermal-flashlight), [water-quality](../tag/water-quality), [thermal-fishing-bob](../tag/thermal-fishing-bob), [thermal](../tag/thermal), [thermal-pollution](../tag/thermal-pollution), [heat](../tag/heat), [upgrade:thermal-flashlight](../tag/upgrade:thermal-flashlight), [upgrade:thermal-fishing-bob](../tag/upgrade:thermal-fishing-bob)
+
+----
 
 ###What I want to do
 

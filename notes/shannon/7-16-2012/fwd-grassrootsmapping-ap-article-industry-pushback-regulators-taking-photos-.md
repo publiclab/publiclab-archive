@@ -14,6 +14,8 @@ by [Shannon](../profile/Shannon) July 16, 2012 14:55
 
 July 16, 2012 14:55 | Tags: 
 
+----
+
 <br><br><div class="gmail_quote">---------- Forwarded message ----------<br>From: <b class="gmail_sendername">Scott Eustis</b> <span dir="ltr">&lt;<a href="mailto:eustatic@gmail.com">eustatic@gmail.com</a>&gt;</span><br>Date: Fri, Jul 13, 2012 at 5:37 PM<br>
 Subject: [grassrootsmapping] AP article on industry pushback on regulators taking photos of pollution from the air<br>To: <a href="mailto:grassrootsmapping@googlegroups.com">grassrootsmapping@googlegroups.com</a><br><br><br>
 Industry does not want people watching.<br>

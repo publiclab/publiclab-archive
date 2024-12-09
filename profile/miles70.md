@@ -3,6 +3,8 @@ uid: 693225
 created_at: 2020-05-13 22:57:30 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/693225/medium/Untitled-1.jpg)
+
 # miles70
 
 The love affair with Art and Design started when I was taking A-levels; studying and being classically trained whilst further developing my skills, and taking me into higher education.

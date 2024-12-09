@@ -8,11 +8,15 @@ uid: 424538
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/005/333/original/Screen_Shot_2014-07-15_at_1.24.01_PM.png)
+
 # Live Infragram
 
 by [lucenk](../profile/lucenk) July 15, 2014 18:45
 
 July 15, 2014 18:45 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [infragram](../tag/infragram), [maxmsp](../tag/maxmsp)
+
+----
 
 I want to be able to tap into a video feed of NRG images being processed live in real time.
 

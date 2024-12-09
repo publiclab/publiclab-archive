@@ -14,6 +14,8 @@ by [warren](../profile/warren)
 
 April 10, 2014 20:32 | Tags: 
 
+----
+
 HSV example: H: `.5-(R-B/B+R)/2`, S: 1, V: 1
 
 In the above example, the .5 value is the additive, and the multiplicative is the "/2", which doesn't change. I only varied the additive by 0.1, which just shifts the scale around the color wheel. 

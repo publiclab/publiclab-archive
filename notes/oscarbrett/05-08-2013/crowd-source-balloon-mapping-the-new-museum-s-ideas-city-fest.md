@@ -8,11 +8,15 @@ uid: 409
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/000/178/original/cover.jpg)
+
 # Crowd-Source Balloon Mapping @ The New Museum's "IDEAS CITY" Fest
 
 by [oscarbrett](../profile/oscarbrett) May 08, 2013 14:48
 
 May 08, 2013 14:48 | Tags: [new-york-city](../tag/new-york-city), [balloon-mapping](../tag/balloon-mapping), [new-museum](../tag/new-museum)
+
+----
 
 **The New Museums** [IDEAS CITY street festival](http://www.newmuseum.org/ideascity) showcased local pickles, musical fruit and some pretty designy sculpture stuff. all together it was a pretty cool festival. PLOTS definitely took the cake with its crowdsource balloon construction and aerial photography. 
 

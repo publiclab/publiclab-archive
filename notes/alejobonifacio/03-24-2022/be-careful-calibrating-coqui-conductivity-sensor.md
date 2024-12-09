@@ -8,11 +8,15 @@ uid: 639376
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/045/563/original/DistbetpeaksVsConc.png)
+
 # Be careful calibrating Coqui conductivity sensor
 
 by [alejobonifacio](../profile/alejobonifacio) March 24, 2022 19:24
 
 March 24, 2022 19:24 | Tags: [calibration](../tag/calibration), [water-quality](../tag/water-quality), [water](../tag/water), [conductivity](../tag/conductivity), [coqui](../tag/coqui), [zoom:9](../tag/zoom:9), [lon:-64](../tag/lon:-64), [lat:-31](../tag/lat:-31), [research-curation-fellows](../tag/research-curation-fellows)
+
+----
 
 #Intro
 

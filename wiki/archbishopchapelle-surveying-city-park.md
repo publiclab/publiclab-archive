@@ -8,11 +8,15 @@ uid: 742582
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/043/795/original/IMG-8474.jpg)
+
 # archbishopchapelle surveying city park
 
 by [jmerrill](../profile/jmerrill)
 
 May 14, 2021 02:38 | Tags: [location:blurred](../tag/location:blurred), [place:united-states](../tag/place:united-states), [lat:30](../tag/lat:30), [lon:-90](../tag/lon:-90), [zoom:6](../tag/zoom:6)
+
+----
 
 Students gathered on Scout Island to use the Babylegs aquatic trawl to look for microplastics in the area.  
 Questions asked:

@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/005/680/original/comparisons.jpg)
+
 # Equalizing area of spectral graphs for comparison
 
 by [warren](../profile/warren) July 30, 2014 22:58
 
 July 30, 2014 22:58 | Tags: [spectrometer](../tag/spectrometer), [fluorescence](../tag/fluorescence), [spectral-workbench](../tag/spectral-workbench), [spectral-workbench-api](../tag/spectral-workbench-api), [macros](../tag/macros), [normalizing](../tag/normalizing), [equalizing](../tag/equalizing), [equal-area](../tag/equal-area)
+
+----
 
 ###What I want to do
 

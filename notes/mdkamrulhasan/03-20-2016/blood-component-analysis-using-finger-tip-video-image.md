@@ -14,6 +14,8 @@ by [mdkamrulhasan](../profile/mdkamrulhasan) March 20, 2016 02:03
 
 March 20, 2016 02:03 | Tags: 
 
+----
+
 Goal: Non invasive way Blood component analysis using Finger Tip video image by smart phone
 
 I am planing to use spectrometer and will try to analyze the spectrum 

@@ -8,11 +8,15 @@ uid: 77
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/003/418/original/Knitter_ss_w_annotation.jpg)
+
 # Example: using free SFM tools for calculation of volume of earth mound on construction site 
 
 by [patcoyle](../profile/patcoyle) March 27, 2014 21:33
 
 March 27, 2014 21:33 | Tags: [kap](../tag/kap), [sfm](../tag/sfm), [structure-from-motion](../tag/structure-from-motion), [measurement](../tag/measurement), [response:9977](../tag/response:9977), [autostitch](../tag/autostitch), [3dmodeling](../tag/3dmodeling), [volume](../tag/volume), [response:10159](../tag/response:10159)
+
+----
 
 <a href="https://i.publiclab.org/system/images/photos/000/003/426/original/KAP_const_near_BART_mesh_v2.xlsx"><i class="icon icon-file"></i> KAP_const_near_BART_mesh_v2.xlsx</a>
 

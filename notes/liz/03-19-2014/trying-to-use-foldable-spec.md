@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/003/342/original/IMG_3292.JPG)
+
 # trying to use foldable spec
 
 by [liz](../profile/liz) March 19, 2014 22:59
 
 March 19, 2014 22:59 | Tags: 
+
+----
 
 ###What I want to do
 

@@ -8,11 +8,15 @@ uid: 4
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/010/045/original/IMG_20150527_221022.jpg)
+
 # Formaldehyde Testing Kit for Lending 
 
 by [mathew](../profile/mathew) May 28, 2015 06:00
 
 May 28, 2015 06:00 | Tags: [air-quality](../tag/air-quality), [formaldehyde](../tag/formaldehyde), [open-air](../tag/open-air), [openair](../tag/openair), [lending-library](../tag/lending-library), [indoor-air-quality](../tag/indoor-air-quality), [library](../tag/library), [replication:11317](../tag/replication:11317)
+
+----
 
 ###What I Want to Do
 Building on a conversation that @NShapiro, @Warren, and @DanBeavers and I have been having in Nick's note on his [DIY Formaldehyde testing kit](/notes/nshapiro/11-03-2014/diy-formaldehyde-test-kit) and our desire to lower the barriers to testing by mailing around air pumps in our [lending library](/wiki/lending-library). 

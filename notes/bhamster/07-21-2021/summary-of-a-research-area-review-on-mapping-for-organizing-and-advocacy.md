@@ -8,11 +8,15 @@ uid: 664477
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/044/452/original/thumbnail.png)
+
 # Summary of a research area review on mapping for organizing and advocacy
 
 by [bhamster](../profile/bhamster) July 21, 2021 23:00
 
 July 21, 2021 23:00 | Tags: [aerial-photography](../tag/aerial-photography), [mapping](../tag/mapping), [organizing](../tag/organizing), [with:liz](../tag/with:liz), [advocacy](../tag/advocacy), [reviews](../tag/reviews), [research-area-review](../tag/research-area-review), [advocacy-with-maps](../tag/advocacy-with-maps), [pin:organizing](../tag/pin:organizing)
+
+----
 
 We've wrapped up our latest collaborative [research area review on mapping for community organizing and advocacy](https://publiclab.org/notes/bhamster/04-27-2021/research-area-review-on-mapping-for-organizing-and-advocacy "https://publiclab.org/notes/bhamster/04-27-2021/research-area-review-on-mapping-for-organizing-and-advocacy")!
 

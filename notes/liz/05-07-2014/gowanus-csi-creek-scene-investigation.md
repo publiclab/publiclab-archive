@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/004/099/original/2014_Gowanus_CSI_Unit_Cold_Cases_The_Creek_Scene_Investigation_Clue_Kit.jpg)
+
 # Gowanus CSI: Creek Scene Investigation
 
 by [liz](../profile/liz) May 07, 2014 13:49
 
 May 07, 2014 13:49 | Tags: [new-york-city](../tag/new-york-city), [gowanus](../tag/gowanus), [prospect-park](../tag/prospect-park), [spring](../tag/spring), [gowanus-csi](../tag/gowanus-csi), [with:eymund](../tag/with:eymund)
+
+----
 
 **This note is posted on behalf of [Eymund](profile/eymund):**
 

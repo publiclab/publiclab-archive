@@ -8,11 +8,15 @@ uid: 495038
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/023/606/original/0x03rev5_front_w_comp-1-625x205.jpg)
+
 # List of electronic nose projects
 
 by [imvec](../profile/imvec) February 18, 2018 17:05
 
 February 18, 2018 17:05 | Tags: [air-quality](../tag/air-quality), [odor](../tag/odor), [smell](../tag/smell), [smell-detection](../tag/smell-detection), [odor-logging](../tag/odor-logging), [activity:odor-logging](../tag/activity:odor-logging)
+
+----
 
 ###What we want to do
 To create a list of electronic nose projects.

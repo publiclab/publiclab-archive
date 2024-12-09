@@ -8,11 +8,15 @@ uid: 77
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/003/961/original/Sagus_MA_model_views00.png)
+
 # Another example: using free SFM tools to model Saugus Inc. Ash Landfill
 
 by [patcoyle](../profile/patcoyle) May 01, 2014 22:17
 
 May 01, 2014 22:17 | Tags: [kite-mapping](../tag/kite-mapping), [boston](../tag/boston), [saugus](../tag/saugus), [landfill](../tag/landfill), [sfm](../tag/sfm), [structure-from-motion](../tag/structure-from-motion), [waste](../tag/waste), [basurama](../tag/basurama), [response:9977](../tag/response:9977), [northeast](../tag/northeast), [volume](../tag/volume), [midwest](../tag/midwest), [response:10159](../tag/response:10159)
+
+----
 
 ###What I want to do
 Continue to explore use of  free Surface From Motion (SFM) tools for autostitching aerial images, making scaled measurements and area and volume calculations. It builds on [initial observations](http://publiclab.org/notes/patcoyle/03-16-2014/initial-observations-free-sfm-tools-for-scaled-measurements-and-volume-calculations) and [followup observations](http://publiclab.org/notes/patcoyle/03-27-2014/example-using-free-sfm-tools-for-calculation-of-volume-of-earth-mound-on-construction-site), [more followup](http://publiclab.org/notes/patcoyle/04-07-2014/using-free-sfm-tools-for-automatic-volume-calculation), and came up in context of a recent note, [Estimating Volume and Weight of Petroleum Waste Piles in Southeast Chicago.](http://publiclab.org/notes/Holden/03-11-2014/estimating-volume-and-weight-of-petroleum-waste-piles-in-southeast-chicago)

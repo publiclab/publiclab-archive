@@ -8,11 +8,15 @@ uid: 43651
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/003/836/original/meter-stick-reva-osh-front.png)
+
 # Meter Stick REVA: Lights, Buzzers, Particulate Matter ... oh, my!
 
 by [donblair](../profile/donblair) April 23, 2014 23:27
 
 April 23, 2014 23:27 | Tags: [particulate-sensing](../tag/particulate-sensing), [barnstar:basic](../tag/barnstar:basic)
+
+----
 
 ###What I want to do
 

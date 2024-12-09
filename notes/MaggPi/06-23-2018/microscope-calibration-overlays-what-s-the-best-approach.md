@@ -8,11 +8,15 @@ uid: 501996
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/025/306/original/Slide3.JPG)
+
 # Microscope calibration overlays… What’s the best approach?
 
 by [MaggPi](../profile/MaggPi) June 23, 2018 18:35
 
 June 23, 2018 18:35 | Tags: [calibration](../tag/calibration), [raspberry-pi](../tag/raspberry-pi), [microscope](../tag/microscope), [opencv](../tag/opencv), [activity:microscope](../tag/activity:microscope), [gsoc-2018](../tag/gsoc-2018), [activity:community-microscope](../tag/activity:community-microscope), [community-microscope](../tag/community-microscope), [microscope-calibration](../tag/microscope-calibration), [community-microscope-prototyping](../tag/community-microscope-prototyping), [activity:community-microscope-usage](../tag/activity:community-microscope-usage), [activity:microscope-calibration](../tag/activity:microscope-calibration), [overlay](../tag/overlay)
+
+----
 
 Research question
 

@@ -8,11 +8,15 @@ uid: 577485
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/030/782/original/image.png)
+
 # GSoC Proposal: Mapknitter Rails 6 upgrade
 
 by [kaustubh_nair](../profile/kaustubh_nair) March 26, 2019 20:28
 
 March 26, 2019 20:28 | Tags: [mapknitter](../tag/mapknitter), [gsoc](../tag/gsoc), [soc](../tag/soc), [first-time-poster](../tag/first-time-poster), [gsoc-2019](../tag/gsoc-2019), [soc-2019](../tag/soc-2019), [soc-2019-proposals](../tag/soc-2019-proposals), [soc-2019-projects](../tag/soc-2019-projects)
+
+----
 
 ### About me
 

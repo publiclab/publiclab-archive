@@ -14,6 +14,8 @@ by [rexagod](../profile/rexagod) June 22, 2019 21:03
 
 June 22, 2019 21:03 | Tags: [gsoc](../tag/gsoc), [progress](../tag/progress), [soc](../tag/soc), [gsoc-2019](../tag/gsoc-2019), [soc-2019](../tag/soc-2019)
 
+----
+
 # Public Lab: 1st & 2nd Week
 
 > From refactoring an 7-year-old library, to embedding node support into it, while optimizing it for browser, the first two weeks started off as one of the most interesting but crucial stages of my timeline, and yet somehow, we made it work.

@@ -8,11 +8,15 @@ uid: 379
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/002/937/original/b_IMG_2877_BL1.JPG)
+
 # Barataria 2014:  II February 16th
 
 by [eustatic](../profile/eustatic) February 17, 2014 06:01
 
 February 17, 2014 06:01 | Tags: [gulf-coast](../tag/gulf-coast), [balloon-mapping](../tag/balloon-mapping), [barataria-bay](../tag/barataria-bay), [wetlands](../tag/wetlands), [louisiana](../tag/louisiana), [wetland](../tag/wetland), [barataria](../tag/barataria), [bp](../tag/bp), [patagonia](../tag/patagonia)
+
+----
 
 ###What I want to do
 

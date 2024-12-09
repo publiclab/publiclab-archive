@@ -8,11 +8,15 @@ uid: 444468
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/011/476/original/flux-setup.exe)
+
 # Photo Reconstruction from KAP at Acacia Reservation
 
 by [dbenjamin](../profile/dbenjamin) September 04, 2015 14:07
 
 September 04, 2015 14:07 | Tags: [kite-aerial-photography](../tag/kite-aerial-photography), [kap](../tag/kap), [autokap](../tag/autokap), [kaptery](../tag/kaptery), [saturnv](../tag/saturnv), [skyshield](../tag/skyshield), [point-cloud](../tag/point-cloud)
+
+----
 
 ###What I want to do
 We decided to check out [Acacia Reservation](http://maps.clevelandmetroparks.com/url/Nrg), which was an old golf course that has been allowed to grow freely for the past year. We also wanted to test our new helikite using the Saturn V aerial rig. 

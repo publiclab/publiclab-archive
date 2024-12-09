@@ -14,6 +14,8 @@ by [crispinpierce](../profile/crispinpierce) July 30, 2021 17:23
 
 July 30, 2021 17:23 | Tags: [anemometer](../tag/anemometer), [air-quality](../tag/air-quality), [wind](../tag/wind), [frac-sand](../tag/frac-sand), [pm](../tag/pm), [weather](../tag/weather), [question:air-quality](../tag/question:air-quality), [question:general](../tag/question:general), [general](../tag/general), [particulate-matter](../tag/particulate-matter), [question:weather](../tag/question:weather), [question:air-sensors](../tag/question:air-sensors), [air-sensors](../tag/air-sensors), [purpleair](../tag/purpleair), [pm2.5](../tag/pm2.5), [purple-air](../tag/purple-air), [first-time-poster](../tag/first-time-poster), [question:purple-air](../tag/question:purple-air)
 
+----
+
 I'd be very interested in getting input from Public Lab contributors on linking an anemometer with a Purple Air monitor to categorize particulate pollution levels with wind speed and direction. One outcome of such a pairing could be a "pollution rose" that could attribute (or disprove) an association between a particular emission source (e.g., frac sand plant) and community exposure.
 
   

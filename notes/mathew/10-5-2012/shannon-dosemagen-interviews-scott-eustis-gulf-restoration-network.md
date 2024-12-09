@@ -8,11 +8,15 @@ uid: 4
 
 ---
 
+![](https://publiclab.org/sites/default/files/2614510826_2c83e754f2_b_0.jpg)
+
 # Shannon Dosemagen Interviews Scott Eustis of Gulf Restoration Network 
 
 by [mathew](../profile/mathew) October 05, 2012 04:19
 
 October 05, 2012 04:19 | Tags: [wetlands](../tag/wetlands), [gulf-restoration-network](../tag/gulf-restoration-network), [chandeleur-islands](../tag/chandeleur-islands), [restoration](../tag/restoration), [interview](../tag/interview)
+
+----
 
 This interview is from the summer issue of [Grassroots Mapping Forum](/forum), our quarterly print publication. [Subscribe here.](http://breadpig.com/products/grassroots-mapping-forum-subscription)
 

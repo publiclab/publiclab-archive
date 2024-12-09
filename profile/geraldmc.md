@@ -3,6 +3,8 @@ uid: 421225
 created_at: 2014-03-05 20:14:08 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/421225/medium/geraldmc.jpg)
+
 # geraldmc
 
 data geek, coder, nerd

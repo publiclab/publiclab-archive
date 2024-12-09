@@ -8,11 +8,15 @@ uid: 540243
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/028/317/original/Screen_Shot_2018-12-10_at_11.59.00_AM.png)
+
 # The Lead (Pb) Data Initiative
 
 by [read_holman](../profile/read_holman), [liz](../profile/liz)
 
 August 15, 2018 20:23 | Tags: [water-quality](../tag/water-quality), [lead](../tag/lead), [overview](../tag/overview), [how](../tag/how), [background](../tag/background), [lead-testing](../tag/lead-testing), [parent:lead](../tag/parent:lead), [initiative](../tag/initiative), [enter:](../tag/enter:)
+
+----
 
 _This space provides an overview of The Lead (Pb) Data Initiative, an effort being led by [@read_holman](https://publiclab.org/profile/read_holman) but hopefully with the help of many others (including you?)._
 

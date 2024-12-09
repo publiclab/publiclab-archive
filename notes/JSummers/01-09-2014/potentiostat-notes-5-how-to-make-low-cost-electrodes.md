@@ -8,11 +8,15 @@ uid: 304279
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/002/501/original/DSCN0502.JPG)
+
 # Potentiostat Notes 5:  How to make low cost electrodes.
 
 by [JSummers](../profile/JSummers) January 09, 2014 17:24
 
 January 09, 2014 17:24 | Tags: [water-quality](../tag/water-quality), [potentiostat](../tag/potentiostat), [cheapstat](../tag/cheapstat), [tool](../tag/tool), [wheestat](../tag/wheestat), [activity:potentiostat](../tag/activity:potentiostat), [electrodes](../tag/electrodes), [potentiometry](../tag/potentiometry), [pin:wheestat](../tag/pin:wheestat)
+
+----
 
 ###What I want to do
 This note reviews some basics about electrodes and discusses how you can make your own at low cost.  The electrodes are for use in electrochemistry and are intended to be used with a [potentiostat](http://publiclab.org/wiki/potentiostat).

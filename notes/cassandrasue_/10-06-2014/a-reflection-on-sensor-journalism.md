@@ -14,6 +14,8 @@ by [cassandrasue_](../profile/cassandrasue_) October 06, 2014 17:22
 
 October 06, 2014 17:22 | Tags: [sensor-journalism](../tag/sensor-journalism)
 
+----
+
 Clashing journalism with science to form sensor journalism is a new uprising experience for journalists to create their work based on collecting data from sensors and using that information to tell a story. 
 
 Sensors appear in our day to day life. Examples of these are motion sensors, thermometers, heart rate monitors, security cameras and many more. The point of journalists is to allow these sensors to do their jobs and then give them a purpose. In collecting data from sensors and then giving that data a meaning, we as journalists can produce vital and helpful information to the public and use it to make changes in the world we live in today. Sensors can help us collect information such as air quality, oil spills, pollution, drought, deforestation, public health and water quality. 

@@ -8,11 +8,15 @@ uid: 160
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/009/400/original/foto-aerea-madrid-plaza-cebada.jpg)
+
 #  Talleres de Fotografía de bajo coste desde el aire en Madrid
 
 by [pablo](../profile/pablo) March 24, 2015 11:49
 
 March 24, 2015 11:49 | Tags: [balloon-mapping](../tag/balloon-mapping), [spain](../tag/spain), [workshop](../tag/workshop), [madrid](../tag/madrid), [event](../tag/event), [lang:es](../tag/lang:es), [replication:14022](../tag/replication:14022)
+
+----
 
 **Fotografía de bajo coste desde el aire** es un proyecto educativo que para enseñar técnicas de documentación del territorio mediante fotografías aérea de bajo coste con globos y cometas organizado por [Basurama](http://basurama.org). Se usarán [herramientas y técnicas desarrolladas de _hardware_ y _software_](http://publiclab.org/wiki/balloon-mapping) por la comunidad de Public Laboratory.
 

@@ -14,6 +14,8 @@ by [dgidon](../profile/dgidon) February 22, 2018 04:39
 
 February 22, 2018 04:39 | Tags: [question:spectrometer](../tag/question:spectrometer)
 
+----
+
 Hello,
 
 I'm trying to get some 1D resolution on the optical emission of a plasma jet. Is there any reason why I cannot make multiple parallel slits to get some spatial resolution? Looking at the images it seems to me that the broadening is small enough that it may be possible to visualize multiple points at once. Any thoughts?

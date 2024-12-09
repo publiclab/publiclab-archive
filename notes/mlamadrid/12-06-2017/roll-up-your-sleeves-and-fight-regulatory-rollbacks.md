@@ -8,11 +8,15 @@ uid: 45586
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/022/813/original/Stitched_image.jpg)
+
 # Roll up your sleeves and fight regulatory rollbacks
 
 by [mlamadrid](../profile/mlamadrid) December 06, 2017 00:03
 
 December 06, 2017 00:03 | Tags: [governance](../tag/governance)
+
+----
 
 Article by Stacy Shelton for [Community Science Forum: Changing Environmental Governance Landscape](https://publiclab.org/forum)
 

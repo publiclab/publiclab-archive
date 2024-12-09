@@ -8,11 +8,15 @@ uid: 425909
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/006/138/original/IMAG0001.JPG)
+
 # Single camera NDVI solution
 
 by [theowallis](../profile/theowallis) August 08, 2014 16:50
 
 August 08, 2014 16:50 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [nir](../tag/nir), [vegetation](../tag/vegetation), [infrablue](../tag/infrablue), [mobius-actioncam](../tag/mobius-actioncam), [ir-block](../tag/ir-block)
+
+----
 
 ###What I want to do
 

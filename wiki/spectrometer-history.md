@@ -14,6 +14,8 @@ by [mathew](../profile/mathew)
 
 July 15, 2014 00:24 | Tags: [spectrometer](../tag/spectrometer), [parent:spectrometry](../tag/parent:spectrometry)
 
+----
+
 Here is a history of public lab spectrometer research ideas up to the present.  There is really no analysis here, just a catalog. 
 
 ###Theory

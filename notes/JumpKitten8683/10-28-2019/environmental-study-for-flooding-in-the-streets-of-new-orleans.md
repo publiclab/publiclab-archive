@@ -8,11 +8,15 @@ uid: 620730
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/036/060/original/its_flooding.jpg)
+
 # Environmental Study for flooding in the streets of New Orleans
 
 by [JumpKitten8683](../profile/JumpKitten8683) October 28, 2019 19:51
 
 October 28, 2019 19:51 | Tags: [new-orleans](../tag/new-orleans), [flood](../tag/flood), [stormwater](../tag/stormwater), [no](../tag/no), [flooding](../tag/flooding), [issue-brief](../tag/issue-brief), [storm-drain](../tag/storm-drain), [lon:10.019531](../tag/lon:10.019531), [catch-basin](../tag/catch-basin), [stopping](../tag/stopping), [lat:0.96675](../tag/lat:0.96675)
+
+----
 
 Problem/Observation:   
 

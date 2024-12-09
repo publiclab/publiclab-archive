@@ -8,11 +8,15 @@ uid: 419999
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/002/435/original/marsh.jpg)
+
 # Barataria Unit Tarpaper Canal (NW) Monitoring   [18 Dec 2013]
 
 by [mseibert](../profile/mseibert) December 20, 2013 00:28
 
 December 20, 2013 00:28 | Tags: [gulf-coast](../tag/gulf-coast), [balloon-mapping](../tag/balloon-mapping), [wetlands](../tag/wetlands), [marsh](../tag/marsh), [dredgefestla](../tag/dredgefestla), [dredgefest](../tag/dredgefest), [lat:29.811636](../tag/lat:29.811636), [lon:-90.141294](../tag/lon:-90.141294), [place:jean-lafitte-national-park](../tag/place:jean-lafitte-national-park)
+
+----
 
 ###What I want to do
 Document change over time in the restoration work of an oil/gas canal in Jean Lafitte National Park. The canal had its spoil banks back filled in attempt to promote increased marsh vegetation and aquatic habitat.

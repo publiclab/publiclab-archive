@@ -8,11 +8,15 @@ uid: 460246
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/017/611/original/IMG_0554.JPG)
+
 # Plant Health NDVI -White Balance
 
 by [Claytonb](../profile/Claytonb) August 13, 2016 22:44
 
 August 13, 2016 22:44 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [agriculture](../tag/agriculture), [filter](../tag/filter), [white-balance](../tag/white-balance), [infragram](../tag/infragram), [led](../tag/led), [ccd](../tag/ccd), [canon](../tag/canon), [bg3](../tag/bg3), [wratten25a](../tag/wratten25a), [super-red](../tag/super-red), [barnstar:basic](../tag/barnstar:basic), [red](../tag/red), [grapes](../tag/grapes), [activity:crop-analysis](../tag/activity:crop-analysis), [multispectral-imaging](../tag/multispectral-imaging), [activity:filter-swapping](../tag/activity:filter-swapping), [infragram-white-balance](../tag/infragram-white-balance), [apples](../tag/apples)
+
+----
 
 I have been experimenting with numerous different types of material to set a custom white balance with the Canon S100 fitted with the MidOpt 660/850 red filter. I wanted to see if I could get the NDVI values close to the correct range with jpeg images without calibrating with a calibration target. All the materials I had used have produced NDVI values that are lower than the actual value that I get with the Greenseeker crop sensor. I had been setting the white balance at solar noon in the sun or in the shade with many different materials and was not satisfied.
 

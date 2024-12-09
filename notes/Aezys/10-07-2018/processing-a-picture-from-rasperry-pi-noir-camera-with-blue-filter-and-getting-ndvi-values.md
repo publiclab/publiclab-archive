@@ -14,6 +14,8 @@ by [Aezys](../profile/Aezys) October 07, 2018 15:32
 
 October 07, 2018 15:32 | Tags: [ndvi](../tag/ndvi), [infragram](../tag/infragram), [question:raspberry-pi](../tag/question:raspberry-pi)
 
+----
+
 Hi everyone, I would like to know how to get the NDVI image from a 
 picture taken by the Rasperry Pi NoIR camera with a blue filter. I tried
 using Infragram.   

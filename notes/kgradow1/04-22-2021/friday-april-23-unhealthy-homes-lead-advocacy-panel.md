@@ -14,6 +14,8 @@ by [kgradow1](../profile/kgradow1) April 22, 2021 21:10
 
 April 22, 2021 21:10 | Tags: [air-quality](../tag/air-quality), [rhode-island](../tag/rhode-island), [children](../tag/children), [water-quality](../tag/water-quality), [lead](../tag/lead), [soil-quality](../tag/soil-quality), [lon:-71](../tag/lon:-71), [lat:42](../tag/lat:42), [paints](../tag/paints), [zoom:6](../tag/zoom:6), [lead-poisoning](../tag/lead-poisoning)
 
+----
+
 [![clap_lead_(1).jpg](https://publiclab.org/i/43219)](https://publiclab.org/i/43219?s=o)
 
 ## Event details

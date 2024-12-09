@@ -3,6 +3,8 @@ uid: 713068
 created_at: 2020-08-09 17:58:00 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/713068/medium/IMG-20200731-WA0000.jpg)
+
 # Ldei
 
 Professor and trekker.

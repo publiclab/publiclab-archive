@@ -14,6 +14,8 @@ by [warren](../profile/warren)
 
 October 02, 2012 00:36 | Tags: 
 
+----
+
 ###Liz###
 * Accomplishments workshop w/ 35 people, edit in OSM through MapKnitter, last iLab event, Nov start date for Cypress Hills- Joe/Leif- split sessions between them (need to talk more about Leif’s role), EcoHack planning- overlap w/ EcoHack and FarmHack
 * Goals: Upcoming events this week at OHS/Parsons- 3 ½ day workshops. doing MOU on Cypress Hills EPA project. Ordering helium for OHS and for Parsons this week (need to get sponsorship). Continued EcoHackNYC outreach to microbiologists and air sampling experts. TIMESHEETS

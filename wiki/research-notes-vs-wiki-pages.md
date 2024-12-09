@@ -14,6 +14,8 @@ by [warren](../profile/warren)
 
 May 14, 2012 18:52 | Tags: [help](../tag/help)
 
+----
+
 A common question:
 
 ###"I want to contribute to Public Lab -- should I post a research note or a wiki page?"###

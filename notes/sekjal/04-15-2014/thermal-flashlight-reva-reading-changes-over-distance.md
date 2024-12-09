@@ -8,11 +8,15 @@ uid: 422460
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/003/671/original/Screenshot_from_2014-04-14_21_01_08.png)
+
 # Thermal Flashlight REVA reading changes over distance
 
 by [sekjal](../profile/sekjal) April 15, 2014 01:13
 
 April 15, 2014 01:13 | Tags: [thermal-photography](../tag/thermal-photography), [arduino](../tag/arduino), [thermal-flashlight](../tag/thermal-flashlight), [thermal-fishing](../tag/thermal-fishing), [thermal-fishing-bob](../tag/thermal-fishing-bob), [pcb](../tag/pcb), [response:10094](../tag/response:10094)
+
+----
 
 ###What I want to do
 

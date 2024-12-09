@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/002/569/original/Screen_Shot_2014-01-16_at_4.22.17_PM.png)
+
 # Reagent-based PAH, VOH, PCB testing kits for soil and water, with pricing
 
 by [warren](../profile/warren) January 16, 2014 21:23
 
 January 16, 2014 21:23 | Tags: [spectrometer](../tag/spectrometer), [field-testing](../tag/field-testing), [soil](../tag/soil), [testing](../tag/testing), [water](../tag/water), [pah](../tag/pah), [reagents](../tag/reagents), [voh](../tag/voh), [pcb](../tag/pcb), [colorimetry](../tag/colorimetry), [screen-soil](../tag/screen-soil)
+
+----
 
 We need established tests to compare our own tests to, even if the established tests are expensive. The new EPA Region 2 Citizen Science page [links to some interesting material on field test kits](http://clu-in.org/characterization/technologies/color.cfm) which use reagents -- that is, you eye-drop a bit of a reactive chemical into a sample container and usually look for a color change:
 

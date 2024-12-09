@@ -14,6 +14,8 @@ by [dippind](../profile/dippind), [jmsaavedra](../profile/jmsaavedra)
 
 April 09, 2014 14:46 | Tags: [nasa](../tag/nasa), [epa](../tag/epa), [space-apps-challenge](../tag/space-apps-challenge)
 
+----
+
 **NASA Space Apps Challenge**
 
 The [NASA Space Apps Challege 2014](https://2014.spaceappschallenge.org) is running globally in almost [100 cities around the world](https://2014.spaceappschallenge.org/location/), April 12-13.  The challenges this year are in one of five themes: Earth Watch, Technology in Space, Human Spaceflight, Robotics and Asteroids.  Super excited to announce that Public Lab is working with the EPA on the Earth Watch Challenge: [Cool It](https://2014.spaceappschallenge.org/challenge/cool-it/)!

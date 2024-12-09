@@ -8,11 +8,15 @@ uid: 9
 
 ---
 
+![](https://publiclab.org/sites/default/files/escavenger_cef08a60dc.jpg)
+
 # Portable Energy Scavenging Kit
 
 by [donblair](../profile/donblair), [Shannon](../profile/Shannon)
 
 December 07, 2012 16:23 | Tags: [portable-energy-scavenging-kit](../tag/portable-energy-scavenging-kit), [energy](../tag/energy), [tool](../tag/tool), [solar](../tag/solar), [electrochemical-sensor](../tag/electrochemical-sensor), [method](../tag/method)
+
+----
 
 A lightweight, low-cost kit for collecting, storing, and providing energy -- off-the-grid.  
 

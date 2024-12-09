@@ -8,11 +8,15 @@ uid: 431609
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/007/949/original/ThermalFlashlightKitchen.png)
+
 # Env+Tech_neu_2014 - Thermal Flashlight
 
 by [hklebs](../profile/hklebs) November 17, 2014 16:00
 
 November 17, 2014 16:00 | Tags: [thermal-photography](../tag/thermal-photography), [thermal-flashlight](../tag/thermal-flashlight), [thermal-imaging](../tag/thermal-imaging), [northeastern](../tag/northeastern), [thermal](../tag/thermal), [insulation](../tag/insulation), [heat](../tag/heat), [replication:625](../tag/replication:625)
+
+----
 
 Hudson, Emil, and Taylor
 

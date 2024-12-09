@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/sites/default/files/jellybelly-20130107-4898.jpg)
+
 # Jelly Belly
 
 by [cfastie](../profile/cfastie) January 09, 2013 16:28
 
 January 09, 2013 16:28 | Tags: [spectrometer](../tag/spectrometer), [mobile-phone-camera](../tag/mobile-phone-camera), [fold-up-mini-spectrometer](../tag/fold-up-mini-spectrometer), [spectrometer-calibration](../tag/spectrometer-calibration)
+
+----
 
 Over the holidays Galen and I were treated to dinner at the Waybury Inn in East Middlebury by our generous visiting cousins.  This local landmark was made famous in the 1980s when an exterior shot was used in the opening credits of <em>Newhart</em>, a TV sitcom starring Bob Newhart.  That day we had finished constructing our [Public Labs fold-up spectrometers]( http://publiclaboratory.org/notes/cfastie/1-4-2013/foldup-spectrometer-iphone), and Galen was able to tell from our table which lamps in the dining room were incandescent and which were compact fluorescent. This was remarkable in part because it did not result in the maître d' asking us to leave.  
 

@@ -8,11 +8,15 @@ uid: 152
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/004/682/original/10149023136_285b6924ed_o.jpg)
+
 # civil architecture and open hardware
 
 by [hagitkeysar](../profile/hagitkeysar) June 12, 2014 13:33
 
 June 12, 2014 13:33 | Tags: [balloon-mapping](../tag/balloon-mapping), [open-hardware](../tag/open-hardware), [jerusalem](../tag/jerusalem), [ohs](../tag/ohs), [open-hardware-summit](../tag/open-hardware-summit), [civil-architecture](../tag/civil-architecture), [rome](../tag/rome)
+
+----
 
 I was really happy to receive a confirmation that the proposal I wrote with Liat Brix was accepted to the [Open Hardware Summit](http://www.oshwa.org/2014/04/28/open-hardware-summit-2014-rome/). It will be, I hope, an opportunity to dive into the ideas and experiments we've been developing together and separately for a few years, discuss the techniques, the politics, the passion, and learn, learn a lot...!
 So I am copying our proposal here, for the record and for the unexpected.

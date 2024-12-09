@@ -14,6 +14,8 @@ by [mollydanielsson](../profile/mollydanielsson), [liz](../profile/liz), [warren
 
 September 30, 2011 21:59 | Tags: [community](../tag/community), [gmf](../tag/gmf), [grassroots-mapping](../tag/grassroots-mapping), [grassrootsmappingforum](../tag/grassrootsmappingforum)
 
+----
+
 Preparation for upcoming issues of the [Grassroots Mapping Forum](/forum)
 
 **Upcoming:**

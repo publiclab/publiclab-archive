@@ -14,6 +14,8 @@ by [warren](../profile/warren), [mariakatosvich](../profile/mariakatosvich)
 
 March 02, 2011 20:29 | Tags: 
 
+----
+
 Here are some descriptions for research assistants we've put out -- although we may still be looking for people to work on these projects, this is mainly a place to archive them for later reuse/repurposing.
 
 ###UROP: software interface design/dev for DIY infrared balloon photography###

@@ -14,6 +14,8 @@ by [liz](../profile/liz), [mathew](../profile/mathew), [mollydanielsson](../prof
 
 January 10, 2013 17:37 | Tags: [website](../tag/website), [plots2](../tag/plots2), [introduction](../tag/introduction), [participation](../tag/participation), [wintercamp](../tag/wintercamp), [out-of-date](../tag/out-of-date)
 
+----
+
 Different folks want to get involved in Public Lab for different reasons. Look through the following prompts to see where you fit in!
 
 ##Starting points

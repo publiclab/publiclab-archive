@@ -14,6 +14,8 @@ by [christie_reni](../profile/christie_reni) January 20, 2020 10:43
 
 January 20, 2020 10:43 | Tags: [blog-submission](../tag/blog-submission), [outreachy](../tag/outreachy)
 
+----
+
 The theme this time is 'Modifying Expectations' and this post is about my progress during the first half of my internship. I had submitted a project proposal with a project timeline which included tasks and goals that I had planned to accomplish during my internship period. Here's the link to my original project proposal: [My project proposal](https://publiclab.org/notes/christie_reni/10-26-2019/outreachy-proposal-refine-geographic-ui-and-js-integration-for-publiclab-org). The first time I had to modify the tasks I had in my timeline was when my internship began. Since my co-intern and I had timelines that overlapped we started by dividing up tasks that each of us would work on and had to reorder them according to priority with inputs from our mentors.
 
 As time went on working together and completing goals, I had to move tasks around my timeline to work on ones that were more relevant to the previous tasks I had completed. There were times I was stuck on a task, specifically testing which took more time than I had planned. Then there were times that I worked on fixing bugs or other tasks which weren't initially planned.

@@ -14,6 +14,8 @@ by [stevie](../profile/stevie) August 23, 2019 17:09
 
 August 23, 2019 17:09 | Tags: [question:air-quality](../tag/question:air-quality), [question:deer-park-tank-fire](../tag/question:deer-park-tank-fire)
 
+----
+
 See background on this question on this [Issue Brief](https://publiclab.org/notes/stevie/08-23-2019/deer-park-tx-chemical-storage-tank-fire?_=1566580056). 
 
   

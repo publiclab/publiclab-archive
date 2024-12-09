@@ -3,6 +3,8 @@ uid: 572078
 created_at: 2019-01-27 15:06:35 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/0f09b1c50a0d468c08a765797065461c)
+
 # yechiel
 
 

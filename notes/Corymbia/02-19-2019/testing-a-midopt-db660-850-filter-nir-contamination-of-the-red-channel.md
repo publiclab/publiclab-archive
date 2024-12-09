@@ -8,11 +8,15 @@ uid: 572650
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/029/438/original/IMG_6818_%281%29.jpg)
+
 # Testing a Midopt DB660/850 filter: NIR contamination of the red channel
 
 by [Corymbia](../profile/Corymbia) February 19, 2019 06:16
 
 February 19, 2019 06:16 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [nir](../tag/nir), [infrared](../tag/infrared), [near-infrared](../tag/near-infrared), [filter](../tag/filter), [testing](../tag/testing), [plant-health](../tag/plant-health), [dualband](../tag/dualband), [midopt](../tag/midopt), [first-time-poster](../tag/first-time-poster), [dng](../tag/dng)
+
+----
 
 Inspired by several research notes in Public Lab (many thanks to nedhorning, cfastie and others for their work), I recently had an Olympus mirrorless camera (E-M10 Mark II) converted to NIR using a **Midopt dual bandpass DB660/850** filter. The filter blocks all wavelengths except for two narrow bands: red and NIR, centered around 660 and 850 nm, respectively. As a result, the blue and green channel record mostly NIR (with a possible contamination with red light), while the red channel records mostly red light, yet contaminated with NIR. Since my aim is to calculate NDVI, I decided to test the NIR contamination of the red channel.
 

@@ -8,11 +8,15 @@ uid: 501320
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/019/214/original/20160903_143014-2.jpg)
+
 # Size of aerial imagery from balloons and kites
 
 by [Morgan](../profile/Morgan) January 05, 2017 17:32
 
 January 05, 2017 17:32 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [citizen-science](../tag/citizen-science), [imagery](../tag/imagery), [question:balloon-mapping](../tag/question:balloon-mapping), [question:kite-mapping](../tag/question:kite-mapping), [first-time-poster](../tag/first-time-poster)
+
+----
 
 Does anyone out there know how much area is covered by images that are taken from a balloon or kite? I know that the area will be different depending on high you are flying, but if anyone knows sizes at different altitudes, I would love to have that information. 
 

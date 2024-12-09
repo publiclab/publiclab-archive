@@ -8,11 +8,15 @@ uid: 1016
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/011/621/original/0_Ihpetonga_Brook_Brooklyn_CSI_Case_File_crop.png)
+
 # LOOKING FOR BURIED BODIES IN BROOKLYN BRIDGE PARK
 
 by [eymund](../profile/eymund) September 18, 2015 05:54
 
 September 18, 2015 05:54 | Tags: [event](../tag/event), [event:rsvp](../tag/event:rsvp), [date:09-19-2015](../tag/date:09-19-2015)
+
+----
 
 ###What I want to do
 

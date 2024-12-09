@@ -8,11 +8,15 @@ uid: 615276
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/035/087/original/plant4s.jpg)
+
 # Building Snake Plant Air Remediation kit in Bangalore, India
 
 by [deeptalaxmibharadwaj](../profile/deeptalaxmibharadwaj) September 02, 2019 08:51
 
 September 02, 2019 08:51 | Tags: [remediation](../tag/remediation), [air-quality](../tag/air-quality), [barnstar:basic](../tag/barnstar:basic), [formaldehyde](../tag/formaldehyde), [open-air](../tag/open-air), [barnstar:photo-documentation](../tag/barnstar:photo-documentation), [filters](../tag/filters), [indoor-air-quality](../tag/indoor-air-quality), [indoor-air](../tag/indoor-air), [pick](../tag/pick), [current](../tag/current), [difficulty:easy](../tag/difficulty:easy), [seeks:replications](../tag/seeks:replications), [time:3h](../tag/time:3h), [category:build](../tag/category:build), [status:in-progress](../tag/status:in-progress), [vocs](../tag/vocs), [activity:open-air](../tag/activity:open-air), [replication:13480](../tag/replication:13480), [activity:formaldehyde](../tag/activity:formaldehyde), [activity:indoor-air-remediation](../tag/activity:indoor-air-remediation), [first-time-poster](../tag/first-time-poster), [plant-air-purifier-prototypes](../tag/plant-air-purifier-prototypes), [activity:filters](../tag/activity:filters), [lat:12.940322](../tag/lat:12.940322), [lon:77.574462](../tag/lon:77.574462), [activity:indoor-air-quality](../tag/activity:indoor-air-quality)
+
+----
 
 I am following the instructions from the pdf and public lab writeup by Prof Nick.
 

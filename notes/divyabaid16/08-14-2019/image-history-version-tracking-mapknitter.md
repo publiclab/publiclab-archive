@@ -14,6 +14,8 @@ by [divyabaid16](../profile/divyabaid16) August 14, 2019 12:43
 
 August 14, 2019 12:43 | Tags: [mapknitter](../tag/mapknitter), [gsoc](../tag/gsoc), [soc19](../tag/soc19)
 
+----
+
 I have added this feature as part of my GSoC program. While adding this I had a great learning experience. This post summarizes the steps of how I created this feature.
 
 ![](https://miro.medium.com/max/700/0*uSrtxCplkayyVCtY.jpg)

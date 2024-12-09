@@ -8,11 +8,15 @@ uid: 793563
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/045/841/original/spam-g7b9dab021_1920.jpg)
+
 # Outreachy proposal: MapKnitter.org Spam Management system
 
 by [perhisohwode](../profile/perhisohwode) April 16, 2022 18:39
 
 April 16, 2022 18:39 | Tags: [software](../tag/software), [outreachy](../tag/outreachy), [first-time-poster](../tag/first-time-poster), [outreachy-2022](../tag/outreachy-2022), [outreachy-summer-2022](../tag/outreachy-summer-2022)
+
+----
 
 ---------
 

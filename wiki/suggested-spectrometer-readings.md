@@ -14,6 +14,8 @@ by [PeterDavidowicz](../profile/PeterDavidowicz), [Shannon](../profile/Shannon)
 
 May 11, 2013 13:48 | Tags: [spectrometer](../tag/spectrometer), [curriculum](../tag/curriculum), [readings](../tag/readings)
 
+----
+
 **Related to Public Lab spectrometer**
 
 Spectrometer primer: http://publiclaboratory.org/tool/spectrometer

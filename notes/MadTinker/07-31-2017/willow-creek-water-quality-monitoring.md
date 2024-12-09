@@ -8,11 +8,15 @@ uid: 461206
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/021/236/original/IMG_7302.jpg)
+
 # Willow Creek Water Quality Monitoring
 
 by [MadTinker](../profile/MadTinker) July 31, 2017 17:45
 
 July 31, 2017 17:45 | Tags: [arduino](../tag/arduino), [colorado](../tag/colorado), [water-quality](../tag/water-quality), [water](../tag/water), [riffle](../tag/riffle), [open-water](../tag/open-water), [barnstar:basic](../tag/barnstar:basic), [china](../tag/china), [data-logging](../tag/data-logging), [project](../tag/project), [knowflow](../tag/knowflow), [replication:14511](../tag/replication:14511), [mountain-west](../tag/mountain-west), [reclamation](../tag/reclamation)
+
+----
 
 I am currently active with the [Willow Creek Reclamation Committee](http://www.willowcreede.org), in Creede, Colorado, US. At one time Creede was one of the top silver producing mining areas. Many of the names associated with the wild days of the West spent considerable time frequenting the gambling halls, ladies of the evening, and of course, the mines. Bat Masterson was the sheriff, Calamity Jane, Soapy Smith, Poker Alice and many others were residents. Creede went through many boom and bust cycles from 1893 through 1973 with the last of the active mines closing operations in the mid-1980s. The nature of Creede changed significantly over the years and is now considered one of the largest open air asylums in the world. It's a beautiful and unique place to live and vacation.
 

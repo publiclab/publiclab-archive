@@ -8,11 +8,15 @@ uid: 422561
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/017/408/original/IMG_2548.JPG)
+
 # Barnraising Val Verde, CA
 
 by [warren](../profile/warren), [stevie](../profile/stevie)
 
 August 05, 2016 19:35 | Tags: [barnraising](../tag/barnraising), [regionalbarnraising](../tag/regionalbarnraising), [val-verde](../tag/val-verde), [socalwastestream](../tag/socalwastestream)
+
+----
 
 [![IMG_20160710_134340.jpg](//publiclab.org/system/images/photos/000/017/396/medium/IMG_20160710_134340.jpg)](//publiclab.org/system/images/photos/000/017/396/original/IMG_20160710_134340.jpg)
 

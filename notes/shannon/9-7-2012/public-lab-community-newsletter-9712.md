@@ -14,6 +14,8 @@ by [Shannon](../profile/Shannon) September 07, 2012 23:21
 
 September 07, 2012 23:21 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
 
+----
+
 In the Public Lab community newsletter this week we have announcements for three exciting upcoming events, updates on the spectrometer Kickstarter, new maps (including one called Hello Pluto Goodbye Kitty) and notes on the entertaining practice of livestreaming dance floors at NYC warehouse parties. Enjoy!
 
 1. Save the Date for the 2012 Public Lab Barn Raising! Public Lab will be hosting the second annual barn raising in [Cocodrie, LA](http://en.wikipedia.org/wiki/Cocodrie,_Louisiana) at the [Louisiana Universities Marine Consortium](http://www.lumcon.edu/) facilities from November 2-4, 2012. More information coming next week, but mark your calendars if you're interested in coming!. 

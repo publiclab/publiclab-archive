@@ -8,11 +8,15 @@ uid: 77
 
 ---
 
+![](https://publiclab.org/sites/default/files/P1060683.jpg)
+
 # Training session on simple aerial photomapping with the UC  Berkeley Engineers Without Borders (EWB) chapter Peru team
 
 by [patcoyle](../profile/patcoyle) December 02, 2012 23:10
 
 December 02, 2012 23:10 | Tags: 
+
+----
 
 Saturday December 1, from 9 to noon, Stewart Long and Pat Coyle did a training session on simple aerial photomapping the with the UC  Berkeley Engineers Without Borders (EWB) chapter Peru team. We planned time outside to demo the flight techniques and some time inside to go over the equipment (rigs, cameras, gps loggers, dual cameras synched for multispectral imagery, kites, and balloons) and cover the processing and demonstrate Knitter.  However, storms from the “pineapple express” resulted in rain till almost the end of the session. 
 

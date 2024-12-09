@@ -14,6 +14,8 @@ by [warren](../profile/warren)
 
 April 21, 2012 14:54 | Tags: [balloon-mapping](../tag/balloon-mapping), [grassrootsmappingwiki](../tag/grassrootsmappingwiki)
 
+----
+
 (copied from Pat Coyle's entries in the Grassroots Mapping Wiki)
 
 On March 5th, we did two plus balloon test flights in the front yard.

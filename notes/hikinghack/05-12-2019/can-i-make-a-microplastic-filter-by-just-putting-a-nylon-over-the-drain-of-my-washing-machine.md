@@ -14,6 +14,8 @@ by [hikinghack](../profile/hikinghack) May 12, 2019 01:15
 
 May 12, 2019 01:15 | Tags: [question:microplastics](../tag/question:microplastics), [microplastics](../tag/microplastics), [question:babylegs](../tag/question:babylegs), [babylegs](../tag/babylegs), [plastic](../tag/plastic), [first-time-poster](../tag/first-time-poster), [nylon](../tag/nylon)
 
+----
+
 I got a #babylegs question that could turn into a babylegs story:
 If the babylegs can catch microplastics, can I put some on my washing machine outlet as a filter to trap the plastics? Or will the babylegs degrade and just contribute more pollution?
 

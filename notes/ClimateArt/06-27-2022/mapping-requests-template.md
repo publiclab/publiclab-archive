@@ -14,6 +14,8 @@ by [ClimateArt](../profile/ClimateArt) June 27, 2022 17:12
 
 June 27, 2022 17:12 | Tags: [balloon-mapping](../tag/balloon-mapping), [london](../tag/london), [aerial-photography](../tag/aerial-photography), [workshop](../tag/workshop), [request](../tag/request), [eu](../tag/eu), [question:aerial-photography](../tag/question:aerial-photography), [request:aerial-photography](../tag/request:aerial-photography), [requests](../tag/requests), [activity:requests](../tag/activity:requests), [first-time-poster](../tag/first-time-poster), [zoom:6](../tag/zoom:6), [with:username](../tag/with:username), [request:general](../tag/request:general), [lat:51.530995](../tag/lat:51.530995), [lon:-0.131504](../tag/lon:-0.131504)
 
+----
+
 ## Take part in a street festival with a balloon-mapping workshop.
 
 ## Saturday, 9 July 2022

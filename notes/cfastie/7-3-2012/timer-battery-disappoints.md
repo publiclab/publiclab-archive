@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/sites/default/files/4LR44.jpg)
+
 # Timer battery disappoints
 
 by [cfastie](../profile/cfastie) July 03, 2012 04:24
 
 July 03, 2012 04:24 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [camera-triggering](../tag/camera-triggering), [mk111](../tag/mk111)
+
+----
 
 These 4LR44 batteries have not lived up to my initial tests.
 

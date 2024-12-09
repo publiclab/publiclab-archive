@@ -8,11 +8,15 @@ uid: 9
 
 ---
 
+![](https://publiclab.org/sites/default/files/Pole5 24 hours IMG_0321.JPG)
+
 # Bayou Sauvage Draeger tubes after 24 hours
 
 by [Shannon](../profile/Shannon) August 05, 2012 16:05
 
 August 05, 2012 16:05 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [draeger-tubes](../tag/draeger-tubes)
+
+----
 
 ***Images above are of the closest weather station to this site from 8/3/12.***
 

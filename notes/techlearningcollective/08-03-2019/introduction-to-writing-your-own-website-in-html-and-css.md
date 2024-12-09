@@ -8,11 +8,15 @@ uid: 608717
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/034/294/original/intro-to-html.jpg)
+
 # Introduction to Writing Your Own Website in HTML and CSS
 
 by [techlearningcollective](../profile/techlearningcollective) August 03, 2019 20:10
 
 August 03, 2019 20:10 | Tags: [new-york-city](../tag/new-york-city), [event](../tag/event), [community-organizing](../tag/community-organizing), [first-time-poster](../tag/first-time-poster), [html](../tag/html), [css](../tag/css), [semantic-web](../tag/semantic-web), [lat:40.690447](../tag/lat:40.690447), [lon:-73.916209](../tag/lon:-73.916209)
+
+----
 
 [PowrPlnt](https://powrplnt.org/) in collaboration with the [Tech Learning Collective](https://techlearningcollective.com) presents:
 

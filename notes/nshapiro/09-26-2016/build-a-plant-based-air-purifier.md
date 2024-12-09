@@ -8,11 +8,15 @@ uid: 380298
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/018/143/original/Plant_air.jpg)
+
 # Build a plant-based air purifier 
 
 by [nshapiro](../profile/nshapiro) September 26, 2016 15:15
 
 September 26, 2016 15:15 | Tags: [remediation](../tag/remediation), [air-quality](../tag/air-quality), [barnstar:basic](../tag/barnstar:basic), [formaldehyde](../tag/formaldehyde), [open-air](../tag/open-air), [filters](../tag/filters), [indoor-air-quality](../tag/indoor-air-quality), [indoor-air](../tag/indoor-air), [pick](../tag/pick), [current](../tag/current), [difficulty:easy](../tag/difficulty:easy), [seeks:replications](../tag/seeks:replications), [time:3h](../tag/time:3h), [category:build](../tag/category:build), [status:in-progress](../tag/status:in-progress), [vocs](../tag/vocs), [activity:open-air](../tag/activity:open-air), [activity:formaldehyde](../tag/activity:formaldehyde), [activity:indoor-air-remediation](../tag/activity:indoor-air-remediation), [plant-air-purifier-prototypes](../tag/plant-air-purifier-prototypes), [activity:filters](../tag/activity:filters)
+
+----
 
 #Remediation
 

@@ -14,6 +14,8 @@ by [mathew](../profile/mathew) April 22, 2017 00:41
 
 April 22, 2017 00:41 | Tags: [community](../tag/community), [guidelines](../tag/guidelines), [facilitation](../tag/facilitation), [conduct](../tag/conduct), [code-of-conduct](../tag/code-of-conduct), [communication](../tag/communication)
 
+----
+
 I attended a workshop on communication run by social worker Sarah Shatz at the [Wisconsin Grassroots](http://www.wisconsingrassroots.net/) Festival.  She had some excellent conversation guidelines that I took note of:
 
   

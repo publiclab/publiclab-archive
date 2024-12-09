@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/Screen shot 2012-11-30 at 2.09.48 PM.png)
+
 # Measuring our community growth using web traffic
 
 by [warren](../profile/warren) November 30, 2012 19:12
 
 November 30, 2012 19:12 | Tags: [community-metrics](../tag/community-metrics), [community](../tag/community), [website](../tag/website), [webworkinggroup](../tag/webworkinggroup), [organizers](../tag/organizers), [analytics](../tag/analytics), [quantitative](../tag/quantitative), [evaluation](../tag/evaluation)
+
+----
 
 I keep an eye on our web traffic at PublicLaboratory.org as a way to see how the community is growing -- it's obviously not the whole story but gives us a sense of the level of activity. And especially since our community grows quite a bit after major events or drives like the Kickstarters we've done, it's interesting to see the effects in terms of how many visitors we have.
 

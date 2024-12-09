@@ -14,6 +14,8 @@ by [tungs10](../profile/tungs10) November 08, 2013 21:25
 
 November 08, 2013 21:25 | Tags: [spectrometer](../tag/spectrometer), [hydrogen](../tag/hydrogen), [oxyhydrogen](../tag/oxyhydrogen), [diesel](../tag/diesel)
 
+----
+
 To see research so far:
 [click here](http://www.academia.edu/4058265/HHO_and_Diesel_Technology)
 

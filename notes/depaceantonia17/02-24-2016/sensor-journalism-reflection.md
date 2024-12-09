@@ -8,11 +8,15 @@ uid: 461495
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/014/551/original/undefined)
+
 # Sensor Journalism Reflection 
 
 by [depaceantonia17](../profile/depaceantonia17) February 24, 2016 04:19
 
 February 24, 2016 04:19 | Tags: [sensor-journalism](../tag/sensor-journalism), [response:12748](../tag/response:12748), [hidden:response](../tag/hidden:response)
+
+----
 
         Sensor journalism is a way of reporting and gathering data that is becoming more popular today. According to Lily Bui’s presentation, sensor journalism is the collecting of data from sensors and then using it in your story. The reporting process can be based off of three types of data: top down, down up, and hybrid. Top down is data that comes from an authority, like weather stations, and then is used for stories. Top down is a process that we have used in class by finding data from the City of Boston website, and then creating visuals and conclusions from what the information shows. Top up, however, is when an individual outside of a large institution collects data for their own reporting purposes. A hybrid, on the other hand, is a combination of the two. Bui used the example of Weather Underground, which is a website that allows people to post data in order to validate the data that the website has itself. 
 	According to the Tow Center article “Sensors and Journalism,” “reporters are using sensors in an era when the rapid development of technology is moving data into the mainstream of journalism.” I believe that this is true, and that technology has definitely provided journalists with opportunities that we never had before. With sensor journalism, we are able to use technology in order to make our own hypotheses and conclusions, and then can also create stories for the general public. 

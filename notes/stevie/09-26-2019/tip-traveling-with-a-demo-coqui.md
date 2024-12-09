@@ -8,11 +8,15 @@ uid: 422561
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/035/450/original/Screen_Shot_2019-09-26_at_10.11.57_AM.png)
+
 # Tip: traveling with a demo coqui
 
 by [stevie](../profile/stevie) September 26, 2019 14:14
 
 September 26, 2019 14:14 | Tags: [education](../tag/education), [workshop](../tag/workshop), [coqui](../tag/coqui)
+
+----
 
 I've long had trouble with transporting a coqui with a conductivity sensor for demos.  Remembering to bring cups, and salt, finding water near my demo site, mixing a saline solution to demonstrate what the coqui can do, and trying to not spill the water all over my table of electronics with a bunch of people around. It can be a lot.
 

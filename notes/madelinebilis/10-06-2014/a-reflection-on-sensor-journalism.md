@@ -8,11 +8,15 @@ uid: 428057
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/007/331/original/GoogleMap.jpg)
+
 # A Reflection on Sensor Journalism
 
 by [madelinebilis](../profile/madelinebilis) October 06, 2014 18:57
 
 October 06, 2014 18:57 | Tags: [water-sensing](../tag/water-sensing), [conductivity](../tag/conductivity), [coqui](../tag/coqui), [sensor-journalism](../tag/sensor-journalism)
+
+----
 
 Sensor journalism is a new field of reporting that has opened a door of endless possibilities. It is a new way to approach the world and its problems, and a new way to garner solutions to these problems. While the groundbreaking concept presents many opportunities, it has its shortfalls. There are many ways in which sensor journalism can generate a wide variety of errors. Luckily, since the field is so new, there is time to work out the kinks. By recognizing sensor journalism’s opportunities and challenges, journalists and scientists alike can work towards a more legitimate and precise sensor journalism.
 

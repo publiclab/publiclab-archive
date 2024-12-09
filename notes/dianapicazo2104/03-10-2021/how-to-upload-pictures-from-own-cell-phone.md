@@ -14,4 +14,6 @@ by [dianapicazo2104](../profile/dianapicazo2104) March 10, 2021 06:13
 
 March 10, 2021 06:13 | Tags: [spectral-workbench](../tag/spectral-workbench), [question:spectral-workbench](../tag/question:spectral-workbench), [first-time-poster](../tag/first-time-poster)
 
+----
+
 i cant seem to work the camera on my laptop . i already have pictures i took on my cell.. can i use those to get converted

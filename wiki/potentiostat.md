@@ -8,11 +8,15 @@ uid: 43651
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/010/439/original/DSCN0874.JPG)
+
 # Potentiostat
 
 by [dwheeler](../profile/dwheeler), [liz](../profile/liz), [warren](../profile/warren), [JSummers](../profile/JSummers), [mathew](../profile/mathew), [donblair](../profile/donblair), [cversek](../profile/cversek)
 
 May 12, 2013 18:13 | Tags: [potentiostat](../tag/potentiostat), [cheapstat](../tag/cheapstat), [water](../tag/water), [tool](../tag/tool), [list:plots-waterquality](../tag/list:plots-waterquality), [method](../tag/method), [chemicals](../tag/chemicals), [location:blurred](../tag/location:blurred), [zoom:3](../tag/zoom:3), [lat:-20](../tag/lat:-20), [lon:-40](../tag/lon:-40), [place:brazil](../tag/place:brazil)
+
+----
 
 _For measuring electrochemically active compounds and microbes in water._
 

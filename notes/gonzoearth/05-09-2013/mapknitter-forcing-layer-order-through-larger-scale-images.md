@@ -8,11 +8,15 @@ uid: 12
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/000/208/original/DSCN0089.JPG)
+
 # MapKnitter: forcing layer order through larger scale images
 
 by [gonzoearth](../profile/gonzoearth) May 09, 2013 23:41
 
 May 09, 2013 23:41 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [mapknitter](../tag/mapknitter), [tips](../tag/tips)
+
+----
 
 MapKnitter currently has automated control over the layer ordering of the output mosaic. Order is determined by image extent size from back to front.
 

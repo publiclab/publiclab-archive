@@ -8,11 +8,15 @@ uid: 297929
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/003/570/original/IMG_1971.JPG)
+
 # Union Square MBTA Mapping
 
 by [kgradow1](../profile/kgradow1) April 08, 2014 16:14
 
 April 08, 2014 16:14 | Tags: [balloon-mapping](../tag/balloon-mapping), [somerville-massachusetts](../tag/somerville-massachusetts), [kite-mapping](../tag/kite-mapping), [boston](../tag/boston), [union-square](../tag/union-square), [event](../tag/event), [somerville](../tag/somerville), [massachusetts](../tag/massachusetts), [transportation](../tag/transportation), [urban-design](../tag/urban-design), [urban-planning](../tag/urban-planning), [green-line](../tag/green-line), [mbta](../tag/mbta), [replication:14022](../tag/replication:14022)
+
+----
 
 ###Brief overview
 

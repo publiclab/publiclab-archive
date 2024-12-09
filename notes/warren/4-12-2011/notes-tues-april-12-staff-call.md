@@ -14,6 +14,8 @@ by [warren](../profile/warren) April 12, 2011 15:26
 
 April 12, 2011 15:26 | Tags: 
 
+----
+
 Stewart Long, Shannon Dosemagen and I had our bi-weekly meeting today. We reviewed [last weeks list](http://publiclaboratory.org/notes/warren/4-5-2011/notes-tuesday-plots-staff-call), and set out some deadlines and to-dos:
 
 ###Deadlines###

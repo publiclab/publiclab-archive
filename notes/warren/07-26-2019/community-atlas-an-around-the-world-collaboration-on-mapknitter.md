@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/034/159/original/pasted_image_0.png)
+
 # Community Atlas: an "around the world collaboration" on MapKnitter
 
 by [warren](../profile/warren) July 26, 2019 18:03
 
 July 26, 2019 18:03 | Tags: [balloon-mapping](../tag/balloon-mapping), [mapknitter](../tag/mapknitter), [collaboration](../tag/collaboration), [software](../tag/software), [google](../tag/google), [blog](../tag/blog), [community-atlas](../tag/community-atlas)
+
+----
 
 Over the past six months, we've overhauled almost every part of the MapKnitter website, and I wanted to share a bit about all the people who made this possible. Between our Google-funded MapKnitter code fellowships and our Google Summer of Code (#GSoC) fellows, we've had contributions from **five continents and more than ten people**, all coming together to build this complex system!
 

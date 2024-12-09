@@ -8,11 +8,15 @@ uid: 552
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/006/285/original/Tower.jpg)
+
 # Philadelphia Night Market Balloon Flight
 
 by [seankmcginnis](../profile/seankmcginnis) August 15, 2014 09:59
 
 August 15, 2014 09:59 | Tags: [balloon-mapping](../tag/balloon-mapping), [philadelphia](../tag/philadelphia), [event](../tag/event), [urban-design](../tag/urban-design), [northeast](../tag/northeast), [replication:14022](../tag/replication:14022)
+
+----
 
 Last night was the [Philadelphia Night Market](http://thefoodtrust.org/night-market) and we were asked to come down with the [Department of Making and Doing](http://dmdphilly.org/).
 [![SignLumberCart.jpg](https://i.publiclab.org/system/images/photos/000/006/284/medium/SignLumberCart.jpg)](https://i.publiclab.org/system/images/photos/000/006/284/original/SignLumberCart.jpg)

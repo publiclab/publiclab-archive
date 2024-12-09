@@ -14,6 +14,8 @@ by [warren](../profile/warren)
 
 October 26, 2011 16:54 | Tags: [spectrometer](../tag/spectrometer)
 
+----
+
 <a href="https://www.flickr.com/photos/jeffreywarren/7890162542/" title="Spectral analysis of coffee at Toscanini's by jeferonix, on Flickr"><img src="https://farm9.staticflickr.com/8437/7890162542_d8784fea8d.jpg" width="500" height="375" alt="Spectral analysis of coffee at Toscanini's"></a>
 
 This spectrometer is made with a black card inserts inside a 1" PVC or aluminum conduit box, and uses an HD USB webcam. This allows the user to view the spectrum in real-time, rather than taking a photo and analyzing it later. See a full bill of materials here:

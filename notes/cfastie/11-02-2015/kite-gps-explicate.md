@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/012/330/original/Brist-1083LP100ps2k.jpg)
+
 # Kite => GPS => Explicate
 
 by [cfastie](../profile/cfastie) November 02, 2015 16:56
 
 November 02, 2015 16:56 | Tags: [kite-mapping](../tag/kite-mapping), [vermont](../tag/vermont), [kite](../tag/kite), [saturnv](../tag/saturnv), [skyshield](../tag/skyshield), [half-spherical](../tag/half-spherical), [littleplanet](../tag/littleplanet), [response:12335](../tag/response:12335), [birdseye](../tag/birdseye), [bristol-vt](../tag/bristol-vt), [s100-gps](../tag/s100-gps)
+
+----
 
 *Above: Little planet projection of a 23 photo panorama of Bristol, VT. October 30, 2015.*
 

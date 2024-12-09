@@ -8,11 +8,15 @@ uid: 379
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/003/218/original/IMG_4141.JPG)
+
 # Floating camera rig
 
 by [eustatic](../profile/eustatic) March 12, 2014 05:40
 
 March 12, 2014 05:40 | Tags: [gulf-coast](../tag/gulf-coast), [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [wetlands](../tag/wetlands), [kite](../tag/kite), [photo-rig](../tag/photo-rig), [kit](../tag/kit), [category:build](../tag/category:build), [activity:aerial-photography](../tag/activity:aerial-photography), [activity:photo-rig](../tag/activity:photo-rig)
+
+----
 
 ###What I want to do
 

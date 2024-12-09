@@ -3,6 +3,8 @@ uid: 518193
 created_at: 2017-11-13 17:34:43 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/518193/medium/AM_PL_PROFILE_LRG.png)
+
 # a1ahna
 
 Alahna (she / her) is Public Lab’s Kits Fulfillment Coordinator.  She was born and raised in coastal Louisiana and the majority of her work focuses upon documenting landscape change along the Gulf Coast.  

@@ -8,11 +8,15 @@ uid: 43651
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/005/289/original/landsat.png)
+
 # How to download and analyze Landsat imagery
 
 by [donblair](../profile/donblair) July 14, 2014 22:55
 
 July 14, 2014 22:55 | Tags: [satellite-images](../tag/satellite-images), [thermal-imaging](../tag/thermal-imaging), [cape-cod-bay-watch](../tag/cape-cod-bay-watch), [landsat](../tag/landsat), [satellite-imagery](../tag/satellite-imagery), [barnstar:basic](../tag/barnstar:basic), [with:nedhorning](../tag/with:nedhorning), [with:karenv](../tag/with:karenv), [activity:image-analysis](../tag/activity:image-analysis), [activity:remote-sensing](../tag/activity:remote-sensing), [qgis](../tag/qgis)
+
+----
 
 ## Video tutorial
 

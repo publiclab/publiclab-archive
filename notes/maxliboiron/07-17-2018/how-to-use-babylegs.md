@@ -8,11 +8,15 @@ uid: 310707
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/027/702/original/25735.png)
+
 # How to use BabyLegs
 
 by [maxliboiron](../profile/maxliboiron) July 17, 2018 22:13
 
 July 17, 2018 22:13 | Tags: [kits](../tag/kits), [seeks:replications](../tag/seeks:replications), [micro-plastics](../tag/micro-plastics), [community-kits](../tag/community-kits), [microplastics](../tag/microplastics), [babylegs](../tag/babylegs), [activity:babylegs](../tag/activity:babylegs), [trawling](../tag/trawling), [trawl](../tag/trawl), [activity:microplastics](../tag/activity:microplastics)
+
+----
 
 Created with baby's tights, soda pop bottles, and other inexpensive and easy to find materials, [BabyLegs](https://publiclab.org/wiki/babylegs) can be used to skim the surface of the water in rivers, streams, and oceans for floating marine microplastics by hand or from a boat. This instrument is called a surface trawl. Surface trawls are essentially fancy butterfly nets for catching surface plastics. These instructions start with an overview of basic concepts, and then a step-by-step protocol.
 

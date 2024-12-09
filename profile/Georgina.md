@@ -3,6 +3,8 @@ uid: 516039
 created_at: 2017-10-09 21:33:11 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/516039/medium/AWIS_GCH_headshot.jpg)
+
 # Georgina
 
 Since late 2015 I have been a Research Coordinator for the CPRIT Therapeutic Antibody Core at the University of Texas Health Science Center at Houston. My work here focuses on writing, administration, and management of scientific projects, particularly in the area of therapeutic antibodies.   

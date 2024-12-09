@@ -8,11 +8,15 @@ uid: 788868
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/045/456/original/OIP.jpg)
+
 # Where are  missing 99% of microplastic pollution in the ocean? 
 
 by [TheChessGym](../profile/TheChessGym) March 03, 2022 19:54
 
 March 03, 2022 19:54 | Tags: [microplastics](../tag/microplastics), [lat:20](../tag/lat:20), [lon:70](../tag/lon:70), [zoom:5](../tag/zoom:5)
+
+----
 
 [null](https://www.youtube.com/watch?v=fsjvwQclGLo)Why is 99% of ocean microplastic pollution missing?   
 

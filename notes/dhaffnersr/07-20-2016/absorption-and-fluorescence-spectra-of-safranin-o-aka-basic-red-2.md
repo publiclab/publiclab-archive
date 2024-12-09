@@ -8,11 +8,15 @@ uid: 461120
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/017/160/original/ABtest01_5_dyes_july_16_test_tubes.png)
+
 # Absorption and Fluorescence Spectra of Safranin O (aka., Basic Red #2)
 
 by [dhaffnersr](../profile/dhaffnersr) July 20, 2016 12:51
 
 July 20, 2016 12:51 | Tags: 
+
+----
 
 ##**Origin of the word “science” Latin_ Scientia_- know**
 

@@ -8,11 +8,15 @@ uid: 422561
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/038/329/original/FracSandMining-2013-Auch33Chippewa_Co._LaGesse.JPG)
+
 # CANCELED Event: Sand Sentinel Training, Bloomer WI
 
 by [stevie](../profile/stevie) March 04, 2020 21:36
 
 March 04, 2020 21:36 | Tags: [event](../tag/event), [frac-sand](../tag/frac-sand), [pm](../tag/pm), [mid-west](../tag/mid-west), [particulate-matter](../tag/particulate-matter), [with:pat](../tag/with:pat), [this](../tag/this), [sentinel](../tag/sentinel), [parent:the-sand-sentinel-program](../tag/parent:the-sand-sentinel-program), [zoom:11](../tag/zoom:11), [lat:45.109392](../tag/lat:45.109392), [lon:-91.484184](../tag/lon:-91.484184), [sand-sentinel](../tag/sand-sentinel), [sentinel-program](../tag/sentinel-program)
+
+----
 
 _Lead photo by Ted Auch of Frac Tracker, 2013_
 

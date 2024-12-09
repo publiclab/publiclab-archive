@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/021/989/original/Screen_Shot_2017-10-20_at_11.22.58_AM.png)
+
 # Getting started with infrared photography on Infragram.org
 
 by [warren](../profile/warren) October 20, 2017 15:31
 
 October 20, 2017 15:31 | Tags: [ndvi](../tag/ndvi), [infrared](../tag/infrared), [software](../tag/software), [infragram](../tag/infragram), [activity:multispectral-imaging](../tag/activity:multispectral-imaging), [activity:infragram](../tag/activity:infragram), [multispectral-imaging](../tag/multispectral-imaging), [activity:ndvi](../tag/activity:ndvi), [activity:infragram-point-shoot](../tag/activity:infragram-point-shoot), [infragram.org](../tag/infragram.org), [activity:infragram.org](../tag/activity:infragram.org), [pin:activity:infragram](../tag/pin:activity:infragram)
+
+----
 
 This tutorial walks through working with images on [Infragram.org](infragram.org), which is an easy way to process your infrared/visible images online.
 

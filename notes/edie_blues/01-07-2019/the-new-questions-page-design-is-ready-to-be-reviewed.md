@@ -14,6 +14,8 @@ by [edie_blues](../profile/edie_blues) January 07, 2019 20:37
 
 January 07, 2019 20:37 | Tags: [design](../tag/design), [ui](../tag/ui), [ui-designs](../tag/ui-designs)
 
+----
+
 Hello all,
 
 As you might already know, I've been working with the team on simplifying the overall design of Public Lab - making it a more accessible and effective website for everyone :)

@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/013/268/original/Screen_Shot_2015-12-11_at_3.17.12_PM.png)
+
 # Oil Test Kit: 3 crude oil scans
 
 by [liz](../profile/liz) December 11, 2015 20:25
 
 December 11, 2015 20:25 | Tags: [spectrometer](../tag/spectrometer), [oil-testing-kit](../tag/oil-testing-kit), [oil-testing-kit-beta](../tag/oil-testing-kit-beta)
+
+----
 
 Here is my screenshot of my set https://spectralworkbench.org/sets/2874, three scans of crude oil using a blue laser. 
 

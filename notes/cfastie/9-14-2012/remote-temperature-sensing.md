@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/sites/default/files/JeeNodeComposta.jpg)
+
 # Remote temperature sensing
 
 by [cfastie](../profile/cfastie) September 14, 2012 22:28
 
 September 14, 2012 22:28 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [as220](../tag/as220), [temperature](../tag/temperature), [leaffest](../tag/leaffest), [jeenode](../tag/jeenode), [h2s](../tag/h2s), [compost](../tag/compost), [data-logging](../tag/data-logging), [cosm](../tag/cosm)
+
+----
 
 When I went public with my [home compost pile]( http://fastie.net/?p=1776) four days ago, I sort of challenged the participants of next week’s [LEAFFEST]( http://publiclaboratory.org/notes/cfastie/9-5-2012/l-e-f-f-e-s-t) to rescue me from my 25 year old thermometer device that I use to monitor the temperature inside the pile.  The [Pioneer Valley Open Science]( https://github.com/Pioneer-Valley-Open-Science/pioneer-valley-open-science.github.com/wiki) crowd was up to the challenge and already has a prototype which could beam temperature data from four locations in the pile direct to my PC 300 feet away.  There it could automatically update a graph maybe at [cosm.com](https://cosm.com/).  This a better solution, although it has been a pleasure walking over to the garden first thing and last thing every day this week to check the temperature.  Venus and Jupiter were brilliant as the crescent Moon was rising at dawn, and it was clear enough in the evening to adjust the sundial gnomon by making sure it was pointed exactly at the North Star.  That might be a bit more connecting to the cosmos than I really need. 
 

@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/014/033/original/IMG_3418.JPG)
+
 # a pendulum rig flies over China
 
 by [liz](../profile/liz) February 01, 2016 21:40
 
 February 01, 2016 21:40 | Tags: [mobius](../tag/mobius), [china](../tag/china), [pendulum-rig](../tag/pendulum-rig)
+
+----
 
 Here are some photos of the pendulum rig we made on January 17th, following along with the comments on @tonyc's note: https://publiclab.org/notes/tonyc/11-30-2015/string-and-paperclip-method-for-attaching-mobius-camera-to-dowel-pendulum-rig#c12983
 

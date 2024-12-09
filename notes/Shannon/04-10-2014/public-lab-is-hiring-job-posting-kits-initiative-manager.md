@@ -8,11 +8,15 @@ uid: 9
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/003/606/original/plots-logo-transparent.jpg)
+
 # Public Lab is hiring! Job Posting: Kits Initiative Manager
 
 by [Shannon](../profile/Shannon) April 10, 2014 18:47
 
 April 10, 2014 18:47 | Tags: [jobs](../tag/jobs)
+
+----
 
 **Applications now closed**
 

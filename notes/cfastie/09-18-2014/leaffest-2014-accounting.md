@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/006/857/original/LEAF2014_735.jpg)
+
 # LEAFFEST 2014 accounting
 
 by [cfastie](../profile/cfastie) September 18, 2014 05:55
 
 September 18, 2014 05:55 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [spectrometer](../tag/spectrometer), [vermont](../tag/vermont), [new-hampshire](../tag/new-hampshire), [oil-spill-toolkit](../tag/oil-spill-toolkit), [leaffest](../tag/leaffest), [event](../tag/event), [infragram](../tag/infragram), [riffle](../tag/riffle), [northeast](../tag/northeast), [great-photos](../tag/great-photos), [barnstar:photo-documentation](../tag/barnstar:photo-documentation), [leaffest2014](../tag/leaffest2014), [response:11076](../tag/response:11076)
+
+----
 
 .  
 <span style="font-size: 24pt;">18</span>  

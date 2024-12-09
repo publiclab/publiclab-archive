@@ -8,11 +8,15 @@ uid: 379
 
 ---
 
+![](https://publiclab.org/sites/default/files/IMG_0686 y.JPG)
+
 # Weeks Bay Kite Training
 
 by [eustatic](../profile/eustatic) March 29, 2013 21:41
 
 March 29, 2013 21:41 | Tags: [kite-mapping](../tag/kite-mapping), [gulf-restoration-network](../tag/gulf-restoration-network), [event](../tag/event), [gulf-coast](../tag/gulf-coast)
+
+----
 
 Gulf Gathering 2013
 Weeks Bay, Alabama

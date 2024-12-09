@@ -14,6 +14,8 @@ by [gretchengehrke](../profile/gretchengehrke)
 
 December 13, 2017 16:49 | Tags: 
 
+----
+
 Relatively inexpensive, transportable and deployable sensors are produced all over the world for a variety of analytes. Broadly defined, sensors respond to a physical or chemical property, providing an interpretable output. For our purposes, a main distinction of a sensor versus a sampler is that sensors do not require laboratory-based analyses, and provide outputs in near-real time. 
 
 Though we often think of sensors as part of the electronics field, plenty of analog sensors have been available for decades. Common analog sensors include things like mercury thermometers and classic barometers. Common digital sensors include things like voltmeters. 

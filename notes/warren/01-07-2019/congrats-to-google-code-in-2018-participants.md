@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/028/639/original/Screen_Shot_2019-01-07_at_5.51.02_PM.png)
+
 # Congrats to Google Code-In 2018 participants!
 
 by [warren](../profile/warren) January 07, 2019 17:55
 
 January 07, 2019 17:55 | Tags: [open-source](../tag/open-source), [google](../tag/google), [developers](../tag/developers), [code](../tag/code), [wwg](../tag/wwg), [software-outreach](../tag/software-outreach), [gci](../tag/gci), [code-in](../tag/code-in)
+
+----
 
 Google Code-In [winners were just announced](https://codein.withgoogle.com/winners/)! Congratulations to everyone, from our amazing mentors to the dozens of people who participated and made our community and project better!
 

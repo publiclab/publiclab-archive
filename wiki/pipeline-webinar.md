@@ -14,6 +14,8 @@ by [warren](../profile/warren)
 
 April 18, 2019 20:31 | Tags: [monitoring](../tag/monitoring), [webinar](../tag/webinar), [oil-and-gas](../tag/oil-and-gas), [pipelines](../tag/pipelines), [pipeline-monitoring](../tag/pipeline-monitoring), [parent:pipeline](../tag/parent:pipeline)
 
+----
+
 This wiki page contains all of the published videos in the "Civilian Monitoring of Pipelines in Louisiana" series.  These webinars were  created and compiled by Alahna Moore as a part of Public Lab's _oil and gas accountability fellowship_.  
 
 The first two videos are intended to connect the origins of oil and gas development in the Gulf Coast region to the environmental degradation and land loss experienced in the last half of a century.  Videos two and three will provide resources for conducting pipeline related research and step - by - step training for civilian monitoring, photographic data collection, and reporting environmental concerns to government regulators.  
@@ -34,5 +36,5 @@ While these videos are specifically catered to the situation in Louisiana, the t
 
 These videos are part one of the webinar series "Civilian Monitoring of Pipelines in Louisiana," hosted by Public Lab. 
 
-[notes:grid:pipeline-monitoring-webinar]
+[grid:pipeline-monitoring-webinar](../../tag/grid:pipeline-monitoring-webinar)
 

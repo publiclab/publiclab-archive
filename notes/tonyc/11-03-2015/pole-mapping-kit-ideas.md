@@ -8,11 +8,15 @@ uid: 447491
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/012/376/original/IMG_3546.JPG)
+
 # pole mapping kit ideas
 
 by [tonyc](../profile/tonyc) November 03, 2015 23:40
 
 November 03, 2015 23:40 | Tags: [polemapping](../tag/polemapping), [pole-photography](../tag/pole-photography), [pole-mapping](../tag/pole-mapping)
+
+----
 
 I wanted to revisit the current Pole mapping kit, and look to improve stability and safety of the product. 
 

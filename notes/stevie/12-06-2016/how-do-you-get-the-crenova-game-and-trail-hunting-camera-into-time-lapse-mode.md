@@ -14,6 +14,8 @@ by [stevie](../profile/stevie) December 06, 2016 22:18
 
 December 06, 2016 22:18 | Tags: [answered](../tag/answered), [question:question](../tag/question:question), [question:timelapse](../tag/question:timelapse)
 
+----
+
 #### What I want to do or know
 
 We have been [using a few of these cameras](https://publiclab.org/wiki/timelapse) in the field to do environmental monitoring, but it seems a bit challenging to get them into the time-lapse mode instead of the motion detection mode. Has anyone done this? Can you provide some instructions?

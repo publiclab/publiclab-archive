@@ -8,11 +8,15 @@ uid: 54025
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/003/188/original/HDR2.jpg)
+
 # HDR2: Using Over-Exposure to Your Advantage
 
 by [stoft](../profile/stoft) March 09, 2014 19:57
 
 March 09, 2014 19:57 | Tags: [spectrometer](../tag/spectrometer), [hdr](../tag/hdr), [dynamic-range](../tag/dynamic-range)
+
+----
 
 **Background**
 Since writing some notes, a while back, on improving dynamic range ( [HDR: In search of High-er Dynamic Range](http://alpha.publiclaboratory.org/notes/stoft/5-25-2013/hdr-search-high-er-dynamic-range) ) and ( [In Search of Spectrometer Attenuators](http://publiclab.org/notes/stoft/05-14-2013/in-search-of-spectrometer-attenuators) ) two nagging issues have remained.

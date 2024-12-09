@@ -14,6 +14,8 @@ by [mathew](../profile/mathew), [leejaekyung](../profile/leejaekyung)
 
 February 27, 2012 00:20 | Tags: [balloon-mapping](../tag/balloon-mapping), [urban](../tag/urban), [diy-balloon](../tag/diy-balloon), [korea](../tag/korea)
 
+----
+
 Hello, Public Laboratory. 
 Last year, I got a video for the other people who want to get picture by balloon. It was not complete, but I think It is useful for beginner.
 

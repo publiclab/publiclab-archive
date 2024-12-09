@@ -3,6 +3,8 @@ uid: 727770
 created_at: 2020-10-29 08:57:22 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/8b28022149a52dc00e2c37d7dd024d09)
+
 # thedevkaren
 
 

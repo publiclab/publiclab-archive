@@ -8,11 +8,15 @@ uid: 4
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/008/630/original/mock-right.jpg)
+
 # shortlinks: putting contributors directly on a kit
 
 by [mathew](../profile/mathew) January 17, 2015 02:03
 
 January 17, 2015 02:03 | Tags: [spectrometer](../tag/spectrometer), [community](../tag/community), [oil](../tag/oil), [spectrometry](../tag/spectrometry), [organizers](../tag/organizers), [desktop-spectrometer](../tag/desktop-spectrometer), [desktop-spectrometry-kit](../tag/desktop-spectrometry-kit), [design](../tag/design), [oil-testing-kit](../tag/oil-testing-kit), [contributing](../tag/contributing)
+
+----
 
 ###What I want to do
 I want to help users of Public Lab kits understand community research that goes into the kits and lead them back into our research notes and wiki pages.

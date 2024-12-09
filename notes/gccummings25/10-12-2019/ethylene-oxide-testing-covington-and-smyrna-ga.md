@@ -8,11 +8,15 @@ uid: 622597
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/035/683/original/newsEngin.24611199_082019-Sterigenics-CC10.jpg)
+
 # Ethylene Oxide Testing - Covington and Smyrna, GA
 
 by [gccummings25](../profile/gccummings25) October 12, 2019 20:34
 
 October 12, 2019 20:34 | Tags: [georgia](../tag/georgia), [air-quality](../tag/air-quality), [southeast](../tag/southeast), [advocacy](../tag/advocacy), [study-design](../tag/study-design), [community-organizing](../tag/community-organizing), [air-sensors](../tag/air-sensors), [first-time-poster](../tag/first-time-poster), [lat:33.610044](../tag/lat:33.610044), [lon:-83.871222](../tag/lon:-83.871222), [ethylene-oxide](../tag/ethylene-oxide)
+
+----
 
 **Hello all, my name is Grace Kelley (nee Cummings) and I am a graduate student in communications design at Pratt Institute in Brooklyn, NY. I'm doing a project on environmental contamination with a focus on ethylene oxide contamination affecting the communities of Covington, GA and Smyrna, GA.**
 

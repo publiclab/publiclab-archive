@@ -8,10 +8,14 @@ uid: 9
 
 ---
 
+![](https://publiclab.org/sites/default/files/Instrucciones-globo_CI.png)
+
 # Balloon Mapping guide from Santiago, Chile
 
 by [Shannon](../profile/Shannon) July 19, 2011 14:39
 
 July 19, 2011 14:39 | Tags: [guides](../tag/guides), [lang:es](../tag/lang:es)
+
+----
 
 Ciudadano Inteligente created a balloon mapping guide for the work that they are doing with protest mapping in Santiago, Chile. All prices are included in Chilean pesos and materials can be sourced locally.

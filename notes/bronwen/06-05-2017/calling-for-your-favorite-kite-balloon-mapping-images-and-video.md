@@ -8,11 +8,15 @@ uid: 237313
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/020/647/original/IMG_20170528_114504_190.jpg)
+
 # Calling for your favorite Kite/Balloon Mapping images and video!
 
 by [Bronwen](../profile/Bronwen) June 05, 2017 16:49
 
 June 05, 2017 16:49 | Tags: [balloon-mapping](../tag/balloon-mapping), [aerial-photography](../tag/aerial-photography), [kickstarter](../tag/kickstarter), [aerial-mapping](../tag/aerial-mapping), [aerial-photos](../tag/aerial-photos), [autodesk](../tag/autodesk)
+
+----
 
 (above image by @C_Eich in [Union Square, NY](https://publiclab.org/notes/ceich/6-28-2012/pictures-balloon-mapping-union-sq-ny))
 

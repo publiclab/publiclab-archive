@@ -8,11 +8,15 @@ uid: 540008
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/026/430/original/purpleair-device2x_%281%29.jpeg)
+
 # PurpleAir
 
 by [joyofsoy](../profile/joyofsoy), [warren](../profile/warren), [liz](../profile/liz), [jiteovien](../profile/jiteovien)
 
 August 17, 2018 20:02 | Tags: [particulate-sensing](../tag/particulate-sensing), [air-quality](../tag/air-quality), [pm](../tag/pm), [method](../tag/method), [particulate-matter](../tag/particulate-matter), [air-sensors](../tag/air-sensors), [purpleair](../tag/purpleair), [purple-air](../tag/purple-air), [particle-sensor](../tag/particle-sensor)
+
+----
 
 The [PurpleAir](https://www.purpleair.com/) is one of many low cost devices that use laser optical particle counters to estimate particulate matter mass concentrations in air for PM2.5 and PM10. Other similar devices include the [Dustduino](https://publiclab.org/wiki/dustduino), [Speck](https://publiclab.org/notes/chrisbartley/04-15-2014/speck-particle-monitor), [Dylos](http://www.dylosproducts.com/?gclid=Cj0KCQjw5NnbBRDaARIsAJP-YR_IQiQC0876PaQmo6lWAuRPJ5FG3oh65dc7rsf95xSqDd0Wdqrs6OYaAsxtEALw_wcB) and more. The PurpleAir costs around $200 and provides real time air quality data that can be used to understand indoor or outdoor environments and conduct environmental investigations on air quality. 
 
@@ -63,13 +67,13 @@ Everyone, whether or not you own a Purple Air has free access to the Purple Air'
 
 Questions can be either frequently asked questions, or "next step" challenges we're looking to solve.
 
-[questions:purpleair]
+[purpleair](../../tag/question:purpleair)
 
 ## Activities
 
 Activities show how to use this project, step by step.
 
-[activities:purpleair]
+[purpleair](../../tag/activity:purpleair)
 
 
 ## Other things to know about using your Purple Air

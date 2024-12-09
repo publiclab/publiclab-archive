@@ -8,11 +8,15 @@ uid: 43651
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/003/623/original/comparison.png)
+
 # Comparisons: Canons, Mobiuses, 'fruit
 
 by [donblair](../profile/donblair) April 11, 2014 16:01
 
 April 11, 2014 16:01 | Tags: 
+
+----
 
 ###What I want to do
 

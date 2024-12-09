@@ -8,11 +8,15 @@ uid: 461120
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/017/379/original/both_EVOO_samples.png)
+
 # Chemical Analysis For Kirkland (organic) Extra Virgin Olive Oil
 
 by [dhaffnersr](../profile/dhaffnersr) August 05, 2016 16:13
 
 August 05, 2016 16:13 | Tags: [barnstar:basic](../tag/barnstar:basic)
+
+----
 
 ##**Olive Oil Study, using Acetone as primary solvent**
 

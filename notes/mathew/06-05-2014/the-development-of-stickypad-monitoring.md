@@ -8,11 +8,15 @@ uid: 4
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/004/527/original/Screen_Shot_2014-06-04_at_8.39.39_PM.png)
+
 # The development of stickypad monitoring
 
 by [mathew](../profile/mathew) June 05, 2014 03:42
 
 June 05, 2014 03:42 | Tags: [air](../tag/air), [dust](../tag/dust), [silica](../tag/silica), [pm](../tag/pm), [midwest](../tag/midwest), [particle-monitoring](../tag/particle-monitoring), [particulate-monitoring](../tag/particulate-monitoring), [openair](../tag/openair), [passive-pm](../tag/passive-pm), [activity:dust-collection](../tag/activity:dust-collection), [activity:sticky-pad](../tag/activity:sticky-pad)
+
+----
 
 ###What I want to do
 Summarize the development of sticky pads for dust monitoring and collect the published literature on the topic.  I started with a list of three articles gleaned from [Sustainable Aggregates](http://www.sustainableaggregates.com/sourcesofaggregates/landbased/dust/dust_monitoring.htm), a UK industry group. 

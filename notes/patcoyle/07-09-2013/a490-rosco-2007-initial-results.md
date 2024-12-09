@@ -8,11 +8,15 @@ uid: 77
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/000/696/original/IMG_3387.JPG)
+
 # A490 Rosco 2007 initial results
 
 by [patcoyle](../profile/patcoyle) July 09, 2013 22:57
 
 July 09, 2013 22:57 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [infragram](../tag/infragram), [rosco](../tag/rosco)
+
+----
 
 Modified A490 that had been previously converted to NIR and used for dual camera NDVI to the single camera Infragram approach. With the Infragram Kickstarter completed, we will soon have increasing numbers of people using this technique. Needed to get on board, get started with this approach.
 

@@ -14,6 +14,8 @@ by [stevie](../profile/stevie) January 23, 2018 19:30
 
 January 23, 2018 19:30 | Tags: [getting-started](../tag/getting-started), [question:question](../tag/question:question), [onboarding](../tag/onboarding), [community-development](../tag/community-development), [com-dev](../tag/com-dev), [question:onboarding](../tag/question:onboarding)
 
+----
+
 We're always thinking about resources to help people get started on Public Lab. 
 
 This brings out a number of questions:

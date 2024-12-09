@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/011/911/original/FledFlight.jpg)
+
 # Handheld AutoKAP
 
 by [cfastie](../profile/cfastie) October 12, 2015 00:20
 
 October 12, 2015 00:20 | Tags: [vermont](../tag/vermont), [leaffest](../tag/leaffest), [saturnv](../tag/saturnv), [skyshield](../tag/skyshield), [leaffest2015](../tag/leaffest2015), [leaffester](../tag/leaffester), [doccom](../tag/doccom), [response:12288](../tag/response:12288)
+
+----
 
 *Above: Flying the Fled at LEAFFEST. A field reporter for the [LEAFFESTer](http://publiclab.org/notes/warren/10-11-2015/leaffest-2015-day-one-in-photos) captured this moment on Saturday as the Fled kite struggled to fly with the soaring hawk and Don struggled to get the deer poop off of his hand.*  
 

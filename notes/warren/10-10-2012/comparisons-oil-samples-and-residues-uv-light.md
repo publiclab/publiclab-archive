@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/IMG_0907.JPG)
+
 # Comparisons of oil samples and residues in UV light
 
 by [warren](../profile/warren) October 10, 2012 21:08
 
 October 10, 2012 21:08 | Tags: [spectrometer](../tag/spectrometer), [ultraviolet](../tag/ultraviolet), [fluorescence](../tag/fluorescence)
+
+----
 
 More tests of different oil residues (and olive oils) in UV light (from a UV CFL) are yielding some nice images. I'm going to be doing my best to measure spectra of these soon. Above, two different olive oils. Below, in order:
 

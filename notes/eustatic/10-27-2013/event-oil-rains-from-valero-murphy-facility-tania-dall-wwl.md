@@ -8,11 +8,15 @@ uid: 379
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/002/065/original/valero_rain.png)
+
 # [Event] Oil rains from Valero / Murphy facility  Tania Dall / WWL
 
 by [eustatic](../profile/eustatic) October 27, 2013 15:56
 
 October 27, 2013 15:56 | Tags: [gulf-coast](../tag/gulf-coast), [louisiana](../tag/louisiana), [oil](../tag/oil), [flare](../tag/flare), [spill](../tag/spill), [valero](../tag/valero), [ioby](../tag/ioby)
+
+----
 
 ###Hey, this is where we have been monitoring flares
 

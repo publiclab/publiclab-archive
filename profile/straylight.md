@@ -3,6 +3,8 @@ uid: 43047
 created_at: 2013-04-19 03:26:24 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/a10b89c32bb6f3f978be452708ac31e4)
+
 # straylight
 
 Secondary Science Teacher

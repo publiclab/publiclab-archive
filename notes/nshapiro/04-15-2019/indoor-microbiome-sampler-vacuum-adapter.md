@@ -8,11 +8,15 @@ uid: 380298
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/031/505/original/title_image.png)
+
 # Indoor microbiome sampler (vacuum adapter)
 
 by [nshapiro](../profile/nshapiro) April 15, 2019 00:10
 
 April 15, 2019 00:10 | Tags: [3d-printing](../tag/3d-printing), [indoor](../tag/indoor), [low-cost](../tag/low-cost), [indoor-air-quality](../tag/indoor-air-quality), [with:haines241](../tag/with:haines241), [microbiome](../tag/microbiome)
+
+----
 
 **Indoor microbiome sampler (vacuum adapter)**
 

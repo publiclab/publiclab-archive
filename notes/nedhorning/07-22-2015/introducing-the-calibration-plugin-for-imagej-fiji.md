@@ -8,11 +8,15 @@ uid: 133
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/010/855/original/Screenshot.png)
+
 # Introducing the calibration plugin for ImageJ/Fiji
 
 by [nedhorning](../profile/nedhorning) July 22, 2015 21:47
 
 July 22, 2015 21:47 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [imagej](../tag/imagej), [infragram](../tag/infragram), [infrared-photography](../tag/infrared-photography), [response:12021](../tag/response:12021), [ndvi-calibrate](../tag/ndvi-calibrate), [midopt](../tag/midopt), [activity:infragram](../tag/activity:infragram), [location:blurred](../tag/location:blurred), [activity:photo-monitoring-plugin](../tag/activity:photo-monitoring-plugin), [lat:41.449](../tag/lat:41.449), [lon:31.76](../tag/lon:31.76)
+
+----
 
 Last month I wrote a research note (http://publiclab.org/notes/nedhorning/06-30-2015/automating-ndvi-calibration) about progress made toward automating the calibration of digital photos for the purpose of creating NDVI images. This note reports on the next step which was to write an ImageJ/Fiji plugin to make this method more accessible. 
 

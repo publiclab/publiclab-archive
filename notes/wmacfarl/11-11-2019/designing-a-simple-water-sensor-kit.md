@@ -8,11 +8,15 @@ uid: 424597
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/036/313/original/IMG_20191110_151320.jpg)
+
 # Designing a Simple Water Sensor Kit
 
 by [wmacfarl](../profile/wmacfarl) November 10, 2019 23:12
 
 November 10, 2019 23:12 | Tags: [arduino](../tag/arduino), [sensors](../tag/sensors), [water-quality](../tag/water-quality), [oil-and-gas-water-trio](../tag/oil-and-gas-water-trio), [simple-water-sensor-platform](../tag/simple-water-sensor-platform)
+
+----
 
 This is a research note describing some of the thinking involved in designing a prototype "Simple Water Sensor" kit along similar lines as the [Simple Air Sensor](https://publiclab.org/wiki/simple-air-sensor).
 

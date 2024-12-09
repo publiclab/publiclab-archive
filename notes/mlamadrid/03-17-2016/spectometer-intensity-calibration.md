@@ -8,11 +8,15 @@ uid: 45586
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/015/117/original/IMG_20150407_150745.jpg)
+
 # Oil Test Kit Beta Program - Data Analysis
 
 by [mlamadrid](../profile/mlamadrid) March 17, 2016 04:02
 
 March 17, 2016 04:02 | Tags: [spectrometer](../tag/spectrometer), [oil-testing-kit](../tag/oil-testing-kit), [with:ygzstc](../tag/with:ygzstc)
+
+----
 
 This is an article by **Yagiz Sutcu** for [Community Science Forum Issue #1 on DYI Oil Testing](https://publiclab.org/forum). Buy a copy in the Public Lab Store.
 

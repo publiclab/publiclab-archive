@@ -8,11 +8,15 @@ uid: 818333
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/047/277/original/frontend.JPG)
+
 # Outreachy Proposal: Improve MapKnitter Lite for mapmaking with aerial photos as a lightweight web service.
 
 by [danbadannatacha](../profile/danbadannatacha) November 03, 2022 02:24
 
 November 03, 2022 02:24 | Tags: [software](../tag/software), [outreachy](../tag/outreachy), [first-time-poster](../tag/first-time-poster), [zoom:6](../tag/zoom:6), [outreachy-2022](../tag/outreachy-2022), [outreachy-winter-2022](../tag/outreachy-winter-2022), [lat:9.730714](../tag/lat:9.730714), [lon:8.195493](../tag/lon:8.195493)
+
+----
 
 ---------
 

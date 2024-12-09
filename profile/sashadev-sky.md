@@ -3,6 +3,8 @@ uid: 555321
 created_at: 2018-10-18 00:02:10 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/1172c8f4a49f744bfa3127a4256a3a51)
+
 # sashadev-sky
 
 An energetic programmer's platform for problem-solving and creative expression using Rails, JavaScript, and React.

@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/016/176/original/Screenshot_2016-05-13_at_3.33.26_PM.png)
+
 # Progress and thoughts on the new Rich Editor project, and a preview
 
 by [warren](../profile/warren) May 13, 2016 19:39
 
 May 13, 2016 19:39 | Tags: [website](../tag/website), [software](../tag/software), [web](../tag/web), [developers](../tag/developers), [coding](../tag/coding), [wwg](../tag/wwg), [rich-editor](../tag/rich-editor), [wysiwyg](../tag/wysiwyg)
+
+----
 
 As you [may have heard][1], we're writing a new editor for PublicLab.org -- in fact, I'm using an early prototype of it to write this post. Why are we writing a new library? For a few reasons:
 

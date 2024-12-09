@@ -14,6 +14,8 @@ by [Bronwen](../profile/Bronwen) June 26, 2018 17:16
 
 June 26, 2018 17:16 | Tags: [disaster-preparedness](../tag/disaster-preparedness), [kits](../tag/kits), [tools](../tag/tools), [question:question](../tag/question:question), [disaster-response](../tag/disaster-response), [disaster-resilience](../tag/disaster-resilience), [disaster-recovery](../tag/disaster-recovery), [emergency](../tag/emergency), [question:disaster-response](../tag/question:disaster-response), [crisis](../tag/crisis), [question:crisis-convening](../tag/question:crisis-convening), [question:barnraising-texas](../tag/question:barnraising-texas), [question:texas-barnraising](../tag/question:texas-barnraising)
 
+----
+
 As we get ready for this July's Barnraising and Crisis Convening, I'm wondering what kinds of tools people have found valuable to have on hand in the hours, days and weeks after a crisis or emergency: specifically one where there is an urgent need to respond to or document environmental threats.   
 
   

@@ -8,11 +8,15 @@ uid: 475993
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/019/149/original/brita.png)
+
 # 破解Brita净水壶滤芯
 
 by [Shizi](../profile/Shizi) December 28, 2016 10:09
 
 December 28, 2016 10:09 | Tags: 
+
+----
 
 **材料：**
 

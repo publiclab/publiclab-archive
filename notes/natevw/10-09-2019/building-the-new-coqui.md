@@ -14,6 +14,8 @@ by [natevw](../profile/natevw) October 09, 2019 23:25
 
 October 09, 2019 23:25 | Tags: [water-quality](../tag/water-quality), [conductivity](../tag/conductivity), [coqui](../tag/coqui), [activity:coqui](../tag/activity:coqui), [sound](../tag/sound), [pin:activity:coqui](../tag/pin:activity:coqui), [activity:one-cranston](../tag/activity:one-cranston), [replication:18313](../tag/replication:18313)
 
+----
+
 ### How the activity went
 
 > I was hoping my 7yo would be able to assemble this kit, but we found it hard to keep up with the livestream and I ended up finishing it for him.

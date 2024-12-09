@@ -14,6 +14,8 @@ by [dariusjack](../profile/dariusjack) November 09, 2020 13:15
 
 November 09, 2020 13:15 | Tags: [infragram](../tag/infragram), [question:infragram](../tag/question:infragram), [first-time-poster](../tag/first-time-poster)
 
+----
+
 Hi,  
 Is there any correlation between Infragram, IR and Thermographic images ?  
   

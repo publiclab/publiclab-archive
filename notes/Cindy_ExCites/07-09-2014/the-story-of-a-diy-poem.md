@@ -8,11 +8,15 @@ uid: 1083
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/005/185/original/poem_by_allan_andre.jpg)
+
 # The story of a DIY poem
 
 by [cindy_excites](../profile/cindy_excites) July 09, 2014 11:14
 
 July 09, 2014 11:14 | Tags: [politics](../tag/politics), [barnstar:empiricism](../tag/barnstar:empiricism), [poem](../tag/poem)
+
+----
 
 I never got to the deliver this 'poem'/recital because the event at the Design Museum was cancelled but I thought I'd share it with you all:
 - - - - - - - - - - -

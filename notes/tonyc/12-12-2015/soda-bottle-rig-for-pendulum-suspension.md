@@ -8,11 +8,15 @@ uid: 447491
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/013/282/original/IMG_3567.JPG)
+
 # soda bottle rig for pendulum suspension
 
 by [tonyc](../profile/tonyc) December 12, 2015 00:05
 
 December 12, 2015 00:05 | Tags: [diy-mount-kit](../tag/diy-mount-kit)
+
+----
 
 ###What I want to do
 

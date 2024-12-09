@@ -3,6 +3,8 @@ uid: 432708
 created_at: 2014-12-14 18:46:24 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/b09ea9ca15b367241cee42ee4a58eb65)
+
 # klrussell
 
 

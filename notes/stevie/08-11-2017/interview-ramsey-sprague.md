@@ -8,11 +8,15 @@ uid: 422561
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/025/380/original/Ramsey.jpeg)
+
 # Interview: Ramsey Sprague
 
 by [stevie](../profile/stevie) August 11, 2017 20:45
 
 August 11, 2017 20:45 | Tags: [interview](../tag/interview), [mobile](../tag/mobile), [blog](../tag/blog), [grassroots](../tag/grassroots), [environmental-justice](../tag/environmental-justice), [community-organizing](../tag/community-organizing), [interview-series](../tag/interview-series), [mejac](../tag/mejac), [africatown](../tag/africatown), [alabama](../tag/alabama), [series:community-interviews](../tag/series:community-interviews)
+
+----
 
 The lead image is of Ramsey and taken by [Weenta Girmay](http://www.weenta.com/) and was from a publication Medium by [350.org](http://350.org) called "[From the Bayou to the Bay: Voices of Gulf Resistance](https://medium.com/@350/from-the-bayou-to-the-bay-voices-from-the-gulf-f6707c7ecff3)"
 

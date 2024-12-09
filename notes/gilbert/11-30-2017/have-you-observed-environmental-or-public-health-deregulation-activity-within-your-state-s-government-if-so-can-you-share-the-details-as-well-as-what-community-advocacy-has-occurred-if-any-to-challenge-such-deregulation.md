@@ -14,4 +14,6 @@ by [gilbert](../profile/gilbert) November 30, 2017 21:08
 
 November 30, 2017 21:08 | Tags: [state-regulations](../tag/state-regulations), [environmental-legislation](../tag/environmental-legislation), [public-health-laws](../tag/public-health-laws), [deregulation](../tag/deregulation)
 
+----
+
 In order to put this question in proper context, please see: Presidential Contributions to Public Health & the Environment [https://publiclab.org/notes/gilbert/11-29-2017/chronology-presidential-contributions-to-public-health-the-environment](https://publiclab.org/notes/gilbert/11-29-2017/chronology-presidential-contributions-to-public-health-the-environment)

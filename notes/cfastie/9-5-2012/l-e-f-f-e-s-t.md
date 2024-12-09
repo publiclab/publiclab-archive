@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/sites/default/files/leaffestcover.jpg)
+
 # L E A F F E S T
 
 by [cfastie](../profile/cfastie) September 05, 2012 14:29
 
 September 05, 2012 14:29 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [events](../tag/events), [meetup](../tag/meetup), [leaffest](../tag/leaffest), [event](../tag/event)
+
+----
 
 <strong>Low Elevation Aerial Flights For Earth Sensing Technology</strong>
 

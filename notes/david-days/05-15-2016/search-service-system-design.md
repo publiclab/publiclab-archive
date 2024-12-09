@@ -8,11 +8,15 @@ uid: 468341
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/016/192/original/GSoC_Search_Project_Goal.png)
+
 # Search Service System Design
 
 by [david-days](../profile/david-days) May 15, 2016 01:41
 
 May 15, 2016 01:41 | Tags: [plots2](../tag/plots2), [search](../tag/search), [gsoc](../tag/gsoc), [indexing](../tag/indexing), [rich-search](../tag/rich-search)
+
+----
 
 #### Purpose
 

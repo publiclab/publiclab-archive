@@ -14,6 +14,8 @@ by [Ag8n](../profile/Ag8n) February 12, 2018 00:48
 
 February 12, 2018 00:48 | Tags: [question](../tag/question), [water-quality](../tag/water-quality), [water-quality-sensor](../tag/water-quality-sensor), [conductivity](../tag/conductivity), [tools](../tag/tools), [answered](../tag/answered), [question:data-logging](../tag/question:data-logging), [question:water-sensors](../tag/question:water-sensors), [water-sensors](../tag/water-sensors), [tds](../tag/tds), [question:conductivity](../tag/question:conductivity), [question:tds](../tag/question:tds), [aquarium](../tag/aquarium)
 
+----
+
 Is there a reason why an aquarium type TDS ( Total Dissolved Solids ) meter couldn't be substituted for a conductivity meter?  
 
   

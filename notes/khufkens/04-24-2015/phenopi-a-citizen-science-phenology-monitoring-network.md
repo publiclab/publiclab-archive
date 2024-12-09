@@ -8,11 +8,15 @@ uid: 438931
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/009/687/original/Screen_Shot_2015-04-23_at_21.03.23.png)
+
 # PhenoPi: a citizen science phenology monitoring network
 
 by [khufkens](../profile/khufkens) April 24, 2015 02:03
 
 April 24, 2015 02:03 | Tags: [science](../tag/science), [vegetation](../tag/vegetation), [phenopi](../tag/phenopi), [phenology](../tag/phenology), [growth](../tag/growth), [citizen](../tag/citizen), [first-time-poster](../tag/first-time-poster)
+
+----
 
 This project needs some context, so here goes...
 

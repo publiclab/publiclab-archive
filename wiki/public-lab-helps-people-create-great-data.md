@@ -14,6 +14,8 @@ by [liz](../profile/liz), [mollydanielsson](../profile/mollydanielsson)
 
 January 16, 2013 20:56 | Tags: [website](../tag/website), [plots2](../tag/plots2), [wintercamp](../tag/wintercamp)
 
+----
+
 <a href="https://www.flickr.com/photos/recordandremember/8372576206/" title="IMG_3967 by Shannon Dosemagen, on Flickr"><img src="https://farm9.staticflickr.com/8093/8372576206_165f8330fe.jpg" width="375" height="500" alt="IMG_3967"></a>
 
 ###The Public Lab process is###

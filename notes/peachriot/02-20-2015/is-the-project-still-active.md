@@ -14,6 +14,8 @@ by [peachriot](../profile/peachriot) February 20, 2015 18:36
 
 February 20, 2015 18:36 | Tags: [environmental-estrogen-testing](../tag/environmental-estrogen-testing), [estrogen](../tag/estrogen), [question:environmental-estrogen-testing](../tag/question:environmental-estrogen-testing)
 
+----
+
 Hi all,
 
 I’m a Brooklyn-based artist, designer and researcher currently pursuing my masters at NYU’s Interactive Telecommunications Program (http://itp.nyu.edu/itp/).

@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/001/865/original/Picture_2.png)
+
 # Improvements to SpectralWorkbench.org and PublicLab.org
 
 by [warren](../profile/warren) October 10, 2013 18:44
 
 October 10, 2013 18:44 | Tags: [website](../tag/website), [spectralworkbench](../tag/spectralworkbench), [plots2](../tag/plots2)
+
+----
 
 Quick roundup of new features and improvements:
 

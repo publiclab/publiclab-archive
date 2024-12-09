@@ -14,6 +14,8 @@ by [stevie](../profile/stevie), [warren](../profile/warren), [mimibell](../profi
 
 June 03, 2016 20:49 | Tags: [water](../tag/water), [flood](../tag/flood), [stormwater](../tag/stormwater), [openwater](../tag/openwater), [coqui](../tag/coqui), [depth](../tag/depth), [flooding](../tag/flooding), [parent:stormwater](../tag/parent:stormwater), [parent:gulf-coast](../tag/parent:gulf-coast), [harvey](../tag/harvey)
 
+----
+
 ### About the Flooding Issue
 
 The issue of flooding goes beyond hurricanes for those who live in the greater New Orleans area. Many people are familiar with the term that “New Orleans is a bowl,” but to understand how or why our geology, topography, climate, and infrastructure is this way, what you really need to know is that New Orleans was built on a swamp and that swamp is sinking, leaving about half of the city below sea level. This means that every bit of water that falls on this city and is not absorbed into the ground needs to be pumped out. Physically Pumped Out. When rain falls, an extensive infrastructure of storm drains, catchment basins and pumps go to work to get that water out of the city. Located in the subtropics, New Orleans experiences strong thunderstorms many times during the year; when water falls faster than the infrastructure can handle, or the system breaks down in an area (or all over), we get flooding. 

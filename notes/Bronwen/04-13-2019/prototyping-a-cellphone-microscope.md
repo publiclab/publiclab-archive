@@ -8,11 +8,15 @@ uid: 237313
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/031/482/original/IMG_5196.JPG)
+
 # Prototyping A Cellphone Microscope
 
 by [Bronwen](../profile/Bronwen) April 13, 2019 14:20
 
 April 13, 2019 14:20 | Tags: [kits](../tag/kits), [water-quality](../tag/water-quality), [prototyping](../tag/prototyping), [prototyping-kit](../tag/prototyping-kit), [community-kits](../tag/community-kits), [community-microscope](../tag/community-microscope), [lat:40.660203](../tag/lat:40.660203), [lon:-73.968955](../tag/lon:-73.968955), [cellphone-microscope](../tag/cellphone-microscope)
+
+----
 
 #### Project/Goals
 

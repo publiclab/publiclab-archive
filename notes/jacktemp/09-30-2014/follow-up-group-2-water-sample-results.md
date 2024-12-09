@@ -8,11 +8,15 @@ uid: 428016
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/007/138/original/unnamed.jpg)
+
 # Follow up — Group 2 Water Sample Results
 
 by [jacktemp](../profile/jacktemp) September 30, 2014 20:44
 
 September 30, 2014 20:44 | Tags: [water-quality](../tag/water-quality), [conductivity](../tag/conductivity), [open-water](../tag/open-water), [coqui](../tag/coqui), [emerson](../tag/emerson), [parent:coqui](../tag/parent:coqui)
+
+----
 
 **Group 2 — Results**
 

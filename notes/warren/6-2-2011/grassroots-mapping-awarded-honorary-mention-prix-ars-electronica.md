@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/prix-ars.png)
+
 # Grassroots Mapping awarded Honorary Mention at Prix Ars Electronica
 
 by [warren](../profile/warren) June 03, 2011 00:49
 
 June 03, 2011 00:49 | Tags: [media](../tag/media), [award](../tag/award)
+
+----
 
 The Grassroots Mapping project was recently awarded an Honorary Mention at the 2011 Prix Ars Electronica:
 

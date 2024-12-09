@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/sites/default/files/wea01168.jpg)
+
 # Historical "air column monitor"
 
 by [liz](../profile/liz) January 31, 2013 23:04
 
 January 31, 2013 23:04 | Tags: [air-column-monitor](../tag/air-column-monitor)
+
+----
 
 from <a href="http://www.photolib.noaa.gov/htmls/wea01168.htm"</a>
 

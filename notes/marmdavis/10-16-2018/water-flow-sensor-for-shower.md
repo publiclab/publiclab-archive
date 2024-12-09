@@ -14,6 +14,8 @@ by [marmdavis](../profile/marmdavis) October 16, 2018 04:44
 
 October 16, 2018 04:44 | Tags: [question](../tag/question), [logger](../tag/logger), [water-sensors](../tag/water-sensors), [water-sensor](../tag/water-sensor), [shower-timer](../tag/shower-timer)
 
+----
+
 Last year, my iCons team at UMass conducted an experiment with the goal of trying to reduce students' shower times. We built a device that displayed time and water consumption that the students would use in the shower and have to manually press start and stop buttons. Through the conscious behavior of physically pressing the buttons and watching their water consumption go up, we found that we were able to reduce shower duration by about 40%. 
 
   

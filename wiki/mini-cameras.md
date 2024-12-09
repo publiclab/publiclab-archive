@@ -14,6 +14,8 @@ by [warren](../profile/warren)
 
 May 14, 2019 18:17 | Tags: [infragram](../tag/infragram), [gopro](../tag/gopro), [mini-camera](../tag/mini-camera), [gitup](../tag/gitup)
 
+----
+
 This page collects resources related to the recent wave of #GoPro -like mini cameras that often have features like:
 
 * waterproof and impact-resistant cases
@@ -36,11 +38,11 @@ We also strongly recommend #pi-camera options based on the Raspberry Pi camera, 
 
 ## Questions
 
-[questions:mini-camera]
+[mini-camera](../../tag/question:mini-camera)
 
 ****
 
 ## Activities
 
-[notes:grid:activity:mini-camera]
+[grid:activity:mini-camera](../../tag/grid:activity:mini-camera)
 

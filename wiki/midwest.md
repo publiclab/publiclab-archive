@@ -14,6 +14,8 @@ by [stevie](../profile/stevie), [sara](../profile/sara), [mathew](../profile/mat
 
 May 02, 2014 16:18 | Tags: [tabbed:notes](../tag/tabbed:notes), [tabbed:wikis](../tag/tabbed:wikis), [list:publiclab-midwest](../tag/list:publiclab-midwest), [events:midwest](../tag/events:midwest), [region](../tag/region), [mid-west](../tag/mid-west)
 
+----
+
 This is a regional page for the Public Lab Community in the midwestern United States and Canada. North Dakota, South Dakota, Nebraska, Oklahoma, Minnesota, Iowa, Missouri, Wisconsin, Illinois, Indiana, Michigan, Ohio.
 
 ###Organizers in the Midwest

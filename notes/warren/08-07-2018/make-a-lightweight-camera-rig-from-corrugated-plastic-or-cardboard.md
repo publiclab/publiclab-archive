@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/026/101/original/IMG_20180804_232012_414.jpg)
+
 # Make a lightweight camera rig from corrugated plastic or cardboard
 
 by [warren](../profile/warren) August 07, 2018 15:47
 
 August 07, 2018 15:47 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [photo-rig](../tag/photo-rig), [gopro](../tag/gopro), [camera-rig](../tag/camera-rig), [mobius](../tag/mobius), [seeks:replications](../tag/seeks:replications), [activity:camera-rigs](../tag/activity:camera-rigs), [activity:photo-rig](../tag/activity:photo-rig), [activity:camera-rig](../tag/activity:camera-rig), [activity:mobius](../tag/activity:mobius), [location:blurred](../tag/location:blurred), [lat:41.8](../tag/lat:41.8), [lon:-71.4](../tag/lon:-71.4), [place:ri-02905-united-states](../tag/place:ri-02905-united-states)
+
+----
 
 When [kite mapping](/kite-mapping) with mini cameras, #gopro or #mobius cameras, I like to use a really lightweight and portable camera holding system, and I recently made some prototypes, shown above. 
 

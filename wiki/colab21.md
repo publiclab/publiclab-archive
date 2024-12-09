@@ -14,4 +14,6 @@ by [bicudo](../profile/bicudo)
 
 August 22, 2013 14:53 | Tags: [crowd-sourcing](../tag/crowd-sourcing), [collaboration](../tag/collaboration), [skillshare](../tag/skillshare), [wiki](../tag/wiki), [cocreation](../tag/cocreation)
 
+----
+
 https://www.facebook.com/coLab21

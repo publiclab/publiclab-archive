@@ -8,11 +8,15 @@ uid: 422561
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/032/367/original/20190520_143403.jpg)
+
 # Exploring with the Simple Air Sensor
 
 by [stevie](../profile/stevie) May 20, 2019 20:44
 
 May 20, 2019 20:44 | Tags: [sensors](../tag/sensors), [pm](../tag/pm), [barnstar:basic](../tag/barnstar:basic), [sensor](../tag/sensor), [category:test-limits](../tag/category:test-limits), [time:1h](../tag/time:1h), [particulate-matter](../tag/particulate-matter), [simple-air-sensor](../tag/simple-air-sensor), [activity:simple-air-sensor](../tag/activity:simple-air-sensor)
+
+----
 
 There's a group in Wisconsin who have been using the Simple Air Sensor to demo how particulate matter sensors work. I recently heard they've hit a couple learning moments with the tool. Professor Crispin Pierce told me: 
 

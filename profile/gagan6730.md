@@ -3,6 +3,8 @@ uid: 606384
 created_at: 2019-07-24 04:49:03 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/606384/medium/gagan.jpg)
+
 # gagan6730
 
 I am a Delhite currently pursuing Computer Science from IIIT Delhi. I’m interested in using data-driven techniques to build intuitive, intelligent systems, especially Technology for Social Good.

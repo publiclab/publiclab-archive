@@ -14,6 +14,8 @@ by [JWL](../profile/JWL) December 04, 2014 20:48
 
 December 04, 2014 20:48 | Tags: [heavy-metals](../tag/heavy-metals), [question:heavy-metals](../tag/question:heavy-metals)
 
+----
+
 Hi all,
 
 any ideas on a pratical method for detecting heavy metals in plants such as grass or maize? I would like to use (aerial) photo's instead of measuring each plant separately.

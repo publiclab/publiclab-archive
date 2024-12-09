@@ -14,6 +14,8 @@ by [warren](../profile/warren) April 17, 2019 20:30
 
 April 17, 2019 20:30 | Tags: [calibration](../tag/calibration), [cd](../tag/cd), [dvd](../tag/dvd), [blu-ray](../tag/blu-ray), [microscope](../tag/microscope), [microscopes](../tag/microscopes), [question:microscope](../tag/question:microscope), [question:microscopes](../tag/question:microscopes), [question:basic-microscope](../tag/question:basic-microscope), [scale](../tag/scale), [community-microscope](../tag/community-microscope), [question:community-microscope](../tag/question:community-microscope), [cd-rom](../tag/cd-rom), [dvd-r](../tag/dvd-r), [optical-disc](../tag/optical-disc), [micrometer](../tag/micrometer)
 
+----
+
 Micrometers, or microscopic rulers, are a little expensive; something like $15 each. But they're really helpful for measuring the scale of (i.e. calibrating) a microscope, as in these activities:
 
 - [https://publiclab.org/notes/partsandcrafts/02-26-2018/5-testing-and-calibrating-your-microscope](https://publiclab.org/notes/partsandcrafts/02-26-2018/5-testing-and-calibrating-your-microscope "https://publiclab.org/notes/partsandcrafts/02-26-2018/5-testing-and-calibrating-your-microscope")

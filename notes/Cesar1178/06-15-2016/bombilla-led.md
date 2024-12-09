@@ -8,11 +8,15 @@ uid: 479097
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/016/648/original/image.jpg)
+
 # Bombilla led
 
 by [Cesar1178](../profile/Cesar1178) June 15, 2016 15:31
 
 June 15, 2016 15:31 | Tags: 
+
+----
 
 ###What I want to do
 

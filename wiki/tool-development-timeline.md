@@ -14,6 +14,8 @@ by [sara](../profile/sara), [warren](../profile/warren)
 
 May 14, 2012 20:27 | Tags: 
 
+----
+
 This is an attempt to chart the development of a Public Lab tool in general terms. Some people have also volunteered to explore and expand on these stages in longer articles; their names are listed below.
 
 Many steps may occur earlier or later; we're just trying to better understand them and get better at the process. Feel free to add/revise:

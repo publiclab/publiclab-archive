@@ -8,11 +8,15 @@ uid: 451398
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/018/764/original/Banner_Barnraising2016_for_Landfill_Peeps.jpg)
+
 # Barnraising 2016 at LUMCON: Resources for Landfill Researchers
 
 by [sarasage](../profile/sarasage) November 11, 2016 05:38
 
 November 11, 2016 05:38 | Tags: [landfill](../tag/landfill), [workshop](../tag/workshop), [barnraising](../tag/barnraising), [organizers](../tag/organizers), [dust](../tag/dust), [pm](../tag/pm), [particulate-monitoring](../tag/particulate-monitoring), [passive-particle-monitors](../tag/passive-particle-monitors), [landfills](../tag/landfills), [barnraising-2016](../tag/barnraising-2016), [particulate-matter](../tag/particulate-matter), [location:blurred](../tag/location:blurred), [lat:29.24](../tag/lat:29.24), [lon:-90.66](../tag/lon:-90.66), [place:cocodrie-la-usa](../tag/place:cocodrie-la-usa)
+
+----
 
 ###Barnraising for Trashy People
 

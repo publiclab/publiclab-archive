@@ -14,4 +14,6 @@ by [caguldi03](../profile/caguldi03) February 12, 2018 16:34
 
 February 12, 2018 16:34 | Tags: [barnraising](../tag/barnraising), [texas](../tag/texas), [question:general](../tag/question:general), [question:barnraising](../tag/question:barnraising)
 
+----
+
 In North Texas we have a number of groups that are exploring air monitoring but are not connected to PublicLab. I heard that you are planning a barn raising in Texas. I'd love to know more and spread the word here, but I do not see anything like that on your site. But then I have difficulty navigating the site. Maybe I am missing it.

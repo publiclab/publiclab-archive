@@ -14,6 +14,8 @@ by [cindy_excites](../profile/cindy_excites) August 03, 2012 21:50
 
 August 03, 2012 21:50 | Tags: [london](../tag/london), [citizen-science](../tag/citizen-science), [grassroots-science](../tag/grassroots-science), [diy](../tag/diy), [ucl](../tag/ucl), [uk](../tag/uk), [excites](../tag/excites), [civic-science](../tag/civic-science), [first-time-poster](../tag/first-time-poster)
 
+----
+
 Science Has No Borders is an Inclusion Award 2012 funded initiative. Keeping true to the objectives of the UCL Inclusion Award, the initiative sets out to engage people who are usually not involved in research to start their own civic science project. In the spirit of the PLOTS manifesto, it aims at engaging people not as passive participants but as ‘community researchers’ who investigate an issue of concern to them by building and using their own investigative tools to answer different questions about their social, natural and built environment. The approach is to employ DIY sensing and mapping techniques that can be easily build from locally sourced materials together with methods which enable anyone to collect good quality data, work together to analyse the information gathered and then chose how to act on it.
 
 Science Has No Borders is based on the concepts of Extreme Citizen Science (ExCiteS) and Civic Science. Extreme Citizen Science is a series of methodologies and techniques that will allow any community to initiate and run scientific research; it is science by citizens where people take ownership of issues of concern to them by creating and sharing knowledge in a collaborative environment. Civic Science, as defined by PLOTS, refers to a science that questions the state of things to create and enrich our knowledge of the world from a bottom-up approach.

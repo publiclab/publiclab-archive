@@ -8,11 +8,15 @@ uid: 518193
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/046/705/original/Screen_Shot_2022-05-26_at_11.14.18_PM.png)
+
 # Event: Messages from the Mississippi Student Art Exhibition
 
 by [a1ahna](../profile/a1ahna) May 27, 2022 03:59
 
 May 27, 2022 03:59 | Tags: [education](../tag/education), [event](../tag/event), [water-quality](../tag/water-quality), [pollution](../tag/pollution), [water](../tag/water), [community-science](../tag/community-science), [microplastics](../tag/microplastics), [community-microscope](../tag/community-microscope), [babylegs](../tag/babylegs), [plastic](../tag/plastic), [zoom:6](../tag/zoom:6), [zoom:16](../tag/zoom:16), [student-work](../tag/student-work), [field-work](../tag/field-work), [lat:29.998428](../tag/lat:29.998428), [lon:-90.152842](../tag/lon:-90.152842), [lat:29.99842](../tag/lat:29.99842), [lon:-90.15285](../tag/lon:-90.15285)
+
+----
 
 ![drawing of students using babylegs trawl in waterway][1]
 ## 🥤 Project overview

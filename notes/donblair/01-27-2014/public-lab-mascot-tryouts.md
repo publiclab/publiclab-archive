@@ -8,11 +8,15 @@ uid: 43651
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/002/676/original/Public_Lab_Mascot_Tryouts.png)
+
 # Public Lab Mascot Tryouts
 
 by [donblair](../profile/donblair) January 27, 2014 04:39
 
 January 27, 2014 04:39 | Tags: 
+
+----
 
 ###What I want to do
 

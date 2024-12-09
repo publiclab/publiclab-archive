@@ -8,11 +8,15 @@ uid: 700923
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/043/784/original/VVAMP.jpg)
+
 # VVAMP
 
 by [denissebn_06](../profile/denissebn_06), [amocorro](../profile/amocorro)
 
 April 22, 2021 20:18 | Tags: [landfill](../tag/landfill), [air-quality](../tag/air-quality), [lang:es](../tag/lang:es), [pm](../tag/pm), [land-use](../tag/land-use), [air-monitoring](../tag/air-monitoring), [particulate-matter](../tag/particulate-matter), [project](../tag/project), [bucket](../tag/bucket), [air-quality-projects](../tag/air-quality-projects), [project:featured](../tag/project:featured), [VVAMP](../tag/VVAMP), [prompt:vvamp](../tag/prompt:vvamp), [questions:vvamp](../tag/questions:vvamp)
+
+----
 
 Here you will find everything related to Val Verde Air Monitoring Program in California. 
 Acá encontrarás todo lo relacionado con el programa de monitoreo de aire de Val Verde, California (VVAMP). 
@@ -84,13 +88,13 @@ These devices are really easy to use from personal experience once they are read
 Interested in following along with the project? Subscribe to the tag below to get updates when the team posts new material directly to your inbox.
 
 <a class="btn btn-large btn-primary" href="https://publiclab.org/subscribe/tag/VVAMP">Subscribe to updates on this project </a>
-[notes:VVAMP] 
+[VVAMP](../../tag/VVAMP) 
 
 
 ### Questions
 
 Frequently Asked Questions area:
-[questions:VVAMP] 
+[VVAMP](../../tag/question:VVAMP) 
 
 
 ****
@@ -212,11 +216,11 @@ Estos dispositivos son fáciles de usar por nuestra experiencia personal cuando 
 ¿Interesado en seguir nuestros avances del proyecto? Suscríbete en cuadro azul para obtener notificaciones cuando el equipo postee materia. <br>  
 <a class="btn btn-large btn-primary" href="https://publiclab.org/subscribe/tag/VVAMP">Subscribe to updates on this project </a>
 
- [notes:VVAMP] 
+ [VVAMP](../../tag/VVAMP) 
 
 ###Preguntas
 
- [questions:VVAMP] 
+ [VVAMP](../../tag/question:VVAMP) 
 
 ###Cronología
 

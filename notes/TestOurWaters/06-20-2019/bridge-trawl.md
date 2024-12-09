@@ -8,11 +8,15 @@ uid: 597615
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/033/058/original/FP8G9N1ITT03QO7.LARGE.jpg)
+
 # Bridge Trawl
 
 by [TestOurWaters](../profile/TestOurWaters) June 20, 2019 17:29
 
 June 20, 2019 17:29 | Tags: [water-quality](../tag/water-quality), [micro-plastics](../tag/micro-plastics), [microplastics](../tag/microplastics), [plastics](../tag/plastics), [trawl](../tag/trawl), [oceans](../tag/oceans), [activity:microplastics](../tag/activity:microplastics)
+
+----
 
 # The Trawl
 

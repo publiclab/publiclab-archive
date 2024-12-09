@@ -14,6 +14,8 @@ by [ayu_puri](../profile/ayu_puri) November 20, 2016 06:25
 
 November 20, 2016 06:25 | Tags: [question:generalndvi](../tag/question:generalndvi)
 
+----
+
 I do some research about NDVI (image processing) use camera mobius with red filter. 
 for image processing, i'm using visual studio c#. i'm confused with my image proccesing, image in c# have 3 layers.
 

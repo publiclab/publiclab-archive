@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/gmf_0_0.png)
+
 # Introducing the Grassroots Mapping Forum - a printed map journal
 
 by [warren](../profile/warren) July 07, 2011 22:03
 
 July 07, 2011 22:03 | Tags: 
+
+----
 
 Hello mappers etc!
 

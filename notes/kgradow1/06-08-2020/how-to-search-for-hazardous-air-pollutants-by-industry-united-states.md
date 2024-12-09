@@ -8,11 +8,15 @@ uid: 297929
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/039/719/original/Smokestack_in_Detroit_Wikipedia_Commons_%281%29.jpg)
+
 # How to search the EPA website for air pollutants by industry
 
 by [kgradow1](../profile/kgradow1) June 08, 2020 21:36
 
 June 08, 2020 21:36 | Tags: [epa](../tag/epa), [air-quality](../tag/air-quality), [bucket-brigade](../tag/bucket-brigade), [new](../tag/new), [draft](../tag/draft), [air-sampling](../tag/air-sampling), [air-sensors](../tag/air-sensors), [activity:new](../tag/activity:new), [lat:42](../tag/lat:42), [lon:-70](../tag/lon:-70), [zoom:6](../tag/zoom:6), [bucket-monitor](../tag/bucket-monitor), [activity:air-sampling](../tag/activity:air-sampling)
+
+----
 
 ## Purpose
 

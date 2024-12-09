@@ -14,6 +14,8 @@ by [aayushgupta1](../profile/aayushgupta1) March 21, 2017 10:18
 
 March 21, 2017 10:18 | Tags: [gsoc](../tag/gsoc), [gsoc-2017](../tag/gsoc-2017), [soc](../tag/soc), [soc-2017](../tag/soc-2017), [rgsoc-2017](../tag/rgsoc-2017), [response:13975](../tag/response:13975), [gsoc-2017-proposals](../tag/gsoc-2017-proposals), [rails-upgrade](../tag/rails-upgrade), [project](../tag/project), [first-time-poster](../tag/first-time-poster)
 
+----
+
 (This template is for students applying to summer code programs with Public Lab. Use this link to start writing a post: [https://publiclab.org/post?n=899&tags=gsoc,gsoc-2017-proposals](https://publiclab.org/post?n=899&tags=gsoc,gsoc-2017-proposals) You can delete this line once you've started filling it out.)
 
 ---------

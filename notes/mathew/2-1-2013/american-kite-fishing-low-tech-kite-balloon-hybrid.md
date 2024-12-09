@@ -8,11 +8,15 @@ uid: 4
 
 ---
 
+![](https://publiclab.org/sites/default/files/Screen shot 2013-01-31 at 10.26.29 PM.png)
+
 # American Kite Fishing, low-tech Kite-Balloon hybrid
 
 by [mathew](../profile/mathew) February 01, 2013 06:22
 
 February 01, 2013 06:22 | Tags: [kite-mapping](../tag/kite-mapping), [kite-balloon-hybrid](../tag/kite-balloon-hybrid), [kite-fishing](../tag/kite-fishing), [off-wind-flying](../tag/off-wind-flying)
+
+----
 
 American-style kite fishing, with a low-wind kite-balloon hybrid:
 

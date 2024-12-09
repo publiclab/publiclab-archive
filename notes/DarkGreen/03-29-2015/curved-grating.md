@@ -8,11 +8,15 @@ uid: 437492
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/009/498/original/20150329_044455.jpg)
+
 # curved grating
 
 by [DarkGreen](../profile/DarkGreen) March 29, 2015 03:33
 
 March 29, 2015 03:33 | Tags: [spectrometer](../tag/spectrometer), [question:spectrometer](../tag/question:spectrometer)
+
+----
 
 so... I use a blank DVD-R, and ofcause that makes the grating curved.
 

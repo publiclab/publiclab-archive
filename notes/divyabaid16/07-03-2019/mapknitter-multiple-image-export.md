@@ -8,11 +8,15 @@ uid: 578652
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/033/462/original/Selection_194.png)
+
 # MapKnitter: Multiple image export
 
 by [divyabaid16](../profile/divyabaid16) July 03, 2019 12:35
 
 July 03, 2019 12:35 | Tags: [mapknitter](../tag/mapknitter), [gsoc](../tag/gsoc), [export](../tag/export), [soc](../tag/soc), [gsoc-2019](../tag/gsoc-2019), [soc-2019](../tag/soc-2019), [image](../tag/image)
+
+----
 
 MapKnitter
 is a map making open source tool. It is a unique tool which helps to

@@ -14,6 +14,8 @@ by [warren](../profile/warren)
 
 November 20, 2011 15:00 | Tags: 
 
+----
+
 We're developing several approaches to calibrating your video spectrometer. 
 
 ##Compact Fluorescent bulbs##

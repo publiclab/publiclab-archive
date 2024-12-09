@@ -14,6 +14,8 @@ by [warren](../profile/warren)
 
 July 14, 2014 14:52 | Tags: [kits](../tag/kits), [parent:kits](../tag/parent:kits)
 
+----
+
 Working page for Kits Initiative's packaging designs.
 
 ###Box unification

@@ -8,11 +8,15 @@ uid: 508551
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/022/171/original/Nerpa_-_Pusa_Siberica_-_Lake_Baikal___Mass_Seal_Deaths-_Oct_31_2017.jpg)
+
 # Water Quality Legislation, Regulations & Availability
 
 by [gilbert](../profile/gilbert) November 01, 2017 18:26
 
 November 01, 2017 18:26 | Tags: [water-quality](../tag/water-quality), [water-regulation](../tag/water-regulation), [clean-water-act](../tag/clean-water-act), [global-water-availability](../tag/global-water-availability)
+
+----
 
 **WATER QUALITY LEGISLATION, REGULATIONS & AVAILABILITY:**
 

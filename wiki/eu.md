@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/020/794/original/Screen_Shot_2017-06-14_at_10.46.18_AM.png)
+
 # Europe
 
 by [liz](../profile/liz)
 
 June 14, 2017 14:47 | Tags: 
+
+----
 
 Since 2016, Organizer @cindy_excites is managing the EU-wide project togetherscience.eu -- check it out!
 

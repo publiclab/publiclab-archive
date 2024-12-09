@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/017/234/original/Atwater2pan.jpg)
+
 # Photos to 3D
 
 by [cfastie](../profile/cfastie) July 26, 2016 03:40
 
 July 26, 2016 03:40 | Tags: [vermont](../tag/vermont), [kite-aerial-photography](../tag/kite-aerial-photography), [kap](../tag/kap), [sfm](../tag/sfm), [structure-from-motion](../tag/structure-from-motion), [autokap](../tag/autokap), [recap-360](../tag/recap-360), [autodesk](../tag/autodesk)
+
+----
 
 *Above: Part of a 3D model (top) produced by ReCap 360 from 58 kite aerial photos and the same model textured with the photos (bottom). The models are made in "Preview" mode, not "Ultra" mode.*
 

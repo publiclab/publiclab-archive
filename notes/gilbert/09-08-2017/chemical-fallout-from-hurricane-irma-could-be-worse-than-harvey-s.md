@@ -8,11 +8,15 @@ uid: 508551
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/021/594/original/images.jpg)
+
 # "CHEMICAL FALLOUT FROM HURRICANE IRMA COULD BE WORSE THAN HARVEY'S"
 
 by [gilbert](../profile/gilbert) September 08, 2017 21:22
 
 September 08, 2017 21:22 | Tags: [hurricane](../tag/hurricane), [florida](../tag/florida), [texas](../tag/texas), [harvey](../tag/harvey), [irma](../tag/irma), [chemical-pollution](../tag/chemical-pollution), [arkema](../tag/arkema)
+
+----
 
 This article entitled "Chemical Fallout from Hurricane Irma Could be Worse than Harvey's" was forwarded by Lt. General Russell Honore' of the Green Army www.gogreenarmy.com and was published on Sept. 8, 2017 in the INSURANCE JOURNAL by Jack Kaskey, Ryan Collins and Bryan Gruley. Given the immanent potential danger, it is shared herein.
 

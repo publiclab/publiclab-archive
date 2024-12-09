@@ -8,11 +8,15 @@ uid: 523507
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/023/927/original/spectrometer_demo.JPG)
+
 # Raspberry Pi spectrometer GUI
 
 by [cedarlodge](../profile/cedarlodge) March 07, 2018 16:12
 
 March 07, 2018 16:12 | Tags: [spectrometry](../tag/spectrometry), [raspberry-pi](../tag/raspberry-pi), [barnstar:basic](../tag/barnstar:basic), [seeks:replications](../tag/seeks:replications), [activity:raspberry-pi](../tag/activity:raspberry-pi), [activity:lego-spectrometer](../tag/activity:lego-spectrometer), [lego-spectrometer](../tag/lego-spectrometer)
+
+----
 
 \*\*\*Update\*\*\*
 

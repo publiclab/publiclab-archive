@@ -14,11 +14,13 @@ by [warren](../profile/warren), [OpenSourceScience](../profile/OpenSourceScience
 
 October 05, 2013 21:18 | Tags: [spectrometer](../tag/spectrometer), [sampling](../tag/sampling), [spectrometry-sampling](../tag/spectrometry-sampling), [parent:sampling](../tag/parent:sampling), [sample-collection](../tag/sample-collection)
 
+----
+
 **How do you test liquid or solid samples with your [DIY Spectrometer](/wiki/spectrometer)?** Read about ways to prepare and scan samples here, and [read about different tests you can do with your spectrometer](/wiki/spectrometry-activities).
 
 ## Questions
 
-[questions:spectrometry-sampling]
+[spectrometry-sampling](../../tag/question:spectrometry-sampling)
 
 ****
 
@@ -89,4 +91,4 @@ Read more about flame spectroscopy:
 
 ### Activities
 
-[activities:spectrometry-sampling]
+[spectrometry-sampling](../../tag/activity:spectrometry-sampling)

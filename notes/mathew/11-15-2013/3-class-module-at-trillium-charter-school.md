@@ -8,11 +8,15 @@ uid: 4
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/002/231/original/10866143594_c1c8101e29_b.jpg)
+
 # 3-class module at Trillium Charter School
 
 by [mathew](../profile/mathew) November 15, 2013 08:08
 
 November 15, 2013 08:08 | Tags: [portland](../tag/portland)
+
+----
 
 ###What I want to do
 Teach three blocks of 50 minutes each on grassroots mapping to a collection of 6-8th graders in Grace Hwang's Art of Politics elective at Trillium Charter School.

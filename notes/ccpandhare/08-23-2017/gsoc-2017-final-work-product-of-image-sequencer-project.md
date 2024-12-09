@@ -8,11 +8,15 @@ uid: 503543
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/021/605/original/Screenshot_2017-09-11_at_10.57.23_AM.png)
+
 # GSoC 2017: Final Work Product of Image Sequencer Project
 
 by [ccpandhare](../profile/ccpandhare) August 23, 2017 15:27
 
 August 23, 2017 15:27 | Tags: [image-processing](../tag/image-processing), [gsoc](../tag/gsoc), [google-summer-of-code](../tag/google-summer-of-code), [image-analysis](../tag/image-analysis), [gsoc-2017](../tag/gsoc-2017), [soc](../tag/soc), [soc-2017](../tag/soc-2017), [response:14788](../tag/response:14788)
+
+----
 
 # Developing Image Sequencer as a Library
 

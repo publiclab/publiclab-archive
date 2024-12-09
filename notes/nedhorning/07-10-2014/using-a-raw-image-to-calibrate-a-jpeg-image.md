@@ -8,11 +8,15 @@ uid: 133
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/005/195/original/IMG_1029.JPG)
+
 # Using a RAW image to calibrate a JPEG image
 
 by [nedhorning](../profile/nedhorning) July 10, 2014 13:01
 
 July 10, 2014 13:01 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [nir](../tag/nir), [calibration](../tag/calibration), [raw](../tag/raw), [infragram](../tag/infragram), [barnstar:basic](../tag/barnstar:basic), [jpeg](../tag/jpeg), [response:10607](../tag/response:10607), [ndvi-calibrate](../tag/ndvi-calibrate), [multispectral-imaging](../tag/multispectral-imaging)
+
+----
 
 I wanted to test a calibration work flow that involved calibrating a RAW image and then use the resulting image as a reference to calibrate a JPEG image. For my test photo I used CHDK to record a RAW and a JPEG image each time I took a photo. When an image is recorded in JPEG format (the most common setting for consumer cameras) a lot of processing takes place in the camera to create an image that is appealing to our eyes. As a result of this processing the JPEG image pixel values do not have a linear relationship with radiance (the intensity of light hitting the sensor). We can try to correct for that non-linear response by applying a Gamma correction as I did [here](http://publiclab.org/notes/nedhorning/05-01-2014/improved-diy-nir-camera-calibration) or you can fit a second or greater order polynomial through a set of reference/JPEG sample pairs. For either of these approaches you should have several reference/JPEG sample points. In my [previous experiment](http://publiclab.org/notes/nedhorning/05-01-2014/improved-diy-nir-camera-calibration) I used reference targets with known reflectance values and for this experiment I used a calibrated RAW image to get my reference data. 
 

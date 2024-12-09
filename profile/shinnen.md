@@ -3,6 +3,8 @@ uid: 460991
 created_at: 2016-01-01 16:20:22 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/767a214084a0d7c07f1d54a0029727e5)
+
 # shinnen
 
 

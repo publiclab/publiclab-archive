@@ -14,6 +14,8 @@ by [carmatic](../profile/carmatic) February 24, 2021 11:25
 
 February 24, 2021 11:25 | Tags: [calibration](../tag/calibration), [desktop-spectrometry-kit](../tag/desktop-spectrometry-kit), [first-time-poster](../tag/first-time-poster)
 
+----
+
 hello, I'm trying to look for fluorescent bulbs for the calibration but these bulbs are being phased out where I live and are becoming harder and harder to find
 
   

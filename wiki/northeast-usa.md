@@ -14,6 +14,8 @@ by [liz](../profile/liz)
 
 March 23, 2014 18:10 | Tags: 
 
+----
+
 ###Places in the Northeast Chapter:
 
 * http://publiclab.org/wiki/vermont

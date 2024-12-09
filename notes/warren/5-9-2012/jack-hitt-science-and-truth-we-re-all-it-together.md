@@ -14,6 +14,8 @@ by [warren](../profile/warren) May 09, 2012 13:21
 
 May 09, 2012 13:21 | Tags: 
 
+----
+
 <p>Interesting article on &quot;crowd review; when commenters or amateur experts challenge research and sometimes overturn it with their own evidence:</p>
 <p><i>by JACK HITT, <a href="http://nytimes.com">nytimes.com</a></i><br>
 <i>May 5th 2012</i> 			 			 			 			 				 				 </p>

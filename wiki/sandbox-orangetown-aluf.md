@@ -8,11 +8,15 @@ uid: 422561
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/036/724/original/Aluf.jpg)
+
 # sandbox-Orangetown Aluf
 
 by [stevie](../profile/stevie)
 
 November 27, 2019 20:26 | Tags: 
+
+----
 
 Temporary orientation video: 
 
@@ -44,14 +48,14 @@ Aluf Plastics processes plastic materials (low and high density polyethylene) in
 
 ##Questions
  
-[questions:Orangetown-Aluf]
+[Orangetown-Aluf](../../tag/question:Orangetown-Aluf)
 
 ## Updates
 Interested in following along and supporting this issue? Subscribe to the tag below to get updates when we post new material. 
 
 <a class="btn btn-large btn-primary" href="https://publiclab.org/subscribe/tag/Orangetown-Aluf">Subscribe to updates on this project </a>
 
-[notes:Orangetown-Aluf!question:Orangetown-Aluf] 
+[Orangetown-Aluf!question:Orangetown-Aluf](../../tag/Orangetown-Aluf!question:Orangetown-Aluf) 
 <a href="/post?tags=orangetown-aluf">Add a post</a>
  
  

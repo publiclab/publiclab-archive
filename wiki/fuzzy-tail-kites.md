@@ -14,6 +14,8 @@ by [mathew](../profile/mathew), [MicheleTobias](../profile/MicheleTobias)
 
 July 29, 2012 03:37 | Tags: [kite-aerial-photography](../tag/kite-aerial-photography), [diy-kite](../tag/diy-kite), [parent:kite-mapping](../tag/parent:kite-mapping)
 
+----
+
 <a href="https://www.flickr.com/photos/51797249@N05/7666082796/" title="FuzzyTail_Kite by ClammyStewart, on Flickr"><img src="https://farm8.staticflickr.com/7246/7666082796_0cfcd5baf5.jpg" width="500" height="387" alt="FuzzyTail_Kite"></a>
 
 Kites use tails to help stabilize them in the air, to keep them from swaying too much from side to side.  The increased drag as the wind passes over the tail holds the kite in place.  Big kites need big tails, and one popular and easy tail to make is a fuzzy tail.  The flaps create more drag than a smooth tail so you can use a shorter tail (and get tangled less).  They are fairly easy to make and can be made out of a number of materials.  Here's one way to make them.

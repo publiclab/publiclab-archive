@@ -8,11 +8,15 @@ uid: 540844
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/027/228/original/Taking_water_samples_on_Turkey_Creek_%281%29.jpg)
+
 # Project Advances Environmental Literacy on the Coasts
 
 by [joyofsoy](../profile/joyofsoy) October 25, 2018 14:29
 
 October 25, 2018 14:29 | Tags: [gulf-coast](../tag/gulf-coast), [education](../tag/education), [youth](../tag/youth), [blog](../tag/blog), [nas](../tag/nas), [national-academies-of-sciences](../tag/national-academies-of-sciences)
+
+----
 
 Public Lab is excited to work with the National Academies of Sciences, Engineering, and Medicine's Gulf Research Program to build the scientific capacity of the next generation. As one of nine projects selected, Public Lab will be working alongside other inspiring organizations to provide a variety of innovative learning opportunities for children and youth in coastal states including Alabama, Georgia, Louisiana, Maine, Mississippi, and Texas on a broad range of topics pertaining to community resilience and environmental health.
 

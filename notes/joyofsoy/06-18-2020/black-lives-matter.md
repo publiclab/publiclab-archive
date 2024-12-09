@@ -8,11 +8,15 @@ uid: 540844
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/039/826/original/1.jpg)
+
 # Black Lives Matter.
 
 by [joyofsoy](../profile/joyofsoy) June 18, 2020 20:20
 
 June 18, 2020 20:20 | Tags: [blog](../tag/blog)
+
+----
 
 *Note: this statement was previously shared in our monthly newsletter* 
 

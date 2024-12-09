@@ -8,11 +8,15 @@ uid: 442298
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/009/991/original/th.jpg)
+
 # Mid stream Urine analysis: Check whether you need to drink more water or not
 
 by [chongyukwai](../profile/chongyukwai) May 23, 2015 14:56
 
 May 23, 2015 14:56 | Tags: [spectrometer](../tag/spectrometer), [analysis](../tag/analysis), [spectro](../tag/spectro), [urine](../tag/urine)
+
+----
 
 Background: This is an experiential application of using spectro as a measurement of the concentration of the urine. So people are unaware that they drink insufficient water. This experiment helps us to generate information and provide evidence whether they have drink sufficient H2O and provide advice to them.
 

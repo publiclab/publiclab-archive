@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/account.png)
+
 # PLOTS at Ars Electronica "Accountability Tech" symposium
 
 by [warren](../profile/warren) September 01, 2012 07:34
 
 September 01, 2012 07:34 | Tags: [presentations](../tag/presentations), [presentation](../tag/presentation)
+
+----
 
 <iframe src="https://docs.google.com/presentation/embed?id=1B24GVlbxG2uLQDEVkUjQoy4L08SJfp_PSvmPHA9Kr7Y&start=false&loop=false&delayms=3000" frameborder="0" width="480" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 

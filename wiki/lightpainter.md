@@ -14,4 +14,6 @@ by [warren](../profile/warren)
 
 April 16, 2019 22:16 | Tags: [redirect:light-painter](../tag/redirect:light-painter)
 
+----
+
 to #redirect:light-painter

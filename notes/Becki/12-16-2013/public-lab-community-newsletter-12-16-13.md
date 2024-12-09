@@ -8,11 +8,15 @@ uid: 46673
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/002/419/original/Boots-in-circle-with-hatch-large.jpg)
+
 # Public Lab Community Newsletter 12.16.13
 
 by [Becki](../profile/Becki) December 16, 2013 21:34
 
 December 16, 2013 21:34 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
+
+----
 
 This will be the last official newsletter of 2013, but keep the research notes coming and connect with us on [Facebook](https://www.facebook.com/PublicLab) and Twitter (@publiclab) for periodic updates over the next couple weeks. See you in 2014!
 

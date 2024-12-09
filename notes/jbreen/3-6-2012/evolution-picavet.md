@@ -8,11 +8,15 @@ uid: 326
 
 ---
 
+![](https://publiclab.org/sites/default/files/DSCN1670_0.jpg)
+
 # Evolution of a Picavet
 
 by [jbreen](../profile/jbreen) March 06, 2012 13:47
 
 March 06, 2012 13:47 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [picavet](../tag/picavet), [kite-aerial-photography](../tag/kite-aerial-photography), [photo-rig](../tag/photo-rig), [activity:photo-rig](../tag/activity:photo-rig), [first-time-poster](../tag/first-time-poster)
+
+----
 
 My picavet started out as a bare bones, minimalist affair.  Then it met up with an outfield fence.  The picavet survived, but the camera lens...not so much.  So then came Picavet 2.0, bigger, badder, heavier.
 

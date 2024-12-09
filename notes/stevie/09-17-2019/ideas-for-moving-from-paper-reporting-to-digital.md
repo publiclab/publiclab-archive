@@ -14,6 +14,8 @@ by [stevie](../profile/stevie) September 17, 2019 20:23
 
 September 17, 2019 20:23 | Tags: [question:question](../tag/question:question), [question:sentinel](../tag/question:sentinel), [question:reporting](../tag/question:reporting), [question:midwest](../tag/question:midwest)
 
+----
+
 @Pat, @dswenson, @gloryaec, and a number of other people in the WI area have started a project focused on making environmental reporting of suspected permit violations around frac sand mining sites easier for people to do called the [Sand Sentinel Program](https://publiclab.org/wiki//wiki/the-sand-sentinel-program "https://publiclab.org/wiki//wiki/the-sand-sentinel-program"). For this project, about 50 people pitched in ideas and information to create a folder with materials to help people with reporting. The folder includes an incident report form, a booklet to help people fill out reports, and an incident log. 
 
   

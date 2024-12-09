@@ -8,11 +8,15 @@ uid: 579624
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/034/020/original/1_fgo52Z9Bom9I5phIjSAqSA.png)
+
 # GSoC Phase ll evaluation
 
 by [gautami_gg](../profile/gautami_gg) July 23, 2019 15:07
 
 July 23, 2019 15:07 | Tags: [gsoc](../tag/gsoc), [soc](../tag/soc), [gsoc-2019](../tag/gsoc-2019), [soc-2019](../tag/soc-2019), [soc-2019-eval](../tag/soc-2019-eval)
+
+----
 
 It's strange how time goes by so fast. It seems like only yesterday I was writing my proposal and here I am writing a blog for my second evaluation. I feel so lucky to have been selected as a GSoC participant in PublicLab and be a part of this amazing organisation. Every member here can say the same. From my first day of contribution till date, everyone has been so warm and welcoming. 
 

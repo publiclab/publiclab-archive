@@ -14,6 +14,8 @@ by [warren](../profile/warren)
 
 March 02, 2012 17:22 | Tags: 
 
+----
+
 ###Help get the word out###
 
 Keep in mind, this is a consensus process, not a requirement. That said, many of us believe that it is a key part a functional open science initiative, so we hope everyone will participate by signing the agreement.

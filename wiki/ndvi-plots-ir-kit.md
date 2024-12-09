@@ -14,6 +14,8 @@ by [cfastie](../profile/cfastie)
 
 April 25, 2012 17:33 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [nrg](../tag/nrg), [ndvi](../tag/ndvi), [infrared](../tag/infrared), [infragram](../tag/infragram), [infrablue](../tag/infrablue), [parent:infragram](../tag/parent:infragram), [multispectral-imaging](../tag/multispectral-imaging)
 
+----
+
 *This page introduces the scientific background of NDVI and its application to the original [PLOTS visible/infrared camera tool](/wiki/dual-camera-kit-guide).*
 
 ![Par_action_spectrum.jpg](https://i.publiclab.org/system/images/photos/000/000/324/medium/Par_action_spectrum.jpg)

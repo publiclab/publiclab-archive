@@ -3,6 +3,8 @@ uid: 563322
 created_at: 2018-12-08 09:27:13 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/144075f86aa7b6dea8def095593fcbde)
+
 # waynebekke
 
 

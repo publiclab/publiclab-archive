@@ -14,6 +14,8 @@ by [baskotasusan](../profile/baskotasusan) April 15, 2014 12:00
 
 April 15, 2014 12:00 | Tags: [nasa](../tag/nasa), [apps](../tag/apps), [space-apps-challenge](../tag/space-apps-challenge), [urban-heat-island](../tag/urban-heat-island)
 
+----
+
 <a href="https://i.publiclab.org/system/images/photos/000/003/672/original/cool_it.pptx"><i class="icon icon-file"></i> cool_it.pptx</a>
 
 These days world is facing a problem of energy crisis, over population, pollution, island heating effect and many others challenging environmental issues. Now its time to save our nature, save our home planet earth. Then how can we achieve this? The best approach is to aware the community, teach our children, by informing them about the change in environmental conditions like rise or fall of temperature and humidity etc by comparing to their nearby locality.

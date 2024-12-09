@@ -8,11 +8,15 @@ uid: 420617
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/019/424/original/DSC_0117-1024x576.jpg)
+
 # rede-infoamazonia
 
 by [vjpixel](../profile/vjpixel)
 
 February 02, 2017 23:11 | Tags: [water-quality](../tag/water-quality), [list:plots-waterquality](../tag/list:plots-waterquality), [brasil](../tag/brasil), [parent:open-water](../tag/parent:open-water), [rede-infoamazonia](../tag/rede-infoamazonia)
+
+----
 
 The project Rede InfoAmazonia has developed a prototype of an inexpensive monitoring system to analyze the quality of water for human consumption, and establish a monitoring network in partnership with communities in the Brazilian Amazon.
 

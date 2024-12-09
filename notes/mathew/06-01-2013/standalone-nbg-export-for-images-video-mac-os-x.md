@@ -8,11 +8,15 @@ uid: 4
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/000/445/original/Screen_shot_2013-05-31_at_7.12.12_PM.png)
+
 # Standalone NBG export for Images & Video (Mac OS X)
 
 by [mathew](../profile/mathew) June 01, 2013 02:29
 
 June 01, 2013 02:29 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [video](../tag/video), [infragram](../tag/infragram), [nbg](../tag/nbg), [false-color](../tag/false-color)
+
+----
 
 ##What I wanted to do
 I wanted to make an exporter for NDVI and NBG images using my decade-old license for [Max/MSP/Jitter](http://cycling74.com/), but couldn't get NDVI working, because jit.op objects will only divide video in floating point mode, and I had some trouble with that.

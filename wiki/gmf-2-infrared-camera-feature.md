@@ -14,6 +14,8 @@ by [mathew](../profile/mathew), [warren](../profile/warren), [cfastie](../profil
 
 June 18, 2012 18:51 | Tags: [near-infrared-camera](../tag/near-infrared-camera)
 
+----
+
 <a href="https://www.flickr.com/photos/jeffreywarren/7166622545/" title="infrared camera hack poster sketches by jeferonix, on Flickr"><img src="https://farm8.staticflickr.com/7102/7166622545_5b9b4c68c5.jpg" width="500" height="375" alt="infrared camera hack poster sketches"></a>
 
 Jeff W/Chris F are working on this feature for the upcoming Grassroots Mapping Forum. Sourcing a lot from: http://publiclaboratory.org/wiki/dual-camera-kit-guide, images from: http://publiclaboratory.org/notes/warren/5-17-2012/infrared-camera-how-guide-gm-forum

@@ -14,6 +14,8 @@ by [Becki](../profile/Becki) March 17, 2013 23:00
 
 March 17, 2013 23:00 | Tags: [newsletter](../tag/newsletter), [first-time-poster](../tag/first-time-poster), [newsletter-archive](../tag/newsletter-archive)
 
+----
+
 The St. Patrick’s Day edition!
 
 A new Idea Lab post on mapping with students:

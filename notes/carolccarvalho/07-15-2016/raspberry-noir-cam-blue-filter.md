@@ -8,11 +8,15 @@ uid: 461381
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/017/047/original/resultado.png)
+
 # Raspberry + NoIR cam + Blue filter
 
 by [carolccarvalho](../profile/carolccarvalho) July 15, 2016 14:54
 
 July 15, 2016 14:54 | Tags: [ndvi](../tag/ndvi), [infrared](../tag/infrared), [raspberry-pi](../tag/raspberry-pi), [raspberry](../tag/raspberry), [pi-noir](../tag/pi-noir), [raspberry-pi-infragram](../tag/raspberry-pi-infragram), [activity:raspberry-pi-infragram](../tag/activity:raspberry-pi-infragram)
+
+----
 
 ###What I want to do
 Hi!

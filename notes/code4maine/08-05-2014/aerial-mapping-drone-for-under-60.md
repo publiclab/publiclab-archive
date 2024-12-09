@@ -8,11 +8,15 @@ uid: 294634
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/006/928/original/FlyingWing.jpg)
+
 # Aerial Mapping Drone for Under $60? 
 
 by [ajawitz](../profile/ajawitz) August 05, 2014 16:31
 
 August 05, 2014 16:31 | Tags: [grassrootsmapping](../tag/grassrootsmapping), [barnstar:basic](../tag/barnstar:basic)
+
+----
 
 [![wing.jpg](https://i.publiclab.org/system/images/photos/000/006/938/medium/wing.jpg)](https://i.publiclab.org/system/images/photos/000/006/938/original/wing.jpg)
 

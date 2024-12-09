@@ -14,6 +14,8 @@ by [sara](../profile/sara) September 11, 2011 17:50
 
 September 11, 2011 17:50 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s)
 
+----
+
 Information drawn from: http://encyclopedia.airliquide.com/Encyclopedia.asp?GasID=59
 
 H2S 

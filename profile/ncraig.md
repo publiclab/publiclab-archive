@@ -3,6 +3,8 @@ uid: 15
 created_at: 2016-09-09 14:17:26 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/b2d43ed32875ffbb9e41b108e4c7b024)
+
 # ncraig
 
 

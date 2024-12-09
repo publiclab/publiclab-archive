@@ -8,11 +8,15 @@ uid: 46902
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/012/223/original/diesel_and_crude_crop_w_3_unknowns.png)
+
 # Oil testing kit: Testing
 
 by [ethanbass](../profile/ethanbass) October 29, 2015 18:59
 
 October 29, 2015 18:59 | Tags: [spectrometer](../tag/spectrometer), [oil-testing-kit](../tag/oil-testing-kit), [barnstar:basic](../tag/barnstar:basic), [oil-testing-kit-beta](../tag/oil-testing-kit-beta)
+
+----
 
 ###What I want to do
 

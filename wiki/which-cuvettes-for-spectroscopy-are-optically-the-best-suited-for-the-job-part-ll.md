@@ -8,11 +8,15 @@ uid: 461120
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/016/653/original/all_3_cuvettes_june15_bmp.bmp)
+
 # Which Cuvettes for Spectroscopy are optically the best suited for the job - Part ll
 
 by [dhaffnersr](../profile/dhaffnersr)
 
 June 15, 2016 19:35 | Tags: 
+
+----
 
 continuing in this series on which cuvettes are optimal for spectroscopy:
 

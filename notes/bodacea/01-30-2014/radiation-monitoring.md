@@ -8,11 +8,15 @@ uid: 648
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/002/688/original/blob)
+
 # Radiation Monitoring
 
 by [bodacea](../profile/bodacea) January 30, 2014 17:41
 
 January 30, 2014 17:41 | Tags: [radiation](../tag/radiation), [first-time-poster](../tag/first-time-poster)
+
+----
 
 ###What I want to do
 

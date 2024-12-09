@@ -8,11 +8,15 @@ uid: 540844
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/035/562/original/12013.fic.2556-1.jpg)
+
 # How a Leader and a Community Saved the Sprague Mansion
 
 by [joyofsoy](../profile/joyofsoy) October 04, 2019 17:27
 
 October 04, 2019 17:27 | Tags: [csf](../tag/csf), [one-cranston](../tag/one-cranston)
+
+----
 
 **A version of this story by Sandra Moyer is published in Public Lab's *Community Science Forum*, Issue 17. Read more from this issue [here][1].** 
 

@@ -14,6 +14,8 @@ by [Avery](../profile/Avery) March 10, 2012 19:17
 
 March 10, 2012 19:17 | Tags: [environmental-estrogen-testing](../tag/environmental-estrogen-testing)
 
+----
+
 Below is a copy of my blog post explaining BLYES, the full post with pictures in the correct places can be found here: <a href="http://tequals0.wordpress.com/2012/02/24/blyes-bioluminescent-yeast-estrogen-assay/">tequals0.wordpress.com</a>
 
 BLYES: BioLuminescent Yeast Estrogen Assay

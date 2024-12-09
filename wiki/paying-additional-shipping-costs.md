@@ -14,6 +14,8 @@ by [Becki](../profile/Becki)
 
 September 12, 2014 18:22 | Tags: 
 
+----
+
 Have you been requested by a member of the Public Lab kits to team pay additional shipping costs due to expedited, international shipping, or some other miscellaneous fee not covered under our store's checkout procedure? Please use the drop down menu and button below. Question? Contact kits@publiclab.org
 
 <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">

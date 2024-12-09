@@ -8,11 +8,15 @@ uid: 787988
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/046/690/original/Screen_Shot_2022-05-18_at_10.38.25_AM.png)
+
 # Exploratory Lesson Activity for Image Sequencer
 
 by [carmen2x](../profile/carmen2x) April 20, 2022 18:21
 
 April 20, 2022 18:21 | Tags: [ndvi](../tag/ndvi), [education](../tag/education), [aren](../tag/aren), [image-sequencer](../tag/image-sequencer), [infragram-pi](../tag/infragram-pi)
+
+----
 
 [Image Sequencer](https://sequencer.publiclab.org/examples/#steps=) is a powerful open-source tool that can be used for image data manipulation. But, before we can expect students to use Image Sequencer for their work, there are several steps an instructor can take to help those students understand the capabilities of this tool, and how it may apply to their work.  
 

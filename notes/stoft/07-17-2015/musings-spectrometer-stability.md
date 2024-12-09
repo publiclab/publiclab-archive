@@ -8,11 +8,15 @@ uid: 54025
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/010/707/original/P3U-3.jpg)
+
 # Musings: Spectrometer Stability
 
 by [stoft](../profile/stoft) July 17, 2015 05:46
 
 July 17, 2015 05:46 | Tags: [spectrometer](../tag/spectrometer), [oil](../tag/oil), [kit](../tag/kit), [test](../tag/test), [response:11649](../tag/response:11649)
+
+----
 
 My experiments with the PLab 3.0 spectrometer and PLab oil-test kit prototypes demonstrated the requirement to build mechanically stable devices. While it can be educational to observe a working webcam+DVD spectrometer and recover colorful plots, performing real measurements requires repeatability which means stability.
 

@@ -14,6 +14,8 @@ by [Harristotle](../profile/Harristotle) January 14, 2018 15:04
 
 January 14, 2018 15:04 | Tags: [kits](../tag/kits), [spectrometry](../tag/spectrometry), [assembly](../tag/assembly), [foldable](../tag/foldable), [papercraft](../tag/papercraft), [onboarding](../tag/onboarding), [foldable-spec](../tag/foldable-spec), [introductory](../tag/introductory), [replication:15276](../tag/replication:15276)
 
+----
+
 Nice instructions.  
 On my old cdrom, it was impossible just to scratch and peel.  
 The solution was to stick gaffer tape to it and then rip off the layers. Repeat until all silver is gone!  

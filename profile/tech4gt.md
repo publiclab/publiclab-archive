@@ -3,6 +3,8 @@ uid: 523178
 created_at: 2018-01-20 10:05:19 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/523178/medium/photo.jpeg)
+
 # tech4gt
 
 I am an aspiring developer always looking to learn new things.

@@ -8,11 +8,15 @@ uid: 693684
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/046/908/original/137.912_2022-07-16_11-44-21_-_Olga_Mie%CC%A8kus.png)
+
 # An accessible browser-based decoder for NOAA images
 
 by [sashae](../profile/sashae) May 03, 2022 14:04
 
 May 03, 2022 14:04 | Tags: [seeks:replications](../tag/seeks:replications), [open-weather](../tag/open-weather), [activity:open-weather](../tag/activity:open-weather)
+
+----
 
 <div class="alert alert-block alert-danger">
 **Research note in progress**

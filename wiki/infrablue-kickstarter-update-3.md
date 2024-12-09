@@ -14,6 +14,8 @@ by [cfastie](../profile/cfastie)
 
 May 30, 2013 19:37 | Tags: [nrg](../tag/nrg), [ndvi](../tag/ndvi), [infrared](../tag/infrared), [gigapan](../tag/gigapan)
 
+----
+
 A couple dozen members of the Public Lab and FarmHack communities got together at Tuckaway Farm in New Hampshire on May 18 to share ideas, test equipment, and capture aerial images of the farm. There were at least four different prototypes of Infragram cameras tested, including my Canon Powershot A810. I had opened up this little camera and removed the IR block filter to make it record near infrared light, then covered the front of the lens with a piece of infrablue filter (Rosco #2007 Blue polyester). This filter looks blue because it blocks most red light but passes blue and green.  It also passes near infrared which is recorded in the camera's red channel. The infrablue multispectral images below use the red channel in each photo as infrared and combine it in two ways with visible light to highlight vegetation.
 
 ![wheatInf_RGB2k.jpg](https://i.publiclab.org/system/images/photos/000/000/430/large/wheatInf_RGB2k.jpg)

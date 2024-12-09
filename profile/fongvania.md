@@ -3,6 +3,8 @@ uid: 754846
 created_at: 2021-05-01 07:10:05 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/44451ce517c7e3e749e25d065c645fe1)
+
 # fongvania
 
 

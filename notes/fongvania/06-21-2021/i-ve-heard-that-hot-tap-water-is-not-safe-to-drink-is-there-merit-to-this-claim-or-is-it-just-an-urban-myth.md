@@ -14,6 +14,8 @@ by [fongvania](../profile/fongvania) June 21, 2021 05:55
 
 June 21, 2021 05:55 | Tags: [water-quality](../tag/water-quality), [water](../tag/water), [question:general](../tag/question:general), [general](../tag/general)
 
+----
+
 Does hot tap water increase the likelihood of metal leaching from the pipes? Interested to hear about if there are any studies or regulations specifically focused on hot tap water
 
   

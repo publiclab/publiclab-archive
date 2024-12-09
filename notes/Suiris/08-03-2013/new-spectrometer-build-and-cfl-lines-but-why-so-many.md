@@ -8,11 +8,15 @@ uid: 170375
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/001/011/original/IMG_0003.JPG)
+
 # New spectrometer build and CFL lines
 
 by [Suiris](../profile/Suiris) August 03, 2013 06:56
 
 August 03, 2013 06:56 | Tags: [spectrometer](../tag/spectrometer), [spectroscopy](../tag/spectroscopy), [first-time-poster](../tag/first-time-poster)
+
+----
 
 I decided to build my second spectrometer. I built a box, long and wide enough for me to put a Canon IXUS 120 camera and be able to adjust angles, slit:grating length, and for future projects play a little with collimating lenses. The slit is made of two razor blades.
 

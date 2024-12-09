@@ -14,4 +14,6 @@ by [danbeavers](../profile/danbeavers) April 12, 2013 20:49
 
 April 12, 2013 20:49 | Tags: [spectrometer](../tag/spectrometer), [contamination](../tag/contamination), [spectralchallenge](../tag/spectralchallenge), [assays](../tag/assays)
 
+----
+
 <a href="http://www.fda.gov/Food/FoodScienceResearch/LaboratoryMethods/ucm221685.htm">The document is here</a>  This document provides the procedures that the EPA expects a lab to use.  It should be useful for developing procedures for reliably measuring heavy metal contamination in our much less expensive labs.

@@ -14,4 +14,6 @@ by [it13](../profile/it13) June 22, 2019 10:47
 
 June 22, 2019 10:47 | Tags: [question:ndvi](../tag/question:ndvi), [first-time-poster](../tag/first-time-poster)
 
+----
+
 ![image description](/i/33131.jpg "Webp.net-resizeimage.jpg")

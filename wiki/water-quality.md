@@ -8,17 +8,21 @@ uid: 43651
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/027/698/original/KnowFlow_by_the_River_crop.jpg)
+
 # Water quality
 
 by [warren](../profile/warren), [liz](../profile/liz), [stevie](../profile/stevie), [vjpixel](../profile/vjpixel), [donblair](../profile/donblair)
 
 January 11, 2014 04:58 | Tags: [water-quality](../tag/water-quality), [water](../tag/water), [reagents](../tag/reagents)
 
+----
+
 Rivers, oceans, lakes, aquifers, groundwater, stormwater, urban canals, underground streams, estuaries, and more -- we are passionate about water quality! This page will help you find resources to explore the waterbodies you care about, and connect with other people who have the same interests: 
 
 ### Questions on Water Quality: 
 
-[questions:water-quality]
+[water-quality](../../tag/question:water-quality)
 
 ****
 
@@ -56,4 +60,4 @@ Also see this overview of 7 ways to monitorn water quality:
 
 ## Activities
 
-[activities:water-quality]
+[water-quality](../../tag/activity:water-quality)

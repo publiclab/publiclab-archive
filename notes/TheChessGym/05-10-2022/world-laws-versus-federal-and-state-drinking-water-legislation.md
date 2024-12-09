@@ -8,11 +8,15 @@ uid: 788868
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/046/668/original/drinkingwater.jpg)
+
 # World Laws  Versus Federal and State Drinking Water Legislation
 
 by [TheChessGym](../profile/TheChessGym) May 10, 2022 15:03
 
 May 10, 2022 15:03 | Tags: [microplastics](../tag/microplastics), [zoom:6](../tag/zoom:6), [lat:22.004174](../tag/lat:22.004174), [lon:76.003417](../tag/lon:76.003417)
+
+----
 
 The WHO (World Health Organization) reports that there have been 298, 404 deaths so far this year resulting from water borne diseases. Their website also states that there are currently approximately 2.2 billion people in the world that have NO access to water! The worldometer in turn calculations are updated with every new birth indicates that there are approximately 782, 553, 344 (at the time of this article) people without access to a drinkable water source. These are startling numbers given the ready access to drinkable water resources we enjoy here in the United States of America. 
 

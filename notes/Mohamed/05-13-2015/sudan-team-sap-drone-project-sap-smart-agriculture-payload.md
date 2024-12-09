@@ -8,11 +8,15 @@ uid: 431141
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/009/893/original/PROMO-SAP-R_D.jpg)
+
 # Sudan Team SAP DRONE Project/SAP (Smart Agriculture Payload)
 
 by [Mohamed](../profile/Mohamed) May 13, 2015 23:09
 
 May 13, 2015 23:09 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [agriculture](../tag/agriculture), [organic-agriculture](../tag/organic-agriculture), [infragram](../tag/infragram), [infragram-conversion](../tag/infragram-conversion), [mineral-oil](../tag/mineral-oil), [ndvi-ag](../tag/ndvi-ag), [first-time-poster](../tag/first-time-poster)
+
+----
 
 Developing UAVs for combined millet / Acacia , Airborne Automated Cultivation.
 ![Desertification][1]

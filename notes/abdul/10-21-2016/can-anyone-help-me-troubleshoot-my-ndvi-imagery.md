@@ -14,6 +14,8 @@ by [abdul](../profile/abdul) October 21, 2016 22:28
 
 October 21, 2016 22:28 | Tags: [ndvi](../tag/ndvi), [calibration](../tag/calibration), [infrared](../tag/infrared), [infragram](../tag/infragram), [question:infragram](../tag/question:infragram), [answered](../tag/answered), [question:multispectral-imaging](../tag/question:multispectral-imaging), [question:infragram-point-shoot](../tag/question:infragram-point-shoot)
 
+----
+
 Hello all,
 
 I have assembled a Mobius camera with Public Lab's infrared lens, have focused the lens, and went outside to take some pictures. It is autumn, so many of the plants are more orange than green, but the trees still had a fair share of green on them. 

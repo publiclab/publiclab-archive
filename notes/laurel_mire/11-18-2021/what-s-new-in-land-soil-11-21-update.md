@@ -14,6 +14,8 @@ by [laurel_mire](../profile/laurel_mire) November 18, 2021 16:56
 
 November 18, 2021 16:56 | Tags: [soil](../tag/soil), [land-use](../tag/land-use), [research-curation-fellows](../tag/research-curation-fellows)
 
+----
+
 ##Land Community Call
 Last week, Public Lab held its quarterly community call focused on sharing experiences, concerns, and resources falling under the topics of land & soil. Thank you to @Pat for attending and sharing your vast knowledge about the frac sand mine industry, your passion for citizen science and community organizing, and your advice for young community scientists--- “persistence and determination are key!” Check out the notes from the call [here][1]. 
 

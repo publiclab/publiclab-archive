@@ -8,11 +8,15 @@ uid: 424597
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/035/962/original/ph_probe.jpg)
+
 # Oil and Gas Hardware Fellow Status Update: Week 5!
 
 by [wmacfarl](../profile/wmacfarl) October 22, 2019 02:07
 
 October 22, 2019 02:07 | Tags: [lat:41.834189](../tag/lat:41.834189), [lon:-71.441798](../tag/lon:-71.441798), [oil-and-gas-water-trio](../tag/oil-and-gas-water-trio)
+
+----
 
 We're going into the 5th week of our research and fellowship work on oil and gas monitoring. In my [last update](https://publiclab.org/notes/wmacfarl/10-07-2019/oil-and-gas-hardware-fellow-status-update-week-3) I said that I'd started playing with and documenting the use of some of the wonderful, open-hardware [DF Robot liquid sensors](https://www.dfrobot.com/blog-1138.html) that we had received.
 

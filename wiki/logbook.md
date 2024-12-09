@@ -14,6 +14,8 @@ by [warren](../profile/warren)
 
 February 28, 2011 16:19 | Tags: 
 
+----
+
 The logbook is an idea for a Lulu.com printed book to bring on field mapping missions for [balloon mapping](/tool/balloon-mapping)
 
 The questionnaire will also be available in an online form.

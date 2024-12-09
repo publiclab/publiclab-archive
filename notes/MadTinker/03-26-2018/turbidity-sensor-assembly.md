@@ -14,6 +14,8 @@ by [MadTinker](../profile/MadTinker) March 26, 2018 17:44
 
 March 26, 2018 17:44 | Tags: [water-quality](../tag/water-quality), [turbidity](../tag/turbidity), [datalogger](../tag/datalogger), [data-logging](../tag/data-logging), [mini-pearl](../tag/mini-pearl)
 
+----
+
 **Abstract**
 
 This research note documents the build and deployment of a turbidity sensor with a data logger. The data logger is a 5V Arduino pro-mini. The turbidity sensor is the [DFRobot SEN0189](https://www.dfrobot.com/product-1394.html). The unit was assembled and deployed in conjunction with the Electrical Conductivity (Total Dissolved Solids) sensor and data logger described [here](https://publiclab.org/n/15996). The goal is to get both of these in the stream before construction starts up-stream on a new flume and also before spring run-off along Willow Creek in Creede, CO.

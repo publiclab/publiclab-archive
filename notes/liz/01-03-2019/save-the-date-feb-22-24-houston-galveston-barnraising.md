@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/028/595/original/TexasBarnraising_flyer.jpg)
+
 # Save the Date Feb 22-24! Houston-Galveston Barnraising 
 
 by [liz](../profile/liz) January 02, 2019 22:15
 
 January 02, 2019 22:15 | Tags: [disaster-preparedness](../tag/disaster-preparedness), [barnraising](../tag/barnraising), [with:stevie](../tag/with:stevie), [texas](../tag/texas), [disaster-response](../tag/disaster-response), [disaster-resilience](../tag/disaster-resilience), [disaster-recovery](../tag/disaster-recovery), [barnraising-texas-2019](../tag/barnraising-texas-2019), [txbarnraising](../tag/txbarnraising)
+
+----
 
 **Barnraisings are the closest thing we have to a Public Lab conference -- but with an emphasis on "doing stuff together."** At a Barnraising, people from different backgrounds and different skill sets come together to develop environmental monitoring and advocacy approaches. This event is open to the public, and participation is guided by our [Code of Conduct][1] and Conduct Committee. We will form the schedule ourselves according to a facilitated process on the first morning. During the day, there are usually several activities happening at the same time, some are discussions, some are hands-on, and some go outside. If you wish to make a presentation, you can propose a 5 minute "lightning" talk on any topic on Saturday 5pm timeslot (just before dinner). 
 

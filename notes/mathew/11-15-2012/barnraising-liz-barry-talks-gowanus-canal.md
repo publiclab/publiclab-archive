@@ -14,6 +14,8 @@ by [mathew](../profile/mathew) November 16, 2012 03:19
 
 November 16, 2012 03:19 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [barnraising](../tag/barnraising), [barnraising2012](../tag/barnraising2012), [epa](../tag/epa)
 
+----
+
 These would ideally go with Liz's slides *hint*
 
 ###GLAM (Gowanus Low-Altitude Mapping###

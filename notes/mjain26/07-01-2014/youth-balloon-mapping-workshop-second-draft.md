@@ -8,11 +8,15 @@ uid: 424870
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/005/056/original/Screen_Shot_2014-07-01_at_2.09.48_PM.png)
+
 # Youth Balloon Mapping Workshop (second draft)
 
 by [mjain26](../profile/mjain26) July 01, 2014 19:10
 
 July 01, 2014 19:10 | Tags: [balloon-mapping](../tag/balloon-mapping), [education](../tag/education), [curriculum](../tag/curriculum), [youth](../tag/youth), [chicago](../tag/chicago)
+
+----
 
 ###My first draft
 Here is the [link](http://publiclab.org/notes/mjain26/06-24-2014/youth-balloon-mapping-workshop) to my first draft of the curriculum and materials. 

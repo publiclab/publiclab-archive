@@ -8,11 +8,15 @@ uid: 501144
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/019/185/original/transifex.png)
+
 # Using Transifex's Translating Platform
 
 by [gegeneo](../profile/gegeneo) January 03, 2017 10:10
 
 January 03, 2017 10:10 | Tags: [community](../tag/community), [website](../tag/website), [activity](../tag/activity), [internationalization](../tag/internationalization), [localization](../tag/localization), [translation](../tag/translation), [language](../tag/language), [gcin](../tag/gcin), [gcin-2016](../tag/gcin-2016), [replication:13651](../tag/replication:13651), [transifex](../tag/transifex)
+
+----
 
 # Introduction:
 

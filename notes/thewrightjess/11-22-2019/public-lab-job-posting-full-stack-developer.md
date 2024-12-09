@@ -8,11 +8,15 @@ uid: 603909
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/036/667/original/boots_banner.png)
+
 # Public Lab Job Posting: Full Stack Developer
 
 by [thewrightjess](../profile/thewrightjess) November 22, 2019 13:20
 
 November 22, 2019 13:20 | Tags: [jobs](../tag/jobs)
+
+----
 
 #### About Public Lab
 

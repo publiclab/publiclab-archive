@@ -14,6 +14,8 @@ by [cherylh](../profile/cherylh) May 15, 2017 05:48
 
 May 15, 2017 05:48 | Tags: [timelapse](../tag/timelapse), [answered](../tag/answered), [question:timelapse](../tag/question:timelapse), [counter-surveillance](../tag/counter-surveillance), [real-time](../tag/real-time)
 
+----
+
 ###What I want to do or know
 [
 Fair Tech Collective](https://www.fairtechcollective.org/) folks are investigating options for configuring cameras to monitor oil refineries, in the San Francisco Bay Area.

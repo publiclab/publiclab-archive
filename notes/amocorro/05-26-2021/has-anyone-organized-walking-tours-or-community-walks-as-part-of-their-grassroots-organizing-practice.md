@@ -14,6 +14,8 @@ by [amocorro](../profile/amocorro) May 26, 2021 23:23
 
 May 26, 2021 23:23 | Tags: [community-mapping](../tag/community-mapping), [organizing](../tag/organizing), [place](../tag/place), [advocacy](../tag/advocacy), [environmental-justice](../tag/environmental-justice), [question:general](../tag/question:general), [general](../tag/general), [community-organizing](../tag/community-organizing), [local-knowledge](../tag/local-knowledge), [question:organizing](../tag/question:organizing), [walking-tours](../tag/walking-tours), [toxic-tours](../tag/toxic-tours)
 
+----
+
 How have you threaded together local knowledge and histories where you are? There has been some discussion at Public Lab around the value of walking tours and community walks.
 
 **I am wondering:**

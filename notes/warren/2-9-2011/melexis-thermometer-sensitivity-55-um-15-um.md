@@ -14,6 +14,8 @@ by [warren](../profile/warren) February 09, 2011 20:42
 
 February 09, 2011 20:42 | Tags: [thermal-photography](../tag/thermal-photography), [thermal-camera](../tag/thermal-camera), [pyrex](../tag/pyrex), [lenses](../tag/lenses), [melexis](../tag/melexis)
 
+----
+
 There's a great thread on lenses for IR thermometers here:
 
 http://www.electronics-related.com/usenet/design/show/227663-1.php

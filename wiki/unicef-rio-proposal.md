@@ -14,6 +14,8 @@ by [liz](../profile/liz), [warren](../profile/warren)
 
 April 21, 2011 14:11 | Tags: [rio](../tag/rio)
 
+----
+
 ##Summary##
 
 UNICEF is proposing a large youth environmental risk mapping project... for the 2012 Rio+20 Earth Summit. 12 month, 125 participant, and though we proposed balloon mapping with our existing local contacts, Joe seems to be proposing a GPS cellphone based approach. We can make additional suggestions of using rectified paper mapping, but this seems unresolved and we need to find out the following:

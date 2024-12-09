@@ -14,6 +14,8 @@ by [goliadranger](../profile/goliadranger)
 
 September 12, 2013 18:12 | Tags: [foss4g](../tag/foss4g), [gis](../tag/gis), [foss](../tag/foss), [geo](../tag/geo), [geospatial](../tag/geospatial)
 
+----
+
 Welcome to the Free & Open Source Software for Geospatial Educators wiki.  Our purpose is to build and sustain the FOSS4G Community of Practice among college and university educators, their students, and employers.
 
 

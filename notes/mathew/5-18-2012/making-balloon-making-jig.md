@@ -8,11 +8,15 @@ uid: 4
 
 ---
 
+![](https://publiclab.org/sites/default/files/Foilballoon03.09.JPG)
+
 # Making a balloon-making jig
 
 by [mathew](../profile/mathew) May 18, 2012 19:33
 
 May 18, 2012 19:33 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-balloon-hybrid](../tag/kite-balloon-hybrid), [diy-balloon](../tag/diy-balloon)
+
+----
 
 We haven't had much luck finding someone willing to manufacture mylar balloons bigger than 1 meter (3 feet).  Which got me thinking about how to manufacture balloons myself.  
 

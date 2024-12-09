@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/007/788/original/Screen_Shot_2014-11-10_at_10.16.37_AM.png)
+
 # Table for choosing monitoring tools
 
 by [warren](../profile/warren) November 10, 2014 15:24
 
 November 10, 2014 15:24 | Tags: [epa](../tag/epa), [development](../tag/development), [comparison](../tag/comparison), [sensitivity](../tag/sensitivity), [regulations](../tag/regulations), [monitoring](../tag/monitoring), [regulators](../tag/regulators)
+
+----
 
 ###What I want to do
 

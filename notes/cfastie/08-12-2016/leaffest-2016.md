@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/017/583/original/IMG_1824_2kH.jpg)
+
 # LEAFFEST 2016
 
 by [cfastie](../profile/cfastie) August 12, 2016 18:24
 
 August 12, 2016 18:24 | Tags: [vermont](../tag/vermont), [leaffest](../tag/leaffest), [northeast](../tag/northeast), [response:12212](../tag/response:12212), [leaffest2016](../tag/leaffest2016), [leaffest-2016](../tag/leaffest-2016)
+
+----
 
 *Above: LEAFFEST HQ with garden and tenting grounds during the third annual LEAFFEST (2014). Photo by T. Smythe.*
 

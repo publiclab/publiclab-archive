@@ -8,11 +8,15 @@ uid: 4
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/020/298/original/full_run.gif)
+
 # Changing filters on the pDR-1500
 
 by [mathew](../profile/mathew) May 01, 2017 23:21
 
 May 01, 2017 23:21 | Tags: [dust](../tag/dust), [silica](../tag/silica), [pm](../tag/pm), [dust-monitoring](../tag/dust-monitoring), [pm-monitoring](../tag/pm-monitoring), [1031710](../tag/1031710), [pdr-1500](../tag/pdr-1500), [activity:pdr-1500](../tag/activity:pdr-1500)
+
+----
 
 The pDR-1500 needs its filter changed very 24 hours of runtime. Filters may also be used for [gravimetric calibration](https://publiclab.org/wiki/filter-pm).  This activity steps through filter changing.
 

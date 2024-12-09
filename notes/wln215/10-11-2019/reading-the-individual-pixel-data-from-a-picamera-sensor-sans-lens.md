@@ -14,6 +14,8 @@ by [wln215](../profile/wln215) October 11, 2019 17:44
 
 October 11, 2019 17:44 | Tags: [spectrometer](../tag/spectrometer), [spectroscopy](../tag/spectroscopy), [question:spectrometer](../tag/question:spectrometer), [spectrometers](../tag/spectrometers), [question:general](../tag/question:general), [general](../tag/general), [picamera](../tag/picamera)
 
+----
+
 I am using a CCD to read the output of a (Lens-Grating-Lens) spectrometer. I am trying to calculate the angle of separation of two given wavelengths by reading the sensor output. The pixel pitch of the sensor (1.12 um for V2 and 1.4 um for V1) can be multiplied by the pixel count to measure the separation. The angular separation is the tangent of this pixel measurement and focal length of my focusing lens (.66m and 1.0m). 
 ![My captured image centered around 650nm.][1]
 

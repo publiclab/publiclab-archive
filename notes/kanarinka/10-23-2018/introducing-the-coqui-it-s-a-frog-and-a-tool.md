@@ -8,11 +8,15 @@ uid: 994
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/027/096/original/Screenshot_2018-10-22_15.50.27.png)
+
 # Introducing the Coquí – it's a frog and a tool!
 
 by [kanarinka](../profile/kanarinka) October 23, 2018 10:11
 
 October 23, 2018 10:11 | Tags: [education](../tag/education), [kits](../tag/kits), [water-quality](../tag/water-quality), [blog](../tag/blog), [sensor](../tag/sensor), [coqui](../tag/coqui), [hardware](../tag/hardware), [community-kits](../tag/community-kits)
+
+----
 
 Have you heard of the Coquí? They are sonorous frogs from Puerto Rico, and the subject of [an awesome Menudo video from the 1980s](https://youtu.be/F-OpMNRL878).
 

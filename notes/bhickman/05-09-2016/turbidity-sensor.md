@@ -8,11 +8,15 @@ uid: 201929
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/016/036/original/image001.png)
+
 # Turbidity Sensor
 
 by [bhickman](../profile/bhickman) May 09, 2016 06:08
 
 May 09, 2016 06:08 | Tags: [water-quality](../tag/water-quality), [turbidity](../tag/turbidity), [optical-sensor](../tag/optical-sensor), [barnstar:basic](../tag/barnstar:basic), [waterquality](../tag/waterquality), [activity:turbidity](../tag/activity:turbidity), [sensor-enclosures](../tag/sensor-enclosures), [water-sensors](../tag/water-sensors)
+
+----
 
 ##Overview
 The goal of this project was to make a reliable, quantitative turbidity sensor from easily accessible parts. The construction of the sensor involves a few pieces of PVC fittings that can be found at any hardware store, a 3D printed head to hold the optics in place, and an LED and photodarlington as the light source and detector. 

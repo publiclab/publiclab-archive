@@ -8,11 +8,15 @@ uid: 409
 
 ---
 
+![](https://publiclab.org/sites/default/files/P7312157_0.JPG)
+
 # "IT'S A MAP!" @ Beam Camp, NH
 
 by [oscarbrett](../profile/oscarbrett) August 01, 2012 21:12
 
 August 01, 2012 21:12 | Tags: [education](../tag/education), [new-hampshire](../tag/new-hampshire), [beam-camp](../tag/beam-camp), [summer-camp](../tag/summer-camp), [teaching](../tag/teaching), [mapping-with-youth](../tag/mapping-with-youth), [campers](../tag/campers), [strafford-new-hampshire](../tag/strafford-new-hampshire), [northeast](../tag/northeast), [strafford](../tag/strafford)
+
+----
 
 "IT'S A MAP!"– a course (known as a Domain here at beam camp) was designed to introduce kids to mapping as more than just a way to get where you're going. In "IT'S A MAP!" Campers were encouraged to see maps less as factual geographic explanations and more as learning tools to help them explore ways of expressing and interpreting themselves, our worlds and the relationships between them. 
 

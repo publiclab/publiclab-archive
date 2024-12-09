@@ -3,6 +3,8 @@ uid: 301914
 created_at: 2013-10-07 13:41:25 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/7d0192ce54623494080420bc944c647d)
+
 # AndyZ
 
 I currently work with Louisiana communities as the Research Analyst with the environmental health and justice non-profit, Louisiana Bucket Brigade. I support community based participatory research by utilizing our DIY tools, the "bucket", and iWitness Pollution Map. 

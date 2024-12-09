@@ -8,11 +8,15 @@ uid: 524509
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/026/139/original/rails5upgrade.png)
+
 # GSoC 2018: Upgrade of Public Lab to Rails 5.2
 
 by [souravirus](../profile/souravirus) August 09, 2018 21:53
 
 August 09, 2018 21:53 | Tags: [social-media](../tag/social-media), [gsoc](../tag/gsoc), [gsoc-2018-final](../tag/gsoc-2018-final), [soc-2018-final-report](../tag/soc-2018-final-report)
+
+----
 
 ## About Me
 

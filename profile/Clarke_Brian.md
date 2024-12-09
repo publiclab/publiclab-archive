@@ -3,6 +3,8 @@ uid: 48632
 created_at: 2013-07-09 01:05:35 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/153f18a4339bf3f3efa240bc70483763)
+
 # Clarke_Brian
 
 Northeastern University graduate living in Boston

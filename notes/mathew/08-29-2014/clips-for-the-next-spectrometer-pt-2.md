@@ -8,11 +8,15 @@ uid: 4
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/006/496/original/Screen_Shot_2014-08-28_at_9.35.40_PM.png)
+
 # Clips for the next spectrometer, pt 2
 
 by [mathew](../profile/mathew) August 29, 2014 04:36
 
 August 29, 2014 04:36 | Tags: [spectrometer](../tag/spectrometer), [oil-testing-kit](../tag/oil-testing-kit)
+
+----
 
 ###What I want to do
 try out some [clips I bought](/notes/mathew/08-20-2014/clips-for-the-next-spectrometer) and figure how they fit in a [new spectrometer design](/notes/mathew/08-01-2014/hardware-design-work-for-the-oil-testing-kit).

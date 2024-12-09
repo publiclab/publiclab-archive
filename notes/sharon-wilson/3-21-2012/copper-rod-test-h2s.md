@@ -8,11 +8,15 @@ uid: 697
 
 ---
 
+![](https://publiclab.org/sites/default/files/H2S detect.jpg)
+
 # Copper rod test for H2S
 
 by [Sharon Wilson](../profile/Sharon Wilson) March 22, 2012 02:20
 
 March 22, 2012 02:20 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s), [activity:h2s-copper-pipe](../tag/activity:h2s-copper-pipe)
+
+----
 
 <strong>Instructions for copper tubing H2S test</strong>
 

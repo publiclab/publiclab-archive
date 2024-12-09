@@ -8,11 +8,15 @@ uid: 424605
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/004/849/original/2014-06-02_12.02.42.jpg)
+
 # What Mobile Apps for Repeat Photography Do You Use?
 
 by [chelseak](../profile/chelseak) June 18, 2014 18:43
 
 June 18, 2014 18:43 | Tags: 
+
+----
 
 ##Collecting Images of a Location
 I'm monitoring a stream restoration project and looking for a quick and easy way to collect images of the changes expected to develop over two years. 

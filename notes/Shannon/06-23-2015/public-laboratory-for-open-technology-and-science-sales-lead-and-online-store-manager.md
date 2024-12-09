@@ -8,11 +8,15 @@ uid: 9
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/010/415/original/plots-logo-transparent.jpg)
+
 # Public Lab: Sales lead and online store manager
 
 by [Shannon](../profile/Shannon) June 23, 2015 18:47
 
 June 23, 2015 18:47 | Tags: [nonprofit](../tag/nonprofit)
+
+----
 
 **Start Date:** Early August 2015 </br>
 **Location:** Portland, OR </br>

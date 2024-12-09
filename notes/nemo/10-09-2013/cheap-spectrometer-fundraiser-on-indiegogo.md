@@ -8,11 +8,15 @@ uid: 39668
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/001/814/original/function1_v3.jpg)
+
 # Cheap spectrometer fundraiser on indiegogo
 
 by [nemo](../profile/nemo) October 09, 2013 00:14
 
 October 09, 2013 00:14 | Tags: [spectrometer](../tag/spectrometer)
+
+----
 
 Cheap spectrometer fundraiser on [indiegogo](http://www.indiegogo.com/projects/tellspec-what-s-in-your-food) which is tailored towards food detection ...
 

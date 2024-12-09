@@ -8,11 +8,15 @@ uid: 422561
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/006/243/original/IMG_2342.JPG)
+
 # Working Oil Testing Event Guide 
 
 by [stevie](../profile/stevie) August 13, 2014 22:04
 
 August 13, 2014 22:04 | Tags: [spectrometer](../tag/spectrometer), [community](../tag/community), [workshop](../tag/workshop), [oil-response-toolkit](../tag/oil-response-toolkit), [oil-testing-kit](../tag/oil-testing-kit), [event-guide](../tag/event-guide), [activity:host-an-event](../tag/activity:host-an-event), [activity:teach-and-learn](../tag/activity:teach-and-learn)
+
+----
 
 This post is a working document on the developing Oil Testing Kit Event Guide. I expect it to change and adapt as we refine our techniques. Please post comments and feedback. This is the event structure we followed for the [Oil Testing Event on 7/31/14](http://publiclab.org/notes/stevie/08-01-2014/recap-july-31-new-orleans-oil-testing-meetup).
 

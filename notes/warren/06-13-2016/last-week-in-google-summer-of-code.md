@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/016/598/original/Screenshot_2016-06-13_at_12.01.28_PM.png)
+
 # Last week in Google Summer of Code
 
 by [warren](../profile/warren) June 13, 2016 16:13
 
 June 13, 2016 16:13 | Tags: [website](../tag/website), [software](../tag/software), [gsoc](../tag/gsoc), [developers](../tag/developers), [coding](../tag/coding), [wwg](../tag/wwg), [gsoc-2016](../tag/gsoc-2016), [response:13161](../tag/response:13161)
+
+----
 
 **Update:** _This whole post was written, from start to finish, in the prototype #rich-editor!_
 

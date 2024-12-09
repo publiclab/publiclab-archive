@@ -8,11 +8,15 @@ uid: 427892
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/007/069/original/br.JPG)
+
 # Bridget & Casey's Water Sample Locations 
 
 by [caseyrcampbell327](../profile/caseyrcampbell327) September 29, 2014 11:04
 
 September 29, 2014 11:04 | Tags: [water-quality](../tag/water-quality), [first-time-poster](../tag/first-time-poster)
+
+----
 
 ##Plymouth Harbor Boat Ramp
 

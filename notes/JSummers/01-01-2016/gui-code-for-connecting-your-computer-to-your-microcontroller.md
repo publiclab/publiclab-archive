@@ -8,11 +8,15 @@ uid: 304279
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/013/487/original/GUI-1.png)
+
 #  GUI code for connecting your computer to your microcontroller.
 
 by [JSummers](../profile/JSummers) January 01, 2016 20:27
 
 January 01, 2016 20:27 | Tags: [processing](../tag/processing), [datalogger](../tag/datalogger), [interface](../tag/interface), [microcontroller](../tag/microcontroller), [graphic](../tag/graphic), [user](../tag/user), [graphic-user-interface](../tag/graphic-user-interface), [response:11822](../tag/response:11822)
+
+----
 
 ###What I want to do:
 This research note is one in a series that is intended to help people start writing code for graphic user interfaces (GUIs) to control and communicate with their microcontrollers.  We use the program "Processing" to write our GUIs.  The rest of the series can be accessed from links on this [wiki page](https://publiclab.org/wiki/creating-graphic-user-interfaces-guis). 

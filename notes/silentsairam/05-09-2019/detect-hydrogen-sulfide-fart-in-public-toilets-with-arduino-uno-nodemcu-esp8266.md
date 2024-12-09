@@ -8,11 +8,15 @@ uid: 553044
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/031/863/original/2019-03-26_11_04_08-COM90.png)
+
 # Detect Hydrogen Sulfide (Fart ) in Public Toilets with Arduino UNO/NodeMCU(ESP8266)
 
 by [silentsairam](../profile/silentsairam) May 09, 2019 17:16
 
 May 09, 2019 17:16 | Tags: [arduino](../tag/arduino), [h2s](../tag/h2s), [farts](../tag/farts), [arduino-uno](../tag/arduino-uno), [h2s-detector](../tag/h2s-detector), [hydrogen-sulfide-sensor](../tag/hydrogen-sulfide-sensor), [lat:12.945469](../tag/lat:12.945469), [lon:80.147393](../tag/lon:80.147393)
+
+----
 
 ```
 Overview:

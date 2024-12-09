@@ -8,11 +8,15 @@ uid: 319070
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/009/859/original/InfragramColorIndex.jpg)
+
 # NDVI with a key chain camera to use with a mini-drone - Third steps Part A
 
 by [azaelb](../profile/azaelb) May 09, 2015 21:50
 
 May 09, 2015 21:50 | Tags: [ndvi](../tag/ndvi), [imagej](../tag/imagej), [infragram](../tag/infragram), [drone](../tag/drone), [photomonitoring](../tag/photomonitoring), [ndvi-ag](../tag/ndvi-ag), [hi](../tag/hi)
+
+----
 
 After the two former steps, [NDVI with a key chain camera to use with a mini-drone - First steps](http://publiclab.org/notes/azaelb/04-11-2015/ndvi-with-a-key-chain-camera-from-a-mini-drone-first-steps) and [NDVI with a key chain camera to use with a mini-drone - second steps](http://publiclab.org/notes/azaelb/04-27-2015/ndvi-with-a-key-chain-camera-to-use-with-a-mini-drone-second-steps) it was time to go to the field, load the camera under the mini-drone and try an open green area which has been battered during the dry season here (by the way El Niño arrived in december over here).
 We tried this time only the blue filter we received from Public Lab with the two filters kit, with the mini camera we prepared before. In Part B we will try the red filter.

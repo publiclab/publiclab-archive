@@ -8,11 +8,15 @@ uid: 422561
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/018/952/original/P-etcoke-protestors.jpg)
+
 # What fuels a movement?
 
 by [stevie](../profile/stevie) December 01, 2016 21:59
 
 December 01, 2016 21:59 | Tags: [blog](../tag/blog), [petcoke](../tag/petcoke), [chicago](../tag/chicago), [pm](../tag/pm), [midwest](../tag/midwest), [pet-coke](../tag/pet-coke), [with:olga](../tag/with:olga), [community-organizing](../tag/community-organizing), [interview-series](../tag/interview-series), [series:community-interviews](../tag/series:community-interviews)
+
+----
 
 _Lead image of protesters protesting the Pet Coke Piles on southeast side of Chicago. Image found on the [Public Lab Chicago](https://publiclab.org/wiki/chicago) page._  
 

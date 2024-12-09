@@ -8,11 +8,15 @@ uid: 572743
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/033/365/original/header.jpeg)
+
 # GSoC Post 1: Spectral-Workbench-Capture
 
 by [sidntrivedi012](../profile/sidntrivedi012) June 29, 2019 12:47
 
 June 29, 2019 12:47 | Tags: [open-source](../tag/open-source), [spectral-workbench](../tag/spectral-workbench), [gsoc](../tag/gsoc), [soc-2019](../tag/soc-2019), [post-1](../tag/post-1)
+
+----
 
 > Linus Torvalds said - <br><br> "I often compare open source to science. To where science took this whole notion of developing ideas in the open and improving on other peoples' ideas and making it into what science is today and the incredible advances that we have had."<br>
 

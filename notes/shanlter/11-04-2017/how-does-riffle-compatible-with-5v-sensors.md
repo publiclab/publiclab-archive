@@ -14,6 +14,8 @@ by [shanlter](../profile/shanlter) November 04, 2017 16:01
 
 November 04, 2017 16:01 | Tags: [arduino](../tag/arduino), [sensors](../tag/sensors), [riffle](../tag/riffle), [question:riffle](../tag/question:riffle), [answered](../tag/answered), [voltage](../tag/voltage), [question:arduino](../tag/question:arduino)
 
+----
+
 I found that riffle's operating voltage is 3.3v, while most of sensors compatible with Arduino is 5V.
 
 How could riffle compatible with those sensors?

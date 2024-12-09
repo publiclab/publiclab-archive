@@ -8,11 +8,15 @@ uid: 379
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/004/562/original/screenshot_preview_list_pl_sorting.png)
+
 # Tips on Sorting on Windows, including re-naming filenames
 
 by [eustatic](../profile/eustatic) June 08, 2014 17:03
 
 June 08, 2014 17:03 | Tags: [gulf-coast](../tag/gulf-coast), [balloon-mapping](../tag/balloon-mapping), [sorting](../tag/sorting), [image-sorting](../tag/image-sorting), [response:732](../tag/response:732), [response:2589](../tag/response:2589), [activity:image-sorting](../tag/activity:image-sorting), [qgis](../tag/qgis)
+
+----
 
 ###To Grind or to Automate?
 

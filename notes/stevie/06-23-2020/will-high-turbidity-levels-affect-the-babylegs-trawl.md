@@ -14,6 +14,8 @@ by [stevie](../profile/stevie) June 23, 2020 17:37
 
 June 23, 2020 17:37 | Tags: [water-quality](../tag/water-quality), [question:water-quality](../tag/question:water-quality), [question:general](../tag/question:general), [general](../tag/general), [question:microplastics](../tag/question:microplastics), [microplastics](../tag/microplastics), [question:baby-legs](../tag/question:baby-legs), [baby-legs](../tag/baby-legs)
 
+----
+
 I was wondering if a stream that is filled with a lot of sediment would affect the [Babylegs][1] microplastics trawl. Do the tights foul in murky water? Will I be able to monitor for microplastics using this tool in a river like that?
 
   [1]: https://publiclab.org/wiki/babylegs (edited) 

@@ -8,11 +8,15 @@ uid: 432001
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/010/548/original/Screen_Shot_2015-07-06_at_11.45.55_AM.png)
+
 # Cape Cod Thermal Fishing Bob Field Test
 
 by [kgrevera](../profile/kgrevera) July 06, 2015 15:58
 
 July 06, 2015 15:58 | Tags: [thermal-photography](../tag/thermal-photography), [cape-cod](../tag/cape-cod), [water-quality](../tag/water-quality), [thermal-fishing-bob](../tag/thermal-fishing-bob), [thermal](../tag/thermal), [thermal-pollution](../tag/thermal-pollution), [heat](../tag/heat), [replication:689](../tag/replication:689)
+
+----
 
 ##Cape Cod Thermal Fishing Bob Field Test
 

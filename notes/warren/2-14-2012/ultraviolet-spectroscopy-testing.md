@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/2012-2-14-17-5.png)
+
 # Ultraviolet spectroscopy test at ~350nm
 
 by [warren](../profile/warren) February 14, 2012 22:10
 
 February 14, 2012 22:10 | Tags: 
+
+----
 
 Messing with an ultraviolet LED flashlight and some makeup today, i was able to get reflected/fluoresced light at around 350 nanometers!
 

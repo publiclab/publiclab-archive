@@ -14,6 +14,8 @@ by [eustatic](../profile/eustatic) August 07, 2012 02:19
 
 August 07, 2012 02:19 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s), [h2s-sites](../tag/h2s-sites)
 
+----
+
 Salt Domes are natural formations often associated with oil deposits, and they are hollowed out and used to store oil, gas, and compressed air. 
 
 Sometimes, they go all sideways.  

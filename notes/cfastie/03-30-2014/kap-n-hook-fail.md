@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/003/453/original/KAPnHook-372-15c.jpg)
+
 # KAP'n Hook fail
 
 by [cfastie](../profile/cfastie) March 30, 2014 01:41
 
 March 30, 2014 01:41 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [vermont](../tag/vermont), [kap](../tag/kap), [3d-printing](../tag/3d-printing), [makerbot](../tag/makerbot), [response:10230](../tag/response:10230)
+
+----
 
 Peter Bults of [KAPshop ](http://kapshop.com) generously sent me a message when he saw the 3D printed [KAP/BAP rigs I started to introduce](http://publiclab.org/notes/cfastie/03-27-2014/the-redstone-rig-is-ready) this week.  He was quite confident that my KAP'n Hooks that attach the Picavet to the flying line would not survive the line tension produced by a hard pulling kite. I hadn't thought much about the forces produced by the kite line, but I immediately started to.
 

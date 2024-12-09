@@ -8,11 +8,15 @@ uid: 304279
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/005/135/original/WheeStat-VoltammetryPhoto.jpg)
+
 # Getting your WheeStat set up.
 
 by [JSummers](../profile/JSummers) July 04, 2014 17:40
 
 July 04, 2014 17:40 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [water-quality](../tag/water-quality), [potentiostat](../tag/potentiostat), [wheestat](../tag/wheestat)
+
+----
 
 ###What I want to do
 This research note is intended to explain how to setup a WheeStat potentiostat.

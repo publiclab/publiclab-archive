@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/radiation-camera.jpg)
+
 # Toshiba "radiation camera" makes radioactivity heatmaps
 
 by [warren](../profile/warren) December 15, 2011 17:03
 
 December 15, 2011 17:03 | Tags: [radiation](../tag/radiation)
+
+----
 
 http://techon.nikkeibp.co.jp/english/NEWS_EN/20111214/202583/
 

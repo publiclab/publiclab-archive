@@ -8,11 +8,15 @@ uid: 526118
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/023/719/original/Screen_Shot_2018-02-26_at_12.11.18_PM.png)
+
 # Can Public Lab help eradicate guinea worm disease by illuminating unknown and potentially contaminated water sources across a jungle/swampy endemic area?
 
 by [CWells](../profile/CWells) February 26, 2018 08:22
 
 February 26, 2018 08:22 | Tags: [kite-mapping](../tag/kite-mapping), [waterway](../tag/waterway), [mapping](../tag/mapping), [water-quality-mapping](../tag/water-quality-mapping), [water](../tag/water), [africa](../tag/africa), [mapping-requests](../tag/mapping-requests), [water-borne-diseases](../tag/water-borne-diseases), [question:mapping](../tag/question:mapping), [ethiopia](../tag/ethiopia), [question:water](../tag/question:water), [question:guinea-worm](../tag/question:guinea-worm), [guinea-worm](../tag/guinea-worm)
+
+----
 
 Can Public Lab help eradicate guinea worm disease by illuminating unknown and potentially contaminated water sources across a jungle/swampy endemic area?
 

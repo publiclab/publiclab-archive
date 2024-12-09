@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/024/747/original/IMG_20180425_165529_888.jpg)
+
 # Testing a cheap webcam with Infragram - spoiler alert: nope
 
 by [warren](../profile/warren) April 25, 2018 20:56
 
 April 25, 2018 20:56 | Tags: [kits](../tag/kits), [webcam](../tag/webcam), [infragram](../tag/infragram), [infragram-conversion](../tag/infragram-conversion), [lens](../tag/lens), [red-filter](../tag/red-filter), [infragram-webcam](../tag/infragram-webcam), [aren](../tag/aren), [activity:infrared-camera-conversion](../tag/activity:infrared-camera-conversion), [infrared-camera-conversion](../tag/infrared-camera-conversion), [ndvi:](../tag/ndvi:), [infragram-testing](../tag/infragram-testing), [m12](../tag/m12), [negative-result](../tag/negative-result)
+
+----
 
 We've started shipping some really cheap new webcams with our introductory kits -- the imagery is not great, but we really want to ensure there's an affordable starting point, so we're offering nicer cameras at higher prices. We're doing this with the [Lego spectrometer](/lego) and our new [Basic Microscope Kit](/microscopes), I wanted to see if it was possible with [the Infragram project](/infragram). So I gave it a try, removing the lens and substituting a lens with a red filter (turns out these webcams do use an M12 lens mount, of the same kind [posted about](https://publiclab.org/notes/MaggPi/04-08-2018/raspberry-pi-microscope-close-up-lens-system) by @MaggPi).
 

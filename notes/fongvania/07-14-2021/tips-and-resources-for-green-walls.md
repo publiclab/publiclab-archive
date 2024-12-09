@@ -14,6 +14,8 @@ by [fongvania](../profile/fongvania) July 14, 2021 05:41
 
 July 14, 2021 05:41 | Tags: [plant](../tag/plant), [plants](../tag/plants), [urban-ecology](../tag/urban-ecology), [landscape](../tag/landscape), [general](../tag/general), [green-wall](../tag/green-wall), [vertical-garden](../tag/vertical-garden)
 
+----
+
 I found some research that I did with a team on green walls and wanted to share it more broadly. We ultimately did not develop the wall, but we learned a lot about requirements and considerations. Without ado, here goes...
 
   

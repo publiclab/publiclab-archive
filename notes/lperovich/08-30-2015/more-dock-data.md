@@ -8,11 +8,15 @@ uid: 443410
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/011/342/original/8.28.15.jpg)
+
 # More dock data!
 
 by [lperovich](../profile/lperovich) August 30, 2015 18:10
 
 August 30, 2015 18:10 | Tags: [thermal-fishing](../tag/thermal-fishing), [riffle](../tag/riffle), [riffle-examples](../tag/riffle-examples)
+
+----
 
 After the success of the first deployment (@sara, @donblair), I repackaged the thermal fishing bob for a longer even more real test.  
 

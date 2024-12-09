@@ -8,11 +8,15 @@ uid: 555321
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/038/776/original/pasted_image_0.png)
+
 #  If you don't know about georectification...
 
 by [sashadev-sky](../profile/sashadev-sky) March 28, 2020 11:37
 
 March 28, 2020 11:37 | Tags: [software](../tag/software), [leaflet](../tag/leaflet), [code](../tag/code), [leaflet.distortableimage](../tag/leaflet.distortableimage), [lat:40](../tag/lat:40), [lon:-70](../tag/lon:-70), [zoom:5](../tag/zoom:5), [georectification](../tag/georectification)
+
+----
 
 [Leaflet.DistortableImage (LDI)](https://github.com/publiclab/Leaflet.DistortableImage) -
 

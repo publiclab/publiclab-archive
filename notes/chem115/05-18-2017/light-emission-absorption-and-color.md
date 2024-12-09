@@ -8,11 +8,15 @@ uid: 507574
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/020/496/original/8277298848_5688256a0a.jpg)
+
 # LIGHT — Emission, Absorption and Color
 
 by [chem115](../profile/chem115) May 18, 2017 16:19
 
 May 18, 2017 16:19 | Tags: 
+
+----
 
 LED   
 

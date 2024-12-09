@@ -8,11 +8,15 @@ uid: 442298
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/011/898/original/undefined)
+
 # Oil testing kit Evaluation
 
 by [chongyukwai](../profile/chongyukwai) October 04, 2015 11:32
 
 October 04, 2015 11:32 | Tags: [oil-testing-kit](../tag/oil-testing-kit)
+
+----
 
 ###What I want to do
 The destop spectrometer kit and the oil testing kit was set up as below. The slit was using the standard slit provided in the kit

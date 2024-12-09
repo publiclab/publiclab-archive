@@ -3,6 +3,8 @@ uid: 431924
 created_at: 2014-11-24 09:56:27 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/d360089bbbdb858baa6199644a2d1c18)
+
 # imie43
 
 Weather station Davis Vantage Vue

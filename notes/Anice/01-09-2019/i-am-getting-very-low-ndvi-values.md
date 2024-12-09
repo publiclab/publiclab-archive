@@ -14,6 +14,8 @@ by [Anice](../profile/Anice) January 09, 2019 08:21
 
 January 09, 2019 08:21 | Tags: [ndvi](../tag/ndvi), [agriculture](../tag/agriculture), [infragram](../tag/infragram), [crops](../tag/crops), [aerial](../tag/aerial), [question:ndvi](../tag/question:ndvi), [question:infragram](../tag/question:infragram), [sugarcane](../tag/sugarcane), [answered](../tag/answered), [imaging](../tag/imaging), [hardware](../tag/hardware), [pin:question:infragram-challenges](../tag/pin:question:infragram-challenges)
 
+----
+
 Good day!
 
 I am experiencing a problem regarding the NDVI values I have acquired after conducting aerial imaging over a sugarcane plot using a modified RGN, CHDK-enabled Canon SX230 camera (Rosco Fire #19 filter). I am also using a card (contained in the Infragram Kit) to calibrate (customize white balance) the camera under a shaded location.The NDVI values I have acquired ranges from -0.336 to 0.106 only. This was taken under clear skies.

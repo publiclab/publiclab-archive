@@ -14,6 +14,8 @@ by [stevie](../profile/stevie)
 
 November 01, 2017 19:20 | Tags: [workshop](../tag/workshop), [event](../tag/event), [activity](../tag/activity), [getting-started](../tag/getting-started), [issue-brief](../tag/issue-brief), [activity:community-organizing](../tag/activity:community-organizing), [activity:issue-brief](../tag/activity:issue-brief)
 
+----
+
 **About this workshop:** In this workshop, participants will work together to explore [Issue Briefs](https://publiclab.org/wiki/issue-brief) posted to Public Lab. Objectives of the workshop are to engage in community science issues, help build ideas on how to address them, share ideas and pathways forward with the broader Public Lab community. This workshop can be adapted to be done for as few as 10 people or as many as 90. 
 
 **Activities:**

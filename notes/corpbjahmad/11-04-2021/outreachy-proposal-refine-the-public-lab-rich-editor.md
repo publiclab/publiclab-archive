@@ -8,11 +8,15 @@ uid: 777430
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/045/029/original/Screenshot_2021-11-04_at_07.36.13.png)
+
 # Outreachy proposal: Refine the public lab rich editor
 
 by [corpbjahmad](../profile/corpbjahmad) November 04, 2021 07:44
 
 November 04, 2021 07:44 | Tags: [software](../tag/software), [lat:0](../tag/lat:0), [lon:0](../tag/lon:0), [outreachy](../tag/outreachy), [first-time-poster](../tag/first-time-poster), [zoom:5](../tag/zoom:5), [outreachy-2021](../tag/outreachy-2021), [outreachy-winter-2021](../tag/outreachy-winter-2021)
+
+----
 
 (This template is for students applying to summer code programs with Public Lab. Use this link to start writing a post: [https://publiclab.org/post?n=899&tags=soc,soc-2019,soc-2019-proposals](https://publiclab.org/post?n=899&tags=soc,soc-2019,soc-2019-proposals) You can delete this line once you've started filling it out.)
 

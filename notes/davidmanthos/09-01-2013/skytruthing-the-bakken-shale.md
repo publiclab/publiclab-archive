@@ -8,11 +8,15 @@ uid: 224945
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/001/368/original/Bakken.Marble.Annotated.png)
+
 # Skytruthing the Bakken Shale 
 
 by [davidmanthos](../profile/davidmanthos) September 01, 2013 05:10
 
 September 01, 2013 05:10 | Tags: [balloon-mapping](../tag/balloon-mapping), [bakken](../tag/bakken), [bakken-shale](../tag/bakken-shale), [shale](../tag/shale), [skytruth](../tag/skytruth), [flares](../tag/flares), [natural-gas](../tag/natural-gas)
+
+----
 
 UPDATE: The launch was a success! Read our first report at - [http://blog.skytruth.org/2013/09/skytruth-the-bakken-field-report.html](http://blog.skytruth.org/2013/09/skytruth-the-bakken-field-report.html)
 

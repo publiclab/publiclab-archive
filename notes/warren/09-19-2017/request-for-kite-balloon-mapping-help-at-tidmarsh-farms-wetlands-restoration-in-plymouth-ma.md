@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/021/707/original/IMG_0209.JPG)
+
 # Request for kite/balloon mapping help at Tidmarsh Farms wetlands restoration in Plymouth MA
 
 by [warren](../profile/warren) September 19, 2017 17:58
 
 September 19, 2017 17:58 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [wetlands](../tag/wetlands), [restoration](../tag/restoration), [event](../tag/event), [massachusetts](../tag/massachusetts), [plymouth](../tag/plymouth), [tidmarsh](../tag/tidmarsh), [request:aerial-photography](../tag/request:aerial-photography), [mapping-requests](../tag/mapping-requests), [wetlands-restoration](../tag/wetlands-restoration), [requests](../tag/requests)
+
+----
 
 A LOT of events are coming up across the Public Lab network, folks -- this one on Saturday, October 21 from 3 pm to 7 pm near Plymouth, MA.
 

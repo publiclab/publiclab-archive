@@ -14,6 +14,8 @@ by [markwh](../profile/markwh) November 19, 2014 15:33
 
 November 19, 2014 15:33 | Tags: [water-sensing](../tag/water-sensing), [water-quality-monitoring](../tag/water-quality-monitoring), [water-quality](../tag/water-quality), [umass-amherst](../tag/umass-amherst), [publiclab-at-umass](../tag/publiclab-at-umass)
 
+----
+
 *This is a follow-up to [this research note](http://publiclab.org/notes/jenniferdsara/11-13-2014/waterproof-housing-for-the-arduino-conductivity-meter)*
 
 ###What I want to do

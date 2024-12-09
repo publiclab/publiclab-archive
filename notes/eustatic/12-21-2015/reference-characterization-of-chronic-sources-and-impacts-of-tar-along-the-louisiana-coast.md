@@ -8,11 +8,15 @@ uid: 379
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/013/419/original/8516111863_38ff97e56e_b.jpg)
+
 # [Reference] Characterization of Chronic sources and Impacts of Tar along the Louisiana Coast
 
 by [eustatic](../profile/eustatic) December 21, 2015 06:45
 
 December 21, 2015 06:45 | Tags: [gulf-coast](../tag/gulf-coast), [orca](../tag/orca), [oil-testing-kit](../tag/oil-testing-kit), [otk](../tag/otk), [homebrew](../tag/homebrew)
+
+----
 
 ###What I want to do
 

@@ -8,11 +8,15 @@ uid: 513114
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/033/327/original/rotating_magnetic_field_device.jpg)
+
 # Rotating magnetic field generator potentate analgezic effect on human body 
 
 by [sciencetoolbar](../profile/sciencetoolbar) February 15, 2018 14:17
 
 February 15, 2018 14:17 | Tags: [rotating-magnetic-field-device](../tag/rotating-magnetic-field-device), [rmf-device](../tag/rmf-device), [rmf](../tag/rmf), [rotating-magnetic-field-device-analgesic-effect](../tag/rotating-magnetic-field-device-analgesic-effect), [therapy-device](../tag/therapy-device), [generating-rotative-magnetic-field](../tag/generating-rotative-magnetic-field), [the-effects-of-magnetic-fields](../tag/the-effects-of-magnetic-fields), [the-effect-of-rotating-magnetic-field](../tag/the-effect-of-rotating-magnetic-field), [magnetosensitivity](../tag/magnetosensitivity), [electrical-field](../tag/electrical-field), [x-device](../tag/x-device)
+
+----
 
 ![image description][1]VIDEO : X DEVICE STRENGHT TEST : [https://www.youtube.com/watch?v=FljH5uKLfMk](https://www.youtube.com/watch?v=FljH5uKLfMk)
 

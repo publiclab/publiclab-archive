@@ -14,6 +14,8 @@ by [liz](../profile/liz) April 27, 2012 18:17
 
 April 27, 2012 18:17 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [ilab](../tag/ilab)
 
+----
+
 Jessica Einhorn, Lailye Wiedman, and Liz Barry were awarded one of two iLAB fellowships for 2012 for their collaboration "HigherED (Ecology + Dance)". Announcement <a href="http://ilandsymposium.wordpress.com/ilab-residencies/2012-ilab-residents/">here:http://ilandsymposium.wordpress.com/ilab-residencies/2012-ilab-residents/</a>. Keep an eye out for the summer workshop series entitled "Lifting Bodies" featuring the design of hybrid floating/flying structures and embodied research practices. 
 
 In our collaboration, we will explore the physical relationship between the wind moving through urban environments and our bodies using the connective media of kite / balloon aerial mapping devices and weather observation movement scores during outdoor research activities.

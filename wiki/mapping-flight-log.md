@@ -14,6 +14,8 @@ by [warren](../profile/warren)
 
 February 24, 2012 20:56 | Tags: 
 
+----
+
 Draft of a 1 page "log entry" form for mappers to take with them to collect site info while balloon mapping. This needs to be formatted into a single page. It is based on the [more comprehensive Logbook project](/wiki/logbook)
 
 ###Location information###

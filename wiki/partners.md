@@ -14,6 +14,8 @@ by [stevie](../profile/stevie), [liz](../profile/liz), [warren](../profile/warre
 
 August 04, 2014 18:31 | Tags: [community](../tag/community), [partnerships](../tag/partnerships), [citizenscience](../tag/citizenscience)
 
+----
+
 _Thanks to the collaboration and support with the following organization and individuals, the work of Public Lab is made possible._
 
 ###Public Lab Partnership Statement: 

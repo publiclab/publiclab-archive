@@ -8,11 +8,15 @@ uid: 4
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/006/968/original/Screen_Shot_2014-09-22_at_9.15.17_PM.png)
+
 # Graded oils using UV fluorescence
 
 by [mathew](../profile/mathew) September 23, 2014 04:21
 
 September 23, 2014 04:21 | Tags: [spectrometer](../tag/spectrometer), [oil](../tag/oil), [fluorescence](../tag/fluorescence), [spectral-workbench](../tag/spectral-workbench), [crude](../tag/crude), [smoothing](../tag/smoothing), [clipping](../tag/clipping), [oil-testing-kit](../tag/oil-testing-kit), [barnstar:basic](../tag/barnstar:basic), [exposure](../tag/exposure), [with:warren](../tag/with:warren), [equalizing](../tag/equalizing), [405nm](../tag/405nm)
+
+----
 
 ###What we want to do
 Me and @Warren  are trying to replicate [the heavy to light sorting of oils,](/notes/mathew/09-17-2014/laser-pointers-and-the-lif-literature) as seen in ["Laser Remote Sensing at Sea, A Quantitative Approach" byT. Hengstermann and R. Reuter ](http://mobile.www.eproceedings.org/Advances/1-2-1992/1-2_09_Henstermann.pdf) and [a bunch of other people's work.](/wiki/oil-testing-kit-literature)

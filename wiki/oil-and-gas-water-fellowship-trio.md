@@ -8,11 +8,15 @@ uid: 422561
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/035/753/original/HUMAN_NATURE__LLC_-_Photo_Feb_24__12_56_35_PM.jpg)
+
 # Oil and Gas Water Fellowship Trio
 
 by [stevie](../profile/stevie)
 
 October 15, 2019 14:41 | Tags: [water-quality](../tag/water-quality), [oil-and-gas](../tag/oil-and-gas), [projects](../tag/projects), [oil-and-gas-water-trio](../tag/oil-and-gas-water-trio), [fellowships](../tag/fellowships)
+
+----
 
 This page is designed to pull together the work of the [Oil and Gas Water Fellowship Trio](https://publiclab.org/wiki/fellows) group. 
 
@@ -44,7 +48,7 @@ Interested in following along in the project? Subscribe to the tag below to get 
 
 <a class="btn btn-large btn-primary" href="https://publiclab.org/subscribe/tag/oil-and-gas-water-trio">Subscribe to updates on this project </a>
 
-[notes:oil-and-gas-water-trio!question:oil-and-gas-water-trio] 
+[oil-and-gas-water-trio!question:oil-and-gas-water-trio](../../tag/oil-and-gas-water-trio!question:oil-and-gas-water-trio) 
 
 <a href="/post?tags=oil-and-gas-water-trio">Add a post</a>
 
@@ -52,12 +56,12 @@ Interested in following along in the project? Subscribe to the tag below to get 
 
 Questions we're looking for help in exploring on this project: 
 
-[questions:oil-and-gas-water-trio]
+[oil-and-gas-water-trio](../../tag/question:oil-and-gas-water-trio)
 
 ****
 
 ### Activities we’ve done in our project
 
-[activities:oil-and-gas-water-trio]
+[oil-and-gas-water-trio](../../tag/activity:oil-and-gas-water-trio)
 
 

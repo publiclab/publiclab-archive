@@ -14,6 +14,8 @@ by [laurel_mire](../profile/laurel_mire), [fongvania](../profile/fongvania), [bh
 
 August 15, 2022 21:12 | Tags: 
 
+----
+
 [prototyping a revised getting-started page here!]
 
 **New to the Public Lab community? Not sure where to plug in? Check out our resources below to get started!**

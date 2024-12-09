@@ -14,6 +14,8 @@ by [Shannon](../profile/Shannon) May 16, 2012 04:14
 
 May 16, 2012 04:14 | Tags: [spectrometer](../tag/spectrometer), [air-column-monitor](../tag/air-column-monitor), [xrf](../tag/xrf)
 
+----
+
 In conversation with Lee Portnoff today, he mentioned two potential ways to sense for metal halides (interested in this because of copper/iron issues in Houston) with the air column monitor:
 
 1. xray fluorescence (XRF)- take an xray of the source (on particulate or medium) and get a spectrum of the results.

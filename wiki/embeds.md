@@ -14,6 +14,8 @@ by [warren](../profile/warren)
 
 May 09, 2017 16:19 | Tags: [maps](../tag/maps), [activities](../tag/activities), [embeds](../tag/embeds)
 
+----
+
 To embed an activity grid from PublicLab.org on another site, use this HTML code (but replace the word `spectrometry` with the tag you'd like):
 
 `<iframe src="http://publiclab.org/embed/grid/spectrometry?t=activities:" style="border:0"></iframe>`

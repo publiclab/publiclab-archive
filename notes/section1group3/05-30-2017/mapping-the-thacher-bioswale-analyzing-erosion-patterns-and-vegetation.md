@@ -8,11 +8,15 @@ uid: 507074
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/020/581/original/IMG_4412.JPG)
+
 # Mapping the Thacher Bioswale: Analyzing Erosion Patterns and Vegetation
 
 by [section1group3](../profile/section1group3) May 30, 2017 16:07
 
 May 30, 2017 16:07 | Tags: [balloon-mapping](../tag/balloon-mapping), [event](../tag/event), [erosion](../tag/erosion), [hidden:response](../tag/hidden:response), [response:14179](../tag/response:14179)
+
+----
 
 Bioswale
 

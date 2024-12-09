@@ -14,6 +14,8 @@ by [warren](../profile/warren), [kits](../profile/kits)
 
 September 21, 2017 15:45 | Tags: [kits](../tag/kits), [parent:kits](../tag/parent:kits), [artwork](../tag/artwork), [first-time-poster](../tag/first-time-poster)
 
+----
+
 A page to collect labels, printouts, and other things we use at the Kits Initiative!
 
 Also see [Kits Docs](/wiki/kits-docs) and https://publiclab.org/wiki/kits-artwork

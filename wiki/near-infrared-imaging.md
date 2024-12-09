@@ -14,6 +14,8 @@ by [liz](../profile/liz)
 
 May 17, 2013 17:20 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi)
 
+----
+
 Infrared photography can help you assess a plant's health. Infrared imagery for agricultural and ecological assessment is usually captured from satellites and planes, and the information is used mainly by large farms, vineyards, and academic research projects. For example, see this illustrated [PDF](http://www.beckshybrids.com/research/2010/pg174-182.pdf) from a commercial imagery provider who has been studying the usefulness of infrared imagery and has quotes from farmers who make use of it. There are public sources of infrared photography for the US available through the Department of Agriculture -- [NAIP](http://datagateway.nrcs.usda.gov/) and [Vegscape](http://nassgeodata.gmu.edu/VegScape/) -- but this imagery is not collected when, as often, or at useable scale for individuals who are managing small plots. **The Public Lab community is exploring grassroots uses for this kind of technology. What could farmers or activists do with leaf-scale, plant-scale, lot-scale, and field-scale data on plant health if the equipment costs as little as $10 or $35?**
 
 ![Screen_Shot_2013-05-15_at_12.44.07_PM.png](https://i.publiclab.org/system/images/photos/000/000/308/medium/Screen_Shot_2013-05-15_at_12.44.07_PM.png)

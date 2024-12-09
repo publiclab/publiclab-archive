@@ -14,6 +14,8 @@ by [warren](../profile/warren), [gonzoearth](../profile/gonzoearth)
 
 November 22, 2011 20:46 | Tags: [protest-mapping](../tag/protest-mapping), [occupy](../tag/occupy)
 
+----
+
 Running list of Occupy maps:
 
 ###Occupy UC Davis:###

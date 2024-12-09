@@ -3,6 +3,8 @@ uid: 54526
 created_at: 2014-09-05 00:47:10 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/f4683243dd8af7b1dcbb8f61f3f16b41)
+
 # jeff
 
 

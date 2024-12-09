@@ -14,6 +14,8 @@ by [alanw](../profile/alanw) August 23, 2018 20:55
 
 August 23, 2018 20:55 | Tags: [ndvi](../tag/ndvi), [infrared](../tag/infrared), [filter](../tag/filter), [infragram](../tag/infragram), [photo-monitoring-plugin](../tag/photo-monitoring-plugin), [question:ndvi](../tag/question:ndvi), [question:infragram](../tag/question:infragram), [question:infrared](../tag/question:infrared), [question:photo-monitoring-plugin](../tag/question:photo-monitoring-plugin), [ocn](../tag/ocn), [orange](../tag/orange), [cyan](../tag/cyan), [nir-808nm](../tag/nir-808nm)
 
+----
+
 Bought rebuild Inspire 1 quad copter and bought modded camera for NDVI.  The information that came with it says :   
 
 ==========  

@@ -8,11 +8,15 @@ uid: 460113
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/013/316/original/09088-02-L.jpg)
+
 # Materials Used and Instructable for Blue Light Sensor
 
 by [filimon_k](../profile/filimon_k) December 14, 2015 04:43
 
 December 14, 2015 04:43 | Tags: [open-source](../tag/open-source), [sensors](../tag/sensors), [opensource](../tag/opensource), [light](../tag/light), [sensor](../tag/sensor), [arduino-uno](../tag/arduino-uno), [wavelength](../tag/wavelength), [bluelight](../tag/bluelight), [wearables](../tag/wearables), [photocell](../tag/photocell), [lux](../tag/lux), [wearable](../tag/wearable)
+
+----
 
 ##Materials Used
 1)[ Mini Photocell](https://www.sparkfun.com/products/9088)

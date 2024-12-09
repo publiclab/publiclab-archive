@@ -3,6 +3,8 @@ uid: 102
 created_at: 2013-07-16 20:46:55 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/2a966dbaee3c9d8cf309aaf8681e448d)
+
 # Hudonnoodles
 
 @Hudonnoodles: During the week I work for U.S. Department of Public Housing and Urban Development, and during non-office hours I'm a Public Lab Organizer. I'm interested in housing, people, and the communities they create. 

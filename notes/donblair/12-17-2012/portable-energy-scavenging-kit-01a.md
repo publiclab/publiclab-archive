@@ -8,11 +8,15 @@ uid: 43651
 
 ---
 
+![](https://publiclab.org/sites/default/files/escavenger_cef08a60dc_0.jpg)
+
 # Portable Energy Scavenging Kit 0.1a
 
 by [donblair](../profile/donblair) December 17, 2012 23:57
 
 December 17, 2012 23:57 | Tags: [pvos](../tag/pvos), [portable-energy-scavenging-kit](../tag/portable-energy-scavenging-kit)
+
+----
 
 Quick update on an early prototype of the "Portable Energy Scavenging Kit", after a intense hackathon this weekend with Ben Garmari:
 

@@ -8,11 +8,15 @@ uid: 160
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/009/701/original/salvador-segui-map.jpg)
+
 # Presentación de resultados de “Cartografia aèria de barri” en Barcelona 
 
 by [pablo](../profile/pablo) April 24, 2015 21:50
 
 April 24, 2015 21:50 | Tags: [balloon-mapping](../tag/balloon-mapping), [barcelona](../tag/barcelona), [spain](../tag/spain), [presentations](../tag/presentations), [presentation](../tag/presentation), [lang:es](../tag/lang:es)
+
+----
 
 El sábado 25 de abril 2015 se presentan los resultados de “Cartografía de Barrio”, unos talleres de fotografías aérea con globo que realiamos a mediados de mes en El Raval, Barcelona.
 

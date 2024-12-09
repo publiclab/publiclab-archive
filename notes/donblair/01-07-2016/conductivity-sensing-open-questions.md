@@ -8,11 +8,15 @@ uid: 43651
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/013/539/original/strayLines.gif)
+
 # Conductivity Sensing: Open Questions
 
 by [donblair](../profile/donblair) January 07, 2016 17:55
 
 January 07, 2016 17:55 | Tags: [water-sensing](../tag/water-sensing), [water-monitoring](../tag/water-monitoring), [conductivity](../tag/conductivity), [riffle](../tag/riffle), [open-water](../tag/open-water), [555](../tag/555)
+
+----
 
 ### Design Goals
 

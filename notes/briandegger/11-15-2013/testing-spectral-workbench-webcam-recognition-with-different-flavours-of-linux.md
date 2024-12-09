@@ -14,6 +14,8 @@ by [briandegger](../profile/briandegger) November 15, 2013 13:23
 
 November 15, 2013 13:23 | Tags: [spectralworkbench](../tag/spectralworkbench), [cross-platform](../tag/cross-platform), [first-time-poster](../tag/first-time-poster)
 
+----
+
 ###What I want to do
 find out which flavours work :) 
 ###My attempt and results

@@ -8,11 +8,15 @@ uid: 451808
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/014/393/original/PL_Workshop_Sunview-7110.jpg)
+
 # Report: Public Lab Workshop at Sunview
 
 by [Matej](../profile/Matej) February 19, 2016 01:48
 
 February 19, 2016 01:48 | Tags: [new-york-city](../tag/new-york-city), [spectrometer](../tag/spectrometer), [uv](../tag/uv), [oil](../tag/oil), [workshop](../tag/workshop), [fluorescence](../tag/fluorescence), [led](../tag/led), [oil-testing-kit](../tag/oil-testing-kit), [otk](../tag/otk), [pig](../tag/pig), [isopropyl](../tag/isopropyl)
+
+----
 
 [![PL_Workshop_Sunview-3356.jpg](//i.publiclab.org/system/images/photos/000/014/411/medium/PL_Workshop_Sunview-3356.jpg)](//i.publiclab.org/system/images/photos/000/014/411/original/PL_Workshop_Sunview-3356.jpg)
 [![PL_Workshop_Sunview-3431.jpg](//i.publiclab.org/system/images/photos/000/014/454/medium/PL_Workshop_Sunview-3431.jpg)](//i.publiclab.org/system/images/photos/000/014/454/original/PL_Workshop_Sunview-3431.jpg)

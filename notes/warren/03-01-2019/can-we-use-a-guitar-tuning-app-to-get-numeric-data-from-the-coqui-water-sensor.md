@@ -14,6 +14,8 @@ by [warren](../profile/warren) March 01, 2019 23:26
 
 March 01, 2019 23:26 | Tags: [water-quality](../tag/water-quality), [coqui](../tag/coqui), [question:coqui](../tag/question:coqui), [guitar-tuner](../tag/guitar-tuner)
 
+----
+
 The Coqui is great, and people have a great time building it. But many ask how we can measure quantitative values from it.  [This post has some ideas](https://publiclab.org/notes/imvec/06-11-2018/analizing-the-signal-of-the-coqui-using-audacity) for analyzing the sound, but i was thinking more about this and have been trying to use a guitar tuning app... only semi-successfully!
 
   

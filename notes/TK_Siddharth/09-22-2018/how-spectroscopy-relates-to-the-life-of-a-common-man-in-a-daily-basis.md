@@ -14,4 +14,6 @@ by [TK_Siddharth](../profile/TK_Siddharth) September 22, 2018 14:44
 
 September 22, 2018 14:44 | Tags: [spectroscopy](../tag/spectroscopy), [general](../tag/general)
 
+----
+
 How spectroscopy can be related to the day-to-day life of a common man

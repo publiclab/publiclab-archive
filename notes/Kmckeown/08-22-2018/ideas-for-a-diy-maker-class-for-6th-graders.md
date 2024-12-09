@@ -14,6 +14,8 @@ by [Kmckeown](../profile/Kmckeown) August 22, 2018 17:58
 
 August 22, 2018 17:58 | Tags: [education](../tag/education), [diy](../tag/diy), [curriculum](../tag/curriculum), [pollution](../tag/pollution), [makerspaces](../tag/makerspaces), [maker](../tag/maker), [coqui](../tag/coqui), [microscope](../tag/microscope), [question:general](../tag/question:general), [school](../tag/school), [microscopes](../tag/microscopes), [question:education](../tag/question:education), [babylegs](../tag/babylegs), [plastic](../tag/plastic), [6thgrade](../tag/6thgrade)
 
+----
+
 Hello
 
 I've committed to teaching a series of introductory seminars on DIY and Maker ideas to a small group of sixth graders at a school with limited resources.  There are no curriculum goals. Just the need to inspire curiosity and know what is possible.

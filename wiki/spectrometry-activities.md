@@ -14,6 +14,8 @@ by [warren](../profile/warren), [cfastie](../profile/cfastie), [liz](../profile/
 
 October 06, 2012 15:25 | Tags: [education](../tag/education), [spectrometry](../tag/spectrometry), [curriculum](../tag/curriculum), [classroom](../tag/classroom)
 
+----
+
 <div class="alert">This page is still under active development and may be incomplete; please help to bring it to completion!</div>
 
 Now that you have a working spectrometer, what do you point it at? Give these experiments a shot. If you haven't yet, **you should first calibrate your spectrometer** with a [CFL bulb](/wiki/spectral-workbench-calibration).

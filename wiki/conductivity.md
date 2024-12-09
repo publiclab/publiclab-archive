@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/025/087/original/Coqui_probe.jpg)
+
 # Water conductivity monitoring
 
 by [warren](../profile/warren), [liz](../profile/liz)
 
 September 25, 2017 19:49 | Tags: [conductivity](../tag/conductivity), [method](../tag/method), [parent:water-quality](../tag/parent:water-quality)
+
+----
 
 **Conductivity** is a measure of a solution's ability to conduct electricity, as measured in Siemens per meter (S/m). (lead image by @ddileona)
 
@@ -27,7 +31,7 @@ Also see resources on this page: https://publiclab.org/wiki/conductivity_sensing
 
 ## Questions
 
-[questions:conductivity]
+[conductivity](../../tag/question:conductivity)
 
 ****
 
@@ -45,11 +49,11 @@ Here's a list of different conductivity sensors and measurement systems. Also se
 
 Activities for people to test methods (these develop over time)
 
-[activities:conductivity]
+[conductivity](../../tag/activity:conductivity)
 
 ****
 
 ## Existing work
 
-[notes:conductivity]
+[conductivity](../../tag/conductivity)
 

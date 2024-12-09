@@ -8,11 +8,15 @@ uid: 555121
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/027/115/original/MicrobeMeterBanner_300.jpg)
+
 # MicrobeMeter - an innovative photometer for continuous measurement of microbial growth
 
 by [humanetechnologies](../profile/humanetechnologies) October 23, 2018 21:52
 
 October 23, 2018 21:52 | Tags: [spectrometer](../tag/spectrometer), [microbes](../tag/microbes), [sensors](../tag/sensors), [turbidity](../tag/turbidity), [optical-sensor](../tag/optical-sensor), [biology](../tag/biology), [photometer](../tag/photometer), [hardware](../tag/hardware), [optical-spectroscopy](../tag/optical-spectroscopy), [response:6649](../tag/response:6649), [response:15672](../tag/response:15672), [optical-density](../tag/optical-density)
+
+----
 
 We are concerned about two disturbing trends in science today - increasing cost of conducting scientific research and confinement of research activities to small numbers of well-funded groups. We think that these trends are particularly damaging for biology, where there is still so much we don't understand and so many discoveries to be made.
 

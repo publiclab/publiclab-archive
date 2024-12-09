@@ -14,6 +14,8 @@ by [lev29](../profile/lev29) January 15, 2020 19:17
 
 January 15, 2020 19:17 | Tags: [ndvi](../tag/ndvi), [infrared](../tag/infrared), [infragram](../tag/infragram), [question:ndvi](../tag/question:ndvi), [question:infragram](../tag/question:infragram), [question:infrared](../tag/question:infrared), [question:multispectral-imaging](../tag/question:multispectral-imaging), [multispectral-imaging](../tag/multispectral-imaging), [first-time-poster](../tag/first-time-poster)
 
+----
+
 I own both digital SLR and mirrorless Sony cameras that capture only visible light images. I also own Full Spectrum-converted Sony mirrorless camera to which I apply a number of different external optical filters, including the following (note that for simple bandpass filters, I use the letter "K" followed by the approximate cutoff wavelength as expressed in nanometers):
 
 K470, K 550, K590, K610, K665, K720, K830, K950 and besides a Hot Mirror filter, two with proprietary names, Superblue & IR Chrome.

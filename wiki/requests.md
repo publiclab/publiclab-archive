@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/022/829/original/IMG_20171206_145312.jpg)
+
 # Requests
 
 by [warren](../profile/warren)
 
 September 26, 2017 14:45 | Tags: [community](../tag/community), [requests](../tag/requests)
+
+----
 
 This page lists recent and urgent requests of all kinds across the Public Lab network, for those looking to pitch in on others' projects and needs.  
 
@@ -26,18 +30,18 @@ There are many different ways you can pitch in! We've compiled some below -- tak
 
 Here are some higher-priority requests we'd like to highlight:
 
-[notes:featured-request]
+[featured-request](../../tag/featured-request)
 
 ## Recent requests
 
-[activities:requests]
+[requests](../../tag/activity:requests)
 
 
 ****
 
 ## Questions
 
-[questions:requests]
+[requests](../../tag/question:requests)
 
 ****
 

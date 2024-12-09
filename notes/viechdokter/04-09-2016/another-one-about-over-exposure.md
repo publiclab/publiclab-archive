@@ -8,11 +8,15 @@ uid: 468990
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/015/443/original/over-exposure.jpg)
+
 # Another one about over-exposure...
 
 by [viechdokter](../profile/viechdokter) April 09, 2016 16:15
 
 April 09, 2016 16:15 | Tags: [spectrometer](../tag/spectrometer), [overexposure](../tag/overexposure), [clipping](../tag/clipping), [exposure](../tag/exposure), [sunlight](../tag/sunlight), [replication:13460](../tag/replication:13460)
+
+----
 
 Warren told me it would be interesting for some of you to know what happens when we try to avoid over-exposure. Well, here are my first results. 
 

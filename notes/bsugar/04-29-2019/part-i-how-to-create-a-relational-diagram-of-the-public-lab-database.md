@@ -8,11 +8,15 @@ uid: 217812
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/031/712/original/Screen_Shot_2019-04-26_at_5.14.33_PM.png)
+
 # PART I: How to create a relational diagram of the Public Lab database.
 
 by [bsugar](../profile/bsugar) April 26, 2019 22:02
 
 April 26, 2019 22:02 | Tags: [database](../tag/database), [networks](../tag/networks), [activity:new](../tag/activity:new), [programming](../tag/programming), [diagrams](../tag/diagrams)
+
+----
 
 **Background:** Recently, I began a [project](https://publiclab.org/notes/bsugar/03-30-2019/cultivating-community-through-cultivating-data)
 to understand the relationship between the data [publiclab.org](http://publiclab.org) website

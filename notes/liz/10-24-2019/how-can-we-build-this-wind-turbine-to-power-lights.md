@@ -14,6 +14,8 @@ by [liz](../profile/liz) October 24, 2019 18:14
 
 October 24, 2019 18:14 | Tags: [wind](../tag/wind), [lebanon](../tag/lebanon), [bourjalshamali](../tag/bourjalshamali), [with:mustapha](../tag/with:mustapha), [question:wind](../tag/question:wind)
 
+----
+
 _posting on behalf of @Mustapha_
 
 >How can we build a wind turbine to power lights? Our refugee camp in Lebanon which houses Palestinians, Lebanese, and Syrians has narrow streets which need lighting. 

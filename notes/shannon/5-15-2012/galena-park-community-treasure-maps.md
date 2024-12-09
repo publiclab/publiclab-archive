@@ -8,11 +8,15 @@ uid: 9
 
 ---
 
+![](https://publiclab.org/sites/default/files/IMG_5017.jpg)
+
 # Galena Park Community "treasure maps"
 
 by [Shannon](../profile/Shannon) May 16, 2012 03:51
 
 May 16, 2012 03:51 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [annotated-maps](../tag/annotated-maps), [community-mapping](../tag/community-mapping)
+
+----
 
 At Galena Park community mapping workshop today (led by Kat and Eli from the Pacific Institute), the workshop started out by creating treasure maps (note the word "treasure"- meaning a focus on the good- the rest comes on day three). 
 

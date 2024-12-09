@@ -14,6 +14,8 @@ by [Shannon](../profile/Shannon) February 25, 2013 14:09
 
 February 25, 2013 14:09 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
 
+----
+
 This week in the Public Lab community newsletter, read updates on mobile and desktop spectrometer progress, hear from the NYC chapter on plans for 2013 and read the incredible range of research notes that have been posted over the last week. Enjoy!
 
 Mobile spectrometer updates. Check out the [latest updates](http://publiclaboratory.org/notes/braddudenhoffer/2-23-2013/mobile-spectrometer-design-update) from Brad Dudenhoffer on the mobile spectrometer design. 

@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/023/386/original/image.png)
+
 # CivilServant Community Research Summit, community, society and moderation systems
 
 by [warren](../profile/warren) January 27, 2018 20:28
 
 January 27, 2018 20:28 | Tags: [collaboration](../tag/collaboration), [outreach](../tag/outreach), [research](../tag/research), [peer-production](../tag/peer-production), [moderation](../tag/moderation), [newcomers](../tag/newcomers), [onboarding](../tag/onboarding), [welcoming](../tag/welcoming), [wikipedia](../tag/wikipedia)
+
+----
 
 I spent today at the [CivilServant](https://civilservant.io/) summit, where Nathan Matias and others invited many different presenters for the day around the topics of moderation and collaboration -- [CivilServant.io](http://CivilServant.io) is a platform for comparing and testing moderation systems -- and a discussion of tools for facilitating and moderating online discourse. The event was funded by the Knight Foundation, the MacArthur Foundation, and the Tow Center for Digital Journalism.
 

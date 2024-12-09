@@ -14,6 +14,8 @@ by [bhamster](../profile/bhamster)
 
 March 12, 2021 19:32 | Tags: 
 
+----
+
 **Soil remediation involves cleaning up polluted soils**. There are many different ways to reduce exposure to contaminated soils, and remediation methods vary in how effective they are and how much they actually reduce the problem or simply move the problem from one place to another. 
 
 <div class="alert alert-info" role="ToC">
@@ -42,7 +44,7 @@ _You can also follow along and get updates on this topic by [subscribing to `soi
 
 Questions from the Public Lab community tagged with `soil-remediation` will appear here
 
-[questions:soil-remediation]
+[soil-remediation](../../tag/question:soil-remediation)
 
 <br>
 
@@ -50,7 +52,7 @@ Questions from the Public Lab community tagged with `soil-remediation` will appe
 
 Activities on Public Lab tagged with `soil-remediation` will appear here
 
-[activities:soil-remediation]
+[soil-remediation](../../tag/activity:soil-remediation)
 
 <br>
 

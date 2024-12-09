@@ -8,11 +8,15 @@ uid: 12
 
 ---
 
+![](https://publiclab.org/sites/default/files/2012-11-03-louisiana-cocodrie-lumcon_0.jpg)
+
 # Barnraising2012 Kite Flying
 
 by [gonzoearth](../profile/gonzoearth) November 03, 2012 22:49
 
 November 03, 2012 22:49 | Tags: [kite-mapping](../tag/kite-mapping)
+
+----
 
 Taken 2012-11-03 at Louisiana Universities Marine Consortium (LUMCON) with a delta kite.
 

@@ -14,6 +14,8 @@ by [gonzoearth](../profile/gonzoearth), [warren](../profile/warren)
 
 April 06, 2011 19:24 | Tags: 
 
+----
+
 ##Planning for the upcoming Public Laboratory archive##
 
 _This project is being led by **[Jeff Warren](/people/warren)** (website, design) and **[Stewart Long](/people/gonzoearth)** (data preparation)_

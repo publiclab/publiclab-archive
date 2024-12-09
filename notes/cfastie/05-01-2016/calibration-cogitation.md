@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/015/890/original/IRPAP_20160418-0170.jpg)
+
 # Calibration cogitation
 
 by [cfastie](../profile/cfastie) May 01, 2016 19:19
 
 May 01, 2016 19:19 | Tags: [ndvi](../tag/ndvi), [calibration](../tag/calibration), [infrared](../tag/infrared), [filter](../tag/filter), [infragram](../tag/infragram), [plant-health](../tag/plant-health), [targets](../tag/targets), [response:13028](../tag/response:13028), [qgis](../tag/qgis)
+
+----
 
 Normalized difference vegetation index (NDVI) has been computed from satellite and airborne data for 45 years. The data used are measures of how much energy is reflected from vegetation as light in the red and near infrared (NIR) spectral bands. Healthy leaves reflect much more energy in the NIR than in the red band, so healthy plants have a big 'difference' which computes to a big value for NDVI. The instruments used to measure NDVI are not normal cameras, they are devices which measure radiant energy in particular spectral bands.
 

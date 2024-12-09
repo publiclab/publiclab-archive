@@ -8,11 +8,15 @@ uid: 152
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/010/911/original/Screen_Shot_2015-07-28_at_22.37.46.png)
+
 # A Lending Library (shipping and other troubles in the holyland)
 
 by [hagitkeysar](../profile/hagitkeysar) July 28, 2015 19:40
 
 July 28, 2015 19:40 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [jerusalem](../tag/jerusalem), [diy](../tag/diy), [israel](../tag/israel), [palestine](../tag/palestine), [lending-library](../tag/lending-library), [troubles-in-the-holyland](../tag/troubles-in-the-holyland), [middle-east](../tag/middle-east)
+
+----
 
 I am writing this research note to start thinking and planning how to solve the problems with shipping to Jerusalem/Israel/Palestine.
 Most of the aerial photography done in the area were created using my equipment and Shai Efrati's, that was excellent but obviously it cannot fit any project. An NGO I assist, ([Bimkom](bimkom.org) planners for planning rights) has just ordered a 1500$ shipment that included a few kits and extra Balloons and Kites. It got stuck because the authorities required us to send it for inspection by the Israeli Institute of Standards, after we finished with that part it got stuck again because DHL sent it for checking aviation regulations. All this required more money and time spent, and handling bureaucracy. Which is not fun...

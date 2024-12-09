@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/019/307/original/Screenshot_2017-01-18_at_4.56.54_PM.png)
+
 # Renegotiating Expertise: a talk at ClimateX MIT
 
 by [warren](../profile/warren) January 18, 2017 22:06
 
 January 18, 2017 22:06 | Tags: [boston](../tag/boston), [presentations](../tag/presentations), [talk](../tag/talk), [presentation](../tag/presentation), [northeast](../tag/northeast), [climate-change](../tag/climate-change), [climate](../tag/climate), [mit](../tag/mit), [expertise](../tag/expertise), [climatex](../tag/climatex)
+
+----
 
 I gave a talk today at [MIT's ClimateX course][1], which is open to the public.
 

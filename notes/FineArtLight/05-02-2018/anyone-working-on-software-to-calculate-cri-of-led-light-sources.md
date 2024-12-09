@@ -14,4 +14,6 @@ by [FineArtLight](../profile/FineArtLight) May 02, 2018 15:29
 
 May 02, 2018 15:29 | Tags: [question:spectrometer](../tag/question:spectrometer), [first-time-poster](../tag/first-time-poster)
 
+----
+
 Anyone working on software to calculate CRI of LED light sources?

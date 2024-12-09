@@ -8,11 +8,15 @@ uid: 431386
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/009/223/original/IB_5_color_scale.jpg)
+
 # Surveying by Drone, Need help with Cfastie's .lut Usage
 
 by [PatrickC](../profile/PatrickC) March 09, 2015 04:13
 
 March 09, 2015 04:13 | Tags: [mapping](../tag/mapping), [drone](../tag/drone), [college](../tag/college), [shasta](../tag/shasta)
+
+----
 
 [![with_mobius.jpg](https://i.publiclab.org/system/images/photos/000/009/224/medium/with_mobius.jpg)](https://i.publiclab.org/system/images/photos/000/009/224/original/with_mobius.jpg)
 

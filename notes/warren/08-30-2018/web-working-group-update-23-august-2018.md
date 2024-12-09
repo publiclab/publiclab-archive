@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/026/395/original/Screen_Shot_2018-08-30_at_3.16.46_PM.png)
+
 # Web Working Group Update 23: August 2018
 
 by [warren](../profile/warren) August 30, 2018 19:23
 
 August 30, 2018 19:23 | Tags: [website](../tag/website), [web-development](../tag/web-development), [software](../tag/software), [gsoc](../tag/gsoc), [developers](../tag/developers), [code](../tag/code), [wwg](../tag/wwg), [webwg](../tag/webwg), [rgsoc](../tag/rgsoc), [soc](../tag/soc), [soc-2018](../tag/soc-2018), [wwg-report](../tag/wwg-report), [response:16455](../tag/response:16455)
+
+----
 
 Hello, all! The past few months has been dominated by our twin Summer of Code (SoC) programs and the [11 fellows working with us in these programs](http://publiclab.org/tag/soc-2018). A vast amount of work was completed, at times outstripping staff ability to keep up with the changes! :stuck\_out\_tongue\_closed\_eyes:
 

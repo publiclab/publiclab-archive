@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/IMG_0316.JPG)
+
 # Light socket tests for countertop spectrometer, 3d prints of mobile spectrometer
 
 by [warren](../profile/warren) January 30, 2013 21:35
 
 January 30, 2013 21:35 | Tags: [spectrometer](../tag/spectrometer), [kickstarter](../tag/kickstarter)
+
+----
 
 I've been working with Cort on final parts lists and a final design for the [countertop spec](/wiki/spectrometer-materials), and found some nice light sockets and base box combos today. Just wanted to post a quick update; that's it!
 

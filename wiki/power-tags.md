@@ -14,6 +14,8 @@ by [laurel_mire](../profile/laurel_mire), [liz](../profile/liz), [keshavgarg2341
 
 December 17, 2013 21:26 | Tags: [posting](../tag/posting), [list:plots-dev](../tag/list:plots-dev), [power-tags](../tag/power-tags), [tags](../tag/tags), [parent:authoring-help](../tag/parent:authoring-help), [activity-grids](../tag/activity-grids), [location:blurred](../tag/location:blurred), [lat:10](../tag/lat:10), [parent:website](../tag/parent:website), [lon:106](../tag/lon:106), [zoom:6](../tag/zoom:6), [place:vietnam](../tag/place:vietnam)
 
+----
+
 **Power tags** are an advanced feature which can add extra functions and layout options to your wiki pages (and sometimes research notes). They are entered like regular tags but follow the format `key:value`. After adding a power tag, you must refresh the page to see changes made. 
 
 To add tags, look for this box at the bottom of a wiki page or research note:

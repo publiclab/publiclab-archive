@@ -14,6 +14,8 @@ by [warren](../profile/warren)
 
 July 30, 2012 16:45 | Tags: 
 
+----
+
 ###Shannon###
 * Accomplishments: 4S sections, work on LA coal terminal, work w/ SciStarter and things mentioned on Thurs
 Goals: Annual report, H2S LA, 4S paper done, SXSW panel proposal, VRKF fdn., accounting, GMF stuff, PPSR meetings and poster, NSF

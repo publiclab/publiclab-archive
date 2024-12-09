@@ -14,6 +14,8 @@ by [stevie](../profile/stevie) December 15, 2017 20:34
 
 December 15, 2017 20:34 | Tags: [events](../tag/events), [barnraising](../tag/barnraising), [question:general](../tag/question:general), [barnraising-host](../tag/barnraising-host), [question:hosting-materials](../tag/question:hosting-materials), [family-friendly](../tag/family-friendly), [question:facilitation](../tag/question:facilitation)
 
+----
+
 _We’re compiling resources to help people host Barnraisings!_ 
 
 Do you know of best practices for hosting family frindly events? Or resources that are good for this?

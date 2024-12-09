@@ -8,11 +8,15 @@ uid: 752279
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/043/209/original/1.png)
+
 # GSoC 2021 Proposal : Tag / topic system refinements
 
 by [Manasa2850](../profile/Manasa2850) April 10, 2021 17:45
 
 April 10, 2021 17:45 | Tags: [software](../tag/software), [soc](../tag/soc), [first-time-poster](../tag/first-time-poster), [gsoc-2021](../tag/gsoc-2021), [gsoc-2021-proposals](../tag/gsoc-2021-proposals), [outreachy-summer-2021](../tag/outreachy-summer-2021)
+
+----
 
 ## **About me**
 

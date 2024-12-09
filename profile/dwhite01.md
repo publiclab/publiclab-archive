@@ -3,6 +3,8 @@ uid: 655539
 created_at: 2020-01-18 20:59:51 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/7897cd07bb4ac432dba6cba43ef30149)
+
 # dwhite01
 
 

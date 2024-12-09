@@ -8,11 +8,15 @@ uid: 9
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/009/885/original/plots-logo-transparent.jpg)
+
 # Sprint Fellowship Application: Aquatic hydrocarbon sample preparation for Oil Testing Kit
 
 by [Shannon](../profile/Shannon) May 13, 2015 13:56
 
 May 13, 2015 13:56 | Tags: [oil-testing-kit](../tag/oil-testing-kit), [fellows](../tag/fellows)
+
+----
 
 Application due: May 27, 2015</br/>
 Dates of Fellowship: mid-June to mid-September 2015</br/>

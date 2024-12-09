@@ -14,6 +14,8 @@ by [matthart610](../profile/matthart610) December 05, 2017 02:42
 
 December 05, 2017 02:42 | Tags: [spectrometer](../tag/spectrometer), [spectralworkbench](../tag/spectralworkbench), [export](../tag/export), [question:spectrometry](../tag/question:spectrometry), [graph](../tag/graph), [question:foldable-spec](../tag/question:foldable-spec)
 
+----
+
 This is my first time trying to use this and the images I had taken from my phone of the diffraction pattern show only noise levels when looking at the intensity vs. wavelength? Any suggestions? Is the slit too big, do I need a better camera, is there possible excess light bleeding in?
 
 Here are the images of the calibration and a tungsten bulb: 

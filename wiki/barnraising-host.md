@@ -14,6 +14,8 @@ by [shanlter](../profile/shanlter), [liz](../profile/liz), [stevie](../profile/s
 
 December 15, 2017 20:08 | Tags: [events](../tag/events), [barnraising](../tag/barnraising), [parent:barnraising](../tag/parent:barnraising), [sidebar:none](../tag/sidebar:none)
 
+----
+
 _Welcome! This page is under construction. Join us in gathering materials to help people host Barnraisings!_
 欢迎！这个页面正在建设中，帮助我们让更多的人举办谷仓聚会！
 
@@ -83,15 +85,15 @@ ______
 #### Activities for planning and logistics 
 There are a number of things to do to get ready for hosting a Barnraising. You need to find a location to host the event, set up a budget, open registration, do outreach about the event and organize information about who is coming. Below are some activities that can help support you in getting ready to put on a Barnraising:
  
-[activities:preparations-logistics]
+[preparations-logistics](../../tag/activity:preparations-logistics)
 
 #### Activities for the week before a Barnraising
 There are specific tasks that need to be done the day and night before the Barnraising event. It's helpful to ask for support in getting these things done! 
 
-[activities:day-before-barnraising]
+[day-before-barnraising](../../tag/activity:day-before-barnraising)
 
 #### Activities for the night before a barnraising
-[activities:night-before-barnraising]
+[night-before-barnraising](../../tag/activity:night-before-barnraising)
 
 _the image below shows what a great Welcome/Registration table looks like: alphabetized namebadges, stickers for customizing name badges, waivers to sign, pens to sign with, copies of the Code of Conduct, and free Public Lab stuff that people can take if they like:_
 [![IMG_20151120_083909265_HDR.jpg](https://publiclab.org/system/images/photos/000/023/824/large/IMG_20151120_083909265_HDR.jpg)](https://publiclab.org/system/images/photos/000/023/824/original/IMG_20151120_083909265_HDR.jpg)
@@ -103,13 +105,13 @@ _the image below shows what a great Welcome/Registration table looks like: alpha
 #### Activities during a Barnraising
 There are activities that you can build into your Barnraising schedule to help you to support the group. For example, you can build in activities that help the group with documentation and in sharing out new ideas. Below are some activities that can be done during a Barnraising event. 
 
-[activities:during-barnraising]
+[during-barnraising](../../tag/activity:during-barnraising)
  
 #### Family and Fun activity ideas
 
 When making family friendly events, you need to make sure there are good activities for people of all ages. Having a couple sessions that focus specifically hands-on, youth friendly activities is really helpful! See some options for activities below.
 
-[activities:session-ideas]
+[session-ideas](../../tag/activity:session-ideas)
 
 ****
 
@@ -123,7 +125,7 @@ When making family friendly events, you need to make sure there are good activit
 
 **Join the brainstorming here:**
 
-[questions:hosting-materials]
+[hosting-materials](../../tag/question:hosting-materials)
 
 
 

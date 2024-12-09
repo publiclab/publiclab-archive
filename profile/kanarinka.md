@@ -3,6 +3,8 @@ uid: 994
 created_at: 2013-10-07 13:29:36 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/994/medium/kanarinkasquare.jpg)
+
 # kanarinka
 
 My background is in the arts, software development and civic media. I'm interested in ways to engage the public in collecting, analyzing and taking action on environmental data. 

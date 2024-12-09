@@ -8,11 +8,15 @@ uid: 379
 
 ---
 
+![](https://publiclab.org/sites/default/files/dream water probe.png)
+
 # Thoughts on water sensing needs of non-profits in Louisiana
 
 by [eustatic](../profile/eustatic) March 27, 2012 20:19
 
 March 27, 2012 20:19 | Tags: [gulf-coast](../tag/gulf-coast), [louisiana](../tag/louisiana), [water-quality](../tag/water-quality), [water](../tag/water), [water-sensing](../tag/water-sensing), [dissolved-oxygen](../tag/dissolved-oxygen), [oxygen](../tag/oxygen), [probe](../tag/probe), [underwater](../tag/underwater), [usecase](../tag/usecase), [wastewater](../tag/wastewater), [do](../tag/do), [first-time-poster](../tag/first-time-poster)
+
+----
 
 I don't have experience building a probe, but i have a lot of experience using hydrolab and YSI devices in ways that are not effective.  These devices cost over $1000. And so, they are cost-prohibitive for non-profits, and shape official government response monitoring practices in ways that retard effective sampling. 
 

@@ -8,11 +8,15 @@ uid: 9
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/003/143/original/plots-logo-transparent.jpg)
+
 # Job Posting: Special Projects Layout Editor
 
 by [Shannon](../profile/Shannon) March 05, 2014 18:12
 
 March 05, 2014 18:12 | Tags: [jobs](../tag/jobs)
+
+----
 
 **Public Laboratory for Open Technology and Science: Layout Editor**
 

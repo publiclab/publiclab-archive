@@ -8,11 +8,15 @@ uid: 775
 
 ---
 
+![](https://publiclab.org/sites/default/files/IMG_1081.JPG)
+
 # New Container Tests, Aztec, New Mexico
 
 by [megan](../profile/megan) August 14, 2012 13:34
 
 August 14, 2012 13:34 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [new-mexico](../tag/new-mexico), [h2s](../tag/h2s)
+
+----
 
 Trying out new ideas for containers. 
 

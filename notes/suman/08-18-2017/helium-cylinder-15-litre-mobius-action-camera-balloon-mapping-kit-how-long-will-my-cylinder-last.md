@@ -14,6 +14,8 @@ by [suman](../profile/suman) August 18, 2017 12:43
 
 August 18, 2017 12:43 | Tags: [balloon-mapping](../tag/balloon-mapping), [question:balloon-mapping](../tag/question:balloon-mapping), [land-use](../tag/land-use), [answered](../tag/answered), [question:general](../tag/question:general), [question:mini-balloon-kit](../tag/question:mini-balloon-kit)
 
+----
+
 Whats the capacity/volume of the balloon and how long can i use it to monitor the farm if i use it once a week? I need the tentative time where i need to refill the cylinder as i want to provide these services to remote farm area?
 
   

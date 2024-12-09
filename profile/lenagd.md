@@ -3,6 +3,8 @@ uid: 429458
 created_at: 2014-10-06 15:51:32 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/c8ab034409f08479b850d9e111f5c936)
+
 # lenagd
 
 Developing a new concept/project entitled "law for the environmental grassroots," and which aims, among other things, to increase access to citizen science for organizations involved in addressing environmental injustices. Also an attorney, and previously worked at an environmental foundation.

@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/IMG_0923.JPG)
+
 # Prototype Raspberry Pi-based dual IR cam
 
 by [warren](../profile/warren) October 17, 2012 20:35
 
 October 17, 2012 20:35 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [nrg](../tag/nrg), [ndvi](../tag/ndvi), [raspberry-pi](../tag/raspberry-pi), [ircam](../tag/ircam)
+
+----
 
 Working on this prototype for the upcoming Barnraising -- i want to have a point-and-shoot IR-VIS camera which is light and can be sent up on a balloon, and which auto-composites image pairs. More progress soon, I'm starting to collect code here: 
 

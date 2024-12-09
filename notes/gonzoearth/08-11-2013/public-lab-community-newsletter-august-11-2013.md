@@ -8,11 +8,15 @@ uid: 12
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/001/105/original/Boots-ground-02_%281%29.png)
+
 # Public Lab Community Newsletter August 11, 2013
 
 by [gonzoearth](../profile/gonzoearth) August 11, 2013 22:23
 
 August 11, 2013 22:23 | Tags: [newsletter](../tag/newsletter), [blog](../tag/blog), [response:8936](../tag/response:8936), [newsletter-archive](../tag/newsletter-archive)
+
+----
 
 **Fall 2013 Barnraising**
 We are happy to announce that this year's Barnraising theme is Education! You are invited to join the Public Lab community in person as we gather October 4-6 for the third annual Barnraising in Cocodrie, Louisiana. 

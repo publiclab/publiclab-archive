@@ -8,11 +8,15 @@ uid: 434163
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/009/062/original/64-00.jpg)
+
 # Sensor Jouralism Reflection
 
 by [JenniferO](../profile/JenniferO) February 23, 2015 17:59
 
 February 23, 2015 17:59 | Tags: [sensor-journalism](../tag/sensor-journalism)
+
+----
 
 ##Opportunities of Sensor Journalism
 

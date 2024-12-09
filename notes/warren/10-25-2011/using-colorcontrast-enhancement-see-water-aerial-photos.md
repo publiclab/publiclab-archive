@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/IMG_7316-enhanced.jpg)
+
 # Using color/contrast enhancement to see into water in aerial photos
 
 by [warren](../profile/warren) October 25, 2011 15:34
 
 October 25, 2011 15:34 | Tags: [barataria](../tag/barataria), [underwater](../tag/underwater), [contrast](../tag/contrast), [enhancement](../tag/enhancement)
+
+----
 
 This image is from Barataria Bay in early Oct 2011. The enhanced image is on the left. What are these interesting areas of color under the water's surface?
 

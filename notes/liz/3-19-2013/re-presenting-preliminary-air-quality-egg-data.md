@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/sites/default/files/IMG_20130315_120203.jpg)
+
 # Re-presenting preliminary Air Quality Egg data
 
 by [liz](../profile/liz) March 19, 2013 19:28
 
 March 19, 2013 19:28 | Tags: [new-york-city](../tag/new-york-city), [chaq](../tag/chaq), [air-quality](../tag/air-quality), [air-quality-egg](../tag/air-quality-egg)
+
+----
 
 For the first month, the Air Quality Eggs have been collecting readings every minute of basic weather data -- temperature and humidity. They are also collecting raw VOC readings, but the units and relative range of that data is not well understood at this time so we are not yet using it. 
 

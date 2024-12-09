@@ -14,6 +14,8 @@ by [warren](../profile/warren), [mathew](../profile/mathew)
 
 June 01, 2011 19:50 | Tags: [photo-rig](../tag/photo-rig), [soda-bottle](../tag/soda-bottle), [camera-housing](../tag/camera-housing)
 
+----
+
 > This design has been retired in favor of the [PET Bottle and Rubber Band Rig](https://publiclab.org/notes/mathew/02-22-2017/rubber-band-and-pet-bottle-camera-rig)
 
 <a href="https://www.flickr.com/photos/crimsonninjagirl/4115381971/in/set-72157622707750293/"><img src="http://farm3.static.flickr.com/2766/4115381971_ffd1cb8595.jpg" /></a>

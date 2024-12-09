@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/010/920/original/tmp_26382-IMG_20150730_1257291287673980.jpg)
+
 # Silhouette Cameo desktop paper cutter for prototyping
 
 by [warren](../profile/warren) July 30, 2015 18:49
 
 July 30, 2015 18:49 | Tags: [spectrometer](../tag/spectrometer), [oil-testing-kit](../tag/oil-testing-kit), [papercraft](../tag/papercraft), [paper](../tag/paper), [die-cut](../tag/die-cut), [die-cutting](../tag/die-cutting), [silhouette-cameo](../tag/silhouette-cameo), [prototyping](../tag/prototyping), [response:11751](../tag/response:11751), [cameo](../tag/cameo), [upgrade:foldable-spec](../tag/upgrade:foldable-spec)
+
+----
 
 ###What I want to do
 

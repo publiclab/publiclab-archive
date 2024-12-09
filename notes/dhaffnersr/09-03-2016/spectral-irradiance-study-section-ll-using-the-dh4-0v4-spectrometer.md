@@ -8,11 +8,15 @@ uid: 461120
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/017/889/original/ALL_3_light_bulbs_sept_2_title_pic.png)
+
 # Spectral Irradiance Study Section ll using The DH4.0v4 Spectrometer
 
 by [dhaffnersr](../profile/dhaffnersr) September 03, 2016 11:52
 
 September 03, 2016 11:52 | Tags: 
+
+----
 
 ##**10 Scans using a 54W 1050 lumens Halogen bulb and 8 Scans using a 10W LED 2850K bright stik**
 

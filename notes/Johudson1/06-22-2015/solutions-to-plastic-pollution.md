@@ -8,11 +8,15 @@ uid: 444215
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/010/414/original/102979-004-7CA2A83F.jpg)
+
 # Solutions to Plastic Pollution
 
 by [Johudson1](../profile/Johudson1) June 22, 2015 20:21
 
 June 22, 2015 20:21 | Tags: [pollution](../tag/pollution), [fungus](../tag/fungus), [bioremediation](../tag/bioremediation), [microplastics](../tag/microplastics)
+
+----
 
 Plastic waste is a huge problem that is plaguing our planet. The numbers of the plastic we produce, discard, and of the amounts that end up in landfills and oceans are gargantuan. What does this mean for us? Plastic waste clean takes upon a considerable amount of tax payers money and deducts from the tourist economy as sites become polluted with plastic. This type of material doesn't degrade until somewhere between 500 - 1000 years. As a result there is plenty of it stacking up for animals to accidentally eat and die from.
 

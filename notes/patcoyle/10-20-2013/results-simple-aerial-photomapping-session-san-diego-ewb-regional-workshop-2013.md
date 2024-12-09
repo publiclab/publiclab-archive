@@ -8,11 +8,15 @@ uid: 77
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/001/957/original/IMG_7629_stitch3_NDVI_Color.jpg)
+
 # Results: Simple Aerial Photomapping session, San Diego EWB Regional Workshop 2013
 
 by [patcoyle](../profile/patcoyle) October 20, 2013 19:36
 
 October 20, 2013 19:36 | Tags: [balloon-mapping](../tag/balloon-mapping)
+
+----
 
 ### What I want to do
 

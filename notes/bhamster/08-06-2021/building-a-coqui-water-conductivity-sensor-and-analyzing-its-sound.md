@@ -8,11 +8,15 @@ uid: 664477
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/044/579/original/Spectrogram_copy.png)
+
 # Building a Coqui water conductivity sensor and analyzing its sound
 
 by [bhamster](../profile/bhamster) August 06, 2021 23:10
 
 August 06, 2021 23:10 | Tags: [water-quality](../tag/water-quality), [conductivity](../tag/conductivity), [coqui](../tag/coqui), [sound](../tag/sound), [replication:18313](../tag/replication:18313), [replication:16465](../tag/replication:16465)
+
+----
 
 I just built the Coqui water conductivity sensor by following the steps in this activity: [Build a sound-generating Coqui conductivity sensor (new version!)](https://publiclab.org/notes/warren/03-01-2019/build-a-sound-generating-coqui-conductivity-sensor). It was really fun to put together and try out right away!
 

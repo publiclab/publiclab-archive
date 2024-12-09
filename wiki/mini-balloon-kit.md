@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/020/735/original/tmp_27876-OI000115_2-861075295.jpg)
+
 # Mini Balloon Kit
 
 by [warren](../profile/warren)
 
 June 09, 2017 18:29 | Tags: [balloon-mapping](../tag/balloon-mapping), [aerial-photography](../tag/aerial-photography), [aerial-mapping](../tag/aerial-mapping), [parent:balloon-mapping](../tag/parent:balloon-mapping), [prototyping](../tag/prototyping), [mini-balloon-kit](../tag/mini-balloon-kit), [kite-](../tag/kite-)
+
+----
 
 The Mini Balloon Kit is based around [the 36 inch wide mylar foil balloons](/notes/patcoyle/09-07-2015/mobius-non-fish-eye-and-small-lifter-wrapup) found by contributor @patcoyle -- which are much cheaper (as little as $3 each!), and can stay inflated for over a week. They fit in the back seat of your car, or can be taken on the subway. Heck, unlike the big red rubber balloons, they fit through a doorway and can be stored indoors. They do lift much less than our standard rubber weather balloons, however -- see below for more!
 
@@ -46,12 +50,12 @@ Also see posts on #kite-balloon-hybrid for some interesting ideas!
 
 ## Questions
 
-[questions:mini-balloon-kit]
+[mini-balloon-kit](../../tag/question:mini-balloon-kit)
 
 [![IMG_20170930_165501_188.jpg](https://publiclab.org/system/images/photos/000/024/818/large/IMG_20170930_165501_188.jpg)](https://publiclab.org/system/images/photos/000/024/818/original/IMG_20170930_165501_188.jpg)
 
 ## Activities
 
-[activities:mini-balloon-kit]
+[mini-balloon-kit](../../tag/activity:mini-balloon-kit)
 
 

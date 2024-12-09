@@ -8,11 +8,15 @@ uid: 421168
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/004/484/original/download.jpg)
+
 # GSoC Update: Week 1
 
 by [xvidun](../profile/xvidun) May 28, 2014 22:47
 
 May 28, 2014 22:47 | Tags: [gsoc](../tag/gsoc), [upload](../tag/upload), [response:10138](../tag/response:10138), [gsoc14](../tag/gsoc14), [jquery-file-upload](../tag/jquery-file-upload)
+
+----
 
 ##Progress:
 For the past week I've been working on improving the upload interface for Mapknitter image upload. This is the weekly update on work that has been done.

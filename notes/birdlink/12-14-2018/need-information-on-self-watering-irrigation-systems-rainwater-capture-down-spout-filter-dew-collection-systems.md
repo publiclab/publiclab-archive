@@ -14,6 +14,8 @@ by [birdlink](../profile/birdlink) December 14, 2018 17:11
 
 December 14, 2018 17:11 | Tags: [new-york-city](../tag/new-york-city), [williamsburg](../tag/williamsburg), [irrigation](../tag/irrigation), [hardware](../tag/hardware), [question:general](../tag/question:general), [first-time-poster](../tag/first-time-poster)
 
+----
+
 in NYC but relevant anywhere
 
 Need to keep plants growing without attaching hose to water source

@@ -8,11 +8,15 @@ uid: 46795
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/027/061/original/GroupPix_webBanner.jpg)
+
 # playaround 2018 - Taipei | Off Ground - Fly High
 
 by [dusjagr](../profile/dusjagr) October 19, 2018 03:14
 
 October 19, 2018 03:14 | Tags: [balloon-mapping](../tag/balloon-mapping), [events](../tag/events), [aerial-photography](../tag/aerial-photography), [asia](../tag/asia), [taipei](../tag/taipei), [taiwan](../tag/taiwan), [replication:14022](../tag/replication:14022)
+
+----
 
 See more documentation on the [Hackteria Wiki](https://www.hackteria.org/wiki/PA18_Off_Ground_-_Fly_High).We just a great time exploring the balloon mapping and were flying around different cams. especially the results with the 360 camera from Mi, Mi Sphere, has given us amaaazing good and stable video footage due to it's interntal gyroscope, that re-stabilizes and re-orients all the footage during post processing.
 

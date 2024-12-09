@@ -8,11 +8,15 @@ uid: 4
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/005/822/original/Screen_Shot_2014-08-03_at_1.29.22_PM.png)
+
 # State of the Science: The Oil Testing Kit
 
 by [mathew](../profile/mathew) August 03, 2014 21:12
 
 August 03, 2014 21:12 | Tags: [spectrometer](../tag/spectrometer), [video](../tag/video), [oil-testing-kit](../tag/oil-testing-kit), [with:warren](../tag/with:warren)
+
+----
 
 ###What we want to do
 I sat down with @warren to record a video presentation on the state of the [oil testing kit ](http://publiclab.org/wiki/oil-testing-kit) development. I would like to make videos like this about all the tools in development with Public Lab, contact me if you'd like to work on one.  

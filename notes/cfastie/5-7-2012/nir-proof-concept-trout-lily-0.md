@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/sites/default/files/trout-lilies.png)
+
 # NIR proof of concept: Trout Lily
 
 by [cfastie](../profile/cfastie) May 07, 2012 14:39
 
 May 07, 2012 14:39 | Tags: [near-infrared-camera](../tag/near-infrared-camera)
+
+----
 
 (note: This has been at the <a href="http://publiclaboratory.org/wiki/dual-camera-kit-guide">wiki about the PLOTS IR camera tool</a>, but a research note is probably a better place for it.  The photos were taken on April 26, 2012.)
 

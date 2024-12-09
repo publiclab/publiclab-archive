@@ -8,11 +8,15 @@ uid: 51
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/002/816/original/Plaque-314-13.jpg)
+
 # makerbot
 
 by [cfastie](../profile/cfastie), [danbeavers](../profile/danbeavers), [liz](../profile/liz)
 
 January 24, 2014 03:12 | Tags: [3d-printing](../tag/3d-printing), [makerbot](../tag/makerbot)
+
+----
 
 [![MakerBot.jpg](https://i.publiclab.org/system/images/photos/000/002/770/medium/MakerBot.jpg)](https://i.publiclab.org/system/images/photos/000/002/770/original/MakerBot.jpg)
 

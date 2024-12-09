@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/002/710/original/cleanair_logo.png)
+
 # Clean Air Coalition presentation
 
 by [liz](../profile/liz) January 31, 2014 18:34
 
 January 31, 2014 18:34 | Tags: 
+
+----
 
 ###Event details
 

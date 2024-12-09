@@ -8,11 +8,15 @@ uid: 46673
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/001/945/original/2013FinalistLogo.png)
+
 # Public Lab One of Five Finalists for 2013 Buckminster Fuller Challenge
 
 by [Becki](../profile/Becki) October 17, 2013 19:36
 
 October 17, 2013 19:36 | Tags: [press-release](../tag/press-release), [press](../tag/press), [buckminster-fuller-challenge](../tag/buckminster-fuller-challenge), [response:9049](../tag/response:9049)
+
+----
 
 Contact: Becki Chall
 Tel: 810-287-3940

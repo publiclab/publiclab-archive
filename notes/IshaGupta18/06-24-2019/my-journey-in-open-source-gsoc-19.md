@@ -8,11 +8,15 @@ uid: 568043
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/033/168/original/0_GXeaiRPePMjHuuHZ.jpeg)
+
 # My Journey in Open Source (GSoC’19)
 
 by [IshaGupta18](../profile/IshaGupta18) June 24, 2019 16:01
 
 June 24, 2019 16:01 | Tags: [open-source](../tag/open-source), [open-source-communities](../tag/open-source-communities), [soc](../tag/soc), [gsoc-2019](../tag/gsoc-2019), [soc-2019](../tag/soc-2019), [gsoc-19](../tag/gsoc-19)
+
+----
 
 I first started my journey with Open-Source in December'18\.  
 I had just finished a very stressful first semester of engineering and I was so excited about the upcoming holidays that I broke my right ankle and was bedridden for the entire holidays.

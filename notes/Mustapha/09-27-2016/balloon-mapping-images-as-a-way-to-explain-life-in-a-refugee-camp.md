@@ -8,11 +8,15 @@ uid: 493078
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/018/177/original/L1250880.jpg)
+
 # Balloon mapping images as a way to explain life in a refugee camp
 
 by [Mustapha](../profile/Mustapha) September 27, 2016 20:35
 
 September 27, 2016 20:35 | Tags: [lebanon](../tag/lebanon), [middle-east](../tag/middle-east), [refugees](../tag/refugees), [refugeecamps](../tag/refugeecamps), [exhibition](../tag/exhibition), [berlin](../tag/berlin), [germany](../tag/germany), [bourjalshamali](../tag/bourjalshamali)
+
+----
 
 In August 2016, I went to [ZKU](http://www.zku-berlin.org/) in Berlin for 10 days to present the work we have been doing in Bourj Al Shamali camp, but also to learn how to use mapknitter and work with Claudia on the next steps on the project. As the internet connection in the camp is very bad, having the opportunity to work together in one computer made everything more easy.
 

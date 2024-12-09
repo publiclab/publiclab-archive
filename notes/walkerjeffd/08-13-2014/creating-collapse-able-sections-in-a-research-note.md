@@ -14,6 +14,8 @@ by [walkerjeffd](../profile/walkerjeffd) August 13, 2014 17:43
 
 August 13, 2014 17:43 | Tags: [website](../tag/website), [markdown](../tag/markdown), [publishing](../tag/publishing), [formatting](../tag/formatting), [research-notes](../tag/research-notes), [ui](../tag/ui)
 
+----
+
 ###What I want to do
 
 See if I can use the Bootstrap collapse feature in a PL research note to create collapse-able sections. Since the PL site is based on bootstrap already, it should have the javascript available to do this.

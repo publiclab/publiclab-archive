@@ -8,11 +8,15 @@ uid: 9
 
 ---
 
+![](https://publiclab.org/sites/default/files/IMG_3807_0.JPG)
+
 # Map annotation brainstorming notes
 
 by [Shannon](../profile/Shannon) January 09, 2013 16:39
 
 January 09, 2013 16:39 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [annotated-maps](../tag/annotated-maps)
+
+----
 
 Here is a previous note on map annotation: http://publiclaboratory.org/notes/warren/5-15-2012/annotated-maps-roundup
 

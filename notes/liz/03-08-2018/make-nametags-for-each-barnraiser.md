@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/023/911/original/IMG_20151120_084018417.jpg)
+
 # Make nametags for in-person events like the Barnraising
 
 by [liz](../profile/liz) March 08, 2018 15:58
 
 March 08, 2018 15:58 | Tags: [barnraising](../tag/barnraising), [facilitation](../tag/facilitation), [activity:day-before-barnraising](../tag/activity:day-before-barnraising), [activity:facilitation](../tag/activity:facilitation)
+
+----
 
 The lead image is a good example how to present a set of nametags: alphabetized and organized on the Welcome table. Make sure you have blank cards and extra holders for surprise drop-ins!
 

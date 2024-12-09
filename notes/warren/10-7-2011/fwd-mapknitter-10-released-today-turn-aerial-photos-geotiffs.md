@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/knitter_0.png)
+
 # MapKnitter 1.0 released today, turn aerial photos into GeoTiffs!
 
 by [warren](../profile/warren) October 08, 2011 00:49
 
 October 08, 2011 00:49 | Tags: 
+
+----
 
 <p>Heyo mappers!</p>
 

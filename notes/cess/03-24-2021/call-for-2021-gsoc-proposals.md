@@ -8,11 +8,15 @@ uid: 525958
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/043/022/original/gsco.png)
+
 # Call for 2021 GSoC proposals
 
 by [cess](../profile/cess) March 24, 2021 14:49
 
 March 24, 2021 14:49 | Tags: [gsoc](../tag/gsoc), [with:warren](../tag/with:warren), [with:liz](../tag/with:liz), [call-for-proposals](../tag/call-for-proposals), [zoom:6](../tag/zoom:6), [soc-2021](../tag/soc-2021), [with:ruthnwaiganjo](../tag/with:ruthnwaiganjo), [gsoc-2021](../tag/gsoc-2021)
+
+----
 
 ### Google Summer of Code 2021
 
@@ -57,13 +61,13 @@ Also see [2020's proposals here](https://publiclab.org/notes/cess/03-02-2020/cal
 
 ## Proposals
 
-[notes:gsoc-2021-proposals]
+[gsoc-2021-proposals](../../tag/gsoc-2021-proposals)
 
 ---------
 
 ## Questions
 
-[questions:gsoc-2021-proposals]
+[gsoc-2021-proposals](../../tag/question:gsoc-2021-proposals)
 
 ---------
 

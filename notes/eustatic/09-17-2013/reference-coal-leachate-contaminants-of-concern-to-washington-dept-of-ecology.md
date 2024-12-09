@@ -8,11 +8,15 @@ uid: 379
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/001/575/original/United_Bulk_2_september_post_issac.jpg)
+
 # Reference:  Coal leachate contaminants of concern to Washington Dept of Ecology
 
 by [eustatic](../profile/eustatic) September 17, 2013 00:02
 
 September 17, 2013 00:02 | Tags: [gulf-coast](../tag/gulf-coast), [coal](../tag/coal), [coal-export](../tag/coal-export)
+
+----
 
 ##What I want to do
 

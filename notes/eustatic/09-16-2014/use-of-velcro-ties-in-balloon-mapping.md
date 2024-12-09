@@ -8,11 +8,15 @@ uid: 379
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/006/824/original/15236580291_aa7bf799ce.jpg)
+
 # Use of velcro ties in Balloon mapping
 
 by [eustatic](../profile/eustatic) September 16, 2014 05:35
 
 September 16, 2014 05:35 | Tags: [gulf-coast](../tag/gulf-coast), [balloon-mapping](../tag/balloon-mapping), [balloon-mapping-kit](../tag/balloon-mapping-kit), [kit](../tag/kit), [balloon](../tag/balloon), [washustlouis](../tag/washustlouis), [washu-stlouis](../tag/washu-stlouis), [response:11137](../tag/response:11137)
+
+----
 
 ###What I want to do
 

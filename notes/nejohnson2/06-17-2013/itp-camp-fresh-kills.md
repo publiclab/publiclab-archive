@@ -8,11 +8,15 @@ uid: 53894
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/000/526/original/Screen_Shot_2013-06-17_at_10.34.15_AM.png)
+
 # ITP Camp @ Fresh Kills
 
 by [nicholas](../profile/nicholas) June 17, 2013 14:34
 
 June 17, 2013 14:34 | Tags: [new-york-city](../tag/new-york-city), [landfill](../tag/landfill), [event](../tag/event), [waste](../tag/waste), [trash](../tag/trash), [fresh-kills](../tag/fresh-kills), [itp](../tag/itp), [nyu](../tag/nyu), [staten-island](../tag/staten-island)
+
+----
 
 ##Event details
 A team of enthusiastic ITP campers will be heading to Staten Island to visit a landscape unlike any other.  Fresh Kills Park, for over the last fifty years, was the destination of all of New York city's garbage.  Over this period of time, the landfill became three times the size of central park, visible from space and larger in volume than the Great Wall of China.  The landfill is not currently being transformed into a public park of the next thirty years.

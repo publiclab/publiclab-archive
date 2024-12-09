@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/020/777/original/plots-logo-transparent.jpg)
+
 # Your input kindly requested on the 2017 Community Survey!
 
 by [liz](../profile/liz) June 13, 2017 21:31
 
 June 13, 2017 21:31 | Tags: [community](../tag/community), [evaluation](../tag/evaluation)
+
+----
 
 Dear everyone,
 

@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/030/092/original/Screen_Shot_2019-03-15_at_1.15.31_PM.png)
+
 # Help make a post-Texas Barnraising zine to document the event
 
 by [warren](../profile/warren) March 15, 2019 17:22
 
 March 15, 2019 17:22 | Tags: [documentation](../tag/documentation), [barnraising](../tag/barnraising), [doccom](../tag/doccom), [booklet](../tag/booklet), [location:blurred](../tag/location:blurred), [lat:29.3](../tag/lat:29.3), [txbarnraising](../tag/txbarnraising), [zine](../tag/zine), [google-doc](../tag/google-doc), [with:joyofsoy](../tag/with:joyofsoy), [lon:-94.79](../tag/lon:-94.79)
+
+----
 
 UPDATE: The Barnraising zine has been completed and is available for [purchase in our store][1], or for free download here in [English][2] and [Spanish][3].
 

@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/IMG_20120515_154050_0.jpg)
+
 # Sketches for airborne particulate sensor for camera phones
 
 by [warren](../profile/warren) May 15, 2012 19:43
 
 May 15, 2012 19:43 | Tags: [particulate-sensing](../tag/particulate-sensing), [laser](../tag/laser), [dust](../tag/dust), [particulate](../tag/particulate), [pm](../tag/pm), [response:10552](../tag/response:10552), [air-sensors](../tag/air-sensors)
+
+----
 
 Was in D-Lab Biodiversity class today at MIT and brainstormed an idea fora laser-and-webcam or laser-and-smartphone particulate sensor using 2 mirrors, a black box, a laser pointer, and a video camera.
 

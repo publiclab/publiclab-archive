@@ -8,11 +8,15 @@ uid: 447002
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/012/163/original/20151025_105936.jpg)
+
 # Oil testing Kit: Collection of Samples from Pavement, Boqueron Puerto Rico
 
 by [ernestootero](../profile/ernestootero) October 25, 2015 18:17
 
 October 25, 2015 18:17 | Tags: [spectrometer](../tag/spectrometer), [oil](../tag/oil), [pr](../tag/pr), [motor-oil](../tag/motor-oil), [identifying-oil](../tag/identifying-oil), [oil-testing-kit](../tag/oil-testing-kit), [caribbean](../tag/caribbean), [sampling-oil-residues](../tag/sampling-oil-residues), [oil-pavement](../tag/oil-pavement), [puerto-rico](../tag/puerto-rico)
+
+----
 
 Collection of Unknown Samples
 I decided to test paved areas showing residues from cars. I did that in areas near a coastal town of Boquerón, PR. 4 samples were collected, one of them a blank from pavement that did not show traces of oil. See Map. 

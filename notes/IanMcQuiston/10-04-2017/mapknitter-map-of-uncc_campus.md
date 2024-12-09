@@ -14,6 +14,8 @@ by [IanMcQuiston](../profile/IanMcQuiston) October 04, 2017 14:27
 
 October 04, 2017 14:27 | Tags: [mapknitter](../tag/mapknitter), [lat:35.3069392538](../tag/lat:35.3069392538), [lon:-80.7321095467](../tag/lon:-80.7321095467)
 
+----
+
 <iframe src="https://mapknitter.org/embed/uncc_campus--4" style="border:none" width="100%" height="400px"></iframe>  
   
   

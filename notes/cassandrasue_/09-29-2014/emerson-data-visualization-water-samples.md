@@ -8,11 +8,15 @@ uid: 427890
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/007/058/original/IMG_0928.JPG)
+
 # Emerson Data Visualization Water Samples 
 
 by [cassandrasue_](../profile/cassandrasue_) September 29, 2014 04:27
 
 September 29, 2014 04:27 | Tags: [water-quality](../tag/water-quality), [first-time-poster](../tag/first-time-poster)
+
+----
 
 Sample 1
 

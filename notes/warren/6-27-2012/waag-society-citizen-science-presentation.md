@@ -14,6 +14,8 @@ by [warren](../profile/warren) June 27, 2012 07:15
 
 June 27, 2012 07:15 | Tags: [waagsociety](../tag/waagsociety), [amsterdam](../tag/amsterdam), [presentations](../tag/presentations), [presentation](../tag/presentation), [waag](../tag/waag)
 
+----
+
 I'm giving a talk this morning at the Waag Society in Amsterdam. Here are my slides! I cite a number of projects from PLOTS and this afternoon we'll be doing some balloon mapping workshops.
 
 https://docs.google.com/presentation/d/1uY20q1hHfpClF2sCoGOWwt5Y9FeWptEy9AaYBa6OI08/edit

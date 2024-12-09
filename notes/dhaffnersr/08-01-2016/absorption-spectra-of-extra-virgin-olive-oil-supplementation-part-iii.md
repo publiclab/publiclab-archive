@@ -8,11 +8,15 @@ uid: 461120
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/017/291/original/EVOO_july_31.png)
+
 # Absorption spectra of extra virgin olive oil-Supplementation part III 
 
 by [dhaffnersr](../profile/dhaffnersr) August 01, 2016 11:51
 
 August 01, 2016 11:51 | Tags: 
+
+----
 
 ##**Supplemental analysis of initial absorption spectrum, related to Dave Stoft's challenge: Chemical analysis of Extra Virgin Olive Oil sample SP07-C0[4] (Chlorophyll [A] and Chlorophyll [B].**
 

@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/019/489/original/gsoc-orgs.png)
+
 # Be a mentor for Public Lab in Google Summer of Code 2017
 
 by [warren](../profile/warren) February 08, 2017 21:58
 
 February 08, 2017 21:58 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [web](../tag/web), [developers](../tag/developers), [wwg](../tag/wwg), [gsoc-2017](../tag/gsoc-2017)
+
+----
 
 Google Summer of Code (#GSoC) is a program where Google supports students to work on open source coding projects for the summer. It has been an invaluable resource and a tremendous support for the work we do, from the [MapKnitter](http://mapknitter.org) project, which has been used to put community-produced image maps into Google Maps, to [Spectral Workbench](http://SpectralWorkbench.org), our DIY spectrometry project, to [PublicLab.org](http://PublicLab.org), our open collaborative platform used by thousands (this very site!).
 

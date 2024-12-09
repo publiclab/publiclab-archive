@@ -8,11 +8,15 @@ uid: 46673
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/002/352/original/PublicLabBarnraising2013Group_webresolution.jpg)
+
 # Support your favorite nonprofit (Public Lab!) on #GivingTuesday!
 
 by [Becki](../profile/Becki) December 03, 2013 19:14
 
 December 03, 2013 19:14 | Tags: [fundraising](../tag/fundraising)
+
+----
 
 **Thank you so much for your help making 2013 the best year yet for Public Lab! **
 

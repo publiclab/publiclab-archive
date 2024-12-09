@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/001/413/original/mobiusInfRGBchan1800.jpg)
+
 # Mobius, stripped
 
 by [cfastie](../profile/cfastie) September 06, 2013 01:13
 
 September 06, 2013 01:13 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [infragram](../tag/infragram), [histogram](../tag/histogram), [infragram-conversion](../tag/infragram-conversion), [infragram-sandbox](../tag/infragram-sandbox), [mobius-actioncam](../tag/mobius-actioncam), [rcgroups](../tag/rcgroups), [response:9293](../tag/response:9293)
+
+----
 
 <em>Image above: The three channels in part of an infrablue photo taken with a Mobius ActionCam modified with a Rosco filter. All three channels record lots of infrared light. (the images are dark because they each have about a third of the brightness of the original photo)</em>
 

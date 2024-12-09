@@ -14,6 +14,8 @@ by [stevie](../profile/stevie) November 29, 2021 21:50
 
 November 29, 2021 21:50 | Tags: [hydrogen](../tag/hydrogen), [sewage](../tag/sewage), [hydrogen-sulfide](../tag/hydrogen-sulfide), [air-quality](../tag/air-quality), [sulfide](../tag/sulfide), [question:air-quality](../tag/question:air-quality), [indoor-air-quality](../tag/indoor-air-quality), [wastewater](../tag/wastewater), [indoor-air](../tag/indoor-air), [odor](../tag/odor), [question:general](../tag/question:general), [general](../tag/general), [question:indoor-air-remediation](../tag/question:indoor-air-remediation), [indoor-air-remediation](../tag/indoor-air-remediation), [question:odor](../tag/question:odor), [question:smell](../tag/question:smell), [question:hydrogen-sulfide](../tag/question:hydrogen-sulfide), [smell](../tag/smell), [question:indoor-air-quality](../tag/question:indoor-air-quality), [question:wastewater](../tag/question:wastewater), [question:sewage](../tag/question:sewage)
 
+----
+
 _Community question from Jen Davis in Ontario_ 
 
 My sister moved into a house a while back on the second floor. There is a sewage like smell that emits from the basement of the house that shows up intermittently, sometimes faint and sometimes very strong- we haven't noticed a pattern to it. It doesn't smell like rotten eggs, so we don't think it's sulfur, it smells distinctly like fences.  The house floods every 4-5 years and the landlord has refused to clean up the basement. My sister, and the family who lives below them, seem to be nose blind to the smell now, although myself, and other visitors to the house smell it.  

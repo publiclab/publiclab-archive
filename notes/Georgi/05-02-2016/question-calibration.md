@@ -14,6 +14,8 @@ by [Georgi](../profile/Georgi) May 02, 2016 15:03
 
 May 02, 2016 15:03 | Tags: [question:spectrometry](../tag/question:spectrometry), [answered](../tag/answered)
 
+----
+
 Hi,
 Just wondering how it works (we wish to change the camera), does the software only expects raw data coming from the camera ? And what resolution does it require ? 
 Also, what is the processing time for instance on the results? Can the software be run on linux?  

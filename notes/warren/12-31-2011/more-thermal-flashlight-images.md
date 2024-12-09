@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/Screenshot at 2011-12-26 20:05:29.png)
+
 # More thermal flashlight images
 
 by [warren](../profile/warren) December 31, 2011 18:28
 
 December 31, 2011 18:28 | Tags: 
+
+----
 
 A few more [thermal flashlight](/tool/thermal-photography) photos. The above shows a hot and a cold drink on my mom's kitchen table. Below, the heat left by a halogen lamp on the wall. At bottom, a laptop at the pirateship.
 

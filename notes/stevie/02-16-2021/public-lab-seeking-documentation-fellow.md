@@ -8,11 +8,15 @@ uid: 422561
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/042/720/original/BR_image.jpg)
+
 # Public Lab Seeking Documentation Fellow
 
 by [stevie](../profile/stevie) February 16, 2021 16:52
 
 February 16, 2021 16:52 | Tags: [documentation](../tag/documentation), [air-quality](../tag/air-quality), [jobs](../tag/jobs), [fellows](../tag/fellows), [fellowship](../tag/fellowship), [community-organizing](../tag/community-organizing), [fellow](../tag/fellow)
+
+----
 
 ###Public Lab is seeking a Documentation Fellow 
 

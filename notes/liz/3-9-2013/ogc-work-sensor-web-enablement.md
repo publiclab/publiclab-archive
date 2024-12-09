@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/sites/default/files/SWE Overview - OGC.jpg)
+
 # OGC work on Sensor Web Enablement
 
 by [liz](../profile/liz) March 09, 2013 18:47
 
 March 09, 2013 18:47 | Tags: [sensing](../tag/sensing), [sensors](../tag/sensors), [standards](../tag/standards), [interoperability](../tag/interoperability), [ogc](../tag/ogc), [open-geospatial-consortium](../tag/open-geospatial-consortium)
+
+----
 
 Thinking about how to deal with new Public Lab tools that involve environmental sensors of various types, I serendipitously met Luis Bermudez from the Open Geospatial Consortium. He related the OGC's work on standards for sharing sensor data on the web. 
 

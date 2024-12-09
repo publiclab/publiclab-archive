@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/035/408/original/Screen_Shot_2019-09-23_at_12.30.13_PM.png)
+
 # Slidedeck for environmental lawyers
 
 by [liz](../profile/liz) September 23, 2019 16:30
 
 September 23, 2019 16:30 | Tags: [evidence](../tag/evidence), [presentation](../tag/presentation), [legal](../tag/legal), [evidence-project](../tag/evidence-project), [law-and-policy](../tag/law-and-policy)
+
+----
 
 Here is a basic Public Lab deck with messaging tuned towards presenting to environmental lawyers. 
 

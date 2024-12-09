@@ -8,11 +8,15 @@ uid: 420530
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/002/796/original/Screen_Shot_2014-02-05_at_9.25.06_PM.png)
+
 # Detecting Pesticides in Organic and Conventional Raspberries using Open Source Instrumentation
 
 by [silverhammer](../profile/silverhammer) February 06, 2014 05:45
 
 February 06, 2014 05:45 | Tags: [spectrometer](../tag/spectrometer), [pesticides](../tag/pesticides), [reagents](../tag/reagents), [organic](../tag/organic), [nicotinoid](../tag/nicotinoid), [organophosphate](../tag/organophosphate), [carbamate](../tag/carbamate), [berries](../tag/berries), [colorimetry](../tag/colorimetry), [activity:spectrometry](../tag/activity:spectrometry), [difficulty:hard](../tag/difficulty:hard), [activity:spectrometry-sampling](../tag/activity:spectrometry-sampling), [activity:reagents](../tag/activity:reagents), [activity:colorimetry](../tag/activity:colorimetry), [first-time-poster](../tag/first-time-poster)
+
+----
 
 ####**Purpose**
 

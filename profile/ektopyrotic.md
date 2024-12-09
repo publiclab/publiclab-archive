@@ -3,6 +3,8 @@ uid: 699450
 created_at: 2020-06-04 19:04:46 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/896b1afe20a91529763ac3e08ed01a0a)
+
 # ektopyrotic
 
 https://www.youtube.com/user/MuonRay/videos

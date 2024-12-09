@@ -3,6 +3,8 @@ uid: 30539
 created_at: 2013-05-22 14:50:39 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/0d3bd3e976551b701696d4b14e829b6e)
+
 # gwirth
 
 Landscape architect in NYC

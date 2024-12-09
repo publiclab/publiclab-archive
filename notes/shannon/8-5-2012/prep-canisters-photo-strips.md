@@ -8,11 +8,15 @@ uid: 9
 
 ---
 
+![](https://publiclab.org/sites/default/files/7447204808_df5804b033.jpg)
+
 # Prep of canisters for photo strips
 
 by [Shannon](../profile/Shannon) August 05, 2012 16:35
 
 August 05, 2012 16:35 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [wetlands](../tag/wetlands)
+
+----
 
 Before the first H2S photo strip test in Bayou Sauvage (http://publiclaboratory.org/notes/eustatic/6-23-2012/h2s-strip-placement-bayou-sauvage-nwr-orleans-parish-la), I had to get canisters ready for use.
 

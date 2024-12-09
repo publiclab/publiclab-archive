@@ -8,11 +8,15 @@ uid: 521609
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/023/122/original/PIC2.jpg)
+
 # Built the entry level paperkit
 
 by [Swede2](../profile/Swede2) January 07, 2018 16:22
 
 January 07, 2018 16:22 | Tags: [spectrometer](../tag/spectrometer), [spectralworkbench](../tag/spectralworkbench), [assembly](../tag/assembly), [kit](../tag/kit), [instructions](../tag/instructions), [smartphone](../tag/smartphone), [foldable](../tag/foldable), [papercraft](../tag/papercraft), [spectral](../tag/spectral), [smart](../tag/smart), [beginner](../tag/beginner), [starter](../tag/starter), [starterkit](../tag/starterkit), [phone](../tag/phone), [printable](../tag/printable), [replication:13577](../tag/replication:13577)
+
+----
 
 I built the entry level, paper-foldable spectrophotometer just before New Years. The experience I had and the lessons I learned are below.  
   

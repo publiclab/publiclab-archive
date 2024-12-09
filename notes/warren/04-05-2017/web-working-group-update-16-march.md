@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/020/093/original/Screen_Shot_2017-04-05_at_2.55.56_PM.png)
+
 # Web Working Group Update 16: March
 
 by [warren](../profile/warren) April 05, 2017 19:10
 
 April 05, 2017 19:10 | Tags: [community](../tag/community), [web-development](../tag/web-development), [software](../tag/software), [plots2](../tag/plots2), [outreach](../tag/outreach), [gsoc](../tag/gsoc), [developers](../tag/developers), [wwg](../tag/wwg), [webwg](../tag/webwg), [first-timers-only](../tag/first-timers-only), [software-outreach](../tag/software-outreach), [rich-wikis](../tag/rich-wikis), [wwg-update](../tag/wwg-update), [response:13985](../tag/response:13985)
+
+----
 
 The past month was a bit different from previous months, for a few reasons. I was traveling for 3 of the past 5 weeks, so I've been somewhat less able to respond to day-to-day issues and pull requests, but have been enormously helped by members of our reviewers team, including @ananyo2012 and @ryzokuken.
 

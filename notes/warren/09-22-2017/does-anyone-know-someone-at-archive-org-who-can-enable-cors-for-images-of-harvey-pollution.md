@@ -14,6 +14,8 @@ by [warren](../profile/warren) September 22, 2017 04:16
 
 September 22, 2017 04:16 | Tags: [archive](../tag/archive), [leaflet](../tag/leaflet), [exif](../tag/exif), [answered](../tag/answered), [photo-sharing](../tag/photo-sharing), [archive.org](../tag/archive.org), [question:photo-sharing](../tag/question:photo-sharing)
 
+----
+
 I'm trying to set up a workflow for reporters of damaged industrial sites that may be polluting after Harvey and other storms and disasters. Currently people often upload large batches of files to Flickr or Google Drive, but [Archive.org](http://Archive.org) is a more sustainable place with a better API.
 
 But I'm also trying to get aerial photos of affected sites (like the flooded oil and gas facilities shown below) to appear on a Leaflet map by using the [Archive.org JSON API](https://archive.org/help/json.php), which is great.

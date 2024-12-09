@@ -14,4 +14,6 @@ by [gonzoearth](../profile/gonzoearth) November 25, 2011 05:28
 
 November 25, 2011 05:28 | Tags: [new-york-city](../tag/new-york-city), [protest-mapping](../tag/protest-mapping), [occupy](../tag/occupy), [northeast](../tag/northeast)
 
+----
+
 <i><a href="http://www.theverge.com/2011/11/24/2584792/occupy-wall-street-livestream-ustream">http://www.theverge.com/2011/11/24/2584792/occupy-wall-street-livestream-ustream</a></i><br clear="all">

@@ -14,6 +14,8 @@ by [Joris](../profile/Joris) April 30, 2016 19:22
 
 April 30, 2016 19:22 | Tags: [question:spectral-workbench](../tag/question:spectral-workbench), [first-time-poster](../tag/first-time-poster)
 
+----
+
 ###What I want to do or know
 My desktop spectrometer 3 (using the public lab kit) appears to work, but it requires a lot of light. Pointing it directly at a bright sky works, but holding it at a slight angle immediately kills the signal. Same story with a bright light: holding it right up to the light works, anything indirect fails.
 

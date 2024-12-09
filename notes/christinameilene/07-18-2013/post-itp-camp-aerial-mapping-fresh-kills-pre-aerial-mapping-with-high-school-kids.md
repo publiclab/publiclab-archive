@@ -8,11 +8,15 @@ uid: 170195
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/000/841/original/9112187334_e1a6c13ddc_c.jpg)
+
 # Post-ITP Camp Aerial Mapping @ Fresh Kills, Pre-Aerial Mapping with High School Kids!
 
 by [christinameilene](../profile/christinameilene) July 18, 2013 22:22
 
 July 18, 2013 22:22 | Tags: [new-york-city](../tag/new-york-city), [balloon-mapping](../tag/balloon-mapping), [landfill](../tag/landfill), [waste](../tag/waste), [trash](../tag/trash), [fresh-kills](../tag/fresh-kills), [itp](../tag/itp), [high-school](../tag/high-school)
+
+----
 
 ##What happened
 [As Nick wrote earlier](http://publiclab.org/notes/nejohnson2/06-17-2013/itp-camp-fresh-kills), a group of folks from ITP Camp at NYU took a trip down to Fresh Kills (the former landfill turned park) on Staten Island in June to get started with some aerial mapping. I was lucky to be a part of this group, and the whole experience was truly a highlight of ITP Camp for me. I spend most of my time teaching (and thinking about teaching) design, cartography and other things at the NYC iSchool, a public high school downtown, and I was especially interested in thinking about how to bring aerial mapping back to my classroom.

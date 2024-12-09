@@ -14,6 +14,8 @@ by [warren](../profile/warren) December 05, 2016 17:51
 
 December 05, 2016 17:51 | Tags: [video](../tag/video), [sand](../tag/sand), [leaffest](../tag/leaffest), [photo-monitoring](../tag/photo-monitoring), [timelapse](../tag/timelapse), [mining](../tag/mining), [monitoring](../tag/monitoring), [answered](../tag/answered), [question:timelapse](../tag/question:timelapse), [trail-camera](../tag/trail-camera), [question:photo-monitoring](../tag/question:photo-monitoring), [trail-cam](../tag/trail-cam), [photographic-evidence](../tag/photographic-evidence), [photographic-monitoring](../tag/photographic-monitoring), [question:general](../tag/question:general), [dune](../tag/dune), [response:13741](../tag/response:13741), [video-editing](../tag/video-editing), [question:photo-sharing](../tag/question:photo-sharing)
 
+----
+
 ### What I want to do or know
 
 Is there an easy way to make a timelapse video out of a series of images, like from a #trail-camera?

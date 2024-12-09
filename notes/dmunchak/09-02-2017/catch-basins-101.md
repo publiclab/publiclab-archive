@@ -8,11 +8,15 @@ uid: 513675
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/021/553/original/IMG_3687.JPG)
+
 # Catch Basins 101: How to clean a catch basin with one person in 68 minutes.
 
 by [dmunchak](../profile/dmunchak) September 02, 2017 21:32
 
 September 02, 2017 21:32 | Tags: [gulf-coast](../tag/gulf-coast), [new-orleans](../tag/new-orleans), [stormwater](../tag/stormwater), [activity:stormwater](../tag/activity:stormwater), [storm](../tag/storm), [catch](../tag/catch), [basins](../tag/basins), [drains](../tag/drains), [catch-basin](../tag/catch-basin)
+
+----
 
 It's not rocket science. Next time you take a shower look down at the drain. Marvel at how the water runs down the hole. Then, block the drain with something and watch it backup. Remove the blockage and the water flows again. It's truly magical.
 

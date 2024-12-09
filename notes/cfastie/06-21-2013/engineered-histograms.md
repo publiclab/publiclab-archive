@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/000/564/original/907_rgbhist.jpg)
+
 # Engineered Histograms
 
 by [cfastie](../profile/cfastie) June 21, 2013 22:04
 
 June 21, 2013 22:04 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [infrared](../tag/infrared), [infragram](../tag/infragram), [infrablue](../tag/infrablue), [response:8190](../tag/response:8190), [tests](../tag/tests), [response:8261](../tag/response:8261), [response:8353](../tag/response:8353)
+
+----
 
 <em>Image above: An infrablue photo from a little camera Jeff converted. The histograms of a bright area of tree foliage show that the red and blue channels are very similar, probably because they are recording lots of infrared light.</em>
 

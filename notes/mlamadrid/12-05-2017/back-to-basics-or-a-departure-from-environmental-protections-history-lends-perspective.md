@@ -8,11 +8,15 @@ uid: 45586
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/022/804/original/Africatown_Blueway_Planning_Stevie.jpg)
+
 # Back to Basics, or a Departure from Environmental Protections? History lends perspective.
 
 by [mlamadrid](../profile/mlamadrid) December 05, 2017 23:32
 
 December 05, 2017 23:32 | Tags: [environment](../tag/environment), [regulations](../tag/regulations), [landscape](../tag/landscape), [governance](../tag/governance)
+
+----
 
 Article by Leif Fredrickson, [Environmental Data and Governance Initiative](https://envirodatagov.org/) for [Community Science Forum: Changing Environmental Governance Landscape](https://publiclab.org/forum)
 

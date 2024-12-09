@@ -14,6 +14,8 @@ by [alejobonifacio](../profile/alejobonifacio) March 23, 2022 13:47
 
 March 23, 2022 13:47 | Tags: [coqui](../tag/coqui), [question:coqui](../tag/question:coqui), [question:general](../tag/question:general), [general](../tag/general), [research-curation-fellows](../tag/research-curation-fellows), [response:25251](../tag/response:25251)
 
+----
+
 ![image description][1]
 
 I was making a Coqui to measure water conductivity, but when doing so I noticed that the buzzer got really hot after a few seconds of being turned on.

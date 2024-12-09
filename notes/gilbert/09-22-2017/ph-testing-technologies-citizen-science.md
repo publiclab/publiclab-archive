@@ -8,11 +8,15 @@ uid: 508551
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/021/742/original/download.jpg)
+
 # pH Testing Technologies & Citizen Science
 
 by [gilbert](../profile/gilbert) September 22, 2017 16:29
 
 September 22, 2017 16:29 | Tags: [citizen-science](../tag/citizen-science), [water-quality](../tag/water-quality), [ph](../tag/ph), [ph-testing](../tag/ph-testing)
+
+----
 
 ![image description](https://publiclab.org/system/images/photos/000/022/694/large/f_09_CarlsbergLab_splsorensen2_a_v.jpg "f_09_CarlsbergLab_splsorensen2_a_v.jpg")
 

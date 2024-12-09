@@ -8,11 +8,15 @@ uid: 271926
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/001/990/original/IMG_0044.JPG)
+
 # Bio Ceramic System
 
 by [ikerluna](../profile/ikerluna) October 22, 2013 13:27
 
 October 22, 2013 13:27 | Tags: [barcelona](../tag/barcelona), [spain](../tag/spain), [infragram](../tag/infragram), [moss](../tag/moss), [ceramic](../tag/ceramic), [bio-ceramic](../tag/bio-ceramic), [iaac](../tag/iaac), [qgis](../tag/qgis)
+
+----
 
 Hello my name is Iker Luna, I am master programme student at [IAAC](http://www.iaac.net)  in Barcelona, 
 and working a in research project Bio Ceramic System. This research describes a studio experiment developed with the aim of exploring the bio receptivity of the ceramics taking advantage of porosity of the material that allows it to retain water and using natural fibers as complement elements to benefits other properties.

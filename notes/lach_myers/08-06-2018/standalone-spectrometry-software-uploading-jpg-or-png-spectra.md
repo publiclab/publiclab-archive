@@ -14,6 +14,8 @@ by [lach_myers](../profile/lach_myers) August 06, 2018 13:33
 
 August 06, 2018 13:33 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [fluorescence](../tag/fluorescence), [raspberry-pi](../tag/raspberry-pi), [lego](../tag/lego), [question:spectrometer](../tag/question:spectrometer), [question:spectral-workbench](../tag/question:spectral-workbench), [raspberry-pi-spectrometer](../tag/raspberry-pi-spectrometer), [lego-spectrometer](../tag/lego-spectrometer), [response:16660](../tag/response:16660)
 
+----
+
 I'd welcome any suggestions for analysing captured spectra off-line/standalone?
 
 I'm building a reasonably robust standalone version of the RPi/Lego spectrometer (see [https://publiclab.org/notes/lach\_myers/07-08-2018/lego-spectrometer-publiclab-design](https://publiclab.org/notes/lach_myers/07-08-2018/lego-spectrometer-publiclab-design) ) for use at my school - years 7-12 mostly. The spectral Workbench software works well, with the big advantage of allowing uploads of spectra from my Lego/RpiCam system.

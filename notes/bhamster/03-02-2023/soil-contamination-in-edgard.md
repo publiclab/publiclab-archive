@@ -14,6 +14,8 @@ by [bhamster](../profile/bhamster) March 02, 2023 22:05
 
 March 02, 2023 22:05 | Tags: [csf](../tag/csf), [community-science-forum](../tag/community-science-forum), [soil-contamination](../tag/soil-contamination), [student-community-science](../tag/student-community-science), [classroom-community-science](../tag/classroom-community-science), [csf18](../tag/csf18)
 
+----
+
 **A version of this story by high school student Jayla is published in Public Lab's _Community Science Forum_, Issue 18. Read more from this issue <a href="https://publiclab.org/forum#Issue+18+Student-Led+Community+Science+Projects+(Summer+2021)">here</a>.**
 
 We believe that air pollution from a nearby plant, the Noranda Aluminum LLC manufacturing plant in Gramercy, has contaminated our soil with mercury. A 2015 article said this plant is the state of Louisiana's largest source of air pollution. According to the article, the plant only affects the Gramercy and Wallace areas. However, we constructed this experiment because we want to know if this is accurate, or if the contamination has spread further. We collected soil sampling. We did this because we wanted to learn if the soil near our school was contaminated.

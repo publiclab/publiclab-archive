@@ -8,11 +8,15 @@ uid: 540844
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/027/576/original/OI000012.jpg)
+
 # The Importance of Community-based Responders
 
 by [joyofsoy](../profile/joyofsoy) November 09, 2018 20:18
 
 November 09, 2018 20:18 | Tags: [disaster-preparedness](../tag/disaster-preparedness), [hurricane](../tag/hurricane), [climate-change](../tag/climate-change), [with:liz](../tag/with:liz), [puerto-rico](../tag/puerto-rico), [disaster-response](../tag/disaster-response), [disaster-resilience](../tag/disaster-resilience), [disaster-recovery](../tag/disaster-recovery), [hurricane-preparedness](../tag/hurricane-preparedness), [crisis-convening](../tag/crisis-convening), [series:crisis-convening](../tag/series:crisis-convening), [hurricane-maria](../tag/hurricane-maria)
+
+----
 
 _**A version of this post appears in Public Lab's Community Science Forum, Issue 14, and is adapted from an article by @liz, Greg Bloom, Willow Brugh, and Tammy Shapiro**_
 

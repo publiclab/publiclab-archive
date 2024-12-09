@@ -14,4 +14,6 @@ by [gretchengehrke](../profile/gretchengehrke) August 02, 2017 21:23
 
 August 02, 2017 21:23 | Tags: [question:microscopes](../tag/question:microscopes)
 
+----
+
 Microscopes can be a limiting factor for group participation if only one person at a time can look through the ocular lenses. What are your favorite microscopes that could produce an image for multiple people to see, like a digital microscope connected to a display screen? 

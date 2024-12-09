@@ -14,6 +14,8 @@ by [sara](../profile/sara) July 29, 2012 21:33
 
 July 29, 2012 21:33 | Tags: [new-york-city](../tag/new-york-city), [epa](../tag/epa), [new-jersey](../tag/new-jersey), [northeast](../tag/northeast)
 
+----
+
 On the 18th and 19th of July, Liz Barry, Leif Percifield and I attended EPA first ever Citizen Science Workshops. Also in attendance were our friends at Global Community Monitor. This was there first time being formally invited to present to the EPA. Among other presenters were Riverkeeper, speaking about their remarkable longterm project tracking sewage levels all the Hudson River 
 
 It was a great set of workshops, there was one in New York City and a second in New Jersey, that I manned solo. During the second New Jersey workshop despite sweltering heat we managed to fly a balloon. Unfortunately we had a camera malfunction and weren't able to retrieve images.

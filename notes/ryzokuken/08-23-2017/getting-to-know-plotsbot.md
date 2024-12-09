@@ -8,11 +8,15 @@ uid: 493113
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/021/397/original/PublicLab.png)
+
 # Getting to know plotsbot
 
 by [ryzokuken](../profile/ryzokuken) August 23, 2017 14:23
 
 August 23, 2017 14:23 | Tags: [gsoc](../tag/gsoc), [google-summer-of-code](../tag/google-summer-of-code), [gsoc-2017](../tag/gsoc-2017), [soc](../tag/soc), [soc-2017](../tag/soc-2017), [plotsbot](../tag/plotsbot), [publiclab-testing](../tag/publiclab-testing), [response:14788](../tag/response:14788)
+
+----
 
 BTW: Here's where it all started (https://publiclab.org/notes/ryzokuken/02-28-2017/bot-for-publiclab)
 

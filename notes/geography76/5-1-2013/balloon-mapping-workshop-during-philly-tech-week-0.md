@@ -8,11 +8,15 @@ uid: 176
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/000/196/original/DanaBalloon.jpg)
+
 # Balloon Mapping Workshop during Philly Tech Week
 
 by [geography76](../profile/geography76) May 01, 2013 10:14
 
 May 01, 2013 10:14 | Tags: [first-time-poster](../tag/first-time-poster)
+
+----
 
 "A big ass balloon brings people so much joy. When it comes down to it, we're all five years old."<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>--something I might have said during a recent workshop</em>

@@ -8,11 +8,15 @@ uid: 422561
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/017/977/original/cc.logo.large.png)
+
 # Collaboratively generating more knowledge: Public Lab’s approach to citizen science
 
 by [stevie](../profile/stevie) September 08, 2016 15:11
 
 September 08, 2016 15:11 | Tags: 
+
+----
 
 _[Blog Crosspost from: www.https://creativecommons.org](https://creativecommons.org/2016/09/07/collaboratively-generating-knowledge/)_ 
 

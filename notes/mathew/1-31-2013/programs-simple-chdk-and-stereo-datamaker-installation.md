@@ -14,6 +14,8 @@ by [mathew](../profile/mathew) January 31, 2013 18:16
 
 January 31, 2013 18:16 | Tags: [kite-mapping](../tag/kite-mapping), [chdk](../tag/chdk), [dual-camera](../tag/dual-camera), [camera-trigger](../tag/camera-trigger), [sdm](../tag/sdm), [stereo-datamaker](../tag/stereo-datamaker)
 
+----
+
 [From the KAP Forums](http://arch.ced.berkeley.edu/kap/discuss/index.php?p=/discussion/4296/installing-sdm-and-chdk-the-really-simple-way) Dave Mitchell just released awesome Java apps that assist in installing both Stereo Data Maker and CHDK on Canon cameras.  They handle card formatting and installation with a click.
 
 The CDHK package should work without modification for [USB triggering](http://publiclaboratory.org/wiki/dual-camera-trigger).

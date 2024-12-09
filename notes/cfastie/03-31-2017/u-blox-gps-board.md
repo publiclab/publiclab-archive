@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/019/988/original/3tracksallps.jpg)
+
 # U-blox GPS board
 
 by [cfastie](../profile/cfastie) March 31, 2017 23:09
 
 March 31, 2017 23:09 | Tags: [arduino](../tag/arduino), [gps](../tag/gps), [sensors](../tag/sensors), [altitude](../tag/altitude), [data-logging](../tag/data-logging), [skypod](../tag/skypod), [response:14036](../tag/response:14036), [ublox](../tag/ublox)
+
+----
 
 _Above: I walked this loop which is about two miles long. The route in the upper and upper left part of the image is in a steep valley where reception from many GPS satellites could be blocked._
 

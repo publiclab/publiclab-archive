@@ -3,6 +3,8 @@ uid: 507287
 created_at: 2017-05-15 04:30:25 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/507287/medium/motelpoolgardening.JPG)
+
 # cherylh
 
 Sociologist concerned with environmental justice, health equity, AI, and just transitions away from fossil fuel dependence. Research and outreach affiliate of: https://www.fairtechcollective.org/

@@ -8,11 +8,15 @@ uid: 473184
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/016/102/original/water_dia-all-upload_layout.jpg)
+
 # Public Lab River Rat Pack -- St. Louis – Xiaoqing Qin
 
 by [Xiaoqing](../profile/Xiaoqing) May 11, 2016 17:04
 
 May 11, 2016 17:04 | Tags: [balloon-mapping](../tag/balloon-mapping), [blog](../tag/blog), [mississippi-river](../tag/mississippi-river), [mid-west](../tag/mid-west), [missouri](../tag/missouri), [publiclabriverratpack](../tag/publiclabriverratpack), [antidrone](../tag/antidrone), [stlouis](../tag/stlouis), [response:13093](../tag/response:13093)
+
+----
 
 Have been in St. Louis for three years for my master of landscape architecture in Washington University, it is Derek’s Public Lab River Rat Pack class for the first time that gave me such a series of site visits systematically along the rivers and the water system around. The large number of aerial photos from our balloon/kite flies in different angles amazed me:  there are so many details I have never noticed in and along the rivers before when I was looking at aerial photos from other online sources like Google Earth for my other projects, and I think the accumulation of those details are shaping the landscape and will make a big difference for us to understand how the influence of water on our living environment.
 

@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/022/174/original/questioners.png)
+
 # What questions will you bring to the Barnraising? (Part II)
 
 by [warren](../profile/warren) November 02, 2017 14:11
 
 November 02, 2017 14:11 | Tags: [west-virginia](../tag/west-virginia), [cocodrie](../tag/cocodrie), [barnraising](../tag/barnraising), [blog](../tag/blog), [videos](../tag/videos), [questions](../tag/questions), [barnraising-2017](../tag/barnraising-2017), [regional-barnraising](../tag/regional-barnraising), [barnraising-vw](../tag/barnraising-vw), [morgantown](../tag/morgantown), [series:barnraising-questions](../tag/series:barnraising-questions)
+
+----
 
 [The Barnraising](/barnraising) starts tomorrow morning! We're all super excited. 
 

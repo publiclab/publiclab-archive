@@ -8,11 +8,15 @@ uid: 664477
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/044/859/original/Suquia_storm_drain_copy.jpg)
+
 # Wastewater
 
 by [bhamster](../profile/bhamster)
 
 September 22, 2021 17:45 | Tags: [sewage](../tag/sewage), [water-quality](../tag/water-quality), [stormwater](../tag/stormwater), [wastewater](../tag/wastewater), [parent:water-quality](../tag/parent:water-quality)
+
+----
 
 Where does water go once it flows down the sink drain? What about the water trickling down the street into storm drains? Or water discarded from industrial activities?
 
@@ -85,7 +89,7 @@ You can also find stormwater-related projects here: [https://publiclab.org/wiki/
 
 Questions tagged with `question:wastewater` will appear here
 
-[questions:wastewater]
+[wastewater](../../tag/question:wastewater)
 
 <br>
 
@@ -111,7 +115,7 @@ The Public Lab community is here to support people as they plan and carry out in
 
 Here are some activities you might want to try when starting to research wastewater pollution.
 
-[notes:grid:getting-started-wastewater]
+[grid:getting-started-wastewater](../../tag/grid:getting-started-wastewater)
 
 <br>
 
@@ -187,7 +191,7 @@ On that page, you’ll find information on monitoring some water quality charact
 
 Activities on Public Lab that have been tagged with `activity:wastewater` will appear here
 
-[activities:wastewater]
+[wastewater](../../tag/activity:wastewater)
 
 <br>
 

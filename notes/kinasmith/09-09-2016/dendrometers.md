@@ -8,11 +8,15 @@ uid: 445906
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/017/991/original/DSC01267.jpg)
+
 # Dendrometers!
 
 by [kinasmith](../profile/kinasmith) September 09, 2016 22:48
 
 September 09, 2016 22:48 | Tags: [alaska](../tag/alaska), [tree](../tag/tree), [trees](../tag/trees), [datalogger](../tag/datalogger), [sensor-networks](../tag/sensor-networks), [sensor](../tag/sensor), [circuit-board](../tag/circuit-board)
+
+----
 
 ###Background
 

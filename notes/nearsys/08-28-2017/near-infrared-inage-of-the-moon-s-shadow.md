@@ -8,11 +8,15 @@ uid: 506331
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/021/464/original/IMAG2160.JPG)
+
 # Near Infrared Image of the Moon's Shadow
 
 by [nearsys](../profile/nearsys) August 28, 2017 23:44
 
 August 28, 2017 23:44 | Tags: [infrared](../tag/infrared), [mobius](../tag/mobius), [solar](../tag/solar), [space](../tag/space), [near](../tag/near), [eclipse](../tag/eclipse), [shadow](../tag/shadow)
+
+----
 
 I wanted to see what kind of data I could collect during the solar eclipse.
 

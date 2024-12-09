@@ -8,11 +8,15 @@ uid: 4
 
 ---
 
+![](https://publiclab.org/sites/default/files/20121012_232030.jpg)
+
 # Balloon Kit 1.5 changes
 
 by [mathew](../profile/mathew) October 19, 2012 23:52
 
 October 19, 2012 23:52 | Tags: [balloon-mapping](../tag/balloon-mapping), [retail](../tag/retail), [balloon-mapping-kit](../tag/balloon-mapping-kit)
+
+----
 
 As of today, we've changed up the balloon kit parts to address concerns and improvements.  [Its a better kit with more stuff for the same price!](http://breadpig.com/products/balloon-mapping-kit)
 

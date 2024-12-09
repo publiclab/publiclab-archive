@@ -8,11 +8,15 @@ uid: 380298
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/011/263/original/Screen_Shot_2015-08-24_at_12.37.26_AM.png)
+
 # Where We Breathe Website Walkthrough
 
 by [nshapiro](../profile/nshapiro) August 24, 2015 04:48
 
 August 24, 2015 04:48 | Tags: [platform](../tag/platform), [formaldehyde](../tag/formaldehyde), [wherewebreathe](../tag/wherewebreathe), [iaq](../tag/iaq), [indoor-air-quality](../tag/indoor-air-quality), [hcho](../tag/hcho)
+
+----
 
 ###Where We Breathe
 

@@ -8,11 +8,15 @@ uid: 133
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/011/093/original/iFarm2015-621-4_Clipped.jpg)
+
 # Comparing different filters for making NDVI images using the calibration plugin
 
 by [nedhorning](../profile/nedhorning) August 10, 2015 21:30
 
 August 10, 2015 21:30 | Tags: [ndvi-calibrate](../tag/ndvi-calibrate), [midopt](../tag/midopt)
+
+----
 
 This research note compares four different filters using the new calibration capabilities in the photo monitoring plugin: http://publiclab.org/notes/nedhorning/07-22-2015/introducing-the-calibration-plugin-for-imagej-fiji
 

@@ -14,6 +14,8 @@ by [liz](../profile/liz) January 04, 2017 18:32
 
 January 04, 2017 18:32 | Tags: [rice](../tag/rice), [question:question](../tag/question:question), [iodine](../tag/iodine), [starch](../tag/starch)
 
+----
+
 ###What I want to do or know
 
 I was asked by community members **"how can i tell if rice grains are actually rice, or, as sometimes happens in parts of the world with less stringent food inspections, if the bag is full of rice-shaped bits of plastic?"**

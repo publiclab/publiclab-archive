@@ -14,6 +14,8 @@ by [warren](../profile/warren)
 
 March 08, 2012 23:12 | Tags: [community](../tag/community), [organizers](../tag/organizers), [parent:organizers](../tag/parent:organizers)
 
+----
+
 _Jeff: I'm using this page to jot down some ideas for a proposal on an expanded role for the "team" email list_
 
 ###Proposal:###

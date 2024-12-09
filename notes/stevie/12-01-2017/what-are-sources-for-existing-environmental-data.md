@@ -14,6 +14,8 @@ by [stevie](../profile/stevie) December 01, 2017 21:32
 
 December 01, 2017 21:32 | Tags: [epa](../tag/epa), [database](../tag/database), [data](../tag/data), [question:general](../tag/question:general), [government](../tag/government), [existing-data](../tag/existing-data), [echo](../tag/echo)
 
+----
+
 I recently listened to a workshop by EPA on the ECHO database (Enforcement and Compliance History Online). This made me wonder about other existing sources of environmental data. 
 
 - What are sources of existing environmental data?

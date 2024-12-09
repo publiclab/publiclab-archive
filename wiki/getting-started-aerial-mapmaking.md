@@ -14,6 +14,8 @@ by [gonzoearth](../profile/gonzoearth)
 
 May 10, 2011 03:28 | Tags: 
 
+----
+
 <img src="https://www.flickr.com/photos/worldworldworld/5403247042/" alt="" /><strong>
 ##PART I>>> Research; site and situation planning for mapmaking</strong>
 

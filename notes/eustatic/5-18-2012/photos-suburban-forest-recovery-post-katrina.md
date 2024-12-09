@@ -8,11 +8,15 @@ uid: 379
 
 ---
 
+![](https://publiclab.org/sites/default/files/Woodlands Conservancy Map Medium.PNG)
+
 # photos of a (sub)urban forest recovery Post-Katrina 
 
 by [eustatic](../profile/eustatic) May 18, 2012 11:54
 
 May 18, 2012 11:54 | Tags: [gulf-coast](../tag/gulf-coast), [balloon-mapping](../tag/balloon-mapping), [wetlands](../tag/wetlands), [gulf-restoration-network](../tag/gulf-restoration-network), [coastalmonitoring](../tag/coastalmonitoring), [gulfrestorationnetwork](../tag/gulfrestorationnetwork), [lousiana](../tag/lousiana)
+
+----
 
 Sunday we flew to photograph recent efforts to restore Louisiana’s Coastal Forests on the westbank of the Mississippi.  The Bottomland Hardwoods of <a href="http://woodlandtrail.bizland.com/">Woodlands Conservancy</a> are some of the southernmost coastal wetland forests along the mainstem of the Mississippi River—most of the former forested areas have been bulldozed for urban development, destroyed by saltwater from the MRGO, or leveled by Katrina’s awesome winds and surge.  
  

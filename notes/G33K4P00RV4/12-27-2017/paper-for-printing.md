@@ -14,4 +14,6 @@ by [G33K4P00RV4](../profile/G33K4P00RV4) December 27, 2017 13:50
 
 December 27, 2017 13:50 | Tags: [paper](../tag/paper), [answered](../tag/answered), [question:foldable-spec](../tag/question:foldable-spec), [spectrometry-turbidity](../tag/spectrometry-turbidity), [cardstock](../tag/cardstock)
 
+----
+
 Does 65-lb paper not on black work?

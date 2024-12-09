@@ -8,11 +8,15 @@ uid: 540844
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/026/371/original/OI000048_%281%29_%281%29.jpg)
+
 # Show You Can be Free in a Colony
 
 by [joyofsoy](../profile/joyofsoy) August 28, 2018 20:19
 
 August 28, 2018 20:19 | Tags: [barnraising](../tag/barnraising), [puerto-rico](../tag/puerto-rico), [location:blurred](../tag/location:blurred), [crisis-convening](../tag/crisis-convening), [lat:18](../tag/lat:18), [lon:-66](../tag/lon:-66), [csf14](../tag/csf14), [place:puerto-rico](../tag/place:puerto-rico), [series:crisis-convening](../tag/series:crisis-convening), [first-time-poster](../tag/first-time-poster)
+
+----
 
 **_Know the history of the region._** _This is something that community-led crisis responders say to those coming into a region impacted by crisis. But most histories are written by the colonizers, and so the role of educator also falls on the shoulders of those fighting to survive._  
   

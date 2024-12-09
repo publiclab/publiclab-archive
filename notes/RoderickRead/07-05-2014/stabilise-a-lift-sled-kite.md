@@ -8,11 +8,15 @@ uid: 421588
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/005/140/original/stabilised_lifter_arched_power_sled.png)
+
 # stabilise a lift sled kite
 
 by [RoderickRead](../profile/RoderickRead) July 05, 2014 08:46
 
 July 05, 2014 08:46 | Tags: [kite-mapping](../tag/kite-mapping), [photography](../tag/photography), [kite](../tag/kite), [kap](../tag/kap), [mapping](../tag/mapping), [wind](../tag/wind), [energy](../tag/energy), [aerial](../tag/aerial), [airborne](../tag/airborne), [altitude](../tag/altitude)
+
+----
 
 Stabilise sled kites to provide a steady instrumentation lifting platform even in chaotic wind fields
 

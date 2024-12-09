@@ -8,11 +8,15 @@ uid: 4
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/019/362/original/20170109_145812.jpg)
+
 # calibration calculations don't match MiniVol manual
 
 by [mathew](../profile/mathew) January 25, 2017 02:17
 
 January 25, 2017 02:17 | Tags: [calibration](../tag/calibration), [question](../tag/question), [air-quality](../tag/air-quality), [dust](../tag/dust), [silica](../tag/silica), [pm](../tag/pm), [pump](../tag/pump), [mini-buck](../tag/mini-buck), [pm-monitoring](../tag/pm-monitoring), [question:question](../tag/question:question), [dust-sensing](../tag/dust-sensing), [question:pm](../tag/question:pm), [question:minivol](../tag/question:minivol)
+
+----
 
 I'm trying to calibrate a [MiniVol](https://publiclab.org/notes/mathew/01-10-2017/overview-minivol-pm-monitor) air sampler pump with a [minibuck](https://publiclab.org/notes/mathew/06-11-2015/mini-buck-vs-the-bubbles#how+the+Mini-Buck+M-30+works) flow calibrator.
 

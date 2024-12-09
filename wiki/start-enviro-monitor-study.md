@@ -14,6 +14,8 @@ by [bhamster](../profile/bhamster), [liz](../profile/liz), [mathew](../profile/m
 
 January 23, 2016 04:21 | Tags: [research](../tag/research), [research-plan](../tag/research-plan), [needs-revision](../tag/needs-revision), [guidelines](../tag/guidelines), [tool](../tag/tool), [method](../tag/method), [study-design](../tag/study-design), [parent:study-design](../tag/parent:study-design)
 
+----
+
 ## General Guidelines and Best Practices for Starting Your Own Environmental Monitoring Study 
 
 **To ask questions about and browse activities related to #study-design, please visit https://publiclab.org/study-design (the parent of this page), thanks!**

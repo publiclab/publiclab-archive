@@ -8,11 +8,15 @@ uid: 422561
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/019/729/original/kite-mapping-coal-pollution.jpg)
+
 # Public Comment
 
 by [stevie](../profile/stevie), [liz](../profile/liz), [warren](../profile/warren), [sarasage](../profile/sarasage), [eustatic](../profile/eustatic)
 
 August 03, 2016 21:22 | Tags: [organizing](../tag/organizing), [tool](../tag/tool), [methods](../tag/methods), [resource](../tag/resource), [public-comment](../tag/public-comment), [method](../tag/method), [community-organizing](../tag/community-organizing), [prompt:public-comment](../tag/prompt:public-comment)
+
+----
 
 _Information contributed by: Karen Vale (@karenv), Susie Cambria, Scott Eustis (@eustatic), Mathew Lippincott (@mathew), Brian Butler, Liz Barry (@liz), Shaun Goho._
 
@@ -124,7 +128,7 @@ Try to not ask an agency to do something that is outside their purview.  Try to 
 
 ### Questions
 
-[questions:public-comment]
+[public-comment](../../tag/question:public-comment)
 
 ****
 

@@ -8,11 +8,15 @@ uid: 60501
 
 ---
 
+![](https://publiclab.org/sites/default/files/IMG_3410.JPG)
+
 # Kite Mapping Near Pilgrim Power Plant
 
 by [karenv](../profile/karenv) May 01, 2013 17:57
 
 May 01, 2013 17:57 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [boston](../tag/boston), [watchdog](../tag/watchdog), [plymouth](../tag/plymouth), [powerplant](../tag/powerplant), [cape-cod-bay-watch](../tag/cape-cod-bay-watch), [nuclear](../tag/nuclear), [great-photos](../tag/great-photos), [first-time-poster](../tag/first-time-poster)
+
+----
 
 Did some kite mapping near the Pilgrim Nuclear Plant on Sat., 4/27. The goal was to get some good aerial photos of the property. The wind was a little too strong (~5-10 kt) for a balloon, so we went with a kite. We ended up on the northern side of the plant and despite the wind direction not being ideal for our location (it was coming out of the SW), we still managed to get some good, clear pics. 
 

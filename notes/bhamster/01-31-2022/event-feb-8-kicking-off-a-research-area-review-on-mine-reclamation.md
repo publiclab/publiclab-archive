@@ -8,11 +8,15 @@ uid: 664477
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/045/348/original/Frac_sand_mine.jpg)
+
 # EVENT Feb. 8: Kicking off a research area review on mine reclamation
 
 by [bhamster](../profile/bhamster) January 31, 2022 16:28
 
 January 31, 2022 16:28 | Tags: [event](../tag/event), [mining](../tag/mining), [event:rsvp](../tag/event:rsvp), [reviews](../tag/reviews), [research-area-review](../tag/research-area-review), [research-curation-fellows-event](../tag/research-curation-fellows-event), [rsvp:pat](../tag/rsvp:pat), [reclamation](../tag/reclamation), [with:laurel_mire](../tag/with:laurel_mire), [mine-reclamation](../tag/mine-reclamation), [land-rehabilitation](../tag/land-rehabilitation), [rsvp:junior_walk1337](../tag/rsvp:junior_walk1337)
+
+----
 
 _Image: Frac sand mine in Curran Township, Hixton, WI, from [this post](https://publiclab.org/notes/joyofsoy/09-26-2019/reporting-frac-sand-mine-violations-in-wisconsin) by @joyofsoy_
 

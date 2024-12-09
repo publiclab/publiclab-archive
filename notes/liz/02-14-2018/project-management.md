@@ -14,6 +14,8 @@ by [liz](../profile/liz) February 14, 2018 23:27
 
 February 14, 2018 23:27 | Tags: [community](../tag/community), [question:general](../tag/question:general), [question:community](../tag/question:community)
 
+----
+
 In a community where we all help each other, there are teams that work together more closely on particular projects. Some teams are all staff, some teams are staff and community members, some are all community members. Sometimes members of other institutions are collaborating too, adding in new set of norms. 
 
 I'm wondering about project management, and I think i'm noticing two main aspects: 

@@ -8,11 +8,15 @@ uid: 424597
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/035/701/original/00_turbidity_sensor.jpg)
+
 # Testing of DF Robot Turbidity Sensor
 
 by [wmacfarl](../profile/wmacfarl) October 08, 2019 15:48
 
 October 08, 2019 15:48 | Tags: [arduino](../tag/arduino), [sensors](../tag/sensors), [water-quality](../tag/water-quality), [turbidity](../tag/turbidity), [oil-and-gas-water-trio](../tag/oil-and-gas-water-trio), [activity:oil-and-gas-water-trio](../tag/activity:oil-and-gas-water-trio)
+
+----
 
 ## Purpose
 This note is part of a series on setting up, testing, and calibrating the DF Robot analog liquid sensors.

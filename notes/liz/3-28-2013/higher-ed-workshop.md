@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/sites/default/files/tumblr_mcnyy9gWDa1rqyq46o11_1280.jpg)
+
 # Higher E+D workshop
 
 by [liz](../profile/liz) March 28, 2013 14:24
 
 March 28, 2013 14:24 | Tags: [new-york-city](../tag/new-york-city), [ilab](../tag/ilab), [events](../tag/events), [events:new-york-city](../tag/events:new-york-city)
+
+----
 
 <strong>NYC: Saturday April 6, 2-4pm
 

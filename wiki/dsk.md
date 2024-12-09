@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/005/658/original/dsk.jpg)
+
 # Desktop Spectrometry Kit
 
 by [warren](../profile/warren), [MrBumper](../profile/MrBumper), [pablo](../profile/pablo)
 
 December 13, 2012 17:32 | Tags: [spectrometer](../tag/spectrometer), [needs-revision](../tag/needs-revision), [prompt:spectrometry](../tag/prompt:spectrometry), [parent:spectrometer](../tag/parent:spectrometer), [tripod-table-lamp](../tag/tripod-table-lamp)
+
+----
 
 <div class="alert alert-warning">
 <h3 style="color:#333;">New version available</h3>

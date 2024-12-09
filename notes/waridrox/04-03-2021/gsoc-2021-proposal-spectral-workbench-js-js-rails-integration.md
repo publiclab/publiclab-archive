@@ -8,11 +8,15 @@ uid: 745996
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/043/143/original/Picture_1.png)
+
 # GSoC 2021 Proposal: spectral-workbench.js JS/Rails integration
 
 by [waridrox](../profile/waridrox) April 03, 2021 22:44
 
 April 03, 2021 22:44 | Tags: [soc](../tag/soc), [first-time-poster](../tag/first-time-poster), [gsoc-2021](../tag/gsoc-2021), [gsoc-2021-proposals](../tag/gsoc-2021-proposals)
+
+----
 
 # About Me
 

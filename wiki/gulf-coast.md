@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/015/903/original/Come_Map!.JPG)
+
 # Gulf Coast
 
 by [stevie](../profile/stevie), [warren](../profile/warren), [eustatic](../profile/eustatic), [Shannon](../profile/Shannon), [mathew](../profile/mathew), [danbeavers](../profile/danbeavers), [Becki](../profile/Becki), [gonzoearth](../profile/gonzoearth)
 
 December 02, 2010 15:09 | Tags: [gulf-coast](../tag/gulf-coast), [list:plots-gulfcoast](../tag/list:plots-gulfcoast), [events:gulf-coast](../tag/events:gulf-coast), [chapter](../tag/chapter), [tabbed:notes](../tag/tabbed:notes), [tabbed:wikis](../tag/tabbed:wikis), [region](../tag/region), [location:blurred](../tag/location:blurred), [lat:30](../tag/lat:30), [lon:-90](../tag/lon:-90), [place:gulf-coast](../tag/place:gulf-coast)
+
+----
 
 ###Welcome to The Public Lab Gulf Coast Page
 

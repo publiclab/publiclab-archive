@@ -8,11 +8,15 @@ uid: 43651
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/012/035/original/monitoringPic.png)
+
 # Monongahela Monitoring Marathon - Part I
 
 by [donblair](../profile/donblair) October 19, 2015 19:11
 
 October 19, 2015 19:11 | Tags: [riffle](../tag/riffle), [riffle-examples](../tag/riffle-examples)
+
+----
 
 Hello again!
 

@@ -8,11 +8,15 @@ uid: 432132
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/011/544/original/immagine_profilo.jpg)
+
 # NDVI MAPS for Precision Farming
 
 by [Monoxyde](../profile/Monoxyde) September 11, 2015 18:27
 
 September 11, 2015 18:27 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [imagej](../tag/imagej), [infrared-conversion](../tag/infrared-conversion)
+
+----
 
 ###What I want to do
 **I want to get Aereal (UAV) prescription maps for precision farming**

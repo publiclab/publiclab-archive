@@ -8,11 +8,15 @@ uid: 428092
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/007/268/original/Screen_shot_2014-10-01_at_2.14.27_PM.png)
+
 # Charles River and Brighton Reservoir Water Samples 
 
 by [cjedra](../profile/cjedra) October 01, 2014 18:09
 
 October 01, 2014 18:09 | Tags: [first-time-poster](../tag/first-time-poster)
+
+----
 
 Tatiana Ochoa and Christina Jedra conducted water sample tests on samples from the Charles River (near Harvard and Kendall) and from the Reservoir in Brighton. See their sample information [HERE](http://publiclab.org/notes/tati/09-29-2014/water-samples-for-dataviz). 
 

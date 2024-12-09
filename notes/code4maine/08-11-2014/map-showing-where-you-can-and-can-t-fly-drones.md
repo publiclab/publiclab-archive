@@ -8,11 +8,15 @@ uid: 294634
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/006/207/original/DroneMap.png)
+
 # Map showing where you can and can't fly drones
 
 by [ajawitz](../profile/ajawitz) August 11, 2014 13:56
 
 August 11, 2014 13:56 | Tags: [faa](../tag/faa), [regulations](../tag/regulations), [mapbox](../tag/mapbox)
+
+----
 
 The following map can be found at https://www.mapbox.com/drone/no-fly/ and additional data can be added via its Github page-
 https://github.com/mapbox/drone-feedback.  This has already proven useful for my own projects as I my own project area is heavily restricted.  Does anybody know if the same restrictions apply to KAP or Balloon Mapping?

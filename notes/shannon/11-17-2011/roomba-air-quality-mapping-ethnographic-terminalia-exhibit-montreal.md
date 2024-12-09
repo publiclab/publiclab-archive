@@ -8,10 +8,14 @@ uid: 9
 
 ---
 
+![](https://publiclab.org/sites/default/files/ethnographic-terminalia-2.jpg)
+
 # Roomba air quality mapping at Ethnographic Terminalia exhibit in Montreal
 
 by [Shannon](../profile/Shannon) November 17, 2011 21:27
 
 November 17, 2011 21:27 | Tags: 
+
+----
 
 http://ethnographicterminalia.org/

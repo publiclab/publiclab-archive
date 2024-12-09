@@ -8,11 +8,15 @@ uid: 505614
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/020/141/original/refraction-150853_1280.png)
+
 # DIY spectrophotometer?
 
 by [Mekis](../profile/Mekis) April 16, 2017 10:54
 
 April 16, 2017 10:54 | Tags: [spectrometer](../tag/spectrometer), [spectrophotometer](../tag/spectrophotometer), [diy](../tag/diy), [lens](../tag/lens), [detector](../tag/detector), [absorbance](../tag/absorbance), [diopter](../tag/diopter), [focal](../tag/focal)
+
+----
 
 Trying to build my own spectrophotometer by hand, and now I have two questions about it:
 

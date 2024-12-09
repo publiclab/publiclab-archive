@@ -8,11 +8,15 @@ uid: 461206
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/023/496/original/IMG_8367.jpg)
+
 # USB bare wire power cable
 
 by [MadTinker](../profile/MadTinker) February 08, 2018 00:36
 
 February 08, 2018 00:36 | Tags: [arduino](../tag/arduino), [battery](../tag/battery), [power](../tag/power), [activity:arduino](../tag/activity:arduino), [usb](../tag/usb)
+
+----
 
 This is a simple step-by-step guide to making a USB bare wire power cord to be used in various Arduino projects. I needed it for a water quality sampling project I'm working on and I thought it might be of general interest.
 

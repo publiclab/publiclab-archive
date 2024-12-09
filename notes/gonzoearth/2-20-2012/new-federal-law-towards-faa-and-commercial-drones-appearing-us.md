@@ -14,4 +14,6 @@ by [gonzoearth](../profile/gonzoearth) February 20, 2012 18:01
 
 February 20, 2012 18:01 | Tags: 
 
+----
+
 <a href="http://slashgeo.org/2012/02/20/Commercial-Drones-Taking-Skies-US">http://slashgeo.org/2012/02/20/Commercial-Drones-Taking-Skies-US</a> <br><br>

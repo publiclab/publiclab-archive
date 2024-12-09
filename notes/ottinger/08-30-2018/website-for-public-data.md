@@ -14,6 +14,8 @@ by [ottinger](../profile/ottinger) August 30, 2018 02:33
 
 August 30, 2018 02:33 | Tags: [archive](../tag/archive), [california](../tag/california), [photo-monitoring](../tag/photo-monitoring), [database](../tag/database), [air-quality](../tag/air-quality), [monitoring](../tag/monitoring), [barnstar:basic](../tag/barnstar:basic), [odor](../tag/odor), [location:blurred](../tag/location:blurred), [smell](../tag/smell), [purpleair](../tag/purpleair), [lat:37](../tag/lat:37), [chevron](../tag/chevron), [bay-area](../tag/bay-area), [lon:-122](../tag/lon:-122), [place:richmond-ca](../tag/place:richmond-ca), [phillips66](../tag/phillips66), [rodeo-ca](../tag/rodeo-ca), [richmond-ca](../tag/richmond-ca), [fenceline](../tag/fenceline)
 
+----
+
 We created [AirWatchBayArea.org](http://airwatchbayarea.org) to give residents of Richmond, CA, and Rodeo, CA, better access to data from fenceline monitors at neighboring oil refineries (Chevron and Phillips 66, respectively).  The site expanded to include data from PurpleAir and other citizen-run sensors, smell reports, and user-contributed photos.  
 
   

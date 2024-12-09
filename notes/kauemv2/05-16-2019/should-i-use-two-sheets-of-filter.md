@@ -14,6 +14,8 @@ by [kauemv2](../profile/kauemv2) May 16, 2019 20:17
 
 May 16, 2019 20:17 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [infrared](../tag/infrared), [infragram](../tag/infragram), [infragram-sandbox](../tag/infragram-sandbox), [question:infragram](../tag/question:infragram), [question:filter-pack](../tag/question:filter-pack), [first-time-poster](../tag/first-time-poster), [infragram-pi](../tag/infragram-pi)
 
+----
+
 Hello, i'm a brazilian student from UFPR university, i am new to the community but very enthusiast of NDVI imaging.
 
   

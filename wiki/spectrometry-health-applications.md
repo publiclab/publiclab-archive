@@ -14,6 +14,8 @@ by [warren](../profile/warren), [Charles_Hamilton](../profile/Charles_Hamilton)
 
 May 31, 2013 16:31 | Tags: [spectrometer](../tag/spectrometer), [health](../tag/health), [mhealth](../tag/mhealth)
 
+----
+
 Charles Hamilton, Amir Bernat, and [Jeff Warren](/profile/warren) are co-authoring a piece on the potential and challenges of handheld and/or wearable, low-cost spectrometry for mobile health applications. We were hoping people had some ideas and even links to papers or articles suggesting different such uses.
 
 Our plan is to survey the ideas out there, and highlight both the potential to achieve them with a low-cost device like ours, as well as outline the difficulties and challenges such a device needs to overcome to be useful for such analysis. In some or even many cases, we expect to say "well, this would take quite a bit more work, or a totally different design". 

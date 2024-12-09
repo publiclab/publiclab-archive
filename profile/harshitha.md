@@ -3,6 +3,8 @@ uid: 654540
 created_at: 2020-01-16 05:28:24 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/9ac55a3c71583e13b2bfae5c38fe5a7f)
+
 # harshitha
 
 Undergraduate student working on NDVI 

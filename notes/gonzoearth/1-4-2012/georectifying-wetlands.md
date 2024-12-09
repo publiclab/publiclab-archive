@@ -8,11 +8,15 @@ uid: 12
 
 ---
 
+![](https://publiclab.org/sites/default/files/Capture_40.JPG)
+
 # Georectifying in the Wetlands
 
 by [gonzoearth](../profile/gonzoearth) January 04, 2012 23:25
 
 January 04, 2012 23:25 | Tags: [wetlands](../tag/wetlands), [idealab](../tag/idealab), [barataria](../tag/barataria), [rectifying](../tag/rectifying), [lat:29.476067](../tag/lat:29.476067), [lon:-89.921722](../tag/lon:-89.921722), [place:wilkinson-bay-louisiana-usa](../tag/place:wilkinson-bay-louisiana-usa)
+
+----
 
 > cross-posted from [PBS's IdeaLab](http://www.pbs.org/idealab/2012/01/public-lab-produces-wetlands-maps-from-balloon-and-kite-flights357.html). Making maps from balloon and kite flights in the dynamic coastal wetlands areas.
 

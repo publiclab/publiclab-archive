@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/sites/default/files/Anthony_OpenPlans_JavierDeLaTorre.jpg)
+
 # multiple tethers on balloon
 
 by [liz](../profile/liz) April 27, 2012 17:43
 
 April 27, 2012 17:43 | Tags: [balloon-mapping](../tag/balloon-mapping), [multiple-tethers](../tag/multiple-tethers), [flying](../tag/flying)
+
+----
 
 Image Caption: Anthony of Open Plans holding one of two tethers to the first ever Public Laboratory balloon rig flown from a skyscraper rooftop. Photo Credit: <a href="https://www.flickr.com/photos/jatorre/sets/72157629901212917/with/6968275718/">Javier do la Torre</a>. 
 

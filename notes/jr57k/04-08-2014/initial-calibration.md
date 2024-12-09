@@ -14,6 +14,8 @@ by [jr57k](../profile/jr57k) April 08, 2014 00:44
 
 April 08, 2014 00:44 | Tags: 
 
+----
+
 I started build and calibration today
 
 I had difficulty in that all my images were flipped (corrected by SW automagically).  I also noticed that IR LEDs weren't in the non-visible range as expected (calibration error)

@@ -14,6 +14,8 @@ by [walkerjeffd](../profile/walkerjeffd) August 11, 2014 18:17
 
 August 11, 2014 18:17 | Tags: [riffle](../tag/riffle), [barnstar:empiricism](../tag/barnstar:empiricism), [riffle-examples](../tag/riffle-examples), [first-time-poster](../tag/first-time-poster)
 
+----
+
 ###What I want to do
 This note serves two purposes. 
 

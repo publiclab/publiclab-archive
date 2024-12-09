@@ -8,11 +8,15 @@ uid: 555727
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/027/499/original/stats_cover.jpg)
+
 # [Outreachy Proposal] Expanding Community Stats System
 
 by [chauhan_shubhangi96](../profile/chauhan_shubhangi96) November 06, 2018 15:48
 
 November 06, 2018 15:48 | Tags: [blog-submission](../tag/blog-submission), [outreachy](../tag/outreachy), [outreachy-2018](../tag/outreachy-2018), [outreachy-2018-proposals](../tag/outreachy-2018-proposals), [first-time-poster](../tag/first-time-poster)
+
+----
 
 ## About Me
 

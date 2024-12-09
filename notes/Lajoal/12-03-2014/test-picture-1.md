@@ -8,11 +8,15 @@ uid: 432272
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/008/230/original/CAM00378.jpg)
+
 # test picture 1 
 
 by [Lajoal](../profile/Lajoal) December 03, 2014 13:28
 
 December 03, 2014 13:28 | Tags: 
+
+----
 
 ###What I want to do
 

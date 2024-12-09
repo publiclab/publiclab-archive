@@ -8,11 +8,15 @@ uid: 217812
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/031/762/original/Screen_Shot_2019-04-29_at_8.24.07_PM.png)
+
 # PART II: How to create a relational diagram of the Public Lab database.
 
 by [bsugar](../profile/bsugar) April 29, 2019 22:59
 
 April 29, 2019 22:59 | Tags: [database](../tag/database), [networks](../tag/networks), [activity:new](../tag/activity:new), [diagrams](../tag/diagrams)
+
+----
 
 # Introduction
 

@@ -8,11 +8,15 @@ uid: 501996
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/025/237/original/spectral_starcase_-_Copy.jpg)
+
 # How can you use  computer vision to reduce spectral overlap? 
 
 by [MaggPi](../profile/MaggPi) June 17, 2018 19:34
 
 June 17, 2018 19:34 | Tags: [spectrometer](../tag/spectrometer), [raspberry-pi](../tag/raspberry-pi), [spectral-analysis](../tag/spectral-analysis), [pi-camera](../tag/pi-camera), [gsoc-2018](../tag/gsoc-2018), [soc-2018](../tag/soc-2018), [spectral-staircase](../tag/spectral-staircase), [noir](../tag/noir)
+
+----
 
 Research question: Can  image processing /computer vision be used to increase the free spectral range (or reduce spectral overlap) of spectrometer designs? 
 

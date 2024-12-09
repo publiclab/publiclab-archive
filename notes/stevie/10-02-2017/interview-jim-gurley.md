@@ -8,11 +8,15 @@ uid: 422561
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/021/826/original/19sand0930.jpg)
+
 # Interview: Jim Gurley
 
 by [stevie](../profile/stevie) October 02, 2017 14:24
 
 October 02, 2017 14:24 | Tags: [interview](../tag/interview), [blog](../tag/blog), [silica](../tag/silica), [frac-sand](../tag/frac-sand), [midwest](../tag/midwest), [grassroots](../tag/grassroots), [mid-west](../tag/mid-west), [fracsand](../tag/fracsand), [parent:frac-sand](../tag/parent:frac-sand), [community-organizing](../tag/community-organizing), [story:frac-sand](../tag/story:frac-sand), [interview-series](../tag/interview-series), [series:community-interviews](../tag/series:community-interviews)
+
+----
 
 _Lead image from the [StarTribune][1], photo credit Brian Peterson. An uncovered frack-sand stockpile (“Mount Frack”) in downtown Winona, 2013. In the background is the historic Winona County Courthouse. (After large demonstrations and direct action at Winona’s City Hall, the city finally reacted to the citizen’s demands and required the carcinogenic frack sand to be removed.)_
 

@@ -3,6 +3,8 @@ uid: 739523
 created_at: 2021-02-13 23:23:39 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/b54fe32cb192593c9ea9f6215da66495)
+
 # mamartynyshyn
 
 

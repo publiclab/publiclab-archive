@@ -8,11 +8,15 @@ uid: 426547
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/011/522/original/maedagua_prot001.png)
+
 # Mãe d'Água - protótipo v0.1
 
 by [GSan](../profile/GSan) September 10, 2015 03:08
 
 September 10, 2015 03:08 | Tags: [water-quality](../tag/water-quality), [brasil](../tag/brasil), [redeinfoamazonia](../tag/redeinfoamazonia), [maedagua](../tag/maedagua), [lang:pt](../tag/lang:pt)
+
+----
 
 ###Related project / Projeto relacionado 
 http://publiclab.org/wiki/mae-d-agua-rede-infoamazonia

@@ -14,4 +14,6 @@ by [Shannon](../profile/Shannon) April 18, 2012 23:34
 
 April 18, 2012 23:34 | Tags: 
 
+----
+
 <a href="http://www.huffingtonpost.com/2012/04/18/epa-fracking-regulations-obama_n_1434524.html?ncid=edlinkusaolp00000003">http://www.huffingtonpost.com/2012/04/18/epa-fracking-regulations-obama_n_1434524.html?ncid=edlinkusaolp00000003</a>

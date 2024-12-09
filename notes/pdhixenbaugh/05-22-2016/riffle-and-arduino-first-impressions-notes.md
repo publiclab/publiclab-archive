@@ -8,11 +8,15 @@ uid: 459085
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/016/255/original/blinkRiffleMod___Arduino_2_1.0.5_dfsg2-4_011.png)
+
 # Riffle (and Arduino) first impressions - notes
 
 by [pdhixenbaugh](../profile/pdhixenbaugh) May 22, 2016 19:34
 
 May 22, 2016 19:34 | Tags: [documentation](../tag/documentation), [github](../tag/github), [draft](../tag/draft), [riffle-beta](../tag/riffle-beta), [first-time-poster](../tag/first-time-poster)
+
+----
 
 ###What I want to do
 

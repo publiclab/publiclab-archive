@@ -3,6 +3,8 @@ uid: 523668
 created_at: 2018-01-26 21:36:27 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/82ef79dbcec4d6ae4ba0930cdb9f28c2)
+
 # sjmanosalvas
 
 Mi nombre es Sebastián, soy estudiante de Ing. Electrónica y Telecomunicaciones.

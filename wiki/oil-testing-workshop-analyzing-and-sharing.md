@@ -14,6 +14,8 @@ by [warren](../profile/warren), [liz](../profile/liz)
 
 February 08, 2016 20:43 | Tags: [spectrometer](../tag/spectrometer), [workshop](../tag/workshop), [oil-testing-kit](../tag/oil-testing-kit), [parent:oil-testing-workshops](../tag/parent:oil-testing-workshops)
 
+----
+
 _Drafted by Gretchen Gehrke, Stevie Lewis, Liz Barry._
 
 **Why (the Situation):** We want to understand the graphs we created in Workshop 3. We want to know what are appropriate conclusions to draw from spectral information of oil. We want to clearly present and properly contextualize our conclusions. We want to share back to the community (Public Lab!) who created this workflow in order to improve it for everyone’s use in more effectively fighting petrochemical pollution.

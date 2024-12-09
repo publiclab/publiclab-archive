@@ -8,11 +8,15 @@ uid: 459085
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/018/389/original/organizing_riffle.png)
+
 # Organizing the Riffle Area
 
 by [pdhixenbaugh](../profile/pdhixenbaugh) October 13, 2016 01:30
 
 October 13, 2016 01:30 | Tags: [website](../tag/website), [riffle](../tag/riffle), [riffle-meta](../tag/riffle-meta)
+
+----
 
 ###Context
 @lizbarry and @donblair expressed interest in reorganizing the Riffle area. This is one outline for why and how that might be done. The more people that add their thoughts, the better! I'd also like to connect with people working in other areas of Public lab.

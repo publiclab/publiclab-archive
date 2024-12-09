@@ -8,11 +8,15 @@ uid: 422561
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/020/733/original/2013-06-24_17_39_11_A_4-inch_plastic_rain_gauge_typical_of_those_used_by_the_CoCoRaHS_program.jpg)
+
 # Measuring water in a rain gauge 
 
 by [stevie](../profile/stevie) June 08, 2017 15:49
 
 June 08, 2017 15:49 | Tags: [activity](../tag/activity), [stormwater](../tag/stormwater), [weather](../tag/weather), [activity:stormwater](../tag/activity:stormwater), [raingauge](../tag/raingauge), [rain](../tag/rain), [activity:weather](../tag/activity:weather), [activity:raingauge](../tag/activity:raingauge), [rain-gauge](../tag/rain-gauge)
+
+----
 
 _Lead image from [commons.wikimedia.org][1]_
 

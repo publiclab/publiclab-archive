@@ -8,11 +8,15 @@ uid: 503143
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/019/596/original/carScale.png)
+
 # Testing - water depth from camera image
 
 by [chalmers](../profile/chalmers) February 19, 2017 18:42
 
 February 19, 2017 18:42 | Tags: [stormwater](../tag/stormwater), [seeks:replications](../tag/seeks:replications), [activity:timelapse](../tag/activity:timelapse), [activity:stormwater](../tag/activity:stormwater), [activity:site-survey](../tag/activity:site-survey)
+
+----
 
 Introduction summary:
 

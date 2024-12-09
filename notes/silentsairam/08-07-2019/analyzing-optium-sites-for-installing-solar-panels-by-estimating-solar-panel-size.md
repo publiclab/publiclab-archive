@@ -14,6 +14,8 @@ by [silentsairam](../profile/silentsairam) August 07, 2019 17:59
 
 August 07, 2019 17:59 | Tags: [energy](../tag/energy), [climate](../tag/climate), [solar](../tag/solar), [ballon-mapping](../tag/ballon-mapping), [lat:10.758918](../tag/lat:10.758918), [lon:78.813218](../tag/lon:78.813218)
 
+----
+
 We all are aware that Solar energy is an important and easily available form of energy that can be stored and used in our daily life for various electrical and electronic devices to power it ON.
 
 #### Real questions we do have would be,

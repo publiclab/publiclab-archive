@@ -14,6 +14,8 @@ by [bhamster](../profile/bhamster)
 
 March 23, 2021 16:49 | Tags: 
 
+----
+
 **The soil testing methods listed on this page use different approaches to screen for contaminants**. In general, the data these methods produce are less accurate and precise than certified lab-based methods, but the methods are **more accessible in terms of materials, cost, and logistics**. Many screening methods are available as kits or portable units that can be used quickly in the field. 
 
 
@@ -21,7 +23,7 @@ March 23, 2021 16:49 | Tags:
 
 #### Overviews on Public Lab
 
-[notes:grid:screen-soil]
+[grid:screen-soil](../../tag/grid:screen-soil)
 
 <br>
 
@@ -99,7 +101,7 @@ Methods related to `effect-based-test` will appear here
 
 Questions tagged with `question:screen-soil-contamination` will appear here
 
-[questions:screen-soil-contamination]
+[screen-soil-contamination](../../tag/question:screen-soil-contamination)
 
 <br>
 
@@ -107,5 +109,5 @@ Questions tagged with `question:screen-soil-contamination` will appear here
 
 Activities tagged with `activity:screen-soil-contamination` will appear here
 
-[activities:screen-soil-contamination]
+[screen-soil-contamination](../../tag/activity:screen-soil-contamination)
 

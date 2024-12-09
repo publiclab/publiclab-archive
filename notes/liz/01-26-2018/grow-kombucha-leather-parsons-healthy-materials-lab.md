@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/023/354/original/Screen_Shot_2018-01-26_at_4.42.13_PM.png)
+
 # Grow kombucha leather (Parsons Healthy Materials Lab)
 
 by [liz](../profile/liz) January 26, 2018 21:47
 
 January 26, 2018 21:47 | Tags: [seeks:replications](../tag/seeks:replications), [kombucha-leather](../tag/kombucha-leather), [activity:kombucha-leather](../tag/activity:kombucha-leather)
+
+----
 
 [The Parsons Healthy Materials Lab][1] created this clearly illustrated, double-sided sheet of materials and instructions. Consider laminating it: 
 

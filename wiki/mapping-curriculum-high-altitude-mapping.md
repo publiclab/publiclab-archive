@@ -8,11 +8,15 @@ uid: 12
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/003/441/original/5339315847_ca732836f9_o.jpg)
+
 # Mapping Curriculum: High Altitude Mapping
 
 by [gonzoearth](../profile/gonzoearth)
 
 March 28, 2014 21:56 | Tags: [balloon-mapping](../tag/balloon-mapping), [curriculum](../tag/curriculum), [map-curriculum](../tag/map-curriculum), [parent:mapping-curriculum](../tag/parent:mapping-curriculum), [mapping-curriculum](../tag/mapping-curriculum)
+
+----
 
 Sometimes the goal is to map a larger extent of a given area due to various situations such as: 
 

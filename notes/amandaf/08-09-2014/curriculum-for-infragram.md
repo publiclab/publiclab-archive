@@ -8,11 +8,15 @@ uid: 426589
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/006/156/original/Rosco_19_NDVI.jpg)
+
 # Curriculum for Infragram
 
 by [amandaf](../profile/amandaf) August 09, 2014 00:27
 
 August 09, 2014 00:27 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [curriculum](../tag/curriculum), [near-infrared](../tag/near-infrared), [raspberry-pi](../tag/raspberry-pi), [near-ir](../tag/near-ir), [infragram](../tag/infragram), [rpi](../tag/rpi), [with:mathew](../tag/with:mathew), [first-time-poster](../tag/first-time-poster)
+
+----
 
 ###What we want to do
 Create four lesson plans for middle and high school teachers to introduce IR photography, Infragram Sandbox, and environmental monitoring.  Please check out [lesson 1 and 2 in the wiki](/wiki/infragram-curriculum)

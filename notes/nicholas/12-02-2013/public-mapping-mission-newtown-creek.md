@@ -8,11 +8,15 @@ uid: 53894
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/002/351/original/publicMapping_Final.png)
+
 # Public Mapping Mission - Newtown Creek
 
 by [nicholas](../profile/nicholas) December 02, 2013 16:53
 
 December 02, 2013 16:53 | Tags: [new-york-city](../tag/new-york-city), [education](../tag/education), [newtown-creek](../tag/newtown-creek), [event](../tag/event), [events:new-york-city](../tag/events:new-york-city), [blog](../tag/blog), [nyu](../tag/nyu), [replication:14022](../tag/replication:14022), [media-lab](../tag/media-lab), [govlab](../tag/govlab), [cusp](../tag/cusp)
+
+----
 
 ###The Mapping Event
 Part two of the Public Mapping Mission was a combination online/offline course and a collaboration between the Public Lab, GovLab Academy, the Center for Urban Science and Progress and the MIT Media Lab. The second part of the course was a public event in which participants mapped Newtown Creek on December 7th.  This is their story... 

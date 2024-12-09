@@ -8,11 +8,15 @@ uid: 3
 
 ---
 
+![](https://publiclab.org/sites/default/files/overview_0.JPG)
+
 # PBS Idea Lab Post: Field Trips
 
 by [adam-griffith](../profile/adam-griffith) April 01, 2013 00:50
 
 April 01, 2013 00:50 | Tags: [balloon-mapping](../tag/balloon-mapping), [education](../tag/education), [idealab](../tag/idealab), [pbs](../tag/pbs), [field-trip](../tag/field-trip)
+
+----
 
 This blog post appeared on 15 MAR 2013 on the Media Shift Idea Lab website: http://www.pbs.org/idealab/2013/03/how-public-lab-creates-memorable-field-trips-for-students072.html
 

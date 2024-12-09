@@ -8,11 +8,15 @@ uid: 553044
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/037/464/original/I2.jpg)
+
 # Sensoring Citizenship 
 
 by [silentsairam](../profile/silentsairam) January 07, 2020 09:48
 
 January 07, 2020 09:48 | Tags: [air](../tag/air), [simple](../tag/simple), [pollution](../tag/pollution), [sensor](../tag/sensor), [air-sensing](../tag/air-sensing), [plantower](../tag/plantower), [purple-air](../tag/purple-air), [simple-air-sensor](../tag/simple-air-sensor), [activity:air-sensing](../tag/activity:air-sensing), [activity:plantower](../tag/activity:plantower), [airsense](../tag/airsense), [lat:10.765577](../tag/lat:10.765577), [lon:78.805975](../tag/lon:78.805975)
+
+----
 
 This article enlightens on How Sensor Technology helps citizens to Solve Local Issues. Here we take a DIY (Air Quality Monitoring device) as a Case study.
 

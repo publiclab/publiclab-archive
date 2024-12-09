@@ -14,6 +14,8 @@ by [sara](../profile/sara) September 11, 2011 20:41
 
 September 11, 2011 20:41 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s), [silver](../tag/silver), [chlorene](../tag/chlorene)
 
+----
+
 http://www.finishing.com/204/32.shtml
 
 Research question can we use silver tarnishing as a proxy for hydrogen sulfide monitoring?

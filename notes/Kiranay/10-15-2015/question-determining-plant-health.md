@@ -8,11 +8,15 @@ uid: 454266
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/011/956/original/frame013.jpg)
+
 # Question: Determining Plant-Health
 
 by [kiranay](../profile/kiranay) October 15, 2015 11:12
 
 October 15, 2015 11:12 | Tags: [question:plant-health](../tag/question:plant-health)
+
+----
 
 ###What I want to do or know
 I want to know how i am able to find the health of the plant with using raspberry pi and it PI-NOIR camera. I have attached the image i have taken with the PI-NOIR camera. I am facing difficulty in determining the health condition. I cannot find the better software for it. Can you help me with it?

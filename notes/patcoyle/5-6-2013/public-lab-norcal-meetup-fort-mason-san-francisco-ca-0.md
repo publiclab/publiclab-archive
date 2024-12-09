@@ -8,11 +8,15 @@ uid: 77
 
 ---
 
+![](https://publiclab.org/sites/default/files/P1070627.JPG)
+
 # Public Lab NorCal Meetup Fort Mason San Francisco CA
 
 by [patcoyle](../profile/patcoyle) May 07, 2013 01:22
 
 May 07, 2013 01:22 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [ndvi](../tag/ndvi), [dual-camera](../tag/dual-camera), [uav](../tag/uav), [kap](../tag/kap), [norcal](../tag/norcal), [event](../tag/event), [replication:14022](../tag/replication:14022)
+
+----
 
 Stewart Long suggested we meet in the parking lot in front of the hostel at Fort Mason as we did last time, 37.805285 -122.427918  MacArthur Ave, Golden Gate National Recreation Area, San Francisco, CA 94109.
 

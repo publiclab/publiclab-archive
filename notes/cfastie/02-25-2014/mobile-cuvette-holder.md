@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/003/022/original/SNOWFEST-339-26a.jpg)
+
 # Mobile cuvette holder
 
 by [cfastie](../profile/cfastie) February 25, 2014 18:27
 
 February 25, 2014 18:27 | Tags: [spectrometer](../tag/spectrometer), [vermont](../tag/vermont), [cuvettes](../tag/cuvettes), [3d-printing](../tag/3d-printing), [sampling](../tag/sampling), [oil-sampling-kit](../tag/oil-sampling-kit), [smartphone](../tag/smartphone), [snowfest2014](../tag/snowfest2014), [activity:spectrometry-sampling](../tag/activity:spectrometry-sampling)
+
+----
 
 At SNOWFEST we made great progress on the smartphone spectrometer cuvette holder thanks to Jeff's Sketchup skills. Jeff started from scratch and created a working design which we printed on the Public Lab MakerBot Replicator 1 stationed at SNOWFEST HQ. 
 

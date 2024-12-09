@@ -14,6 +14,8 @@ by [Shannon](../profile/Shannon) December 12, 2012 17:47
 
 December 12, 2012 17:47 | Tags: [spectrometer](../tag/spectrometer), [fold-up-mini-spectrometer](../tag/fold-up-mini-spectrometer)
 
+----
+
 We asked each of the Kickstarter backer levels what they plan to do once they receive their spectrometer. Mini-foldable spectrometers that can attach to your smartphone are shipping this week and here's some of the ideas that people listed from the $10 backer tier. 
 
 Responses from other backer levels:

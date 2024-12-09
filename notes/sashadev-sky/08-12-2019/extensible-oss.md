@@ -8,11 +8,15 @@ uid: 555321
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/034/513/original/Screen_Shot_2019-08-12_at_6.56.14_PM.png)
+
 # Extensible OSS
 
 by [sashadev-sky](../profile/sashadev-sky) August 12, 2019 20:19
 
 August 12, 2019 20:19 | Tags: [software](../tag/software), [development](../tag/development)
+
+----
 
 Leaflet brands itself as an extensible library; it has readable source code, thorough documentation, and a large plugin ecosystem. "Extensible" was just another adjective to me before I started working on Leaflet.DistortableImage (LDI). Now its synonymous to an invitation to build things outside of the box.
 

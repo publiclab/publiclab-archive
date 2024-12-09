@@ -8,10 +8,14 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/sites/default/files/8 - Air Quality Egg 2.0.jpg)
+
 # Ideas for Air Quality Egg 2.0
 
 by [liz](../profile/liz) March 19, 2013 17:52
 
 March 19, 2013 17:52 | Tags: [new-york-city](../tag/new-york-city), [chaq](../tag/chaq), [air-quality](../tag/air-quality), [air-quality-egg](../tag/air-quality-egg)
+
+----
 
 student idea for improved Air Quality Egg with weather display

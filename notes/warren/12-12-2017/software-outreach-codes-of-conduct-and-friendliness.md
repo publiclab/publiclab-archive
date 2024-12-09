@@ -14,6 +14,8 @@ by [warren](../profile/warren) December 12, 2017 23:17
 
 December 12, 2017 23:17 | Tags: [community](../tag/community), [outreach](../tag/outreach), [organizing](../tag/organizing), [wwg](../tag/wwg), [conduct](../tag/conduct), [software-outreach](../tag/software-outreach), [code-of-conduct](../tag/code-of-conduct), [series:software-outreach](../tag/series:software-outreach), [friendliness](../tag/friendliness), [welcoming](../tag/welcoming), [codes-of-conduct](../tag/codes-of-conduct)
 
+----
+
 This is part 2 in our [Software Outreach series](/wiki/software-outreach) -- and I wanted to note that a lot of things we're doing in software contributor outreach at Public Lab also apply to outreach more broadly across Public Lab.  
 
 ## Totally not obvious

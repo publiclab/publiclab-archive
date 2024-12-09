@@ -8,11 +8,15 @@ uid: 4
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/006/611/original/Screen_Shot_2014-09-04_at_6.59.47_PM.png)
+
 # Using Gelatin Caps for oil fluorescence
 
 by [mathew](../profile/mathew) September 05, 2014 02:00
 
 September 05, 2014 02:00 | Tags: [spectrometer](../tag/spectrometer), [oil](../tag/oil), [fluorescence](../tag/fluorescence), [cuvette](../tag/cuvette), [oil-testing-kit](../tag/oil-testing-kit), [brightness](../tag/brightness), [foil](../tag/foil), [reflector](../tag/reflector)
+
+----
 
 ###What I want to do
 see if we use gelatin caps as sample containers.  They cost a few cents each, 100 for $5 at my local pharmacy.  I picked up 25 each of sizes 4-00.

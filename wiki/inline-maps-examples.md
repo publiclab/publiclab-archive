@@ -14,6 +14,8 @@ by [warren](../profile/warren)
 
 March 03, 2020 18:00 | Tags: [parent:inline-maps](../tag/parent:inline-maps), [inline-maps](../tag/inline-maps)
 
+----
+
 This page demonstrates how to use an embedded iframe to do more customized interactive maps, if the [inline maps](/inline-maps) system does not provide enough customizability. 
 
 The following is a map embedded using an `<iframe>` in HTML (actually [this page](https://github.com/publiclab/leaflet-environmental-layers/blob/master/example/unearthing-pvd.html)), followed by a `<script>` tag which affects the rendered map (in this case, simply to make it full-width on the page). 

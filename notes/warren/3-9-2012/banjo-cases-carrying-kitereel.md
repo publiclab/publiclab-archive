@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/800px-thompson_in_violin_case.jpg)
+
 # Banjo cases for carrying kite/reel
 
 by [warren](../profile/warren) March 09, 2012 17:53
 
 March 09, 2012 17:53 | Tags: [kite-mapping](../tag/kite-mapping)
+
+----
 
 I had a funny thought today; I have a lot of trouble carrying big kites around (though Pat Coyle's ferrule-equipped kit allows breaking down big kites into shorter packages)
 

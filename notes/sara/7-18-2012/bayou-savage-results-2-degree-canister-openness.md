@@ -8,11 +8,15 @@ uid: 8
 
 ---
 
+![](https://publiclab.org/sites/default/files/BSresultsbyopenness.JPG)
+
 # Bayou Savage Results 2: degree of canister openness
 
 by [sara](../profile/sara) July 18, 2012 22:55
 
 July 18, 2012 22:55 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s), [h2s-photopaper](../tag/h2s-photopaper)
+
+----
 
 Scott made a set of predictions about the impact of openness of the canisters on results from the test strips:
 

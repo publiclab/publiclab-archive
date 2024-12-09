@@ -14,6 +14,8 @@ by [Shannon](../profile/Shannon) July 13, 2012 15:22
 
 July 13, 2012 15:22 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
 
+----
+
 Friggatriskaidekaphobia is a wonderfully complicated word that simply means fear of Friday the 13th... but I doubt anyone will be fearful of today in the Public Lab community when it brings news of some great accomplishments over the last week! In this issue, read about creating a large-scale map project, work that is being done in the Alaskan Tundra, and a number of research notes dealing with hydrogen sulfide photostrip testing and aerial mapping.
 
 1. Inside a 100+ image map project. Stewart Long wrote up a note on a large scale project that he completed ([check out the incredible map!](http://publiclaboratory.org/map/big-branch-lacombe-louisiana/2012-05-14)), stitching together over [100 images from Big Branch National Wildlife Refuge in Louisiana](http://publiclaboratory.org/notes/gonzoearth/7-11-2012/notes-large-map-project) using Adobe Photoshop and tools from GDAL.org to stitch and publish. 

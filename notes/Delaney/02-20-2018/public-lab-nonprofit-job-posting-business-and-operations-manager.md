@@ -8,11 +8,15 @@ uid: 517173
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/023/657/original/pl-narrow.png)
+
 # Public Lab nonprofit job posting: Business and Operations Manager
 
 by [Delaney](../profile/Delaney) February 20, 2018 20:43
 
 February 20, 2018 20:43 | Tags: [gulf-coast](../tag/gulf-coast), [staff](../tag/staff), [nonprofit](../tag/nonprofit), [neworleans](../tag/neworleans), [jobs](../tag/jobs), [barnstar:basic](../tag/barnstar:basic), [location:neworleans](../tag/location:neworleans)
+
+----
 
 **Start Date:** April 2018
 

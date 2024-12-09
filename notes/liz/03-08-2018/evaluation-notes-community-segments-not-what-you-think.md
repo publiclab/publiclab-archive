@@ -14,6 +14,8 @@ by [liz](../profile/liz) March 08, 2018 19:18
 
 March 08, 2018 19:18 | Tags: [evaluation](../tag/evaluation), [question:evaluation](../tag/question:evaluation)
 
+----
+
 I just got off the phone with the fine people of https://www.fundforsharedinsight.org/listen-for-good/. We were discussing ... evaluation. 
 
 When i mentioned the low rates of response to last June's "[All Community Survey][1]" , and about how the software community is leading its own survey effort, they offered "oh, great, that's one of your community's segments!"

@@ -3,6 +3,8 @@ uid: 133222
 created_at: 2013-06-21 23:56:22 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/dcc22242a04bf9b40eba8b564d4829c7)
+
 # jholmes5
 
 I have a geology background and have been a science teacher, environmental lab manager, volunteer for various environmental organizations, Historic Tugboat volunteer and have worked in the Education Department at the American Museum of Natural History for over 20 years. I love the idea of PLOTS, getting out there and exploring our world.

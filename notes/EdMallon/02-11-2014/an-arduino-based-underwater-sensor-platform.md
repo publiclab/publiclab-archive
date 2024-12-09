@@ -8,11 +8,15 @@ uid: 420750
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/028/790/original/HydrolabVisitsCavePearlwithTrishBeddows.jpg)
+
 # An Arduino Based UnderWater Sensor Platform
 
 by [EdMallon](../profile/EdMallon) February 11, 2014 16:20
 
 February 11, 2014 16:20 | Tags: [arduino](../tag/arduino), [education](../tag/education), [temperature](../tag/temperature), [pvc](../tag/pvc), [water-quality](../tag/water-quality), [water](../tag/water), [water-monitoring](../tag/water-monitoring), [water-quality-sensor](../tag/water-quality-sensor), [underwater](../tag/underwater), [datalogger](../tag/datalogger), [conductivity](../tag/conductivity), [pressure](../tag/pressure), [logger](../tag/logger), [barnstar:basic](../tag/barnstar:basic), [activity:water-sensors](../tag/activity:water-sensors), [datalogger-option](../tag/datalogger-option)
+
+----
 
 For many years, **the Cave Pearl project** \[[https://thecavepearlproject.org/](https://thecavepearlproject.org/ "https://thecavepearlproject.org/")\] has been proving that open source equipment built with inexpensive pre-made modules can serve the needs of both scientific research and STEM education. We've been deploying Pro Mini based data loggers in underwater cave environments since 2014, and the first publication from that work was released in 2018 \[ [https://www.mdpi.com/1424-8220/18/2/530](https://www.mdpi.com/1424-8220/18/2/530 "https://www.mdpi.com/1424-8220/18/2/530") \] At the start of 2019 there are more than 100 of these units in service with a range of sensor configurations, deployed in four countries.
 

@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/026/050/original/Screen_Shot_2018-08-02_at_6.17.50_PM.png)
+
 # Use Image Sequencer for NDVI plant analysis with a modified mini sport camera
 
 by [warren](../profile/warren) August 02, 2018 22:38
 
 August 02, 2018 22:38 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [multispectral](../tag/multispectral), [nasa](../tag/nasa), [infragram](../tag/infragram), [mobius](../tag/mobius), [infragram-point-shoot](../tag/infragram-point-shoot), [filters](../tag/filters), [difficulty:easy](../tag/difficulty:easy), [time:15m](../tag/time:15m), [status:review-me](../tag/status:review-me), [category:observe](../tag/category:observe), [activity:multispectral-imaging](../tag/activity:multispectral-imaging), [activity:infragram](../tag/activity:infragram), [multispectral-imaging](../tag/multispectral-imaging), [activity:ndvi](../tag/activity:ndvi), [response:13742](../tag/response:13742), [aren](../tag/aren), [activity:infrared-camera-conversion](../tag/activity:infrared-camera-conversion), [infrared-camera-conversion](../tag/infrared-camera-conversion), [activity:image-sequencer](../tag/activity:image-sequencer), [activity:aren](../tag/activity:aren), [sport-camera](../tag/sport-camera), [camera-hacking](../tag/camera-hacking)
+
+----
 
 This tutorial shows how to use [Image Sequencer](https://publiclab.org/image-sequencer) to take a DIY multispectral image (using [this mini waterproof sport camera](https://publiclab.myshopify.com/collections/mapping-kits/products/waterproof-mini-camera), with [a blue filter such as from this kit](https://publiclab.myshopify.com/collections/education/products/infragram-diy-filter-pack)) and composite them [into an NDVI image](https://publiclab.org/ndvi). (For instructions on doing this with a 2-camera system, [click here](https://publiclab.org/notes/warren/05-30-2018/use-image-sequencer-for-ndvi-plant-analysis-with-2-images))
 

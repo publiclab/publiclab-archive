@@ -8,11 +8,15 @@ uid: 294634
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/004/180/original/GuardYOurShores.png)
+
 # Mobilizing Data to Combat the Evil Green Crab
 
 by [ajawitz](../profile/ajawitz) May 08, 2014 18:04
 
 May 08, 2014 18:04 | Tags: [grassrootsmapping](../tag/grassrootsmapping), [citizen-science](../tag/citizen-science), [maine](../tag/maine), [invasives](../tag/invasives), [invasive-species](../tag/invasive-species), [civic-hacking](../tag/civic-hacking), [northeast](../tag/northeast)
+
+----
 
 ###What I want to do
 I want to build diy/open source tools to assist research into impacts of invasive aquatic species, specifically the European Green Crab, on coastal communities in the northeastern U.S.

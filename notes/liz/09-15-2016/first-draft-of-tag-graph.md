@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/018/052/original/Screen_Shot_2016-09-15_at_2.14.24_PM.png)
+
 # First draft of tag graph
 
 by [liz](../profile/liz) September 15, 2016 18:23
 
 September 15, 2016 18:23 | Tags: [community-metrics](../tag/community-metrics), [evaluation](../tag/evaluation), [with:bsugar](../tag/with:bsugar)
+
+----
 
 @bsugar used Gephi to make this tag graph of the top 256 tags used on PublicLab.org.
 

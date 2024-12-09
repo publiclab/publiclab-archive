@@ -8,11 +8,15 @@ uid: 515081
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/025/211/original/draft_view.png)
+
 # Draft Feature
 
 by [gauravano](../profile/gauravano)
 
 June 13, 2018 19:16 | Tags: [draft](../tag/draft), [feature](../tag/feature), [status:draft](../tag/status:draft), [soc](../tag/soc), [gsoc-2018](../tag/gsoc-2018), [parent:website-basics](../tag/parent:website-basics)
+
+----
 
 This page is intended to help people getting familiar with the draft feature so that they can save their research notes as a draft and can complete them at their own convenience.
 

@@ -3,6 +3,8 @@ uid: 513114
 created_at: 2017-08-23 12:13:07 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/513114/medium/Small_generator_details.jpg)
+
 # sciencetoolbar
 
 science projects, science experiments

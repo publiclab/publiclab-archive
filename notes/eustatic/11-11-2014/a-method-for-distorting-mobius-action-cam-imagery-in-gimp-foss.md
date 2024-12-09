@@ -8,11 +8,15 @@ uid: 379
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/007/812/original/IMAG0021_test_grid_farther_away.JPG)
+
 # A Method for distorting Mobius Action Cam imagery in GIMP (FOSS)
 
 by [eustatic](../profile/eustatic) November 11, 2014 21:31
 
 November 11, 2014 21:31 | Tags: [gulf-coast](../tag/gulf-coast), [balloon-mapping](../tag/balloon-mapping), [pole-photography](../tag/pole-photography), [new-orleans](../tag/new-orleans), [neworleans](../tag/neworleans), [bsj](../tag/bsj), [urbanwater](../tag/urbanwater), [urbanwaters](../tag/urbanwaters)
+
+----
 
 ###What I want to do
 

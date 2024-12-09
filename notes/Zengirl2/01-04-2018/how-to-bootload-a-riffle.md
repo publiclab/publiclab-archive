@@ -8,11 +8,15 @@ uid: 423961
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/023/095/original/RiffleCU.JPG)
+
 # How to bootload a Riffle #Arduino #water #science #tech
 
 by [zengirl2](../profile/zengirl2) January 04, 2018 23:58
 
 January 04, 2018 23:58 | Tags: [arduino](../tag/arduino), [air-quality](../tag/air-quality), [water-quality](../tag/water-quality), [water](../tag/water), [environment](../tag/environment), [data-collection](../tag/data-collection), [riffle](../tag/riffle), [barnstar:basic](../tag/barnstar:basic), [seeks:replications](../tag/seeks:replications), [data-logging](../tag/data-logging), [activity:riffle](../tag/activity:riffle), [activity:arduino](../tag/activity:arduino)
+
+----
 
 ## Goal
 

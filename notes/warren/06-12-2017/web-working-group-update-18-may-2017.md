@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/020/773/original/Screenshot_2017-06-12_at_6.31.48_PM.png)
+
 # Web Working Group Update 18: May 2017
 
 by [warren](../profile/warren) June 12, 2017 22:32
 
 June 12, 2017 22:32 | Tags: [community](../tag/community), [web-development](../tag/web-development), [software](../tag/software), [plots2](../tag/plots2), [outreach](../tag/outreach), [gsoc](../tag/gsoc), [developers](../tag/developers), [wwg](../tag/wwg), [webwg](../tag/webwg), [first-timers-only](../tag/first-timers-only), [software-outreach](../tag/software-outreach), [rgsoc](../tag/rgsoc), [wwg-update](../tag/wwg-update), [response:14163](../tag/response:14163)
+
+----
 
 Many apologies for a late monthly update -- it's been busy! Brief summary as per GitHub Pulse: [https://github.com/publiclab/plots2/pulse/monthly](https://github.com/publiclab/plots2/pulse/monthly)
 

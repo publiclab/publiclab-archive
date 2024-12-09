@@ -8,11 +8,15 @@ uid: 779054
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/045/332/original/Babylegs.png)
+
 # Adapted sampling for the Babylegs Kit
 
 by [rebeccaMw](../profile/rebeccaMw) January 25, 2022 19:50
 
 January 25, 2022 19:50 | Tags: [education](../tag/education), [water-quality](../tag/water-quality), [seeks:responses](../tag/seeks:responses), [microplastics](../tag/microplastics), [babylegs](../tag/babylegs), [plankton](../tag/plankton)
+
+----
 
 The Public Lab Babylegs Aquatic Trawl kit ([link text](https://store.publiclab.org/collections/water-monitoring/products/babylegs?variant=13780101431405 "https://store.publiclab.org/collections/water-monitoring/products/babylegs?variant=13780101431405")) has proven itself to be an invaluable tool for community scientists to survey for microplastics in their local waterways. With data collected from these sampling exercises, communities are able to present findings to inspire change and advocacy within their region.   
   

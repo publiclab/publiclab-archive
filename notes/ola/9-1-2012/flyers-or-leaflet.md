@@ -14,6 +14,8 @@ by [Ola](../profile/Ola) September 01, 2012 15:35
 
 September 01, 2012 15:35 | Tags: 
 
+----
+
 Dear all,
 
 I'm planning to start a group in Lund, Sweden. Is there any existing flyers that I could reuse or modify and place around our campus? 

@@ -8,11 +8,15 @@ uid: 420719
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/005/213/original/der.jpeg)
+
 # Inconsistent two cam ndvi
 
 by [gpenzo](../profile/gpenzo) July 10, 2014 23:10
 
 July 10, 2014 23:10 | Tags: [ndvi](../tag/ndvi), [canon](../tag/canon), [a2500](../tag/a2500)
+
+----
 
 ###What I want to do
 A while ago I made a ndvi picutre with two canon a2500 cameras. [NDVI canon a2500](http://publiclab.org/notes/gpenzo/02-16-2014/ndvi-720nm-850nm-filter-two-camera-setup-result).

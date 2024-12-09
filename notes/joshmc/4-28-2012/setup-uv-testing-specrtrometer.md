@@ -14,6 +14,8 @@ by [JoshMc](../profile/JoshMc) April 28, 2012 12:18
 
 April 28, 2012 12:18 | Tags: [spectrometer](../tag/spectrometer), [uv](../tag/uv), [ultraviolet](../tag/ultraviolet), [fluorescence](../tag/fluorescence), [activity:spectrometry](../tag/activity:spectrometry), [activity:science-fair](../tag/activity:science-fair), [first-time-poster](../tag/first-time-poster)
 
+----
+
 Jeff Warren asked me to post some images of my setup for the UV spectra I posted on Spectral Workbench.  I'm having trouble getting the upload to work correctly, so I don't have a set including all the spectra from my tests.  Soon I'll probably just re-do the tests, but I'm waiting to get some more samples to test first.
 
 Last night I used this setup to test UV passing through tap water, boiled tap water, All Free and Clear laundry detergent, and Clorox bleach.

@@ -14,6 +14,8 @@ by [denissebn_06](../profile/denissebn_06) June 07, 2021 22:25
 
 June 07, 2021 22:25 | Tags: [air-quality](../tag/air-quality), [air-monitoring](../tag/air-monitoring), [question:general](../tag/question:general), [general](../tag/general), [bucket](../tag/bucket), [question:vvamp](../tag/question:vvamp)
 
+----
+
 What kind of monitoring tools might I need to use to identify indicators before going out to do this grab sample with the bucket monitoring tool? And are those tools expensive? Any advice? 
 
 This question came up in the last VVAMP team call about the bucket air monitoring tool   

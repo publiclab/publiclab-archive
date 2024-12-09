@@ -8,11 +8,15 @@ uid: 995
 
 ---
 
+![](https://publiclab.org/sites/default/files/5593190_0.jpg)
+
 # Webcam Conversion to (Near-) Infrared
 
 by [JoshMc](../profile/JoshMc) October 13, 2012 03:12
 
 October 13, 2012 03:12 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [nir](../tag/nir), [infrared](../tag/infrared), [webcam](../tag/webcam), [near-infrared](../tag/near-infrared), [ir](../tag/ir), [conversion](../tag/conversion), [filter](../tag/filter), [activity:infrared-camera-conversion](../tag/activity:infrared-camera-conversion)
+
+----
 
 UPDATE:  My previous image server has shut down, so I've uploaded them to a new host, so you can see them here:  http://s1127.photobucket.com/user/Josh_McIlvain/slideshow/Webcam%20IR%20Conversion
 

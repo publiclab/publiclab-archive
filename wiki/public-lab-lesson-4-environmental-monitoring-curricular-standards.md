@@ -14,6 +14,8 @@ by [JSummers](../profile/JSummers), [mathew](../profile/mathew)
 
 July 15, 2015 03:06 | Tags: [education](../tag/education), [curriculum](../tag/curriculum), [parent:wetlands-lesson-plans](../tag/parent:wetlands-lesson-plans)
 
+----
+
 [Link to Lesson 4](/wiki/public-lab-lesson-4-environmental-monitoring)
 
 ###National Common Core Standards: Grade 8 specific (as well as general category 6-8 Middle School Standards)

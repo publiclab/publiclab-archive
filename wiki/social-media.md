@@ -14,6 +14,8 @@ by [amocorro](../profile/amocorro), [joyofsoy](../profile/joyofsoy), [liz](../pr
 
 February 16, 2012 15:59 | Tags: [community](../tag/community), [media](../tag/media), [social-media](../tag/social-media)
 
+----
+
 * **Find us on Facebook**: http://www.facebook.com/PublicLab 
 * **Follow us on Twitter**: http://twitter.com/publiclab
 * **Watch on YouTube**: https://www.youtube.com/publiclab

@@ -14,6 +14,8 @@ by [warren](../profile/warren)
 
 April 29, 2013 13:16 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [3d](../tag/3d)
 
+----
+
 A place to collect examples and techniques for 3d mapping using balloons & kites.
 
 ![Screen_shot_2013-04-29_at_9.06.47_AM.png](https://i.publiclab.org/system/images/photos/000/000/139/medium/Screen_shot_2013-04-29_at_9.06.47_AM.png)

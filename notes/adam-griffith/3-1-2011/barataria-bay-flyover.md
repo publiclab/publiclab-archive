@@ -14,6 +14,8 @@ by [adam-griffith](../profile/adam-griffith) March 01, 2011 23:48
 
 March 01, 2011 23:48 | Tags: [gulf-coast](../tag/gulf-coast), [barataria-bay](../tag/barataria-bay), [louisiana](../tag/louisiana), [first-time-poster](../tag/first-time-poster)
 
+----
+
 On Friday 25 FEB 2011, Shannon Dosemagen and Adam Griffith flew over Barataria Bay and the Grand Isle region of the Louisiana Coast.  This area was heavily impacted by the DWH oil spill.  Clean up crews are still on many of the islands in the region as the ephemeral oil continues to kill wetlands.
 
 Download a 5.5 GB zipped file the images taken by Adam Griffith here:

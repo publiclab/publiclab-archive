@@ -8,11 +8,15 @@ uid: 420044
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/023/067/original/Dispersive_Prism.jpg)
+
 # Systems Integration - Spectrometry
 
 by [31gane](../profile/31gane) January 02, 2018 11:18
 
 January 02, 2018 11:18 | Tags: [spectrometer](../tag/spectrometer), [design](../tag/design), [building](../tag/building), [integration](../tag/integration), [abstraction](../tag/abstraction), [plan](../tag/plan)
+
+----
 
 # Introduction
 

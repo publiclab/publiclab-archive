@@ -8,11 +8,15 @@ uid: 461120
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/015/518/original/samples1and2_motor_oil_apr13.png)
+
 # Pictures showing motor oil dissolution and separation
 
 by [dhaffnersr](../profile/dhaffnersr) April 13, 2016 19:03
 
 April 13, 2016 19:03 | Tags: 
+
+----
 
 Here are some pictures showing what the samples look like after processing with the regent I used to process these oil samples:
 

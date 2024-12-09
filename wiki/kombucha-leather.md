@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/023/352/original/20140218102658kombuchaclothes_crop.jpg)
+
 # kombucha leather
 
 by [liz](../profile/liz), [warren](../profile/warren)
 
 January 19, 2018 19:10 | Tags: [yeast](../tag/yeast), [microbes](../tag/microbes), [kombucha](../tag/kombucha), [biomaterial](../tag/biomaterial), [kombucha-leather](../tag/kombucha-leather)
+
+----
 
 The lead image is by Suzanne Lee ([watch her TED talk](https://www.ted.com/talks/suzanne_lee_grow_your_own_clothes))
 
@@ -34,11 +38,11 @@ Artists and designers are exploring the potential of microbial leather as a sust
 
 Questions can be either frequently asked questions, or "next step" challenges we're looking to solve.
 
-[questions:kombucha-leather]
+[kombucha-leather](../../tag/question:kombucha-leather)
 
 ## Activities
 
 Activities show how to use this project, step by step.
 
-[activities:kombucha-leather]
+[kombucha-leather](../../tag/activity:kombucha-leather)
 

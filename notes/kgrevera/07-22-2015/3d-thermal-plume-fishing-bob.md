@@ -8,11 +8,15 @@ uid: 432001
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/010/779/original/IMG_6401.pdf)
+
 # 3D Thermal Plume Fishing Bob
 
 by [kgrevera](../profile/kgrevera) July 22, 2015 00:00
 
 July 22, 2015 00:00 | Tags: [thermal-photography](../tag/thermal-photography), [thermal-fishing-bob](../tag/thermal-fishing-bob), [3d-thermal-plume](../tag/3d-thermal-plume), [multiple-thermistor](../tag/multiple-thermistor)
+
+----
 
 ##3D Thermal Plume Fishing Bob
 

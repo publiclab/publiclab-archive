@@ -8,11 +8,15 @@ uid: 603909
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/037/832/original/Organizational_Learning.jpg)
+
 # Job Posting: Organizational Learning Associate
 
 by [thewrightjess](../profile/thewrightjess) January 30, 2020 18:52
 
 January 30, 2020 18:52 | Tags: [community](../tag/community), [development](../tag/development), [jobs](../tag/jobs)
+
+----
 
 **Start Date**: Late March-early May 2020
 

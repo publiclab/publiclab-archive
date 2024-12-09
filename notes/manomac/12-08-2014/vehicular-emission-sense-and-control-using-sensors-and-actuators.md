@@ -14,6 +14,8 @@ by [manomac](../profile/manomac) December 08, 2014 07:19
 
 December 08, 2014 07:19 | Tags: 
 
+----
+
 ###What I want to do: sense and capture harmful gas at source: Vehiclular tail pipe. 
 
 ###My attempt and results: I've identified few sensors but waiting for pilot to be done. 

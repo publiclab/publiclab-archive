@@ -8,11 +8,15 @@ uid: 428016
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/007/050/original/unnamed.jpg)
+
 # Three water samples — Emerson Data Visualization 
 
 by [jacktemp](../profile/jacktemp) September 29, 2014 00:40
 
 September 29, 2014 00:40 | Tags: [water-quality-monitoring](../tag/water-quality-monitoring), [first-time-poster](../tag/first-time-poster)
+
+----
 
 ##Group 2##
 

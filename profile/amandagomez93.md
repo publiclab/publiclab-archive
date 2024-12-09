@@ -3,6 +3,8 @@ uid: 428015
 created_at: 2014-09-06 20:29:46 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/fbbbf6983f2f23452849c4df09b4752b)
+
 # amandagomez93
 
 Journalist. Yogi. Aspiring Foodie. 

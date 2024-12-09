@@ -14,6 +14,8 @@ by [warren](../profile/warren), [liz](../profile/liz)
 
 May 20, 2013 19:00 | Tags: [retail](../tag/retail)
 
+----
+
 ![05-08-13-10-41-38_bkit-b-200.png](https://i.publiclab.org/system/images/photos/000/000/554/medium/05-08-13-10-41-38_bkit-b-200.png) ![05-08-13-10-40-14_fldup-a-200.png](https://i.publiclab.org/system/images/photos/000/000/555/medium/05-08-13-10-40-14_fldup-a-200.png) ![05-08-13-10-39-07_skit-a-200.png](https://i.publiclab.org/system/images/photos/000/000/556/medium/05-08-13-10-39-07_skit-a-200.png)
 
 

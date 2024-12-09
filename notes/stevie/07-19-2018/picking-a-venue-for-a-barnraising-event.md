@@ -8,11 +8,15 @@ uid: 422561
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/025/804/original/2015-barnraising-dinner.jpg)
+
 # Picking a venue for a Barnraising event
 
 by [stevie](../profile/stevie) July 19, 2018 20:16
 
 July 19, 2018 20:16 | Tags: [barnraising](../tag/barnraising), [barnraising-host](../tag/barnraising-host), [preparations-logistics](../tag/preparations-logistics), [activity:preparations-logistics](../tag/activity:preparations-logistics)
+
+----
 
 The venue for the Barnraising is flexible in many ways. The event can be hosted at a school, an office space, it has even been hosted in a barn! Here are some things you should look for or keep in mind in choosing your venue: 
 

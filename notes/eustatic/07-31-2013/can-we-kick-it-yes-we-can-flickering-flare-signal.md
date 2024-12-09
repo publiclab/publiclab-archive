@@ -8,11 +8,15 @@ uid: 379
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/000/969/original/9378316440_f7f5277d11_c.jpg)
+
 # Can we kick it?  Yes we can. Signal from a Flickering Refinery Flare 
 
 by [eustatic](../profile/eustatic) July 31, 2013 06:04
 
 July 31, 2013 06:04 | Tags: [gulf-coast](../tag/gulf-coast), [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [flare](../tag/flare), [chalmette](../tag/chalmette), [distance-spectrometry](../tag/distance-spectrometry)
+
+----
 
 <img src="https://farm8.staticflickr.com/7408/9375537877_932f15e565_c.jpg">
 

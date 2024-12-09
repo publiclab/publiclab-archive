@@ -14,6 +14,8 @@ by [warren](../profile/warren)
 
 April 30, 2012 16:37 | Tags: 
 
+----
+
 ###Adam (moderator)###
 * Goals
   * Outreach with RiverLink to set up kit sharing, work on website tasks that I am point person on, follow up with contacts I met at conference in Vienna, post 1 research note about the spectrometer, schedule call with Sara and Liz on partnerships

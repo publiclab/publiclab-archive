@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/015/713/original/Comment2.gif)
+
 # Comment piece in Nature about peer review
 
 by [liz](../profile/liz) April 21, 2016 16:01
 
 April 21, 2016 16:01 | Tags: [barnstar:basic](../tag/barnstar:basic), [with:warren](../tag/with:warren), [peer-production](../tag/peer-production), [peer-review](../tag/peer-review)
+
+----
 
 _Jean-Baptiste Colbert Presenting the Members of the Royal Academy of Science to Louis XIV (oil on canvas), Henri Testelin (1616–95)/Bridgeman Images_
 

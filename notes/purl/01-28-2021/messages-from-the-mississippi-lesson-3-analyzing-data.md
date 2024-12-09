@@ -8,11 +8,15 @@ uid: 736598
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/042/825/original/EPA_flow_chart.png)
+
 # Messages From the Mississippi Lesson 3: Analyzing Data
 
 by [purl](../profile/purl) January 28, 2021 15:57
 
 January 28, 2021 15:57 | Tags: [microplastics](../tag/microplastics), [babylegs](../tag/babylegs), [messagesfromthemississippi](../tag/messagesfromthemississippi), [lesson-community-microscope](../tag/lesson-community-microscope)
+
+----
 
 # Overview [](https://publiclab.org/notes/mimiss/05-07-2019/workshop-i-how-do-communities-respond-to-environmental-problems?_=1561052111#Overview)
 

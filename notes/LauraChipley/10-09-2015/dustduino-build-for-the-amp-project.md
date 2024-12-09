@@ -8,11 +8,15 @@ uid: 428957
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/011/885/original/dustduino_1.jpg)
+
 # Dustduino Build for the AMP project
 
 by [LauraChipley](../profile/LauraChipley) October 09, 2015 15:15
 
 October 09, 2015 15:15 | Tags: [particulate-sensing](../tag/particulate-sensing), [west-virginia](../tag/west-virginia), [mountaintop-removal](../tag/mountaintop-removal), [dustduino](../tag/dustduino), [dust](../tag/dust), [pm](../tag/pm), [southeast](../tag/southeast), [particulate-monitoring](../tag/particulate-monitoring), [amp](../tag/amp), [mtr](../tag/mtr), [shinyei](../tag/shinyei), [appalachia](../tag/appalachia), [replication:9818](../tag/replication:9818), [air-sensors](../tag/air-sensors)
+
+----
 
 [![KD2.MOV.00_14_48_03.Still001.jpg](https://i.publiclab.org/system/images/photos/000/011/886/medium/KD2.MOV.00_14_48_03.Still001.jpg)](https://i.publiclab.org/system/images/photos/000/011/886/original/KD2.MOV.00_14_48_03.Still001.jpg)
 

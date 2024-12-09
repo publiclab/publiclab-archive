@@ -8,11 +8,15 @@ uid: 430796
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/007/691/original/echemX_328a_front.png)
+
 # Smart sensor board for electrochemical gas sensors (intro)
 
 by [kensanfran](../profile/kensanfran) November 02, 2014 09:38
 
 November 02, 2014 09:38 | Tags: [air-quality](../tag/air-quality), [air](../tag/air), [monitoring](../tag/monitoring), [barnstar:empiricism](../tag/barnstar:empiricism), [gas](../tag/gas), [sensor](../tag/sensor), [electrochemical](../tag/electrochemical), [nerds-for-nature](../tag/nerds-for-nature), [gas-sensor](../tag/gas-sensor), [electrochemical-sensor](../tag/electrochemical-sensor), [echem328](../tag/echem328), [data-logging](../tag/data-logging), [air-sensors](../tag/air-sensors), [kentucky](../tag/kentucky), [first-time-poster](../tag/first-time-poster)
+
+----
 
 ###A smarter way to use electrochemical gas sensors
 Perhaps the most promising near-term technology for accurately detecting many atmospheric pollutant gases within modest cost, power, and size constraints is the [electrochemical sensor cell](http://en.wikipedia.org/wiki/Electrochemical_gas_sensor). Recent "echem" sensors from [Alphasense](http://www.alphasense.com/index.php/air/) in particular (-A4 and -B4 models, for example see [CO-B4 datasheet](http://www.alphasense.com/WEB1213/wp-content/uploads/2014/10/COB4.pdf)) provide:

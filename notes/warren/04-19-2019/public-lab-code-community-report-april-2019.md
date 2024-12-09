@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/031/654/original/image.png)
+
 # Public Lab Code Community Report: April 2019
 
 by [warren](../profile/warren) April 19, 2019 21:43
 
 April 19, 2019 21:43 | Tags: [website](../tag/website), [web-development](../tag/web-development), [software](../tag/software), [outreach](../tag/outreach), [gsoc](../tag/gsoc), [blog](../tag/blog), [developers](../tag/developers), [code](../tag/code), [wwg](../tag/wwg), [webwg](../tag/webwg), [software-outreach](../tag/software-outreach), [outreachy](../tag/outreachy), [wwg-report](../tag/wwg-report), [outreachy-2018](../tag/outreachy-2018), [with:bansal_sidharth2996](../tag/with:bansal_sidharth2996), [with:gauravano](../tag/with:gauravano), [response:17028](../tag/response:17028), [response:18039](../tag/response:18039)
+
+----
 
 **Jan-Mar 2018:** This year we have been buoyed by the growing size of our community and have turned towards larger projects on a year-round cycle, supported by funds from a variety of grants and fellowship programs. Our overall goal this year is to reduce the technical overhead of maintaining systems, and build a sustainable community leadership team that can carry these projects forward responsibly in a more distributed way. 
 

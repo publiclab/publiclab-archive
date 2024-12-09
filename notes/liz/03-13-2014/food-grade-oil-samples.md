@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/003/222/original/IMG_3281.JPG)
+
 # Food grade oil samples
 
 by [liz](../profile/liz) March 13, 2014 14:49
 
 March 13, 2014 14:49 | Tags: [new-york-city](../tag/new-york-city), [spectrometer](../tag/spectrometer), [oil](../tag/oil), [spectroscopy](../tag/spectroscopy), [oil-testing-kit](../tag/oil-testing-kit), [olive-oil](../tag/olive-oil)
+
+----
 
 ###What I want to do
 

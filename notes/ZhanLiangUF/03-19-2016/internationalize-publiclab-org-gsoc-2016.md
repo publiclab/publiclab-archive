@@ -8,11 +8,15 @@ uid: 468876
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/015/147/original/undefined)
+
 # Internationalize publiclab.org GSoC 2016
 
 by [ZhanLiangUF](../profile/ZhanLiangUF) March 19, 2016 22:01
 
 March 19, 2016 22:01 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [coding](../tag/coding), [hidden:response](../tag/hidden:response), [gsoc-2016](../tag/gsoc-2016), [gsoc-2016-proposals](../tag/gsoc-2016-proposals), [response:12827](../tag/response:12827)
+
+----
 
 DISCLAIMER- Ignore image above. I can't seem to find a way to delete it.
 

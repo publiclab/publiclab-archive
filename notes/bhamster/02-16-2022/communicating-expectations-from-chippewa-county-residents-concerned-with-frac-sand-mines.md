@@ -14,6 +14,8 @@ by [bhamster](../profile/bhamster) February 16, 2022 18:54
 
 February 16, 2022 18:54 | Tags: [frac-sand](../tag/frac-sand), [advocacy](../tag/advocacy), [with:pat](../tag/with:pat), [sand-mining](../tag/sand-mining), [reclamation](../tag/reclamation), [mine-reclamation](../tag/mine-reclamation), [mine-reclamation-advocacy](../tag/mine-reclamation-advocacy)
 
+----
+
 On a recent call, Public Lab community members gathered to talk about mine reclamation. One of the folks on the call was @Pat, who has done extensive community organizing around frac sand mining in Chippewa County, Wisconsin.
 
 Pat gave an example of an approach she's taken in her advocacy, illustrated by this handout (below) created for and submitted to members of the Chippewa County Land Conservation and Forest Management Committee. **The handout clearly and succinctly states residents' expectations of what the committee should work on, at minimum, to ensure the health and safety of communities where these mines operate.** One committee member reported that they keep the handout up on their office wall.

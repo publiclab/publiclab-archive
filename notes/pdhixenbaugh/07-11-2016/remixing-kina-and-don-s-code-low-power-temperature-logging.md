@@ -8,11 +8,15 @@ uid: 459085
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/016/985/original/Capture.PNG)
+
 # Remixing Kina and Don's Code - low power temperature logging
 
 by [pdhixenbaugh](../profile/pdhixenbaugh) July 11, 2016 23:11
 
 July 11, 2016 23:11 | Tags: [riffle](../tag/riffle), [riffle-beta](../tag/riffle-beta)
+
+----
 
 ###What I want to do
 

@@ -8,11 +8,15 @@ uid: 553044
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/032/785/original/pp.jpg)
+
 # An Insight on Indoor Air Pollutants: Factors, Sources & Pollutants.
 
 by [silentsairam](../profile/silentsairam) June 10, 2019 18:27
 
 June 10, 2019 18:27 | Tags: [air-quality](../tag/air-quality), [formaldehyde](../tag/formaldehyde), [indoor-air-quality](../tag/indoor-air-quality), [indoor-air](../tag/indoor-air), [lat:10.768555](../tag/lat:10.768555), [lon:78.815917](../tag/lon:78.815917)
+
+----
 
 This Research has been carried out with [nshapiro](https://publiclab.org/profile/nshapiro#2/34.0/-118.0/BL1) & Solve Ninjas [Saujanya](https://publiclab.org/profile/Saujanya), [Taanika](https://publiclab.org/profile/Taanika2001) of [ReapBenefit](http://www.reapbenefit.org) , an organization that solves Local Civic & Environmental issues in India with Youngsters as part of Remediation Kit Project for Indoor Air Quality.
 

@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/007/935/original/z2014_11_14_Public_Lab_Barn_Raising_Cocodrie_Louisiana_Eymund_IMG_1474.jpg)
+
 # barnraising-2014-photos
 
 by [cfastie](../profile/cfastie), [liz](../profile/liz), [Fereshteh](../profile/Fereshteh), [LauraChipley](../profile/LauraChipley), [laurenrae](../profile/laurenrae), [eymund](../profile/eymund)
 
 November 14, 2014 01:15 | Tags: [barnraising](../tag/barnraising), [photos](../tag/photos), [barnraising2014](../tag/barnraising2014), [pictures](../tag/pictures)
+
+----
 
 ##Place your images here, newest at the top!
 

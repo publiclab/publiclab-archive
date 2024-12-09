@@ -8,11 +8,15 @@ uid: 461120
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/013/697/original/20160116_134447.jpg)
+
 # FLUORESCENCE OF 87 OCTANE GASOLINE
 
 by [dhaffnersr](../profile/dhaffnersr) January 16, 2016 21:11
 
 January 16, 2016 21:11 | Tags: 
+
+----
 
 Today I was doing some calibrating for fluorescing gasoline and oil samples
 

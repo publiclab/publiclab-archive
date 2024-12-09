@@ -8,11 +8,15 @@ uid: 43651
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/013/344/original/codex.png)
+
 # Universal Hardware Registry?
 
 by [donblair](../profile/donblair) December 15, 2015 16:33
 
 December 15, 2015 16:33 | Tags: [open-hardware](../tag/open-hardware), [hardware](../tag/hardware), [units](../tag/units), [mayan-codex](../tag/mayan-codex)
+
+----
 
 Hi all!
 

@@ -8,11 +8,15 @@ uid: 461120
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/014/682/original/LED_test_mar8.png)
+
 # Tested 9 400nm UV LEDs today these are the results
 
 by [dhaffnersr](../profile/dhaffnersr) March 08, 2016 15:58
 
 March 08, 2016 15:58 | Tags: [barnstar:empiricism](../tag/barnstar:empiricism)
+
+----
 
 I bought 9 400nm LEDs from superbrightleds.com and I was curious as to their consistency for use in UV spectral analysis, well, I got some very interesting but not too surprising results. 
 

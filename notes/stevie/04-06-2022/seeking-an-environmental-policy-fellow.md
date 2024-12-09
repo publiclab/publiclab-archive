@@ -8,11 +8,15 @@ uid: 422561
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/045/630/original/fracout_2.1.1.jpg)
+
 # Seeking an Environmental Policy Fellow
 
 by [stevie](../profile/stevie) April 06, 2022 14:14
 
 April 06, 2022 14:14 | Tags: [heavy-metals](../tag/heavy-metals), [pipeline](../tag/pipeline), [mining](../tag/mining), [minnesota](../tag/minnesota), [fracking](../tag/fracking), [jobs](../tag/jobs), [midwest](../tag/midwest), [fellows](../tag/fellows), [fellowship](../tag/fellowship), [policy](../tag/policy), [environmental-policy](../tag/environmental-policy), [fellow](../tag/fellow), [mill](../tag/mill), [fellowship-team](../tag/fellowship-team), [fellowship-teams](../tag/fellowship-teams), [lumber](../tag/lumber), [particle-board](../tag/particle-board), [with:bee](../tag/with:bee)
+
+----
 
 \_Just outside of Bagley, Minnesota, Enbridge attempts to clean up after their frac out on the Clearwater River. This catastrophe went unreported for six months and was not repaired for an additional six months. This is one of several tragedies that Enbridge caused __as they forced their tar sands oil pipeline through_ northern Minnesota. Enbridge caused multiple frac outs and aquifer breeches during the construction of their pipeline- causing damage to our water and land even before tar sand oil began to flow.  
 The lead image was pulled from drone footage by River Akemann\__

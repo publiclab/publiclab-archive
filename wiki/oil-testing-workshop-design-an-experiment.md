@@ -14,6 +14,8 @@ by [warren](../profile/warren), [liz](../profile/liz)
 
 February 05, 2016 22:16 | Tags: [spectrometer](../tag/spectrometer), [workshop](../tag/workshop), [oil-testing-kit](../tag/oil-testing-kit), [parent:oil-testing-workshops](../tag/parent:oil-testing-workshops), [experimental-design](../tag/experimental-design)
 
+----
+
 _Drafted in January 2016 by Gretchen Gehrke, Stevie Lewis, Liz Barry._
 
 **Why (the Situation):** In order to confidently answer the questions we have about our environment, we want to learn how to structure our questions, use DIY tools, conduct experiments which make use of the scientific method, and understand the capabilities and limitations of our data in comparison to any existing data. This workshop will focus on the case study of the [Oil Testing Kit](/wiki/oil-testing-kit)

@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/003/799/original/MobTest-387-2.jpg)
+
 # NIR and white balance
 
 by [cfastie](../profile/cfastie) April 23, 2014 02:59
 
 April 23, 2014 02:59 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [infrared](../tag/infrared), [white-balance](../tag/white-balance), [infragram](../tag/infragram), [histogram](../tag/histogram), [led](../tag/led), [mobius-actioncam](../tag/mobius-actioncam), [frosted-globe](../tag/frosted-globe), [response:10324](../tag/response:10324), [mobius](../tag/mobius)
+
+----
 
 *Above: An LED which emits only near infrared light around 850 nm photographed under normal room lighting with a camera with no IR block filter. The purplish color is how the camera records the NIR light.*  
 

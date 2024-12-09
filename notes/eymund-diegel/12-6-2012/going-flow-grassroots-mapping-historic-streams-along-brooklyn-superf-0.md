@@ -8,11 +8,15 @@ uid: 1016
 
 ---
 
+![](https://publiclab.org/sites/default/files/8_2012_March_5_First Street Basin E-Waste Dump landfill at Gowanus Canal looking towards Carroll Bridge.JPG)
+
 # Going with the Flow – Grassroots mapping historic streams along a Brooklyn Superfund site.
 
 by [eymund](../profile/eymund) December 07, 2012 04:49
 
 December 07, 2012 04:49 | Tags: [new-york-city](../tag/new-york-city), [gowanus](../tag/gowanus), [brooklyn](../tag/brooklyn), [new-york](../tag/new-york), [gowanus-canal-conservancy](../tag/gowanus-canal-conservancy), [battle-of-brooklyn](../tag/battle-of-brooklyn), [gowanus-canal-superfund-site](../tag/gowanus-canal-superfund-site), [water-quality-mapping](../tag/water-quality-mapping), [first-street-basin](../tag/first-street-basin), [Denton's Tidal Mill](../tag/Denton's Tidal Mill), [gowanus-dredgers-canoe-club](../tag/gowanus-dredgers-canoe-club), [proteus-gowanus](../tag/proteus-gowanus), [circuit-board-tombstones](../tag/circuit-board-tombstones), [northeast](../tag/northeast)
+
+----
 
 Grassroots mappers in Gowanus have been using the high resolution of low altitude photographs to locate historic streams that can help improve the water quality of a heavily polluted industrial waterway. Local community groups including the Gowanus Canal Conservancy, the Gowanus Dredgers Canoe Club and Proteus Gowanus pooled resources to do some fun mapping and clean water advocacy.
 

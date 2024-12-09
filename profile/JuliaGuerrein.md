@@ -3,6 +3,8 @@ uid: 796025
 created_at: 2022-04-20 19:10:15 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/796025/medium/Julia_Guerrein.jpg)
+
 # JuliaGuerrein
 
 Julia Guerrein (she/her) was the Environmental Policy Fellow for Minnesota Land and Wild Rice Protection Project.

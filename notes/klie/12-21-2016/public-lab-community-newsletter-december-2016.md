@@ -8,11 +8,15 @@ uid: 441262
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/019/100/original/Screen_Shot_2016-12-17_at_9.01.46_AM.png)
+
 # Public Lab Community Newsletter: December 2016
 
 by [klie](../profile/klie) December 21, 2016 18:53
 
 December 21, 2016 18:53 | Tags: [balloon-mapping](../tag/balloon-mapping), [newsletter](../tag/newsletter), [barnraising](../tag/barnraising), [lumcon](../tag/lumcon), [urban-planning](../tag/urban-planning), [refugeecamps](../tag/refugeecamps), [bourjalshamali](../tag/bourjalshamali), [barnraising-2016](../tag/barnraising-2016)
+
+----
 
 ####**How It Works: Newsletter Relaunch**
 We've relaunched the newsletter and will be sending it out monthly, in addition to sharing it on publiclab.org in the format below! If you previously received them through our main mailing list, please note that you must **[subscribe here if you want to continue receiving them in the future](https://confirmsubscription.com/h/d/280EC1B40351B40B)**. 

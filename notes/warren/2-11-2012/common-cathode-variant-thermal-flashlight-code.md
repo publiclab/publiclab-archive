@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/22.jpg)
+
 # Common cathode variant of Thermal Flashlight code
 
 by [warren](../profile/warren) February 12, 2012 02:08
 
 February 12, 2012 02:08 | Tags: [thermal-photography](../tag/thermal-photography), [thermal-flashlight](../tag/thermal-flashlight), [led](../tag/led), [response:625](../tag/response:625), [activity:thermal-flashlight](../tag/activity:thermal-flashlight)
+
+----
 
 For [Thermal Flashlights](/tool/thermal-photography), if your LED is not turning on, you may have the inverse type, where the shared longer pin actually needs to be connected to negative, not positive (or vice versa).
 

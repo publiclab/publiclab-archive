@@ -8,11 +8,15 @@ uid: 510171
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/020/974/original/maxresdefault.jpg)
+
 # EDDI - Eletrodialysis Desalinator for Desalination
 
 by [mienaikoe](../profile/mienaikoe) July 01, 2017 16:05
 
 July 01, 2017 16:05 | Tags: [water-quality](../tag/water-quality), [water](../tag/water), [desalination](../tag/desalination)
+
+----
 
 ###Smart Electrodialysis
 

@@ -14,6 +14,8 @@ by [sara](../profile/sara) February 16, 2012 17:28
 
 February 16, 2012 17:28 | Tags: 
 
+----
+
 One problem frequently being encountered with the thermal flashlight is understanding how colors of light are assigned to particular temperatures. This is particularly confusing because the process of color mapping depends on weather one is working with a common cathode or common anode three color led. 
 
 The aspect of the code that controls color mapping reads:

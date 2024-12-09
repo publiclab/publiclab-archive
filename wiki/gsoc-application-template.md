@@ -14,6 +14,8 @@ by [warren](../profile/warren), [liz](../profile/liz)
 
 March 07, 2012 21:01 | Tags: [gsoc](../tag/gsoc), [parent:gsoc](../tag/parent:gsoc)
 
+----
+
 (This template is for students applying to summer code programs with Public Lab. Use this link to start writing a post: https://publiclab.org/post?n=899&tags=soc,soc-2019,soc-2019-proposals You can delete this line once you've started filling it out.)
 
 ****

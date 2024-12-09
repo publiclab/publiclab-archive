@@ -14,6 +14,8 @@ by [suman](../profile/suman) March 25, 2017 10:33
 
 March 25, 2017 10:33 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [nrg](../tag/nrg), [ndvi](../tag/ndvi), [infrared](../tag/infrared), [infragram](../tag/infragram), [infrablue](../tag/infrablue), [question:general](../tag/question:general)
 
+----
+
 Dear All, 
               I am a graduate student doing a research on cheap modified infrared camera for plant health monitoring (NDVI) attached to UAV. I have a mobius actioncam modified infrared with standard 87 mm A lens. 
 

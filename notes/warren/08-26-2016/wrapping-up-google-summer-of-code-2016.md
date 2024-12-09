@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/017/774/original/Screenshot_2016-08-26_at_11.44.16_AM.png)
+
 # Wrapping up Google Summer of Code 2016!
 
 by [warren](../profile/warren) August 26, 2016 15:47
 
 August 26, 2016 15:47 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [web](../tag/web), [blog](../tag/blog), [developers](../tag/developers), [coding](../tag/coding), [wwg](../tag/wwg), [seeks:responses](../tag/seeks:responses), [gsoc-2016](../tag/gsoc-2016), [webjack](../tag/webjack), [new-contributors](../tag/new-contributors)
+
+----
 
 We've had some tremendous work on Public Lab software this past summer through our Google-supported [Google Summer of Code][1] program, where five students and several mentors have spent innumerable hours cooking up new features and abilities both on the PublicLab website and in the independent #webjack project.
 

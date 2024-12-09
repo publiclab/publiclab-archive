@@ -14,6 +14,8 @@ by [filimon_k](../profile/filimon_k) December 13, 2015 20:20
 
 December 13, 2015 20:20 | Tags: 
 
+----
+
 Ozone sensor:
 1) Equipment used: 
 -MiCS-2614 sensor in MiCS-2610 footprint (can be purchased from 

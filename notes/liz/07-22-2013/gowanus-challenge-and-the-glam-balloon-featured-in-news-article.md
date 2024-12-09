@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/000/889/original/2013_15_June_Gowanus_Dredges_Canoe_Club_Challenge_Race_The_Destination_pic_by_Eymund.JPG)
+
 # Gowanus Challenge and the GLAM balloon featured in news article
 
 by [liz](../profile/liz) July 22, 2013 19:40
 
 July 22, 2013 19:40 | Tags: [new-york-city](../tag/new-york-city), [gowanus](../tag/gowanus), [great-photos](../tag/great-photos)
+
+----
 
 The Gowanus Challenge (http://www.gowanuscanal.org/race/) is described by the Gowanus Dredgers Canoe Club: 
 _"The race is historic because, to the best of our knowledge… this is the first race where entire course, and the ensuing awards banquet will be held completely on a US Government sanctioned Superfund site."_

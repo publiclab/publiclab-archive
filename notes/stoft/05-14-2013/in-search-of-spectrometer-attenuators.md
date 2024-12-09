@@ -8,11 +8,15 @@ uid: 54025
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/000/267/original/FilterTypes.jpg)
+
 # In Search of Spectrometer Attenuators
 
 by [stoft](../profile/stoft) May 14, 2013 08:33
 
 May 14, 2013 08:33 | Tags: [spectrometer](../tag/spectrometer), [intensity-calibration](../tag/intensity-calibration), [desktop-spectrometry-kit](../tag/desktop-spectrometry-kit), [slit](../tag/slit), [improvements](../tag/improvements), [focus](../tag/focus), [response:7226](../tag/response:7226), [response:7507](../tag/response:7507), [hdr](../tag/hdr), [attenuation](../tag/attenuation)
+
+----
 
 As referenced in a previous Note: http://publiclab.org/notes/stoft/05-14-2013/in-search-of-spectrometer-measurement-and-calibration , here are some observations on adding external attenuation for the spectrometer's incoming light. As most have probably observed, it is difficult to adjust the light level to provide a strong signal while avoiding RGB saturation.
 

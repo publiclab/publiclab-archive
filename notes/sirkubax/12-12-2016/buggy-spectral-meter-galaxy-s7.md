@@ -8,11 +8,15 @@ uid: 499666
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/019/026/original/2016-12-12_22.32.56.jpg)
+
 # Buggy spectral meter? Galaxy S7...
 
 by [sirkubax](../profile/sirkubax) December 12, 2016 21:44
 
 December 12, 2016 21:44 | Tags: [spectrometer](../tag/spectrometer), [spectralworkbench](../tag/spectralworkbench), [red](../tag/red), [uvc](../tag/uvc), [save](../tag/save), [question:general](../tag/question:general)
+
+----
 
 I've just build the tool from the kit that I've ordered.
 

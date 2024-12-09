@@ -3,6 +3,8 @@ uid: 818333
 created_at: 2022-10-31 15:01:15 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/191495117649ab61e9e61b6f304d3429)
+
 # danbadannatacha
 
 

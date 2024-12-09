@@ -14,6 +14,8 @@ by [david_uwi](../profile/david_uwi) September 30, 2016 12:35
 
 September 30, 2016 12:35 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [homemade-spectrometer](../tag/homemade-spectrometer), [first-time-poster](../tag/first-time-poster)
 
+----
+
 380-930 nm resolution about 4 nm. Cost < 50GBP
 Fully self contained (battery powered). With color display (240x320) and SD card slot.
 Image shows spectrum of a didymium filter (wavelenght calibration)

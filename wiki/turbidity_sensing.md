@@ -8,11 +8,15 @@ uid: 43651
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/018/140/original/turbidimeter_designs.png)
+
 # turbidity_sensing
 
 by [warren](../profile/warren), [donblair](../profile/donblair)
 
 September 24, 2016 01:51 | Tags: [water](../tag/water), [turbidity](../tag/turbidity), [riffle](../tag/riffle), [open-water](../tag/open-water), [upgrade:riffle](../tag/upgrade:riffle), [parent:turbidity](../tag/parent:turbidity)
+
+----
 
 # Turbidity sensor prototype
 

@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/001/025/original/2013-08-05-133414.jpg)
+
 # More Infragram sample webcam tests
 
 by [warren](../profile/warren) August 05, 2013 18:37
 
 August 05, 2013 18:37 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [infragram](../tag/infragram), [infragram-conversion](../tag/infragram-conversion), [infragram-camera-testing](../tag/infragram-camera-testing)
+
+----
 
 Following up on [my recent posts on Infragram tests](/tag/infragram-conversion), I just received a new sample, of this webcam:
 

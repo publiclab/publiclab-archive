@@ -8,11 +8,15 @@ uid: 741338
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/043/276/original/gsoc.png)
+
 # GSoC Proposal : Tag/Topic System Refinements
 
 by [17sushmita](../profile/17sushmita) April 12, 2021 22:32
 
 April 12, 2021 22:32 | Tags: [gsoc](../tag/gsoc), [location:blurred](../tag/location:blurred), [lat:28](../tag/lat:28), [lon:77](../tag/lon:77), [place:india](../tag/place:india), [first-time-poster](../tag/first-time-poster), [zoom:6](../tag/zoom:6), [gsoc-2021-proposals](../tag/gsoc-2021-proposals)
+
+----
 
 Note: Feedback is welcomed. I have collected some resources that I think will be helpful during this project [https://docs.google.com/document/d/1TEj_u99Zp1ktO8eNtORsJhLRtU3dWeltflxpAWMueWM/edit?usp=sharing][1]
 

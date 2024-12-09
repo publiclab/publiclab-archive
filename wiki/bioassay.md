@@ -8,11 +8,15 @@ uid: 664477
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/042/810/original/Lettuce_seeds_germinating.jpg)
+
 # Bioassay
 
 by [alejobonifacio](../profile/alejobonifacio), [bhamster](../profile/bhamster), [laurel_mire](../profile/laurel_mire)
 
 February 25, 2021 22:25 | Tags: [diy-bio](../tag/diy-bio), [soil](../tag/soil), [water-quality](../tag/water-quality), [bioassay](../tag/bioassay), [method](../tag/method), [soil-contamination](../tag/soil-contamination), [bioluminescence](../tag/bioluminescence), [effect-based-test](../tag/effect-based-test)
+
+----
 
 _Lead image: Sprouting lettuce seeds, [Rasbak](https://commons.wikimedia.org/wiki/File:Sla-kiemend.jpg), [CC BY SA](https://creativecommons.org/licenses/by-sa/3.0/deed.en)_
 
@@ -135,13 +139,13 @@ BUT! <b>Is it possible to break this method down into separate components and ma
 
 ## Questions
 
-[questions:bioassay]
+[bioassay](../../tag/question:bioassay)
 
 <br>
 
 ## Research notes
 
-[notes:bioassay]
+[bioassay](../../tag/bioassay)
 
 <br>
 
@@ -153,7 +157,7 @@ BUT! <b>Is it possible to break this method down into separate components and ma
 
 ## Activities
 
-[activities:bioassay]
+[bioassay](../../tag/activity:bioassay)
 
 <br>
 

@@ -8,11 +8,15 @@ uid: 420408
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/007/000/original/CORTE_A076_2014_07_18_IR.jpg)
+
 # Modified camera with 25A red filter - NDVI needs calibration- Any Ideas?
 
 by [Tbtouaki](../profile/Tbtouaki) September 24, 2014 09:56
 
 September 24, 2014 09:56 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [infrared](../tag/infrared), [infragram](../tag/infragram), [super-red](../tag/super-red), [question:infragram](../tag/question:infragram), [question:white-balance](../tag/question:white-balance)
+
+----
 
 ###What I want to do
 I am trying to measure NDVI with balloon mapping on several burned sites (different time periods after the wildfire).

@@ -12,6 +12,8 @@ uid: 1
 
 January 04, 2019 22:58 | Tags: 
 
+----
+
 <p>By signing up, <b>you agree to the <a href="https://publiclab.org/conduct" target="_blank">Code of Conduct</a></b>, which applies to all online and in-person spaces managed by the Public Lab community and non-profit. You also agree to our <a href="/privacy">Privacy Policy</a> and you agree to <a href="#" onClick="$('#open-sourcing').toggle()">open source the work</a> you publish on this site.</p>
 
 <div id="open-sourcing" style="display:none;">

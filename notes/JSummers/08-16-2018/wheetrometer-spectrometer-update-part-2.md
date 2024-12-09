@@ -8,11 +8,15 @@ uid: 304279
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/026/227/original/board3.png)
+
 # Wheetrometer Spectrometer update: Part 2.
 
 by [JSummers](../profile/JSummers) August 16, 2018 20:57
 
 August 16, 2018 20:57 | Tags: [spectrometer](../tag/spectrometer), [software](../tag/software), [wheetrometer](../tag/wheetrometer)
+
+----
 
 # Goal:
 

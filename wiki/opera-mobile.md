@@ -14,6 +14,8 @@ by [warren](../profile/warren)
 
 October 22, 2012 14:00 | Tags: 
 
+----
+
 There is an issue affecting Spectral Workbench capture on Android phones in the latest Opera Mobile (v12.1). Opera makes previous versions available at:
 
 ftp://ftp.opera.com/pub/opera/android/mobile/

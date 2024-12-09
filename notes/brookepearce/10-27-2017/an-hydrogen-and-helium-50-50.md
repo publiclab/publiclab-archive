@@ -8,11 +8,15 @@ uid: 517046
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/022/117/original/image.jpeg)
+
 # An Hydrogen and helium 50/50 
 
 by [brookepearce](../profile/brookepearce) October 27, 2017 15:21
 
 October 27, 2017 15:21 | Tags: [hydrogen](../tag/hydrogen), [spectrometry](../tag/spectrometry), [helium](../tag/helium), [hidden:response](../tag/hidden:response), [foldable-spec](../tag/foldable-spec), [replication:15121](../tag/replication:15121)
+
+----
 
 ###Event details
 

@@ -14,6 +14,8 @@ by [deepwinter](../profile/deepwinter), [sara](../profile/sara)
 
 June 05, 2012 18:40 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s)
 
+----
+
 This page is for planning experiments with the Rhus platform and mapping H2S detection with photographic strips and draeger tubes.
 
 The goal of this experiment are to combine the Rhus platform for geotagging images with balloon mapping and Hydrogen Sulfide testing.  Rhus would be used to geotag locations of sample strips to maps of the site, along with results. With the aim of producing clickable maps like this:

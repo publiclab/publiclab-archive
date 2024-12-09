@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/023/764/original/Screen_Shot_2018-02-28_at_2.43.12_PM.png)
+
 # Updates from Staten Island Northshore Conservancy
 
 by [liz](../profile/liz) February 28, 2018 20:04
 
 February 28, 2018 20:04 | Tags: 
+
+----
 
 >If we get another Sandy or another Irene, we’re gonna be in big trouble. Any area that already struggles to contain stormwater and / or already has industrial sites is gonna have problems.
 

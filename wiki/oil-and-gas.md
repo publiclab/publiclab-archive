@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/039/462/original/Screen_Shot_2020-05-20_at_9.41.23_AM.png)
+
 # Oil and Gas Accountability Toolkit
 
 by [joyofsoy](../profile/joyofsoy), [stevie](../profile/stevie), [warren](../profile/warren)
 
 February 13, 2017 19:41 | Tags: [oil-spill-toolkit](../tag/oil-spill-toolkit), [toolkits](../tag/toolkits), [parent:toolkits](../tag/parent:toolkits)
+
+----
 
 The Public Lab non-profit hosts the **Oil and Gas Accountability Toolkit**, a collection of resources and a coalition of people working around the world on oil and gas issues. 
 
@@ -125,4 +129,4 @@ We're developing initial soil sampling and monitoring techniques and resources u
 
 ## Questions
 
-[questions:oil-and-gas]
+[oil-and-gas](../../tag/question:oil-and-gas)

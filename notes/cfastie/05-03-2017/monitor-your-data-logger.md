@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/020/374/original/LCD3.gif)
+
 # Monitor your data logger
 
 by [cfastie](../profile/cfastie) May 03, 2017 17:12
 
 May 03, 2017 17:12 | Tags: [arduino](../tag/arduino), [sensors](../tag/sensors), [humidity](../tag/humidity), [data-logging](../tag/data-logging), [arduino-nano](../tag/arduino-nano), [response:14152](../tag/response:14152), [nano-data-logger](../tag/nano-data-logger), [16x2_lcd](../tag/16x2_lcd), [bme280](../tag/bme280), [activity:nano-data-logger](../tag/activity:nano-data-logger)
+
+----
 
 *Above: An LCD module displays the data that are being periodically written to SD card.*
 

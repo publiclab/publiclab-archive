@@ -14,6 +14,8 @@ by [liz](../profile/liz), [warren](../profile/warren)
 
 November 16, 2015 19:25 | Tags: [collaboration](../tag/collaboration), [community](../tag/community), [open-hardware](../tag/open-hardware), [contributing](../tag/contributing)
 
+----
+
 ###Rough Draft
 
 This is a first attempt at a well-documented way for people to post suggested improvements to Public Lab tools, so that they may be integrated into a "base design" -- which will also be the version the [Kits Initiative](/wiki/kits) will produce and ship. [Leave a comment on this post](/notes/warren/11-16-2015/an-open-open-hardware-development-cycle) if you'd like to be involved -- this workflow is evolving!

@@ -14,6 +14,8 @@ by [warren](../profile/warren) October 23, 2018 17:00
 
 October 23, 2018 17:00 | Tags: [website](../tag/website), [software](../tag/software), [code](../tag/code), [wwg](../tag/wwg), [software-outreach](../tag/software-outreach), [soc](../tag/soc), [outreachy](../tag/outreachy), [call-for-proposals](../tag/call-for-proposals), [outreachy-2018](../tag/outreachy-2018), [proposals](../tag/proposals), [call-](../tag/call-)
 
+----
+
 With support from the [DIAL Open Source Center](https://osc.dial.community), we're part of a new fellowship program this year, [Outreachy](http://outreachy.org) -- which recruits software contributors to work on open source projects:
 
 > Outreachy provides three-month internships to work in Free and Open Source Software (FOSS). Interns are paid a stipend of $5,500 and have a $500 travel stipend available to them. Outreachy internship projects may include programming, user experience, documentation, illustration and graphical design, or data science. Interns often find employment after their internship with Outreachy sponsors or in jobs that use the skills they learned during their internship.
@@ -67,12 +69,12 @@ You can also read through past proposals for similar programs here: #call-for-pr
 
 ## Proposals
 
-[notes:outreachy-2018-proposals]
+[outreachy-2018-proposals](../../tag/outreachy-2018-proposals)
 
 ---------
 
 ## Questions
 
-[questions:soc]
+[soc](../../tag/question:soc)
 
 Please ask questions! We're very friendly and we love welcoming new people into our community.

@@ -8,11 +8,15 @@ uid: 380298
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/025/566/original/Formaldehyde-icon-A-2017-1n08u6a-150x150.png)
+
 # SmART-Form Paper Published by Public Health Nursing
 
 by [nshapiro](../profile/nshapiro) July 12, 2018 17:31
 
 July 12, 2018 17:31 | Tags: [georgia](../tag/georgia), [air-quality](../tag/air-quality), [publication](../tag/publication), [public-health](../tag/public-health), [indoor](../tag/indoor), [southeast](../tag/southeast), [smart-form](../tag/smart-form), [community-science](../tag/community-science), [feasibility](../tag/feasibility)
+
+----
 
 We're very pleased to announce that the SmART-Form team has, as of today, published its first paper in the journal _Public Health Nursing_ entitled:
 

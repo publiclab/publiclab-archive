@@ -8,11 +8,15 @@ uid: 420719
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/002/935/original/850_IR_HIST.png)
+
 # NDVI 720nm, 850nm filter two camera setup result.
 
 by [gpenzo](../profile/gpenzo) February 16, 2014 17:01
 
 February 16, 2014 17:01 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [nir](../tag/nir), [canon](../tag/canon)
+
+----
 
 ###What I want to do
 I made a simple test two day with my canon [two camera setup](http://publiclab.org/notes/gpenzo/02-09-2014/nvdi-with-canon-a2500).

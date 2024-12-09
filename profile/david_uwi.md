@@ -3,6 +3,8 @@ uid: 469053
 created_at: 2016-03-28 18:23:36 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/8b42f4b800cf0c8c379b826f0759b08c)
+
 # david_uwi
 
 

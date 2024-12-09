@@ -14,6 +14,8 @@ by [liz](../profile/liz) February 14, 2018 21:53
 
 February 14, 2018 21:53 | Tags: [community](../tag/community), [question:general](../tag/question:general), [question:community](../tag/question:community)
 
+----
+
 Hi everyone, many people aren't able to attend Barnraising but want to follow along from afar. But how? Some ideas i've heard: 
 
 * Broadcast a live stream so others can tune in remotely

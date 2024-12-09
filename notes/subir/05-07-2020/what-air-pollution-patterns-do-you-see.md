@@ -8,11 +8,15 @@ uid: 622299
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/039/309/original/IMGP1779.JPG)
+
 # What air pollution patterns do you see?
 
 by [subir](../profile/subir) May 07, 2020 15:25
 
 May 07, 2020 15:25 | Tags: [open-source](../tag/open-source), [air-quality](../tag/air-quality), [sensors](../tag/sensors), [asia](../tag/asia), [india](../tag/india), [low-cost](../tag/low-cost), [airpollution](../tag/airpollution), [pune](../tag/pune), [location:blurred](../tag/location:blurred), [place:india](../tag/place:india), [pm2.5](../tag/pm2.5), [air-pollution](../tag/air-pollution), [lat:18](../tag/lat:18), [lon:73](../tag/lon:73), [sps30](../tag/sps30), [zoom:6](../tag/zoom:6), [tropics](../tag/tropics), [breathe2](../tag/breathe2)
+
+----
 
 Hi all! best wishes for your safety and well being.
 

@@ -14,6 +14,8 @@ by [harshitha](../profile/harshitha) January 16, 2020 05:42
 
 January 16, 2020 05:42 | Tags: [ndvi](../tag/ndvi), [parrot](../tag/parrot), [sky](../tag/sky), [crop](../tag/crop), [drone](../tag/drone), [red](../tag/red), [pinoir](../tag/pinoir), [purple](../tag/purple), [opencv](../tag/opencv), [dark](../tag/dark), [orange](../tag/orange), [first-time-poster](../tag/first-time-poster), [columns](../tag/columns), [rows](../tag/rows), [compute](../tag/compute), [based](../tag/based), [grey](../tag/grey), [yellow](../tag/yellow), [pink](../tag/pink), [imageprocessing](../tag/imageprocessing), [crophealth](../tag/crophealth), [picam](../tag/picam), [vegetativeindex](../tag/vegetativeindex)
 
+----
+
 Hello... I am an engineering student working on a project based on NDVI calculation to monitor crop health. I used the PiNoIR camera with a blue filter for my experiment in order to obtain the values of the NIR and the Red region. I used the following code to extract the required values and to calculate the NDVI. But in the output image, the empty regions (the area where no leaves are present as shown in the below figure) and ground have higher NDVI values. The shadowed regions are shown in the range from 0.5 to 0.6\. I wanted to know whether the output is correct and what corrections can be done in the -code in order to correct the error. The code is given below.  
 
 from PIL import Image

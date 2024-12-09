@@ -14,6 +14,8 @@ by [jneish](../profile/jneish) July 10, 2018 18:25
 
 July 10, 2018 18:25 | Tags: [spectrometry](../tag/spectrometry), [tool](../tag/tool), [question:spectrometry](../tag/question:spectrometry), [question:general](../tag/question:general), [method](../tag/method), [chemicals](../tag/chemicals), [oil-and-gas](../tag/oil-and-gas), [solid](../tag/solid), [first-time-poster](../tag/first-time-poster)
 
+----
+
 I am wondering what light source is best for the lego spectrometer - I remember an old writeup discussing halogen bulbs and fluorescing laser pointers. Are these still suggested?
 
   

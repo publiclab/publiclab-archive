@@ -14,4 +14,6 @@ by [makayla_thomas](../profile/makayla_thomas) April 27, 2021 19:36
 
 April 27, 2021 19:36 | Tags: [community](../tag/community), [question:general](../tag/question:general), [general](../tag/general), [first-time-poster](../tag/first-time-poster)
 
+----
+
 In our everyday lives, we regular people do a lot of activities that hurt our community and that helps our community , that we don't even notice, but what are some you can think back on and identify?

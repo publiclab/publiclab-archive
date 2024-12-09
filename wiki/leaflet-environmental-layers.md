@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/026/431/original/Screen_Shot_2018-09-04_at_1.49.10_PM.png)
+
 # Leaflet Environmental Layers
 
 by [warren](../profile/warren)
 
 September 04, 2018 17:27 | Tags: [leaflet-environmental-layers](../tag/leaflet-environmental-layers)
+
+----
 
 Leaflet Environmental Layers is a plugin for the Leaflet web mapping library, which makes it possible to view many different sources of environmental data on a single unified map. 
 
@@ -44,14 +48,14 @@ Existing layer requests are here: https://github.com/publiclab/leaflet-environme
 
 ## Questions
 
-[questions:leaflet-environmental-layers]
+[leaflet-environmental-layers](../../tag/question:leaflet-environmental-layers)
 
 ## Activities
 
-[activities:leaflet-environmental-layers]
+[leaflet-environmental-layers](../../tag/activity:leaflet-environmental-layers)
 
 ****
 
 ## Updates
 
-[notes:leaflet-environmental-layers!question:leaflet-environmental-layers]
+[leaflet-environmental-layers!question:leaflet-environmental-layers](../../tag/leaflet-environmental-layers!question:leaflet-environmental-layers)

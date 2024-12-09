@@ -8,11 +8,15 @@ uid: 297929
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/042/045/original/Screen_Shot_2020-12-16_at_3.52.58_PM.png)
+
 # How to read a Permit Application
 
 by [kgradow1](../profile/kgradow1) December 16, 2020 20:54
 
 December 16, 2020 20:54 | Tags: [air-quality](../tag/air-quality), [water-quality](../tag/water-quality), [bucket-brigade](../tag/bucket-brigade), [new](../tag/new), [soil-testing](../tag/soil-testing), [draft](../tag/draft), [activity:air-quality](../tag/activity:air-quality), [activity:new](../tag/activity:new), [lon:-71](../tag/lon:-71), [lat:42](../tag/lat:42), [zoom:6](../tag/zoom:6), [bucket-monitor](../tag/bucket-monitor), [activity:bucket-monitor](../tag/activity:bucket-monitor), [statistics-for-action](../tag/statistics-for-action)
+
+----
 
 Adapted from the [Statistics for Action Air Quality Unit](https://sfa.terc.edu/materials/activities.html) ["A First Look at Technical Documents"](https://sfa.terc.edu/materials/pdfs/a_first_look_at_technical_documents.pdf) and generously shared with permission. You can access a printable version of this guide at [sfa.terc.edu](https://sfa.terc.edu/materials/pdfs/a_first_look_at_technical_documents.pdf)
 

@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/5396892754_221d12acf6_b.jpg)
+
 # Roomba indoor air-quality sensing by RISD students
 
 by [warren](../profile/warren) January 30, 2011 20:52
 
 January 30, 2011 20:52 | Tags: 
+
+----
 
 See more:
 

@@ -8,11 +8,15 @@ uid: 526768
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/023/831/original/LightForPublicLab.jpg)
+
 # SmART-FORM Badge Lighting Analysis Experiments
 
 by [haines241](../profile/haines241) March 06, 2018 15:52
 
 March 06, 2018 15:52 | Tags: [image-processing](../tag/image-processing), [air-quality](../tag/air-quality), [air](../tag/air), [app](../tag/app), [smartphone](../tag/smartphone), [quality](../tag/quality), [barnstar:basic](../tag/barnstar:basic), [formaldehyde](../tag/formaldehyde), [colorimetry](../tag/colorimetry), [indoor-air-quality-monitoring](../tag/indoor-air-quality-monitoring), [indoor-air-quality](../tag/indoor-air-quality), [indoor-air](../tag/indoor-air), [smart-form](../tag/smart-form)
+
+----
 
 ##SmART-FORM Badge Lighting Analysis Experiments
 

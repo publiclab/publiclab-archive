@@ -8,11 +8,15 @@ uid: 1087
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/004/490/original/levi.jpg)
+
 # Ariel Levi Simons
 
 by [levisimons](../profile/levisimons) May 31, 2014 01:33
 
 May 31, 2014 01:33 | Tags: [barnstar:excessive-enthusiasm](../tag/barnstar:excessive-enthusiasm), [first-time-poster](../tag/first-time-poster)
+
+----
 
 I want to build a citizen science network in Los Angeles, integrating both the research and education communities
 

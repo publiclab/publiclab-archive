@@ -8,11 +8,15 @@ uid: 379
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/013/696/original/DSC_0956.JPG)
+
 # Creosote Superfund site in north Picayune, MS
 
 by [eustatic](../profile/eustatic) January 16, 2016 21:08
 
 January 16, 2016 21:08 | Tags: [gulf-coast](../tag/gulf-coast), [balloon-mapping](../tag/balloon-mapping)
+
+----
 
 ###What I want to do
 

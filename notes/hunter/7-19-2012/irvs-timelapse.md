@@ -8,11 +8,15 @@ uid: 317
 
 ---
 
+![](https://publiclab.org/sites/default/files/timelapse_0.png)
+
 # IR+VS TIMELAPSE
 
 by [hunter](../profile/hunter) July 19, 2012 17:56
 
 July 19, 2012 17:56 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [time-lapse](../tag/time-lapse), [timelapse](../tag/timelapse), [activity:timelapse](../tag/activity:timelapse)
+
+----
 
 I am working with two PlantCams to find ways into making a sequential (movie) method for NRG imaging.
 The cameras are rather quirky though, and are proving to be more a step in the right direction than anything else.

@@ -3,6 +3,8 @@ uid: 515081
 created_at: 2017-09-25 18:24:33 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/515081/medium/single1.jpg)
+
 # gauravano
 
 Full-Stack Developer, Programmer, Open Source Enthusiast

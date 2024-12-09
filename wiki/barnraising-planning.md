@@ -14,6 +14,8 @@ by [liz](../profile/liz), [warren](../profile/warren)
 
 May 03, 2013 17:20 | Tags: [barnraising](../tag/barnraising), [list:plots-barnraising](../tag/list:plots-barnraising)
 
+----
+
 A page for organizing upcoming barnraisings. 
 
 The next barnraising is the 2014 Barnraising in November: (no wiki page yet)

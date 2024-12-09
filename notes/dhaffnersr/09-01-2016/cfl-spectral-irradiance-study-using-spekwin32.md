@@ -8,11 +8,15 @@ uid: 461120
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/017/876/original/CFL_lamp_set_up_title_picture.png)
+
 # CFL Spectral Irradiance Study using Spekwin32
 
 by [dhaffnersr](../profile/dhaffnersr) September 01, 2016 13:11
 
 September 01, 2016 13:11 | Tags: 
+
+----
 
 ##10 CFL Scans using a 13W 2300K CFL (LTS brand_Generic)
 

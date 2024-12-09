@@ -8,11 +8,15 @@ uid: 9
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/003/636/original/plots-logo-transparent.jpg)
+
 # Public Lab community newsletter 4.11.14
 
 by [Shannon](../profile/Shannon) April 11, 2014 19:52
 
 April 11, 2014 19:52 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
+
+----
 
 This week in the Public Lab community newsletter, check out some incredible data milestones Public Labbers have reached, join the nonprofit team in Portland and attend meet-ups in Taipei and Washington DC. Enjoy!
 

@@ -14,6 +14,8 @@ by [Shannon](../profile/Shannon) September 16, 2012 18:54
 
 September 16, 2012 18:54 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
 
+----
+
 A quick Sunday morning update from the Public Lab community for everyone! Event announcements for Vermont, New York, California and Louisiana, new maps in the archive and introductions to new sites and projects. 
 
 1. Barn Raising open invite. We sent out a "formal" invite to the Public Lab barn raising in November. If you missed the email, find information [here](http://publiclaboratory.org/notes/shannon/9-13-2012/2012-public-lab-barn-raising-invitation). 

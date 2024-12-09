@@ -14,6 +14,8 @@ by [laurel_mire](../profile/laurel_mire), [liz](../profile/liz), [warren](../pro
 
 November 29, 2017 16:16 | Tags: [website](../tag/website), [introduction](../tag/introduction), [newcomers](../tag/newcomers), [basics](../tag/basics), [parent:website](../tag/parent:website)
 
+----
+
 This page collects some basic introduction and guidance to using the Public Lab website. There are many ways to use the site, but this page focuses on supporting newcomers.
 
 ## Purpose
@@ -113,4 +115,4 @@ If you wish, browse all tags at https://publiclab.org/tags
 
 If you have questions about the website, please ask here!
 
-[questions:website]
+[website](../../tag/question:website)

@@ -14,6 +14,8 @@ by [mitchelljj](../profile/mitchelljj) March 10, 2012 12:11
 
 March 10, 2012 12:11 | Tags: [mapknitter](../tag/mapknitter), [rectification](../tag/rectification)
 
+----
+
 Using your software can I register ground center points for a shape file against a base raster image file?
 
 Thanks,

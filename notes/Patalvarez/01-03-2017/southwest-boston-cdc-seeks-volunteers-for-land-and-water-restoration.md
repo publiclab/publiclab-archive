@@ -8,11 +8,15 @@ uid: 500512
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/019/189/original/Tree_Just_Planted!.jpg)
+
 # Southwest Boston CDC seeks volunteers for land and water restoration
 
 by [Patalvarez](../profile/Patalvarez) January 03, 2017 15:26
 
 January 03, 2017 15:26 | Tags: [boston](../tag/boston), [northeast](../tag/northeast), [neponset](../tag/neponset)
+
+----
 
 ****
 

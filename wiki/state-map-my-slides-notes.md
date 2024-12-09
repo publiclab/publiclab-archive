@@ -14,6 +14,8 @@ by [mathew](../profile/mathew)
 
 October 15, 2012 22:33 | Tags: [balloon-mapping](../tag/balloon-mapping), [grassrootsmapping](../tag/grassrootsmapping), [kite-aerial-photography](../tag/kite-aerial-photography), [open-street-map](../tag/open-street-map), [osm](../tag/osm)
 
+----
+
 I was at State of the Map US all weekend (Oct 13-14, 2012).  Many wonderful presentations on OSM, check out the notes especially on storytelling and historical maps, which hold lessons and collaboration suggestions for us as we review map annotation.
 
 -------------------------

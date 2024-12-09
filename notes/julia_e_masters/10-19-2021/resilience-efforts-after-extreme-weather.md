@@ -14,6 +14,8 @@ by [julia_e_masters](../profile/julia_e_masters) October 19, 2021 17:17
 
 October 19, 2021 17:17 | Tags: [organizing](../tag/organizing), [weather](../tag/weather), [advocacy](../tag/advocacy), [response:14802](../tag/response:14802), [extreme](../tag/extreme)
 
+----
+
 After extreme weather and other disasters hit, there is often a scramble to organize resources, activate volunteer bases, and mobilize coordinated responses and support. However, despite the best proactive planning, the reality of on-the-ground disaster relief is challenging. In this research note, we will pull together a range of support, through organizations working directly with and for communities to online resources to implement in your own communities moving forward.
 
 - Recently, in the aftermath of Hurricane Ida, Healthy Gulf launched an [Ida Lookout](https://cartosco.pe/kioskProject.html#/kioskStart/Ou9nXNDyuLPm "https://cartosco.pe/kioskProject.html#/kioskStart/Ou9nXNDyuLPm"), open-data project to help identify flooded oil and gas facilities and oil spills using community-driven inputs. This will be used to hold corporations accountable and inform strategy in organizing moving forward.

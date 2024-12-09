@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/024/052/original/Screenshot_2017-12-12_at_6.14.56_PM.png)
+
 # Community Toolbox
 
 by [warren](../profile/warren), [Bronwen](../profile/Bronwen), [icarito](../profile/icarito), [bigdaw](../profile/bigdaw)
 
 March 14, 2018 17:19 | Tags: [community](../tag/community), [software](../tag/software), [wwg](../tag/wwg), [first-timers-only](../tag/first-timers-only), [welcoming](../tag/welcoming), [community-toolbox](../tag/community-toolbox)
+
+----
 
 Community Toolbox is a [welcome page](/software-outreach) system for GitHub-based open source software projects, and a growing set of tools to understand and welcome people into a software contributor community. It was created by Public Lab's [Web Working Group](/wwg).
 
@@ -34,5 +38,5 @@ https://github.com/publiclab/community-toolbox/
 
 ## Questions?
 
-[questions:community-toolbox]
+[community-toolbox](../../tag/question:community-toolbox)
 

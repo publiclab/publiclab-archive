@@ -8,11 +8,15 @@ uid: 379
 
 ---
 
+![](https://publiclab.org/sites/default/files/bayou manchac sewer outful.jpg)
+
 # Bayou Manchac map of sewerage problem
 
 by [eustatic](../profile/eustatic) February 05, 2013 16:52
 
 February 05, 2013 16:52 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [annotated-maps](../tag/annotated-maps), [map-aesthetics](../tag/map-aesthetics)
+
+----
 
 Re: our discussion of design aesthetics
 

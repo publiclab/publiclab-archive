@@ -8,11 +8,15 @@ uid: 304279
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/003/203/original/data_analyzed.png)
+
 # Quantifying Airborne Hydrogen Sulfide
 
 by [JSummers](../profile/JSummers) March 10, 2014 20:49
 
 March 10, 2014 20:49 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [calibration](../tag/calibration), [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s), [wheestat](../tag/wheestat), [h2s-detection-method](../tag/h2s-detection-method), [h2s-potentiometry](../tag/h2s-potentiometry), [potentiometer](../tag/potentiometer), [potentiometry](../tag/potentiometry)
+
+----
 
 ###Authors
 Jack Summers, Alexandra Shuey and Taylor Royalty

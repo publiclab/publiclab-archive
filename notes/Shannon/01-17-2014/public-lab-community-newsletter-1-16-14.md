@@ -8,11 +8,15 @@ uid: 9
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/002/579/original/plots-logo-transparent.jpg)
+
 # Public Lab community newsletter 1.16.14
 
 by [Shannon](../profile/Shannon) January 17, 2014 20:20
 
 January 17, 2014 20:20 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
+
+----
 
 This week in the Public Lab community newsletter, learn more about the launch of the Homebrew Sensing Project, join a new mailing list for Public Lab Los Angeles and get ready for Toolshed Raising part 2 in Boston. Enjoy!
 

@@ -8,11 +8,15 @@ uid: 461120
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/016/587/original/red_led_june11.bmp)
+
 # Tested 3 High Powered LEDs Red, Blue and Violet (UV)
 
 by [dhaffnersr](../profile/dhaffnersr) June 11, 2016 16:55
 
 June 11, 2016 16:55 | Tags: 
+
+----
 
 I made a new power supply for my LEDs, and wanted to test it out so here are the results of that test:
 

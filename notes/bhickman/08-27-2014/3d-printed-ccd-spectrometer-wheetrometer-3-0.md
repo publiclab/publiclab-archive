@@ -8,11 +8,15 @@ uid: 201929
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/006/445/original/WP_20140825_001.jpg)
+
 # 3D Printed CCD Spectrometer (WheeTrometer 3.0)
 
 by [bhickman](../profile/bhickman) August 27, 2014 08:49
 
 August 27, 2014 08:49 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [cuvette](../tag/cuvette), [3d-printing](../tag/3d-printing), [barnstar:basic](../tag/barnstar:basic)
+
+----
 
 ##What we want to do:
 We want to provide an open source and affordable CCD photodiode array spectrometer. The goal is to have 1 nm wavelength resolution and 12 bit intensity resolution. 

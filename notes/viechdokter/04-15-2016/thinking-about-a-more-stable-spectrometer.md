@@ -8,11 +8,15 @@ uid: 468990
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/015/564/original/more_stable_spectrometer_plan_header.jpg)
+
 # Thinking about a more stable spectrometer...
 
 by [viechdokter](../profile/viechdokter) April 15, 2016 20:20
 
 April 15, 2016 20:20 | Tags: [spectrometer](../tag/spectrometer), [design](../tag/design), [barnstar:basic](../tag/barnstar:basic), [stability](../tag/stability), [setup](../tag/setup), [rigidness](../tag/rigidness)
+
+----
 
 I read a lot about a more rigid setup of the PLab spectrometer in this forum. So I thought about how to avoid the velcro- and paper instabilities and came up with this idea:
 

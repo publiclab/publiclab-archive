@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/028/034/original/Dtgk1ooXoAA2le6.jpg)
+
 # OpenHour: Usability Feedback for PublicLab.org
 
 by [warren](../profile/warren) December 03, 2018 19:52
 
 December 03, 2018 19:52 | Tags: [event](../tag/event), [design](../tag/design), [openhour](../tag/openhour), [feedback](../tag/feedback), [ui](../tag/ui)
+
+----
 
 Just sharing notes from our really great OpenHour on Usability! So many good ideas and identified issues... we'll have to have meet-ups like this on a regular basis!
 

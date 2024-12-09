@@ -8,11 +8,15 @@ uid: 579821
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/034/319/original/Screen_Shot_2019-08-05_at_2.41.03_PM.png)
+
 # Trawling with BabyLegs in New Orleans City Park!
 
 by [mimiss](../profile/mimiss) August 05, 2019 19:46
 
 August 05, 2019 19:46 | Tags: [new-orleans](../tag/new-orleans), [water-quality](../tag/water-quality), [barnstar:excessive-enthusiasm](../tag/barnstar:excessive-enthusiasm), [micro-plastics](../tag/micro-plastics), [microplastics](../tag/microplastics), [babylegs](../tag/babylegs), [trawl](../tag/trawl), [baby-legs](../tag/baby-legs), [lat:29.993002](../tag/lat:29.993002), [lon:-90.08789](../tag/lon:-90.08789)
+
+----
 
 Hello from New Orleans! 
 

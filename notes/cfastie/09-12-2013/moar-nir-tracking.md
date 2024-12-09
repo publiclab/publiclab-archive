@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/001/496/original/NIRLED-225-6-Edit.jpg)
+
 # Moar NIR tracking
 
 by [cfastie](../profile/cfastie) September 12, 2013 02:58
 
 September 12, 2013 02:58 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [vermont](../tag/vermont), [infrared](../tag/infrared), [leaffest](../tag/leaffest), [infragram](../tag/infragram), [histogram](../tag/histogram), [led](../tag/led), [leaffest2013](../tag/leaffest2013), [frosted-globe](../tag/frosted-globe)
+
+----
 
 *Image above: An NIR LED under tungsten light. The faint purple glow of the LED can be discerned in this photo from an unmodified camera (Powershot A495, ISO 200, 1/4 second, f 3.0).*  
 

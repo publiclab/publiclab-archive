@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/IMG_20120515_164601.jpg)
+
 # Annotated maps roundup
 
 by [warren](../profile/warren) May 15, 2012 20:52
 
 May 15, 2012 20:52 | Tags: [balloon-mapping](../tag/balloon-mapping), [annotated-maps](../tag/annotated-maps)
+
+----
 
 Several people have been interested in an "annotated maps" feature for MapKnitter and the PLOTS archive. It seems like there are a few possible next steps. 
 

@@ -8,11 +8,15 @@ uid: 525175
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/024/963/original/IMG_20180516_095400_505.jpg)
+
 # Introducing the SERC Manual
 
 by [AyakoM](../profile/AyakoM) May 16, 2018 17:03
 
 May 16, 2018 17:03 | Tags: [events](../tag/events), [civic-event](../tag/civic-event), [organizing](../tag/organizing), [guide](../tag/guide), [blog](../tag/blog), [communityengagement](../tag/communityengagement), [manual](../tag/manual), [booklet](../tag/booklet), [booklets](../tag/booklets), [serc](../tag/serc), [ds4si](../tag/ds4si), [socialemergency](../tag/socialemergency), [socialemergencyresponsecenter](../tag/socialemergencyresponsecenter), [sercmanual](../tag/sercmanual), [socialintervention](../tag/socialintervention), [radicallibrary](../tag/radicallibrary), [public-lab-press](../tag/public-lab-press)
+
+----
 
 _The SERC Manual is part of the Public Lab Press, a project to distribute written works from allies and community members and organizations._
 

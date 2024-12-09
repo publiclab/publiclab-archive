@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/019/888/original/gpsOff_20170317-7678ps.jpg)
+
 # The Great GPS Ski-off
 
 by [cfastie](../profile/cfastie) March 18, 2017 23:56
 
 March 18, 2017 23:56 | Tags: [arduino](../tag/arduino), [gps](../tag/gps), [sensors](../tag/sensors), [data-logging](../tag/data-logging), [skypod](../tag/skypod), [response:14020](../tag/response:14020)
+
+----
 
 _Above: The GPS capabilities of these four devices were compared in a non-definitive and poorly controlled real-world test. Left to right: SkyPod datalogger, Android app, Garmin GPSmap76CSx, Canon PowerShot S100\._
 

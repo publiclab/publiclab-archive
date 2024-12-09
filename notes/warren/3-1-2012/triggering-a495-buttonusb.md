@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/dual-a490.jpg)
+
 # Triggering A495 by button/USB
 
 by [warren](../profile/warren) March 01, 2012 21:39
 
 March 01, 2012 21:39 | Tags: 
+
+----
 
 I am having trouble connecting the [555 trigger](http://publiclaboratory.org/notes/warren/2-27-2012/555-trigger-synchronized-dual-cameras) to the A495 camera because the A495's trigger is on a very tiny plastic ribbon, and where it plugs in the leads are miniscule. So I don't think it'll be reasonable for people to open their cameras and attach there.
 

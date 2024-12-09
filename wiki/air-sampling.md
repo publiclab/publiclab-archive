@@ -8,11 +8,15 @@ uid: 422561
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/021/921/original/Screen_Shot_2017-10-11_at_4.57.12_PM.png)
+
 # Air Sampling
 
 by [liz](../profile/liz), [bhamster](../profile/bhamster), [kgradow1](../profile/kgradow1), [warren](../profile/warren), [stevie](../profile/stevie)
 
 October 11, 2017 16:34 | Tags: [air-quality](../tag/air-quality), [air](../tag/air), [benzene](../tag/benzene), [open-air](../tag/open-air), [bucket-brigade](../tag/bucket-brigade), [method](../tag/method), [parent:sampling](../tag/parent:sampling), [bucket](../tag/bucket), [air-sampling](../tag/air-sampling), [summa-canisters](../tag/summa-canisters), [grab-samples](../tag/grab-samples), [dichloromethane](../tag/dichloromethane), [perchloroethylene](../tag/perchloroethylene), [toluene](../tag/toluene)
+
+----
 
 _This page collects resources, questions, and requests related to air sampling. Please edit the page to add information or resources._ 
 
@@ -33,14 +37,14 @@ Air samples typically fall into one of five categories: [indoor air](https://pub
 
 ## Questions
 
-[questions:air-sampling]
+[air-sampling](../../tag/question:air-sampling)
 
 
 ****
 
 ## Activities
 
-[activities:air-sampling]
+[air-sampling](../../tag/activity:air-sampling)
  
 ****
 

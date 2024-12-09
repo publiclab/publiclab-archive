@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/023/785/original/diagram-6-steps.png)
+
 # Image Sequencer
 
 by [liz](../profile/liz), [warren](../profile/warren)
 
 March 01, 2018 19:36 | Tags: [ndvi](../tag/ndvi), [image-compositing](../tag/image-compositing), [infrared](../tag/infrared), [image-processing](../tag/image-processing), [image-analysis](../tag/image-analysis), [method](../tag/method), [parent:infrared-software](../tag/parent:infrared-software)
+
+----
 
 Image Sequencer is an online tool for image processing -- based on the idea of a storyboard. Each modification makes a new copy of the image, resulting in a series of images showing each step. It is designed for use in browsers, as well as on the [Raspberry Pi](/pi-camera). This project is supported in part by the [NASA AREN project](/aren)
 
@@ -40,13 +44,13 @@ Check out the Image Sequencer User Manual by @MaggPi: https://github.com/Margare
 
 ## Activities
 
-[activities:image-sequencer]
+[image-sequencer](../../tag/activity:image-sequencer)
 
 ****
 
 ## Questions
 
-[questions:image-sequencer]
+[image-sequencer](../../tag/question:image-sequencer)
 
 ****
 

@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/013/165/original/ScreenShot.JPG)
+
 # Testing MIDOPT filters
 
 by [cfastie](../profile/cfastie) December 03, 2015 03:54
 
 December 03, 2015 03:54 | Tags: [ndvi](../tag/ndvi), [infrared](../tag/infrared), [filter](../tag/filter), [infragram](../tag/infragram), [plant-health](../tag/plant-health), [dualband](../tag/dualband), [midopt](../tag/midopt), [response:12442](../tag/response:12442)
+
+----
 
 *Above: A folder full of photos of the same scene taken with different filters and different white balance settings.*
 

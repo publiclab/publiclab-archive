@@ -8,11 +8,15 @@ uid: 9
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/004/289/original/plots-logo-transparent.jpg)
+
 # Public Lab community newsletter 5.18.14
 
 by [Shannon](../profile/Shannon) May 19, 2014 01:13
 
 May 19, 2014 01:13 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
+
+----
 
 In the Public Lab community newsletter this week, make your reservation for the 2014 Spring Barnraising in Massachusetts, check out a feature on Public Lab in Forbes and learn more about the most radioactive place in NYC. Enjoy!
 

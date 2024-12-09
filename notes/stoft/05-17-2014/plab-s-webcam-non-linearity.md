@@ -8,11 +8,15 @@ uid: 54025
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/004/288/original/Plot-1.jpg)
+
 # PLab's WebCam (Non)Linearity
 
 by [stoft](../profile/stoft) May 17, 2014 08:00
 
 May 17, 2014 08:00 | Tags: [spectrometer](../tag/spectrometer), [quantitative](../tag/quantitative), [linearity](../tag/linearity), [intensity](../tag/intensity)
+
+----
 
 We all know that when looking at the spectrometer's color band, and the associated spectral response curve that the curve moves up as the light source gets brighter. However, it is not obvious whether or not the measured value increases by the same percentage, or ratio, as the light intensity from the source. So, how do we find out?
 

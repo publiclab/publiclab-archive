@@ -14,6 +14,8 @@ by [fouadalnoor](../profile/fouadalnoor) September 28, 2016 19:00
 
 September 28, 2016 19:00 | Tags: [question:spectrometry](../tag/question:spectrometry), [question:bacteria](../tag/question:bacteria)
 
+----
+
 ###What I want to do or know
 What CCD sensor (or other sensor?) that could be used to detect the spectra of very small organisms such as bacteria or viruses?
 ###Background story

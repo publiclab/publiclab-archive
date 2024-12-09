@@ -14,4 +14,6 @@ by [sound](../profile/sound) March 20, 2020 13:24
 
 March 20, 2020 13:24 | Tags: [spectrometer](../tag/spectrometer), [lego](../tag/lego), [question:general](../tag/question:general), [general](../tag/general), [first-time-poster](../tag/first-time-poster)
 
+----
+
 I want to measure solid samples or chromatography paper samples. Can I mount them on the cuvette holder and measure?

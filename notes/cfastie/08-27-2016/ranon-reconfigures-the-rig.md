@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/017/776/original/RecoRig_20o20_2k.jpg)
+
 # Ranon reconfigures the rig
 
 by [cfastie](../profile/cfastie) August 27, 2016 03:30
 
 August 27, 2016 03:30 | Tags: [balloon-mapping](../tag/balloon-mapping), [vermont](../tag/vermont), [kite-aerial-photography](../tag/kite-aerial-photography), [polemapping](../tag/polemapping), [kap](../tag/kap), [autokap](../tag/autokap), [landscape](../tag/landscape), [kap-rigs](../tag/kap-rigs), [reconfigurable-rig](../tag/reconfigurable-rig), [response:13267](../tag/response:13267), [category:test-limits](../tag/category:test-limits), [activity:camera-rigs](../tag/activity:camera-rigs)
+
+----
 
 *Above: Eighteen portrait mode photos taken by a Reconfigurable Rig were stitched into this ~half-spherical panorama. The camera was modified to capture near infrared light.*
 

@@ -3,6 +3,8 @@ uid: 121462
 created_at: 2013-07-08 12:00:29 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/9ef8596788390f3714ae6bbb63ec6f2c)
+
 # philippg
 
 

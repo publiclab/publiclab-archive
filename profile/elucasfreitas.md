@@ -3,6 +3,8 @@ uid: 803723
 created_at: 2022-06-18 19:52:39 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/803723/medium/001.jpg)
+
 # elucasfreitas
 
 

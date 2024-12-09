@@ -14,6 +14,8 @@ by [liz](../profile/liz), [warren](../profile/warren)
 
 July 16, 2011 12:09 | Tags: [fundraising](../tag/fundraising)
 
+----
+
 This page is a top level page for the diverse fundraising activities happening in Public Lab. 
 
 * How the Public Lab nonprofit organization is funded: http://publiclab.org/wiki/how-we-are-funded

@@ -14,6 +14,8 @@ by [joyofsoy](../profile/joyofsoy) June 27, 2019 22:33
 
 June 27, 2019 22:33 | Tags: [fido](../tag/fido), [odor](../tag/odor), [odor-logging](../tag/odor-logging), [csf](../tag/csf), [csf16](../tag/csf16), [with:sarasage](../tag/with:sarasage)
 
+----
+
 **These illustrations by [Sara Sage](https://publiclab.org/profile/sarasage "https://publiclab.org/profile/sarasage") were featured in the centerfold in Public Lab's _Community Science Forum_, Issue 16\.**
 
 ![image description](/i/33305.jpg "ODOR_UNDERGROUND_subway.jpg")

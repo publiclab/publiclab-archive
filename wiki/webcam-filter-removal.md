@@ -14,6 +14,8 @@ by [warren](../profile/warren), [Shannon](../profile/Shannon), [saritawebcam](..
 
 February 02, 2012 14:56 | Tags: [spectrometer](../tag/spectrometer), [infrared](../tag/infrared), [webcam](../tag/webcam), [filter](../tag/filter), [ir-block](../tag/ir-block)
 
+----
+
 This is an old page -- please see this page for more info on converting cameras to infrared:
 
 https://publiclab.org/wiki/infragram-convertible-cameras

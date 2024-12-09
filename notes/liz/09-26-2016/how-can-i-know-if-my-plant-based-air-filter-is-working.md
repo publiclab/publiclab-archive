@@ -14,4 +14,6 @@ by [liz](../profile/liz) September 26, 2016 15:43
 
 September 26, 2016 15:43 | Tags: [question:air-quality](../tag/question:air-quality), [answered](../tag/answered), [question:open-air](../tag/question:open-air), [question:indoor-air-remediation](../tag/question:indoor-air-remediation)
 
+----
+
 I am planning on making https://publiclab.org/notes/nshapiro/09-26-2016/build-a-plant-based-air-purifier, and i'm wondering how i can know if it's even doing anything to improve my indoor air quality?

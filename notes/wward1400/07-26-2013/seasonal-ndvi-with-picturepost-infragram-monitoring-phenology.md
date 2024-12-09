@@ -8,11 +8,15 @@ uid: 46742
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/000/920/original/Infragram_PicturePost_SSC.png)
+
 # Seasonal NDVI with PicturePost & Infragram: Monitoring & Phenology
 
 by [wward1400](../profile/wward1400) July 26, 2013 03:11
 
 July 26, 2013 03:11 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [nrg](../tag/nrg), [nir](../tag/nir), [nasa](../tag/nasa), [community-garden](../tag/community-garden), [infragram](../tag/infragram), [picturepost](../tag/picturepost), [response:8074](../tag/response:8074), [image-analysis](../tag/image-analysis)
+
+----
 
 UNH's PicturePost & the Seacoast Science Center are interested in using Infragram to expand on usage of the [Seacoast Science Center (SSC) PicturePost](http://picturepost.unh.edu/post.jsp?postId=1).  
 

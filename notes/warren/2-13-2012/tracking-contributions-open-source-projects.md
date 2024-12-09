@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/Picture 3_1.png)
+
 # Tracking contributions to open source projects
 
 by [warren](../profile/warren) February 13, 2012 23:54
 
 February 13, 2012 23:54 | Tags: [community](../tag/community)
+
+----
 
 The Document Foundation has been posting regular and extremely thorough analysis/graphs of their growing base of contributors to the open-source LibreOffice project: 
 

@@ -14,6 +14,8 @@ by [warren](../profile/warren)
 
 March 19, 2012 17:06 | Tags: 
 
+----
+
 The PLOTS nonprofit arm received a grant from the Shpilman Institute for Photography, and has to submit updates every 3 months. 
 
 * Sept 2011: https://docs.google.com/document/d/1_mQZHNR9hrq5Xr7SbRilnArKTVMQecWTNJ9jx7JZEAE/edit

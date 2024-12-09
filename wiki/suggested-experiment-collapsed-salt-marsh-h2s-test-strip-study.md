@@ -14,6 +14,8 @@ by [liz](../profile/liz), [deepwinter](../profile/deepwinter)
 
 July 11, 2012 18:45 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s), [parent:hydrogen-sulfide-sensing](../tag/parent:hydrogen-sulfide-sensing)
 
+----
+
 Experimental Objectives:
 Measure H2S concentration in a collapsed salt marsh located in the San Francisco bay.
 

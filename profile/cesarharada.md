@@ -3,6 +3,8 @@ uid: 50
 created_at: 2016-09-09 14:17:26 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/8725fce48777b2e87ded31ee28e8b2bb)
+
 # cesarharada
 
 

@@ -14,11 +14,13 @@ by [warren](../profile/warren), [cfastie](../profile/cfastie), [donblair](../pro
 
 July 13, 2013 23:56 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [boston](../tag/boston), [amherst](../tag/amherst), [pvos](../tag/pvos), [event](../tag/event), [massachusetts](../tag/massachusetts), [water-chestnut](../tag/water-chestnut), [invasive](../tag/invasive), [umass](../tag/umass), [umass-amherst](../tag/umass-amherst)
 
+----
+
 **W**orkshop on **A**quatic and **TER**restrial **C**haracterization via **H**elium **E**levation of **S**ensor **T**echnology;  **N**eeded: **U**FOs and/or **T**urgid **S**leepingbagcovers
 
 Here are some research notes about the workshops, mapping, and work with the mapping images from the WATERCHESTNUT event:
 
-[notes:h2onutz]
+[h2onutz](../../tag/h2onutz)
 
 ![pblklabcloud.png](https://i.publiclab.org/system/images/photos/000/000/913/medium/pblklabcloud.png) 
 

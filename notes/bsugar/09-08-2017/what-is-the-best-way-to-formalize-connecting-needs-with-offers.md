@@ -14,6 +14,8 @@ by [bsugar](../profile/bsugar) September 08, 2017 01:21
 
 September 08, 2017 01:21 | Tags: [hurricane](../tag/hurricane), [coordinating](../tag/coordinating), [harvey](../tag/harvey), [hurricanes](../tag/hurricanes), [storms](../tag/storms), [harvey-response](../tag/harvey-response), [question:harvey](../tag/question:harvey), [irma](../tag/irma), [ajustharveyrecovery](../tag/ajustharveyrecovery), [harvey-needs](../tag/harvey-needs), [question:matchmaking](../tag/question:matchmaking), [question:coordination](../tag/question:coordination), [question:organizers](../tag/question:organizers), [question:requests](../tag/question:requests)
 
+----
+
 After reading some of the conversations from the updates, I have some things I can provide.  Currently however, there doesn't appear to be a formal mechanism for the process.  
   
 Seems to me a work flow might be required along the following lines:  

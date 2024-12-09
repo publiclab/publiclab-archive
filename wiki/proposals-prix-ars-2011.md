@@ -14,6 +14,8 @@ by [warren](../profile/warren)
 
 April 05, 2011 18:20 | Tags: 
 
+----
+
 
 
 Grassroots Mapping is a community of activist cartographers using open-source tools such as helium-filled balloons and digital cameras to generate high resolution “DIY satellite” maps. Though grassroots mappers hail from places as diverse as the West Bank and the Russian border of Georgia, our biggest project has taken place along the Gulf of Mexico, where scores of Gulf Coast residents produced dozens of aerial maps of the BP oil spill. By releasing the data into the public domain to ensure open access, we made it possible for organizations such as CNN, the New York Times, the Boston Globe, and even Google Maps to republish our data during the BP media blackout, when conventional journalists were blocked from affected beaches. 

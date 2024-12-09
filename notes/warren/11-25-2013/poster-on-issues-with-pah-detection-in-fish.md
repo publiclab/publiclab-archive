@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/002/321/original/edwin-pah-fish.jpg)
+
 # Poster on issues with PAH detection in fish
 
 by [warren](../profile/warren) November 25, 2013 20:43
 
 November 25, 2013 20:43 | Tags: [spectrometer](../tag/spectrometer), [fish](../tag/fish), [oil](../tag/oil), [ultraviolet](../tag/ultraviolet), [fluorescence](../tag/fluorescence), [barataria](../tag/barataria), [pah](../tag/pah), [phytoplankton](../tag/phytoplankton), [fish-oil](../tag/fish-oil), [setac](../tag/setac), [vitamins](../tag/vitamins), [oil-testing-kit](../tag/oil-testing-kit)
+
+----
 
 This poster (NOT released under an open license; merely published here with the permission of co-author Edwin Pena of Seton Hall University -- thank you!!!) was at this year's SETAC conference in Nashville, and describes some really interesting challenges with identifying PAHs (or as they call them, PAH-like substances) in fish oil. This includes a methodology to *make* fish oil from fish, which I reproduce here:
 

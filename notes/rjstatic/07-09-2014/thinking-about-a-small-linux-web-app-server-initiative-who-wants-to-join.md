@@ -8,11 +8,15 @@ uid: 174
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/005/186/original/raspberry-pi-fido_4.jpg)
+
 # Thinking about a small Linux web app server initiative. Who wants to join?
 
 by [rjstatic](../profile/rjstatic) July 09, 2014 12:54
 
 July 09, 2014 12:54 | Tags: [server](../tag/server), [farmhack](../tag/farmhack), [raspberry-pi](../tag/raspberry-pi), [apitronics](../tag/apitronics), [open-ground](../tag/open-ground), [fido](../tag/fido), [rpi](../tag/rpi), [groundhog](../tag/groundhog), [ole](../tag/ole), [agpl](../tag/agpl), [couchdb](../tag/couchdb), [open-pipe-kit](../tag/open-pipe-kit)
+
+----
 
 > __Definition: Ground Server__ ~
 A Ground Server hosts websites like a Cloud Server hosts websites on the Internet except it's on the ground which means the websites are accessible via your Local Area Network. Ground Servers are usually hosted on little credit card sized computers like the [$35 Raspberry Pi](http://www.raspberrypi.org/) or [$45 BeagleBone Black from Texas Instruments](http://beagleboard.org/Products/BeagleBone+Black). It's Ground Computing, not Cloud Computing.

@@ -14,6 +14,8 @@ by [warren](../profile/warren) May 04, 2021 17:24
 
 May 04, 2021 17:24 | Tags: [mapknitter](../tag/mapknitter), [question:mapknitter](../tag/question:mapknitter)
 
+----
+
 We've observed some occasional issues with MapKnitter logins (this may also affect Spectral Workbench), but unfortunately (or fortunately) they are intermittent; sometimes just "trying again" works. This is frustrating, not least because we are having trouble fixing them, but the upside is that we haven't yet encountered a situation where we /cannot/ log in.
 
 ### Scenarios

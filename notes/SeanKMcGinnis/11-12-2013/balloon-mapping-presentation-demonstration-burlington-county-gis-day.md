@@ -8,11 +8,15 @@ uid: 552
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/002/208/original/twoballoons.jpg)
+
 # Balloon Mapping Presentation & Demonstration - Burlington County GIS Day
 
 by [seankmcginnis](../profile/seankmcginnis) November 12, 2013 18:07
 
 November 12, 2013 18:07 | Tags: [philadelphia](../tag/philadelphia), [event](../tag/event), [replication:14022](../tag/replication:14022)
+
+----
 
 ###Event details
 Burlington County's Annual GIS Day will be held on Wednesday, November 13th 2013 from 9 am to 4:30 pm at the Burlington county Community College.

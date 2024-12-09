@@ -14,4 +14,6 @@ by [vnourrit](../profile/vnourrit) September 20, 2019 12:42
 
 September 20, 2019 12:42 | Tags: [question:lego-spectrometer](../tag/question:lego-spectrometer), [question:question:lego-spectrometer](../tag/question:question:lego-spectrometer), [first-time-poster](../tag/first-time-poster), [response:19700](../tag/response:19700)
 
+----
+
 Regarding the lego spectrometer, is there no way to use the dvd in reflection rather than in transmission ? To avoid the the tricky splitting process.

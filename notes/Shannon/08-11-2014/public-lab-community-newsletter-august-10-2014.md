@@ -8,11 +8,15 @@ uid: 9
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/006/196/original/plots-logo-transparent.jpg)
+
 # Public Lab Community Newsletter August 10, 2014
 
 by [Shannon](../profile/Shannon) August 11, 2014 02:54
 
 August 11, 2014 02:54 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
+
+----
 
 This week in the Public Lab community newsletter, provide input on MapKnitter annotations, the SkyCam and curriculum for the Infragram and start thinking about packing your bags to join Public Labbers during the November Barnraising in Louisiana. Enjoy!
 

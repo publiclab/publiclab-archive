@@ -3,6 +3,8 @@ uid: 459085
 created_at: 2015-11-25 21:24:50 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/459085/medium/13962715_10209571171785255_4645622693761859307_n.jpg)
+
 # pdhixenbaugh
 
 I work in environmental education and watershed protection, with a background in chemistry (and to a lesser extent, physics/electronics). I believe in connecting people with ideas, clarifying concepts, and staying true to the purpose of science - to discover, to understand, and to inform public policy. My public involvement in investigating and protecting the environment starts with a community that shares these beliefs, and depends on open access to scientific methods and tools to do the work, and share the results.

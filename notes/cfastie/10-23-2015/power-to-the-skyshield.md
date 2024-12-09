@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/012/085/original/notiltsky.JPG)
+
 # Power to the SkyShield
 
 by [cfastie](../profile/cfastie) October 23, 2015 18:43
 
 October 23, 2015 18:43 | Tags: [kite-mapping](../tag/kite-mapping), [vermont](../tag/vermont), [kite](../tag/kite), [saturnv](../tag/saturnv), [skyshield](../tag/skyshield), [response:12323](../tag/response:12323)
+
+----
 
 *Above: The dreaded result when the SkyShield batteries get too low to drive the servos correctly. After eight shots of mostly sky, the Saturn V Rig should be tilting down for 17 shots of mostly earth. With low batteries the tilting rarely happens and most of the photos are of sky. Pretty, but mostly useless.*
 

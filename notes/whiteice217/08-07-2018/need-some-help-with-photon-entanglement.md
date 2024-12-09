@@ -14,6 +14,8 @@ by [whiteice217](../profile/whiteice217) August 07, 2018 18:27
 
 August 07, 2018 18:27 | Tags: [physics](../tag/physics), [question:general](../tag/question:general), [communication](../tag/communication), [photons](../tag/photons), [entanglement](../tag/entanglement), [computers](../tag/computers), [question:physics](../tag/question:physics)
 
+----
+
 I want to do some experiments of my own with entangled photons. However I'm not at a university, nor do I have access to a multi-million dollar lab, and I don't work in a top secret government facility were I can do this. So my first task is to find a way to make my own entangled photons. Some research I've done shows that a beta-barium borate crystal has a structure that when photons enter may be converted down into two polarized photons. So am I wrong in saying its as simple as shining a laser through a crystal? I know then next task of measuring this is were it gets convoluted. But am I right is it really that simple?
 
   

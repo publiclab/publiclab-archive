@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/Screen shot 2012-05-15 at 9.43.51 AM.png)
+
 # Commercial UAV near-infrared aerials
 
 by [warren](../profile/warren) May 15, 2012 13:45
 
 May 15, 2012 13:45 | Tags: [near-infrared-camera](../tag/near-infrared-camera)
+
+----
 
 Good to see what commercial companies are doing with NIR:
 

@@ -3,6 +3,8 @@ uid: 785824
 created_at: 2022-01-17 19:41:05 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/a8cdbc95b3886d2e3ea70994ae4f527d)
+
 # Fleer
 
 Environmental Engineer with the Environmental Integrity Project and Center for Applied Environmental Science

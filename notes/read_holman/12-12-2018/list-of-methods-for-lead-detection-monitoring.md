@@ -14,6 +14,8 @@ by [read_holman](../profile/read_holman) December 12, 2018 06:05
 
 December 12, 2018 06:05 | Tags: [diy](../tag/diy), [testing](../tag/testing), [water-quality](../tag/water-quality), [lead](../tag/lead), [hardware](../tag/hardware), [existing](../tag/existing), [paints](../tag/paints)
 
+----
+
 ##Summary
 
 This page contains methods of detecting lead in a medium, be it in paint, water, dust, soil, or other surfaces. This page is devoted primarily to presenting information on the ~methods~ for detection; the chemical or scientific approaches behind various commercial products, laboratory-based services, and DIY methods.

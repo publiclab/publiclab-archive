@@ -8,11 +8,15 @@ uid: 423961
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/021/250/original/Farm.jpg)
+
 # How CAFOS (Factory Farms) Are Plaguing North Carolina Communities of Color
 
 by [zengirl2](../profile/zengirl2) August 01, 2017 19:58
 
 August 01, 2017 19:58 | Tags: [farming](../tag/farming), [agriculture](../tag/agriculture), [air-quality](../tag/air-quality), [health](../tag/health), [north-carolina](../tag/north-carolina), [public-health](../tag/public-health), [water-quality](../tag/water-quality), [particulates](../tag/particulates), [cafo](../tag/cafo), [southeast](../tag/southeast), [land-use](../tag/land-use), [factory-farms](../tag/factory-farms)
+
+----
 
 At the recent Appalachia Barnraising I connected with someone from the Tennessee Clean Water Network that knew someone researching the effects of factory farms. The work is by Christine Ball-Blakely and focuses on North Carolina, but many of the issues are pertinent if you are concerned about CAFOs (Concentrated Animal Feeding Operations). I've summarized the main points from one of her recent talks on the critical health effects.
 

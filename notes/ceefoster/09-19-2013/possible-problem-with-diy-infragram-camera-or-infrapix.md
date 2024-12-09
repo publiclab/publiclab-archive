@@ -8,11 +8,15 @@ uid: 264459
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/001/600/original/figs_infrapixNDVI.jpg)
+
 # Possible problem with DIY Infragram camera or infrapix
 
 by [ceefoster](../profile/ceefoster) September 19, 2013 17:11
 
 September 19, 2013 17:11 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [mailing-lists](../tag/mailing-lists), [infragram](../tag/infragram)
+
+----
 
 I've been working with an Infragram camera that was made following the instructions on the website, and originally it appeared to work fine. However, I've noticed that in recent photos some of the buildings are colored like they living. 
 

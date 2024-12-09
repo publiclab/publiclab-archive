@@ -8,11 +8,15 @@ uid: 297929
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/039/707/original/How_to_Form_a_Bucket_Brigade.jpg)
+
 # How to Set Up a Bucket Brigade
 
 by [kgradow1](../profile/kgradow1) June 09, 2020 17:50
 
 June 09, 2020 17:50 | Tags: [organizing](../tag/organizing), [air-quality](../tag/air-quality), [bucket-brigade](../tag/bucket-brigade), [advocacy](../tag/advocacy), [advocacy-pathways](../tag/advocacy-pathways), [air-sensors](../tag/air-sensors), [lon:-71](../tag/lon:-71), [lat:42](../tag/lat:42), [zoom:6](../tag/zoom:6), [bucket-monitor](../tag/bucket-monitor), [activity:bucket-monitor](../tag/activity:bucket-monitor), [activity:advocacy](../tag/activity:advocacy)
+
+----
 
 Adapted from the [Bucket Brigade Manual: Take Back Your Air!](https://publiclab.org/i/39437)
 

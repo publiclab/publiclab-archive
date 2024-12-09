@@ -8,11 +8,15 @@ uid: 756220
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/044/849/original/10049079664_59cd98d4fd_c.jpg)
+
 # Open Source Technology is Integral to Equitable and Innovative Climate Action
 
 by [julia_e_masters](../profile/julia_e_masters) September 23, 2021 17:53
 
 September 23, 2021 17:53 | Tags: [open-source](../tag/open-source), [climate-change](../tag/climate-change), [advocacy](../tag/advocacy), [research-curation-fellows](../tag/research-curation-fellows), [op-ed](../tag/op-ed)
+
+----
 
 How Open Science Technology Informs Equitable Climate Action
 

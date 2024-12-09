@@ -8,11 +8,15 @@ uid: 421168
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/005/683/original/UI.png)
+
 # GSoC Upadate - Upload Interface
 
 by [xvidun](../profile/xvidun) July 31, 2014 17:41
 
 July 31, 2014 17:41 | Tags: [mapknitter](../tag/mapknitter), [gsoc](../tag/gsoc), [gsoc-2014](../tag/gsoc-2014), [response:10594](../tag/response:10594), [upload-interface](../tag/upload-interface)
+
+----
 
 ###What I want to do
 I've been working on the upload interface for Mapknitter in the past week. In the coming weeks I'm looking to add more features to the interface based on points discussed earlier

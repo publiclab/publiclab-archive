@@ -8,11 +8,15 @@ uid: 540844
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/027/501/original/A_family_works_together_on_creating_rain_barrels_at_a_commnity_event._Photo_courtesy_of_Hilairie_Schackai.jpg_%281%29.jpg)
+
 # Recharging New Orleans: Rain Barrels and Environmental Justice
 
 by [joyofsoy](../profile/joyofsoy) November 06, 2018 22:30
 
 November 06, 2018 22:30 | Tags: [new-orleans](../tag/new-orleans), [blog](../tag/blog), [stormwater](../tag/stormwater), [community-building](../tag/community-building), [flooding](../tag/flooding), [rain](../tag/rain), [flood-protection](../tag/flood-protection), [rain-barrel](../tag/rain-barrel), [rain-gauge](../tag/rain-gauge), [csf15](../tag/csf15), [response:15252](../tag/response:15252)
+
+----
 
 ![image description](/i/27502.jpg "A_rain_barrel_workshop_at_Gentilly_Fest__with_Hilairie_Schackai__pictured_left._Photo_courtesy_of_Hilairie_Schackai_(1).jpg")
 

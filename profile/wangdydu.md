@@ -3,6 +3,8 @@ uid: 532021
 created_at: 2018-04-25 02:25:21 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/679c818c99b1d29c9a85eaf8c18d2ee9)
+
 # wangdydu
 
 just try to make this interesting divice

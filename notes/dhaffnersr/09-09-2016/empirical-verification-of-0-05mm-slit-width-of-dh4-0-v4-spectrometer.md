@@ -8,11 +8,15 @@ uid: 461120
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/017/986/original/slit_view_at_100_times_mag_sept_8.png)
+
 # Empirical Verification Of 0.05mm Slit Width of DH4.0 v4 Spectrometer
 
 by [dhaffnersr](../profile/dhaffnersr) September 09, 2016 12:10
 
 September 09, 2016 12:10 | Tags: 
+
+----
 
 ##**Understanding Spectral Bandwidth and Resolution in the Regulated Laboratory**
 

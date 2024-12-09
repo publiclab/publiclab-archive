@@ -14,6 +14,8 @@ by [liz](../profile/liz), [mollydanielsson](../profile/mollydanielsson), [warren
 
 January 16, 2013 17:51 | Tags: [website](../tag/website), [plots2](../tag/plots2), [introduction](../tag/introduction), [wintercamp](../tag/wintercamp), [newcomers](../tag/newcomers), [onboarding](../tag/onboarding), [out-of-date](../tag/out-of-date)
 
+----
+
 <a href="https://www.flickr.com/photos/recordandremember/8371504243/" title="IMG_3961 by Shannon Dosemagen, on Flickr"><img src="https://farm9.staticflickr.com/8497/8371504243_94a14c162a.jpg" width="375" height="500" alt="IMG_3961"></a>
 
 * The Public Laboratory for Open Technology and Science (PLOTS) is a community which develops and applies open-source tools to environmental exploration and investigation. By democratizing inexpensive and accessible “Do-It-Yourself” techniques, Public Laboratory creates a collaborative network of practitioners who

@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/004/201/original/IMG_2031.JPG)
+
 # mental maps of Ironbound
 
 by [liz](../profile/liz) May 09, 2014 20:11
 
 May 09, 2014 20:11 | Tags: [newark](../tag/newark), [new-jersey](../tag/new-jersey), [garden](../tag/garden), [ironbound](../tag/ironbound), [elp](../tag/elp), [replication:14089](../tag/replication:14089)
+
+----
 
 The youth did a mental mapping exercise of important parts of our neighborhood in Ironbound, Newark, NJ. We also wrote some of our goals for the garden on the map. Here are some snapshots! Our next step is to use mapknitter.org to create an annotated map. 
 

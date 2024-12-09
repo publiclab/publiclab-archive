@@ -8,10 +8,14 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/Screen shot 2010-12-12 at 7.54.59 PM.png)
+
 # Can we use back-illuminated CMOS video cameras for UV imaging?
 
 by [warren](../profile/warren) December 13, 2010 00:56
 
 December 13, 2010 00:56 | Tags: [uv](../tag/uv), [ultraviolet](../tag/ultraviolet), [cmos](../tag/cmos), [uv-imaging](../tag/uv-imaging)
+
+----
 
 This image shows a back-illuminated CMOS sensor's wavelength sensitivity.

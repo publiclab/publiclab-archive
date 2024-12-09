@@ -8,11 +8,15 @@ uid: 77
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/004/447/original/rotary-fundraising-walk-san-francisco-.jpg)
+
 #  Suggests fundraising opportunities: KAP before SF Rotary walk 5-17-14
 
 by [patcoyle](../profile/patcoyle) May 24, 2014 04:41
 
 May 24, 2014 04:41 | Tags: [kap](../tag/kap), [sfm](../tag/sfm), [fundraising](../tag/fundraising), [local-projects](../tag/local-projects), [ewb](../tag/ewb)
+
+----
 
 ###What I want to do
 Demonstrate Public Lab tools and invite discussion whenever it is appropriate. This Rotary event suggests ways to fund raise for projects. 

@@ -8,11 +8,15 @@ uid: 77
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/004/022/original/IMG_1506.JPG)
+
 # 3D printed Redstone rig  - more updated maps construction site near Mocho Park
 
 by [patcoyle](../profile/patcoyle) May 04, 2014 00:54
 
 May 04, 2014 00:54 | Tags: 
+
+----
 
 ###What I want to do
 

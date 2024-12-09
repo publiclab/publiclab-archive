@@ -8,11 +8,15 @@ uid: 379
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/044/758/original/surge_8_29_2021_7_42_am.jpg)
+
 # Ida early response
 
 by [eustatic](../profile/eustatic) August 29, 2021 16:52
 
 August 29, 2021 16:52 | Tags: [air-quality](../tag/air-quality), [blog](../tag/blog), [hurricane](../tag/hurricane), [barnstar:photo-documentation](../tag/barnstar:photo-documentation), [disaster-response](../tag/disaster-response), [hurricanes](../tag/hurricanes), [zoom:15](../tag/zoom:15), [lat:29.953736](../tag/lat:29.953736), [lon:-90.073637](../tag/lon:-90.073637), [ida](../tag/ida), [hurricane-ida](../tag/hurricane-ida)
+
+----
 
 We are recovering from Hurricane Ida, which hit Grand Isle, Lafourche, Terrebonne, Lower Plaquemines, Grand Isle / Lafitte, LaPlace, St James, and entire the New Orleans area as a powerful Cat 5\.
 

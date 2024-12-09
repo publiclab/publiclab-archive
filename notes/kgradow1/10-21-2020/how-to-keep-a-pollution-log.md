@@ -8,11 +8,15 @@ uid: 297929
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/041/194/original/Screen_Shot_2020-10-21_at_4.51.25_PM.jpg)
+
 # How to Keep a Pollution Log
 
 by [kgradow1](../profile/kgradow1) October 21, 2020 22:00
 
 October 21, 2020 22:00 | Tags: [organizing](../tag/organizing), [air-quality](../tag/air-quality), [bucket-brigade](../tag/bucket-brigade), [new](../tag/new), [getting-started](../tag/getting-started), [draft](../tag/draft), [odor](../tag/odor), [activity:new](../tag/activity:new), [activity:odor](../tag/activity:odor), [odor-logging](../tag/odor-logging), [activity:odor-logging](../tag/activity:odor-logging), [lon:-71](../tag/lon:-71), [lat:42](../tag/lat:42), [zoom:6](../tag/zoom:6), [bucket-monitor](../tag/bucket-monitor), [activity:bucket-monitor](../tag/activity:bucket-monitor)
+
+----
 
 Adapted from the [Statistics for Action Air Quality Manual](https://communityactionworks.org/wp-content/uploads/SfA_AirGuide.pdf)
 

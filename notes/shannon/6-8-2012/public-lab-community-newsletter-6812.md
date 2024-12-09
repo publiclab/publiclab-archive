@@ -14,6 +14,8 @@ by [Shannon](../profile/Shannon) June 08, 2012 16:11
 
 June 08, 2012 16:11 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
 
+----
+
 Greetings! As this Public Lab community newsletter is being compiled on a beautiful summer day that reminds us of good things to come, we thought it only appropriate to concentrate on some of the upcoming and current collaborations that are happening between Public Lab and other organizations and within Public Lab. There has also been some interesting work done this week on thermal flashlight surface mounts, olive oil and spectrometry, NRG imaging and new aerial photography rigs as well as three new maps appearing in the archive. Enjoy!
 
 1) New maps are now online. A map created with images captured May 13 at [Woodlands Conservancy](http://publiclaboratory.org/map/belle-chase-louisiana-woodlands-conservancy/2012-05-13) in Belle Chase, Louisiana is now available in the Public Lab archives. There are also two new maps in the archive from [Newtown Creek](http://publiclaboratory.org/maps/newtown-creek/), New York City, stitched with images captured in August 2011. 

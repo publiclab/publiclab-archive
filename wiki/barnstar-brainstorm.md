@@ -14,6 +14,8 @@ by [liz](../profile/liz), [cfastie](../profile/cfastie), [warren](../profile/war
 
 April 07, 2014 18:30 | Tags: [barnstars](../tag/barnstars)
 
+----
+
 ###Barnstar Template
 Use this large PNG as a template! It has a transparent background and it wants to be adorned with only the finest accessories. Click the star, then right click the image and save as to download it locally.
 

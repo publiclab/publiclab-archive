@@ -8,11 +8,15 @@ uid: 77
 
 ---
 
+![](https://publiclab.org/sites/default/files/IMG_2801.JPG)
+
 # 3-camera rig testing with with CHDK
 
 by [patcoyle](../profile/patcoyle) May 20, 2012 03:51
 
 May 20, 2012 03:51 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [photo-rig](../tag/photo-rig), [activity:photo-rig](../tag/activity:photo-rig)
+
+----
 
 I flew a quick 3-camera rig test with with MK111 timer and CHDK intended to trigger Canon A490 (iR converted by Jeff Warren) and A495 (visible). 
 

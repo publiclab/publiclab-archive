@@ -8,11 +8,15 @@ uid: 77
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/002/582/original/IMG_1205.JPG)
+
 # Updated maps - construction site activities near Mocho Park
 
 by [patcoyle](../profile/patcoyle) January 17, 2014 23:56
 
 January 17, 2014 23:56 | Tags: [time-lapse](../tag/time-lapse), [kap](../tag/kap), [sx260hs](../tag/sx260hs), [construction](../tag/construction), [juice-bottle-rig](../tag/juice-bottle-rig)
+
+----
 
 ###What I want to do
 Update maps with construction site activities across the street from Mocho Park, Livermore CA. Recording construction or other activities over time is one use of these tools. Initial mapping of this site was conducted in September 2013 and described in [note.](http://publiclab.org/notes/patcoyle/09-17-2013/kap-with-simple-dual-juice-bottle-rig-infragram-and-visible-mapping-around-mocho-park-livermore-ca)

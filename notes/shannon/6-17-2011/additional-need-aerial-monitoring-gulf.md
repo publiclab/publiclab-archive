@@ -14,6 +14,8 @@ by [Shannon](../profile/Shannon) June 17, 2011 17:43
 
 June 17, 2011 17:43 | Tags: [gulf-coast](../tag/gulf-coast), [pipeline](../tag/pipeline), [parent:pipeline-monitoring](../tag/parent:pipeline-monitoring), [pipeline-monitoring](../tag/pipeline-monitoring)
 
+----
+
 Institute for Southern Studies, Facing South article: <a href="http://www.southernstudies.org/2011/06/new-louisiana-oil-spill-highlights-industrys-chronic-pollution-problem.html" target="_blank">New Louisiana Oil Spill Highlights Chronic Pollution Problem</a> in response to a two mile long slick of oil found June 8th from a leaking platform.<br>
 
 

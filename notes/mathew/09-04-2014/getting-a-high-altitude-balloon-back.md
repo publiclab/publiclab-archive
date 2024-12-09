@@ -8,11 +8,15 @@ uid: 4
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/006/584/original/Screen_Shot_2014-09-03_at_10.08.19_PM.png)
+
 # Getting a high altitude balloon back
 
 by [mathew](../profile/mathew) September 04, 2014 05:11
 
 September 04, 2014 05:11 | Tags: [balloon-mapping](../tag/balloon-mapping), [solar-balloon](../tag/solar-balloon), [mapping](../tag/mapping), [balloon](../tag/balloon), [arhab](../tag/arhab)
+
+----
 
 ###What I want to do
 fly a high altitude balloon and get it back.  This means tracking where it goes and calling home.

@@ -3,6 +3,8 @@ uid: 522105
 created_at: 2018-01-09 10:59:08 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/9811f950651ae53384625e99f50a3c7f)
+
 # giuliooooo
 
 forester

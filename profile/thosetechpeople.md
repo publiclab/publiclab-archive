@@ -3,6 +3,8 @@ uid: 435226
 created_at: 2015-02-13 14:48:17 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/bb9a97884d304deb6c44c41b19e26bf8)
+
 # thosetechpeople
 
 

@@ -8,11 +8,15 @@ uid: 170174
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/001/318/original/ndvi_IMG_3876.JPG)
+
 # Mapping Cyanobacterial Blooms with NDVI
 
 by [dsittenfeld](../profile/dsittenfeld) August 28, 2013 03:15
 
 August 28, 2013 03:15 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [boston](../tag/boston), [infragram](../tag/infragram), [algae](../tag/algae), [bacterial-blooms](../tag/bacterial-blooms), [bacteria](../tag/bacteria), [museum-of-science](../tag/museum-of-science), [response:337](../tag/response:337), [cyanobacteria](../tag/cyanobacteria), [response:8809](../tag/response:8809)
+
+----
 
 Hi all,
 

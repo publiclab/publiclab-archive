@@ -8,11 +8,15 @@ uid: 777566
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/046/943/original/Fireworks.jpeg)
+
 # July PM 2.5 Data
 
 by [tylerknight](../profile/tylerknight) August 03, 2022 19:45
 
 August 03, 2022 19:45 | Tags: [gulf-coast](../tag/gulf-coast), [air-quality](../tag/air-quality), [pm](../tag/pm), [particulate-matter](../tag/particulate-matter), [purpleair](../tag/purpleair), [st-james](../tag/st-james), [formosaplastics](../tag/formosaplastics)
+
+----
 
 July saw the lowest levels of PM 2.5 seen thus far in the project, which is good short-term news for residents living in the area.
 

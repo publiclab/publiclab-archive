@@ -8,11 +8,15 @@ uid: 4
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/004/543/original/Screen_Shot_2014-06-05_at_3.23.26_PM.png)
+
 # Using Fluxtream to look at Speck Data
 
 by [mathew](../profile/mathew) June 05, 2014 22:26
 
 June 05, 2014 22:26 | Tags: [visualization](../tag/visualization), [data](../tag/data), [dust](../tag/dust), [silica](../tag/silica), [speck](../tag/speck)
+
+----
 
 ###What I want to do
 Document how to upload data from a Speck to CMU's analysis program [Fluxtream.org](https://fluxtream.org/welcome).  Fluxtream is a data visualization service aimed at the quantified self community, tracking personal sensor, calendar, and geodata. 

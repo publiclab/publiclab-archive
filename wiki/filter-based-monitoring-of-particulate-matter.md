@@ -8,11 +8,15 @@ uid: 4
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/024/040/original/Screenshot_2018-03-13_at_4.13.10_PM.png)
+
 # Filter Based Monitoring of Particulate Matter
 
 by [warren](../profile/warren), [mathew](../profile/mathew), [stevie](../profile/stevie)
 
 February 15, 2016 00:59 | Tags: [air-quality](../tag/air-quality), [dust](../tag/dust), [silica](../tag/silica), [pm](../tag/pm), [filters](../tag/filters), [filtration](../tag/filtration), [parent:pm-monitoring](../tag/parent:pm-monitoring), [method](../tag/method), [air-filters](../tag/air-filters)
+
+----
 
 ## Filter-based PM monitors
 
@@ -35,7 +39,7 @@ Further analysis of collected PM may be conducted to identify the makeup of the 
 
 ## Questions
 
-[questions:filter-pm]
+[filter-pm](../../tag/question:filter-pm)
 
 ****
 

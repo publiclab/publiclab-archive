@@ -8,11 +8,15 @@ uid: 424454
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/005/663/original/111.jpg)
+
 # Spec Cam to Infragram w/the flip of filter? (Rosco "Fire" #19)
 
 by [natalie](../profile/natalie) July 29, 2014 23:12
 
 July 29, 2014 23:12 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [spectrometer](../tag/spectrometer), [ndvi](../tag/ndvi), [near-infrared](../tag/near-infrared), [infragram](../tag/infragram), [infragram-conversion](../tag/infragram-conversion), [infragram-filters](../tag/infragram-filters), [infragram-camera-testing](../tag/infragram-camera-testing), [calibrate-ndvi](../tag/calibrate-ndvi), [question:ndvi](../tag/question:ndvi)
+
+----
 
 ###What I want to do
 I would like to see if the "low-cost" webcam we are using currently for our Desktop Sprectrometer Kit will work as an Infragram webcam by installing the red filter (specifically the Rosco "Fire" #19)

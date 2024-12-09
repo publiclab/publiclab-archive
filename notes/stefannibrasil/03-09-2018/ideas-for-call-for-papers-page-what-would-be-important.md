@@ -14,6 +14,8 @@ by [stefannibrasil](../profile/stefannibrasil) March 09, 2018 22:20
 
 March 09, 2018 22:20 | Tags: [writing](../tag/writing), [writing-group](../tag/writing-group), [question:general](../tag/question:general), [collaborative-writing](../tag/collaborative-writing), [question:events](../tag/question:events), [question:papers](../tag/question:papers), [first-time-poster](../tag/first-time-poster)
 
+----
+
 Hi everybody!
 
 @milaaraujo and I have been using Public Lab and we were thinking about adding a page for people to post Call for papers, so researchers can share relevant conferences, journals, etc., to submit their work.

@@ -8,11 +8,15 @@ uid: 379
 
 ---
 
+![](https://publiclab.org/sites/default/files/GC-Sturdivant-2.jpg)
+
 # UV detection of oil / corexit of Gulf beaches
 
 by [eustatic](../profile/eustatic) July 23, 2012 19:46
 
 July 23, 2012 19:46 | Tags: [gulf-coast](../tag/gulf-coast), [spectrometer](../tag/spectrometer), [uv](../tag/uv), [oil](../tag/oil), [fluorescence](../tag/fluorescence)
+
+----
 
 non-profit science is stepping into the role the U.S. Coast Guard has abdicated.
 

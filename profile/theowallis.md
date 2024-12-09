@@ -3,6 +3,8 @@ uid: 425909
 created_at: 2014-07-22 15:24:49 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/425909/medium/negative.png)
+
 # theowallis
 
 Creative environmentalist with a passion for environmental issues, biodiversity conservation, photography, film, technology, natural history & current affairs.

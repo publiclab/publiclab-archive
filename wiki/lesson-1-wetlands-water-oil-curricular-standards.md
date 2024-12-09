@@ -14,6 +14,8 @@ by [Shannon](../profile/Shannon), [mathew](../profile/mathew)
 
 July 15, 2015 00:09 | Tags: [wetlands](../tag/wetlands), [parent:wetlands-lesson-plans](../tag/parent:wetlands-lesson-plans)
 
+----
+
 [link to the lesson](/wiki/lesson-1-wetlands-water-oil)
 
 ###National Common Core Standards: Grade 8 specific (as well as general category 6-8 Middle School Standards)

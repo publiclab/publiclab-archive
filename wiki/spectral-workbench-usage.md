@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/014/052/original/Screenshot_2016-02-03_at_3.15.07_PM.png)
+
 # Spectral Workbench usage
 
 by [joyofsoy](../profile/joyofsoy), [warren](../profile/warren), [jiwon](../profile/jiwon), [MirianCelia](../profile/MirianCelia), [mathew](../profile/mathew), [100ideas](../profile/100ideas)
 
 November 30, 2011 00:06 | Tags: [spectrometer](../tag/spectrometer), [spectralworkbench](../tag/spectralworkbench), [upload](../tag/upload), [red](../tag/red), [parent:spectral-workbench](../tag/parent:spectral-workbench), [uvc](../tag/uvc), [manual](../tag/manual), [save](../tag/save)
+
+----
 
 ## Basics
 
@@ -30,7 +34,7 @@ Watch [the video below](#Videos) for a quick overview on capturing spectra.
 
 You'll notice that many other spectra on the site have a scale showing "nm" or nanometer units on the horizontal axis. To get scaled data, you must calibrate your spectrometer. There are several kinds of calibration but here we're talking about wavelength calibration, which allows your spectrometer to display a wavelength value for any color of light it sees. Luckily, this is easy -- to learn how, see the [Spectral Workbench Calibration page](/wiki/spectral-workbench-calibration).
 
-[questions:spectral-workbench-calibration]
+[spectral-workbench-calibration](../../tag/question:spectral-workbench-calibration)
 
 ### Tools
 
@@ -69,7 +73,7 @@ There are also a variety of activities being documented here if you're looking f
 
 **Once your spectrometer is calibrated, what do you do next?** This is the central question of our open spectrometry community. People are building and using these spectrometers for many reasons and there are different approaches being actively developed. For the time being, try browsing recent [contributed open spectrometry research](/notes/spectrometer), and look over [our growing list of applications and resources](/wiki/spectral-analysis)
 
-[questions:spectral-analysis]
+[spectral-analysis](../../tag/question:spectral-analysis)
 
 ****
 
@@ -105,7 +109,7 @@ See [Spectral Workbench Help](/wiki/spectral-workbench-help) if you have trouble
 
 Many things can go wrong (or right) when collecting spectra. Here are a few to look out for:
 
-[questions:spectral-workbench]
+[spectral-workbench](../../tag/question:spectral-workbench)
 
 ****
 

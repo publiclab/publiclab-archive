@@ -14,6 +14,8 @@ by [emash](../profile/emash) June 01, 2020 16:58
 
 June 01, 2020 16:58 | Tags: [website](../tag/website), [question:website](../tag/question:website), [general](../tag/general)
 
+----
+
 Hey y'all! Great news! We have four wonderful developers working on our text editors and ability to post on public lab over the summer.   
 
 Now you might even be wondering "What is 'The Editor'?" like I did. I'm new to the software and the community. (Also, Hi, I'm Emily a part-time Full Stack Developer working with Public Lab from New Orleans, LA )   

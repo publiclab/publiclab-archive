@@ -14,6 +14,8 @@ by [amocorro](../profile/amocorro) March 10, 2021 16:25
 
 March 10, 2021 16:25 | Tags: [education](../tag/education), [workshop](../tag/workshop), [question:general](../tag/question:general), [general](../tag/general)
 
+----
+
 Hello @Purl, 
 
 Loving the curriculum shared by you on the website lately. As an informal science educator, I am writing to learn more about upcoming Public Lab workshops I can share to my network. Thank you for your help! 

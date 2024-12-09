@@ -8,11 +8,15 @@ uid: 639376
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/045/755/original/Portada%281%29.png)
+
 # Coqui para medir conductividad de un río
 
 by [alejobonifacio](../profile/alejobonifacio) April 14, 2022 19:00
 
 April 14, 2022 19:00 | Tags: [lang:es](../tag/lang:es), [coqui](../tag/coqui), [south-america](../tag/south-america), [lat:-30](../tag/lat:-30), [zoom:5](../tag/zoom:5), [research-curation-fellows](../tag/research-curation-fellows), [calidad-de-agua](../tag/calidad-de-agua), [lon:-60](../tag/lon:-60), [solidos-disueltos-totales](../tag/solidos-disueltos-totales), [conductividad](../tag/conductividad), [sudamerica](../tag/sudamerica), [monitoreo](../tag/monitoreo)
+
+----
 
 #Introducción
 

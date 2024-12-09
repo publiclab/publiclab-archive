@@ -8,11 +8,15 @@ uid: 125
 
 ---
 
+![](https://publiclab.org/sites/default/files/overlay.png)
+
 # Spectrometry UROP 5/5/11 update
 
 by [Alex-McCarthy](../profile/Alex-McCarthy) May 05, 2011 15:53
 
 May 05, 2011 15:53 | Tags: [spectrometer](../tag/spectrometer), [uv](../tag/uv)
+
+----
 
 This week I spent some time working with the UV camera that was created last week. I realized that if I want to get an good adsorption dips in a transmission spectrum in the UV range I will not be able to use the black light LED because it is too low power, and its spectrum is limited to one peak (probably at 380 or 395 nm) 
 I tried using the halogen lamp, with the UV pass, visible block filter, but it is very difficult to work with. For one, the intensity is so great that there is alot of glare- there would be no way to look at the spectrum of unfiltered halogen light and see the UV through the UV camera, as the UV spectrum would be completely outshone by the visible spectrum. When I put the UV pass/vis block filter over the spectrometer, there is no visible spectrum. the only explanation I can think of for this is that the UV spectrum is to faint to photograph. For some reason, the camera can see through the filter, meaning UV light (maybe also IR) is getting through the filter, but for whatever reason, the spectrometer cannot pick it up.

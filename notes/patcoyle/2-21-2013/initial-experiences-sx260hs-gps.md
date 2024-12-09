@@ -8,11 +8,15 @@ uid: 77
 
 ---
 
+![](https://publiclab.org/sites/default/files/SX260HS flight tracks.jpg)
+
 # Initial experience: SX260HS with gps
 
 by [patcoyle](../profile/patcoyle) February 21, 2013 21:55
 
 February 21, 2013 21:55 | Tags: [kite-mapping](../tag/kite-mapping), [chdk](../tag/chdk), [gps](../tag/gps), [sx260hs](../tag/sx260hs)
+
+----
 
 I picked up a used Canon SX260HS which has built-in gps ($189.99 including shipping from a seller on Amazon).
 

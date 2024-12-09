@@ -8,11 +8,15 @@ uid: 9
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/006/927/original/plots-logo-transparent.jpg)
+
 # Public Lab community newsletter 9.20.14
 
 by [Shannon](../profile/Shannon) September 20, 2014 14:18
 
 September 20, 2014 14:18 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
+
+----
 
 This week in the Public Lab community newsletter, join the upcoming OpenHour, take advantage of the last week of back to school sales on kits and join events in NYC, Philadelphia and New Orleans over the next couple of weeks. Enjoy!
 

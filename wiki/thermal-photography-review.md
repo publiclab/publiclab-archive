@@ -14,6 +14,8 @@ by [gonzoearth](../profile/gonzoearth)
 
 January 19, 2012 00:41 | Tags: 
 
+----
+
 Questions for Thermal Imaging
 staff notes:
 

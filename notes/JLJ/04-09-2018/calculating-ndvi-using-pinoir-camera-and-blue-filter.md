@@ -14,6 +14,8 @@ by [JLJ](../profile/JLJ) April 09, 2018 19:31
 
 April 09, 2018 19:31 | Tags: [ndvi](../tag/ndvi), [nir](../tag/nir), [raspberry-pi](../tag/raspberry-pi), [question:question](../tag/question:question)
 
+----
+
 Hello,
 
   

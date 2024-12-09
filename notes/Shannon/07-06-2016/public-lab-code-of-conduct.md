@@ -8,11 +8,15 @@ uid: 9
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/016/884/original/IMG_1941.jpg)
+
 # Public Lab Code of Conduct
 
 by [Shannon](../profile/Shannon) July 06, 2016 19:01
 
 July 06, 2016 19:01 | Tags: [blog](../tag/blog), [with:thegreencommunitygarden](../tag/with:thegreencommunitygarden), [with:liz](../tag/with:liz), [with:nshapiro](../tag/with:nshapiro), [with:klie](../tag/with:klie)
+
+----
 
 Update 9/2016, the Code of Conduct is live at this link: https://publiclab.org/conduct
 

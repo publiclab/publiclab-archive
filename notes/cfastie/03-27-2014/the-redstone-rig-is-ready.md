@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/003/408/original/3Dstore-363-121.jpg)
+
 # The Redstone Rig is ready
 
 by [cfastie](../profile/cfastie) March 27, 2014 15:39
 
 March 27, 2014 15:39 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [vermont](../tag/vermont), [kap](../tag/kap), [3d-printing](../tag/3d-printing), [makerbot](../tag/makerbot), [response:10101](../tag/response:10101), [redstone](../tag/redstone)
+
+----
 
 I started designing this aerial photography rig at Christmas when I got access to one of the MakerBot Replicator 3D printers that were donated to Public Lab. Today I put the files for a very solid version of the [Redstone Rig at Thingiverse](http://www.thingiverse.com/thing:281664), and I hope some people will make prints of the parts and try it out.  
 

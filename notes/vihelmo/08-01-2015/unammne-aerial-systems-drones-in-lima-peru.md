@@ -8,11 +8,15 @@ uid: 446492
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/010/980/original/Vihelmo_UAS.JPG)
+
 # VIHELMO VELAPATINO. - Unmanned Aerial Systems - Drones in LIMA PERU
 
 by [vihelmo](../profile/vihelmo) August 01, 2015 19:28
 
 August 01, 2015 19:28 | Tags: [lima](../tag/lima), [peru](../tag/peru), [drones](../tag/drones), [camera](../tag/camera), [thermal](../tag/thermal), [multicopters](../tag/multicopters), [quadcopters](../tag/quadcopters), [unmanned](../tag/unmanned), [aircraft](../tag/aircraft), [systems](../tag/systems), [south-america](../tag/south-america)
+
+----
 
 **[UNMANNED AERIAL SYSTEM (UAS) with Thermal camera](aerokosmos.com)**
 

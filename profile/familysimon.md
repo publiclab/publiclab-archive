@@ -3,6 +3,8 @@ uid: 630826
 created_at: 2019-10-22 15:38:23 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/630826/medium/Michael_Simon_photo.jpg)
+
 # familysimon
 
 Maker.  Gentleman Scientist.  Engineer.

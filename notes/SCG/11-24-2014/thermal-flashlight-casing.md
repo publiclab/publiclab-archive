@@ -8,11 +8,15 @@ uid: 431781
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/008/104/original/IMG_0332_%281%29.JPG)
+
 # Thermal Flashlight Casing
 
 by [SCG](../profile/SCG) November 24, 2014 18:56
 
 November 24, 2014 18:56 | Tags: [thermal-photography](../tag/thermal-photography), [thermal-flashlight](../tag/thermal-flashlight), [thermal-camera](../tag/thermal-camera), [insulation](../tag/insulation), [heat](../tag/heat), [replication:625](../tag/replication:625)
+
+----
 
 Our group attempted to provide the best case for our thermal flashlight possible.
 

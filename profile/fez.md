@@ -3,6 +3,8 @@ uid: 502511
 created_at: 2017-02-01 09:42:27 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/aa080fa143ade742ad97f3917eab7186)
+
 # fez
 
 PhD student in social science with interest in cognitive science

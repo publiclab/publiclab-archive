@@ -14,6 +14,8 @@ by [stevie](../profile/stevie) September 24, 2020 18:17
 
 September 24, 2020 18:17 | Tags: [heavy-metals](../tag/heavy-metals), [air-quality](../tag/air-quality), [question:heavy-metals](../tag/question:heavy-metals), [question:air-quality](../tag/question:air-quality), [question:general](../tag/question:general), [general](../tag/general), [with:duwamishcleanup](../tag/with:duwamishcleanup)
 
+----
+
 The purpose of this project is to investigate if local community partners, with guidance from the regional scientist, could collect and prepare moss samples to be analyzed for heavy metals. The study came together by convening local partners who had a shared interest in community-led air monitoring projects.
 
 [Read more about the project here!][1]

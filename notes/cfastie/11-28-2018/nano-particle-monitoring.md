@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/027/872/original/Dust_20181127-4203.JPG)
+
 # Nano particle monitoring
 
 by [cfastie](../profile/cfastie) November 28, 2018 04:44
 
 November 28, 2018 04:44 | Tags: [arduino](../tag/arduino), [air-quality](../tag/air-quality), [sensors](../tag/sensors), [dust](../tag/dust), [barnstar:basic](../tag/barnstar:basic), [indoor-air-quality-monitoring](../tag/indoor-air-quality-monitoring), [data-logging](../tag/data-logging), [activity:particulate-monitoring](../tag/activity:particulate-monitoring), [activity:arduino](../tag/activity:arduino), [nano-data-logger](../tag/nano-data-logger), [activity:nano-data-logger](../tag/activity:nano-data-logger), [activity:data-logging](../tag/activity:data-logging), [air-sensors](../tag/air-sensors), [purpleair](../tag/purpleair), [plantower](../tag/plantower), [pms7003](../tag/pms7003), [ccs811-gas-sensor](../tag/ccs811-gas-sensor)
+
+----
 
 PurpleAir air quality monitors send data about particles in the air to the web via WiFi. One version of the PurpleAir monitor saves the data to a microSD card. The number of particles in five size classes is reported in addition to three EPA PM standards (PM 10, PM 2.5, and PM 1.0). The devices cost $180 to $260\. PurpleAir is not open source, but they provide a lot of information about the hardware. The $259 PA-II-SD seems to include the following components:
 

@@ -8,11 +8,15 @@ uid: 422561
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/020/681/original/frac-sand.JPG)
+
 # Frac Sand
 
 by [warren](../profile/warren), [stevie](../profile/stevie), [gretchengehrke](../profile/gretchengehrke), [mathew](../profile/mathew)
 
 January 05, 2016 20:25 | Tags: [wisconsin](../tag/wisconsin), [dust](../tag/dust), [silica](../tag/silica), [frac-sand](../tag/frac-sand), [pm](../tag/pm), [particle-sensing](../tag/particle-sensing), [particle-monitoring](../tag/particle-monitoring), [dust-monitoring](../tag/dust-monitoring), [parent:oil-and-gas](../tag/parent:oil-and-gas)
+
+----
 
 ## **Industrial Sand Mining in Western Wisconsin:** Resources for Environmental Monitoring and Advocacy 
 
@@ -38,7 +42,7 @@ This page is an introduction to frac sand issues and airborne particles, aimed a
 
 ### Recent activity related to frac sand mining: 
 
-[notes:frac-sand]
+[frac-sand](../../tag/frac-sand)
 
 *****
 

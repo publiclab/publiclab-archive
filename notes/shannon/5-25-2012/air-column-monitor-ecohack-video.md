@@ -14,6 +14,8 @@ by [Shannon](../profile/Shannon) May 25, 2012 18:03
 
 May 25, 2012 18:03 | Tags: [air-column-monitor](../tag/air-column-monitor), [diy-balloon](../tag/diy-balloon)
 
+----
+
 Video from Cosm on the Public Lab and AirQualityEgg community collaboration on developing the air column monitor: http://blog.cosm.com/2012/05/open-source-airqualityegg-takes-ride-on.html
 
 "Open-source #AirQualityEgg takes a ride on a balloon

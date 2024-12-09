@@ -8,11 +8,15 @@ uid: 664477
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/041/029/original/Screen_Shot_2020-09-29_at_2.41.55_PM.png)
+
 # Summary: Public Lab’s microplastics virtual event
 
 by [bhamster](../profile/bhamster) September 30, 2020 23:35
 
 September 30, 2020 23:35 | Tags: [research](../tag/research), [reviews](../tag/reviews), [micro-plastics](../tag/micro-plastics), [microplastics](../tag/microplastics), [plastic](../tag/plastic), [research-area-review](../tag/research-area-review)
+
+----
 
 On September 23, 2020, twenty people spanning seven time zones gathered at Public Lab's virtual event to talk about microplastics as we wrapped up a research area review on the topic. We shared stories, asked and answered questions, saw a quick overview of ways to get started in microplastics monitoring, and built connections with each other.
 

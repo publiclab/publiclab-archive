@@ -8,11 +8,15 @@ uid: 77
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/003/542/original/ss_of_selected_edges_filled_maybe.tiff)
+
 # Using free SFM tools for automatic volume calculation
 
 by [patcoyle](../profile/patcoyle) April 07, 2014 22:13
 
 April 07, 2014 22:13 | Tags: [3d](../tag/3d), [kap](../tag/kap), [sfm](../tag/sfm), [structure-from-motion](../tag/structure-from-motion), [measurement](../tag/measurement), [response:9977](../tag/response:9977), [autostitch](../tag/autostitch), [3dmodeling](../tag/3dmodeling), [volume](../tag/volume), [response:10159](../tag/response:10159)
+
+----
 
 ###What I want to do
 Describe a workflow using free Surface From Motion (SFM) and 3D model mesh tools for automatic calculation of volume of features based on aerial and ground photos. 

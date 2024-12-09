@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/004/232/original/IMG_2401.JPG)
+
 # quick pics from EcoHackNYC
 
 by [liz](../profile/liz) May 10, 2014 23:20
 
 May 10, 2014 23:20 | Tags: [new-york-city](../tag/new-york-city), [ecohack](../tag/ecohack), [great-photos](../tag/great-photos), [with:kosamari](../tag/with:kosamari), [with:chrisjob](../tag/with:chrisjob)
+
+----
 
 **With [Mariko](/profile/kosamari), [Chris](/profile/chrisjob)** and others:
 

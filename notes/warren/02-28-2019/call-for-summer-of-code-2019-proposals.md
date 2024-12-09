@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/029/582/original/Screenshot_2019-02-28_at_5.20.39_PM.png)
+
 # Call for Summer of Code 2019 proposals!
 
 by [warren](../profile/warren) February 28, 2019 22:22
 
 February 28, 2019 22:22 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [blog](../tag/blog), [code](../tag/code), [rgsoc](../tag/rgsoc), [soc](../tag/soc), [outreachy](../tag/outreachy), [call-for-proposals](../tag/call-for-proposals), [gsoc-2019](../tag/gsoc-2019), [soc-2019](../tag/soc-2019), [outreachy-2019](../tag/outreachy-2019)
+
+----
 
 ### Outreachy and GSoC
 
@@ -66,10 +70,10 @@ Also see [2018's proposals here](https://publiclab.org/notes/warren/02-15-2018/c
 
 ## Proposals
 
-[notes:soc-2019-proposals]
+[soc-2019-proposals](../../tag/soc-2019-proposals)
 
 ---------
 
 ## Questions
 
-[questions:soc]
+[soc](../../tag/question:soc)

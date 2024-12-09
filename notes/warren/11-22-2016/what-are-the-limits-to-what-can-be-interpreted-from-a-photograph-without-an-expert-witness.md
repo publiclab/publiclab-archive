@@ -14,6 +14,8 @@ by [warren](../profile/warren) November 22, 2016 18:30
 
 November 22, 2016 18:30 | Tags: [evidence](../tag/evidence), [photo-monitoring](../tag/photo-monitoring), [timelapse](../tag/timelapse), [legal](../tag/legal), [question:evidence](../tag/question:evidence), [court](../tag/court), [question:legal](../tag/question:legal), [law-and-policy](../tag/law-and-policy), [question:law-and-policy](../tag/question:law-and-policy)
 
+----
+
 ...and what factors play into this determination?
 
 ### Background

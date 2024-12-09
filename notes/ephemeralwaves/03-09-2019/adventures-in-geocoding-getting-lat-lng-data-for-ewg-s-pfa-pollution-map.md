@@ -14,6 +14,8 @@ by [ephemeralwaves](../profile/ephemeralwaves) March 09, 2019 02:13
 
 March 09, 2019 02:13 | Tags: [water](../tag/water), [map](../tag/map), [pfas](../tag/pfas), [geocode](../tag/geocode)
 
+----
+
 To add a layer to the [leaflet-environmental-layers](https://github.com/publiclab/leaflet-environmental-layers) I figured I needed the latitude and longitude of the sites of contamination.
 
 The first issue I had was that the data was write protected, meaning I could not modify it and hence use their google sheet to put in the latitude and longitude, so I made a copy of their data on my own account.

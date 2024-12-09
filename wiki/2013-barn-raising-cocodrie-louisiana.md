@@ -14,4 +14,6 @@ by [warren](../profile/warren), [Shannon](../profile/Shannon)
 
 July 09, 2013 12:55 | Tags: [louisiana](../tag/louisiana), [barnraising](../tag/barnraising)
 
+----
+
 This page has moved to: http://publiclab.org/wiki/barnraising-2013

@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/Palentier_KAP_Mosaic.jpg)
+
 # Palantier: impressive image stitching for UAVs and kites
 
 by [warren](../profile/warren) February 05, 2012 17:11
 
 February 05, 2012 17:11 | Tags: [kite-mapping](../tag/kite-mapping), [3d](../tag/3d), [uav](../tag/uav), [kite](../tag/kite), [stitching](../tag/stitching), [palentier](../tag/palentier)
+
+----
 
 <br style="clear:left;" />
 

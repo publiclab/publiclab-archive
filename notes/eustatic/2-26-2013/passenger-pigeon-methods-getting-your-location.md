@@ -8,11 +8,15 @@ uid: 379
 
 ---
 
+![](https://publiclab.org/sites/default/files/msy to phx.png)
+
 # Passenger Pigeon methods:  getting your location, the hacky way
 
 by [eustatic](../profile/eustatic) February 26, 2013 22:59
 
 February 26, 2013 22:59 | Tags: [kite-mapping](../tag/kite-mapping), [passenger-pigeon](../tag/passenger-pigeon), [united-states](../tag/united-states), [activity:passenger-pigeon](../tag/activity:passenger-pigeon)
+
+----
 
 handheld GPS and phone GPS often does not work during commercial flights. Here are some ideas of how to get your location at a given time, to assist with Passenger Pigeon mapping.
 

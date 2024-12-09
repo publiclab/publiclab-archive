@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/020/142/original/IMG_20170415_185404.jpg)
+
 # SkyPod endurance test
 
 by [cfastie](../profile/cfastie) April 17, 2017 00:56
 
 April 17, 2017 00:56 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [arduino](../tag/arduino), [kap](../tag/kap), [gps](../tag/gps), [sensors](../tag/sensors), [saturnv](../tag/saturnv), [skypod](../tag/skypod), [response:14074](../tag/response:14074), [ublox](../tag/ublox)
+
+----
 
 *Above: After letting the SkyPod record data all afternoon in the yard (boring), I took it for a walk to see if the trailing arbutus was blooming. It was, so I took a photo and [posted it to iNaturalist](https://www.inaturalist.org/observations/5737918).*
 

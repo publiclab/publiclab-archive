@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/044/404/original/Community_Manager.jpg)
+
 # Donate
 
 by [thewrightjess](../profile/thewrightjess), [warren](../profile/warren), [joyofsoy](../profile/joyofsoy), [Shannon](../profile/Shannon), [Margie](../profile/Margie), [liz](../profile/liz), [travelpoint](../profile/travelpoint), [Becki](../profile/Becki), [cfastie](../profile/cfastie), [pinkgirl](../profile/pinkgirl), [stevie](../profile/stevie), [rashmiroya](../profile/rashmiroya), [jeremyb](../profile/jeremyb), [sbobetsunz](../profile/sbobetsunz), [mathew](../profile/mathew)
 
 June 03, 2011 23:50 | Tags: [donation](../tag/donation), [sidebar:none](../tag/sidebar:none), [donations](../tag/donations)
+
+----
 
 By donating to Public Lab, you are help to democratize science and change how communities obtain, understand, and share research and information on local environmental issues. Because of your support, people concerned about their environmental health can be active participants and advocate for much needed change.
 

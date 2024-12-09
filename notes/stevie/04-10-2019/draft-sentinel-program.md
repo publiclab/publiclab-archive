@@ -8,11 +8,15 @@ uid: 422561
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/031/387/original/Screen_Shot_2019-04-10_at_4.16.28_PM.png)
+
 # Draft Sand Sentinel Program 
 
 by [stevie](../profile/stevie) April 10, 2019 20:07
 
 April 10, 2019 20:07 | Tags: [wisconsin](../tag/wisconsin), [blog](../tag/blog), [frac-sand](../tag/frac-sand), [pm](../tag/pm), [midwest](../tag/midwest), [parent:frac-sand](../tag/parent:frac-sand), [sentinel](../tag/sentinel), [parent:the-sand-sentinel-program](../tag/parent:the-sand-sentinel-program), [sand-sentinel](../tag/sand-sentinel)
+
+----
 
 _Logo above courtesy of Pat Popple_ 
 

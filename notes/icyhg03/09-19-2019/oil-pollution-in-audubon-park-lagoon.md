@@ -14,6 +14,8 @@ by [icyhg03](../profile/icyhg03) September 19, 2019 14:35
 
 September 19, 2019 14:35 | Tags: [gulf-coast](../tag/gulf-coast), [oil](../tag/oil), [water-quality-monitoring](../tag/water-quality-monitoring), [new-orleans](../tag/new-orleans), [water-quality](../tag/water-quality), [oil-and-gas](../tag/oil-and-gas), [issue-brief](../tag/issue-brief), [first-time-poster](../tag/first-time-poster), [with:jeanell873](../tag/with:jeanell873)
 
+----
+
 ### 
 
 Introduction:
@@ -38,4 +40,4 @@ What are the intinital questions:
 - How does the oil affect the environment?
 - How does oil get into the lagoon?
 
-[questions:tagname]
+[tagname](../../tag/question:tagname)

@@ -8,11 +8,15 @@ uid: 43651
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/002/651/original/aftertherain_suzannemcdaniel_landscape2.jpg)
+
 # Open Water
 
 by [klie](../profile/klie), [donblair](../profile/donblair), [kanarinka](../profile/kanarinka), [vjpixel](../profile/vjpixel), [walkerjeffd](../profile/walkerjeffd), [bgamari](../profile/bgamari)
 
 January 24, 2014 20:16 | Tags: [water-sensing](../tag/water-sensing), [water-quality](../tag/water-quality), [conductivity](../tag/conductivity), [ioby](../tag/ioby), [mystic-river](../tag/mystic-river), [initiative-area](../tag/initiative-area), [parent:nonprofit-initiatives](../tag/parent:nonprofit-initiatives), [project:water-quality](../tag/project:water-quality)
+
+----
 
 _Main image above is by Suzanne McDaniel, and was taken at Island End River in Chelsea, MA, part of the Mystic River watershed.  Suzanne's photo was one of the winners of the [MyRWA photo contest](http://mysticriver.org/photo-contest/)._
 

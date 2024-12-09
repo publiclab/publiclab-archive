@@ -3,6 +3,8 @@ uid: 435046
 created_at: 2015-02-09 20:14:11 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/de2c1de2e13f3f60351c96f14214eea7)
+
 # DustinBlock
 
 Detroit and Lansing editor for MLive.com

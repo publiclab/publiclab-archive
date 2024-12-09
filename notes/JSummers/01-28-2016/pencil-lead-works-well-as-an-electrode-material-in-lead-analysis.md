@@ -8,11 +8,15 @@ uid: 304279
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/013/928/original/Pb-ASV-pencil.png)
+
 # Pencil lead works well as an electrode material in lead analysis
 
 by [JSummers](../profile/JSummers) January 28, 2016 22:20
 
 January 28, 2016 22:20 | Tags: [potentiostat](../tag/potentiostat), [cheapstat](../tag/cheapstat), [tool](../tag/tool), [open-water](../tag/open-water), [lead](../tag/lead), [response:9932](../tag/response:9932), [pencil](../tag/pencil), [activity:potentiostat](../tag/activity:potentiostat), [lead-testing](../tag/lead-testing)
+
+----
 
 ###What I want to do
 This was a test to see if pencil lead can be used as an electrode material in electrochemical lead analysis.

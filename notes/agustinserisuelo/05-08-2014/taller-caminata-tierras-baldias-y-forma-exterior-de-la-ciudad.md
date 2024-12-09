@@ -8,11 +8,15 @@ uid: 423290
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/004/177/original/Callejero_Castell%C3%B3n_2013.jpg)
+
 # Taller / caminata: tierras baldías y forma exterior de la ciudad
 
 by [agustinserisuelo](../profile/agustinserisuelo) May 08, 2014 12:30
 
 May 08, 2014 12:30 | Tags: [balloon-mapping](../tag/balloon-mapping), [events](../tag/events), [spain](../tag/spain), [balloon-mapping-kit](../tag/balloon-mapping-kit), [kit](../tag/kit), [balloon](../tag/balloon), [lang:es](../tag/lang:es)
+
+----
 
 TIERRAS BALDÍAS Y FORMA EXTERIOR DE LA CIUDAD
 

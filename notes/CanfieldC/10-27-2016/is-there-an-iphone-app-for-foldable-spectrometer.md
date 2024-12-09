@@ -8,11 +8,15 @@ uid: 495838
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/018/638/original/IMG_3215.JPG)
+
 # Is there an iPhone app for foldable spectrometer?
 
 by [CanfieldC](../profile/CanfieldC) October 27, 2016 19:58
 
 October 27, 2016 19:58 | Tags: [education](../tag/education), [iphone](../tag/iphone), [cd](../tag/cd), [app](../tag/app), [interface](../tag/interface), [foldable](../tag/foldable), [question:spectrometry](../tag/question:spectrometry), [paper](../tag/paper), [spectrum](../tag/spectrum), [spectrometers](../tag/spectrometers), [site](../tag/site)
+
+----
 
 I assembled one of your foldable paper spectrometers, and I think I followed the directions correctly, but I get inconsistent spectra , and I am wondering if there is an app for using it on an iPhone. On your site there is a picture of an iPhone with an interface that seems to say "Capture".
 

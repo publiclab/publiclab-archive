@@ -14,6 +14,8 @@ by [awoolverton1](../profile/awoolverton1) April 07, 2022 19:27
 
 April 07, 2022 19:27 | Tags: [database](../tag/database), [permits](../tag/permits), [zoom:6](../tag/zoom:6), [with:username](../tag/with:username), [lat:30.984297](../tag/lat:30.984297), [lon:-91.962332](../tag/lon:-91.962332), [with:travislondon](../tag/with:travislondon), [formosaplastics](../tag/formosaplastics)
 
+----
+
 In Louisiana's River
 Parishes, petrochemical industries and infrastructure are [transforming](https://www.propublica.org/article/welcome-to-cancer-alley-where-toxic-air-is-about-to-get-worse "https://www.propublica.org/article/welcome-to-cancer-alley-where-toxic-air-is-about-to-get-worse") both the
 economic and environmental landscape. As the state continues to attract

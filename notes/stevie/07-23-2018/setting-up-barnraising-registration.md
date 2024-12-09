@@ -8,11 +8,15 @@ uid: 422561
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/025/857/original/Screen_Shot_2018-07-23_at_3.38.52_PM.png)
+
 # Setting up Barnraising registration 
 
 by [stevie](../profile/stevie) July 23, 2018 19:39
 
 July 23, 2018 19:39 | Tags: [events](../tag/events), [registration](../tag/registration), [with:liz](../tag/with:liz), [seeks:replications](../tag/seeks:replications), [preparations-logistics](../tag/preparations-logistics), [activity:preparations-logistics](../tag/activity:preparations-logistics), [barnraising-registration](../tag/barnraising-registration), [logistics](../tag/logistics)
+
+----
 
 Having a good process for registration can help you collect contact information from people early, and learn more about attendees who are hoping to come to your event. Registration forms are great tools to learn about considerations you'll need to account for in running a smooth event. 
 

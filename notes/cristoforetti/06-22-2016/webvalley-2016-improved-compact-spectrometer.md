@@ -8,11 +8,15 @@ uid: 470966
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/016/710/original/pl2.jpg)
+
 # WebValley 2016: improved compact spectrometer
 
 by [cristoforetti](../profile/cristoforetti) June 22, 2016 12:38
 
 June 22, 2016 12:38 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [raspberry-pi](../tag/raspberry-pi), [italy](../tag/italy), [portable](../tag/portable), [webvalley](../tag/webvalley), [raspberry-pi-spectrometer](../tag/raspberry-pi-spectrometer)
+
+----
 
 ###What I want to do
 Second post about the development of a portable spectrometer to be used outdoor on field during the WebValley 2016 Summer School (https://webvalley.fbk.eu).

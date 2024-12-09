@@ -14,6 +14,8 @@ by [pdhixenbaugh](../profile/pdhixenbaugh) March 14, 2017 14:06
 
 March 14, 2017 14:06 | Tags: [riffle](../tag/riffle), [question:riffle](../tag/question:riffle), [question:general](../tag/question:general)
 
+----
+
 ###Main question
 What are the considerations needed and lessons learned for using the riffle in real world applications? Especially submerged in water?
 

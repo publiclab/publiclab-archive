@@ -8,11 +8,15 @@ uid: 422561
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/028/184/original/pl-narrow.png)
+
 # Community Science Soil Testing Fellowship
 
 by [stevie](../profile/stevie) December 07, 2018 21:19
 
 December 07, 2018 21:19 | Tags: [soil](../tag/soil), [jobs](../tag/jobs), [fellows](../tag/fellows), [fellowship](../tag/fellowship), [soil-sampling](../tag/soil-sampling), [fellow](../tag/fellow)
+
+----
 
 **When:** Jan 5th - April 5th, 2019 </br>
 **Where:** this fellowship is not geographically restricted, however residents of the Gulf Coast are encouraged to apply.  </br>

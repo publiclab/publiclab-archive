@@ -8,11 +8,15 @@ uid: 420776
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/025/014/original/Crop.jpg)
+
 # Use of a 5$ bill for microscope calibration
 
 by [amirberAgain](../profile/amirberAgain) May 23, 2018 19:02
 
 May 23, 2018 19:02 | Tags: [barnstar:basic](../tag/barnstar:basic), [microscope](../tag/microscope), [activity:microscope](../tag/activity:microscope), [microscope-calibration](../tag/microscope-calibration), [activity:community-microscope-usage](../tag/activity:community-microscope-usage), [activity:microscope-calibration](../tag/activity:microscope-calibration), [activity:starter-community-microscope](../tag/activity:starter-community-microscope)
+
+----
 
 As suggested by @Maggpi, it would be advantageous to have a generic easy to get calibration card for microscopy. To that end, I imaged the corner of a 5$ note using two magnifications. I then imaged a USAF 1951 calibration target. Imaging was done by a Galaxy S7 and a microscope adapter. when I started to analyze the images I noticed that some of the phone camera parameters were not properly set and will repost with better images.
 

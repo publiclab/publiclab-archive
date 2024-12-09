@@ -8,11 +8,15 @@ uid: 422561
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/043/455/original/Mapping_New_Orleans'_Bayou_Bienvenue.jpg)
+
 # Fellowship Teams
 
 by [stevie](../profile/stevie), [bhamster](../profile/bhamster), [fongvania](../profile/fongvania), [amocorro](../profile/amocorro)
 
 April 23, 2021 20:16 | Tags: [organizing](../tag/organizing), [fellows](../tag/fellows), [fellowship](../tag/fellowship), [parent:fellows](../tag/parent:fellows), [fellowship-team](../tag/fellowship-team)
+
+----
 
 #Important update to Fellowship Teams Program
 Due to funding challenges, we have made the tough but necessary decision to scale back programming and take certain services offline. This includes temporarily pausing the Fellowship Team program. You can read more about [the change in programming here](https://publiclab.org/notes/jmacha/08-03-2022/important-update-from-public-lab). 

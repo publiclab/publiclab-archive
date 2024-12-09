@@ -8,11 +8,15 @@ uid: 431607
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/007/956/original/!!!photo_1.JPG)
+
 # Thermal flashlight - ENV+TECH_NEU_2014
 
 by [JuliaR](../profile/JuliaR) November 17, 2014 16:06
 
 November 17, 2014 16:06 | Tags: [thermal-photography](../tag/thermal-photography), [thermal-flashlight](../tag/thermal-flashlight), [northeastern-university](../tag/northeastern-university), [insulation](../tag/insulation), [heat](../tag/heat), [replication:625](../tag/replication:625)
+
+----
 
 ###What I want to do
 Using an Arduino kit, Julia (JuliaR), Becca (rgovoni) and Jacob (jacobmatz) from Northeastern's Environment, Technology and Society Fall semester class, constructed a thermal flashlight to measure heat variations in an academic office environment.

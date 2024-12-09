@@ -14,6 +14,8 @@ by [tonyc](../profile/tonyc)
 
 February 24, 2016 19:58 | Tags: [slit](../tag/slit)
 
+----
+
 The DIY Mount Kit is an experiment in community hardware development. The idea is to offer an evolving basket of goods through the [kits store](http://store.publiclab.org/products/diy-camera-mount-materials-bundle).
 
 The initial set of items included in the kit:

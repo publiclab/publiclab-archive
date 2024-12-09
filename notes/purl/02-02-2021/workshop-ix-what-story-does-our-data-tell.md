@@ -8,11 +8,15 @@ uid: 736598
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/042/584/original/NAS_Community_Science_in_the_Classroom_Overview.png)
+
 # Workshop IX: What Story Does Our Data Tell?
 
 by [purl](../profile/purl) February 02, 2021 15:27
 
 February 02, 2021 15:27 | Tags: [education](../tag/education)
+
+----
 
 This lesson is part of a series of lessons designed for educators to facilitate student-led inquiry around environmental topics. If there are time constraints, this lesson can be split into two at the Elaborate portion of the lesson. During Phase I of this series, students work towards identifying and learning about environmental topics.  
 

@@ -8,11 +8,15 @@ uid: 749812
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/043/813/original/Science_Pothole_1.jpg)
+
 # The Pothole Problem: A New Orleans Pothole Project
 
 by [Rgaude](../profile/Rgaude) May 14, 2021 15:13
 
 May 14, 2021 15:13 | Tags: [gulf-coast](../tag/gulf-coast), [laplace](../tag/laplace), [louisiana](../tag/louisiana), [transportation](../tag/transportation), [new-orleans](../tag/new-orleans), [potholes](../tag/potholes), [roads](../tag/roads), [stem](../tag/stem), [zoom:7](../tag/zoom:7), [asphalt](../tag/asphalt), [lat:30.050076](../tag/lat:30.050076), [lon:-90.571289](../tag/lon:-90.571289)
+
+----
 
 Problems:
 

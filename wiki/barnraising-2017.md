@@ -8,11 +8,15 @@ uid: 422561
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/022/419/original/20171103_091213.jpg)
+
 # Barnraising 2017
 
 by [stevie](../profile/stevie)
 
 November 15, 2017 15:21 | Tags: [barnraising](../tag/barnraising)
+
+----
 
 Public Lab hosted the 2017 Barnraising November 3rd-5th at LUMCON in Cocodrie, Louisiana. The event drew 36 people from 12 states, and event brought participants from Germany and China! Check out some of the materials below and continue the conversations of Barnraising! 
 
@@ -56,7 +60,7 @@ People coming to the Barnraising often want to share on deep topics of interest 
 
 ## Questions
 
-[questions:barnraising]
+[barnraising](../../tag/question:barnraising)
 
 ##The Barnraiser
 The Barnraiser is a daily paper print publication participants in the Barnraising work together to produce. Below are copies of the Barnraiser that came out of this event: 
@@ -65,5 +69,5 @@ The Barnraiser is a daily paper print publication participants in the Barnraisin
 
 ##Notes and photos that came out of the Barnraising: 
 
-[notes:barnraising-2017]
+[barnraising-2017](../../tag/barnraising-2017)
 

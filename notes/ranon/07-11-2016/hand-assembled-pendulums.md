@@ -8,11 +8,15 @@ uid: 477060
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/016/951/original/Pendulum_with_rig.jpg)
+
 # Hand Assembled Pendulums
 
 by [ranon](../profile/ranon) July 11, 2016 18:29
 
 July 11, 2016 18:29 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-aerial-photography](../tag/kite-aerial-photography), [kap](../tag/kap), [photo-rig](../tag/photo-rig), [autokap](../tag/autokap), [kap-rigs](../tag/kap-rigs), [pendulum](../tag/pendulum), [pendulum-rig](../tag/pendulum-rig), [reconfigurable-rig](../tag/reconfigurable-rig), [activity:photo-rig](../tag/activity:photo-rig)
+
+----
 
 ###No Tools Required
 

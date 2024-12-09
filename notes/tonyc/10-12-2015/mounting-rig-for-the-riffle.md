@@ -8,11 +8,15 @@ uid: 447491
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/011/930/original/P_20151012_150854.jpg)
+
 # Mounting rig for the Riffle
 
 by [tonyc](../profile/tonyc) October 12, 2015 23:01
 
 October 12, 2015 23:01 | Tags: [riffle](../tag/riffle), [parent:riffle](../tag/parent:riffle), [riffle-examples](../tag/riffle-examples)
+
+----
 
 ###create a method for deploying Riffle data logger inside of a soda bottle, using cheap materials and protecting against damage
 

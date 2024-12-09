@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/sites/default/files/poly-Snowy-1200.jpg)
+
 # Polynomial
 
 by [cfastie](../profile/cfastie) March 07, 2013 04:14
 
 March 07, 2013 04:14 | Tags: [spectrometer](../tag/spectrometer), [vermont](../tag/vermont), [calibration](../tag/calibration), [spectralworkbench](../tag/spectralworkbench), [cfl](../tag/cfl), [ebert](../tag/ebert), [nonlinear](../tag/nonlinear), [non-linear](../tag/non-linear), [polynomial](../tag/polynomial)
+
+----
 
 <em>Image above: Spectrum of a CFL calibrated by anchoring two well-known peaks at 405 and 650 nm (arrows). Other peaks do not align well with their known wavelengths.</em>
 

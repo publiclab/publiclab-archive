@@ -8,9 +8,13 @@ uid: 331
 
 ---
 
+![](https://publiclab.org/sites/default/files/Dear Public Laboratory Community.jpg)
+
 # Searching to Interview: sonobuoy/hydrophone Expert...
 
 by [mara](../profile/mara) January 26, 2012 02:59
 
 January 26, 2012 02:59 | Tags: 
+
+----
 

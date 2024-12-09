@@ -14,6 +14,8 @@ by [Filipaul](../profile/Filipaul) February 26, 2020 19:12
 
 February 26, 2020 19:12 | Tags: [temperature](../tag/temperature), [climate-change](../tag/climate-change), [climate](../tag/climate), [global](../tag/global), [heat](../tag/heat), [question:general](../tag/question:general), [general](../tag/general), [wildfires](../tag/wildfires), [warming](../tag/warming), [ghg](../tag/ghg), [question:climate-change](../tag/question:climate-change)
 
+----
+
 Background
 
 Extreme heat is a particularly deadly impact of climate change. Heatwaves have caused more fatalities in the U.S. in recent decades than any other weather event. Elderly, children and those with chronic respiratory illness are most susceptible to heat in their homes and neighborhoods. A recent article in the Smithsonian Magazine reported that the 2010s was the second hottest decade on record, confirming that global warming is accelerating faster and more intensely than previously expected.  

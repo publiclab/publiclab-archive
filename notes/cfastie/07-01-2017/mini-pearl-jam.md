@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/020/955/original/mini_20170630-9785.JPG)
+
 # Mini Pearl Jam
 
 by [cfastie](../profile/cfastie) July 01, 2017 05:00
 
 July 01, 2017 05:00 | Tags: [arduino](../tag/arduino), [sensors](../tag/sensors), [data-logging](../tag/data-logging), [bme280](../tag/bme280), [arduino-pro-mini](../tag/arduino-pro-mini), [mcp9808](../tag/mcp9808), [response:14518](../tag/response:14518), [mini-pearl-logger](../tag/mini-pearl-logger), [activity:mini-pearl-logger](../tag/activity:mini-pearl-logger)
+
+----
 
 *Above: Some perfectly good resistors that I removed from some perfectly good PCBs in hopes of lowering the sleep current of the Mini Pearl Logger.*
 

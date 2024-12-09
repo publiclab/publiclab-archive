@@ -14,6 +14,8 @@ by [Shannon](../profile/Shannon) May 25, 2012 17:41
 
 May 25, 2012 17:41 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
 
+----
+
 Greetings! This week the Public Lab community newsletter has listings for a couple great events tomorrow (read quick and then go!) as well as a call for you to become a contributing passenger pigeon (caught your interest huh?) and a recap of cover crop infrared farm mapping. In addition, new research notes from this past week include a great range of topics-- from a video on hydrogen balloons (and yes an explosion) to a recap of May Day mapping and photostrip tests for hydrogen sulfide at the Frasassi Caves in Italy.
 
 1) This past Wednesday, there was a cover crop infrared farm mapping in Lee, New Hampshire with [FarmHack](http://www.youngfarmers.org/practical/farm-hack/) and folks from UMass Amhearst. Images are coming soon, but in the meantime, read more and access links on the [FarmHack forum](http://www.farmhack.net/forums/say-hi) or catch up on [covercrop remote sensing imaging](http://www.farmhack.net/tools/covercrop-remote-sensing-imaging). 

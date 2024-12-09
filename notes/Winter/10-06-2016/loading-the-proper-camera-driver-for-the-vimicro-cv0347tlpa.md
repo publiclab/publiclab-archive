@@ -14,6 +14,8 @@ by [Winter](../profile/Winter) October 06, 2016 13:41
 
 October 06, 2016 13:41 | Tags: [webcam](../tag/webcam), [dsk](../tag/dsk), [infragram](../tag/infragram), [camera](../tag/camera), [question:infragram](../tag/question:infragram), [question:infrared](../tag/question:infrared), [driver](../tag/driver), [question:infragram-webcam](../tag/question:infragram-webcam)
 
+----
+
 ###What I want to do or know?
 I would like to load the correct driver for the VIDEW JDEPC-OV04 camera for Windows 10.
 

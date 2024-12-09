@@ -8,11 +8,15 @@ uid: 555321
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/032/366/original/pl2.jpg)
+
 # Public Lab's contribution framework (deep dive 2019)
 
 by [sashadev-sky](../profile/sashadev-sky) May 16, 2019 16:18
 
 May 16, 2019 16:18 | Tags: [software](../tag/software), [blog](../tag/blog), [code](../tag/code), [barnstar:basic](../tag/barnstar:basic), [software-outreach](../tag/software-outreach), [first-time-poster](../tag/first-time-poster)
+
+----
 
 ## 7 Months
 

@@ -8,11 +8,15 @@ uid: 497123
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/020/444/original/13.png)
+
 # Use Archive.org to share large photo collections
 
 by [xose](../profile/xose) May 13, 2017 14:57
 
 May 13, 2017 14:57 | Tags: [photo-monitoring](../tag/photo-monitoring), [barnstar:basic](../tag/barnstar:basic), [difficulty:easy](../tag/difficulty:easy), [activity:photo-sharing](../tag/activity:photo-sharing), [archiving](../tag/archiving), [archive.org](../tag/archive.org)
+
+----
 
 In [#balloon-mapping](https://publiclab.org/tag/balloon-mapping), [#timelapse](https://publiclab.org/tag/timelapse), #[photo-monitoring](https://publiclab.org/tag/photo-monitoring) and other methods documented on this site, you often end up with thousands of photos -- this activity shows how to upload and share them using [Archive.org](https://archive.org).
 

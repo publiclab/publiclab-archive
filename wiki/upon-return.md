@@ -14,6 +14,8 @@ by [liz](../profile/liz), [gonzoearth](../profile/gonzoearth), [warren](../profi
 
 May 09, 2011 04:37 | Tags: [redirect:13474](../tag/redirect:13474)
 
+----
+
 Upon return from your balloon mapping trip, you'll want to:
 
 * First, select the clearest, most straight down images of your desired area:

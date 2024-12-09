@@ -14,6 +14,8 @@ by [vibhor](../profile/vibhor) November 05, 2016 16:46
 
 November 05, 2016 16:46 | Tags: [water](../tag/water), [question:water-quality](../tag/question:water-quality), [question:microbeads](../tag/question:microbeads), [microbeads](../tag/microbeads), [microfibers](../tag/microfibers), [ocean](../tag/ocean), [micro-plastics](../tag/micro-plastics), [question:microplastics](../tag/question:microplastics), [microplastics](../tag/microplastics), [question:micro-plastics](../tag/question:micro-plastics)
 
+----
+
 ###What I want to do or know
 Ideas to detect or remove micro plastics from household used water from sinks, washning machines
 ###Background story

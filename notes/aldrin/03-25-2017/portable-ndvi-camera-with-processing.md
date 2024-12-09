@@ -14,6 +14,8 @@ by [aldrin](../profile/aldrin) March 25, 2017 15:12
 
 March 25, 2017 15:12 | Tags: [ndvi](../tag/ndvi), [question:general](../tag/question:general)
 
+----
+
 ###What I want to do or know
 We want to know how to calibrate pi NOIR camera with red filter and provide the image processing inside the raspberry pi using python
 

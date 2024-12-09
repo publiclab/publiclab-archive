@@ -8,11 +8,15 @@ uid: 294634
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/002/478/original/ThermaHack.jpg)
+
 # Thermal Flashlight from hacked, off-the-shelf Pocket IR Thermometer 
 
 by [ajawitz](../profile/ajawitz) January 03, 2014 21:10
 
 January 03, 2014 21:10 | Tags: [thermal-photography](../tag/thermal-photography), [thermal-flashlight](../tag/thermal-flashlight), [thermal-camera](../tag/thermal-camera), [tool](../tag/tool), [activity:thermal-flashlight](../tag/activity:thermal-flashlight), [upgrade:thermal-flashlight](../tag/upgrade:thermal-flashlight), [activity:thermal-flashlight-assembly](../tag/activity:thermal-flashlight-assembly)
+
+----
 
 ###What I want to do
 I would like to hack an off-the-shelf IR Thermometer found at any Radio Shack (link and image below) for use as a cheaper an more accessible component in the thermal flashlight build.

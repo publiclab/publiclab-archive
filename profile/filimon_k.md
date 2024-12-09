@@ -3,6 +3,8 @@ uid: 460113
 created_at: 2015-12-13 18:59:49 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/7565c2b047486ad73172a7a96013ad6b)
+
 # filimon_k
 
 Air quality (Ozone sensor)/ and Blue light sensors team group from Do It Together course given in the University of Massachusetts Amherst - Fall 2015 

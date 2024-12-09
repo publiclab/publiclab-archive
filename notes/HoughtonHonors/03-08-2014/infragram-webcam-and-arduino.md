@@ -8,11 +8,15 @@ uid: 420590
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/003/182/original/arduino.jpg)
+
 # Infragram Webcam and Arduino
 
 by [HoughtonHonors](../profile/HoughtonHonors) March 08, 2014 22:08
 
 March 08, 2014 22:08 | Tags: [radiosonde](../tag/radiosonde)
+
+----
 
 I am working on building a radiosonde (weather balloon). From this radiosonde I'd like to take NDVI pictures so I can see how the ratio of infrared to visible light changes with altitude. 
 

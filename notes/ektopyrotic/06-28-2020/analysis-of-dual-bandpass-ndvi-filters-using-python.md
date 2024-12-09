@@ -8,11 +8,15 @@ uid: 699450
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/039/987/original/ScientificPlottingPython.png)
+
 # Analysis of Dual-Bandpass NDVI Filters using Python 
 
 by [ektopyrotic](../profile/ektopyrotic) June 28, 2020 00:00
 
 June 28, 2020 00:00 | Tags: [ndvi](../tag/ndvi), [nir](../tag/nir), [infrared](../tag/infrared), [analysis](../tag/analysis), [research](../tag/research), [camera](../tag/camera), [histogram](../tag/histogram), [python](../tag/python), [filters](../tag/filters), [spectrum](../tag/spectrum), [graphs](../tag/graphs), [zoom:6](../tag/zoom:6), [lat:53.349805](../tag/lat:53.349805), [lon:-6.260309](../tag/lon:-6.260309), [plotting](../tag/plotting), [scientific](../tag/scientific)
+
+----
 
 Full article detailed here:[http://muonray.blogspot.com/2020/06/plotting-for-scientific-and-engineering.html](http://muonray.blogspot.com/2020/06/plotting-for-scientific-and-engineering.html)
 

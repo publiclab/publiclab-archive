@@ -8,11 +8,15 @@ uid: 43651
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/012/320/original/t7.png)
+
 # Turbidity sensor prototype
 
 by [donblair](../profile/donblair) November 01, 2015 05:41
 
 November 01, 2015 05:41 | Tags: [water-quality](../tag/water-quality), [water](../tag/water), [water-quality-sensor](../tag/water-quality-sensor), [turbidity](../tag/turbidity), [riffle](../tag/riffle), [openwater](../tag/openwater), [activity:turbidity](../tag/activity:turbidity), [water-sensors](../tag/water-sensors)
+
+----
 
 Surrounded by friends who were putting together Dracula, Zombie, and etc equipment, I decided to: work on turbidity!
 

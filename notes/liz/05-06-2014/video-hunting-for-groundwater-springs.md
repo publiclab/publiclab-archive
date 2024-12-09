@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/004/091/original/Screen_Shot_2014-05-06_at_5.10.39_PM.png)
+
 # VIDEO: hunting for groundwater springs
 
 by [liz](../profile/liz) May 06, 2014 21:12
 
 May 06, 2014 21:12 | Tags: [new-york-city](../tag/new-york-city), [gowanus](../tag/gowanus), [proteus-gowanus](../tag/proteus-gowanus), [spring](../tag/spring)
+
+----
 
 **This note is posted in behalf of [Eymund](/profile/eymund), and is reposted from the [Flickr Stream of Proteus Gowanus](https://www.flickr.com/photos/51802375@N04/13545808113/).**
 

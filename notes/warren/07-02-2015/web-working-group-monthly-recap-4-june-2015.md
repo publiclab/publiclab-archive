@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/010/510/original/network-plots2.png)
+
 # Web Working Group Monthly Recap 4: June 2015
 
 by [warren](../profile/warren) July 02, 2015 14:07
 
 July 02, 2015 14:07 | Tags: [mapknitter](../tag/mapknitter), [web-development](../tag/web-development), [software](../tag/software), [plots2](../tag/plots2), [spectral-workbench](../tag/spectral-workbench), [web-wg](../tag/web-wg), [wwg](../tag/wwg), [webwg](../tag/webwg), [response:11963](../tag/response:11963)
+
+----
 
 Hello all, happy 4th in advance, and here's our latest recap from PL's Web Working Group:
 

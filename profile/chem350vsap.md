@@ -3,6 +3,8 @@ uid: 50508
 created_at: 2016-09-09 14:17:30 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/b0369f7a934545b8996843c1026c5d38)
+
 # chem350vsap
 
 

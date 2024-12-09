@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/sites/default/files/FiveBoroughFarmLogo.jpg)
+
 # Invitation to Gardeners and Farmers
 
 by [liz](../profile/liz) February 07, 2013 21:32
 
 February 07, 2013 21:32 | Tags: [5bf](../tag/5bf), [five-borough-farm](../tag/five-borough-farm), [urban-ag](../tag/urban-ag), [community-garden](../tag/community-garden), [food](../tag/food)
+
+----
 
 January 2013
 

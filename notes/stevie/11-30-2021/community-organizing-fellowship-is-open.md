@@ -8,11 +8,15 @@ uid: 422561
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/045/114/original/IMG_2044.JPG)
+
 # Community Organizing Fellowship is open!
 
 by [stevie](../profile/stevie) November 30, 2021 19:49
 
 November 30, 2021 19:49 | Tags: [organizing](../tag/organizing), [jobs](../tag/jobs), [fellows](../tag/fellows), [fellowships](../tag/fellowships), [frontline-communities](../tag/frontline-communities), [frontline](../tag/frontline)
+
+----
 
 ##Community Organizing Fellowship is open with Public Lab!! 
 

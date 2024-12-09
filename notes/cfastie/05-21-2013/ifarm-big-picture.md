@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/000/367/original/Angels_6121.jpg)
+
 # iFarm Big Picture
 
 by [cfastie](../profile/cfastie) May 21, 2013 16:16
 
 May 21, 2013 16:16 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [ndvi](../tag/ndvi), [vermont](../tag/vermont), [new-hampshire](../tag/new-hampshire), [event](../tag/event), [infragram](../tag/infragram), [cfastie](../tag/cfastie), [ifarm](../tag/ifarm), [gigapan](../tag/gigapan), [ifarm2013](../tag/ifarm2013), [northeast](../tag/northeast)
+
+----
 
 <em>Image above: All the iFarm participants graciously made Hay Angels for the kite borne camera, but it was not pointed straight down and missed most of the angels. We will have to try again next year.</em>
 

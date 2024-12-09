@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/016/198/original/riffle_20160517-5561.jpg)
+
 # Riffle test 1
 
 by [cfastie](../profile/cfastie) May 18, 2016 05:01
 
 May 18, 2016 05:01 | Tags: [arduino](../tag/arduino), [water-quality](../tag/water-quality), [riffle](../tag/riffle), [micro-sd](../tag/micro-sd), [category:verify](../tag/category:verify), [activity:riffle](../tag/activity:riffle), [activity:datalogger](../tag/activity:datalogger), [activity:data-logging](../tag/activity:data-logging)
+
+----
 
 A beta Riffle arrived today for testing. The Riffle is a custom microcontroller board optimized for collecting data from sensors during long deployments in the field. It is based on a common Arduino processor, but standard Arduino boards sometimes last only a few days on battery power. The Riffle integrates some features that standard Arduinos do not have (e.g, a micro SD card slot, a clock that runs even when the board is off or asleep, some custom circuitry for smart power management) so it can collect data for months on a small battery. It does not have any environmental sensors, it just does the work of collecting and saving data from any sensor connected to it.
 

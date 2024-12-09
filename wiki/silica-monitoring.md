@@ -14,6 +14,8 @@ by [bhamster](../profile/bhamster), [warren](../profile/warren), [gretchengehrke
 
 February 15, 2016 08:00 | Tags: [regulations](../tag/regulations), [fracking](../tag/fracking), [dust](../tag/dust), [silica](../tag/silica), [particulate](../tag/particulate), [frac-sand](../tag/frac-sand), [pm](../tag/pm), [parent:pm](../tag/parent:pm), [particulate-matter](../tag/particulate-matter), [silica-monitoring](../tag/silica-monitoring), [federal-regulations](../tag/federal-regulations), [state-regulations](../tag/state-regulations), [parent:air-quality](../tag/parent:air-quality), [respirable-silica](../tag/respirable-silica), [crystalline-silica](../tag/crystalline-silica)
 
+----
+
 Small silica dust is carcinogenic, and exposure to silica has been recognized an occupational health concern for decades.  This size range of particle can travel long distances suspended in the atmosphere and particles smaller than 5 μm are easily lodged in the lungs.  
 
 In natural settings sand does not usually fracture this small, but under pressure in industrial operations and on roadways, silica can be ground to this respirable size.  Road construction, non-metallic mining, glass grinding and sand-blasting are common sources of silica pollution. 
@@ -28,7 +30,7 @@ The following sections discuss regulations around silica and how they relate to 
 
 ## Questions
 
-[questions:silica-monitoring]
+[silica-monitoring](../../tag/question:silica-monitoring)
 
 ****
 

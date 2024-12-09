@@ -14,6 +14,8 @@ by [edie_blues](../profile/edie_blues) December 13, 2018 21:03
 
 December 13, 2018 21:03 | Tags: [design](../tag/design), [ui](../tag/ui), [ui-designs](../tag/ui-designs)
 
+----
+
 Hello :)
 
 I'm Eva, I'm a web designer and I'll be working on a new design for the Public Lab dashboard (among other things).

@@ -14,6 +14,8 @@ by [liz](../profile/liz)
 
 July 25, 2018 18:40 | Tags: [barnraising](../tag/barnraising), [parent:barnraising](../tag/parent:barnraising), [barnraising-newark-2018](../tag/barnraising-newark-2018), [barnraising-2018](../tag/barnraising-2018)
 
+----
+
 **July 2018**: we gathered for three days in Newark, part of the NJ/NY metropolitan region with coastal neighborhoods & infrastructure vulnerable to storm surges and  flooding. On Day One, we focused on the Crisis Convening topic. On Day Two & Three, the agenda-setting power moved to the participants for the Barnraising. 
 
 * **[Crisis Convening](/crisis-convening): Friday, July 13, 2018**

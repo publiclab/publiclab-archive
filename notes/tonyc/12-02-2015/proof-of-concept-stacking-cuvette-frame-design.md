@@ -8,11 +8,15 @@ uid: 447491
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/013/155/original/P_20151202_103545.jpg)
+
 # proof of concept, stacking cuvette frame design
 
 by [tonyc](../profile/tonyc) December 02, 2015 19:19
 
 December 02, 2015 19:19 | Tags: [spectrometer](../tag/spectrometer), [desktop-spectrometer](../tag/desktop-spectrometer), [cuvette](../tag/cuvette), [oil-testing-kit](../tag/oil-testing-kit), [papercraft](../tag/papercraft), [response:12462](../tag/response:12462), [cuvette-frame](../tag/cuvette-frame)
+
+----
 
 ###What is this?
 I wanted to show a different idea for a cuvette frame, with emphasis on simplicity of construction to allow for home-building.

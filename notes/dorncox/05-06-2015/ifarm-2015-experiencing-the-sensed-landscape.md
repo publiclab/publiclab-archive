@@ -8,11 +8,15 @@ uid: 1205
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/009/817/original/IMG_0296.JPG)
+
 #  iFARM 2015  “Experiencing the Sensed Landscape”
 
 by [dorncox](../profile/dorncox) May 06, 2015 14:17
 
 May 06, 2015 14:17 | Tags: [uav](../tag/uav), [farm](../tag/farm), [event](../tag/event), [ifarm](../tag/ifarm), [event:rsvp](../tag/event:rsvp), [2015](../tag/2015), [new](../tag/new), [hack](../tag/hack), [rov](../tag/rov), [hampshire](../tag/hampshire), [nh](../tag/nh), [date:05-12-2015](../tag/date:05-12-2015)
+
+----
 
 
 **Description**

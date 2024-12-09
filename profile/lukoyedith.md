@@ -3,6 +3,8 @@ uid: 751723
 created_at: 2021-04-05 11:33:10 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/554492fffac645fd3cf9e8eccb24e46b)
+
 # lukoyedith
 
 Love reading new research and studying various topics.

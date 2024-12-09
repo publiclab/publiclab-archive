@@ -14,6 +14,8 @@ by [warren](../profile/warren) March 09, 2012 20:00
 
 March 09, 2012 20:00 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [spectrometer](../tag/spectrometer), [thermal-photography](../tag/thermal-photography), [kite-mapping](../tag/kite-mapping), [open-source](../tag/open-source), [licensing](../tag/licensing), [ohl](../tag/ohl), [open-hardware](../tag/open-hardware), [cern-ohl](../tag/cern-ohl)
 
+----
+
 Hello Public Labbers and Grassroots Mappers!
 
 To date, the documentation and open science literature we've made as a community has been published under a Creative Commons ShareAlike license, allowing anyone to reuse, remix, adapt, improve, and redistribute our works. Today, the PLOTS Web working group would like to propose that we as a community adopt a separate license for our hardware designs, and after much consultation, we'd like to adopt the [CERN Open Hardware License](http://www.ohwr.org/projects/cernohl/wiki).

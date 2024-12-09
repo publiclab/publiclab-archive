@@ -8,11 +8,15 @@ uid: 426041
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/009/548/original/alive-sm.jpg)
+
 # XbeePal ready for monitoring
 
 by [claf](../profile/claf) April 05, 2015 16:40
 
 April 05, 2015 16:40 | Tags: [air-quality](../tag/air-quality), [fracking](../tag/fracking), [mesh](../tag/mesh), [xbee](../tag/xbee), [zigbee](../tag/zigbee), [network](../tag/network)
+
+----
 
 This project could be useful for ways citizens can monitor air quality, for example, specific elements used in fracking, and to combine collection of IR video and gas sensing in one box, or scatter many different sensors over a large area.
 

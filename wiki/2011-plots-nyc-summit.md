@@ -14,6 +14,8 @@ by [Shannon](../profile/Shannon), [liz](../profile/liz), [mathew](../profile/mat
 
 December 14, 2010 21:01 | Tags: 
 
+----
+
 This page holds the schedule for the March 25-27 workshop -- a smaller meeting of the board and other interested parties. Emphasis on framing PLOTS and planning, not as much on outreach yet.
 
 Some organization has happened on this Google doc page: https://docs.google.com/document/d/1ssdwfbU8h8l-wh5DOuIrLoqVeJyOMQQbbCtZIDZYyII/edit?hl=en#

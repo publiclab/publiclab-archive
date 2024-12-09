@@ -14,6 +14,8 @@ by [Becki](../profile/Becki), [warren](../profile/warren), [Shannon](../profile/
 
 November 18, 2011 15:39 | Tags: [community](../tag/community), [welcome](../tag/welcome), [needs-revision](../tag/needs-revision)
 
+----
+
 <div class="alert">This page needs revision</div>
 
 In this document are some of the most asked questions about Public Lab (written in April 2011, recently revised). 

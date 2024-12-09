@@ -8,11 +8,15 @@ uid: 12
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/000/211/original/logo-boots.png)
+
 # Public Lab Weekly Newsletter 5.11.13
 
 by [gonzoearth](../profile/gonzoearth) May 11, 2013 17:49
 
 May 11, 2013 17:49 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
+
+----
 
 ##Public Lab community weekly update##
 We're pleased to announce that the Public Lab nonprofit will be participating in the second class of the Points of Light civic accelerator: http://venturebeat.com/2013/05/10/10-startups-put-civic-lens-on-tech-to-drive-change-in-communities/

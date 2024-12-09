@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/000/903/original/hayangel1800.jpg)
+
 # WATERCHESTNUT Big Picture
 
 by [cfastie](../profile/cfastie) July 23, 2013 22:20
 
 July 23, 2013 22:20 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [vermont](../tag/vermont), [vegetation-mapping](../tag/vegetation-mapping), [lake](../tag/lake), [pvos](../tag/pvos), [event](../tag/event), [massachusetts](../tag/massachusetts), [invasive](../tag/invasive), [umass-amherst](../tag/umass-amherst), [aquatic](../tag/aquatic), [usfws](../tag/usfws), [classification](../tag/classification), [h2onutz](../tag/h2onutz), [invasive-species](../tag/invasive-species), [pioneer-valley](../tag/pioneer-valley)
+
+----
 
 <em>Image above: Monday’s WATERCHESTNUT crew as the big balloon landed after a 2.5 hour flight. Half of these people were tasked with harvesting the invasive water chestnut from Lake Warner, and the others tried to document the extent of the invasion using aerial photography.</em>
 

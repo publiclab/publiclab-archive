@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/sites/default/files/HeliumVid.jpg)
+
 # Global helium shortage
 
 by [cfastie](../profile/cfastie) August 25, 2012 02:27
 
 August 25, 2012 02:27 | Tags: [balloon-mapping](../tag/balloon-mapping)
+
+----
 
 <a href="http://newsfeed.time.com/2012/08/23/theres-a-helium-shortage-on-and-its-affecting-more-than-just-balloons/#the-government">From this story at Time:</a>
 

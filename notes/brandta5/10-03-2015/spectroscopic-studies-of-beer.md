@@ -14,6 +14,8 @@ by [brandta5](../profile/brandta5) October 03, 2015 19:27
 
 October 03, 2015 19:27 | Tags: [first-time-poster](../tag/first-time-poster)
 
+----
+
 ###What I want to do
 I want to use the Desktop Spectrometry Kit to classify different types of Local Brews in Connecticut
 ###My attempt and results

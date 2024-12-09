@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/000/916/original/WarnerLkVis7198Wolffia.jpg)
+
 # Lake Warner Workflow
 
 by [cfastie](../profile/cfastie) July 25, 2013 21:41
 
 July 25, 2013 21:41 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [vermont](../tag/vermont), [ground-control-points](../tag/ground-control-points), [lake](../tag/lake), [gps](../tag/gps), [pvos](../tag/pvos), [event](../tag/event), [massachusetts](../tag/massachusetts), [google-earth](../tag/google-earth), [invasive](../tag/invasive), [umass-amherst](../tag/umass-amherst), [aquatic](../tag/aquatic), [usfws](../tag/usfws), [classification](../tag/classification), [response:8926](../tag/response:8926), [georeferencing](../tag/georeferencing), [h2onutz](../tag/h2onutz), [activity:site-survey](../tag/activity:site-survey)
+
+----
 
 <em>Image above: ASSUME WAYPOINT POSITION! When we were taking a waypoint (waiting for the GPSr to average for 60 seconds) Charlie and I put our paddles on the gunwales so we would know which photos had good ground control. This waypoint was to mark the big patch of pure water meal (Wolffia sp.) starboard of the canoe. The genus Wolffia includes the smallest flowering plants on Earth. Also visible in this scene (in order of abundance) are white water lily (Nymphaea odorata), pond weed (Potemageton sp.), water chestnut (Trapa natans), and white lawn chair (Seatus Peeveeseeus). Click to enlarge.</em>
 

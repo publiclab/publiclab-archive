@@ -8,11 +8,15 @@ uid: 422561
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/044/762/original/Ida.jpeg)
+
 # Ida
 
 by [laurel_mire](../profile/laurel_mire), [stevie](../profile/stevie)
 
 August 30, 2021 18:56 | Tags: [hurricane](../tag/hurricane), [climate-change](../tag/climate-change), [disaster-response](../tag/disaster-response), [ida](../tag/ida), [hurricane-ida](../tag/hurricane-ida)
+
+----
 
 This is a resources collecting page for Hurricane Ida response; we are **not** an emergency service provider, but non-emergency **questions, requests, inquiries, report-ins, offers of help or capacity are welcome**. We are also maintaining a list of [places to donate to](#donate).
 
@@ -29,7 +33,7 @@ If there are other efforts with similar aims, we don't want to duplicate or draw
 
 We are happy to feature report-ins from folks involved in Ida response on this page -- you can [post them here](/post?tags=ida,ida-response). 
 
-[notes:ida!question:ida]
+[ida!question:ida](../../tag/ida!question:ida)
 
 ### Asks and offers 
 
@@ -40,7 +44,7 @@ If there are **specific asks or offers**, what works best is to break those out 
 
 That way we can get people connected up, whether they want to pitch in or they have information you need.
 
-[questions:ida]
+[ida](../../tag/question:ida)
 
 ###Follow this topic and stay up to date! 
 <a class="btn btn-large btn-primary" href="https://publiclab.org/subscribe/tag/ida">Subscribe to updates on this issue </a>

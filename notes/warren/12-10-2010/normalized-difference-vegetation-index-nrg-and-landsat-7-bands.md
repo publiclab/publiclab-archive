@@ -14,6 +14,8 @@ by [warren](../profile/warren) December 11, 2010 01:18
 
 December 11, 2010 01:18 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [landsat](../tag/landsat), [satellite-imagery](../tag/satellite-imagery)
 
+----
+
 OK, for reference, NDVI is often based on Landsat images. Landsat 7 (the current landsat) has these bands:
 
 <p><strong>Spectral sensitivity of Landsat 7 Bands:</strong></p>

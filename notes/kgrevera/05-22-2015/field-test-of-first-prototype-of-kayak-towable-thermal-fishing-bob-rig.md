@@ -8,11 +8,15 @@ uid: 432001
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/009/978/original/Screen_Shot_2015-05-22_at_7.05.40_PM.png)
+
 # Field Test of First Prototype of Kayak Towable Thermal Fishing Bob Rig
 
 by [kgrevera](../profile/kgrevera) May 22, 2015 23:10
 
 May 22, 2015 23:10 | Tags: [thermal-photography](../tag/thermal-photography), [water-quality](../tag/water-quality), [thermal-fishing-bob](../tag/thermal-fishing-bob), [thermal](../tag/thermal), [thermal-pollution](../tag/thermal-pollution), [heat](../tag/heat), [replication:689](../tag/replication:689)
+
+----
 
 #Field Test of First Prototype of Kayak Towable Thermal Fishing Bob Rig
 

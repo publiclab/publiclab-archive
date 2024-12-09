@@ -14,6 +14,8 @@ by [gilbert](../profile/gilbert) October 30, 2017 15:03
 
 October 30, 2017 15:03 | Tags: [water-quality-monitoring](../tag/water-quality-monitoring), [water-quality](../tag/water-quality), [question:water-quality](../tag/question:water-quality), [spatial-database](../tag/spatial-database)
 
+----
+
 [https://publiclab.org/notes/gilbert/10-27-2017/water-quality-regulations-testing-methods-health-risks-advocacy?\_=1509375149](https://publiclab.org/notes/gilbert/10-27-2017/water-quality-regulations-testing-methods-health-risks-advocacy?_=1509375149)
 
 The objective would be to develop a spatial database, indicating populations and ecosystems at risk for specific water quality threats, thereby facilitating networking and collective advocacy to effectively address problems and to promote sustainable clean water resources.

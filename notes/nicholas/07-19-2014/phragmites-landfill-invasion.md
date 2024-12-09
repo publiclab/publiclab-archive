@@ -8,11 +8,15 @@ uid: 53894
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/005/400/original/Screen_Shot_2014-07-17_at_18.12.34.png)
+
 # Phragmites Landfill Invasion
 
 by [nicholas](../profile/nicholas) July 19, 2014 21:58
 
 July 19, 2014 21:58 | Tags: [new-york-city](../tag/new-york-city), [balloon-mapping](../tag/balloon-mapping), [landfill](../tag/landfill), [waste](../tag/waste), [invasive](../tag/invasive), [invasives](../tag/invasives), [invasive-species](../tag/invasive-species), [freshkills](../tag/freshkills), [phragmites](../tag/phragmites)
+
+----
 
 ###What I want to do
 

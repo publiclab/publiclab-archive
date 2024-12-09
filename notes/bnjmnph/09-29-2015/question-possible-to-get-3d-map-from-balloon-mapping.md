@@ -14,6 +14,8 @@ by [bnjmnph](../profile/bnjmnph) September 29, 2015 02:59
 
 September 29, 2015 02:59 | Tags: [question:balloon-mapping](../tag/question:balloon-mapping)
 
+----
+
 ###What I want to do or know
 I would like to know if it is possible to get a 3D map (orthomosaic) from using the balloon mapping method; like what you would get if you use a UAV/Drone (eBee, DJI Inspire). Or does the balloon mapping only create a flat 2D map without data on the terrain/topography?
 

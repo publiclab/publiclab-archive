@@ -8,11 +8,15 @@ uid: 461120
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/017/436/original/DVD_INSTRUCTION.png)
+
 # Build Instructions For The DH 4.0 v4 Spectrometer
 
 by [dhaffnersr](../profile/dhaffnersr) August 09, 2016 11:58
 
 August 09, 2016 11:58 | Tags: [upgrade:spectrometry](../tag/upgrade:spectrometry)
+
+----
 
 **Here are the step by step instructions for building the spectrometer that I am using at this moment.**
 

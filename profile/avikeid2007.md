@@ -3,6 +3,8 @@ uid: 579541
 created_at: 2019-03-18 10:46:45 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/579541/medium/me.jpg)
+
 # avikeid2007
 
 Senior Software Engineer, having 5+ year experience in Microsoft technologies(WPF, UWP & C#). Keeps a close eye on IoT &  Artificial Intelligence Stuff. For more visit here <a href="http://avnishkumar.co.in/">avnishkumar.co.in</a>

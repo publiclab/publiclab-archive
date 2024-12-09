@@ -8,11 +8,15 @@ uid: 424825
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/004/930/original/IMG_7959.JPG)
+
 # Troubleshooting: White light instead of emission spectra
 
 by [lionheadrex](../profile/lionheadrex) June 22, 2014 21:32
 
 June 22, 2014 21:32 | Tags: [spectrometer](../tag/spectrometer), [troubleshooting](../tag/troubleshooting), [grating](../tag/grating), [solved](../tag/solved), [dvd](../tag/dvd)
+
+----
 
 ###What I want to do
 Fix my spectrometer (I only see a white light instead of an emission spectra)

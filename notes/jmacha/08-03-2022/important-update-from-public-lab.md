@@ -8,11 +8,15 @@ uid: 423019
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/046/933/original/Public_Lab_Banner.png)
+
 # Important Update from Public Lab
 
 by [jmacha](../profile/jmacha) August 03, 2022 19:55
 
 August 03, 2022 19:55 | Tags: [education](../tag/education), [events](../tag/events), [kits](../tag/kits), [spectralworkbench](../tag/spectralworkbench), [barnraising](../tag/barnraising), [organizing](../tag/organizing), [research](../tag/research), [fundraising](../tag/fundraising), [web](../tag/web), [blog](../tag/blog), [barnstar:basic](../tag/barnstar:basic), [kits-initiative](../tag/kits-initiative), [parent:mapknitter](../tag/parent:mapknitter), [publiclab.org](../tag/publiclab.org), [kits-store](../tag/kits-store), [updates](../tag/updates), [funding](../tag/funding)
+
+----
 
 Dear Friends and Supporters:
 

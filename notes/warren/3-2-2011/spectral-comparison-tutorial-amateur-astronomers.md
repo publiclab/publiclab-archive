@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/less65b.jpg)
+
 # Spectral comparison tutorial for amateur astronomers
 
 by [warren](../profile/warren) March 02, 2011 18:08
 
 March 02, 2011 18:08 | Tags: [spectrometer](../tag/spectrometer), [intensity-calibration](../tag/intensity-calibration), [comparison](../tag/comparison), [intensity](../tag/intensity), [normalizing](../tag/normalizing)
+
+----
 
 A tutorial on "how to superimposed spectra and to make sure the comparison is scientifically relevant by normalizing the intensity"
 

@@ -8,11 +8,15 @@ uid: 12
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/000/428/original/GSoC_2013_logo.jpg)
+
 # Announcing 3 Accepted Google Summer of Code Public Lab Projects! 
 
 by [gonzoearth](../profile/gonzoearth) May 29, 2013 16:52
 
 May 29, 2013 16:52 | Tags: [gsoc](../tag/gsoc)
+
+----
 
 We are very happy to come out of the GSOC project ideas phase with 3 accepted summer projects. As you can see each project is quite different yet all 3 will benefit the Public Lab community with their development. 
 Stayed tuned on the lists/website/github to follow along with the work and congratulations to the successful students!

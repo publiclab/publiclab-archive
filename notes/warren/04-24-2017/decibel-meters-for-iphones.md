@@ -14,4 +14,6 @@ by [warren](../profile/warren) April 24, 2017 16:07
 
 April 24, 2017 16:07 | Tags: [answered](../tag/answered), [noise](../tag/noise), [question:decibels](../tag/question:decibels), [question:sound](../tag/question:sound), [sound](../tag/sound), [decibel](../tag/decibel), [decibel-meter](../tag/decibel-meter), [sound-pollution](../tag/sound-pollution), [noise-pollution](../tag/noise-pollution), [question:noise](../tag/question:noise), [question:noise-pollution](../tag/question:noise-pollution)
 
+----
+
 I got a request via email for iOS apps that can record sound levels for tracking noise pollution. Does anyone know of good ones, or methodologies for doing this? Thanks!

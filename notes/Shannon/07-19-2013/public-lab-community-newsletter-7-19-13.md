@@ -8,11 +8,15 @@ uid: 9
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/000/854/original/plots-logo-transparent.jpg)
+
 # Public Lab community newsletter 7.19.13
 
 by [Shannon](../profile/Shannon) July 19, 2013 21:28
 
 July 19, 2013 21:28 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
+
+----
 
 This week in the Public Lab newsletter, map invasive species in Massachusetts, check out, and help create, curriculum for the spectrometer and read new articles on small data and mapping Western Carolina University from the Public Lab community. Enjoy!
 

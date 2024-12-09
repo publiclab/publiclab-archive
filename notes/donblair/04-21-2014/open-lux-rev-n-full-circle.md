@@ -8,11 +8,15 @@ uid: 43651
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/003/771/original/open-lux-evolution.png)
+
 # Open-Lux REV-N: Full Circle
 
 by [donblair](../profile/donblair) April 21, 2014 07:02
 
 April 21, 2014 07:02 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [thermal-photography](../tag/thermal-photography), [ndvi](../tag/ndvi), [calibration](../tag/calibration), [thermal-flashlight](../tag/thermal-flashlight), [near-ir](../tag/near-ir), [thermal-fishing](../tag/thermal-fishing), [infragram](../tag/infragram)
+
+----
 
 (This is a quick note to post materials I've gathered after updating the Open-Lux design -- will flesh out this research note tomorrow ...)
 

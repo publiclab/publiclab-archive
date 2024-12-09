@@ -8,11 +8,15 @@ uid: 579821
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/032/697/original/NAS_Community_Science_in_the_Classroom_Overview.png)
+
 # Workshop VII: How will we study our environmental problem?
 
 by [mimiss](../profile/mimiss) June 03, 2019 22:46
 
 June 03, 2019 22:46 | Tags: [education](../tag/education), [workshop](../tag/workshop), [curriculum](../tag/curriculum), [activity:education](../tag/activity:education), [study-design](../tag/study-design), [lesson](../tag/lesson), [parent:student-led-community-science-in-the-classroom-a-curriculum](../tag/parent:student-led-community-science-in-the-classroom-a-curriculum), [activity:student-community-science](../tag/activity:student-community-science), [with:purl](../tag/with:purl)
+
+----
 
 This lesson is part of a series of lessons designed for educators to facilitate student-led inquiry around environmental topics. If there are time constraints, this lesson can be split into two at the Elaborate portion of the lesson. During Phase I of this series, students work towards identifying and learning about environmental topics. 
 

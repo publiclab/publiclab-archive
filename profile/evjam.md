@@ -3,6 +3,8 @@ uid: 526436
 created_at: 2018-03-01 09:53:43 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/2dd5778b4c1f4e55c28b277899c6faa7)
+
 # evjam
 
 Eager to research or implicate a design into the system to establish and highlight the key problems our atmosphere faces from the pin point. 

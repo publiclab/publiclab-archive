@@ -3,6 +3,8 @@ uid: 432766
 created_at: 2014-12-16 01:38:44 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/01d5854d1dbf7524b6d440ffea134f28)
+
 # MrBumper
 
 I am a technical journalist, ebook author, cyclist and guitar builder.

@@ -3,6 +3,8 @@ uid: 552
 created_at: 2013-05-16 11:16:08 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/552/medium/ProfilePicture.jpeg)
+
 # seankmcginnis
 
 I'm a chin-whiskered geo-nerd playing around with balloon mapping and hardware hacking.

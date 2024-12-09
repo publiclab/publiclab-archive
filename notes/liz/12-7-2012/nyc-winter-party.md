@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/sites/default/files/Holiday2012-NYCparty.png)
+
 # NYC Winter Party
 
 by [liz](../profile/liz) December 07, 2012 18:54
 
 December 07, 2012 18:54 | Tags: [event](../tag/event)
+
+----
 
 Dear Public Lab NYC, 
 I hope this holiday season is finding you well! 

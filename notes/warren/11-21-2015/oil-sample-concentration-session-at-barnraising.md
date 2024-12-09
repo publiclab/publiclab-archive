@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/012/854/original/Screenshot_2015-11-21_at_10.25.52_AM.png)
+
 # Oil sample concentration session at Barnraising
 
 by [warren](../profile/warren) November 21, 2015 16:36
 
 November 21, 2015 16:36 | Tags: [spectrometer](../tag/spectrometer), [oil-spill](../tag/oil-spill), [oil](../tag/oil), [spill](../tag/spill), [oil-testing-kit](../tag/oil-testing-kit), [sheen](../tag/sheen), [response:12405](../tag/response:12405)
+
+----
 
 We're having a great discussion on how to concentrate oil samples collected from sheens and other places, following up on some of @matej's work in [this research note](/notes/Matej/11-13-2015/separating-oil-from-water-by-freezing-the-water).
 

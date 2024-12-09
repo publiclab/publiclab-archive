@@ -14,6 +14,8 @@ by [bsugar](../profile/bsugar)
 
 May 13, 2014 22:40 | Tags: [event](../tag/event), [chicago](../tag/chicago), [civiclab](../tag/civiclab)
 
+----
+
 ### Summary
 
 [CivicLab][] has been invited to apply to host a [Chicago Ideas Week Lab](https://docs.google.com/forms/d/1LtG25N6QmRZQELXCpQZ34G9xQtRdAnCQ3R_IFygDzSI/viewform) to take place between October 13-19, 2014.  We think that something involving citizen science would be novel in Chicago and make a great hands on activity.  It could also be a good way to get more people involved in the recently started [Public Lab Chicago Chapter](https://groups.google.com/forum/#!forum/public-lab-chicago), and hopefully in the specific projects people are crafting there.  This is a space to flesh out a proposal.

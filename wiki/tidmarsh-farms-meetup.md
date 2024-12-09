@@ -14,6 +14,8 @@ by [pablo](../profile/pablo), [kanarinka](../profile/kanarinka), [warren](../pro
 
 October 25, 2012 14:38 | Tags: [balloon-mapping](../tag/balloon-mapping), [boston](../tag/boston), [meetup](../tag/meetup), [event](../tag/event), [somerville](../tag/somerville), [massachusetts](../tag/massachusetts), [tidmarsh](../tag/tidmarsh)
 
+----
+
 This is the Event Page for Boston's PLOTS Tidmarsh Meet Up
 
 ##Nov 17th 2012 Mapping Meetup

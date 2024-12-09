@@ -8,11 +8,15 @@ uid: 4
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/007/388/original/IMG_20141008_183921.jpg)
+
 # shorter spectrometer geometry with two slits?
 
 by [mathew](../profile/mathew) October 09, 2014 03:04
 
 October 09, 2014 03:04 | Tags: [spectrometer](../tag/spectrometer), [oil-testing-kit](../tag/oil-testing-kit)
+
+----
 
 ###What I want to do
 answer two questions: Can straylight be eliminated in a simple spectrometer setup through using a double slit?  Can a double slit reduce the length of the spectrometer?

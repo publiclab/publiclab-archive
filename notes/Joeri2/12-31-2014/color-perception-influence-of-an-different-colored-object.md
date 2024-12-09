@@ -8,11 +8,15 @@ uid: 433286
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/008/555/original/2014-12-24_00.24.33.jpg)
+
 # Color perception: influence of an different colored object
 
 by [Joeri2](../profile/Joeri2) December 31, 2014 02:53
 
 December 31, 2014 02:53 | Tags: [spectralworkbench](../tag/spectralworkbench), [color](../tag/color), [perception](../tag/perception)
+
+----
 
 ###What I want to do
 

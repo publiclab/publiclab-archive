@@ -14,6 +14,8 @@ by [vafa](../profile/vafa) March 17, 2017 23:07
 
 March 17, 2017 23:07 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [question:spectrometry](../tag/question:spectrometry), [ambient-light](../tag/ambient-light), [reflections](../tag/reflections), [build:13470](../tag/build:13470), [adjustable-slit](../tag/adjustable-slit)
 
+----
+
 ###What I want to do
 making a simple and exact schemical  spectroscopy 
 ###My attempt and results

@@ -8,11 +8,15 @@ uid: 304279
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/008/547/original/A_Pump1.jpg)
+
 # Syringe pump mechanicals.
 
 by [JSummers](../profile/JSummers) December 30, 2014 22:03
 
 December 30, 2014 22:03 | Tags: [3d-printing](../tag/3d-printing), [syringe](../tag/syringe), [pump](../tag/pump)
+
+----
 
 ###What I want to do
 This research note will eventually tell you how to build a pretty reliable and accurate syringe pump using 3d printed parts.  It is going to take a while for me to get the entire thing written up and even when I do it will only cover the mechanical parts of the pump.  The electronics will be described in a later note and the software can be accessed from an earlier note that described our automatic titrator, the titraumatic.  That note is found here.

@@ -8,11 +8,15 @@ uid: 443410
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/011/166/original/sphere.jpg)
+
 # in search of floating spheres...
 
 by [lperovich](../profile/lperovich) August 17, 2015 23:18
 
 August 17, 2015 23:18 | Tags: [thermal-fishing](../tag/thermal-fishing), [thermal-fishing-bob](../tag/thermal-fishing-bob), [riffle](../tag/riffle)
+
+----
 
 I'm searching for the best housing for a re-imagination of the thermal fishing bob.
 

@@ -8,11 +8,15 @@ uid: 380298
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/007/700/original/FullSizeRender.jpg)
+
 # DIY Formaldehyde Test Kit
 
 by [nshapiro](../profile/nshapiro) November 03, 2014 17:44
 
 November 03, 2014 17:44 | Tags: [air-quality](../tag/air-quality), [air](../tag/air), [prototype](../tag/prototype), [barnstar:empiricism](../tag/barnstar:empiricism), [formaldehyde](../tag/formaldehyde), [wherewebreathe](../tag/wherewebreathe), [barnstar:excessive-enthusiasm](../tag/barnstar:excessive-enthusiasm), [gas](../tag/gas), [low-cost](../tag/low-cost), [meter](../tag/meter), [canary-database](../tag/canary-database), [indoor-air-quality](../tag/indoor-air-quality), [hcho](../tag/hcho), [seeks:replications](../tag/seeks:replications), [time:3h](../tag/time:3h), [difficulty:medium](../tag/difficulty:medium), [category:build](../tag/category:build), [status:in-progress](../tag/status:in-progress), [activity:open-air](../tag/activity:open-air)
+
+----
 
 Note: this system has been found to have some cross-reactivity when other VOCs are present that might artificially inflate results. This method is can be a good general indicator of your formaldehyde exposure but as it requires individuals to buy a box of tests its not recommended for those that are interested in a single low-cost test. For more information on cross contamination see this research note: https://publiclab.org/notes/gretchengehrke/10-07-2015/formaldehyde-measurement-testing-public-lab-s-kit-with-doh-s-equipment  
 

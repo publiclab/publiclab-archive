@@ -14,6 +14,8 @@ by [mathew](../profile/mathew) February 26, 2011 05:38
 
 February 26, 2011 05:38 | Tags: [555-timer](../tag/555-timer), [camera-triggering](../tag/camera-triggering), [timer](../tag/timer), [555](../tag/555)
 
+----
+
 <a class="banner" href="https://www.flickr.com/photos/14397636@N07/5477715939/" title="555_timer_breadboard_diagram by mathew.lippincott, on Flickr"><img src="http://farm6.static.flickr.com/5215/5477715939_507453b7ef.jpg" width="500" height="471" alt="555_timer_breadboard_diagram" /></a>
 
 <!-- hide banner image except in list view -->

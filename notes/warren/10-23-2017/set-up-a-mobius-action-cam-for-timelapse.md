@@ -14,6 +14,8 @@ by [warren](../profile/warren) October 23, 2017 18:08
 
 October 23, 2017 18:08 | Tags: [infrared](../tag/infrared), [photo-monitoring](../tag/photo-monitoring), [infragram](../tag/infragram), [timelapse](../tag/timelapse), [mobius-actioncam](../tag/mobius-actioncam), [mobius](../tag/mobius), [infragram-point-shoot](../tag/infragram-point-shoot), [mobius-action-cam](../tag/mobius-action-cam), [mini-kite-kit](../tag/mini-kite-kit), [mini-balloon-kit](../tag/mini-balloon-kit), [activity:timelapse](../tag/activity:timelapse), [activity:photo-monitoring](../tag/activity:photo-monitoring), [multispectral-imaging](../tag/multispectral-imaging), [activity:mobius](../tag/activity:mobius), [activity:mini-balloon-kit](../tag/activity:mini-balloon-kit), [activity:mini-kite-kit](../tag/activity:mini-kite-kit), [activity:mobius-action-cam](../tag/activity:mobius-action-cam), [activity:infragram-point-shoot](../tag/activity:infragram-point-shoot), [near-infrared-photography](../tag/near-infrared-photography)
 
+----
+
 The Mobius Action Cam is used in the [Infragram Point & Shoot](/wiki/infragram-point-shoot), and also for lightweight aerial photography such as in the [Mini Kite Kit](/wiki/mini-kite-kit) and [Mini Balloon Kit](/wiki/mini-kite-kit). It can also be used for [timelapse](/wiki/timelapse) [photo monitoring](/wiki/photo-monitoring) of any kind; this activity shows how to set it up. These instructions are based on a post by @abdul.
 
 ### Software

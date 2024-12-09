@@ -8,11 +8,15 @@ uid: 51
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/022/369/original/BR2017LevelMeasure.jpg)
+
 # Depth Sensor Proposal - Experimental Results
 
 by [danbeavers](../profile/danbeavers) November 12, 2017 01:55
 
 November 12, 2017 01:55 | Tags: [water-depth](../tag/water-depth), [depth-sensor](../tag/depth-sensor), [barnraising2017](../tag/barnraising2017), [response:13126](../tag/response:13126), [replication:13126](../tag/replication:13126)
+
+----
 
 [My PDF document describing what I accomplished.](https://publiclab.org/system/images/photos/000/022/368/original/DepthSensorProposal.pdf "DepthSensorProposal.pdf")
 

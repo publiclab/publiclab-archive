@@ -8,11 +8,15 @@ uid: 256
 
 ---
 
+![](https://publiclab.org/sites/default/files/3-D glasses.JPG)
+
 # 3-D Images- Big Branch Balloon Mapping
 
 by [astoicof](../profile/astoicof) June 12, 2012 22:12
 
 June 12, 2012 22:12 | Tags: [balloon-mapping](../tag/balloon-mapping), [first-time-poster](../tag/first-time-poster)
+
+----
 
 After the <a href="http://publiclaboratory.org/notes/eustatic/6-11-2012/point-platte-marsh-restoration-over-time-air-vs-ground">balloon mapping trip at Big Branch</a> National Wildlife Refuge on May 14th 2012, I created two 3-D images out of four images captured during the flight using a very easy photo editing technique.  This can be done with any photo editing software that can separate images into RGB channels (I used Photoshop).
 

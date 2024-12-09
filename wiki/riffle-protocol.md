@@ -14,6 +14,8 @@ by [mathew](../profile/mathew)
 
 August 24, 2015 20:52 | Tags: [riffle](../tag/riffle), [parent:riffle](../tag/parent:riffle)
 
+----
+
 ###Retrieving data from the device.
 
 The Riffle records its data to a microSD card that is located on the main circuit board. In order to retrieve the data, you will need to remove the microSD card and use e.g. a [USB microSD card reader](http://www.adafruit.com/products/939?gclid=Cj0KEQjwgeuuBRCiwpD0hP3Cg4kBEiQAHflm1jJaBdTB5TKhnM_JuWlwOrSy5-REoqRxxiS6VXGHP8YaAmK_8P8HAQ)  or a [microSD card adapter](http://www.ebay.com/itm/like/130878609308?ul_noapp=true&chn=ps&lpid=82).  [PIC of reader options -- an adapter; or, device that reads uSD directly]

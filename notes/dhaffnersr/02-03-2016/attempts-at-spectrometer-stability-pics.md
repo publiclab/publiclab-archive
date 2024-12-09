@@ -8,11 +8,15 @@ uid: 461120
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/014/056/original/20160203_153355.jpg)
+
 # Attempts at Spectrometer stability pics
 
 by [dhaffnersr](../profile/dhaffnersr) February 03, 2016 21:10
 
 February 03, 2016 21:10 | Tags: 
+
+----
 
 ****Here are some shots of modifications I have made in the last few days to the spectrometer, thanks in large part to the help of Dave Stoft who has been helping  me with getting my reflection problems worked out and my calibrations more accurate.
 

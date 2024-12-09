@@ -8,11 +8,15 @@ uid: 468990
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/015/406/original/comparison_direct_to_diffuse_sunlight.jpg)
+
 # Direct sunlight vs. diffuse sunlight...
 
 by [viechdokter](../profile/viechdokter) April 07, 2016 18:02
 
 April 07, 2016 18:02 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [sunlight](../tag/sunlight), [replication:13460](../tag/replication:13460)
+
+----
 
 Today was a nice spring day here in Germany so I played a bit with my spectrograph. One minute there was full sunlight - the other minute the sun was hidden by nice white clouds. I took the two spectra to compare them. (Sorry, no calibration yet. I don't have a fluorescent lamp here at the moment.)
 

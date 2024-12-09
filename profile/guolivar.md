@@ -3,6 +3,8 @@ uid: 424197
 created_at: 2014-05-28 03:56:56 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/424197/medium/Gustavo_Olivares_TED.jpg)
+
 # guolivar
 
 Problem finder and solver, air quality scientist by day, tinkerer by night and sci-fi fan later in the night! The one and only "El Gus" (or "Gusen" while in the land of the vikings).

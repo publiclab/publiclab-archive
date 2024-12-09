@@ -3,6 +3,8 @@ uid: 566207
 created_at: 2018-12-22 00:48:25 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/10ac9381dc7dbe5b6d49556524e0a4bf)
+
 # bps
 
 Currently "retired". I have shot a considerable amount of IR on film so I'm interested in this project. I have considerable interest in botany and robotics (don't ask). I'm currently exploring the uses of IR in the latter. Putting this amera on a robotic rover might be fun.

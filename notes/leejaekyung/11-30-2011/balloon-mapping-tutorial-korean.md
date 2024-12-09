@@ -8,11 +8,15 @@ uid: 274
 
 ---
 
+![](https://publiclab.org/sites/default/files/poster-low.jpg)
+
 # balloon mapping tutorial (Korean)
 
 by [leejaekyung](../profile/leejaekyung) December 01, 2011 01:48
 
 December 01, 2011 01:48 | Tags: [illustrated-guides](../tag/illustrated-guides), [korea](../tag/korea), [location:blurred](../tag/location:blurred), [lat:30](../tag/lat:30), [lon:120](../tag/lon:120), [place:korea](../tag/place:korea), [first-time-poster](../tag/first-time-poster)
+
+----
 
 Hello. I'm jaekyung lee from South Korea. 
 These days, I'm trying to get picture at 350 meters high.

@@ -8,11 +8,15 @@ uid: 1259
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/008/980/original/1.jpg)
+
 # The Mission of GLAM: Gowanus Low Altitude Mappers
 
 by [mollydanielsson](../profile/mollydanielsson)
 
 February 14, 2015 01:14 | Tags: [gowanus](../tag/gowanus), [gowanus-canal](../tag/gowanus-canal), [gowanus-canal-superfund-site](../tag/gowanus-canal-superfund-site), [grassrootsmappingforum](../tag/grassrootsmappingforum), [glam](../tag/glam), [style:fancy](../tag/style:fancy), [gmf-4](../tag/gmf-4)
+
+----
 
 **Published in 2013** [Grassroots Mapping Forum#4.](http://publiclab.org/forum)
 

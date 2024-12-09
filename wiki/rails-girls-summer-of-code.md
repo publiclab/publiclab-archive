@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/024/776/original/rgsoc.JPG)
+
 # Rails Girls Summer of Code
 
 by [warren](../profile/warren)
 
 April 27, 2018 21:10 | Tags: [software-outreach](../tag/software-outreach), [rgsoc](../tag/rgsoc), [soc](../tag/soc), [rails-girls](../tag/rails-girls), [parent:soc](../tag/parent:soc)
+
+----
 
 Public Lab is proud to participate in Rails Girls Summer of Code for 2017 and 2018. Read more here: #rgsoc
 
@@ -20,9 +24,9 @@ Public Lab is proud to participate in Rails Girls Summer of Code for 2017 and 20
 
 ## Updates
 
-[notes:rgsoc]
+[rgsoc](../../tag/rgsoc)
 
 ## Questions
 
-[questions:rgsoc]
+[rgsoc](../../tag/question:rgsoc)
 

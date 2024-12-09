@@ -14,4 +14,6 @@ by [kgradow1](../profile/kgradow1) October 11, 2017 02:36
 
 October 11, 2017 02:36 | Tags: [barnraising](../tag/barnraising), [question:barnraising](../tag/question:barnraising)
 
+----
+
 We did a version of this last year as childcare, but it might be good to just have a daily workshop that is a room full of tools and materials for prototyping.  Some stuff would need to be sourced locally  (we're not going to bring a stack of cardboard on a plane) but a lot of stuff can be crowd-sourced.   Are people interested?   If so, what should we bring?

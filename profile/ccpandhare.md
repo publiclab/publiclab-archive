@@ -3,6 +3,8 @@ uid: 503543
 created_at: 2017-03-03 03:54:23 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/c765a638dfe65eab402fa9334886260b)
+
 # ccpandhare
 
 Student, BITS Pilani, India.

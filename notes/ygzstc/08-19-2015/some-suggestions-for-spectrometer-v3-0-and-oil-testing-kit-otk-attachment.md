@@ -8,11 +8,15 @@ uid: 422489
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/011/210/original/IMG_20150407_150745.jpg)
+
 # Some Suggestions for Spectrometer v3.0 and Oil Testing Kit (OTK) Attachment
 
 by [ygzstc](../profile/ygzstc) August 19, 2015 19:23
 
 August 19, 2015 19:23 | Tags: [spectrometer](../tag/spectrometer), [desktop-spectrometer](../tag/desktop-spectrometer), [oil-testing-kit](../tag/oil-testing-kit), [upgrade:spectrometry](../tag/upgrade:spectrometry), [upgrade:dssk](../tag/upgrade:dssk)
+
+----
 
 _**Last Updated on September 2nd, 2015**_
 

@@ -14,6 +14,8 @@ by [stevie](../profile/stevie), [mathew](../profile/mathew)
 
 February 03, 2016 23:21 | Tags: [parent:passive-pm](../tag/parent:passive-pm), [activity:open-air](../tag/activity:open-air)
 
+----
+
 Passive dust monitors, where dust lands on a pad or in a container without any pumps, fans, electronics or moving parts, are very attractive option for [particle sensing](/wiki/particle-sensing) because they are inexpensive and can be put anywhere.  Here I'll document my efforts to replicate a published methodology that may produce data equivalent to a [Federal Reference Method](http://publiclab.org/wiki/particle-sensing#EPA+Test+Methods), and relies on fairly low cost equipment. 
 
 ###Background

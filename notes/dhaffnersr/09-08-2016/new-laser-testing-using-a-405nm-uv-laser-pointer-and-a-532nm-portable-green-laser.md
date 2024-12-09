@@ -8,11 +8,15 @@ uid: 461120
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/017/967/original/BOTH_405nm_532nm_lasers_sept_7.png)
+
 # New Laser Testing Using a 405nm UV laser Pointer and a 532nm Portable Green Laser
 
 by [dhaffnersr](../profile/dhaffnersr) September 08, 2016 11:54
 
 September 08, 2016 11:54 | Tags: 
+
+----
 
 ##**New testing on a 0.05mm Gillette razor Blade Utility Knife Open-Air Slit (based on my previous design.)**
 

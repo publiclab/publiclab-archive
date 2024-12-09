@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/006/046/original/14019164946_932ef66da4_o_%281%29.jpg)
+
 # Sandbox
 
 by [liz](../profile/liz), [bhamster](../profile/bhamster), [stevie](../profile/stevie), [warren](../profile/warren), [xose](../profile/xose), [ananyo2012](../profile/ananyo2012), [sarasage](../profile/sarasage), [mathew](../profile/mathew), [gretchengehrke](../profile/gretchengehrke), [icarito](../profile/icarito), [nemo](../profile/nemo), [mollydanielsson](../profile/mollydanielsson)
 
 January 26, 2012 20:44 | Tags: [organizers](../tag/organizers), [activity](../tag/activity), [organizer](../tag/organizer)
+
+----
 
 <div class="alert alert-danger">
 The MapKnitter platform runs on a combination of volunteer and paid labor by the many people that build, maintain, and operate it via Public Lab. This is an effective combination thanks to the culture of Public Lab's Coding Community. Public Lab's web ecosystem, including PublicLab.org, MapKnitter.org, SpectralWorkbench.org, Infragram.org and associated projects, takes 20 hours a week from three Code Coordinators and our sysadmin. While cost effective, it is not free. Web hosting and server costs for MapKnitter are approximately $1000 per month.
@@ -37,7 +41,7 @@ Also now:
 
 ## Prototypes
 
-[notes:plant-air-purifier-prototypes]
+[plant-air-purifier-prototypes](../../tag/plant-air-purifier-prototypes)
 
 <iframe width="100%" height="800" src="//publiclab.org/pdf.js/web/viewer.html?file=/system/images/photos/000/009/451/original/Barataria_Bay_Publication_10_21_14for_web.pdf" frameborder="0" allowfullscreen="" style="border: none;"></iframe>
 
@@ -54,7 +58,7 @@ Hello, hidden world!
 
 [unfold]
 
-[notes:question:blog]
+[question:blog](../../tag/question:blog)
 
 
 
@@ -164,7 +168,7 @@ Wow, check this out -- click "Expand me" on the next line:
 
 ****
 
-[notes:regulations]
+[regulations](../../tag/regulations)
 
 ****
 

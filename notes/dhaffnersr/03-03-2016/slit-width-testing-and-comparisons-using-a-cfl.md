@@ -8,11 +8,15 @@ uid: 461120
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/014/648/original/slit_width_comparisons_mar3.png)
+
 # Slit width testing and Comparisons using a CFL
 
 by [dhaffnersr](../profile/dhaffnersr) March 03, 2016 14:24
 
 March 03, 2016 14:24 | Tags: 
+
+----
 
 Here are the results of my CFL testing today of various slit widths:
 

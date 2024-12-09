@@ -8,11 +8,15 @@ uid: 664477
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/042/953/original/Public_Lab_Letterhead_blank.png)
+
 # Seeking an Air Research Curation Fellow
 
 by [bhamster](../profile/bhamster) March 15, 2021 21:45
 
 March 15, 2021 21:45 | Tags: [air-quality](../tag/air-quality), [jobs](../tag/jobs), [pm](../tag/pm), [fellows](../tag/fellows), [indoor-air-quality](../tag/indoor-air-quality), [fellowship](../tag/fellowship), [odor](../tag/odor), [particulate-matter](../tag/particulate-matter), [fellow](../tag/fellow), [research-curation-fellows](../tag/research-curation-fellows)
+
+----
 
 _**NOTE: The Air Research Curation Fellowship has been filled!** Please check out the [Fellows Program page here](https://publiclab.org/wiki/fellows) to see current fellowship opportunities at Public Lab. Thanks!_
 <hr>

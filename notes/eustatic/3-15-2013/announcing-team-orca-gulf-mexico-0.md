@@ -8,11 +8,15 @@ uid: 379
 
 ---
 
+![](https://publiclab.org/sites/default/files/orca_rjdudley2008.jpg)
+
 # Announcing Team Orca, Gulf of Mexico
 
 by [eustatic](../profile/eustatic) March 15, 2013 23:12
 
 March 15, 2013 23:12 | Tags: [spectrometer](../tag/spectrometer), [spectralchallenge](../tag/spectralchallenge), [gulf-coast](../tag/gulf-coast)
+
+----
 
 Spectral Challenge! 
 

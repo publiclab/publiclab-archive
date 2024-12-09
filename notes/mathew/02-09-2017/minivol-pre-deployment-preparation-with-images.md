@@ -8,11 +8,15 @@ uid: 4
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/019/500/original/pm10gif.gif)
+
 # MiniVol pre-deployment preparation, with images
 
 by [mathew](../profile/mathew) February 09, 2017 01:14
 
 February 09, 2017 01:14 | Tags: [air-quality](../tag/air-quality), [dust](../tag/dust), [silica](../tag/silica), [pm](../tag/pm), [particle-sensing](../tag/particle-sensing), [pm-monitoring](../tag/pm-monitoring), [minivol](../tag/minivol), [activity:minivol](../tag/activity:minivol), [prepping](../tag/prepping), [1031710](../tag/1031710), [600-007](../tag/600-007), [replication:13898](../tag/replication:13898)
+
+----
 
 _This activity is a replication of [this note](/notes/mathew/02-02-2017/minivol-pre-deployment-preparation) with more images._
 

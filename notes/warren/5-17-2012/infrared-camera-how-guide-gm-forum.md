@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/7173631724_f9aabd7855_k_0.jpg)
+
 # Infrared camera how-to guide for GM Forum
 
 by [warren](../profile/warren) May 17, 2012 23:42
 
 May 17, 2012 23:42 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [great-photos](../tag/great-photos)
+
+----
 
 Just kicking off an off-list discussion on a how-to style piece for upcoming Grassroots Mapping Forum II -- Chris F and I are brainstorming some ideas based on the [documentation we've put together](/wiki/dual-camera-kit-guide).
 

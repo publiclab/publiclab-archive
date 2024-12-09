@@ -3,6 +3,8 @@ uid: 553368
 created_at: 2018-10-03 08:25:29 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/32490503cd86126960bc34129a26639b)
+
 # lemcur
 
 dev-wannabe

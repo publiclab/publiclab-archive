@@ -8,11 +8,15 @@ uid: 9
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/001/606/original/Screen_shot_2013-09-20_at_8.52.13_AM.png)
+
 # Patagonia Clothing Company supports Gulf Coast mapping of Barataria Bay
 
 by [Shannon](../profile/Shannon) September 20, 2013 01:52
 
 September 20, 2013 01:52 | Tags: [gulf-coast](../tag/gulf-coast), [balloon-mapping](../tag/balloon-mapping), [barataria-bay](../tag/barataria-bay), [barataria](../tag/barataria)
+
+----
 
 We're happy to announce that Patagonia will be supporting a proposal that we submitted, _Gulf Coast Restoration--monitoring wetlands through community-led aerial imaging_, between October 2013 and October 2014.
 

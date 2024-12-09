@@ -8,11 +8,15 @@ uid: 54025
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/014/082/original/CFL-COMPARE.gif)
+
 # CFL Selection
 
 by [stoft](../profile/stoft) February 05, 2016 07:54
 
 February 05, 2016 07:54 | Tags: [spectrometer](../tag/spectrometer), [cfl](../tag/cfl), [spectrometer-calibration](../tag/spectrometer-calibration), [response:12656](../tag/response:12656)
+
+----
 
 **Introduction**
 

@@ -3,6 +3,8 @@ uid: 305152
 created_at: 2013-10-09 04:10:16 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/305152/medium/IMG_0278_scaled.JPG)
+
 # MelissaN
 
 Melissa Nunes is a web developer and spatial technology freelancer whose interests include (but are not limited to) democratic knowledge systems, DIY, and appropriate technology.

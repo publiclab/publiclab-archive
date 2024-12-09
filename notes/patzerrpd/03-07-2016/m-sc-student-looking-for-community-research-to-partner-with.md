@@ -8,11 +8,15 @@ uid: 468530
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/014/668/original/uoGuelphphoto.jpg)
+
 # M.Sc. student looking for community research to partner with
 
 by [patzerrpd](../profile/patzerrpd) March 07, 2016 03:22
 
 March 07, 2016 03:22 | Tags: [community](../tag/community), [water](../tag/water), [canada](../tag/canada), [monitoring](../tag/monitoring), [environmental](../tag/environmental), [engagement](../tag/engagement), [community-driven](../tag/community-driven)
+
+----
 
 Hello! 
 

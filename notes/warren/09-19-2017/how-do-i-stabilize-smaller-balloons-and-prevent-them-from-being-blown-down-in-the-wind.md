@@ -14,6 +14,8 @@ by [warren](../profile/warren) September 19, 2017 17:45
 
 September 19, 2017 17:45 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-balloon-hybrid](../tag/kite-balloon-hybrid), [mylar](../tag/mylar), [wind](../tag/wind), [answered](../tag/answered), [prototyping](../tag/prototyping), [mylar-balloons](../tag/mylar-balloons), [balloons](../tag/balloons), [mini-balloon-kit](../tag/mini-balloon-kit), [question:mini-balloon-kit](../tag/question:mini-balloon-kit)
 
+----
+
 When flying smaller balloons like in the #mini-balloon-kit, a common issue is that due to the lower lift of these (say, one to three 36 inch mylar balloons) they are more sensitive to light winds blowing them down.
 
 What happens is that the whole setup flies at a lower angle, rather than straight up.

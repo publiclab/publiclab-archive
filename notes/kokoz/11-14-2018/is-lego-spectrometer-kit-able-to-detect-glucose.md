@@ -14,6 +14,8 @@ by [kokoz](../profile/kokoz) November 14, 2018 19:04
 
 November 14, 2018 19:04 | Tags: [spectroscopy](../tag/spectroscopy), [sugar](../tag/sugar), [urine](../tag/urine), [question:general](../tag/question:general), [first-time-poster](../tag/first-time-poster), [glucose](../tag/glucose)
 
+----
+
 I'm trying to figure out how to detect Glucose using spectrophotometry in urine. There are some papers that describe very accurate readings using near-infrared spectrophotometry but as far as I understand it's measured between the 1300-2500nm wavelengths. I wonder if it's somehow achievable using the kit, perhaps with a different camera? 
 
   

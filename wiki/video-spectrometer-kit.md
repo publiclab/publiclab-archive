@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/020/761/original/mustapha3.jpg)
+
 # Video Spectrometer Kit
 
 by [warren](../profile/warren)
 
 November 09, 2011 22:26 | Tags: 
+
+----
 
 _This page is out of date; please see the [store](/store) for details, or the [video spectrometer page](/wiki/video-spectrometer)_
 

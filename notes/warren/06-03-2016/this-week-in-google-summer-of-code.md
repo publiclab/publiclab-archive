@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/016/472/original/Screenshot_2016-06-03_at_4.26.34_PM.png)
+
 # This week in Google Summer of Code
 
 by [warren](../profile/warren) June 03, 2016 20:32
 
 June 03, 2016 20:32 | Tags: [website](../tag/website), [software](../tag/software), [gsoc](../tag/gsoc), [developers](../tag/developers), [coding](../tag/coding), [wwg](../tag/wwg), [gsoc-2016](../tag/gsoc-2016), [response:13150](../tag/response:13150)
+
+----
 
 This week a lot's gotten done by our [Google Summer of Code](/wiki/gsoc) students. I'll jump right in:
 

@@ -14,6 +14,8 @@ by [liz](../profile/liz) January 23, 2018 17:49
 
 January 23, 2018 17:49 | Tags: [website](../tag/website), [mailing-lists](../tag/mailing-lists), [forums](../tag/forums), [ui](../tag/ui), [google-groups](../tag/google-groups), [email](../tag/email)
 
+----
+
 For context, staff and some community members of Public Lab are in a long term conversation about phasing out our GoogleGroups -- all 32 of 'em. Phew, shocking, isn't it?  
 
 ### The GoogleGroups platform is reaching its end of life

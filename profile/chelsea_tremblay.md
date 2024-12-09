@@ -3,6 +3,8 @@ uid: 434198
 created_at: 2015-01-26 17:06:40 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/af18642b4ca96fcf69fcf7303794780e)
+
 # chelsea_tremblay
 
 I am a junior at Emerson College studying journalism and learning about data visualization. I am also a human, thank you for asking. 

@@ -3,6 +3,8 @@ uid: 492583
 created_at: 2016-09-22 06:59:21 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/9ba9b3424d6c8cd72f2fd12e0ce24b3e)
+
 # rockets
 
 PM from DFRobot.

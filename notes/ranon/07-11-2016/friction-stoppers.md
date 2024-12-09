@@ -8,11 +8,15 @@ uid: 477060
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/016/980/original/Friction_Stoppers.jpg)
+
 # Friction Stoppers
 
 by [ranon](../profile/ranon) July 11, 2016 22:30
 
 July 11, 2016 22:30 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-aerial-photography](../tag/kite-aerial-photography), [kap](../tag/kap), [photo-rig](../tag/photo-rig), [kitemapping](../tag/kitemapping), [kap-rigs](../tag/kap-rigs), [stoppers](../tag/stoppers), [reconfigurable-rig](../tag/reconfigurable-rig)
+
+----
 
 
 In developing the reconfigurable rig and tilt mechanism, a few instances have arisen where friction joints are being used to support the structure of the rig.

@@ -8,11 +8,15 @@ uid: 459085
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/017/349/original/2016-07-25Temp.PNG)
+
 # More Riffle Data - Voltage droppin slowly
 
 by [pdhixenbaugh](../profile/pdhixenbaugh) August 03, 2016 23:10
 
 August 03, 2016 23:10 | Tags: [riffle](../tag/riffle), [riffle-beta](../tag/riffle-beta)
+
+----
 
 ###What I want to do
 Share Temp and Voltage Data from Riffle Test in a refridgerator for a week followed by room temperature for a week.

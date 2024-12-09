@@ -8,11 +8,15 @@ uid: 9
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/000/938/original/plots-logo-transparent.jpg)
+
 # Public Lab Community Newsletter 7.28.13
 
 by [Shannon](../profile/Shannon) July 29, 2013 04:09
 
 July 29, 2013 04:09 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
+
+----
 
 This week in the Public Lab community newsletter, check out wrap-ups from Massachusetts events, listen to a piece on Public Lab from the Chemical Heritage Foundation and read about teaching air quality in a Brooklyn classroom. Enjoy!
 

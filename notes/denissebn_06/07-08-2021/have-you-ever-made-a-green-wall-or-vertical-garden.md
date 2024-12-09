@@ -14,4 +14,6 @@ by [denissebn_06](../profile/denissebn_06) July 08, 2021 22:22
 
 July 08, 2021 22:22 | Tags: [architecture](../tag/architecture), [question:general](../tag/question:general), [general](../tag/general), [green-wall](../tag/green-wall), [vertical-garden](../tag/vertical-garden), [dyi](../tag/dyi), [pollinizators](../tag/pollinizators)
 
+----
+
 Have you ever made a Green wall or vertical garden? where I can find more information about DYI steps for a vertical garden. Or information for architectural structures.

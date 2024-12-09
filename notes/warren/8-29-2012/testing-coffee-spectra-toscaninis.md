@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/IMG_0606.JPG)
+
 # Testing coffee spectra at Toscanini's
 
 by [warren](../profile/warren) August 29, 2012 22:00
 
 August 29, 2012 22:00 | Tags: [spectrometer](../tag/spectrometer), [kickstarter](../tag/kickstarter), [coffee](../tag/coffee), [toscaninis](../tag/toscaninis)
+
+----
 
 I visited [Toscanini's](http://tosci.com) in Central Square, Cambridge, today, and Gus and Lucy were very willing to nerd out with me and the [countertop spectrometer prototype](http://www.kickstarter.com/projects/jywarren/public-lab-diy-spectrometry-kit). Lucy brought over samples of all their coffees and we collected some spectra of each. 
 

@@ -3,6 +3,8 @@ uid: 804
 created_at: 2013-07-13 18:39:55 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/d4df3d19d4f89cc9a151275748b1877b)
+
 # natevw
 
 Software dev looking to get outside and/or do real stuff every now and then.

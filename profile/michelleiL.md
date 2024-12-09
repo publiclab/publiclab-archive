@@ -3,6 +3,8 @@ uid: 799004
 created_at: 2022-05-13 15:29:11 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/799004/medium/IMG_20200413_185058.jpg)
+
 # michelleiL
 
 Community Organizing ** 

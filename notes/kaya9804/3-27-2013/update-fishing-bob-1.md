@@ -14,6 +14,8 @@ by [Kaya9804](../profile/Kaya9804) March 27, 2013 22:46
 
 March 27, 2013 22:46 | Tags: [boston](../tag/boston), [thermal-imaging](../tag/thermal-imaging), [thermal-fishing](../tag/thermal-fishing), [fishing-bob](../tag/fishing-bob), [research-plan](../tag/research-plan), [cape-cod](../tag/cape-cod), [thermal-fishing-bob](../tag/thermal-fishing-bob)
 
+----
+
 Hey follower Ploters,
 
 So here's an update with the thermal fishing bob project Original plan here:(http://publiclaboratory.org/notes/kaya9804/2-12-2013/research-plan).

@@ -8,11 +8,15 @@ uid: 9
 
 ---
 
+![](https://publiclab.org/sites/default/files/J. Mehta 1.jpg)
+
 # Homemade pole photography rig
 
 by [Shannon](../profile/Shannon) August 02, 2012 20:57
 
 August 02, 2012 20:57 | Tags: [polemapping](../tag/polemapping), [archaeology](../tag/archaeology), [photo-rig](../tag/photo-rig), [pole-photography](../tag/pole-photography), [pole-mapping](../tag/pole-mapping), [activity:photo-rig](../tag/activity:photo-rig)
+
+----
 
 Jayur Mehta who is completing a PhD in archaeology at Tulane University created this pole rig to document a site that he is working on:
 

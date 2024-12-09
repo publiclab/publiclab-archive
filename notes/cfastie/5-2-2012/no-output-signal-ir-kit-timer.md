@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/sites/default/files/555-20120502-136-13.jpg)
+
 # No output signal on IR kit timer
 
 by [cfastie](../profile/cfastie) May 02, 2012 17:24
 
 May 02, 2012 17:24 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [triggering](../tag/triggering), [debugging](../tag/debugging), [troubleshooting](../tag/troubleshooting), [555-timer](../tag/555-timer)
+
+----
 
 This was the first circuit board I have ever soldered, so I was pleased that the 555 timer kit that was included in the Kickstarter <a href="http://publiclaboratory.org/wiki/dual-camera-kit-guide">IR camera package</a> had a handy illustration of what your soldered contacts should look like.  It was disconcerting that most of my contacts closely resembled the image of how the contacts should NOT look, but my completed timer actually worked!  
 

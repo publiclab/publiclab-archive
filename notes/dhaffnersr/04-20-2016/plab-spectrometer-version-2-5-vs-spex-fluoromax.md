@@ -8,11 +8,15 @@ uid: 461120
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/015/678/original/eosin_y_apr20.JPG)
+
 # Plab spectrometer version 2.5 vs Spex FluoroMax
 
 by [dhaffnersr](../profile/dhaffnersr) April 20, 2016 10:58
 
 April 20, 2016 10:58 | Tags: 
+
+----
 
 Sample preparation:
 3 cuvettes used, 2 for sample dilutions and 1 for the blank (solvent.) I then filled cuvette # 1 with 1 drop of eosin y and the second cuvette with 2 drops of eosin y. I then filled each cuvette with 2/3 ethanol and mixed (put the cap on and hold it tight and shake a few times)

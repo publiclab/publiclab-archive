@@ -14,4 +14,6 @@ by [gretchengehrke](../profile/gretchengehrke) November 30, 2017 18:05
 
 November 30, 2017 18:05 | Tags: [answered](../tag/answered), [question:regulations](../tag/question:regulations), [question:legal](../tag/question:legal), [question:hydrogen-sulfide-regulations](../tag/question:hydrogen-sulfide-regulations), [question:pennsylvania](../tag/question:pennsylvania), [law-and-policy](../tag/law-and-policy), [question:law-and-policy](../tag/question:law-and-policy)
 
+----
+
 Pennsylvania has been the poster child for hydraulic fracturing with the Marcellus Shale. It's also known to have thousands of abandoned oil and gas wells littered throughout the state. Does Pennsylvania have any ambient air quality standards, emissions standards, or occupational exposure standards for hydrogen sulfide? 

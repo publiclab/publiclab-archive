@@ -8,11 +8,15 @@ uid: 12
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/000/570/original/Boots-ground-02_%281%29.png)
+
 # Public Lab Community Newsletter 6.23.2013
 
 by [gonzoearth](../profile/gonzoearth) June 24, 2013 05:33
 
 June 24, 2013 05:33 | Tags: [newsletter](../tag/newsletter), [response:8141](../tag/response:8141)
+
+----
 
 In this edition of the Public Lab community newsletter; a heavy dose of Infragram with a sprinkling of mapping videos. Lots of research news related to the Public Lab infrared photography kickstarter campaign that now [has only 12 days remaining](http://www.kickstarter.com/projects/publiclab/infragram-the-infrared-photography-project?ref=card).  
 

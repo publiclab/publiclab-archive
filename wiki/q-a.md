@@ -14,6 +14,8 @@ by [liz](../profile/liz)
 
 February 17, 2016 16:07 | Tags: 
 
+----
+
 <div class="alert">This page is a stub and needs to be expanded.</div>
 
 Asking and answering questions is central to the Public Lab community. Some of these exchanges happen again and again on email lists, while others have been definitively answered in the website but are hard to find. We envision a "stack overflow"-like system to begin featuring great answers and open questions. Some ideas include a posting form, styling for presentation, an "answering" feature, more outreach display for recruiting, integration with Rich Profiles for helpful people, "common questions" displays. As we're just getting started on this, here are the basic links to what exists at this time: 

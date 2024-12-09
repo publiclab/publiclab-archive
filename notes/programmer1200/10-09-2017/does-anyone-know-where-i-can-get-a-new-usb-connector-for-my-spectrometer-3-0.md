@@ -14,4 +14,6 @@ by [programmer1200](../profile/programmer1200) October 09, 2017 18:07
 
 October 09, 2017 18:07 | Tags: [spectrometer](../tag/spectrometer), [question:dssk](../tag/question:dssk), [3.0](../tag/3.0), [usb](../tag/usb), [question:kits](../tag/question:kits), [first-time-poster](../tag/first-time-poster)
 
+----
+
 Some how mine has developed a short and have been looking for a new one. I cant find a good source for this type of connection

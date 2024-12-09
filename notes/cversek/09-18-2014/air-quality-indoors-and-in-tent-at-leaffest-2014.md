@@ -8,11 +8,15 @@ uid: 48275
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/006/880/original/IMAG0219.jpg)
+
 # Air Quality Indoors and in Tent at LEAFFEST 2014
 
 by [cversek](../profile/cversek) September 18, 2014 05:33
 
 September 18, 2014 05:33 | Tags: [indoor-air-quality-mapping](../tag/indoor-air-quality-mapping), [vermont](../tag/vermont), [farming](../tag/farming), [leaffest](../tag/leaffest), [pvos](../tag/pvos), [air-quality](../tag/air-quality), [riffle](../tag/riffle), [northeast](../tag/northeast), [leaffest2014](../tag/leaffest2014), [riffle-examples](../tag/riffle-examples)
+
+----
 
 AKA "The Rough-looking Muffle Tent Poll"
 

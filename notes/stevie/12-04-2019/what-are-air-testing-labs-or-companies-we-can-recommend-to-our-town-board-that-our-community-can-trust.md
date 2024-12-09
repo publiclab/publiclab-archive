@@ -8,11 +8,15 @@ uid: 422561
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/036/861/original/summa.jpg)
+
 # What are air testing labs or companies we can recommend to our town board that our community can trust?
 
 by [stevie](../profile/stevie) December 04, 2019 15:22
 
 December 04, 2019 15:22 | Tags: [air-quality](../tag/air-quality), [question:air-quality](../tag/question:air-quality), [odor](../tag/odor), [question:plastic](../tag/question:plastic), [question:odor](../tag/question:odor), [plastics](../tag/plastics), [question:plastics](../tag/question:plastics), [plastic](../tag/plastic), [orangetown-aluf](../tag/orangetown-aluf), [question:orangetown-aluf](../tag/question:orangetown-aluf)
+
+----
 
 The @CA4O group and Orangetown community has been struggling with the pollution and odors from [Aluf Plastics for decades](https://publiclab.org/wiki/orangetown-aluf). The town board is interested in getting air quality testing done. While the group has had some experience with labs and testing in the past, it was organized and paid for by the company, and the group finds the testing methods, and lab results untrustworthy.
 

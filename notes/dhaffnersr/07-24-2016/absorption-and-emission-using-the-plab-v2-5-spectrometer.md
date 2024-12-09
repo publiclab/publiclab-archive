@@ -8,11 +8,15 @@ uid: 461120
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/017/195/original/cuvette_holder_apparates.png)
+
 # Absorption And Emission - Using The Plab v2.5 Spectrometer
 
 by [dhaffnersr](../profile/dhaffnersr) July 24, 2016 11:48
 
 July 24, 2016 11:48 | Tags: 
+
+----
 
 ##A continuation on this series of **Absorption Spectroscopy**
 

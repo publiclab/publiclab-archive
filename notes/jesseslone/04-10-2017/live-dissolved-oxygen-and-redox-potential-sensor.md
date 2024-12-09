@@ -8,11 +8,15 @@ uid: 494770
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/020/117/original/IMG_0623.JPG)
+
 # Live Dissolved Oxygen and Redox Potential Sensor
 
 by [jesseslone](../profile/jesseslone) April 10, 2017 04:11
 
 April 10, 2017 04:11 | Tags: [water-quality](../tag/water-quality), [dissolved-oxygen](../tag/dissolved-oxygen), [wastewater](../tag/wastewater), [define](../tag/define), [include](../tag/include), [orp](../tag/orp), [water-sensors](../tag/water-sensors), [wastewater-organic-matter](../tag/wastewater-organic-matter)
+
+----
 
 I'm using a variety of hardware, not all of which is open-source (my design is, but not the products themselves), to create a live feed on [io.adafruit.com](http://io.adafruit.com). You can view the feed at the following URL: [https://io.adafruit.com/jesseslone/dashboards/water-quality-sensor](https://io.adafruit.com/jesseslone/dashboards/water-quality-sensor)
 

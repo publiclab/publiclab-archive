@@ -3,6 +3,8 @@ uid: 448963
 created_at: 2015-08-21 22:09:41 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/448963/medium/IMG-20160116-WA0015.jpg)
+
 # firas
 
 currently a 3rd year nursing student at the Lebanese university , i like science and i take interest in the environment and it's issues and love to help solve them as much as i can. i like meeting new people and making friendships and seeing new point of views and projects to learn from.

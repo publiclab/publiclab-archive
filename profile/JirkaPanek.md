@@ -3,6 +3,8 @@ uid: 179
 created_at: 2018-06-18 22:55:40 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/56a5191a82c7fd2cbfcda0edc70d9518)
+
 # JirkaPanek
 
 

@@ -8,11 +8,15 @@ uid: 460113
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/013/297/original/z.jpg)
+
 # Mini Photocell arduino code
 
 by [filimon_k](../profile/filimon_k) December 13, 2015 19:38
 
 December 13, 2015 19:38 | Tags: [response:12507](../tag/response:12507)
+
+----
 
 int LDR = 0;     //analog pin to which LDR is connected, here we set it to 0 so it means A0
 int LDRValue = 0;      //that’s a variable to store LDR values

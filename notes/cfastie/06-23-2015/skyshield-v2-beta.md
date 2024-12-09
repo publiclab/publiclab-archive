@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/010/417/original/SkyShield22-637-101.jpg)
+
 # SkyShield v2 beta
 
 by [cfastie](../profile/cfastie) June 23, 2015 17:09
 
 June 23, 2015 17:09 | Tags: [kite-aerial-photography](../tag/kite-aerial-photography), [kap](../tag/kap), [autokap](../tag/autokap), [with:donblair](../tag/with:donblair), [kaptery](../tag/kaptery), [saturnv](../tag/saturnv), [skyshield](../tag/skyshield), [response:11980](../tag/response:11980)
+
+----
 
 *Above: all the 3D printed parts for five Saturn V Rigs.*  
 .  

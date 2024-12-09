@@ -14,6 +14,8 @@ by [mokeymark](../profile/mokeymark) February 17, 2016 15:05
 
 February 17, 2016 15:05 | Tags: [question:spectral-workbench](../tag/question:spectral-workbench), [answered](../tag/answered)
 
+----
+
 ###What I want to do or know
 I just put together the mini foldable spectroscope and captured an image of the spectra from a fluorescent light. I uploaded it, selected the cross-section, and clicked the calibrate button. When I hit the "Apply" button, I get the notification "The tag you've applied couldn't be saved, but it's been run locally. Clear it now." and the "Save" button just displays the spinning circle icon forever. I can't save a calibration.
 

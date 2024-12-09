@@ -3,6 +3,8 @@ uid: 712348
 created_at: 2020-08-05 15:16:13 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/712348/medium/how-to-buy-cbd-cream-topical-online-675329-1024x761.jpg)
+
 # vancrideout
 
 I 'm very interested in this even, i hope it will Cannabis will be more Legal, and create much more positive and better use of its medicine. substance with no accepted medicinal use, high abuse potential, concerns for dependence, and lack of accepted safety for use under medical supervision—along with a national stigma surrounding the potential harms and implication of cannabis use as a gateway drug to other substances transitioning from a vilified substance to one with therapeutic merits has been controversial.

@@ -8,11 +8,15 @@ uid: 516343
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/031/110/original/LEL1.0.png)
+
 # GSoC proposal: LEL 2.0 and work on Leaflet-Blurred projects .
 
 by [sagarpreet](../profile/sagarpreet) March 09, 2019 06:02
 
 March 09, 2019 06:02 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [soc](../tag/soc), [response:13975](../tag/response:13975), [rgsoc-2019](../tag/rgsoc-2019), [gsoc-2019](../tag/gsoc-2019), [soc-2019](../tag/soc-2019), [soc-2019-proposals](../tag/soc-2019-proposals), [response:18440](../tag/response:18440), [lat:28.599514](../tag/lat:28.599514), [lon:77.053754](../tag/lon:77.053754)
+
+----
 
 ## About me
 

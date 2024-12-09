@@ -8,11 +8,15 @@ uid: 8
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/000/762/original/Screen_Shot_2013-07-12_at_6.37.10_AM.png)
+
 # Limn Issue with Article on Public Lab
 
 by [sara](../profile/sara) July 12, 2013 10:39
 
 July 12, 2013 10:39 | Tags: [boston](../tag/boston)
+
+----
 
 [Limn](http://limn.it/) a new popular audience journal in Science and Technology Studies recently released it's Third Issue featuring an article on Public Lab written by [Megan](http://publiclab.org/notes/author/megan), [JoshMC](http://publiclab.org/notes/joshmc/4-28-2012/setup-uv-testing-specrtrometer) and myself entitled:
 [Public Laboratories: Designing and Developing tools for Do-It-Yourself Detection of Hazards](http://limn.it/public-laboratories-designing-and-developing-tools-for-do-it-yourself-detection-of-hazards/).

@@ -14,6 +14,8 @@ by [read_holman](../profile/read_holman) December 17, 2018 02:06
 
 December 17, 2018 02:06 | Tags: [education](../tag/education), [air-quality](../tag/air-quality), [water-quality](../tag/water-quality), [partnerships](../tag/partnerships), [lead](../tag/lead), [bucket-brigade](../tag/bucket-brigade), [soil-testing](../tag/soil-testing), [soil-quality](../tag/soil-quality), [parent:water-quality](../tag/parent:water-quality), [community-engagement](../tag/community-engagement), [bucket-monitor](../tag/bucket-monitor)
 
+----
+
 **Colleges and universities can be great partners for community scientists looking to test their environment for any toxin or contamination.** 
 
 These partnerships could take different forms with different levels of sophistication:

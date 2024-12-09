@@ -8,11 +8,15 @@ uid: 438931
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/009/690/original/17066772778_24569b91bc_k.jpg)
+
 # TetraPi: a well characterized multispectral camera
 
 by [khufkens](../profile/khufkens) April 24, 2015 15:54
 
 April 24, 2015 15:54 | Tags: [ndvi](../tag/ndvi), [multispectral](../tag/multispectral), [mapping](../tag/mapping), [raspberry-pi](../tag/raspberry-pi), [camera](../tag/camera), [vegetation](../tag/vegetation), [barnstar:basic](../tag/barnstar:basic), [barnstar:excessive-enthusiasm](../tag/barnstar:excessive-enthusiasm), [tetrapi](../tag/tetrapi), [imaging](../tag/imaging), [pri](../tag/pri), [activity:raspberry-pi-infragram](../tag/activity:raspberry-pi-infragram), [activity:pi-camera](../tag/activity:pi-camera)
+
+----
 
 > Democratizing multispectral imaging
 

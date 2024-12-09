@@ -14,6 +14,8 @@ by [cjtiaan](../profile/cjtiaan) March 14, 2016 19:14
 
 March 14, 2016 19:14 | Tags: [spectrometer](../tag/spectrometer), [question:spectrometry](../tag/question:spectrometry)
 
+----
+
 ###What I want to do or know
 I am a final year electrical engineering student with a project on characterizing an LED light. I need to build a spectrometer, and use the data in another application. 
 

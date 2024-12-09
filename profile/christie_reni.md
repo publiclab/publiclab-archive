@@ -3,6 +3,8 @@ uid: 630062
 created_at: 2019-10-20 04:10:52 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/b6bc112b849be6bd747ac043a5f120a3)
+
 # christie_reni
 
 

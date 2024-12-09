@@ -8,11 +8,15 @@ uid: 212574
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/006/010/original/remediation6.png)
+
 # Homemade Colorimeter (determine the concentration of a sample)
 
 by [homechemist](../profile/homechemist) August 04, 2014 17:44
 
 August 04, 2014 17:44 | Tags: [spectrometer](../tag/spectrometer), [concentration](../tag/concentration), [spectroscopy-concentration-analysis-light-colorimeter](../tag/spectroscopy-concentration-analysis-light-colorimeter), [colorimetry](../tag/colorimetry), [proteins](../tag/proteins), [chlorine](../tag/chlorine), [iron](../tag/iron)
+
+----
 
 ##What i want to do?
 The aim of this project is to develop a simple but accurate gadget for the determination of a sample´s concentration. This instrument uses the optical interaction of the molecules with a source of light for determine the concentration of a sample.

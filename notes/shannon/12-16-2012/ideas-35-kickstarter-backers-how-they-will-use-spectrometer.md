@@ -14,6 +14,8 @@ by [Shannon](../profile/Shannon) December 17, 2012 04:27
 
 December 17, 2012 04:27 | Tags: [spectrometer](../tag/spectrometer), [fold-up-mini-spectrometer](../tag/fold-up-mini-spectrometer), [desktop-spectrometer](../tag/desktop-spectrometer), [evaluation](../tag/evaluation)
 
+----
+
 We asked each of the Kickstarter backer levels what they plan to do once they receive their spectrometer. Backers at the $35 level are receiving the desktop spectrometer next week. Here's some of the ideas that people listed from this backer tier.
 
 Responses from other backer levels:

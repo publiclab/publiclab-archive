@@ -8,11 +8,15 @@ uid: 304279
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/028/539/original/loadingCode-25.jpg)
+
 # Programming Texas Instruments microcontrollers using the Tiva C LaunchPad.
 
 by [JSummers](../profile/JSummers) December 29, 2018 20:26
 
 December 29, 2018 20:26 | Tags: [spectrometry](../tag/spectrometry), [hardware](../tag/hardware), [wheetrometer](../tag/wheetrometer), [programming](../tag/programming)
+
+----
 
 Working with microcontroller development boards like the Arduino or the TI LaunchPad provides an easy introduction to writing code and using a microcontroller to read inputs or to output stuff from a computer.  While this provides the flexipbility and freedom to do a whole lot of cool stuff, there are a lot of things the evaluation boards by themselves cannot do and using shields can expand your capabilities to do things like reading sensors, and run motors or CNC mills.   Designing and building your own shield can further extend what you can do and also provide a fun challenge. At some point, however, you might want to build a stand alone device that does not require the Arduino or LaunchPad.  That is, a board of your own that incorporates the microcontroller chip, power supply, oscillators, and other peripheral hardware necessary to do what you envision. There are a lot of good resources available for most Arduino applications and this is no different. Sparkfun has a tutorial for programming Atmel microcontrollers (like in most Arduinos) [here](https://learn.sparkfun.com/tutorials/pocket-avr-programmer-hookup-guide/all).  In this research note, we describe some of our work to build and program a stand-alone board that incorporates the TI TM4c123 microcontroller.  The board described in this note was designed as a part of our update to the WheeTrometer spectrometer (as described [here](https://publiclab.org/notes/JSummers/08-16-2018/wheetrometer-spectrometer-update-part-2)). The LaunchPad development boards can be programmed using Energia, which is an IDE written by the same people that wrote the Arduino IDE.  The two are very similar in look and functionality.  In addition to Energia, TI has an IDE called Code Composer Studio that can be used to write code for and program the LaunchPads.    
   

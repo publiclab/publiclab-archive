@@ -8,11 +8,15 @@ uid: 495038
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/027/577/original/IMG_20181110_125518.jpg)
+
 # Make stages for the Community Microscope Kit
 
 by [imvec](../profile/imvec) November 10, 2018 12:08
 
 November 10, 2018 12:08 | Tags: [spain](../tag/spain), [microscope](../tag/microscope), [activity:microscope](../tag/activity:microscope), [community-microscope](../tag/community-microscope), [activity:community-microscope-assembly](../tag/activity:community-microscope-assembly), [assembly:community-microscope](../tag/assembly:community-microscope), [lasercut](../tag/lasercut)
+
+----
 
 ### WHAT
 Community microscope file, ready to be cut with a laser cut machine or by hand. 

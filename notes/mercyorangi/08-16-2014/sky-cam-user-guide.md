@@ -8,11 +8,15 @@ uid: 421649
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/006/317/original/guideblog.png)
+
 # Sky Cam - User Guide
 
 by [mercyorangi](../profile/mercyorangi) August 16, 2014 20:34
 
 August 16, 2014 20:34 | Tags: [balloon-mapping](../tag/balloon-mapping), [mapknitter](../tag/mapknitter), [timelapse](../tag/timelapse), [skycam](../tag/skycam), [cartography-collective](../tag/cartography-collective), [sky-camera](../tag/sky-camera), [activity:camera-triggering](../tag/activity:camera-triggering), [activity:intervalometer](../tag/activity:intervalometer)
+
+----
 
 ##Overview
 The Sky Cam application user guide is elaborated in 4 sections as seen below.

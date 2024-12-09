@@ -14,6 +14,8 @@ by [iman](../profile/iman) March 30, 2021 19:01
 
 March 30, 2021 19:01 | Tags: [ndvi](../tag/ndvi), [infrared](../tag/infrared), [raspberry-pi](../tag/raspberry-pi), [infragram](../tag/infragram), [api](../tag/api), [question:ndvi](../tag/question:ndvi), [question:infragram](../tag/question:infragram), [question:infrared](../tag/question:infrared), [question:multispectral-imaging](../tag/question:multispectral-imaging), [multispectral-imaging](../tag/multispectral-imaging), [question:raspberry-pi](../tag/question:raspberry-pi), [first-time-poster](../tag/first-time-poster)
 
+----
+
 When I connect to my Camera using Raspberry pi local network and Infragram, the picture is:
 
   

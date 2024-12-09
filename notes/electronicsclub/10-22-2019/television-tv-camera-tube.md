@@ -8,11 +8,15 @@ uid: 624709
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/035/913/original/Diagram-of-Camera-Tube.jpg)
+
 # Television (TV) Camera Tube
 
 by [electronicsclub](../profile/electronicsclub) October 22, 2019 05:37
 
 October 22, 2019 05:37 | Tags: [first-time-poster](../tag/first-time-poster), [lat:1.010689](../tag/lat:1.010689), [lon:9.997558](../tag/lon:9.997558)
+
+----
 
 A **TV camera tube** may be called the eye of a TV system. A **TV camera tube **is a transducer that converts the variations of light intensity into the variation of electrical current or voltage, known as **video signals**. 
 

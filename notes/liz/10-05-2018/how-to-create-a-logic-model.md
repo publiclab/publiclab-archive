@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/026/821/original/Screen_Shot_2018-10-05_at_5.04.33_PM.png)
+
 # How to create a Logic Model
 
 by [liz](../profile/liz) October 05, 2018 21:07
 
 October 05, 2018 21:07 | Tags: [evaluation](../tag/evaluation), [activity:evaluation](../tag/activity:evaluation)
+
+----
 
 This post begins with some background information, and then lists How-To steps. 
 

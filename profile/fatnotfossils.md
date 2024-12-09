@@ -3,6 +3,8 @@ uid: 430643
 created_at: 2014-10-29 13:00:53 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/8d0feea472cf9b20b14f05c5724c61ec)
+
 # fatnotfossils
 
 Conservation biologist, GIS analyst and avid hater of the four wheeled machines embedded in our lives to move our bodies from one place to another creating a cascade of personal, public and environmental health problems.

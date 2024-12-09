@@ -8,11 +8,15 @@ uid: 428064
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/007/083/original/photo_2_%282%29.JPG)
+
 # Collect 3 Water Samples for Testing 
 
 by [amarini](../profile/amarini) September 29, 2014 17:58
 
 September 29, 2014 17:58 | Tags: [conductivity](../tag/conductivity), [open-water](../tag/open-water), [coqui](../tag/coqui), [first-time-poster](../tag/first-time-poster)
+
+----
 
 Samples collected by Ariana Marini & Madeline Bilis<br>
 JR-368 Emerson College Data Visualization<br><br>

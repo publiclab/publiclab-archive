@@ -8,11 +8,15 @@ uid: 379
 
 ---
 
+![](https://publiclab.org/sites/default/files/20130317-172409_0.jpg)
+
 # a new burp in the Texas Brine Sinkhole
 
 by [eustatic](../profile/eustatic) March 18, 2013 03:19
 
 March 18, 2013 03:19 | Tags: [sinkhole](../tag/sinkhole), [passenger-pigeon](../tag/passenger-pigeon)
+
+----
 
 Assumption Parish maintains a blog here:
 

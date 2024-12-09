@@ -8,11 +8,15 @@ uid: 138339
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/010/362/original/Bradley_Colour_ndvi.jpg)
+
 # Drone work with modified infrablue Canon a495
 
 by [bilco1](../profile/bilco1) June 18, 2015 05:46
 
 June 18, 2015 05:46 | Tags: 
+
+----
 
 here are some photos of before and after processing with ned hornings plugin using fiji
 

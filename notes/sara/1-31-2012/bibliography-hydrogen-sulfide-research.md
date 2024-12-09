@@ -8,11 +8,15 @@ uid: 8
 
 ---
 
+![](https://publiclab.org/sites/default/files/Horwell et al H2S image.png)
+
 # Bibliography for Hydrogen Sulfide Research
 
 by [sara](../profile/sara) January 31, 2012 20:35
 
 January 31, 2012 20:35 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s), [h2s-photopaper](../tag/h2s-photopaper), [bibliography](../tag/bibliography)
+
+----
 
 Annotated Bibliography for the photographic paper hydrogen sulfide assay (Thanks to Dr. Horwell for consulting on this bibliography):
 

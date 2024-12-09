@@ -14,4 +14,6 @@ by [gonzoearth](../profile/gonzoearth) May 01, 2012 21:48
 
 May 01, 2012 21:48 | Tags: 
 
+----
+
 <a href="http://www.businessinsider.com/the-scope-of-the-alberta-oil-sands-must-be-seen-to-be-believed-2012-4">http://www.businessinsider.com/the-scope-of-the-alberta-oil-sands-must-be-seen-to-be-believed-2012-4</a>

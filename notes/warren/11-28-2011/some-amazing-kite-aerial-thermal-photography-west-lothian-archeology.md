@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/flirpathfindir.jpg)
+
 # Some amazing kite aerial thermal photography from West Lothian Archeology
 
 by [warren](../profile/warren) November 28, 2011 18:08
 
 November 28, 2011 18:08 | Tags: [thermal-photography](../tag/thermal-photography), [kite-mapping](../tag/kite-mapping), [archaeology](../tag/archaeology), [west-lothian-archaeology](../tag/west-lothian-archaeology), [thermal](../tag/thermal)
+
+----
 
 http://www.armadale.org.uk/phototech06.htm
 

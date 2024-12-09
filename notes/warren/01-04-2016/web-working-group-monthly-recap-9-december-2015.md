@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/013/499/original/Screenshot_2016-01-04_at_2.44.07_PM.png)
+
 # Web Working Group Monthly Recap 9: December 2015
 
 by [warren](../profile/warren) January 04, 2016 20:39
 
 January 04, 2016 20:39 | Tags: [mapknitter](../tag/mapknitter), [web-development](../tag/web-development), [software](../tag/software), [plots2](../tag/plots2), [spectral-workbench](../tag/spectral-workbench), [wwg](../tag/wwg), [webwg](../tag/webwg), [response:12392](../tag/response:12392)
+
+----
 
 Happy new year, folks!
 

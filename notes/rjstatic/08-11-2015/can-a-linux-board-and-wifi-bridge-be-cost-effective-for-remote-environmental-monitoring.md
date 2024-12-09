@@ -8,11 +8,15 @@ uid: 174
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/011/100/original/p6Ixe.jpg)
+
 # Can a Linux board and Wifi Bridge be cost effective for remote environmental monitoring?
 
 by [rjstatic](../profile/rjstatic) August 11, 2015 01:19
 
 August 11, 2015 01:19 | Tags: [fido](../tag/fido), [open-pipe-kit](../tag/open-pipe-kit)
+
+----
 
 ###What I want to do
 I'm doing some preliminary research on what kind of "case" would be good for an outdoor/remote Sensor Pipe and could be built with off the shelf parts. The approach here uses a Solar Panel and Battery supporting a WiFi Bridge and R-Pi running Linux. What I'm trying to figure out is if this approach is cost effective compared to approaches that use lower powered boards (ex. Arduino, Waspmote, Bee) with lower powered radio protocols (ZigBee). 

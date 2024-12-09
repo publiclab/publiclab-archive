@@ -8,11 +8,15 @@ uid: 77
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/006/148/original/both_rtd_crpd.jpg)
+
 # Wratten 25 and NDVI A1200 imagery from TerrAvion fly-along
 
 by [patcoyle](../profile/patcoyle) August 08, 2014 23:08
 
 August 08, 2014 23:08 | Tags: [ndvi](../tag/ndvi), [agriculture](../tag/agriculture), [wratten25a](../tag/wratten25a), [fixed_wing_aircraft](../tag/fixed_wing_aircraft), [commercial_services](../tag/commercial_services)
+
+----
 
 ###What I want to do
 Share initial results of Wratten 25 and resulting NDVI A1200 imagery from [TerrAvion](http://www.terravion.com/) fly-along.

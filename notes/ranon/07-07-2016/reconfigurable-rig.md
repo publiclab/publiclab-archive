@@ -8,11 +8,15 @@ uid: 477060
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/016/893/original/Tilt_Mechanism_%28v3_recovered%29.png)
+
 # Reconfigurable Rig
 
 by [ranon](../profile/ranon) July 07, 2016 19:31
 
 July 07, 2016 19:31 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-aerial-photography](../tag/kite-aerial-photography), [polemapping](../tag/polemapping), [kap](../tag/kap), [photo-rig](../tag/photo-rig), [autokap](../tag/autokap), [landscape](../tag/landscape), [kap-rigs](../tag/kap-rigs), [reconfigurable-rig](../tag/reconfigurable-rig), [activity:photo-rig](../tag/activity:photo-rig)
+
+----
 
 ###Reconfigurability
 

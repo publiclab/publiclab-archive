@@ -8,11 +8,15 @@ uid: 422561
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/007/463/original/DustHack.JPG)
+
 # DustHack Event Menomonie Wisconsin ! 
 
 by [stevie](../profile/stevie) October 17, 2014 19:14
 
 October 17, 2014 19:14 | Tags: [event](../tag/event), [wisconsin](../tag/wisconsin), [dustduino](../tag/dustduino), [dust](../tag/dust), [silica](../tag/silica), [midwest](../tag/midwest), [dylos](../tag/dylos), [event:rsvp](../tag/event:rsvp), [date:10-27-2014](../tag/date:10-27-2014), [mid-west](../tag/mid-west), [rsvp:amysoyka](../tag/rsvp:amysoyka), [rsvp:marlokeno](../tag/rsvp:marlokeno), [rsvp:ethanbass](../tag/rsvp:ethanbass)
+
+----
 
 ###Explore and experiment with dust monitoring tools! 
 

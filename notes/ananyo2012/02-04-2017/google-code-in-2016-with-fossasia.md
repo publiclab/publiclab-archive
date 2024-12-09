@@ -8,11 +8,15 @@ uid: 468506
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/019/432/original/GCI-new-logo.jpg)
+
 # Google Code-in 2016 with FOSSASIA
 
 by [ananyo2012](../profile/ananyo2012) February 04, 2017 18:51
 
 February 04, 2017 18:51 | Tags: [developers](../tag/developers), [gcin](../tag/gcin), [gcin-2016](../tag/gcin-2016)
+
+----
 
 This year was PublicLab's first participation in Google Code-in as a sub-org under [FOSSASIA][1]. It was a pleasure being a part of it as a mentor on behalf of PublicLab. I am sharing my experience in this post with all the new things I got to know.
 

@@ -8,11 +8,15 @@ uid: 365600
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/002/353/original/11209894354_a9b4a4475f_o.jpg)
+
 # Glow in the dark paint photos
 
 by [nathanathan](../profile/nathanathan) December 04, 2013 19:59
 
 December 04, 2013 19:59 | Tags: [calibration](../tag/calibration), [phosphorescence](../tag/phosphorescence), [response:9816](../tag/response:9816), [glow-in-the-dark](../tag/glow-in-the-dark)
+
+----
 
 This is a follow-up to [the discussion in this note](http://publiclab.org/notes/cfastie/11-22-2013/white-balance-for-all).
 

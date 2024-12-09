@@ -3,6 +3,8 @@ uid: 792904
 created_at: 2022-03-27 23:41:59 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/792904/medium/pl-prof-img.jpg)
+
 # SomyaSinghal
 
 My name is Somya Singhal. I am a 3rd year CSE undergraduate at NIT Agartala. I am an outreachy applicant. I am proficient in Web Development and I love to code :)

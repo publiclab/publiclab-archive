@@ -8,11 +8,15 @@ uid: 759178
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/045/526/original/Hydroseed.jpg)
+
 # Flocculation
 
 by [laurel_mire](../profile/laurel_mire)
 
 March 17, 2022 18:59 | Tags: [industry](../tag/industry), [mine-reclamation](../tag/mine-reclamation), [flocculants](../tag/flocculants), [parent:industry](../tag/parent:industry)
+
+----
 
 _Lead image of hydroseed containing polyacrylamide flocculating agent, "[L-13 Levee Ditch Infill Project](https://www.flickr.com/photos/132290357@N04/34483614420)" by [SFWMD](https://www.flickr.com/photos/132290357@N04) is marked with [CC BY-ND 2.0](https://creativecommons.org/licenses/by-nd/2.0/?ref=openverse)._
 
@@ -28,7 +32,7 @@ This page is a place to collect and organize resources on flocculation & floccul
 
 ## Posts on Public Lab related to flocculation
 
-[notes:grid:flocculants]
+[grid:flocculants](../../tag/grid:flocculants)
 
 <hr style="height:3px;border-width:0;color:gray;background-color:gray">
 

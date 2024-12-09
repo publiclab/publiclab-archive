@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/017/619/original/Screenshot_2016-08-15_at_4.55.19_PM.png)
+
 # Rich Editor project: Calling for alpha testers!
 
 by [warren](../profile/warren) August 15, 2016 21:20
 
 August 15, 2016 21:20 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [developers](../tag/developers), [code](../tag/code), [tags](../tag/tags), [rich-editor](../tag/rich-editor), [wysiwyg](../tag/wysiwyg)
+
+----
 
 Hello all -- it's been some time since the [original call for input][1] on the new #rich-editor project, but a huge amount of progress has been made, and we have [a mostly-functioning initial version][2] -- I'm using it right now to write this post.
 

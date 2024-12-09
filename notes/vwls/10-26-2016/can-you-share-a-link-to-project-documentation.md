@@ -14,6 +14,8 @@ by [vwls](../profile/vwls) October 26, 2016 18:07
 
 October 26, 2016 18:07 | Tags: [thermal-flashlight](../tag/thermal-flashlight), [thermal-camera](../tag/thermal-camera), [tool](../tag/tool), [question:generalthermal-photography](../tag/question:generalthermal-photography), [response:11401](../tag/response:11401)
 
+----
+
 ###What I want to do or know
 Would you be willing to share links to hardware and software documentation?
 ###Background story

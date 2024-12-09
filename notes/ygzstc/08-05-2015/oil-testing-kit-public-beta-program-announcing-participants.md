@@ -8,11 +8,15 @@ uid: 422489
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/011/040/original/otk-b-flyer.png)
+
 # Oil Testing Kit Public Beta Program - Welcome!
 
 by [ygzstc](../profile/ygzstc) August 05, 2015 17:55
 
 August 05, 2015 17:55 | Tags: [spectrometer](../tag/spectrometer), [oil-testing](../tag/oil-testing), [oil-testing-kit](../tag/oil-testing-kit), [homebrew-oil-testing-kit](../tag/homebrew-oil-testing-kit), [otk](../tag/otk), [homebrew](../tag/homebrew), [response:12060](../tag/response:12060)
+
+----
 
 We've had a huge response for our call for help in the [Oil Testing Kit Beta Program from a couple weeks ago](/notes/ygzstc/07-14-2015/oil-testing-kit-beta-program), and today we're ready to announce our selection. These 20 people have agreed to participate in the first public beta of the OIl Testing Kit by posting documentation of their tests as well as their raw data to troubleshoot the procedure and setup. 
 

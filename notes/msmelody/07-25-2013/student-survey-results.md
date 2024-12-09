@@ -8,11 +8,15 @@ uid: 163752
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/000/919/original/20130725_155305.jpg)
+
 # Student Survey Results
 
 by [msmelody](../profile/msmelody) July 25, 2013 22:27
 
 July 25, 2013 22:27 | Tags: [new-york-city](../tag/new-york-city), [cypress-hills](../tag/cypress-hills), [chaq](../tag/chaq), [air-quality](../tag/air-quality), [air-quality-egg](../tag/air-quality-egg), [first-time-poster](../tag/first-time-poster)
+
+----
 
 We did a quick survey about the air quality of the neighborhood we lived in. 
 

@@ -14,6 +14,8 @@ by [Gasp00](../profile/Gasp00) May 28, 2018 15:13
 
 May 28, 2018 15:13 | Tags: [water-quality](../tag/water-quality), [brasil](../tag/brasil), [redeinfoamazonia](../tag/redeinfoamazonia), [maedagua](../tag/maedagua), [south-america](../tag/south-america), [question:water-quality](../tag/question:water-quality), [question:general](../tag/question:general), [lang:pr](../tag/lang:pr)
 
+----
+
 Bom dia, 
 
 Sou o Gaspard Tecnology Transfer Officer da Universidade de Alberta no Canada e ambassador da NG waterrangers.ca

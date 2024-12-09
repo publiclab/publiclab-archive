@@ -8,11 +8,15 @@ uid: 577728
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/031/341/original/wallpaper.jpg)
+
 # SoC proposal: Image Sequencer
 
 by [lohithabhagam123](../profile/lohithabhagam123) April 09, 2019 13:13
 
 April 09, 2019 13:13 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [soc](../tag/soc), [response:13975](../tag/response:13975), [first-time-poster](../tag/first-time-poster), [rgsoc-2019](../tag/rgsoc-2019), [gsoc-2019](../tag/gsoc-2019), [soc-2019](../tag/soc-2019), [soc-2019-proposals](../tag/soc-2019-proposals), [lat:10.850515](../tag/lat:10.850515), [lon:76.271083](../tag/lon:76.271083)
+
+----
 
 ---------
 

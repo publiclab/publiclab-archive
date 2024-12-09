@@ -14,4 +14,6 @@ by [stevie](../profile/stevie) July 17, 2018 13:39
 
 July 17, 2018 13:39 | Tags: [question:general](../tag/question:general), [question:permits](../tag/question:permits), [question:legal](../tag/question:legal), [question:permit](../tag/question:permit), [question:law](../tag/question:law), [questions:requests](../tag/questions:requests), [law-and-policy](../tag/law-and-policy), [question:law-and-policy](../tag/question:law-and-policy)
 
+----
+
 I'm looking for resources that would be helpful for people who are starting to review environmental permits. 

@@ -3,6 +3,8 @@ uid: 585844
 created_at: 2019-04-23 17:14:49 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/721c248067c661f778a5b56bc978958b)
+
 # oskarbob
 
 Retired.  Curiosity

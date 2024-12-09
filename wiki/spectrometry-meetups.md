@@ -14,6 +14,8 @@ by [liz](../profile/liz), [warren](../profile/warren)
 
 February 18, 2013 21:00 | Tags: [spectrometer](../tag/spectrometer), [community](../tag/community), [meetup](../tag/meetup), [workshop](../tag/workshop), [spectrometry](../tag/spectrometry)
 
+----
+
 Looking for a local open source spectrometry meetup, or want to organize your own? 
 
 

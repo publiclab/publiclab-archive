@@ -14,6 +14,8 @@ by [warren](../profile/warren), [liz](../profile/liz), [alicesmith](../profile/a
 
 April 27, 2012 00:08 | Tags: [website](../tag/website), [out-of-date](../tag/out-of-date)
 
+----
+
 (This page is a snapshot of 2011-13 out of date website improvement ideas)
 
 Formatting based on:  http://publiclaboratory.org/wiki/gsoc-ideas 

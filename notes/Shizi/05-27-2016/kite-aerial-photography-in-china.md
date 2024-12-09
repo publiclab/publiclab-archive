@@ -8,11 +8,15 @@ uid: 475993
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/016/374/original/Lion-kite-mapping.jpg)
+
 # Kite aerial photography in China
 
 by [Shizi](../profile/Shizi) May 27, 2016 12:40
 
 May 27, 2016 12:40 | Tags: [kite-mapping](../tag/kite-mapping), [kite-aerial-photography](../tag/kite-aerial-photography), [asia](../tag/asia), [china](../tag/china), [prc](../tag/prc), [first-time-poster](../tag/first-time-poster)
+
+----
 
        对于我来说，在2015年12月之前，对于风筝的印象仅限于小时候偶尔几次的拽着风筝跑。而对于风筝航拍则完全是2015年12月时我们几个爱玩的小伙伴与Liz一起在广西桂林做的航拍尝试。
        而当时的体验并不成功（气球航拍是成功的），我们折腾了几个小时，一共也没有把风筝放起来几次，更别说还带上相机了。当时Liz说这是因为我们当时带的风筝（平角风筝）只能飞的远，不能飞的高，不过我是有怀疑的，它真的可以么？

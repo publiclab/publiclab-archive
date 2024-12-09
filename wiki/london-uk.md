@@ -8,11 +8,15 @@ uid: 50
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/010/500/original/IMG_2497.JPG)
+
 # London UK
 
 by [cindy_excites](../profile/cindy_excites)
 
 October 20, 2011 01:09 | Tags: [london](../tag/london), [uk](../tag/uk), [chapter](../tag/chapter), [eu](../tag/eu), [place:london](../tag/place:london)
+
+----
 
 ##London - community in the making 
 

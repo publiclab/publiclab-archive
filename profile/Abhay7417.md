@@ -3,6 +3,8 @@ uid: 465695
 created_at: 2016-02-17 08:59:35 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/560066c3b9587ff87cf71b2518f610da)
+
 # Abhay7417
 
 Lets start digitizing devices

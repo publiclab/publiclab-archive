@@ -8,11 +8,15 @@ uid: 45471
 
 ---
 
+![](https://publiclab.org/sites/default/files/Spectrometer 9 inches from CFL_0.jpg)
+
 # Black image after assembly
 
 by [BrentNewhall](../profile/BrentNewhall) December 26, 2012 16:51
 
 December 26, 2012 16:51 | Tags: [calibration](../tag/calibration), [kit](../tag/kit), [first-time-poster](../tag/first-time-poster)
+
+----
 
 Hi, all! I'm greatly looking forward to helping out with spectrometry.  
   

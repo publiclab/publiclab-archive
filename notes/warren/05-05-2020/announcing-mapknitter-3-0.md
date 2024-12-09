@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/039/280/original/Screenshot_2019-07-05_at_6.00.19_PM.png)
+
 # Announcing MapKnitter 3.0
 
 by [warren](../profile/warren) May 05, 2020 22:45
 
 May 05, 2020 22:45 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [mapknitter](../tag/mapknitter), [software](../tag/software), [gsoc](../tag/gsoc), [blog](../tag/blog), [code](../tag/code), [lat:41](../tag/lat:41), [lon:-71](../tag/lon:-71), [community-atlas](../tag/community-atlas), [zoom:6](../tag/zoom:6)
+
+----
 
 Over the past year we’ve been working hard on a new system for exporting maps in MapKnitter, and have been beta testing the new “Cloud Exporter” for the past several weeks. 
 

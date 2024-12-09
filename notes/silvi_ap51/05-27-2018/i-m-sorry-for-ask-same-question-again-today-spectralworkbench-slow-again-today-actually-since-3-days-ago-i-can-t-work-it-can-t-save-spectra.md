@@ -14,4 +14,6 @@ by [silvi_ap51](../profile/silvi_ap51) May 27, 2018 04:50
 
 May 27, 2018 04:50 | Tags: [question:question](../tag/question:question)
 
+----
+
 i used portable spectro base web camera.

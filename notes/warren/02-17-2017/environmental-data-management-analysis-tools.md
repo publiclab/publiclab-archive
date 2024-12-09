@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/019/578/original/Screen_Shot_2017-02-16_at_7.44.44_PM.png)
+
 # Environmental data management & analysis tools
 
 by [warren](../profile/warren) February 17, 2017 01:13
 
 February 17, 2017 01:13 | Tags: [software](../tag/software), [data](../tag/data), [data-management](../tag/data-management), [environmental-data](../tag/environmental-data), [data-analysis](../tag/data-analysis), [platforms](../tag/platforms), [data-logging-visualization](../tag/data-logging-visualization), [data-visualization](../tag/data-visualization), [data-visualization-tool](../tag/data-visualization-tool)
+
+----
 
 A few fellow staff members asked me to do a survey of different platforms available for storing, managing, and sharing environmental data, as well as for doing analysis; after a lot of storyboarding to develop different in-depth specifications, I began organizing a list of existing software to see how well it met these needs.
 

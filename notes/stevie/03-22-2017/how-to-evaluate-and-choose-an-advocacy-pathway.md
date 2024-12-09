@@ -8,11 +8,15 @@ uid: 422561
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/019/905/original/Example.png)
+
 # How to evaluate and choose an advocacy pathway
 
 by [stevie](../profile/stevie) March 22, 2017 19:48
 
 March 22, 2017 19:48 | Tags: [workshop](../tag/workshop), [organizing](../tag/organizing), [barnstar:basic](../tag/barnstar:basic), [advocacy](../tag/advocacy), [seeks:replications](../tag/seeks:replications), [activity:advocacy-pathways](../tag/activity:advocacy-pathways), [advocacy-pathways](../tag/advocacy-pathways), [activity:community-organizing](../tag/activity:community-organizing), [activity:advocacy](../tag/activity:advocacy), [start-advocacy](../tag/start-advocacy)
+
+----
 
 ##Workshop: Evaluating and Choosing Advocacy Pathways 
 

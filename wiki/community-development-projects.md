@@ -14,6 +14,8 @@ by [liz](../profile/liz)
 
 August 18, 2016 14:41 | Tags: 
 
+----
+
 This is the work plan for the "ComDevAd" program area of the non-profit. Check out the overall timeline of community development in public lab here: https://publiclab.org/wiki/community-development
 
 ****

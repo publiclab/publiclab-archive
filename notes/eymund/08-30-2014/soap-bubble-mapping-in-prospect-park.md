@@ -8,11 +8,15 @@ uid: 1016
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/006/528/original/2014_8_23_Soap_bubbles_and_dogs_during_prospect_park_balloon_mapping_pic_by_Keith_Williams_cropped.jpg)
+
 # Soap Bubble Mapping in Prospect Park
 
 by [eymund](../profile/eymund) August 30, 2014 14:24
 
 August 30, 2014 14:24 | Tags: 
+
+----
 
 Keith Williams, New York Times reporter and expert soap bubble photographer wrote a feature on Gowanus CSI (Creek Scene Investigation) capturing fleeting moments of joy.
 

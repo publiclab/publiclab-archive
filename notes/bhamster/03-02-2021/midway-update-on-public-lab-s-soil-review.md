@@ -8,11 +8,15 @@ uid: 664477
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/042/842/original/Soil_mapping.jpg)
+
 # Midway update on Public Lab’s soil review
 
 by [bhamster](../profile/bhamster) March 02, 2021 18:03
 
 March 02, 2021 18:03 | Tags: [soil](../tag/soil), [research](../tag/research), [reviews](../tag/reviews), [soil-contamination](../tag/soil-contamination), [research-area-review](../tag/research-area-review)
+
+----
 
 _Image: Mapping soils, [Tom Koerner/USFWS](https://www.flickr.com/photos/51986662@N05/14044824086), [CC BY](https://creativecommons.org/licenses/by/2.0/)_
 

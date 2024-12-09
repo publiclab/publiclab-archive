@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/013/688/original/Middopt-708-3.jpg)
+
 # Single vs. dual cameras
 
 by [cfastie](../profile/cfastie) January 16, 2016 21:41
 
 January 16, 2016 21:41 | Tags: [ndvi](../tag/ndvi), [infrared](../tag/infrared), [filter](../tag/filter), [infragram](../tag/infragram), [plant-health](../tag/plant-health), [dualband](../tag/dualband), [midopt](../tag/midopt), [dichroic](../tag/dichroic), [interference](../tag/interference), [response:12473](../tag/response:12473)
+
+----
 
 *Above: Ned Horning taking an aerial photo of the scene for testing filters and calibration targets. December 16, 2015*
 

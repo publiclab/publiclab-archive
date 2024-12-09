@@ -8,11 +8,15 @@ uid: 572743
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/034/169/original/Screenshot_2019-07-25_at_11.26.20_PM.png)
+
 # Post 2 - Google Summer of Code 2019
 
 by [sidntrivedi012](../profile/sidntrivedi012) July 26, 2019 22:11
 
 July 26, 2019 22:11 | Tags: [spectral-workbench](../tag/spectral-workbench), [gsoc-2019](../tag/gsoc-2019), [soc-2019-eval](../tag/soc-2019-eval), [spectral-workbench-capture](../tag/spectral-workbench-capture)
+
+----
 
 Martin Fowler, a Software Design Maestro said -
 

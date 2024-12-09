@@ -8,11 +8,15 @@ uid: 422365
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/008/100/original/explosions.png)
+
 # Kaohsiung Gas Explosions 2014 (update)
 
 by [muyueh](../profile/muyueh) November 24, 2014 03:09
 
 November 24, 2014 03:09 | Tags: [mapknitter](../tag/mapknitter), [uav](../tag/uav), [aerial-photography](../tag/aerial-photography), [watchdog](../tag/watchdog), [quadcopter](../tag/quadcopter), [asia](../tag/asia), [barnstar:watchdog](../tag/barnstar:watchdog), [gas](../tag/gas), [explosion](../tag/explosion), [kaohsiung](../tag/kaohsiung), [taiwan](../tag/taiwan), [industry](../tag/industry), [oil-and-gas](../tag/oil-and-gas)
+
+----
 
 ###What I want to do
 

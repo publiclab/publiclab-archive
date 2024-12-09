@@ -14,6 +14,8 @@ by [jasonbarresi](../profile/jasonbarresi)
 
 September 15, 2012 03:11 | Tags: [spectrometer](../tag/spectrometer)
 
+----
+
 I'm taking a very small step from the portability of other designs. My primary objective is to create a design for desktop spectrometer that is small enough to be portable but large enough to be very adjustable.
 
 To date I've built four simple spectrometers and the one thing in common with all of them is that due to the experimental state of this project I've found myself building, rebuilding and adjusting the camera, focus, gradients, lights and slits. 

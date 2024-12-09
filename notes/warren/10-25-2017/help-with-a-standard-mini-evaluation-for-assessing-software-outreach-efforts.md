@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/022/026/original/Screenshot_2017-10-25_at_10.47.03_AM.png)
+
 # Help with a standard mini-evaluation for assessing software outreach efforts?
 
 by [warren](../profile/warren) October 25, 2017 14:56
 
 October 25, 2017 14:56 | Tags: [software](../tag/software), [evaluation](../tag/evaluation), [survey](../tag/survey), [first-timers-only](../tag/first-timers-only), [software-outreach](../tag/software-outreach), [soc](../tag/soc), [soc-2017](../tag/soc-2017), [eval](../tag/eval), [diversity](../tag/diversity), [question:evaluation](../tag/question:evaluation), [question:software-outreach](../tag/question:software-outreach)
+
+----
 
 In our continuing #software-outreach efforts, and after this past summer's great Summer of Code programs -- #soc-2017 -- I want to do a small survey to see if we can measure the effectiveness of some of our outreach and onboarding efforts.
 

@@ -14,6 +14,8 @@ by [Alex-McCarthy](../profile/Alex-McCarthy) April 05, 2011 22:24
 
 April 05, 2011 22:24 | Tags: [spectrometer](../tag/spectrometer), [pah](../tag/pah), [first-time-poster](../tag/first-time-poster)
 
+----
+
 1st week plan for research in low cost spectrometry for pollution detection
 
 Build/Test:

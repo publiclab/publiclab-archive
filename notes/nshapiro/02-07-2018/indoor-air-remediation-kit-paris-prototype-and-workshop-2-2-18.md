@@ -8,11 +8,15 @@ uid: 380298
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/023/475/original/11_-_b.jpg)
+
 # Indoor Air Remediation Kit—Paris Prototype and Workshop 2/2/18
 
 by [nshapiro](../profile/nshapiro) February 07, 2018 19:43
 
 February 07, 2018 19:43 | Tags: [remediation](../tag/remediation), [guides](../tag/guides), [design](../tag/design), [bioremediation](../tag/bioremediation), [formaldehyde](../tag/formaldehyde), [eu](../tag/eu), [indoor-air-quality](../tag/indoor-air-quality), [with:cguerin](../tag/with:cguerin), [with:gmalivel](../tag/with:gmalivel), [france](../tag/france), [paris](../tag/paris), [plant-air-purifier-prototypes](../tag/plant-air-purifier-prototypes)
+
+----
 
 On February 2nd 2017 approximately 20 people attended a workshop held at la cité internationale des arts in Paris, aimed at building the third iteration of our indoor air remediation kit. See [this](https://publiclab.org/notes/nshapiro/10-20-2014/diy-indoor-air-quality-remediation) initial note for motivation and background. Initial research and iteration aimed at increasing efficacy of an inexpensive DIY indoor air remediation system. The [first field test](https://publiclab.org/notes/nshapiro/05-06-2015/field-test-of-diy-testing-and-remediation-kit) yielded a promising initial result of a 40% decrease in formaldehyde, which after some small improvements (chiefly moving from soil to hydroculture growth media) more than doubled the formaldehyde degradation capacity of the kit, yielding results of [84%](https://publiclab.org/notes/nshapiro/08-02-2016/plant-air-remediation-field-test-2-georgia). And while the issue of domestic formaldehyde continues to loom large, usage of this kit has been minimal despite its extreme cost efficacy. It has been a strange place to be in to have such high demand, but such low uptake. Our assessment is that the labor of assembling all of the read-made components can be daunting--some parts come from pets stores (the pump, airline, and activated carbon) some from the plant nursery (plant itself and hydroculture growth medium) and some from wherever you can source it (such as the pot itself, which might come from a thrift store, your garage or your grandma's house). As a result we began to discuss ways to produce custom kit that was able to be produced at scale, further reducing costs and increasing access. This led us to collaborate with the industrial designer Christophe Guerin, to design and produce prototypes that could be industrially produced. Christophe's designs for the third prototype are below. ![image description](https://publiclab.org/system/images/photos/000/023/476/large/10_-_a.jpg "10_-_a.jpg")
 

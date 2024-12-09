@@ -3,6 +3,8 @@ uid: 479194
 created_at: 2016-06-15 22:43:07 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/314aa9d9bb765e06580d1fe63dd7351b)
+
 # abdul
 
 I am in Kits fulfillment at Public Lab. I am a member of the Public Lab staff.

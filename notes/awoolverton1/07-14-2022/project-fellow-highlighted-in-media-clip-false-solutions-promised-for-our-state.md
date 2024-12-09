@@ -8,11 +8,15 @@ uid: 778039
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/046/893/original/Travis.JPG)
+
 # Community Air Monitoring Highlighted in Media Clip; False Solutions Promised for Our State
 
 by [awoolverton1](../profile/awoolverton1) July 14, 2022 04:12
 
 July 14, 2022 04:12 | Tags: [blog](../tag/blog), [zoom:6](../tag/zoom:6), [with:travislondon](../tag/with:travislondon), [formosaplastics](../tag/formosaplastics), [lat:30.017929](../tag/lat:30.017929), [lon:-90.791322](../tag/lon:-90.791322)
+
+----
 
 [Travis London](https://publiclab.org/profile/TravisLondon), the [Game-Over-Formosa](https://publiclab.org/wiki/game-over-formosa-plastics)
 project fellow, was featured in last month's [NBC News story](https://www.youtube.com/watch?v=-aHH_iYNecU) covering

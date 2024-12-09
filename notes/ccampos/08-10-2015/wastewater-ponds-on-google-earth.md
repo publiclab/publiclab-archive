@@ -8,11 +8,15 @@ uid: 446563
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/011/097/original/Screenshot_2015-07-14-14-41-14.png)
+
 # WasteWater Ponds on Google Earth
 
 by [ccampos](../profile/ccampos) August 10, 2015 21:13
 
 August 10, 2015 21:13 | Tags: [california](../tag/california), [ccejn](../tag/ccejn), [first-time-poster](../tag/first-time-poster)
+
+----
 
 [![Screenshot_2015-07-14-14-48-11.png](https://i.publiclab.org/system/images/photos/000/011/095/medium/Screenshot_2015-07-14-14-48-11.png)](https://i.publiclab.org/system/images/photos/000/011/095/original/Screenshot_2015-07-14-14-48-11.png)
 

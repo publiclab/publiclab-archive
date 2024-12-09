@@ -14,6 +14,8 @@ by [IreneJessica](../profile/IreneJessica)
 
 May 14, 2015 04:12 | Tags: 
 
+----
+
 Abstract: There is Husband-wife looks in life, namely couples live together for a long time will tend to have similar features. And now, it has been proved that husband-wife looks isn’t the subjective assume by science, scientists have found the reason behind the phenomena of husband-wife looks. 
 
 Scientists point out, living together for a long time will make the different gut microbial ecology environment of couples become similar. And the gut microbes have an effect on characters; behaviors and others of couples in the process of becoming similar gradually. That is to say, characters and habits of both sides tend to be uniform, which lead to the husband-wife looks in return. 

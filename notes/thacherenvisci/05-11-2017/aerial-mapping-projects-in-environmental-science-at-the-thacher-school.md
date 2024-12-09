@@ -8,11 +8,15 @@ uid: 507070
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/020/436/original/IMG_0373.jpg)
+
 # Aerial Mapping Projects in Environmental Science at The Thacher School
 
 by [thacherenvisci](../profile/thacherenvisci) May 11, 2017 18:15
 
 May 11, 2017 18:15 | Tags: [balloon-mapping](../tag/balloon-mapping), [education](../tag/education), [mapping-with-youth](../tag/mapping-with-youth), [youth](../tag/youth), [event](../tag/event), [youth-mapping](../tag/youth-mapping), [seeks:responses](../tag/seeks:responses), [activity:education](../tag/activity:education), [educators](../tag/educators), [activity:classroom](../tag/activity:classroom)
+
+----
 
 # Aerial Mapping Unit with a High School Class
 

@@ -14,6 +14,8 @@ by [warren](../profile/warren)
 
 June 28, 2012 16:31 | Tags: 
 
+----
+
 ###Sara###
 * 5 accomplished: Providence mapping meet up--providence research group-Matt Stalz: web developer for Maker Bot founder of http://www.hackpittsburgh.org/, EPA meetings, move of materials from Pirateship, H2S, RPI talk, mapknitter training,
 * 5 goals: EPA research notes, RPI conference, H2S ordering exp rhus, finish map of maps, Ceder Tree grant, publication proposal.

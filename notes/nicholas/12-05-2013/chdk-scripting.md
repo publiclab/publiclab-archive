@@ -8,11 +8,15 @@ uid: 53894
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/002/357/original/Screen_Shot_2013-12-05_at_3.33.30_PM.png)
+
 # CHDK Scripting
 
 by [nicholas](../profile/nicholas) December 05, 2013 20:38
 
 December 05, 2013 20:38 | Tags: [balloon-mapping](../tag/balloon-mapping), [triggering](../tag/triggering), [chdk](../tag/chdk), [camera-triggering](../tag/camera-triggering), [camera-scripting](../tag/camera-scripting), [activity:camera-triggering](../tag/activity:camera-triggering), [activity:chdk](../tag/activity:chdk)
+
+----
 
 The last several time I've been balloon/kite mapping I've used the standard Cannon A495 which so many Public Labbers love. In reality I borrowed this camera and used the SD card which came with and which uses the CHDK timer script. All of this was pre-installed for me so I never really had a full grasp on how to install and use the CHDK stuff myself. But no more!
 

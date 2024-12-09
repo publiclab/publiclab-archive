@@ -8,11 +8,15 @@ uid: 422561
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/034/240/original/Screen_Shot_2019-07-31_at_9.31.05_AM.png)
+
 # Practice reporting suspected frac sand violations 
 
 by [stevie](../profile/stevie) July 30, 2019 17:24
 
 July 30, 2019 17:24 | Tags: [air-quality](../tag/air-quality), [frac-sand](../tag/frac-sand), [parent:frac-sand](../tag/parent:frac-sand), [activity:pm](../tag/activity:pm), [activity:water-quality](../tag/activity:water-quality), [frac-sand-reporting](../tag/frac-sand-reporting), [sentinel](../tag/sentinel), [parent:the-sand-sentinel-program](../tag/parent:the-sand-sentinel-program), [activity:midwest](../tag/activity:midwest), [activity:sentinel](../tag/activity:sentinel), [activity:frac-sand](../tag/activity:frac-sand), [activity:violations](../tag/activity:violations), [activity:reporting](../tag/activity:reporting), [sand-sentinel](../tag/sand-sentinel), [law-and-policy](../tag/law-and-policy), [activity:law-and-policy](../tag/activity:law-and-policy)
+
+----
 
 As part of the [Sand Sentinel program](https://publiclab.org/wiki/the-sand-sentinel-program), we're putting some materials together to use in an in-person training to help people learn about and practice filing suspected frac sand violations.
 

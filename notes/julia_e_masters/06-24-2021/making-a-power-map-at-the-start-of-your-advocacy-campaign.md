@@ -8,11 +8,15 @@ uid: 756220
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/044/246/original/Powermap_Example.jpeg)
+
 # Making a power map at the start of your advocacy campaign
 
 by [julia_e_masters](../profile/julia_e_masters) June 24, 2021 18:03
 
 June 24, 2021 18:03 | Tags: [mapping](../tag/mapping), [organizing](../tag/organizing), [advocacy](../tag/advocacy), [community-organizing](../tag/community-organizing), [research-curation-fellows](../tag/research-curation-fellows), [activity:organizing](../tag/activity:organizing), [activity:advocacy](../tag/activity:advocacy), [start-advocacy](../tag/start-advocacy), [advocacy-with-maps](../tag/advocacy-with-maps), [activity:advocacy-with-maps](../tag/activity:advocacy-with-maps), [power-mapping](../tag/power-mapping)
+
+----
 
 ##What is power mapping and why is it important?
 

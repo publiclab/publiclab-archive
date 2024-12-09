@@ -14,6 +14,8 @@ by [bicwood](../profile/bicwood), [warren](../profile/warren), [DavidB](../profi
 
 July 16, 2013 22:07 | Tags: [spectrometer](../tag/spectrometer), [education](../tag/education), [curriculum](../tag/curriculum)
 
+----
+
 <div class="alert">This page is still under active development and may be incomplete; please help to bring it to completion!</div>
 
 ###What is a Spectrometer and How Does it Work

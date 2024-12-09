@@ -8,11 +8,15 @@ uid: 77
 
 ---
 
+![](https://publiclab.org/sites/default/files/a1200-lumcon--cocodrie--la_updated_resized.jpg)
+
 # updated map from 2012 Barnraising session November 2-4, 2012 at LUMCON, Cocodrie, LA
 
 by [patcoyle](../profile/patcoyle) November 20, 2012 00:04
 
 November 20, 2012 00:04 | Tags: [plots](../tag/plots), [barnraising2012](../tag/barnraising2012), [lumcon](../tag/lumcon), [publiclaboratory](../tag/publiclaboratory), [cocodrie-la](../tag/cocodrie-la)
+
+----
 
 This updated map is a follow up from our 2012 Barnraising session November 2-4, 2012 at LUMCON, Cocodrie, LA. 
 

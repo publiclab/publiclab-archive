@@ -8,11 +8,15 @@ uid: 422561
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/022/413/original/Screen_Shot_2017-11-14_at_1.48.44_PM.png)
+
 # Workshop: Explore Issue Briefs with others 
 
 by [stevie](../profile/stevie) November 14, 2017 19:49
 
 November 14, 2017 19:49 | Tags: [organizing](../tag/organizing), [barnstar:basic](../tag/barnstar:basic), [facilitation](../tag/facilitation), [getting-started](../tag/getting-started), [community-organizing](../tag/community-organizing), [issue-brief](../tag/issue-brief), [activity:community-organizing](../tag/activity:community-organizing), [activity:issue-brief](../tag/activity:issue-brief), [activity:organizing](../tag/activity:organizing)
+
+----
 
 **About this workshop:** In this workshop, participants will work together to explore [Issue Briefs](https://publiclab.org/wiki/issue-brief) posted to Public Lab. Objectives of the workshop are to engage in community science issues, help build ideas on how to address them, share ideas and pathways forward with the broader Public Lab community. This workshop can be adapted to be done for as few as 10 people or as many as 90. 
 

@@ -14,6 +14,8 @@ by [ZzzPopFzzz](../profile/ZzzPopFzzz) December 24, 2017 22:08
 
 December 24, 2017 22:08 | Tags: [question:general](../tag/question:general), [question:radiation](../tag/question:radiation)
 
+----
+
 I don't see that you're involved in ionising radiation, I live on the ocean in the central California coast. I have lab equipment for measuring NON ionising fields if you have any interest in that area.  
 
 Thank you

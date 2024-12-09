@@ -14,6 +14,8 @@ by [jenniferdsara](../profile/jenniferdsara) November 13, 2014 02:15
 
 November 13, 2014 02:15 | Tags: [water-sensing](../tag/water-sensing), [water-quality-monitoring](../tag/water-quality-monitoring), [water-quality](../tag/water-quality), [umass-amherst](../tag/umass-amherst), [publiclab-at-umass](../tag/publiclab-at-umass)
 
+----
+
 ###What I want to do
 
 Using the Arduino Uno, we have made a device that measures temperature and conductivity for water quality monitoring purposes. Our challenge is building a container that will protect the arduino from water damage that is durable and affordable. We hope that our approach can serve others who are also trying to find ways to waterproof their devices. 

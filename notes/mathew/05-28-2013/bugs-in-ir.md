@@ -8,11 +8,15 @@ uid: 4
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/000/425/original/IMG_1366_ir.jpg)
+
 # Bugs in IR
 
 by [mathew](../profile/mathew) May 28, 2013 16:27
 
 May 28, 2013 16:27 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [infragram](../tag/infragram)
+
+----
 
 ##What I want to do
 I wanted to see what Infragram did for insect photography.  My assumption, which proved true, was that by making plants appear white, insects would pop out and be easier to identify.  The NearIR-G-B also worked great.  These plants would otherwise be dark green and purple, and very low contrast.

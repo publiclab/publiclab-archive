@@ -8,11 +8,15 @@ uid: 427257
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/006/345/original/13765453483_e6e1132d76_b.jpg)
+
 # Goal-Setting for Upcoming GLAM Event
 
 by [yvv](../profile/yvv) August 19, 2014 21:06
 
 August 19, 2014 21:06 | Tags: [new-york-city](../tag/new-york-city), [gowanus](../tag/gowanus), [gowanus-canal](../tag/gowanus-canal), [brooklyn](../tag/brooklyn), [gowanus-canal-conservancy](../tag/gowanus-canal-conservancy), [event](../tag/event), [glam](../tag/glam), [northeast](../tag/northeast), [goal-setting](../tag/goal-setting), [first-time-poster](../tag/first-time-poster)
+
+----
 
 The GLAM, Gowanus Canal Conservancy, and Public Lab met on 8/13 to update and identify the goals for the upcoming Gowanus Low Altitude Mapping days in September
 

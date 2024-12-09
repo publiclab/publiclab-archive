@@ -14,6 +14,8 @@ by [warren](../profile/warren) June 03, 2011 16:50
 
 June 03, 2011 16:50 | Tags: [gulf-coast](../tag/gulf-coast), [mississippi](../tag/mississippi)
 
+----
+
 <span class="Apple-style-span" style="font-family: georgia, &#39;times new roman&#39;, times, serif; font-size: 10px; color: rgb(51, 51, 51); line-height: 15px; "><p style="margin-top: 0px; margin-right: 0px; margin-bottom: 1em; margin-left: 0px; font-size: 1.5em; line-height: 1.467em; color: rgb(0, 0, 0); ">
 <a href="http://www.nytimes.com/2011/06/03/science/earth/03runoff.html?hpw">http://www.nytimes.com/2011/06/03/science/earth/03runoff.html?hpw</a></p><p style="margin-top: 0px; margin-right: 0px; margin-bottom: 1em; margin-left: 0px; font-size: 1.5em; line-height: 1.467em; color: rgb(0, 0, 0); ">
 <br></p><p style="margin-top: 0px; margin-right: 0px; margin-bottom: 1em; margin-left: 0px; font-size: 1.5em; line-height: 1.467em; color: rgb(0, 0, 0); ">&gt; Dead zones are areas of the ocean where low oxygen levels can stress or kill bottom-dwelling organisms that cannot escape and cause fish to leave the area. Excess nutrients transported to the gulf each year during spring floods promote algal growth. As the algae die and decompose, oxygen is consumed, creating the dead zone. The largest dead zone was measured in 2002 at about 8,500 square miles, roughly the size of New Jersey. Shrimp fishermen complain of being hurt the most by the dead zones as shrimp are less able to relocate — but the precise impacts on species are still being studied.</p>

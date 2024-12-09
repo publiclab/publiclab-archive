@@ -3,6 +3,8 @@ uid: 751770
 created_at: 2021-04-05 20:01:34 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/751770/medium/printscr-201101-0929-48.png)
+
 # eightballocto
 
 Hi there. I'm a developer living in the small, quaint state of South Dakota. I don't just program, I also strongly support and vouch for the conservation of grassland habitat, which faces constant threat from the agricultural industry.

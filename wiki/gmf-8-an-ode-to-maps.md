@@ -14,6 +14,8 @@ by [liz](../profile/liz)
 
 August 17, 2015 15:59 | Tags: [grassrootsmappingforum](../tag/grassrootsmappingforum), [style:fancy](../tag/style:fancy), [gmf-8](../tag/gmf-8)
 
+----
+
 By [Diana Di Leonardo](/profile/ddileona)
 
 Published July 2015 [Grassroots Mapping Forum #8.](http://publiclab.org/forum)

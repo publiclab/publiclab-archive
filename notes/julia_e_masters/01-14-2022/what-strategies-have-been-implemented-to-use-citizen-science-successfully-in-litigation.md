@@ -14,6 +14,8 @@ by [julia_e_masters](../profile/julia_e_masters) January 14, 2022 02:16
 
 January 14, 2022 02:16 | Tags: [organizing](../tag/organizing), [advocacy](../tag/advocacy), [question:general](../tag/question:general), [general](../tag/general), [community-organizing](../tag/community-organizing), [question:advocacy](../tag/question:advocacy), [law-and-policy](../tag/law-and-policy), [question:law-and-policy](../tag/question:law-and-policy), [question:organizing](../tag/question:organizing), [question:community-organizing](../tag/question:community-organizing), [presenting-data](../tag/presenting-data), [question:presenting-data](../tag/question:presenting-data), [air-quality-data](../tag/air-quality-data), [question:air-quality-data](../tag/question:air-quality-data)
 
+----
+
 Citizens can use litigation to hold accountable polluters and others whose actions adversely impact the environment. These actions can include wastewater treatment plants discharging sewage into public waters, factories or cars emitting harmful air contaminants that make residents sick, or industrial facilities improperly disposing of their solid wastes.
 
   

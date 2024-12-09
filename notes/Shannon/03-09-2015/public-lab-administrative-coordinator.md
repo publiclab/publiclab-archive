@@ -8,11 +8,15 @@ uid: 9
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/009/233/original/plots-logo-transparent.jpg)
+
 # Public Lab: Administrative Coordinator
 
 by [Shannon](../profile/Shannon) March 09, 2015 16:52
 
 March 09, 2015 16:52 | Tags: [nonprofit](../tag/nonprofit), [jobs](../tag/jobs)
+
+----
 
 **Start Date:** Mid-April 2015 </br>
 **Location:** New Orleans, LA </br>

@@ -8,10 +8,14 @@ uid: 51
 
 ---
 
+![](https://publiclab.org/sites/default/files/epaosc.jpg)
+
 # Exxon Pipeline Mayflower Arkansas Oil Spill 
 
 by [danbeavers](../profile/danbeavers) April 11, 2013 04:08
 
 April 11, 2013 04:08 | Tags: [oil-spill](../tag/oil-spill), [oil](../tag/oil), [exxon](../tag/exxon), [mayflower-ar](../tag/mayflower-ar), [tar-sands](../tag/tar-sands), [pipeline](../tag/pipeline), [oil-and-gas](../tag/oil-and-gas)
+
+----
 
 <a href="http://epaosc.org/site/site_profile.aspx?site_id=8502">EPA On Scene Coordination web site</a>

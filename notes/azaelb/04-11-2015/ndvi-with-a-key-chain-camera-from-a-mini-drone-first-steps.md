@@ -8,11 +8,15 @@ uid: 319070
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/009/637/original/IRphoto.jpg)
+
 # NDVI with a key chain camera to use with a mini-drone - First steps
 
 by [azaelb](../profile/azaelb) April 11, 2015 22:46
 
 April 11, 2015 22:46 | Tags: [ndvi](../tag/ndvi), [central-america](../tag/central-america), [panama](../tag/panama), [uav-mapping](../tag/uav-mapping), [uav-field-monitoring](../tag/uav-field-monitoring), [first-time-poster](../tag/first-time-poster)
+
+----
 
 I am a professor of environmental physics working in Panama, Central America, with Florida State University program there. I understand that Vegetation Index and precision agriculture studies can be quite expensive and out of reach for poor farmers here. After seeing use of drones in these types of studies and other sites using Public Lab Infragram project, I thought why not helping these farmers.
 

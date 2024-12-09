@@ -8,11 +8,15 @@ uid: 664477
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/043/985/original/showup.png)
+
 # Research Curation Fellows
 
 by [bhamster](../profile/bhamster)
 
 May 28, 2021 18:46 | Tags: [research](../tag/research), [fellows](../tag/fellows), [fellowship](../tag/fellowship), [parent:fellows](../tag/parent:fellows), [research-curation-fellows](../tag/research-curation-fellows)
+
+----
 
 Public Lab’s Research Curation Fellows are growing shared knowledge on environmental health topics related to **air**, **water**, **soil/land**, and **community organizing and advocacy**. 
 
@@ -70,7 +74,7 @@ Learn more about each of these Fellows in [this post](https://publiclab.org/note
 Calls that Research Curation Fellows host will appear below. [Follow the tag `research-curation-fellows-event`](https://publiclab.org/subscribe/tag/research-curation-fellows-event) to receive updates on these events.
 
 
-[notes:grid:research-curation-fellows-event]
+[grid:research-curation-fellows-event](../../tag/grid:research-curation-fellows-event)
 
 <br>
 
@@ -80,7 +84,7 @@ Calls that Research Curation Fellows host will appear below. [Follow the tag `re
 
 Research notes tagged with `research-curation-fellows` will appear here
 
-[notes:research-curation-fellows]
+[research-curation-fellows](../../tag/research-curation-fellows)
 
 <br>
 

@@ -14,6 +14,8 @@ by [warren](../profile/warren), [gauravano](../profile/gauravano), [liz](../prof
 
 April 25, 2012 22:14 | Tags: [spectrometer](../tag/spectrometer), [community](../tag/community), [kite](../tag/kite), [help](../tag/help), [uk](../tag/uk), [hello-kitty](../tag/hello-kitty), [mailing-lists](../tag/mailing-lists), [research](../tag/research), [forum](../tag/forum), [forums](../tag/forums), [lists](../tag/lists), [discussion](../tag/discussion), [locked](../tag/locked), [sidebar:none](../tag/sidebar:none)
 
+----
+
 Stay up to date on community happenings! Subscribe to receive the monthly email newsletter:
 
 <a class="btn btn-primary btn-lg" href="https://confirmsubscription.com/h/d/280EC1B40351B40B">Subscribe to the Newsletter</a>

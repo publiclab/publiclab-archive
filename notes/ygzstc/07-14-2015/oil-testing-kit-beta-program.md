@@ -8,11 +8,15 @@ uid: 422489
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/010/669/original/otk-b-flyer.png)
+
 # Announcing the Oil Testing Kit Public Beta Program
 
 by [ygzstc](../profile/ygzstc) July 14, 2015 16:00
 
 July 14, 2015 16:00 | Tags: [spectrometer](../tag/spectrometer), [oil-testing](../tag/oil-testing), [oil-testing-kit](../tag/oil-testing-kit), [homebrew-oil-testing-kit](../tag/homebrew-oil-testing-kit), [otk](../tag/otk), [homebrew](../tag/homebrew)
+
+----
 
 You may have seen hints of this across the site in recent weeks, but today, Public Lab is **formally launching the new [Oil Testing Kit Public Beta Program](/wiki/oil-testing-kit)**. This is an exciting opportunity to help improve our prototype DIY methods for classifying unknown petroleum samples. Our eventual goal is for this kit to be usable to test and compare oil spill residues, and **we need your help!**
 

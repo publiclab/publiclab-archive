@@ -8,11 +8,15 @@ uid: 552
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/003/221/original/DSC02109.JPG)
+
 # Raspberry Pi Camera Rig
 
 by [seankmcginnis](../profile/seankmcginnis) March 12, 2014 22:31
 
 March 12, 2014 22:31 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [photo-rig](../tag/photo-rig), [raspberry-pi](../tag/raspberry-pi), [activity:photo-rig](../tag/activity:photo-rig), [raspberry-pi-cameras](../tag/raspberry-pi-cameras), [activity:raspberry-pi](../tag/activity:raspberry-pi), [activity:raspberry-pi-infragram](../tag/activity:raspberry-pi-infragram), [activity:pi-camera](../tag/activity:pi-camera)
+
+----
 
 I have been playing with the Raspberry Pi for a while now and I thought it was about time to document what I have been working on. The following steps will take you from getting a brand new Raspberry Pi to having a camera rig to take images of whatever you are looking to monitor.
 

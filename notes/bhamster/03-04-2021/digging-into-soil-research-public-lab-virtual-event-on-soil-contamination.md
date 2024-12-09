@@ -8,11 +8,15 @@ uid: 664477
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/042/860/original/Urban_garden_SK.jpg)
+
 # Digging into soil research: Public Lab virtual event on soil contamination
 
 by [bhamster](../profile/bhamster) March 04, 2021 17:27
 
 March 04, 2021 17:27 | Tags: [event](../tag/event), [soil](../tag/soil), [research](../tag/research), [event:rsvp](../tag/event:rsvp), [rsvp:bronwen](../tag/rsvp:bronwen), [soil-testing](../tag/soil-testing), [reviews](../tag/reviews), [soil-contamination](../tag/soil-contamination), [research-area-review](../tag/research-area-review), [rsvp:jjcreedon](../tag/rsvp:jjcreedon), [rsvp:cgram34](../tag/rsvp:cgram34), [rsvp:gteix](../tag/rsvp:gteix), [rsvp:benperrin](../tag/rsvp:benperrin), [rsvp:sureta](../tag/rsvp:sureta), [rsvp:bernard](../tag/rsvp:bernard)
+
+----
 
 _Lead image: Urban gardening in South Korea. [travel oriented](https://www.flickr.com/photos/traveloriented/13836085464/in/photostream/), [CC BY SA](https://creativecommons.org/licenses/by-sa/2.0/)_
 

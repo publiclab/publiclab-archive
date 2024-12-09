@@ -8,11 +8,15 @@ uid: 421543
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/007/849/original/IMG_2212.JPG)
+
 # Edmonton Balloon and Kite Mapping Workshop
 
 by [ann](../profile/ann) November 14, 2014 14:43
 
 November 14, 2014 14:43 | Tags: [balloon-mapping](../tag/balloon-mapping), [edmonton](../tag/edmonton), [event](../tag/event), [canada](../tag/canada), [alberta](../tag/alberta), [event:rsvp](../tag/event:rsvp), [date:11-22-2014](../tag/date:11-22-2014), [rsvp:ann](../tag/rsvp:ann), [rsvp:anne](../tag/rsvp:anne), [replication:14022](../tag/replication:14022)
+
+----
 
 ####**Date:** Saturday, November 22, 2014, 1-4pm
 ####**Location:** Humanities Centre 3-86, University of Alberta, Edmonton, AB, CANADA

@@ -8,11 +8,15 @@ uid: 379
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/002/881/original/b_IMG_1162.JPG)
+
 # Barataria 2014: I February 9th
 
 by [eustatic](../profile/eustatic) February 12, 2014 05:49
 
 February 12, 2014 05:49 | Tags: [barataria-bay](../tag/barataria-bay), [kite-mapping](../tag/kite-mapping), [wetlands](../tag/wetlands), [louisiana](../tag/louisiana), [wetland](../tag/wetland), [bp](../tag/bp), [patagonia](../tag/patagonia)
+
+----
 
 ###What I want to do
 

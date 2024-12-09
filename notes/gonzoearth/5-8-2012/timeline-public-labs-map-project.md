@@ -8,11 +8,15 @@ uid: 12
 
 ---
 
+![](https://publiclab.org/sites/default/files/70.jpg)
+
 # Timeline of a Public Labs map project
 
 by [gonzoearth](../profile/gonzoearth) May 08, 2012 17:28
 
 May 08, 2012 17:28 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [idealab](../tag/idealab)
+
+----
 
 > cross-posted from [PBS's IdeaLab](http://www.pbs.org/idealab/2012/05/how-we-got-here-the-road-to-public-labs-map-project118.html). How We Got Here: The Road to Public Lab's Map Project
 

@@ -14,6 +14,8 @@ by [shaikhgous](../profile/shaikhgous) November 18, 2016 11:49
 
 November 18, 2016 11:49 | Tags: [infrared](../tag/infrared), [spectrometry](../tag/spectrometry), [question:spectrometry](../tag/question:spectrometry), [question:infrared](../tag/question:infrared), [question:multispectral-imaging](../tag/question:multispectral-imaging), [response:13679](../tag/response:13679), [recycling](../tag/recycling), [question:plastic](../tag/question:plastic), [polymer](../tag/polymer)
 
+----
+
 Hi,
 
 I am from India, after doing some research on internet I found that different type of plastic material have different spectral response in near infrared spectrum. 

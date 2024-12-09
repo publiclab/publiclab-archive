@@ -8,11 +8,15 @@ uid: 8
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/004/883/original/10494510_10152246735432798_8167745360193519641_o.jpg)
+
 # Report on 1st White House Maker Faire June 18th 2014
 
 by [sara](../profile/sara) June 19, 2014 22:38
 
 June 19, 2014 22:38 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [grassrootsmapping](../tag/grassrootsmapping), [petcoke](../tag/petcoke), [makerfaire](../tag/makerfaire), [chicago](../tag/chicago), [white-house](../tag/white-house), [make](../tag/make)
+
+----
 
 ##Report on 1st White House Maker Faire
 

@@ -8,11 +8,15 @@ uid: 43651
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/004/474/original/FI66X99H7996R0X.MEDIUM.jpg)
+
 # Riffle dev: 'Fun w/ Five-Five-Fives'
 
 by [donblair](../profile/donblair) May 28, 2014 18:09
 
 May 28, 2014 18:09 | Tags: [water-quality](../tag/water-quality), [water-quality-sensor](../tag/water-quality-sensor), [conductivity](../tag/conductivity), [riffle](../tag/riffle), [555](../tag/555)
+
+----
 
 ###What I want to do
 

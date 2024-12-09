@@ -8,11 +8,15 @@ uid: 53894
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/001/686/original/Screen_Shot_2013-09-25_at_10.48.34_AM.png)
+
 # Sneak Peak Balloon Mapping at Freshkills Park
 
 by [nicholas](../profile/nicholas) September 25, 2013 14:50
 
 September 25, 2013 14:50 | Tags: [new-york-city](../tag/new-york-city), [event](../tag/event), [fresh-kills](../tag/fresh-kills), [staten-island](../tag/staten-island)
+
+----
 
 ##What I want to do:
 Sneak Peak is an annual event hosted by the Parks Department and New York Department of Sanitation held at Freshkills Park in Staten Island.  The event is an opportunity for the public to explore Freshkills Park through biking, hiking, canoeing and other outdoor activities.  This year there will be a new event, balloon mapping!

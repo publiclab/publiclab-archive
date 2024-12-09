@@ -3,6 +3,8 @@ uid: 552521
 created_at: 2018-09-26 14:33:34 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/552521/medium/IMG_3564_copy.jpg)
+
 # edie_blues
 
 

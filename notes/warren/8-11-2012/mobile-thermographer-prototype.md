@@ -8,10 +8,14 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/screenshot-1344714251131.png)
+
 # Mobile thermographer prototype
 
 by [warren](../profile/warren) August 11, 2012 19:45
 
 August 11, 2012 19:45 | Tags: [thermal-flashlight](../tag/thermal-flashlight)
+
+----
 
 <p>Runs in Opera on Android, at <a href="http://thermographer.publiclaboratory.org.">http://thermographer.publiclaboratory.org.</a>.. but is very experimental right now. </p>

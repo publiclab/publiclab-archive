@@ -14,6 +14,8 @@ by [MarthaV](../profile/MarthaV) December 31, 2012 20:36
 
 December 31, 2012 20:36 | Tags: [first-time-poster](../tag/first-time-poster)
 
+----
+
 But I don't know what I need to activate on my MacBook 10.6.8 to start capturing pictures.  My MacBook does have a built in camera and I default to Firefox.  Where do I go to get information on this?
 
 Martha

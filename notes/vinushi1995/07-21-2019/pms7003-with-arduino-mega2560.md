@@ -14,6 +14,8 @@ by [vinushi1995](../profile/vinushi1995) July 21, 2019 04:12
 
 July 21, 2019 04:12 | Tags: [arduino](../tag/arduino), [question:air-quality](../tag/question:air-quality), [include](../tag/include), [pm2.5](../tag/pm2.5), [first-time-poster](../tag/first-time-poster), [pms7003](../tag/pms7003)
 
+----
+
 Hello, a first timer here. Thanks in Advance for anyone kind enough to offer me advice.
 
 i have been trying to make an air quality monitor using the Aircasting app. To measure particulate matter i got the PMS7003 Sensor. Does anyone know a proper wiring diagram and a code that works with arduino? I've been trying some codes but have been encountering problems in most of them. This is the latest code i've been using and it seems to be giving values in 100s which is very high  

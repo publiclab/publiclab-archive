@@ -14,6 +14,8 @@ by [roberts_ecofarm](../profile/roberts_ecofarm) December 05, 2018 01:21
 
 December 05, 2018 01:21 | Tags: [sensors](../tag/sensors), [water-quality](../tag/water-quality), [conductivity](../tag/conductivity), [coqui](../tag/coqui), [question:coqui](../tag/question:coqui)
 
+----
+
 Still working on a low cost conductivity sensor/data logger. Was writing code for my Arduino Uno the other day and got reminded of the PWM feature while looking at information on different pins. This [article from NYU](https://itp.nyu.edu/physcomp/lessons/microcontrollers/analog-output/) reminded me of donblair's post about 555 timers and [duty cycles](https://publiclab.org/notes/donblair/09-18-2014/duty-cycles-555s-linearity).
 
 Anyone have any experience with this or thoughts on the feasibility?

@@ -14,6 +14,8 @@ by [Shannon](../profile/Shannon)
 
 May 16, 2011 16:34 | Tags: [interview](../tag/interview), [evaluation](../tag/evaluation)
 
+----
+
 We have started interviews with Gulf Coast residents about the different locations where maps have been created. The consent form that we are using is attached and here are questions that we have been asking:
 
 We are gathering stories about what this bay means to people who live here and how it and your lives might have been impacted by the spill. We are trying to figure how damage to the bay can be best addressed by working with locals who grew up here and are best able to speak about what has changed, what has been lost and what might and ought to be restored.

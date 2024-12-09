@@ -8,11 +8,15 @@ uid: 4
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/011/228/original/Photo_Apr_10__3_09_44_PM.jpg)
+
 # Formaldehyde Test Kit
 
 by [mathew](../profile/mathew), [liz](../profile/liz)
 
 August 20, 2015 00:48 | Tags: [air-quality](../tag/air-quality), [tabbed:notes](../tag/tabbed:notes), [formaldehyde](../tag/formaldehyde), [open-air](../tag/open-air), [openair](../tag/openair), [indoor-air-quality](../tag/indoor-air-quality), [parent:indoor-air-quality-monitoring](../tag/parent:indoor-air-quality-monitoring), [activity:formaldehyde](../tag/activity:formaldehyde)
+
+----
 
 These formaldehyde testing kits are one part of our multi-pronged [Indoor Air quality monitoring](http://publiclab.org/wiki/indoor-air-quality-monitoring) efforts.
 

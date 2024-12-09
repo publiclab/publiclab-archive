@@ -14,6 +14,8 @@ by [gretchengehrke](../profile/gretchengehrke)
 
 October 14, 2016 20:56 | Tags: [massachusetts](../tag/massachusetts), [indoor-air-quality](../tag/indoor-air-quality), [indoor-air](../tag/indoor-air), [indoor-air-info-sheet](../tag/indoor-air-info-sheet)
 
+----
+
 How do residents of Massachusetts seek information about indoor air quality and address potential concerns with air quality in their residence or in public buildings? A brief introduction to information and services that are available through Massachusetts state and local agencies regarding indoor air quality is included in this wiki. 
 
 _Note: The Massachusetts Department of Health declined to participate in our national survey regarding state agencies response to residential indoor air concerns. The information provided here was obtained through online searches._

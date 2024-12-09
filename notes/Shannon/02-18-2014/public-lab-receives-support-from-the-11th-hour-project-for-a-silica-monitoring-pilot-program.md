@@ -8,11 +8,15 @@ uid: 9
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/002/941/original/plots-logo-transparent.jpg)
+
 # Public Lab receives support from the 11th Hour Project for a Silica Monitoring Pilot Program
 
 by [Shannon](../profile/Shannon) February 18, 2014 22:33
 
 February 18, 2014 22:33 | Tags: [spectrometer](../tag/spectrometer), [particulate-sensing](../tag/particulate-sensing), [air-quality](../tag/air-quality), [fracking](../tag/fracking), [particulates](../tag/particulates), [silica](../tag/silica), [frac-sand](../tag/frac-sand)
+
+----
 
 The Public Lab nonprofit is excited to announce that we’ve received a two-year grant from the 11th Hour Project, a program of the Schmidt Family Foundation.
 

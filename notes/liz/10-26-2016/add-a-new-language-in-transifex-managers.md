@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/018/625/original/Screen_Shot_2016-10-26_at_3.43.35_PM_copy.png)
+
 # Add a new language in Transifex (managers)
 
 by [liz](../profile/liz) October 26, 2016 19:47
 
 October 26, 2016 19:47 | Tags: [community](../tag/community), [website](../tag/website), [activity](../tag/activity), [category:verify](../tag/category:verify), [localization](../tag/localization), [translation](../tag/translation), [language](../tag/language), [activity:localization-managers](../tag/activity:localization-managers)
+
+----
 
 This activity is for managers of Public Lab's Transifex project. Please leave a comment if you would like to help manage this project. By the end of this activity, you will know how to respond for requests for new languages so that new contributors can join in the language of their choice. 
 

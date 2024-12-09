@@ -14,6 +14,8 @@ by [robotfarms](../profile/robotfarms) October 15, 2017 02:30
 
 October 15, 2017 02:30 | Tags: [ndvi](../tag/ndvi), [nir](../tag/nir), [filter](../tag/filter), [question:infragram](../tag/question:infragram), [answered](../tag/answered), [question:kits](../tag/question:kits), [question:filter-pack](../tag/question:filter-pack), [first-time-poster](../tag/first-time-poster)
 
+----
+
 Just wondering how big the filter is in the DIY infragram filter kit? Is it a big sheet, and you cut your own like in the first picture, or is it just a small piece big enough for one camera?
 
   

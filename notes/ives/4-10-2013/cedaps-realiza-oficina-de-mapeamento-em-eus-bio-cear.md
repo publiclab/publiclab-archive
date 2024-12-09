@@ -8,11 +8,15 @@ uid: 403
 
 ---
 
+![](https://publiclab.org/sites/default/files/10899_528102040562302_1516759573_n.jpg)
+
 # CEDAPS realiza Oficina de Mapeamento em Eusébio, Ceará
 
 by [ives](../profile/ives) April 10, 2013 21:50
 
 April 10, 2013 21:50 | Tags: [kite-mapping](../tag/kite-mapping), [brazil](../tag/brazil), [cedaps](../tag/cedaps), [Ceará](../tag/Ceará), [south-america](../tag/south-america), [first-time-poster](../tag/first-time-poster)
+
+----
 
 <strong>from: http://www.cedaps.org.br/17922</strong>
 

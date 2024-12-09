@@ -8,11 +8,15 @@ uid: 60509
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/000/773/original/sx230_aerial_RICH.jpg)
+
 # I Got the InfraBlues - CMOS White Balance Work-around
 
 by [geobduffy](../profile/geobduffy) July 13, 2013 16:42
 
 July 13, 2013 16:42 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [white-balance](../tag/white-balance), [infragram](../tag/infragram), [infrablue](../tag/infrablue), [cmos](../tag/cmos)
+
+----
 
 This is not really a song I want to be singing...
 I've been testing various blue filters on a few Canon P&S cameras in collaboration with the PublicLab.org InfraBlue project and found the Canon sx230 particularly challenging to work with due to the CMOS sensor. The sx230 is fully capable of producing rich infrablue photos and NDVI images with the proper white balance  (WB) setting. However, figuring out a practical way of setting the white balance for consistent results is proving a little challenging.It seems that a very important setting in determining good or poor InfraBlue photos is WB. It's a great camera for aerial mapping and seeing as most of the cameras now available that are relatively low cost for mapping are CMOS, this is important to resolve.

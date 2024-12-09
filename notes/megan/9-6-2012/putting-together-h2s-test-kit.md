@@ -8,11 +8,15 @@ uid: 775
 
 ---
 
+![](https://publiclab.org/sites/default/files/IMG_1116_0.JPG)
+
 # Putting together H2S Test Kit
 
 by [megan](../profile/megan) September 07, 2012 02:13
 
 September 07, 2012 02:13 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s), [h2s-photopaper](../tag/h2s-photopaper), [activity:h2s-photopaper](../tag/activity:h2s-photopaper)
+
+----
 
 Here is a little narrative about how I put together the test kits to send out to Josh at San Juan Citizens Alliance.
 

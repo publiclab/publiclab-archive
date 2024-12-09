@@ -14,6 +14,8 @@ by [warren](../profile/warren) March 09, 2011 23:50
 
 March 09, 2011 23:50 | Tags: [gulf-coast](../tag/gulf-coast), [interview](../tag/interview), [rochellecollier35](../tag/rochellecollier35), [micheleclemons](../tag/micheleclemons), [alabama](../tag/alabama)
 
+----
+
 <a href="https://www.flickr.com/photos/jeffreywarren/5513569512/" title="Dawn McKinney by jeferonix, on Flickr"><img src="http://farm6.static.flickr.com/5134/5513569512_2aecc19b4c.jpg" width="500" height="375" alt="Dawn McKinney" /></a>
 
 <em>This is the first of a <a href="http://grassrootsmapping.org/tag/mappers">series of interviews</a> we've conducted with mappers involved in <a href="http://publiclaboratory.org/place/new-orleans">documenting the BP oil spill.</a> It is cross-posted at <a href="http://grassrootsmapping.org/2011/03/mapper-interview-dawn-mckinney/">Grassroots Mapping</a></em>

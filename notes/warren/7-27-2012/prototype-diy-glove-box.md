@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/001/737/original/glovebox.png)
+
 # Prototype DIY glove box
 
 by [warren](../profile/warren) July 27, 2012 17:29
 
 July 27, 2012 17:29 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [hydrogen](../tag/hydrogen)
+
+----
 
 <iframe width="480" height="360" src="https://www.youtube.com/embed/EHkXDK95AaE" frameborder="0" allowfullscreen></iframe>
 

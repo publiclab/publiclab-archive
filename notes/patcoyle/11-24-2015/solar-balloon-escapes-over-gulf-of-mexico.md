@@ -8,11 +8,15 @@ uid: 77
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/013/027/original/solar_ballon_escape_from_paper.jpg)
+
 # SOLAR BALLOON ESCAPES OVER GULF OF MEXICO
 
 by [patcoyle](../profile/patcoyle) November 24, 2015 22:55
 
 November 24, 2015 22:55 | Tags: [solar-balloon](../tag/solar-balloon), [documentation](../tag/documentation), [barnraising](../tag/barnraising), [the-barnraiser](../tag/the-barnraiser)
+
+----
 
 ###What I want to do
 

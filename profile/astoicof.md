@@ -3,6 +3,8 @@ uid: 256
 created_at: 2013-11-18 21:31:30 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/6ba81c29ebd4086ace7249b7ebaa8608)
+
 # astoicof
 
 I am a mapper based out of New Orleans working through my freelance business Harta Consulting.  My background is with proprietary GIS software, but I've recently starting working more with open source technology and finding it far more enjoyable and versatile. I enjoy field work and cartography, and am a native of Colorado.

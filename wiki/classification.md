@@ -14,6 +14,8 @@ by [eustatic](../profile/eustatic), [adam-griffith](../profile/adam-griffith), [
 
 January 03, 2012 22:03 | Tags: [wetlands](../tag/wetlands), [aerial-photography](../tag/aerial-photography), [wetlands-restoration](../tag/wetlands-restoration), [mines](../tag/mines)
 
+----
+
 <a href="https://www.flickr.com/photos/worldworldworld/4918161225/" title="how much oil hit the coast ? by cesarharada.com, on Flickr"><img src="https://farm5.staticflickr.com/4074/4918161225_ac11e4ffa4.jpg" width="500" height="156" alt="how much oil hit the coast ?"></a>
 
 Classification refers to categorizing or classifying parts of an image into different types, for example **pavement**, **water**, **soil** and **sand**. It often relies on examining an image pixel by pixel and using color or shape information to decide which "class" is the best match. The result is often an image such as this one, which is colored by class:

@@ -8,11 +8,15 @@ uid: 54025
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/014/529/original/OTKP3_LED_VS_LASER.gif)
+
 # 405nm LED vs Laser
 
 by [stoft](../profile/stoft) February 23, 2016 22:34
 
 February 23, 2016 22:34 | Tags: [spectrometer](../tag/spectrometer), [laser](../tag/laser), [led](../tag/led), [oil-testing-kit](../tag/oil-testing-kit), [405nm](../tag/405nm), [otk](../tag/otk), [uv-laser](../tag/uv-laser), [uv-laser-405nm](../tag/uv-laser-405nm)
+
+----
 
 **Abstract**
 

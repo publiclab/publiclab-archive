@@ -14,6 +14,8 @@ by [warren](../profile/warren) January 07, 2011 14:05
 
 January 07, 2011 14:05 | Tags: 
 
+----
+
 <a href="https://www.flickr.com/photos/jeffreywarren/5331230972/" title="Roxana pilots the prototype balloon-kite by jeferonix, on Flickr"><img src="http://farm6.static.flickr.com/5250/5331230972_aa922d2aa6.jpg" width="500" height="375" alt="Roxana pilots the prototype balloon-kite" /></a>
 
 El miércoles pasado un grupo de la UNI y la Universidad Ricardo Palma hicimos un par de experimentos en Lima, primero, para probar la idea de sacar fotos de espectro infrarojo y en luz visible a la misma vez desde una plataforma aérea, y también para probar un híbrido entre una cometa y un globo como nuestra plataforma.

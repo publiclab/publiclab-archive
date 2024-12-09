@@ -8,11 +8,15 @@ uid: 4
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/003/783/original/Screen_Shot_2014-04-21_at_5.22.54_PM.png)
+
 # Frac Sand mining- polar light microscopy?
 
 by [mathew](../profile/mathew) April 22, 2014 01:02
 
 April 22, 2014 01:02 | Tags: [particulate-sensing](../tag/particulate-sensing), [air-quality](../tag/air-quality), [dust](../tag/dust), [silica](../tag/silica), [particulate](../tag/particulate), [frac-sand](../tag/frac-sand), [pm](../tag/pm), [midwest](../tag/midwest), [polarizer](../tag/polarizer), [polarized-light](../tag/polarized-light), [polarized-light-microscopy](../tag/polarized-light-microscopy), [particle-monitoring](../tag/particle-monitoring), [parent:frac-sand](../tag/parent:frac-sand), [polarizing-filter](../tag/polarizing-filter)
+
+----
 
 This image is from [Wisconsin Watch](http://www.wisconsinwatch.org/viz/fracmap/)
 

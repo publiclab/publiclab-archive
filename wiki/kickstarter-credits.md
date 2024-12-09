@@ -14,6 +14,8 @@ by [warren](../profile/warren)
 
 June 20, 2017 15:41 | Tags: 
 
+----
+
 All [balloon and kite mappers](/contributors/balloon-mapping) -- 115 contributing on this site, and many more
 
 All 2750 mappers on MapKnitter.org

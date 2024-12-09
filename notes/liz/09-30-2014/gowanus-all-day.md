@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/007/139/original/underBridgeSequence.gif)
+
 # Gowanus All Day
 
 by [liz](../profile/liz) September 30, 2014 20:58
 
 September 30, 2014 20:58 | Tags: [new-york-city](../tag/new-york-city), [gowanus](../tag/gowanus), [gowanus-canal](../tag/gowanus-canal), [glam](../tag/glam), [northeast](../tag/northeast), [gcc](../tag/gcc), [with:natasia](../tag/with:natasia), [with:yvv](../tag/with:yvv), [with:eymund](../tag/with:eymund), [with:jennmanta](../tag/with:jennmanta), [with:p_silva_82](../tag/with:p_silva_82)
+
+----
 
 Pics from Saturday September 27th:
 

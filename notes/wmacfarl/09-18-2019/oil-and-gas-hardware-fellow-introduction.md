@@ -14,6 +14,8 @@ by [wmacfarl](../profile/wmacfarl) September 18, 2019 18:19
 
 September 18, 2019 18:19 | Tags: [water-quality](../tag/water-quality), [riffle](../tag/riffle), [fellowship](../tag/fellowship), [oil-and-gas](../tag/oil-and-gas), [knowflow](../tag/knowflow), [lat:41.823989](../tag/lat:41.823989), [lon:-71.412834](../tag/lon:-71.412834)
 
+----
+
 Hello everyone. My name is Will Macfarlane and I'm the [Hardware Fellow](https://publiclab.org/notes/stevie/08-06-2019/seeking-hardware-fellow-for-oil-gas-water-fellowship-trio) third of the new [Public Lab Oil+Gas Water-Quality Fellowship trio](https://publiclab.org/wiki/fellows).
 
 I have been in and out of the Public Lab community for quite a while, but my primary work has been in youth education with a focus on creative technology. I am excited to have this opportunity to spend a couple of months working more directly on community/civic science and environmental monitoring.

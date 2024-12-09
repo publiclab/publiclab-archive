@@ -8,11 +8,15 @@ uid: 422561
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/021/950/original/Arellano_650.jpg)
+
 # Interview: Yvette Arellano
 
 by [stevie](../profile/stevie) October 16, 2017 15:27
 
 October 16, 2017 15:27 | Tags: [gulf-coast](../tag/gulf-coast), [interview](../tag/interview), [blog](../tag/blog), [grassroots](../tag/grassroots), [texas](../tag/texas), [environmental-justice](../tag/environmental-justice), [community-organizing](../tag/community-organizing), [interview-series](../tag/interview-series), [harvey](../tag/harvey), [houston](../tag/houston), [tejas](../tag/tejas), [hurricane-harvey](../tag/hurricane-harvey), [series:community-interviews](../tag/series:community-interviews)
+
+----
 
 _Lead Image from [YES! Magazine](http://www.yesmagazine.org/planet/cop21-meet-five-everyday-people-heading-to-the-paris-climate-talks-20151125)_
 

@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/031/836/original/Screen_Shot_2019-05-07_at_3.25.14_PM.png)
+
 # Introducing a (draft) Style Guide for Public Lab
 
 by [warren](../profile/warren) May 07, 2019 20:07
 
 May 07, 2019 20:07 | Tags: [website](../tag/website), [design](../tag/design), [blog](../tag/blog), [code](../tag/code), [interface](../tag/interface), [style-guide](../tag/style-guide), [ui](../tag/ui), [with:sylvan](../tag/with:sylvan), [pin:ui](../tag/pin:ui)
+
+----
 
 For a long time, folks making new pages and interfaces at [PublicLab.org](http://PublicLab.org) have not had much (if any) guidance or direction, and, understandably, have brought their own ideas to the project. This is great initiative, but we could do a better job setting some clear design conventions, and the whole site would benefit from some more consistency.
 

@@ -3,6 +3,8 @@ uid: 152
 created_at: 2013-04-14 05:35:15 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/152/medium/DSCN6508.JPG)
+
 # hagitkeysar
 
 <a href="http://www.flickr.com/photos/fiestin/8441107262/" title="tazza by fiestinx, on Flickr"><img src="http://farm9.staticflickr.com/8327/8441107262_8125b8c993.jpg" width="500" height="433" alt="tazza"></a>

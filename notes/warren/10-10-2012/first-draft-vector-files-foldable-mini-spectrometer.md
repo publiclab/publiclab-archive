@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/Screen shot 2012-10-10 at 1.08.24 AM.png)
+
 # First draft vector files for foldable mini-spectrometer
 
 by [warren](../profile/warren) October 10, 2012 05:14
 
 October 10, 2012 05:14 | Tags: [spectrometer](../tag/spectrometer)
+
+----
 
 Here's a first attempt to vectorize the design for the mini foldable spectrometer. I had to expand the postcard size to 5x7" but we'll see if we can shrink it back down. Also I added a "window" to put the diffraction grating over. Still to do:
 

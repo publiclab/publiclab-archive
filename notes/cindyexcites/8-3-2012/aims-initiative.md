@@ -14,6 +14,8 @@ by [cindy_excites](../profile/cindy_excites) August 03, 2012 21:56
 
 August 03, 2012 21:56 | Tags: [diy](../tag/diy), [community-driven](../tag/community-driven)
 
+----
+
 Science has no Borders take a hands-on, community-lead and capacity building approach to research and science. Its aim is to start a civic science project with communities in London, specifically in areas identified as deprived, as defined by the Index of Multiple Deprivation (londonprofiler.org). Specifically,
 
 • the main focus is on using the PLOTS concepts and methodologies of high-veracity DIY techniques whose range of expertise for tool prototyping extends from balloon mapping to thermal sensing and water quality testing;

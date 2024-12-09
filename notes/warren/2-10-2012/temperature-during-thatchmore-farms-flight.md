@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/thatchmore-flight.png)
+
 # Temperature during Thatchmore Farms flight
 
 by [warren](../profile/warren) February 10, 2012 21:04
 
 February 10, 2012 21:04 | Tags: 
+
+----
 
 Here it is in a Javascript Flot graph:
 

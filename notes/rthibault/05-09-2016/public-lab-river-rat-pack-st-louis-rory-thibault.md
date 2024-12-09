@@ -8,11 +8,15 @@ uid: 465998
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/016/084/original/12716134_1105741376143965_436147808187310811_o.jpg)
+
 # Public Lab River Rat Pack -- St. Louis -- Rory Thibault
 
 by [rthibault](../profile/rthibault) May 09, 2016 21:35
 
 May 09, 2016 21:35 | Tags: [balloon-mapping](../tag/balloon-mapping), [washu-stlouis](../tag/washu-stlouis), [publiclabriverratpack](../tag/publiclabriverratpack), [antidrone](../tag/antidrone), [plrrp](../tag/plrrp)
+
+----
 
 I am one of the students that was a part of Derek Hoeferlin's Public Lab: River Rat Pack class. I was in charge of creating the large map shown in one of the photos with another fellow student Jess Vanecek. I was also in charge of creating a handful of the large panoramas shown at the top of each of the panels. 
 

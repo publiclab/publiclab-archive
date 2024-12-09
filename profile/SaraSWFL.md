@@ -3,6 +3,8 @@ uid: 756414
 created_at: 2021-05-14 15:06:33 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/ac7140b999ba9323e48472f8ecf223db)
+
 # SaraSWFL
 
 Local community organizer active in Democratic politics in SWFL and Florida Wildflower Foundation Board member.

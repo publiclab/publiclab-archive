@@ -14,6 +14,8 @@ by [karunv](../profile/karunv) October 12, 2020 06:50
 
 October 12, 2020 06:50 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [question:ndvi](../tag/question:ndvi), [question:multispectral-imaging](../tag/question:multispectral-imaging), [multispectral-imaging](../tag/multispectral-imaging), [question:general](../tag/question:general), [general](../tag/general), [first-time-poster](../tag/first-time-poster)
 
+----
+
 Hello,
 
 I was exploring detecting stress levels in plants in my backyard and put together a 2 camera system as follow.

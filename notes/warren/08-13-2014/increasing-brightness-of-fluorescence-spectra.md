@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/006/248/original/IMG_20140813_172532.jpg)
+
 # Increasing brightness of fluorescence spectra
 
 by [warren](../profile/warren) August 13, 2014 22:19
 
 August 13, 2014 22:19 | Tags: [spectrometer](../tag/spectrometer), [kits](../tag/kits), [fluorescence](../tag/fluorescence), [desktop-spectrometer](../tag/desktop-spectrometer), [sensitivity](../tag/sensitivity), [oil-testing-kit](../tag/oil-testing-kit), [exposure](../tag/exposure), [response:11006](../tag/response:11006), [brightness](../tag/brightness)
+
+----
 
 ###What I want to do
 

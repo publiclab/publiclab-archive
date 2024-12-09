@@ -8,11 +8,15 @@ uid: 9
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/002/936/original/plots-logo-transparent.jpg)
+
 # Public Lab Community Newsletter February 16, 2014
 
 by [Shannon](../profile/Shannon) February 17, 2014 00:14
 
 February 17, 2014 00:14 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
+
+----
 
 In the Public Lab community newsletter this week, get updates on projects happening from Spain to Louisiana, dig in to a conversation on indoor gardening and open hardware and check out numerous new research notes on topics ranging from underwater plume sampling to Arduino based underwater sensor platforms. Enjoy!
 

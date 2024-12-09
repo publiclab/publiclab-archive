@@ -14,6 +14,8 @@ by [gonzoearth](../profile/gonzoearth)
 
 July 21, 2011 06:10 | Tags: 
 
+----
+
 *As part of the [Grassroots Mapping Curriculum](/wiki/mapping-curriculum) series.*
 
 http://publiclaboratory.org/notes/warren/6-6-2011/using-multispectral-imagery-derive-bathymetry

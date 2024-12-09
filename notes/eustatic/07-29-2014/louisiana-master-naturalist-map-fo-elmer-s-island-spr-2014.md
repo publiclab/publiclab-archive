@@ -8,11 +8,15 @@ uid: 379
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/005/653/original/a_IMG_9404.JPG)
+
 # Louisiana Master Naturalist Map of Elmer's Island Spr 2014
 
 by [eustatic](../profile/eustatic) July 29, 2014 20:25
 
 July 29, 2014 20:25 | Tags: [gulf-coast](../tag/gulf-coast), [kite-mapping](../tag/kite-mapping), [lmngno](../tag/lmngno)
+
+----
 
 a kite map made of Elmer's Island, a dynamic land feature, as part of the Louisiana master naturalist classes in spring 2014. 
 

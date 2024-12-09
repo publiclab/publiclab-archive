@@ -8,11 +8,15 @@ uid: 420530
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/002/829/original/Screen_Shot_2014-02-05_at_9.25.06_PM.png)
+
 # Pesticide Detection Methods Development
 
 by [silverhammer](../profile/silverhammer)
 
 February 06, 2014 17:10 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [pesticides](../tag/pesticides), [quantitative](../tag/quantitative), [extraction](../tag/extraction), [reagents](../tag/reagents), [solvent](../tag/solvent)
+
+----
 
 ####*Experiment 7 (started on 11/11/2014)*
 ##**Purpose:**

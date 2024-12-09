@@ -8,11 +8,15 @@ uid: 295582
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/002/087/original/inside1.jpg)
+
 # Help!! Problems with spectrophotometer spectra trying to build "countertop" set
 
 by [dckim](../profile/dckim) October 04, 2013 03:22
 
 October 04, 2013 03:22 | Tags: [spectrometer](../tag/spectrometer), [spectrophotometer](../tag/spectrophotometer), [troubleshooting](../tag/troubleshooting), [dsk](../tag/dsk)
+
+----
 
 
 [![Setup1.jpg](https://i.publiclab.org/system/images/photos/000/002/267/medium/Setup1.jpg)](https://i.publiclab.org/system/images/photos/000/002/267/original/Setup1.jpg)

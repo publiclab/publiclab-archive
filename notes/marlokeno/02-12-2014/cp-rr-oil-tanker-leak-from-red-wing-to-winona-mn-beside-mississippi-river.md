@@ -8,11 +8,15 @@ uid: 420760
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/002/877/original/oil-on-tracks-long-view-3_Weaver_MN.jpg)
+
 # CP RR oil tanker leak from Red wing to Winona MN, beside Mississippi River
 
 by [marlokeno](../profile/marlokeno) February 12, 2014 03:58
 
 February 12, 2014 03:58 | Tags: [spectrometer](../tag/spectrometer), [oil](../tag/oil), [spill](../tag/spill), [minnesota](../tag/minnesota), [bakken](../tag/bakken), [train](../tag/train), [mississippi-river](../tag/mississippi-river), [oil-testing](../tag/oil-testing), [rail](../tag/rail), [first-time-poster](../tag/first-time-poster)
+
+----
 
 ###I want to know how much oil spilled, what type of oil it is-reportedly, Bakken oil, and whether this will go into the Mississippi River.
 

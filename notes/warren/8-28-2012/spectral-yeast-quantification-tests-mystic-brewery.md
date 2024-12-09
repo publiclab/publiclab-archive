@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/IMG_0570.JPG)
+
 # Spectral yeast tests at Mystic Brewery
 
 by [warren](../profile/warren) August 28, 2012 22:02
 
 August 28, 2012 22:02 | Tags: [spectrometer](../tag/spectrometer), [yeast](../tag/yeast), [brewing](../tag/brewing), [quantitative](../tag/quantitative), [absorption-spectrometry](../tag/absorption-spectrometry), [beer](../tag/beer)
+
+----
 
 Today, Will (from Public Lab collaborator [Parts & Crafts](http://partsandcrafts.org)) and I visited Brian at [Mystic Brewery](http://mystic-brewery.com), a small brewery outside of Boston, because he's a biochem PhD and had some ideas about using a spectrometer to streamline their yeast counting. We did some encouraging tests with the [countertop spectrometer prototype](http://www.kickstarter.com/projects/jywarren/public-lab-diy-spectrometry-kit).
 

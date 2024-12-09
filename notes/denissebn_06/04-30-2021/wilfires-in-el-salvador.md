@@ -8,11 +8,15 @@ uid: 749988
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/043/616/original/LaMontanona-incendio.png)
+
 # Incendios Forestales en El Salvador/Wildfires in El Salvador
 
 by [denissebn_06](../profile/denissebn_06) April 30, 2021 18:08
 
 April 30, 2021 18:08 | Tags: [central-america](../tag/central-america), [lang:es](../tag/lang:es), [pm](../tag/pm), [biodiversity](../tag/biodiversity), [cuenca](../tag/cuenca), [particulate-matter](../tag/particulate-matter), [watershed](../tag/watershed), [wildfires](../tag/wildfires), [issue-brief](../tag/issue-brief), [el-salvador](../tag/el-salvador), [zoom:12](../tag/zoom:12), [lat:14](../tag/lat:14), [paticulate-matter](../tag/paticulate-matter), [lon:-88.9](../tag/lon:-88.9), [biodiversidad](../tag/biodiversidad), [incendio-forestal](../tag/incendio-forestal), [material-particulado](../tag/material-particulado), [with:amocorro](../tag/with:amocorro)
+
+----
 
 <div class="alert alert-info" role="alert"> <a href="https://publiclab.org/notes/denissebn_06/04-30-2021/wilfires-in-el-salvador?_=1620665957#Introduction:">Click here to read the content of this page in English</a>.</div>
 

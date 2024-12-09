@@ -14,6 +14,8 @@ by [Jayko](../profile/Jayko) September 18, 2014 22:52
 
 September 18, 2014 22:52 | Tags: 
 
+----
+
 Hasta hace muy poco apenas había trabajado en serio con servidores proxies. Los había utilzado en rara ocasión para saltar una restricción de IP, o utilizar programas que requieren de conexiones con múltiples IPs distintas.
 
 Hasta hace unos días con esto me bastaba. Cuando requería algo en conexión anónima hacía uso de la red TOR y aunque todo hay que decirlo es bastante lenta me solucionaba el problema. Al menos de forma temporal. 

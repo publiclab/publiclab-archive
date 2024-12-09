@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/IMG_1492.JPG)
+
 # Testing oil fluorescence with a green laser
 
 by [warren](../profile/warren) June 06, 2012 19:07
 
 June 06, 2012 19:07 | Tags: [spectrometer](../tag/spectrometer)
+
+----
 
 Following up on [my experiment with a green laser and olive oil](http://publiclaboratory.org/notes/warren/5-19-2012/fluorescence-olive-oil-green-laser), today I tried to make a more rigorous and repeatable setup and actually measure the reddish fluorescence with a [PLOTS spectrometer](/tool/spectrometer). I wasn't really successful -- I need to use glass test tubes instead of plastic ones (they scatter the light far too much) and I'm not sure the light is bright enough for our instrument. I'll keep trying; maybe somehow blocking the green light inside the spectrometer would allow it to overexpose enough to get the red light.
 

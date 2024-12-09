@@ -8,11 +8,15 @@ uid: 310707
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/025/775/original/Hudson.jpg)
+
 # How to analyze plastics forensically 
 
 by [maxliboiron](../profile/maxliboiron) July 19, 2018 14:11
 
 July 19, 2018 14:11 | Tags: [barnstar:empiricism](../tag/barnstar:empiricism), [microscope](../tag/microscope), [seeks:replications](../tag/seeks:replications), [micro-plastics](../tag/micro-plastics), [microplastics](../tag/microplastics), [babylegs](../tag/babylegs), [activity:babylegs](../tag/activity:babylegs), [activity:microplastics](../tag/activity:microplastics)
+
+----
 
 One of the main problems of working with microplastics is that they can be difficult to tell apart from non-plastics. In my own lab, beginners can have up to an ~80% error rate where they either fail to identify some things as plastics, or identify non-plastics as plastics by mistake. This guide is designed to help reduce that margin of error so you can be more sure of what you've found.  
 This guide assumes you are working with samples from [BabyLegs](https://publiclab.org/wiki/babylegs), and have [prepared your sample by sorting and drying it](https://publiclab.org/notes/maxliboiron/07-19-2018/how-to-process-microplastic-samples-from-a-trawl), though it can be generalized to microplastics found in other ways.

@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/016/219/original/riffle_20160517-5550-2.jpg)
+
 # Frozen Riffle?
 
 by [cfastie](../profile/cfastie) May 19, 2016 03:53
 
 May 19, 2016 03:53 | Tags: [arduino](../tag/arduino), [temperature](../tag/temperature), [sensors](../tag/sensors), [water-quality](../tag/water-quality), [riffle](../tag/riffle), [micro-sd](../tag/micro-sd), [response:13127](../tag/response:13127), [category:test-limits](../tag/category:test-limits), [data-logging](../tag/data-logging), [riffle-examples](../tag/riffle-examples)
+
+----
 
 I put the Riffle in the freezer this morning to see if the temperature sensor on the RTC would notice. The quickly chilling board left a [conspicuous cooling curve](https://publiclab.org/notes/cfastie/05-18-2016/riffle-test-data) in the data on the micro SD card. While the Riffle was in the freezer, it started to record data differently. The change was quick and happened 40 seconds after the recorded temperature dropped below freezing (0°C). Instead of recording data every nine seconds, the timestamps incremented every second for six or seven seconds, and then skip ahead about 55 seconds (Table 1).
 

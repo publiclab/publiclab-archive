@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/sites/default/files/Sanm-201335008.jpg)
+
 # Sanm LeafKam
 
 by [cfastie](../profile/cfastie) April 14, 2013 04:18
 
 April 14, 2013 04:18 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [nrg](../tag/nrg), [ndvi](../tag/ndvi), [nir](../tag/nir), [vermont](../tag/vermont), [infrared-camera](../tag/infrared-camera), [infragram](../tag/infragram), [plant-health](../tag/plant-health), [development](../tag/development)
+
+----
 
 <em> Top image: The distance between the lens centers is only 8 mm which reduces parallax errors. Gallery images from left: the setup, NIR photo, RGB photo, NRG image, NDVI image.</em>
 

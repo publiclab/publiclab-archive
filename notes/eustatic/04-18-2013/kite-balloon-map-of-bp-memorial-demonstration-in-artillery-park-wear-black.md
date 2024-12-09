@@ -8,11 +8,15 @@ uid: 379
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/000/082/original/305981_10151332531227204_1249348336_n.jpg)
+
 # Kite / Balloon Map of BP memorial demonstration in Artillery Park (wear black)
 
 by [eustatic](../profile/eustatic) April 18, 2013 15:38
 
 April 18, 2013 15:38 | Tags: [gulf-coast](../tag/gulf-coast), [event](../tag/event)
+
+----
 
 ##Event details
 What:  3 year memorial of the BP disaster, visual demonstration

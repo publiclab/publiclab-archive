@@ -14,6 +14,8 @@ by [warren](../profile/warren), [gonzoearth](../profile/gonzoearth)
 
 August 29, 2011 18:58 | Tags: 
 
+----
+
 <div class="alert">This page is out of date.</div>
 
 *As part of the [Grassroots Mapping Curriculum](/wiki/mapping-curriculum) series.*

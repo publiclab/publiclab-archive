@@ -14,6 +14,8 @@ by [warren](../profile/warren)
 
 October 11, 2012 16:46 | Tags: [spectrometer](../tag/spectrometer), [spectralworkbench](../tag/spectralworkbench)
 
+----
+
 # Spectral Workbench 2.0 API
 
 The Spectral Workbench 2 API is very different from the [v1 API](/wiki/spectral-workbench-api-v1). It is structured around a series of JavaScript classes.

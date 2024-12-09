@@ -14,6 +14,8 @@ by [jbest](../profile/jbest) November 06, 2013 23:36
 
 November 06, 2013 23:36 | Tags: [balloon-mapping](../tag/balloon-mapping), [picavet](../tag/picavet)
 
+----
+
 ### First flights - problems and solutions
 
 I wanted to share some basic problems and solutions we found in our first and second balloon flights for aerial surveys. These notes might help other first-timers and may also elicit input from those who are more experienced and have better solutions.

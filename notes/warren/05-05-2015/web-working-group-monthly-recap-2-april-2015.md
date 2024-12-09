@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/009/790/original/plots2-punchcard.png)
+
 # Web Working Group Monthly Recap 2: April 2015
 
 by [warren](../profile/warren) May 05, 2015 21:53
 
 May 05, 2015 21:53 | Tags: [mapknitter](../tag/mapknitter), [web-development](../tag/web-development), [software](../tag/software), [plots2](../tag/plots2), [spectral-workbench](../tag/spectral-workbench), [web-wg](../tag/web-wg), [wwg](../tag/wwg), [response:11734](../tag/response:11734), [webwg](../tag/webwg)
+
+----
 
 Welcome to the 2nd monthly Web Working Group report! I'm going to try to write faster this time; last month's took 3 hours to compile, and I want to do this every month if possible. Big picture, our focus was MapKnitter Annotations 2.0, wrapping up MapKnitter 2.0 changes and debugging as much as possible, and trying to get started on Spectral Workbench 2.0. That last goal didn't see too much progress yet, as things were quite busy. 
 

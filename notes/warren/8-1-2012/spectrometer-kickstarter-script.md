@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/-014.jpg)
+
 # Spectrometer Kickstarter script
 
 by [warren](../profile/warren) August 01, 2012 15:17
 
 August 01, 2012 15:17 | Tags: [spectrometer](../tag/spectrometer), [kickstarter](../tag/kickstarter)
+
+----
 
 I'm getting ready to post a Kickstarter campaign to make a whole bunch of [PLOTS spectrometers](/tool/spectrometer) and get more people involved in that project. I'm trying different reward structures and rejiggering the script a lot and thought I'd share what I have to see if people have input.
 

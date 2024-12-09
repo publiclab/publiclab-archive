@@ -8,11 +8,15 @@ uid: 540844
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/040/427/original/power-station-smoke-character-man-chimneys-pollution-a-person-to-think-scenery.jpg)
+
 # Tips for environmental storytelling
 
 by [joyofsoy](../profile/joyofsoy) August 07, 2020 15:54
 
 August 07, 2020 15:54 | Tags: [blog](../tag/blog), [storytelling](../tag/storytelling), [lat:29](../tag/lat:29), [lon:-90](../tag/lon:-90), [zoom:6](../tag/zoom:6), [tbt](../tag/tbt), [communications](../tag/communications), [data-advocacy](../tag/data-advocacy)
+
+----
 
 I started working in communications over a decade ago because I love helping people tell their stories. For me, there's nothing more exciting than helping people to get to the core of an issue to communicate a story in a way that will reach people and have an impact. When we're overwhelmed with trying to figure out what's happening in our communities and what we can do about it, it's easy to forget about the importance of sharing the human impact when sharing our stories or asking for help. Here are some tips that can help when you're talking about environmental impacts. 
 [Disclaimer: these tips tend to be more applicable to U.S. audiences]

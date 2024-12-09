@@ -14,6 +14,8 @@ by [amayas](../profile/amayas) March 27, 2021 20:44
 
 March 27, 2021 20:44 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [question:spectrometer](../tag/question:spectrometer), [white](../tag/white), [balance](../tag/balance), [gain](../tag/gain), [question:general](../tag/question:general), [general](../tag/general)
 
+----
+
 Hello,
 
 I built a USB Camera-based spectrometer. I a; getting different results for each setting. I want to get the image/spectrum the closest possible to a CCD spectrometer. I would like to know how to set the gain, white balance, saturation ...

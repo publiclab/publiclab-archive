@@ -14,6 +14,8 @@ by [DuvTorres](../profile/DuvTorres) May 27, 2015 17:01
 
 May 27, 2015 17:01 | Tags: [question:infragram](../tag/question:infragram)
 
+----
+
 Hi, 
 Now I’m working in some tests with aerial crop images for NDVI calculating, however I have had some problems for interpretation of infragram results. 
 I don´t understand the color scale used by the software, because theorically the higher NDVI have to show red color (good chlorophylla levels), and near zero have to be Green (soil), but I got different results in each image I have processed, 

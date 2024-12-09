@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/Picture 6.png)
+
 # Thermal flashlight temperature key
 
 by [warren](../profile/warren) February 16, 2012 17:38
 
 February 16, 2012 17:38 | Tags: 
+
+----
 
 I made a diagram of a possible "color dial" for the thermal flashlight. It's a shared Google Presentation, so feel free to riff on it.
 

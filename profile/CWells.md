@@ -3,6 +3,8 @@ uid: 526118
 created_at: 2018-02-26 07:52:38 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/541e67829d5de028b30fad78edbf3f5a)
+
 # CWells
 
 I'm the Senior Technical Advisor for the Guinea Worm (GW) Eradication Program in Ethiopia. There are only four countries in the world left with GW, with only 30 people inflected with the disease in 2017, down from about four million people a year with GW twenty years ago. I'm wondering if Public Lab can tip the scales in our favor and help us eradicate the second disease since smallpox.  

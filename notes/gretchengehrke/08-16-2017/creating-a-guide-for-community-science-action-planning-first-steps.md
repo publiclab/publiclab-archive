@@ -14,6 +14,8 @@ by [gretchengehrke](../profile/gretchengehrke) August 16, 2017 22:32
 
 August 16, 2017 22:32 | Tags: [air-quality](../tag/air-quality), [water-quality](../tag/water-quality), [methodologies](../tag/methodologies), [monitoring](../tag/monitoring), [advocacy](../tag/advocacy)
 
+----
+
 Over the next few months, we're hoping to put together an interactive resource for people to use while figuring out a monitoring and/or advocacy strategy to address their concerns. This resource, provisionally called the Community Science Action Planner (CSAP), would help guide people to gather information and make decisions about the best approach for their needs by asking questions and providing decision-making resources at each step of the process. We're hoping to make this as comprehensive as possible, starting with prompts for articulating the issue of concern, going through relevant assessments of the local community and regulatory landscape, resources available, types of studies that may be appropriate, tools available, potential avenues for advocacy, and resources necessary for different approaches. The resource would be composed in two phases: a scoping phase and a synthesis phase. We think this planner would be useful because it would be so multifaceted and explore challenges and opportunities on a variety of issues that would influence the success of an environmental campaign.
 
 For each section there probably already exist excellent resources, like Beautiful Rising's guide for power mapping ([https://beautifulrising.org/tool/power-mapping](https://beautifulrising.org/tool/power-mapping)), and I'm wondering if you know of resources to highlight and utilize. If so, please comment below!!

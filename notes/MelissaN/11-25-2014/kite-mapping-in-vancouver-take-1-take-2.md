@@ -8,11 +8,15 @@ uid: 305152
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/008/105/original/tt_img_00044.jpg)
+
 # Kite Mapping in Vancouver - Take 1 & Take 2
 
 by [MelissaN](../profile/MelissaN) November 25, 2014 02:33
 
 November 25, 2014 02:33 | Tags: [kite-mapping](../tag/kite-mapping), [first-time-poster](../tag/first-time-poster)
+
+----
 
 ###**Take 1**
 

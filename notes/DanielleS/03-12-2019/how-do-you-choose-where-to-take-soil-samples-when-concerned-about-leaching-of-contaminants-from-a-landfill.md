@@ -14,6 +14,8 @@ by [DanielleS](../profile/DanielleS) March 12, 2019 02:22
 
 March 12, 2019 02:22 | Tags: [landfill](../tag/landfill), [soil](../tag/soil), [soil-testing](../tag/soil-testing), [soil-sampling](../tag/soil-sampling), [question:soil-sampling](../tag/question:soil-sampling), [question:soil](../tag/question:soil), [soil-contaminants](../tag/soil-contaminants), [soil-contaminant-testing](../tag/soil-contaminant-testing), [soil-testing-kits](../tag/soil-testing-kits), [response:18505](../tag/response:18505), [question:landfill](../tag/question:landfill)
 
+----
+
 How can you pick where
 to sample so that you can see and say whether the contamination is coming from
 the landfill or some other source? What kind of contaminants - in the soil- are

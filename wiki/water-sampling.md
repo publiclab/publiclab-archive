@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/021/581/original/4741795572_a892463f4e_b.jpg)
+
 # Water Sampling
 
 by [warren](../profile/warren)
 
 September 07, 2017 19:20 | Tags: [agriculture](../tag/agriculture), [mining](../tag/mining), [water-quality](../tag/water-quality), [water](../tag/water), [sampling](../tag/sampling), [fracking](../tag/fracking), [tool](../tag/tool), [industry](../tag/industry), [water-testing](../tag/water-testing), [drinking-water](../tag/drinking-water), [method](../tag/method), [chemicals](../tag/chemicals), [oil-and-gas](../tag/oil-and-gas), [parent:sampling](../tag/parent:sampling), [sample-collection](../tag/sample-collection), [water-sampling](../tag/water-sampling), [parent:water-quality](../tag/parent:water-quality)
+
+----
 
 This page collects resources, questions, requests related to water sampling.
 
@@ -21,10 +25,10 @@ This page collects resources, questions, requests related to water sampling.
 
 ### Questions
 
-[questions:water-sampling]
+[water-sampling](../../tag/question:water-sampling)
 
 ****
 
 ### Activities
 
-[activities:water-sampling]
+[water-sampling](../../tag/activity:water-sampling)

@@ -14,6 +14,8 @@ by [Dplus](../profile/Dplus) February 03, 2013 20:46
 
 February 03, 2013 20:46 | Tags: [spectrometer](../tag/spectrometer), [spectral-analysis](../tag/spectral-analysis), [alcoholic-drinks](../tag/alcoholic-drinks), [near-ir](../tag/near-ir), [eu](../tag/eu), [greece](../tag/greece), [location:blurred](../tag/location:blurred), [lat:30](../tag/lat:30), [activity:spectrometer](../tag/activity:spectrometer), [lon:20](../tag/lon:20), [place:greece](../tag/place:greece)
 
+----
+
 During the summer months I work as a barman , in our family Bar Restaurant , here in Greece.
 The previous summer I came across a bottle of "Disaronno Originale" a brand of Amaretto (italian liquer) that had 
 1. No safety valve (most alcoholic drinks in Greece have a valve)

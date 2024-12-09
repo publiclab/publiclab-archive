@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/026/657/original/Screen_Shot_2018-09-24_at_12.06.14_PM.png)
+
 # Software Outreach
 
 by [warren](../profile/warren)
 
 October 17, 2017 14:50 | Tags: [software](../tag/software), [outreach](../tag/outreach), [gsoc](../tag/gsoc), [web](../tag/web), [wwg](../tag/wwg), [first-timers-only](../tag/first-timers-only), [software-outreach](../tag/software-outreach), [soc](../tag/soc)
+
+----
 
 Since early 2016, Public Lab has worked to make our open source software projects more welcoming and inclusive & to grow our software contributor community in diversity and size. This page collects some of those strategies and initiatives. 
 
@@ -43,7 +47,7 @@ Since 2016, we have learned from and incorporated strategies from other communti
 
 ## The complete series (so far)
 
-[notes:series:software-outreach]
+[series:software-outreach](../../tag/series:software-outreach)
 
 ****
 
@@ -57,7 +61,7 @@ Resources: https://the-pastry-box-project.net/charlotte-spencer/2015-september-1
 
 An even more important counterpart to friendliness is to ensure people feel safe by clearly forbidding inappropriate behavior in a [Code of Conduct](/conduct), and by making sure people know the Code of Conduct and follow it.
 
-[notes:code-of-conduct]
+[code-of-conduct](../../tag/code-of-conduct)
 
 Also: 
 
@@ -82,7 +86,7 @@ These issues take longer to make than fixing the actual bug, but the purpose is 
 
 They are also **small enough issues that they can be done in a fairly short period of time**, and this encourages modularity (see below) -- complex, layered processes must be **broken into smaller, simpler modules** in a sequence, or there's "no way for others to enter the work"!
 
-[notes:first-timers-only-blog]
+[first-timers-only-blog](../../tag/first-timers-only-blog)
 
 
 ![welcoming page](https://publiclab.org/system/images/photos/000/022/004/large/Screenshot_2017-10-23_at_12.03.37_PM.png)
@@ -102,7 +106,7 @@ See our [older version here](https://github.com/publiclab/plots2/projects/2), an
 
 Hosting local events is a great way to build out a local coding community -- as demonstrated impressively by @stella of [Rails Girls Nairobi](https://twitter.com/railsgirlsnbo) -- read more here:
 
-[notes:coding-events]
+[coding-events](../../tag/coding-events)
 
 
 ## Modularity
@@ -211,7 +215,7 @@ Here is a system diagram of all of our welcoming systems, conventions, tools, an
 
 ## Questions
 
-[questions:software-outreach]
+[software-outreach](../../tag/question:software-outreach)
 
 ****
 

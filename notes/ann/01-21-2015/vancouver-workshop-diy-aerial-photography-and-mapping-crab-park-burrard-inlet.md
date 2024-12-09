@@ -8,11 +8,15 @@ uid: 421543
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/008/701/original/Screen_Shot_2015-01-20_at_7.26.27_PM.png)
+
 # Vancouver Workshop: DIY Aerial Photography and Mapping, Crab Park, Burrard Inlet
 
 by [ann](../profile/ann) January 21, 2015 03:39
 
 January 21, 2015 03:39 | Tags: [kite-mapping](../tag/kite-mapping), [event](../tag/event), [canada](../tag/canada), [event:rsvp](../tag/event:rsvp), [northwest](../tag/northwest), [vancouver](../tag/vancouver), [events:northwest](../tag/events:northwest), [date:01-31-2015](../tag/date:01-31-2015), [bc](../tag/bc), [rsvp:lmpatrick](../tag/rsvp:lmpatrick), [rsvp:c5fritz1387](../tag/rsvp:c5fritz1387)
+
+----
 
 Aerial images, taken where you need them, when you need them, are powerful tools! Imagine being able to gather your own aerial images and build your own maps. With Public Lab's DIY aerial mapping tools you can! Join Public Lab organizer and Fulbright-Nat Geo researcher Ann Chen on **Saturday, January 31st** at [Ecotrust](http://ecotrust.ca/) at The AMP with Public Lab's training on DIY Aerial Photography and Mapping. We will be mapping Crab Park on the Burrard Inlet. 
 

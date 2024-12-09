@@ -3,6 +3,8 @@ uid: 554
 created_at: 2013-04-12 14:15:23 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/554/medium/Bristol-539-7.jpg)
+
 # cfastie
 
 [Click here to see all of  my research notes](https://publiclab.org/notes/author/cfastie)

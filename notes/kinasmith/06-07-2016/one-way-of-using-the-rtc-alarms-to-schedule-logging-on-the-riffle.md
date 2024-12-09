@@ -8,11 +8,15 @@ uid: 445906
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/016/517/original/petting-my-cat-wallpaper-660x3301.jpg)
+
 # One way of using the RTC Alarms to schedule logging on the Riffle
 
 by [kinasmith](../profile/kinasmith) June 07, 2016 04:51
 
 June 07, 2016 04:51 | Tags: [riffle](../tag/riffle), [riffle-examples](../tag/riffle-examples), [first-time-poster](../tag/first-time-poster)
+
+----
 
 #OK!
 This is my first research note. I'll get used to the formatting in a minute. 

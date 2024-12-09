@@ -14,6 +14,8 @@ by [zixaq](../profile/zixaq) September 03, 2018 18:35
 
 September 03, 2018 18:35 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [fluorescence](../tag/fluorescence), [raspberry-pi](../tag/raspberry-pi), [lego](../tag/lego), [question:general](../tag/question:general), [raspberry-pi-spectrometer](../tag/raspberry-pi-spectrometer), [lego-spectrometer](../tag/lego-spectrometer), [response:15360](../tag/response:15360)
 
+----
+
 I've got my lego spec assembled and (finally) was able to boot it up and try it out. I don't have any experience with raspberry pi and limited experience in linux, so I'm kind of a newbie here. Google brings up a config edit that is supposed to disable the camera LED, but the fix isn't working for me (adding disable\_camera\_LED=1 to the boot config).
 
   

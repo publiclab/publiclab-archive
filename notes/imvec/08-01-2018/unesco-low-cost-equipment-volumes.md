@@ -8,11 +8,15 @@ uid: 495038
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/025/986/original/lce.png)
+
 # UNESCO low cost equipment volumes
 
 by [imvec](../profile/imvec) August 01, 2018 15:45
 
 August 01, 2018 15:45 | Tags: [documentation](../tag/documentation), [laboratory](../tag/laboratory), [equipment](../tag/equipment)
+
+----
 
 ### UNESCO low cost equipment for science and education 
 We have recently found online these two volumes full of low cost equipment with lists of parts and schematics:

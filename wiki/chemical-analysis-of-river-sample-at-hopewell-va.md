@@ -14,6 +14,8 @@ by [gargoyle_169](../profile/gargoyle_169), [dhaffnersr](../profile/dhaffnersr)
 
 January 15, 2016 00:37 | Tags: [southeast](../tag/southeast), [protocol](../tag/protocol)
 
+----
+
 This sample (taken from the Appomattox river) was collected at 9:00 am on 01/14/16. 
 Distance from Hercules chemical plant is less than .25 miles. 
 

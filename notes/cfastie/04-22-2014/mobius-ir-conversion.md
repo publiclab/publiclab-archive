@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/003/790/original/MobTest-399-28.jpg)
+
 # Mobius IR conversion
 
 by [cfastie](../profile/cfastie) April 22, 2014 18:02
 
 April 22, 2014 18:02 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [infrared](../tag/infrared), [infragram](../tag/infragram), [infragram-sandbox](../tag/infragram-sandbox), [mobius-actioncam](../tag/mobius-actioncam), [infrared-conversion](../tag/infrared-conversion), [response:10327](../tag/response:10327), [mobius](../tag/mobius), [activity:multispectral-imaging](../tag/activity:multispectral-imaging), [activity:infragram](../tag/activity:infragram), [activity:infrared](../tag/activity:infrared), [activity:ndvi](../tag/activity:ndvi), [activity:mobius](../tag/activity:mobius), [activity:mobius-action-cam](../tag/activity:mobius-action-cam), [activity:infrared-camera-conversion](../tag/activity:infrared-camera-conversion), [activity:infragram-point-shoot](../tag/activity:infragram-point-shoot)
+
+----
 
 *Above: The Mobius ActionCam opens with two screws. One more set screw and you can expose the IR filter.*  
 

@@ -8,11 +8,15 @@ uid: 379
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/002/491/original/IMG_62931_jordan_public_lab_double_kite.jpg)
+
 # Double Delta kite in low wind out at Lake Pontchartrain
 
 by [eustatic](../profile/eustatic) January 06, 2014 02:06
 
 January 06, 2014 02:06 | Tags: [kite-mapping](../tag/kite-mapping)
+
+----
 
 ###What I want to do
 

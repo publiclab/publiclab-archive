@@ -14,6 +14,8 @@ by [anderstenn](../profile/anderstenn) September 20, 2019 19:38
 
 September 20, 2019 19:38 | Tags: [water](../tag/water), [runoff](../tag/runoff), [first-time-poster](../tag/first-time-poster), [lat:29.935167](../tag/lat:29.935167), [lon:-90.114084](../tag/lon:-90.114084), [with:jeanell873](../tag/with:jeanell873)
 
+----
+
 ## Introduction:  
 
 At Lusher Charter High School, we have witnessed a problem of water waste throughout our school community. The problem is visible both inside and outside the school with lots of water being flooded out the gutters and drains everyday. There is lots of perfectly fresh and clean water that isn't being completely utilized within the school campus that ends up as run-off and isn't used for anything. We believe that there are options for us to more efficiently use all of our clean water without wasting as much.  

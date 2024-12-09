@@ -14,6 +14,8 @@ by [stevie](../profile/stevie), [pdhixenbaugh](../profile/pdhixenbaugh), [liz](.
 
 September 02, 2015 14:35 | Tags: [community](../tag/community), [organizers](../tag/organizers)
 
+----
+
 Welcome, organizer! 
 
 The aim of this handbook is to introduce you to the resources, benefits, and responsibilities of being a Public Lab organizer. Please be encouraged to reach out to your fellow organizers with any questions! 

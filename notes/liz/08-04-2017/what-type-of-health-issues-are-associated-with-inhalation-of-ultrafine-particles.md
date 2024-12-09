@@ -14,6 +14,8 @@ by [liz](../profile/liz) August 04, 2017 13:55
 
 August 04, 2017 13:55 | Tags: [question:air-quality](../tag/question:air-quality), [answered](../tag/answered), [question:ultrafines](../tag/question:ultrafines)
 
+----
+
 **What type of health issues are associated with inhalation of ultrafine particles?**
 
 ---------

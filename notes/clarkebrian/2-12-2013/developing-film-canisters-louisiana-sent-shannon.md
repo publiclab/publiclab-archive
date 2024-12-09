@@ -14,6 +14,8 @@ by [Clarke_Brian](../profile/Clarke_Brian) February 12, 2013 21:46
 
 February 12, 2013 21:46 | Tags: [boston](../tag/boston), [northeastern-university](../tag/northeastern-university)
 
+----
+
 The first image shows the canisters as they arrived from Louisiana. To differentiate one set from the other, two dashes were drawn on the canisters ranging from 1= to 6B=.  
 The next series of photos consists of the strips once they had been removed from the canisters and developed. 
 The first set is 1-5 and the second set is 1= to 6B=, with 4 and 4= acting as controls.

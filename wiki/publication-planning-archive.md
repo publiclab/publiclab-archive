@@ -14,6 +14,8 @@ by [warren](../profile/warren)
 
 January 24, 2011 21:09 | Tags: [writing](../tag/writing), [publications](../tag/publications)
 
+----
+
 An archive of completed applications, publications:
 
 ###FOSS4G - Free and Open Source Software for Geospatial, Denver###

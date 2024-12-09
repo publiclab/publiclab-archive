@@ -14,6 +14,8 @@ by [larsonreever](../profile/larsonreever), [warren](../profile/warren)
 
 December 03, 2015 21:11 | Tags: [software](../tag/software), [spectral-workbench](../tag/spectral-workbench), [parent:spectral-workbench](../tag/parent:spectral-workbench), [data-management](../tag/data-management), [versioning](../tag/versioning), [151](../tag/151)
 
+----
+
 The new "Snapshots" system in Spectral Workbench brings the ability to maintain different versions of a spectrum for different uses. This feature [has been largely implemented in Github](https://github.com/publiclab/spectral-workbench/issues/192) and will be coming online in January 2016.
 
 ##What are Snapshots?

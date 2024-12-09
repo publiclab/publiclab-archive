@@ -8,11 +8,15 @@ uid: 421042
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/016/735/original/DSC03873.JPG)
+
 # Kite Anemometers
 
 by [ecta64](../profile/ecta64), [mathew](../profile/mathew), [warren](../profile/warren)
 
 June 22, 2016 21:51 | Tags: [wind-speed-meter](../tag/wind-speed-meter), [kite-anemometer](../tag/kite-anemometer), [kite-wind-speed-meter](../tag/kite-wind-speed-meter)
+
+----
 
 Kite anemometry is the use of a kite as a sensor to measure the wind velocity, vector and turbulence. It is differentiated from other methods of kite meteorological data gathering in that information is obtained by observing the kite and the forces acting on it. This typically means that all substantial instrumentation is on the ground versus being flown on the kite as a payload.
 
@@ -36,13 +40,13 @@ You can contribute to this project by:
 
 In the late 70's a number of patents were made regarding a system in which a series of kites were to be used to monitor conditions near airports. This system became known as the Tethered Aerodynamic Lifting Anemometer (TALA) patented under US Patents  [3,767,145](http://www.google.com/patents/US3767145), [4,058,010](http://www.google.com/patents/US4058010), [4,152,933](http://www.google.com/patents/US4152933) & [4,221,351](http://www.google.com/patents/US4221351).  Inspired by this device, further research into it and the general concept of kite anemometry was conducted throughout the 1980's and early 1990's.  No other commercial kite anemometers other than the TALA were produced. 
 
-[activities:kite-anemometer]
+[kite-anemometer](../../tag/activity:kite-anemometer)
 
 ****
 
 ## Questions
 
-[questions:kite-anemometer]
+[kite-anemometer](../../tag/question:kite-anemometer)
 
 ****
 

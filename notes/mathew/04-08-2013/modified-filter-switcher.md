@@ -8,11 +8,15 @@ uid: 4
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/000/030/original/fruitbowlhalf.jpg)
+
 # Modified Filter Switcher
 
 by [mathew](../profile/mathew) April 08, 2013 03:45
 
 April 08, 2013 03:45 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [infrared-camera](../tag/infrared-camera), [filter-switcher](../tag/filter-switcher)
+
+----
 
 ##The modification##
 it was really easy to open up the [Leopard Imaging LI-IR650](https://www.leopardimaging.com/Accessories.html)  [filter switcher](/notes/mathew/3-12-2013/ir-filter-switchers) with a tiny philips screwdriver.  Inside was a glass IR-CUT filter and a clear piece of glass.  I broke out the clear glass and cut a piece of developed film to fit in its place.  The developed film stays in without any glue.

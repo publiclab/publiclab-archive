@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/020/428/original/Screen_Shot_2017-05-12_at_2.46.31_PM.png)
+
 # MapMill
 
 by [warren](../profile/warren), [liz](../profile/liz), [gonzoearth](../profile/gonzoearth)
 
 March 09, 2011 17:04 | Tags: [software](../tag/software), [needs-revision](../tag/needs-revision), [developers](../tag/developers), [mapmill](../tag/mapmill), [photo-sharing](../tag/photo-sharing)
+
+----
 
 [MapMill](http://mapmill.org) is the Public Lab tool for sorting imagery produced with [balloon mapping](/wiki/balloon-mapping).
 
@@ -26,7 +30,7 @@ For other approaches to photo sharing, see [Photo Sharing](/wiki/photo-sharing).
 
 ## Questions
 
-[questions:mapmill]
+[mapmill](../../tag/question:mapmill)
 
 ****
 

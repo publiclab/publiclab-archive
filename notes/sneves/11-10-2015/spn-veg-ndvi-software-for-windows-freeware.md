@@ -8,11 +8,15 @@ uid: 450683
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/012/636/original/logo_icon.ico)
+
 # SPN-VEG - NDVI software for windows freeware
 
 by [sneves](../profile/sneves) November 10, 2015 13:56
 
 November 10, 2015 13:56 | Tags: [ndvi](../tag/ndvi), [software](../tag/software)
+
+----
 
 Hi,
 

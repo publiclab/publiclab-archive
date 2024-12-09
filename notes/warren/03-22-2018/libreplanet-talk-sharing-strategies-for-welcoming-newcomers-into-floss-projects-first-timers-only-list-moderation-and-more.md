@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/024/155/original/libreplanet-action.jpg)
+
 # LibrePlanet talk: Sharing strategies for welcoming newcomers into FLOSS projects: First-timers-only, list moderation, and more  
 
 by [warren](../profile/warren) March 22, 2018 21:42
 
 March 22, 2018 21:42 | Tags: [community](../tag/community), [presentations](../tag/presentations), [event](../tag/event), [presentation](../tag/presentation), [developers](../tag/developers), [with:liz](../tag/with:liz), [libreplanet](../tag/libreplanet), [free-software](../tag/free-software), [talks](../tag/talks), [onboarding](../tag/onboarding), [software-outreach](../tag/software-outreach), [series:software-outreach](../tag/series:software-outreach), [response:11715](../tag/response:11715), [date:03-25-2018](../tag/date:03-25-2018)
+
+----
 
 Hi all, I'm preparing for a talk with Liz Barry ( @liz) at LibrePlanet 2018 on Sunday at
 

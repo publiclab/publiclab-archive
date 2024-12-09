@@ -14,6 +14,8 @@ by [stevie](../profile/stevie), [warren](../profile/warren), [liz](../profile/li
 
 February 08, 2016 16:51 | Tags: [workshop](../tag/workshop), [oil-testing-kit](../tag/oil-testing-kit), [parent:oil-testing-workshops](../tag/parent:oil-testing-workshops)
 
+----
+
 _Drafted in January 2016 by Gretchen Gehrke, Stevie Lewis, Liz Barry_
 
 **Why (The Situation):** We want to learn what spectroscopy is, and we want to understand the purpose spectroscopy serves in environmental science. We want to join the development community around Public Lab’s prototype spectrometer and work toward realizing its promise of collecting data that will be useful in pollution cases. 

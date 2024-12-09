@@ -8,11 +8,15 @@ uid: 630823
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/045/265/original/b968cee3c0badd26.jpeg)
+
 # Water analysis / General presentation
 
 by [xavcc](../profile/xavcc) December 18, 2021 16:38
 
 December 18, 2021 16:38 | Tags: [water-quality](../tag/water-quality), [first-time-poster](../tag/first-time-poster), [zoom:6](../tag/zoom:6), [zoom:7](../tag/zoom:7), [lat:48.117266](../tag/lat:48.117266), [lon:-1.677792](../tag/lon:-1.677792), [lat:48.107431](../tag/lat:48.107431), [lon:-1.669921](../tag/lon:-1.669921), [lat:48.114766](../tag/lat:48.114766), [lon:-1.680908](../tag/lon:-1.680908), [lat:48.11](../tag/lat:48.11), [lon:-1.6744](../tag/lon:-1.6744)
+
+----
 
 This research note is a *chapter* in "[Investigating Water with Seeds](https://publiclab.org/notes/xavcc/12-17-2021/investihating-water-with-seeds)"
 

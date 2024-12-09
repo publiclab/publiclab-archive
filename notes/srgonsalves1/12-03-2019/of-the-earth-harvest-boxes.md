@@ -8,11 +8,15 @@ uid: 635245
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/036/834/original/Harvest_Box_Logo2.png)
+
 # Of the Earth Harvest Boxes
 
 by [srgonsalves1](../profile/srgonsalves1) December 03, 2019 15:41
 
 December 03, 2019 15:41 | Tags: [community-garden](../tag/community-garden), [location:blurred](../tag/location:blurred), [first-time-poster](../tag/first-time-poster), [unearthing-pvd](../tag/unearthing-pvd), [unearthing-pvd-projects](../tag/unearthing-pvd-projects), [lat:41.4](../tag/lat:41.4), [lon:-71.6](../tag/lon:-71.6), [food-insecurity](../tag/food-insecurity), [narragansett](../tag/narragansett)
+
+----
 
 To reduce food insecurity and address health disparities, Harvest Boxes are a traditional spin on government commodity boxes, that offer seasonally, locally sourced foods to members of the Narragansett Indian Tribe.
 

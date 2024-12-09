@@ -8,11 +8,15 @@ uid: 380298
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/009/818/original/Photo_Apr_10__3_09_44_PM.jpg)
+
 # Field Test of DIY formaldehyde testing and remediation kit  
 
 by [nshapiro](../profile/nshapiro) May 06, 2015 14:19
 
 May 06, 2015 14:19 | Tags: [remediation](../tag/remediation), [air-quality](../tag/air-quality), [formaldehyde](../tag/formaldehyde), [wherewebreathe](../tag/wherewebreathe), [coast](../tag/coast), [gulf](../tag/gulf), [indoor-air-quality-monitoring](../tag/indoor-air-quality-monitoring), [indoor-air-quality](../tag/indoor-air-quality), [replication:13480](../tag/replication:13480), [activity:formaldehyde](../tag/activity:formaldehyde)
+
+----
 
 As part of the Where We Breathe project of Public Lab we have been developing an inexpensive means of formaldehyde monitoring and an inexpensive living air filter system. 
 

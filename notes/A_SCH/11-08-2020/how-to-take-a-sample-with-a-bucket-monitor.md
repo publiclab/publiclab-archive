@@ -8,11 +8,15 @@ uid: 704145
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/042/314/original/Screen_Shot_2021-01-05_at_9.11.13_PM.png)
+
 # How to Take an Air Quality Sample with a Bucket Monitor
 
 by [A_SCH](../profile/A_SCH) November 08, 2020 04:22
 
 November 08, 2020 04:22 | Tags: [air-quality](../tag/air-quality), [bucket-brigade](../tag/bucket-brigade), [barnstar:video-documentation](../tag/barnstar:video-documentation), [with:kgradow1](../tag/with:kgradow1), [africa](../tag/africa), [advocacy](../tag/advocacy), [community-organizing](../tag/community-organizing), [advocacy-pathways](../tag/advocacy-pathways), [bucket](../tag/bucket), [bucket-monitor](../tag/bucket-monitor), [activity:bucket-monitor](../tag/activity:bucket-monitor), [south-africa](../tag/south-africa), [south-durban](../tag/south-durban)
+
+----
 
 Co-authored by: Bongani Mthembu and Desmond D'Sa, [South Durban Community Environmental Alliance](https://sdcea.co.za/ "https://sdcea.co.za/"), Rico Euripidou, [groundWork, Friends of the Earth South Africa](https://www.groundwork.org.za/ "https://www.groundwork.org.za/")
 

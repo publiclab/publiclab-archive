@@ -8,11 +8,15 @@ uid: 51
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/000/962/original/flare2%287-26-2013%29rotate.png)
+
 # Chalmette flare spectrum field trip
 
 by [danbeavers](../profile/danbeavers) July 30, 2013 17:03
 
 July 30, 2013 17:03 | Tags: [gulf-coast](../tag/gulf-coast), [spectrometer](../tag/spectrometer), [new-orleans](../tag/new-orleans), [flare](../tag/flare), [chalmette](../tag/chalmette)
+
+----
 
 ##What I want to do
 I have not had time to do any analysis yet so in order to not be too much of a hindrance I am posting my slightly processed data from our field trip Friday the 26th of July. 

@@ -8,11 +8,15 @@ uid: 794281
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/046/073/original/GSOC.png)
+
 # GSoC"proposal: MapKnitter Local
 
 by [Fetian_Anas](../profile/Fetian_Anas) April 18, 2022 22:04
 
 April 18, 2022 22:04 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [soc](../tag/soc), [first-time-poster](../tag/first-time-poster), [lat:20](../tag/lat:20), [lon:70](../tag/lon:70), [zoom:4](../tag/zoom:4), [gsoc-2022](../tag/gsoc-2022), [gsoc-2022-proposals](../tag/gsoc-2022-proposals)
+
+----
 
 12(This template is for students applying to summer code programs with Public Lab. Use this link to start writing a post: https://publiclab.org/post?n=899&tags=soc,soc-2019,soc-2019-proposals You can delete this line once you've started filling it out.)
 

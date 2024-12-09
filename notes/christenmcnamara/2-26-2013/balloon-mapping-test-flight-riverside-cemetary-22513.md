@@ -8,11 +8,15 @@ uid: 51650
 
 ---
 
+![](https://publiclab.org/sites/default/files/136.JPG)
+
 # Balloon Mapping Test Flight - Riverside Cemetary, 2.25.13
 
 by [ChristenMcNamara](../profile/ChristenMcNamara) February 26, 2013 21:18
 
 February 26, 2013 21:18 | Tags: [western-north-carolina](../tag/western-north-carolina), [balloon-mapping](../tag/balloon-mapping), [asheville](../tag/asheville), [weather-balloon-mapping](../tag/weather-balloon-mapping), [north-carolina](../tag/north-carolina)
+
+----
 
 Date: Monday, February 25, 2013
 Time: 9:00am

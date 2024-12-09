@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/001/459/original/LeaffestD40-223-46.jpg)
+
 # More camera testing
 
 by [cfastie](../profile/cfastie) September 09, 2013 15:07
 
 September 09, 2013 15:07 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [vermont](../tag/vermont), [leaffest](../tag/leaffest), [infragram](../tag/infragram), [infrablue](../tag/infrablue), [infragram-conversion](../tag/infragram-conversion), [leaffest2013](../tag/leaffest2013), [response:9302](../tag/response:9302)
+
+----
 
 On Sunday at LEAFFEST Jeff continued the camera test by repeating Saturday's scene in different light (brighter shade under blue sky) and a new scene by the garden. In addition to photos from each webcam with two different Rosco filters, we also captured RGB photos and infrablue photos with two or three Powershots. 
 

@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/024/785/original/IMG_20180430_112526_115.jpg)
+
 # What are your thoughts on this initial sketch for a Tag page on PublicLab.org?
 
 by [warren](../profile/warren) April 30, 2018 15:21
 
 April 30, 2018 15:21 | Tags: [design](../tag/design), [tags](../tag/tags), [ui](../tag/ui), [question:ui](../tag/question:ui), [topics](../tag/topics), [response:15072](../tag/response:15072), [comment-template:ui-feedback-template](../tag/comment-template:ui-feedback-template)
+
+----
 
 We're working a bit on redesigns of some of our main pages. I want to [collect some ideas and pool our thoughts](https://publiclab.org/notes/warren/01-22-2018/how-do-we-do-user-interface-design-work-in-a-community-process) on goals for one page, the Tag Page -- which is here:
 

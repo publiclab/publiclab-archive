@@ -8,11 +8,15 @@ uid: 304279
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/008/028/original/DOT_poison_label.png)
+
 # Toward calibrating H2S sensors.
 
 by [JSummers](../profile/JSummers) November 20, 2014 22:18
 
 November 20, 2014 22:18 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [calibration](../tag/calibration), [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s), [h2s-calibration](../tag/h2s-calibration)
+
+----
 
 ###What I want to do
 Up front, I want to make clear that we have not gotten down the road very far on this project, mostly because I haven't gone out and recruited anyone who is particularly interested in working with toxic gasses that smell really bad.  I have, however, given some thought to how you would do this without either killing yourself or making yourself severely unpopular with your colleagues, and I have started to put together the stuff necessary to do this.  This note is intended to allow someone who has the necessary background, access to a lab, and the interest to follow up.  While the protocol should allow one to safely work in a way that keeps the stuff confined, I strongly recommend running this type of experiment in a well functioning fume hood.  You been warned.

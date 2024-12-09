@@ -8,11 +8,15 @@ uid: 501996
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/030/555/original/2wqxch.gif)
+
 # Raspberry Pi Microscope Image Stitching 
 
 by [MaggPi](../profile/MaggPi) March 23, 2019 05:52
 
 March 23, 2019 05:52 | Tags: [image-stitching](../tag/image-stitching), [raspberry-pi](../tag/raspberry-pi), [stitching](../tag/stitching), [microscope](../tag/microscope), [microscopy](../tag/microscopy), [computer-vision](../tag/computer-vision), [opencv](../tag/opencv), [raspberry-pi-cameras](../tag/raspberry-pi-cameras), [live](../tag/live)
+
+----
 
 **Raspberry Pi Microscope Image Stitching – Trial observations**
 

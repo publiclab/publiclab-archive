@@ -8,11 +8,15 @@ uid: 45586
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/000/315/original/LEVELS-OF-RESOULTION-2.jpg)
+
 # Tool for Stalling: Mapping
 
 by [mlamadrid](../profile/mlamadrid) May 15, 2013 23:10
 
 May 15, 2013 23:10 | Tags: [balloon-mapping](../tag/balloon-mapping), [uganda](../tag/uganda), [eviction](../tag/eviction), [tenure](../tag/tenure), [blog](../tag/blog), [cargo-collective](../tag/cargo-collective), [tenure-mapping](../tag/tenure-mapping), [land-use](../tag/land-use), [first-time-poster](../tag/first-time-poster)
+
+----
 
 If the official world of maps has mutated into an insane apparatus of surveillance and control, why should communities use maps to make land tenure claims?
 

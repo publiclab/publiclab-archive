@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/store.png)
+
 # Extra reels and balloons now for sale, plus T-shirts!
 
 by [warren](../profile/warren) June 22, 2012 19:57
 
 June 22, 2012 19:57 | Tags: [retail](../tag/retail), [shop](../tag/shop), [tshirt](../tag/tshirt), [kits](../tag/kits), [store](../tag/store)
+
+----
 
 If you're popped your balloon, need to fly 1000' higher, or find yourself shirtless, you are in luck! We just expanded the PLOTS store to include solutions for all three problems.
 

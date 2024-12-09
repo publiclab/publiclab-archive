@@ -14,4 +14,6 @@ by [benfrizs](../profile/benfrizs) January 21, 2017 08:53
 
 January 21, 2017 08:53 | Tags: [mapknitter](../tag/mapknitter), [lat:-5.2158358](../tag/lat:-5.2158358), [lon:119.4730624](../tag/lon:119.4730624)
 
+----
+
 https://mapknitter.org/embed/btn-pesona-mustika

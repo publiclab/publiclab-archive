@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/027/438/original/infragram-pi_copy_2.png)
+
 # Pi Builder
 
 by [warren](../profile/warren)
 
 October 28, 2018 17:18 | Tags: [raspberry-pi](../tag/raspberry-pi), [cameras](../tag/cameras), [pi](../tag/pi), [rpi](../tag/rpi), [activity:community-microscope](../tag/activity:community-microscope), [pi-builder](../tag/pi-builder), [parent:pi-camera](../tag/parent:pi-camera)
+
+----
 
 Documentation for the Pi Builder software; see more at [https://github.com/publiclab/pi-builder](https://github.com/publiclab/pi-builder)
 
@@ -61,10 +65,10 @@ There you can look at proposed recipes, open an issue, or start developing your 
 
 ## Questions
 
-[questions:pi-builder]
+[pi-builder](../../tag/question:pi-builder)
 
 ****
 
 ## Activities
 
-[activities:pi-builder]
+[pi-builder](../../tag/activity:pi-builder)

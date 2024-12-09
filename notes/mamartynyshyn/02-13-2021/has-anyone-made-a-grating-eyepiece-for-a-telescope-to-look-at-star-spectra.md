@@ -14,4 +14,6 @@ by [mamartynyshyn](../profile/mamartynyshyn) February 13, 2021 23:38
 
 February 13, 2021 23:38 | Tags: [question:general](../tag/question:general), [general](../tag/general), [first-time-poster](../tag/first-time-poster)
 
+----
+
 Looking at making an affordable grating eyepiece.

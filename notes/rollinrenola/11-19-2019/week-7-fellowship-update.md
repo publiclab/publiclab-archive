@@ -14,6 +14,8 @@ by [rollinrenola](../profile/rollinrenola) November 19, 2019 15:11
 
 November 19, 2019 15:11 | Tags: [lat:1](../tag/lat:1), [lon:10](../tag/lon:10), [oil-and-gas-water-trio](../tag/oil-and-gas-water-trio)
 
+----
+
 Week of the November 18th Scheduled events.
 
 1\. Confirm Event location for public Lab Event on November 19th 6pm-8pm

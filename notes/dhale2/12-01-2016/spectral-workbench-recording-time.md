@@ -14,6 +14,8 @@ by [dhale2](../profile/dhale2) December 01, 2016 12:09
 
 December 01, 2016 12:09 | Tags: [question:spectral-workbench](../tag/question:spectral-workbench), [answered](../tag/answered)
 
+----
+
 I'm trying to show the spectrum of bioluminescent bacteria is its bioluminescence deteriorates. This would be over the course of several days, and I would need to continuously record the bacteria to accomplish this. Would spectral workbench be able to continuously record data over several days to accomplish this?
 
 The data will be used for an art+tech+writing project using the bacteria as a tag for augmented reality.

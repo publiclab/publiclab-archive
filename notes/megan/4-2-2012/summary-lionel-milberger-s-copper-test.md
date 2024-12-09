@@ -8,11 +8,15 @@ uid: 775
 
 ---
 
+![](https://publiclab.org/sites/default/files/copper pipe test.jpg)
+
 # Summary of Lionel Milberger’s Copper Test
 
 by [megan](../profile/megan) April 03, 2012 02:24
 
 April 03, 2012 02:24 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s-copper-pipe](../tag/h2s-copper-pipe), [h2s-copper-pipe-background](../tag/h2s-copper-pipe-background)
+
+----
 
 <strong>Focus of test is on residential ambient air from a fraction of a ppm to <100ppm</strong>
 

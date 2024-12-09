@@ -14,6 +14,8 @@ by [AndrewJamesLaplante](../profile/AndrewJamesLaplante) June 12, 2016 14:02
 
 June 12, 2016 14:02 | Tags: [question:spectrometry](../tag/question:spectrometry), [question:spectral-workbench](../tag/question:spectral-workbench), [answered](../tag/answered)
 
+----
+
 Hey I was wondering if it is possible to rename an already created set?
 
 Thanks

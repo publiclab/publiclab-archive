@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/008/046/original/portraits.png)
+
 # Dreaming of sensitive friends
 
 by [warren](../profile/warren) November 21, 2014 02:01
 
 November 21, 2014 02:01 | Tags: [gulf-coast](../tag/gulf-coast), [workshop](../tag/workshop), [sensing](../tag/sensing), [water-quality](../tag/water-quality), [open-water](../tag/open-water), [great-photos](../tag/great-photos), [propeller](../tag/propeller)
+
+----
 
 I took these portraits in a session at the open water workshop at Propeller, in New Orleans, tonight. 
 

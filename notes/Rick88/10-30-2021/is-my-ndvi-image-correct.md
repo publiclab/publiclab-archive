@@ -14,6 +14,8 @@ by [Rick88](../profile/Rick88) October 30, 2021 12:09
 
 October 30, 2021 12:09 | Tags: [ndvi](../tag/ndvi), [question:ndvi](../tag/question:ndvi), [first-time-poster](../tag/first-time-poster)
 
+----
+
 Hi,
 
 I managed to mod a camera to capture both VIS and NIR images as below :-

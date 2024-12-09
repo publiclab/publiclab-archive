@@ -3,6 +3,8 @@ uid: 66014
 created_at: 2013-05-27 21:18:48 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/2a7e314943b343065662c8d244d8f3a0)
+
 # partsandcrafts
 
 Parts and Crafts is great.

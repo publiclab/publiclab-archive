@@ -8,11 +8,15 @@ uid: 804
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/001/497/original/Screen_Shot_2013-09-12_at_9.31.52_AM.png)
+
 # Eye-Fi + BAP + Solar install = Win?
 
 by [natevw](../profile/natevw) September 12, 2013 16:41
 
 September 12, 2013 16:41 | Tags: [balloon-mapping](../tag/balloon-mapping), [live-streaming](../tag/live-streaming), [photo-rig](../tag/photo-rig), [eye-fi](../tag/eye-fi)
+
+----
 
 ##What I want to do
 

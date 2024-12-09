@@ -3,6 +3,8 @@ uid: 664477
 created_at: 2020-02-13 18:04:38 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/664477/medium/axolotl.jpg)
+
 # bhamster
 
 Research Manager at Public Lab. Scientist who's most excited about sharing science.

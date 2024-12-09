@@ -8,11 +8,15 @@ uid: 422561
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/005/170/original/Slide1.jpg)
+
 # A New Orleans Event
 
 by [stevie](../profile/stevie) July 09, 2014 14:48
 
 July 09, 2014 14:48 | Tags: [gulf-coast](../tag/gulf-coast), [spectrometer](../tag/spectrometer), [events](../tag/events), [spectrometry](../tag/spectrometry), [event](../tag/event), [date:07-31-2014](../tag/date:07-31-2014)
+
+----
 
 ##Join us for an evening of exploring spectrometry! 
 

@@ -8,11 +8,15 @@ uid: 423961
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/020/827/original/Riverkeeper1.jpg)
+
 # Video: The Meadowlands With Hackensack Riverkeeper
 
 by [zengirl2](../profile/zengirl2) June 20, 2017 01:23
 
 June 20, 2017 01:23 | Tags: [wetlands](../tag/wetlands), [citizen-science](../tag/citizen-science), [new-jersey](../tag/new-jersey), [water-quality](../tag/water-quality), [water](../tag/water)
+
+----
 
 If you've ever wondered about the Meadowlands, here is a peek by boat with Bill Sheehan, Hackensack Riverkeeper. It's helpful to know about the status of this area and to finally learn about the guy that has been helping to protect it. This was created by friend, Sara Leavitt, who has been curious about this ecological hideaway for quite some time.
 

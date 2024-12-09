@@ -8,11 +8,15 @@ uid: 43651
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/003/851/original/open-lux-revq-osh-front.png)
+
 # Open-Lux:: REV-Q! (REV Q. Seriously?) Now with a UV sensor. That's useful for stuff, right?
 
 by [donblair](../profile/donblair) April 24, 2014 04:31
 
 April 24, 2014 04:31 | Tags: [thermal-flashlight](../tag/thermal-flashlight), [openlux](../tag/openlux)
+
+----
 
 ###What I want to do
 

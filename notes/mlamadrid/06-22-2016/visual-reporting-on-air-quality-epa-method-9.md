@@ -8,11 +8,15 @@ uid: 45586
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/016/704/original/crispin_pierce.jpg)
+
 # Visual reporting on air quality: EPA method 9
 
 by [mlamadrid](../profile/mlamadrid) June 22, 2016 00:36
 
 June 22, 2016 00:36 | Tags: [blog](../tag/blog), [frac-sand](../tag/frac-sand), [with:stevie](../tag/with:stevie), [parent:frac-sand](../tag/parent:frac-sand), [communityscienceforum](../tag/communityscienceforum), [visual-monitoring](../tag/visual-monitoring), [reclamation](../tag/reclamation)
+
+----
 
 Article by [Stevie Lewis](https://publiclab.org/profile/stevie) for [Community Science Forum: Sand-Frac Issue](https://publiclab.org/forum).
 

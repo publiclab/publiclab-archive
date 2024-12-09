@@ -3,6 +3,8 @@ uid: 509135
 created_at: 2017-06-15 11:25:34 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/2bab72cf3330fb0e4cd5919a6d0e3384)
+
 # elongo
 
 Founder, and developer at R&D division at livinggreencity.com

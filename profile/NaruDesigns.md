@@ -3,6 +3,8 @@ uid: 775118
 created_at: 2021-10-10 10:51:26 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/775118/medium/NaruDesigns.jpeg)
+
 # NaruDesigns
 
 Frontend Developer | Designer

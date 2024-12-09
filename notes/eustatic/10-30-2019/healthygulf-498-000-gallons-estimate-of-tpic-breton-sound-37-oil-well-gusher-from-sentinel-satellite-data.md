@@ -8,11 +8,15 @@ uid: 379
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/036/098/original/BS37_TPIC_NESDIS_Oct_26.jpg)
+
 # HealthyGulf: 4260 Gallons Estimate of TPIC Breton Sound 37 oil well gusher from Sentinel Satellite data
 
 by [eustatic](../profile/eustatic) October 30, 2019 18:16
 
 October 30, 2019 18:16 | Tags: [louisiana](../tag/louisiana), [water-quality](../tag/water-quality), [response](../tag/response), [oil-and-gas](../tag/oil-and-gas), [policy](../tag/policy), [oil-accountability](../tag/oil-accountability), [tpic](../tag/tpic), [texaspetroleuminvestmentcompany](../tag/texaspetroleuminvestmentcompany), [bretonsound](../tag/bretonsound), [lat:29.573457](../tag/lat:29.573457), [lon:-89.01123](../tag/lon:-89.01123)
+
+----
 
 Gulf lovers, we have a problem:
 

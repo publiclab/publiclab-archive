@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/5665058986_cb54471389_o.jpg)
+
 # Cheap UV photos: Using a UV-pass filter with a CMOS camera
 
 by [warren](../profile/warren) April 28, 2011 16:07
 
 April 28, 2011 16:07 | Tags: [uv](../tag/uv), [ultraviolet](../tag/ultraviolet), [filter](../tag/filter), [hoya](../tag/hoya), [uv-imaging](../tag/uv-imaging)
+
+----
 
 We're using a Hoya UV-pass filter which we bought from UQG Optics, but you can buy it [on Edmund Optics as well](http://www.edmundoptics.com/onlinecatalog/displayproduct.cfm?productid=1924) for $26.50. Here are some of its specs:
 

@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/023/766/original/Screen_Shot_2018-02-28_at_5.56.08_PM.png)
+
 # Convening diversity and inclusion initiatives across open source projects
 
 by [liz](../profile/liz) February 28, 2018 23:02
 
 February 28, 2018 23:02 | Tags: [community](../tag/community), [evaluation](../tag/evaluation), [software-outreach](../tag/software-outreach), [eval](../tag/eval), [diversity](../tag/diversity), [welcoming](../tag/welcoming), [inclusion](../tag/inclusion)
+
+----
 
 Mozilla is convening a diversity and inclusion working group across open source projects, and many large communities are already involved: OpenStreetMap's Women's group, Drupal, Wordpress, Linux's CHAOSS Project, Kubernetes, Fedora, etc. Leading up to this they did a cross-project survey of projects including 90 detailed multi-modal interviews
 

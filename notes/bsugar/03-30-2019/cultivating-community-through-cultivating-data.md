@@ -8,11 +8,15 @@ uid: 217812
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/030/900/original/plots_doc_home_med.png)
+
 # Cultivating Community Through Cultivating Data
 
 by [bsugar](../profile/bsugar) March 25, 2019 00:28
 
 March 25, 2019 00:28 | Tags: [community-metrics](../tag/community-metrics), [data](../tag/data), [evaluation](../tag/evaluation), [networks](../tag/networks), [community-analysis](../tag/community-analysis)
+
+----
 
 **Code:**
 

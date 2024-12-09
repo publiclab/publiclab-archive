@@ -14,6 +14,8 @@ by [warren](../profile/warren)
 
 April 02, 2011 12:53 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [nrg](../tag/nrg), [activity](../tag/activity)
 
+----
+
 [![An NRG image](http://farm6.static.flickr.com/5302/5581533793_35670ab2c1.jpg)](https://publiclab.org/sites/default/files/nrg.jpg)
 
 This activity shows how to produce an infrared composite image such as NRG, where the Red and Green channels of a picture are displayed in green and blue, respectively, and the color red is used to display a new channel -- near-infrared. To learn more about the technique and why it works, read about the [near-infrared camera](/tool/near-infrared-camera) -- and make your own. If you need help, you can always ask the [mailing list](https://groups.google.com/group/publiclaboratory).

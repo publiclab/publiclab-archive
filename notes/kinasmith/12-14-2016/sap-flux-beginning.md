@@ -8,11 +8,15 @@ uid: 445906
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/019/046/original/IMG_20161207_113739.jpg)
+
 # Sap Flux Beginning
 
 by [kinasmith](../profile/kinasmith) December 14, 2016 02:02
 
 December 14, 2016 02:02 | Tags: [alaska](../tag/alaska), [tree](../tag/tree), [sensor-networks](../tag/sensor-networks), [sensor](../tag/sensor), [sapflux](../tag/sapflux), [circuits](../tag/circuits)
+
+----
 
 ###Background
 

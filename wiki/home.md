@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/034/817/original/image.png)
+
 # The Public Laboratory
 
 by [warren](../profile/warren)
 
 December 01, 2010 17:53 | Tags: [attachments](../tag/attachments), [content](../tag/content), [slider](../tag/slider)
+
+----
 
 <style>
 h1, .breadcrumb, .tabs, #attachments, #content .links.inline { display:none; }

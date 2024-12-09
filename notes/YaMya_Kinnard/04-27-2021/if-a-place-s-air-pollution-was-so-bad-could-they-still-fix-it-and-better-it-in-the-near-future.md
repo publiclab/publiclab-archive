@@ -14,4 +14,6 @@ by [YaMya_Kinnard](../profile/YaMya_Kinnard) April 27, 2021 18:36
 
 April 27, 2021 18:36 | Tags: [question:general](../tag/question:general), [general](../tag/general), [first-time-poster](../tag/first-time-poster)
 
+----
+
 Like lets say a place has really really really poor air quality. Would there still be hope to one day making the place have good air quailty once again?

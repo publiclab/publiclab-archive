@@ -14,6 +14,8 @@ by [sagarpreet](../profile/sagarpreet) January 30, 2019 10:17
 
 January 30, 2019 10:17 | Tags: [testing](../tag/testing), [developers](../tag/developers)
 
+----
+
 A brief guide to embedding maps on \[PublicLab.org\](http://PublicLab.org) pages.  
   
 Inline maps are a form of \`inline power tags\` which you can read more about on \[the power tags page\](/wiki/power-tags). These will display any content tagged with \`lat:\_\_\_\_\` and \`lon:\_\_\_\_\` tags showing location, near the provided coordinates.  

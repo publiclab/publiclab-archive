@@ -8,11 +8,15 @@ uid: 508616
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/020/685/original/device.jpeg)
+
 # Citywide Street Quality Identification
 
 by [vr00n](../profile/vr00n) June 07, 2017 23:40
 
 June 07, 2017 23:40 | Tags: [street-quality](../tag/street-quality), [potholes](../tag/potholes), [bike-lanes](../tag/bike-lanes)
+
+----
 
 Please follow through on.  
 

@@ -8,11 +8,15 @@ uid: 53164
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/015/411/original/Quartz_Crystal_Microbalance-openQCM-seeall.jpg)
+
 # Idea for measurement of airborne pollutants (or other stuff)
 
 by [gbathree](../profile/gbathree) April 08, 2016 03:47
 
 April 08, 2016 03:47 | Tags: [air](../tag/air), [pollution](../tag/pollution), [openqcm](../tag/openqcm), [quarts](../tag/quarts), [crystal](../tag/crystal), [microbalance](../tag/microbalance)
+
+----
 
 This came out of the [GOSH 2016 conference](http://openplant.org/oshwforscience/) after meeting Marco Mauro's [amazing little quartz crystal microbalance](http://openqcm.com/).  Ok, so here it is:
 

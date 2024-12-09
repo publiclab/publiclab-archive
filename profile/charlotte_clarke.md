@@ -3,6 +3,8 @@ uid: 510781
 created_at: 2017-07-12 00:00:51 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/510781/medium/23467021_10212576964431414_2255224695791618642_o.jpg)
+
 # charlotte_clarke
 
 Charlotte Clarke just joined the Public Lab team as a part of the Oil & Gas Water Fellowship Trio, specifically focusing on researching oil & gas water monitoring methods.

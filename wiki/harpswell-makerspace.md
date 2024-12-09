@@ -14,6 +14,8 @@ by [ajawitz](../profile/ajawitz)
 
 October 03, 2013 16:46 | Tags: [makerspaces](../tag/makerspaces)
 
+----
+
 ##Harpswell Coastal Academy MakerSpace
 
 _It turns out that the best way to 'do it yourself' is to NOT do it your self. That is to find other people nearby who can help out in new ways"_

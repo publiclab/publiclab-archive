@@ -8,11 +8,15 @@ uid: 524871
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/023/529/original/IMG_1007.JPG)
+
 # Aerial Photogrammetry Test at Amboy Crater, CA
 
 by [DevanHarlan](../profile/DevanHarlan) February 11, 2018 01:52
 
 February 11, 2018 01:52 | Tags: [balloon-mapping](../tag/balloon-mapping), [aerial-photography](../tag/aerial-photography), [photogrammetry](../tag/photogrammetry), [california](../tag/california), [photo-rig](../tag/photo-rig), [aerial-mapping](../tag/aerial-mapping), [barnstar:basic](../tag/barnstar:basic), [amboy](../tag/amboy), [crater](../tag/crater), [place:amboy-crater-trail-california-united-states](../tag/place:amboy-crater-trail-california-united-states), [lat:34.556335](../tag/lat:34.556335), [lon:-115.78165](../tag/lon:-115.78165)
+
+----
 
 **Description:**
 

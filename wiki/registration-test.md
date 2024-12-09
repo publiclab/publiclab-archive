@@ -14,6 +14,8 @@ by [warren](../profile/warren), [btbonval](../profile/btbonval)
 
 January 08, 2014 20:12 | Tags: [spam](../tag/spam)
 
+----
+
 ###Having trouble registering?
 
 We have had problems with scripts, programs, and robots signing up onto the PublicLab.org website. To prevent scripts from signing up, we have added a test to the signup page, which looks like this:

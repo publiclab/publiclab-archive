@@ -14,6 +14,8 @@ by [justinmanley](../profile/justinmanley) March 18, 2014 10:12
 
 March 18, 2014 10:12 | Tags: [mapknitter](../tag/mapknitter), [gsoc](../tag/gsoc), [annotation](../tag/annotation), [gsoc-2014](../tag/gsoc-2014), [map-annotations](../tag/map-annotations), [first-time-poster](../tag/first-time-poster)
 
+----
+
 ##MapKnitter Annotations (GSOC 2014 Proposal)##
 
 **Name:** Justin Manley

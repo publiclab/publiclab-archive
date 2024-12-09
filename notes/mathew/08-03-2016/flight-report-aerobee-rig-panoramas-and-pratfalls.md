@@ -8,11 +8,15 @@ uid: 4
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/017/316/original/P_20160729_135108_crop.jpg)
+
 # Flight report: Aerobee Rig panoramas and pratfalls
 
 by [mathew](../profile/mathew) August 03, 2016 01:34
 
 August 03, 2016 01:34 | Tags: [kite-mapping](../tag/kite-mapping), [kite](../tag/kite), [kap](../tag/kap), [photo-rig](../tag/photo-rig), [10](../tag/10), [kaptery](../tag/kaptery), [aerobee](../tag/aerobee), [jerkpan](../tag/jerkpan), [sauteaufirstnation](../tag/sauteaufirstnation), [crash](../tag/crash), [off-wind-flying](../tag/off-wind-flying), [flight-report](../tag/flight-report)
+
+----
 
 Last week I got a chance to test out an old favorite of mine-- flying off wind with asymmetrical tails, and added a recent acquisition-- the[ KAPtery Aerobee Rig](https://publiclab.org/notes/cfastie/07-05-2016/the-aerobee-rig).
 

@@ -14,6 +14,8 @@ by [warren](../profile/warren)
 
 December 13, 2011 21:51 | Tags: [spectrometer](../tag/spectrometer), [troubleshooting](../tag/troubleshooting)
 
+----
+
 ###I can't remove the cap or turn the lens!###
 
 I'm sorry the instructions reference various cameras, but if you have this one: 

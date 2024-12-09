@@ -8,11 +8,15 @@ uid: 421168
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/003/181/original/Neyyar.png)
+
 # [GSOC PROPOSAL DRAFT] MapKnitter Enhancements.
 
 by [xvidun](../profile/xvidun) March 07, 2014 20:54
 
 March 07, 2014 20:54 | Tags: [mapknitter](../tag/mapknitter), [gps](../tag/gps), [gsoc](../tag/gsoc), [gsoc-2014](../tag/gsoc-2014), [coding](../tag/coding), [first-time-poster](../tag/first-time-poster)
+
+----
 
 Name: Vidhun K.
 

@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/004/209/original/Ecology-Lectures_2014.png)
+
 # Event--Civic Science and the Gowanus 
 
 by [liz](../profile/liz) May 09, 2014 20:36
 
 May 09, 2014 20:36 | Tags: [new-york-city](../tag/new-york-city), [gowanus](../tag/gowanus), [event](../tag/event)
+
+----
 
 Join the Gowanus Canal Conservancy and The NYC Urban Field Station’s Science of the Living City Seminar series for a panel discussion on urban
 civic science. Scientists and environmentalists discuss their perspectives on engaging volunteers in scientific investigations of the urban-industrial environment. Panelists will talk about their projects in the Gowanus Canal and watershed, such as aerial mapping, urban forestry surveying, canal sediment

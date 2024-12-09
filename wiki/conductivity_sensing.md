@@ -8,11 +8,15 @@ uid: 43651
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/018/139/original/conductivity_ac.png)
+
 # conductivity_sensing
 
 by [donblair](../profile/donblair)
 
 September 24, 2016 01:43 | Tags: [conductivity](../tag/conductivity), [riffle](../tag/riffle), [open-water](../tag/open-water), [parent:conductivity](../tag/parent:conductivity)
+
+----
 
 # DIY conductivity sensor designs
 

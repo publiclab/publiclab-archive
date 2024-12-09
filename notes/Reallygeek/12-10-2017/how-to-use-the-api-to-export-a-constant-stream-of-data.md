@@ -14,4 +14,6 @@ by [Reallygeek](../profile/Reallygeek) December 10, 2017 20:08
 
 December 10, 2017 20:08 | Tags: [arduino](../tag/arduino), [spectralworkbench](../tag/spectralworkbench), [spectral-workbench-api](../tag/spectral-workbench-api), [question:spectral-workbench](../tag/question:spectral-workbench)
 
+----
+
 I used the $W.data command in the chrome console, and I was able to get data at that time of the intensity of the wavelengths, I would like to be able to get constantly updating information, and export it to an arduino sketch, is there a command for that?

@@ -3,6 +3,8 @@ uid: 499882
 created_at: 2016-12-14 08:02:21 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/499882/medium/jfd-gs.jpg)
+
 # jfd
 
 Computer Scientist

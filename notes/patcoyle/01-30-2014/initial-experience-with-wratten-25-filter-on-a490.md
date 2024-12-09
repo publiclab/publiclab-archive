@@ -8,11 +8,15 @@ uid: 77
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/002/690/original/IMG_7940_NDVI_Color.jpg)
+
 # Initial experience with Wratten 25 filter on A490
 
 by [patcoyle](../profile/patcoyle) January 30, 2014 23:19
 
 January 30, 2014 23:19 | Tags: [ndvi](../tag/ndvi), [infrablue](../tag/infrablue), [wratten25a](../tag/wratten25a), [a-490](../tag/a-490)
+
+----
 
 ###What I want to do
 Change external filter on A490 from Rosco 2007 to Wratten 25. Try it for NDVI. 

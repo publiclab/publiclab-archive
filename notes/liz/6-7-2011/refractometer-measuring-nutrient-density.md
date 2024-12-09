@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/sites/default/files/kale.jpg)
+
 # Refractometer for measuring nutrient density in food
 
 by [liz](../profile/liz) June 07, 2011 15:52
 
 June 07, 2011 15:52 | Tags: [refractometer](../tag/refractometer), [food](../tag/food), [nutrient-density](../tag/nutrient-density), [first-time-poster](../tag/first-time-poster)
+
+----
 
 <img src="http://realfoodcampaign.org/sites/default/files/refractometer2_0.jpg" alt="Refractrometer from RealFoodCampaign" />
 

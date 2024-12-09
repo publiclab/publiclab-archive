@@ -14,6 +14,8 @@ by [justinmanley](../profile/justinmanley)
 
 August 22, 2014 22:48 | Tags: 
 
+----
+
 MapKnitter 2.0 will have a RESTful (or mostly RESTful) API.
 
 Documentation will be placed here.

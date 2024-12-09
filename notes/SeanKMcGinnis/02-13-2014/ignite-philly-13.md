@@ -8,11 +8,15 @@ uid: 552
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/002/920/original/ignite-logo.jpg)
+
 # Ignite Philly 13
 
 by [seankmcginnis](../profile/seankmcginnis) February 13, 2014 20:10
 
 February 13, 2014 20:10 | Tags: [philadelphia](../tag/philadelphia), [event](../tag/event)
+
+----
 
 ###Ignite Philly 13
 

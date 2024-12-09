@@ -8,11 +8,15 @@ uid: 217812
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/017/737/original/Screen_Shot_2016-08-22_at_6.15.44_PM.png)
+
 # Is there a simple and reliable way to test the rigidity of the spectrometer?
 
 by [bsugar](../profile/bsugar) August 22, 2016 22:12
 
 August 22, 2016 22:12 | Tags: [question:spectrometer](../tag/question:spectrometer), [question:spectrometry](../tag/question:spectrometry), [question:dssk](../tag/question:dssk)
+
+----
 
 ###What I want to do or know
 

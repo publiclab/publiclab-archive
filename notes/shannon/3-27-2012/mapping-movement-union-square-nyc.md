@@ -8,11 +8,15 @@ uid: 9
 
 ---
 
+![](https://publiclab.org/sites/default/files/IMG_3884.JPG)
+
 # Mapping movement in Union Square NYC
 
 by [Shannon](../profile/Shannon) March 27, 2012 13:10
 
 March 27, 2012 13:10 | Tags: [balloon-mapping](../tag/balloon-mapping), [ilab](../tag/ilab)
+
+----
 
 More images from the event can be found here (as well as images from the Water Quality Hackathon that Public Lab co-sponsored with Pachube and Ushahidi: https://www.flickr.com/photos/recordandremember/sets/72157629295267674/)
 

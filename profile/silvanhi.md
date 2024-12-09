@@ -3,6 +3,8 @@ uid: 427351
 created_at: 2014-08-22 11:31:48 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/3e5fd3a8bf946e0405018a33f233746a)
+
 # silvanhi
 
 - 10 years RC-Model Flying

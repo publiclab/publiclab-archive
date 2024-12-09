@@ -8,11 +8,15 @@ uid: 420719
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/002/855/original/CRW_0042_NDVI_Float.jpg)
+
 # NVDI with canon a2500
 
 by [gpenzo](../profile/gpenzo) February 09, 2014 21:45
 
 February 09, 2014 21:45 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [nrg](../tag/nrg), [ndvi](../tag/ndvi), [infrared](../tag/infrared), [infragram](../tag/infragram), [infrablue](../tag/infrablue), [first-time-poster](../tag/first-time-poster)
+
+----
 
 ###What I want to do
 My goal is to make nvdi images of farmland. Hopefully the quality will be good enough to help farmers locate plant stress in the field. I think the best quality NDVI images will be made with two cameras.

@@ -14,6 +14,8 @@ by [REVOLG](../profile/REVOLG) February 14, 2020 15:26
 
 February 14, 2020 15:26 | Tags: [arduino](../tag/arduino), [raspberry-pi](../tag/raspberry-pi), [wind](../tag/wind), [question:general](../tag/question:general), [general](../tag/general), [wind-speed](../tag/wind-speed), [question:electronics](../tag/question:electronics), [electronics](../tag/electronics), [first-time-poster](../tag/first-time-poster), [with:amallozzi](../tag/with:amallozzi), [rvg-car](../tag/rvg-car), [question:rvg-car](../tag/question:rvg-car), [alternative-energy](../tag/alternative-energy), [wind-power](../tag/wind-power), [question:wind-power](../tag/question:wind-power)
 
+----
+
 Hey guys. 
 
 I have been trying to complete this design for the past 3 years. It is like my baby. If you have any knowledge or ideas of how big the blade needs to be. Or how many fans need to be used? Let me Know.

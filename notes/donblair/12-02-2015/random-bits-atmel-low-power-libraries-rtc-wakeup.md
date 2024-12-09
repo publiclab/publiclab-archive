@@ -8,11 +8,15 @@ uid: 43651
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/013/158/original/microAmpere.png)
+
 # Random Bits: Atmel Low Power Libraries & RTC wakeup
 
 by [donblair](../profile/donblair) December 02, 2015 19:14
 
 December 02, 2015 19:14 | Tags: [riffle](../tag/riffle), [low-power](../tag/low-power)
+
+----
 
 Quick notes from the last several days -- sorry it'll be a bit of a ramble -- just trying to capture some ideas here quickly. 
 

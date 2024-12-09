@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/001/894/original/OaktoberVIS-258-22.jpg)
+
 # Oaktober
 
 by [cfastie](../profile/cfastie) October 11, 2013 16:07
 
 October 11, 2013 16:07 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [vermont](../tag/vermont), [infragram](../tag/infragram), [photosynthesis](../tag/photosynthesis), [infrablue](../tag/infrablue), [pigments](../tag/pigments), [response:9432](../tag/response:9432), [red-filter](../tag/red-filter), [activity:multispectral-imaging](../tag/activity:multispectral-imaging)
+
+----
 
 With a new inkling of the [effects plant pigments have on NDVI](http://publiclab.org/notes/cfastie/10-10-2013/lycopene) results, I was wondering how this might influence the interpretation of aerial imagery. This month Vermont is lousy with leaf peepers because trees are loosing their chlorophylls and displaying their reddish carotenoid and yellow xanthophyll pigments. I took some photos of leaves from three tree species in various stages of loosing their green chlorophyll. I used the [same setup as previously](http://publiclab.org/notes/cfastie/10-10-2013/lycopene) to compare single camera Infragram NDVI with dual camera NDVI which can use either the blue or red band to represent visible light.  
 

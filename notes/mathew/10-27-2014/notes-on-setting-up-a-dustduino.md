@@ -8,11 +8,15 @@ uid: 4
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/007/643/original/IMG_20141026_170648.jpg)
+
 # notes on setting up a Dustduino
 
 by [mathew](../profile/mathew) October 27, 2014 04:14
 
 October 27, 2014 04:14 | Tags: [arduino](../tag/arduino), [air-quality](../tag/air-quality), [dustduino](../tag/dustduino), [dust](../tag/dust), [silica](../tag/silica), [particle-monitoring](../tag/particle-monitoring), [shinyei](../tag/shinyei), [replication:9818](../tag/replication:9818), [air-sensors](../tag/air-sensors)
+
+----
 
 ###What I want to do
 setup a [Dustduino](http://publiclab.org/wiki/dustduino) per Matthew @Schoyer's [instructions](/notes/Schroyer/11-23-2013/measure-coarse-and-fine-air-particulates-with-a-dustduino)

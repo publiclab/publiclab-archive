@@ -14,6 +14,8 @@ by [Shannon](../profile/Shannon) January 30, 2012 04:13
 
 January 30, 2012 04:13 | Tags: 
 
+----
+
 Recommendations from Alex Kolker (Louisiana Universities Marine Consortium):
 
 - Need to do a lit. review to identify if there are other substances that react with silver halide and could provide a false/positive

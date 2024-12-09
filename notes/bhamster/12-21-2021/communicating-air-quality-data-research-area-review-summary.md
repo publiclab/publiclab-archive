@@ -8,11 +8,15 @@ uid: 664477
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/045/275/original/leadimage.png)
+
 # Communicating Air Quality Data: Research Area Review Summary
 
 by [bhamster](../profile/bhamster) December 21, 2021 17:11
 
 December 21, 2021 17:11 | Tags: [research](../tag/research), [air-quality](../tag/air-quality), [reviews](../tag/reviews), [environmental-data](../tag/environmental-data), [data-visualization](../tag/data-visualization), [research-area-review](../tag/research-area-review), [presenting-data](../tag/presenting-data), [with:fongvania](../tag/with:fongvania), [pin:air-quality](../tag/pin:air-quality), [air-quality-data](../tag/air-quality-data)
+
+----
 
 Our [deep dive into air quality data](https://publiclab.org/notes/bhamster/10-18-2021/delving-into-air-quality-data-for-our-next-research-area-review) is coming to a close.
 

@@ -8,11 +8,15 @@ uid: 503599
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/023/721/original/omniauth.png)
+
 # GSoc Proposal: OAuth & Upgrade to Bootstrap 4
 
 by [bansal_sidharth2996](../profile/bansal_sidharth2996) February 20, 2018 00:23
 
 February 20, 2018 00:23 | Tags: [gsoc](../tag/gsoc), [user](../tag/user), [soc](../tag/soc), [gsoc-2018](../tag/gsoc-2018), [soc-2018-proposals](../tag/soc-2018-proposals), [config](../tag/config), [gsoc-2018-final](../tag/gsoc-2018-final)
+
+----
 
 **Name:** Sidharth Bansal
 

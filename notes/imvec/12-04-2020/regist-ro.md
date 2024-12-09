@@ -8,11 +8,15 @@ uid: 495038
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/041/884/original/portada.png)
+
 # Regist.ro
 
 by [imvec](../profile/imvec) December 04, 2020 20:27
 
 December 04, 2020 20:27 | Tags: [lang:es](../tag/lang:es), [odor](../tag/odor), [ballon-mapping](../tag/ballon-mapping), [spanish](../tag/spanish), [herramientas](../tag/herramientas)
+
+----
 
 ## [https://regist.ro](https://regist.ro)
 

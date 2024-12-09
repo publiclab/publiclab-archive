@@ -8,11 +8,15 @@ uid: 489504
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/020/167/original/7513051848_9a6ef2feb8_o.jpeg)
+
 # Raspberry Pi problems
 
 by [bkleist](../profile/bkleist) April 19, 2017 19:11
 
 April 19, 2017 19:11 | Tags: [troubleshooting](../tag/troubleshooting), [raspberry-pi](../tag/raspberry-pi), [air-quality](../tag/air-quality), [frac-sand](../tag/frac-sand), [uwec](../tag/uwec), [science-is-frustrating-sometimes](../tag/science-is-frustrating-sometimes), [question:raspberry-pi](../tag/question:raspberry-pi)
+
+----
 
 The University of Wisconsin Eau Claire, Environmental Public Health research team has been monitoring air quality in small Wisconsin towns for years. Most monitoring locations are in close proximity to industrial sand facilities, which are known sources of airborne particulates. Chronic exposure to these particulates can lead to adverse health effects, including lung cancer. 
 

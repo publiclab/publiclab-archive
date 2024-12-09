@@ -8,11 +8,15 @@ uid: 1083
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/012/589/original/IMG_4168_propped-up_%28600x800%29.jpg)
+
 # Oil testing kit Beta programme - Technical adjustments (hack!)
 
 by [cindy_excites](../profile/cindy_excites) November 04, 2015 22:40
 
 November 04, 2015 22:40 | Tags: [spectrometer](../tag/spectrometer), [fluorescence](../tag/fluorescence), [oil-testing-kit](../tag/oil-testing-kit), [oil-testing-kit-beta](../tag/oil-testing-kit-beta), [response:12348](../tag/response:12348)
+
+----
 
 [Oil testing kit Beta programme](http://publiclab.org/notes/ygzstc/07-14-2015/oil-testing-kit-beta-program) - Technical adjustments to Public Lab Spectrometer 3.0
 

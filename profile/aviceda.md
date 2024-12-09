@@ -3,6 +3,8 @@ uid: 420276
 created_at: 2014-01-14 08:48:51 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/82f8ef399fc9a93fe6dc1034b507118a)
+
 # aviceda
 
 

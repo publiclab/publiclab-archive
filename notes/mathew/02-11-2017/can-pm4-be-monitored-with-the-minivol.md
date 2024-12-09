@@ -8,11 +8,15 @@ uid: 4
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/019/528/original/Citrine-sample2.jpg)
+
 # Can PM4 be monitored with the MiniVol?
 
 by [mathew](../profile/mathew) February 11, 2017 01:22
 
 February 11, 2017 01:22 | Tags: [wisconsin](../tag/wisconsin), [dust](../tag/dust), [silica](../tag/silica), [frac-sand](../tag/frac-sand), [pm](../tag/pm), [particle-sensing](../tag/particle-sensing), [pm-monitoring](../tag/pm-monitoring), [minivol](../tag/minivol), [question:minivol](../tag/question:minivol), [question:silica](../tag/question:silica), [question:pm-monitoring](../tag/question:pm-monitoring), [question:dust](../tag/question:dust), [question:dust-sampling](../tag/question:dust-sampling)
+
+----
 
 _Image Source: ["Citrine" by Jarno from Rotterdam, Netherlands, on Wikimedia](https://en.wikipedia.org/wiki/Quartz#/media/File:Citrine-sample2.jpg) CC: BY_
 

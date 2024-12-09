@@ -14,6 +14,8 @@ by [warren](../profile/warren)
 
 April 21, 2012 14:49 | Tags: [grassrootsmappingwiki](../tag/grassrootsmappingwiki)
 
+----
+
 <div markdown='1' style='width:470px;float:right;padding-left:15px;'>![photosextant](http://farm3.static.flickr.com/2488/4169302344_639f35876a_o.png)
 </div>
 

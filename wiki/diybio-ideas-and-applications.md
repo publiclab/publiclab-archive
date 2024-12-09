@@ -14,6 +14,8 @@ by [briandegger](../profile/briandegger), [donblair](../profile/donblair)
 
 May 10, 2013 15:23 | Tags: [spectrometer](../tag/spectrometer), [diybio](../tag/diybio), [igem](../tag/igem)
 
+----
+
 A page for collecting resources and ideas related to do-it-your-self, civic / citizen / grassroots science approaches to biology research.
 
 ## General Imaging

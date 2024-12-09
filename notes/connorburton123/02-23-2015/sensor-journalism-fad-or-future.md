@@ -8,11 +8,15 @@ uid: 435383
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/009/051/original/Screen_Shot_2015-02-22_at_7.00.17_PM.png)
+
 # Sensor Journalism: Fad or Future? 
 
 by [connorburton123](../profile/connorburton123) February 23, 2015 00:02
 
 February 23, 2015 00:02 | Tags: [sensor-journalism](../tag/sensor-journalism)
+
+----
 
 Before I reflect on our experience with sensors and the future of sensor journalism as a viable, new medium, I want to share my previous experience with sensors as a journalist. Over the last two summers, I worked for ABC News in Los Angeles as a production assistant, desk assistant and producer for their various shows and website. 
 

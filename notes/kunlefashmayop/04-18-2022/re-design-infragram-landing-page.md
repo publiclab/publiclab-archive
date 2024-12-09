@@ -8,11 +8,15 @@ uid: 794018
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/046/070/original/infragram2.png)
+
 # Re-design Infragram landing page
 
 by [kunlefashmayop](../profile/kunlefashmayop) April 18, 2022 15:35
 
 April 18, 2022 15:35 | Tags: [infragram](../tag/infragram), [multispectral-imaging](../tag/multispectral-imaging), [ui](../tag/ui), [frontend](../tag/frontend), [first-time-poster](../tag/first-time-poster), [zoom:6](../tag/zoom:6), [lat:6.533645](../tag/lat:6.533645), [landingpage](../tag/landingpage), [lon:3.361816](../tag/lon:3.361816)
+
+----
 
 ## I am Fasakin Adekunle, a frontend developer
 

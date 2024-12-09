@@ -8,11 +8,15 @@ uid: 424597
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/036/218/original/cell_phone_turbidity.jpg)
+
 # Oil and Gas Hardware Fellow Status Update: Week 6!
 
 by [wmacfarl](../profile/wmacfarl) November 05, 2019 01:41
 
 November 05, 2019 01:41 | Tags: [water-quality](../tag/water-quality), [turbidity](../tag/turbidity), [oil-and-gas](../tag/oil-and-gas), [oil-and-gas-water-trio](../tag/oil-and-gas-water-trio)
+
+----
 
 My work during this last week was focused on two different big things. The first was prepping and doing outreach for our upcoming [Open Hour on November 12th](https://publiclab.org/openhour "https://publiclab.org/openhour"). We are all doing planning and outreach to bring a group of people together to discuss issues around oil, gas, and water monitoring. It looks like we will have a lot of really amazing and knowledgeable people with a lot of different backgrounds and experiences and I'm really looking forward to the conversations.
 

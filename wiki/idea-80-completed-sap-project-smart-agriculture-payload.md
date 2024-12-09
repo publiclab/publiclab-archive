@@ -14,6 +14,8 @@ by [Mohamed](../profile/Mohamed)
 
 May 13, 2015 23:20 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [farming](../tag/farming), [agriculture](../tag/agriculture), [organic-agriculture](../tag/organic-agriculture), [near-infrared](../tag/near-infrared), [near-ir](../tag/near-ir), [robot](../tag/robot), [nutrient-density](../tag/nutrient-density), [smart](../tag/smart)
 
+----
+
 Developing UAVs for combined millet / Acacia , Airborne Automated Cultivation.
 ![Desertification][1]
 

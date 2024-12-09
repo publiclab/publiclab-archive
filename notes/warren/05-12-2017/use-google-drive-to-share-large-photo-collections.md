@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/020/438/original/Screen_Shot_2017-05-12_at_4.14.03_PM.png)
+
 # Use Google Drive to share large photo collections
 
 by [warren](../profile/warren) May 12, 2017 20:15
 
 May 12, 2017 20:15 | Tags: [balloon-mapping](../tag/balloon-mapping), [photo-monitoring](../tag/photo-monitoring), [timelapse](../tag/timelapse), [file-sharing](../tag/file-sharing), [activity:photo-sharing](../tag/activity:photo-sharing), [photo-sharing](../tag/photo-sharing), [activity:google-docs](../tag/activity:google-docs), [google-docs](../tag/google-docs), [post-flight](../tag/post-flight)
+
+----
 
 In #balloon-mapping, #timelapse, #photo-monitoring and other methods documented on this site, you often end up with thousands of photos -- this activity shows how to upload and share them using Google Drive.
 

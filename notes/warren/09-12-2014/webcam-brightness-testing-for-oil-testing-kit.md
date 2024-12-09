@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/006/789/original/IMG_20140911_205427.jpg)
+
 # Webcam brightness testing for Oil Testing Kit
 
 by [warren](../profile/warren) September 12, 2014 15:44
 
 September 12, 2014 15:44 | Tags: [spectrometer](../tag/spectrometer), [uv](../tag/uv), [fluorescence](../tag/fluorescence), [fold-up](../tag/fold-up), [foldable](../tag/foldable), [response:11132](../tag/response:11132)
+
+----
 
 ###What I want to do
 

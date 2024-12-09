@@ -8,11 +8,15 @@ uid: 653396
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/040/738/original/Screenshot_from_2020-08-30_00-03-38.png)
+
 # GSoC 2020 Report: Spam Management Dashboard 
 
 by [keshav_sethi0004](../profile/keshav_sethi0004) August 29, 2020 21:56
 
 August 29, 2020 21:56 | Tags: [gsoc](../tag/gsoc), [spam](../tag/spam), [report](../tag/report), [keshav](../tag/keshav), [gsoc-2020-report](../tag/gsoc-2020-report), [soc-2020-final](../tag/soc-2020-final)
+
+----
 
 Name: Keshav Sethi
 

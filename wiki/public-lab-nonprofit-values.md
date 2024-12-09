@@ -14,6 +14,8 @@ by [Shannon](../profile/Shannon)
 
 April 05, 2017 20:32 | Tags: [nonprofit](../tag/nonprofit), [values-statement](../tag/values-statement)
 
+----
+
 **VALUES**
 
 **JUSTICE:** We support the health and wellbeing of communities and their environs, especially those disproportionately impacted by social and environmental harm. Local knowledge and leadership are central to the movement from unjust to just.

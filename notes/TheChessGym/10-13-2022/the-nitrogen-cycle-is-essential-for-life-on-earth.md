@@ -8,11 +8,15 @@ uid: 788868
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/047/231/original/nitrogen-cycle.jpg)
+
 # The Nitrogen Cycle Is Essential For Life On Earth
 
 by [TheChessGym](../profile/TheChessGym) October 13, 2022 13:12
 
 October 13, 2022 13:12 | Tags: [lat:22](../tag/lat:22), [first-time-poster](../tag/first-time-poster), [lon:76](../tag/lon:76), [zoom:6](../tag/zoom:6)
+
+----
 
 The Nitrogen Cycle Is Essential For Life On Earth
 

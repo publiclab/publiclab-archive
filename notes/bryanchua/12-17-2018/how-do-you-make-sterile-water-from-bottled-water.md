@@ -8,11 +8,15 @@ uid: 561828
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/028/418/original/sterile.png)
+
 # How do you make sterile water from bottled water?
 
 by [bryanchua](../profile/bryanchua) December 17, 2018 23:49
 
 December 17, 2018 23:49 | Tags: [diy-bio](../tag/diy-bio), [water-quality](../tag/water-quality), [first-time-poster](../tag/first-time-poster)
+
+----
 
 Hi everyone,
 

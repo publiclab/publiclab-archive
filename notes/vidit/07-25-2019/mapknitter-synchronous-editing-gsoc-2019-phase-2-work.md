@@ -8,11 +8,15 @@ uid: 517093
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/034/125/original/gsoc-phase-2-image.png)
+
 # Mapknitter synchronous editing - GSOC 2019, phase 2 work
 
 by [vidit](../profile/vidit) July 25, 2019 18:05
 
 July 25, 2019 18:05 | Tags: [mapknitter](../tag/mapknitter), [gsoc](../tag/gsoc), [soc-2019](../tag/soc-2019), [gsoc-19](../tag/gsoc-19), [soc-2019-eval](../tag/soc-2019-eval), [soc-2019-blog](../tag/soc-2019-blog), [synchronous-editing](../tag/synchronous-editing), [action-cable](../tag/action-cable)
+
+----
 
 **Phase two** of Google Summer of Code 2019 was a great learning experience for me. The phase involved some great ideas, brainstorming and coding. For the first few days, it was just the brainstorming which I think was the most important part since the idea was relatively raw and required to be given some thought. We first started with deciding about how should we handle all the synchronous requests while editing images on a map. We ultimately decided Action Cable as a medium for carrying out all the synchronisation and real-time work.  
 

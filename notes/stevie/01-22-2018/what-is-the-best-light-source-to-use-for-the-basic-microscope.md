@@ -8,11 +8,15 @@ uid: 422561
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/023/933/original/OI000142.jpg)
+
 # What is the best light source to use for the basic microscope?  
 
 by [stevie](../profile/stevie) January 22, 2018 20:58
 
 January 22, 2018 20:58 | Tags: [microscope](../tag/microscope), [question:basic-microscope](../tag/question:basic-microscope), [basic-microscope](../tag/basic-microscope), [question:community-microscope](../tag/question:community-microscope)
+
+----
 
 We're starting to get a parts list together for this project. I think people have tried out different lights for it, which one works the best and where can we source them?
 

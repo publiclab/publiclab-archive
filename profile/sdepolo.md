@@ -3,6 +3,8 @@ uid: 508246
 created_at: 2017-05-30 16:02:58 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/73681c2b0d608ce0a7eef09e3e0430ed)
+
 # sdepolo
 
 

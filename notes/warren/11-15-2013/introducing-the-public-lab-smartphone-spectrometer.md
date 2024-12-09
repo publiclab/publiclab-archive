@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/002/238/original/IMG_0372.JPG)
+
 # Introducing the Public Lab Smartphone Spectrometer
 
 by [warren](../profile/warren) November 15, 2013 20:49
 
 November 15, 2013 20:49 | Tags: [spectrometer](../tag/spectrometer), [kickstarter](../tag/kickstarter), [smartphone-spectrometer](../tag/smartphone-spectrometer)
+
+----
 
 At long last, we've started shipping the Smartphone Spectrometer, formerly called the "Backpack Spectrometer" -- and you can order a kit today (shipping begins by the end of the month):
 

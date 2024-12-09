@@ -8,11 +8,15 @@ uid: 421351
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/003/344/original/IMG_20130912_190456.jpg)
+
 # [GSoC 2014 Proposal - DRAFT] Sky Cam Enhancements
 
 by [mj7007](../profile/mj7007) March 20, 2014 07:06
 
 March 20, 2014 07:06 | Tags: [gsoc](../tag/gsoc), [skycam](../tag/skycam), [gsoc-2014](../tag/gsoc-2014), [coding](../tag/coding)
+
+----
 
 Name: Jayaruwan Mannapperuma
 

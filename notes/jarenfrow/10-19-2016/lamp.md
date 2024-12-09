@@ -8,11 +8,15 @@ uid: 494927
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/018/473/original/image.jpeg)
+
 # Lamp
 
 by [jarenfrow](../profile/jarenfrow) October 19, 2016 17:27
 
 October 19, 2016 17:27 | Tags: [hidden:response](../tag/hidden:response), [response:13586](../tag/response:13586)
+
+----
 
 ###What I want to do
 

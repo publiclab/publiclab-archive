@@ -8,11 +8,15 @@ uid: 579821
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/036/642/original/Image_from_iOS.jpg)
+
 # DFRobot Turbidity Sensor Troubleshooting
 
 by [mimiss](../profile/mimiss) November 20, 2019 15:35
 
 November 20, 2019 15:35 | Tags: [arduino](../tag/arduino), [water-sensing](../tag/water-sensing), [water-quality](../tag/water-quality), [water-monitoring](../tag/water-monitoring), [turbidity](../tag/turbidity), [question:water-quality](../tag/question:water-quality), [question:arduino](../tag/question:arduino), [question:water-sensors](../tag/question:water-sensors), [water-sensors](../tag/water-sensors), [question:turbidity](../tag/question:turbidity), [water-sensor](../tag/water-sensor)
+
+----
 
 I attended a Use Your Sensors event yesterday hosted by @charlotte_clarke and @rollinrenola where we used the DF Robot Turbidity sensors built like this prototype by @wmacfarl (https://publiclab.org/notes/wmacfarl/11-11-2019/building-the-simple-turbidity-sensor-prototype).
 

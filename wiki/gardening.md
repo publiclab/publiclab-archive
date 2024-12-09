@@ -14,6 +14,8 @@ by [liz](../profile/liz), [gonzoearth](../profile/gonzoearth), [sara](../profile
 
 December 19, 2011 19:50 | Tags: 
 
+----
+
 If you're interested in our ongoing effort to provide good documentation on our collaborative works, we'll be doing a website 'gardening' session on **Thursday December 22**, and coordinating in real-time in this public chatroom:
 
 https://publiclaboratory.campfirenow.com/1db72

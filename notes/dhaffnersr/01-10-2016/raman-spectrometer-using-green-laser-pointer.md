@@ -8,11 +8,15 @@ uid: 461120
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/013/599/original/good.jpg)
+
 # Raman spectrometer using green laser pointer
 
 by [dhaffnersr](../profile/dhaffnersr) January 10, 2016 20:08
 
 January 10, 2016 20:08 | Tags: [spectrometer](../tag/spectrometer), [raman](../tag/raman), [first-time-poster](../tag/first-time-poster)
+
+----
 
 I want to build a simple but effective Raman spectrometer for analyzing inorganic particulates in public water ways, drinking water, rivers and streams, ect., using a 535 nm green laser pointer.
 [![20160110_142627.jpg](//i.publiclab.org/system/images/photos/000/013/600/medium/20160110_142627.jpg)](//i.publiclab.org/system/images/photos/000/013/600/original/20160110_142627.jp

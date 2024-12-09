@@ -3,6 +3,8 @@ uid: 540844
 created_at: 2018-07-10 17:28:40 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/9ebdeafaaacf68a9407f99cb4027a83f)
+
 # joyofsoy
 
 Former communications manager for the Public Lab nonprofit

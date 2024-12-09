@@ -14,6 +14,8 @@ by [lcarmenia](../profile/lcarmenia) September 26, 2017 20:49
 
 September 26, 2017 20:49 | Tags: [mapknitter](../tag/mapknitter), [lat:35.3070929](../tag/lat:35.3070929), [lon:-80.735164](../tag/lon:-80.735164)
 
+----
+
 <iframe src="https://mapknitter.org/embed/lac_unccfall17--3" style="border:none" height="400px" width="100%"></iframe>  
   
   

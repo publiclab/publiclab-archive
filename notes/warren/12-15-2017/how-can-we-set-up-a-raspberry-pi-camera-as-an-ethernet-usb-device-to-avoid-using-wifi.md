@@ -14,6 +14,8 @@ by [warren](../profile/warren) December 15, 2017 16:59
 
 December 15, 2017 16:59 | Tags: [raspberry-pi](../tag/raspberry-pi), [pi-camera](../tag/pi-camera), [question:raspberry-pi](../tag/question:raspberry-pi), [microscopes](../tag/microscopes), [question:pi-camera](../tag/question:pi-camera), [raspberry-pi-infragram](../tag/raspberry-pi-infragram), [question:raspberry-pi-infragram](../tag/question:raspberry-pi-infragram), [raspberry-pi-spectrometer](../tag/raspberry-pi-spectrometer), [question:raspberry-pi-spectrometer](../tag/question:raspberry-pi-spectrometer), [basic-microscope](../tag/basic-microscope), [question:lego-spectrometer](../tag/question:lego-spectrometer), [lego-spectrometer](../tag/lego-spectrometer), [question:basic-microscope-challenge](../tag/question:basic-microscope-challenge), [basic-microscope-challenge](../tag/basic-microscope-challenge)
 
+----
+
 Configuring WiFi can be an extra step that's just one more possible point of failure when using a #raspberry-pi as a camera (see #pi-camera). This is covered in this activity:
 
 https://publiclab.org/notes/partsandcrafts/12-03-2017/setting-up-the-raspberry-pi-camera-for-wireless-streaming

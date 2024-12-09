@@ -14,6 +14,8 @@ by [warren](../profile/warren) September 06, 2017 22:10
 
 September 06, 2017 22:10 | Tags: [gulf-coast](../tag/gulf-coast), [gulf-restoration-network](../tag/gulf-restoration-network), [skytruth](../tag/skytruth), [hurricane](../tag/hurricane), [stormwater](../tag/stormwater), [mapmill](../tag/mapmill), [storm](../tag/storm), [opencall](../tag/opencall), [coordinating](../tag/coordinating), [disaster-response](../tag/disaster-response), [cartoscope](../tag/cartoscope), [harvey](../tag/harvey), [harvey-calls](../tag/harvey-calls), [response:14797](../tag/response:14797)
 
+----
+
 We again had an [Open Call](/wiki/open-call) yesterday on the topic of Harvey response and ~6+ people attended, with:
 
 - questions

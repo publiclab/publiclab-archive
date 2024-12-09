@@ -14,6 +14,8 @@ by [stevie](../profile/stevie) March 21, 2018 15:30
 
 March 21, 2018 15:30 | Tags: [question:website](../tag/question:website), [question:ui](../tag/question:ui), [question:website-structure](../tag/question:website-structure)
 
+----
+
 ### Please describe the problem (or idea)
 
  I have found myself and others accidentally (or unknowingly) posting questions that are the same or very similar to those posted by other people. Here are a couple things I'm thinking about on this: 

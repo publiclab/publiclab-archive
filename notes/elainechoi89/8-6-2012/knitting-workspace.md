@@ -8,11 +8,15 @@ uid: 6102
 
 ---
 
+![](https://publiclab.org/sites/default/files/PFIZER STUDY.jpg)
+
 # Knitting a Workspace
 
 by [elainechoi89](../profile/elainechoi89) August 06, 2012 20:56
 
 August 06, 2012 20:56 | Tags: [kite](../tag/kite), [spaces](../tag/spaces)
+
+----
 
 Facilitating a workshop. 
 Initially, all of us came to a an empty expansive outdated research facility loading dock, with a corner full of <em>stuff</em>. 

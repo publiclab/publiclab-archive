@@ -8,11 +8,15 @@ uid: 422561
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/014/600/original/20150613_115418.jpg)
+
 # tool development community outreach 
 
 by [danbeavers](../profile/danbeavers), [stevie](../profile/stevie)
 
 February 26, 2016 21:09 | Tags: [tool-focused](../tag/tool-focused), [tool-development](../tag/tool-development)
+
+----
 
 _***The word “Group” on this page used as an umbrella word for any community group, non-profit or other assembly of people (i.e. classes, clubs, workshops)._
 

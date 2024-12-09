@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/000/736/original/IMG_46821500.jpg)
+
 # Spruce tips
 
 by [cfastie](../profile/cfastie) July 10, 2013 21:51
 
 July 10, 2013 21:51 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [infrared](../tag/infrared), [alaska](../tag/alaska), [infragram](../tag/infragram), [plant-health](../tag/plant-health), [nbg](../tag/nbg), [infrablue](../tag/infrablue), [treeline](../tag/treeline), [akrange](../tag/akrange), [infrabluephoto](../tag/infrabluephoto), [activity:multispectral-imaging](../tag/activity:multispectral-imaging)
+
+----
 
 <em>Image above: Branches of white spruce (</em>Picea glauca<em>) in a treeline study plot south of the Alaska Range on June 30, 2013. The newly expanded branch tips have a bluish color compared to older needles.</em>
 

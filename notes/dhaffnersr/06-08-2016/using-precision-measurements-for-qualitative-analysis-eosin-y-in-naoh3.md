@@ -8,11 +8,15 @@ uid: 461120
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/016/531/original/eosiny_y_with_serological_pump_and_tip_upload_presentation_june_6.bmp)
+
 # Using Precision Measurements for Qualitative Analysis-Eosin Y in NaOH3
 
 by [dhaffnersr](../profile/dhaffnersr) June 08, 2016 11:59
 
 June 08, 2016 11:59 | Tags: 
+
+----
 
 **Abstract**
 This is a continuation on my series of using precision measurements for qualitative analysis from my previous research note. The picture was representative of Eosin Y at 5 different concentration levels ranging from 0.1 ml to 0.5 ml, using a Serological pipette pump and 1ml Serological pipette to dispense the precise amount of dilute concentration level.

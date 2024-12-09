@@ -8,11 +8,15 @@ uid: 468994
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/018/661/original/out.gif)
+
 # WebJack
 
 by [warren](../profile/warren), [rmeister](../profile/rmeister)
 
 October 27, 2016 19:11 | Tags: [arduino](../tag/arduino), [sensors](../tag/sensors), [tool](../tag/tool), [datalogger](../tag/datalogger), [arduino-uno](../tag/arduino-uno), [webjack](../tag/webjack), [headphone-jack](../tag/headphone-jack), [activities:webjack](../tag/activities:webjack), [upgrades:webjack](../tag/upgrades:webjack), [method](../tag/method), [electronic-sensors](../tag/electronic-sensors)
+
+----
 
 ## What Does It Do?
 
@@ -26,7 +30,7 @@ This is a list of community-generated guides for specific applications and the d
 
 ### Activity grid
 
-[activities:webjack]
+[webjack](../../tag/activity:webjack)
 
 ****
 
@@ -34,7 +38,7 @@ This is a list of community-generated guides for specific applications and the d
 
 <a class="btn btn-primary" href="/post?tags=question:webjack&template=question">Ask a question about WebJack</a>
 
-[notes:question:webjack]
+[question:webjack](../../tag/question:webjack)
 
 ****
 
@@ -59,7 +63,7 @@ Be sure to add:
 * constraints: expense, complexity
 * goals: performance, use cases
 
-[questions:webjack-challenge]
+[webjack-challenge](../../tag/question:webjack-challenge)
 
 ****
 

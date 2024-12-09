@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/009/522/original/waffleio.png)
+
 # Web Working Group Monthly Recap
 
 by [warren](../profile/warren) April 01, 2015 15:43
 
 April 01, 2015 15:43 | Tags: [mapknitter](../tag/mapknitter), [software](../tag/software), [plots2](../tag/plots2), [spectral-workbench](../tag/spectral-workbench), [web-wg](../tag/web-wg), [wwg](../tag/wwg), [webwg](../tag/webwg)
+
+----
 
 ###Overall goals for the coming month
 

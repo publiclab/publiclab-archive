@@ -8,11 +8,15 @@ uid: 422489
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/011/036/original/logo.png)
+
 # Public Lab - Summary in Turkish
 
 by [ygzstc](../profile/ygzstc)
 
 August 04, 2015 18:10 | Tags: [publiclab](../tag/publiclab), [summary](../tag/summary), [turkish](../tag/turkish)
+
+----
 
 ###Açık Teknoloji ve Bilim için Halk Laboratuvarı
 

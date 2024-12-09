@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/024/299/original/Screenshot_2018-04-01_at_10.08.35_PM.png)
+
 # What are some examples you've seen of unsuccessful welcoming practices?
 
 by [warren](../profile/warren) April 02, 2018 02:12
 
 April 02, 2018 02:12 | Tags: [answered](../tag/answered), [onboarding](../tag/onboarding), [software-outreach](../tag/software-outreach), [question:software-outreach](../tag/question:software-outreach), [welcoming](../tag/welcoming), [question:onboarding](../tag/question:onboarding), [question:welcoming](../tag/question:welcoming)
+
+----
 
 In the spirit of the examples listed at http://www.firsttimersonly.com/ (see lead image), I'm interested in what we can learn from examples of when welcoming newcomers has gone poorly. 
 

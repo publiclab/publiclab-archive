@@ -8,11 +8,15 @@ uid: 468698
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/017/768/original/rich_profile.png)
+
 # GSOC 2016: Final outcome of Rich Profile tags in user profiles
 
 by [Lalithr95](../profile/Lalithr95) August 26, 2016 12:00
 
 August 26, 2016 12:00 | Tags: [gsoc](../tag/gsoc), [developers](../tag/developers), [gsoc-2016](../tag/gsoc-2016), [gsoc2016](../tag/gsoc2016), [profiles](../tag/profiles), [response:13397](../tag/response:13397)
+
+----
 
 ## Project Details 
 **Project Title:** Rich Profile tags in PublicLab user profiles

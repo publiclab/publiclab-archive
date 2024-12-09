@@ -8,11 +8,15 @@ uid: 639376
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/045/273/original/Banner_The_cry_of_the_Suqu%C3%ADa.png)
+
 # THE CRY OF THE SUQUÍA RIVER
 
 by [alejobonifacio](../profile/alejobonifacio) December 20, 2021 18:45
 
 December 20, 2021 18:45 | Tags: [sewage](../tag/sewage), [water-quality](../tag/water-quality), [wastewater](../tag/wastewater), [advocacy](../tag/advocacy), [documentary](../tag/documentary), [zoom:0](../tag/zoom:0), [zoom:12](../tag/zoom:12), [research-curation-fellows](../tag/research-curation-fellows), [aguas-cloacales](../tag/aguas-cloacales), [lat:-31.406689](../tag/lat:-31.406689), [lon:-64.189246](../tag/lon:-64.189246)
+
+----
 
 THE CRY OF THE SUQUÍA RIVER is a documentary that is a boat trip crossing a 32 km path that allows you to see at each stop, to connect with life experiences on various socio-environmental realities. The language is Spanish with English subtitles.
 

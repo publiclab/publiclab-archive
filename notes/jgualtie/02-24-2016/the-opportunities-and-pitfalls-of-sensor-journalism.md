@@ -14,6 +14,8 @@ by [jgualtie](../profile/jgualtie) February 24, 2016 17:27
 
 February 24, 2016 17:27 | Tags: [sensor-journalism](../tag/sensor-journalism), [response:12748](../tag/response:12748), [hidden:response](../tag/hidden:response)
 
+----
+
 Sensor journalism is a relatively new form of journalism that relies on technology to gather information to prepare it to be accessible to the public. While data journalists often relies on existing data to create their story, sensor journalists create data. 
 
 Examples of sensor journalism date back to the early 2000s, making it a relatively new form of journalism. The uses for sensor journalism are far and wide and have not yet entirely been discovered. In fact, it’s likely that all of the uses will never entirely be discovered as technology is advancing all the time. As long as technology continues to advance, sensor journalists will be able to apply these new concepts and devices to their work. Take, for instance, a report done by the Washington Post using ShotSpotter data. The gathering of this data relied on the fact that explosions in a gun barrel cause air-pressure changes, or sound waves. From there, they were converted into digital signals by microphones and pattern-matched by computers to produce records of the gunshot locations throughout Washington, D.C. This technology has not always been available, but because of the advancement of sound-gathering technology, ShotSpotter was able to be developed and create data that is relevant and important to the people of Washington, D.C. Because the data collecting was done for Washington Post, the information that was relevant also became accessible to the people of Washington, D.C. 

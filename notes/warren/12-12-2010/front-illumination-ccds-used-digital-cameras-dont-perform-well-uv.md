@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/Screen shot 2010-12-12 at 7.48.45 PM.png)
+
 # Front-illumination CCDs (as used in digital cameras) don't perform well in UV
 
 by [warren](../profile/warren) December 13, 2010 00:50
 
 December 13, 2010 00:50 | Tags: [spectrometer](../tag/spectrometer), [uv](../tag/uv), [ultraviolet](../tag/ultraviolet), [ccd](../tag/ccd)
+
+----
 
 and this is why:
 

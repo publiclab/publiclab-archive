@@ -14,6 +14,8 @@ by [marlokeno](../profile/marlokeno) June 19, 2017 20:19
 
 June 19, 2017 20:19 | Tags: [spam](../tag/spam), [moderation](../tag/moderation), [question:question](../tag/question:question), [question:moderation](../tag/question:moderation), [question:spam](../tag/question:spam)
 
+----
+
 What is the process for getting rid of junk ads on PL pages?
 
 Just now, I looked at the main PL page, and encountered 2 ads for escort services in Bangalore.

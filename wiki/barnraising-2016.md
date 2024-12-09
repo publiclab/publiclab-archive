@@ -8,11 +8,15 @@ uid: 422561
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/019/618/original/Screenshot_2016-08-31_at_12.13.53_PM.png)
+
 # Barnraising 2016
 
 by [stevie](../profile/stevie)
 
 February 23, 2017 19:05 | Tags: 
+
+----
 
 #The 2016 Barnraising theme is "Inviting Collaboration"
 
@@ -33,7 +37,7 @@ One page doc on the event:
 
 ###Posts from this event:
  
-[notes:barnraising-2016]
+[barnraising-2016](../../tag/barnraising-2016)
 
 ###Sessions hosted at the Annual Barnraising included: 
 Participatory science, well water, newcomers outreach on software, microscopy, documenting activities, image analysis, building effective partnerships, Riffle and Arduino, fracking, how-to spectrometry, public comment, landfills, dust and particulate matter monitoring, water advocacy, balloon and kite mapping, pop-poms and popsicle sticks open play session, 3D imaging from photographs, how to connect and network, stakeholder mapping and lightning talks. 

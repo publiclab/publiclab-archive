@@ -8,11 +8,15 @@ uid: 428083
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/007/272/original/water_test.jpg)
+
 # Emerson College JR-368 Water Sample Data Results
 
 by [abcieslik](../profile/abcieslik) October 01, 2014 20:10
 
 October 01, 2014 20:10 | Tags: [water-quality](../tag/water-quality), [coqui](../tag/coqui)
+
+----
 
 Findings by Anna Cieslik and Taylor Kiss
 

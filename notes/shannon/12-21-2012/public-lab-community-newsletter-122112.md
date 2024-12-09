@@ -14,6 +14,8 @@ by [Shannon](../profile/Shannon) December 21, 2012 20:52
 
 December 21, 2012 20:52 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
 
+----
+
 Happily, the world did not come to an end today and so we're able to write you one last newsletter before the end of 2012. This week, hear about a mapping project in Uganda, check out the work residents around the Gowanus Canal did after Sandy and view new maps from Wisconsin, Hawaii and Massachusetts. Enjoy!
 
 1. Mapping Sandy at the Gowanus Canal. Check out the [incredible images and documentation](http://publiclaboratory.org/notes/eymund-diegel/12-16-2012/mapping-sewage-flows-gowanus-canal-after-sandy-flood-damages) ([click here](http://publiclaboratory.org/notes/eymund-diegel/12-18-2012/mapping-sewage-flows-gowanus-canal-after-sandy-flood-damages-sequel) for the follow up note) from aerial mappers at the Gowanus Canal in Brooklyn as they took to canoes after Sandy to get aerial images of sewage flows in the Canal. 

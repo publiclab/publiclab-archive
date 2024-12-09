@@ -8,11 +8,15 @@ uid: 43651
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/003/111/original/thermalll.png)
+
 # Thermal Flashlight REVA -- first tests
 
 by [donblair](../profile/donblair) March 02, 2014 00:12
 
 March 02, 2014 00:12 | Tags: [thermal-photography](../tag/thermal-photography), [arduino](../tag/arduino), [thermal-flashlight](../tag/thermal-flashlight), [thermal-fishing-bob](../tag/thermal-fishing-bob), [pcb](../tag/pcb)
+
+----
 
 ###What I want to do
 

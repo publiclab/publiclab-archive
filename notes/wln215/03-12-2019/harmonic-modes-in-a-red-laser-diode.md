@@ -8,11 +8,15 @@ uid: 578478
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/031/556/original/Centered_spread_Grade_A.jpg)
+
 # Harmonic Modes in a Red Laser Diode
 
 by [wln215](../profile/wln215) March 12, 2019 16:02
 
 March 12, 2019 16:02 | Tags: [spectrometer](../tag/spectrometer), [spectrometers](../tag/spectrometers), [first-time-poster](../tag/first-time-poster), [lasers](../tag/lasers), [lat:40.713955](../tag/lat:40.713955), [lon:-74.014892](../tag/lon:-74.014892)
+
+----
 
 # High Resolution Laser Diode Spectroscopy
 

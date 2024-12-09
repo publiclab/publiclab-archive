@@ -8,11 +8,15 @@ uid: 461120
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/017/573/original/eosin_y_5_samples.png)
+
 # SNR Data for Eosin Y Study on 8/10/2016
 
 by [dhaffnersr](../profile/dhaffnersr) August 12, 2016 16:10
 
 August 12, 2016 16:10 | Tags: 
+
+----
 
 ##**Absorption and Emission of Eosin Y in Ethanol**
 

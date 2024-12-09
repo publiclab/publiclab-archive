@@ -8,11 +8,15 @@ uid: 432234
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/008/256/original/Racket.JPG)
+
 # Thermal Imaging of Northeastern University buildings
 
 by [evanbjacobson](../profile/evanbjacobson) December 03, 2014 18:02
 
 December 03, 2014 18:02 | Tags: [thermal-photography](../tag/thermal-photography), [thermal-flashlight](../tag/thermal-flashlight), [thermal](../tag/thermal), [insulation](../tag/insulation), [heat](../tag/heat), [activity:thermal-flashlight](../tag/activity:thermal-flashlight), [replication:625](../tag/replication:625)
+
+----
 
 **Group members**: Kathryn Tomase, Evan Jacobson, Elikem Tamaklo
 

@@ -8,11 +8,15 @@ uid: 9
 
 ---
 
+![](https://publiclab.org/sites/default/files/darkrm.png)
+
 # H2S film strip test #2
 
 by [Shannon](../profile/Shannon) January 30, 2012 04:11
 
 January 30, 2012 04:11 | Tags: [providence](../tag/providence), [as220](../tag/as220), [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s), [h2s-photopaper](../tag/h2s-photopaper)
+
+----
 
 Last Thursday, students in the joint Public Lab and RISD Environmental Justice Research Cluster met for the second round of making film strips to test for hydrogen sulfide. Read more about the work in progress here and what the idea behind using film is: http://publiclaboratory.org/tool/hydrogen-sulfide-sensing. We met at the <a href="http://as220.org/front/">AS220</a> darkroom and were able to do the mix for the paper coating, cutting strips and paper drying in this space. A couple of images are <a href="https://www.flickr.com/photos/recordandremember/sets/72157629050136399/">here</a>.
 

@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/020/427/original/Screen_Shot_2017-05-12_at_12.37.31_PM.png)
+
 # Share large numbers of photos (or files) using BitTorrent
 
 by [warren](../profile/warren) May 12, 2017 16:51
 
 May 12, 2017 16:51 | Tags: [balloon-mapping](../tag/balloon-mapping), [photo-monitoring](../tag/photo-monitoring), [timelapse](../tag/timelapse), [bittorrent](../tag/bittorrent), [file-sharing](../tag/file-sharing), [activity:bittorrent](../tag/activity:bittorrent), [activity:photo-sharing](../tag/activity:photo-sharing), [photo-sharing](../tag/photo-sharing)
+
+----
 
 It's hard to share **lots** of images the way we often want to after Public Lab meetups, when we've done #balloon-mapping, #timelapse or #photo-monitoring work. Here is one way using free (and some open source) tools.
 

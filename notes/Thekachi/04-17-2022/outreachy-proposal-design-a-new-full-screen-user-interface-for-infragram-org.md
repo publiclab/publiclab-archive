@@ -8,11 +8,15 @@ uid: 792901
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/045/964/original/Screenshot_2022-04-17_at_12.02.05.png)
+
 # Outreachy proposal: Design a new full-screen user interface for Infragram.org
 
 by [Thekachi](../profile/Thekachi) April 17, 2022 11:21
 
 April 17, 2022 11:21 | Tags: [software](../tag/software), [proposal](../tag/proposal), [lat:0](../tag/lat:0), [lon:0](../tag/lon:0), [outreachy](../tag/outreachy), [first-time-poster](../tag/first-time-poster), [zoom:3](../tag/zoom:3), [outreachy-2022](../tag/outreachy-2022), [outreachy-summer-2022](../tag/outreachy-summer-2022)
+
+----
 
 ---------
 

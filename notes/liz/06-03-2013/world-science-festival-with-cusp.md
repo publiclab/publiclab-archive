@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/000/467/original/IMG_2031.JPG)
+
 # World Science Festival with CUSP
 
 by [liz](../profile/liz) June 03, 2013 01:19
 
 June 03, 2013 01:19 | Tags: [balloon-mapping](../tag/balloon-mapping)
+
+----
 
 **Article written about the event: http://www.directionsmag.com/articles/open-data-and-the-next-evolution-in-citizen-science/347361**
 

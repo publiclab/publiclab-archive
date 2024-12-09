@@ -8,11 +8,15 @@ uid: 435207
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/008/961/original/diagram.jpg)
+
 # Common-anode LED thermal flashlight casing and circuit diagram
 
 by [lmc6399group](../profile/lmc6399group) February 13, 2015 04:09
 
 February 13, 2015 04:09 | Tags: [thermal-photography](../tag/thermal-photography), [thermal-flashlight](../tag/thermal-flashlight), [thermal-camera](../tag/thermal-camera), [tool](../tag/tool), [barnstar:basic](../tag/barnstar:basic), [activity:thermal-flashlight](../tag/activity:thermal-flashlight), [upgrade:thermal-flashlight](../tag/upgrade:thermal-flashlight)
+
+----
 
 A redrawn circuit diagram of the thermal flashlight described here: http://www.publiclab.org/wiki/thermal-camera
 

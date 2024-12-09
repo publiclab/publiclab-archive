@@ -8,11 +8,15 @@ uid: 422760
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/003/865/original/%3F%3F%3F.bmp)
+
 # free air testing 
 
 by [justinlee](../profile/justinlee) April 25, 2014 09:20
 
 April 25, 2014 09:20 | Tags: [air-quality](../tag/air-quality), [leukemia](../tag/leukemia)
+
+----
 
 ###What I want to do
 I want children away from leukemia

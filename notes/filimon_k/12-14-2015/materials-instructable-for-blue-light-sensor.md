@@ -8,11 +8,15 @@ uid: 460113
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/013/307/original/bluelightspec.jpg)
+
 # Materials/ Instructable for Blue Light Sensor
 
 by [filimon_k](../profile/filimon_k) December 14, 2015 04:17
 
 December 14, 2015 04:17 | Tags: [sensors](../tag/sensors), [light](../tag/light), [blue](../tag/blue), [wearables](../tag/wearables), [photocell](../tag/photocell)
+
+----
 
 ###What I want to do
 Measure the amount of blue light we encounter on a daily basis

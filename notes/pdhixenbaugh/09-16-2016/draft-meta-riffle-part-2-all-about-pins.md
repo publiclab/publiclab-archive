@@ -8,11 +8,15 @@ uid: 459085
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/018/062/original/breadboardpins.png)
+
 # Draft Meta-Riffle Part 2: All about pins
 
 by [pdhixenbaugh](../profile/pdhixenbaugh) September 16, 2016 22:16
 
 September 16, 2016 22:16 | Tags: [riffle](../tag/riffle), [4](../tag/4), [8](../tag/8), [6](../tag/6), [3](../tag/3), [define](../tag/define), [5](../tag/5), [9](../tag/9)
+
+----
 
 ###What I want to do
 * Continue where [Part 1](https://publiclab.org/notes/pdhixenbaugh/09-15-2016/draft-don-t-look-meta-riffle-researching-how-to-build-electronic-circuits-with-the-riffle) left off, exploring Riffle and Arduino documentation

@@ -8,11 +8,15 @@ uid: 427351
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/007/010/original/Screen_Shot_2014-09-24_at_20.51.14.png)
+
 # Problem with Photomonitoring Plugin on Fiji
 
 by [silvanhi](../profile/silvanhi) September 24, 2014 18:51
 
 September 24, 2014 18:51 | Tags: [ndvi](../tag/ndvi), [fiji](../tag/fiji), [lut](../tag/lut), [photomonitoring](../tag/photomonitoring)
+
+----
 
 ###What I want to do
 I'd like to import the .lut files of Ned Hornings PhotoMonitoring plugin on my mac.

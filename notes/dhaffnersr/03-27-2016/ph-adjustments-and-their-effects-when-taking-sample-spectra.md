@@ -8,11 +8,15 @@ uid: 461120
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/015/246/original/rhd_b_methyl_b_samples_mar25.JPG)
+
 # Ph adjustments and their effects when taking sample spectra
 
 by [dhaffnersr](../profile/dhaffnersr) March 27, 2016 15:39
 
 March 27, 2016 15:39 | Tags: 
+
+----
 
 Here are a series of experiments done using rhodamine b and methylene blue with and without adjusting the Ph balance within the sample:
 

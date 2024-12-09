@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/2011-11-23-17-42-cheap-notebook-webcam-creative.png)
+
 # $8 webcam for spectrometer is not great
 
 by [warren](../profile/warren) November 23, 2011 23:04
 
 November 23, 2011 23:04 | Tags: 
+
+----
 
 <div class="gmail_quote"><div id=":3r6">OK, i got the little $8 camera working but it is not very good resolution:<div><br></div><div><a href="http://spectrometer.publiclaboratory.org/spectrums/27" target="_blank">http://spectrometer.publiclaboratory.org/spectrums/27</a></div>
 <div>

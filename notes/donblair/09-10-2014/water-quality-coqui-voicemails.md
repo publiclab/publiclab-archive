@@ -8,11 +8,15 @@ uid: 43651
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/006/710/original/coqui_thumb.jpg)
+
 # Water quality voicemails: Vojo & Coqui
 
 by [donblair](../profile/donblair) September 10, 2014 22:06
 
 September 10, 2014 22:06 | Tags: [water-quality](../tag/water-quality), [coqui](../tag/coqui), [voicemail](../tag/voicemail), [audio](../tag/audio), [vojo](../tag/vojo), [activity:coqui-usage](../tag/activity:coqui-usage), [activity:coqui-mods](../tag/activity:coqui-mods)
+
+----
 
 ###What I want to do
 

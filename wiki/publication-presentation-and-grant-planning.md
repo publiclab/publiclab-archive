@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/022/352/original/image.png)
+
 # Publication, presentation and grant planning
 
 by [warren](../profile/warren), [Shannon](../profile/Shannon)
 
 January 21, 2011 18:55 | Tags: 
+
+----
 
 <dme:context type='node' cid='51' />Here is a list of all the publications and presentations we're writing for, deadlines, and who's in charge of each:
 

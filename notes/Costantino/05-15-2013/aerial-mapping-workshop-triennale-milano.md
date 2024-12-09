@@ -8,11 +8,15 @@ uid: 53682
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/000/285/original/wefab_mapping_web_s.jpg)
+
 # Aerial Mapping workshop Triennale Milano
 
 by [Costantino](../profile/Costantino) May 15, 2013 12:23
 
 May 15, 2013 12:23 | Tags: [balloon-mapping](../tag/balloon-mapping), [android](../tag/android), [event](../tag/event), [baloon-mapping](../tag/baloon-mapping), [milano](../tag/milano), [milan](../tag/milan), [italy](../tag/italy), [replication:14022](../tag/replication:14022)
+
+----
 
 ##Event details
 [Wefab](http://wefab.it/) organized a 2-day workshop of DIY Aerial Mapping to introduce to participants some theory and practice around this topic. 

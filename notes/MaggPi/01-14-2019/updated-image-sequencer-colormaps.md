@@ -8,11 +8,15 @@ uid: 501996
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/028/815/original/Slide1.JPG)
+
 #  Updated Image Sequencer Colormaps!
 
 by [MaggPi](../profile/MaggPi) January 14, 2019 22:23
 
 January 14, 2019 22:23 | Tags: [ndvi](../tag/ndvi), [colormap](../tag/colormap), [code](../tag/code), [barnstar:basic](../tag/barnstar:basic), [fastie](../tag/fastie), [fastiecolormap](../tag/fastiecolormap), [soc](../tag/soc), [aren](../tag/aren), [gsoc-2018](../tag/gsoc-2018), [soc-2018](../tag/soc-2018), [image-sequencer](../tag/image-sequencer)
+
+----
 
 **Abstract:** The note describes eight colormaps available in Public Lab’s Image Sequencer online analysis tool.  Colormap applications, Image Sequencer processing steps and a NDVI colormap comparison are discussed and demonstrated.     
 

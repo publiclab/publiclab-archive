@@ -14,6 +14,8 @@ by [wiebew](../profile/wiebew) December 30, 2012 20:39
 
 December 30, 2012 20:39 | Tags: [spectrometer](../tag/spectrometer), [calibration](../tag/calibration), [spectrometer-calibration](../tag/spectrometer-calibration), [intensity-calibration](../tag/intensity-calibration), [wavelength](../tag/wavelength)
 
+----
+
 Recently, I posted a note regarding further calibration of the spectrometer to the mailing list. Below is a restructured version of my post. It starts with a summary of different calibration steps that can be performed and then explains how these could be done. Some of these calibrations pose some challenges to the current spectrometer workflow.
 
 There are four calibration steps that can be performed:

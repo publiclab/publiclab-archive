@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/001/697/original/coverimage-banner-02.png)
+
 # Barnraising 2013
 
 by [liz](../profile/liz), [Shannon](../profile/Shannon), [cindy_excites](../profile/cindy_excites), [warren](../profile/warren), [btbonval](../profile/btbonval), [hagitkeysar](../profile/hagitkeysar), [Pera](../profile/Pera), [TedF](../profile/TedF), [Becki](../profile/Becki), [mathew](../profile/mathew), [eustatic](../profile/eustatic)
 
 July 10, 2013 12:09 | Tags: [gulf-coast](../tag/gulf-coast), [louisiana](../tag/louisiana), [barnraising](../tag/barnraising), [event](../tag/event), [list:plots-barnraising](../tag/list:plots-barnraising), [parent:barnraising](../tag/parent:barnraising)
+
+----
 
 **NEW LOCATION: Due to storm surge from Tropical Storm Karen in Cocodrie, the barnraising will be held in New Orleans at Propeller, 4035 Washington Avenue. If you have questions, please call 504.239.4642.**
 

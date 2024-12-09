@@ -8,11 +8,15 @@ uid: 370
 
 ---
 
+![](https://publiclab.org/sites/default/files/IMAG0350.jpeg)
+
 # Thermal Imaging Uses
 
 by [Brittny](../profile/Brittny) November 28, 2011 18:28
 
 November 28, 2011 18:28 | Tags: [first-time-poster](../tag/first-time-poster)
+
+----
 
 Art Lab brainstorming uses for thermal images:
 

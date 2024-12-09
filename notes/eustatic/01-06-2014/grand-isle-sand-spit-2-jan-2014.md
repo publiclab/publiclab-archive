@@ -8,11 +8,15 @@ uid: 379
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/002/490/original/b_IMG_6141.JPG)
+
 # Grand Isle Sand Spit 2 Jan 2014
 
 by [eustatic](../profile/eustatic) January 06, 2014 01:38
 
 January 06, 2014 01:38 | Tags: [gulf-coast](../tag/gulf-coast), [grand-isle](../tag/grand-isle), [kite-mapping](../tag/kite-mapping), [dredgefestla](../tag/dredgefestla)
+
+----
 
 ###What we want to do
 

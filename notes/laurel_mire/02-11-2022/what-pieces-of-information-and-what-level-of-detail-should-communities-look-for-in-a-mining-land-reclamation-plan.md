@@ -14,6 +14,8 @@ by [laurel_mire](../profile/laurel_mire) February 11, 2022 21:46
 
 February 11, 2022 21:46 | Tags: [research-curation-fellows](../tag/research-curation-fellows), [reclamation](../tag/reclamation), [mine-reclamation](../tag/mine-reclamation), [question:mine-reclamation](../tag/question:mine-reclamation)
 
+----
+
 [This research note][1] explains that a reclamation plan must include 3 pieces of information: how and where topsoil will be stored after removal, how topsoil will be replaced after mining operations, and how the land will be prepared for its next use. 
 
 Although this may be the bare minimum, what other information should a community look for or demand inclusion of in a high-quality reclamation plan?

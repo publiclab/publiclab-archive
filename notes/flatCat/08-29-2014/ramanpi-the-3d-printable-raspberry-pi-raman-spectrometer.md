@@ -8,11 +8,15 @@ uid: 427636
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/006/504/original/cuvetteAssembly_progress3.png)
+
 # ramanPi - The 3D Printable Raspberry Pi Raman Spectrometer
 
 by [flatCat](../profile/flatCat) August 29, 2014 18:35
 
 August 29, 2014 18:35 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [raman](../tag/raman), [cuvette](../tag/cuvette), [3d-printing](../tag/3d-printing), [barnstar:basic](../tag/barnstar:basic), [barnstar:excessive-enthusiasm](../tag/barnstar:excessive-enthusiasm), [response:11079](../tag/response:11079), [hackaday](../tag/hackaday)
+
+----
 
 ##ramanPi is looking for developers!!!
 ****If you have Python, pyQt4, matplotlib, signal processing, optics, raman spectroscopy or FPGA experience contact dev @ ramapi .org!  Or go to dev . ramanPi . org and sign up to the developer forums!  

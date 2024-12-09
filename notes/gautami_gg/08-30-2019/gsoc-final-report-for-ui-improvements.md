@@ -8,11 +8,15 @@ uid: 579624
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/035/074/original/1_g5RBYeGe0VLB6t_ZsvO_wQ.png)
+
 # GSoC Final Report for UI Improvements
 
 by [gautami_gg](../profile/gautami_gg) August 30, 2019 06:42
 
 August 30, 2019 06:42 | Tags: [gsoc-2019-final-report](../tag/gsoc-2019-final-report)
+
+----
 
 \*\*Project Title \*\*: UI Improvements to [PublicLab website](https://publiclab.org/research).
 

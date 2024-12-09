@@ -14,6 +14,8 @@ by [siyuan](../profile/siyuan) June 12, 2017 19:26
 
 June 12, 2017 19:26 | Tags: [website](../tag/website), [software](../tag/software), [barnstar:basic](../tag/barnstar:basic), [ux](../tag/ux), [ui](../tag/ui), [interface-design](../tag/interface-design), [user-interface](../tag/user-interface)
 
+----
+
 I'm working on a pro-bono project to improve the user experience on Public Lab's site. I've spent some time in the past few weeks learning about and evaluating the Questions page for ways to improve the UX/UI. 
 
   

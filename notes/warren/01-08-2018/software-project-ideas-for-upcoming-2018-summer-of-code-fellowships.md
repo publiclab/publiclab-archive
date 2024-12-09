@@ -14,6 +14,8 @@ by [warren](../profile/warren) January 08, 2018 19:15
 
 January 08, 2018 19:15 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [developers](../tag/developers), [code](../tag/code), [response:12827](../tag/response:12827), [question:gsoc](../tag/question:gsoc), [soc](../tag/soc), [response:13975](../tag/response:13975), [summer-of-code](../tag/summer-of-code), [question:soc](../tag/question:soc), [question:developers](../tag/question:developers), [question:software](../tag/question:software)
 
+----
+
 We're applying to the 2018 [Google Summer of Code program](https://summerofcode.withgoogle.com) as we do each year, and after a great summer with the [Rails Girls Summer of Code program](https://railsgirlssummerofcode.org), we'll be applying to that program as well.
 
 **What projects are people interested in tackling this summer?**

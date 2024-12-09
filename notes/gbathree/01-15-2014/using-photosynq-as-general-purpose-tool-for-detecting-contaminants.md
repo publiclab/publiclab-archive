@@ -14,6 +14,8 @@ by [gbathree](../profile/gbathree) January 15, 2014 18:00
 
 January 15, 2014 18:00 | Tags: [spectrometer](../tag/spectrometer), [fluorescence](../tag/fluorescence), [photosynthesis](../tag/photosynthesis), [photosynq](../tag/photosynq)
 
+----
+
 If you haven't heard of PhotosynQ, it's a platform for measing plant health with a focus on plant photosynthesis.  Our group has been working on this problem for 20+ years, so the design is pretty darn good with high accuracy and low noise.  The device itself (we call it the MultispeQ) has 2 pin photodiodes which detect light, one is IR only and the other is visible light only.  It also has room for about 7 LEDs which can be configured on either side of the detector (ie light passes through sample into the detector, or light relfects off the sample back to the detector).
 
 While our goals are to use it specifically for plant fluorescence and absorbance at various wavelengths of interest for plant scientists, the fact is **MultispeQ it is a very low cost and high quality general purpose tool for any method involving fluorescence, absorbance, or transmittance.  **

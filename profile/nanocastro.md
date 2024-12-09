@@ -3,6 +3,8 @@ uid: 506212
 created_at: 2017-04-25 18:41:11 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/506212/medium/nanovino.jpg)
+
 # nanocastro
 
 Working at the intersection between air quality monitoring, citizen science, open hardware and digital fabrication.

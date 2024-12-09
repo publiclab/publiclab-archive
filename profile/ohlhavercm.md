@@ -3,6 +3,8 @@ uid: 512218
 created_at: 2017-08-07 19:20:55 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/b75cabed0081dc7c9582439d36f7dd33)
+
 # ohlhavercm
 
 Chem grad student at VCU

@@ -8,11 +8,15 @@ uid: 438931
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/009/702/original/diffraction_angle.png)
+
 # The accidental raspberry pi spectrometer
 
 by [khufkens](../profile/khufkens) April 25, 2015 01:20
 
 April 25, 2015 01:20 | Tags: [diy](../tag/diy), [spectroscopy](../tag/spectroscopy), [pi](../tag/pi), [spectral](../tag/spectral), [response](../tag/response), [curve](../tag/curve), [raspberry](../tag/raspberry)
+
+----
 
 ### Introduction
 

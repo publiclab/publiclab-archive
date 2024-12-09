@@ -8,11 +8,15 @@ uid: 152
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/015/240/original/IMG_1292_copy.jpg)
+
 # Public Lab Installation in the EU Joint Research Center
 
 by [hagitkeysar](../profile/hagitkeysar) March 26, 2016 17:21
 
 March 26, 2016 17:21 | Tags: [balloon-mapping](../tag/balloon-mapping), [italy](../tag/italy), [eu](../tag/eu), [installation](../tag/installation), [europe](../tag/europe), [exhibition](../tag/exhibition), [jrc](../tag/jrc)
+
+----
 
 **New Currents in Science: The Challenges of Quality 3-4 March 2016 , Ispra, Italy
 **

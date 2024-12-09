@@ -8,11 +8,15 @@ uid: 468990
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/015/802/original/571_nm_peak.jpg)
+
 # Spitfire peak pixel test
 
 by [viechdokter](../profile/viechdokter) April 26, 2016 22:45
 
 April 26, 2016 22:45 | Tags: [spectrometer](../tag/spectrometer), [cfl](../tag/cfl), [desktop-spectrometer](../tag/desktop-spectrometer), [timeseries](../tag/timeseries), [spectrum](../tag/spectrum), [peak_wavelengths](../tag/peak_wavelengths), [intensities](../tag/intensities)
+
+----
 
 **What I wanted to do** this time is to take a series of spectra of the same CFL lamp in fast succession ("spitfire") at 0.1 seconds intervals over a period of 10 seconds and have a look at the sharpest intensity peaks only. 
 

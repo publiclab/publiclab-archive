@@ -14,6 +14,8 @@ by [Shannon](../profile/Shannon), [warren](../profile/warren), [gonzoearth](../p
 
 December 06, 2011 06:25 | Tags: [nonprofit](../tag/nonprofit), [history](../tag/history)
 
+----
+
 <div class="alert">This page is outdated and needs revision.</div>
 
 The Grassroots Mapping community was founded in 2009 by Jeffrey Warren, then a graduate student at MIT?s Center for Future Civic Media. The project began in Lima, Peru where Jeff worked with communities and activists to produce maps to support land tenure claims. In May 2010, members of the already growing Grassroots Mapping community joined with the Louisiana Bucket Brigade to begin environmental monitoring of the BP Oil Spill with the balloon mapping kit. In collaboration with Shannon Dosemagen, the Gulf Coast branch of the project grew to over a hundred volunteers and activists who have produced dozens of data sets since the spill. Stewart Long produced the stitched maps of the Gulf and Adam Griffith, working for Western Carolina University, led mapping trips while visiting the Gulf.

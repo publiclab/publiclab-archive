@@ -14,6 +14,8 @@ by [liz](../profile/liz), [ann](../profile/ann)
 
 May 21, 2014 16:24 | Tags: [community](../tag/community), [chapters](../tag/chapters), [region](../tag/region), [website-utilities](../tag/website-utilities), [parent:locations](../tag/parent:locations)
 
+----
+
 <div class="alert alert-info">To get an overview of place-based activity beyond North America, see the <a href="/wiki/locations">location page</a>.</div>
 
 Place-based activity documented on this website is organized into loose geographies that may encompass multiple states or provinces.  To reinforce diversity, regions include both rural and urban areas, and tend to ignore political boundaries. 

@@ -14,6 +14,8 @@ by [Shannon](../profile/Shannon) August 31, 2012 13:40
 
 August 31, 2012 13:40 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
 
+----
+
 In the Public Lab community newsletter this week you'll find notes on mapping Revolutionary War era mass grave sites, the trials and tribulations of launching a balloon in Mexico City, mapping trees in danger of uprooting in Jerusalem, updates on spectrometer development and a whole lot more. Enjoy!
 
 1. New Public Lab Kickstarter. If you happened to miss is, Public Lab launched a [Kickstarter for the spectrometer](http://www.kickstarter.com/projects/jywarren/public-lab-diy-spectrometry-kit?ref=card) this week. Although 225% of the goal has been reached in the first four days, your help with outreach efforts (send a Tweet, post to Facebook, write a blog, email your friends and family) would be appreciated! You can also get involved in spectrometer development by purchasing a spectrometer through the Kickstarter or following the [easy to follow](http://publiclaboratory.org/tool/spectrometer) instructions on the Public Lab website. 

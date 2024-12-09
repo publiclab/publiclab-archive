@@ -8,11 +8,15 @@ uid: 461120
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/017/626/original/carbol_fuchsin.png)
+
 # Carbol Fuchsin Doped with Lugol’s Iodine Solution AUG 13 2016
 
 by [dhaffnersr](../profile/dhaffnersr) August 16, 2016 20:42
 
 August 16, 2016 20:42 | Tags: 
+
+----
 
 [![chart_1.png](//i.publiclab.org/system/images/photos/000/017/627/large/chart_1.png)](//i.publiclab.org/system/images/photos/000/017/627/original/chart_1.png)
 

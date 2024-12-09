@@ -14,6 +14,8 @@ by [Shannon](../profile/Shannon), [mathew](../profile/mathew)
 
 July 15, 2015 02:33 | Tags: [parent:wetlands-lesson-plans](../tag/parent:wetlands-lesson-plans)
 
+----
+
 [Link to lesson 3](/wiki/public-lab-lesson-3-photography-in-a-new-light)
 
 ###National Common Core Standards: Grade 8 specific (as well as general category 6-8 Middle School Standards)

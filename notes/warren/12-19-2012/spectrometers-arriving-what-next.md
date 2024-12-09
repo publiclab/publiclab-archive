@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/uploads.png)
+
 # Spectrometers arriving: what next?
 
 by [warren](../profile/warren) December 19, 2012 21:35
 
 December 19, 2012 21:35 | Tags: [spectrometer](../tag/spectrometer), [spectralworkbench](../tag/spectralworkbench), [kickstarter](../tag/kickstarter)
+
+----
 
 All but 64 of the Desktop Spectrometry Kits are now shipped, and from [the buzz on Twitter](https://twitter.com/search?q=publiclab) and the [new spectra being uploaded to SpectralWorkbench.org](https://spectralworkbench.org), many have already received, assembled, and begun to use them. As you get started with your kits, here are some useful links:
 

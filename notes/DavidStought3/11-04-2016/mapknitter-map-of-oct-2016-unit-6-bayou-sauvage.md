@@ -8,11 +8,15 @@ uid: 496384
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/018/702/original/IMG_2775.JPG)
+
 # MapKnitter map of Oct 2016 Unit 6 Bayou Sauvage
 
 by [DavidStought3](../profile/DavidStought3) November 04, 2016 21:09
 
 November 04, 2016 21:09 | Tags: [mapknitter](../tag/mapknitter), [lat:30.033488993](../tag/lat:30.033488993), [lon:-89.8642587662](../tag/lon:-89.8642587662)
+
+----
 
 [![IMG_2775.JPG](https://publiclab.org/system/images/photos/000/018/701/large/IMG_2775.JPG)](https://publiclab.org/system/images/photos/000/018/701/original/IMG_2775.JPG)
 

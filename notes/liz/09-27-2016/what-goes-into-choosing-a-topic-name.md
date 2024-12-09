@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/018/180/original/IMG_7637.JPG)
+
 # What goes into choosing a topic name?
 
 by [liz](../profile/liz) September 27, 2016 21:06
 
 September 27, 2016 21:06 | Tags: [blog](../tag/blog), [with:warren](../tag/with:warren), [with:cfastie](../tag/with:cfastie), [with:nshapiro](../tag/with:nshapiro), [with:gretchengehrke](../tag/with:gretchengehrke), [with:bronwen](../tag/with:bronwen), [with:abdul](../tag/with:abdul), [question:website](../tag/question:website), [ui](../tag/ui), [tagging](../tag/tagging), [question:tagging](../tag/question:tagging)
+
+----
 
 _above: sketch of figuring out how to organize "air" into a research area, and which methods are part of the research area, and which activities would go on what grid...Photo by @nshapiro_
 

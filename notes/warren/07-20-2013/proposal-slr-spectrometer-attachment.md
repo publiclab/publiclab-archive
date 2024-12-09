@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/000/857/original/Screen_Shot_2013-07-20_at_1.07.47_PM.png)
+
 # Proposal: SLR spectrometer attachment
 
 by [warren](../profile/warren) July 20, 2013 17:10
 
 July 20, 2013 17:10 | Tags: [spectrometer](../tag/spectrometer), [shapeways](../tag/shapeways), [slr](../tag/slr), [adaptor](../tag/adaptor), [3d-printing](../tag/3d-printing), [thingiverse](../tag/thingiverse)
+
+----
 
 Lots of folks have talked about doing a higher-end spectrometer attachment based on an SLR lens mount. This is a good idea -- we can model it and share the model on Shapeways so people can 3D print it. 
 

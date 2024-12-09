@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/sites/default/files/EbertPlan.jpg)
+
 # Ebert
 
 by [cfastie](../profile/cfastie) February 20, 2013 01:09
 
 February 20, 2013 01:09 | Tags: [spectrometer](../tag/spectrometer), [vermont](../tag/vermont), [open-hardware](../tag/open-hardware), [grating](../tag/grating), [desktop-spectrometer](../tag/desktop-spectrometer), [ebert](../tag/ebert), [upgrade:spectrometry](../tag/upgrade:spectrometry)
+
+----
 
 The video below suggests that I had a plan for this new spectrometer, but that plan changed every day as the device came together in the last couple of weeks.  Stuff I found in the garage and at the hardware store altered the design, and my observations on the [SpectroBench 2000]( http://publiclaboratory.org/notes/cfastie/2-5-2013/grating-angle) completely changed the final dimensions and angles. The angles above could still change, but I'm not planning on changing the slit-to-grating distance.
 

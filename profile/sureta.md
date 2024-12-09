@@ -3,6 +3,8 @@ uid: 646232
 created_at: 2019-12-20 08:13:43 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/7504d16d24321d603be4b85c770117a0)
+
 # sureta
 
 

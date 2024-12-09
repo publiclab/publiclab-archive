@@ -8,11 +8,15 @@ uid: 12
 
 ---
 
+![](https://publiclab.org/sites/default/files/Capture_48.JPG)
+
 # Must see map and video of SF Park
 
 by [gonzoearth](../profile/gonzoearth) May 18, 2012 05:30
 
 May 18, 2012 05:30 | Tags: [balloon-mapping](../tag/balloon-mapping)
+
+----
 
 this Dolores Park map just went online, the map is great and the video is Amazing! 
 http://publiclaboratory.org/map/mission-dolores-park-san-francisco/2012-05-11

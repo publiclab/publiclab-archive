@@ -12,6 +12,8 @@ uid: 1
 
 July 14, 2015 18:05 | Tags: 
 
+----
+
   <a class="feature img inverted" href="/lego" style="background-image:url('https://publiclab.org/system/images/photos/000/022/929/medium/PC051869.JPG');">
     <h1 style="">The Lego Spectrometer</h1>
     <p style="padding-top:16px;">Try our our newest kit &raquo;</p>

@@ -8,11 +8,15 @@ uid: 497953
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/026/143/original/Display.png)
+
 # GSoC Submission for Leaflet Blurred Location Part 2
 
 by [mridulnagpal](../profile/mridulnagpal) August 10, 2018 14:57
 
 August 10, 2018 14:57 | Tags: [gsoc](../tag/gsoc), [leaflet](../tag/leaflet), [soc](../tag/soc), [gsoc-2018-final](../tag/gsoc-2018-final), [soc-2018-final-report](../tag/soc-2018-final-report)
+
+----
 
 ### Project proposal: [https://publiclab.org/notes/mridulnagpal/01-22-2018/leaflet-blurred-location](https://publiclab.org/notes/mridulnagpal/01-22-2018/leaflet-blurred-location)[](https://publiclab.org/notes/mridulnagpal/03-01-2017/map-of-projects)
 

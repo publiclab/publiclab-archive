@@ -14,6 +14,8 @@ by [eustatic](../profile/eustatic) December 17, 2020 18:22
 
 December 17, 2020 18:22 | Tags: [gulf-coast](../tag/gulf-coast), [air-quality](../tag/air-quality), [barnstar:basic](../tag/barnstar:basic), [zoom:16](../tag/zoom:16), [lat:29.953744](../tag/lat:29.953744), [lon:-90.073642](../tag/lon:-90.073642)
 
+----
+
 Just a response to the Air Quality manuals asking researchers to pick "one question," and problems raised during the "What's in your Air-ea" Public Lab session.
 
 In the US Gulf Coast, the agencies are actively opposed to air monitoring. Communities are usually concerned with the costs to their health --sick kids, cancer treatments, etc., and want a government agency to protect them. There generally is no such agency or representative that will act. The primary audience must be the courts, because evidence can be presented to a court, evidence that, normally, the agency can willfully obstruct. But this is a frustrating thing for communities, who won't like to hear that a small problem will take 6 years to litigate--and even then, the executive branch, even under a judge's order, can delay and obstruct any decision.

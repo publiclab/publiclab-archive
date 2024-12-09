@@ -14,6 +14,8 @@ by [Bee](../profile/Bee) September 20, 2022 16:41
 
 September 20, 2022 16:41 | Tags: [first-time-poster](../tag/first-time-poster), [zoom:10](../tag/zoom:10), [lat:46](../tag/lat:46), [mn-land-manoomin-protection](../tag/mn-land-manoomin-protection), [lon:-94](../tag/lon:-94)
 
+----
+
 This Public Lab fellowship project's purpose is to prevent two new extractive industries from building and operating in northern Minnesota. The Huber OSB Factory and the Talon/Rio-Tinto Mine are threatening the same communities, lands, and waters that Enbridge's Line 3 pipeline currently threatens. As a community member in Aitkin County and as a frontline activist in the resistance against the Line 3 pipeline, I want to provide some social context around this fellowship and its connection to the Line 3 resistance.  
   
 **The Line 3 Expansion Pipeline and Resistance**  

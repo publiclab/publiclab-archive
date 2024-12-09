@@ -8,11 +8,15 @@ uid: 428096
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/007/240/original/IMG_3506.JPG)
+
 # Conductivity Results, Group 1 EmersonDataViz 
 
 by [ElizabethGillis](../profile/ElizabethGillis) October 01, 2014 15:55
 
 October 01, 2014 15:55 | Tags: [boston](../tag/boston), [conductivity](../tag/conductivity), [coqui](../tag/coqui), [first-time-poster](../tag/first-time-poster)
+
+----
 
 Group 1: Elizabeth Gillis and Amanda Gomez 
 

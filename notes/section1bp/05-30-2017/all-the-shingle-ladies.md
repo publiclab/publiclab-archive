@@ -8,11 +8,15 @@ uid: 506910
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/020/578/original/IMG_0566.JPG)
+
 # All the Shingle Ladies 
 
 by [section1bp](../profile/section1bp) May 30, 2017 16:16
 
 May 30, 2017 16:16 | Tags: [balloon-mapping](../tag/balloon-mapping), [event](../tag/event), [hidden:response](../tag/hidden:response), [response:14179](../tag/response:14179), [roof](../tag/roof), [shingle](../tag/shingle), [dorm](../tag/dorm)
+
+----
 
 All The Shingle Ladies
 

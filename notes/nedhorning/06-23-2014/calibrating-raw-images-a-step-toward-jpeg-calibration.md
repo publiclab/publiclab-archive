@@ -8,11 +8,15 @@ uid: 133
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/004/950/original/RedNIR_Plots.png)
+
 # Calibrating raw images - a step toward JPEG calibration?
 
 by [nedhorning](../profile/nedhorning) June 23, 2014 16:01
 
 June 23, 2014 16:01 | Tags: [ndvi](../tag/ndvi), [nir](../tag/nir), [calibration](../tag/calibration), [response:10389](../tag/response:10389)
+
+----
 
 ##Introduction
 In this research note I'll go over some calibration tests I've been doing using RAW format images from my Canon A2200 with a red Wratten 25A filter in place of the hot mirror. A raw image is an image that represents the signal recorded by a camera's sensor and has not been  modified to make an aesthetically pleasing image often output in a JPEG format. Working with raw images has a number of advantages over processed JPEG images. A primary advantage for calibration is that the digital number (DN) recorded at the sensor has a linear relation to the intensity of light hitting the sensor. In other words, if the intensity of light hiting the sensor doubles the pixel value recorded in the raw image will also double. When an image is processed inside the camera to make a JPEG image that looks nice we loose that linear relationship. As noted in a previous research note ([http://publiclab.org/notes/nedhorning/05-01-2014/improved-diy-nir-camera-calibration](http://publiclab.org/notes/nedhorning/05-01-2014/improved-diy-nir-camera-calibration)) a gamma correction can be applied to the image so a linear relationship is established. It might be good to read that previous note since I'll refer to that frequently throughout this note.

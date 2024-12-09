@@ -8,11 +8,15 @@ uid: 46673
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/002/447/original/staff_at_LUMCON.jpg)
+
 # Help Public Lab raise $2,014 by 2014!
 
 by [Becki](../profile/Becki) December 23, 2013 19:49
 
 December 23, 2013 19:49 | Tags: [donation](../tag/donation)
+
+----
 
 **Did you know that in 2013 [www.publiclab.org](www.publiclab.org) was visited by over 236,000 people in 110 countries, from every continent except Antarctica?  **
  

@@ -3,6 +3,8 @@ uid: 41249
 created_at: 2016-09-09 14:17:28 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/7026f9b3b679cb53d9f40f467089b59e)
+
 # GroundworkNola
 
 

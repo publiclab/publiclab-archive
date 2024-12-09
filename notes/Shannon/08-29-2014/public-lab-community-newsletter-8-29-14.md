@@ -8,11 +8,15 @@ uid: 9
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/006/497/original/plots-logo-transparent.jpg)
+
 # Public Lab community newsletter 8.29.14
 
 by [Shannon](../profile/Shannon) August 29, 2014 14:49
 
 August 29, 2014 14:49 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
+
+----
 
 This week in the Public Lab community newsletter, get ready for events in Atlanta, New Orleans and Salisbury (Vermont) and participate in the upcoming OpenHour. Enjoy!
 

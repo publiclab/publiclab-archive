@@ -14,6 +14,8 @@ by [bhamster](../profile/bhamster)
 
 July 26, 2021 19:05 | Tags: 
 
+----
+
 _This draft wiki page is a work in progress!_
 
 <hr>
@@ -87,7 +89,7 @@ You can also find stormwater-related projects here: [https://publiclab.org/wiki/
 
 Questions tagged with `question:wastewater` will appear here
 
-[questions:wastewater]
+[wastewater](../../tag/question:wastewater)
 
 <br>
 
@@ -113,7 +115,7 @@ The Public Lab community is here to support people as they plan and carry out in
 
 Here are some activities you might want to try when starting to research wastewater pollution.
 
-[notes:grid:getting-started-wastewater]
+[grid:getting-started-wastewater](../../tag/grid:getting-started-wastewater)
 
 <br>
 
@@ -189,7 +191,7 @@ On that page, you’ll find information on monitoring some water quality charact
 
 Activities on Public Lab that have been tagged with `activity:wastewater` will appear here
 
-[activities:wastewater]
+[wastewater](../../tag/activity:wastewater)
 
 <br>
 

@@ -14,6 +14,8 @@ by [warren](../profile/warren) July 08, 2011 09:23
 
 July 08, 2011 09:23 | Tags: 
 
+----
+
 Megan Garber of the [Nieman Journalism Lab](http://www.niemanlab.org/2011/07/the-macgyver-method-with-news-challenge-funding-the-public-lab-is-building-up-its-civic-media-toolkit/) posted a writeup on our recent Knight News Challenge grant along with some thoughts on civic technologies:
 
 > During a year that found many of the winning KNC projects focused on data management, The Public Lab’s toolkit is something of an outlier. And that’s part of the point. “Knight is very interested in digital issues,” Warren notes; “but one thing that I think interested them about our project is that a lot of it is not digital — or not online, per se. The main activity we’re advocating is going to beaches and flying balloons.”

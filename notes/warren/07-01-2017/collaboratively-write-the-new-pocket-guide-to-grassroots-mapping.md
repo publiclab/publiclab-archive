@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/020/964/original/OI000024.jpg)
+
 # Collaboratively write the new Pocket Guide to Grassroots Mapping
 
 by [warren](../profile/warren) July 01, 2017 13:17
 
 July 01, 2017 13:17 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [kickstarter](../tag/kickstarter), [grassroots-mapping](../tag/grassroots-mapping), [guide](../tag/guide), [writing](../tag/writing), [booklet](../tag/booklet), [mini-kite-kit](../tag/mini-kite-kit), [mini-balloon-kit](../tag/mini-balloon-kit), [pocket-guide](../tag/pocket-guide), [collaborative-writing](../tag/collaborative-writing), [activity:guides](../tag/activity:guides), [activity:writing](../tag/activity:writing), [activity:translation](../tag/activity:translation)
+
+----
 
 As we gear up for the launch of our [new Mini Kite and Balloon Kits](http://kickstarter.com/projects/publiclab/kickstarter-gold-balloon-mapping-kits/), we're looking to revisit, revise, and update one of our most classic collaborative works -- the [Guide to Grassroots Mapping with Balloons and Kites](/wiki/guides).**(Update: **the pocket guide is [now published](https://store.publiclab.org/collections/mapping-kits/products/pocket-guide-to-grassroots-mapping "https://store.publiclab.org/collections/mapping-kits/products/pocket-guide-to-grassroots-mapping"), see links below - and [this Spanish edition](https://publiclab.org/notes/imvec/02-08-2020/guia-de-mapeo-colectivo-con-globos-y-cometas-en-espanol)!)
 

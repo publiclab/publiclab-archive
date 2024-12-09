@@ -14,6 +14,8 @@ by [jfrankamp](../profile/jfrankamp) October 11, 2016 17:21
 
 October 11, 2016 17:21 | Tags: [filter](../tag/filter), [air-quality](../tag/air-quality), [dust](../tag/dust), [carbon](../tag/carbon), [question:air-quality](../tag/question:air-quality), [indoor-air-quality](../tag/indoor-air-quality), [indoor-air](../tag/indoor-air), [question:open-air](../tag/question:open-air), [active-carbon](../tag/active-carbon), [question:dust-sampling](../tag/question:dust-sampling)
 
+----
+
 ###What I want to do or know
 
 For the purpose of this question assume the activated carbon is a typical fish tank product like used in the plant air remediation build, with particle size of (guessing?) 2mm-5mm, and the carbon is also most likely very moist but not submerged.

@@ -14,6 +14,8 @@ by [Alex-McCarthy](../profile/Alex-McCarthy) May 30, 2011 14:35
 
 May 30, 2011 14:35 | Tags: [spectrometer](../tag/spectrometer), [uv](../tag/uv), [urop](../tag/urop), [fluorescence](../tag/fluorescence), [pah](../tag/pah)
 
+----
+
 The semester has ended, and so has my research with the PLOTs spectrometer, which will be picked up this summer by another student.
 I thought I would post a general outline of what I accomplished this (half) semester, and where I would have gone next.
 

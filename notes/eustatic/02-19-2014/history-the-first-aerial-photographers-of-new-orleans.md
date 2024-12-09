@@ -8,11 +8,15 @@ uid: 379
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/002/943/original/RichC_annotated_NOLA.png)
+
 # History:  the first aerial photographers of New Orleans
 
 by [eustatic](../profile/eustatic) February 19, 2014 05:36
 
 February 19, 2014 05:36 | Tags: [gulf-coast](../tag/gulf-coast)
+
+----
 
 From Richard Campanella:
 

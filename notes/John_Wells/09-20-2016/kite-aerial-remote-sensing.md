@@ -8,11 +8,15 @@ uid: 372
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/018/089/original/thermalkap.jpg)
+
 # Kite Aerial Remote Sensing (KARS) - Thermal Infra-Red.
 
 by [John_Wells](../profile/John_Wells) September 20, 2016 02:18
 
 September 20, 2016 02:18 | Tags: [thermal-photography](../tag/thermal-photography), [kite-mapping](../tag/kite-mapping), [aerial-photography](../tag/aerial-photography), [archaeology](../tag/archaeology), [flir](../tag/flir), [thermography](../tag/thermography), [kite-aerial-thermography](../tag/kite-aerial-thermography), [activity:thermal-photography](../tag/activity:thermal-photography)
+
+----
 
 In 2013 [we](http://westlothianarchaeology.org.uk/) formalised our donations of aerial photography equipment by setting up the [Scottish National Aerial Photography Scheme](http://armadale.org.uk/snaps.htm). Our initial donations, starting in 2009, consisted mainly of [cameras with poles](http://www.armadale.org.uk/pole.htm).
 Our aim has been to introduce students of all ages, primary school to PhD, and local archaeology and other groups, to aerial photography. We have donated well over 200 KAP kits.

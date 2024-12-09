@@ -8,11 +8,15 @@ uid: 12
 
 ---
 
+![](https://publiclab.org/sites/default/files/2011-6-22-massachusetts-cambridge-mit-knightcivicmediaconference-PREVIEW.jpg)
+
 # seamless distortion?
 
 by [gonzoearth](../profile/gonzoearth) July 15, 2011 03:10
 
 July 15, 2011 03:10 | Tags: 
+
+----
 
 This map was made from a vertical balloon flight where the camera did not move horizontally around the scene. It is important to use the ground level as the common denominator when registering the imagery. 
 

@@ -8,11 +8,15 @@ uid: 508551
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/023/166/original/image.png)
+
 # Conductivity of Water and Community Science
 
 by [gilbert](../profile/gilbert)
 
 December 20, 2017 22:01 | Tags: [water-sensing](../tag/water-sensing), [water-quality](../tag/water-quality), [conductivity](../tag/conductivity), [community-science](../tag/community-science), [parent:water-quality](../tag/parent:water-quality)
+
+----
 
 ****[](https://archive.epa.gov/water/archive/web/html/vms59.html)**Conductivity of Water and Community Science**
 

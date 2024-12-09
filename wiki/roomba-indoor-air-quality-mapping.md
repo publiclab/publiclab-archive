@@ -14,6 +14,8 @@ by [warren](../profile/warren)
 
 July 23, 2011 14:01 | Tags: [dust](../tag/dust), [roomba](../tag/roomba), [air-quality-projects](../tag/air-quality-projects)
 
+----
+
 ##Experiment 1:##
 
 sensitivity of both sensors: Formaldehyde (https://docs.google.com/viewer?a=v&pid=explorer&chrome=true&srcid=1-K4gN6A1gRYLsO2pzVizXIoSoCyiftA6V7rD1s2Al2PFQR6CPSpR_hqFQdIf&hl=en_US) and VOCs (http://www.futurlec.com/Datasheet/Sensor/MQ-135.pdf)

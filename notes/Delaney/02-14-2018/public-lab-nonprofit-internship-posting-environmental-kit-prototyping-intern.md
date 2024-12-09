@@ -8,11 +8,15 @@ uid: 517173
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/023/655/original/PublicLab.png)
+
 # Public Lab nonprofit internship posting: Environmental Kit Prototyping Intern
 
 by [Delaney](../profile/Delaney) February 14, 2018 20:05
 
 February 14, 2018 20:05 | Tags: [kits](../tag/kits), [nonprofit](../tag/nonprofit), [jobs](../tag/jobs), [autodesk](../tag/autodesk), [prototyping-kits](../tag/prototyping-kits)
+
+----
 
 **Project location:** Providence, Rhode Island
 

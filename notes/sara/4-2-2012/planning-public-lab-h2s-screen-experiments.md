@@ -14,6 +14,8 @@ by [sara](../profile/sara) April 02, 2012 20:15
 
 April 02, 2012 20:15 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s), [h2s-photopaper](../tag/h2s-photopaper)
 
+----
+
 We are beginning to plan a set of lab based experiments with our three current hydrogen sulfide sensing projects: the photographic paper assay, the copper pipe recently described by TXsharon and the digital sensor:
 
 <strong>Notes for our experiment set up:</strong>

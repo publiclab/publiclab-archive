@@ -14,6 +14,8 @@ by [Shannon](../profile/Shannon), [sara](../profile/sara)
 
 March 13, 2012 21:39 | Tags: [locked](../tag/locked)
 
+----
+
 **Works Cited**
 
 Banks, Sarah, Andrea Armstrong, Kathleen Carter, Helen Graham, Peter Hayward, Alex Henry, Tessa Holland, Claire Holmes, Amelia Lee, and Ann McNulty. “Everyday Ethics in Community-Based Participatory Research.” Contemporary Social Science 8, no. 3 (2013): 263–277.

@@ -14,6 +14,8 @@ by [warren](../profile/warren), [olafur](../profile/olafur), [gonzoearth](../pro
 
 March 11, 2012 07:33 | Tags: [mapknitter](../tag/mapknitter), [help](../tag/help), [needs-revision](../tag/needs-revision), [tutorial](../tag/tutorial), [parent:mapknitter](../tag/parent:mapknitter), [exporting](../tag/exporting)
 
+----
+
 Learn how to export your completed maps in GeoTiff, TMS/OpenLayers, and JPG formats, and how to tune your export resolution to optimize for size. Learn to use advanced options to see the range of possible resolutions, and avoid exporting at excessively high resolutions.
 
 ### Cloud Exporting

@@ -8,11 +8,15 @@ uid: 54025
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/015/581/original/STest_0-15BluDistrib.gif)
+
 # Spectrometer Noise
 
 by [stoft](../profile/stoft) April 16, 2016 07:01
 
 April 16, 2016 07:01 | Tags: [spectrometer](../tag/spectrometer), [webcam](../tag/webcam), [desktop-spectrometer](../tag/desktop-spectrometer), [barnstar:empiricism](../tag/barnstar:empiricism), [noise-reduction](../tag/noise-reduction), [signal-to-noise-ratio](../tag/signal-to-noise-ratio), [stability](../tag/stability), [noise](../tag/noise), [averaging](../tag/averaging)
+
+----
 
 **Abstract**
 

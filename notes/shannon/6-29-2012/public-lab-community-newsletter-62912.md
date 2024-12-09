@@ -14,6 +14,8 @@ by [Shannon](../profile/Shannon) June 29, 2012 19:21
 
 June 29, 2012 19:21 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
 
+----
+
 Greetings! Lots of great news this week as we welcome a new Public Lab intern, begin hosting MapKnitter learning sessions via Skype, continue our hot pursuit for helium sources and wrap up the first field test of photostrips for sensing hydrogen sulfide. Enjoy!
 
 1) Last call for Sunday kite workshop in NYC! Join Public Lab to learn about [bamboo and tyvek kite and solar balloon](http://publiclaboratory.org/wiki/bambootyvek-kite-and-solar-balloon-construction-workshop) construction in Brooklyn this weekend.  

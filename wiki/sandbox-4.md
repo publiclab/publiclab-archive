@@ -14,6 +14,8 @@ by [warren](../profile/warren)
 
 February 04, 2019 23:24 | Tags: [stories-test](../tag/stories-test)
 
+----
+
 <link rel="stylesheet" href="https://idurar.github.io/vanilla-js-modal/src/modal.css" />
 <script src="https://idurar.github.io/vanilla-js-modal/src/modal.js"></script>
 

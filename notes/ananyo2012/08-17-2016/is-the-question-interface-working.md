@@ -14,6 +14,8 @@ by [ananyo2012](../profile/ananyo2012) August 17, 2016 17:05
 
 August 17, 2016 17:05 | Tags: [answered](../tag/answered), [question:question](../tag/question:question)
 
+----
+
 I have some doubts on the new question interface
 
      def test

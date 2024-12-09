@@ -3,6 +3,8 @@ uid: 728980
 created_at: 2020-11-09 12:43:20 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/807e953f854ad3279ef2016bd1e3cfae)
+
 # dariusjack
 
 

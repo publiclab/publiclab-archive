@@ -8,11 +8,15 @@ uid: 12
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/000/353/original/Boots-ground-02.png)
+
 # Public Lab Weekly Community Newsletter 5.19.13
 
 by [gonzoearth](../profile/gonzoearth) May 20, 2013 05:08
 
 May 20, 2013 05:08 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
+
+----
 
 A busy week in the community including a compelling story of grassroots mapping in Uganda and some amazing spectrometry research.
 

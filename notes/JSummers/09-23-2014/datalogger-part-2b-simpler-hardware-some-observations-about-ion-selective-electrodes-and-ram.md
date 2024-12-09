@@ -8,11 +8,15 @@ uid: 304279
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/006/987/original/EagleBoardDataLogger4.png)
+
 # Datalogger part 2b, simpler hardware, some observations about ion selective electrodes, and RAM.
 
 by [JSummers](../profile/JSummers) September 23, 2014 20:30
 
 September 23, 2014 20:30 | Tags: [datalogger](../tag/datalogger), [response:10288](../tag/response:10288), [data-logging](../tag/data-logging)
+
+----
 
 ###What I want to do
 This note follows up on an earlier note found [here](http://publiclab.org/notes/JSummers/04-09-2014/datalogger-part-2-hardware-design).  In the earlier note, I presented a design for a datalogger that I hoped would be compatible with analog probes sold by Vernier instruments.  Specifically, I had hoped to interface the Vernier pH probe with a computer by building an amplifying shield for my microcontroller board of choice, the TI launchpad.  Put simply, the earlier design failed to work, and it failed to work because I had not done my homework on the Vernier design.  

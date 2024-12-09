@@ -8,11 +8,15 @@ uid: 489504
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/018/431/original/IMAG2073.JPG)
+
 # A month in the field and nothing to show
 
 by [bkleist](../profile/bkleist) October 19, 2016 03:09
 
 October 19, 2016 03:09 | Tags: [sand](../tag/sand), [photo-monitoring](../tag/photo-monitoring), [wisconsin](../tag/wisconsin), [timelapse](../tag/timelapse), [camera](../tag/camera), [mining](../tag/mining), [silica](../tag/silica), [frac-sand](../tag/frac-sand), [mobius](../tag/mobius), [mid-west](../tag/mid-west), [parent:frac-sand](../tag/parent:frac-sand)
+
+----
 
 I am sorry for such a delay in posts, I recently got a sustainability internship and have been working a lot of hours there. Additionally, we deployed the Mobius Actioncam for a month and a half duration in a small town in Wisconsin, and just recently retrieved it. 
 

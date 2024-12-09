@@ -14,6 +14,8 @@ by [warren](../profile/warren)
 
 November 19, 2012 17:35 | Tags: 
 
+----
+
 ###Shannon###
 * Goals: Insurance packet review, CPA review, evals completed, post note on Bienvenue, meetings, dev. mgr. hire, TAC/mt. justice/coal meetings, Kickstarter surveys, begin January meeting planning, OpenDisrupt, budgets, staff meeting wrap up, grant help?
 * Accomplishments: HHS and WWF meetings since last staff meeting, reimbursements, timesheets

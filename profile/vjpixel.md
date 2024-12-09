@@ -3,6 +3,8 @@ uid: 420617
 created_at: 2014-02-04 21:40:51 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/420617/medium/pixel_poa.jpg)
+
 # vjpixel
 
 I had started my artistic work in 2002, and in 2012 I created Experimentações EletrOrgânicas [0], a nomad lab focused in the relation between people and the environment. Since 2004 I'm part of MetaReciclagem [1], a network focused in appropriation of technology. I'm one of the founders of Garoa Hacker Clube [1], the first hackerspace in Brazil, worked as tech manager at ecoLab, where InfoAmazonia [1] and Mapas Coletivos[2] projects where created, and now I'm coordinating Rede InfoAmazonia [3], a project that will use sensors to measure water quality in some places in Amazonia.

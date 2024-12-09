@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/012/766/original/BarnRaisins.jpg)
+
 # Harry Collins and his Sociologist Stones
 
 by [cfastie](../profile/cfastie) November 17, 2015 00:15
 
 November 17, 2015 00:15 | Tags: [leaffest](../tag/leaffest), [barnraising](../tag/barnraising), [philosophy](../tag/philosophy), [leaffest2015](../tag/leaffest2015), [barnrising2015](../tag/barnrising2015), [expertise](../tag/expertise)
+
+----
 
 Liz Barry has been organizing a discussion about expertise at the upcoming Public Lab Barnraising this weekend. She has been prompting everyone with readings from Harry Collins’ [*Are We All Scientific Experts Now*](https://books.google.com/books/about/Are_We_All_Scientific_Experts_Now.html?id=5n5PAwAAQBAJ&printsec=frontcover&source=kp_read_button#v=onepage&q&f=false). Liz also moderated a [Google Hangout]( https://www.youtube.com/watch?v=lnKYVc4xmXw&feature=youtu.be) with Daniel Sarewitz of [The Consortium for Science, Policy, and Outcomes](http://cspo.org/people/sarewitz-daniel/). 
 

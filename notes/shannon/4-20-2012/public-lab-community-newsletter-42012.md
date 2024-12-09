@@ -14,6 +14,8 @@ by [Shannon](../profile/Shannon) April 20, 2012 16:54
 
 April 20, 2012 16:54 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
 
+----
+
 In an effort to keep the Public Lab community up-to-date on some of the things that are happening off-list, we've decided to being compiling a quick email on Fridays to keep everyone appraised of the top six things the Public Lab community has accomplished in the last week or events in the foreseeable future. If you want to contribute topics, please send your thoughts to me by 5pm on Thursdays. That said, for this week, below are some of the highlights:
 
 1. Google announcement! Yes, the list has been talking about this for the last week, but if for some reason you missed it, Public Lab released public domain maps onto Google Earth and has been blogged about in a few different publications including Gizmodo and Engadget. For more information, you can read the formal press release or check out the Google Lat Long blog post written by Christiaan Adams from Google Earth Outreach.

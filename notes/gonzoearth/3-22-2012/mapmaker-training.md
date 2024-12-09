@@ -8,11 +8,15 @@ uid: 12
 
 ---
 
+![](https://publiclab.org/sites/default/files/6939415409_f5ec501e63.jpg)
+
 # MapMaker Training
 
 by [gonzoearth](../profile/gonzoearth) March 22, 2012 04:20
 
 March 22, 2012 04:20 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping)
+
+----
 
 ##After flying it's time to make a map!##
 * Get started at [MapKnitter](MapKnitter.org) where you can start a project and use MapKnitter help to begin learning how to stitch or "georectify" the imagery into a orthomosaic vertical map. 

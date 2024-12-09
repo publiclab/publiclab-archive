@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/001/382/original/leaffestest-216-41.jpg)
+
 # FungalFest
 
 by [cfastie](../profile/cfastie) September 03, 2013 17:27
 
 September 03, 2013 17:27 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [vermont](../tag/vermont), [leaffest](../tag/leaffest), [infragram](../tag/infragram), [leaffest2013](../tag/leaffest2013), [fungus](../tag/fungus)
+
+----
 
 It's been a damp summer, and last week was wet. So there are mushrooms popping up everywhere. There is some [LEAFFEST](http://publiclab.org/notes/cfastie/08-29-2013/l-e-a-f-f-e-s-t-2013) interest in mushrooms, and it looks like this weekend will be a good time to find them. The light was fading when I took these photos behind the house, but I was surprised how poorly the Infragrams separated photosynthetic from non-photosynthetic tissue. This might require more investigation at LEAFFEST. Please register if you would like to join us: <a href="http://www.eventbrite.com/event/8071553233?ref=ebtn" target="_blank"><img src="http://www.eventbrite.com/custombutton?eid=8071553233" alt="Eventbrite - LEAFFEST 2013" /></a>
 

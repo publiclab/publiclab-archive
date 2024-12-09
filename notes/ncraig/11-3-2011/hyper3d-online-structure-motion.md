@@ -8,11 +8,15 @@ uid: 15
 
 ---
 
+![](https://publiclab.org/sites/default/files/IMG_1384.JPG)
+
 # Hypr3D: Online Structure from Motion
 
 by [ncraig](../profile/ncraig) November 03, 2011 17:37
 
 November 03, 2011 17:37 | Tags: [first-time-poster](../tag/first-time-poster)
+
+----
 
 <a href="https://www.hypr3d.com/">Hypr3D</a> is a web service that permits the computation, display, and download of dense 3D models based on a set of photographs. I have tested the system with KAP images and found that the system produced good results. Models can be displayed online using their interface, or models can be downloaded for view and manipulation in packages like <a href="http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CCEQFjAA&url=http%3A%2F%2Fmeshlab.sourceforge.net%2F&ei=W9CyToe_Mcje0QG7-72MBA&usg=AFQjCNE7qGOhi_Zv3qdOTAChyun27nRNVQ&sig2=zURwD_bEg06AQ0cgT3MyUg">MeshLab</a>. Hypr3D may serve as a no-cost alternative to commercial applications like AgiSoft's <a href="http://www.agisoft.ru/products/photoscan/">PhotoScan</a>.
 

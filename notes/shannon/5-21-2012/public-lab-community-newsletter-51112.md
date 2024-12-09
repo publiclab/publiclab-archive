@@ -14,6 +14,8 @@ by [Shannon](../profile/Shannon) May 21, 2012 14:26
 
 May 21, 2012 14:26 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
 
+----
+
 Mapping trips in Louisiana and California, an incredible amount of work done on the infrared/visible camera rig and beautiful community-generated maps printed directly from MapKnitter... that's what the Public Lab community has in store this week!
 
 1) Infrared camera documentation is coming together. There have been a bunch of great notes (some highlighted below) posted in the last week, but an overview and guide can be found [here](http://publiclaboratory.org/wiki/dual-camera-kit-guide). 

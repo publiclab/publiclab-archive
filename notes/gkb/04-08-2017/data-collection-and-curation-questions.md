@@ -14,6 +14,8 @@ by [gkb](../profile/gkb) April 08, 2017 23:51
 
 April 08, 2017 23:51 | Tags: [question:data-collection](../tag/question:data-collection), [curation](../tag/curation), [question:data-sharing](../tag/question:data-sharing), [question:metadata](../tag/question:metadata)
 
+----
+
 You have a data archive for maps. You are planning to have a data archive for water quality. For your water quality database: 
 --The goal is to reliably monitor water conditions in real-time, and provide remote access to that data.  
 --Pilot projects included communities in West Virginia and Colombia who deployed conductivity and temperature  sensors in river networks, and monitored the live data through remote access.   

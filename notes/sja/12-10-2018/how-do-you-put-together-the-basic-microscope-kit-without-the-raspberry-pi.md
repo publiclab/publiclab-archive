@@ -14,4 +14,6 @@ by [sja](../profile/sja) December 10, 2018 19:29
 
 December 10, 2018 19:29 | Tags: [webcam](../tag/webcam), [microscope](../tag/microscope), [question:general](../tag/question:general), [community-kits](../tag/community-kits), [optics](../tag/optics), [community-microscope](../tag/community-microscope), [first-time-poster](../tag/first-time-poster), [response:16310](../tag/response:16310)
 
+----
+
 I am really disappointed--there are no clear instructions on how to put the Kickstarter basic kit together.  It is very frustrating.

@@ -8,11 +8,15 @@ uid: 379
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/002/089/original/CAM00317.jpg)
+
 # [organizing] Mapknitters Gulf Coast --first meeting
 
 by [eustatic](../profile/eustatic) October 31, 2013 23:13
 
 October 31, 2013 23:13 | Tags: [gulf-coast](../tag/gulf-coast), [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [mapknitter](../tag/mapknitter), [blog](../tag/blog), [mapknitters](../tag/mapknitters)
+
+----
 
 ###what's up
 

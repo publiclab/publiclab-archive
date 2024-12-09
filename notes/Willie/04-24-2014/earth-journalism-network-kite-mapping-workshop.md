@@ -8,11 +8,15 @@ uid: 235174
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/003/853/original/Richmond.png)
+
 # Earth Journalism Network Kite Mapping Workshop
 
 by [willie](../profile/willie) April 24, 2014 19:01
 
 April 24, 2014 19:01 | Tags: [norcal](../tag/norcal), [event](../tag/event), [replication:14022](../tag/replication:14022)
+
+----
 
 ###Event details
 

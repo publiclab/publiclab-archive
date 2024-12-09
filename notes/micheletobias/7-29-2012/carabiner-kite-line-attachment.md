@@ -14,6 +14,8 @@ by [MicheleTobias](../profile/MicheleTobias) July 29, 2012 22:06
 
 July 29, 2012 22:06 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-aerial-photography](../tag/kite-aerial-photography), [photo-rig](../tag/photo-rig), [flying](../tag/flying)
 
+----
+
 <a href="https://www.flickr.com/photos/51797249@N05/7671985972/" title="IMG_4834 by ClammyStewart, on Flickr"><img src="https://farm9.staticflickr.com/8163/7671985972_9ba212549f.jpg" width="500" height="375" alt="IMG_4834"></a>
 
 If you need to attach a camera to your kite or balloon line, you can use commercially available line clips, or you can just use a carabiner.  Carabiners are easier to find and they don't weaken the strength of the line.  Simply wrap the line a few times around one side of the carabiner and as long as the line is under tension, the carabiner doesn't move.  

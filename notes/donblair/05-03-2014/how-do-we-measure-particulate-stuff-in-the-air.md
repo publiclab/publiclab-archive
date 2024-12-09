@@ -8,11 +8,15 @@ uid: 43651
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/004/021/original/figD1.png)
+
 # How do we measure particulate stuff in the air?
 
 by [donblair](../profile/donblair) May 03, 2014 12:53
 
 May 03, 2014 12:53 | Tags: [particulate-sensing](../tag/particulate-sensing), [dust](../tag/dust), [particulate](../tag/particulate), [pm](../tag/pm), [optical-pm](../tag/optical-pm), [wind-sensor](../tag/wind-sensor), [as220-wind-sensors](../tag/as220-wind-sensors)
+
+----
 
 ###What I want to do
 

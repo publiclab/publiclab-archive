@@ -8,11 +8,15 @@ uid: 752053
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/043/679/original/water_hyacinth_no.jpg)
+
 # Invasive Species - New Orleans
 
 by [jthomas](../profile/jthomas) May 05, 2021 21:00
 
 May 05, 2021 21:00 | Tags: [gulf-coast](../tag/gulf-coast), [louisiana](../tag/louisiana), [invasive-species](../tag/invasive-species), [lat:30](../tag/lat:30), [first-time-poster](../tag/first-time-poster), [zoom:14](../tag/zoom:14), [lon:-90.12](../tag/lon:-90.12)
+
+----
 
 ### Introduction:
 

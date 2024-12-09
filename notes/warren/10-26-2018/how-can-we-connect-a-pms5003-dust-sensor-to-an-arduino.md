@@ -14,6 +14,8 @@ by [warren](../profile/warren) October 26, 2018 16:50
 
 October 26, 2018 16:50 | Tags: [arduino](../tag/arduino), [air-quality](../tag/air-quality), [question:air-quality](../tag/question:air-quality), [answered](../tag/answered), [question:arduino](../tag/question:arduino), [question:air-sensors](../tag/question:air-sensors), [purpleair](../tag/purpleair), [question:indoor-air](../tag/question:indoor-air), [question:purpleair](../tag/question:purpleair), [purple-air](../tag/purple-air), [wiring](../tag/wiring)
 
+----
+
 Are there some code and wiring diagrams folks have found to connect one of these Plantower sensors (that is inside the Purple Air) to an Arduino? And how to read the data off of it? 
 
   

@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/017/240/original/Screenshot_2016-07-26_at_1.24.50_PM.png)
+
 # Last week in Google Summer of Code
 
 by [warren](../profile/warren) July 26, 2016 17:30
 
 July 26, 2016 17:30 | Tags: [website](../tag/website), [software](../tag/software), [gsoc](../tag/gsoc), [developers](../tag/developers), [coding](../tag/coding), [wwg](../tag/wwg), [gsoc-2016](../tag/gsoc-2016), [webjack](../tag/webjack), [618](../tag/618), [600](../tag/600), [response:13299](../tag/response:13299)
+
+----
 
 Hi, all -- a smaller update after [last week's][1] (which included three weeks worth of changes!). Upgrades continue apace, and a major relaunch of our search functionality is on the horizon. 
 

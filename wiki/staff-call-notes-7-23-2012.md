@@ -14,6 +14,8 @@ by [warren](../profile/warren)
 
 July 30, 2012 16:40 | Tags: 
 
+----
+
 ###Adam###
 * Goals: reimbursements, follow up on workshop in Shenandoah, time sheets, case study on grant with Denizen Media
 Accomplished: weekend workshop in VA, met with GIS prof from Roanoke College - Katherine O’Neill

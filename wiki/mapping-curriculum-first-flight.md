@@ -14,6 +14,8 @@ by [warren](../profile/warren), [gonzoearth](../profile/gonzoearth)
 
 July 19, 2011 18:41 | Tags: [curriculum](../tag/curriculum), [parent:mapping-curriculum](../tag/parent:mapping-curriculum), [mapping-curriculum](../tag/mapping-curriculum)
 
+----
+
 *As part of the [Grassroots Mapping Curriculum](/wiki/mapping-curriculum) series.*
 
 Getting started in the field. Quick checklist before going out to do actual field work:

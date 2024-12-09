@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/6831657511_d6af55523f_b.jpg)
+
 # Air-testing hamster ball progress
 
 by [warren](../profile/warren) February 06, 2012 20:45
 
 February 06, 2012 20:45 | Tags: [hamster-ball](../tag/hamster-ball), [air-quality](../tag/air-quality), [openlux](../tag/openlux), [roomba](../tag/roomba), [hamster](../tag/hamster), [lego](../tag/lego), [response:710](../tag/response:710), [air-sensors](../tag/air-sensors)
+
+----
 
 This is still a weird idea, but I sanded a hamster ball to make it diffuse an LED's light more evenly. This is an experiment to see if we can replace a Roomba with this simpler way of moving a sensor around a room. We can also gear it down to go slow enough that the sensor has time to get a good reading -- many gas sensors have 10-30 second latency so a Roomba is halfway across the room by the time the reading comes through.
 

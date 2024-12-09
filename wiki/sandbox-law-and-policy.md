@@ -14,6 +14,8 @@ by [bhamster](../profile/bhamster)
 
 July 07, 2020 15:55 | Tags: 
 
+----
+
 How do laws, regulations, policies, and community science affect each other? Community-collected data has the power to prompt local, state, or federal action by alerting government agencies to an issue. At the same time, laws will affect how community scientists can collect their data for maximum potential impact. 
 
 
@@ -48,7 +50,7 @@ _**What other resources related to law and policy would be helpful to collect he
 + Ask a question so other community members can offer support
 + Sign up below to be notified when someone asks a question about law and policy
 
-[questions:law-and-policy]
+[law-and-policy](../../tag/question:law-and-policy)
 
 <br>
 
@@ -56,7 +58,7 @@ _**What other resources related to law and policy would be helpful to collect he
 
 Activities on Public Lab that have been tagged with `law-and-policy` will appear here
 
-[activities:law-and-policy]
+[law-and-policy](../../tag/activity:law-and-policy)
 
 <br>
 
@@ -92,7 +94,7 @@ You can find the full posts on “Citizen Science Investigations: aka 'Common Le
 
 ### Evidence
 
-[notes:grid:series:evidence-project]
+[grid:series:evidence-project](../../tag/grid:series:evidence-project)
 
 <br>
 

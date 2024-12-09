@@ -8,11 +8,15 @@ uid: 509305
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/023/461/original/photo4.jpg)
+
 # Photometer Kit Breakdown
 
 by [programmer1200](../profile/programmer1200), [warren](../profile/warren)
 
 February 05, 2018 13:16 | Tags: [community-kits](../tag/community-kits), [new-community-kits](../tag/new-community-kits), [community-kits-prep](../tag/community-kits-prep)
+
+----
 
 More updates soon
 
@@ -66,7 +70,7 @@ In the kit the 3.3v and AREF will already be soldered for simplicity, in doing t
 
 Questions can be either frequently asked questions, or "next step" challenges we're looking to solve.
 
-[questions:tagname]
+[tagname](../../tag/question:tagname)
 
 ## Activities
 

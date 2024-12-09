@@ -8,11 +8,15 @@ uid: 420464
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/009/528/original/NH_aprilpostfront1.jpg)
+
 # Newtown Creek Workshop with Balloon Photography
 
 by [nameiswillis](../profile/nameiswillis) April 02, 2015 16:41
 
 April 02, 2015 16:41 | Tags: [new-york-city](../tag/new-york-city), [balloon-mapping](../tag/balloon-mapping), [newtown-creek](../tag/newtown-creek), [event](../tag/event), [event:rsvp](../tag/event:rsvp), [rsvp:liz](../tag/rsvp:liz), [date:04-12-2015](../tag/date:04-12-2015), [replication:14022](../tag/replication:14022)
+
+----
 
 
 http://www.newtowncreekalliance.org/april-12th-north-henry-st-workshop/

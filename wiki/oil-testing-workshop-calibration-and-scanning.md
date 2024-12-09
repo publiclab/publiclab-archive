@@ -14,6 +14,8 @@ by [warren](../profile/warren), [liz](../profile/liz)
 
 February 08, 2016 19:25 | Tags: [workshop](../tag/workshop), [oil-testing-kit](../tag/oil-testing-kit), [parent:oil-testing-workshops](../tag/parent:oil-testing-workshops)
 
+----
+
 _Drafted in January 2016 by Gretchen Gehrke, Stevie Lewis, Liz Barry._
 
 **Why (The Situation):** We want to calibrate the spectrometers we built. We want to prepare our oil samples for scanning. We want to learn how to use spectralworkbench.org. We want to scan known samples of oil to test the function of the equipment itself. We want to scan unknown samples and assemble their spectra into sets for comparing and contrasting with known samples to attempt categorization. 

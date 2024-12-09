@@ -14,6 +14,8 @@ by [mollydanielsson](../profile/mollydanielsson)
 
 March 20, 2015 23:45 | Tags: [design](../tag/design), [grassrootsmappingforum](../tag/grassrootsmappingforum), [trash](../tag/trash), [gmf-6](../tag/gmf-6), [style:fancy](../tag/style:fancy), [with:mathew](../tag/with:mathew)
 
+----
+
 by Mathew Lippincott
 
 Published **Q3 2014** in the [Grassroots Mapping Forum #6](http://publiclab.org/forum)

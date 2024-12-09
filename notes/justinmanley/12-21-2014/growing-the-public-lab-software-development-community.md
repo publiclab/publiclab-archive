@@ -8,11 +8,15 @@ uid: 421556
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/008/515/original/contributing.png)
+
 # Growing the Public Lab Software Development Community
 
 by [justinmanley](../profile/justinmanley) December 21, 2014 19:25
 
 December 21, 2014 19:25 | Tags: [community](../tag/community), [server](../tag/server), [software](../tag/software), [development](../tag/development), [software-deployment](../tag/software-deployment), [developers](../tag/developers), [barnstar:basic](../tag/barnstar:basic), [plots-dev](../tag/plots-dev), [contributing](../tag/contributing), [software-development](../tag/software-development), [deployment](../tag/deployment), [software-outreach](../tag/software-outreach)
+
+----
 
 I have become convinced over the past few months that Public Lab can improve the way we produce software.  Open source software developed by Public Lab - MapKnitter, Infragram, and SpectralWorkbench, to name a few of the most widely-used - powers much of the grassroots scientific research that is central to Public Lab's mission.  Despite this, contributions to Public Lab software come overwhelmingly from a tiny core cadre of developers.
 

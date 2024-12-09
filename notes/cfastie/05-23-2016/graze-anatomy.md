@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/016/256/original/Rye_20160522-5683.jpg)
+
 # Graze anatomy
 
 by [cfastie](../profile/cfastie) May 23, 2016 03:41
 
 May 23, 2016 03:41 | Tags: [ndvi](../tag/ndvi), [infrared](../tag/infrared), [filter](../tag/filter), [infragram](../tag/infragram), [plant-health](../tag/plant-health), [pole-photography](../tag/pole-photography), [pap](../tag/pap), [pole-aerial-photography](../tag/pole-aerial-photography), [pole-mapping](../tag/pole-mapping), [barnstar:basic](../tag/barnstar:basic), [kaptery](../tag/kaptery), [midopt](../tag/midopt), [aerobee](../tag/aerobee), [juno](../tag/juno), [grazing](../tag/grazing), [response:13028](../tag/response:13028), [pole-bracket](../tag/pole-bracket), [category:experiment](../tag/category:experiment), [activity:aerial-photography](../tag/activity:aerial-photography), [activity:multispectral-imaging](../tag/activity:multispectral-imaging), [activity:pole-mapping](../tag/activity:pole-mapping), [activity:crop-analysis](../tag/activity:crop-analysis)
+
+----
 
 [![2o2GardPAP.jpg](//i.publiclab.org/system/images/photos/000/016/257/medium/2o2GardPAP.jpg)](//i.publiclab.org/system/images/photos/000/016/257/original/2o2GardPAP.jpg)  
 *Above: In the month since I used infrared photos to determine if [deer grazing had reduced the vigor of the winter rye in my garden](https://publiclab.org/notes/cfastie/04-25-2016/pole-ndvi-of-deer-grazing), the rye has grown three feet taller.*

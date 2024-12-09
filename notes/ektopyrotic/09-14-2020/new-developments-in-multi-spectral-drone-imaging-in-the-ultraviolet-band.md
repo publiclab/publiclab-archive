@@ -8,11 +8,15 @@ uid: 699450
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/040/884/original/DJI_0880.JPG)
+
 # New Developments in Multi-Spectral Drone Imaging in the Ultraviolet Band
 
 by [ektopyrotic](../profile/ektopyrotic) September 14, 2020 17:41
 
 September 14, 2020 17:41 | Tags: [ultraviolet](../tag/ultraviolet), [mapping](../tag/mapping), [filter](../tag/filter), [camera](../tag/camera), [drone](../tag/drone), [aerial](../tag/aerial), [imaging](../tag/imaging), [activity:multispectral-imaging](../tag/activity:multispectral-imaging), [multispectral-imaging](../tag/multispectral-imaging), [lat:28](../tag/lat:28), [technology](../tag/technology), [inspection](../tag/inspection), [zoom:7](../tag/zoom:7), [environmental_monitoring](../tag/environmental_monitoring), [surveying](../tag/surveying), [lon:-15](../tag/lon:-15), [mutlispectral-imaging](../tag/mutlispectral-imaging)
+
+----
 
 See videos about this ongoing project here,
 

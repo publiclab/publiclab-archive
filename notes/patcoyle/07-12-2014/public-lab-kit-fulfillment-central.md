@@ -8,11 +8,15 @@ uid: 77
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/005/227/original/IMG_4753.JPG)
+
 # Public Lab Kit Fulfillment Central
 
 by [patcoyle](../profile/patcoyle) July 12, 2014 05:42
 
 July 12, 2014 05:42 | Tags: [portland](../tag/portland), [kits](../tag/kits), [staff](../tag/staff), [portland-oregon](../tag/portland-oregon)
+
+----
 
 ###What I want to do
 

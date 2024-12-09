@@ -8,11 +8,15 @@ uid: 421168
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/003/219/original/modellingpng)
+
 # Mapknitter 2.0
 
 by [xvidun](../profile/xvidun) March 12, 2014 20:39
 
 March 12, 2014 20:39 | Tags: [mapknitter](../tag/mapknitter), [auto-knitting](../tag/auto-knitting), [upload](../tag/upload), [interface](../tag/interface)
+
+----
 
 ##Mapkniiter 2.0:
 

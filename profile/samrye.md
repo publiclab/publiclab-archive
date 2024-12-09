@@ -3,6 +3,8 @@ uid: 513965
 created_at: 2017-09-08 01:51:00 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/681d86e490a756e6cd78f221cee51e9d)
+
 # samrye
 
 I have a background in environmental conservation, social enterprise, and strategic design.

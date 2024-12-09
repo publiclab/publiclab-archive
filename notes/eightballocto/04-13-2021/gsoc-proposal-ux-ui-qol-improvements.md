@@ -14,6 +14,8 @@ by [eightballocto](../profile/eightballocto) April 13, 2021 19:03
 
 April 13, 2021 19:03 | Tags: [software](../tag/software), [soc](../tag/soc), [lat:0](../tag/lat:0), [lon:0](../tag/lon:0), [first-time-poster](../tag/first-time-poster), [zoom:2](../tag/zoom:2), [gsoc-2021](../tag/gsoc-2021), [gsoc-2021-proposals](../tag/gsoc-2021-proposals)
 
+----
+
 # About me  
 
 My name is Michelle; I'm located in a quaint small town in South Dakota. I'm currently a student at Lake Area Technical Institute majoring in Computer Information Systems as a Programming Specialist. My specific interest in the field of programming/development is web development, both back-end and front-end.

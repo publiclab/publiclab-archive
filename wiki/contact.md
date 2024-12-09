@@ -14,6 +14,8 @@ by [thewrightjess](../profile/thewrightjess), [joyofsoy](../profile/joyofsoy), [
 
 October 11, 2013 19:41 | Tags: [staff](../tag/staff), [contact](../tag/contact), [lat:41](../tag/lat:41), [locked](../tag/locked), [location:blurred](../tag/location:blurred), [zoom:6](../tag/zoom:6), [place:usa](../tag/place:usa), [lon:29](../tag/lon:29)
 
+----
+
 If you have questions related to tools or want to suggest a project, we recommend that you start by checking out the [Welcome Page](https://publiclab.org/welcome) to understand how the Public Lab community works together and then post a question to the [Questions and Answers](https://publiclab.org/questions) page.
 
 ##Nonprofit Contacts

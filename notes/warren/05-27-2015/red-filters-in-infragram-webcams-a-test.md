@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/010/029/original/Screen_Shot_2015-05-27_at_3.53.41_PM.png)
+
 # Red filters in Infragram Webcams: a test
 
 by [warren](../profile/warren) May 27, 2015 19:54
 
 May 27, 2015 19:54 | Tags: [ndvi](../tag/ndvi), [webcam](../tag/webcam), [infragram](../tag/infragram), [plants](../tag/plants), [vegetation](../tag/vegetation), [infra-red](../tag/infra-red), [infrablue](../tag/infrablue), [test](../tag/test), [infragram-webcam](../tag/infragram-webcam), [response:10996](../tag/response:10996)
+
+----
 
 This test is nowhere near as comprehensive as the big one we did at LEAFFEST a few years ago, but I wanted to know if we could switch Infragram Webcams to red filters as we've begun to do with other Infragram conversions. I set up one of each and ran it through a couple test scenarios, but I'd like to ask folks input on if this seems to be working. 
 

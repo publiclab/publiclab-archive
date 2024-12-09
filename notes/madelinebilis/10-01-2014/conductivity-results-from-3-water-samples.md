@@ -8,11 +8,15 @@ uid: 428057
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/007/224/original/thumbnail.jpg)
+
 # Conductivity Results from 3 Water Samples
 
 by [madelinebilis](../profile/madelinebilis) October 01, 2014 02:36
 
 October 01, 2014 02:36 | Tags: [conductivity](../tag/conductivity), [open-water](../tag/open-water), [coqui](../tag/coqui), [response:11205](../tag/response:11205), [first-time-poster](../tag/first-time-poster)
+
+----
 
 by Ariana Marini and Madeline Bilis<br>
 In reference to three water samples described in a [previous research note.](http://publiclab.org/notes/amarini/09-29-2014/collect-3-water-samples-for-testing)

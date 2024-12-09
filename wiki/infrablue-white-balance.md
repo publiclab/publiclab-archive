@@ -14,6 +14,8 @@ by [warren](../profile/warren), [cfastie](../profile/cfastie)
 
 July 14, 2013 23:46 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [infrared](../tag/infrared), [white-balance](../tag/white-balance), [infragram](../tag/infragram), [parent:infragram](../tag/parent:infragram), [2007](../tag/2007), [74](../tag/74), [2008](../tag/2008)
 
+----
+
 White balance can be critical to getting good results with infrared converted cameras. 
 
 Images using a [red filter](/wiki/infragram-filters) should look roughly like the "GOOD" example below -- vegetation should appear generally pastel blue (for blue filters, see [this page](/wiki/infragram-filters)). An incorrectly white-balanced image such as the "BAD" example below may appear with an overall reddish tint. 
@@ -31,7 +33,7 @@ For each type of filter, red or blue, you get a different initial image, and a d
 
 Follow these activities to learn how to set white balance properly, or add your own if there's one missing. For Canon cameras, [see the steps listed below](#Canon):
 
-[activities:white-balance]
+[white-balance](../../tag/activity:white-balance)
 
 ****
 
@@ -39,7 +41,7 @@ Follow these activities to learn how to set white balance properly, or add your 
 
 There's been a great deal of research on the best white balance for [Infragram](/wiki/infragram) use; browse some of it here:
 
-[notes:white-balance]
+[white-balance](../../tag/white-balance)
 
 ****
 
@@ -47,7 +49,7 @@ There's been a great deal of research on the best white balance for [Infragram](
 
 Ask or help answer questions about white balance here! 
 
-[questions:white-balance]
+[white-balance](../../tag/question:white-balance)
 
 ****
 

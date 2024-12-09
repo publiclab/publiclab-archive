@@ -14,6 +14,8 @@ by [Shannon](../profile/Shannon) October 13, 2012 01:02
 
 October 13, 2012 01:02 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
 
+----
+
 This week in the Public Lab community newsletter... new maps from the Netherlands, upcoming workshops and calls to submit ideas for an environmentally focused hackathon, spectrometer updates and a posting for a new staff member to help support the quickly growing Public Lab community. Enjoy!
 
 1. Public Lab is hiring. The nonprofit arm of Public Lab is hiring a [Development Manager](http://publiclaboratory.org/wiki/job-posting-development-manager). If you or someone you know is interested in applying, the closing date is October 23rd and we're looking for a person to be based in New Orleans or Boston.

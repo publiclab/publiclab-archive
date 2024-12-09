@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/002/459/original/webcam.png)
+
 # Live webcam Infragramming, WebGL option
 
 by [warren](../profile/warren) December 28, 2013 20:03
 
 December 28, 2013 20:03 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [infragram](../tag/infragram), [infragram-sandbox](../tag/infragram-sandbox), [infragrammar](../tag/infragrammar), [webgl](../tag/webgl)
+
+----
 
 Working from Piotr's [great WebGL code](https://github.com/pfoltyn/infragram-js/) (which uses your GPU to accelerate Infragram calculations) theres now a WebGL option on [Infragram Sandbox](http://infragram.org/static/sandbox/):
 

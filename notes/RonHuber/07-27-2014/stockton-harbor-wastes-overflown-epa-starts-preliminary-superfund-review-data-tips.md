@@ -8,11 +8,15 @@ uid: 437
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/005/601/original/lh_071714_gac_cove_acidfactory_plumes6.jpg)
+
 # Stockton Harbor wastes overflown,  EPA starts  preliminary Superfund review! Data tips?
 
 by [ronhuber](../profile/ronhuber) July 27, 2014 04:26
 
 July 27, 2014 04:26 | Tags: [maine](../tag/maine), [northeast](../tag/northeast), [phosphogypsum](../tag/phosphogypsum), [bauxite](../tag/bauxite), [penobscot](../tag/penobscot), [bay](../tag/bay), [stockton](../tag/stockton), [harbor](../tag/harbor), [kidder](../tag/kidder), [point](../tag/point), [superphosphate](../tag/superphosphate), [gac](../tag/gac), [chemical](../tag/chemical)
+
+----
 
 ###  Exciting news!
 1. Our overflight of the Kidder Point waste site and tidal flat with [Project Lighthawk](http://www.lighthawk.org/) went without a hitch. 

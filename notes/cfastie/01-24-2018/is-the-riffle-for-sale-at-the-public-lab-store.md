@@ -8,10 +8,14 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/023/326/original/riffle_20180124-2580.JPG)
+
 # Is the Riffle for sale at the Public Lab Store?
 
 by [cfastie](../profile/cfastie) January 24, 2018 19:41
 
 January 24, 2018 19:41 | Tags: [kits](../tag/kits), [riffle](../tag/riffle), [open-water](../tag/open-water), [kits-initiative](../tag/kits-initiative), [question:riffle](../tag/question:riffle), [answered](../tag/answered), [community-kits](../tag/community-kits)
+
+----
 
 The [product description for the Riffle at the Public Lab Store](https://publiclab.myshopify.com/collections/water-monitoring/products/beta-widget?variant=36636505295) refers to placing orders in 2016 and is obviously out of date. Is the other information on that page correct? Are there Riffles in stock for purchase and timely shipping? Do they cost $60 or three for $120?

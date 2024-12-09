@@ -8,11 +8,15 @@ uid: 579821
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/032/980/original/Screen_Shot_2019-06-18_at_10.27.45_AM.png)
+
 # Creating a Box Plot to Identify Potential Outliers Using CODAP
 
 by [mimiss](../profile/mimiss) June 18, 2019 16:29
 
 June 18, 2019 16:29 | Tags: [data](../tag/data), [activity:education](../tag/activity:education), [environmental-data](../tag/environmental-data), [data-analysis](../tag/data-analysis), [data-logging-visualization](../tag/data-logging-visualization), [data-visualization](../tag/data-visualization), [activity:data-analysis](../tag/activity:data-analysis), [codap](../tag/codap), [presenting-data](../tag/presenting-data), [activity:presenting-data](../tag/activity:presenting-data)
+
+----
 
 [You can also access this as a Google Doc here](https://docs.google.com/document/d/181Q5Mry0WVmh5nQot8NaQ5nhlG22bj6Zr4zjcULEhsA/edit). Print or create a copy to follow along and record your observations.
 

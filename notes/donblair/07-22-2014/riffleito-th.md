@@ -8,11 +8,15 @@ uid: 43651
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/005/436/original/Riffleito_DHT22_Temp_20140722.png)
+
 # Riffleito-TH
 
 by [donblair](../profile/donblair) July 22, 2014 15:40
 
 July 22, 2014 15:40 | Tags: [riffle](../tag/riffle)
+
+----
 
 (Pronounced like you'd pronounce plural of "Riffleito", if your mouth were full of crackers.)
 

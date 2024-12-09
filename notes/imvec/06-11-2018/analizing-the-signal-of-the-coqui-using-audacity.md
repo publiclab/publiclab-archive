@@ -8,11 +8,15 @@ uid: 495038
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/025/194/original/bezoya_freq.png)
+
 # Analizing the signal of the Coqui using Audacity
 
 by [imvec](../profile/imvec) June 11, 2018 17:34
 
 June 11, 2018 17:34 | Tags: [water](../tag/water), [coqui](../tag/coqui), [gaimec](../tag/gaimec), [water-conductivity](../tag/water-conductivity), [activity:coqui-usage](../tag/activity:coqui-usage)
+
+----
 
 ### What I want to do
 Determine the frequency of the generated wave of a [Coqui device](https://publiclab.org/wiki/coqui).

@@ -8,11 +8,15 @@ uid: 422561
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/039/470/original/Screen_Shot_2020-05-20_at_9.54.44_AM.png)
+
 # Disaster-response
 
 by [bhamster](../profile/bhamster), [joyofsoy](../profile/joyofsoy), [stevie](../profile/stevie)
 
 November 26, 2019 18:44 | Tags: [disaster-preparedness](../tag/disaster-preparedness), [disaster-response](../tag/disaster-response)
+
+----
 
 Disaster preparedness and disaster response have come to the forefront of concerns for many climate vulnerable communities. Preparedness can include creating plans for what to do during a disaster and running practice exercises. Response includes personal, community, and government actions taken immediately after a disaster, like carrying out a disaster preparedness plan. Source: [FEMA Emergency Management Institute](https://training.fema.gov/)
 
@@ -32,10 +36,10 @@ Read more about the events in our community science publication here: [![27572.j
 
 
 ###Questions
-[questions:Disaster-response]
+[Disaster-response](../../tag/question:Disaster-response)
 
 ###Activities
-[activities:Disaster-response]
+[Disaster-response](../../tag/activity:Disaster-response)
 
 ###Research notes
-[notes:Disaster-response]
+[Disaster-response](../../tag/Disaster-response)

@@ -8,11 +8,15 @@ uid: 451398
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/044/054/original/Final.jpg)
+
 # Bucket Monitor Build: VVAMP
 
 by [sarasage](../profile/sarasage) June 10, 2021 22:14
 
 June 10, 2021 22:14 | Tags: [landfill](../tag/landfill), [air-quality](../tag/air-quality), [bucket-brigade](../tag/bucket-brigade), [new](../tag/new), [land-use](../tag/land-use), [draft](../tag/draft), [activity:air-quality](../tag/activity:air-quality), [bucket](../tag/bucket), [air-sampling](../tag/air-sampling), [activity:new](../tag/activity:new), [lat:34](../tag/lat:34), [lon:-118](../tag/lon:-118), [zoom:6](../tag/zoom:6), [zoom:9](../tag/zoom:9), [zoom:13](../tag/zoom:13), [bucket-monitor](../tag/bucket-monitor), [VVAMP](../tag/VVAMP), [bucket-kit](../tag/bucket-kit), [lat:34.452218](../tag/lat:34.452218), [lon:-118.652343](../tag/lon:-118.652343), [aire](../tag/aire), [monitoreo-aire](../tag/monitoreo-aire), [calidad-aire](../tag/calidad-aire), [with:denissebn_06](../tag/with:denissebn_06), [ensamblaje](../tag/ensamblaje), [cubeta](../tag/cubeta), [relleno-sanitario](../tag/relleno-sanitario), [lat:34.443441](../tag/lat:34.443441), [lon:-118.658231](../tag/lon:-118.658231)
+
+----
 
 [Haz click aqui para leer el contenido de esta página en español](https://publiclab.org/notes/show/26745/CghO5w5gKNXOopJDm_t6Wg#Construcci%C3%B3n+de+la+%22Cubeta%22+para+monitorear+calidad+de+aire:+VVAMP).
 

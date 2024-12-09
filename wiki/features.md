@@ -14,6 +14,8 @@ by [warren](../profile/warren), [stevie](../profile/stevie), [liz](../profile/li
 
 January 29, 2015 23:51 | Tags: [website](../tag/website), [website-utilities](../tag/website-utilities)
 
+----
+
 Features are a type of Node used for things like the front page, banners, footer text, and other content that is more infrastructural but change periodically. They are managed at https://publiclab.org/features. (admin only)
 
 Features are a type of Node kind of like notes, wiki pages, or questions -- but they are editable by admins only, and use raw HTML and **no markdown**. They are typically cached for quick loading, and can be inserted anywhere in the code to create a semi-permanent dynamic content area like a banner, explanatory text, etc. 

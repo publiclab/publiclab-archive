@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/004/485/original/unnamed.jpg)
+
 # June 1 Jamaica Bay wetland planting photography
 
 by [liz](../profile/liz) May 30, 2014 17:46
 
 May 30, 2014 17:46 | Tags: [new-york-city](../tag/new-york-city), [kite-mapping](../tag/kite-mapping), [wetlands](../tag/wetlands), [jamaica-bay](../tag/jamaica-bay), [northeast](../tag/northeast), [with:gwirth](../tag/with:gwirth), [place:rulers-bar-jamaica-bay](../tag/place:rulers-bar-jamaica-bay), [lat:40.610564](../tag/lat:40.610564), [lon:-73.821601](../tag/lon:-73.821601)
+
+----
 
 _Image courtesy the American Littoral Society_
 

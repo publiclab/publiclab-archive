@@ -14,6 +14,8 @@ by [milagarcia](../profile/milagarcia) July 31, 2020 13:53
 
 July 31, 2020 13:53 | Tags: [lon:1](../tag/lon:1), [first-time-poster](../tag/first-time-poster), [lat:10](../tag/lat:10), [zoom:10](../tag/zoom:10)
 
+----
+
 \*\*
 
 Case study

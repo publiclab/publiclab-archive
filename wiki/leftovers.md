@@ -14,6 +14,8 @@ by [warren](../profile/warren), [Shannon](../profile/Shannon)
 
 March 02, 2011 21:41 | Tags: 
 
+----
+
 This is a collection of text which we've cut from articles, essays, and grant applications but would like to reuse or repurpose. It's always rough to cut good writing so let's recycle!
 
 ----

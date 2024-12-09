@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/img_0470.jpg)
+
 # Links for rgb led thermometer
 
 by [warren](../profile/warren) November 24, 2011 17:45
 
 November 24, 2011 17:45 | Tags: 
+
+----
 
 http://www.ladyada.net/learn/sensors/thermistor.html
 

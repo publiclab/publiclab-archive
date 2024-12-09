@@ -8,11 +8,15 @@ uid: 515081
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/030/004/original/outreachy.png)
+
 # Call for Outreachy 2019 proposals!
 
 by [gauravano](../profile/gauravano) March 11, 2019 23:43
 
 March 11, 2019 23:43 | Tags: [software](../tag/software), [code](../tag/code), [with:warren](../tag/with:warren), [wwg](../tag/wwg), [software-outreach](../tag/software-outreach), [soc](../tag/soc), [outreachy](../tag/outreachy), [call-for-proposals](../tag/call-for-proposals), [proposals](../tag/proposals), [response:17359](../tag/response:17359), [call-](../tag/call-), [outreachy-2019](../tag/outreachy-2019)
+
+----
 
 With support from the [DIAL Open Source Center](https://osc.dial.community), we're again part of [Outreachy](http://outreachy.org) -- which recruits software contributors to work on open source projects:
 
@@ -67,12 +71,12 @@ You can also read through past proposals for Outreachy at [https://publiclab.org
 
 ## Proposals
 
-[notes:outreachy-2019-proposals]
+[outreachy-2019-proposals](../../tag/outreachy-2019-proposals)
 
 ---------
 
 ## Questions
 
-[questions:soc]
+[soc](../../tag/question:soc)
 
 Please ask questions! We're very friendly and we love welcoming new people into our community.

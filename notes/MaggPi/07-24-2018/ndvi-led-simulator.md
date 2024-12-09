@@ -8,11 +8,15 @@ uid: 501996
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/025/859/original/ndvi2.png)
+
 # NDVI LED Simulator
 
 by [MaggPi](../profile/MaggPi) July 24, 2018 05:58
 
 July 24, 2018 05:58 | Tags: [raspberry-pi](../tag/raspberry-pi), [colormap](../tag/colormap), [ndvi-calibrate](../tag/ndvi-calibrate), [raspberry-pi-cameras](../tag/raspberry-pi-cameras), [question:image-sequencer](../tag/question:image-sequencer), [noir](../tag/noir)
+
+----
 
 This note proposes a Light Emitting Diode (LED) simulator that would assist in the collection and analysis
 of normalized difference vegetation index (NDVI) images. A prototype simulator  and a NIR/red vs NIR/white light NDVI comparison example is described.

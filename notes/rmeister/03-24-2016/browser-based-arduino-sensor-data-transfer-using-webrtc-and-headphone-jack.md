@@ -14,6 +14,8 @@ by [rmeister](../profile/rmeister) March 24, 2016 19:45
 
 March 24, 2016 19:45 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [coding](../tag/coding), [germany](../tag/germany), [hidden:response](../tag/hidden:response), [gsoc-2016](../tag/gsoc-2016), [gsoc-2016-proposals](../tag/gsoc-2016-proposals), [response:12827](../tag/response:12827), [first-time-poster](../tag/first-time-poster)
 
+----
+
 **Name:** Richard Meister
 
 **Affiliation (school/degree)** B.sc. in Electrical Engineering and Information Technology, Technical University Darmstadt

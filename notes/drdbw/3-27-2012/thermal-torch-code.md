@@ -14,6 +14,8 @@ by [dr_dbw](../profile/dr_dbw) March 27, 2012 22:24
 
 March 27, 2012 22:24 | Tags: [thermal-photography](../tag/thermal-photography), [first-time-poster](../tag/first-time-poster)
 
+----
+
 This is the coding I have written for the thermal torch / thermal photography project - http://publiclaboratory.org/tool/thermal-photography
 
 The circuit is simply the one shown at - http://publiclaboratory.org/notes/warren/12-12-2011/circuit-diagram-simple-thermal-flashlight - all I have done is change the program uploaded to the Arduino Uno board.  Also note that I have the LED on pins 9, 10 and 11 (which is different from the previous link) and all temperatures are in degrees Celsius.

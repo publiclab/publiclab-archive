@@ -8,11 +8,15 @@ uid: 379
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/009/127/original/Nature_Center_aerial_2010.jpg)
+
 # Nature Center polygons for the next phase of Forest Restoration
 
 by [eustatic](../profile/eustatic) February 28, 2015 22:06
 
 February 28, 2015 22:06 | Tags: [gulf-coast](../tag/gulf-coast), [mapknitter](../tag/mapknitter), [urbanwater](../tag/urbanwater), [urbanwaters](../tag/urbanwaters)
+
+----
 
 ###What I want to do
 

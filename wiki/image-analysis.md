@@ -14,6 +14,8 @@ by [wward1400](../profile/wward1400), [warren](../profile/warren)
 
 October 27, 2011 20:35 | Tags: [image-compositing](../tag/image-compositing), [image-processing](../tag/image-processing), [infragram](../tag/infragram), [image-interpretation](../tag/image-interpretation), [image-analysis](../tag/image-analysis)
 
+----
+
 <img src="https://publiclab.org/sites/default/files/imagecache/default/barataria-nrg.jpg" />
 
 ##Infrared compositing##
@@ -57,4 +59,4 @@ Using the ratios of Red, Green, and Blue (and possibly Near-infrared), spectral 
 <img width="500px" src="https://publiclab.org/sites/default/files/USCB_GeniePro_Classification.jpg" />
 
 ### Image Analysis
-[activities:image-analysis]
+[image-analysis](../../tag/activity:image-analysis)

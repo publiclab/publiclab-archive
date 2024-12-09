@@ -8,11 +8,15 @@ uid: 430549
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/018/387/original/Screenshot_2016-10-12_at_4.29.19_PM.png)
+
 # Common low-cost technique limitations and strategies for impact
 
 by [gretchengehrke](../profile/gretchengehrke) September 29, 2016 20:12
 
 September 29, 2016 20:12 | Tags: [with:warren](../tag/with:warren)
+
+----
 
 With an environmental and environmental health focus, many people coming to Public Lab may be looking for techniques to help them address an immediate and sensitive situation. Since we are an open community actively developing tools and techniques, especially of low-cost and do-it-yourself nature, we want to be sure to adequately communicate tool and technique limitations so that everyone is on the same page. 
 

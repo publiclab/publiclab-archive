@@ -14,6 +14,8 @@ by [warren](../profile/warren)
 
 March 28, 2019 19:52 | Tags: [research](../tag/research), [advocacy](../tag/advocacy), [study-design](../tag/study-design), [planning](../tag/planning), [study](../tag/study), [parent:advocacy](../tag/parent:advocacy)
 
+----
+
 Some communities facing environmental health concerns start a research project to document and build accountability -- producing data that can be used in advocacy, regulatory action and more. 
 
 For an in-depth guide to planning out an environmental monitoring study, 
@@ -35,7 +37,7 @@ The guide touches on topics like:
 
 ## Questions
 
-[questions:study-design]
+[study-design](../../tag/question:study-design)
 
 
 
@@ -43,4 +45,4 @@ The guide touches on topics like:
 
 More on study design:
 
-[notes:study-design]
+[study-design](../../tag/study-design)

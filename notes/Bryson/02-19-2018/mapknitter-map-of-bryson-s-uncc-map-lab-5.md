@@ -14,6 +14,8 @@ by [Bryson](../profile/Bryson) February 19, 2018 23:43
 
 February 19, 2018 23:43 | Tags: [mapknitter](../tag/mapknitter), [lat:35.3068692102](../tag/lat:35.3068692102), [lon:-80.7329893112](../tag/lon:-80.7329893112)
 
+----
+
 <iframe src="https://mapknitter.org/embed/bryson-s-uncc-map-lab-5" style="border:none" width="100%" height="400px"></iframe>  
   
   

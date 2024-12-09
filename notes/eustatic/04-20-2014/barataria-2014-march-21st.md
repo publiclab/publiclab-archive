@@ -8,11 +8,15 @@ uid: 379
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/003/730/original/21_march_barataria_public_lab.png)
+
 # Barataria 2014: IV March 21st
 
 by [eustatic](../profile/eustatic) April 20, 2014 22:30
 
 April 20, 2014 22:30 | Tags: [gulf-coast](../tag/gulf-coast), [balloon-mapping](../tag/balloon-mapping), [barataria-bay](../tag/barataria-bay), [wetlands](../tag/wetlands), [louisiana](../tag/louisiana), [wetland](../tag/wetland), [barataria](../tag/barataria), [bp](../tag/bp), [patagonia](../tag/patagonia), [response:10045](../tag/response:10045), [lat:29.449762](../tag/lat:29.449762), [lon:-89.878292](../tag/lon:-89.878292), [place:barataria-bay](../tag/place:barataria-bay)
+
+----
 
 ##DRAFT placeholder
 

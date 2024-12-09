@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/000/197/original/Wratten-201337469.jpg)
+
 # Invisible Rays
 
 by [cfastie](../profile/cfastie) May 09, 2013 05:41
 
 May 09, 2013 05:41 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [nir](../tag/nir), [vermont](../tag/vermont), [infrared](../tag/infrared), [infragram](../tag/infragram), [plant-health](../tag/plant-health), [history](../tag/history), [wratten87](../tag/wratten87), [infrablue](../tag/infrablue)
+
+----
 
 <em>Image above: My backyard in pure infrared light. A Wratten 87 filter allows only wavelengths longer than 730 nm to reach the sensor of the Canon A495. May 8, 2013</em>
 

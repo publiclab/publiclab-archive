@@ -8,11 +8,15 @@ uid: 422561
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/043/503/original/Jordan.jpeg)
+
 # Welcoming Public Lab's new Executive Director
 
 by [stevie](../profile/stevie) April 27, 2021 15:45
 
 April 27, 2021 15:45 | Tags: [nonprofit](../tag/nonprofit), [blog](../tag/blog), [location:blurred](../tag/location:blurred), [place:united-states](../tag/place:united-states), [lon:-119](../tag/lon:-119), [zoom:6](../tag/zoom:6), [lat:46](../tag/lat:46)
+
+----
 
 The Board of Directors of the Public Laboratory for Open Technology and Science (Public Lab) is very excited to announce its new Executive Director, Jordan Macha. She began her position in this role on April 19, and is succeeding Public Lab co-founder and founding Executive Director Shannon Dosemagen, who departed in 2020.
 

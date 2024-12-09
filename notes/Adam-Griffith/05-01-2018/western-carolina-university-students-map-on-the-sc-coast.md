@@ -14,6 +14,8 @@ by [adam-griffith](../profile/adam-griffith) March 13, 2011 21:12
 
 March 13, 2011 21:12 | Tags: [western-north-carolina](../tag/western-north-carolina), [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [wetlands](../tag/wetlands), [coastal](../tag/coastal), [western-carolina-university](../tag/western-carolina-university), [sea-level-rise](../tag/sea-level-rise), [students](../tag/students), [high-wind](../tag/high-wind), [windy](../tag/windy), [southeast](../tag/southeast), [south-carolina](../tag/south-carolina)
 
+----
+
 <img src="http://farm6.static.flickr.com/5302/5632126400_c9909effc1.jpg" />
 
 During the first week of March, students enrolled in Dr. Rob Young's field trip course at Western Carolina University attempted to map coastal wetlands using Grassrootsmapping techniques in Beaufort County, SC.  Beaufort County, SC has the most coastal wetlands of any county on the US East Coast and these wetlands are being threatened by sea level rise.  Specific vegetation grows in high marsh and low marsh and an aerial view of the wetlands makes distinction of the two easier than ground based techniques.

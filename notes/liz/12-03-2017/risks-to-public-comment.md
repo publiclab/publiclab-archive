@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/022/760/original/FCC-FINAL.jpg)
+
 # Risks to public comment
 
 by [liz](../profile/liz) December 03, 2017 18:52
 
 December 03, 2017 18:52 | Tags: [advocacy](../tag/advocacy), [public-comment](../tag/public-comment), [bots](../tag/bots)
+
+----
 
 _Lead image by FRANK AUGUGLIARO for Wired, article linked below_
 

@@ -14,6 +14,8 @@ by [ThomasTaufan](../profile/ThomasTaufan) November 26, 2019 08:31
 
 November 26, 2019 08:31 | Tags: [ndvi](../tag/ndvi), [infrared](../tag/infrared), [webcam](../tag/webcam), [imagery](../tag/imagery), [aerial](../tag/aerial), [question:general](../tag/question:general), [general](../tag/general), [first-time-poster](../tag/first-time-poster)
 
+----
+
 I have modified the webcam Logitech c920 by removing the IR Filter attached and applying the DIY Infragram red Filter. Here is the results taken :
 
   

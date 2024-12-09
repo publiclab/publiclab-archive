@@ -14,6 +14,8 @@ by [warren](../profile/warren) January 22, 2011 00:04
 
 January 22, 2011 00:04 | Tags: 
 
+----
+
 <a href="https://www.flickr.com/photos/jeffreywarren/5382318743/" title="soldering with Morflex by jeferonix, on Flickr"><img src="http://farm6.static.flickr.com/5083/5382318743_1c89929421.jpg" width="500" height="375" alt="soldering with Morflex" /></a>
 
 <small>(escrito con Roxana Garrido)</small>

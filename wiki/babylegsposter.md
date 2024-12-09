@@ -14,6 +14,8 @@ by [warren](../profile/warren)
 
 September 04, 2019 13:24 | Tags: [parent:babylegs](../tag/parent:babylegs)
 
+----
+
 This “Field Guide to Microplastics” poster is a full-color poster showing a wide variety of plastic pollution types and their sources. 
 
 It's designed to accompany the [BabyLegs DIY Trawl Kit](/babylegs)

@@ -8,11 +8,15 @@ uid: 528173
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/024/110/original/IMG_3655_1.jpg)
+
 # DIY-spectrometer
 
 by [TakeshiMatsumoto](../profile/TakeshiMatsumoto) March 20, 2018 22:26
 
 March 20, 2018 22:26 | Tags: [spectrometer](../tag/spectrometer), [diy-bio](../tag/diy-bio), [hardware](../tag/hardware), [first-time-poster](../tag/first-time-poster)
+
+----
 
 _**Motivation**_： We are dealing with piezo crystal products.
 We are considering new analysis technique that combining piezo sensor 

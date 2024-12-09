@@ -8,11 +8,15 @@ uid: 788868
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/045/610/original/well.jpg)
+
 # Private Drinking Water Well 
 
 by [TheChessGym](../profile/TheChessGym) April 04, 2022 15:05
 
 April 04, 2022 15:05 | Tags: [microplastics](../tag/microplastics), [lat:22](../tag/lat:22), [lon:76](../tag/lon:76), [zoom:6](../tag/zoom:6)
+
+----
 
 Obtaining Your Private Drinking Water Well 
 

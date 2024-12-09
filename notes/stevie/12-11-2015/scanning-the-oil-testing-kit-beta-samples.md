@@ -8,11 +8,15 @@ uid: 422561
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/013/279/original/80w90.png)
+
 # Scanning the Oil Testing Kit beta samples
 
 by [stevie](../profile/stevie) December 11, 2015 20:46
 
 December 11, 2015 20:46 | Tags: [spectrometer](../tag/spectrometer), [oil-testing](../tag/oil-testing), [oil-testing-kit](../tag/oil-testing-kit), [otk](../tag/otk), [oiltestingkit](../tag/oiltestingkit), [otkbeta](../tag/otkbeta), [pipeline-monitoring](../tag/pipeline-monitoring)
+
+----
 
 ###What I want to do
 Run through the Oil Testing Kit Beta program so I can better articulate what someone might need to do to run this as a workshop. Did this test with members of the Gulf Coast Chapter! 

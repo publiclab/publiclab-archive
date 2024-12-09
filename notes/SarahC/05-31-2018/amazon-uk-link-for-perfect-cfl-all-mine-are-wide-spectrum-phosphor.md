@@ -14,6 +14,8 @@ by [SarahC](../profile/SarahC) May 31, 2018 05:15
 
 May 31, 2018 05:15 | Tags: [question:spectral-workbench](../tag/question:spectral-workbench), [first-time-poster](../tag/first-time-poster)
 
+----
+
 The lights I have that are still CFL and not LED are all streaked/wide spectrum lighting with undefined lines.
 
   

@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/011/900/original/tmp_27093-IMG_20151010_1544482087887727.jpg)
+
 # LEAFFEST 2015 day one in photos
 
 by [warren](../profile/warren) October 11, 2015 02:36
 
 October 11, 2015 02:36 | Tags: [vermont](../tag/vermont), [leaffest](../tag/leaffest), [leaffest2015](../tag/leaffest2015), [leaffester](../tag/leaffester), [doccom](../tag/doccom)
+
+----
 
 We're wrapping up a great first day of LEAFFEST 2015, for which I've prepared a daily publication entitled The LEAFFESTER:
 

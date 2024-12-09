@@ -8,11 +8,15 @@ uid: 9
 
 ---
 
+![](https://publiclab.org/sites/default/files/INfrared Camera main image.JPG)
+
 # Nota de Prensa: Public Lab lanza una campana para financiar el Infrared Photography Project  
 
 by [Shannon](../profile/Shannon) May 24, 2013 00:59
 
 May 24, 2013 00:59 | Tags: [infrared](../tag/infrared), [infragram](../tag/infragram), [press-release](../tag/press-release)
+
+----
 
 **NOTA DE PRENSA PARA PUBLICACION INMEDIATA**
 22 de mayo, 2013

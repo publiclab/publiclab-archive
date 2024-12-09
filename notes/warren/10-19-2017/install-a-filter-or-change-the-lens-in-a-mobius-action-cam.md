@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/021/985/original/Infragram_Parts.jpg)
+
 # Install a filter or change the lens in a Mobius Action Cam
 
 by [warren](../profile/warren) October 19, 2017 21:37
 
 October 19, 2017 21:37 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [infrared](../tag/infrared), [infragram](../tag/infragram), [infragram-filters](../tag/infragram-filters), [mobius-actioncam](../tag/mobius-actioncam), [mobius](../tag/mobius), [mobius-action-cam](../tag/mobius-action-cam), [with:abdul](../tag/with:abdul), [activity:multispectral-imaging](../tag/activity:multispectral-imaging), [activity:infragram](../tag/activity:infragram), [multispectral-imaging](../tag/multispectral-imaging), [activity:mobius](../tag/activity:mobius), [activity:mobius-action-cam](../tag/activity:mobius-action-cam), [activity:near-infrared-camera](../tag/activity:near-infrared-camera), [camera-hacks](../tag/camera-hacks), [activity:infrared-camera-conversion](../tag/activity:infrared-camera-conversion), [infrared-camera-conversion](../tag/infrared-camera-conversion), [activity:infragram-point-shoot](../tag/activity:infragram-point-shoot)
+
+----
 
 This activity shows how to install a custom filter and/or change the lens in the Infragram Point & Shoot camera, also known as the Mobius Action Cam. It should take about 15-25 minutes. 
 

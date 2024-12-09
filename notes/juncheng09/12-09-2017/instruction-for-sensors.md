@@ -8,11 +8,15 @@ uid: 520219
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/022/879/original/geGuqxuCSrSFzCw7ZSHShQ.jpg)
+
 # Sensor Collection For KnowFlow --a water-quality-testing facility
 
 by [juncheng09](../profile/juncheng09) December 09, 2017 14:38
 
 December 09, 2017 14:38 | Tags: [water-quality](../tag/water-quality), [water](../tag/water), [sensor](../tag/sensor), [seeks:replications](../tag/seeks:replications), [knowflow](../tag/knowflow), [activity:data-logging](../tag/activity:data-logging), [activity:knowflow](../tag/activity:knowflow), [lang:zh](../tag/lang:zh), [activity:water-sensors](../tag/activity:water-sensors)
+
+----
 
 # foreword
 I made a sensor collection for KnowFlow --a water-quality-testing facility. 

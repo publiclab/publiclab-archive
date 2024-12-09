@@ -14,4 +14,6 @@ by [warren](../profile/warren) September 08, 2017 16:27
 
 September 08, 2017 16:27 | Tags: [answered](../tag/answered), [question:aerial-mapping](../tag/question:aerial-mapping), [question:aerial-photography](../tag/question:aerial-photography), [photo-sharing](../tag/photo-sharing), [harvey](../tag/harvey), [question:harvey](../tag/question:harvey), [irma](../tag/irma), [question:image-sorting](../tag/question:image-sorting), [question:photo-sharing](../tag/question:photo-sharing)
 
+----
+
 There are a number of ways to do this -- what are peoples' best recommendations, pros/cons?

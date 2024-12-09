@@ -14,6 +14,8 @@ by [sara](../profile/sara) March 29, 2012 16:32
 
 March 29, 2012 16:32 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s), [h2s-photopaper](../tag/h2s-photopaper), [activity:h2s-photopaper](../tag/activity:h2s-photopaper)
 
+----
+
 I realized none of our notes so far cover how to make the glycerol solution, here is that protocol:
 
 1) Wear plastic gloves and use <a href="http://www.bhphotovideo.com/c/product/762104-REG/Dot_Line_DL_0301_Print_Tongs_3_Pack_.html">tongs</a> while making this mixture and handling the strips. Work in a room with good ventilation.

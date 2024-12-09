@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/IMG_0004.JPG)
+
 # Steps towards DIY Spectrometry
 
 by [warren](../profile/warren) September 06, 2011 16:55
 
 September 06, 2011 16:55 | Tags: [lima](../tag/lima), [spectrometer](../tag/spectrometer), [peru](../tag/peru), [boston](../tag/boston), [partsandcrafts](../tag/partsandcrafts), [idealab](../tag/idealab), [parts-and-crafts](../tag/parts-and-crafts), [turntable](../tag/turntable), [escuelab](../tag/escuelab)
+
+----
 
 <em>Reposted from <a href="http://www.pbs.org/idealab/2011/09/taking-steps-toward-diy-spectrometry-so-citizens-can-test-for-pollutants249.html">PBS IdeaLab</a></em>
 

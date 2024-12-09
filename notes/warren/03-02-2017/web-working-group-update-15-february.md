@@ -14,6 +14,8 @@ by [warren](../profile/warren) March 02, 2017 15:52
 
 March 02, 2017 15:52 | Tags: [community](../tag/community), [web-development](../tag/web-development), [software](../tag/software), [plots2](../tag/plots2), [outreach](../tag/outreach), [gsoc](../tag/gsoc), [developers](../tag/developers), [wwg](../tag/wwg), [webwg](../tag/webwg), [first-timers-only](../tag/first-timers-only), [software-outreach](../tag/software-outreach), [rich-wikis](../tag/rich-wikis), [response:13894](../tag/response:13894), [wwg-update](../tag/wwg-update)
 
+----
+
 Hi, all -- this is our 15th monthly web working group update. This month has been quieter than the last few, but still a great deal more active than a year ago:
 
 > Excluding merges, **9 authors** have pushed **47 commits** to master and 71 commits to all branches. On master, **60 files have changed and there have been 990 additions and 2,035 deletions**.

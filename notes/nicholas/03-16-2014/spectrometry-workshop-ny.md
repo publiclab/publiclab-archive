@@ -8,11 +8,15 @@ uid: 53894
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/003/274/original/IMG_1603.jpg)
+
 # Spectrometry workshop - NY
 
 by [nicholas](../profile/nicholas) March 16, 2014 20:37
 
 March 16, 2014 20:37 | Tags: [new-york-city](../tag/new-york-city), [spectrometry](../tag/spectrometry), [laser](../tag/laser)
+
+----
 
 ###What I want to do
 [![IMG_1599.jpg](https://i.publiclab.org/system/images/photos/000/003/276/medium/IMG_1599.jpg)](https://i.publiclab.org/system/images/photos/000/003/276/original/IMG_1599.jpg)

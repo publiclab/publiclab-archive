@@ -14,6 +14,8 @@ by [alejobonifacio](../profile/alejobonifacio) June 21, 2021 18:28
 
 June 21, 2021 18:28 | Tags: [event](../tag/event), [research](../tag/research), [water-quality](../tag/water-quality), [water](../tag/water), [event:rsvp](../tag/event:rsvp), [research-curation-fellows](../tag/research-curation-fellows), [date:06-25-2021](../tag/date:06-25-2021), [rsvp:bhamster](../tag/rsvp:bhamster), [research-curation-fellows-event](../tag/research-curation-fellows-event), [rsvp:denissebn_06](../tag/rsvp:denissebn_06), [rsvp:raquel_bazan](../tag/rsvp:raquel_bazan)
 
+----
+
 [![Community_call_improved.jpg.png](/i/44218)](/i/44218?s=o)
 
 ## Detalles del evento

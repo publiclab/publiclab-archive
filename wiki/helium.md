@@ -14,6 +14,8 @@ by [Bronwen](../profile/Bronwen), [mathew](../profile/mathew), [warren](../profi
 
 June 15, 2012 19:59 | Tags: [balloon-mapping](../tag/balloon-mapping), [helium](../tag/helium), [table-lamp](../tag/table-lamp)
 
+----
+
 <img src="https://farm6.staticflickr.com/5349/7207537300_928821ee09.jpg" width="500" title="image via recordandremember@Flickr">
 ##June 2012##
 In the United States The National Helium Reserve supply chain is currently disrupted. The price has spiked and some supplies are not selling to non-commercial users. We have been asking our suppliers and they expect the situation to improve before the end of the year. 

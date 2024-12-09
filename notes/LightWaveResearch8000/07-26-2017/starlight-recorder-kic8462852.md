@@ -14,6 +14,8 @@ by [LightWaveResearch8000](../profile/LightWaveResearch8000) July 26, 2017 18:05
 
 July 26, 2017 18:05 | Tags: [light](../tag/light), [question:spectral-workbench](../tag/question:spectral-workbench), [star](../tag/star), [question:astronomy](../tag/question:astronomy)
 
+----
+
 ###What I want to do or know
 How can you make a starlight recorder to record when a super nova event is visible?
 ###Background story

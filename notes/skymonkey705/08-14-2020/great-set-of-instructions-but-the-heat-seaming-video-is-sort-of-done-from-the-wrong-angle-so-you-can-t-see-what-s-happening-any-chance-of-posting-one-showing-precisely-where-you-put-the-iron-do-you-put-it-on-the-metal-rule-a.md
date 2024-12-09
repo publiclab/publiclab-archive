@@ -14,6 +14,8 @@ by [skymonkey705](../profile/skymonkey705) August 14, 2020 15:40
 
 August 14, 2020 15:40 | Tags: [solar-balloon](../tag/solar-balloon), [heat-seaming](../tag/heat-seaming), [first-time-poster](../tag/first-time-poster)
 
+----
+
 Several years ago I built a 125860 cubic foot balloon,it had 22 gores one hundred feet long,a lot of seam sealing.Through a lot of trial and error and testing,I came up with a way that is fast and if done correctly as strong as the poly.I know this because I could stretch samples to more than 6 times it's length without failure.
 
 First you need a soldering iron,a flat price of polished aluminum or stainless steel,or plate glass about 6X18 inches and a metal ruler.

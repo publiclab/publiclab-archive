@@ -14,6 +14,8 @@ by [stevesteve](../profile/stevesteve) January 15, 2018 17:09
 
 January 15, 2018 17:09 | Tags: [agriculture](../tag/agriculture), [urban-planning](../tag/urban-planning), [infragram-filters](../tag/infragram-filters), [tool](../tag/tool), [land-use](../tag/land-use), [multispectral-imaging](../tag/multispectral-imaging), [question:general](../tag/question:general), [land-change](../tag/land-change)
 
+----
+
 I am going to be working on wetlands / bog environments looking for changes in plant health.
 
 I am about to convert a Canon 16Mp camera with one of the Infragram filters (having ordered the red & blue set).

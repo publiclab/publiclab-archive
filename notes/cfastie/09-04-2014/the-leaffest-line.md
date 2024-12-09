@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/006/587/original/LEAFColl-502-365.jpg)
+
 # The LEAFFEST Line
 
 by [cfastie](../profile/cfastie) September 04, 2014 21:00
 
 September 04, 2014 21:00 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [ndvi](../tag/ndvi), [vermont](../tag/vermont), [leaffest](../tag/leaffest), [event](../tag/event), [infragram](../tag/infragram), [super-red](../tag/super-red), [titan](../tag/titan), [leaffest2014](../tag/leaffest2014), [response:11076](../tag/response:11076), [redstone](../tag/redstone)
+
+----
 
 [LEAFFEST ](http://publiclab.org/notes/cfastie/08-26-2014/l-e-a-f-f-e-s-t)is only a week away, and I'm sure you are as excited as I am that this year LEAFFEST falls on the 200th anniversary of the Battle of Baltimore. Through the early light of dawn on September 14, 1814, Francis Scott Key saw that an American flag still flew over Fort McHenry despite 25 hours of bombardment from British ships. In parts of Baltimore there will be a week of festivities to mark this Defenders' Day (a legal holiday in Maryland), and I am pleased to announce a special collection of mapping rigs offered by the [KAPtery](http://kaptery.com) to commemorate this event.  
 .  

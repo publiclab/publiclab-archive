@@ -14,6 +14,8 @@ by [bha](../profile/bha) April 09, 2012 18:42
 
 April 09, 2012 18:42 | Tags: [indoor-air-quality-mapping](../tag/indoor-air-quality-mapping), [hamster-ball](../tag/hamster-ball), [air-quality](../tag/air-quality)
 
+----
+
 From the Jeff's idea, Byeongwon Ha and Sara Wylie are trying to make a small hamsterball, which powered by arduino. 
 
 <img src="http://byeongwonha.com/Media/PLOTS/IMG_9441.JPG" width ="400" height ="300" alt="This is a set of the small hamsterball" />

@@ -3,6 +3,8 @@ uid: 525706
 created_at: 2018-02-21 06:00:22 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/525706/medium/IMG_20180203_205315.jpg)
+
 # Raounak
 
 Developer | Mentor | Speaker

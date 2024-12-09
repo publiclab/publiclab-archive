@@ -14,4 +14,6 @@ by [TK_Siddharth](../profile/TK_Siddharth) September 20, 2018 09:22
 
 September 20, 2018 09:22 | Tags: [answered](../tag/answered), [question:general](../tag/question:general), [first-time-poster](../tag/first-time-poster)
 
+----
+
 I need a detailed notes on spectroscopes and spectroscopy.

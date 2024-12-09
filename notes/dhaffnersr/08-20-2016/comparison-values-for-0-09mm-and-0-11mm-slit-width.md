@@ -8,11 +8,15 @@ uid: 461120
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/017/711/original/percentage_error_formula.png)
+
 # Comparison Values for 0.09mm and 0.11mm Slit Width
 
 by [dhaffnersr](../profile/dhaffnersr) August 20, 2016 23:31
 
 August 20, 2016 23:31 | Tags: 
+
+----
 
 Here is the data for the second part of my comparison of the 0.09mm acetate film strip and the 0.11mm metal open-air design slit. 
 

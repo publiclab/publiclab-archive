@@ -14,6 +14,8 @@ by [eustatic](../profile/eustatic) January 31, 2018 00:22
 
 January 31, 2018 00:22 | Tags: [evidence](../tag/evidence), [big-data](../tag/big-data), [urban-planning](../tag/urban-planning), [new-orleans](../tag/new-orleans), [lousiana](../tag/lousiana), [enclosure](../tag/enclosure), [strava](../tag/strava), [commons](../tag/commons), [parks](../tag/parks)
 
+----
+
 [This Heat Map](https://labs.strava.com/heatmap/#14.62/-90.09370/30.00073/hot/all), attached, shows how much park-going has been displaced from City Park, in New Orleans. 
 
   

@@ -14,4 +14,6 @@ by [ethanbass](../profile/ethanbass) October 29, 2015 02:17
 
 October 29, 2015 02:17 | Tags: [question:spectral-workbench](../tag/question:spectral-workbench), [answered](../tag/answered)
 
+----
+
 I see how to delete a spectrum but I can't figure out how to delete a set.

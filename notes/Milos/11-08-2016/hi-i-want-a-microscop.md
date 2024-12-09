@@ -14,6 +14,8 @@ by [Milos](../profile/Milos) November 08, 2016 00:45
 
 November 08, 2016 00:45 | Tags: [question:generalblog](../tag/question:generalblog)
 
+----
+
 ###See bacteria and as much is possible, what microscop should I pick up in the the terms of resolution?
 
 ###Background story

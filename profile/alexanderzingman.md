@@ -3,6 +3,8 @@ uid: 792587
 created_at: 2022-03-24 11:20:37 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/792587/medium/Alexander_Zingman3.png)
+
 # alexanderzingman
 
 Аляксандр Зінгман

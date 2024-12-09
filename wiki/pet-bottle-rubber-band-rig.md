@@ -14,6 +14,8 @@ by [mathew](../profile/mathew), [liz](../profile/liz), [blog](../profile/blog)
 
 January 30, 2012 04:36 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [photo-rig](../tag/photo-rig), [activity](../tag/activity), [parent:balloon-mapping](../tag/parent:balloon-mapping), [1](../tag/1), [camera-housing](../tag/camera-housing)
 
+----
+
 This page is replaced by [Rubber Band and PET Bottle Camera Rig](https://publiclab.org/notes/mathew/02-22-2017/rubber-band-and-pet-bottle-camera-rig).
 
 This page replaces the [Soda Bottle Rig](http://publiclaboratory.org/wiki/soda-bottle-rig), and is posted as an activity you can do yourself [here](/notes/mathew/09-23-2016/pet-bottle-rubber-band-rig-wiki-page-as-research-note). 

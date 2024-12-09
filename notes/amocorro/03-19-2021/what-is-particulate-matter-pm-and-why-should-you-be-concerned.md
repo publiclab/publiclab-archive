@@ -14,6 +14,8 @@ by [amocorro](../profile/amocorro) March 19, 2021 18:57
 
 March 19, 2021 18:57 | Tags: [air-quality](../tag/air-quality), [shale](../tag/shale), [pm](../tag/pm), [particulate-monitoring](../tag/particulate-monitoring), [indoor-air-quality-monitoring](../tag/indoor-air-quality-monitoring), [question:pm](../tag/question:pm), [particulate-matter](../tag/particulate-matter), [pennsylvania](../tag/pennsylvania), [air-filters](../tag/air-filters), [environmental-health-project](../tag/environmental-health-project), [information-sheet](../tag/information-sheet), [fan-filter](../tag/fan-filter), [grassroots-green-homes](../tag/grassroots-green-homes)
 
+----
+
 Environmental Health Project - Southwest Pennsylvania has some great particulate matter (PM) information sheets. Wanted to share it with the wider Public Lab community. 
 
   

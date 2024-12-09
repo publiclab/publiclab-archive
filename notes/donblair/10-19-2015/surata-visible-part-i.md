@@ -8,11 +8,15 @@ uid: 43651
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/011/989/original/IMG_20150731_114647287.jpg)
+
 # Suratá Visible -- Part I
 
 by [donblair](../profile/donblair) October 19, 2015 17:00
 
 October 19, 2015 17:00 | Tags: [colombia](../tag/colombia), [water-quality](../tag/water-quality), [riffle](../tag/riffle), [open-water](../tag/open-water), [riffle-examples](../tag/riffle-examples)
+
+----
 
 Hallo! This is a long overdue first post on an amazing project that I participated in towards the end of the summer: a water monitoring project focused on a region in northern Colombia that has been significantly impacted by mining industry pollution. In particular, the focus is on the Suratá River in [Bucaramanga](https://en.wikipedia.org/wiki/Bucaramanga), and the project is called "Suratá Visible".
 

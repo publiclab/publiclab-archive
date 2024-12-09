@@ -8,10 +8,14 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/IMG_20120425_175628.jpg)
+
 # 555 trigger housing tests for dual cam kit
 
 by [warren](../profile/warren) April 25, 2012 22:03
 
 April 25, 2012 22:03 | Tags: [near-infrared-camera](../tag/near-infrared-camera)
+
+----
 
 

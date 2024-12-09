@@ -14,6 +14,8 @@ by [bhamster](../profile/bhamster) March 02, 2023 22:08
 
 March 02, 2023 22:08 | Tags: [csf](../tag/csf), [community-science-forum](../tag/community-science-forum), [soil-contamination](../tag/soil-contamination), [student-community-science](../tag/student-community-science), [classroom-community-science](../tag/classroom-community-science), [csf18](../tag/csf18)
 
+----
+
 **A version of this story by high school student Jahavon is published in Public Lab's _Community Science Forum_, Issue 18. Read more from this issue <a href="https://publiclab.org/forum#Issue+18+Student-Led+Community+Science+Projects+(Summer+2021)">here</a>.**
 
 Noranda Aluminum, which is the largest air pollution in Louisiana, released mercury in our area. We are doing experiments because we are looking for soil contamination in St. John the Baptist Parish. When we started a garden at West St. John High School, we were wondering if the contamination had spread this far.

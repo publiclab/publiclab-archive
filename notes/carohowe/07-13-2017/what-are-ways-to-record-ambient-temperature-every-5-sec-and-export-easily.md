@@ -14,6 +14,8 @@ by [carohowe](../profile/carohowe) July 13, 2017 21:08
 
 July 13, 2017 21:08 | Tags: [arduino](../tag/arduino), [temperature](../tag/temperature), [question:question](../tag/question:question), [data-logging](../tag/data-logging), [question:data-logging](../tag/question:data-logging), [dc](../tag/dc), [question:arduino](../tag/question:arduino), [question:temperature](../tag/question:temperature), [heat-island](../tag/heat-island), [thermometer](../tag/thermometer), [temperature-sensing](../tag/temperature-sensing), [urban-heat-island](../tag/urban-heat-island), [bicycle](../tag/bicycle), [shading](../tag/shading), [first-time-poster](../tag/first-time-poster)
 
+----
+
 I am trying to figure out how we can give cyclists across DC temperature sensors that would capture temperature data at a minimum of every 5 seconds (or even faster, if possible) as they travel through the city. I am looking for something that could plug directly into a phone, so the data could easily be shared, or something that could be downloaded via USB. Data would not need to be immediately transmitted in real-time. 
 
 Any suggestions on the best ready-to-use devices? Priorities right now are: sensitive to temperature changes, able to take readings every 5 seconds (or less), fairly lightweight, and ability to store 2000 data points, minimum, before downloading. Battery drain and price, at this point, basically not an issue.

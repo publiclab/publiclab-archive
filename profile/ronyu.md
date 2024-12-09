@@ -3,6 +3,8 @@ uid: 454267
 created_at: 2015-10-13 16:16:45 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/965afdbf70235a8fc3be4e5cd7d7dda8)
+
 # ronyu
 
 

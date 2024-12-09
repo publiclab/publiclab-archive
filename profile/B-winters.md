@@ -3,6 +3,8 @@ uid: 563397
 created_at: 2018-12-09 05:15:09 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/ceda3978ddbba81772c787bcf256f3f2)
+
 # B-winters
 
 

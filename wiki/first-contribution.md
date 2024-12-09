@@ -14,6 +14,8 @@ by [bhamster](../profile/bhamster), [liz](../profile/liz), [warren](../profile/w
 
 May 10, 2018 21:44 | Tags: [welcome](../tag/welcome), [newcomers](../tag/newcomers), [first-timers](../tag/first-timers), [first-contribution](../tag/first-contribution)
 
+----
+
 ## Whoop! Whoop! Yay... 🎉 🎉 🎉
 
 <div class="alert alert-success">

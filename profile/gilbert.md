@@ -3,6 +3,8 @@ uid: 508551
 created_at: 2017-06-06 16:33:33 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/508551/medium/gilbert-rochon_1_.jpg)
+
 # gilbert
 
 As Advocacy Manager with Public Lab, Gilbert will be engaged in implementing the National Academy of Sciences (NAS) grant to expand empowerment to communities impacted by environmental injustices in New Orleans, LA, Gulfport, MS, Mobile, AL and Pensacola, FL, through access to affordable environmental monitoring and analytical technologies. Gilbert also serves as Senior Consultant with MSF Global Solutions, LLC, a technology firm based in New Orleans, for which he recently presented on Pan-African Disaster Resilience at the African Association for Remote Sensing of Environment Conference in Kampala, Uganda.

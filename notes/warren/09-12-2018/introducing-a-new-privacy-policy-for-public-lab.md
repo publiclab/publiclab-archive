@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/026/544/original/pl-narrow.png)
+
 # Introducing a new Privacy Policy for Public Lab
 
 by [warren](../profile/warren) September 12, 2018 22:16
 
 September 12, 2018 22:16 | Tags: [blog](../tag/blog), [privacy](../tag/privacy), [privacy-policy](../tag/privacy-policy), [gdpr](../tag/gdpr)
+
+----
 
 At the Public Lab non-profit, we are committed to the ethical and respectful use of personal information. In our work, and to serve our community and those we work with, we need to make use of personal information in a number of ways. We always seek to protect individual privacy while we fulfill our responsibilities and mission, and when these must be balanced, we seek to do so transparently and in good faith.
 

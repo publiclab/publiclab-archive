@@ -14,6 +14,8 @@ by [Shannon](../profile/Shannon), [warren](../profile/warren)
 
 August 02, 2012 17:01 | Tags: [mailing-lists](../tag/mailing-lists)
 
+----
+
 **If you would like to start a mailing list for your region or community, follow these easy steps to get the list started:**
 
 * Go to Google Groups (groups.google.com). Click on "New Group".

@@ -14,6 +14,8 @@ by [Samel](../profile/Samel)
 
 July 30, 2015 10:35 | Tags: [diezelsun](../tag/diezelsun)
 
+----
+
 ****Tatarnikov Alexander**** (1993) - rtist, patriotic figure, the founder of a new direction in visual art. The theme of this figure is very popular in the world, it is associated with religion, space, ancient writings, patriotism, politics, and in most this subject shows that it is necessary for the good shit in the world.
 
 

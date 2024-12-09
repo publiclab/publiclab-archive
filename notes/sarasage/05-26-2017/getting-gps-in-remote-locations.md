@@ -14,6 +14,8 @@ by [sarasage](../profile/sarasage) May 26, 2017 16:43
 
 May 26, 2017 16:43 | Tags: [question:question](../tag/question:question)
 
+----
+
 ###Hello! 
 
 I am planning on doing field sampling and would like to be able to obtain exact GPS coordinates in a remote location where there is no cell phone service.

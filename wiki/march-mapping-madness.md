@@ -14,6 +14,8 @@ by [gonzoearth](../profile/gonzoearth), [sara](../profile/sara), [kjalbert](../p
 
 February 21, 2012 20:22 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [march-mapping-madness](../tag/march-mapping-madness)
 
+----
+
 <a href="https://www.flickr.com/photos/jeffreywarren/6939415409/" title="PLOTS March Mapping Madness poster by jeferonix, on Flickr"><img src="https://farm8.staticflickr.com/7069/6939415409_f5ec501e63.jpg" width="500" height="293" alt="PLOTS March Mapping Madness poster"></a>
 
 Following our Kickstarter success, Public Lab is embarking on its own version of March Madness. We aim for our community to self-organize meet-ups and training sessions to show new members of the balloon mapping community how to get started making their own maps! If you are an experienced grassroots mapper on this page you can volunteer to organize an event near you. If you are just getting started on this page you can connect with those putting together an event near you!

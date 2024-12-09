@@ -8,11 +8,15 @@ uid: 495038
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/026/460/original/plbotheader.jpg)
+
 # Publiclab Mastodon bot
 
 by [imvec](../profile/imvec) September 05, 2018 20:54
 
 September 05, 2018 20:54 | Tags: [social-media](../tag/social-media), [outreach](../tag/outreach), [mirror](../tag/mirror), [software-outreach](../tag/software-outreach), [bot](../tag/bot), [federation](../tag/federation), [mastodon](../tag/mastodon), [tor](../tag/tor)
+
+----
 
 ### What we want to do
 Feed the Publiclab research notes into the [fediverse](https://fediverse.party) a federation os social networks free, libres and open source. Among others Mastodon, GNUsocial, Pleroma, Friendica...

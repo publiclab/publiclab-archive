@@ -8,11 +8,15 @@ uid: 9
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/002/245/original/plots-logo-transparent.jpg)
+
 # Public Lab community newsletter 11.16.13
 
 by [Shannon](../profile/Shannon) November 16, 2013 14:03
 
 November 16, 2013 14:03 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
+
+----
 
 This week in the Public Lab community newsletter, check out holiday specials on kits, read about water-based mapping work being done and catch up on the smartphone "backpack" spectrometer project. Enjoy!
 

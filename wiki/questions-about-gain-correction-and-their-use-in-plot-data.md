@@ -8,11 +8,15 @@ uid: 461120
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/016/810/original/solux_50w_3500k_june_26.png)
+
 # Questions About Gain Correction and their use in Plot Data
 
 by [dhaffnersr](../profile/dhaffnersr), [stoft](../profile/stoft)
 
 June 27, 2016 15:06 | Tags: 
+
+----
 
 I want to start by explaning a few things about how my thought process works, I need to do this first so it puts the rest of my research in context. I had a stroke several years ago, brought on by a cardiac arrest episode I had back in 2009, I have been implanted with a pacemaker/difibrillator. I am very fortunate that I am a Veteran and get all my medical care at the VA hospital, well the stroke didn't help but I recovered from that also, the only long term side effect from that is, I have a short term memory problem that I have to work at diligently every day on, so I have to keep a log book of my day's events that I feel are important so I do not forget.
 

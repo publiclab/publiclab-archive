@@ -8,11 +8,15 @@ uid: 461120
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/017/898/original/DH_spectrometer_sept_3_view_2.png)
+
 # DH 4.0 v4 Spectrometer Build Illustrations, Modifications and Specifications
 
 by [dhaffnersr](../profile/dhaffnersr)
 
 September 03, 2016 22:48 | Tags: 
+
+----
 
 This is what my spectrometer looks like at the present moment...
 

@@ -14,6 +14,8 @@ by [tobysinclair86](../profile/tobysinclair86), [Shannon](../profile/Shannon)
 
 September 17, 2015 00:35 | Tags: [parent:facilitation](../tag/parent:facilitation), [facilitation](../tag/facilitation)
 
+----
+
 The [Environmental Leadership Program](http://elpnet.org/) facilitation working group is using this page to compile facilitation resources, but welcome others to contribute and utilize the listed resources!
 
 **Resource: Appreciative Inquiry**</br>

@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/006/141/original/2014-08-08T18_41_00.327Z.jpg)
+
 # Canon SD4000IS as Infragram
 
 by [warren](../profile/warren) August 08, 2014 18:50
 
 August 08, 2014 18:50 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [infragram](../tag/infragram), [rosco](../tag/rosco), [red-filter](../tag/red-filter)
+
+----
 
 ###What I want to do
 

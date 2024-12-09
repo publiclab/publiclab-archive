@@ -8,11 +8,15 @@ uid: 461120
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/013/903/original/UVscan02.jpg)
+
 # UV scan results analyzed (intitial findings)
 
 by [dhaffnersr](../profile/dhaffnersr) January 28, 2016 16:38
 
 January 28, 2016 16:38 | Tags: 
+
+----
 
 ###What I want to do - Download my spectra from publiclab and analyze the results using spectral software installed on my PC
 

@@ -8,11 +8,15 @@ uid: 461120
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/014/079/original/20160204_150729.jpg)
+
 # This CFL works the best
 
 by [dhaffnersr](../profile/dhaffnersr) February 04, 2016 20:22
 
 February 04, 2016 20:22 | Tags: [barnstar:basic](../tag/barnstar:basic)
+
+----
 
 After a thousand spectral tests, I have found one CFL that I have gotten a quality calibration fit of 4 with, below is a picture of two I have tested and the one that lost an the winner!
 

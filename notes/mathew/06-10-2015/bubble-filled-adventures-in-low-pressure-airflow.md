@@ -8,11 +8,15 @@ uid: 4
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/010/301/original/IMG_20150610_151055.jpg)
+
 # bubble-filled adventures in low-pressure airflow
 
 by [mathew](../profile/mathew) June 10, 2015 22:20
 
 June 10, 2015 22:20 | Tags: [calibration](../tag/calibration), [diy](../tag/diy), [air](../tag/air), [dustduino](../tag/dustduino), [open-air](../tag/open-air), [openair](../tag/openair), [shinyei](../tag/shinyei), [particle-monitor](../tag/particle-monitor), [airflow](../tag/airflow), [bubbles](../tag/bubbles), [soap](../tag/soap), [response:11949](../tag/response:11949)
+
+----
 
 ###What I want to do
 I want to measure the airflow through low-cost particle sensors.  The Dylos, Speck, and AirBeam all [use small computer fans](/notes/mathew/05-05-2015/evaluating-low-cost-optical-dust-sensors) that are produce a high-volume, low pressure flow.

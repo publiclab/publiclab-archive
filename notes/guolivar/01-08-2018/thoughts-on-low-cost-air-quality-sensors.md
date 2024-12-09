@@ -14,6 +14,8 @@ by [guolivar](../profile/guolivar) January 08, 2018 23:27
 
 January 08, 2018 23:27 | Tags: [air-quality](../tag/air-quality), [sensors](../tag/sensors), [dustduino](../tag/dustduino), [dust](../tag/dust), [pm](../tag/pm), [barnstar:basic](../tag/barnstar:basic), [humidity](../tag/humidity), [new-zealand](../tag/new-zealand), [particulate-matter](../tag/particulate-matter), [air-sensors](../tag/air-sensors), [purpleair](../tag/purpleair), [pm2.5](../tag/pm2.5), [pm10](../tag/pm10), [plantower](../tag/plantower), [purple-air](../tag/purple-air), [pms5003](../tag/pms5003), [response:15458](../tag/response:15458), [air-sensor-eval](../tag/air-sensor-eval)
 
+----
+
 This was prompted by a [question by warren](https://publiclab.org/questions/warren/01-04-2018/how-good-is-the-purpleair-sensor-and-what-does-it-detect) that asked about the PurpleAir sensors and how their measurements relate to more _traditional_ air quality measurements.
 
 I'm and air quality scientist and I've been working with "low-cost" sensors for a few years in New Zealand (check out my team's project on [community-based air quality measurements](https://cona-rangiora.blogspot.co.nz/)) so I'll try to be systematic ...

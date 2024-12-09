@@ -14,6 +14,8 @@ by [zengirl2](../profile/zengirl2)
 
 April 24, 2018 23:22 | Tags: 
 
+----
+
 Many people suffer from air quality issues inside their homes, whether it be from dust, materials used in construction, furniture, pets or secondhand smoke. The polluted air may be entering from outside, like pollen or factory farms producing dust and toxic gases. 
 
 Off-the-shelf HEPA (high-efficiency particulate air) cleaners can remove particles of different sizes based on the specified range of their interior filters. Some of these devices also include a first layer [carbon filter](https://en.wikipedia.org/wiki/Carbon_filtering) to help reduce odors and gases. Unfortunately these air purifiers start at $50 for mini devices that can handle 75 sq. ft. rooms and go into the thousands of dollars once you get to commercial models. These devices still need to have filters removed and changed as they get dirty and become less effective. So, what is needed is an inexpensive DIY air purifier.
@@ -38,11 +40,11 @@ STILL WRITING--COMING SOON :)
 
 Questions can be either frequently asked questions, or "next step" challenges we're looking to solve.
 
-[questions:tagname]
+[tagname](../../tag/question:tagname)
 
 ## Activities
 
 Activities show how to use this project, step by step.
 
-[activities:tagname]
+[tagname](../../tag/activity:tagname)
 

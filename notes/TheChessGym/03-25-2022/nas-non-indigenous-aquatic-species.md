@@ -8,11 +8,15 @@ uid: 788868
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/045/575/original/riograndecichlid.jpg)
+
 # NAS - Non-indigenous Aquatic Species 
 
 by [TheChessGym](../profile/TheChessGym) March 25, 2022 14:52
 
 March 25, 2022 14:52 | Tags: [first-time-poster](../tag/first-time-poster), [zoom:6](../tag/zoom:6), [lat:22.004174](../tag/lat:22.004174), [lon:76.003417](../tag/lon:76.003417)
+
+----
 
 The Environmental Protection Agency also provides a myriad of topics concerning waterways revealing their quality, size, and species (indigenous and non-indigenous) species that inhabit them. The NAS (Non-indigenous Aquatic Species) depicts all of aquatic species that are indigenous (native) and non-indigenous (non-native) in the U.S. bodies of water that can be researched by state. Thus every State in the U.S. can be referenced and researched according to specific aquatic organisms that inhabit them with specificity as to whether they are native or non-indigenous to that body of water and region. The NAS also presents data specific to aquatic plants that are native and non-native to different waterways specific to each state. The largest contribution is the information presented about the adverse effects non-indigenous species have on the individual ecosystems they invade. 
 

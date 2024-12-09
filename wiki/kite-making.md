@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/019/001/original/Screen_Shot_2016-12-08_at_1.33.42_PM.png)
+
 # Kite making
 
 by [warren](../profile/warren)
 
 December 07, 2016 23:33 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [aerial-photography](../tag/aerial-photography), [diy-kite](../tag/diy-kite), [kites](../tag/kites), [list:grassrootsmapping](../tag/list:grassrootsmapping), [aerial-mapping](../tag/aerial-mapping), [kite-making](../tag/kite-making), [activities:kite-making](../tag/activities:kite-making), [parent:aerial-photography](../tag/parent:aerial-photography)
+
+----
 
 If you can't get balloons, helium, or if it's just too windy (more than about 5mph or 10kph wind) for #balloon-mapping, consider lifting a camera up on a kite. Kites are cheap and available through most of the world, and they're easy to build if you can't find one big enough. 
 
@@ -53,13 +57,13 @@ The **grassrootsmapping** list -- subscribe in the left-side column!
 
 ## Activities
 
-[activities:kite-making]
+[kite-making](../../tag/activity:kite-making)
 
 ****
 
 ## Questions
 
-[questions:kite-making]
+[kite-making](../../tag/question:kite-making)
 
 ****
 
@@ -77,6 +81,6 @@ The **grassrootsmapping** list -- subscribe in the left-side column!
 
 Lots has been published on this site about kite making over the years; some of this may be [adaptable into activities](/notes/liz/08-30-2016/check-out-these-activity-grids) to be listed above:
 
-[notes:kite-making]
+[kite-making](../../tag/kite-making)
 
 

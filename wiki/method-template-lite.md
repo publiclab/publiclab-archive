@@ -14,6 +14,8 @@ by [warren](../profile/warren)
 
 June 19, 2017 14:45 | Tags: [template](../tag/template), [parent:templates](../tag/parent:templates)
 
+----
+
 This is a minimal template for new projects (methods) -- replace this sentence with a few sentences introducing the thing, what it's for, etc. (To use this template to create a new page, [use this link](/wiki/new?n=14552&title=Your%20method%20name%20here))
 
 ## Design goals
@@ -24,11 +26,11 @@ Here outline some of the constraints you're designing within -- like a specific 
 
 Questions can be either frequently asked questions, or "next step" challenges we're looking to solve.
 
-[questions:tagname]
+[tagname](../../tag/question:tagname)
 
 ## Activities
 
 Activities show how to use this project, step by step.
 
-[activities:tagname]
+[tagname](../../tag/activity:tagname)
 

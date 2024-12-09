@@ -8,11 +8,15 @@ uid: 77
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/010/395/original/Untitled_Panorama1_smlr.jpg)
+
 # Additional experience with with Saturn V and SkyShield beta
 
 by [patcoyle](../profile/patcoyle) June 20, 2015 01:42
 
 June 20, 2015 01:42 | Tags: [chdk](../tag/chdk), [delta](../tag/delta), [kap](../tag/kap), [autokap](../tag/autokap), [kap-rigs](../tag/kap-rigs), [kaptery](../tag/kaptery), [saturnv](../tag/saturnv), [skyshield](../tag/skyshield)
+
+----
 
 ###What I want to do
 Continue to explore the [Chris Fastie ](http://publiclab.org/profile/cfastie)and [Don Blair](http://publiclab.org/profile/donblair) Arduino controlled Saturn V and SkyShield beta with pan and tilt and CHDK for aerial panoramas. I've[ reported my initial experience ](http://publiclab.org/notes/patcoyle/06-04-2015/initial-experience-with-saturn-v-and-skyshield-beta)and tried some of this myself [with a different pan-only rig](http://publiclab.org/notes/patcoyle/05-22-2014/initial-results-kap-with-arduino-driven-servo-with-chdk-for-panoramas).

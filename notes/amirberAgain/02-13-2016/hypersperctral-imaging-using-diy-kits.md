@@ -8,11 +8,15 @@ uid: 420776
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/014/282/original/HSI_front_screen.png)
+
 # Hypersperctral imaging using DIY kits
 
 by [amirberAgain](../profile/amirberAgain) February 13, 2016 21:52
 
 February 13, 2016 21:52 | Tags: [spectrometer](../tag/spectrometer), [hyperspectral](../tag/hyperspectral), [first-time-poster](../tag/first-time-poster)
+
+----
 
 A couple of years ago a friend showed me how a hyper spectral camera works. I cam to the realization such an instroment can be built very easily. I have noticed that when using the Public lab's mobile spectrometer it is possible to see variations in lighting when rotating the spectromter jig. I wish to share this project with others.
 

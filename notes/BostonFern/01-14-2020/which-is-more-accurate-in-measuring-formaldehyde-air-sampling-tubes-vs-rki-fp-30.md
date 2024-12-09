@@ -14,4 +14,6 @@ by [BostonFern](../profile/BostonFern) January 14, 2020 20:52
 
 January 14, 2020 20:52 | Tags: [air-quality](../tag/air-quality), [formaldehyde](../tag/formaldehyde), [voc](../tag/voc), [question:general](../tag/question:general), [general](../tag/general), [first-time-poster](../tag/first-time-poster)
 
+----
+
 I need to figure out the level of formaldehyde in my house.    I know I can use different methods and each has its pros and cons.  Right now I need to know whether the air sampling tubes is more or less accurate than RKI FP-30\.

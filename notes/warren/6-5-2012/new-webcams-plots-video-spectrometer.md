@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/IMG_1472.JPG)
+
 # New webcams for PLOTS video spectrometer
 
 by [warren](../profile/warren) June 05, 2012 15:33
 
 June 05, 2012 15:33 | Tags: [spectrometer](../tag/spectrometer)
+
+----
 
 I have been testing all kinds of cheap webcams for the next batch of video spectrometers (we've been sold out for a month, because the old webcams we used are no longer available in quantity or for the same low $7.50 price). I finally found one which seems perfect!
 

@@ -8,11 +8,15 @@ uid: 379
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/044/851/original/Ida_quick_maps.png)
+
 # Did NGS Fly over your US Points of Interest?  Cartosco.pe can help you!  NGS Quick Maps
 
 by [eustatic](../profile/eustatic) September 24, 2021 19:47
 
 September 24, 2021 19:47 | Tags: [aerial-photography](../tag/aerial-photography), [imagery](../tag/imagery), [disaster-response](../tag/disaster-response), [aerialphotography](../tag/aerialphotography), [zoom:16](../tag/zoom:16), [lat:29.688544](../tag/lat:29.688544), [lon:-89.981737](../tag/lon:-89.981737), [cartosco.pe](../tag/cartosco.pe)
+
+----
 
 The [Cartosco.pe](http://Cartosco.pe) Project is an amazing resource for creating citizen science imagery ID projects after a disaster.
 

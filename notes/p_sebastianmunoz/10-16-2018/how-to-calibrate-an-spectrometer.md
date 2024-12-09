@@ -14,4 +14,6 @@ by [p_sebastianmunoz](../profile/p_sebastianmunoz) October 16, 2018 22:12
 
 October 16, 2018 22:12 | Tags: [question:general](../tag/question:general)
 
+----
+
 I have the first image from my spectrometer, following the steps you recommend. But I don't know how to use the image to calibrate the spectrometer

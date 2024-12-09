@@ -8,11 +8,15 @@ uid: 9
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/004/093/original/plots-logo-transparent.jpg)
+
 # Job Posting: Web designer/developer
 
 by [Shannon](../profile/Shannon) May 07, 2014 14:51
 
 May 07, 2014 14:51 | Tags: [jobs](../tag/jobs)
+
+----
 
 **Public Laboratory for Open Technology and Science: Web designer/developer**
 

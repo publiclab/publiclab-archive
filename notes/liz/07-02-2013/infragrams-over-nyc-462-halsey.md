@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/000/617/original/IMG_3106.JPG)
+
 # Infragrams over NYC: 462 Halsey
 
 by [liz](../profile/liz) July 02, 2013 20:23
 
 July 02, 2013 20:23 | Tags: [new-york-city](../tag/new-york-city), [near-infrared-camera](../tag/near-infrared-camera), [5bf](../tag/5bf), [five-borough-farm](../tag/five-borough-farm)
+
+----
 
 ##handheld Infragrams of 462 Halsey Garden, Brooklyn
 

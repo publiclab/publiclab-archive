@@ -14,6 +14,8 @@ by [HanHeejo](../profile/HanHeejo) December 05, 2016 02:23
 
 December 05, 2016 02:23 | Tags: [data](../tag/data), [question:general](../tag/question:general), [excel](../tag/excel)
 
+----
+
 I wanna know that receiving data in excel.
 
 I'm using spectrometer 3.0 kit, but only graph in web.

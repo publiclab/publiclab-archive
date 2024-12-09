@@ -14,6 +14,8 @@ by [bhamster](../profile/bhamster)
 
 April 27, 2022 21:08 | Tags: 
 
+----
+
 On this page you'll find more information about some of the words and terms seen and used around Public Lab:
 
 - [Structure](#Structure)

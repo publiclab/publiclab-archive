@@ -3,6 +3,8 @@ uid: 540012
 created_at: 2018-07-03 19:24:09 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/540012/medium/SylvanCloseCrop.jpg)
+
 # sylvan
 
 I'm interested in helping non-scientists learn to ask and address scientific questions about their local community. 

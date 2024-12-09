@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/003/620/original/IMG_2262.JPG)
+
 # reducing reflections in foldup spec
 
 by [liz](../profile/liz) April 11, 2014 06:28
 
 April 11, 2014 06:28 | Tags: [spectrometer](../tag/spectrometer), [fold-up](../tag/fold-up), [reflection](../tag/reflection)
+
+----
 
 Originally, it was [stoft](http://publiclab.org/profile/stoft) who pointed out that the shininess of cell phones backs when using the foldup spec can contribute to reflections. This is quite true. After helping 60+ people make foldup specs in the past month, I needed a quick fix. 
 

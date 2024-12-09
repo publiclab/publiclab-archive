@@ -8,11 +8,15 @@ uid: 428957
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/011/790/original/marshy_fork_still.jpg)
+
 # AMP August and September workshops and fieldwork
 
 by [LauraChipley](../profile/LauraChipley) October 06, 2015 17:06
 
 October 06, 2015 17:06 | Tags: [west-virginia](../tag/west-virginia), [mountaintop-removal](../tag/mountaintop-removal), [southeast](../tag/southeast), [amp](../tag/amp), [mtr](../tag/mtr), [appalachia](../tag/appalachia)
+
+----
 
 
 [![00010.MTS.00_00_07_06.Still001.jpg](https://i.publiclab.org/system/images/photos/000/011/772/medium/00010.MTS.00_00_07_06.Still001.jpg)](https://i.publiclab.org/system/images/photos/000/011/772/original/00010.MTS.00_00_07_06.Still001.jpg)

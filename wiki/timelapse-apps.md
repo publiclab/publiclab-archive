@@ -14,6 +14,8 @@ by [warren](../profile/warren), [cfastie](../profile/cfastie), [gonzoearth](../p
 
 December 16, 2011 15:08 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [timelapse](../tag/timelapse), [apps](../tag/apps), [parent:balloon-mapping](../tag/parent:balloon-mapping)
 
+----
+
 _Continuous shooting phone applications_
 
 A list of apps (feel free to add more apps below) which take timelapse image sequences, so you can use them on a [balloon mapping](/tool/balloon-mapping) rig for aerial photography. Most important is **whether they capture in the full resolution of the camera, and/or if they compress to make it into a video**. 

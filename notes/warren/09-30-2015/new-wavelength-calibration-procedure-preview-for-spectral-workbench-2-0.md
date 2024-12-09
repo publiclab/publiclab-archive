@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/011/718/original/Screenshot_2015-09-30_at_3.45.31_PM.png)
+
 # New wavelength calibration procedure preview for Spectral Workbench 2.0
 
 by [warren](../profile/warren) September 30, 2015 20:03
 
 September 30, 2015 20:03 | Tags: [spectrometer](../tag/spectrometer), [calibration](../tag/calibration), [web-development](../tag/web-development), [spectral-workbench](../tag/spectral-workbench), [development](../tag/development), [coding](../tag/coding)
+
+----
 
 ###What I want to do
 

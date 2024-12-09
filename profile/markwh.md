@@ -3,6 +3,8 @@ uid: 428820
 created_at: 2014-09-22 15:33:01 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/98c05ed545d45e189b35aefc75fb11b8)
+
 # markwh
 
 I am a PhD student studying water-quality modeling at UMass Amherst.

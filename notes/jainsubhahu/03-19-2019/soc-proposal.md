@@ -8,11 +8,15 @@ uid: 558495
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/030/298/original/screenshot-code.publiclab.org-2019.03.20-01-49-15.png)
+
 # SoC proposal: Community-toolbox
 
 by [jainsubhahu](../profile/jainsubhahu) March 19, 2019 20:19
 
 March 19, 2019 20:19 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [soc](../tag/soc), [response:13975](../tag/response:13975), [first-time-poster](../tag/first-time-poster), [rgsoc-2019](../tag/rgsoc-2019), [gsoc-2019](../tag/gsoc-2019), [soc-2019](../tag/soc-2019), [soc-2019-proposals](../tag/soc-2019-proposals)
+
+----
 
 (This template is for students applying to summer code programs with Public Lab. Use this link to start writing a post: [https://publiclab.org/post?n=899&tags=soc,soc-2019,soc-2019-proposals](https://publiclab.org/post?n=899&tags=soc,soc-2019,soc-2019-proposals) You can delete this line once you've started filling it out.)
 

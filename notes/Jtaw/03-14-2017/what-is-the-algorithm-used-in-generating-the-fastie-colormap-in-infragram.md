@@ -14,6 +14,8 @@ by [Jtaw](../profile/Jtaw) March 14, 2017 12:41
 
 March 14, 2017 12:41 | Tags: [colormap](../tag/colormap), [question:ndvi](../tag/question:ndvi), [question:infragram](../tag/question:infragram), [fastie](../tag/fastie), [question:general](../tag/question:general), [question:image-sequencer](../tag/question:image-sequencer), [question:colormap](../tag/question:colormap), [first-time-poster](../tag/first-time-poster)
 
+----
+
 \###What I want to do or know
 
 I want to know how the NDVI values were converted into its equivalent fastie color.

@@ -8,11 +8,15 @@ uid: 462163
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/013/773/original/Sindhudurg_1.jpg)
+
 # Shivaji Competition: Islands, Deltas and Rising Seas
 
 by [glennweiss](../profile/glennweiss) January 23, 2016 14:43
 
 January 23, 2016 14:43 | Tags: [sea-level-rise](../tag/sea-level-rise), [climate-change](../tag/climate-change), [global-climate-change](../tag/global-climate-change), [community-driven](../tag/community-driven), [competition](../tag/competition)
+
+----
 
 In GIF format, the Shivaji Competition seeks actual and impossible ideas to maintain human habitation on islands and deltas doomed by the predicted sea level rise of at least one meter in the 21st century.  All entries will be submitted as animated GIFs for social media broadcast and museum exhibition.  One finalist will be selected to participate in the Rising Waters Confab 2016 to be held on Captiva Island, Florida, USA in May, 2016.  Roundtrip transportation provided.  Visit Shivaji2016.com.  All entries due on March 10, 2016.  Free to enter.
 

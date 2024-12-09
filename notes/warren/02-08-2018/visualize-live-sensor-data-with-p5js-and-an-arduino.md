@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/023/509/original/IMG_20180207_135242.jpg)
+
 # Visualize live sensor data with p5js and an Arduino
 
 by [warren](../profile/warren) February 08, 2018 04:39
 
 February 08, 2018 04:39 | Tags: [air-quality](../tag/air-quality), [sensors](../tag/sensors), [gsoc](../tag/gsoc), [dustduino](../tag/dustduino), [dust](../tag/dust), [pm](../tag/pm), [shinyei](../tag/shinyei), [javascript](../tag/javascript), [webjack](../tag/webjack), [seeks:replications](../tag/seeks:replications), [activity:webjack](../tag/activity:webjack), [activity:dustduino](../tag/activity:dustduino), [activity:pm](../tag/activity:pm), [activity:arduino](../tag/activity:arduino), [activity:dust](../tag/activity:dust), [air-sensors](../tag/air-sensors), [purpleair](../tag/purpleair), [pm10](../tag/pm10), [pm2](../tag/pm2), [p5js](../tag/p5js), [activity:javascript](../tag/activity:javascript)
+
+----
 
 (This is a draft!) I made a simple p5js sketch (read below) to live sensor data off of an Arduino, from a web page -- with no drivers or cables, just audio tones. It's not perfect, but it's an interesting starting point and it's pretty neat. The sketch is here:
 

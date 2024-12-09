@@ -14,6 +14,8 @@ by [Shannon](../profile/Shannon), [warren](../profile/warren)
 
 June 01, 2011 15:15 | Tags: 
 
+----
+
 _A shorter version of this interview was published in the first issue of the Grassroots Mapping Forum_
 
 _Shannon Dosemagen had a chance in May 2011 to speak at length with Barbara Marcotte, a resident of Myrtle Grove, Louisiana, about the Wilkinson Bay area as well as the broader environmental threats to the region._

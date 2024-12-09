@@ -8,11 +8,15 @@ uid: 430549
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/022/944/original/Screen_Shot_2017-12-15_at_3.23.19_PM.png)
+
 # SmART-Form
 
 by [gretchengehrke](../profile/gretchengehrke), [nshapiro](../profile/nshapiro), [liz](../profile/liz)
 
 September 21, 2017 18:52 | Tags: [formaldehyde](../tag/formaldehyde), [indoor-air-quality-monitoring](../tag/indoor-air-quality-monitoring), [indoor-air-quality](../tag/indoor-air-quality), [smart-form](../tag/smart-form)
+
+----
 
 **Smartphone App for Residential Testing of Formaldehyde (SmART-Form): a community science effort to measure formaldehyde in the home environment.** 
 
@@ -37,10 +41,10 @@ To see the latest progress on this project, please search the [tag “smart-form
 ****
 
 #### Questions
-[questions:smart-form]
+[smart-form](../../tag/question:smart-form)
 ****
 #### Activities
-[activities:smart-form]
+[smart-form](../../tag/activity:smart-form)
 
 ### Who is working on this?
 

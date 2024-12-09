@@ -8,11 +8,15 @@ uid: 422561
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/039/469/original/Screen_Shot_2020-05-20_at_9.51.57_AM.png)
+
 # Wetlands
 
 by [bhamster](../profile/bhamster), [joyofsoy](../profile/joyofsoy), [stevie](../profile/stevie)
 
 December 06, 2019 17:45 | Tags: [wetlands](../tag/wetlands), [regulations](../tag/regulations)
+
+----
 
 Wetlands are places that are saturated with water, either salt or fresh. Wetlands include areas on the edges of larger water bodies including lakes, oceans, bayous, rivers and deltas. There are also wetlands that are independent from bodies of water, but remain saturated seasonally or year around. You can read more about wetland types from [NOAA here ](https://oceanservice.noaa.gov/facts/wetland.html) and from the [EPA here](https://www.epa.gov/wetlands/what-wetland). 
 
@@ -29,17 +33,17 @@ Federally and regionally there are many groups who work on wetland protections. 
 
 ##Wetlands Monitoring  Activities 
 
-[activities:wetlands]
+[wetlands](../../tag/activity:wetlands)
 
 ## Frequently Asked Questions
 
-[questions:wetlands]
+[wetlands](../../tag/question:wetlands)
 
 ****
 
 ## Updates
 
-[notes:wetlands!question:wetlands]
+[wetlands!question:wetlands](../../tag/wetlands!question:wetlands)
 
 ****
 

@@ -8,11 +8,15 @@ uid: 664477
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/042/498/original/Soil_samples_w_lead.jpg)
+
 # Research area review on soil + events!
 
 by [bhamster](../profile/bhamster) January 25, 2021 17:01
 
 January 25, 2021 17:01 | Tags: [soil](../tag/soil), [research](../tag/research), [reviews](../tag/reviews), [soil-contamination](../tag/soil-contamination), [soil-contamination-testing](../tag/soil-contamination-testing), [research-area-review](../tag/research-area-review)
+
+----
 
 _Image: Soil samples with lead, from the [PlaxcoLab](https://www.flickr.com/photos/34857812@N04/3235839768), [CC BY](https://creativecommons.org/licenses/by/2.0/)_
 

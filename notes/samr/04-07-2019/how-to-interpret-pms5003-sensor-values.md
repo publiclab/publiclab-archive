@@ -14,6 +14,8 @@ by [samr](../profile/samr) April 07, 2019 21:48
 
 April 07, 2019 21:48 | Tags: [air-quality](../tag/air-quality), [question:air-quality](../tag/question:air-quality), [purpleair](../tag/purpleair), [question:purpleair](../tag/question:purpleair), [first-time-poster](../tag/first-time-poster)
 
+----
+
 hi. we are trying to use the pms5003 sensor for a school project to take air quality measurements. We don't have much experience with air quality measurements/standards. Can you explain in simple terms what the 12 data values are that this sensor reports back ?
 
 For example, the first 6 are two sets of PM1, PM2.5, and PM10 concentrations. the first set are labeled "standard", while the second set are labeled "atmospheric environment". What do these measure and how do the "standard" ones differ from the "atmospheric environment" ones?

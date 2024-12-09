@@ -14,6 +14,8 @@ by [Pratt_GI](../profile/Pratt_GI) November 15, 2012 22:51
 
 November 15, 2012 22:51 | Tags: [balloon-mapping](../tag/balloon-mapping), [event](../tag/event), [prattinstitute](../tag/prattinstitute), [green-infrastructures](../tag/green-infrastructures), [pspd](../tag/pspd), [pratt](../tag/pratt), [replication:14022](../tag/replication:14022)
 
+----
+
 As part of Green Infrastructure (GI) projects funded by the Department of Environmental Protection (DEP), we, as Pratt Institute, began realizing a series of design and technology workshops on environmental issues as a part of community outreach. We aim to engage the general public into issues related to environmental challenges, like combined sewer outfall, solid waste management and the urban heat island effect.
 
 Our second* design and technology workshop," DIY Aerial Imaging + Map Knitting " led by Liz Barry of Public Laboratory realized on October 25th at Pratt Institute Brooklyn Campus. Participants from Pratt and outside, built a balloon mapping set and conducted aerial imaging of Cannoneer Court Parking lot within Pratt Institute’s Brooklyn Campus.  This parking lot, one of the funded GI projects, currently has problems with rainwater ponding.. We aim to solve the ponding problems through a green infrastructure retrofit with a set of bioswales and pervious pavings applied to the parking lot.

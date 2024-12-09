@@ -8,10 +8,14 @@ uid: 503010
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/019/565/original/P1080505.JPG)
+
 # MapKnitter map of uncc_JBD_2017
 
 by [JosephDodd](../profile/JosephDodd) February 15, 2017 20:53
 
 February 15, 2017 20:53 | Tags: [mapknitter](../tag/mapknitter), [lat:35.3054333015](../tag/lat:35.3054333015), [lon:-80.7341265678](../tag/lon:-80.7341265678)
+
+----
 
 https://mapknitter.org/embed/uncc\_jbd\_2017

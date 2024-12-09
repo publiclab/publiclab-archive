@@ -8,11 +8,15 @@ uid: 8
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/000/861/original/Screen_Shot_2013-07-18_at_4.24.00_PM.png)
+
 # Digital STS workshop at Arnold Arboretum in Boston
 
 by [sara](../profile/sara) July 21, 2013 17:28
 
 July 21, 2013 17:28 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [boston](../tag/boston), [trees](../tag/trees)
+
+----
 
 ##What I did
 

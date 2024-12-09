@@ -8,11 +8,15 @@ uid: 152
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/016/314/original/Left03-cropped.png)
+
 # PL with FA @ Venice Bienalle
 
 by [hagitkeysar](../profile/hagitkeysar) May 26, 2016 20:08
 
 May 26, 2016 20:08 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [3d](../tag/3d), [brazil](../tag/brazil), [blog](../tag/blog), [barnstar:basic](../tag/barnstar:basic), [israel-palestine](../tag/israel-palestine), [forensic-architecture](../tag/forensic-architecture), [venice-biennale](../tag/venice-biennale)
+
+----
 
 I have had a really huge opportunity to join the work of the curator Debby Farber from the Israeli organization "[Zochrot](zochrot.org)" and Eyal Weizman of[ Forensic Architecture](forensic-architecture.org) that concerns the ongoing displacement of the Bedouin [village of al-Araqib](https://publiclab.org/notes/hagitkeysar/01-01-2016/ground-truth-in-the-negev-naqab-desert-israel) in the south of Israel. Together with Ariel Caine - who is an artist and researcher in Goldsmith's Center for Research Architecture at Goldsmiths - we have worked with a few totally inspiring and resilient activists, Aziz al-Turi and Nuri al-Uqbi, from the village in creating kite and balloon aerial photography, which were processed by Ariel into 3D models, with the intention to produce vivid aerial testimonies of systemic violence and abuse of human rights. 
 This work is now presented as part of Forensic Architecture's projects in the Venice Bienalle (The International/Italian Pavilion in the Giardini and the V&A Cast Courts at the Arsenale).

@@ -14,6 +14,8 @@ by [warren](../profile/warren)
 
 July 30, 2012 16:46 | Tags: 
 
+----
+
 ###Liz###
 * Achieved: FAA NOTAM process wrangling: (http://publiclaboratory.org/wiki/mapping-curriculum-regulatory-situation, 
 http://publiclaboratory.org/wiki/balloon-mapping-regulations), Pfizer lease for August 1 to sign, presented Public Laboratory to Green Infrastructure Engineering group at Columbia (thermal infrared cameras to borrow, air column monitor). 

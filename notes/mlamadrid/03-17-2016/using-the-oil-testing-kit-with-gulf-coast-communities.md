@@ -14,6 +14,8 @@ by [mlamadrid](../profile/mlamadrid) March 17, 2016 04:10
 
 March 17, 2016 04:10 | Tags: [with:stevie](../tag/with:stevie)
 
+----
+
 This is an article by **Stevie Lewis** for [Community Science Forum Issue #1 on DYI Oil Testing](https://publiclab.org/forum). Buy a copy in the Public Lab Store. 
 
 Over the course of the Homebrew project, several community groups and nonprofits worked on the kit and contributed to tool development, community use cases for the kit and workshop design. As the project progressed, more people began to identify different ways the kit could potentially be used to help address community questions.

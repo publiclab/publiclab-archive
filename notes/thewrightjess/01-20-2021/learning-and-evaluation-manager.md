@@ -8,11 +8,15 @@ uid: 603909
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/042/469/original/Organizational_Learning.jpg)
+
 # Learning and Evaluation Manager
 
 by [thewrightjess](../profile/thewrightjess) January 20, 2021 20:24
 
 January 20, 2021 20:24 | Tags: [evaluation](../tag/evaluation), [jobs](../tag/jobs)
+
+----
 
 #### Our Organization 
 Join our team and work to bring about a healthier and more equitable world through community science, open technology, and the pursuit of environmental justice. Public Lab is a community, supported by a 501(c)(3) non-profit, that develops and applies open-source tools to environmental exploration and investigation. By democratizing inexpensive and accessible do-it-yourself techniques, Public Lab creates a collaborative network of practitioners who actively reimagine the human relationship with the environment. 

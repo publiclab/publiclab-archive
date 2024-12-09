@@ -8,11 +8,15 @@ uid: 664477
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/044/813/original/River_Alejo_copy.jpeg)
+
 # EVENT: Wondering about Wastewater? Join us for a series of events to wrap up Public Lab’s latest research area review!
 
 by [bhamster](../profile/bhamster) September 14, 2021 15:06
 
 September 14, 2021 15:06 | Tags: [event](../tag/event), [sewage](../tag/sewage), [water-quality](../tag/water-quality), [stormwater](../tag/stormwater), [event:rsvp](../tag/event:rsvp), [wastewater](../tag/wastewater), [reviews](../tag/reviews), [research-area-review](../tag/research-area-review), [research-curation-fellows-event](../tag/research-curation-fellows-event), [rsvp:denissebn_06](../tag/rsvp:denissebn_06), [with:alejobonifacio](../tag/with:alejobonifacio), [date:09-29-2021](../tag/date:09-29-2021), [rsvp:amirberagain](../tag/rsvp:amirberagain), [rsvp:jordanyjackson](../tag/rsvp:jordanyjackson)
+
+----
 
 _Lead image: Along the Suquía River in Córdoba, Argentina. From [this comment](https://publiclab.org/notes/bhamster/08-18-2021/post-your-photos-of-possible-wastewater-pollution-postea-tus-fotos-de-aguas-posiblemente-residuales#c29184) by [](https://publiclab.org/profile/alejobonifacio)@alejobonifacio, CC BY SA_
 

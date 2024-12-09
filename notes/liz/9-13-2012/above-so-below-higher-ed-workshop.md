@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/sites/default/files/As above so below flyer.png)
+
 # As Above So Below: Higher E+D workshop
 
 by [liz](../profile/liz) September 13, 2012 23:02
 
 September 13, 2012 23:02 | Tags: [kite-mapping](../tag/kite-mapping), [ilab](../tag/ilab), [events](../tag/events)
+
+----
 
 Title: Weather sensing with kites, bodies, and cameras
 Date: September 23

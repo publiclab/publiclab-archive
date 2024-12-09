@@ -14,4 +14,6 @@ by [Shannon](../profile/Shannon) April 19, 2012 18:05
 
 April 19, 2012 18:05 | Tags: 
 
+----
+
 From the Institute for Southern Studies: <a href="http://www.southernstudies.org/sites/default/files/BP%20Troubled%20Waters%20Web.pdf">http://www.southernstudies.org/sites/default/files/BP%20Troubled%20Waters%20Web.pdf</a>

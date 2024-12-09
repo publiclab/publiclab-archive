@@ -8,11 +8,15 @@ uid: 4
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/004/211/original/Screen_Shot_2014-05-09_at_5.27.34_PM.png)
+
 # Illustrating Infragram Point & Shoot Instructions
 
 by [mathew](../profile/mathew) May 10, 2014 00:29
 
 May 10, 2014 00:29 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [infragram](../tag/infragram), [instructions](../tag/instructions), [mobius](../tag/mobius)
+
+----
 
 ###What I want to do
 Use Sketchup models of the Mobius action cam to illustrate instructions on its use.  The [existing instructions are hard to read](http://www.mytempfiles.info/mobius/) and could use illustrations. They also [rely on pages in the RC Groups Forums](http://www.rcgroups.com/forums/showpost.php?p=25170908&postcount=3).  I want to make a single document of instructions.

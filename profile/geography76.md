@@ -3,6 +3,8 @@ uid: 176
 created_at: 2013-05-01 14:03:14 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/176/medium/dana-balloon.jpg)
+
 # geography76
 
 I'm a geographer, open data enthusiast, and hacker from Philadelphia. I'm interested in open source communities and science and technology education and outreach.

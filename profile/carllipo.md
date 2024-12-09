@@ -3,6 +3,8 @@ uid: 170171
 created_at: 2013-07-17 16:52:34 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/d159535b96a3311898a2a185705b50d2)
+
 # carllipo
 
 

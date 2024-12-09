@@ -8,11 +8,15 @@ uid: 451398
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/016/319/original/390_ValVerdeCollage.jpg)
+
 # Val Verde, California
 
 by [sarasage](../profile/sarasage)
 
 May 27, 2016 00:07 | Tags: [losangeles](../tag/losangeles), [regionalbarnraising](../tag/regionalbarnraising), [environmentaljustice](../tag/environmentaljustice), [landfills](../tag/landfills), [val-verde](../tag/val-verde)
+
+----
 
 ##Val Verde, California 
 

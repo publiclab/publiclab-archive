@@ -3,6 +3,8 @@ uid: 502943
 created_at: 2017-02-14 16:18:51 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/950ada1fe68135dd25f33cf7189236c3)
+
 # Dave-O
 
 Hi and hello

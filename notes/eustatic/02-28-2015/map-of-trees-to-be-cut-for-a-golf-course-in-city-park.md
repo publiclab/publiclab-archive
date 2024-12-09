@@ -8,11 +8,15 @@ uid: 379
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/009/128/original/17_live_oak_trees_to_be_cut_map_city_park.png)
+
 # Map of Trees to be cut for a golf course in City Park
 
 by [eustatic](../profile/eustatic) February 28, 2015 22:18
 
 February 28, 2015 22:18 | Tags: [gulf-coast](../tag/gulf-coast), [mapknitter](../tag/mapknitter), [neworleans](../tag/neworleans), [land-use](../tag/land-use)
+
+----
 
 ###What I want to do
 

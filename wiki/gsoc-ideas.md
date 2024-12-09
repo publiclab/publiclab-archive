@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/028/588/original/Screen_Shot_2019-01-02_at_2.03.20_PM.png)
+
 # SoC ideas
 
 by [warren](../profile/warren), [liz](../profile/liz), [bansal_sidharth2996](../profile/bansal_sidharth2996), [harmanjolly97](../profile/harmanjolly97), [pydevsg](../profile/pydevsg), [IshaGupta18](../profile/IshaGupta18), [lit2017001](../profile/lit2017001), [govindgoel](../profile/govindgoel), [debasish_sahoo1998](../profile/debasish_sahoo1998), [alaxallves](../profile/alaxallves), [sagarpreet](../profile/sagarpreet), [keshavgarg234156](../profile/keshavgarg234156), [siaw23](../profile/siaw23), [gauravano](../profile/gauravano), [jainaman224](../profile/jainaman224), [souravirus](../profile/souravirus), [divyabaid16](../profile/divyabaid16), [IgorWilbert](../profile/IgorWilbert), [harshithpabbati](../profile/harshithpabbati), [mkashyap354](../profile/mkashyap354), [Supun](../profile/Supun), [ryzokuken](../profile/ryzokuken), [ashwinvasudevan](../profile/ashwinvasudevan), [nedhorning](../profile/nedhorning), [stevie](../profile/stevie), [ddileona](../profile/ddileona), [mathew](../profile/mathew), [dhenrynola](../profile/dhenrynola), [Sreyanth](../profile/Sreyanth), [patcoyle](../profile/patcoyle), [gonzoearth](../profile/gonzoearth)
 
 February 28, 2012 22:12 | Tags: [gsoc](../tag/gsoc), [developers](../tag/developers), [parent:gsoc](../tag/parent:gsoc), [software-outreach](../tag/software-outreach), [rgsoc-2019](../tag/rgsoc-2019), [gsoc-2019](../tag/gsoc-2019)
+
+----
 
 This is the ideas page for Public Lab's [Rails Girls Summer of Code](https://railsgirlssummerofcode.org/) and [Google Summer of Code program](/gsoc), programs for student fellows to work on free and open source projects. 
 
@@ -46,7 +50,7 @@ Ask questions, and share your ideas:
 
 ## Questions
 
-[questions:soc]
+[soc](../../tag/question:soc)
 
 ****
 

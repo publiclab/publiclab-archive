@@ -8,11 +8,15 @@ uid: 492745
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/018/287/original/GrapesW2Eth1.png)
+
 # Extractions from Grapes with Alcohols
 
 by [iamkat](../profile/iamkat) October 06, 2016 15:58
 
 October 06, 2016 15:58 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [comparison](../tag/comparison), [extraction](../tag/extraction), [spectrum](../tag/spectrum), [grapes](../tag/grapes), [polyphenols](../tag/polyphenols), [alcohol](../tag/alcohol), [phytophenol](../tag/phytophenol), [anthocyanin](../tag/anthocyanin), [chemical_analysis](../tag/chemical_analysis)
+
+----
 
 ###What I want to do
 

@@ -8,11 +8,15 @@ uid: 4
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/018/136/original/6786569511_3b53017e4e_o.jpg)
+
 # PET Bottle & Rubber Band Rig
 
 by [mathew](../profile/mathew) September 23, 2016 20:16
 
 September 23, 2016 20:16 | Tags: [1](../tag/1), [difficulty:easy](../tag/difficulty:easy), [time:3h](../tag/time:3h), [category:build](../tag/category:build), [activity:aerial-photography](../tag/activity:aerial-photography), [activity:camera-rigs](../tag/activity:camera-rigs), [activity:balloon-mapping](../tag/activity:balloon-mapping)
+
+----
 
 This research note is a copy of the [PET Bottle Rig Wiki page](/wiki/pet-bottle-rubber-band-rig).
 

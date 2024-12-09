@@ -3,6 +3,8 @@ uid: 512400
 created_at: 2017-08-10 15:08:45 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/da38d26bc65d9c2d91786c794edc9ef7)
+
 # camiloreyes
 
 quiero aprender sobre filtrado de imagenes en infrarojo.

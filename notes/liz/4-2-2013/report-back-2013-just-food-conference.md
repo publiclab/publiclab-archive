@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/sites/default/files/justfood_logo.gif)
+
 # report back from 2013 Just Food Conference
 
 by [liz](../profile/liz) April 03, 2013 00:47
 
 April 03, 2013 00:47 | Tags: [new-york-city](../tag/new-york-city), [5bf](../tag/5bf), [five-borough-farm](../tag/five-borough-farm), [open-space-technology](../tag/open-space-technology), [events:new-york-city](../tag/events:new-york-city)
+
+----
 
 On Friday March 29th, two staffers from the Design Trust and I led two brief workshops at the <a href="http://www.justfood.org/">Just Food</a> <a href="http://justfood.org/events">Conference</a>. 
 

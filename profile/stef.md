@@ -3,6 +3,8 @@ uid: 482758
 created_at: 2016-07-08 13:25:10 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/0ca5a9471bc6f1c163fefba531ab6679)
+
 # stef
 
 

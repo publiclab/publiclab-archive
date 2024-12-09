@@ -8,11 +8,15 @@ uid: 185763
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/001/140/original/rig-bottom.png)
+
 # Sled kite video rig
 
 by [jmgianca](../profile/jmgianca) August 15, 2013 05:01
 
 August 15, 2013 05:01 | Tags: [kite-mapping](../tag/kite-mapping), [michigan](../tag/michigan), [sled-kite](../tag/sled-kite), [sled](../tag/sled)
+
+----
 
 ##What I want to do
 Tomorrow is the test of my newly made 4' sled kite and video camera rig.  First I'll have to stabilize the kite by making a tail then I'll see if it is strong enough to lift the 1# rig.  

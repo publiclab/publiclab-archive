@@ -14,6 +14,8 @@ by [warren](../profile/warren)
 
 April 21, 2012 14:54 | Tags: [balloon-mapping](../tag/balloon-mapping), [grassrootsmappingwiki](../tag/grassrootsmappingwiki)
 
+----
+
 (copied from Pat Coyle's entries in the Grassroots Mapping Wiki)
 
 On February 21st, I made my first attempt to try the camera and GPS unit. I pulled the camera up into a cut-off 2 liter soda bottle and attached the small GPS unit on top of the soda bottle. I hooked it on the end of the broom handle and tried it outside in the front yard.

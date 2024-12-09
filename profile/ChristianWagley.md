@@ -3,6 +3,8 @@ uid: 521037
 created_at: 2017-12-22 13:27:11 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/8be3d4e62d7c1ee5c2b55453c0792905)
+
 # ChristianWagley
 
 I live in Pensacola, FL, and am coastal organizer in SE Alabama and NW Florida for Gulf Restoration Network. I have some science background but have worked mostly in policy and advocacy in my career--much of it related to green buildings and walkable communities, and how our land development patterns affect water quality. Much of my GRN work relates to water quality, coastal resilience, offshore drilling, and the transition to clean energy. 

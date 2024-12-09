@@ -14,6 +14,8 @@ by [liz](../profile/liz), [warren](../profile/warren)
 
 August 15, 2019 17:21 | Tags: 
 
+----
+
 Community science projects begin when frontline leaders facing environmental injustice set goals and go about producing the knowledge needed for self-determination. Projects follow a non-linear trajectory that may include organizing, mobilization, empirical documentation, and [advocacy](/sandbox-advocacy) based on the results.
 
 Read about milestones achieved by projects around the world on the [Stories page](/stories). 

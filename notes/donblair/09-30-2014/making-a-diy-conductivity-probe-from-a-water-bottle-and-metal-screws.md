@@ -8,11 +8,15 @@ uid: 43651
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/007/222/original/IMG_0737.JPG)
+
 # Making a DIY conductivity probe from a water bottle and metal screws
 
 by [donblair](../profile/donblair) September 30, 2014 23:20
 
 September 30, 2014 23:20 | Tags: [water-quality](../tag/water-quality), [tutorial](../tag/tutorial), [coqui](../tag/coqui), [difficulty:easy](../tag/difficulty:easy), [category:build](../tag/category:build), [time:1h](../tag/time:1h), [status:draft](../tag/status:draft), [activity:coqui-mods](../tag/activity:coqui-mods)
+
+----
 
 ### Creating a conductivity probe:
 

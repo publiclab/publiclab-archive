@@ -14,6 +14,8 @@ by [btbonval](../profile/btbonval)
 
 December 17, 2014 19:32 | Tags: [spectrography](../tag/spectrography), [infrared](../tag/infrared), [spectrometry](../tag/spectrometry), [photosynthesis](../tag/photosynthesis), [plant-health](../tag/plant-health), [plant-biology](../tag/plant-biology)
 
+----
+
 ### Fundamentals
 
 #### Photosynthesis as a health monitor

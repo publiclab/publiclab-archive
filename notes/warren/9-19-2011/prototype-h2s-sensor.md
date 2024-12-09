@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/h2s.jpg)
+
 # Prototype H2S sensor
 
 by [warren](../profile/warren) September 19, 2011 16:30
 
 September 19, 2011 16:30 | Tags: [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s), [hydrogen-sulfide-detection](../tag/hydrogen-sulfide-detection), [hydrogen-sulfide-sensor](../tag/hydrogen-sulfide-sensor)
+
+----
 
 *VERY* basic code here: https://github.com/jywarren/plots-sensorkit
 

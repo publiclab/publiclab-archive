@@ -14,6 +14,8 @@ by [warren](../profile/warren), [stevie](../profile/stevie)
 
 February 05, 2016 23:04 | Tags: [spectrometer](../tag/spectrometer), [community](../tag/community), [spectrometry](../tag/spectrometry), [oil-testing-kit](../tag/oil-testing-kit)
 
+----
+
 <div class="alert alert-info">This is Part II of <a href="/wiki/diy-oil-testing">DIY Oil Testing: Progress toward community oil pollution analysis</a></div>
 
 # II. Working with communities

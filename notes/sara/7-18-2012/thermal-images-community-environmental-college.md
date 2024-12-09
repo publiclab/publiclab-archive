@@ -8,11 +8,15 @@ uid: 8
 
 ---
 
+![](https://publiclab.org/sites/default/files/ThermalImagepipe70-90_0.png)
+
 # Thermal Images for Community Environmental College
 
 by [sara](../profile/sara) July 18, 2012 14:31
 
 July 18, 2012 14:31 | Tags: [thermal-flashlight](../tag/thermal-flashlight), [replication:625](../tag/replication:625)
+
+----
 
 Over this week, I'm working with <a href="http://ejlri.wordpress.com/">Environmental Justice League</a>'s Community Environmental College. We are making thermal flashlights and experimenting with thermal images.
 

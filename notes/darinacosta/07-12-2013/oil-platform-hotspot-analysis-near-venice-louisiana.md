@@ -8,11 +8,15 @@ uid: 170106
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/000/766/original/djacosta_oilplatformhotspotanalysis_v1.jpg)
+
 # Oil Platform Hotspot Analysis near Venice, Louisiana
 
 by [darinacosta](../profile/darinacosta) July 12, 2013 20:05
 
 July 12, 2013 20:05 | Tags: [gulf-coast](../tag/gulf-coast), [louisiana](../tag/louisiana), [oil](../tag/oil), [gis](../tag/gis)
+
+----
 
 The Gulf Restoration Network team conducted an analysis of high-density clusters, or "hotspots", of Outer Continental Shelf (OCS) oil platforms in the Gulf of Mexico that are located within 50 miles of Venice, Louisiana. The team also analyzed these hotspots for National Response Center (NRC) oil spill reports that were issued between 2010 and 2013. This study was done using ArcMap 10 software. 
 

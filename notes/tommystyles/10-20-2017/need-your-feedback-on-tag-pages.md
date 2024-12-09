@@ -14,6 +14,8 @@ by [tommystyles](../profile/tommystyles) October 20, 2017 00:32
 
 October 20, 2017 00:32 | Tags: [website](../tag/website), [design](../tag/design), [tags](../tag/tags), [ux](../tag/ux), [ui](../tag/ui), [question:ui](../tag/question:ui), [usability](../tag/usability)
 
+----
+
 Hello Public Lab community! I'm Tommy, and I'm working on a pro bono project through Autodesk to help out with improving the user experience on the publiclab.org website. You will start to see some questions popping up here from my teammates and myself to get feedback from you, the people who use the site, on what works and what doesn't, or what can be improved. Thanks in advance for taking a minute to weigh in, and helping us improve the site for everyone!
 
   

@@ -8,11 +8,15 @@ uid: 4
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/019/611/original/Screen_Shot_2017-02-21_at_5.07.48_PM.png)
+
 # Rubber band and PET bottle camera rig
 
 by [mathew](../profile/mathew) February 22, 2017 02:04
 
 February 22, 2017 02:04 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [photo-rig](../tag/photo-rig), [balloon-mapping-kit](../tag/balloon-mapping-kit), [1](../tag/1), [difficulty:easy](../tag/difficulty:easy), [category:build](../tag/category:build), [time:1h](../tag/time:1h), [status:complete](../tag/status:complete), [activity:photo-rig](../tag/activity:photo-rig)
+
+----
 
 _This activity replaces the [PET Bottle Rig wiki page](/wiki/pet-bottle-rubber-band-rig)._
 

@@ -14,6 +14,8 @@ by [liz](../profile/liz) July 05, 2013 19:54
 
 July 05, 2013 19:54 | Tags: [new-york-city](../tag/new-york-city), [5bf](../tag/5bf), [five-borough-farm](../tag/five-borough-farm), [pole-photography](../tag/pole-photography), [pole](../tag/pole), [overexposure](../tag/overexposure), [lux-meter](../tag/lux-meter)
 
+----
+
 ##Pole aerial photography above the Leave It Better Garden
 
 The Leave It Better Garden is located at 1970 Grand Avenue Bronx. 

@@ -14,6 +14,8 @@ by [cfastie](../profile/cfastie), [warren](../profile/warren)
 
 May 21, 2013 03:46 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [infragram](../tag/infragram), [gradient](../tag/gradient), [colormap](../tag/colormap), [lut](../tag/lut), [lookup-tables](../tag/lookup-tables)
 
+----
+
 List of gradients for use in [NDVI composites](/wiki/ndvi)
 
 This is my current favorite color map for NDVI:

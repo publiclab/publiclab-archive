@@ -8,11 +8,15 @@ uid: 152
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/003/586/original/10149278216_ff42a397c4_z.jpg)
+
 # Jerusalem
 
 by [hagitkeysar](../profile/hagitkeysar), [liz](../profile/liz)
 
 May 08, 2013 16:47 | Tags: [kite-mapping](../tag/kite-mapping), [jerusalem](../tag/jerusalem), [protest](../tag/protest), [youth](../tag/youth), [israel](../tag/israel), [palestine](../tag/palestine), [urban-planning](../tag/urban-planning), [chapter](../tag/chapter), [events:jerusalem](../tag/events:jerusalem), [list:publiclab-jerusalem](../tag/list:publiclab-jerusalem), [lon:35.2167](../tag/lon:35.2167), [lat:31.7833](../tag/lat:31.7833), [silwan](../tag/silwan), [tabbed:notes](../tag/tabbed:notes), [tabbed:wikis](../tag/tabbed:wikis), [construction](../tag/construction), [table-lamp](../tag/table-lamp)
+
+----
 
 ##Jerusalem - one piece at a time
 The work in Jerusalem concentrates on collaborative mapmaking techniques for creating independent documentation of the urban environment. It is developing through various partnerships between activists, architects, planners community organizers and different groups of inhabitants that are interested in DIY mapmaking for their causes and needs. Here is a great article that can provide an overview: [https://micromag.evidenceandinfluence.org/article/mapmaking-in-jerusalem/](https://micromag.evidenceandinfluence.org/article/mapmaking-in-jerusalem/).

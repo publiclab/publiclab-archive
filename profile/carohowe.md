@@ -3,6 +3,8 @@ uid: 510884
 created_at: 2017-07-13 16:47:47 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/77ef418db50010736274d998e066db28)
+
 # carohowe
 
 Sustainability entrepreneurship professor at UDC

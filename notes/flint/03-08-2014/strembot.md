@@ -14,6 +14,8 @@ by [flint](../profile/flint) March 08, 2014 18:18
 
 March 08, 2014 18:18 | Tags: [pvos](../tag/pvos), [water-quality](../tag/water-quality), [water-monitoring](../tag/water-monitoring), [water-quality-sensor](../tag/water-quality-sensor), [tool](../tag/tool), [riffle](../tag/riffle)
 
+----
+
 ###What I have done
 Arduino based low cost remote stream gauge
 see presentation[][(http://docbox.flint.com/~flint/strembot_presentation/img0.html)

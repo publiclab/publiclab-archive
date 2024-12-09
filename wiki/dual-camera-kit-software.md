@@ -14,6 +14,8 @@ by [cfastie](../profile/cfastie), [warren](../profile/warren)
 
 April 24, 2012 17:47 | Tags: [near-infrared-camera](../tag/near-infrared-camera)
 
+----
+
 ###Installing and using CHDK###
 
 This is part of the <a href="http://publiclaboratory.org/wiki/dual-camera-kit-guide">NIR camera wiki</a>.

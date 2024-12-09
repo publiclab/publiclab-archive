@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/000/247/original/logo_wsf.gif)
+
 # June 2 Science Hack Day NYC: balloon mapping workshop
 
 by [liz](../profile/liz) May 13, 2013 14:39
 
 May 13, 2013 14:39 | Tags: [new-york-city](../tag/new-york-city), [balloon-mapping](../tag/balloon-mapping), [event](../tag/event), [replication:14022](../tag/replication:14022)
+
+----
 
 ##Event details
 

@@ -14,6 +14,8 @@ by [nshapiro](../profile/nshapiro) September 27, 2017 18:18
 
 September 27, 2017 18:18 | Tags: [ethics](../tag/ethics), [legal](../tag/legal), [data-collection](../tag/data-collection), [data](../tag/data), [ip](../tag/ip), [answered](../tag/answered), [question:question](../tag/question:question), [community-science](../tag/community-science), [question:data](../tag/question:data), [question:irb](../tag/question:irb), [question:ethics](../tag/question:ethics), [question:data-sharing](../tag/question:data-sharing), [data-sharing](../tag/data-sharing), [irb](../tag/irb), [question:legal](../tag/question:legal), [law-and-policy](../tag/law-and-policy), [question:law-and-policy](../tag/question:law-and-policy)
 
+----
+
 I'm looking for precedents upon which to base language about how data can be co-owned by communities and university researchers in environmental or health studies (especially when there is personally identifiable information attached to the data).
 
   

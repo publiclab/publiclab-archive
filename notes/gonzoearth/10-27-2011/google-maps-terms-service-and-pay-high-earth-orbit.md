@@ -14,4 +14,6 @@ by [gonzoearth](../profile/gonzoearth) October 27, 2011 14:22
 
 October 27, 2011 14:22 | Tags: 
 
+----
+
 http://highearthorbit.com/google-maps-terms-of-service-and-pay-choice

@@ -14,6 +14,8 @@ by [sara_rx](../profile/sara_rx) April 19, 2022 00:19
 
 April 19, 2022 00:19 | Tags: [software](../tag/software), [outreachy](../tag/outreachy), [first-time-poster](../tag/first-time-poster), [zoom:9](../tag/zoom:9), [zoom:2](../tag/zoom:2), [outreachy-2022](../tag/outreachy-2022), [outreachy-summer-2022](../tag/outreachy-summer-2022), [lat:34.065336](../tag/lat:34.065336), [lon:72.650584](../tag/lon:72.650584), [lat:34.071678](../tag/lat:34.071678), [lon:72.646592](../tag/lon:72.646592)
 
+----
+
 ## About me
 
 I am Sara, a second year Computer Science student. I got to know about open source this year and this is my first time contributing.

@@ -8,11 +8,15 @@ uid: 460246
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/016/938/original/side_by_side_cameras.JPG)
+
 # Plant Health NDVI Consumer camera vs Professional multispectral camera
 
 by [Claytonb](../profile/Claytonb) July 09, 2016 17:50
 
 July 09, 2016 17:50 | Tags: [ndvi](../tag/ndvi), [calibration](../tag/calibration), [infrared](../tag/infrared), [near-infrared](../tag/near-infrared), [infragram](../tag/infragram), [comparison](../tag/comparison), [wratten25a](../tag/wratten25a), [super-red](../tag/super-red), [red-vs-blue](../tag/red-vs-blue), [barnstar:basic](../tag/barnstar:basic), [validation](../tag/validation), [response:12670](../tag/response:12670)
+
+----
 
 I wanted to share some of my results in comparing a modified consumer camera with a scientific grade multispectral camera when evaluating plant health with NDVI. This note is related to NDVI only as the modified consumer camera tested only has two bands to compare with(Red and NIR). I wanted to see if it was possible to get meaningful and comparable NDVI data from an affordable consumer grade camera vs a scientific multispectral camera and if the difference in price was really worth it.
 

@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/sites/default/files/legomanframe.jpg)
+
 # Grating angle
 
 by [cfastie](../profile/cfastie) February 05, 2013 16:40
 
 February 05, 2013 16:40 | Tags: [spectrometer](../tag/spectrometer), [vermont](../tag/vermont), [diffraction-grating](../tag/diffraction-grating), [entrance-slit](../tag/entrance-slit), [ebert](../tag/ebert), [focus](../tag/focus), [barnstar:empiricism](../tag/barnstar:empiricism), [lego](../tag/lego)
+
+----
 
 <em>Image above: Lab assistant operating the SpectroBench 2000.</em>
 

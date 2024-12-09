@@ -8,11 +8,15 @@ uid: 776235
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/045/565/original/pasted_image_0.png)
+
 # A Public Statement Against Formosa Plastic's Air Permit Application
 
 by [TravisLondon](../profile/TravisLondon) March 22, 2022 21:50
 
 March 22, 2022 21:50 | Tags: [fellowship](../tag/fellowship), [first-time-poster](../tag/first-time-poster), [formosaplastics](../tag/formosaplastics), [stjames](../tag/stjames)
+
+----
 
 A Public Statement Against Formosa Plastic's Air Permit Application
 

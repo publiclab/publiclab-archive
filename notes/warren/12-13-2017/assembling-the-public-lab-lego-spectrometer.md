@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/022/928/original/PC051869.JPG)
+
 # Assembling the Public Lab Lego Spectrometer
 
 by [warren](../profile/warren) December 13, 2017 06:27
 
 December 13, 2017 06:27 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [fluorescence](../tag/fluorescence), [raspberry-pi](../tag/raspberry-pi), [lego](../tag/lego), [with:bronwen](../tag/with:bronwen), [activity:education](../tag/activity:education), [raspberry-pi-spectrometer](../tag/raspberry-pi-spectrometer), [activity:raspberry-pi-spectrometer](../tag/activity:raspberry-pi-spectrometer), [activity:lego-spectrometer](../tag/activity:lego-spectrometer), [lego-spectrometer](../tag/lego-spectrometer), [with:asnow](../tag/with:asnow), [lego-quickstart](../tag/lego-quickstart), [pin:spectrometry](../tag/pin:spectrometry)
+
+----
 
 Follow these steps to assemble a Lego Spectrometer, for use with the [Raspberry Pi](/w/pi-camera) camera.
 

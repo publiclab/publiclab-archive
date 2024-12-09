@@ -14,6 +14,8 @@ by [Shannon](../profile/Shannon) December 07, 2012 22:01
 
 December 07, 2012 22:01 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
 
+----
+
 Tons of work happening in the Public Lab community this past week-- check out a new tool page for a portable energy kit, pick up the latest issue of Popular Mechanics with an article on the Public Lab spectrometer and join the newly re-formed education working group. Enjoy!
 
 1. Public Lab in Popular Mechanics. Pick up the January 2013 copy of Popular Mechanics and check out the article "Seeing the Light" on the Public Lab DIY spectrometer! If you missed the spectrometer Kickstarter, you can now [pre-order your own desktop version](http://breadpig.com/products/desktop-spectrometry-kit) or purchase the [mini fold-up version](http://breadpig.com/products/mini-fold-up-spectrometer) (hint-- for $10 this makes a great gift!).

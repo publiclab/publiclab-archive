@@ -14,4 +14,6 @@ by [gonzoearth](../profile/gonzoearth) February 21, 2012 20:35
 
 February 21, 2012 20:35 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping)
 
+----
+
 <a href="http://www.nytimes.com/2012/02/18/technology/drones-with-an-eye-on-the-public-cleared-to-fly.html?_r=1">http://www.nytimes.com/2012/02/18/technology/drones-with-an-eye-on-the-public-cleared-to-fly.html?_r=1</a>

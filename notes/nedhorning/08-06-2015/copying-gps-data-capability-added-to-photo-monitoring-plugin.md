@@ -8,11 +8,15 @@ uid: 133
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/011/046/original/IMG_0064_small.JPG)
+
 # Copying GPS data capability added to photo monitoring plugin
 
 by [nedhorning](../profile/nedhorning) August 06, 2015 14:52
 
 August 06, 2015 14:52 | Tags: [gps](../tag/gps), [photomonitoring](../tag/photomonitoring), [geo-tagging](../tag/geo-tagging)
+
+----
 
 The most frequent feature request for the photo monitoring plugin is to be able to copy GPS data from the original photo to the output NDVI or DVI image. This capability now exists in the most recent version of the plugin. The entire EXIF metadata set will be copied which includes GPS data (if they exist), time image was acquired, camera setting and over a hundred other pieces of information. 
 

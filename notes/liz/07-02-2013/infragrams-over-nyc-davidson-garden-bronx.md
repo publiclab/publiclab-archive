@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/000/585/original/BX-davidson-stitch-small-NDVI.jpg)
+
 # Infragrams over NYC: Davidson Garden, Bronx
 
 by [liz](../profile/liz) July 02, 2013 17:01
 
 July 02, 2013 17:01 | Tags: [new-york-city](../tag/new-york-city), [near-infrared-camera](../tag/near-infrared-camera), [5bf](../tag/5bf), [five-borough-farm](../tag/five-borough-farm), [pole-photography](../tag/pole-photography), [pole](../tag/pole)
+
+----
 
 _shown above: 10 stitched Infragram images. These photos were captured from the end of a 43' long fishing pole over Davidson Garden, 3885 Davidson Avenue, Bronx._
 

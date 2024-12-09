@@ -8,11 +8,15 @@ uid: 1259
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/009/812/original/browse-data-color.jpg)
+
 # Growing & Sustaining the Public Lab Software Development Community
 
 by [mollydanielsson](../profile/mollydanielsson)
 
 May 06, 2015 01:24 | Tags: [community-metrics](../tag/community-metrics), [grassrootsmappingforum](../tag/grassrootsmappingforum), [style:fancy](../tag/style:fancy), [with:jeff](../tag/with:jeff), [software-development](../tag/software-development), [gmf-7](../tag/gmf-7), [with:btbonval](../tag/with:btbonval), [with:justinmanley](../tag/with:justinmanley), [software-outreach](../tag/software-outreach)
+
+----
 
  by Justin Manley, Bryan Bonvallet, Jeff Warren, and Molly Danielsson
 

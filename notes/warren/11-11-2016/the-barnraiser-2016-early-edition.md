@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/018/777/original/IMG_20161111_083445.jpg)
+
 # The Barnraiser 2016 -- early edition
 
 by [warren](../profile/warren) November 11, 2016 16:03
 
 November 11, 2016 16:03 | Tags: [documentation](../tag/documentation), [cocodrie](../tag/cocodrie), [barnraising](../tag/barnraising), [doccom](../tag/doccom), [barnraiser](../tag/barnraiser), [the-barnraiser](../tag/the-barnraiser), [barnraising-2016](../tag/barnraising-2016)
+
+----
 
 Public Lab's daily "newspaper" -- [the Barnraiser][1] -- is back at this year's Barnraising, and the first issue is already out after the Organizers summit on Thursday. Digital edition available below (and [in PDF format here][2]).
 

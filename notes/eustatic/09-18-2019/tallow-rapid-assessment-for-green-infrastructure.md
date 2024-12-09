@@ -8,11 +8,15 @@ uid: 379
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/035/321/original/IMAG3840.jpg)
+
 # Tallow Rapid Assessment for Green Infrastructure
 
 by [eustatic](../profile/eustatic) September 18, 2019 19:00
 
 September 18, 2019 19:00 | Tags: [gulf-coast](../tag/gulf-coast), [open-source](../tag/open-source), [forest](../tag/forest), [invasive](../tag/invasive), [tallow](../tag/tallow), [climate](../tag/climate), [location:blurred](../tag/location:blurred), [place:united-states](../tag/place:united-states), [lat:30](../tag/lat:30), [lon:-84](../tag/lon:-84), [reforestation](../tag/reforestation), [zoom:6](../tag/zoom:6)
+
+----
 
 ## Intro
 

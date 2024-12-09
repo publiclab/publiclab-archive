@@ -14,6 +14,8 @@ by [thewrightjess](../profile/thewrightjess), [joyofsoy](../profile/joyofsoy), [
 
 December 22, 2011 19:25 | Tags: [fundraising](../tag/fundraising), [nonprofit](../tag/nonprofit), [parent:about](../tag/parent:about)
 
+----
+
 ##Audit and Tax Documents
 
 - Public Lab Tax Exemption Letter

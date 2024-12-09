@@ -8,11 +8,15 @@ uid: 531062
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/024/774/original/IMG_0261_Kopie.jpg)
+
 # [WIP] Step by Step: Build a fine dust sensor with Arduino (Beginners Guide)
 
 by [niklasjordan](../profile/niklasjordan) April 27, 2018 14:51
 
 April 27, 2018 14:51 | Tags: [air-quality](../tag/air-quality), [sensors](../tag/sensors), [air-sensors](../tag/air-sensors), [fine-dust](../tag/fine-dust)
+
+----
 
 ## Introduction
 

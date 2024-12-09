@@ -14,6 +14,8 @@ by [Cbarnes9](../profile/Cbarnes9) November 09, 2018 00:33
 
 November 09, 2018 00:33 | Tags: [spectroscopy](../tag/spectroscopy), [air-quality](../tag/air-quality), [question:air-sensors](../tag/question:air-sensors), [purpleair](../tag/purpleair), [question:purpleair](../tag/question:purpleair), [lasers](../tag/lasers), [partical-composition](../tag/partical-composition)
 
+----
+
 The
 optical characteristics of aerosols such as organic carbon and silica would
 likely reflect differently considering the purple air monitor uses laser

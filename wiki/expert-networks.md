@@ -14,6 +14,8 @@ by [warren](../profile/warren)
 
 March 13, 2018 21:09 | Tags: [expertise](../tag/expertise), [experts](../tag/experts), [expert-networks](../tag/expert-networks)
 
+----
+
 Different organizations and coalitions of people with specific sets of expertise have been organized to offer support of different kinds -- from professional scientists to people organizing around environmental issues. This page collects links to a variety of these efforts by topic and region.
 
 ## Professional scientists
@@ -39,5 +41,5 @@ Sometimes it's helpful to get input from someone with a professional background 
 
 ## Questions
 
-[questions:expert-networks]
+[expert-networks](../../tag/question:expert-networks)
 

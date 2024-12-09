@@ -3,6 +3,8 @@ uid: 448894
 created_at: 2015-08-21 06:15:10 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/9c9a56dd3241eff165bb817a9f2cfcb9)
+
 # SarahC
 
 I like science, and making a DIY spectroscope sounds very interesting.

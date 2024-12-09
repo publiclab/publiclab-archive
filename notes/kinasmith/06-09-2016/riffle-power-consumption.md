@@ -8,11 +8,15 @@ uid: 445906
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/016/546/original/NewFile5.bmp)
+
 # Riffle Power Consumption
 
 by [kinasmith](../profile/kinasmith) June 09, 2016 01:54
 
 June 09, 2016 01:54 | Tags: [riffle](../tag/riffle), [low-power](../tag/low-power), [riffle-beta](../tag/riffle-beta), [riffle-examples](../tag/riffle-examples)
+
+----
 
 ##Measuring Power Consumption
 

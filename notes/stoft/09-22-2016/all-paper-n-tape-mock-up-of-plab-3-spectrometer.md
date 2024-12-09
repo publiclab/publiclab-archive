@@ -8,11 +8,15 @@ uid: 54025
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/018/127/original/Paper-00.jpg)
+
 # All Paper-n-Tape Mock-Up Upgrade of PLab 3 Spectrometer
 
 by [stoft](../profile/stoft) September 22, 2016 20:41
 
 September 22, 2016 20:41 | Tags: [upgrade:spectrometry](../tag/upgrade:spectrometry), [seeks:builds](../tag/seeks:builds), [category:build](../tag/category:build)
+
+----
 
 **Abstract**
 

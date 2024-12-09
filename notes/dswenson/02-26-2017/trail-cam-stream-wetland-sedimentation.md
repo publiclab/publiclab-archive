@@ -8,11 +8,15 @@ uid: 501635
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/019/654/original/IMAG0003.JPG)
+
 # Trail Cam: Stream/ Wetland Sedimentation
 
 by [dswenson](../profile/dswenson) February 26, 2017 18:51
 
 February 26, 2017 18:51 | Tags: [sand](../tag/sand), [photo-monitoring](../tag/photo-monitoring), [timelapse](../tag/timelapse), [water-quality](../tag/water-quality), [trail-camera](../tag/trail-camera), [sedimentation](../tag/sedimentation), [sand-mine](../tag/sand-mine), [sand-mining](../tag/sand-mining), [crenova](../tag/crenova), [story:timelapse](../tag/story:timelapse)
+
+----
 
 ![image description](https://publiclab.org/system/images/photos/000/019/662/large/IMAG0004.JPG "IMAG0004.JPG")
 

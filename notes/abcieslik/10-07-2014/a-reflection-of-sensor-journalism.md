@@ -8,11 +8,15 @@ uid: 428083
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/007/346/original/IMG_4978.JPG)
+
 # A reflection of sensor journalism
 
 by [abcieslik](../profile/abcieslik) October 07, 2014 16:44
 
 October 07, 2014 16:44 | Tags: [water-quality](../tag/water-quality), [coqui](../tag/coqui), [sensor-journalism](../tag/sensor-journalism)
+
+----
 
 	Perhaps the biggest challenge of sensor journalism is the fact that it is such a new and emerging field within journalism. While it is exciting to be at the forefront of sensor journalism, there are relatively few guidelines within the field right now, making so much of it trial and error. There are also plenty of misconceptions regarding sensor journalism that can only be addressed organically as it develops further. 
 

@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/008/603/original/contribs.png)
+
 # 2015 Web Working Group report
 
 by [warren](../profile/warren) January 14, 2015 16:59
 
 January 14, 2015 16:59 | Tags: [website](../tag/website), [web-development](../tag/web-development), [web](../tag/web), [developers](../tag/developers), [contributing](../tag/contributing), [web-working-group](../tag/web-working-group), [report](../tag/report), [with:liz](../tag/with:liz), [web-wg](../tag/web-wg), [wwg](../tag/wwg)
+
+----
 
 ###Overview
 

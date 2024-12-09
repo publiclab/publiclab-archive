@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/025/858/original/pl-narrow.png)
+
 # Public Lab nonprofit job posting: User interface designer/web developer
 
 by [warren](../profile/warren) July 23, 2018 21:57
 
 July 23, 2018 21:57 | Tags: [design](../tag/design), [nonprofit](../tag/nonprofit), [jobs](../tag/jobs), [with:stevie](../tag/with:stevie), [with:liz](../tag/with:liz), [ui](../tag/ui), [job](../tag/job)
+
+----
 
 Public Laboratory for Open Technology and Science: User interface designer/web developer
 

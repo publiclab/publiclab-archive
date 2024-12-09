@@ -8,11 +8,15 @@ uid: 4
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/014/300/original/Fig2pt7_intro-to-visibility-nps-william-malm-1999.png)
+
 # Visual Monitoring of Particulate Matter
 
 by [stevie](../profile/stevie), [warren](../profile/warren), [gretchengehrke](../profile/gretchengehrke), [mathew](../profile/mathew)
 
 February 15, 2016 03:32 | Tags: [particulate](../tag/particulate), [pm](../tag/pm), [parent:pm-monitoring](../tag/parent:pm-monitoring), [visual-monitoring](../tag/visual-monitoring)
+
+----
 
 _When particles are near or larger than the wavelength of the incident light, photons of all colors are scattered out of the beam path.   --Figure 2.7, An Introduction to Visibility, National Parks Service 1999, ISSN 0737-5352-40_
 
@@ -33,10 +37,10 @@ _photo by Mary Kenosian_
 
 ## Questions
 
-[questions:visual-monitoring]
+[visual-monitoring](../../tag/question:visual-monitoring)
 
 ****
-[notes:visual-monitoring]
+[visual-monitoring](../../tag/visual-monitoring)
 			
 ## Smoke School Certification
 
@@ -50,7 +54,7 @@ To maintain your certification, you must pass the field certification test every
 
 ## Activities
 
-[activities:visual-monitoring]
+[visual-monitoring](../../tag/activity:visual-monitoring)
 
 ****
 

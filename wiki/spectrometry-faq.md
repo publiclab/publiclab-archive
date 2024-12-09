@@ -14,4 +14,6 @@ by [warren](../profile/warren)
 
 December 22, 2012 00:58 | Tags: [spectrometer](../tag/spectrometer)
 
+----
+
 You're probably looking for the [Spectrometer FAQ](/wiki/spectrometer-faq)

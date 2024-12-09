@@ -8,11 +8,15 @@ uid: 46673
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/013/110/original/Profile-Image.jpg)
+
 # Support Public Lab on #GivingTuesday
 
 by [Becki](../profile/Becki) December 01, 2015 16:20
 
 December 01, 2015 16:20 | Tags: [fundraising](../tag/fundraising)
+
+----
 
 Hey Public Labbers,
 

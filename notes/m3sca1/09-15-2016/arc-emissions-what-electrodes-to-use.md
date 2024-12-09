@@ -14,6 +14,8 @@ by [m3sca1](../profile/m3sca1) September 15, 2016 02:06
 
 September 15, 2016 02:06 | Tags: [spectrometer](../tag/spectrometer), [flame](../tag/flame), [desktop-spectrometer-assembly](../tag/desktop-spectrometer-assembly), [desktop-spectrometry-kit](../tag/desktop-spectrometry-kit), [chapter](../tag/chapter), [flare](../tag/flare), [modifications](../tag/modifications), [question:spectrometry](../tag/question:spectrometry), [response:9420](../tag/response:9420), [arc](../tag/arc)
 
+----
+
 The question refers to using an electric arc to excite the sample.
 Obviously the choice of electrode will add to the spectra...
 Has anyone here tried using an arc?

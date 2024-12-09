@@ -8,11 +8,15 @@ uid: 477060
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/017/535/original/Reconfigurable_Rig_Pole_Configuration_Render.png)
+
 # Reconfigurable Rig Pole Configuration and GitHub Repository
 
 by [ranon](../profile/ranon) August 10, 2016 22:00
 
 August 10, 2016 22:00 | Tags: [kite-aerial-photography](../tag/kite-aerial-photography), [aerial-photography](../tag/aerial-photography), [kap](../tag/kap), [photo-rig](../tag/photo-rig), [sfm](../tag/sfm), [mapping](../tag/mapping), [structure-from-motion](../tag/structure-from-motion), [pole-photography](../tag/pole-photography), [pole](../tag/pole), [aerial-mapping](../tag/aerial-mapping), [aerial-photos](../tag/aerial-photos), [pole-aerial-photography](../tag/pole-aerial-photography), [pole-mapping](../tag/pole-mapping), [kap-rigs](../tag/kap-rigs), [poles](../tag/poles), [reconfigurable](../tag/reconfigurable), [reconfigurable-rig](../tag/reconfigurable-rig), [activity:photo-rig](../tag/activity:photo-rig)
+
+----
 
 #Pole Configuration
 

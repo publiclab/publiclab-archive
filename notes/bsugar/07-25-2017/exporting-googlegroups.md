@@ -8,11 +8,15 @@ uid: 217812
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/021/210/original/Screen_Shot_2017-07-25_at_2.58.41_AM.png)
+
 # Exporting GoogleGroups
 
 by [bsugar](../profile/bsugar) July 25, 2017 07:52
 
 July 25, 2017 07:52 | Tags: [community-metrics](../tag/community-metrics), [community-mapping](../tag/community-mapping), [mailing-lists](../tag/mailing-lists), [evaluation](../tag/evaluation), [activity:evaluation](../tag/activity:evaluation)
+
+----
 
 ---------
 

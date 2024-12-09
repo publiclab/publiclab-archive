@@ -8,11 +8,15 @@ uid: 1083
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/019/428/original/images001.jpeg)
+
 # Maps without borders: Stories of civic science in action
 
 by [cindy_excites](../profile/cindy_excites) February 03, 2017 11:13
 
 February 03, 2017 11:13 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [storytelling](../tag/storytelling), [civicscience](../tag/civicscience), [diyscience](../tag/diyscience), [publiclabineu](../tag/publiclabineu)
+
+----
 
 This storytelling exhibition showcases powerful aerial maps created by citizens using [kites, balloons, and point-and-shoot cameras][1]. We explore how people around the world are harnessing the power of Do-It-Yourself techniques to address local environmental, social and political matters.
 

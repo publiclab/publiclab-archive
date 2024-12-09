@@ -8,11 +8,15 @@ uid: 434942
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/008/825/original/Icarus_I__concept.png)
+
 # Open source mapping database
 
 by [SyncPoint](../profile/SyncPoint) February 06, 2015 19:45
 
 February 06, 2015 19:45 | Tags: 
+
+----
 
 ###What I want to do:
  share my created mapping database for feedback, analyses and education

@@ -8,11 +8,15 @@ uid: 4
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/008/294/original/IMG_20141205_172419.jpg)
+
 # a paper spectrometer design, pt 2
 
 by [mathew](../profile/mathew) December 06, 2014 02:34
 
 December 06, 2014 02:34 | Tags: [spectrometer](../tag/spectrometer), [oil](../tag/oil), [oil-spill-toolkit](../tag/oil-spill-toolkit), [spectrometry](../tag/spectrometry), [oil-testing-kit](../tag/oil-testing-kit), [barnstar:basic](../tag/barnstar:basic), [paper](../tag/paper), [fold-up-spectrometer](../tag/fold-up-spectrometer), [otk](../tag/otk)
+
+----
 
 ###What I want to do
 This is a substantial [revision to an earlier design](/notes/mathew/11-07-2014/a-paper-spectrometer-design), which integrated a bunch of other earlier design concepts. 

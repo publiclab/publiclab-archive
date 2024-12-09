@@ -14,6 +14,8 @@ by [omarion](../profile/omarion) September 26, 2019 16:52
 
 September 26, 2019 16:52 | Tags: [arduino](../tag/arduino), [code](../tag/code), [question:question](../tag/question:question), [question:arduino](../tag/question:arduino), [question:water](../tag/question:water), [water-sensor](../tag/water-sensor), [first-time-poster](../tag/first-time-poster), [question:sensor](../tag/question:sensor), [wateristic](../tag/wateristic), [question:wateristic](../tag/question:wateristic), [with:amallozzi](../tag/with:amallozzi)
 
+----
+
 Bioluminescence is a light thats emitted by living organisms. John Lee gives a really good explanation on  this. [http://photobiology.info/LeeBasicBiolum.html](http://photobiology.info/LeeBasicBiolum.html)
 
 I'm interested in this to make marine shipping more efficient, it will expand what they can see in the ocean and have a technology that's less disruptive than something like sonar. 

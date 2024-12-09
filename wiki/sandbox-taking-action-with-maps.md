@@ -14,6 +14,8 @@ by [bhamster](../profile/bhamster)
 
 May 18, 2021 18:27 | Tags: 
 
+----
+
 _Most up-to-date published wiki with this material here: https://publiclab.org/wiki/advocacy-with-maps_
 
 <hr style="height:3px;border-width:0;color:gray;background-color:gray">
@@ -58,7 +60,7 @@ For any community science project, it helps to start with determining your goals
 
 Posts tagged with `start-advocacy` will appear here
 
-[notes:grid:start-advocacy]
+[grid:start-advocacy](../../tag/grid:start-advocacy)
 
 Below in the section called “Using your maps and aerial images,” you’ll find more information on using maps for specific purposes or audiences.
 
@@ -70,7 +72,7 @@ If you can, visit the site or talk to people who live there. If you plan to do b
 
 Posts tagged with `where-to-map` will appear here
 
-[notes:grid:where-to-map]
+[grid:where-to-map](../../tag/grid:where-to-map)
 
 <br>
 
@@ -256,7 +258,7 @@ _<small>Image: balloon mapping water flow in the Gowanus Canal with the help of 
 
 Activities on Public Lab tagged with `activity:advocacy-with-maps` will appear here
 
-[activities:advocacy-with-maps]
+[advocacy-with-maps](../../tag/activity:advocacy-with-maps)
 
 <hr>
 
@@ -264,7 +266,7 @@ Activities on Public Lab tagged with `activity:advocacy-with-maps` will appear h
 
 Questions tagged with `question:advocacy-with-maps` will appear here
 
-[questions:advocacy-with-maps]
+[advocacy-with-maps](../../tag/question:advocacy-with-maps)
 
 
 <hr style="height:3px;border-width:0;color:gray;background-color:gray">

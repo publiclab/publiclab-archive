@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/010/644/original/Camp_012_2k.jpg)
+
 # Earth and Sky
 
 by [cfastie](../profile/cfastie) July 12, 2015 20:56
 
 July 12, 2015 20:56 | Tags: [kite-aerial-photography](../tag/kite-aerial-photography), [alaska](../tag/alaska), [kap](../tag/kap), [autokap](../tag/autokap), [kaptery](../tag/kaptery), [saturnv](../tag/saturnv), [skyshield](../tag/skyshield), [half-spherical](../tag/half-spherical), [response:12032](../tag/response:12032)
+
+----
 
 A SkyShield autoKAP controller can instruct a Saturn V KAP rig to take photos in all directions including upwards at about a 45° angle and straight down. Stitching all of these photos together into a panorama can be a challenge because the sky is usually a lot brighter than the ground. With the camera set on an autoexposure mode (I usually use shutter priority), each photo will be properly exposed, sort of.  
 .  

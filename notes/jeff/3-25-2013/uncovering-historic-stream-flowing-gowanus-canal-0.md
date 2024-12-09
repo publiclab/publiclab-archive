@@ -8,11 +8,15 @@ uid: 54526
 
 ---
 
+![](https://publiclab.org/sites/default/files/2013_03_11_13_19_24_BUOY01_B.png)
+
 # Uncovering a Historic Stream Flowing into the Gowanus Canal
 
 by [jeff](../profile/jeff) March 26, 2013 01:18
 
 March 26, 2013 01:18 | Tags: [new-york-city](../tag/new-york-city), [balloon-mapping](../tag/balloon-mapping), [gowanus](../tag/gowanus), [dye-tracing](../tag/dye-tracing), [first-time-poster](../tag/first-time-poster)
+
+----
 
 We hope to uncover the flow of a historic stream into the Gowanus Canal through a combined effort between the [Brooklyn Atlantis](http://www.brooklynatlantis.com) robot and the [GLAM Conservancy](https://gowanuscanalconservancy.wordpress.com/category/glam/) balloon.
 

@@ -8,11 +8,15 @@ uid: 458760
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/014/505/original/Extrait_d'herbe_-_absorbance.jpg)
+
 # Absorbance of grass in blue light
 
 by [vanjo63](../profile/vanjo63) February 21, 2016 18:45
 
 February 21, 2016 18:45 | Tags: [spectrometer](../tag/spectrometer), [absorption](../tag/absorption), [chlorophyll](../tag/chlorophyll), [grass](../tag/grass), [absorbance](../tag/absorbance), [beginner](../tag/beginner)
+
+----
 
 Hello everybody, I am a student in biochemistry at the University of Liège in Belgium, and I have a huge scientific curiosity so I decided to build my own spectrometer, with the help of Spectral Workbench informations of course, in order to analyse the spectrum of many many samples.
 I realised many tests, and I decided to focus my "work" on concrete things.

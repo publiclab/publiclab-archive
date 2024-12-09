@@ -8,11 +8,15 @@ uid: 59273
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/007/378/original/balloonmapping.jpg)
+
 # Balloon Mapping Public Space Usage at a Pop-Up Park in Philadelphia 
 
 by [manetomapping](../profile/manetomapping) October 08, 2014 20:09
 
 October 08, 2014 20:09 | Tags: [balloon-mapping](../tag/balloon-mapping), [philadelphia](../tag/philadelphia), [public-space](../tag/public-space), [urban-design](../tag/urban-design), [northeast](../tag/northeast), [land-use](../tag/land-use), [first-time-poster](../tag/first-time-poster)
+
+----
 
 ###What I want to do
 In 2013 the City of Philadelphia turned a parking lot surrounded by a traffic circle (Eakins Oval) into a public pop-up park (The Oval). I want to know 1) how people are using the space and 2) if balloon mapping is a viable option for analyzing public space usage.

@@ -8,11 +8,15 @@ uid: 468506
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/046/787/original/join_conversation.png)
+
 # About Public Lab Questions & Answers
 
 by [bhamster](../profile/bhamster), [souravirus](../profile/souravirus), [liz](../profile/liz), [ananyo2012](../profile/ananyo2012)
 
 August 17, 2016 00:15 | Tags: [help](../tag/help), [research](../tag/research), [q-and-a](../tag/q-and-a), [soc](../tag/soc), [questions](../tag/questions), [parent:website-basics](../tag/parent:website-basics), [asking-questions](../tag/asking-questions)
+
+----
 
 Welcome! This page is about Public Lab’s [Question & Answer system](/questions). The Q&A system is designed to help connect people who have environmental questions with those who can help to answer them. 
 

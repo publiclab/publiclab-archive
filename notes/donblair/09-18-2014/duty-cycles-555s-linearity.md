@@ -8,11 +8,15 @@ uid: 43651
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/006/884/original/555-2-to1-MS-ratio-WF.jpg)
+
 # Duty Cycles & 555s --> linearity!
 
 by [donblair](../profile/donblair) September 18, 2014 15:11
 
 September 18, 2014 15:11 | Tags: [calibration](../tag/calibration), [water-quality](../tag/water-quality), [conductivity](../tag/conductivity), [open-water](../tag/open-water), [linearity](../tag/linearity), [555](../tag/555), [coqui](../tag/coqui)
+
+----
 
 I had a great long chat with [Mark Brownawell](http://www.linkedin.com/pub/mark-brownawell/5/530/666) at the [Artisan's Aslylum](http://artisansasylum.com/site/).  Mark has a long career designing instruments, and he had great insights into every project idea I brought up.  Here's one of them:
 

@@ -8,11 +8,15 @@ uid: 237313
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/003/098/original/N_GMeet.jpg)
+
 # Gowanus Canal and Newtown Creek Project Meetup
 
 by [Bronwen](../profile/Bronwen) February 28, 2014 13:06
 
 February 28, 2014 13:06 | Tags: [nyc](../tag/nyc)
+
+----
 
 (above photo courtesy Liz )
 

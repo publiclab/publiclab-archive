@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/sites/default/files/IMG_20130129_185744.jpg)
+
 # Gowanus brainstorm on annotated maps
 
 by [liz](../profile/liz) February 07, 2013 21:59
 
 February 07, 2013 21:59 | Tags: 
+
+----
 
 <em>Organizer <a href="/people/gwirth">Gena Wirth</a> shows her large format print</em>
 <strong>Exercise on feature design for annotated maps:</strong>

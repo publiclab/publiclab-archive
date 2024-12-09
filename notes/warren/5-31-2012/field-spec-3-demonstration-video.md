@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/Picture 6_1.png)
+
 # Field Spec 3 demonstration video
 
 by [warren](../profile/warren) May 31, 2012 19:35
 
 May 31, 2012 19:35 | Tags: [spectrometer](../tag/spectrometer)
+
+----
 
 <iframe width="500" height="281" src="https://www.youtube.com/embed/fL_Z8gJPH5g" frameborder="0" allowfullscreen></iframe>
 

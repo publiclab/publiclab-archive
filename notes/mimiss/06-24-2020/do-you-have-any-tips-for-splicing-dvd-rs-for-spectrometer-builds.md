@@ -14,6 +14,8 @@ by [mimiss](../profile/mimiss) June 24, 2020 18:34
 
 June 24, 2020 18:34 | Tags: [spectrometry](../tag/spectrometry), [question:spectrometry](../tag/question:spectrometry), [dvd](../tag/dvd), [build](../tag/build), [question:general](../tag/question:general), [general](../tag/general), [question:lego-spectrometer](../tag/question:lego-spectrometer), [lego-spectrometer](../tag/lego-spectrometer), [question:dvd](../tag/question:dvd), [kit-builds](../tag/kit-builds), [question:kit-builds](../tag/question:kit-builds), [question:build](../tag/question:build)
 
+----
+
 I'm having some trouble prepping my DVD for use in the spectrometer [as shown here][1]. The main issues that I have are:
 
  - when I separate the two sides of the DVD, the silver film is stuck to the side I need

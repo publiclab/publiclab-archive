@@ -8,11 +8,15 @@ uid: 235174
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/002/788/original/G0020738.JPG)
+
 # Jakarta Flood Kite Mapping 
 
 by [willie](../profile/willie) February 05, 2014 22:53
 
 February 05, 2014 22:53 | Tags: [kite-mapping](../tag/kite-mapping), [gopro](../tag/gopro), [asia](../tag/asia), [indonesia](../tag/indonesia), [flood](../tag/flood), [stormwater](../tag/stormwater), [jakarta](../tag/jakarta), [flooding](../tag/flooding), [activity:kite-mapping](../tag/activity:kite-mapping), [water-level](../tag/water-level), [flood-mapping](../tag/flood-mapping), [location:blurred](../tag/location:blurred), [mini-camera](../tag/mini-camera), [first-time-poster](../tag/first-time-poster), [activity:mini-camera](../tag/activity:mini-camera), [activity:flood-mapping](../tag/activity:flood-mapping), [lat:-6](../tag/lat:-6), [lon:106](../tag/lon:106)
+
+----
 
 ###Jakarta is flooding and it happens every year. 
 

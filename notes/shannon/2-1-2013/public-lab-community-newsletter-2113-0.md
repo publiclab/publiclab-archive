@@ -14,6 +14,8 @@ by [Shannon](../profile/Shannon) February 01, 2013 22:55
 
 February 01, 2013 22:55 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
 
+----
+
 In the Public Lab community newsletter this week, check out an invite for a hackfest next weekend, read about air monitoring projects underway and learn a much easier way to install CHDK on your Canon. Enjoy!
 
 1. Science and the City hackfest. On the 9th and 10th of February, [Science and the City](http://www.scienceandthecity.info/), a hackfest dedicated to citizen science for cities, will take place at NYU's ITP. There's a bunch of [interesting projects](http://www.scienceandthecity.info/projects) that have been proposed, but if you have a project to pitch, they're still accepting.

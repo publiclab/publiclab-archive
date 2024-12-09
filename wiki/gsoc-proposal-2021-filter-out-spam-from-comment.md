@@ -8,11 +8,15 @@ uid: 751723
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/043/332/original/Boots-ground-02.png)
+
 # GsOc Proposal 2021: Filter out spam from comment.
 
 by [lukoyedith](../profile/lukoyedith)
 
 April 13, 2021 17:48 | Tags: [gsoc](../tag/gsoc), [soc](../tag/soc), [location:blurred](../tag/location:blurred), [lat:28](../tag/lat:28), [lon:77](../tag/lon:77), [place:india](../tag/place:india), [zoom:6](../tag/zoom:6), [gsoc-2021-proposals](../tag/gsoc-2021-proposals)
+
+----
 
 **About Me **
 Name: Emogene Lukoye

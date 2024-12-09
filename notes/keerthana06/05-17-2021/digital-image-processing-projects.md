@@ -8,11 +8,15 @@ uid: 754722
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/043/834/original/Digital-Image-Processing-Projects.jpg)
+
 # digital image processing projects
 
 by [keerthana06](../profile/keerthana06) May 17, 2021 12:53
 
 May 17, 2021 12:53 | Tags: 
+
+----
 
 - Takeoff Projects helps students complete their academic projects.You can enrol with friends and receive [digital image processing projects](https://takeoffprojects.com/digital-image-processing-projects) kits at your doorstep. You can learn from experts, build latest projects, showcase your project to the world and grab the best jobs. Get started today!
 

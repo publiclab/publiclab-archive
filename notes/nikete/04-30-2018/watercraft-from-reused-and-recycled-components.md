@@ -14,6 +14,8 @@ by [nikete](../profile/nikete) April 30, 2018 01:47
 
 April 30, 2018 01:47 | Tags: [waterway](../tag/waterway), [reuse](../tag/reuse), [water-quality-mapping](../tag/water-quality-mapping), [water-quality](../tag/water-quality), [boat](../tag/boat), [south-america](../tag/south-america), [recycling](../tag/recycling), [raft](../tag/raft)
 
+----
+
 We are planning to build a watercraft to be used as a platform for water quality measurements. The aim of the craft is to serve both those taking the measurements and 
 
   

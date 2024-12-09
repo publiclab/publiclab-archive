@@ -8,11 +8,15 @@ uid: 427655
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/006/814/original/EMF-photosynth.png)
+
 # Using Photosynth to automatically stitch images from kite-mapping
 
 by [espero](../profile/espero) September 13, 2014 21:23
 
 September 13, 2014 21:23 | Tags: [kite-mapping](../tag/kite-mapping), [microsoft-ice](../tag/microsoft-ice), [2014](../tag/2014), [emf](../tag/emf), [microsoft](../tag/microsoft), [photosynth](../tag/photosynth), [activities:aerial-photography](../tag/activities:aerial-photography)
+
+----
 
 ###What I wanted to do
 

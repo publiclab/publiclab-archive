@@ -8,11 +8,15 @@ uid: 133
 
 ---
 
+![](https://publiclab.org/sites/default/files/TreeSmooth00.png)
+
 # Software for structure from motion
 
 by [nedhorning](../profile/nedhorning) October 10, 2012 14:29
 
 October 10, 2012 14:29 | Tags: [sfm](../tag/sfm), [software](../tag/software), [mapping](../tag/mapping), [structure-from-motion](../tag/structure-from-motion)
+
+----
 
 A few people who I have spoken with recently expressed an interest in accessing freely available structure from motion (SFM) software. This note provides a brief introduction to SFM with information about a set of open source software for processing SFM data sets on a desktop computer. This is quite terse but hopefully useful or at least enough to pique some interest in working with SFM. 
 

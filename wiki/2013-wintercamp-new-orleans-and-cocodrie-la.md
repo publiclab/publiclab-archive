@@ -14,6 +14,8 @@ by [mathew](../profile/mathew), [Shannon](../profile/Shannon)
 
 December 04, 2012 16:34 | Tags: [gulf-coast](../tag/gulf-coast), [events](../tag/events), [oil-spill-toolkit](../tag/oil-spill-toolkit), [balloon-mapping-kit](../tag/balloon-mapping-kit), [cocodrie--la](../tag/cocodrie--la), [oil-response-toolkit](../tag/oil-response-toolkit), [wintercamp](../tag/wintercamp)
 
+----
+
 Join others from Public Lab during a small gathering we're aptly calling WinterCamp 2013 as we work on completing and refining the oil spill toolkit. More details to come, but information on the schedule below. Email shannon@publiclaboratory.org for more details on logistics.
 
 ##Coming? Please fill out the form below##

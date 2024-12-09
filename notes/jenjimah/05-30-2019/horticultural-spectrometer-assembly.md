@@ -8,11 +8,15 @@ uid: 505738
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/032/528/original/IMG-20190529-WA0001.jpeg)
+
 # Horticultural Spectrometer - Assembly
 
 by [jenjimah](../profile/jenjimah) May 30, 2019 05:57
 
 May 30, 2019 05:57 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [lego](../tag/lego), [lego-spectrometer](../tag/lego-spectrometer), [horticulture](../tag/horticulture), [response:18991](../tag/response:18991)
+
+----
 
 This is an update to the main project: [Horticultural Spectrometer Upgrade - Planning](https://publiclab.org/notes/jenjimah/04-07-2019/horticultural-spectroscope-upgrade-planning).
 

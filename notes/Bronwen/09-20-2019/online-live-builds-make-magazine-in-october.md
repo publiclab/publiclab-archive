@@ -8,11 +8,15 @@ uid: 237313
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/035/359/original/make-community-logo.jpg)
+
 # Online Live Builds- Make Magazine in October
 
 by [Bronwen](../profile/Bronwen) September 20, 2019 16:33
 
 September 20, 2019 16:33 | Tags: [education](../tag/education), [events](../tag/events), [workshops](../tag/workshops), [coqui](../tag/coqui), [open-hour](../tag/open-hour), [communitymicroscope](../tag/communitymicroscope), [babylegs](../tag/babylegs), [simple-air-sensor](../tag/simple-air-sensor), [activity:make](../tag/activity:make), [sas](../tag/sas)
+
+----
 
 We're excited about our collaboration with Make Magazine (read about Public Lab in the upcoming issue!) . As part of this project, we'll be walking through the assembly and use of some Public Lab kits live online! (we'll update this page with links in the coming week). 
 

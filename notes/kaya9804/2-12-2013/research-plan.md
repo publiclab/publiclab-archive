@@ -14,6 +14,8 @@ by [Kaya9804](../profile/Kaya9804) February 12, 2013 20:39
 
 February 12, 2013 20:39 | Tags: [thermal-imaging](../tag/thermal-imaging), [thermal-fishing](../tag/thermal-fishing), [thermal-technology](../tag/thermal-technology), [infrared-camera](../tag/infrared-camera), [research](../tag/research), [first-time-poster](../tag/first-time-poster)
 
+----
+
 Hello Fellow Plotters,
 
 My name is Kaya Simmons and I am a freshmen at Northeastern University.  Recently, Professor Sara Wylie, (another PLOTS-Boston member), and I won a research grant studying communities that are economically stigmatized by the current politics of science, and the health issues these communities face because of such policies.  Our goal is the create a successful DIY thermal fishing bob, test its accuracy near the power plant in Pilgrim, MA, and document my progress as the project develops.  

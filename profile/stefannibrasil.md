@@ -3,6 +3,8 @@ uid: 525300
 created_at: 2018-02-15 19:18:41 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/525300/medium/p2733121882-o618169370-2.jpg)
+
 # stefannibrasil
 
 stefannisilva

@@ -14,6 +14,8 @@ by [warren](../profile/warren) January 11, 2012 14:20
 
 January 11, 2012 14:20 | Tags: 
 
+----
+
 > THROUGH the National Institutes of Health, American taxpayers have long supported research directed at understanding and treating human disease. Since 2009, the results of that research have been available free of charge on the National Library of Medicine’s Web site, allowing the public (patients and physicians, students and teachers) to read about the discoveries their tax dollars paid for.
 
 > But a bill introduced in the House of Representatives last month threatens to cripple this site.

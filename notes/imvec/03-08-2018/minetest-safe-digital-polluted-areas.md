@@ -8,11 +8,15 @@ uid: 495038
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/023/885/original/Screenshot_from_2018-03-06_20-59-18.png)
+
 # Minetest safe digital polluted areas
 
 by [imvec](../profile/imvec) March 08, 2018 10:47
 
 March 08, 2018 10:47 | Tags: [games](../tag/games), [learning](../tag/learning), [kids](../tag/kids), [gaimec](../tag/gaimec), [minetest](../tag/minetest)
+
+----
 
 ###What we want to do
 Develop some safe areas inside the [Minetest](https://minetest.net/) game to learn about pollution events with kids. Then think and build solutions.

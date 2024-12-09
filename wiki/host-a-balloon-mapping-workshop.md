@@ -14,6 +14,8 @@ by [liz](../profile/liz), [mathew](../profile/mathew), [warren](../profile/warre
 
 February 29, 2012 13:06 | Tags: [education](../tag/education), [workshop](../tag/workshop), [organizers](../tag/organizers)
 
+----
+
 **Reposted as an activity here: https://publiclab.org/notes/liz/03-15-2017/host-a-balloon-mapping-workshop; content below is from April 2013:**
 
 ****

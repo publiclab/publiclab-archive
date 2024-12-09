@@ -14,6 +14,8 @@ by [BostonFern](../profile/BostonFern) February 11, 2020 07:52
 
 February 11, 2020 07:52 | Tags: [air-quality](../tag/air-quality), [pm](../tag/pm), [question:air-quality](../tag/question:air-quality), [question:pm](../tag/question:pm), [question:general](../tag/question:general), [general](../tag/general), [particulate-matter](../tag/particulate-matter), [ultrafine](../tag/ultrafine), [question:ultrafine](../tag/question:ultrafine), [question:ultrafines](../tag/question:ultrafines), [ultrafines](../tag/ultrafines)
 
+----
+
 I know there are manufacturers that make air purifier that can filter out particulaters smaller than 0.3 um, which is what HEPA filter can filter.   But, according to this webpage [https://smartairfilters.com/en/blog/can-hepa-filters-capture-nanoparticles/](https://smartairfilters.com/en/blog/can-hepa-filters-capture-nanoparticles/ "https://smartairfilters.com/en/blog/can-hepa-filters-capture-nanoparticles/"),  a normal HEPA filter should be able to capture particulates of any size, including the ones smaller than 0.3 um.   
 
   

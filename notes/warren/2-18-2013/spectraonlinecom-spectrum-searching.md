@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/spectraonline.png)
+
 # SpectraOnline.com spectrum searching
 
 by [warren](../profile/warren) February 18, 2013 13:36
 
 February 18, 2013 13:36 | Tags: [spectrometer](../tag/spectrometer), [spectralworkbench](../tag/spectralworkbench), [matching](../tag/matching), [search](../tag/search), [spectraonline.com](../tag/spectraonline.com)
+
+----
 
 I was just contacted by a guy from spectraonline.com, which has been absorbed into ThermoFisher -- he came across our work and was duly impressed -- and tried downloading some of our data to run in their old technology demo site, http://spectraonline.com. 
 

@@ -8,11 +8,15 @@ uid: 8
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/002/474/original/Screen_Shot_2014-01-02_at_11.04.04_AM.png)
+
 # Talk at National Institute of Environmental Health Science (NIEHS)
 
 by [sara](../profile/sara) January 02, 2014 16:10
 
 January 02, 2014 16:10 | Tags: [boston](../tag/boston)
+
+----
 
 Here is some nice coverage from the [NIEHS January newslette](http://www.niehs.nih.gov/news/newsletter/2014/1/index.htm)r of a talk I gave recently at NIEHS about Public Lab, ExtrAct and my ethnographic research with The Endocrine Disruption Exchange. It was an amazing opportunity to talk with scientists and administrators at NIEHS about how agencies and the public could collaborate to study pressing environmental health problems like those potential in the expanding Shale Gas industry.
 

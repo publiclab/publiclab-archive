@@ -14,6 +14,8 @@ by [eloisereid](../profile/eloisereid) June 10, 2016 18:49
 
 June 10, 2016 18:49 | Tags: [gulf-coast](../tag/gulf-coast), [event](../tag/event), [new-orleans](../tag/new-orleans), [event:rsvp](../tag/event:rsvp), [date:06-14-16](../tag/date:06-14-16), [event:gulf-coast](../tag/event:gulf-coast), [first-time-poster](../tag/first-time-poster)
 
+----
+
 Next Week: Tuesday, June 14th, Wednesday the 15th and Thursday 16th I am looking for people who are interested in volunteering with my summer camp class in Gentilly.
 
 We are generally learning about environmental justice and climate change in New Orleans and next week are going to start some Pole Mapping.

@@ -3,6 +3,8 @@ uid: 561497
 created_at: 2018-11-27 08:41:08 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/64978660b7f782eed58ff95fd0cbd601)
+
 # adiizo-la
 
 Book Housing

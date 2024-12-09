@@ -8,11 +8,15 @@ uid: 435226
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/008/963/original/IMG_20150210_075830_hdr.jpg)
+
 # Thermal Flashlight with LCD keypad display and Neopixel LEDs
 
 by [thosetechpeople](../profile/thosetechpeople) February 13, 2015 15:03
 
 February 13, 2015 15:03 | Tags: [thermal-photography](../tag/thermal-photography), [arduino](../tag/arduino), [thermal-flashlight](../tag/thermal-flashlight), [fritzing](../tag/fritzing), [response:625](../tag/response:625), [heat](../tag/heat), [activity:thermal-flashlight](../tag/activity:thermal-flashlight), [activity:thermal-flashlight-assembly](../tag/activity:thermal-flashlight-assembly)
+
+----
 
 We added an LCD display with keypad and replaced the rgb LED with a 16 LED Neopixel ring. This will allow you to see a display of the temperature and control the temperature range for the LEDs. You can find more info on our project here http://silver.skiles.gatech.edu/~psilva6/thermalFlashlight/ .
 

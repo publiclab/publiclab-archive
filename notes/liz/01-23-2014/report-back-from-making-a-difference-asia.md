@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/002/613/original/IMG_0617.JPG)
+
 # Report back from "Making a Difference" Asia
 
 by [liz](../profile/liz) January 23, 2014 15:53
 
 January 23, 2014 15:53 | Tags: [event](../tag/event), [hong-kong](../tag/hong-kong), [asia](../tag/asia)
+
+----
 
 ###Event details
 

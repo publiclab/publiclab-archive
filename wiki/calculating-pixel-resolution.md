@@ -14,6 +14,8 @@ by [gonzoearth](../profile/gonzoearth)
 
 May 25, 2011 20:22 | Tags: [curriculum](../tag/curriculum), [gis](../tag/gis), [resolution](../tag/resolution), [parent:mapping-curriculum](../tag/parent:mapping-curriculum), [mapping-curriculum](../tag/mapping-curriculum), [pixel](../tag/pixel), [scale](../tag/scale)
 
+----
+
 *As part of the [Grassroots Mapping Curriculum](/wiki/mapping-curriculum) series.*
 
 <a href="https://www.flickr.com/photos/gonzoearth/5760094428/" title="calculating pixel resolution by GonzoEarth, on Flickr"><img src="http://farm3.static.flickr.com/2301/5760094428_002d098d8c.jpg" width="400" height="500" alt="calculating pixel resolution"></a>

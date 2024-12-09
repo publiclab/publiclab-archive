@@ -14,6 +14,8 @@ by [liz](../profile/liz) October 27, 2017 13:21
 
 October 27, 2017 13:21 | Tags: [answered](../tag/answered), [question:general](../tag/question:general), [question:herbicides](../tag/question:herbicides), [question:agriculture](../tag/question:agriculture)
 
+----
+
 I'm posting this question on behalf of a farming community member. Dicamba is a namebrand Monsanto herbicide that is paired with genetically modified crops who are resistant to it, however, it volatilizes (not simply physical drift) beyond the fields where it is applied, damaging other crops. 
 
 Here's an excerpt from [yesterday's NPR coverage][1]: 

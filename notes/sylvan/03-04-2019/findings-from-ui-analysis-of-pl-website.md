@@ -8,11 +8,15 @@ uid: 540012
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/029/739/original/Capture.PNG)
+
 # Findings from UI Analysis of PL website
 
 by [sylvan](../profile/sylvan) March 04, 2019 20:10
 
 March 04, 2019 20:10 | Tags: [design](../tag/design), [request](../tag/request), [ui](../tag/ui), [pin:ui](../tag/pin:ui)
+
+----
 
 I've been conducting an analysis of the Public Lab website's UI. In this analysis I've included [Ann's UI interviews](https://docs.google.com/presentation/d/11xzNp0BFis2ovAJLLPHV6tVw1eYFFQL4QutPnrjiAf4/edit#slide=id.g4e10f26701_1_1), [Eva's redesigns,](https://publiclab.org/profile/edie_blues) [mockups of potential changes to the website,](https://docs.google.com/presentation/d/1TCZoTfuhamRVrUak8aDgqJAwSgyhRtZg2Pgacl2_4zc/edit#slide=id.g4e2261b4b2_0_0 "https://docs.google.com/presentation/d/1TCZoTfuhamRVrUak8aDgqJAwSgyhRtZg2Pgacl2_4zc/edit#slide=id.g4e2261b4b2_0_0") people's GitHub conversations, and my own heuristic review. (Here's a [nice page describing what heuristic review is.)](https://www.usability.gov/how-to-and-tools/methods/heuristic-evaluation.html "https://www.usability.gov/how-to-and-tools/methods/heuristic-evaluation.html") The analysis is guided by two key main website goals: 1) demonstrate what Public Lab is and what it does and 2) demonstrate what a given user can do with Public Lab.
 

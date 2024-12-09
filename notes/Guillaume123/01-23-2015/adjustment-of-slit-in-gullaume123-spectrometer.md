@@ -8,11 +8,15 @@ uid: 284858
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/008/724/original/Top_of_knife_edges.JPG)
+
 # Adjustment of slit in Gullaume123 spectrometer
 
 by [Guillaume123](../profile/Guillaume123) January 23, 2015 19:15
 
 January 23, 2015 19:15 | Tags: [spectrometer](../tag/spectrometer), [slit](../tag/slit), [slit-width](../tag/slit-width), [slit_adjustment](../tag/slit_adjustment)
+
+----
 
 As promised, here are the details of the slit adjustment of my spectrometer.
 The clips have notes on them which makes them self explanatory.

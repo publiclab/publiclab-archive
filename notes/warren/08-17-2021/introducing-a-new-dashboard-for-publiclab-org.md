@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/044/675/original/Screen_Shot_2021-08-17_at_2.47.47_PM.png)
+
 # Introducing a new Dashboard for PublicLab.org
 
 by [warren](../profile/warren) August 17, 2021 19:05
 
 August 17, 2021 19:05 | Tags: [website](../tag/website), [design](../tag/design), [code](../tag/code), [barnstar:basic](../tag/barnstar:basic), [wwg](../tag/wwg), [dashboard](../tag/dashboard), [ui](../tag/ui), [outreachy](../tag/outreachy)
+
+----
 
 After two years of design and development, with extensive input from Public Lab staff, community, and a TON of hard work by our code community -- especially @ruthnwaiganjo (:tada:) - we're launching the new Public Lab dashboard, officially the 4th major dashboard revision we've done since 2010. 
 

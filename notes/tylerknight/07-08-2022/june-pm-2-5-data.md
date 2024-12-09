@@ -14,6 +14,8 @@ by [tylerknight](../profile/tylerknight) July 08, 2022 14:35
 
 July 08, 2022 14:35 | Tags: [gulf-coast](../tag/gulf-coast), [air-quality](../tag/air-quality), [pm](../tag/pm), [particulate-matter](../tag/particulate-matter), [purpleair](../tag/purpleair), [st-james](../tag/st-james), [formosaplastics](../tag/formosaplastics)
 
+----
+
 June saw similar levels of PM 2.5 in St James compared to those seen in May.
 
 Overall, the concentration of PM 2.5 at both the Vacherie and St James sites looked remarkably similar to [last month](https://publiclab.org/notes/tylerknight/06-01-2022/rising-pm-2-5-in-st-james?_=1654268841), including the percentage of the month where the concentration was elevated over 12 μg/m^3\. As always, you can continue to track PM 2.5 from our deployed Purple Air monitors from the [Purple Air Map](https://map.purpleair.com/1/a/mPM25/a10/p604800/cC0#11.15/30.0071/-90.8466).

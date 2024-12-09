@@ -8,11 +8,15 @@ uid: 461120
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/017/178/original/solux_lamp.png)
+
 # Solux 4700K Lamp Set Up
 
 by [dhaffnersr](../profile/dhaffnersr)
 
 July 22, 2016 12:38 | Tags: 
+
+----
 
 **This is how I presently have my spectrometer set up for absorption spectra testing, yeah, it doesn't look very sophisticated but it works very well!**
 

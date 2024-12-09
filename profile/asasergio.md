@@ -3,6 +3,8 @@ uid: 462036
 created_at: 2016-01-21 22:29:41 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/462036/medium/sergio2b.jpg)
+
 # asasergio
 
 

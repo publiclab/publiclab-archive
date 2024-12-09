@@ -8,11 +8,15 @@ uid: 43047
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/000/246/original/P5080044s.jpg)
+
 # Using the Spectroscope for Analysis of Concentration (Beer's Law)
 
 by [straylight](../profile/straylight) May 13, 2013 02:59
 
 May 13, 2013 02:59 | Tags: [spectrometer](../tag/spectrometer), [education](../tag/education), [curriculum](../tag/curriculum), [classroom](../tag/classroom), [beers-law](../tag/beers-law), [concentration](../tag/concentration), [sensitivity](../tag/sensitivity), [quantitative](../tag/quantitative), [response:6566](../tag/response:6566), [response:6587](../tag/response:6587), [activity:spectrometry](../tag/activity:spectrometry), [time:3h](../tag/time:3h), [difficulty:medium](../tag/difficulty:medium), [beer-lambert-law](../tag/beer-lambert-law), [category:test-limits](../tag/category:test-limits), [activity:education](../tag/activity:education), [activity:spectrometry-sampling](../tag/activity:spectrometry-sampling), [activity:classroom](../tag/activity:classroom)
+
+----
 
 ##Introduction
 

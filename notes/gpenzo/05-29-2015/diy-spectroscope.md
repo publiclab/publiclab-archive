@@ -8,11 +8,15 @@ uid: 420719
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/010/097/original/usb_spectroscope_small.JPG)
+
 # DIY spectroscope
 
 by [gpenzo](../profile/gpenzo) May 29, 2015 19:33
 
 May 29, 2015 19:33 | Tags: [diy](../tag/diy), [spectroscope](../tag/spectroscope)
+
+----
 
 ###What I want to do
 I had some usb camera and some lenses laying around from a previous project.

@@ -8,11 +8,15 @@ uid: 775
 
 ---
 
+![](https://publiclab.org/sites/default/files/SR1 (2).JPG)
+
 # Easy ways to make precise maps
 
 by [megan](../profile/megan) September 07, 2012 02:47
 
 September 07, 2012 02:47 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s), [activity:mapping](../tag/activity:mapping)
+
+----
 
 Here is a crash course on how any one can make simple clear, precise maps with out having fancy software or fancy skills.
 

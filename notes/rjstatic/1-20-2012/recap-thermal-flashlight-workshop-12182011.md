@@ -8,11 +8,15 @@ uid: 174
 
 ---
 
+![](https://publiclab.org/sites/default/files/Screen Shot 2011-12-18 at 8.33.54 PM.png)
+
 # Recap on a Thermal Flashlight Workshop from 12/18/2011
 
 by [rjstatic](../profile/rjstatic) January 21, 2012 03:47
 
 January 21, 2012 03:47 | Tags: [somerville-massachusetts](../tag/somerville-massachusetts), [thermal-photography](../tag/thermal-photography), [boston](../tag/boston), [meetup](../tag/meetup), [thermal-flashlight](../tag/thermal-flashlight)
+
+----
 
 On Sunday December 18, 2011, three eager workshop attendees and one workshop sansei (Jeffrey Warren) created 3 Thermal Flashlights based on the circuit design ["Circuit diagram for simple thermal flashlight"](http://publiclaboratory.com/notes/warren/12-12-2011/circuit-diagram-simple-thermal-flashlight), designed by the sensei himself.    
 

@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/034/711/original/image.png)
+
 # Wrapping up Outreachy and GSoC 2019
 
 by [warren](../profile/warren) August 20, 2019 20:53
 
 August 20, 2019 20:53 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [code](../tag/code), [soc](../tag/soc), [outreachy](../tag/outreachy), [gsoc-2019](../tag/gsoc-2019), [soc-2019](../tag/soc-2019), [outreachy-2019](../tag/outreachy-2019), [gsoc-2019-final-report](../tag/gsoc-2019-final-report)
+
+----
 
 Summer of Code and Outreachy wrap up shortly -- in just a few days. As we discussed on this week's Code Open Call, folks are starting to publish their final work, get some huge projects completed, and to write documentation!
 

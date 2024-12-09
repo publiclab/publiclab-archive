@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/022/955/original/sensor_20171217-2146-2.JPG)
+
 # Longer Mini Pearl logging
 
 by [cfastie](../profile/cfastie) December 18, 2017 00:25
 
 December 18, 2017 00:25 | Tags: [arduino](../tag/arduino), [datalogger](../tag/datalogger), [low-power](../tag/low-power), [data-logging](../tag/data-logging), [bme280](../tag/bme280), [mcp9808](../tag/mcp9808), [mini-pearl-logger](../tag/mini-pearl-logger), [activity:mini-pearl-logger](../tag/activity:mini-pearl-logger), [bmp280](../tag/bmp280)
+
+----
 
 In mid October I started three [Mini Pearl Data Loggers](https://publiclab.org/wiki/mini-pearl-logger) in my backyard. The goal was to log temperature data for longer than I had the last time I tried. In August, a [Mini Pearl Logger had run for 22 days](https://publiclab.org/notes/cfastie/08-20-2017/mini-pearl-logger-longer) on 4 AAA batteries. I made a few changes this time, and each of the three loggers was doing something a little different.
 

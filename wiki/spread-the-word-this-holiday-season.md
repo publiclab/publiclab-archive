@@ -8,11 +8,15 @@ uid: 540844
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/028/052/original/IMG_4907.JPG)
+
 # Spread the word this holiday season
 
 by [joyofsoy](../profile/joyofsoy)
 
 December 03, 2018 23:27 | Tags: [diy](../tag/diy)
+
+----
 
 **As the year draws to a close, consider showing your support for the Public Lab community and making a donation that will help sustain us through the coming year.**
 

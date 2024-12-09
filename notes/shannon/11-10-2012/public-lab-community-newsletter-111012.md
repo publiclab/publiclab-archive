@@ -14,6 +14,8 @@ by [Shannon](../profile/Shannon) November 11, 2012 03:09
 
 November 11, 2012 03:09 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
 
+----
+
 Although we just wrapped up our large yearly get together, there is still lots going on in the Public Lab community this week and next. EcoHackIII in NYC, an upcoming Public Lab get together in Boston, a new website and a recap of the barn raising, all in this weeks newsletter. Enjoy!
 
 1. A new Public Lab website on the way. We're looking for a group of [Alpha testers](https://groups.google.com/forum/#!topic/publiclaboratory/hpFBD3V2RvI) to be the first to dig in and try out the features of the the new publiclaboratory.org. If you are interested in being part of this group, [sign up here](http://publiclaboratory.org/wiki/plots2-alpha). 

@@ -3,6 +3,8 @@ uid: 603909
 created_at: 2019-07-11 15:41:53 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/603909/medium/IMG_9666.JPG)
+
 # thewrightjess
 
 Business and Operations Manager for the Public Lab nonprofit organization.

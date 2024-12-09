@@ -8,11 +8,15 @@ uid: 133
 
 ---
 
+![](https://publiclab.org/sites/default/files/RemoveRubberGasketClipped.jpg)
+
 # Canon A2200 NIR conversion
 
 by [nedhorning](../profile/nedhorning) September 25, 2012 14:08
 
 September 25, 2012 14:08 | Tags: [nir](../tag/nir), [leaffest](../tag/leaffest), [a2200](../tag/a2200), [conversion](../tag/conversion), [infragram-conversion](../tag/infragram-conversion)
+
+----
 
 Canon A2200 NIR conversion
 

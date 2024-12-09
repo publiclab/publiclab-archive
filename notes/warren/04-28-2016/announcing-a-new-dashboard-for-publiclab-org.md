@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/015/846/original/Screenshot_2016-04-26_at_6.46.19_PM.png)
+
 # Announcing a new dashboard for PublicLab.org
 
 by [warren](../profile/warren) April 28, 2016 19:23
 
 April 28, 2016 19:23 | Tags: [website](../tag/website), [design](../tag/design), [web](../tag/web), [posting](../tag/posting), [developers](../tag/developers), [code](../tag/code), [wwg](../tag/wwg), [dashboard](../tag/dashboard), [ui](../tag/ui)
+
+----
 
 Hello, all -- you may have noticed in the past week that [the main dashboard for PublicLab.org](/dashboard) looks a bit different. It used to look like this:
 

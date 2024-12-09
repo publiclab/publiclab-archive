@@ -8,11 +8,15 @@ uid: 447491
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/020/004/original/polesample2_1024x1024_-_Copy.png)
+
 # Pole Mapping Kit Instructions
 
 by [ecta64](../profile/ecta64), [tonyc](../profile/tonyc), [abdul](../profile/abdul)
 
 December 07, 2015 17:42 | Tags: [polemapping](../tag/polemapping), [pole-aerial-photography](../tag/pole-aerial-photography), [pole-mapping](../tag/pole-mapping), [activities:aerial-photography](../tag/activities:aerial-photography), [method](../tag/method), [parent:pole-mapping](../tag/parent:pole-mapping)
+
+----
 
 #Pole mapping Kit instructions v 0.0.1
 

@@ -14,4 +14,6 @@ by [Tom_H](../profile/Tom_H) September 22, 2012 02:34
 
 September 22, 2012 02:34 | Tags: [spectralworkbench](../tag/spectralworkbench)
 
+----
+
 If you click on the configure button of spectralworkbench a slider appears that allows you to adjust a number.  What does that number represent?

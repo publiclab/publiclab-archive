@@ -14,6 +14,8 @@ by [holstius](../profile/holstius), [warren](../profile/warren), [sara](../profi
 
 October 13, 2011 18:19 | Tags: 
 
+----
+
 This is a research project that the Public Lab Toxics and Health working group is kicking off over the next couple of months. We are collaborating with Joan Ruderman from Harvard University and Gary Wessel from Brown University. Research on the project is sited at a lab at Brown. We would love to have any public laboratory people help us out in this research process, email the public lab list if you're interested in joining in!
 
 [[http://publiclaboratory.org/tool/home-testing-endocrine-disruptors|Home Testing for Endocrine Disruptors]]

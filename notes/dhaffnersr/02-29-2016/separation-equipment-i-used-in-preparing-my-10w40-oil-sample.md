@@ -8,11 +8,15 @@ uid: 461120
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/014/619/original/2_solvents_I_use.JPG)
+
 # Separation equipment I used in preparing my 10w40 oil sample
 
 by [dhaffnersr](../profile/dhaffnersr) February 29, 2016 21:54
 
 February 29, 2016 21:54 | Tags: 
+
+----
 
 [![my_log_book_Wnotes.JPG](//i.publiclab.org/system/images/photos/000/014/620/medium/my_log_book_Wnotes.JPG)](//i.publiclab.org/system/images/photos/000/014/620/original/my_log_book_Wnotes.JPG)
 

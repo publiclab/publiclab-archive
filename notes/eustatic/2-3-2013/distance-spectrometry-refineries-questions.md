@@ -8,11 +8,15 @@ uid: 379
 
 ---
 
+![](https://publiclab.org/sites/default/files/Marathon from the north hwy 61.PNG)
+
 # distance spectrometry of refineries: questions
 
 by [eustatic](../profile/eustatic) February 03, 2013 18:41
 
 February 03, 2013 18:41 | Tags: [spectrometer](../tag/spectrometer), [spectralchallenge](../tag/spectralchallenge), [flare](../tag/flare)
+
+----
 
 inspired by <a href="http://publiclaboratory.org/notes/jetson/1-27-2013/attempt-distance-spectrometery">Jetson's post</a>
 

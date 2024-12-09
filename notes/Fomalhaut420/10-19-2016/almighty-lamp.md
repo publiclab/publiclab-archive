@@ -8,11 +8,15 @@ uid: 494933
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/018/484/original/image.jpeg)
+
 # Almighty Lamp
 
 by [Fomalhaut420](../profile/Fomalhaut420) October 19, 2016 17:29
 
 October 19, 2016 17:29 | Tags: [hidden:response](../tag/hidden:response), [response:13586](../tag/response:13586)
+
+----
 
 ###What I want to do
 

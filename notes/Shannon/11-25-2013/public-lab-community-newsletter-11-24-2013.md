@@ -8,11 +8,15 @@ uid: 9
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/002/315/original/plots-logo-transparent.jpg)
+
 # Public Lab community newsletter 11.24.2013
 
 by [Shannon](../profile/Shannon) November 25, 2013 02:16
 
 November 25, 2013 02:16 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
+
+----
 
 In the Public Lab community newsletter this week, read about air monitoring projects, thoughts on design and community engagement and browse through some of the interactive media pieces featuring Public Lab collaborators that have come out this week. Enjoy!
 

@@ -8,11 +8,15 @@ uid: 9
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/004/215/original/plots-logo-transparent.jpg)
+
 # Public Lab community newsletter 5.10.14
 
 by [Shannon](../profile/Shannon) May 10, 2014 18:12
 
 May 10, 2014 18:12 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
+
+----
 
 This week in the Public Lab community newsletter, join in for some open agricultural science hacking at iFarm 2014, participate in the first tool focused Barnraising the first week of June and collaborate with the Public Lab nonprofit team by contributing your web design skills. Enjoy!
 

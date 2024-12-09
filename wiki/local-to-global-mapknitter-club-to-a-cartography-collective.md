@@ -8,11 +8,15 @@ uid: 1259
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/006/709/original/c_IMG_4800_the_crew.jpg)
+
 # Local to Global: MapKnitter Club to a Cartography Collective
 
 by [mollydanielsson](../profile/mollydanielsson)
 
 September 10, 2014 18:54 | Tags: [barataria-bay](../tag/barataria-bay), [grassrootsmapping](../tag/grassrootsmapping), [mapknitter](../tag/mapknitter), [barataria](../tag/barataria), [blog](../tag/blog), [style:fancy](../tag/style:fancy)
+
+----
 
 This an excerpt from Public Lab's publication about [mapping Barataria Bay](http://publiclab.org/wiki/barataria-bay-mapping-project), **DIY Aerial Photography of Barataria Bay: A Community Atlas.**
 

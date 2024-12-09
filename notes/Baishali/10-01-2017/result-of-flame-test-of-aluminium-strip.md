@@ -14,4 +14,6 @@ by [Baishali](../profile/Baishali) October 01, 2017 01:03
 
 October 01, 2017 01:03 | Tags: [answered](../tag/answered), [question:aluminum](../tag/question:aluminum)
 
+----
+
 What will happen if Aluminum strip is brought over a flame

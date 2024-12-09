@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/001/293/original/IMG_0209-2.JPG)
+
 # Public Lab Community Newsletter - August 23, 2013
 
 by [warren](../profile/warren) August 23, 2013 15:27
 
 August 23, 2013 15:27 | Tags: [newsletter](../tag/newsletter), [blog](../tag/blog), [newsletter-archive](../tag/newsletter-archive)
+
+----
 
 Happy Friday, Public Lab! Lots happening this week between updates on two Kickstarters, hundreds of new potential contributors to our infrared photography project, and various announcements and upcoming events. Stay cool, summer’s almost over!
 

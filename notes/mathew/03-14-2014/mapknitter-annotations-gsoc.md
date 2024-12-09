@@ -8,11 +8,15 @@ uid: 4
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/003/256/original/bayou_manchac_sewer_outful.jpg)
+
 # Mapknitter Annotations (GSOC)
 
 by [mathew](../profile/mathew) March 14, 2014 19:18
 
 March 14, 2014 19:18 | Tags: [balloon-mapping](../tag/balloon-mapping), [mapknitter](../tag/mapknitter), [archive](../tag/archive), [gsoc](../tag/gsoc), [annotation](../tag/annotation), [map-annotations](../tag/map-annotations), [qgis](../tag/qgis)
+
+----
 
 ###What I want to do
 There is no single page to find all the work we've done thinking about map annotations. I want to summarize the map annotation needs of our community, work thus far, and provide examples.

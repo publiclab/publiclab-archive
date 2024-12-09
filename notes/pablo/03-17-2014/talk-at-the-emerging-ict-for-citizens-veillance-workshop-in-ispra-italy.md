@@ -8,11 +8,15 @@ uid: 160
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/003/294/original/citizens-veillance-workshop-ispra.png)
+
 # Talk at the "Emerging ICT for Citizens’ Veillance" workshop in Ispra (Italy) 
 
 by [pablo](../profile/pablo) March 17, 2014 13:43
 
 March 17, 2014 13:43 | Tags: [balloon-mapping](../tag/balloon-mapping), [spain](../tag/spain), [presentations](../tag/presentations), [presentation](../tag/presentation), [italy](../tag/italy)
+
+----
 
 Thanks to the workshop [Mapping with balloons in Castellón and building community](http://publiclab.org/notes/pablo/02-12-2014/mapping-with-balloons-in-castellon-and-building-community) with Public Lab tools, we (at [Basurama](http://basurama.org)) have been invited to participate in the “Emerging ICT for Citizens’ Veillance: Theoretical and Practical Insights”  workshop organized by the Institute for the [Protection and Security of the Citizen of the Joint Research Centre of the European Commission](http://ipsc.jrc.ec.europa.eu/).
 <iframe src="//www.slideshare.net/slideshow/embed_code/32929605" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>

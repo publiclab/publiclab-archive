@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/008/881/original/sw.png)
+
 # Planning for Spectral Workbench 2.0
 
 by [warren](../profile/warren) February 10, 2015 20:30
 
 February 10, 2015 20:30 | Tags: [spectrometer](../tag/spectrometer), [spectral-workbench](../tag/spectral-workbench), [oil-testing-kit](../tag/oil-testing-kit)
+
+----
 
 Hello [Spectral Workbench](https://spectralworkbench.org) community! 
 

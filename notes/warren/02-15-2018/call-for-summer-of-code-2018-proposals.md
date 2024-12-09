@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/023/575/original/Screen_Shot_2018-02-15_at_4.03.08_PM.png)
+
 # Call for Summer of Code 2018 proposals!
 
 by [warren](../profile/warren) February 15, 2018 21:05
 
 February 15, 2018 21:05 | Tags: [website](../tag/website), [software](../tag/software), [gsoc](../tag/gsoc), [blog](../tag/blog), [developers](../tag/developers), [code](../tag/code), [wwg](../tag/wwg), [software-outreach](../tag/software-outreach), [rgsoc](../tag/rgsoc), [soc](../tag/soc), [response:13975](../tag/response:13975), [response:14162](../tag/response:14162), [gsoc-2018](../tag/gsoc-2018), [soc-2018](../tag/soc-2018), [rgsoc-2018](../tag/rgsoc-2018), [call-for-proposals](../tag/call-for-proposals)
+
+----
 
 ###   
 
@@ -67,10 +71,10 @@ Before or after you post your own draft, read through others' listed below. Your
 
 ## Proposals
 
-[notes:soc-2018-proposals]
+[soc-2018-proposals](../../tag/soc-2018-proposals)
 
 ---------
 
 ## Questions
 
-[questions:soc]
+[soc](../../tag/question:soc)

@@ -8,11 +8,15 @@ uid: 461120
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/014/018/original/20160201_132119.jpg)
+
 # Prototype incident light blocker
 
 by [dhaffnersr](../profile/dhaffnersr) February 01, 2016 20:19
 
 February 01, 2016 20:19 | Tags: 
+
+----
 
 ###What I want to do - More than what I want to do than what I had to do, I was getting too much incident light from my illumination sources so I fashioned a quick prototype below...I know, it looks kinda silly right now, it's made from a toilet paper tube and some electrical tape but it works!
 

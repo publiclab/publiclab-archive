@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/100_0074_0.JPG)
+
 # Infrared camera hacking at Parts and Crafts
 
 by [warren](../profile/warren) April 18, 2011 23:25
 
 April 18, 2011 23:25 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [somerville-massachusetts](../tag/somerville-massachusetts), [infrared](../tag/infrared), [partsandcrafts](../tag/partsandcrafts), [massachusetts](../tag/massachusetts), [parts-and-crafts](../tag/parts-and-crafts), [keychain-cameras](../tag/keychain-cameras)
+
+----
 
 Today I spent a few hours hacking $10 Walgreens digital cameras with some young environmental scientists at [Parts and Crafts](http://partsandcrafts.org), a DIY-oriented "camp" in Somerville, Massachusetts. 
 

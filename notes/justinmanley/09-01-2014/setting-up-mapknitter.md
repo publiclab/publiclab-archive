@@ -8,11 +8,15 @@ uid: 421556
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/006/540/original/installingMapKnitter.png)
+
 # Setting up MapKnitter
 
 by [justinmanley](../profile/justinmanley) September 01, 2014 20:49
 
 September 01, 2014 20:49 | Tags: [mapknitter](../tag/mapknitter), [gsoc](../tag/gsoc), [gsoc-2014](../tag/gsoc-2014), [barnstar:basic](../tag/barnstar:basic), [mapknitter-development](../tag/mapknitter-development)
+
+----
 
 ### How to set up MapKnitter from scratch ###
 

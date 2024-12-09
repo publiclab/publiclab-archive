@@ -14,6 +14,8 @@ by [stevie](../profile/stevie), [kamau19](../profile/kamau19)
 
 April 02, 2019 20:02 | Tags: [reporting](../tag/reporting), [wisconsin](../tag/wisconsin), [transportation](../tag/transportation), [frac-sand](../tag/frac-sand), [midwest](../tag/midwest), [traffic](../tag/traffic), [frac-sand-reporting](../tag/frac-sand-reporting), [sentinel](../tag/sentinel), [local-reporting](../tag/local-reporting), [parent:the-sand-sentinel-program](../tag/parent:the-sand-sentinel-program)
 
+----
+
 This page includes information about observable permit violations of the frac [sand mining industry](https://publiclab.org/wiki/nonmetallicmining#Industrial+Sand+Mining) related to transportation. 
 
 ###About Transportation and Frac Sand Mining 

@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/sites/default/files/D40CFLCUSG.jpg)
+
 # Spectral image quality
 
 by [cfastie](../profile/cfastie) January 21, 2013 16:30
 
 January 21, 2013 16:30 | Tags: [spectrometer](../tag/spectrometer), [vermont](../tag/vermont), [fold-up-mini-spectrometer](../tag/fold-up-mini-spectrometer), [slit-width](../tag/slit-width)
+
+----
 
 <em>Image above: Close up of some terbium and europium emission peaks in the spectrum of a compact fluorescent lamp photographed with a Nikon D40 DSLR. Terbium and europium compounds are commonly included in the phosphors lining the inside of fluorescent tubes. The overlain spectrograph is the red channel extracted by Spectral Workbench.  The flattened top of the tall peak indicates that the red channel was overexposed preventing precise assignment of a wavelength to that emission peak.</em>
 

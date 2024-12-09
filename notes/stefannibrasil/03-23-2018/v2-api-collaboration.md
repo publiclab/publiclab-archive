@@ -14,6 +14,8 @@ by [stefannibrasil](../profile/stefannibrasil) March 23, 2018 22:46
 
 March 23, 2018 22:46 | Tags: [soc-2018-api](../tag/soc-2018-api), [question:soc-2018-api](../tag/question:soc-2018-api)
 
+----
+
 Hello, everyone!
 
 I was thinking about start working on something related to the API, but as @warren pointed, it would be great if we could articulate the work since we all want to work on the same feature.

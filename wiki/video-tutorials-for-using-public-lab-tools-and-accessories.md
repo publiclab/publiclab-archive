@@ -14,6 +14,8 @@ by [liz](../profile/liz), [ghazaliya](../profile/ghazaliya), [btbonval](../profi
 
 March 09, 2015 17:07 | Tags: [video](../tag/video), [documentation](../tag/documentation), [tutorial](../tag/tutorial), [videos](../tag/videos), [video-documentation](../tag/video-documentation), [video-tutorial](../tag/video-tutorial), [tutorials](../tag/tutorials)
 
+----
+
 ## Welcome
 
 Here you will find links to video tutorials meant to help with various PublicLab tools. Each section will cover a different tool or web site. Tutorials for using our web sites can be found here as well because our web sites are tools!

@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/Picture 4_0.png)
+
 # SkyTruth & Southwings collect evidence for lawsuit on 7-yr-old oil spill
 
 by [warren](../profile/warren) February 06, 2012 20:34
 
 February 06, 2012 20:34 | Tags: [oil-spill](../tag/oil-spill), [skytruth](../tag/skytruth)
+
+----
 
 Via <a href="http://summitcountyvoice.com/2012/02/06/groups-sue-to-halt-7-year-oil-spill-in-gulf-of-mexico/">summitcountyvoice.com</a>, which writes:
 

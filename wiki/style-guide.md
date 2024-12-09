@@ -14,6 +14,8 @@ by [warren](../profile/warren), [liz](../profile/liz)
 
 April 02, 2015 17:21 | Tags: [design](../tag/design), [style-guide](../tag/style-guide), [sidebar:none](../tag/sidebar:none)
 
+----
+
 In 2019 we published a style guide for the PublicLab.org website, to set some clear design conventions, and improve consistency. This guide is designed to support coders, designers, and writers building and designing pages on PublicLab.org.
 
 [Link to draft Style Guide](https://publiclab.org/notes/warren/05-07-2019/introducing-a-draft-style-guide-for-public-lab)

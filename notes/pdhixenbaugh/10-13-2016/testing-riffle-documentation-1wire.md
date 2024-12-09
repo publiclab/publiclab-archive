@@ -8,11 +8,15 @@ uid: 459085
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/018/517/original/realonewire.png)
+
 # Testing Riffle Documentation - 1wire
 
 by [pdhixenbaugh](../profile/pdhixenbaugh) October 13, 2016 18:39
 
 October 13, 2016 18:39 | Tags: [riffle](../tag/riffle), [riffle-beta](../tag/riffle-beta), [activities:riffle](../tag/activities:riffle)
+
+----
 
 **Status: Code working, incorrect temperatures.** Need to resolve this. Does documentation need a troubleshooting section? See comments for latest.
 

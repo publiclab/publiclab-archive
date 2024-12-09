@@ -14,6 +14,8 @@ by [ErikHanley11](../profile/ErikHanley11) April 12, 2018 02:45
 
 April 12, 2018 02:45 | Tags: [analysis](../tag/analysis), [copper](../tag/copper), [corrosion](../tag/corrosion), [epoxies](../tag/epoxies), [sem](../tag/sem), [eds](../tag/eds)
 
+----
+
 Researchers used a variety of tools to characterize copper corrosion on their copper samples. Typical tools included the scanning electron microscope (SEM) \[1,2,3\] and focused ion beam (FIB), \[1\] but they also used energy analysis dispersive X-ray spectroscopy (EDS), \[1,3\] X-ray diffraction (XRD), \[1\] secondary ion mass spectroscopy (SIMS), \[1\] X-ray photoelectron spectroscopy (XPS), \[2,3\] cathodic reduction, \[3\] and coulometric reduction. \[2\] Tools like the SEM and FIB were used to image the corrosion surfaces, not characterize corrosion compounds. XRD, cathodic reduction, and coulometric reduction were used to actually characterize the corrosion compounds. XRD analysis seemed to be the most effective in this analysis as cathodic reduction was reported to damage corrosion surfaces. \[3\]
 
 Among all of the articles that were reviewed none of them discuss specific procedures to their electron microscope imaging processes. The most detailed procedure was found in Reid et al., which described a "crater" boring process into the sample that was then tilted at 45˚ to image the cross-section of corrosion. \[1\] Demirkan et al. mentioned the use of an epoxy to mount the sample in their procedure. \[3\] It is evident that reaching out to the authors of these articles and metal reduction reaction experts on Northeastern University's campus is necessary to gather a detailed electron microscope analysis procedure.

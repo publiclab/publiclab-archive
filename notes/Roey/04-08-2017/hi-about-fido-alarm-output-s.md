@@ -8,11 +8,15 @@ uid: 505445
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/020/111/original/IMG_3990.PNG)
+
 # Hi, about fido alarm output's
 
 by [Roey](../profile/Roey) April 08, 2017 20:17
 
 April 08, 2017 20:17 | Tags: [question:fido](../tag/question:fido)
+
+----
 
 Hello,
 I would like to setup fido in some freezer. I want to know if there's a way to send email notification instead sms .

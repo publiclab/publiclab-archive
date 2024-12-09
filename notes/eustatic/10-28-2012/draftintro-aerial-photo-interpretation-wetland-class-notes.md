@@ -14,6 +14,8 @@ by [eustatic](../profile/eustatic) October 28, 2012 19:24
 
 October 28, 2012 19:24 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [map-curriculum](../tag/map-curriculum), [delineation](../tag/delineation)
 
+----
+
 This is the first of two classes on aerial photography interpretation.
 
 This class was an introduction to the basics of aerial photography, and listed and briefly discussed the many aspects of photography to consider when looking at a photograph. 

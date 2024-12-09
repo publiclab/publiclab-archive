@@ -14,4 +14,6 @@ by [zengirl2](../profile/zengirl2) March 09, 2018 21:08
 
 March 09, 2018 21:08 | Tags: [community](../tag/community), [air-quality](../tag/air-quality), [cafo](../tag/cafo), [answered](../tag/answered), [question:question](../tag/question:question), [odor](../tag/odor), [question:odor](../tag/question:odor), [question:smell](../tag/question:smell), [factory-farms](../tag/factory-farms), [question:cafo](../tag/question:cafo), [odor-logging](../tag/odor-logging), [question:odor-logging](../tag/question:odor-logging)
 
+----
+
 Looking for apps so people can record problems in their community based on what they are seeing and smelling. Trying to have mapped info real-time, but for now just documenting would be good.

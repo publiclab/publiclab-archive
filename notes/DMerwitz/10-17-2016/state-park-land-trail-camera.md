@@ -14,6 +14,8 @@ by [DMerwitz](../profile/DMerwitz) October 17, 2016 21:30
 
 October 17, 2016 21:30 | Tags: [park](../tag/park), [sand](../tag/sand), [michigan](../tag/michigan), [timelapse](../tag/timelapse), [mining](../tag/mining), [fracsand](../tag/fracsand), [trail-cam](../tag/trail-cam), [state](../tag/state), [sand-mining](../tag/sand-mining)
 
+----
+
 ###What I want to do or know
 Is it illegal?  
 ###Background story

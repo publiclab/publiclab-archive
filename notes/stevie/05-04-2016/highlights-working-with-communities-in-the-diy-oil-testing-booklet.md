@@ -8,11 +8,15 @@ uid: 422561
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/015/942/original/IMG_20160420_112253-2.jpg)
+
 # Highlights: Working with Communities in the DIY Oil Testing Booklet
 
 by [stevie](../profile/stevie) May 04, 2016 18:06
 
 May 04, 2016 18:06 | Tags: [spectrometer](../tag/spectrometer), [community](../tag/community), [workshops](../tag/workshops), [blog](../tag/blog), [oil-testing-kit](../tag/oil-testing-kit), [homebrew-oil-testing-kit](../tag/homebrew-oil-testing-kit), [booklet](../tag/booklet), [response:13032](../tag/response:13032)
+
+----
 
 The second section of the new DIY Oil Testing Booklet, which we’re highlighting this week, is focused on _Working with Communities_. 
 

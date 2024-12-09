@@ -8,11 +8,15 @@ uid: 77
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/002/448/original/PL_Delta_crpd.jpg)
+
 # First flight Public Lab Kite kit Delta and new A490 Rosco 2007 white balance  images 
 
 by [patcoyle](../profile/patcoyle) December 24, 2013 00:58
 
 December 24, 2013 00:58 | Tags: [kap](../tag/kap), [infragram](../tag/infragram)
+
+----
 
 ###What I want to do
 Make first test flight with [Public Lab Kite kit ](http://store.publiclab.org/collections/mapping/products/kite-mapping-pack)Delta. Try new A490 Rosco 2007 white balance incorporating suggestions from Chris Fastie.  Chris had looked at an [earlier set of images ](http://publiclab.org/notes/patcoyle/12-16-2013/results-simple-aerial-photomapping-session-junction-avenue-school-ready-field-day)and wrote, "... about your Rosco infrablue mosaic. Assuming Photoscan did not alter the color balance of the original camera photos, it looks like your custom white balance is too good. That is, the blue sky you were pointing at when you did the white balance was too blue. The camera is making the blue channel very dark, which makes the difference between blue and red (NIR) high, which makes NDVI high. So all plants are represented with a color at the far end of the lut and therefore are all the same color. I would redo the white balance on a day when the sky is not so blue, or point the camera at a piece of bright blue paper in the shade.  If you do that, take before and after photos of the same plants so you can see the difference and know if your new setting produces slightly less orange photos."

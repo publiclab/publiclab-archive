@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/009/733/original/IMG_1232.JPG)
+
 # Wetlands Toolkit
 
 by [gretchengehrke](../profile/gretchengehrke), [liz](../profile/liz), [Shannon](../profile/Shannon), [stevie](../profile/stevie)
 
 April 30, 2015 18:49 | Tags: [wetlands](../tag/wetlands), [epa](../tag/epa), [pole-mapping](../tag/pole-mapping), [urbanwaters](../tag/urbanwaters), [wetlands-toolkit](../tag/wetlands-toolkit), [toolkit](../tag/toolkit), [workshop-series](../tag/workshop-series)
+
+----
 
 _Image: Community mapping of Bayou St. John, New Orleans, LA._
 

@@ -14,6 +14,8 @@ by [osetroff](../profile/osetroff) May 27, 2017 18:23
 
 May 27, 2017 18:23 | Tags: [question:generalspectrometer](../tag/question:generalspectrometer)
 
+----
+
 Can this [camera](http://www.aliexpress.com/item/2MP-1920X1080-100-Degree-No-distortion-Lens-Sony-IMX322-Color-CMOS-H-264-hd-mini-CCTV/32772961033.html)
  be suitable to make a spectrometer v3.0?
 

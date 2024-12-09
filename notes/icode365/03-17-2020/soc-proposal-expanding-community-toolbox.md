@@ -8,11 +8,15 @@ uid: 553778
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/038/571/original/banner.png)
+
 # SoC proposal: Expanding Community Toolbox
 
 by [icode365](../profile/icode365) March 17, 2020 07:48
 
 March 17, 2020 07:48 | Tags: [gsoc](../tag/gsoc), [soc](../tag/soc), [soc-2020](../tag/soc-2020), [soc-2020-proposals](../tag/soc-2020-proposals)
+
+----
 
 ## About Me
 

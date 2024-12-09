@@ -8,11 +8,15 @@ uid: 422561
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/008/793/original/20141020_111334.jpg)
+
 # Urban Waters Mapping, NOLA
 
 by [stevie](../profile/stevie), [Alexis](../profile/Alexis), [sierra170](../profile/sierra170), [eustatic](../profile/eustatic)
 
 October 11, 2014 16:30 | Tags: [gulf-coast](../tag/gulf-coast), [wetlands](../tag/wetlands), [community-mapping](../tag/community-mapping), [louisiana](../tag/louisiana), [restoration](../tag/restoration), [epa](../tag/epa), [new-orleans](../tag/new-orleans), [neworleans](../tag/neworleans), [tabbed:notes](../tag/tabbed:notes), [urbanwater](../tag/urbanwater), [urbanwaters](../tag/urbanwaters), [community-organizing](../tag/community-organizing), [project](../tag/project), [project:wetlands](../tag/project:wetlands), [fresh-water](../tag/fresh-water), [urban-wetland](../tag/urban-wetland)
+
+----
 
 Welcome to the New Orleans Urban Waters Restoration Mapping Project page. This project was funded in part by the EPA Urban Waters Small Grant Program. This community mapping project aimed to maps eight urban restoration sites around New Orleans. Learn more about the sites and visit the maps made in this project below!
 

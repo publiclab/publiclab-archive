@@ -14,6 +14,8 @@ by [laurel_mire](../profile/laurel_mire) June 19, 2021 16:51
 
 June 19, 2021 16:51 | Tags: [soil](../tag/soil), [water-quality](../tag/water-quality), [question:water-quality](../tag/question:water-quality), [ocean](../tag/ocean), [question:general](../tag/question:general), [general](../tag/general), [question:soil](../tag/question:soil), [soil-contamination](../tag/soil-contamination), [research-curation-fellows](../tag/research-curation-fellows)
 
+----
+
 This is a question that came up during the wrap up event for the soil contamination research area review (you can find the summary post along with a list of questions here [🎈 Public Lab: Wrapping up a research area review on soil contamination](https://publiclab.org/notes/bhamster/04-07-2021/wrapping-up-a-research-area-review-on-soil-contamination "https://publiclab.org/notes/bhamster/04-07-2021/wrapping-up-a-research-area-review-on-soil-contamination")!). 
 
   

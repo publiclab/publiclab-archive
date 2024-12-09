@@ -14,6 +14,8 @@ by [liz](../profile/liz), [LauraChipley](../profile/LauraChipley)
 
 September 23, 2014 15:42 | Tags: [parent:southeast](../tag/parent:southeast)
 
+----
+
 ##**Appalachian Mountaintop Patrol (AMP) Project**
 
 http://publiclab.org/notes/LauraChipley/09-25-2014/sensors-for-collecting-environmental-data-at-mtr-and-hydrofracking-sites

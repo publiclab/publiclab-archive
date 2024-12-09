@@ -8,11 +8,15 @@ uid: 468506
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/017/213/original/question_index_production.png)
+
 # Progress of the Expanded Q & A Project
 
 by [ananyo2012](../profile/ananyo2012) July 25, 2016 20:19
 
 July 25, 2016 20:19 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [web](../tag/web), [developers](../tag/developers), [barnstar:basic](../tag/barnstar:basic), [gsoc-2016](../tag/gsoc-2016), [q-and-a](../tag/q-and-a)
+
+----
 
 It's time for an update on the Q & A Project. The Q & A Project is almost up and running and now you can Post and answer a question from the Q & A pages. Here are all the detailed list of  features that are introduced in the Q & A pages. You can now visit the  https://publiclab.org/questions link to view all the questions in publiclab.org website.
 

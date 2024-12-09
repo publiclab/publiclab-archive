@@ -8,11 +8,15 @@ uid: 379
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/006/974/original/old_terracing_projects_CIR_analysis_2010.png)
+
 # [Method] IR Aerial photograph monitoring and evaluation of terracing restoration
 
 by [eustatic](../profile/eustatic) September 23, 2014 17:31
 
 September 23, 2014 17:31 | Tags: [gulf-coast](../tag/gulf-coast), [balloon-mapping](../tag/balloon-mapping), [propublica](../tag/propublica), [washustlouis](../tag/washustlouis), [washu-stlouis](../tag/washu-stlouis), [response:11137](../tag/response:11137)
+
+----
 
 ###What I want to do
 

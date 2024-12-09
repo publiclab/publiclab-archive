@@ -14,6 +14,8 @@ by [liz](../profile/liz)
 
 September 15, 2021 19:39 | Tags: 
 
+----
+
 This page includes resources for facilitation for meetings, and decision making processes. Please edit and add! 
 
 >There is a conversation in the room that only these people in this moment can have. Find it.*
@@ -50,11 +52,11 @@ Ground rules are really helpful for meetings. It's important that people buy int
 
 ## Questions
 
-[questions:facilitation]
+[facilitation](../../tag/question:facilitation)
 
 ## Activities
 
-[activities:facilitation]
+[facilitation](../../tag/activity:facilitation)
 
 ****
 

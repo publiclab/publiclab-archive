@@ -14,6 +14,8 @@ by [wangdydu](../profile/wangdydu) April 27, 2018 08:55
 
 April 27, 2018 08:55 | Tags: [spectral-workbench](../tag/spectral-workbench), [question:spectral-workbench](../tag/question:spectral-workbench)
 
+----
+
 I took photo with my smartphone, upload with smartphone and PC, checked and unchecked the checkbox of vertical, rotated the device for 90 degree on my smartphone, zoomed in/out, rename the file, and all the methods lead to the same result: vertical spectrum. Am I doing anything wrong?
 
   

@@ -8,11 +8,15 @@ uid: 736201
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/042/450/original/61B04f0ALWL._AC_SL1500_.jpg)
+
 # Converting a WyzeCam for 2-camera NDVI in 1 camera
 
 by [DS501st](../profile/DS501st) January 18, 2021 03:10
 
 January 18, 2021 03:10 | Tags: [ndvi](../tag/ndvi), [infragram-filters](../tag/infragram-filters), [hydroponics](../tag/hydroponics), [seeks:replications](../tag/seeks:replications), [activity:infrared-camera-conversion](../tag/activity:infrared-camera-conversion), [infrared-camera-conversion](../tag/infrared-camera-conversion), [first-time-poster](../tag/first-time-poster), [wyzecam](../tag/wyzecam)
+
+----
 
 I recently decided to take a dive into NDVI imagery for use with my home hydroponics system, tracking plant growth over time. That's still a work in progress (I'm a better developer & engineer than a farmer) but I thought I'd share the idea I had to convert a cheap ($20) common camera for dual-camera NDVI. I have some prior experience with NDVI from remote-sensing (at satellite and UAV-scale) applications and though bringing it into my side hydroponics project would be neat.
 

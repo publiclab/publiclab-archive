@@ -14,6 +14,8 @@ by [stevie](../profile/stevie) September 06, 2016 19:15
 
 September 06, 2016 19:15 | Tags: [timelapse](../tag/timelapse), [water](../tag/water), [water-monitoring](../tag/water-monitoring), [sediment](../tag/sediment), [question:timelapse](../tag/question:timelapse), [runoff](../tag/runoff), [response:13266](../tag/response:13266), [question:photo-monitoring](../tag/question:photo-monitoring), [sedimentation](../tag/sedimentation), [question:sedimentation](../tag/question:sedimentation)
 
+----
+
 ###What I want to do or know
 I'm exploring if timelapse cameras can be used to monitor for pollution runoff into a stream. 
 

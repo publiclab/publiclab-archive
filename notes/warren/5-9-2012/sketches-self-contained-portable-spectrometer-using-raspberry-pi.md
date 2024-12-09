@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/IMG_20120509_122945_edit0.jpg)
+
 # Sketches for a self-contained portable spectrometer using a Raspberry Pi
 
 by [warren](../profile/warren) May 09, 2012 20:18
 
 May 09, 2012 20:18 | Tags: [spectrometer](../tag/spectrometer)
+
+----
 
 Trying to think of how to get a portable spectrometer working. A [Raspberry Pi](http://www.raspberrypi.org/) (once they start shipping more regularly) will be $25-35, so we could conceivably put one in the VHS case and have it record a spectra every X seconds. 
 

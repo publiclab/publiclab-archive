@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/033/299/original/Screen_Shot_2019-06-27_at_5.34.58_PM.png)
+
 # Getting help in a coding project
 
 by [warren](../profile/warren) June 27, 2019 21:47
 
 June 27, 2019 21:47 | Tags: [gsoc](../tag/gsoc), [code](../tag/code), [software-outreach](../tag/software-outreach), [soc](../tag/soc), [gsoc-2019](../tag/gsoc-2019), [soc-2019](../tag/soc-2019)
+
+----
 
 At times we've all been stuck even in trying to help out, because of the complexity of a project. But we have a great community who's willing to offer support! I wanted to share some thoughts on how **good documentation of a problem** can help when asking for help!
 

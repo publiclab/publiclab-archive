@@ -3,6 +3,8 @@ uid: 422365
 created_at: 2014-04-11 03:15:48 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/77226456687df9549a222e9ac8d54a6f)
+
 # muyueh
 
 Programmer that do data visualization work: http://muyueh.com/seeall/

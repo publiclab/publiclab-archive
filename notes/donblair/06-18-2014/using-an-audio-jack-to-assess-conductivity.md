@@ -8,11 +8,15 @@ uid: 43651
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/004/851/original/conductivityJackz.png)
+
 # Using an Audio Jack to Assess Conductivity
 
 by [donblair](../profile/donblair) June 18, 2014 18:57
 
 June 18, 2014 18:57 | Tags: [conductivity](../tag/conductivity)
+
+----
 
 ###What I want to do
 

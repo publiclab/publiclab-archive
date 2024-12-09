@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/006/817/original/coqui.png)
+
 # Coqui draft board design on Upverter
 
 by [warren](../profile/warren) September 14, 2014 18:09
 
 September 14, 2014 18:09 | Tags: [vermont](../tag/vermont), [leaffest](../tag/leaffest), [conductivity](../tag/conductivity), [pcb](../tag/pcb), [upverter](../tag/upverter), [riffle](../tag/riffle), [open-water](../tag/open-water), [northeast](../tag/northeast), [555](../tag/555), [leaffest2014](../tag/leaffest2014), [coqui](../tag/coqui), [schematic](../tag/schematic), [activity:coqui-version](../tag/activity:coqui-version)
+
+----
 
 ###What I want to do
 

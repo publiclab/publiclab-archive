@@ -8,11 +8,15 @@ uid: 568043
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/034/874/original/1_g5RBYeGe0VLB6t_ZsvO_wQ.png)
+
 # Google Summer of Code 2019 - Final Work Product - Isha Gupta
 
 by [IshaGupta18](../profile/IshaGupta18) August 26, 2019 04:22
 
 August 26, 2019 04:22 | Tags: [open-source](../tag/open-source), [gsoc](../tag/gsoc), [barnstar:excessive-enthusiasm](../tag/barnstar:excessive-enthusiasm), [soc](../tag/soc), [gsoc-2019](../tag/gsoc-2019), [soc-2019](../tag/soc-2019), [gsoc-2019-final-report](../tag/gsoc-2019-final-report)
+
+----
 
 # Google Summer of Code'19 Work Product: Isha Gupta
 

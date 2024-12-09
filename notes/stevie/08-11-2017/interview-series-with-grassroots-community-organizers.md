@@ -8,11 +8,15 @@ uid: 422561
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/021/321/original/obliquePC.JPG)
+
 # Interview series with Grassroots Community Organizers
 
 by [stevie](../profile/stevie) August 11, 2017 20:25
 
 August 11, 2017 20:25 | Tags: [interview](../tag/interview), [chicago](../tag/chicago), [environmental-justice](../tag/environmental-justice), [community-organizing](../tag/community-organizing), [interview-series](../tag/interview-series), [series:community-interviews](../tag/series:community-interviews)
+
+----
 
 _Lead image from taken during a mapping session at the Chicago Barnraising with @Olga and the South East Side Coalition to Ban Petcoke. Image is of the Petcoke Piles that plagued the Calumet River and surrounding community._
 

@@ -14,6 +14,8 @@ by [liz](../profile/liz) January 08, 2019 14:25
 
 January 08, 2019 14:25 | Tags: [event](../tag/event), [particulates](../tag/particulates), [event:rsvp](../tag/event:rsvp), [event:pennsylvania](../tag/event:pennsylvania), [lat:40.396764](../tag/lat:40.396764), [lon:-75.563964](../tag/lon:-75.563964), [place:bally-pennsylvania](../tag/place:bally-pennsylvania), [rsvp:lakshit2000](../tag/rsvp:lakshit2000)
 
+----
+
 Posting on behalf of the rural Pennsylvania community: 
 
 Join us this Saturday to discuss the impact of 4 years of waste dumping in our rural community with the [Clean Air Council][1] + [Delaware Riverkeeper Network][2]

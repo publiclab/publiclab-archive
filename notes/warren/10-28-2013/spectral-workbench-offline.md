@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/002/071/original/offline.png)
+
 # Spectral Workbench Offline
 
 by [warren](../profile/warren) October 28, 2013 23:31
 
 October 28, 2013 23:31 | Tags: [spectrometer](../tag/spectrometer), [spectralworkbench](../tag/spectralworkbench), [offline](../tag/offline)
+
+----
 
 I spoke with some Firefox OS folks at Mozfest this weekend about the "offline manifest" system in modern browsers, and was able to put together a basic offline mode for Spectral Workbench. 
 

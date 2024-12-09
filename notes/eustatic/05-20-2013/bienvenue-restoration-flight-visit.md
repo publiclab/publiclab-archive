@@ -8,11 +8,15 @@ uid: 379
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/000/365/original/Bienvenue_mapping_restoration.png)
+
 # Bienvenue Restoration flight / visit
 
 by [eustatic](../profile/eustatic) May 20, 2013 23:51
 
 May 20, 2013 23:51 | Tags: [gulf-coast](../tag/gulf-coast), [event](../tag/event), [bienvenue](../tag/bienvenue)
+
+----
 
 ##Bienvenue Wetlands Project photos
 

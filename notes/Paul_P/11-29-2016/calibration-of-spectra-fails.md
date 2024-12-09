@@ -8,11 +8,15 @@ uid: 497508
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/018/900/original/calibrate.png)
+
 # Calibration of spectra fails
 
 by [Paul_P](../profile/Paul_P) November 29, 2016 08:57
 
 November 29, 2016 08:57 | Tags: [question:spectral-workbench](../tag/question:spectral-workbench)
+
+----
 
 ###What I want to do or know
 I am trying to calibrate my first CFL spectrum taken with the public labs smartphone spectrometer. The save fails with a permanent spinning wheel on the save button and a "Tag you've applied couldn't be saved" warning. See the attached screenshot and link to the spectra.

@@ -8,11 +8,15 @@ uid: 495038
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/018/846/original/freshair.jpg)
+
 # Fresh air collector
 
 by [imvec](../profile/imvec) November 15, 2016 14:09
 
 November 15, 2016 14:09 | Tags: [calibration](../tag/calibration), [spain](../tag/spain), [sensors](../tag/sensors), [open-air](../tag/open-air), [espana](../tag/espana)
+
+----
 
 ###What we want to do
 We'll try to develop a DIY system to collect a relatively standard “fresh air” during the initial autocalibration of an air quality or gas sensor.

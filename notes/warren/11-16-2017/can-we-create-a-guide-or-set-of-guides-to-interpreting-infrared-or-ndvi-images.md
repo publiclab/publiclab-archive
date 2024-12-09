@@ -14,6 +14,8 @@ by [warren](../profile/warren) November 16, 2017 01:23
 
 November 16, 2017 01:23 | Tags: [infrared](../tag/infrared), [infragram](../tag/infragram), [multispectral-analysis](../tag/multispectral-analysis), [multispectral-imaging](../tag/multispectral-imaging), [question:infragram-challenges](../tag/question:infragram-challenges), [infragram-challenges](../tag/infragram-challenges)
 
+----
+
 Folks often ask for help in interpreting multispectral imagery (like [NDVI](https://publiclab.org/wiki/ndvi) images) such as collected using [DIY Infragram cameras](https://publiclab.org/wiki/infragram), and this is just as relevant for satellite-based infrared imagery. 
 
   

@@ -8,11 +8,15 @@ uid: 9
 
 ---
 
+![](https://publiclab.org/sites/default/files/IMG_0431.JPG)
+
 # Bayou Sauvage Draeger tubes after 4 days
 
 by [Shannon](../profile/Shannon) August 06, 2012 22:14
 
 August 06, 2012 22:14 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [wetlands](../tag/wetlands)
+
+----
 
 I picked up the last two poles this morning (8.6.12) around 11am. No change in the color on either of the tubes.
 

@@ -3,6 +3,8 @@ uid: 525958
 created_at: 2018-02-23 14:52:48 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/525958/medium/pic.jpg)
+
 # cess
 
 Outreachy alumni with PublicLab,  GSoC and Outreachy Mentor, PublicLab code community co-ordinator.

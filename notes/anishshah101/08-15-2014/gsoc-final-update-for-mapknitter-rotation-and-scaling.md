@@ -8,11 +8,15 @@ uid: 421046
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/006/301/original/1.png)
+
 # GSoC Final Update for Mapknitter- Rotation and Scaling.
 
 by [anishshah101](../profile/anishshah101) August 15, 2014 21:08
 
 August 15, 2014 21:08 | Tags: [mapknitter](../tag/mapknitter), [gsoc](../tag/gsoc), [developers](../tag/developers), [gsoc-2014](../tag/gsoc-2014)
+
+----
 
 The following features for the Leaflet based Edit page are complete:
 1) Dragging

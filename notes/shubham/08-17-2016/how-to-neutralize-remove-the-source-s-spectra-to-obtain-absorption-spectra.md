@@ -14,6 +14,8 @@ by [shubham](../profile/shubham) August 17, 2016 06:35
 
 August 17, 2016 06:35 | Tags: [question:spectrometry](../tag/question:spectrometry), [answered](../tag/answered)
 
+----
+
 Hi Everyone
 
 We have made a CCD detector based spectrometer but are facing a problem while taking the absorption spectra.

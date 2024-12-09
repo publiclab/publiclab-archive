@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/017/965/original/Screenshot_2016-09-07_at_3.53.55_PM.png)
+
 # Check out these Activity Grids
 
 by [liz](../profile/liz) August 30, 2016 18:59
 
 August 30, 2016 18:59 | Tags: [collaboration](../tag/collaboration), [blog](../tag/blog), [with:warren](../tag/with:warren), [with:gretchengehrke](../tag/with:gretchengehrke), [research-culture](../tag/research-culture), [activity-grids](../tag/activity-grids), [replication](../tag/replication), [with:abdul](../tag/with:abdul)
+
+----
 
 The sheer number of posts on publiclab.org by contributors from all over the world about **1)** how to build tools better, and **2)** how to use them for making environmental observations is breathtaking, and at times, boggling. As Public Lab has grown, so much content has been generated that it has become unnecessarily difficult to know what the "latest and greatest" version is, what the next development challenges are, or simply where newcomers should begin. 
 

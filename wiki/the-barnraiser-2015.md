@@ -14,6 +14,8 @@ by [warren](../profile/warren)
 
 November 03, 2016 17:14 | Tags: 
 
+----
+
 
 For 2015, we did a digital layout using Google Drawings, and [the template is here](https://docs.google.com/drawings/d/1l9O7oA79tKwvZzY9GvWddWl05wi-cJj2KYOsX5xSCWs/edit). 
 

@@ -14,6 +14,8 @@ by [Vman](../profile/Vman) June 25, 2017 17:19
 
 June 25, 2017 17:19 | Tags: [spectrometer](../tag/spectrometer), [spectralworkbench](../tag/spectralworkbench), [export](../tag/export), [graph](../tag/graph), [question:general](../tag/question:general)
 
+----
+
 ###What I want to do or know
 I am building a spectrometer using my android phone but I am unable to use the back camera when using the chrome browser. 
 ###Background story

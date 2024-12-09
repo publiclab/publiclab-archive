@@ -8,11 +8,15 @@ uid: 297929
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/003/386/original/map2.jpg)
+
 # Sunday 4.6.2014 -- Toolshed Raising
 
 by [kgradow1](../profile/kgradow1) March 26, 2014 01:49
 
 March 26, 2014 01:49 | Tags: [first-time-poster](../tag/first-time-poster)
+
+----
 
 ###Updates!
 

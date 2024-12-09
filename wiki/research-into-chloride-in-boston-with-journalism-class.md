@@ -14,6 +14,8 @@ by [mattmullen](../profile/mattmullen), [anthony_mastracci](../profile/anthony_m
 
 February 11, 2015 12:38 | Tags: [boston](../tag/boston), [classroom](../tag/classroom), [water-quality](../tag/water-quality), [conductivity](../tag/conductivity), [journalism](../tag/journalism), [emerson](../tag/emerson), [sensor-journalism](../tag/sensor-journalism), [myrwa](../tag/myrwa), [replication:11213](../tag/replication:11213), [salinity](../tag/salinity), [chloride](../tag/chloride)
 
+----
+
 ##Semi-Fictional Challenge to the JR368 Data Visualization Class at Emerson College, Spring 2015
 
 Is there too much salt in the streams and rivers around Boston? Is it impairing aquatic life? The municipal government says it's fine. Residents say there's so much road salt that it's killing their lawn and impairing stream life. Community groups are advocating for testing. What's your strategy to find out the story? You find [myRWA online](http://mysticriver.org/) and contact Patrick Herron. Turns out there is a community already engaged in water quality monitoring and they have looked at various measuring options and found a [coqui sensor](http://publiclab.org/wiki/coqui) that is low cost, fairly easy and engages people around the data collection effort. You, as the journalist, jump on board that effort in order to tell the story of what's going. The device hasn't been used before to monitor water quality.  

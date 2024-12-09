@@ -8,11 +8,15 @@ uid: 45586
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/015/940/original/Indesign-template.png)
+
 # DIY Oil Testing Toolkit: Graphic Template Release!
 
 by [mlamadrid](../profile/mlamadrid) May 04, 2016 16:35
 
 May 04, 2016 16:35 | Tags: [spectrometer](../tag/spectrometer), [community](../tag/community), [workshops](../tag/workshops), [oil-testing-kit](../tag/oil-testing-kit), [barnstar:basic](../tag/barnstar:basic), [with:warren](../tag/with:warren), [homebrew-oil-testing-kit](../tag/homebrew-oil-testing-kit), [booklet](../tag/booklet)
+
+----
 
 Hello! I have uploaded a template version of the book design for the DIY Oil Testing Toolkit. It's a basic Indesign template. You can print it using a self-publishing service like Blurb or take it to a printer and get it spiral bound! 
 

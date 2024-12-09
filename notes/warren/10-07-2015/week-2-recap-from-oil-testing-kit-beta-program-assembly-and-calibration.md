@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/011/871/original/Screenshot_2015-10-07_at_2.05.57_PM.png)
+
 # Week 2: recap from Oil Testing Kit Beta Program: Assembly and Calibration
 
 by [warren](../profile/warren) October 07, 2015 18:09
 
 October 07, 2015 18:09 | Tags: [spectrometer](../tag/spectrometer), [calibration](../tag/calibration), [oil](../tag/oil), [fluorescence](../tag/fluorescence), [oil-testing-kit](../tag/oil-testing-kit), [oil-testing-kit-beta](../tag/oil-testing-kit-beta), [response:12257](../tag/response:12257)
+
+----
 
 Hi, all - welcome to the Week 2 recap; we just wrapped up the weekly chat and some folks are making great progress (thanks for the above image by @Cindy_ExCites!). Thanks to everyone who showed, and for the great posts we've seen in the past week. Remember to stay up to date by reading the Oil Testing Kit blog:
 

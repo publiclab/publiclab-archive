@@ -8,11 +8,15 @@ uid: 736598
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/042/644/original/EPA_flow_chart.png)
+
 # New Orleans Parish Educators: Join Public Lab for our February Microplastics Workshop!
 
 by [purl](../profile/purl) February 09, 2021 16:43
 
 February 09, 2021 16:43 | Tags: 
+
+----
 
 Date: February 28th, 2021
 

@@ -14,6 +14,8 @@ by [warren](../profile/warren) November 14, 2017 17:43
 
 November 14, 2017 17:43 | Tags: [website](../tag/website), [design](../tag/design), [web](../tag/web), [wwg](../tag/wwg), [ui](../tag/ui), [question:ui](../tag/question:ui)
 
+----
+
 There's an ongoing project to reimagine the purpose, and then the design, of the sidebar on [PublicLab.org](http://PublicLab.org). More details are here:
 
 [https://github.com/publiclab/plots2/issues/1706](https://github.com/publiclab/plots2/issues/1706)

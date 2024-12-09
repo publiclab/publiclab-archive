@@ -14,6 +14,8 @@ by [amocorro](../profile/amocorro), [liz](../profile/liz), [stevie](../profile/s
 
 December 07, 2016 20:08 | Tags: [events](../tag/events), [archive](../tag/archive), [event](../tag/event), [openhour](../tag/openhour), [seminar](../tag/seminar), [parent:openhour](../tag/parent:openhour), [2-](../tag/2-)
 
+----
+
 ## 2021 OpenHours ##
 
 ###May & June: No OpenHours 

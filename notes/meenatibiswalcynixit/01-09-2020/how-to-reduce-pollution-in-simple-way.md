@@ -14,6 +14,8 @@ by [meenatibiswalcynixit](../profile/meenatibiswalcynixit) January 09, 2020 12:1
 
 January 09, 2020 12:12 | Tags: [pollution](../tag/pollution), [weather](../tag/weather), [question:general](../tag/question:general), [general](../tag/general), [first-time-poster](../tag/first-time-poster)
 
+----
+
 1\. When purchasing a new car, consider one that is the most efficient,
 
 lowest-polluting vehicle or even a zero-emission electric car.

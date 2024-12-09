@@ -8,10 +8,14 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/IMG_3606.JPG)
+
 # Birds at Grand Isle State Park
 
 by [warren](../profile/warren) May 13, 2011 18:11
 
 May 13, 2011 18:11 | Tags: 
+
+----
 
 Shannon Dosemagen, Adam Griffith, and I took this image yesterday (May 12, 2011) at Grand Isle State Park. This makes the third or fourth mapping of this site -- pretty exciting!

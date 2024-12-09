@@ -3,6 +3,8 @@ uid: 517047
 created_at: 2017-10-26 13:38:59 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/8342a200578a2e1e13b721de42f80209)
+
 # PDiddy
 
 

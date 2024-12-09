@@ -8,11 +8,15 @@ uid: 422561
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/019/728/original/CCH_20111121_003.JPG)
+
 # Creating a Media Campaign
 
 by [xose](../profile/xose), [stevie](../profile/stevie), [warren](../profile/warren), [hagitkeysar](../profile/hagitkeysar)
 
 January 20, 2016 17:41 | Tags: [media](../tag/media), [organizing](../tag/organizing), [tool](../tag/tool), [methods](../tag/methods), [advocacy](../tag/advocacy), [strategy](../tag/strategy), [campaign](../tag/campaign), [method](../tag/method), [community-organizing](../tag/community-organizing)
+
+----
 
 _The resources on this page have been compiled by [Catherine D'Ignazio](https://publiclab.org/profile/kanarinka), Jessica Hendricks, [Hagit Keysar](https://publiclab.org/profile/hagitkeysar), [Jeff Warren](https://publiclab.org/profile/warren), and [Stevie Lewis](https://publiclab.org/profile/stevie)._
 

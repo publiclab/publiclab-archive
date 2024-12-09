@@ -8,11 +8,15 @@ uid: 470457
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/015/548/original/version1.jpg)
+
 # Questions: Balloon size and balloon mappers in Sheffield, UK
 
 by [lionfish](../profile/lionfish) April 15, 2016 09:22
 
 April 15, 2016 09:22 | Tags: [balloon-mapping](../tag/balloon-mapping), [uk](../tag/uk), [balloon](../tag/balloon), [eu](../tag/eu), [sheffield](../tag/sheffield), [large](../tag/large)
+
+----
 
 ###What I want to do
 

@@ -8,11 +8,15 @@ uid: 100817
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/000/470/original/rscweb.JPG)
+
 # Riverside Cemetery
 
 by [cwhite](../profile/cwhite) June 03, 2013 20:13
 
 June 03, 2013 20:13 | Tags: [western-north-carolina](../tag/western-north-carolina), [balloon-mapping](../tag/balloon-mapping), [asheville](../tag/asheville), [leaflet](../tag/leaflet), [bootstrap](../tag/bootstrap), [western-carolina-university](../tag/western-carolina-university), [first-time-poster](../tag/first-time-poster)
+
+----
 
 Balloon Mapping results being used in Riverside Cemetery web map.
 Check out the map at:

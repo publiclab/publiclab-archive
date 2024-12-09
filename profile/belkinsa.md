@@ -3,6 +3,8 @@ uid: 504609
 created_at: 2017-03-27 22:52:34 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/504609/medium/vydgRdWm.jpg)
+
 # belkinsa
 
 Volunteer Scientist at Grailvillie, Loveland Ohio USA specializing in stream monitoring 

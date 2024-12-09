@@ -14,6 +14,8 @@ by [liz](../profile/liz), [georgiabullen](../profile/georgiabullen)
 
 February 15, 2013 17:25 | Tags: 
 
+----
+
 <h3><a href="/wiki/air-quality-class">Class Home</a></h3>
 
 <strong>Introductions all around, new MIT guests</strong>

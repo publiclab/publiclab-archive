@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/042/805/original/Screen_Shot_2021-02-25_at_10.07.30_AM.png)
+
 # City of New York's first-ever "Environmental Justice for All" report
 
 by [liz](../profile/liz) February 25, 2021 15:48
 
 February 25, 2021 15:48 | Tags: [new-york-city](../tag/new-york-city), [press-release](../tag/press-release), [environmental-justice](../tag/environmental-justice), [public-comment](../tag/public-comment), [lat:35](../tag/lat:35), [zoom:13](../tag/zoom:13), [lon:-78.99](../tag/lon:-78.99)
+
+----
 
 Press Release: 
 New York City Mayor Bill de Blasio, in partnership with the NYC Environmental Justice Advisory Board (which is chaired by WE ACT's Peggy Shepard), has launched the community engagement process for the Environmental Justice For All report, an unprecedented comprehensive study of environmental justice issues that will lead to the development of a citywide Environmental Justice Plan. The engagement effort will prioritize the low-income communities and communities of color that have borne the brunt of environmental degradation, the climate crisis, and America's fossil fuel economy.

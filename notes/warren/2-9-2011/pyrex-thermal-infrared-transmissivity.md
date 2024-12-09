@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/Pyrex.gif)
+
 # Pyrex thermal infrared transmissivity
 
 by [warren](../profile/warren) February 09, 2011 20:58
 
 February 09, 2011 20:58 | Tags: [thermal-photography](../tag/thermal-photography), [thermal-flashlight](../tag/thermal-flashlight), [pyrex](../tag/pyrex), [lenses](../tag/lenses)
+
+----
 
 Here's a $55 pyrex lens that you can measure temperature through with a thermal IR sensor:
 

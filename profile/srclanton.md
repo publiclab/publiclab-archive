@@ -3,6 +3,8 @@ uid: 452916
 created_at: 2015-09-29 19:30:35 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/e845da232ef07bf35c7d990195b5b932)
+
 # srclanton
 
 UNCC Environmental Studies Student

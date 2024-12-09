@@ -8,11 +8,15 @@ uid: 58398
 
 ---
 
+![](https://publiclab.org/sites/default/files/enhanced_IR_image.jpg)
+
 # NIR image enhancement (&thinking out loud)
 
 by [ttaylor](../profile/ttaylor) April 21, 2013 21:00
 
 April 21, 2013 21:00 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [image-interpretation](../tag/image-interpretation), [spectral-imaging](../tag/spectral-imaging), [first-time-poster](../tag/first-time-poster)
+
+----
 
 Hi All, newbie here. In another context I've been thinking about what the color channels for NIR filtered consumer-grade color cameras mean. Someone directed me to the PublicLaboratory <a href="http://publiclaboratory.org/place/new-york-city">NYC site</a>, and I've started playing around with ir image at <a href="http://publiclaboratory.org/notes/liz/8-3-2011/infrared-balloon-image-reveals-gowanus-plume">Liz Barry's 8-3-2011 note</a>, from which I ripped the <a href="http://mapmill.org/sites/2011-7-31-brooklyn-gowanus-vis-b/IMG_2090.JPG">color image</a> and <a href="http://mapmill.org/sites/2011-7-31-brooklyn-gowanus-ir/IMG_2039.JPG">nir image</a>.  
 

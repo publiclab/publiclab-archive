@@ -14,6 +14,8 @@ by [ephemeralwaves](../profile/ephemeralwaves)
 
 March 08, 2019 00:50 | Tags: [location:blurred](../tag/location:blurred), [lat:24](../tag/lat:24), [zoom:6](../tag/zoom:6), [lon:89](../tag/lon:89), [place:kuwait-repair-hawally-hawally-block-6-street-321-kuwait](../tag/place:kuwait-repair-hawally-hawally-block-6-street-321-kuwait)
 
+----
+
 The purpose of the blog is to capture the “who” in Public Lab. It is a space for people to share out! Beyond the research, beyond the discussion lists... Who is here and why?
 
 Start a post by clicking here: <br />

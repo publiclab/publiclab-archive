@@ -14,6 +14,8 @@ by [warren](../profile/warren), [rjstatic](../profile/rjstatic), [sara](../profi
 
 March 06, 2012 00:56 | Tags: [balloon-mapping](../tag/balloon-mapping), [somerville-massachusetts](../tag/somerville-massachusetts)
 
+----
+
 <a href="http://g.co/maps/ntvzq" title="Hodgkins Park, Somerville by publiclaboratory, on Flickr"><img src="https://farm8.staticflickr.com/7204/7006017349_739aea05e4.jpg" width="500" height="374" alt="Hodgkins Park, Somerville"></a>
 
 **Planning Page for March Mapping Madness Event in the Boston area**

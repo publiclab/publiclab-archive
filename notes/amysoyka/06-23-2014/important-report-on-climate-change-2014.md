@@ -14,6 +14,8 @@ by [amysoyka](../profile/amysoyka) June 23, 2014 12:55
 
 June 23, 2014 12:55 | Tags: [weather](../tag/weather), [usa-government](../tag/usa-government), [climate-change](../tag/climate-change), [climate](../tag/climate), [global](../tag/global), [global-climate](../tag/global-climate), [global-climate-change](../tag/global-climate-change)
 
+----
+
 Important report on climate change from the USA NCA Global Change Dept:
 Read more here:
 http://nca2014.globalchange.gov/

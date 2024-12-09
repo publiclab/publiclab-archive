@@ -14,6 +14,8 @@ by [jacktemp](../profile/jacktemp) October 06, 2014 02:26
 
 October 06, 2014 02:26 | Tags: [sensor-journalism](../tag/sensor-journalism)
 
+----
+
 Jackie Tempera
 Reflection
 

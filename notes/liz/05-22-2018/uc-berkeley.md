@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/025/010/original/cerch_map_w_cosecha_1200.jpg)
+
 # UC Berkeley research on pesticide exposure in youth
 
 by [liz](../profile/liz) May 22, 2018 14:08
 
 May 22, 2018 14:08 | Tags: [california](../tag/california), [youth](../tag/youth), [pesticides](../tag/pesticides), [children](../tag/children), [berkeley](../tag/berkeley), [environmental-health](../tag/environmental-health), [pesticide-exposure](../tag/pesticide-exposure), [families](../tag/families), [longitudinal-study](../tag/longitudinal-study)
+
+----
 
 I just met Lisa Rico, a health educator at Natividad Medical Foundation who also works for the [CHAMACOS][1] study conducted through UC Berkley's School of Public Health. She introduced me to the many longterm research projects that the UCBerkeley's CERCH group (**https://cerch.berkeley.edu/research-programs**) is supporting on pesticide exposure. Here's the overall description of the group:
 

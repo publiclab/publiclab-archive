@@ -8,11 +8,15 @@ uid: 461120
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/015/260/original/PIC_0138.JPG)
+
 # $200.00 laser Vs $18.00 laser
 
 by [dhaffnersr](../profile/dhaffnersr) March 31, 2016 12:22
 
 March 31, 2016 12:22 | Tags: 
+
+----
 
 I wanted to know if there really was a difference between an expensive green laser and a very cheap one, so here are the results of those tests:
 

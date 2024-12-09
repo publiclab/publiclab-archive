@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/022/520/original/PB211770_copy.jpg)
+
 # Draft: Find the concentration of a liquid with a DIY spectrometer
 
 by [warren](../profile/warren) November 21, 2017 23:12
 
 November 21, 2017 23:12 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [beers-law](../tag/beers-law), [turbidity](../tag/turbidity), [reagents](../tag/reagents), [seeks:replications](../tag/seeks:replications), [activity:foldable-spec](../tag/activity:foldable-spec), [foldable-spec](../tag/foldable-spec), [activity:water-quality](../tag/activity:water-quality), [activity:papercraft-spec](../tag/activity:papercraft-spec)
+
+----
 
 If you have a solution of unknown concentration -- for example, a water sample that's greenish or brownish -- you can compare it to two samples whose concentration you **do** know to calculate the unknown one. This lets you measure not what something is, but how much of it there is in a sample.
 
@@ -35,7 +39,7 @@ All we know from looking at the center it is that it's less concentrated than th
 
 To do this test, you'll need a [spectrometer](/wiki/spectrometry), and to know how to save data with it, for example on Spectral Workbench. The following resources can help you get ready -- then come back here to complete this activity:
 
-\[activities:foldable-spec\]
+\[foldable-spec\](../../tag/activity:foldable-spec\)
 
 ---------
 

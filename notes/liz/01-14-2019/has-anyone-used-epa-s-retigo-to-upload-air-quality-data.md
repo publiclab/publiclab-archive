@@ -14,6 +14,8 @@ by [liz](../profile/liz) January 14, 2019 20:31
 
 January 14, 2019 20:31 | Tags: [air-quality](../tag/air-quality), [question:air-quality](../tag/question:air-quality), [question:question](../tag/question:question), [question:epa](../tag/question:epa)
 
+----
+
 Back in 2016, there was an [Open Hour][1] about RETIGO, the EPA's "REAL-TIME GEOSPATIAL DATA VIEWER" (RETIGO) data platform -- has anyone tried viewing their data through this, or uploading their data to the EPA's repo? 
 https://www.epa.gov/hesc/real-time-geospatial-data-viewer-retigo
 

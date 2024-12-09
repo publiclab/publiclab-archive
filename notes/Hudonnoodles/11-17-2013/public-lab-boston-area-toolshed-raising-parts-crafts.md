@@ -14,6 +14,8 @@ by [Hudonnoodles](../profile/Hudonnoodles) November 17, 2013 18:48
 
 November 17, 2013 18:48 | Tags: [somerville-massachusetts](../tag/somerville-massachusetts), [boston](../tag/boston), [meetup](../tag/meetup), [event](../tag/event), [water-quality](../tag/water-quality)
 
+----
+
 ###Event details
 
 When: Sunday, November 24, 12PM-6PM

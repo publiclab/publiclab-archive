@@ -8,11 +8,15 @@ uid: 725565
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/042/409/original/Screenshot_2021-01-14_at_18.05.39.png)
+
 # Democratizing Science Using Code
 
 by [ruthnwaiganjo](../profile/ruthnwaiganjo) January 14, 2021 15:31
 
 January 14, 2021 15:31 | Tags: [air-quality](../tag/air-quality), [coding](../tag/coding), [blog-submission](../tag/blog-submission), [dashboard](../tag/dashboard), [community-science](../tag/community-science), [outreachy](../tag/outreachy)
+
+----
 
 Six weeks ago, I officially joined the Public Lab Community as an intern. My primary task has been redesigning the dashboard. I wanted to work with Public Lab because of the community and my love for science. The community is always welcoming and learning from each other. It is no surprise that the product provided by Public Lab is used by a community that encourages openness and learning from one another. 
 

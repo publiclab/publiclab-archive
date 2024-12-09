@@ -8,11 +8,15 @@ uid: 120
 
 ---
 
+![](https://publiclab.org/sites/default/files/bridle-final_0.jpg)
+
 # Diamond kite bridles
 
 by [lfamular](../profile/lfamular) August 15, 2012 22:16
 
 August 15, 2012 22:16 | Tags: [kite-mapping](../tag/kite-mapping), [kite](../tag/kite), [diy-kite](../tag/diy-kite), [bridle](../tag/bridle), [diamond](../tag/diamond), [help](../tag/help), [diy-kites](../tag/diy-kites), [kite-making](../tag/kite-making)
+
+----
 
 The kite bridle is the arrangement of strings that go between a kite and the flying line. The bridle holds the kite at a certain angle to the flying line. It affects how the kite flies, and whether it flies at all. The point where the bridle attaches to the flying line is the tow point.
 

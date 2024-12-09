@@ -8,11 +8,15 @@ uid: 46742
 
 ---
 
+![](https://publiclab.org/sites/default/files/IMG_7847.JPG)
+
 # Merrimack River Entrance Jetty Repair
 
 by [wward1400](../profile/wward1400) April 10, 2013 03:27
 
 April 10, 2013 03:27 | Tags: [balloon-mapping](../tag/balloon-mapping), [boston](../tag/boston), [boston-plots](../tag/boston-plots), [north-shore-mapping](../tag/north-shore-mapping), [plum-island-mass](../tag/plum-island-mass), [plum-island](../tag/plum-island), [first-time-poster](../tag/first-time-poster)
+
+----
 
 Mapping repairs to the jetty and changes to the beach located near the Merrimack River entrance.  
 

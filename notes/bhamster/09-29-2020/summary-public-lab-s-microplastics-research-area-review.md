@@ -8,11 +8,15 @@ uid: 664477
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/041/016/original/Microplastics_5Gyres.jpg)
+
 # Summary: Public Lab’s microplastics research area review
 
 by [bhamster](../profile/bhamster) September 29, 2020 22:16
 
 September 29, 2020 22:16 | Tags: [research](../tag/research), [blog](../tag/blog), [reviews](../tag/reviews), [micro-plastics](../tag/micro-plastics), [microplastics](../tag/microplastics), [plastic](../tag/plastic), [research-area-review](../tag/research-area-review), [plastic-pollution](../tag/plastic-pollution)
+
+----
 
 _Image: [Microplastics](https://www.flickr.com/photos/33247428@N08/21282786668), by 5Gyres, courtesy of Oregon State University. [CC BY SA](https://creativecommons.org/licenses/by-sa/2.0/)._
 

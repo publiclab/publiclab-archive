@@ -14,4 +14,6 @@ by [warren](../profile/warren) October 31, 2017 15:58
 
 October 31, 2017 15:58 | Tags: [raspberry-pi](../tag/raspberry-pi), [pi](../tag/pi), [rpi](../tag/rpi), [answered](../tag/answered), [pi-camera](../tag/pi-camera), [question:raspberry-pi](../tag/question:raspberry-pi), [question:pi-camera](../tag/question:pi-camera), [sd-card](../tag/sd-card)
 
+----
+
 This is a real barrier for lots of folks, myself included! What are some ways to make this easier?

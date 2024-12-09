@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/sites/default/files/CocoS95-20121101-2100.jpg)
+
 # The LUMCON Lawn
 
 by [cfastie](../profile/cfastie) November 14, 2012 19:20
 
 November 14, 2012 19:20 | Tags: [image-stitching](../tag/image-stitching), [louisiana](../tag/louisiana), [photoshop](../tag/photoshop), [barnraising](../tag/barnraising), [barnraising2012](../tag/barnraising2012), [lumcon](../tag/lumcon), [aligning](../tag/aligning), [gigapan](../tag/gigapan)
+
+----
 
 _Image above: LUMCON, Cocodrie, the bayou, and the marsh beyond from the Canon S95 that Mathew and I flew with the Fled at sunset on Thursday, November 1\._
 

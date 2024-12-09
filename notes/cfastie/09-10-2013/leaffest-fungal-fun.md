@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/001/467/original/HydnumSituNDVI.JPG)
+
 # LEAFFEST Fungal Fun
 
 by [cfastie](../profile/cfastie) September 10, 2013 01:14
 
 September 10, 2013 01:14 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [vermont](../tag/vermont), [leaffest](../tag/leaffest), [infragram](../tag/infragram), [infrablue](../tag/infrablue), [leaffest2013](../tag/leaffest2013), [response:9302](../tag/response:9302), [response:9305](../tag/response:9305)
+
+----
 
 *Image above: Infragram NDVI image of two hedgehog mushrooms before they met their fate.*
 

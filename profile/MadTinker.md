@@ -3,6 +3,8 @@ uid: 461206
 created_at: 2016-01-07 15:25:12 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/461206/medium/Blacksmith.png)
+
 # MadTinker
 
 BS in Mechanical Engineering, MS in Aero/Astro Engineering, PhD in Applied Math. Retired tenured Associate Professor of Aerospace and Systems Engineering and retired Distinguished Member of the Technical Staff at Sandia National Labs. Background includes, for example, forensic analysis of IED hardware and events, PI on the Mars Curiosity Rover (launch phase and power source), with current professional research focused on cyber security for high consequence digital systems. Professional artist blacksmith ( IronRain.us )  which supports his growing involvement in ecological risk characterization of mine waste.  Specifically interested in sensors, etc associated with monitoring water quality downstream from mining runoff, e.g. heavy metals concentration.  

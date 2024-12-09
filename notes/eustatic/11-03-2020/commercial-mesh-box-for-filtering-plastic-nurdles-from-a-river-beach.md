@@ -8,11 +8,15 @@ uid: 379
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/041/471/original/boaxel-mesh-basket-white__0798121_PE767129_S5.webp)
+
 # commercial mesh box for filtering plastic nurdles from a river beach
 
 by [eustatic](../profile/eustatic) November 03, 2020 01:01
 
 November 03, 2020 01:01 | Tags: [chalmette](../tag/chalmette), [microplastics](../tag/microplastics), [plastic](../tag/plastic), [zoom:14](../tag/zoom:14), [nurdlepatrol](../tag/nurdlepatrol), [nurdle](../tag/nurdle), [lat:29.93887](../tag/lat:29.93887), [lon:-89.99343](../tag/lon:-89.99343), [filter-microplastics-from-sand](../tag/filter-microplastics-from-sand), [activity:filter-microplastics-from-sand](../tag/activity:filter-microplastics-from-sand)
+
+----
 
 Serena from GNO Pellet Clean Up developed a method for filtering hundreds of thousands of pellets from river sand and debris.
 

@@ -8,11 +8,15 @@ uid: 43651
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/002/530/original/wireless1.png)
+
 # First wireless transmission, mchck to mchck!
 
 by [donblair](../profile/donblair) January 14, 2014 04:40
 
 January 14, 2014 04:40 | Tags: [temperature](../tag/temperature), [wireless](../tag/wireless), [pvos](../tag/pvos), [water-quality](../tag/water-quality), [water-monitoring](../tag/water-monitoring), [water-quality-sensor](../tag/water-quality-sensor), [ioby](../tag/ioby), [mystic-river](../tag/mystic-river), [mchck](../tag/mchck)
+
+----
 
 ###What I want to do
 

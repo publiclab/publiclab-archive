@@ -8,11 +8,15 @@ uid: 508250
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/020/586/original/IMG_0098.JPG)
+
 # Analyzing Thacher Insulation: an Aerial Thermal Mapping Project
 
 by [NIKIBOPOLOUS](../profile/NIKIBOPOLOUS) May 30, 2017 16:23
 
 May 30, 2017 16:23 | Tags: [balloon-mapping](../tag/balloon-mapping), [thermal-photography](../tag/thermal-photography), [thermal-imaging](../tag/thermal-imaging), [thermal](../tag/thermal), [heat](../tag/heat), [hidden:response](../tag/hidden:response), [activity:aerial-photography](../tag/activity:aerial-photography), [activity:balloon-mapping](../tag/activity:balloon-mapping), [school](../tag/school), [response:14179](../tag/response:14179), [pidduck](../tag/pidduck), [meyer](../tag/meyer), [thacher](../tag/thacher), [activity:thermal-photography](../tag/activity:thermal-photography)
+
+----
 
 Analyzing Thacher Insulation: an Aerial Thermal Mapping Project
 

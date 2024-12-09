@@ -8,11 +8,15 @@ uid: 543056
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/027/368/original/ida.png)
+
 # The value of personal experiences
 
 by [dbsnp](../profile/dbsnp) October 30, 2018 05:28
 
 October 30, 2018 05:28 | Tags: [central-america](../tag/central-america), [barnraiser](../tag/barnraiser), [storytelling](../tag/storytelling), [disaster-response](../tag/disaster-response), [location:blurred](../tag/location:blurred), [lon:-88](../tag/lon:-88), [crisis-convening](../tag/crisis-convening), [barnraising-newark-2018](../tag/barnraising-newark-2018), [el-salvador](../tag/el-salvador), [lat:13](../tag/lat:13)
+
+----
 
 One of the main themes of the Barnraiser in Newark during last summer
 was related to the experiences that we all go through when we are 

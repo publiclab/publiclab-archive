@@ -3,6 +3,8 @@ uid: 4
 created_at: 2013-04-08 01:46:32 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/4/medium/6850229333_c0aa82d6de_o.jpg)
+
 # mathew
 
 Balloon and kite nut. Public Lab co-founder emeritus.

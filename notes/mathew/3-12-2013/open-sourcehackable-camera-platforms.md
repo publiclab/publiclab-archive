@@ -14,6 +14,8 @@ by [mathew](../profile/mathew) March 13, 2013 02:10
 
 March 13, 2013 02:10 | Tags: [infrared](../tag/infrared), [ircam](../tag/ircam), [infrared-camera](../tag/infrared-camera), [cameras](../tag/cameras)
 
+----
+
 ###Stand alone###
 <b>kind of affordable</b>
 [Hackacam $150](http://www.hackacam.com/)

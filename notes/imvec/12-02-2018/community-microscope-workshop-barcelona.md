@@ -8,11 +8,15 @@ uid: 495038
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/028/375/original/Screenshot_from_2018-12-14_14-21-46.png)
+
 # Community microscope workshop Barcelona
 
 by [imvec](../profile/imvec) December 02, 2018 15:46
 
 December 02, 2018 15:46 | Tags: [event](../tag/event), [event:rsvp](../tag/event:rsvp), [lon:2.1](../tag/lon:2.1), [location:blurred](../tag/location:blurred), [spanish](../tag/spanish), [community-microscope](../tag/community-microscope), [date:01-17-2019](../tag/date:01-17-2019), [lat:41.3](../tag/lat:41.3), [microscope-workshop](../tag/microscope-workshop)
+
+----
 
 ## When, where, how
 

@@ -14,6 +14,8 @@ by [liz](../profile/liz), [mollydanielsson](../profile/mollydanielsson)
 
 January 16, 2013 19:35 | Tags: [website](../tag/website), [plots2](../tag/plots2), [wintercamp](../tag/wintercamp), [newcomers](../tag/newcomers), [onboarding](../tag/onboarding), [out-of-date](../tag/out-of-date)
 
+----
+
 <a href="https://www.flickr.com/photos/recordandremember/8371502643/" title="IMG_3962 by Shannon Dosemagen, on Flickr"><img src="https://farm9.staticflickr.com/8225/8371502643_9c840c03af.jpg" width="375" height="500" alt="IMG_3962"></a>
 
 The nonprofit Public Laboratory was explicitly created to develop tools that any one can use to monitor environmental issues . . . 

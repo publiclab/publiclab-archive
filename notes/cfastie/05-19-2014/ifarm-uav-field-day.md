@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/004/293/original/IMG_5865.JPG)
+
 # iFarm UAV Field Day
 
 by [cfastie](../profile/cfastie) May 19, 2014 18:00
 
 May 19, 2014 18:00 | Tags: [remote-sensing](../tag/remote-sensing), [boston](../tag/boston), [new-hampshire](../tag/new-hampshire), [farmhack](../tag/farmhack), [uav](../tag/uav), [agriculture](../tag/agriculture), [farm](../tag/farm), [event](../tag/event), [garden](../tag/garden), [ifarm](../tag/ifarm), [crops](../tag/crops), [northeast](../tag/northeast), [uas](../tag/uas), [ifarm2014](../tag/ifarm2014), [aerial-imaging](../tag/aerial-imaging), [sensor-networks](../tag/sensor-networks), [internet-of-things](../tag/internet-of-things), [response:10461](../tag/response:10461)
+
+----
 
 *Above: Matt Koestner of UAV America unfolding the DJI S1000 (Photo: Ned Horning).*
 

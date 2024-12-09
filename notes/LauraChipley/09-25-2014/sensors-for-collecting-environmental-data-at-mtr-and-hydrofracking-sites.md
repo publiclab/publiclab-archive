@@ -8,11 +8,15 @@ uid: 428957
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/007/015/original/runoff.jpg)
+
 # Sensors for collecting environmental data at MTR and hydrofracking sites?
 
 by [LauraChipley](../profile/LauraChipley) September 25, 2014 17:34
 
 September 25, 2014 17:34 | Tags: [west-virginia](../tag/west-virginia), [fracking](../tag/fracking), [amp](../tag/amp), [mtr](../tag/mtr), [hydrofracking](../tag/hydrofracking), [appalachian-mountaintop-patrol](../tag/appalachian-mountaintop-patrol), [first-time-poster](../tag/first-time-poster)
+
+----
 
 I'm working to develop a new project called Appalachian Mountaintop Patrol (AMP).
 

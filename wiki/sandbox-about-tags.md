@@ -8,11 +8,15 @@ uid: 664477
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/046/739/original/Tags_visualization_2.png)
+
 # sandbox-about-tags
 
 by [bhamster](../profile/bhamster)
 
 June 09, 2022 22:14 | Tags: 
+
+----
 
 _This sandbox page is where we prototype information about tags. See the main "About Tags" page here! https://publiclab.org/wiki/about-tags_
 

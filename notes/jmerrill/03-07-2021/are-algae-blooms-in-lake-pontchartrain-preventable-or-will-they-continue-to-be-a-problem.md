@@ -14,4 +14,6 @@ by [jmerrill](../profile/jmerrill) March 07, 2021 16:47
 
 March 07, 2021 16:47 | Tags: [algae](../tag/algae), [question:general](../tag/question:general), [general](../tag/general), [first-time-poster](../tag/first-time-poster), [blooms](../tag/blooms)
 
+----
+
 Lake Pontchartrain is such a beautiful lake and would be nice to see beaches along the coast or areas where people can swim.  It seems always to be plagued by algae blooms and other pollution.  What local efforts are being made to keep our lake usable and beautiful?

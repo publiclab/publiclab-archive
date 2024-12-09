@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/031/678/original/Screen_Shot_2019-04-22_at_1.05.12_PM.png)
+
 # User interface projects update and DIAL OSC project recap
 
 by [warren](../profile/warren) April 22, 2019 17:19
 
 April 22, 2019 17:19 | Tags: [website](../tag/website), [design](../tag/design), [developers](../tag/developers), [code](../tag/code), [style-guide](../tag/style-guide), [ux](../tag/ux), [ui](../tag/ui), [user-interface](../tag/user-interface), [user-experience](../tag/user-experience), [pin:ui](../tag/pin:ui)
+
+----
 
 Over the past eight months, we've been developing a range of UI design projects to tackle better UI design on [PublicLab.org](http://PublicLab.org) at a number of levels. We've developed a community-facing public workflow for user interface design and development, based around our page at [PublicLab.org/ui](http://PublicLab.org/ui). In collaboration with @edie_blues, @kelv, @sylvan, a number of different fellows in the Rails Girls and Google Summer of Code programs, a set of design challenges was identified, broken up, and solved, providing a template workflow for larger design issues such as those in this project. Support from the [DIAL Open Source Center](https://www.osc.dial.community/) has made possible a huge amount of UI work to progress across many facets of the Public Lab infrastructure.
 

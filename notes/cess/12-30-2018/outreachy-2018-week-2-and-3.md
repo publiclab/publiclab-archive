@@ -8,11 +8,15 @@ uid: 525958
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/028/550/original/w1.jpg)
+
 # Outreachy 2018 Week 2 and 3
 
 by [cess](../profile/cess) December 30, 2018 12:21
 
 December 30, 2018 12:21 | Tags: [blog](../tag/blog), [outreachy](../tag/outreachy), [outreachy-2018](../tag/outreachy-2018)
+
+----
 
 ##Updates
 The last two weeks have been quite good. I have made some progress. 

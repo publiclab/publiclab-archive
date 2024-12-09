@@ -8,11 +8,15 @@ uid: 4
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/009/511/original/IMG_20150331_133219.jpg)
+
 # making PDFs from wiki pages
 
 by [mathew](../profile/mathew) March 31, 2015 20:51
 
 March 31, 2015 20:51 | Tags: [process](../tag/process), [curriculum](../tag/curriculum), [plots2](../tag/plots2), [how-to](../tag/how-to), [publiclab.org](../tag/publiclab.org), [printing](../tag/printing)
+
+----
 
 Sometimes you just need information paper.  In my case, I'm formatting wiki pages and research notes for a test of our [infrared curriculum](/wiki/lesson-1-wetlands-water-oil).
 

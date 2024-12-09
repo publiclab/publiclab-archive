@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/026/534/original/image.png)
+
 # Mapping Curriculum Introduction
 
 by [gonzoearth](../profile/gonzoearth), [warren](../profile/warren)
 
 February 08, 2011 18:25 | Tags: 
+
+----
 
 *As part of the [Grassroots Mapping Curriculum](/wiki/mapping-curriculum) series.*
 

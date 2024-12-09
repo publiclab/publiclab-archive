@@ -8,11 +8,15 @@ uid: 495038
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/039/240/original/itsa.jpg)
+
 # JAM#4: Instituto de Tecnología SociAmbiental
 
 by [imvec](../profile/imvec) April 29, 2020 22:38
 
 April 29, 2020 22:38 | Tags: [lang:es](../tag/lang:es), [argentina](../tag/argentina), [spanish](../tag/spanish), [zoom:14](../tag/zoom:14), [cosquin](../tag/cosquin), [lat:41.408488](../tag/lat:41.408488), [lon:2.199325](../tag/lon:2.199325), [jam](../tag/jam), [charla](../tag/charla), [epidemiologia](../tag/epidemiologia), [colaborativa](../tag/colaborativa), [autodefensa-vecinal](../tag/autodefensa-vecinal)
+
+----
 
 <iframe width="800" height="462" src="https://www.youtube.com/embed/Uq4O7r5WDJw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

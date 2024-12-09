@@ -14,6 +14,8 @@ by [Josep](../profile/Josep) November 25, 2019 13:29
 
 November 25, 2019 13:29 | Tags: [new](../tag/new), [draft](../tag/draft), [activity:new](../tag/activity:new), [first-time-poster](../tag/first-time-poster)
 
+----
+
 _This is a minimal template for new activities! If you're drafting a new activity ([http://publiclab.org/wiki/activities](http://publiclab.org/wiki/activities "http://publiclab.org/wiki/activities")), remove this line._
 
 ## Purpose

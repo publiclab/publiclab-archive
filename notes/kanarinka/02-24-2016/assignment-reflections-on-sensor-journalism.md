@@ -8,10 +8,14 @@ uid: 994
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/014/574/original/assignment.png)
+
 # Assignment: reflections on sensor journalism
 
 by [kanarinka](../profile/kanarinka) February 24, 2016 19:47
 
 February 24, 2016 19:47 | Tags: [sensor-journalism](../tag/sensor-journalism), [seeks:responses](../tag/seeks:responses)
+
+----
 
 A collection of responses on the topic of sensor journalism. 

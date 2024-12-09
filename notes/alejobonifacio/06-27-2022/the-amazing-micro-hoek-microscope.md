@@ -8,11 +8,15 @@ uid: 639376
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/046/891/original/WhatsApp_Image_2022-06-29_at_12.12.08_PM.jpeg)
+
 # The amazing Micro-Hoek microscope
 
 by [alejobonifacio](../profile/alejobonifacio) June 27, 2022 23:19
 
 June 27, 2022 23:19 | Tags: [water-quality](../tag/water-quality), [the](../tag/the), [microscope](../tag/microscope), [microscopy](../tag/microscopy), [activity:microscope](../tag/activity:microscope), [lat:-30](../tag/lat:-30), [zoom:8](../tag/zoom:8), [lon:-64](../tag/lon:-64), [research-curation-fellows](../tag/research-curation-fellows), [conclusions](../tag/conclusions), [intro](../tag/intro)
+
+----
 
 _Cover image courtesy of Mariano Rodríguez Malebrán, one of the creators of this fantastic microscope_
 

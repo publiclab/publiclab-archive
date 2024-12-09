@@ -3,6 +3,8 @@ uid: 420760
 created_at: 2014-02-12 01:33:32 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/9fe748fa72d4c87b4672067ae0d3266d)
+
 # marlokeno
 
 I found out about Public Lab while trying to get public & regulators' attention to a train that leaked ~30,000 gallons of oil along the Upper Mississippi River National Wildlife Refuge in February of 2014, winter of the polar vortex. The  spill stretched at least 30 miles, along the Refuge's Upper Pools 4 & 5. Despite the 50 photos I took, and documentation of the  USFWS, nothing happened.

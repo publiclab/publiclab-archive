@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/nrg-merc.png)
+
 # Progress on NRG compositing from MapKnitter
 
 by [warren](../profile/warren) January 04, 2012 01:21
 
 January 04, 2012 01:21 | Tags: [saugus](../tag/saugus), [landfill](../tag/landfill), [waste](../tag/waste)
+
+----
 
 Work is progressing on a web-based multispectral compositing feature for [MapKnitter.org](https://mapknitter.org).
 

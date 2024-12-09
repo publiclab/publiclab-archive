@@ -8,10 +8,14 @@ uid: 517047
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/022/087/original/IMG_0225.JPG)
+
 # 50/50 Hydrogen Helium light Spectroscopy
 
 by [PDiddy](../profile/PDiddy) October 27, 2017 02:33
 
 October 27, 2017 02:33 | Tags: [spectrometer](../tag/spectrometer), [hydrogen](../tag/hydrogen), [spectrometry](../tag/spectrometry), [helium](../tag/helium), [hidden:response](../tag/hidden:response), [foldable-spec](../tag/foldable-spec), [replication:15121](../tag/replication:15121)
+
+----
 
 Viewed a 50/50 Hydrogen Helium light through a simple spectrometer to find this spectrum.

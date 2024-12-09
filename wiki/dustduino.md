@@ -8,11 +8,15 @@ uid: 235174
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/003/854/original/dustduino_proto_2_desk.jpg)
+
 # DustDuino
 
 by [bhamster](../profile/bhamster), [warren](../profile/warren), [willie](../profile/willie), [Becky](../profile/Becky)
 
 April 24, 2014 18:47 | Tags: [indoor-air-quality-mapping](../tag/indoor-air-quality-mapping), [particulate-sensing](../tag/particulate-sensing), [agriculture](../tag/agriculture), [air-quality](../tag/air-quality), [internet](../tag/internet), [transportation](../tag/transportation), [mining](../tag/mining), [fracking](../tag/fracking), [tool](../tag/tool), [datalogger](../tag/datalogger), [dustduino](../tag/dustduino), [prompt:dustduino](../tag/prompt:dustduino), [shinyei](../tag/shinyei), [method](../tag/method), [oil-and-gas](../tag/oil-and-gas), [air-sensors](../tag/air-sensors), [particle-sensor](../tag/particle-sensor)
+
+----
 
 ## What is it?
 
@@ -22,7 +26,7 @@ Also see the [Data Logging page](/w/data-logging) for more on setting up and usi
 
 ### Questions
 
-[questions:dustduino]
+[dustduino](../../tag/question:dustduino)
 
 ****
 
@@ -44,7 +48,7 @@ There are still some unknowns with regard to the sensor - for example, whether i
 
 ## Activities
 
-[activities:dustduino]
+[dustduino](../../tag/activity:dustduino)
 
 ****
 
@@ -55,7 +59,7 @@ There are still some unknowns with regard to the sensor - for example, whether i
 
 ## Research Notes
 
-[notes:dustduino]
+[dustduino](../../tag/dustduino)
 
 ## DustDuino Sketches
 

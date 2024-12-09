@@ -8,11 +8,15 @@ uid: 994
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/004/569/original/neighborhoodcreek2014-1.jpg)
+
 # The Neighborhood Creek Expedition
 
 by [kanarinka](../profile/kanarinka) June 09, 2014 11:48
 
 June 09, 2014 11:48 | Tags: [boston](../tag/boston), [water-sensing](../tag/water-sensing), [massachusetts](../tag/massachusetts), [water-quality](../tag/water-quality), [water](../tag/water), [northeast](../tag/northeast), [waltham](../tag/waltham)
+
+----
 
 An unnamed creek winds its way through our neighborhood in Waltham, MA. It gets channeled underground at certain points and above ground at others. There is lots of flora and fauna along the way, as well as drainage issues for the properties nearby. A couple of us decided to organize an event to walk the way the creek flows, learn about it as a habitat, and have snacks together. Susan Brown, who leads local tours for the Appalachian Mountain Club and lives in Waltham, was our guide and helped put together a creek scavenger hunt for us to see if the creek's habitat was healthy. The Piety Corner Social Club, our local neighborhood social center, helped us organize the event.
 

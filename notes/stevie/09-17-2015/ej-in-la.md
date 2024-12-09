@@ -8,11 +8,15 @@ uid: 422561
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/011/591/original/Baton_Rouge.png)
+
 # EJ in LA
 
 by [stevie](../profile/stevie) September 17, 2015 20:21
 
 September 17, 2015 20:21 | Tags: [gulf-coast](../tag/gulf-coast), [louisiana](../tag/louisiana), [blog](../tag/blog), [gulfcoast](../tag/gulfcoast), [environmental-justice](../tag/environmental-justice)
+
+----
 
 Lead image: _EJScreen Snapshot of Baton Rouge, LA under the Environmental Justice Indicator: Number of facilities within 5k with potential chemical accident management plans._
 

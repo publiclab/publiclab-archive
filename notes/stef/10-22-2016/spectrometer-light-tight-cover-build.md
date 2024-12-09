@@ -8,11 +8,15 @@ uid: 482758
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/018/538/original/IMGP1626.JPG)
+
 # Spectrometer Light Tight Cover Build
 
 by [stef](../profile/stef) October 22, 2016 15:20
 
 October 22, 2016 15:20 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [modification](../tag/modification), [time:30m](../tag/time:30m), [difficulty:easy](../tag/difficulty:easy), [upgrade:spectrometry](../tag/upgrade:spectrometry), [upgrade:dssk](../tag/upgrade:dssk), [category:build](../tag/category:build), [cover](../tag/cover)
+
+----
 
 ###What I want to do
 Having removed the IR filter from my spec camera, the sensitivity increased dramatically where before the modification the spectrometer worked with the existing cover. In the new configuration the spectrometer was very sensitive to light leakage through the cover. This will work with the @stoft spec upgrades.

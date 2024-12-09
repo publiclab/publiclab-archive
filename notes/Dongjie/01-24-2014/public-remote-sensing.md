@@ -8,11 +8,15 @@ uid: 335902
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/002/642/original/%3F%3F%3F%3F%3F%3F%3F%3F-%3F%3F%3F.jpg)
+
 # Public remote sensing
 
 by [Dongjie](../profile/Dongjie) January 24, 2014 11:44
 
 January 24, 2014 11:44 | Tags: [spectrometer](../tag/spectrometer), [tool](../tag/tool)
+
+----
 
 ####What I want to do
 Let the remote sensing technology to be used in our daily life.

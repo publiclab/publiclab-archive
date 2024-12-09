@@ -8,11 +8,15 @@ uid: 542953
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/025/836/original/onelogger_0426s.jpg)
+
 # HOBO 4-Channel Logger with Larger Battery
 
 by [norbert](../profile/norbert) July 23, 2018 04:51
 
 July 23, 2018 04:51 | Tags: [kits](../tag/kits), [datalogger](../tag/datalogger), [hardware](../tag/hardware)
+
+----
 
 Hobo model U12-008 is a reliable data logger for outdoor environments that can be connected to up to four temperature sensors. It only has the following disadvantage: a short battery life. The power supply is a puny CR-2032 coin battery (220mAh), which lasts around two years (with 1 hour logging intervals), though the manufacturer recommends replacing it every year. When the logger is in a remote field location, that is an inconveniently short time. Moreover, to change the battery one has to open the logger, work with tiny screws and, ideally, re-lubricate the rubber O-ring, which, depending on the weather, can be a hassle. I exchanged the battery holder of the U12-008 to prolong the battery life.
 

@@ -8,11 +8,15 @@ uid: 443410
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/011/287/original/dockTest8.25.15.jpg)
+
 # Dock Test Data!
 
 by [lperovich](../profile/lperovich) August 26, 2015 19:09
 
 August 26, 2015 19:09 | Tags: [water-quality](../tag/water-quality), [thermal-fishing-bob](../tag/thermal-fishing-bob), [thermal](../tag/thermal), [thermal-pollution](../tag/thermal-pollution), [riffle](../tag/riffle), [heat](../tag/heat), [multiple-input-thermal-fishing-bob](../tag/multiple-input-thermal-fishing-bob), [replication:689](../tag/replication:689)
+
+----
 
 Don Blair (@donblair), Joe Goldbeck and I deployed the waterproofed temperature sensors on the MIT for a few hours yesterday--check out Don's great [post](http://publiclab.org/notes/donblair/08-25-2015/dock-test) about it!
 

@@ -14,6 +14,8 @@ by [liz](../profile/liz) April 27, 2012 18:05
 
 April 27, 2012 18:05 | Tags: [balloon-mapping](../tag/balloon-mapping), [live-streaming](../tag/live-streaming)
 
+----
+
 <iframe width="480" height="386" src="http://www.ustream.tv/embed/recorded/22119763" scrolling="no" frameborder="0" style="border: 0px none transparent;">    </iframe>
 <br /><a href="http://www.ustream.tv/" style="padding: 2px 0px 4px; width: 400px; background: #ffffff; display: block; color: #000000; font-weight: normal; font-size: 10px; text-decoration: underline; text-align: center;" target="_blank">Video streaming by Ustream</a>
 Apologies for the ad applied by uStream!

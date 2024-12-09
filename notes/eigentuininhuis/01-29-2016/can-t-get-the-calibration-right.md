@@ -14,6 +14,8 @@ by [eigentuininhuis](../profile/eigentuininhuis) January 29, 2016 08:24
 
 January 29, 2016 08:24 | Tags: [question:spectral-workbench](../tag/question:spectral-workbench), [first-time-poster](../tag/first-time-poster)
 
+----
+
 ###What I want to do or know
 Can't calibrate under the error <12 and i get this after calibration in the screen....
 ###Background story

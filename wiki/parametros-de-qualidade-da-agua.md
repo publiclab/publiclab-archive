@@ -14,6 +14,8 @@ by [vjpixel](../profile/vjpixel)
 
 December 04, 2015 06:20 | Tags: [water-quality-monitoring](../tag/water-quality-monitoring), [water-quality](../tag/water-quality), [list:plots-waterquality](../tag/list:plots-waterquality), [lang:pt](../tag/lang:pt), [list:publiclab-portugues](../tag/list:publiclab-portugues), [parent:water-quality](../tag/parent:water-quality)
 
+----
+
 Abaixo são descritos alguns parâmetros utilizados para monitorar qualidade da água. Se você quer mais detalhes sobre algum dos parâmetros listados abaixo, veja as referências.
 
 Para entender melhor as descrições abaixo, é importante entender que um íon é" qualquer átomo ou grupo de átomos que tem carga positiva ou negativa. (...) Íons são formados pela adição ou remoção de elétrons a, ou remoção de elétrons de, átomos ou moléculas ou outros íons; pela combinação de íons com outras partículas; ou pela ruptura de um vínculo covalente entre 2 átomos de modo que ambos os elétrons do vínculo são deixados em associação a um dos átomos da reação."[1]

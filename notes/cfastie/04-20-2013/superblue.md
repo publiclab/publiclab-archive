@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/000/087/original/crocuscam-201335372.jpg)
+
 # Superblue
 
 by [cfastie](../profile/cfastie) April 20, 2013 02:49
 
 April 20, 2013 02:49 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [nrg](../tag/nrg), [ndvi](../tag/ndvi), [vermont](../tag/vermont), [white-balance](../tag/white-balance), [infragram](../tag/infragram), [plant-health](../tag/plant-health), [superblue](../tag/superblue), [rosco](../tag/rosco), [infragram-filters](../tag/infragram-filters), [barnstar:basic](../tag/barnstar:basic)
+
+----
 
 The new infrared camera under development at Public Lab will probably make two kinds of images that reveal how much plant growth is happening in the scene. By combining information about both the infrared and normal visible light reflected from plants, the camera can produce false color infrared images like the familiar pinkish satellite images. These are called NRG because instead of the image being composed of Red, Green, and Blue (RGB) channels, those channels display Near-infrared, Red, and Green (blue is not used).  An infrared channel can also be combined with a visible channel to compute the Normalized Difference Vegetation Index (NDVI). This quantifies the difference between light that plants use for photosynthesis (red or blue) and light they don't use (infrared).  The bigger this difference, the greater proportion of the light hitting the leaves is being absorbed to power photosynthesis. 
 

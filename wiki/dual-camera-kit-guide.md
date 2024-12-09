@@ -14,6 +14,8 @@ by [cfastie](../profile/cfastie), [mathew](../profile/mathew), [warren](../profi
 
 April 23, 2012 18:14 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [infrared](../tag/infrared), [dual-camera](../tag/dual-camera), [photo-rig](../tag/photo-rig)
 
+----
+
 <a href="https://www.flickr.com/photos/jeffreywarren/7110924837/" title="Dual camera kit by jeferonix, on Flickr"><img src="https://farm8.staticflickr.com/7057/7110924837_557b834762.jpg" width="500" height="375" alt="Dual camera kit"></a>
 
 This page will host instructions on assembling and using the **infrared/visible dual camera kit** as distributed through the [Balloon Mapping Kit Kickstarter project]().

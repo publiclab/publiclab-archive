@@ -8,11 +8,15 @@ uid: 43229
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/004/281/original/raiubiq.png)
+
 # Public Laboratory on RAI TV's Ubiq
 
 by [btbonval](../profile/btbonval) May 15, 2014 23:18
 
 May 15, 2014 23:18 | Tags: [media](../tag/media), [rai](../tag/rai), [ubiq](../tag/ubiq), [tv](../tag/tv), [variety](../tag/variety), [promotional](../tag/promotional), [first-time-poster](../tag/first-time-poster)
+
+----
 
 ###What I want to do
 Demonstrate the effectiveness of Public Laboratory staff and volunteers to appear on variety television programs speaking about Public Laboratory.

@@ -8,11 +8,15 @@ uid: 304279
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/002/499/original/OSHParkPCB-3.png)
+
 # Potentiostat Notes 4:  Fabrication made easy
 
 by [JSummers](../profile/JSummers) January 08, 2014 21:03
 
 January 08, 2014 21:03 | Tags: [potentiostat](../tag/potentiostat), [response:9918](../tag/response:9918)
+
+----
 
 ###What I want to do
 In my last Potentiostat note (found [here](http://publiclab.org/notes/JSummers/12-30-2013/potentiostat-notes-3-wheestat-5-1-fabrication)), I droned on for three paragraphs about how to fabricate a printed circuit board.  Here is the easy way.

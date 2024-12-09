@@ -14,6 +14,8 @@ by [stevie](../profile/stevie) January 04, 2017 20:41
 
 January 04, 2017 20:41 | Tags: [indoor-air](../tag/indoor-air), [radon](../tag/radon), [question:radon](../tag/question:radon)
 
+----
+
 There has been a lot of information published on concerns related to radon in indoor air. I'm wondering why this is specific to indoor environments? 
 
   

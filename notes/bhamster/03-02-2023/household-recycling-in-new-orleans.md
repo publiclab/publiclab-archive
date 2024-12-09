@@ -14,6 +14,8 @@ by [bhamster](../profile/bhamster) March 02, 2023 21:57
 
 March 02, 2023 21:57 | Tags: [recycling](../tag/recycling), [student-community-science](../tag/student-community-science), [classroom-community-science](../tag/classroom-community-science)
 
+----
+
 **A version of this story by high school student Owen is published in Public Lab's _Community Science Forum_, Issue 18. Read more from this issue <a href="https://publiclab.org/forum#Issue+18+Student-Led+Community+Science+Projects+(Summer+2021)">here</a>.**
 
 My class was introduced to Public Lab back in late March. At first, I didn't think much of it, and I thought it would be just an easy A and a different change of flow from what we had been doing in class up until that point. Turns out, I am learning a lot about my city and about how us humans affect the environment. Our project consists of individual, group, and class assignments.  

@@ -8,11 +8,15 @@ uid: 43651
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/012/236/original/goo.jpg)
+
 # Riffle Water Bottle Enclosure: rubber stopper w/hole + silicone sealant: > 8 weeks!
 
 by [donblair](../profile/donblair) October 31, 2015 21:07
 
 October 31, 2015 21:07 | Tags: [sensors](../tag/sensors), [water-quality](../tag/water-quality), [riffle](../tag/riffle), [open-water](../tag/open-water), [barnstar:empiricism](../tag/barnstar:empiricism), [bottle](../tag/bottle), [enclosure](../tag/enclosure), [activity:sensor-enclosures](../tag/activity:sensor-enclosures), [water-sensors](../tag/water-sensors)
+
+----
 
 [photo credit: Liz Barry.  Shocked cereal box credit: D'Ignazio family]
 

@@ -8,11 +8,15 @@ uid: 440673
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/010/343/original/IMAG0046.JPG)
+
 # Modified MOBIUS with PL red filter
 
 by [RQ-05](../profile/RQ-05) June 15, 2015 00:03
 
 June 15, 2015 00:03 | Tags: [white-balance](../tag/white-balance), [mobius-actioncam](../tag/mobius-actioncam), [ndvi-ag](../tag/ndvi-ag), [first-time-poster](../tag/first-time-poster)
+
+----
 
 ###What I want to do: I am trying to do NDVI for crop scouting in AZ, and I am using a modified Mobius camera with red filter.
 

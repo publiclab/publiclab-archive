@@ -8,11 +8,15 @@ uid: 422561
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/025/244/original/20180611_114136.jpg)
+
 # Pensacola Stormwater 
 
 by [stevie](../profile/stevie) June 19, 2018 19:08
 
 June 19, 2018 19:08 | Tags: [superfund](../tag/superfund), [stormwater](../tag/stormwater), [flooding](../tag/flooding), [npdes](../tag/npdes), [permits](../tag/permits), [nas](../tag/nas), [issue-brief](../tag/issue-brief), [pensacola-stormwater](../tag/pensacola-stormwater), [pensacola](../tag/pensacola), [naacp](../tag/naacp)
+
+----
 
 ### Introduction: 
 In early June, 2018, a group of us from the Pensacola NAACP, and other interested parties got together to begin to explore some of the stormwater issues in Pensacola. 
@@ -44,4 +48,4 @@ The city/county deals with the stormwater, but ECUA deals with sewer, things end
 
 ### What are the initial questions?
 
-[questions:pensacola-stormwater]
+[pensacola-stormwater](../../tag/question:pensacola-stormwater)

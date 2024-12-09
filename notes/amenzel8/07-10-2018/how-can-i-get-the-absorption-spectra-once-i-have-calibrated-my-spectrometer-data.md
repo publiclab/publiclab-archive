@@ -14,4 +14,6 @@ by [amenzel8](../profile/amenzel8) July 10, 2018 20:12
 
 July 10, 2018 20:12 | Tags: [spectrometry](../tag/spectrometry), [spectral-workbench](../tag/spectral-workbench), [question:spectrometry](../tag/question:spectrometry), [question:spectral-workbench](../tag/question:spectral-workbench)
 
+----
+
 When I upload my image, I receive intensity data. However, I do not understand how the Web site provides absorption spectra.

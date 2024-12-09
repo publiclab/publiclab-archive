@@ -14,6 +14,8 @@ by [jevs](../profile/jevs) November 16, 2019 05:03
 
 November 16, 2019 05:03 | Tags: [spectrometer](../tag/spectrometer), [infrared](../tag/infrared), [spectrometry](../tag/spectrometry), [webcam](../tag/webcam), [ir](../tag/ir), [question:lego-spectrometer](../tag/question:lego-spectrometer), [lego-spectrometer](../tag/lego-spectrometer)
 
+----
+
 I want to buy a no IR lens for my webcam, but I am not sure what value lens to get?
 
 The lens that came on the webcam says f=3.85mm.

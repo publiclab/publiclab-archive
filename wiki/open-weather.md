@@ -8,11 +8,15 @@ uid: 693684
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/040/079/original/IMG_6661-crop.jpg)
+
 # open-weather
 
 by [sashae](../profile/sashae)
 
 June 19, 2020 14:18 | Tags: [satellite-imagery](../tag/satellite-imagery), [lat:51](../tag/lat:51), [radio](../tag/radio), [noaa](../tag/noaa), [location:blurred](../tag/location:blurred), [lon:0](../tag/lon:0), [antenna](../tag/antenna), [zoom:6](../tag/zoom:6), [place:united-kingdom](../tag/place:united-kingdom), [open-weather](../tag/open-weather)
+
+----
 
 ### About 
 
@@ -78,17 +82,17 @@ Are you interested in following Open-weather? Subscribe to the tag below to get 
 
 <a class="btn btn-large btn-primary" href="https://publiclab.org/subscribe/tag/open-weather">Subscribe to updates on this project </a>
 
-[notes:open-weather] 
+[open-weather](../../tag/open-weather) 
 
 ### Questions
 
-[questions:open-weather]
+[open-weather](../../tag/question:open-weather)
 
 ****
 
 ### Activities we've done in our project
 
-[activities:open-weather]
+[open-weather](../../tag/activity:open-weather)
 
 ### Data
 

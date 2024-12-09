@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/014/220/original/Screenshot_2016-02-10_at_9.27.16_AM.png)
+
 # Announcing Spectral Workbench 2
 
 by [warren](../profile/warren) February 10, 2016 14:34
 
 February 10, 2016 14:34 | Tags: [spectrometer](../tag/spectrometer), [software](../tag/software), [spectral-workbench](../tag/spectral-workbench), [developers](../tag/developers), [code](../tag/code), [oil-testing-kit](../tag/oil-testing-kit)
+
+----
 
 A couple weeks ago, we soft-launched **[Spectral Workbench 2](https://spectralworkbench.org)**, and today we've turned on these interfaces as the default for all users. This version has been in development for many months, and we've integrated much of the [feedback you've provided starting exactly one year ago](/notes/warren/02-10-2015/planning-for-spectral-workbench-2-0). 
 

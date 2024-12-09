@@ -8,11 +8,15 @@ uid: 468506
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/017/679/original/%3F%3F17.jpg)
+
 # Testing out a note within chinese characters in main image
 
 by [ananyo2012](../profile/ananyo2012) August 19, 2016 13:15
 
 August 19, 2016 13:15 | Tags: 
+
+----
 
 ###What I want to do
 Testing research note with chinese characters in main image. Testing issue [plots2](https://github.com/publiclab/plots2) [#546](https://github.com/publiclab/plots2/issues/546).

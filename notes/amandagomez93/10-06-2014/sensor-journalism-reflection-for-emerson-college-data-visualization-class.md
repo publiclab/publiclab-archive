@@ -14,6 +14,8 @@ by [amandagomez93](../profile/amandagomez93) October 06, 2014 01:40
 
 October 06, 2014 01:40 | Tags: 
 
+----
+
 by Amanda Gomez
 
 	I’m currently reading Peter Thiel’s Zero to One, a book that discloses Thiel’s own insight on “how to build the future.” He emphasizes vertical or intensive progress, meaning actually doing something new, rather than succumbing to horizontal extensive progress, copying things that already work. I begin with this because for me, sensor journalism is vertical progress. It’s inventive, creative, technology-driven but also risky, complicated, and potentially messy. Lily Bui’s presentation on sensor journalism kickstarted my excitement. She said we were going to partake in an experiment, an experiment even many established journalists have not yet embarked on. 

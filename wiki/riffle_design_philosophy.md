@@ -8,11 +8,15 @@ uid: 43651
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/018/137/original/riffle_header_2.png)
+
 # riffle_design_philosophy
 
 by [warren](../profile/warren), [donblair](../profile/donblair)
 
 September 24, 2016 01:31 | Tags: [riffle](../tag/riffle), [parent:riffle](../tag/parent:riffle), [design-philosophy](../tag/design-philosophy)
+
+----
 
 # Riffle Design Philosophy
 

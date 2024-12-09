@@ -3,6 +3,8 @@ uid: 428957
 created_at: 2014-09-25 15:24:53 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/428957/medium/1917462_342722465111_6970821_n.jpg)
+
 # LauraChipley
 
 I am an interdisciplinary artist based in Brooklyn, New York and an Assistant Professor of Media and Communications at the State University of New York at Old Westbury. 

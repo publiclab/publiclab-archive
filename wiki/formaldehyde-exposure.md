@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/011/356/original/H2CO_.gif)
+
 # Formaldehyde Exposure
 
 by [nshapiro](../profile/nshapiro), [liz](../profile/liz), [mathew](../profile/mathew), [novakn](../profile/novakn), [warren](../profile/warren)
 
 May 22, 2015 19:33 | Tags: [formaldehyde](../tag/formaldehyde), [wherewebreathe](../tag/wherewebreathe), [literature-review](../tag/literature-review), [wwb](../tag/wwb), [indoor-air-quality](../tag/indoor-air-quality), [parent:indoor-air-quality-monitoring](../tag/parent:indoor-air-quality-monitoring)
+
+----
 
 ###What is formaldehyde?
 

@@ -8,11 +8,15 @@ uid: 133
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/001/482/original/DonLEDs.JPG)
+
 # Characterizing camera sensors – first step
 
 by [nedhorning](../profile/nedhorning) September 11, 2013 14:49
 
 September 11, 2013 14:49 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [vermont](../tag/vermont), [infrared](../tag/infrared), [leaffest](../tag/leaffest), [infragram](../tag/infragram), [leaffest2013](../tag/leaffest2013), [leds](../tag/leds)
+
+----
 
 One of the tasks at LEAFFEST ([http://publiclab.org/notes/cfastie/08-29-2013/l-e-a-f-f-e-s-t-2013](http://publiclab.org/notes/cfastie/08-29-2013/l-e-a-f-f-e-s-t-2013)) was to develop some methods for characterizing Infrablue and other near-infrared 
 (NIR) cameras to better understand how different wavelengths of light are being recorded by the camera sensor. 

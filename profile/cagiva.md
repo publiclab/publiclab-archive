@@ -3,6 +3,8 @@ uid: 569044
 created_at: 2019-01-10 20:14:32 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/fb659f8619c60e5db98e399d6cc0687a)
+
 # cagiva
 
 Researcher

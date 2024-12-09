@@ -14,4 +14,6 @@ by [janajockovic47](../profile/janajockovic47) May 05, 2019 19:11
 
 May 05, 2019 19:11 | Tags: [question:spectrometer](../tag/question:spectrometer), [first-time-poster](../tag/first-time-poster)
 
+----
+
 ![опис слике](/i/31819.jpg "15570831874247318965033551588430.јпг")

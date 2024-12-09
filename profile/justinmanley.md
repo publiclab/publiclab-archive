@@ -3,6 +3,8 @@ uid: 421556
 created_at: 2014-03-18 06:24:57 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/98e5d7c82fab36b12b4f9149ec7bfc65)
+
 # justinmanley
 
 Justin Manley is an undergraduate student at the University of Chicago.  He worked on MapKnitter as part of Google Summer of Code in 2014 and has continued to work on open-source mapping projects related to Public Lab's mission, including Leaflet.DistortableImage and Leaflet.Toolbar.

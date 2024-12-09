@@ -3,6 +3,8 @@ uid: 235174
 created_at: 2013-09-05 19:09:27 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/235174/medium/profile_pic.JPG)
+
 # willie
 
 Willie Shubert is the Program Officer for Internews' Earth Journalism Network. As a organizer of a global network of environmental journalists, Willie helps make tools that enable people to connect with each other, find material support, and amplify their local stories to global audiences. In his previous position at National Geographic Magazine, he coordinated translation for the magazine's 32 local language partners. He holds a degree in Geography from Humboldt State University with concentrations in cartography, environmental economics, and Chinese Studies. Outside of work, he devotes his time to the development of a free school dedicated to community building through education and to collaborative mapping and audio projects.

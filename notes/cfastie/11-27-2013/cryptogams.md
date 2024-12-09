@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/002/339/original/FrullaniaWratt25-287-18det.jpg)
+
 # Cryptogams
 
 by [cfastie](../profile/cfastie) November 27, 2013 17:13
 
 November 27, 2013 17:13 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [nrg](../tag/nrg), [vermont](../tag/vermont), [infrared](../tag/infrared), [a2200](../tag/a2200), [filter](../tag/filter), [infragram](../tag/infragram), [list:plots-infrared](../tag/list:plots-infrared), [infrablue](../tag/infrablue), [bg3](../tag/bg3), [wratten25a](../tag/wratten25a), [nbn](../tag/nbn), [nnr](../tag/nnr), [super-red](../tag/super-red), [response:9824](../tag/response:9824)
+
+----
 
 *Image above: Wratten 25A infrared image of moss branches in front of a mat of liverwort.*  
 .  

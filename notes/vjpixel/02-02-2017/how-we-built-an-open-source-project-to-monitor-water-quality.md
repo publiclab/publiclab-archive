@@ -8,11 +8,15 @@ uid: 420617
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/019/423/original/DSC_0117-1024x576.jpg)
+
 # How we built an open source project to monitor water quality
 
 by [vjpixel](../profile/vjpixel) February 02, 2017 23:02
 
 February 02, 2017 23:02 | Tags: [water-quality](../tag/water-quality), [list:plots-waterquality](../tag/list:plots-waterquality), [brasil](../tag/brasil), [parent:open-water](../tag/parent:open-water), [report](../tag/report), [redeinfoamazonia](../tag/redeinfoamazonia), [maedagua](../tag/maedagua)
+
+----
 
 In December 2016, InfoAmazonia finished the first phase of a project to develop an open source device. The initiative, awarded by in the Google Impact Challenge Brazil 2014, proposed to establish an independent pilot network of urban and riverside communities in the Amazon to monitor water quality.  
 

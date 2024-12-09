@@ -14,6 +14,8 @@ by [warren](../profile/warren)
 
 March 13, 2019 17:19 | Tags: [jobs](../tag/jobs), [sidebar:none](../tag/sidebar:none), [redirect:21030](../tag/redirect:21030)
 
+----
+
 ## Public Lab: Providence, RI software development fellowship
 
 Dates: April-May 2019

@@ -3,6 +3,8 @@ uid: 44865
 created_at: 2016-09-09 14:17:29 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/10b8b5c6ae946ceadfaf6c248c92c181)
+
 # Jean-Christophe-DORE
 
 

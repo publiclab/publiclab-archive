@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/plots-group-kn.JPG)
+
 # The Public Laboratory for Open Technology and Science Receives Support for Expanding Civic Science Programs
 
 by [warren](../profile/warren) June 22, 2011 18:30
 
 June 22, 2011 18:30 | Tags: 
+
+----
 
 Dear Grassroots Mappers / Public Laboratory community: 
 

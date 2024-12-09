@@ -14,6 +14,8 @@ by [Shannon](../profile/Shannon) October 26, 2012 23:55
 
 October 26, 2012 23:55 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
 
+----
+
 During the next week the Public Lab staff will be holding our Fall meeting in New Orleans, followed directly by the barn raising in Cocodrie. That said, this week's newsletter is short and sweet and next Friday there won't be a newsletter. As always, please email to the list or post a research note if you have happenings and updates that you want people to be aware of. 
 
 1. Web Survey due today. A last reminder that today is the final day to fill out the [Public Lab web survey](https://docs.google.com/spreadsheet/viewform?formkey=dEZlRmM1Vzd3VkRIOWE1bW4yU2JMNlE6MQ#gid=0). During both the staff meeting and the barn raising, we'll be reviewing your responses which will help us to craft changes and additions to the site. Your input is greatly appreciated! 

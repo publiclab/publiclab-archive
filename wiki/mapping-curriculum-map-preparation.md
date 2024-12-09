@@ -14,6 +14,8 @@ by [gonzoearth](../profile/gonzoearth), [warren](../profile/warren)
 
 July 29, 2011 19:41 | Tags: 
 
+----
+
 *As part of the [Grassroots Mapping Curriculum](/wiki/mapping-curriculum) series.*
 ##Step 3: Selecting images and preparing a map##
 http://publiclaboratory.org/wiki/grassroots-mapping-curriculum

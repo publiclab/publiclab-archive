@@ -8,11 +8,15 @@ uid: 460486
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/014/016/original/IMG-20160129-WA0002.jpeg)
+
 # Tiny spectromter - Hacking a LASER barcode scanner
 
 by [shubham](../profile/shubham) February 01, 2016 09:08
 
 February 01, 2016 09:08 | Tags: [spectrometer](../tag/spectrometer), [ccd](../tag/ccd), [reflection](../tag/reflection), [pocket](../tag/pocket), [sized](../tag/sized), [barcode](../tag/barcode), [scanner](../tag/scanner), [mirror](../tag/mirror), [front](../tag/front)
+
+----
 
 ##So what is it about
 

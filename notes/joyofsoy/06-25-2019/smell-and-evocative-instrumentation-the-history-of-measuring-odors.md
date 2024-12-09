@@ -8,11 +8,15 @@ uid: 540844
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/033/185/original/A_set_up_for_measuring_time_taken_to_detect_a_smell__Not_sure_where_the_big_pointy_thing_goes_to%E2%80%A6__From_Physiologie_des_Geruchs_..jpg)
+
 # Smell and Evocative Instrumentation: The history of measuring odors.
 
 by [joyofsoy](../profile/joyofsoy) June 25, 2019 16:14
 
 June 25, 2019 16:14 | Tags: [odors](../tag/odors), [odor-logging](../tag/odor-logging), [csf](../tag/csf), [csf16](../tag/csf16), [with:nadya](../tag/with:nadya)
+
+----
 
 **A version of this story by Nadya Peek is published in Public Lab's *Community Science Forum*, Issue 16.** 
 

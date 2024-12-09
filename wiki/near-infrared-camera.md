@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/IMG_0511-split.png)
+
 # Near-Infrared Camera
 
 by [warren](../profile/warren), [liz](../profile/liz), [Shannon](../profile/Shannon), [gonzoearth](../profile/gonzoearth), [mathew](../profile/mathew), [cfastie](../profile/cfastie), [wward1400](../profile/wward1400), [cversek](../profile/cversek), [donblair](../profile/donblair), [ncraig](../profile/ncraig), [sara](../profile/sara)
 
 January 25, 2011 03:26 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [infragram](../tag/infragram), [list:plots-infrared](../tag/list:plots-infrared), [tabbed:notes](../tag/tabbed:notes), [tabbed:wikis](../tag/tabbed:wikis), [n](../tag/n)
+
+----
 
 <iframe width="480" height="360" src="//www.youtube.com/embed/ZVbC3UxlX8c" frameborder="0" allowfullscreen></iframe>
 
@@ -77,7 +81,7 @@ Visit the [gallery of high-res images by Chris Fastie](https://plus.google.com/p
 
 <a class="btn btn-primary" href="/post?tags=question:multispectral-imaging,question:infrared,question:infragram&template=question">Ask a question about infrared imaging</a>
 
-[notes:question:infragram]
+[question:infragram](../../tag/question:infragram)
 
 ****
 

@@ -14,6 +14,8 @@ by [kgradow1](../profile/kgradow1) May 20, 2020 13:37
 
 May 20, 2020 13:37 | Tags: [air-quality](../tag/air-quality), [question:air-quality](../tag/question:air-quality), [question:general](../tag/question:general), [general](../tag/general), [air-sensor](../tag/air-sensor), [question:air-sensor](../tag/question:air-sensor), [bucket-monitor](../tag/bucket-monitor), [question:bucket-monitor](../tag/question:bucket-monitor)
 
+----
+
 This question was asked by @mimiss during this week's Open Hour.
 
 The [bucket monitor](https://publiclab.org/wiki/bucket-2020-relaunch-and-update) is used to sample chemicals in the air including VOCs (volatile organic compounds) and sulfur compounds. Buckets are similar to Summa canisters, which capture 30-hour samples in a polished container. Summa canisters come with a 2um filter that is built into the flow controller to prevent contamination of the intake valve. This is a two-part question:

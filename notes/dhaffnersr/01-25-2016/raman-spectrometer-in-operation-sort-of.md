@@ -8,11 +8,15 @@ uid: 461120
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/013/807/original/20160125_104801.jpg)
+
 # Raman spectrometer in operation (sort of)
 
 by [dhaffnersr](../profile/dhaffnersr) January 25, 2016 16:26
 
 January 25, 2016 16:26 | Tags: 
+
+----
 
 ###What I want to do - develop a simple raman spectroscope that the public lab spectrometer kit can pick up the signal.
 

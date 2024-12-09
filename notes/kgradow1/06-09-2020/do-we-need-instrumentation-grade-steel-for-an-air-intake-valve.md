@@ -14,6 +14,8 @@ by [kgradow1](../profile/kgradow1) June 09, 2020 18:49
 
 June 09, 2020 18:49 | Tags: [air-quality](../tag/air-quality), [question:general](../tag/question:general), [general](../tag/general), [air-sensor](../tag/air-sensor), [bucket-monitor](../tag/bucket-monitor), [question:bucket-monitor](../tag/question:bucket-monitor)
 
+----
+
 I am trying to source parts to do a build test for the [bucket monitor](https://publiclab.org/wiki/bucket-monitor).  
 
 The original parts list calls for instrumentation-grade Swagelok parts:

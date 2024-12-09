@@ -8,11 +8,15 @@ uid: 45586
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/022/815/original/usgbc_29582871.jpg)
+
 # Washington is one of many paths to sustainability progress. Green buildings can help.
 
 by [mlamadrid](../profile/mlamadrid) December 06, 2017 01:11
 
 December 06, 2017 01:11 | Tags: [landscape](../tag/landscape), [climate-change](../tag/climate-change), [climate](../tag/climate), [governance](../tag/governance), [leed](../tag/leed), [usbgc](../tag/usbgc), [environmental-policy](../tag/environmental-policy)
+
+----
 
 Article by Jeremy Sigmon, Director, [Technical Policy, U.S. Green Building Council](https://new.usgbc.org/) for [Community Science Forum: Changing Environmental Governance Landscape](https://publiclab.org/forum)
 

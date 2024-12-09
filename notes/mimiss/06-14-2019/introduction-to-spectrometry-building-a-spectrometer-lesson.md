@@ -14,6 +14,8 @@ by [mimiss](../profile/mimiss) June 14, 2019 15:10
 
 June 14, 2019 15:10 | Tags: [education](../tag/education), [spectrometry](../tag/spectrometry), [activity:spectrometry](../tag/activity:spectrometry), [activity:education](../tag/activity:education), [lesson](../tag/lesson), [activity:spectrometer](../tag/activity:spectrometer), [lesson-spectrometry](../tag/lesson-spectrometry), [pin:spectrometry](../tag/pin:spectrometry)
 
+----
+
 ##Public Lab Spectrometry Kits
 
 Public Lab’s Kits initiative offers several starter kits, including many of the basic components, and instructions for constructing a basic visible light spectrometer. The point of the kits is to provide a shared reference design for building experimental setups onto. 

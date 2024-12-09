@@ -8,11 +8,15 @@ uid: 379
 
 ---
 
+![](https://publiclab.org/sites/default/files/H2S placement 23 june.jpg)
+
 # H2S strip placement in Bayou Sauvage NWR, Orleans Parish, LA
 
 by [eustatic](../profile/eustatic) June 24, 2012 00:24
 
 June 24, 2012 00:24 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [h2s](../tag/h2s), [h2s-photopaper](../tag/h2s-photopaper)
+
+----
 
 Today, Shannon and Scott placed 4 x 8 = 32 H2S test strips in a degraded wetland under pump in Orleans Parish, LA. 
 

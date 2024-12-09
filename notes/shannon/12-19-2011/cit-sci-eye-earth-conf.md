@@ -14,4 +14,6 @@ by [Shannon](../profile/Shannon) December 19, 2011 19:52
 
 December 19, 2011 19:52 | Tags: 
 
+----
+
 From the Eye on Earth conference about cit. sci. in particular: <a href="http://www.scidev.net/en/agriculture-and-environment/eye-on-earth-summit/features/quality-control-challenges-for-citizen-science-.html">http://www.scidev.net/en/agriculture-and-environment/eye-on-earth-summit/features/quality-control-challenges-for-citizen-science-.html</a><br>

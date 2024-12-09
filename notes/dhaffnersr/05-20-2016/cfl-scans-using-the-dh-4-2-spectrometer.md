@@ -8,11 +8,15 @@ uid: 461120
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/016/232/original/capture.png)
+
 # CFL scans using the DH 4.2 spectrometer 
 
 by [dhaffnersr](../profile/dhaffnersr) May 20, 2016 18:56
 
 May 20, 2016 18:56 | Tags: 
+
+----
 
 I did 8 scans today of a CFL (compact fluorescent light) using a 27 minute random time frame. 
 

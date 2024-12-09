@@ -8,11 +8,15 @@ uid: 777566
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/046/713/original/Vacherie_5_Day_Event.png)
+
 # Rising PM 2.5 in St James
 
 by [tylerknight](../profile/tylerknight) June 01, 2022 20:52
 
 June 01, 2022 20:52 | Tags: [gulf-coast](../tag/gulf-coast), [air-quality](../tag/air-quality), [pm](../tag/pm), [particulatematter](../tag/particulatematter), [particulate-matter](../tag/particulate-matter), [purpleair](../tag/purpleair), [st-james](../tag/st-james), [formosaplastics](../tag/formosaplastics)
+
+----
 
 Another month of data, another month observing high PM 2.5 events in St James Parish.
 

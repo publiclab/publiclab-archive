@@ -14,6 +14,8 @@ by [perfectytindia](../profile/perfectytindia) April 22, 2022 14:43
 
 April 22, 2022 14:43 | Tags: [first-time-poster](../tag/first-time-poster), [zoom:3](../tag/zoom:3), [lat:25.482951](../tag/lat:25.482951), [lon:84.990234](../tag/lon:84.990234)
 
+----
+
 (This template is for students applying to summer code programs with Public Lab. Use this link to start writing a post: [https://publiclab.org/post?n=899&tags=soc,soc-2019,soc-2019-proposals](https://publiclab.org/post?n=899&tags=soc,soc-2019,soc-2019-proposals) You can delete this line once you've started filling it out.)
 
 ## **

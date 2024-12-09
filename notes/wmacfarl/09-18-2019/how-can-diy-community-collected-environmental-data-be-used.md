@@ -14,6 +14,8 @@ by [wmacfarl](../profile/wmacfarl) September 18, 2019 20:13
 
 September 18, 2019 20:13 | Tags: [water-quality](../tag/water-quality), [data](../tag/data), [advocacy](../tag/advocacy), [question:water-quality](../tag/question:water-quality), [question:general](../tag/question:general), [oil-and-gas](../tag/oil-and-gas), [question:advocacy](../tag/question:advocacy), [oil-and-gas-water-trio](../tag/oil-and-gas-water-trio), [question:oil-and-gas-water-trio](../tag/question:oil-and-gas-water-trio)
 
+----
+
 More context for this question is here: [https://publiclab.org/notes/wmacfarl/09-18-2019/oil-and-gas-hardware-fellow-introduction](https://publiclab.org/notes/wmacfarl/09-18-2019/oil-and-gas-hardware-fellow-introduction "https://publiclab.org/notes/wmacfarl/09-18-2019/oil-and-gas-hardware-fellow-introduction")
 
 Briefly: We are thinking about tool and project development for water quality monitoring around oil and gas pollution. In order to develop useful data-collection tools we need to know what kinds of things people want to use data for.

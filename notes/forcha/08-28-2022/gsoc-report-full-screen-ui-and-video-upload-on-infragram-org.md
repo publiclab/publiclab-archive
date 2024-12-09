@@ -8,11 +8,15 @@ uid: 791076
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/047/077/original/infragram-logo-removebg-preview_%281%29.png)
+
 # GSOC Report:  full-screen UI and video upload on Infragram.org
 
 by [forcha](../profile/forcha) August 28, 2022 21:30
 
 August 28, 2022 21:30 | Tags: [infragram](../tag/infragram), [gsoc](../tag/gsoc), [google](../tag/google), [water-quality](../tag/water-quality), [multispectral-imaging](../tag/multispectral-imaging), [infragram.org](../tag/infragram.org), [lat:1.010689](../tag/lat:1.010689), [lon:9.997558](../tag/lon:9.997558), [zoom:6](../tag/zoom:6), [2022](../tag/2022)
+
+----
 
 Name: Forcha Pearl Fri  
 Gitter: forchapeatl  

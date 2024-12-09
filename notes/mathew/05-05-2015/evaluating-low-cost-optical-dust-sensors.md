@@ -8,11 +8,15 @@ uid: 4
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/009/773/original/figD1.png)
+
 # Evaluating low-cost optical dust sensors
 
 by [mathew](../profile/mathew) May 05, 2015 00:13
 
 May 05, 2015 00:13 | Tags: [wisconsin](../tag/wisconsin), [air-quality](../tag/air-quality), [air](../tag/air), [dustduino](../tag/dustduino), [dust](../tag/dust), [particulates](../tag/particulates), [speck](../tag/speck), [particle-sensing](../tag/particle-sensing), [openair](../tag/openair), [dylos](../tag/dylos), [airbeam](../tag/airbeam), [air-sensors](../tag/air-sensors)
+
+----
 
 _image credit: @donblair_
 

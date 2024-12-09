@@ -14,6 +14,8 @@ by [jmsaavedra](../profile/jmsaavedra), [liz](../profile/liz)
 
 February 26, 2013 16:36 | Tags: 
 
+----
+
 <h3><a href="/wiki/air-quality-class">Class Home</a></h3>
 
 <strong>Class Presentation: We are using Google Docs Spreadsheets to store and analyze our data. Spreadsheets are giant tables, with the X-axis labels telling us which data each Y-axis contains. Each row is a different data value at a specific moment in time. </strong>

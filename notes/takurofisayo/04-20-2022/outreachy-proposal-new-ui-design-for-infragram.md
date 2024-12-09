@@ -8,11 +8,15 @@ uid: 795380
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/046/366/original/www.figma.com_file_NPxEm0dDHU4XrskbIvUZ9i_Public-Lab---New-UI_node-id_0_1.png)
+
 # Outreachy proposal:  New UI design for infragram
 
 by [takurofisayo](../profile/takurofisayo) April 20, 2022 08:46
 
 April 20, 2022 08:46 | Tags: [software](../tag/software), [outreachy](../tag/outreachy), [first-time-poster](../tag/first-time-poster), [zoom:6](../tag/zoom:6), [lat:9.081999](../tag/lat:9.081999), [lon:8.675277](../tag/lon:8.675277), [outreachy-2022](../tag/outreachy-2022), [outreachy-summer-2022](../tag/outreachy-summer-2022)
+
+----
 
 ---------
 

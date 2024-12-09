@@ -8,11 +8,15 @@ uid: 556121
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/027/587/original/pexels-photo-67184.jpeg)
+
 # Water Monitoring Network
 
 by [roberts_ecofarm](../profile/roberts_ecofarm) November 10, 2018 16:11
 
 November 10, 2018 16:11 | Tags: [sensors](../tag/sensors), [water-quality](../tag/water-quality), [soil-moisture](../tag/soil-moisture), [mid-west](../tag/mid-west), [issue-brief](../tag/issue-brief), [ohio](../tag/ohio), [water-monitoring-network](../tag/water-monitoring-network), [data-loggers](../tag/data-loggers), [project:water-quality](../tag/project:water-quality)
+
+----
 
 ### 
 

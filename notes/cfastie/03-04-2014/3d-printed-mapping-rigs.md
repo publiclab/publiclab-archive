@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/003/118/original/Rigs-345-3a.jpg)
+
 # 3D printed mapping rigs
 
 by [cfastie](../profile/cfastie) March 04, 2014 15:53
 
 March 04, 2014 15:53 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [vermont](../tag/vermont), [kap](../tag/kap), [3d-printing](../tag/3d-printing), [makerbot](../tag/makerbot), [snowfest](../tag/snowfest), [response:10097](../tag/response:10097), [snowfest2014](../tag/snowfest2014)
+
+----
 
 *Above: Public Lab's MakerBot 3D printer in Vermont has been busy.*  
 .

@@ -8,11 +8,15 @@ uid: 237313
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/036/598/original/IMG_20191025_084652.jpg)
+
 # Responding to Environmental Disasters-- Building a Kit
 
 by [Bronwen](../profile/Bronwen) November 18, 2019 18:00
 
 November 18, 2019 18:00 | Tags: [disaster-preparedness](../tag/disaster-preparedness), [kits](../tag/kits), [climate-change](../tag/climate-change), [disaster-response](../tag/disaster-response), [txbarnraising](../tag/txbarnraising), [txbr](../tag/txbr), [texas-barnraising](../tag/texas-barnraising)
+
+----
 
 In the past two years we've had two Barnraisings devoted to the topic of disaster response. In July of 2018 we gathered Newark, New Jersey along with Crisis Convening, ([read more about that event here](https://publiclab.org/wiki/barnraising-newark-2018)) and in February of 2019 we gathered in Galveston, Texas to continue that conversation and build on the ideas and relationships we've been forming in our networks ([more about the Galveston Barnraising here](https://publiclab.org/wiki/barnraising-newark-2018))
 

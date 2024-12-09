@@ -3,6 +3,8 @@ uid: 524871
 created_at: 2018-02-11 00:01:57 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/524871/medium/DSC_2137.jpg)
+
 # DevanHarlan
 
 Devan Harlan is an artist and designer based in New York. 

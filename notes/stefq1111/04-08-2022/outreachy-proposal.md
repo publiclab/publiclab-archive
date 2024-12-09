@@ -8,11 +8,15 @@ uid: 792049
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/046/503/original/road-ge0e654c9b_1920.jpg)
+
 # Outreachy proposal: Design a new full-screen user interface for Infragram.org
 
 by [stefq1111](../profile/stefq1111) April 08, 2022 23:43
 
 April 08, 2022 23:43 | Tags: [software](../tag/software), [outreachy](../tag/outreachy), [first-time-poster](../tag/first-time-poster), [outreachy-2022](../tag/outreachy-2022), [outreachy-summer-2022](../tag/outreachy-summer-2022)
+
+----
 
 ## About Me
 I am Stephanie Quintana, a self-taught, career-changing web developer living where I grew up, in rural West Texas. I studied Mathematics at the University of Texas at Austin, investigated Identity Theft for the US government and finally moved on to Event Management before becoming fascinated and enveloped in coding. I am still planning on where I would like to end up, but am thoroughly enjoying exactly where I am right now. 

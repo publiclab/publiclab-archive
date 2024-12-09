@@ -8,11 +8,15 @@ uid: 379
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/021/106/original/a_IMAG0257_gowanus_is_coming__for_ya_infra.JPG)
+
 # Adventures on the Gowanus on a July Evening
 
 by [eustatic](../profile/eustatic) July 12, 2017 16:59
 
 July 12, 2017 16:59 | Tags: [gowanus](../tag/gowanus), [new-york](../tag/new-york), [nyc](../tag/nyc), [northeast](../tag/northeast), [barnstar:photo-documentation](../tag/barnstar:photo-documentation)
+
+----
 
 Inspired by common ancestry with  Fundulus, four of us got in the waters of the Gowanus, and saw what was brewing in everyone's favorite superfund weltand basin. 
 

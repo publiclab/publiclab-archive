@@ -14,6 +14,8 @@ by [warren](../profile/warren)
 
 March 04, 2011 18:20 | Tags: [education](../tag/education)
 
+----
+
 ##Class description##
 
 (draw on: http://publiclaboratory.org/report/diy-spectrometry-workshop-lima-peru)

@@ -8,11 +8,15 @@ uid: 459085
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/018/522/original/IMG_20161020_154529.jpg)
+
 # (SPOILERS): Blink a LED
 
 by [pdhixenbaugh](../profile/pdhixenbaugh) October 20, 2016 21:22
 
 October 20, 2016 21:22 | Tags: [replication:13632](../tag/replication:13632)
+
+----
 
 SPOILERS! You shouldn't read this if you want to figure out the activity on your own FIRST!
 

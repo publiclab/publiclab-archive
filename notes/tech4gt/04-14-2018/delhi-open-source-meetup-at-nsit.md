@@ -8,11 +8,15 @@ uid: 523178
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/024/591/original/download.jpeg)
+
 # Delhi Open source meetup at NSIT
 
 by [tech4gt](../profile/tech4gt) April 14, 2018 05:21
 
 April 14, 2018 05:21 | Tags: [event](../tag/event), [india](../tag/india), [barnstar:basic](../tag/barnstar:basic), [software-outreach](../tag/software-outreach), [coding-events](../tag/coding-events), [new-delhi](../tag/new-delhi), [with:gabru-md](../tag/with:gabru-md)
+
+----
 
 I planned and hosted a small Open source meetup at my college Netaji Subhash Institute if Technology in New Delhi India. It was a meetup for the students of my college only and we had about 50-60 attendees. Objective of the meetup was to share our work on Image Sequencer, which was thoroughly enjoyed. People loved how Image Processing is being done in js rather than python.
 

@@ -8,11 +8,15 @@ uid: 448963
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/019/779/original/WhatsApp_Image_2017-03-13_at_6.26.54_PM.jpeg)
+
 # Exhibition and Mapping Workshops in Bourj Al Shamali
 
 by [firas](../profile/firas) March 13, 2017 17:31
 
 March 13, 2017 17:31 | Tags: [balloon-mapping](../tag/balloon-mapping), [exhibition](../tag/exhibition), [bourjalshamali](../tag/bourjalshamali)
+
+----
 
 On 4 -5 February, an exhibition of our balloon mapping project took place in Al Hula 
 

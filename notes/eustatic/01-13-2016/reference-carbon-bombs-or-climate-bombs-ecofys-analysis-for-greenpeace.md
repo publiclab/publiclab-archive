@@ -8,11 +8,15 @@ uid: 379
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/013/622/original/Carbon-bombs-map-001.jpg)
+
 # [reference] "Carbon Bombs" or "Climate Bombs" --EcoFys analysis for Greenpeace
 
 by [eustatic](../profile/eustatic) January 13, 2016 03:24
 
 January 13, 2016 03:24 | Tags: [gulf-coast](../tag/gulf-coast), [research](../tag/research), [blog](../tag/blog), [climate-change](../tag/climate-change), [climate](../tag/climate), [global-climate-change](../tag/global-climate-change), [cop21](../tag/cop21), [carbonbomb](../tag/carbonbomb), [reference](../tag/reference), [greenpeace](../tag/greenpeace)
+
+----
 
 During the [Open hour on COP21](https://youtu.be/KkkA9s3YSIw?t=8m48s), there was mention of the term "Carbon Bomb" and discussion of an EcoFys report ("Point of No Return") on 14 industrial projects most likely (in 2013) to disrupt the Climate by increasing industrial carbon emissions by 2020--in some cases, the carbon emissions potential for any one of the projects exceeds the carbon budget for the entire planet (565 MT by 2015, according to Carbon Tracker).
 

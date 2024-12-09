@@ -8,11 +8,15 @@ uid: 4
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/018/210/original/Spencer_Grant_GettyImgs_MysticRiver1974-CC-NC-SA.jpg)
+
 # Enforcing Stormwater Permits with Google Street View along the Mystic River
 
 by [mathew](../profile/mathew) September 30, 2016 01:08
 
 September 30, 2016 01:08 | Tags: [evidence](../tag/evidence), [epa](../tag/epa), [blog](../tag/blog), [water](../tag/water), [legal](../tag/legal), [regulations](../tag/regulations), [mystic-river](../tag/mystic-river), [stormwater](../tag/stormwater), [openwater](../tag/openwater), [evidence-project](../tag/evidence-project), [npdes](../tag/npdes), [streetview](../tag/streetview), [permits](../tag/permits), [series:evidence-project](../tag/series:evidence-project), [law-and-policy](../tag/law-and-policy)
+
+----
 
 _Compressed autos at Mystic River scrap yard, Everett, Massachusetts, 1974. Spencer Grant/Getty Images. [CC-NC-SA](https://creativecommons.org/licenses/by-nc-sa/2.0/legalcode)_
 

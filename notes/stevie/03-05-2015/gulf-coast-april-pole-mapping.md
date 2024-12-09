@@ -8,11 +8,15 @@ uid: 422561
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/009/176/original/April_Mapping.jpg)
+
 # Gulf Coast April Pole Mapping
 
 by [stevie](../profile/stevie) March 05, 2015 17:30
 
 March 05, 2015 17:30 | Tags: [events](../tag/events), [polemapping](../tag/polemapping), [mapping](../tag/mapping), [event](../tag/event), [neworleans](../tag/neworleans), [pole-mapping](../tag/pole-mapping), [gulfcoast](../tag/gulfcoast)
+
+----
 
 ##Hold the showers: 
 April _pole mapping_ brings May... _wetland maps!_

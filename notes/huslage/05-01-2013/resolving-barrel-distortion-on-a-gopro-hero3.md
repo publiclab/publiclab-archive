@@ -8,11 +8,15 @@ uid: 716
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/000/149/original/G0050166.jpg)
+
 # Resolving Barrel Distortion on a GoPro Hero3
 
 by [huslage](../profile/huslage) May 01, 2013 20:39
 
 May 01, 2013 20:39 | Tags: [balloon-mapping](../tag/balloon-mapping), [development](../tag/development), [distortion](../tag/distortion), [fisheye](../tag/fisheye)
+
+----
 
 ##Details about the problem
 

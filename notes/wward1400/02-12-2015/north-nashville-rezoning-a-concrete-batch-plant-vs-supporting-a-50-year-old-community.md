@@ -8,11 +8,15 @@ uid: 46742
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/008/915/original/%E2%80%A2_NXNE_Aerial_02.06.14_-_NxNE_Hawkins_Development_Company.jpg)
+
 # North Nashville: Concrete Batch Plant Rezoning Adjacent to a +50 Year Old Community
 
 by [wward1400](../profile/wward1400) February 12, 2015 00:25
 
 February 12, 2015 00:25 | Tags: [balloon-mapping](../tag/balloon-mapping), [water-sensing](../tag/water-sensing), [air-column-monitor](../tag/air-column-monitor), [water-quality-mapping](../tag/water-quality-mapping), [air-quality](../tag/air-quality), [transportation](../tag/transportation), [water-quality](../tag/water-quality), [southeast](../tag/southeast), [traffic](../tag/traffic), [land-use](../tag/land-use), [zoning](../tag/zoning), [tennessee](../tag/tennessee), [lulu](../tag/lulu)
+
+----
 
 The communities of North Nashville have long been considered "a dumping ground" for the city's unwanted land uses. See: <ul><li>["Environmental Racism?: Northwest Nashvillians say their neighborhoods have been "a dumping ground" for Davidson County", Nashville Scene, June 2004](http://www.nashvillescene.com/nashville/environmental-racism/Content?oid=1190156)</li>
 <li>["Your opinion of the Bordeaux area?," city-data.com, April 2009](http://www.city-data.com/forum/nashville/611751-your-opinion-bordeaux-area-2.html)</li>.  

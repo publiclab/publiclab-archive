@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/004/066/original/Staten_Island_North_Shore_rough_water_quality_data_available.jpg)
+
 # Staten Island
 
 by [troy](../profile/troy), [liz](../profile/liz), [eymund](../profile/eymund)
 
 April 24, 2014 14:29 | Tags: [new-york-city](../tag/new-york-city), [northeast](../tag/northeast), [staten-island](../tag/staten-island)
+
+----
 
 **Staten Island's north shore is part of [New York City](/wiki/new-york-city) and the [Northeast region](http://publiclab.org/wiki/northeast).**
 

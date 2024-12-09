@@ -8,11 +8,15 @@ uid: 9
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/005/012/original/plots-logo-transparent.jpg)
+
 # Public Lab community newsletter 6.28.14
 
 by [Shannon](../profile/Shannon) June 28, 2014 16:33
 
 June 28, 2014 16:33 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
+
+----
 
 This week in the Public Lab community newsletter, grab your copy of the “international” Grassroots Mapping Forum (GMF), contribute your thoughts on trash in the next edition of the GMF, check out project updates from coastal Maine to the Czech Republic and get ready for the first OpenHour, focused on aerial mapping. Enjoy!
 

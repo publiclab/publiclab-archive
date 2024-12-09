@@ -14,6 +14,8 @@ by [exekutive](../profile/exekutive) November 06, 2018 01:47
 
 November 06, 2018 01:47 | Tags: [ultraviolet](../tag/ultraviolet), [spectrometry](../tag/spectrometry), [question:spectrometry](../tag/question:spectrometry), [first-time-poster](../tag/first-time-poster)
 
+----
+
 Would a webcam based spectrometer be able to measure UVA spectra? (in the region of 350-400nm) How deep into UV are webcams usually sensitive to?
 
   

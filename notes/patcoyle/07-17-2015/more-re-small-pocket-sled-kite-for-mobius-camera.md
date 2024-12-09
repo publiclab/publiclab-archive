@@ -8,11 +8,15 @@ uid: 77
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/010/702/original/screenshot_contact_sheet2.jpg)
+
 # More re: small pocket sled kite for Mobius camera
 
 by [patcoyle](../profile/patcoyle) July 17, 2015 05:19
 
 July 17, 2015 05:19 | Tags: [kap](../tag/kap), [sled-kite](../tag/sled-kite), [gimp](../tag/gimp), [mobius-actioncam](../tag/mobius-actioncam)
+
+----
 
 ###What I want to do
 Continue to explore smaller kites for use with [Mobius Infragram plant cam](http://publiclab.org/wiki/infragram-point-shoot). [See prior note.

@@ -8,11 +8,15 @@ uid: 461120
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/015/848/original/2strkmtroilapr28.JPG)
+
 # Using Ethyl acetate as a primary solvent for non-polar compounds
 
 by [dhaffnersr](../profile/dhaffnersr) April 28, 2016 21:06
 
 April 28, 2016 21:06 | Tags: 
+
+----
 
 The picture above is the exact samples I used for this test on using Ethyl acetate for a primary solvent. The first thing you will notice is the difference in color, the sample on the left was the control used as a reference ( undiluted 2 stroke motor oil,) the sample on the right is 2 stroke motor oil dissolved in Ethyl acetate - chemical formula= C4H8O2. 
 

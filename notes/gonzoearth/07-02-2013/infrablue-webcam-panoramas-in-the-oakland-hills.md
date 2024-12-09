@@ -8,11 +8,15 @@ uid: 12
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/000/636/original/Infrablue-Panorama-Skyline-June-2013.jpg)
+
 # Infrablue Webcam Panoramas in the Oakland Hills
 
 by [gonzoearth](../profile/gonzoearth) July 02, 2013 22:37
 
 July 02, 2013 22:37 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [conversion](../tag/conversion), [infragram](../tag/infragram), [response:8285](../tag/response:8285), [infragram-camera-testing](../tag/infragram-camera-testing)
+
+----
 
 Using [Camera Bench](http://publiclab.org/notes/gonzoearth/07-02-2013/camera-bench-for-mac) I made several panorama images around the hills in Oakland, California.
 

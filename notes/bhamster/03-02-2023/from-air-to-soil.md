@@ -14,6 +14,8 @@ by [bhamster](../profile/bhamster) March 02, 2023 22:07
 
 March 02, 2023 22:07 | Tags: [csf](../tag/csf), [community-science-forum](../tag/community-science-forum), [student-community-science](../tag/student-community-science), [classroom-community-science](../tag/classroom-community-science), [csf18](../tag/csf18)
 
+----
+
 **A version of this story by high school student Kai is published in Public Lab's _Community Science Forum_, Issue 18. Read more from this issue <a href="https://publiclab.org/forum#Issue+18+Student-Led+Community+Science+Projects+(Summer+2021)">here</a>.**
 
 **What Began This Experiment**

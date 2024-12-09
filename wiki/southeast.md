@@ -14,6 +14,8 @@ by [wward1400](../profile/wward1400), [stevie](../profile/stevie), [liz](../prof
 
 May 21, 2014 15:15 | Tags: [list:plots-southeast](../tag/list:plots-southeast), [tabbed:notes](../tag/tabbed:notes), [tabbed:wikis](../tag/tabbed:wikis), [region](../tag/region)
 
+----
+
 This is a regional page for the Public Lab community in the southeastern United States, reaching from the Appalachian mountains to the coastal plain. It sometimes reaches as far west as the Mississippi River, is bounded to the south by the [Gulf Coast region](http://publiclab.org/wiki/gulf-coast), and to the north by [Midwest](http://publiclab.org/wiki/midwest) and [Northeast](http://publiclab.org/wiki/northeast). Join the mailing list--plots-southeast--in the left sidebar. Also, look through the places listed below and see if your locality is already organizing locally. If so, join its local mailing list and subscribe to relevant tags on the website.
 
 ###Organizers in the Southeast Region
@@ -63,4 +65,4 @@ This is a regional page for the Public Lab community in the southeastern United 
 * Beaufort map: http://publiclaboratory.org/notes/adam-griffith/9-10-2011/students-map-campus-univerity-south-carolina-beaufort-south
 
 ###Notes
-[notes:southeast]
+[southeast](../../tag/southeast)

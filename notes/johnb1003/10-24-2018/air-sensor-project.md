@@ -8,11 +8,15 @@ uid: 556306
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/028/954/original/fullsizeoutput_364.jpeg)
+
 # Air Sensor Project
 
 by [johnb1003](../profile/johnb1003) October 24, 2018 19:26
 
 October 24, 2018 19:26 | Tags: [particulate-sensing](../tag/particulate-sensing), [amherst](../tag/amherst), [massachusetts](../tag/massachusetts), [air-quality](../tag/air-quality), [umass-amherst](../tag/umass-amherst), [dust](../tag/dust), [pm](../tag/pm), [dust-monitoring](../tag/dust-monitoring), [dht22](../tag/dht22), [shinyei](../tag/shinyei), [air-sensing](../tag/air-sensing), [air-sensors](../tag/air-sensors), [air-sensor-projects](../tag/air-sensor-projects)
+
+----
 
 Disclaimer: This project is still a work in progress! I adopted the project from a group of undergrad students that previously attended UMass Amherst and have since graduated. The function of this particular air sensor is to take measurements of air temperature, humidity, and dust particulate (in parts-per million). Here is a link for the sensor I was handed last year:
 

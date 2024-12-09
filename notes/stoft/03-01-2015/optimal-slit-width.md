@@ -8,11 +8,15 @@ uid: 54025
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/009/136/original/P3U-435nm.gif)
+
 # Optimal Slit Width
 
 by [stoft](../profile/stoft) March 01, 2015 20:39
 
 March 01, 2015 20:39 | Tags: [spectrometer](../tag/spectrometer), [slit](../tag/slit), [slit-width](../tag/slit-width)
+
+----
 
 The PLab spectrometers use a thin slit to provide pseudo-collimated light which has been effective at displaying reasonably good detail for sources like the CFL. The CFL spectra contains several known wavelength emissions and is therefore convenient for calibration. However, there has remained the question of what is the "best" slit width; where "narrower" is assumed better. A number of users have also experimented with slit widths and even constructed mechanically-variable slits -- a difficult task.
 

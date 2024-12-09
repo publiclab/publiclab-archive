@@ -8,11 +8,15 @@ uid: 461120
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/018/004/original/CFL_cal_sept10_test002.png)
+
 # A Near Perfect CFL (compact fluorescent light) Calibration
 
 by [dhaffnersr](../profile/dhaffnersr) September 10, 2016 09:52
 
 September 10, 2016 09:52 | Tags: 
+
+----
 
 I had to run another slit width test verification, so I used Plab's spectral workbench 2.0 online to do a CFL calibration to get a resolution image of my 0.06mm slit width.
 

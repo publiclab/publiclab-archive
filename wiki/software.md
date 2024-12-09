@@ -14,6 +14,8 @@ by [liz](../profile/liz), [warren](../profile/warren)
 
 January 22, 2014 23:07 | Tags: [mapknitter](../tag/mapknitter), [spectralworkbench](../tag/spectralworkbench), [software](../tag/software), [plots2](../tag/plots2), [infragram](../tag/infragram), [web](../tag/web), [code](../tag/code), [coding](../tag/coding), [parent:developers](../tag/parent:developers)
 
+----
+
 Public Lab has developed a number of open source software platforms to assist in the collection, analysis, storage, sharing, and conversion of data from our open source tools. The data storage and sharing websites MapKnitter.org, SpectralWorkbench.org, and Infragram.org provide long-term storage for locally produced data, and convert and present that data in open, standard formats which are easy to use for the press, "scientists", and other advocacy groups while providing community researchers with a forum to discuss, interpret, and compare their data. 
 
 For example, activists mapping oil contamination from the BP oil spill and those mapping water pollution in the Gowanus Canal have thoroughly documented their work on the Public Lab platform, publishing research notes as well as embeddable web maps at MapKnitter.org. They have also achieved widespread media attention for their work, as well as, in NYC , a place on the EPA community committee involved in the canal cleanup project.

@@ -8,11 +8,15 @@ uid: 420530
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/003/072/original/Screen_Shot_2014-02-05_at_9.25.06_PM.png)
+
 # Evaluation of Pesticide Residues in Organic Raspberries using Different Extraction Solvents
 
 by [silverhammer](../profile/silverhammer) February 27, 2014 22:03
 
 February 27, 2014 22:03 | Tags: [spectrometer](../tag/spectrometer), [agriculture](../tag/agriculture), [pesticides](../tag/pesticides), [extraction](../tag/extraction), [reagents](../tag/reagents), [raspberries](../tag/raspberries), [organic](../tag/organic), [response:10014](../tag/response:10014), [solvents](../tag/solvents)
+
+----
 
 ####**Purpose**
 Explore alternative extract solvents that are easier to work with or more readily accessible than what is used as the extraction solvent in the pesticide detection kit from RenekaBio (part# 003RT).   

@@ -8,11 +8,15 @@ uid: 343508
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/019/420/original/Screenshot_%28211%29.png)
+
 # TechRaking: Sensing the News
 
 by [Matt_P](../profile/Matt_P) February 02, 2017 18:27
 
 February 02, 2017 18:27 | Tags: [community](../tag/community), [event](../tag/event), [sensors](../tag/sensors), [engagement](../tag/engagement)
+
+----
 
 https://www.eventbrite.com/e/techraking-sensing-the-news-tickets-30473667560
 

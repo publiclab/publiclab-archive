@@ -14,6 +14,8 @@ by [noah_ben_furman](../profile/noah_ben_furman) November 14, 2022 20:19
 
 November 14, 2022 20:19 | Tags: [water-quality](../tag/water-quality), [lat:44](../tag/lat:44), [zoom:8](../tag/zoom:8), [mn-land-manoomin-protection](../tag/mn-land-manoomin-protection), [lon:-93](../tag/lon:-93), [minneosta](../tag/minneosta)
 
+----
+
 What do you do when a corporation decides the area next to your house is the prime area for a nickel mine? This is the exact question being asked in Northern Minnesota as Talon Metals is quickly working to open a mine to provide nickel for the nation's infrastructure and car batteries.  
 
 In early 2020, Talon Metals Corporation announced their plans to partner up with Rio-Tinto, the multinational mining company, to open a nickel mine in the small town of Tamarack, Minnesota. The Talon-Rio Tinto mine would be the first large scale nickel mine in the United States, drawing attention from industry leaders across the globe in direct opposition to the movement for sustainable projects that are good for the people and the planet. Nickel is an essential material in the construction of car batteries, making it particularly important for electric car manufacturers.   

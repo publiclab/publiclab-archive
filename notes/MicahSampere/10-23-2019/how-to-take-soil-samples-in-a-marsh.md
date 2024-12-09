@@ -14,4 +14,6 @@ by [MicahSampere](../profile/MicahSampere) October 23, 2019 14:36
 
 October 23, 2019 14:36 | Tags: [gulf-coast](../tag/gulf-coast), [wetlands](../tag/wetlands), [soil](../tag/soil), [new-orleans](../tag/new-orleans), [erosion](../tag/erosion), [marsh](../tag/marsh), [soil-testing](../tag/soil-testing), [soil-sampling](../tag/soil-sampling), [question:soil-sampling](../tag/question:soil-sampling), [soil-analysis](../tag/soil-analysis), [question:wetlands](../tag/question:wetlands), [question:soil](../tag/question:soil), [with:jeanell873](../tag/with:jeanell873)
 
+----
+
 A classmate and I are currently looking to sample Marsh Soil for our Environmental Sustainability Project. For our purposes, we need a Marsh Core sample. We plan on taking a few samples, and from that we hope to possibly find out and test the soils for things such as soil composition, erodability, pH, compactability, soil organism content, and contaminant content. We were wondering if anybody has experience involving sampling Marsh soil that could help direct us in the right direction. We still are unsure on what to the proper tool to use to core sample (for example some people have used large PVC pipes), we are also unsure on the proper depth that needed to make an effective core sample in the case of a Marsh, and any other information on this topic would be greatly appreciated.

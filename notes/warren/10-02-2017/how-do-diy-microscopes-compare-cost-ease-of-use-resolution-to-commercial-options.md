@@ -14,6 +14,8 @@ by [warren](../profile/warren) October 02, 2017 18:28
 
 October 02, 2017 18:28 | Tags: [dust](../tag/dust), [particulates](../tag/particulates), [pm](../tag/pm), [microscopes](../tag/microscopes), [question:microscopes](../tag/question:microscopes)
 
+----
+
 For folks to decide whether a DIY microscope is a worthwhile approach in (for example) looking at dust pollution samples, how do some of the DIY options compare on:
 
 * price

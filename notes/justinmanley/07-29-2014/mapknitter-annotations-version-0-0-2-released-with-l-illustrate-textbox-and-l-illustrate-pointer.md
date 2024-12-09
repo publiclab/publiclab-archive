@@ -8,11 +8,15 @@ uid: 421556
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/005/650/original/header.png)
+
 # MapKnitter Annotations: Version 0.0.2 released with L.Illustrate.Textbox and L.Illustrate.Pointer
 
 by [justinmanley](../profile/justinmanley) July 29, 2014 07:02
 
 July 29, 2014 07:02 | Tags: [mapknitter](../tag/mapknitter), [gsoc](../tag/gsoc), [gsoc-2014](../tag/gsoc-2014), [annotations](../tag/annotations)
+
+----
 
 ### Background ###
 

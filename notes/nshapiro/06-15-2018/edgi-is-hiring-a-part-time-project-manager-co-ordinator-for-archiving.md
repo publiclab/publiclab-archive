@@ -8,11 +8,15 @@ uid: 380298
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/025/227/original/EDGI_Logo-Stacked_Web_1200x862-1024x736.jpg)
+
 # EDGI is Hiring a Part-Time Project Manager/Co-ordinator for Archiving!
 
 by [nshapiro](../profile/nshapiro) June 15, 2018 19:13
 
 June 15, 2018 19:13 | Tags: [database](../tag/database), [jobs](../tag/jobs), [edgi](../tag/edgi), [archiving](../tag/archiving)
+
+----
 
 Position Summary
 

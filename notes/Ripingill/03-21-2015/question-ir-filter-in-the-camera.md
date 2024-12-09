@@ -14,4 +14,6 @@ by [Ripingill](../profile/Ripingill) March 21, 2015 20:12
 
 March 21, 2015 20:12 | Tags: [question:spectrometry](../tag/question:spectrometry), [answered](../tag/answered)
 
+----
+
 Can the IR filter in the camera of the desktop spectrometry kit 3.0 be removed for IR analysis?

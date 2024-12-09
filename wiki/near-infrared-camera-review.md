@@ -14,6 +14,8 @@ by [gonzoearth](../profile/gonzoearth)
 
 January 19, 2012 00:40 | Tags: 
 
+----
+
 Questions for Near Infrared Camera
 staff notes:
 

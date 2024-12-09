@@ -3,6 +3,8 @@ uid: 524509
 created_at: 2018-02-06 13:08:19 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/524509/medium/smallProfile.jpg)
+
 # souravirus
 
 I am a Computer Science Student at NIT Hamirpur. I like to contribute in open source. I have done Google Summer of Code 2018 in Public Lab. I am also currently mentoring for Google Code-in in the same organisation. I also like to participate in coding competitions. 

@@ -8,11 +8,15 @@ uid: 1083
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/012/596/original/IMG_4154_-_Oil_asphalt_%28640x480%29.jpg)
+
 # Oil testing kit Beta programme - Scanning the unknown & the not so well known…
 
 by [cindy_excites](../profile/cindy_excites) November 09, 2015 18:07
 
 November 09, 2015 18:07 | Tags: [spectrometer](../tag/spectrometer), [calibration](../tag/calibration), [fluorescence](../tag/fluorescence), [spectrometer-calibration](../tag/spectrometer-calibration), [oil-testing-kit](../tag/oil-testing-kit), [oil-testing-kit-beta](../tag/oil-testing-kit-beta), [oil-testing-kit-beta-calibration](../tag/oil-testing-kit-beta-calibration), [response:12366](../tag/response:12366)
+
+----
 
 ###[Oil testing kit Beta programme](http://publiclab.org/notes/ygzstc/07-14-2015/oil-testing-kit-beta-program) - Scanning the unknown & the not so well known…
 

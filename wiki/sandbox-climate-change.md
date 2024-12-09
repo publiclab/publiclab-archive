@@ -14,6 +14,8 @@ by [bhamster](../profile/bhamster), [muthaliganesh77](../profile/muthaliganesh77
 
 July 23, 2020 14:42 | Tags: 
 
+----
+
 Through more extreme weather events, rising sea levels, and rising global temperatures, climate change impacts the health of our communities in many ways [1]. Throughout Public Lab you’ll find tools and resources to research and monitor the effects of climate change on your local environment. From water quality to air quality to disaster response, many of the environmental issues addressed on Public Lab connect back to climate change and its impacts. 
 
 This page is a place to collect and organize resources on taking climate action through community science. Visit the [climate change tag page](https://publiclab.org/tag/climate-change) to see the latest community posts about climate change on Public Lab, and click the button below to subscribe to `climate-change` and get updates on this topic.
@@ -60,7 +62,7 @@ Learn about <a href="/wiki/sandbox-climate-change#Next+step+challenges">next ste
 + Ask a question so other community members can offer support
 + Sign up below to be notified when someone asks a climate change question.
 
-[questions:climate-change]
+[climate-change](../../tag/question:climate-change)
 <br>
 
 ### Post an Issue Brief
@@ -150,7 +152,7 @@ _Please contribute your ideas here!_
 
 Posts written by Public Lab community members and tagged with `climate-change` will appear here
 
-[notes:climate-change!question:climate-change]
+[climate-change!question:climate-change](../../tag/climate-change!question:climate-change)
 
 <br>
 
@@ -158,7 +160,7 @@ Posts written by Public Lab community members and tagged with `climate-change` w
 
 Activities on Public Lab that have been tagged with `climate-change` will appear here
 
-[activities:climate-change]
+[climate-change](../../tag/activity:climate-change)
 
 <br>
 <hr>

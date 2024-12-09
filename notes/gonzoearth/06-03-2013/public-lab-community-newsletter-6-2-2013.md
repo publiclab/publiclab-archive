@@ -8,11 +8,15 @@ uid: 12
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/000/468/original/Boots-ground-02_%281%29.png)
+
 # Public Lab Community Newsletter 6.2.2013
 
 by [gonzoearth](../profile/gonzoearth) June 03, 2013 06:07
 
 June 03, 2013 06:07 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
+
+----
 
 Many different links to share this week from the ongoing infrared photography fundraising and some of the highlights from a busy week of research, news, and events.
 

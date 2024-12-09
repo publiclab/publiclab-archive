@@ -14,6 +14,8 @@ by [Shannon](../profile/Shannon)
 
 March 19, 2015 15:06 | Tags: [air-quality](../tag/air-quality), [formaldehyde](../tag/formaldehyde), [roomba](../tag/roomba), [wherewebreathe](../tag/wherewebreathe), [indoor-air-quality](../tag/indoor-air-quality)
 
+----
+
 The current work on indoor air sensing through the Where We Breathe project is located here: http://publiclab.org/wiki/roomba-indoor-air-quality-mapping
 ___________________________________________________________________________________________
 

@@ -8,11 +8,15 @@ uid: 420662
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/002/820/original/20140202_132331.jpg)
+
 # The RIFFLE Effect: Public Lab's New Pilot Water Monitoring Sensor Tool
 
 by [lilybui](../profile/lilybui) February 07, 2014 19:58
 
 February 07, 2014 19:58 | Tags: [water-quality](../tag/water-quality), [water](../tag/water), [water-monitoring](../tag/water-monitoring), [toolshed-raising](../tag/toolshed-raising), [riffle](../tag/riffle), [first-time-poster](../tag/first-time-poster)
+
+----
 
 <h3><em>Public Lab announces RIFFLE, a new pilot program and open sensor tool to monitor water quality of Mystic River in Massachusetts.</em></h3>
 

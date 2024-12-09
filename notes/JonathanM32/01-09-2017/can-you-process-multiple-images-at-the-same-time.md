@@ -14,6 +14,8 @@ by [JonathanM32](../profile/JonathanM32) January 09, 2017 16:05
 
 January 09, 2017 16:05 | Tags: [question:infragram](../tag/question:infragram), [question:question](../tag/question:question)
 
+----
+
 ###What I want to do or know
 So I am neew to Infragram and I want to know how to batch process multiple Images.
 ###Background story

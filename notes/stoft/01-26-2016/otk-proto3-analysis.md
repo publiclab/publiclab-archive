@@ -8,11 +8,15 @@ uid: 54025
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/013/846/original/OTKP3_6-SAMPLE_ANALYSIS.gif)
+
 # OTK Proto3 Analysis
 
 by [stoft](../profile/stoft) January 26, 2016 00:12
 
 January 26, 2016 00:12 | Tags: [spectrometer](../tag/spectrometer), [oil](../tag/oil), [laser](../tag/laser), [oil-testing-kit](../tag/oil-testing-kit), [barnstar:empiricism](../tag/barnstar:empiricism), [otk](../tag/otk), [otkbeta](../tag/otkbeta), [dilution](../tag/dilution), [wow](../tag/wow), [response:12593](../tag/response:12593), [grading-oils](../tag/grading-oils)
+
+----
 
 **Preface**
 

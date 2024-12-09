@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/012/667/original/IMG_6002_3_small.gif)
+
 # pictures from LlactaLab workshop
 
 by [liz](../profile/liz) November 10, 2015 17:10
 
 November 10, 2015 17:10 | Tags: [ecuador](../tag/ecuador), [llactalab](../tag/llactalab), [cuenca](../tag/cuenca)
+
+----
 
 _Top image: making the papercraft cuvette holder for oil testing._ 
 

@@ -8,11 +8,15 @@ uid: 20
 
 ---
 
+![](https://publiclab.org/sites/default/files/Screen shot 2011-06-28 at 1.03.31 PM.png)
+
 # 3D Point Cloud
 
 by [lpercifield](../profile/lpercifield) June 28, 2011 17:07
 
 June 28, 2011 17:07 | Tags: [first-time-poster](../tag/first-time-poster)
+
+----
 
 There has been a lot of talk about creating 3D point clouds from raster data, including images created using grassroots mapping. The simplest tool that is currently available is the closed source Photosynth application from Microsoft. I uploaded a set of images from the Knight News Challenge conference and <a href="http://photosynth.net/view.aspx?cid=3c19fc14-8479-48ac-84fb-e406450fb449">this</a> is what was created. 
 

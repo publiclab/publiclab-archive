@@ -8,11 +8,15 @@ uid: 4
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/001/687/original/IMG_0234.JPG)
+
 # telephone poles & streetlights at sunset
 
 by [mathew](../profile/mathew) September 26, 2013 06:42
 
 September 26, 2013 06:42 | Tags: [spectrometer](../tag/spectrometer)
+
+----
 
 ##What I want to do
 resolve open questions from my [last batch of slit tests.](/notes/mathew/09-25-2013/photo-printed-collimation-slit-for-the-backpack-spectrometer)

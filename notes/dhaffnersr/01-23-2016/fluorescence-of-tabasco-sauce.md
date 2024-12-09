@@ -8,11 +8,15 @@ uid: 461120
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/013/779/original/finalbootsy.jpg)
+
 # Fluorescence of tabasco sauce
 
 by [dhaffnersr](../profile/dhaffnersr) January 23, 2016 20:16
 
 January 23, 2016 20:16 | Tags: 
+
+----
 
 This is a test tube with ethyl alcohol 70% with 60 drops of Tabasco sauce and 1 drop of eosin Y
 

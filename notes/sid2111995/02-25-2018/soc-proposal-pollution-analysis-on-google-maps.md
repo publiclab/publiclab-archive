@@ -8,11 +8,15 @@ uid: 526051
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/023/706/original/airpol.png)
+
 # SoC proposal: Pollution analysis on google maps
 
 by [sid2111995](../profile/sid2111995) February 25, 2018 10:04
 
 February 25, 2018 10:04 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [soc](../tag/soc), [response:13975](../tag/response:13975), [gsoc-2018](../tag/gsoc-2018), [soc-2018](../tag/soc-2018), [soc-2018-proposals](../tag/soc-2018-proposals), [first-time-poster](../tag/first-time-poster)
+
+----
 
 (This template is for students applying to summer code programs with Public Lab. Use this link to start writing a post: [https://publiclab.org/post?n=899&tags=soc,soc-2018,soc-2018-proposals](https://publiclab.org/post?n=899&tags=soc,soc-2018,soc-2018-proposals) You can delete this line once you've started filling it out.)
 

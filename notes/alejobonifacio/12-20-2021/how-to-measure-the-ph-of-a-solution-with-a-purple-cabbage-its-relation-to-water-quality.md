@@ -8,11 +8,15 @@ uid: 639376
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/045/269/original/Purple_cabagge_activity.png)
+
 # How to measure the pH of a solution with a purple cabbage? Its relation to water quality
 
 by [alejobonifacio](../profile/alejobonifacio) December 20, 2021 13:50
 
 December 20, 2021 13:50 | Tags: [education](../tag/education), [classroom](../tag/classroom), [water-quality](../tag/water-quality), [open-water](../tag/open-water), [new](../tag/new), [ph](../tag/ph), [activity:education](../tag/activity:education), [activity:water-quality](../tag/activity:water-quality), [activity:classroom](../tag/activity:classroom), [activity:ph](../tag/activity:ph), [activity:new](../tag/activity:new), [lat:-30](../tag/lat:-30), [zoom:6](../tag/zoom:6), [zoom:11](../tag/zoom:11), [research-curation-fellows](../tag/research-curation-fellows), [lon:-63](../tag/lon:-63), [lon:-64.2](../tag/lon:-64.2), [lat:-31.2](../tag/lat:-31.2)
+
+----
 
 The pH or hydrogen potential of a solution is a relevant variable when it comes to determining the quality of water, whether it is a drink or an aquatic environment. There are several proprietary commercial tools of varying complexity and precision to measure this parameter. However, for this activity we intend to use natural pigments that are sensitive to this parameter and thus be able to measure pH with elements that are available to anyone.  
 An environmental friendly method exist for pH determination of water samples. The _Brasica oleracea_ cabage has high concentration of anthocyanins pigments that are sensitive to pH changes of a solution. This fact has been documented in several reseach papers that explore it potencial:  

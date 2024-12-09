@@ -8,11 +8,15 @@ uid: 381809
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/004/996/original/DustDuino_Logo.jpg)
+
 # Broadcast dust readings from a smartphone
 
 by [Schroyer](../profile/Schroyer) June 26, 2014 01:35
 
 June 26, 2014 01:35 | Tags: [particulate-sensing](../tag/particulate-sensing), [air-quality](../tag/air-quality), [dustduino](../tag/dustduino), [dust](../tag/dust), [particulates](../tag/particulates), [particulate](../tag/particulate), [pm](../tag/pm), [dylos](../tag/dylos), [air-sensors](../tag/air-sensors)
+
+----
 
 The DustDuino project has been working for several months with environmental journalists around the globe thanks to a collaboration with the Earth Journalism Network. Based on the Shinyei dust sensor, which can detect airborne particulate matter in the PM10 and PM2.5 ranges, the DustDuino is an Arduino-based sensor node.
 

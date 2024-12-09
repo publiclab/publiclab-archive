@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/5179497260_ded9e70167_o.jpg)
+
 # Balloon Mapping iPad app
 
 by [warren](../profile/warren) May 26, 2011 17:06
 
 May 26, 2011 17:06 | Tags: 
+
+----
 
 (above image by [Gret Curtis, CC-BY](https://www.flickr.com/photos/77692232@N00/5179497260/))
 

@@ -8,11 +8,15 @@ uid: 304279
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/006/489/original/SERMACS_Logo.png)
+
 # SE Regional Meeting of the Amer. Chem. Soc.
 
 by [JSummers](../profile/JSummers) September 01, 2014 16:49
 
 September 01, 2014 16:49 | Tags: [event](../tag/event), [event:rsvp](../tag/event:rsvp), [response:11084](../tag/response:11084), [date:10-18-2014](../tag/date:10-18-2014)
+
+----
 
 ###What I want to do
 I want to sell WheeStats to all the chemistry departments in the southeast.

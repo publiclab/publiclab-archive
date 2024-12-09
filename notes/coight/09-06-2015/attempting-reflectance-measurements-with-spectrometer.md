@@ -8,11 +8,15 @@ uid: 424607
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/011/496/original/sectralgraphs.jpg)
+
 # Attempting reflectance measurements with spectrometer
 
 by [coight](../profile/coight) September 06, 2015 01:06
 
 September 06, 2015 01:06 | Tags: [spectrometer](../tag/spectrometer), [oil](../tag/oil), [kit](../tag/kit), [test](../tag/test), [response:12074](../tag/response:12074)
+
+----
 
 ###What I want to do
  I am trying to undertake reflectance measurements from a version of the public lab spectrometer mounted on a robot

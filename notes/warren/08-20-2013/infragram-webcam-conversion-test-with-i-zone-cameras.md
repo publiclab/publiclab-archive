@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/001/240/original/IMG_0217.JPG)
+
 # Infragram webcam conversion test with I Zone cameras
 
 by [warren](../profile/warren) August 20, 2013 18:07
 
 August 20, 2013 18:07 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [kickstarter](../tag/kickstarter), [webcam](../tag/webcam), [infragram](../tag/infragram), [infragram-conversion](../tag/infragram-conversion)
+
+----
 
 [Ongoing tests of candidates](/tag/infragram-conversion) for the [Infragram Webcam](http://kickstarter.com/projects/publiclab/infragram-the-infrared-photography-project) have gone relatively poorly to date, but over the weekend I received a number of samples from [I Zone Technologies](http://www.cgtzone.com/) and while I was initially a bit intimidated at the prospect of converting them, I Zone staff helpfully recommended that the best way to remove the filters was to unscrew the lenses, even though they were inside auto-focus mechanisms (see above). The models I dealt with were the UMBMU and the UM2CU, 5 and 2 megapixels, respectively. They are TINY.
 

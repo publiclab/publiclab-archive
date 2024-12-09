@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/HD_webbannerV2.jpg)
+
 # Rent FLIR thermal infrared cameras at some Home Depots
 
 by [warren](../profile/warren) May 25, 2011 03:52
 
 May 25, 2011 03:52 | Tags: [thermal-photography](../tag/thermal-photography), [flir](../tag/flir), [activity:thermal-photography](../tag/activity:thermal-photography)
+
+----
 
 I wonder how much it costs? I think I'll give them a call.
 

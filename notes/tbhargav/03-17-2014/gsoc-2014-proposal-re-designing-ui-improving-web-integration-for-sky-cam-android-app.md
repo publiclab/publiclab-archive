@@ -8,11 +8,15 @@ uid: 421490
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/003/292/original/skycamguimockupdraft.png)
+
 # [GSoC 2014 Proposal] Re-designing UI, Improving Web integration for Sky Cam Android app
 
 by [tbhargav](../profile/tbhargav) March 17, 2014 03:32
 
 March 17, 2014 03:32 | Tags: [gsoc](../tag/gsoc)
+
+----
 
 
 ###Name and Contact Information

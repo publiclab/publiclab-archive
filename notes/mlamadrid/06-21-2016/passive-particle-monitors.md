@@ -8,11 +8,15 @@ uid: 45586
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/016/701/original/10_26_15_PG1_9_20x.tif)
+
 # Passive Particle Monitors
 
 by [mlamadrid](../profile/mlamadrid) June 21, 2016 20:45
 
 June 21, 2016 20:45 | Tags: [frac-sand](../tag/frac-sand), [particle-monitoring](../tag/particle-monitoring), [with:mathew](../tag/with:mathew), [passive-particle-monitors](../tag/passive-particle-monitors), [passive-pm](../tag/passive-pm), [parent:frac-sand](../tag/parent:frac-sand), [communityscienceforum](../tag/communityscienceforum)
+
+----
 
 Article by [Mathew Lippincott](https://publiclab.org/profile/mathew) for [Community Science Forum: Sand-Frac Issue](https://publiclab.org/forum).
 

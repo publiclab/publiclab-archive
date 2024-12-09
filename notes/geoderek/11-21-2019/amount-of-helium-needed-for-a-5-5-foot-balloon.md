@@ -14,6 +14,8 @@ by [geoderek](../profile/geoderek) November 21, 2019 14:31
 
 November 21, 2019 14:31 | Tags: [balloon-mapping](../tag/balloon-mapping), [mapping](../tag/mapping), [balloon](../tag/balloon), [helium](../tag/helium), [question:general](../tag/question:general), [general](../tag/general)
 
+----
+
 Hello, 
 
 I am hoping someone with balloon mapping experience can answer my question or direct me to a resource to identify the correct size tank need for 1 flight. Of course, I will want to have more than one flight, but I am trying to get the minimum specs down for now. 

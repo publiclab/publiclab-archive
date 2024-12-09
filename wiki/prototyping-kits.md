@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/022/826/original/Screen_Shot_2017-11-22_at_2.13.38_PM.png)
+
 # Prototyping Kits
 
 by [warren](../profile/warren)
 
 August 04, 2017 18:53 | Tags: [kits](../tag/kits), [parent:kits](../tag/parent:kits), [kits-initiative](../tag/kits-initiative), [prototyping](../tag/prototyping), [prototyping-kits](../tag/prototyping-kits)
+
+----
 
 Prototyping Kits offered by the Public Lab Kits Initiative are in-development kits which we send out for people to help prototype and experiment with, in order to refine and improve. These help support the development of new techniques for monitoring environmental problems. We call these **Prototyping Kits** and they come with a list of challenges and problems to solve.
 
@@ -29,4 +33,4 @@ The [Mini Balloon Kit](/wiki/mini-balloon-kit) and [Mini Kite Kit](/wiki/mini-ki
 
 ## Questions
 
-[questions:prototyping-kits]
+[prototyping-kits](../../tag/question:prototyping-kits)

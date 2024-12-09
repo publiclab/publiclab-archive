@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/033/202/original/phases.png)
+
 # musings on conflict resilience
 
 by [liz](../profile/liz) June 25, 2019 20:44
 
 June 25, 2019 20:44 | Tags: [conduct](../tag/conduct)
+
+----
 
 As i'm preparing to shepherd a revision process for our 2016 Code of Conduct, a metaphor came to mind that i'd like to share out early in order to get your feedback.
 

@@ -14,6 +14,8 @@ by [fongvania](../profile/fongvania) July 29, 2021 01:37
 
 July 29, 2021 01:37 | Tags: [fundraising](../tag/fundraising), [question:general](../tag/question:general), [general](../tag/general), [research-curation-fellows](../tag/research-curation-fellows), [community-monitoring-costs](../tag/community-monitoring-costs), [funding](../tag/funding), [question:funding](../tag/question:funding)
 
+----
+
 What types of organizations, programs, or grants have you had success with? In college my school had a grant specifically for environmental projects, and I would suspect other schools also have similar grants, but I don't have a good sense of where to start looking for funding outside of college.
 
 Related question - https://publiclab.org/questions/Greenhorns/06-02-2021/tips-about-seeking-funding-for-water-testing

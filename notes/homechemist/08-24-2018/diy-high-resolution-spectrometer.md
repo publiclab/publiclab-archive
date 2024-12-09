@@ -8,11 +8,15 @@ uid: 212574
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/026/328/original/template.jpg)
+
 # DIY High resolution spectrometer
 
 by [homechemist](../profile/homechemist) August 24, 2018 16:21
 
 August 24, 2018 16:21 | Tags: [spectrometer](../tag/spectrometer), [spectroscopy](../tag/spectroscopy), [chemistry](../tag/chemistry)
+
+----
 
 \*\*
 

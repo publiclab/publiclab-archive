@@ -14,6 +14,8 @@ by [laurel_mire](../profile/laurel_mire), [bhamster](../profile/bhamster), [liz]
 
 April 19, 2013 01:26 | Tags: [help](../tag/help), [authoring](../tag/authoring), [markdown](../tag/markdown), [authoring-help](../tag/authoring-help), [parent:website](../tag/parent:website)
 
+----
+
 ### Intro video
 
 <iframe width="560" height="460" src="//www.youtube.com/embed/rsy__zTTh8c" frameborder="0" allowfullscreen></iframe>

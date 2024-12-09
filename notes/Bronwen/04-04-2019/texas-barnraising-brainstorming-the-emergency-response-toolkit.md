@@ -8,11 +8,15 @@ uid: 237313
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/031/019/original/IMG_5076.JPG)
+
 # Texas Barnraising: Brainstorming the Emergency Response Toolkit 
 
 by [Bronwen](../profile/Bronwen) April 04, 2019 12:32
 
 April 04, 2019 12:32 | Tags: [barnraising](../tag/barnraising), [blog](../tag/blog), [texas](../tag/texas), [emergency](../tag/emergency), [crisis-convening](../tag/crisis-convening), [galveston](../tag/galveston), [txbarnraising](../tag/txbarnraising), [lat:29.301347](../tag/lat:29.301347), [lon:-94.797695](../tag/lon:-94.797695), [activity:emergency-response](../tag/activity:emergency-response), [texas-barnraising](../tag/texas-barnraising), [environmental-emergency](../tag/environmental-emergency)
+
+----
 
 This past February at the [Barnraising in Galveson Texas](https://publiclab.org/wiki/barnraising-texas-2019), we began the process of brainstorming about ways that we could equip ourselves better to respond to environmental disasters. We arranged our tools, methods and needs on a poster: a summary of which is below. Because many of the suggestions overlapped or fit into multiple categories, I've If you suggested something and don't see it, or would like to offer your own suggestions, please add your thoughts to the comments below. We'll be expanding this into a wiki page as well, and hope that folks will keep this conversation moving forward!
 

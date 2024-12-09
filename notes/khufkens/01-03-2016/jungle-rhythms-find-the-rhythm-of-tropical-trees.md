@@ -8,11 +8,15 @@ uid: 438931
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/013/495/original/junglerhythms_mini_cards.png)
+
 # Jungle Rhythms - find the rhythm of tropical trees
 
 by [khufkens](../profile/khufkens) January 03, 2016 17:37
 
 January 03, 2016 17:37 | Tags: [forest](../tag/forest), [science](../tag/science), [data](../tag/data), [phenology](../tag/phenology), [citizen](../tag/citizen), [tropical](../tag/tropical), [recovery](../tag/recovery)
+
+----
 
 ###What I want to do / Have done
 

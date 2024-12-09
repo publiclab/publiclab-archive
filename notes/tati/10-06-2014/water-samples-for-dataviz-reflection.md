@@ -14,6 +14,8 @@ by [tati](../profile/tati) October 06, 2014 02:20
 
 October 06, 2014 02:20 | Tags: [sensor-journalism](../tag/sensor-journalism)
 
+----
+
 Sensor Journalism, where science and journalism meet to create a new emerging genre of gathering information.  Lily Bui, from Emerson Engagement Lab,  defines sensor journalism as “ Generating or collecting data from sensors then using that data to tell a story”. Sensors are all around us. It's no question as to why they are now starting to become popular for journalist to use as a tool of gathering information.  As mentioned in the TOW Report _Sensors and Journalism_,  sensor journalism has three distinct styles. The first is to get sensor equipment and collect the data, then there is gathering data from existing data sources, and last is designing a prototype sensing system that will sense data.
  
 This new era of tech savvy journalists allows for newspapers to include fancy infographics that display their data sets in user friendly designs as the TOW report concludes the reader no longer has to sift through a summary of the data set, the reader can now interact with the data.

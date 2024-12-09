@@ -3,6 +3,8 @@ uid: 563601
 created_at: 2018-12-10 15:11:22 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/3923d086da9b59d10fda6ac07da59be6)
+
 # michaelwma
 
 

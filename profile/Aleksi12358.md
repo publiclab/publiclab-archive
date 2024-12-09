@@ -3,6 +3,8 @@ uid: 540470
 created_at: 2018-07-07 20:38:15 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/b3dd151f5bc48e6175605d137415a74d)
+
 # Aleksi12358
 
 

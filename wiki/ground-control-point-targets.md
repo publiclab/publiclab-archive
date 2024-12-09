@@ -14,6 +14,8 @@ by [mathew](../profile/mathew), [gonzoearth](../profile/gonzoearth), [MicheleTob
 
 May 26, 2011 04:40 | Tags: [balloon-mapping](../tag/balloon-mapping), [rectification](../tag/rectification), [ground-control-points](../tag/ground-control-points), [parent:mapping-curriculum](../tag/parent:mapping-curriculum)
 
+----
+
 *As part of the [Grassroots Mapping Curriculum](/wiki/mapping-curriculum) series.*
 
 <p> Sometimes the scenes you create with photos from your balloon or kite can't be referenced to existing georeferenced imagery.  For example, the scale of your photos may be too different (often a much larger geographic scale than commonly available imagery), or your imaged don't match the time scale of the the available reference imagery (such as the last available photo was taken five years ago and too much has changed).  To remedy the problem of not having useful reference imagery to reference your photos to, you can make your own targets that will be clearly visible in your photos, and mark the center of the target with a GPS device.  Then, rather than matching your photos to a reference image, you can use a georefereing program (like the georeferencing plug-in for Quantum GIS) to match your targets with the locations you marked with the GPS.

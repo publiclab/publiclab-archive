@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/013/093/original/2015-11-30T18_24_10.130Z.jpg)
+
 # Bolt and acrylic cuvette holder research
 
 by [warren](../profile/warren) November 30, 2015 19:20
 
 November 30, 2015 19:20 | Tags: [spectrometer](../tag/spectrometer), [fluorescence](../tag/fluorescence), [barnraising](../tag/barnraising), [cuvette](../tag/cuvette), [sampling](../tag/sampling), [oil-testing-kit](../tag/oil-testing-kit), [barnraising-2015](../tag/barnraising-2015), [cuvette-frame](../tag/cuvette-frame)
+
+----
 
 ###What I want to do
 

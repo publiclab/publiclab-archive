@@ -8,11 +8,15 @@ uid: 58398
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/001/164/original/classifier2Test.jpg)
+
 # A little background work for Trapa classification from color
 
 by [ttaylor](../profile/ttaylor) August 16, 2013 01:14
 
 August 16, 2013 01:14 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [amherst](../tag/amherst), [infragram](../tag/infragram), [invasive](../tag/invasive), [classification](../tag/classification), [h2onutz](../tag/h2onutz), [trapa](../tag/trapa)
+
+----
 
  <a href="http://publiclab.org/notes/cfastie/08-02-2013/trapa-detection">Here</a> Chris Fastie was speculating that Trapa Natans should be detectable from balloon mapping data on the basis of it's blue green and/or leaf size.   Classification from color can be problematic, as color depends on a number of factors including the spectral content of the illumination (which depends on the weather, the season and the time of day etc), but all of these images were taken at about the same time on the same day, so I wanted to see what I can do. What follows can be considered a crude color-based classifier.  The good thing about it is that I understand what my decision criteria are in terms of simple statements about color.  Much better can probably be done with a more sophisticated classification scheme.
 

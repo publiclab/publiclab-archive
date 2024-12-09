@@ -3,6 +3,8 @@ uid: 500310
 created_at: 2016-12-19 10:33:08 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/0966b11c227fccbbcf878623ecaaffa4)
+
 # sanchittechnogeek
 
 Hi, I am Sanchit. I am a student, a researcher in robotics, a web developer, a drone specialist and a hardcore tech enthusiast.

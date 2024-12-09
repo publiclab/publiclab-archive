@@ -8,11 +8,15 @@ uid: 564358
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/034/873/original/fwp.png)
+
 # Google Summer of Code 2019 Public Lab Final Work Product: Pranshu Srivastava
 
 by [rexagod](../profile/rexagod) August 25, 2019 23:43
 
 August 25, 2019 23:43 | Tags: [gsoc](../tag/gsoc), [soc](../tag/soc), [gsoc-2019](../tag/gsoc-2019), [soc-2019](../tag/soc-2019), [gsoc-19](../tag/gsoc-19), [soc-19](../tag/soc-19), [gsoc-2019-final-report](../tag/gsoc-2019-final-report), [barnstar:javascript-enthusiasm](../tag/barnstar:javascript-enthusiasm)
+
+----
 
 ## Project Details
 

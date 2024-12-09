@@ -14,6 +14,8 @@ by [JCD](../profile/JCD)
 
 March 07, 2013 10:22 | Tags: 
 
+----
+
 This simple mod allows the slide to be mounted to most cell phones, turning them into digital spectrometers.
 <img src="http://www.lamaredunet.fr/KitGsm/22022008128.jpg" alt="" />
 <img src="http://www.lamaredunet.fr/KitGsm/1.jpg" alt="" />

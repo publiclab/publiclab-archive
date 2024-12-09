@@ -14,6 +14,8 @@ by [eustatic](../profile/eustatic) December 24, 2012 23:07
 
 December 24, 2012 23:07 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing)
 
+----
+
 Chalmette is east of New Orleans, and east of the lower 9th ward.  there are a couple of refineries and a pet coke facility there. 
 
 Murphy refinery, recently acquired by Valero, is known for spilling large quantities of oil into the surrounding neighborhood.

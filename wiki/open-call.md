@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/025/451/original/2017-thankyou-tweet.jpg)
+
 # Open Call
 
 by [bhamster](../profile/bhamster), [liz](../profile/liz), [stevie](../profile/stevie), [joyofsoy](../profile/joyofsoy), [ripon12](../profile/ripon12), [warren](../profile/warren)
 
 August 29, 2017 20:17 | Tags: [events](../tag/events), [lat:51](../tag/lat:51), [parent:events](../tag/parent:events), [locked](../tag/locked), [open-call](../tag/open-call), [calls](../tag/calls), [location:blurred](../tag/location:blurred), [place:canada](../tag/place:canada), [zoom:6](../tag/zoom:6), [lon:-114](../tag/lon:-114)
+
+----
 
 Have a question about environmental monitoring? Not sure where to get started on the Public Lab site? Want to meet others working on environmental exploration around the world? Join us for our weekly Open Call!
 

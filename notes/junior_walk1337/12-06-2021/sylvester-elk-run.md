@@ -8,11 +8,15 @@ uid: 756318
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/045/299/original/Screen_Shot_2022-01-04_at_11.38.18_AM.png)
+
 # Sylvester/Elk Run
 
 by [junior_walk1337](../profile/junior_walk1337) December 06, 2021 14:31
 
 December 06, 2021 14:31 | Tags: [drones](../tag/drones), [west-virginia](../tag/west-virginia), [water-quality](../tag/water-quality), [coal](../tag/coal), [zoom:7](../tag/zoom:7), [lat:38.010383](../tag/lat:38.010383), [lon:-81.557613](../tag/lon:-81.557613)
+
+----
 
 <iframe width="1280" height="675" src="https://www.youtube.com/embed/QJvfQULuoP4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 

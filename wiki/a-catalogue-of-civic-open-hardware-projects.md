@@ -14,6 +14,8 @@ by [tomasdiez](../profile/tomasdiez), [jalbertbowdenii](../profile/jalbertbowden
 
 July 19, 2014 19:25 | Tags: [open-hardware](../tag/open-hardware)
 
+----
+
 ###Beyond Modifying Your Honda Civic    
 
 Civic open hardware projects are surprisingly difficult to find.  Google results are littered with ways to modify your Honda Civic.  As a proud owner of a 2000 Honda Civic with just over 108,000 miles, I appreciate this.  That said, it's not quite what we're looking for.    

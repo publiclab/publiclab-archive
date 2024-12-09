@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/021/793/original/Aerokat_20170928-1118.JPG)
+
 # NASA Aeropod unboxing
 
 by [cfastie](../profile/cfastie) September 29, 2017 00:39
 
 September 29, 2017 00:39 | Tags: [air-column-monitor](../tag/air-column-monitor), [kap](../tag/kap), [leaffest](../tag/leaffest), [anemometer](../tag/anemometer), [wind-speed-meter](../tag/wind-speed-meter), [atmosphere](../tag/atmosphere), [sensors](../tag/sensors), [wind](../tag/wind), [data-logging](../tag/data-logging), [wind-sensor](../tag/wind-sensor), [series:diy-wind-sensors](../tag/series:diy-wind-sensors), [leaffest2017](../tag/leaffest2017), [location:blurred](../tag/location:blurred), [lon:-73](../tag/lon:-73), [wind-speed](../tag/wind-speed), [aeropod](../tag/aeropod), [lat:43.9](../tag/lat:43.9)
+
+----
 
 The [NASA Aeropod](https://technology.nasa.gov/patent/GSC-TOPS-10) arrived this week in a box and I opened the box and took everything out.
 

@@ -3,6 +3,8 @@ uid: 545546
 created_at: 2018-08-07 11:11:34 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/545546/medium/Ava_Porter.jpg)
+
 # ava_porter
 
 Ideas for promotion A Kid's iPhone/iPad App

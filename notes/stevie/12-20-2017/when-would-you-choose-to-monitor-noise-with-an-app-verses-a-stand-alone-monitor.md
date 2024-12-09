@@ -14,6 +14,8 @@ by [stevie](../profile/stevie) December 20, 2017 16:30
 
 December 20, 2017 16:30 | Tags: [gulf-coast](../tag/gulf-coast), [new-orleans](../tag/new-orleans), [answered](../tag/answered), [noise](../tag/noise), [question:general](../tag/question:general), [noise-pollution](../tag/noise-pollution), [interstate](../tag/interstate), [question:noise](../tag/question:noise), [question:noise-pollution](../tag/question:noise-pollution)
 
+----
+
 I recently asked a question about [resources for monitoring noise pollution][1] and heard back from people about a number of [available apps][2], and a couple monitors (a [digital sound level meter][3] and the [softhook][4] Raspberry Pi sound-streaming device). I'm wondering
 
 - What are situations when one might be better than the other? 

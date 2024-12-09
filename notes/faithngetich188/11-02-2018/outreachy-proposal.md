@@ -14,6 +14,8 @@ by [faithngetich188](../profile/faithngetich188) November 02, 2018 20:40
 
 November 02, 2018 20:40 | Tags: [software](../tag/software), [soc](../tag/soc), [soc-2018](../tag/soc-2018), [rgsoc-2018](../tag/rgsoc-2018), [outreachy](../tag/outreachy), [outreachy-2018](../tag/outreachy-2018), [outreachy-2018-proposals](../tag/outreachy-2018-proposals), [response:17359](../tag/response:17359), [first-time-poster](../tag/first-time-poster)
 
+----
+
 ## About me
 
 I am an avid opensource enthusiast who loves to develop software solutions using simplistic approaches to complex problems. I embody excellence, passion, integrity, and collaborations as my core value. above all, I am an individual who is smart, friendly, willing to learn and loves challenges.

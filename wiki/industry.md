@@ -8,11 +8,15 @@ uid: 422561
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/035/551/original/industry-525119_1280.jpg)
+
 # Industry
 
 by [stevie](../profile/stevie)
 
 October 03, 2019 14:26 | Tags: [industry](../tag/industry)
+
+----
 
 Industry is a major contributor to pollution and land change. From manufacturing, to oil and gas, transportation, and mining, the industrial landscape of a place affects the way we live our lives and the health of our communities. 
 
@@ -45,10 +49,10 @@ Here are some topics related to Industry on Public Lab:
 
 
 ###Recent questions
-[questions:industry]
+[industry](../../tag/question:industry)
 
 ###Recent posts: 
-[notes:industry]
+[industry](../../tag/industry)
 
 ###Monitoring methods and wiki pages:
 [wikis:industry]

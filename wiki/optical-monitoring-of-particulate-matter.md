@@ -8,11 +8,15 @@ uid: 4
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/014/315/original/figD1.png)
+
 # Optical Monitoring of Particulate Matter
 
 by [stevie](../profile/stevie), [warren](../profile/warren), [mathew](../profile/mathew), [liz](../profile/liz)
 
 January 27, 2016 19:50 | Tags: [arduino](../tag/arduino), [air-quality](../tag/air-quality), [pm](../tag/pm), [parent:pm-monitoring](../tag/parent:pm-monitoring), [method](../tag/method), [optical-pm](../tag/optical-pm), [air-sensors](../tag/air-sensors), [parent:air-quality](../tag/parent:air-quality)
+
+----
 
 Optical PM monitoring of [Particulate Matter](/wiki/pm) (PM) is an attempt to measure the diameter of particles in flight. Optical monitors are a low-cost way to get real-time data about particles in the air. They are an automated, electronic version of the effect seen in a darkened room by light glinting off of dust in a sunbeam. 
 
@@ -26,7 +30,7 @@ A number of comparison tests of commercially available sensors have been perform
 
 ## Questions
 
-[questions:optical-pm]
+[optical-pm](../../tag/question:optical-pm)
 
 ****
 
@@ -129,7 +133,7 @@ The Dylos uses a small fan. A great teardown is here:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/v25owuUboxI" frameborder="0" allowfullscreen></iframe>
 
-[questions:dylos]
+[dylos](../../tag/question:dylos)
 
 ****
 
@@ -143,7 +147,7 @@ the Speck uses a small fan:
 
 hooked up to their open source [fluxtream](/notes/mathew/06-05-2014/using-fluxtream-to-look-at-speck-data) platform and designed for home use, it's being used by the [Southwest Pennsylvania Environmental Health Project.](http://www.environmentalhealthproject.org/health/air/)
 
-[questions:speck]
+[speck](../../tag/question:speck)
 
 ****
 
@@ -153,7 +157,7 @@ developed by the [HabitatMap](http://aircasting.org/), it is designed to hook to
 
 [![photo-original.jpg](https://i.publiclab.org/system/images/photos/000/009/770/medium/photo-original.jpg)](https://i.publiclab.org/system/images/photos/000/009/770/original/photo-original.jpg)
 
-[questions:airbeam]
+[airbeam](../../tag/question:airbeam)
 
 ****
 
@@ -166,7 +170,7 @@ passive airflow via a convection current, it sends data to [xively](https://xive
 
 [![ShinyeiPPD42NS_Insides_Labeled_600.jpg](https://i.publiclab.org/system/images/photos/000/009/772/medium/ShinyeiPPD42NS_Insides_Labeled_600.jpg)](https://i.publiclab.org/system/images/photos/000/009/772/original/ShinyeiPPD42NS_Insides_Labeled_600.jpg)
 
-[questions:dustduino]
+[dustduino](../../tag/question:dustduino)
 
 ****
 

@@ -14,6 +14,8 @@ by [thewrightjess](../profile/thewrightjess), [lognaturel](../profile/lognaturel
 
 December 11, 2014 21:33 | Tags: [fundraising](../tag/fundraising), [partnerships](../tag/partnerships), [grants](../tag/grants), [parent:fundraising](../tag/parent:fundraising)
 
+----
+
 Want to work with the Public Lab non-profit, or know more about how we work with others to fundraise for projects? The non-profit has several models; read on!
 
 ##Partnership models

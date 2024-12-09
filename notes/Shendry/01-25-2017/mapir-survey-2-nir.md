@@ -14,6 +14,8 @@ by [Shendry](../profile/Shendry) January 25, 2017 20:45
 
 January 25, 2017 20:45 | Tags: [question:question](../tag/question:question)
 
+----
+
 Hi everybody, I try to get some index from mapir survey 2 (NIR) but I can´t find any information about how i did it because mostly cameras used a RGB or more channels meanwhile NIR only use near infrared, somebody knows the specific steps? 
 
 Thanks a lot 

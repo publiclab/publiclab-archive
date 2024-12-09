@@ -14,6 +14,8 @@ by [adam-griffith](../profile/adam-griffith) May 01, 2012 02:52
 
 May 01, 2012 02:52 | Tags: [spectrometer](../tag/spectrometer)
 
+----
+
 On an airplane in Europe, I had a great conversation with Dr. G. Tempea, a laser physicist, regarding spectral resolution.
 
 Design ideas:

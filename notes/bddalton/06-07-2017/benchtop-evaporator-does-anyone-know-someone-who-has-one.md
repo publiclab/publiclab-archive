@@ -8,11 +8,15 @@ uid: 508614
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/020/684/original/images.jpg)
+
 # Benchtop Evaporator - Does anyone know someone who has one?
 
 by [bddalton](../profile/bddalton) June 07, 2017 22:32
 
 June 07, 2017 22:32 | Tags: [science](../tag/science), [water-quality](../tag/water-quality), [environmental](../tag/environmental), [lab](../tag/lab), [carbon](../tag/carbon), [equipment](../tag/equipment), [nanotubes](../tag/nanotubes), [nccu](../tag/nccu), [cnt](../tag/cnt), [benchtop](../tag/benchtop), [evaporator](../tag/evaporator), [titanium](../tag/titanium), [hybrid](../tag/hybrid)
+
+----
 
 I'm a student at a Environmental Science Lab at NCCU and we have been trying to get our Benchtop Evaporator set up, but since it has been out of production since 2005, we cannot get support from the manufacturer.
 

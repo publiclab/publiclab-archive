@@ -14,6 +14,8 @@ by [liz](../profile/liz) January 29, 2018 16:53
 
 January 29, 2018 16:53 | Tags: [ontario](../tag/ontario), [canada](../tag/canada), [question:air-quality](../tag/question:air-quality), [question:question](../tag/question:question), [question:pm](../tag/question:pm), [question:ultrafine](../tag/question:ultrafine)
 
+----
+
 I'm posting this question on behalf of a community member:
 
 In Ontario, is there any scientist group speaking up for ultra fine particles waste?  Thanks.

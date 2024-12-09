@@ -8,11 +8,15 @@ uid: 499393
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/019/033/original/IMG_Spectral.jpg)
+
 # Calibrating the spectrometer
 
 by [hns](../profile/hns) December 13, 2016 10:33
 
 December 13, 2016 10:33 | Tags: [spectrometer](../tag/spectrometer), [guide](../tag/guide), [cross-section](../tag/cross-section), [replication:13410](../tag/replication:13410)
+
+----
 
 Hello, I'm Hanisa from Indonesia. I got project from my lecturer to build a pinhole camera and find it's resolving power using a home-mad low-cost spectrometer. So I built one. And now I'm here to calibrate the intensity and wavelength.
 Thank you.

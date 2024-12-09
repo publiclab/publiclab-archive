@@ -8,11 +8,15 @@ uid: 77
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/001/080/original/9461635507_6b36244417_b.jpg)
+
 # Kites at Head-Smashed-In Buffalo Jump in Alberta, Canada.
 
 by [patcoyle](../profile/patcoyle) August 09, 2013 04:55
 
 August 09, 2013 04:55 | Tags: [kap](../tag/kap), [canada](../tag/canada), [art](../tag/art), [alberta](../tag/alberta), [western-canada](../tag/western-canada)
+
+----
 
 ![9461635507_6b36244417_b.jpg](/system/images/photos/000/001/085/medium/9461635507_6b36244417_b.jpg)
 

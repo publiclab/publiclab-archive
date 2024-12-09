@@ -8,11 +8,15 @@ uid: 54025
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/000/252/original/Proto2.jpg)
+
 # In Search of Spectrometer Measurement and Calibration
 
 by [stoft](../profile/stoft) May 14, 2013 01:02
 
 May 14, 2013 01:02 | Tags: [spectrometer](../tag/spectrometer), [desktop-spectrometry-kit](../tag/desktop-spectrometry-kit), [slit](../tag/slit), [improvements](../tag/improvements), [focus](../tag/focus), [response:7226](../tag/response:7226)
+
+----
 
 I admit, just viewing a CFL spectrum with a webcam and a bit of cardboard was a kick but then the questions arise; what's real, what's noise, how good or bad is it and what can it measure. Like with all questions, the search for answers leads to more questions. With that in mind, I'll post some observations, some conjecture and more questions.
 

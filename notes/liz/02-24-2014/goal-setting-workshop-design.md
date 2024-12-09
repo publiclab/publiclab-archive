@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/003/013/original/cropped-cropped-icc_logo1.gif)
+
 # Goal setting workshop design
 
 by [liz](../profile/liz) February 24, 2014 17:03
 
 February 24, 2014 17:03 | Tags: [newark](../tag/newark), [new-jersey](../tag/new-jersey), [ironbound](../tag/ironbound), [icc](../tag/icc), [elp](../tag/elp)
+
+----
 
 This is a _indoor_ workshop design for the first meeting with the youth of the Ironbound Community Corporation for our 2014 Environmental Leadership Program project. In February, the garden was still snow-covered: 
 

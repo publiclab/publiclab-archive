@@ -14,6 +14,8 @@ by [danbeavers](../profile/danbeavers) February 03, 2013 01:15
 
 February 03, 2013 01:15 | Tags: [kite-mapping](../tag/kite-mapping), [kite](../tag/kite), [diy-kite](../tag/diy-kite), [homemade-kites](../tag/homemade-kites), [easy-cut-delta](../tag/easy-cut-delta), [kite-making](../tag/kite-making), [upgrade:kite-making](../tag/upgrade:kite-making), [upgrade:easy-cut-delta](../tag/upgrade:easy-cut-delta), [first-time-poster](../tag/first-time-poster)
 
+----
+
 Wintercamp activities included working on simplifying the kite build.  From the left.  A pocket for the spar spreader that we were not really happy with.  Next is the mini-caribener and pex plastic pipe.  This was the standard attachment.  The solution we arrived with eliminated the additional parts.  Next are 3 mock-ups of folded pockets.  The last item is the almost final form.
 
 http://old.publiclab.org/sites/default/files/imagefield_thumbs/IMG_0009.JPG

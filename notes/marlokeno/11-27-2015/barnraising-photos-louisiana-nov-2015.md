@@ -8,11 +8,15 @@ uid: 420760
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/013/068/original/P1080680.JPG)
+
 # barnraising photos, Louisiana, Nov 2015
 
 by [marlokeno](../profile/marlokeno) November 27, 2015 03:02
 
 November 27, 2015 03:02 | Tags: [barnraising-2015](../tag/barnraising-2015)
+
+----
 
 [![P1080781-2.jpg](//i.publiclab.org/system/images/photos/000/013/066/medium/P1080781-2.jpg)](//i.publiclab.org/system/images/photos/000/013/066/original/P1080781-2.jpg)
 

@@ -8,11 +8,15 @@ uid: 9
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/006/653/original/plots-logo-transparent.jpg)
+
 # Public Lab community newsletter 9.7.2014
 
 by [Shannon](../profile/Shannon) September 08, 2014 03:34
 
 September 08, 2014 03:34 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
+
+----
 
 In the Public Lab community newsletter this week, make sure to take advantage of back to school discounts on kits, check out the new MapKnitter annotations and join Public Labbers in Vermont, New York and Louisiana during upcoming events. Enjoy!
 

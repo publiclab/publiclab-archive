@@ -8,10 +8,14 @@ uid: 533335
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/037/746/original/blob)
+
 # NIR Morus nigra blue filter
 
 by [biozanco](../profile/biozanco) January 23, 2020 23:28
 
 January 23, 2020 23:28 | Tags: [infragram](../tag/infragram), [first-time-poster](../tag/first-time-poster), [infragram-upload](../tag/infragram-upload), [lat:-27.601776](../tag/lat:-27.601776), [lon:-48.520029](../tag/lon:-48.520029)
+
+----
 
 original photo

@@ -14,4 +14,6 @@ by [Sahil](../profile/Sahil) December 22, 2017 14:35
 
 December 22, 2017 14:35 | Tags: [question:lego-spectrometer](../tag/question:lego-spectrometer), [question:question:lego-spectrometer](../tag/question:question:lego-spectrometer)
 
+----
+
 Can this spectrometer identify the type of material.... for ex.:- spectrum of an apple.

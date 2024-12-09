@@ -8,11 +8,15 @@ uid: 4
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/020/256/original/20170331_113121.jpg)
+
 # Practicing a PM hotspot survey in New Auburn, WI
 
 by [mathew](../profile/mathew) April 28, 2017 20:46
 
 April 28, 2017 20:46 | Tags: [wisconsin](../tag/wisconsin), [air-quality](../tag/air-quality), [dust](../tag/dust), [frac-sand](../tag/frac-sand), [pm](../tag/pm), [particle-monitoring](../tag/particle-monitoring), [with:warren](../tag/with:warren), [with:stevie](../tag/with:stevie), [with:gretchengehrke](../tag/with:gretchengehrke), [parent:frac-sand](../tag/parent:frac-sand), [pm-monitoring](../tag/pm-monitoring), [with:marlokeno](../tag/with:marlokeno), [hotspot-monitoring](../tag/hotspot-monitoring), [activity:site-survey](../tag/activity:site-survey), [activity:pm-monitoring](../tag/activity:pm-monitoring), [activity:pdr-1500](../tag/activity:pdr-1500), [hot-spot](../tag/hot-spot)
+
+----
 
 Attempting a Hotspot survey in New Auburn, WI
 with: @Stevie, @Gretchen, @Warren, @marlokeno, Jonny and Heather.

@@ -8,10 +8,14 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/sites/default/files/IMG_20120602_155121.jpg)
+
 # Kite Machine
 
 by [liz](../profile/liz) June 02, 2012 20:09
 
 June 02, 2012 20:09 | Tags: [new-york-city](../tag/new-york-city), [kites](../tag/kites), [vending-machine](../tag/vending-machine)
+
+----
 
 <p>Great new micro kite collective in NYC set up a kite vending machine on Rockaway Boardwalk at Beach 96th street. Charles Stewart in attendance as well. </p>

@@ -8,11 +8,15 @@ uid: 379
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/000/363/original/IMG_1625.JPG)
+
 # Kite Club Pontchartrain
 
 by [eustatic](../profile/eustatic) May 20, 2013 23:44
 
 May 20, 2013 23:44 | Tags: [gulf-coast](../tag/gulf-coast), [event](../tag/event), [replication:14022](../tag/replication:14022)
+
+----
 
 ##Kite Club Pontchartrain, May edition
 

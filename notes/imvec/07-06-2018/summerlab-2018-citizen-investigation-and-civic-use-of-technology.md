@@ -8,11 +8,15 @@ uid: 495038
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/025/460/original/summerlab_1.png)
+
 # Summerlab 2018: citizen investigation and civic use of technology
 
 by [imvec](../profile/imvec) July 06, 2018 18:03
 
 July 06, 2018 18:03 | Tags: [spain](../tag/spain), [citizen-science](../tag/citizen-science), [event](../tag/event), [event:rsvp](../tag/event:rsvp), [gaimec](../tag/gaimec), [diwosurvival](../tag/diwosurvival), [date:07-11-2018](../tag/date:07-11-2018), [rsvp:zengirl2](../tag/rsvp:zengirl2)
+
+----
 
 ### WHEN, WHERE
 11th to 14th July 

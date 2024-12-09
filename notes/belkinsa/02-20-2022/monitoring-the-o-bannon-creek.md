@@ -8,11 +8,15 @@ uid: 504609
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/045/414/original/PXL_20211203_212831599.jpg)
+
 # Monitoring the O'Bannon Creek
 
 by [belkinsa](../profile/belkinsa) February 20, 2022 17:05
 
 February 20, 2022 17:05 | Tags: [water-quality](../tag/water-quality), [water](../tag/water), [stream](../tag/stream), [mid-west](../tag/mid-west), [ohio](../tag/ohio), [zoom:17](../tag/zoom:17), [lat:39.267306](../tag/lat:39.267306), [lon:-84.242402](../tag/lon:-84.242402)
+
+----
 
 **Image credit:** Self
 

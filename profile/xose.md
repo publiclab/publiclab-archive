@@ -3,6 +3,8 @@ uid: 497123
 created_at: 2016-11-15 15:19:32 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/497123/medium/xose8bit.jpg)
+
 # xose
 
 Interested in audiovisuals, prototyping and documentary social processes </br>

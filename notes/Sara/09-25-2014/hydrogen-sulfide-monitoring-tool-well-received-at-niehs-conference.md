@@ -8,11 +8,15 @@ uid: 8
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/007/032/original/Screen_Shot_2014-09-25_at_2.14.38_PM.png)
+
 # Hydrogen Sulfide Monitoring Tool Well Received at NIEHS Conference!
 
 by [sara](../profile/sara) September 25, 2014 20:25
 
 September 25, 2014 20:25 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [oil](../tag/oil), [fracking](../tag/fracking), [wyoming](../tag/wyoming), [hydrofracking](../tag/hydrofracking)
+
+----
 
 ##Showing Hydrogen Sulfide Monitoring Project at [National Institute of Environmental Health Science](http://www.niehs.nih.gov/)
 

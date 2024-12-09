@@ -14,6 +14,8 @@ by [suget305](../profile/suget305) December 07, 2015 03:50
 
 December 07, 2015 03:50 | Tags: [first-time-poster](../tag/first-time-poster)
 
+----
+
 ###What I want to do: gain more knowledge on the processes involved with public lab and learn more about citizen science overall.
 
 ###My attempt and results: The results have been okay so far, but I would love some feedback!

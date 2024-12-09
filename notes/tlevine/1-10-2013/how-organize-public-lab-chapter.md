@@ -14,6 +14,8 @@ by [tlevine](../profile/tlevine) January 10, 2013 18:28
 
 January 10, 2013 18:28 | Tags: [community](../tag/community), [organizers](../tag/organizers), [organizing](../tag/organizing), [participation](../tag/participation)
 
+----
+
 This is based on discussion at WinterCamp.
 
 You want to organize a bunch of people to do some project.

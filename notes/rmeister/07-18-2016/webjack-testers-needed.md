@@ -8,11 +8,15 @@ uid: 468994
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/017/111/original/IMG_0138_web_thumb.JPG)
+
 # WebJack: Testers needed!
 
 by [rmeister](../profile/rmeister) July 18, 2016 11:52
 
 July 18, 2016 11:52 | Tags: [arduino](../tag/arduino), [alphatest](../tag/alphatest), [sensors](../tag/sensors), [gsoc](../tag/gsoc), [barnstar:basic](../tag/barnstar:basic), [webjack](../tag/webjack), [headphone-jack](../tag/headphone-jack), [category:build](../tag/category:build), [include](../tag/include), [activity:webjack](../tag/activity:webjack)
+
+----
 
 This is a tutorial on how to test WebJack.
 

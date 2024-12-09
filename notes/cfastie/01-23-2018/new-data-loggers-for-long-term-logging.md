@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/023/316/original/IMG_20180118_130424122.jpg)
+
 # New data loggers for long-term logging
 
 by [cfastie](../profile/cfastie) January 23, 2018 22:51
 
 January 23, 2018 22:51 | Tags: [arduino](../tag/arduino), [datalogger](../tag/datalogger), [data-logging](../tag/data-logging), [mini-pearl-logger](../tag/mini-pearl-logger), [activity:mini-pearl-logger](../tag/activity:mini-pearl-logger), [tpl5110](../tag/tpl5110), [mini-pearl-snap-logger](../tag/mini-pearl-snap-logger), [mini-pearl-pro-logger](../tag/mini-pearl-pro-logger), [low-power-logging](../tag/low-power-logging)
+
+----
 
 _Above: Two Mini Pearl Loggers are in yogurt containers in my woodshed. BME280 sensors extend above the closed containers. TPL5110 timers controlled the Arduino-based loggers. The wooden basket covered both containers to keep blowing snow off the sensors._
 

@@ -14,6 +14,8 @@ by [aguchosolano](../profile/aguchosolano), [warren](../profile/warren)
 
 May 01, 2012 16:33 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [infrared](../tag/infrared), [infragram](../tag/infragram), [image-interpretation](../tag/image-interpretation), [interpretation](../tag/interpretation)
 
+----
+
 ##Types of imagery##
 
 * plain infrared photos?

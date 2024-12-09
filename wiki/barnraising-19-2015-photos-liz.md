@@ -14,6 +14,8 @@ by [liz](../profile/liz)
 
 November 20, 2015 14:06 | Tags: [barnraising](../tag/barnraising), [barnraising-2015](../tag/barnraising-2015)
 
+----
+
 [![IMG_20151119_211608509_TOP.jpg](//i.publiclab.org/system/images/photos/000/012/820/medium/IMG_20151119_211608509_TOP.jpg)](//i.publiclab.org/system/images/photos/000/012/820/original/IMG_20151119_211608509_TOP.jpg)
 
 

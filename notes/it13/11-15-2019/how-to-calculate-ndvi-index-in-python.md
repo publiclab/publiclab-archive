@@ -14,6 +14,8 @@ by [it13](../profile/it13) November 15, 2019 12:01
 
 November 15, 2019 12:01 | Tags: 
 
+----
+
 Hello 
 
 Here i am trying to calculate ndvi index.

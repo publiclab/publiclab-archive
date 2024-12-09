@@ -14,6 +14,8 @@ by [makiyang614](../profile/makiyang614)
 
 June 07, 2017 09:08 | Tags: 
 
+----
+
 Hello,
 
 im trying to dimm the ouput channels of a 74hc595  by using a transistor between pin 13 and Ground.As the[ 74hc595 ](http://www.componentschip.com/details/Texas-Instruments/74HC595D.html)datesheet here.

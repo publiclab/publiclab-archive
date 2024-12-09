@@ -8,11 +8,15 @@ uid: 795472
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/046/960/original/Talon_Timeline.png)
+
 # Timeline of the Talon-Rio Tinto Mine
 
 by [noah_ben_furman](../profile/noah_ben_furman) August 04, 2022 19:20
 
 August 04, 2022 19:20 | Tags: [zoom:6](../tag/zoom:6), [lat:46](../tag/lat:46), [mn-land-manoomin-protection](../tag/mn-land-manoomin-protection), [lon:-93](../tag/lon:-93)
+
+----
 
 Here is the timeline for the Talon-Rio Tinto Mine with the sources below.
 

@@ -8,11 +8,15 @@ uid: 379
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/000/364/original/IMG_1541__yes_lake.JPG)
+
 # Pontchartrain Restoration
 
 by [eustatic](../profile/eustatic) May 20, 2013 23:47
 
 May 20, 2013 23:47 | Tags: [gulf-coast](../tag/gulf-coast), [event](../tag/event), [bsj](../tag/bsj)
+
+----
 
 ##Pontchartrain Wetlands Project photos
 

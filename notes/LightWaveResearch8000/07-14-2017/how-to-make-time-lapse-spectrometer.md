@@ -14,6 +14,8 @@ by [LightWaveResearch8000](../profile/LightWaveResearch8000) July 14, 2017 21:37
 
 July 14, 2017 21:37 | Tags: [spectrometry](../tag/spectrometry), [raspberry-pi](../tag/raspberry-pi), [timelapse](../tag/timelapse), [question:spectrometry](../tag/question:spectrometry), [question:spectral-workbench](../tag/question:spectral-workbench), [answered](../tag/answered), [pi-camera](../tag/pi-camera), [question:timelapse](../tag/question:timelapse), [question:raspberry-pi](../tag/question:raspberry-pi), [raspberry-pi-spectrometer](../tag/raspberry-pi-spectrometer), [question:raspberry-pi-spectrometer](../tag/question:raspberry-pi-spectrometer), [activity:pi-camera](../tag/activity:pi-camera)
 
+----
+
 ###What I want to do or know
 How do you make a raspberry pi 3 with a camera module connect to a spectrometer using time lapse recording of the sky?
 

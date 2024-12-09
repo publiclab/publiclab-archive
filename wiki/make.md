@@ -8,11 +8,15 @@ uid: 237313
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/035/293/original/1_Sadie_Prego_IMG_3834.jpg)
+
 # Make: Magazine
 
 by [joyofsoy](../profile/joyofsoy), [liz](../profile/liz), [Bronwen](../profile/Bronwen), [warren](../profile/warren)
 
 May 24, 2019 15:28 | Tags: [media](../tag/media), [event](../tag/event), [style:fancy](../tag/style:fancy), [make-magazine](../tag/make-magazine)
+
+----
 
 **Our collaboration with [Make Magazine](https://makezine.com/) hit newsstands in October 2019! Get your copy [here](https://www.makershed.com/products/make-magazine-volume-70-pdf).**
 

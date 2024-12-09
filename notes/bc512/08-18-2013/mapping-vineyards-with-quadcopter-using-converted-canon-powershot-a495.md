@@ -8,11 +8,15 @@ uid: 197512
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/001/210/original/missionplanner2.PNG)
+
 # Mapping Vineyards with Quadcopter Using converted Canon Powershot A495
 
 by [bc512](../profile/bc512) August 18, 2013 23:35
 
 August 18, 2013 23:35 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [drones](../tag/drones), [vineyard](../tag/vineyard), [uav](../tag/uav), [agriculture](../tag/agriculture), [mapping](../tag/mapping), [quadcopter](../tag/quadcopter), [drone](../tag/drone), [first-time-poster](../tag/first-time-poster)
+
+----
 
 Using a Quadcopter and some software to control the Copter Autonomously, I can take infrared photos using my converted Canon A495 from directly above the area I choose.
 

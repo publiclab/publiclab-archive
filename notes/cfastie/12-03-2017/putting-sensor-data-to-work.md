@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/022/738/original/StoveRelay_20171122-1726.JPG)
+
 # Putting sensor data to work
 
 by [cfastie](../profile/cfastie) December 03, 2017 00:46
 
 December 03, 2017 00:46 | Tags: [arduino](../tag/arduino), [temperature](../tag/temperature), [datalogger](../tag/datalogger), [barnstar:photo-documentation](../tag/barnstar:photo-documentation), [data-logging](../tag/data-logging), [activity:data-logging](../tag/activity:data-logging), [feather](../tag/feather), [thermal-infrared](../tag/thermal-infrared), [gy90614](../tag/gy90614), [relay](../tag/relay), [activity:feather](../tag/activity:feather), [series:woodstove-control](../tag/series:woodstove-control)
+
+----
 
 I have been using a [Nano Data Logger](https://publiclab.org/tag/nano-data-logger) to [monitor the temperature of my woodstove](https://publiclab.org/notes/cfastie/11-27-2017/yule-logging) for a couple of weeks. My goal is not just monitoring but using the temperature sensor to turn the stove's fan on and off to get the most heat out of the stove without wasting electricity. Instead of using the Nano Logger for this, I tried an [Adafruit Feather](https://www.adafruit.com/feather) for the first time. The [Feather ecosystem has lots of options for data logging](https://publiclab.org/notes/cfastie/11-14-2017/adafruit-feathers-for-datalogging), and also has some FeatherWings with relays--switches which can be operated by an electrical signal.
 

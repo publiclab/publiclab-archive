@@ -14,4 +14,6 @@ by [gonzoearth](../profile/gonzoearth) July 23, 2012 19:00
 
 July 23, 2012 19:00 | Tags: 
 
+----
+
 <a href="http://www.rawstory.com/rs/2012/07/17/virginia-delegate-seeks-to-strictly-regulate-drone-flights/">http://www.rawstory.com/rs/2012/07/17/virginia-delegate-seeks-to-strictly-regulate-drone-flights/</a>

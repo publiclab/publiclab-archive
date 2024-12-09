@@ -14,6 +14,8 @@ by [kassidy219s](../profile/kassidy219s) May 16, 2022 23:46
 
 May 16, 2022 23:46 | Tags: [first-time-poster](../tag/first-time-poster), [mmmp](../tag/mmmp), [question:mmmp](../tag/question:mmmp)
 
+----
+
 I'm Kassidy Slaughter, and I'm a sophomore at Cornell University majoring in Industrial and Labor Relations.  
 
   

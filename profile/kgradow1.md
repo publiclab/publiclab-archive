@@ -3,6 +3,8 @@ uid: 297929
 created_at: 2013-10-05 04:34:09 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/94f3063199c08380c322845b2bd6b316)
+
 # kgradow1
 
 I work with Parts and Crafts, a community workshop and makerspace for kids in Somervilla MA.   (www.partsandcrafts.org)   We're psyched about using PLOTS tools to help kids better understand their local environment and giving them tools to investigate the world around them.  

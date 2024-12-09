@@ -8,11 +8,15 @@ uid: 518193
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/030/299/original/cover_w2.JPG)
+
 # Webinar 2: Guide to Civilian Monitoring
 
 by [a1ahna](../profile/a1ahna) March 19, 2019 20:43
 
 March 19, 2019 20:43 | Tags: [industrial-monitoring](../tag/industrial-monitoring), [reporting](../tag/reporting), [pipeline](../tag/pipeline), [pipeline-monitoring](../tag/pipeline-monitoring), [lat:29.964614](../tag/lat:29.964614), [lon:-90.046528](../tag/lon:-90.046528), [pipeline-monitoring-webinar](../tag/pipeline-monitoring-webinar)
+
+----
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eKUhkSYMg7c" frameborder="0" allowfullscreen=""></iframe>  
   

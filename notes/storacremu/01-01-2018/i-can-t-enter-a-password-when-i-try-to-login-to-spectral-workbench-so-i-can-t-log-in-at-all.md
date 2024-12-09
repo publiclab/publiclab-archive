@@ -14,6 +14,8 @@ by [storacremu](../profile/storacremu) January 01, 2018 20:38
 
 January 01, 2018 20:38 | Tags: [question:spectral-workbench](../tag/question:spectral-workbench)
 
+----
+
 I can't enter a password when I try to login to Spectral Workbench. So I can't log in at all.  ...meaning I can't do anything in it.
 
 I've tried on Chome on my mac desktop and on Bowser in iOS.

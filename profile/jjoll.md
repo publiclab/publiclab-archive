@@ -3,6 +3,8 @@ uid: 508437
 created_at: 2017-06-03 18:17:18 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/4a4564d87f4d8c5a59eda708e1fcc99a)
+
 # jjoll
 
 student

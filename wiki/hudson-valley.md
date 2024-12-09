@@ -8,11 +8,15 @@ uid: 425404
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/006/654/original/logo150pxwithtext.png)
+
 # Hudson-Valley
 
 by [joshuaflux](../profile/joshuaflux)
 
 July 03, 2014 18:32 | Tags: [new-york](../tag/new-york), [nyc](../tag/nyc), [river](../tag/river), [northeast](../tag/northeast), [valley](../tag/valley), [beacon](../tag/beacon), [hudson](../tag/hudson), [ny](../tag/ny), [node](../tag/node)
+
+----
 
 Welcome to the Hudson Valley's Public Lab regional hub located at the "node" ecological adaptive design and arts center/space in Beacon, NY.  Our aim is to use empowering open source tools to increase transparency around ecological issues up and down the Hudson River Valley, and share our work with the greater community of people doing the "good work".
 

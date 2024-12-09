@@ -14,6 +14,8 @@ by [liz](../profile/liz) January 21, 2018 00:23
 
 January 21, 2018 00:23 | Tags: [health](../tag/health), [smart-form](../tag/smart-form), [decentralization](../tag/decentralization), [ipfs](../tag/ipfs)
 
+----
+
 There are a few things i have in mind in asking this question,
 
 - One, handling personal health data appropriately is pretty tough to actually do, for example check out what the SmartForm team is encountering in their app development process: [https://github.com/publiclab/SmART-Form/issues/12](https://github.com/publiclab/SmART-Form/issues/12)

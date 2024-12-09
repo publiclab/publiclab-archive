@@ -3,6 +3,8 @@ uid: 423961
 created_at: 2014-05-22 22:10:57 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/423961/medium/GirlHSNew.jpg)
+
 # zengirl2
 
 Leslie Birch is a Philadelphia technologist using open-source hardware to grapple with environmental issues and physical connection. Her toolbox includes Arduino microcontrollers and sensors as well as tree cookies and moss. She creates projects and tutorials for Adafruit, a DIY electronics company, and also blogs about wearables and citizen science. She is currently getting her hands wet in stormwater run-off  for a project dealing with climate change. Other geekery includes NASA Datanauts, CUSP (Climate & Urban Systems Partnership) and SciArt Center. Follow @zengirl2

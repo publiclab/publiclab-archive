@@ -8,11 +8,15 @@ uid: 577754
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/034/988/original/o.png)
+
 # Outreachy Final Blog : An awesome Journey
 
 by [lekhidugtal](../profile/lekhidugtal) August 31, 2019 12:32
 
 August 31, 2019 12:32 | Tags: [design](../tag/design), [blog](../tag/blog), [barnstar:basic](../tag/barnstar:basic), [blog-submission](../tag/blog-submission), [soc](../tag/soc), [ui](../tag/ui), [summer-of-code](../tag/summer-of-code), [outreachy](../tag/outreachy), [outreachy-2019](../tag/outreachy-2019), [gsoc-2019-final-report](../tag/gsoc-2019-final-report)
+
+----
 
 Here in this post I would be summing up my contribution for this summer.
 We do have this one single link to checkout the whole contribution in project -

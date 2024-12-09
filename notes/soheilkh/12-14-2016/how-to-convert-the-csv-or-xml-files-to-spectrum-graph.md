@@ -14,6 +14,8 @@ by [soheilkh](../profile/soheilkh) December 14, 2016 00:30
 
 December 14, 2016 00:30 | Tags: [spectrometer](../tag/spectrometer), [spectralworkbench](../tag/spectralworkbench), [export](../tag/export), [graph](../tag/graph), [question:general](../tag/question:general)
 
+----
+
 ###What I want to do or know
 I want to know if and how I can use the downloaded spectral file (e.g. csv or xml) to create a spectral distribution graph like the one spectrometers show. 
 

@@ -3,6 +3,8 @@ uid: 58232
 created_at: 2013-05-11 07:37:43 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/af2aeb8ceec8e8e3524724dd38ea9575)
+
 # briandegger
 
 

@@ -14,6 +14,8 @@ by [BIKIE-GERALD-24](../profile/BIKIE-GERALD-24) July 21, 2022 16:43
 
 July 21, 2022 16:43 | Tags: [mn-land-manoomin-protection](../tag/mn-land-manoomin-protection), [question:mn-land-manoomin-protection](../tag/question:mn-land-manoomin-protection)
 
+----
+
 Satellite remote sensing and geospatial data science constitute a very important tool in such project since they both enable the synoptic analysis and the time series understanding of projects with this level of complexity.  
   
 Institution:Geospatial solution  

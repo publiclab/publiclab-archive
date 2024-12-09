@@ -8,11 +8,15 @@ uid: 421556
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/006/340/original/IMAG0382.jpg)
+
 # MapKnitter Annotations: Riffle Data as Map Annotations
 
 by [justinmanley](../profile/justinmanley) August 19, 2014 18:56
 
 August 19, 2014 18:56 | Tags: [mapknitter](../tag/mapknitter), [gsoc](../tag/gsoc), [riffle](../tag/riffle), [gsoc-2014](../tag/gsoc-2014), [annotations](../tag/annotations)
+
+----
 
 ### What I want to do
 

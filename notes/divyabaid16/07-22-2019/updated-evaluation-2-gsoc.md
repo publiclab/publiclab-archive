@@ -14,6 +14,8 @@ by [divyabaid16](../profile/divyabaid16) July 22, 2019 05:54
 
 July 22, 2019 05:54 | Tags: [gsoc](../tag/gsoc), [soc](../tag/soc), [gsoc-2019](../tag/gsoc-2019), [soc-2019](../tag/soc-2019), [soc-2019-eval](../tag/soc-2019-eval)
 
+----
+
 This is regarding the work done by Divya Baid (divyabaid16) from 22 June - 21 July, i.e between the second phase of GSoC.
 
 In this phase, I mostly worked upon the enhancement of Mapknitter 3's UI. I solved several bugs regarding UI.

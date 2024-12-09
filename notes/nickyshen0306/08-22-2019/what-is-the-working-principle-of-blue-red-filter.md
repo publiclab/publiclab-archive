@@ -14,6 +14,8 @@ by [nickyshen0306](../profile/nickyshen0306) August 22, 2019 04:01
 
 August 22, 2019 04:01 | Tags: [ndvi](../tag/ndvi), [infragram](../tag/infragram), [question:ndvi](../tag/question:ndvi), [question:infragram](../tag/question:infragram), [question:infrared](../tag/question:infrared), [first-time-poster](../tag/first-time-poster), [pin:question:infragram-challenges](../tag/pin:question:infragram-challenges)
 
+----
+
 [https://publiclab.org/wiki/infragram#Filters](https://publiclab.org/wiki/infragram#Filters)
 
 I got some basic knowledge about the blue/red filter on the above link.

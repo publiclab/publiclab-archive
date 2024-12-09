@@ -14,4 +14,6 @@ by [fongvania](../profile/fongvania) December 19, 2021 22:09
 
 December 19, 2021 22:09 | Tags: [question:general](../tag/question:general), [general](../tag/general), [study-design](../tag/study-design), [plan](../tag/plan), [question:study-design](../tag/question:study-design)
 
+----
+
 This will help individuals and organizations that are just starting out to account for aspects that are commonly overlooked during planning stages.

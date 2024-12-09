@@ -14,6 +14,8 @@ by [eloisereid](../profile/eloisereid) June 13, 2016 17:29
 
 June 13, 2016 17:29 | Tags: [event](../tag/event), [event:rsvp](../tag/event:rsvp), [date:06-13-2016](../tag/date:06-13-2016)
 
+----
+
 Looking for New Orleans Pole Mappers
 
 Next Week: Tuesday, June 14th, Wednesday the 15th and Thursday 16th I am looking for people who are interested in volunteering with my summer camp class in Gentilly.

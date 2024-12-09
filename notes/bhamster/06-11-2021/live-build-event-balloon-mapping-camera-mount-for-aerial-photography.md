@@ -8,11 +8,15 @@ uid: 664477
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/044/163/original/mini-balloon-kit.jpg)
+
 # Live build event: Balloon mapping camera mount for aerial photography! 
 
 by [bhamster](../profile/bhamster) June 11, 2021 15:18
 
 June 11, 2021 15:18 | Tags: [balloon-mapping](../tag/balloon-mapping), [aerial-photography](../tag/aerial-photography), [mapping](../tag/mapping), [event](../tag/event), [event:rsvp](../tag/event:rsvp), [camera-rigs](../tag/camera-rigs), [with:a1ahna](../tag/with:a1ahna), [rsvp:amocorro](../tag/rsvp:amocorro), [rsvp:sarasage](../tag/rsvp:sarasage), [date:06-30-2021](../tag/date:06-30-2021), [rsvp:stdelorme](../tag/rsvp:stdelorme)
+
+----
 
 ## Event details
 

@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/000/608/original/*aerial_with_scarecrow.JPG)
+
 # Infragrams over NYC: River Garden
 
 by [liz](../profile/liz) July 02, 2013 20:02
 
 July 02, 2013 20:02 | Tags: [new-york-city](../tag/new-york-city), [5bf](../tag/5bf), [five-borough-farm](../tag/five-borough-farm), [pole-photography](../tag/pole-photography), [pole](../tag/pole)
+
+----
 
 _Above: aerial image showing trellised beds and giant scarecrow_
 

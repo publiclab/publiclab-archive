@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/018/071/original/IMG_20150521_144640-2.jpg)
+
 # How can I reduce ambient light inside the Desktop Spectrometry Starter Kit?
 
 by [warren](../profile/warren) September 19, 2016 13:14
 
 September 19, 2016 13:14 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [question:spectrometry](../tag/question:spectrometry), [answered](../tag/answered), [baseline](../tag/baseline), [question:dssk](../tag/question:dssk), [ambient-light](../tag/ambient-light), [request:activity](../tag/request:activity)
+
+----
 
 Especially with the [new stability upgrades being explored][1], I wanted to look at different ways to reduce reflected and ambient light leaking and into and reflecting around the inside of the spectrometer box, because that makes high baseline noise when we capture spectra.
 

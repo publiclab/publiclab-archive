@@ -8,11 +8,15 @@ uid: 294634
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/001/798/original/PortableScanner.jpg)
+
 # DIY Time Machine
 
 by [ajawitz](../profile/ajawitz) October 07, 2013 16:29
 
 October 07, 2013 16:29 | Tags: [balloon-mapping](../tag/balloon-mapping), [mapknitter](../tag/mapknitter), [archival](../tag/archival), [historic-imagery](../tag/historic-imagery), [maine](../tag/maine), [harpswell](../tag/harpswell), [first-time-poster](../tag/first-time-poster)
+
+----
 
 ###Who we are
   The [Harpswell Makerspace and MediaLab](https://sites.google.com/a/codeforamerica.org/harpswell-makerspace/) is a collaboration between [Code for Maine](www.code4maine.org) (a [Code for America Brigade](www.brigade.codeforamerica.org) in Maine) and [the Harpswell Coastal Academy](http://harpswellcoastalacademy.org/). Makerspace activities are incorporated into the interdisciplinary, project-centered curriculum but also have dedicated weekly afternoon workshops.  Plans are underway to expand the program into a dedicated workshop space which will be open to the public during after-school hours.

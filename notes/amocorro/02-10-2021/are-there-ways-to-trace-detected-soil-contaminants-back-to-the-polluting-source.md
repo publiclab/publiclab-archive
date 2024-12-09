@@ -14,6 +14,8 @@ by [amocorro](../profile/amocorro) February 10, 2021 19:37
 
 February 10, 2021 19:37 | Tags: [ultraviolet](../tag/ultraviolet), [soil](../tag/soil), [hydrocarbon](../tag/hydrocarbon), [co2](../tag/co2), [technique](../tag/technique), [question:general](../tag/question:general), [general](../tag/general), [soil-sampling](../tag/soil-sampling), [question:soil](../tag/question:soil), [soil-contamination](../tag/soil-contamination), [with:cherokeeconcernedcitizens](../tag/with:cherokeeconcernedcitizens), [total-organic-carbon](../tag/total-organic-carbon)
 
+----
+
 A community group living near several industrial facilities is detecting hydrocarbons in their soil. Are there analytical techniques or otherwise that can help identify where the pollutants are coming from? 
 
 This is another question we're looking for support on related to [this post][1]. Thanks so much for any ideas or resources you can share!

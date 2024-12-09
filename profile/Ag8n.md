@@ -3,6 +3,8 @@ uid: 520994
 created_at: 2017-12-21 23:54:30 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/65fbce3120710145df05bbdc1b870655)
+
 # Ag8n
 
 Retired, after 28 years, as an analytical chemist from a major pharmaceutical corporation.

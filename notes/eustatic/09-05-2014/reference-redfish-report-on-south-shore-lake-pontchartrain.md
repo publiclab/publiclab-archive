@@ -8,11 +8,15 @@ uid: 379
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/006/615/original/lake-pontchartrain-redfish-8c45a6d57992b076_1_.jpg)
+
 # [reference] Redfish report on south shore lake pontchartrain
 
 by [eustatic](../profile/eustatic) September 05, 2014 17:51
 
 September 05, 2014 17:51 | Tags: [gulf-coast](../tag/gulf-coast), [balloon-mapping](../tag/balloon-mapping), [urbanwater](../tag/urbanwater), [urbanwaters](../tag/urbanwaters)
+
+----
 
 ###What I want to do
 

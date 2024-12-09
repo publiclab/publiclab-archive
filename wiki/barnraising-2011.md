@@ -14,6 +14,8 @@ by [warren](../profile/warren)
 
 July 10, 2013 12:18 | Tags: [western-north-carolina](../tag/western-north-carolina), [asheville](../tag/asheville), [barnraising](../tag/barnraising), [event](../tag/event), [list:plots-barnraising](../tag/list:plots-barnraising), [southeast](../tag/southeast)
 
+----
+
 <a href="http://grassrootsmapping.org/2011/11/public-lab-barn-raising-collaborative-infrared-tool-development/">Blog post by Stephen Debique</a> on the barn raising, cross-posted from Grassrootsmapping.org.
 
 From <em>October 21st to 23rd</em> Public Laboratory Staff, members and local and technical specialists will be gathering in Asheville, North Carolina to have some fun while developing and testing a DIY, <a href="http://publiclaboratory.org/tool/near-infrared-camera">low cost infrared camera</a>. 

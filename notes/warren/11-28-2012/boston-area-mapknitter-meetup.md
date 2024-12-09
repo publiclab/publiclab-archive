@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/Picture 12.png)
+
 # Boston-area MapKnitter meetup
 
 by [warren](../profile/warren) November 28, 2012 21:32
 
 November 28, 2012 21:32 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [mapknitter](../tag/mapknitter), [meetup](../tag/meetup), [event](../tag/event)
+
+----
 
 Learn to turn aerial photos into stitched web maps (or GeoTiffs) with the open source tool [MapKnitter](https://mapknitter.org). Pablo Rey and I and a few others with mapmaking experience will walk you through how to make a map with MapKnitter, discuss challenges and answer questions. If you know how to use MapKnitter, please consider stopping by and skillsharing!
 

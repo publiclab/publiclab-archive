@@ -8,11 +8,15 @@ uid: 725565
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/041/953/original/Ugali___Sukuma_Wiki.jpg)
+
 # Hello
 
 by [ruthnwaiganjo](../profile/ruthnwaiganjo) December 11, 2020 14:07
 
 December 11, 2020 14:07 | Tags: [food](../tag/food), [coding](../tag/coding), [dashboard](../tag/dashboard), [technology](../tag/technology), [outreachy](../tag/outreachy), [first-time-poster](../tag/first-time-poster)
+
+----
 
 I am currently an Outreachy intern working with Public Lab. Mainly focused on the dashboard redesign. A fun fact about me is that I like trying out new recipes and exploring food from different cultures. You can probably find me awake late in the night watching The Food Ranger or Mark Weins on YouTube. Who travel the world and share their food experience. I have been a Rails developer for about two years. My interest in contributing to the Open Source community led me here. 
 

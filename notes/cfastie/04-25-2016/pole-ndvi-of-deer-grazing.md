@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/015/821/original/deerblogl.jpg)
+
 # Fifty Shades of Graze
 
 by [cfastie](../profile/cfastie) April 25, 2016 19:59
 
 April 25, 2016 19:59 | Tags: [ndvi](../tag/ndvi), [vermont](../tag/vermont), [infrared](../tag/infrared), [filter](../tag/filter), [infragram](../tag/infragram), [plant-health](../tag/plant-health), [pole-photography](../tag/pole-photography), [pap](../tag/pap), [pole-aerial-photography](../tag/pole-aerial-photography), [pole-mapping](../tag/pole-mapping), [kaptery](../tag/kaptery), [dualband](../tag/dualband), [midopt](../tag/midopt), [dichroic](../tag/dichroic), [interference](../tag/interference), [juno](../tag/juno), [response:12592](../tag/response:12592), [grazing](../tag/grazing), [charismatic-megafauna](../tag/charismatic-megafauna), [pole-bracket](../tag/pole-bracket), [category:experiment](../tag/category:experiment), [activity:aerial-photography](../tag/activity:aerial-photography), [activity:multispectral-imaging](../tag/activity:multispectral-imaging), [activity:pole-mapping](../tag/activity:pole-mapping)
+
+----
 
 This month *Nature* published an article with the following assertions:
 

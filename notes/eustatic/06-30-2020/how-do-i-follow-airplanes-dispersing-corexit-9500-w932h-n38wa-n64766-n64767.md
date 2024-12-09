@@ -14,6 +14,8 @@ by [eustatic](../profile/eustatic) June 30, 2020 22:15
 
 June 30, 2020 22:15 | Tags: [health](../tag/health), [water-quality](../tag/water-quality), [airplane](../tag/airplane), [dispersant](../tag/dispersant), [question:general](../tag/question:general), [general](../tag/general), [gulf-of-mexico](../tag/gulf-of-mexico), [zoom:16](../tag/zoom:16), [zoom:15](../tag/zoom:15), [prince-william-sound](../tag/prince-william-sound), [lat:29.568306](../tag/lat:29.568306), [lon:-90.657505](../tag/lon:-90.657505)
 
+----
+
 Dispersants are toxic, and while they submerge oil spilled, and so will continue to be used in USA oil response, they can increase the uptake of oil by animals, including humans, in an oil spill response area. For more information, Follow the [Alert Project](https://alertproject.org/fact-sheets/), which has been collecting testimonies from response workers harmed by dispersant application, and spearheading national litigation to incorporate science of environmental and health impact into EPA policy on dispersant use.
 
 [Fishers and advocates](https://alaska-native-news.com/judges-ruling-on-epa-chemical-dispersants-lawsuit-impacts-alaska/49701/) are highly concerned with dispersant application on the Gulf and other oceans, and seek to track its use. Often, use of dispersants can cause more harm than good, and advocates would like to monitor changes in government policy as more research into the toxicity and effectiveness of dispersants is produced. 

@@ -8,11 +8,15 @@ uid: 440752
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/010/116/original/4.jpg)
+
 # MapKnitter map of Sun Moon Lake Reservoir
 
 by [peteryoung](../profile/peteryoung) May 31, 2015 15:55
 
 May 31, 2015 15:55 | Tags: [mapknitter](../tag/mapknitter), [asia](../tag/asia), [taiwan](../tag/taiwan), [lat:23.8654727](../tag/lat:23.8654727), [lon:120.9120994](../tag/lon:120.9120994)
+
+----
 
 <iframe src="https://mapknitter.org/embed/sun-moon-lake-reservoir--2" style="border:none" width="600px" height="400px"></iframe><br /><br />
 

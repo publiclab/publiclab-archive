@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/003/706/original/MobTest-379-83.jpg)
+
 # Mobius Filter-O-Matic
 
 by [cfastie](../profile/cfastie) April 18, 2014 15:14
 
 April 18, 2014 15:14 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [infrared](../tag/infrared), [infragram](../tag/infragram), [3d-printing](../tag/3d-printing), [infragram-sandbox](../tag/infragram-sandbox), [mobius-actioncam](../tag/mobius-actioncam), [response:10324](../tag/response:10324), [mobius](../tag/mobius), [infragram-point-shoot](../tag/infragram-point-shoot), [upgrade:multispectral-imaging](../tag/upgrade:multispectral-imaging), [upgrade:mobius](../tag/upgrade:mobius), [upgrade:infragram-point-shoot](../tag/upgrade:infragram-point-shoot), [upgrade:mobius-action-cam](../tag/upgrade:mobius-action-cam)
+
+----
 
 To figure out how to get the best plant health images with a Mobius ActionCam, I will remove the IR block filter, but I want to test a few different replacement filters. So I made a device that holds the camera and has a filter holder in front of the lens.  
 [![MobTest-379-24.jpg](https://i.publiclab.org/system/images/photos/000/003/707/medium/MobTest-379-24.jpg)](https://i.publiclab.org/system/images/photos/000/003/707/original/MobTest-379-24.jpg)  

@@ -3,6 +3,8 @@ uid: 470966
 created_at: 2016-04-20 08:57:13 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/470966/medium/marco1.jpg)
+
 # cristoforetti
 
 PhD in theoretical physics, after a couple of postdocs studying lattice QCD I am now working as data scientist at the MPBA group by the FBK research center in Trento - Italy.

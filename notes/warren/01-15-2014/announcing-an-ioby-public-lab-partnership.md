@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/002/556/original/ioby-publiclab.png)
+
 # Announcing an ioby + Public Lab partnership
 
 by [warren](../profile/warren) January 15, 2014 16:21
 
 January 15, 2014 16:21 | Tags: [gulf-coast](../tag/gulf-coast), [refinery](../tag/refinery), [crowdfunding](../tag/crowdfunding), [flare](../tag/flare), [ioby](../tag/ioby), [local-projects](../tag/local-projects)
+
+----
 
 Hello all -- we wanted to briefly announce a new initiative in partnership with ioby, a locally-focused crowdfunding platform. 
 

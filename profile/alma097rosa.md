@@ -3,6 +3,8 @@ uid: 456383
 created_at: 2015-11-02 19:22:49 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/d48d21f872ecd6eeda7ebf64595af214)
+
 # alma097rosa
 
 

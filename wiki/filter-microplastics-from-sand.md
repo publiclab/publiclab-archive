@@ -8,11 +8,15 @@ uid: 664477
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/041/783/original/Nurdles_sieve_eustatic.jpg)
+
 # Filtering microplastics from sand
 
 by [bhamster](../profile/bhamster)
 
 November 19, 2020 17:42 | Tags: [remediation](../tag/remediation), [method](../tag/method), [beach](../tag/beach), [microplastics](../tag/microplastics), [marine-debris](../tag/marine-debris), [nurdles](../tag/nurdles), [plastic-pellets](../tag/plastic-pellets), [filter-plastics-sand](../tag/filter-plastics-sand)
+
+----
 
 Community groups have gotten creative with ways to collect and filter microplastics pollution from sandy coastal beaches and riverbanks. Read on below for methods that range from standardized protocols, to clean up strategies, to youth-oriented activities. 
 
@@ -90,7 +94,7 @@ Lead image from [@eustatic](https://publiclab.org/profile/eustatic) [in this pos
 
 Posts written by Public Lab community members and tagged with `activity:filter-microplastics-from-sand` will appear here. You can post your own activity using the button below.
 
-[activities:filter-microplastics-from-sand]
+[filter-microplastics-from-sand](../../tag/activity:filter-microplastics-from-sand)
 
 <br>
 
@@ -98,7 +102,7 @@ Posts written by Public Lab community members and tagged with `activity:filter-m
 
 Questions from the Public Lab community tagged with `question:filter-microplastics-from-sand` will appear here. Ask your own question using the button below!
 
-[questions:filter-microplastics-from-sand]
+[filter-microplastics-from-sand](../../tag/question:filter-microplastics-from-sand)
 
 <br>
 

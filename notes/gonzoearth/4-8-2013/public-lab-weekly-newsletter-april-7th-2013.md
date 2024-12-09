@@ -14,6 +14,8 @@ by [gonzoearth](../profile/gonzoearth) April 08, 2013 04:13
 
 April 08, 2013 04:13 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
 
+----
+
 Public Lab community weekly update....
 
 Article: [Crowdfunding an open source community: how backers become contributors](http://publiclaboratory.org/notes/warren/4-2-2013/crowdfunding-open-source-community-how-backers-become-contributors)

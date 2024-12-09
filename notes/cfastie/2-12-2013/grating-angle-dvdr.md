@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/sites/default/files/spectroPlanDVD.png)
+
 # Grating angle: DVD+R
 
 by [cfastie](../profile/cfastie) February 13, 2013 03:39
 
 February 13, 2013 03:39 | Tags: [spectrometer](../tag/spectrometer), [vermont](../tag/vermont), [diffraction-grating](../tag/diffraction-grating), [focus](../tag/focus)
+
+----
 
 <em>I measured angle g for multiple distances (D) between the entrance slit and the grating.</em>
 

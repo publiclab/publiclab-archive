@@ -8,11 +8,15 @@ uid: 237313
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/021/409/original/kitswindow_copy.jpg)
+
 # Kits are on the move!
 
 by [Bronwen](../profile/Bronwen) August 24, 2017 15:59
 
 August 24, 2017 15:59 | Tags: [providence](../tag/providence), [portland](../tag/portland), [kits](../tag/kits), [store](../tag/store), [jobs](../tag/jobs), [kits-initiative](../tag/kits-initiative), [kits-store](../tag/kits-store)
+
+----
 
 Our kits are on the move! Those of you on our mailing lists may have already heard, but in case you missed it...
 

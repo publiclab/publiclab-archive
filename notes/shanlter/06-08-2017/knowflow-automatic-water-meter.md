@@ -8,11 +8,15 @@ uid: 420999
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/020/720/original/BOM.JPG)
+
 # Build KnowFlow: automatic water moniter
 
 by [shanlter](../profile/shanlter) June 08, 2017 09:35
 
 June 08, 2017 09:35 | Tags: [arduino](../tag/arduino), [water-quality](../tag/water-quality), [water](../tag/water), [water-quality-sensor](../tag/water-quality-sensor), [open-water](../tag/open-water), [barnstar:photo-documentation](../tag/barnstar:photo-documentation), [china](../tag/china), [seeks:replications](../tag/seeks:replications), [data-logging](../tag/data-logging), [knowflow](../tag/knowflow), [activity:water-monitoring](../tag/activity:water-monitoring), [activity:data-logging](../tag/activity:data-logging), [activity:knowflow](../tag/activity:knowflow)
+
+----
 
 For couple of months I'm at Shanghai, working with [DFRobot](https://www.dfrobot.com), a robotics and open source hardware provider company, to develop an open source automatic water quality monitoring device that could be used for [Pearl River monitoring](https://publiclab.org/notes/shanlter/09-21-2016/pearl-river-monitoring-in-guangzhou).
 

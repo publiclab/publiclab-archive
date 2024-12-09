@@ -14,6 +14,8 @@ by [niklasjordan](../profile/niklasjordan) May 17, 2018 13:27
 
 May 17, 2018 13:27 | Tags: [answered](../tag/answered), [question:microplastics](../tag/question:microplastics), [microplastics](../tag/microplastics), [ftir](../tag/ftir)
 
+----
+
 How did you proceed, which system did you use? Somebody use the [LADI trawler][1] or are there better alternatives?
 
 We want to determine and monitor how much microplasty is in our local lakes.

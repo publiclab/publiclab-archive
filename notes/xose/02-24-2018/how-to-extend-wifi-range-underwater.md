@@ -14,6 +14,8 @@ by [xose](../profile/xose) February 24, 2018 16:59
 
 February 24, 2018 16:59 | Tags: [question](../tag/question), [gopro](../tag/gopro), [question:question](../tag/question:question), [question:gopro](../tag/question:gopro), [mini-camera](../tag/mini-camera), [underwater-image](../tag/underwater-image), [question:mini-camera](../tag/question:mini-camera)
 
+----
+
 I'm surfing the web to find solutions to the underwater minimum range of gopro like cameras wifi signal.  
 I've found this two solutions.  
 - Lumica solution → http://www.newsshooter.com/2015/11/24/interbee-2015-lumica-underwater-wifi-extension-unit-for-action-cameras

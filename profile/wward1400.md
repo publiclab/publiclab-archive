@@ -3,6 +3,8 @@ uid: 46742
 created_at: 2013-05-20 02:09:10 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/46742/medium/10929135_10100231810836658_7027433119428965733_n.jpg)
+
 # wward1400
 
 Balloon & kite mapping were my gateway interests.  I have worked with ArcGIS mostly and am working through open source tools.  

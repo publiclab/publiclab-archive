@@ -8,11 +8,15 @@ uid: 447002
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/012/127/original/20150930_102630.jpg)
+
 # Ernesto. Catching up.
 
 by [ernestootero](../profile/ernestootero) October 25, 2015 01:52
 
 October 25, 2015 01:52 | Tags: [oil](../tag/oil), [kit](../tag/kit), [testing](../tag/testing), [first-time-poster](../tag/first-time-poster)
+
+----
 
 A summary of activity.
 Openned Kit on 30 September 2015

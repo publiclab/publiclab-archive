@@ -3,6 +3,8 @@ uid: 608717
 created_at: 2019-08-03 19:47:04 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/608717/medium/tlc-logo.png)
+
 # techlearningcollective
 
 The Tech Learning Collective is an educational initiative run by radical queer and femme technologists offering unparalleled, low-cost computer classes primarily to marginalized groups and individuals who are politically engaged. Unlike coding bootcamps that focus on moving the highest number of students through rote task-completion for the goal of job placement, Tech Learning Collective teachers facilitate foundational skill building through Socratic discussion and kinetic, experience-based training.

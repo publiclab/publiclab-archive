@@ -14,6 +14,8 @@ by [yala](../profile/yala) May 02, 2018 20:53
 
 May 02, 2018 20:53 | Tags: [mapping](../tag/mapping), [networking](../tag/networking), [development](../tag/development), [mesh](../tag/mesh), [operations](../tag/operations), [question:general](../tag/question:general), [location:blurred](../tag/location:blurred), [commons](../tag/commons), [cartography](../tag/cartography), [critical](../tag/critical), [collective](../tag/collective), [infrastructure](../tag/infrastructure), [place:witzenhausen](../tag/place:witzenhausen)
 
+----
+
 Best Public Lab community,
 
 I have been loosely following their activities within the last decade and just sign up to this community space.

@@ -8,11 +8,15 @@ uid: 422561
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/010/846/original/20150523_175051.jpg)
+
 # People of the New Orleans Urban Waters Project
 
 by [stevie](../profile/stevie)
 
 July 22, 2015 15:52 | Tags: [parent:urban-waters-mapping-nola](../tag/parent:urban-waters-mapping-nola)
+
+----
 
 [![20150314_160012.jpg](https://i.publiclab.org/system/images/photos/000/010/847/medium/20150314_160012.jpg)](https://i.publiclab.org/system/images/photos/000/010/847/original/20150314_160012.jpg)
 by Stevie

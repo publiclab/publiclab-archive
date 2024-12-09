@@ -14,6 +14,8 @@ by [warren](../profile/warren) September 25, 2017 18:05
 
 September 25, 2017 18:05 | Tags: [thermal-photography](../tag/thermal-photography), [flir](../tag/flir), [natural-gas](../tag/natural-gas), [gas](../tag/gas), [answered](../tag/answered), [question:thermal-photography](../tag/question:thermal-photography), [gasfinder](../tag/gasfinder), [gas-leaks](../tag/gas-leaks), [question:flir](../tag/question:flir), [question:gas](../tag/question:gas), [question:gas-leaks](../tag/question:gas-leaks), [lng](../tag/lng), [liquified-natural-gas](../tag/liquified-natural-gas)
 
+----
+
 From [Toxics Action Center](https://toxicsaction.org), @clairebwmiller is asking on behalf of a community that's trying to identify gas leaks in Liquified Natural Gas (LNG) tanks nearby, and they're interested in the cameras listed here:
 
 [http://www.flir.com/ogi/](http://www.flir.com/ogi/)

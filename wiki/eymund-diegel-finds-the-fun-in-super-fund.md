@@ -8,11 +8,15 @@ uid: 1259
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/008/987/original/7539551960_70ce2a732e_o.jpg)
+
 # Eymund Diegel finds the fun in Super Fund
 
 by [mollydanielsson](../profile/mollydanielsson)
 
 February 14, 2015 01:49 | Tags: [new-york-city](../tag/new-york-city), [gowanus](../tag/gowanus), [gowanus-canal](../tag/gowanus-canal), [gowanus-canal-superfund-site](../tag/gowanus-canal-superfund-site), [grassrootsmappingforum](../tag/grassrootsmappingforum), [glam](../tag/glam), [northeast](../tag/northeast), [with:shannon](../tag/with:shannon), [style:fancy](../tag/style:fancy), [with:eymund](../tag/with:eymund), [gmf-4](../tag/gmf-4)
+
+----
 
 **Published in 2013** [Grassroots Mapping Forum#4.](http://publiclab.org/forum)
 

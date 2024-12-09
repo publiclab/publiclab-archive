@@ -8,11 +8,15 @@ uid: 432241
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/008/238/original/glowdoodle-2014-11-25-20-49-36.jpg)
+
 # Comparison of Heat Insulation in Two Different Aged Building using a Thermal Flashlight
 
 by [AndrewConner](../profile/AndrewConner) December 03, 2014 16:07
 
 December 03, 2014 16:07 | Tags: [thermal-photography](../tag/thermal-photography), [thermal-flashlight](../tag/thermal-flashlight), [northeastern-university](../tag/northeastern-university), [thermal-imaging](../tag/thermal-imaging), [public-health](../tag/public-health), [energy-conservation](../tag/energy-conservation), [insulation](../tag/insulation), [heat](../tag/heat), [replication:625](../tag/replication:625)
+
+----
 
 Project Contributors: Andrew Conner, Keishi Nambara, Alexa Kacin, Melissa Giblin
 

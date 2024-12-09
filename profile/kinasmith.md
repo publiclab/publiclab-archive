@@ -3,6 +3,8 @@ uid: 445906
 created_at: 2015-07-20 18:32:45 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/445906/medium/logo.jpg)
+
 # kinasmith
 
 ###I am human.

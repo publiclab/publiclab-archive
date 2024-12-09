@@ -8,11 +8,15 @@ uid: 9
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/020/154/original/plots-logo-transparent.jpg)
+
 # Public Lab nonprofit job posting: Open Hardware Community Manager
 
 by [Shannon](../profile/Shannon) February 16, 2017 15:43
 
 February 16, 2017 15:43 | Tags: [nonprofit](../tag/nonprofit), [jobs](../tag/jobs)
+
+----
 
 ---- _**EXTENDED DEADLINE: MONDAY 8AM ET**_ ----
 

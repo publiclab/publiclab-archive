@@ -8,10 +8,14 @@ uid: 521938
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/024/180/original/spectro_evo2s.png)
+
 # An evolution of the 3D print version of the Spectrometer
 
 by [ajy00](../profile/ajy00) March 25, 2018 12:27
 
 March 25, 2018 12:27 | Tags: [seeks:replications](../tag/seeks:replications), [activity:lego-spectrometer](../tag/activity:lego-spectrometer), [lego-spectrometer](../tag/lego-spectrometer), [first-time-poster](../tag/first-time-poster)
+
+----
 
 Evolved as a slimmer version of the block print.  The files are available from thingiverse at https://www.thingiverse.com/thing:2839327

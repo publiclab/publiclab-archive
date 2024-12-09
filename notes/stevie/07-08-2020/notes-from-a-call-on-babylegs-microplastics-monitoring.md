@@ -8,11 +8,15 @@ uid: 422561
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/040/134/original/babylegs_plastic.jpg)
+
 # Notes from a call on Babylegs (microplastics monitoring)
 
 by [stevie](../profile/stevie) July 08, 2020 20:21
 
 July 08, 2020 20:21 | Tags: [water-quality](../tag/water-quality), [microplastics](../tag/microplastics), [babylegs](../tag/babylegs)
+
+----
 
 On July 2, 13 people joined on a call to share a discussion about microplastics found in water, and the [Babylegs monitoring tool][1]. 
 

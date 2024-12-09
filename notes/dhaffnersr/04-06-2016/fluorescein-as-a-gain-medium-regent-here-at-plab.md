@@ -8,11 +8,15 @@ uid: 461120
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/015/372/original/prolight_led_eosin_y_apr4.JPG)
+
 # Fluorescein as a gain medium regent here at Plab
 
 by [dhaffnersr](../profile/dhaffnersr) April 06, 2016 14:58
 
 April 06, 2016 14:58 | Tags: 
+
+----
 
 I am experimenting with fluorescein in NaOH3 (sodium bi-carbonate) as a gain medium for use as a regent for oil sampling. This series of tests are not done on an oil sample yet, but were done using my Prolight 1W UV LED.
 

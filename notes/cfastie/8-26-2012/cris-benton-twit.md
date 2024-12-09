@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/sites/default/files/CrisBentonTwit.jpg)
+
 # Cris Benton on TWiT
 
 by [cfastie](../profile/cfastie) August 26, 2012 12:57
 
 August 26, 2012 12:57 | Tags: [kite-mapping](../tag/kite-mapping), [media](../tag/media), [kap](../tag/kap)
+
+----
 
 Cris Benton has been taking photographs with kite-lofted cameras for 20 years.  <a href="https://www.youtube.com/watch?v=pyEJq7a1bE0">He showed some of his gear and discussed his KAP projects on TWiT this week.</a>  The Cris Benton segment starts at 49:10 on the video.
 

@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/Screen shot 2013-03-22 at 12.53.42 PM.png)
+
 # Public Lab/open spectrometry presentation
 
 by [warren](../profile/warren) March 22, 2013 17:01
 
 March 22, 2013 17:01 | Tags: [spectrometer](../tag/spectrometer), [boston](../tag/boston), [presentations](../tag/presentations), [event](../tag/event), [talk](../tag/talk), [presentation](../tag/presentation)
+
+----
 
 I'm giving an Ignite talk on Monday at Ignite LocationTech in Boston, and put together these slides... feel free to reuse! And no peeking if you're going to be there on Monday night... :-)
 

@@ -8,11 +8,15 @@ uid: 422561
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/020/798/original/20170614_105500.jpg)
+
 # New Orleans Stormwater Project Data
 
 by [stevie](../profile/stevie), [warren](../profile/warren)
 
 June 09, 2017 21:45 | Tags: [new-orleans](../tag/new-orleans), [stormwater](../tag/stormwater), [rain](../tag/rain)
+
+----
 
 Between June and August 2017, we will be collecting data on three stormwater sites around New Orleans. More information a can be found on the [project here.](https://publiclab.org/notes/stevie/02-01-2017/stormwater-workshop-series-in-new-orleans)
 

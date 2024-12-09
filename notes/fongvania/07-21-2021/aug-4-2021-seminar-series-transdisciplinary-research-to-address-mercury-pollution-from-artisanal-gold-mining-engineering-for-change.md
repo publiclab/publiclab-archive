@@ -14,6 +14,8 @@ by [fongvania](../profile/fongvania) July 21, 2021 02:48
 
 July 21, 2021 02:48 | Tags: [event](../tag/event), [research](../tag/research), [pollution](../tag/pollution), [mercury](../tag/mercury), [event:rsvp](../tag/event:rsvp), [place:colombia](../tag/place:colombia), [date:08-04-2021](../tag/date:08-04-2021), [engineering4change](../tag/engineering4change)
 
+----
+
 Hi! I wanted to share an event hosted by Engineering for Change that folks may be interested in ~
 
 ## Date and Time

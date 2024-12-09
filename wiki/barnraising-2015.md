@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/013/195/original/barnraising-2015-flyer.png)
+
 # Barnraising 2015
 
 by [warren](../profile/warren), [stevie](../profile/stevie), [liz](../profile/liz)
 
 December 04, 2015 20:50 | Tags: [barnraising](../tag/barnraising), [parent:barnraising](../tag/parent:barnraising), [barnraising-2015](../tag/barnraising-2015)
+
+----
 
 ####2015 Annual Barnraising, "Building networks across regions" November 20-22nd in Cocodrie, Louisiana! 
 
@@ -293,4 +297,4 @@ https://news.vice.com/video/petcoke-toxic-waste-in-the-windy-city
 
 ## Related posts
 
-[notes:barnraising-2015]
+[barnraising-2015](../../tag/barnraising-2015)

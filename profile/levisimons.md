@@ -3,6 +3,8 @@ uid: 1087
 created_at: 2013-05-20 20:04:04 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/2ef80f6acf20879d9b9078acf146225f)
+
 # levisimons
 
 I'm a high school science teacher in Los Angeles.  I have a research background, mostly in cosmic-rays, but I've started getting into environmental mapping the past few years.  In general, I'm also building a student research network out in LA so I can support students getting involved with current research or building their own project.

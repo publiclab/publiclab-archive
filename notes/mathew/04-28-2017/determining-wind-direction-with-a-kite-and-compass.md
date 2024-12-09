@@ -8,11 +8,15 @@ uid: 4
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/020/259/original/IMG_7783.jpg)
+
 # Determining wind direction with a kite and compass
 
 by [mathew](../profile/mathew) April 28, 2017 21:57
 
 April 28, 2017 21:57 | Tags: [kite-mapping](../tag/kite-mapping), [anemometer](../tag/anemometer), [wind-speed-meter](../tag/wind-speed-meter), [with:gretchengehrke](../tag/with:gretchengehrke), [kite-anemometer](../tag/kite-anemometer), [with:marlokeno](../tag/with:marlokeno), [activity:kite-anemometer](../tag/activity:kite-anemometer), [wind-speed](../tag/wind-speed), [activity:wind-speed](../tag/activity:wind-speed)
+
+----
 
 During [PM hotspot monitoring](https://publiclab.org/notes/mathew/04-28-2017/practicing-a-pm-hotspot-survey-in-new-auburn-wi), we launched a small kite to take wind direction measurements above the tree height. These measurements were usually about 10-15° off of our measurements at ground level.
 

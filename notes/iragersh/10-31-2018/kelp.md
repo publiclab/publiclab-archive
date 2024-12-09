@@ -14,6 +14,8 @@ by [iragersh](../profile/iragersh) October 31, 2018 01:38
 
 October 31, 2018 01:38 | Tags: [new-york-city](../tag/new-york-city), [agriculture](../tag/agriculture), [new-york](../tag/new-york), [water-quality](../tag/water-quality), [permits](../tag/permits), [issue-brief](../tag/issue-brief), [first-time-poster](../tag/first-time-poster), [kelp](../tag/kelp), [aquaculture](../tag/aquaculture), [harlem](../tag/harlem)
 
+----
+
 ### Introduction:
 
 I would like to grow kelp in West Harlem Piers.  
@@ -34,4 +36,4 @@ Bren Smith of Greenwave grows kelp.
 
 Will it grow?  If it grows, how fast will it grow?  Will small fish hang out near it?  What other critters will we find next to the kelp?  
 
-[questions:kelp]
+[kelp](../../tag/question:kelp)

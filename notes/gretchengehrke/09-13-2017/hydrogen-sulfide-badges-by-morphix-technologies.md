@@ -14,6 +14,8 @@ by [gretchengehrke](../profile/gretchengehrke) September 13, 2017 23:02
 
 September 13, 2017 23:02 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](../tag/hydrogen-sulfide), [air-quality](../tag/air-quality), [h2s](../tag/h2s)
 
+----
+
 Hi Folks! I just found these hydrogen sulfide passive samplers that are made by Morphix Technologies. 
 
 They involve a color-change reaction that appears to be triggered when the accumulated hydrogen sulfide in the badge (after a semipermeable membrane) reaches a certain concentration that corresponds to 2.0 ppm per hour, and at that point there is sufficient hydrogen sulfide to react with the substrate to change color. So, for example, if the badge were worn for 8 hours in a house with 0.25 ppm hydrogen sulfide, the badge would change colors after 8 hours. It's not clear to me if there is a progressive color change that correlates with concentration above that minimum threshold, or if there is no change in color intensity with increased hydrogen sulfide concentration. 

@@ -8,11 +8,15 @@ uid: 422561
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/021/767/original/20170304_132424.jpg)
+
 # Goal Setting Workshop
 
 by [stevie](../profile/stevie), [warren](../profile/warren)
 
 September 26, 2017 16:08 | Tags: [workshop](../tag/workshop), [methods](../tag/methods), [getting-started](../tag/getting-started), [collaborative-tools](../tag/collaborative-tools), [goal](../tag/goal)
+
+----
 
 ## About this workshop: 
 

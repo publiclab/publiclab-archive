@@ -8,11 +8,15 @@ uid: 9
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/008/767/original/plots-logo-transparent.jpg)
+
 # Public Lab community newsletter 2.1.15
 
 by [Shannon](../profile/Shannon) February 01, 2015 23:19
 
 February 01, 2015 23:19 | Tags: [newsletter](../tag/newsletter)
+
+----
 
 This week in the Public Lab community newsletter, join us tomorrow for an OpenHour on lending libraries, become a beta tester of MapKnitter 2 and pitch in on a conversation about dealing with patents. Enjoy!
 

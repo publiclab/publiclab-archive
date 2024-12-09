@@ -8,11 +8,15 @@ uid: 426547
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/010/033/original/Prototipo_foto_Miguel_PeixeDSCF1505.jpg)
+
 # Mãe d'água - Rede InfoAmazonia 
 
 by [GSan](../profile/GSan), [Markos](../profile/Markos), [vjpixel](../profile/vjpixel), [Gina](../profile/Gina)
 
 May 26, 2015 22:30 | Tags: [water-quality](../tag/water-quality), [list:plots-waterquality](../tag/list:plots-waterquality), [brasil](../tag/brasil), [parent:open-water](../tag/parent:open-water), [redeinfoamazonia](../tag/redeinfoamazonia), [maedagua](../tag/maedagua), [lang:pt](../tag/lang:pt), [list:publiclab-portugues](../tag/list:publiclab-portugues), [south-america](../tag/south-america)
+
+----
 
 ###Notas de pesquisas relacionadas:
 http://publiclab.org/notes/GSan/08-26-2015/mae-d-agua-indice-de-qualidade-water-mother-quality-index

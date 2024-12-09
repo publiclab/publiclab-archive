@@ -3,6 +3,8 @@ uid: 9
 created_at: 2013-04-11 15:26:24 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/492a03b84e07ddf590c7af40efd3f074)
+
 # Shannon
 
 A founder of Public Lab, Shannon is based in New Orleans as Executive Director of the organization, managing the work of the Public Lab nonprofit. 

@@ -3,6 +3,8 @@ uid: 58398
 created_at: 2013-08-14 20:09:26 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/d5d09cc63b9168580db42018c287375f)
+
 # ttaylor
 
 mathematics professor, small business owner, interest in sensor signal processing

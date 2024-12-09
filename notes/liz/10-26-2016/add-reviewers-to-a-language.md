@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/018/629/original/Screen_Shot_2016-10-26_at_4.26.13_PM.png)
+
 # Add Reviewers to a language (managers)
 
 by [liz](../profile/liz) October 26, 2016 20:26
 
 October 26, 2016 20:26 | Tags: [community](../tag/community), [website](../tag/website), [localization](../tag/localization), [translation](../tag/translation), [language](../tag/language), [activity:localization-managers](../tag/activity:localization-managers), [transifex](../tag/transifex)
+
+----
 
 This activity is for managers of Public Lab's Transifex project. Please leave a comment if you would like to help manage this project. By the end of this activity, you will know how to change the role of people as reviewers.   
 

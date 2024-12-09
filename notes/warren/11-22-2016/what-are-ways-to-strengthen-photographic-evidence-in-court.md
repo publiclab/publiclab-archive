@@ -14,6 +14,8 @@ by [warren](../profile/warren) November 22, 2016 18:19
 
 November 22, 2016 18:19 | Tags: [evidence](../tag/evidence), [photo-monitoring](../tag/photo-monitoring), [timelapse](../tag/timelapse), [legal](../tag/legal), [metadata](../tag/metadata), [chain-of-custody](../tag/chain-of-custody), [question:timelapse](../tag/question:timelapse), [question:evidence](../tag/question:evidence), [question:photo-monitoring](../tag/question:photo-monitoring), [photographic-evidence](../tag/photographic-evidence), [court](../tag/court), [response:13716](../tag/response:13716), [photo-evidence](../tag/photo-evidence), [question:legal](../tag/question:legal), [law-and-policy](../tag/law-and-policy), [question:law-and-policy](../tag/question:law-and-policy)
 
+----
+
 ###What I want to do or know
 
 Folks in the Public Lab network are increasingly interested in using photographs of pollution as evidence in legal cases, as a cheap and easy way to record incidents; see #photo-monitoring.

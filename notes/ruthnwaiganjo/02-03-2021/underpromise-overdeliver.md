@@ -8,11 +8,15 @@ uid: 725565
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/042/598/original/Screenshot_2021-02-03_at_17.53.28.png)
+
 # Underpromise | Overdeliver
 
 by [ruthnwaiganjo](../profile/ruthnwaiganjo) February 03, 2021 15:05
 
 February 03, 2021 15:05 | Tags: [blog-submission](../tag/blog-submission), [outreachy-2020](../tag/outreachy-2020), [estimations](../tag/estimations)
+
+----
 
 Hello, so recently I decided to combine two blog prompts from Outreachy because I was trying to find the inspiration to write the previous one. A week later, with another blog prompt to write, I came across this quote that nudged me to start writing.  
 

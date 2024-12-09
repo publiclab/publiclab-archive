@@ -14,6 +14,8 @@ by [liz](../profile/liz), [bhamster](../profile/bhamster), [stevie](../profile/s
 
 January 19, 2021 21:16 | Tags: 
 
+----
+
 Public Lab respectfully draws on multiple rich lineages of organizing focused on site-specific knowledge production towards community self-determination: 
 
 >_We lift up indigenous movements for land defense, poor people's struggles for land reform and tenure, the lived expertise of HIV patients that changed medical research, and the knowledge production undertaken by families affected by cancer clusters as ancestors in this work. We lift up the methods and ethics of Freirian organizing, action research, participatory planning, public participation in geographic information systems (PPGIS), and popular epidemiology as we develop methods and ethics._ 
@@ -140,7 +142,7 @@ Methods published on Public Lab and tagged with `organizing` will appear on the 
 
 Activities on Public Lab that have been tagged with `activity:organizing` will appear here
 
-[activities:organizing]
+[organizing](../../tag/activity:organizing)
 
 <hr style="height:3px;border-width:0;color:gray;background-color:gray">
 
@@ -154,7 +156,7 @@ Activities on Public Lab that have been tagged with `activity:organizing` will a
 
 Questions tagged with `question:organizing` will appear here
 
-[questions:organizing]
+[organizing](../../tag/question:organizing)
 
 <hr>
 

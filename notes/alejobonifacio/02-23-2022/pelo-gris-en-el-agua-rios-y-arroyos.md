@@ -8,11 +8,15 @@ uid: 639376
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/045/424/original/PeloGrisActPortada_%281%29.jpeg)
+
 # ¿“Pelo” gris en el agua ríos y arroyos? 
 
 by [alejobonifacio](../profile/alejobonifacio) February 23, 2022 22:53
 
 February 23, 2022 22:53 | Tags: [sewage](../tag/sewage), [water-quality](../tag/water-quality), [bacteria](../tag/bacteria), [lang:es](../tag/lang:es), [new](../tag/new), [wastewater](../tag/wastewater), [activity:new](../tag/activity:new), [zoom:6](../tag/zoom:6), [lon:-64](../tag/lon:-64), [lat:-31](../tag/lat:-31), [research-curation-fellows](../tag/research-curation-fellows), [activity:wastewater](../tag/activity:wastewater)
+
+----
 
 ## Propósito
 

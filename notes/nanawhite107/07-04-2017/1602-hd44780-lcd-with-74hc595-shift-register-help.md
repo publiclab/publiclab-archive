@@ -14,6 +14,8 @@ by [nanawhite107](../profile/nanawhite107) July 04, 2017 10:16
 
 July 04, 2017 10:16 | Tags: [question:general](../tag/question:general)
 
+----
+
 I'm using an Arduino Uno for this project.
 
 I set up a 1602 HD44780 LCD with the Arduino uno, and was able to get the "Hello World" example to run (easy peasy).

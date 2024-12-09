@@ -14,6 +14,8 @@ by [alejobonifacio](../profile/alejobonifacio) November 29, 2021 13:39
 
 November 29, 2021 13:39 | Tags: [sewage](../tag/sewage), [water-quality](../tag/water-quality), [lang:es](../tag/lang:es), [wastewater](../tag/wastewater), [advocacy](../tag/advocacy), [south-america](../tag/south-america), [laws](../tag/laws), [zoom:14](../tag/zoom:14), [law-and-policy](../tag/law-and-policy), [research-curation-fellows](../tag/research-curation-fellows), [lat:-31.4](../tag/lat:-31.4), [lon:-64.08](../tag/lon:-64.08), [waste-water](../tag/waste-water), [chacra-de-la-merced](../tag/chacra-de-la-merced)
 
+----
+
 # Resumen
 La contaminación ambiental es un problema que afecta de diversas maneras a todos los habitantes de los ecosistemas. En el caso de los seres humanos, vulnera innumerables aspectos de su vida social, económica y sanitaria. En el caso del barrio de Chacra de la Merced la situación es preocupante. Esta zona del oeste de la ciudad de Córdoba sufre uno de los mayores problemas ambientales de la provincia, la contaminación del río Suquía por las descargas de la planta de tratamiento de efluentes cloacales Bajo Grande. Analizando las distintas partes del derecho que refieren al agua, se considera la situación particular de este barrio de Córdoba y se derivan conclusiones a partir de las acciones legales generadas hasta el momento y los resultados de estas.
 

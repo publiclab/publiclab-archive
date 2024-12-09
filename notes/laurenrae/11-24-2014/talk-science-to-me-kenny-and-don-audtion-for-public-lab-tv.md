@@ -8,11 +8,15 @@ uid: 431676
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/008/102/original/IMG_4038.jpg)
+
 # Talk science to me - Kenny and Don audtion for Public Lab TV
 
 by [laurenrae](../profile/laurenrae) November 24, 2014 15:35
 
 November 24, 2014 15:35 | Tags: [gulf-coast](../tag/gulf-coast), [video](../tag/video), [water-sensing](../tag/water-sensing), [riffle](../tag/riffle), [engagement](../tag/engagement), [coqui](../tag/coqui)
+
+----
 
 ###What I want to do
 

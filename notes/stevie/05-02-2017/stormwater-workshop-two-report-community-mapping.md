@@ -8,11 +8,15 @@ uid: 422561
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/020/334/original/20170408_141510.jpg)
+
 # Stormwater Workshop Two Report: Community Mapping
 
 by [stevie](../profile/stevie) May 02, 2017 19:19
 
 May 02, 2017 19:19 | Tags: [gulf-coast](../tag/gulf-coast), [balloon-mapping](../tag/balloon-mapping), [mapping](../tag/mapping), [new-orleans](../tag/new-orleans), [stormwater](../tag/stormwater), [activity:stormwater](../tag/activity:stormwater)
+
+----
 
 On April 8th 12 people gathered for the second in the [Stormwater Workshop series][1]. The goal of this event was to both learn about mapping and also capture aerial and ground survey images of the study sites. We will use these in the next workshop where we’ll be working on a study design for our questions. 
 

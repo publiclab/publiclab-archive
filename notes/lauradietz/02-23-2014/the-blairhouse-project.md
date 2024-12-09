@@ -8,11 +8,15 @@ uid: 420993
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/002/999/original/blair-house-temperature.png)
+
 # The Blair House Project
 
 by [lauradietz](../profile/lauradietz) February 23, 2014 20:22
 
 February 23, 2014 20:22 | Tags: [vermont](../tag/vermont), [events:vermont](../tag/events:vermont), [riffle](../tag/riffle), [snowfest](../tag/snowfest), [blair-house](../tag/blair-house), [quinzee](../tag/quinzee), [snowfest2014](../tag/snowfest2014), [riffle-examples](../tag/riffle-examples)
+
+----
 
 ###What I want to do
 Measure overnight temperature inside verus outside a quinzee.

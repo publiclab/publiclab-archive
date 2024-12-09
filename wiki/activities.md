@@ -14,6 +14,8 @@ by [warren](../profile/warren), [sagarpreet](../profile/sagarpreet), [liz](../pr
 
 August 27, 2013 20:39 | Tags: [education](../tag/education), [curriculum](../tag/curriculum), [needs-revision](../tag/needs-revision), [activity](../tag/activity), [activity-grids](../tag/activity-grids), [activities](../tag/activities), [sidebar:none](../tag/sidebar:none), [activity:website](../tag/activity:website)
 
+----
+
 Our new [activities system](https://publiclab.org/notes/liz/08-30-2016/check-out-these-activity-grids) is an easy way to find step-by-step activities built on Public Lab tools and techniques. 
 
 Activity grids, [like the one listed here](/wiki/spectrometry#Activities), collect these activities, and look like this:
@@ -62,7 +64,7 @@ Collaboration is a core value at Public Lab. Follow these suggestions to offer s
 
 Have questions about posting an activity? Ask away! We're here to help.
 
-[questions:activities]
+[activities](../../tag/question:activities)
 
 ****
 

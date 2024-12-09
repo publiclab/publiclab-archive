@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/Yellow-Balloon-Collage-Denver-2011-985x1024.png)
+
 # PlaceMatters launches a test balloon with an iPhone attached
 
 by [warren](../profile/warren) May 04, 2011 20:19
 
 May 04, 2011 20:19 | Tags: [colorado](../tag/colorado)
+
+----
 
 <iframe src="http://player.vimeo.com/video/22878453?portrait=0&amp;color=ffffff" width="500" height="281" frameborder="0"></iframe><p><a href="http://vimeo.com/22878453">iPhone Balloon Launch</a> from <a href="http://vimeo.com/user5485761">PlaceMatters Videos</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
 

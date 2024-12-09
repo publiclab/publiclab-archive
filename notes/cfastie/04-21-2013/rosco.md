@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/000/105/original/LifePixel-EpReCUNDVIGS.jpg)
+
 # Rosco!
 
 by [cfastie](../profile/cfastie) April 21, 2013 18:57
 
 April 21, 2013 18:57 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [nrg](../tag/nrg), [ndvi](../tag/ndvi), [nir](../tag/nir), [vermont](../tag/vermont), [infrared](../tag/infrared), [white-balance](../tag/white-balance), [infragram](../tag/infragram), [plant-health](../tag/plant-health), [development](../tag/development), [superblue](../tag/superblue), [rosco](../tag/rosco), [vegetation](../tag/vegetation), [infrablue](../tag/infrablue), [infragram-filters](../tag/infragram-filters)
+
+----
 
 <em>Image above: Flowers of trailing arbutus (dark) and plants of hair cap moss (light) in a detail from a grayscale NDVI image</em> 
 

@@ -8,11 +8,15 @@ uid: 148271
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/015/488/original/IMG_8136.jpg)
+
 # Southeast United States
 
 by [liz](../profile/liz), [JSummers](../profile/JSummers), [PascalW](../profile/PascalW)
 
 May 21, 2014 15:14 | Tags: [regional](../tag/regional)
+
+----
 
 _above: TaraMei and Justin from ExtraTerrestrial Projects conducting native prairie restoration on the American Tobacco Trail in downtown Durham_
 

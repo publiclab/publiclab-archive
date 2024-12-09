@@ -3,6 +3,8 @@ uid: 426114
 created_at: 2014-07-29 15:16:47 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/426114/medium/omar_foto.JPG)
+
 # omarormachea
 
 Estudios

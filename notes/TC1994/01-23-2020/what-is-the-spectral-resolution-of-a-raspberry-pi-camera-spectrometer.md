@@ -14,6 +14,8 @@ by [TC1994](../profile/TC1994) January 23, 2020 06:13
 
 January 23, 2020 06:13 | Tags: [raspberry-pi-spectrometer](../tag/raspberry-pi-spectrometer), [question:raspberry-pi-spectrometer](../tag/question:raspberry-pi-spectrometer), [first-time-poster](../tag/first-time-poster)
 
+----
+
 Hello, I have seen some activities on Public Lab on spectrometers using raspberry Pi camera, but I would like to find out about the spectral resolution that it can achieve.
 
 This research article here [https://core.ac.uk/download/pdf/132212751.pdf](https://core.ac.uk/download/pdf/132212751.pdf "https://core.ac.uk/download/pdf/132212751.pdf") shows that raspberry pi camera can hit 1nm resolution, but this project only has a spectral bandwidth of 60nm in the UV region.

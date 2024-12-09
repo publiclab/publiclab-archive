@@ -8,11 +8,15 @@ uid: 9
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/035/245/original/pl-narrow.png)
+
 # Public Lab Nonprofit Staff
 
 by [jmacha](../profile/jmacha), [thewrightjess](../profile/thewrightjess), [stevie](../profile/stevie), [joyofsoy](../profile/joyofsoy), [amocorro](../profile/amocorro), [Shannon](../profile/Shannon), [warren](../profile/warren), [mimiss](../profile/mimiss), [read_holman](../profile/read_holman), [a1ahna](../profile/a1ahna), [Bronwen](../profile/Bronwen), [klie](../profile/klie), [gilbert](../profile/gilbert), [liz](../profile/liz), [gretchengehrke](../profile/gretchengehrke), [pdhixenbaugh](../profile/pdhixenbaugh), [icarito](../profile/icarito), [tonyc](../profile/tonyc), [Becki](../profile/Becki), [MelissaN](../profile/MelissaN), [natalie](../profile/natalie), [mathew](../profile/mathew), [gonzoearth](../profile/gonzoearth), [adam-griffith](../profile/adam-griffith), [sara](../profile/sara)
 
 December 06, 2011 06:03 | Tags: [staff](../tag/staff), [nonprofit](../tag/nonprofit), [parent:about](../tag/parent:about)
+
+----
 
 The staff members below run the Public Lab nonprofit organization, which supports the open research community with digital infrastructure, building organizational partnerships, community development, planning and executing organization-wide events such as Barnraisings and conferences, fundraising, and facilitating the open-source publication of the community's work, along with a variety of other tasks.
 

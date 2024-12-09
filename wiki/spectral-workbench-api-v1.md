@@ -14,6 +14,8 @@ by [warren](../profile/warren)
 
 January 27, 2016 15:07 | Tags: [software](../tag/software), [spectral-workbench](../tag/spectral-workbench), [development](../tag/development), [spectral-workbench-api](../tag/spectral-workbench-api), [parent:spectral-workbench-api](../tag/parent:spectral-workbench-api)
 
+----
+
 <div class="warning">The v1.0 Spectral Workbench API has been deprecated; for up-to-date documentation, please see the <a href="/wiki/spectral-workbench-api">Spectral Workbench API page</a></div>
 
 ****

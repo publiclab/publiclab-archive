@@ -8,11 +8,15 @@ uid: 447129
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/011/156/original/IMG_6113.JPG)
+
 # Saturn V KAP rig
 
 by [Juanjo](../profile/Juanjo) August 17, 2015 21:54
 
 August 17, 2015 21:54 | Tags: [kite-mapping](../tag/kite-mapping), [london](../tag/london), [rig](../tag/rig), [uk](../tag/uk), [eu](../tag/eu), [saturnv](../tag/saturnv), [skyshield](../tag/skyshield), [saturn](../tag/saturn), [v](../tag/v), [first-time-poster](../tag/first-time-poster)
+
+----
 
 Build a Saturn V rig for KAP
 

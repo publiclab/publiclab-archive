@@ -8,11 +8,15 @@ uid: 424454
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/009/197/original/Poleparts.JPG)
+
 # DIY Pole Mapping Camera Mount
 
 by [natalie](../profile/natalie) March 06, 2015 23:38
 
 March 06, 2015 23:38 | Tags: [aerial-photography](../tag/aerial-photography), [polemapping](../tag/polemapping), [pole-photography](../tag/pole-photography), [pole](../tag/pole), [aerial-mapping](../tag/aerial-mapping), [aerial-photos](../tag/aerial-photos), [pole-aerial-photography](../tag/pole-aerial-photography), [pole-mapping](../tag/pole-mapping), [tool](../tag/tool), [aerial](../tag/aerial), [aerial-imaging](../tag/aerial-imaging), [poles](../tag/poles), [activity:pole-mapping](../tag/activity:pole-mapping), [pole-mapping-kit](../tag/pole-mapping-kit), [pole-kit](../tag/pole-kit)
+
+----
 
 ##What do I want to do
 So after my first post of DIYing it with the plastic pen caps I decided to go back to the drawing board for sourcing a camera mount. The key things I wanted to keep were:

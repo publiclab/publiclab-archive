@@ -8,11 +8,15 @@ uid: 444468
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/011/105/original/IMG_1771.JPG)
+
 # Low-Flying KAP
 
 by [dbenjamin](../profile/dbenjamin) August 13, 2015 17:41
 
 August 13, 2015 17:41 | Tags: [kap](../tag/kap), [kap-rigs](../tag/kap-rigs), [opendronemap](../tag/opendronemap), [saturnv](../tag/saturnv), [skyshield](../tag/skyshield)
+
+----
 
 Today we attempted a flight over the Cleveland Lakefront Nature Preserve in Cleveland, Ohio. We used an airfoil kite, the Saturn V camera rig, and a Canon S100 with Color IR. Wind speeds were probably between 5 - 10 mph. 
 

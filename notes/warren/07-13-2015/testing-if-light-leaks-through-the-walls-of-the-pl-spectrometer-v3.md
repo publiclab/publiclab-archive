@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/010/653/original/Screenshot_2015-07-13_at_4.53.26_PM.png)
+
 # Testing if light leaks through the walls of the PL Spectrometer v3
 
 by [warren](../profile/warren) July 13, 2015 20:55
 
 July 13, 2015 20:55 | Tags: [spectrometer](../tag/spectrometer), [dsk3](../tag/dsk3), [leak](../tag/leak), [baseline](../tag/baseline), [response:12047](../tag/response:12047)
+
+----
 
 Following up on [a note on possible light going through the black cardstock walls of the v3 spectrometer](/notes/lukebrown/07-11-2015/desktop-spectrometry-kit-v3-for-vnir-field-spectroscopy) by @lukebrown
 

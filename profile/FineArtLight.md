@@ -3,6 +3,8 @@ uid: 436886
 created_at: 2015-03-17 19:17:00 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/436886/medium/20140726_161715.jpg)
+
 # FineArtLight
 
 Lighting for artwork

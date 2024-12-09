@@ -14,4 +14,6 @@ by [gretchengehrke](../profile/gretchengehrke) November 13, 2017 17:24
 
 November 13, 2017 17:24 | Tags: [riffle](../tag/riffle), [question:riffle](../tag/question:riffle), [data-logging](../tag/data-logging), [question:data-logging](../tag/question:data-logging), [knowflow](../tag/knowflow), [question:knowflow](../tag/question:knowflow)
 
+----
+
 I'm curious if the KnowFlow data logger (see #knowflow and #data-logging) and the Riffle (see #riffle) are similar enough to operate using the same code. I know they are both Arduino based, but don't know how much of their respective code could be used on either device. Would the commands be the same, would they be easily adapted for the other device, or are they significantly different? Thanks!

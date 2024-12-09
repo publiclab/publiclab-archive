@@ -3,6 +3,8 @@ uid: 453924
 created_at: 2015-10-09 17:28:01 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/032614fd5555e953ad6b7f5ad27f7681)
+
 # astefanu
 
 

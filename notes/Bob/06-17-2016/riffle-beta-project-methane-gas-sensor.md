@@ -8,11 +8,15 @@ uid: 43743
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/016/663/original/sniffle.jpg)
+
 # Riffle Beta project - Methane Gas Sensor
 
 by [Bob](../profile/Bob) June 17, 2016 17:38
 
 June 17, 2016 17:38 | Tags: [mapping](../tag/mapping), [air-quality](../tag/air-quality), [methane](../tag/methane), [riffle](../tag/riffle), [gas](../tag/gas), [gas-sensor](../tag/gas-sensor), [riffle-beta](../tag/riffle-beta), [activity:riffle](../tag/activity:riffle), [upgrade:riffle](../tag/upgrade:riffle), [oil-and-gas](../tag/oil-and-gas), [riffle-examples](../tag/riffle-examples), [gas-leaks](../tag/gas-leaks)
+
+----
 
 [Leaking natural gas infrastructure](https://en.wikipedia.org/wiki/Gas_leak) is a known problem. A major component of natural gas is methane, which is a greenhouse gas.
 

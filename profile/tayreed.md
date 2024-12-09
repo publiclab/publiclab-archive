@@ -3,6 +3,8 @@ uid: 502372
 created_at: 2017-01-26 19:49:02 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/502372/medium/TaylorReed2.jpg)
+
 # tayreed
 
 A quiet heart, a quiet life. Environmental Sociology senior, Spring Arbor University, currently employed by the Au Sable Institute of Environmental Studies. 

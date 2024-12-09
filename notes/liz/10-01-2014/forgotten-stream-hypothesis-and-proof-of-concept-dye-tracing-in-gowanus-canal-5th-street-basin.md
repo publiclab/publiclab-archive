@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/007/242/original/IMG_2214.JPG)
+
 # Forgotten stream hypothesis and proof of concept dye tracing in Gowanus Canal 5th Street basin 
 
 by [liz](../profile/liz) October 01, 2014 16:50
 
 October 01, 2014 16:50 | Tags: [new-york-city](../tag/new-york-city), [gowanus](../tag/gowanus), [dye-tracing](../tag/dye-tracing), [northeast](../tag/northeast), [with:eymund](../tag/with:eymund)
+
+----
 
 ###What I want to do
 

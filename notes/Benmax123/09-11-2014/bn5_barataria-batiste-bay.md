@@ -8,11 +8,15 @@ uid: 428239
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/006/732/original/bn5-barataria-2014wbckgrnd.jpg)
+
 # BN5_Barataria/Batiste Bay
 
 by [Benmax123](../profile/Benmax123) September 11, 2014 18:46
 
 September 11, 2014 18:46 | Tags: [gulf-coast](../tag/gulf-coast), [wash](../tag/wash), [u](../tag/u), [st.](../tag/st.), [louis](../tag/louis), [washu-stlouis](../tag/washu-stlouis)
+
+----
 
 ###What I want to do
 Map the northeast end of Barataria Bay

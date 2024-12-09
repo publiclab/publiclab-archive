@@ -14,6 +14,8 @@ by [stevie](../profile/stevie) December 02, 2016 16:32
 
 December 02, 2016 16:32 | Tags: [openhour](../tag/openhour), [answered](../tag/answered), [question:question](../tag/question:question), [question:openhour](../tag/question:openhour), [question:regulations](../tag/question:regulations), [question:legal](../tag/question:legal), [question:method](../tag/question:method), [law-and-policy](../tag/law-and-policy), [question:law-and-policy](../tag/question:law-and-policy)
 
+----
+
 ###What I want to do or know
 While there are many ways to do environmental monitoring, only some have been approved by various agencies for official data. I'm interested in understanding:
 

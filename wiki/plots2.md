@@ -14,6 +14,8 @@ by [warren](../profile/warren)
 
 November 08, 2012 12:31 | Tags: [website](../tag/website), [plots2](../tag/plots2), [alphatest](../tag/alphatest), [needs-revision](../tag/needs-revision), [out-of-date](../tag/out-of-date)
 
+----
+
 This is an information page for the **now-complete rewrite** of the Public Lab website on a new platform, with a whole new look. The new website (which you are using already!) replaced the Drupal-based [PublicLaboratory.org](http://publiclaboratory.org) ([on Github](https://github.com/publiclab/plots) which is now redirected, and the old codebase shut down) with [PublicLab.org](http://publiclab.org).
 
 This project is specifically intended to address many issues with the legacy website, which we'd outgrown in many ways. The new website:

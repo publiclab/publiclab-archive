@@ -8,11 +8,15 @@ uid: 994
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/006/636/original/Screen_Shot_2014-09-06_at_7.26.39_AM.png)
+
 # Testing Google Maps Embed
 
 by [kanarinka](../profile/kanarinka) September 06, 2014 11:27
 
 September 06, 2014 11:27 | Tags: [mapping](../tag/mapping), [water-quality-mapping](../tag/water-quality-mapping), [water-quality](../tag/water-quality), [map-annotations](../tag/map-annotations)
+
+----
 
 ###What I want to do
 @donblair and I are going to be making a collaborative map of water conductivity with my journalism students and I want to see if we can embed a collaborative Google Map on the PublicLab site.

@@ -8,11 +8,15 @@ uid: 46673
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/007/413/original/logo.png)
+
 # Public Lab Community Newsletter 10.11.14
 
 by [Becki](../profile/Becki) October 11, 2014 18:59
 
 October 11, 2014 18:59 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
+
+----
 
 In the Public Lab Community Newsletter this week, vote for the Homebrew Oil Testing Kit at Engadget.com’s Insert Coin competition and check out a great series of notes on Sensor Journalism from Emerson College students.
 

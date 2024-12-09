@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/008/558/original/Barn2014_1765.jpg)
+
 # Public Lab Barnraising 2014, day 3
 
 by [cfastie](../profile/cfastie) January 03, 2015 23:37
 
 January 03, 2015 23:37 | Tags: [gulf-coast](../tag/gulf-coast), [louisiana](../tag/louisiana), [cocodrie](../tag/cocodrie), [barnraising](../tag/barnraising), [lumcon](../tag/lumcon), [barnraising2014](../tag/barnraising2014), [response:11503](../tag/response:11503)
+
+----
 
 Some photos from the third day of the Public Lab Barnraising on Sunday, November 16, 2014.  
 

@@ -14,6 +14,8 @@ by [liz](../profile/liz), [warren](../profile/warren), [donblair](../profile/don
 
 May 13, 2013 17:35 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [infragram](../tag/infragram)
 
+----
+
 _A collection of images for the Infragram plant health camera project_
 
 * [Images of the DIY Filter Pack](#Infragram+DIY+Filter+Pack)

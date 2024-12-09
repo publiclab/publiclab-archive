@@ -8,11 +8,15 @@ uid: 77
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/010/572/original/Untitled_Panorama2.jpg)
+
 # Yet another experience making panoramas with Saturn V and SkyShield beta
 
 by [patcoyle](../profile/patcoyle) July 08, 2015 18:43
 
 July 08, 2015 18:43 | Tags: [arduino](../tag/arduino), [chdk](../tag/chdk), [delta](../tag/delta), [a1200](../tag/a1200), [autokap](../tag/autokap), [kap-rigs](../tag/kap-rigs), [kaptery](../tag/kaptery), [saturnv](../tag/saturnv), [skyshield](../tag/skyshield)
+
+----
 
 ###What I want to do
 

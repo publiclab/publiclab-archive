@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/021/579/original/Screen_Shot_2017-09-07_at_10.04.19_AM.png)
+
 # Irma
 
 by [liz](../profile/liz), [stevie](../profile/stevie), [warren](../profile/warren)
 
 September 07, 2017 14:08 | Tags: [disaster-response](../tag/disaster-response), [hurricanes](../tag/hurricanes), [irma](../tag/irma)
+
+----
 
 A resources collecting page for Hurricane Irma response; we are **not** an emergency service provider, but non-emergency **questions, requests, inquiries, report-ins, offers of help or capacity** are welcome.
 
@@ -44,7 +48,7 @@ Please add your name and/or comments there, even if you can't join, and we'll do
 
 Notes from these calls will be listed here:
 
-[notes:irma-calls]
+[irma-calls](../../tag/irma-calls)
 
 ### Help organize this page
 
@@ -54,7 +58,7 @@ Help organize this content! We're drafting new content/revisions for this page o
 
 Please post questions (requests and/or asking if your offer of capacity is needed) relevant to Harvey here:
 
-[notes:irma]
+[irma](../../tag/irma)
 
 ## Groups
 

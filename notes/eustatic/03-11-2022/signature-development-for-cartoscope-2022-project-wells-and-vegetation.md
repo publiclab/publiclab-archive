@@ -8,11 +8,15 @@ uid: 379
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/045/492/original/WELL_239533_combined.jpg)
+
 # Signature Development for Cartoscope 2022 Project: Wells and Vegetation
 
 by [eustatic](../profile/eustatic) March 11, 2022 18:03
 
 March 11, 2022 18:03 | Tags: [wetlands](../tag/wetlands), [louisiana](../tag/louisiana), [aerial-photography](../tag/aerial-photography), [classification](../tag/classification), [oil-accountability](../tag/oil-accountability), [zoom:10](../tag/zoom:10), [hilcorp](../tag/hilcorp), [lat:29.578234](../tag/lat:29.578234), [lon:-90.05629](../tag/lon:-90.05629)
+
+----
 
 For [Cartosco.pe](https://cartosco.pe/#/home), there was a need to develop a classification for unplugged coastal Louisiana wells that have been left unvegetated. 
 

@@ -8,11 +8,15 @@ uid: 461120
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/016/456/original/cat_in_a_bottle.jpg)
+
 # Which Cuvettes for Spectroscopy are optically the best suited for the job? 
 
 by [dhaffnersr](../profile/dhaffnersr)
 
 June 02, 2016 19:18 | Tags: 
+
+----
 
 **Fused Silica Quartz cuvette or UV Plastic Disposable cuvettes**?
 

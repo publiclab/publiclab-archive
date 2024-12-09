@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/sites/default/files/Legomass.jpg)
+
 # Dual camera KAP rig
 
 by [cfastie](../profile/cfastie) February 22, 2012 16:23
 
 February 22, 2012 16:23 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [picavet](../tag/picavet), [photo-rig](../tag/photo-rig), [first-time-poster](../tag/first-time-poster)
+
+----
 
 Here is a prototype rig that performed well on its maiden flight.  The design might be appropriate for matched visible/IR cameras for vertical photography, like the Canon A495s from the Balloon Mapping Kickstarter project.  For such a use, it would require the addition of an intervalometer to trigger both cameras simultaneously. I am not yet sure how to add that function.
 

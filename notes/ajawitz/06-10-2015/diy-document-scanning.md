@@ -8,11 +8,15 @@ uid: 294634
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/010/288/original/LobsterScanner.jpg)
+
 # DIY Document Scanning
 
 by [ajawitz](../profile/ajawitz) June 10, 2015 18:56
 
 June 10, 2015 18:56 | Tags: [archival](../tag/archival), [tool](../tag/tool), [open_source_hardware](../tag/open_source_hardware), [diybookscanner](../tag/diybookscanner), [book-scanning](../tag/book-scanning)
+
+----
 
 ###What I want to do
   I want to share various DIY techniques for digitizing hard-copy books and documents using some of the same components used for grassroots mapping (Canon Powershot cameras with CHDK firmware)

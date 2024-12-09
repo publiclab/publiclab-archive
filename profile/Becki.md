@@ -3,6 +3,8 @@ uid: 46673
 created_at: 2013-04-11 15:26:51 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/46673/medium/Becki_Headshot_by_Mikey_3.jpg)
+
 # Becki
 
 Interested in ccommunity science efforts in Africa. Currently based in Addis Ababa.

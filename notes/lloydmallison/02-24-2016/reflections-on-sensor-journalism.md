@@ -14,6 +14,8 @@ by [lloydmallison](../profile/lloydmallison) February 24, 2016 15:55
 
 February 24, 2016 15:55 | Tags: [sensor-journalism](../tag/sensor-journalism), [response:12748](../tag/response:12748), [hidden:response](../tag/hidden:response)
 
+----
+
 It’s pretty plain to see that as we evolve to a more data-driven world, journalists must not only become early adopters of telling stories from and through the medium in order to remain relevant, but embrace data as a possible way to drag the journalism industry back into a respectable light. 
 
 Sensor journalism and the new frontier of data driven stories presents an opportunity for journalists to acquire a new skill, offering them a skill set above the general public, once again making them a valued service to society. With the explosion of the internet and blogging platforms, the value of writers has shrunk as the general public (falsely) believes that the work of a journalist isn’t as valuable as it used to be, as news is everywhere. When a journalist has the ability to take a dataset and spin it into a story, it will give the news industry a tool the public doesn’t have, and can begin to  regain its position as the necessary filter between both companies and government, holding them accountable and relaying important information the public needs — not just listicles from Buzzfeed that any schmuck can (and does) put together.

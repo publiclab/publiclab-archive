@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/025/178/original/pulse.png)
+
 # Web Working Group Update 22: June 2018
 
 by [warren](../profile/warren) June 08, 2018 16:19
 
 June 08, 2018 16:19 | Tags: [web-development](../tag/web-development), [software](../tag/software), [plots2](../tag/plots2), [gsoc](../tag/gsoc), [developers](../tag/developers), [code](../tag/code), [libreplanet](../tag/libreplanet), [wwg](../tag/wwg), [webwg](../tag/webwg), [onboarding](../tag/onboarding), [first-timers-only](../tag/first-timers-only), [software-outreach](../tag/software-outreach), [rgsoc](../tag/rgsoc), [soc](../tag/soc), [soc-2017](../tag/soc-2017), [wwg-update](../tag/wwg-update), [response:15687](../tag/response:15687)
+
+----
 
 This quarter has been a busy one as [Summer of Code](/tag/soc) has begun, new community leaders have welcomed in a growing community to take on issues, and we've evolved better workflows to manage the increased productivity.
 

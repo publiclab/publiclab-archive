@@ -14,6 +14,8 @@ by [kgradow1](../profile/kgradow1) June 12, 2020 22:14
 
 June 12, 2020 22:14 | Tags: [weather](../tag/weather), [weather-station](../tag/weather-station), [humidity](../tag/humidity), [general](../tag/general), [question:weather](../tag/question:weather), [question:humidity](../tag/question:humidity)
 
+----
+
 Inspired by @eustatic [Timeline for June 10 Climate Rain][1] I looked up my nearest weather station in Centerdale RI and found this graph.   
 
 ![image description][2]

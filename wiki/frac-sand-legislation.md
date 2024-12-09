@@ -14,6 +14,8 @@ by [stevie](../profile/stevie), [gretchengehrke](../profile/gretchengehrke)
 
 January 25, 2016 14:29 | Tags: [fracking](../tag/fracking), [parent:frac-sand-advocacy-leverage-points](../tag/parent:frac-sand-advocacy-leverage-points)
 
+----
+
 Table of Contents 
 
 - Ambient Air 
@@ -25,7 +27,7 @@ Table of Contents
 ****
 
 ###Questions
-[questions:air-regulations]
+[air-regulations](../../tag/question:air-regulations)
 
 ##Ambient Air
 

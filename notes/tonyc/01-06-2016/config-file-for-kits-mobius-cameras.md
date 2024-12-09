@@ -8,11 +8,15 @@ uid: 447491
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/013/535/original/mobius-with-ruler_medium.JPG)
+
 # config file for kits mobius cameras
 
 by [tonyc](../profile/tonyc) January 06, 2016 23:36
 
 January 06, 2016 23:36 | Tags: [kite-mapping](../tag/kite-mapping)
+
+----
 
 ###What I want to do
 settle on the best default configuration for shipping Mobius ActionCam cameras for use in aerial photography.

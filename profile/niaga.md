@@ -3,6 +3,8 @@ uid: 544946
 created_at: 2018-08-03 09:22:46 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/4c5f14903c51f9f05734b80f95c1f599)
+
 # niaga
 
 Software developer yang siap membantu Anda membuat aplikasi untuk perusahaan dan pribadi.  Kami di 

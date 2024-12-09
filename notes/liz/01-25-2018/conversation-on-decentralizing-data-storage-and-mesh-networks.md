@@ -14,6 +14,8 @@ by [liz](../profile/liz) January 25, 2018 01:17
 
 January 25, 2018 01:17 | Tags: [new-york-city](../tag/new-york-city), [event](../tag/event), [internet](../tag/internet), [mesh](../tag/mesh), [edgi](../tag/edgi), [data-together](../tag/data-together), [decentralization](../tag/decentralization)
 
+----
+
 We had a great conversation last night at New America Foundation (here was the event posting https://www.eventbrite.com/e/a-small-conversation-about-mesh-the-d-web-and-data-justice-nyc-philly-tickets-42239992956). I'm still getting photo consent in order to post the great pic that Lenny took. 
 
 Greta, the outgoing Director of Resilient Communities at New America, facilitated the meeting by asking for people to request "Community Agreements", here's what we set for ourselves: 

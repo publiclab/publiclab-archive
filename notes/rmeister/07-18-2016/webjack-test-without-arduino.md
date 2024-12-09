@@ -8,11 +8,15 @@ uid: 468994
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/017/116/original/audio_crossover.jpg)
+
 # WebJack: Test without Arduino
 
 by [rmeister](../profile/rmeister) July 18, 2016 15:22
 
 July 18, 2016 15:22 | Tags: [arduino](../tag/arduino), [alphatest](../tag/alphatest), [sensors](../tag/sensors), [gsoc](../tag/gsoc), [barnstar:photo-documentation](../tag/barnstar:photo-documentation), [webjack](../tag/webjack), [headphone-jack](../tag/headphone-jack), [category:build](../tag/category:build), [activity:webjack](../tag/activity:webjack)
+
+----
 
 WebJack can also be tested without an Arduino/Genuino board. For an explanation of the WebJack project and a tutorial for testing _with_ Arduino, take a look on this [research note](https://publiclab.org/notes/rmeister/07-18-2016/webjack-testers-needed), as I'm going to skip it here.
 

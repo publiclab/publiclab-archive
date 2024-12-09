@@ -8,11 +8,15 @@ uid: 1259
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/009/808/original/show-up-.jpg)
+
 # How to Get Involved with Public Lab: Illustrated
 
 by [liz](../profile/liz), [mollydanielsson](../profile/mollydanielsson)
 
 May 06, 2015 01:06 | Tags: [community](../tag/community), [how-to](../tag/how-to), [participation](../tag/participation), [grassrootsmappingforum](../tag/grassrootsmappingforum), [publiclab](../tag/publiclab), [illustrations](../tag/illustrations), [gmf-7](../tag/gmf-7), [graphic](../tag/graphic), [community-driven](../tag/community-driven)
+
+----
 
 by [Molly Danielsson](www.mollydanielsson.com)
 

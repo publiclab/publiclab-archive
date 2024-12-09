@@ -8,11 +8,15 @@ uid: 518193
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/028/267/original/emerycover_resized.png)
+
 # Terrain Surveying with Emery Boards
 
 by [a1ahna](../profile/a1ahna) December 10, 2018 20:25
 
 December 10, 2018 20:25 | Tags: [oil](../tag/oil), [pipeline](../tag/pipeline), [survey](../tag/survey), [industry](../tag/industry), [hardware](../tag/hardware), [oil-and-gas](../tag/oil-and-gas), [activity:site-survey](../tag/activity:site-survey), [topography](../tag/topography), [activity:new](../tag/activity:new), [pipelines](../tag/pipelines), [elevation](../tag/elevation), [emery-board](../tag/emery-board)
+
+----
 
 _This tutorial shows you how to collect elevation data using the Emery Board survey method. Instructions on how to build the specific Emery Boards used in this application can be found [here](https://publiclab.org/notes/a1ahna/12-03-2018/how-to-build-emery-board-survey-tools). This specific design was created in order to perform surveys in areas without a visible horizon line, such as swamps and forests._
 

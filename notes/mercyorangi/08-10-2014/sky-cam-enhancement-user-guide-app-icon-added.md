@@ -8,11 +8,15 @@ uid: 421649
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/006/174/original/web_hi_res_512.png)
+
 # Sky Cam Enhancement; In-App User guide + App icon added
 
 by [mercyorangi](../profile/mercyorangi) August 10, 2014 21:46
 
 August 10, 2014 21:46 | Tags: [gsoc](../tag/gsoc), [skycam](../tag/skycam), [gsoc-2014](../tag/gsoc-2014), [sky-cam](../tag/sky-cam), [sky-camera](../tag/sky-camera)
+
+----
 
 ###The user guide..
 An elaborate user-guide has been added to Sky Cam. Under Homepage >> 'Guide' menu >> Sky cam guide

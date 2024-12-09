@@ -8,11 +8,15 @@ uid: 422489
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/005/480/original/PictureRWS-1.png)
+
 # Detection of Added Sugar in Red Wine Using Visual Light Spectroscopy
 
 by [ygzstc](../profile/ygzstc) July 23, 2014 19:37
 
 July 23, 2014 19:37 | Tags: [spectrometer](../tag/spectrometer), [uv](../tag/uv), [concentration](../tag/concentration), [food](../tag/food), [wine](../tag/wine), [sugar](../tag/sugar), [activity:spectrometry](../tag/activity:spectrometry), [activity:science-fair](../tag/activity:science-fair)
+
+----
 
 Disclaimer: _All the information (including hardware, software, experimental setup, procedure, and results) in this research note is provided "as is" without warranty of any kind. Author makes no warranties, express or implied, that they are free of error, or are consistent with any particular standard of merchantability, or that they will meet your requirements for any particular application and/or problem. They should not be relied on for solving a problem whose incorrect solution could result in incorrect claims which may or may not lead to any kind of monetary loss related to trade and/or legal liability. If you do use them in such a manner, it is at your own risk. The author disclaims all liability for direct, indirect, or consequential damages resulting from your experiments and claims based on their results._
 

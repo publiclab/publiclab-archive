@@ -8,11 +8,15 @@ uid: 470966
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/016/166/original/project1.jpg)
+
 # A more compact spectrometer
 
 by [cristoforetti](../profile/cristoforetti) May 13, 2016 16:59
 
 May 13, 2016 16:59 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [italy](../tag/italy), [diy-spectrometer](../tag/diy-spectrometer), [webvalley](../tag/webvalley), [upgrade:spectrometry](../tag/upgrade:spectrometry), [raspberry-pi-spectrometer](../tag/raspberry-pi-spectrometer), [activity:raspberry-pi-spectrometer](../tag/activity:raspberry-pi-spectrometer), [first-time-poster](../tag/first-time-poster)
+
+----
 
 ###What I want to do
 

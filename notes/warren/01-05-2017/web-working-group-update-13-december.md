@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/019/219/original/diagram.png)
+
 # Web Working Group Update 13: December
 
 by [warren](../profile/warren) January 05, 2017 22:33
 
 January 05, 2017 22:33 | Tags: [community](../tag/community), [web-development](../tag/web-development), [software](../tag/software), [plots2](../tag/plots2), [outreach](../tag/outreach), [gsoc](../tag/gsoc), [developers](../tag/developers), [wwg](../tag/wwg), [webwg](../tag/webwg), [gsoc-2016](../tag/gsoc-2016), [rich-editor](../tag/rich-editor), [first-timers-only](../tag/first-timers-only), [software-outreach](../tag/software-outreach), [firsttimersonly](../tag/firsttimersonly), [response:13746](../tag/response:13746), [google-code-in](../tag/google-code-in)
+
+----
 
 We've had a great month of December in the Public Lab software community:
 

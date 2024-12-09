@@ -8,11 +8,15 @@ uid: 461120
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/015/657/original/20160204_150517.jpg)
+
 # CFL repeatability study part two...
 
 by [dhaffnersr](../profile/dhaffnersr) April 18, 2016 12:35
 
 April 18, 2016 12:35 | Tags: 
+
+----
 
 I put together 4 separate graphs demonstrating any "drift" time from time of data capture to end of data capture for the cfl study, and have some very interesting observations. 
 

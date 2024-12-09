@@ -8,11 +8,15 @@ uid: 664477
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/043/086/original/ERPA_sign.jpg)
+
 # Soil testing at a massive construction site in the Lower East Side
 
 by [bhamster](../profile/bhamster) April 22, 2021 00:59
 
 April 22, 2021 00:59 | Tags: [new-york-city](../tag/new-york-city), [soil](../tag/soil), [air-quality](../tag/air-quality), [nyc](../tag/nyc), [northeast](../tag/northeast), [lead](../tag/lead), [soil-testing](../tag/soil-testing), [oil-and-gas](../tag/oil-and-gas), [issue-brief](../tag/issue-brief), [soil-contamination](../tag/soil-contamination), [with:lesbreathe](../tag/with:lesbreathe), [lower-east-side](../tag/lower-east-side)
+
+----
 
 ### Introduction:
 

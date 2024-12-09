@@ -8,11 +8,15 @@ uid: 498910
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/018/965/original/IMAG0083.JPG)
+
 # Monitoring Sargent Sand Mining operation in Ludington, Michigan
 
 by [glennwalquist](../profile/glennwalquist) December 04, 2016 00:17
 
 December 04, 2016 00:17 | Tags: [sand](../tag/sand), [photo-monitoring](../tag/photo-monitoring), [timelapse](../tag/timelapse), [mining](../tag/mining), [monitoring](../tag/monitoring), [trail-cam](../tag/trail-cam), [photographic-evidence](../tag/photographic-evidence), [photographic-monitoring](../tag/photographic-monitoring), [dune](../tag/dune), [story:timelapse](../tag/story:timelapse), [lat:43.9932773](../tag/lat:43.9932773), [lon:-86.4780084](../tag/lon:-86.4780084), [timelapse-story](../tag/timelapse-story)
+
+----
 
 ###What I want to do: We are simply monitoring/watching for any egregious destruction ( outside of permit-allowed removal) of sand dunes at the Sargent Sand Co. Ludington, MI site.
 

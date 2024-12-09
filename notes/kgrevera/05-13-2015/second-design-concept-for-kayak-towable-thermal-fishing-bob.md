@@ -8,11 +8,15 @@ uid: 432001
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/009/884/original/Screen_Shot_2015-05-13_at_9.28.30_AM.png)
+
 # Second Design Concept for Kayak-towable Thermal Fishing Bob
 
 by [kgrevera](../profile/kgrevera) May 13, 2015 13:30
 
 May 13, 2015 13:30 | Tags: [thermal-fishing-bob](../tag/thermal-fishing-bob), [towable-rig](../tag/towable-rig)
+
+----
 
 #Second Design Concept for Kayak-towable Thermal Fishing Bob
 

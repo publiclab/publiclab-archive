@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/IMG_0914.JPG)
+
 # DIY Spectrometry Kit paper insert prototype
 
 by [warren](../profile/warren) October 12, 2012 20:40
 
 October 12, 2012 20:40 | Tags: [spectrometer](../tag/spectrometer)
+
+----
 
 Following up on [this recent post](http://publiclaboratory.org/notes/warren/10-9-2012/spectrometry-kit-paper-insert-design-sketches). The black paper insert in the [DIY Spectrometry Kit](http://kickstarter.com/projects/jywarren/public-lab-diy-spectrometry-kit) will improve the design by reducing light leakage and reflection inside the "imaging chamber". I made a couple designs -- one which i cut out and sized, and a second which i adapted to make it fit on a smaller piece of card paper. The final ones will be of stiffer black cardstock, and we're hoping to lasercut the slits. 
 

@@ -3,6 +3,8 @@ uid: 430549
 created_at: 2014-10-27 19:26:07 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/430549/medium/IMG_1576.JPG)
+
 # gretchengehrke
 
 I'm the Data and Advocacy Steward with Public Lab, and am an avid environmentalist living in Durham, North Carolina.  My background is in environmental geochemistry, and I am interested in the intersections and overlaps between environmental science and social justice.  Joining Public Lab, I am looking forward to getting involved in environmental protection in a more tangible way.

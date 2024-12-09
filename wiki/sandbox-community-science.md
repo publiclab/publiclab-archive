@@ -14,6 +14,8 @@ by [liz](../profile/liz)
 
 September 07, 2021 18:13 | Tags: 
 
+----
+
 _This content is stewarded by @Liz Barry_
 
 ## Why do we use the term "community science"? 

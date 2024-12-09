@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/spectrometer.jpeg)
+
 # Visible-light spectrometer for $2,660, 4-7nm bandwidth
 
 by [warren](../profile/warren) December 01, 2011 01:38
 
 December 01, 2011 01:38 | Tags: [spectrometer](../tag/spectrometer)
+
+----
 
 http://www.amazon.com/Visible-Spectrometer-Cuvette-Datalogger-Software/dp/B003NV6MLE
 

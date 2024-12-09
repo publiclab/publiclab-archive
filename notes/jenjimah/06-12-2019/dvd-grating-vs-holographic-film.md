@@ -8,11 +8,15 @@ uid: 505738
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/032/838/original/versus.jpg)
+
 # DVD Grating vs. Holographic Film
 
 by [jenjimah](../profile/jenjimah) June 12, 2019 08:08
 
 June 12, 2019 08:08 | Tags: [spectrometer](../tag/spectrometer), [grating](../tag/grating), [holographic](../tag/holographic), [dvd](../tag/dvd), [diffraction](../tag/diffraction)
+
+----
 
 This is an extension of the spectrometer building process: [Horticultural Spectrometer Upgrade - Planning](https://publiclab.org/notes/jenjimah/04-07-2019/horticultural-spectroscope-upgrade-planning)
 

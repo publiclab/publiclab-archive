@@ -8,11 +8,15 @@ uid: 77
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/009/391/original/ssmap.jpg)
+
 # Using the Mapknitter 2 image placement using geotagged images
 
 by [patcoyle](../profile/patcoyle) March 23, 2015 05:03
 
 March 23, 2015 05:03 | Tags: [mapknitter](../tag/mapknitter), [delta](../tag/delta), [kap](../tag/kap), [gps](../tag/gps), [sfm](../tag/sfm), [software](../tag/software), [structure-from-motion](../tag/structure-from-motion), [sx260hs](../tag/sx260hs), [gsoc](../tag/gsoc), [juice-bottle-rig](../tag/juice-bottle-rig), [gsoc-2014](../tag/gsoc-2014), [exif](../tag/exif), [auto-placement](../tag/auto-placement), [mapknitter2](../tag/mapknitter2)
+
+----
 
 ###What I want to do
 

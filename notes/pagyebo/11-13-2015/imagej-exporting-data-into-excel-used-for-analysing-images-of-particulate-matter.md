@@ -8,11 +8,15 @@ uid: 451158
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/012/746/original/image_J_4.jpg)
+
 # ImageJ exporting data into Excel:  Used for Analysing Images of particulate matter
 
 by [pagyebo](../profile/pagyebo) November 13, 2015 19:06
 
 November 13, 2015 19:06 | Tags: [chicago](../tag/chicago), [barnstar:basic](../tag/barnstar:basic), [midwest](../tag/midwest), [passive-pm](../tag/passive-pm), [data-management](../tag/data-management)
+
+----
 
 Purpose
 

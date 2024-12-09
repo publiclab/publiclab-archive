@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/002/721/original/mystic-river.jpg)
+
 # Public Lab community newsletter 2.01.14
 
 by [warren](../profile/warren) February 02, 2014 01:47
 
 February 02, 2014 01:47 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
+
+----
 
 Hello everyone! 
 

@@ -8,11 +8,15 @@ uid: 461120
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/015/616/original/PIC_0113.JPG)
+
 # Signal to Noise ratio validation on previous fluorescein research study
 
 by [dhaffnersr](../profile/dhaffnersr) April 17, 2016 10:52
 
 April 17, 2016 10:52 | Tags: 
+
+----
 
 I have analysed the SNR data for my previous work on fluorescein concentration study and these are my results.
 

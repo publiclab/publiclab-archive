@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/004/446/original/wsf-logo.png)
+
 # Come try spectrometry at Science Hack Day
 
 by [liz](../profile/liz) May 23, 2014 21:41
 
 May 23, 2014 21:41 | Tags: [new-york-city](../tag/new-york-city), [spectrometry](../tag/spectrometry), [event](../tag/event)
+
+----
 
 ###Event details
 

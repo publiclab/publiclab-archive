@@ -8,11 +8,15 @@ uid: 461120
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/015/960/original/fluoro_in_acetone_may4.png)
+
 # Using Potassium Bromide (KBr) in UV/VIS spectroscopy
 
 by [dhaffnersr](../profile/dhaffnersr) May 05, 2016 09:18
 
 May 05, 2016 09:18 | Tags: 
+
+----
 
 
 Using UV/VIS spectroscopy, either an unknown substance can be identified or the concentration of a known substance determined. In both cases, accurate analytical results depend on the use of very pure solvents for sample preparation, this is why I used my own variation of a regent called Uvasol.

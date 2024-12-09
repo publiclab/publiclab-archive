@@ -14,6 +14,8 @@ by [Shannon](../profile/Shannon), [megan](../profile/megan), [sara](../profile/s
 
 July 09, 2012 17:20 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [new-mexico](../tag/new-mexico), [colorado](../tag/colorado), [draeger-tubes](../tag/draeger-tubes), [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s), [parent:hydrogen-sulfide-sensing](../tag/parent:hydrogen-sulfide-sensing), [mountain-west](../tag/mountain-west)
 
+----
+
 On call 7/9/12: Josh (Durango- San Juan Citizens Alliance), Shannon and Sara (Public Lab), Megan (RISD)
 
 * Josh: Would like to start something up based on initial April call. Use of Draeger tubes and strips. Is there lab analysis involved in this? 

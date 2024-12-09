@@ -14,6 +14,8 @@ by [silentsairam](../profile/silentsairam) May 20, 2019 17:35
 
 May 20, 2019 17:35 | Tags: [cemetery](../tag/cemetery), [compost](../tag/compost), [issue-brief](../tag/issue-brief), [community-atlas](../tag/community-atlas), [urbandeath](../tag/urbandeath), [lat:10.758918](../tag/lat:10.758918), [lon:78.813218](../tag/lon:78.813218)
 
+----
+
 ### Introduction:
 
 I am residing in a community where more close 80,000 human beings live(pets, human being/ plants). Off late, the Cemeteries have been increased too and space for a human living has reduced to 8 sq.ft /person.
@@ -38,4 +40,4 @@ People and the Government.
 
 I happened to read Recompose, startup in the UK trying to address this issue.
 
-[questions:urbandeath]
+[urbandeath](../../tag/question:urbandeath)

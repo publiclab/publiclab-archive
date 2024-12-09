@@ -8,11 +8,15 @@ uid: 9
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/002/067/original/plots-logo-transparent.jpg)
+
 # Public Lab community newsletter 10.27.13
 
 by [Shannon](../profile/Shannon) October 27, 2013 16:59
 
 October 27, 2013 16:59 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
+
+----
 
 This week in the Public Lab community newsletter, prepare for events in Louisiana and Vermont, read about a new initiative to build an urban ag. toolkit, and get as excited as we are about the new Smartphone Spectrometer shipping out. Enjoy!
 

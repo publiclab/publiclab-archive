@@ -8,11 +8,15 @@ uid: 421556
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/004/963/original/Screenshot_from_2014-06-24_17_42_45.png)
+
 # MapKnitter Annotations Update: L.Illustrate.Textbox
 
 by [justinmanley](../profile/justinmanley) June 25, 2014 05:49
 
 June 25, 2014 05:49 | Tags: [mapknitter](../tag/mapknitter), [gsoc](../tag/gsoc), [developers](../tag/developers), [gsoc-2014](../tag/gsoc-2014), [barnstar:basic](../tag/barnstar:basic)
+
+----
 
 ### Background ###
 

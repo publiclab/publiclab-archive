@@ -14,6 +14,8 @@ by [Naljorpa](../profile/Naljorpa) November 07, 2013 17:42
 
 November 07, 2013 17:42 | Tags: [spectrometer](../tag/spectrometer), [dsk](../tag/dsk), [tripod](../tag/tripod)
 
+----
+
 [![DSCN1719.JPG](https://i.publiclab.org/system/images/photos/000/002/158/medium/DSCN1719.JPG)](https://i.publiclab.org/system/images/photos/000/002/158/original/DSCN1719.JPG)
 
 I apologize for the fuzziness of the first photo.

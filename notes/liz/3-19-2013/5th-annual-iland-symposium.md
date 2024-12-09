@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/sites/default/files/Screen Shot 2013-03-19 at 5.08.30 PM.png)
+
 # 5th annual iLAND symposium
 
 by [liz](../profile/liz) March 19, 2013 21:11
 
 March 19, 2013 21:11 | Tags: [new-york-city](../tag/new-york-city), [ilab](../tag/ilab)
+
+----
 
 <a href="http://www.ilandart.org/iland-symposium/2013-iland-symposium">2013 iLAND symposium</a>
 

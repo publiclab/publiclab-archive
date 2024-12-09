@@ -14,6 +14,8 @@ by [marlokeno](../profile/marlokeno) March 21, 2014 14:27
 
 March 21, 2014 14:27 | Tags: [oil](../tag/oil), [brasil](../tag/brasil)
 
+----
+
 ###What I want to do Map offshore oil rigs
 
 ###My attempt and results l've been making a list of offshore supply vessels and big anchor handling vessels and gathering AIS data that I can get without a subscrition. 

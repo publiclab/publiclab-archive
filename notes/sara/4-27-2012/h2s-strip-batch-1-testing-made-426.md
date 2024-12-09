@@ -14,6 +14,8 @@ by [sara](../profile/sara) April 27, 2012 17:43
 
 April 27, 2012 17:43 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s), [h2s-photopaper](../tag/h2s-photopaper)
 
+----
+
 <a href="http://publiclaboratory.org/people/megan">Megan</a> and I made a batch for testing the H2S strips last night. We made 66 strips in all. We could only make 1 batch as we ran out of drying space in the dark room. Some of the strips stuck together and had to be discarded. They are to be marked with red dots so we can compare strips made with this batch of Ilford paper with strips made from a second batch of Ilford paper. We hypothesize that the results will vary slightly between batches of Ilford paper depending on the quantity of Silver Halide in the paper. They were made with Ilford 8x10in Multigrade IV RC DE LUXE photo paper. Catalog number 116 8310. Cut into 8x2 inch strips. 
 
 Notes for future strip making:

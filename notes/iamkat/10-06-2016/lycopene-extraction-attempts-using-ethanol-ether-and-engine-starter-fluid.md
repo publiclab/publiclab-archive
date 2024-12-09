@@ -8,11 +8,15 @@ uid: 492745
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/018/276/original/LycopeneEther.jpg)
+
 # Lycopene extraction attempts using ethanol, ether and engine starter fluid
 
 by [iamkat](../profile/iamkat) October 06, 2016 13:46
 
 October 06, 2016 13:46 | Tags: [analysis](../tag/analysis), [diy](../tag/diy), [comparison](../tag/comparison), [food](../tag/food), [spectral](../tag/spectral), [chemistry](../tag/chemistry), [lycopene](../tag/lycopene), [tomato](../tag/tomato), [paste](../tag/paste), [first-time-poster](../tag/first-time-poster)
+
+----
 
 ###What I want to do
 

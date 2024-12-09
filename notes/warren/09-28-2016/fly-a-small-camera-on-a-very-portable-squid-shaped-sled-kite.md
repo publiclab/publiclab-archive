@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/018/193/original/IMG_20160924_134150-2.jpg)
+
 # Fly a small camera on a very portable (squid-shaped) sled kite
 
 by [warren](../profile/warren) September 28, 2016 22:52
 
 September 28, 2016 22:52 | Tags: [kite-mapping](../tag/kite-mapping), [kap](../tag/kap), [leaffest](../tag/leaffest), [mobius](../tag/mobius), [kap-rigs](../tag/kap-rigs), [diy-mount-kit](../tag/diy-mount-kit), [mini-kite-kit](../tag/mini-kite-kit), [portability](../tag/portability), [activity:aerial-photography](../tag/activity:aerial-photography), [activity:kite-mapping](../tag/activity:kite-mapping), [replication:13163](../tag/replication:13163), [activity:mini-kite-kit](../tag/activity:mini-kite-kit), [activity:aerial-mapping](../tag/activity:aerial-mapping)
+
+----
 
 ### What I want to do
 

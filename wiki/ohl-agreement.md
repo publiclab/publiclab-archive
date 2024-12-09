@@ -14,6 +14,8 @@ by [liz](../profile/liz), [warren](../profile/warren)
 
 October 28, 2011 17:39 | Tags: 
 
+----
+
 It is the goal of PLOTS (the Public Laboratory for Open Technology and Science) to make hardware designs freely available to its users and to encourage its users to add to and improve upon those designs, while also making those additions and improvements freely available to other PLOTS users **and the broader public**.  For those reasons, PLOTS **and its members** make their hardware documentation available **to the public/to visitors/delete this** subject to the [CERN Open Hardware License](http://ohwr.org/cernohl) (OHL).
 
 By **clicking here/signing up**, I agree that, when I receive hardware documentation from PLOTS, the documentation will be licensed to me under the terms of the CERN OHL (available at http://www.ohwr.org/attachments/735/CERNOHLv1_1.txt).

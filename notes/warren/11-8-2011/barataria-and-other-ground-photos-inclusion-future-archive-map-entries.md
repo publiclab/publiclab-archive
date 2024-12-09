@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/booms.jpg)
+
 # Barataria and other ground photos for inclusion in future Archive map entries
 
 by [warren](../profile/warren) November 08, 2011 15:33
 
 November 08, 2011 15:33 | Tags: [gulf-coast](../tag/gulf-coast), [oil-spill](../tag/oil-spill), [barataria](../tag/barataria)
+
+----
 
 (From: https://www.flickr.com/photos/labucketbrigade/4819440323/in/photostream)
 

@@ -8,11 +8,15 @@ uid: 44255
 
 ---
 
+![](https://publiclab.org/sites/default/files/DSC_0291.JPG)
+
 # DIY cotton candy maker
 
 by [kosamari](../profile/kosamari) November 14, 2012 14:52
 
 November 14, 2012 14:52 | Tags: [air-column-monitor](../tag/air-column-monitor), [diy-bio](../tag/diy-bio), [microbes](../tag/microbes), [activity:cotton-candy](../tag/activity:cotton-candy), [activity:microbes](../tag/activity:microbes), [first-time-poster](../tag/first-time-poster)
+
+----
 
 I was talking with Liz at EcoHack3 about sterilized cotton candy microbe project, and this home science project came to my mind for easy to sterilize cotton candy machine.
 

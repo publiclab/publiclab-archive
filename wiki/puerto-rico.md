@@ -14,6 +14,8 @@ by [warren](../profile/warren), [liz](../profile/liz)
 
 August 10, 2015 20:02 | Tags: [pr](../tag/pr), [place](../tag/place), [caribbean](../tag/caribbean), [puerto-rico](../tag/puerto-rico), [location:blurred](../tag/location:blurred), [lat:18](../tag/lat:18), [lon:-66](../tag/lon:-66)
 
+----
+
 
 
 ### People
@@ -33,4 +35,4 @@ August 10, 2015 20:02 | Tags: [pr](../tag/pr), [place](../tag/place), [caribbean
 
 ## Updates
 
-[notes:puerto-rico]
+[puerto-rico](../../tag/puerto-rico)

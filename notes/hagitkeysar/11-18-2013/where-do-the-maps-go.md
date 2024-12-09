@@ -8,11 +8,15 @@ uid: 152
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/002/277/original/10148873294_8930ea62d3_c.jpg)
+
 # "where do the maps go?" 
 
 by [hagitkeysar](../profile/hagitkeysar) November 18, 2013 16:16
 
 November 18, 2013 16:16 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [jerusalem](../tag/jerusalem), [annotated-maps](../tag/annotated-maps), [israel](../tag/israel), [blog](../tag/blog), [communityengagement](../tag/communityengagement), [middle-east](../tag/middle-east)
+
+----
 
 I wanted to share some thoughts that became clearer to me now, a month or so after the barn raising gathering (Oct 2013), in which these issues were discussed by some of us. The bottom line of what I am about to share here is that I realized that the challenge I face now in order to make the work I've been pulling through in Jerusalem more significant for the communities I am working with, is dealing with the problem of design. To say it more clearly - community engagement ends right where the need for design begins. 
 

@@ -3,6 +3,8 @@ uid: 523214
 created_at: 2018-01-20 22:58:41 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/e7ac37d8a5e72240c43ec41c79decb14)
+
 # jordankc
 
 Retired computer guy

@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/021/922/original/2478687_orig.gif)
+
 # Assess Turbidity in Water
 
 by [liz](../profile/liz), [warren](../profile/warren)
 
 September 25, 2017 19:46 | Tags: [agriculture](../tag/agriculture), [mining](../tag/mining), [water-quality](../tag/water-quality), [turbidity](../tag/turbidity), [method](../tag/method), [parent:water-quality](../tag/parent:water-quality)
+
+----
 
 As explained [in @donblair's primer](/notes/donblair/08-25-2015/turbidity-001), measuring turbidity means "measuring the amount of suspended solids in water -- solids that haven't fully dissolved". That is, "turbidity, an optical technique for assessing suspended solids in liquid -- is an important water quality parameter. Typically, light is shone into a liquid sample, and the amount of light scattered back out of the sample (off of particles suspended in it) is measured; the intensity of this scattered light is considered to be related to the amount of suspended solids in the sample." ([reference](/wiki/turbidity_sensing))
 
@@ -36,7 +40,7 @@ There are a LOT of resources available on these pages by @donblair and others:
 
 ## Questions
 
-[questions:turbidity]
+[turbidity](../../tag/question:turbidity)
 
 ****
 
@@ -62,12 +66,12 @@ Monitoring Residential Drinking Water Quality: http://www2.ucy.ac.cy/~faniseng/p
 
 Activities for people to test methods (these develop over time)
 
-[activities:turbidity]
+[turbidity](../../tag/activity:turbidity)
 
 ****
 
 ## Existing work
 
-[notes:turbidity]
+[turbidity](../../tag/turbidity)
 
 

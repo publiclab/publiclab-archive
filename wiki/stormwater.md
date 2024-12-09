@@ -8,11 +8,15 @@ uid: 422561
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/039/465/original/Screen_Shot_2020-05-20_at_9.45.16_AM.png)
+
 # Stormwater Monitoring
 
 by [liz](../profile/liz), [bhamster](../profile/bhamster), [joyofsoy](../profile/joyofsoy), [warren](../profile/warren), [stevie](../profile/stevie), [MarionMcMahon](../profile/MarionMcMahon)
 
 December 20, 2016 17:35 | Tags: [urban-planning](../tag/urban-planning), [water-monitoring](../tag/water-monitoring), [tool](../tag/tool), [flood](../tag/flood), [stormwater](../tag/stormwater), [land-use](../tag/land-use), [depth](../tag/depth), [industry](../tag/industry), [flooding](../tag/flooding), [method](../tag/method), [land-change](../tag/land-change), [activities:stormwater](../tag/activities:stormwater)
+
+----
 
 Stormwater is excess runoff from rain and snowmelt events that flows over land or impervious surfaces, such as paved streets, parking lots, and building rooftops, and does not soak into the ground. 
   
@@ -39,17 +43,17 @@ This page was created to compile some activities, questions, updates and project
 
 ## Stormwater Activities 
 
-[notes:grid:activity:stormwater]
+[grid:activity:stormwater](../../tag/grid:activity:stormwater)
 
 ### Frequently Asked Questions
 
-[questions:stormwater]
+[stormwater](../../tag/question:stormwater)
 
 ****
 
 ## Updates
 
-[notes:stormwater!question:stormwater]
+[stormwater!question:stormwater](../../tag/stormwater!question:stormwater)
 
 ****
 

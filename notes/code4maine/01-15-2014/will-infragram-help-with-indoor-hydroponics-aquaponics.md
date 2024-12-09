@@ -8,11 +8,15 @@ uid: 294634
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/002/593/original/HouseDay.png)
+
 # Will Infragram help with Indoor Hydroponics/Aquaponics?
 
 by [ajawitz](../profile/ajawitz) January 15, 2014 17:51
 
 January 15, 2014 17:51 | Tags: [infragram](../tag/infragram), [hydroponics](../tag/hydroponics), [question:infragram](../tag/question:infragram), [question:hydroponics](../tag/question:hydroponics)
+
+----
 
 ###What I want to do
 Monitor and _control_ optimal light conditions for indoor plant growth using Infrared imagery and LED lights controller. 

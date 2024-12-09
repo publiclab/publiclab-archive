@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/004/193/original/IMG_2003.JPG)
+
 # Newark, NJ
 
 by [liz](../profile/liz)
 
 May 09, 2014 19:33 | Tags: [newark](../tag/newark), [new-jersey](../tag/new-jersey), [community-garden](../tag/community-garden), [garden](../tag/garden), [food](../tag/food), [ironbound](../tag/ironbound), [elp](../tag/elp), [northeast](../tag/northeast), [parent:northeast](../tag/parent:northeast)
+
+----
 
 ### Welcome
 

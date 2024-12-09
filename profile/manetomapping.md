@@ -3,6 +3,8 @@ uid: 59273
 created_at: 2013-08-19 20:31:52 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/68813bb29e4a93b6fde46a8e44220713)
+
 # manetomapping
 
 I believe that learning to make information makes us better consumers of information. I believe that when we make stuff together we build a stronger community. I believe open data is not just access to government records, it is the ability to make our own information. 

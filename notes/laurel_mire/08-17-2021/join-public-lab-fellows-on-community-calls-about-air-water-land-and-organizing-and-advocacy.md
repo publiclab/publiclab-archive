@@ -8,11 +8,15 @@ uid: 759178
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/044/676/original/PL_CCresearchnote.png)
+
 # Join Public Lab Fellows on community calls about air, water, land, and organizing and advocacy
 
 by [laurel_mire](../profile/laurel_mire) August 17, 2021 22:33
 
 August 17, 2021 22:33 | Tags: [community](../tag/community), [research](../tag/research), [fellows](../tag/fellows), [general](../tag/general), [research-curation-fellows](../tag/research-curation-fellows), [with:julia_e_masters](../tag/with:julia_e_masters), [with:alejobonifacio](../tag/with:alejobonifacio), [with:fongvania](../tag/with:fongvania)
+
+----
 
 _Announcing community calls hosted by Public Lab Research Curation Fellows_
 

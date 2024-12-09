@@ -3,6 +3,8 @@ uid: 530432
 created_at: 2018-04-10 22:44:47 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/530432/medium/12006229_10100685584524940_6611029238652133571_n.jpg)
+
 # rgardaphe
 
 I work at qri (pronounced "query") a small startup in Brooklyn, NY. We're building an open-source dataset version control tool on the distributed web. Please reach out if your project might benefit from having a better solution to storing the data you generate and monitoring how that data changes over time.

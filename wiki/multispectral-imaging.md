@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/018/462/original/IMG_0511-split.png)
+
 # Multispectral imaging
 
 by [warren](../profile/warren), [liz](../profile/liz)
 
 August 08, 2016 20:15 | Tags: [agriculture](../tag/agriculture), [list:plots-infrared](../tag/list:plots-infrared), [urban-planning](../tag/urban-planning), [tool](../tag/tool), [land-use](../tag/land-use), [activities:multispectral-imaging](../tag/activities:multispectral-imaging), [upgrades:multispectral-imaging](../tag/upgrades:multispectral-imaging), [method](../tag/method), [land-change](../tag/land-change)
+
+----
 
 The Public Lab near infrared imaging project is an open source community effort to modify consumer cameras to capture near infrared imagery for a range of purposes, including plant health. All open or accessible near infrared imaging hardware and software efforts are welcome here! 
 
@@ -30,7 +34,7 @@ The Public Lab near infrared imaging project is an open source community effort 
 
 This is a list of community-generated guides for specific applications using your near-infrared imaging setup (either a camera you converted yourself with a filter pack, a ready-made near-infrared camera, or double camera setup). Some may be more reproduced -- or reproducible -- than others. Try them out to build your skills, and help improve them by leaving comments. Together, we can repeat and refine the activities into experiments.
 
-[activities:multispectral-imaging]
+[multispectral-imaging](../../tag/activity:multispectral-imaging)
 
 <a href="/post?tags=activity:multispectral-imaging&title=How%20to%20do%20X" class="btn btn-primary">Add your guide here</a> <a href="/post?tags=request:experiment,question:multispectral-imaging,page:near-infrared-imaging&template=question&title=How%20do%20I...&redirect=question" class="btn btn-primary">Request a guide</a>
 
@@ -111,4 +115,4 @@ Infrared imagery for agricultural and ecological assessment is usually captured 
 
 <a class="btn btn-primary" href="/post?tags=multispectral-imaging,question:multispectral-imaging&template=question">Ask a question about multispectral-imaging</a> <a class="btn btn-default" href="https://publiclab.org/subscribe/tag/question:multispectral-imaging">Get notified of new questions and help out</a> 
 
-[notes:question:multispectral-imaging]
+[question:multispectral-imaging](../../tag/question:multispectral-imaging)

@@ -3,6 +3,8 @@ uid: 51
 created_at: 2013-04-20 17:22:03 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/51/medium/BnWbeaver500x345.png)
+
 # danbeavers
 
 

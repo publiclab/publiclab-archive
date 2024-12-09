@@ -8,11 +8,15 @@ uid: 461120
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/017/719/original/special_sample_scan_crude_oil_new_slit_011_aug_21_polarized.png)
+
 # Special Scan - Sweet Wyoming Crude Oil 2D EEM Analysis of 0.11mm Slit Width
 
 by [dhaffnersr](../profile/dhaffnersr) August 22, 2016 12:13
 
 August 22, 2016 12:13 | Tags: 
+
+----
 
 ##**These are 4 EEM graphic plots showing the before and after effects of removal of Rayleigh/Raman Scattering of the spectral captured data.**
 

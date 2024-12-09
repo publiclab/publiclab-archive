@@ -14,6 +14,8 @@ by [tonyc](../profile/tonyc)
 
 December 09, 2015 22:57 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [polemapping](../tag/polemapping), [pole-mapping](../tag/pole-mapping)
 
+----
+
 This is first stab at manual for the forthcoming Pendulum Rig Kit.
 
 pendulum kit documentation

@@ -14,6 +14,8 @@ by [gonzoearth](../profile/gonzoearth)
 
 July 21, 2011 05:50 | Tags: 
 
+----
+
 *As part of the [Grassroots Mapping Curriculum](/wiki/mapping-curriculum) series.*
 
 Orthomosaic 

@@ -14,6 +14,8 @@ by [warren](../profile/warren), [zengirl2](../profile/zengirl2), [liz](../profil
 
 August 31, 2017 15:09 | Tags: [hurricane](../tag/hurricane), [coordinating](../tag/coordinating), [disaster-response](../tag/disaster-response), [harvey](../tag/harvey), [hurricanes](../tag/hurricanes), [storms](../tag/storms), [harvey-response](../tag/harvey-response), [ajustharveyrecovery](../tag/ajustharveyrecovery)
 
+----
+
 A resources collecting page for Hurricane Harvey response; we are **not** an emergency service provider, but non-emergency **questions, requests, inquiries, report-ins, offers of help or capacity are welcome**. We are also maintaining a list of [places to donate to](#donate).
 
 ## What is this page?
@@ -45,14 +47,14 @@ Please add your name and/or comments there, even if you can't join, and we'll do
 
 Notes from these calls will be listed here:
 
-[notes:harvey-calls]
+[harvey-calls](../../tag/harvey-calls)
 
 
 ****
 
 ## Requests for help
 
-[activities:harvey]
+[harvey](../../tag/activity:harvey)
 
 ****
 
@@ -60,7 +62,7 @@ Notes from these calls will be listed here:
 
 Please post questions (requests and/or asking if your offer of capacity is needed) relevant to Harvey here:
 
-[questions:harvey]
+[harvey](../../tag/question:harvey)
 
 ****
 

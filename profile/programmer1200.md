@@ -3,6 +3,8 @@ uid: 509305
 created_at: 2017-06-17 17:15:31 UTC
 ---
 
+![](https://publiclab.org/public/system/profile/photos/509305/medium/IMG_20171004_094119.jpg)
+
 # programmer1200
 
 Love building things. I have lots of interest in Environmental science. Currently have a Associates in Environmental science technology and working on by bachelors of science in Enviromental management and assessment. Planning on doing some personal research on the water and soil chemistry and basic air particulate in rural Missouri and anywhere I go. Willing to help any one that needs it 

@@ -14,6 +14,8 @@ by [icarito](../profile/icarito) November 12, 2018 07:02
 
 November 12, 2018 07:02 | Tags: [raspberry-pi](../tag/raspberry-pi), [photo-monitoring](../tag/photo-monitoring), [timelapse](../tag/timelapse), [pi-camera](../tag/pi-camera), [question:timelapse](../tag/question:timelapse), [question:pi-camera](../tag/question:pi-camera)
 
+----
+
 Hi,
 
 We are contemplating helping our neighborhood security by proposing a community surveillance system.

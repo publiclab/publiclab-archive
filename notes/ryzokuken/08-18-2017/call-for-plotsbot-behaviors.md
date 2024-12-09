@@ -8,11 +8,15 @@ uid: 493113
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/021/367/original/vertical_GSoC_logo.jpg)
+
 # Call for plotsbot behaviors
 
 by [ryzokuken](../profile/ryzokuken) August 18, 2017 18:20
 
 August 18, 2017 18:20 | Tags: [google-summer-of-code](../tag/google-summer-of-code), [plotsbot](../tag/plotsbot)
+
+----
 
 Due to my recent work on the publiclab API, all users can now make comments on the website by making a simple `POST` request. This feature is exciting because it allows us to program plotsbot, our cute little internal chatbot to post comments on the [publiclab.org](http://publiclab.org) website.
 

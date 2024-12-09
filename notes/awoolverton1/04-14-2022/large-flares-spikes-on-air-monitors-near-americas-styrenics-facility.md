@@ -8,11 +8,15 @@ uid: 778039
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/045/762/original/Wed_6th_Spike.png)
+
 # Large flares, spikes on air monitors near Americas Styrenics facility   
 
 by [awoolverton1](../profile/awoolverton1) April 14, 2022 19:56
 
 April 14, 2022 19:56 | Tags: [air-quality](../tag/air-quality), [air-monitoring](../tag/air-monitoring), [environmental-health](../tag/environmental-health), [zoom:6](../tag/zoom:6), [zoom:10](../tag/zoom:10), [with:travislondon](../tag/with:travislondon), [formosaplastics](../tag/formosaplastics), [lat:30.017929](../tag/lat:30.017929), [lon:-90.791322](../tag/lon:-90.791322), [stjames](../tag/stjames)
+
+----
 
 Last Wednesday, April 6th, our Purple Air monitors showed
 large spikes in concentrations. That same day, residents of St. James parish confirmed,

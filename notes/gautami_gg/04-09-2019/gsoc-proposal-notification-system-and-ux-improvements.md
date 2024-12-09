@@ -8,11 +8,15 @@ uid: 579624
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/031/358/original/1_g5RBYeGe0VLB6t_ZsvO_wQ.png)
+
 # GSoC Proposal : Notification System and UX Improvements
 
 by [gautami_gg](../profile/gautami_gg) April 09, 2019 16:23
 
 April 09, 2019 16:23 | Tags: [gsoc](../tag/gsoc), [gsoc-proposal](../tag/gsoc-proposal), [summer-of-code](../tag/summer-of-code)
+
+----
 
 ###About Me:
 

@@ -3,6 +3,8 @@ uid: 421152
 created_at: 2014-03-01 01:59:07 UTC
 ---
 
+![](https://publiclab.orghttps://www.gravatar.com/avatar/24681bf50d235da702944e23b204039c)
+
 # ewilder
 
 Elisabeth Wilder is a PhD student at Northeastern University. Her research interests center on the oil and gas industry in the United States and abroad. She is a member of the Northeastern Environmental Justice Research Collaborative and the Social Science Environmental Health Research Institute (SSEHRI).

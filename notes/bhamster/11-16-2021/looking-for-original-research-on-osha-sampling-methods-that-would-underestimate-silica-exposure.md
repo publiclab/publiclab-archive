@@ -14,6 +14,8 @@ by [bhamster](../profile/bhamster) November 16, 2021 18:58
 
 November 16, 2021 18:58 | Tags: [question:general](../tag/question:general), [general](../tag/general), [silica-monitoring](../tag/silica-monitoring), [question:silica-monitoring](../tag/question:silica-monitoring)
 
+----
+
 Hi! An inquiry came in about material on the [silica monitoring wiki page](https://publiclab.org/wiki/silica-monitoring#OSHA+sampling), which states:
 
 > The sampling techniques outlined by OSHA for occupational silica exposure would systematically underestimate silica exposure in non-occupational ambient settings

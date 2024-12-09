@@ -8,11 +8,15 @@ uid: 461120
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/015/447/original/prolight_pic_use_this_one_apr9.bmp)
+
 # Analysis of 2 stroke motor oil and 87 Octane gasoline using Prolight 1W UV LED
 
 by [dhaffnersr](../profile/dhaffnersr) April 09, 2016 23:29
 
 April 09, 2016 23:29 | Tags: [spectrometer](../tag/spectrometer), [oil-testing-kit](../tag/oil-testing-kit), [gasoline](../tag/gasoline), [ethanol](../tag/ethanol)
+
+----
 
 Two samples tested today, both prepared with a standard regent recipe of 0.1M NaOH and a 20 percent solution of ethanol (200 proof) 
 

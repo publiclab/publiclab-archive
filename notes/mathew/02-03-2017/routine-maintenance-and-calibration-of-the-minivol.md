@@ -8,11 +8,15 @@ uid: 4
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/019/426/original/20170109_145812.jpg)
+
 # Routine maintenance and calibration of the MiniVol
 
 by [mathew](../profile/mathew) February 03, 2017 02:33
 
 February 03, 2017 02:33 | Tags: [air-quality](../tag/air-quality), [dust](../tag/dust), [silica](../tag/silica), [pm](../tag/pm), [particle-sensing](../tag/particle-sensing), [pm-monitoring](../tag/pm-monitoring), [minivol](../tag/minivol), [activity:minivol](../tag/activity:minivol)
+
+----
 
 _This activity would benefit from images. I have not performed the activity yet and have only compiled instructions from across different sections of the manual. When I replicate this activity, I'll include images._
 

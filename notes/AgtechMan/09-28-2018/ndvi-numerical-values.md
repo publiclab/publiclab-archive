@@ -14,6 +14,8 @@ by [AgtechMan](../profile/AgtechMan) September 28, 2018 08:43
 
 September 28, 2018 08:43 | Tags: [answered](../tag/answered), [question:general](../tag/question:general)
 
+----
+
 Hi, I'd like to purchase the Waterproof Mini Camera (infrared-ready). Will this be suitable for indoor hydroponics farms? Also how do I get the NDVI numerical values? I need the numbers in order to create a data model to predict growth.
 
   

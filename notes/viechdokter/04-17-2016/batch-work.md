@@ -8,11 +8,15 @@ uid: 468990
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/015/619/original/batch_work.jpg)
+
 # Batch work
 
 by [viechdokter](../profile/viechdokter) April 17, 2016 12:30
 
 April 17, 2016 12:30 | Tags: [spectrometer](../tag/spectrometer), [macro](../tag/macro), [serial](../tag/serial), [formats](../tag/formats), [file](../tag/file)
+
+----
 
 @Warren: Hi Warren, yesterday I used your serial capture macro to do another reproducibility test. It worked very well. Thanx again for your coding work! 
 

@@ -8,11 +8,15 @@ uid: 504749
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/024/046/original/upgrade.jpg)
+
 # SoC proposal:RGSOC PROPOSAL: Upgrade to Rails 5.1.5 
 
 by [stella](../profile/stella) March 14, 2018 06:57
 
 March 14, 2018 06:57 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [rgsoc](../tag/rgsoc), [soc](../tag/soc), [response:13975](../tag/response:13975), [gsoc-2018](../tag/gsoc-2018), [soc-2018](../tag/soc-2018), [rgsoc-2018](../tag/rgsoc-2018), [soc-2018-proposals](../tag/soc-2018-proposals), [to_json](../tag/to_json)
+
+----
 
 ######**RGSOC PROPOSAL: Upgrade to Rails 5.1.5**
 [![log.png](https://publiclab.org/system/images/photos/000/023/735/large/log.png)](https://publiclab.org/system/images/photos/000/023/735/original/log.png)

@@ -8,11 +8,15 @@ uid: 426547
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/039/021/original/tortuga_logotipo.jpg)
+
 # Tortuga Guardian
 
 by [GSan](../profile/GSan)
 
 September 16, 2019 11:15 | Tags: [water-quality](../tag/water-quality), [lang:es](../tag/lang:es), [microplastics](../tag/microplastics)
+
+----
 
 ![image description](/i/36766.jpg "tortuga.jpg")
 

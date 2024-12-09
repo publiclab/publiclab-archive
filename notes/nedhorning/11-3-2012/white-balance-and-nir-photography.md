@@ -8,11 +8,15 @@ uid: 133
 
 ---
 
+![](https://publiclab.org/sites/default/files/MixedNIR.jpg.png)
+
 # White balance and NIR photography
 
 by [nedhorning](../profile/nedhorning) November 03, 2012 12:00
 
 November 03, 2012 12:00 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [nir](../tag/nir), [infrared](../tag/infrared), [white-balance](../tag/white-balance)
+
+----
 
 When I first saw the near-infrared (NIR) photos acquired from DIY modifications [<a href="http://publiclaboratory.org/tool/near-infrared-camera">1</a>] on the PLOTS website I was curious why they had a magenta hue to them. Initially I thought the NIR filter was letting in non-NIR light but later realized it was due to improper white balance. This note provides an overview of what white balance is and has some suggestions on how to use white balance in NIR images.  
 

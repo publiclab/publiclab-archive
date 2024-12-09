@@ -14,6 +14,8 @@ by [liz](../profile/liz)
 
 May 07, 2014 15:15 | Tags: [new-york-city](../tag/new-york-city), [staten-island](../tag/staten-island)
 
+----
+
 **Fresh Kills Park is part of [New York City](/wiki/new-york-city) and the [Northeast region](http://publiclab.org/wiki/northeast).**
 
 [![10042924345_f4aa5673f5.jpg](https://i.publiclab.org/system/images/photos/000/004/252/medium/10042924345_f4aa5673f5.jpg)](https://i.publiclab.org/system/images/photos/000/004/252/original/10042924345_f4aa5673f5.jpg)

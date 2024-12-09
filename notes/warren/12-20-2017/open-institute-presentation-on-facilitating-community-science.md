@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/022/983/original/Screenshot_2017-12-20_at_10.59.03_AM.png)
+
 # Open Institute presentation on facilitating community science
 
 by [warren](../profile/warren) December 20, 2017 10:05
 
 December 20, 2017 10:05 | Tags: [open-source](../tag/open-source), [community](../tag/community), [presentations](../tag/presentations), [talk](../tag/talk), [eu](../tag/eu), [facilitation](../tag/facilitation), [madeira](../tag/madeira), [slides](../tag/slides), [portugal](../tag/portugal), [openness](../tag/openness)
+
+----
 
 I gave a talk on Saturday at Open Institute V2 in Madeira, which had the theme of "Open in a Time of Closure" --
 

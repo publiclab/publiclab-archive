@@ -8,11 +8,15 @@ uid: 726270
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/042/081/original/G9zVJXuoW.jpeg)
+
 # Outreachy Blog 1: Intro & Core Values
 
 by [noi5e](../profile/noi5e) December 17, 2020 22:29
 
 December 17, 2020 22:29 | Tags: [zoom:6](../tag/zoom:6), [lat:37.804351](../tag/lat:37.804351), [lon:-122.271163](../tag/lon:-122.271163)
+
+----
 
 **Hi everyone! My name is Will, and I'm one of two Winter 2020 Outreachy Interns with Public Lab.** I just finished two weeks on the job.
 

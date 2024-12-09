@@ -14,4 +14,6 @@ by [marxaj](../profile/marxaj) May 27, 2015 15:25
 
 May 27, 2015 15:25 | Tags: [mapknitter](../tag/mapknitter), [lat:34.1029445251](../tag/lat:34.1029445251), [lon:-117.7127203345](../tag/lon:-117.7127203345)
 
+----
+
 <iframe src="https://mapknitter.org/embed/claremont-uav-20may2015" style="border:none" width="600px" height="400px"></iframe><br /><br />

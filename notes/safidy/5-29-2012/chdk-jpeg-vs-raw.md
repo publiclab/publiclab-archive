@@ -8,11 +8,15 @@ uid: 898
 
 ---
 
+![](https://publiclab.org/sites/default/files/Jpeg Raw.jpg)
+
 # CHDK : Jpeg VS Raw
 
 by [Safidy](../profile/Safidy) May 29, 2012 06:02
 
 May 29, 2012 06:02 | Tags: [kite-mapping](../tag/kite-mapping), [chdk](../tag/chdk), [safidy-andrianantenaina](../tag/safidy-andrianantenaina), [raw](../tag/raw), [first-time-poster](../tag/first-time-poster)
+
+----
 
 I have done some comparison between the Jpeg format and the Raw format from my Canon A800 then I took a picture with my Nikon D5100. So, you can compare it with the others and see wich format is more closer with my Nikon D5100.In my opinion, the Raw is more vivid than the Jpeg.
 <a href="http://chdk.wikia.com/wiki/CHDK">What is CHDK?</a>

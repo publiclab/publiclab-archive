@@ -8,11 +8,15 @@ uid: 1
 
 ---
 
+![](https://publiclab.org/sites/default/files/Are-You-Really-Lost.JPG)
+
 # This is not a thermal photo but it could be...
 
 by [warren](../profile/warren) August 29, 2012 13:28
 
 August 29, 2012 13:28 | Tags: [thermal-photography](../tag/thermal-photography), [thermal-flashlight](../tag/thermal-flashlight)
+
+----
 
 Wired has a feature on light painter [Janne Parviainen](http://jannepaint.wix.com/jannepaint) from Finland, including a gallery of great works. We could definitely learn from his hi-res light painting techniques...
 

@@ -14,6 +14,8 @@ by [anirudhprabhakaran3](../profile/anirudhprabhakaran3) September 09, 2022 11:5
 
 September 09, 2022 11:57 | Tags: [gsoc](../tag/gsoc), [lon:77.2](../tag/lon:77.2), [zoom:10](../tag/zoom:10), [lat:28.6](../tag/lat:28.6)
 
+----
+
 # Hello!
 
 Hi everyone! I am Anirudh Prabhakaran. Over the summer, I have been working with PublicLab as a contributor to the Google Summer of Code (GSoC '22) program. As the end is near, I would like to reminisce about my experience, key takeaways, and how this experience has changed me.

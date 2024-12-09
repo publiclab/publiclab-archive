@@ -8,11 +8,15 @@ uid: 437
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/005/014/original/gacshore_050113_gac_abandoned_bldg_tank_pollutedflat6.jpg)
+
 # Stockton Harbor, Me acid waste site overflight UPDATE
 
 by [ronhuber](../profile/ronhuber) June 29, 2014 01:28
 
 June 29, 2014 01:28 | Tags: [maine](../tag/maine), [northeast](../tag/northeast), [searsport](../tag/searsport), [acid](../tag/acid), [gac](../tag/gac), [sulfuric](../tag/sulfuric), [phosoh](../tag/phosoh), [barnstar:watchdog](../tag/barnstar:watchdog)
+
+----
 
 ### UPDATE Post-flight review of still and video imagery taken July 17, 2014.
 Our Lighthawk flight on  July 17th (thanks, pilot Jim Knowles!) has supplied us with 100s of photographs and a comparatively small amount of video footage. The overflight like last year, documented both the  the GAC Chemical waste site and its surroundings  and the greater West Penobscot Bay  shore from Fort Point at the mouth of  Penobscot River to Rockland Harbor - and back.  The cooperating groundcrew  on the flats didn't come happen. So it goes.

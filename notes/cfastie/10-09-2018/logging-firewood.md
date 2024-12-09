@@ -8,11 +8,15 @@ uid: 554
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/026/853/original/woodstove_20180106-2340.JPG)
+
 # Logging firewood
 
 by [cfastie](../profile/cfastie) October 09, 2018 04:27
 
 October 09, 2018 04:27 | Tags: [arduino](../tag/arduino), [sensors](../tag/sensors), [data-logging](../tag/data-logging), [temperature-sensing](../tag/temperature-sensing), [thermal-infrared](../tag/thermal-infrared), [gy90614](../tag/gy90614), [series:woodstove-control](../tag/series:woodstove-control), [response:15288](../tag/response:15288)
+
+----
 
 Last winter I installed an Arduino data logger next to my woodstove and [logged temperature data](https://publiclab.org/tag/series:woodstove-control) for most of the wood burning season. An infrared sensor pointed at the stove produced an index of how hot the stove was, and the Arduino saved that temperature and some other data every five minutes. The Arduino also turned on and off the stove's internal circulation fan as a function of stove temperature.![image description](/i/26854.jpg "IMG_20180105_123904339.jpg")
 

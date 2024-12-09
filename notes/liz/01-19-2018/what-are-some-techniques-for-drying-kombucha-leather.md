@@ -8,11 +8,15 @@ uid: 7
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/023/269/original/Cottonmeshwet_sml.jpg)
+
 # What are some techniques for drying kombucha leather?
 
 by [liz](../profile/liz) January 19, 2018 20:18
 
 January 19, 2018 20:18 | Tags: [kombucha](../tag/kombucha), [kombucha-leather](../tag/kombucha-leather), [question:kombucha-leather](../tag/question:kombucha-leather)
+
+----
 
 _lead image from http://fashionfuturebyanika.blogspot.com/2011/03/designer-profile-suzanne-lee.html_
 

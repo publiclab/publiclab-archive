@@ -14,6 +14,8 @@ by [warren](../profile/warren), [Aisha](../profile/Aisha), [tech4gt](../profile/
 
 February 02, 2018 16:26 | Tags: [ndvi](../tag/ndvi), [sidebar:none](../tag/sidebar:none), [image-sequencer](../tag/image-sequencer)
 
+----
+
 ## Leaflet plugin
 
 This function has since been integrated into a standard Leaflet plugin, which you can find here:

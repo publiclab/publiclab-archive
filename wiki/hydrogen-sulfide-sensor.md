@@ -8,11 +8,15 @@ uid: 9
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/023/127/original/h2s.jpg)
+
 # Electronic Hydrogen Sulfide Sensors
 
 by [warren](../profile/warren), [gretchengehrke](../profile/gretchengehrke), [HannahJane](../profile/HannahJane), [HannahJG](../profile/HannahJG), [ewilder](../profile/ewilder), [sara](../profile/sara), [Shannon](../profile/Shannon)
 
 November 18, 2011 16:11 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [arduino](../tag/arduino), [agriculture](../tag/agriculture), [h2s](../tag/h2s), [fracking](../tag/fracking), [tool](../tag/tool), [industry](../tag/industry), [method](../tag/method), [chemicals](../tag/chemicals), [oil-and-gas](../tag/oil-and-gas), [parent:hydrogen-sulfide](../tag/parent:hydrogen-sulfide)
+
+----
 
 This page collects information about using electronic sensors for detecting hydrogen sulfide. 
 
@@ -32,18 +36,18 @@ _Arduino and Industrial H2S Sensor_
 
 ## Research notes
 
-[notes:hydrogen-sulfide-sensor]
+[hydrogen-sulfide-sensor](../../tag/hydrogen-sulfide-sensor)
 
 ****
 
 ## Questions
 
-[questions:hydrogen-sulfide-sensor]
+[hydrogen-sulfide-sensor](../../tag/question:hydrogen-sulfide-sensor)
 
 
 ****
 
 ## Activities
 
-[activities:hydrogen-sulfide-sensor]
+[hydrogen-sulfide-sensor](../../tag/activity:hydrogen-sulfide-sensor)
 

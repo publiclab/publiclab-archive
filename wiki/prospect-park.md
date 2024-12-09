@@ -14,4 +14,6 @@ by [liz](../profile/liz)
 
 May 07, 2014 13:51 | Tags: [new-york-city](../tag/new-york-city), [gowanus](../tag/gowanus), [prospect-park](../tag/prospect-park), [spring](../tag/spring)
 
+----
+
 Prospect Park contains groundwater springs that feed the Gowanus to this day. 

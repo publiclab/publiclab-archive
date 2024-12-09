@@ -14,6 +14,8 @@ by [warren](../profile/warren)
 
 February 08, 2011 18:27 | Tags: [balloon-mapping](../tag/balloon-mapping), [curriculum](../tag/curriculum), [lens](../tag/lens)
 
+----
+
 ##Activity: basic lens calculation technique##
 
 Step 1 : Set your camera with intended lens and either no zoom or a static value.

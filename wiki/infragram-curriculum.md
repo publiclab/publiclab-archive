@@ -14,6 +14,8 @@ by [liz](../profile/liz), [mollydanielsson](../profile/mollydanielsson), [amanda
 
 August 09, 2014 00:13 | Tags: [education](../tag/education), [curriculum](../tag/curriculum), [infragram](../tag/infragram)
 
+----
+
 Infrared Curriculum Lessons 
 
 [1: wetlands-water-oil](/wiki/lesson-1-wetlands-water-oil)

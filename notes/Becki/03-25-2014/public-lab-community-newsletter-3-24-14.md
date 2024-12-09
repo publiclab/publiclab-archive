@@ -8,11 +8,15 @@ uid: 46673
 
 ---
 
+![](https://publiclab.org/public/system/images/photos/000/003/384/original/logo.png)
+
 # Public Lab Community Newsletter 3.24.14
 
 by [Becki](../profile/Becki) March 25, 2014 01:00
 
 March 25, 2014 01:00 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
+
+----
 
 
 Happy Monday, everyone! Read on for coverage on open data and citizen science by two Public Lab co-founders, as well as other updates from the community.
